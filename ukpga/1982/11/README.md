@@ -1,0 +1,181 @@
+# Canada Act 1982
+
+1982 c. 11. Enacted 1982-03-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 1982-03-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/11/enacted
+
+## Contents
+
+- [s. 1 Constitution Act, 1982 enacted](section/1.md)
+- [s. 2 Termination of power to legislate for Canada](section/2.md)
+- [s. 3 French version](section/3.md)
+- [s. 4 Short title](section/4.md)
+- SCHEDULE B CONSTITUTION ACT, 1982
+  - Part I Canadian Charter of Rights and Freedoms
+    - Guarantee of Rights and Freedoms
+      - [Sch. B para. 1 Rights and freedoms in Canada](schedule/B/paragraph/1.md)
+    - Fundamental Freedoms
+      - [Sch. B para. 2 Fundamental freedoms](schedule/B/paragraph/2.md)
+    - Democratic Rights
+      - [Sch. B para. 3 Democratic rights of citizens](schedule/B/paragraph/3.md)
+      - [Sch. B para. 4 Maximum duration of legislative bodies](schedule/B/paragraph/4.md)
+      - [Sch. B para. 5 Annual sitting of legislative bodies](schedule/B/paragraph/5.md)
+    - Mobility Rights
+      - [Sch. B para. 6 Mobility of citizens](schedule/B/paragraph/6.md)
+    - Legal Rights
+      - [Sch. B para. 7 Life, liberty and security of person](schedule/B/paragraph/7.md)
+      - [Sch. B para. 8 Search or seizure](schedule/B/paragraph/8.md)
+      - [Sch. B para. 9 Detention or imprisonment](schedule/B/paragraph/9.md)
+      - [Sch. B para. 10 Arrest or detention](schedule/B/paragraph/10.md)
+      - [Sch. B para. 11 Proceedings in criminal and penal matters](schedule/B/paragraph/11.md)
+      - [Sch. B para. 12 Treatment or punishment](schedule/B/paragraph/12.md)
+      - [Sch. B para. 13 Self-crimination](schedule/B/paragraph/13.md)
+      - [Sch. B para. 14 Interpreter](schedule/B/paragraph/14.md)
+    - Equality Rights
+      - [Sch. B para. 15 Equality before and under law and equal protection and benefit of law](schedule/B/paragraph/15.md)
+    - Official Languages of Canada
+      - [Sch. B para. 16 Official languages of Canada](schedule/B/paragraph/16.md)
+      - [Sch. B para. 17 Proceedings of Parliament](schedule/B/paragraph/17.md)
+      - [Sch. B para. 18 Parliamentary statutes and records](schedule/B/paragraph/18.md)
+      - [Sch. B para. 19 Proceedings in courts established by Parliament](schedule/B/paragraph/19.md)
+      - [Sch. B para. 20 Communications by public with federal institutions](schedule/B/paragraph/20.md)
+      - [Sch. B para. 21 Continuation of existing constitutional provisions](schedule/B/paragraph/21.md)
+      - [Sch. B para. 22 Rights and privileges preserved](schedule/B/paragraph/22.md)
+    - Minority Language Educational Rights
+      - [Sch. B para. 23 Language of instruction](schedule/B/paragraph/23.md)
+    - Enforcement
+      - [Sch. B para. 24 Enforcement of guaranteed rights and freedoms](schedule/B/paragraph/24.md)
+    - General
+      - [Sch. B para. 25 Aboriginal rights and freedoms not affected by Charter](schedule/B/paragraph/25.md)
+      - [Sch. B para. 26 Other rights and freedoms not affected by Charter](schedule/B/paragraph/26.md)
+      - [Sch. B para. 27 Multicultural heritage](schedule/B/paragraph/27.md)
+      - [Sch. B para. 28 Rights guaranteed equally to both sexes](schedule/B/paragraph/28.md)
+      - [Sch. B para. 29 Rights respecting certain schools preserved](schedule/B/paragraph/29.md)
+      - [Sch. B para. 30 Application to territories and territorial authorities](schedule/B/paragraph/30.md)
+      - [Sch. B para. 31 Legislative powers not extended](schedule/B/paragraph/31.md)
+    - Application of Charter
+      - [Sch. B para. 32 Application of Charter](schedule/B/paragraph/32.md)
+      - [Sch. B para. 33 Exception where express declaration](schedule/B/paragraph/33.md)
+    - Citation
+      - [Sch. B para. 34 Citation](schedule/B/paragraph/34.md)
+  - Part II Rights of the Aboriginal Peoples of Canada
+    - [Sch. B para. 35 Recognition of existing aboriginal and treaty rights](schedule/B/paragraph/35.md)
+  - Part III Equalization and Regional Disparities
+    - [Sch. B para. 36 Commitment to promote equal opportunities](schedule/B/paragraph/36.md)
+  - Part IV Constitutional Conference
+    - [Sch. B para. 37 Constitutional conference](schedule/B/paragraph/37.md)
+  - Part V Procedure for amending Constitution of Canada
+    - [Sch. B para. 38 General procedure for amending Constitution of Canada](schedule/B/paragraph/38.md)
+    - [Sch. B para. 39 Restriction on proclamation](schedule/B/paragraph/39.md)
+    - [Sch. B para. 40 Compensation](schedule/B/paragraph/40.md)
+    - [Sch. B para. 41 Amendment by unanimous consent](schedule/B/paragraph/41.md)
+    - [Sch. B para. 42 Amendment by general procedure](schedule/B/paragraph/42.md)
+    - [Sch. B para. 43 Amendment of provisions relating to some but not all provinces](schedule/B/paragraph/43.md)
+    - [Sch. B para. 44 Amendments by Parliament](schedule/B/paragraph/44.md)
+    - [Sch. B para. 45 Amendments by provincial legislatures](schedule/B/paragraph/45.md)
+    - [Sch. B para. 46 Initiation of amendment procedures](schedule/B/paragraph/46.md)
+    - [Sch. B para. 47 Amendments without Senate resolution](schedule/B/paragraph/47.md)
+    - [Sch. B para. 48 Advice to issue proclamation](schedule/B/paragraph/48.md)
+    - [Sch. B para. 49 Constitutional conference](schedule/B/paragraph/49.md)
+  - Part VI Amendment to the Constitution Act, 1867
+    - [Sch. B para. 50 Amendment to Constitution Act 1867.](schedule/B/paragraph/50.md)
+    - [Sch. B para. 51 Idem](schedule/B/paragraph/51.md)
+  - Part VII General
+    - [Sch. B para. 52 Primacy of Constitution of Canada](schedule/B/paragraph/52.md)
+    - [Sch. B para. 53 Repeals and new names](schedule/B/paragraph/53.md)
+    - [Sch. B para. 54 Repeal and consequential amendments](schedule/B/paragraph/54.md)
+    - [Sch. B para. 55 French version of Constitution of Canada](schedule/B/paragraph/55.md)
+    - [Sch. B para. 56 English and French versions of certain constitutional texts](schedule/B/paragraph/56.md)
+    - [Sch. B para. 57 English and French versions of this Act](schedule/B/paragraph/57.md)
+    - [Sch. B para. 58 Commencement](schedule/B/paragraph/58.md)
+    - [Sch. B para. 59 Commencement of paragraph 23(1)(a) in respect of Quebec](schedule/B/paragraph/59.md)
+    - [Sch. B para. 60 Short title and citations](schedule/B/paragraph/60.md)
+- SCHEDULE to the CONSTITUTION ACT, 1982
+- SCHEDULE (ANNEXE) A
+  - [Sch. 3 para. 1 Adoption de la Loi constitutionnelle du 1982](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Cessation du pouvoir de légiférer pour le Canada](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Version française](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Titre abrégé](schedule/3/paragraph/4.md)
+- ANNEXE B LOI CONSTITUTIONNELLE DE 1982
+  - Partie I Charte Canadienne Des Droits Et Libertés
+    - Garantie des droits et libertés
+      - [Sch. 4 para. 1 Droits et libertés au Canada](schedule/4/paragraph/1.md)
+    - Libertés fondamentales
+      - [Sch. 4 para. 2 Libertés fondamentales](schedule/4/paragraph/2.md)
+    - Droits démocratiques
+      - [Sch. 4 para. 3 Droits démocratiques des citoyens](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4 Mandat maximal des assemblées](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5 Séance annuelle](schedule/4/paragraph/5.md)
+    - Liberté de circulation et d’établissement
+      - [Sch. 4 para. 6 Liberté de circulation](schedule/4/paragraph/6.md)
+    - Garanties juridiques
+      - [Sch. 4 para. 7 Vie, liberté et sécurité](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8 Fouilles, perquisitions saisies](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9 Détention ou enprisonnement](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10 Arrestation ou détention](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11 Affaires criminelles et pénales](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12 Cruauté](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13 Témoignage incriminant](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14 Interprète](schedule/4/paragraph/14.md)
+    - Droits à l’égalité
+      - [Sch. 4 para. 15 Egalité devant la loi, égalité de bénéfice et protection égale de la loi](schedule/4/paragraph/15.md)
+    - Langues officielles du Canada
+      - [Sch. 4 para. 16 Langues officielles du Canada](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17 Travaux du Parlement](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18 Documents parlementaires](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19 Procédures devant les tribunaux établis par le Parlement](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20 Communications entre les administrés et les institutions fédérales](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21 Maintien en vigueur de certaines dispositions](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22 Droits préservés](schedule/4/paragraph/22.md)
+    - Droits à l’instruction dans la langue de la minorité
+      - [Sch. 4 para. 23 Langue d’instruction](schedule/4/paragraph/23.md)
+    - Recours
+      - [Sch. 4 para. 24 Recours en cas d’atteinte aux droits et libertés](schedule/4/paragraph/24.md)
+    - Dispositions générales
+      - [Sch. 4 para. 25 Maintien des droits et libertés des autochtones](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26 Maintien des autres droits et libertés](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27 Maintien du patrimoine culturel](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28 Egalité de garantie des droits pour les deux sexes](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29 Maintien des droits relatifs à certaines écoles](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30 Application aux territoires](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31 Non-élargissement des compétences législatives](schedule/4/paragraph/31.md)
+    - Application de la charte
+      - [Sch. 4 para. 32 Application de la charte](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33 Dérogation par déclaration expresse](schedule/4/paragraph/33.md)
+    - Titre
+      - [Sch. 4 para. 34 Titre](schedule/4/paragraph/34.md)
+  - Partie II Droits Des Peuples Autochtones Du Canada
+    - [Sch. 4 para. 35 Confirmation des droits existants des peuples autochtones](schedule/4/paragraph/35.md)
+  - Partie III Péréquation et Inégalités Régionales
+    - [Sch. 4 para. 36 Engagements relatifs à l’égalité des chances](schedule/4/paragraph/36.md)
+  - Partie IV Conférence Constitutionnelle
+    - [Sch. 4 para. 37 Conférence constitutionnelle](schedule/4/paragraph/37.md)
+  - Partie V Procédure de Modification de la Constitution du Canada
+    - [Sch. 4 para. 38 Procédure normale de modification](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39 Restriction](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40 Compensation](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41 Consentement unanime](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42 Procédure normale de modification](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43 Modification à l’égard de certaines provinces](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44 Modification par le Parlement](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45 Modification par les législatures](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46 Initiative des procédures](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47 Modification sans résolution du Sénat](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48 Demande de proclamation](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49 Conférence constitutionnelle](schedule/4/paragraph/49.md)
+  - Partie VI Modification de la loi Constitutionnelle de 1867
+    - [Sch. 4 para. 50 Modification de laLoi constitutionnelle de 1867](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51 Idem](schedule/4/paragraph/51.md)
+  - Partie VII Dispositions Générales
+    - [Sch. 4 para. 52 Primauté de la Constitution du Canada](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53 Abrogation et nouveaux titres](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54 Abrogation et modifications qui en découlent](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55 Version française de certains textes constitutionnels](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56 Versions française et anglaise de certains textes constitutionnels](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57 Versions française et anglaise de la présente loi](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58 Entrée en vigueur](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59 Entrée en vigueur de l’alinéa 23(1)(a) pour le Québec](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60 Titres](schedule/4/paragraph/60.md)
+- ANNEXE de la LOI CONSTITUTIONNELLE DE 1982
