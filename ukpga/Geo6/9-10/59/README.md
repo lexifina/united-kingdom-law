@@ -1,0 +1,137 @@
+# Coal Industry Nationalisation Act 1946
+
+1946 c. 59. Enacted 1946-07-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2004-11-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/9-10/59
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/9-10/59/2004-11-28
+
+## Contents
+
+- The National Coal Board
+  - [s. 1 Establishment of National Coal Board and functions thereof.](section/1.md)
+  - [s. 2 Constitution of the Board.](section/2.md)
+  - [s. 3 Powers of the Minister in relation to the Corporation.](section/3.md)
+  - [s. 4 Consumers’ councils.](section/4.md)
+- Transfer of assets to the Board
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 ................................](section/10.md)
+- Financial provisions
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 Temporary borrowing powers of the Board.](section/27.md)
+  - [s. 28 Payments to the Minister by the Corporation.](section/28.md)
+  - [s. 29 Reserve fund of the Board.](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 Board’s accounts and audit thereof.](section/31.md)
+  - [s. 32 Issue of stock in exchange for Coal Commission Stock.](section/32.md)
+  - [s. 33 General provisions as to stock.](section/33.md)
+  - [s. 34 Issues out of the Consolidated Fund for money payments and for advances to the Board.](section/34.md)
+  - [s. 35 Account of Minister’s receipts.](section/35.md)
+- Savings, and provisions consequential on nationalisation
+  - [s. 36 ................................](section/36.md)
+  - [s. 37 Provisions as to superannuation, etc., rights.](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Power to vary trusts of property provided out of the Miners’ Welfare Fund.](section/41.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 Provisions as to Doncaster Drainage District and certain dock etc., undertakings.](section/45.md)
+- Miscellaneous provisions as to the Corporation
+  - [s. 46 Duty of the Corporation as to establishment of machinery for settlement of terms and conditions of employment, etc.](section/46.md)
+  - [s. 47 Corporation not to be exempt from taxation, etc.](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 Provisions as to liability of the Corporation in actions, etc.](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 Annual report of the Corporation.](section/54.md)
+- General
+  - [s. 55 Payment of certain expenses of the Minister out of moneys provided by Parliament.](section/55.md)
+  - [s. 56 Restriction on disclosure of information.](section/56.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59 Provisions as to prosecutions, and as to offences by corporations.](section/59.md)
+  - [s. 60 Service of notices, etc.](section/60.md)
+  - [s. 61 Arbitration under this Act.](section/61.md)
+  - [s. 62 Provisions as to regulations.](section/62.md)
+  - [s. 63 Interpretation.](section/63.md)
+  - [s. 64 Application to Scotland.](section/64.md)
+  - [s. 65 †Short title, extent and repeal.](section/65.md)
+- FIRST SCHEDULE
+  - Part I Assets to be transferred without option
+    - [Sch. FIRST para. 1 Unworked coal and mines of coal (and certain associated minerals).](schedule/FIRST/paragraph/1.md)
+    - [Sch. FIRST para. 2 Collieries, and colliery coke ovens and manufactured fuel plants.](schedule/FIRST/paragraph/2.md)
+    - [Sch. FIRST para. 3 Colliery electricity plants.](schedule/FIRST/paragraph/3.md)
+    - [Sch. FIRST para. 4 Colliery transport loading and storage works.](schedule/FIRST/paragraph/4.md)
+    - [Sch. FIRST para. 5 Colliery merchanting property.](schedule/FIRST/paragraph/5.md)
+    - [Sch. FIRST para. 6 Colliery institutes, etc.](schedule/FIRST/paragraph/6.md)
+    - [Sch. FIRST para. 7 Maintenance, operational, office and general equipment.](schedule/FIRST/paragraph/7.md)
+    - [Sch. FIRST para. 8 Stocks of colliery products.](schedule/FIRST/paragraph/8.md)
+    - [Sch. FIRST para. 9 Certain curtilages and development sites.](schedule/FIRST/paragraph/9.md)
+  - Part II Assets to be transferred at option of the Board or of owners
+    - [Sch. FIRST para. 10 Colliery stores.](schedule/FIRST/paragraph/10.md)
+    - [Sch. FIRST para. 11 Waterworks.](schedule/FIRST/paragraph/11.md)
+    - [Sch. FIRST para. 12 Certain wharves, etc. used for colliery purposes.](schedule/FIRST/paragraph/12.md)
+    - [Sch. FIRST para. 13 Housing property.](schedule/FIRST/paragraph/13.md)
+    - [Sch. FIRST para. 14 Farming property.](schedule/FIRST/paragraph/14.md)
+  - Part III Assets to be transferred at option of the Board or of owners subject to arbitration in case of objection
+    - [Sch. FIRST para. 15 Manufactured fuel plants other than of collieries.](schedule/FIRST/paragraph/15.md)
+    - [Sch. FIRST para. 16 Certain transport, loading and storage works other than of collieries.](schedule/FIRST/paragraph/16.md)
+    - [Sch. FIRST para. 17 Associated merchanting property.](schedule/FIRST/paragraph/17.md)
+    - [Sch. FIRST para. 18 Central rescue stations.](schedule/FIRST/paragraph/18.md)
+    - [Sch. FIRST para. 19 Brickworks.](schedule/FIRST/paragraph/19.md)
+    - [Sch. FIRST para. 20 Curtilages and development sites not within Part I.](schedule/FIRST/paragraph/20.md)
+  - Part IV Other assets to be transferred at option of the Board or of owners subject to arbitration in case of objection
+    - [Sch. FIRST para. 21 Other colliery assets of any kind, except iron and steel works.](schedule/FIRST/paragraph/21.md)
+  - Part V Provisions supplementary to the preceding provisions of this Schedule
+    - [Sch. FIRST para. 22 References to ownership, etc., to be related in general to date for vesting.](schedule/FIRST/paragraph/22.md)
+    - [Sch. FIRST para. 23 Ownership, etc., discontinued since the 1st January, 1946, to be treated as if continued.](schedule/FIRST/paragraph/23.md)
+    - [Sch. FIRST para. 24 Things not in use owned for a given purpose to be treated as if used therefor.](schedule/FIRST/paragraph/24.md)
+    - [Sch. FIRST para. 25 Definitions.](schedule/FIRST/paragraph/25.md)
+    - [Sch. FIRST para. 26 Application to Scotland.](schedule/FIRST/paragraph/26.md)
+- SECOND SCHEDULE
+  - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+  - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+  - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+  - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+- SCHEDULE 2A Eligibility for Superannuation Rights
+  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+- THIRD SCHEDULE
+  - Part I Coal-selling Schemes
+    - Vesting of Interests and Compensation
+      - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+      - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+      - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+    - Contracts
+      - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+    - Winding up, etc.
+      - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+      - [Sch. THIRD para. 6](schedule/THIRD/paragraph/6.md)
+      - [Sch. THIRD para. 7 ................................](schedule/THIRD/paragraph/7.md)
+    - Interpretation
+      - [Sch. THIRD para. 8](schedule/THIRD/paragraph/8.md)
+  - Part II The South Yorkshire Mines Drainage Committee
+    - Vesting of Interests and Dissolution of Committee
+      - [Sch. THIRD para. 9](schedule/THIRD/paragraph/9.md)
+      - [Sch. THIRD para. 10](schedule/THIRD/paragraph/10.md)
+    - Rights and Liabilities
+      - [Sch. THIRD para. 11](schedule/THIRD/paragraph/11.md)
+    - Transitional Provisions
+      - [Sch. THIRD para. 12](schedule/THIRD/paragraph/12.md)
+  - Part III Provisions Supplementary to Parts I and II
+    - [Sch. THIRD para. 13 ................................](schedule/THIRD/paragraph/13.md)
+- FOURTH SCHEDULE................................
