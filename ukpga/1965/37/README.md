@@ -1,0 +1,173 @@
+# Carriage of Goods by Road Act 1965
+
+1965 c. 37. Enacted 1965-08-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 1965-08-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1965/37/enacted
+
+## Contents
+
+- [s. 1 Convention to have force of law.](section/1.md)
+- [s. 2 Designation of High Contracting Parties.](section/2.md)
+- [s. 3 Power of court to take account of other proceedings.](section/3.md)
+- [s. 4 Registration of foreign judgments.](section/4.md)
+- [s. 5 Contribution between carriers.](section/5.md)
+- [s. 6 Actions against High Contracting Parties.](section/6.md)
+- [s. 7 Arbitrations.](section/7.md)
+- [s. 8 Resolution of conflicts between Conventions on carriage of goods.](section/8.md)
+- [s. 8A Amendments consequential on revision of Convention.](section/8A.md)
+- [s. 9 Application to British possessions, etc.](section/9.md)
+- [s. 10 Application to Scotland.](section/10.md)
+- [s. 11 Application to Northern Ireland.](section/11.md)
+- [s. 12 Orders in Council.](section/12.md)
+- [s. 13 Application to Crown.](section/13.md)
+- [s. 14 Short title, interpretation and commencement.](section/14.md)
+- SCHEDULE Convention on the Contract for the International Carriage of Goods by Road
+  - Chapter I Scope of Application
+    - Article 1
+      - [Sch. part 1 crossheading article-1 paragraph 1](schedule/part/1/crossheading/article-1/paragraph/1.md)
+      - [Sch. part 1 crossheading article-1 paragraph 2](schedule/part/1/crossheading/article-1/paragraph/2.md)
+      - [Sch. part 1 crossheading article-1 paragraph 3](schedule/part/1/crossheading/article-1/paragraph/3.md)
+      - [Sch. part 1 crossheading article-1 paragraph 4](schedule/part/1/crossheading/article-1/paragraph/4.md)
+      - [Sch. part 1 crossheading article-1 paragraph 5](schedule/part/1/crossheading/article-1/paragraph/5.md)
+    - Article 2
+      - [Sch. part 1 crossheading article-2 paragraph 1](schedule/part/1/crossheading/article-2/paragraph/1.md)
+      - [Sch. part 1 crossheading article-2 paragraph 2](schedule/part/1/crossheading/article-2/paragraph/2.md)
+  - Chapter II Persons for whom the Carrier is Responsible
+    - Article 3
+  - Chapter III Conclusion and Performance of the Contract of Carriage
+    - Article 4
+    - Article 5
+      - [Sch. part 3 crossheading article-5 paragraph 1](schedule/part/3/crossheading/article-5/paragraph/1.md)
+      - [Sch. part 3 crossheading article-5 paragraph 2](schedule/part/3/crossheading/article-5/paragraph/2.md)
+    - Article 6
+      - [Sch. part 3 crossheading article-6 paragraph 1](schedule/part/3/crossheading/article-6/paragraph/1.md)
+      - [Sch. part 3 crossheading article-6 paragraph 2](schedule/part/3/crossheading/article-6/paragraph/2.md)
+      - [Sch. part 3 crossheading article-6 paragraph 3](schedule/part/3/crossheading/article-6/paragraph/3.md)
+    - Article 7
+      - [Sch. part 3 crossheading article-7 paragraph 1](schedule/part/3/crossheading/article-7/paragraph/1.md)
+      - [Sch. part 3 crossheading article-7 paragraph 2](schedule/part/3/crossheading/article-7/paragraph/2.md)
+      - [Sch. part 3 crossheading article-7 paragraph 3](schedule/part/3/crossheading/article-7/paragraph/3.md)
+    - Article 8
+      - [Sch. part 3 crossheading article-8 paragraph 1](schedule/part/3/crossheading/article-8/paragraph/1.md)
+      - [Sch. part 3 crossheading article-8 paragraph 2](schedule/part/3/crossheading/article-8/paragraph/2.md)
+      - [Sch. part 3 crossheading article-8 paragraph 3](schedule/part/3/crossheading/article-8/paragraph/3.md)
+    - Article 9
+      - [Sch. part 3 crossheading article-9 paragraph 1](schedule/part/3/crossheading/article-9/paragraph/1.md)
+      - [Sch. part 3 crossheading article-9 paragraph 2](schedule/part/3/crossheading/article-9/paragraph/2.md)
+    - Article 10
+    - Article 11
+      - [Sch. part 3 crossheading article-11 paragraph 1](schedule/part/3/crossheading/article-11/paragraph/1.md)
+      - [Sch. part 3 crossheading article-11 paragraph 2](schedule/part/3/crossheading/article-11/paragraph/2.md)
+      - [Sch. part 3 crossheading article-11 paragraph 3](schedule/part/3/crossheading/article-11/paragraph/3.md)
+    - Article 12
+      - [Sch. part 3 crossheading article-12 paragraph 1](schedule/part/3/crossheading/article-12/paragraph/1.md)
+      - [Sch. part 3 crossheading article-12 paragraph 2](schedule/part/3/crossheading/article-12/paragraph/2.md)
+      - [Sch. part 3 crossheading article-12 paragraph 3](schedule/part/3/crossheading/article-12/paragraph/3.md)
+      - [Sch. part 3 crossheading article-12 paragraph 4](schedule/part/3/crossheading/article-12/paragraph/4.md)
+      - [Sch. part 3 crossheading article-12 paragraph 5](schedule/part/3/crossheading/article-12/paragraph/5.md)
+      - [Sch. part 3 crossheading article-12 paragraph 6](schedule/part/3/crossheading/article-12/paragraph/6.md)
+      - [Sch. part 3 crossheading article-12 paragraph 7](schedule/part/3/crossheading/article-12/paragraph/7.md)
+    - Article 13
+      - [Sch. part 3 crossheading article-13 paragraph 1](schedule/part/3/crossheading/article-13/paragraph/1.md)
+      - [Sch. part 3 crossheading article-13 paragraph 2](schedule/part/3/crossheading/article-13/paragraph/2.md)
+    - Article 14
+      - [Sch. part 3 crossheading article-14 paragraph 1](schedule/part/3/crossheading/article-14/paragraph/1.md)
+      - [Sch. part 3 crossheading article-14 paragraph 2](schedule/part/3/crossheading/article-14/paragraph/2.md)
+    - Article 15
+      - [Sch. part 3 crossheading article-15 paragraph 1](schedule/part/3/crossheading/article-15/paragraph/1.md)
+      - [Sch. part 3 crossheading article-15 paragraph 2](schedule/part/3/crossheading/article-15/paragraph/2.md)
+      - [Sch. part 3 crossheading article-15 paragraph 3](schedule/part/3/crossheading/article-15/paragraph/3.md)
+    - Article 16
+      - [Sch. part 3 crossheading article-16 paragraph 1](schedule/part/3/crossheading/article-16/paragraph/1.md)
+      - [Sch. part 3 crossheading article-16 paragraph 2](schedule/part/3/crossheading/article-16/paragraph/2.md)
+      - [Sch. part 3 crossheading article-16 paragraph 3](schedule/part/3/crossheading/article-16/paragraph/3.md)
+      - [Sch. part 3 crossheading article-16 paragraph 4](schedule/part/3/crossheading/article-16/paragraph/4.md)
+      - [Sch. part 3 crossheading article-16 paragraph 5](schedule/part/3/crossheading/article-16/paragraph/5.md)
+  - Chapter IV Liability of the Carrier
+    - Article 17
+      - [Sch. part 4 crossheading article-17 paragraph 1](schedule/part/4/crossheading/article-17/paragraph/1.md)
+      - [Sch. part 4 crossheading article-17 paragraph 2](schedule/part/4/crossheading/article-17/paragraph/2.md)
+      - [Sch. part 4 crossheading article-17 paragraph 3](schedule/part/4/crossheading/article-17/paragraph/3.md)
+      - [Sch. part 4 crossheading article-17 paragraph 4](schedule/part/4/crossheading/article-17/paragraph/4.md)
+      - [Sch. part 4 crossheading article-17 paragraph 5](schedule/part/4/crossheading/article-17/paragraph/5.md)
+    - Article 18
+      - [Sch. part 4 crossheading article-18 paragraph 1](schedule/part/4/crossheading/article-18/paragraph/1.md)
+      - [Sch. part 4 crossheading article-18 paragraph 2](schedule/part/4/crossheading/article-18/paragraph/2.md)
+      - [Sch. part 4 crossheading article-18 paragraph 3](schedule/part/4/crossheading/article-18/paragraph/3.md)
+      - [Sch. part 4 crossheading article-18 paragraph 4](schedule/part/4/crossheading/article-18/paragraph/4.md)
+      - [Sch. part 4 crossheading article-18 paragraph 5](schedule/part/4/crossheading/article-18/paragraph/5.md)
+    - Article 19
+    - Article 20
+      - [Sch. part 4 crossheading article-20 paragraph 1](schedule/part/4/crossheading/article-20/paragraph/1.md)
+      - [Sch. part 4 crossheading article-20 paragraph 2](schedule/part/4/crossheading/article-20/paragraph/2.md)
+      - [Sch. part 4 crossheading article-20 paragraph 3](schedule/part/4/crossheading/article-20/paragraph/3.md)
+      - [Sch. part 4 crossheading article-20 paragraph 4](schedule/part/4/crossheading/article-20/paragraph/4.md)
+    - Article 21
+    - Article 22
+      - [Sch. part 4 crossheading article-22 paragraph 1](schedule/part/4/crossheading/article-22/paragraph/1.md)
+      - [Sch. part 4 crossheading article-22 paragraph 2](schedule/part/4/crossheading/article-22/paragraph/2.md)
+    - Article 23
+      - [Sch. part 4 crossheading article-23 paragraph 1](schedule/part/4/crossheading/article-23/paragraph/1.md)
+      - [Sch. part 4 crossheading article-23 paragraph 2](schedule/part/4/crossheading/article-23/paragraph/2.md)
+      - [Sch. part 4 crossheading article-23 paragraph 3](schedule/part/4/crossheading/article-23/paragraph/3.md)
+      - [Sch. part 4 crossheading article-23 paragraph 4](schedule/part/4/crossheading/article-23/paragraph/4.md)
+      - [Sch. part 4 crossheading article-23 paragraph 5](schedule/part/4/crossheading/article-23/paragraph/5.md)
+      - [Sch. part 4 crossheading article-23 paragraph 6](schedule/part/4/crossheading/article-23/paragraph/6.md)
+      - [Sch. part 4 crossheading article-23 paragraph 7](schedule/part/4/crossheading/article-23/paragraph/7.md)
+    - Article 24
+    - Article 25
+      - [Sch. part 4 crossheading article-25 paragraph 1](schedule/part/4/crossheading/article-25/paragraph/1.md)
+      - [Sch. part 4 crossheading article-25 paragraph 2](schedule/part/4/crossheading/article-25/paragraph/2.md)
+    - Article 26
+      - [Sch. part 4 crossheading article-26 paragraph 1](schedule/part/4/crossheading/article-26/paragraph/1.md)
+      - [Sch. part 4 crossheading article-26 paragraph 2](schedule/part/4/crossheading/article-26/paragraph/2.md)
+    - Article 27
+      - [Sch. part 4 crossheading article-27 paragraph 1](schedule/part/4/crossheading/article-27/paragraph/1.md)
+      - [Sch. part 4 crossheading article-27 paragraph 2](schedule/part/4/crossheading/article-27/paragraph/2.md)
+    - Article 28
+      - [Sch. part 4 crossheading article-28 paragraph 1](schedule/part/4/crossheading/article-28/paragraph/1.md)
+      - [Sch. part 4 crossheading article-28 paragraph 2](schedule/part/4/crossheading/article-28/paragraph/2.md)
+    - Article 29
+      - [Sch. part 4 crossheading article-29 paragraph 1](schedule/part/4/crossheading/article-29/paragraph/1.md)
+      - [Sch. part 4 crossheading article-29 paragraph 2](schedule/part/4/crossheading/article-29/paragraph/2.md)
+  - Chapter V Claims and Actions
+    - Article 30
+      - [Sch. part 5 crossheading article-30 paragraph 1](schedule/part/5/crossheading/article-30/paragraph/1.md)
+      - [Sch. part 5 crossheading article-30 paragraph 2](schedule/part/5/crossheading/article-30/paragraph/2.md)
+      - [Sch. part 5 crossheading article-30 paragraph 3](schedule/part/5/crossheading/article-30/paragraph/3.md)
+      - [Sch. part 5 crossheading article-30 paragraph 4](schedule/part/5/crossheading/article-30/paragraph/4.md)
+      - [Sch. part 5 crossheading article-30 paragraph 5](schedule/part/5/crossheading/article-30/paragraph/5.md)
+    - Article 31
+      - [Sch. part 5 crossheading article-31 paragraph 1](schedule/part/5/crossheading/article-31/paragraph/1.md)
+      - [Sch. part 5 crossheading article-31 paragraph 2](schedule/part/5/crossheading/article-31/paragraph/2.md)
+      - [Sch. part 5 crossheading article-31 paragraph 3](schedule/part/5/crossheading/article-31/paragraph/3.md)
+      - [Sch. part 5 crossheading article-31 paragraph 4](schedule/part/5/crossheading/article-31/paragraph/4.md)
+      - [Sch. part 5 crossheading article-31 paragraph 5](schedule/part/5/crossheading/article-31/paragraph/5.md)
+    - Article 32
+      - [Sch. part 5 crossheading article-32 paragraph 1](schedule/part/5/crossheading/article-32/paragraph/1.md)
+      - [Sch. part 5 crossheading article-32 paragraph 2](schedule/part/5/crossheading/article-32/paragraph/2.md)
+      - [Sch. part 5 crossheading article-32 paragraph 3](schedule/part/5/crossheading/article-32/paragraph/3.md)
+      - [Sch. part 5 crossheading article-32 paragraph 4](schedule/part/5/crossheading/article-32/paragraph/4.md)
+    - Article 33
+  - Chapter Vi Provisions Relating to Carriage Performed by Successive Carriers
+    - Article 34
+    - Article 35
+      - [Sch. part 6 crossheading article-35 paragraph 1](schedule/part/6/crossheading/article-35/paragraph/1.md)
+      - [Sch. part 6 crossheading article-35 paragraph 2](schedule/part/6/crossheading/article-35/paragraph/2.md)
+    - Article 36
+    - Article 37
+    - Article 38
+    - Article 39
+      - [Sch. part 6 crossheading article-39 paragraph 1](schedule/part/6/crossheading/article-39/paragraph/1.md)
+      - [Sch. part 6 crossheading article-39 paragraph 2](schedule/part/6/crossheading/article-39/paragraph/2.md)
+      - [Sch. part 6 crossheading article-39 paragraph 3](schedule/part/6/crossheading/article-39/paragraph/3.md)
+      - [Sch. part 6 crossheading article-39 paragraph 4](schedule/part/6/crossheading/article-39/paragraph/4.md)
+    - Article 40
+  - Chapter VII Nullity of Stipulations Contrary to the Convention
+    - Article 41
+      - [Sch. part 7 crossheading article-41 paragraph 1](schedule/part/7/crossheading/article-41/paragraph/1.md)
+      - [Sch. part 7 crossheading article-41 paragraph 2](schedule/part/7/crossheading/article-41/paragraph/2.md)
+  - Protocol of Signature
+    - [Sch. part 8 paragraph 1](schedule/part/8/paragraph/1.md)
