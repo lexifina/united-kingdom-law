@@ -1,0 +1,339 @@
+# Police and Magistrates’ Courts Act 1994
+
+1994 c. 29. Enacted 1994-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 1994-07-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/29
+
+Source: https://www.legislation.gov.uk/ukpga/1994/29/1994-07-21
+
+## Contents
+
+- Part I POLICE
+  - Chapter I PRINCIPAL AMENDMENTS OF POLICE ACT 1964
+    - Police areas
+      - [s. 1 ................................](section/1.md)
+    - Forces outside London
+      - [s. 2 ................................](section/2.md)
+      - [s. 3 ................................](section/3.md)
+      - [s. 4 ................................](section/4.md)
+      - [s. 5 ................................](section/5.md)
+      - [s. 6 ................................](section/6.md)
+      - [s. 7 ................................](section/7.md)
+      - [s. 8 ................................](section/8.md)
+      - [s. 9 ................................](section/9.md)
+      - [s. 10 ................................](section/10.md)
+      - [s. 11 ................................](section/11.md)
+      - [s. 12 ................................](section/12.md)
+    - General
+      - [s. 13 ................................](section/13.md)
+      - [s. 14 ................................](section/14.md)
+      - [s. 15 ................................](section/15.md)
+      - [s. 16 ................................](section/16.md)
+      - [s. 17 ................................](section/17.md)
+      - [s. 18 ................................](section/18.md)
+      - [s. 19 ................................](section/19.md)
+      - [s. 20 ................................](section/20.md)
+      - [s. 21 ................................](section/21.md)
+      - [s. 22 ................................](section/22.md)
+      - [s. 23 ................................](section/23.md)
+      - [s. 24 ................................](section/24.md)
+      - [s. 25 ................................](section/25.md)
+      - [s. 26 ................................](section/26.md)
+  - Chapter II OTHER PROVISIONS ABOUT THE POLICE
+    - Financial provisions
+      - [s. 27 Precepts.](section/27.md)
+      - [s. 28 ................................](section/28.md)
+      - [s. 29 ................................](section/29.md)
+      - [s. 30 Revenue accounts and capital finance.](section/30.md)
+      - [s. 31 Financial administration.](section/31.md)
+      - [s. 32 ................................](section/32.md)
+      - [s. 33 Validation of past grants.](section/33.md)
+    - Complaints against and conduct of police officers
+      - [s. 34 ................................](section/34.md)
+      - [s. 35 ................................](section/35.md)
+      - [s. 36 ................................](section/36.md)
+      - [s. 37 ................................](section/37.md)
+      - [s. 38 ................................](section/38.md)
+    - Reorganisation of local government
+      - [s. 39 Police areas in England: alterations under Local Government Act 1992.](section/39.md)
+      - [s. 40 Police areas in Wales: alterations under Local Government Act 1972.](section/40.md)
+    - Miscellaneous
+      - [s. 41 Metropolitan police: assistant commissioners.](section/41.md)
+      - [s. 42 Application of Firearms Act 1968 to civilian staff.](section/42.md)
+      - [s. 43 Application to police authorities of enactments relating to local authorities etc.](section/43.md)
+      - [s. 44 Minor and consequential amendments.](section/44.md)
+      - [s. 45 ................................](section/45.md)
+      - [s. 46 Interpretation of Part I.](section/46.md)
+- Part II POLICE (SCOTLAND)
+  - [s. 47 Constitution of police force.](section/47.md)
+  - [s. 48 Deputy and assistant chief constables.](section/48.md)
+  - [s. 49 Civilian employees.](section/49.md)
+  - [s. 50 Provision of advice and assistance to international organisations etc.](section/50.md)
+  - [s. 51 Chief constables’ annual reports.](section/51.md)
+  - [s. 52 Regulations for police forces.](section/52.md)
+  - [s. 53 Fixed term appointments etc.](section/53.md)
+  - [s. 54 Power of Secretary of State to give directions to police authorities.](section/54.md)
+  - [s. 55 Appeals against dismissal etc.](section/55.md)
+  - [s. 56 Expenditure in safeguarding national security.](section/56.md)
+  - [s. 57 Duty of inspectors of constabulary.](section/57.md)
+  - [s. 58 Assistant inspectors of constabulary and staff officers to inspectors of constabulary.](section/58.md)
+  - [s. 59 Common services.](section/59.md)
+  - [s. 60 Constables engaged on service outside their force.](section/60.md)
+  - [s. 61 Examination of handling of complaints against constables.](section/61.md)
+  - [s. 62 Transmission of criminal statistics.](section/62.md)
+  - [s. 63 Other amendments of 1967 Act.](section/63.md)
+  - [s. 64 Delegation of functions of Scottish police authority.](section/64.md)
+  - [s. 65 Interpretation of Part II.](section/65.md)
+- Part III
+  - [s. 66 Regulations for administration, etc. of Royal Ulster Constabulary.](section/66.md)
+  - [s. 67 ................................](section/67.md)
+  - [s. 68 Minor and consequential amendments.](section/68.md)
+- Part IV
+  - Magistrates’ courts committees
+    - [s. 69 Alteration of magistrates’ courts committee areas.](section/69.md)
+    - [s. 70 Constitution of magistrates’ courts committees.](section/70.md)
+    - [s. 71 Regulations as to constitution etc. of magistrates’ courts committees.](section/71.md)
+    - [s. 72 Supplementary provisions as to magistrates’ courts committees.](section/72.md)
+    - [s. 73 General powers and duties of magistrates’ courts committees.](section/73.md)
+    - [s. 74 Reports and plans.](section/74.md)
+  - Justices’ chief executives, justices’ clerks and staff
+    - [s. 75 Appointment and functions of justices’ chief executive.](section/75.md)
+    - [s. 76 Appointment and removal of justices’ clerks.](section/76.md)
+    - [s. 77 Justices’ chief executives and justices’ clerks to be employed under contracts of service.](section/77.md)
+    - [s. 78 Independence of justices’ clerk and staff in relation to legal functions.](section/78.md)
+  - Inner London area
+    - [s. 79 Magistrates’ courts committee for inner London area.](section/79.md)
+    - [s. 80 Organisation of justices’ clerks in inner London area.](section/80.md)
+    - [s. 81 Division of work in inner London area.](section/81.md)
+    - [s. 82 Pensions etc. of justices’ chief executive, justices’ clerks and staff in inner London area.](section/82.md)
+  - Administrative and financial arrangements
+    - [s. 83 Administrative and financial arrangements for magistrates’ courts.](section/83.md)
+    - [s. 84 Local authority land appropriated to magistrates’ courts purposes.](section/84.md)
+    - [s. 85 Regulations as to accounts and audit.](section/85.md)
+  - Inspectors of the magistrates’ courts service
+    - [s. 86 Inspectors of the magistrates’ courts service.](section/86.md)
+    - [s. 87 Powers of inspectors.](section/87.md)
+  - Default powers
+    - [s. 88 Default powers.](section/88.md)
+  - Studies by Audit Commission
+    - [s. 89 Studies by Audit Commission.](section/89.md)
+  - General
+    - [s. 90 Regulations under Justices of the Peace Act 1979.](section/90.md)
+    - [s. 91 Minor and consequential amendments.](section/91.md)
+    - [s. 92 Interpretation of Part IV.](section/92.md)
+- Part V Supplementary
+  - [s. 93 Repeals.](section/93.md)
+  - [s. 94 Commencement and transitional provisions.](section/94.md)
+  - [s. 95 ................................](section/95.md)
+  - [s. 96 Extent.](section/96.md)
+  - [s. 97 Short title.](section/97.md)
+- SCHEDULE 1
+- SCHEDULE 2
+- SCHEDULE 3
+- SCHEDULE 4 APPLICATION TO POLICE AUTHORITIES OF ENACTMENTS RELATING TO LOCAL AUTHORITIES
+  - Part I AMENDMENTS OF LOCAL GOVERNMENT ENACTMENTS
+    - Local Government (Records) Act 1962
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Local Government Act 1966
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Local Government Grants (Social Need) Act 1969
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Local Authorities (Goods and Services) Act 1970
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Local Government Act 1972
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Local Government Act 1974
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Local Government (Miscellaneous Provisions) Act 1976
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Local Government, Planning and Land Act 1980
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Local Government (Miscellaneous Provisions) Act 1982
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Local Government Finance Act 1982
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Local Government Act 1986
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Local Government Act 1988
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - Local Government Finance Act 1988
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Local Government and Housing Act 1989
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - Local Government Finance Act 1992
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+  - Part II AMENDMENTS OF OTHER ENACTMENTS
+    - Trustee Investments Act 1961
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - Leasehold Reform Act 1967
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - Post Office Act 1969
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - Employment Agencies Act 1973
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - Race Relations Act 1976
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - Rent (Agriculture) Act 1976
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - Rent Act 1977
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - Justices of the Peace Act 1979
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - Acquisition of Land Act 1981
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - Stock Transfer Act 1982
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - County Courts Act 1984
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - Housing Act 1985
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - Housing Associations Act 1985
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - Landlord and Tenant Act 1985
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - Landlord And Tenant Act 1987
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - Housing Act 1988
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - Town and Country Planning Act 1990
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+- SCHEDULE 5 POLICE: MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Part I
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part II AMENDMENT OF OTHER ENACTMENTS
+    - Offices, Shops and Railway Premises Act 1963
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Pensions (Increase) Act 1971
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Overseas Pensions Act 1973
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Police Pensions Act 1976
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Police Negotiating Board Act 1980
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Finance Act 1981
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Aviation Security Act 1982
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - Public Order Act 1986
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - Channel Tunnel Act 1987
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - Tribunals and Inquiries Act 1992
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+- SCHEDULE 6 SCHEDULE TO BE INSERTED IN POLICE (SCOTLAND) ACT 1967: APPEALS TRIBUNALS
+- SCHEDULE 7
+- SCHEDULE 8 MAGISTRATES’ COURTS: MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Part I
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Part II AMENDMENTS OF OTHER ENACTMENTS
+    - London Building Acts (Amendment) Act 1939
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - Superannuation (Miscellaneous Provisions) Act 1967
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Pensions (Increase) Act 1971
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Juries Act 1974
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Domestic Proceedings and Magistrates’ Courts Act 1978
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Magistrates’ Courts Act 1980
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - Road Traffic Offenders Act 1988
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - Criminal Justice Act 1991
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - Local Government Finance Act 1992
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+- SCHEDULE 9 REPEALS
+  - Part I POLICE
+    - Act of the Parliament of Northern Ireland
+  - Part II Magistrates’ courts
