@@ -1,0 +1,166 @@
+# Nurses, Midwives and Health Visitors Act 1979
+
+1979 c. 36. Enacted 1979-04-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2005-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1979/36/2005-04-01
+
+## Contents
+
+- The Central Council
+  - [s. 1 Constitution of Central Council.](section/1.md)
+  - [s. 2 Functions of Council.](section/2.md)
+  - [s. 3 Standing committees of Council](section/3.md)
+  - [s. 4 The Midwifery Committee.](section/4.md)
+- The National Boards and their relationship to the Central Council
+  - [s. 5 Constitution of National Boards.](section/5.md)
+  - [s. 6 Functions of Boards.](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+- Registration
+  - [s. 10 The professional register.](section/10.md)
+  - [s. 11 Admission to register.](section/11.md)
+  - [s. 11A Deemed registration of visiting EEC nurses and midwives.](section/11A.md)
+  - [s. 12 Removed from, and restoration to, register.](section/12.md)
+  - [s. 12A Cautions.](section/12A.md)
+  - [s. 13 Appeals.](section/13.md)
+  - [s. 14 False claim of professional qualification.](section/14.md)
+- Miscellaneous provisions about midwifery
+  - [s. 15 Rules as to midwifery practice.](section/15.md)
+  - [s. 16 Local supervision of midwifery practice.](section/16.md)
+  - [s. 17 Attendance by unqualified persons at childbirth.](section/17.md)
+  - [s. 18 Jury service in Scotland.](section/18.md)
+- Financial provisions
+  - [s. 19 Finances of Council and Boards.](section/19.md)
+  - [s. 20 Accounts of Council and Boards.](section/20.md)
+- Miscellaneous and general
+  - [s. 21 Dissolution of existing bodies, etc.](section/21.md)
+  - [s. 22 Central Council rules.](section/22.md)
+  - [s. 22A Community documents.](section/22A.md)
+  - [s. 22B Visiting EEC nurses and midwives.](section/22B.md)
+  - [s. 23 Interpretation and supplementary.](section/23.md)
+  - [s. 24 Citation, etc.](section/24.md)
+- Schedule 1 Constitution etc. of Central Council
+  - Variation of membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Variation of electoral scheme
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tenure of office of members and president etc.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Procedure
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Remuneration, allowances and pensions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Documents
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 1 Constitution etc. of Central Council
+  - PART I Nomination of members of Central Council by National Boards
+  - Part II Other provisions with respect to constitution etc. of Central Council
+- SCHEDULE 2 Constitution etc. of National Boards
+  - Part I Nomination of members of Central Council by National Boards
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part II Other provisions with respect to National Boards
+    - Tenure of office of members and chairmen
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Procedure
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Remuneration, allowances and pensions
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Documents
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Proceedings before Council and committees
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Transitional provisions, etc.
+  - Part I Transfer of property and staff etc. from existing bodies
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Part II Continuation of disciplinary proceedings
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Adaptations for Northern Ireland and its National Board
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Amendments of Enactments
+  - Nursing Homes Registration (Scotland) Act 1938 (c. 73)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Nurses (Scotland) Act 1951 (c.55)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Births and Deaths Registration Act 1953 (c. 20)
+    - [Sch. 7 para. 6A](schedule/7/paragraph/6A.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Nurses Agencies Act 1957 (c.16)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Health Visiting and Social Work (Training) Act 1962 (c. 33)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c.49)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Medicines Act 1968 (c. 67)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Commissioner for Complaints Act (Northern Ireland) 1969 (c. 25 N.I.)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Nursing Homes and Nursing Agencies Act (Northern Ireland) 1971 (c.32 N.I.)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - National Health Service Act 1977 (c.49)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Interpretation Act 1978 (c. 30)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+  - Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+  - Health and Personal Social Services Order (Northern Ireland) 1972 (S.I. 1972/1265 (N.I.14))
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+  - Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+  - Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+  - Industrial Relations (No.2) (Northern Ireland) Order 1976 (S.I. 1976/2147 (N.I. 28))
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+- SCHEDULE 8 Repeals
