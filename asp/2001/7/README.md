@@ -1,0 +1,124 @@
+# Convention Rights (Compliance) (Scotland) Act 2001
+
+asp/2001/7. Enacted 2001-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2001-07-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2001/7/2001-07-27
+
+## Contents
+
+- PART 1 PRISONERS AND PAROLE
+  - [s. 1 Release of life prisoners](section/1.md)
+  - [s. 2 Amendment of Criminal Procedure (Scotland) Act 1995](section/2.md)
+  - [s. 3 Amendment of provisions relating to transferred life prisoners](section/3.md)
+  - [s. 4 Transitional provisions](section/4.md)
+- PART 2 CONSTITUTION OF PAROLE BOARD FOR SCOTLAND
+  - [s. 5 Appointment and removal of Parole Board members](section/5.md)
+- PART 3 LEGAL AID
+  - [s. 6 Extension of advice and assistance and civil legal aid under Legal Aid (Scotland) Act 1986](section/6.md)
+  - [s. 7 Fixed payments for criminal legal assistance: exceptional cases](section/7.md)
+  - [s. 8 Criminal legal assistance: retrospective revision of fixed payments regulations](section/8.md)
+  - [s. 9 Employment of solicitors by Scottish Legal Aid Board: further provisions](section/9.md)
+- PART 4 HOMOSEXUAL OFFENCES
+  - [s. 10 Repeal of section 13(2)(a) of the Criminal Law (Consolidation) (Scotland) Act 1995](section/10.md)
+- PART 5 PROCURATOR FISCAL OF THE LYON COURT
+  - [s. 11 Appointment of procurator fiscal of the Lyon Court](section/11.md)
+- PART 6 POWER TO MAKE REMEDIAL ORDERS
+  - [s. 12 Remedial orders](section/12.md)
+  - [s. 13 Procedure for remedial orders: general](section/13.md)
+  - [s. 14 Procedure for remedial orders: urgent cases](section/14.md)
+- PART 7 GENERAL PROVISIONS
+  - [s. 15 Short title and commencement](section/15.md)
+- SCHEDULE TRANSITIONAL PROVISIONS
+  - PART 1 EXISTING LIFE PRISONERS
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 7A](schedule/paragraph/7A.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - [Sch. paragraph 23](schedule/paragraph/23.md)
+    - [Sch. paragraph 24](schedule/paragraph/24.md)
+    - [Sch. paragraph 25](schedule/paragraph/25.md)
+    - [Sch. paragraph 26](schedule/paragraph/26.md)
+  - PART 2 EXISTING DESIGNATED LIFE PRISONERS
+    - [Sch. paragraph 27](schedule/paragraph/27.md)
+    - [Sch. paragraph 28](schedule/paragraph/28.md)
+    - [Sch. paragraph 29](schedule/paragraph/29.md)
+    - [Sch. paragraph 30](schedule/paragraph/30.md)
+  - PART 3 EXISTING LIFE PRISONERS RECOMMENDED FOR RELEASE
+    - [Sch. paragraph 31](schedule/paragraph/31.md)
+    - [Sch. paragraph 32](schedule/paragraph/32.md)
+    - [Sch. paragraph 33](schedule/paragraph/33.md)
+    - [Sch. paragraph 34](schedule/paragraph/34.md)
+    - [Sch. paragraph 35](schedule/paragraph/35.md)
+    - [Sch. paragraph 36](schedule/paragraph/36.md)
+    - [Sch. paragraph 37](schedule/paragraph/37.md)
+    - [Sch. paragraph 38](schedule/paragraph/38.md)
+    - [Sch. paragraph 39](schedule/paragraph/39.md)
+    - [Sch. paragraph 40](schedule/paragraph/40.md)
+    - [Sch. paragraph 41](schedule/paragraph/41.md)
+    - [Sch. paragraph 42](schedule/paragraph/42.md)
+    - [Sch. paragraph 43](schedule/paragraph/43.md)
+    - [Sch. paragraph 44](schedule/paragraph/44.md)
+    - [Sch. paragraph 45](schedule/paragraph/45.md)
+    - [Sch. paragraph 46](schedule/paragraph/46.md)
+    - [Sch. paragraph 47](schedule/paragraph/47.md)
+    - [Sch. paragraph 48](schedule/paragraph/48.md)
+  - PART 4 TRANSFERRED LIFE PRISONERS
+    - [Sch. paragraph 49](schedule/paragraph/49.md)
+    - [Sch. paragraph 49A](schedule/paragraph/49A.md)
+    - [Sch. paragraph 50](schedule/paragraph/50.md)
+    - [Sch. paragraph 51](schedule/paragraph/51.md)
+    - [Sch. paragraph 52](schedule/paragraph/52.md)
+    - [Sch. paragraph 53](schedule/paragraph/53.md)
+    - [Sch. paragraph 54](schedule/paragraph/54.md)
+    - [Sch. paragraph 55](schedule/paragraph/55.md)
+    - [Sch. paragraph 56](schedule/paragraph/56.md)
+    - [Sch. paragraph 57](schedule/paragraph/57.md)
+    - [Sch. paragraph 58](schedule/paragraph/58.md)
+    - [Sch. paragraph 59](schedule/paragraph/59.md)
+    - [Sch. paragraph 60](schedule/paragraph/60.md)
+    - [Sch. paragraph 61](schedule/paragraph/61.md)
+    - [Sch. paragraph 62](schedule/paragraph/62.md)
+    - [Sch. paragraph 63](schedule/paragraph/63.md)
+    - [Sch. paragraph 64](schedule/paragraph/64.md)
+    - [Sch. paragraph 65](schedule/paragraph/65.md)
+    - [Sch. paragraph 66](schedule/paragraph/66.md)
+    - [Sch. paragraph 67](schedule/paragraph/67.md)
+    - [Sch. paragraph 68](schedule/paragraph/68.md)
+    - [Sch. paragraph 69](schedule/paragraph/69.md)
+    - [Sch. paragraph 70](schedule/paragraph/70.md)
+    - [Sch. paragraph 71](schedule/paragraph/71.md)
+    - [Sch. paragraph 72](schedule/paragraph/72.md)
+    - [Sch. paragraph 73](schedule/paragraph/73.md)
+    - [Sch. paragraph 74](schedule/paragraph/74.md)
+  - PART 5 LIFE PRISONERS TRANSFERRED UNDER THE MENTAL HEALTH ACTS
+    - [Sch. paragraph 75](schedule/paragraph/75.md)
+    - [Sch. paragraph 76](schedule/paragraph/76.md)
+    - [Sch. paragraph 77](schedule/paragraph/77.md)
+    - [Sch. paragraph 78](schedule/paragraph/78.md)
+  - PART 6 EXISTING MEMBERS OF THE PAROLE BOARD
+    - [Sch. paragraph 79](schedule/paragraph/79.md)
+    - [Sch. paragraph 80](schedule/paragraph/80.md)
+    - [Sch. paragraph 81](schedule/paragraph/81.md)
+    - [Sch. paragraph 82](schedule/paragraph/82.md)
+    - [Sch. paragraph 83](schedule/paragraph/83.md)
