@@ -1,0 +1,126 @@
+# Social Security and Housing Benefits Act 1982
+
+1982 c. 24. Enacted 1982-06-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 1982-06-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/24/enacted
+
+## Contents
+
+- Part I Statutory Sick Pay
+  - [s. 1 ................................](section/1.md)
+  - The qualifying conditions
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Limitations on entitlement, etc.
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+  - Rate of payment, etc.
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+  - Relationship with benefits and other payments, etc.
+    - [s. 10.. Relationship with benefits and other payments, etc.](section/10.md)
+  - Determination of questions
+    - [s. 1116. ................................](section/1116.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 1921. ................................](section/1921.md)
+  - Miscellaneous
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 23A ................................](section/23A.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+- Part II
+  - [s. 2836. ................................](section/2836.md)
+- Part III Miscellaneous
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 Industrial injuries.](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Recovery of sums due to Secretary of State.](section/41.md)
+  - [s. 42 Up-rating regulations.](section/42.md)
+  - [s. 43 War pensions.](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 Regulations.](section/45.md)
+  - [s. 46 Expenses.](section/46.md)
+  - [s. 47 Interpretation.](section/47.md)
+  - [s. 48 Short title etc.](section/48.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Relationship With Benefits and Other Payments, Etc.
+  - The general principle
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Contractual remuneration
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Sickness and unemployment benefit
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 711.](schedule/2/paragraph/711.md)
+  - Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 ...
+- SCHEDULE 4 Amendments and Transitional Provisions
+  - Part I MINOR AND CONSEQUENTIAL AMENDMENTS
+    - National Assistance Act 1948 (c. 29)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Industrial Training Act 1964 (c. 16)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 45.](schedule/4/paragraph/45.md)
+    - Housing Fiannce Act 1972 (c. 47)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - National Insurance Act 1974 (c. 14)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Social Security Act 1975 (c. 14)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Industrial Injuries and Diseases (Old Cases) Act 1975 (c. 16)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Social Security Pensions Act 1975 (c. 60)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 2228](schedule/4/paragraph/2228.md)
+    - Employment Protection (Consolidation) Act 1978 (c. 44)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Social Security Act 1980 (c. 30)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - Social Security (No. 2) Act 1980 (c. 39)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Local Government, Planning and Land Act 1980 (c. 65)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - Industrial Training Act 1982 (c. 10)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+  - Part II Transitionals
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+- SCHEDULE 5 REPEALS
