@@ -1,0 +1,12 @@
+---
+title: Duchy of Cornwall (No. 2) Act 1844, s. XL
+heading: Award to be conclusive in all future Questions as to the Subject Matters thereof.
+status: In force
+extent:
+version: 1844-08-09
+source: https://www.legislation.gov.uk/ukpga/Vict/7-8/105/section/XL/1844-08-09
+---
+
+# XL Award to be conclusive in all future Questions as to the Subject Matters thereof.
+
+After such Award shall have been made and executed by the said Commissioners the same shall for all Purposes be binding and conclusive as to the Subject Matters thereof on the Duke of Cornwall and all other Persons whomsoever; and if at any Time afterwards any Question or Dispute shall arise between the Duke of Cornwall and any other Person as to whether any Lands or Tenements within the said Manors mentioned in the said First and Second Schedules hereunto annexed were, on the said First Day of May One thousand eight hundred and forty-four, or at any Time within One hundred Years before, held of the same Manors respectively as Conventionary Tenements, or for what previous Time within such Period the same were so held, or as to the Boundaries, Identity, or Situation thereof, or as to what waste or other Lands, Mines, Minerals, Stone, Substrata, or Hereditaments lying within the same Manors respectively belong to the Duke of Cornwall, or the Boundaries, Identity, or Situation thereof, or as to the Boundaries or Extent of any of the said Manors, or as to what Lands, Mines, Minerals, Stone, Substrata, and Hereditaments within the said Manors respectively belong to the Duke of Cornwall, and the Boundaries, Identity, and Situation thereof respectively, or as to any annual Sum by the said Award directed to be payable, or the Lands, Tenements, or Hereditaments out of which the same shall be payable, or as to any other Matter or Thing which shall, in pursuance of the Directions of this Act, be distinguished, specified, or determined in or by such Award, or any Map thereto, then every such Question and Dispute shall (so far as possible) be decided exclusively and absolutely by such Award or Map; and a Copy thereof, or of so much thereof as relates to the Subject in dispute, certified to be a true Copy under the Hand of any Officer in whose Custody any Part of such Award or Map shall be in pursuance of this Act as aforesaid, shall be admitted and received in all Actions, Suits, and Proceedings in any Court of Law or Equity, or before any Justice of the Peace or other Jurisdiction, as primary Evidence of so much of the said Award as the said Copy purports to certify.

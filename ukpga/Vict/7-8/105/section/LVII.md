@@ -1,0 +1,12 @@
+---
+title: Duchy of Cornwall (No. 2) Act 1844, s. LVII
+heading: Compensation to be paid to the Person in possession or receipt of the Rents and Profits;
+status: In force
+extent:
+version: 1844-08-09
+source: https://www.legislation.gov.uk/ukpga/Vict/7-8/105/section/LVII/1844-08-09
+---
+
+# LVII Compensation to be paid to the Person in possession or receipt of the Rents and Profits;
+
+For the Purposes of this Act the Person entitled to claim and receive and agree upon the Amount of all Compensation for Damage done to such Lands or Tenements or Water as aforesaid, shall be the Person for the Time being in possession or in the receipt of the Rents and Profits of the Lands or Tenements or Water in or to which such Damage shall be done; and all such Compensation shall be received and held by such Person for the Benefit of himself and of the other Person (if any) having any Estates or Interests in the said Lands or Tenements or Water, according to their respective Estates and Interests therein; and the Receipt of such Person shall be a sufficient Discharge for the Compensation aforesaid, and shall exonerate the Person paying the same from being bound to see to the Title of the Person receiving the same, or to the Application thereof: Provided always nevertheless, that where the Lands or Tenements or Water to which Damage shall be done as aforesaid shall be in the Possession of any Lessee or Occupier at Rack Rent, or of any Lessee or Occupier not having a greater Estate or Interest therein than a Term of Twenty-one Years, such Lessee or Occupier shall not be deemed to be the Person in possession of such Lands or Tenements or Water, for the Purpose of receiving all Compensation as aforesaid, but shall be entitled to claim and receive Compensation for the Damage done to his Interest in such Lands or Tenements or Water, separately from the Compensation to be paid as herein-before is provided to the Person for the Time being in the Receipt of the Rents and Profits of the same Lands and Tenements or Water; and the Person who shall be in receipt of such Rack Rent or the other Rent payable by such Lessee or Occupier, or (if there be no Rent, then) the Person entitled to such Lands and Tenements in reversion or remainder immediately expectant on the Determination of the Term or Interest of such Lessee or Occupier, shall be deemed the Person for the Time being in possession or in receipt of the Rents and Profits for the Purposes of this Act.
