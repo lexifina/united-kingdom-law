@@ -1,0 +1,125 @@
+# Arbitration (International Investment Disputes) Act 1966
+
+1966 c. 41. Enacted 1966-12-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 1966-12-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1966/41/enacted
+
+## Contents
+
+- Enforcement of Convention awards
+  - [s. 1 Registration of Convention awards.](section/1.md)
+  - [s. 2 Effect of registration.](section/2.md)
+- Procedural provisions
+  - [s. 3 Application of provisions of Arbitration Act 1996.](section/3.md)
+- Immunities and privileges
+  - [s. 4 Status, immunities and privileges conferred by the Convention.](section/4.md)
+- Supplemental
+  - [s. 5 Government contribution to expenses under the Convention.](section/5.md)
+  - [s. 6 Application to British possessions, etc.](section/6.md)
+  - [s. 7 Application to Scotland.](section/7.md)
+  - [s. 8 Application to Northern Ireland.](section/8.md)
+  - [s. 9 Short title and commencement.](section/9.md)
+- SCHEDULE TEXT OF CONVENTION
+  - CONVENTION ON THE SETTLEMENT OF INVESTMENT DISPUTES BETWEEN STATES AND NATIONALS OF OTHER STATES Preamble
+  - CHAPTER I INTERNATIONAL CENTRE FOR SETTLEMENT OF INVESTMENT DISPUTES
+    - SECTION I Establishment and Organization
+      - Article 1
+      - Article 2
+      - Article 3
+    - SECTION 2 The Administrative Council
+      - Article 4
+      - Article 5
+      - Article 6
+      - Article 7
+      - Article 8
+    - SECTION 3 The Secretariat
+      - Article 9
+      - Article 10
+      - Article 11
+    - SECTION 4 The Panels
+      - Article 12
+      - Article 13
+      - Article 14
+      - Article 15
+      - Article 16
+    - SECTION 5 Financing the Centre
+      - Article 17
+    - SECTION 6 Status, Immunities and Privileges
+      - Article 18
+      - Article 19
+      - Article 20
+      - Article 21
+      - Article 22
+      - Article 23
+      - Article 24
+  - CHAPTER II JURISDICTION OF THE CENTRE
+    - Article 25
+    - Article 26
+    - Article 27
+  - CHAPTER III CONCILIATION
+    - SECTION 1 Request for Conciliation
+      - Article 28
+    - SECTION 2 Constitution of the Conciliation Commission
+      - Article 29
+      - Article 30
+      - Article 31
+    - SECTION 3 Conciliation Proceedings
+      - Article 32
+      - Article 33
+      - Article 34
+      - Article 35
+  - CHAPTER IV ARBITRATION
+    - SECTION 1 Request for Arbitration
+      - Article 36
+    - SECTION 2 Constitution of the Tribunal
+      - Article 37
+      - Article 38
+      - Article 39
+      - Article 40
+    - SECTION 3 Powers and Functions of the Tribunal
+      - Article 41
+      - Article 42
+      - Article 43
+      - Article 44
+      - Article 45
+      - Article 46
+      - Article 47
+    - SECTION 4 The Award
+      - Article 48
+      - Article 49
+    - SECTION 5 Interpretation, Revision and Annulment of the Award
+      - Article 50
+      - Article 51
+      - Article 52
+    - SECTION 6 Recognition and Enforcement of the Award
+      - Article 53
+      - Article 54
+      - Article 55
+  - CHAPTER V REPLACEMENT AND DISQUALIFICATION OF CONCILIATORS AND ARBITRATORS
+    - Article 56
+    - Article 57
+    - Article 58
+  - CHAPTER VI COST OF PROCEEDINGS
+    - Article 59
+    - Article 60
+    - Article 61
+  - CHAPTER VII PLACE OF PROCEEDINGS
+    - Article 62
+    - Article 63
+  - CHAPTER VIII DISPUTES BETWEEN CONTRACTING STATES
+    - Article 64
+  - CHAPTER IX AMENDMENT
+    - Article 65
+    - Article 66
+  - CHAPTER X FINAL PROVISIONS
+    - Article 67
+    - Article 68
+    - Article 69
+    - Article 70
+    - Article 71
+    - Article 72
+    - Article 73
+    - Article 74
+    - Article 75
