@@ -1,0 +1,585 @@
+# Employment Protection (Consolidation) Act 1978
+
+1978 c. 44. Enacted 1978-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 1978-07-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1978/44/enacted
+
+## Contents
+
+- Part I Employment Particulars
+  - Written particulars of employment
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 2A Particulars of disciplinary procedures not required where less than 20 employees.](section/2A.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 5A Employees becoming or ceasing to be excluded from ss. 1 to 4.](section/5A.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Itemised pay statements
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+  - Enforcement of rights under Part I
+    - [s. 11 ................................](section/11.md)
+- Part II Rights Arising in Course of Employment
+  - Guarantee payments
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+  - Suspension from work on medical grounds
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+  - Right not to suffer detriment in health and safety cases
+    - [s. 22A ................................](section/22A.md)
+    - [s. 22AA ................................](section/22AA.md)
+    - [s. 22B ................................](section/22B.md)
+    - [s. 22C ................................](section/22C.md)
+  - Trade union membership and activities
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 26A ................................](section/26A.md)
+  - Time off work
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 31A ................................](section/31A.md)
+    - [s. 31AA ................................](section/31AA.md)
+    - [s. 32 ................................](section/32.md)
+- Part III Maternity
+  - General right to maternity leave
+    - [s. 33 General right to maternity leave.](section/33.md)
+    - [s. 34 Commencement of maternity leave period.](section/34.md)
+    - [s. 35 Duration of maternity leave period.](section/35.md)
+    - [s. 36 Notice of commencement of leave.](section/36.md)
+    - [s. 37 Requirement to inform employer of pregnancy etc.](section/37.md)
+    - [s. 37A Requirement to inform employer of return during maternity leave period.](section/37A.md)
+    - [s. 38 Special provision where redundancy during maternity leave period.](section/38.md)
+    - [s. 38A Contractual right to maternity leave.](section/38A.md)
+  - Right to return to work
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+  - Suspension from work on maternity grounds
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+  - General provisions
+    - [s. 3444. ................................](section/3444.md)
+    - [s. 48 Contractual right to return to work.](section/48.md)
+- Part IV Termination of Employment
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+- Part V Unfair Dismissal
+  - Right not to be unfairly dismissed
+    - [s. 54 ................................](section/54.md)
+  - Meaning of unfair dismissal
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 56A ................................](section/56A.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 57A ................................](section/57A.md)
+    - [s. 57AA Dismissal of employee representatives.](section/57AA.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 58A ................................](section/58A.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 60A ................................](section/60A.md)
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 62A ................................](section/62A.md)
+    - [s. 63 ................................](section/63.md)
+  - Exclusion of section 54
+    - [s. 64 ................................](section/64.md)
+    - [s. 64A ................................](section/64A.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 ................................](section/66.md)
+  - Remedies for unfair dismissal
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 ................................](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 ................................](section/71.md)
+  - Amount of compensation
+    - [s. 72 ................................](section/72.md)
+    - [s. 72A ................................](section/72A.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 75A ................................](section/75A.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 76A ................................](section/76A.md)
+    - [s. 76B76C ................................](section/76B76C.md)
+  - Interim relief
+    - [s. 77 ................................](section/77.md)
+    - [s. 77A ................................](section/77A.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 78A ................................](section/78A.md)
+    - [s. 79 ................................](section/79.md)
+  - Teachers in aided schools
+    - [s. 80 ................................](section/80.md)
+- Part VI Redundancy Payments
+  - Right to redundancy payment
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 ................................](section/94.md)
+    - [s. 95 ................................](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 ................................](section/97.md)
+    - [s. 98 ................................](section/98.md)
+    - [s. 99 ................................](section/99.md)
+    - [s. 100 ................................](section/100.md)
+    - [s. 101 ................................](section/101.md)
+    - [s. 102 ................................](section/102.md)
+  - Redundancy Fund
+    - [s. 103 ................................](section/103.md)
+    - [s. 104 ................................](section/104.md)
+    - [s. 104A ................................](section/104A.md)
+    - [s. 105 ................................](section/105.md)
+    - [s. 106 ................................](section/106.md)
+    - [s. 107 ................................](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 ................................](section/109.md)
+  - Miscellaneous and supplemental
+    - [s. 110 ................................](section/110.md)
+    - [s. 111 ................................](section/111.md)
+    - [s. 112 ................................](section/112.md)
+    - [s. 113 ................................](section/113.md)
+    - [s. 114 ................................](section/114.md)
+    - [s. 115 ................................](section/115.md)
+    - [s. 116 ................................](section/116.md)
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 ................................](section/118.md)
+    - [s. 119 ................................](section/119.md)
+    - [s. 120 ................................](section/120.md)
+- Part VII Insolvency of Employer
+  - [s. 121 ................................](section/121.md)
+  - [s. 122 ................................](section/122.md)
+  - [s. 123 ................................](section/123.md)
+  - [s. 124 ................................](section/124.md)
+  - [s. 125 ................................](section/125.md)
+  - [s. 126 ................................](section/126.md)
+  - [s. 127 ................................](section/127.md)
+- Part VIII Resolution of Disputes Relating to Employment
+  - Industrial tribunals
+    - [s. 128 ................................](section/128.md)
+    - [s. 129 ................................](section/129.md)
+    - [s. 130 ................................](section/130.md)
+    - [s. 131 ................................](section/131.md)
+  - Recoupment of certain benefits
+    - [s. 132 ................................](section/132.md)
+  - Conciliation officers
+    - [s. 133 ................................](section/133.md)
+    - [s. 134 ................................](section/134.md)
+  - Employment Appeal Tribunal
+    - [s. 135 ................................](section/135.md)
+    - [s. 136 ................................](section/136.md)
+    - [s. 136A ................................](section/136A.md)
+- Part IX Miscellaneous and Supplemental
+  - Extension of employment protection legislation
+    - [s. 137 ................................](section/137.md)
+  - Crown employment
+    - [s. 138 Application of Act to Crown employment.](section/138.md)
+    - [s. 138A Application of Act to armed forces.](section/138A.md)
+  - House of Commons staff
+    - [s. 139 Provisions as to House of Commons staff.](section/139.md)
+  - House of Lords staff
+    - [s. 139A Provisions as to House of Lords staff.](section/139A.md)
+  - Contracting out of provisions of Act
+    - [s. 140 ................................](section/140.md)
+  - Excluded classes of employment
+    - [s. 141 ................................](section/141.md)
+    - [s. 142 ................................](section/142.md)
+    - [s. 143 ................................](section/143.md)
+    - [s. 144 ................................](section/144.md)
+    - [s. 145 ................................](section/145.md)
+    - [s. 146 ................................](section/146.md)
+    - [s. 146A ................................](section/146A.md)
+    - [s. 147 ................................](section/147.md)
+  - Supplementary provisions
+    - [s. 148 ................................](section/148.md)
+    - [s. 149 ................................](section/149.md)
+    - [s. 150 ................................](section/150.md)
+    - [s. 151 ................................](section/151.md)
+    - [s. 152 ................................](section/152.md)
+    - [s. 153 ................................](section/153.md)
+    - [s. 154 ................................](section/154.md)
+    - [s. 155 ................................](section/155.md)
+    - [s. 156 ................................](section/156.md)
+    - [s. 157 ................................](section/157.md)
+    - [s. 158 ................................](section/158.md)
+    - [s. 159 ................................](section/159.md)
+    - [s. 160 ................................](section/160.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 16. ................................](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 78. ................................](schedule/1/paragraph/78.md)
+  - [Sch. 1 para. 9 ................................](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 ................................](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 ................................](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 ................................](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 1315.](schedule/1/paragraph/1315.md)
+- SCHEDULE 2
+  - Part I Unfair Dismissal
+    - Introductory
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Adaptation of unfair dismissal provisions
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II Redundancy Payments
+    - Introductory
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Adaptation of redundancy payments provisions
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Prior redundancy
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part III General
+    - Dismissal during period of absence
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Power to amend or modify
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Employments for which there are normal working hours
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Employments for which there are no normal working hours
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Sickness or industrial injury benefit
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Absence on leave granted at request of employee
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Notice given before a strike
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Termination of employment during period of notice
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 ................................](schedule/4/paragraph/7.md)
+- SCHEDULE 5
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6
+- SCHEDULE 7
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+- SCHEDULE 8
+- SCHEDULE 9
+  - Regulations as to tribunal procedure
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 1A](schedule/9/paragraph/1A.md)
+    - [Sch. 9 para. 1B](schedule/9/paragraph/1B.md)
+  - National security
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Payment of certain sums intoRedundancy Fund
+    - [Sch. 9 para. 3 ................................](schedule/9/paragraph/3.md)
+  - Exclusion of Arbitration Act 1950
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Presumption as to dismissal for redundancy
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Right of appearance
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Interest on sums awarded
+    - [Sch. 9 para. 6A](schedule/9/paragraph/6A.md)
+  - Recovery of sums awarded
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Constitution of tribunals for certain cases
+    - [Sch. 9 para. 8 ................................](schedule/9/paragraph/8.md)
+  - Remuneration for presidents and full-time chairmen of industrial tribunals
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Remuneration etc. for members of industrial tribunals and for assessors and other persons
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11 ................................](schedule/9/paragraph/11.md)
+- SCHEDULE 10
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 ................................](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - [Sch. 10 para. 17 ................................](schedule/10/paragraph/17.md)
+  - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+- SCHEDULE 11
+  - Part I Provisions as to Membership, Sittings, Proceedings and Powers
+    - Tenure of office of appointed members of Appeal Tribunal
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Temporary membership of Appeal Tribunal
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Organisation and sittings of Appeal Tribunal
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Rules
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+      - [Sch. 11 para. 18A](schedule/11/paragraph/18A.md)
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - Powers of Tribunal
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+      - [Sch. 11 para. 21A](schedule/11/paragraph/21A.md)
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - Staff
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+  - Part II Supplementary
+    - Remuneration and allowances
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - Pensions, etc.
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+- SCHEDULE 12
+  - Part I General
+    - Introductory
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Institution or continuance of tribunal proceedings
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Rights and liabilities accruing after death
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Part II Unfair Dismissal
+    - Introductory
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Death during notice period
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - Remedies for unfair dismissal
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Part III Redundancy Payments: Death of Employer
+    - Introductory
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13 ................................](schedule/12/paragraph/13.md)
+    - Dismissal
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - Lay-off and short-time
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - Continuity of period of employment
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+  - Part IV Redundancy Payments: Death of Employee
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+- SCHEDULE 13
+  - Preliminary
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Normal working weeks
+    - [Sch. 13 para. 3 ................................](schedule/13/paragraph/3.md)
+  - Employment governed by contract
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5 ................................](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6 ................................](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7 ................................](schedule/13/paragraph/7.md)
+  - Power to amend paragraphs 3 to 7 by order
+    - [Sch. 13 para. 8 ................................](schedule/13/paragraph/8.md)
+  - Periods in which there is no contract of employment
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Maternity
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Intervals in employment where section 55(5) or 84(1) or 90(3) applies
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Payment of previous redundancy payment or equivalent payment
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13 ................................](schedule/13/paragraph/13.md)
+  - Redundancy payments: employment wholly or partly abroad
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Industrial disputes
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Reinstatement after service with the armed forces, etc.
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - Change of employer
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 18A](schedule/13/paragraph/18A.md)
+    - [Sch. 13 para. 18B](schedule/13/paragraph/18B.md)
+  - Crown employment
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+  - Reinstatement or re-engagement of dismissed employee
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+  - Employment before the commencement of Act
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+  - Interpretation
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+- SCHEDULE 14
+  - Part I Normal Working Hours
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Part II A Week’s Pay
+    - Employments for which there are normal working hours
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - Employments for which there are no normal working hours
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - The calculation date
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Maximum amount of week’s pay for certain purposes
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Supplemental
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+- SCHEDULE 15
+  - General
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6 ................................](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7 ................................](schedule/15/paragraph/7.md)
+  - Termination of employment
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Unfair dismissal
+    - [Sch. 15 para. 9 ................................](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Redundancy
+    - [Sch. 15 para. 11 ................................](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13 ................................](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14 ................................](schedule/15/paragraph/14.md)
+  - Insolvency
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16 ................................](schedule/15/paragraph/16.md)
+  - Computation of period of continuous employment
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - Legal proceedings
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19 ................................](schedule/15/paragraph/19.md)
+- SCHEDULE 16
+  - [Sch. 16 para. 1 ................................](schedule/16/paragraph/1.md)
+  - Trade Union Act 1913 (2 & 3 Geo. 5. c.30)
+    - [Sch. 16 para. 2 ................................](schedule/16/paragraph/2.md)
+  - Iron and Steel Act 1949 (12, 13 & 14 Geo. 6. c.72)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Industrial Training Act 1964 (c.16)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Trade Union (Amalgamations, etc.) Act 1964 (c.24)
+    - [Sch. 16 para. 5 ................................](schedule/16/paragraph/5.md)
+  - Transport Act 1968 (c.73)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7 ................................](schedule/16/paragraph/7.md)
+  - Post Office Act 1969 (c.48)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9 ................................](schedule/16/paragraph/9.md)
+  - Atomic Energy Authority Act 1971 (c.11)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Tribunals and Inquiries Act (c.62)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12 ................................](schedule/16/paragraph/12.md)
+  - Transport Holding Company Act 1972 (c.14)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14 ................................](schedule/16/paragraph/14.md)
+  - British Library Act 1972 (c.54)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+  - Gas Act 1972 (c.60)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+  - Health and Safety at Work etc. Act 1974 (c.37)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+  - Trade Union and Labour Relations Act 1974 (c.52)
+    - [Sch. 16 para. 18 ................................](schedule/16/paragraph/18.md)
+  - Social Security Act 1975 (c.14)
+    - [Sch. 16 para. 19 ................................](schedule/16/paragraph/19.md)
+  - Sex Discrimination Act 1975 (c.65)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+  - Scottish Development Agency Act 1975 (c.69)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+  - Welsh Development Agency Act 1975 (c.70)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+  - Employment Protection Act 1975 (c.71)
+    - [Sch. 16 para. 23 ................................](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24 ................................](schedule/16/paragraph/24.md)
+  - Race Relations Act 1976 (c.74)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+  - Development of Rural Wales Act 1976 (c.75)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+  - Aircraft and Shipbuilding Industries Act 1977 (c.3)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+  - Social Security (Miscellaneous Provisions) Act 1977 (c.5)
+    - [Sch. 16 para. 29 ................................](schedule/16/paragraph/29.md)
+  - New Towns (Scotland) Act 1977 (c.16)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31 ................................](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32 ................................](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33 ................................](schedule/16/paragraph/33.md)
+  - House of Commons (Administration) Act 1978 (c.36)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+- Schedule 17.
