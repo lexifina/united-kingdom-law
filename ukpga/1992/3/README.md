@@ -1,0 +1,113 @@
+# Severn Bridges Act 1992
+
+1992 c. 3. Enacted 1992-02-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2004-11-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1992/3/2004-11-10
+
+## Contents
+
+- Part I Construction of New Severn Bridge
+  - [s. 1 Construction of new bridge and other works.](section/1.md)
+  - [s. 2 Acquisition and occupation of land.](section/2.md)
+  - [s. 3 Authorised works: supplementary.](section/3.md)
+- Part II Operation of Severn Bridges
+  - Introductory
+    - [s. 4 Concession agreement.](section/4.md)
+  - Tolls
+    - [s. 5 Power of Secretary of State to levy tolls.](section/5.md)
+    - [s. 6 Exercise of power to levy tolls by concessionaire.](section/6.md)
+    - [s. 7 Early end of tolling by Secretary of State.](section/7.md)
+    - [s. 8 Vehicles subject to tolls.](section/8.md)
+    - [s. 9 Level of tolls.](section/9.md)
+    - [s. 10 Level of tolls: supplementary.](section/10.md)
+    - [s. 11 Two-way tolling.](section/11.md)
+    - [s. 12 Temporary suspension of tolls.](section/12.md)
+    - [s. 13 Pre-payment of tolls.](section/13.md)
+    - [s. 14 Payment regulations and offences.](section/14.md)
+  - Management of bridges etc.
+    - [s. 15 Exercise of relevant functions by concessionaire.](section/15.md)
+    - [s. 16 Delegation of relevant functions.](section/16.md)
+    - [s. 17 Grant to concessionaire of interests in land.](section/17.md)
+    - [s. 18 Avon County Council bridge staff.](section/18.md)
+    - [s. 19 Termination of concession agreement.](section/19.md)
+    - [s. 20 Termination: supplementary.](section/20.md)
+  - Regulation of traffic etc.
+    - [s. 21 Prevention of obstruction.](section/21.md)
+    - [s. 22 Special traffic restrictions.](section/22.md)
+    - [s. 23 Appointed persons.](section/23.md)
+    - [s. 24 Prevention of damage etc.](section/24.md)
+    - [s. 25 Use of cycleway or footway.](section/25.md)
+  - Financial matters
+    - [s. 26 Recovery of tolls and charges.](section/26.md)
+    - [s. 27 Accounts provided by concessionaire.](section/27.md)
+    - [s. 28 Accounts of Secretary of State.](section/28.md)
+- Part III Miscellaneous and General
+  - Interference with river Severn
+    - [s. 29 Works affecting river Severn.](section/29.md)
+    - [s. 30 Dredging etc.](section/30.md)
+    - [s. 31 Protection of new bridge.](section/31.md)
+  - Miscellaneous
+    - [s. 32 Toll plaza areas and vehicle pounds.](section/32.md)
+    - [s. 33 Consent of National Rivers Authority etc.](section/33.md)
+    - [s. 34 Rates.](section/34.md)
+    - [s. 35 Planning permission.](section/35.md)
+  - General
+    - [s. 36 Offences by bodies corporate.](section/36.md)
+    - [s. 37 Orders and regulations.](section/37.md)
+    - [s. 38 Financial provisions.](section/38.md)
+    - [s. 39 Interpretation.](section/39.md)
+    - [s. 40 Repeals.](section/40.md)
+    - [s. 41 Short title.](section/41.md)
+    - [s. 42 Commencement.](section/42.md)
+- SCHEDULE 1 Scheduled Works
+  - Part I The Scheduled Works
+  - Part II Supplementary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Acquisition and Occupation of Land
+  - Part I Acquisition of Land Outside Limits of Deviation
+  - Part II Acquisition: Supplementary
+    - Acquisition of rights
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Subsoil and under-surface
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Mines and minerals
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Private rights of way
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Compensation
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part III Temporary Occupation of Land
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Part IV Correction of Deposited Plans
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Authorised Works: Supplementary
+  - Stopping up of highways
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Table Part I
+  - Part II Highways to be Stopped Up and New Highways Substituted for Them
+    - [Sch. 3 para. .0](schedule/3/paragraph/0.md)
+    - Temporary interference with highways
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Provision of new trunk and special roads
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Trunk and special road improvements
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Other highway works
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Early End of Tolling by Secretary of State
+  - Receipts
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Purposes
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Supplementary
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Repeals
