@@ -1,0 +1,109 @@
+# Education (Schools) Act 1992
+
+1992 c. 38. Enacted 1992-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 1992-03-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1992/38/1992-03-16
+
+## Contents
+
+- Her Majesty’s Inspectorate for England
+  - [s. 1 Her Majesty’s Inspectorate of Schools in England.](section/1.md)
+  - [s. 2 Functions of the Chief Inspector for England.](section/2.md)
+  - [s. 3 Power of Chief Inspector for England to arrange for inspections.](section/3.md)
+  - [s. 4 Annual and other reports of the Chief Inspector for England.](section/4.md)
+- Her Majesty’s Inspectorate for Wales
+  - [s. 5 Her Majesty’s Inspectorate of Schools in Wales.](section/5.md)
+  - [s. 6 Functions of the Chief Inspector for Wales.](section/6.md)
+  - [s. 7 Power of Chief Inspector for Wales to arrange for inspections.](section/7.md)
+  - [s. 8 Annual and other reports of the Chief Inspector for Wales.](section/8.md)
+- Inspections by registered inspectors
+  - [s. 9 Inspection of certain schools.](section/9.md)
+  - [s. 10 Registration of inspectors.](section/10.md)
+  - [s. 11 Removal from register and imposition or variation of conditions.](section/11.md)
+  - [s. 12 Appeals in relation to registration.](section/12.md)
+  - [s. 13 Religious education.](section/13.md)
+  - [s. 14 Provision of inspection services by local education authorities.](section/14.md)
+  - [s. 15 Power of local education authority to inspect maintained school for specific purpose.](section/15.md)
+- Information about schools
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 Information as to schools and pupils: Scotland.](section/17.md)
+- Miscellaneous
+  - [s. 18 Interpretation.](section/18.md)
+  - [s. 19 Regulations and orders.](section/19.md)
+  - [s. 20 Financial provisions.](section/20.md)
+  - [s. 21 Short title, commencement, extent etc.](section/21.md)
+- SCHEDULE 1 Her Majesty’s Chief Inspectors
+  - The Chief Inspectors’ other staff
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Additional inspectors
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Remuneration, pensions etc.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Expenses of the Chief Inspector and his staff
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Official seal
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Performance of functions
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Documentary evidence
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Parliamentary Commissioner
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Disqualification
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 School Inspections
+  - Part I Inspections Under Section 9
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Selection of registered inspectors
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Inspection teams
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Training for inspections
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Meeting with parents
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Rights of entry etc.
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Offence of obstructing inspector or inspection team
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Inspectors’ reports
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+      - [Sch. 2 para. 9B](schedule/2/paragraph/9B.md)
+      - [Sch. 2 para. 9C](schedule/2/paragraph/9C.md)
+    - Action plans
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Schools considered to be at risk
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Reserve powers of the Chief Inspectors
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Part II Inspections of Denominational Education
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Inspectors’ reports
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Additional action plans
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Tribunals Hearing Appeals Under Section 12
+  - Constitution of tribunals
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Procedure of tribunals
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Staff
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - The Education Act 1944 (c. 31)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Education Act 1980 (c. 20)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Education (No. 2) Act 1986 (c. 61)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Education Reform Act 1988 (c. 40)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Repeals
