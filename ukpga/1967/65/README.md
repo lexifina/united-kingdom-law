@@ -1,0 +1,140 @@
+# Antarctic Treaty Act 1967
+
+1967 c. 65. Enacted 1967-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 1995-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1967/65/1995-11-01
+
+## Contents
+
+- [s. 1 Conservation of Antarctic fauna and flora.](section/1.md)
+- [s. 2 Exemptions from s. 1.](section/2.md)
+- [s. 3 Issue of permits.](section/3.md)
+- [s. 4 Penalties.](section/4.md)
+- [s. 5 Application of criminal law to observers and exchanged scientists.](section/5.md)
+- [s. 6 Power to make further provision for giving effect to Agreed Measures.](section/6.md)
+- [s. 7 Further powers exercisable by Order in Council.](section/7.md)
+- [s. 8 Proceedings and evidence.](section/8.md)
+- [s. 9 Extension of Act.](section/9.md)
+- [s. 10 Interpretation and supplementary provisions.](section/10.md)
+- [s. 11 Short title.](section/11.md)
+- SCHEDULE 1 THE ANTARCTIC TREATY
+  - Article I
+    - [Sch. 1 heading article-i para. 1](schedule/1/crossheading/article-i/paragraph/1.md)
+    - [Sch. 1 heading article-i para. 2](schedule/1/crossheading/article-i/paragraph/2.md)
+  - Article II
+  - Article III
+    - [Sch. 1 heading article-iii para. 1](schedule/1/crossheading/article-iii/paragraph/1.md)
+    - [Sch. 1 heading article-iii para. 2](schedule/1/crossheading/article-iii/paragraph/2.md)
+  - Article IV
+    - [Sch. 1 heading article-iv para. 1](schedule/1/crossheading/article-iv/paragraph/1.md)
+    - [Sch. 1 heading article-iv para. 2](schedule/1/crossheading/article-iv/paragraph/2.md)
+  - Article V
+    - [Sch. 1 heading article-v para. 1](schedule/1/crossheading/article-v/paragraph/1.md)
+    - [Sch. 1 heading article-v para. 2](schedule/1/crossheading/article-v/paragraph/2.md)
+  - Article VI
+  - Article VII
+    - [Sch. 1 heading article-vii para. 1](schedule/1/crossheading/article-vii/paragraph/1.md)
+    - [Sch. 1 heading article-vii para. 2](schedule/1/crossheading/article-vii/paragraph/2.md)
+    - [Sch. 1 heading article-vii para. 3](schedule/1/crossheading/article-vii/paragraph/3.md)
+    - [Sch. 1 heading article-vii para. 4](schedule/1/crossheading/article-vii/paragraph/4.md)
+    - [Sch. 1 heading article-vii para. 5](schedule/1/crossheading/article-vii/paragraph/5.md)
+  - Article VIII
+    - [Sch. 1 heading article-viii para. 1](schedule/1/crossheading/article-viii/paragraph/1.md)
+    - [Sch. 1 heading article-viii para. 2](schedule/1/crossheading/article-viii/paragraph/2.md)
+  - Article IX
+    - [Sch. 1 heading article-ix para. 1](schedule/1/crossheading/article-ix/paragraph/1.md)
+    - [Sch. 1 heading article-ix para. 2](schedule/1/crossheading/article-ix/paragraph/2.md)
+    - [Sch. 1 heading article-ix para. 3](schedule/1/crossheading/article-ix/paragraph/3.md)
+    - [Sch. 1 heading article-ix para. 4](schedule/1/crossheading/article-ix/paragraph/4.md)
+    - [Sch. 1 heading article-ix para. 5](schedule/1/crossheading/article-ix/paragraph/5.md)
+  - Article X
+  - Article XI
+    - [Sch. 1 heading article-xi para. 1](schedule/1/crossheading/article-xi/paragraph/1.md)
+    - [Sch. 1 heading article-xi para. 2](schedule/1/crossheading/article-xi/paragraph/2.md)
+  - Article XII
+    - [Sch. 1 heading article-xii para. 1](schedule/1/crossheading/article-xii/paragraph/1.md)
+    - [Sch. 1 heading article-xii para. 2](schedule/1/crossheading/article-xii/paragraph/2.md)
+  - Article XIII
+    - [Sch. 1 heading article-xiii para. 1](schedule/1/crossheading/article-xiii/paragraph/1.md)
+    - [Sch. 1 heading article-xiii para. 2](schedule/1/crossheading/article-xiii/paragraph/2.md)
+    - [Sch. 1 heading article-xiii para. 3](schedule/1/crossheading/article-xiii/paragraph/3.md)
+    - [Sch. 1 heading article-xiii para. 4](schedule/1/crossheading/article-xiii/paragraph/4.md)
+    - [Sch. 1 heading article-xiii para. 5](schedule/1/crossheading/article-xiii/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Article XIV
+- SCHEDULE 2 AGREED MEASURES FOR THE CONSERVATION OF ANTARCTIC FAUNA AND FLORA
+  - PREAMBLE
+    - Article I
+      - [Sch. 2 partn1 crossheading article-i paragraph 1](schedule/2/partn1/crossheading/article-i/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-i paragraph 2](schedule/2/partn1/crossheading/article-i/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-i paragraph 3](schedule/2/partn1/crossheading/article-i/paragraph/3.md)
+    - Article II
+    - Article III
+    - Article IV
+    - Article V
+    - Article VI
+      - [Sch. 2 partn1 crossheading article-vi paragraph 1](schedule/2/partn1/crossheading/article-vi/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-vi paragraph 2](schedule/2/partn1/crossheading/article-vi/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-vi paragraph 3](schedule/2/partn1/crossheading/article-vi/paragraph/3.md)
+      - [Sch. 2 partn1 crossheading article-vi paragraph 4](schedule/2/partn1/crossheading/article-vi/paragraph/4.md)
+      - [Sch. 2 partn1 crossheading article-vi paragraph 5](schedule/2/partn1/crossheading/article-vi/paragraph/5.md)
+      - [Sch. 2 partn1 crossheading article-vi paragraph 6](schedule/2/partn1/crossheading/article-vi/paragraph/6.md)
+      - [Sch. 2 partn1 crossheading article-vi paragraph 7](schedule/2/partn1/crossheading/article-vi/paragraph/7.md)
+    - Article VII
+      - [Sch. 2 partn1 crossheading article-vii paragraph 1](schedule/2/partn1/crossheading/article-vii/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-vii paragraph 2](schedule/2/partn1/crossheading/article-vii/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-vii paragraph 3](schedule/2/partn1/crossheading/article-vii/paragraph/3.md)
+    - Article VIII
+      - [Sch. 2 partn1 crossheading article-viii paragraph 1](schedule/2/partn1/crossheading/article-viii/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-viii paragraph 2](schedule/2/partn1/crossheading/article-viii/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-viii paragraph 3](schedule/2/partn1/crossheading/article-viii/paragraph/3.md)
+      - [Sch. 2 partn1 crossheading article-viii paragraph 4](schedule/2/partn1/crossheading/article-viii/paragraph/4.md)
+    - Article IX
+      - [Sch. 2 partn1 crossheading article-ix paragraph 1](schedule/2/partn1/crossheading/article-ix/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-ix paragraph 2](schedule/2/partn1/crossheading/article-ix/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-ix paragraph 3](schedule/2/partn1/crossheading/article-ix/paragraph/3.md)
+      - [Sch. 2 partn1 crossheading article-ix paragraph 4](schedule/2/partn1/crossheading/article-ix/paragraph/4.md)
+    - Article X
+    - Article XI
+    - Article XII
+      - [Sch. 2 partn1 crossheading article-xii paragraph 1](schedule/2/partn1/crossheading/article-xii/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-xii paragraph 2](schedule/2/partn1/crossheading/article-xii/paragraph/2.md)
+    - Article XIII
+      - [Sch. 2 partn1 crossheading article-xiii paragraph 1](schedule/2/partn1/crossheading/article-xiii/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-xiii paragraph 2](schedule/2/partn1/crossheading/article-xiii/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-xiii paragraph 3](schedule/2/partn1/crossheading/article-xiii/paragraph/3.md)
+    - Article XIV
+      - [Sch. 2 partn1 crossheading article-xiv paragraph 1](schedule/2/partn1/crossheading/article-xiv/paragraph/1.md)
+      - [Sch. 2 partn1 crossheading article-xiv paragraph 2](schedule/2/partn1/crossheading/article-xiv/paragraph/2.md)
+      - [Sch. 2 partn1 crossheading article-xiv paragraph 3](schedule/2/partn1/crossheading/article-xiv/paragraph/3.md)
+      - [Sch. 2 partn1 crossheading article-xiv paragraph 4](schedule/2/partn1/crossheading/article-xiv/paragraph/4.md)
+      - [Sch. 2 partn1 crossheading article-xiv paragraph 5](schedule/2/partn1/crossheading/article-xiv/paragraph/5.md)
+      - [Sch. 2 partn1 crossheading article-xiv paragraph 6](schedule/2/partn1/crossheading/article-xiv/paragraph/6.md)
+  - ANNEXES TO THESE AGREED MEASURES
+    - Annex A Specially protected species
+      - [Species recommended for inclusion in this Annex in pursuance of Article IX(1) of the Antarctic Treaty
+        - [Sch. 2 partn2 chapter Annex A heading species-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 1](schedule/2/partn2/chapter/Annex/A/crossheading/species-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/1.md)
+        - [Sch. 2 partn2 chapter Annex A heading species-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 2](schedule/2/partn2/chapter/Annex/A/crossheading/species-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/2.md)
+    - Annex B Specially protected areas
+      - [Areas recommended for inclusion in this Annex in pursuance of Article IX(1) of the Antarctic Treaty
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 1](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/1.md)
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 2](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/2.md)
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 3](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/3.md)
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 4](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/4.md)
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 5](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/5.md)
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 6](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/6.md)
+        - [Sch. 2 partn2 chapter Annex B heading areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty para. 7](schedule/2/partn2/chapter/Annex/B/crossheading/areas-recommended-for-inclusion-in-this-annex-in-pursuance-of-article-ix1-of-the-antarctic-treaty/paragraph/7.md)
+        - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+        - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+        - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+        - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+        - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+        - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+        - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+        - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Annex C Importation of animals and plants
+    - Annex D Precautions to prevent accidental introduction of parasites and diseases into the Treaty Area
+      - [Sch. 2 partn2 chapter Annex D para. 1](schedule/2/partn2/chapter/Annex/D/paragraph/1.md)
+      - [Sch. 2 partn2 chapter Annex D para. 2](schedule/2/partn2/chapter/Annex/D/paragraph/2.md)
