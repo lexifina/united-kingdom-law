@@ -1,0 +1,338 @@
+# Merchant Shipping (Safety And Load Line Conventions) Act 1932
+
+1932 c. 9. Enacted 1932-03-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 1932-03-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5/22-23/9/enacted
+
+## Contents
+
+- Part I Safety of Life at Sea
+  - [s. 14 ................................](section/14.md)
+  - [s. 5 Amendments of Merchant Shipping Acts as to life-saving appliances.](section/5.md)
+  - Wireless Telegraphy
+    - [s. 67. ................................](section/67.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+  - Certificates
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 1321 ................................](section/1321.md)
+  - Miscellaneous Provisions for further Safety of Life at Sea
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 2526. ................................](section/2526.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+  - Supplemental
+    - [s. 3335 ................................](section/3335.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 3738. ................................](section/3738.md)
+    - [s. 39 ................................](section/39.md)
+- Part II
+  - [s. 4061 ................................](section/4061.md)
+  - Supplemental.
+    - [s. 62 Amendment of ss. 436 and 454 of the principal Act.](section/62.md)
+    - [s. 6367 ................................](section/6367.md)
+- Part III General
+  - [s. 68 ................................](section/68.md)
+  - [s. 69 ................................](section/69.md)
+  - [s. 7072 ................................](section/7072.md)
+  - [s. 73 ................................](section/73.md)
+  - [s. 74 ................................](section/74.md)
+- FIRST SCHEDULE International Convention for the Safety of Life at Sea, 1929
+  - Chapter I.—Preliminary
+    - Article 1
+    - Article 2
+      - Applications and Definitions
+        - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+        - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+        - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+        - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+    - Article 3
+      - Cases of Force Majeure
+  - Chapter II.—Construction
+    - Article 4
+      - Application
+        - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+        - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+        - [Sch. FIRST para. 7](schedule/FIRST/paragraph/7.md)
+    - Article 5
+      - Watertight Subdivision of Ships
+    - Article 6
+      - Peak and Machinery Space Bulkheads, Shaft Tunnels, &c.
+    - Article 7
+      - Construction, Testing, &c.
+    - Article 8
+      - Stability Test
+    - Article 9
+      - Entries in the Official Log Book
+    - Article 10
+      - Initial and Subsequent Surveys of Ships
+  - Chapter III.—Life-saving Appliances, &c.
+    - Article 11
+      - Interpretation
+    - Article 12
+      - Application
+    - Article 13
+      - Lifeboats and Buoyant Apparatus
+    - Article 14
+      - Ready Availability and Adequacy
+    - Article 15
+      - Standard types of Boats. Life Rafts. Buoyant Apparatus
+    - Article 16
+      - Construction of Boats
+    - Article 17
+      - Embarkation of the Passengers in the Boats
+    - Article 18
+      - Capacity of Boats and Life Rafts
+    - Article 19
+      - Equipment of Boats and Life Rafts
+    - Article 20
+      - Life-jackets and Life-buoys
+    - Article 21
+      - Means of Ingress and Egress. Emergency Lighting
+    - Article 22
+      - Certificated Lifeboatmen. Manning of the Boats
+    - Article 23
+      - Line-throwing Appliances
+    - Article 24
+      - Dangerous Goods. Fire Protection
+    - Article 25
+      - Muster Roll and Drills
+  - Chapter IV.—Radiotelegraphy
+    - Article 26
+      - Application and Definition
+    - Article 27
+      - Fitting of Radio Installation
+    - Article 28
+      - Exemptions from the Requirements of Article 27
+    - Annex to Article 28
+      - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+      - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+      - [Sch. FIRST para. 10](schedule/FIRST/paragraph/10.md)
+      - [Sch. FIRST para. 11](schedule/FIRST/paragraph/11.md)
+    - Article 29
+      - Watches
+        - [Sch. FIRST para. 1.PassengerShips.](schedule/FIRST/paragraph/1-PassengerShips.md)
+        - [Sch. FIRST para. 2.CargoShips.](schedule/FIRST/paragraph/2-CargoShips.md)
+    - Article 30
+      - Watchers
+    - Article 31
+      - Technical Requirements
+        - [Sch. FIRST para. 12](schedule/FIRST/paragraph/12.md)
+        - [Sch. FIRST para. 13](schedule/FIRST/paragraph/13.md)
+        - [Sch. FIRST para. 14](schedule/FIRST/paragraph/14.md)
+        - [Sch. FIRST para. 15](schedule/FIRST/paragraph/15.md)
+        - [Sch. FIRST para. 16](schedule/FIRST/paragraph/16.md)
+        - [Sch. FIRST para. 17](schedule/FIRST/paragraph/17.md)
+    - Article 32
+      - Competence
+  - Chapter V.—Safety of Navigation
+    - Article 33
+      - Application
+    - Article 34
+      - Danger Messages
+    - Article 35
+      - Meteorological Services
+    - Article 36
+      - Ice Patrol. Derelicts
+    - Article 37
+      - Ice Patrol. Management and Cost
+    - Article 38
+      - Speed near Ice
+    - Article 39
+      - North Atlantic Routes
+    - Article 40
+      - Collision Regulations
+    - Article 41
+      - Helm Orders
+    - Article 42
+      - Misuse of Distress Signals
+    - Article 43
+      - Alarm, Distress and Urgency Signals
+    - Article 44
+      - Speed of Distress Messages
+    - Article 45
+      - Distress Messages. Procedure
+    - Article 46
+      - Signalling Lamp
+    - Article 47
+      - Direction-finding Apparatus
+    - Article 48
+      - Manning
+  - Chapter VI.—Certificates
+    - Article 49
+      - Issue of Certificates
+    - Article 50
+      - Issue of Certificate by another Government
+    - Article 51
+      - Form of Certificates
+    - Article 52
+      - Duration of Certificates
+    - Article 53
+      - Acceptance of Certificates
+    - Article 54
+      - Control
+    - Articles 55
+      - Privileges
+    - Article 56
+      - Qualification of Certificate
+  - Chapter VII.—General Provisions
+    - Article 57
+      - Equivalents
+    - Article 58
+      - Laws, Regulations, Reports
+    - Article 59
+      - Measures taken after Agreement
+    - Article 60
+      - Prior Treaties and Conventions
+    - Article 61
+      - Modifications. Future Conferences
+  - Chapter VIII.—Final Provisions
+    - Article 62
+      - Application to Colonies, &c.
+    - Article 63
+      - Authentic Texts. Ratification
+    - Article 64
+      - Accession
+    - Article 65
+      - Date of coming in Force
+    - Article 66
+      - Denunciation
+  - ANNEX I Regulations
+    - Regulation I
+      - Definitions
+    - Regulation II
+      - Floodable Length
+    - Regulation III
+      - Permeability
+    - Regulation Iv
+      - Permissible Length of Compartments
+    - Regulation V
+      - Special Rules concerning Subdivision
+    - Regulation VI
+      - Peak and Machinery Space Bulkheads, Shaft Tunnels, &c.
+    - Regulation VII
+      - Assigning, Marking and Recording of Subdivision Loadlines
+    - Regulation VIII
+      - Construction and Initial Testing of Watertight Bulkheads, &c.
+    - Regulation IX
+      - Openings in Watertight Bulkheads
+    - Regulation X
+      - Openings in Ship’s Sides below the Margin Line
+    - Regulation XI
+      - Construction and Initial Tests of Watertight Doors, Sidescuttles, &c.
+    - Regulation XII
+      - Construction and Initial Tests of Watertight Decks, Trunks, &c.
+    - Regulation XIII
+      - Periodical Operation and Inspection of Watertight Doors, &c.
+    - Regulation XIV
+      - Entries in the Official Log Book
+    - Regulation XV
+      - Double Bottoms
+    - Regulation XVI
+      - Fire-resisting Bulkheads
+    - Regulation XVII
+      - Side and other Openings, &c., above the Margin Line
+    - Regulation XVIII
+      - Exits from Watertight Compartments
+    - Regulation XIX
+      - Pumping Arrangements
+    - Regulation XX
+      - Power for Going Astern
+    - Regulation XXI
+      - Auxiliary Steering Apparatus
+    - Regulation XXII
+      - Initial and Subsequent Surveys of Ships
+    - Regulation XXIII
+      - Maintenance of Conditions after Survey
+  - Life-Saving Appliances, &c.
+    - Regulation XXIV
+      - Standard Types of Boats
+    - Regulation XXV
+      - Lifeboats of Class I
+      - (a)
+      - (b)
+    - Regulation XXVI
+      - Boats of Class II
+      - (a)Open Boats with Internal and External Buoyancy—
+      - Upper Part of Sides collapsible.
+      - (b)
+    - Regulation XXVII
+      - Motor Boats
+    - Regulation XXVIII
+      - Life Rafts
+    - Regulation XXIX
+      - Buoyant Apparatus
+    - Regulation XXX
+      - Cubic Capacity of Lifeboats of Class I
+    - Regulation XXXI
+      - Deck Area of Boats of Class II
+    - Regulation XXXII
+      - Marking of Boats, Life Rafts and Buoyant Apparatus
+    - Regulation XXXIII
+      - Carrying Capacity of Boats
+    - Regulation XXXIV
+      - Capacity Limits
+    - Regulation XXXV
+      - Equivalent for and Weight of the Persons
+    - Regulation XXXVI
+      - Equipment of Boats and Life Rafts
+    - Regulations XXXVII
+      - Stowage and Handling of Boats and Life Rafts
+    - Regulation XXXVIII
+      - Number and Capacity of Boats, Life Rafts, &c., and Davits
+    - Regulation XXXIX
+      - Table relating to davits and lifeboat capacity
+    - Regulation XL
+      - Life-Jackets and Life-Buoys
+    - Regulation XLI
+      - Certificated Lifeboatmen
+    - Regulation XLII
+      - Manning of Boats
+    - Regulation XLIII
+      - Fire Detection and Extinction
+    - Regulation XLIV
+      - Muster List
+    - Regulation XLV
+      - Musters and Drills
+  - Safety of Navigation
+    - Regulation XLVI
+      - Transmission of Information
+      - Information Required
+      - Examples
+  - Certificates
+    - Regulation XLVII
+      - Form of Safety Certificate for Passenger Ships
+      - Form of Safety Radiotelegraphy Certificate
+      - Form of Exemption Certificate
+  - ANNEX II International Regulations for preventing Collisions at Sea
+  - I
+  - II
+  - III
+    - 1. Stability
+    - 2.
+    - 3.
+    - 4.
+    - 5.
+    - 6.
+    - 7.
+    - 8.
+    - 9.
+    - 10.
+    - 11.
+    - 12.
+    - 13.
+    - 14. Collision Regulations.—Aircraft
+    - 15.
+- SECOND SCHEDULE
+- THIRD SCHEDULE
+- FOURTH SCHEDULE
