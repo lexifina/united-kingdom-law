@@ -1,0 +1,147 @@
+# Local Government Finance Act 1982
+
+1982 c. 32. Enacted 1982-07-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2004-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/32/2004-07-22
+
+## Contents
+
+- Part I Rates, Precepts and Borrowing
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 Limitation of precepting powers.](section/2.md)
+  - [s. 3 Substituted rates and precepts.](section/3.md)
+  - [s. 4 Proceedings in respect of rates and precepts.](section/4.md)
+  - [s. 5](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 Interpretation and commencement of Part I.](section/7.md)
+- Part II Block Grant
+  - [s. 8 Adjustments of distribution of block grant.](section/8.md)
+  - [s. 9 Information for purposes of block grant.](section/9.md)
+  - [s. 10 Block grant for Receiver for the Metropolitan Police District.](section/10.md)
+- Part III Accounts and Audit
+  - The Audit Commission
+    - [s. 11 .](section/11.md)
+  - Audit of accounts
+    - [s. 12 .](section/12.md)
+    - [s. 13 .](section/13.md)
+    - [s. 14 .](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 .](section/18.md)
+    - [s. 18A Additional publicity for auditors’ immediate reports.](section/18A.md)
+    - [s. 19 Declaration that item of account is unlawful.](section/19.md)
+    - [s. 20 Recovery of amount not accounted for etc.](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 Extraordinary audit.](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 25A ................................](section/25A.md)
+    - [s. 25AA .](section/25AA.md)
+    - [s. 25B .](section/25B.md)
+    - [s. 25C .](section/25C.md)
+    - [s. 25D .](section/25D.md)
+  - Miscellaneous and supplementary
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 28AA ................................](section/28AA.md)
+    - [s. 28AB ................................](section/28AB.md)
+    - [s. 28AC ................................](section/28AC.md)
+    - [s. 28A ................................](section/28A.md)
+    - [s. 28B General functions of Commission in relation to registered social landlords.](section/28B.md)
+    - [s. 28C Provisions supplementary to s.28B.](section/28C.md)
+    - [s. 28D ................................](section/28D.md)
+    - [s. 28E .](section/28E.md)
+    - [s. 28F ................................](section/28F.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 .](section/30.md)
+    - [s. 30A .](section/30A.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 .](section/36.md)
+- Part IV Supplementary
+  - [s. 37 Expenses.](section/37.md)
+  - [s. 38 Repeals.](section/38.md)
+  - [s. 39 Short title and extent.](section/39.md)
+- SCHEDULE 1 Rates and Precepts: Transitional Provisions
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Block Grant: Receiver for the Metropolitan Police District
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Payment of block grant
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Calculation of block grant
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Adjustment of distribution of block grant
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Rate Support Grant Reports
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Supplementary Reports
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Adjustment of block grant total
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Estimates and calculations
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Functions of Secretary of State in relation to Commission
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Tenure of office of members
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Remuneration etc. of members
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - House of Commons disqualification
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Staff
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Financial provisions
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Proceedings
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Annual report
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 ...
+- Schedule 5
+  - The Public Health Act 1875
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Police Act 1964
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Transport Act 1968
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Local Government Act 1972
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Land Drainage Act 1976
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - The Local Government, Planning and Land Act 1980
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- Schedule 6 Repeals
+  - Part I
+  - Part II
+  - Part III
+  - Part IV
