@@ -1,0 +1,105 @@
+# Land Drainage Act 1976
+
+1976 c. 70. Enacted 1976-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 1976-11-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1976/70/enacted
+
+## Contents
+
+- Part I Introductory
+  - Water authorities
+    - [s. 1 ................................](section/1.md)
+    - [s. 4 ................................](section/4.md)
+  - Internal drainage boards
+    - [s. 6 ................................](section/6.md)
+  - Main rivers and their control
+    - [s. 8 ................................](section/8.md)
+  - Transfers of functions and reorganisation of internal drainage districts
+    - [s. 10 ................................](section/10.md)
+  - Review of boundaries, supervision and exercise of functions in default
+    - [s. 14 ................................](section/14.md)
+- Part II Powers of Drainage Authorities
+  - Carrying out drainage works, etc.
+    - [s. 17 ................................](section/17.md)
+  - Drainage works concerning more than one drainage authority
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+  - Arrangements with other persons and powers as respects the obligations and rights of other persons
+    - [s. 22 ................................](section/22.md)
+  - Control of obstructions in and structures in, over or under watercourses
+    - [s. 28 ................................](section/28.md)
+  - Schemes for drainage of small areas
+    - [s. 30 ................................](section/30.md)
+  - Flood warning systems
+    - [s. 32 ................................](section/32.md)
+  - Incidental powers
+    - [s. 33 ................................](section/33.md)
+- Part III Restoration and Improvement of Ditches
+  - [s. 40 ................................](section/40.md)
+- Part IV Raising of Revenue by Drainage Authorities
+  - Power of water authorities to require payment of their land drainage expenses by local authorities
+    - [s. 45 ................................](section/45.md)
+  - Power of water authorities to raise drainage charges
+    - [s. 48 ................................](section/48.md)
+  - Supplementary provisions as to drainage charges
+    - [s. 52 ................................](section/52.md)
+  - Alternative basis for financing drainage expenses of water authorities
+    - [s. 62 ................................](section/62.md)
+  - Power of internal drainage boards to raise drainage rates
+    - [s. 63 ................................](section/63.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 70 ................................](section/70.md)
+  - Supplementary provisions as to drainage rates
+    - [s. 71 ................................](section/71.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 80](section/80.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+  - Miscellaneous revenue-raising powers
+    - [s. 84 ................................](section/84.md)
+  - Interpretation of Part IV
+    - [s. 89 ................................](section/89.md)
+- Part V Powers of the Minister and Local Authorities
+  - Powers of the Minister
+    - [s. 90 ................................](section/90.md)
+  - Powers of local authorities
+    - [s. 97 ................................](section/97.md)
+    - [s. 101 ................................](section/101.md)
+    - [s. 102 ................................](section/102.md)
+- Part VI Miscellaneous and General
+  - [s. 105 Provisions relating to London.](section/105.md)
+  - [s. 106 ................................](section/106.md)
+  - [s. 116 Interpretation.](section/116.md)
+  - [s. 117 Transitional provisions, consequential amendments, repeals and saving.](section/117.md)
+  - [s. 118 Short title, commencement and extent.](section/118.md)
+- SCHEDULE 1-4 ...
+- SCHEDULE 5 Provisions Relating to London
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - General provision with respect to the London excluded area
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Functions of the Greater London Council with respect to the metropolitan watercourses
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - General provision with respect to the Greater London Council and the Thames Water Authority
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 ...
+- SCHEDULE 7 CONSEQUENTIAL AMENDMENTS
+  - The Water Act 1973
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Other Acts
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 ...
