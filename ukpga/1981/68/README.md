@@ -1,0 +1,205 @@
+# Broadcasting Act 1981
+
+1981 c. 68. Enacted 1981-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 1981-10-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1981/68/enacted
+
+## Contents
+
+- Part I The Independent Broadcasting Authority
+  - The Authority
+    - [s. 1 The Independent Broadcasting Authority.](section/1.md)
+    - [s. 2 Function and duties of Authority.](section/2.md)
+    - [s. 3 Powers of Authority.](section/3.md)
+  - General provisions as to programmes
+    - [s. 4 General provisions as to programmes.](section/4.md)
+  - Programmes other than advertisements
+    - [s. 5 Code for programmes other than advertisements.](section/5.md)
+    - [s. 6 Submission of programme schedules for Authority’s approval.](section/6.md)
+    - [s. 7 Programme prizes.](section/7.md)
+  - Advertisements
+    - [s. 8 Advertisements.](section/8.md)
+    - [s. 9 Code for advertisements.](section/9.md)
+  - Special provisions relating to the Fourth Channel
+    - [s. 10 Provision by Authority of second television service.](section/10.md)
+    - [s. 11 Nature of the Fourth Channel, and its relation to ITV.](section/11.md)
+    - [s. 12 Provision of programmes (other than advertisements) for the Fourth Channel.](section/12.md)
+    - [s. 13 Advertisements on the Fourth Channel.](section/13.md)
+  - Teletext services
+    - [s. 14 Provision of teletext services by Authority.](section/14.md)
+    - [s. 15 Code for teletext transmissions.](section/15.md)
+  - Advisory committees
+    - [s. 16 General advisory council and specialist advisory committees etc.](section/16.md)
+    - [s. 17 National advisory committees for Scotland, Wales and Northern Ireland.](section/17.md)
+    - [s. 18 Local advisory committees for local sound broadcasts.](section/18.md)
+  - Provisions applying to all contracts for programmes
+    - [s. 19 Duration of contracts for programmes and prior consultation etc.](section/19.md)
+    - [s. 20 Programme contractors.](section/20.md)
+    - [s. 21 Provisions to be included in contracts for programmes.](section/21.md)
+    - [s. 22 Provision for news broadcasts.](section/22.md)
+    - [s. 23 Newspaper shareholdings in programme contractors.](section/23.md)
+    - [s. 24 Buying and selling of programmes by programme contractors.](section/24.md)
+    - [s. 25 Wages, conditions of employment, and training of persons employed by programme contractors.](section/25.md)
+  - Sound programme contracts
+    - [s. 26 Accumulation of interests in sound programme contracts.](section/26.md)
+  - Information as to programme contracts etc.
+    - [s. 27 Information as to programme contracts and applications for such contracts.](section/27.md)
+  - Powers of Government in relation to Authority
+    - [s. 28 Government control over Authority as to hours of broadcasting.](section/28.md)
+    - [s. 29 Government control over Authority as to certain other matters.](section/29.md)
+    - [s. 30 Prevention of exclusive arrangements for broadcasting events of national interest.](section/30.md)
+    - [s. 31 Co-operation of Authority with BBC in the use of broadcasting installations.](section/31.md)
+  - Rental payments
+    - [s. 32 Rental payments by programme contractors.](section/32.md)
+    - [s. 33 Provisions supplemental to s. 32.](section/33.md)
+    - [s. 34 Instalments payable on account by programme contractors in respect of additional payments.](section/34.md)
+    - [s. 35 Provision for supplementing additional payments.](section/35.md)
+  - Finances of Authority
+    - [s. 36 Television and sound broadcasting to be separately financed by Authority.](section/36.md)
+    - [s. 37 Application of any excess of revenues over expenditure.](section/37.md)
+    - [s. 38 Advances to Authority for purposes of local sound broadcasting.](section/38.md)
+  - Payments by Authority
+    - [s. 39 Payments by Authority to Welsh Authority.](section/39.md)
+    - [s. 40 Contributions towards cost of Broadcasting Complaints Commission.](section/40.md)
+    - [s. 41 Grants by Authority to local sound programme contractors.](section/41.md)
+  - Accounts, audit and annual reports
+    - [s. 42 Accounts and audit.](section/42.md)
+    - [s. 43 Annual reports.](section/43.md)
+  - Miscellaneous
+    - [s. 44 Machinery for settling terms and conditions of employment of Authority’s staff, etc.](section/44.md)
+    - [s. 45 Audience research.](section/45.md)
+- Part II The Fourth Channel in Wales
+  - [s. 46 The Welsh Fourth Channel Authority.](section/46.md)
+  - [s. 47 Function, powers and duties of Welsh Authority.](section/47.md)
+  - [s. 48 Sources of programmes (other than advertisements) in Welsh.](section/48.md)
+  - [s. 49 Advertisements on the Fourth Channel in Wales.](section/49.md)
+  - [s. 50 Modification of certain provisions relating to the IBA.](section/50.md)
+  - [s. 51 Advisory bodies.](section/51.md)
+  - [s. 52 Finances of Welsh Authority and accounts, audit and reports.](section/52.md)
+- Part III The Broadcasting Complaints Commission
+  - [s. 53 The Broadcasting Complaints Commission.](section/53.md)
+  - [s. 54 Function of Commission.](section/54.md)
+  - [s. 55 Making and entertaining of complaints.](section/55.md)
+  - [s. 56 Consideration of complaints.](section/56.md)
+  - [s. 57 Publication of Commission’s findings.](section/57.md)
+  - [s. 58 Duty to publicise Commission.](section/58.md)
+  - [s. 59 Annual reports of Commission.](section/59.md)
+  - [s. 60 Power to modify Part III in relation to programmes broadcast on the Fourth Channel in Wales.](section/60.md)
+- Part IV General
+  - [s. 61 Approvals by Authority.](section/61.md)
+  - [s. 62 Variation and revocation of directions and notices.](section/62.md)
+  - [s. 63 Interpretation.](section/63.md)
+  - [s. 64 Power to repeal or modify provisions of Act which relate to television in Wales.](section/64.md)
+  - [s. 65 Consequential and transitional provisions and savings.](section/65.md)
+  - [s. 66 Short title, extent and commencement.](section/66.md)
+- SCHEDULE 1 The Independent Broadcasting Authority: Supplementary Provisions
+  - Appointment of members
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Tenure of office
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Remuneration and pensions of members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Capacity and status of Authority
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Proceedings
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Officers and employees of Authority
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Authentication of Authority’s seal
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Presumption of authenticity of documents issued by Authority
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Rules as to Advertisements
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Teletext Services
+  - Part I Provisions of Act Applied by Section 14(5)
+  - Part II Other Provisions Applied by Section 14(5)
+- SCHEDULE 4 Rental Payments
+  - Advertising revenue
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Profits
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Carry forward of losses
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Computation of profits of programme contractors
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Disputes
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Accounting periods
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Information
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Interpretation
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 The Welsh Fourth Channel Authority: Supplementary Provisions
+  - Tenure of office of members
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Remuneration and pensions of members
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Capacity and status of Welsh Authority
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Proceedings
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Officers and employees of Welsh Authority
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Machinery for settling terms and conditions of employment of Welsh Authority’s staff etc.
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Authentication of Welsh Authority’s seal
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Presumption of authenticity of documents issued by Welsh Authority
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Modifications of Act in Relation to the Fourth Channel in Wales
+  - Section 2
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Section 4
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Sections 5 and 7
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Section 45
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 The Broadcasting Complaints Commission: SupplementaryProvisions
+  - Tenure of office
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Remuneration and pensions of members
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Staff
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Proceedings
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Financial provisions
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Status of Commission
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Transitional Provisions and Savings
+  - General
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Programme contracts
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Expenditure relevant for the purposes of s. 35
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Saving of amendments
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 Repeals
