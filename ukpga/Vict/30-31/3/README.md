@@ -1,0 +1,209 @@
+# British North America Act 1867
+
+1867 c. 3. Enacted 1867-03-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 1991-02-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/30-31/3/1991-02-01
+
+## Contents
+
+- I.— PRELIMINARY
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+- II.— UNION
+  - [s. 3 Declaration of union.](section/3.md)
+  - [s. 4 Construction of subsequent provisions of Act.](section/4.md)
+  - [s. 5 Four provinces.](section/5.md)
+  - [s. 6 Provinces of Ontario and Quebec.](section/6.md)
+  - [s. 7 Provinces of Nova Scotia and New Brunswick.](section/7.md)
+  - [s. 8 Decennial Census.](section/8.md)
+- III.— EXECUTIVE POWER
+  - [s. 9 Declaration of Executive power in the Queen.](section/9.md)
+  - [s. 10 Application of provisions referring to Governor General.](section/10.md)
+  - [s. 11 Constitution of Privy Council for Canada.](section/11.md)
+  - [s. 12 All powers under Acts to be exercised by Governor General with advice of Privy Council, or alone.](section/12.md)
+  - [s. 13 Application of provisions referring to Governor General in Council.](section/13.md)
+  - [s. 14 Power to Her Majesty to authorise Governor General to appoint deputies.](section/14.md)
+  - [s. 15 Command of armed forces to continue to be vested in the Queen.](section/15.md)
+  - [s. 16 Seat of government of Canada.](section/16.md)
+- IV.— LEGISLATIVE POWER
+  - [s. 17 Constitution of Parliament of Canada.](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 First session of the Parliament of Canada.](section/19.md)
+  - [s. 20 Yearly session of the Parliament of Canada.](section/20.md)
+  - The Senate
+    - [s. 21 Number of senators.](section/21.md)
+    - [s. 22 Representation of provinces in Senate.](section/22.md)
+    - [s. 23 Qualifications of senator.](section/23.md)
+    - [s. 24 Summons of senator.](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Addition of senators in certain cases.](section/26.md)
+    - [s. 27 Reduction of Senate to normal number.](section/27.md)
+    - [s. 28 Maximum number of senators.](section/28.md)
+    - [s. 29 Tenure of place in Senate.](section/29.md)
+    - [s. 30 Resignation of place in Senate.](section/30.md)
+    - [s. 31 Disqualification of senators.](section/31.md)
+    - [s. 32 Summons on vacancy in senate.](section/32.md)
+    - [s. 33 Questions as to qualifications and vacancies in Senate.](section/33.md)
+    - [s. 34 Appointment of Speaker of Senate.](section/34.md)
+    - [s. 35 Quorum of Senate.](section/35.md)
+    - [s. 36 Voting in Senate.](section/36.md)
+  - The House of Commons
+    - [s. 37 Constitution of House of Commons in Canada.](section/37.md)
+    - [s. 38 Summoning of House of Commons.](section/38.md)
+    - [s. 39 Senators not to sit in House of Commons.](section/39.md)
+    - [s. 40 Electoral districts of the four provinces.](section/40.md)
+    - 1.— ONTARIO
+    - 2.—QUEBEC
+    - 3.—NOVA SCOTIA
+    - 4.—NEW BRUNSWIC
+      - [s. 41 Continuance of existing election laws until Parliament of Canada otherwise provides.](section/41.md)
+      - [s. 42 ................................](section/42.md)
+      - [s. 43 ................................](section/43.md)
+      - [s. 44 As to election of Speaker of House of Commons.](section/44.md)
+      - [s. 45 As to filling up vacancy in office of Speaker.](section/45.md)
+      - [s. 46 Speaker to preside.](section/46.md)
+      - [s. 47 Provision in case of absence of Speaker.](section/47.md)
+      - [s. 48 Quorum of House of Commons.](section/48.md)
+      - [s. 49 Voting in House of Commons.](section/49.md)
+      - [s. 50 Duration of House of Commons.](section/50.md)
+      - [s. 51 Decennial readjustment of representation.](section/51.md)
+      - [s. 51A](section/51A.md)
+      - [s. 52 Increase of number of House of Commons.](section/52.md)
+  - Money Votes; Royal Assent
+    - [s. 53 Appropriation and tax Bills.](section/53.md)
+    - [s. 54 Recommendation of money votes.](section/54.md)
+    - [s. 55 Royal assent to Bills, &c.](section/55.md)
+    - [s. 56 Disallowance by Order in Council of Act assented to by Governor General.](section/56.md)
+    - [s. 57 Signification of Queen’s pleasure on Bill reserved.](section/57.md)
+- V.— PROVINCIAL CONSTITUTION
+  - Executive Power
+    - [s. 58 Appointment of Lieutenant Governors of provinces.](section/58.md)
+    - [s. 59 Tenure of office of Lieutenant Governor.](section/59.md)
+    - [s. 60 Salaries of Lieutenant Governors.](section/60.md)
+    - [s. 61 Oaths, &c. of Lieutenant Governor.](section/61.md)
+    - [s. 62 Application of provisions referring to Lieutenant Governor.](section/62.md)
+    - [s. 63 Appointment of executive officers for Ontario and Quebec.](section/63.md)
+    - [s. 64 Executive Government of Nova Scotia and New Brunswick.](section/64.md)
+    - [s. 65 Powers to be exercised by Lieutenant Governor of Ontario or Quebec with advice, or alone.](section/65.md)
+    - [s. 66 Application of provisions referring to Lieutenant Governor in Council.](section/66.md)
+    - [s. 67 Administration in absence, &c. of Lieutenant Governor.](section/67.md)
+    - [s. 68 Seats of provincial governments.](section/68.md)
+  - Legislative Power
+    - 1.—ONTARIO
+      - [s. 69 Legislature for Ontario.](section/69.md)
+      - [s. 70 Electoral districts.](section/70.md)
+    - 2.—QUBEC
+      - [s. 71 Legislature for Quebec.](section/71.md)
+      - [s. 72 Constitution of Legislative Council.](section/72.md)
+      - [s. 73 Qualification of legislative councillors.](section/73.md)
+      - [s. 74 Resignation, disqualification, &c.](section/74.md)
+      - [s. 75 Vacancies.](section/75.md)
+      - [s. 76 Questions as to vacancies, &c.](section/76.md)
+      - [s. 77 Speaker of Legislative Council.](section/77.md)
+      - [s. 78 Quorum of Legislative Council.](section/78.md)
+      - [s. 79 Voting in Legislative Council.](section/79.md)
+      - [s. 80 Constitution of Legislative Assembly of Quebec.](section/80.md)
+    - 3.—ONTARIO AND QUEBEC
+      - [s. 81 ................................](section/81.md)
+      - [s. 82 Summoning of Legislative Assemblies.](section/82.md)
+      - [s. 83 Restriction on election of holders of offices.](section/83.md)
+      - [s. 84 Continuance of existing election laws.](section/84.md)
+      - [s. 85 Duration of Legislative Assemblies.](section/85.md)
+      - [s. 86 Yearly session of Legislatures.](section/86.md)
+      - [s. 87 Speaker, quorum, &c.](section/87.md)
+    - 4.—NOVA SCOTIA AND NEW BRUNSWICK
+      - [s. 88 Constitutions of Legislatures of Nova Scotia and New Brunswick.](section/88.md)
+      - [s. 89 ................................](section/89.md)
+    - 6.—THE FOUR PROVINCES
+      - [s. 90 Application to Legislatures of provisions respecting money votes, &c.](section/90.md)
+- VI.— DISRIBUTION OF LEGISLATIVE POWERS
+  - Powers of the Parliament
+    - [s. 91 Legislative authority of Parliament of Canada.](section/91.md)
+  - Exclusive Powers of Provincial Legislatures
+    - [s. 92 Subjects of exclusive provincial legislation.](section/92.md)
+  - Education
+    - [s. 93 Legislation respecting education.](section/93.md)
+  - Uniformity of Laws in Ontario, Nova Scotia, and New Brunswick
+    - [s. 94 Legislation for uniformity of laws in the three provinces.](section/94.md)
+    - [s. 94A Legislation respecting old age pensions and supplementary benefits.](section/94A.md)
+  - Agriculture and Immigration
+    - [s. 95 Concurrent powers of legislation respecting agriculture, &c.](section/95.md)
+- VII.— JUDICATURE
+  - [s. 96 Appointment of judges.](section/96.md)
+  - [s. 97 Selection of judges in Ontario, &c.](section/97.md)
+  - [s. 98 Selection of judges in Quebec.](section/98.md)
+  - [s. 99 Tenure of office of judges.](section/99.md)
+  - [s. 100 Salaries, &c. of judges.](section/100.md)
+  - [s. 101 General Court of Appeal, &c.](section/101.md)
+- VIII.— REVENUES; DEBTS; ASSETS; TAXATION
+  - [s. 102 Creation of Consolidated Revenue Fund.](section/102.md)
+  - [s. 103 Expenses of collection, &c.](section/103.md)
+  - [s. 104 Interest of provincial public debts.](section/104.md)
+  - [s. 105 Salary of Governor General.](section/105.md)
+  - [s. 106 Appropriation from time to time.](section/106.md)
+  - [s. 107 Transfer of stocks, &c.](section/107.md)
+  - [s. 108 Transfer of property in schedule.](section/108.md)
+  - [s. 109 Property in lands, mines, &c.](section/109.md)
+  - [s. 110 Assets connected with provincial debts.](section/110.md)
+  - [s. 111 Canada to be liable to provincial debts.](section/111.md)
+  - [s. 112 Debts of Ontario and Quebec.](section/112.md)
+  - [s. 113 Assets of Ontario and Quebec.](section/113.md)
+  - [s. 114 Debt of Nova Scotia.](section/114.md)
+  - [s. 115 Debt of New Brunswick.](section/115.md)
+  - [s. 116 Payment of interest to Nova Scotia and New Brunswick.](section/116.md)
+  - [s. 117 Provincial public property.](section/117.md)
+  - [s. 118 ................................](section/118.md)
+  - [s. 119 Further grant to New Brunswick.](section/119.md)
+  - [s. 120 Form of payments.](section/120.md)
+  - [s. 121 Canadian manufactures, &c.](section/121.md)
+  - [s. 122 Continuance of Customs and Excise laws.](section/122.md)
+  - [s. 123 Exportation and importation as between two provinces.](section/123.md)
+  - [s. 124 Lumber dues in New Brunswick.](section/124.md)
+  - [s. 125 Exemption of public lands, &c.](section/125.md)
+  - [s. 126 Provincial Consolidated Revenue Fund.](section/126.md)
+- IX.— MISCELLANEOUS PROVISIONS
+  - General
+    - [s. 127 ................................](section/127.md)
+    - [s. 128 Oaths of allegiance, &c.](section/128.md)
+    - [s. 129 Continuance of existing laws, courts, officers, &c.](section/129.md)
+    - [s. 130 Transfer of officers to Canada.](section/130.md)
+    - [s. 131 Appointment of new officers.](section/131.md)
+    - [s. 132 Treaty obligations.](section/132.md)
+    - [s. 133 Use of English and French languages.](section/133.md)
+  - Ontario and Quebec
+    - [s. 134 Appointment of executive officers for Ontario and Quebec.](section/134.md)
+    - [s. 135 Powers, duties, &c. of executive officers.](section/135.md)
+    - [s. 136 Great Seals.](section/136.md)
+    - [s. 137 Construction of temporary Acts.](section/137.md)
+    - [s. 138 As to errors in names.](section/138.md)
+    - [s. 139 As to issue of proclamations before union, to commence after union.](section/139.md)
+    - [s. 140 As to issue of proclamations after union.](section/140.md)
+    - [s. 141 Penitentiary.](section/141.md)
+    - [s. 142 Arbitration respecting debts, &c.](section/142.md)
+    - [s. 143 Division of records.](section/143.md)
+    - [s. 144 Constitution of townships in Quebec.](section/144.md)
+    - [s. 145 ................................](section/145.md)
+- XI.— ADMISSION OF OTHER COLONIES
+  - [s. 146 Power to admit Newfoundland, &c. into the union.](section/146.md)
+  - [s. 147 As to representation of Newfoundland and Prince Edward Island in Senate.](section/147.md)
+- The First Schedule Electoral Districts of Ontario
+  - A. Existing Electoral Divisions
+  - B. New Electoral Divisions
+- The Second Schedule Electoral Districts of Quebec specially fixed
+- The Third Schedule Provincial Public Works and Property to be the Property of Canada
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- The Fourth Schedule Assets to be the Property of Ontario and Quebec conjointly
+- The Fifth Schedule
+  - Oath of Allegiance
+  - Declaration of Qualification
