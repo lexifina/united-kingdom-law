@@ -1,0 +1,182 @@
+# Merchant Shipping Act 1970
+
+1970 c. 36. Enacted 1970-05-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 1970-05-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1970/36/enacted
+
+## Contents
+
+- Engagement and discharge of crews
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+- Wages, etc.
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+- Safety, health and welfare
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 Other complaints.](section/23.md)
+  - [s. 24 Medical stores.](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+- Offences by seamen, etc.
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+- Defence of drug taken for medical purposes
+  - [s. 33 ................................](section/33.md)
+- Disciplinary offences
+  - [s. 3438 ................................](section/3438.md)
+- Civil liability for absence without leave, smuggling and fines imposed under immigration laws
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 ................................](section/41.md)
+- Trade disputes
+  - [s. 42 Trade disputes involving seamen.](section/42.md)
+- Manning and certification
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+- Disqualification of seamen, inquiries and investigations.
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 ................................](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 60 ................................](section/60.md)
+  - [s. 61 ................................](section/61.md)
+- Relief and repatriation of seamen left behind
+  - [s. 62 ................................](section/62.md)
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 ................................](section/64.md)
+- Property of deceased seamen
+  - [s. 6566. ................................](section/6566.md)
+- Application of sections 62 to 66 to masters
+  - [s. 67 ................................](section/67.md)
+- Documentation, reports and returns
+  - [s. 68 ................................](section/68.md)
+  - [s. 69 ................................](section/69.md)
+  - [s. 70 ................................](section/70.md)
+  - [s. 71 ................................](section/71.md)
+  - [s. 72 ................................](section/72.md)
+  - [s. 73 ................................](section/73.md)
+  - [s. 74 ................................](section/74.md)
+  - [s. 75 ................................](section/75.md)
+  - [s. 75A ................................](section/75A.md)
+- Inspections
+  - [s. 76 ................................](section/76.md)
+- Stowaways, unauthorised presence on board ship and master’s power of arrest
+  - [s. 77 ................................](section/77.md)
+  - [s. 78 ................................](section/78.md)
+  - [s. 79 ................................](section/79.md)
+- Administrative provisions
+  - [s. 80 ................................](section/80.md)
+  - [s. 81 ................................](section/81.md)
+  - [s. 82 ................................](section/82.md)
+  - [s. 83 ................................](section/83.md)
+  - [s. 84 ................................](section/84.md)
+- Miscellaneous
+  - [s. 85 ................................](section/85.md)
+  - [s. 86 ................................](section/86.md)
+  - [s. 87 ................................](section/87.md)
+  - [s. 88 ................................](section/88.md)
+  - [s. 89 ................................](section/89.md)
+  - [s. 90 ................................](section/90.md)
+  - [s. 91 ................................](section/91.md)
+- Unregistered ships and ships registered outside the United Kingdom
+  - [s. 92 ................................](section/92.md)
+  - [s. 93 ................................](section/93.md)
+  - [s. 94 ................................](section/94.md)
+- Fishing vessels and non-sea-going ships
+  - [s. 95 ................................](section/95.md)
+  - [s. 96 ................................](section/96.md)
+- Supplementary
+  - [s. 97 ................................](section/97.md)
+  - [s. 98 ................................](section/98.md)
+  - [s. 99 ................................](section/99.md)
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 ................................](section/101.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 3 Radio rules.](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 6 Radio navigational aids.](schedule/1/paragraph/6.md)
+- SCHEDULE 2
+  - Part I Additional Provisions
+    - Regulations relating to crew agreements
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Production of certificates and other documents of qualification
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Hours of work
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Reports of and inquiries into injuries
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part II Sections 7 and 8 set out as they apply to Fishing Vessels and Persons Employed in them
+    - [Sch. 2 para. 7 Payment of seamen’s wages.](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Accounts of wages and catch.](schedule/2/paragraph/8.md)
+- SCHEDULE 3
+  - The Conspiracy and Protection of Property Act 1875
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Merchant Shipping Act 1894
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Pilotage Act 1913
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Illegal Trawling (Scotland) Act 1934
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Pensions (Navy, Army, Air Force and Mercantile Marine) Act 1939
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Merchant Shipping Act 1964
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Administration of Estates (Small Payments) Act 1965
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Merchant Shipping (Load Lines) Act 1967
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Hovercraft Act 1968
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Income and Corporation Taxes Act 1970
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5
