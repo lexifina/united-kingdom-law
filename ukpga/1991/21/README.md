@@ -1,0 +1,126 @@
+# Disability Living Allowance and Disability Working Allowance Act 1991
+
+1991 c. 21. Enacted 1991-06-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 1991-06-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1991/21/1991-06-27
+
+## Contents
+
+- Disability living allowance
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 Attendance allowance and mobility allowance.](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 Management of disability living allowance and attendance allowance etc.](section/4.md)
+  - [s. 5 ................................](section/5.md)
+- Disability working allowance
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 Disability working allowance - supplementary.](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+- General
+  - [s. 10 Repeals.](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 Short title, commencement and extent.](section/15.md)
+- SCHEDULE 1
+  - Adjudication
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Reviews and appeals
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Disability appeal tribunals
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Financial arrangements
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Making of claim condition of entitlement
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Interpretation
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Disability Living Allowance and Attendance Allowance: Amendments
+  - Vehicles (Excise) Act 1971 (c. 10)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - The 1975 Act
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Social Security (Miscellaneous Provisions) Act 1977 (c. 5)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Capital Gains Tax Act 1979 (c. 14)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Social Security Act 1980 (c. 30)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Transport Act 1982 (c. 49)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Value Added Tax Act 1983 (c. 55)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - The 1986 Act
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Social Security Act 1989 (c. 24)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Capital Allowances Act 1990 (c. 1)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Disability Working Allowance: Amendments
+  - Part I
+    - Administration
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Adjudication
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Overpayments
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Annual up-rating of benefits
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Reciprocal arrangements
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Crown employment
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Financial provision
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part II Amendments of Other Acts
+    - Child Care Act 1980 (c.5)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Transport Act 1982 (c.49)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Income and Corporation Taxes Act 1988 (c.1)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Education Reform Act 1988 (c.40)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Children Act 1989 (c.41)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Repeals
