@@ -1,0 +1,260 @@
+# Gas Act 1995
+
+1995 c. 45. Enacted 1995-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 1995-11-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/45
+
+Source: https://www.legislation.gov.uk/ukpga/1995/45/enacted
+
+## Contents
+
+- Introductory
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+- Licensing of activities relating to gas
+  - [s. 3 Prohibition on unlicensed activities.](section/3.md)
+  - [s. 4 Exemptions from prohibition.](section/4.md)
+  - [s. 5 Licensing of public gas transporters.](section/5.md)
+  - [s. 6 Licensing of gas suppliers and gas shippers.](section/6.md)
+  - [s. 7 Licences: general.](section/7.md)
+  - [s. 8 Standard conditions of licences.](section/8.md)
+- Miscellaneous
+  - [s. 9 The gas code.](section/9.md)
+  - [s. 10 Other amendments of Part I of 1986 Act.](section/10.md)
+  - [s. 11 Amendments of Part III of 1986 Act. 1976 c.34.](section/11.md)
+  - [s. 12 Acquisition of rights to use gas processing facilities for downstream purposes.](section/12.md)
+- Supplemental
+  - [s. 13 Duty of Authority to advise etc.](section/13.md)
+  - [s. 14 Financial provisions.](section/14.md)
+  - [s. 15 Interpretation.](section/15.md)
+  - [s. 16 Minor and consequential amendments.](section/16.md)
+  - [s. 17 Transitional provisions, savings and repeals.](section/17.md)
+  - [s. 18 Short title, commencement and extent.](section/18.md)
+- SCHEDULE 1
+- SCHEDULE 2
+- SCHEDULE 3 Other amendments of Part I of 1986 Act
+  - Assignment of licences
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Modification or removal of certain limits
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Powers and duties of public gas transporters
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Duty to connect certain premises
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Power to require security
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Methods of calculating therms
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Calorific values: tests of apparatus etc.
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Fixing of tariffs
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Determination of disputes
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Billing disputes
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Promotion of efficient use of gas
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Standards of quality
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Meter testing and stamping
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Safety regulations
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Gas escape regulations
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Acquisition of rights to use pipe-line systems
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Construction of pipe-lines
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Increase of capacity etc. of pipe-lines
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Effect of directions as respects pipe-lines
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Construction of pipe-lines by public gas transporters
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Modification of licences by agreement
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Modification references to Monopolies Commission
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Reports on modification references
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Modification following report
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Modification by order under other enactments
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Determination of certain disputes
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Orders for securing compliance with certain provisions
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Procedural requirements
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Validity and effect of orders
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - Duty of Director to investigate certain matters
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - Duty of Council to investigate certain matters
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Preliminary investigation by Council of certain disputes
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Power of Council to investigate other matters
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - Standards of performance in individual cases
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - Overall standards of performance
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Standards for promoting efficient use of gas
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - Information with respect to levels of performance
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - Information to be given to customers about overall performance
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - Procedures for dealing with complaints
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+  - General functions of Director
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+  - Publication of information and advice
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+  - Keeping of register
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+  - Functions with respect to competition
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+  - Functions with respect to gas measuring equipment etc.
+    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+  - Maximum prices for reselling gas
+    - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+  - Power to require information etc.
+    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+  - Duty to consider representations and give reasons
+    - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+  - Annual and other reports
+    - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+  - General duty of Council to advise Director
+    - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+  - General restrictions on disclosure of information
+    - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+  - Making of false statements etc.
+    - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+  - Service of notices etc.
+    - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+  - Provisions as to regulations
+    - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+  - Interpretation of Part I and savings
+    - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+  - The Director General of Gas Supply
+    - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+  - Acquisition of land by public gas transporters
+    - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+  - Power of public gas transporters to break up streets, bridges etc.
+    - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Enactments relating to statutory undertakers etc.
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Public Health Act 1936 (c.49)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Statistics of Trade Act 1947 (c.39)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Rights of Entry (Gas and Electricity Boards) Act 1954 (c.21)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Pipe-lines Act 1962 (c.58)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Gas Act 1965 (c.36)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Local Government (Scotland) Act 1966 (c.51)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Post Office Act 1969 (c.48)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Health and Safety at Work etc. Act 1974 (c.37)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Energy Act 1976 (c.76)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Water (Scotland) Act 1980 (c.45)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Bankruptcy (Scotland) Act 1985 (c.66)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Insolvency Act 1986 (c.45)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Consumer Protection Act 1987 (c.43)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Road Traffic (Driver Licensing and Information Systems) Act 1989 (c.22)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Electricity Act 1989 (c.29)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Town and Country Planning Act 1990 (c.8)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Enterprise and New Towns (Scotland) Act 1990 (c.35)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Natural Heritage (Scotland) Act 1991 (c.28)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Central Rating Lists Regulations 1994 (S.I. 1994/3121)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+- SCHEDULE 5 Transitional provisions and savings
+  - Part I Public gas suppliers’ authorisations
+    - Preliminary
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Duty of public gas supplier to nominate associates and make transfer scheme
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Functions of Secretary of State in relation to nominations and transfer scheme
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Duty of Secretary of State to make licensing scheme
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Information etc. for purposes of Secretary of State’s functions
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Effect of schemes
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Supplementary provisions as to transfers
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Shares issued to public gas supplier by transferee
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Statutory accounts
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Corporation tax
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Petroleum revenue tax and gas levy
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Consequential modifications of rating provisions
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Part II Other transitional provisions and savings
+    - Approvals under section 5(3)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Notifications under section 6
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Applications for authorisation under section 7
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Individual authorisations under section 8
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Class authorisations under section 8
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Gas shipping arrangements already made
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Former tariff customers
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Connection charges
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Promotion of efficient use of gas
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Meter testing and stamping
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Restrictions on use of certain information
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Recovery of gas charges etc.
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Use of antifluctuators and valves
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Restoration of supply without consent
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Failure to notify connection or disconnection of service pipe
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Entry warrants
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Street works notices
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Restrictive trade practices
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - Rating provisions
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+- SCHEDULE 6 Repeals
