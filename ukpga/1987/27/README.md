@@ -1,0 +1,143 @@
+# Fire Safety and Safety of Places of Sport Act 1987
+
+1987 c. 27. Enacted 1987-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 1987-05-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1987/27/enacted
+
+## Contents
+
+- Part I Fire Safety
+  - Exemption from requirement to have fire certificate
+    - [s. 1 Power to exempt from requirement to have fire certificate.](section/1.md)
+    - [s. 2 Exemption from requirement to have fire certificate: supplementary.](section/2.md)
+    - [s. 3 Charges for fire certification work.](section/3.md)
+  - Means of escape and for fighting fire
+    - [s. 4 Means of escape: scope of regulation.](section/4.md)
+    - [s. 5 General duty as to means of escape and for fighting fire.](section/5.md)
+    - [s. 6 Codes of practice.](section/6.md)
+    - [s. 7 Improvement notices.](section/7.md)
+  - Interim duties as to safety of premises
+    - [s. 8 Duties as regards safety pending determination of applications for fire certificates.](section/8.md)
+  - Premises involving serious risk to persons
+    - [s. 9 Special procedure in case of serious risk: prohibition notices.](section/9.md)
+  - Inspections of premises
+    - [s. 10 Inspections of premises.](section/10.md)
+    - [s. 11 Disclosure of information obtained in premises.](section/11.md)
+  - Civil and other liability
+    - [s. 12 Civil and other liability.](section/12.md)
+  - Miscellaneous
+    - [s. 13 Removal of exemption for premises used for public religious worship.](section/13.md)
+    - [s. 14 Breaches of fire certificate requirements: restriction of defence.](section/14.md)
+    - [s. 15 Automatic means for fighting fire.](section/15.md)
+    - [s. 16 Special provision for certain premises.](section/16.md)
+    - [s. 17 Extension of power to apply Act.](section/17.md)
+    - [s. 18 Application to Crown etc.](section/18.md)
+- Part II Safety of Sports Grounds
+  - Application of Safety of Sports Grounds Act 1975 to all sports grounds
+    - [s. 19 Application of Safety of Sports Grounds Act 1975 to all sports grounds.](section/19.md)
+  - Designation: spectator capacity
+    - [s. 20 Designation of grounds; variation in qualifying spectator capacity.](section/20.md)
+  - Safety certificates
+    - [s. 21 Safety certificates: police presence.](section/21.md)
+    - [s. 22 Safety certificates: appeals.](section/22.md)
+  - Grounds involving serious risk to spectators
+    - [s. 23 Special procedure in case of serious risk: prohibition notices.](section/23.md)
+    - [s. 24 Prohibition notices: appeals.](section/24.md)
+  - Enforcement: inspections and obstruction
+    - [s. 25 Enforcement: inspections and offence of obstruction.](section/25.md)
+- Part III Safety of Stands at Sports Grounds
+  - [s. 26 Safety certificates for stands at sports grounds.](section/26.md)
+  - [s. 27 Contents of safety certificates for stands.](section/27.md)
+  - [s. 28 Issue of certificates.](section/28.md)
+  - [s. 29 Amendment, cancellation etc. of certificates.](section/29.md)
+  - [s. 29A Safety certificates: fire safety](section/29A.md)
+  - [s. 30 Appeals.](section/30.md)
+  - [s. 31 Regulations.](section/31.md)
+  - [s. 32 Alterations and extensions.](section/32.md)
+  - [s. 33 Exclusion of other statutory requirements.](section/33.md)
+  - [s. 34 Enforcement.](section/34.md)
+  - [s. 35 Powers of entry and inspection.](section/35.md)
+  - [s. 36 Offences.](section/36.md)
+  - [s. 37 Civil and other liability.](section/37.md)
+  - [s. 38 Service of documents.](section/38.md)
+  - [s. 39 Power to modify Part for classes of stand.](section/39.md)
+  - [s. 40 Application to Crown.](section/40.md)
+  - [s. 41 Interpretation.](section/41.md)
+- Part IV Indoor Sports Licences
+  - Licensing in England and Wales
+    - [s. 42 Licensing of indoor sports premises in London.](section/42.md)
+    - [s. 43 Licensing of indoor sports premises outside London.](section/43.md)
+  - Licensing in Scotland
+    - [s. 44 Licensing of indoor sports premises in Scotland.](section/44.md)
+- Part V Miscellaneous and General
+  - Miscellaneous
+    - [s. 45 Entertainment licences: removal of exemption.](section/45.md)
+    - [s. 46 Entertainment licences: fees for variation.](section/46.md)
+    - [s. 47 Luminous tube signs: England and Wales.](section/47.md)
+    - [s. 48 Luminous tube signs: Scotland.](section/48.md)
+  - General
+    - [s. 49 Repeals and transitional and saving provisions.](section/49.md)
+    - [s. 50 Short title, commencement and extent.](section/50.md)
+- SCHEDULE 1 Fire Precautions: Special Provision for Certain Premises
+- SCHEDULE 2 Special Provision for Certain Premises
+  - Part I The Premises
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II The Modifications
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 2 Extension of Application of Safety of Sports Grounds Act 1975 to Sports Grounds
+- SCHEDULE 3 Indoor Sports Licences
+  - Consequential Amendments
+    - Preliminary
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Amendments
+    - Music and dancing licences
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Boxing and wrestling licences
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Licences continued during applications
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Transmission and cancellation of licences
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Power to impose general terms et ceteralaetc. by regulations
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Enforcement
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Provisional grant of licences
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Variation of licences
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Appeals
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Meaning of “premises”
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Repeals
+- SCHEDULE 5 Transitional and Saving Provisions
+  - Preliminary
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Certain certificates deemed to be fire certificates
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Charges for fire certification work
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Fire safety: emergency orders
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Sports grounds: certain existing designations
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Sports grounds certificates: appeals
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Sports grounds: emergency orders
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Entertainment licences for sports generally
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Boxing or wrestling licences
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
