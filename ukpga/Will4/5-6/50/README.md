@@ -1,0 +1,62 @@
+# Highway Act 1835
+
+1835 c. 50. Enacted 1835-08-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 1835-08-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Will4/5-6/50/enacted
+
+## Contents
+
+- [s. 14. ................................](section/14.md)
+- [s. 5 Interpretation clause.](section/5.md)
+- [s. 618. ................................](section/618.md)
+- [s. 1921. ................................](section/1921.md)
+- [s. 22 ................................](section/22.md)
+- [s. 2326. ................................](section/2326.md)
+- [s. 27 ................................](section/27.md)
+- [s. 2829. ................................](section/2829.md)
+- [s. 30 ................................](section/30.md)
+- [s. 3132. ................................](section/3132.md)
+- [s. 33 ................................](section/33.md)
+- [s. 34 ................................](section/34.md)
+- [s. 35 ................................](section/35.md)
+- [s. 3640. ................................](section/3640.md)
+- [s. 41 ................................](section/41.md)
+- [s. 4243. ................................](section/4243.md)
+- [s. 44 ................................](section/44.md)
+- [s. 45 ................................](section/45.md)
+- [s. 46 ................................](section/46.md)
+- [s. 47 ................................](section/47.md)
+- [s. 48 ................................](section/48.md)
+- [s. 49 ................................](section/49.md)
+- [s. 50 ................................](section/50.md)
+- [s. 5170. ................................](section/5170.md)
+- [s. 71 ................................](section/71.md)
+- [s. 72 Penalty on persons committing nuisances by riding on footpaths, &c.](section/72.md)
+- [s. 73 ................................](section/73.md)
+- [s. 74 ................................](section/74.md)
+- [s. 75 ................................](section/75.md)
+- [s. 76 ................................](section/76.md)
+- [s. 77 ................................](section/77.md)
+- [s. 78 Drivers of waggons or carts not to ride thereon unless some other person guide them. Drivers causing hurt or damage to others, or quitting the road, or driving carriage without owner’s name, or not keeping the left or near side, or interrupting free passage, if not the owner to forefeit 20s; if he be the owner, 40s.](section/78.md)
+- [s. 7996. ................................](section/7996.md)
+- [s. 97 ................................](section/97.md)
+- [s. 98 ................................](section/98.md)
+- [s. 99 ................................](section/99.md)
+- [s. 100 ................................](section/100.md)
+- [s. 101102. ................................](section/101102.md)
+- [s. 103 ................................](section/103.md)
+- [s. 104 ................................](section/104.md)
+- [s. 105108. ................................](section/105108.md)
+- [s. 109 ................................](section/109.md)
+- [s. 110 ................................](section/110.md)
+- [s. 111 ................................](section/111.md)
+- [s. 112 ................................](section/112.md)
+- [s. 113 ................................](section/113.md)
+- [s. 114115. ................................](section/114115.md)
+- [s. 116 ................................](section/116.md)
+- [s. 117118. ................................](section/117118.md)
+- [s. 119 ................................](section/119.md)
+- [s. 120 ................................](section/120.md)
+- SCHEDULE
