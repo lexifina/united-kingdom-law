@@ -1,0 +1,256 @@
+# Social Security Act 1973
+
+1973 c. 38. Enacted 1973-07-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 1973-07-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1973/38/enacted
+
+## Contents
+
+- PART I The Basic Scheme
+  - [s. 1](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 23](section/23.md)
+  - [s. 24 ................................](section/24.md)
+- PART II Occupational Pension Schemes
+  - Recognition
+    - [s. 51 Recognised pensionable employment.](section/51.md)
+    - [s. 52](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 58 Transfer of benefit between schemes: linked qualifying service.](section/58.md)
+    - [s. 59 Financing and security of minimum benefits.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Preservation of benefit under occupational pension schemes
+    - [s. 63 ................................](section/63.md)
+  - Modification and winding-up of schemes
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 ................................](section/65.md)
+  - The Occupational Pensions Board
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+  - Miscellaneous
+    - [s. 69 Rule against perpetuities.](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+- PART III
+  - [s. 73 ................................](section/73.md)
+- PART IV Miscellaneous and General
+  - Adjudication
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 ................................](section/87.md)
+  - Administration, enforcement, etc.
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 Disclosure of information by Inland Revenue.](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+    - [s. 92](section/92.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 ................................](section/94.md)
+  - Northern Ireland
+    - [s. 95 Further provisions as to Northern Ireland.](section/95.md)
+  - Subordinate legislation
+    - [s. 96 Orders and regulations (general provisions).](section/96.md)
+    - [s. 97 Parliamentary control of orders and regulations.](section/97.md)
+  - General
+    - [s. 98 Financial provisions.](section/98.md)
+    - [s. 99 Interpretation.](section/99.md)
+    - [s. 100 Transitional provisions; minor and consequential amendments; repeals.](section/100.md)
+    - [s. 101 Citation and commencement.](section/101.md)
+- SCHEDULES 1–14
+- SCHEDULE 15
+- SCHEDULE 16
+  - Part I
+    - Interpretation
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - Basic principle as to short service benefit
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - Qualifying service
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - No discrimination between short service and long service beneficiaries
+      - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - Form of short service benefit and its alternatives
+      - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - Computation of benefit
+      - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+      - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+      - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - Credits
+      - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - Pension-increases
+      - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - Assignment, surrender and commutation of benefit
+      - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - Forfeiture, etc.
+      - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+      - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+      - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+      - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - Part II Supplementary Regulations
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+- SCHEDULE 17
+  - Preliminary
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Membership
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Expenses; remuneration etc. of members
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - Proceedings
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - Staff etc.
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - Fees
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+  - Instruments and contracts
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+- SCHEDULES 18–20
+- SCHEDULE 21
+- SCHEDULE 22
+- SCHEDULE 23
+  - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+- SCHEDULE 24
+- SCHEDULE 25
+- SCHEDULE 26
+- SCHEDULE 27 Minor and Consequential amendments
+  - Part I Enactments of the Parliament of the United Kingdom
+    - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+    - The Fire Services Act 1947 (c. 41)
+      - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+    - The National Assistance Act 1948 (c. 29)
+      - [Sch. 27 para. 7](schedule/27/paragraph/7.md)
+      - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+      - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+    - The Industrial Assurance and Friendly Societies Act 1948 (c. 39)
+      - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+      - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+    - The Children Act 1948 (c. 43)
+      - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+      - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
+    - The Justices of the Peace Act 1949 (c. 101)
+      - [Sch. 27 para. 14](schedule/27/paragraph/14.md)
+    - The Fire Services Act 1951 (c. 27)
+      - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
+    - The Local Government Superannuation Act 1953 (c. 25)
+      - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+    - The Friendly Societies Act 1955 (4 Eliz. 2. c. 19)
+      - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+      - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+    - The Public Records Act 1958 (c. 51)
+      - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+      - [Sch. 27 para. 20](schedule/27/paragraph/20.md)
+      - [Sch. 27 para. 21](schedule/27/paragraph/21.md)
+      - [Sch. 27 para. 22](schedule/27/paragraph/22.md)
+      - [Sch. 27 para. 23](schedule/27/paragraph/23.md)
+    - The Diplomatic Privileges Act 1964 (c. 81)
+      - [Sch. 27 para. 24](schedule/27/paragraph/24.md)
+      - [Sch. 27 para. 25](schedule/27/paragraph/25.md)
+      - [Sch. 27 para. 48](schedule/27/paragraph/48.md)
+      - [Sch. 27 para. 49](schedule/27/paragraph/49.md)
+      - [Sch. 27 para. 50](schedule/27/paragraph/50.md)
+      - [Sch. 27 para. 51](schedule/27/paragraph/51.md)
+      - [Sch. 27 para. 53](schedule/27/paragraph/53.md)
+      - [Sch. 27 para. 54](schedule/27/paragraph/54.md)
+      - [Sch. 27 para. 60](schedule/27/paragraph/60.md)
+    - The Commonwealth Secretariat Act 1966 (c. 10)
+      - [Sch. 27 para. 64](schedule/27/paragraph/64.md)
+      - [Sch. 27 para. 65](schedule/27/paragraph/65.md)
+      - [Sch. 27 para. 67](schedule/27/paragraph/67.md)
+      - [Sch. 27 para. 68](schedule/27/paragraph/68.md)
+    - The Superannuation (Miscellaneous Provisions) Act 1967 (c. 28)
+      - [Sch. 27 para. 72](schedule/27/paragraph/72.md)
+      - [Sch. 27 para. 73](schedule/27/paragraph/73.md)
+    - The Consular Relations Act 1968 (c. 18)
+      - [Sch. 27 para. 78](schedule/27/paragraph/78.md)
+      - [Sch. 27 para. 79](schedule/27/paragraph/79.md)
+    - The International Organisations Act 1968 (c. 48)
+      - [Sch. 27 para. 80](schedule/27/paragraph/80.md)
+      - [Sch. 27 para. 81](schedule/27/paragraph/81.md)
+    - The Administration of Justice Act 1970 (c. 31)
+      - [Sch. 27 para. 85](schedule/27/paragraph/85.md)
+      - [Sch. 27 para. 86](schedule/27/paragraph/86.md)
+    - The Attachment of Earnings Act 1971 (c. 32)
+      - [Sch. 27 para. 88](schedule/27/paragraph/88.md)
+      - [Sch. 27 para. 89](schedule/27/paragraph/89.md)
+    - The Housing (Financial Provisions) (Scotland) Act 1972 (c. 46)
+      - [Sch. 27 para. 96](schedule/27/paragraph/96.md)
+    - The Housing Finance Act 1972 (c. 47)
+      - [Sch. 27 para. 97](schedule/27/paragraph/97.md)
+    - The Administration of Justice Act 1973 (c. 15)
+      - [Sch. 27 para. 98](schedule/27/paragraph/98.md)
+  - Part II Enactments of the Parliament of Northern Ireland, and Orders in Council applying to Northern Ireland
+    - [Sch. 27 para. 99](schedule/27/paragraph/99.md)
+    - The Wages Councils Act (Northern Ireland) 1945 (c. 21)
+      - [Sch. 27 para. 100](schedule/27/paragraph/100.md)
+      - [Sch. 27 para. 101](schedule/27/paragraph/101.md)
+      - [Sch. 27 para. 102](schedule/27/paragraph/102.md)
+    - The Employment and Training Act (Northern Ireland) 1950 (c. 29)
+      - [Sch. 27 para. 103](schedule/27/paragraph/103.md)
+      - [Sch. 27 para. 104](schedule/27/paragraph/104.md)
+    - The Judicial Pensions Act (Northern Ireland) 1951 (c. 20)
+      - [Sch. 27 para. 105](schedule/27/paragraph/105.md)
+      - [Sch. 27 para. 107](schedule/27/paragraph/107.md)
+      - [Sch. 27 para. 108](schedule/27/paragraph/108.md)
+      - [Sch. 27 para. 109](schedule/27/paragraph/109.md)
+      - [Sch. 27 para. 111](schedule/27/paragraph/111.md)
+      - [Sch. 27 para. 112](schedule/27/paragraph/112.md)
+      - [Sch. 27 para. 113](schedule/27/paragraph/113.md)
+      - [Sch. 27 para. 115](schedule/27/paragraph/115.md)
+      - [Sch. 27 para. 116](schedule/27/paragraph/116.md)
+    - The Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965 (c. 19)
+      - [Sch. 27 para. 117](schedule/27/paragraph/117.md)
+      - [Sch. 27 para. 118](schedule/27/paragraph/118.md)
+      - [Sch. 27 para. 119](schedule/27/paragraph/119.md)
+      - [Sch. 27 para. 120](schedule/27/paragraph/120.md)
+      - [Sch. 27 para. 121](schedule/27/paragraph/121.md)
+      - [Sch. 27 para. 122](schedule/27/paragraph/122.md)
+      - [Sch. 27 para. 123](schedule/27/paragraph/123.md)
+      - [Sch. 27 para. 124](schedule/27/paragraph/124.md)
+      - [Sch. 27 para. 126](schedule/27/paragraph/126.md)
+      - [Sch. 27 para. 127](schedule/27/paragraph/127.md)
+      - [Sch. 27 para. 128](schedule/27/paragraph/128.md)
+      - [Sch. 27 para. 129](schedule/27/paragraph/129.md)
+      - [Sch. 27 para. 149](schedule/27/paragraph/149.md)
+      - [Sch. 27 para. 151](schedule/27/paragraph/151.md)
+      - [Sch. 27 para. 156](schedule/27/paragraph/156.md)
+      - [Sch. 27 para. 163](schedule/27/paragraph/163.md)
+      - [Sch. 27 para. 164](schedule/27/paragraph/164.md)
+      - [Sch. 27 para. 165](schedule/27/paragraph/165.md)
+      - [Sch. 27 para. 166](schedule/27/paragraph/166.md)
+    - The Friendly Societies Act (Northern Ireland) 1970 (c. 31)
+      - [Sch. 27 para. 167](schedule/27/paragraph/167.md)
+      - [Sch. 27 para. 168](schedule/27/paragraph/168.md)
+      - [Sch. 27 para. 170](schedule/27/paragraph/170.md)
+      - [Sch. 27 para. 171](schedule/27/paragraph/171.md)
+      - [Sch. 27 para. 172](schedule/27/paragraph/172.md)
+      - [Sch. 27 para. 175](schedule/27/paragraph/175.md)
+      - [Sch. 27 para. 176](schedule/27/paragraph/176.md)
+- SCHEDULE 28 Repeals
+  - Part I Enactments of the Parliament of the United Kingdom
+  - Part II Enactments of the Parliament of Northern Ireland, and Orders in Council Applying to Northern Ireland.
