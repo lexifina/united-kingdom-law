@@ -1,0 +1,228 @@
+# Merchant Shipping Act 1979
+
+1979 c. 39. Enacted 1979-04-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 1979-04-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1979/39/enacted
+
+## Contents
+
+- [s. 112 ................................](section/112.md)
+- [s. 13](section/13.md)
+- Carriage of passengers and luggage by sea
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+- Liability of shipowners and salvors
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+- Prevention of pollution from ships etc.
+  - [s. 20 ................................](section/20.md)
+  - [s. 20A ................................](section/20A.md)
+- Safety and health on ships
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+- Discipline
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+- Inspectors
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+- Deaths on ships
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+- Miscellaneous
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 ................................](section/36.md)
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 Foreign action affecting shipping.](section/40.md)
+  - [s. 41 ................................](section/41.md)
+- Offences
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 ................................](section/46.md)
+- Supplemental
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 ................................](section/52.md)
+- SCHEDULE 1 ...
+- SCHEDULE 2 ...
+- SCHEDULE 3
+  - Part I Text of Convention
+    - Article 1
+      - Definitions
+        - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+        - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+        - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+        - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+        - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+        - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+        - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+        - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+        - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Article 2
+      - Application
+    - Article 3
+      - Liability of the carrier
+    - Article 4
+      - Performing carrier
+    - Article 5
+      - Valuables
+    - Article 6
+      - Contributory fault
+    - Article 7
+      - Limit of liability for personal injury
+    - Article 8
+      - Limit of liability for loss of or damage to luggage
+    - Article 9
+      - Monetary unit and conversion
+    - Article 10
+      - Supplementary provisions on limits of liability
+    - Article 11
+      - Defences and limits for carriers’ servants
+    - Article 12
+      - Aggregation of claims
+    - Article 13
+      - Loss of right to limit liability
+    - Article 14
+      - Basis for claims
+    - Article 15
+      - Notice of loss or damage to luggage
+    - Article 16
+      - Time-bar for actions
+    - Article 17
+      - Competent jurisdiction
+    - Article 18
+      - Invalidity of contractual provisions
+    - Article 19
+      - Other conventions on limitation of liability
+    - Article 20
+      - Nuclear damage
+    - Article 21
+      - Commercial carriage by public authorities
+  - Part II Provisions having effect in connection with Convention
+    - Interpretation
+    - Provisions adapting or supplementing specified articles of the Convention
+    - Other provisions adapting or supplementing the Convention
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Application of ss. 502 and 503 of Merchant Shipping Act 1894 and section 17 and 18 of this Act
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part III Modifications of Parts I and II in consequence of Protocol of 19th November 1976
+    - Article 9
+      - Unit of account and conversion
+- SCHEDULE 4
+  - Part I Text of Convention
+    - Chapter I. The Right of Limitation
+      - Persons entitled to limit liability
+        - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+        - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+        - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+        - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+        - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+        - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - Claims subject to limitation
+      - Claims excepted from limitation
+      - Conduct barring limitation
+      - Counterclaims
+    - Chapter II. Limits of Liability
+      - The general limits
+      - The limit for passenger claims
+      - Unit of Account
+      - Aggregation of claims
+      - Limitation of liability without constitution of a limitation fund
+    - Chapter III. The Limitation Fund
+      - Constitution of the fund
+      - Distribution of the fund
+      - Bar to other actions
+      - Governing law
+    - Chapter IV. Scope of Application
+  - Part II Provisions having effect in connection with Convention
+    - Interpretation
+    - Right to limit liability
+    - Claims subject to limitation
+    - The general limits
+    - Limit for passenger claims
+    - Units of Account
+    - Constitution of fund
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Distribution of land
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Bar to other actions
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Meaning of “court”
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Meaning of “ship”
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Meaning of “State Party”
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5
+  - The Merchant Shipping (Liability of Shipowners and Others) Act 1900
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 ................................](schedule/5/paragraph/2.md)
+  - The Crown Proceedings Act 1947
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - The Hovercraft Act 1968
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Carriage of Goods by Sea Act 1971
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - The Merchant Shipping (Oil Pollution) Act 1971
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6
+  - Part I Maximum Fine of £50 on Summary Conviction
+  - Part II Maximum Fine of £200 on Summary Conviction
+  - Part III Maximum Fine of £500 on Summary Conviction
+  - Part IV Maximum Fine of £1,000 on Summary Conviction
+  - Part V Fine on Conviction on Indictment and Maximum Fine of £1,000 on Summary Conviction
+  - Part VI Miscellaneous Penalties on Summary Conviction
+    - Maximum fines of £50
+      - [Sch. 6 para. 1 ................................](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Maximum fines of £200 and £20 a day
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Miscellaneous
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Part VII Other Penalties
+    - The Merchant Shipping Act 1894
+    - The Merchant Shipping Act 1921 1921 c. 28.
+    - The Merchant Shipping (Safety Convention) Act 1949
+    - The Merchant Shipping (Load Lines) Act 1967
+    - The Merchant Shipping Act 1970
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - The Merchant Shipping Act 1974
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+- SCHEDULE 7
+  - Part I Enactments Relating to Liability of Shipowners and Salvors
+  - Part II Other Enactments
