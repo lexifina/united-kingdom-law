@@ -1,0 +1,12 @@
+---
+title: Dean Forest (Mines) Act 1838, s. LXVIII
+heading: Miners to pay Compensation to Owners of inclosed Lands for Surface Damage.
+status: In force
+extent:
+version: 1838-07-27
+source: https://www.legislation.gov.uk/ukpga/Vict/1-2/43/section/LXVIII/1838-07-27
+---
+
+# LXVIII Miners to pay Compensation to Owners of inclosed Lands for Surface Damage.
+
+Every Free Miner or other person who is or may be entitled to any gale, pit, level, or work within any inclosed lands of the said Hundred shall and he is hereby required to pay to the owner of any such inclosed lands a full and fair compensation in money for any surface damage which may be done or occasioned to any of such inclosed lands by reason or means of the opening or working any gale, pit, level, or work therein or thereon, which compensation shall be ascertained and determined... by the Gaveller or Deputy Gaveller for the time being; and if such compensation shall not be paid within ten days... after the making of any such Award by the Gaveller or Deputy Gaveller, and a copy thereof served upon or left at the last known or usual place of abode of the party required to pay the same, then the amount of such compensation may be recovered in an action of debt by the person or persons entitled to receive the same in the High Court, together with full costs; and it shall not be lawful for any such person who shall have so neglected or refused to pay such compensation, or for any other person or persons whomsoever claiming by, from, through, or under him, to open or work or to proceed in the opening or working of any gale, pit, level, or work in respect of which compensation shall have been so awarded for surface damage until the same shall have been fully paid as aforesaid: Provided nevertheless, that if the owner or owners of any of the inclosed lands within the said Hundred shall at any time within six calendar months from the passing of this Act give notice in writing to the said Commissioners hereby appointed of his or their desire that the provisions of this Act should not extend to such lands, then and thereupon this Act shall be taken not to extend to such lands, so as the same be specified in such notice; but all and every rights, customs, and privileges existing at the passing of this Act, so far as regards such lands, or the mines and minerals thereunder, and the right to the same, shall continue in force in all respects as if this Act had not been passed;...

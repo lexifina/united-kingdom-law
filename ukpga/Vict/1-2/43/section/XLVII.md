@@ -1,0 +1,12 @@
+---
+title: Dean Forest (Mines) Act 1838, s. XLVII
+heading: In case of Dispute the Amount of new Royalty to be referred to Arbitration.
+status: In force
+extent:
+version: 1838-07-27
+source: https://www.legislation.gov.uk/ukpga/Vict/1-2/43/section/XLVII/1838-07-27
+---
+
+# XLVII In case of Dispute the Amount of new Royalty to be referred to Arbitration.
+
+Provided always, that if any person or persons entitled to any gale, pit, level, or work shall not within the space of three calendar months after the cesser and determination of the galeage rent, royalty, or tonnage duty enter into an Agreement in writing with the Commissioners for the time being of Her Majesty’s Woods, Forests, Land Revenues, Works, and Buildings, determining the new galeage rent, royalty, or tonnage duty, or if any dispute shall arise between the Gaveller or Deputy Gaveller for the time being and any such person or persons entitled to any gale, pit, level, work, or quarry, respecting the amount or nature of such new galeage rent, royalty, or tonnage duty to be so fixed by the said Gaveller or Deputy Gaveller for the time being as aforesaid, the matter in dispute shall be referred to the decision of an arbitrator to be appointed by the Gaveller or Deputy Gaveller for the time being and the person or persons so disputing as aforesaid, by some Writing under their respective hands; and if the said parties shall not be able to agree respecting the appointment of such arbitrator, then application, after fourteen days notice given to the party disputing, shall be made on the behalf of the Commissioners for the time being of Her Majesty’s Woods, Forests, Land Revenues, Works, and Buildings to the High Court to appoint a fit person to assign and determine the amount of the new galeage rent, royalty or tonnage duty, and thereupon it shall be referred to such arbitrator, who shall determine the same; and the decision of such arbitrator, whether named by the said parties or by the High Court, in Writing under his hand, shall be final and binding upon all parties; and the amount of new galeage rent, royalty, or tonnage duty fixed by such arbitrator shall be the amount to be payable by the owner of such gale, pit, level, or work, his executors, administrators, and assigns, to Her Majesty, Her Heirs and Successors, subject to such determination thereof by election at the end of twenty-one years as aforesaid.

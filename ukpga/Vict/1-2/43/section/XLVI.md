@@ -1,0 +1,12 @@
+---
+title: Dean Forest (Mines) Act 1838, s. XLVI
+heading: The Royalty to cease at the End of every Twenty-one Years, and new Royalty to be thereupon payable to Her Majesty.
+status: In force
+extent:
+version: 1838-07-27
+source: https://www.legislation.gov.uk/ukpga/Vict/1-2/43/section/XLVI/1838-07-27
+---
+
+# XLVI The Royalty to cease at the End of every Twenty-one Years, and new Royalty to be thereupon payable to Her Majesty.
+
+As regards existing gales, pits, levels, or works, the galeage rent, royalty, or tonnage duty payable to Her Majesty, Her Heirs and Successors, shall at the end of twenty-one years from the making of the said Award, and so on thereafter at the end of every subsequent twenty-one years, cease if the Gaveller or Deputy Gaveller, or the person or persons entitled to such gale, pit, level, or work, shall so elect; and as regards gales, pits, levels, or works hereafter to be granted, the galeage rent, royalty, or tonnage duty payable to Her Majesty, Her Heirs or Successors, under or by virtue or in respect of any gale hereafter to be granted, shall at the end of twenty-one years, and so on thereafter at the end of every subsequent twenty-one years from the granting thereof, cease if the said Gaveller or Deputy Gaveller, or the person or persons entitled to the said gale, pit, level, or work, shall so elect; and upon any such cesser the Gaveller or Deputy Gaveller for the time being shall fix the amount of the new galeage rent, royalty, or tonnage duty to be paid for the twenty-one years then next ensuing the cesser and determination of the former galeage rent, royalty, or tonnage duty in lieu of the right of Her Majesty, Her Heirs and Successors, to put in a fifth man to work the said gales, pits, levels, or works respectively and share the profit thereof, (such right being the basis and maximum of the calculation to be made for the ascertaining from time to time the new galeage rent, royalty, or tonnage duty payable and to be paid to Her Majesty, Her Heirs and Successors, as aforesaid,) and so as in the fixing from time to time the said new galeage rent, royalty, or tonnage duty, and also in fixing the galeage rent, royalty, or tonnage duty on the first grant of any gale hereafter to be granted under the provisions of this Act, the particular circumstances attending the gale, pit, level, or work, and its extent and probable cost of working, and other circumstances usual in the estimation of mining rents or royalty, shall be taken into consideration by the Gaveller or Deputy Gaveller for the time being.

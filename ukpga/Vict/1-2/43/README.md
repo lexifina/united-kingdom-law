@@ -1,0 +1,56 @@
+# Dean Forest (Mines) Act 1838
+
+1838 c. 43. Enacted 1838-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 1838-07-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/1-2/43/enacted
+
+## Contents
+
+- [s. IXIII. ................................](section/IXIII.md)
+- [s. XIV Who shall be deemed Free Miners.](section/XIV.md)
+- [s. XV Quarrymen to be deemed Free Miners for certain Purposes.](section/XV.md)
+- [s. XVI Register of Free Miners to be made.](section/XVI.md)
+- [s. XVII †Gaveller may refuse to register, unless Evidence is produced, subject to Appeal to the Commissioners.](section/XVII.md)
+- [s. XVIII ................................](section/XVIII.md)
+- [s. XIX †After the Commissioners have ceased to act, Appeal may be made to the Sessions or the Court of Verderers.](section/XIX.md)
+- [s. XX Free Miners to be registered.](section/XX.md)
+- [s. XXI No Person a Free Miner who is not registered.](section/XXI.md)
+- [s. XXII Extract from the Register to be Evidence.](section/XXII.md)
+- [s. XXIII Gales to be granted to Free Miners.](section/XXIII.md)
+- [s. XXIVXXVI. ................................](section/XXIVXXVI.md)
+- [s. XXVII Commissioners to set out the Metes and Bounds of each Gale or Work.](section/XXVII.md)
+- [s. XXVIII ................................](section/XXVIII.md)
+- [s. XXIX Commissioners to make general Rules, specifying the Mode in which Gales, &c. shall be worked; and, on Breach of such Rules, Gales, &c. to be forfeited, as in case of a Lease for Condition taken.](section/XXIX.md)
+- [s. XXXXLIV. ................................](section/XXXXLIV.md)
+- [s. XLV Commissioners to make Rules and Orders for keeping Accounts of the Produce.](section/XLV.md)
+- [s. XLVI The Royalty to cease at the End of every Twenty-one Years, and new Royalty to be thereupon payable to Her Majesty.](section/XLVI.md)
+- [s. XLVII In case of Dispute the Amount of new Royalty to be referred to Arbitration.](section/XLVII.md)
+- [s. XLVIII Arbitrator may hear Evidence, and his Decision to be final.](section/XLVIII.md)
+- [s. XLIX ................................](section/XLIX.md)
+- [s. L ................................](section/L.md)
+- [s. LI ................................](section/LI.md)
+- [s. LII Power for the Recovery of Royalty.](section/LII.md)
+- [s. LIII †Gaveller and others on behalf of Her Majesty may enter and survey Works.](section/LIII.md)
+- [s. LIV Copy of General Rules to be hung up in the Speech House.](section/LIV.md)
+- [s. LV ................................](section/LV.md)
+- [s. LVI Rules to be observed in granting Gales hereafter.](section/LVI.md)
+- [s. LVII †Grants of Gales to be entered in Gaveller’s Books, and enrolled in the Office of Land Revenue Records and Enrolments.](section/LVII.md)
+- [s. LVIII Assignments of Gales to be entered in Gaveller’s Books.](section/LVIII.md)
+- [s. LIX Commissioners of Woods may authorize nunc pro tunc Entries of Assignments.](section/LIX.md)
+- [s. LX Gaveller to grant Gales in order of Application.](section/LX.md)
+- [s. LXI No Free Miner to be entitled to have more than Three Gales granted at a Time.](section/LXI.md)
+- [s. LXII Gaveller not to grant Gales which may interfere with existing Gales.](section/LXII.md)
+- [s. LXIII ................................](section/LXIII.md)
+- [s. LXIV Gales not to be granted in inclosed Lands of Her Majesty.](section/LXIV.md)
+- [s. LXV Commissioners of Woods may grant Licences for Air Shafts in Inclosures.](section/LXV.md)
+- [s. LXVI ................................](section/LXVI.md)
+- [s. LXVII Moiety of Gale Rent to be paid to Owners of inclosed Lands.](section/LXVII.md)
+- [s. LXVIII Miners to pay Compensation to Owners of inclosed Lands for Surface Damage.](section/LXVIII.md)
+- [s. LXIX No Erections on inclosed Lands without Consent.](section/LXIX.md)
+- [s. LXXLXXXII. ................................](section/LXXLXXXII.md)
+- [s. LXXXIII No Building to continue when unnecessary to remain.](section/LXXXIII.md)
+- [s. LXXXIVLXXXIX. ................................](section/LXXXIVLXXXIX.md)
+- [s. XC Public Act.](section/XC.md)
+- [s. XCI ................................](section/XCI.md)

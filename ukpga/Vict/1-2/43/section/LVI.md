@@ -1,0 +1,12 @@
+---
+title: Dean Forest (Mines) Act 1838, s. LVI
+heading: Rules to be observed in granting Gales hereafter.
+status: In force
+extent:
+version: 1838-07-27
+source: https://www.legislation.gov.uk/ukpga/Vict/1-2/43/section/LVI/1838-07-27
+---
+
+# LVI Rules to be observed in granting Gales hereafter.
+
+In every grant of a gale made after the passing of this Act the metes, bounds, limits, and extent of such gale, and the galeage rent, royalty, or tonnage duty to be paid to Her Majesty, Her Heirs and Successors, for the same, shall be specified in the grant thereof; and all gales hereafter to be granted shall be of such extent as the Gaveller or Deputy Gaveller for the time being,..., shall think fit, having reference to the extent of the works necessary for obtaining access to the coal or mine, and under any special Rules and Regulations for the working thereof which the said Gaveller or Deputy Gaveller,..., shall think necessary, so as such special Rules and Regulations are not inconsistent with the General Rules and Regulations to be made by the said Commissioners hereby appointed; and all such gales shall, on the granting thereof, be worked and used under and by virtue of this Act, and under any such special Rules and Regulations, in all respects as if the same had been set forth in the Award of the said Commissioners:...: Provided nevertheless, that no gale shall hereafter be granted until fourteen days notice at the least of the application for the same, specifying the situation and particulars thereof, shall have been published by the said Gaveller or Deputy Gaveller for the time being in some one or more newspaper or newspapers published and circulated in the said County ofGloucester,and in which notice the day and hour on which and the place at which it is intended to grant the said gale shall be specified: Provided always, that if any Free Miner claiming to be entitled to a gale to be made to him after the passing of this Act shall not agree with the Gaveller or Deputy Gaveller for the time being as to the amount of the galeage rent, royalty, or tonnage duty to be paid for the same, and to be specified in the grant thereof, then it shall be referred to an arbitrator to determine the amount of such galeage rent, royalty, or tonnage duty in like manner in all respects as is herein-before provided on the cesser of any galeage rent, royalty, or tonnage duty as aforesaid, who shall in manner aforesaid determine the galeage rent, royalty, or tonnage duty which ought to be paid.
