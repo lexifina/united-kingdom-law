@@ -1,0 +1,57 @@
+# Court of Session Act 1825
+
+1825 c. 120. Enacted 1825-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 1825-07-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo4/6/120/enacted
+
+## Contents
+
+- [s. 1. Altering the division of the Court of Session;](section/1.md)
+- [s. 2 ................................](section/2.md)
+- [s. 3 ................................](section/3.md)
+- [s. 4 No judgment to be pronounced till the record be made up and closed.](section/4.md)
+- [s. 5 Of the disposal of the dilatory defences.](section/5.md)
+- [s. 69 ................................](section/69.md)
+- [s. 10 Final adjustment of condescendences and notes of pleas. Condescendences and notes to be signed by the counsel for the parties. Record to be made up to foreclose the parties in point of fact. Exception of res noviter veniens ad notitiam. How such new matter to be admitted on the record.](section/10.md)
+- [s. 11 Note of pleas to foreclose in point of law;](section/11.md)
+- [s. 12 Of orders for compelling parties to lodge condescendences, &c.](section/12.md)
+- [s. 13 Of proceeding to the further disposal of the cause. Cases to be adjudged on admission of parties.](section/13.md)
+- [s. 1416. ................................](section/1416.md)
+- [s. 17 Lord ordinary to determine costs.His judgment final in the outer house.](section/17.md)
+- [s. 18 ................................](section/18.md)
+- [s. 19 Of reporting causes to the inner house; incidental matters may be reported verbally.](section/19.md)
+- [s. 20 Court to hear parties.](section/20.md)
+- [s. 21 Judgment of the inner house shall decide costs, and shall be final.](section/21.md)
+- [s. 22 Form in which cases shall be prepared.](section/22.md)
+- [s. 23 Of consultations of the judges in doubtful questions.](section/23.md)
+- [s. 24 Opinion of permanent ordinaries taken, and judgment pronounced according to the opinion of the majority of judges.](section/24.md)
+- [s. 25 Limitation of time as to appeals to the House of Lords.](section/25.md)
+- [s. 26 Certain documents to be laid before the House of Lords in case of appeal.](section/26.md)
+- [s. 27 ................................](section/27.md)
+- [s. 28 Description and enumeration of causes appropriate to the jury court.](section/28.md)
+- [s. 2932. ................................](section/2932.md)
+- [s. 33 Questions arising on admissions to be remitted to the Court of Session, &c. Questions which the parties desire to be previously fixed to be remitted. Question, whether point of law to be decided previous to trial, to be settled by the jury court. The interlocutor of the judge subject to review. The decision of the jury court to be final on the question: If the question of law is to be previously decided, the cause to be remitted to the Court of Session, &c. If a question of fact remain, the cause to be sent back to the jury court.](section/33.md)
+- [s. 34 ................................](section/34.md)
+- [s. 35 List of witnesses not to be furnished previous to trial.](section/35.md)
+- [s. 36 ................................](section/36.md)
+- [s. 37 ................................](section/37.md)
+- [s. 38 ................................](section/38.md)
+- [s. 39 ................................](section/39.md)
+- [s. 40 Interlocutor of Court of Session on proof taken in inferior courts, to be final as to findings of fact. Power to advocate against orders for proof in inferior courts.](section/40.md)
+- [s. 4143. ................................](section/4143.md)
+- [s. 44 Decrees in actions of removing to be subject only to suspension.](section/44.md)
+- [s. 45 Bills of advocation of interlocutory judgments.](section/45.md)
+- [s. 46 Lord ordinary may pass bills of suspension: Proceedings as to interlocutors complained of.](section/46.md)
+- [s. 47 Cautioners in bills of suspension.](section/47.md)
+- [s. 48 As to cases of suspension before the lord ordinary.](section/48.md)
+- [s. 49 ................................](section/49.md)
+- [s. 50 ................................](section/50.md)
+- [s. 51 Regulation of forms of citation, charge, &c.](section/51.md)
+- [s. 52 The record of citations to be printed.](section/52.md)
+- [s. 53 ................................](section/53.md)
+- [s. 54 ................................](section/54.md)
+- [s. 5556. ................................](section/5556.md)
+- [s. 57 All questions in Scotland relating to prize in war, to vest solely in Court of Admiralty of England.](section/57.md)
+- [s. 58 ................................](section/58.md)
