@@ -1,0 +1,15 @@
+# Matrimonial Proceedings (Polygamous Marriages) Act 1972
+
+1972 c. 38. Enacted 1972-06-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 1972-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1972/38/enacted
+
+## Contents
+
+- [s. 1 ................................](section/1.md)
+- [s. 2 Matrimonial relief and declarations as to validity in respect of polygamous marriages: Scotland.](section/2.md)
+- [s. 3 ................................](section/3.md)
+- [s. 4 ................................](section/4.md)
+- [s. 5 Short title, interpretation and powers of Parliament of Northern Ireland.](section/5.md)
