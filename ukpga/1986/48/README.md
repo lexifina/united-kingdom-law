@@ -1,0 +1,112 @@
+# Wages Act 1986
+
+1986 c. 48. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 1986-07-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1986/48/enacted
+
+## Contents
+
+- Part I
+  - [s. 1 General restrictions on deductions made, or payments received, by employers.](section/1.md)
+  - [s. 2 Deductions from wages of workers in retail employment on account of cash shortages etc.](section/2.md)
+  - [s. 3 Payments by workers in retail employment on account of cash shortages etc.](section/3.md)
+  - [s. 4 Provisions supplementary to ss. 2 and 3.](section/4.md)
+  - [s. 5 Complaints to industrial tribunals in respect of unauthorised deductions etc.](section/5.md)
+  - [s. 6 Supplementary provisions relating to complaints.](section/6.md)
+  - [s. 7 Meaning of “wages”.](section/7.md)
+  - [s. 8 General interpretation of Part I.](section/8.md)
+  - [s. 9 Crown employment.](section/9.md)
+  - [s. 10 Power to extend provisions to employment outside United Kingdom.](section/10.md)
+  - [s. 11 Repeal of Truck Acts 1831 to 1940 etc.](section/11.md)
+- Part II
+  - Scope of operation of wages councils
+    - [s. 12 Continued existence of wages councils after repeal of Wages Councils Act 1979.](section/12.md)
+    - [s. 13 Abolition, or variation of scope of operation, of wages councils.](section/13.md)
+  - Wages orders
+    - [s. 14 Wages orders.](section/14.md)
+    - [s. 15 Application of wages orders to piece workers.](section/15.md)
+    - [s. 16 Effect and enforcement of wages orders.](section/16.md)
+    - [s. 17 Computation of remuneration.](section/17.md)
+    - [s. 18 Apportionment of remuneration.](section/18.md)
+  - Enforcement
+    - [s. 19 Obligation to keep records etc.](section/19.md)
+    - [s. 20 Officers.](section/20.md)
+    - [s. 21 Offences in connection with enforcement of Part II.](section/21.md)
+    - [s. 22 Application of Part II to superior employers: liability of employers and others in respect of offences.](section/22.md)
+    - [s. 23 Offences by bodies corporate.](section/23.md)
+    - [s. 24 Transitory provisions relating to existing wages councils and wages orders.](section/24.md)
+    - [s. 25 Regulations and orders made by Secretary of State under Part II.](section/25.md)
+    - [s. 26 Interpretation of Part II.](section/26.md)
+- Part III Redundancy Rebates, etc.
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+- Part IV General
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 ................................](section/33.md)
+- SCHEDULE 1
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3
+  - Preliminary inquiries and notices
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Publication of notice of making of order
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Coming into operation of orders
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Proof of orders
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - Coal Mines Regulation Act 1908 (c.57)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Mines and Quarries Act 1954 (c.70)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Attachment of Earnings Act 1971 (c.32)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c.25)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Employment Protection (Consolidation) Act 1978 (c.44)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5
+  - Part I Repeals coming into force in accordance with s.33(3)
+  - Part II Repeals coming into force two months after Royal Assent
+  - Part III Repeals coming into force on a day appointed under s.33(5)
+- SCHEDULE 6 Transitional Provisions and Savings
+  - Members and officers of wages councils
+    - [Sch. 6 para. 1 ................................](schedule/6/paragraph/1.md)
+  - Enforcement officers appointed by Secretary of State
+    - [Sch. 6 para. 2 ................................](schedule/6/paragraph/2.md)
+  - Anticipatory exercise of powers relating to making of orders
+    - [Sch. 6 para. 3 ................................](schedule/6/paragraph/3.md)
+  - Failure to pay minimum remuneration occurring before commencement of Part II
+    - [Sch. 6 para. 4 ................................](schedule/6/paragraph/4.md)
+  - General saving for accrued rights and related provisions of 1979 Act
+    - [Sch. 6 para. 5 ................................](schedule/6/paragraph/5.md)
+  - Power to preserve accrued rights under wages orders
+    - [Sch. 6 para. 6 ................................](schedule/6/paragraph/6.md)
+  - Exemption orders
+    - [Sch. 6 para. 7 ................................](schedule/6/paragraph/7.md)
+  - References to trade boards
+    - [Sch. 6 para. 8 ................................](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9 ................................](schedule/6/paragraph/9.md)
+  - Payments equivalent to redundancy rebates
+    - [Sch. 6 para. 10 ................................](schedule/6/paragraph/10.md)
