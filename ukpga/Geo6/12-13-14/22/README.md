@@ -1,0 +1,105 @@
+# British North America Act 1949
+
+1949 c. 22. Enacted 1949-03-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 1949-03-23, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/22/enacted
+
+## Contents
+
+- [s. 1 Confirmation of Terms of Union.](section/1.md)
+- [s. 2 ................................](section/2.md)
+- [s. 3 Short title and citation.](section/3.md)
+- SCHEDULE TERMS OF UNION OF NEWFOUNDLAND WITH CANADA
+  - MEMORANDUM OF AGREEMENT ENTERED INTO ON THE ELEVENTH DDAY OF DECEMBER, 1948, BETWEEN CANADA AND NEWFOUNDLAND
+  - TERMS OF UNION
+    - UNION
+      - [Sch. paragraph 1](schedule/paragraph/1.md)
+      - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - APPLICATION OF THE BRITISH NORTH AMERICA ACTS
+      - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - REPRESENTATION IN PARLIAMENT
+      - [Sch. paragraph 4](schedule/paragraph/4.md)
+      - [Sch. paragraph 5](schedule/paragraph/5.md)
+      - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - PROVINCIAL CONSTITUTION
+      - [Sch. paragraph 7](schedule/paragraph/7.md)
+      - Executive
+        - [Sch. paragraph 8](schedule/paragraph/8.md)
+        - [Sch. paragraph 9](schedule/paragraph/9.md)
+        - [Sch. paragraph 10](schedule/paragraph/10.md)
+        - [Sch. paragraph 11](schedule/paragraph/11.md)
+        - [Sch. paragraph 12](schedule/paragraph/12.md)
+        - [Sch. paragraph 13](schedule/paragraph/13.md)
+      - Legislature
+        - [Sch. paragraph 14](schedule/paragraph/14.md)
+        - [Sch. paragraph 15](schedule/paragraph/15.md)
+        - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - EDUCATION
+      - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - CONTINUATION OF LAWS
+      - General
+        - [Sch. paragraph 18](schedule/paragraph/18.md)
+      - Supply
+        - [Sch. paragraph 19](schedule/paragraph/19.md)
+      - Patents
+        - [Sch. paragraph 20](schedule/paragraph/20.md)
+      - Trade Marks
+        - [Sch. paragraph 21](schedule/paragraph/21.md)
+      - Fisheries
+        - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - FINANCIAL TERMS
+      - Debt
+        - [Sch. paragraph 23](schedule/paragraph/23.md)
+      - Financial Surplus
+        - [Sch. paragraph 24](schedule/paragraph/24.md)
+      - Loans
+        - [Sch. paragraph 25](schedule/paragraph/25.md)
+      - Subsidies
+        - [Sch. paragraph 26](schedule/paragraph/26.md)
+      - Tax Agreement
+        - [Sch. paragraph 27](schedule/paragraph/27.md)
+      - Transitional Grants
+        - [Sch. paragraph 28](schedule/paragraph/28.md)
+      - Review of Financial Position
+        - [Sch. paragraph 29](schedule/paragraph/29.md)
+    - Miscellaneous Provisions
+      - Salaries of Lieutenant-Governor and Judges
+        - [Sch. paragraph 30](schedule/paragraph/30.md)
+      - Public Services, Works and Property
+        - [Sch. paragraph 31](schedule/paragraph/31.md)
+        - [Sch. paragraph 32](schedule/paragraph/32.md)
+        - [Sch. paragraph 33](schedule/paragraph/33.md)
+        - [Sch. paragraph 34](schedule/paragraph/34.md)
+        - [Sch. paragraph 35](schedule/paragraph/35.md)
+        - [Sch. paragraph 36](schedule/paragraph/36.md)
+      - Natural Resources
+        - [Sch. paragraph 37](schedule/paragraph/37.md)
+      - Veterans
+        - [Sch. paragraph 38](schedule/paragraph/38.md)
+      - Public Servants
+        - [Sch. paragraph 39](schedule/paragraph/39.md)
+      - Welfare and Other Public Services
+        - [Sch. paragraph 40](schedule/paragraph/40.md)
+      - Unemployment Insurance
+        - [Sch. paragraph 41](schedule/paragraph/41.md)
+      - Merchant Seamen
+        - [Sch. paragraph 42](schedule/paragraph/42.md)
+      - Citizenship
+        - [Sch. paragraph 43](schedule/paragraph/43.md)
+      - Defence Establishments
+        - [Sch. paragraph 44](schedule/paragraph/44.md)
+      - Economic Survey
+        - [Sch. paragraph 45](schedule/paragraph/45.md)
+      - Oleomargarine
+        - [Sch. paragraph 46](schedule/paragraph/46.md)
+      - Income Taxes
+        - [Sch. paragraph 47](schedule/paragraph/47.md)
+      - Statute of Westminster
+        - [Sch. paragraph 48](schedule/paragraph/48.md)
+      - Saving
+        - [Sch. paragraph 49](schedule/paragraph/49.md)
+      - Coming into Force
+        - [Sch. paragraph 50](schedule/paragraph/50.md)
+- SCHEDULE
