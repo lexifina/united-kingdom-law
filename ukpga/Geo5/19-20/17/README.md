@@ -1,0 +1,148 @@
+# Local Government Act 1929
+
+1929 c. 17. Enacted 1929-03-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2004-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5/19-20/17/2004-07-22
+
+## Contents
+
+- Part I Poor Law
+  - [s. 114. ................................](section/114.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 1617. ................................](section/1617.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 1920. ................................](section/1920.md)
+- Part II Registration of Births, Deaths and Marriages
+  - [s. 2125. ................................](section/2125.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 2728. ................................](section/2728.md)
+- Part III Roads and Town Planning
+  - [s. 29 ................................](section/29.md)
+  - [s. 3031. ................................](section/3031.md)
+  - [s. 3239. ................................](section/3239.md)
+  - [s. 4045. ................................](section/4045.md)
+- Part IV Miscellaneous Local Government Provisions
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - Miscellaneous
+    - [s. 51 ................................](section/51.md)
+    - [s. 5256. ................................](section/5256.md)
+    - [s. 57 Relations between county councils and district councils in respect of public health functions.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 6061. ................................](section/6061.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 6566. ................................](section/6566.md)
+- Part V Rating and Valuation
+  - [s. 67 ................................](section/67.md)
+  - [s. 6869. ................................](section/6869.md)
+  - [s. 70 ................................](section/70.md)
+  - [s. 71 ................................](section/71.md)
+  - Consequential Provisions
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 77 Adaptation of enactments relating to water rates.](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 General adaptation of enactments and other documents.](section/83.md)
+    - [s. 84 ................................](section/84.md)
+- Part VI Exchequer Grants and other Financial Provisions
+  - Discontinued Grants
+    - [s. 85 ................................](section/85.md)
+    - [s. 8692. ................................](section/8692.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94100. ................................](section/94100.md)
+    - [s. 101 ................................](section/101.md)
+    - [s. 102 ................................](section/102.md)
+    - [s. 103104. ................................](section/103104.md)
+  - General
+    - [s. 105 Application of Exchequer Grants, &c.](section/105.md)
+    - [s. 106112. ................................](section/106112.md)
+- Part VII Property Liabilities and Officers
+  - Transfer of Property and Liabilities
+    - [s. 113 ................................](section/113.md)
+    - [s. 114-55 ................................](section/114-55.md)
+    - [s. 115 Parish property.](section/115.md)
+    - [s. 116 ................................](section/116.md)
+    - [s. 117 †Transfer of road property and liabilities.](section/117.md)
+    - [s. 118 ................................](section/118.md)
+    - [s. 119120. ................................](section/119120.md)
+    - [s. 121126. ................................](section/121126.md)
+- Part VIII General
+  - [s. 127](section/127.md)
+  - [s. 129 Provisions as to inquiries.](section/129.md)
+  - [s. 130 ................................](section/130.md)
+  - [s. 131 Provisions as to orders, schemes and regulations.](section/131.md)
+  - [s. 132 Transitory and temporary provisions and adaptation of enactments.](section/132.md)
+  - [s. 133 ................................](section/133.md)
+  - [s. 134 Definitions.](section/134.md)
+  - [s. 135 ................................](section/135.md)
+  - [s. 136 ................................](section/136.md)
+  - [s. 137 ................................](section/137.md)
+  - [s. 138 Short title and extent.](section/138.md)
+- FIRST SCHEDULE ...
+- SECOND SCHEDULE Discontinued Grants
+  - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+  - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+- THIRD SCHEDULE ...
+- FOURTH AND FIFTH SCHEDULES ...
+- SIXTH SCHEDULE ...
+- SEVENTH SCHEDULE ...
+- EIGHTH SCHEDULE ...
+- NINTH SCHEDULE
+  - Part I Transitional Provisions
+    - Transfer of Property
+      - [Sch. NINTH para. 1](schedule/NINTH/paragraph/1.md)
+      - [Sch. NINTH para. 24.](schedule/NINTH/paragraph/24.md)
+    - Provisions when liability for loan is transferred to the council who made the loan
+      - [Sch. NINTH para. 5](schedule/NINTH/paragraph/5.md)
+    - Provisions as to Loans of Rural District Councils for special Expenses
+      - [Sch. NINTH para. 6](schedule/NINTH/paragraph/6.md)
+    - Saving for Pending Contracts, Legal Proceedings, &c.
+      - [Sch. NINTH para. 7](schedule/NINTH/paragraph/7.md)
+      - [Sch. NINTH para. 8](schedule/NINTH/paragraph/8.md)
+  - Part II
+    - [Sch. NINTH para. 16.](schedule/NINTH/paragraph/16.md)
+- TENTH SCHEDULE Adaptation of Enactments
+  - General Adaptations
+    - [Sch. TENTH para. 1](schedule/TENTH/paragraph/1.md)
+    - [Sch. TENTH para. 2](schedule/TENTH/paragraph/2.md)
+    - [Sch. TENTH para. 3](schedule/TENTH/paragraph/3.md)
+    - [Sch. TENTH para. 4](schedule/TENTH/paragraph/4.md)
+  - Special Adaptations
+    - [Sch. TENTH para. 5](schedule/TENTH/paragraph/5.md)
+    - [Sch. TENTH para. 67.](schedule/TENTH/paragraph/67.md)
+    - [Sch. TENTH para. 89.](schedule/TENTH/paragraph/89.md)
+    - [Sch. TENTH para. 10](schedule/TENTH/paragraph/10.md)
+    - [Sch. TENTH para. 11](schedule/TENTH/paragraph/11.md)
+    - [Sch. TENTH para. 1213.](schedule/TENTH/paragraph/1213.md)
+    - [Sch. TENTH para. 14](schedule/TENTH/paragraph/14.md)
+    - [Sch. TENTH para. 15](schedule/TENTH/paragraph/15.md)
+    - [Sch. TENTH para. 16](schedule/TENTH/paragraph/16.md)
+    - [Sch. TENTH para. 17](schedule/TENTH/paragraph/17.md)
+    - [Sch. TENTH para. 18](schedule/TENTH/paragraph/18.md)
+    - [Sch. TENTH para. 19](schedule/TENTH/paragraph/19.md)
+    - [Sch. TENTH para. 20](schedule/TENTH/paragraph/20.md)
+    - [Sch. TENTH para. 21](schedule/TENTH/paragraph/21.md)
+    - [Sch. TENTH para. 22](schedule/TENTH/paragraph/22.md)
+  - Special adaptations applying to the County of London
+    - [Sch. TENTH para. 23](schedule/TENTH/paragraph/23.md)
+    - [Sch. TENTH para. 24](schedule/TENTH/paragraph/24.md)
+    - [Sch. TENTH para. 25](schedule/TENTH/paragraph/25.md)
+    - [Sch. TENTH para. 26](schedule/TENTH/paragraph/26.md)
+- ELEVENTH SCHEDULE ...
+- TWELFTH SCHEDULE ...
