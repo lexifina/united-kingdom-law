@@ -1,0 +1,124 @@
+# Transport Act 1980
+
+1980 c. 34. Enacted 1980-06-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2005-06-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/34
+
+Source: https://www.legislation.gov.uk/ukpga/1980/34/2005-06-08
+
+## Contents
+
+- Part I Public Service Vehicles
+  - Other matters
+    - [s. 1 ................................](section/1.md)
+    - [s. 32](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Obligatory test certificates for passsenger-carrying vehicles.](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Abolition of licensing conductors of public service vehicles.](section/36.md)
+    - [s. 37 Reduction of minimum age for drivers of public service vehicles.](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 42 Defences available to persons charged with certain offences.](section/42.md)
+    - [s. 43 Amendments of other Acts.](section/43.md)
+    - [s. 44 ................................](section/44.md)
+- Part II Transfer of Undertaking of National Freight Corporation
+  - Transfer of undertaking of National Freight Corporation to a company limited by shares
+    - [s. 45 Transfer of undertaking of National Freight Corporation.](section/45.md)
+    - [s. 46 Initial government holding in successor company.](section/46.md)
+    - [s. 47 Transitional provisions with respect to reserves etc.](section/47.md)
+    - [s. 48 Dissolution and final accounts of National Freight Corporation.](section/48.md)
+  - Funding of certain pension obligations
+    - [s. 49 Funding of relevant pension obligations.](section/49.md)
+    - [s. 50 Meaning of “the relevant pension obligations”.](section/50.md)
+  - Supplementary
+    - [s. 51 Interpretation of Part II and consequential amendments.](section/51.md)
+- PART III RAILWAY ETC. PENSIONS
+  - [s. 52 Payments by Minister in respect of B.R. and N.F.C. pension schemes.](section/52.md)
+  - [s. 52A Power to make payments by way of final discharge of liabilities under s.52(1).](section/52A.md)
+  - [s. 52B Power to substitute obligations under this section for liabilities under s.52(1).](section/52B.md)
+  - [s. 52C Adjustments arising in connection with orders under s.52B.](section/52C.md)
+  - [s. 52D Orders and directions under sections 52A to 52C: supplemental.](section/52D.md)
+  - [s. 53 Meaning of “the relevant pension to a obligations”.](section/53.md)
+  - [s. 54 Unfunded proportion of relevant pension obligations.](section/54.md)
+  - [s. 55 Proportion of pensions etc. which corresponds to relevant pension obligations.](section/55.md)
+  - [s. 56 Reduction of payments in respect of certain supplementation schemes.](section/56.md)
+  - [s. 57 Exclusion of payments in respect of certain transfer values.](section/57.md)
+  - [s. 58 Consequential cancellation of debts owed by Board and Corporation.](section/58.md)
+  - [s. 59 Supplemental provisions.](section/59.md)
+  - [s. 60 Interpretation of Part III.](section/60.md)
+- Part IV Miscellaneous and General
+  - [s. 61 ................................](section/61.md)
+  - [s. 62 Grants towards duty charged on bus fuel, and new bus grants.](section/62.md)
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 Roof-signs on vehicle other than taxis.](section/64.md)
+  - [s. 65 Repeal of s. 2 of 1954 c. 64.](section/65.md)
+  - [s. 66 Abolition of Freight Integration Council and repeal of certain provisions about special authorisations for use of large goods vehicles.](section/66.md)
+  - [s. 67 Abolition of Railways and Coastal Shipping Committee.](section/67.md)
+  - [s. 68 Expenses.](section/68.md)
+  - [s. 69 Repeals.](section/69.md)
+  - [s. 70 Citation, etc.](section/70.md)
+- SCHEDULES 1—3................................
+- SCHEDULE 4 Increase of Penalties in the 1960 Act
+- SCHEDULE 5 Minor and Consequential Amendments Relating to public Service Vehicles
+  - Part I
+    - [Sch. 5 Pt. I para. 1](schedule/5/part/I/paragraph/1.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Part II Other Amendments
+    - LOCAL GOVERNMENT (MISCELLANEOUS PROVISIONS) ACT 1953 (c. 26)
+    - LOCAL GOVERNMENT (OMNIBUS SHELTERS AND QUEUE BARRIERS) (SCOTLAND) ACT 1958 (c. 50)
+    - TRANSPORT ACT 1962 (c. 46)
+    - FINANCE ACT 1965 (c. 25)
+    - ROAD TRAFFIC REGULATION ACT 1967 (c.76)
+    - TRANSPORT ACT 1968 (c. 73)
+    - TRANSPORT (LONDON) ACT 1969 (c.35)
+    - ROAD TRAFFIC ACT 1972 (c. 20)
+    - ROAD TRAFFIC (FOREIGN VEHICLES) ACT 1972 (c. 27)
+      - [Sch. 5 Pt. II heading road-traffic-foreign-vehicles-act-1972-c-27 para. 1](schedule/5/part/II/crossheading/road-traffic-foreign-vehicles-act-1972-c-27/paragraph/1.md)
+      - [Sch. 5 Pt. II heading road-traffic-foreign-vehicles-act-1972-c-27 para. 2](schedule/5/part/II/crossheading/road-traffic-foreign-vehicles-act-1972-c-27/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - ROAD TRAFFIC ACT 1974 (c. 50)
+    - LOCAL GOVERNMENT (MISCELLANEOUS PROVISIONS) ACT 1976 (c. 57)
+      - [Sch. 5 Pt. II heading local-government-miscellaneous-provisions-act-1976-c-57 para. 1](schedule/5/part/II/crossheading/local-government-miscellaneous-provisions-act-1976-c-57/paragraph/1.md)
+      - [Sch. 5 Pt. II heading local-government-miscellaneous-provisions-act-1976-c-57 para. 2](schedule/5/part/II/crossheading/local-government-miscellaneous-provisions-act-1976-c-57/paragraph/2.md)
+    - ENERGY ACT 1976 (c. 76)
+    - PASSENGER VEHICLES (EXPERIMENTAL AREAS) ACT 1977 (c. 21)
+    - MINIBUS ACT 1977 (c. 25)
+    - TRANSPORT ACT 1978 (c.55)
+- SCHEDULE 6 Supplementary Provisions with Respect to Transfer under Section 45
+  - Legal remedies and pending proceedings
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Power of other bodies
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Modification of agreements
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Loss of office by members of Corporation
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Compensation payments arising from earlier reorganisations
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Pensions of former members of the Corporation
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Pension schemes
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Grants in respect of certain capital expenditure
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Reimbursement for certain travel concessions
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Rating
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Amendments Consequential on Part II
+  - TRANSPORT ACT 1968 (c. 73)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 B.R. Pension Schemes
+- SCHEDULE 9 REPEALS
+  - PART I PUBLIC SERVICE VEHICLES
+  - PART II Repeals taking effect on Passing of this Act
+  - PART III Repeals taking effect on Appointed Day under Part II of this Act
+  - PART IV Other Repeals
