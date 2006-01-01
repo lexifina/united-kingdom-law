@@ -1,0 +1,16 @@
+# Finance Act (Northern Ireland) 1957
+
+apni/1957/15. Enacted 1957-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2006-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1957/15/2006-01-01
+
+## Contents
+
+- PART II
+  - Stamp Duty …
+    - [s. 3 Appeals against assessments of stamp duty where value of land is in dispute.](section/3.md)
+- PART IV
+  - General
+    - [s. 10 Short title.](section/10.md)
