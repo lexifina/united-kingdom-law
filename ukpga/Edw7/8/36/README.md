@@ -1,0 +1,108 @@
+# Small Holdings and Allotments Act 1908
+
+1908 c. 36. Enacted 1908-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2006-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Edw7/8/36/2006-10-01
+
+## Contents
+
+- Part I Small Holdings
+  - [s. 1 ................................](section/1.md)
+- Part II Allotments
+  - Provision of Allotments
+    - [s. 23 Duty of certain councils to provide allotments.](section/23.md)
+    - [s. 24 ................................](section/24.md)
+  - Powers of Councils in relation to the provision of Allotments
+    - [s. 25 Acquisition of land for purpose of Act.](section/25.md)
+    - [s. 26 Improvement and adaptation of land for allotments.](section/26.md)
+    - [s. 27 Provisions as to letting of allotments.](section/27.md)
+    - [s. 28 Rules as to letting allotments.](section/28.md)
+    - [s. 29 Management of allotments.](section/29.md)
+    - [s. 30 Recovery of rent and possession of allotments.](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Sale of superfluous or unsuitable land.](section/32.md)
+    - [s. 33 Transfer of allotments to borough, district and parish councils.](section/33.md)
+  - Supplemental
+    - [s. 34 Power to make scheme for provision of common pasture.](section/34.md)
+    - [s. 35 Use of schoolroom free of charge.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+- Part III General
+  - Acquisition of Land
+    - [s. 38 Purchase of land by agreement.](section/38.md)
+    - [s. 39 Procedure for compulsory acquisition of land.](section/39.md)
+    - [s. 40 †Powers of certain limited owners to sell and lease land for small holdings or allotments.](section/40.md)
+    - [s. 41 Restrictions on the acquisition of land.](section/41.md)
+    - [s. 42 Grazing rights, &c., to be attached to small holdings or allotments.](section/42.md)
+    - [s. 43 Compensation for loss of employment by labourers.](section/43.md)
+  - Provisions affecting Land acquired
+    - [s. 44 Power of council to renew tenancy of land compulsorily hired.](section/44.md)
+    - [s. 45 Interchange of land for small holdings and allotments.](section/45.md)
+    - [s. 46 Power to resume possession of land hired compulsorily.](section/46.md)
+    - [s. 47 Compensation for improvements.](section/47.md)
+    - [s. 48 Provisions as to glebe lands.](section/48.md)
+  - Co-Societies, &c. Societies,&.
+    - [s. 49 Co-operative societies, &c.](section/49.md)
+  - Small Holdings and Allotments Committees
+    - [s. 50 ................................](section/50.md)
+  - Expenses and Borrowing
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 Borrowing powers and expenses.](section/52.md)
+    - [s. 53 Expenses and borrowing.](section/53.md)
+    - [s. 54 ................................](section/54.md)
+  - Supplemental
+    - [s. 55 ................................](section/55.md)
+    - [s. 57 Local inquiries.](section/57.md)
+    - [s. 58 Arbitrations and valuations.](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Interpretation.](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 †Short title, commencement and extent.](section/63.md)
+- FIRST SCHEDULE
+  - Part I Provisions as to the Compulsory Acquisition of Land by a Council
+    - [Sch. FIRST Pt. I para. 1](schedule/FIRST/part/I/paragraph/1.md)
+    - [Sch. FIRST Pt. I para. 2](schedule/FIRST/part/I/paragraph/2.md)
+    - [Sch. FIRST Pt. I para. 3](schedule/FIRST/part/I/paragraph/3.md)
+    - [Sch. FIRST Pt. I para. 4](schedule/FIRST/part/I/paragraph/4.md)
+    - [Sch. FIRST Pt. I para. 5](schedule/FIRST/part/I/paragraph/5.md)
+    - [Sch. FIRST Pt. I para. 6](schedule/FIRST/part/I/paragraph/6.md)
+    - [Sch. FIRST Pt. I para. 7](schedule/FIRST/part/I/paragraph/7.md)
+    - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+  - Part II Provisions as to the Compulsory Hiring of Land By a Council
+    - [Sch. FIRST Pt. II para. 1](schedule/FIRST/part/II/paragraph/1.md)
+    - [Sch. FIRST Pt. II para. 2](schedule/FIRST/part/II/paragraph/2.md)
+    - [Sch. FIRST Pt. II para. 3](schedule/FIRST/part/II/paragraph/3.md)
+    - [Sch. FIRST Pt. II para. 4](schedule/FIRST/part/II/paragraph/4.md)
+    - [Sch. FIRST Pt. II para. 5](schedule/FIRST/part/II/paragraph/5.md)
+    - [Sch. FIRST Pt. II para. 6](schedule/FIRST/part/II/paragraph/6.md)
+    - [Sch. FIRST Pt. II para. 7](schedule/FIRST/part/II/paragraph/7.md)
+- SECOND SCHEDULE Improvements referred to in Section Forty-seven
+  - Part I
+    - [Sch. SECOND Pt. I para. 1](schedule/SECOND/part/I/paragraph/1.md)
+    - [Sch. SECOND Pt. I para. 2](schedule/SECOND/part/I/paragraph/2.md)
+    - [Sch. SECOND Pt. I para. 3](schedule/SECOND/part/I/paragraph/3.md)
+    - [Sch. SECOND Pt. I para. 4](schedule/SECOND/part/I/paragraph/4.md)
+  - Part II
+    - [Sch. SECOND Pt. II para. 1](schedule/SECOND/part/II/paragraph/1.md)
+    - [Sch. SECOND Pt. II para. 2](schedule/SECOND/part/II/paragraph/2.md)
+    - [Sch. SECOND Pt. II para. 3](schedule/SECOND/part/II/paragraph/3.md)
+    - [Sch. SECOND Pt. II para. 4](schedule/SECOND/part/II/paragraph/4.md)
+    - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+    - [Sch. SECOND para. 6](schedule/SECOND/paragraph/6.md)
+    - [Sch. SECOND para. 7](schedule/SECOND/paragraph/7.md)
+    - [Sch. SECOND para. 8](schedule/SECOND/paragraph/8.md)
+    - [Sch. SECOND para. 9](schedule/SECOND/paragraph/9.md)
+    - [Sch. SECOND para. 10](schedule/SECOND/paragraph/10.md)
+    - [Sch. SECOND para. 11](schedule/SECOND/paragraph/11.md)
+    - [Sch. SECOND para. 12](schedule/SECOND/paragraph/12.md)
+    - [Sch. SECOND para. 13](schedule/SECOND/paragraph/13.md)
+    - [Sch. SECOND para. 14](schedule/SECOND/paragraph/14.md)
+    - [Sch. SECOND para. 15](schedule/SECOND/paragraph/15.md)
+    - [Sch. SECOND para. 16](schedule/SECOND/paragraph/16.md)
+    - [Sch. SECOND para. 17](schedule/SECOND/paragraph/17.md)
+    - [Sch. SECOND para. 18](schedule/SECOND/paragraph/18.md)
+    - [Sch. SECOND para. 19](schedule/SECOND/paragraph/19.md)
+- THIRD SCHEDULE
