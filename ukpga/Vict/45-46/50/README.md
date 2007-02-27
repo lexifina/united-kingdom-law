@@ -1,0 +1,167 @@
+# Municipal Corporations Act 1882
+
+1882 c. 50. Enacted 1882-08-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2007-02-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/45-46/50/2007-02-27
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Extent.](section/3.md)
+  - [s. 45. ................................](section/45.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 Interpretation and construction.](section/7.md)
+- Part II
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 1025 ................................](section/1025.md)
+  - [s. 2628 ................................](section/2628.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 3233. ................................](section/3233.md)
+  - [s. 3443 ................................](section/3443.md)
+- Part III Preparations for and Procedure at Elections
+  - Parish Burgess Lists; Burgess Rolls; Ward Rolls
+    - [s. 44 ................................](section/44.md)
+    - [s. 45-17 The burgess roll and ward rolls.](section/45-17.md)
+    - [s. 4649 ................................](section/4649.md)
+    - [s. 5062 ................................](section/5062.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 6470 ................................](section/6470.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 7275 ................................](section/7275.md)
+    - [s. 76 ................................](section/76.md)
+- Part IV
+  - [s. 77104 ................................](section/77104.md)
+- Part V Corporate Property and Liabilities
+  - [s. 105 ................................](section/105.md)
+  - [s. 106110 ................................](section/106110.md)
+  - [s. 111 ................................](section/111.md)
+  - [s. 112116 ................................](section/112116.md)
+  - [s. 117 ................................](section/117.md)
+  - [s. 118 ................................](section/118.md)
+  - [s. 119 ................................](section/119.md)
+  - [s. 120122 ................................](section/120122.md)
+  - Special Rates
+    - [s. 123 Power to continue rates for special purposes.](section/123.md)
+    - [s. 124 ................................](section/124.md)
+    - [s. 125132 ................................](section/125132.md)
+- Part VI Charitable and other Trusts and Powers
+  - Charitable Trusts
+    - [s. 133 Administration of charitable trusts and vesting of legal estate.](section/133.md)
+  - Special Trusts and Powers
+    - [s. 134 Corporation to be trustee where corporators trustees.](section/134.md)
+    - [s. 135 Appointment of members of council to be trustees in cases of joint trusts and other cases.](section/135.md)
+  - Local Acts
+    - [s. 136 Transfer of powers of local authorities to municipal corporations.](section/136.md)
+    - [s. 137 Power for council to extend local lighting Act.](section/137.md)
+    - [s. 138 Exercise of powers under local Acts.](section/138.md)
+- Part VII Borough Fund: Borough Rate: County Rate
+  - Borough Fund
+    - [s. 139 ................................](section/139.md)
+    - [s. 140 Application of borough fund.](section/140.md)
+    - [s. 141143 ................................](section/141143.md)
+  - Borough Rate
+    - [s. 144 ................................](section/144.md)
+    - [s. 145 ................................](section/145.md)
+    - [s. 146 ................................](section/146.md)
+    - [s. 147148 ................................](section/147148.md)
+    - [s. 149 Borough rate to go to borough fund; and its application.](section/149.md)
+  - County Rate
+    - [s. 150 General exemption of quarter sessions boroughs from county rate.](section/150.md)
+    - [s. 151 ................................](section/151.md)
+    - [s. 152 Liability of certain quarter sessions boroughs to other county expenses.](section/152.md)
+    - [s. 153 Mode of accounting by borough to county.](section/153.md)
+- Part VIII
+  - [s. 154 ................................](section/154.md)
+  - [s. 155](section/155.md)
+  - [s. 156158](section/156158.md)
+  - [s. 159](section/159.md)
+  - [s. 160161. ................................](section/160161.md)
+  - [s. 162168 ................................](section/162168.md)
+  - [s. 169 ................................](section/169.md)
+  - [s. 170171. ................................](section/170171.md)
+  - [s. 172 ................................](section/172.md)
+  - [s. 173174. ................................](section/173174.md)
+  - [s. 175177 ................................](section/175177.md)
+  - [s. 178184 ................................](section/178184.md)
+  - [s. 185 ................................](section/185.md)
+  - [s. 186 ................................](section/186.md)
+  - [s. 187 ................................](section/187.md)
+  - [s. 188189. ................................](section/188189.md)
+- Part IX Police
+  - Watch Committee; Constables
+    - [s. 190192 ................................](section/190192.md)
+    - [s. 193 ................................](section/193.md)
+    - [s. 194200 ................................](section/194200.md)
+    - [s. 201218 ................................](section/201218.md)
+- Part XII Legal Proceedings
+  - [s. 219 ................................](section/219.md)
+  - [s. 220 ................................](section/220.md)
+  - [s. 221 ................................](section/221.md)
+  - [s. 222 ................................](section/222.md)
+  - [s. 223 ................................](section/223.md)
+  - [s. 224225. ................................](section/224225.md)
+  - [s. 226 Provisions for protection of persons acting under Act.](section/226.md)
+  - [s. 227 ................................](section/227.md)
+- Part XIII General
+  - [s. 228229. ................................](section/228229.md)
+  - Time
+    - [s. 230 Computation of time.](section/230.md)
+    - [s. 231 ................................](section/231.md)
+    - [s. 232233. ................................](section/232233.md)
+    - [s. 234 ................................](section/234.md)
+    - [s. 235 ................................](section/235.md)
+    - [s. 236 ................................](section/236.md)
+    - [s. 237 ................................](section/237.md)
+    - [s. 238 ................................](section/238.md)
+    - [s. 239240. ................................](section/239240.md)
+    - [s. 241 ................................](section/241.md)
+  - Substitution in former Acts
+    - [s. 242 Provision for references in unrepealed enactments to 5 & 6 Will. 4. c. 76, &c.](section/242.md)
+    - [s. 243 ................................](section/243.md)
+    - [s. 244 ................................](section/244.md)
+    - [s. 245 ................................](section/245.md)
+    - [s. 246 ................................](section/246.md)
+  - Freedom of Trading
+    - [s. 247 Right of free trading in boroughs.](section/247.md)
+  - Cinque Ports
+    - [s. 248 ................................](section/248.md)
+    - [s. 249 ................................](section/249.md)
+  - Savings
+    - [s. 250 Saving for existing corporations.](section/250.md)
+    - [s. 251 Saving for local Acts.](section/251.md)
+    - [s. 252 ................................](section/252.md)
+    - [s. 253 ................................](section/253.md)
+    - [s. 254 Saving for dockyards, barracks, &c.](section/254.md)
+    - [s. 255 ................................](section/255.md)
+    - [s. 256 Saving for Lord Warden.](section/256.md)
+    - [s. 257 Saving for universities.](section/257.md)
+    - [s. 258 ................................](section/258.md)
+    - [s. 259 Saving for royal prerogative.](section/259.md)
+    - [s. 260](section/260.md)
+- FIRST SCHEDULE
+- SECOND AND THIRD SCHEDULES
+- FOURTH SCHEDULE
+- FIFTH SCHEDULE Payments out of the Borough Fund.
+  - Part I
+  - Part II ................................
+    - [Sch. FIFTH para. 1](schedule/FIFTH/paragraph/1.md)
+    - [Sch. FIFTH para. 2](schedule/FIFTH/paragraph/2.md)
+    - [Sch. FIFTH para. 3](schedule/FIFTH/paragraph/3.md)
+    - [Sch. FIFTH para. 4](schedule/FIFTH/paragraph/4.md)
+    - [Sch. FIFTH para. 5](schedule/FIFTH/paragraph/5.md)
+    - [Sch. FIFTH para. 6](schedule/FIFTH/paragraph/6.md)
+    - [Sch. FIFTH para. 712](schedule/FIFTH/paragraph/712.md)
+- SIXTH SCHEDULE
+- SEVENTH SCHEDULE
+- EIGHTH SCHEDULE
+- NINTH SCHEDULE Enactments in which a Reference to this Act is to be substituted
+  - Part I
+    - General References
+  - Part II
