@@ -1,0 +1,222 @@
+# Health Services Act 1980
+
+1980 c. 53. Enacted 1980-08-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2007-03-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/53
+
+Source: https://www.legislation.gov.uk/ukpga/1980/53/2007-03-01
+
+## Contents
+
+- Part I The National Health Service
+  - Local administration of the health service in England and Wales
+    - [s. 1 Power to make changes in the local administration of the health service in England and Wales.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+  - Financial provisions relating to the health services in England, Wales and Scotland
+    - [s. 3 Extension of the powers to make services available to local authorities etc. under s. 26 of the Act of 1977 and s. 15 of the Scottish Act of 1978.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 Power of health authorities etc. to raise money, etc., by appeals, collections, etc.](section/5.md)
+    - [s. 6 Provision of public money for and financial duties of health authorities, Health Boards, etc.](section/6.md)
+    - [s. 7 Services provided by relatives of doctors providing general medical services.](section/7.md)
+  - Dissolution of the Central Health Services Council
+    - [s. 8 Dissolution of the Central Health Services Council.](section/8.md)
+- Part II Private Practice
+  - Pay beds and Health Services Board, etc.
+    - [s. 9 Repeal of provisions relating to withdrawal of pay beds and dissolution of Board, etc.](section/9.md)
+    - [s. 10 ................................](section/10.md)
+  - Control of hospitals outside the national health service
+    - [s. 12 Meaning of “controlled premises”.](section/12.md)
+    - [s. 13 Exemptions from control.](section/13.md)
+    - [s. 14 Notice of notifiable changes.](section/14.md)
+    - [s. 15 Minor and consequential amendments of the Act of 1976.](section/15.md)
+  - Nursing homes and mental nursing homes, etc.
+    - [s. 16 Nursing homes and mental nursing homes, etc.](section/16.md)
+- Part III Miscellaneous
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 Extension of pharmaceutical services in connection with dental treatment provided by health authorities, etc.](section/20.md)
+  - [s. 21 Regulation of right to provide pharmaceutical services.](section/21.md)
+  - Miscellaneous and supplementary
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Correction of meaning of “local authority” in Part IV of the National Assistance Act 1948.](section/23.md)
+    - [s. 24 Expenses and receipts of the Secretary of State, etc.](section/24.md)
+    - [s. 25 Interpretation and minor amendments and repeals.](section/25.md)
+    - [s. 26 Short title, commencement and extent.](section/26.md)
+- SCHEDULE 1 Amendments consequential on changes in the local administration of the Health Service
+  - Part I Amendments relating to District Health Authorities
+    - The Public Health Act 1936
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - The Polish Resettlement Act 1947
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - The Recall of Army and Air Force Pensioners Act 1948
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - The Midwives Act 1951
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The Landlord and Tenant Act 1954
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - The Nurses Act 1957
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - The Public Records Act 1958
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - The Radioactive Substances Act 1960
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - The Parliamentary Commissioner Act 1967
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - The Abortion Act 1967
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - The Leasehold Reform Act 1967
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - The Health Services and Public Health Act 1968
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - The Post Office Act 1969
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - The Local Government Act 1972
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - The National Health Service Reorganisation Act 1973
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - The Health and Safety at Work, etc. Act 1974
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - The Trade Union and Labour Relations Act 1974
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - The House of Commons Disqualification Act 1975
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - The Nursing Homes Act 1975
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - The National Health Service Act 1977
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+    - The Employment Protection (Consolidation) Act 1978
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - The Nurses, Midwives and Health Visitors Act 1979
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+  - Part II Amendments relating to shared Family Practitioner Committees
+    - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+    - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+    - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+- SCHEDULE 2
+  - The Health Services Act 1976
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - The National Health Service Act 1977
+    - [Sch. 2 para. 7 ................................](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 ................................](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 ................................](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - The National Health Service (Scotland) Act 1978
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Minor and consequential amendments of the Act of 1976
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Nursing Homes and Mental Nursing Homes, etc.
+  - Part I England and Wales
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II Scotland
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Amendments of the Act of 1977 and the Scottish Act of 1978 relating to exemptions from charges for certain services and appliances
+  - Part I Amendments of the Act of 1977
+    - Exemption from charges for appliances
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Exemption from charges for dental or optical appliances
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Exemptions from charges for dental treatment
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Interpretation
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part II Amendments of the Scottish Act of 1978
+    - Exemption from charges for appliances
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Exemption from charges for dental or optical appliances
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Exemptions from charges for dental treatment
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Interpretation
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Other minor amendments
+  - The National Health Service (Scotland) Act 1978
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - The Nurses, Midwives and Health Visitors Act 1979
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Enactments repealed
