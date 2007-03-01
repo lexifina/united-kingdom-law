@@ -1,0 +1,186 @@
+# National Health Service (Primary Care) Act 1997
+
+1997 c. 46. Enacted 1997-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2007-03-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 31 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/46
+
+Source: https://www.legislation.gov.uk/ukpga/1997/46/2007-03-01
+
+## Contents
+
+- [s. 1](section/1.md)
+- [s. 2](section/2.md)
+- [s. 3](section/3.md)
+- [s. 4](section/4.md)
+- [s. 5](section/5.md)
+- [s. 6](section/6.md)
+- [s. 7](section/7.md)
+- [s. 8](section/8.md)
+- [s. 8ZA](section/8ZA.md)
+- [s. 8A](section/8A.md)
+- [s. 9](section/9.md)
+- [s. 10](section/10.md)
+- [s. 11](section/11.md)
+- [s. 12](section/12.md)
+- [s. 13](section/13.md)
+- [s. 14](section/14.md)
+- [s. 15](section/15.md)
+- [s. 16](section/16.md)
+- [s. 17](section/17.md)
+- [s. 18](section/18.md)
+- [s. 19](section/19.md)
+- [s. 20](section/20.md)
+- Part II Primary Care
+  - Personal medical or dental services
+    - [s. 21 Provision of personal medical or dental services.](section/21.md)
+    - [s. 22 Supplementary regulations.](section/22.md)
+    - [s. 23 Right to choose medical practitioner.](section/23.md)
+    - [s. 24 Right to choose dental practitioner.](section/24.md)
+    - [s. 25 Liabilities and obligations in relation to deputies.](section/25.md)
+    - [s. 26 Charges for dental treatment.](section/26.md)
+  - Pharmaceutical services
+    - [s. 27 Provision of additional pharmaceutical services.](section/27.md)
+    - [s. 28 Terms and conditions etc.](section/28.md)
+    - [s. 29 Authorised provision of pharmaceutical services by medical practitioners.](section/29.md)
+  - Ophthalmic services
+    - [s. 30 Duty of registered opticians to refer certain persons to registered medical practitioners.](section/30.md)
+  - NHS contracts
+    - [s. 31 Provision of certain services under NHS contracts.](section/31.md)
+  - Medical lists and vacancies
+    - [s. 32 Medical lists and vacancies: England and Wales.](section/32.md)
+    - [s. 33 Medical lists and vacancies: Scotland.](section/33.md)
+  - Medical practices
+    - [s. 34 Sale of medical practices.](section/34.md)
+    - [s. 35 Employment of pre-registration house officers in medical practices.](section/35.md)
+- Part III Miscellaneous and Supplemental
+  - [s. 36 Expenditure of Health Authorities.](section/36.md)
+  - [s. 37 Expenditure of Health Boards.](section/37.md)
+  - [s. 38 Corresponding provision for Northern Ireland.](section/38.md)
+  - [s. 39 Regulations and directions.](section/39.md)
+  - [s. 40 Interpretation.](section/40.md)
+  - [s. 41 Short title, commencement and extent, etc.](section/41.md)
+- SCHEDULE 1 Preferential Treatment on Transferring to Medical Lists
+  - Cases where preference is given
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The preferential treatment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Representations against preferential treatment
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Power of Tribunal to give directions
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Termination of directions
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Directions in Northern Ireland
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Regulations
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Interpretation
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Amendments
+  - Part I Minor and Consequential Amendments
+    - The Health Services and Public Health Act 1968 (c. 46)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - The Patents Act 1977 (c. 37)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - The National Health Service Act 1977 (c. 49)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - The National Health Service (Scotland) Act 1978 (c. 29)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+      - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+      - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+      - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - The Medical Act 1983 (c. 54)
+      - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+    - The Dentists Act 1984 (c. 24)
+      - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+    - The Copyright, Designs and Patents Act 1988 (c. 48)
+      - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+    - The Health and Medicines Act 1988 (c. 49)
+      - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+    - The National Health Service and Community Care Act 1990 (c. 19)
+      - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+    - The Access to Health Records Act 1990 (c. 23)
+      - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+      - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - The Health Service Commissioners Act 1993 (c. 46)
+      - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+  - Part II Pre-consolidation Amendments
+    - The National Health Service Act 1966 (c. 8)
+      - [Sch. 2 para. 69](schedule/2/paragraph/69.md)
+    - The National Health Service Act 1977 (c. 49)
+      - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+      - [Sch. 2 para. 71](schedule/2/paragraph/71.md)
+      - [Sch. 2 para. 72](schedule/2/paragraph/72.md)
+      - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+      - [Sch. 2 para. 74](schedule/2/paragraph/74.md)
+      - [Sch. 2 para. 75](schedule/2/paragraph/75.md)
+      - [Sch. 2 para. 76](schedule/2/paragraph/76.md)
+      - [Sch. 2 para. 77](schedule/2/paragraph/77.md)
+      - [Sch. 2 para. 78](schedule/2/paragraph/78.md)
+    - Transitional provisions for amendments to 1977 Act
+      - [Sch. 2 para. 79](schedule/2/paragraph/79.md)
+    - The Health and Medicines Act 1988 (c. 49)
+      - [Sch. 2 para. 80](schedule/2/paragraph/80.md)
+    - The Health Service Commissioners Act 1993 (c. 46)
+      - [Sch. 2 para. 81](schedule/2/paragraph/81.md)
+- SCHEDULE 3 Repeals and Revocations
+  - Part I Repeals
+  - Part II Pre-consolidation Repeals
+  - Part III Revocations
