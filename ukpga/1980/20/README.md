@@ -1,0 +1,159 @@
+# Education Act 1980
+
+1980 c. 20. Enacted 1980-04-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2007-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1980/20/2007-04-01
+
+## Contents
+
+- School government
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+- Admission to schools
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+- School attendance orders
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+- Establishment, discontinuance and eration of schools
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+- Awards and grants
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 Industrial scholarships.](section/20.md)
+  - [s. 21 ................................](section/21.md)
+- School meals
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+- Nursery education
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+- Miscellaneous
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 Discrimination by local education authorities.](section/33.md)
+  - [s. 34 ................................](section/34.md)
+- Supplementary
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Expenses.](section/36.md)
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 Citation, construction, repeals and extent.](section/38.md)
+- SCHEDULE 1
+  - The Education Act 1944
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 ................................](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The Education Act 1946
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - The Education (Miscellaneous Provisions) Act 1948
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - The Reserve and Auxiliary Forces (Protection of Civil Interests)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - The Education (Miscellaneous Provisions) Act 1953
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - The Education Act 1959
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - The Education Act 1967
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - The Education Act 1968
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - The Education (No. 2) Act 1968
+    - [Sch. 1 para. 25 ................................](schedule/1/paragraph/25.md)
+  - The Education Act 1973
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - The Sex Discrimination Act 1975
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - The Race Relations Act 1976
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - The National Health Service Act 1977
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - The Employment Protection (Consolidation) Act 1978
+    - [Sch. 1 para. 30 ................................](schedule/1/paragraph/30.md)
+  - The Education Act 1979
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+- SCHEDULE 2
+  - Part I Constitution of Appeal Committees
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Lay Members
+      - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - Part II Procedure
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3
+  - The Education Act 1944
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 ................................](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Education Act 1946
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Education (Miscellaneous Provisions) Act 1953
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The London Government Act 1963
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Education Act 1964
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Education Act 1967
+    - [Sch. 3 para. 13 ................................](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 ................................](schedule/3/paragraph/14.md)
+  - The Education Act 1968
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Education Act 1973
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Sex Discrimination Act 1975
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 PROVISIONS SUBSTITUTED IN THE EDUCATION ACT 1962
+  - [Sch. 5 para. 1 Local education authority awards for designated courses.](schedule/5/paragraph/1.md)
+- SCHEDULE 6
+- SCHEDULE 7
