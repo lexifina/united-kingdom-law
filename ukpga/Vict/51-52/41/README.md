@@ -1,0 +1,120 @@
+# Local Government Act 1888
+
+1888 c. 41. Enacted 1888-08-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2007-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/51-52/41/2007-08-01
+
+## Contents
+
+- Part I County Councils
+  - [s. 12. ................................](section/12.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 1213. ................................](section/1213.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 1718. ................................](section/1718.md)
+  - [s. 19 ................................](section/19.md)
+  - Financial Relations between Exchequer and County, and Contributions by County for Costs of Union Officers
+    - [s. 20 Payment to county council of proceeds of duties on local taxation licences.](section/20.md)
+    - [s. 2127 ................................](section/2127.md)
+  - General Provisions as to Transfer
+    - [s. 28 General provisions as to powers transferred to county council.](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+- Part II Application of Act to Boroughs, the Metropolis, and certain Special Counties
+  - [s. 3139 ................................](section/3139.md)
+  - Application of Act to Metropolis
+    - [s. 40 ................................](section/40.md)
+    - [s. 41](section/41.md)
+    - [s. 42 Arrangements for paid chairman and sitting of quarter sessions for London.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+- Part III Boundaries
+  - [s. 5053 ................................](section/5053.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 5556. ................................](section/5556.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59](section/59.md)
+  - [s. 6062 ................................](section/6062.md)
+  - [s. 63 ................................](section/63.md)
+- Part IV Finance
+  - Property Funds and Costs of County Council
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Borrowing by county council.](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+- Part V Supplemental
+  - Application of Acts
+    - [s. 75 ................................](section/75.md)
+    - [s. 7677. ................................](section/7677.md)
+    - [s. 78 Construction of Acts referring to business transferred.](section/78.md)
+  - Proceedings of Councils and Committees
+    - [s. 79 Incorporation of county council.](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 Appointment of joint committees.](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+  - Regulations for Bicycles, &c.
+    - [s. 85 Regulations for bicycles, &c.](section/85.md)
+  - Adaptation of Acts
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 Application of provisions of 38 & 39 Vict. c. 55 as to local inquiries and provisional orders.](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+  - Savings
+    - [s. 92](section/92.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 ................................](section/94.md)
+    - [s. 95 Saving as to Middlesex, Surrey, and Kent.](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 ................................](section/97.md)
+    - [s. 98 Saving for powers of Commissioners of Inland Revenue and Customs.](section/98.md)
+  - Definitions
+    - [s. 99 ................................](section/99.md)
+    - [s. 100 Interpretation of certain terms in the Act.](section/100.md)
+    - [s. 101 Extent of Act.](section/101.md)
+    - [s. 102 Short title.](section/102.md)
+- Part VI Transitory Provisions
+  - [s. 103108 ................................](section/103108.md)
+  - [s. 109 ................................](section/109.md)
+  - [s. 110114 ................................](section/110114.md)
+  - [s. 115 ................................](section/115.md)
+  - [s. 116 ................................](section/116.md)
+  - [s. 117 ................................](section/117.md)
+  - [s. 118120 ................................](section/118120.md)
+  - [s. 121 ................................](section/121.md)
+  - Savings
+    - [s. 122 ................................](section/122.md)
+    - [s. 123 Saving for existing bye-laws.](section/123.md)
+    - [s. 124 ................................](section/124.md)
+    - [s. 125126. ................................](section/125126.md)
+- FIRST SCHEDULE Local Taxation Licences
+- SECOND SCHEDULE
+- THIRD SCHEDULE
