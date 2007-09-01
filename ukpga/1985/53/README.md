@@ -1,0 +1,115 @@
+# Social Security Act 1985
+
+1985 c. 53. Enacted 1985-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2007-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1985/53/2007-09-01
+
+## Contents
+
+- Part I Occupational Pensions
+  - [s. 1 Short service benefit for members of schemes whose employment is terminated before age of 26.](section/1.md)
+  - [s. 2 Transfer and revaluation.](section/2.md)
+  - [s. 3 Information about schemes.](section/3.md)
+  - [s. 4 Earnings factors and guaranteed minimum pensions.](section/4.md)
+  - [s. 5 Managers of schemes.](section/5.md)
+  - [s. 6 Miscellaneous amendments relating to protection of pensions.](section/6.md)
+- Part II Social Security
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 Dock workers.](section/8.md)
+  - [s. 913. ................................](section/913.md)
+  - [s. 14 Special hardship allowance.](section/14.md)
+  - [s. 1517. ................................](section/1517.md)
+- Part III Statutory Sick Pay
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 Miscellaneous amendments relating to statutory sick pay.](section/21.md)
+- Part IV Miscellaneous and Supplementary
+  - Miscellaneous
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Vaccine damage payments.](section/23.md)
+    - [s. 24 Power to extend Pneumoconiosis etc. (Workers’ Compensation) Act 1979.](section/24.md)
+    - [s. 25 Pensions and gratuities for members of certain Boards.](section/25.md)
+  - Supplementary
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Financial provision.](section/28.md)
+    - [s. 29 Minor and consequential amendments and repeals.](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 Extent.](section/31.md)
+    - [s. 32 Commencement.](section/32.md)
+    - [s. 33 Citation.](section/33.md)
+- SCHEDULE 1
+  - Part I New Sections
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part II New Schedule
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2
+- SCHEDULE 3
+  - Part I Earnings Factors
+    - Social Security Pensions Act 1975 (c.60)
+      - [Sch. 3 para. 1 ................................](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Social Security (Miscellaneous Provisions) Act 1977 (c.5)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Guaranteed Minimum Pensions
+    - Social Security Pensions Act 1975 (c.60)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Miscellaneous Amendments Relating to Statutory Sick Pay
+  - Attachment of Earnings Act 1971 (c.32)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Social Security Act 1975 (c.14)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 37.](schedule/4/paragraph/37.md)
+- SCHEDULE 5 Minor and Consequential Amendments
+  - Social Security Act 1973 (c.38)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Social Security Act 1975 (c.14)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 89.](schedule/5/paragraph/89.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 1315.](schedule/5/paragraph/1315.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+  - Social Security Act 1980 (c.30)
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+  - Social Security and Housing Benefits Act 1982 (c.24)
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+  - Health and Social Security Act 1984 (c.48)
+    - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+  - Social Security (Contributions) Regulations 1979 (S.I. 1979/591)
+    - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+- SCHEDULE 6 Repeals
