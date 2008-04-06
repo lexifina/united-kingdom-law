@@ -1,0 +1,168 @@
+# Crown Agents Act 1979
+
+1979 c. 43. Enacted 1979-04-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2008-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1979/43
+
+Source: https://www.legislation.gov.uk/ukpga/1979/43/2008-04-06
+
+## Contents
+
+- The Crown Agents for Oversea Governments and Administrations
+  - [s. 1 Reconstitution of Crown Agents as body corporate.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 ................................](section/12.md)
+- Financial provisions
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+- The Crown Agents Holding and Realisation Board
+  - [s. 25 The Crown Agents Holding and Realisation Board.](section/25.md)
+  - [s. 26 Position with respect to recoverable grants paid to unincorporated Agents.](section/26.md)
+- Miscellaneous and general
+  - [s. 27 Exemptions.](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 Administrative expenses.](section/29.md)
+  - [s. 30 Orders, regulations and consents.](section/30.md)
+  - [s. 31 Interpretation.](section/31.md)
+  - [s. 32 Consequential amendments, transitional provisions and repeals.](section/32.md)
+  - [s. 33 Citation and extent.](section/33.md)
+- SCHEDULE 1 Supplementary Provisions as to Constitution Etc. of Crown Agents
+  - Appointment and tenure of members
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration etc. of members
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Disqualification of members of Crown Agents for House of Commons and Northern Ireland Assembly
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Proceedings
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Staff
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Performance of functions
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Instruments and contracts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3
+  - Part I Descriptions of Authorities and Bodies for whom Crown Agents can Act as Agents
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part II Supplementary
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 Provisions Relating to Crown Agents Holding and Realisation Board
+  - Appointment and tenure of members
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Remuneration, &c.
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Proceedings
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Performance of functions
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Instruments and contracts
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Vesting in Board or property, rights and liabilities
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Ancillary powers
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Duties with respect to management of activities
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Power of Minister to obtain information from Board
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Annual reports
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Control by Board of subsidiaries
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Management of liquid assets of Board and their subsidiaries
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Application of surplus revenue of Board
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Borrowing by the Board and their subsidiaries
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Limit on indebtedness of Board and their subsidiaries
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Grants and loans by Minister
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Treasury guarantees
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Accounts and audit
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Power of Minister to give instructions
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - Duty to insure against insurable financial risks
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - Dissolution of Board
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+- SCHEDULE 6 Consequential Amendments and Transitional Provisions
+  - Part I CONSEQUENTIAL AMENDMENTS
+    - Public Records Act 1958(c. 51)
+  - Part II
+    - Final accounts of unincorporated Agents
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Final report on affairs of unincorporated Agents
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 REPEALS.
