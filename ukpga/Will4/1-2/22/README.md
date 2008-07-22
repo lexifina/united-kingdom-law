@@ -1,0 +1,55 @@
+# London Hackney Carriage Act 1831
+
+1831 c. 22. Enacted 1831-09-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2008-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Will4/1-2/22/2008-07-22
+
+## Contents
+
+- [s. 1 ................................](section/1.md)
+- [s. 23. ................................](section/23.md)
+- [s. 4 ................................](section/4.md)
+- [s. 517. ................................](section/517.md)
+- [s. 18 ................................](section/18.md)
+- [s. 1925. ................................](section/1925.md)
+- [s. 26 ................................](section/26.md)
+- [s. 27 ................................](section/27.md)
+- [s. 28 ................................](section/28.md)
+- [s. 29 ................................](section/29.md)
+- [s. 3033 ................................](section/3033.md)
+- [s. 34 ................................](section/34.md)
+- [s. 35 †Hackney carriages standing in any street shall be deemed to be plying for hire; and the driver thereof refusing to go with any person liable to a penalty of 40s.](section/35.md)
+- [s. 36 Compensation to be made to drivers improperly summoned for refusing to carry any person.](section/36.md)
+- [s. 37 ................................](section/37.md)
+- [s. 3840. ................................](section/3840.md)
+- [s. 41 Persons refusing to pay the driver his fare, or for any damage, may be committed to prison.](section/41.md)
+- [s. 42 ................................](section/42.md)
+- [s. 4345. ................................](section/4345.md)
+- [s. 46 ................................](section/46.md)
+- [s. 47 Deposit to be made for carriages waiting.](section/47.md)
+- [s. 48 ................................](section/48.md)
+- [s. 49 ................................](section/49.md)
+- [s. 50 †Penalty for permitting persons to ride without consent of the hirer, 20s.](section/50.md)
+- [s. 51 †Improperly standing with carriage, or feeding horses in the street; refusing to give way to or obstructing any other driver or depriving him of his fare; penalty 20s.](section/51.md)
+- [s. 5254. ................................](section/5254.md)
+- [s. 55 ................................](section/55.md)
+- [s. 56 †Proprietors, drivers, or watermen misbehaving, penalty, 5l. Licence may be revoked.](section/56.md)
+- [s. 57 Justices empowered to award compensation to drivers or watermen for their loss of time in attending to answer complaints which shall not be substantiated against them.](section/57.md)
+- [s. 58 ................................](section/58.md)
+- [s. 5960. ................................](section/5960.md)
+- [s. 61 ................................](section/61.md)
+- [s. 6263. ................................](section/6263.md)
+- [s. 64 ................................](section/64.md)
+- [s. 65 ................................](section/65.md)
+- [s. 6667. ................................](section/6667.md)
+- [s. 68 ................................](section/68.md)
+- [s. 69 ................................](section/69.md)
+- [s. 7071. ................................](section/7071.md)
+- [s. 72 ................................](section/72.md)
+- [s. 73 ................................](section/73.md)
+- [s. 74 Construction of the terms used in this Act.](section/74.md)
+- [s. 7578. ................................](section/7578.md)
+- SCHEDULES (A)—(C)
+- SCHEDULE (D)
