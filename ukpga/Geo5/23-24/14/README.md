@@ -1,0 +1,124 @@
+# London Passenger Transport Act 1933
+
+1933 c. 14. Enacted 1933-04-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2008-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5/23-24/14/2008-12-31
+
+## Contents
+
+- Part I
+  - [s. 14 ................................](section/14.md)
+- Part II The Undertaking of the Board
+  - Transfer to the Board of existing Undertakings
+    - [s. 5 †Transfer to Board of passenger transport undertakings.](section/5.md)
+    - [s. 614. ................................](section/614.md)
+  - Transport Services, Fares and Charges
+    - [s. 15 ................................](section/15.md)
+    - [s. 1617. ................................](section/1617.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Provision of service of passenger vessels on River Thames.](section/19.md)
+    - [s. 2022. ................................](section/2022.md)
+    - [s. 23 Power to abandon tramway systems.](section/23.md)
+    - [s. 24 Supply of electricity by local authorities.](section/24.md)
+    - [s. 2526. ................................](section/2526.md)
+    - [s. 2736. ................................](section/2736.md)
+- Parts III—VI
+  - [s. 3749. ................................](section/3749.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 5253. ................................](section/5253.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 ................................](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 5758. ................................](section/5758.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 6061. ................................](section/6061.md)
+  - [s. 62 ................................](section/62.md)
+  - [s. 6364. ................................](section/6364.md)
+  - [s. 6566. ................................](section/6566.md)
+  - [s. 6772. ................................](section/6772.md)
+- Part VII Staff and Superannuation
+  - [s. 73 ................................](section/73.md)
+  - [s. 74 ................................](section/74.md)
+  - [s. 75 ................................](section/75.md)
+  - [s. 76 ................................](section/76.md)
+  - [s. 77 ................................](section/77.md)
+  - [s. 78 ................................](section/78.md)
+  - [s. 79 ................................](section/79.md)
+  - [s. 80 Superannuation funds, &c.](section/80.md)
+- Part VIII Transitional and Supplemental Provisions
+  - [s. 81 Exemption from stamp duties.](section/81.md)
+  - [s. 8284. ................................](section/8284.md)
+  - [s. 85 Pending proceedings and existing contracts.](section/85.md)
+  - [s. 86 Provisions as to substituted stock.](section/86.md)
+  - [s. 87 ................................](section/87.md)
+  - [s. 88 Dissolution of the Underground Electric Railways Company of London Limited and the London and Suburban Traction Company Limited.](section/88.md)
+  - [s. 89 Provisions as to certain stocks of the Metropolitan Railway Company.](section/89.md)
+  - [s. 9091. ................................](section/9091.md)
+  - [s. 92 ................................](section/92.md)
+  - [s. 93 Protection for statutory gas and water undertakers.](section/93.md)
+  - [s. 9496. ................................](section/9496.md)
+  - [s. 97 ................................](section/97.md)
+  - [s. 98 Provisions as to undertaking of Surplus Lands Committee.](section/98.md)
+  - [s. 99 ................................](section/99.md)
+  - [s. 100 Application to Board of 33 & 34 Vict. c. 78.](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 ................................](section/102.md)
+  - [s. 103 ................................](section/103.md)
+  - [s. 104 Proof of signed map.](section/104.md)
+  - [s. 105 Saving for existing bye-laws, &c.](section/105.md)
+  - [s. 106 ................................](section/106.md)
+  - [s. 107 Interpretation.](section/107.md)
+  - [s. 108 ................................](section/108.md)
+  - [s. 109 Short title.](section/109.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
+  - Part I
+    - The Underground undertakings
+  - Part II
+    - The Metropolitan undertaking
+  - Part III
+    - The local authorities’ undertakings
+  - Part IV
+    - The Tilling undertakings
+  - Part V
+    - The Independent undertakings
+  - Part VI
+    - The Lewis undertaking
+- THIRD SCHEDULE Issue of Transport Stock to Companies owning the Underground Undertakings and distribution of that stock
+  - Parts I, II................................
+  - Part III Constitution of the Central London (New) Guaranteed Assented Stock
+    - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+    - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+    - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+    - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+    - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+    - [Sch. THIRD para. 6](schedule/THIRD/paragraph/6.md)
+- FOURTH SCHEDULE
+- FIFTH SCHEDULE Distribution of Transport Stock issued as consideration for Transfer of Undertakings to the Board and the winding up of certain Companies whose Undertakings are transferred
+  - [Sch. FIFTH para. 1](schedule/FIFTH/paragraph/1.md)
+- SIXTH SCHEDULE
+- SEVENTH SCHEDULE London Passenger Transport Area
+  - Part I
+  - Parts II—IV................................
+- EIGHTH SCHEDULE
+- NINTH SCHEDULE
+- TENTH SCHEDULE
+- ELEVENTH–THIRTEENTH SCHEDULE
+- FOURTEENTH SCHEDULE....................................
+  - [Sch. FOURTEENTH para. 1](schedule/FOURTEENTH/paragraph/1.md)
+  - [Sch. FOURTEENTH para. 2](schedule/FOURTEENTH/paragraph/2.md)
+  - [Sch. FOURTEENTH para. 3](schedule/FOURTEENTH/paragraph/3.md)
+  - [Sch. FOURTEENTH para. 4](schedule/FOURTEENTH/paragraph/4.md)
+  - [Sch. FOURTEENTH para. 5](schedule/FOURTEENTH/paragraph/5.md)
+  - [Sch. FOURTEENTH para. 6](schedule/FOURTEENTH/paragraph/6.md)
+  - [Sch. FOURTEENTH para. 7](schedule/FOURTEENTH/paragraph/7.md)
+  - [Sch. FOURTEENTH para. 8](schedule/FOURTEENTH/paragraph/8.md)
+  - [Sch. FOURTEENTH para. 9](schedule/FOURTEENTH/paragraph/9.md)
+  - [Sch. FOURTEENTH para. 10](schedule/FOURTEENTH/paragraph/10.md)
+  - [Sch. FOURTEENTH para. 11](schedule/FOURTEENTH/paragraph/11.md)
+  - [Sch. FOURTEENTH para. 12](schedule/FOURTEENTH/paragraph/12.md)
+- FIFTEENTH SCHEDULE
+- SIXTEENTH SCHEDULE
