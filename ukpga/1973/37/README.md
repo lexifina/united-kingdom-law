@@ -1,0 +1,112 @@
+# Water Act 1973
+
+1973 c. 37. Enacted 1973-07-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-03-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1973/37/2009-03-27
+
+## Contents
+
+- Part I
+  - [s. 13. ................................](section/13.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 78. ................................](section/78.md)
+- Part II Functions of Water Authorities
+  - [s. 9 Transfer to water authorities of functions of river authorities.](section/9.md)
+  - [s. 1013. ................................](section/1013.md)
+  - [s. 14](section/14.md)
+  - [s. 1517. ................................](section/1517.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 2022. ................................](section/2022.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 2424A. ................................](section/2424A.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26](section/26.md)
+  - [s. 2728. ................................](section/2728.md)
+- Part III
+  - [s. 2931. ................................](section/2931.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 32A ................................](section/32A.md)
+- Part IV Miscellaneous
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 Consequential, transitional and supplementary provision.](section/34.md)
+  - [s. 35 Isles of Scilly.](section/35.md)
+  - [s. 36 Orders, regulations and byelaws.](section/36.md)
+  - [s. 37 Expenses.](section/37.md)
+  - [s. 38 Interpretation.](section/38.md)
+  - [s. 39 Commencement.](section/39.md)
+  - [s. 40 Short title, minor amendments, repeals and extent.](section/40.md)
+- SCHEDULES 1 AND 2 ...
+- SCHEDULE 3 Administration, Finance, etc., of Water Authorities and the National Water Council
+  - Part I
+    - [Sch. 3 para. 121.](schedule/3/paragraph/121.md)
+  - Part II
+    - [Sch. 3 para. 2230.](schedule/3/paragraph/2230.md)
+  - Part III
+    - [Sch. 3 para. 3143.](schedule/3/paragraph/3143.md)
+- SCHEDULES 4 AND 4A ...
+- SCHEDULE 5 ...
+- SCHEDULE 6 Consequential, Transitional and Supplementary Provision
+  - Part I
+    - [Sch. 6 para. 110.](schedule/6/paragraph/110.md)
+  - Part II Local Acts and Instruments
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+- SCHEDULE 7 ...
+- SCHEDULE 8 Minor and Consequential Amendments, etc.
+  - [Sch. 8 para. 119.](schedule/8/paragraph/119.md)
+  - [Sch. 8 para. 2021.](schedule/8/paragraph/2021.md)
+  - [Sch. 8 para. 2223.](schedule/8/paragraph/2223.md)
+  - [Sch. 8 para. 2431.](schedule/8/paragraph/2431.md)
+  - [Sch. 8 para. 3236.](schedule/8/paragraph/3236.md)
+  - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - [Sch. 8 para. 4142.](schedule/8/paragraph/4142.md)
+  - Diseases of Fish Act 1937
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - Public Health (Drainage of Trade Premises) Act 1937
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 4548.](schedule/8/paragraph/4548.md)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 5162.](schedule/8/paragraph/5162.md)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+  - Town Development Act 1952
+    - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+  - Local Government (Miscellaneous Provisions) Act 1953
+    - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+    - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+    - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+    - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+    - [Sch. 8 para. 7071.](schedule/8/paragraph/7071.md)
+    - [Sch. 8 para. 7275.](schedule/8/paragraph/7275.md)
+    - [Sch. 8 para. 7677.](schedule/8/paragraph/7677.md)
+    - [Sch. 8 para. 7879.](schedule/8/paragraph/7879.md)
+    - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+    - [Sch. 8 para. 8182.](schedule/8/paragraph/8182.md)
+    - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+    - [Sch. 8 para. 84](schedule/8/paragraph/84.md)
+    - [Sch. 8 para. 8586.](schedule/8/paragraph/8586.md)
+  - Harbours Act 1964
+    - [Sch. 8 para. 87](schedule/8/paragraph/87.md)
+    - [Sch. 8 para. 8889.](schedule/8/paragraph/8889.md)
+    - [Sch. 8 para. 90](schedule/8/paragraph/90.md)
+    - [Sch. 8 para. 9192.](schedule/8/paragraph/9192.md)
+  - Agriculture Act 1970
+    - [Sch. 8 para. 93](schedule/8/paragraph/93.md)
+    - [Sch. 8 para. 94](schedule/8/paragraph/94.md)
+    - [Sch. 8 para. 9597.](schedule/8/paragraph/9597.md)
+    - [Sch. 8 para. 98](schedule/8/paragraph/98.md)
+- SCHEDULE 9 REPEALS
