@@ -1,0 +1,115 @@
+# Supplementary Benefits Act 1976
+
+1976 c. 71. Enacted 1976-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1976/71/2009-04-06
+
+## Contents
+
+- Part I
+  - [s. 116. ................................](section/116.md)
+- Part II Liability to Maintain, Recovery of Expenditure and Offences
+  - [s. 1719. ................................](section/1719.md)
+  - [s. 20](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 2223. ................................](section/2223.md)
+  - [s. 2426. ................................](section/2426.md)
+- Part III Administration, General and Supplemental
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 3134. ................................](section/3134.md)
+  - [s. 35 Transitional provisions, savings, amendments and repeals.](section/35.md)
+  - [s. 36 Short title, extent and commencement.](section/36.md)
+- Schedules 1—3
+- SCHEDULE 4
+- Schedule 5
+  - [Sch. 5 para. 1 ................................](schedule/5/paragraph/1.md)
+  - Resettlement units
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 ................................](schedule/5/paragraph/3.md)
+  - Grants for voluntary organistions providing places
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Transitional Provisions and Savings
+  - Part I
+    - General Provisions
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Part II
+    - Specific Provisions
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 67.](schedule/6/paragraph/67.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- Schedule 7 Consequential Amendments
+  - Polish Resettlement Act 1947
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - National Assistance Act 1948
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Maintenance Orders Act 1950
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Ecclesiastical Jurisdiction Measure 1963
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Legal Aid (Scotland) Act 1967
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Income and Corporation Taxes Act 1970
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Administration of Justice Act 1970
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Local Authority Social Services Act 1970
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Family Income Supplements Act 1970
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Attachment of Earnings Act 1971
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Tribunals and Inquiries Act 1971
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Housing (Financial Provisions) (Scotland) Act 1972
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Housing Finance Act 1972
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - Affiliation Proceedings (Amendment) Act 1972
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - National Health Service Reorganisation Act 1973
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+  - Employment and Training Act 1973
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - Local Government (Scotland) Act 1973
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+  - Legal Aid Act 1974
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+  - National Insurance Act 1974
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+  - Social Security Act 1975
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+  - Criminal Procedure (Scotland) Act 1975
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+  - Employment Protection Act 1975
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+- Schedule 8 Repeals
+  - Part I Immediate Repeals
+  - Part II Deferred Repeals
