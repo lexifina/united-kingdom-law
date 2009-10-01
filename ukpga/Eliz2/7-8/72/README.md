@@ -1,0 +1,102 @@
+# Mental Health Act 1959
+
+1959 c. 72. Enacted 1959-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/7-8/72/2009-10-01
+
+## Contents
+
+- Part I Preliminary
+  - [s. 15. ................................](section/15.md)
+- Part II Local Authority Services
+  - General Provisions
+    - [s. 67. ................................](section/67.md)
+    - [s. 8 Functions of welfare authorities.](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 1113. ................................](section/1113.md)
+- Part III Mental Nursing Homes, Residential Homes, etc.
+  - [s. 1418. ................................](section/1418.md)
+  - [s. 1921. ................................](section/1921.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23](section/23.md)
+  - [s. 24 ................................](section/24.md)
+- Part IV Compulsory Admission to Hospital and Guardianship
+  - [s. 2535. ................................](section/2535.md)
+  - [s. 36 ................................](section/36.md)
+  - [s. 3743. ................................](section/3743.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 4559. ................................](section/4559.md)
+- Part V Admission of Patients Concerned in Criminal Proceedings, etc., and Transfer of Patients under Sentence
+  - [s. 60 ................................](section/60.md)
+  - [s. 61 ................................](section/61.md)
+  - [s. 6268. ................................](section/6268.md)
+  - [s. 69 ................................](section/69.md)
+  - [s. 7076. ................................](section/7076.md)
+  - [s. 7778. ................................](section/7778.md)
+  - [s. 79 ................................](section/79.md)
+  - [s. 80 ................................](section/80.md)
+- Part VI Removal and Return of Patients within United Kingdom, etc.
+  - [s. 81 ................................](section/81.md)
+  - [s. 8284. ................................](section/8284.md)
+  - [s. 85 ................................](section/85.md)
+  - [s. 87 ................................](section/87.md)
+  - [s. 8990. ................................](section/8990.md)
+  - [s. 91 ................................](section/91.md)
+  - [s. 9296. ................................](section/9296.md)
+- Part VII Special Hospitals
+  - [s. 9798. ................................](section/9798.md)
+  - [s. 99 ................................](section/99.md)
+- Part VIII Management of Property and Affairs of Patients
+  - [s. 100119. ................................](section/100119.md)
+  - [s. 120 ................................](section/120.md)
+  - [s. 121 ................................](section/121.md)
+- Part IX Miscellaneous and General
+  - [s. 122124. ................................](section/122124.md)
+  - Offences
+    - [s. 125126. ................................](section/125126.md)
+    - [s. 127 Amendment of Sexual Offences Act, 1956.](section/127.md)
+    - [s. 128 Sexual intercourse with patients.](section/128.md)
+    - [s. 129130. ................................](section/129130.md)
+    - [s. 131 Prosecutions by local authorities.](section/131.md)
+  - Miscellaneous provisions
+    - [s. 132133. ................................](section/132133.md)
+    - [s. 134 ................................](section/134.md)
+    - [s. 135138. ................................](section/135138.md)
+    - [s. 139141. Supplemental](section/139141.md)
+    - [s. 142 Default powers of Minister.](section/142.md)
+    - [s. 143 Inquiries.](section/143.md)
+    - [s. 144 Expenses.](section/144.md)
+    - [s. 145 General provisions as to regulations, orders and rules.](section/145.md)
+    - [s. 146 ................................](section/146.md)
+    - [s. 147148. ................................](section/147148.md)
+    - [s. 149 Minor and consequential amendments and repeals.](section/149.md)
+    - [s. 150 Application to Scotland.](section/150.md)
+    - [s. 151 ................................](section/151.md)
+    - [s. 152 Application to Northern Ireland.](section/152.md)
+    - [s. 153 ................................](section/153.md)
+    - [s. 154 Short title and application to Scilly Isles.](section/154.md)
+- FIRST SCHEDULE ...
+- SECOND SCHEDULE ...
+- THIRD SCHEDULE ...
+- FOURTH SCHEDULE ...
+- FIFTH SCHEDULE ...
+- SIXTH SCHEDULE Transitional Provisions
+  - Part I
+    - [Sch. SIXTH para. 12.](schedule/SIXTH/paragraph/12.md)
+  - Part II
+    - [Sch. SIXTH para. 36.](schedule/SIXTH/paragraph/36.md)
+  - Part III Provisions relating to Parts IV and V
+    - [Sch. SIXTH para. 714.](schedule/SIXTH/paragraph/714.md)
+    - Transferred patients
+      - [Sch. SIXTH para. 15](schedule/SIXTH/paragraph/15.md)
+      - [Sch. SIXTH para. 1623.](schedule/SIXTH/paragraph/1623.md)
+  - Part IV
+    - [Sch. SIXTH para. 2428.](schedule/SIXTH/paragraph/2428.md)
+- Seventh Schedule MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Part I
+    - AMENDMENTS EXTENDING TO ENGLAND AND WALES ONLY
+  - PART II OTHER AMENDMENTS
+- EIGHTH SCHEDULE
