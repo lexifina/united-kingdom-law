@@ -1,0 +1,249 @@
+# British Telecommunications Act 1981
+
+1981 c. 38. Enacted 1981-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1981/38/2009-10-01
+
+## Contents
+
+- Part I New Corporation for the Provision of Telecommunication and Data Processing Services
+  - The Corporation
+    - [s. 1 The Corporation.](section/1.md)
+  - Powers and duties of the Corporation
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Powers of the Secretary of State over the Corporation
+    - [s. 6 General control and supervision by the Secretary of State.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Users’ Councils
+    - [s. 9 ................................](section/9.md)
+  - Transfers of property, rights and liabilities
+    - [s. 10 Transfers of property, rights and liabilities](section/10.md)
+    - [s. 11 ................................](section/11.md)
+  - Charges and other terms and conditions applicable to services
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+  - Limitation of liability
+    - [s. 23 ................................](section/23.md)
+  - Finance
+    - [s. 24 General duty of the Corporation as to finance.](section/24.md)
+    - [s. 28](section/28.md)
+    - [s. 29 ................................](section/29.md)
+  - The Corporation’s accounts, and audit thereof
+    - [s. 31 The Corporation’s accounts and audit thereof.](section/31.md)
+  - Pensions
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Power of the Secretary of State to make orders about pensions.](section/33.md)
+    - [s. 34 ................................](section/34.md)
+  - Rating
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Rating in Scotland.](section/36.md)
+    - [s. 37 ................................](section/37.md)
+  - Miscellaneous
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+- PART II The Post Office
+  - Powers and duties of the Post Office
+    - [s. 58](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 ................................](section/61.md)
+  - Powers of the Secretary of State over the Post Office
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 ................................](section/64.md)
+  - Post Office Users’ Councils
+    - [s. 65 ................................](section/65.md)
+  - Exclusive privilege of the Post Office with respect to the conveyance etc. of letters
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 ................................](section/69.md)
+  - Limitation of liability
+    - [s. 70 ................................](section/70.md)
+  - Finance
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+  - Pensions
+    - [s. 76 ................................](section/76.md)
+  - Miscellaneous
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 Interpretation and extent of Part II.](section/78.md)
+- PART III Miscellaneous and General
+  - [s. 79 Powers of Treasury to dispose etc. of the shares of Cable and Wireless Limited.](section/79.md)
+  - [s. 80 ................................](section/80.md)
+  - [s. 81 Stamp duty.](section/81.md)
+  - [s. 82 Tax provisions.](section/82.md)
+  - [s. 83 Financial provisions.](section/83.md)
+  - [s. 84 Power of managers of certain welfare funds to preserve their scope.](section/84.md)
+  - [s. 85 General interpretation.](section/85.md)
+  - [s. 86 Application to Northern Ireland.](section/86.md)
+  - [s. 87 Consequential amendments.](section/87.md)
+  - [s. 88 Transitional provisions.](section/88.md)
+  - [s. 89 Repeals and savings.](section/89.md)
+  - [s. 90 Short title and extent.](section/90.md)
+- SCHEDULE 1 Provisions with respect to the Corporation and the Members thereof
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Proceedings
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Fixing of seal and proof of instruments
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Provisions as to Transfers of Property, Rights and Liabilities
+  - Allocation of property, rights and liabilities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Rights and liabilities under contracts of employment
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Right to production of documents of title
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Perfection of vesting of certain property or rights
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Proof of title by certificate
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Restrictions on dealing with certain land
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Construction of agreements, statutory provisions and documents
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Third parties affected by vesting provisions
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Consequential Amendments
+  - Part I General
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part II Public General Enactments
+    - Enactments relating to telegraphs
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Enactments relating to the supply of electricity
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Enactments relating to statutory undertakers
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Other enactments
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+      - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+      - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+      - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+      - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+      - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+      - [Sch. 3 para. 64](schedule/3/paragraph/64.md)
+      - [Sch. 3 para. 66](schedule/3/paragraph/66.md)
+      - [Sch. 3 para. 67](schedule/3/paragraph/67.md)
+      - [Sch. 3 para. 68](schedule/3/paragraph/68.md)
+      - [Sch. 3 para. 69](schedule/3/paragraph/69.md)
+      - [Sch. 3 para. 72](schedule/3/paragraph/72.md)
+      - [Sch. 3 para. 73](schedule/3/paragraph/73.md)
+      - [Sch. 3 para. 74](schedule/3/paragraph/74.md)
+  - Part III Local Enactments and Subordinate Legislation
+    - [Sch. 3 para. 77](schedule/3/paragraph/77.md)
+    - [Sch. 3 para. 81](schedule/3/paragraph/81.md)
+    - [Sch. 3 para. 82](schedule/3/paragraph/82.md)
+    - [Sch. 3 para. 84](schedule/3/paragraph/84.md)
+- SCHEDULE 4 General Transitional Provisions
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+- SCHEDULE 5 Special Transitional Provisions with Respect to Patients for Inventions and Registered Designs
+  - Part I Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Part II Patents for Inventions
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Part III Registered Designs
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+- SCHEDULE 6 ENACTMENTS REPEALED
+  - Part I Enactments Repealed on the Passing of this Act
+    - Northern Ireland Legislation
+  - Part II Enactments Repealed on the Appointed Day
+    - Northern Ireland Legislation
