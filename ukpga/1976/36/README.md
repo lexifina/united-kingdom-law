@@ -1,0 +1,147 @@
+# Adoption Act 1976
+
+1976 c. 36. Enacted 1976-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
+
+Source: https://www.legislation.gov.uk/ukpga/1976/36/2009-10-01
+
+## Contents
+
+- Part I The Adoption Service
+  - The Adoption Service
+    - [s. 1 Establishment of Adoption Service.](section/1.md)
+    - [s. 2 Local authorities’ social services.](section/2.md)
+  - Adoption societies
+    - [s. 3 Approval of adoption societies.](section/3.md)
+    - [s. 4 Withdrawal of approval.](section/4.md)
+    - [s. 5 Procedure on refusal to approve, or withdrawal of approval from, adoption societies.](section/5.md)
+  - Welfare of children
+    - [s. 6 Duty to promote welfare of child.](section/6.md)
+    - [s. 7 Religious upbringing of adopted child.](section/7.md)
+  - Supplemental
+    - [s. 8 Inactive or defunct adoption societies.](section/8.md)
+    - [s. 9 Regulation of adoption agencies.](section/9.md)
+    - [s. 9A Independent review of determinations](section/9A.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 Restriction on arranging adoptions and placing of children.](section/11.md)
+- Part II Adoption Orders
+  - The making of adoption orders
+    - [s. 12 Adoption orders.](section/12.md)
+    - [s. 13 Child to live with adopters before order made.](section/13.md)
+    - [s. 14 Adoption by married couple.](section/14.md)
+    - [s. 15 Adoption by one person.](section/15.md)
+    - [s. 16 Parental agreement.](section/16.md)
+    - [s. 17 Convention adoption orders.](section/17.md)
+  - Freeing for adoption
+    - [s. 18](section/18.md)
+    - [s. 19](section/19.md)
+    - [s. 20](section/20.md)
+    - [s. 21](section/21.md)
+  - Supplemental
+    - [s. 22 Notification to local authority of adoption application.](section/22.md)
+    - [s. 23 Reports where child placed by agency.](section/23.md)
+    - [s. 24 Restrictions on making adoption orders.](section/24.md)
+    - [s. 25 Interim orders.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+- Part III Care and Protection of Children Awaiting Adoption
+  - Restrictions on removal of children
+    - [s. 27 Restrictions on removal where adoption agreed or application made under s. 18.](section/27.md)
+    - [s. 28 Restrictions on removal where applicant has provided home for 5 years.](section/28.md)
+    - [s. 29 Return of child taken away in breach of s. 27 or 28.](section/29.md)
+    - [s. 30 Return of children placed for adoption by adoption agencies.](section/30.md)
+    - [s. 31 Application of s. 30 where child not placed for adoption.](section/31.md)
+  - Protected children
+    - [s. 32 Meaning of “protected child”.](section/32.md)
+    - [s. 33 Duty of local authorities to secure well-being of protected children.](section/33.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 Notices and information to be given to local authorities.](section/35.md)
+    - [s. 36 Offences relating to protected children.](section/36.md)
+    - [s. 37 Miscellaneous provisions relating to protected children.](section/37.md)
+- Part IV Status of Adopted Children
+  - [s. 38 Meaning of “adoption” in Part IV.](section/38.md)
+  - [s. 39 Status conferred by adoption.](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Adoptive relatives.](section/41.md)
+  - [s. 42 Rules of construction for instruments concerning property.](section/42.md)
+  - [s. 43 Dispositions depending on date of birth.](section/43.md)
+  - [s. 44 Property devolving with peerages etc.](section/44.md)
+  - [s. 45 Protection of trustees and personal representatives.](section/45.md)
+  - [s. 46 Meaning of “disposition”.](section/46.md)
+  - [s. 47 Miscellaneous enactments.](section/47.md)
+  - [s. 48 Pensions.](section/48.md)
+  - [s. 49 Insurance.](section/49.md)
+- Part V Registration and Revocation of Adoption Orders andConvention Adoptions
+  - [s. 50 Adopted Children Register.](section/50.md)
+  - [s. 51 Disclosure of birth records of adopted children.](section/51.md)
+  - [s. 51A Adoption Contact Register.](section/51A.md)
+  - [s. 52 Revocation of adoptions on legitimation.](section/52.md)
+  - [s. 53 Annulment etc. of overseas adoptions.](section/53.md)
+  - [s. 54 Provisions supplementary to ss. 52(3) and 53.](section/54.md)
+- Part VI Miscellaneous and Supplemental
+  - [s. 55 Adoption of children abroad.](section/55.md)
+  - [s. 56 Restriction on removal of children for adoption outside Great Britain.](section/56.md)
+  - [s. 56A Restriction on bringing children into the United Kingdom](section/56A.md)
+  - [s. 57 Prohibition on certain payments.](section/57.md)
+  - [s. 57A Permitted allowances.](section/57A.md)
+  - [s. 58 Restriction on advertisements.](section/58.md)
+  - [s. 58A Information concerning adoption.](section/58A.md)
+  - [s. 59 Effect of determination and orders made in Scotland and overseas in adoption proceedings.](section/59.md)
+  - [s. 60 Evidence of adoption in Scotland and Northern Ireland.](section/60.md)
+  - [s. 61 Evidence of agreement and consent.](section/61.md)
+  - [s. 62 Courts.](section/62.md)
+  - [s. 63 Appeals etc.](section/63.md)
+  - [s. 64 Proceedings to be in private.](section/64.md)
+  - [s. 65 Duties of officers of the Service](section/65.md)
+  - [s. 65A ................................](section/65A.md)
+  - [s. 66 Rules of procedure.](section/66.md)
+  - [s. 67 Orders, rules and regulations.](section/67.md)
+  - [s. 68 Offences by bodies corporate.](section/68.md)
+  - [s. 69 Services of notices etc.](section/69.md)
+  - [s. 70 Nationality.](section/70.md)
+  - [s. 71 Internal law of a country.](section/71.md)
+  - [s. 72 Interpretation.](section/72.md)
+  - [s. 73 Transitional provisions, amendments and repeals.](section/73.md)
+  - [s. 74 Short title, commencement and extent.](section/74.md)
+- SCHEDULE 1 Registration of Adoptions
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Transitional Provisions and Savings
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Rights relating to property
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Consequential Amendments
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 Repeals
