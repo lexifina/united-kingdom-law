@@ -1,0 +1,39 @@
+# Bahamas Independence Act 1973
+
+1973 c. 27. Enacted 1973-06-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-10-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1973/27/2009-10-31
+
+## Contents
+
+- [s. 1 Fully responsible status of Bahamas.](section/1.md)
+- [s. 2 Consequential modifications of British Nationality Acts.](section/2.md)
+- [s. 3 Retention of citizenship of United Kingdom and Colonies by certain persons connected with the Bahamas.](section/3.md)
+- [s. 4](section/4.md)
+- [s. 5 ................................](section/5.md)
+- [s. 6 Interpretation.](section/6.md)
+- [s. 7 Short title, repeal and extent.](section/7.md)
+- SCHEDULE 1 Legislative powers of Bahamas
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 AMENDMENTS NOT AFFECTING THE LAW OF THE BAHAMAS
+  - Diplomatic immunities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Financial
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Visiting forces
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Ships and aircraft
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Colonial stock
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Commonwealth Institute
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
