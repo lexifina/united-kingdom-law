@@ -1,0 +1,203 @@
+# Armed Forces Act 2001
+
+2001 c. 19. Enacted 2001-05-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2009-10-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2001/19
+
+Source: https://www.legislation.gov.uk/ukpga/2001/19/2009-10-31
+
+## Contents
+
+- Part 1 Continuance of services Acts
+  - [s. 1 Continuance of services Acts](section/1.md)
+- Part 2 Powers of entry, search and seizure
+  - Powers to stop and search
+    - [s. 2 Powers to stop and search persons, vehicles etc](section/2.md)
+    - [s. 3 Provisions relating to search under s. 2](section/3.md)
+    - [s. 4 Power of commanding officer in relation to stopping and searching of persons, vehicles etc](section/4.md)
+  - Entry and search of premises
+    - [s. 5 Power of judicial officer to authorise entry and search of certain premises](section/5.md)
+    - [s. 6 Special provisions as to access](section/6.md)
+    - [s. 7 Power of commanding officer to authorise entry and search of certain premises](section/7.md)
+    - [s. 8 Review by judicial officer](section/8.md)
+    - [s. 9 Entry for purpose of arrest etc](section/9.md)
+  - Powers exercisable on arrest
+    - [s. 10 Search upon arrest](section/10.md)
+  - Seizure etc.
+    - [s. 11 Power to make provision equivalent to that made by ss. 18 to 22 of Police and Criminal Evidence Act 1984](section/11.md)
+    - [s. 12 Property in possession of service police or commanding officer](section/12.md)
+  - Supplementary
+    - [s. 13 Orders and codes of practice under s. 113 of Police and Criminal Evidence Act 1984](section/13.md)
+    - [s. 14 Power to use reasonable force](section/14.md)
+    - [s. 15 Meaning of “service living accommodation”](section/15.md)
+    - [s. 16 Part 2: supplementary provisions](section/16.md)
+- Part 3 Trial and punishment of offences
+  - [s. 17 Summary dealing or trial and functions of prosecuting authority](section/17.md)
+  - [s. 18 Abolition of naval disciplinary courts](section/18.md)
+  - [s. 19 Membership of courts-martial](section/19.md)
+  - [s. 20 Eligibility of warrant officers for membership of summary appeal courts](section/20.md)
+  - [s. 21 Review of sentences by Courts-Martial Appeal Court](section/21.md)
+  - [s. 22 Required custodial sentences](section/22.md)
+  - [s. 23 Restriction of judicial review of courts-martial](section/23.md)
+  - [s. 24 Offences in relation to courts-martial etc](section/24.md)
+  - [s. 25 Powers to compel attendance of witnesses](section/25.md)
+  - [s. 26 Provision for orders as to costs](section/26.md)
+  - [s. 27 Costs against legal representatives etc](section/27.md)
+  - [s. 28 Provisions supplementary to ss. 26 and 27](section/28.md)
+  - [s. 29 Custody](section/29.md)
+  - [s. 30 Conditional release from custody](section/30.md)
+- Part 4 Miscellaneous and general
+  - Provision equivalent to criminal justice enactments
+    - [s. 31 Power to make provision in consequence of enactments relating to criminal justice](section/31.md)
+  - Testing for alcohol or drugs
+    - [s. 32 Powers to test for alcohol or drugs after serious incident](section/32.md)
+    - [s. 33 Interpretation of s. 32](section/33.md)
+  - Miscellaneous amendments
+    - [s. 34 Miscellaneous amendments](section/34.md)
+  - General
+    - [s. 35 Orders and regulations](section/35.md)
+    - [s. 36 Application to Channel Islands and Isle of Man](section/36.md)
+    - [s. 37 Interpretation](section/37.md)
+    - [s. 38 Repeals](section/38.md)
+    - [s. 39 Short title and commencement](section/39.md)
+- SCHEDULE 1 Summary dealing or trial and functions of prosecuting authority
+  - [Sch. 1 para. 1 Army Act 1955 (c. 18)](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Air Force Act 1955 (c. 19)](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Naval Discipline Act 1957 (c. 53)](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Membership of courts-martial
+  - [Sch. 2 para. 1 Army Act 1955 (c. 18)](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Air Force Act 1955 (c. 19)](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Naval Discipline Act 1957](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Required custodial sentences
+  - [Sch. 3 para. 1 Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Naval Discipline Act 1957 (c. 53)](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Amendments relating to custody
+  - [Sch. 4 para. 1 Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Naval Discipline Act 1957 (c. 53)](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Testing for alcohol or drugs
+  - [Sch. 5 para. 1 Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Naval Discipline Act 1957 (c. 53)](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Miscellaneous amendments
+  - Part 1 Amendments of Sexual Offences (Amendment) Act 1992
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Part 2 Abolition of office of Deputy Judge Advocate
+    - [Sch. 6 para. 5 Courts-Martial (Appeals) Act 1951 (c. 46)](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8 House of Commons Disqualification Act 1975 (c. 24) and Northern Ireland Assembly Disqualification Act 1975 (c. 25)](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9 Courts and Legal Services Act 1990 (c. 41)](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10 Judicial Pensions and Retirement Act 1993 (c. 8)](schedule/6/paragraph/10.md)
+  - Part 3 Amendments of Reserve Forces Act 1996
+    - [Sch. 6 para. 11 Delegation by Secretary of State of certain functions](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12 Notice given by special member](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13 Absence for voting](schedule/6/paragraph/13.md)
+  - Part 4 Amendments consequential on section 21(5) of Human Rights Act 1998
+    - [Sch. 6 para. 14 Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19 Naval Discipline Act 1957 (c. 53)](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Part 5 Queen Alexandra’s Royal Naval Nursing Service and former Women’s Royal Naval Service
+    - [Sch. 6 para. 23 Naval Discipline Act 1957 (c. 53)](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25 Armed Forces Act 1976 (c. 52)](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26 House of Commons Disqualification Act 1975 (c. 24)](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27 Northern Ireland Assembly Disqualification Act 1975 (c. 25)](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28 Armed Forces Act 1981 (c. 55)](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29 Housing Act 1985 (c. 68)](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30 Housing Act 1996 (c. 52)](schedule/6/paragraph/30.md)
+  - Part 6 Other amendments
+    - [Sch. 6 para. 31 Marriages in service chapels](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32 Retirement age for assistants to Judge Advocate General](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33 Sentence where penalty for civil offence fixed by law as life imprisonment](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35 Qualification for appointment as judicial officer](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37 Evidence given before boards of inquiry](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39 Compensation for loss](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41 Redress of complaints](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44 Civilian contractors attached to or accompanying armed forces](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 46 Interpretation of references to “Royal Air Force Police”](schedule/6/paragraph/46.md)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49 Interpretation of references to a “constable”](schedule/6/paragraph/49.md)
+    - [Sch. 6 para. 50 Application to civilians](schedule/6/paragraph/50.md)
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+    - [Sch. 6 para. 54 Arrest of civilian whose sentence is deferred](schedule/6/paragraph/54.md)
+    - [Sch. 6 para. 55 Right of appeal to Courts-Martial Appeal Court](schedule/6/paragraph/55.md)
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+    - [Sch. 6 para. 57 Children in respect of whom protective orders may be made](schedule/6/paragraph/57.md)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+    - [Sch. 6 para. 59 Amendment relating to abolition of naval disciplinary courts](schedule/6/paragraph/59.md)
+- SCHEDULE 7 Repeals
+  - Part 1 Repeals relating to abolition of naval disciplinary courts
+  - Part 2 Repeals relating to required custodial sentences
+  - Part 3 Repeals relating to abolition of office of Deputy Judge Advocate
+  - Part 4 Repeals consequential on Human Rights Act 1998
+  - Part 5 Repeals consequential on Youth Justice and Criminal Evidence Act 1999
+  - Part 6 Repeals relating to Queen Alexandra’s Royal Naval Nursing Service
+  - Part 7 Other repeals
