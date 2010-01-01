@@ -1,0 +1,199 @@
+# Public Health (Scotland) Act 1897
+
+1897 c. 38. Enacted 1897-08-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2010-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/60-61/38/2010-01-01
+
+## Contents
+
+- Preliminary
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 Extent and commencement of Act.](section/2.md)
+  - [s. 3 Definitions.](section/3.md)
+  - [s. 4 ................................](section/4.md)
+- Part I Authorities for Execution of Act
+  - Central Authority
+    - [s. 5 Local Government Board to be central authority.](section/5.md)
+    - [s. 6 Powers of Board to inquire into sanitary conditions of district.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 Power to Board to appoint commissioners for conducting special inquiries.](section/8.md)
+    - [s. 910. ................................](section/910.md)
+    - [s. 11 ................................](section/11.md)
+  - Local Authorities
+    - [s. 12 Local authorities for the purposes of the Act.](section/12.md)
+    - [s. 1314. ................................](section/1314.md)
+    - [s. 15 ................................](section/15.md)
+- Part II Sanitary Provisions
+  - General Nuisances
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 Articles removed to be sold.](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 Penalty for injuring closet, &c. so as to cause nuisance.](section/30.md)
+    - [s. 31 Waterclosets, &c. used in common.](section/31.md)
+  - Offensive Trades
+    - [s. 32 Prohibition or regulation of certain offensive businesses, and byelaws as to offensive businesses.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 Local authorities may make byelaws as to pigstyes.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+  - Scavenging and Cleansing
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 Houses in filthy state to be purified.](section/40.md)
+    - [s. 41 Provision for obtaining order for cleansing offensive ditches lying near to or forming boundaries of districts.](section/41.md)
+    - [s. 42 Periodical removal of manure from mews and other premises.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+- Part III General Prevention and Mitigation of Disease
+  - Infectious Diseases.—Notification
+    - [s. 44 Notification of infectious disease.](section/44.md)
+  - Infectious Diseases—Prevention
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 Provision of means for disinfecting bedding, &c.](section/46.md)
+    - [s. 47 Cleansing and disinfecting of premises, &c.](section/47.md)
+    - [s. 48 Disinfection of bedding. &c.](section/48.md)
+    - [s. 49 Persons engaged in washing or mangling clothes to furnish list of owners of clothes in certain cases.](section/49.md)
+    - [s. 50 Infectious matter thrown into ash-pits, &c. to be disinfected.](section/50.md)
+    - [s. 51 Penalty on letting houses in which infected persons have been lodging.](section/51.md)
+    - [s. 52 Penalty on persons letting houses making false statements as to infectious disease.](section/52.md)
+    - [s. 53 Penalty on ceasing to occupy house without disinfection or notice to owner, or on making false answer.](section/53.md)
+    - [s. 54 Removal to hospital of infected persons without proper lodging.](section/54.md)
+    - [s. 55 Detention of infected persons without proper lodging in hospital.](section/55.md)
+    - [s. 56 Penalty on exposure of infected persons and things.](section/56.md)
+    - [s. 57 Penalty on sending child to school, so as to spread infection.](section/57.md)
+    - [s. 58 Prohibitions on infected person carrying on business](section/58.md)
+    - [s. 59 Prohibition on conveyance, &c. of infected person in public conveyance.](section/59.md)
+    - [s. 6061. ................................](section/6061.md)
+    - [s. 62 Prohibition of retention of dead body in certain cases.](section/62.md)
+    - [s. 63 Body of person dying of infectious disease in hospital, &c. to be removed only for burial.](section/63.md)
+    - [s. 64 Disinfection of public conveyances if used for carrying corpses.](section/64.md)
+    - [s. 65 Byelaws as to public conveyances.](section/65.md)
+  - Hospitals and Ambulances
+    - [s. 66 Power of local authority to provide hospitals.](section/66.md)
+    - [s. 67 ................................](section/67.md)
+  - Mortuaries, &c.
+    - [s. 68 Power of local authority to provide mortuaries.](section/68.md)
+    - [s. 69 Power of sheriff, &c. in certain cases to order removal of dead body to mortuary.](section/69.md)
+    - [s. 70 Power of local authority to provide places for post-mortem examinations.](section/70.md)
+    - [s. 71 Power to sanitary authorities to unite for providing mortuary.](section/71.md)
+  - Byelaws as to Houses let in Lodgings
+    - [s. 72 Power of local authority to make byelaws as to lodging-houses.](section/72.md)
+  - Tents and Vans
+    - [s. 73 Tents and vans used for human habitation.](section/73.md)
+  - Underground Dwellings
+    - [s. 74 Rules as to underground dwellings.](section/74.md)
+    - [s. 75 Penalty on letting underground dwellings.](section/75.md)
+    - [s. 76 Cases in which two convictions have occurred within three months.](section/76.md)
+    - [s. 77 ................................](section/77.md)
+- Part IV
+  - [s. 7888. ................................](section/7888.md)
+- Part V Regulation of Common Lodging-Houses
+  - [s. 89 Common lodging-houses to be registered.](section/89.md)
+  - [s. 90 No lodger to be received in common lodging-house till it has been inspected and registered.](section/90.md)
+  - [s. 91 Evidence of register.](section/91.md)
+  - [s. 92 Power to local authority to make byelaws.](section/92.md)
+  - [s. 93 Copy of bye-laws, to be furnished gratis to keepers.](section/93.md)
+  - [s. 94 Power to local authority to require additional supply of water.](section/94.md)
+  - [s. 95 Power to local authority to order reports from keepers.](section/95.md)
+  - [s. 96 Local authority may remove sick persons to hospitals, &c.](section/96.md)
+  - [s. 97 As to giving notice of fever, &c. occurring.](section/97.md)
+  - [s. 98 Inspection.](section/98.md)
+  - [s. 99 Cleansing.](section/99.md)
+  - [s. 100 Conviction for third offence, &c. to disqualify persons from keeping common lodging-houses.](section/100.md)
+- Part VI Sewers, Drains, and Water Supply
+  - Sewers and Drains
+    - [s. 101112. ................................](section/101112.md)
+    - [s. 113 ................................](section/113.md)
+    - [s. 114115. ................................](section/114115.md)
+    - [s. 116 Distilleries, &c. to deposit refuse.](section/116.md)
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 ................................](section/118.md)
+    - [s. 119120. ................................](section/119120.md)
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 ................................](section/122.md)
+    - [s. 123 Works of distribution of sewage to be deemed a land improvement.](section/123.md)
+    - [s. 124130. ................................](section/124130.md)
+    - [s. 131 ................................](section/131.md)
+    - [s. 132 ................................](section/132.md)
+- Part VII Rating and Borrowing Powers
+  - [s. 133134. ................................](section/133134.md)
+  - [s. 135136. ................................](section/135136.md)
+  - [s. 137 ................................](section/137.md)
+  - [s. 138 ................................](section/138.md)
+  - Borrowing Powers
+    - [s. 139 ................................](section/139.md)
+    - [s. 140 ................................](section/140.md)
+    - [s. 141 Power of borrowing for hospitals, &c.](section/141.md)
+    - [s. 142143. ................................](section/142143.md)
+- Part VIII Acquisition of Lands
+  - [s. 144 Power to acquire lands.](section/144.md)
+  - [s. 145 Regulations as to compulsory purchase of land, &c.](section/145.md)
+- Part IX Legal Proceedings
+  - Enforcement of and Procedure under Act
+    - [s. 146 Procedure if local authority neglect its duty under Act. Procedure under 18 & 19 Vict. c. 68.](section/146.md)
+    - [s. 147 ................................](section/147.md)
+    - [s. 148 Procurator fiscal may sue by directions of Board.](section/148.md)
+    - [s. 149 Procedure where nuisance beyond district.](section/149.md)
+    - [s. 150 Local authority may require payment of costs, &c from owner or occupier, and occupier paying to deduct from rent.](section/150.md)
+    - [s. 151 Penalty for wilful damage of works.](section/151.md)
+    - [s. 152 ................................](section/152.md)
+    - [s. 153 Recovery of penalties.](section/153.md)
+    - [s. 154 Form of applications to the sheriff, &c.](section/154.md)
+    - [s. 155 No written pleadings &c. allowed.](section/155.md)
+    - [s. 156 Appeal in certain cases.](section/156.md)
+    - [s. 156A Appeal to sheriff or sheriff principal in certain cases: sections 54, 55 and 96](section/156A.md)
+    - [s. 156B Further appeal to sheriff principal: section 96 decision](section/156B.md)
+    - [s. 156C Further appeal to Court of Session: sections 54, 55 and 96](section/156C.md)
+    - [s. 156D Effect of appeal in relation to section 54 order, section 55 direction or section 96 decision](section/156D.md)
+    - [s. 157 No appeal otherwise.](section/157.md)
+    - [s. 158 Justices, &c. being members of local authority may act.](section/158.md)
+    - [s. 159160. ................................](section/159160.md)
+    - [s. 161 One or more joint owners may be proceeded against alone.](section/161.md)
+    - [s. 162 Penalty on occupier obstructing owner.](section/162.md)
+    - [s. 163 Penalty for violating Act or obstructing its execution.](section/163.md)
+    - [s. 164 Compensation to be made.](section/164.md)
+    - [s. 165 Convictions not void for want of form.](section/165.md)
+    - [s. 166 Local authority or Board not liable for irregularity of their officers.](section/166.md)
+    - [s. 167 ................................](section/167.md)
+    - [s. 168 Exemption from stamp duties.](section/168.md)
+    - [s. 169 Police constables to aid in executing Act.](section/169.md)
+    - [s. 170 Act not to impair right of action, &c.](section/170.md)
+    - [s. 171 Powers of Act cumulative.](section/171.md)
+- Part X Port Sanitary Authority
+  - [s. 172 Constitution of port local authorities.](section/172.md)
+  - [s. 173 Jurisdiction of port local authority.](section/173.md)
+  - [s. 174 Delegation of powers by port local authority.](section/174.md)
+  - [s. 175 Expenses of port local authority.](section/175.md)
+  - [s. 176 Proceedings for raising a sum for payment of debt within district of a defaulting authority.](section/176.md)
+- Part XI Miscellaneous
+  - Provisions as to Ships
+    - [s. 177 Provision as to ships within the jurisdiction of local authority.](section/177.md)
+    - [s. 178 Provision as to district of local authority extending to places where ships are lying.](section/178.md)
+    - [s. 179180. ................................](section/179180.md)
+    - [s. 181182. ................................](section/181182.md)
+    - [s. 183188. ................................](section/183188.md)
+- Part XII Saving Clauses and Repeals
+  - Saving Clauses
+    - [s. 189 Act not to affect navigation of rivers or canals, or irrigation of lands.](section/189.md)
+    - [s. 190 Saving of certain Acts.](section/190.md)
+    - [s. 191192. ................................](section/191192.md)
+    - [s. 193 Reference to Public Health Acts.](section/193.md)
+    - [s. 194 Exemption of Government property from building regulations.](section/194.md)
+    - [s. 195 ................................](section/195.md)
+  - Repeal of Acts
+    - [s. 196 Repeal of Acts.](section/196.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
