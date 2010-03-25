@@ -2,11 +2,9 @@
 
 2010 c. 10. Enacted 2010-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/10
-
-Source: https://www.legislation.gov.uk/ukpga/2010/10/2024-01-04
+Source: https://www.legislation.gov.uk/ukpga/2010/10/enacted
 
 ## Contents
 
@@ -18,7 +16,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/10/2024-01-04
   - [s. 4 Individuals](section/4.md)
   - [s. 5 Individuals who die insolvent](section/5.md)
   - [s. 6 Corporate bodies etc](section/6.md)
-  - [s. 6A Corporate bodies etc that are dissolved](section/6A.md)
   - [s. 7 Scottish trusts](section/7.md)
 - Transferred rights: supplemental
   - [s. 8 Limit on rights transferred](section/8.md)
@@ -37,54 +34,27 @@ Source: https://www.legislation.gov.uk/ukpga/2010/10/2024-01-04
   - [s. 17 Avoidance](section/17.md)
   - [s. 18 Cases with a foreign element](section/18.md)
 - Supplemental
-  - [s. 19 Power to change the meaning of “relevant person”](section/19.md)
-  - [s. 19A Interpretation](section/19A.md)
+  - [s. 19 Power to amend Act](section/19.md)
   - [s. 20 Amendments, transitionals, repeals, etc](section/20.md)
   - [s. 21 Short title, commencement and extent](section/21.md)
-- SCHEDULE A1 Administration under relevant sectoral legislation
-  - List of Enactments
-    - Aviation
-    - Energy
-    - Financial Services
-    - Postal Services
-    - Railways
-    - Water and sewerage
 - SCHEDULE 1 Information and disclosure for third parties
-  - Notices requesting information
-    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-  - Provision of information where notice given under paragraph 1
-    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
-  - Notices requiring disclosure: bodies that have been dissolved
-    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
-  - Disclosure and inspection where notice given under paragraph 3
-    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
-  - Avoidance
-    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
-  - Other rights to information etc
-    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
-  - Interpretation
-    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 1 Notices requesting information](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Provision of information where notice given under paragraph 1](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Notices requiring disclosure: defunct bodies](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Disclosure and inspection where notice given under paragraph 3](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Avoidance](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Other rights to information etc](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Interpretation](schedule/1/paragraph/7.md)
 - SCHEDULE 2 Amendments
-  - Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))
-    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
-  - Road Traffic Act 1988 (c. 52)
-    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
-  - Merchant Shipping Act 1995 (c. 21)
-    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
-  - Cross-Border Insolvency Regulations 2006 (S.I. 2006/1030)
-    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
-  - Cross-Border Insolvency Regulations (Northern Ireland) 2007 (S.R. 2007/115)
-    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 1 Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Road Traffic Act 1988 (c. 52)](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Merchant Shipping Act 1995 (c. 21)](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Cross-Border Insolvency Regulations 2006 (S.I. 2006/1030)](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Cross-Border Insolvency Regulations (Northern Ireland) 2007 (S.R. 2007/115)](schedule/2/paragraph/5.md)
 - SCHEDULE 3 Transitory, transitional and saving provisions
-  - Application of this Act
-    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-  - Relevant persons
-    - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
-  - Bankruptcy and Diligence etc (Scotland) Act 2007
-    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
-  - Application of 1930 Acts
-    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
-    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
-  - Interpretation
-    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
 - SCHEDULE 4 Repeals and revocations
