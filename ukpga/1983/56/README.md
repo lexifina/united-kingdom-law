@@ -1,0 +1,128 @@
+# Oil Taxation Act 1983
+
+1983 c. 56. Enacted 1983-12-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1983/56/2010-04-01
+
+## Contents
+
+- Reliefs for expenditure
+  - [s. 1 Expenditure incurred on non-dedicated mobile assets.](section/1.md)
+  - [s. 2 Dedicated mobile assets.](section/2.md)
+  - [s. 3 Expenditure incurred on long-term assets other than non-dedicated mobile assets.](section/3.md)
+  - [s. 3A Exclusion from section 3(4) of expenditure on assets giving rise to tax-exempt tariffing receipts](section/3A.md)
+  - [s. 4 Expenditure related to exempt gas and deballasting.](section/4.md)
+  - [s. 5 Miscellaneous amendments relating to reliefs.](section/5.md)
+- Charge of receipts
+  - [s. 6 Chargeable tariff receipts.](section/6.md)
+  - [s. 6A Tax-exempt tariffing receipts](section/6A.md)
+  - [s. 6B The condition for being a qualifying existing field](section/6B.md)
+  - [s. 7 Chargeable receipts from disposals.](section/7.md)
+  - [s. 7A Reduction of disposal receipts: use giving rise to tax-exempt tariffing receipts](section/7A.md)
+  - [s. 8 Qualifying assets.](section/8.md)
+  - [s. 9 Tariff receipts allowance.](section/9.md)
+  - [s. 10 Returns relating to tariff and disposal receipts.](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 Charge of receipts attributable to U.K. use of foreign field asset.](section/12.md)
+- Supplementary
+  - [s. 13 Transitional provisions.](section/13.md)
+  - [s. 14 Re-opening of decisions for periods before the passing of this Act.](section/14.md)
+  - [s. 15 Short title, interpretation, construction and repeals.](section/15.md)
+- SCHEDULE 1 Allowable Expenditure
+  - Part I Extensions of Allowable Expenditure for Assets Generating Receipts
+    - Associated assets
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Restriction of relief for remote associated assets
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Assets no longer in use for the principal field
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part II Special Rules as to Expenditure Allowable in Respect of Fixed Assets and Dedicated Mobile Assets
+    - Interpretation
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Assets acquired etc. for two or more fields
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Brought-in assets
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Subsequent use of new asset otherwise than in connection with a taxable field
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Mobile assets becoming dedicated assets
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Supplemental Provisions as to Receipts from Qualifying Assets
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Consideration received by connected persons under avoidance schemes
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Apportionment of consideration in respect of use or disposal
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Cases where all the oil is disregarded under section 10 of the principal Act
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Acquisition otherwise than at arm’s length: limit on tariff and disposal receipts
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Transfer of interests in fields
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Insurance and compensation payments
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Dedicated mobile assets ceasing to be used in connection with participator’s oil field
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Disposal receipts in respect of brought-in assets
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Disposal receipts: assets used for deballasting
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Use by connected or associated person: avoidance devices
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Purchase at place of extraction
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Tariff Receipts Allowance
+  - The participator’s share
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Qualifying tariff receipts referable to different periods
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Receipts Attributable to United Kingdom Use of Foreign Field Assets
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Chargeable receipts
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The charge to tax
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Expenditure relief
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Claims for expenditure relief
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - The responsible person
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Management and collection
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Payment on account
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Income and corporation taxes
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Transitional Provisions
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Review for transitional claim period
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - No further reviews after the transitional claim period
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Assets giving rise to tariff receipts
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Re-opening past claim periods and chargeable periods
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Expenditure on associated assets
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Other claims for past expenditure
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Repeals
