@@ -2,9 +2,9 @@
 
 2010 c. 26. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/26/2016-04-06
+Source: https://www.legislation.gov.uk/ukpga/2010/26/2010-04-08
 
 ## Contents
 
