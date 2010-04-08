@@ -2,11 +2,9 @@
 
 2010 c. 17. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
-
-Source: https://www.legislation.gov.uk/ukpga/2010/17/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2010/17/2010-04-08
 
 ## Contents
 
