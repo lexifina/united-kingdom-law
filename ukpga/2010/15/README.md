@@ -2,11 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
-
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-04-08
 
 ## Contents
 
@@ -34,7 +32,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [s. 17 Pregnancy and maternity discrimination: non-work cases](section/17.md)
       - [s. 18 Pregnancy and maternity discrimination: work cases](section/18.md)
       - [s. 19 Indirect discrimination](section/19.md)
-      - [s. 19A Indirect discrimination: same disadvantage](section/19A.md)
     - Adjustments for disabled persons
       - [s. 20 Duty to make adjustments](section/20.md)
       - [s. 21 Failure to comply with duty](section/21.md)
@@ -71,7 +68,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - Employees
       - [s. 39 Employees and applicants](section/39.md)
       - [s. 40 Employees and applicants: harassment](section/40.md)
-      - [s. 40A Employer duty to prevent sexual harassment of employees](section/40A.md)
       - [s. 41 Contract workers](section/41.md)
     - Police officers
       - [s. 42 Identity of employer](section/42.md)
@@ -99,9 +95,8 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - Local authority members
       - [s. 58 Official business of members](section/58.md)
       - [s. 59 Interpretation](section/59.md)
-    - Recruitment etc
+    - Recruitment
       - [s. 60 Enquiries about disability and health](section/60.md)
-      - [s. 60A Discriminatory statements](section/60A.md)
   - Chapter 2 Occupational pension schemes
     - [s. 61 Non-discrimination rule](section/61.md)
     - [s. 62 Non-discrimination alterations](section/62.md)
@@ -125,8 +120,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - Disclosure of information
       - [s. 77 Discussions about pay](section/77.md)
       - [s. 78 Gender pay gap information](section/78.md)
-    - Equality action plans
-      - [s. 78A Equality action plans](section/78A.md)
     - Supplementary
       - [s. 79 Comparators](section/79.md)
       - [s. 80 Interpretation and exceptions](section/80.md)
@@ -139,7 +132,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [s. 84 Application of this Chapter](section/84.md)
     - [s. 85 Pupils: admission and treatment, etc.](section/85.md)
     - [s. 86 Victimisation of pupils, etc. for conduct of parents, etc.](section/86.md)
-    - [s. 87 Application of enforcement powers under education legislation](section/87.md)
+    - [s. 87 Application of certain powers under Education Act 1996](section/87.md)
     - [s. 88 Disabled pupils: accessibility](section/88.md)
     - [s. 89 Interpretation and exceptions](section/89.md)
   - Chapter 2 Further and higher education
@@ -190,7 +183,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [s. 122 References by court to tribunal, etc.](section/122.md)
     - [s. 123 Time limits](section/123.md)
     - [s. 124 Remedies: general](section/124.md)
-    - [s. 124A Remedies: compensation uplift in sexual harassment cases](section/124A.md)
     - [s. 125 Remedies: national security](section/125.md)
     - [s. 126 Remedies: occupational pension schemes](section/126.md)
   - Chapter 4 Equality of terms
@@ -208,11 +200,8 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [s. 137 Previous findings](section/137.md)
     - [s. 138 Obtaining information, etc.](section/138.md)
     - [s. 139 Interest](section/139.md)
-    - [s. 139A Equal pay audits](section/139A.md)
     - [s. 140 Conduct giving rise to separate proceedings](section/140.md)
     - [s. 140A Extension of time limits because of mediation in certain cross-border disputes](section/140A.md)
-    - [s. 140AA Extension of time limits because of alternative dispute resolution in certain consumer contract disputes](section/140AA.md)
-    - [s. 140B Extension of time limits to facilitate conciliation before institution of proceedings](section/140B.md)
     - [s. 141 Interpretation, etc.](section/141.md)
 - Part 10 Contracts, etc.
   - Contracts and other agreements
@@ -223,14 +212,14 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [s. 145 Void and unenforceable terms](section/145.md)
     - [s. 146 Declaration in respect of void term, etc.](section/146.md)
   - Supplementary
-    - [s. 147 Meaning of “qualifying settlement agreement”](section/147.md)
+    - [s. 147 Meaning of “qualifying compromise contract”](section/147.md)
     - [s. 148 Interpretation](section/148.md)
 - Part 11 Advancement of equality
   - Chapter 1 Public sector equality duty
     - [s. 149 Public sector equality duty](section/149.md)
     - [s. 150 Public authorities and public functions](section/150.md)
     - [s. 151 Power to specify public authorities](section/151.md)
-    - [s. 152 Power to specify public authorities: consultation ...](section/152.md)
+    - [s. 152 Power to specify public authorities: consultation and consent](section/152.md)
     - [s. 153 Power to impose specific duties](section/153.md)
     - [s. 154 Power to impose specific duties: cross-border authorities](section/154.md)
     - [s. 155 Power to impose specific duties: supplementary](section/155.md)
@@ -246,12 +235,9 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [s. 162 Designated transport facilities](section/162.md)
     - [s. 163 Taxi licence conditional on compliance with taxi accessibility regulations](section/163.md)
     - [s. 164 Exemption from taxi accessibility regulations](section/164.md)
-    - [s. 164A Disabled passengers: duties of drivers](section/164A.md)
-    - [s. 165 Disabled passengers in wheelchairs: duties of drivers of designated vehicles](section/165.md)
-    - [s. 165A Disabled passengers: assistance to identify and find vehicle](section/165A.md)
-    - [s. 166 Disabled passengers: exemption certificates](section/166.md)
+    - [s. 165 Passengers in wheelchairs](section/165.md)
+    - [s. 166 Passengers in wheelchairs: exemption certificates](section/166.md)
     - [s. 167 Lists of wheelchair-accessible vehicles](section/167.md)
-    - [s. 167A Disabled passengers: duties of operators of private hire vehicles](section/167A.md)
     - [s. 168 Assistance dogs in taxis](section/168.md)
     - [s. 169 Assistance dogs in taxis: exemption certificates](section/169.md)
     - [s. 170 Assistance dogs in private hire vehicles](section/170.md)
@@ -267,11 +253,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [s. 179 Reviews and appeals](section/179.md)
     - [s. 180 Fees](section/180.md)
     - [s. 181 Interpretation](section/181.md)
-  - CHAPTER 2A Bus services
-    - [s. 181A Information for bus passengers](section/181A.md)
-    - [s. 181B Exemptions etc](section/181B.md)
-    - [s. 181C Guidance](section/181C.md)
-    - [s. 181D Interpretation](section/181D.md)
   - Chapter 3 Rail vehicles
     - [s. 182 Rail vehicle accessibility regulations](section/182.md)
     - [s. 183 Exemptions from rail vehicle accessibility regulations](section/183.md)
@@ -334,8 +315,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
     - Effect of medical treatment
       - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
-    - Normal day-to-day activities
-      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
     - Certain medical conditions
       - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
     - Deemed disability
@@ -406,7 +385,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
     - Interpretation
       - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
-  - Part 5 Insurance and other financial services
+  - Part 5 Insurance, etc.
     - Services arranged by employer
       - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
     - Age
@@ -417,19 +396,12 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
     - Existing insurance policies
       - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
-  - Part 6 Marriage: gender reassignment
+  - Part 6 Marriage
     - Gender reassignment: England and Wales
       - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
-  - PART 6ZA MARRIAGE AND CIVIL PARTNERSHIP: SCOTLAND
     - Gender reassignment: Scotland
       - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
-  - PART 6A Marriage of same sex couples and Civil Partnership in England and Wales
-    - [Sch. 3 para. 25A Marriage according to religious rites: no compulsion to solemnize etc](schedule/3/paragraph/25A.md)
-    - [Sch. 3 para. 25AA No compulsion for religious organisations or persons acting on their behalf to act in relation to civil partnerships](schedule/3/paragraph/25AA.md)
-  - PART 6B CIVIL PARTNERSHIP, MARRIAGE OF SAME SEX COUPLES AND MARRIAGE OF CIVIL PARTNERS: SCOTLAND
-    - [Sch. 3 para. 25B Marriage and civil partnership: Scotland](schedule/3/paragraph/25B.md)
-    - [Sch. 3 para. 25C Marriage of same sex couples: Scottish forces marriages](schedule/3/paragraph/25C.md)
-  - Part 7 Separate, single and concessionary services, etc
+  - Part 7 Separate and single services
     - Separate services for the sexes
       - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
     - Single-sex services
@@ -455,7 +427,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
     - Transport by air
       - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
-    - Transport by land: road
+    - Transport by land
       - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
     - Transport by land: rail
       - [Sch. 3 para. 34A](schedule/3/paragraph/34A.md)
@@ -496,8 +468,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
   - Honours etc.
     - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
-  - Bishops
-    - [Sch. 6 para. 3n1](schedule/6/paragraph/3n1.md)
 - SCHEDULE 7 Equality of terms: exceptions
   - Part 1 Terms of work
     - Compliance with laws regulating employment of women, etc.
@@ -582,7 +552,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
     - Redundancy
       - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
-    - Insurance etc.
+    - Life assurance
       - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
     - Child care
       - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
@@ -684,7 +654,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
   - Part 2 Tribunals in England and Wales
     - Introductory
       - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
-    - Jurisdiction — England ...
+    - Jurisdiction
       - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
     - Jurisdiction — Wales
       - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
@@ -694,8 +664,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
     - Procedure
       - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
-    - Appeals from the Welsh Tribunal
-      - [Sch. 17 para. 6AA](schedule/17/paragraph/6AA.md)
     - Case friends — Wales
       - [Sch. 17 para. 6A](schedule/17/paragraph/6A.md)
     - Advice and information — Wales
@@ -706,8 +674,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
       - [Sch. 17 para. 6D](schedule/17/paragraph/6D.md)
     - Power of direction — Wales
       - [Sch. 17 para. 6E](schedule/17/paragraph/6E.md)
-    - Capacity of parents and persons over compulsory school age - Wales
-      - [Sch. 17 para. 6F](schedule/17/paragraph/6F.md)
   - Part 3 Tribunals in Scotland
     - Introductory
       - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
@@ -724,7 +690,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
   - Part 4 Admissions and exclusions
     - Admissions
       - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
-    - Exclusions: Wales
+    - Exclusions
       - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
 - SCHEDULE 18 Public sector equality duty: exceptions
   - Children
@@ -740,22 +706,19 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
 - SCHEDULE 19 Public authorities
   - Part 1 Public authorities: general
     - Ministers of the Crown and government departments
-    - Advocates for victims of major incidents
     - Armed forces
     - Broadcasting
-    - Citizens’ rights
     - Civil liberties
     - Court services and legal services
     - Criminal justice
     - Environment, housing and development
-    - Health, social care and social security
+    - National Health Service
     - Industry, business, finance etc.
     - Local government
     - Other educational bodies
     - Parliamentary and devolved bodies
     - Police
     - Regulators
-    - Transport
   - Part 2 Public authorities: relevant Welsh authorities
     - Welsh Assembly Government, etc.
     - National Health Service
@@ -767,19 +730,42 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - National Health Service
     - Local government
     - Other educational bodies
-    - Police and Fire
+    - Police
     - Other bodies and offices added on 6th April 2011
     - Other bodies and offices added on 5th March 2012
-    - Other bodies added on 1st April 2015
-    - Other body added on 28th June 2018
-    - Other body added on 26th November 2020
-    - Other office added on 1st December 2020
-    - Other body added on 23rd December 2021
-    - Other bodies and offices added on 1st July 2024
-    - Other body added on 1st December 2025
   - PART 4 PUBLIC AUTHORITIES: CROSS-BORDER AUTHORITIES
     - Cross-border Welsh authorities
-- SCHEDULE 20
+- SCHEDULE 20 Rail vehicle accessibility: compliance
+  - Rail vehicle accessibility compliance certificates
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Regulations as to compliance certificates
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Regulations as to compliance assessments
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Fees in respect of compliance certificates
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Penalty for using rail vehicle that does not conform with accessibility regulations
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Penalty for using rail vehicle otherwise than in conformity with accessibility regulations
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Inspection of rail vehicles
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Supplementary powers
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Penalties: amount, due date and recovery
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - Penalties: code of practice
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+  - Penalties: procedure
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+  - Penalties: appeals
+    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+  - Forgery, etc.
+    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+  - Regulations
+    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+  - Interpretation
+    - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
 - SCHEDULE 21 Reasonable adjustments: supplementary
   - Preliminary
     - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
@@ -812,7 +798,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2026-10-05
     - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
   - Communal accommodation
     - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
-  - Training provided to non-... residents, etc.
+  - Training provided to non-EEA residents, etc.
     - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
 - SCHEDULE 24 Harmonisation: exceptions
 - SCHEDULE 25 Information society services
