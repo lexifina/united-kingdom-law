@@ -2,9 +2,9 @@
 
 2010 c. 27. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/27/2024-10-01
+Source: https://www.legislation.gov.uk/ukpga/2010/27/2010-04-08
 
 ## Contents
 
@@ -28,7 +28,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/27/2024-10-01
   - [s. 12 Reconciliation mechanism: licence modifications](section/12.md)
   - [s. 13 Duty of Authority to keep schemes under review](section/13.md)
   - [s. 14 Regulations under Part 2: procedure etc](section/14.md)
-  - [s. 14A Power of the Scottish Ministers to make schemes under Part 2](section/14A.md)
   - [s. 15 Schemes for reducing fuel poverty: interpretation](section/15.md)
 - Part 3 Regulation of gas and electricity markets
   - General duties of the Gas and Electricity Markets Authority and the Secretary of State
