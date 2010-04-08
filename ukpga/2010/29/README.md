@@ -2,11 +2,9 @@
 
 2010 c. 29. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-12-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
-
-Source: https://www.legislation.gov.uk/ukpga/2010/29/2025-12-15
+Source: https://www.legislation.gov.uk/ukpga/2010/29/2010-04-08
 
 ## Contents
 
@@ -31,21 +29,16 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2025-12-15
     - [s. 16 Funding](section/16.md)
     - [s. 17 Levies](section/17.md)
   - 3. Supplemental powers and duties
-    - [s. 18 Reports about flood and coastal erosion risk management](section/18.md)
+    - [s. 18 Environment Agency: reports](section/18.md)
     - [s. 19 Local authorities: investigations](section/19.md)
     - [s. 20 Ministerial directions](section/20.md)
     - [s. 21 Lead local authorities: duty to maintain a register](section/21.md)
-  - 4. Regional Flood and Coastal Committees for regions in England
+  - 4. Regional Flood and Coastal Committees
     - [s. 22 Establishment](section/22.md)
     - [s. 23 Consultation and consent](section/23.md)
     - [s. 24 Membership](section/24.md)
     - [s. 25 Money](section/25.md)
     - [s. 26 “The Minister”](section/26.md)
-    - [s. 26A “The appropriate agency”](section/26A.md)
-  - 4A. Flood and Coastal Erosion Committee for Wales
-    - [s. 26B Establishment and functions](section/26B.md)
-    - [s. 26C Constitution](section/26C.md)
-    - [s. 26D Payments relating to members](section/26D.md)
   - 5. General
     - [s. 27 Sustainable development](section/27.md)
     - [s. 28 Power to make further amendments](section/28.md)
@@ -59,7 +52,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2025-12-15
   - [s. 35 Provision of infrastructure](section/35.md)
   - [s. 36 Water use: temporary bans](section/36.md)
   - [s. 37 Civil sanctions](section/37.md)
-  - [s. 38 Incidental flooding or coastal erosion: appropriate agency](section/38.md)
+  - [s. 38 Incidental flooding or coastal erosion: Environment Agency](section/38.md)
   - [s. 39 Incidental flooding or coastal erosion: local authorities](section/39.md)
   - [s. 40 Building regulations: flood resistance](section/40.md)
   - [s. 41 Compulsory works orders](section/41.md)
@@ -166,7 +159,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2025-12-15
     - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
     - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
     - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
-  - ...
+  - Local Government Act 2000
     - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
 - SCHEDULE 3 Sustainable Drainage
   - “Drainage system”
