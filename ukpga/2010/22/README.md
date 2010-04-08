@@ -2,9 +2,9 @@
 
 2010 c. 22. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/22/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2010/22/enacted
 
 ## Contents
 
@@ -17,7 +17,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/22/2020-12-31
   - [s. 5 Judgments for qualifying debts etc](section/5.md)
 - Supplementary and general
   - [s. 6 Exception where debtor fails to make offer to pay recoverable amount](section/6.md)
-  - [s. 7 Exception for overriding ... international obligations](section/7.md)
+  - [s. 7 Exception for overriding EU or international obligations](section/7.md)
   - [s. 8 Saving](section/8.md)
   - [s. 9 Duration of Act](section/9.md)
   - [s. 10 Commencement, extent and short title](section/10.md)
