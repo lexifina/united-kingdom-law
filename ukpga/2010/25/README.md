@@ -2,9 +2,9 @@
 
 2010 c. 25. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/25/2026-04-29
+Source: https://www.legislation.gov.uk/ukpga/2010/25/2010-04-08
 
 ## Contents
 
@@ -293,8 +293,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/25/2026-04-29
       - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
     - Repayments
       - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
-    - Pension age
-      - [Sch. 6 para. 29A](schedule/6/paragraph/29A.md)
     - Assignment etc
       - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
     - Functions
