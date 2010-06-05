@@ -1,0 +1,110 @@
+# Patents Act 1949
+
+1949 c. 87. Enacted 1949-12-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2010-06-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/87/2010-06-05
+
+## Contents
+
+- Application, investigation, opposition, etc.
+  - [s. 1 Persons entitled to make application.](section/1.md)
+  - [s. 2 Application.](section/2.md)
+  - [s. 3 Complete and provisional specifications.](section/3.md)
+  - [s. 4 Contents of specification.](section/4.md)
+  - [s. 5 Priority date of claims of complete specification.](section/5.md)
+  - [s. 6 Examination of application.](section/6.md)
+  - [s. 7 Search for anticipation by previous publication.](section/7.md)
+  - [s. 8 Search for anticipation by prior claim.](section/8.md)
+  - [s. 9 Reference in case of potential infringement.](section/9.md)
+  - [s. 10 Refusal of application in certain cases.](section/10.md)
+  - [s. 11 Supplementary provisions as to searches, etc.](section/11.md)
+  - [s. 12 Time for putting application in order for acceptance.](section/12.md)
+  - [s. 13 Acceptance and publication of complete specification.](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 Refusal of patent without opposition.](section/15.md)
+  - [s. 16 Mention of inventor as such in patent.](section/16.md)
+  - [s. 17 Substitution of applicants, etc.](section/17.md)
+  - [s. 18 ................................](section/18.md)
+- Grant, effect and term of patent
+  - [s. 19 Grant and sealing of patent.](section/19.md)
+  - [s. 20 Amendment of patent granted to deceased applicant.](section/20.md)
+  - [s. 21 Extent, effect and form of patent.](section/21.md)
+  - [s. 22 Date and term of patent.](section/22.md)
+  - [s. 23 Extension on ground of inadequate remuneration.](section/23.md)
+  - [s. 24 Extension on ground of war loss.](section/24.md)
+  - [s. 25 Extension on ground of war loss of licensee.](section/25.md)
+  - [s. 26 Patents of addition.](section/26.md)
+- Restoration of lapsed patents and patent applications
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 Restoration of lapsed applications for patents.](section/28.md)
+- Amendment of specifications
+  - [s. 29 Amendment of specification with leave of comptroller.](section/29.md)
+  - [s. 30 Amendment of specification with leave of the court.](section/30.md)
+  - [s. 31 Supplementary provisions as to amendment of specification.](section/31.md)
+- Revocation and surrender of patents
+  - [s. 32 Revocation of patent by court.](section/32.md)
+  - [s. 33 Revocation of patent by comptroller.](section/33.md)
+  - [s. 34 ................................](section/34.md)
+- Voluntary endorsement of patent
+  - [s. 3541. ................................](section/3541.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 4345. ................................](section/4345.md)
+- Use of patented inventions for services of the Crown
+  - [s. 46 Use of patented inventions for services of the Crown.](section/46.md)
+  - [s. 47 Rights of third parties in respect of Crown use.](section/47.md)
+  - [s. 48 Reference of disputes as to Crown use.](section/48.md)
+  - [s. 49 Special provisions as to Crown use during emergency.](section/49.md)
+- Anticipation, etc.
+  - [s. 50 Previous publication.](section/50.md)
+  - [s. 51 Previous communication, display or working.](section/51.md)
+  - [s. 52 Use and publication after provisional specification or foreign application.](section/52.md)
+  - [s. 53 Priority date in case of obtaining.](section/53.md)
+- Miscellaneous provisions as to rights in inventions
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 Power of comptroller to give directions to co-owners.](section/55.md)
+  - [s. 56 Disputes as to inventions made by employees.](section/56.md)
+  - [s. 5758. ................................](section/5758.md)
+- Proceedings for infringement, etc.
+  - [s. 59 Restrictions on recovery of damages for infringement.](section/59.md)
+  - [s. 60 Order for account in action for infringement.](section/60.md)
+  - [s. 61 Counterclaim for revocation in action for infringement.](section/61.md)
+  - [s. 62 Relief for infringement of partially valid specification.](section/62.md)
+  - [s. 63 Proceedings for infringement by exclusive licensee.](section/63.md)
+  - [s. 64 Certificate of contested validity of specification.](section/64.md)
+  - [s. 65 Remedy for groundless threats of infringement proceedings.](section/65.md)
+  - [s. 66 Power of court to make declaration as to non-infringement.](section/66.md)
+  - [s. 67 Reference to comptroller of disputes as to infringement.](section/67.md)
+- International Agreements, etc.
+  - [s. 68 ................................](section/68.md)
+  - [s. 69 Supplementary provisions as to convention applications.](section/69.md)
+  - [s. 70 ................................](section/70.md)
+  - [s. 7172. ................................](section/7172.md)
+- Register of patents, etc.
+  - [s. 7375. ................................](section/7375.md)
+  - [s. 76 Power to correct clerical errors, etc.](section/76.md)
+  - [s. 7779. ................................](section/7779.md)
+  - [s. 80 Loss or destruction of patent.](section/80.md)
+  - [s. 8183. ................................](section/8183.md)
+- The Court and the Appeal Tribunal
+  - [s. 8486. ................................](section/8486.md)
+  - [s. 87 Appeals to Court of Appeal and Court of Session.](section/87.md)
+  - [s. 8889. ................................](section/8889.md)
+- Offences
+  - [s. 9091. ................................](section/9091.md)
+  - [s. 92 Unauthorised assumption of Royal Arms.](section/92.md)
+  - [s. 93 ................................](section/93.md)
+- Rules, etc.
+  - [s. 9495. ................................](section/9495.md)
+  - [s. 96 Proceedings of Board of Trade.](section/96.md)
+- Supplemental
+  - [s. 97100. ................................](section/97100.md)
+  - [s. 101 Interpretation.](section/101.md)
+  - [s. 102 Saving for Royal prerogative, etc.](section/102.md)
+  - [s. 103 Application to Scotland.](section/103.md)
+  - [s. 104 Application to Northern Ireland.](section/104.md)
+  - [s. 105 Isle of Man.](section/105.md)
+  - [s. 106 Repeals, transitional provisions and amendment.](section/106.md)
+  - [s. 107 Short title and commencement.](section/107.md)
+- FIRST SCHEDULE
