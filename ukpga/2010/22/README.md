@@ -2,9 +2,9 @@
 
 2010 c. 22. Enacted 2010-04-08.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2010-06-08, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/22/enacted
+Source: https://www.legislation.gov.uk/ukpga/2010/22/2010-06-08
 
 ## Contents
 
