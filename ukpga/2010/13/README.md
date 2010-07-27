@@ -2,9 +2,9 @@
 
 2010 c. 13. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2010-04-08, one file per provision. Earlier versions, from 2010-04-06, are in the history before it: `git log -- ukpga/2010/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2010-07-27, one file per provision. Earlier versions, from 2010-04-06, are in the history before it: `git log -- ukpga/2010/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/13/2010-04-08
+Source: https://www.legislation.gov.uk/ukpga/2010/13/2010-07-27
 
 ## Contents
 
