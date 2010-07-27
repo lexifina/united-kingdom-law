@@ -2,48 +2,27 @@
 
 2010 c. 32. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2010-07-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/32
-
-Source: https://www.legislation.gov.uk/ukpga/2010/32/2026-09-01
+Source: https://www.legislation.gov.uk/ukpga/2010/32/2010-07-27
 
 ## Contents
 
 - Academy arrangements
   - [s. 1 Academy arrangements](section/1.md)
-  - [s. 1A Academy schools](section/1A.md)
-  - [s. 1B 16 to 19 Academies](section/1B.md)
-  - [s. 1C Alternative provision Academies](section/1C.md)
-  - [s. 1D Alternative provision Academies: powers to apply provisions with modifications](section/1D.md)
   - [s. 2 Payments under Academy agreements](section/2.md)
-- Provision to be included in Academy agreements
-  - [s. 2A Academy agreements: provision about failing schools](section/2A.md)
-  - [s. 2B Academy agreements: provision about coasting schools](section/2B.md)
-  - [s. 2C Sections 2A and 2B supplementary - new agreements](section/2C.md)
-  - [s. 2D Sections 2A and 2B: supplementary - old agreements](section/2D.md)
-  - [s. 2E Provision about staff member for looked after and previously looked after pupils](section/2E.md)
 - Conversion of schools into Academies
   - [s. 3 Application for Academy order](section/3.md)
   - [s. 4 Academy orders](section/4.md)
-  - [s. 5 Consultation about conversion: schools not eligible for intervention](section/5.md)
-  - [s. 5A Consultation about identity of Academy sponsor in certain cases](section/5A.md)
-  - [s. 5B Duty to facilitate conversion](section/5B.md)
-  - [s. 5C Power to give directions to do with conversion](section/5C.md)
-  - [s. 5D Power to revoke Academy orders under section 4(1)(b)](section/5D.md)
-  - [s. 5E Duty to communicate information about plans to improve school](section/5E.md)
+  - [s. 5 Consultation on conversion](section/5.md)
   - [s. 6 Effect of Academy order](section/6.md)
   - [s. 7 Transfer of school surpluses](section/7.md)
-  - [s. 8 Transfer schemes: other property, rights and liabilities](section/8.md)
-- 16 to 19 Academies designated as having a religious character
-  - [s. 8A Designation of 16 to 19 Academy as having a religious character](section/8A.md)
-  - [s. 8B Constitution of Academy proprietor, collective worship and religious education](section/8B.md)
+  - [s. 8 Transfer of other property](section/8.md)
 - Academies: other provisions
-  - [s. 9 Impact: new and expanded educational institutions](section/9.md)
-  - [s. 10 Consultation: new and expanded educational institutions](section/10.md)
-  - [s. 10A Charges at boarding Academies](section/10A.md)
+  - [s. 9 Impact: additional schools](section/9.md)
+  - [s. 10 Consultation: additional schools](section/10.md)
   - [s. 11 Annual reports](section/11.md)
-  - [s. 12 Charitable and trust corporation status of Academy proprietors etc](section/12.md)
+  - [s. 12 Charitable status of Academy proprietors etc](section/12.md)
   - [s. 13 Academies: land](section/13.md)
   - [s. 14 Academies: amendments](section/14.md)
 - General
@@ -53,53 +32,31 @@ Source: https://www.legislation.gov.uk/ukpga/2010/32/2026-09-01
   - [s. 18 Extent](section/18.md)
   - [s. 19 Commencement](section/19.md)
   - [s. 20 Short title](section/20.md)
-- SCHEDULE 1 ACADEMIES: LAND
-  - Part 1 Land held by a local authority
-    - Transfer scheme where land ceases to be used for purposes of a school or 16 to 19 Academy
-      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-    - Transfer scheme following proposals for establishment of new Academy
-      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
-    - Transfer schemes under paragraphs 1 and 2: general
-      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
-    - Restriction on disposal of land held by local authority for purposes of a school or 16 to 19 Academy
-      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
-      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
-    - Restriction on appropriation of land held by local authority for purposes of a school or 16 to 19 Academy
-      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
-      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
-    - Class consents
-      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
-    - Duty to inform Secretary of State on proposed change of use of land used for purposes of a school or 16 to 19 Academy
-      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
-  - Part 2 Land held by a governing body, a foundation body or trustees
-    - Power of Secretary of State to make direction where Academy order made
-      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
-    - Power of Secretary of State to make direction on discontinuance of foundation, voluntary or foundation special school
-      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
-    - Power of Secretary of State to make direction on proposed disposal of school land
-      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
-    - Transfer of land and other property on dissolution of governing body
-      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
-  - Part 3 Land held for the purposes of an Academy
-    - Notice in relation to certain land held for the purposes of an Academy
-      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
-    - Power of Secretary of State to make direction on educational institution ceasing to be an Academy
-      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
-    - Termination of occupation by Academy of land held by trustees: notice of termination and power of Secretary of State to make direction
-      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
-    - Power of Secretary of State to make direction on proposed disposal of Academy land
-      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
-  - Part 4 General
-    - Directions under this Schedule: general
-      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
-    - Disapplication of rule against perpetuities
-      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
-    - Disapplication of other Acts
-      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
-    - Regulations
-      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
-    - Interpretation
-      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 1 Academies: land
+  - Transfer scheme where land ceases to be used for maintained school
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Transfer scheme following proposals for establishment of new school
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Transfer schemes under paragraphs 1 and 2: general
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Transfer direction where Academy order made: land held by governing body, foundation body or trustees
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Transfer of land on dissolution of governing body
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Former Academies: transfer scheme for land acquired from local authority
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Former Academies: transfer directions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Transfer directions: general
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Disapplication of rule against perpetuities
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Disapplication of other Acts
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Regulations
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Interpretation
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
 - SCHEDULE 2 Academies: amendments
   - Education Act 1996 (c. 56)
     - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
