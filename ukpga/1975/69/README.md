@@ -1,0 +1,113 @@
+# Scottish Development Agency Act 1975
+
+1975 c. 69. Enacted 1975-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2010-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1975/69/2010-08-01
+
+## Contents
+
+- Establishment and functions of the Agency
+  - [s. 1 The Scottish Development Agency.](section/1.md)
+  - [s. 2 General purposes and functions.](section/2.md)
+  - [s. 3 Ancillary powers of Agency.](section/3.md)
+  - [s. 4 Power of Secretary of State to give Agency directions.](section/4.md)
+- Various powers of the Agency
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 Provision of sites and premises for industry.](section/6.md)
+  - [s. 7 Development and improvement of the environment.](section/7.md)
+  - [s. 8 Derelict land.](section/8.md)
+  - [s. 9 Acquisition and disposal of land.](section/9.md)
+  - [s. 10 Powers of entry.](section/10.md)
+  - [s. 11 Power to obtain information.](section/11.md)
+- Financial provisions
+  - [s. 12 Financial duties of the Agency.](section/12.md)
+  - [s. 13 Finances of the Agency.](section/13.md)
+  - [s. 14 Other limits on Agency’s powers.](section/14.md)
+- Miscellaneous
+  - [s. 15 Transfer of property, rights and liabilities of certain bodies to Agency.](section/15.md)
+  - [s. 16 Transfer of publicly owned property to Agency.](section/16.md)
+  - [s. 17 The Agency and the media.](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 Assistance from local authorities and development corporations in carrying out certain functions.](section/19.md)
+- Powers of the Secretary of State
+  - [s. 20 Scottish Industrial Development Advisory Board.](section/20.md)
+  - [s. 21 ................................](section/21.md)
+- General
+  - [s. 22 Service of documents.](section/22.md)
+  - [s. 23 Expenses.](section/23.md)
+  - [s. 24 Application of Act to Crown.](section/24.md)
+  - [s. 25 Interpretation.](section/25.md)
+  - [s. 26 Orders and regulations.](section/26.md)
+  - [s. 27 Consequential amendments and repeals.](section/27.md)
+  - [s. 28 Short title, commencement and extent.](section/28.md)
+- SCHEDULE 1 The Scottish Development Agency.
+  - Incorporation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Appointment and tenure of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Disqualification of members of the Agency for House of Commons
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Proceedings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Committees
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Instruments executed or issued by the Agency
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Stamp Duty
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Circulars
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Financial and Administrative Provisions Relating to the Agency
+  - Financing of the Agency by Government
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Borrowing Powers
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Government loans to the Agency
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Borrowing by wholly owned subsidiaries
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Guarantees
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - The Agency’s Capital Debt
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Accounts of the Agency, etc.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Annual report
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Members and Staff of the Corporation and the Council
+  - Transfer of Staff
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Compensation for members or staff of the Corporation or the Council
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Continuity of employment
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Minor and Consequential Amendments of Enactments
+  - The Countryside (Scotland) Act 1967
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Pensions Increase Act 1971
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 34.](schedule/4/paragraph/34.md)
+  - The Offshore Petroleum Development (Scotland) Act 1975
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Farriers (Registration) Act 1975
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Repeals
