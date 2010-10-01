@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2010-08-04, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2010-10-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-08-04
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-10-01
 
 ## Contents
 
@@ -132,7 +132,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-08-04
     - [s. 84 Application of this Chapter](section/84.md)
     - [s. 85 Pupils: admission and treatment, etc.](section/85.md)
     - [s. 86 Victimisation of pupils, etc. for conduct of parents, etc.](section/86.md)
-    - [s. 87 Application of certain powers under Education Act 1996](section/87.md)
+    - [s. 87 Application of enforcement powers under education legislation](section/87.md)
     - [s. 88 Disabled pupils: accessibility](section/88.md)
     - [s. 89 Interpretation and exceptions](section/89.md)
   - Chapter 2 Further and higher education
@@ -427,7 +427,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-08-04
       - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
     - Transport by air
       - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
-    - Transport by land
+    - Transport by land: road
       - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
     - Transport by land: rail
       - [Sch. 3 para. 34A](schedule/3/paragraph/34A.md)
