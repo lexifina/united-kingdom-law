@@ -1,0 +1,120 @@
+# Finance Act 1968
+
+1968 c. 44. Enacted 1968-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2010-11-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1968/44/2010-11-02
+
+## Contents
+
+- Part I
+  - [s. 1](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 89 ................................](section/89.md)
+  - [s. 10](section/10.md)
+- Part II
+  - [s. 1122 ................................](section/1122.md)
+  - [s. 23](section/23.md)
+  - [s. 2430 ................................](section/2430.md)
+- Part III
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 3537 ................................](section/3537.md)
+  - [s. 3839 ................................](section/3839.md)
+  - Betterment levy
+    - [s. 40 ................................](section/40.md)
+- Part IV The Special Charge
+  - [s. 41 The special charge.](section/41.md)
+  - [s. 42 Investment income.](section/42.md)
+  - [s. 43 Due date, interest and administration.](section/43.md)
+  - [s. 44 Husband and wife.](section/44.md)
+  - [s. 45 Close companies.](section/45.md)
+  - [s. 46 Relief where income attributable to period of years was received in 1967–68.](section/46.md)
+  - [s. 47 Relief where capital is subject to estate duty or capital gains tax.](section/47.md)
+  - [s. 48 Relief in respect of error or mistake,](section/48.md)
+  - [s. 49 Double taxation relief.](section/49.md)
+  - [s. 50 Transactions designed to avoid liability.](section/50.md)
+- Part V
+  - [s. 51](section/51.md)
+  - [s. 52 ................................](section/52.md)
+- Part VI Miscellaneous
+  - [s. 53 Interest on overdue tax.](section/53.md)
+  - [s. 54 Premium savings bonds: increase of prize money.](section/54.md)
+  - [s. 55 ................................](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 60 Provisional collection of taxes.](section/60.md)
+  - [s. 61 Citation, interpretation, construction, extent and repeals.](section/61.md)
+- Schedules 1—4. ...
+- Schedule 5. ...
+- Schedule 6. ...
+- Schedule 7. ...
+- Schedules 8—10. ...
+- Schedules 11, 12. ...
+- Schedule 13. ...
+- Schedule 14. ...
+- Schedule 15. Special Charge: Trusts
+  - Income out of capital, et ceteralaetc.
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Recovery of charge from trustees
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Income derived from another trust
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Notice to persons answerable for a trust
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Application of trust property in payment of charge
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Foreign trusts
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Limitation of liability of trustees
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Interpretation
+    - [Sch. 15 para. ll](schedule/15/paragraph/ll.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- Schedule 16. Special Charge: Close Companies
+  - Special Apportionments
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Recovery of special charge from company
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+- Schedule 17. ...
+- SCHEDULE 18 Premium Savings Bonds: New Terms
+  - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+  - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+  - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+  - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+- Schedule 19 ...
+- schedule 20 REPEALS
+  - PART I CUSTOMS AND EXCISE REPEALS
+  - PART II DOUBLE TAXATION RELIEF REPEALS
+  - PART III CAPITAL GAINS REPEALS
+  - PART IV ESTATE DUTY REPEALS
+  - PART V EXCHANGE CONTROL REPEALS
+  - PART VI MISCELLANEOUS REPEALS
