@@ -2,9 +2,9 @@
 
 2010 c. 13. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2010-07-27, one file per provision. Earlier versions, from 2010-04-06, are in the history before it: `git log -- ukpga/2010/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2010-12-10, one file per provision. Earlier versions, from 2010-04-06, are in the history before it: `git log -- ukpga/2010/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/13/2010-07-27
+Source: https://www.legislation.gov.uk/ukpga/2010/13/2010-12-10
 
 ## Contents
 
@@ -202,7 +202,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/13/2010-07-27
       - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
     - Other interpretative provisions
       - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
-- SCHEDULE 2 Pensions: high income excess relief charge
+- SCHEDULE 2
   - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
   - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
   - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
