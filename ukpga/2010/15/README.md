@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2010-10-30, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2010-12-31, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-10-30
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-12-31
 
 ## Contents
 
@@ -735,37 +735,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2010-10-30
     - Other bodies and offices added on 5th March 2012
   - PART 4 PUBLIC AUTHORITIES: CROSS-BORDER AUTHORITIES
     - Cross-border Welsh authorities
-- SCHEDULE 20 Rail vehicle accessibility: compliance
-  - Rail vehicle accessibility compliance certificates
-    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
-  - Regulations as to compliance certificates
-    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
-  - Regulations as to compliance assessments
-    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
-  - Fees in respect of compliance certificates
-    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
-  - Penalty for using rail vehicle that does not conform with accessibility regulations
-    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
-  - Penalty for using rail vehicle otherwise than in conformity with accessibility regulations
-    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
-  - Inspection of rail vehicles
-    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
-  - Supplementary powers
-    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
-  - Penalties: amount, due date and recovery
-    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
-  - Penalties: code of practice
-    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
-  - Penalties: procedure
-    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
-  - Penalties: appeals
-    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
-  - Forgery, etc.
-    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
-  - Regulations
-    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
-  - Interpretation
-    - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+- SCHEDULE 20
 - SCHEDULE 21 Reasonable adjustments: supplementary
   - Preliminary
     - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
