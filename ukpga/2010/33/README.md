@@ -2,9 +2,9 @@
 
 2010 c. 33. Enacted 2010-12-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2010-12-16, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2011-01-01, one file per provision. Earlier versions, from 2010-12-16, are in the history before it: `git log -- ukpga/2010/33` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/33/2010-12-16
+Source: https://www.legislation.gov.uk/ukpga/2010/33/2011-01-01
 
 ## Contents
 
