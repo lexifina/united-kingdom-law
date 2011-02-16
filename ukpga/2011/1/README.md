@@ -2,9 +2,9 @@
 
 2011 c. 1. Enacted 2011-02-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-08-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2011-02-16, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/1/2024-08-24
+Source: https://www.legislation.gov.uk/ukpga/2011/1/2011-02-16
 
 ## Contents
 
