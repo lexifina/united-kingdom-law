@@ -1,0 +1,113 @@
+# Salmon Act 1986
+
+1986 c. 62. Enacted 1986-11-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2011-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1986/62/2011-04-01
+
+## Contents
+
+- Part I Administration of Salmon Fisheries in Scotland
+  - Salmon fishery districts
+    - [s. 1 Salmon fishery districts.](section/1.md)
+    - [s. 2 Designation orders.](section/2.md)
+  - General regulation of salmon fisheries
+    - [s. 3 Regulations.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 Enforcement of regulations.](section/5.md)
+    - [s. 6 Annual close time.](section/6.md)
+    - [s. 7 Estuary limits.](section/7.md)
+    - [s. 8 Use of baits and lures.](section/8.md)
+    - [s. 9 Limits of the Solway Firth.](section/9.md)
+    - [s. 10 Application of regulations and annual close time orders to the River Tweed](section/10.md)
+    - [s. 10A Regulations to assist conservation of salmon](section/10A.md)
+    - [s. 10B Powers of enforcement, entry, search and arrest](section/10B.md)
+    - [s. 10C Offences, penalties, forfeiture etc.](section/10C.md)
+    - [s. 10D Regulations](section/10D.md)
+    - [s. 10E Application to River Esk](section/10E.md)
+  - Proprietors
+    - [s. 11 Qualified proprietors and upper and lower proprietors.](section/11.md)
+    - [s. 12 Sole proprietor in a salmon fishery district.](section/12.md)
+    - [s. 13 Mandatories.](section/13.md)
+  - District salmon fishery boards
+    - [s. 14 District salmon fishery boards.](section/14.md)
+    - [s. 15 Financial powers and duties of district salmon fishery boards.](section/15.md)
+    - [s. 16 General powers and duties of district salmon fishery boards.](section/16.md)
+    - [s. 17 Proceedings of district salmon fishery boards.](section/17.md)
+    - [s. 18 Tenure of office.](section/18.md)
+  - Application to the Esk
+    - [s. 19 Application of Part I to the River Esk.](section/19.md)
+- Part II Other Provisions Applying to Scotland
+  - [s. 20 Additional powers in respect of licensing and regulation of salmon dealing.](section/20.md)
+  - [s. 21 Permitted methods of fishing for salmon.](section/21.md)
+  - [s. 22 Offence of possessing salmon which have been illegally taken, killed or landed.](section/22.md)
+  - [s. 23 Power of court in trial of one offence to convict of another.](section/23.md)
+  - [s. 24 Unauthorised introduction of salmon or salmon eggs into certain waters.](section/24.md)
+  - [s. 25 Fixed engines in the Solway.](section/25.md)
+  - [s. 26 Poaching in the Esk.](section/26.md)
+  - [s. 27 Exemption from certain offences in respect of certain acts.](section/27.md)
+  - [s. 28 Exemption from certain offences in respect of acts done for scientific etc. purposes.](section/28.md)
+  - [s. 29 Application of sections 24 and 25 to River Esk and River Tweed.](section/29.md)
+  - [s. 30 Prosecution of offences under the Act of 1868.](section/30.md)
+- Part III Provisions Applying to England and Wales
+  - [s. 31 Dealer licensing in England and Wales.](section/31.md)
+  - [s. 32 Handling fish in suspicious circumstances.](section/32.md)
+  - [s. 33 Placing and use of fixed engines.](section/33.md)
+  - [s. 34 Introduction of fish into fish farms without consent.](section/34.md)
+  - [s. 35 Removal of differential penalties under Salmon and Freshwater Fisheries Act 1975.](section/35.md)
+  - [s. 36 Servants and agents authorised by fishing licences.](section/36.md)
+  - [s. 37 Byelaws under Sea Fisheries Regulation Act 1966.](section/37.md)
+  - [s. 38 Disclosure of information furnished under the Diseases of Fish Act 1983.](section/38.md)
+- Part IV Miscellaneous
+  - [s. 39 Review of certain salmon net fishing.](section/39.md)
+  - [s. 40 Interpretation.](section/40.md)
+  - [s. 41 Amendments and repeals.](section/41.md)
+  - [s. 42 Crown application.](section/42.md)
+  - [s. 43 Citation, commencement and extent.](section/43.md)
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - Salmon Fisheries (Scotland) Act 1868 (c. 123.)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Diseases of Fish Act 1937 (c.33)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (c. 26)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Salmon and Freshwater Fisheries Act 1975 (c. 51)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Freshwater and Salmon Fisheries (Scotland) Act 1976 (c. 22)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Repeals
