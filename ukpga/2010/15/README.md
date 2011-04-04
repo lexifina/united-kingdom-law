@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2011-01-18, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2011-04-04, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2011-01-18
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2011-04-04
 
 ## Contents
 
@@ -712,7 +712,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2011-01-18
     - Court services and legal services
     - Criminal justice
     - Environment, housing and development
-    - National Health Service
+    - Health, social care and social security
     - Industry, business, finance etc.
     - Local government
     - Other educational bodies
