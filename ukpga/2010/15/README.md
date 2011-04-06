@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2011-04-05, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2011-04-06, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2011-04-05
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2011-04-06
 
 ## Contents
 
@@ -552,7 +552,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2011-04-05
       - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
     - Redundancy
       - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
-    - Life assurance
+    - Insurance etc.
       - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
     - Child care
       - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
