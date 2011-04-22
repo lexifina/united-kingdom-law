@@ -1,0 +1,208 @@
+# New Towns (Scotland) Act 1968
+
+1968 c. 16. Enacted 1968-03-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2011-04-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1968/16/2011-04-22
+
+## Contents
+
+- New towns and their development corporations
+  - [s. 1 Designation of site of new town.](section/1.md)
+  - [s. 1A Reduction of designated areas.](section/1A.md)
+  - [s. 2 Establishment of development corporation for new town.](section/2.md)
+  - [s. 3 Objects and general powers of development corporation.](section/3.md)
+  - [s. 4 Restrictions on powers of development corporation.](section/4.md)
+  - [s. 5 Allocation or transfer of new town functions to existing or new development corporation.](section/5.md)
+- Planning control in new towns
+  - [s. 6 Planning control in new town.](section/6.md)
+- Acquisition of land by development corporations and highway authorities
+  - [s. 7 Acquisition of land by development corporation.](section/7.md)
+  - [s. 8 Acquisition of land for highways in connection with new towns.](section/8.md)
+  - [s. 9 Recording of compulsory purchase orders.](section/9.md)
+  - [s. 10 Special procedure for acquisition of statutory undertakers’ operational land.](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 Application of Lands Clauses Acts etc. and modification of Land Compensation (Scotland) Act 1963, for purposes of this Act.](section/12.md)
+  - [s. 13 Measure of compensation for acquisition of statutory undertakers’ operational land.](section/13.md)
+  - [s. 14 Extinguishment of rights over land compulsorily acquired.](section/14.md)
+- Expedited completion of compulsory acquisition
+  - [s. 1517. ................................](section/1517.md)
+- Disposal of land by development corporations
+  - [s. 18 Disposal of land by development corporation.](section/18.md)
+  - [s. 18AA Power of development corporation to dispose of housing land.](section/18AA.md)
+  - [s. 18A Secretary of State’s general power.](section/18A.md)
+  - [s. 18B Disposal of land to comply with direction under s. 18A.](section/18B.md)
+  - [s. 18C Payments under s. 18A treated as repayments.](section/18C.md)
+- Powers exercisable in relation to land acquired by development corporations or highway authorities
+  - [s. 19 Power to override servitudes and other rights.](section/19.md)
+  - [s. 20 Use and development of churches and burial grounds.](section/20.md)
+  - [s. 21 Use and development of open spaces.](section/21.md)
+  - [s. 22 Displacement of persons from land acquired.](section/22.md)
+  - [s. 23 Extinguishment of public rights of way over land acquired.](section/23.md)
+  - [s. 24 Provisions as to telegraphic lines.](section/24.md)
+  - [s. 25 ................................](section/25.md)
+- Statutory undertakers
+  - [s. 26 Extinguishment of rights of way, and rights as to apparatus, of statutory undertakers.](section/26.md)
+  - [s. 27 Orders under s. 26.](section/27.md)
+  - [s. 28 Extension or modification of functions of statutory undertakers.](section/28.md)
+  - [s. 29 Procedure in relation to orders under s. 28.](section/29.md)
+  - [s. 30 Relief of statutory undertakers from obligations rendered impracticable.](section/30.md)
+  - [s. 31 Objections to orders under ss. 28 and 30.](section/31.md)
+- Provision of trolley vehicle services by development corporations
+  - [s. 32 Power to authorise provision of trolley vehicle services by development corporation.](section/32.md)
+- Public services
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 Power to authorise provision of services by development corporation.](section/34.md)
+- Transfer of property and undertakings of development corporations, and their dissolution
+  - [s. 35 Power of development corporation to transfer their undertakings.](section/35.md)
+  - [s. 36 Winding up of development corporation.](section/36.md)
+  - [s. 36A Application of sections 35 etc. to operators of telecommunication systems.](section/36A.md)
+  - [s. 36B Additional power to dispose of property etc.](section/36B.md)
+  - [s. 36C Direction and order making powers of Secretary of State.](section/36C.md)
+  - [s. 36D Transfer orders.](section/36D.md)
+  - [s. 36E Reduction of liability of development corporation.](section/36E.md)
+  - [s. 36F Grants by Secretary of State.](section/36F.md)
+  - [s. 36G Dissolution of development corporation.](section/36G.md)
+  - [s. 36H Financial consequences of winding up.](section/36H.md)
+- Financial and related provisions
+  - [s. 37 Advances and grants by Secretary of State to development corporation.](section/37.md)
+  - [s. 37AA Grants by Secretary of State to development corporation.](section/37AA.md)
+  - [s. 37A Other borrowing powers of development corporations.](section/37A.md)
+  - [s. 38 Provisions supplementary to s. 37.](section/38.md)
+  - [s. 38A Treasury guarantees.](section/38A.md)
+- Financial reconstruction
+  - [s. 38AB Power to extinguish loan obligations of development corporation.](section/38AB.md)
+  - [s. 38B Disposal of surplus funds of development corporations.](section/38B.md)
+  - [s. 39 Accounts, audit, annual reports etc.](section/39.md)
+  - [s. 40 General provision as to expenses.](section/40.md)
+- Miscellaneous and supplementary
+  - [s. 41 Application of certain enactments.](section/41.md)
+  - [s. 42 Rights of entry.](section/42.md)
+  - [s. 43 Local inquiries.](section/43.md)
+  - [s. 44 Inquiries under Private Legislation Procedure (Scotland) Act 1936.](section/44.md)
+  - [s. 45 Service of notices.](section/45.md)
+  - [s. 46 Regulations and orders.](section/46.md)
+  - [s. 47 Interpretation.](section/47.md)
+  - [s. 48 Saving and transitional provisions, consequential amendments and repeals.](section/48.md)
+  - [s. 49 Short title, commencement and extent.](section/49.md)
+- SCHEDULE 1 Procedure for designating site of new town
+  - Making of orders under section 1
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Validity and date of operation of orders under section 1
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 1A Effect of order for reduction of designated area
+  - Disposal of Land
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+- SCHEDULE 2 Constitution and proceedings of development corporations
+  - Apointment of members and tenure of office
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Remuneration
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Pension benefits for chairmen
+    - [Sch. 2 para. 7A](schedule/2/paragraph/7A.md)
+  - Meetings and proceedings
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Instruments, etc.
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Procedure for authorising compulsory acquisitions
+  - Part I
+    - Acquisitions by development corporations and local highway authorities
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part II
+    - Special provisions applying to acquisitions by local highway authorities
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part III
+    - Acquisitions by Secretary of State
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part IV
+    - Special provisions as to certain descriptions of land
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part V
+    - Validity and date of operation of compulsory purchase orders and certificates
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Procedure for authorising compulsory acquisition of statutory undertakers’ operational land
+  - Part I
+    - Acquisitions by development corporations and local highway authorities
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part II
+    - Acquisitions by Secretary of State and appropriate Minister
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Part III
+    - Modification of Schedule 3, Part V in relation to compulsory purchase orders made in pursuance of s. 10
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Assessment of compensation to statutory undertakers
+  - Part I
+    - Measure of compensation
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Exclusion of paragraph 1 at option of statutory undertakers
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Procedure for assessing compensation where paragraph 1 applies
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part II
+    - Tribunal for assessment of compensation
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Modifications of enactments for purposes of this act
+  - Part I
+    - The Lands Clauses Acts
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Part II
+    - The Land Compensation (Scotland) Act 1963
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7
+- SCHEDULE 8 Procedure for dealing with objections to orders under ss 23, 28 and 30
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Saving and transitional provisions
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 Consequential Amendments of Enactments
+  - Rivers (Prevention of Pollution) (Scotland) Act 1951
+  - New Towns Act 1965
+- SCHEDULE 11 Repeals
