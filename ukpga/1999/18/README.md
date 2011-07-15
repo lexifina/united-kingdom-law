@@ -1,0 +1,129 @@
+# Adoption (Intercountry Aspects) Act 1999
+
+1999 c. 18. Enacted 1999-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2011-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/18
+
+Source: https://www.legislation.gov.uk/ukpga/1999/18/2011-07-15
+
+## Contents
+
+- Implementation of Convention
+  - [s. 1 Regulations giving effect to Convention.](section/1.md)
+  - [s. 2 Central Authorities and accredited bodies.](section/2.md)
+- Convention adoptions
+  - [s. 3 Convention adoption orders.](section/3.md)
+  - [s. 4 Effect of Convention adoptions in England and Wales.](section/4.md)
+  - [s. 5 Effect of Convention adoptions in Scotland.](section/5.md)
+  - [s. 6 Annulment of Convention adoptions etc.](section/6.md)
+  - [s. 7 Acquisition of British citizenship by Convention adoptions.](section/7.md)
+  - [s. 8 Meaning of “Convention adoption” and related expressions in 1976 and 1978 Acts.](section/8.md)
+- Intercountry adoptions
+  - [s. 9 Adoption Service to include intercountry adoptions etc.](section/9.md)
+  - [s. 10 Approval of adoption societies to provide intercountry adoption services.](section/10.md)
+  - [s. 11 Six months residence required for certain intercountry adoptions.](section/11.md)
+  - [s. 12 Registration of certain intercountry adoptions.](section/12.md)
+  - [s. 13 Construction of certain references in 1976 and 1978 Acts.](section/13.md)
+- Miscellaneous and supplemental
+  - [s. 14 Restriction on bringing children into the United Kingdom for adoption.](section/14.md)
+  - [s. 15 Amendments and repeals.](section/15.md)
+  - [s. 16 Devolution.](section/16.md)
+  - [s. 17 Savings for adoptions etc. under 1965 Convention.](section/17.md)
+  - [s. 18 Short title, interpretation, commencement and extent.](section/18.md)
+- SCHEDULE 1 Convention on Protection of Children and Co-operation in respect of Intercountry Adoption
+    - Chapter I Scope of the Convention
+      - Article 1
+      - Article 2
+        - [Sch. 1 Pt. chapter I crossheading article-2 paragraph 1](schedule/1/part/chapter/I/crossheading/article-2/paragraph/1.md)
+        - [Sch. 1 Pt. chapter I crossheading article-2 paragraph 2](schedule/1/part/chapter/I/crossheading/article-2/paragraph/2.md)
+      - Article 3
+    - Chapter II Requirements for Intercountry Adoptions
+      - Article 4
+      - Article 5
+    - Chapter III Central Authorities and Accredited Bodies
+      - Article 6
+        - [Sch. 1 Pt. chapter III crossheading article-6 paragraph 1](schedule/1/part/chapter/III/crossheading/article-6/paragraph/1.md)
+        - [Sch. 1 Pt. chapter III crossheading article-6 paragraph 2](schedule/1/part/chapter/III/crossheading/article-6/paragraph/2.md)
+      - Article 7
+        - [Sch. 1 Pt. chapter III crossheading article-7 paragraph 1](schedule/1/part/chapter/III/crossheading/article-7/paragraph/1.md)
+        - [Sch. 1 Pt. chapter III crossheading article-7 paragraph 2](schedule/1/part/chapter/III/crossheading/article-7/paragraph/2.md)
+      - Article 8
+      - Article 9
+      - Article 10
+      - Article 11
+      - Article 12
+      - Article 13
+    - Chapter IV Procedural Requirements in Intercountry Adoption
+      - Article 14
+      - Article 15
+        - [Sch. 1 Pt. chapter IV crossheading article-15 paragraph 1](schedule/1/part/chapter/IV/crossheading/article-15/paragraph/1.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-15 paragraph 2](schedule/1/part/chapter/IV/crossheading/article-15/paragraph/2.md)
+      - Article 16
+        - [Sch. 1 Pt. chapter IV crossheading article-16 paragraph 1](schedule/1/part/chapter/IV/crossheading/article-16/paragraph/1.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-16 paragraph 2](schedule/1/part/chapter/IV/crossheading/article-16/paragraph/2.md)
+      - Article 17
+      - Article 18
+      - Article 19
+        - [Sch. 1 Pt. chapter IV crossheading article-19 paragraph 1](schedule/1/part/chapter/IV/crossheading/article-19/paragraph/1.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-19 paragraph 2](schedule/1/part/chapter/IV/crossheading/article-19/paragraph/2.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-19 paragraph 3](schedule/1/part/chapter/IV/crossheading/article-19/paragraph/3.md)
+      - Article 20
+      - Article 21
+        - [Sch. 1 Pt. chapter IV crossheading article-21 paragraph 1](schedule/1/part/chapter/IV/crossheading/article-21/paragraph/1.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-21 paragraph 2](schedule/1/part/chapter/IV/crossheading/article-21/paragraph/2.md)
+      - Article 22
+        - [Sch. 1 Pt. chapter IV crossheading article-22 paragraph 1](schedule/1/part/chapter/IV/crossheading/article-22/paragraph/1.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-22 paragraph 2](schedule/1/part/chapter/IV/crossheading/article-22/paragraph/2.md)
+        - [Sch. 1 Pt. chapter IV crossheading article-22 paragraph 3](schedule/1/part/chapter/IV/crossheading/article-22/paragraph/3.md)
+        - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+        - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Chapter V Recognition and Effects of the Adoption
+      - Article 23
+        - [Sch. 1 Pt. chapter V crossheading article-23 paragraph 1](schedule/1/part/chapter/V/crossheading/article-23/paragraph/1.md)
+        - [Sch. 1 Pt. chapter V crossheading article-23 paragraph 2](schedule/1/part/chapter/V/crossheading/article-23/paragraph/2.md)
+      - Article 24
+      - Article 25
+      - Article 26
+        - [Sch. 1 Pt. chapter V crossheading article-26 paragraph 1](schedule/1/part/chapter/V/crossheading/article-26/paragraph/1.md)
+        - [Sch. 1 Pt. chapter V crossheading article-26 paragraph 2](schedule/1/part/chapter/V/crossheading/article-26/paragraph/2.md)
+        - [Sch. 1 Pt. chapter V crossheading article-26 paragraph 3](schedule/1/part/chapter/V/crossheading/article-26/paragraph/3.md)
+      - Article 27
+        - [Sch. 1 Pt. chapter V crossheading article-27 paragraph 1](schedule/1/part/chapter/V/crossheading/article-27/paragraph/1.md)
+        - [Sch. 1 Pt. chapter V crossheading article-27 paragraph 2](schedule/1/part/chapter/V/crossheading/article-27/paragraph/2.md)
+    - Chapter VI General Provisions
+      - Article 28
+      - Article 29
+      - Article 30
+        - [Sch. 1 Pt. chapter VI crossheading article-30 paragraph 1](schedule/1/part/chapter/VI/crossheading/article-30/paragraph/1.md)
+        - [Sch. 1 Pt. chapter VI crossheading article-30 paragraph 2](schedule/1/part/chapter/VI/crossheading/article-30/paragraph/2.md)
+      - Article 31
+      - Article 32
+        - [Sch. 1 Pt. chapter VI crossheading article-32 paragraph 1](schedule/1/part/chapter/VI/crossheading/article-32/paragraph/1.md)
+        - [Sch. 1 Pt. chapter VI crossheading article-32 paragraph 2](schedule/1/part/chapter/VI/crossheading/article-32/paragraph/2.md)
+        - [Sch. 1 Pt. chapter VI crossheading article-32 paragraph 3](schedule/1/part/chapter/VI/crossheading/article-32/paragraph/3.md)
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 36
+      - Article 37
+      - Article 38
+      - Article 39
+        - [Sch. 1 Pt. chapter VI crossheading article-39 paragraph 1](schedule/1/part/chapter/VI/crossheading/article-39/paragraph/1.md)
+        - [Sch. 1 Pt. chapter VI crossheading article-39 paragraph 2](schedule/1/part/chapter/VI/crossheading/article-39/paragraph/2.md)
+      - Article 40
+      - Article 41
+      - Article 42
+- SCHEDULE 2 Minor and consequential amendments
+  - Local Authority and Social Services Act 1970 (c.42)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Immigration Act 1971 (c.77)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Adoption Act 1976 (c.36)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Adoption (Scotland) Act 1978 (c.28)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Family Law Act 1986 (c.55)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Repeals
