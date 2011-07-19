@@ -2,9 +2,9 @@
 
 2010 c. 31. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2010-07-27, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2011-07-19, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/31` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/31/2010-07-27
+Source: https://www.legislation.gov.uk/ukpga/2010/31/2011-07-19
 
 ## Contents
 
@@ -110,22 +110,22 @@ Source: https://www.legislation.gov.uk/ukpga/2010/31/2010-07-27
       - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
     - Interpretation: general
       - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
-- SCHEDULE 3 Pensions: treatment of persons at age 75
+- SCHEDULE 3
   - Introductory
-    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 1 ................................](schedule/3/paragraph/1.md)
   - Pension rules applying at age 77 instead of age 75
-    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
-    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
-    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 2 ................................](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 ................................](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 ................................](schedule/3/paragraph/4.md)
   - Treatment of lump sums to which persons become entitled at age 75
-    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
-    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
-    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
-    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 5 ................................](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 ................................](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 ................................](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 ................................](schedule/3/paragraph/8.md)
   - Application of rules of pension schemes
-    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 9 ................................](schedule/3/paragraph/9.md)
   - Interpretation
-    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 10 ................................](schedule/3/paragraph/10.md)
 - SCHEDULE 4 Expenses paid to MPs etc
   - Accommodation expenses
     - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
