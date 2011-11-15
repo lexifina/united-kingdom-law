@@ -2,11 +2,9 @@
 
 2011 c. 21. Enacted 2011-11-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-07-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2011-11-15, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
-
-Source: https://www.legislation.gov.uk/ukpga/2011/21/2018-07-09
+Source: https://www.legislation.gov.uk/ukpga/2011/21/2011-11-15
 
 ## Contents
 
