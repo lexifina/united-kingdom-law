@@ -2,17 +2,15 @@
 
 2011 c. 20. Enacted 2011-11-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2011-11-15, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 48 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
-
-Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
+Source: https://www.legislation.gov.uk/ukpga/2011/20/2011-11-15
 
 ## Contents
 
 - PART 1 Local Government
   - CHAPTER 1 General powers of authorities
-    - [s. 1 General power of competence](section/1.md)
+    - [s. 1 Local authority’s general power of competence](section/1.md)
     - [s. 2 Boundaries of the general power](section/2.md)
     - [s. 3 Limits on charging in exercise of general power](section/3.md)
     - [s. 4 Limits on doing things for commercial purpose in exercise of general power](section/4.md)
@@ -50,7 +48,6 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
     - [s. 30 Disclosure of pecuniary interests on taking office](section/30.md)
     - [s. 31 Pecuniary interests in matters considered at meetings or by a single member](section/31.md)
     - [s. 32 Sensitive interests](section/32.md)
-    - [s. 32A Residential addresses](section/32A.md)
     - [s. 33 Dispensations from section 31(4)](section/33.md)
     - [s. 34 Offences](section/34.md)
     - [s. 35 Delegation of functions by Greater London Authority](section/35.md)
@@ -116,44 +113,6 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
     - [s. 84 Consideration of expression of interest: further provisions](section/84.md)
     - [s. 85 Supplementary](section/85.md)
     - [s. 86 Provision of advice and assistance](section/86.md)
-  - Chapter 2A Assets of community value (England)
-    - List of assets of community value
-      - [s. 86A List of assets of community value](section/86A.md)
-      - [s. 86B Land of community value](section/86B.md)
-      - [s. 86C Sporting assets of community value](section/86C.md)
-      - [s. 86D Procedure for including land in list](section/86D.md)
-      - [s. 86E Procedure on community nominations](section/86E.md)
-      - [s. 86F Notice of inclusion or removal](section/86F.md)
-      - [s. 86G Requirements of local authorities: sporting assets of community value](section/86G.md)
-      - [s. 86H Review of decisions relating to list](section/86H.md)
-    - List of land nominated by unsuccessful community nominations
-      - [s. 86I List of land nominated by unsuccessful community nominations](section/86I.md)
-    - Provisions common to both lists
-      - [s. 86J Publication and inspection of lists](section/86J.md)
-    - Community groups: right to buy
-      - [s. 86K Effect of inclusion on the list](section/86K.md)
-      - [s. 86L Meaning of “relevant disposal” etc](section/86L.md)
-      - [s. 86M Notice of proposed sale: community right to buy](section/86M.md)
-      - [s. 86N The “preferred community buyer”](section/86N.md)
-      - [s. 86P The alternative community group](section/86P.md)
-      - [s. 86Q Publicising receipt of notice under section 86M(1)](section/86Q.md)
-      - [s. 86R Further notification requirements](section/86R.md)
-      - [s. 86S Negotiation of price and agreed offer](section/86S.md)
-      - [s. 86T Valuation and offer](section/86T.md)
-      - [s. 86U Progress requirements](section/86U.md)
-      - [s. 86V Validity of acts](section/86V.md)
-      - [s. 86W Compensation](section/86W.md)
-    - Miscellaneous
-      - [s. 86X Guidance](section/86X.md)
-      - [s. 86Y Local land charge](section/86Y.md)
-      - [s. 86Z Enforcement](section/86Z.md)
-      - [s. 86Z1 Co-operation](section/86Z1.md)
-      - [s. 86Z2 Advice and assistance in relation to land of community value](section/86Z2.md)
-      - [s. 86Z3 Crown application](section/86Z3.md)
-    - Interpretation of Chapter
-      - [s. 86Z4 Meaning of “local authority”](section/86Z4.md)
-      - [s. 86Z5 Meaning of “owner”](section/86Z5.md)
-      - [s. 86Z6 Interpretation of Chapter: general](section/86Z6.md)
   - CHAPTER 3 Assets of community value
     - List of assets of community value
       - [s. 87 List of assets of community value](section/87.md)
@@ -253,8 +212,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
       - [s. 160 Succession to secure tenancies](section/160.md)
       - [s. 161 Succession to assured tenancies](section/161.md)
       - [s. 162 Secure and assured tenancies: recovery of possession after tenant’s death](section/162.md)
-      - [s. 163](section/163.md)
-      - [s. 164](section/164.md)
+      - [s. 163 Assured shorthold tenancy following demoted or family intervention tenancy](section/163.md)
+      - [s. 164 Assured shorthold tenancies: notice requirements](section/164.md)
       - [s. 165 Assured shorthold tenancies: rights to acquire](section/165.md)
       - [s. 166 Repairing obligations in leases of seven years or more](section/166.md)
   - CHAPTER 3 Housing finance
@@ -284,7 +243,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
       - [s. 184 Tenancy deposit schemes](section/184.md)
     - Houses in multiple occupation
       - [s. 185 Exemption from HMO licensing for buildings run by co-operatives](section/185.md)
-- PART 8 London and areas of other mayoral strategic authorities
+- PART 8 London
   - CHAPTER 1 Housing and regeneration functions
     - [s. 186 Removal of limitations on Greater London Authority’s general power](section/186.md)
     - [s. 187 New housing and regeneration functions of the Authority](section/187.md)
@@ -326,8 +285,6 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
       - [s. 215 Reviews](section/215.md)
       - [s. 216 Transfers of property, rights and liabilities](section/216.md)
       - [s. 217 Dissolution: final steps](section/217.md)
-    - MDCs outside London
-      - [s. 217A Political activities of officers and staff etc](section/217A.md)
     - General
       - [s. 218 Transfer schemes: general provisions](section/218.md)
       - [s. 219 Guidance by the Mayor](section/219.md)
@@ -359,7 +316,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
 - SCHEDULE 1 General power of competence: consequential amendments
   - Local Government Act 1972 (c. 70)
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-  - ...
+  - Local Government Act 2000 (c. 22)
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
     - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
@@ -835,16 +792,10 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2026-10-26
     - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
   - Ground 4
     - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
-  - Ground 4A
-    - [Sch. 14 para. 4A](schedule/14/paragraph/4A.md)
   - Ground 5
     - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
-  - Ground 5A
-    - [Sch. 14 para. 5A](schedule/14/paragraph/5A.md)
   - Ground 6
     - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
-  - Ground 6A
-    - [Sch. 14 para. 6A](schedule/14/paragraph/6A.md)
   - Ground 7
     - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
   - Ground 8
