@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2011-12-06, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2011-12-06
 
 ## Contents
 
@@ -189,22 +189,16 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
   - CHAPTER 9 Relief for BLAGAB trade losses etc
     - The reliefs
       - [s. 123 Relief for BLAGAB trade losses against total profits](section/123.md)
-      - [s. 124 Carry forward of pre-1 April 2017 BLAGAB trade losses against subsequent profits](section/124.md)
-      - [s. 124A Carry forward of post-1 April 2017 BLAGAB trade losses against subsequent profits](section/124A.md)
-      - [s. 124B Excess carried forward post-1 April 2017 losses: relief against total profits](section/124B.md)
-      - [s. 124C Further carry forward against subsequent profits of post-1 April 2017 loss not fully used](section/124C.md)
-      - [s. 124D Restriction on deductions from BLAGAB trade profits](section/124D.md)
-      - [s. 124E Section 124D: shock losses excluded from the restriction](section/124E.md)
+      - [s. 124 Carry forward of BLAGAB trade losses against subsequent profits](section/124.md)
       - [s. 125 Group relief](section/125.md)
     - Restrictions
       - [s. 126 Restrictions in respect of non-trading deficit](section/126.md)
       - [s. 127 No relief against policyholders’ share of I - E profit](section/127.md)
   - CHAPTER 10 Transfers of long-term business
     - Transfers of BLAGAB
-      - [s. 128 Relief for transferee in respect of transferor’s excess BLAGAB expenses](section/128.md)
+      - [s. 128 Relief for transferee in respect of transferor’s BLAGAB expenses](section/128.md)
       - [s. 129 Intra-group transfers and demutualisation](section/129.md)
       - [s. 130 Transfers between non-group companies: present value of in-force business](section/130.md)
-      - [s. 130A Re-insurance in the course of transfer of BLAGAB](section/130A.md)
     - Transfers of non-BLAGAB long-term business
       - [s. 131 Application of ss. 129 and 130 to transfers of non-BLAGAB long-term business](section/131.md)
     - Transfers of long-term business: anti-avoidance
@@ -338,7 +332,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
   - Incapacitated persons and minors
     - [s. 222 Removal of special provision for incapacitated persons and minors](section/222.md)
   - Administration
-    - [s. 223 Tax advisers: sanctionable conduct](section/223.md)
+    - [s. 223 Tax agents: dishonest conduct](section/223.md)
     - [s. 224 Information powers](section/224.md)
     - [s. 225 PAYE regulations: information](section/225.md)
   - High value residential property or dwellings
@@ -831,7 +825,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
       - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
       - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
       - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
-      - [Sch. 14 para. 32A](schedule/14/paragraph/32A.md)
     - Estate duty etc
       - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
     - TCGA 1992
@@ -1188,7 +1181,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
       - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
     - Assets of the shareholder fund
       - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
-      - [Sch. 17 para. 35A](schedule/17/paragraph/35A.md)
   - PART 3 Supplementary
     - General transitional provision in relation to provisions re-enacted in Part 2 of this Act
       - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
@@ -1763,9 +1755,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
       - [Sch. 36 para. 25](schedule/36/paragraph/25.md)
     - Amounts recoverable as if they were VAT
       - [Sch. 36 para. 26](schedule/36/paragraph/26.md)
-    - Transfers to HMRC under Agreement
-      - [Sch. 36 para. 26A](schedule/36/paragraph/26A.md)
-      - [Sch. 36 para. 26B](schedule/36/paragraph/26B.md)
     - General interpretation
       - [Sch. 36 para. 27](schedule/36/paragraph/27.md)
 - SCHEDULE 37 International military headquarters, EU forces, etc
@@ -1778,13 +1767,13 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
     - [Sch. 37 para. 4](schedule/37/paragraph/4.md)
   - ITA 2007
     - [Sch. 37 para. 5](schedule/37/paragraph/5.md)
-- SCHEDULE 38 Tax advisers: sanctionable conduct
+- SCHEDULE 38 Tax agents: dishonest conduct
   - PART 1 Introduction
     - Overview
       - [Sch. 38 para. 1](schedule/38/paragraph/1.md)
-    - Tax adviser
+    - Tax agent
       - [Sch. 38 para. 2](schedule/38/paragraph/2.md)
-    - Sanctionable conduct
+    - Dishonest conduct
       - [Sch. 38 para. 3](schedule/38/paragraph/3.md)
   - PART 2 Establishing dishonest conduct
     - Conduct notice
@@ -1793,7 +1782,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
       - [Sch. 38 para. 5](schedule/38/paragraph/5.md)
     - Offence of concealment etc in connection with conduct notice
       - [Sch. 38 para. 6](schedule/38/paragraph/6.md)
-  - PART 3 Power to obtain tax adviser’s files etc
+  - PART 3 Power to obtain tax agent’s files etc
     - Circumstances in which power is exercisable
       - [Sch. 38 para. 7](schedule/38/paragraph/7.md)
     - File access notice
@@ -1827,28 +1816,13 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
       - [Sch. 38 para. 22](schedule/38/paragraph/22.md)
     - Daily penalty for failure to comply
       - [Sch. 38 para. 23](schedule/38/paragraph/23.md)
-    - Increased daily default penalty
-      - [Sch. 38 para. 23A](schedule/38/paragraph/23A.md)
     - Failure to comply with time limit
       - [Sch. 38 para. 24](schedule/38/paragraph/24.md)
     - Reasonable excuse
       - [Sch. 38 para. 25](schedule/38/paragraph/25.md)
-    - Penalties for inaccurate documents
-      - [Sch. 38 para. 25A](schedule/38/paragraph/25A.md)
-  - Part 3A Conduct notices
-    - Giving of conduct notice
-      - [Sch. 38 para. 25B](schedule/38/paragraph/25B.md)
-    - Withdrawal of conduct notice
-      - [Sch. 38 para. 25C](schedule/38/paragraph/25C.md)
-  - PART 4 Sanctions for sanctionable conduct
-    - Penalty for sanctionable conduct
+  - PART 4 Sanctions for dishonest conduct
+    - Penalty for dishonest conduct
       - [Sch. 38 para. 26](schedule/38/paragraph/26.md)
-    - Disclosure of conduct
-      - [Sch. 38 para. 26A](schedule/38/paragraph/26A.md)
-    - Increased penalties
-      - [Sch. 38 para. 26B](schedule/38/paragraph/26B.md)
-    - Potential lost revenue
-      - [Sch. 38 para. 26C](schedule/38/paragraph/26C.md)
     - Special reduction
       - [Sch. 38 para. 27](schedule/38/paragraph/27.md)
     - Power to publish details
