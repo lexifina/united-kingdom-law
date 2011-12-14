@@ -2,11 +2,9 @@
 
 2011 c. 24. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2011-12-14, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/24
-
-Source: https://www.legislation.gov.uk/ukpga/2011/24/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2011/24/2011-12-14
 
 ## Contents
 
@@ -61,7 +59,12 @@ Source: https://www.legislation.gov.uk/ukpga/2011/24/2022-04-28
   - [s. 37 Extent](section/37.md)
   - [s. 38 Commencement](section/38.md)
   - [s. 39 Short title](section/39.md)
+- SCHEDULE 1 Power to abolish: bodies and offices
   - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+- SCHEDULE 2 Power to merge: bodies and offices
+- SCHEDULE 3 Power to modify constitutional arrangements: bodies and offices
+- SCHEDULE 4 Power to modify funding arrangements: bodies and offices
+- SCHEDULE 5 Power to modify or transfer functions: bodies and offices
   - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
   - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
 - SCHEDULE 6 Regional development agencies: consequential repeals
