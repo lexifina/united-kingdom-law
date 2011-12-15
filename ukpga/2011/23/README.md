@@ -2,9 +2,9 @@
 
 2011 c. 23. Enacted 2011-12-14.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2011-12-15, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/23/enacted
+Source: https://www.legislation.gov.uk/ukpga/2011/23/2011-12-15
 
 ## Contents
 
@@ -52,90 +52,150 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/enacted
   - [s. 31 Short title, commencement and extent](section/31.md)
 - SCHEDULE 1 Terrorism prevention and investigation measures
   - Part 1 Measures
-    - [Sch. 1 para. 1 Overnight residence measure](schedule/1/paragraph/1.md)
-    - [Sch. 1 para. 2 Travel measure](schedule/1/paragraph/2.md)
-    - [Sch. 1 para. 3 Exclusion measure](schedule/1/paragraph/3.md)
-    - [Sch. 1 para. 4 Movement directions measure](schedule/1/paragraph/4.md)
-    - [Sch. 1 para. 5 Financial services measure](schedule/1/paragraph/5.md)
-    - [Sch. 1 para. 6 Property measure](schedule/1/paragraph/6.md)
-    - [Sch. 1 para. 7 Electronic communication device measure](schedule/1/paragraph/7.md)
-    - [Sch. 1 para. 8 Association measure](schedule/1/paragraph/8.md)
-    - [Sch. 1 para. 9 Work or studies measure](schedule/1/paragraph/9.md)
-    - [Sch. 1 para. 10 Reporting measure](schedule/1/paragraph/10.md)
-    - [Sch. 1 para. 11 Photography measure](schedule/1/paragraph/11.md)
-    - [Sch. 1 para. 12 Monitoring measure](schedule/1/paragraph/12.md)
+    - Overnight residence measure
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Travel measure
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Exclusion measure
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Movement directions measure
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Financial services measure
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Property measure
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Electronic communication device measure
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Association measure
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Work or studies measure
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Reporting measure
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Photography measure
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Monitoring measure
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
   - Part 2 Permission and notices
-    - [Sch. 1 para. 13 Permission](schedule/1/paragraph/13.md)
-    - [Sch. 1 para. 14 Notices](schedule/1/paragraph/14.md)
-    - [Sch. 1 para. 15 Power of Secretary of State to vary or revoke notices](schedule/1/paragraph/15.md)
+    - Permission
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Notices
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Power of Secretary of State to vary or revoke notices
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
 - SCHEDULE 2 Urgent cases: reference to the court etc
-  - [Sch. 2 para. 1 Application](schedule/2/paragraph/1.md)
-  - [Sch. 2 para. 2 Statement of urgency](schedule/2/paragraph/2.md)
-  - [Sch. 2 para. 3 Reference to court](schedule/2/paragraph/3.md)
-  - [Sch. 2 para. 4 Decision by court](schedule/2/paragraph/4.md)
-  - [Sch. 2 para. 5 Procedures on reference](schedule/2/paragraph/5.md)
-  - [Sch. 2 para. 6 Interpretation](schedule/2/paragraph/6.md)
+  - Application
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Statement of urgency
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Reference to court
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Decision by court
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Procedures on reference
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Interpretation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
 - SCHEDULE 3 Appeals against convictions
   - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
   - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
   - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
   - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
 - SCHEDULE 4 Proceedings relating to terrorism prevention and investigation measures
-  - [Sch. 4 para. 1 Introductory](schedule/4/paragraph/1.md)
-  - [Sch. 4 para. 2 Rules of court: general provision](schedule/4/paragraph/2.md)
-  - [Sch. 4 para. 3 Rules of court: disclosure](schedule/4/paragraph/3.md)
-  - [Sch. 4 para. 4 Rules of court: disclosure](schedule/4/paragraph/4.md)
-  - [Sch. 4 para. 5 Article 6 rights](schedule/4/paragraph/5.md)
-  - [Sch. 4 para. 6 Rules of court: anonymity](schedule/4/paragraph/6.md)
-  - [Sch. 4 para. 7 Initial exercise of rule-making powers by Lord Chancellor](schedule/4/paragraph/7.md)
-  - [Sch. 4 para. 8 Use of advisers](schedule/4/paragraph/8.md)
-  - [Sch. 4 para. 9 Use of advisers](schedule/4/paragraph/9.md)
-  - [Sch. 4 para. 10 Appointment of special advocate](schedule/4/paragraph/10.md)
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Rules of court: general provision
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Rules of court: disclosure
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Article 6 rights
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Rules of court: anonymity
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Initial exercise of rule-making powers by Lord Chancellor
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Use of advisers
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Appointment of special advocate
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
 - SCHEDULE 5 Powers of entry, search, seizure and retention
-  - [Sch. 5 para. 1 Introductory](schedule/5/paragraph/1.md)
-  - [Sch. 5 para. 2 Introductory](schedule/5/paragraph/2.md)
-  - [Sch. 5 para. 3 Introductory](schedule/5/paragraph/3.md)
-  - [Sch. 5 para. 4 Introductory](schedule/5/paragraph/4.md)
-  - [Sch. 5 para. 5 Entry and search for purposes of serving TPIM notice](schedule/5/paragraph/5.md)
-  - [Sch. 5 para. 6 Search of individual or premises at time of serving TPIM notice](schedule/5/paragraph/6.md)
-  - [Sch. 5 para. 7 Search of premises on suspicion of absconding](schedule/5/paragraph/7.md)
-  - [Sch. 5 para. 8 Search for compliance purposes](schedule/5/paragraph/8.md)
-  - [Sch. 5 para. 9 Search for compliance purposes](schedule/5/paragraph/9.md)
-  - [Sch. 5 para. 10 Search of individual for public safety purposes](schedule/5/paragraph/10.md)
-  - [Sch. 5 para. 11 Power to retain items](schedule/5/paragraph/11.md)
-  - [Sch. 5 para. 12 Power to retain items](schedule/5/paragraph/12.md)
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Entry and search for purposes of serving TPIM notice
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Search of individual or premises at time of serving TPIM notice
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Search of premises on suspicion of absconding
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Search for compliance purposes
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Search of individual for public safety purposes
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Power to retain items
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
 - SCHEDULE 6 Fingerprints and samples
-  - [Sch. 6 para. 1 Taking of fingerprints and samples: England, Wales and Northern Ireland](schedule/6/paragraph/1.md)
-  - [Sch. 6 para. 2 Taking of fingerprints and samples: England, Wales and Northern Ireland](schedule/6/paragraph/2.md)
-  - [Sch. 6 para. 3 Taking of fingerprints and samples: England, Wales and Northern Ireland](schedule/6/paragraph/3.md)
-  - [Sch. 6 para. 4 Taking of relevant physical data and samples: Scotland](schedule/6/paragraph/4.md)
-  - [Sch. 6 para. 5 Checking of fingerprints, samples etc](schedule/6/paragraph/5.md)
-  - [Sch. 6 para. 6 Requirement to destroy material](schedule/6/paragraph/6.md)
-  - [Sch. 6 para. 7 Requirement to destroy material](schedule/6/paragraph/7.md)
-  - [Sch. 6 para. 8 Retention of paragraph 6 material](schedule/6/paragraph/8.md)
-  - [Sch. 6 para. 9 Retention of paragraph 6 material](schedule/6/paragraph/9.md)
-  - [Sch. 6 para. 10 Retention of paragraph 6 material](schedule/6/paragraph/10.md)
-  - [Sch. 6 para. 11 Retention of paragraph 6 material](schedule/6/paragraph/11.md)
-  - [Sch. 6 para. 12 Requirement to destroy samples](schedule/6/paragraph/12.md)
-  - [Sch. 6 para. 13 Use of retained material](schedule/6/paragraph/13.md)
-  - [Sch. 6 para. 14 Interpretation](schedule/6/paragraph/14.md)
+  - Taking of fingerprints and samples: England, Wales and Northern Ireland
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Taking of relevant physical data and samples: Scotland
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Checking of fingerprints, samples etc
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Requirement to destroy material
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Retention of paragraph 6 material
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Requirement to destroy samples
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Use of retained material
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Interpretation
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
 - SCHEDULE 7 Minor and consequential amendments
   - Part 1 General
-    - [Sch. 7 para. 1 Senior Courts Act 1981](schedule/7/paragraph/1.md)
-    - [Sch. 7 para. 2 Police and Criminal Evidence Act 1984](schedule/7/paragraph/2.md)
-    - [Sch. 7 para. 3 Criminal Justice Act 1988](schedule/7/paragraph/3.md)
-    - [Sch. 7 para. 4 Regulation of Investigatory Powers Act 2000](schedule/7/paragraph/4.md)
-    - [Sch. 7 para. 5 Counter-Terrorism Act 2008](schedule/7/paragraph/5.md)
-    - [Sch. 7 para. 6 Crime and Security Act 2010](schedule/7/paragraph/6.md)
+    - Senior Courts Act 1981
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Criminal Justice Act 1988
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Counter-Terrorism Act 2008
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Crime and Security Act 2010
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
   - Part 2 Northern Ireland
-    - [Sch. 7 para. 7 Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))](schedule/7/paragraph/7.md)
+    - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
 - SCHEDULE 8 Transitional and saving provision
-  - [Sch. 8 para. 1 Saving of control orders during transitional period](schedule/8/paragraph/1.md)
-  - [Sch. 8 para. 2 Savings during and after transitional period](schedule/8/paragraph/2.md)
-  - [Sch. 8 para. 3 Savings etc for court proceedings](schedule/8/paragraph/3.md)
-  - [Sch. 8 para. 4 New powers not affected by previous control order](schedule/8/paragraph/4.md)
-  - [Sch. 8 para. 5 Last report on exercise of powers under PTA 2005](schedule/8/paragraph/5.md)
-  - [Sch. 8 para. 6 Last review of operation of PTA 2005](schedule/8/paragraph/6.md)
-  - [Sch. 8 para. 7 Savings of PTA 2005 not affected by expected expiry](schedule/8/paragraph/7.md)
-  - [Sch. 8 para. 8 First review of operation of Act](schedule/8/paragraph/8.md)
-  - [Sch. 8 para. 9 Interpretation](schedule/8/paragraph/9.md)
+  - Saving of control orders during transitional period
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Savings during and after transitional period
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Savings etc for court proceedings
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - New powers not affected by previous control order
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Last report on exercise of powers under PTA 2005
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Last review of operation of PTA 2005
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Savings of PTA 2005 not affected by expected expiry
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - First review of operation of Act
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Interpretation
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
