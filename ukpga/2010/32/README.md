@@ -2,9 +2,9 @@
 
 2010 c. 32. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2011-11-15, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2012-01-15, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/32/2011-11-15
+Source: https://www.legislation.gov.uk/ukpga/2010/32/2012-01-15
 
 ## Contents
 
@@ -21,6 +21,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/32/2011-11-15
 - Academies: other provisions
   - [s. 9 Impact: additional schools](section/9.md)
   - [s. 10 Consultation: additional schools](section/10.md)
+  - [s. 10A Charges at boarding Academies](section/10A.md)
   - [s. 11 Annual reports](section/11.md)
   - [s. 12 Charitable status of Academy proprietors etc](section/12.md)
   - [s. 13 Academies: land](section/13.md)
