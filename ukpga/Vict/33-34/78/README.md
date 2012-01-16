@@ -1,0 +1,110 @@
+# Tramways Act 1870
+
+1870 c. 78. Enacted 1870-08-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-01-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/33-34/78/2012-01-16
+
+## Contents
+
+- preliminary
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 Limitation of Act.](section/2.md)
+  - [s. 3 Interpretation of terms.](section/3.md)
+- Part I
+  - Provisional Orders authorizing the Construction of Tramways
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+- Part II
+  - Construction of Tramways
+    - [s. 22 As to incorporation of Parts II and III of this Act with Provisional Order and special Acts.](section/22.md)
+    - [s. 23 “Special Act.”](section/23.md)
+    - [s. 24 “Promoters.”](section/24.md)
+    - [s. 25 Mode of formation of tramways.](section/25.md)
+    - [s. 26 Power to break up streets, &c.](section/26.md)
+    - [s. 27 Completion of works and reinstatement of road.](section/27.md)
+    - [s. 28 Repair of part of road where tramway is laid.](section/28.md)
+    - [s. 29 Road authority and promoters may contract for paving roads on which tramways are laid.](section/29.md)
+    - [s. 30 Provision as to gas and water companies.](section/30.md)
+    - [s. 31 For protection of sewers, &c.](section/31.md)
+    - [s. 32 Rights of authorities and companies, &c. to open roads.](section/32.md)
+    - [s. 33 Difference between promoters and road authority, &c.](section/33.md)
+- Part III General Provisions
+  - Carriages
+    - [s. 34 Power for promoters to use tramways with flange-wheeled carriages, &c.](section/34.md)
+  - Licences to use Tramways
+    - [s. 35 Licences to use the tramway may in certain events be granted to third parties by the Board of Trade.](section/35.md)
+    - [s. 36 In default of payment of tolls licensee’s carriages may be detained and sold.](section/36.md)
+    - [s. 37 Licensees to give account of passengers carried by them.](section/37.md)
+    - [s. 38 Licensees not giving account of passengers carried liable to penalty.](section/38.md)
+    - [s. 39 Disputes as to amount of toll to be settled by justice.](section/39.md)
+    - [s. 40 Owners of carriages liable for damage done by their servants.](section/40.md)
+  - Discontinuance of Tramways
+    - [s. 41 ................................](section/41.md)
+  - Insolvency of Promoters
+    - [s. 42 ................................](section/42.md)
+  - Purchase of Tramways
+    - [s. 43 Future purchase of undertaking by local authority.](section/43.md)
+    - [s. 44 Power of sale.](section/44.md)
+  - Tolls
+    - [s. 45 Tolls, &c.](section/45.md)
+  - Byelaws
+    - [s. 46 Byelaws by local authority. Promoters may make certain regulations.](section/46.md)
+    - [s. 47 Penalties may be imposed in byelaws.](section/47.md)
+    - [s. 48 ................................](section/48.md)
+  - Offences
+    - [s. 49 Penalty for obstruction of promoters in laying out tramway.](section/49.md)
+    - [s. 50 Penalties for wilful injury or obstruction to tramways &c.](section/50.md)
+    - [s. 51 Penalty on passengers practising frauds on the promoters.](section/51.md)
+    - [s. 52 Transient offenders.](section/52.md)
+    - [s. 53 Penalty for bringing dangerous goods on the tramway.](section/53.md)
+    - [s. 54 Penalty for persons using tramways with carriages with flange wheels, &c.](section/54.md)
+  - Miscellaneous
+    - [s. 55 Promoters or lessees to be responsible for all damages.](section/55.md)
+    - [s. 56 Recovery of tolls, penalties, &c.](section/56.md)
+    - [s. 57 Right of user only.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 Reservation of rights of owners, &c. of mines.](section/59.md)
+    - [s. 60 Reserving powers of street authorities to widen, &c. roads.](section/60.md)
+    - [s. 61 Power for local authorities and police to regulate traffic in roads.](section/61.md)
+    - [s. 62 Reservation of right of public to use roads.](section/62.md)
+    - [s. 63 Regulating inquiries before referee appointed by the Board of Trade.](section/63.md)
+    - [s. 64 Rules for carrying Act into effect.](section/64.md)
+- SCHEDULE A
+  - Part I
+  - Part II
+  - Part III
+- SCHEDULE B
+  - Part I
+    - Advertisement in October or November of intended application
+  - Part II
+    - Deposit on or before 30th November
+  - Part III
+    - Deposit on or before 23rd December
+    - Short title of undertaking.
+    - Here advertisement to be set out verbatim.
+  - Part IV
+    - Deposit and advertisement of Provisional Order when made
+- SCHEDULE C
+  - Part I
+    - Notice and Deposit of Lease by Local Authority
+    - Deposit
+  - Part II
+    - Notice of Byelaws
