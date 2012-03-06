@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-03-05, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2012-03-06, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-03-05
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-03-06
 
 ## Contents
 
@@ -654,7 +654,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-03-05
   - Part 2 Tribunals in England and Wales
     - Introductory
       - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
-    - Jurisdiction
+    - Jurisdiction — England and Wales
       - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
     - Jurisdiction — Wales
       - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
