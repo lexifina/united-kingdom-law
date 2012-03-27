@@ -2,11 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-03-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
-
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2012-03-27
 
 ## Contents
 
@@ -104,7 +102,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - [s. 77 Requirements under section 75: undertakings](section/77.md)
     - [s. 78 Guidance](section/78.md)
     - [s. 79 Mergers involving NHS foundation trusts](section/79.md)
-    - [s. 80 Co-operation with the CMA](section/80.md)
+    - [s. 80 Co-operation with the Office of Fair Trading](section/80.md)
   - CHAPTER 3 Licensing
     - Licensing requirement
       - [s. 81 Requirement for health service providers to be licensed](section/81.md)
@@ -115,7 +113,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
       - [s. 85 Application for licence](section/85.md)
       - [s. 86 Licensing criteria](section/86.md)
       - [s. 87 Grant or refusal of licence](section/87.md)
-      - [s. 87A Application and grant: NHS trusts](section/87A.md)
       - [s. 88 Application and grant: NHS foundation trusts](section/88.md)
       - [s. 89 Revocation of licence](section/89.md)
       - [s. 90 Right to make representations](section/90.md)
@@ -125,12 +122,12 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - Licence conditions
       - [s. 94 Standard conditions](section/94.md)
       - [s. 95 Special conditions](section/95.md)
-      - [s. 96 Limits on NHS England’s functions to set or modify licence conditions](section/96.md)
+      - [s. 96 Limits on Monitor’s functions to set or modify licence conditions](section/96.md)
       - [s. 97 Conditions: supplementary](section/97.md)
       - [s. 98 Conditions relating to the continuation of the provision of services etc.](section/98.md)
       - [s. 99 Notification of commissioners where continuation of services at risk](section/99.md)
       - [s. 100 Modification of standard conditions](section/100.md)
-      - [s. 101 Modification references to the CMA](section/101.md)
+      - [s. 101 Modification references to the Competition Commission](section/101.md)
       - [s. 102 Modification of conditions by order under other enactments](section/102.md)
       - [s. 103 Standard condition as to transparency of certain criteria](section/103.md)
     - Enforcement
@@ -143,16 +140,10 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
       - [s. 110 Notification of enforcement action](section/110.md)
     - Transitional provision
       - [s. 111](section/111.md)
-      - [s. 112](section/112.md)
+      - [s. 112 Duration of transitional period](section/112.md)
       - [s. 113](section/113.md)
       - [s. 114](section/114.md)
-  - CHAPTER 4 The NHS payment scheme
-    - [s. 114A The NHS payment scheme](section/114A.md)
-    - [s. 114B The NHS payment scheme: enforcement](section/114B.md)
-    - [s. 114C The NHS payment scheme: impact assessment and consultation](section/114C.md)
-    - [s. 114D Objections to proposed NHS payment scheme](section/114D.md)
-    - [s. 114E Amendments of the NHS payment scheme](section/114E.md)
-    - [s. 114F Interpretation](section/114F.md)
+  - CHAPTER 4 Pricing
     - [s. 115 Price payable by commissioners for NHS services](section/115.md)
     - [s. 116 The national tariff](section/116.md)
     - [s. 117 The national tariff: further provision](section/117.md)
@@ -261,7 +252,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
       - [s. 195 Duty to encourage integrated working](section/195.md)
       - [s. 196 Other functions of Health and Wellbeing Boards](section/196.md)
     - Health and Wellbeing Boards: supplementary
-      - [s. 197 Participation of NHS England](section/197.md)
+      - [s. 197 Participation of NHS Commissioning Board](section/197.md)
       - [s. 198 Discharge of functions of Health and Wellbeing Boards](section/198.md)
       - [s. 199 Supply of information to Health and Wellbeing Boards](section/199.md)
     - Care Trusts
@@ -314,7 +305,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
   - Functions: quality standards
     - [s. 234 Quality standards](section/234.md)
     - [s. 235 Supply of quality standards to other persons](section/235.md)
-    - [s. 236 Advice or guidance to the Secretary of State or NHS England](section/236.md)
+    - [s. 236 Advice or guidance to the Secretary of State or the Board](section/236.md)
   - Functions: advice, guidance etc.
     - [s. 237 Advice, guidance, information and recommendations](section/237.md)
     - [s. 238 NICE recommendations: appeals](section/238.md)
@@ -333,28 +324,15 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - [s. 249 Consequential and transitional provision](section/249.md)
 - PART 9 Health and adult social care services: information
   - CHAPTER 1 Information standards
-    - Powers to publish standards
-      - [s. 250 Powers to publish information standards](section/250.md)
-      - [s. 250A Standards relating to information technology](section/250A.md)
-      - [s. 251 ... Procedure etc](section/251.md)
-    - Compliance with standards
-      - [s. 251ZA Monitoring compliance](section/251ZA.md)
-      - [s. 251ZB Notice requesting compliance by relevant IT providers](section/251ZB.md)
-      - [s. 251ZC Public censure of relevant IT providers](section/251ZC.md)
-      - [s. 251ZD Exercise of functions of Secretary of State by other persons](section/251ZD.md)
-    - Accreditation
-      - [s. 251ZE Accreditation of information technology etc](section/251ZE.md)
-  - CHAPTER 1A Continuity of Information
-    - [s. 251A Consistent identifiers](section/251A.md)
-    - [s. 251B Duty to share information](section/251B.md)
-    - [s. 251C Continuity of information: interpretation](section/251C.md)
-  - CHAPTER 2 NHS ENGLAND: HEALTH AND SOCIAL CARE INFORMATION ETC.
-    - ... General duties
+    - [s. 250 Powers to publish information standards](section/250.md)
+    - [s. 251 Information standards: supplementary](section/251.md)
+  - CHAPTER 2 The Health and Social Care Information Centre
+    - Establishment and general duties
       - [s. 252 The Health and Social Care Information Centre](section/252.md)
-      - [s. 253 NHS England data functions: general](section/253.md)
+      - [s. 253 General duties](section/253.md)
     - Functions: information systems
-      - [s. 254 Powers to direct NHS England to establish information systems](section/254.md)
-      - [s. 255 Powers to request NHS England to establish information systems](section/255.md)
+      - [s. 254 Powers to direct Information Centre to establish information systems](section/254.md)
+      - [s. 255 Powers to request Information Centre to establish information systems](section/255.md)
       - [s. 256 Requests for collection under section 255: confidential information](section/256.md)
       - [s. 257 Requests under section 255: supplementary](section/257.md)
       - [s. 258 Information systems: supplementary](section/258.md)
@@ -362,7 +340,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
       - [s. 260 Publication of information](section/260.md)
       - [s. 261 Other dissemination of information](section/261.md)
       - [s. 262 Other dissemination: directions and requests under sections 254 and 255](section/262.md)
-      - [s. 262A Publication and other dissemination: supplementary](section/262A.md)
       - [s. 263 Code of practice on confidential information](section/263.md)
       - [s. 264 Information Register](section/264.md)
       - [s. 265 Advice or guidance](section/265.md)
@@ -377,19 +354,10 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
       - [s. 272 Failure by Information Centre to discharge any of its functions](section/272.md)
       - [s. 273 Protection from personal liability](section/273.md)
     - General and supplementary
-      - [s. 274 Powers of Secretary of State or NHS England to give directions](section/274.md)
-      - [s. 274A Secretary of State’s guidance about NHS England data functions](section/274A.md)
+      - [s. 274 Powers of Secretary of State or Board to give directions](section/274.md)
       - [s. 275 Interpretation of this Chapter](section/275.md)
       - [s. 276 Dissolution of predecessor body](section/276.md)
       - [s. 277 Consequential provision](section/277.md)
-  - CHAPTER 3 Information about adult social care
-    - [s. 277A Provision of adult social care information to Secretary of State](section/277A.md)
-    - [s. 277B Restrictions on onward disclosure of information](section/277B.md)
-    - [s. 277C Directions to certain bodies to exercise functions under this Chapter](section/277C.md)
-    - [s. 277D Arrangements with third parties](section/277D.md)
-  - CHAPTER 4 Enforcement
-    - [s. 277E Enforcement of provisions under this Part](section/277E.md)
-    - [s. 277F Directions to Special Health Authority to exercise functions under section 277E](section/277F.md)
 - PART 10 Abolition of certain public bodies etc
   - [s. 278 The Alcohol Education and Research Council](section/278.md)
   - [s. 279 The Appointments Commission](section/279.md)
@@ -413,9 +381,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - [s. 293 Conduct of reviews etc.](section/293.md)
     - [s. 294 Failure to discharge functions](section/294.md)
   - Arrangements with devolved authorities etc.
-    - [s. 295 Arrangements between NHS England and Northern Ireland Ministers](section/295.md)
-    - [s. 296 Arrangements between NHS England and Scottish Ministers etc.](section/296.md)
-    - [s. 296A Arrangements between NHS England and devolved authorities in respect of education and training](section/296A.md)
+    - [s. 295 Arrangements between the Board and Northern Ireland Ministers](section/295.md)
+    - [s. 296 Arrangements between the Board and Scottish Ministers etc.](section/296.md)
     - [s. 297 Relationships between the health services](section/297.md)
     - [s. 298 Advice or assistance to public authorities in the Isle of Man or Channel Islands](section/298.md)
   - Supervised community treatment under the Mental Health Act 1983
@@ -423,7 +390,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
   - Transfer schemes
     - [s. 300 Transfer schemes](section/300.md)
     - [s. 301 Transfer schemes: supplemental](section/301.md)
-    - [s. 302 Transfer schemes in respect of previously transferred property](section/302.md)
+    - [s. 302 Subsequent property transfer schemes](section/302.md)
 - PART 12 Final provisions
   - [s. 303 Power to make consequential provision](section/303.md)
   - [s. 304 Regulations, orders and directions](section/304.md)
@@ -972,7 +939,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
   - Inaccurate, incomplete or misleading information
     - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
-- SCHEDULE 10 References by Monitor to the CMA
+- SCHEDULE 10 References by Monitor to the Competition Commission
   - Variation of reference
     - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
   - Monitor’s opinion of public interest etc.
@@ -987,13 +954,13 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
   - Changes following report
     - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
-  - CMA’s power to veto changes
+  - Competition Commission’s power to veto changes
     - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
   - Disclosure etc.
     - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
   - Powers of investigation
     - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
-- SCHEDULE 11 Further provision about NHS England’s enforcement powers
+- SCHEDULE 11 Further provision about Monitor’s enforcement powers
   - PART 1 Discretionary requirements
     - Procedure
       - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
@@ -1023,7 +990,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-10-01
     - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
   - Representations by objectors
     - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
-  - Functions of CMA in relation to reference
+  - Functions of Commission in relation to reference
     - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
   - Timetable for determination on reference
     - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
