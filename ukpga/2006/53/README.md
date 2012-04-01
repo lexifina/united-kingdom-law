@@ -1,0 +1,152 @@
+# Northern Ireland (St Andrews Agreement) Act 2006
+
+2006 c. 53. Enacted 2006-11-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/53
+
+Source: https://www.legislation.gov.uk/ukpga/2006/53/2012-04-01
+
+## Contents
+
+- Part 1 Preparations for restoration of devolved government
+  - [s. 1 Preparations for restoration of devolved government](section/1.md)
+  - [s. 2 Compliance or non-compliance with St Andrews Agreement timetable](section/2.md)
+  - [s. 3 Next Northern Ireland Assembly election to be in March 2007 etc](section/3.md)
+  - [s. 4 Remuneration of members of the Northern Ireland Assembly](section/4.md)
+- Part 2 Amendments of the Northern Ireland Act 1998 etc
+  - Ministerial conduct
+    - [s. 5 The Executive Committee and the Ministerial Code](section/5.md)
+    - [s. 6 Power to refer Ministerial decision to Executive Committee](section/6.md)
+    - [s. 7 Pledge of office](section/7.md)
+  - Ministerial appointments
+    - [s. 8 First Minister, deputy First Minister and Northern Ireland Ministers](section/8.md)
+    - [s. 9 Department with policing and justice functions: nomination etc of Ministers](section/9.md)
+  - Committees
+    - [s. 10 Statutory committee for Office of First Minister and deputy First Minister](section/10.md)
+    - [s. 11 Committee to review functioning of Assembly and Executive Committee](section/11.md)
+  - NSMC and BIC
+    - [s. 12 North-South Ministerial Council and British-Irish Council](section/12.md)
+  - Miscellaneous
+    - [s. 13 Community designation](section/13.md)
+    - [s. 14 Power of Executive Committee to call for witnesses and documents](section/14.md)
+    - [s. 15 Strategies relating to Irish language and Ulster Scots language etc](section/15.md)
+    - [s. 16 Strategy relating to poverty, social exclusion etc](section/16.md)
+    - [s. 17 Vacancy in the Assembly](section/17.md)
+    - [s. 18 Report on progress towards devolution of policing and justice matters](section/18.md)
+    - [s. 19 Minor and consequential amendments](section/19.md)
+- Part 3 Other amendments
+  - Policing
+    - [s. 20 District policing partnerships](section/20.md)
+  - Education
+    - [s. 21 Amendment of Education (Northern Ireland) Order 2006 etc](section/21.md)
+- Part 4 Supplemental
+  - [s. 22 Repeal of the 2006 Act](section/22.md)
+  - [s. 23 Power to make consequential provision etc](section/23.md)
+  - [s. 24 Parliamentary procedure for orders under section 23](section/24.md)
+  - [s. 25 Interpretation](section/25.md)
+  - [s. 26 Extent](section/26.md)
+  - [s. 27 Commencement](section/27.md)
+  - [s. 28 Short title](section/28.md)
+- SCHEDULE 1
+  - Meetings
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Proceedings
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Nominations for First Minister and deputy First Minister
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Draft Ministerial Code
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Draft standing orders for Northern Ireland Assembly
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Presiding officer
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Staff etc
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Privilege
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Standing orders
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Members to be deemed to have signed roll of membership etc
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Meaning of “cross-community support”
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Restoration of devolved government on 26 March 2007
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The Ministerial offices
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Presiding Officer and deputy Presiding Officer
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Restoration order: supplementary provisions
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Modification of section 29(3) of the 1998 Act and paragraph 7(7) of Schedule 1 to the Police (Northern Ireland) Act 2000
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Repeal of certain provisions of this Act on 26 March 2007
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3
+- SCHEDULE 4 Repeal of the Northern Ireland Act 2000 on 28 March 2007
+  - Repeal of the 2000 Act on 28 March 2007
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Repeal of the 2000 Act: supplementary provisions
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Repeal of Schedule 3 to this Act on 28 March 2007
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Executive selection: consequential amendments
+  - Northern Ireland Act 1998 (c. 47)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Northern Ireland Act 2000 (c. 1)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Department with policing and justice functions: nomination etc of Ministers
+  - Introduction
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Department in the charge of Minister approved by resolution of Assembly
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Department in the charge of two Ministers
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Department with rotation between Minister and junior Minister
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Minor and consequential amendments relating to Part 2
+  - Northern Ireland Act 1998 (c. 47)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Northern Ireland Act 2000 (c. 1)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Reconstitution of district policing partnerships
+  - Introduction
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Report on whether DPPs meet the political condition
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Appointment of political members of DPPs which do not meet the political condition
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Appointment of independent members of DPPs which do not meet the political condition
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Supplementary provisions
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 District policing partnerships: Belfast sub-groups
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Effect of local government election on membership of sub-group
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Removal of members of sub-group from office
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Chairman and vice-chairman of sub-group
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
