@@ -1,0 +1,244 @@
+# Finance Act 1974
+
+1974 c. 30. Enacted 1974-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1974/30/2012-04-01
+
+## Contents
+
+- PART I CUSTOMS AND EXCISE AND VALUE ADDED TAX
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 Increase of certain duties on betting.](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+- PART II INCOME TAX, CORPORATION TAX AND CAPITAL GAINS TAX (GENERAL)
+  - [s. 716 ................................](section/716.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 1820 ................................](section/1820.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 2223. ................................](section/2223.md)
+  - [s. 24 Returns of persons treated as employees.](section/24.md)
+  - [s. 2528 ................................](section/2528.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 3133 ................................](section/3133.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 3637. ................................](section/3637.md)
+- PART III CAPITAL GAINS FROM LAND
+  - CHAPTER I DEVELOPMENT GAINS FROM LAND
+    - [s. 38 Certain development gains from land to be taxed as income.](section/38.md)
+    - [s. 39 Exemption or relief for small disposals.](section/39.md)
+    - [s. 40 Development losses.](section/40.md)
+    - [s. 41 Disposals of interests in land effected indirectly.](section/41.md)
+    - [s. 42 Disposals of interests in settled property.](section/42.md)
+    - [s. 43 Special rates of charge for development gains accruing to trustees, personal representatives or unit trust schemes.](section/43.md)
+    - [s. 44 Supplementary](section/44.md)
+  - CHAPTER II FIRST LETTING OR OCCUPATION OF BUILDING AFTER MATERIAL DEVELOPMENT
+    - [s. 45 Charge to tax: first letting or occupation of building after material development.](section/45.md)
+    - [s. 46 Interpretation, etc.](section/46.md)
+  - CHAPTER III OTHER PROVISIONS ABOUT CAPITAL GAINS FROM LAND
+    - [s. 47 Matters arising out of Chapters I and II of this Part.](section/47.md)
+    - [s. 48 ................................](section/48.md)
+- PART IV MISCELLANEOUS AND GENERAL
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 Vehicle excise duty-disabled persons.](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 Grants towards duty charged on bus fuel.](section/54.md)
+  - [s. 55 Power to authorise amendment of taxi fare byelaws.](section/55.md)
+  - [s. 56 Trustee savings banks—special investments.](section/56.md)
+  - [s. 57 Citation, interpretation, construction and repeals.](section/57.md)
+- SCHEDULES 1, 2 ................................
+- SCHEDULE 3 PROVISIONS SUPPLEMENTARY TO SECTION 38
+  - PART I DEFINITIONS OF CURRENT USE VALUE, MATERIAL DEVELOPMENT, ETC.
+    - Definition of current use value
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Current use value—part disposals
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Current use value—leases and reversions
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Definition of material development
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Date when material development is begun
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Interpretation
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - PART II OTHER PROVISIONS SUPPLEMENTARY TO SECTION 38
+    - Computation of development gain in respect of disposal of interest in land after material development has been carried out
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Computation of development gain in respect of disposal of interest in land reflecting expenditure on enhancement
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Provisions supplementary to paragraphs 11 and 12
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Computation of amount given by subsection (3)(c) of principal section in certain cases within [paragraph 9(4) of Schedule 5 to the Capital Gains Tax Act 1979 ]
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Computation of development gains in connection with replacements of business assets
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Replacement of business assets
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Replacement of business assets: depreciating assets
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Company amalgamations
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Private residences
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Transfer of business on retirement
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Insurance companies
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Chargeable gains in respect of mineral royalties
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Computation of development gain in respect of disposal of interest in land with planning permission for the winning and working of minerals
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 TRANSITIONAL PROVISIONS RELATING TO DEVELOPMENT GAINS
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Replacement of business assets
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Conditional contracts entered into before 18th December 1973
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Disposals under arrangements made before 18th December 1973
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Disposal to authority exercising compulsory powers where notice to treat was served before 18th December 1973
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5
+- SCHEDULE 6 DEVELOPMENT LOSSES
+  - Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Losses accruing to persons not resident or ordinarily resident in the United Kingdom
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Modification of sections 176 and 179 of the Taxes Act (Case VI losses) in relation to development losses
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Computation of development loss in cases where paragraph 11 or 12 of Schedule 3 would apply in computing a development gain
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Computation of amount given by subsection (4) of principal section in certain cases within [paragraph 9(4) of Schedule 5 to the Capital Gains Tax Act 1979 ]
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Private residences
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Set-off of development losses
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Insurance companies
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 TREATMENT OF DEVELOPMENT GAINS UNDER THE TAX ACTS
+  - Individuals
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Companies: general
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Close companies
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Insurance companies
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Discretionary trusts
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Estates of deceased persons in course of administration
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Settlements on children
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 ADAPTATIONS AND AMENDMENTS OF PROVISIONS RELATING TO THE TAXATION OF CAPITAL GAINS
+  - Persons chargeable to tax in respect of development gains
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Development gains accruing to non-resident companies and trusts
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Development gains accruing in connection with replacement of business assets
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Development gains accruing in connection with company amalgamations
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Transfer of business to a company
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 SUPPLEMENTARY PROVISIONS ABOUT DEEMED DISPOSALS UNDER SECTION 45
+  - Interpretation
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - The interest of a relevant person
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Interests other than that of a relevant person
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Provisions supplementary to paragraph 3
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Exemption for interest in land occupied on the material date in right of that interest
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Exemption for interest in land disposed of after the material date
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Exemption by reference to occupation within three years of the material date of land then intended to be occupied
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Exemption for interests in land subject on 18th December 1973 to certain leases or agreements for a lease
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Groups of companies
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Tied premises
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Power to make assessments etc. in connection with certain deemed disposals
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Postponement of payment of tax
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Consideration for deemed disposal to be disregarded in certain circumstances in computing capital gain
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Deemed disposals in cases involving the grant of a lease for a premium
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+- SCHEDULE 10 MATTERS ARISING OUT OF CHAPTERS I AND II OF PART III OF THIS ACT
+  - Recovery of tax from persons not primarily liable
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Postponement of payment of tax
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Returns by relevant persons
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Information
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Amendments of the Taxes Management Act 1970
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11
+  - PART I PROVISIONS HAVING EFFECT IN GREAT BRITAIN
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2 ................................](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 34 ................................](schedule/11/paragraph/34.md)
+    - [Sch. 11 para. 5 ................................](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 68 ................................](schedule/11/paragraph/68.md)
+    - Duplicates and counterparts
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Lease or tack
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - PART II PROVISIONS HAVING EFFECT IN NORTHERN IRELAND
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12 ................................](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 1314 ................................](schedule/11/paragraph/1314.md)
+    - [Sch. 11 para. 15 ................................](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16 ................................](schedule/11/paragraph/16.md)
+    - Duplicates and counterparts
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Lease or tack
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - PART III
+    - [Sch. 11 para. 2023. ................................](schedule/11/paragraph/2023.md)
+- SCHEDULE 12 SUBSTITUTION OF “LOCAL AUTHORITY” AS DEFINED IN SECTION 52
+  - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - [Sch. 12 para. 712](schedule/12/paragraph/712.md)
+- SCHEDULE 13
+- SCHEDULE 14 ENACTMENTS REPEALED
+  - PART I INTEREST
+  - PART II SHARE OPTION AND SHARE INCENTIVE SCHEMES
+  - Part III Stamp Duty Repeals Having Effect from 1st May 1974
+  - Part IV Stamp Duty Repeals having effect from 1st August 1974
+  - Regional Employment Premiums
+  - PART V
+  - PART VI MISCELLANEOUS
+  - PART VII SPENT ENACTMENTS
