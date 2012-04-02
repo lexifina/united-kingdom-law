@@ -1,0 +1,123 @@
+# Education (Scotland) Act 1981
+
+1981 c. 58. Enacted 1981-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-04-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1981/58/2012-04-02
+
+## Contents
+
+- Placing in schools
+  - [s. 1 Duty of education authority to comply with parents’ requests as to schools.](section/1.md)
+  - [s. 2 Provisions supplementary to section 1.](section/2.md)
+- Special educational needs
+  - [s. 3 Special educational needs.](section/3.md)
+  - [s. 4 Children and young persons with certain special educational needs.](section/4.md)
+- Assisted places scheme
+  - [s. 5 Assisted places at grant-aided and independent schools.](section/5.md)
+- Miscellaneous
+  - [s. 6 Consultation on, and consent for, changes in certain educational matters.](section/6.md)
+  - [s. 7 Removal of certain controls in connection with denominational schools.](section/7.md)
+  - [s. 8 Restriction and abolition of educational schemes.](section/8.md)
+  - [s. 9 Registration of independent schools: former grant-aided schools.](section/9.md)
+  - [s. 10 Registration of independent schools: offences.](section/10.md)
+  - [s. 11 Constitution of Independent Schools Tribunals.](section/11.md)
+  - [s. 12 Education in social work establishments.](section/12.md)
+  - [s. 13 Provision relating to Examination Board.](section/13.md)
+  - [s. 14 Remuneration of teaching staff.](section/14.md)
+  - [s. 15 Educational endowments.](section/15.md)
+  - [s. 16 Inspection of religious instruction.](section/16.md)
+  - [s. 17 Extension of power to make conditions as to qualifications for admission to teacher training courses and for recommendations for registration.](section/17.md)
+  - [s. 18 Transfer to University Courts of certain Universities of power to appoint Principals.](section/18.md)
+  - [s. 19 Expenses.](section/19.md)
+  - [s. 20 Meaning of “principal Act”.](section/20.md)
+  - [s. 21 Amendment of enactments, transitional provisions and repeals.](section/21.md)
+  - [s. 22 Short title, commencement and extent.](section/22.md)
+- SCHEDULE 1 (to be Inserted in the Principal Act as Schedule A1)
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Amendments of the Education (Scotland) Act 1980
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part I Special educational needs
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part II Recording of children and young persons
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 ( (to be Inserted in the Principal Act as Schedule A2)
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 ( be Inserted in the Princiapal Act as Schedule 1A)
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 (to be Inserted in the Principal Act as Schedule 1B)
+  - Procedure
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - General powers
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Recovery of expenditure
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Educational Endowments
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+- SCHEDULE 7 Minor and Consequential Amendments
+  - The Teaching Council (Scotland) Act 1965
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Education (Scotland) Act 1980
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Transitional Provisions
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 Repeals
