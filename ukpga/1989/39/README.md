@@ -1,0 +1,242 @@
+# Self-Governing Schools etc. (Scotland) Act 1989
+
+1989 c. 39. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-04-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1989/39/2012-04-02
+
+## Contents
+
+- Part I Self-Governing Schools
+  - Duty to maintain self-governing schools
+    - [s. 1 Duty of Secretary of State to maintain self-governing schools.](section/1.md)
+  - Government
+    - [s. 2 Scheme of government.](section/2.md)
+    - [s. 3 The board of management and the articles of constitution.](section/3.md)
+    - [s. 4 Members’ tenure of office.](section/4.md)
+    - [s. 5 Qualification for and disqualification from membership of a board of management.](section/5.md)
+    - [s. 6 Proceedings of board of management.](section/6.md)
+    - [s. 7 Powers and duties of board of management.](section/7.md)
+    - [s. 8 Execution of documents.](section/8.md)
+    - [s. 9 Reports and parents’ meetings.](section/9.md)
+  - Parental rights et ceteralaetc.
+    - [s. 10 Rights of parents in relation to individual pupils.](section/10.md)
+  - Fees, charges, books, et ceteralaetc.
+    - [s. 11 Fees, charges, books etc.](section/11.md)
+  - Management of denominational schools
+    - [s. 12 Management of denominational schools.](section/12.md)
+  - Procedure for acquisition of self-governing status et ceteralaetc.
+    - [s. 13 Initiation of procedure for acquisition of self-governing status.](section/13.md)
+    - [s. 14 Ballot of parents on question of acquisition of self-governing status.](section/14.md)
+    - [s. 15 Fresh ballot.](section/15.md)
+    - [s. 16 Proposals for acquisition of self-governing status.](section/16.md)
+    - [s. 17 Ballot expenses.](section/17.md)
+    - [s. 18 Further provision as regards proposals under section 16.](section/18.md)
+    - [s. 19 Rejection or approval of proposals.](section/19.md)
+    - [s. 20 Transition to self-governing status.](section/20.md)
+  - Proposals under sections 22A to 22D of 1980 Act where procedure for acquisition of self-governing status initiated
+    - [s. 21 Effect of pending procedure for acquisition of self-governing status on proposals for alteration etc. of schools.](section/21.md)
+  - Staff
+    - [s. 22 Transfer of staff to self-governing schools.](section/22.md)
+    - [s. 23 Further provision as regards teachers in self-governing schools.](section/23.md)
+    - [s. 24 Effect of pending procedure for acquisition of self-governing status on appointment etc. of staff.](section/24.md)
+  - Benefits and services for pupils
+    - [s. 25 Provision of benefits and services for pupils by education authorities.](section/25.md)
+  - Finance
+    - [s. 26 Recurrent grant, capital grants and special purpose grants.](section/26.md)
+    - [s. 27 Recurrent grant in respect of provision for special educational needs.](section/27.md)
+    - [s. 28 Recovery of sums in respect of recurrent grant.](section/28.md)
+    - [s. 29 Extension of, and recovery for education etc. provided under, section 23 of 1980 Act.](section/29.md)
+  - Change in characteristics, discontinuance et ceteralaetc.
+    - [s. 30 Change in characteristics of self-governing school.](section/30.md)
+    - [s. 31 Discontinuance by board of management.](section/31.md)
+    - [s. 32 Compensation in respect of denominational schools.](section/32.md)
+  - Withdrawal of grant
+    - [s. 33 Withdrawal of grant by Secretary of State.](section/33.md)
+  - Miscellaneous
+    - [s. 34 Administrative, professional, technical or other services.](section/34.md)
+    - [s. 35 Functions of school board: application of certain provisions of 1988 Act.](section/35.md)
+  - Property
+    - [s. 36 Transfer of land, moveable property and obligations to board of management.](section/36.md)
+    - [s. 37 Disposal of land by board of management.](section/37.md)
+    - [s. 38 Commissioners for school assets.](section/38.md)
+    - [s. 39 Certificates in respect of land, moveable property etc.](section/39.md)
+    - [s. 40 Transfer of property where no certificate issued.](section/40.md)
+    - [s. 41 Disposal of land or moveable property by education authority prior to incorporation date.](section/41.md)
+    - [s. 42 Reduction of disposals of property by education authority.](section/42.md)
+    - [s. 43 Prevention of disposals of property by education authority.](section/43.md)
+    - [s. 44 Repudiation of agreements made in contravention of section 43.](section/44.md)
+    - [s. 45 Reduction or setting aside of disposals made in contravention of section 43.](section/45.md)
+    - [s. 46 Commissioner for school assets’ right of action for contravention of section 43.](section/46.md)
+    - [s. 47 Removal of property from school by education authority.](section/47.md)
+  - Provision of information
+    - [s. 48 Duty of education authority to provide information.](section/48.md)
+  - Educational endowments
+    - [s. 49 Educational endowments.](section/49.md)
+  - Winding up
+    - [s. 50 Winding up orders.](section/50.md)
+    - [s. 51 Disposal of property on winding up.](section/51.md)
+    - [s. 52 Transfer of school for establishment of new school.](section/52.md)
+    - [s. 53 Disposal of surplus money on winding up.](section/53.md)
+- Part II Further Education
+  - College Councils
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Supply of goods and services
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+  - Discontinuance of college of further education
+    - [s. 64 ................................](section/64.md)
+  - Formation of companies to manage colleges of further education
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 ................................](section/66.md)
+  - Pay and conditions of service
+    - [s. 67 Abolition of committee to consider pay and conditions of teaching staff employed in providing further education.](section/67.md)
+- Part III Miscellaneous and General
+  - Miscellaneous
+    - [s. 68 Technology academies.](section/68.md)
+    - [s. 69 Testing in primary schools.](section/69.md)
+    - [s. 70 Appraisal of teachers.](section/70.md)
+    - [s. 71 Placing of recorded and other children and young persons in schools outwith Scotland etc.](section/71.md)
+    - [s. 72 Further amendment of 1980 Act in respect of recorded children.](section/72.md)
+    - [s. 73 Educational services: extension of power of Secretary of State to make grants.](section/73.md)
+    - [s. 74 Appointment of teachers.](section/74.md)
+    - [s. 75 Dismissal of teachers.](section/75.md)
+    - [s. 76 Remuneration of certain persons employed in providing school education.](section/76.md)
+    - [s. 77 Extensions of functions of Commission for Local Authority Accounts in Scotland.](section/77.md)
+  - General
+    - [s. 78 Orders and regulations.](section/78.md)
+    - [s. 79 Expenses.](section/79.md)
+    - [s. 80 Interpretation.](section/80.md)
+    - [s. 81 Commencement.](section/81.md)
+    - [s. 82 Minor and consequential amendments and repeals.](section/82.md)
+    - [s. 83 Citation and extent.](section/83.md)
+- SCHEDULE 1 The Scheme of Government
+  - Part I Articles of Constitution
+    - Denominational schools
+      - [Sch. 1 Pt. I heading denominational-schools para. 1](schedule/1/part/I/crossheading/denominational-schools/paragraph/1.md)
+    - Initial provision as regards membership
+      - [Sch. 1 Pt. I heading initial-provision-as-regards-membership para. 2](schedule/1/part/I/crossheading/initial-provision-as-regards-membership/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Parental majority
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Eligibility
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Resignation and removal
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Proceedings
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Allowances to members
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Saving
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part II Articles of Management
+    - [Sch. 1 Pt. II para. 1](schedule/1/part/II/paragraph/1.md)
+    - [Sch. 1 Pt. II para. 2](schedule/1/part/II/paragraph/2.md)
+- SCHEDULE 2 Rights of Parents in Relation to Individual Pupils
+  - General principle
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Specific Duties
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Appeals
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Application to young persons
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Provision of Benefits and Services for Pupils at Self-Governing Schools etc.
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 7 Arrangements in Respect of Ballot of Parents Regarding Change in Characteristics of Self-Governing School
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Transfer and Apportionment of Assets
+  - Identification of land, moveable property, liabilities and obligations
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Transfer certificates
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Reference of disputes to Secretary of State
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Right to production of documents of title
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Construction of agreements
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Third parties affected by vesting provisions
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Delivery of documents to board of management
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Commissioners for School Assets
+  - Appointment
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Resignation and dismissal
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Powers
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Status
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Minor and Consequential Amendments
+  - The Universities (Scotland) Act 1889 (c. 55)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - The Teaching Council (Scotland) Act 1965 (c. 19)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - The Local Authorities (Goods and Services) Act 1970 (c. 39)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - The Tribunals and Inquiries Act 1971 (c. 62)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - The Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - The Race Relations Act 1976 (c. 74)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - The Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - The Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - The Representation of the People Act 1983 (c. 2)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - The School Boards (Scotland) Act 1988 (c. 47)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 11 Repeals
