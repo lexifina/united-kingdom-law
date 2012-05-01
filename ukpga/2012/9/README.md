@@ -2,11 +2,9 @@
 
 2012 c. 9. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-05-01, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
-
-Source: https://www.legislation.gov.uk/ukpga/2012/9/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2012/9/2012-05-01
 
 ## Contents
 
@@ -143,7 +141,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/9/2026-09-30
       - [s. 89 Orders under section 88](section/89.md)
       - [s. 90 Transfer schemes in connection with orders under section 88](section/90.md)
       - [s. 91 Tax in connection with transfer schemes](section/91.md)
-  - CHAPTER 4 Disregarding certain convictions for buggery etc.: England and Wales
+  - CHAPTER 4 Disregarding certain convictions for buggery etc.
     - General
       - [s. 92 Power of Secretary of State to disregard convictions or cautions](section/92.md)
       - [s. 93 Applications to the Secretary of State](section/93.md)
@@ -157,20 +155,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/9/2026-09-30
       - [s. 99 Appeal against refusal to disregard convictions or cautions](section/99.md)
       - [s. 100 Advisers](section/100.md)
       - [s. 101 Interpretation: Chapter 4](section/101.md)
-  - CHAPTER 5 Disregarding certain convictions for buggery etc: Northern Ireland
-    - General
-      - [s. 101A Power of Department of Justice to disregard certain convictions or cautions](section/101A.md)
-      - [s. 101B Applications to the Department of Justice](section/101B.md)
-      - [s. 101C Procedure for decisions by the Department of Justice](section/101C.md)
-    - Effect of disregard
-      - [s. 101D Effect of disregard on police and other records](section/101D.md)
-      - [s. 101E Effect of disregard for disclosure and other purposes](section/101E.md)
-      - [s. 101F Saving for Royal pardons etc](section/101F.md)
-      - [s. 101G Section 101E: supplementary](section/101G.md)
-    - Appeals and other supplementary provision
-      - [s. 101H Appeal against refusal to disregard convictions or caution](section/101H.md)
-      - [s. 101I Advisers](section/101I.md)
-      - [s. 101J Interpretation: Chapter 5](section/101J.md)
 - Part 6 Freedom of information and data protection
   - Publication of certain datasets
     - [s. 102 Release and publication of datasets held by public authorities](section/102.md)
