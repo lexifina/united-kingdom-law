@@ -2,9 +2,9 @@
 
 2012 c. 11. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-05-01, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/11/2018-04-01
+Source: https://www.legislation.gov.uk/ukpga/2012/11/2012-05-01
 
 ## Contents
 
@@ -29,7 +29,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/11/2018-04-01
     - [s. 14 Time limit for human rights actions against Scottish Ministers etc](section/14.md)
     - [s. 15 Power to vary retrospective decisions about non-legislative acts](section/15.md)
   - Executive competence
-    - [s. 16 Trust member for Scotland](section/16.md)
+    - [s. 16 BBC Trust member for Scotland](section/16.md)
     - [s. 17 Exercise of functions relating to Seirbheis nam Meadhanan Gàidhlig](section/17.md)
     - [s. 18 Crown Estate Commissioner with special responsibility for Scotland](section/18.md)
     - [s. 19 Misuse of drugs](section/19.md)
