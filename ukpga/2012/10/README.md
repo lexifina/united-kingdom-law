@@ -2,11 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-05-01, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 57 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
-
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2012-05-01
 
 ## Contents
 
@@ -79,7 +77,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
   - Referral fees
     - [s. 56 Rules against referral fees](section/56.md)
     - [s. 57 Effect of rules against referral fees](section/57.md)
-    - [s. 58 Regulation by FCA](section/58.md)
+    - [s. 58 Regulation by FSA](section/58.md)
     - [s. 59 Regulators and regulated persons](section/59.md)
     - [s. 60 Referral fees: regulations](section/60.md)
   - Pro bono representation
@@ -215,8 +213,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
   - Part 1 Services
     - Care, supervision and protection of children
       - [Sch. 1 Pt. 1 heading care-supervision-and-protection-of-children para. 1](schedule/1/part/1/crossheading/care-supervision-and-protection-of-children/paragraph/1.md)
-    - Special Guardianship
-      - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
     - Special educational needs
       - [Sch. 1 Pt. 1 heading special-educational-needs para. 2](schedule/1/part/1/crossheading/special-educational-needs/paragraph/2.md)
     - Abuse of child or vulnerable adult
@@ -231,15 +227,14 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
       - [Sch. 1 Pt. 1 heading facilities-for-disabled-persons para. 7](schedule/1/part/1/crossheading/facilities-for-disabled-persons/paragraph/7.md)
     - Appeals relating to welfare benefits
       - [Sch. 1 Pt. 1 heading appeals-relating-to-welfare-benefits para. 8](schedule/1/part/1/crossheading/appeals-relating-to-welfare-benefits/paragraph/8.md)
-    - Appeals relating to council tax reduction schemes
       - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
     - Inherent jurisdiction of High Court in relation to children and vulnerable adults
       - [Sch. 1 Pt. 1 heading inherent-jurisdiction-of-high-court-in-relation-to-children-and-vulnerable-adults para. 9](schedule/1/part/1/crossheading/inherent-jurisdiction-of-high-court-in-relation-to-children-and-vulnerable-adults/paragraph/9.md)
     - Unlawful removal of children
       - [Sch. 1 Pt. 1 heading unlawful-removal-of-children para. 10](schedule/1/part/1/crossheading/unlawful-removal-of-children/paragraph/10.md)
-    - Family homes and domestic abuse
+    - Family homes and domestic violence
       - [Sch. 1 Pt. 1 heading family-homes-and-domestic-violence para. 11](schedule/1/part/1/crossheading/family-homes-and-domestic-violence/paragraph/11.md)
-    - Victims of domestic abuse and family matters
+    - Victims of domestic violence and family matters
       - [Sch. 1 Pt. 1 heading victims-of-domestic-violence-and-family-matters para. 12](schedule/1/part/1/crossheading/victims-of-domestic-violence-and-family-matters/paragraph/12.md)
     - Protection of children and family matters
       - [Sch. 1 Pt. 1 heading protection-of-children-and-family-matters para. 13](schedule/1/part/1/crossheading/protection-of-children-and-family-matters/paragraph/13.md)
@@ -247,13 +242,11 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
       - [Sch. 1 Pt. 1 heading mediation-in-family-disputes para. 14](schedule/1/part/1/crossheading/mediation-in-family-disputes/paragraph/14.md)
     - Children who are parties to family proceedings
       - [Sch. 1 Pt. 1 heading children-who-are-parties-to-family-proceedings para. 15](schedule/1/part/1/crossheading/children-who-are-parties-to-family-proceedings/paragraph/15.md)
-    - Female genital mutilation protection orders
-      - [Sch. 1 para. 15A](schedule/1/paragraph/15A.md)
     - Forced marriage
       - [Sch. 1 Pt. 1 heading forced-marriage para. 16](schedule/1/part/1/crossheading/forced-marriage/paragraph/16.md)
-    - Transitional EU arrangements and international agreements concerning children
+    - EU and international agreements concerning children
       - [Sch. 1 Pt. 1 heading eu-and-international-agreements-concerning-children para. 17](schedule/1/part/1/crossheading/eu-and-international-agreements-concerning-children/paragraph/17.md)
-    - Transitional EU arrangements and international agreements concerning maintenance
+    - EU and international agreements concerning maintenance
       - [Sch. 1 Pt. 1 heading eu-and-international-agreements-concerning-maintenance para. 18](schedule/1/part/1/crossheading/eu-and-international-agreements-concerning-maintenance/paragraph/18.md)
     - Judicial review
       - [Sch. 1 Pt. 1 heading judicial-review para. 19](schedule/1/part/1/crossheading/judicial-review/paragraph/19.md)
@@ -273,33 +266,27 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
       - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
     - Immigration: residence etc restrictions
       - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
-    - Immigration: victims of domestic abuse, leave to enter and indefinite leave to remain
+    - Immigration: victims of domestic violence and indefinite leave to remain
       - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
-    - Immigration: victims of domestic abuse and residence cards
+    - Immigration: victims of domestic violence and residence cards
       - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
     - Immigration: rights to enter and remain
       - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
     - Immigration: accommodation for asylum-seekers etc
       - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
-    - Immigration, citizenship and nationality: separated children
-      - [Sch. 1 para. 31A](schedule/1/paragraph/31A.md)
     - Victims of trafficking in human beings
       - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
-    - Victims of slavery, servitude or forced or compulsory labour
-      - [Sch. 1 para. 32A](schedule/1/paragraph/32A.md)
     - Loss of home
       - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
     - Homelessness
       - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
     - Risk to health or safety in rented home
       - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
-    - Respect orders
-      - [Sch. 1 para. 35A](schedule/1/paragraph/35A.md)
-    - Anti-social behaviour: youth injunctions and housing injunctions
+    - Anti-social behaviour
       - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
     - Protection from harassment
       - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
-    - Gang-related violence and drug-dealing activity
+    - Gang-related violence
       - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
     - Sexual offences
       - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
@@ -315,10 +302,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
       - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
     - Terrorism prevention and investigation measures etc
       - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
-    - Extension of time for retention of travel documents
-      - [Sch. 1 para. 45A](schedule/1/paragraph/45A.md)
-    - Foreign power threat activity prevention and investigation measures
-      - [Sch. 1 para. 45B](schedule/1/paragraph/45B.md)
     - Connected matters
       - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
   - Part 2 Excluded services
@@ -347,7 +330,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 3](schedule/1/part/3/crossheading/exceptions-courts/paragraph/3.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 4](schedule/1/part/3/crossheading/exceptions-courts/paragraph/4.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 5](schedule/1/part/3/crossheading/exceptions-courts/paragraph/5.md)
-      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 6](schedule/1/part/3/crossheading/exceptions-courts/paragraph/6.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 7](schedule/1/part/3/crossheading/exceptions-courts/paragraph/7.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 8](schedule/1/part/3/crossheading/exceptions-courts/paragraph/8.md)
@@ -367,7 +349,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2026-10-26
     - Other exceptions
       - [Sch. 1 Pt. 3 heading other-exceptions para. 21](schedule/1/part/3/crossheading/other-exceptions/paragraph/21.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 22](schedule/1/part/3/crossheading/other-exceptions/paragraph/22.md)
-      - [Sch. 1 para. 22A](schedule/1/paragraph/22A.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 23](schedule/1/part/3/crossheading/other-exceptions/paragraph/23.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 24](schedule/1/part/3/crossheading/other-exceptions/paragraph/24.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 25](schedule/1/part/3/crossheading/other-exceptions/paragraph/25.md)
