@@ -2,9 +2,9 @@
 
 2010 c. 29. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-04-06, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2012-05-04, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-04-06
+Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-05-04
 
 ## Contents
 
@@ -159,7 +159,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-04-06
     - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
     - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
     - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
-  - Local Government Act 2000
+  - ...
     - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
 - SCHEDULE 3 Sustainable Drainage
   - “Drainage system”
