@@ -1,0 +1,228 @@
+# Regional Development Agencies Act 1998
+
+1998 c. 45. Enacted 1998-11-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
+
+Source: https://www.legislation.gov.uk/ukpga/1998/45/2012-07-01
+
+## Contents
+
+- Part I Regional development agencies
+  - Development agencies
+    - [s. 1 Establishment.](section/1.md)
+    - [s. 2 Constitution.](section/2.md)
+    - [s. 3 Status.](section/3.md)
+  - Activities
+    - [s. 4 Purposes.](section/4.md)
+    - [s. 5 Powers.](section/5.md)
+    - [s. 6 Delegation of functions by Ministers.](section/6.md)
+    - [s. 6A Delegation of functions to the Mayor of London and the London Development Agency.](section/6A.md)
+    - [s. 7 Regional strategy](section/7.md)
+    - [s. 7A The London Development Agency strategy.](section/7A.md)
+    - [s. 7B Secretary of State’s functions in relation to the London Development Agency strategy.](section/7B.md)
+    - [s. 8 Regional consultation.](section/8.md)
+  - Financial arrangements
+    - [s. 9 General financial duties.](section/9.md)
+    - [s. 10 Government grants.](section/10.md)
+    - [s. 11 Borrowing.](section/11.md)
+    - [s. 12 Government guarantees of an agency’s borrowing.](section/12.md)
+    - [s. 13 Government loans.](section/13.md)
+    - [s. 14 Accounts and records.](section/14.md)
+    - [s. 15 Audit.](section/15.md)
+  - Information, reports and accountability
+    - [s. 16 Provision of information etc. to the Secretary of State.](section/16.md)
+    - [s. 17 Annual report.](section/17.md)
+    - [s. 18 Regional accountability.](section/18.md)
+  - Vesting and acquisition of land
+    - [s. 19 Vesting of land by order.](section/19.md)
+    - [s. 20 Acquisition of land.](section/20.md)
+    - [s. 21 Rights of entry.](section/21.md)
+    - [s. 22 Offences in relation to rights of entry.](section/22.md)
+    - [s. 23 Supplementary provisions.](section/23.md)
+  - Miscellaneous and supplementary
+    - [s. 24 Connection of private streets to highway.](section/24.md)
+    - [s. 25 Power to alter regions.](section/25.md)
+    - [s. 26 Change of name of agency.](section/26.md)
+    - [s. 26A Power to promote or oppose Bills in Parliament.](section/26A.md)
+    - [s. 27 General power to give guidance and directions.](section/27.md)
+    - [s. 28 Guidance: supplementary.](section/28.md)
+    - [s. 29 Consents of Secretary of State.](section/29.md)
+    - [s. 30 Validity of transactions.](section/30.md)
+    - [s. 30A Application of guidance, consent etc. provisions to the Mayor of London.](section/30A.md)
+    - [s. 31 Notices.](section/31.md)
+    - [s. 32 Minor amendments.](section/32.md)
+    - [s. 33 Interpretation of Part I.](section/33.md)
+- Part II Existing bodies
+  - The Development Commission
+    - [s. 34 Transfer of property, rights and liabilities to agencies.](section/34.md)
+    - [s. 35 Powers in relation to the Commission.](section/35.md)
+  - ...
+    - [s. 36 Transfer of property, rights and liabilities to agencies.](section/36.md)
+    - [s. 37 Powers in relation to the Agency.](section/37.md)
+- Part III General
+  - [s. 38 Corporation tax.](section/38.md)
+  - [s. 39 Stamp duty.](section/39.md)
+  - [s. 39A Stamp duty land tax](section/39A.md)
+  - [s. 40 Directions: supplementary.](section/40.md)
+  - [s. 41 General interpretation.](section/41.md)
+  - [s. 42 Expenses.](section/42.md)
+  - [s. 43 Commencement.](section/43.md)
+  - [s. 44 Extent.](section/44.md)
+  - [s. 45 Short title.](section/45.md)
+- SCHEDULE 1 Regions
+- SCHEDULE 2 Constitution of agencies
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Chairman and deputy chairman
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Remuneration, pensions, et ceteralaetc.
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Application of paragraph 3 in relation to the London Development Agency
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - Staff
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Proceedings
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Delegation of functions
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Members’ interests
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Vacancies and defective appointments
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Minutes
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Execution and proof of instruments
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Delegation of Ministerial functions: transfer schemes
+  - Power to make scheme
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Contents of scheme
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Effect of scheme
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Effect of transfer by scheme of contracts of employment
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Modification of scheme
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Provision of information
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Interpretation
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Vesting of land: modifications of enactments
+  - Land Compensation Act 1961 (c. 33)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Acquisition of land
+  - Part I Modifications of the Acquisition of Land Act 1981
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part II Acquisition of rights
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Vesting and acquisition of land: supplementary provisions
+  - Extinguishment of rights over land
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Power to override easements
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Consecrated land and burial grounds
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Open spaces
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Displacement of persons
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Extinguishment of public rights of way
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Telegraphic lines
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Statutory undertakers
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Interpretation
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- Schedule 6A Promotion of Bills in Parliament by the London Development Agency
+  - Preliminary requirements
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Consultation on draft Bill
+    - [Sch. 6A heading consultation-on-draft-bill para. 2n1](schedule/6A/crossheading/consultation-on-draft-bill/paragraph/2n1.md)
+  - Publicity for, and exposure of, the draft Bill
+    - [Sch. 6A heading publicity-for-and-exposure-of-the-draft-bill para. 3n3](schedule/6A/crossheading/publicity-for-and-exposure-of-the-draft-bill/paragraph/3n3.md)
+  - Deposition of the Bill in Parliament
+    - [Sch. 6A heading deposition-of-the-bill-in-parliament para. 4](schedule/6A/crossheading/deposition-of-the-bill-in-parliament/paragraph/4.md)
+  - Bills affecting statutory functions of London local authorities
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+  - Publicity for the deposited Bill
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+- SCHEDULE 7 Minor amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Local Authorities (Goods and Services) Act 1970 (c. 39)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 The Development Commission: transfer schemes
+  - Definitions
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Making and approval of transfer scheme
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Contents of scheme
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Effect of scheme
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Effect of transfer by scheme of contracts of employment
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Modification of scheme
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Provision of information to Secretary of State
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+- SCHEDULE 9 The Urban Regeneration Agency: transfer schemes
+  - Definitions
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Making and approval of transfer scheme
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Contents of scheme
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Effect of scheme
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Effect of transfer by scheme of contracts of employment
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Modification of scheme
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Provision of information to Secretary of State
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
