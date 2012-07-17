@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-04-06, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2012-07-17, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2012-04-06
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2012-07-17
 
 ## Contents
 
@@ -835,7 +835,9 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2012-04-06
       - [Sch. 19 para. 66](schedule/19/paragraph/66.md)
     - Power to provide for double taxation relief
       - [Sch. 19 para. 67](schedule/19/paragraph/67.md)
-    - Disclosure of information to foreign tax authorities
+    - Disclosure of information to foreign tax authorities etc
+      - [Sch. 19 para. 67A](schedule/19/paragraph/67A.md)
+    - ...
       - [Sch. 19 para. 68](schedule/19/paragraph/68.md)
     - Consequential amendment to the Constitutional Reform and Governance Act 2010
       - [Sch. 19 para. 69](schedule/19/paragraph/69.md)
