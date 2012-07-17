@@ -1,0 +1,142 @@
+# Finance (No. 2) Act 2010
+
+2010 c. 31. Enacted 2010-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-07-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2010/31/2012-07-17
+
+## Contents
+
+- Part 1 Rates etc
+  - Corporation tax
+    - [s. 1 Main rate of corporation tax for financial year 2011](section/1.md)
+  - Capital gains tax
+    - [s. 2 Rates of capital gains tax](section/2.md)
+  - Value added tax
+    - [s. 3 Rate of value added tax](section/3.md)
+  - Insurance premium tax
+    - [s. 4 Rates of insurance premium tax](section/4.md)
+- Part 2 Other provisions
+  - Pensions
+    - [s. 5 Power to repeal high income excess relief charge](section/5.md)
+    - [s. 6 Treatment of persons at age 75](section/6.md)
+  - Income tax
+    - [s. 7 Expenses paid to MPs etc](section/7.md)
+  - Corporation tax
+    - [s. 8 Amounts not fully recognised for accounting purposes](section/8.md)
+    - [s. 9 Insurance companies: business transfers involving excess assets](section/9.md)
+  - Final provisions
+    - [s. 10 Interpretation](section/10.md)
+    - [s. 11 Short title](section/11.md)
+- SCHEDULE 1 Rates of capital gains tax
+  - Amendments of TCGA 1992
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Amendments of FA 2008
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Commencement
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Transitionals
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 Supplementary charge to VAT
+  - Part 1 Supplementary charge to VAT
+    - The charge
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Supply spanning the date of the VAT change
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Grant of right spanning the date of the VAT change
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - “Basic time of supply”
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Series of supplies
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - “Relevant consideration” and “related” supplies
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Financing
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Connected persons
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Receipt of payments
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Power to change relevant conditions
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part 2 Exceptions
+    - Letting etc of assets
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Condition B cases involving normal commercial practice
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Condition D cases involving hire purchase, conditional sale or credit sale of goods
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Normal commercial practice
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Further exceptions
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part 3 Liability and amount
+    - Liability
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Amount
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Part 4 Listed supplies
+    - “Listed supply”
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - “Basic time of supply”: listed supplies
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Part 5 Administration and interpretation
+    - Person ceasing to be taxable person before supplementary charge due
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Adjustment of contracts following the VAT change
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Invoices
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Orders under this Schedule
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Interpretation: general
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+- SCHEDULE 3
+  - Introductory
+    - [Sch. 3 para. 1 ................................](schedule/3/paragraph/1.md)
+  - Pension rules applying at age 77 instead of age 75
+    - [Sch. 3 para. 2 ................................](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 ................................](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 ................................](schedule/3/paragraph/4.md)
+  - Treatment of lump sums to which persons become entitled at age 75
+    - [Sch. 3 para. 5 ................................](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 ................................](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 ................................](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 ................................](schedule/3/paragraph/8.md)
+  - Application of rules of pension schemes
+    - [Sch. 3 para. 9 ................................](schedule/3/paragraph/9.md)
+  - Interpretation
+    - [Sch. 3 para. 10 ................................](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Expenses paid to MPs etc
+  - Accommodation expenses
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - UK travel and subsistence expenses
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - European travel expenses
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Amounts not fully recognised for accounting purposes
+  - Amendments of sections 311, 312 and 599A of CTA 2009
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Commencement
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
