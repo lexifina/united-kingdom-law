@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-09-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2012-10-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-09-01
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-10-01
 
 ## Contents
 
@@ -385,7 +385,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-09-01
       - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
     - Interpretation
       - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
-  - Part 5 Insurance, etc.
+  - Part 5 Insurance and other financial services
     - Services arranged by employer
       - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
     - Age
@@ -401,7 +401,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-09-01
       - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
     - Gender reassignment: Scotland
       - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
-  - Part 7 Separate and single services
+  - Part 7 Separate, single and concessionary services, etc
     - Separate services for the sexes
       - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
     - Single-sex services
