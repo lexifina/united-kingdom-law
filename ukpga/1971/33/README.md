@@ -1,0 +1,134 @@
+# Armed Forces Act 1971
+
+1971 c. 33. Enacted 1971-05-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1971/33/2012-10-01
+
+## Contents
+
+- Part I Duration of Services Acts
+  - [s. 1 ................................](section/1.md)
+- Part II Revision of Service Offences and Punishments
+  - Misconduct in action and other offences arising out of military etc. service
+    - [s. 2 Misconduct in action, assisting the enemy, obstructing operations, etc.](section/2.md)
+    - [s. 3 Prize offences.](section/3.md)
+    - [s. 4 Offences by or in relation to sentries, persons on watch etc.](section/4.md)
+    - [s. 5 Failure to attend for duty, neglect of duty etc.](section/5.md)
+    - [s. 6 Looting](section/6.md)
+  - Mutiny, insubordination, etc.
+    - [s. 7 Mutiny](section/7.md)
+    - [s. 8 Insurbodinate behaviour, and disobedience to lawful commands.](section/8.md)
+    - [s. 9 Obstruction of provost officers etc.](section/9.md)
+    - [s. 10 Disobedience to standing orders etc.](section/10.md)
+  - Desertion, absence without leave, etc.
+    - [s. 11 Desertion.](section/11.md)
+    - [s. 12 Absence without leave.](section/12.md)
+    - [s. 13 Failure to report or apprehend deserters or absentees.](section/13.md)
+  - Malingering, drunkenness and disorderly conduct
+    - [s. 14 Malingering.](section/14.md)
+    - [s. 15 Drunkeness.](section/15.md)
+    - [s. 16 Disorderly conduct.](section/16.md)
+  - Offences relating to service etc. property
+    - [s. 17 Service etc. property: damage, loss, misapplication and waste.](section/17.md)
+  - Billeting offences
+    - [s. 18 Billeting offences.](section/18.md)
+  - Navigation and flying offences etc.
+    - [s. 19 Loss or hazarding of ship.](section/19.md)
+    - [s. 20 Inaccurate certification of ships and aircraft.](section/20.md)
+    - [s. 21 Low flying and annoyance by flying.](section/21.md)
+  - Offences relating to, and by, persons in custody
+    - [s. 22 Permitting escape, resisting arrest, and escaping.](section/22.md)
+  - Miscellaneous offences
+    - [s. 23 Offences in relation to courts-martial.](section/23.md)
+    - [s. 24 Unauthorised disclosure of information.](section/24.md)
+    - [s. 25 False statements on entry into Royal Navy.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 Offences against civilian population.](section/27.md)
+    - [s. 28 Offences against morale.](section/28.md)
+    - [s. 29 Scandalous conduct by officers.](section/29.md)
+    - [s. 30 Ill-treatment of persons of inferior rank etc.](section/30.md)
+    - [s. 31 Disgraceful conduct.](section/31.md)
+    - [s. 32 Attempts, aiding and abetting etc., and inciting.](section/32.md)
+    - [s. 33 Conduct to the prejudice of service discipline.](section/33.md)
+    - [s. 34 Civil offences.](section/34.md)
+  - Abolition of certain offences
+    - [s. 35 Abolition of certain offences.](section/35.md)
+  - Punishments
+    - [s. 36 Punishments for army and air-force offences dealt with courts-martial.](section/36.md)
+    - [s. 37 Punishments for army and air-force offences dealt with summarily.](section/37.md)
+    - [s. 38 Punishments for naval offences.](section/38.md)
+    - [s. 39 Imprisonment and detention: consecutive terms.](section/39.md)
+    - [s. 40 Detention for army and air-force offences: limitation of total period.](section/40.md)
+  - Other provisions
+    - [s. 41 Time for trial of offences under s. 42 of Naval Discipline Act 1957.](section/41.md)
+    - [s. 42 Naval offences by civilians.](section/42.md)
+    - [s. 43 Consequential and minor, amendments.](section/43.md)
+- Part III REVISION OF PROCEDURAL PROVISIONS, AND OTHER MATTERS RELATING TO SERVICE OFFENCES AND PUNISHMENTS
+  - [s. 44 Arrest by civil authorities.](section/44.md)
+  - [s. 45 Exclusion of enactments requiring fiat of Attorney General etc. in connection with proceedings.](section/45.md)
+  - [s. 46 Extension of powers of “higher authority” with respect to army and air-force charges.](section/46.md)
+  - [s. 47 Amendments as to summary trial for naval offences.](section/47.md)
+  - [s. 48 Amendments as to convening or ordering of court-martial.](section/48.md)
+  - [s. 49 Amendments as to procedure of courts-martial, and evidence in naval disciplinary courts.](section/49.md)
+  - [s. 50 Army and air force courts-martial: amendments as to revision and confirmation of findings.](section/50.md)
+  - [s. 51 Naval findings and sentences: amendments as to reviewing authorities.](section/51.md)
+  - [s. 52 Countries for serving of naval sentences of imprisonment and detention.](section/52.md)
+  - [s. 53 Commencment of naval sentences of imprisonment and detention.](section/53.md)
+  - [s. 54 Remission of sentences of imprisonment and detention.](section/54.md)
+  - [s. 55 Amendment of Naval Discipline Act 1957 as respects effect of taking offences into consideration.](section/55.md)
+  - [s. 56 Amendments as to deserters and absentees without leave.](section/56.md)
+  - [s. 57 Addition to Naval Discipline Act 1957 of provisions as to proof of proceedings.](section/57.md)
+  - [s. 58 Fees for copies of proceedings of army and air-force courts-martial.](section/58.md)
+- Part IV FORFEITURE OF PAY ETC. AND DEDUCTIONS FROM PAY
+  - [s. 59 Army and air force: new provisions for deductions in respect of judgement debts etc.](section/59.md)
+  - [s. 60 Navy: amendments as to forefeitures for illegal absence.](section/60.md)
+  - [s. 61 Navy: new provisions as to forfeitures and deductions generally, and as to deductions for civil penalties, judgement debts etc.](section/61.md)
+  - [s. 62 Amendments of provisions as to service of process in maitenance proceedings.](section/62.md)
+- Part V Miscellaneous Amendments
+  - [s. 63 Minimum age for enlistment or entry without parental etc. consent.](section/63.md)
+  - [s. 64 Purchase of discharge from army and air force.](section/64.md)
+  - [s. 65 Forefeiture of service for naval deserters.](section/65.md)
+  - [s. 66 Redress of complaints.](section/66.md)
+  - [s. 67 Naval billeting and requisitioning.](section/67.md)
+  - [s. 68 Reductions in rank under Army Act 1955 and Air Force Act 1955.](section/68.md)
+  - [s. 69](section/69.md)
+  - [s. 70 Taking of affidavits and declarations abroad.](section/70.md)
+  - [s. 71 Addition to Naval Discipline Act 1957 of provision indemnifying prison officers etc.](section/71.md)
+  - [s. 72 Application of Army Act 1955 and Air Force Act 1955 to passengers in H.M. ships and aircraft.](section/72.md)
+  - [s. 73 Appeal against sentence by civilians.](section/73.md)
+  - [s. 74 Meaning of “active service” in Naval Discipline Act 1957.](section/74.md)
+  - [s. 75 Amendments for introducing naval rate, and marine rank, of warrant officer.](section/75.md)
+  - [s. 76 Sufficency of evidence in Scottish courts.](section/76.md)
+- Part VI Supplemental
+  - [s. 77 Repeals and transitional provisions.](section/77.md)
+  - [s. 78 Short title, construction and commencement.](section/78.md)
+- SCHEDULE 1 AMENDMENTS ARISING FROM PART II OF THIS ACT
+  - The Army Act 1955 and the Air Force Act 1955
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Naval Discipline Act 1957
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- Schedule 2 AMENDMENTS ABOUT APPEALS AGAINST SENTENCE
+  - Courts-Martial (Appeals) Act 1968
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The Army Act 1955 and the Air Force Act 1955
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - The Naval Discipline Act 1957
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- Schedule 3 AMENDMENTS FOR INTRODUCING NAVAL RATE, AND MARINE RANK, OF WARRANT OFFICER
+  - The Naval and Marine Pay and Pensions Act 1865
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Greenwich Hospital Act 1865
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Navy and Marines (Property of Deceased) Act 1865
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Army Act 1955
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Naval Discipline Act 1957
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Reserve Forces Act 1966
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Armed Forces Act 1966
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Repeals
