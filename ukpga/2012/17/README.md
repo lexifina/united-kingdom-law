@@ -2,9 +2,9 @@
 
 2012 c. 17. Enacted 2012-10-31.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-10-31, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/17/2015-04-01
+Source: https://www.legislation.gov.uk/ukpga/2012/17/2012-10-31
 
 ## Contents
 
