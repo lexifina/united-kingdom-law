@@ -1,0 +1,368 @@
+# Channel Tunnel Act 1987
+
+1987 c. 53. Enacted 1987-07-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2012-11-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1987/53/2012-11-22
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Construction and operation of a tunnel rail link between the United Kingdom and France.](section/1.md)
+  - [s. 2 No government funds or guarantees for the tunnel system.](section/2.md)
+  - [s. 3 Provision for further definition of the tunnel system and for applying this Act to a new Concession.](section/3.md)
+  - [s. 4 Notice with respect to operation, expiry or termination of the Concession.](section/4.md)
+- Part II Works and Land for the Tunnel System and Connected Road and Rail Works
+  - [s. 5 Construction of the scheduled works.](section/5.md)
+  - [s. 6 Supplementary provisions as to the scheduled works and other authorised works.](section/6.md)
+  - [s. 7 Vesting of seaward section of tunnel system in Secretary of State, subject to Concession lease.](section/7.md)
+  - [s. 8 Acquisition of land for the scheduled works and other authorised works.](section/8.md)
+  - [s. 9 Planning permission, etc.](section/9.md)
+- Part III Status, Operation and Regulation of the Tunnel System
+  - Status of the tunnel system
+    - [s. 10 Incorporation of part of the tunnel system into the United Kingdom and general application of law.](section/10.md)
+  - Application and enforcement of law
+    - [s. 11 Regulation of the tunnel system: application and enforcement of law, etc.](section/11.md)
+    - [s. 12 Controls on board trains engaged on international services.](section/12.md)
+    - [s. 13 Provisions supplementary to sections 11 and 12.](section/13.md)
+    - [s. 14 Arrangements for the policing of the tunnel system.](section/14.md)
+  - Application of English law to Concession agreements and leases to be subject to international arrangements
+    - [s. 15 Contract law and arbitration law.](section/15.md)
+    - [s. 16 Landlord and tenant law.](section/16.md)
+  - Intergovernmental supervision of construction and operation
+    - [s. 17 Supervision by Intergovernmental Commission and Safety Authority.](section/17.md)
+    - [s. 18 Intergovernmental Commission and Safety Authority: supplementary.](section/18.md)
+  - Regulation of operation of the system
+    - [s. 19 Operation by the Concessionaires.](section/19.md)
+    - [s. 20 Byelaws of the Concessionaires.](section/20.md)
+    - [s. 21 Confirmation of byelaws by Secretary of State.](section/21.md)
+    - [s. 22 Application of Railways Board’s byelaws to their services in the tunnel system.](section/22.md)
+    - [s. 23 Control of traffic within the tunnel system.](section/23.md)
+    - [s. 24 Approval of trains.](section/24.md)
+  - Termination of construction or operation
+    - [s. 25 Maintenance of the tunnel system on termination of construction by Concessionaires.](section/25.md)
+    - [s. 26 Operation of the tunnel system on a temporary basis where practicable on termination of the Concession.](section/26.md)
+    - [s. 27 Limitations on exercise of Secretary of State’s powers under sections 25 and 26.](section/27.md)
+    - [s. 28 Provisions supplementary to sections 25 to 27.](section/28.md)
+    - [s. 29 Scheme for land on abandonment of construction or operation.](section/29.md)
+  - Miscellaneous
+    - [s. 30 Rating.](section/30.md)
+    - [s. 31 Building regulations.](section/31.md)
+    - [s. 32 Exclusion of rights under electronic communications code](section/32.md)
+    - [s. 33 Competition, etc.](section/33.md)
+    - [s. 34 Supplementary provisions with respect to orders under Part III.](section/34.md)
+- Part IV Construction and Improvement of Roads near Folkestone
+  - [s. 35 The A20 improvement works.](section/35.md)
+  - [s. 36 Acquisition of land for the A20 improvement works.](section/36.md)
+- Part V Miscellaneous and General
+  - [s. 37 Supplementary provisions with respect to acquisition of land.](section/37.md)
+  - [s. 38 Time within which powers of compulsory acquisition may be exercised.](section/38.md)
+  - [s. 39 Extension of Railways Board’s powers in connection with through services.](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Railway services: consultative committees and closures.](section/41.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 Application of railway regulation enactments.](section/43.md)
+  - [s. 44 Modification of enactments relating to coast protection, safety of navigation and the powers of harbour authorities.](section/44.md)
+  - [s. 45 Protection of interests.](section/45.md)
+  - [s. 46 Determination of questions referred to arbitration under this Act.](section/46.md)
+  - [s. 47 Offences by bodies corporate](section/47.md)
+  - [s. 48 Financial provisions](section/48.md)
+  - [s. 49 Interpretation](section/49.md)
+  - [s. 50 Short title and extent.](section/50.md)
+- SCHEDULE 1 The Scheduled Works
+  - Part I, The Concessionaires’ Scheduled Works
+  - Part II The County Council’s Scheduled Works
+  - Part III The Railways Board’s Scheduled Works
+  - Part IV Supplementary
+    - Interpretation
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Limits of deviation
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Supplementary Provisions as to the Scheduled Works and other Authorised Works
+  - Part I Application of Enactments
+    - Application of Part II of the Public Utilities Street Works Act 1950
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Application of Railways Clauses Acts
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II Regulation of Scheduled Works and Subsidiary Provisions
+    - Section A Provisions Applicable to Concessionaires
+      - Use of electrical energy
+        - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - Concessionaires’ subsidiary works
+        - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - Use of lagoon for drainage
+        - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - Safety of lagoon
+        - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Section B Provisions Applicable to County Council
+      - County Council’s subsidiary works
+        - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Section C Provisions Applicable to Railways Board
+      - Passenger station at Ashford
+        - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - Passenger station at Waterloo
+        - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - Railways at Stewart’s Lane, Wandsworth
+        - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - Works Nos. 25A and 25B: nature consultations
+        - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - Further works and powers
+        - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - Temporary possession of land
+        - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Section D Provisions Applicable to Concessionaires, County Council and Railways Board
+      - Use of sewers, etc. for removing water
+        - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - Underpinning of buildings
+        - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part III Highways, Roads, etc.
+    - Stopping up of highways by Concessionaires, County Council and Railways Board
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Part I Highways to be stopped up
+    - Section A In connection with the Concessionaires’ scheduled works
+    - Section B In connection with the County Council’s scheduled works
+    - Section C In connection with the Railways Board’s scheduled works
+  - Part II Highways to be stopped up and new highways substituted therefor
+    - Section A In connection with the Concessionaires’ scheduled works
+    - Section B In connection with the County Council’s scheduled works
+    - Section C In connection with the Railways Board’s scheduled works
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Construction and completion of new or substituted highways
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Repair of highways and agreements with highway authorities
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Temporary interference with highways
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Power to use subsoil of highways
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Status of certain highways constructed by the Concessionaires
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Status of the County Council’s works
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Regulation of traffic on new roads
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Compensation for, and mitigation of, adverse effects of certain authorised works
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 Planning Permission
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Scheme of operation for authorised development
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Detailed plans and specifications for certain authorised development
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Spoil
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Protection of site at Holywell Coombe
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Arrangements and schemes for certain authorised development
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Consultation regarding County Council development
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Certificates for construction or use of certain authorised development
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Working sites: discontinuance of operations and putting into condition
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Nature, the countryside and archaeological and historic sites
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Approvals: supplementary
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 The A20 Improvement Works
+  - Part I The Authorised Works
+    - Description of works
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Limits of deviation
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Interpretation of Part I
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part II Interference with Highways
+    - Stopping up of highways
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part I Highways to be stopped up
+  - Part II Highways to be stopped up and new highways substituted therefor
+    - Temporary interference with highways
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part III Miscellaneous
+    - Status of new highways
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Regulation of construction of works
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Status of ancillary operations and works
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Application of Highways Act powers to provisions of this Schedule
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Regulation of traffic on new roads
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Supplementary Provisions as to Acquisition of Land
+  - Part I Purposes for which Certain Land may be Acquired or Used Under Section 8
+    - Section A Purposes of the Concessionaires
+    - Section B Purposes of the Railways Board
+  - Part II Purposes for which Certain Land may be Acquired or Used under Section 36
+  - Part III Supplementary
+    - Provision enabling owners and lessees to require purchase of their interests
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Acquisition of subsoil or rights in land
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Acquisition of part only of certain properties
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Minerals
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Extinguishment of private rights of way
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Provisions as to compensation
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Correction of deposited plans
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Adaptation of Part I of the Compulsory Purchase Act 1965
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Application of Railway Regulation Enactments
+  - Tunnel system railway to be a “railway” under the Regulation of Railways Act 1871
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Disapplication of enactments in the case of the Concessionaires and through service operators
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Extension of enactments in relation to through service operators
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Modification of enactments applying to Concessionaires and through service operators
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Extension of sections 55 and 56 of the British Transport Commission Act 1949 in relation to the tunnel system railway
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Interpretation
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Protective Provisions
+  - Part I Highways and Traffic
+    - [Sch. 7 Pt. I para. 1](schedule/7/part/I/paragraph/1.md)
+    - [Sch. 7 Pt. I para. 2](schedule/7/part/I/paragraph/2.md)
+    - [Sch. 7 Pt. I para. 3](schedule/7/part/I/paragraph/3.md)
+    - [Sch. 7 Pt. I para. 4](schedule/7/part/I/paragraph/4.md)
+    - [Sch. 7 Pt. I para. 5](schedule/7/part/I/paragraph/5.md)
+    - [Sch. 7 Pt. I para. 6](schedule/7/part/I/paragraph/6.md)
+    - [Sch. 7 Pt. I para. 7](schedule/7/part/I/paragraph/7.md)
+    - [Sch. 7 Pt. I para. 8](schedule/7/part/I/paragraph/8.md)
+    - [Sch. 7 Pt. I para. 9](schedule/7/part/I/paragraph/9.md)
+    - [Sch. 7 Pt. I para. 10](schedule/7/part/I/paragraph/10.md)
+    - [Sch. 7 Pt. I para. 11](schedule/7/part/I/paragraph/11.md)
+    - [Sch. 7 Pt. I para. 12](schedule/7/part/I/paragraph/12.md)
+    - [Sch. 7 Pt. I para. 13](schedule/7/part/I/paragraph/13.md)
+    - [Sch. 7 Pt. I para. 14](schedule/7/part/I/paragraph/14.md)
+    - [Sch. 7 Pt. I para. 15](schedule/7/part/I/paragraph/15.md)
+    - [Sch. 7 Pt. I para. 16](schedule/7/part/I/paragraph/16.md)
+    - [Sch. 7 Pt. I para. 17](schedule/7/part/I/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Part II Protection of the Railways Board
+    - [Sch. 7 Pt. II para. 1](schedule/7/part/II/paragraph/1.md)
+    - [Sch. 7 Pt. II para. 2](schedule/7/part/II/paragraph/2.md)
+    - [Sch. 7 Pt. II para. 3](schedule/7/part/II/paragraph/3.md)
+    - [Sch. 7 Pt. II para. 4](schedule/7/part/II/paragraph/4.md)
+    - [Sch. 7 Pt. II para. 5](schedule/7/part/II/paragraph/5.md)
+    - [Sch. 7 Pt. II para. 6](schedule/7/part/II/paragraph/6.md)
+    - [Sch. 7 Pt. II para. 7](schedule/7/part/II/paragraph/7.md)
+    - [Sch. 7 Pt. II para. 8](schedule/7/part/II/paragraph/8.md)
+    - [Sch. 7 Pt. II para. 9](schedule/7/part/II/paragraph/9.md)
+    - [Sch. 7 Pt. II para. 10](schedule/7/part/II/paragraph/10.md)
+    - [Sch. 7 Pt. II para. 11](schedule/7/part/II/paragraph/11.md)
+    - [Sch. 7 Pt. II para. 12](schedule/7/part/II/paragraph/12.md)
+    - [Sch. 7 Pt. II para. 13](schedule/7/part/II/paragraph/13.md)
+  - Part III Protection of Navigation
+    - [Sch. 7 Pt. III para. 1](schedule/7/part/III/paragraph/1.md)
+    - [Sch. 7 Pt. III para. 2](schedule/7/part/III/paragraph/2.md)
+    - [Sch. 7 Pt. III para. 3](schedule/7/part/III/paragraph/3.md)
+    - [Sch. 7 Pt. III para. 4](schedule/7/part/III/paragraph/4.md)
+    - [Sch. 7 Pt. III para. 5](schedule/7/part/III/paragraph/5.md)
+    - [Sch. 7 Pt. III para. 6](schedule/7/part/III/paragraph/6.md)
+    - [Sch. 7 Pt. III para. 7](schedule/7/part/III/paragraph/7.md)
+    - [Sch. 7 Pt. III para. 8](schedule/7/part/III/paragraph/8.md)
+  - Part IV Protection of Dover Harbour Board
+    - [Sch. 7 Pt. IV para. 1](schedule/7/part/IV/paragraph/1.md)
+    - [Sch. 7 Pt. IV para. 2](schedule/7/part/IV/paragraph/2.md)
+    - [Sch. 7 Pt. IV para. 3](schedule/7/part/IV/paragraph/3.md)
+    - [Sch. 7 Pt. IV para. 4](schedule/7/part/IV/paragraph/4.md)
+    - [Sch. 7 Pt. IV para. 5](schedule/7/part/IV/paragraph/5.md)
+    - [Sch. 7 Pt. IV para. 6](schedule/7/part/IV/paragraph/6.md)
+    - [Sch. 7 Pt. IV para. 7](schedule/7/part/IV/paragraph/7.md)
+    - [Sch. 7 Pt. IV para. 8](schedule/7/part/IV/paragraph/8.md)
+    - [Sch. 7 Pt. IV para. 9](schedule/7/part/IV/paragraph/9.md)
+    - [Sch. 7 Pt. IV para. 10](schedule/7/part/IV/paragraph/10.md)
+  - Part V Protection of Sewers
+    - [Sch. 7 Pt. V para. 1](schedule/7/part/V/paragraph/1.md)
+    - [Sch. 7 Pt. V para. 2](schedule/7/part/V/paragraph/2.md)
+    - [Sch. 7 Pt. V para. 3](schedule/7/part/V/paragraph/3.md)
+    - [Sch. 7 Pt. V para. 4](schedule/7/part/V/paragraph/4.md)
+    - [Sch. 7 Pt. V para. 5](schedule/7/part/V/paragraph/5.md)
+    - [Sch. 7 Pt. V para. 6](schedule/7/part/V/paragraph/6.md)
+    - [Sch. 7 Pt. V para. 7](schedule/7/part/V/paragraph/7.md)
+    - [Sch. 7 Pt. V para. 8](schedule/7/part/V/paragraph/8.md)
+    - [Sch. 7 Pt. V para. 9](schedule/7/part/V/paragraph/9.md)
+    - [Sch. 7 Pt. V para. 10](schedule/7/part/V/paragraph/10.md)
+    - [Sch. 7 Pt. V para. 11](schedule/7/part/V/paragraph/11.md)
+    - [Sch. 7 Pt. V para. 12](schedule/7/part/V/paragraph/12.md)
+    - [Sch. 7 Pt. V para. 13](schedule/7/part/V/paragraph/13.md)
+    - [Sch. 7 Pt. V para. 14](schedule/7/part/V/paragraph/14.md)
+    - [Sch. 7 Pt. V para. 15](schedule/7/part/V/paragraph/15.md)
+    - [Sch. 7 Pt. V para. 16](schedule/7/part/V/paragraph/16.md)
+  - Part VI Protection of Certain Statutory Undertakers
+    - [Sch. 7 Pt. VI para. 1](schedule/7/part/VI/paragraph/1.md)
+    - [Sch. 7 Pt. VI para. 2](schedule/7/part/VI/paragraph/2.md)
+    - [Sch. 7 Pt. VI para. 3](schedule/7/part/VI/paragraph/3.md)
+    - [Sch. 7 Pt. VI para. 4](schedule/7/part/VI/paragraph/4.md)
+    - [Sch. 7 Pt. VI para. 5](schedule/7/part/VI/paragraph/5.md)
+    - [Sch. 7 Pt. VI para. 6](schedule/7/part/VI/paragraph/6.md)
+    - [Sch. 7 Pt. VI para. 7](schedule/7/part/VI/paragraph/7.md)
+    - [Sch. 7 Pt. VI para. 8](schedule/7/part/VI/paragraph/8.md)
+    - [Sch. 7 Pt. VI para. 9](schedule/7/part/VI/paragraph/9.md)
+    - [Sch. 7 Pt. VI para. 10](schedule/7/part/VI/paragraph/10.md)
+    - [Sch. 7 Pt. VI para. 11](schedule/7/part/VI/paragraph/11.md)
+    - [Sch. 7 Pt. VI para. 12](schedule/7/part/VI/paragraph/12.md)
+    - [Sch. 7 Pt. VI para. 13](schedule/7/part/VI/paragraph/13.md)
+    - [Sch. 7 Pt. VI para. 14](schedule/7/part/VI/paragraph/14.md)
+    - [Sch. 7 Pt. VI para. 15](schedule/7/part/VI/paragraph/15.md)
+    - [Sch. 7 Pt. VI para. 16](schedule/7/part/VI/paragraph/16.md)
+    - [Sch. 7 Pt. VI para. 17](schedule/7/part/VI/paragraph/17.md)
+  - Part VII Protection of Land Drainage
+    - [Sch. 7 Pt. VII para. 1](schedule/7/part/VII/paragraph/1.md)
+    - [Sch. 7 Pt. VII para. 2](schedule/7/part/VII/paragraph/2.md)
+    - [Sch. 7 Pt. VII para. 3](schedule/7/part/VII/paragraph/3.md)
+    - [Sch. 7 Pt. VII para. 4](schedule/7/part/VII/paragraph/4.md)
+    - [Sch. 7 Pt. VII para. 5](schedule/7/part/VII/paragraph/5.md)
+    - [Sch. 7 Pt. VII para. 6](schedule/7/part/VII/paragraph/6.md)
+    - [Sch. 7 Pt. VII para. 7](schedule/7/part/VII/paragraph/7.md)
+  - Part VIII Further Protection of Southern Water Authority
+    - [Sch. 7 Pt. VIII para. 1](schedule/7/part/VIII/paragraph/1.md)
+    - [Sch. 7 Pt. VIII para. 2](schedule/7/part/VIII/paragraph/2.md)
+    - [Sch. 7 Pt. VIII para. 3](schedule/7/part/VIII/paragraph/3.md)
+    - [Sch. 7 Pt. VIII para. 4](schedule/7/part/VIII/paragraph/4.md)
+    - [Sch. 7 Pt. VIII para. 5](schedule/7/part/VIII/paragraph/5.md)
+    - [Sch. 7 Pt. VIII para. 6](schedule/7/part/VIII/paragraph/6.md)
+    - [Sch. 7 Pt. VIII para. 7](schedule/7/part/VIII/paragraph/7.md)
+    - [Sch. 7 Pt. VIII para. 8](schedule/7/part/VIII/paragraph/8.md)
+    - [Sch. 7 Pt. VIII para. 9](schedule/7/part/VIII/paragraph/9.md)
+  - Part IX Further Protection of the Folkestone and District Water Company
+    - [Sch. 7 Pt. IX para. 1](schedule/7/part/IX/paragraph/1.md)
+    - [Sch. 7 Pt. IX para. 2](schedule/7/part/IX/paragraph/2.md)
+    - [Sch. 7 Pt. IX para. 3](schedule/7/part/IX/paragraph/3.md)
+    - [Sch. 7 Pt. IX para. 4](schedule/7/part/IX/paragraph/4.md)
+    - [Sch. 7 Pt. IX para. 5](schedule/7/part/IX/paragraph/5.md)
+    - [Sch. 7 Pt. IX para. 6](schedule/7/part/IX/paragraph/6.md)
+  - Part X Protection of Telecommunications Operators
+    - [Sch. 7 Pt. X para. 1](schedule/7/part/X/paragraph/1.md)
+    - [Sch. 7 Pt. X para. 2](schedule/7/part/X/paragraph/2.md)
+    - [Sch. 7 Pt. X para. 3](schedule/7/part/X/paragraph/3.md)
+    - [Sch. 7 Pt. X para. 4](schedule/7/part/X/paragraph/4.md)
+    - [Sch. 7 Pt. X para. 5](schedule/7/part/X/paragraph/5.md)
+    - [Sch. 7 Pt. X para. 6](schedule/7/part/X/paragraph/6.md)
+    - [Sch. 7 Pt. X para. 7](schedule/7/part/X/paragraph/7.md)
