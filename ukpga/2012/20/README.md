@@ -2,11 +2,9 @@
 
 2012 c. 20. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-06-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-12-19, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/20
-
-Source: https://www.legislation.gov.uk/ukpga/2012/20/2018-06-27
+Source: https://www.legislation.gov.uk/ukpga/2012/20/2012-12-19
 
 ## Contents
 
