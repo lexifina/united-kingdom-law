@@ -2,11 +2,9 @@
 
 2012 c. 21. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2012-12-19, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2012/21
-
-Source: https://www.legislation.gov.uk/ukpga/2012/21/2026-07-13
+Source: https://www.legislation.gov.uk/ukpga/2012/21/2012-12-19
 
 ## Contents
 
@@ -97,8 +95,6 @@ Source: https://www.legislation.gov.uk/ukpga/2012/21/2026-07-13
   - Interpretation
     - [s. 57 Interpretation of Part 3](section/57.md)
 - PART 4 Collaboration between Treasury and Bank of England, FCA or PRA
-  - [s. 57A Duty of Bank to provide information required by Treasury](section/57A.md)
-  - [s. 57B Duty of Bank to inform Treasury about resolution plans](section/57B.md)
   - [s. 58 Duty of Bank to notify Treasury of possible need for public funds](section/58.md)
   - [s. 59 Duty of Bank to notify Treasury of changes](section/59.md)
   - [s. 60 Circumstances in which Treasury power of direction exercisable](section/60.md)
@@ -106,7 +102,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/21/2026-07-13
   - [s. 62 Directions under section 61: supplementary provisions](section/62.md)
   - [s. 63 Duty to lay direction etc before Parliament](section/63.md)
   - [s. 64 Duty of Treasury, Bank and PRA to co-ordinate discharge of functions](section/64.md)
-  - [s. 65 Memorandum of understanding: resolution planning and crisis management](section/65.md)
+  - [s. 65 Memorandum of understanding: crisis management](section/65.md)
   - [s. 66 Memorandum of understanding: international organisations](section/66.md)
   - [s. 67 Interpretation of Part 4](section/67.md)
 - PART 5 Inquiries and investigations
@@ -121,8 +117,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/21/2026-07-13
     - [s. 74 Duty of PRA to investigate and report on possible regulatory failure](section/74.md)
     - [s. 75 Interpretation of section 74](section/75.md)
     - [s. 76 Modification of section 74 in relation to Lloyd’s](section/76.md)
-    - [s. 76A Duty of Payment Systems Regulator to investigate and report on possible regulatory failure](section/76A.md)
-    - [s. 77 Power of Treasury to require regulator to undertake investigation](section/77.md)
+    - [s. 77 Power of Treasury to require FCA or PRA to undertake investigation](section/77.md)
     - [s. 78 Conduct of investigation](section/78.md)
     - [s. 79 Conclusion of investigation](section/79.md)
     - [s. 80 Statements of policy](section/80.md)
