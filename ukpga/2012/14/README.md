@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-12-31, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-01-01, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2012-12-31
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2013-01-01
 
 ## Contents
 
@@ -1755,6 +1755,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2012-12-31
       - [Sch. 36 para. 25](schedule/36/paragraph/25.md)
     - Amounts recoverable as if they were VAT
       - [Sch. 36 para. 26](schedule/36/paragraph/26.md)
+    - Transfers to HMRC under Agreement
+      - [Sch. 36 para. 26A](schedule/36/paragraph/26A.md)
+      - [Sch. 36 para. 26B](schedule/36/paragraph/26B.md)
     - General interpretation
       - [Sch. 36 para. 27](schedule/36/paragraph/27.md)
 - SCHEDULE 37 International military headquarters, EU forces, etc
