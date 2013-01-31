@@ -2,9 +2,9 @@
 
 2013 c. 6. Enacted 2013-01-31.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-01-31, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/6/2024-09-10
+Source: https://www.legislation.gov.uk/ukpga/2013/6/2013-01-31
 
 ## Contents
 
@@ -72,7 +72,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/6/2024-09-10
     - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
     - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
     - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
-  - ...
+  - Representation of the People Act 1985 (c. 50)
     - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
   - Representation of the People Act 2000 (c. 2)
     - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
