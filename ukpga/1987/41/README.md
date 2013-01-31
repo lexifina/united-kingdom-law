@@ -1,0 +1,141 @@
+# Criminal Justice (Scotland) Act 1987
+
+1987 c. 41. Enacted 1987-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-01-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1987/41/2013-01-31
+
+## Contents
+
+- Part I Confiscation of Proceeds of Drug Trafficking etc.
+  - Confiscation orders
+    - [s. 1 Confiscation orders.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 Assessing the proceeds of drug trafficking.](section/3.md)
+    - [s. 4 Statements relating to drug trafficking.](section/4.md)
+    - [s. 5 Realisable property.](section/5.md)
+    - [s. 6 Implicative gifts.](section/6.md)
+    - [s. 6A Increase in value of proceeds of drug trafficking or realisable property.](section/6A.md)
+    - [s. 6B Confiscation orders where proceeds of crime discovered at later date.](section/6B.md)
+    - [s. 7 Application of provisions relating to fines to enforcement of confiscation](section/7.md)
+    - [s. 7A Disposal of family home.](section/7A.md)
+  - Restraint orders and interdict
+    - [s. 8 Restraint orders.](section/8.md)
+    - [s. 9 Variation and recall of restraint orders.](section/9.md)
+    - [s. 10 Seizure of property affected by restraint order.](section/10.md)
+    - [s. 11 Inhibition and arrestment of property affected by restraint order or by interdict under section 12.](section/11.md)
+    - [s. 11A Arrestment of property affected by restraint order.](section/11A.md)
+    - [s. 12 Interdict of person not subject to restraint order.](section/12.md)
+  - Administrators
+    - [s. 13 Administrators.](section/13.md)
+    - [s. 14 Functions of administrators.](section/14.md)
+    - [s. 15 Money received by administrator.](section/15.md)
+    - [s. 16 Application of proceeds of realisation and other sums.](section/16.md)
+    - [s. 17 Supervision of administrators.](section/17.md)
+    - [s. 18 Accounts and remuneration of administrator.](section/18.md)
+    - [s. 19 Effect of appointment under section 13 on diligence.](section/19.md)
+    - [s. 20 Further provision as to adminsistrators.](section/20.md)
+    - [s. 21 Discharge of administrator.](section/21.md)
+    - [s. 22 Rules of court as regards accountant of court’s supervision etc. of administrators.](section/22.md)
+  - Exercise of powers
+    - [s. 23 Exercise of powers by Court of Session or administrator.](section/23.md)
+    - [s. 24 Power to facilitate realisation.](section/24.md)
+  - Variation of confiscation orders
+    - [s. 25 Realisable property inadequate to meet payments under confiscation order.](section/25.md)
+  - Compensation
+    - [s. 26 Compensation.](section/26.md)
+  - Reciprocal arrangements for enforcement of confiscation orders
+    - [s. 27 Recognition and enforcement of orders under Drug Trafficking Offences Act 1986.](section/27.md)
+    - [s. 28 Provisions supplementary to section 27.](section/28.md)
+    - [s. 28A Inhibition of Scottish property affected by order registered under section 27.](section/28A.md)
+    - [s. 28B Arrestment of Scottish property affected by order registered under section 27.](section/28B.md)
+    - [s. 29 Enforcement of Northern Ireland orders.](section/29.md)
+    - [s. 30 Enforcement of other external orders.](section/30.md)
+    - [s. 30A Registration of external confiscation orders.](section/30A.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Order in Council as regards taking of action in designated country.](section/32.md)
+  - Sequestration etc. of estate comprising realisable property
+    - [s. 33 Sequestration of person holding realisable property.](section/33.md)
+    - [s. 34 Bankruptcy in England and Wales of person holding realisable property.](section/34.md)
+    - [s. 35 Winding up company holding realisable property.](section/35.md)
+    - [s. 36 Property subject to floating charge.](section/36.md)
+    - [s. 37 Insolvency practitioners dealing with property subject to restraint order.](section/37.md)
+  - Forfeiture of property where accused has died
+    - [s. 37A Forfeiture of property where accused has died.](section/37A.md)
+  - Investigations and disclosure of information
+    - [s. 38 Order to make material available.](section/38.md)
+    - [s. 39 Authority for search.](section/39.md)
+    - [s. 40 Interpretation of sections 38 and 39.](section/40.md)
+    - [s. 40A Prosecution by order of the Commissioners of Customs and Excise.](section/40A.md)
+    - [s. 41 Disclosure of information held by government departments.](section/41.md)
+  - Offences
+    - [s. 42 Offence of prejudicing investigation.](section/42.md)
+    - [s. 43 Offence of assisting another to retain the proceeds of drug trafficking.](section/43.md)
+    - [s. 44 Offences relating to controlled drugs: fines.](section/44.md)
+  - Minor amendments, service, notice and interpretation
+    - [s. 45 Minor amendments in relation to drug trafficking. 4 & 5 Geo. 5 c. 59.](section/45.md)
+    - [s. 46 Service and notice for purposes of Part I.](section/46.md)
+    - [s. 46A Extension of certain offences to Crown servants and exemptions for regulators etc.](section/46A.md)
+    - [s. 47 Interpretation of Part I.](section/47.md)
+- Part II Miscellaneous
+  - Detention by customs officers
+    - [s. 48 Detention and questioning by customs officers.](section/48.md)
+    - [s. 49 Right to have someone informed when detained](section/49.md)
+    - [s. 50 Detention in connection with certain drug smuggling offences.](section/50.md)
+  - Investigation of serious or complex fraud
+    - [s. 51 Lord Advocate’s direction.](section/51.md)
+    - [s. 52 Powers of investigation.](section/52.md)
+    - [s. 53 Offences in relation to investigations under section 52.](section/53.md)
+    - [s. 54 Disclosure of Information.](section/54.md)
+    - [s. 55 Power to petition for winding up etc. on information obtained under section 52.](section/55.md)
+  - Conditional offer by procurator fiscal
+    - [s. 56 Conditional offer of fixed penalty by procurator fiscal.](section/56.md)
+  - Sittings of the High Court
+    - [s. 57 ................................](section/57.md)
+  - Sentencing power of the sheriff
+    - [s. 58 ................................](section/58.md)
+  - Detention of children
+    - [s. 59 Detention of children in summary proceedings.](section/59.md)
+  - Evidence
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 ................................](section/61.md)
+  - Miscellaneous
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 .](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67](section/67.md)
+    - [s. 68 ................................](section/68.md)
+- Part III General
+  - [s. 69 Interpretation.](section/69.md)
+  - [s. 70 Amendments and repeals.](section/70.md)
+  - [s. 71 Expenses.](section/71.md)
+  - [s. 72 Short title, commencement and extent.](section/72.md)
+- SCHEDULE 1 Minor and Consequential Amendments
+  - The Juries Act 1949 (c. 27)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Judicial Offices (Salaries etc.) Act 1952 (c. 12)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Criminal Procedure (Scotland) Act 1975 (c. 21)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Criminal Justice (Scotland) Act 1980 (c. 62)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - The Contempt of Court Act 1981 (c. 49)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Repeals
