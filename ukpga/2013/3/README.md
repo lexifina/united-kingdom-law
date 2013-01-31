@@ -2,14 +2,14 @@
 
 2013 c. 3. Enacted 2013-01-31.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-01-31, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/3/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2013/3/2013-01-31
 
 ## Contents
 
 - [s. 1 Unlawful sub-letting: secure tenancies](section/1.md)
-- [s. 2 Unlawful sub-letting: assured tenancies and secure contracts](section/2.md)
+- [s. 2 Unlawful sub-letting: assured tenancies](section/2.md)
 - [s. 3 Prosecution of offences](section/3.md)
 - [s. 4 Unlawful profit orders: criminal proceedings](section/4.md)
 - [s. 5 Unlawful profit orders: civil proceedings](section/5.md)
