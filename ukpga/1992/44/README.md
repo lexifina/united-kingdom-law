@@ -1,0 +1,127 @@
+# Museums and Galleries Act 1992
+
+1992 c. 44. Enacted 1992-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-02-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1992/44/2013-02-01
+
+## Contents
+
+- The new Boards of Trustees
+  - [s. 1 Establishment, constitution, functions and property etc. of new Boards of Trustees.](section/1.md)
+  - [s. 2 The general functions of the new Boards.](section/2.md)
+  - [s. 3 Power of the new Boards to form companies.](section/3.md)
+  - [s. 4 Acquisition and disposal of pictures and other objects.](section/4.md)
+  - [s. 5 Lending and borrowing of pictures and other objects.](section/5.md)
+- Transfers to and from certain institutions
+  - [s. 6 Transfer of objects or related documents between institutions.](section/6.md)
+  - [s. 7 Gifts to the nation.](section/7.md)
+  - [s. 8 Power to transfer land to governing bodies, and exemption from stamp duty.](section/8.md)
+  - [s. 8A Stamp duty land tax](section/8A.md)
+- Finance, accounts and indemnities
+  - [s. 9 Finance for, and accounts of, certain museums and galleries etc.](section/9.md)
+  - [s. 10 Indemnities.](section/10.md)
+- Supplementary provisions
+  - [s. 11 Short title, minor and supplemental provisions, commencement and extent.](section/11.md)
+- SCHEDULE 1 The Board of Trustees of the National Gallery
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Staff
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proceedings
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Allowances
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Instruments
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Reports
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 The Board of Trustees of the Tate Gallery
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Membership
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Staff
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Proceedings
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Allowances
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Instruments
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Reports
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 The Board of Trustees of the National Portrait Gallery
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Membership
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Staff
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Proceedings
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Allowances
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Instruments
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Reports
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 The Board of Trustees of the Wallace Collection
+  - Status
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Membership
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Staff
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Proceedings
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Allowances
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Instruments
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Reports
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Transfers to and from certain collections
+  - Part I Transferors and transferees
+  - Part II Transferees only
+- SCHEDULE 6 Bodies to whom land may be transferred
+- SCHEDULE 7 Bodies to whom grants are payable
+  - Part I By the Lord President of the Council
+    - Museums and galleries
+    - Other institutions
+  - Part II By the Secretary of State
+- SCHEDULE 8 Minor and consequential provisions
+  - Part I The British Museum and the British Museum (Natural History)
+    - British Museum (Natural History): change of name
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Transfer of certain Ministerial functions
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - The British Museum (Purchase of Land) Act 1894
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - The Charities Act 1960
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - The British Museum Act 1963
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Part II Miscellaneous amendments
+    - The National Galleries of Scotland Act 1906
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - The Imperial War Museum Act 1920
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - The National Maritime Museum Act 1934
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - The Imperial War Museum Act 1955
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - The Charities Act 1960
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - The Museum of London Act 1965
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - The British Library Act 1972
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - The National Heritage Act 1983
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - The National Heritage (Scotland) Act 1985
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+- SCHEDULE 9 Enactments repealed
