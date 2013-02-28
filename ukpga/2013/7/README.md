@@ -2,9 +2,9 @@
 
 2013 c. 7. Enacted 2013-02-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-02-28, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/7/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2013/7/2013-02-28
 
 ## Contents
 
@@ -26,7 +26,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/7/2026-04-01
   - [s. 13 Fixed penalties](section/13.md)
 - Miscellaneous
   - [s. 14 Register of levy paid or due to be paid](section/14.md)
-  - [s. 14A Disclosure of information by Revenue and Customs](section/14A.md)
   - [s. 15 HGV road user levy and vehicle licences](section/15.md)
   - [s. 16 Power to install equipment for detection of offences under section 11](section/16.md)
 - Regulations and orders
