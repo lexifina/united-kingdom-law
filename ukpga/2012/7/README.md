@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-02-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2013-02-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2013-04-01
 
 ## Contents
 
@@ -140,7 +140,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2013-02-01
       - [s. 110 Notification of enforcement action](section/110.md)
     - Transitional provision
       - [s. 111](section/111.md)
-      - [s. 112 Duration of transitional period](section/112.md)
+      - [s. 112](section/112.md)
       - [s. 113](section/113.md)
       - [s. 114](section/114.md)
   - CHAPTER 4 Pricing
