@@ -1,0 +1,231 @@
+# Health Authorities Act 1995
+
+1995 c. 17. Enacted 1995-06-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/17
+
+Source: https://www.legislation.gov.uk/ukpga/1995/17/2013-04-01
+
+## Contents
+
+- [s. 1 ................................](section/1.md)
+- [s. 2 Related amendments.](section/2.md)
+- [s. 3 Preparations for reorganisation of authorities.](section/3.md)
+- [s. 4 Transitional provisions and savings.](section/4.md)
+- [s. 5 Repeals and revocations.](section/5.md)
+- [s. 6 Subordinate instruments.](section/6.md)
+- [s. 7 Financial provisions.](section/7.md)
+- [s. 8 Commencement of provisions conferring functions.](section/8.md)
+- [s. 9 Extent.](section/9.md)
+- [s. 10 Short title.](section/10.md)
+- SCHEDULE 1 Amendments
+  - Part I Amendments of the National Health Service Act 1977
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+    - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+    - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+    - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+  - Part II Amendments of the National Health Service and Community Care Act 1990
+    - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+    - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+    - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+    - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+    - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+    - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+    - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+    - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+    - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+    - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+    - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+  - Part III Amendments of other enactments
+    - The Polish Resettlement Act 1947
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+    - The National Assistance Act 1948
+      - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+    - The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951
+      - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+    - The Landlord and Tenant Act 1954
+      - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+    - The Public Records Act 1958
+      - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+    - The Public Bodies (Admission to Meetings) Act 1960
+      - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+    - The Human Tissue Act 1961
+      - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+    - The Parliamentary Commissioner Act 1967
+      - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+    - The Leasehold Reform Act 1967
+      - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+    - The Health Services and Public Health Act 1968
+      - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+    - The Post Office Act 1969
+      - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+    - The Local Government Act 1972
+      - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+    - The National Health Service Reorganisation Act 1973
+      - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+    - The Health and Safety at Work etc. Act 1974
+      - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+    - The House of Commons Disqualification Act 1975
+      - [Sch. 1 para. 100](schedule/1/paragraph/100.md)
+    - The Adoption Act 1976
+      - [Sch. 1 para. 101](schedule/1/paragraph/101.md)
+    - The National Health Service (Scotland) Act 1978
+      - [Sch. 1 para. 102](schedule/1/paragraph/102.md)
+    - The Employment Protection (Consolidation) Act 1978
+      - [Sch. 1 para. 103](schedule/1/paragraph/103.md)
+    - The Nurses, Midwives and Health Visitors Act 1979
+      - [Sch. 1 para. 104](schedule/1/paragraph/104.md)
+    - The Overseas Development and Co-operation Act 1980
+      - [Sch. 1 para. 105](schedule/1/paragraph/105.md)
+    - The Local Government Finance Act 1982
+      - [Sch. 1 para. 106](schedule/1/paragraph/106.md)
+    - The Mental Health Act 1983
+      - [Sch. 1 para. 107](schedule/1/paragraph/107.md)
+    - The Public Health (Control of Disease) Act 1984
+      - [Sch. 1 para. 108](schedule/1/paragraph/108.md)
+    - The Hospital Complaints Procedure Act 1985
+      - [Sch. 1 para. 109](schedule/1/paragraph/109.md)
+    - The Health Service Joint Consultative Committees (Access to Information) Act 1986
+      - [Sch. 1 para. 110](schedule/1/paragraph/110.md)
+    - The Disabled Persons (Services, Consultation and Representation) Act 1986
+      - [Sch. 1 para. 111](schedule/1/paragraph/111.md)
+    - The Education (No.2) Act 1986
+      - [Sch. 1 para. 112](schedule/1/paragraph/112.md)
+    - The AIDS (Control) Act 1987
+      - [Sch. 1 para. 113](schedule/1/paragraph/113.md)
+    - The Income and Corporation Taxes Act 1988
+      - [Sch. 1 para. 114](schedule/1/paragraph/114.md)
+    - The Dartford-Thurrock Crossing Act 1988
+      - [Sch. 1 para. 115](schedule/1/paragraph/115.md)
+    - The Community Health Councils (Access to Information) Act 1988
+      - [Sch. 1 para. 116](schedule/1/paragraph/116.md)
+    - The Road Traffic Act 1988
+      - [Sch. 1 para. 117](schedule/1/paragraph/117.md)
+    - The Children Act 1989
+      - [Sch. 1 para. 118](schedule/1/paragraph/118.md)
+    - The Access to Health Records Act 1990
+      - [Sch. 1 para. 119](schedule/1/paragraph/119.md)
+    - The Water Industry Act 1991
+      - [Sch. 1 para. 120](schedule/1/paragraph/120.md)
+    - The Health and Personal Social Services (Northern Ireland) Order 1991
+      - [Sch. 1 para. 121](schedule/1/paragraph/121.md)
+    - The Trade Union and Labour Relations (Consolidation) Act 1992
+      - [Sch. 1 para. 122](schedule/1/paragraph/122.md)
+    - The Tribunals and Inquiries Act 1992
+      - [Sch. 1 para. 123](schedule/1/paragraph/123.md)
+    - The Education Act 1993
+      - [Sch. 1 para. 124](schedule/1/paragraph/124.md)
+    - The Welsh Language Act 1993
+      - [Sch. 1 para. 125](schedule/1/paragraph/125.md)
+    - The Health Service Commissioners Act 1993
+      - [Sch. 1 para. 126](schedule/1/paragraph/126.md)
+    - The Value Added Tax Act 1994
+      - [Sch. 1 para. 127](schedule/1/paragraph/127.md)
+- SCHEDULE 2 Transitional provisions and savings
+  - Property, rights and liabilities of RHAs, DHAs, FHSAs and SHAs
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Staff of RHAs, DHAs and FHSAs
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Early retirements on reorganisation under 1973 Act
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Accounts and winding up of affairs of RHAs, DHAs and FHSAs
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Trustees etc.
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Mental Health Review Tribunals
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Complaints and appeals
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Arrangements about certain hospital premises etc.
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Continuity
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Instruments and other documents
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - General
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Interpretation
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Repeals and revocations
