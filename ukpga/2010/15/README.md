@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-12-21, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-12-21
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2013-04-01
 
 ## Contents
 
@@ -730,7 +730,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2012-12-21
     - National Health Service
     - Local government
     - Other educational bodies
-    - Police
+    - Police and Fire
     - Other bodies and offices added on 6th April 2011
     - Other bodies and offices added on 5th March 2012
   - PART 4 PUBLIC AUTHORITIES: CROSS-BORDER AUTHORITIES
