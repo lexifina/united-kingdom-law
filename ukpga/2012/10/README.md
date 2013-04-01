@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-03-04, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2013-03-04
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2013-04-01
 
 ## Contents
 
@@ -77,7 +77,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2013-03-04
   - Referral fees
     - [s. 56 Rules against referral fees](section/56.md)
     - [s. 57 Effect of rules against referral fees](section/57.md)
-    - [s. 58 Regulation by FSA](section/58.md)
+    - [s. 58 Regulation by FCA](section/58.md)
     - [s. 59 Regulators and regulated persons](section/59.md)
     - [s. 60 Referral fees: regulations](section/60.md)
   - Pro bono representation
