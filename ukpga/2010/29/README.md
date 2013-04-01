@@ -2,9 +2,9 @@
 
 2010 c. 29. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-10-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-10-01
+Source: https://www.legislation.gov.uk/ukpga/2010/29/2013-04-01
 
 ## Contents
 
@@ -29,7 +29,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-10-01
     - [s. 16 Funding](section/16.md)
     - [s. 17 Levies](section/17.md)
   - 3. Supplemental powers and duties
-    - [s. 18 Environment Agency: reports](section/18.md)
+    - [s. 18 Reports about flood and coastal erosion risk management](section/18.md)
     - [s. 19 Local authorities: investigations](section/19.md)
     - [s. 20 Ministerial directions](section/20.md)
     - [s. 21 Lead local authorities: duty to maintain a register](section/21.md)
@@ -39,6 +39,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-10-01
     - [s. 24 Membership](section/24.md)
     - [s. 25 Money](section/25.md)
     - [s. 26 “The Minister”](section/26.md)
+    - [s. 26A “The appropriate agency”](section/26A.md)
   - 5. General
     - [s. 27 Sustainable development](section/27.md)
     - [s. 28 Power to make further amendments](section/28.md)
@@ -52,7 +53,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2012-10-01
   - [s. 35 Provision of infrastructure](section/35.md)
   - [s. 36 Water use: temporary bans](section/36.md)
   - [s. 37 Civil sanctions](section/37.md)
-  - [s. 38 Incidental flooding or coastal erosion: Environment Agency](section/38.md)
+  - [s. 38 Incidental flooding or coastal erosion: appropriate agency](section/38.md)
   - [s. 39 Incidental flooding or coastal erosion: local authorities](section/39.md)
   - [s. 40 Building regulations: flood resistance](section/40.md)
   - [s. 41 Compulsory works orders](section/41.md)
