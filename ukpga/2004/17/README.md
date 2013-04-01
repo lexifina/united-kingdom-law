@@ -1,0 +1,120 @@
+# Health Protection Agency Act 2004
+
+2004 c. 17. Enacted 2004-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2004/17/2013-04-01
+
+## Contents
+
+- [s. 1 Health Protection Agency](section/1.md)
+- [s. 2 Health functions](section/2.md)
+- [s. 2A Functions in relation to biological substances](section/2A.md)
+- [s. 3 Radiation protection functions](section/3.md)
+- [s. 4 Functions: supplementary](section/4.md)
+- [s. 5 Co-operation](section/5.md)
+- [s. 6 Appropriate authority](section/6.md)
+- [s. 7 Publication of information](section/7.md)
+- [s. 8 Transfer of property and staff, etc.](section/8.md)
+- [s. 9 Directions](section/9.md)
+- [s. 10 Health care provision: standards](section/10.md)
+- [s. 11 Amendments and repeals](section/11.md)
+- [s. 12 Commencement](section/12.md)
+- [s. 13 Short Title](section/13.md)
+- SCHEDULE 1 Health Protection Agency
+  - Membership of the Agency
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Status
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Chief executive
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Terms of appointment
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Disqualification for appointment
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Proceedings
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Staff
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Finance
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Annual report
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Authentication of seal
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Regulations
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Devolved authorities
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+- SCHEDULE 2 Transfer of property and staff, etc.
+  - Transfer schemes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Transfer
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Employment
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Transitional
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Amendments
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Radiological Protection Act 1970 (c. 46)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Immigration Act 1971 (c. 77)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9))
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - National Health Service and Community Care Act 1990 (c. 19)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1))
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - International Development Act 2002 (c. 1)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Nationality, Immigration and Asylum Act 2002 (c. 41)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The Health Protection Agency (Yr Asiantaeth Diogelu Iechyd) (Establishment) Order 2003 (S.I. 2003/505)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Health Protection Agency (Yr Asiantaeth Diogelu Iechyd) Regulations 2003 (S.I. 2003/506)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+- SCHEDULE 4 Repeals
