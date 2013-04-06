@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-04-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-06, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2013-04-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2013-04-06
 
 ## Contents
 
@@ -146,6 +146,9 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2013-04-01
     - [s. 102 Provisions which may be included in common deposit schemes](section/102.md)
     - [s. 103 Further provisions relating to common deposit schemes and funds](section/103.md)
     - [s. 104 Meaning of “Scottish recognised body” and “Northern Ireland charity”](section/104.md)
+  - Total return investment
+    - [s. 104A Investment of endowment fund on total return basis](section/104A.md)
+    - [s. 104B Total return investment: regulations](section/104B.md)
   - Power to authorise dealings with charity property, ex gratia payments etc.
     - [s. 105 Power to authorise dealings with charity property etc.](section/105.md)
     - [s. 106 Power to authorise ex gratia payments etc.](section/106.md)
