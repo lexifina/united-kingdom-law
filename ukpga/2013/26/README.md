@@ -2,9 +2,9 @@
 
 2013 c. 26. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-08-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-25, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/26/2022-08-08
+Source: https://www.legislation.gov.uk/ukpga/2013/26/2013-04-25
 
 ## Contents
 
@@ -20,7 +20,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/26/2022-08-08
 - Single publication rule
   - [s. 8 Single publication rule](section/8.md)
 - Jurisdiction
-  - [s. 9 Action against a person not domiciled in the UK ...](section/9.md)
+  - [s. 9 Action against a person not domiciled in the UK or a Member State etc](section/9.md)
   - [s. 10 Action against a person who was not the author, editor etc](section/10.md)
 - Trial by jury
   - [s. 11 Trial to be without a jury unless the court orders otherwise](section/11.md)
