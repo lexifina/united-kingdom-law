@@ -2,22 +2,19 @@
 
 2013 c. 24. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-25, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
-
-Source: https://www.legislation.gov.uk/ukpga/2013/24/2025-08-20
+Source: https://www.legislation.gov.uk/ukpga/2013/24/2013-04-25
 
 ## Contents
 
 - PART 1 UK Green Investment Bank
   - [s. 1 The green purposes](section/1.md)
-  - [s. 2 Interpretation](section/2.md)
+  - [s. 2 Designation of the UK Green Investment Bank](section/2.md)
   - [s. 3 Alteration of the objects of the UK Green Investment Bank](section/3.md)
   - [s. 4 Financial assistance](section/4.md)
   - [s. 5 Accounts, reports and payments to directors](section/5.md)
   - [s. 6 Documents to be laid before Parliament](section/6.md)
-  - [s. 6A Report on disposal of Crown’s shares in UK Green Investment Bank company](section/6A.md)
 - PART 2 Employment
   - Conciliation
     - [s. 7 Conciliation before institution of proceedings](section/7.md)
@@ -348,30 +345,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/24/2025-08-20
       - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
       - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
       - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
-  - PART 3A The OIM panel
-    - The OIM panel
-      - [Sch. 4 para. 58A](schedule/4/paragraph/58A.md)
-    - Constitution of OIM task groups
-      - [Sch. 4 para. 58B](schedule/4/paragraph/58B.md)
-    - Membership of OIM task groups
-      - [Sch. 4 para. 58C](schedule/4/paragraph/58C.md)
-      - [Sch. 4 para. 58D](schedule/4/paragraph/58D.md)
-    - Termination of person’s membership of an OIM task group
-      - [Sch. 4 para. 58E](schedule/4/paragraph/58E.md)
-      - [Sch. 4 para. 58F](schedule/4/paragraph/58F.md)
-      - [Sch. 4 para. 58G](schedule/4/paragraph/58G.md)
-    - Replacement of a member of an OIM task group
-      - [Sch. 4 para. 58H](schedule/4/paragraph/58H.md)
-    - Continuity on removal or replacement
-      - [Sch. 4 para. 58I](schedule/4/paragraph/58I.md)
-    - Powers of chair pending group’s constitution and first meeting
-      - [Sch. 4 para. 58J](schedule/4/paragraph/58J.md)
-    - Independence of OIM task groups
-      - [Sch. 4 para. 58K](schedule/4/paragraph/58K.md)
-    - Casting votes
-      - [Sch. 4 para. 58L](schedule/4/paragraph/58L.md)
-    - Procedure of OIM task groups
-      - [Sch. 4 para. 58M](schedule/4/paragraph/58M.md)
   - PART 4 Interpretation and transitional and transitory provision
     - Interpretation
       - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
@@ -384,22 +357,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/24/2025-08-20
       - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
     - First annual plan of the CMA
       - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
-- Schedule 4A Functions to which the CMA’s duty of expedition applies
-  - Part 1 Introduction
-    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
-  - Part 2 Competition functions
-    - [Sch. 4A para. 2 Functions under the Enterprise Act 2002](schedule/4A/paragraph/2.md)
-    - [Sch. 4A para. 3 Functions under the Enterprise Act 2002](schedule/4A/paragraph/3.md)
-    - [Sch. 4A para. 4 Functions under the Enterprise Act 2002](schedule/4A/paragraph/4.md)
-    - [Sch. 4A para. 5 Functions under Part 1 of the Competition Act 1998](schedule/4A/paragraph/5.md)
-    - [Sch. 4A para. 6 Functions under Chapter 3 of Part 2 of the Water Industry Act 1991](schedule/4A/paragraph/6.md)
-  - Part 3 Consumer functions
-    - [Sch. 4A para. 7 Functions under Part 3 of the Digital Markets, Competition and Consumers Act 2024](schedule/4A/paragraph/7.md)
-    - [Sch. 4A para. 8 Functions under Part 3 of the Digital Markets, Competition and Consumers Act 2024](schedule/4A/paragraph/8.md)
-    - [Sch. 4A para. 9 Functions under the Consumer Rights Act 2015](schedule/4A/paragraph/9.md)
-    - [Sch. 4A para. 10 Functions under the Business Protection from Misleading Marketing Regulations 2008](schedule/4A/paragraph/10.md)
-  - Part 4 Digital market functions
-    - [Sch. 4A para. 11 Functions under Part 1 of the Digital Markets, Competition and Consumers Act 2024](schedule/4A/paragraph/11.md)
 - SCHEDULE 5 Amendments related to Part 3
   - PART 1 Transfer of functions under the 1998 Act to the CMA
     - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
