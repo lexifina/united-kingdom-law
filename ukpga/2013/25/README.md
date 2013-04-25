@@ -2,9 +2,9 @@
 
 2013 c. 25. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-25, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/25/2026-07-01
+Source: https://www.legislation.gov.uk/ukpga/2013/25/2013-04-25
 
 ## Contents
 
@@ -24,7 +24,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/25/2026-07-01
 - Cost control
   - [s. 11 Valuations](section/11.md)
   - [s. 12 Employer cost cap](section/12.md)
-  - [s. 12A Sections 11 and 12: restricted schemes](section/12A.md)
   - [s. 13 Employer contributions in funded schemes](section/13.md)
 - Administration
   - [s. 14 Information about benefits](section/14.md)
@@ -42,7 +41,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/25/2026-07-01
   - [s. 24 Other procedure](section/24.md)
 - New schemes: supplementary
   - [s. 25 Extension of schemes](section/25.md)
-  - [s. 25A Extension of schemes where definition of “the judiciary” expanded](section/25A.md)
   - [s. 26 Non-scheme benefits](section/26.md)
   - [s. 27 Consequential and minor amendments](section/27.md)
 - Existing schemes: supplementary
@@ -288,7 +286,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/25/2026-07-01
   - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
   - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
   - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
-  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
 - SCHEDULE 11 Prime Minister, Lord Chancellor and Commons Speaker
   - Extension of MPs’ and Ministerial pension schemes
     - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
