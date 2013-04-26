@@ -2,9 +2,9 @@
 
 2013 c. 21. Enacted 2013-04-25.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-26, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/21` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/21/enacted
+Source: https://www.legislation.gov.uk/ukpga/2013/21/2013-04-26
 
 ## Contents
 
