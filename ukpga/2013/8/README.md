@@ -2,9 +2,9 @@
 
 2013 c. 8. Enacted 2013-02-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-02-28, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2013-04-28, one file per provision. Earlier versions, from 2013-02-28, are in the history before it: `git log -- ukpga/2013/8` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/8/2013-02-28
+Source: https://www.legislation.gov.uk/ukpga/2013/8/2013-04-28
 
 ## Contents
 
