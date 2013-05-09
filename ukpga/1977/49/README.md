@@ -1,0 +1,720 @@
+# National Health Service Act 1977
+
+1977 c. 49. Enacted 1977-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-05-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 46 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1977/49
+
+Source: https://www.legislation.gov.uk/ukpga/1977/49/2013-05-09
+
+## Contents
+
+- Part I Services and Administration
+  - Functions of the Secretary of State
+    - [s. 1 Secretary of State’s duty as to health service.](section/1.md)
+    - [s. 2 Secretary of State’s general power as to services.](section/2.md)
+    - [s. 3 Services generally.](section/3.md)
+    - [s. 4 High security psychiatric services.](section/4.md)
+    - [s. 5 Other services.](section/5.md)
+  - Central Health Services Council and Medical Practices Committee
+    - [s. 6 Central Health Services Council, and standing advisory committees.](section/6.md)
+    - [s. 7 Medical Practices Committee.](section/7.md)
+  - Local administration
+    - [s. 8 Health Authorities and Strategic Health Authorities](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 Family Practitioner Committees.](section/10.md)
+    - [s. 11 Special Health Authorities.](section/11.md)
+    - [s. 12 Supplementary provisions for ss. 8 and 11.](section/12.md)
+    - [s. 13 Secretary of State’s directions.](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 Duty of Health Authority in relation to family health services.](section/15.md)
+    - [s. 16 Exercise of functions by Health Authorities and Special Health Authorities.](section/16.md)
+    - [s. 16A Primary Care Trusts.](section/16A.md)
+    - [s. 16B Exercise of functions by Primary Care Trusts.](section/16B.md)
+    - [s. 16BA Local Health Boards](section/16BA.md)
+    - [s. 16BB Local Health Boards: functions](section/16BB.md)
+    - [s. 16BC Exercise of functions by Local Health Boards](section/16BC.md)
+    - [s. 16C Advice for Health Authorities and Primary Care Trusts.](section/16C.md)
+  - Functions of Primary Care Trusts and Local Health Boards
+    - [s. 16CA Primary dental services](section/16CA.md)
+    - [s. 16CB Dental public health](section/16CB.md)
+    - [s. 16CC Primary medical services](section/16CC.md)
+  - Directions as to distribution and exercise of functions
+    - [s. 16D Secretary of State’s directions: distribution of functions.](section/16D.md)
+    - [s. 17 Secretary of State’s directions: exercise of functions.](section/17.md)
+    - [s. 17A Strategic Health Authority’s directions: distribution of functions.](section/17A.md)
+    - [s. 17B Health Authority’s directions: exercise of functions.](section/17B.md)
+  - Directions and regulations: general
+    - [s. 18 Directions and regulations under preceding provisions.](section/18.md)
+  - Primary Care Trusts: further functions
+    - [s. 18A Provision of services etc.](section/18A.md)
+  - Advisory committees for Wales and Community Health Councils
+    - [s. 19 Advisory committees for Wales.](section/19.md)
+    - [s. 19A Independent advocacy services](section/19A.md)
+    - [s. 20 Community Health Councils.](section/20.md)
+    - [s. 20A Community Health Councils in Wales](section/20A.md)
+  - Co-operation and assistance
+    - [s. 21 Local social services authorities.](section/21.md)
+    - [s. 22 Co-operation between health authorities and local authorities.](section/22.md)
+    - [s. 23 Voluntary organisations and other bodies.](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 Supplies not readily obtainable.](section/25.md)
+    - [s. 26 Supply of goods and services by Secretary of State.](section/26.md)
+    - [s. 27 Conditions of supply under s. 26.](section/27.md)
+    - [s. 28 Supply of goods and services by local authorities.](section/28.md)
+    - [s. 28A Power to make payments towards expenditure on community services.](section/28A.md)
+    - [s. 28B Power of Secretary of State to make payments towards expenditure on community services in Wales.](section/28B.md)
+    - [s. 28BB Power of local authorities to make payments to NHS bodies.](section/28BB.md)
+  - Provision of personal medical or dental services
+    - [s. 28C Personal medical or dental services.](section/28C.md)
+    - [s. 28D Persons with whom agreements may be made.](section/28D.md)
+    - [s. 28DA Lists of persons who may perform personal medical services or personal dental services](section/28DA.md)
+    - [s. 28E Personal medical or dental services: regulations.](section/28E.md)
+    - [s. 28EE Delegation of Health Authority functions relating to section 28C arrangements.](section/28EE.md)
+    - [s. 28F Right to choose medical practitioner.](section/28F.md)
+    - [s. 28G Right to choose dental practitioner.](section/28G.md)
+    - [s. 28H Immunisation.](section/28H.md)
+    - [s. 28I Use of accommodation.](section/28I.md)
+    - [s. 28J Local pharmaceutical services schemes](section/28J.md)
+  - General dental services contracts
+    - [s. 28K General dental services contracts: introductory](section/28K.md)
+    - [s. 28L Requirement to provide certain primary dental services](section/28L.md)
+    - [s. 28M Persons eligible to enter into GDS contracts](section/28M.md)
+    - [s. 28N GDS contracts: payments](section/28N.md)
+    - [s. 28O GDS contracts: other required terms](section/28O.md)
+    - [s. 28P GDS contracts: disputes and enforcement](section/28P.md)
+  - General medical services contracts
+    - [s. 28Q General medical services contracts: introductory](section/28Q.md)
+    - [s. 28R Requirement to provide certain primary medical services](section/28R.md)
+    - [s. 28S Persons eligible to enter into GMS contracts](section/28S.md)
+    - [s. 28T GMS contracts: payments](section/28T.md)
+    - [s. 28U GMS contracts: prescription of drugs etc](section/28U.md)
+    - [s. 28V GMS contracts: other required terms](section/28V.md)
+    - [s. 28W GMS contracts: disputes and enforcement](section/28W.md)
+    - [s. 28X Persons performing primary medical and dental services](section/28X.md)
+    - [s. 28Y Assistance and support](section/28Y.md)
+- Part II General Medical, General Dental, General Ophthalmic, and Pharmaceutical Services
+  - General medical services
+    - [s. 29 Arrangements and regulations for general medical services.](section/29.md)
+    - [s. 29A Medical lists.](section/29A.md)
+    - [s. 29B Vacancies for medical practitioners.](section/29B.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 Requirement of suitable experience.](section/31.md)
+    - [s. 32 Regulations as to s. 31.](section/32.md)
+    - [s. 33 Distribution of general medical services.](section/33.md)
+    - [s. 34 Regulations for Medical Practices Committee.](section/34.md)
+  - General dental services
+    - [s. 35 Arrangements for general dental services.](section/35.md)
+    - [s. 36 Regulations as to s. 35.](section/36.md)
+    - [s. 37 Dental Estimates Board.](section/37.md)
+  - General ophthalmic services
+    - [s. 38 Arrangements for general ophthalmic services.](section/38.md)
+    - [s. 39 Regulations as to s. 38.](section/39.md)
+    - [s. 40 Medical practitioners with qualifications prescribed under s. 38.](section/40.md)
+  - Pharmaceutical services
+    - [s. 41 Arrangements for pharmaceutical services](section/41.md)
+    - [s. 41A Arrangements for providing additional pharmaceutical services.](section/41A.md)
+    - [s. 41B Terms and conditions etc.](section/41B.md)
+    - [s. 42 Regulations as to pharmaceutical services.](section/42.md)
+    - [s. 42A Power to charge: England](section/42A.md)
+    - [s. 42B Power to charge: Wales](section/42B.md)
+    - [s. 43 Persons authorised to provide pharmaceutical services.](section/43.md)
+    - [s. 43ZA Conditional inclusion in medical, dental, ophthalmic and pharmaceutical lists](section/43ZA.md)
+  - Indemnity cover
+    - [s. 43C Indemnity cover.](section/43C.md)
+    - [s. 43D Supplementary lists](section/43D.md)
+  - Local representative committees
+    - [s. 44 Recognition of Local Optical Committees and Local Pharmaceutical Committees.](section/44.md)
+    - [s. 45 Functions of Local Optical Committees and Local Pharmaceutical Committees.](section/45.md)
+    - [s. 45A Local Medical Committees](section/45A.md)
+    - [s. 45B Local Dental Committees](section/45B.md)
+  - Provisions as to disqualification of practitioners
+    - [s. 46 Disqualification of practitioners.](section/46.md)
+    - [s. 47 Removal of disqualification.](section/47.md)
+    - [s. 48 Disqualification provisions in Scotland or Northern Ireland.](section/48.md)
+    - [s. 49 Regulations as to ss. 46 to 48.](section/49.md)
+    - [s. 49A Applications for interim suspension.](section/49A.md)
+    - [s. 49B Continuation of suspension pending appeal.](section/49B.md)
+    - [s. 49C Sections 49A and 49B: procedure etc.](section/49C.md)
+    - [s. 49D Suspension provisions in Scotland or Northern Ireland.](section/49D.md)
+    - [s. 49E Payments in consequence of suspension.](section/49E.md)
+    - [s. 49F Disqualification of practitioners](section/49F.md)
+    - [s. 49G Contingent removal](section/49G.md)
+    - [s. 49H Fraud and unsuitability cases: supplementary](section/49H.md)
+    - [s. 49I Suspension](section/49I.md)
+    - [s. 49J Suspension pending appeal](section/49J.md)
+    - [s. 49K Effect of suspension](section/49K.md)
+    - [s. 49L Review of decisions](section/49L.md)
+    - [s. 49M Appeals](section/49M.md)
+    - [s. 49N National disqualification](section/49N.md)
+    - [s. 49O Notification of decisions](section/49O.md)
+    - [s. 49P Withdrawal from lists](section/49P.md)
+    - [s. 49Q Regulations](section/49Q.md)
+    - [s. 49R Corresponding provision in Scotland and Northern Ireland](section/49R.md)
+  - The Family Health Services Appeal Authority
+    - [s. 49S The Family Health Services Appeal Authority](section/49S.md)
+  - Other provisions supplementary to Part II
+    - [s. 50 Exercise of choice of practitioner in certain cases.](section/50.md)
+    - [s. 51 University clinical teaching and research.](section/51.md)
+    - [s. 52 Use of accommodation.](section/52.md)
+    - [s. 53 Immunisation.](section/53.md)
+    - [s. 54 Sale of medical practices.](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 Inadequate services.](section/56.md)
+- Part III Other Powers of the Secretary of State as to theHealth Service
+  - Control of maximum prices for medical supplies
+    - [s. 57 Maximum price of medical supplies may be controlled.](section/57.md)
+  - Additional powers as to services and supplies; and the use of those services and supplies for private patients
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 Restriction of powers under ss. 25, 58 and 61.](section/62.md)
+  - Further provisions as to payments by patients for health service accommodation and services
+    - [s. 63 Hospital accommodation on part payment.](section/63.md)
+    - [s. 64 Expenses payable by remuneratively employed resident patients.](section/64.md)
+    - [s. 65 Accommodation and services for private patients.](section/65.md)
+    - [s. 66A ................................](section/66A.md)
+    - [s. 67 ................................](section/67.md)
+  - Use by practitioners of health service facilities for private Practice
+    - [s. 72 Permission for use of facilities in private practice.](section/72.md)
+    - [s. 73 ................................](section/73.md)
+  - Regulations as to certain charges
+    - [s. 77 Charges for drugs, medicines or appliances, or pharmaceutical services.](section/77.md)
+    - [s. 78 Charges for ... optical appliances.](section/78.md)
+    - [s. 79 Dental charging](section/79.md)
+    - [s. 79A Calculation of charges for dental appliances and treatment.](section/79A.md)
+    - [s. 80 Charges for designated facilities.](section/80.md)
+    - [s. 81 Charges for more expensive supplies.](section/81.md)
+    - [s. 82 Charges for repairs and replacements in certain cases.](section/82.md)
+    - [s. 83 Sums otherwise payable to those providing services.](section/83.md)
+    - [s. 83A Remission and repayment of charges and payment of travelling expenses.](section/83A.md)
+  - Inquiries, and default and emergency powers
+    - [s. 84 Inquiries.](section/84.md)
+    - [s. 84A Intervention orders](section/84A.md)
+    - [s. 84B Intervention orders: effect](section/84B.md)
+    - [s. 85 Default powers.](section/85.md)
+    - [s. 86 Emergency powers.](section/86.md)
+- Part IV Property and Finance
+  - Land and other Property
+    - [s. 87 Acquisition, use and maintenance of property.](section/87.md)
+    - [s. 88 Transferred property free of trusts.](section/88.md)
+    - [s. 89 Power of voluntary organisations to transfer property.](section/89.md)
+  - Trusts
+    - [s. 90 Gifts on trust.](section/90.md)
+    - [s. 91 Private trusts for hospitals.](section/91.md)
+    - [s. 92 Further transfers of trust property.](section/92.md)
+    - [s. 93 Trust property previously held for general hospital purposes.](section/93.md)
+    - [s. 94 Application of trust property: further provisions.](section/94.md)
+    - [s. 95 Special trustees for a university or teaching hospital.](section/95.md)
+    - [s. 96 Trusts: supplementary provisions.](section/96.md)
+    - [s. 96A Power of health authorities, etc. to raise money, etc., by appeals, collections, etc.](section/96A.md)
+    - [s. 96B Trust-funds and trustees for Primary Care Trusts.](section/96B.md)
+  - Companies
+    - [s. 96C Public-private partnerships](section/96C.md)
+  - Finance and Accounts
+    - [s. 97 Means of meeting expenditure of Health Authorities and Special Health Authorities out of public funds.](section/97.md)
+    - [s. 97A Financial duties of Health Authorities and Special Health Authorities.](section/97A.md)
+    - [s. 97AA Resource limits for Health Authorities and Special Health Authorities.](section/97AA.md)
+    - [s. 97B ................................](section/97B.md)
+    - [s. 97C Public funding of Primary Care Trusts.](section/97C.md)
+    - [s. 97D Financial duties of Primary Care Trusts.](section/97D.md)
+    - [s. 97E Resource limits for Primary Care Trusts.](section/97E.md)
+    - [s. 97F Public funding of Local Health Boards](section/97F.md)
+    - [s. 97G Financial duties of Local Health Boards](section/97G.md)
+    - [s. 97H Resource limits for Local Health Boards](section/97H.md)
+    - [s. 98 Accounts and audit.](section/98.md)
+    - [s. 99 Regulation of financial arrangements.](section/99.md)
+    - [s. 100 Other Payments.](section/100.md)
+    - [s. 101 Secretary of State’s receipts.](section/101.md)
+  - Miscellaneous provisions as to remuneration, allowances and superannuation
+    - [s. 102 Allowances and remuneration for members of certain bodies.](section/102.md)
+    - [s. 103 Special arrangement as to payment of remuneration.](section/103.md)
+    - [s. 104 Superannuation of officers of certain hospitals.](section/104.md)
+    - [s. 105 Payments for certain medical examinations.](section/105.md)
+- Part V
+  - [s. 106 Appointment and tenure of office of Commissioners.](section/106.md)
+  - [s. 107 Salaries and pensions of Commissioners.](section/107.md)
+  - [s. 108 Administrative provisions.](section/108.md)
+  - [s. 108A Appointment of acting Commissioners.](section/108A.md)
+  - [s. 109 Bodies subject to investigation.](section/109.md)
+  - [s. 110 Investigations for England, and for Wales.](section/110.md)
+  - [s. 111 Who may complain.](section/111.md)
+  - [s. 112 Reply.](section/112.md)
+  - [s. 113 Commissioner’s discretion.](section/113.md)
+  - [s. 114 Procedure, and additional procedural provisions.](section/114.md)
+  - [s. 115 Matters subject to investigation.](section/115.md)
+  - [s. 116 Matters not subject to investigation.](section/116.md)
+  - [s. 117 Reference to Commissioner by relevant body.](section/117.md)
+  - [s. 118 Consultations between Commissioners and Local Commissioners.](section/118.md)
+  - [s. 119 Reports by Commissioners.](section/119.md)
+  - [s. 120 Interpretation of Part V.](section/120.md)
+- Part VI Miscellaneous and Supplementary
+  - General provisions as to charges
+    - [s. 121 Charges in respect of non-residents.](section/121.md)
+    - [s. 122 Recovery of charges.](section/122.md)
+    - [s. 122A Recovery of other charges and payments.](section/122A.md)
+    - [s. 122B Penalties.](section/122B.md)
+    - [s. 122C Offences.](section/122C.md)
+  - Miscellaneous
+    - [s. 123 Persons displaced by health service development.](section/123.md)
+    - [s. 124 Special notices of births and deaths.](section/124.md)
+    - [s. 124A Provision of information by Registrar General.](section/124A.md)
+    - [s. 125 Protection of members and officers of authorities.](section/125.md)
+  - Supplementary
+    - [s. 126 Orders and regulations, and directions.](section/126.md)
+    - [s. 127 Supplementary regulatory powers.](section/127.md)
+    - [s. 128 Interpretation and construction.](section/128.md)
+    - [s. 129 Transitional provisions and savings, consequential amendments, and repeals.](section/129.md)
+    - [s. 130 Short title, extent and commencement.](section/130.md)
+- SCHEDULE 1 Additional Provisions as to the Medical and Dental Inspection and Treatment of Pupils ...
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Additional Provisions as to Vehicles for Those Suffering Disability
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Public Health Laboratory Service Board
+  - Part I Constitution of the Public Health Laboratory Service Board
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part II Additional Provisions as to the Public HealthLaboratory Service Board
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4 Central Health Services Council and AdvisoryCommittees
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Supplementary provisions
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 HEALTH AUTHORITIES AND SPECIAL HEALTH AUTHORITIES
+  - Part I Membership of Strategic Health Authorities and Health Authorities
+    - [Sch. 5 Pt. In1 para. 1](schedule/5/part/In1/paragraph/1.md)
+    - [Sch. 5 Pt. In1 para. 2](schedule/5/part/In1/paragraph/2.md)
+    - [Sch. 5 Pt. In1 para. 3](schedule/5/part/In1/paragraph/3.md)
+    - [Sch. 5 Pt. In1 para. 4](schedule/5/part/In1/paragraph/4.md)
+    - [Sch. 5 para. 4A](schedule/5/paragraph/4A.md)
+  - Part I Membership of Regional Area and District Health Authorities
+    - Regional Health Authorities
+      - [Sch. 5 Pt. In2 heading regional-health-authorities para. 1](schedule/5/part/In2/crossheading/regional-health-authorities/paragraph/1.md)
+    - Area Health Authorities
+      - [Sch. 5 Pt. In2 heading area-health-authorities para. 2](schedule/5/part/In2/crossheading/area-health-authorities/paragraph/2.md)
+      - [Sch. 5 Pt. In2 heading area-health-authorities para. 3](schedule/5/part/In2/crossheading/area-health-authorities/paragraph/3.md)
+      - [Sch. 5 Pt. In2 heading area-health-authorities para. 4](schedule/5/part/In2/crossheading/area-health-authorities/paragraph/4.md)
+    - Supplemental
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part II Family Practitioner Committees
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 7A](schedule/5/paragraph/7A.md)
+  - Part III Supplementary Provisions
+    - Corporate status
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Pay and allowances
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Staff
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Miscellaneous
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 12A](schedule/5/paragraph/12A.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+- Schedule 5A Primary Care Trusts
+  - Part I PCT orders
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+    - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - Part II Constitution and Membership
+    - Corporate status
+      - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+    - Membership
+      - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+      - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+      - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+      - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+    - Staff
+      - [Sch. 5A para. 8](schedule/5A/paragraph/8.md)
+      - [Sch. 5A para. 9](schedule/5A/paragraph/9.md)
+      - [Sch. 5A para. 10](schedule/5A/paragraph/10.md)
+      - [Sch. 5A para. 10A](schedule/5A/paragraph/10A.md)
+    - Remuneration, pensions etc
+      - [Sch. 5A para. 11](schedule/5A/paragraph/11.md)
+  - Part III Powers and Duties
+    - General powers
+      - [Sch. 5A para. 12](schedule/5A/paragraph/12.md)
+      - [Sch. 5A para. 13](schedule/5A/paragraph/13.md)
+    - Specific powers
+      - [Sch. 5A para. 14](schedule/5A/paragraph/14.md)
+      - [Sch. 5A para. 15](schedule/5A/paragraph/15.md)
+    - Specific duties
+      - [Sch. 5A para. 16](schedule/5A/paragraph/16.md)
+      - [Sch. 5A para. 17](schedule/5A/paragraph/17.md)
+    - Status
+      - [Sch. 5A para. 18](schedule/5A/paragraph/18.md)
+    - Compulsory acquisition
+      - [Sch. 5A para. 19](schedule/5A/paragraph/19.md)
+    - Dissolution
+      - [Sch. 5A para. 20](schedule/5A/paragraph/20.md)
+  - Part IV Transfer of Property
+    - [Sch. 5A para. 21](schedule/5A/paragraph/21.md)
+    - [Sch. 5A para. 22](schedule/5A/paragraph/22.md)
+  - Part V Transfer of staff
+    - [Sch. 5A para. 23](schedule/5A/paragraph/23.md)
+    - [Sch. 5A para. 24](schedule/5A/paragraph/24.md)
+    - [Sch. 5A para. 25](schedule/5A/paragraph/25.md)
+    - [Sch. 5A para. 26](schedule/5A/paragraph/26.md)
+- SCHEDULE 5B Local Health Boards
+  - Part 1 LHB orders
+    - [Sch. 5B para. 1](schedule/5B/paragraph/1.md)
+    - [Sch. 5B para. 2](schedule/5B/paragraph/2.md)
+  - Part 2 Status, constitution and membership
+    - [Sch. 5B para. 3 Status](schedule/5B/paragraph/3.md)
+    - [Sch. 5B para. 4](schedule/5B/paragraph/4.md)
+    - [Sch. 5B para. 5 Membership](schedule/5B/paragraph/5.md)
+    - [Sch. 5B para. 6](schedule/5B/paragraph/6.md)
+    - [Sch. 5B para. 7](schedule/5B/paragraph/7.md)
+    - [Sch. 5B para. 8](schedule/5B/paragraph/8.md)
+    - [Sch. 5B para. 9 Staff](schedule/5B/paragraph/9.md)
+    - [Sch. 5B para. 10](schedule/5B/paragraph/10.md)
+    - [Sch. 5B para. 11](schedule/5B/paragraph/11.md)
+    - [Sch. 5B para. 12 Remuneration, pensions etc of members](schedule/5B/paragraph/12.md)
+  - Part 3 Other matters
+    - [Sch. 5B para. 13 General powers](schedule/5B/paragraph/13.md)
+    - [Sch. 5B para. 14](schedule/5B/paragraph/14.md)
+    - [Sch. 5B para. 15 Specific powers and duties](schedule/5B/paragraph/15.md)
+    - [Sch. 5B para. 16](schedule/5B/paragraph/16.md)
+    - [Sch. 5B para. 17](schedule/5B/paragraph/17.md)
+    - [Sch. 5B para. 18 Compulsory acquisition](schedule/5B/paragraph/18.md)
+    - [Sch. 5B para. 19 Dissolution](schedule/5B/paragraph/19.md)
+    - [Sch. 5B para. 20 Transfer of property](schedule/5B/paragraph/20.md)
+    - [Sch. 5B para. 21](schedule/5B/paragraph/21.md)
+    - [Sch. 5B para. 22 Transfer of staff](schedule/5B/paragraph/22.md)
+    - [Sch. 5B para. 23](schedule/5B/paragraph/23.md)
+    - [Sch. 5B para. 24](schedule/5B/paragraph/24.md)
+    - [Sch. 5B para. 25](schedule/5B/paragraph/25.md)
+    - [Sch. 5B para. 26 Interpretation](schedule/5B/paragraph/26.md)
+- SCHEDULE 6 Additional Provisions as to Advisory Committees for Wales
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Additional Provisions as to Community Health Councils
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 7A Further Provisions about Councils under Section 20A
+  - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+  - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+  - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+  - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+  - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+- SCHEDULE 8 Local Social Services Authorities
+  - Care of mothers and young children
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Prevention, care and after-care
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Home help and laundry facilities
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Research
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 8A Local Pharmaceutical Services Schemes
+  - [Sch. 8A para. 1 Provision of local pharmaceutical services](schedule/8A/paragraph/1.md)
+  - [Sch. 8A para. 2 Designation of priority neighbourhoods or premises](schedule/8A/paragraph/2.md)
+  - [Sch. 8A para. 3 Regulations](schedule/8A/paragraph/3.md)
+  - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+- SCHEDULE 9 Tribunal for Purposes of Section 46
+  - Constitution of Tribunal
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Sittings of Tribunal
+    - [Sch. 9 para. 5A](schedule/9/paragraph/5A.md)
+  - Supplementary
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 9A The Family Health Services Appeal Authority
+  - [Sch. 9A para. 1 Constitution](schedule/9A/paragraph/1.md)
+  - [Sch. 9A para. 2](schedule/9A/paragraph/2.md)
+  - [Sch. 9A para. 3](schedule/9A/paragraph/3.md)
+  - [Sch. 9A para. 4](schedule/9A/paragraph/4.md)
+  - [Sch. 9A para. 5](schedule/9A/paragraph/5.md)
+  - [Sch. 9A para. 6](schedule/9A/paragraph/6.md)
+  - [Sch. 9A para. 7 Procedure](schedule/9A/paragraph/7.md)
+  - [Sch. 9A para. 8](schedule/9A/paragraph/8.md)
+  - [Sch. 9A para. 9](schedule/9A/paragraph/9.md)
+  - [Sch. 9A para. 10](schedule/9A/paragraph/10.md)
+  - [Sch. 9A para. 11](schedule/9A/paragraph/11.md)
+  - [Sch. 9A para. 12](schedule/9A/paragraph/12.md)
+  - [Sch. 9A para. 13](schedule/9A/paragraph/13.md)
+  - [Sch. 9A para. 14](schedule/9A/paragraph/14.md)
+  - [Sch. 9A para. 15](schedule/9A/paragraph/15.md)
+  - [Sch. 9A para. 16](schedule/9A/paragraph/16.md)
+  - [Sch. 9A para. 17](schedule/9A/paragraph/17.md)
+  - [Sch. 9A para. 18](schedule/9A/paragraph/18.md)
+  - [Sch. 9A para. 19 Miscellaneous](schedule/9A/paragraph/19.md)
+  - [Sch. 9A para. 20](schedule/9A/paragraph/20.md)
+  - [Sch. 9A para. 21 Interpretation](schedule/9A/paragraph/21.md)
+- SCHEDULE 10 Additional Provisions as to Prohibition of Sale of Medical Practices
+  - Prohibition, and certificate of Medical Practices Committee
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Certain transactions deemed sale of goodwill
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Carried-over goodwill
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 5A](schedule/11/paragraph/5A.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+- SCHEDULE 12 Additional Provisions as to Regulations for the Makingand Recovery of Charges
+  - Regulations under section 77—charges for drugs, medicines orappliances, or pharmaceutical services
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Regulations under section 78—charges for ... optical appliances
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 2A](schedule/12/paragraph/2A.md)
+  - ...
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Miscellaneous Provisions
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+- SCHEDULE 12ZA Dental charging: exemptions
+  - [Sch. 12ZA para. 1 General exemptions](schedule/12ZA/paragraph/1.md)
+  - [Sch. 12ZA para. 2 Repair and replacement](schedule/12ZA/paragraph/2.md)
+  - [Sch. 12ZA para. 3 Exceptions to paragraphs 1 and 2](schedule/12ZA/paragraph/3.md)
+  - [Sch. 12ZA para. 4 Hospital patients](schedule/12ZA/paragraph/4.md)
+  - [Sch. 12ZA para. 5 Hospital patients](schedule/12ZA/paragraph/5.md)
+  - [Sch. 12ZA para. 6 Arrest of bleeding](schedule/12ZA/paragraph/6.md)
+  - [Sch. 12ZA para. 7 Declarations and evidence](schedule/12ZA/paragraph/7.md)
+- SCHEDULE 12A Expenditure of Health Authorities and Primary Care Trusts
+  - Health Authorities: general Part II expenditure
+    - [Sch. 12A para. 1](schedule/12A/paragraph/1.md)
+  - Health Authorities: main expenditure
+    - [Sch. 12A para. 2](schedule/12A/paragraph/2.md)
+    - [Sch. 12A para. 3](schedule/12A/paragraph/3.md)
+  - PCTs: general Part II expenditure
+    - [Sch. 12A para. 4](schedule/12A/paragraph/4.md)
+  - PCTs: main expenditure
+    - [Sch. 12A para. 5](schedule/12A/paragraph/5.md)
+    - [Sch. 12A para. 6](schedule/12A/paragraph/6.md)
+    - [Sch. 12A para. 6A Local Health Boards: general Part 2 expenditure](schedule/12A/paragraph/6A.md)
+    - [Sch. 12A para. 6B Local Health Boards: main expenditure](schedule/12A/paragraph/6B.md)
+    - [Sch. 12A para. 6C](schedule/12A/paragraph/6C.md)
+  - Interpretation
+    - [Sch. 12A para. 7](schedule/12A/paragraph/7.md)
+- SCHEDULE 12B ACCOUNTS AND AUDIT
+  - English and cross-border NHS bodies
+    - [Sch. 12B para. 1](schedule/12B/paragraph/1.md)
+  - Welsh NHS bodies
+    - [Sch. 12B para. 2](schedule/12B/paragraph/2.md)
+  - Accounts to be kept by NHS bodies
+    - [Sch. 12B para. 3](schedule/12B/paragraph/3.md)
+  - Preparation of annual accounts
+    - [Sch. 12B para. 4](schedule/12B/paragraph/4.md)
+  - Auditing of accounts of certain English NHS bodies
+    - [Sch. 12B para. 5](schedule/12B/paragraph/5.md)
+  - Transmission of annual accounts
+    - [Sch. 12B para. 6](schedule/12B/paragraph/6.md)
+  - Auditing of certain Special Health Authority accounts by Comptroller and Auditor General
+    - [Sch. 12B para. 7](schedule/12B/paragraph/7.md)
+  - Summarised accounts of English NHS bodies other than Special Health Authorities
+    - [Sch. 12B para. 8](schedule/12B/paragraph/8.md)
+  - Summarised accounts of Welsh NHS bodies
+    - [Sch. 12B para. 9](schedule/12B/paragraph/9.md)
+  - Exceptions for accounts of charitable trusts
+    - [Sch. 12B para. 10](schedule/12B/paragraph/10.md)
+  - Exceptions for accounts of non-charitable trusts
+    - [Sch. 12B para. 11](schedule/12B/paragraph/11.md)
+  - Meaning of “the Assembly”
+    - [Sch. 12B para. 12](schedule/12B/paragraph/12.md)
+- SCHEDULE 13
+  - Part I Procedural and other Provisions
+    - Procedure in respect of investigations
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Evidence
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Obstruction and contempt
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - Secrecy of information
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+      - [Sch. 13 para. 16A](schedule/13/paragraph/16A.md)
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Part II
+    - Matters not subject to investigation by the Health Service Commissioner for England or the Health Service Commissioner for Wales
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+- SCHEDULE 14 Transitional Provisions and Savings
+  - General
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Medical schools in London
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Section 36of the National Health Service Act 1946
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Local Acts and charters
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Persons authorised to provide pharmaceutical services
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Disqualification of practitioners
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Definition of “local authority”
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Sections 3 and 4 of the Health Services and Public Health Act1968
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Vehicles under section 33 of the Health Services and Public Health Act 1968
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Prevention, care and after-care
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Saving of amendments
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Transfers of property by voluntary organisations
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Mental Health Act 1959
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - The National Health Service Reorganisation Act 1973
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Complaints in respect of preserved Boards or bodies abolished undersection 14of the National Health Service Reorganisation Act 1973
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Permission deemed to have been granted under section 9(5) of the Health Services Act 1976
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+- SCHEDULE 15 Consequential Amendments
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - The Education Act 1944 c.31
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - The Education Act 1946 c.50
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - The Polish Resettlement Act 1947 c.19
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - The National Assistance Act 1948 c.29
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - The Law Reform (Personal Injuries) Act 1948 c.41
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - The Children Act 1948 c. 43
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - The Nurseries and Child-Minders Regulation Act 1948 c.53
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - The Reserve and Auxilliary Forces (Protection of Civil Interests) Act 1951 c.65
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - The Landlord and Tenant Act 1954 c.56
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - The Disabled Persons (Employment) Act 1958 c.33
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+  - The Public Records Act 1958 c.51
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - The Mental Health Act 1959 c.72
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+    - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+    - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+    - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+    - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+    - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+    - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+    - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+    - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+  - The Superannuation (Miscellaneous Provisions) Act 1967 c. 28
+    - [Sch. 15 para. 40](schedule/15/paragraph/40.md)
+    - [Sch. 15 para. 41](schedule/15/paragraph/41.md)
+  - The Leasehold Reform Act 1967 c.88
+    - [Sch. 15 para. 42](schedule/15/paragraph/42.md)
+  - The Health Services and Public Health Act 1968 c.46
+    - [Sch. 15 para. 43](schedule/15/paragraph/43.md)
+    - [Sch. 15 para. 44](schedule/15/paragraph/44.md)
+    - [Sch. 15 para. 45](schedule/15/paragraph/45.md)
+    - [Sch. 15 para. 46](schedule/15/paragraph/46.md)
+    - [Sch. 15 para. 47](schedule/15/paragraph/47.md)
+  - The Social Work (Scotland) Act 1968 c.49
+    - [Sch. 15 para. 48](schedule/15/paragraph/48.md)
+  - The Medicines Act 1968 c.67
+    - [Sch. 15 para. 49](schedule/15/paragraph/49.md)
+    - [Sch. 15 para. 50](schedule/15/paragraph/50.md)
+  - The Local Authority Social Services Act 1970 c.42
+    - [Sch. 15 para. 51](schedule/15/paragraph/51.md)
+    - [Sch. 15 para. 52](schedule/15/paragraph/52.md)
+  - The Tribunals and Inquiries Act 1971 c. 62
+    - [Sch. 15 para. 53](schedule/15/paragraph/53.md)
+  - The Finance Act 1971 c.68
+    - [Sch. 15 para. 54](schedule/15/paragraph/54.md)
+    - [Sch. 15 para. 55](schedule/15/paragraph/55.md)
+    - [Sch. 15 para. 56](schedule/15/paragraph/56.md)
+    - [Sch. 15 para. 57](schedule/15/paragraph/57.md)
+  - The National Health Service Reorganisation Act 1973 c.32
+    - [Sch. 15 para. 58](schedule/15/paragraph/58.md)
+    - [Sch. 15 para. 59](schedule/15/paragraph/59.md)
+  - The Local Government Act 1974 c.7
+    - [Sch. 15 para. 60](schedule/15/paragraph/60.md)
+    - [Sch. 15 para. 61](schedule/15/paragraph/61.md)
+  - The Trade Union and Labour Relations Act 1974 c.52
+    - [Sch. 15 para. 62](schedule/15/paragraph/62.md)
+  - The Social Security Act 1975 c. 14
+    - [Sch. 15 para. 63](schedule/15/paragraph/63.md)
+    - [Sch. 15 para. 64](schedule/15/paragraph/64.md)
+  - The House of Commons Disqualification Act 1975 c.24
+    - [Sch. 15 para. 65](schedule/15/paragraph/65.md)
+    - [Sch. 15 para. 66](schedule/15/paragraph/66.md)
+  - The Child Benefit Act 1975 c.61
+    - [Sch. 15 para. 67](schedule/15/paragraph/67.md)
+    - [Sch. 15 para. 68](schedule/15/paragraph/68.md)
+    - [Sch. 15 para. 71](schedule/15/paragraph/71.md)
+  - ...
+    - [Sch. 15 para. 72](schedule/15/paragraph/72.md)
+- Schedule 16 Repeals
