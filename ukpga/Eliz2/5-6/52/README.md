@@ -1,0 +1,983 @@
+# Geneva Conventions Act 1957
+
+1957 c. 52. Enacted 1957-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-05-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/2013-05-28
+
+## Contents
+
+- Punishment of offenders against conventions
+  - [s. 1 Grave breaches of scheduled conventions.](section/1.md)
+  - [s. 1A Trial and punishment of offences under s.1](section/1A.md)
+- Provisions as to certain legal proceedings
+  - [s. 2 Notice of trial of protected persons to be served on protecting power, etc.](section/2.md)
+  - [s. 3 Legal representation of certain persons.](section/3.md)
+  - [s. 4 Appeals by protected persons.](section/4.md)
+  - [s. 5 Reduction of sentence and custody of protected persons.](section/5.md)
+- Prevention of abuse of Red Cross and other emblems
+  - [s. 6 Use of Red Cross and other emblems.](section/6.md)
+  - [s. 6A Regulations.](section/6A.md)
+- General
+  - [s. 7 Interpretation.](section/7.md)
+  - [s. 8 Short title and extent.](section/8.md)
+- FIRST SCHEDULE GENEVA CONVENTION FOR THE AMELIORATION OF THE CONDITION OF THE WOUNDED AND SICK IN ARMED FORCES IN THE FIELD
+  - Geneva, 12th August, 1949
+  - CHAPTER I.—GENERAL PROVISIONS
+    - ARTICLE 1
+    - ARTICLE 2
+    - ARTICLE 3
+    - ARTICLE 4
+    - ARTICLE 5
+    - ARTICLE 6
+    - ARTICLE 7
+    - ARTICLE 8
+    - ARTICLE 9
+    - ARTICLE 10
+    - ARTICLE 11
+  - CHAPTER II.—WOUNDED AND SICK
+    - ARTICLE 12
+    - ARTICLE 13
+    - ARTICLE 14
+    - ARTICLE 15
+    - ARTICLE 16
+    - ARTICLE 17
+    - ARTICLE 18
+  - CHAPTER III.—MEDICAL UNITS AND ESTABLISHMENTS
+    - ARTICLE 19
+    - ARTICLE 20
+    - ARTICLE 21
+    - ARTICLE 22
+    - ARTICLE 23
+  - CHAPTER IV.—PERSONNEL
+    - ARTICLE 24
+    - ARTICLE 25
+    - ARTICLE 26
+    - ARTICLE 27
+    - ARTICLE 28
+    - ARTICLE 29
+    - ARTICLE 30
+    - ARTICLE 31
+    - ARTICLE 32
+  - CHAPTER V.—BUILDINGS AND MATERIAL
+    - ARTICLE 33
+    - ARTICLE 34
+  - CHAPTER VI.—MEDICAL TRANSPORTS
+    - ARTICLE 35
+    - ARTICLE 36
+    - ARTICLE 37
+  - CHAPTER VII.—THE DISTINCTIVE EMBLEM
+    - ARTICLE 38
+    - ARTICLE 39
+    - ARTICLE 40
+    - ARTICLE 41
+    - ARTICLE 42
+    - ARTICLE 43
+    - ARTICLE 44
+  - CHAPTER VIII.—EXECUTION OF THE CONVENTION
+    - ARTICLE 45
+    - ARTICLE 46
+    - ARTICLE 47
+    - ARTICLE 48
+  - CHAPTER IX.—REPRESSION OF ABUSES AND INFRACTIONS
+    - ARTICLE 49
+    - ARTICLE 50
+    - ARTICLE 51
+    - ARTICLE 52
+    - ARTICLE 53
+    - ARTICLE 54
+  - FINAL PROVISIONS
+    - ARTICLE 55
+    - ARTICLE 56
+    - ARTICLE 57
+    - ARTICLE 58
+    - ARTICLE 59
+    - ARTICLE 60
+    - ARTICLE 61
+    - ARTICLE 62
+    - ARTICLE 63
+    - ARTICLE 64
+- SECOND SCHEDULE GENEVA CONVENTION FOR THE AMELIORATION OF THE CONDITION OF WOUNDED, SICK AND SHIPWRECKED MEMBERS OF ARMED FORCES AT SEA
+  - Geneva, 12th August, 1949
+  - CHAPTER I.—GENERAL PROVISIONS
+    - ARTICLE 1
+    - ARTICLE 2
+    - ARTICLE 3
+    - ARTICLE 4
+    - ARTICLE 5
+    - ARTICLE 6
+    - ARTICLE 7
+    - ARTICLE 8
+    - ARTICLE 9
+    - ARTICLE 10
+    - ARTICLE 11
+  - CHAPTER II.—WOUNDED, SICK AND SHIPWRECKED
+    - ARTICLE 12
+    - ARTICLE 13
+    - ARTICLE 14
+    - ARTICLE 15
+    - ARTICLE 16
+    - ARTICLE 17
+    - ARTICLE 18
+    - ARTICLE 19
+    - ARTICLE 20
+    - ARTICLE 21
+  - CHAPTER III.—HOSPITAL SHIPS
+    - ARTICLE 22
+    - ARTICLE 23
+    - ARTICLE 24
+    - ARTICLE 25
+    - ARTICLE 26
+    - ARTICLE 27
+    - ARTICLE 28
+    - ARTICLE 29
+    - ARTICLE 30
+    - ARTICLE 31
+    - ARTICLE 32
+    - ARTICLE 33
+    - ARTICLE 34
+    - ARTICLE 35
+  - CHAPTER IV.—PERSONNEL
+    - ARTICLE 36
+    - Article 37
+  - CHAPTER V.—MEDICAL TRANSPORTS
+    - ARTICLE 38
+    - ARTICLE 39
+    - ARTICLE 40
+  - CHAPTER VI.—THE DISTINCTIVE EMBLEM
+    - ARTICLE 41
+    - ARTICLE 42
+    - ARTICLE 43
+    - ARTICLE 44
+    - ARTICLE 45
+  - CHAPTER VII.—EXECUTION OF THE CONVENTION
+    - ARTICLE 46
+    - ARTICLE 47
+    - ARTICLE 48
+    - ARTICLE 49
+  - CHAPTER VIII.—REPRESSION OF ABUSES AND INFRACTIONS
+    - ARTICLE 50
+    - ARTICLE 51
+    - ARTICLE 52
+    - ARTICLE 53
+  - FINAL PROVISIONS
+    - ARTICLE 54
+    - ARTICLE 55
+    - ARTICLE 56
+    - ARTICLE 57
+    - ARTICLE 58
+    - ARTICLE 59
+    - ARTICLE 60
+    - ARTICLE 61
+    - ARTICLE 62
+    - ARTICLE 63
+- THIRD SCHEDULE GENEVA CONVENTION RELATIVE TO THE TREATMENT OF PRISONERS OF WAR
+  - Geneva, 12th August, 1949
+  - PART I.—GENERAL PROVISIONS
+    - ARTICLE 1
+    - ARTICLE 2
+    - ARTICLE 3
+    - ARTICLE 4
+    - ARTICLE 5
+    - ARTICLE 6
+    - ARTICLE 7
+    - ARTICLE 8
+    - ARTICLE 9
+    - ARTICLE 10
+    - ARTICLE 11
+  - PART II.—GENERAL PROTECTION OF PRISONERS OF WAR
+    - ARTICLE 12
+    - ARTICLE 13
+    - ARTICLE 14
+    - ARTICLE 15
+    - ARTICLE 16
+  - PART III.—CAPTIVITY
+    - SECTION 1.-BEGINNING OF CAPTIVITY
+    - Section II.—Internment of Prisoners of War
+      - Chapter I.—General Observations
+      - Chapter II.—Quarters, Food and Clothing of Prisoners of War
+      - Chapter III.—Hygiene and Medical Attention
+      - Chapter IV.—Medical Personnel and Chaplains Retained to Assist Prisoners of War
+      - Chapter V.—Religious, Intellectual and Physical Activities
+      - Chapter VI—Discipline
+      - Chapter VII.—Rank of Prisoner of War
+      - Chapter VIII.—Transfer of Prisoners of War after their arrival in camp
+    - Section III.—Labour of Prisoners of War
+      - ARTICLE 49
+      - ARTICLE 50
+      - ARTICLE 51
+      - ARTICLE 52
+      - ARTICLE 53
+      - ARTICLE 54
+      - ARTICLE 55
+      - ARTICLE 56
+      - ARTICLE 57
+    - Section IV.—Financial Resources of Prisoners of War
+      - ARTICLE 58
+      - ARTICLE 59
+      - ARTICLE 60
+      - ARTICLE 61
+      - ARTICLE 62
+      - ARTICLE 63
+      - ARTICLE 64
+      - ARTICLE 65
+      - ARTICLE 66
+      - ARTICLE 67
+      - ARTICLE 68
+    - Section V.—Relations of Prisoners of War with the Exterior
+      - ARTICLE 69
+      - ARTICLE 70
+      - ARTICLE 71
+      - ARTICLE 72
+      - ARTICLE 73
+      - ARTICLE 74
+      - ARTICLE 75
+      - ARTICLE 76
+      - ARTICLE 77
+    - Section VI.—Relations between Prisoners of War and the Authorities
+      - Chapter I.—Complaints of Prisoners of War respecting the Conditions of Captivity
+      - Chapter II.—Prisoners of War Representatives
+      - Chapter III.—Penal and Disciplinary Sanctions
+  - PART IV.—TERMINATION OF CAPTIVITY
+    - Section I.—Direct Repatriation and Accommodation in Neutral Countries
+      - ARTICLE 109
+      - ARTICLE 110
+      - ARTICLE 111
+      - ARTICLE 112
+      - ARTICLE 113
+      - ARTICLE 114
+      - ARTICLE 115
+      - ARTICLE 116
+      - ARTICLE 117
+    - Section II.—Release and Repatriation of Prisoners of War at the close of Hostilities
+      - ARTICLE 118
+      - ARTICLE 119
+    - Section III.—Death of Prisoners of War
+      - ARTICLE 120
+      - ARTICLE 121
+  - PART V.—INFORMATION BUREAUX AND RELIEF SOCIETIES FOR PRISONERS OF WAR
+    - ARTICLE 122
+    - ARTICLE 123
+    - ARTICLE 124
+    - ARTICLE 125
+  - PART VI.—EXECUTION OF THE CONVENTION
+    - Section 1.—General Provisions
+      - ARTICLE 126
+      - ARTICLE 127
+      - ARTICLE 128
+      - ARTICLE 129
+      - ARTICLE 130
+      - ARTICLE 131
+      - ARTICLE 132
+    - SECTION II.—Final Provisions
+      - ARTICLE 133
+      - ARTICLE 134
+      - ARTICLE 135
+      - ARTICLE 136
+      - ARTICLE 137
+      - ARTICLE 138
+      - ARTICLE 139
+      - ARTICLE 140
+      - ARTICLE 141
+      - ARTICLE 142
+      - ARTICLE 143
+- FOURTH SCHEDULE GENEVA CONVENTION RELATIVE TO THE PROTECTION OF CIVILIAN PERSONS IN TIME OF WAR
+  - Geneva, 12th August, 1949
+  - PART I.—GENERAL PROVISIONS
+    - ARTICLE 1
+    - ARTICLE 2
+    - ARTICLE 3
+    - ARTICLE 4
+    - ARTICLE 5
+    - ARTICLE 6
+    - ARTICLE 7
+    - ARTICLE 8
+    - ARTICLE 9
+    - ARTICLE 10
+    - ARTICLE 11
+    - ARTICLE 12
+  - PART II.—GENERAL PROTECTION OF POPULATIONS AGAINST CERTAIN CONSEQUENCES OF WAR
+    - ARTICLE 13
+    - ARTICLE 14
+    - ARTICLE 15
+    - ARTICLE 16
+    - ARTICLE 17
+    - ARTICLE 18
+    - ARTICLE 19
+    - ARTICLE 20
+    - ARTICLE 21
+    - ARTICLE 22
+    - ARTICLE 23
+    - ARTICLE 24
+    - ARTICLE 25
+    - ARTICLE 26
+  - PART III.—STATUS AND TREATMENT OF PROTECTED PERSONS
+    - Section I.—Provisions Common to the Territories of the Parties to the Conflict and to Occupied Territories
+      - ARTICLE 27
+      - ARTICLE 28
+      - ARTICLE 29
+      - ARTICLE 30
+      - ARTICLE 31
+      - ARTICLE 32
+      - ARTICLE 33
+      - ARTICLE 34
+    - Section II.—Aliens in the Territory of a Party to the Conflict
+      - ARTICLE 35
+      - ARTICLE 36
+      - ARTICLE 37
+      - ARTICLE 38
+      - ARTICLE 39
+      - ARTICLE 40
+      - ARTICLE 41
+      - ARTICLE 42
+      - ARTICLE 43
+      - ARTICLE 44
+      - ARTICLE 45
+      - ARTICLE 46
+    - Section III.—Occupied Territories
+      - ARTICLE 47
+      - ARTICLE 48
+      - ARTICLE 49
+      - ARTICLE 50
+      - ARTICLE 51
+      - ARTICLE 52
+      - ARTICLE 53
+      - ARTICLE 54
+      - ARTICLE 55
+      - ARTICLE 56
+      - ARTICLE 57
+      - ARTICLE 58
+      - ARTICLE 59
+      - ARTICLE 60
+      - ARTICLE 61
+      - ARTICLE 62
+      - ARTICLE 63
+      - ARTICLE 64
+      - ARTICLE 65
+      - ARTICLE 66
+      - ARTICLE 67
+      - ARTICLE 68
+      - ARTICLE 69
+      - ARTICLE 70
+      - ARTICLE 71
+      - ARTICLE 72
+      - ARTICLE 73
+      - ARTICLE 74
+      - ARTICLE 75
+      - ARTICLE 76
+      - ARTICLE 77
+      - ARTICLE 78
+    - Section IV.—Regulations for the Treatment of Internees
+      - Chapter I.—General Provisions
+      - Chapter II.—Places of Internment
+      - Chapter III.—Food and Clothing
+      - Chapter IV.—Hygiene and Medical Attention
+      - Chapter V.—Religious, Intellectual and Physical Activities
+      - Chapter VI.—Personal Property and Financial Resources
+      - Chapter VII.—Administration and Discipline
+      - Chapter VIII.—Relations with the Exterior
+      - Chapter IX.—Penal and Disciplinary Sanctions
+      - Chapter X.—Transfers of Internees
+      - Chapter XI.—Deaths
+      - Chapter XII.—Release, Repatriation and Accommodation in Neutral Countries
+    - Section V.—Information Bureaux and Central Agency
+  - PART IV.—EXECUTION OF THE CONVENTION
+    - Section I.—General Provisions
+      - ARTICLE 142
+      - ARTICLE 143
+      - ARTICLE 144
+      - ARTICLE 145
+      - ARTICLE 146
+      - ARTICLE 147
+      - ARTICLE 148
+      - ARTICLE 149
+    - Section II.—Final Provisions
+      - ARTICLE 150
+      - ARTICLE 151
+      - ARTICLE 152
+      - ARTICLE 153
+      - ARTICLE 154
+      - ARTICLE 155
+      - ARTICLE 156
+      - ARTICLE 157
+      - ARTICLE 158
+      - ARTICLE 159
+- FIFTH SCHEDULE PROTOCOL I
+  - Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts (Protocol I)
+    - PREAMBLE
+  - PART I General Provisions
+    - Article 1— General principles and scope of application
+      - [Sch. FIFTH Pt. I Ch. 1 para. 1](schedule/FIFTH/part/I/chapter/1/paragraph/1.md)
+      - [Sch. FIFTH Pt. I Ch. 1 para. 2](schedule/FIFTH/part/I/chapter/1/paragraph/2.md)
+      - [Sch. FIFTH Pt. I Ch. 1 para. 3](schedule/FIFTH/part/I/chapter/1/paragraph/3.md)
+      - [Sch. FIFTH Pt. I Ch. 1 para. 4](schedule/FIFTH/part/I/chapter/1/paragraph/4.md)
+    - Article 2— Definitions
+    - Article 3— Beginning and end of application
+    - Article 4— Legal status of the Parties to the conflict
+    - Article 5— Appointment of Protecting Powers and of their substitute
+      - [Sch. FIFTH Pt. I Ch. 5 para. 1](schedule/FIFTH/part/I/chapter/5/paragraph/1.md)
+      - [Sch. FIFTH Pt. I Ch. 5 para. 2](schedule/FIFTH/part/I/chapter/5/paragraph/2.md)
+      - [Sch. FIFTH Pt. I Ch. 5 para. 3](schedule/FIFTH/part/I/chapter/5/paragraph/3.md)
+      - [Sch. FIFTH Pt. I Ch. 5 para. 4](schedule/FIFTH/part/I/chapter/5/paragraph/4.md)
+      - [Sch. FIFTH Pt. I Ch. 5 para. 5](schedule/FIFTH/part/I/chapter/5/paragraph/5.md)
+      - [Sch. FIFTH Pt. I Ch. 5 para. 6](schedule/FIFTH/part/I/chapter/5/paragraph/6.md)
+      - [Sch. FIFTH Pt. I Ch. 5 para. 7](schedule/FIFTH/part/I/chapter/5/paragraph/7.md)
+    - Article 6— Qualified persons
+      - [Sch. FIFTH Pt. I Ch. 6 para. 1](schedule/FIFTH/part/I/chapter/6/paragraph/1.md)
+      - [Sch. FIFTH Pt. I Ch. 6 para. 2](schedule/FIFTH/part/I/chapter/6/paragraph/2.md)
+      - [Sch. FIFTH Pt. I Ch. 6 para. 3](schedule/FIFTH/part/I/chapter/6/paragraph/3.md)
+      - [Sch. FIFTH Pt. I Ch. 6 para. 4](schedule/FIFTH/part/I/chapter/6/paragraph/4.md)
+    - Article 7— Meetings
+  - PART II Wounded, Sick and Shipwrecked
+    - SECTION I— GENERAL PROTECTION
+    - Article 8— Terminology
+    - Article 9— Field of application
+      - [Sch. FIFTH Pt. II Ch. 3 para. 1](schedule/FIFTH/part/II/chapter/3/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 3 para. 2](schedule/FIFTH/part/II/chapter/3/paragraph/2.md)
+    - Article 10— Protection and care
+      - [Sch. FIFTH Pt. II Ch. 4 para. 1](schedule/FIFTH/part/II/chapter/4/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 4 para. 2](schedule/FIFTH/part/II/chapter/4/paragraph/2.md)
+    - Article 11— Protection of persons
+      - [Sch. FIFTH Pt. II Ch. 5 para. 1](schedule/FIFTH/part/II/chapter/5/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 5 para. 2](schedule/FIFTH/part/II/chapter/5/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 5 para. 3](schedule/FIFTH/part/II/chapter/5/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 5 para. 4](schedule/FIFTH/part/II/chapter/5/paragraph/4.md)
+      - [Sch. FIFTH Pt. II Ch. 5 para. 5](schedule/FIFTH/part/II/chapter/5/paragraph/5.md)
+      - [Sch. FIFTH Pt. II Ch. 5 para. 6](schedule/FIFTH/part/II/chapter/5/paragraph/6.md)
+    - Article 12— Protection of medical units
+      - [Sch. FIFTH Pt. II Ch. 6 para. 1](schedule/FIFTH/part/II/chapter/6/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 6 para. 2](schedule/FIFTH/part/II/chapter/6/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 6 para. 3](schedule/FIFTH/part/II/chapter/6/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 6 para. 4](schedule/FIFTH/part/II/chapter/6/paragraph/4.md)
+    - Article 13— Discontinuance of protection of civilian medical units
+      - [Sch. FIFTH Pt. II Ch. 7 para. 1](schedule/FIFTH/part/II/chapter/7/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 7 para. 2](schedule/FIFTH/part/II/chapter/7/paragraph/2.md)
+    - Article 14— Limitations on requisition of civilian medical units
+      - [Sch. FIFTH Pt. II Ch. 8 para. 1](schedule/FIFTH/part/II/chapter/8/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 8 para. 2](schedule/FIFTH/part/II/chapter/8/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 8 para. 3](schedule/FIFTH/part/II/chapter/8/paragraph/3.md)
+    - Article 15— Protection of civilian medical and religious personnel
+      - [Sch. FIFTH Pt. II Ch. 9 para. 1](schedule/FIFTH/part/II/chapter/9/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 9 para. 2](schedule/FIFTH/part/II/chapter/9/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 9 para. 3](schedule/FIFTH/part/II/chapter/9/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 9 para. 4](schedule/FIFTH/part/II/chapter/9/paragraph/4.md)
+      - [Sch. FIFTH Pt. II Ch. 9 para. 5](schedule/FIFTH/part/II/chapter/9/paragraph/5.md)
+    - Article 16— General protection of medical duties
+      - [Sch. FIFTH Pt. II Ch. 10 para. 1](schedule/FIFTH/part/II/chapter/10/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 10 para. 2](schedule/FIFTH/part/II/chapter/10/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 10 para. 3](schedule/FIFTH/part/II/chapter/10/paragraph/3.md)
+    - Article 17— Role of the civilian population and of aid societies
+      - [Sch. FIFTH Pt. II Ch. 11 para. 1](schedule/FIFTH/part/II/chapter/11/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 11 para. 2](schedule/FIFTH/part/II/chapter/11/paragraph/2.md)
+    - Article 18— Identification
+      - [Sch. FIFTH Pt. II Ch. 12 para. 1](schedule/FIFTH/part/II/chapter/12/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 2](schedule/FIFTH/part/II/chapter/12/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 3](schedule/FIFTH/part/II/chapter/12/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 4](schedule/FIFTH/part/II/chapter/12/paragraph/4.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 5](schedule/FIFTH/part/II/chapter/12/paragraph/5.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 6](schedule/FIFTH/part/II/chapter/12/paragraph/6.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 7](schedule/FIFTH/part/II/chapter/12/paragraph/7.md)
+      - [Sch. FIFTH Pt. II Ch. 12 para. 8](schedule/FIFTH/part/II/chapter/12/paragraph/8.md)
+    - Article 19— Neutral and other States not Parties to the conflict
+    - Article 20— Prohibition of reprisals
+    - SECTION II— MEDICAL TRANSPORTATION
+    - Article 21— Medical vehicles
+    - Article 22— Hospital ships and coastal rescue craft
+      - [Sch. FIFTH Pt. II Ch. 17 para. 1](schedule/FIFTH/part/II/chapter/17/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 17 para. 2](schedule/FIFTH/part/II/chapter/17/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 17 para. 3](schedule/FIFTH/part/II/chapter/17/paragraph/3.md)
+    - Article 23— Other medical ships and craft
+      - [Sch. FIFTH Pt. II Ch. 18 para. 1](schedule/FIFTH/part/II/chapter/18/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 18 para. 2](schedule/FIFTH/part/II/chapter/18/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 18 para. 3](schedule/FIFTH/part/II/chapter/18/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 18 para. 4](schedule/FIFTH/part/II/chapter/18/paragraph/4.md)
+      - [Sch. FIFTH Pt. II Ch. 18 para. 5](schedule/FIFTH/part/II/chapter/18/paragraph/5.md)
+      - [Sch. FIFTH Pt. II Ch. 18 para. 6](schedule/FIFTH/part/II/chapter/18/paragraph/6.md)
+    - Article 24— Protection of medical aircraft
+    - Article 25— Medical aircraft in areas not controlled by an adverse Party
+    - Article 26— Medical aircraft in contact or similar zones
+      - [Sch. FIFTH Pt. II Ch. 21 para. 1](schedule/FIFTH/part/II/chapter/21/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 21 para. 2](schedule/FIFTH/part/II/chapter/21/paragraph/2.md)
+    - Article 27— Medical aircraft in areas controlled by an adverse Party
+      - [Sch. FIFTH Pt. II Ch. 22 para. 1](schedule/FIFTH/part/II/chapter/22/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 22 para. 2](schedule/FIFTH/part/II/chapter/22/paragraph/2.md)
+    - Article 28— Restrictions on operations of medical aircraft
+      - [Sch. FIFTH Pt. II Ch. 23 para. 1](schedule/FIFTH/part/II/chapter/23/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 23 para. 2](schedule/FIFTH/part/II/chapter/23/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 23 para. 3](schedule/FIFTH/part/II/chapter/23/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 23 para. 4](schedule/FIFTH/part/II/chapter/23/paragraph/4.md)
+    - Article 29— Notifications and agreements concerning medical aircraft
+      - [Sch. FIFTH Pt. II Ch. 24 para. 1](schedule/FIFTH/part/II/chapter/24/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 24 para. 2](schedule/FIFTH/part/II/chapter/24/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 24 para. 3](schedule/FIFTH/part/II/chapter/24/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 24 para. 4](schedule/FIFTH/part/II/chapter/24/paragraph/4.md)
+      - [Sch. FIFTH Pt. II Ch. 24 para. 5](schedule/FIFTH/part/II/chapter/24/paragraph/5.md)
+    - Article 30— Landing and inspection of medical aircraft
+      - [Sch. FIFTH Pt. II Ch. 25 para. 1](schedule/FIFTH/part/II/chapter/25/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 25 para. 2](schedule/FIFTH/part/II/chapter/25/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 25 para. 3](schedule/FIFTH/part/II/chapter/25/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 25 para. 4](schedule/FIFTH/part/II/chapter/25/paragraph/4.md)
+    - Article 31— Neutral or other States not Parties to the conflict
+      - [Sch. FIFTH Pt. II Ch. 26 para. 1](schedule/FIFTH/part/II/chapter/26/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 26 para. 2](schedule/FIFTH/part/II/chapter/26/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 26 para. 3](schedule/FIFTH/part/II/chapter/26/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 26 para. 4](schedule/FIFTH/part/II/chapter/26/paragraph/4.md)
+      - [Sch. FIFTH Pt. II Ch. 26 para. 5](schedule/FIFTH/part/II/chapter/26/paragraph/5.md)
+    - SECTION III— MISSING AND DEAD PERSONS
+    - Article 32— General principle
+    - Article 33— Missing persons
+      - [Sch. FIFTH Pt. II Ch. 29 para. 1](schedule/FIFTH/part/II/chapter/29/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 29 para. 2](schedule/FIFTH/part/II/chapter/29/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 29 para. 3](schedule/FIFTH/part/II/chapter/29/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 29 para. 4](schedule/FIFTH/part/II/chapter/29/paragraph/4.md)
+    - Article 34— Remains of deceased
+      - [Sch. FIFTH Pt. II Ch. 30 para. 1](schedule/FIFTH/part/II/chapter/30/paragraph/1.md)
+      - [Sch. FIFTH Pt. II Ch. 30 para. 2](schedule/FIFTH/part/II/chapter/30/paragraph/2.md)
+      - [Sch. FIFTH Pt. II Ch. 30 para. 3](schedule/FIFTH/part/II/chapter/30/paragraph/3.md)
+      - [Sch. FIFTH Pt. II Ch. 30 para. 4](schedule/FIFTH/part/II/chapter/30/paragraph/4.md)
+  - PART III Methods and Means of Warfare Combatant and Prisoner-of-War Status
+    - SECTION I— METHODS AND MEANS OF WARFARE
+    - Article 35— Basic rules
+      - [Sch. FIFTH Pt. III Ch. 2 para. 1](schedule/FIFTH/part/III/chapter/2/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 2 para. 2](schedule/FIFTH/part/III/chapter/2/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 2 para. 3](schedule/FIFTH/part/III/chapter/2/paragraph/3.md)
+    - Article 36— New weapons
+    - Article 37— Prohibition of perfidy
+      - [Sch. FIFTH Pt. III Ch. 4 para. 1](schedule/FIFTH/part/III/chapter/4/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 4 para. 2](schedule/FIFTH/part/III/chapter/4/paragraph/2.md)
+    - Article 38— Recognised emblems
+      - [Sch. FIFTH Pt. III Ch. 5 para. 1](schedule/FIFTH/part/III/chapter/5/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 5 para. 2](schedule/FIFTH/part/III/chapter/5/paragraph/2.md)
+    - Article 39— Emblems of nationality
+      - [Sch. FIFTH Pt. III Ch. 6 para. 1](schedule/FIFTH/part/III/chapter/6/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 6 para. 2](schedule/FIFTH/part/III/chapter/6/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 6 para. 3](schedule/FIFTH/part/III/chapter/6/paragraph/3.md)
+    - Article 40— Quarter
+    - Article 41— Safeguard of an enemy hors de combat
+      - [Sch. FIFTH Pt. III Ch. 8 para. 1](schedule/FIFTH/part/III/chapter/8/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 8 para. 2](schedule/FIFTH/part/III/chapter/8/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 8 para. 3](schedule/FIFTH/part/III/chapter/8/paragraph/3.md)
+    - Article 42— Occupants of aircraft
+      - [Sch. FIFTH Pt. III Ch. 9 para. 1](schedule/FIFTH/part/III/chapter/9/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 9 para. 2](schedule/FIFTH/part/III/chapter/9/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 9 para. 3](schedule/FIFTH/part/III/chapter/9/paragraph/3.md)
+    - SECTION II— COMBATANT AND PRISONER-OF-WAR STATUS
+    - Article 43— Armed forces
+      - [Sch. FIFTH Pt. III Ch. 11 para. 1](schedule/FIFTH/part/III/chapter/11/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 11 para. 2](schedule/FIFTH/part/III/chapter/11/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 11 para. 3](schedule/FIFTH/part/III/chapter/11/paragraph/3.md)
+    - Article 44— Combatants and prisoners of war
+      - [Sch. FIFTH Pt. III Ch. 12 para. 1](schedule/FIFTH/part/III/chapter/12/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 2](schedule/FIFTH/part/III/chapter/12/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 3](schedule/FIFTH/part/III/chapter/12/paragraph/3.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 4](schedule/FIFTH/part/III/chapter/12/paragraph/4.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 5](schedule/FIFTH/part/III/chapter/12/paragraph/5.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 6](schedule/FIFTH/part/III/chapter/12/paragraph/6.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 7](schedule/FIFTH/part/III/chapter/12/paragraph/7.md)
+      - [Sch. FIFTH Pt. III Ch. 12 para. 8](schedule/FIFTH/part/III/chapter/12/paragraph/8.md)
+    - Article 45— Protection of persons who have taken part in hostilities
+      - [Sch. FIFTH Pt. III Ch. 13 para. 1](schedule/FIFTH/part/III/chapter/13/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 13 para. 2](schedule/FIFTH/part/III/chapter/13/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 13 para. 3](schedule/FIFTH/part/III/chapter/13/paragraph/3.md)
+    - Article 46— Spies
+      - [Sch. FIFTH Pt. III Ch. 14 para. 1](schedule/FIFTH/part/III/chapter/14/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 14 para. 2](schedule/FIFTH/part/III/chapter/14/paragraph/2.md)
+      - [Sch. FIFTH Pt. III Ch. 14 para. 3](schedule/FIFTH/part/III/chapter/14/paragraph/3.md)
+      - [Sch. FIFTH Pt. III Ch. 14 para. 4](schedule/FIFTH/part/III/chapter/14/paragraph/4.md)
+    - Article 47— Mercenaries
+      - [Sch. FIFTH Pt. III Ch. 15 para. 1](schedule/FIFTH/part/III/chapter/15/paragraph/1.md)
+      - [Sch. FIFTH Pt. III Ch. 15 para. 2](schedule/FIFTH/part/III/chapter/15/paragraph/2.md)
+  - PART IV Civilian Population
+    - SECTION I— GENERAL PROTECTION AGAINST EFFECTS OF HOSTILITIES
+    - CHAPTER I— BASIC RULE AND FIELD OF APPLICATION
+    - Article 48— Basic rule
+    - Article 49— Definition of attacks and scope of application
+      - [Sch. FIFTH Pt. IV Ch. 4 para. 1](schedule/FIFTH/part/IV/chapter/4/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 4 para. 2](schedule/FIFTH/part/IV/chapter/4/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 4 para. 3](schedule/FIFTH/part/IV/chapter/4/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 4 para. 4](schedule/FIFTH/part/IV/chapter/4/paragraph/4.md)
+    - CHAPTER II— CIVILIANS AND CIVILIAN POPULATION
+    - Article 50— Definition of civilians and civilian population
+      - [Sch. FIFTH Pt. IV Ch. 6 para. 1](schedule/FIFTH/part/IV/chapter/6/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 6 para. 2](schedule/FIFTH/part/IV/chapter/6/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 6 para. 3](schedule/FIFTH/part/IV/chapter/6/paragraph/3.md)
+    - Article 51— Protection of the civilian population
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 1](schedule/FIFTH/part/IV/chapter/7/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 2](schedule/FIFTH/part/IV/chapter/7/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 3](schedule/FIFTH/part/IV/chapter/7/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 4](schedule/FIFTH/part/IV/chapter/7/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 5](schedule/FIFTH/part/IV/chapter/7/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 6](schedule/FIFTH/part/IV/chapter/7/paragraph/6.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 7](schedule/FIFTH/part/IV/chapter/7/paragraph/7.md)
+      - [Sch. FIFTH Pt. IV Ch. 7 para. 8](schedule/FIFTH/part/IV/chapter/7/paragraph/8.md)
+    - CHAPTER III— CIVILIAN OBJECTS
+    - Article 52— General protection of civilian objects
+      - [Sch. FIFTH Pt. IV Ch. 9 para. 1](schedule/FIFTH/part/IV/chapter/9/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 9 para. 2](schedule/FIFTH/part/IV/chapter/9/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 9 para. 3](schedule/FIFTH/part/IV/chapter/9/paragraph/3.md)
+    - Article 53— Protection of cultural objects and of places of worship
+    - Article 54— Protection of objects indispensable to the survival of the civilian population
+      - [Sch. FIFTH Pt. IV Ch. 11 para. 1](schedule/FIFTH/part/IV/chapter/11/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 11 para. 2](schedule/FIFTH/part/IV/chapter/11/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 11 para. 3](schedule/FIFTH/part/IV/chapter/11/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 11 para. 4](schedule/FIFTH/part/IV/chapter/11/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 11 para. 5](schedule/FIFTH/part/IV/chapter/11/paragraph/5.md)
+    - Article 55— Protection of the natural environment
+      - [Sch. FIFTH Pt. IV Ch. 12 para. 1](schedule/FIFTH/part/IV/chapter/12/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 12 para. 2](schedule/FIFTH/part/IV/chapter/12/paragraph/2.md)
+    - Article 56— Protection of works and installations containing dangerous forces
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 1](schedule/FIFTH/part/IV/chapter/13/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 2](schedule/FIFTH/part/IV/chapter/13/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 3](schedule/FIFTH/part/IV/chapter/13/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 4](schedule/FIFTH/part/IV/chapter/13/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 5](schedule/FIFTH/part/IV/chapter/13/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 6](schedule/FIFTH/part/IV/chapter/13/paragraph/6.md)
+      - [Sch. FIFTH Pt. IV Ch. 13 para. 7](schedule/FIFTH/part/IV/chapter/13/paragraph/7.md)
+    - CHAPTER IV— PRECAUTIONARY MEASURES
+    - Article 57— Precautions in attack
+      - [Sch. FIFTH Pt. IV Ch. 15 para. 1](schedule/FIFTH/part/IV/chapter/15/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 15 para. 2](schedule/FIFTH/part/IV/chapter/15/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 15 para. 3](schedule/FIFTH/part/IV/chapter/15/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 15 para. 4](schedule/FIFTH/part/IV/chapter/15/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 15 para. 5](schedule/FIFTH/part/IV/chapter/15/paragraph/5.md)
+    - Article 58— Precautions against the effects of attacks
+    - CHAPTER V— LOCALITIES AND ZONES UNDER SPECIAL PROTECTION
+    - Article 59— Non-defended localities
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 1](schedule/FIFTH/part/IV/chapter/18/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 2](schedule/FIFTH/part/IV/chapter/18/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 3](schedule/FIFTH/part/IV/chapter/18/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 4](schedule/FIFTH/part/IV/chapter/18/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 5](schedule/FIFTH/part/IV/chapter/18/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 6](schedule/FIFTH/part/IV/chapter/18/paragraph/6.md)
+      - [Sch. FIFTH Pt. IV Ch. 18 para. 7](schedule/FIFTH/part/IV/chapter/18/paragraph/7.md)
+    - Article 60— Demilitarised zones
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 1](schedule/FIFTH/part/IV/chapter/19/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 2](schedule/FIFTH/part/IV/chapter/19/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 3](schedule/FIFTH/part/IV/chapter/19/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 4](schedule/FIFTH/part/IV/chapter/19/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 5](schedule/FIFTH/part/IV/chapter/19/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 6](schedule/FIFTH/part/IV/chapter/19/paragraph/6.md)
+      - [Sch. FIFTH Pt. IV Ch. 19 para. 7](schedule/FIFTH/part/IV/chapter/19/paragraph/7.md)
+    - CHAPTER VI— CIVIL DEFENCE
+    - Article 61— Definitions and scope
+    - Article 62— General protection
+      - [Sch. FIFTH Pt. IV Ch. 22 para. 1](schedule/FIFTH/part/IV/chapter/22/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 22 para. 2](schedule/FIFTH/part/IV/chapter/22/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 22 para. 3](schedule/FIFTH/part/IV/chapter/22/paragraph/3.md)
+    - Article 63— Civil defence in occupied territories
+      - [Sch. FIFTH Pt. IV Ch. 23 para. 1](schedule/FIFTH/part/IV/chapter/23/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 23 para. 2](schedule/FIFTH/part/IV/chapter/23/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 23 para. 3](schedule/FIFTH/part/IV/chapter/23/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 23 para. 4](schedule/FIFTH/part/IV/chapter/23/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 23 para. 5](schedule/FIFTH/part/IV/chapter/23/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 23 para. 6](schedule/FIFTH/part/IV/chapter/23/paragraph/6.md)
+    - Article 64— Civilian civil defence organisations of neutral or other States not Parties to the conflict and international co-ordinating organisations
+      - [Sch. FIFTH Pt. IV Ch. 24 para. 1](schedule/FIFTH/part/IV/chapter/24/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 24 para. 2](schedule/FIFTH/part/IV/chapter/24/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 24 para. 3](schedule/FIFTH/part/IV/chapter/24/paragraph/3.md)
+    - Article 65— Cessation of protection
+      - [Sch. FIFTH Pt. IV Ch. 25 para. 1](schedule/FIFTH/part/IV/chapter/25/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 25 para. 2](schedule/FIFTH/part/IV/chapter/25/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 25 para. 3](schedule/FIFTH/part/IV/chapter/25/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 25 para. 4](schedule/FIFTH/part/IV/chapter/25/paragraph/4.md)
+    - Article 66— Identification
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 1](schedule/FIFTH/part/IV/chapter/26/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 2](schedule/FIFTH/part/IV/chapter/26/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 3](schedule/FIFTH/part/IV/chapter/26/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 4](schedule/FIFTH/part/IV/chapter/26/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 5](schedule/FIFTH/part/IV/chapter/26/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 6](schedule/FIFTH/part/IV/chapter/26/paragraph/6.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 7](schedule/FIFTH/part/IV/chapter/26/paragraph/7.md)
+      - [Sch. FIFTH Pt. IV Ch. 26 para. 8](schedule/FIFTH/part/IV/chapter/26/paragraph/8.md)
+      - [Sch. FIFTH para. 9](schedule/FIFTH/paragraph/9.md)
+    - Article 67— Members of the armed forces and military units assigned to civil defence organisations
+      - [Sch. FIFTH Pt. IV Ch. 27 para. 1](schedule/FIFTH/part/IV/chapter/27/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 27 para. 2](schedule/FIFTH/part/IV/chapter/27/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 27 para. 3](schedule/FIFTH/part/IV/chapter/27/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 27 para. 4](schedule/FIFTH/part/IV/chapter/27/paragraph/4.md)
+    - SECTION II— RELIEF IN FAVOUR OF THE CIVILIAN POPULATION
+    - Article 68— Field of application
+    - Article 69— Basic needs in occupied territories
+      - [Sch. FIFTH Pt. IV Ch. 30 para. 1](schedule/FIFTH/part/IV/chapter/30/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 30 para. 2](schedule/FIFTH/part/IV/chapter/30/paragraph/2.md)
+    - Article 70— Relief actions
+      - [Sch. FIFTH Pt. IV Ch. 31 para. 1](schedule/FIFTH/part/IV/chapter/31/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 31 para. 2](schedule/FIFTH/part/IV/chapter/31/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 31 para. 3](schedule/FIFTH/part/IV/chapter/31/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 31 para. 4](schedule/FIFTH/part/IV/chapter/31/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 31 para. 5](schedule/FIFTH/part/IV/chapter/31/paragraph/5.md)
+    - Article 71— Personnel participating in relief actions
+      - [Sch. FIFTH Pt. IV Ch. 32 para. 1](schedule/FIFTH/part/IV/chapter/32/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 32 para. 2](schedule/FIFTH/part/IV/chapter/32/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 32 para. 3](schedule/FIFTH/part/IV/chapter/32/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 32 para. 4](schedule/FIFTH/part/IV/chapter/32/paragraph/4.md)
+    - SECTION III— TREATMENT OF PERSONS IN THE POWER OF A PARTY TO THE CONFLICT
+    - CHAPTER I— FIELD OF APPLICATION AND PROTECTION OF PERSONS AND OBJECTS
+    - Article 72— Field of application
+    - Article 73— Refugees and stateless persons
+    - Article 74— Reunion of dispersed families
+    - Article 75— Fundamental guarantees
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 1](schedule/FIFTH/part/IV/chapter/38/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 2](schedule/FIFTH/part/IV/chapter/38/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 3](schedule/FIFTH/part/IV/chapter/38/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 4](schedule/FIFTH/part/IV/chapter/38/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 5](schedule/FIFTH/part/IV/chapter/38/paragraph/5.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 6](schedule/FIFTH/part/IV/chapter/38/paragraph/6.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 7](schedule/FIFTH/part/IV/chapter/38/paragraph/7.md)
+      - [Sch. FIFTH Pt. IV Ch. 38 para. 8](schedule/FIFTH/part/IV/chapter/38/paragraph/8.md)
+    - CHAPTER II— MEASURES IN FAVOUR OF WOMEN AND CHILDREN
+    - Article 76— Protection of women
+      - [Sch. FIFTH Pt. IV Ch. 40 para. 1](schedule/FIFTH/part/IV/chapter/40/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 40 para. 2](schedule/FIFTH/part/IV/chapter/40/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 40 para. 3](schedule/FIFTH/part/IV/chapter/40/paragraph/3.md)
+    - Article 77— Protection of children
+      - [Sch. FIFTH Pt. IV Ch. 41 para. 1](schedule/FIFTH/part/IV/chapter/41/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 41 para. 2](schedule/FIFTH/part/IV/chapter/41/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 41 para. 3](schedule/FIFTH/part/IV/chapter/41/paragraph/3.md)
+      - [Sch. FIFTH Pt. IV Ch. 41 para. 4](schedule/FIFTH/part/IV/chapter/41/paragraph/4.md)
+      - [Sch. FIFTH Pt. IV Ch. 41 para. 5](schedule/FIFTH/part/IV/chapter/41/paragraph/5.md)
+    - Article 78— Evacuation of children
+      - [Sch. FIFTH Pt. IV Ch. 42 para. 1](schedule/FIFTH/part/IV/chapter/42/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 42 para. 2](schedule/FIFTH/part/IV/chapter/42/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 42 para. 3](schedule/FIFTH/part/IV/chapter/42/paragraph/3.md)
+    - CHAPTER III— JOURNALISTS
+    - Article 79— Measures of protection for journalists
+      - [Sch. FIFTH Pt. IV Ch. 44 para. 1](schedule/FIFTH/part/IV/chapter/44/paragraph/1.md)
+      - [Sch. FIFTH Pt. IV Ch. 44 para. 2](schedule/FIFTH/part/IV/chapter/44/paragraph/2.md)
+      - [Sch. FIFTH Pt. IV Ch. 44 para. 3](schedule/FIFTH/part/IV/chapter/44/paragraph/3.md)
+  - PART V Execution of the Conventions and of this Protocol
+    - SECTION I— GENERAL PROVISIONS
+    - Article 80— Measures for execution
+      - [Sch. FIFTH Pt. V Ch. 2 para. 1](schedule/FIFTH/part/V/chapter/2/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 2 para. 2](schedule/FIFTH/part/V/chapter/2/paragraph/2.md)
+    - Article 81— Activities of the Red Cross and other humanitarian organisations
+      - [Sch. FIFTH Pt. V Ch. 3 para. 1](schedule/FIFTH/part/V/chapter/3/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 3 para. 2](schedule/FIFTH/part/V/chapter/3/paragraph/2.md)
+      - [Sch. FIFTH Pt. V Ch. 3 para. 3](schedule/FIFTH/part/V/chapter/3/paragraph/3.md)
+      - [Sch. FIFTH Pt. V Ch. 3 para. 4](schedule/FIFTH/part/V/chapter/3/paragraph/4.md)
+    - Article 82— Legal advisers in armed forces
+    - Article 83— Dissemination
+      - [Sch. FIFTH Pt. V Ch. 5 para. 1](schedule/FIFTH/part/V/chapter/5/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 5 para. 2](schedule/FIFTH/part/V/chapter/5/paragraph/2.md)
+    - Article 84— Rules of application
+    - SECTION II— REPRESSION OF BREACHES OF THE CONVENTIONS AND OF THIS PROTOCOL
+    - Article 85— Repression of breaches of this Protocol
+      - [Sch. FIFTH Pt. V Ch. 8 para. 1](schedule/FIFTH/part/V/chapter/8/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 8 para. 2](schedule/FIFTH/part/V/chapter/8/paragraph/2.md)
+      - [Sch. FIFTH Pt. V Ch. 8 para. 3](schedule/FIFTH/part/V/chapter/8/paragraph/3.md)
+      - [Sch. FIFTH Pt. V Ch. 8 para. 4](schedule/FIFTH/part/V/chapter/8/paragraph/4.md)
+      - [Sch. FIFTH Pt. V Ch. 8 para. 5](schedule/FIFTH/part/V/chapter/8/paragraph/5.md)
+    - Article 86— Failure to act
+      - [Sch. FIFTH Pt. V Ch. 9 para. 1](schedule/FIFTH/part/V/chapter/9/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 9 para. 2](schedule/FIFTH/part/V/chapter/9/paragraph/2.md)
+    - Article 87— Duty of commanders
+      - [Sch. FIFTH Pt. V Ch. 10 para. 1](schedule/FIFTH/part/V/chapter/10/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 10 para. 2](schedule/FIFTH/part/V/chapter/10/paragraph/2.md)
+      - [Sch. FIFTH Pt. V Ch. 10 para. 3](schedule/FIFTH/part/V/chapter/10/paragraph/3.md)
+    - Article 88— Mutual assistance in criminal matters
+      - [Sch. FIFTH Pt. V Ch. 11 para. 1](schedule/FIFTH/part/V/chapter/11/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 11 para. 2](schedule/FIFTH/part/V/chapter/11/paragraph/2.md)
+      - [Sch. FIFTH Pt. V Ch. 11 para. 3](schedule/FIFTH/part/V/chapter/11/paragraph/3.md)
+    - Article 89— Co-operation
+    - Article 90— International Fact-Finding Commission
+      - [Sch. FIFTH Pt. V Ch. 13 para. 1](schedule/FIFTH/part/V/chapter/13/paragraph/1.md)
+      - [Sch. FIFTH Pt. V Ch. 13 para. 2](schedule/FIFTH/part/V/chapter/13/paragraph/2.md)
+      - [Sch. FIFTH Pt. V Ch. 13 para. 3](schedule/FIFTH/part/V/chapter/13/paragraph/3.md)
+      - [Sch. FIFTH Pt. V Ch. 13 para. 4](schedule/FIFTH/part/V/chapter/13/paragraph/4.md)
+      - [Sch. FIFTH Pt. V Ch. 13 para. 5](schedule/FIFTH/part/V/chapter/13/paragraph/5.md)
+      - [Sch. FIFTH Pt. V Ch. 13 para. 6](schedule/FIFTH/part/V/chapter/13/paragraph/6.md)
+      - [Sch. FIFTH Pt. V Ch. 13 para. 7](schedule/FIFTH/part/V/chapter/13/paragraph/7.md)
+    - Article 91— Responsibility
+  - PART VI Final Provisions
+    - Article 92— Signature
+    - Article 93— Ratification
+    - Article 94— Accession
+    - Article 95— Entry into force
+      - [Sch. FIFTH Pt. VI Ch. 4 para. 1](schedule/FIFTH/part/VI/chapter/4/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 4 para. 2](schedule/FIFTH/part/VI/chapter/4/paragraph/2.md)
+    - Article 96— Treaty relations upon entry into force of this Protocol
+      - [Sch. FIFTH Pt. VI Ch. 5 para. 1](schedule/FIFTH/part/VI/chapter/5/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 5 para. 2](schedule/FIFTH/part/VI/chapter/5/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 5 para. 3](schedule/FIFTH/part/VI/chapter/5/paragraph/3.md)
+    - Article 97— Amendment
+      - [Sch. FIFTH Pt. VI Ch. 6 para. 1](schedule/FIFTH/part/VI/chapter/6/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 6 para. 2](schedule/FIFTH/part/VI/chapter/6/paragraph/2.md)
+    - Article 98— Revision of Annex I
+      - [Sch. FIFTH Pt. VI Ch. 7 para. 1](schedule/FIFTH/part/VI/chapter/7/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 7 para. 2](schedule/FIFTH/part/VI/chapter/7/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 7 para. 3](schedule/FIFTH/part/VI/chapter/7/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 7 para. 4](schedule/FIFTH/part/VI/chapter/7/paragraph/4.md)
+      - [Sch. FIFTH Pt. VI Ch. 7 para. 5](schedule/FIFTH/part/VI/chapter/7/paragraph/5.md)
+      - [Sch. FIFTH Pt. VI Ch. 7 para. 6](schedule/FIFTH/part/VI/chapter/7/paragraph/6.md)
+    - Article 99— Denunciation
+      - [Sch. FIFTH Pt. VI Ch. 8 para. 1](schedule/FIFTH/part/VI/chapter/8/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 8 para. 2](schedule/FIFTH/part/VI/chapter/8/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 8 para. 3](schedule/FIFTH/part/VI/chapter/8/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 8 para. 4](schedule/FIFTH/part/VI/chapter/8/paragraph/4.md)
+    - Article 100— Notifications
+    - Article 101— Registration
+      - [Sch. FIFTH Pt. VI Ch. 10 para. 1](schedule/FIFTH/part/VI/chapter/10/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 10 para. 2](schedule/FIFTH/part/VI/chapter/10/paragraph/2.md)
+    - Article 102— Authentic texts
+      - ANNEX I
+      - REGULATIONS CONCERNING IDENTIFICATION
+    - Article 1— General provisions
+      - [Sch. FIFTH Pt. VI Ch. 12 para. 1](schedule/FIFTH/part/VI/chapter/12/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 12 para. 2](schedule/FIFTH/part/VI/chapter/12/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 12 para. 3](schedule/FIFTH/part/VI/chapter/12/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 12 para. 4](schedule/FIFTH/part/VI/chapter/12/paragraph/4.md)
+    - CHAPTER I— IDENTITY CARDS
+    - Article 2— Identity card for permanent civilian medical and religious personnel
+      - [Sch. FIFTH Pt. VI Ch. 14 para. 1](schedule/FIFTH/part/VI/chapter/14/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 14 para. 2](schedule/FIFTH/part/VI/chapter/14/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 14 para. 3](schedule/FIFTH/part/VI/chapter/14/paragraph/3.md)
+    - Article 3— Identity card for temporary civilian medical and religious personnel
+      - [Sch. FIFTH Pt. VI Ch. 15 para. 1](schedule/FIFTH/part/VI/chapter/15/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 15 para. 2](schedule/FIFTH/part/VI/chapter/15/paragraph/2.md)
+    - CHAPTER II— THE DISTINCTIVE EMBLEM
+    - Article 4— Shape
+    - Article 5— Use
+      - [Sch. FIFTH Pt. VI Ch. 18 para. 1](schedule/FIFTH/part/VI/chapter/18/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 18 para. 2](schedule/FIFTH/part/VI/chapter/18/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 18 para. 3](schedule/FIFTH/part/VI/chapter/18/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 18 para. 4](schedule/FIFTH/part/VI/chapter/18/paragraph/4.md)
+    - CHAPTER III— DISTINCTIVE SIGNALS
+    - Article 6— Use
+      - [Sch. FIFTH Pt. VI Ch. 20 para. 1](schedule/FIFTH/part/VI/chapter/20/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 20 para. 2](schedule/FIFTH/part/VI/chapter/20/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 20 para. 3](schedule/FIFTH/part/VI/chapter/20/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 20 para. 4](schedule/FIFTH/part/VI/chapter/20/paragraph/4.md)
+    - Article 7— Light signal
+      - [Sch. FIFTH Pt. VI Ch. 21 para. 1](schedule/FIFTH/part/VI/chapter/21/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 21 para. 2](schedule/FIFTH/part/VI/chapter/21/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 21 para. 3](schedule/FIFTH/part/VI/chapter/21/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 21 para. 4](schedule/FIFTH/part/VI/chapter/21/paragraph/4.md)
+    - Article 8— Radio signal
+      - [Sch. FIFTH Pt. VI Ch. 22 para. 1](schedule/FIFTH/part/VI/chapter/22/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 22 para. 2](schedule/FIFTH/part/VI/chapter/22/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 22 para. 3](schedule/FIFTH/part/VI/chapter/22/paragraph/3.md)
+    - Article 9— Electronic identification
+      - [Sch. FIFTH Pt. VI Ch. 23 para. 1](schedule/FIFTH/part/VI/chapter/23/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 23 para. 2](schedule/FIFTH/part/VI/chapter/23/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 23 para. 3](schedule/FIFTH/part/VI/chapter/23/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 23 para. 4](schedule/FIFTH/part/VI/chapter/23/paragraph/4.md)
+    - CHAPTER IV— COMMUNICATIONS
+    - Article 10— Radiocommunications
+      - [Sch. FIFTH Pt. VI Ch. 25 para. 1](schedule/FIFTH/part/VI/chapter/25/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 25 para. 2](schedule/FIFTH/part/VI/chapter/25/paragraph/2.md)
+    - Article 11— Use of international codes
+    - Article 12— Other means of communication
+    - Article 13— Flight plans
+    - Article 14— Signals and procedures for the interception of medical aircraft.
+    - CHAPTER V— CIVIL DEFENCE
+    - Article 15— Identity card
+      - [Sch. FIFTH Pt. VI Ch. 31 para. 1](schedule/FIFTH/part/VI/chapter/31/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 31 para. 2](schedule/FIFTH/part/VI/chapter/31/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 31 para. 3n63](schedule/FIFTH/part/VI/chapter/31/paragraph/3n63.md)
+      - [Sch. FIFTH Pt. VI Ch. 31 para. 3n64](schedule/FIFTH/part/VI/chapter/31/paragraph/3n64.md)
+    - Article 16— International distinctive sign
+      - [Sch. FIFTH Pt. VI Ch. 32 para. 1](schedule/FIFTH/part/VI/chapter/32/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 32 para. 2](schedule/FIFTH/part/VI/chapter/32/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 32 para. 3](schedule/FIFTH/part/VI/chapter/32/paragraph/3.md)
+    - CHAPTER VI— WORKS AND INSTALLATIONS CONTAINING DANGEROUS FORCES
+    - Article 17— International special sign
+      - [Sch. FIFTH Pt. VI Ch. 34 para. 1](schedule/FIFTH/part/VI/chapter/34/paragraph/1.md)
+      - [Sch. FIFTH Pt. VI Ch. 34 para. 2](schedule/FIFTH/part/VI/chapter/34/paragraph/2.md)
+      - [Sch. FIFTH Pt. VI Ch. 34 para. 3](schedule/FIFTH/part/VI/chapter/34/paragraph/3.md)
+      - [Sch. FIFTH Pt. VI Ch. 34 para. 4](schedule/FIFTH/part/VI/chapter/34/paragraph/4.md)
+    - ANNEX II Identity Card for Journalists on Dangerous Professional Missions
+- SIXTH SCHEDULE PROTOCOL II
+  - Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of Non-International Armed Conflicts (Protocol II)
+  - PART I Scope of this Protocol
+    - Article 1— Material field of application
+      - [Sch. SIXTH Pt. I Ch. 1 para. 1](schedule/SIXTH/part/I/chapter/1/paragraph/1.md)
+      - [Sch. SIXTH Pt. I Ch. 1 para. 2](schedule/SIXTH/part/I/chapter/1/paragraph/2.md)
+    - Article 2— Personal field of application
+      - [Sch. SIXTH Pt. I Ch. 2 para. 1](schedule/SIXTH/part/I/chapter/2/paragraph/1.md)
+      - [Sch. SIXTH Pt. I Ch. 2 para. 2](schedule/SIXTH/part/I/chapter/2/paragraph/2.md)
+    - Article 3— Non-intervention
+      - [Sch. SIXTH Pt. I Ch. 3 para. 1](schedule/SIXTH/part/I/chapter/3/paragraph/1.md)
+      - [Sch. SIXTH Pt. I Ch. 3 para. 2](schedule/SIXTH/part/I/chapter/3/paragraph/2.md)
+  - PART II Humane Treatment
+    - Article 4— Fundamental guarantees
+      - [Sch. SIXTH Pt. II Ch. 1 para. 1](schedule/SIXTH/part/II/chapter/1/paragraph/1.md)
+      - [Sch. SIXTH Pt. II Ch. 1 para. 2](schedule/SIXTH/part/II/chapter/1/paragraph/2.md)
+      - [Sch. SIXTH Pt. II Ch. 1 para. 3](schedule/SIXTH/part/II/chapter/1/paragraph/3.md)
+    - Article 5— Persons whose liberty has been restricted
+      - [Sch. SIXTH Pt. II Ch. 2 para. 1](schedule/SIXTH/part/II/chapter/2/paragraph/1.md)
+      - [Sch. SIXTH Pt. II Ch. 2 para. 2](schedule/SIXTH/part/II/chapter/2/paragraph/2.md)
+      - [Sch. SIXTH Pt. II Ch. 2 para. 3](schedule/SIXTH/part/II/chapter/2/paragraph/3.md)
+      - [Sch. SIXTH Pt. II Ch. 2 para. 4](schedule/SIXTH/part/II/chapter/2/paragraph/4.md)
+    - Article 6— Penal prosecutions
+      - [Sch. SIXTH Pt. II Ch. 3 para. 1](schedule/SIXTH/part/II/chapter/3/paragraph/1.md)
+      - [Sch. SIXTH Pt. II Ch. 3 para. 2](schedule/SIXTH/part/II/chapter/3/paragraph/2.md)
+      - [Sch. SIXTH Pt. II Ch. 3 para. 3](schedule/SIXTH/part/II/chapter/3/paragraph/3.md)
+      - [Sch. SIXTH Pt. II Ch. 3 para. 4](schedule/SIXTH/part/II/chapter/3/paragraph/4.md)
+      - [Sch. SIXTH para. 5](schedule/SIXTH/paragraph/5.md)
+  - PART III Wounded, Sick and Shipwrecked
+    - Article 7— Protection and care
+      - [Sch. SIXTH Pt. III Ch. 1 para. 1](schedule/SIXTH/part/III/chapter/1/paragraph/1.md)
+      - [Sch. SIXTH Pt. III Ch. 1 para. 2](schedule/SIXTH/part/III/chapter/1/paragraph/2.md)
+    - Article 8— Search
+    - Article 9— Protection of medical and religious personnel
+      - [Sch. SIXTH Pt. III Ch. 3 para. 1](schedule/SIXTH/part/III/chapter/3/paragraph/1.md)
+      - [Sch. SIXTH Pt. III Ch. 3 para. 2](schedule/SIXTH/part/III/chapter/3/paragraph/2.md)
+    - Article 10— General protection of medical duties
+      - [Sch. SIXTH Pt. III Ch. 4 para. 1](schedule/SIXTH/part/III/chapter/4/paragraph/1.md)
+      - [Sch. SIXTH Pt. III Ch. 4 para. 2](schedule/SIXTH/part/III/chapter/4/paragraph/2.md)
+      - [Sch. SIXTH Pt. III Ch. 4 para. 3](schedule/SIXTH/part/III/chapter/4/paragraph/3.md)
+      - [Sch. SIXTH Pt. III Ch. 4 para. 4](schedule/SIXTH/part/III/chapter/4/paragraph/4.md)
+    - Article 11— Protection of medical units and transports
+      - [Sch. SIXTH Pt. III Ch. 5 para. 1](schedule/SIXTH/part/III/chapter/5/paragraph/1.md)
+      - [Sch. SIXTH Pt. III Ch. 5 para. 2](schedule/SIXTH/part/III/chapter/5/paragraph/2.md)
+    - Article 12— The distinctive emblem
+  - PART IV Civilian Population
+    - Article 13— Protection of the civilian population
+      - [Sch. SIXTH Pt. IV Ch. 1 para. 1](schedule/SIXTH/part/IV/chapter/1/paragraph/1.md)
+      - [Sch. SIXTH Pt. IV Ch. 1 para. 2](schedule/SIXTH/part/IV/chapter/1/paragraph/2.md)
+      - [Sch. SIXTH Pt. IV Ch. 1 para. 3](schedule/SIXTH/part/IV/chapter/1/paragraph/3.md)
+    - Article 14— Protection of objects indispensable to the survival of the civilian population
+    - Article 15— Protection of works and installations containing dangerous forces
+    - Article 16— Protection of cultural objects and of places of worship
+    - Article 17— Prohibition of forced movement of civilians
+      - [Sch. SIXTH Pt. IV Ch. 5 para. 1](schedule/SIXTH/part/IV/chapter/5/paragraph/1.md)
+      - [Sch. SIXTH Pt. IV Ch. 5 para. 2](schedule/SIXTH/part/IV/chapter/5/paragraph/2.md)
+    - Article 18— Relief societies and relief actions
+      - [Sch. SIXTH Pt. IV Ch. 6 para. 1](schedule/SIXTH/part/IV/chapter/6/paragraph/1.md)
+      - [Sch. SIXTH Pt. IV Ch. 6 para. 2](schedule/SIXTH/part/IV/chapter/6/paragraph/2.md)
+  - PART V Final Provisions
+    - Article 19— Dissemination
+    - Article 20— Signature
+    - Article 21— Ratification
+    - Article 22— Accession
+    - Article 23— Entry into force
+      - [Sch. SIXTH Pt. V Ch. 5 para. 1](schedule/SIXTH/part/V/chapter/5/paragraph/1.md)
+      - [Sch. SIXTH Pt. V Ch. 5 para. 2](schedule/SIXTH/part/V/chapter/5/paragraph/2.md)
+    - Article 24— Amendment
+      - [Sch. SIXTH Pt. V Ch. 6 para. 1](schedule/SIXTH/part/V/chapter/6/paragraph/1.md)
+      - [Sch. SIXTH Pt. V Ch. 6 para. 2](schedule/SIXTH/part/V/chapter/6/paragraph/2.md)
+    - Article 25— Denunciation
+      - [Sch. SIXTH Pt. V Ch. 7 para. 1](schedule/SIXTH/part/V/chapter/7/paragraph/1.md)
+      - [Sch. SIXTH Pt. V Ch. 7 para. 2](schedule/SIXTH/part/V/chapter/7/paragraph/2.md)
+    - Article 26— Notifications
+    - Article 27— Registration
+      - [Sch. SIXTH Pt. V Ch. 9 para. 1](schedule/SIXTH/part/V/chapter/9/paragraph/1.md)
+      - [Sch. SIXTH Pt. V Ch. 9 para. 2](schedule/SIXTH/part/V/chapter/9/paragraph/2.md)
+    - Article 28— Authentic texts
+- SCHEDULE 7 Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III), 8 December 2005
+  - Preamble
+  - Article 1 — Respect for and scope of application of this Protocol
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Article 4 — International Committee of the Red Cross and International Federation of Red Cross and Red Crescent Societies
+  - Article 5 — Missions under United Nations auspices
+  - Article 7 — Dissemination
+  - Article 8 — Signature
+  - Article 9 — Ratification
+  - Article 10 — Accession
+  - Article 15 — Notifications
+  - Article 17 — Authentic texts
+  - ANNEX THIRD PROTOCOL EMBLEM
+    - Article 1— Distinctive emblem
+    - Article 2 — Indicative use of the third Protocol emblem
