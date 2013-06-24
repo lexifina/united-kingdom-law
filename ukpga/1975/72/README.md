@@ -1,0 +1,248 @@
+# Children Act 1975
+
+1975 c. 72. Enacted 1975-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-06-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1975/72/2013-06-24
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II Custody
+  - Custodianship orders
+    - [s. 33 Custodianship orders.](section/33.md)
+    - [s. 34 Access and maintenance.](section/34.md)
+    - [s. 34A Matters to which court is required to have regard in exercising powers as to maintenance.](section/34A.md)
+    - [s. 34B Duration of orders for maintenance.](section/34B.md)
+    - [s. 35 Revocation and variation of orders.](section/35.md)
+    - [s. 35A Care etc. of child on revocation of custodianship order.](section/35A.md)
+    - [s. 36 Provisions relating to lump sums.](section/36.md)
+    - [s. 37 Custodianship order on application for adoption or guardianship.](section/37.md)
+    - [s. 38 Disputes between joint custodians.](section/38.md)
+    - [s. 39 Reports by local authorities and probation officers.](section/39.md)
+    - [s. 40 Notice of application to be given to local authority.](section/40.md)
+    - [s. 41 Restriction on removal of child where applicant has provided home for three years.](section/41.md)
+    - [s. 42 Return of child taken away in breach of section 41.](section/42.md)
+    - [s. 43 Enforcement of orders made by magistrates’ courts.](section/43.md)
+    - [s. 43A Restriction on removal of child from England and Wales.](section/43A.md)
+    - [s. 44 Effect of custodianship order on existing custody.](section/44.md)
+    - [s. 45 Affiliation order on application by custodian.](section/45.md)
+    - [s. 46 Procedure in magistrates’ courts.](section/46.md)
+  - Custody in Scotland
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 Payments towards maintenance of children.](section/50.md)
+    - [s. 51 Restriction on removal of child where applicant has provided home for three years.](section/51.md)
+    - [s. 52 Return of child taken away in breach of section 51.](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 Interpretation and extent of sections 50 to 53.](section/55.md)
+- Part III Care
+  - [s. 56 Restriction on removal of child from care.](section/56.md)
+  - [s. 57 Substitution of s. 2 of Chidren Act 1948.](section/57.md)
+  - [s. 58 Supplementary provisions relating to care proceedings.](section/58.md)
+  - [s. 59 General duty of local authority in care cases.](section/59.md)
+  - Children in care of voluntary organisations in England and Wales
+    - [s. 60 Transfer of parental rights and duties to voluntary organisations.](section/60.md)
+    - [s. 61 Duty of local authority to assume parental rights and duties.](section/61.md)
+    - [s. 62 Effect of resolutions under sections 60 and 61.](section/62.md)
+    - [s. 63 Appeals by parents etc.](section/63.md)
+  - Conflict of interest between parent and child
+    - [s. 64 Addition of new sections to Children and Young Persons Act 1969.](section/64.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 Safeguarding of interests of children before children’s hearings etc. in Scotland.](section/66.md)
+  - Absence from care and children in need of secure accommodation
+    - [s. 67 Recovery of children in care of local authorities.](section/67.md)
+    - [s. 68 Extension of powers under section 32 of the Children and Young Persons Act 1969.](section/68.md)
+    - [s. 69 Certificates of unruly character.](section/69.md)
+    - [s. 70 Children of unruly character in Scotland.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 Grants in respect of secure accomodation for children in Scotland.](section/72.md)
+  - Further amendments of Social Work (Scotland) Act 1968
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+- Part IV Further Amendments of Law of England and Wales
+  - Explanation of concepts
+    - [s. 85 Parental rights and duties.](section/85.md)
+    - [s. 86 Legal custody.](section/86.md)
+    - [s. 87 Actual custody.](section/87.md)
+    - [s. 88 Child in care of voluntary organisation.](section/88.md)
+    - [s. 89 ................................](section/89.md)
+  - Reports in guardianship and matrimonial proceedings
+    - [s. 90 Procedure in guardianship proceedings.](section/90.md)
+    - [s. 91 ................................](section/91.md)
+  - Registration of births
+    - [s. 92 Registration of births of abandoned children.](section/92.md)
+    - [s. 93 Registration of father of illegitimate child.](section/93.md)
+  - Extent of Part IV
+    - [s. 94 Extent of Part IV.](section/94.md)
+- Part V Miscellaneous and Supplemental
+  - [s. 95 ................................](section/95.md)
+  - [s. 98 ................................](section/98.md)
+  - Inquiries
+    - [s. 99 ................................](section/99.md)
+  - Supplemental
+    - [s. 100 ................................](section/100.md)
+    - [s. 101 Appeals etc.](section/101.md)
+    - [s. 102 ................................](section/102.md)
+    - [s. 103 ................................](section/103.md)
+    - [s. 104 Savings for powers of High Court.](section/104.md)
+    - [s. 105 ................................](section/105.md)
+    - [s. 106 Regulations and orders.](section/106.md)
+    - [s. 107 Interpretation.](section/107.md)
+    - [s. 108 Amendments, repeals, commencement and transitory provisions.](section/108.md)
+    - [s. 109 Short title and extent.](section/109.md)
+- SCHEDULE 1 Status conferred by adoption or legitimation in England and Wales
+  - Part I Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Dispositions of property
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part II Adoption Orders
+    - Status conferred by adaption
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Vocabulary
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Instruments and enactments concerning property
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Other enactments and instruments
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Pensions
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Adoption of child by natural parents
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Peerages, etc.
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Insurance
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Part III
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part IV Supplemental
+    - Dispositions depending on date of birth
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Protection of trustees and personal representatives
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Property devolving with peerages, etc.
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Entails
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part V Extent
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Status conferred in Scotland by adoption
+  - General
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Pensions
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Insurance
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Social Security
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Succession of Property
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Adoption and Legitimation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Interpretation
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Minor and Consequential Amendments.
+  - Children and Young Persons Act 1933 (23 and 24 Geo. 5 c. 12)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Children and Young Persons (Scotland) Act 1937 (c. 37)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Marriage Act 1949 (c. 76)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Maintenance Orders Act 1950 (c. 37)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Births and Deaths Registration Act 1953 (c. 20)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Affiliation Proceedings Act 1957 (c. 55)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Children Act 1958 (6 & 7 Eliz. 2 c. 65)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - County Courts Act 1959 (c. 22)
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+  - Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+  - Perpetuities and Accumulations Act 1964 (c. 55)
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+  - Health Services and Public Health Act 1968 (c. 46)
+    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+    - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+  - Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+    - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+    - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+    - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+    - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+    - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+    - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+    - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+    - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+    - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+    - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+    - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+    - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+    - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+    - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+    - [Sch. 3 para. 64](schedule/3/paragraph/64.md)
+    - [Sch. 3 para. 66](schedule/3/paragraph/66.md)
+  - Children and Young Persons Act 1969 (c. 54)
+    - [Sch. 3 para. 67](schedule/3/paragraph/67.md)
+    - [Sch. 3 para. 68](schedule/3/paragraph/68.md)
+    - [Sch. 3 para. 69](schedule/3/paragraph/69.md)
+    - [Sch. 3 para. 70](schedule/3/paragraph/70.md)
+    - [Sch. 3 para. 71](schedule/3/paragraph/71.md)
+    - [Sch. 3 para. 72](schedule/3/paragraph/72.md)
+  - Administration of justice Act 1970 (c. 31)
+    - [Sch. 3 para. 73](schedule/3/paragraph/73.md)
+  - Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 3 para. 74](schedule/3/paragraph/74.md)
+  - Guardianship of Minors Act 1971 (c. 3)
+    - [Sch. 3 para. 75](schedule/3/paragraph/75.md)
+  - Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 3 para. 76](schedule/3/paragraph/76.md)
+    - [Sch. 3 para. 77](schedule/3/paragraph/77.md)
+  - Matrimonial Causes Act 1973 (c. 18)
+    - [Sch. 3 para. 78](schedule/3/paragraph/78.md)
+    - [Sch. 3 para. 79](schedule/3/paragraph/79.md)
+  - Guardianship Act 1973 (c. 29)
+    - [Sch. 3 para. 80](schedule/3/paragraph/80.md)
+    - [Sch. 3 para. 81](schedule/3/paragraph/81.md)
+    - [Sch. 3 para. 82](schedule/3/paragraph/82.md)
+    - [Sch. 3 para. 83](schedule/3/paragraph/83.md)
+- SCHEDULE 4 Further Repeals
+  - Part I Status of Adopted Child
+  - Part II Legitimation
+  - Part III Miscellaneous
+  - Part IV Adoption Orders
+  - Part V Children in care of Local Authorities
+  - Part VI Registration of Births
+  - Part VII Adoption Agencies
+  - Part VIII Adoption: Evidence of Agreement & Guardians Ad Litem
+  - Part IX Inquiries etc. by Adoption Agencies
+  - PART X Grants etc. for Voluntary Organisations
+  - Part Xl Protected Children
+  - Part Xll Custodianship
