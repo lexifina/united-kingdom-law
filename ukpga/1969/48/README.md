@@ -1,0 +1,392 @@
+# Post Office Act 1969
+
+1969 c. 48. Enacted 1969-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1969/48
+
+Source: https://www.legislation.gov.uk/ukpga/1969/48/2013-06-25
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II The Minister of Posts and Telecommunications and his Functions
+  - [s. 2 The Minister of Posts and Telecommunications.](section/2.md)
+  - [s. 3 Transfer to the Minister of the Postmaster General’s functions with respect to wireless telegraphy, and provisions consequential thereon.](section/3.md)
+  - [s. 4 Transfer to the Minister of the Postmaster General’s functions under section 6 of the Commonwealth Telegraphs Act 1949.](section/4.md)
+  - [s. 5 Transfer to the Minister of the Postmaster General’s power to make orders under the Recorded Delivery Service Act 1962.](section/5.md)
+- Part III The new Authority for the Conduct of postal and telegraphic Business
+  - The Post Office
+    - [s. 6 The Post Office.](section/6.md)
+  - Powers and Duties of the Post Office
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+  - Powers of the Minister of Posts and Telecommunications over the Post Office
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+  - The Post Office Users’ Councils
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+  - General Provisions as to Transfer to the Post Office of Property, Rights and Liabilities of the Postmaster General
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+  - Transfer to the Post Office of the Postmaster General’s statutory Rights and Liabilities as to Mails and Telegraphs and of Rights and Liabilities, &c., of his under certain Acts authorising the Acquisition of Land or the Execution of Works
+    - [s. 20 Rights and liabilities as to conveyance of mails.](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 Rights and liabilities, &c., arising out of Acts authorising the acquisition of land or the execution of works.](section/22.md)
+    - [s. 23 ................................](section/23.md)
+  - Charges and other Terms and Conditions applicable to Services
+    - [s. 28 ................................](section/28.md)
+  - Limitation of Liability
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+  - Finance
+    - [s. 31 ................................](section/31.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+  - Banking
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+  - Pensions and other Benefits
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 Provisions as to pensions of former employees of Cable and Wireless Limited and certain other persons.](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 Rating](section/52.md)
+    - [s. 53 Rating](section/53.md)
+    - [s. 54 Rating](section/54.md)
+  - Lands
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+  - Miscellaneous Matters
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 ................................](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 Taxation of the Post Office’s profits and capital gains.](section/74.md)
+    - [s. 75 Records.](section/75.md)
+    - [s. 76 Consequential adaptations of enactments.](section/76.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 Interpretation of Part III.](section/86.md)
+    - [s. 87 Power of Her Majesty in Council to make necessary provision if the Post Office surrenders privileges as regards the Isle of Man or the Channel Islands.](section/87.md)
+  - Extent of Part III and related Schedules
+    - [s. 88 Extent of Part III and related Schedules.](section/88.md)
+- Part IV
+  - [s. 89 ................................](section/89.md)
+- Part V Provisions for securing the Continuance of the Carrying on, under the Auspices of a Director of Savings in Place of the Postmaster General, of certain financial Business
+  - The Director of Savings
+    - [s. 93 Appointment, and functions and expenses, &c., of the Director of Savings.](section/93.md)
+  - Replacement of the Postmaster General by the Director of Savings for the Purposes of the Post Office Savings Bank Acts 1954 and 1966, and Provisions consequential thereon
+    - [s. 94 The National Savings Bank.](section/94.md)
+    - [s. 95 ................................](section/95.md)
+    - [s. 106 ................................](section/106.md)
+  - Replacement of the Postmaster General by the Director of Savings for the Purposes of the National Debt Act 1958 and the National Loans Act 1968, and Provisions consequential thereon
+    - [s. 108 The stock register kept under Part I of the National Debt Act 1958.](section/108.md)
+    - [s. 109 Power of the Treasury to raise money under the auspices of the Director of Savings.](section/109.md)
+    - [s. 110 ................................](section/110.md)
+  - Credits to the Post Office in respect of certain capital Expenditure incurred by the Postmaster General in Connection with annuity, savings bank and national debt Functions
+    - [s. 113 ................................](section/113.md)
+  - Extent of Part V and Schedule 6
+    - [s. 114 Extent of Part V and Schedule 6.](section/114.md)
+- Part VI Stamps and Stamp Duties
+  - Stamps
+    - [s. 115 ................................](section/115.md)
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 ................................](section/118.md)
+    - [s. 119 ................................](section/119.md)
+    - [s. 120 ................................](section/120.md)
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 ................................](section/122.md)
+    - [s. 123 ................................](section/123.md)
+    - [s. 124 ................................](section/124.md)
+    - [s. 127 ................................](section/127.md)
+  - Special Provisions with respect to Northern Ireland
+    - [s. 128 ................................](section/128.md)
+    - [s. 129 ................................](section/129.md)
+- Part VII Miscellaneous and General
+  - [s. 130 ................................](section/130.md)
+  - [s. 132 Extension of regulation-making power under section 52(2) of the Government Annuities Act 1929.](section/132.md)
+  - [s. 133 ................................](section/133.md)
+  - [s. 134 Issue by local authorities in Great Britain of dog and game licences.](section/134.md)
+  - [s. 135 Remuneration of the Post Office for issuing dog and game licences in England and Wales.](section/135.md)
+  - [s. 136 Expenses.](section/136.md)
+  - [s. 137 Cesser of obsolete, &c. enactments.](section/137.md)
+  - [s. 138 Transitional provisions.](section/138.md)
+  - [s. 139 Application to Northern Ireland.](section/139.md)
+  - [s. 140 Construction of references to enactments.](section/140.md)
+  - [s. 141 Repeals.](section/141.md)
+  - [s. 142 Short title.](section/142.md)
+- SCHEDULE 1 Incidental Provisions with respect to the Post Office and the Members thereof
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Proceedings
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Staff
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Fixing of Seal and Proof of Instruments
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Classes of Assets to be held by the Post Office to match its Debts to its banking Customers
+  - Part I Classes of Assets to be held to match a Proportion, determined under Section 41 of this Act, of Debts
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part II Classes of Assets to be held to match the Residue of Debts
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Modifications of Schedules 5 and 6 to the Roads Act (Northern Ireland) 1948 for the Purposes of Orders made under Section 56 of this Act
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Adaptations of Enactments and Orders in Council consequential on the Assumption by the new Authority for the Conduct of postal and telegraphic Business of Functions exercised and performed before the appointed Day by the Postmaster General
+  - Part I Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II Adaptations of public general Enactments
+    - Adaptations of Enactments relating to the Post
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Adaptations of Enactments relating to Telegraphs
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Adaptations of Enactments relating to the Supply of Electricity
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Adaptations of other Enactments
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+      - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+      - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+      - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+      - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+      - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+      - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+      - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+      - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+      - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+      - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+      - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+      - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+      - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+      - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+      - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+      - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+      - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+      - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+      - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+      - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+      - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+      - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+      - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+      - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+      - [Sch. 4 para. 91](schedule/4/paragraph/91.md)
+      - [Sch. 4 para. 92](schedule/4/paragraph/92.md)
+      - [Sch. 4 para. 93](schedule/4/paragraph/93.md)
+      - [Sch. 4 para. 94](schedule/4/paragraph/94.md)
+  - Part III Adaptations of local Enactments
+    - [Sch. 4 para. 95](schedule/4/paragraph/95.md)
+    - [Sch. 4 para. 96](schedule/4/paragraph/96.md)
+    - [Sch. 4 para. 97](schedule/4/paragraph/97.md)
+    - [Sch. 4 para. 98](schedule/4/paragraph/98.md)
+    - [Sch. 4 para. 99](schedule/4/paragraph/99.md)
+    - [Sch. 4 para. 100](schedule/4/paragraph/100.md)
+    - [Sch. 4 para. 101](schedule/4/paragraph/101.md)
+  - Part IV Adaptation of Orders in Council
+    - [Sch. 4 para. 103](schedule/4/paragraph/103.md)
+    - [Sch. 4 para. 104](schedule/4/paragraph/104.md)
+- SCHEDULE 5 Repair of minor Deficiencies in certain Acts
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 ................................](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Amendments of Acts consequential on Section 94 of this Act
+  - Parts I and II
+  - Part III Amendments of other enactments
+    - Enactments of the Parliament of the United Kingdom
+    - Enactments of the Parliament of Northern Ireland
+- SCHEDULE 7
+- SCHEDULE 8 Obsolete, &c., Enactments ceasing to have Effect
+  - Part I Enactments ceasing to have Effect on the Passing of this Act
+    - Enactment of the Parliament of England
+    - Enactments of the Parliament of the United Kingdom
+    - Enactments of the Parliament of Northern Ireland
+  - Part II Enactments ceasing to have Effect on the Appointed Day
+    - Enactment of the Parliament of the United Kingdom
+    - Enactment of the Parliament of Northern Ireland
+- SCHEDULE 9 General transitional Provisions
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+  - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - [Sch. 9 para. 34 ................................](schedule/9/paragraph/34.md)
+  - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+  - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+  - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+  - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+  - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+  - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+  - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+  - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+- SCHEDULE 10 Special transitional Provisions with respect to Patents for Inventions and Registered Designs
+  - Part I Patents for Inventions
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Part II Registered Designs
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+- SCHEDULE 11 Repeals and Revocations
+  - Part I Enactments repealed on the Passing of this Act
+  - Part II Enactments repealed on the Appointed Day
+    - Enactment of the Parliament of the Great Britain
+    - Enactments of the Parliament of the United Kingdom
+    - Enactments of the Parliament of Northern Ireland
+  - Part III Orders In Council Revoked On The Appointed Day
