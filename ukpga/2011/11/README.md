@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-04-06, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-07-17, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2013-04-06
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2013-07-17
 
 ## Contents
 
@@ -729,6 +729,9 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2013-04-06
   - Part 2 Commencement and transitional provision
     - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
     - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
 - SCHEDULE 19 The bank levy
   - Part 1 Introduction
     - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
@@ -830,7 +833,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2013-04-06
       - [Sch. 19 para. 64](schedule/19/paragraph/64.md)
     - Transitional provision
       - [Sch. 19 para. 65](schedule/19/paragraph/65.md)
-  - Part 7 Double taxation relief
+  - Part 7 Double taxation reliefETC
     - Arrangements affording double taxation relief
       - [Sch. 19 para. 66](schedule/19/paragraph/66.md)
     - Power to provide for double taxation relief
@@ -841,6 +844,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2013-04-06
       - [Sch. 19 para. 68](schedule/19/paragraph/68.md)
     - Consequential amendment to the Constitutional Reform and Governance Act 2010
       - [Sch. 19 para. 69](schedule/19/paragraph/69.md)
+    - Foreign levies to be ignored for purposes of income tax or corporation tax
+      - [Sch. 19 para. 69A](schedule/19/paragraph/69A.md)
   - Part 8 Definitions
     - General
       - [Sch. 19 para. 70](schedule/19/paragraph/70.md)
@@ -924,6 +929,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2013-04-06
       - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
     - Income, assets etc belonging to others
       - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - Merchant acquirers etc
+      - [Sch. 23 para. 13A](schedule/23/paragraph/13A.md)
     - Payments derived from securities
       - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
       - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
