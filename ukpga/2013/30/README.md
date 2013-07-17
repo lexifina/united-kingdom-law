@@ -2,9 +2,9 @@
 
 2013 c. 30. Enacted 2013-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-07-17, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/30/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2013/30/2013-07-17
 
 ## Contents
 
