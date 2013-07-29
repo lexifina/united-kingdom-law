@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-07-15, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2013-07-29, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2013-07-15
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2013-07-29
 
 ## Contents
 
@@ -213,7 +213,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2013-07-15
     - [s. 145 Void and unenforceable terms](section/145.md)
     - [s. 146 Declaration in respect of void term, etc.](section/146.md)
   - Supplementary
-    - [s. 147 Meaning of “qualifying compromise contract”](section/147.md)
+    - [s. 147 Meaning of “qualifying settlement agreement”](section/147.md)
     - [s. 148 Interpretation](section/148.md)
 - Part 11 Advancement of equality
   - Chapter 1 Public sector equality duty
