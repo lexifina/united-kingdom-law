@@ -1,0 +1,171 @@
+# Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003
+
+asp/2003/15. Enacted 2003-05-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-09-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/15
+
+Source: https://www.legislation.gov.uk/asp/2003/15/2013-09-16
+
+## Contents
+
+- Part 1 Methods of fishing and offences related to fishing
+  - Methods of fishing
+    - [s. 1 Methods of fishing: salmon](section/1.md)
+    - [s. 2 Methods of fishing: freshwater fish](section/2.md)
+    - [s. 3 Use of landing nets](section/3.md)
+    - [s. 3A Fishing by rod and line](section/3A.md)
+    - [s. 4 Meaning of “rod and line”](section/4.md)
+  - Offences related to fishing for salmon and freshwater fish
+    - [s. 5 Prohibition against using explosive and other noxious substances for the destruction or taking of fish](section/5.md)
+    - [s. 5A Prohibition against using pike gags and certain keepnets](section/5A.md)
+    - [s. 6 Fishing for salmon without right or permission](section/6.md)
+    - [s. 7 Illegal fishing by two or more persons acting together](section/7.md)
+    - [s. 8 Taking of dead salmon or trout](section/8.md)
+    - [s. 9 Illegal possession of salmon or trout](section/9.md)
+    - [s. 10 Offences in relation to passage of salmon](section/10.md)
+    - [s. 11 Fishing in waters where fishing rights owned by one person](section/11.md)
+    - [s. 12 Contravention of protection order](section/12.md)
+  - Close times for salmon
+    - [s. 13 Weekly close time for salmon](section/13.md)
+    - [s. 14 Fishing for salmon during annual close time](section/14.md)
+    - [s. 15 Removal of boats and nets during annual close time](section/15.md)
+    - [s. 16 Buying and selling salmon in close time](section/16.md)
+  - Close time for trout
+    - [s. 17 Annual close time for trout](section/17.md)
+  - Close times for freshwater fish
+    - [s. 17A Weekly close time for freshwater fish](section/17A.md)
+    - [s. 17B Annual close time for freshwater fish other than trout](section/17B.md)
+  - Offences related to sale, purchase and possession of salmon and trout
+    - [s. 18 Unclean salmon](section/18.md)
+    - [s. 19 Salmon roe](section/19.md)
+    - [s. 20 Possessing salmon which have been illegally taken, killed or landed](section/20.md)
+    - [s. 21 Packages of salmon or trout to be marked](section/21.md)
+    - [s. 21A Salmon carcass tagging](section/21A.md)
+    - [s. 22 Size limit for selling trout](section/22.md)
+  - Protection of young salmon
+    - [s. 23 Young salmon and spawning beds](section/23.md)
+    - [s. 24 Unauthorised introduction of salmon or salmon eggs into certain waters](section/24.md)
+  - Offences in relation to the Solway
+    - [s. 25 Fixed engines in the Solway](section/25.md)
+    - [s. 26 Fishing without legal right in the Solway](section/26.md)
+  - Exemptions
+    - [s. 27 Exemption from certain offences in respect of acts done for scientific and other purposes: salmon](section/27.md)
+    - [s. 28 Exemption from certain offences in respect of acts done for scientific and other purposes: fish other than salmon](section/28.md)
+    - [s. 29 Exemption from certain offences in respect of certain acts in relation to salmon](section/29.md)
+    - [s. 30 Exemptions in relation to fish farming](section/30.md)
+  - Regulation of salmon fisheries
+    - [s. 31 Salmon fishing: general regulations](section/31.md)
+    - [s. 32 Exception from regulations with respect to the construction of dams, lades and water wheels](section/32.md)
+    - [s. 33 Salmon fishing: regulations as to baits and lures](section/33.md)
+  - Unauthorised introduction of fish into inland waters
+    - [s. 33A Unauthorised introduction of fish into inland waters](section/33A.md)
+    - [s. 33B Power to modify district salmon fishery boards’ functions under section 33A](section/33B.md)
+- Part 2 Administration of salmon fisheries
+  - Salmon fishery districts
+    - [s. 34 Salmon fishery districts](section/34.md)
+    - [s. 35 Designation orders](section/35.md)
+    - [s. 36 Estuary limits](section/36.md)
+  - Conservation measures
+    - [s. 37 Annual close times for salmon](section/37.md)
+    - [s. 38 Salmon conservation regulations](section/38.md)
+  - Procedures
+    - [s. 39 Procedure for making orders and regulations under section 33 and this Part](section/39.md)
+- Part 3 District salmon fishery boards
+  - Proprietors of salmon fisheries
+    - [s. 40 Qualified proprietors and upper and lower proprietors](section/40.md)
+    - [s. 41 Sole proprietor in a salmon fishery district](section/41.md)
+  - Mandatories
+    - [s. 42 Mandatories](section/42.md)
+  - District salmon fishery boards
+    - [s. 43 District salmon fishery boards](section/43.md)
+    - [s. 44 Financial powers and duties of district salmon fishery boards](section/44.md)
+    - [s. 45 General powers and duties of district salmon fishery boards](section/45.md)
+    - [s. 46 Proceedings of district salmon fishery boards](section/46.md)
+    - [s. 46A Annual report](section/46A.md)
+    - [s. 46B Annual public meeting](section/46B.md)
+    - [s. 46C Further provision about meetings](section/46C.md)
+    - [s. 46D Complaints procedure](section/46D.md)
+    - [s. 46E Members’ interests](section/46E.md)
+    - [s. 46F Ministerial power to modify the good governance requirements](section/46F.md)
+    - [s. 46G Ministerial power to dissolve the committee constituting a board](section/46G.md)
+    - [s. 47 Tenure of office](section/47.md)
+- Part 4 Administration of freshwater fisheries
+  - [s. 48 Increased availability of, and protection for, freshwater fishing](section/48.md)
+  - [s. 49 Appointment of wardens to secure compliance with protection order](section/49.md)
+  - [s. 50 Powers of entry and obstruction of wardens etc.](section/50.md)
+  - [s. 51 Financial contributions towards organisations developing freshwater fisheries](section/51.md)
+- Conservation measures
+  - [s. 51A Freshwater fish conservation regulations](section/51A.md)
+- Part 5 Enforcement
+  - Powers of constables and water bailiffs
+    - [s. 52 Grant of warrant to search premises or vehicles](section/52.md)
+    - [s. 53 Powers of constables](section/53.md)
+    - [s. 54 Powers of constables and water bailiffs to enter land](section/54.md)
+    - [s. 55 Powers of water bailiffs](section/55.md)
+    - [s. 56 General enforcement provisions not to apply in relation to protection orders](section/56.md)
+  - Further provision as to offences
+    - [s. 57 Offences by bodies corporate](section/57.md)
+    - [s. 58 Offences in relation to obstruction](section/58.md)
+  - Powers of court
+    - [s. 59 Power of court in trial for an offence to convict of another](section/59.md)
+    - [s. 60 Forfeiture](section/60.md)
+    - [s. 61 Defences](section/61.md)
+    - [s. 62 Jurisdiction in respect of offences committed on sea coast or at sea](section/62.md)
+    - [s. 63 Disqualification of justices](section/63.md)
+- Part 6 Miscellaneous
+  - [s. 64 Power of Scottish Ministers to conduct inquiries and to obtain information](section/64.md)
+  - [s. 64A Powers in relation to salmon and freshwater fisheries: sampling, etc.](section/64A.md)
+  - [s. 65 Additional powers in respect of licensing and regulation of salmon dealing](section/65.md)
+  - [s. 66 Application of Leases Act 1449](section/66.md)
+- Part 7 General
+  - [s. 67 Application of this Act to the Crown](section/67.md)
+  - [s. 68 Orders and regulations](section/68.md)
+  - [s. 69 Interpretation](section/69.md)
+  - [s. 70 Consequential amendments, repeals and revocations](section/70.md)
+  - [s. 71 Short title, commencement and extent](section/71.md)
+- SCHEDULE 1 Designation orders, estuary limits orders, annual close time orders and regulations under sections 33 and 38
+  - [Sch. 1 para. 1 Designation orders](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Estuary limits orders](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Annual close time orders](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Salmon conservation regulations](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Freshwater fish conservation regulations
+    - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+    - [Sch. 1 para. 10 Common provisions with respect to orders](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Making of designation, annual close time or estuary limits order or salmon conservation regulations](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Election and co-option of members of district salmon fishery boards
+  - Part 1 Meeting of qualified proprietors
+    - [Sch. 2 para. 1 Calling of meeting](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part 2 Membership
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Provisions as to making, variation and revocation of protection orders
+  - [Sch. 3 para. 1 Making of protection order](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Consequential amendments, repeals and revocations
+  - Part 1 Consequential amendments
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part 2 Repeals and revocations
