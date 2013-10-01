@@ -1,0 +1,330 @@
+# Housing and Planning Act 1986
+
+1986 c. 63. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/63
+
+Source: https://www.legislation.gov.uk/ukpga/1986/63/2013-10-01
+
+## Contents
+
+- Part I Housing
+  - The right to buy
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 Discount on right to buy and similar sales.](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 Service charges and other contributions payable after exercise of right to buy.](section/4.md)
+    - [s. 5 Loans in respect of service charges.](section/5.md)
+  - Other Provisions with respect to public sector housing
+    - [s. 6 Consultation before disposal to private sector landlord.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 Preservation of right to buy on disposal to private sector landlord.](section/8.md)
+    - [s. 9 Redevelopment of dwelling-house subject to secure tenancy.](section/9.md)
+    - [s. 10 Management agreements.](section/10.md)
+    - [s. 11 Proposals for co-operative management or ownership.](section/11.md)
+  - Assured tenancies
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 Other amendments relating to assured tenancies.](section/13.md)
+  - Miscellaneous
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 Grants for improvement or repair of common parts.](section/15.md)
+    - [s. 16 Housing management: financial assistance etc.](section/16.md)
+    - [s. 17 Matters to be taken into account in determining fair rent.](section/17.md)
+    - [s. 18 Further provisions with respect to shared ownership leases.](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 Disposal of dwellings in new towns.](section/20.md)
+    - [s. 21 Effect of resolutions relating to housing action area or general improvement area.](section/21.md)
+    - [s. 22 Agreements with certain housing bodies exempt from Consumer Credit Act 1974.](section/22.md)
+    - [s. 23 Determination of price for leasehold enfranchisement.](section/23.md)
+    - [s. 24 Minor and consequential amendments; repeals.](section/24.md)
+- Part II Simplified Planning Zones
+  - [s. 25 ................................](section/25.md)
+  - Scotland
+    - [s. 26 ................................](section/26.md)
+- Part III
+  - [s. 27 Power to give assistance.](section/27.md)
+  - [s. 28 Forms of assistance.](section/28.md)
+  - [s. 29 Terms on which assistance is given.](section/29.md)
+- Part IV Hazardous Substances
+  - [s. 30 ................................](section/30.md)
+  - Scotland
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 ................................](section/38.md)
+- Part V Opencast Coal
+  - [s. 39 Abolition of Secretary of State’s power to authorise opencast working, &c.](section/39.md)
+- Part VI Miscellaneous Provisions
+  - England and Wales
+    - [s. 40 Listed buildings and conservation areas.](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 Recovery of Minister’s costs in connection with inquiries.](section/42.md)
+    - [s. 43 Compulsory acquisition of land on behalf of parish or community councils.](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 47 Areas which may be designated urban development areas.](section/47.md)
+    - [s. 48 Repeal of unnecessary enactments.](section/48.md)
+    - [s. 49 Minor and consequential amendments; repeals.](section/49.md)
+  - Scotland
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 Termination of grants for redevelopment etc.](section/52.md)
+    - [s. 53 Minor and consequential amendments; repeals.](section/53.md)
+  - Provisions common to England and Wales and Scotland
+    - [s. 54 Effect of modification or termination of enterprise zone scheme.](section/54.md)
+    - [s. 55 Discrimination in exercise of planning functions.](section/55.md)
+- Part VII General Provisions
+  - [s. 56 Financial provisions.](section/56.md)
+  - [s. 57 Commencement.](section/57.md)
+  - [s. 58 Extent.](section/58.md)
+  - [s. 59 Short title.](section/59.md)
+- SCHEDULE 1 Schedule to be Inserted in the Housing Act 1985
+- SCHEDULE 2 Schedule to be Inserted in the Housing Act 1985
+- SCHEDULE 3 Common Parts Grants
+  - Part I Amendments of Part XV of the Housing Act 1985
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part II Amendments of Other Enactments
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- SCHEDULE 4 Further Provisions with Respect to Shared Ownership Leases
+  - The Rent Act 1977 (c. 42)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Part I of the Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Consequential amendments and repeals
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Transitional provisions and savings
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Housing: Minor and Consequential Amendments
+  - Part I Minor Amendments
+    - Effect of covenant for repayment of discount
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Acquisition of dwelling-house subject to statutory tenancy
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Landlord’s notice to mention any structural defect
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Re-service of notices, etc. on change of landlord in course of exercise of right to buy
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Deferment of completion in pursuance of right to buy
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Penalty for voting on certain housing matters
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Grounds for withholding consent to assignment of secure tenancy
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Service charges in respect of the cost of grant-aided works
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Miscellaneous corrections
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Part II Consequential Amendments
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Rent Act 1977
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Finance Act 1981
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Local Government Act 1985
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Housing Act 1985
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+- SCHEDULE 6 Simplified Planning Zones: Further Provisions
+  - Parts I and II ...
+  - Part III
+- Schedule 6A Simplified Planning Zone Schemes
+  - Part IV
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+- SCHEDULE 7 Hazardous Substances: Consequential Amendments
+  - Part I ...
+  - Part II
+    - Radioactive Substances Act 1960 (c. 34)
+      - [Sch. 7 para. 1 ................................](schedule/7/paragraph/1.md)
+    - Town and Country Planning (Scotland) Act 1972 (c.52)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Town and Country Planning Act 1984 (c.10)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Gas Act 1986 (c. 44)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Opencast Coal — Miscellaneous Amendments
+  - Part I The 1958 Act
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Part II Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+- SCHEDULE 9 Listed Buildings And Conservation Areas
+  - Part I England and Wales
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Dangerous structure orders in respect of listed buildings
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Part II
+    - Free-standing objects and structures within curtilage of listed building
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Late application for listed building consent
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Defence to proceedings under section 53
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Grant of listed building consent subject to subsequent approval of detail
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Application to modify or discharge conditions attached to listed building consent
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Extent of exemption accorded to ecclesiastical buildings
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Effect of listed building enforcement notice
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Works for preservation of buildings
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - Control of demolition in conservation areas
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - Form of application for listed building consent
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Calling in of application for listed building consent
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Application to planning authorities of provisions relating to listed buildings
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+- SCHEDULE 10 ...
+- SCHEDULE 11 Planning: Minor and Consequential Amendments
+  - Part I England and Wales
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Consequential amendments of other enactments
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+  - Part II Scotland
+    - Directions as to modifications of local plans
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - Operation of Use Classes Order on subdivision of planning unit
+      - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - Development orders
+      - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+    - Applications to vary or revoke conditions attached to planning permission
+      - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+    - Land adversely affecting amenity of neighbourhood
+      - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+      - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+    - Appeals against notices under section 63A
+      - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+    - Purchase notices: transmission of documents to the Secretary of State
+      - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+    - Purchase notice relating to land where use restricted by virtue of previous planning permission
+      - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+    - Consideration of purchase notice concurrently with related planning appeal
+      - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+    - National Scenic Areas
+      - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+    - Recovery of expenses of local inquiry
+      - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+    - Orders as to expenses of parties where no local inquiry held
+      - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+    - Procedure on applications and appeals disposed of without inquiry or hearing
+      - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+    - Power to return appeal for determination by appointed person
+      - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+    - Appointment of assessors
+      - [Sch. 11 para. 43](schedule/11/paragraph/43.md)
+    - Increase of daily penalties for offences
+      - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+    - Other minor amendments of the Town and Country Planning (Scotland) Act 1972
+      - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+      - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+      - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+      - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+      - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+      - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+      - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+      - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+      - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+    - Consequential amendments of the Town and Country Planning (Scotland) Act 1972
+      - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+      - [Sch. 11 para. 55](schedule/11/paragraph/55.md)
+      - [Sch. 11 para. 56](schedule/11/paragraph/56.md)
+      - [Sch. 11 para. 57](schedule/11/paragraph/57.md)
+      - [Sch. 11 para. 58](schedule/11/paragraph/58.md)
+      - [Sch. 11 para. 59](schedule/11/paragraph/59.md)
+      - [Sch. 11 para. 60](schedule/11/paragraph/60.md)
+    - Consequential amendments of other enactments
+      - [Sch. 11 para. 61](schedule/11/paragraph/61.md)
+      - [Sch. 11 para. 62](schedule/11/paragraph/62.md)
+- SCHEDULE 12 Repeals
+  - Part I Housing
+    - Repeals coming into force on passing of Act
+    - Repeals coming into force on appointed day
+  - Part II Opencast Coal
+  - Part III Miscellaneous (England and Wales)
+  - Part IV Miscellaneous (Scotland)
