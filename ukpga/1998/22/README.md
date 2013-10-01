@@ -1,0 +1,107 @@
+# National Lottery Act 1998
+
+1998 c. 22. Enacted 1998-07-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1998/22/2013-10-01
+
+## Contents
+
+- Part I Provisions relating to the National Lottery
+  - The Director General and the National Lottery Commission
+    - [s. 1 Replacement of Director General by National Lottery Commission.](section/1.md)
+  - Licensees
+    - [s. 2 Financial penalties for breach of conditions in licences.](section/2.md)
+    - [s. 3 Appeals against financial penalties.](section/3.md)
+    - [s. 4 Appeals against revocation of licences.](section/4.md)
+    - [s. 5 Access by Comptroller and Auditor General to documents etc.](section/5.md)
+  - The new good cause
+    - [s. 6 The new good cause and the re-allocation of lottery money.](section/6.md)
+    - [s. 7 The New Opportunities Fund.](section/7.md)
+    - [s. 8 Provisions supplemental to section 7.](section/8.md)
+  - Distributing bodies
+    - [s. 9 Manner of distribution.](section/9.md)
+    - [s. 10 Power of distributing bodies to solicit applications.](section/10.md)
+    - [s. 11 Delegation by distributing bodies of their powers of distribution.](section/11.md)
+    - [s. 12 Joint schemes for distribution of money by distributing bodies.](section/12.md)
+    - [s. 13 Strategic plans for distributing bodies.](section/13.md)
+    - [s. 14 The National Lottery Charities Board.](section/14.md)
+  - Supplemental provision
+    - [s. 15 Orders and regulations.](section/15.md)
+- Part II The National Endowment for Science, Technology and the Arts
+  - [s. 16 The National Endowment for Science, Technology and the Arts.](section/16.md)
+  - [s. 17 Objects.](section/17.md)
+  - [s. 18 General duty and powers.](section/18.md)
+  - [s. 19 Initial and subsequent endowment.](section/19.md)
+  - [s. 20 Solicitation of gifts and investment of money.](section/20.md)
+  - [s. 21 Financial directions etc.](section/21.md)
+  - [s. 22 Annual report and forward plans.](section/22.md)
+  - [s. 23 Accounts.](section/23.md)
+  - [s. 24 Exemption from taxation.](section/24.md)
+  - [s. 25 Interpretation of Part II.](section/25.md)
+- Part III Supplemental provisions
+  - [s. 26 Repeals.](section/26.md)
+  - [s. 27 Short title, interpretation, commencement and extent.](section/27.md)
+- SCHEDULE 1 Replacement of Director General by Commission: supplementary provisions
+  - Part I Transfers etc
+    - Interpretation
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Transfer of property, rights and liabilities
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Transfer of staff
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Construction of references to the Director General
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Continuing validity of past acts
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Final report and accounts of the Director General
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part II Constitution of the Commission
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Part III Minor and consequential amendments
+    - The Public Records Act 1958
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - The Parliamentary Commissioner Act 1967
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The House of Commons Disqualification Act 1975
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - The Northern Ireland Assembly Disqualification Act 1975
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - The Tribunals and Inquiries Act 1992
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - The 1993 Act
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 The New Opportunities Fund: Schedule 6A to the 1993 Act
+- SCHEDULE 3 Joint schemes: Schedule 3A to the 1993 Act
+- SCHEDULE 4 The National Endowment for Science, Technology and the Arts
+  - Membership
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Delegation of functions
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Staff
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Proceedings
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Application of seal and evidence
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Status of NESTA
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Parliamentary disqualification
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Reimbursement
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Prior consultation
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Application to Scotland
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Enactments repealed
+  - Part I Enactments relating to replacement of Director General by Commission
+  - Part II Other enactments
