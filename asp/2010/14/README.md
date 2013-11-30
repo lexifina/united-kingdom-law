@@ -1,0 +1,127 @@
+# Crofting Reform (Scotland) Act 2010
+
+asp/2010/14. Enacted 2010-08-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 82 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/14
+
+Source: https://www.legislation.gov.uk/asp/2010/14/2013-11-30
+
+## Contents
+
+- PART 1 REORGANISATION OF THE CROFTERS COMMISSION
+  - The Crofting Commission
+    - [s. 1 The Crofting Commission](section/1.md)
+    - [s. 2 General functions of the Crofting Commission](section/2.md)
+- PART 2 THE CROFTING REGISTER
+  - Duty to establish and maintain register
+    - [s. 3 The Crofting Register](section/3.md)
+  - Registration
+    - [s. 4 First registration](section/4.md)
+    - [s. 5 Registration of events affecting registered crofts](section/5.md)
+    - [s. 6 Persons responsible for applications for registration](section/6.md)
+    - [s. 7 Applications for registration](section/7.md)
+    - [s. 8 Acceptance of applications for registration](section/8.md)
+    - [s. 9 Completion of registration](section/9.md)
+    - [s. 10 Completion of registration: further provision on first registrations](section/10.md)
+  - The registration schedule
+    - [s. 11 The registration schedule](section/11.md)
+  - Notification of first registration
+    - [s. 12 Notification of first registration](section/12.md)
+    - [s. 13 Power of entry etc. where Commission are applicant](section/13.md)
+  - Challenge to first registration
+    - [s. 14 Challenge to first registration](section/14.md)
+  - Removal of resumed and decrofted crofts from register
+    - [s. 15 Resumed and decrofted crofts](section/15.md)
+  - Rectification and indemnity
+    - [s. 16 Rectification of the register](section/16.md)
+    - [s. 17 Rectification following first registration](section/17.md)
+    - [s. 18 Indemnity in respect of loss](section/18.md)
+  - Rules and fees
+    - [s. 19 Rules and fees](section/19.md)
+  - Appeals
+    - [s. 20 Appeals](section/20.md)
+  - Notification of change to registration schedule
+    - [s. 21 Notification of change to registration schedule](section/21.md)
+  - Consequential amendments of the 1993 Act
+    - [s. 22 Meaning of “croft” etc.](section/22.md)
+    - [s. 23 Registration of new crofts](section/23.md)
+  - Registration of common grazings
+    - [s. 24 First registration of common grazings](section/24.md)
+    - [s. 25 Registration of events affecting registered common grazings](section/25.md)
+    - [s. 26 Applications for registration: common grazings](section/26.md)
+    - [s. 27 Registration of new common grazings](section/27.md)
+    - [s. 28 Application of Act to common grazings](section/28.md)
+  - Offences
+    - [s. 29 Transfer of land containing crofts: offences](section/29.md)
+    - [s. 30 Change of landlord: offences](section/30.md)
+    - [s. 31 Transfer of land on which common grazing is situated: offences](section/31.md)
+  - Lands held runrig
+    - [s. 32 Lands held runrig](section/32.md)
+- PART 3 DUTIES OF CROFTERS AND OWNER-OCCUPIER CROFTERS
+  - Crofters’ duties relating to residency, use, misuse and neglect of crofts
+    - [s. 33 Duties relating to residency, use, misuse and neglect of crofts](section/33.md)
+  - Duties of owner-occupier crofters
+    - [s. 34 Duties of certain owner-occupiers of crofts](section/34.md)
+  - Commission consent for absence from croft
+    - [s. 35 Consent for absence from croft](section/35.md)
+  - Enforcement of duties of crofters and owner-occupier crofters
+    - [s. 36 Information as to compliance with duties: annual notices](section/36.md)
+    - [s. 37 Enforcement of duties of crofters and certain owner-occupiers](section/37.md)
+  - Grazings committees: duty to report misuse etc.
+    - [s. 38 Grazings committees: duty to report breaches of crofters’ and owner-occupier crofters’ duties etc.](section/38.md)
+  - Letting of owner-occupied crofts
+    - [s. 39 Letting of owner-occupied crofts](section/39.md)
+- PART 4 FURTHER AMENDMENTS OF THE 1993 ACT
+  - Disposal of croft land, resumption and decrofting
+    - [s. 40 Limitation on crofter’s ability to nominate disponee](section/40.md)
+    - [s. 41 Extension of period during which sum is payable on disposal of croft land](section/41.md)
+    - [s. 42 Consideration of application to resume croft](section/42.md)
+    - [s. 43 Consideration of decrofting directions](section/43.md)
+  - Letting of vacant crofts
+    - [s. 44 Requirements to submit proposals for re-letting crofts](section/44.md)
+    - [s. 45 Application to decroft where action being taken to re-let vacant croft](section/45.md)
+  - Enlargement of crofts and common grazings
+    - [s. 46 Enlargement of crofts](section/46.md)
+    - [s. 47 Enlargement of common grazings](section/47.md)
+  - Commission’s approval and consent
+    - [s. 48 Obtaining Commission approval or consent](section/48.md)
+  - Succession to crofts
+    - [s. 49 Bequest of crofts](section/49.md)
+  - Appeals
+    - [s. 50 Appeals: procedure](section/50.md)
+- PART 5 GENERAL AND MISCELLANEOUS
+  - [s. 51 Duty to report to the Scottish Parliament](section/51.md)
+  - [s. 52 Pre-consolidation modifications of enactments relating to crofting](section/52.md)
+  - [s. 53 Subordinate legislation](section/53.md)
+  - [s. 54 Ancillary provision](section/54.md)
+  - [s. 55 Minor and consequential amendments and repeals](section/55.md)
+  - [s. 56 Interpretation](section/56.md)
+  - [s. 57 Short title, commencement and Crown application](section/57.md)
+- SCHEDULE 1 THE CROFTING COMMISSION
+- SCHEDULE 2 PERSONS RESPONSIBLE FOR APPLICATIONS FOR REGISTRATION
+- SCHEDULE 3 APPLICATION OF ACT TO COMMON GRAZINGS
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 MINOR AND CONSEQUENTIAL MODIFICATIONS
+  - Small Landholders (Scotland) Act 1911
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Succession (Scotland) Act 1964
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Crofters (Scotland) Act 1993
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
