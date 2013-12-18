@@ -1,0 +1,546 @@
+# Scottish Independence Referendum Act 2013
+
+asp/2013/14. Enacted 2013-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2013-12-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2013/14/2013-12-18
+
+## Contents
+
+- Referendum
+  - [s. 1 Referendum on Scottish independence](section/1.md)
+- Franchise
+  - [s. 2 Those who are entitled to vote](section/2.md)
+  - [s. 3 Declarations of local connection and service declarations: further provision](section/3.md)
+- Voting etc.
+  - [s. 4 Provision about voting etc.](section/4.md)
+- Conduct
+  - [s. 5 Chief Counting Officer](section/5.md)
+  - [s. 6 Other counting officers](section/6.md)
+  - [s. 7 Functions of the Chief Counting Officer and other counting officers](section/7.md)
+  - [s. 8 Correction of procedural errors](section/8.md)
+  - [s. 9 Expenses of counting officers](section/9.md)
+  - [s. 10 Conduct rules](section/10.md)
+- Campaign
+  - [s. 11 Campaign rules](section/11.md)
+  - [s. 12 Monitoring and securing compliance with the campaign rules](section/12.md)
+  - [s. 13 Inspection of Electoral Commission’s registers etc.](section/13.md)
+  - [s. 14 Campaign rules: general offences](section/14.md)
+  - [s. 15 Campaign offences: summary proceedings](section/15.md)
+  - [s. 16 Duty of court to report convictions to the Electoral Commission](section/16.md)
+- Referendum agents
+  - [s. 17 Referendum agents](section/17.md)
+- Observers
+  - [s. 18 Attendance of Electoral Commission at proceedings and observation of working practices](section/18.md)
+  - [s. 19 Accredited observers: individuals](section/19.md)
+  - [s. 20 Accredited observers: organisations](section/20.md)
+  - [s. 21 Attendance and conduct of accredited observers](section/21.md)
+  - [s. 22 Code of practice on attendance of observers](section/22.md)
+- Information, guidance, advice and encouragement
+  - [s. 23 Information for voters](section/23.md)
+  - [s. 24 Guidance](section/24.md)
+  - [s. 25 Advice](section/25.md)
+  - [s. 26 Encouraging participation](section/26.md)
+- Report on referendum
+  - [s. 27 Report on the conduct of the referendum](section/27.md)
+- Electoral Commission: administrative provision
+  - [s. 28 Reimbursement of Commission’s costs](section/28.md)
+  - [s. 29 Estimates of expenditure](section/29.md)
+  - [s. 30 Maladministration](section/30.md)
+- Offences
+  - [s. 31 Offences](section/31.md)
+  - [s. 32 Offences by bodies corporate etc.](section/32.md)
+- Power to make supplementary etc. provision and modifications
+  - [s. 33 Power to make supplementary etc. provision and modifications](section/33.md)
+- Legal proceedings
+  - [s. 34 Restriction on legal challenge to referendum result](section/34.md)
+- Final provisions
+  - [s. 35 Interpretation](section/35.md)
+  - [s. 36 Commencement](section/36.md)
+  - [s. 37 Short title](section/37.md)
+- SCHEDULE 1 Form of ballot paper
+- SCHEDULE 2 Further provision about voting in the referendum
+  - PART 1 Manner of voting
+    - Manner of voting
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Existing absent voters
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Applications for absent vote
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Absent voters lists
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Proxies
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Voting as proxy
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Requirements as to applications
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Additional requirements as to certain applications to vote by proxy
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Grant or refusal of applications
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Forms
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Personal identifiers record
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Marked lists for polling stations
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Appeals
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - PART 2 Registration
+    - Effect of register
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Effect of misdescription
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Carrying out of registration functions
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Alterations in the register of electors
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Preparation of the Polling List
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - The cut-off date
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - PART 3 Postal voting: issue and receipt of ballot papers
+    - Persons entitled to be present at issue and receipt of postal ballot papers
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Notification of requirement of secrecy
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Time when postal ballot papers are to be issued
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Issue of postal ballot papers
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Refusal to issue postal ballot paper
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Envelopes
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Sealing up of completed corresponding number lists and security of special lists
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Payment of postage on postal ballot papers
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Spoilt postal ballot papers
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Lost postal ballot papers
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Superseded postal ballot papers
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Notice of opening of postal ballot paper envelopes
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Boxes and receptacles
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Receipt of covering envelopes and collection of postal votes
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Opening of postal voters box
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Opening of covering envelopes
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - Confirmation of receipt of postal voting statement
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Procedure in relation to postal voting statements
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - Procedure in relation to postal voting statements: personal identifier verification
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Postal voting statements: additional personal identifier verification
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - Opening of ballot paper envelopes
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - Retrieval of cancelled postal ballot papers
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - Lists of provisionally rejected postal ballot papers
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - Checking of lists kept under paragraph 42
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - Sealing of receptacles
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - Forwarding of documents
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - Power of Chief Counting Officer to prescribe
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - Interpretation of Part
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+  - PART 4 Supply of Polling List etc.
+    - Supply of free copy of Polling List etc. to counting officers
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - Supply of free copy of Polling List etc. to Electoral Commission
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - Supply of free copy of edited Polling List etc. to designated organisations
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - Supply of free copy of register of local government electors etc. to permitted participants
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - Supply of data
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - General restriction on use of registration documents and information contained in them
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - Offence in relation to disclosure of registration documents
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - Destruction of copies of the Polling List etc.
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+  - PART 5 Supply of marked Polling List etc.
+    - Supply of marked Polling List etc. to designated organisations
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - Fee for supply of marked Polling List etc.
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+- SCHEDULE 3 Conduct rules
+  - Publication of notice of the referendum
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Hours of polling
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The ballot
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Printing of ballot papers
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The corresponding number list
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Security marking
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Use of schools and public rooms for polling and counting votes
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Postal ballot papers
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Provision of polling stations
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Appointment of presiding officers and clerks
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Issue of poll cards
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Loan of equipment for referendum
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Equipment of polling stations
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Appointment of polling and counting agents
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Admission to polling station
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Notification of requirement of secrecy
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Keeping of order in polling station
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Sealing of ballot boxes
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Questions to be put to voters
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Challenge of voter
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Voting procedure
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Votes marked by presiding officer
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Voting by persons with disabilities
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Tendered ballot papers
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Spoilt ballot papers
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Correction of errors on polling day
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Adjournment of poll in case of riot
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Procedure on close of poll
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Attendance at counting of votes
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - The count
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - Rejected ballot papers
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Counting the votes
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Decisions on ballot papers
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - Re-counts
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - Declaration of result
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Sealing up of ballot papers
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - Delivery of papers
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - Retention and public inspection of papers
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - Retention and public inspection of certifications
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+  - Orders for production of documents
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+  - Power of Chief Counting Officer to prescribe
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+- SCHEDULE 4 Campaign rules
+  - PART 1 Interpretation
+    - Interpretation of schedule
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Permitted participants and designated organisations
+    - Permitted participants
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Further provision about declarations under paragraph 2
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Further provision about responsible persons
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Register of declarations under paragraph 2
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Designated organisations
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Applications for designation under paragraph 6
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Designated organisation’s right to use rooms for holding public meetings
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Supplementary provisions about use of rooms for public meetings
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 3 Referendum expenses
+    - Referendum expenses
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Expenses qualifying where incurred for referendum purposes
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Notional referendum expenses
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Restriction on incurring referendum expenses
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Restriction on payments in respect of referendum expenses
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Restriction on making claims in respect of referendum expenses
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Disputed claims
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Rights of creditors
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - General restriction on referendum expenses
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Special restrictions on referendum expenses by permitted participants
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Referendum expenses incurred as part of common plan
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Returns as to referendum expenses
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Auditor’s report on return
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Delivery of returns to Electoral Commission
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Declaration of responsible person as to return under paragraph 21
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Public inspection of returns under paragraph 21
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - PART 4 Publications
+    - Restriction on publication etc. of promotional material by central and local government etc.
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Details to appear on referendum material
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Display of advertisements
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - PART 5 Control of donations
+    - Operation and interpretation of this Part
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Donations: general rules
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Sponsorship
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Payments etc. not to be regarded as donations
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - Value of donations
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - Prohibition on accepting donations from impermissible donors
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Acceptance or return of donations
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - Return of donation where donor unidentifiable
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - Forfeiture of donations made by impermissible or unidentifiable donors
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - Evasion of restrictions on donations
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - Statement of relevant donations
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - Donations from permissible donors
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - Donations from impermissible or unidentifiable donors
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - Donation reports during referendum period
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - Declaration of responsible person as to donation reports under paragraph 42
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - Public inspection of donation reports under paragraph 42
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+  - PART 6 Control of loans and credit
+    - Operation of Part
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - Regulated transactions
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - Valuation of regulated transaction
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - Authorised participants
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - Regulated transaction involving unauthorised participant
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - Guarantees and securities: unauthorised participant
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - Transfer to unauthorised participant invalid
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - Offences
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - Penalties
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - Statement of regulated transactions
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - Identity of authorised participants
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - Identity of unauthorised participants
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - Details of transaction
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - Changes
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - Total value of non-recordable transactions
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - Transaction reports during referendum period
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - Declaration of responsible person as to transaction reports under paragraph 60
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - Public inspection of transaction reports under paragraph 60
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - Non-disclosure with intent to conceal
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - Proceedings under paragraphs 49 and 63
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - Interpretation
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+- SCHEDULE 5 Campaign rules: investigatory powers of the Electoral Commission
+  - Power to require disclosure
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Inspection warrants
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Powers in relation to suspected offences or contraventions
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Court order for delivery of documents or provision of information etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Retention of documents delivered under paragraph 4
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Power to make copies and records
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Authorisation to be in writing
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Documents in electronic form
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Legal professional privilege
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Admissibility of statements
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Offences
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Guidance by Commission
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Information about use of investigatory powers in Commission’s report
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Interpretation
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 Campaign rules: civil sanctions
+  - PART 1 Fixed monetary penalties
+    - Imposition of fixed monetary penalties
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Representations and appeals etc.
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Information to be included in notices under paragraph 2
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Late payment
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Fixed monetary penalties: criminal proceedings and conviction
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - PART 2 Discretionary requirements
+    - Imposition of discretionary requirements
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Representations and appeals etc.
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Information to be included in notices under paragraph 7
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Discretionary requirements: criminal conviction
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Compliance and restoration certificates
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Failure to comply with discretionary requirements
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Late payment
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - PART 3 Stop notices
+    - Imposition of stop notices
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Information to be included in stop notices
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Completion certificates
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Appeals etc.
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Failure to comply with stop notice
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - PART 4 Enforcement undertakings
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Enforcement undertakings: further provision
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Compliance certificate
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Appeals
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - PART 5 General and supplemental
+    - Combination of sanctions
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Withdrawal or variation of notice
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Use of statements made compulsorily
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Unincorporated associations
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Guidance as to enforcement
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - Recovery of penalties etc.
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Payment of penalties etc into Scottish Consolidated Fund
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Reports on use of civil sanctions
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - Disclosure of information
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - Powers of sheriff
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+  - PART 6 Interpretation
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+  - PART 7 Listed campaign offences
+- SCHEDULE 7 Offences
+  - Personation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Other voting offences
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Imitation poll cards
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Offences relating to applications for postal and proxy votes
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Breach of official duty
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Tampering with ballot papers etc.
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Requirement of secrecy
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Prohibition on publication of exit polls
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Payments to voters for exhibition of referendum notices
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Treating
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Undue influence
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Bribery
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Disturbances at public meetings
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Illegal canvassing by police officers
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Prosecutions for corrupt practices
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Prosecutions for illegal practices
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Conviction of illegal practice on charge of corrupt practice etc.
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Incapacity to hold public or judicial office in Scotland
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Prohibition of paid canvassers
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Providing money for illegal purposes
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Prosecutions for illegal employment or illegal payment
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+- SCHEDULE 8 Interpretation
