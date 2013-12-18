@@ -2,9 +2,9 @@
 
 2013 c. 33. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2013-12-18, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/33/2025-08-20
+Source: https://www.legislation.gov.uk/ukpga/2013/33/2013-12-18
 
 ## Contents
 
@@ -128,43 +128,25 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2025-08-20
     - [s. 96 Guidance](section/96.md)
   - Reports
     - [s. 97 Reports](section/97.md)
-  - Technical Standards
-    - [s. 97A Technical standards](section/97A.md)
-    - [s. 97B Standards instruments](section/97B.md)
-    - [s. 97C Treasury approval](section/97C.md)
-    - [s. 97D Application of section 104 of this Act and Part 9A of the Financial Services and Markets Act 2000](section/97D.md)
   - Relationship with other regulators
     - [s. 98 Duty of regulators to ensure co-ordinated exercise of functions](section/98.md)
     - [s. 99 Memorandum of understanding](section/99.md)
     - [s. 100 Power of Bank to require Regulator to refrain from specified action](section/100.md)
     - [s. 101 Power of FCA to require Regulator to refrain from specified action](section/101.md)
     - [s. 102 Power of PRA to require Regulator to refrain from specified action](section/102.md)
-  - Recommendations
-    - [s. 102A Recommendations by Treasury in connection with general duties](section/102A.md)
   - Consultation, accountability and oversight
-    - [s. 102B Matters to consider when imposing generally applicable requirements](section/102B.md)
     - [s. 103 Regulator’s general duty to consult](section/103.md)
     - [s. 104 Consultation in relation to generally applicable requirements](section/104.md)
-    - [s. 104A Requirements in connection with public consultations](section/104A.md)
-    - [s. 104B Duty of Regulator to review generally applicable requirements](section/104B.md)
-    - [s. 104C Statement of policy relating to review of requirements](section/104C.md)
-    - [s. 104D Requirement to review specified requirements](section/104D.md)
-    - [s. 104E Report on certain reviews](section/104E.md)
-    - [s. 104F Power of Treasury to require the imposition of generally applicable requirements](section/104F.md)
-    - [s. 104G Consultation with the FCA Cost Benefit Analysis Panel](section/104G.md)
-    - [s. 104H Statement of policy in relation to cost benefit analyses](section/104H.md)
-    - [s. 104I Statement of policy on panel appointments](section/104I.md)
     - [s. 105 Independent inquiries](section/105.md)
     - [s. 106 Investigations into regulatory failure](section/106.md)
     - [s. 107 Competition scrutiny](section/107.md)
-    - [s. 107A International trade obligations](section/107A.md)
   - Miscellaneous and supplemental
-    - [s. 108 Relationship with Part 8 of the Payment Services Regulations 2017](section/108.md)
+    - [s. 108 Relationship with Part 8 of the Payment Services Regulations 2009](section/108.md)
     - [s. 109 Exemption from liability in damages for FCA and PRA](section/109.md)
     - [s. 110 Interpretation of Part](section/110.md)
 - PART 6 Special administration for operators of certain infrastructure systems
   - Introductory
-    - [s. 111 Financial market and cash infrastructure administration](section/111.md)
+    - [s. 111 Financial market infrastructure administration](section/111.md)
     - [s. 112 Interpretation: infrastructure companies](section/112.md)
     - [s. 113 Interpretation: other expressions](section/113.md)
   - FMI administration orders
@@ -180,8 +162,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2025-08-20
     - [s. 122 Restriction on winding-up orders and voluntary winding up](section/122.md)
     - [s. 123 Restriction on making of ordinary administration orders](section/123.md)
     - [s. 124 Restriction on enforcement of security](section/124.md)
-  - Powers to participate in Part 26A proceedings
-    - [s. 124A Powers of Bank to participate in Part 26A proceedings](section/124A.md)
   - Financial support for companies in FMI administration
     - [s. 125 Loans](section/125.md)
     - [s. 126 Indemnities](section/126.md)
@@ -318,14 +298,10 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2025-08-20
     - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
   - Annual report
     - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
-  - Other reports
-    - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
   - Audit of accounts
     - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
-  - Funding (participants in regulated payment systems)
+  - Funding
     - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
-  - Funding (regulated persons)
-    - [Sch. 4 para. 9A](schedule/4/paragraph/9A.md)
   - Penalty receipts
     - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
     - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
@@ -334,9 +310,6 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2025-08-20
     - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
   - Exemption from liability in damages
     - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
-  - Engagement with Parliamentary Committees
-    - [Sch. 4 para. 14A](schedule/4/paragraph/14A.md)
-    - [Sch. 4 para. 14B](schedule/4/paragraph/14B.md)
   - Freedom of information
     - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
   - Equality
