@@ -2,9 +2,9 @@
 
 2012 c. 21. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-07-26, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/21` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-03-01, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/21` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/21/2013-07-26
+Source: https://www.legislation.gov.uk/ukpga/2012/21/2014-03-01
 
 ## Contents
 
@@ -117,7 +117,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/21/2013-07-26
     - [s. 74 Duty of PRA to investigate and report on possible regulatory failure](section/74.md)
     - [s. 75 Interpretation of section 74](section/75.md)
     - [s. 76 Modification of section 74 in relation to Lloyd’s](section/76.md)
-    - [s. 77 Power of Treasury to require FCA or PRA to undertake investigation](section/77.md)
+    - [s. 76A Duty of Payment Systems Regulator to investigate and report on possible regulatory failure](section/76A.md)
+    - [s. 77 Power of Treasury to require regulator to undertake investigation](section/77.md)
     - [s. 78 Conduct of investigation](section/78.md)
     - [s. 79 Conclusion of investigation](section/79.md)
     - [s. 80 Statements of policy](section/80.md)
