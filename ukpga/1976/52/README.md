@@ -1,0 +1,152 @@
+# Armed Forces Act 1976
+
+1976 c. 52. Enacted 1976-10-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-03-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1976/52
+
+Source: https://www.legislation.gov.uk/ukpga/1976/52/2014-03-10
+
+## Contents
+
+- Part I General
+  - [s. 1 ................................](section/1.md)
+  - Service in and constitution of forces
+    - [s. 2 Regulations as to variation of term of service.](section/2.md)
+    - [s. 3 Royal Marines.](section/3.md)
+    - [s. 4 QARNNS and WRNS.](section/4.md)
+- Part II Trial and Punishment of Offences
+  - Summary punishment
+    - [s. 5 ................................](section/5.md)
+  - Civilians
+    - [s. 6 Establishment of Standing Civilian Courts.](section/6.md)
+    - [s. 7 Jurisdiction of Standing Civilian Courts.](section/7.md)
+    - [s. 8 Powers of courts in relation to civilians.](section/8.md)
+    - [s. 9 Constitution of courts-martial for civilians.](section/9.md)
+  - Juveniles
+    - [s. 10 Powers of courts in relation to juveniles.](section/10.md)
+  - Court-martial procedure
+    - [s. 11 Proof at courts-martial by written statement.](section/11.md)
+    - [s. 12 Exemption of certain persons from duty to take oath at court-martial.](section/12.md)
+  - Powers of court-martial etc.
+    - [s. 13 Imprisonment in default of payment of fines.](section/13.md)
+    - [s. 14 Restitution and compensation.](section/14.md)
+  - Naval Offences
+    - [s. 15 Territorial scope of certain offences.](section/15.md)
+  - Powers of civil courts
+    - [s. 16 Enforcement by civil courts of financial penalties awarded under Services Acts.](section/16.md)
+  - Rehabilitation
+    - [s. 17 ................................](section/17.md)
+- Part III Miscellaneous and Supplementary
+  - [s. 18 Deductions for maintenance of children.](section/18.md)
+  - [s. 19 Deductions from RAF pensions](section/19.md)
+  - [s. 20 Disqualification of members of forces for House of Commons and Northern Ireland Assembly.](section/20.md)
+  - [s. 21 Greenwich Hospital.](section/21.md)
+  - [s. 22 Citation etc.](section/22.md)
+- SCHEDULE 1 ...
+  - ... ...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - ... ...
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 ...
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 ...
+  - ...
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - ...
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - ...
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - ...
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - ...
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - ...
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - ...
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - ...
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - ...
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - ...
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - ...
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - ......
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - ...
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - ...
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 17A](schedule/3/paragraph/17A.md)
+  - ...
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - ...
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 ...
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 ...
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 ...
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 7 ...
+  - ...
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - ...
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 ...
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Miscellaneous Amendments
+  - Criminal Evidence Act 1898
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Army Act 1955 and Air Force Act 1955
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Naval Discipline Act 1957
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Criminal Justice Act 1967
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Courts-Martial (Appeals) Act 1968
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Treatment of Offenders Act (Northern Ireland) 1968
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Rehabilitation of Offenders Act 1974
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - Treatment of Offenders (Northern Ireland) Order 1976
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+- SCHEDULE 10 Repeals
