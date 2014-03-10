@@ -1,0 +1,265 @@
+# Armed Forces Act 1996
+
+1996 c. 46. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-03-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/46
+
+Source: https://www.legislation.gov.uk/ukpga/1996/46/2014-03-10
+
+## Contents
+
+- Continuance of Services Acts
+  - [s. 1 ................................](section/1.md)
+- Terms and conditions of service
+  - [s. 2 Enlistment or entry for local service.](section/2.md)
+  - [s. 3 Discharge certificates.](section/3.md)
+  - [s. 4 Mode of making regulations relating to enlistment etc.](section/4.md)
+- Trial and punishment of offences under Services Acts
+  - [s. 5 Procedure for dealing with offences under Services Acts.](section/5.md)
+  - [s. 6 Abrogation of common law corroboration rules.](section/6.md)
+  - [s. 7 Evidence from children.](section/7.md)
+  - [s. 8 Findings of unfitness to stand trial and insanity.](section/8.md)
+  - [s. 9 Postponement of sentences of courts-martial.](section/9.md)
+  - [s. 10 Community supervision orders.](section/10.md)
+- Fingerprints and samples
+  - [s. 11 Fingerprinting of certain offenders.](section/11.md)
+  - [s. 12 Taking of samples from certain offenders.](section/12.md)
+- Rehabilitation of service offenders
+  - [s. 13 Application of Rehabilitation of Offenders Act 1974.](section/13.md)
+  - [s. 14 Application of Rehabilitation of Offenders (Northern Ireland) Order 1978.](section/14.md)
+- Review and appeal
+  - [s. 15 Abolition of confirmation.](section/15.md)
+  - [s. 16 Review of findings and sentences.](section/16.md)
+  - [s. 17 Appeals against sentence.](section/17.md)
+  - [s. 18 Powers exercisable by registrar.](section/18.md)
+  - [s. 19 Appeals on behalf of deceased persons.](section/19.md)
+- Redress of complaints
+  - [s. 20 Services redress of complaints procedures.](section/20.md)
+- Complaints to ...employment tribunals
+  - [s. 21 Sex discrimination: Great Britain.](section/21.md)
+  - [s. 22 Sex discrimination: Northern Ireland.](section/22.md)
+  - [s. 23 Racial discrimination.](section/23.md)
+  - [s. 24 Equal treatment: Great Britain.](section/24.md)
+  - [s. 25 Equal treatment: Northern Ireland.](section/25.md)
+  - [s. 26 Other complaints: Great Britain.](section/26.md)
+  - [s. 27 Other complaints: Northern Ireland.](section/27.md)
+- Miscellaneous
+  - [s. 28 Exemptions from Firearms Act 1968.](section/28.md)
+  - [s. 29 Exemptions from Firearms (Northern Ireland) Order 1981.](section/29.md)
+  - [s. 30 Greenwich Hospital.](section/30.md)
+  - [s. 31 Grants for preservation of Royal Naval College site.](section/31.md)
+  - [s. 32 Offences connected with services drug testing programmes.](section/32.md)
+  - [s. 33 Application of Visiting Forces Act 1952.](section/33.md)
+- Supplemental
+  - [s. 34 The 1955 Acts and the 1957 Act.](section/34.md)
+  - [s. 35 Minor and consequential amendments and repeals.](section/35.md)
+  - [s. 36 Short title, commencement and application to Channel Islands and Isle of Man.](section/36.md)
+- SCHEDULE 1 Procedure for dealing with offences under Services Acts.
+  - Part I Summary disposal of offences
+    - Army Act 1955 (c. 18)
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - ...
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - ...
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - ... ...
+    - ...
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - ...
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - ...
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - ... ...
+    - ...
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - ...
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - ...
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+  - Part IV Minor and consequential amendments
+    - Courts-Martial (Appeals) Act 1951 (c. 46)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - Army Act 1955 (c. 18)
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - Air Force Act 1955 (c. 19)
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - Naval Discipline Act 1957 (c. 53)
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+      - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+      - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+      - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+      - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+      - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+      - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+      - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+      - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+      - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+      - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+      - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+      - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+    - Criminal Justice Act 1967 (c. 80)
+      - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+    - Civil Evidence Act 1968 (c. 64)
+      - [Sch. 1 para. 100](schedule/1/paragraph/100.md)
+    - Civil Evidence Act (Northern Ireland) 1971 (c. 36 (N.I.))
+      - [Sch. 1 para. 101](schedule/1/paragraph/101.md)
+    - Armed Forces Act 1976 (c. 52)
+      - [Sch. 1 para. 102](schedule/1/paragraph/102.md)
+      - [Sch. 1 para. 103](schedule/1/paragraph/103.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 1 para. 104](schedule/1/paragraph/104.md)
+      - [Sch. 1 para. 105](schedule/1/paragraph/105.md)
+      - [Sch. 1 para. 106](schedule/1/paragraph/106.md)
+      - [Sch. 1 para. 107](schedule/1/paragraph/107.md)
+    - Criminal Justice Act 1988 (c. 33)
+      - [Sch. 1 para. 108](schedule/1/paragraph/108.md)
+      - [Sch. 1 para. 109](schedule/1/paragraph/109.md)
+    - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+      - [Sch. 1 para. 110](schedule/1/paragraph/110.md)
+    - Criminal Justice and Public Order Act 1994 (c. 33)
+      - [Sch. 1 para. 111](schedule/1/paragraph/111.md)
+- SCHEDULE 2 Findings of unfitness to stand trial and insanity
+  - The 1955 Acts
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - The 1957 Act
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Courts-Martial (Appeals) Act 1968 (c. 20)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Community supervision orders
+  - The 1955 Acts
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The 1957 Act
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Schedule to be inserted in the Rehabilitation of Offenders Act 1974
+- SCHEDULE 5 Review of findings and sentence
+  - The 1955 Acts
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - The 1957 Act
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 Minor and consequential amendments
+  - Naval Medical Compassionate Fund
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Affidavits and declarations outside the United Kingdom
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Enlistment in the Royal Air Force
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Suspension of sentences
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Remission of sentences
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Reviews
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Removal or amendment of spent expressions
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Queen’s Regulations for the Royal Navy
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Meaning of “protected prisoner of war"
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Abolition of confirmation
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+- SCHEDULE 7 Repeals
+  - Part I Repeals relating to changes to procedure for dealing with offences under Services Acts
+  - Part II Repeals relating to Abolition of Confirmation
+  - Part III Other Repeals
