@@ -1,0 +1,102 @@
+# Armed Forces Act 1981
+
+1981 c. 55. Enacted 1981-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-03-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1981/55/2014-03-10
+
+## Contents
+
+- Part I Continuance of Services Acts
+  - [s. 1 ................................](section/1.md)
+- Part II Trial and Punishment of Offences
+  - [s. 2 Young service offenders: custodial orders.](section/2.md)
+  - [s. 3 Power to stay further proceedings under one of the Services Acts with a view to other proceedings.](section/3.md)
+  - [s. 4 Marines: forfeiture of service where desertion confessed.](section/4.md)
+  - [s. 5 Power on reveiw or confirmation to annul the taking into consideration of other offences.](section/5.md)
+  - [s. 6 Trial of persons ceasing to be subject to service law and time limits for trials.](section/6.md)
+  - [s. 7 Extent of accused’s right to copy of record of court-martial proceedings.](section/7.md)
+  - [s. 8 Right of penalised parent or guardian to copy of record of court-martial proceedings.](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 Amendments relating to trial and punishment of civilians under the Services Acts.](section/10.md)
+  - [s. 11 Minor amendments and repeals relating to procedure and evidence.](section/11.md)
+  - [s. 12 Increase in fine for certain minor offences under the Reserve Forces Act 1980.](section/12.md)
+- Part III Miscellaneous
+  - New powers in relation to persons under incapacity
+    - [s. 13 Temporary removal to and detention for treatment in service hospitals abroad of servicemen and others suffering from mental disorder.](section/13.md)
+    - [s. 14 ................................](section/14.md)
+  - Amendments of the Naval Discipline Act 1957 as to offences and punishments
+    - [s. 15 Prize offence: minor amendment as to intent.](section/15.md)
+    - [s. 16 Power on summary trial to award stoppages.](section/16.md)
+    - [s. 17 Abolition of death penalty for spying in ships, etc. abroad.](section/17.md)
+  - Amendments of the Services Acts relating to evidence and proceedings thereunder
+    - [s. 18](section/18.md)
+    - [s. 19 Officers who can take affidavits and declarations abroad.](section/19.md)
+    - [s. 20 Women’s services: statutory assimilation and application thereto of certain enactments.](section/20.md)
+    - [s. 21 Clarification of the meaning in the Naval Discipline Act 1957 of “marine forces” and “naval reserve forces”.](section/21.md)
+    - [s. 22 Members of the armed forces are “employees” for the purposes of the Patents Act 1977.](section/22.md)
+    - [s. 23 Inquiries: persons affected who must be given a opportunity to be present and represented.](section/23.md)
+    - [s. 24 Abolition of the office of Accountant General of the Navy.](section/24.md)
+    - [s. 25 Naval prize cash balance not to include percentage deduction.](section/25.md)
+    - [s. 26 Payment of military pensions.](section/26.md)
+    - [s. 27 Naval and marine pay and pensions: no further publication in London Gazette.](section/27.md)
+- Part IV General
+  - [s. 28 Minor and consequential amendments and repeals.](section/28.md)
+  - [s. 29 Commencement.](section/29.md)
+  - [s. 30 Short title.](section/30.md)
+- SCHEDULE 1 Amendments Relating to Trial of Civilians, Etc.
+  - ...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Minor Amendments and Repeals Relating to Procedure and Evidence
+  - ...
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Women’s Services
+  - Part I Statutory Assimilation
+    - Existing enactments
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Future enactments
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part II Specific
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part III Application to QARNNS and WRNS of Provisions of 1966 Act as to Discharge, Etc.
+    - Preliminary
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Postponement of discharge in event of war, etc.
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Discharge
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - False statements on entry
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - The Army Act 1955
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Rehabilitation of Offenders Act 1974
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Rehabilitation of Offenders (Northern Ireland) Order 1978
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Repeals
+  - Part I Repeals consequent on assimilation of Women’s Services
+    - Acts of Parliament of the United Kingdom
+  - Part II Other Repeals
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
