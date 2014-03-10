@@ -1,0 +1,103 @@
+# Mental Health (Amendment) Act 1982
+
+1982 c. 51. Enacted 1982-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-03-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/51/2014-03-10
+
+## Contents
+
+- Parts I and II
+  - [s. 1 ................................](section/1.md)
+- Part III Patients concerned in Criminal Proceedings etc.
+  - [s. 19 ................................](section/19.md)
+  - Mental condition of persons accused of murder
+    - [s. 34 Amendments of Bail Act 1976 etc.](section/34.md)
+- Parts IV–VI
+  - [s. 35 ................................](section/35.md)
+- Part VII Miscellaneous and Supplementary
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 Correspondence of patients.](section/52.md)
+  - [s. 53 Code of practice.](section/53.md)
+  - [s. 54 Practitioners approved for purposes of Part VI and s. 53.](section/54.md)
+  - [s. 55 General protection of detained patients.](section/55.md)
+  - [s. 56 Mental Health Act Commission.](section/56.md)
+  - [s. 57 Duty of managers of hospitals to give information to detained patients.](section/57.md)
+  - [s. 58 Duty of managers of hospitals to inform nearest relative of discharge of detained patient.](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 61 Replacement of mental welfare officers by approved social workers.](section/61.md)
+  - [s. 62 ................................](section/62.md)
+  - [s. 63](section/63.md)
+  - [s. 64 Minor amendments.](section/64.md)
+  - [s. 65 Consequential amendments and repeals.](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 Expenses.](section/67.md)
+  - [s. 68 Interpretation and supplementary provisions.](section/68.md)
+  - [s. 69 Commencement and transitional provisions.](section/69.md)
+  - [s. 70 Short title and extent.](section/70.md)
+- SCHEDULE 1 ...
+- SCHEDULE 2 ...
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS
+  - PART I
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The Army Act 1955
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - The Air Force Act 1955
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - The Sexual Offences Act 1956
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - The Naval Discipline Act 1957
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - The Administration of Justice Act 1960
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - The Criminal Procedure (Insanity) Act 1964
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - The Sexual Offences Act 1967
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - The Criminal Justice Act 1967
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - The Criminal Appeal Act 1968
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - The Courts-Martial (Appeals) Act 1968
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - The Children and Young Persons Act 1969
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - The Costs in Criminal Cases Act 1973
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+    - The Juries Act 1974
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+    - The Rehabilitation of Offenders Act 1974
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+    - The Criminal Procedure (Scotland) Act 1975
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+    - The National Health Service Act 1977
+      - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+      - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+      - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+    - The Contempt of Court Act 1981
+      - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+      - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+    - Senior Courts Act 1981
+      - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+    - The Armed Forces Act 1981
+      - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+  - PART II ...
+- SCHEDULE 4 REPEALS
+  - PART I
+  - PART II
+- SCHEDULE 5 Transitional Provisions and Savings
+  - Definition of mental disorder
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
