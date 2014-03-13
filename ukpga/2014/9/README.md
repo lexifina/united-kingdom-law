@@ -2,9 +2,9 @@
 
 2014 c. 9. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-05-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/9/2014-05-13
+Source: https://www.legislation.gov.uk/ukpga/2014/9/enacted
 
 ## Contents
 
