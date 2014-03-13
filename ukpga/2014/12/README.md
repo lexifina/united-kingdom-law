@@ -2,39 +2,16 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-03-13, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
-
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2014-03-13
 
 ## Contents
 
-- Part A1 Respect orders
-  - Respect orders
-    - [s. A1 Power to make respect orders](section/A1.md)
-    - [s. B1 Section A1: meaning of “relevant authority”](section/B1.md)
-  - Contents of respect orders
-    - [s. C1 Power to exclude person from home in cases of violence or risk of harm](section/C1.md)
-    - [s. D1 Requirements included in respect orders](section/D1.md)
-  - Procedure
-    - [s. E1 Applications without notice](section/E1.md)
-    - [s. F1 Interim respect orders](section/F1.md)
-    - [s. G1 Variation and discharge of respect orders](section/G1.md)
-  - Breaches of respect orders
-    - [s. H1 Duty to give warning for breach of activity requirement](section/H1.md)
-    - [s. I1 Offence of breach of respect order](section/I1.md)
-  - Supplementary
-    - [s. J1 Requirement to carry out risk assessment](section/J1.md)
-    - [s. K1 Requirements to give notice of applications](section/K1.md)
-    - [s. L1 Special measures for witnesses](section/L1.md)
-    - [s. M1 Guidance](section/M1.md)
-    - [s. N1 Interpretation etc](section/N1.md)
 - PART 1 Injunctions
   - Injunctions
-    - [s. 1 Power to grant youth injunctions](section/1.md)
-    - [s. 1A Power to grant housing injunctions](section/1A.md)
-    - [s. 2 Meaning of “housing-related anti-social conduct”](section/2.md)
+    - [s. 1 Power to grant injunctions](section/1.md)
+    - [s. 2 Meaning of “anti-social behaviour”](section/2.md)
   - Contents of injunctions
     - [s. 3 Requirements included in injunctions](section/3.md)
     - [s. 4 Power of arrest](section/4.md)
@@ -53,7 +30,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
   - Exclusion from home
     - [s. 13 Power to exclude person from home in cases of violence or risk of harm](section/13.md)
   - Supplemental
-    - [s. 13A Requirement to carry out risk assessment](section/13A.md)
     - [s. 14 Requirements to consult etc](section/14.md)
     - [s. 15 Appeals against decisions of youth courts](section/15.md)
     - [s. 16 Special measures for witnesses](section/16.md)
@@ -113,12 +89,10 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
       - [s. 56 Guidance](section/56.md)
       - [s. 57 Interpretation of Chapter 1](section/57.md)
       - [s. 58 Saving and transitional provision](section/58.md)
-  - CHAPTER 2 Public spaces protection orders and expedited orders
-    - Public spaces protection orders and expedited orders
-      - [s. 59 Power to make public spaces protection orders](section/59.md)
-      - [s. 59A Power to make expedited public spaces protection orders](section/59A.md)
-      - [s. 60 Duration of public spaces protection orders](section/60.md)
-      - [s. 60A Duration of expedited orders](section/60A.md)
+  - CHAPTER 2 Public spaces protection orders
+    - Public spaces protection orders
+      - [s. 59 Power to make orders](section/59.md)
+      - [s. 60 Duration of orders](section/60.md)
       - [s. 61 Variation and discharge of orders](section/61.md)
     - Prohibition on consuming alcohol
       - [s. 62 Premises etc to which alcohol prohibition does not apply](section/62.md)
@@ -135,9 +109,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
       - [s. 69 Powers of community support officers](section/69.md)
       - [s. 70 Byelaws](section/70.md)
       - [s. 71 Bodies other than local authorities with statutory functions in relation to land](section/71.md)
-      - [s. 72 Public spaces protection orders: Convention rights, consultation, publicity and notification](section/72.md)
-      - [s. 72A Expedited orders: Convention rights and consents](section/72A.md)
-      - [s. 72B Consultation and notifications after making expedited order](section/72B.md)
+      - [s. 72 Convention rights, consultation, publicity and notification](section/72.md)
       - [s. 73 Guidance](section/73.md)
       - [s. 74 Interpretation of Chapter 2](section/74.md)
       - [s. 75 Saving and transitional provision](section/75.md)
@@ -152,7 +124,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
       - [s. 81 Temporary orders](section/81.md)
       - [s. 82 Extension of closure orders](section/82.md)
       - [s. 83 Discharge of closure orders](section/83.md)
-      - [s. 83A Power of Secretary of State to change maximum duration of closure orders](section/83A.md)
     - Appeals
       - [s. 84 Appeals](section/84.md)
     - Enforcement
@@ -186,8 +157,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
   - Response to complaints about anti-social behaviour
     - [s. 104 Review of response to complaints](section/104.md)
     - [s. 105 ASB case reviews: interpretation](section/105.md)
-  - Information relating to anti-social behaviour
-    - [s. 105A Provision of information to Secretary of State](section/105A.md)
 - PART 7 Dangerous dogs
   - [s. 106 Keeping dogs under proper control](section/106.md)
   - [s. 107 Whether a dog is a danger to public safety](section/107.md)
@@ -211,8 +180,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
 - PART 10 Forced marriage
   - [s. 120 Offence of breaching forced marriage protection order](section/120.md)
   - [s. 121 Offence of forced marriage: England and Wales](section/121.md)
-  - [s. 122 Offence of forced marriage or forced civil partnership: Scotland](section/122.md)
-  - [s. 122A Anonymity of victims of forced marriage: England and Wales](section/122A.md)
+  - [s. 122 Offence of forced marriage: Scotland](section/122.md)
 - PART 11 Policing etc
   - College of Policing
     - [s. 123 Regulations to be prepared or approved by the College](section/123.md)
@@ -306,7 +274,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
     - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
   - Requirements imposed on remand on bail
     - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
-- SCHEDULE 2 Breach of youth injunctions: powers of court in respect of under-18s
+- SCHEDULE 2 Breach of injunctions: powers of court in respect of under-18s
   - PART 1 Introductory
     - Power to make supervision order or detention order
       - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
@@ -391,26 +359,14 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2026-10-26
   - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
   - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
   - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
-- SCHEDULE 6A Anonymity of victims of forced marriage
-  - [Sch. 6A para. 1 Prohibition on the identification of victims in publications](schedule/6A/paragraph/1.md)
-  - [Sch. 6A para. 2 Penalty for breaching prohibition imposed by paragraph 1(2)](schedule/6A/paragraph/2.md)
-  - [Sch. 6A para. 3 Offence under paragraph 2: defences](schedule/6A/paragraph/3.md)
-  - [Sch. 6A para. 4 Special rules for providers of information society services](schedule/6A/paragraph/4.md)
-  - [Sch. 6A para. 5 Special rules for providers of information society services](schedule/6A/paragraph/5.md)
-  - [Sch. 6A para. 6 Special rules for providers of information society services](schedule/6A/paragraph/6.md)
-  - [Sch. 6A para. 7 Special rules for providers of information society services](schedule/6A/paragraph/7.md)
-  - [Sch. 6A para. 8 Special rules for providers of information society services](schedule/6A/paragraph/8.md)
-  - [Sch. 6A para. 9 Interpretation](schedule/6A/paragraph/9.md)
 - SCHEDULE 7 Schedule to be inserted as Schedule 4B to the Police Act 1996
 - SCHEDULE 8 Powers to seize invalid passports etc
   - Interpretation
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
   - Powers of search and seizure etc: ports
     - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
-  - Powers of search and seizure etc: places other than ports
+  - Powers of search and seizure etc: constables
     - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
-  - Powers of entry, search and seizure etc: constables
-    - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
   - Retention or return of documents seized
     - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
   - Offences
