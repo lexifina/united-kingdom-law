@@ -2,9 +2,9 @@
 
 2012 c. 19. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-03-11, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/19` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-01, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/19` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/19/2014-03-11
+Source: https://www.legislation.gov.uk/ukpga/2012/19/2014-04-01
 
 ## Contents
 
@@ -40,8 +40,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/19/2014-03-11
       - [s. 22 Modifying licence conditions and licence area](section/22.md)
       - [s. 23 Restriction on power to modify](section/23.md)
     - Appeals against licence conditions etc
-      - [s. 24 Appeal to Competition Commission: conditions of new licences](section/24.md)
-      - [s. 25 Appeal to Competition Commission: modification of licence conditions](section/25.md)
+      - [s. 24 Appeal to Competition and Markets Authority: conditions of new licences](section/24.md)
+      - [s. 25 Appeal to Competition and Markets Authority: modification of licence conditions](section/25.md)
       - [s. 26 When appeals may be allowed](section/26.md)
       - [s. 27 Determination of appeal](section/27.md)
       - [s. 28 Determination of appeal: time limits](section/28.md)
