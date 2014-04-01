@@ -2,9 +2,9 @@
 
 2013 c. 19. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-06-25, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/19` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-01, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/19` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/19/2013-06-25
+Source: https://www.legislation.gov.uk/ukpga/2013/19/2014-04-01
 
 ## Contents
 
@@ -24,7 +24,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/19/2013-06-25
 - What advice, guidance and recommendations does the Adjudicator give?
   - [s. 11 Advice](section/11.md)
   - [s. 12 Guidance](section/12.md)
-  - [s. 13 Recommendations to Office of Fair Trading](section/13.md)
+  - [s. 13 Recommendations to Competition and Markets Authority](section/13.md)
 - What are the Adjudicator’s reporting requirements?
   - [s. 14 Annual report](section/14.md)
 - How is the Adjudicator supervised?
