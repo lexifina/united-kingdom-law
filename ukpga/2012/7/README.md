@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-03-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-03-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-04-01
 
 ## Contents
 
@@ -102,7 +102,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-03-01
     - [s. 77 Requirements under section 75: undertakings](section/77.md)
     - [s. 78 Guidance](section/78.md)
     - [s. 79 Mergers involving NHS foundation trusts](section/79.md)
-    - [s. 80 Co-operation with the Office of Fair Trading](section/80.md)
+    - [s. 80 Co-operation with the CMA](section/80.md)
   - CHAPTER 3 Licensing
     - Licensing requirement
       - [s. 81 Requirement for health service providers to be licensed](section/81.md)
@@ -127,7 +127,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-03-01
       - [s. 98 Conditions relating to the continuation of the provision of services etc.](section/98.md)
       - [s. 99 Notification of commissioners where continuation of services at risk](section/99.md)
       - [s. 100 Modification of standard conditions](section/100.md)
-      - [s. 101 Modification references to the Competition Commission](section/101.md)
+      - [s. 101 Modification references to the CMA](section/101.md)
       - [s. 102 Modification of conditions by order under other enactments](section/102.md)
       - [s. 103 Standard condition as to transparency of certain criteria](section/103.md)
     - Enforcement
@@ -939,7 +939,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-03-01
     - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
   - Inaccurate, incomplete or misleading information
     - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
-- SCHEDULE 10 References by Monitor to the Competition Commission
+- SCHEDULE 10 References by Monitor to the CMA
   - Variation of reference
     - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
   - Monitor’s opinion of public interest etc.
@@ -954,7 +954,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-03-01
     - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
   - Changes following report
     - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
-  - Competition Commission’s power to veto changes
+  - CMA’s power to veto changes
     - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
   - Disclosure etc.
     - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
@@ -990,7 +990,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-03-01
     - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
   - Representations by objectors
     - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
-  - Functions of Commission in relation to reference
+  - Functions of CMA in relation to reference
     - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
   - Timetable for determination on reference
     - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
