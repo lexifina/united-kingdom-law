@@ -2,11 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-01, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 30 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/26
-
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2014-04-01
 
 ## Contents
 
@@ -169,7 +167,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 120 Bank levy: miscellaneous changes](section/120.md)
   - Gaming duty
     - [s. 121 Rates of gaming duty](section/121.md)
-  - ...
+  - Bingo duty
     - [s. 122 Rate of bingo duty](section/122.md)
     - [s. 123 Exemption from bingo duty: small-scale amusements provided commercially](section/123.md)
   - Machine games duty
@@ -178,10 +176,9 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
   - CHAPTER 1 General betting duty
     - The duty
       - [s. 125 General betting duty](section/125.md)
-    - General, remote and spread bets
+    - General and spread bets
       - [s. 126 General bets](section/126.md)
       - [s. 127 General betting duty charge on general bets](section/127.md)
-      - [s. 127A General betting duty charge on remote bets](section/127A.md)
       - [s. 128 Spread bets](section/128.md)
       - [s. 129 General betting duty charge on financial spread bets](section/129.md)
       - [s. 130 General betting duty charge on non-financial spread bets](section/130.md)
@@ -220,9 +217,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 157 Profits on ordinary gaming](section/157.md)
     - [s. 158 Profits on retained prizes](section/158.md)
     - [s. 159 Gaming payments](section/159.md)
-    - [s. 159A Play using the results of successful freeplay](section/159A.md)
     - [s. 160 Prizes](section/160.md)
-    - [s. 160A Prizes: freeplay](section/160A.md)
     - [s. 161 Exemptions](section/161.md)
     - [s. 162 Liability to pay](section/162.md)
   - CHAPTER 4 General
@@ -286,15 +281,12 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
       - [s. 207 Representations about a follower notice](section/207.md)
     - Penalties
       - [s. 208 Penalty if corrective action not taken in response to follower notice](section/208.md)
-      - [s. 208A Additional penalty for unreasonable tax appeal](section/208A.md)
-      - [s. 209 Amount of a section 208 or 208A penalty](section/209.md)
+      - [s. 209 Amount of a section 208 penalty](section/209.md)
       - [s. 210 Reduction of a section 208 penalty for co-operation](section/210.md)
       - [s. 211 Assessment of a section 208 penalty](section/211.md)
-      - [s. 211A Assessment of a section 208A penalty](section/211A.md)
       - [s. 212 Aggregate penalties](section/212.md)
-      - [s. 213 Alteration of assessment of a section 208 or 208A penalty](section/213.md)
+      - [s. 213 Alteration of assessment of a section 208 penalty](section/213.md)
       - [s. 214 Appeal against a section 208 penalty](section/214.md)
-      - [s. 214A Appeal against a section 208A penalty](section/214A.md)
     - Partners and partnerships
       - [s. 215 Follower notices: treatment of partners and partnerships](section/215.md)
     - Appeals out of time
@@ -310,17 +302,13 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
       - [s. 221 Content of notice given pending an appeal](section/221.md)
       - [s. 222 Representations about a notice](section/222.md)
     - Forms of accelerated payment
-      - [s. 223 Effect of notice given while tax enquiry is in progress: accelerated payment](section/223.md)
+      - [s. 223 Effect of notice given while tax enquiry is in progress](section/223.md)
       - [s. 224 Restriction on powers to postpone tax payments pending initial appeal](section/224.md)
       - [s. 225 Protection of the revenue pending further appeals](section/225.md)
-    - Prevention of surrender of losses
-      - [s. 225A Effect of notice: surrender of losses ineffective, etc](section/225A.md)
     - Penalties
       - [s. 226 Penalty for failure to pay accelerated payment](section/226.md)
     - Withdrawal etc of accelerated payment notice
       - [s. 227 Withdrawal, modification or suspension of accelerated payment notice](section/227.md)
-    - Group relief claims after accelerated payment notices
-      - [s. 227A Group relief claims after accelerated payment notices](section/227A.md)
     - Partners and partnerships
       - [s. 228 Accelerated partner payments](section/228.md)
     - Defined terms
@@ -338,37 +326,16 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 234 Meaning of “relevant proposal” and “relevant arrangements”](section/234.md)
     - [s. 235 Carrying on a business “as a promoter”](section/235.md)
     - [s. 236 Meaning of “intermediary”](section/236.md)
-  - Stop notices
-    - [s. 236A Power to give stop notices](section/236A.md)
-    - [s. 236B Effect of stop notices](section/236B.md)
-    - [s. 236C Quarterly returns](section/236C.md)
-    - [s. 236D Withdrawal of stop notices](section/236D.md)
-    - [s. 236E Appeal against decision not to withdraw stop notice](section/236E.md)
-    - [s. 236F Suspension of stop notice pending appeal](section/236F.md)
-    - [s. 236G Automatic withdrawal of certain stop notices](section/236G.md)
-    - [s. 236H Publication](section/236H.md)
-    - [s. 236I Publication where stop notice automatically withdrawn](section/236I.md)
-    - [s. 236J Disclosure to clients and intermediaries](section/236J.md)
-    - [s. 236K Notification of interested persons by HMRC](section/236K.md)
   - Conduct notices
     - [s. 237 Duty to give conduct notice](section/237.md)
-    - [s. 237A Duty to give conduct notice: defeat of promoted arrangements](section/237A.md)
-    - [s. 237B Duty to give further conduct notice where provisional notice not complied with](section/237B.md)
-    - [s. 237C When a conduct notice given under section 237A(8) is “provisional”](section/237C.md)
-    - [s. 237D Judicial ruling upholding asserted tax advantage: effect on conduct notice which is provisional](section/237D.md)
     - [s. 238 Contents of a conduct notice](section/238.md)
     - [s. 239 Section 238: supplementary](section/239.md)
-    - [s. 239A Conduct notices: transferees](section/239A.md)
-    - [s. 240 Amendment, withdrawal or reissue of conduct notice](section/240.md)
+    - [s. 240 Amendment or withdrawal of conduct notice](section/240.md)
     - [s. 241 Duration of conduct notice](section/241.md)
-  - Defeat notices
-    - [s. 241A Defeat notices](section/241A.md)
-    - [s. 241B Judicial ruling upholding asserted tax advantage: effect on defeat notice](section/241B.md)
   - Monitoring notices: procedure and publication
     - [s. 242 Monitoring notices: duty to apply to tribunal](section/242.md)
     - [s. 243 Monitoring notices: tribunal approval](section/243.md)
     - [s. 244 Monitoring notices: content and issuing](section/244.md)
-    - [s. 244A Monitoring notices: transferees](section/244A.md)
     - [s. 245 Withdrawal of monitoring notice](section/245.md)
     - [s. 246 Notification of determination under section 245](section/246.md)
     - [s. 247 Appeal against refusal to withdraw monitoring notice](section/247.md)
@@ -376,7 +343,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 249 Publication by monitored promoter](section/249.md)
   - Allocation and distribution of promoter reference number
     - [s. 250 Allocation of promoter reference number](section/250.md)
-    - [s. 251 Duty of monitored promoter to notify clients etc of number](section/251.md)
+    - [s. 251 Duty of monitored promoter to notify clients and intermediaries of number](section/251.md)
     - [s. 252 Duty of those notified to notify others of promoter’s number](section/252.md)
     - [s. 253 Duty of persons to notify the Commissioners](section/253.md)
   - Obtaining information and documents
@@ -386,7 +353,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 257 Ongoing duty to provide information following HMRC notice](section/257.md)
     - [s. 258 Duty of person dealing with non-resident monitored promoter](section/258.md)
     - [s. 259 Monitored promoters: duty to provide information about clients](section/259.md)
-    - [s. 260 Intermediaries etc: duty to provide information about clients](section/260.md)
+    - [s. 260 Intermediaries: duty to provide information about clients](section/260.md)
     - [s. 261 Enquiry following provision of client information](section/261.md)
     - [s. 262 Information required for monitoring compliance with conduct notice](section/262.md)
     - [s. 263 Duty to notify HMRC of address](section/263.md)
@@ -401,7 +368,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 270 Limitation on duty to produce documents](section/270.md)
     - [s. 271 Legal professional privilege](section/271.md)
     - [s. 272 Tax advisers](section/272.md)
-    - [s. 272A Application of Schedule 36 FA 2008 powers](section/272A.md)
     - [s. 273 Confidentiality](section/273.md)
   - Penalties
     - [s. 274 Penalties](section/274.md)
@@ -409,14 +375,11 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [s. 276 Limitation of defence of reasonable care](section/276.md)
     - [s. 277 Extended time limit for assessment](section/277.md)
   - Offences
-    - [s. 277A Offences relating to stop notices](section/277A.md)
-    - [s. 277B Liability for offences under section 277A committed by a body](section/277B.md)
     - [s. 278 Offence of concealing etc documents](section/278.md)
     - [s. 279 Offence of concealing etc documents following informal notification](section/279.md)
     - [s. 280 Penalties for offences](section/280.md)
   - Supplemental
     - [s. 281 Partnerships](section/281.md)
-    - [s. 281A VAT and other indirect taxes](section/281A.md)
     - [s. 282 Regulations under this Part](section/282.md)
     - [s. 283 Interpretation of this Part](section/283.md)
 - PART 6 Other provisions
@@ -1330,7 +1293,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
   - Saving for amendments and repeals made by Schedule 28
     - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
-- SCHEDULE 30 Section 208 or 208A penalty: value of the denied advantage
+- SCHEDULE 30 Section 208 penalty: value of the denied advantage
   - Introduction
     - [Sch. 30 para. 1](schedule/30/paragraph/1.md)
   - Value of denied advantage: normal rule
@@ -1348,8 +1311,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [Sch. 31 para. 3](schedule/31/paragraph/3.md)
   - Penalty if corrective action not taken in response to partnership follower notice
     - [Sch. 31 para. 4](schedule/31/paragraph/4.md)
-  - Additional penalty for unreasonable tax appeal
-    - [Sch. 31 para. 4A](schedule/31/paragraph/4A.md)
   - Calculation of penalty etc
     - [Sch. 31 para. 5](schedule/31/paragraph/5.md)
 - SCHEDULE 32 Accelerated payments and partnerships
@@ -1365,7 +1326,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [Sch. 32 para. 5](schedule/32/paragraph/5.md)
   - Effect of partner payment notice
     - [Sch. 32 para. 6](schedule/32/paragraph/6.md)
-    - [Sch. 32 para. 6A](schedule/32/paragraph/6A.md)
   - Penalty for failure to comply with partner payment notice
     - [Sch. 32 para. 7](schedule/32/paragraph/7.md)
   - Withdrawal, suspension or modification of partner payment notices
@@ -1380,17 +1340,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
     - [Sch. 33 para. 4](schedule/33/paragraph/4.md)
   - Finance Act 2009
     - [Sch. 33 para. 5](schedule/33/paragraph/5.md)
-- SCHEDULE 33A Promotion structures
-  - Cases in which a person is a member of a promotion structure.
-    - [Sch. 33A para. 1](schedule/33A/paragraph/1.md)
-  - Multiple entity promoter
-    - [Sch. 33A para. 2](schedule/33A/paragraph/2.md)
-  - Acting for a non-resident promoter
-    - [Sch. 33A para. 3](schedule/33A/paragraph/3.md)
-  - Control of another promoter
-    - [Sch. 33A para. 4](schedule/33A/paragraph/4.md)
-  - Transfer of promotion business
-    - [Sch. 33A para. 5](schedule/33A/paragraph/5.md)
 - SCHEDULE 34 Promoters of tax avoidance schemes: threshold conditions
   - PART 1 Meeting the threshold conditions: general
     - Meaning of “threshold condition”
@@ -1399,15 +1348,15 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
       - [Sch. 34 para. 2](schedule/34/paragraph/2.md)
     - Breach of the Banking Code of Practice
       - [Sch. 34 para. 3](schedule/34/paragraph/3.md)
-    - Tax advisers
+    - Dishonest tax agents
       - [Sch. 34 para. 4](schedule/34/paragraph/4.md)
-    - Non-compliance with avoidance disclosure requirements
+    - Non-compliance with Part 7 of FA 2004
       - [Sch. 34 para. 5](schedule/34/paragraph/5.md)
     - Criminal offences
       - [Sch. 34 para. 6](schedule/34/paragraph/6.md)
     - Opinion notice of GAAR Advisory Panel
       - [Sch. 34 para. 7](schedule/34/paragraph/7.md)
-    - Disciplinary action against a member of a trade or profession
+    - Disciplinary action by a professional body
       - [Sch. 34 para. 8](schedule/34/paragraph/8.md)
     - Disciplinary action by a regulatory authority
       - [Sch. 34 para. 9](schedule/34/paragraph/9.md)
@@ -1415,82 +1364,12 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
       - [Sch. 34 para. 10](schedule/34/paragraph/10.md)
     - Restrictive contractual terms
       - [Sch. 34 para. 11](schedule/34/paragraph/11.md)
-    - Stop notices
+    - Continuing to promote certain arrangements
       - [Sch. 34 para. 12](schedule/34/paragraph/12.md)
-  - PART 2 Meeting the threshold conditions: bodies corporate and partnerships
-    - Interpretation
-      - [Sch. 34 para. 13A](schedule/34/paragraph/13A.md)
-    - Relevant bodies controlled etc by other persons treated as meeting a threshold condition
-      - [Sch. 34 para. 13B](schedule/34/paragraph/13B.md)
-    - Persons who control etc a relevant body treated as meeting a threshold condition
-      - [Sch. 34 para. 13C](schedule/34/paragraph/13C.md)
-    - Relevant bodies controlled etc by the same person treated as meeting a threshold condition
-      - [Sch. 34 para. 13D](schedule/34/paragraph/13D.md)
+  - PART 2 Meeting the threshold conditions: bodies corporate
+    - [Sch. 34 para. 13](schedule/34/paragraph/13.md)
   - PART 3 Power to amend
     - [Sch. 34 para. 14](schedule/34/paragraph/14.md)
-- SCHEDULE 34A Promoters of tax avoidance schemes: defeated arrangements
-  - PART 1 Introduction
-    - [Sch. 34A para. 1](schedule/34A/paragraph/1.md)
-  - PART 2 Meaning of “relevant defeat”
-    - “Related” arrangements
-      - [Sch. 34A para. 2](schedule/34A/paragraph/2.md)
-    - “Promoted arrangements”
-      - [Sch. 34A para. 3](schedule/34A/paragraph/3.md)
-    - Relevant defeat of single arrangements
-      - [Sch. 34A para. 4](schedule/34A/paragraph/4.md)
-    - Relevant defeat of related arrangements
-      - [Sch. 34A para. 5](schedule/34A/paragraph/5.md)
-    - Limit on number of separate relevant defeats in relation to the same, or related, arrangements
-      - [Sch. 34A para. 6](schedule/34A/paragraph/6.md)
-    - Case 1: counteraction upheld by judicial ruling
-      - [Sch. 34A para. 7](schedule/34A/paragraph/7.md)
-    - Case 2: judicial ruling that avoidance-related rule applies
-      - [Sch. 34A para. 8](schedule/34A/paragraph/8.md)
-    - Case 3: proportion-based relevant defeat
-      - [Sch. 34A para. 9](schedule/34A/paragraph/9.md)
-    - “Defeat” of arrangements
-      - [Sch. 34A para. 10](schedule/34A/paragraph/10.md)
-      - [Sch. 34A para. 11](schedule/34A/paragraph/11.md)
-      - [Sch. 34A para. 12](schedule/34A/paragraph/12.md)
-      - [Sch. 34A para. 13](schedule/34A/paragraph/13.md)
-      - [Sch. 34A para. 14](schedule/34A/paragraph/14.md)
-      - [Sch. 34A para. 15](schedule/34A/paragraph/15.md)
-      - [Sch. 34A para. 16](schedule/34A/paragraph/16.md)
-  - PART 3 Relevant defeats: associated persons
-    - Attribution of relevant defeats
-      - [Sch. 34A para. 17](schedule/34A/paragraph/17.md)
-    - Deemed defeat notices
-      - [Sch. 34A para. 18](schedule/34A/paragraph/18.md)
-    - Meaning of “relevant body” and “control”
-      - [Sch. 34A para. 19](schedule/34A/paragraph/19.md)
-  - PART 4 Meeting section 237A conditions: bodies corporate and partnerships
-    - Relevant bodies controlled etc by other persons treated as meeting section 237A condition
-      - [Sch. 34A para. 20](schedule/34A/paragraph/20.md)
-    - Persons who control etc a relevant body treated as meeting a section 237A condition
-      - [Sch. 34A para. 21](schedule/34A/paragraph/21.md)
-    - Relevant bodies controlled etc by the same person treated as meeting a section 237A condition
-      - [Sch. 34A para. 22](schedule/34A/paragraph/22.md)
-    - Interpretation
-      - [Sch. 34A para. 23](schedule/34A/paragraph/23.md)
-  - PART 5 Supplementary
-    - “Adjustments”
-      - [Sch. 34A para. 24](schedule/34A/paragraph/24.md)
-    - Meaning of “avoidance-related rule”
-      - [Sch. 34A para. 25](schedule/34A/paragraph/25.md)
-    - “DOTAS arrangements”
-      - [Sch. 34A para. 26](schedule/34A/paragraph/26.md)
-    - “Disclosable VAT or other indirect tax arrangements”
-      - [Sch. 34A para. 26A](schedule/34A/paragraph/26A.md)
-    - “Disclosable Schedule 11A VAT arrangements”
-      - [Sch. 34A para. 27](schedule/34A/paragraph/27.md)
-    - Paragraphs 26 to 27: supplementary
-      - [Sch. 34A para. 28](schedule/34A/paragraph/28.md)
-    - “Final” counteraction
-      - [Sch. 34A para. 29](schedule/34A/paragraph/29.md)
-    - Inheritance tax, stamp duty reserve tax, VAT and petroleum revenue tax
-      - [Sch. 34A para. 30](schedule/34A/paragraph/30.md)
-    - Power to amend
-      - [Sch. 34A para. 31](schedule/34A/paragraph/31.md)
 - SCHEDULE 35 Promoters of tax avoidance schemes: penalties
   - Introduction
     - [Sch. 35 para. 1](schedule/35/paragraph/1.md)
@@ -1526,19 +1405,15 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
       - [Sch. 36 para. 2](schedule/36/paragraph/2.md)
     - Meeting of conditions
       - [Sch. 36 para. 3](schedule/36/paragraph/3.md)
-    - ................................
+    - Threshold conditions: actions of partners in a personal capacity
       - [Sch. 36 para. 4](schedule/36/paragraph/4.md)
   - PART 2 Conduct notices and monitoring notices
-    - Defeat notices
-      - [Sch. 36 para. 4A](schedule/36/paragraph/4A.md)
     - Conduct notices
       - [Sch. 36 para. 5](schedule/36/paragraph/5.md)
     - Monitoring notices
       - [Sch. 36 para. 6](schedule/36/paragraph/6.md)
     - Person continuing to carry on partnership business as a sole trader
       - [Sch. 36 para. 7](schedule/36/paragraph/7.md)
-    - Persons leaving partnership: defeat notices
-      - [Sch. 36 para. 7A](schedule/36/paragraph/7A.md)
     - Persons leaving a partnership: conduct notices
       - [Sch. 36 para. 8](schedule/36/paragraph/8.md)
     - Persons leaving a partnership: monitoring notices
@@ -1547,7 +1422,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
       - [Sch. 36 para. 10](schedule/36/paragraph/10.md)
     - Notices under paragraphs 8 to 10: general
       - [Sch. 36 para. 11](schedule/36/paragraph/11.md)
-      - [Sch. 36 para. 11A](schedule/36/paragraph/11A.md)
       - [Sch. 36 para. 12](schedule/36/paragraph/12.md)
       - [Sch. 36 para. 13](schedule/36/paragraph/13.md)
     - Publication under section 248
@@ -1564,7 +1438,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-06-25
   - PART 4 Interpretation
     - Meaning of “controlling member”
       - [Sch. 36 para. 19](schedule/36/paragraph/19.md)
-    - ................................
+    - Meaning of “managing partner”
       - [Sch. 36 para. 20](schedule/36/paragraph/20.md)
     - Power to amend definitions
       - [Sch. 36 para. 21](schedule/36/paragraph/21.md)
