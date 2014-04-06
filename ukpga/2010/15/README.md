@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-04-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-06, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2014-04-01
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2014-04-06
 
 ## Contents
 
@@ -203,6 +203,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2014-04-01
     - [s. 139A Equal pay audits](section/139A.md)
     - [s. 140 Conduct giving rise to separate proceedings](section/140.md)
     - [s. 140A Extension of time limits because of mediation in certain cross-border disputes](section/140A.md)
+    - [s. 140B Extension of time limits to facilitate conciliation before institution of proceedings](section/140B.md)
     - [s. 141 Interpretation, etc.](section/141.md)
 - Part 10 Contracts, etc.
   - Contracts and other agreements
