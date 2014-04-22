@@ -1,0 +1,111 @@
+# Local Government Act 1948
+
+1948 c. 26. Enacted 1948-03-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/11-12/26/2014-04-22
+
+## Contents
+
+- Part I
+  - [s. 116. ................................](section/116.md)
+- Part II
+  - [s. 17 ................................](section/17.md)
+  - [s. 1820. ................................](section/1820.md)
+  - [s. 2122. ................................](section/2122.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 2632. ................................](section/2632.md)
+- Part III Valuation and Rating Procedure
+  - [s. 3334. ................................](section/3334.md)
+  - [s. 3538. ................................](section/3538.md)
+  - [s. 3948. ................................](section/3948.md)
+  - [s. 49](section/49.md)
+  - [s. 5053. ................................](section/5053.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59](section/59.md)
+  - [s. 6061 ................................](section/6061.md)
+  - Miscellaneous
+    - [s. 62 Appeals as to water rates.](section/62.md)
+    - [s. 6364. ................................](section/6364.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 6667. ................................](section/6667.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 6970. ................................](section/6970.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 Extent of Part III.](section/73.md)
+- Part IV
+  - [s. 7482. ................................](section/7482.md)
+  - [s. 8384. ................................](section/8384.md)
+- Part V Rating of Transport and Electricity Authorities
+  - [s. 85 General](section/85.md)
+  - Railways and Canals; rating provisions
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 Railway or canal hereditaments partly used for other purposes.](section/87.md)
+    - [s. 88](section/88.md)
+    - [s. 89 Commencement of provisions as to railway or canal hereditaments and transitional provisions.](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+    - [s. 92 ................................](section/92.md)
+  - Payments by British Transport Commission for benefit of local authorities
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 Adjustments of British Transport Commission’s payments for changes in the average rates.](section/94.md)
+    - [s. 95 ................................](section/95.md)
+    - [s. 96](section/96.md)
+    - [s. 97](section/97.md)
+    - [s. 98 ................................](section/98.md)
+    - [s. 99 ................................](section/99.md)
+  - General provision as to payments for benefit of local authorities
+    - [s. 100 Provisions as to making and division of payments for benefit of local authorities.](section/100.md)
+    - [s. 101 ................................](section/101.md)
+    - [s. 102 Treatment of payments for benefit of local authorities.](section/102.md)
+    - [s. 103 ................................](section/103.md)
+  - Miscellaneous
+    - [s. 104 ................................](section/104.md)
+    - [s. 105 ................................](section/105.md)
+    - [s. 106 ................................](section/106.md)
+    - [s. 107 ................................](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 ................................](section/109.md)
+    - [s. 110 ................................](section/110.md)
+- Part VI
+  - [s. 111119. ................................](section/111119.md)
+- Part VII Miscellaneous
+  - [s. 120](section/120.md)
+  - [s. 121 ................................](section/121.md)
+  - [s. 122 ................................](section/122.md)
+  - [s. 123 ................................](section/123.md)
+  - [s. 124 ................................](section/124.md)
+  - [s. 125 ................................](section/125.md)
+  - [s. 126 ................................](section/126.md)
+  - [s. 127 ................................](section/127.md)
+  - [s. 128 ................................](section/128.md)
+  - [s. 129132. ................................](section/129132.md)
+  - [s. 133 War memorials.](section/133.md)
+  - [s. 134135. ................................](section/134135.md)
+  - [s. 136 ................................](section/136.md)
+  - [s. 137 ................................](section/137.md)
+  - [s. 138 ................................](section/138.md)
+  - [s. 139 ................................](section/139.md)
+- Part VIII General
+  - [s. 140 Compensation to officers.](section/140.md)
+  - [s. 141 ................................](section/141.md)
+  - [s. 142 Provisions as to statutory instruments under this Act.](section/142.md)
+  - [s. 143 ................................](section/143.md)
+  - [s. 144 Interpretation.](section/144.md)
+  - [s. 145 Application to Scotland.](section/145.md)
+  - [s. 146 Application to Isles of Scilly.](section/146.md)
+  - [s. 147 ................................](section/147.md)
+  - [s. 148 Short title and extent.](section/148.md)
+- FIRST SCHEDULE
+  - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+  - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+  - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+- SECOND SCHEDULE
