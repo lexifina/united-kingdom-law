@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-04-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-22, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2014-04-01
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2014-04-22
 
 ## Contents
 
@@ -330,6 +330,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2014-04-01
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 3](schedule/1/part/3/crossheading/exceptions-courts/paragraph/3.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 4](schedule/1/part/3/crossheading/exceptions-courts/paragraph/4.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 5](schedule/1/part/3/crossheading/exceptions-courts/paragraph/5.md)
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 6](schedule/1/part/3/crossheading/exceptions-courts/paragraph/6.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 7](schedule/1/part/3/crossheading/exceptions-courts/paragraph/7.md)
       - [Sch. 1 Pt. 3 heading exceptions-courts para. 8](schedule/1/part/3/crossheading/exceptions-courts/paragraph/8.md)
