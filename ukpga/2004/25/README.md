@@ -1,0 +1,191 @@
+# Horserace Betting and Olympic Lottery Act 2004
+
+2004 c. 25. Enacted 2004-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-04-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/25
+
+Source: https://www.legislation.gov.uk/ukpga/2004/25/2014-04-22
+
+## Contents
+
+- Part 1 Sale of the Tote
+  - Dissolution, and transfer of assets
+    - [s. 1 Dissolution of the Tote](section/1.md)
+    - [s. 2 Successor company: transfer](section/2.md)
+    - [s. 3 Sections 1 and 2: supplemental](section/3.md)
+    - [s. 4 Tax](section/4.md)
+  - Operation of successor company
+    - [s. 5 Pre-sale issue of shares, &c. to government](section/5.md)
+    - [s. 6 Accounts](section/6.md)
+    - [s. 7 Shadow directors](section/7.md)
+  - Post-transfer control of horserace pool betting
+    - [s. 8 Exclusive licence](section/8.md)
+    - [s. 9 Section 8: supplemental](section/9.md)
+    - [s. 10 Control when no exclusive licence](section/10.md)
+  - General
+    - [s. 11 Preparatory work by the Tote](section/11.md)
+    - [s. 12 Interpretation](section/12.md)
+    - [s. 13 Consequential amendments](section/13.md)
+    - [s. 14 Extent](section/14.md)
+- Part 2 Abolition of the Horserace Betting Levy System
+  - [s. 15 Abolition of levy](section/15.md)
+  - [s. 16 Property of the Levy Board](section/16.md)
+  - [s. 17 Consequential amendments](section/17.md)
+  - [s. 18 Tax](section/18.md)
+  - [s. 19 Interpretation: “enactment”](section/19.md)
+  - [s. 20 Extent](section/20.md)
+- Part 3 National Lottery: Olympic Lotteries
+  - Olympic Lotteries
+    - [s. 21 Licensing of Olympic Lotteries](section/21.md)
+    - [s. 22 Timing](section/22.md)
+  - Olympic Lottery Distribution Fund
+    - [s. 23 The Fund](section/23.md)
+    - [s. 24 Payments into Fund from lottery proceeds](section/24.md)
+    - [s. 25 Payments into Fund from National Lottery Distribution Fund](section/25.md)
+    - [s. 26 Payments out of Fund](section/26.md)
+    - [s. 27 Investment](section/27.md)
+    - [s. 28 Winding up](section/28.md)
+  - Olympic Lottery Distributor
+    - [s. 29 The Olympic Lottery Distributor](section/29.md)
+    - [s. 30 Distribution](section/30.md)
+    - [s. 31 Distribution policy](section/31.md)
+    - [s. 32 Dissolution](section/32.md)
+  - Miscellaneous
+    - [s. 33 Interpretation](section/33.md)
+    - [s. 34 Consequential amendments, &c.](section/34.md)
+    - [s. 35 Changes in Olympic procedure](section/35.md)
+    - [s. 36 Regulations and orders](section/36.md)
+    - [s. 37 Extent](section/37.md)
+- Part 4 General
+  - [s. 38 Repeals](section/38.md)
+  - [s. 39 Money](section/39.md)
+  - [s. 40 Commencement](section/40.md)
+  - [s. 41 Extent](section/41.md)
+  - [s. 42 Short title](section/42.md)
+- SCHEDULE 1 New Schedule 1A to the Betting, Gaming and Lotteries Act 1963
+- SCHEDULE 2 Sale of the Tote: Consequential Amendments
+  - Betting, Gaming and Lotteries Act 1963 (c. 2)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Gaming Act 1968 (c. 65)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Horserace Betting Levy Act 1969 (c. 14)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - National Lottery etc. Act 1993 (c. 39)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Horserace Betting Levy Board: Transfer of Property
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Board to assist Secretary of State
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Ancillary powers of Board
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Ancillary powers of Secretary of State
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Content of transfer scheme
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Transfer of undertakings
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Certificate of title
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Modification of scheme
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Consultation and consent
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Accounts
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4 Abolition of the Horserace Betting Levy System: Consequential Amendments
+  - Betting, Gaming and Lotteries Act 1963 (c. 2)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Finance Act 1969 (c. 32)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 The Olympic Lottery Distributor
+  - Part 1 Constitution
+    - Membership
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Tenure
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Staff
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Committees
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Status
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Supervision
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Disqualification
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Part 2 Proceedings
+    - Delegation
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Directions of the Secretary of State ...
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Self-regulation
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Records
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Annual report
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Saving
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Part 3 Money
+    - Remuneration, &c.
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Payments
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Investment
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Miscellaneous receipts
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Accounts
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Financial year
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+- SCHEDULE 6 Repeals
