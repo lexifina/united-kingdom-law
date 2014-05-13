@@ -2,9 +2,9 @@
 
 2011 c. 13. Enacted 2011-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-03-31, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-05-13, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/13/2014-03-31
+Source: https://www.legislation.gov.uk/ukpga/2011/13/2014-05-13
 
 ## Contents
 
@@ -197,12 +197,13 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2014-03-31
       - [s. 139 Amendments of the Licensing Act 2003](section/139.md)
   - CHAPTER 3 Alcohol disorder zones
     - [s. 140 Alcohol disorder zones: repeal](section/140.md)
-- Part 3 Parliament Square Garden and surrounding area
+- Part 3 Parliament Square etc
   - Repeal of SOCPA 2005 provisions
     - [s. 141 Demonstrations in vicinity of Parliament: repeal of SOCPA 2005 provisions](section/141.md)
-  - Controls on activities in Parliament Square Garden and adjoining pavements
+  - Controls on activities in Parliament Square etc
     - [s. 142 Controlled area of Parliament Square](section/142.md)
-    - [s. 143 Prohibited activities in controlled area of Parliament Square](section/143.md)
+    - [s. 142A Other controlled areas in vicinity of the Palace of Westminster](section/142A.md)
+    - [s. 143 Prohibited activities in controlled area of Parliament Square or in Palace of Westminster controlled area](section/143.md)
     - [s. 144 Directions under section 143: further provision](section/144.md)
     - [s. 145 Power to seize property](section/145.md)
     - [s. 146 Power of court on conviction](section/146.md)
@@ -262,8 +263,10 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2014-03-31
     - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
   - Incidental powers
     - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
-  - Damages and costs in legal proceedings
+  - Financial arrangements etc
     - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Damages and costs in legal proceedings
+    - [Sch. 2 para. 8n1](schedule/2/paragraph/8n1.md)
   - Disciplinary action etc
     - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
 - SCHEDULE 3 Mayor’s Office for Policing and Crime
@@ -292,6 +295,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2014-03-31
     - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
   - Incidental powers
     - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Financial arrangements etc
+    - [Sch. 4 para. 4n1](schedule/4/paragraph/4n1.md)
   - Damages and costs in legal proceedings
     - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
   - Disciplinary action etc
