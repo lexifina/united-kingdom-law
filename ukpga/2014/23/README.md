@@ -2,11 +2,9 @@
 
 2014 c. 23. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-05-14, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
-
-Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
+Source: https://www.legislation.gov.uk/ukpga/2014/23/2014-05-14
 
 ## Contents
 
@@ -80,7 +78,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
     - [s. 54 Determining whether criteria apply to care provider](section/54.md)
     - [s. 55 Assessment of financial sustainability of care provider](section/55.md)
     - [s. 56 Informing local authorities where failure of care provider likely](section/56.md)
-    - [s. 56A Provision of information to the Secretary of State](section/56A.md)
     - [s. 57 Sections 54 to 56: supplementary](section/57.md)
   - Transition for children to adult care and support, etc.
     - [s. 58 Assessment of a child’s needs for care and support](section/58.md)
@@ -102,9 +99,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
     - [s. 71 Five-yearly review by Secretary of State](section/71.md)
   - Appeals
     - [s. 72 Part 1 appeals](section/72.md)
-  - Default by local authority
-    - [s. 72A Default power of Secretary of State](section/72A.md)
-    - [s. 72B Default power of Secretary of State: supplementary](section/72B.md)
   - Miscellaneous
     - [s. 73 Human Rights Act 1998: provision of regulated care or support etc a public function](section/73.md)
     - [s. 74 Discharge of hospital patients with care and support needs](section/74.md)
@@ -138,7 +132,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
   - Regulated activities
     - [s. 95 Training for persons working in regulated activity](section/95.md)
 - PART 3 Health
-  - CHAPTER 1 The Education and Training Functions of NHS England
+  - CHAPTER 1 Health Education England
     - Establishment
       - [s. 96 Health Education England](section/96.md)
     - National functions
@@ -146,9 +140,9 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
       - [s. 98 Ensuring sufficient skilled health care workers for the health service](section/98.md)
       - [s. 99 Quality improvement in education and training, etc.](section/99.md)
       - [s. 100 Objectives, priorities and outcomes](section/100.md)
-      - [s. 101 Sections 98 and 100: matters to which NHS England must have regard](section/101.md)
+      - [s. 101 Sections 98 and 100: matters to which HEE must have regard](section/101.md)
       - [s. 102 Advice](section/102.md)
-    - ...
+    - Local functions
       - [s. 103 Local Education and Training Boards](section/103.md)
       - [s. 104 LETBs: appointment etc.](section/104.md)
       - [s. 105 LETBs: co-operation by providers of health services](section/105.md)
@@ -244,7 +238,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2026-07-15
     - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
   - Further provision about assessment notices, discharge notices, etc.
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
-- SCHEDULE 4 Direct payments: after-care under the Mental Health Act 1983
+- SCHEDULE 4
   - PART 1 After-care under the Mental Health Act 1983: direct payments
     - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
   - PART 2 Provision to be inserted in Social Services and Well-Being (Wales) Act 2014
