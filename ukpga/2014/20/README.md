@@ -2,11 +2,9 @@
 
 2014 c. 20. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-05-14, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/20
-
-Source: https://www.legislation.gov.uk/ukpga/2014/20/2024-04-01
+Source: https://www.legislation.gov.uk/ukpga/2014/20/2014-05-14
 
 ## Contents
 
@@ -57,7 +55,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/20/2024-04-01
     - [s. 34 Enforcement](section/34.md)
   - SSRO: other functions
     - [s. 35 Opinions and determinations](section/35.md)
-    - [s. 35A Guidance](section/35A.md)
     - [s. 36 Recording, review and analysis functions](section/36.md)
     - [s. 37 Provision of other services to Secretary of State](section/37.md)
   - Disclosure of information
