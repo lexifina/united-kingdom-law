@@ -2,11 +2,9 @@
 
 2014 c. 22. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-02-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-05-14, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/22
-
-Source: https://www.legislation.gov.uk/ukpga/2014/22/2026-02-04
+Source: https://www.legislation.gov.uk/ukpga/2014/22/2014-05-14
 
 ## Contents
 
@@ -55,13 +53,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/22/2026-02-04
     - Codes of practice
       - [s. 32 General matters](section/32.md)
       - [s. 33 Discrimination](section/33.md)
-    - Offences
-      - [s. 33A Offences: landlords](section/33A.md)
-      - [s. 33B Offences: agents](section/33B.md)
-      - [s. 33C Offences: penalties etc](section/33C.md)
-    - Eviction
-      - [s. 33D Termination of agreement where all occupiers disqualified](section/33D.md)
-      - [s. 33E Other procedures for ending agreement](section/33E.md)
     - General
       - [s. 34 Orders](section/34.md)
       - [s. 35 Transitional provision](section/35.md)
@@ -73,14 +64,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/22/2026-02-04
       - [s. 39 Related provision: charges for health services](section/39.md)
     - Bank accounts
       - [s. 40 Prohibition on opening current accounts for disqualified persons](section/40.md)
-      - [s. 40A Requirement to carry out immigration checks in relation to current accounts](section/40A.md)
-      - [s. 40B Requirement to notify existence of current accounts for disqualified persons](section/40B.md)
-      - [s. 40C Action to be taken by Secretary of State following section 40B notification](section/40C.md)
-      - [s. 40D Freezing orders](section/40D.md)
-      - [s. 40E Freezing orders: appeals](section/40E.md)
-      - [s. 40F Freezing orders: code of practice](section/40F.md)
-      - [s. 40G Closure of accounts not subject to freezing order](section/40G.md)
-      - [s. 40H Sections 40A to 40G: interpretation](section/40H.md)
       - [s. 41 Regulation by Financial Conduct Authority](section/41.md)
       - [s. 42 “Bank” and “building society”](section/42.md)
       - [s. 43 Power to amend](section/43.md)
@@ -130,7 +113,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/22/2026-02-04
     - [s. 68 Fees](section/68.md)
     - [s. 69 Fees orders and fees regulations: supplemental](section/69.md)
     - [s. 70 Power to charge fees for attendance services in particular cases](section/70.md)
-    - [s. 70A Immigration skills charge](section/70A.md)
   - Welfare of children
     - [s. 71 Duty regarding the welfare of children](section/71.md)
 - PART 7 Final provisions
