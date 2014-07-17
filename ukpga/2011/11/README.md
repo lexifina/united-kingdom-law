@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-03-27, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-07-17, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2014-03-27
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2014-07-17
 
 ## Contents
 
@@ -772,7 +772,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2014-03-27
       - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
     - Chargeable equity and liabilities of relevant foreign banks which are not members of groups
       - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
-    - Definition of “ UK allocated equity and liabilities”
+    - Definition of “UK allocated equity and liabilities”
       - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
       - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
       - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
@@ -789,6 +789,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2014-03-27
       - [Sch. 19 para. 36](schedule/19/paragraph/36.md)
       - [Sch. 19 para. 37](schedule/19/paragraph/37.md)
       - [Sch. 19 para. 38](schedule/19/paragraph/38.md)
+      - [Sch. 19 para. 38A](schedule/19/paragraph/38A.md)
       - [Sch. 19 para. 39](schedule/19/paragraph/39.md)
   - Part 5 Supplementary provision
     - Netting agreements
@@ -859,6 +860,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2014-03-27
       - [Sch. 19 para. 74](schedule/19/paragraph/74.md)
       - [Sch. 19 para. 75](schedule/19/paragraph/75.md)
       - [Sch. 19 para. 76](schedule/19/paragraph/76.md)
+      - [Sch. 19 para. 76A](schedule/19/paragraph/76A.md)
       - [Sch. 19 para. 77](schedule/19/paragraph/77.md)
     - “Relevant foreign bank”
       - [Sch. 19 para. 78](schedule/19/paragraph/78.md)
