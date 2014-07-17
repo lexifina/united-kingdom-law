@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-04-06, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-07-17, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2014-04-06
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2014-07-17
 
 ## Contents
 
@@ -825,6 +825,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2014-04-06
       - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
       - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
       - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+      - [Sch. 14 para. 32A](schedule/14/paragraph/32A.md)
     - Estate duty etc
       - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
     - TCGA 1992
