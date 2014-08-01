@@ -1,0 +1,172 @@
+# Housing (Consequential Provisions) Act 1985
+
+1985 c. 71. Enacted 1985-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1985/71/2014-08-01
+
+## Contents
+
+- [s. 1 Meaning of “the consolidating Acts”.](section/1.md)
+- [s. 2](section/2.md)
+- [s. 3 Repeals.](section/3.md)
+- [s. 4 Consequential amendments.](section/4.md)
+- [s. 5 Transitional provisions and savings.](section/5.md)
+- [s. 6 Short title, commencement and extent.](section/6.md)
+- SCHEDULE 1 Repeals
+  - Part I England and Wales
+  - Part II Scotland
+  - Part III Northern Ireland
+- SCHEDULE 2 Consequential Amendments
+  - Brine Pumping (Compensation for Subsidence) Act 1891 (c. 40)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Coal Mining (Subsidence) Act 1957 (c. 59)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Town and Country Planning Act 1959 (c. 53)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Pipelines Act 1962 (c. 58)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Industrial and Provident Societies Act 1965 (c. 12)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Compulsory Purchase Act 1965 (c. 56)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Housing (Scotland) Act 1966 (c. 49)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - General Rate Act 1967 (c. 9)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Greater London Council (General Powers) Act 1967 (c.xx)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - National Loans Act 1968 (c.13)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Housing (Financial Provisions) (Scotland) Act 1968 (c.31)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Housing (Scotland) Act 1969 (c.34)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Income and Corporation Taxes Act 1970 (c.10)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Local Authority Social Services Act 1970 (c.42)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Chronically Sick and Disabled Persons Act 1970 (c.44)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Fire Precautions Act 1971 (c.40)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Local Government Act 1972 (c.70)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Land Compensation Act 1973 (c.26)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Housing Act 1974 (c. 44)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Friendly Societies Act 1974 (c. 46)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - Greater London Council (General Powers) Act 1975 (c.xxx)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+  - Development of Rural Wales Act 1976 (c.75)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Rent (Agriculture) Act 1976 (c.80)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+  - Rent Act 1977 (c.42)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - Criminal Law Act 1977 (c.45)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+  - Housing (Homeless Persons) Act 1977 (c.48)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - National Health Service Act 1977 (c.49)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+  - Housing (Financial Provisions) (Scotland) Act 1978 (c.14)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+  - Home Purchase Assistance and Housing Corporation Guarantee Act 1978 (c.27)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+  - National Health Service (Scotland) Act 1978 (c.29)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+  - Homes Insulation Act 1978 (c.48)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+  - Finance Act 1980 (c.48)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+  - Housing Act 1980 (c.51)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+  - Tenants’ Rights, &c. (Scotland) Act 1980 (c.52.)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+  - Local Government, Planning and Land Act 1980 (c.65)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+  - Highways Act 1980 (c.66)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+  - Finance Act 1981 (c.35)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+  - Greater London Council (General Powers) Act 1981 (c.xvii)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+  - Housing (Northern Ireland) Order 1981 (S.I. 1981/156) (N.I. 3)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+  - Civil Aviation Act 1982 (c.16)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+  - Social Security and Housing VBenefits Act 1982 (c.24)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+  - Greater London Council (General Powers) Act 1982 (c.i)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+  - Matrimonial Homes Act 1983 (c.19)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+  - County Courts Act 1984 (c.28)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+  - Building Act 1984 (c.55)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+  - Rent (Scotland) Act 1984 (c.58)
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+  - Greater London Council (General Powers) Act 1984 (c.xxvii)
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+  - Local Government Act 1985 (c.51)
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+- SCHEDULE 3 Transitional Provisions
+  - The general rule
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Specific transitional provisions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Delayed operation of certain provisions
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Commencement of the Local Government Act 1985 (c.51)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Savings
+  - General saving for old transitional provisions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - General saving for old savings
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Savings relating to the Common Council of the City of London
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Saving for certain powers of existing companies and associations
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Options granted by local authorities before 8th August 1980
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Conditions imposed under section 104 of the Housing Act 1957 before 8th August 1980
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Transfers under section 14 of the Housing (Homeless Persons) Act 1977
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Operation of section 37 of the Housing Act 1980, as originally enacted
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Modifications of conveyances and grants in consequence of the Housing and Building Control Act 1984
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Section 35 of the Housing Act 1957
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Telecommunication apparatus in clearance area
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Definition of multiple occupation
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Houses in multiple occupation: undertakings accepted, &c. before 27th October 1980
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Certain arrangements, &c. with housing associations
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Use of existing forms, &c.
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
