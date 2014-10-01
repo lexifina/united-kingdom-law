@@ -2,9 +2,11 @@
 
 2013 c. 13. Enacted 2013-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-03-26, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2014-10-01, one file per provision. Earlier versions, from 2013-03-26, are in the history before it: `git log -- ukpga/2013/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/13/2013-03-26
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2013/13
+
+Source: https://www.legislation.gov.uk/ukpga/2013/13/2014-10-01
 
 ## Contents
 
