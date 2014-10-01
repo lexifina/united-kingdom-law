@@ -1,0 +1,103 @@
+# Administration of Justice Act 1977
+
+1977 c. 38. Enacted 1977-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1977/38/2014-10-01
+
+## Contents
+
+- Part I General
+  - [s. 1 Legal aid, advice and assistance.](section/1.md)
+  - [s. 2 Determination of expenses etc.](section/2.md)
+  - [s. 3 Enforcement of maintenance orders.](section/3.md)
+  - [s. 4 Obligations, awards and judgments expressed in foreign currency.](section/4.md)
+  - [s. 5 Appeals etc. from courts-martial.](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 Extent of powers of receivers and managers in respect of companies.](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 11 Funds in Court.](section/11.md)
+- Part II England and Wales
+  - Circuit judges and county courts
+    - [s. 12 Alteration of qualifications for appointment as Circuit judge.](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 17 County court jurisdiction in respect of arbitrations.](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 County court registrars.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+  - Other provisions about courts
+    - [s. 22 Membership of Rule Committees.](section/22.md)
+    - [s. 23 Jurisdiction of ancient courts.](section/23.md)
+  - Land Registration
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Alteration of methods of protecting mortgages of registered land.](section/26.md)
+  - Estates of deceased persons
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Distribution of estate of intestate leaving surviving spouse.](section/28.md)
+- Part III Other Provisions
+  - Scotland
+    - [s. 29 Admission of written statements and reports.](section/29.md)
+  - Northern Ireland
+    - [s. 30 ................................](section/30.md)
+  - Supplementary
+    - [s. 31 Financial provision.](section/31.md)
+    - [s. 32 Citation etc.](section/32.md)
+- SCHEDULE 1
+  - Part I
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part II
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Amendments of Enactments Relating to Determination of Expenses Etc.
+  - Part I England and Wales
+    - Coroners Act 1887
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Welsh Courts Act 1942
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Coroners Act 1954
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Costs in Criminal Cases Act 1973
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Administration of Justice Act 1973
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Powers of Criminal Courts Act 1973
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Juries Act 1974
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Part II Scotland
+    - Juries Act 1949
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - District Courts (Scotland) Act 1975
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part III
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Maintenance Orders
+  - Registration etc. of maintenance orders in England and Wales
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Service of process
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Enforcement of payment of capital sums in Scottish divorce actions
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Curtailment of Jurisdiction of Certain Ancient Courts
+  - Part I Descriptions of Courts
+  - Part II Specific Courts
+  - Part III Business Customary for Certain Courts
+- SCHEDULE 5 Repeals
+  - Part I Judgments etc in Foreign Currency
+  - Part II Determination of Expenses etc
+  - Part III Oaths and Affirmations
+  - Part IV Appeals
+  - Part V Ancient Courts
+  - Part VI Miscellaneous
