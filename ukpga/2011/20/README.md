@@ -2,9 +2,9 @@
 
 2011 c. 20. Enacted 2011-11-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-08-01, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-10-20, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/20/2014-08-01
+Source: https://www.legislation.gov.uk/ukpga/2011/20/2014-10-20
 
 ## Contents
 
@@ -792,10 +792,16 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2014-08-01
     - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
   - Ground 4
     - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Ground 4A
+    - [Sch. 14 para. 4A](schedule/14/paragraph/4A.md)
   - Ground 5
     - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Ground 5A
+    - [Sch. 14 para. 5A](schedule/14/paragraph/5A.md)
   - Ground 6
     - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Ground 6A
+    - [Sch. 14 para. 6A](schedule/14/paragraph/6A.md)
   - Ground 7
     - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
   - Ground 8
