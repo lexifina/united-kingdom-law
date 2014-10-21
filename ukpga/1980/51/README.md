@@ -1,0 +1,235 @@
+# Housing Act 1980
+
+1980 c. 51. Enacted 1980-08-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-10-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/51
+
+Source: https://www.legislation.gov.uk/ukpga/1980/51/2014-10-21
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II Private Sector Tenants
+  - Protected shorthold tenancies
+    - [s. 51 Preliminary.](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 53 Right of tenant to terminate protected shorthold tenancy.](section/53.md)
+    - [s. 54 Subletting or assignment.](section/54.md)
+    - [s. 55 Orders for possession.](section/55.md)
+  - Assured tenancies
+    - [s. 56 ................................](section/56.md)
+  - Rents
+    - [s. 59 Rent officers and applications for registration of rent.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Effect of registration of rent etc.](section/61.md)
+    - [s. 62 Cancellation of registration of rent.](section/62.md)
+    - [s. 63 Repeal of sections 48 and 50 of Rent Act 1977.](section/63.md)
+  - Conversion of controlled tenancies
+    - [s. 64 Conversion of controlled tenancies into regulated tenancies.](section/64.md)
+  - Regulated tenancies
+    - [s. 65 Resident landlords](section/65.md)
+    - [s. 66 Amendment of Cases 11 and 12 of Schedule 15 to Rent Act 1977.](section/66.md)
+    - [s. 67 Lettings by servicemen.](section/67.md)
+  - Rent agreements
+    - [s. 68 Rent agreements with tenants having security of tenure.](section/68.md)
+  - Restricted contracts
+    - [s. 69 Restricted contracts: security of tenure.](section/69.md)
+    - [s. 70 Reconsideration of registered rents under Part V of Rent Act 1977.](section/70.md)
+    - [s. 71 Cancellation of rents registered under Part V of Rent Act 1977.](section/71.md)
+    - [s. 72 Functions of rent tribunals.](section/72.md)
+  - Miscellaneous
+    - [s. 73 Dwellings forming part of Crown Estate or belonging to Duchies.](section/73.md)
+    - [s. 74 Housing association and housing trust tenancies under Rent Act 1977.](section/74.md)
+    - [s. 75 Proceedings for possession of certain dwelling-houses.](section/75.md)
+    - [s. 76 Statutory tenancies by succession.](section/76.md)
+    - [s. 77 Amendment of Part VI of Rent Act 1977.](section/77.md)
+    - [s. 78 Allowable premiums in relation to certain long tenancies.](section/78.md)
+    - [s. 79 Meaning of “ premium” in Part IX of Rent Act 1977.](section/79.md)
+- Part III Tenant’s Repairs and Improvements
+  - [s. 80 ................................](section/80.md)
+  - [s. 81 Tenant’s improvements.](section/81.md)
+  - [s. 82 Provisions as to consents required by section 81.](section/82.md)
+  - [s. 83 Conditional consent to tenant’s improvements.](section/83.md)
+  - [s. 84 Exclusion of certain housing associations from Part III.](section/84.md)
+  - [s. 85 Interpretation and application of Part III.](section/85.md)
+- Part IV Jurisdiction and Procedure
+  - [s. 86 Jurisdiction of county court and rules of procedure.](section/86.md)
+  - [s. 87 ................................](section/87.md)
+  - [s. 88 Discretion of court in certain proceedings for possession.](section/88.md)
+  - [s. 89 Restriction on discretion of court in making orders for possession of land.](section/89.md)
+- Parts V–VIII
+  - [s. 90 ................................](section/90.md)
+- Part IX General
+  - [s. 134 ................................](section/134.md)
+  - [s. 138 Displacement of residential occupiers by housing authority.](section/138.md)
+  - [s. 139 ................................](section/139.md)
+  - [s. 140 ................................](section/140.md)
+  - [s. 141 Amendments of Leasehold Reform Act 1967 etc.](section/141.md)
+  - [s. 142 Leasehold valuation tribunals.](section/142.md)
+  - [s. 143 Apportionment of rents.](section/143.md)
+  - [s. 144 ................................](section/144.md)
+  - [s. 145 ................................](section/145.md)
+  - [s. 148 Rent assessment panels: pensions for presidents and vice-presidents.](section/148.md)
+  - [s. 149 ................................](section/149.md)
+  - Supplemental
+    - [s. 150 Interpretation.](section/150.md)
+    - [s. 151 Regulations and orders.](section/151.md)
+    - [s. 152 Amendments, savings, transitional provisions and repeals.](section/152.md)
+    - [s. 153 Commencement.](section/153.md)
+    - [s. 154 Expenses and receipts.](section/154.md)
+    - [s. 155 Short title and extent.](section/155.md)
+- SCHEDULES 1—4A
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 7A](schedule/5/paragraph/7A.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Applications for registration of Rent
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- Schedule 7 Amendment of Schedule 15 to 1977 Act
+- SCHEDULE 8 Crown Estate and Duchies—Consequential Provisions
+  - Part I
+    - Rent Act 1977
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part II
+    - Rent (Agriculture) Act 1976
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Part III
+    - General
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Provisions Supplementing Section 74
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Amendment of Part VI of Rent Act 1977
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULES 11—13
+- SCHEDULE 14
+- SCHEDULE 15
+- SCHEDULES 16—20
+- SCHEDULE 21 Amendments of Leasehold Reform Act 1967 (c. 88) and Housing Act 1974 (c. 44), Schedule 8
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+- SCHEDULE 22 Leasehold Valuation Tribunals
+  - Part I Supplementary Provisions
+    - Constitution of tribunals
+      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - Appeals
+      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+      - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+      - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - Costs
+      - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+      - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - Provision of information
+      - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - Part II Amendments of 1967 Act
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+- SCHEDULES 23—24
+- SCHEDULE 25 Minor and Consequential Amendments, Transitional Provisions and Savings
+  - Part I Minor and Consequential Amendments
+    - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c.65)
+      - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+      - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+      - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+    - Housing Act 1957 (c. 56)
+      - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+      - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+      - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+      - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+      - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+      - [Sch. 25 para. 11](schedule/25/paragraph/11.md)
+      - [Sch. 25 para. 14](schedule/25/paragraph/14.md)
+      - [Sch. 25 para. 15](schedule/25/paragraph/15.md)
+      - [Sch. 25 para. 18](schedule/25/paragraph/18.md)
+      - [Sch. 25 para. 20](schedule/25/paragraph/20.md)
+    - Rent (Agriculture) Act 1976 (c.80)
+      - [Sch. 25 para. 32](schedule/25/paragraph/32.md)
+      - [Sch. 25 para. 33](schedule/25/paragraph/33.md)
+    - Rent Act 1977 (c.42)
+      - [Sch. 25 para. 34](schedule/25/paragraph/34.md)
+      - [Sch. 25 para. 35](schedule/25/paragraph/35.md)
+      - [Sch. 25 para. 36](schedule/25/paragraph/36.md)
+      - [Sch. 25 para. 37](schedule/25/paragraph/37.md)
+      - [Sch. 25 para. 38](schedule/25/paragraph/38.md)
+      - [Sch. 25 para. 39](schedule/25/paragraph/39.md)
+      - [Sch. 25 para. 40](schedule/25/paragraph/40.md)
+      - [Sch. 25 para. 41](schedule/25/paragraph/41.md)
+      - [Sch. 25 para. 42](schedule/25/paragraph/42.md)
+      - [Sch. 25 para. 43](schedule/25/paragraph/43.md)
+      - [Sch. 25 para. 44](schedule/25/paragraph/44.md)
+      - [Sch. 25 para. 45](schedule/25/paragraph/45.md)
+      - [Sch. 25 para. 46](schedule/25/paragraph/46.md)
+      - [Sch. 25 para. 47](schedule/25/paragraph/47.md)
+      - [Sch. 25 para. 48](schedule/25/paragraph/48.md)
+      - [Sch. 25 para. 49](schedule/25/paragraph/49.md)
+      - [Sch. 25 para. 50](schedule/25/paragraph/50.md)
+      - [Sch. 25 para. 51](schedule/25/paragraph/51.md)
+      - [Sch. 25 para. 52](schedule/25/paragraph/52.md)
+      - [Sch. 25 para. 53](schedule/25/paragraph/53.md)
+      - [Sch. 25 para. 54](schedule/25/paragraph/54.md)
+      - [Sch. 25 para. 55](schedule/25/paragraph/55.md)
+      - [Sch. 25 para. 56](schedule/25/paragraph/56.md)
+      - [Sch. 25 para. 57](schedule/25/paragraph/57.md)
+      - [Sch. 25 para. 58](schedule/25/paragraph/58.md)
+      - [Sch. 25 para. 59](schedule/25/paragraph/59.md)
+      - [Sch. 25 para. 60](schedule/25/paragraph/60.md)
+    - Protection from Eviction Act 1977 (c. 43)
+      - [Sch. 25 para. 61](schedule/25/paragraph/61.md)
+  - Part II Transitional Provisions and Savings
+    - [Sch. 25 para. 62](schedule/25/paragraph/62.md)
+    - [Sch. 25 para. 63](schedule/25/paragraph/63.md)
+    - [Sch. 25 para. 64](schedule/25/paragraph/64.md)
+    - [Sch. 25 para. 65](schedule/25/paragraph/65.md)
+    - [Sch. 25 para. 66](schedule/25/paragraph/66.md)
+    - [Sch. 25 para. 67](schedule/25/paragraph/67.md)
+    - [Sch. 25 para. 68](schedule/25/paragraph/68.md)
+    - [Sch. 25 para. 69](schedule/25/paragraph/69.md)
+    - [Sch. 25 para. 70](schedule/25/paragraph/70.md)
+    - [Sch. 25 para. 71](schedule/25/paragraph/71.md)
+    - [Sch. 25 para. 72](schedule/25/paragraph/72.md)
+    - [Sch. 25 para. 73](schedule/25/paragraph/73.md)
+    - [Sch. 25 para. 74](schedule/25/paragraph/74.md)
+    - [Sch. 25 para. 75](schedule/25/paragraph/75.md)
+    - [Sch. 25 para. 76](schedule/25/paragraph/76.md)
+    - [Sch. 25 para. 77](schedule/25/paragraph/77.md)
+    - [Sch. 25 para. 78](schedule/25/paragraph/78.md)
+- SCHEDULE 26 Repeals
