@@ -1,0 +1,131 @@
+# National Parks (Scotland) Act 2000
+
+asp/2000/10. Enacted 2000-08-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2014-12-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 28 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2000/10
+
+Source: https://www.legislation.gov.uk/asp/2000/10/2014-12-08
+
+## Contents
+
+- The National Park aims
+  - [s. 1 The National Park aims](section/1.md)
+- National Park proposals
+  - [s. 2 National Park proposals](section/2.md)
+  - [s. 3 Reports on National Park proposals](section/3.md)
+  - [s. 4 Statements by the Scottish Ministers](section/4.md)
+  - [s. 5 Local inquiries](section/5.md)
+- Creation of National Parks
+  - [s. 6 Making of designation orders](section/6.md)
+  - [s. 7 Designation orders: further provisions](section/7.md)
+  - [s. 8 National Park authorities: constitution etc.](section/8.md)
+- Purpose and functions of National Park authorities
+  - [s. 9 General purpose and functions](section/9.md)
+  - [s. 10 Planning functions](section/10.md)
+  - [s. 11 National Park Plans](section/11.md)
+  - [s. 12 National Park Plans: procedure](section/12.md)
+  - [s. 13 National Park Plans: review](section/13.md)
+  - [s. 14 Duty to have regard to National Park Plans](section/14.md)
+  - [s. 15 Management agreements](section/15.md)
+- General
+  - [s. 16 Directions and guidance](section/16.md)
+  - [s. 17 Agency arrangements and joint operations](section/17.md)
+  - [s. 18 Delegation of functions by the Scottish Ministers](section/18.md)
+  - [s. 19 Use of resources](section/19.md)
+  - [s. 20 Advisory groups](section/20.md)
+- Finances
+  - [s. 21 General financial duties](section/21.md)
+  - [s. 22 Grants and loans by the Scottish Ministers](section/22.md)
+  - [s. 23 Borrowing powers](section/23.md)
+  - [s. 24 Guarantees](section/24.md)
+  - [s. 25 Accounts](section/25.md)
+- Information and annual reports
+  - [s. 26 Information and annual reports](section/26.md)
+- Miscellaneous
+  - [s. 27 Records](section/27.md)
+  - [s. 28 Inquiries and other hearings](section/28.md)
+  - [s. 29 Transfer of staff, property and liabilities](section/29.md)
+  - [s. 30 Modification and revocation of designation orders](section/30.md)
+- Marine areas
+  - [s. 31 Application in relation to marine areas](section/31.md)
+- Supplementary
+  - [s. 32 Crown application](section/32.md)
+  - [s. 33 Ancillary provision](section/33.md)
+  - [s. 34 Orders](section/34.md)
+  - [s. 35 Interpretation](section/35.md)
+  - [s. 36 Modification of enactments](section/36.md)
+  - [s. 37 Commencement and short title](section/37.md)
+- SCHEDULE 1 Constitution etc. of National Park authorities
+  - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Membership](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Convener and deputy convener](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Remuneration, allowances and pensions](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Staff](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Committees](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Delegation of powers](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Members’ interests](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19 Proceedings and minutes](schedule/1/paragraph/19.md)
+- SCHEDULE 2 General powers of National Park authorities
+  - [Sch. 2 para. 1 Charges](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Advice and assistance](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Research](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Grants](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Land](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Private legislation](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Byelaws etc.](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Management rules](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Goods and services](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Access to meetings and documents](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Tenants’ rights](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Contracting out](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Other powers](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Miscellaneous functions
+  - [Sch. 3 para. 1 Open spaces and recreation](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Nature reserves](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Information and education](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Tourism and leisure](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Recreational, sporting, cultural and social facilities and activities](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Access to open country](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Improvement of waterways for recreation](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Transfer of staff, property and liabilities
+  - [Sch. 4 para. 1 Requirement to make staff or property transfer scheme](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Transfer schemes](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Effect of transfers of staff](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Effect of transfers of property and liabilities](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Modification of enactments
+  - [Sch. 5 para. 1 Local Government (Scotland) Act 1966 (c.51)](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Countryside (Scotland) Act 1967 (c.86)](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Local Government (Scotland) Act 1973 (c.65)](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Control of Pollution Act 1974 (c.40)](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Local Government (Scotland) Act 1975 (c.30)](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Refuse Disposal (Amenity) Act 1978 (c.3)](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Ancient Monuments and Archaeological Areas Act 1979 (c.46)](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 Wildlife and Countryside Act 1981 (c.69)](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9 Civic Government (Scotland) Act 1982 (c.45)](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10 Litter Act 1983 (c.35)](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11 Road Traffic Regulation Act 1984 (c.27)](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12 Roads (Scotland) Act 1984 (c.54)](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13 Local Government Act 1988 (c.9)](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14 Electricity Act 1989 (c.29)](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15 Local Government and Housing Act 1989 (c.42)](schedule/5/paragraph/15.md)
+  - [Sch. 5 para. 16 Enterprise and New Towns (Scotland) Act 1990 (c.35)](schedule/5/paragraph/16.md)
+  - [Sch. 5 para. 17 Environment Act 1995 (c.25)](schedule/5/paragraph/17.md)
+  - [Sch. 5 para. 18 Town and Country Planning (Scotland) Act 1997 (c.8)](schedule/5/paragraph/18.md)
