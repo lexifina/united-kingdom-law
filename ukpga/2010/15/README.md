@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-12-02, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2014-12-16, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2014-12-02
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2014-12-16
 
 ## Contents
 
@@ -401,10 +401,14 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2014-12-02
   - Part 6 Marriage: gender reassignment
     - Gender reassignment: England and Wales
       - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - PART 6ZA MARRIAGE AND CIVIL PARTNERSHIP: SCOTLAND
     - Gender reassignment: Scotland
       - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
   - PART 6A Marriage of same sex couples in England and Wales
     - [Sch. 3 para. 25A Marriage according to religious rites: no compulsion to solemnize etc](schedule/3/paragraph/25A.md)
+  - PART 6B MARRIAGE OF SAME SEX COUPLES AND CIVIL PARTNERSHIP: SCOTLAND
+    - [Sch. 3 para. 25B Marriage of same sex couples and civil partnership: Scotland](schedule/3/paragraph/25B.md)
+    - [Sch. 3 para. 25C Marriage of same sex couples: Scottish forces marriages](schedule/3/paragraph/25C.md)
   - Part 7 Separate, single and concessionary services, etc
     - Separate services for the sexes
       - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
