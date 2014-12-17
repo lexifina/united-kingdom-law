@@ -2,9 +2,9 @@
 
 2014 c. 29. Enacted 2014-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-11-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-12-17, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/29/2025-11-07
+Source: https://www.legislation.gov.uk/ukpga/2014/29/2014-12-17
 
 ## Contents
 
@@ -25,10 +25,10 @@ Source: https://www.legislation.gov.uk/ukpga/2014/29/2025-11-07
     - [s. 9 Welsh basic, higher and additional rates of income tax](section/9.md)
     - [s. 10 Welsh taxpayers for social security or child support purposes](section/10.md)
     - [s. 11 Amendments to the definition of a Scottish taxpayer](section/11.md)
-  - ...
+  - Referendum on income tax provisions
     - [s. 12 Referendum about commencement of income tax provisions](section/12.md)
     - [s. 13 Proposal for referendum by Assembly](section/13.md)
-    - [s. 14 Commencement of income tax provisions ...](section/14.md)
+    - [s. 14 Commencement of income tax provisions etc if majority in favour](section/14.md)
   - Welsh tax on land transactions
     - [s. 15 Welsh tax on transactions involving interests in land](section/15.md)
     - [s. 16 Disapplication of UK stamp duty land tax](section/16.md)
@@ -93,7 +93,6 @@ Source: https://www.legislation.gov.uk/ukpga/2014/29/2025-11-07
     - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
     - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
     - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
-    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
     - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
     - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
     - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
