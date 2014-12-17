@@ -2,9 +2,9 @@
 
 2014 c. 28. Enacted 2014-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-02-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2014-12-17, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/28/2018-02-14
+Source: https://www.legislation.gov.uk/ukpga/2014/28/2014-12-17
 
 ## Contents
 
