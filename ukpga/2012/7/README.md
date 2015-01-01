@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-10-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-01-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-10-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2015-01-01
 
 ## Contents
 
@@ -340,6 +340,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2014-10-01
       - [s. 260 Publication of information](section/260.md)
       - [s. 261 Other dissemination of information](section/261.md)
       - [s. 262 Other dissemination: directions and requests under sections 254 and 255](section/262.md)
+      - [s. 262A Publication and other dissemination: supplementary](section/262A.md)
       - [s. 263 Code of practice on confidential information](section/263.md)
       - [s. 264 Information Register](section/264.md)
       - [s. 265 Advice or guidance](section/265.md)
