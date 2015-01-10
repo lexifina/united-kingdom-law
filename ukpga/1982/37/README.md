@@ -1,0 +1,298 @@
+# Merchant Shipping(Liner Conferences) Act 1982
+
+1982 c. 37. Enacted 1982-07-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-01-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/37/2015-01-10
+
+## Contents
+
+- Main implementing provisions
+  - [s. 1 Introductory provisions: the Code and the Contracting Parties to it.](section/1.md)
+  - [s. 2 Implementing regulations: the general scheme.](section/2.md)
+  - [s. 3 Matters which may be provided for by regulations.](section/3.md)
+  - [s. 4 Power to exclude or restrict operation of the Code for lack of reciprocity.](section/4.md)
+- Proceedings arising out of the Code
+  - [s. 5 Liability of members of conference to be in proportion to their responsibility.](section/5.md)
+  - [s. 6 Proceedings by or against unincorporated conferences.](section/6.md)
+  - [s. 7 Restrictions on legal proceedings.](section/7.md)
+  - [s. 8 Time for bringing legal proceedings.](section/8.md)
+  - [s. 9 Recognition and enforcement of recommendations, etc. of conciliators.](section/9.md)
+- Other supplementary provisions
+  - [s. 10 Secretary of State to be appropriate authority in the U.K.](section/10.md)
+  - [s. 11 Exclusion of restrictive practices law.](section/11.md)
+  - [s. 12 Modifications consequent on revision of Code, etc.](section/12.md)
+  - [s. 13 Regulations and orders: consultation and Parliamentary control.](section/13.md)
+- General
+  - [s. 14 Interpretation.](section/14.md)
+  - [s. 15 Short title, commencement and extent.](section/15.md)
+- SCHEDULE THE TEXT OF THE CODE
+  - ARRANGEMENT OF PROVISIONS
+    - Objectives and principles
+  - PART ONE
+    - CHAPTER I DEFINITIONS
+      - Liner conference or conference
+      - National shipping line
+      - Third-country shipping line
+      - Shipper
+      - Shippers’ organisation
+      - Goods carried by the conference
+      - Appropriate authority
+      - Promotional freight rate
+      - Special freight rate
+    - CHAPTER II RELATIONS AMONG MEMBER LINES
+      - Article 1 Membership
+        - [Sch. part ONE chapter II crossheading article-1-membership paragraph 1](schedule/part/ONE/chapter/II/crossheading/article-1-membership/paragraph/1.md)
+        - [Sch. part ONE chapter II crossheading article-1-membership paragraph 2](schedule/part/ONE/chapter/II/crossheading/article-1-membership/paragraph/2.md)
+        - [Sch. part ONE chapter II crossheading article-1-membership paragraph 3](schedule/part/ONE/chapter/II/crossheading/article-1-membership/paragraph/3.md)
+        - [Sch. part ONE chapter II crossheading article-1-membership paragraph 4](schedule/part/ONE/chapter/II/crossheading/article-1-membership/paragraph/4.md)
+        - [Sch. part ONE chapter II crossheading article-1-membership paragraph 5](schedule/part/ONE/chapter/II/crossheading/article-1-membership/paragraph/5.md)
+        - [Sch. part ONE chapter II crossheading article-1-membership paragraph 6](schedule/part/ONE/chapter/II/crossheading/article-1-membership/paragraph/6.md)
+      - Article 2 Participation in Trade
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 1](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/1.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 2](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/2.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 3](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/3.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 4](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/4.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 5](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/5.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 6](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/6.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 7](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/7.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 8](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/8.md)
+        - [Sch. part ONE chapter II crossheading article-2-participation-in-trade paragraph 9](schedule/part/ONE/chapter/II/crossheading/article-2-participation-in-trade/paragraph/9.md)
+        - [Sch. paragraph 10](schedule/paragraph/10.md)
+        - [Sch. paragraph 11](schedule/paragraph/11.md)
+        - [Sch. paragraph 12](schedule/paragraph/12.md)
+        - [Sch. paragraph 13](schedule/paragraph/13.md)
+        - [Sch. paragraph 14](schedule/paragraph/14.md)
+        - [Sch. paragraph 15](schedule/paragraph/15.md)
+        - [Sch. paragraph 16](schedule/paragraph/16.md)
+        - [Sch. paragraph 17](schedule/paragraph/17.md)
+      - Article 3 Decision-making Procedures
+      - Article 4 Sanctions
+        - [Sch. part ONE chapter II crossheading article-4-sanctions paragraph 1](schedule/part/ONE/chapter/II/crossheading/article-4-sanctions/paragraph/1.md)
+        - [Sch. part ONE chapter II crossheading article-4-sanctions paragraph 2](schedule/part/ONE/chapter/II/crossheading/article-4-sanctions/paragraph/2.md)
+        - [Sch. part ONE chapter II crossheading article-4-sanctions paragraph 3](schedule/part/ONE/chapter/II/crossheading/article-4-sanctions/paragraph/3.md)
+        - [Sch. part ONE chapter II crossheading article-4-sanctions paragraph 4](schedule/part/ONE/chapter/II/crossheading/article-4-sanctions/paragraph/4.md)
+      - Article 5 Self-Policing
+        - [Sch. part ONE chapter II crossheading article-5-selfpolicing paragraph 1](schedule/part/ONE/chapter/II/crossheading/article-5-selfpolicing/paragraph/1.md)
+      - Article 6 Conference Agreements
+    - CHAPTER III RELATIONS WITH SHIPPERS
+      - Article 7 Loyalty Arrangements
+        - [Sch. part ONE chapter III crossheading article-7-loyalty-arrangements paragraph 1](schedule/part/ONE/chapter/III/crossheading/article-7-loyalty-arrangements/paragraph/1.md)
+        - [Sch. part ONE chapter III crossheading article-7-loyalty-arrangements paragraph 2](schedule/part/ONE/chapter/III/crossheading/article-7-loyalty-arrangements/paragraph/2.md)
+        - [Sch. part ONE chapter III crossheading article-7-loyalty-arrangements paragraph 3](schedule/part/ONE/chapter/III/crossheading/article-7-loyalty-arrangements/paragraph/3.md)
+        - [Sch. part ONE chapter III crossheading article-7-loyalty-arrangements paragraph 4](schedule/part/ONE/chapter/III/crossheading/article-7-loyalty-arrangements/paragraph/4.md)
+      - Article 8 Dispensation
+        - [Sch. part ONE chapter III crossheading article-8-dispensation paragraph 1](schedule/part/ONE/chapter/III/crossheading/article-8-dispensation/paragraph/1.md)
+      - Article 9 Availability of Tariffs and Related Conditions and/or Regulations
+      - Article 10 Annual Reports
+      - Article 11 Consultation Machinery
+        - [Sch. part ONE chapter III crossheading article-11-consultation-machinery paragraph 1](schedule/part/ONE/chapter/III/crossheading/article-11-consultation-machinery/paragraph/1.md)
+        - [Sch. part ONE chapter III crossheading article-11-consultation-machinery paragraph 2](schedule/part/ONE/chapter/III/crossheading/article-11-consultation-machinery/paragraph/2.md)
+        - [Sch. part ONE chapter III crossheading article-11-consultation-machinery paragraph 3](schedule/part/ONE/chapter/III/crossheading/article-11-consultation-machinery/paragraph/3.md)
+        - [Sch. part ONE chapter III crossheading article-11-consultation-machinery paragraph 4](schedule/part/ONE/chapter/III/crossheading/article-11-consultation-machinery/paragraph/4.md)
+        - [Sch. part ONE chapter III crossheading article-11-consultation-machinery paragraph 5](schedule/part/ONE/chapter/III/crossheading/article-11-consultation-machinery/paragraph/5.md)
+        - [Sch. part ONE chapter III crossheading article-11-consultation-machinery paragraph 6](schedule/part/ONE/chapter/III/crossheading/article-11-consultation-machinery/paragraph/6.md)
+    - CHAPTER IV FREIGHT RATES
+      - Article 12 Criteria for Freight-Rate Determination
+      - Article 13 Conference Tariffs and Classification of Tariff Rates
+        - [Sch. part ONE chapter IV crossheading article-13-conference-tariffs-and-classification-of-tariff-rates paragraph 1](schedule/part/ONE/chapter/IV/crossheading/article-13-conference-tariffs-and-classification-of-tariff-rates/paragraph/1.md)
+        - [Sch. part ONE chapter IV crossheading article-13-conference-tariffs-and-classification-of-tariff-rates paragraph 2](schedule/part/ONE/chapter/IV/crossheading/article-13-conference-tariffs-and-classification-of-tariff-rates/paragraph/2.md)
+      - Article 14 General Freight-Rate Increases
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 1](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/1.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 2](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/2.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 3](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/3.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 4](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/4.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 5](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/5.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 6](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/6.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 7](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/7.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 8](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/8.md)
+        - [Sch. part ONE chapter IV crossheading article-14-general-freightrate-increases paragraph 9](schedule/part/ONE/chapter/IV/crossheading/article-14-general-freightrate-increases/paragraph/9.md)
+      - Article 15 Promotional Freight Rates
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 1](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/1.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 2](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/2.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 3](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/3.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 4](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/4.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 5](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/5.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 6](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/6.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 7](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/7.md)
+        - [Sch. part ONE chapter IV crossheading article-15-promotional-freight-rates paragraph 8](schedule/part/ONE/chapter/IV/crossheading/article-15-promotional-freight-rates/paragraph/8.md)
+      - Article 16 Surcharges
+        - [Sch. part ONE chapter IV crossheading article-16-surcharges paragraph 1](schedule/part/ONE/chapter/IV/crossheading/article-16-surcharges/paragraph/1.md)
+        - [Sch. part ONE chapter IV crossheading article-16-surcharges paragraph 2](schedule/part/ONE/chapter/IV/crossheading/article-16-surcharges/paragraph/2.md)
+        - [Sch. part ONE chapter IV crossheading article-16-surcharges paragraph 4](schedule/part/ONE/chapter/IV/crossheading/article-16-surcharges/paragraph/4.md)
+        - [Sch. part ONE chapter IV crossheading article-16-surcharges paragraph 5](schedule/part/ONE/chapter/IV/crossheading/article-16-surcharges/paragraph/5.md)
+        - [Sch. part ONE chapter IV crossheading article-16-surcharges paragraph 6](schedule/part/ONE/chapter/IV/crossheading/article-16-surcharges/paragraph/6.md)
+      - Article 17 Currency Changes
+        - [Sch. part ONE chapter IV crossheading article-17-currency-changes paragraph 1](schedule/part/ONE/chapter/IV/crossheading/article-17-currency-changes/paragraph/1.md)
+        - [Sch. part ONE chapter IV crossheading article-17-currency-changes paragraph 2](schedule/part/ONE/chapter/IV/crossheading/article-17-currency-changes/paragraph/2.md)
+        - [Sch. part ONE chapter IV crossheading article-17-currency-changes paragraph 3](schedule/part/ONE/chapter/IV/crossheading/article-17-currency-changes/paragraph/3.md)
+        - [Sch. part ONE chapter IV crossheading article-17-currency-changes paragraph 4](schedule/part/ONE/chapter/IV/crossheading/article-17-currency-changes/paragraph/4.md)
+    - CHAPTER V OTHER MATTERS
+      - Article 18 Fighting Ships
+      - Article 19 Adequacy of Service
+        - [Sch. part ONE chapter V crossheading article-19-adequacy-of-service paragraph 1](schedule/part/ONE/chapter/V/crossheading/article-19-adequacy-of-service/paragraph/1.md)
+        - [Sch. part ONE chapter V crossheading article-19-adequacy-of-service paragraph 2](schedule/part/ONE/chapter/V/crossheading/article-19-adequacy-of-service/paragraph/2.md)
+        - [Sch. part ONE chapter V crossheading article-19-adequacy-of-service paragraph 3](schedule/part/ONE/chapter/V/crossheading/article-19-adequacy-of-service/paragraph/3.md)
+      - Article 20 Head Office of a Conference
+      - Article 21 Representation
+      - Article 22 Contents of Conference Agreements, Trade Participation Agreements and Loyalty Arrangements
+  - PART TWO
+    - CHAPTER VI PROVISIONS AND MACHINERY FOR SETTLEMENT OF DISPUTES
+      - A. GENERAL PROVISIONS
+      - Article 23
+        - [Sch. part TWO chapter VI crossheading article-23 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-23/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-23 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-23/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-23 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-23/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-23 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-23/paragraph/4.md)
+      - Article 24
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/4.md)
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 5](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/5.md)
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 6](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/6.md)
+        - [Sch. part TWO chapter VI crossheading article-24 paragraph 7](schedule/part/TWO/chapter/VI/crossheading/article-24/paragraph/7.md)
+      - Article 25
+        - [Sch. part TWO chapter VI crossheading article-25 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-25/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-25 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-25/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-25 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-25/paragraph/3.md)
+      - Article 26
+        - [Sch. part TWO chapter VI crossheading article-26 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-26/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-26 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-26/paragraph/2.md)
+      - Article 27
+      - B. INTERNATIONAL MANDATORY CONCILIATION
+      - Article 28
+      - Article 29
+        - [Sch. part TWO chapter VI crossheading article-29 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-29/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-29 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-29/paragraph/2.md)
+      - Article 30
+        - [Sch. part TWO chapter VI crossheading article-30 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-30/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-30 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-30/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-30 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-30/paragraph/3.md)
+      - Article 31
+        - [Sch. part TWO chapter VI crossheading article-31 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-31/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-31 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-31/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-31 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-31/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-31 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-31/paragraph/4.md)
+      - Article 32
+        - [Sch. part TWO chapter VI crossheading article-32 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-32/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-32 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-32/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-32 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-32/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-32 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-32/paragraph/4.md)
+      - Article 33
+        - [Sch. part TWO chapter VI crossheading article-33 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-33/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-33 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-33/paragraph/2.md)
+      - Article 34
+      - Article 35
+        - [Sch. part TWO chapter VI crossheading article-35 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-35/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-35 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-35/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-35 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-35/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-35 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-35/paragraph/4.md)
+        - [Sch. part TWO chapter VI crossheading article-35 paragraph 5](schedule/part/TWO/chapter/VI/crossheading/article-35/paragraph/5.md)
+      - Article 36
+      - Article 37
+        - [Sch. part TWO chapter VI crossheading article-37 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-37/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-37 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-37/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-37 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-37/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-37 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-37/paragraph/4.md)
+        - [Sch. part TWO chapter VI crossheading article-37 paragraph 5](schedule/part/TWO/chapter/VI/crossheading/article-37/paragraph/5.md)
+        - [Sch. part TWO chapter VI crossheading article-37 paragraph 6](schedule/part/TWO/chapter/VI/crossheading/article-37/paragraph/6.md)
+      - Article 38
+        - [Sch. part TWO chapter VI crossheading article-38 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-38/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-38 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-38/paragraph/2.md)
+      - Article 39
+        - [Sch. part TWO chapter VI crossheading article-39 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-39/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-39 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-39/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-39 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-39/paragraph/3.md)
+      - Article 40
+        - [Sch. part TWO chapter VI crossheading article-40 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-40/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-40 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-40/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-40 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-40/paragraph/3.md)
+      - Article 41
+        - [Sch. part TWO chapter VI crossheading article-41 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-41/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-41 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-41/paragraph/2.md)
+      - Article 42
+      - Article 43
+        - [Sch. part TWO chapter VI crossheading article-43 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-43/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-43 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-43/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-43 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-43/paragraph/3.md)
+      - Article 44
+        - [Sch. part TWO chapter VI crossheading article-44 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-44/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-44 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-44/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-44 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-44/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-44 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-44/paragraph/4.md)
+      - Article 45
+        - [Sch. part TWO chapter VI crossheading article-45 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-45/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-45 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-45/paragraph/2.md)
+        - [Sch. part TWO chapter VI crossheading article-45 paragraph 3](schedule/part/TWO/chapter/VI/crossheading/article-45/paragraph/3.md)
+        - [Sch. part TWO chapter VI crossheading article-45 paragraph 4](schedule/part/TWO/chapter/VI/crossheading/article-45/paragraph/4.md)
+        - [Sch. part TWO chapter VI crossheading article-45 paragraph 5](schedule/part/TWO/chapter/VI/crossheading/article-45/paragraph/5.md)
+      - C. INSTITUTIONAL MACHINERY
+      - Article 46
+        - [Sch. part TWO chapter VI crossheading article-46 paragraph 1](schedule/part/TWO/chapter/VI/crossheading/article-46/paragraph/1.md)
+        - [Sch. part TWO chapter VI crossheading article-46 paragraph 2](schedule/part/TWO/chapter/VI/crossheading/article-46/paragraph/2.md)
+    - CHAPTER VII FINAL CLAUSES
+      - Article 47 Implementation
+        - [Sch. part TWO chapter VII crossheading article-47-implementation paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-47-implementation/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-47-implementation paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-47-implementation/paragraph/2.md)
+      - Article 48 Signature, Ratification, Acceptance, Approval and Accession
+        - [Sch. part TWO chapter VII crossheading article-48-signature-ratification-acceptance-approval-and-accession paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-48-signature-ratification-acceptance-approval-and-accession/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-48-signature-ratification-acceptance-approval-and-accession paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-48-signature-ratification-acceptance-approval-and-accession/paragraph/2.md)
+        - [Sch. part TWO chapter VII crossheading article-48-signature-ratification-acceptance-approval-and-accession paragraph 3](schedule/part/TWO/chapter/VII/crossheading/article-48-signature-ratification-acceptance-approval-and-accession/paragraph/3.md)
+      - Article 49 Entry Into Force
+        - [Sch. part TWO chapter VII crossheading article-49-entry-into-force paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-49-entry-into-force/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-49-entry-into-force paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-49-entry-into-force/paragraph/2.md)
+        - [Sch. part TWO chapter VII crossheading article-49-entry-into-force paragraph 3](schedule/part/TWO/chapter/VII/crossheading/article-49-entry-into-force/paragraph/3.md)
+      - Article 50 Denunciation
+        - [Sch. part TWO chapter VII crossheading article-50-denunciation paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-50-denunciation/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-50-denunciation paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-50-denunciation/paragraph/2.md)
+      - Article 51 Amendments
+        - [Sch. part TWO chapter VII crossheading article-51-amendments paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-51-amendments/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-51-amendments paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-51-amendments/paragraph/2.md)
+        - [Sch. part TWO chapter VII crossheading article-51-amendments paragraph 3](schedule/part/TWO/chapter/VII/crossheading/article-51-amendments/paragraph/3.md)
+      - Article 52 Review Conferences
+        - [Sch. part TWO chapter VII crossheading article-52-review-conferences paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-52-review-conferences/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-52-review-conferences paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-52-review-conferences/paragraph/2.md)
+        - [Sch. part TWO chapter VII crossheading article-52-review-conferences paragraph 3](schedule/part/TWO/chapter/VII/crossheading/article-52-review-conferences/paragraph/3.md)
+        - [Sch. part TWO chapter VII crossheading article-52-review-conferences paragraph 4](schedule/part/TWO/chapter/VII/crossheading/article-52-review-conferences/paragraph/4.md)
+      - Article 53 Functions of the Depository
+        - [Sch. part TWO chapter VII crossheading article-53-functions-of-the-depository paragraph 1](schedule/part/TWO/chapter/VII/crossheading/article-53-functions-of-the-depository/paragraph/1.md)
+        - [Sch. part TWO chapter VII crossheading article-53-functions-of-the-depository paragraph 2](schedule/part/TWO/chapter/VII/crossheading/article-53-functions-of-the-depository/paragraph/2.md)
+      - Article 54 Authentic Texts—Deposit
+  - ANNEX TO THE CONVENTION MODEL RULES OF PROCEDURE FOR INTERNATIONAL MANDATORY CONCILIATION
+    - Rule 1
+      - [Sch. part 4 crossheading rule-1 paragraph 1](schedule/part/4/crossheading/rule-1/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-1 paragraph 2](schedule/part/4/crossheading/rule-1/paragraph/2.md)
+      - [Sch. part 4 crossheading rule-1 paragraph 3](schedule/part/4/crossheading/rule-1/paragraph/3.md)
+    - Rule 2
+      - [Sch. part 4 crossheading rule-2 paragraph 1](schedule/part/4/crossheading/rule-2/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-2 paragraph 2](schedule/part/4/crossheading/rule-2/paragraph/2.md)
+      - [Sch. part 4 crossheading rule-2 paragraph 3](schedule/part/4/crossheading/rule-2/paragraph/3.md)
+    - Rule 3
+      - [Sch. part 4 crossheading rule-3 paragraph 1](schedule/part/4/crossheading/rule-3/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-3 paragraph 2](schedule/part/4/crossheading/rule-3/paragraph/2.md)
+      - [Sch. part 4 crossheading rule-3 paragraph 3](schedule/part/4/crossheading/rule-3/paragraph/3.md)
+      - [Sch. part 4 crossheading rule-3 paragraph 4](schedule/part/4/crossheading/rule-3/paragraph/4.md)
+      - [Sch. part 4 crossheading rule-3 paragraph 5](schedule/part/4/crossheading/rule-3/paragraph/5.md)
+    - Rule 4
+    - Rule 5
+      - [Sch. part 4 crossheading rule-5 paragraph 1](schedule/part/4/crossheading/rule-5/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-5 paragraph 2](schedule/part/4/crossheading/rule-5/paragraph/2.md)
+      - [Sch. part 4 crossheading rule-5 paragraph 3](schedule/part/4/crossheading/rule-5/paragraph/3.md)
+      - [Sch. part 4 crossheading rule-5 paragraph 4](schedule/part/4/crossheading/rule-5/paragraph/4.md)
+    - Rule 6
+    - Rule 7
+      - [Sch. part 4 crossheading rule-7 paragraph 1](schedule/part/4/crossheading/rule-7/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-7 paragraph 2](schedule/part/4/crossheading/rule-7/paragraph/2.md)
+    - Rule 8
+      - [Sch. part 4 crossheading rule-8 paragraph 1](schedule/part/4/crossheading/rule-8/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-8 paragraph 2](schedule/part/4/crossheading/rule-8/paragraph/2.md)
+    - Rule 9
+    - Rule 10
+      - [Sch. part 4 crossheading rule-10 paragraph 1](schedule/part/4/crossheading/rule-10/paragraph/1.md)
+      - [Sch. part 4 crossheading rule-10 paragraph 2](schedule/part/4/crossheading/rule-10/paragraph/2.md)
+      - [Sch. part 4 crossheading rule-10 paragraph 3](schedule/part/4/crossheading/rule-10/paragraph/3.md)
+    - Rule 11
+    - Rule 12
+    - Rule 13
