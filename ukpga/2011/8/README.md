@@ -2,9 +2,9 @@
 
 2011 c. 8. Enacted 2011-07-12.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2015-02-05, one file per provision. Earlier versions, from 2011-07-12, are in the history before it: `git log -- ukpga/2011/8` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/8/enacted
+Source: https://www.legislation.gov.uk/ukpga/2011/8/2015-02-05
 
 ## Contents
 
