@@ -2,9 +2,9 @@
 
 2011 c. 23. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2013-10-31, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-02-12, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/23/2013-10-31
+Source: https://www.legislation.gov.uk/ukpga/2011/23/2015-02-12
 
 ## Contents
 
@@ -64,6 +64,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2013-10-31
       - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
     - Property measure
       - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Weapons and explosives measure
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
     - Electronic communication device measure
       - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
     - Association measure
@@ -72,6 +74,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2013-10-31
       - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
     - Reporting measure
       - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Appointments measure
+      - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
     - Photography measure
       - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
     - Monitoring measure
@@ -130,6 +134,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2013-10-31
     - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
   - Search of individual or premises at time of serving TPIM notice
     - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 6A Weapons and explosives measure](schedule/5/paragraph/6A.md)
   - Search of premises on suspicion of absconding
     - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
   - Search for compliance purposes
@@ -199,3 +204,4 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2013-10-31
     - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
   - Interpretation
     - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10A Appointments measure](schedule/8/paragraph/10A.md)
