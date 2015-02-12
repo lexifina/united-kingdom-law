@@ -2,9 +2,9 @@
 
 2015 c. 4. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-05-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-02-12, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/4/2017-05-04
+Source: https://www.legislation.gov.uk/ukpga/2015/4/2015-02-12
 
 ## Contents
 
@@ -25,15 +25,12 @@ Source: https://www.legislation.gov.uk/ukpga/2015/4/2017-05-04
 - PART 4 Fraudulent claims
   - [s. 12 Remedies for fraudulent claims](section/12.md)
   - [s. 13 Remedies for fraudulent claims: group insurance](section/13.md)
-- PART 4A Late payment of claims
-  - [s. 13A Implied term about payment of claims](section/13A.md)
 - PART 5 Good faith and contracting out
   - Good faith
     - [s. 14 Good faith](section/14.md)
   - Contracting out
     - [s. 15 Contracting out: consumer insurance contracts](section/15.md)
     - [s. 16 Contracting out: non-consumer insurance contracts](section/16.md)
-    - [s. 16A Contracting out of the implied term about payment of claims: consumer and non-consumer insurance contracts](section/16A.md)
     - [s. 17 The transparency requirements](section/17.md)
     - [s. 18 Contracting out: group insurance contracts](section/18.md)
 - PART 6 Amendment of the Third Parties (Rights against Insurers) Act 2010
