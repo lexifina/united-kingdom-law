@@ -2,11 +2,9 @@
 
 2015 c. 6. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-02-12, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/6
-
-Source: https://www.legislation.gov.uk/ukpga/2015/6/2026-09-01
+Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-02-12
 
 ## Contents
 
@@ -183,30 +181,18 @@ Source: https://www.legislation.gov.uk/ukpga/2015/6/2026-09-01
       - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
       - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
 - SCHEDULE 6 Specified authorities
-  - PART 1 GENERAL; ENGLAND AND WALES
-    - Local government
-    - Criminal justice
-    - Education, child care etc
-    - Health and social care
-    - Police
-  - PART 2 SCOTLAND
-    - Local government
-    - Criminal justice
-    - Education, child care etc
-    - Health and social care
-    - Police
+  - Local government
+  - Criminal justice
+  - Education, child care etc
+  - Health and social care
+  - Police
 - SCHEDULE 7 Partners of local panels
-  - PART 1 GENERAL; ENGLAND AND WALES
-    - Ministers of the Crown and government departments
-    - Local government
-    - Criminal justice
-    - Education, child care etc
-    - Health and social care
-    - Police
-  - PART 2 SCOTLAND
-    - Criminal Justice
-    - Education, child care etc
-    - Health and social care
+  - Ministers of the Crown and government departments
+  - Local government
+  - Criminal justice
+  - Education, child care etc
+  - Health and social care
+  - Police
 - SCHEDULE 8 Port and border controls: power to examine goods
   - Terrorism Act 2000 (c. 11)
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
