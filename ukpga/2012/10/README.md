@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-12-16, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-02-13, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2014-12-16
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-02-13
 
 ## Contents
 
@@ -302,6 +302,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2014-12-16
       - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
     - Terrorism prevention and investigation measures etc
       - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - Extension of time for retention of travel documents
+      - [Sch. 1 para. 45A](schedule/1/paragraph/45A.md)
     - Connected matters
       - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
   - Part 2 Excluded services
@@ -350,6 +352,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2014-12-16
     - Other exceptions
       - [Sch. 1 Pt. 3 heading other-exceptions para. 21](schedule/1/part/3/crossheading/other-exceptions/paragraph/21.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 22](schedule/1/part/3/crossheading/other-exceptions/paragraph/22.md)
+      - [Sch. 1 para. 22A](schedule/1/paragraph/22A.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 23](schedule/1/part/3/crossheading/other-exceptions/paragraph/23.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 24](schedule/1/part/3/crossheading/other-exceptions/paragraph/24.md)
       - [Sch. 1 Pt. 3 heading other-exceptions para. 25](schedule/1/part/3/crossheading/other-exceptions/paragraph/25.md)
