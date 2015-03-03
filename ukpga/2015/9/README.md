@@ -2,11 +2,9 @@
 
 2015 c. 9. Enacted 2015-03-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-03, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
-
-Source: https://www.legislation.gov.uk/ukpga/2015/9/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2015/9/2015-03-03
 
 ## Contents
 
@@ -110,19 +108,14 @@ Source: https://www.legislation.gov.uk/ukpga/2015/9/2026-06-29
     - [s. 73 Female genital mutilation protection orders](section/73.md)
     - [s. 74 Duty to notify police of female genital mutilation](section/74.md)
     - [s. 75 Guidance about female genital mutilation](section/75.md)
-  - Strangulation or suffocation
-    - [s. 75A Strangulation or suffocation](section/75A.md)
-    - [s. 75B Offences under section 75A committed outside the United Kingdom](section/75B.md)
   - Domestic abuse
     - [s. 76 Controlling or coercive behaviour in an intimate or family relationship](section/76.md)
-    - [s. 76A Offences under section 76 committed outside the United Kingdom](section/76A.md)
     - [s. 77 Guidance about investigation of offences under section 76](section/77.md)
 - PART 6 Miscellaneous and general
   - Miscellaneous
     - [s. 78 Knives and offensive weapons in prisons](section/78.md)
     - [s. 79 Throwing articles into prisons](section/79.md)
     - [s. 80 Prevention or restriction of use of communication devices by prisoners etc](section/80.md)
-    - [s. 80A Prevention or restriction of use of communication devices for drug dealing](section/80A.md)
     - [s. 81 Preparation or training abroad for terrorism](section/81.md)
     - [s. 82 Approval of draft decisions under Article 352 of TFEU relating to serious crime](section/82.md)
     - [s. 83 Codes of practice about investigatory powers: journalistic sources](section/83.md)
