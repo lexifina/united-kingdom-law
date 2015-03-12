@@ -1,0 +1,121 @@
+# Merchant Shipping and Maritime Security Act 1997
+
+1997 c. 28. Enacted 1997-03-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1997/28/2015-03-12
+
+## Contents
+
+- Extension of powers to deal with emergencies at sea
+  - [s. 1 Temporary exclusion zones.](section/1.md)
+  - [s. 2 Powers of intervention where shipping accident threatens pollution.](section/2.md)
+  - [s. 3 Powers of intervention in cases of pollution by substances other than oil.](section/3.md)
+  - [s. 4 Powers of fire authorities.](section/4.md)
+- Pollution control and marine safety
+  - [s. 5 Waste reception facilities at harbours.](section/5.md)
+  - [s. 6 Indemnities in connection with counter-pollution measures.](section/6.md)
+  - [s. 7 Increased penalty for causing pollution, etc.](section/7.md)
+  - [s. 8 Safety regulations.](section/8.md)
+  - [s. 9 Inspection and detention of ships.](section/9.md)
+  - [s. 10 Power to require ships to be moved.](section/10.md)
+  - [s. 11 Ships receiving trans-shipped fish.](section/11.md)
+  - [s. 12 Preparation of plans under International Convention on Oil Pollution Preparedness, Response and Co-operation.](section/12.md)
+- Funding of maritime services
+  - [s. 13 Funding of maritime services.](section/13.md)
+- Liability and compensation
+  - [s. 14 Carriage of hazardous and noxious substances.](section/14.md)
+  - [s. 15 Limitation of liability.](section/15.md)
+  - [s. 16 Compulsory insurance.](section/16.md)
+- Miscellaneous amendments of Merchant Shipping Act 1995
+  - [s. 17 Financial assistance for training.](section/17.md)
+  - [s. 18 Discharge books.](section/18.md)
+  - [s. 19 Powers of general lighthouse authorities.](section/19.md)
+  - [s. 20 Disclosure of information to general lighthouse authorities.](section/20.md)
+  - [s. 21 Certain duties not to apply to RNLI.](section/21.md)
+  - [s. 22 Disposal of unclaimed wreck.](section/22.md)
+  - [s. 23 Retention of documents by Registrar General.](section/23.md)
+- Protection of wrecks
+  - [s. 24 Implementation of international agreements relating to protection of wrecks.](section/24.md)
+- Maritime security, etc.
+  - [s. 25 Amendments of Aviation and Maritime Security Act 1990.](section/25.md)
+  - [s. 26 Piracy.](section/26.md)
+- International bodies concerned with maritime matters
+  - [s. 27 Application of s. 1 of International Organisations Act 1968 to International Oil Pollution Compensation Fund.](section/27.md)
+  - [s. 28 International Tribunal for the Law of the Sea.](section/28.md)
+- Supplementary
+  - [s. 29 Minor and consequential amendments, etc.](section/29.md)
+  - [s. 30 Extent and application.](section/30.md)
+  - [s. 31 Short title, interpretation and commencement.](section/31.md)
+- SCHEDULE 1 Amendments of Merchant Shipping Act 1995 relating to inspection and detention of ships
+  - Meaning of “dangerously unsafe ship”
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Power to detain dangerously unsafe ship
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Fishing vessel without appropriate certificate
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Power to inspect ships and their equipment
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Enforcing detention of ships
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Powers of detention under provisions relating to load lines
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Funding of maritime services
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Provisions to be inserted as Schedule 5A to the Merchant Shipping Act 1995
+- SCHEDULE 4 Amendments of Part III of Aviation and Maritime Security Act 1990
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Meaning of “harbour area”
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Designation of restricted zones
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Power to promote searches
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Removal of firearms
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Inspection of ships and harbour areas
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - False statements
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Unauthorised presence in restricted zone
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Meaning of “harbour”, “harbour authority” etc.
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Provisions of United Nations Convention on the Law of the Sea to be treated as part of the law of nations
+  - Article 101
+    - Definition of piracy
+  - Article 102
+    - Piracy by a warship, government ship or government aircraft whose crew has mutinied
+  - Article 103
+    - Definition of a pirate ship or aircraft
+- SCHEDULE 6 Minor and consequential amendments
+  - The Hovercraft Act 1968 (c. 59)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - The Senior Courts Act 1981 (c. 54)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - The Merchant Shipping Act 1995 (c. 21)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+- SCHEDULE 7 Repeals and revocations
+  - Part I Repeals
+  - Part II Revocations
