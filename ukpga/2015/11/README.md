@@ -2,9 +2,9 @@
 
 2015 c. 11. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-18, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/11/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2015/11/2015-03-18
 
 ## Contents
 
@@ -145,13 +145,9 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2026-04-01
   - Payment and recovery of tax
     - [s. 98 Payment of tax](section/98.md)
     - [s. 99 Diverted profits tax ignored for tax purposes](section/99.md)
-    - [s. 100 Credits for tax on the same profits](section/100.md)
-    - [s. 100A Relief from corporation tax](section/100A.md)
+    - [s. 100 Credit for UK or foreign tax on same profits](section/100.md)
   - Review and appeals
     - [s. 101 HMRC review of charging notice](section/101.md)
-    - [s. 101A Amendment of CT return during review period: section 80 or 81 case](section/101A.md)
-    - [s. 101B Amendment of CT return during review period: section 86 case](section/101B.md)
-    - [s. 101C Closure notices: rules during review period](section/101C.md)
     - [s. 102 Appeal against charging notice or supplementary charging notice](section/102.md)
   - Administration of tax
     - [s. 103 Responsibility for collection and management](section/103.md)
@@ -164,11 +160,9 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2026-04-01
     - [s. 109 “Excepted loan relationship outcome”](section/109.md)
     - [s. 110 “The insufficient economic substance condition”](section/110.md)
     - [s. 111 “Transaction” and “series of transactions”](section/111.md)
-    - [s. 111A Adjustment required to be made to the material provision](section/111A.md)
     - [s. 112 Treatment of a person who is a member of a partnership](section/112.md)
     - [s. 113 “Accounting period” and “corresponding accounting period”](section/113.md)
     - [s. 114 Other defined terms in Part 3](section/114.md)
-    - [s. 114A Application of section 124 of TIOPA 2010 in relation to diverted profits tax](section/114A.md)
   - Final provisions
     - [s. 115 Application of other enactments to diverted profits tax](section/115.md)
     - [s. 116 Commencement and transitional provision](section/116.md)
@@ -604,10 +598,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2026-04-01
     - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
     - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
     - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
-  - General anti-abuse rule: aggregate penalties
-    - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
-  - Follower notices: aggregate penalties
-    - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
 - SCHEDULE 21 Penalties in connection with offshore asset moves
   - Penalty linked to offshore asset moves
     - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
