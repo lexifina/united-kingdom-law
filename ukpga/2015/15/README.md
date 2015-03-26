@@ -2,11 +2,9 @@
 
 2015 c. 15. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
-
-Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2015/15/2015-03-26
 
 ## Contents
 
@@ -50,7 +48,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
       - [s. 30 Goods under guarantee](section/30.md)
     - Can a trader contract out of statutory rights and remedies under a goods contract?
       - [s. 31 Liability that cannot be excluded or restricted](section/31.md)
-      - [s. 32 Contracts applying law of a country other than the UK](section/32.md)
+      - [s. 32 Contracts applying law of non-EEA State](section/32.md)
   - CHAPTER 3 Digital content
     - What digital content contracts are covered?
       - [s. 33 Contracts covered by this Chapter](section/33.md)
@@ -109,7 +107,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
     - [s. 71 Duty of court to consider fairness of term](section/71.md)
     - [s. 72 Application of rules to secondary contracts](section/72.md)
     - [s. 73 Disapplication of rules to mandatory terms and notices](section/73.md)
-    - [s. 74 Contracts applying law of a country other than the UK](section/74.md)
+    - [s. 74 Contracts applying law of non-EEA State](section/74.md)
     - [s. 75 Changes to other legislation](section/75.md)
     - [s. 76 Interpretation of Part 2](section/76.md)
 - PART 3 Miscellaneous and General
@@ -316,7 +314,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
       - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
     - Domestic enforcers
       - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
-    - ...
+    - EU enforcers
       - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
     - Public designated enforcers
       - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
@@ -344,41 +342,15 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
       - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
     - Enforcement of notice under paragraph 14
       - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
-    - Non-compliance with notice under paragraph 14: power of court to impose monetary penalties
-      - [Sch. 5 para. 16A](schedule/5/paragraph/16A.md)
-    - Non-compliance with notice under paragraph 14: powers of CMA to give provisional enforcement notice
-      - [Sch. 5 para. 16B](schedule/5/paragraph/16B.md)
-    - Non-compliance with notice under paragraph 14: power of CMA to give final enforcement notice
-      - [Sch. 5 para. 16C](schedule/5/paragraph/16C.md)
-    - Appeals against final enforcement notice
-      - [Sch. 5 para. 16D](schedule/5/paragraph/16D.md)
-    - Recovery of penalties imposed under paragraph 16C
-      - [Sch. 5 para. 16E](schedule/5/paragraph/16E.md)
-    - Statement of policy in relation to penalties under paragraph 16C
-      - [Sch. 5 para. 16F](schedule/5/paragraph/16F.md)
-    - Penalties imposed under paragraphs 16A and 16C: further provision
-      - [Sch. 5 para. 16G](schedule/5/paragraph/16G.md)
-    - Meaning of “turnover” for purposes of paragraphs 16A and 16C
-      - [Sch. 5 para. 16H](schedule/5/paragraph/16H.md)
-    - Power to amend amounts
-      - [Sch. 5 para. 16I](schedule/5/paragraph/16I.md)
-    - Miscellaneous
-      - [Sch. 5 para. 16J](schedule/5/paragraph/16J.md)
     - Limitations on use of information provided in response to a notice under paragraph 14
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
-    - Extra-territorial application in relation to notices under paragraph 14
-      - [Sch. 5 para. 17A](schedule/5/paragraph/17A.md)
-    - Means of giving notice under this Part of this Schedule
-      - [Sch. 5 para. 17B](schedule/5/paragraph/17B.md)
     - Application to Crown
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
-  - PART 4 Further powers exercisable by domestic enforcers and authorised enforcers
+  - PART 4 Further powers exercisable by domestic enforcers and EU enforcers
     - Exercise of powers in this Part: domestic enforcers
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
-    - Exercise of powers in this Part: authorised enforcers
+    - Exercise of powers in this Part: EU enforcers
       - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
-    - Paragraph 20: listed enactments
-      - [Sch. 5 para. 20A](schedule/5/paragraph/20A.md)
     - Power to purchase products
       - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
     - Power to observe carrying on of business etc
@@ -399,7 +371,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2026-09-30
       - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
     - Power to decommission or switch off fixed installations
       - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
-      - [Sch. 5 para. 30A](schedule/5/paragraph/30A.md)
     - Power to break open container etc
       - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
     - Power to enter premises with warrant
