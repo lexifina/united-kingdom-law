@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-02-12, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-03-26
 
 ## Contents
 
@@ -302,13 +302,17 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
       - [s. 221 Content of notice given pending an appeal](section/221.md)
       - [s. 222 Representations about a notice](section/222.md)
     - Forms of accelerated payment
-      - [s. 223 Effect of notice given while tax enquiry is in progress](section/223.md)
+      - [s. 223 Effect of notice given while tax enquiry is in progress: accelerated payment](section/223.md)
       - [s. 224 Restriction on powers to postpone tax payments pending initial appeal](section/224.md)
       - [s. 225 Protection of the revenue pending further appeals](section/225.md)
+    - Prevention of surrender of losses
+      - [s. 225A Effect of notice: surrender of losses ineffective, etc](section/225A.md)
     - Penalties
       - [s. 226 Penalty for failure to pay accelerated payment](section/226.md)
     - Withdrawal etc of accelerated payment notice
       - [s. 227 Withdrawal, modification or suspension of accelerated payment notice](section/227.md)
+    - Group relief claims after accelerated payment notices
+      - [s. 227A Group relief claims after accelerated payment notices](section/227A.md)
     - Partners and partnerships
       - [s. 228 Accelerated partner payments](section/228.md)
     - Defined terms
@@ -1326,6 +1330,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
     - [Sch. 32 para. 5](schedule/32/paragraph/5.md)
   - Effect of partner payment notice
     - [Sch. 32 para. 6](schedule/32/paragraph/6.md)
+    - [Sch. 32 para. 6A](schedule/32/paragraph/6A.md)
   - Penalty for failure to comply with partner payment notice
     - [Sch. 32 para. 7](schedule/32/paragraph/7.md)
   - Withdrawal, suspension or modification of partner payment notices
@@ -1356,7 +1361,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
       - [Sch. 34 para. 6](schedule/34/paragraph/6.md)
     - Opinion notice of GAAR Advisory Panel
       - [Sch. 34 para. 7](schedule/34/paragraph/7.md)
-    - Disciplinary action by a professional body
+    - Disciplinary action against a member of a trade or profession
       - [Sch. 34 para. 8](schedule/34/paragraph/8.md)
     - Disciplinary action by a regulatory authority
       - [Sch. 34 para. 9](schedule/34/paragraph/9.md)
@@ -1366,8 +1371,15 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
       - [Sch. 34 para. 11](schedule/34/paragraph/11.md)
     - Continuing to promote certain arrangements
       - [Sch. 34 para. 12](schedule/34/paragraph/12.md)
-  - PART 2 Meeting the threshold conditions: bodies corporate
-    - [Sch. 34 para. 13](schedule/34/paragraph/13.md)
+  - PART 2 Meeting the threshold conditions: bodies corporate and partnerships
+    - Interpretation
+      - [Sch. 34 para. 13A](schedule/34/paragraph/13A.md)
+    - Treating persons under another’s control as meeting a threshold condition
+      - [Sch. 34 para. 13B](schedule/34/paragraph/13B.md)
+    - Treating persons in control of others as meeting a threshold condition
+      - [Sch. 34 para. 13C](schedule/34/paragraph/13C.md)
+    - Treating persons controlled by the same person as meeting a threshold condition
+      - [Sch. 34 para. 13D](schedule/34/paragraph/13D.md)
   - PART 3 Power to amend
     - [Sch. 34 para. 14](schedule/34/paragraph/14.md)
 - SCHEDULE 35 Promoters of tax avoidance schemes: penalties
@@ -1405,7 +1417,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
       - [Sch. 36 para. 2](schedule/36/paragraph/2.md)
     - Meeting of conditions
       - [Sch. 36 para. 3](schedule/36/paragraph/3.md)
-    - Threshold conditions: actions of partners in a personal capacity
+    - ................................
       - [Sch. 36 para. 4](schedule/36/paragraph/4.md)
   - PART 2 Conduct notices and monitoring notices
     - Conduct notices
@@ -1438,7 +1450,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-02-12
   - PART 4 Interpretation
     - Meaning of “controlling member”
       - [Sch. 36 para. 19](schedule/36/paragraph/19.md)
-    - Meaning of “managing partner”
+    - ................................
       - [Sch. 36 para. 20](schedule/36/paragraph/20.md)
     - Power to amend definitions
       - [Sch. 36 para. 21](schedule/36/paragraph/21.md)
