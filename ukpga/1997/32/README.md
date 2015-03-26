@@ -1,0 +1,228 @@
+# Building Societies Act 1997
+
+1997 c. 32. Enacted 1997-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1997/32/2015-03-26
+
+## Contents
+
+- Part I Constitution and powers
+  - [s. 1 Principal purpose and powers.](section/1.md)
+  - [s. 2 Membership and liability of members.](section/2.md)
+  - [s. 3 Capacity etc.](section/3.md)
+  - [s. 4 The lending limit.](section/4.md)
+  - [s. 5 Loans secured on land.](section/5.md)
+  - [s. 6 Loans fully secured on land.](section/6.md)
+  - [s. 7 Discharge of mortgages.](section/7.md)
+  - [s. 8 The funding limit.](section/8.md)
+  - [s. 9 Raising funds and borrowing.](section/9.md)
+  - [s. 10 Restrictions on certain transactions.](section/10.md)
+  - [s. 11 Restriction on creation of floating charges.](section/11.md)
+  - [s. 12 Superseded provisions of 1986 Act.](section/12.md)
+- Part II Powers of control of Commission
+  - [s. 13 Power to direct restructuring of business etc.](section/13.md)
+  - [s. 14 Power to make prohibition orders.](section/14.md)
+  - [s. 15 Powers to petition for winding up etc.](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 Power to direct transfers of engagements or business.](section/17.md)
+  - [s. 18 Notification and confirmation of transfer directions.](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+- Part III Accountability to members
+  - [s. 25 Special meeting on members’ requisition.](section/25.md)
+  - [s. 26 Failure to comply with members’ requisition.](section/26.md)
+  - [s. 27 Election of directors: general.](section/27.md)
+  - [s. 28 Election of directors: supplementary.](section/28.md)
+  - [s. 29 Acquisition or establishment of a business.](section/29.md)
+  - [s. 30 Information about transfers or proposed transfers of business.](section/30.md)
+  - [s. 31 Transfers of business: increased remuneration etc.](section/31.md)
+- Part IV Protection of investors and investigation of complaints
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+- Part V Miscellaneous and supplemental
+  - Miscellaneous
+    - [s. 36 Registered and business names.](section/36.md)
+    - [s. 37 Access to registers of members.](section/37.md)
+    - [s. 38 Transactions with directors and persons connected with them.](section/38.md)
+    - [s. 39 Application of certain insolvency legislation.](section/39.md)
+    - [s. 40 Abolition of priority liquidation distribution rights.](section/40.md)
+    - [s. 41 Protective provisions for specially formed successors.](section/41.md)
+    - [s. 42 Registration of charges by building societies.](section/42.md)
+    - [s. 43 Other amendments of 1986 Act.](section/43.md)
+  - Supplemental
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 Minor and consequential amendments.](section/45.md)
+    - [s. 46 Transitional provisions, savings and repeals etc.](section/46.md)
+    - [s. 47 Short title, interpretation, commencement and extent.](section/47.md)
+- SCHEDULE 1 [Part II of Schedule 2 to 1986 Act]
+- SCHEDULE 2 [Schedule 2a to 1986 Act]
+- SCHEDULE 3 ...
+- SCHEDULE 4 [Schedule 8a to 1986 Act]
+- SCHEDULE 5 Information about transfers or proposed transfers of business
+  - Part I [Part I of Schedule 17 to 1986 Act]
+  - Part II [Part IA of Schedule 17 to 1986 Act]
+- SCHEDULE 6 [Schedule 15a to 1986 Act]
+- SCHEDULE 7 Other amendments of 1986 Act
+  - The Building Societies Commission
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Annual and other reports
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Authorisation to raise funds and borrow money
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Building Societies Investor Protection Board
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - The Investor Protection Fund
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Meaning of “insolvency” etc.
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Payments to investors
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Membership of insolvency committees etc
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Liability of insolvent society in respect of payments made by Board
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Power to obtain information
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Voluntary schemes
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Power to direct application to renew authorisation
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Imposition of conditions on current authorisation
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Revocation of authorisation
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Reauthorisation
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Powers to avoid apparent association with other bodies
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Powers to obtain information and documents etc.
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Right of entry to obtain information and documents
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Confidentiality of information obtained by Commission
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Information disclosed to Commission from other sources
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Investigations on behalf of Commission
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Inspections and special meetings: general
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Inspections: supplementary provisions
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Restrictions on loans etc. to directors
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Directors etc. not to accept commissions in connection with loans
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Records of loans etc. for directors
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - Records of income of related businesses
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Interpretation of Part VII
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - Accounting records and systems of business control etc.
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Contents and form of annual accounts
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+  - Duty of directors to prepare annual business statement
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - Directors’ report
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+  - Summary financial statement for members and depositors
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+  - Auditor’s report and powers
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+  - Auditor’s duties to Commission and related rights
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+  - Investigation of complaints: supplementary provisions
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+  - Settlement of disputes
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+  - Dissolution by consent
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+  - Winding up: grounds and petitioners
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+  - Winding up or dissolution: supplementary
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+  - Amalgamations
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+  - Transfer of engagements
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+  - Mergers: provisions supplementing sections 93 and 94
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+  - Mergers: compensation for loss of office etc.
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+  - Transfer of business to commercial company
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+  - Regulated terms: compensation for loss of office etc.
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+  - Distribution and share rights
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+  - Power to amend etc. to assimilate to company law
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+  - Limited power to anticipate future statutory instrument powers
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+  - Power to require building society to change misleading name
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+  - Offences: liability of officers etc.
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+  - Qualifying asset holding for certain powers
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+  - Interpretation
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+  - Northern Ireland
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+  - The Commission
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+  - Establishment, incorporation and constitution
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+  - Meetings, resolutions and postal ballots
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+  - The Building Societies Investor Protection Board
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+  - Directors: requisite particulars of restricted transactions
+    - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+  - Requisite particulars of income of related business
+    - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+  - Auditors: appointment, tenure and qualifications
+    - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+  - Schemes for investigation of complaints
+    - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+  - Recognition etc. of schemes for investigation of complaints
+    - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+  - Settlement of disputes
+    - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+  - Application of companies winding up legislation to building societies
+    - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+  - Mergers: supplementary provisions
+    - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+  - Transitional and saving provisions
+    - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+- SCHEDULE 8 Transitional provisions and savings
+  - Alterations of purpose, powers and rules
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Default powers
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Existing members to whom advances have been made
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Existing borrowing members which are corporations
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Existing fully secured loans
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Existing shareholders
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Existing depositors and shareholders
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Existing transfer statements referring to the abolition of priority liquidation distribution rights
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Existing specially formed successor companies
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Repeals and revocations
