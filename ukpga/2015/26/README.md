@@ -2,11 +2,9 @@
 
 2015 c. 26. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
-
-Source: https://www.legislation.gov.uk/ukpga/2015/26/2026-05-18
+Source: https://www.legislation.gov.uk/ukpga/2015/26/2015-03-26
 
 ## Contents
 
@@ -41,12 +39,11 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2026-05-18
     - [s. 19 Guidance by the Secretary of State](section/19.md)
   - Report on investigations under financial regulators’ complaints scheme
     - [s. 20 Independent Complaints Commissioner: reporting duty](section/20.md)
-  - ...
+  - Business impact target
     - [s. 21 Duty on Secretary of State to publish business impact target etc](section/21.md)
     - [s. 22 Sections 21 and 23 to 25: “qualifying regulatory provisions” etc](section/22.md)
     - [s. 23 Duty on Secretary of State to publish reports](section/23.md)
     - [s. 24 Additional matters to be included in reports](section/24.md)
-    - [s. 24A Duty on relevant regulators to assess economic impact etc](section/24A.md)
     - [s. 25 Appointment of body to verify assessments and lists in reports](section/25.md)
     - [s. 26 Amending the business impact target etc](section/26.md)
     - [s. 27 Sections 21 to 25 etc: interpretation](section/27.md)
@@ -110,7 +107,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2026-05-18
     - [s. 69 “Pub-owning business”](section/69.md)
     - [s. 70 “Tied pub tenant”, “landlord”, “tenancy” and “licence”](section/70.md)
     - [s. 71 Power to grant exemptions from Pubs Code](section/71.md)
-    - [s. 71A Reports on avoidance](section/71A.md)
     - [s. 72 Interpretation: other provision](section/72.md)
     - [s. 73 Regulations under this Part](section/73.md)
 - PART 5 Childcare and schools
@@ -234,12 +230,9 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2026-05-18
   - Exclusivity in zero hours contracts
     - [s. 153 Exclusivity terms unenforceable in zero hours contracts](section/153.md)
   - Public sector exit payments
-    - [s. 153A Regulations to restrict public sector exit payments](section/153A.md)
-    - [s. 153B Supplementary provision about regulations under section 153A](section/153B.md)
-    - [s. 153C Power to relax restriction on public sector exit payments](section/153C.md)
-    - [s. 154 Regulations in connection with repayment of public sector exit payments](section/154.md)
+    - [s. 154 Regulations in connection with public sector exit payments](section/154.md)
     - [s. 155 Section 154(1): further provision](section/155.md)
-    - [s. 156 Power to make regulations under section 154(1) to be exercisable by the Treasury or Scottish Ministers](section/156.md)
+    - [s. 156 Power to make regulations to be exercisable by the Treasury or Scottish Ministers](section/156.md)
     - [s. 157 Power of Secretary of State to waive repayment requirement](section/157.md)
   - Concessionary coal
     - [s. 158 Concessionary coal](section/158.md)
