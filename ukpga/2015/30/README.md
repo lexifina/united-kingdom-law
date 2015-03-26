@@ -2,11 +2,9 @@
 
 2015 c. 30. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
-
-Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2015-03-26
 
 ## Contents
 
@@ -25,7 +23,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
     - [s. 10 Slavery and trafficking reparation orders: supplementary provision](section/10.md)
     - [s. 11 Forfeiture of land vehicle, ship or aircraft](section/11.md)
   - Supplementary
-    - [s. 11A Enforcement by Gangmasters and Labour Abuse Authority](section/11A.md)
     - [s. 12 Detention of land vehicle, ship or aircraft](section/12.md)
     - [s. 13 Interpretation of Part 1](section/13.md)
 - PART 2 Prevention orders
@@ -49,7 +46,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
     - [s. 29 Appeals](section/29.md)
   - Offences and supplementary provision
     - [s. 30 Offences](section/30.md)
-    - [s. 30A Enforcement by Gangmasters and Labour Abuse Authority](section/30A.md)
     - [s. 31 Cross-border enforcement](section/31.md)
     - [s. 32 Rules of court](section/32.md)
     - [s. 33 Guidance to chief officers of police etc](section/33.md)
@@ -73,7 +69,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
   - [s. 48 Independent child trafficking advocates](section/48.md)
   - [s. 49 Guidance about identifying and supporting victims](section/49.md)
   - [s. 50 Regulations about identifying and supporting victims](section/50.md)
-  - [s. 50A Identified potential victims etc: assistance and support](section/50A.md)
   - [s. 51 Presumption about age](section/51.md)
   - [s. 52 Duty to notify Secretary of State about suspected victims of slavery or human trafficking](section/52.md)
   - [s. 53 Overseas domestic workers](section/53.md)
@@ -81,7 +76,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
   - [s. 54 Transparency in supply chains etc](section/54.md)
 - PART 7 Miscellaneous and general
   - Miscellaneous
-    - [s. 54A Gangmasters and Labour Abuse Authority: information gateways](section/54A.md)
     - [s. 55 Gangmasters Licensing Authority](section/55.md)
   - General
     - [s. 56 Interpretation](section/56.md)
@@ -108,8 +102,6 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
     - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
   - Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))
     - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
-  - Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)
-    - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
   - Ancillary offences
     - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
 - SCHEDULE 2 Enforcement powers in relation to ships
@@ -239,29 +231,10 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2026-09-29
     - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
   - Terrorism Act 2006 (c. 11)
     - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
-  - Counter-Terrorism Act 2008 (c.28)
-    - [Sch. 4 para. 35ZA](schedule/4/paragraph/35ZA.md)
-  - Terrorism Prevention and Investigation Measures Act 2011 (c. 23)
-    - [Sch. 4 para. 35ZB](schedule/4/paragraph/35ZB.md)
-  - Counter-Terrorism and Security Act 2015 (c. 6)
-    - [Sch. 4 para. 35ZC](schedule/4/paragraph/35ZC.md)
-  - Serious Crime Act 2015
-    - [Sch. 4 para. 35A](schedule/4/paragraph/35A.md)
   - Modern Slavery Act 2015 (c. 30)
     - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
-    - [Sch. 4 para. 36A](schedule/4/paragraph/36A.md)
-  - Health and Care Act 2022
-    - [Sch. 4 para. 36B](schedule/4/paragraph/36B.md)
-  - National Security Act 2023
-    - [Sch. 4 para. 36C](schedule/4/paragraph/36C.md)
   - Ancillary offences
     - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
-- SCHEDULE 4A Information gateways: specified persons
-  - Authorities with functions in connection with the labour market etc
-  - Law enforcement and border security
-  - Local government
-  - Health bodies
-  - Other
 - SCHEDULE 5 Minor and consequential amendments
   - PART 1 Amendments relating to offences
     - Children and Young Persons Act 1933 (c. 12)
