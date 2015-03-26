@@ -2,9 +2,9 @@
 
 2015 c. 19. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-05-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/19/2016-05-12
+Source: https://www.legislation.gov.uk/ukpga/2015/19/2015-03-26
 
 ## Contents
 
