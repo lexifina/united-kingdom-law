@@ -1,0 +1,163 @@
+# Social Security (Consequential Provisions) (Northern Ireland) Act 1992
+
+1992 c. 9. Enacted 1992-02-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1992/9/2015-04-01
+
+## Contents
+
+- [s. 1 Meaning of “the consolidating Acts”.](section/1.md)
+- [s. 2 Continuity of the law.](section/2.md)
+- [s. 3 Repeals.](section/3.md)
+- [s. 4 Consequential amendments.](section/4.md)
+- [s. 5 Transitional provisions and savings.](section/5.md)
+- [s. 6 Transitory modifications.](section/6.md)
+- [s. 7 Short title, commencement and extent.](section/7.md)
+- SCHEDULE 1 Repeals
+- SCHEDULE 2 Consequential amendments
+  - Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948 (c. 23 (N.I.))
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Employment and Training Act (Northern Ireland) 1950 (c. 29 (N.I.))
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Judicial Pensions Act (Northern Ireland) 1951 (c. 20 (N.I.))
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Registration of Births, Deaths and Marriages (Fees, etc.)
+  - Act (Northern Ireland) 1955 (c. 29 (N.I.))
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965 (c. 19 (N.I.))
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35 (N.I.))
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Children and Young Persons Act (Northern Ireland) 1968 (c. 34 (N.I.))
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Social Services (Parity) Act (Northern Ireland) 1971 (c. 21 (N.I.))
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1972 (S.I. 1972 No. 1265 (N.I. 14))
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Social Security (Northern Ireland) Act 1975 (c. 15)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Social Security (Consequential Provisions) Act 1975 (c. 18)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Social Security Pensions (Northern Ireland) Order 1975 (S.I. 1975 No. 1503 (N.I. 15))
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976 No. 1041 (N.I. 14))
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Industrial Relations (Northern Ireland) Order 1976 (S.I. 1976 No. 1043 (N.I. 16))
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Social Security (Miscellaneous Provisions) (Northern Ireland) Order 1977 (S.I. 1977 No. 610 (N.I. 11))
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Agricultural Wages (Regulation) (Northern Ireland) Order 1977 (S.I. 1977 No. 2151 (N.I. 22))
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Rent (Northern Ireland) Order 1978 (S.I. 1978 No. 1050 (N.I. 20))
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Capital Gains Tax Act 1979 (c. 14)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Vaccine Damage Payments Act 1979 (c. 17)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Pneumoconiosis etc. (Workers’ Compensation) (Northern Ireland) Order 1979 (S.I. 1979 No. 925 (N.I. 9))
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Road Traffic (Northern Ireland) Order 1981 (S.I. 1981 No. 154 (N.I. 1))
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981 No. 228 (N.I. 8))
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981 No. 1675 (N.I. 26))
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Forfeiture (Northern Ireland) Order 1982 (S.I. 1982 No. 1082 (N.I. 14))
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Social Security (Northern Ireland) Order 1982 (S.I. 1982 No. 1084 (N.I. 16))
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Value Added Tax Act 1983 (c. 55)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - Industrial Training (Northern Ireland) Order 1984 (S.I. 1984 No. 1159 (N.I. 9))
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+  - Social Security (Northern Ireland) Order 1985 (S.I. 1985 No. 1209 (N.I. 16))
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+  - Social Security (Northern Ireland) Order 1986 (S.I. 1986 No. 1888 (N.I. 18))
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+  - Wages (Northern Ireland) Order 1988 (S.I. 1988 No. 796 (N.I. 7))
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+  - Social Security (Northern Ireland) Order 1988 (S.I. 1988 No. 594 (N.I. 2))
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - Social Security (Northern Ireland) Order 1989 (S.I. 1989 No. 1342 (N.I. 13))
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+  - Insolvency (Northern Ireland) Order 1989 (S.I. 1989 No. 2405 (N.I. 19))
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - Capital Allowances Act 1990 (c. 1)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+  - Social Security (Northern Ireland) Order 1990 (S.I. 1990 No. 1511 (N.I. 15))
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+- SCHEDULE 3 Transitional provisions and savings (including some transitional provisions retained from previous Acts and Orders)
+  - Part I General and miscellaneous
+    - Questions relating to contributions and benefits
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - General saving for old savings
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Documents referring to repealed enactments
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Provisions relating to the coming into force of other provisions
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Continuing powers to make transitional, etc. regulations
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Provisions contained in enactments by virtue of orders or regulations
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Amending orders made after passing of Act
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part II Specific transitional provisions and savings (including some derived from previous Acts and Orders)
+    - Interpretation
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Social Security Pensions (Northern Ireland) Order 1975
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Additional pensions
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Supersession of National Insurance Acts—provisions derived from Schedule 3 to former Consequential Provisions Act
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Industrial injuries - provision derived from paragraph 12 of Schedule 3 to 1986 Order
+      - [Sch. 3 para. 17A](schedule/3/paragraph/17A.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Attendance allowance - provision derived from Article 3 of Social Security (Northern Ireland) Order 1988
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Supplementary benefit and former housing-related benefits - provision derived from Article 18 of Social Security (Northern Ireland) Order 1989
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Substitution of disability living allowance for attendance allowance and mobility allowance and dissolution of Attendance Allowance Board - provision derived from Article 7 of Disability Living Allowance and Disability Working Allowance (Northern Ireland) Order 1991
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Regulations—supplementary
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 4 Transitory Modifications
+  - Part I Provisions not yet in force
+    - Introductory
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - The Contributions and Benefits Act
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - The Administration Act
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - This Act
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Part II Transition from mobility allowance to disability living allowance
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
