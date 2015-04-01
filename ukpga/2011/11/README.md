@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-01, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2015-03-26
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2015-04-01
 
 ## Contents
 
@@ -744,7 +744,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2015-03-26
       - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
     - Steps for determining the amount of the bank levy
       - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
-    - Special provision for chargeable periods falling wholly or partly before 1 January 2014
+    - Special provision for chargeable periods falling wholly or partly before 1 April 2015
       - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
   - Part 3 Groups covered by the bank levy
     - Definitions of “ UK banking group”, “building society group”, “foreign banking group” and “relevant non-banking group”
