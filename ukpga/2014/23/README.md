@@ -2,9 +2,9 @@
 
 2014 c. 23. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-01-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/23/2015-01-01
+Source: https://www.legislation.gov.uk/ukpga/2014/23/2015-04-01
 
 ## Contents
 
@@ -238,7 +238,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2015-01-01
     - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
   - Further provision about assessment notices, discharge notices, etc.
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
-- SCHEDULE 4
+- SCHEDULE 4 Direct payments: after-care under the Mental Health Act 1983
   - PART 1 After-care under the Mental Health Act 1983: direct payments
     - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
   - PART 2 Provision to be inserted in Social Services and Well-Being (Wales) Act 2014
