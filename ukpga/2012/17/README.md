@@ -1,0 +1,104 @@
+# Local Government Finance Act 2012
+
+2012 c. 17. Enacted 2012-10-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2012/17/2015-04-01
+
+## Contents
+
+- Non-domestic rating
+  - [s. 1 Local retention of non-domestic rates](section/1.md)
+  - [s. 2 Revenue support grant](section/2.md)
+  - [s. 3 Additional grant](section/3.md)
+  - [s. 4 General GLA grant](section/4.md)
+  - [s. 5 Local retention of non-domestic rates: further amendments](section/5.md)
+  - [s. 6 Definition of domestic property](section/6.md)
+  - [s. 7 Payments to and from authorities](section/7.md)
+  - [s. 8 Provision of information about non-domestic rates](section/8.md)
+- Council tax
+  - [s. 9 Council tax reduction schemes: review](section/9.md)
+  - [s. 10 Council tax reduction schemes](section/10.md)
+  - [s. 11 Power to determine further discounts for certain dwellings](section/11.md)
+  - [s. 12 Power to set higher amount for long-term empty dwellings](section/12.md)
+  - [s. 13 Mortgagee in possession to be liable for council tax](section/13.md)
+  - [s. 14 Regulations about powers to require information, offences and penalties](section/14.md)
+  - [s. 15 Calculation of billing authority’s council tax base](section/15.md)
+  - [s. 16 Provision of information about council tax](section/16.md)
+- Information sharing
+  - [s. 17 Power for HMRC to supply information for purposes of council tax](section/17.md)
+  - [s. 18 Power for HMRC to supply information for purposes of rates in Northern Ireland](section/18.md)
+- General
+  - [s. 19 Interpretation](section/19.md)
+  - [s. 20 Power to make transitional, consequential etc provision](section/20.md)
+  - [s. 21 Financial provisions](section/21.md)
+  - [s. 22 Extent and short title](section/22.md)
+- SCHEDULE 1 Local retention of non-domestic rates
+- SCHEDULE 2 Amendment of provisions about revenue support grant
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Local retention of non-domestic rates: further amendments
+  - Part 1 Amendments to Schedule 8 to the LGFA 1988 etc
+    - LGFA 1988
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Non-Domestic Rating Act 1992 (c. 46)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Consequential revocation and repeal
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Part 2 Other amendments
+    - LGFA 1988
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - LGFA 1992
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Audit Commission Act 1998 (c. 18)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - Local Government Act 2003 (c. 26)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+- SCHEDULE 4 Amendments relating to council tax reduction schemes
+  - Part 1 Schedules to be inserted into the LGFA 1992
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part 2 Other amendments
+    - LGFA 1988
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - LGFA 1992
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Local Government Act 2003 (c. 26)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
