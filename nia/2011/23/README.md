@@ -1,0 +1,194 @@
+# Clean Neighbourhoods and Environment Act (Northern Ireland) 2011
+
+nia/2011/23. Enacted 2011-05-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2011/23/2015-04-01
+
+## Contents
+
+- PART 1 GATING ORDERS
+  - [s. 1 Gating orders](section/1.md)
+- PART 2 VEHICLES
+  - Nuisance parking offences
+    - [s. 2 Exposing vehicles for sale on a road](section/2.md)
+    - [s. 3 Repairing vehicles on a road](section/3.md)
+  - Nuisance parking offences: fixed penalty notices
+    - [s. 4 Power to give fixed penalty notices](section/4.md)
+    - [s. 5 Power to require name and address](section/5.md)
+    - [s. 6 Use of fixed penalty receipts](section/6.md)
+  - Abandoned vehicles
+    - [s. 7 Offence of abandoning a vehicle: fixed penalty notices](section/7.md)
+    - [s. 8 Notice of removal of vehicle by district council](section/8.md)
+    - [s. 9 Disposal of removed vehicle by district council](section/9.md)
+    - [s. 10 Guidance](section/10.md)
+  - Illegally parked vehicles
+    - [s. 11 Notice of removal of vehicle](section/11.md)
+    - [s. 12 Disposal of vehicle by police officer](section/12.md)
+    - [s. 13 Disposal of vehicle by Department](section/13.md)
+- PART 3 LITTER
+  - Offence of dropping litter
+    - [s. 14 Offence of dropping litter in lake, pond or watercourse](section/14.md)
+    - [s. 15 Penalty for failing to provide name](section/15.md)
+    - [s. 16 Litter offence: fixed penalty notice](section/16.md)
+  - District council notices
+    - [s. 17 Litter clearing notices](section/17.md)
+    - [s. 18 Street litter control notices](section/18.md)
+    - [s. 19 Street litter: supplementary provisions](section/19.md)
+    - [s. 20 Failure to comply with notice: fixed penalty notices](section/20.md)
+  - Free distribution of printed matter
+    - [s. 21 Controls on free distribution of printed matter](section/21.md)
+  - Fixed penalty notices: supplementary
+    - [s. 22 Fixed penalty notices: supplementary](section/22.md)
+  - Exclusion of liability for district councils
+    - [s. 23 Exclusion of liability](section/23.md)
+  - Shopping and luggage trolleys
+    - [s. 24 Abandoned shopping and luggage trolleys](section/24.md)
+    - [s. 25 Section 24: transitional provision](section/25.md)
+- PART 4 GRAFFITI AND OTHER DEFACEMENT
+  - Penalty notices for graffiti and fly-posting
+    - [s. 26 Penalty notices for graffiti and fly-posting](section/26.md)
+    - [s. 27 Amount of penalty](section/27.md)
+    - [s. 28 Penalty notices: power to require name and address](section/28.md)
+    - [s. 29 Penalty receipts](section/29.md)
+    - [s. 30 Guidance](section/30.md)
+  - Removal of graffiti and fly-posters
+    - [s. 31 Defacement removal notices](section/31.md)
+    - [s. 32 Recovery of expenditure](section/32.md)
+    - [s. 33 Guidance](section/33.md)
+    - [s. 34 Appeals](section/34.md)
+    - [s. 35 Exemption from liability in relation to defacement removal notices](section/35.md)
+    - [s. 36 Removal or obliteration of graffiti, placards and posters](section/36.md)
+  - Aerosol paints
+    - [s. 37 Sale of aerosol paint to children](section/37.md)
+  - Advertisements
+    - [s. 38 Unlawful display of advertisements](section/38.md)
+  - Supplementary
+    - [s. 39 Power of district councils to obtain information](section/39.md)
+- PART 5 DOGS
+  - Dog control orders
+    - [s. 40 Power to make dog control orders](section/40.md)
+    - [s. 41 Dog control orders: supplementary](section/41.md)
+    - [s. 42 Land to which this Part applies](section/42.md)
+  - Fixed penalty notices
+    - [s. 43 Fixed penalty notices for contravention of dog control order](section/43.md)
+    - [s. 44 Amount of fixed penalties](section/44.md)
+    - [s. 45 Power to require name and address](section/45.md)
+  - Supplementary
+    - [s. 46 Byelaws](section/46.md)
+    - [s. 47 Power of district councils to obtain information](section/47.md)
+- PART 6 NOISE
+  - CHAPTER 1 AUDIBLE INTRUDER ALARMS
+    - Alarm notification areas
+      - [s. 48 Designation of alarm notification areas](section/48.md)
+      - [s. 49 Withdrawal of designation](section/49.md)
+      - [s. 50 Notification of nominated key-holders](section/50.md)
+      - [s. 51 Nomination of key-holders](section/51.md)
+      - [s. 52 Offences under section 50: fixed penalty notices](section/52.md)
+      - [s. 53 Amount of fixed penalty](section/53.md)
+      - [s. 54 Use of fixed penalty receipts](section/54.md)
+      - [s. 55 Fixed penalty notices: power to require name and address](section/55.md)
+    - Powers in relation to alarms
+      - [s. 56 Power of entry](section/56.md)
+      - [s. 57 Warrant to enter premises by force](section/57.md)
+      - [s. 58 Powers of entry: supplementary](section/58.md)
+    - Interpretation of Chapter
+      - [s. 59 Interpretation of this Chapter](section/59.md)
+  - CHAPTER 2 AMENDMENTS TO THE NOISE ACT 1996
+    - [s. 60 Dealing with noise at night](section/60.md)
+    - [s. 61 Noise offences: fixed penalty notices](section/61.md)
+    - [s. 62 Extension of Noise Act 1996 to licensed premises etc.](section/62.md)
+- PART 7 STATUTORY NUISANCES
+  - [s. 63 Statutory nuisances](section/63.md)
+  - [s. 64 Duty of district council to inspect for statutory nuisance](section/64.md)
+  - [s. 65 Summary proceedings for statutory nuisances](section/65.md)
+  - [s. 66 Abatement notice in respect of noise in the street](section/66.md)
+  - [s. 67 Supplementary provisions](section/67.md)
+  - [s. 68 Expenses recoverable from owner to be a charge on premises](section/68.md)
+  - [s. 69 Payment of expenses by instalments](section/69.md)
+  - [s. 70 Summary proceedings by persons aggrieved by statutory nuisances](section/70.md)
+  - [s. 71 Application of this Part to Crown](section/71.md)
+- PART 8 MISCELLANEOUS AND SUPPLEMENTARY
+  - Use of fixed penalty receipts
+    - [s. 72 Use of penalty receipts](section/72.md)
+  - Increase of penalty for pollution offences
+    - [s. 73 Offences relating to pollution etc.: penalties on conviction](section/73.md)
+  - Offences by bodies corporate
+    - [s. 74 Offences by bodies corporate](section/74.md)
+  - Supplementary
+    - [s. 75 Regulations and orders](section/75.md)
+    - [s. 76 Interpretation](section/76.md)
+    - [s. 77 Minor and consequential amendments and repeals](section/77.md)
+    - [s. 78 Commencement](section/78.md)
+    - [s. 79 Short title](section/79.md)
+- SCHEDULE 1 APPLICATION OF THE NOISE ACT 1996 TO LICENSED PREMISES ETC.
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 STATUTORY NUISANCES: SUPPLEMENTARY PROVISIONS
+  - Appeals to a court of summary jurisdiction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Powers of entry etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Offences relating to entry
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Default powers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Protection from personal liability
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Statement of right of appeal in notices
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 VEHICLES
+    - The Pollution Control and Local Government (Northern Ireland) Order 1978 (NI 19)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - PART 2 LITTER
+    - The Litter (Northern Ireland) Order 1994 (NI 10)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - PART 3 STATUTORY NUISANCE
+    - The Housing of the Working Classes Act 1885 (c. 72)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - The Public Health Acts Amendment Act 1907 (c. 53)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - The Office and Shop Premises Act (Northern Ireland) 1966 (c. 26)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - The Hovercraft Act 1968 (c. 59)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - The Mines Act (Northern Ireland) 1969 (c. 6)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - The Pollution Control and Local Government (Northern Ireland) Order 1978 (NI 19)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - The Clean Air (Northern Ireland) Order 1981 (NI 4)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - The Quarries (Northern Ireland) Order 1983 (NI 4)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - The Housing (Northern Ireland) Order 1992 (NI 15)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - The Radioactive Substances Act 1993 (c. 12)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - The Noise Act 1996 (c. 37)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - The Housing (Northern Ireland) Order 2003 (NI 2)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - The Private Tenancies (Northern Ireland) Order 2006 (NI 10)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 REPEALS
+  - PART 1 VEHICLES
+  - PART 2 LITTER
+  - PART 3 DOGS
+  - PART 4 NOISE
+  - PART 5 STATUTORY NUISANCES
