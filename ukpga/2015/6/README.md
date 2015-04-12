@@ -2,9 +2,9 @@
 
 2015 c. 6. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-03-31, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/6` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-12, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/6` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-03-31
+Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-04-12
 
 ## Contents
 
@@ -187,12 +187,17 @@ Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-03-31
   - Health and social care
   - Police
 - SCHEDULE 7 Partners of local panels
-  - Ministers of the Crown and government departments
-  - Local government
-  - Criminal justice
-  - Education, child care etc
-  - Health and social care
-  - Police
+  - PART 1 GENERAL; ENGLAND AND WALES
+    - Ministers of the Crown and government departments
+    - Local government
+    - Criminal justice
+    - Education, child care etc
+    - Health and social care
+    - Police
+  - PART 2 SCOTLAND
+    - Criminal Justice
+    - Education, child care etc
+    - Health and social care
 - SCHEDULE 8 Port and border controls: power to examine goods
   - Terrorism Act 2000 (c. 11)
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
