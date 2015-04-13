@@ -1,0 +1,151 @@
+# Children and Young Persons Act 1963
+
+1963 c. 37. Enacted 1963-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-04-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1963/37
+
+Source: https://www.legislation.gov.uk/ukpga/1963/37/2015-04-13
+
+## Contents
+
+- Part I Care and Control of Children and Young Persons
+  - [s. 1 ................................](section/1.md)
+  - Children and young persons in need of care, protection or control
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Juvenile courts and proceedings in connection with children and young persons
+    - [s. 16 Offences committed by children.](section/16.md)
+    - [s. 17 Constitution and place of sitting of juvenile courts.](section/17.md)
+    - [s. 18 Jurisdiction of magistrates’ courts in certain cases involving children and young persons.](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 Attendance at court of parents of child or young person brought before court.](section/25.md)
+    - [s. 26 Medical evidence by certificate.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Form of oath for use in juvenile courts and by children and young persons in other courts.](section/28.md)
+    - [s. 29 Provisions as to persons between the ages of 17 and 18.](section/29.md)
+    - [s. 30 ................................](section/30.md)
+  - Increase of certain penalties
+    - [s. 31 Increase of penalty for cruelty.](section/31.md)
+    - [s. 32 Increase of penalty for sales of tobacco, etc., to persons under 16.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+- Part II Employment of Children and Young Persons
+  - General provisions as to employment
+    - [s. 34 Hours of employment.](section/34.md)
+    - [s. 35 Street trading.](section/35.md)
+    - [s. 36 Increase of certain penalties.](section/36.md)
+  - Entertainment
+    - [s. 37 Restriction on persons under 16 taking part in public performances, etc.](section/37.md)
+    - [s. 38 Restriction on licences for performances by children under 14.](section/38.md)
+    - [s. 39 Supplementary provisions as to licences under section 37.](section/39.md)
+    - [s. 40 Offences.](section/40.md)
+    - [s. 41 Licences for training persons between 12 and 16 for performances of a dangerous nature.](section/41.md)
+    - [s. 42 Licences for children and young persons performing abroad.](section/42.md)
+    - [s. 43 Extended powers of entry.](section/43.md)
+  - Construction of Part II
+    - [s. 44 Construction of Part II.](section/44.md)
+- Part III Miscellaneous and General
+  - [s. 45 ................................](section/45.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - Children and young persons escaping to other parts of British Islands
+    - [s. 53 Arrest in one part of British Islands of children or young persons escaping in other part.](section/53.md)
+  - Amendment of Adoption Act 1958
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 Emigration with consent of Secretary of State.](section/55.md)
+  - Miscellaneous
+    - [s. 56 Prosecution of offences under Part I or Part II of principal Act.](section/56.md)
+    - [s. 57 Newspaper and broadcast reports of proceedings involving children.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+  - Supplementary provisions
+    - [s. 60 Expenses.](section/60.md)
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 Interpretation.](section/63.md)
+    - [s. 64 †Amendments, transitional provisions, and repeals.](section/64.md)
+    - [s. 65 Citation, construction, commencement and extent.](section/65.md)
+- SCHEDULE 1
+- Schedule 2 CONSTITUTION OF JUVENILE COURTS
+  - Part I OUTSIDE METROPOLITAN AREA
+    - Juvenile court panels
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Combined juvenile court panels
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Effect of order establishing combined panel
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Restrictions on formation of combined panels
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Consultations and notices
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Part II Metropolitan Area
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Part III General
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- Schedule 3 Minor and Consequential Amendments
+  - The Principal Act
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - The principal Scottish Act
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - The Children Act 1948
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+  - The Criminal Justice (Scotland) Act 1949
+    - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+    - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+    - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+  - the Criminal Justice Act 1961
+    - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+    - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+- SCHEDULE 4
+- SCHEDULE 5
