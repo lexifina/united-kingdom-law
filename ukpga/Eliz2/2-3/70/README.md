@@ -1,0 +1,266 @@
+# Mines and Quarries Act 1954
+
+1954 c. 70. Enacted 1954-11-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-05-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/2-3/70
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/2015-05-26
+
+## Contents
+
+- Part I General Duties of Mine and Quarry Owners
+  - [s. 1 ................................](section/1.md)
+- Part II Management and Control (Mines)
+  - Managers and Under-managers
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+  - Surveyors
+    - [s. 11 ................................](section/11.md)
+  - Officials and Technicians
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+  - Provisions ancillary to foregoing Sections
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+  - Plans
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Faulty plans.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+- Part III Safety, Health and Welfare (Mines)
+  - Provisions for securing safe Ingress and Egress
+    - [s. 22 Provision of shafts and outlets in coal, &c., mines.](section/22.md)
+    - [s. 23 Communications between shafts and outlets in coal, &c., mines.](section/23.md)
+    - [s. 24 Limitation on number of persons to be employed at coal, &c., mines in places with single exits.](section/24.md)
+    - [s. 25 Limitation on number of persons to be employed at coal, &c., mines in shafts and outlets and their insets.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Provision of winding and haulage apparatus.](section/28.md)
+    - [s. 29 ................................](section/29.md)
+  - Safety Precautions in connection with Shafts, &c., and Entrances to disused Workings
+    - [s. 30 Securing of shafts and staple-pits.](section/30.md)
+    - [s. 31 Safety precautions with respect to entrances to shafts, staple-pits and outlets.](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Safety precautions with respect to entrances to unfit parts of mines.](section/33.md)
+  - Roads
+    - [s. 34 General provisions with respect to construction and maintenance of roads.](section/34.md)
+    - [s. 35 Height and width of travelling roads.](section/35.md)
+    - [s. 36 Prohibition of use of vehicles and conveyors in roads not affording free movement.](section/36.md)
+    - [s. 37 Transport rules.](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 Provisions for securing safety of foot-passengers in transport roads.](section/39.md)
+    - [s. 40 Provision of refuge holes.](section/40.md)
+    - [s. 41 Safety measures relating to use of vehicles.](section/41.md)
+  - Provisions for securing safe operation of Winding and Rope Haulage Apparatus and Conveyors
+    - [s. 42 Charge of winding and rope haulage apparatus when persons are carried.](section/42.md)
+    - [s. 43 Charge of winding and rope haulage apparatus when persons are not carried.](section/43.md)
+    - [s. 44 Charge of conveyors at working faces.](section/44.md)
+    - [s. 45 Signalling in shafts and outlets.](section/45.md)
+    - [s. 46 Signalling in roads.](section/46.md)
+    - [s. 47 ................................](section/47.md)
+  - Support
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+  - Ventilation
+    - [s. 55 Duty to provide adequate ventilation.](section/55.md)
+    - [s. 56 Avoidance of danger from gas in waste.](section/56.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 Provisions as to means of ventilation.](section/58.md)
+    - [s. 59 Prevention of leakage of air between airways.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Lighting, Lamps and Contraband
+    - [s. 61 Lighting.](section/61.md)
+    - [s. 62 Permitted lights.](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 Prohibition of taking into mines safety-lamps not provided by owner or of approved type.](section/64.md)
+    - [s. 65 Offences relating to safety-lamps.](section/65.md)
+    - [s. 66 Prohibition of possession of smoking materials in certain mines and parts of mines.](section/66.md)
+    - [s. 67 Prohibition of taking into certain mines and parts of mines of articles producing flames or sparks.](section/67.md)
+    - [s. 68](section/68.md)
+  - Blasting Materials and Devices
+    - [s. 69 Blasting materials and devices.](section/69.md)
+  - Fire Precautions and Provisions as to Rescue
+    - [s. 70 Fire precautions in case of workings served by single intake airway.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 Fire-fighting and rescue operations.](section/72.md)
+    - [s. 73 Means of escape from rooms in which there is special risk of fire, &c.](section/73.md)
+  - Dust Precautions
+    - [s. 74 Dust precautions.](section/74.md)
+  - Precautions against external Dangers to Workings
+    - [s. 7577. ................................](section/7577.md)
+    - [s. 78 ................................](section/78.md)
+  - Duties of Officials and Workmen in Cases of Danger
+    - [s. 79 Withdrawal of workmen in cases of danger.](section/79.md)
+    - [s. 80 Duty of workmen to deal with, or report, danger.](section/80.md)
+  - Machinery and Apparatus
+    - [s. 81 Construction, maintenance, &c., of machinery and apparatus.](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 Restrictions on use below ground of certain engines, &c.](section/83.md)
+    - [s. 84 Air, gas and steam containers.](section/84.md)
+    - [s. 85 ................................](section/85.md)
+  - Buildings, Structures, Means of Access, &c.
+    - [s. 86 Buildings and structures to be kept safe.](section/86.md)
+    - [s. 87 Safe means of access and safe means of employment.](section/87.md)
+  - Training and Discipline
+    - [s. 88 Restriction on doing of work by unskilled persons.](section/88.md)
+    - [s. 89 Penalization of failure to observe safety directions, &c.](section/89.md)
+    - [s. 90 Penalization of negligent acts or omissions and unauthorised removal, &c.,ofarticles.](section/90.md)
+  - First Aid
+    - [s. 91 ................................](section/91.md)
+  - Medical Examinations and Prohibition of Heavy Work
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 ................................](section/93.md)
+  - General Welfare Provisions
+    - [s. 94 Sanitary conveniences.](section/94.md)
+    - [s. 95 Measures against vermin and insects.](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 Supply of drinking water.](section/97.md)
+- Part IV Management and Control (Quarries)
+  - [s. 98 ................................](section/98.md)
+  - [s. 99 ................................](section/99.md)
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 ................................](section/102.md)
+  - [s. 103 ................................](section/103.md)
+  - [s. 104 ................................](section/104.md)
+  - [s. 105 ................................](section/105.md)
+  - [s. 106 ................................](section/106.md)
+  - [s. 107 ................................](section/107.md)
+- Part V Safety, Health and Welfare (Quarries)
+  - [s. 108 ................................](section/108.md)
+  - [s. 109 ................................](section/109.md)
+  - [s. 110 ................................](section/110.md)
+  - [s. 111 ................................](section/111.md)
+  - [s. 112 Dust precautions.](section/112.md)
+  - [s. 113 ................................](section/113.md)
+  - [s. 114 ................................](section/114.md)
+  - [s. 115 ................................](section/115.md)
+- Part VI Notification and Investigation of Accidents and Diseases
+  - Notification
+    - [s. 116122. ................................](section/116122.md)
+- Part VII Workmen’s Inspections
+  - [s. 123 Inspections of mines and quarries on behalf of workmen employed thereat.](section/123.md)
+- Part VIII Employment of Women and Young Persons
+  - Prohibition of Employment below Ground
+    - [s. 124 Prohibition of employment below ground in certain cases.](section/124.md)
+  - Hours of Work
+    - [s. 125128. Provisions as to hours worked by women and young persons.](section/125128.md)
+  - Special Exceptions
+    - [s. 129 ................................](section/129.md)
+    - [s. 130 Special exception for emergencies.](section/130.md)
+  - Miscellaneous Provisions
+    - [s. 131 Register of women and young persons employed.](section/131.md)
+    - [s. 132 Supplemental.](section/132.md)
+- Part IX Records, Returns and Information
+  - [s. 133 ................................](section/133.md)
+  - [s. 134 ................................](section/134.md)
+  - [s. 135 ................................](section/135.md)
+  - [s. 136 ................................](section/136.md)
+  - [s. 137 Furnishing to workers of information with respect to this Act and orders and regulations thereunder.](section/137.md)
+  - [s. 138 ................................](section/138.md)
+  - [s. 139 ................................](section/139.md)
+  - [s. 140 ................................](section/140.md)
+- Part X Regulations
+  - [s. 141 Regulations.](section/141.md)
+  - [s. 142 ................................](section/142.md)
+  - [s. 143 Variation, revocation, &c., of regulations.](section/143.md)
+- Part XI
+  - [s. 144145. ................................](section/144145.md)
+  - [s. 146 ................................](section/146.md)
+- Part XII Grant, Cancellation and Suspension of Certificates
+  - [s. 147 ................................](section/147.md)
+  - [s. 148 ................................](section/148.md)
+  - [s. 149 ................................](section/149.md)
+  - [s. 150 Cancellation or suspension of certificates.](section/150.md)
+- Part XIII Fencing of Abandoned and Disused Mines and of Quarries
+  - [s. 151 Fencing of abandoned and disused mines and of quarries.](section/151.md)
+- Part XIV Offences, Penalties and Legal Proceedings
+  - [s. 152 Offences.](section/152.md)
+  - [s. 153 Accessories.](section/153.md)
+  - [s. 154 Supplementary provisions as to offences.](section/154.md)
+  - [s. 155 Penalty for offences for which no express penalty is provided.](section/155.md)
+  - [s. 156 Defence available to person charged with offence not committed personally.](section/156.md)
+  - [s. 157 Persons not to be under liability for contraventions which it was impracticable to avoid or prevent.](section/157.md)
+  - [s. 158 ................................](section/158.md)
+  - [s. 159 Liability of owners for breaches of statutory duty by their servants.](section/159.md)
+  - [s. 160 Liability of parents for unlawful employment of young persons](section/160.md)
+  - [s. 161 ................................](section/161.md)
+  - [s. 162 ................................](section/162.md)
+  - [s. 163 Prosecution of offences.](section/163.md)
+  - [s. 164 Restriction on institution of certain proceedings.](section/164.md)
+  - [s. 165 Duty to report results of proceedings against persons employed at mines or quarries.](section/165.md)
+  - [s. 166 Liability of parents for unlawful employment of children.](section/166.md)
+  - [s. 167 ................................](section/167.md)
+- Part XV Miscellaneous and General
+  - Supplementary Provisions
+    - [s. 168 Division of mines.](section/168.md)
+    - [s. 169 ................................](section/169.md)
+    - [s. 170 Provisions as to references upon notices served by inspectors.](section/170.md)
+    - [s. 171 Provisions as to knowledge by officials, &c., of Welsh language.](section/171.md)
+    - [s. 172 ................................](section/172.md)
+    - [s. 173 Revocation and variation of orders and rules.](section/173.md)
+    - [s. 174 †Parliamentary control of orders, rules and regulations.](section/174.md)
+    - [s. 175 ................................](section/175.md)
+    - [s. 176 Provisions as to exemptions, &c.](section/176.md)
+    - [s. 177 ................................](section/177.md)
+    - [s. 178 Expenses and receipts.](section/178.md)
+    - [s. 179 Application to the Crown.](section/179.md)
+  - Interpretation
+    - [s. 180 Meaning of “mine”](section/180.md)
+    - [s. 181 Meaning of “owner”.](section/181.md)
+    - [s. 182 General interpretation provisions.](section/182.md)
+    - [s. 183 Application of Act to training mines.](section/183.md)
+  - Relationship of Factories Acts and this Act in case of certain premises
+    - [s. 184 ................................](section/184.md)
+  - Repeals, Savings, Transitional Provisions, &c.
+    - [s. 185 ................................](section/185.md)
+    - [s. 186 Repeal of s. 21 of 16 & 17 Geo. 5. c. 28.](section/186.md)
+    - [s. 187 ................................](section/187.md)
+    - [s. 188 Minor and consequential amendments of other enactments.](section/188.md)
+    - [s. 189 ................................](section/189.md)
+    - [s. 190 ................................](section/190.md)
+    - [s. 191 General savings.](section/191.md)
+    - [s. 192 Saving for persons managing certain small mines at commencement of this Act.](section/192.md)
+    - [s. 193 Saving for common law rights of workmen, &c.](section/193.md)
+    - [s. 194 Commencement.](section/194.md)
+    - [s. 195 Short title and extent.](section/195.md)
+- FIRST AND SECOND SCHEDULES
+- THIRD SCHEDULE Inquiries into Fitness of Holders of Certificates and Delivery up and Custody of Certificates in connection with Prosecutions and Inquiries.
+  - Part I Inquiries into Fitness of Holders of Certificates
+    - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+    - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+    - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+    - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+    - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+    - [Sch. THIRD para. 6](schedule/THIRD/paragraph/6.md)
+    - [Sch. THIRD para. 7](schedule/THIRD/paragraph/7.md)
+    - [Sch. THIRD para. 8](schedule/THIRD/paragraph/8.md)
+    - [Sch. THIRD para. 9](schedule/THIRD/paragraph/9.md)
+    - [Sch. THIRD para. 10](schedule/THIRD/paragraph/10.md)
+  - Part II Delivery up and Custody of Certificates in Connection with Prosecutions and Inquiries
+    - [Sch. THIRD para. 11](schedule/THIRD/paragraph/11.md)
+    - [Sch. THIRD para. 12](schedule/THIRD/paragraph/12.md)
+    - [Sch. THIRD para. 13](schedule/THIRD/paragraph/13.md)
+    - [Sch. THIRD para. 14](schedule/THIRD/paragraph/14.md)
+    - [Sch. THIRD para. 15](schedule/THIRD/paragraph/15.md)
+    - [Sch. THIRD para. 16](schedule/THIRD/paragraph/16.md)
+  - Part III Modifications of Parts I and II for the Purposes of their Application to Scotland
+    - [Sch. THIRD para. 17](schedule/THIRD/paragraph/17.md)
+- FOURTH SCHEDULE Minor and Consequential Amendments of Enactments
+- FIFTH SCHEDULE
