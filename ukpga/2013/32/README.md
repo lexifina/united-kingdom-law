@@ -2,9 +2,9 @@
 
 2013 c. 32. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-04-30, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-05-26, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/32/2015-04-30
+Source: https://www.legislation.gov.uk/ukpga/2013/32/2015-05-26
 
 ## Contents
 
