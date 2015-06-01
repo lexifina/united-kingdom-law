@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-05-27, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-06-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-05-27
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-06-01
 
 ## Contents
 
@@ -286,7 +286,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-05-27
       - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
     - Protection from harassment
       - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
-    - Gang-related violence
+    - Gang-related violence and drug-dealing activity
       - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
     - Sexual offences
       - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
