@@ -2,9 +2,9 @@
 
 2015 c. 6. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-04-13, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/6` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-07-01, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/6` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-04-13
+Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-07-01
 
 ## Contents
 
@@ -181,11 +181,18 @@ Source: https://www.legislation.gov.uk/ukpga/2015/6/2015-04-13
       - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
       - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
 - SCHEDULE 6 Specified authorities
-  - Local government
-  - Criminal justice
-  - Education, child care etc
-  - Health and social care
-  - Police
+  - PART 1 GENERAL; ENGLAND AND WALES
+    - Local government
+    - Criminal justice
+    - Education, child care etc
+    - Health and social care
+    - Police
+  - PART 2 SCOTLAND
+    - Local government
+    - Criminal justice
+    - Education, child care etc
+    - Health and social care
+    - Police
 - SCHEDULE 7 Partners of local panels
   - PART 1 GENERAL; ENGLAND AND WALES
     - Ministers of the Crown and government departments
