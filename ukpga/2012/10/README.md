@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-07-30, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-07-31, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-07-30
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-07-31
 
 ## Contents
 
@@ -278,6 +278,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2015-07-30
       - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
     - Victims of trafficking in human beings
       - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Victims of slavery, servitude or forced or compulsory labour
+      - [Sch. 1 para. 32A](schedule/1/paragraph/32A.md)
     - Loss of home
       - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
     - Homelessness
