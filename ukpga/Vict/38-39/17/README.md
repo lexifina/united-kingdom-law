@@ -1,0 +1,169 @@
+# Explosives Act 1875
+
+1875 c. 17. Enacted 1875-06-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-08-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Vict/38-39/17
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/38-39/17/2015-08-17
+
+## Contents
+
+- Preliminary
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Substances to which this Act applies.](section/3.md)
+- Part I.—Law relating to Gunpowder
+  - General Law as to Manufacture and Keeping of Gunpowder
+    - [s. 4 Gunpowder to be manufactured only at factory lawfully existing or licensed under this Act.](section/4.md)
+    - [s. 5 Gunpowder (except for private use) to be kept only in existing or new magazine or store, or in registered premises.](section/5.md)
+  - Licensing of Factories and Magazines for Gunpowder
+    - [s. 6 Application for license for new factory or magazine.](section/6.md)
+    - [s. 7 Application for assent of local authority to site of new factory or magazine.](section/7.md)
+    - [s. 8 Grant and confirmation of license.](section/8.md)
+  - Regulation of Factories and Magazines for Gunpowder
+    - [s. 9 Regulation of factories and magazines for gunpowder.](section/9.md)
+    - [s. 10 General rules for factories and magazines.](section/10.md)
+    - [s. 11 Special rules for regulation of workmen in factory or magazineb.](section/11.md)
+  - Supplemental as to Factories and Magazines for Gunpowder
+    - [s. 12 Alteration of terms of license and enlargement of factory or magazine.](section/12.md)
+    - [s. 13 Devolution and determination of license.](section/13.md)
+  - Application of Act to existing Factories and Magazines for Gunpowder
+    - [s. 14 Continuing certificate for existing factories and magazines.](section/14.md)
+  - Consumers Stores for Gunpowder Licensing and Regulation of Stores
+    - [s. 15 Store license to be obtained from local authority.](section/15.md)
+    - [s. 16 Order in Council prescribing situation and construction of stores.](section/16.md)
+    - [s. 17 General rules for stores.](section/17.md)
+    - [s. 18 Non–transferability, renewal, and forms of store licenses.](section/18.md)
+    - [s. 19 Special rules for regulation of workmen in stores.](section/19.md)
+  - Application of Act to existing Stores for Gunpowder
+    - [s. 20 Definition of and continuing certificate for existing stores which are to be subject to this Act.](section/20.md)
+  - Retail Dealing with Gunpowder Registration and Regulation of Registered Premises
+    - [s. 21 Registration of premises with local authority.](section/21.md)
+    - [s. 22 General rules for registered premises.](section/22.md)
+  - Supplemental Provisions
+    - [s. 23](section/23.md)
+    - [s. 24 Explanation as to quantities of gunpowder allowed in buildings.](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Fees for licenses.](section/26.md)
+    - [s. 27 Adjoining places occupied together to be one place.](section/27.md)
+    - [s. 28 Register of store licenses and registered premises to be kept by local authority.](section/28.md)
+    - [s. 29 Provision in case of death, &c. of occupier of store or registered premises.](section/29.md)
+  - Sale of Gunpowder
+    - [s. 30 Restriction on sale of gunpowder in highways, &c.](section/30.md)
+    - [s. 31 Penalty for sale of gunpowder to children.](section/31.md)
+    - [s. 32 Sale of gunpowder to be in closed packages labelled.](section/32.md)
+  - Conveyance of Gunpowder
+    - [s. 33 General rules as to packing of gunpowder for conveyance.](section/33.md)
+    - [s. 34 Byelaws by harbour authority as to conveyance, loading, &c. of gunpowder.](section/34.md)
+    - [s. 35 Byelaws by railway and canal company as to conveyance, loading, &c. of gunpowder.](section/35.md)
+    - [s. 36 Byelaws as to wharves in which gunpowder is loaded or unloaded.](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 Confirmation and publication of byelaws.](section/38.md)
+- Part II.—Law relating to other Explosives
+  - Application of Part I. to other Explosives
+    - [s. 39 Part I. relating to gunpowder applied to other explosives.](section/39.md)
+    - [s. 40 Modification of Part I. as applied to explosives other than gunpowder.](section/40.md)
+    - [s. 41 Exception of safety cartridges](section/41.md)
+    - [s. 42 ................................](section/42.md)
+  - Specially dangerous Explosives
+    - [s. 43 Power to prohibit manufacture, importation, storage, and carriage of specially dangerous explosives.](section/43.md)
+  - Provisions in favour of certain Manufacturers and Dealers
+    - [s. 44 Provision in favour of makers, &c. of blasting cartridges.](section/44.md)
+    - [s. 45 Provision in favour of makers of new explosive for experiment.](section/45.md)
+    - [s. 46 Provision in favour of gunmakers, &c. making cartridges.](section/46.md)
+    - [s. 47 Provision in favour of owners of mines and quarries, as to making charges, &c. for blasting.](section/47.md)
+    - [s. 48 Provision in favour of small firework manufacturer who may obtain a license from the local authority.](section/48.md)
+    - [s. 49 †Licensing by local authority and regulation of small firework factories.](section/49.md)
+    - [s. 50 Keeping without a license and conveyance of percussion caps, &c.](section/50.md)
+  - Existing Factories, Magazines, and Stores
+    - [s. 51 Application of Part I. of the Act to existing factories and magazines.](section/51.md)
+    - [s. 52 ................................](section/52.md)
+- Part III.—Administration of Law
+  - Government Supervision
+    - [s. 53 ................................](section/53.md)
+    - [s. 58 Inspection by railway inspectors or inspectors of Board of Trade.](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 †License and special rules certified by Government inspector to be evidence.](section/60.md)
+    - [s. 61 †Keeping and carriage of samples by Government inspector.](section/61.md)
+    - [s. 62 ................................](section/62.md)
+  - Accidents
+    - [s. 63 Notice to be given of accidents connected with explosive.](section/63.md)
+    - [s. 64 Reconstruction of buildings destroyed by accident.](section/64.md)
+    - [s. 65](section/65.md)
+  - Local Supervision
+    - [s. 67 Definition of local authority.](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 †Duty of local authority and power of officer.](section/69.md)
+    - [s. 70 Expenses of local authority.](section/70.md)
+  - Power of Local Authority to provide Carriages and Magazines
+    - [s. 71 Undertaking of carriage by harbour authority and canal company.](section/71.md)
+    - [s. 72 Provision of magazines by local authority.](section/72.md)
+  - General Power of Search
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 Seizure and detention of explosives liable to forfeiture.](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ...](section/76.md)
+- Part IV.—Supplemental Provisions, Legal Proceedings, Exemptions, and Definitions
+  - Supplemental Provisions
+    - [s. 77 Penalty on and removal of trespassers.](section/77.md)
+    - [s. 78 Arrest without warrant of persons committing dangerous offences.](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 Penalty for throwing fireworks in thoroughfare.](section/80.md)
+    - [s. 81 ...](section/81.md)
+    - [s. 82 †Punishment for defacing notices.](section/82.md)
+    - [s. 83 Provisions as to Orders in Council and orders of Secretary of State.](section/83.md)
+    - [s. 84 Publication of byelaws, notices, &c.](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 Construction of enactments referring to powers of searching for gunpowder.](section/86.md)
+  - Legal Proceedings
+    - [s. 87 ................................](section/87.md)
+    - [s. 89 Supplemental provisions as to forfeiture of explosive.](section/89.md)
+    - [s. 90 Jurisdiction in tidal waters or on boundaries.](section/90.md)
+    - [s. 91 Prosecution of offences either summarily or on indictment.](section/91.md)
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 ................................](section/94.md)
+    - [s. 95 Distress of ship.](section/95.md)
+    - [s. 96 Application of penalties and disposal of forfeitures.](section/96.md)
+  - Exemptions and Savings
+    - [s. 97 Exemption of Government factories, &c. from the Act.](section/97.md)
+    - [s. 98 Saving for rocket and fog stations.](section/98.md)
+    - [s. 99 ................................](section/99.md)
+    - [s. 100 Saving for master of ship and carrier in case of emergency.](section/100.md)
+    - [s. 101 Saving for rockets, gunpowder, &c. on board ship in compliance with 17 & 18 Vict. c. 104.](section/101.md)
+    - [s. 102 Saving clause as to liability.](section/102.md)
+    - [s. 103 Powers of Act cumulative, with power to make provisional order for repealing local Acts.](section/103.md)
+  - Definitions
+    - [s. 104 Extension of definition of explosive to other explosive substances.](section/104.md)
+    - [s. 105 Persons carrying on certain processes to be deemed manufacturers.](section/105.md)
+    - [s. 106 Definition and classification of explosives by Order in Council.](section/106.md)
+    - [s. 107 ................................](section/107.md)
+    - [s. 108 General definitions.](section/108.md)
+  - Application of Act to Scotland
+    - [s. 109 Definitions.](section/109.md)
+    - [s. 110 Local authority.](section/110.md)
+    - [s. 111 Expenses of local authority.](section/111.md)
+    - [s. 112 ................................](section/112.md)
+    - [s. 113 Local authority to have certain powers to take land otherwise than by agreement.](section/113.md)
+    - [s. 114 Provision for making and enforcing byelaws, &c.](section/114.md)
+    - [s. 115 †Board of Trade empowered to make byelaws for the lower estuary of the Clyde: Secretary of State to define the authority for enforcing such byelaws.](section/115.md)
+  - Application of Act to Ireland
+    - [s. 116 Definition of local authority.](section/116.md)
+    - [s. 117 Power of certain local bodies to become a local authority.](section/117.md)
+    - [s. 118 Expenses of local authority.](section/118.md)
+    - [s. 119 Form of registers of store licenses and registered premises, and amount of fees, to be approved by Secretary of State.](section/119.md)
+    - [s. 120 ................................](section/120.md)
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 ................................](section/122.md)
+- FIRST SCHEDULE
+  - Part One
+    - Gunpowder Factories
+  - Part Two
+    - Gunpowder Stores.
+- SECOND SCHEDULE
+- THIRD SCHEDULE
+  - Maximum Fees for Licenses granted by the Secretary of State
+- FOURTH SCHEDULE
+- FIFTH SCHEDULE
