@@ -1,0 +1,140 @@
+# Long Leases (Scotland) Act 2012
+
+asp/2012/9. Enacted 2012-08-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-09-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2012/9/2015-09-28
+
+## Contents
+
+- Part 1 Conversion of long lease to ownership
+  - Determination of “qualifying lease”
+    - [s. 1 Meaning of “qualifying lease”](section/1.md)
+    - [s. 2 Further provision about annual rent](section/2.md)
+    - [s. 3 Only one lease is qualifying lease](section/3.md)
+  - Conversion of right of lease to ownership
+    - [s. 4 Conversion of right of lease to right of ownership](section/4.md)
+  - Consequences of conversion
+    - [s. 5 Extinction of certain rights and obligations](section/5.md)
+    - [s. 6 Subordinate real rights, reservations and pertinents](section/6.md)
+    - [s. 7 Creation of servitudes on conversion](section/7.md)
+    - [s. 8 Conversion of reserved sporting rights](section/8.md)
+    - [s. 9 Further provision for section 8](section/9.md)
+- Part 2 Conversion of certain leasehold conditions to real burdens
+  - Determination of “qualifying conditions”
+    - [s. 10 Qualifying conditions](section/10.md)
+    - [s. 11 Restriction on conversion of qualifying conditions](section/11.md)
+  - Meaning of “qualifying land”
+    - [s. 12 Meaning of “qualifying land”](section/12.md)
+  - Entitlement to enforce qualifying conditions
+    - [s. 13 Determination of who may enforce condition](section/13.md)
+  - Conversion of conditions to burdens
+    - [s. 14 Conversion by nomination of benefited property](section/14.md)
+    - [s. 15 Conversion by nomination: registration](section/15.md)
+    - [s. 16 Conversion by nomination: effect](section/16.md)
+    - [s. 17 Conversion by agreement](section/17.md)
+    - [s. 18 Conversion by agreement: registration](section/18.md)
+    - [s. 19 Conversion by agreement: effect](section/19.md)
+    - [s. 20 Conversion by agreement: title not completed](section/20.md)
+  - Applications relating to section 14
+    - [s. 21 Lands Tribunal order](section/21.md)
+    - [s. 22 Dealing with application under section 21](section/22.md)
+  - Personal real burdens
+    - [s. 23 Conversion to personal pre-emption or redemption burden](section/23.md)
+    - [s. 24 Conversion to economic development burden](section/24.md)
+    - [s. 25 Conversion to health care burden](section/25.md)
+    - [s. 26 Conversion to climate change burden](section/26.md)
+    - [s. 27 Conversion to conservation burden: rule one](section/27.md)
+    - [s. 28 Conversion to conservation burden: rule two](section/28.md)
+  - Other real burdens
+    - [s. 29 Conversion to facility or service burden](section/29.md)
+    - [s. 30 Conversion to manager burden](section/30.md)
+    - [s. 31 Conversion where common scheme affects related properties](section/31.md)
+    - [s. 32 Conversion where expressly enforceable by certain third parties](section/32.md)
+  - Exclusions from conversion
+    - [s. 33 Qualifying condition where obligation assumed by public authority](section/33.md)
+  - Effect of conversion on counter-obligations
+    - [s. 34 Counter-obligations on conversion](section/34.md)
+  - Prescription
+    - [s. 35 Prescriptive period for converted conditions](section/35.md)
+  - Notices and agreements under this Part
+    - [s. 36 Further provision for notices and agreements](section/36.md)
+- Part 3 Allocation of rents and renewal premiums etc.
+  - Key terms
+    - [s. 37 Partially continuing leases and renewal obligations etc.](section/37.md)
+    - [s. 38 Cumulo rent and cumulo renewal premium](section/38.md)
+  - Allocation of rent
+    - [s. 39 Allocation of cumulo rent before appointed day](section/39.md)
+    - [s. 40 Allocation of cumulo rent after appointed day](section/40.md)
+    - [s. 41 Partially continuing leases: allocation of rent](section/41.md)
+  - Allocation of renewal premium
+    - [s. 42 Allocation of cumulo renewal premium](section/42.md)
+    - [s. 43 Partially continuing leases: allocation of renewal premium](section/43.md)
+  - Allocation disputed or not made
+    - [s. 44 Allocation disputed or not made: reference to Lands Tribunal](section/44.md)
+- Part 4 Compensation for loss of landlord’s rights
+  - Compensatory payment
+    - [s. 45 Requiring compensatory payment](section/45.md)
+    - [s. 46 Making compensatory payment](section/46.md)
+  - Calculation of compensatory payment
+    - [s. 47 Calculation of the compensatory payment](section/47.md)
+  - Annual rent
+    - [s. 48 Determination of the annual rent](section/48.md)
+  - Renewal premiums
+    - [s. 49 Calculation of notional annual renewal premium](section/49.md)
+  - Additional payment
+    - [s. 50 Claiming additional payment](section/50.md)
+    - [s. 51 Extinguished rights](section/51.md)
+    - [s. 52 Calculating additional payment](section/52.md)
+    - [s. 53 Additional payment: former tenant agrees](section/53.md)
+    - [s. 54 Additional payment: amount mutually agreed](section/54.md)
+    - [s. 55 Claim for additional payment: reference to Lands Tribunal](section/55.md)
+  - Supplementary
+    - [s. 56 Claims in excess of £500: preliminary notice](section/56.md)
+    - [s. 57 Making payment by instalments](section/57.md)
+    - [s. 58 Collecting third party to disclose information](section/58.md)
+    - [s. 59 Duty to disclose identity etc. of former tenant](section/59.md)
+    - [s. 60 Prescription of requirement to make payment](section/60.md)
+    - [s. 61 Interpretation of Part 4](section/61.md)
+- Part 5 Exemption from conversion and continuing leases
+  - Exempt leases
+    - [s. 62 Exempt leases](section/62.md)
+  - Types of exempt lease
+    - [s. 63 Exemption of qualifying lease by registration of notice](section/63.md)
+    - [s. 64 Exemption of qualifying lease by registration of agreement or order](section/64.md)
+    - [s. 65 Certain leases registered near or after the appointed day](section/65.md)
+    - [s. 66 Subleases of exempt leases](section/66.md)
+  - Recall of exemption
+    - [s. 67 Recall of exemption](section/67.md)
+  - Supplementary
+    - [s. 68 Exemption and recall notices: supplementary](section/68.md)
+    - [s. 69 Application to Lands Tribunal for order confirming rent](section/69.md)
+- Part 6 General and miscellaneous
+  - The appointed day
+    - [s. 70 The appointed day](section/70.md)
+  - Duration of lease etc.
+    - [s. 71 Determining duration of lease](section/71.md)
+    - [s. 72 Leases continuing on tacit relocation](section/72.md)
+  - Extinction of right of irritancy in certain leases
+    - [s. 73 Extinction of right of irritancy in certain leases](section/73.md)
+  - Notices etc.
+    - [s. 74 Service of notices](section/74.md)
+    - [s. 75 Notices: pre-registration requirements](section/75.md)
+    - [s. 76 Keeper’s duty as regards documents](section/76.md)
+    - [s. 77 Disputed notices: reference to Lands Tribunal](section/77.md)
+    - [s. 78 Certain documents registrable despite initial rejection](section/78.md)
+  - Miscellaneous
+    - [s. 79 Amendments to enactments](section/79.md)
+    - [s. 80 Interpretation](section/80.md)
+    - [s. 81 Ancillary provision](section/81.md)
+    - [s. 82 Subordinate legislation](section/82.md)
+    - [s. 83 Commencement](section/83.md)
+    - [s. 84 Short title](section/84.md)
+- SCHEDULE Minor and consequential amendments
+  - Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - Title Conditions (Scotland) Act 2003 (asp 9)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
