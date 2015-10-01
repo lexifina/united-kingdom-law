@@ -1,0 +1,199 @@
+# Uniform Laws on International Sales Act 1967
+
+1967 c. 45. Enacted 1967-07-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1967/45/2015-10-01
+
+## Contents
+
+- [s. 1 Application of Uniform Law on the International Sale of Goods.](section/1.md)
+- [s. 2 Application of Uniform Law on the Formation of Contracts for the International Sale of Goods.](section/2.md)
+- [s. 3 Revision of Uniform Laws.](section/3.md)
+- [s. 4 Application to Isle of Man and Channel Islands.](section/4.md)
+- [s. 5 Short title.](section/5.md)
+- SCHEDULE 1 The uniform Law on the international sale of goods
+  - Chapter I.—Sphere of application of the law
+    - Article 1
+      - [Sch. 1 Pt. 1 Ch. 1 para. 1](schedule/1/part/1/chapter/1/paragraph/1.md)
+      - [Sch. 1 Pt. 1 Ch. 1 para. 2](schedule/1/part/1/chapter/1/paragraph/2.md)
+      - [Sch. 1 Pt. 1 Ch. 1 para. 3](schedule/1/part/1/chapter/1/paragraph/3.md)
+      - [Sch. 1 Pt. 1 Ch. 1 para. 4](schedule/1/part/1/chapter/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Article 2
+    - Article 3
+    - Article 4
+    - Article 5
+      - [Sch. 1 Pt. 1 Ch. 5 para. 1](schedule/1/part/1/chapter/5/paragraph/1.md)
+      - [Sch. 1 Pt. 1 Ch. 5 para. 2](schedule/1/part/1/chapter/5/paragraph/2.md)
+    - Article 6
+    - Article 7
+    - Article 8
+  - Chapter II.—General provisions
+    - Article 9
+      - [Sch. 1 Pt. 2 Ch. 1 para. 1](schedule/1/part/2/chapter/1/paragraph/1.md)
+      - [Sch. 1 Pt. 2 Ch. 1 para. 2](schedule/1/part/2/chapter/1/paragraph/2.md)
+      - [Sch. 1 Pt. 2 Ch. 1 para. 3](schedule/1/part/2/chapter/1/paragraph/3.md)
+    - Article 10
+    - Article 11
+    - Article 12
+    - Article 13
+    - Article 14
+    - Article 15
+    - Article 16
+    - Article 17
+  - Chapter III.—Obligations of the seller
+    - Article 18
+      - Section I.—Delivery of the Goods
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-idelivery-of-the-goods para. 1](schedule/1/part/3/chapter/1/crossheading/section-idelivery-of-the-goods/paragraph/1.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-idelivery-of-the-goods para. 2](schedule/1/part/3/chapter/1/crossheading/section-idelivery-of-the-goods/paragraph/2.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-idelivery-of-the-goods para. 3](schedule/1/part/3/chapter/1/crossheading/section-idelivery-of-the-goods/paragraph/3.md)
+      - Sub-section 1.—Obligations of the seller as regards the date and place of delivery
+      - A.— Date of Delivery
+      - B.—Place of Delivery
+        - [Sch. 1 Pt. 3 Ch. 1 heading bplace-of-delivery para. 1](schedule/1/part/3/chapter/1/crossheading/bplace-of-delivery/paragraph/1.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bplace-of-delivery para. 2](schedule/1/part/3/chapter/1/crossheading/bplace-of-delivery/paragraph/2.md)
+      - C.—Remedies for the seller’s failure to perform his obligations as regards the date and place of delivery
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-the-sellers-failure-to-perform-his-obligations-as-regards-the-date-and-place-of-delivery para. 1](schedule/1/part/3/chapter/1/crossheading/cremedies-for-the-sellers-failure-to-perform-his-obligations-as-regards-the-date-and-place-of-delivery/paragraph/1.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-the-sellers-failure-to-perform-his-obligations-as-regards-the-date-and-place-of-delivery para. 2](schedule/1/part/3/chapter/1/crossheading/cremedies-for-the-sellers-failure-to-perform-his-obligations-as-regards-the-date-and-place-of-delivery/paragraph/2.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-the-sellers-failure-to-perform-his-obligations-as-regards-the-date-and-place-of-delivery para. 3](schedule/1/part/3/chapter/1/crossheading/cremedies-for-the-sellers-failure-to-perform-his-obligations-as-regards-the-date-and-place-of-delivery/paragraph/3.md)
+      - (a) Remedies as regards the date of delivery
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-remedies-as-regards-the-date-of-delivery para. 1n7](schedule/1/part/3/chapter/1/crossheading/a-remedies-as-regards-the-date-of-delivery/paragraph/1n7.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-remedies-as-regards-the-date-of-delivery para. 2n7](schedule/1/part/3/chapter/1/crossheading/a-remedies-as-regards-the-date-of-delivery/paragraph/2n7.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-remedies-as-regards-the-date-of-delivery para. 3](schedule/1/part/3/chapter/1/crossheading/a-remedies-as-regards-the-date-of-delivery/paragraph/3.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-remedies-as-regards-the-date-of-delivery para. 4](schedule/1/part/3/chapter/1/crossheading/a-remedies-as-regards-the-date-of-delivery/paragraph/4.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-remedies-as-regards-the-date-of-delivery para. 1n8](schedule/1/part/3/chapter/1/crossheading/a-remedies-as-regards-the-date-of-delivery/paragraph/1n8.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-remedies-as-regards-the-date-of-delivery para. 2n8](schedule/1/part/3/chapter/1/crossheading/a-remedies-as-regards-the-date-of-delivery/paragraph/2n8.md)
+      - (b) Remedies as regards the place of delivery
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 1n9](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/1n9.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 2n9](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/2n9.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 3n6](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/3n6.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 1n10](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/1n10.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 2n10](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/2n10.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 1n11](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/1n11.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 2n11](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/2n11.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading b-remedies-as-regards-the-place-of-delivery para. 3n7](schedule/1/part/3/chapter/1/crossheading/b-remedies-as-regards-the-place-of-delivery/paragraph/3n7.md)
+      - Sub-section 2.—Obligations of the seller as regards the conformity of the goods
+      - A.— Lack of conformity
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-lack-of-conformity para. 1n12](schedule/1/part/3/chapter/1/crossheading/a-lack-of-conformity/paragraph/1n12.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-lack-of-conformity para. 2n12](schedule/1/part/3/chapter/1/crossheading/a-lack-of-conformity/paragraph/2n12.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-lack-of-conformity para. 1n13](schedule/1/part/3/chapter/1/crossheading/a-lack-of-conformity/paragraph/1n13.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading a-lack-of-conformity para. 2n13](schedule/1/part/3/chapter/1/crossheading/a-lack-of-conformity/paragraph/2n13.md)
+      - B.—Ascertainment and notification of lack of conformity
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 1n14](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/1n14.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 2n14](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/2n14.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 3n8](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/3n8.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 4](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/4.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 1n15](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/1n15.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 2n15](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/2n15.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading bascertainment-and-notification-of-lack-of-conformity para. 3n9](schedule/1/part/3/chapter/1/crossheading/bascertainment-and-notification-of-lack-of-conformity/paragraph/3n9.md)
+      - C.—Remedies for lack of conformity
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 1n16](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/1n16.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 2n16](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/2n16.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 1n17](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/1n17.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 2n17](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/2n17.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 1n18](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/1n18.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 2n18](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/2n18.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 1n19](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/1n19.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 2n19](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/2n19.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 1n20](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/1n20.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading cremedies-for-lack-of-conformity para. 2n20](schedule/1/part/3/chapter/1/crossheading/cremedies-for-lack-of-conformity/paragraph/2n20.md)
+      - Section II.—Handing over documents
+      - Section III.—Transfer of property
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-iiitransfer-of-property para. 1](schedule/1/part/3/chapter/1/crossheading/section-iiitransfer-of-property/paragraph/1.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-iiitransfer-of-property para. 2](schedule/1/part/3/chapter/1/crossheading/section-iiitransfer-of-property/paragraph/2.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-iiitransfer-of-property para. 3](schedule/1/part/3/chapter/1/crossheading/section-iiitransfer-of-property/paragraph/3.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-iiitransfer-of-property para. 4](schedule/1/part/3/chapter/1/crossheading/section-iiitransfer-of-property/paragraph/4.md)
+      - Section IV.—Other obligations of the seller
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-ivother-obligations-of-the-seller para. 1n22](schedule/1/part/3/chapter/1/crossheading/section-ivother-obligations-of-the-seller/paragraph/1n22.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-ivother-obligations-of-the-seller para. 2n22](schedule/1/part/3/chapter/1/crossheading/section-ivother-obligations-of-the-seller/paragraph/2n22.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-ivother-obligations-of-the-seller para. 1n23](schedule/1/part/3/chapter/1/crossheading/section-ivother-obligations-of-the-seller/paragraph/1n23.md)
+        - [Sch. 1 Pt. 3 Ch. 1 heading section-ivother-obligations-of-the-seller para. 2n23](schedule/1/part/3/chapter/1/crossheading/section-ivother-obligations-of-the-seller/paragraph/2n23.md)
+  - Chapter IV.—Obligations of the buyer
+    - Section I.—Payment of the price
+    - A— Fixing the price
+    - B.—Place and date of payment
+      - [Sch. 1 Pt. 4 heading bplace-and-date-of-payment para. 1](schedule/1/part/4/crossheading/bplace-and-date-of-payment/paragraph/1.md)
+      - [Sch. 1 Pt. 4 heading bplace-and-date-of-payment para. 2](schedule/1/part/4/crossheading/bplace-and-date-of-payment/paragraph/2.md)
+    - C.—Remedies for non-payment
+      - [Sch. 1 Pt. 4 heading cremedies-for-nonpayment para. 1n25](schedule/1/part/4/crossheading/cremedies-for-nonpayment/paragraph/1n25.md)
+      - [Sch. 1 Pt. 4 heading cremedies-for-nonpayment para. 2n25](schedule/1/part/4/crossheading/cremedies-for-nonpayment/paragraph/2n25.md)
+      - [Sch. 1 Pt. 4 heading cremedies-for-nonpayment para. 1n26](schedule/1/part/4/crossheading/cremedies-for-nonpayment/paragraph/1n26.md)
+      - [Sch. 1 Pt. 4 heading cremedies-for-nonpayment para. 2n26](schedule/1/part/4/crossheading/cremedies-for-nonpayment/paragraph/2n26.md)
+      - [Sch. 1 Pt. 4 heading cremedies-for-nonpayment para. 1n27](schedule/1/part/4/crossheading/cremedies-for-nonpayment/paragraph/1n27.md)
+      - [Sch. 1 Pt. 4 heading cremedies-for-nonpayment para. 2n27](schedule/1/part/4/crossheading/cremedies-for-nonpayment/paragraph/2n27.md)
+    - Section II.—Taking delivery
+      - [Sch. 1 Pt. 4 heading section-iitaking-delivery para. 1n28](schedule/1/part/4/crossheading/section-iitaking-delivery/paragraph/1n28.md)
+      - [Sch. 1 Pt. 4 heading section-iitaking-delivery para. 2n28](schedule/1/part/4/crossheading/section-iitaking-delivery/paragraph/2n28.md)
+      - [Sch. 1 Pt. 4 heading section-iitaking-delivery para. 1n29](schedule/1/part/4/crossheading/section-iitaking-delivery/paragraph/1n29.md)
+      - [Sch. 1 Pt. 4 heading section-iitaking-delivery para. 2n29](schedule/1/part/4/crossheading/section-iitaking-delivery/paragraph/2n29.md)
+      - [Sch. 1 Pt. 4 heading section-iitaking-delivery para. 1n30](schedule/1/part/4/crossheading/section-iitaking-delivery/paragraph/1n30.md)
+      - [Sch. 1 Pt. 4 heading section-iitaking-delivery para. 2n30](schedule/1/part/4/crossheading/section-iitaking-delivery/paragraph/2n30.md)
+    - Section III.—Other obligations of the buyer
+      - [Sch. 1 Pt. 4 heading section-iiiother-obligations-of-the-buyer para. 1](schedule/1/part/4/crossheading/section-iiiother-obligations-of-the-buyer/paragraph/1.md)
+      - [Sch. 1 Pt. 4 heading section-iiiother-obligations-of-the-buyer para. 2](schedule/1/part/4/crossheading/section-iiiother-obligations-of-the-buyer/paragraph/2.md)
+  - Chapter V.—Provisions common to the obligations of the seller and of the buyer
+    - Section I.—Concurrence between delivery of the goods and payment of the price
+      - [Sch. 1 Pt. 5 heading section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price para. 1n32](schedule/1/part/5/crossheading/section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price/paragraph/1n32.md)
+      - [Sch. 1 Pt. 5 heading section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price para. 2n32](schedule/1/part/5/crossheading/section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price/paragraph/2n32.md)
+      - [Sch. 1 Pt. 5 heading section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price para. 1n33](schedule/1/part/5/crossheading/section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price/paragraph/1n33.md)
+      - [Sch. 1 Pt. 5 heading section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price para. 2n33](schedule/1/part/5/crossheading/section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price/paragraph/2n33.md)
+      - [Sch. 1 Pt. 5 heading section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price para. 3](schedule/1/part/5/crossheading/section-iconcurrence-between-delivery-of-the-goods-and-payment-of-the-price/paragraph/3.md)
+    - Section II.—Exemptions
+      - [Sch. 1 Pt. 5 heading section-iiexemptions para. 1](schedule/1/part/5/crossheading/section-iiexemptions/paragraph/1.md)
+      - [Sch. 1 Pt. 5 heading section-iiexemptions para. 2](schedule/1/part/5/crossheading/section-iiexemptions/paragraph/2.md)
+      - [Sch. 1 Pt. 5 heading section-iiexemptions para. 3](schedule/1/part/5/crossheading/section-iiexemptions/paragraph/3.md)
+    - Section III.—Supplementary rules concerning the avoidance of the contract
+    - A.— Supplementary grounds for avoidance
+      - [Sch. 1 Pt. 5 heading a-supplementary-grounds-for-avoidance para. 1](schedule/1/part/5/crossheading/a-supplementary-grounds-for-avoidance/paragraph/1.md)
+      - [Sch. 1 Pt. 5 heading a-supplementary-grounds-for-avoidance para. 2](schedule/1/part/5/crossheading/a-supplementary-grounds-for-avoidance/paragraph/2.md)
+    - B.—Effects of avoidance
+      - [Sch. 1 Pt. 5 heading beffects-of-avoidance para. 1n36](schedule/1/part/5/crossheading/beffects-of-avoidance/paragraph/1n36.md)
+      - [Sch. 1 Pt. 5 heading beffects-of-avoidance para. 2n36](schedule/1/part/5/crossheading/beffects-of-avoidance/paragraph/2n36.md)
+      - [Sch. 1 Pt. 5 heading beffects-of-avoidance para. 1n37](schedule/1/part/5/crossheading/beffects-of-avoidance/paragraph/1n37.md)
+      - [Sch. 1 Pt. 5 heading beffects-of-avoidance para. 2n37](schedule/1/part/5/crossheading/beffects-of-avoidance/paragraph/2n37.md)
+      - [Sch. 1 Pt. 5 heading beffects-of-avoidance para. 1n38](schedule/1/part/5/crossheading/beffects-of-avoidance/paragraph/1n38.md)
+      - [Sch. 1 Pt. 5 heading beffects-of-avoidance para. 2n38](schedule/1/part/5/crossheading/beffects-of-avoidance/paragraph/2n38.md)
+    - Section IV.—Supplementary rules concerning damages
+    - A.— Damages where the contract is not avoided
+    - B.—Damages where the contract is avoided
+      - [Sch. 1 Pt. 5 heading bdamages-where-the-contract-is-avoided para. 1](schedule/1/part/5/crossheading/bdamages-where-the-contract-is-avoided/paragraph/1.md)
+      - [Sch. 1 Pt. 5 heading bdamages-where-the-contract-is-avoided para. 2](schedule/1/part/5/crossheading/bdamages-where-the-contract-is-avoided/paragraph/2.md)
+    - C.—General provisions concerning damages
+    - Section V.—Expences
+    - Section VI.—Preservation of the Goods
+      - [Sch. 1 Pt. 5 heading section-vipreservation-of-the-goods para. 1n40](schedule/1/part/5/crossheading/section-vipreservation-of-the-goods/paragraph/1n40.md)
+      - [Sch. 1 Pt. 5 heading section-vipreservation-of-the-goods para. 2n40](schedule/1/part/5/crossheading/section-vipreservation-of-the-goods/paragraph/2n40.md)
+      - [Sch. 1 Pt. 5 heading section-vipreservation-of-the-goods para. 1n41](schedule/1/part/5/crossheading/section-vipreservation-of-the-goods/paragraph/1n41.md)
+      - [Sch. 1 Pt. 5 heading section-vipreservation-of-the-goods para. 2n41](schedule/1/part/5/crossheading/section-vipreservation-of-the-goods/paragraph/2n41.md)
+  - Chapter VI.—Passing of the risk
+    - [Sch. 1 Pt. 6 para. 1n42](schedule/1/part/6/paragraph/1n42.md)
+    - [Sch. 1 Pt. 6 para. 2n42](schedule/1/part/6/paragraph/2n42.md)
+    - [Sch. 1 Pt. 6 para. 1n43](schedule/1/part/6/paragraph/1n43.md)
+    - [Sch. 1 Pt. 6 para. 2n43](schedule/1/part/6/paragraph/2n43.md)
+    - [Sch. 1 Pt. 6 para. 3](schedule/1/part/6/paragraph/3.md)
+    - [Sch. 1 Pt. 6 para. 1n44](schedule/1/part/6/paragraph/1n44.md)
+    - [Sch. 1 Pt. 6 para. 2n44](schedule/1/part/6/paragraph/2n44.md)
+- SCHEDULE 2 The uniform Law on the formation of contracts for the international sales of goods
+  - [Sch. 2 para. 1n1](schedule/2/paragraph/1n1.md)
+  - [Sch. 2 para. 2n1](schedule/2/paragraph/2n1.md)
+  - [Sch. 2 para. 1n2](schedule/2/paragraph/1n2.md)
+  - [Sch. 2 para. 2n2](schedule/2/paragraph/2n2.md)
+  - [Sch. 2 para. 1n3](schedule/2/paragraph/1n3.md)
+  - [Sch. 2 para. 2n3](schedule/2/paragraph/2n3.md)
+  - [Sch. 2 para. 3n1](schedule/2/paragraph/3n1.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 1n4](schedule/2/paragraph/1n4.md)
+  - [Sch. 2 para. 2n4](schedule/2/paragraph/2n4.md)
+  - [Sch. 2 para. 1n5](schedule/2/paragraph/1n5.md)
+  - [Sch. 2 para. 2n5](schedule/2/paragraph/2n5.md)
+  - [Sch. 2 para. 1n6](schedule/2/paragraph/1n6.md)
+  - [Sch. 2 para. 2n6](schedule/2/paragraph/2n6.md)
+  - [Sch. 2 para. 3n2](schedule/2/paragraph/3n2.md)
+  - [Sch. 2 para. 1n7](schedule/2/paragraph/1n7.md)
+  - [Sch. 2 para. 2n7](schedule/2/paragraph/2n7.md)
+  - [Sch. 2 para. 1n8](schedule/2/paragraph/1n8.md)
+  - [Sch. 2 para. 2n8](schedule/2/paragraph/2n8.md)
+  - [Sch. 2 para. 1n9](schedule/2/paragraph/1n9.md)
+  - [Sch. 2 para. 2n9](schedule/2/paragraph/2n9.md)
