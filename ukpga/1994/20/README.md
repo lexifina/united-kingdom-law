@@ -1,0 +1,125 @@
+# Sunday Trading Act 1994
+
+1994 c. 20. Enacted 1994-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1994/20/2015-10-01
+
+## Contents
+
+- [s. 1 Reform of law relating to Sunday trading.](section/1.md)
+- [s. 2 Loading and unloading at large shops on Sunday morning.](section/2.md)
+- [s. 3 Construction of certain leases and agreements.](section/3.md)
+- [s. 4 Rights of shop workers as respects Sunday working.](section/4.md)
+- [s. 5 ................................](section/5.md)
+- [s. 6 Consequential repeal or amendment of local Acts.](section/6.md)
+- [s. 7 Expenses.](section/7.md)
+- [s. 8 Meaning of “local authority”.](section/8.md)
+- [s. 9 Short title, repeals, commencement and extent.](section/9.md)
+- SCHEDULE 1 Restrictions on Sunday opening of large shops
+  - Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Restrictions on Sunday opening hours of large shops
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Exemptions
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Notice of proposed Sunday opening
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Register of shops
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Duty to display notice
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Offences
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Transitional provision
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Supplementary Provisions
+  - Part I General enforcement provisions
+    - Duty to enforce Act
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Inspectors
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Powers of entry
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Obstruction of inspectors
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Investigatory powers
+      - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+    - Offences due to fault of other person
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Offences by bodies corporate
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Defence of due diligence
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Part II Shops occupied by persons observing the Jewish Sabbath
+    - Shops occupied by persons of the Jewish religion
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Members of other religious bodies observing the Jewish Sabbath
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Transitional provisions
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Loading and Unloading at Large Shops on Sunday Morning
+  - Shops to which Schedule applies
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Consent required for early Sunday loading and unloading
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Application for consent
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Revocation of consent
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Publication of consent
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Offence
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Christmas Day
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Rights of shop workers as respects Sunday working
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Meaning of “protected shop worker”
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Notice of objection to Sunday working
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Meaning of “opted-out shop worker”
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Meaning of “notice period”
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Right not to be dismissed for refusing Sunday work
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Exclusion of section 64(1) of Employment Protection (Consolidation) Act 1978
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Right not to suffer detriment for refusing Sunday work
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Employer’s duty to give explanatory statement
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Effect of rights on contracts of employment
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Proceedings for contravention of paragraph 10
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Restrictions on contracting out of Schedule
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Transitional modifications relating to maternity cases
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Dismissal on grounds of assertion of statutory right
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Dismissal procedures agreements
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Conciliation
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Application of certain other provisions of 1978 Act
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Keeping of records relating to Sunday employment
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Employment of children in street trading on Sunday
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 Repeals
