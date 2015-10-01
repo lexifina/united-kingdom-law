@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-06-25, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-10-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2015-06-25
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2015-10-01
 
 ## Contents
 
@@ -328,6 +328,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2015-06-25
     - [s. 251 Information standards: supplementary](section/251.md)
   - CHAPTER 1A Continuity of Information
     - [s. 251A Consistent identifiers](section/251A.md)
+    - [s. 251B Duty to share information](section/251B.md)
     - [s. 251C Continuity of information: interpretation](section/251C.md)
   - CHAPTER 2 The Health and Social Care Information Centre
     - Establishment and general duties
