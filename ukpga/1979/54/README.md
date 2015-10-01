@@ -1,0 +1,190 @@
+# Sale of Goods Act 1979
+
+1979 c. 54. Enacted 1979-12-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1979/54
+
+Source: https://www.legislation.gov.uk/ukpga/1979/54/2015-10-01
+
+## Contents
+
+- Part I Contracts to Which Act Applies
+  - [s. 1 Contracts to which Act applies.](section/1.md)
+- Part II Formation of the Contract
+  - Contract of sale
+    - [s. 2 Contract of sale.](section/2.md)
+    - [s. 3 Capacity to buy and sell.](section/3.md)
+  - Formalities of contract
+    - [s. 4 How contract of sale is made.](section/4.md)
+  - Subject matter of contract
+    - [s. 5 Existing or future goods.](section/5.md)
+    - [s. 6 Goods which have perished.](section/6.md)
+    - [s. 7 Goods perishing before sale but after agreement to sell.](section/7.md)
+  - The price
+    - [s. 8 Ascertainment of price.](section/8.md)
+    - [s. 9 Agreement to sell at valuation.](section/9.md)
+  - Implied terms etc.
+    - [s. 10 Stipulations about time.](section/10.md)
+    - [s. 11 When condition to be treated as warranty.](section/11.md)
+    - [s. 12 Implied terms about title, etc.](section/12.md)
+    - [s. 13 Sale by description.](section/13.md)
+    - [s. 14 Implied terms about quality or fitness.](section/14.md)
+  - Sale by sample
+    - [s. 15 Sale by sample.](section/15.md)
+  - Miscellaneous
+    - [s. 15A Modification of remedies for breach of condition in non-consumer cases.](section/15A.md)
+    - [s. 15B Remedies for breach of contract as respects Scotland.](section/15B.md)
+- Part III Effects of the Contract
+  - Transfer of property as between seller and buyer
+    - [s. 16 Goods must be ascertained.](section/16.md)
+    - [s. 17 Property passes when intended to pass.](section/17.md)
+    - [s. 18 Rules for ascertaining intention.](section/18.md)
+    - [s. 19 Reservation of right of disposal.](section/19.md)
+    - [s. 20 Passing of risk.](section/20.md)
+    - [s. 20A Undivided shares in goods forming part of a bulk.](section/20A.md)
+    - [s. 20B Deemed consent by co-owner to dealings in bulk goods.](section/20B.md)
+  - Transfer of title
+    - [s. 21 Sale by person not the owner.](section/21.md)
+    - [s. 22 Market overt.](section/22.md)
+    - [s. 23 Sale under voidable title.](section/23.md)
+    - [s. 24 Seller in possession after sale.](section/24.md)
+    - [s. 25 Buyer in possession after sale.](section/25.md)
+    - [s. 26 Supplementary to sections 24 and 25.](section/26.md)
+- Part IV Performance of the Contract
+  - [s. 27 Duties of seller and buyer.](section/27.md)
+  - [s. 28 Payment and delivery are concurrent conditions.](section/28.md)
+  - [s. 29 Rules about delivery.](section/29.md)
+  - [s. 30 Delivery of wrong quantity.](section/30.md)
+  - [s. 31 Instalment deliveries.](section/31.md)
+  - [s. 32 Delivery to carrier.](section/32.md)
+  - [s. 33 Risk where goods are delivered at distant place.](section/33.md)
+  - [s. 34 Buyer’s right of examining the goods.](section/34.md)
+  - [s. 35 Acceptance.](section/35.md)
+  - [s. 35A Right of partial rejection.](section/35A.md)
+  - [s. 36 Buyer not bound to return rejected goods.](section/36.md)
+  - [s. 37 Buyer’s liability for not taking delivery of goods.](section/37.md)
+- Part V Rights of Unpaid Seller Against the Goods
+  - Preliminary
+    - [s. 38 Unpaid seller defined.](section/38.md)
+    - [s. 39 Unpaid seller’s rights.](section/39.md)
+    - [s. 40 Attachment by seller in Scotland.](section/40.md)
+  - Unpaid seller’s lien
+    - [s. 41 Seller’s lien.](section/41.md)
+    - [s. 42 Part delivery.](section/42.md)
+    - [s. 43 Termination of lien.](section/43.md)
+  - Stoppage in transit
+    - [s. 44 Right of stoppage in transit.](section/44.md)
+    - [s. 45 Duration of transit.](section/45.md)
+    - [s. 46 How stoppage in transit is effected.](section/46.md)
+  - Re-sale etc. by buyer
+    - [s. 47 Effect of sub-sale etc. by buyer.](section/47.md)
+  - Rescission: and re-sale by seller
+    - [s. 48 Rescission: and re-sale by seller.](section/48.md)
+- PART 5A ADDITIONAL RIGHTS OF BUYER IN CONSUMER CASES
+  - [s. 48A Introductory](section/48A.md)
+  - [s. 48B Repair or replacement of the goods](section/48B.md)
+  - [s. 48C Reduction of purchase price or rescission of contract](section/48C.md)
+  - [s. 48D Relation to other remedies etc.](section/48D.md)
+  - [s. 48E Powers of the court](section/48E.md)
+  - [s. 48F Conformity with the contract](section/48F.md)
+- Part VI Actions for Breach of the Contract
+  - Seller’s remedies
+    - [s. 49 Action for price.](section/49.md)
+    - [s. 50 Damages for non-acceptance.](section/50.md)
+  - Buyer’s remedies
+    - [s. 51 Damages for non-delivery.](section/51.md)
+    - [s. 52 Specific performance.](section/52.md)
+    - [s. 53 Remedy for breach of warranty.](section/53.md)
+    - [s. 53A Measure of damages as respects Scotland.](section/53A.md)
+  - Interest, etc.
+    - [s. 54 Interest, etc.](section/54.md)
+- Part VII Supplementary
+  - [s. 55 Exclusion of implied terms.](section/55.md)
+  - [s. 56 Conflict of laws.](section/56.md)
+  - [s. 57 Auction sales.](section/57.md)
+  - [s. 58 Payment into court in Scotland.](section/58.md)
+  - [s. 59 Reasonable time a question of fact.](section/59.md)
+  - [s. 60 Rights etc. enforceable by action.](section/60.md)
+  - [s. 61 Interpretation.](section/61.md)
+  - [s. 62 Savings: rules of law etc.](section/62.md)
+  - [s. 63 Consequential amendments, repeals and savings.](section/63.md)
+  - [s. 64 Short title and commencement.](section/64.md)
+- SCHEDULE 1 Modification of Act for Certain Contracts
+  - Preliminary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Section 11: condition treated as warranty
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Section 12: implied terms about title etc.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Section 13: sale by description
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Section 14: quality or fitness (i)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Section 14: quality or fitness (ii)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Section 15: sale by sample
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Section 22: market overt
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Section 25: buyer in possession
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Section 35: acceptance
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Section 55: exclusion of implied terms (i)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Section 55: exclusion of implied terms (ii)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Section 56: conflict of laws
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Section 61(1): definition of “business” (i)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Section 61(1): definition of “business” (ii)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Consequential Amendments
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Law Reform (Frustrated Contracts) Act 1943 (6 & 7 Geo. 6 c. 40)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Frustrated Contracts Act (Northern Ireland) 1947 (c. 2)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Hire-Purchase Act 1964 (c. 53)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Hire-Purchase Act 1965 (c. 66)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Hire-Purchase (Scotland) Act 1965 (c. 67)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Hire-Purchase Act (Northern Ireland) 1966 (c. 42)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Uniform Laws on International Sales Act 1967 (c. 45)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Supply of Goods (Implied Terms) Act 1973 (c. 13)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Unfair Contract Terms Act 1977 (c. 50)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Repeals
+- SCHEDULE 4 Savings
+  - Preliminary
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Orders
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Offences
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - 1893 Act, section 26
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Things done before 1 January 1894
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
