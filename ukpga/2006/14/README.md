@@ -1,0 +1,140 @@
+# Consumer Credit Act 2006
+
+2006 c. 14. Enacted 2006-03-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2015-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/14
+
+Source: https://www.legislation.gov.uk/ukpga/2006/14/2015-10-01
+
+## Contents
+
+- Agreements regulated under the 1974 Act etc.
+  - [s. 1 Definition of ‘individual’](section/1.md)
+  - [s. 2 Removal of financial limits etc.](section/2.md)
+  - [s. 3 Exemption relating to high net worth debtors and hirers](section/3.md)
+  - [s. 4 Exemption relating to businesses](section/4.md)
+  - [s. 5 Consequential amendments relating to ss. 1 to 4](section/5.md)
+- Statements to be provided in relation to regulated credit agreements
+  - [s. 6 Statements to be provided in relation to fixed-sum credit agreements](section/6.md)
+  - [s. 7 Further provision relating to statements](section/7.md)
+- Default under regulated agreements
+  - [s. 8 OFT to prepare information sheets on arrears and default](section/8.md)
+  - [s. 9 Notice of sums in arrears under fixed-sum credit agreements etc.](section/9.md)
+  - [s. 10 Notice of sums in arrears under running-account credit agreements](section/10.md)
+  - [s. 11 Failure to give notice of sums in arrears](section/11.md)
+  - [s. 12 Notice of default sums](section/12.md)
+  - [s. 13 Interest on default sums](section/13.md)
+  - [s. 14 Default notices](section/14.md)
+  - [s. 15 Enforceability of regulated agreements](section/15.md)
+  - [s. 16 Time orders](section/16.md)
+  - [s. 17 Interest payable on judgment debts etc.](section/17.md)
+  - [s. 18 Definition of “default sum”](section/18.md)
+- Unfair relationships
+  - [s. 19 Unfair relationships between creditors and debtors](section/19.md)
+  - [s. 20 Powers of court in relation to unfair relationships](section/20.md)
+  - [s. 21 Interpretation of ss. 140A and 140B of the 1974 Act](section/21.md)
+  - [s. 22 Further provision relating to unfair relationships](section/22.md)
+- Businesses requiring a licence and consequences of not being licensed
+  - [s. 23 Definitions of ‘consumer credit business’ and ‘consumer hire business’](section/23.md)
+  - [s. 24 Debt administration etc.](section/24.md)
+  - [s. 25 Credit information services](section/25.md)
+  - [s. 26 Enforcement of agreements by unlicensed trader etc.](section/26.md)
+- Applications for licences and fitness to hold a licence etc.
+  - [s. 27 Charge on applicants for licences etc.](section/27.md)
+  - [s. 28 Applications for standard licences](section/28.md)
+  - [s. 29 Issue of standard licences](section/29.md)
+  - [s. 30 Guidance on fitness test](section/30.md)
+  - [s. 31 Variation of standard licences etc.](section/31.md)
+  - [s. 32 Winding-up of standard licensee’s business](section/32.md)
+  - [s. 33 Consequential amendments relating to ss. 27 to 32](section/33.md)
+- Duration of licences and charges
+  - [s. 34 Definite and indefinite licences](section/34.md)
+  - [s. 35 Charges for indefinite licences](section/35.md)
+  - [s. 36 Extension of period to pay charge for indefinite licence](section/36.md)
+  - [s. 37 Failure to pay charge for indefinite licence](section/37.md)
+- Further powers of OFT to regulate conduct of licensees etc.
+  - [s. 38 Power of OFT to impose requirements on licensees](section/38.md)
+  - [s. 39 Power of OFT to impose requirements on supervisory bodies](section/39.md)
+  - [s. 40 Supplementary provision relating to requirements](section/40.md)
+  - [s. 41 Procedure in relation to requirements](section/41.md)
+  - [s. 42 Guidance on requirements](section/42.md)
+  - [s. 43 Consequential amendments relating to requirements](section/43.md)
+- Powers and duties in relation to information
+  - [s. 44 Provision of information etc. by applicants](section/44.md)
+  - [s. 45 Duties to notify changes in information etc.](section/45.md)
+  - [s. 46 Power of OFT to require information generally](section/46.md)
+  - [s. 47 Power of OFT to require access to premises](section/47.md)
+  - [s. 48 Entry to premises under warrant](section/48.md)
+  - [s. 49 Failure to comply with information requirement](section/49.md)
+  - [s. 50 Officers of enforcement authorities other than OFT](section/50.md)
+  - [s. 51 Consequential amendments relating to information](section/51.md)
+- Civil penalties
+  - [s. 52 Power of OFT to impose civil penalties](section/52.md)
+  - [s. 53 Further provision relating to civil penalties](section/53.md)
+  - [s. 54 Statement of policy in relation to civil penalties](section/54.md)
+- Appeals
+  - [s. 55 The Consumer Credit Appeals Tribunal](section/55.md)
+  - [s. 56 Appeals to the Consumer Credit Appeals Tribunal](section/56.md)
+  - [s. 57 Appeals from the Consumer Credit Appeals Tribunal](section/57.md)
+  - [s. 58 Consequential amendments relating to appeals](section/58.md)
+- Ombudsman scheme
+  - [s. 59 Financial services ombudsman scheme to apply to consumer credit licensees](section/59.md)
+  - [s. 60 Funding of ombudsman scheme](section/60.md)
+  - [s. 61 Consequential amendments relating to ombudsman scheme](section/61.md)
+- Miscellaneous
+  - [s. 62 Monitoring of businesses by OFT](section/62.md)
+  - [s. 63 Disapplication of s.101 of the 1974 Act](section/63.md)
+  - [s. 64 Determinations etc. by OFT](section/64.md)
+  - [s. 65 Sums received by OFT](section/65.md)
+- Final provisions
+  - [s. 66 Financial provision](section/66.md)
+  - [s. 67 Interpretation](section/67.md)
+  - [s. 68 Consequential amendments](section/68.md)
+  - [s. 69 Transitional provision and savings](section/69.md)
+  - [s. 70 Repeals](section/70.md)
+  - [s. 71 Short title, commencement and extent](section/71.md)
+- SCHEDULE 1
+- SCHEDULE 2 Part 3A of Schedule 17 to the 2000 Act
+- SCHEDULE 3 Transitional Provision and Savings
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Statements to be provided in relation to regulated agreements
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Default under regulated agreements
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Unfair relationships
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Applications for licences and fitness to hold a licence etc.
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Further powers of OFT to regulate conduct of licensees etc.
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Powers and duties in relation to information
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Civil penalties
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Appeals
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Ombudsman scheme
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Repeals
