@@ -2,9 +2,9 @@
 
 2013 c. 22. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-03-20, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-11-03, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-03-20
+Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-11-03
 
 ## Contents
 
@@ -100,6 +100,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-03-20
       - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
     - Activities in Scotland
       - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Investigatory activity in Northern Ireland
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
   - Part 2 NCA officers
     - Selection and appointment of the Director General
       - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
