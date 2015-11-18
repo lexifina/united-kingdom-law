@@ -2,9 +2,9 @@
 
 2015 c. 33. Enacted 2015-11-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-07-08, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2015-11-18, one file per provision. Earlier versions, from 2015-07-08, are in the history before it: `git log -- ukpga/2015/33` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/33/2015-07-08
+Source: https://www.legislation.gov.uk/ukpga/2015/33/2015-11-18
 
 ## Contents
 
