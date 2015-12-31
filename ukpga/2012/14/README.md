@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-11-18, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2015-12-31, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2015-11-18
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2015-12-31
 
 ## Contents
 
@@ -1182,6 +1182,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2015-11-18
       - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
     - Assets of the shareholder fund
       - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+      - [Sch. 17 para. 35A](schedule/17/paragraph/35A.md)
   - PART 3 Supplementary
     - General transitional provision in relation to provisions re-enacted in Part 2 of this Act
       - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
