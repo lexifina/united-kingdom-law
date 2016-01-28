@@ -2,9 +2,9 @@
 
 2014 c. 2. Enacted 2014-01-30.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-05-26, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-01-28, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/2/2015-05-26
+Source: https://www.legislation.gov.uk/ukpga/2014/2/2016-01-28
 
 ## Contents
 
@@ -117,6 +117,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2015-05-26
   - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
   - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
   - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - [Sch. 2 para. 28A](schedule/2/paragraph/28A.md)
   - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
 - SCHEDULE 3 Further provisions about appointment of local auditors
   - Provisions applying to certain local authorities
