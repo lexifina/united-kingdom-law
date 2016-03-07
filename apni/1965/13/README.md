@@ -1,0 +1,133 @@
+# New Towns Act (Northern Ireland) 1965
+
+apni/1965/13. Enacted 1965-06-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-03-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1965/13/2016-03-07
+
+## Contents
+
+  - General Powers of the Minister and the Ministry
+    - [s. 1 Power to designate site of new town.](section/1.md)
+    - [s. 2 New town advisory committees.](section/2.md)
+    - [s. 3 Power to make surveys, etc.](section/3.md)
+    - [s. 4 Power to acquire land.](section/4.md)
+    - [s. 5 Power to dispose of land.](section/5.md)
+  - Constitution of New Town Commissions
+    - [s. 7 New town commissions.](section/7.md)
+    - [s. 8 Power of Ministry to make arrangements for the transfer of staff to the service of new town commissions.](section/8.md)
+    - [s. 10 Accounts of new town commissions, and audit.](section/10.md)
+    - [s. 11 Annual reports of new town commissions.](section/11.md)
+    - [s. 12 Duty of new town commissions to disclose information to Ministry.](section/12.md)
+    - [s. 13 Power of Ministry to give directions to new town commissions.](section/13.md)
+  - Development Functions of New Town Commissions
+    - [s. 14 Duty of new town commissions to submit development proposals.](section/14.md)
+    - [s. 15 Acquisition of land by new town commissions.](section/15.md)
+    - [s. 17 General powers of new town commissions.](section/17.md)
+    - [s. 18 Borrowing powers of new town commissions.](section/18.md)
+    - [s. 19 Payment of certain contributions, etc., to new town commissions.](section/19.md)
+    - [s. 20 Power of new town commissions to make byelaws.](section/20.md)
+    - [s. 22 Recovery of possession of premises let by new town commissions.](section/22.md)
+    - [s. 25 Extinguishment by new town commissions of public rights of way.](section/25.md)
+    - [s. 26 Contributions by new town commissions towards expenditure in relation to, and for the provision of amenities in, new towns.](section/26.md)
+    - [s. 27 Power of new town commissions to recover certain expenses from district councils.](section/27.md)
+  - Municipal Functions of New Town Commissions
+    - [s. 28 Power of Ministry to confer municipal functions on new town commissions.](section/28.md)
+    - [s. 29 Provisions supplemental to section 28.](section/29.md)
+    - [s. 30 General provisions with respect to municipal functions of new town commissions.](section/30.md)
+    - [s. 31 Financial provisions with respect to municipal functions of new town commissions.](section/31.md)
+    - [s. 32 Committees.](section/32.md)
+    - [s. 32A Exercise of municipal functions through the agency of other bodies.](section/32A.md)
+  - Termination of New Town Commissions
+    - [s. 33 Termination and winding up of new town commissions.](section/33.md)
+  - Supplemental
+    - [s. 34 General provisions with respect to the transfer of functions, etc.](section/34.md)
+    - [s. 35 Provisions with respect to the transfer and compensation of staff.](section/35.md)
+  - Miscellaneous
+    - [s. 41 Power to enter on lands.](section/41.md)
+    - [s. 42 Inquiries and investigations.](section/42.md)
+    - [s. 43 Power of Ministry to make regulations.](section/43.md)
+  - Financial Provisions
+    - [s. 44 Power of Ministry to make grants or advances to new town commissions.](section/44.md)
+    - [s. 45 Duty of Ministry to prepare an account of advances and receipts.](section/45.md)
+    - [s. 46 Expenses.](section/46.md)
+  - General
+    - [s. 47 Power to expand or develop existing towns.](section/47.md)
+    - [s. 48 Interpretation.](section/48.md)
+    - [s. 49 Short title.](section/49.md)
+- SCHEDULE 1 PROCEDURE WITH RESPECT TO ORDERS UNDER SECTION 1 AND MUNICIPAL FUNCTIONS ORDERS
+  - PART I PROVISIONS AS TO ORDERS UNDER SECTION 1
+    - [Sch. 1 Pt. I para. 1](schedule/1/part/I/paragraph/1.md)
+    - [Sch. 1 Pt. I para. 2](schedule/1/part/I/paragraph/2.md)
+    - [Sch. 1 Pt. I para. 3](schedule/1/part/I/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - PART II PROVISIONS AS TO MUNICIPAL FUNCTIONS ORDERS
+    - [Sch. 1 Pt. II para. 1](schedule/1/part/II/paragraph/1.md)
+    - [Sch. 1 Pt. II para. 2](schedule/1/part/II/paragraph/2.md)
+    - [Sch. 1 Pt. II para. 3](schedule/1/part/II/paragraph/3.md)
+- SCHEDULE 2 MODIFICATIONS OF SCHEDULE 5 TO THE ROADS ACT (NORTHERN IRELAND) 1948 FOR THE PURPOSES OF SECTION 4
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 4 NEW TOWN COMMISSIONS
+  - Constitution
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Remuneration
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Proceedings
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Officers and Servants
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Instruments and Contracts
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 MODIFICATIONS OF SECTION 22(2) OF AND SCHEDULE 2 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1934 FOR THE PURPOSES OF SECTION 15
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 PROVISIONS CONSEQUENTIAL ON THE TRANSFER OF FUNCTIONS
+  - Definitions
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Construction of transferred provisions
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Transfer of property
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Transfer of liabilities
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Preservation of continuing contracts
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Continuance of byelaws, rules and regulations
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Continuance of resolutions etc.
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Continuance of pending legal proceedings
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Collection of rates
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Admissibility in evidence of books
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Audit of accounts
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
