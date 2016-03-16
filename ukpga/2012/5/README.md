@@ -2,9 +2,9 @@
 
 2012 c. 5. Enacted 2012-03-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-01-27, one file per provision. Earlier versions, from 2012-03-08, are in the history before it: `git log -- ukpga/2012/5` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-03-16, one file per provision. Earlier versions, from 2012-03-08, are in the history before it: `git log -- ukpga/2012/5` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/5/2016-01-27
+Source: https://www.legislation.gov.uk/ukpga/2012/5/2016-03-16
 
 ## Contents
 
@@ -147,6 +147,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/5/2016-01-27
 - Part 5 Social security: general
   - Benefit cap
     - [s. 96 Benefit cap](section/96.md)
+    - [s. 96A Benefit cap: review](section/96A.md)
     - [s. 97 Benefit cap: supplementary](section/97.md)
   - Claims and awards
     - [s. 98 Claims and awards](section/98.md)
