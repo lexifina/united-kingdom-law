@@ -1,0 +1,119 @@
+# Northern Ireland Constitution Act 1973
+
+1973 c. 36. Enacted 1973-07-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1973/36/2016-04-01
+
+## Contents
+
+- Part I Preliminary
+  - Status of Northern Ireland
+    - [s. 1 ................................](section/1.md)
+  - Devolution orders
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+- Part II Legislative Powers and Executive Authorities
+  - Legislative powers
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+  - Executive authorities
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 Attorney General for Northern Ireland.](section/10.md)
+    - [s. 11 ................................](section/11.md)
+  - Relations with Republic of Ireland
+    - [s. 12 ................................](section/12.md)
+  - Financial provisions
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+- Part III Prevention of Religious and Political Discrimination
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+- Part IV The Northern Ireland Assembly
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+- Part V Miscellaneous and Supplementary
+  - [s. 31](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 Preservation of pension rights of former members of Parliament of Northern Ireland and former Ministers.](section/33.md)
+  - [s. 34 Director of Public Prosecutions for Northern Ireland.](section/34.md)
+  - [s. 35 Crown Solicitor for Northern Ireland.](section/35.md)
+  - [s. 36 Provisions as to other Northern Ireland officers.](section/36.md)
+  - [s. 37 Provisions as to Joint Exchequer Board and other financial matters.](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Repeals.](section/41.md)
+  - [s. 42 Saving for existing laws.](section/42.md)
+  - [s. 43 Short title, interpretation and commencement.](section/43.md)
+- SCHEDULE 1 Polls for Purposes of Section 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Excepted Matters
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Minimum Reserved Matters on Appointed Day
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 13A](schedule/3/paragraph/13A.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20 ................................](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 4 Form of Oath or Affirmation under Section 8
+- SCHEDULE 5 General Adaptation of References to Institutions and Offices Abolished by this Act
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Repeals
