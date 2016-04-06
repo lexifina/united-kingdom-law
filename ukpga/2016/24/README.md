@@ -2,11 +2,9 @@
 
 2016 c. 24. Enacted 2016-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
-
-Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
+Source: https://www.legislation.gov.uk/ukpga/2016/24/2016-04-06
 
 ## Contents
 
@@ -377,7 +375,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
   - Exercise of EMI options
     - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
-- SCHEDULE 4 Pensions: lump sum allowance and lump sum and death benefit allowance: transitional provision
+- SCHEDULE 4 Pensions: lifetime allowance: transitional provision
   - PART 1 “Fixed protection 2016”
     - The protection
       - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
@@ -699,12 +697,9 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
       - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
     - “DOTAS arrangements”
       - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
-    - “Disclosable Schedule 11A VAT arrangements”
-      - [Sch. 18 para. 8A](schedule/18/paragraph/8A.md)
+    - “Disclosable VAT arrangements”
       - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
-    - “Disclosable indirect tax arrangements”
-      - [Sch. 18 para. 9A](schedule/18/paragraph/9A.md)
-    - Paragraphs 8 to 9A: “failure to comply”
+    - Paragraphs 8 and 9: “failure to comply”
       - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
     - “Relevant defeat”
       - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
@@ -718,8 +713,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
       - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
     - Condition E
       - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
-    - Condition F
-      - [Sch. 18 para. 16A](schedule/18/paragraph/16A.md)
   - PART 3 Annual information notices and naming
     - Annual information notices
       - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
@@ -744,7 +737,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
       - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
     - “Claim” for relief
       - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
-    - VAT and indirect taxes
+    - VAT
       - [Sch. 18 para. 28](schedule/18/paragraph/28.md)
     - Power to amend
       - [Sch. 18 para. 29](schedule/18/paragraph/29.md)
@@ -994,7 +987,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
       - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
     - Restriction on imposition of multiple asset-based penalties in relation to the same asset
       - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
-      - [Sch. 22 para. 6A](schedule/22/paragraph/6A.md)
   - PART 2 Amount of penalty
     - Standard amount of asset-based penalty
       - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
@@ -1041,7 +1033,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2026-06-25
     - Enhanced capital allowances
     - Creative tax reliefs
     - Research and development reliefs
-    - Enterprise management incentives exemptions and reliefs
   - PART 2 Tax advantages to which section 180(5) applies
 - SCHEDULE 25 Office of Tax Simplification
   - Membership
