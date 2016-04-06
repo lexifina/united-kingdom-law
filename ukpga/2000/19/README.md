@@ -1,0 +1,278 @@
+# Child Support, Pensions and Social Security Act 2000
+
+2000 c. 19. Enacted 2000-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 25 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/19
+
+Source: https://www.legislation.gov.uk/ukpga/2000/19/2016-04-06
+
+## Contents
+
+- Part I Child Support
+  - Maintenance calculations and interim and default maintenance decisions
+    - [s. 1 Maintenance calculations and terminology.](section/1.md)
+    - [s. 2 Applications under section 4 of the Child Support Act 1991.](section/2.md)
+    - [s. 3 Applications by persons claiming or receiving benefit.](section/3.md)
+    - [s. 4 Default and interim maintenance decisions.](section/4.md)
+  - Applications for a variation
+    - [s. 5 Departure from usual rules for calculating maintenance.](section/5.md)
+    - [s. 6 Applications for a variation: further provisions.](section/6.md)
+    - [s. 7 Variations: revision and supersession.](section/7.md)
+  - Revision and supersession of decisions
+    - [s. 8 Revision of decisions.](section/8.md)
+    - [s. 9 Decisions superseding earlier decisions.](section/9.md)
+  - Appeals
+    - [s. 10 Appeals to appeal tribunals.](section/10.md)
+    - [s. 11 Redetermination of appeals.](section/11.md)
+  - Information
+    - [s. 12 Information required by Secretary of State.](section/12.md)
+    - [s. 13 Information— offences.](section/13.md)
+    - [s. 14 Inspectors.](section/14.md)
+  - Parentage
+    - [s. 15 Presumption of parentage in child support cases.](section/15.md)
+  - Disqualification from driving
+    - [s. 16 Disqualification from driving.](section/16.md)
+    - [s. 17 Civil imprisonment: Scotland.](section/17.md)
+  - Financial penalties
+    - [s. 18 Financial penalties.](section/18.md)
+    - [s. 19 Reduced benefit decisions.](section/19.md)
+  - Miscellaneous
+    - [s. 20 Voluntary payments.](section/20.md)
+    - [s. 21 Recovery of child support maintenance by deduction from benefit.](section/21.md)
+    - [s. 22 Jurisdiction.](section/22.md)
+    - [s. 23 Abolition of the child maintenance bonus.](section/23.md)
+    - [s. 24 Periodical reviews.](section/24.md)
+    - [s. 25 Regulations.](section/25.md)
+    - [s. 26 Amendments.](section/26.md)
+    - [s. 27 Temporary compensation payment scheme.](section/27.md)
+    - [s. 28 Pilot schemes.](section/28.md)
+    - [s. 29 Interpretation, transitional provisions, savings, etc.](section/29.md)
+- Part II Pensions
+  - Chapter I State pensions
+    - State second pension
+      - [s. 30 Earnings from which pension derived.](section/30.md)
+      - [s. 31 Calculation.](section/31.md)
+      - [s. 32 Calculation of Category B retirement pension.](section/32.md)
+      - [s. 33 Revaluation.](section/33.md)
+      - [s. 34 Report of Government Actuary: rebates etc.](section/34.md)
+      - [s. 35 Supplementary.](section/35.md)
+    - Report on pensions uprating
+      - [s. 36 Report on cost of pension uprating in line with general earnings level.](section/36.md)
+    - Earnings factors
+      - [s. 37 Revaluation of earnings factors.](section/37.md)
+      - [s. 38 Modification of earnings factors.](section/38.md)
+    - Preservation of rights in respect of additional pensions
+      - [s. 39 Preservation of rights in respect of additional pensions.](section/39.md)
+    - Other provisions
+      - [s. 40 Home responsibilities protection.](section/40.md)
+      - [s. 41 Sharing of state scheme rights.](section/41.md)
+      - [s. 42 Disclosure of state pension information.](section/42.md)
+  - Chapter II Occupational and Personal Pension Schemes
+    - Selection of trustees and of directors of corporate trustees
+      - [s. 43 Member-nominated trustees.](section/43.md)
+      - [s. 44 Corporate trustees.](section/44.md)
+      - [s. 45 Employer’s proposals for selection of trustees or directors.](section/45.md)
+      - [s. 46 Non-compliance in relation to arrangements or proposals.](section/46.md)
+    - Winding-up of schemes
+      - [s. 47 Information to be given to the Authority.](section/47.md)
+      - [s. 48 Modification of scheme to secure winding-up.](section/48.md)
+      - [s. 49 Reports about winding-up.](section/49.md)
+      - [s. 50 Directions for facilitating winding-up.](section/50.md)
+    - Other provisions
+      - [s. 51 Restriction on index-linking where annuity tied to investments.](section/51.md)
+      - [s. 52 Information for members of schemes etc.](section/52.md)
+      - [s. 53 Jurisdiction of the Pensions Ombudsman.](section/53.md)
+      - [s. 54 Investigations by the Pensions Ombudsman.](section/54.md)
+      - [s. 55 Prohibition on different rules for overseas residents etc.](section/55.md)
+      - [s. 56 Miscellaneous amendments and alternative to anti-franking rules.](section/56.md)
+  - Chapter III War Pensions
+    - [s. 57 Rights of appeal.](section/57.md)
+    - [s. 58 Time limit for appeals.](section/58.md)
+    - [s. 59 Matters relevant on appeal to Pensions Appeal Tribunal.](section/59.md)
+    - [s. 60 Constitution and procedure of Pensions Appeal Tribunals.](section/60.md)
+    - [s. 61 Composition of central advisory committee.](section/61.md)
+- Part III Social Security
+  - Loss of benefit
+    - [s. 62 Loss of benefit for breach of community order.](section/62.md)
+    - [s. 63 Loss of joint-claim jobseeker’s allowance.](section/63.md)
+    - [s. 64 Information provision.](section/64.md)
+    - [s. 65 Loss of benefit regulations.](section/65.md)
+    - [s. 66 Appeals relating to loss of benefit.](section/66.md)
+  - Investigation powers
+    - [s. 67 Investigation powers.](section/67.md)
+  - Housing benefit and council tax benefit etc.
+    - [s. 68 Housing benefit and council tax benefit: revisions and appeals.](section/68.md)
+    - [s. 69 Discretionary financial assistance with housing.](section/69.md)
+    - [s. 70 Grants towards cost of discretionary housing payments.](section/70.md)
+    - [s. 71 Recovery of housing benefit.](section/71.md)
+  - Child benefit
+    - [s. 72 Child benefit disregards.](section/72.md)
+  - Social Security Advisory Committee
+    - [s. 73 Social Security Advisory Committee.](section/73.md)
+- Part IV National Insurance Contributions
+  - Great Britain
+    - [s. 74 Contributions in respect of benefits in kind: Great Britain.](section/74.md)
+    - [s. 75 Third party providers of benefits in kind: Great Britain.](section/75.md)
+    - [s. 76 Collection etc. of NICs: Great Britain.](section/76.md)
+    - [s. 77 Liability of earner for secondary contributions: Great Britain.](section/77.md)
+  - Northern Ireland
+    - [s. 78 Contributions in respect of benefits in kind: Northern Ireland.](section/78.md)
+    - [s. 79 Third party providers of benefits in kind: Northern Ireland.](section/79.md)
+    - [s. 80 Collection etc. of NICs: Northern Ireland.](section/80.md)
+    - [s. 81 Liability of earner for secondary contributions: Northern Ireland.](section/81.md)
+- Part V Miscellaneous and supplemental
+  - Miscellaneous
+    - [s. 82 Tests for determining parentage.](section/82.md)
+    - [s. 83 Declarations of status.](section/83.md)
+  - Supplemental
+    - [s. 84 Expenses.](section/84.md)
+    - [s. 85 Repeals.](section/85.md)
+    - [s. 86 Commencement and transitional provisions.](section/86.md)
+    - [s. 87 Short title and extent.](section/87.md)
+- SCHEDULE 1 Substituted Part I of Schedule 1 to the Child Support Act 1991
+- SCHEDULE 2 Substituted Schedules 4A and 4B to the 1991 Act
+  - Part I Substituted Schedule 4A
+  - Part II Substituted Schedule 4B
+- SCHEDULE 3 Amendment of enactments relating to child support
+  - The Army Act 1955 (3 & 4 Eliz. 2 c.18)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Air Force Act 1955 (3 & 4 Eliz. 2 c.19)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Matrimonial Causes Act 1973 (c.18)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Domestic Proceedings and Magistrates Courts Act 1978 (c.22)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Family Law (Scotland) Act 1985 (c.37)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Insolvency Act 1986 (c.45)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Debtors (Scotland) Act 1987 (c.18)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Income and Corporation Taxes Act 1988 (c.1)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Finance Act 1988 (c.39)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Children Act 1989 (c.41)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Child Support Act 1991 (c.48)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Social Security Administration Act 1992 (c.5)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Child Support Act 1995 (c.34)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Prisoners’ Earnings Act 1996 (c.33)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Social Security Act 1998 (c.14)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Additional pension
+- SCHEDULE 5 Pensions: miscellaneous amendments and alternative to anti-franking rules
+  - Part I Miscellaneous amendments
+    - Guaranteed minimum for widows and widowers
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Transfer of rights to overseas personal pension schemes
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Protected rights
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Review and alteration of rates of contribution
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Contributions equivalent premiums: Great Britain
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Contributions equivalent premiums: Northern Ireland
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Use of cash equivalent for annuity
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Transfer values where pension in payment
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Information about contracting-out
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Register of disqualified trustees
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Conditions of payment of surplus to employer
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Duties relating to statements of contributions
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Interpretation of Part I
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Part II Alternative to anti-franking rules
+    - Cases in which alternative applies
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Alternative rules
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Relationship between alternative rules and other rules
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Supplemental
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Social security investigation powers
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Replacement for inspector’s powers
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Exercise of powers on behalf of local authorities
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Consequential amendments
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+- SCHEDULE 8 Declarations of status: consequential amendments
+  - The Births and Deaths Registration Act 1953 (c.20)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Magistrates’ Courts Act 1980 (c.43)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Family Law Act 1986 (c.55)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - The Family Law Reform Act 1987 (c.42)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - The Children Act 1989 (c.41)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - The Child Support Act 1991 (c.48)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - The Access to Justice Act 1999 (c.22)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+- SCHEDULE 9 Repeals and revocations
+  - Part I Child support
+  - Part II State pensions
+  - Part III Occupational and personal pension schemes
+  - Part IV War pensions
+  - Part V Loss of benefit
+  - Part VI Investigation powers
+  - Part VII Housing Benefit and Council Tax Benefit
+  - Part VIII NICs in respect of benefits in kind
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Part IX Tests for determining parentage and declarations of status
