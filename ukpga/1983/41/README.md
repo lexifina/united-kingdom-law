@@ -1,0 +1,383 @@
+# Health And Social Services And Social Security Adjudications Act 1983
+
+1983 c. 41. Enacted 1983-05-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1983/41
+
+Source: https://www.legislation.gov.uk/ukpga/1983/41/2016-04-06
+
+## Contents
+
+- Part I Community Care
+  - [s. 1 Joint financing of community services in England and Wales.](section/1.md)
+  - [s. 2 Support to financing of community services in Scotland.](section/2.md)
+  - [s. 3 Financial assistance to voluntary organisations in Scotland.](section/3.md)
+- Part II Children and Young Persons
+  - [s. 4 Abolition of regional plans for accommodation for children.](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 Access to children in care—Scotland.](section/7.md)
+  - [s. 8 Secure accommodation for children in Scotland.](section/8.md)
+  - [s. 9 Miscellaneous amendments of enactments relating to children and young persons.](section/9.md)
+- Part III The Central Council for Education and Training in Social Work
+  - [s. 10 The Central Council for Education and Training in Social Work.](section/10.md)
+- Part IV Residential Homes, Nursing Homes etc.
+  - [s. 11 Registration of homes.](section/11.md)
+- Part V Organisation of the National Health Service
+  - [s. 12 Amendments of National Health Service Act 1977.](section/12.md)
+  - [s. 13 Repeal of provisions about designation and membership of teaching authorities.](section/13.md)
+- Part VI Medical Practitioners etc.
+  - [s. 14 Medical practitioners etc.](section/14.md)
+  - [s. 15 Dental practitioners whose registration is suspended—England and Wales.](section/15.md)
+  - [s. 16 Dental practitioners whose registration is suspended—Scotland.](section/16.md)
+- Part VII Charges for Local Authority Services
+  - [s. 17 Charges for local authority services in England ....](section/17.md)
+  - [s. 18 Charges for local authority services in Scotland.](section/18.md)
+  - [s. 19 Contributions in respect of children in care.](section/19.md)
+  - [s. 20 Power of local authority to limit charge for residential accommodation to minimum rate.](section/20.md)
+  - [s. 21 Recovery of sums due to local authority where persons in residential accommodation have disposed of assets.](section/21.md)
+  - [s. 22 Arrears of contributions charged on interest in land in England and Wales.](section/22.md)
+  - [s. 23 Arrears of contributions secured over interest in land in Scotland.](section/23.md)
+  - [s. 24 Interest on sums charged on or secured over interest in land.](section/24.md)
+- Part VIII Miscellaneous
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 Fees for certificates relating to notifiable diseases and food poisoning.](section/26.md)
+  - [s. 27 Abolition of advisory bodies.](section/27.md)
+- Part IX Supplementary
+  - [s. 28 Financial provisions.](section/28.md)
+  - [s. 29 Minor and consequential amendments.](section/29.md)
+  - [s. 30 Repeals and revocation.](section/30.md)
+  - [s. 31 Power to repeal or amend local Acts.](section/31.md)
+  - [s. 32 Commencement.](section/32.md)
+  - [s. 33 Extent.](section/33.md)
+  - [s. 34 Short title.](section/34.md)
+- SCHEDULE 1 Access to Children in Care—England and Wales
+  - Part I ADDITION OF PART IA TO CHILD CARE ACT 1980
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part II Other Amendments
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Miscellaneous Amendments Relating to Children and Young Persons
+  - Adoption Act 1958 (c. 5.)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Children Act 1958 (c.65.)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Mental Health Act 1959 (c. 72.)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Social Work (Scotland) Act 1968 (c. 49.)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Family Law Reform Act 1969 (c. 46.)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Children and Young Persons Act 1969 (c. 54.)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Matrimonial Causes Act 1973 (c. 18.)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Powers of Criminal Courts Act 1973 (c. 62.)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Children Act 1975 (c. 72.)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Adoption Act 1976 (c. 36.)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - Adoption (Scotland) Act 1978 (c. 28.)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+  - Child Care Act 1980 (c. 5.)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+  - Interpretation
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+- SCHEDULE 3
+  - Part I
+    - Membership
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Part II Supplementary
+    - Committees
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Proceedings
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Staff
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Payment of allowances to members
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Accounts and audit
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Expenses of Council
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+- SCHEDULE 4 Registered Homes
+  - Part I Residential Care Homes
+    - Requirement of registration
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - General interpretation
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Meaning of “relative”
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Penalty for carrying on home without registration
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Registration of managers etc. and persons in control
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Optional registration
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Registration
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Death of only person registered in respect of home
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Inspection of registers
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Annual fee for registration
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Refusal of registration
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Cancellation of registration
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Urgent procedure for cancellation of registration etc.
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Procedure—general
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Right to make representations
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Appeals
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Service of documents
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Conduct of residential care homes
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Inspection of homes
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Prosecutions etc.
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Regulations
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Part II Amendments of Acts Relating to Registered Homes
+    - Nursing Homes Act 1975
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - Child Care Act 1980
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - Children’s Homes Act 1982
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+  - Part III Registered Homes Tribunals
+    - Premiminary
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - Constitution of panels for chairmen and members
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - Constitution of Tribunals—general
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - Tribunals for appeals relating to nursing homes (includingmaternity homes) and mental nursing homes
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - Procedure of tribunals
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - Staff for tribunals
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - Fees, allowances and expenses
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+- SCHEDULE 5 Amendments of National Health Service Act 1977
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Medical Practitioners etc.
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Arrangements for provision of general medical services in England and Wales
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Control of remuneration and conditions of service of health service officers
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Provisions relating to Preserved Boards of Governors
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Amendment of National Health Service (Scotland) Act 1978
+  - Delegation of functions to Health Boards
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Arrangements for provision of general medical services in Scotland
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Disposal of land
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Control of remuneration and conditions of service of employees
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Social Security Adjudications
+  - Part I General
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Part II Amendments of Social Security Act 1975
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Parts III and IV
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Part V Miscellaneous Amendments
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Social Security and Housing Benefits Act 1982 (c. 24)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Part VI Medical Boards
+    - Amendments of Social Security Act 1975
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Supplementary
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - Part VII Supplementary
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+- SCHEDULE 9 Minor and Consequential Amendments
+  - Part I Miscellaneous Amendments
+    - Public Health Act 1936 (c. 49)
+      - [Sch. 9 Pt. I heading public-health-act-1936-c-49 para. 1](schedule/9/part/I/crossheading/public-health-act-1936-c-49/paragraph/1.md)
+    - Public Health (Scotland) Act 1945 (c. 15)
+      - [Sch. 9 Pt. I heading public-health-scotland-act-1945-c-15 para. 2](schedule/9/part/I/crossheading/public-health-scotland-act-1945-c-15/paragraph/2.md)
+    - National Assistance Act 1948 (c. 29)
+      - [Sch. 9 Pt. I heading national-assistance-act-1948-c-29 para. 3](schedule/9/part/I/crossheading/national-assistance-act-1948-c-29/paragraph/3.md)
+      - [Sch. 9 Pt. I heading national-assistance-act-1948-c-29 para. 4](schedule/9/part/I/crossheading/national-assistance-act-1948-c-29/paragraph/4.md)
+    - Nurseries and Child-Minders Regulation Act 1948 (c. 53)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Mental Health Act 1959 (c. 72)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Social Work (Scotland) Act 1968 (c. 49)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Local Authority Social Services Act 1970 (c. 7)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Tribunals and Inquiries Act 1971 (c. 62)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Guardianship Act 1973 (c. 29)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Adoption Act 1976 (c. 36)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - National Health Service Act 1977 (c. 49)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - National Health Service (Scotland) Act 1978 (c. 29)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - Employment Protection (Consolidation) Act 1978 (c. 44)
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - Foster Children Act 1980 (c. 6)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - Reserve Forces Act 1980 (c. 9)
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - Overseas Development and Cooperation Act 1980 (c. 63)
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - Part II Meals and Recreation for Old People
+    - [Sch. 9 Pt. II para. 1](schedule/9/part/II/paragraph/1.md)
+    - [Sch. 9 Pt. II para. 2](schedule/9/part/II/paragraph/2.md)
+    - [Sch. 9 Pt. II para. 3](schedule/9/part/II/paragraph/3.md)
+    - [Sch. 9 Pt. II para. 4](schedule/9/part/II/paragraph/4.md)
+- SCHEDULE 10 Repeals and Revocation
+  - Part I Repeals
+  - Part II Revocation
