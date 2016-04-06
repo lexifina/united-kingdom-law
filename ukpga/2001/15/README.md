@@ -1,0 +1,150 @@
+# Health and Social Care Act 2001
+
+2001 c. 15. Enacted 2001-05-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2001/15
+
+Source: https://www.legislation.gov.uk/ukpga/2001/15/2016-04-06
+
+## Contents
+
+- Part 1 National Health Service
+  - Health service funding
+    - [s. 1 Determination of allotments to and resource limits for Health Authorities and Primary Care Trusts](section/1.md)
+    - [s. 2 Payments relating to past performance](section/2.md)
+    - [s. 3 Supplementary payments to NHS trusts and Primary Care Trusts](section/3.md)
+    - [s. 4 Public-private partnerships](section/4.md)
+    - [s. 5 Income generation](section/5.md)
+  - Terms of employment of health service employees
+    - [s. 6 Terms and conditions of employment by health service bodies](section/6.md)
+  - Local authority scrutiny of health service provision
+    - [s. 7 Functions of overview and scrutiny committees](section/7.md)
+    - [s. 8 Joint overview and scrutiny committees etc.](section/8.md)
+    - [s. 9 Overview and scrutiny committees: exempt information](section/9.md)
+    - [s. 10 Application to the City of London](section/10.md)
+  - Public involvement and consultation
+    - [s. 11 Public involvement and consultation](section/11.md)
+  - Independent advocacy services
+    - [s. 12 Independent advocacy services](section/12.md)
+  - Intervention powers
+    - [s. 13 Intervention orders](section/13.md)
+  - Abolition of Medical Practices Committee and National Health Service Tribunal
+    - [s. 14 Abolition of Medical Practices Committee](section/14.md)
+    - [s. 15 Vacancies for medical practitioners](section/15.md)
+    - [s. 16 Abolition of NHS Tribunal](section/16.md)
+  - General and personal medical services, general dental services, general ophthalmic services and pharmaceutical services
+    - [s. 17 Remuneration of general medical practitioners](section/17.md)
+    - [s. 18 Out of hours medical services](section/18.md)
+    - [s. 19 Enhanced criminal record certificates](section/19.md)
+    - [s. 20 Medical, dental, ophthalmic and pharmaceutical etc. lists](section/20.md)
+    - [s. 21 Conditional inclusion in medical, dental, ophthalmic and pharmaceutical lists](section/21.md)
+    - [s. 22 Dental corporations](section/22.md)
+    - [s. 23 Declaration of financial interests, gifts, etc.](section/23.md)
+    - [s. 24 Supplementary lists](section/24.md)
+    - [s. 25 Suspension and disqualification of practitioners](section/25.md)
+  - Personal medical services and personal dental services
+    - [s. 26 PMS and PDS lists](section/26.md)
+  - The Family Health Services Appeal Authority
+    - [s. 27 The Family Health Services Appeal Authority](section/27.md)
+- Part 2 Pharmaceutical Services
+  - Chapter 1 Local Pharmaceutical Services
+    - Preparation and making of pilot schemes
+      - [s. 28 Pilot schemes](section/28.md)
+      - [s. 29 Making pilot schemes](section/29.md)
+      - [s. 30 Designation of priority neighbourhoods or premises](section/30.md)
+    - Reviews, variation and termination of pilot schemes
+      - [s. 31 Reviews of pilot schemes](section/31.md)
+      - [s. 32 Variation and termination of pilot schemes](section/32.md)
+    - NHS contracts and financial provisions
+      - [s. 33 NHS contracts](section/33.md)
+      - [s. 34 Funding of preparatory work](section/34.md)
+      - [s. 35 Charges, recovery of payments and penalties](section/35.md)
+    - General
+      - [s. 36 Effect of the 1977 Act](section/36.md)
+      - [s. 37 Premises from which piloted services may be provided](section/37.md)
+      - [s. 38 Control of entry regulations](section/38.md)
+    - Assessing the result of pilot schemes
+      - [s. 39 Assessing pilot schemes](section/39.md)
+    - Provision for local pharmaceutical schemes
+      - [s. 40 Provision for LPS schemes](section/40.md)
+    - Corresponding provision, etc.
+      - [s. 41 Corresponding provision and application of enactments](section/41.md)
+  - Chapter 2 Changes to existing arrangements
+    - England and Wales
+      - [s. 42 Dispensing of NHS prescriptions and provision of pharmaceutical services](section/42.md)
+      - [s. 43 Remote provision of pharmaceutical, etc. services](section/43.md)
+    - Scotland
+      - [s. 44 Dispensing of NHS prescriptions](section/44.md)
+- Part 3 Care Trusts and Partnership Arrangements
+  - [s. 45 Care Trusts](section/45.md)
+  - [s. 46 Directed partnership arrangements](section/46.md)
+  - [s. 47 Further provisions about directions in connection with directed partnership arrangements and Care Trusts](section/47.md)
+  - [s. 48 Transfer of staff in connection with partnership arrangements](section/48.md)
+- Part 4 Social Care
+  - Nursing care
+    - [s. 49 Exclusion of nursing care from community care services](section/49.md)
+  - Preserved rights
+    - [s. 50 Preserved rights: transfer to local authorities of responsibilities as to accommodation](section/50.md)
+    - [s. 51 Preserved rights: disclosure of information](section/51.md)
+    - [s. 52 Preserved rights: alignment of social security benefits](section/52.md)
+  - Measures to increase availability of Part 3 accommodation
+    - [s. 53 Disregarding of resources when determining need for residential accommodation](section/53.md)
+    - [s. 54 Funding by resident etc. of more expensive accommodation](section/54.md)
+    - [s. 55 Power for local authorities to take charges on land instead of contributions](section/55.md)
+    - [s. 56 Cross-border placements](section/56.md)
+  - Direct payments
+    - [s. 57 Direct payments](section/57.md)
+    - [s. 58 Direct payments in respect of children](section/58.md)
+  - Supplementary
+    - [s. 59 Interpretation of Part 4](section/59.md)
+- Part 5 Miscellaneous and supplementary
+  - Patient information
+    - [s. 60 Control of patient information](section/60.md)
+    - [s. 61 Patient Information Advisory Group](section/61.md)
+  - Services for disabled people
+    - [s. 62 Reports to Parliament on services for disabled people](section/62.md)
+  - Prescribing rights
+    - [s. 63 Extension of prescribing rights](section/63.md)
+  - Supplementary
+    - [s. 64 Regulations and orders](section/64.md)
+    - [s. 65 Supplementary and consequential provision etc](section/65.md)
+    - [s. 66 Interpretation](section/66.md)
+    - [s. 67 Minor and consequential amendments and repeals](section/67.md)
+    - [s. 68 Powers of National Assembly for Wales under amended Acts](section/68.md)
+    - [s. 69 Financial provisions](section/69.md)
+    - [s. 70 Short title, commencement and extent](section/70.md)
+- SCHEDULE 1 Exempt information relating to health services
+- SCHEDULE 2 Pilot Schemes
+  - ...
+- SCHEDULE 3 LPS Schemes
+  - ...
+- SCHEDULE 4 Partnership Arrangements: Transfer of Staff
+  - ...
+- SCHEDULE 5 Minor and consequential amendments
+  - Part 1 National Health Service
+    - [Sch. 5 para. 1 Health Services and Public Health Act 1968 (c. 46)](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 House of Commons Disqualification Act 1975 (c. 24)](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Patents Act 1977 (c. 37)](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 National Health Service Act 1977 (c. 49)](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Mental Health Act 1983 (c. 20)](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Copyright, Designs and Patents Act 1988 (c. 19)](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8 National Health Service and Community Care Act 1990 (c. 48)](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Trade Union and Labour Relations (Consolidation) Act 1992 (c. 46)](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Tribunals and Inquiries Act 1992 (c. 53)](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11 National Health Service (Primary Care) Act 1997 (c. 46)](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12 Health Act 1999 (c. 8)](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13 Local Government Act 2000 (c. 22)](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14 Freedom of Information Act 2000 (c. 36)](schedule/5/paragraph/14.md)
+  - Part 2 Social Care
+    - [Sch. 5 para. 15 Local Authority Social Services Act 1970 (c. 42)](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16 Carers and Disabled Children Act 2000 (c. 16)](schedule/5/paragraph/16.md)
+  - PART 3 Patient Information
+    - [Sch. 5 para. 17 House of Commons Disqualification Act 1975 (c. 24)](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18 Freedom of Information Act 2000 (c. 36)](schedule/5/paragraph/18.md)
+- SCHEDULE 6 Repeals
+  - Part 1 National Health Service
+  - Part 2 Pharmaceutical Services
+  - Part 3 Social Care
