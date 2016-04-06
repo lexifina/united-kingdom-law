@@ -1,0 +1,325 @@
+# Reserve Forces Act 1980
+
+1980 c. 9. Enacted 1980-03-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/9
+
+Source: https://www.legislation.gov.uk/ukpga/1980/9/2016-04-06
+
+## Contents
+
+- Part I The Reserve and Auxiliary Forces
+  - Naval and marine reserves
+    - [s. 1 .](section/1.md)
+    - [s. 2 .](section/2.md)
+    - [s. 3 Royal Marines Reserve.](section/3.md)
+  - Army reserves and auxiliaries
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Air force reserves and auxiliaries
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+- Part II Call Out and Recall
+  - General provisions as to call out for permanent service
+    - [s. 10 Call out for national danger.](section/10.md)
+    - [s. 11](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 Provisions supplemental to ss. 10 to 12.](section/13.md)
+  - Call out under special agreement
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+  - Other provisions as to call out for service
+    - [s. 16 Permanent service call out of naval and marine reserves.](section/16.md)
+    - [s. 17 Naval and marine reserve service under ss. 10 and 16.](section/17.md)
+    - [s. 18 Permanent service call out of Regular Reserve.](section/18.md)
+    - [s. 19 Duration of Regular Reserve permanent service.](section/19.md)
+    - [s. 19A Postponement of discharge of members of Regular Reserve during call out.](section/19A.md)
+    - [s. 20 Permanent service call out of Air Force Reserve.](section/20.md)
+    - [s. 21 Duration of Air Force Reserve permanent service.](section/21.md)
+    - [s. 21A Postponement of discharge of members of Air Force Reserve during call out.](section/21A.md)
+    - [s. 22](section/22.md)
+    - [s. 23 .](section/23.md)
+    - [s. 24 Permanent service call out of Ulster Defence Regiment.](section/24.md)
+    - [s. 25 Emergency service call out of Ulster Defence Regiment.](section/25.md)
+    - [s. 25A Application of section 62 of the Reserve Forces Act 1996](section/25A.md)
+  - Call-out notices under certain enactments
+    - [s. 26](section/26.md)
+    - [s. 27 .](section/27.md)
+    - [s. 28 Differing service liabilities of those called out.](section/28.md)
+    - [s. 29 End of service under call-out notices.](section/29.md)
+    - [s. 29A Application of provisions relating to recall](section/29A.md)
+  - Recall of service pensioners and former soldiers
+    - [s. 30 Liability of naval and marine pensioners to recall.](section/30.md)
+    - [s. 31 Liability of army and air force pensioners to recall.](section/31.md)
+    - [s. 32 Occasion for and period of recall under s. 31.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Liability of certain former soldiers to recall.](section/34.md)
+    - [s. 35 Recall notices](section/35.md)
+    - [s. 36 Application of sections 71, 73 to 75 and 77 of the Reserve Forces Act 1996 to persons recalled under section 30, 31 or 34](section/36.md)
+    - [s. 36A Application of Part X of the Reserve Forces Act 1996 to persons liable to recall under section 30, 31 or 34](section/36A.md)
+  - Call out for training
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 Regular Reserve, Air Force Reserve and Army Reserve training.](section/38.md)
+    - [s. 39 Application of s. 38.](section/39.md)
+    - [s. 40 Preliminary training of Royal Auxiliary Air Force.](section/40.md)
+    - [s. 41 Annual training of Royal Auxiliary Air Force.](section/41.md)
+    - [s. 42 Variation and cancellation of training periods for Royal Auxiliary Air Force.](section/42.md)
+    - [s. 42A Application of section 23 of the Reserve Forces Act 1996](section/42A.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 Requirement as to training of Ulster Defence Regiment in Northern Ireland.](section/44.md)
+- Part III Naval and Marine Reserves
+  - Officers of reserve to the Royal Navy
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+  - General provisions as to the naval and marine reserves
+    - [s. 47 False answers on enlistment.](section/47.md)
+    - [s. 48 Void enlistment in Royal Marines or regular army.](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 Term of service in Royal Naval Reserve and Royal Fleet Reserve.](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 Admission to Greenwich Hospital.](section/55.md)
+    - [s. 56 ................................](section/56.md)
+  - Special class of Royal Fleet Reserve
+    - [s. 57 Special class of Royal Fleet Reserve.](section/57.md)
+    - [s. 58 Transfers to Royal Fleet Resreve.](section/58.md)
+  - Pay, pensions and other payments in respect of naval and marine reserves
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 ................................](section/61.md)
+- Part IV Regular Reserve and Air Force Reserve
+  - Regular Reserve
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 Exercise of powers vested in military office holder.](section/63.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 ................................](section/65.md)
+  - Air Force Reserve
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 Exercise of powers vested in air force officer holder.](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Special reservist called out for permanent service.](section/69.md)
+    - [s. 70 Special reservist called out for special courses, etc.](section/70.md)
+  - Enlistment in Regular Reserve and Air Force Reserve
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 .](section/72.md)
+  - Offences
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 .](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 ................................](section/81.md)
+  - Miscellaneous
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 Interpretation of Part IV.](section/87.md)
+- Part V Army Reserve and Royal Auxiliary Air Force
+  - Government, discipline and pay of Army Reserve and Royal Auxiliary Air Force
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 Exercise of powers of military and air force office holders.](section/93.md)
+  - Enlistment
+    - [s. 94 ................................](section/94.md)
+    - [s. 95 ................................](section/95.md)
+    - [s. 96 .](section/96.md)
+    - [s. 97 .](section/97.md)
+  - Discharge
+    - [s. 98 ................................](section/98.md)
+    - [s. 99 ................................](section/99.md)
+    - [s. 100 Postponement of discharge: Army Reserve and Royal Auxiliary Air Force.](section/100.md)
+    - [s. 101 Postponement of discharge: Army Reserve.](section/101.md)
+    - [s. 102 ................................](section/102.md)
+  - Additional provisions as to call-out
+    - [s. 103 ................................](section/103.md)
+    - [s. 104 ................................](section/104.md)
+    - [s. 105 ................................](section/105.md)
+  - Offences
+    - [s. 106 ................................](section/106.md)
+    - [s. 107 .](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 ................................](section/109.md)
+    - [s. 110 ................................](section/110.md)
+    - [s. 111 ................................](section/111.md)
+    - [s. 112 ................................](section/112.md)
+    - [s. 113 ................................](section/113.md)
+    - [s. 114 ................................](section/114.md)
+    - [s. 115 ................................](section/115.md)
+    - [s. 116 ................................](section/116.md)
+  - Miscellaneous
+    - [s. 117 ................................](section/117.md)
+    - [s. 118 ................................](section/118.md)
+    - [s. 119 ................................](section/119.md)
+    - [s. 120 Service of notices for Army Reserve and Royal Auxiliary Air Force.](section/120.md)
+- Part VI Territorial, Auxiliary and Volunteer Reserve Associations, and the Lieutenancies
+  - Army and air force associations
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 ................................](section/122.md)
+    - [s. 123 ................................](section/123.md)
+    - [s. 124 ................................](section/124.md)
+    - [s. 125 ................................](section/125.md)
+    - [s. 126 ................................](section/126.md)
+    - [s. 127 ................................](section/127.md)
+    - [s. 128 ................................](section/128.md)
+    - [s. 129 ................................](section/129.md)
+  - The lieutenancies
+    - [s. 130 ................................](section/130.md)
+    - [s. 131 ................................](section/131.md)
+    - [s. 132 ................................](section/132.md)
+    - [s. 133 ................................](section/133.md)
+    - [s. 134 ................................](section/134.md)
+    - [s. 135 ................................](section/135.md)
+    - [s. 136 ................................](section/136.md)
+    - [s. 137 ................................](section/137.md)
+    - [s. 138 Commissioners of lieutenancy for City of London.](section/138.md)
+- Part VII Ulster Defence Regiment
+  - Membership of Ulster Defence Regiment
+    - [s. 139 Enrolment, re-engagement and resignation.](section/139.md)
+    - [s. 140 Orders and regulations as to pensions and other grants.](section/140.md)
+  - Military status of members of Ulster Defence Regiment
+    - [s. 141 Membership of armed forces and application of military law.](section/141.md)
+    - [s. 142 Application of Army Act.](section/142.md)
+  - Offences
+    - [s. 143 Failure to attend or comply.](section/143.md)
+    - [s. 144 Assistance in desertion, etc.](section/144.md)
+- Part VIII Miscellaneous and Supplemental
+  - Reinstatement in civil employment, and protection of other civil interests
+    - [s. 145 Reinstatement in civil employment.](section/145.md)
+    - [s. 146 Protection of other civil interests.](section/146.md)
+  - Charitable property on disbanding of units
+    - [s. 147 ................................](section/147.md)
+    - [s. 148 ................................](section/148.md)
+    - [s. 149 ................................](section/149.md)
+  - Further powers as to orders and regulations
+    - [s. 150 ................................](section/150.md)
+    - [s. 151 Pensions and other grants under Home Guard Act 1951 c. 8.](section/151.md)
+    - [s. 152 .](section/152.md)
+  - Other provisions as to orders, schemes and regulations
+    - [s. 153 ................................](section/153.md)
+    - [s. 154 Additional provisions as to Orders in Council and schemes.](section/154.md)
+    - [s. 155 Amendment of subordinate legislation.](section/155.md)
+  - Other supplemental provisions
+    - [s. 156 Interpretation.](section/156.md)
+    - [s. 157 Saving and transitional provisions, consequential amendments and repeals.](section/157.md)
+    - [s. 158 Citation, extent and commencement.](section/158.md)
+- SCHEDULE 1
+  - Special agreements
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Notices
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Length of call out
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Calculation of length of service
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Special agreements and the Army Reserve
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Application of the Army Act 1955
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Army and Air Force Pensioners and other Former Soldiers not Liable to be Recalled for Service
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3
+  - Enlistment
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Procedure on attestation
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Validity of attestation and enlistment
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - False answers in attestation papers
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Evidence as to attestation papers
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Interpretation of Schedule 3
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4
+- SCHEDULE 5
+  - Arrest of deserters and absentees without leave
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Proceedings before a civil court where persons suspected of illegal absence
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Deserters and absentees without leave surrendering to police
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Certificates of arrest or surrender of deserters and absentees
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Duties of governors of prisons and others to receive deserters and absentees
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6
+  - General provisions as to evidence
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Proof of outcome of civil trial
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 7
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Saving and Transitional Provisions
+  - General
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Saving of amendments
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Permanent service in naval and marine reserves
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Militia storehouses
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Enlistment in the Army Reserve or Royal Auxiliary Air Force prior to order or regulation under Auxiliary Forces Act 1953
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Reserve of officers maintained under section 11(4) of Auxiliary Forces Act 1953
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Transfers to reserve under Army Act and Air Force Act
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Modifications of other enactments
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Naval and Marine Reserves Pay Act 1957
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - The lieutenancies in England and Wales
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - The lieutenancies in Scotland
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Permanent service call out of special class of Royal Fleet Reserve otherwise than under section 11
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Permanent service call out of Regular Reserve and Air Force Reserve otherwise than under section 11
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Call out for training of Regular Reserve and Air Force Reserve otherwise than under section 38
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Call out for training of Army Reserve otherwise than under section 38
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Election for section 38 to apply
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Section 12 of Social Security (Miscellaneous Provisions) Act 1977
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 CONSEQUENTIAL AMENDMENTS
+  - ORDERS
+    - Industrial Relations (Northern Ireland) Order 1976
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Industrial Relations (No. 2) (Northern Ireland) Order 1976
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+- SCHEDULE 10. Repeals
