@@ -2,9 +2,9 @@
 
 2010 c. 32. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2014-09-01, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-04-18, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/32/2014-09-01
+Source: https://www.legislation.gov.uk/ukpga/2010/32/2016-04-18
 
 ## Contents
 
@@ -15,10 +15,19 @@ Source: https://www.legislation.gov.uk/ukpga/2010/32/2014-09-01
   - [s. 1C Alternative provision Academies](section/1C.md)
   - [s. 1D Alternative provision Academies: powers to apply provisions with modifications](section/1D.md)
   - [s. 2 Payments under Academy agreements](section/2.md)
+  - [s. 2A Academy agreements: provision about failing schools](section/2A.md)
+  - [s. 2B Academy agreements: provision about coasting schools](section/2B.md)
+  - [s. 2C Sections 2A and 2B supplementary - new agreements](section/2C.md)
+  - [s. 2D Sections 2A and 2B: supplementary - old agreements](section/2D.md)
 - Conversion of schools into Academies
   - [s. 3 Application for Academy order](section/3.md)
   - [s. 4 Academy orders](section/4.md)
-  - [s. 5 Consultation on conversion](section/5.md)
+  - [s. 5 Consultation about conversion: schools not eligible for intervention](section/5.md)
+  - [s. 5A Consultation about identity of Academy sponsor in certain cases](section/5A.md)
+  - [s. 5B Duty to facilitate conversion](section/5B.md)
+  - [s. 5C Power to give directions to do with conversion](section/5C.md)
+  - [s. 5D Power to revoke Academy orders under section 4(A1) or (1)(b)](section/5D.md)
+  - [s. 5E Duty to communicate information about plans to improve school](section/5E.md)
   - [s. 6 Effect of Academy order](section/6.md)
   - [s. 7 Transfer of school surpluses](section/7.md)
   - [s. 8 Transfer schemes: other property, rights and liabilities](section/8.md)
