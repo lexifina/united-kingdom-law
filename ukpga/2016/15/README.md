@@ -2,11 +2,9 @@
 
 2016 c. 15. Enacted 2016-05-04.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-04, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/15
-
-Source: https://www.legislation.gov.uk/ukpga/2016/15/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2016/15/2016-05-04
 
 ## Contents
 
@@ -47,7 +45,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/15/2026-04-01
   - [s. 25 Commencement](section/25.md)
   - [s. 26 Short title](section/26.md)
 - SCHEDULE 1 Certification Officer: investigatory powers: Schedule to be inserted into the 1992 Act
-- SCHEDULE 2 Certification Officer: exercise of powers ... etc
+- SCHEDULE 2 Certification Officer: exercise of powers without application etc
   - Duty to secure positions not held by certain offenders
     - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
   - Elections for certain positions
