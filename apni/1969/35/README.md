@@ -1,0 +1,111 @@
+# Mineral Development Act (Northern Ireland) 1969
+
+apni/1969/35. Enacted 1969-12-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1969/35/2016-05-08
+
+## Contents
+
+  - Vesting of mines and minerals in the Ministry of Commerce, with certain exceptions
+    - [s. 1 Vesting of mines and minerals in the Ministry.](section/1.md)
+    - [s. 2 Exception of scheduled substances and mines thereof.](section/2.md)
+    - [s. 3 Exception of mines and minerals already vested in the Ministry.](section/3.md)
+    - [s. 4 Exception of certain other Crown mines and minerals.](section/4.md)
+    - [s. 5 Exception of mines and minerals the property of religious denominations and educational institutions.](section/5.md)
+    - [s. 6 Exception of merged mines and minerals.](section/6.md)
+    - [s. 7 Exception of minerals held in connection with mines in work or being developed, and of mines of such minerals.](section/7.md)
+  - Provisions for securing the disclosure of interests in certain excepted mines and minerals
+    - [s. 8 Registration of mineral rights where mines are in work or being developed.](section/8.md)
+    - [s. 9 Consequences of non-registration under section 8.](section/9.md)
+    - [s. 10 Safeguards for persons working or developing mines.](section/10.md)
+  - Prospecting
+    - [s. 11 Power of Ministry to prospect or grant prospecting licences.](section/11.md)
+    - [s. 12 Provisions with respect to prospecting licences.](section/12.md)
+    - [s. 13 Working of mines and minerals by licensees and duty to give information respecting minerals.](section/13.md)
+    - [s. 14 Undertaking by the Ministry to grant mining leases, etc.](section/14.md)
+  - Working or disposal of mines and minerals vested in the Ministry
+    - [s. 15 Power of Ministry to work mines and minerals.](section/15.md)
+    - [s. 16 Power to sell estate in mines and minerals.](section/16.md)
+    - [s. 17 Mining leases.](section/17.md)
+    - [s. 18 Mining licences.](section/18.md)
+    - [s. 19 Mining permissions.](section/19.md)
+    - [s. 20 Conditions of disposal.](section/20.md)
+    - [s. 21 Disposal for nominal or no consideration in certain cases.](section/21.md)
+    - [s. 22 Rights of entry and user of land containing mines and minerals vested in the Ministry.](section/22.md)
+  - Ancillary mining facilities
+    - [s. 23 Acquisition of land and ancillary rights.](section/23.md)
+    - [s. 24 Provisions supplemental to section 23.](section/24.md)
+    - [s. 25 Exercise by Ministry of acquired mining facilities.](section/25.md)
+    - [s. 26 Mining facilities permits.](section/26.md)
+    - [s. 27 Conditions of mining facilities permits.](section/27.md)
+    - [s. 28 Surrender of acquired mining facilities.](section/28.md)
+  - Compensation for mines and minerals
+    - [s. 29 Compensation for mines and minerals vested in the Ministry under section 1.](section/29.md)
+    - [s. 30 Persons entitled to compensation under section 29.](section/30.md)
+    - [s. 31 Claims for compensation under section 29.](section/31.md)
+    - [s. 32 Determination of attribution of net profit](section/32.md)
+    - [s. 33 Determination of title to compensation under section 29.](section/33.md)
+    - [s. 34 Determination of certain other questions in relation to compensation under section 29.](section/34.md)
+  - Compensation for loss of dead rent
+    - [s. 35 Compensation for loss of dead rent.](section/35.md)
+    - [s. 36 Claims for compensation under section 35 and determination of disputes.](section/36.md)
+  - Rights of former vendors
+    - [s. 37 Share of persons entitled under s.13(3) of Irish Land Act 1903, where minerals disposed of by Ministry.](section/37.md)
+  - Damage caused by mining operations
+    - [s. 38 Compensation for damage caused in working minerals, etc.](section/38.md)
+    - [s. 39 Power of Lands Tribunal to prohibit, restrict or terminate certain operations.](section/39.md)
+    - [s. 40 Restrictions on working minerals required for support.](section/40.md)
+  - General provisions as to compensation, etc.
+    - [s. 41 Making of claims to the Ministry.](section/41.md)
+    - [s. 42 Satisfaction of claims.](section/42.md)
+    - [s. 43 Disposal of certain dormant or unclaimed moneys.](section/43.md)
+    - [s. 44 Provisions with respect to land subject to Land Purchase Annuity.](section/44.md)
+  - General provisions as to Lands Tribunal
+    - [s. 45 Power of Lands Tribunal to state consultative case for Court of Appeal.](section/45.md)
+    - [s. 46 Enforcement of awards of the Lands Tribunal.](section/46.md)
+  - Miscellaneous
+    - [s. 47 Entry on land.](section/47.md)
+    - [s. 48 Offences.](section/48.md)
+    - [s. 49 Regulations.](section/49.md)
+    - [s. 50 Annual statement and register of notices.](section/50.md)
+    - [s. 51 Account of receipts and expenditure under Act.](section/51.md)
+    - [s. 52 Financial provisions.](section/52.md)
+    - [s. 53 Power of educational institutions to facilitate the working of mines and minerals.](section/53.md)
+    - [s. 54 Repayment of grants, etc., in certain cases.](section/54.md)
+    - [s. 55 Meaning of “stone, gravel, sand or clay” in s.13(3) of the Irish Land Act 1903.](section/55.md)
+    - [s. 56 Definitions of “minerals”, “mine” and “ancillary rights”.](section/56.md)
+    - [s. 57 General interpretation provisions.](section/57.md)
+    - [s. 58 Savings.](section/58.md)
+    - [s. 60 Application of Planning Orders to certain mining development on Crown property.](section/60.md)
+    - [s. 61 Act to bind Crown.](section/61.md)
+    - [s. 63 Short title and commencement.](section/63.md)
+- SCHEDULE 1 SUBSTANCES EXCEPTED BY SECTION 2
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 MINING FACILITIES ORDERS
+    - Making of orders
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Validity and operation of orders
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Reference of disputed cases to the Lands Tribunal
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Special powers of the Lands Tribunal
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Satisfaction of claims
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
