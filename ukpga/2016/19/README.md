@@ -2,11 +2,9 @@
 
 2016 c. 19. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-12, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/19
-
-Source: https://www.legislation.gov.uk/ukpga/2016/19/2026-05-01
+Source: https://www.legislation.gov.uk/ukpga/2016/19/2016-05-12
 
 ## Contents
 
@@ -339,8 +337,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/19/2026-05-01
     - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
   - Illegal working compliance orders
     - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
-  - Prescribed checks and documents
-    - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
   - Illegal working compliance orders: adjournment of hearing
     - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
   - Extension of illegal working compliance orders
