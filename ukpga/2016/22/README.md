@@ -2,11 +2,9 @@
 
 2016 c. 22. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-12, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 34 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
-
-Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-09-14
+Source: https://www.legislation.gov.uk/ukpga/2016/22/2016-05-12
 
 ## Contents
 
@@ -74,7 +72,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-09-14
       - [s. 44 Amount of order: tenants](section/44.md)
       - [s. 45 Amount of order: local housing authorities](section/45.md)
       - [s. 46 Amount of order following conviction](section/46.md)
-      - [s. 46A Amount of order: supplementary](section/46A.md)
     - Enforcement of rent repayment order
       - [s. 47 Enforcement of rent repayment orders](section/47.md)
     - Local housing authority functions
@@ -83,7 +80,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-09-14
     - Amendments etc and interpretation
       - [s. 50 Rent repayment orders: consequential amendments](section/50.md)
       - [s. 51 Housing benefit: inclusion pending abolition](section/51.md)
-      - [s. 51A Landlord which is body corporate: liability of directors etc](section/51A.md)
       - [s. 52 Interpretation of Chapter](section/52.md)
   - CHAPTER 5 Appeals under this Part
     - [s. 53 Appeals from the first-tier tribunal](section/53.md)
@@ -160,7 +156,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-09-14
       - [s. 104 Winding-up orders](section/104.md)
       - [s. 105 Voluntary winding up](section/105.md)
       - [s. 106 Making of ordinary administration orders](section/106.md)
-      - [s. 107 Administrator appointments by creditors etc](section/107.md)
+      - [s. 107 Administrator appointments by creditors](section/107.md)
       - [s. 108 Enforcement of security](section/108.md)
     - Financial support for registered providers in housing administration
       - [s. 109 Grants and loans where housing administration order is made](section/109.md)
@@ -180,7 +176,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2026-09-14
     - [s. 121 Secure and assured tenancies: transfer of tenancy](section/121.md)
 - PART 5 Housing, estate agents and rentcharges: other changes
   - Electrical safety standards
-    - [s. 122 Electrical safety standards for residential properties let by landlords](section/122.md)
+    - [s. 122 Electrical safety standards for properties let by private landlords](section/122.md)
     - [s. 123 Electrical safety standards: enforcement](section/123.md)
   - Accommodation needs in England
     - [s. 124 Assessment of accommodation needs](section/124.md)
