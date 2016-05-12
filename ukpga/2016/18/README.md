@@ -2,9 +2,9 @@
 
 2016 c. 18. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-08-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/18/2016-08-12
+Source: https://www.legislation.gov.uk/ukpga/2016/18/enacted
 
 ## Contents
 
@@ -23,18 +23,13 @@ Source: https://www.legislation.gov.uk/ukpga/2016/18/2016-08-12
   - [s. 11 Extent](section/11.md)
   - [s. 12 Short title](section/12.md)
 - SCHEDULE HOUSE OF COMMONS MEMBERS’ FUND: TRUSTEES’ POWERS AND PROCEEDINGS
-  - Property
-    - [Sch. paragraph 1](schedule/paragraph/1.md)
-    - [Sch. paragraph 2](schedule/paragraph/2.md)
-    - [Sch. paragraph 3](schedule/paragraph/3.md)
-    - [Sch. paragraph 4](schedule/paragraph/4.md)
-    - [Sch. paragraph 5](schedule/paragraph/5.md)
-  - Procedure
-    - [Sch. paragraph 6](schedule/paragraph/6.md)
-  - Confidentiality
-    - [Sch. paragraph 7](schedule/paragraph/7.md)
-  - Indemnity
-    - [Sch. paragraph 8](schedule/paragraph/8.md)
-  - Accounts and reports
-    - [Sch. paragraph 9](schedule/paragraph/9.md)
-    - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - [Sch. paragraph 1 Property](schedule/paragraph/1.md)
+  - [Sch. paragraph 2 Property](schedule/paragraph/2.md)
+  - [Sch. paragraph 3 Property](schedule/paragraph/3.md)
+  - [Sch. paragraph 4 Property](schedule/paragraph/4.md)
+  - [Sch. paragraph 5 Property](schedule/paragraph/5.md)
+  - [Sch. paragraph 6 Procedure](schedule/paragraph/6.md)
+  - [Sch. paragraph 7 Confidentiality](schedule/paragraph/7.md)
+  - [Sch. paragraph 8 Indemnity](schedule/paragraph/8.md)
+  - [Sch. paragraph 9 Accounts and reports](schedule/paragraph/9.md)
+  - [Sch. paragraph 10 Accounts and reports](schedule/paragraph/10.md)
