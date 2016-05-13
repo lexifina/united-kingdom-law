@@ -1,0 +1,361 @@
+# Police (Northern Ireland) Act 2000
+
+2000 c. 32. Enacted 2000-11-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
+
+Source: https://www.legislation.gov.uk/ukpga/2000/32/2016-05-13
+
+## Contents
+
+- Part I Name of the Police in Northern Ireland
+  - [s. 1 Name of the police in Northern Ireland.](section/1.md)
+- Part II The Northern Ireland Policing Board
+  - [s. 2 The Northern Ireland Policing Board.](section/2.md)
+  - [s. 3 General functions of the Board.](section/3.md)
+  - [s. 4 Police support staff.](section/4.md)
+  - [s. 5 Power to transfer certain staff to employment of Board.](section/5.md)
+  - [s. 5A Contracts relating to detention and escort services](section/5A.md)
+  - [s. 6 Provision and maintenance of buildings and equipment.](section/6.md)
+  - [s. 7 Acquisition and disposal of land by Board.](section/7.md)
+  - [s. 8 Provision of advice and assistance to international organisations, etc.](section/8.md)
+  - [s. 9 Grants to, and borrowing by, the Board.](section/9.md)
+  - [s. 10 Funding for police purposes – ancillary provisions.](section/10.md)
+  - [s. 11 Charges for special services.](section/11.md)
+  - [s. 12 Accounts and audit.](section/12.md)
+  - [s. 13 Rewards for diligence.](section/13.md)
+- Part III District and community policing arrangements
+  - District policing partnerships
+    - [s. 14 Establishment of district policing partnerships.](section/14.md)
+    - [s. 15 Default of council.](section/15.md)
+    - [s. 15A Default of council: Belfast sub-groups](section/15A.md)
+    - [s. 16 General functions of district policing partnerships.](section/16.md)
+    - [s. 17 Annual report by district policing partnership to council.](section/17.md)
+    - [s. 18 Reports by district policing partnership to Board.](section/18.md)
+    - [s. 19 Code of practice for district policing partnerships.](section/19.md)
+  - Police districts
+    - [s. 20 Police districts.](section/20.md)
+    - [s. 21 District policing partnership sub-groups for Belfast](section/21.md)
+    - [s. 21A Annual report by sub-groups to Belfast district policing partnership](section/21A.md)
+    - [s. 21B Annual report by Belfast district policing partnership to council](section/21B.md)
+    - [s. 21C Other reports by sub-groups to Belfast district policing partnership](section/21C.md)
+    - [s. 21D Reports by Belfast district policing partnership to Board](section/21D.md)
+    - [s. 22 The local policing plan.](section/22.md)
+  - Other community policing arrangements
+    - [s. 23 Other community policing arrangements.](section/23.md)
+- Part IV Policing objectives, plans and codes of practice
+  - [s. 24 The Department of Justice’s long term policing objectives.](section/24.md)
+  - [s. 25 The Board’s policing objectives.](section/25.md)
+  - [s. 26 The Board’s policing plan.](section/26.md)
+  - [s. 27 Codes of practice on exercise of functions.](section/27.md)
+- Part V Economy, efficiency and effectiveness
+  - [s. 28 Arrangements relating to economy, efficiency and effectiveness.](section/28.md)
+  - [s. 29 Audit of performance plans.](section/29.md)
+  - [s. 30 Examinations.](section/30.md)
+  - [s. 31 Enforcement of duties under section 28.](section/31.md)
+- Part VI The police
+  - Core policing principles
+    - [s. 31A Core policing principles](section/31A.md)
+  - General functions
+    - [s. 32 General functions of the police.](section/32.md)
+    - [s. 33 General functions of Chief Constable.](section/33.md)
+    - [s. 33A Provision of information to Board](section/33A.md)
+    - [s. 34 Exercise of functions of Chief Constable in cases of absence, incapacity, etc.](section/34.md)
+    - [s. 35 Appointment and removal of senior officers.](section/35.md)
+    - [s. 36 Appointment and promotion of other police officers in the Police Service of Northern Ireland.](section/36.md)
+    - [s. 36A Fixed-term appointments to the Police Service of Northern Ireland](section/36A.md)
+    - [s. 37 Appointments to the Police Service of Northern Ireland Reserve.](section/37.md)
+    - [s. 38 Attestation of constables.](section/38.md)
+  - Trainees and cadets
+    - [s. 39 Appointment of police trainees.](section/39.md)
+    - [s. 40 Appointment of police reserve trainees.](section/40.md)
+    - [s. 41 Status etc. of trainees.](section/41.md)
+    - [s. 42 Police cadets.](section/42.md)
+  - Recruitment arrangements
+    - [s. 43 Contracting-out of certain recruitment functions of Chief Constable.](section/43.md)
+    - [s. 44 Recruitment arrangements: trainees and support staff.](section/44.md)
+    - [s. 45 Recruitment arrangements: other ranks.](section/45.md)
+  - Temporary provisions concerning composition of the police
+    - [s. 46 Discrimination in appointments.](section/46.md)
+    - [s. 47 Expiry, renewal and repeal of temporary provisions.](section/47.md)
+    - [s. 47A Appointments to Police Service of Northern Ireland in special circumstances](section/47A.md)
+    - [s. 48 Action plans.](section/48.md)
+    - [s. 49 Severance arrangements.](section/49.md)
+  - General
+    - [s. 50 Service by members of the Police Service of Northern Ireland Reserve with other police services.](section/50.md)
+    - [s. 51 Notifiable memberships.](section/51.md)
+    - [s. 52 Code of ethics.](section/52.md)
+    - [s. 53 Guidance as to use of equipment for maintaining or restoring public order.](section/53.md)
+    - [s. 54 Regulations as to emblems and flags.](section/54.md)
+    - [s. 55 Identification of police officers.](section/55.md)
+    - [s. 56 Co-operation with Garda Siochana.](section/56.md)
+- Part VII Reports and inquiries
+  - [s. 57 Annual and other reports by the Board.](section/57.md)
+  - [s. 58 Annual report by Chief Constable to Board.](section/58.md)
+  - [s. 59 General duty of Chief Constable to report to Board.](section/59.md)
+  - [s. 60 Inquiry by Board following report by Chief Constable.](section/60.md)
+  - [s. 61 Reports by Chief Constable to Secretary of State and Minister of Justice.](section/61.md)
+- Part VIII The police ombudsman
+  - [s. 62 Mediation.](section/62.md)
+  - [s. 63 Reports by Ombudsman to Chief Constable and Board.](section/63.md)
+  - [s. 64 Supply of information by Ombudsman to Board.](section/64.md)
+  - [s. 65 Limits on complaints and references to Ombudsman.](section/65.md)
+  - [s. 66 Access by Ombudsman to information and documents.](section/66.md)
+- Part IX Miscellaneous and supplementary
+  - Miscellaneous
+    - [s. 67 The Commissioner.](section/67.md)
+    - [s. 68 Reports by the Commissioner.](section/68.md)
+    - [s. 69 General duty of Ministers.](section/69.md)
+    - [s. 70 The Royal Ulster Constabulary GC Foundation.](section/70.md)
+    - [s. 71 Traffic wardens.](section/71.md)
+    - [s. 72 Video recording of interviews.](section/72.md)
+    - [s. 73 Places of detention: lay visitors.](section/73.md)
+    - [s. 74 Application to police of anti-discrimination legislation.](section/74.md)
+    - [s. 74A Restriction on disclosure of information](section/74A.md)
+  - Supplementary
+    - [s. 75 Expenses of Secretary of State.](section/75.md)
+    - [s. 76 Orders and regulations.](section/76.md)
+    - [s. 76A Disclosure of information and holding of inquiries](section/76A.md)
+    - [s. 77 Interpretation.](section/77.md)
+    - [s. 78 Amendments, transitional and transitory provisions and repeals.](section/78.md)
+    - [s. 79 Commencement.](section/79.md)
+    - [s. 80 Extent.](section/80.md)
+    - [s. 81 Short title.](section/81.md)
+- SCHEDULE 1 The Northern Ireland Policing Board
+  - Part I Status and membership
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Membership: application of Parts II and III
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Restoration of devolved government under Northern Ireland (St Andrews Agreement) Act 2006
+      - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - Part II Membership during suspension of devolved government
+    - Constitution
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Term of office
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Remuneration and allowances of members
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part III Membership during devolved government
+    - Constitution
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Political members
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Independent members
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Removal of members from office
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Disqualification
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Chairman and vice-chairman
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Remuneration and allowances of members
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part IV Staff
+    - Staff of the Board
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Power to transfer staff to employment of Board
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part V Funding
+    - Grants to the Board
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Accounts and audit
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Part VI Procedure
+    - Procedure
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Authorisations under section 47A(1)
+      - [Sch. 1 para. 17A](schedule/1/paragraph/17A.md)
+    - Inquiries under section 60
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Public meetings
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Attendance of Director General of NCA at meetings
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+    - Validity of proceedings
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Seal
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Execution and proof of instruments
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Disclosure of pecuniary interests, family connections, etc.
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Committees
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- SCHEDULE 2 Transfer of functions, assets, liabilities and staff of Police Authority for Northern Ireland
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Transfer of functions
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Transfer of assets and liabilities
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Transfer of employed staff
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Transfer of seconded staff
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - References to, and acts, etc. done by, or in relation to, the Authority
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Accounts
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 District policing partnerships
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Size and composition
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Political members
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Independent members
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The council’s nominations
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Code of practice on appointment of independent members
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Removal of members from office
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Disqualification
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Chairman and vice-chairman
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
+  - Allowances
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Idemnities
+    - [Sch. 3 para. 10A](schedule/3/paragraph/10A.md)
+  - Insurance against accidents
+    - [Sch. 3 para. 10B](schedule/3/paragraph/10B.md)
+  - Finance
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Procedure
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Validity of proceedings
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Disclosure of pecuniary interests, family connections, et ceteralaetc.
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Committees
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Joint partnerships
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Belfast district policing partnership
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 3A BELFAST SUB-GROUPS
+  - Interpretation
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Size and composition
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Political members
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Independent members
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - The council’s nominations
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Code of practice on appointment of independent members
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Removal of members from office
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Disqualification
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Chairman and vice-chairman
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+  - Allowances
+    - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+  - Indemnities
+    - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+  - Insurance against accidents
+    - [Sch. 3A para. 12](schedule/3A/paragraph/12.md)
+  - Finance
+    - [Sch. 3A para. 13](schedule/3A/paragraph/13.md)
+  - Procedure
+    - [Sch. 3A para. 14](schedule/3A/paragraph/14.md)
+  - Validity of proceedings
+    - [Sch. 3A para. 15](schedule/3A/paragraph/15.md)
+  - Disclosure of pecuniary interests, family connections, etc.
+    - [Sch. 3A para. 16](schedule/3A/paragraph/16.md)
+  - Committees
+    - [Sch. 3A para. 17](schedule/3A/paragraph/17.md)
+- SCHEDULE 4 The Commissioner
+  - Appointment etc. of the Commissioner
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Terms of reference
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Remuneration, pensions, allowances, etc.
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Staff
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Exercise of functions
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Evidence
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Finance
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Application of anti-discrimination legislation to the police
+  - Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Race Relations (Northern Ireland) Order 1997 (NI 6)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Fair Employment and Treatment (Northern Ireland) Order 1998 (NI 21)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Amendments
+  - Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (1967 c. 13)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Interpretation Act 1978 (c. 30)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Health and Safety at Work (Northern Ireland) Order 1978 (NI 9)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Finance Act 1981 (c. 35)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Aviation Security Act 1982 (c. 36)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Official Secrets Act 1989 (c. 6)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Aviation and Maritime Security Act 1990 (c. 31)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Juries (Northern Ireland) Order 1996 (NI 6)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Proceeds of Crime (Northern Ireland) Order 1996 (NI 9)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Employment Rights (Northern Ireland) Order 1996 (NI 16)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Licensing (Northern Ireland) Order 1996 (NI 22)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Registration of Clubs (Northern Ireland) Order 1996 (NI 23)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Police (Health and Safety) (Northern Ireland) Order 1997 (NI 16)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Police (Northern Ireland) Act 1998 (c. 32)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Northern Ireland Act 1998 (c. 47)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Freedom of Information Act 2000 (c.)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+- SCHEDULE 7 Transitional and transitory provisions
+  - Statutory references to the police service and the police service reserve
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Recruitment arrangements: references to the Board
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Section 23
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Registration of Political Parties Act 1998
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Repeals
