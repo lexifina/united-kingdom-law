@@ -1,0 +1,105 @@
+# Child Poverty Act 2010
+
+2010 c. 9. Enacted 2010-03-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2010/9/2016-05-16
+
+## Contents
+
+- PART A1 LIFE CHANCES
+  - Children: reporting obligations
+    - [s. A1A Workless households and educational attainment](section/A1A.md)
+  - Social Mobility Commission
+    - [s. A1B Social Mobility Commission](section/A1B.md)
+    - [s. A1C Promotion of social mobility, advice and reports](section/A1C.md)
+- Part 1 Strategies: Northern Ireland
+  - Targets relating to child poverty
+    - [s. 1 The 2010 target](section/1.md)
+    - [s. 2 Duty of Secretary of State to ensure that targets in sections 3 to 6 are met](section/2.md)
+    - [s. 3 The relative low income target](section/3.md)
+    - [s. 4 The combined low income and material deprivation target](section/4.md)
+    - [s. 5 The absolute low income target](section/5.md)
+    - [s. 6 The persistent poverty target](section/6.md)
+    - [s. 7 Interpretation of terms used in relation to targets](section/7.md)
+  - Social Mobility and Child Poverty Commission
+    - [s. 8 Social Mobility and Child Poverty Commission](section/8.md)
+    - [s. 8A Advice](section/8A.md)
+    - [s. 8B Annual reports](section/8B.md)
+    - [s. 8C Other functions](section/8C.md)
+  - Strategies: duties of Secretary of State
+    - [s. 9 UK strategies](section/9.md)
+    - [s. 10 Consultation](section/10.md)
+  - Strategies: duties of ... relevant Northern Ireland department
+    - [s. 11 Scottish strategies](section/11.md)
+    - [s. 12 Northern Ireland strategies](section/12.md)
+    - [s. 13 Consultation: ... Northern Ireland](section/13.md)
+  - Reports by Secretary of State
+    - [s. 14 Statement by Secretary of State](section/14.md)
+    - [s. 15 Statement required in relation to target year](section/15.md)
+  - Economic and fiscal circumstances
+    - [s. 16 Economic and fiscal circumstances](section/16.md)
+  - Continuing effect of targets after target year
+    - [s. 17 Continuing effect of targets after target year](section/17.md)
+  - Supplementary
+    - [s. 18 Interpretation of Part 1](section/18.md)
+- Part 2 Duties of local authorities and other bodies in England
+  - [s. 19 Responsible local authorities](section/19.md)
+  - [s. 20 Partner authorities](section/20.md)
+  - [s. 21 Co-operation to reduce child poverty in local area](section/21.md)
+  - [s. 22 Local child poverty needs assessment](section/22.md)
+  - [s. 23 Joint child poverty strategy for local area](section/23.md)
+  - [s. 24 Sustainable community strategy](section/24.md)
+  - [s. 25 Meaning of “child poverty” in Part 2](section/25.md)
+- Part 3 Miscellaneous and General
+  - Free school lunches and milk
+    - [s. 26 Free school lunches and milk](section/26.md)
+  - General
+    - [s. 27 General interpretation](section/27.md)
+    - [s. 28 ... orders](section/28.md)
+    - [s. 29 Financial provisions](section/29.md)
+    - [s. 30 Extent](section/30.md)
+    - [s. 31 Commencement](section/31.md)
+    - [s. 32 Short title](section/32.md)
+- SCHEDULE 1 Social Mobility Commission
+  - Membership, chair and deputy chair
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Term of office
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Provision of staff and facilities etc
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Payments
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Supplementary powers
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Status
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Sub-committees
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Discharge of functions
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Continuing effect of targets after target year
+  - Interpretation of Schedule
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Duty to maintain targets
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Duty to make regulations requiring targets to be met in specified financial year
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Economic and fiscal circumstances
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Statement as to whether targets are met in relation to renewed target year
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Power to exclude or modify absolute low income target
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
