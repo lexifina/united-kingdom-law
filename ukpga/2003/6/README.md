@@ -1,0 +1,188 @@
+# Police (Northern Ireland) Act 2003
+
+2003 c. 6. Enacted 2003-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-05-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/6
+
+Source: https://www.legislation.gov.uk/ukpga/2003/6/2016-05-26
+
+## Contents
+
+- Part 1 Policing
+  - Consultation by Secretary of State
+    - [s. 1 Long-term policing objectives](section/1.md)
+    - [s. 2 Codes of Practice](section/2.md)
+  - The Northern Ireland Policing Board
+    - [s. 3 Board’s policing objectives](section/3.md)
+    - [s. 4 Public meetings of the Board](section/4.md)
+    - [s. 5 Contracts relating to detention and escort services](section/5.md)
+    - [s. 6 Funding for pension purposes](section/6.md)
+    - [s. 7 Accounts and audit](section/7.md)
+    - [s. 8 Performance summaries](section/8.md)
+    - [s. 9 Performance summaries: supplementary](section/9.md)
+  - Reports and inquiries
+    - [s. 10 Reports of Chief Constable](section/10.md)
+    - [s. 11 Inquiries by Board](section/11.md)
+    - [s. 12 Approval of proposals relating to inquiries by Board](section/12.md)
+  - The Police Ombudsman
+    - [s. 13 Investigations into current police practices and policies](section/13.md)
+  - District policing partnerships
+    - [s. 14 Independent members: appointment](section/14.md)
+    - [s. 15 Independent members: declaration against terrorism](section/15.md)
+    - [s. 16 Independent members: disqualification](section/16.md)
+    - [s. 17 Disqualification following removal from office](section/17.md)
+    - [s. 18 Council’s powers](section/18.md)
+    - [s. 19 Belfast](section/19.md)
+  - Police functions and service
+    - [s. 20 Core policing principles](section/20.md)
+    - [s. 21 Chief Constable’s functions](section/21.md)
+    - [s. 22 Provision of information to Board](section/22.md)
+    - [s. 23 Appointment of constables with special policing skills](section/23.md)
+    - [s. 24 Fixed-term appointments](section/24.md)
+    - [s. 25 Members of PSNI engaged on other police service](section/25.md)
+    - [s. 26 Protected disclosures by police officers](section/26.md)
+  - Information and inquiries
+    - [s. 27 Restriction on disclosure of information](section/27.md)
+    - [s. 28 Special committee of the Board](section/28.md)
+    - [s. 29 Disclosure of information and holding of inquiries](section/29.md)
+- Part 2 Police powers
+  - Designation of civilians
+    - [s. 30 Police powers for designated police support staff](section/30.md)
+    - [s. 30A Community support officers](section/30A.md)
+    - [s. 31 Police powers for designated contracted-out staff](section/31.md)
+    - [s. 32 Police powers: amendments](section/32.md)
+    - [s. 33 Designations: supplementary](section/33.md)
+    - [s. 34 Complaints and misconduct](section/34.md)
+    - [s. 34A Secretary of State’s power to make regulations](section/34A.md)
+    - [s. 35 Liability for unlawful conduct](section/35.md)
+    - [s. 36 Notifiable memberships](section/36.md)
+    - [s. 37 Code of ethics](section/37.md)
+    - [s. 38 Assaults on, and obstruction of, designated persons](section/38.md)
+    - [s. 39 Impersonation etc. of designated persons](section/39.md)
+    - [s. 40 Designated persons: interpretation](section/40.md)
+  - Searches and samples
+    - [s. 41 Intimate searches](section/41.md)
+    - [s. 42 Intimate samples](section/42.md)
+  - Codes of practice
+    - [s. 43 Codes of practice](section/43.md)
+- Part 3 General
+  - [s. 44 Orders and regulations](section/44.md)
+  - [s. 45 Repeals and revocations](section/45.md)
+  - [s. 46 Extent](section/46.md)
+  - [s. 47 Short title](section/47.md)
+- SCHEDULE 1 Belfast
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Powers exercisable by designated persons
+  - Part 1 Investigating officers
+    - Entry and search for purposes of arrest
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Entry and search for evidence etc.
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+      - [Sch. 2 para. 2B](schedule/2/paragraph/2B.md)
+    - Access to excluded and special procedure material
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Entry and search after arrest
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - General power of seizure
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Access and copying in the case of things seized by constables
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Arrest at a police station for another offence
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Power to transfer persons into custody of investigating officers
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Powers in respect of detained persons
+      - [Sch. 2 para. 8A](schedule/2/paragraph/8A.md)
+    - Power to require arrested person to account for certain matters
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Extended powers of seizure
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Persons accompanying investigating officers
+      - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+  - Part 2 Detention officers
+    - Attendance at police station for fingerprinting
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Non-intimate searches of detained persons
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Searches and examinations to ascertain identity
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Fingerprinting
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Warnings about intimate samples
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Non-intimate samples
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Attendance at police station for the taking of a sample
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Photographing detained persons
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Taking of impressions of footwear
+      - [Sch. 2 para. 20A](schedule/2/paragraph/20A.md)
+    - Powers in respect of detained persons
+      - [Sch. 2 para. 20B](schedule/2/paragraph/20B.md)
+    - Use of reasonable force in relation to detained persons
+      - [Sch. 2 para. 20C](schedule/2/paragraph/20C.md)
+    - Powers in relation to information about intimate search, x-ray and ultrasound
+      - [Sch. 2 para. 20D](schedule/2/paragraph/20D.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Part 3 Escort officers
+    - Power to take an arrested person to a police station
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Escort of persons in police detention
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Part 4 Interpretation
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+- SCHEDULE 2A POWERS AND DUTIES OF COMMUNITY SUPPORT OFFICER
+  - [Sch. 2A para. 1 Powers to issue fixed penalty notice](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2 Power to require name and address: relevant offences](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3 Power to require name and address: road traffic offences](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4 Power to detain etc](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5 Confiscation of alcohol: public processions](schedule/2A/paragraph/5.md)
+  - [Sch. 2A para. 6 Confiscation of alcohol: young persons](schedule/2A/paragraph/6.md)
+  - [Sch. 2A para. 7 Confiscation of tobacco etc](schedule/2A/paragraph/7.md)
+  - [Sch. 2A para. 8 Search and seizure powers: alcohol and tobacco](schedule/2A/paragraph/8.md)
+  - [Sch. 2A para. 9 Powers to seize and retain: controlled drugs](schedule/2A/paragraph/9.md)
+  - [Sch. 2A para. 9A Powers to seize and retain: psychoactive substances](schedule/2A/paragraph/9A.md)
+  - [Sch. 2A para. 10 Entry to save life or limb or prevent serious damage to property](schedule/2A/paragraph/10.md)
+  - [Sch. 2A para. 11 Entry to investigate licensing offences](schedule/2A/paragraph/11.md)
+  - [Sch. 2A para. 12 Power to stop vehicles](schedule/2A/paragraph/12.md)
+  - [Sch. 2A para. 13 Power to direct traffic and place traffic signs](schedule/2A/paragraph/13.md)
+  - [Sch. 2A para. 14 Carrying out of road checks](schedule/2A/paragraph/14.md)
+  - [Sch. 2A para. 15 Cordoned areas](schedule/2A/paragraph/15.md)
+  - [Sch. 2A para. 16 Power to stop and search vehicles etc in authorised areas](schedule/2A/paragraph/16.md)
+  - [Sch. 2A para. 17 Powers in relation to fireworks](schedule/2A/paragraph/17.md)
+  - [Sch. 2A para. 18 Interpretation](schedule/2A/paragraph/18.md)
+- SCHEDULE 3 Police powers: amendments
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Repeals and revocations
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
