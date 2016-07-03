@@ -2,9 +2,9 @@
 
 2012 c. 21. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-03-07, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/21` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-03, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/21` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/21/2016-03-07
+Source: https://www.legislation.gov.uk/ukpga/2012/21/2016-07-03
 
 ## Contents
 
