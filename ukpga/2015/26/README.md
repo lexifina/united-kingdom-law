@@ -2,9 +2,9 @@
 
 2015 c. 26. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-06-30, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-04, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-06-30
+Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-07-04
 
 ## Contents
 
@@ -44,6 +44,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-06-30
     - [s. 22 Sections 21 and 23 to 25: “qualifying regulatory provisions” etc](section/22.md)
     - [s. 23 Duty on Secretary of State to publish reports](section/23.md)
     - [s. 24 Additional matters to be included in reports](section/24.md)
+    - [s. 24A Duty on relevant regulators to assess economic impact etc](section/24A.md)
     - [s. 25 Appointment of body to verify assessments and lists in reports](section/25.md)
     - [s. 26 Amending the business impact target etc](section/26.md)
     - [s. 27 Sections 21 to 25 etc: interpretation](section/27.md)
