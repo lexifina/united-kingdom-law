@@ -2,9 +2,9 @@
 
 2012 c. 21. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-07-03, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/21` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-06, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/21` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/21/2016-07-03
+Source: https://www.legislation.gov.uk/ukpga/2012/21/2016-07-06
 
 ## Contents
 
@@ -95,6 +95,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/21/2016-07-03
   - Interpretation
     - [s. 57 Interpretation of Part 3](section/57.md)
 - PART 4 Collaboration between Treasury and Bank of England, FCA or PRA
+  - [s. 57A Duty of Bank to provide information required by Treasury](section/57A.md)
+  - [s. 57B Duty of Bank to inform Treasury about resolution plans](section/57B.md)
   - [s. 58 Duty of Bank to notify Treasury of possible need for public funds](section/58.md)
   - [s. 59 Duty of Bank to notify Treasury of changes](section/59.md)
   - [s. 60 Circumstances in which Treasury power of direction exercisable](section/60.md)
@@ -102,7 +104,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/21/2016-07-03
   - [s. 62 Directions under section 61: supplementary provisions](section/62.md)
   - [s. 63 Duty to lay direction etc before Parliament](section/63.md)
   - [s. 64 Duty of Treasury, Bank and PRA to co-ordinate discharge of functions](section/64.md)
-  - [s. 65 Memorandum of understanding: crisis management](section/65.md)
+  - [s. 65 Memorandum of understanding: resolution planning and crisis management](section/65.md)
   - [s. 66 Memorandum of understanding: international organisations](section/66.md)
   - [s. 67 Interpretation of Part 4](section/67.md)
 - PART 5 Inquiries and investigations
