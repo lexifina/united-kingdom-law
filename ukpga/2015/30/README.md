@@ -2,9 +2,9 @@
 
 2015 c. 30. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-05-12, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-12, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-05-12
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-07-12
 
 ## Contents
 
@@ -23,6 +23,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-05-12
     - [s. 10 Slavery and trafficking reparation orders: supplementary provision](section/10.md)
     - [s. 11 Forfeiture of land vehicle, ship or aircraft](section/11.md)
   - Supplementary
+    - [s. 11A Enforcement by Gangmasters and Labour Abuse Authority](section/11A.md)
     - [s. 12 Detention of land vehicle, ship or aircraft](section/12.md)
     - [s. 13 Interpretation of Part 1](section/13.md)
 - PART 2 Prevention orders
@@ -46,6 +47,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-05-12
     - [s. 29 Appeals](section/29.md)
   - Offences and supplementary provision
     - [s. 30 Offences](section/30.md)
+    - [s. 30A Enforcement by Gangmasters and Labour Abuse Authority](section/30A.md)
     - [s. 31 Cross-border enforcement](section/31.md)
     - [s. 32 Rules of court](section/32.md)
     - [s. 33 Guidance to chief officers of police etc](section/33.md)
@@ -76,6 +78,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-05-12
   - [s. 54 Transparency in supply chains etc](section/54.md)
 - PART 7 Miscellaneous and general
   - Miscellaneous
+    - [s. 54A Gangmasters and Labour Abuse Authority: information gateways](section/54A.md)
     - [s. 55 Gangmasters Licensing Authority](section/55.md)
   - General
     - [s. 56 Interpretation](section/56.md)
@@ -235,6 +238,12 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-05-12
     - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
   - Ancillary offences
     - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+- SCHEDULE 4A Information gateways: specified persons
+  - Authorities with functions in connection with the labour market etc
+  - Law enforcement and border security
+  - Local government
+  - Health bodies
+  - Other
 - SCHEDULE 5 Minor and consequential amendments
   - PART 1 Amendments relating to offences
     - Children and Young Persons Act 1933 (c. 12)
