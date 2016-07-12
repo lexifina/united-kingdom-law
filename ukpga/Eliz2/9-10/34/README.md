@@ -1,0 +1,194 @@
+# Factories Act 1961
+
+1961 c. 34. Enacted 1961-06-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/2016-07-12
+
+## Contents
+
+- Part I Health (General Provisions)
+  - [s. 1 Cleanliness.](section/1.md)
+  - [s. 2 Overcrowding.](section/2.md)
+  - [s. 3 Temperature.](section/3.md)
+  - [s. 4 Ventilation.](section/4.md)
+  - [s. 5 Lighting.](section/5.md)
+  - [s. 6 Drainage of floors.](section/6.md)
+  - [s. 7 Sanitary Conveniences.](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10A](section/10A.md)
+  - [s. 11 Power to require medical supervision.](section/11.md)
+- Part II Safety (General Provisions)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 Dangerous substances.](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 Teagle openings and similar doorways.](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 Floors, passages and stairs.](section/28.md)
+  - [s. 29 Safe means of access and safe place of employment.](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 Precautions with respect to explosive or inflammable dust, gas, vapour or substance.](section/31.md)
+  - [s. 32 Steam boilers—attachments and construction.](section/32.md)
+  - [s. 33 Steam boilers—maintenance, examination and use.](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Air receivers.](section/36.md)
+  - [s. 37 .](section/37.md)
+  - [s. 38 .](section/38.md)
+  - [s. 39 Precautions as respects water-sealed gasholders.](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 56 Application of Part II to Scotland.](section/56.md)
+- Part III Welfare (General Provisions)
+  - [s. 57 Supply of drinking water.](section/57.md)
+  - [s. 58 Washing facilities.](section/58.md)
+  - [s. 59 Accommodation for clothing.](section/59.md)
+  - [s. 60 Sitting facilities.](section/60.md)
+  - [s. 61 ................................](section/61.md)
+  - [s. 62 ................................](section/62.md)
+- Part IV Health, Safety and Welfare (Special Provisions and Regulations)
+  - Special provisions
+    - [s. 63 ................................](section/63.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Underground rooms.](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+  - Supplementary provisions
+    - [s. 77 ................................](section/77.md)
+    - [s. 79 ................................](section/79.md)
+- Part V Notification and Investigation of Accidents and Industrial Diseases
+  - [s. 80 ................................](section/80.md)
+  - [s. 81 ................................](section/81.md)
+  - [s. 82 ................................](section/82.md)
+  - [s. 83 ................................](section/83.md)
+  - [s. 84 ................................](section/84.md)
+  - [s. 85 ................................](section/85.md)
+- Part VI Employment of Women and Young Persons
+  - [s. 86 ................................](section/86.md)
+  - [s. 95 ................................](section/95.md)
+  - [s. 96 ................................](section/96.md)
+  - [s. 110 ................................](section/110.md)
+  - [s. 112 ................................](section/112.md)
+  - Exemptions in interest of efficiency of industry or transport
+    - [s. 117 Exemptions from provisions regulating hours of employment.](section/117.md)
+  - Certificate of fitness for employment of young persons
+    - [s. 118 ................................](section/118.md)
+    - [s. 119 Power of inspector to require certificate of fitness for work.](section/119.md)
+    - [s. 119A Duty of factory occupier to give notice of employment of a young person.](section/119A.md)
+- Part VII Special Applications and Extensions
+  - Factories occupying parts of buildings
+    - [s. 120 ................................](section/120.md)
+    - [s. 121 Tenement factories—other provisions.](section/121.md)
+    - [s. 122 Parts of buildings let off as separate factories—other provisions.](section/122.md)
+  - Electrical stations
+    - [s. 123 Application of Act to electrical stations.](section/123.md)
+  - Institutions
+    - [s. 124 Institutions.](section/124.md)
+  - Docks, wharves, quays, warehouses and ships
+    - [s. 125 Docks, etc.](section/125.md)
+    - [s. 126 Ships.](section/126.md)
+  - Works of building and engineering construction
+    - [s. 127 Building operations and works of engineering construction.](section/127.md)
+  - Lead processes carried on in places other than factories
+    - [s. 128 ................................](section/128.md)
+    - [s. 129](section/129.md)
+    - [s. 130 ................................](section/130.md)
+    - [s. 131 ................................](section/131.md)
+    - [s. 132 ................................](section/132.md)
+- Part VIII Home Work
+  - [s. 133 ................................](section/133.md)
+  - [s. 134 ................................](section/134.md)
+- Part IX
+  - [s. 135 ................................](section/135.md)
+  - [s. 136 ................................](section/136.md)
+- Part X Notices, Returns, Records, Duties of Persons Employed, and Application of Weights and Measures Acts
+  - [s. 137 Notice of occupation of factory, and use of mechanical power.](section/137.md)
+  - [s. 138 ................................](section/138.md)
+  - [s. 139 ................................](section/139.md)
+  - [s. 140 General registers.](section/140.md)
+  - [s. 141 Preservation of registers and records.](section/141.md)
+  - [s. 142 ................................](section/142.md)
+  - [s. 143 ................................](section/143.md)
+  - [s. 144 ................................](section/144.md)
+- Part XI Administration
+  - [s. 145 ................................](section/145.md)
+  - [s. 146 ................................](section/146.md)
+  - [s. 148 ................................](section/148.md)
+  - [s. 149 ................................](section/149.md)
+  - [s. 151 ................................](section/151.md)
+  - [s. 153 Provisions as to county and district councils.](section/153.md)
+  - [s. 154 Prohibition of disclosure of information](section/154.md)
+  - [s. 154A Exception to the prohibition: public authorities](section/154A.md)
+- Part XII Offences, Penalties and Legal Proceedings
+  - [s. 155 Offences.](section/155.md)
+  - [s. 156 Fines for offences for which no express penalty provided.](section/156.md)
+  - [s. 157 Power of court to order cause of contravention to be remedied.](section/157.md)
+  - [s. 158 Fine for offence by parent.](section/158.md)
+  - [s. 159 ................................](section/159.md)
+  - [s. 160 Penalty on person actually committing an offence for which other person is primarily liable.](section/160.md)
+  - [s. 161 Power of person primarily liable to exempt himself from liability.](section/161.md)
+  - [s. 162 Proceedings against persons not primarily liable.](section/162.md)
+  - [s. 163 Owner of machine liable in certain cases instead of occupier.](section/163.md)
+  - [s. 164 Prosecution of offences and application of fines.](section/164.md)
+  - [s. 165 ................................](section/165.md)
+  - [s. 166 Special provisions as to evidence.](section/166.md)
+  - [s. 167 Proceedings for offences in respect of the employment of children.](section/167.md)
+  - [s. 168 Service of documents, etc.](section/168.md)
+  - [s. 169 Power of county court or sheriff to modify agreements.](section/169.md)
+  - [s. 170 Power of county court or sheriff to apportion expenses.](section/170.md)
+  - [s. 171 Application of the Arbitration (Scotland) Act 2010 or the Arbitration Act 1996.](section/171.md)
+- Part XIII Application of Act
+  - [s. 172 General application.](section/172.md)
+  - [s. 173 Application to Crown.](section/173.md)
+  - [s. 174](section/174.md)
+- Part XIV Interpretation and General
+  - Interpretation
+    - [s. 175 Interpretation of expression “factory".](section/175.md)
+    - [s. 176 General interpretation](section/176.md)
+  - General
+    - [s. 177 ................................](section/177.md)
+    - [s. 178 Certificates of birth.](section/178.md)
+    - [s. 179 ................................](section/179.md)
+    - [s. 180 Regulations, rules and orders.](section/180.md)
+    - [s. 181 Substitution of corresponding provisions for certain provisions of Factory and Workshop Act 1901.](section/181.md)
+    - [s. 182 General application to Scotland.](section/182.md)
+    - [s. 183 Transitional provisions and repeals.](section/183.md)
+    - [s. 184 Construction of references in other enactments to factories and workshops, etc. and exclusion of certain provisions of Public Health (London) Act 1936.](section/184.md)
+    - [s. 185 Short title, commencement and extent.](section/185.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
+- THIRD AND FOURTH SCHEDULES
+- FIFTH SCHEDULES Provisions of the Factory and Workshop Act 1901 applicable in London and Scotland only...
+  - [Sch. FIFTHS para. 61 Prohibition of employment of women after childbirth.](schedule/FIFTHS/paragraph/61.md)
+  - [Sch. FIFTHS para. 109 Making of wearing apparel where there is scarlet fever or smallpox.](schedule/FIFTHS/paragraph/109.md)
+  - [Sch. FIFTHS para. 110 Prohibition of home work in places where there is infectious disease.](schedule/FIFTHS/paragraph/110.md)
+- SIXTH SCHEDULE Transitional Provisions
+  - [Sch. SIXTH para. 1](schedule/SIXTH/paragraph/1.md)
+  - [Sch. SIXTH para. 2](schedule/SIXTH/paragraph/2.md)
+  - [Sch. SIXTH para. 3](schedule/SIXTH/paragraph/3.md)
+  - [Sch. SIXTH para. 4](schedule/SIXTH/paragraph/4.md)
+  - [Sch. SIXTH para. 5](schedule/SIXTH/paragraph/5.md)
+  - [Sch. SIXTH para. 6](schedule/SIXTH/paragraph/6.md)
+  - [Sch. SIXTH para. 7](schedule/SIXTH/paragraph/7.md)
+  - [Sch. SIXTH para. 8](schedule/SIXTH/paragraph/8.md)
+- SEVENTH SCHEDULE
