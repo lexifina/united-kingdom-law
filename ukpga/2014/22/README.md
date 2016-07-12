@@ -2,9 +2,9 @@
 
 2014 c. 22. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-05-12, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-12, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/22/2016-05-12
+Source: https://www.legislation.gov.uk/ukpga/2014/22/2016-07-12
 
 ## Contents
 
@@ -113,6 +113,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/22/2016-05-12
     - [s. 68 Fees](section/68.md)
     - [s. 69 Fees orders and fees regulations: supplemental](section/69.md)
     - [s. 70 Power to charge fees for attendance services in particular cases](section/70.md)
+    - [s. 70A Immigration skills charge](section/70A.md)
   - Welfare of children
     - [s. 71 Duty regarding the welfare of children](section/71.md)
 - PART 7 Final provisions
