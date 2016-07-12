@@ -2,9 +2,9 @@
 
 2016 c. 20. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-05-24, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-12, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/20/2016-05-24
+Source: https://www.legislation.gov.uk/ukpga/2016/20/2016-07-12
 
 ## Contents
 
