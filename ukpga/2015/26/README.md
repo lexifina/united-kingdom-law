@@ -2,9 +2,9 @@
 
 2015 c. 26. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-07-04, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-21, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-07-04
+Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-07-21
 
 ## Contents
 
@@ -108,6 +108,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-07-04
     - [s. 69 “Pub-owning business”](section/69.md)
     - [s. 70 “Tied pub tenant”, “landlord”, “tenancy” and “licence”](section/70.md)
     - [s. 71 Power to grant exemptions from Pubs Code](section/71.md)
+    - [s. 71A Reports on avoidance](section/71A.md)
     - [s. 72 Interpretation: other provision](section/72.md)
     - [s. 73 Regulations under this Part](section/73.md)
 - PART 5 Childcare and schools
