@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-07-31, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-04-06
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-07-31
 
 ## Contents
 
@@ -114,14 +114,18 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-04-06
     - [s. 75 Further powers to alter application of charitable property](section/75.md)
   - Powers of Commission to act for protection of charities etc.
     - [s. 76 Suspension of trustees etc. and appointment of interim managers](section/76.md)
+    - [s. 76A Exercise of powers where section 76(1)(a) applies](section/76A.md)
     - [s. 77 Offence of contravening certain orders under s.76](section/77.md)
     - [s. 78 Interim managers: supplementary](section/78.md)
-    - [s. 79 Removal of trustee or officer etc. for protective etc. purposes](section/79.md)
+    - [s. 79 Removal of trustee or officer etc for protective etc purposes](section/79.md)
+    - [s. 79A Removal of disqualified trustee](section/79A.md)
     - [s. 80 Other powers to remove or appoint charity trustees](section/80.md)
     - [s. 81 Removal or appointment of charity trustees etc.: supplementary](section/81.md)
     - [s. 82 Removal of trustees etc.: notice](section/82.md)
     - [s. 83 Power to suspend or remove trustees etc. from membership of charity](section/83.md)
     - [s. 84 Power to direct specified action to be taken](section/84.md)
+    - [s. 84A Power to direct specified action not to be taken](section/84A.md)
+    - [s. 84B Power to direct winding up](section/84B.md)
     - [s. 85 Power to direct application of charity property](section/85.md)
     - [s. 86 Copy of certain orders, and reasons, to be sent to charity](section/86.md)
     - [s. 87 Supervision by Commission of certain Scottish charities](section/87.md)
@@ -398,6 +402,10 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-04-06
   - [s. 290 Notice of, and information about, s.289 resolution](section/290.md)
   - [s. 291 When and how s.289 resolution takes effect](section/291.md)
   - [s. 292 Power to alter sum specified in s.289](section/292.md)
+- PART 14A SOCIAL INVESTMENTS
+  - [s. 292A Meaning of “social investment”](section/292A.md)
+  - [s. 292B General power to make social investments](section/292B.md)
+  - [s. 292C Charity trustees’ duties in relation to social investments](section/292C.md)
 - Part 15 Local charities
   - Indexes and reviews etc.
     - [s. 293 Meaning of “local charity”](section/293.md)
