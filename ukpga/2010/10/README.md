@@ -2,9 +2,9 @@
 
 2010 c. 10. Enacted 2010-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-10-01, one file per provision. Earlier versions, from 2010-03-25, are in the history before it: `git log -- ukpga/2010/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-08-01, one file per provision. Earlier versions, from 2010-03-25, are in the history before it: `git log -- ukpga/2010/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/10/2015-10-01
+Source: https://www.legislation.gov.uk/ukpga/2010/10/2016-08-01
 
 ## Contents
 
@@ -16,6 +16,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/10/2015-10-01
   - [s. 4 Individuals](section/4.md)
   - [s. 5 Individuals who die insolvent](section/5.md)
   - [s. 6 Corporate bodies etc](section/6.md)
+  - [s. 6A Corporate bodies etc that are dissolved](section/6A.md)
   - [s. 7 Scottish trusts](section/7.md)
 - Transferred rights: supplemental
   - [s. 8 Limit on rights transferred](section/8.md)
@@ -35,14 +36,23 @@ Source: https://www.legislation.gov.uk/ukpga/2010/10/2015-10-01
   - [s. 18 Cases with a foreign element](section/18.md)
 - Supplemental
   - [s. 19 Power to change the meaning of “relevant person”](section/19.md)
+  - [s. 19A Interpretation](section/19A.md)
   - [s. 20 Amendments, transitionals, repeals, etc](section/20.md)
   - [s. 21 Short title, commencement and extent](section/21.md)
+- SCHEDULEA1 Administration under relevant sectoral legislation
+  - List of Enactments
+    - Aviation
+    - Energy
+    - Financial Services
+    - Postal Services
+    - Railways
+    - Water and sewerage
 - SCHEDULE 1 Information and disclosure for third parties
   - Notices requesting information
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
   - Provision of information where notice given under paragraph 1
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
-  - Notices requiring disclosure: defunct bodies
+  - Notices requiring disclosure: bodies that have been dissolved
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
   - Disclosure and inspection where notice given under paragraph 3
     - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
@@ -64,9 +74,15 @@ Source: https://www.legislation.gov.uk/ukpga/2010/10/2015-10-01
   - Cross-Border Insolvency Regulations (Northern Ireland) 2007 (S.R. 2007/115)
     - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
 - SCHEDULE 3 Transitory, transitional and saving provisions
-  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
-  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
-  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
-  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Application of this Act
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Relevant persons
+    - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+  - Bankruptcy and Diligence etc (Scotland) Act 2007
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Application of 1930 Acts
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Interpretation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
 - SCHEDULE 4 Repeals and revocations
