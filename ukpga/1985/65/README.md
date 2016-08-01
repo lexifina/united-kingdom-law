@@ -1,0 +1,164 @@
+# Insolvency Act 1985
+
+1985 c. 65. Enacted 1985-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1985/65/2016-08-01
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II
+  - [s. 12 ................................](section/12.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 108](section/108.md)
+  - [s. 109 ................................](section/109.md)
+- Part III
+  - [s. 110 ................................](section/110.md)
+- Part IV Miscellaneous and Supplemental
+  - Miscellaneous
+    - [s. 212 ................................](section/212.md)
+    - [s. 213 Co-operation between courts exercising jurisdiction in relation to insolvency law.](section/213.md)
+    - [s. 214 Parliamentary disqualification etc.](section/214.md)
+    - [s. 215 ................................](section/215.md)
+    - [s. 216 ................................](section/216.md)
+    - [s. 217 Amendments of Restrictive Trade Practices Act 1976.](section/217.md)
+    - [s. 218 ................................](section/218.md)
+    - [s. 219 Amendments of Banking Act 1979.](section/219.md)
+    - [s. 220 Amendments of County Courts Act 1984.](section/220.md)
+    - [s. 221 ................................](section/221.md)
+    - [s. 222 ................................](section/222.md)
+  - Other supplemental provisions
+    - [s. 230 ................................](section/230.md)
+    - [s. 235 Consequential amendments, transitional provisions, savings and repeals.](section/235.md)
+    - [s. 236 Short title, commencement and extent.](section/236.md)
+- SCHEDULE 1 Insolvency Practitioners Tribunal
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Supervision by Council on Tribunals
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Parliamentary disqualification
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 ...
+- SCHEDULES 3—5 ...
+- SCHEDULE 6 Amendments of 1985 Act
+  - Disqualification etc.
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Voluntary arrangements
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Administration orders
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Receivers (Scotland)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Winding up
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+- SCHEDULE 7 ...
+- SCHEDULE 8 Consequential Amendments
+  - The Bills of Sale Act (1878) Amendment Act 1882
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Deeds of Arrangement Act 1914
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Settled Land Act 1925
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - The Law of Property Act 1925
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - The Land Registration Act 1925
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - The Agricultural Credits Act 1928
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - ...
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - The Arbitration Act 1950
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - The Administration of Justice Act 1956
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - The Licensing Act 1964
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - The Law of Property (Joint Tenants) Act 1964
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - The General Rate Act 1967
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - The Medicines Act 1968
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - The Transport Act 1968
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - The Insolvency Services (Accounting and Investment) Act 1970
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - The Conveyancing and Feudal Reform (Scotland) Act 1970
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - The Superannuation Act 1972
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - The Road Traffic Act 1972
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - The Land Charges Act 1972
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - The Local Government Act 1972
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - The Matrimonial Causes Act 1973
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - The Solicitors Act 1974
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - The Social Security Pensions Act 1975
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - The Recess Elections Act 1975
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - The Insolvency Act 1976
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - The Land Drainage Act 1976
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - The Employment Protection (Consolidation) Act 1978
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - The Banking Act 1979
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - The Estate Agents Act 1979
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - The Public Passenger Vehicles Act 1981
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - The Senior Courts Act 1981
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - The Civil Jurisdiction and Judgments Act 1982
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - The Insurance Companies Act 1982
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - The County Courts Act 1984
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - The Housing Act 1985
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - The Administration of Justice Act 1985
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+- SCHEDULE 9 Transitional Provisions and Savings
+  - Part I
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Part II
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Parts III and IV
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 ...
