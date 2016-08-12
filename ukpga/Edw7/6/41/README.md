@@ -1,0 +1,140 @@
+# Marine Insurance Act 1906
+
+1906 c. 41. Enacted 1906-12-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-08-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Edw7/6/41/2016-08-12
+
+## Contents
+
+- Marine Insurance
+  - [s. 1 Marine insurance defined.](section/1.md)
+  - [s. 2 Mixed sea and land risks.](section/2.md)
+  - [s. 3 Marine adventure and maritime perils defined.](section/3.md)
+- Insurable Interest
+  - [s. 4 Avoidance of wagering or gaming contracts.](section/4.md)
+  - [s. 5 Insurable interest defined.](section/5.md)
+  - [s. 6 When interest must attach.](section/6.md)
+  - [s. 7 Defeasible or contingent interest.](section/7.md)
+  - [s. 8 Partial interest.](section/8.md)
+  - [s. 9 Re-insurance.](section/9.md)
+  - [s. 10 Bottomry.](section/10.md)
+  - [s. 11 Master’s and seamen’s wages.](section/11.md)
+  - [s. 12 Advance freight.](section/12.md)
+  - [s. 13 Charges of insurance.](section/13.md)
+  - [s. 14 Quantum of interest.](section/14.md)
+  - [s. 15 Assignment of interest.](section/15.md)
+- Insurable Value
+  - [s. 16 Measure of insurable value.](section/16.md)
+- Disclosure and Representations
+  - [s. 17 Insurance is uberrimæ fidei.](section/17.md)
+  - [s. 18 Disclosure by assured.](section/18.md)
+  - [s. 19 Disclosure by agent effecting insurance.](section/19.md)
+  - [s. 20 Representations pending negotiation of contract.](section/20.md)
+  - [s. 21 When contract is deemed to be concluded.](section/21.md)
+- The Policy
+  - [s. 22 Contract must be embodied in policy.](section/22.md)
+  - [s. 23 What policy must specify.](section/23.md)
+  - [s. 24 Signature of insurer.](section/24.md)
+  - [s. 25 Voyage and time policies.](section/25.md)
+  - [s. 26 Designation of subject-matter.](section/26.md)
+  - [s. 27 Valued policy.](section/27.md)
+  - [s. 28 Unvalued policy.](section/28.md)
+  - [s. 29 Floating policy by ship or ships.](section/29.md)
+  - [s. 30 Construction of terms in policy.](section/30.md)
+  - [s. 31 Premium to be arranged.](section/31.md)
+- Double Insurance
+  - [s. 32 Double insurance.](section/32.md)
+- Warranties, &c.
+  - [s. 33 Nature of warranty.](section/33.md)
+  - [s. 34 When breach of warranty excused.](section/34.md)
+  - [s. 35 Express warranties.](section/35.md)
+  - [s. 36 Warranty of neutrality.](section/36.md)
+  - [s. 37 No implied warranty of nationality.](section/37.md)
+  - [s. 38 Warranty of good safety.](section/38.md)
+  - [s. 39 Warranty of seaworthiness of ship.](section/39.md)
+  - [s. 40 No implied warranty that goods are seaworthy.](section/40.md)
+  - [s. 41 Warranty of legality.](section/41.md)
+- The Voyage
+  - [s. 42 Implied condition as to commencement of risk.](section/42.md)
+  - [s. 43 Alteration of port of departure.](section/43.md)
+  - [s. 44 Sailing for different destination.](section/44.md)
+  - [s. 45 Change of voyage.](section/45.md)
+  - [s. 46 Deviation.](section/46.md)
+  - [s. 47 Several ports of discharge.](section/47.md)
+  - [s. 48 Delay in voyage.](section/48.md)
+  - [s. 49 Excuses for deviation or delay.](section/49.md)
+- Assignment of Policy
+  - [s. 50 When and how policy is assignable.](section/50.md)
+  - [s. 51 Assured who has no interest cannot assign.](section/51.md)
+- The Premium
+  - [s. 52 When premium payable.](section/52.md)
+  - [s. 53 Policy effected through broker.](section/53.md)
+  - [s. 54 Effect of receipt on policy.](section/54.md)
+- Loss and Abandonment
+  - [s. 55 Included and excluded losses.](section/55.md)
+  - [s. 56 Partial and total loss.](section/56.md)
+  - [s. 57 Actual total loss.](section/57.md)
+  - [s. 58 Missing ship.](section/58.md)
+  - [s. 59 Effect of transhipment, &c.](section/59.md)
+  - [s. 60 Constructive total loss defined.](section/60.md)
+  - [s. 61 Effect of constructive total loss.](section/61.md)
+  - [s. 62 Notice of abandonment.](section/62.md)
+  - [s. 63 Effect of abandonment.](section/63.md)
+- Partial Losses (including Salvage and General Average and Particular Charges)
+  - [s. 64 Particular average loss.](section/64.md)
+  - [s. 65 Salvage charges.](section/65.md)
+  - [s. 66 General average loss.](section/66.md)
+- Measure of Indemnity
+  - [s. 67 Extent of liability of insurer for loss.](section/67.md)
+  - [s. 68 Total loss.](section/68.md)
+  - [s. 69 Partial loss of ship.](section/69.md)
+  - [s. 70 Partial loss of freight.](section/70.md)
+  - [s. 71 Partial loss of goods, merchandise, &c.](section/71.md)
+  - [s. 72 Apportionment of valuation.](section/72.md)
+  - [s. 73 General average contributions and salvage charges.](section/73.md)
+  - [s. 74 Liabilities to third parties.](section/74.md)
+  - [s. 75 General provisions as to measure of indemnity.](section/75.md)
+  - [s. 76 Particular average warranties.](section/76.md)
+  - [s. 77 Successive losses.](section/77.md)
+  - [s. 78 Suing and labouring clause.](section/78.md)
+- Rights of Insurer on Payment
+  - [s. 79 Right of subrogation.](section/79.md)
+  - [s. 80 Right of contribution.](section/80.md)
+  - [s. 81 Effect of under insurance.](section/81.md)
+- Return of Premium
+  - [s. 82 Enforcement of return.](section/82.md)
+  - [s. 83 Return by agreement.](section/83.md)
+  - [s. 84 Return for failure of consideration.](section/84.md)
+- Mutual Insurance
+  - [s. 85 Modification of Act in case of mutual insurance.](section/85.md)
+- Supplemental
+  - [s. 86 Ratification by assured.](section/86.md)
+  - [s. 87 Implied obligations varied by agreement or usage.](section/87.md)
+  - [s. 88 Reasonable time, &c. a question of fact.](section/88.md)
+  - [s. 89 Slip as evidence.](section/89.md)
+  - [s. 90 Interpretation of terms.](section/90.md)
+  - [s. 91 Savings.](section/91.md)
+  - [s. 9293. ................................](section/9293.md)
+  - [s. 94 Short title.](section/94.md)
+- FIRST SCHEDULE Form of Policy
+  - Rules for Construction of Policy
+    - [Sch. FIRST para. 1 Lost or not lost.](schedule/FIRST/paragraph/1.md)
+    - [Sch. FIRST para. 2 From.](schedule/FIRST/paragraph/2.md)
+    - [Sch. FIRST para. 3 At and from.](schedule/FIRST/paragraph/3.md)
+    - [Sch. FIRST para. 4 From the loading thereof.](schedule/FIRST/paragraph/4.md)
+    - [Sch. FIRST para. 5 Safely landed.](schedule/FIRST/paragraph/5.md)
+    - [Sch. FIRST para. 6 Touch and stay.](schedule/FIRST/paragraph/6.md)
+    - [Sch. FIRST para. 7 Perils of the seas.](schedule/FIRST/paragraph/7.md)
+    - [Sch. FIRST para. 8 Pirates.](schedule/FIRST/paragraph/8.md)
+    - [Sch. FIRST para. 9 Thieves.](schedule/FIRST/paragraph/9.md)
+    - [Sch. FIRST para. 10 Restraint of princes.](schedule/FIRST/paragraph/10.md)
+    - [Sch. FIRST para. 11 Barratry.](schedule/FIRST/paragraph/11.md)
+    - [Sch. FIRST para. 12 All other perils.](schedule/FIRST/paragraph/12.md)
+    - [Sch. FIRST para. 13 Average unless general.](schedule/FIRST/paragraph/13.md)
+    - [Sch. FIRST para. 14 Stranded.](schedule/FIRST/paragraph/14.md)
+    - [Sch. FIRST para. 15 Ship.](schedule/FIRST/paragraph/15.md)
+    - [Sch. FIRST para. 16 Freight.](schedule/FIRST/paragraph/16.md)
+    - [Sch. FIRST para. 17 Goods.](schedule/FIRST/paragraph/17.md)
+- SECOND SCHEDULE
