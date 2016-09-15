@@ -2,9 +2,9 @@
 
 2013 c. 29. Enacted 2013-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-04-06
+Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-09-15
 
 ## Contents
 
@@ -186,9 +186,11 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-04-06
     - [s. 142 Property traders: supplementary](section/142.md)
     - [s. 143 Financial institutions acquiring dwellings in the course of lending](section/143.md)
     - [s. 144 Section 143: supplementary](section/144.md)
-    - [s. 145 Occupation by certain employees or partners](section/145.md)
+    - [s. 144A Regulated home reversion plans](section/144A.md)
+    - [s. 145 Occupation by employees or partners of a qualifying trade or property rental business](section/145.md)
     - [s. 146 Meaning of “qualifying employee” and “qualifying partner” in section 145](section/146.md)
     - [s. 147 Meaning of “10% or greater share in a company”](section/147.md)
+    - [s. 147A Caretaker flat owned by management company](section/147A.md)
     - [s. 148 Farmhouses](section/148.md)
     - [s. 149 “Farm worker” and “former long-serving farm worker”](section/149.md)
     - [s. 150 Providers of social housing](section/150.md)
@@ -201,7 +203,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-04-06
   - Power to modify reliefs
     - [s. 156 Modification of reliefs](section/156.md)
   - Alternative property finance
-    - [s. 157 Land sold to financial institution and leased to person](section/157.md)
+    - [s. 157 Land in England, Wales or Northern Ireland sold to financial institution and leased to person](section/157.md)
+    - [s. 157A Land in Scotland sold to financial institution and leased to person](section/157A.md)
   - Administration and payment of tax
     - [s. 158 Responsibility for collection and management](section/158.md)
     - [s. 159 Annual tax on enveloped dwellings return](section/159.md)
@@ -274,9 +277,16 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-04-06
   - [s. 207 Meaning of “tax arrangements” and “abusive”](section/207.md)
   - [s. 208 Meaning of “tax advantage”](section/208.md)
   - [s. 209 Counteracting the tax advantages](section/209.md)
+  - [s. 209A Effect of adjustments specified in a provisional counteraction notice](section/209A.md)
+  - [s. 209B Notified adjustments: 12 month period for taking action if appeal made](section/209B.md)
+  - [s. 209C Notified adjustments: case within section 209B(4)(c)](section/209C.md)
+  - [s. 209D Notified adjustments: case within section 209B(4)(d)](section/209D.md)
+  - [s. 209E Notified adjustments: case within section 209B(4)(e)](section/209E.md)
+  - [s. 209F Appeals against provisional counteractions: further provision](section/209F.md)
   - [s. 210 Consequential relieving adjustments](section/210.md)
   - [s. 211 Proceedings before a court or tribunal](section/211.md)
   - [s. 212 Relationship between the GAAR and priority rules](section/212.md)
+  - [s. 212A Penalty](section/212A.md)
   - [s. 213 Consequential amendment](section/213.md)
   - [s. 214 Interpretation of Part 5](section/214.md)
   - [s. 215 Commencement and transitional provision](section/215.md)
@@ -1345,12 +1355,15 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-04-06
 - SCHEDULE 43 General anti-abuse rule: procedural requirements
   - The GAAR Advisory Panel
     - [Sch. 43 para. 1](schedule/43/paragraph/1.md)
+    - [Sch. 43 para. 1A Meaning of “tax appeal”](schedule/43/paragraph/1A.md)
   - Meaning of “designated HMRC officer”
     - [Sch. 43 para. 2](schedule/43/paragraph/2.md)
   - Notice to taxpayer of proposed counteraction of tax advantage
     - [Sch. 43 para. 3](schedule/43/paragraph/3.md)
     - [Sch. 43 para. 4](schedule/43/paragraph/4.md)
+    - [Sch. 43 para. 4A Corrective action by taxpayer](schedule/43/paragraph/4A.md)
   - Referral to GAAR Advisory Panel
+    - [Sch. 43 para. 4B](schedule/43/paragraph/4B.md)
     - [Sch. 43 para. 5](schedule/43/paragraph/5.md)
     - [Sch. 43 para. 6](schedule/43/paragraph/6.md)
     - [Sch. 43 para. 7](schedule/43/paragraph/7.md)
@@ -1363,6 +1376,70 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2016-04-06
     - [Sch. 43 para. 12](schedule/43/paragraph/12.md)
   - Notices may be given on assumption that tax advantage does arise
     - [Sch. 43 para. 13](schedule/43/paragraph/13.md)
+- SCHEDULE 43A Procedural requirements: pooling notices and notices of binding
+  - Pooling notices
+    - [Sch. 43A para. 1](schedule/43A/paragraph/1.md)
+  - Notice of proposal to bind arrangements to counteracted arrangements
+    - [Sch. 43A para. 2](schedule/43A/paragraph/2.md)
+    - [Sch. 43A para. 3](schedule/43A/paragraph/3.md)
+  - Corrective action by a notified taxpayer
+    - [Sch. 43A para. 4](schedule/43A/paragraph/4.md)
+  - Corrective action by lead taxpayer
+    - [Sch. 43A para. 5](schedule/43A/paragraph/5.md)
+  - Opinion notices and right to make representations
+    - [Sch. 43A para. 6](schedule/43A/paragraph/6.md)
+    - [Sch. 43A para. 7](schedule/43A/paragraph/7.md)
+  - Notice of final decision
+    - [Sch. 43A para. 8](schedule/43A/paragraph/8.md)
+    - [Sch. 43A para. 9](schedule/43A/paragraph/9.md)
+    - [Sch. 43A para. 10](schedule/43A/paragraph/10.md)
+  - “Equivalent arrangements”
+    - [Sch. 43A para. 11](schedule/43A/paragraph/11.md)
+  - Notices may be given on assumption that tax advantage does arise
+    - [Sch. 43A para. 12](schedule/43A/paragraph/12.md)
+  - Power to amend
+    - [Sch. 43A para. 13](schedule/43A/paragraph/13.md)
+- SCHEDULE 43B Procedural requirements: generic referral of tax arrangements
+  - Notice of proposal to make generic referral of tax arrangements
+    - [Sch. 43B para. 1](schedule/43B/paragraph/1.md)
+    - [Sch. 43B para. 2](schedule/43B/paragraph/2.md)
+  - Generic referral
+    - [Sch. 43B para. 3](schedule/43B/paragraph/3.md)
+    - [Sch. 43B para. 4](schedule/43B/paragraph/4.md)
+    - [Sch. 43B para. 5](schedule/43B/paragraph/5.md)
+  - Decision of GAAR Advisory Panel and opinion notices
+    - [Sch. 43B para. 6](schedule/43B/paragraph/6.md)
+  - Notice of right to make representations
+    - [Sch. 43B para. 7](schedule/43B/paragraph/7.md)
+  - Notice of final decision after considering opinion of GAAR Advisory Panel
+    - [Sch. 43B para. 8](schedule/43B/paragraph/8.md)
+  - Notices may be given on assumption that tax advantage does arise
+    - [Sch. 43B para. 9](schedule/43B/paragraph/9.md)
+  - Power to amend
+    - [Sch. 43B para. 10](schedule/43B/paragraph/10.md)
+- SCHEDULE 43C Penalty under section 212A: supplementary provision
+  - Value of the counteracted advantage: introduction
+    - [Sch. 43C para. 1](schedule/43C/paragraph/1.md)
+  - Value of the counteracted advantage: basic rule
+    - [Sch. 43C para. 2](schedule/43C/paragraph/2.md)
+  - Value of counteracted advantage: losses
+    - [Sch. 43C para. 3](schedule/43C/paragraph/3.md)
+  - Value of counteracted advantage: deferred tax
+    - [Sch. 43C para. 4](schedule/43C/paragraph/4.md)
+  - Assessment of penalty
+    - [Sch. 43C para. 5](schedule/43C/paragraph/5.md)
+  - Alteration of assessment of penalty
+    - [Sch. 43C para. 6](schedule/43C/paragraph/6.md)
+  - Revision of assessment following consequential relieving adjustment
+    - [Sch. 43C para. 7](schedule/43C/paragraph/7.md)
+  - Aggregate penalties
+    - [Sch. 43C para. 8](schedule/43C/paragraph/8.md)
+  - Appeal against penalty
+    - [Sch. 43C para. 9](schedule/43C/paragraph/9.md)
+  - Mitigation of penalties
+    - [Sch. 43C para. 10](schedule/43C/paragraph/10.md)
+  - Interpretation
+    - [Sch. 43C para. 11](schedule/43C/paragraph/11.md)
 - SCHEDULE 44 Trusts with vulnerable beneficiary
   - Inheritance Tax Act 1984
     - [Sch. 44 para. 1](schedule/44/paragraph/1.md)
