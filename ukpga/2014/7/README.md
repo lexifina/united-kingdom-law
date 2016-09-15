@@ -2,9 +2,9 @@
 
 2014 c. 7. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/7/2016-04-06
+Source: https://www.legislation.gov.uk/ukpga/2014/7/2016-09-15
 
 ## Contents
 
@@ -21,6 +21,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/7/2016-04-06
   - [s. 9 Reduction of secondary Class 1 contributions for certain age groups](section/9.md)
 - Application of general anti-abuse rule to national insurance contributions
   - [s. 10 GAAR to apply to national insurance contributions](section/10.md)
+  - [s. 10A Application of GAAR in relation to penalties](section/10A.md)
   - [s. 11 Power to modify application of GAAR to national insurance contributions](section/11.md)
 - Oil and gas workers on the continental shelf
   - [s. 12 Oil and gas workers on the continental shelf: secondary contributors etc](section/12.md)
