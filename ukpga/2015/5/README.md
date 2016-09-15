@@ -2,9 +2,9 @@
 
 2015 c. 5. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-04-12, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/5` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/5` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/5/2015-04-12
+Source: https://www.legislation.gov.uk/ukpga/2015/5/2016-09-15
 
 ## Contents
 
@@ -119,6 +119,8 @@ Source: https://www.legislation.gov.uk/ukpga/2015/5/2015-04-12
       - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
     - List of taxes
       - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 30A Threshold conditions](schedule/2/paragraph/30A.md)
+      - [Sch. 2 para. 30B Relevant defeats](schedule/2/paragraph/30B.md)
     - Interpretation
       - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
   - PART 3 Application of Parts 4 and 5 of FA 2014: Class 4
