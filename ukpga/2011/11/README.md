@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-06-16, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2016-06-16
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2016-09-15
 
 ## Contents
 
@@ -933,6 +933,10 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2016-06-16
       - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
     - Merchant acquirers etc
       - [Sch. 23 para. 13A](schedule/23/paragraph/13A.md)
+    - Providers of electronic stored-value payment services
+      - [Sch. 23 para. 13B](schedule/23/paragraph/13B.md)
+    - Business intermediaries
+      - [Sch. 23 para. 13C](schedule/23/paragraph/13C.md)
     - Payments derived from securities
       - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
       - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
