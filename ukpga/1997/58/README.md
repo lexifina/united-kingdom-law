@@ -1,0 +1,315 @@
+# Finance (No. 2) Act 1997
+
+1997 c. 58. Enacted 1997-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/58
+
+Source: https://www.legislation.gov.uk/ukpga/1997/58/2016-09-15
+
+## Contents
+
+- Part I The windfall tax
+  - [s. 1 Charge to windfall tax.](section/1.md)
+  - [s. 2 The companies benefitting from windfalls.](section/2.md)
+  - [s. 3 Administration of the windfall tax etc.](section/3.md)
+  - [s. 4 The windfall tax and profit-related pay.](section/4.md)
+  - [s. 5 Interpretation of Part I.](section/5.md)
+- Part II Value Added Tax and Excise Duties
+  - Value Added Tax
+    - [s. 6 ................................](section/6.md)
+  - Alcoholic liquor duties
+    - [s. 7 Rate of duty on spirits.](section/7.md)
+    - [s. 8 Rate of duty on beer.](section/8.md)
+    - [s. 9 Rates of duty on wine and made-wine.](section/9.md)
+    - [s. 10 Rates of duty on cider.](section/10.md)
+  - Hydrocarbon oil duties
+    - [s. 11 Rates of hydrocarbon oil duties etc.](section/11.md)
+  - Tobacco products duty
+    - [s. 12 Rates of tobacco products duty.](section/12.md)
+  - Vehicle excise and registration
+    - [s. 13 Rates of vehicle excise duty.](section/13.md)
+    - [s. 14 Payments where vehicle information transmitted electronically.](section/14.md)
+- Part III Income tax and corporation tax
+  - Reliefs for interest and private medical insurance
+    - [s. 15 Mortgage interest payments.](section/15.md)
+    - [s. 16 Limit on relief for interest for 1998-99.](section/16.md)
+    - [s. 17 Withdrawal of relief on medical insurance premiums.](section/17.md)
+  - Corporation tax
+    - [s. 18 Rates for financial year 1997.](section/18.md)
+  - Distributions, tax credits etc on and after 2nd July 1997
+    - [s. 19 Pension funds no longer entitled to payment of tax credits.](section/19.md)
+    - [s. 20 Losses etc not to be set against surplus franked investment income.](section/20.md)
+    - [s. 21 Estates in administration: distributions to which s.233(1) applies.](section/21.md)
+    - [s. 22 Lloyd’s underwriters.](section/22.md)
+    - [s. 23 Insurance companies and friendly societies.](section/23.md)
+  - Distributions, tax credits etc: avoidance
+    - [s. 24 Taxation of dealers in respect of distributions etc.](section/24.md)
+    - [s. 25 Repeal of s.95(5) of the Taxes Act 1988: consequential amendments.](section/25.md)
+    - [s. 26 Purchase and sale of securities.](section/26.md)
+    - [s. 27 Payments to companies under section 687 of the Taxes Act 1988.](section/27.md)
+    - [s. 28 Arrangements to pass on value of tax credit.](section/28.md)
+    - [s. 29 Unauthorised unit trusts.](section/29.md)
+  - Distributions, tax credits etc in and after 1999-00
+    - [s. 30 Tax credits.](section/30.md)
+    - [s. 31 Rates of tax applicable to Schedule F income etc.](section/31.md)
+    - [s. 32 Trusts.](section/32.md)
+    - [s. 33 Estates of deceased persons in administration.](section/33.md)
+    - [s. 34 Tax credits and taxation of distributions: miscellaneous provisions.](section/34.md)
+    - [s. 35 Transitional relief for charities etc.](section/35.md)
+    - [s. 36 Foreign income dividends.](section/36.md)
+  - Gilt-edged securities
+    - [s. 37 Interest to be paid gross.](section/37.md)
+    - [s. 38 Paying and collecting agents.](section/38.md)
+  - Relief for losses etc
+    - [s. 39 Carry-back of trading losses.](section/39.md)
+    - [s. 40 Carry-back of loan relationship deficits.](section/40.md)
+    - [s. 41 Restrictions on group relief.](section/41.md)
+  - Capital allowances for small and medium-sized businesses
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 ................................](section/43.md)
+  - Capital allowances and finance leases
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+  - Films
+    - [s. 48 Relief for expenditure on production and acquisition.](section/48.md)
+- Part IV Miscellaneous and supplemental
+  - Stamp duty
+    - [s. 49 Stamp duty on conveyance or transfer on sale.](section/49.md)
+  - Provisional collection of taxes
+    - [s. 50 Statutory effect of resolutions etc.](section/50.md)
+  - Supplemental
+    - [s. 51 Interpretation.](section/51.md)
+    - [s. 52 Repeals.](section/52.md)
+    - [s. 53 Short title.](section/53.md)
+- SCHEDULE 1 Quantification of a privatisation windfall
+  - The basic rule
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Value of a disposal in profit-making terms
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Value put on a disposal for privatisation purposes
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Cases where company privatised in stages
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Total profits for the initial period
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Meaning of the initial period etc
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Apportionment between demerged successors and predecessors
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - General interpretation of the Schedule
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Administration and collection of windfall tax
+  - Returns
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Notification of liability and failure to make return
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Payment of windfall tax
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - General power to make assessments
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Power to make assessments on discovery of unassessed liabilities
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Supplemental provisions about assessments
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Claims to relieve double assessment
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Claims to correct errors or mistakes in returns etc.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Appeals against assessments and decisions on claims
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Powers of Special Commissioners on an appeal
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Procedures on appeal
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Interest
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Collection of information
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Penalties for furnishing false information
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Recovery of tax
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Recovery against other group members
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - General provisions about penalties etc.
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Miscellaneous applications
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Interpretation
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Insurance companies and friendly societies
+  - Section 76 of the Taxes Act 1988
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Section 432E of the Taxes Act 1988
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Section 434 of the Taxes Act 1988
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Section 434A of the Taxes Act 1988
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Section 436 of the Taxes Act 1988
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Section 438 of the Taxes Act 1988
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Section 439B of the Taxes Act 1988
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Section 440B of the Taxes Act 1988
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Section 441A of the Taxes Act 1988
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Schedule 19AB to the Taxes Act 1988
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Schedule 19AC to the Taxes Act 1988
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Section 89 of the Finance Act 1989
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Section 65 of the Finance (No.2) Act 1992
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Tax credits, taxation of distributions etc
+  - Part I General
+    - The Taxes Management Act 1970
+      - Section 7
+        - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - Section 42 (pre-corporation tax self-assessment version)
+        - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - Section 42 (corporation tax self-assessment version)
+        - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - The Taxes Act 1988
+      - Section 231
+        - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - Section 232
+        - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - Section 233
+        - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - Sections 235 to 237
+        - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - Section 238
+        - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - Section 241
+        - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - Section 249
+        - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - Section 421
+        - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - Section 469
+        - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - Section 549
+        - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - Section 660C
+        - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - Section 687
+        - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - Section 689B
+        - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - Section 699
+        - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - Section 703
+        - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - Section 709
+        - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - Section 743
+        - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - Section 819
+        - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - Section 832
+        - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - Schedule 13
+        - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - The Taxation of Chargeable Gains Act 1992
+      - Section 4
+        - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - Section 6
+        - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Part II Insurance companies and Lloyd’s underwriters
+    - The Taxes Act 1988
+      - Section 231B
+        - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - Section 434
+        - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - Section 441A
+        - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - Schedule 19AC
+        - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - The Finance Act 1993
+      - Schedule 20
+        - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+- SCHEDULE 5 Limitation of entitlement to relief under section 35
+  - Part I Qualifying distributions other than bonus issues
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part II Bonus issues
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Foreign income dividends
+  - Section 13 of the Taxes Act 1988
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Section 75 of the Taxes Act 1988
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Chapter VA of Part VI of the Taxes Act 1988
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Section 247 of the Taxes Act 1988
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Section 431 of the Taxes Act 1988
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Section 434 of the Taxes Act 1988
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Section 458 of the Taxes Act 1988
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Chapter III of Part XII of the Taxes Act 1988
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Section 490 of the Taxes Act 1988
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Section 687 of the Taxes Act 1988
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Section 689B of the Taxes Act 1988
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Section 699A of the Taxes Act 1988
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Section 701 of the Taxes Act 1988
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Section 731 of the Taxes Act 1988
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Section 802 of the Taxes Act 1988
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Schedule 13 to the Taxes Act 1988
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Schedule 23A to the Taxes Act 1988
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Section 88A of the Finance Act 1989
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Section 89 of the Finance Act 1989
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Section 171 of the Finance Act 1993
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Schedule 7 to the Finance Act 1997
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Transitional provisions
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+- SCHEDULE 7 Restrictions on group relief
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - New limits
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Consequential amendments
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Commencement
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Repeals
+  - Part I Vehicle licensing: payments where information to be transmitted electronically
+  - Part II Income tax and corporation tax
+  - Part III Statutory effect of resolutions etc
