@@ -2,9 +2,9 @@
 
 2015 c. 11. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-01, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/11/2016-04-01
+Source: https://www.legislation.gov.uk/ukpga/2015/11/2016-09-15
 
 ## Contents
 
@@ -145,7 +145,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2016-04-01
   - Payment and recovery of tax
     - [s. 98 Payment of tax](section/98.md)
     - [s. 99 Diverted profits tax ignored for tax purposes](section/99.md)
-    - [s. 100 Credit for UK or foreign tax on same profits](section/100.md)
+    - [s. 100 Credits for tax on the same profits](section/100.md)
   - Review and appeals
     - [s. 101 HMRC review of charging notice](section/101.md)
     - [s. 102 Appeal against charging notice or supplementary charging notice](section/102.md)
@@ -598,6 +598,8 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2016-04-01
     - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
     - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
     - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+  - General anti-abuse rule: aggregate penalties
+    - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
 - SCHEDULE 21 Penalties in connection with offshore asset moves
   - Penalty linked to offshore asset moves
     - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
