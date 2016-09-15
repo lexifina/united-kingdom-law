@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-11-18, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-11-18
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2016-09-15
 
 ## Contents
 
@@ -332,10 +332,17 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-11-18
     - [s. 236 Meaning of “intermediary”](section/236.md)
   - Conduct notices
     - [s. 237 Duty to give conduct notice](section/237.md)
+    - [s. 237A Duty to give conduct notice: defeat of promoted arrangements](section/237A.md)
+    - [s. 237B Duty to give further conduct notice where provisional notice not complied with](section/237B.md)
+    - [s. 237C When a conduct notice given under section 237A(8) is “provisional”](section/237C.md)
+    - [s. 237D Judicial ruling upholding asserted tax advantage: effect on conduct notice which is provisional](section/237D.md)
     - [s. 238 Contents of a conduct notice](section/238.md)
     - [s. 239 Section 238: supplementary](section/239.md)
     - [s. 240 Amendment or withdrawal of conduct notice](section/240.md)
     - [s. 241 Duration of conduct notice](section/241.md)
+  - Defeat notices
+    - [s. 241A Defeat notices](section/241A.md)
+    - [s. 241B Judicial ruling upholding asserted tax advantage: effect on defeat notice](section/241B.md)
   - Monitoring notices: procedure and publication
     - [s. 242 Monitoring notices: duty to apply to tribunal](section/242.md)
     - [s. 243 Monitoring notices: tribunal approval](section/243.md)
@@ -384,6 +391,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-11-18
     - [s. 280 Penalties for offences](section/280.md)
   - Supplemental
     - [s. 281 Partnerships](section/281.md)
+    - [s. 281A VAT](section/281A.md)
     - [s. 282 Regulations under this Part](section/282.md)
     - [s. 283 Interpretation of this Part](section/283.md)
 - PART 6 Other provisions
@@ -1382,6 +1390,67 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-11-18
       - [Sch. 34 para. 13D](schedule/34/paragraph/13D.md)
   - PART 3 Power to amend
     - [Sch. 34 para. 14](schedule/34/paragraph/14.md)
+- SCHEDULE 34A Promoters of tax avoidance schemes: defeated arrangements
+  - PART 1 Introduction
+    - [Sch. 34A para. 1](schedule/34A/paragraph/1.md)
+  - PART 2 Meaning of “relevant defeat”
+    - “Related” arrangements
+      - [Sch. 34A para. 2](schedule/34A/paragraph/2.md)
+    - “Promoted arrangements”
+      - [Sch. 34A para. 3](schedule/34A/paragraph/3.md)
+    - Relevant defeat of single arrangements
+      - [Sch. 34A para. 4](schedule/34A/paragraph/4.md)
+    - Relevant defeat of related arrangements
+      - [Sch. 34A para. 5](schedule/34A/paragraph/5.md)
+    - Limit on number of separate relevant defeats in relation to the same, or related, arrangements
+      - [Sch. 34A para. 6](schedule/34A/paragraph/6.md)
+    - Case 1: counteraction upheld by judicial ruling
+      - [Sch. 34A para. 7](schedule/34A/paragraph/7.md)
+    - Case 2: judicial ruling that avoidance-related rule applies
+      - [Sch. 34A para. 8](schedule/34A/paragraph/8.md)
+    - Case 3: proportion-based relevant defeat
+      - [Sch. 34A para. 9](schedule/34A/paragraph/9.md)
+    - “Defeat” of arrangements
+      - [Sch. 34A para. 10](schedule/34A/paragraph/10.md)
+      - [Sch. 34A para. 11](schedule/34A/paragraph/11.md)
+      - [Sch. 34A para. 12](schedule/34A/paragraph/12.md)
+      - [Sch. 34A para. 13](schedule/34A/paragraph/13.md)
+      - [Sch. 34A para. 14](schedule/34A/paragraph/14.md)
+      - [Sch. 34A para. 15](schedule/34A/paragraph/15.md)
+      - [Sch. 34A para. 16](schedule/34A/paragraph/16.md)
+  - PART 3 Relevant defeats: associated persons
+    - Attribution of relevant defeats
+      - [Sch. 34A para. 17](schedule/34A/paragraph/17.md)
+    - Deemed defeat notices
+      - [Sch. 34A para. 18](schedule/34A/paragraph/18.md)
+    - Meaning of “relevant body” and “control”
+      - [Sch. 34A para. 19](schedule/34A/paragraph/19.md)
+  - PART 4 Meeting section 237A conditions: bodies corporate and partnerships
+    - Treating persons under another’s control as meeting section 237A condition
+      - [Sch. 34A para. 20](schedule/34A/paragraph/20.md)
+    - Treating persons in control of others as meeting section 237A condition
+      - [Sch. 34A para. 21](schedule/34A/paragraph/21.md)
+    - Treating persons controlled by the same person as meeting section 237A condition
+      - [Sch. 34A para. 22](schedule/34A/paragraph/22.md)
+    - Interpretation
+      - [Sch. 34A para. 23](schedule/34A/paragraph/23.md)
+  - PART 5 Supplementary
+    - “Adjustments”
+      - [Sch. 34A para. 24](schedule/34A/paragraph/24.md)
+    - Meaning of “avoidance-related rule”
+      - [Sch. 34A para. 25](schedule/34A/paragraph/25.md)
+    - “DOTAS arrangements”
+      - [Sch. 34A para. 26](schedule/34A/paragraph/26.md)
+    - “Disclosable VAT arrangements”
+      - [Sch. 34A para. 27](schedule/34A/paragraph/27.md)
+    - Paragraphs 26 and 27: supplementary
+      - [Sch. 34A para. 28](schedule/34A/paragraph/28.md)
+    - “Final” counteraction
+      - [Sch. 34A para. 29](schedule/34A/paragraph/29.md)
+    - Inheritance tax, stamp duty reserve tax, VAT and petroleum revenue tax
+      - [Sch. 34A para. 30](schedule/34A/paragraph/30.md)
+    - Power to amend
+      - [Sch. 34A para. 31](schedule/34A/paragraph/31.md)
 - SCHEDULE 35 Promoters of tax avoidance schemes: penalties
   - Introduction
     - [Sch. 35 para. 1](schedule/35/paragraph/1.md)
@@ -1420,12 +1489,16 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-11-18
     - ................................
       - [Sch. 36 para. 4](schedule/36/paragraph/4.md)
   - PART 2 Conduct notices and monitoring notices
+    - Defeat notices
+      - [Sch. 36 para. 4A](schedule/36/paragraph/4A.md)
     - Conduct notices
       - [Sch. 36 para. 5](schedule/36/paragraph/5.md)
     - Monitoring notices
       - [Sch. 36 para. 6](schedule/36/paragraph/6.md)
     - Person continuing to carry on partnership business as a sole trader
       - [Sch. 36 para. 7](schedule/36/paragraph/7.md)
+    - Persons leaving partnership: defeat notices
+      - [Sch. 36 para. 7A](schedule/36/paragraph/7A.md)
     - Persons leaving a partnership: conduct notices
       - [Sch. 36 para. 8](schedule/36/paragraph/8.md)
     - Persons leaving a partnership: monitoring notices
@@ -1434,6 +1507,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2015-11-18
       - [Sch. 36 para. 10](schedule/36/paragraph/10.md)
     - Notices under paragraphs 8 to 10: general
       - [Sch. 36 para. 11](schedule/36/paragraph/11.md)
+      - [Sch. 36 para. 11A](schedule/36/paragraph/11A.md)
       - [Sch. 36 para. 12](schedule/36/paragraph/12.md)
       - [Sch. 36 para. 13](schedule/36/paragraph/13.md)
     - Publication under section 248
