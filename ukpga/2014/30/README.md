@@ -1,0 +1,181 @@
+# Taxation of Pensions Act 2014
+
+2014 c. 30. Enacted 2014-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2014/30/2016-09-15
+
+## Contents
+
+- [s. 1 Provision for pension flexibility etc](section/1.md)
+- [s. 2 Restriction and reduction of tax charges on certain lump sums](section/2.md)
+- [s. 3 Death of pension scheme member](section/3.md)
+- [s. 4 Citation, interpretation and consequential amendments](section/4.md)
+- SCHEDULE 1 Pension flexibility etc
+  - Part 1 Drawdown pensions
+    - Annual cap on pension drawdown abolished for flexi-access drawdown funds
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Flexi-access drawdown funds
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Further drawdown amendments
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Related amendment in the Pension Benefits Regulations 2006
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Related amendment in Part 9 of ITEPA 2003
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Repeal and revocation of provisions relating to pre-6 April 2015 flexible drawdown
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Related amendments in regulations
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - Part 2 Annuities
+    - Reduction of restrictions on new annuities
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - Further annuities amendments
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - Consequential amendment
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+  - Part 3 Pension payments out of uncrystallised funds
+    - Definitions etc
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - Related amendments in Part 9 of ITEPA 2003
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+  - Part 4 Annual allowances
+    - Basic structure of the annual allowance charge
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+    - Annual allowance charge where rights have been flexibly accessed
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - Further amendments
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+  - Part 5 Miscellaneous amendments
+    - Pension commencement lump sums
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - Trivial commutation lump sums and small pot lump sums
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - Trivial commutation lump sum death benefits
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - Winding-up lump sum death benefit
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - Early lifetime annuities
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+    - Individuals who on 5 April 2006 had actual right to payment of pensions
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+    - Transfers between schemes of funds held in respect of individual who has protected pension age
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+    - Power to make certain payments
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - Temporary non-residence
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+    - Regulations about the effects of certain authorised payments
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+  - Part 6 Provision of information
+    - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+    - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+    - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+    - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+    - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+    - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+  - Part 7 Overseas pensions
+    - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+    - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+    - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+    - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+    - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+    - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+- SCHEDULE 2 Death of pension scheme member
+  - Part 1 Death benefits: nominees and successors
+    - Drawdown benefits for nominees and successors of deceased scheme members
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Nominees and successors: further drawdown amendments
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Nomination of charities by nominees and successors of deceased scheme members
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Related amendments in regulations
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Part 2 Lump sum death benefits
+    - Special lump sum death benefits charge
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Uncrystallised funds lump sum death benefit
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Commencement
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part 3 Uncrystallised rights at member’s death
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Part 4 Income tax on beneficiaries’ income withdrawal
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
