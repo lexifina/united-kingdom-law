@@ -2,9 +2,9 @@
 
 2011 c. 16. Enacted 2011-10-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-03-26, one file per provision. Earlier versions, from 2011-10-18, are in the history before it: `git log -- ukpga/2011/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-10-01, one file per provision. Earlier versions, from 2011-10-18, are in the history before it: `git log -- ukpga/2011/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/16/2015-03-26
+Source: https://www.legislation.gov.uk/ukpga/2011/16/2016-10-01
 
 ## Contents
 
@@ -121,13 +121,17 @@ Source: https://www.legislation.gov.uk/ukpga/2011/16/2015-03-26
     - [s. 81 Power of the Gas and Electricity Markets Authority to direct a modification of the Uniform Network Code](section/81.md)
   - CHAPTER 3 Upstream petroleum infrastructure
     - [s. 82 Acquisition of rights to use upstream petroleum infrastructure](section/82.md)
-    - [s. 83 Power of Secretary of State to give a notice under section 82(11) on own initiative](section/83.md)
+    - [s. 83 Power of OGA to give a notice under section 82(11) on own initiative](section/83.md)
     - [s. 84 Compulsory modification of upstream petroleum infrastructure](section/84.md)
     - [s. 85 Variation of notices under sections 82 and 84](section/85.md)
     - [s. 86 Publication of notices and variations](section/86.md)
-    - [s. 87 Powers of Secretary of State to require information](section/87.md)
+    - [s. 87 Powers of OGA to require information](section/87.md)
+    - [s. 87A Appeals against requirements to provide information](section/87A.md)
+    - [s. 87B Sanctions for failure to provide information](section/87B.md)
     - [s. 88 Enforcement](section/88.md)
     - [s. 89 Minor, consequential and supplemental provision](section/89.md)
+    - [s. 89A Assignments and assignations of applications](section/89A.md)
+    - [s. 89B Transfers of ownership](section/89B.md)
     - [s. 90 Interpretation](section/90.md)
     - [s. 91 Meaning of “associate” for the purposes of section 82](section/91.md)
   - CHAPTER 4 Downstream gas processing facilities
