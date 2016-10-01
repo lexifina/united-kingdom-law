@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-07-31, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-10-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-07-31
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-10-01
 
 ## Contents
 
@@ -258,6 +258,10 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-07-31
     - [s. 179 Disqualification: pre-commencement events etc.](section/179.md)
     - [s. 180 Disqualification: exceptions in relation to charitable companies](section/180.md)
     - [s. 181 Power to waive disqualification](section/181.md)
+    - [s. 181A Disqualification orders](section/181A.md)
+    - [s. 181B Duration of disqualification, and suspension pending disqualification](section/181B.md)
+    - [s. 181C Disqualification orders: procedure](section/181C.md)
+    - [s. 181D Disqualification orders: variation and revocation](section/181D.md)
     - [s. 182 Records of persons removed from office](section/182.md)
     - [s. 183 Criminal consequences of acting while disqualified](section/183.md)
     - [s. 184 Civil consequences of acting while disqualified](section/184.md)
