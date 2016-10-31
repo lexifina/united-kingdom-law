@@ -1,0 +1,179 @@
+# Foyle Fisheries Act (Northern Ireland) 1952
+
+apni/1952/5. Enacted 1952-03-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-10-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/apni/1952/5
+
+Source: https://www.legislation.gov.uk/apni/1952/5/2016-10-31
+
+## Contents
+
+- PART I PRELIMINARY AND GENERAL
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 Interpretation.](section/2.md)
+  - [s. 3 The Foyle Area.](section/3.md)
+  - [s. 6 Deposit of copies of orders and regulations.](section/6.md)
+- PART II ACQUISITION OF FOYLE FISHERY RIGHTS
+  - [s. 8 Power to acquire fishing rights, etc.](section/8.md)
+  - [s. 9 Exemption from stamp duties.](section/9.md)
+- PART III THE FOYLE FISHERIES COMMISSION
+  - [s. 10](section/10.md)
+  - Constitution and Functions
+    - [s. 11 Establishment of Foyle Fisheries Commission.](section/11.md)
+    - [s. 12 Exemption from rates and taxes.](section/12.md)
+    - [s. 13 Regulations.](section/13.md)
+    - [s. 14 Restrictions on number of licences.](section/14.md)
+    - [s. 14A Acquisition and development of waters for angling](section/14A.md)
+    - [s. 14B Permits to fish in Commission’s waters](section/14B.md)
+  - Dissolution of Londonderry Board
+    - [s. 19 Dissolution of Londonderry Board.](section/19.md)
+- PART V TIMES OF FISHING AND ANCILLARY PROVISIONS
+  - [s. 27 Close seasons and close time.](section/27.md)
+  - [s. 28 Fishing during close seasons.](section/28.md)
+  - [s. 29 Fishing during close time.](section/29.md)
+  - [s. 30 Obstruction of salmon and trout.](section/30.md)
+  - [s. 31 Removal of fixed engines during close season and close time.](section/31.md)
+  - [s. 32 Removal of nets from banks of rivers during close season.](section/32.md)
+  - [s. 33 Use of nets during close season or close time.](section/33.md)
+  - [s. 34 Prohibition of sale, etc., of salmon and trout unlawfully captured.](section/34.md)
+- PART VI PROTECTION OF FISHERIES
+  - Unlicensed fishing, etc.
+    - [s. 35A Prohibition of unlicensed fishing](section/35A.md)
+    - [s. 35B Exceptions, defences, etc. in relation to offences under section 35A](section/35B.md)
+  - Regulations as to Nets
+    - [s. 36 Restrictions on use of nets.](section/36.md)
+    - [s. 37 Mesh of nets for the taking of salmon in the sea and tideways.](section/37.md)
+    - [s. 38 Use of salmon nets near mouths of rivers.](section/38.md)
+    - [s. 39 Restriction on possession of unlawful net, etc.](section/39.md)
+  - Prohibition of Certain Methods of Fishing for, and of Practices Liable to Destroy, Salmon and Other Fish
+    - [s. 40 Penalty for use or possession of deleterious matter.](section/40.md)
+    - [s. 41 Penalty for pollution.](section/41.md)
+    - [s. 42 Penalty for using, etc., certain devices for taking fish.](section/42.md)
+    - [s. 43 Fishing for salmon or trout in a river by cross lines.](section/43.md)
+    - [s. 44 Damming, etc., river or mill race for purpose of taking salmon or trout.](section/44.md)
+    - [s. 45 Taking fish unlawfully killed or found dead.](section/45.md)
+  - Protection of Young and Breeding Fish
+    - [s. 46 Taking, etc., spawn, smolts or fry of salmon or trout.](section/46.md)
+    - [s. 47 Disturbing fish on spawning beds.](section/47.md)
+    - [s. 48 Penalties for taking, buying, etc., unseasonable salmon or trout.](section/48.md)
+  - Miscellaneous Offences
+    - [s. 49 Obstructing persons lawfully fishing.](section/49.md)
+    - [s. 50 Placing fishing engine with intent to prevent fish entering nets lawfully set.](section/50.md)
+    - [s. 51 Giving warning to persons unlawfully fishing.](section/51.md)
+    - [s. 51A Use of boat or vehicle as aid to commission of offence.](section/51A.md)
+  - Agents for Fishery Owners
+    - [s. 52 Appointment](section/52.md)
+- PART VIA AQUACULTURE
+  - Aquaculture licences
+    - [s. 52A Aquaculture licences](section/52A.md)
+    - [s. 52B Applications for aquaculture licences](section/52B.md)
+    - [s. 52C Determination of applications for aquaculture licences](section/52C.md)
+    - [s. 52D Form and conditions of aquaculture licences](section/52D.md)
+    - [s. 52E Duration of aquaculture licences](section/52E.md)
+    - [s. 52F Effect of aquaculture licence](section/52F.md)
+    - [s. 52G Variation of aquaculture licences by Commission](section/52G.md)
+    - [s. 52H Variation of aquaculture licences: applications by holder of licence](section/52H.md)
+    - [s. 52I Revocation of aquaculture licences](section/52I.md)
+    - [s. 52J Surrender of aquaculture licences](section/52J.md)
+    - [s. 52K Vesting of aquaculture licences on death or bankruptcy of holder](section/52K.md)
+    - [s. 52L Transfer, etc. of aquaculture licences](section/52L.md)
+    - [s. 52M Register of aquaculture licences](section/52M.md)
+    - [s. 52N Fees in respect of applications for aquaculture licences, etc.](section/52N.md)
+  - Foyle and Carlingford Aquaculture Licensing Appeals Board
+    - [s. 52O Foyle and Carlingford Aquaculture Licensing Appeals Board](section/52O.md)
+    - [s. 52P Appeals from decisions with respect to aquaculture licences](section/52P.md)
+    - [s. 52Q Reasons to be given for decisions](section/52Q.md)
+  - Miscellaneous
+    - [s. 52R Recapture of escaped stock](section/52R.md)
+    - [s. 52S Offences of making false or misleading statements or false entries](section/52S.md)
+    - [s. 52T Inquiries and inspections](section/52T.md)
+    - [s. 52U Regulations](section/52U.md)
+    - [s. 52V Transitional provision – existing licences in the Foyle and Carlingford Areas](section/52V.md)
+    - [s. 52W Transitional provision – applications, etc. for certain licences in the Foyle Area and the Carlingford Area](section/52W.md)
+    - [s. 52X Interpretation](section/52X.md)
+- PART VII POWERS OF AUTHORISED PERSONS
+  - [s. 53 Definitions.](section/53.md)
+  - [s. 54 Appointment of inspectors and river watchers.](section/54.md)
+  - [s. 55 Appointment of river watchers by persons interested in fisheries.](section/55.md)
+  - [s. 55A Duration of appointment of river watchers](section/55A.md)
+  - [s. 55B Renewal of appointment as river watcher](section/55B.md)
+  - [s. 56 Limitations on exercise of powers.](section/56.md)
+  - [s. 57 Warrant for exercise of powers.](section/57.md)
+  - [s. 58 General powers.](section/58.md)
+  - [s. 59 Power of lay magistrate to grant warrant to enter certain premises.](section/59.md)
+  - [s. 60 Boarding and examination of fishing vessels.](section/60.md)
+  - [s. 61 Apprehension of offenders.](section/61.md)
+  - [s. 62 Powers in relation to fishing engines, etc.](section/62.md)
+  - [s. 63 Powers of inspection, examination, and detention.](section/63.md)
+  - [s. 64 Procedure for disposal of boat or fishing engine seized.](section/64.md)
+  - [s. 65 Protection of authorised persons.](section/65.md)
+  - [s. 66 Penalty for assaulting or obstructing authorised persons.](section/66.md)
+- PART VIII LEGAL PROCEEDINGS
+  - [s. 67 Application of penal provisions of Act.](section/67.md)
+  - [s. 68 Penalties for offences.](section/68.md)
+  - [s. 69 Saving for acts done for artificial propagation, scientific purposes or improvement of fisheries.](section/69.md)
+  - [s. 70 Residence of body corporate.](section/70.md)
+  - [s. 71 Offences by bodies corporate.](section/71.md)
+  - [s. 72 Trial of offences.](section/72.md)
+  - [s. 73 Evidence of mouths of rivers, boundaries between tidal and freshwater portions of rivers, points of mouths of rivers to or from which distances are to be measured.](section/73.md)
+  - [s. 74 Forfeiture of licences.](section/74.md)
+  - [s. 75 Forfeiture of boats, fishing engines, etc., as statutory consequence of conviction.](section/75.md)
+  - [s. 76 Non-obligation of Court to pronounce or record forfeiture.](section/76.md)
+  - [s. 77 Disposal of fines.](section/77.md)
+  - [s. 78 Disposal of forfeitures.](section/78.md)
+  - [s. 79 Proof of regulations, bye-laws, etc.](section/79.md)
+  - [s. 80 Inquiries.](section/80.md)
+  - [s. 81 Powers in relation to inquiry.](section/81.md)
+  - [s. 82 Calculation of time periods](section/82.md)
+- SECOND SCHEDULE
+- THIRD SCHEDULE THE FOYLE, CARLINGFORD AND IRISH LIGHTS COMMISSION
+  - [Sch. THIRD para. 2 Particular powers of the Commission.](schedule/THIRD/paragraph/2.md)
+  - [Sch. THIRD para. 3 Special powers during transitional period.](schedule/THIRD/paragraph/3.md)
+  - [Sch. THIRD para. 15 Power to acquire and dispose of land.](schedule/THIRD/paragraph/15.md)
+- SCHEDULE 3A FOYLE AND CARLINGFORD AQUACULTURE LICENSING APPEALS BOARD
+  - Incorporation
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Membership
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Staffing
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Procedure
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Code of conduct
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Accounts
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Annual report
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Interpretation
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+- SCHEDULE 3B PROCEDURE IN RELATION TO APPEALS
+  - Notice of appeal
+    - [Sch. 3B para. 1](schedule/3B/paragraph/1.md)
+    - [Sch. 3B para. 2](schedule/3B/paragraph/2.md)
+    - [Sch. 3B para. 3](schedule/3B/paragraph/3.md)
+    - [Sch. 3B para. 4](schedule/3B/paragraph/4.md)
+  - Withdrawal of appeal
+    - [Sch. 3B para. 5](schedule/3B/paragraph/5.md)
+  - Response to notice of appeal
+    - [Sch. 3B para. 6](schedule/3B/paragraph/6.md)
+    - [Sch. 3B para. 7](schedule/3B/paragraph/7.md)
+    - [Sch. 3B para. 8](schedule/3B/paragraph/8.md)
+    - [Sch. 3B para. 9](schedule/3B/paragraph/9.md)
+    - [Sch. 3B para. 10](schedule/3B/paragraph/10.md)
+    - [Sch. 3B para. 11](schedule/3B/paragraph/11.md)
+  - Consolidation, location and conduct of proceedings
+    - [Sch. 3B para. 12](schedule/3B/paragraph/12.md)
+    - [Sch. 3B para. 13](schedule/3B/paragraph/13.md)
+  - Directions and witnesses
+    - [Sch. 3B para. 14](schedule/3B/paragraph/14.md)
+    - [Sch. 3B para. 15](schedule/3B/paragraph/15.md)
+    - [Sch. 3B para. 16](schedule/3B/paragraph/16.md)
+  - Oral hearing to be in public
+    - [Sch. 3B para. 17](schedule/3B/paragraph/17.md)
+  - Decision of the Board
+    - [Sch. 3B para. 18](schedule/3B/paragraph/18.md)
+- FIFTH SCHEDULE FORM OF APPOINTMENT OF RIVER WATCHER UNDER SECTION 55
