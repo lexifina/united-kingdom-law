@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-10-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-11-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-10-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-11-01
 
 ## Contents
 
@@ -113,6 +113,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-10-01
     - [s. 74 Restriction on expenditure on promoting Bills](section/74.md)
     - [s. 75 Further powers to alter application of charitable property](section/75.md)
   - Powers of Commission to act for protection of charities etc.
+    - [s. 75A Official warnings by the Commission](section/75A.md)
     - [s. 76 Suspension of trustees etc. and appointment of interim managers](section/76.md)
     - [s. 76A Exercise of powers where section 76(1)(a) applies](section/76A.md)
     - [s. 77 Offence of contravening certain orders under s.76](section/77.md)
@@ -232,6 +233,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2016-10-01
   - CHAPTER 4 Annual reports and returns and public access to accounts etc.
     - Annual reports etc.
       - [s. 162 Charity trustees to prepare annual reports](section/162.md)
+      - [s. 162A Annual reports: fund-raising standards information](section/162A.md)
       - [s. 163 Transmission of annual reports to Commission in certain cases](section/163.md)
       - [s. 164 Documents to be transmitted with annual report](section/164.md)
       - [s. 165 Preservation of annual reports etc.](section/165.md)
