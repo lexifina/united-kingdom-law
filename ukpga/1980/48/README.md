@@ -1,0 +1,224 @@
+# Finance Act 1980
+
+1980 c. 48. Enacted 1980-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-11-23, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1980/48/2016-11-23
+
+## Contents
+
+- Part I Excise Duties
+  - [s. 1 ................................](section/1.md)
+  - [s. 3 Hydrocarbon oil etc.](section/3.md)
+  - [s. 4 Vehicles excise duty Great Britain.](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6](section/6.md)
+  - [s. 7](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 Regulator powers.](section/10.md)
+- Part II Value Added Tax
+  - [s. 11 ................................](section/11.md)
+  - [s. 17 Mutual recovery and disclosure of information between member States.](section/17.md)
+- Part III Income Tax, Corporation Tax and Capital Gains Tax
+  - Chapter I General
+    - [s. 18 ................................](section/18.md)
+    - [s. 57 Registered friendly societies and trade unions.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 61 Dates for payment of tax.](section/61.md)
+    - [s. 62 Interest on unpaid tax.](section/62.md)
+    - [s. 63 ................................](section/63.md)
+  - Chapter II Capital Allowances
+    - [s. 64 ................................](section/64.md)
+    - [s. 70](section/70.md)
+    - [s. 71 ................................](section/71.md)
+  - Chapter III Capital Gains
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+- Part IV Capital Transfer Tax
+  - [s. 85 ................................](section/85.md)
+  - [s. 88](section/88.md)
+  - [s. 89 ................................](section/89.md)
+  - [s. 92 ................................](section/92.md)
+  - [s. 94 Delivery of accounts.](section/94.md)
+- Part V Stamp Duty
+  - [s. 95 ................................](section/95.md)
+  - [s. 96 ................................](section/96.md)
+  - [s. 97 Shared ownership transactions.](section/97.md)
+  - [s. 98 Maintenance funds for historic buildings.](section/98.md)
+  - [s. 99 ................................](section/99.md)
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 Conveyance in consideration of debt.](section/102.md)
+  - [s. 103 Admission of Northern Ireland barristers etc.](section/103.md)
+- Part VI Oil Taxation
+  - [s. 104 Increase of petroleum revenue tax.](section/104.md)
+  - [s. 105 Advance payments of tax.](section/105.md)
+  - [s. 106 Transfers of interests in oil fields.](section/106.md)
+  - [s. 107 Transmedian fields.](section/107.md)
+  - [s. 108 Gas banking schemes.](section/108.md)
+  - [s. 109 Fractionation.](section/109.md)
+- Part VII Development Land Tax
+  - [s. 110 ................................](section/110.md)
+- Part VIII Miscellaneous and Supplementary
+  - [s. 117 ................................](section/117.md)
+  - [s. 118 National Heritage Memorial Fund.](section/118.md)
+  - [s. 119 ................................](section/119.md)
+  - [s. 120](section/120.md)
+  - [s. 121 ................................](section/121.md)
+  - [s. 122 Short title, interpretation, construction and repeals.](section/122.md)
+- SCHEDULES 1, 2
+- SCHEDULES 3, 4
+- SCHEDULE 5 Gaming Licence Duty
+  - Gross gaming yield
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Returns and payment
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Power to estimate duty
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Recovery of duty
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Enforcement
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Changes of ownership
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Charge of duty in respect of short licence periods
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Alteration and surrender of licences etc.
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Co-operation with Gaming Board
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Modification of agreements
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Regulations
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Interpretation
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Gaming Machine Licence Duty
+- SCHEDULE 7................................
+- SCHEDULES 8–11
+- SCHEDULE 12................................
+- SCHEDULE 13................................
+- SCHEDULES 14, 15
+- SCHEDULE 16
+- SCHEDULE 17 Transfers of Interests in Oil Fields
+  - Part I Preliminary
+    - Interpretation
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Notice of transfer
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Exclusion of transfer rules
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Partial transfers
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Part II Transfer of Old Participator’s Expenditure Relief, Losses and Exemptions
+    - Unused expenditure relief
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Unused losses
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Accumulated capital expenditure
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Excluded oil
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Successive transfers
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - Part III Other Rules
+    - ...
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Royalty payments
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Payments on account and advance payments
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Losses of new participator
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Terminal losses
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - Abortive exploration expenditure
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Exploration and appraisal expenditure
+      - [Sch. 17 para. 16A](schedule/17/paragraph/16A.md)
+    - Research expenditure
+      - [Sch. 17 para. 16B](schedule/17/paragraph/16B.md)
+    - Oil allowance
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - Limit on tax payable in transfer year
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - Disposal of long-term assets
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - Transfers of oil
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - Retention of share of oil
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+- SCHEDULE 18
+  - Part I
+    - [Sch. 18 para. 1 ................................](schedule/18/paragraph/1.md)
+  - Part II Relief From Tax in Respect of Capital Gains
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - Part III Relief From Development Land Tax
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+  - Part IV
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - Part V Prevention of Tax Avoidance
+    - [Sch. 18 para. 13 ................................](schedule/18/paragraph/13.md)
+    - Re-instatement of charge in respect of capital gains
+      - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - Re-instatement of development land tax charge
+      - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+  - Part VI
+    - [Sch. 18 para. 17 ................................](schedule/18/paragraph/17.md)
+  - Part VII Interpretation
+    - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+- SCHEDULE 19 National Savings Bank
+  - Payments to National Loans Fund
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Liability to National Loans Fund
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Discharge of liability
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Interest on residual investments
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - Re-investment
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - Expenses
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - Accounts
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+- SCHEDULE 20 Repeals
+  - Part I Gaming Licence Duty
+  - Part II Gaming Machine Licence Duty
+  - Part III Other Excise Duties
+    - [Sch. 20 Pt. III para. 1](schedule/20/part/III/paragraph/1.md)
+    - [Sch. 20 Pt. III para. 2](schedule/20/part/III/paragraph/2.md)
+  - Part IV Value Added Tax
+  - Part V Abolition of Lower Rate
+  - Part VI Child Tax Allowances
+    - Section A
+    - Section B
+  - Part VII Retirement Annuities
+  - Part VIII Close Companies
+  - Part IX Income Tax and Corporation Tax: Miscellaneous
+    - [Sch. 20 Pt. IX para. 1](schedule/20/part/IX/paragraph/1.md)
+    - [Sch. 20 Pt. IX para. 2](schedule/20/part/IX/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Part X Capital Gains
+  - Part XI Capital Transfer Tax
+  - Part XII Stamp Duty
+  - Part XIII Petroleum Revenue Tax
+  - Part XIV Development Land Tax
+    - [Sch. 20 Pt. XIV para. 1](schedule/20/part/XIV/paragraph/1.md)
+    - [Sch. 20 Pt. XIV para. 2](schedule/20/part/XIV/paragraph/2.md)
+  - Part XV National Savings Bank
