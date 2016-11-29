@@ -2,11 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2016-11-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/25
-
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2016-11-29
 
 ## Contents
 
@@ -18,7 +16,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - [s. 3 Offence of unlawful interception](section/3.md)
     - [s. 4 Definition of “interception” etc.](section/4.md)
     - [s. 5 Conduct that is not interception](section/5.md)
-    - [s. 6 Definition of “lawful authority” in relation to interceptions](section/6.md)
+    - [s. 6 Definition of “lawful authority”](section/6.md)
     - [s. 7 Monetary penalties for certain unlawful interceptions](section/7.md)
     - [s. 8 Civil liability for certain unlawful interceptions](section/8.md)
     - [s. 9 Restriction on requesting interception by overseas authorities](section/9.md)
@@ -93,14 +91,10 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - Interpretation
       - [s. 60 Part 2: interpretation](section/60.md)
 - Part 3 Authorisations for obtaining communications data
-  - Targeted authorisations for obtaining data: the Investigatory Powers Commissioner
-    - [s. 60A Power of Investigatory Powers Commissioner to grant authorisations](section/60A.md)
-  - Targeted authorisations for obtaining data: designated senior officers
-    - [s. 61 Power of designated senior officers to grant authorisations](section/61.md)
-    - [s. 61A Power of designated senior officers to grant authorisations: urgent cases](section/61A.md)
-  - Further provision about authorisations
+  - Targeted authorisations for obtaining data
+    - [s. 61 Power to grant authorisations](section/61.md)
     - [s. 62 Restrictions in relation to internet connection records](section/62.md)
-    - [s. 63 Additional restrictions on grant of authorisations under section 61](section/63.md)
+    - [s. 63 Additional restrictions on grant of authorisations](section/63.md)
     - [s. 64 Procedure for authorisations and authorised notices](section/64.md)
     - [s. 65 Duration and cancellation of authorisations and notices](section/65.md)
     - [s. 66 Duties of telecommunications operators in relation to authorisations](section/66.md)
@@ -140,9 +134,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - [s. 91 Approval of notices following review under section 90](section/91.md)
     - [s. 92 Data integrity and security](section/92.md)
     - [s. 93 Disclosure of retained data](section/93.md)
-  - Variation, revocation or renewal of notices
+  - Variation or revocation of notices
     - [s. 94 Variation or revocation of notices](section/94.md)
-    - [s. 94A Renewal of notices](section/94A.md)
   - Enforcement
     - [s. 95 Enforcement of notices and certain other requirements and restrictions](section/95.md)
   - Further and supplementary provision
@@ -218,8 +211,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
       - [s. 151 Safeguards relating to disclosure of material overseas](section/151.md)
       - [s. 152 Safeguards relating to examination of material](section/152.md)
       - [s. 153 Additional safeguards for items subject to legal privilege](section/153.md)
-      - [s. 154 Additional safeguards for confidential journalistic material etc](section/154.md)
-      - [s. 154A Section 154: procedure where use of criteria approved by senior official](section/154A.md)
+      - [s. 154 Additional safeguard for confidential journalistic material](section/154.md)
       - [s. 155 Offence of breaching safeguards relating to examination of material](section/155.md)
       - [s. 156 Application of other restrictions in relation to warrants](section/156.md)
     - Interpretation
@@ -272,8 +264,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
       - [s. 192 Safeguards relating to disclosure of material overseas](section/192.md)
       - [s. 193 Safeguards relating to examination of material etc.](section/193.md)
       - [s. 194 Additional safeguards for items subject to legal privilege](section/194.md)
-      - [s. 195 Additional safeguards for confidential journalistic material etc](section/195.md)
-      - [s. 195A Section 195: procedure where use of criteria approved by senior official](section/195A.md)
+      - [s. 195 Additional safeguard for confidential journalistic material](section/195.md)
       - [s. 196 Offence of breaching safeguards relating to examination of material](section/196.md)
       - [s. 197 Application of other restrictions in relation to warrants](section/197.md)
     - Interpretation
@@ -281,12 +272,10 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
 - Part 7 Bulk personal dataset warrants
   - Bulk personal datasets: interpretation
     - [s. 199 Bulk personal datasets: interpretation](section/199.md)
-  - Requirement for authorisation
-    - [s. 200 Requirement for authorisation ...: general](section/200.md)
+  - Requirement for warrant
+    - [s. 200 Requirement for authorisation by warrant: general](section/200.md)
     - [s. 201 Exceptions to section 200(1) and (2)](section/201.md)
-  - Restriction on use of class BPD warrants etc
     - [s. 202 Restriction on use of class BPD warrants](section/202.md)
-    - [s. 202A Further provision about sensitive processing](section/202A.md)
     - [s. 203 Meaning of “protected data”](section/203.md)
   - Issue of warrants
     - [s. 204 Class BPD warrants](section/204.md)
@@ -314,55 +303,11 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - [s. 224 Offence of breaching safeguards relating to examination of material](section/224.md)
     - [s. 225 Application of Part to bulk personal datasets obtained under this Act](section/225.md)
     - [s. 226 Part 7: interpretation](section/226.md)
-- Part 7A Bulk personal dataset authorisations
-  - Low or no reasonable expectation of privacy
-    - [s. 226A Bulk personal datasets: low or no reasonable expectation of privacy](section/226A.md)
-  - Issue of authorisations
-    - [s. 226B Individual authorisation](section/226B.md)
-    - [s. 226BA Category authorisation](section/226BA.md)
-    - [s. 226BB Approval of authorisations by Judicial Commissioners](section/226BB.md)
-    - [s. 226BC Approval of individual authorisations granted in urgent cases](section/226BC.md)
-  - Duration, renewal and cancellation
-    - [s. 226C Duration of authorisation](section/226C.md)
-    - [s. 226CA Renewal of authorisation](section/226CA.md)
-    - [s. 226CB Cancellation of authorisation](section/226CB.md)
-    - [s. 226CC Non-renewal or cancellation of individual authorisation](section/226CC.md)
-    - [s. 226CD Non-renewal or cancellation of category authorisation](section/226CD.md)
-  - Further and supplementary provision
-    - [s. 226D Section 226A ceasing to apply to part of bulk personal dataset](section/226D.md)
-    - [s. 226DA Annual report](section/226DA.md)
-    - [s. 226DB Report to Intelligence and Security Committee](section/226DB.md)
-    - [s. 226DC Part 7A: interpretation](section/226DC.md)
-- Part 7B Third party bulk personal datasets
-  - Interpretation
-    - [s. 226E Third party bulk personal datasets: interpretation](section/226E.md)
-  - Requirement for warrant
-    - [s. 226F Requirement for authorisation by warrant](section/226F.md)
-    - [s. 226FA Exceptions to section 226F(1)](section/226FA.md)
-  - Issue of warrants
-    - [s. 226G Application for third party BPD warrant](section/226G.md)
-    - [s. 226GA Approval of warrants by Judicial Commissioners](section/226GA.md)
-    - [s. 226GB Approval of third party BPD warrants issued in urgent cases](section/226GB.md)
-    - [s. 226GC Decisions to issue warrants to be taken personally by Secretary of State](section/226GC.md)
-    - [s. 226GD Requirements that must be met by warrants](section/226GD.md)
-  - Duration, renewal and cancellation
-    - [s. 226H Duration of warrants](section/226H.md)
-    - [s. 226HA Renewal of warrants](section/226HA.md)
-    - [s. 226HB Cancellation of warrants](section/226HB.md)
-    - [s. 226HC Non-renewal or cancellation of third party BPD warrant](section/226HC.md)
-  - Further and supplementary provision
-    - [s. 226I Initial inspection](section/226I.md)
-    - [s. 226IA Safeguards relating to examination of third party bulk personal datasets](section/226IA.md)
-    - [s. 226IB Additional safeguards for items subject to legal privilege: examination](section/226IB.md)
-    - [s. 226IC Additional safeguards for items subject to legal privilege: retention following examination](section/226IC.md)
-    - [s. 226ID Offence of breaching safeguards relating to examination of material](section/226ID.md)
-    - [s. 226IE Part 7B: interpretation](section/226IE.md)
 - Part 8 Oversight arrangements
   - CHAPTER 1 Investigatory Powers Commissioner and other Judicial Commissioners
     - The Commissioners
       - [s. 227 Investigatory Powers Commissioner and other Judicial Commissioners](section/227.md)
       - [s. 228 Terms and conditions of appointment](section/228.md)
-      - [s. 228A Temporary Judicial Commissioners](section/228A.md)
     - Main functions of Commissioners
       - [s. 229 Main oversight functions](section/229.md)
       - [s. 230 Additional directed oversight functions](section/230.md)
@@ -372,7 +317,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - Reports and investigation and information powers
       - [s. 234 Annual and other reports](section/234.md)
       - [s. 235 Investigation and information powers](section/235.md)
-      - [s. 235A Personal data breaches](section/235A.md)
       - [s. 236 Referrals by the Intelligence and Security Committee of Parliament](section/236.md)
       - [s. 237 Information gateway](section/237.md)
     - Supplementary provision
@@ -385,8 +329,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - Investigatory Powers Tribunal
       - [s. 242 Right of appeal from Tribunal](section/242.md)
       - [s. 243 Functions of Tribunal in relation to this Act etc.](section/243.md)
-    - Information Commission
-      - [s. 244 Oversight by Information Commission in relation to Part 4](section/244.md)
+    - Information Commissioner
+      - [s. 244 Oversight by Information Commissioner in relation to Part 4](section/244.md)
     - Advisory bodies
       - [s. 245 Technical Advisory Board](section/245.md)
       - [s. 246 Technology Advisory Panel](section/246.md)
@@ -405,11 +349,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
       - [s. 254 Approval of notices by Judicial Commissioners](section/254.md)
       - [s. 255 Further provision about notices under section 252 or 253](section/255.md)
       - [s. 256 Variation and revocation of notices](section/256.md)
-      - [s. 256A Renewal of notices](section/256A.md)
       - [s. 257 Review of notices by the Secretary of State](section/257.md)
       - [s. 258 Approval of notices following review under section 257](section/258.md)
-      - [s. 258A Notification of proposed changes to telecommunications services etc](section/258A.md)
-      - [s. 258B Variation and revocation of notices given under section 258A](section/258B.md)
     - Wireless telegraphy
       - [s. 259 Amendments of the Wireless Telegraphy Act 2006](section/259.md)
   - CHAPTER 2 General
@@ -487,9 +428,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
   - Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014 (S.I. 2014/899)
     - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
-- Schedule 2A Specified public authorities for the purposes of section 12
-  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
-  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
 - SCHEDULE 3 Exceptions to section 56
   - Introductory
     - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
@@ -507,18 +445,12 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
   - TPIM proceedings
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
-  - Proceedings under Part 2 of the National Security Act 2023
-    - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
   - TEO proceedings
     - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
-  - Sanctions proceedings
-    - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
   - Proceedings relating to freezing of terrorist assets etc.
     - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
     - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
     - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
-  - Proceedings relating to release of prisoners etc in England and Wales
-    - [Sch. 3 para. 12A](schedule/3/paragraph/12A.md)
   - Proceedings relating to release of prisoners etc. in Northern Ireland
     - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
   - Employment or industrial tribunal proceedings
@@ -539,8 +471,6 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
     - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
     - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
     - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
-    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
-    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
 - SCHEDULE 4 Relevant public authorities and designated senior officers etc.
   - Part 1 Table of authorities and officers etc.
   - Part 2 Interpretation of table
@@ -668,7 +598,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2026-09-30
       - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
     - Police Reform Act 2002
       - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
-    - ...
+    - Privacy and Electronic Communications (EC Directive) Regulations 2003 (S.I. 2003/2426)
       - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
     - Audit and Accountability (Northern Ireland) Order 2003 (S.I. 2003/418 (N.I. 5))
       - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
