@@ -1,0 +1,260 @@
+# Social Security (Consequential Provisions) Act 1992
+
+1992 c. 6. Enacted 1992-02-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/6
+
+Source: https://www.legislation.gov.uk/ukpga/1992/6/2016-11-30
+
+## Contents
+
+- [s. 1 Meaning of “the consolidating Acts”.](section/1.md)
+- [s. 2 Continuity of the law.](section/2.md)
+- [s. 3 Repeals.](section/3.md)
+- [s. 4 Consequential amendments.](section/4.md)
+- [s. 5 Transitional provisions and savings.](section/5.md)
+- [s. 6 Transitory modifications.](section/6.md)
+- [s. 7 Short title, commencement and extent.](section/7.md)
+- SCHEDULE 1 Repeals
+- SCHEDULE 2 Consequential amendments
+  - National Assistance Act 1948
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Law Reform (Personal Injuries) Act 1948
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Maintenance Orders Act 1950
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Agriculture Act 1967
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Public Expenditure and Receipts Act 1968
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Administration of Justice Act 1970Attachment of Earnings Act 1971
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Tribunals and Inquiries Act 1971
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Employment and Training Act 1973
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Social Security (Northern Ireland) Act 1975
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Social Security (Consequential Provisions) Act 1975
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Social Security Pensions Act 1975
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+  - Employment Protection Act 1975
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+  - Social Security (Miscellaneous Provisions) Act 1977
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+  - Rent Act 1977
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+  - Rating (Disabled Persons) Act 1978
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+  - Employment Protection (Consolidation) Act 1978
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+  - Capital Gains Tax Act 1979
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+  - Vaccine Damage Payments Act 1979
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+  - Pneumoconiosis etc. (Workers’ Compensation) Act 1979
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+  - Justices of the Peace Act 1979
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+  - Social Security Act 1980
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+  - Magistrates’ Courts Act 1980
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+  - Local Government, Planning and Land Act 1980
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+  - Civil Jurisdiction and Judgments Act 1982
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+  - Forfeiture Act 1982
+    - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+  - Transport Act 1982
+    - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+  - Value Added Tax Act 1983
+    - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+  - Inheritance Tax Act 1984
+    - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+  - Social Security Act 1985
+    - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+  - Bankruptcy (Scotland) Act 1985
+    - [Sch. 2 para. 69](schedule/2/paragraph/69.md)
+  - Housing Act 1985
+    - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+    - [Sch. 2 para. 71](schedule/2/paragraph/71.md)
+    - [Sch. 2 para. 72](schedule/2/paragraph/72.md)
+  - Insolvency Act 1986
+    - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+  - Wages Act 1986
+    - [Sch. 2 para. 74](schedule/2/paragraph/74.md)
+  - Social Security Act 1986
+    - [Sch. 2 para. 75](schedule/2/paragraph/75.md)
+    - [Sch. 2 para. 76](schedule/2/paragraph/76.md)
+    - [Sch. 2 para. 77](schedule/2/paragraph/77.md)
+    - [Sch. 2 para. 78](schedule/2/paragraph/78.md)
+    - [Sch. 2 para. 79](schedule/2/paragraph/79.md)
+    - [Sch. 2 para. 80](schedule/2/paragraph/80.md)
+    - [Sch. 2 para. 81](schedule/2/paragraph/81.md)
+    - [Sch. 2 para. 82](schedule/2/paragraph/82.md)
+    - [Sch. 2 para. 83](schedule/2/paragraph/83.md)
+    - [Sch. 2 para. 84](schedule/2/paragraph/84.md)
+  - Abolition of Domestic Rates Etc. (Scotland) Act 1987
+    - [Sch. 2 para. 85](schedule/2/paragraph/85.md)
+    - [Sch. 2 para. 86](schedule/2/paragraph/86.md)
+    - [Sch. 2 para. 87](schedule/2/paragraph/87.md)
+    - [Sch. 2 para. 88](schedule/2/paragraph/88.md)
+    - [Sch. 2 para. 89](schedule/2/paragraph/89.md)
+    - [Sch. 2 para. 90](schedule/2/paragraph/90.md)
+    - [Sch. 2 para. 91](schedule/2/paragraph/91.md)
+    - [Sch. 2 para. 92](schedule/2/paragraph/92.md)
+  - Income and Corporation Taxes Act 1988
+    - [Sch. 2 para. 93](schedule/2/paragraph/93.md)
+  - Social Security Act 1988
+    - [Sch. 2 para. 94](schedule/2/paragraph/94.md)
+    - [Sch. 2 para. 95](schedule/2/paragraph/95.md)
+    - [Sch. 2 para. 96](schedule/2/paragraph/96.md)
+  - Legal Aid Act 1988
+    - [Sch. 2 para. 97](schedule/2/paragraph/97.md)
+  - Local Government Finance Act 1988
+    - [Sch. 2 para. 98](schedule/2/paragraph/98.md)
+    - [Sch. 2 para. 99](schedule/2/paragraph/99.md)
+    - [Sch. 2 para. 100](schedule/2/paragraph/100.md)
+    - [Sch. 2 para. 101](schedule/2/paragraph/101.md)
+  - Housing (Scotland) Act 1988
+    - [Sch. 2 para. 102](schedule/2/paragraph/102.md)
+  - Housing Act 1988
+    - [Sch. 2 para. 103](schedule/2/paragraph/103.md)
+    - [Sch. 2 para. 104](schedule/2/paragraph/104.md)
+  - Social Security Act 1989
+    - [Sch. 2 para. 105](schedule/2/paragraph/105.md)
+    - [Sch. 2 para. 106](schedule/2/paragraph/106.md)
+  - Finance Act 1989
+    - [Sch. 2 para. 107](schedule/2/paragraph/107.md)
+  - Children Act 1989
+    - [Sch. 2 para. 108](schedule/2/paragraph/108.md)
+  - Capital Allowances Act 1990
+    - [Sch. 2 para. 109](schedule/2/paragraph/109.md)
+  - Social Security Act 1990
+    - [Sch. 2 para. 110](schedule/2/paragraph/110.md)
+    - [Sch. 2 para. 111](schedule/2/paragraph/111.md)
+    - [Sch. 2 para. 112](schedule/2/paragraph/112.md)
+  - Child Support Act 1991
+    - [Sch. 2 para. 113](schedule/2/paragraph/113.md)
+    - [Sch. 2 para. 114](schedule/2/paragraph/114.md)
+- SCHEDULE 3 Transitional provisions and savings (including some transitional provisions retained from previous Acts)
+  - Part I General and miscellaneous
+    - Questions relating to contributions and benefits
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - General saving for old savings
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Documents referring to repealed enactments
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Provisions relating to the coming into force of other provisions
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Continuing powers to make transitional etc. regulations
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Powers to make preparatory regulations
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Provisions contained in enactments by virtue of orders or regulations
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Amending orders made after passing of Act
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part II Specific transitional provisions and savings (including some derived from previous Acts)
+    - Interpretation
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Social Security Pensions Act 1975
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Additional pensions
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Supersession of National Insurance Acts - provisions derived from Schedule 3 to former Consequential Provisions Act
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Housing benefit - provisions derived from paragraph 18 of Schedule 3 to former Consequential Provisions Act and section 30(11) of 1986 Act
+      - [Sch. 3 para. 17A](schedule/3/paragraph/17A.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Industrial injuries - provision derived from paragraph 12 of Schedule 3 to 1986 Act
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Attendance allowance - provision derived from section 1 of Social Security Act 1988.
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Supplementary benefit and former housing-related benefits - provision derived from section 16 of Social Security Act 1989
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Substitution of disability living allowance for attendance allowance and mobility allowance and dissolution of Attendance Allowance Board - provision derived from section 5 of Disability Living Allowance and Disability Working Allowance Act 1991
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Regulations and orders - supplementary
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+- SCHEDULE 4 Transitory modifications
+  - Part I Provisions not yet in force
+    - Introductory
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - The Contributions and Benefits Act
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - The Administration Act
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - This Act
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Part II Other transitory modifications
+    - Transition from mobility allowance to disability living allowance
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Amendment of Schedule 1 to the Attachment of Earnings Act 1971 (c.32)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
