@@ -1,0 +1,170 @@
+# Drug Trafficking Act 1994
+
+1994 c. 37. Enacted 1994-11-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/37
+
+Source: https://www.legislation.gov.uk/ukpga/1994/37/2016-11-30
+
+## Contents
+
+- Part I Confiscation orders
+  - Introductory
+    - [s. 1 Meaning of “drug trafficking” and “drug trafficking offence”.](section/1.md)
+  - Confiscation orders
+    - [s. 2 Confiscation orders.](section/2.md)
+    - [s. 3 Postponed determinations.](section/3.md)
+    - [s. 4 Assessing the proceeds of drug trafficking.](section/4.md)
+    - [s. 5 Amount to be recovered under confiscation order.](section/5.md)
+    - [s. 6 Meaning of “amount that might be realised” and “realisable property”.](section/6.md)
+    - [s. 7 Value of property etc.](section/7.md)
+    - [s. 8 Gifts caught by this Act.](section/8.md)
+    - [s. 9 Application of procedure for enforcing fines.](section/9.md)
+    - [s. 10 Interest on sums unpaid under confiscation orders.](section/10.md)
+  - Statements etc in connection with confiscation orders
+    - [s. 11 Statements relating to drug trafficking.](section/11.md)
+    - [s. 12 Provision of information by defendant.](section/12.md)
+  - Further proceedings in connection with confiscation orders
+    - [s. 13 Reconsideration of case where court has not proceeded under section 2.](section/13.md)
+    - [s. 14 Re-assessment of whether defendant has benefited from drug trafficking.](section/14.md)
+    - [s. 15 Revised assessment of proceeds of drug trafficking.](section/15.md)
+    - [s. 16 Increase in realisable property.](section/16.md)
+    - [s. 17 Inadequacy of realisable property.](section/17.md)
+    - [s. 18 Compensation.](section/18.md)
+  - Confiscation orders where defendant has absconded or died
+    - [s. 19 Powers of High Court where defendant has absconded or died.](section/19.md)
+    - [s. 20 Effect of conviction where High Court has acted under section 19.](section/20.md)
+    - [s. 21 Variation of confiscation orders made by virtue of section 19.](section/21.md)
+    - [s. 22 Compensation etc where absconder is acquitted.](section/22.md)
+    - [s. 23 Power to discharge confiscation order and order compensation where absconder returns.](section/23.md)
+    - [s. 24 Provisions supplementary to sections 21, 22 and 23.](section/24.md)
+  - Restraint orders and charging orders
+    - [s. 25 Cases in which restraint orders and charging orders may be made.](section/25.md)
+    - [s. 26 Restraint orders.](section/26.md)
+    - [s. 27 Charging orders in respect of land, securities etc.](section/27.md)
+    - [s. 28 Charging orders: supplementary provisions.](section/28.md)
+  - Realisation of property
+    - [s. 29 Realisation of property.](section/29.md)
+    - [s. 30 Application of proceeds of realisation and other sums.](section/30.md)
+  - Exercise of powers for the realisation of property
+    - [s. 31 Exercise by High Court, county court or receiver of powers for the realisation of property.](section/31.md)
+  - Insolvency of defendants etc
+    - [s. 32 Bankruptcy of defendant etc.](section/32.md)
+    - [s. 33 Sequestration in Scotland of defendant etc.](section/33.md)
+    - [s. 34 Winding up of company holding realisable property.](section/34.md)
+  - Protection for insolvency officers etc
+    - [s. 35 Insolvency officers dealing with property subject to restraint order.](section/35.md)
+    - [s. 36 Receivers: supplementary provisions.](section/36.md)
+  - Enforcement of orders made outside England and Wales
+    - [s. 37 Recognition and enforcement of orders and functions under Part I of the Criminal Justice (Scotland) Act 1987.](section/37.md)
+    - [s. 38 Enforcement of Northern Ireland orders.](section/38.md)
+    - [s. 39 Enforcement of external confiscation orders.](section/39.md)
+    - [s. 40 Registration of external confiscation orders.](section/40.md)
+  - Interpretation
+    - [s. 41 Interpretation of Part I.](section/41.md)
+- Part II Drug trafficking money imported or exported in cash
+  - [s. 42 Seizure and detention.](section/42.md)
+  - [s. 43 Forfeiture.](section/43.md)
+  - [s. 44 Appeal against forfeiture order made by a magistrates’ court.](section/44.md)
+  - [s. 45 Appeal against forfeiture order made by sheriff.](section/45.md)
+  - [s. 46 Rules of court.](section/46.md)
+  - [s. 47 Receipts.](section/47.md)
+  - [s. 48 Interpretation of Part II.](section/48.md)
+- Part III Offences in connection with proceeds of drug trafficking
+  - [s. 49 Concealing or transferring proceeds of drug trafficking.](section/49.md)
+  - [s. 50 Assisting another person to retain the benefit of drug trafficking.](section/50.md)
+  - [s. 51 Acquisition, possession or use of proceeds of drug trafficking.](section/51.md)
+  - [s. 52 Failure to disclose knowledge or suspicion of money laundering.](section/52.md)
+  - [s. 53 Tipping-off.](section/53.md)
+  - [s. 54 Penalties.](section/54.md)
+- Part IV Miscellaneous and supplemental
+  - Investigations into drug trafficking
+    - [s. 55 Order to make material available.](section/55.md)
+    - [s. 56 Authority for search.](section/56.md)
+    - [s. 57 Provisions supplementary to sections 55 and 56.](section/57.md)
+    - [s. 58 Offence of prejudicing investigation.](section/58.md)
+    - [s. 59 Disclosure of information held by government departments.](section/59.md)
+    - [s. 59A Construction of sections 55 to 59](section/59A.md)
+  - Prosecution of offences etc
+    - [s. 60 Revenue and Customs prosecutions](section/60.md)
+    - [s. 61 Extension of certain offences to Crown servants and exemptions for regulators etc.](section/61.md)
+  - Interpretation of Act
+    - [s. 62 Meaning of “property” and related expressions.](section/62.md)
+    - [s. 63 General interpretation.](section/63.md)
+    - [s. 64 Index of defined expressions.](section/64.md)
+  - Supplemental
+    - [s. 65 Consequential amendments and modifications of other Acts.](section/65.md)
+    - [s. 66 Transitional provisions and savings.](section/66.md)
+    - [s. 67 Repeals etc.](section/67.md)
+    - [s. 68 Extent.](section/68.md)
+    - [s. 69 Short title and commencement.](section/69.md)
+- SCHEDULE 1
+  - Land Registration Act 1925 (c. 21)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Misuse of Drugs Act 1971 (c. 38)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Civil Jurisdiction and Judgments Act 1982 (c. 27)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Criminal Justice Act 1982 (c. 48)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Drug Trafficking Offences Act 1986 (c. 32)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Criminal Justice (Scotland) Act 1987 (c. 41)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Extradition Act 1989 (c. 33)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Criminal Justice (International Co-operation) Act 1990 (c. 5)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Criminal Justice Act 1993 (c. 36)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+- SCHEDULE 2 Transitional provisions etc
+  - General transitional provisions and savings
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Provision in relation to section 32 of this Act
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Provision in relation to section 34 of this Act
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Provision in relation to Part II of this Act
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Provision in relation to section 21(3) of the Criminal Justice Act 1993
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Provision in relation to section 26(1) of the Criminal Justice Act 1993
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Provision in relation to Schedule 4 to the Criminal Justice Act 1993
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Further transitional provision
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Repeals
+  - TABLE OF DERIVATIONS
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
