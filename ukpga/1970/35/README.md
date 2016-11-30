@@ -1,0 +1,191 @@
+# Conveyancing and Feudal Reform (Scotland) Act 1970
+
+1970 c. 35. Enacted 1970-05-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1970/35
+
+Source: https://www.legislation.gov.uk/ukpga/1970/35/2016-11-30
+
+## Contents
+
+- PART I Feudal Reform
+  - Variation and discharge of land obligations
+    - [s. 1 Variation and discharge of land obligations.](section/1.md)
+    - [s. 2 Provisions supplementary to section 1.](section/2.md)
+  - Allocation of feuduties, etc.
+    - [s. 3 Allocation of feuduties.](section/3.md)
+    - [s. 4 Applications to Lands Tribunal regarding allocation of feuduties.](section/4.md)
+    - [s. 5 Provisions supplementary to sections 3 and 4.](section/5.md)
+    - [s. 6 Allocation of ground annuals.](section/6.md)
+  - Provisions for contracting out of sections 1 to 6 to be void
+    - [s. 7 Provisions for contracting out of sections 1 to 6 void.](section/7.md)
+  - Reduction of period of positive prescription
+    - [s. 8 ................................](section/8.md)
+- Part II The Standard Security
+  - [s. 9 The standard security.](section/9.md)
+  - [s. 10 Import of forms of, and certain clauses in, standard security.](section/10.md)
+  - [s. 11 Effect of registered or recorded standard security, and incorporation of standard conditions.](section/11.md)
+  - [s. 12 Standard security may be granted by person uninfeft.](section/12.md)
+  - [s. 13 Ranking of standard securities.](section/13.md)
+  - [s. 14 Assignation of standard security.](section/14.md)
+  - [s. 15 Restriction of standard security.](section/15.md)
+  - [s. 16 Variation of standard security.](section/16.md)
+  - [s. 17 Discharge of standard security.](section/17.md)
+  - [s. 18 Redemption of standard security.](section/18.md)
+  - [s. 19 Calling-up of standard security.](section/19.md)
+  - [s. 19A Notice to occupier of calling-up](section/19A.md)
+  - [s. 19B Notice to local authority of calling-up](section/19B.md)
+  - [s. 20 Exercise of rights of creditor on default of debtor in complying with a calling-up notice.](section/20.md)
+  - [s. 21 Notice of default.](section/21.md)
+  - [s. 22 Objections to notice of default.](section/22.md)
+  - [s. 23 Rights and duties of parties after service of notice of default to which objection is not taken, or where the notice is not set aside.](section/23.md)
+  - [s. 23A Voluntary surrender of residential property following calling-up notice or notice of default](section/23A.md)
+  - [s. 24 Application by creditor to court for remedies on default.](section/24.md)
+  - [s. 24A Section 24(1B) proceedings: pre-action requirements](section/24A.md)
+  - [s. 24B Section 24(1B) applications: application to court by entitled residents](section/24B.md)
+  - [s. 24C Entitled residents: definition](section/24C.md)
+  - [s. 24D Section 24(1B) proceedings: recall of decree](section/24D.md)
+  - [s. 24E Lay representation in section 24(1B) proceedings etc.](section/24E.md)
+  - [s. 25 Exercise of power of sale.](section/25.md)
+  - [s. 26 Disposition by creditor on sale.](section/26.md)
+  - [s. 27 Application of proceeds of sale.](section/27.md)
+  - [s. 28 Foreclosure.](section/28.md)
+  - [s. 29 Procedure.](section/29.md)
+  - [s. 30 Interpretation of Part II.](section/30.md)
+  - [s. 31 Saving.](section/31.md)
+  - [s. 32 Application of enactments.](section/32.md)
+- Part III Provisions as to Heritable Securities
+  - [s. 33 Form of notice calling-up heritable security.](section/33.md)
+  - [s. 34 Amendment of s. 34 of Act of 1924.](section/34.md)
+  - [s. 35 Power of creditor in bond and disposition in security to sell to include power to sell by private bargain.](section/35.md)
+  - [s. 36 Alteration of periods during which sale of land held in security is to be advertised.](section/36.md)
+  - [s. 37 Amendment of s. 40 of Act of Act of 1924.](section/37.md)
+  - [s. 38 Amendment of s. 41 of Act of 1924.](section/38.md)
+  - [s. 39 Amendment of s. 8 of Act of 1894.](section/39.md)
+  - [s. 40 Discharge of heritable security constituted byex facieabsolute conveyance.](section/40.md)
+  - [s. 41 Restriction on effect of reduction of certain discharges of securities.](section/41.md)
+  - [s. 42 Extension of s. 13 to certain existing forms of heritable securities.](section/42.md)
+  - [s. 43 Interpretation of Part III.](section/43.md)
+- Part IV Other Conveyancing Reforms
+  - [s. 44 Alteration of rules as to probative deeds.](section/44.md)
+  - [s. 45 Status of sasine extracts.](section/45.md)
+  - [s. 46 Effect of conditions as to pre-emption.](section/46.md)
+  - [s. 47 Abolition of requirement to specify granter’s title in certain deeds.](section/47.md)
+  - [s. 48 Abolition of forms of assignation of unrecorded conveyances, etc., and of completion of title by recording of such assignations.](section/48.md)
+- Part V Miscellaneous
+  - [s. 49 Abolition of heritor’s right of pre-emption of glebe.](section/49.md)
+  - [s. 50 Amendment of Lands Tribunal Act 1949.](section/50.md)
+- Part VI General
+  - [s. 51 Application to Crown.](section/51.md)
+  - [s. 52 Saving, amendment and repeal.](section/52.md)
+  - [s. 53 Interpretation.](section/53.md)
+  - [s. 54 Short title, commencement and extent.](section/54.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Forms of Standard Security
+  - Form A
+  - Form B
+  - NOTES TO SCHEDULE 2
+- SCHEDULE 3 The Standard Conditions
+  - [Sch. 3 para. 1 Maintenance and repair.](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Completion of buildings etc. and prohibition of alterations etc.](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Observance of conditions in title, payment of duties, charges, etc., and general compliance with requirements of law relating to security subjects.](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Planning notices, etc.](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Insurance.](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Restriction on letting.](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 General power of creditor to perform obligations etc. on failure of debtor and power to charge debtor.](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Calling-up.](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Default.](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Rights of creditor on default.](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Exercise of right of redemption.](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Interpretation
+- SCHEDULE 4 Forms of Deeds of Assignation, Restriction, &c.
+  - FORM A Assignation of Standard Security
+    - Separate
+  - FORM B
+  - FORM C Restriction of Standard Security
+  - FORM D Combined Partial Discharge and Deed of Restriction of Standard Security
+  - FORM E Variation of Standard Security
+  - FORM F Discharge of Standard Security
+    - Separate
+  - NOTES TO SCHEDULE 4
+    - General
+- SCHEDULE 5 Procedures as to Redemption
+  - FORM A NOTICE OF REDEMPTION OF STANDARD SECURITY
+  - FORM B
+  - FORM C
+  - FORM D
+    - No. 1 Certificate of Consignation on Redemption of Standard Security where Discharge cannot be Obtained
+    - No. 2 Certificate of Declarator of Performance of Debtor’s Obligations under Standard Security where Discharge cannot be obtained
+- SCHEDULE 6 Procedures as to Calling-up and Default
+  - FORM BB NOTICE TO OCCUPIER
+  - FORM C
+  - FORM D
+  - FORM F
+- SCHEDULE 7 Contents of Certificate Stating a Default
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Excluded Enactments
+  - The Debts Securities (Scotland) Act 1856
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Registration of Long Leases (Scotland) Act 1857
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - The Titles to Land Consolidation (Scotland) Act 1868
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Conveyancing (Scotland) Act 1874
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - The Heritable Securities (Scotland) Act 1894
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - The Conveyancing (Scotland) Act 1924
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+- SCHEDULE 9 Discharge of Heritable Security Constituted by Ex Facie Absolute Conveyance
+  - NOTES TO SCHEDULE 9
+- SCHEDULE 10 Minor and Consequential Amendments
+  - Part I Amendments Affecting Specification of Title
+    - The Registration of Leases (Scotland) Act 1857
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - The Conveyancing (Scotland) Act 1924
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Part II Other Amendments
+    - The Conveyancing (Scotland) Act 1924
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - The Land Compensation (Scotland) Act 1963
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 Enactments Repealed
+  - Part I Repeals affecting specification of title
+  - Part II Repeals relating to assignations of unrecorded conveyances etc.
+  - Part III Other repeals
