@@ -2,9 +2,9 @@
 
 2015 c. 30. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-11-25, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2016-12-17, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-11-25
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-12-17
 
 ## Contents
 
@@ -105,6 +105,8 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2016-11-25
     - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
   - Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2 (N.I.))
     - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Human Trafficking and Exploitation (Scotland) Act 2015 (asp 12)
+    - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
   - Ancillary offences
     - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
 - SCHEDULE 2 Enforcement powers in relation to ships
