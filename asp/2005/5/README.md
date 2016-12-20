@@ -1,0 +1,279 @@
+# Fire (Scotland) Act 2005
+
+asp/2005/5. Enacted 2005-04-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2016-12-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2005/5
+
+Source: https://www.legislation.gov.uk/asp/2005/5/2016-12-20
+
+## Contents
+
+- Part 1 The Scottish Fire and Rescue Service
+  - [s. 1 Fire and rescue authorities](section/1.md)
+  - [s. 1A The Scottish Fire and Rescue Service](section/1A.md)
+  - Joint fire and rescue boards
+    - [s. 2 Schemes to constitute joint fire and rescue boards](section/2.md)
+    - [s. 3 Schemes under section 2: amendment and revocation](section/3.md)
+    - [s. 4 Joint fire and rescue boards: supplementary provision](section/4.md)
+    - [s. 5 Existing joint fire boards](section/5.md)
+  - Meaning of “relevant authority”
+    - [s. 6 Meaning of “relevant authority”](section/6.md)
+- Part 2 Fire and rescue services
+  - Chapter 1 Appointment of Chief Officer
+    - [s. 7 Appointment of Chief Officer](section/7.md)
+  - Chapter 2 Principal fire and rescue functions
+    - [s. 8 Fire safety](section/8.md)
+    - [s. 9 Fire-fighting](section/9.md)
+    - [s. 10 Road traffic accidents](section/10.md)
+    - [s. 11 Conferral of functions in relation to other emergencies](section/11.md)
+  - Chapter 3 Ancillary functions
+    - [s. 12 Emergency directions](section/12.md)
+    - [s. 13 Power to respond to other eventualities](section/13.md)
+    - [s. 14 Provision of other services](section/14.md)
+    - [s. 15 Provision of centres for education and training](section/15.md)
+    - [s. 16 Charging](section/16.md)
+    - [s. 16A Exercise of powers at sea: further provision](section/16A.md)
+  - Chapter 4 Water supply
+    - Supply and use of water
+      - [s. 17 Duty to secure water supply](section/17.md)
+      - [s. 18 Use of water](section/18.md)
+      - [s. 19 Agreements in relation to water supply](section/19.md)
+      - [s. 20 Emergency supply by Scottish Water](section/20.md)
+    - Fire hydrants
+      - [s. 21 Fire hydrants: provision etc.](section/21.md)
+      - [s. 22 Fire hydrants: recovery of costs](section/22.md)
+      - [s. 23 Fire hydrants: offences](section/23.md)
+    - Works affecting supply and hydrants
+      - [s. 24 Notice of works affecting water supply and fire hydrants](section/24.md)
+      - [s. 24A Use of electronic communication](section/24A.md)
+  - Chapter 5 Powers of employees and constables
+    - Powers in emergencies
+      - [s. 25 Powers of authorised employees in relation to emergencies](section/25.md)
+      - [s. 26 Powers of constables in relation to fires](section/26.md)
+    - Obtaining information
+      - [s. 27 Powers of authorised employees in relation to obtaining information](section/27.md)
+      - [s. 28 Giving of notices required by section 27](section/28.md)
+      - [s. 29 Powers of authorised employees in relation to investigating fires](section/29.md)
+      - [s. 30 Exercise of powers under sections 27 and 29: securing of premises](section/30.md)
+      - [s. 31 Sections 27 and 29: offences](section/31.md)
+    - Use of information
+      - [s. 32 Use of commercially sensitive information](section/32.md)
+  - Chapter 6 Mutual assistance etc.
+    - Assistance in discharge of functions
+      - [s. 33 Reinforcement schemes](section/33.md)
+      - [s. 34 Directions about reinforcement schemes](section/34.md)
+      - [s. 35 Assistance](section/35.md)
+    - Performance of functions by others
+      - [s. 36 Arrangements for carrying out of functions by others](section/36.md)
+      - [s. 37 Section 36: directions](section/37.md)
+  - Chapter 7 Assaulting or impeding employees and others
+    - [s. 38 Amendment of Emergency Workers (Scotland) Act 2005](section/38.md)
+    - [s. 39 Assaulting or impeding employees discharging certain functions](section/39.md)
+  - Chapter 8 Central supervision and support
+    - Best value
+      - [s. 39A Best value](section/39A.md)
+      - [s. 39B Best value: further provision](section/39B.md)
+      - [s. 39C Examinations of SFRS by Auditor General](section/39C.md)
+    - Fire and Rescue Framework for Scotland
+      - [s. 40 Framework document](section/40.md)
+      - [s. 41 Adherence](section/41.md)
+  - Chapter 8A Planning, Reports and Information
+    - Strategic plan
+      - [s. 41A SFRS’s first strategic plan](section/41A.md)
+      - [s. 41B Review of plan](section/41B.md)
+      - [s. 41C SFRS’s duty to have regard to approved plan](section/41C.md)
+    - Local fire and rescue plans
+      - [s. 41D Provision of local services](section/41D.md)
+      - [s. 41E Local fire and rescue plans](section/41E.md)
+      - [s. 41F Power to review plan](section/41F.md)
+      - [s. 41G Mandatory review](section/41G.md)
+      - [s. 41H Provision of information to local authority](section/41H.md)
+      - [s. 41J Local Senior Officers](section/41J.md)
+      - [s. 41K Monitoring by local authority](section/41K.md)
+      - [s. 41L Annual report](section/41L.md)
+      - [s. 41M Provision of information](section/41M.md)
+      - [s. 42 Reporting](section/42.md)
+    - Directions
+      - [s. 42A Directions](section/42A.md)
+    - Inspection
+      - [s. 43 Inspectors of Fire and Rescue Authorities](section/43.md)
+  - Chapter 8B Inspection
+    - Inspectors of SFRS
+      - [s. 43A Inspectors of SFRS](section/43A.md)
+      - [s. 43B Inquiries by Inspectors](section/43B.md)
+      - [s. 43C Inquiries under section 43B(1): reports](section/43C.md)
+      - [s. 43D Inquiries under section 43B(2): reports](section/43D.md)
+      - [s. 43E Inquiry reports: duties of SFRS](section/43E.md)
+      - [s. 43F Chief Inspector’s plan](section/43F.md)
+    - Co-operation and information-sharing
+      - [s. 43G Co-operation and information-sharing: Auditor General](section/43G.md)
+      - [s. 44 Functions of Inspectors of Fire and Rescue Authorities](section/44.md)
+  - Chapter 8C Equipment, Facilities and Services
+    - [s. 45 Directions for public safety purposes](section/45.md)
+    - [s. 46 Requirements concerning equipment and services](section/46.md)
+    - [s. 47 Provision of equipment etc.](section/47.md)
+    - Training
+      - [s. 48 Central institution and other centres for education and training](section/48.md)
+  - Chapter 9 Employment
+    - Negotiation of conditions of service
+      - [s. 49 Statutory negotiation arrangements](section/49.md)
+      - [s. 50 Guidance](section/50.md)
+    - Supplementary
+      - [s. 51 Prohibition on employment of police](section/51.md)
+  - Chapter 10 Interpretation
+    - [s. 52 Interpretation of Part 2](section/52.md)
+- Part 3 Fire safety
+  - Chapter 1 Fire safety duties
+    - Duties
+      - [s. 53 Duties of employers to employees](section/53.md)
+      - [s. 54 Duties in relation to relevant premises](section/54.md)
+      - [s. 55 Taking of measures under section 53 or 54: considerations](section/55.md)
+      - [s. 56 Duties of employees](section/56.md)
+    - Regulations
+      - [s. 57 Risk assessments: power to make regulations](section/57.md)
+      - [s. 58 Scottish Ministers’ power to make regulations about fire safety](section/58.md)
+      - [s. 59 Power to make further provision for protection of fire-fighters](section/59.md)
+    - Special case
+      - [s. 60 Special case: temporary suspension of Chapter 1 duties](section/60.md)
+  - Chapter 2 Enforcement
+    - [s. 61 Enforcing authorities](section/61.md)
+    - [s. 62 Powers of enforcement officers](section/62.md)
+    - [s. 63 Prohibition notices](section/63.md)
+    - [s. 64 Enforcement notices](section/64.md)
+    - [s. 65 Alterations notices](section/65.md)
+    - [s. 66 Appeals](section/66.md)
+    - [s. 67 Determination of disputes](section/67.md)
+  - Chapter 3 Miscellaneous
+    - [s. 68 Prohibition on charging employees](section/68.md)
+    - [s. 69 Civil liability for breach of statutory duty](section/69.md)
+    - [s. 70 Consequential restriction of application of Part I of Health and Safety at Work etc. Act 1974](section/70.md)
+    - [s. 71 Suspension of terms and conditions of licences dealing with same matters as this Part](section/71.md)
+  - Chapter 4 Offences
+    - [s. 72 Offences](section/72.md)
+    - [s. 73 Offences by bodies corporate and partnerships](section/73.md)
+    - [s. 74 Offence due to fault of other person](section/74.md)
+    - [s. 75 Employee’s act or omission not to afford employer defence](section/75.md)
+  - Chapter 5 General
+    - [s. 76 Service of documents](section/76.md)
+    - [s. 77 Crown application](section/77.md)
+    - [s. 77A Application to visiting forces etc.](section/77A.md)
+    - [s. 78 Meaning of “relevant premises”](section/78.md)
+    - [s. 79 Interpretation of Part 3](section/79.md)
+- Part 4 Miscellaneous
+  - [s. 80 Inquiries](section/80.md)
+  - [s. 81 Inquiries: supplementary](section/81.md)
+  - Consultation requirements
+    - [s. 82 Pre-commencement consultation](section/82.md)
+  - Advisory bodies
+    - [s. 83 Payments in respect of advisory bodies](section/83.md)
+    - [s. 84 Abolition of Scottish Central Fire Brigades Advisory Council](section/84.md)
+  - False alarms
+    - [s. 85 False alarms](section/85.md)
+  - Disposal of land
+    - [s. 86 Disposal of land](section/86.md)
+- Part 5 General
+  - [s. 86A Interpretation](section/86A.md)
+  - [s. 87 Ancillary provision](section/87.md)
+  - [s. 88 Orders and regulations](section/88.md)
+  - [s. 89 Minor and consequential amendments and repeals](section/89.md)
+  - [s. 90 Commencement](section/90.md)
+  - [s. 91 Short title](section/91.md)
+- SCHEDULE 1 Joint fire and rescue boards: supplementary provision
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Pensions
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 1A The Scottish Fire and Rescue Service
+  - Status
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Membership
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Disqualification
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Tenure
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Removal from office
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Remuneration, allowances and expenses of members
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - The Chief Officer
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - SFRS’s employees
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Committees and sub-committees
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - Procedure
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Public access
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+  - Governance and accountability
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - SFRS’s general powers
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+  - Delegation of functions
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+  - Location of principal office premises
+    - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+  - Grants
+    - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+  - Accounts
+    - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+- SCHEDULE 2 Fire safety measures
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Minor and consequential amendments
+  - The Civil Defence Act 1948 (c. 5)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Pipe-lines Act 1962 (c. 58)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Gas Act 1965 (c. 36)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Transport Act 1968 (c. 73)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Local Government (Scotland) Act 1973 (c. 65)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Control of Pollution Act 1974 (c. 40)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Local Government (Scotland) Act 1975 (c. 30)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Licensing (Scotland) Act 1976 (c. 66)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Civic Government (Scotland) Act 1982 (c. 45)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Housing (Scotland) Act 1987 (c. 26)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Housing (Scotland) Act 1988 (c. 43)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Tay Road Bridge Order Confirmation Act 1991 (c.iv)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - The Strathclyde Regional Council Order Confirmation Act 1991 (c.xx)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Local Government etc. (Scotland) Act 1994 (c. 39)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Merchant Shipping Act 1995 (c. 21)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The Scottish Borders Council (Jim Clark Memorial Rally) Order Confirmation Act 1996 (c.xii)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Housing (Scotland) Act 2001 (asp 10)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Local Government in Scotland Act 2003 (asp 1)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Fire and Rescue Services Act 2004 (c. 21)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - The Emergency Workers (Scotland) Act 2005 (asp 2)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 Repeals
