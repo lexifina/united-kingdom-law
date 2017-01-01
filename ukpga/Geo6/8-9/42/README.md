@@ -1,0 +1,114 @@
+# Water Act 1945
+
+1945 c. 42. Enacted 1945-06-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/8-9/42/2017-01-01
+
+## Contents
+
+- Part I Central and Local Planning
+  - [s. 15. ................................](section/15.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+- Part II Local Organisation of Water Supplies
+  - [s. 8 ................................](section/8.md)
+  - [s. 910. ................................](section/910.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 1213A. ................................](section/1213A.md)
+- Part III Conservation and Protection of Water Resources
+  - [s. 14](section/14.md)
+  - [s. 1516. ................................](section/1516.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 Byelaws for preventing pollution of water of undertakers.](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+- Part IV Powers and Duties of Local Authorities and Water Undertakers
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - Extension of powers and duties of local authorities under the Public Health Act, 1936.
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 Amendment of s. 137 of the Public Health Act, 1936.](section/29.md)
+    - [s. 30 Amendment of s. 138 of the Public Health Act, 1936.](section/30.md)
+    - [s. 31 Other amendments of Public Health Act, 1936.](section/31.md)
+  - Modernisation of Waterworks Code
+    - [s. 3233. ................................](section/3233.md)
+  - Miscellaneous
+    - [s. 34 ................................](section/34.md)
+    - [s. 35](section/35.md)
+    - [s. 3637. ................................](section/3637.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 ................................](section/43.md)
+- Part V General
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 4952. ................................](section/4952.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 5455. ................................](section/5455.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 5758. ................................](section/5758.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 6062. ................................](section/6062.md)
+  - [s. 63 †Short title, extent and commencement.](section/63.md)
+- FIRST SCHEDULE, SECOND SCHEDULE ...
+- THIRD SCHEDULE Provisions to be incorporated in orders relating to water undertakings
+  - Part I Interpretation
+    - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+  - Part II Works and Lands
+    - [Sch. THIRD para. 24.](schedule/THIRD/paragraph/24.md)
+    - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+    - [Sch. THIRD para. 69.](schedule/THIRD/paragraph/69.md)
+  - Part III
+    - [Sch. THIRD para. 10](schedule/THIRD/paragraph/10.md)
+  - Part IV Minerals Underlying Waterworks
+    - [Sch. THIRD para. 1118.](schedule/THIRD/paragraph/1118.md)
+  - Part V Power to Lay Mains, &c.
+    - [Sch. THIRD para. 1921.](schedule/THIRD/paragraph/1921.md)
+  - Part VI
+    - Breaking Open Streets, &c.
+      - [Sch. THIRD para. 2228.](schedule/THIRD/paragraph/2228.md)
+  - Part VII Supply of Water for Domestic Purposes
+    - [Sch. THIRD para. 2931.](schedule/THIRD/paragraph/2931.md)
+  - Part VIII Supply of Water for Public Purposes
+    - [Sch. THIRD para. 3238.](schedule/THIRD/paragraph/3238.md)
+  - Part IX Constancy and Pressure of Supply
+    - [Sch. THIRD para. 39](schedule/THIRD/paragraph/39.md)
+  - Part X Laying and maintenance of supply pipes and communication pipes
+    - [Sch. THIRD para. 4044.](schedule/THIRD/paragraph/4044.md)
+  - Part XI Stopcocks
+    - [Sch. THIRD para. 45](schedule/THIRD/paragraph/45.md)
+  - Part XII Water Rates and Charges
+    - [Sch. THIRD para. 46](schedule/THIRD/paragraph/46.md)
+    - [Sch. THIRD para. 4751.](schedule/THIRD/paragraph/4751.md)
+    - [Sch. THIRD para. 5258.](schedule/THIRD/paragraph/5258.md)
+    - [Sch. THIRD para. 59](schedule/THIRD/paragraph/59.md)
+  - Part XIII Provisions for preventing waste, &c., of water, and as to meters and other fittings
+    - [Sch. THIRD para. 6065.](schedule/THIRD/paragraph/6065.md)
+    - [Sch. THIRD para. 66](schedule/THIRD/paragraph/66.md)
+    - [Sch. THIRD para. 6768.](schedule/THIRD/paragraph/6768.md)
+    - [Sch. THIRD para. 69-68](schedule/THIRD/paragraph/69-68.md)
+    - [Sch. THIRD para. 70](schedule/THIRD/paragraph/70.md)
+  - Part XIV Pollution of Water by Manufacture, &c., of Gas
+    - [Sch. THIRD para. 7173.](schedule/THIRD/paragraph/7173.md)
+  - Part XV Financial provisions applicable to water companies
+    - [Sch. THIRD para. 7477.](schedule/THIRD/paragraph/7477.md)
+    - [Sch. THIRD para. 78](schedule/THIRD/paragraph/78.md)
+  - Part XVI General and miscellaneous
+    - [Sch. THIRD para. 7980.](schedule/THIRD/paragraph/7980.md)
+    - [Sch. THIRD para. 81](schedule/THIRD/paragraph/81.md)
+    - [Sch. THIRD para. 8294.](schedule/THIRD/paragraph/8294.md)
+- FOURTH SCHEDULE Amendments to the Public Health Act, 1936.
+- FIFTH SCHEDULE.................................
