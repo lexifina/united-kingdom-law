@@ -1,0 +1,179 @@
+# Water Consolidation (Consequential Provisions) Act 1991
+
+1991 c. 60. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/60
+
+Source: https://www.legislation.gov.uk/ukpga/1991/60/2017-01-01
+
+## Contents
+
+- [s. 1 Interpretation.](section/1.md)
+- [s. 2 Consequential amendments, transitional and transitory provisions and savings.](section/2.md)
+- [s. 3 Repeals etc.](section/3.md)
+- [s. 4 Short title, commencement and extent.](section/4.md)
+- SCHEDULE 1 Consequential Amendments
+  - The Public Health Act 1875 (c. 55)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Public Health Act 1936 (c. 49)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Agriculture (Miscellaneous Provisions) Act 1941 (c. 50)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Fire Services Act 1947 (c. 41)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The Requisitioned Land and War Works Act 1948 (c. 17)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - The Coast Protection Act 1949 (c. 74)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Coal-Mining (Subsidence) Act 1957 (c. 59)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - The Radioactive Substances Act 1960 (c. 34)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - The Public Health Act 1961 (c. 64)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The Pipe-lines Act 1962 (c. 58)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - The Harbours Act 1964 (c. 40)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - The Gas Act 1965 (c. 36)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The Public Works Loans Act 1965 (c. 63)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Sea Fisheries Regulation Act 1966 (c. 38)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - The Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - The Sea Fish (Conservation) Act 1967 (c. 84)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - The Transport Act 1968 (c. 73)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - The Local Authorities (Goods and Services) Act 1970 (c. 39)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - The Land Charges Act 1972 (c. 61)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - The Local Government Act 1972 (c. 70)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - The Land Compensation Act 1973 (c. 41)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - The Fair Trading Act 1973 (c. 41)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - The Local Government Act 1974 (c. 7)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - The Consumer Credit Act 1974 (c. 39)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - The Control of Pollution Act 1974 (c. 40)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - The House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - The Salmon and Freshwater Fisheries Act 1975 (c. 51)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - The Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - The Interpretation Act 1978 (c. 30)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - The Estate Agents Act 1979 (c. 38)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - The Competition Act 1980 (c. 21)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - The Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - The Highways Act 1980 (c. 66)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - The Fisheries Act 1981 (c. 29)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - The Telecommunications Act 1984 (c. 12)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - The Building Act 1984 (c. 55)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - The Companies Act 1985 (c. 6)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - The Business Names Act 1985 (c. 7)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - The Water (Fluoridation) Act 1985 (c. 63)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - The Agricultural Holdings Act 1986 (c. 5)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+  - The Airports Act 1986 (c. 31)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - The Gas Act 1986 (c. 44)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+  - The Insolvency Act 1986 (c. 45)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+  - The Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+  - The Local Government Act 1988 (c. 9)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+  - The Local Government Finance Act 1988 (c. 41)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+  - The Water Act 1989 (c. 15)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+  - The Electricity Act 1989 (c. 29)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+  - The Companies Act 1989 (c. 40)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+  - The Capital Allowances Act 1990 (c. 1)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+  - The Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+  - The Food Safety Act 1990 (c. 16)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+  - The Environmental Protection Act 1990 (c. 43)
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+  - The New Roads and Street Works Act 1991 (c. 22)
+    - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+  - The Planning and Compensation Act 1991 (c. 34)
+    - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+  - The Coal Mining Subsidence Act 1991 (c. 45)
+    - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+- SCHEDULE 2 Transitional and Transitory Provisions and Savings
+  - Part I General Transitional Provisions and Savings
+    - Principal transitional provision
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Savings for powers to make, amend or challenge subordinate legislation and for certain specific instruments
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Byelaws: prevention of waste of water etc.
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Byelaws preventing pollution
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Savings for local statutory provisions
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Saving for transfer schemes
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Water enterprise mergers before the transfer date
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Non-domestic supplies
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Sewer requisitions
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Appeals with respect to sewerage matters etc. begun before 1st September 1989
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Savings in respect of charging provisions
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Commissioners of Sewers
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Part II Transitory Provisions in respect of Flood Defence and Land Drainage
+    - Disqualification for membership of regional flood defence committee
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Savings in relation to local flood defence schemes
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Drainage rates etc. for the financial years beginning before 1993
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Restrictions on appointed members of internal drainage boards until 1993
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Qualification of electors of members of internal drainage boards—pre 1993 rates
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Qualification for election to internal drainage board—pre 1993 rates
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Qualification for making certain applications—pre-1993 rates
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Repeals and Revocations
+  - Part I Repeals
+  - Part II Revocations of Subordinate Legislation
