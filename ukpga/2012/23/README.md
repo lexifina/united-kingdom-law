@@ -2,9 +2,9 @@
 
 2012 c. 23. Enacted 2012-12-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-01-16, one file per provision. Earlier versions, from 2012-12-19, are in the history before it: `git log -- ukpga/2012/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/23/2016-04-06
+Source: https://www.legislation.gov.uk/ukpga/2012/23/2017-01-16
 
 ## Contents
 
@@ -15,10 +15,11 @@ Source: https://www.legislation.gov.uk/ukpga/2012/23/2016-04-06
 - Connected charities and community buildings
   - [s. 4 Connected charities](section/4.md)
   - [s. 5 Meaning of “connected”](section/5.md)
-  - [s. 6 Charities running charitable activities in community buildings](section/6.md)
+  - [s. 6 Charities running charitable activities in more than one community building](section/6.md)
   - [s. 7 Meaning of “running charitable activities in a community building” etc](section/7.md)
   - [s. 8 Meaning of “community building”](section/8.md)
   - [s. 9 Connected charities and community buildings](section/9.md)
+  - [s. 9A Election for section 9 not to apply](section/9A.md)
 - Overpayments and administration
   - [s. 10 Overpayments](section/10.md)
   - [s. 11 Management of top-up payments](section/11.md)
@@ -36,9 +37,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/23/2016-04-06
   - [s. 21 Commencement and transitional provision](section/21.md)
   - [s. 22 Short title](section/22.md)
 - Schedule Meaning of “small donation”: conditions
-  - Small cash payment
+  - Small cash or contactless payment
     - [Sch. paragraph 1](schedule/paragraph/1.md)
-  - Collected in the United Kingdom
+  - Made in the United Kingdom
     - [Sch. paragraph 2](schedule/paragraph/2.md)
   - Deposited in United Kingdom in a bank account
     - [Sch. paragraph 3](schedule/paragraph/3.md)
