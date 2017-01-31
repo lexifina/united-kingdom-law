@@ -2,11 +2,9 @@
 
 2017 c. 3. Enacted 2017-01-31.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-01-31, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
-
-Source: https://www.legislation.gov.uk/ukpga/2017/3/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2017/3/2017-01-31
 
 ## Contents
 
