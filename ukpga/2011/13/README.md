@@ -2,9 +2,9 @@
 
 2011 c. 13. Enacted 2011-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-11-09, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-01-31, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/13/2016-11-09
+Source: https://www.legislation.gov.uk/ukpga/2011/13/2017-01-31
 
 ## Contents
 
@@ -192,6 +192,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2016-11-09
       - [s. 134 Introduction or variation of late night levy requirement: procedure](section/134.md)
       - [s. 135 Permitted exemption and reduction categories](section/135.md)
       - [s. 136 Late night levy: regulations](section/136.md)
+      - [s. 136A Late night levy: requests by relevant local policing bodies](section/136A.md)
       - [s. 137 Interpretation](section/137.md)
       - [s. 138 Crown application](section/138.md)
       - [s. 139 Amendments of the Licensing Act 2003](section/139.md)
@@ -383,6 +384,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2016-11-09
     - Duty to produce balanced panel
       - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
       - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Duty to produce panel with fire and rescue expertise
+      - [Sch. 6 para. 32A](schedule/6/paragraph/32A.md)
     - Duty to nominate elected mayor to be a member of the panel
       - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
       - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
