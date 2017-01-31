@@ -2,9 +2,9 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-04-06, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-01-31, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2016-04-06
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2017-01-31
 
 ## Contents
 
@@ -181,6 +181,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2016-04-06
   - [s. 120 Offence of breaching forced marriage protection order](section/120.md)
   - [s. 121 Offence of forced marriage: England and Wales](section/121.md)
   - [s. 122 Offence of forced marriage: Scotland](section/122.md)
+  - [s. 122A Anonymity of victims of forced marriage: England and Wales](section/122A.md)
 - PART 11 Policing etc
   - College of Policing
     - [s. 123 Regulations to be prepared or approved by the College](section/123.md)
@@ -359,14 +360,26 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2016-04-06
   - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
   - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
   - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 6A Anonymity of victims of forced marriage
+  - [Sch. 6A para. 1 Prohibition on the identification of victims in publications](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2 Penalty for breaching prohibition imposed by paragraph 1(2)](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3 Offence under paragraph 2: defences](schedule/6A/paragraph/3.md)
+  - [Sch. 6A para. 4 Special rules for providers of information society services](schedule/6A/paragraph/4.md)
+  - [Sch. 6A para. 5 Special rules for providers of information society services](schedule/6A/paragraph/5.md)
+  - [Sch. 6A para. 6 Special rules for providers of information society services](schedule/6A/paragraph/6.md)
+  - [Sch. 6A para. 7 Special rules for providers of information society services](schedule/6A/paragraph/7.md)
+  - [Sch. 6A para. 8 Special rules for providers of information society services](schedule/6A/paragraph/8.md)
+  - [Sch. 6A para. 9 Interpretation](schedule/6A/paragraph/9.md)
 - SCHEDULE 7 Schedule to be inserted as Schedule 4B to the Police Act 1996
 - SCHEDULE 8 Powers to seize invalid passports etc
   - Interpretation
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
   - Powers of search and seizure etc: ports
     - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
-  - Powers of search and seizure etc: constables
+  - Powers of search and seizure etc: places other than ports
     - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Powers of entry, search and seizure etc: constables
+    - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
   - Retention or return of documents seized
     - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
   - Offences
@@ -389,18 +402,11 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2016-04-06
     - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
   - Codes of practice
     - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
-- SCHEDULE 10 Powers of community support officers
-  - Introduction
     - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-  - Additional powers to issue fixed penalty notices
     - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
-  - Powers to issue fixed penalty notices: consultation with local authorities
     - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
-  - General power of seizure
     - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
-  - Powers with regard to charity collectors
     - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
-  - Power to stop cycles
     - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
 - SCHEDULE 11 Minor and consequential amendments
   - PART 1 Amendments relating to Parts 1 to 6
