@@ -2,9 +2,9 @@
 
 2015 c. 26. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-10-01, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-02-01, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-10-01
+Source: https://www.legislation.gov.uk/ukpga/2015/26/2017-02-01
 
 ## Contents
 
@@ -232,9 +232,12 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2016-10-01
   - Exclusivity in zero hours contracts
     - [s. 153 Exclusivity terms unenforceable in zero hours contracts](section/153.md)
   - Public sector exit payments
-    - [s. 154 Regulations in connection with public sector exit payments](section/154.md)
+    - [s. 153A Regulations to restrict public sector exit payments](section/153A.md)
+    - [s. 153B Supplementary provision about regulations under section 153A](section/153B.md)
+    - [s. 153C Power to relax restriction on public sector exit payments](section/153C.md)
+    - [s. 154 Regulations in connection with repayment of public sector exit payments](section/154.md)
     - [s. 155 Section 154(1): further provision](section/155.md)
-    - [s. 156 Power to make regulations to be exercisable by the Treasury or Scottish Ministers](section/156.md)
+    - [s. 156 Power to make regulations under section 154(1) to be exercisable by the Treasury or Scottish Ministers](section/156.md)
     - [s. 157 Power of Secretary of State to waive repayment requirement](section/157.md)
   - Concessionary coal
     - [s. 158 Concessionary coal](section/158.md)
