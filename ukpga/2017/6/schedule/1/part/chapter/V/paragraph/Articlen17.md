@@ -1,7 +1,7 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 1 Pt. chapter V. paragraph Articlen17
 heading: Use of the emblem
-status: In force
+status: Not yet in force (in force from 2017-12-12)
 extent:
 version: 2017-12-12
 source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/1/part/chapter/V./paragraph/Articlen17/2017-12-12

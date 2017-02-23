@@ -1,7 +1,7 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 4 Pt. chapter 1 paragraph Articlen4
 heading: Relationship between Chapter 3 and other provisions of the Convention and this Protocol
-status: In force
+status: Not yet in force (in force from 2017-12-12)
 extent:
 version: 2017-12-12
 source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/4/part/chapter/1/paragraph/Articlen4/2017-12-12

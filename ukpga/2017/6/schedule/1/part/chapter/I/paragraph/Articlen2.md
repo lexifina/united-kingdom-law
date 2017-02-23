@@ -1,10 +1,10 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 1 Pt. chapter I. paragraph Articlen2
 heading: Protection of cultural property
-status: In force
+status: Prospective (not yet in force)
 extent:
-version: 2012-12-12
-source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/1/part/chapter/I./paragraph/Articlen2/2012-12-12
+version: 2017-02-23
+source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/1/part/chapter/I./paragraph/Articlen2/2017-02-23
 ---
 
 # Sch. 1 Pt. chapter I. paragraph Articlen2 Protection of cultural property
