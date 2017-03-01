@@ -1,0 +1,271 @@
+# Trade Union Reform and Employment Rights Act 1993
+
+1993 c. 19. Enacted 1993-07-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-03-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1993/19/2017-03-01
+
+## Contents
+
+- Part I Trade Unions etc.
+  - Union elections and ballots
+    - [s. 1 Election scrutineer to check register.](section/1.md)
+    - [s. 2 Counting of election votes etc. by independent person.](section/2.md)
+    - [s. 3 Political fund ballots.](section/3.md)
+    - [s. 4 Ballots for union amalgamations and transfers of engagements.](section/4.md)
+    - [s. 5 Ballots for union amalgamations and transfers of engagements: notice not to include influential material.](section/5.md)
+    - [s. 6 Confidentiality of trade union’s register of members’ names and addresses.](section/6.md)
+    - [s. 7 Ballots: repeal of provisions for financial assistance and use of employers’ premises](section/7.md)
+  - Financial affairs of unions etc.
+    - [s. 8 Annual return to contain additional information.](section/8.md)
+    - [s. 9 Statement to members following annual return.](section/9.md)
+    - [s. 10 Investigation of financial affairs.](section/10.md)
+    - [s. 11 Offences.](section/11.md)
+    - [s. 12 Disqualification of offenders.](section/12.md)
+  - Rights in relation to union membership
+    - [s. 13 Action short of dismissal: non-infringing actions.](section/13.md)
+    - [s. 14 Right not to be excluded or expelled.](section/14.md)
+    - [s. 15 Right not to suffer deduction of unauthorised or excessive subscriptions.](section/15.md)
+    - [s. 16 Extension of right not to be unjustifiably disciplined.](section/16.md)
+  - Industrial action
+    - [s. 17 Requirement of postal ballot.](section/17.md)
+    - [s. 18 Notice of ballot and sample voting paper for employers.](section/18.md)
+    - [s. 19 Ballot result for employers.](section/19.md)
+    - [s. 20 Scrutiny of ballots.](section/20.md)
+    - [s. 21 Notice of industrial action for employers.](section/21.md)
+    - [s. 22 Industrial action affecting supply of goods or services to an individual.](section/22.md)
+- Part II Employment Rights
+  - Maternity
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+  - Employment particulars
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+  - Employment protection in health and safety cases
+    - [s. 28 ................................](section/28.md)
+  - Unfair dismissal: assertion of statutory right
+    - [s. 29 ................................](section/29.md)
+  - Reinstatement orders: compensation
+    - [s. 30 ................................](section/30.md)
+  - Service in armed forces
+    - [s. 31 ................................](section/31.md)
+  - Sex discrimination
+    - [s. 32 Right to declaration of invalidity of discriminatory terms and rules.](section/32.md)
+  - Transfer and redundancy rights
+    - [s. 33 Amendments of transfer of undertakings regulations.](section/33.md)
+    - [s. 34 Redundancy consultation procedures.](section/34.md)
+- Part III Other Employment Matters
+  - Abolition of right to statutory minimum remuneration
+    - [s. 35 Repeal of Part II of Wages Act 1986.](section/35.md)
+  - Constitution and jurisdiction of tribunals
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 Agreements not to take proceedings before employment tribunal.](section/39.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+  - ACAS
+    - [s. 43 Functions of ACAS.](section/43.md)
+    - [s. 44 Fees for exercise of functions by ACAS.](section/44.md)
+  - Careers services
+    - [s. 45 Careers services.](section/45.md)
+    - [s. 46 Careers services: ancillary services.](section/46.md)
+  - Training etc. in Scotland
+    - [s. 47 Employment and training functions of Scottish Enterprise and Highlands and Islands Enterprise.](section/47.md)
+- Part IV Supplementary
+  - [s. 48 Interpretation.](section/48.md)
+  - [s. 49 Miscellaneous and consequential amendments.](section/49.md)
+  - [s. 50 Transitional provisions and savings.](section/50.md)
+  - [s. 51 Repeals and revocations.](section/51.md)
+  - [s. 52 Commencement.](section/52.md)
+  - [s. 53 Financial provision.](section/53.md)
+  - [s. 54 Northern Ireland.](section/54.md)
+  - [s. 55 Short title.](section/55.md)
+- SCHEDULE 1 Political fund ballots
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2
+- SCHEDULE 3
+- SCHEDULE 4
+- SCHEDULE 5 ...
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Compromise Contracts
+  - Sex Discrimination Act 1975 (c.65)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Wages Act 1986 (c.48)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Miscellaneous Amendments
+  - Unfair selection for dismissal in redundancy cases:exclusion of qualifying conditions
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Qualifying period for unfair dismissal protection: small businesses
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Application of 1978 Act to Crown Employment and House of Commons Staff
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Restrictions on disclosure of information, etc on grounds of national security
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Extension of employment protection provisions and related legislation to House of Lords Staff
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Power to extend 1978 Act in certain health and safety cases
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Power to provide for continuity of employment following reinstatement or re-engagement
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Codes of practice on employment: use in proceedings
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Parliamentary procedure: orders modifying application of redundancy provisions
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Miscellaneous minor corrections and amendments
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+- SCHEDULE 8 Consequential amendments
+  - The Factories Act 1961 (c. 34)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Chronically Sick and Disabled Persons Act 1970 (c. 44)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - The Employment Agencies Act 1973 (c. 35)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - The Employment and Training Act 1973 (c. 50)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - The House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - The Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - The Race Relations Act 1976 (c. 74)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - The Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - The Agricultural Training Board Act 1982 (c. 9)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - The Industrial Training Act 1982 (c. 10)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - The Insolvency Act 1986 (c. 45)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - The Wages Act 1986 (c. 48)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - The Employment Act 1988 (c. 19)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - The Legal Aid Act 1988 (c. 34)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - The Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+    - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+    - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+    - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+    - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+    - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+    - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+    - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+    - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+    - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+    - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+    - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+    - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+    - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+    - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+    - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+    - [Sch. 8 para. 75](schedule/8/paragraph/75.md)
+    - [Sch. 8 para. 76](schedule/8/paragraph/76.md)
+    - [Sch. 8 para. 77](schedule/8/paragraph/77.md)
+    - [Sch. 8 para. 78](schedule/8/paragraph/78.md)
+    - [Sch. 8 para. 79](schedule/8/paragraph/79.md)
+    - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+    - [Sch. 8 para. 81](schedule/8/paragraph/81.md)
+    - [Sch. 8 para. 82](schedule/8/paragraph/82.md)
+    - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+    - [Sch. 8 para. 84](schedule/8/paragraph/84.md)
+    - [Sch. 8 para. 85](schedule/8/paragraph/85.md)
+    - [Sch. 8 para. 86](schedule/8/paragraph/86.md)
+    - [Sch. 8 para. 87](schedule/8/paragraph/87.md)
+    - [Sch. 8 para. 88](schedule/8/paragraph/88.md)
+    - [Sch. 8 para. 89](schedule/8/paragraph/89.md)
+- SCHEDULE 9 Transitional provisions and savings
+  - General
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Deduction of trade union subscriptions
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Employment particulars
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Transfers of undertakings
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Wages Councils
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Repeals and revocations
