@@ -2,9 +2,9 @@
 
 2014 c. 21. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-03-06, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/21` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-03-30, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/21` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/21/2017-03-06
+Source: https://www.legislation.gov.uk/ukpga/2014/21/2017-03-30
 
 ## Contents
 
