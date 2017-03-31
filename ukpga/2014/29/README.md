@@ -2,9 +2,9 @@
 
 2014 c. 29. Enacted 2014-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-01-01, one file per provision. Earlier versions, from 2014-12-17, are in the history before it: `git log -- ukpga/2014/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-03-31, one file per provision. Earlier versions, from 2014-12-17, are in the history before it: `git log -- ukpga/2014/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/29/2017-01-01
+Source: https://www.legislation.gov.uk/ukpga/2014/29/2017-03-31
 
 ## Contents
 
@@ -25,10 +25,10 @@ Source: https://www.legislation.gov.uk/ukpga/2014/29/2017-01-01
     - [s. 9 Welsh basic, higher and additional rates of income tax](section/9.md)
     - [s. 10 Welsh taxpayers for social security or child support purposes](section/10.md)
     - [s. 11 Amendments to the definition of a Scottish taxpayer](section/11.md)
-  - Referendum on income tax provisions
+  - ...
     - [s. 12 Referendum about commencement of income tax provisions](section/12.md)
     - [s. 13 Proposal for referendum by Assembly](section/13.md)
-    - [s. 14 Commencement of income tax provisions etc if majority in favour](section/14.md)
+    - [s. 14 Commencement of income tax provisions ...](section/14.md)
   - Welsh tax on land transactions
     - [s. 15 Welsh tax on transactions involving interests in land](section/15.md)
     - [s. 16 Disapplication of UK stamp duty land tax](section/16.md)
