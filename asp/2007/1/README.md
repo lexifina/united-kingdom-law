@@ -1,0 +1,119 @@
+# Glasgow Airport Rail Link Act 2007
+
+asp/2007/1. Enacted 2007-01-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2007/1/2017-04-01
+
+## Contents
+
+- Part 1 Works, etc.
+  - Works
+    - [s. 1 Authority to construct works](section/1.md)
+    - [s. 2 The scheduled works](section/2.md)
+    - [s. 3 The ancillary works](section/3.md)
+    - [s. 4 Permitted deviation within limits](section/4.md)
+    - [s. 5 Access to works](section/5.md)
+    - [s. 6 Construction and maintenance of altered roads](section/6.md)
+    - [s. 7 Works treated as major works for road purposes](section/7.md)
+    - [s. 8 Agreements with roads authorities](section/8.md)
+  - Supplemental powers
+    - [s. 9 Temporary stopping up, alteration or diversion of roads](section/9.md)
+    - [s. 10 Discharge of water](section/10.md)
+    - [s. 11 Safeguarding works to buildings](section/11.md)
+- Part 2 Land
+  - Powers of acquisition
+    - [s. 12 Authority to acquire land](section/12.md)
+    - [s. 13 Acquisition of subsoil or airspace or rights](section/13.md)
+    - [s. 14 Purchase of specific new rights over land](section/14.md)
+    - [s. 15 Rights in roads](section/15.md)
+    - [s. 16 Temporary use of land for construction of works](section/16.md)
+  - Compensation
+    - [s. 17 Disregard of certain interests and improvements](section/17.md)
+    - [s. 18 Set-off of betterment against compensation](section/18.md)
+    - [s. 19 Application of legislation relating to certificates of appropriate alternative development](section/19.md)
+    - [s. 20 No double recovery](section/20.md)
+  - Supplementary
+    - [s. 21 Acquisition of part of certain properties](section/21.md)
+    - [s. 22 Extinction or suspension of rights of way](section/22.md)
+    - [s. 23 Power to enter land for survey, etc.](section/23.md)
+    - [s. 24 Further powers of entry](section/24.md)
+    - [s. 25 Persons under disability may grant servitudes, etc.](section/25.md)
+    - [s. 26 Period for compulsory acquisition of land](section/26.md)
+    - [s. 27 Extension of time](section/27.md)
+    - [s. 28 Time limit on validity of notice to treat](section/28.md)
+    - [s. 29 Parliamentary plans and book of reference: adjustments agreed with landowners and correction of errors](section/29.md)
+    - [s. 30 Restrictions on compulsory purchase in respect of operational airport land](section/30.md)
+    - [s. 31 Protection of access at St James’ Park](section/31.md)
+- Part 3 Miscellaneous and general
+  - [s. 32 Power to fell, etc. trees or shrubs](section/32.md)
+  - [s. 33 Powers of disposal, agreements for operation etc.](section/33.md)
+  - [s. 34 Statutory undertakers, etc.](section/34.md)
+  - [s. 35 Arbitration](section/35.md)
+  - [s. 36 Service of notices, etc.](section/36.md)
+  - [s. 37 Listed buildings](section/37.md)
+  - [s. 38 Saving for town and country planning](section/38.md)
+  - [s. 39 Blighted land](section/39.md)
+  - [s. 40 Method of vesting land](section/40.md)
+  - [s. 41 Certification of plans, etc.](section/41.md)
+  - [s. 42 Registration of new rights](section/42.md)
+  - [s. 43 Mitigation of environmental impacts](section/43.md)
+  - [s. 44 Application of Crichel Downs Rules](section/44.md)
+  - [s. 45 Compliance with code of construction practice and noise and vibration policy](section/45.md)
+  - [s. 46 Regulation of mitigation measures](section/46.md)
+- Part 4 Supplementary
+  - [s. 47 Incorporation of enactments](section/47.md)
+  - [s. 48 Application of original railway enactments](section/48.md)
+  - [s. 49 Disapplication of statutory and other restrictions on acquisition and use of certain land](section/49.md)
+  - [s. 50 Rights of the Crown and Scottish Ministers](section/50.md)
+  - [s. 51 Interpretation](section/51.md)
+  - [s. 52 Short title](section/52.md)
+- SCHEDULE 1 Scheduled works
+- SCHEDULE 2 Ancillary works
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Roads to be temporarily stopped up
+- SCHEDULE 4 Safeguarding works: procedure
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Acquisition of land, etc. outside limits of deviation
+  - Part 1 Acquisition of land
+  - Part 2 Acquisition of rights only
+- SCHEDULE 6 Land of which temporary possession may be taken
+- SCHEDULE 7 Statutory undertakers, etc.
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Listed buildings
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9 Code of construction practice
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
