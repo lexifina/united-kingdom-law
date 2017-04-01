@@ -2,9 +2,9 @@
 
 2011 c. 4. Enacted 2011-03-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2012-04-01, one file per provision. Earlier versions, from 2011-03-22, are in the history before it: `git log -- ukpga/2011/4` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. Earlier versions, from 2011-03-22, are in the history before it: `git log -- ukpga/2011/4` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/4/2012-04-01
+Source: https://www.legislation.gov.uk/ukpga/2011/4/2017-04-01
 
 ## Contents
 
@@ -16,6 +16,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/4/2012-04-01
   - [s. 5 How main duty is to be performed](section/5.md)
   - [s. 6 Guidance as to how main duty is to be performed](section/6.md)
   - [s. 7 Efficiency etc](section/7.md)
+  - [s. 7A Duty to co-operate with the Scottish Fiscal Commission](section/7A.md)
   - [s. 8 Reports](section/8.md)
   - [s. 9 Right to information](section/9.md)
   - [s. 10 Superseded statutory provisions](section/10.md)
