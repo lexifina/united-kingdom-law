@@ -1,0 +1,170 @@
+# Enterprise and New Towns (Scotland) Act 1990
+
+1990 c. 35. Enacted 1990-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1990/35/2017-04-01
+
+## Contents
+
+- Part I Scottish Enterprise and Highlands and Islands Enterprise
+  - Establishment and Functions
+    - [s. 1 Scottish Enterprise and Highlands and Islands Enterprise.](section/1.md)
+    - [s. 2 Functions in relation to training for employment etc.](section/2.md)
+    - [s. 3 Monitoring of training for employment](section/3.md)
+    - [s. 4 Further provision as regards functions of Scottish Enterprise.](section/4.md)
+    - [s. 5 Further provision as regards functions of Highlands and Islands Enterprise.](section/5.md)
+    - [s. 6 Development and improvement of the environment.](section/6.md)
+    - [s. 7 Derelict land.](section/7.md)
+  - Powers
+    - [s. 8 General and specific powers.](section/8.md)
+    - [s. 9 Powers of entry.](section/9.md)
+    - [s. 10 Power of Scottish Enterprise to obtain information.](section/10.md)
+    - [s. 11 Power of Highlands and Islands Enterprise to obtain information.](section/11.md)
+    - [s. 12 Further provision as regards obtaining information etc.](section/12.md)
+    - [s. 13 Restrictions on exercise of certain powers.](section/13.md)
+    - [s. 14 Power of Secretary of State to give directions.](section/14.md)
+    - [s. 14A Power of Ministers to confer or impose functions.](section/14A.md)
+    - [s. 15 Industrial injuries benefit.](section/15.md)
+    - [s. 16 Courses of training etc.: duty to give preference to certain categories of disabled person.](section/16.md)
+    - [s. 17 Encouragement of women, members of ethnic minorities and disabled persons to take up certain employment opportunities and training](section/17.md)
+    - [s. 18 Prohibition on discrimination in provision of certain facilities or services.](section/18.md)
+  - Delegation and Assistance
+    - [s. 19 Delegation of certain functions and powers.](section/19.md)
+    - [s. 20 Assistance from local authorities and development corporations in carrying out certain functions.](section/20.md)
+  - Areas of operation
+    - [s. 21 Areas of operation.](section/21.md)
+  - Vesting of property of the Scottish Development Agency in Scottish Enterprise and of the Highlands and Islands Development Board in Highlands and Islands Enterprise etc.
+    - [s. 22 Transfer of property, rights and liabilities.](section/22.md)
+  - Dissolution of the Scottish Development Agency and of the Highlands and Islands Development Board: the Transitional Period
+    - [s. 23 Dissolution of the Scottish Development Agency and of the Highlands and Islands Development Board.](section/23.md)
+  - Financial provisions
+    - [s. 24 Financial duties of Scottish Enterprise.](section/24.md)
+    - [s. 25 Finances of Scottish Enterprise.](section/25.md)
+    - [s. 26 Finances of Highlands and Islands Enterprise.](section/26.md)
+    - [s. 27 Additional financing for Scottish Development Agency.](section/27.md)
+  - General
+    - [s. 28 Application to Crown land.](section/28.md)
+    - [s. 29 Service of documents.](section/29.md)
+    - [s. 30 Accounts and annual reports.](section/30.md)
+    - [s. 31 Application and disapplication of certain provisions.](section/31.md)
+    - [s. 32 Registration of agreements etc.](section/32.md)
+- Part II New Towns
+  - Winding up and dissolution of new town development corporations
+    - [s. 33 Winding up and dissolution of new town development corporations.](section/33.md)
+  - Financial provisions
+    - [s. 34 Grants by Secretary of State to development corporations.](section/34.md)
+    - [s. 35 Powers to effect financial reconstruction.](section/35.md)
+- Part III Miscellaneous and General
+  - [s. 36 Interpretation.](section/36.md)
+  - [s. 37 Finance.](section/37.md)
+  - [s. 38 Amendments and repeals.](section/38.md)
+  - [s. 39 Commencement.](section/39.md)
+  - [s. 40 Short title and extent.](section/40.md)
+- SCHEDULE 1 Constitution and Proceedings etc. of Scottish Enterprise and Highlands and Islands Enterprise
+  - Incorporation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Status
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Membership
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Chairmen and Deputy Chairmen
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Remuneration, Allowances and Pensions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Staff
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Proceedings
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Committees
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Execution of Documents
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+- SCHEDULE 2 Financial Provisions Relating To Scottish Enterprise
+  - Financing of Scottish Enterprise
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Borrowing powers and government loans
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Borrowing by wholly owned subsidiaries
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Guarantees
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Payments by Scottish Enterprise
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Transitional Provisions and Savings
+  - Constitution of the Scottish Development Agency
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Vesting of existing bodies’ foreign property in Scottish Enterprise or Highlands and Islands Enterprise
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Other property
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Delegation
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Assistance
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Effect of, and interpretation of, agreements etc.
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Pensions
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Compensation Payments
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Final reports and accounts of the existing bodies etc.
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - New Towns (Scotland) Act 1968 (c. 16.)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Finance Act 1969 (c. 32.)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Post Office Act 1969 (c. 48.)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Pensions Increase Act 1971 (c. 56.)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Offshore Petroleum Development (Scotland) Act 1975 (c. 8.)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - House of Commons Disqualification Act 1975 (c. 24.)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Farriers Registration Act 1975 (c. 35.)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Scottish Development Agency Act 1975 (c. 69.)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Highlands and Islands Air Services (Scotland) Act 1980 (c. 19.)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Agricultural Training Board Act 1982 (c. 9.)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Industrial Training Act 1982 (c. 10.)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Civil Aviation Act 1982 (c. 16.)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Local Government and Planning (Scotland) Act 1982 (c. 43.)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Gas Act 1986 (c. 44.)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Income and Corporation Taxes Act 1988 (c. 1.)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Employment Act 1988 (c. 19.)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Electricity Act 1989 (c. 29.)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Employment Act 1989 (c. 38.)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Repeals
+  - Part I Repeals Coming Into Force On First Transfer Date
+  - Part II Repeals Coming Into Force On Dissolution Of Scottish Development Agency
+  - Part III Repeals Coming Into Force On Second Transfer Date
+  - Part IV Repeals Coming Into Force On Dissolution Of Highlands And Islands Development Board
