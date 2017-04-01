@@ -1,0 +1,148 @@
+# Reservoirs (Scotland) Act 2011
+
+asp/2011/9. Enacted 2011-04-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2011/9
+
+Source: https://www.legislation.gov.uk/asp/2011/9/2017-04-01
+
+## Contents
+
+- Part 1 Reservoirs
+  - Chapter 1 Controlled reservoirs, reservoir managers, etc.
+    - [s. 1 Controlled reservoirs](section/1.md)
+    - [s. 2 Controlled reservoirs: supplementary](section/2.md)
+    - [s. 3 Reservoir managers](section/3.md)
+    - [s. 4 Multiple reservoir managers: supplementary](section/4.md)
+    - [s. 5 Duty of multiple reservoir managers to co-operate](section/5.md)
+    - [s. 6 Guidance by SEPA: management of reservoirs](section/6.md)
+    - [s. 7 SEPA](section/7.md)
+    - [s. 8 The 1975 Act and its repeal](section/8.md)
+  - Chapter 2 Registration
+    - [s. 9 Controlled reservoirs register](section/9.md)
+    - [s. 10 Reservoir managers’ duty to register with SEPA](section/10.md)
+    - [s. 11 Controlled reservoirs required to be registered under the 1975 Act](section/11.md)
+    - [s. 12 Controlled reservoirs not required to be registered under the 1975 Act](section/12.md)
+    - [s. 13 Structures or areas which become controlled reservoirs after the relevant date](section/13.md)
+    - [s. 14 Fees: registration and administration](section/14.md)
+    - [s. 15 Registration: supplementary](section/15.md)
+    - [s. 16 Transfer of information from existing relevant authorities](section/16.md)
+    - [s. 17 Offences: registration](section/17.md)
+  - Chapter 3 Risk designation
+    - [s. 18 Provisional risk designation](section/18.md)
+    - [s. 19 First risk designation](section/19.md)
+    - [s. 20 Periodic review of risk designations](section/20.md)
+    - [s. 21 Decision following a periodic review](section/21.md)
+    - [s. 22 Risk designation and periodic review: matters to be taken into account](section/22.md)
+    - [s. 23 Review of SEPA’s decisions giving risk designations](section/23.md)
+    - [s. 24 Appeal to the Scottish Ministers following SEPA’s review](section/24.md)
+    - [s. 25 Guidance by SEPA: risk designation](section/25.md)
+    - [s. 26 High-risk reservoirs, medium-risk reservoirs and low-risk reservoirs: further provision](section/26.md)
+  - Chapter 4 Panels of reservoir engineers
+    - [s. 27 Panels of reservoir engineers](section/27.md)
+    - [s. 28 Appointment and removal of panel members](section/28.md)
+    - [s. 29 Dissolution of panels etc.](section/29.md)
+    - [s. 30 Review of decisions to appoint or remove civil engineers from panels etc.](section/30.md)
+    - [s. 31 Consultation with Institution of Civil Engineers](section/31.md)
+  - Chapter 5 Construction or alteration of controlled reservoirs
+    - [s. 32 Application of Chapter 5](section/32.md)
+    - [s. 33 Notice to SEPA and appointment of construction engineer](section/33.md)
+    - [s. 34 Inspection, reports, supervision of works etc. by construction engineer](section/34.md)
+    - [s. 35 Safety reports](section/35.md)
+    - [s. 36 Safety reports: compliance](section/36.md)
+    - [s. 37 Preliminary certificates](section/37.md)
+    - [s. 38 Construction certificates](section/38.md)
+    - [s. 39 Final certificates](section/39.md)
+    - [s. 40 Preliminary and final certificates: compliance](section/40.md)
+    - [s. 41 Termination of supervision by construction engineer](section/41.md)
+    - [s. 42 Offences: construction or alteration](section/42.md)
+    - [s. 43 Defences: offences under section 42(1)(d) or (e)](section/43.md)
+    - [s. 44 Controlled reservoirs subject to relevant works on commencement](section/44.md)
+  - Chapter 6 Other requirements: high-risk reservoirs and medium-risk reservoirs
+    - [s. 45 Appointment of inspecting engineer etc.](section/45.md)
+    - [s. 46 Inspections: timing](section/46.md)
+    - [s. 47 Inspections: duties of inspecting engineers etc.](section/47.md)
+    - [s. 48 Inspection reports: compliance](section/48.md)
+    - [s. 49 Appointment of supervising engineers etc.](section/49.md)
+    - [s. 50 Supervising engineer and monitoring of reservoir](section/50.md)
+    - [s. 51 Recording of water levels etc. and record keeping](section/51.md)
+    - [s. 52 Offences: inspection, supervision, record keeping](section/52.md)
+    - [s. 53 Defences: offence under section 52(1)(c)](section/53.md)
+  - Chapter 7 Other requirements: controlled reservoirs
+    - [s. 54 Incident reporting](section/54.md)
+    - [s. 55 Flood plans](section/55.md)
+    - [s. 56 Maintenance of records](section/56.md)
+    - [s. 57 Display of emergency response information](section/57.md)
+    - [s. 58 Offences: record keeping, display of emergency response information](section/58.md)
+  - Chapter 8 Dispute referral
+    - [s. 59 Referral to referee: directions in safety report or inspection report](section/59.md)
+    - [s. 60 Referral to referee: requirements in preliminary certificate or final certificate](section/60.md)
+    - [s. 61 Appointment of referee](section/61.md)
+    - [s. 62 Powers of referee: referral under section 59(2)](section/62.md)
+    - [s. 63 Powers of referee: referral under section 60(1)](section/63.md)
+    - [s. 64 Procedure](section/64.md)
+  - Chapter 9 Civil enforcement, emergency powers and further offences
+    - Appointment of engineers
+      - [s. 65 Enforcement notice: appointment of engineer](section/65.md)
+      - [s. 66 Offence: failure to comply with notice under section 65(2)](section/66.md)
+      - [s. 67 Appointment of engineer by SEPA](section/67.md)
+      - [s. 68 Appointment by SEPA: engineers’ reports, certificates, recommendations etc.](section/68.md)
+    - Taking of safety and other measures
+      - [s. 69 Enforcement notice: safety and other measures](section/69.md)
+      - [s. 70 Offence: failure to comply with notice under section 69(2)](section/70.md)
+      - [s. 71 SEPA’s power to arrange taking of safety and other measures](section/71.md)
+      - [s. 72 Offences under sections 42(1)(d) and 52(1)(c): further remedies](section/72.md)
+    - Stop notices
+      - [s. 73 Stop notices](section/73.md)
+      - [s. 74 Stop notices: procedure](section/74.md)
+      - [s. 75 Stop notices: compensation](section/75.md)
+      - [s. 76 Stop notices: enforcement](section/76.md)
+    - Emergency powers
+      - [s. 77 Emergency powers](section/77.md)
+    - Other civil enforcement measures
+      - [s. 78 Enforcement undertakings](section/78.md)
+      - [s. 79 Fixed monetary penalties](section/79.md)
+      - [s. 80 Fixed monetary penalties: procedure](section/80.md)
+      - [s. 81 Fixed monetary penalties: criminal proceedings and conviction etc.](section/81.md)
+      - [s. 82 Further enforcement measures](section/82.md)
+      - [s. 83 Further enforcement measures: procedure](section/83.md)
+      - [s. 84 Further enforcement measures: criminal proceedings and conviction](section/84.md)
+      - [s. 85 Further enforcement measures: enforcement](section/85.md)
+    - Miscellaneous
+      - [s. 86 Consultation in relation to orders under sections 73(1)... and 82(1)](section/86.md)
+      - [s. 87 Guidance as to use of stop notices... or further enforcement measures](section/87.md)
+      - [s. 88 Recovery by SEPA of expenses](section/88.md)
+      - [s. 89 Guidance: appeals](section/89.md)
+      - [s. 90 Publication of enforcement action](section/90.md)
+      - [s. 91 Powers of entry](section/91.md)
+      - [s. 92 Warrants authorising entry](section/92.md)
+      - [s. 93 Powers of entry: supplementary](section/93.md)
+      - [s. 94 Offence: preventing or obstructing entry](section/94.md)
+      - [s. 95 Compensation](section/95.md)
+      - [s. 96 Reports by SEPA to the Scottish Ministers](section/96.md)
+      - [s. 97 Affording of reasonable facilities to engineers](section/97.md)
+      - [s. 98 Power of SEPA to require information and assistance](section/98.md)
+      - [s. 99 Offences: sections 97 and 98](section/99.md)
+  - Chapter 10 Miscellaneous
+    - [s. 100 Guidance](section/100.md)
+    - [s. 101 Grants](section/101.md)
+    - [s. 102 Assessment of engineers’ reports etc.](section/102.md)
+    - [s. 103 Notice to SEPA of revocation of appointment or resignation of engineer](section/103.md)
+    - [s. 104 SEPA: Ministerial directions](section/104.md)
+    - [s. 105 Form and content of notices, reports, certificates etc.](section/105.md)
+    - [s. 106 Notices by SEPA](section/106.md)
+    - [s. 107 Change to the Institution of Civil Engineers](section/107.md)
+    - [s. 108 Civil liability](section/108.md)
+- Part 2 Protection of the water environment – remedial and restoration measures
+  - [s. 109 Remedial and restoration measures regulations](section/109.md)
+- Part 3 General
+  - [s. 110 Crown application](section/110.md)
+  - [s. 111 Offences by bodies corporate](section/111.md)
+  - [s. 112 Consequential amendment and repeals](section/112.md)
+  - [s. 113 Ancillary provision](section/113.md)
+  - [s. 114 Orders and regulations](section/114.md)
+  - [s. 115 Defined expressions](section/115.md)
+  - [s. 116 Commencement and short title](section/116.md)
+- SCHEDULE Index of defined expressions
