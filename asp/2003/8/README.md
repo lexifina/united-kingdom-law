@@ -1,0 +1,183 @@
+# Building (Scotland) Act 2003
+
+asp/2003/8. Enacted 2003-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/8
+
+Source: https://www.legislation.gov.uk/asp/2003/8/2017-04-01
+
+## Contents
+
+- Part 1 Building regulations
+  - Power to make building regulations
+    - [s. 1 Building regulations](section/1.md)
+    - [s. 2 Continuing requirements](section/2.md)
+  - Relaxation of building regulations
+    - [s. 3 Relaxation of building regulations](section/3.md)
+  - Guidance documents
+    - [s. 4 Guidance documents for purposes of building regulations](section/4.md)
+    - [s. 5 Compliance with guidance documents](section/5.md)
+  - Building standards assessments
+    - [s. 6 Building standards assessments](section/6.md)
+- Part 2 Approval of construction work etc.
+  - Verifiers and certifiers
+    - [s. 7 Verifiers and certifiers](section/7.md)
+  - Building warrants
+    - [s. 8 Building warrants](section/8.md)
+    - [s. 9 Building warrants: grant and amendment](section/9.md)
+    - [s. 10 Building warrants: extension, alteration and conversion](section/10.md)
+    - [s. 11 Building warrants: certification of design](section/11.md)
+    - [s. 12 Building warrants: reference to Ministers](section/12.md)
+    - [s. 13 Building warrants: further provisions](section/13.md)
+    - [s. 14 Building warrants: limited life buildings](section/14.md)
+    - [s. 15 Building warrants: late applications](section/15.md)
+    - [s. 16 Applications and grants: offences](section/16.md)
+  - Completion certificates
+    - [s. 17 Completion certificates](section/17.md)
+    - [s. 18 Completion certificates: acceptance and rejection](section/18.md)
+    - [s. 19 Completion certificates: certification of construction](section/19.md)
+    - [s. 20 Completion certificates: offences](section/20.md)
+    - [s. 21 Occupation or use without completion certificates](section/21.md)
+  - Imposition of continuing requirements by verifiers
+    - [s. 22 Imposition of continuing requirements by verifiers](section/22.md)
+    - [s. 23 Discharge and variation of continuing requirements imposed by verifiers](section/23.md)
+  - Building standards registers
+    - [s. 24 Building standards registers](section/24.md)
+- Part 3 Compliance and enforcement
+  - [s. 25 Building regulations compliance](section/25.md)
+  - [s. 26 Continuing requirement enforcement notices](section/26.md)
+  - [s. 27 Building warrant enforcement notices](section/27.md)
+- Part 4 Defective and dangerous buildings
+  - [s. 28 Defective buildings](section/28.md)
+  - [s. 29 Dangerous buildings](section/29.md)
+  - [s. 30 Dangerous building notices](section/30.md)
+- Part 5 General
+  - Building Standards Advisory Committee
+    - [s. 31 Building Standards Advisory Committee](section/31.md)
+  - Functions of Ministers, local authorities, verifiers and certifiers
+    - [s. 32 Exercise of local authority functions](section/32.md)
+    - [s. 33 Procedure regulations](section/33.md)
+    - [s. 34 Reports and information](section/34.md)
+  - Scheduled monuments, listed buildings etc.
+    - [s. 35 Scheduled monuments, listed buildings etc.](section/35.md)
+  - Documents
+    - [s. 36 Forms](section/36.md)
+    - [s. 37 Service of notices etc.](section/37.md)
+  - Fees and charges
+    - [s. 38 Fees and charges](section/38.md)
+  - Entry, inspection and tests
+    - [s. 39 Powers of entry, inspection and testing](section/39.md)
+    - [s. 40 Work required by notice: right of entry](section/40.md)
+    - [s. 41 Tests of materials](section/41.md)
+  - Evacuation of buildings
+    - [s. 42 Evacuation of buildings](section/42.md)
+    - [s. 43 Unlawful occupation of evacuated buildings](section/43.md)
+  - Execution of work
+    - [s. 44 Expenses](section/44.md)
+    - [s. 45 Compulsory purchase where owner cannot be found](section/45.md)
+    - [s. 46 Sale of materials from demolished buildings](section/46.md)
+  - Charging orders
+    - [s. 46A Charging orders](section/46A.md)
+    - [s. 46B Qualifying expenses](section/46B.md)
+    - [s. 46C Repayable amount](section/46C.md)
+    - [s. 46D Charging order provision and early repayment](section/46D.md)
+    - [s. 46E Registration](section/46E.md)
+    - [s. 46F Liability of new owner](section/46F.md)
+    - [s. 46G Continuing liability of former owner](section/46G.md)
+    - [s. 46H “Register” and “appropriate land register”](section/46H.md)
+  - Appeals
+    - [s. 47 Appeals](section/47.md)
+  - Offences and liability
+    - [s. 48 Penalties for offences](section/48.md)
+    - [s. 49 Offences by bodies corporate etc.](section/49.md)
+    - [s. 50 Criminal liability of trustees etc.](section/50.md)
+    - [s. 51 Civil liability](section/51.md)
+  - Inquiries
+    - [s. 52 Inquiries](section/52.md)
+  - Crown application
+    - [s. 53 Crown application](section/53.md)
+  - Orders and regulations
+    - [s. 54 Orders and regulations](section/54.md)
+  - Interpretation
+    - [s. 55 Meaning of “building”](section/55.md)
+    - [s. 56 Interpretation](section/56.md)
+- Part 6 Supplementary
+  - [s. 57 Ancillary provision](section/57.md)
+  - [s. 58 Modification of enactments](section/58.md)
+  - [s. 59 Commencement and short title](section/59.md)
+- SCHEDULE 1 Building regulations
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Verifiers and certifiers
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Procedure regulations: particular matters
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Powers of entry, inspection and testing: further provision
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Evacuation of buildings
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Modification of enactments
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
