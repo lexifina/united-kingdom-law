@@ -1,0 +1,250 @@
+# Historic Environment Scotland Act 2014
+
+asp/2014/19. Enacted 2014-12-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2014/19/2017-04-01
+
+## Contents
+
+- PART 1 HISTORIC ENVIRONMENT SCOTLAND
+  - Establishment
+    - [s. 1 Historic Environment Scotland](section/1.md)
+  - General functions
+    - [s. 2 Functions of Historic Environment Scotland](section/2.md)
+  - Functions in relation to property
+    - [s. 3 Delegation of functions in relation to properties in care](section/3.md)
+    - [s. 4 Properties in care](section/4.md)
+    - [s. 5 Power of entry to investigate the historic environment](section/5.md)
+  - Functions in relation to collections and objects
+    - [s. 6 Acquisition, deposit and disposal of objects](section/6.md)
+    - [s. 7 Borrowing and lending of objects](section/7.md)
+    - [s. 8 Delegation of functions in relation to collections](section/8.md)
+  - Corporate planning
+    - [s. 9 Corporate plan](section/9.md)
+  - Grants and loans
+    - [s. 10 Grants to Historic Environment Scotland by the Scottish Ministers](section/10.md)
+    - [s. 11 Grants and loans by Historic Environment Scotland](section/11.md)
+  - Advice and directions
+    - [s. 12 Advice, information and assistance](section/12.md)
+    - [s. 13 Directions and guidance](section/13.md)
+  - Interpretation
+    - [s. 14 Interpretation of Part 1](section/14.md)
+- PART 2 FUNCTIONS IN RELATION TO SCHEDULED MONUMENTS
+  - [s. 15 Historic Environment Scotland’s functions in relation to scheduled monuments](section/15.md)
+- PART 3 FUNCTIONS IN RELATION TO LISTING AND CONSERVATION
+  - [s. 16 Historic Environment Scotland’s functions in relation to listed buildings](section/16.md)
+- PART 4 FUNCTIONS IN RELATION TO THE MARINE ENVIRONMENT
+  - [s. 17 Historic Environment Scotland’s functions in relation to the marine environment](section/17.md)
+- PART 5 DISSOLUTION OF RCAHMS AND TRANSFER OF STAFF ETC. TO HISTORIC ENVIRONMENT SCOTLAND
+  - [s. 18 Dissolution of RCAHMS](section/18.md)
+  - [s. 19 Transfer of staff and property to Historic Environment Scotland](section/19.md)
+- PART 6 FURTHER MODIFICATIONS IN RELATION TO THE HISTORIC ENVIRONMENT
+  - Grants and loans
+    - [s. 20 Grants and loans by the Scottish Ministers](section/20.md)
+  - Scheduled monuments
+    - [s. 21 Local inquiries in relation to scheduled monuments etc.](section/21.md)
+  - Listed buildings
+    - [s. 22 Meaning of “listed building”](section/22.md)
+    - [s. 23 Applications for listed building consent](section/23.md)
+  - Conservation areas
+    - [s. 24 Control of demolition](section/24.md)
+- PART 7 FINAL PROVISIONS
+  - Interpretation
+    - [s. 25 Interpretation](section/25.md)
+  - Subordinate legislation
+    - [s. 26 Subordinate legislation](section/26.md)
+  - Ancillary provision
+    - [s. 27 Ancillary provision](section/27.md)
+  - Consequential modifications
+    - [s. 28 Consequential modifications](section/28.md)
+  - Crown application
+    - [s. 29 Crown application: criminal offences](section/29.md)
+    - [s. 30 Crown application: powers of entry](section/30.md)
+  - Commencement and short title
+    - [s. 31 Commencement](section/31.md)
+    - [s. 32 Short title](section/32.md)
+- SCHEDULE 1 HISTORIC ENVIRONMENT SCOTLAND
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Persons disqualified from membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Removal of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remuneration, allowances and expenses of members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Chief executive and staff
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Pensions, allowances and gratuities
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Procedure and meetings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation of functions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Validity of proceedings and actions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - General powers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Accounts
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Reports
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 FUNCTIONS OF HISTORIC ENVIRONMENT SCOTLAND IN RELATION TO SCHEDULED MONUMENTS
+  - PART 1 SCHEDULE OF MONUMENTS
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 2 SCHEDULED MONUMENT CONSENT
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - PART 3 SCHEDULED MONUMENT ENFORCEMENT NOTICES
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - PART 4 SCHEDULED MONUMENTS: STOP NOTICES
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+  - PART 5 APPEALS AND REFERRALS
+    - CHAPTER 1 APPEALS FROM HISTORIC ENVIRONMENT SCOTLAND
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - Appeal against inclusion or amendment of entry in Schedule of monuments
+        - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - Appeal in relation to scheduled monument consent
+        - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - Determination of appeals by appointed person
+        - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - CHAPTER 2 REFERRAL OF CERTAIN APPLICATIONS
+      - Referral of certain applications
+        - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - PART 6 FUNCTIONS IN RELATION TO GARDENS, LANDSCAPES AND BATTLEFIELDS
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+  - PART 7 OTHER MATTERS IN RELATION TO SCHEDULED MONUMENTS
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - Interdict
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - Agreements concerning ancient monuments etc.
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - Advice and superintendence
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - Power of entry: inspection and recording
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - Power to accept voluntary contributions
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - Metal detectors
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - Power of entry: survey and valuation
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - Compensation
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - Application to Crown land
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - Finds
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - Proceedings questioning certain orders
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - Power to require information
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - Interpretation
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+- SCHEDULE 3 FUNCTIONS OF HISTORIC ENVIRONMENT SCOTLAND IN RELATION TO LISTING AND CONSERVATION
+  - PART 1 LISTING OF SPECIAL BUILDINGS
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Compiling or approving lists of special buildings
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Publication of lists and notification of listing
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Temporary listing
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Certificate that no intention to list building
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - PART 2 LISTED BUILDING CONSENT
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Revocation and modification of listed building consent
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - PART 3 CONSERVATION AREAS
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - PART 4 APPEALS AGAINST LISTING
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - PART 5 OTHER MATTERS IN RELATION TO LISTING
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Compensation
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Application of 1997 Act to land and works of planning authorities
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Powers of entry
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Building preservation notices
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+- SCHEDULE 4 FUNCTIONS OF HISTORIC ENVIRONMENT SCOTLAND IN RELATION TO THE MARINE ENVIRONMENT
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 TRANSFER OF STAFF, PROPERTY ETC. TO HISTORIC ENVIRONMENT SCOTLAND
+  - Staff transfer schemes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Staff transfer schemes: general
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Transfers under paragraph 1: effect on contract of employment
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Property transfer schemes
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Property transfer schemes: general
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Transfer schemes: additional provision
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 CONSEQUENTIAL MODIFICATIONS
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Scottish Public Services Ombudsman Act 2002
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Freedom of Information (Scotland) Act 2002
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Public Services Reform (Scotland) Act 2010
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Public Records (Scotland) Act 2011
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
