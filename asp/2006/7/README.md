@@ -1,0 +1,129 @@
+# Edinburgh Tram (Line One) Act 2006
+
+asp/2006/7. Enacted 2006-05-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2006/7
+
+Source: https://www.legislation.gov.uk/asp/2006/7/2017-04-01
+
+## Contents
+
+- Part 1 Works
+  - Principal works powers
+    - [s. 1 Power to construct works](section/1.md)
+    - [s. 2 Power to deviate](section/2.md)
+    - [s. 3 Power to alter the layout of roads](section/3.md)
+    - [s. 4 Power to keep apparatus in roads](section/4.md)
+    - [s. 5 Power to execute road works](section/5.md)
+    - [s. 6 Permanent stopping up of roads](section/6.md)
+  - Supplemental powers
+    - [s. 7 Temporary stopping up of roads](section/7.md)
+    - [s. 8 Access to works](section/8.md)
+    - [s. 9 Construction and maintenance of new or altered roads](section/9.md)
+    - [s. 10 Construction of bridges and tunnels](section/10.md)
+    - [s. 11 Restoration of roads if tramway discontinued](section/11.md)
+    - [s. 12 Agreements with roads and road works authorities](section/12.md)
+    - [s. 13 Agreements with Network Rail and BRB (Residuary) Limited](section/13.md)
+    - [s. 14 Transfer of obligations arising from previous enactments](section/14.md)
+    - [s. 15 Level crossings](section/15.md)
+    - [s. 16 Attachment of equipment to buildings for purposes of works](section/16.md)
+    - [s. 17 Discharge of water](section/17.md)
+    - [s. 18 Safeguarding works to buildings](section/18.md)
+    - [s. 19 Power to construct temporary tramways](section/19.md)
+    - [s. 20 Power to survey and investigate land](section/20.md)
+    - [s. 21 Mode of construction and operation of tramway](section/21.md)
+    - [s. 22 Obstruction of construction of tramway](section/22.md)
+- Part 2 Land
+  - Principal acquisition powers
+    - [s. 23 Power to acquire land](section/23.md)
+    - [s. 24 Powers to acquire new rights](section/24.md)
+    - [s. 25 Rights under or over roads](section/25.md)
+    - [s. 26 Temporary use of land for construction of works](section/26.md)
+    - [s. 27 Temporary use of land for maintenance of works](section/27.md)
+    - [s. 28 Power as to acquisition and use of additional lands](section/28.md)
+    - [s. 29 Power to retain, sell, etc., lands](section/29.md)
+    - [s. 30 Application of the Crichel Down Rules](section/30.md)
+  - Compensation
+    - [s. 31 Disregard of certain interests and improvements](section/31.md)
+    - [s. 32 Compensation in respect of depreciation in value of interest in land subject to a standard security](section/32.md)
+    - [s. 33 Set-off against betterment](section/33.md)
+  - Supplemental powers
+    - [s. 34 Acquisition of part of certain properties](section/34.md)
+    - [s. 35 Persons under a disability may grant servitudes, etc.](section/35.md)
+    - [s. 36 Extinction or suspension of private rights of way](section/36.md)
+    - [s. 37 Power of entry on lands compulsorily acquired](section/37.md)
+    - [s. 38 Correction of errors in Parliamentary plans and book of reference](section/38.md)
+    - [s. 39 No double recovery](section/39.md)
+    - [s. 40 Time limit for exercise of powers of acquisition](section/40.md)
+    - [s. 41 Extension of time](section/41.md)
+    - [s. 42 General vesting declarations](section/42.md)
+- Part 3 Penalty Fares
+  - [s. 43 Interpretation for Part 3](section/43.md)
+  - [s. 44 Operation of Part 3](section/44.md)
+  - [s. 45 Penalty fares](section/45.md)
+  - [s. 46 Amount of penalty fare](section/46.md)
+  - [s. 47 Document to be issued in connection with penalty fare requirement](section/47.md)
+  - [s. 48 Notice of penalty fare provisions](section/48.md)
+  - [s. 49 Supplementary provisions](section/49.md)
+  - [s. 50 Exclusion of double liability](section/50.md)
+- Part 4 Operation of Authorised Tramway
+  - [s. 51 Power to operate and use authorised tramway](section/51.md)
+  - [s. 52 Power to charge fares](section/52.md)
+  - [s. 53 Disapplication of duties respecting provision of transport services](section/53.md)
+  - [s. 54 Concessionary and integrated travel](section/54.md)
+  - [s. 55 Obstruction to operation](section/55.md)
+  - [s. 56 Removal of obstructions](section/56.md)
+  - [s. 57 Prevention or restriction of running of tram](section/57.md)
+  - [s. 58 Traffic signs and priority](section/58.md)
+  - [s. 59 Power to lop trees overhanging the tramway](section/59.md)
+  - [s. 60 Trespass on tramroads](section/60.md)
+  - [s. 61 Power to make byelaws](section/61.md)
+  - [s. 62 Power to contract for police services](section/62.md)
+- Part 5 Miscellaneous and General
+  - [s. 63 Insulation against noise](section/63.md)
+  - [s. 64 Orders for insulating new buildings](section/64.md)
+  - [s. 65 Repeal of sections 63 and 64](section/65.md)
+  - [s. 66 Compliance with Code of Construction Practice and Noise and Vibration Policy](section/66.md)
+  - [s. 67 Mitigation of environmental impacts](section/67.md)
+  - [s. 68 Landscape and habitat management plan](section/68.md)
+  - [s. 69 Powers of disposal, agreements for operation, etc.](section/69.md)
+  - [s. 70 Application of landlord and tenant law](section/70.md)
+  - [s. 71 Trams deemed public service vehicles](section/71.md)
+  - [s. 72 Statutory undertakers, etc.](section/72.md)
+  - [s. 73 Listed buildings and conservation areas](section/73.md)
+  - [s. 74 Town and country planning, etc.](section/74.md)
+  - [s. 75 Blighted land](section/75.md)
+  - [s. 76 Saving for roads authority](section/76.md)
+  - [s. 77 Certification of plans, etc.](section/77.md)
+  - [s. 78 Service of notices](section/78.md)
+  - [s. 79 Application of Railways Act 1993](section/79.md)
+  - [s. 80 Arbitration](section/80.md)
+- Part 6 Supplementary
+  - [s. 81 Incorporation of enactments](section/81.md)
+  - [s. 82 Interpretation](section/82.md)
+  - [s. 83 Orders](section/83.md)
+  - [s. 84 Rights of the Crown](section/84.md)
+  - [s. 85 Short title](section/85.md)
+- SCHEDULE 1 Scheduled works
+- SCHEDULE 2 Roads subject to alteration of layout
+- SCHEDULE 3 Roads to be permanently stopped up
+  - Part 1 Roads to be permanently stopped up with a substitute provided
+  - Part 2 Roads to be stopped up to vehicular access and egress only
+  - Part 3 Roads to be permanently stopped up with no substitute provided
+- SCHEDULE 4 Roads to be temporarily stopped up
+- SCHEDULE 5 Level crossings
+- SCHEDULE 6 Acquisition of certain land
+- SCHEDULE 7 Land of which temporary possession may be taken
+- SCHEDULE 8 Permitted events on tram route
+- SCHEDULE 9 Provisions relating to statutory undertakers, etc.
+  - Apparatus of statutory undertakers, etc. on land acquired
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Apparatus of statutory undertakers, etc. in stopped up roads
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Railway and navigation undertakings
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Listed buildings
+  - Part 1 Buildings to which listed building works may be carried out
+  - Part 2 Listed buildings to which equipment may not be attached without consent
