@@ -2,9 +2,9 @@
 
 2017 c. 19. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/19/2025-06-01
+Source: https://www.legislation.gov.uk/ukpga/2017/19/2017-04-27
 
 ## Contents
 
@@ -119,7 +119,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/19/2025-06-01
     - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
   - Property, rights and liabilities that may be transferred
     - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
-    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
     - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
   - Proof of title by certificate
     - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
@@ -191,7 +190,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/19/2025-06-01
     - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
     - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
     - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
-    - [Sch. 4 para. 17A](schedule/4/paragraph/17A.md)
     - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
     - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
     - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
