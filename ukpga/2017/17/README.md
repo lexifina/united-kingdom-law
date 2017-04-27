@@ -2,9 +2,9 @@
 
 2017 c. 17. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/17/2026-07-31
+Source: https://www.legislation.gov.uk/ukpga/2017/17/2017-04-27
 
 ## Contents
 
@@ -24,15 +24,13 @@ Source: https://www.legislation.gov.uk/ukpga/2017/17/2026-07-31
     - [s. 10 Scheme funder requirements](section/10.md)
     - [s. 11 Systems and processes requirements](section/11.md)
     - [s. 12 Continuity strategy requirement](section/12.md)
-    - [s. 12A Investment capability](section/12A.md)
-    - [s. 12B Scale requirement](section/12B.md)
   - Ongoing supervision of Master Trust schemes
     - [s. 13 List of authorised schemes](section/13.md)
     - [s. 14 Requirement to submit annual accounts](section/14.md)
     - [s. 15 Requirement to submit supervisory return](section/15.md)
     - [s. 16 Duty to notify Regulator of significant events](section/16.md)
-    - [s. 17 Fixed penalty notice for failure to comply with request for information etc](section/17.md)
-    - [s. 18 Escalating penalty notice for failure to comply with request for information etc](section/18.md)
+    - [s. 17 Fixed penalty notice for failure to comply with request for information](section/17.md)
+    - [s. 18 Escalating penalty notice for failure to comply with request for information](section/18.md)
     - [s. 19 Withdrawal of authorisation](section/19.md)
   - Triggering events: continuity
     - [s. 20 Triggering event: duties of trustees](section/20.md)
