@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2016-09-15
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2017-04-27
 
 ## Contents
 
@@ -1382,11 +1382,11 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2016-09-15
   - PART 2 Meeting the threshold conditions: bodies corporate and partnerships
     - Interpretation
       - [Sch. 34 para. 13A](schedule/34/paragraph/13A.md)
-    - Treating persons under another’s control as meeting a threshold condition
+    - Relevant bodies controlled etc by other persons treated as meeting a threshold condition
       - [Sch. 34 para. 13B](schedule/34/paragraph/13B.md)
-    - Treating persons in control of others as meeting a threshold condition
+    - Persons who control etc a relevant body treated as meeting a threshold condition
       - [Sch. 34 para. 13C](schedule/34/paragraph/13C.md)
-    - Treating persons controlled by the same person as meeting a threshold condition
+    - Relevant bodies controlled etc by the same person treated as meeting a threshold condition
       - [Sch. 34 para. 13D](schedule/34/paragraph/13D.md)
   - PART 3 Power to amend
     - [Sch. 34 para. 14](schedule/34/paragraph/14.md)
@@ -1426,11 +1426,11 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2016-09-15
     - Meaning of “relevant body” and “control”
       - [Sch. 34A para. 19](schedule/34A/paragraph/19.md)
   - PART 4 Meeting section 237A conditions: bodies corporate and partnerships
-    - Treating persons under another’s control as meeting section 237A condition
+    - Relevant bodies controlled etc by other persons treated as meeting section 237A condition
       - [Sch. 34A para. 20](schedule/34A/paragraph/20.md)
-    - Treating persons in control of others as meeting section 237A condition
+    - Persons who control etc a relevant body treated as meeting a section 237A condition
       - [Sch. 34A para. 21](schedule/34A/paragraph/21.md)
-    - Treating persons controlled by the same person as meeting section 237A condition
+    - Relevant bodies controlled etc by the same person treated as meeting a section 237A condition
       - [Sch. 34A para. 22](schedule/34A/paragraph/22.md)
     - Interpretation
       - [Sch. 34A para. 23](schedule/34A/paragraph/23.md)
