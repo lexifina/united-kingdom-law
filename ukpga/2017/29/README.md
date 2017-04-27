@@ -2,24 +2,12 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
-
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2017-04-27
 
 ## Contents
 
-- PART A1 Protection of Freedom of Speech
-  - Duties of registered higher education providers
-    - [s. A1 Duty to take steps to secure freedom of speech](section/A1.md)
-    - [s. A2 Code of practice](section/A2.md)
-    - [s. A3 Duty to promote the importance of freedom of speech and academic freedom](section/A3.md)
-  - Duties of constituent institutions
-    - [s. A4 Duties of constituent institutions](section/A4.md)
-  - Duties of students’ unions
-    - [s. A5 Duty to take steps to secure freedom of speech](section/A5.md)
-    - [s. A6 Code of practice](section/A6.md)
 - Part 1 The Office for Students
   - Establishment of the Office for Students
     - [s. 1 The Office for Students](section/1.md)
@@ -65,7 +53,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
     - [s. 33 Variation of a plan](section/33.md)
     - [s. 34 Review of decisions on approval or variation](section/34.md)
     - [s. 35 Advice on good practice](section/35.md)
-    - [s. 36 Duty to protect institutional autonomy](section/36.md)
+    - [s. 36 Duty to protect academic freedom](section/36.md)
     - [s. 37 Power of Secretary of State to require a report](section/37.md)
   - Student transfers
     - [s. 38 Duty to monitor etc the provision of arrangements for student transfers](section/38.md)
@@ -104,21 +92,10 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
     - [s. 65 Duty to publish higher education information](section/65.md)
     - [s. 66 Designated body](section/66.md)
     - [s. 67 Power of designated body to charge fees](section/67.md)
-  - Publication
-    - [s. 67A Power for the OfS to publish notices, decisions and reports](section/67A.md)
-    - [s. 67B Publication of decision to conduct or terminate investigation](section/67B.md)
-  - Defamation
-    - [s. 67C Protection from defamation claims](section/67C.md)
   - Financial sustainability
     - [s. 68 Duty to monitor and report on financial sustainability](section/68.md)
   - Efficiency studies etc
     - [s. 69 Studies for improving economy, efficiency and effectiveness](section/69.md)
-  - Freedom of speech
-    - [s. 69A General functions relating to freedom of speech and academic freedom](section/69A.md)
-    - [s. 69B Functions of the OfS in relation to students’ unions](section/69B.md)
-    - [s. 69C Free speech complaints scheme](section/69C.md)
-    - [s. 69D Overseas funding: registered higher education providers](section/69D.md)
-    - [s. 69E Overseas funding: students’ unions](section/69E.md)
   - Funding of the OfS
     - [s. 70 Registration fees](section/70.md)
     - [s. 71 Other fees](section/71.md)
@@ -202,8 +179,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
   - The Director for Fair Access and Participation
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
-  - The Director for Freedom of Speech and Academic Freedom
-    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
   - Terms of appointment and tenure of members
     - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
     - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
@@ -241,27 +216,9 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
 - SCHEDULE 2 The fee limit
   - Introduction
     - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
-  - The credit-based method: basic concepts
-    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
-  - The credit-based method: attachment of credits
-    - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
-  - The credit-based method: maxima and defaults
-    - [Sch. 2 para. 1C](schedule/2/paragraph/1C.md)
-  - The credit-based method: fee limit where credits attached
-    - [Sch. 2 para. 1D](schedule/2/paragraph/1D.md)
-  - The credit-based method: fee limit where credits not attached
-    - [Sch. 2 para. 1E](schedule/2/paragraph/1E.md)
-  - The credit-based method: adjustments for transfer cases
-    - [Sch. 2 para. 1F](schedule/2/paragraph/1F.md)
-  - The credit-based method: supplementary
-    - [Sch. 2 para. 1G](schedule/2/paragraph/1G.md)
-  - The fixed method
-    - [Sch. 2 para. 1H](schedule/2/paragraph/1H.md)
-  - Determination of the per-credit and fixed limits
-    - [Sch. 2 para. 1I](schedule/2/paragraph/1I.md)
-  - Limits where the provider has an access and participation plan
+  - The fee limit where the provider has an access and participation plan
     - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
-  - Limits where the provider has no access and participation plan
+  - The fee limit where the provider has no access and participation plan
     - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
   - Accelerated courses
     - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
@@ -349,20 +306,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2026-09-01
       - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
   - Part 3 Interpretation
     - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
-- SCHEDULE 6A Free speech complaints scheme
-  - [Sch. 6A para. 1 Introductory](schedule/6A/paragraph/1.md)
-  - [Sch. 6A para. 2 Introductory](schedule/6A/paragraph/2.md)
-  - [Sch. 6A para. 3 Introductory](schedule/6A/paragraph/3.md)
-  - [Sch. 6A para. 4 Introductory](schedule/6A/paragraph/4.md)
-  - [Sch. 6A para. 5 Scope of scheme](schedule/6A/paragraph/5.md)
-  - [Sch. 6A para. 6 Decisions and recommendations](schedule/6A/paragraph/6.md)
-  - [Sch. 6A para. 7 Decisions and recommendations](schedule/6A/paragraph/7.md)
-  - [Sch. 6A para. 8 Decisions and recommendations](schedule/6A/paragraph/8.md)
-  - [Sch. 6A para. 9 Fees](schedule/6A/paragraph/9.md)
-  - [Sch. 6A para. 10 Publication](schedule/6A/paragraph/10.md)
-  - [Sch. 6A para. 11 Duty to comply](schedule/6A/paragraph/11.md)
-  - [Sch. 6A para. 12 Review](schedule/6A/paragraph/12.md)
-  - [Sch. 6A para. 13 Defamation](schedule/6A/paragraph/13.md)
 - SCHEDULE 7 Costs recovery: procedure, appeals and recovery etc
   - Introduction
     - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
