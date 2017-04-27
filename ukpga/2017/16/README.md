@@ -2,11 +2,9 @@
 
 2017 c. 16. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
-
-Source: https://www.legislation.gov.uk/ukpga/2017/16/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2017/16/2017-04-27
 
 ## Contents
 
@@ -57,8 +55,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/16/2026-09-30
   - CHAPTER 3 Other provision relating to children’s social care
     - Children’s social care: pre-employment protection of whistle-blowers
       - [s. 32 Pre-employment protection of whistle-blowers](section/32.md)
-    - Children’s social care: use of agency workers
-      - [s. 32A Use of agency workers for children’s social care work](section/32A.md)
     - Combined authority functions relating to children
       - [s. 33 Power to secure proper performance](section/33.md)
   - CHAPTER 4 Relationships, sex and PSHE education
@@ -227,7 +223,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/16/2026-09-30
       - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
       - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
       - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
-      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
