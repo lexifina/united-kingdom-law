@@ -2,9 +2,9 @@
 
 2017 c. 10. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/10/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2017/10/2017-04-27
 
 ## Contents
 
@@ -56,7 +56,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/10/2026-04-01
     - [s. 34 Secondary warehousing regulations](section/34.md)
     - [s. 35 Liability to pay the levy](section/35.md)
     - [s. 36 Levy rates](section/36.md)
-    - [s. 36A Determining levy rate for flavour concentrates](section/36A.md)
   - Exemption etc
     - [s. 37 Small producer exemption](section/37.md)
     - [s. 38 Meaning of “small producer”](section/38.md)
@@ -84,7 +83,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/10/2026-04-01
   - Miscellaneous
     - [s. 57 Regulations: death, incapacity or insolvency of person carrying on a business](section/57.md)
     - [s. 58 Provisional collection of soft drinks industry levy](section/58.md)
-    - [s. 58A Isle of Man: import and export of chargeable soft drinks](section/58A.md)
   - General
     - [s. 59 Interpretation of Part 2](section/59.md)
     - [s. 60 Regulations](section/60.md)
