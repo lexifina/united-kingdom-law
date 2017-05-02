@@ -1,0 +1,107 @@
+# Firearms (Amendment) Act 1997
+
+1997 c. 5. Enacted 1997-02-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-05-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1997/5/2017-05-02
+
+## Contents
+
+- Part I Prohibition of weapons and ammunition and control of small-calibre pistols
+  - General prohibition of small firearms etc.
+    - [s. 1 Extension of s.5 of the 1968 Act to prohibit certain small firearms etc.](section/1.md)
+  - Special exemptions from prohibition of small firearms
+    - [s. 2 Slaughtering instruments.](section/2.md)
+    - [s. 3 Firearms used for humane killing of animals.](section/3.md)
+    - [s. 4 Shot pistols used for shooting vermin.](section/4.md)
+    - [s. 5 Races at athletic meetings.](section/5.md)
+    - [s. 6 Trophies of war.](section/6.md)
+    - [s. 7 Firearms of historic interest.](section/7.md)
+  - Weapons and ammunition used for treating animals
+    - [s. 8 Weapons and ammunition used for treating animals.](section/8.md)
+  - Prohibited ammunition: expanding ammunition and missiles for expanding ammunition
+    - [s. 9 General prohibition of expanding ammunition etc.](section/9.md)
+    - [s. 10 Expanding ammunition etc.: exemptions from prohibition.](section/10.md)
+  - Provisions relating to the control of small-calibre pistols
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+  - Surrender of firearms, etc. and compensation
+    - [s. 15 Surrender of prohibited small firearms and ammunition.](section/15.md)
+    - [s. 16 Payments in respect of prohibited small firearms and ammunition.](section/16.md)
+    - [s. 17 Payments in respect of ancillary equipment.](section/17.md)
+    - [s. 18 Parliamentary control of compensation schemes.](section/18.md)
+- Part II Licensed Pistol Clubs
+  - Preliminary
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+  - Grant, variation, and revocation of licences
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+  - Pistol registers
+    - [s. 28 ................................](section/28.md)
+  - Supplementary
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+- Part III Regulation of firearms and ammunition
+  - Transfers and other events relating to firearms and ammunition
+    - [s. 32 Transfers of firearms etc. to be in person.](section/32.md)
+    - [s. 33 Notification of transfers involving firearms.](section/33.md)
+    - [s. 34 Notification of de-activation, destruction or loss of firearms etc.](section/34.md)
+    - [s. 35 Notification of events taking place outside Great Britain involving firearms etc.](section/35.md)
+    - [s. 35A Permitted electronic means](section/35A.md)
+    - [s. 36 Penalty for offences under ss. 32 to 35.](section/36.md)
+  - Firearm and shot gun certificates
+    - [s. 37 Applications for certificates and referees.](section/37.md)
+    - [s. 38 Grant of firearm certificates.](section/38.md)
+    - [s. 39 Computerised register of firearms and shot guns and their holders](section/39.md)
+    - [s. 40 Revocation of certificates.](section/40.md)
+    - [s. 41 Appeals.](section/41.md)
+  - Registered firearms dealers
+    - [s. 42 Authorised dealing with firearms by registered firearms dealers.](section/42.md)
+  - Miscellaneous
+    - [s. 43 Power of search with warrant.](section/43.md)
+    - [s. 44 Firearm certificates for certain firearms used for target shooting: special conditions.](section/44.md)
+    - [s. 45 Approved rifle clubs and muzzle-loading pistol clubs.](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 Museums eligible for a museums firearm licence.](section/47.md)
+    - [s. 48 Firearms powered by compressed carbon dioxide.](section/48.md)
+- Part IV Final provisions
+  - [s. 49 Financial provisions.](section/49.md)
+  - [s. 50 Interpretation and supplementary provisions.](section/50.md)
+  - [s. 51 Power to make transitional, consequential etc. provisions.](section/51.md)
+  - [s. 52 Minor and consequential amendments and repeals.](section/52.md)
+  - [s. 53 Short title, commencement and extent.](section/53.md)
+- SCHEDULE 1
+- SCHEDULE 2 Consequential and minor amendments
+  - Firearms Act 1968 (c.27)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Firearms (Amendment) Act 1988 (c.45)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Repeals
