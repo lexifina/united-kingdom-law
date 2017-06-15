@@ -1,0 +1,134 @@
+# Oil and Gas (Enterprise) Act 1982
+
+1982 c. 23. Enacted 1982-06-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-06-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/23
+
+Source: https://www.legislation.gov.uk/ukpga/1982/23/2017-06-15
+
+## Contents
+
+- Part I Oil
+  - [s. 1 ................................](section/1.md)
+  - The National Oil Account
+    - [s. 8 Abolition of the National Oil Account.](section/8.md)
+- Part II Gas
+  - The British Gas Corporation
+    - [s. 9 ................................](section/9.md)
+    - [s. 12 ................................](section/12.md)
+- Part III Petroleum Licences
+  - [s. 18 Amendment of enabling powers etc.](section/18.md)
+  - [s. 19 Modification of model clauses in existing licences.](section/19.md)
+  - [s. 20 Modification of model clauses for incorporation in future licences.](section/20.md)
+- Part IV Offshore Activities
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 Application of criminal law etc,](section/22.md)
+  - [s. 23 Application of civil law.](section/23.md)
+  - [s. 24 Extended meaning of “offshore installation” in the 1971 Act.](section/24.md)
+  - [s. 25 Extended meaning of “pipe-line” etc. in the 1975 Act.](section/25.md)
+  - [s. 26 Extended application of the Offshore Petroleum Development (Scotland) Act 1975.](section/26.md)
+  - [s. 27 Prosecutions.](section/27.md)
+  - [s. 28 Interpretation of Part IV.](section/28.md)
+- Part V Miscellaneous and General
+  - [s. 29 Northern Ireland and Isle of Man shares of petroleum revenue.](section/29.md)
+  - [s. 30 Payments to petroleum production licence holders etc.](section/30.md)
+  - [s. 31 Participation agreements as respects onshore petroleum.](section/31.md)
+  - [s. 32 Provisions as to regulations, orders, etc.](section/32.md)
+  - [s. 33 Stamp duty.](section/33.md)
+  - [s. 34 Application of Trustee Investments Act 1961.](section/34.md)
+  - [s. 35 Financial provisions.](section/35.md)
+  - [s. 36 General interpretation.](section/36.md)
+  - [s. 37 Amendments and repeals](section/37.md)
+  - [s. 38 Short title, commencement and extent.](section/38.md)
+- SCHEDULE 1 Provisions as to transfers of property rights and liabilities
+  - Allocation of property, rights and liabilities
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Rights and liabilities under contracts of employment
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Right to production of documents of title
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Perfection of vesting of certain property or rights
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Proof of title by certificate
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Restrictions on dealing with certain land
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Construction of agreements, licences, statutory provisions and documents
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Third parties affected by vesting provisions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Petroleum Production Licences: Modification of Model Clauses
+  - Part II of Schedule 2 to the 1975 Act
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part II of Schedule 3 to the 1975 Act
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Schedule 4 to the 1976 Regulations
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Schedule 5 to the 1976 Regulations as originally made or as amended by the 1978 Regulations
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Schedule 5 to the 1976 Regulations as amended by the 1978 and 1980 Regulations
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - The Continental Shelf Act 1964
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The General Rate Act 1967
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Mineral Workings (Offshore Installations) Act 1971
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Social Security Act 1975
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Oil Taxation Act 1975
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Sex Discrimination Act 1975
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - The Employment Protection Act 1975
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - The Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - The Fair Employment (Northern Ireland) Act 1976
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Race Relations Act 1976
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - The Energy Act 1976
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - The Sex Discrimination (Northern Ireland) Order 1976
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - The Patents Act 1977
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+  - The Employment Protection (Consolidation) Act 1978
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+  - The Wages Councils Act 1979
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+  - The Civil Jurisdiction and Judgements Act 1982
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+  - The Social Security and Housing Benefits Act 1982
+    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+  - Trade Union and Labour Relations (Consolidation) Act 1992 (c.52)
+    - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+  - The Employment Rights Act 1996
+    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+- SCHEDULE 4 REPEALS
