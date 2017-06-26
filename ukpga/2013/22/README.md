@@ -2,9 +2,9 @@
 
 2013 c. 22. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2015-11-03, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-06-26, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-11-03
+Source: https://www.legislation.gov.uk/ukpga/2013/22/2017-06-26
 
 ## Contents
 
@@ -272,6 +272,10 @@ Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-11-03
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
     - Powers exercisable under warrant
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Part 5A Designations: Powers of general customs officials
+    - [Sch. 5 para. 18A NCA officers](schedule/5/paragraph/18A.md)
+    - [Sch. 5 para. 18B Powers only exercisable in relation to customs matters](schedule/5/paragraph/18B.md)
+    - [Sch. 5 para. 18C Powers exercisable under warrant](schedule/5/paragraph/18C.md)
   - Part 6 Designations: powers of immigration officers
     - NCA officers
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
@@ -1450,6 +1454,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-11-03
       - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
       - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
       - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+      - [Sch. 17 para. 26A](schedule/17/paragraph/26A.md)
+      - [Sch. 17 para. 26An1](schedule/17/paragraph/26An1.md)
       - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
     - Ancillary offences
       - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
@@ -1617,6 +1623,10 @@ Source: https://www.legislation.gov.uk/ukpga/2013/22/2015-11-03
     - Criminal Justice and Public Order Act 1994
       - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
       - [Sch. 21 para. 42](schedule/21/paragraph/42.md)
+      - [Sch. 21 para. 42A](schedule/21/paragraph/42A.md)
+      - [Sch. 21 para. 42B](schedule/21/paragraph/42B.md)
+      - [Sch. 21 para. 42C](schedule/21/paragraph/42C.md)
+      - [Sch. 21 para. 42D](schedule/21/paragraph/42D.md)
       - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
   - Part 3 Scotland
     - Criminal Law (Consolidation) (Scotland) Act 1995
