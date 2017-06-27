@@ -2,9 +2,9 @@
 
 2017 c. 18. Enacted 2017-04-27.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2017-06-27, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/18` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/18/enacted
+Source: https://www.legislation.gov.uk/ukpga/2017/18/2017-06-27
 
 ## Contents
 
