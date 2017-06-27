@@ -2,9 +2,9 @@
 
 2015 c. 9. Enacted 2015-03-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-06-27, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/9/2017-04-27
+Source: https://www.legislation.gov.uk/ukpga/2015/9/2017-06-27
 
 ## Contents
 
@@ -116,6 +116,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/9/2017-04-27
     - [s. 78 Knives and offensive weapons in prisons](section/78.md)
     - [s. 79 Throwing articles into prisons](section/79.md)
     - [s. 80 Prevention or restriction of use of communication devices by prisoners etc](section/80.md)
+    - [s. 80A Prevention or restriction of use of communication devices for drug dealing](section/80A.md)
     - [s. 81 Preparation or training abroad for terrorism](section/81.md)
     - [s. 82 Approval of draft decisions under Article 352 of TFEU relating to serious crime](section/82.md)
     - [s. 83 Codes of practice about investigatory powers: journalistic sources](section/83.md)
