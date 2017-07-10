@@ -1,0 +1,182 @@
+# Child Support, Pensions and Social Security Act (Northern Ireland) 2000
+
+nia/2000/4. Enacted 2000-11-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-07-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 33 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2000/4
+
+Source: https://www.legislation.gov.uk/nia/2000/4/2017-07-10
+
+## Contents
+
+- PART I CHILD SUPPORT
+  - Maintenance calculations and default and interim maintenance decisions
+    - [s. 1 Maintenance calculations and terminology](section/1.md)
+    - [s. 2 Applications under Article 7 of the Child Support Order](section/2.md)
+    - [s. 3 Applications by persons claiming or receiving benefit](section/3.md)
+    - [s. 4 Default and interim maintenance decisions](section/4.md)
+  - Applications for a variation
+    - [s. 5 Departure from usual rules for calculating maintenance](section/5.md)
+    - [s. 7 Variations: revision and supersession](section/7.md)
+  - Revision and supersession of decisions
+    - [s. 8 Revision of decisions](section/8.md)
+    - [s. 9 Decisions superseding earlier decisions](section/9.md)
+  - Appeals
+    - [s. 10 Appeals to appeal tribunals](section/10.md)
+    - [s. 11 Redetermination of appeals](section/11.md)
+  - Information
+    - [s. 12 Information required by the Department](section/12.md)
+    - [s. 13 Information - offences](section/13.md)
+    - [s. 14 Inspectors](section/14.md)
+  - Parentage
+    - [s. 15 Presumption of parentage in child support cases](section/15.md)
+  - Disqualification from driving
+    - [s. 16 Disqualification from driving](section/16.md)
+  - Financial penalties
+    - [s. 17 Financial penalties](section/17.md)
+    - [s. 18 Reduced benefit decisions](section/18.md)
+  - Miscellaneous
+    - [s. 19 Voluntary payments](section/19.md)
+    - [s. 20 Recovery of child support maintenance by deduction from benefit](section/20.md)
+    - [s. 21 Jurisdiction](section/21.md)
+    - [s. 22 Abolition of the child maintenance bonus](section/22.md)
+    - [s. 23 Periodical reviews](section/23.md)
+    - [s. 24 Regulations](section/24.md)
+    - [s. 26 Temporary compensation payment scheme](section/26.md)
+    - [s. 27 Pilot schemes](section/27.md)
+    - [s. 28 Transitional provisions, savings, etc.](section/28.md)
+- PART II PENSIONS
+  - CHAPTER I STATE PENSIONS
+    - State second pension
+      - [s. 29 Earnings from which pension derived](section/29.md)
+      - [s. 30 Calculation](section/30.md)
+      - [s. 31 Calculation of Category B retirement pension](section/31.md)
+      - [s. 32 Revaluation](section/32.md)
+      - [s. 33 Supplementary](section/33.md)
+    - Earnings factors
+      - [s. 34 Modification of earnings factors](section/34.md)
+    - Preservation of rights in respect of additional pensions
+      - [s. 35 Preservation of rights in respect of additional pensions](section/35.md)
+    - Other provisions
+      - [s. 36 Home responsibilities protection](section/36.md)
+      - [s. 37 Sharing of state scheme rights](section/37.md)
+      - [s. 38 Disclosure of state pension information](section/38.md)
+  - CHAPTER II OCCUPATIONAL AND PERSONAL PENSION SCHEMES
+    - Selection of trustees and of directors of corporate trustees
+      - [s. 39 Member-nominated trustees](section/39.md)
+      - [s. 40 Corporate trustees](section/40.md)
+      - [s. 41 Employer’s proposals for selection of trustees or directors](section/41.md)
+      - [s. 42 Non-compliance in relation to arrangements or proposals](section/42.md)
+    - Winding-up of schemes
+      - [s. 43 Information to be given to the Authority](section/43.md)
+      - [s. 44 Modification of scheme to secure winding-up](section/44.md)
+      - [s. 45 Reports about winding-up](section/45.md)
+      - [s. 46 Directions for facilitating winding-up](section/46.md)
+    - Other provisions
+      - [s. 47 Restriction on index-linking where annuity tied to investments](section/47.md)
+      - [s. 48 Information for members of schemes, etc.](section/48.md)
+      - [s. 49 Jurisdiction of the Pensions Ombudsman](section/49.md)
+      - [s. 51 Prohibition on different rules for overseas residents, etc.](section/51.md)
+      - [s. 52 Miscellaneous amendments and alternative to anti-franking rules](section/52.md)
+- PART III SOCIAL SECURITY
+  - Loss of benefit
+    - [s. 53 Loss of benefit for breach of community order](section/53.md)
+    - [s. 54 Loss of joint-claim jobseeker’s allowance](section/54.md)
+    - [s. 55 Information provision](section/55.md)
+    - [s. 56 Loss of benefit regulations](section/56.md)
+    - [s. 57 Appeals relating to loss of benefit](section/57.md)
+  - Housing benefit
+    - [s. 59 Housing benefit: revisions and appeals](section/59.md)
+    - [s. 60 Discretionary financial assistance with housing](section/60.md)
+    - [s. 61 Grants towards cost of discretionary housing payments](section/61.md)
+    - [s. 62 Recovery of housing benefit](section/62.md)
+  - Child benefit
+    - [s. 63 Child benefit disregards](section/63.md)
+  - Social Security Advisory Committee
+    - [s. 64 Social Security Advisory Committee](section/64.md)
+- PART IV MISCELLANEOUS AND SUPPLEMENTAL
+  - Miscellaneous
+    - [s. 65 Tests for determining paternity](section/65.md)
+    - [s. 66 Declarations of status](section/66.md)
+  - Supplemental
+    - [s. 68 Commencement and transitional provisions](section/68.md)
+    - [s. 69 Short title and interpretation](section/69.md)
+- SCHEDULE 5 PENSIONS: MISCELLANEOUS AMENDMENTS AND ALTERNATIVE TO ANTI-FRANKING RULES
+  - PART I MISCELLANEOUS AMENDMENTS
+    - Guaranteed minimum for widows and widowers
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Transfer of rights to overseas personal pension schemes
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Protected rights
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Use of cash equivalent for annuity
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Transfer values where pension in payment
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Information about contracting-out
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Trustees of schemes
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Conditions of payment of surplus to employer
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Duties relating to statements of contributions
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Orders and regulations
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - PART II ALTERNATIVE TO ANTI-FRANKING RULES
+    - Cases in which alternative applies
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Alternative rules
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Relationship between alternative rules and other rules
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Supplemental
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 7 HOUSING BENEFIT: REVISIONS AND APPEALS
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Decisions on claims for benefit
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Revision of decisions
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Decisions superseding earlier decisions
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Use of experts by relevant authorities
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Appeal to appeal tribunal
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Redetermination, etc. of appeals by tribunal
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Appeal from tribunal to Commissioner
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Appeal from Commissioner on point of law
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Procedure
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Finality of decisions
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Matters arising as respects decisions
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Suspension in prescribed circumstances
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Suspension for failure to furnish information, etc.
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Termination in cases of a failure to furnish information, etc.
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Decisions involving issues that arise on appeal in other cases
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Appeals involving issues that arise on appeal in other cases
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Restrictions on entitlement to benefit in certain cases of error
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Correction of errors and setting aside of decisions
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Regulations
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Consequential amendment of the Administration Act
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Consequential amendments of the 1998 Order
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Interpretation
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
