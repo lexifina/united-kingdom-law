@@ -2,9 +2,9 @@
 
 2010 c. 29. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-02-23, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-07-14, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/29/2017-02-23
+Source: https://www.legislation.gov.uk/ukpga/2010/29/2017-07-14
 
 ## Contents
 
@@ -33,13 +33,17 @@ Source: https://www.legislation.gov.uk/ukpga/2010/29/2017-02-23
     - [s. 19 Local authorities: investigations](section/19.md)
     - [s. 20 Ministerial directions](section/20.md)
     - [s. 21 Lead local authorities: duty to maintain a register](section/21.md)
-  - 4. Regional Flood and Coastal Committees
+  - 4. Regional Flood and Coastal Committees for regions in England
     - [s. 22 Establishment](section/22.md)
     - [s. 23 Consultation and consent](section/23.md)
     - [s. 24 Membership](section/24.md)
     - [s. 25 Money](section/25.md)
     - [s. 26 “The Minister”](section/26.md)
     - [s. 26A “The appropriate agency”](section/26A.md)
+  - 4A. Flood and Coastal Erosion Committee for Wales
+    - [s. 26B Establishment and functions](section/26B.md)
+    - [s. 26C Constitution](section/26C.md)
+    - [s. 26D Payments relating to members](section/26D.md)
   - 5. General
     - [s. 27 Sustainable development](section/27.md)
     - [s. 28 Power to make further amendments](section/28.md)
