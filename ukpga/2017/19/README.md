@@ -2,9 +2,9 @@
 
 2017 c. 19. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-04-27, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2017-08-16, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/19` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/19/2017-04-27
+Source: https://www.legislation.gov.uk/ukpga/2017/19/2017-08-16
 
 ## Contents
 
