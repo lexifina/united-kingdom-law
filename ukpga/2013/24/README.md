@@ -2,19 +2,20 @@
 
 2013 c. 24. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-04-07, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/24` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-08-18, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/24/2017-04-07
+Source: https://www.legislation.gov.uk/ukpga/2013/24/2017-08-18
 
 ## Contents
 
 - PART 1 UK Green Investment Bank
   - [s. 1 The green purposes](section/1.md)
-  - [s. 2 Designation of the UK Green Investment Bank](section/2.md)
+  - [s. 2 Interpretation](section/2.md)
   - [s. 3 Alteration of the objects of the UK Green Investment Bank](section/3.md)
   - [s. 4 Financial assistance](section/4.md)
   - [s. 5 Accounts, reports and payments to directors](section/5.md)
   - [s. 6 Documents to be laid before Parliament](section/6.md)
+  - [s. 6A Report on disposal of Crown’s shares in UK Green Investment Bank company](section/6A.md)
 - PART 2 Employment
   - Conciliation
     - [s. 7 Conciliation before institution of proceedings](section/7.md)
