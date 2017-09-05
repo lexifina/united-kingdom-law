@@ -1,0 +1,282 @@
+# Transport Act 1981
+
+1981 c. 56. Enacted 1981-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-09-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/56
+
+Source: https://www.legislation.gov.uk/ukpga/1981/56/2017-09-05
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+- Part II Reconstitution of British Transport Docks Board
+  - [s. 5 Associated British Ports and its Holding Company.](section/5.md)
+  - [s. 6 The financial structure.](section/6.md)
+  - [s. 7 Constitution of Associated British Ports, etc.](section/7.md)
+  - [s. 8 Powers of Associated British Ports.](section/8.md)
+  - [s. 9 General duties of Associated British Ports.](section/9.md)
+  - [s. 10 Provisions of the Companies Acts applying to Associated British Ports.](section/10.md)
+  - [s. 11 Payments to Holding Company out of profits of Associated British Ports.](section/11.md)
+  - [s. 12 Documents to be kept available for inspection.](section/12.md)
+  - [s. 13 Transfer of functions of Holding Company.](section/13.md)
+  - [s. 14 Provisions supplementary to ss. 5 to 13.](section/14.md)
+- Part III Dissolution of National Ports Council and Amendment of the Harbours Act 1964
+  - [s. 15 Dissolution of National Ports Council.](section/15.md)
+  - [s. 16 Levy of contributions from harbour authorities.](section/16.md)
+  - [s. 17 Charging schemes.](section/17.md)
+  - [s. 18 Amendments of the Harbours Act 1964.](section/18.md)
+- Part IV
+  - [s. 1931. ................................](section/1931.md)
+- Part V Miscellaneous and General
+  - Miscellaneous
+    - [s. 32 Road humps.](section/32.md)
+    - [s. 3334. ................................](section/3334.md)
+    - [s. 35 Charges for licensing of cabs and cab drivers.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 Railway etc. byelaws: increase in penalties.](section/37.md)
+    - [s. 38 Fires caused by railway engines.](section/38.md)
+    - [s. 39 Amendment of Schedules 7 and 8 to the Public Passengers Vehicles Act 1981.](section/39.md)
+  - General
+    - [s. 40 Repeals.](section/40.md)
+    - [s. 41 Northern Ireland.](section/41.md)
+    - [s. 42 Expenses.](section/42.md)
+    - [s. 43 Short title.](section/43.md)
+- SCHEDULE 1
+  - Pensions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Transport police
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Charges
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Provision of services for related companies
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Leases of vessels
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Repeal of powers to provide shipping services and to provide and manage hotels
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Local enactments
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Further Provisions with respect to the Constitution and Proceedings of Associated British Ports and Related Matters
+  - Preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Remuneration and other payments
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Resignation and vacation of office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Proceedings of the directors
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Chairman and deputy chairman
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Committees of directors
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Executive directors
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Secretary
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Auditors
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Validity of proceedings notwithstanding formal defects
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Powers of Associated British Ports
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Operation of harbours and provision of port facilities
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Consignment and carriage of goods
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Activities as ship’s agent
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Storage of goods
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Development of land
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Pipelines
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Incidental amenities and facilities
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Other activities
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Acquisition of further harbour undertakings
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Disposal and discontinuance of parts of Associated British Ports’ undertaking, etc.
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Power to promote and oppose Bills
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Training, education and research
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Provision of accommodation, etc.
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Pensions
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Acquisition of land
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Compulsory purchase of land
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Charges
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Borrowing and guarantees
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Restrictions on certain descriptions of financial arrangement
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - General supplementary powers
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Subsidiaries
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - Working agreements, etc.
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - Powers in relation to public transport authorities
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Interpretation
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+- SCHEDULE 4 Provisions Supplementing Sections 5 to 13
+  - Part I Supplementary and Consequential Provisions
+    - Provisions of Harbours Act 1964 and Docks and Harbours Act 1966 applying to Associated British Ports
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Provisions of Transport Act 1962 and Transport Act 1968 continuing to apply to Associated British Ports
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Restriction on cross-eligibility under existing pensions orders
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Pensions orders made on or after the appointed day
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Appointment of members of Local Boards
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Payments for making up of private streets
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Taxation
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Application of Trustee Investments Act 1961 to securities of the Holding Company
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Wholly-owned subsidiaries of Associated British Ports to be treated as statutory undertakers
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part II Transitional Provisions and Savings
+    - Directors of Associated British Ports
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Chairman and deputy chairman
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Accounts and annual report
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Profits attributable to periods before the appointed day
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Charges
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Debts owed by harbour authorities to Secretary of State
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Instruments issued by the British Transport Docks Board
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Local and private enactments
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+- SCHEDULE 5 PROVISIONS SUPPLEMENTING SECTIONS 15 TO 17
+  - Part I Further Provisions Relating to the Dissolution of the National Ports Council
+    - Duty of Council to facilitate the carrying into effect of section 15 and this Schedule
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Final accounts of the Council
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Disposal of confidential documents belonging to the Council
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Continuance of Council until residual functions completed to Secretary of State’s satisfaction
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Modification of agreements and documents
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Legal remedies and pending proceedings
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Compensation for loss of office
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Compensation for loss of employment
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Pensions
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Transfer to the Secretary of State of certain of the Council’s former functions
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Information for the Secretary of State
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Pending proceedings for harbour reorganisation scheme
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Textual amendments to facilitate repeals
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Power to adjust local enactments
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part II Further Provisions With Respect to Charging Schemes
+    - Preliminary
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Procedure for making charging scheme
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Supplementary and incidental provisions
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Information
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Repayments and avoidance of over-payments
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 AMENDMENTS OF THE HARBOURS ACT 1964
+  - Abolition of power to make certain grants for harbour works, etc.
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Consolidation, etc. of local enactments by harbour revision orders
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Ancillary provisions in harbour revision and empowerment orders and harbour reorganisation schemes
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Harbour revision and empowerment orders not subject to special parliamentary procedure in certain cases
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Power to reduce Ministerial appointments to harbour authorities
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Secretary of State’s power to make harbour reorganisation schemes of his own motion
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Abolition of power to make control of movement orders
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Ship, passenger and goods dues and other charges
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Abolition of power to revise certain charges
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Accounts and reports relating to harbour activities and associated activities
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Inquiries
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Abolition of preliminary consideration of application for harbour revision or empowerment order
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Penalties for offences
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+- SCHEDULE 7 ...
+- SCHEDULE 8 ...
+- SCHEDULE 9 Consequential and Minor Amendments of Road Traffic Act 1972 and Section 56 of the Criminal Justice Act 1967
+  - Part I ...
+  - Part II ...
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+- SCHEDULE 10 Road Humps
+  - Part I Provision for England and Wales
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Part II Provision for Scotland
+    - Construction of road humps by highway authority
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Additional powers of the Secretary of State
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Consultation and local inquiries
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Regulations concerning construction and maintenance of road humps
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Status of road humps
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Interpretation and construction
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- SCHEDULE 11
+- SCHEDULE 12 Repeals
+  - Part I Repeals Consequential on Part II
+  - Part II Repeals Consequential on Part II
+  - Part III Repeals Consequential on Parts IV and V
