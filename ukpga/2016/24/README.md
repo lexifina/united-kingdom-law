@@ -2,9 +2,9 @@
 
 2016 c. 24. Enacted 2016-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-10-07, one file per provision. Earlier versions, from 2016-04-06, are in the history before it: `git log -- ukpga/2016/24` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. Earlier versions, from 2016-04-06, are in the history before it: `git log -- ukpga/2016/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/24/2017-10-07
+Source: https://www.legislation.gov.uk/ukpga/2016/24/2017-11-16
 
 ## Contents
 
@@ -697,9 +697,12 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2017-10-07
       - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
     - “DOTAS arrangements”
       - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
-    - “Disclosable VAT arrangements”
+    - “Disclosable Schedule 11A VAT arrangements”
+      - [Sch. 18 para. 8A](schedule/18/paragraph/8A.md)
       - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
-    - Paragraphs 8 and 9: “failure to comply”
+    - “Disclosable indirect tax arrangements”
+      - [Sch. 18 para. 9A](schedule/18/paragraph/9A.md)
+    - Paragraphs 8 to 9A: “failure to comply”
       - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
     - “Relevant defeat”
       - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
@@ -713,6 +716,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2017-10-07
       - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
     - Condition E
       - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - Condition F
+      - [Sch. 18 para. 16A](schedule/18/paragraph/16A.md)
   - PART 3 Annual information notices and naming
     - Annual information notices
       - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
@@ -737,7 +742,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2017-10-07
       - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
     - “Claim” for relief
       - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
-    - VAT
+    - VAT and indirect taxes
       - [Sch. 18 para. 28](schedule/18/paragraph/28.md)
     - Power to amend
       - [Sch. 18 para. 29](schedule/18/paragraph/29.md)
@@ -987,6 +992,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2017-10-07
       - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
     - Restriction on imposition of multiple asset-based penalties in relation to the same asset
       - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+      - [Sch. 22 para. 6A](schedule/22/paragraph/6A.md)
   - PART 2 Amount of penalty
     - Standard amount of asset-based penalty
       - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
