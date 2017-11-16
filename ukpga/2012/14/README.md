@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-09-15, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2016-09-15
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2017-11-16
 
 ## Contents
 
@@ -189,7 +189,12 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2016-09-15
   - CHAPTER 9 Relief for BLAGAB trade losses etc
     - The reliefs
       - [s. 123 Relief for BLAGAB trade losses against total profits](section/123.md)
-      - [s. 124 Carry forward of BLAGAB trade losses against subsequent profits](section/124.md)
+      - [s. 124 Carry forward of pre-1 April 2017 BLAGAB trade losses against subsequent profits](section/124.md)
+      - [s. 124A Carry forward of post-1 April 2017 BLAGAB trade losses against subsequent profits](section/124A.md)
+      - [s. 124B Excess carried forward post-1 April 2017 losses: relief against total profits](section/124B.md)
+      - [s. 124C Further carry forward against subsequent profits of post-1 April 2017 loss not fully used](section/124C.md)
+      - [s. 124D Restriction on deductions from BLAGAB trade profits](section/124D.md)
+      - [s. 124E Section 124D: shock losses excluded from the restriction](section/124E.md)
       - [s. 125 Group relief](section/125.md)
     - Restrictions
       - [s. 126 Restrictions in respect of non-trading deficit](section/126.md)
