@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2017-11-16
 
 ## Contents
 
@@ -68,7 +68,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
   - [s. 46 Remote gaming duty: freeplay](section/46.md)
   - [s. 47 Tobacco products manufacturing machinery: licensing scheme](section/47.md)
 - PART 3 Fulfilment businesses
-  - [s. 48 Carrying on an imported goods fulfilment business](section/48.md)
+  - [s. 48 Carrying on a third country goods fulfilment business](section/48.md)
   - [s. 49 Requirement for approval](section/49.md)
   - [s. 50 Register of approved persons](section/50.md)
   - [s. 51 Regulations relating to approval, registration etc.](section/51.md)
@@ -668,9 +668,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
   - PART 1 Application of Part 7A of ITEPA 2003
     - Relevant step
       - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
-      - [Sch. 11 para. 1A](schedule/11/paragraph/1A.md)
-      - [Sch. 11 para. 1B](schedule/11/paragraph/1B.md)
-    - Meaning of “loan” and “quasi loan”
+    - Meaning of “loan”, “quasi-loan” and “approved repayment date”
       - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
     - Meaning of “outstanding”: loans
       - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
@@ -696,16 +694,16 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
     - Quasi-loans made in a depreciating currency
       - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
       - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
-    - ...
+    - Meaning of “approved fixed term loan”
       - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
-  - PART 2 Accelerated payments
+  - PART 2 Approval of a qualifying loan etc.
     - Application to HMRC
       - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
     - Qualifying payments condition
       - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
     - Commercial terms condition
       - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
-    - ...
+    - Accelerated payments
       - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
       - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
   - PART 3 Exclusions
@@ -726,25 +724,10 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
       - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
     - Acquisition of unlisted employer shares
       - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
-    - Exclusion for relevant step within paragraph 1A where initial step excluded
-      - [Sch. 11 para. 35n1](schedule/11/paragraph/35n1.md)
-  - PART 3A Duty to provide loan charge information to HMRC
-    - [Sch. 11 para. 35A Duty to provide loan charge information](schedule/11/paragraph/35A.md)
-    - [Sch. 11 para. 35B Duty to provide loan charge information](schedule/11/paragraph/35B.md)
-    - [Sch. 11 para. 35C Duty to provide loan charge information](schedule/11/paragraph/35C.md)
-    - [Sch. 11 para. 35D “Loan charge information”](schedule/11/paragraph/35D.md)
-    - [Sch. 11 para. 35E Power to amend paragraph 35D](schedule/11/paragraph/35E.md)
-    - [Sch. 11 para. 35F Penalties for failure to comply](schedule/11/paragraph/35F.md)
-    - [Sch. 11 para. 35G Penalties for inaccurate information and documents](schedule/11/paragraph/35G.md)
-    - [Sch. 11 para. 35H Reasonable excuse](schedule/11/paragraph/35H.md)
-    - [Sch. 11 para. 35I Assessment of a penalty](schedule/11/paragraph/35I.md)
-    - [Sch. 11 para. 35J Appeals](schedule/11/paragraph/35J.md)
-    - [Sch. 11 para. 35K Enforcement](schedule/11/paragraph/35K.md)
   - PART 4 Supplementary provision
-    - Duty to provide loan charge information to B
+    - Duty to provide loan balance information to B
       - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
     - Double taxation
-      - [Sch. 11 para. 36A](schedule/11/paragraph/36A.md)
       - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
       - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
     - Remittance basis
@@ -764,8 +747,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
 - SCHEDULE 12 Trading income provided through third parties: loans etc outstanding on 5 April 2019
   - Application of sections 23A to 23H of ITTOIA 2005 in relation to loans etc. outstanding on 5 April 2019
     - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
-    - [Sch. 12 para. 1A](schedule/12/paragraph/1A.md)
-  - Meaning of “loan” and “quasi loan”
+  - Meaning of “loan”, “quasi-loan” and “approved repayment date”
     - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
   - Meaning of “outstanding”: loans
     - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
@@ -798,22 +780,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
   - Accelerated payments
     - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
     - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
-  - Duty to provide loan charge information to HMRC
-    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
-    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
-  - “Loan charge information”
-    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
-    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
-  - Duty to provide loan charge information: penalties
-    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
-    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
-  - Penalties under paragraph 25: reasonable excuse
-    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
-  - Penalties under paragraphs 25 and 26: assessment, appeals and enforcement
-    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
-    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
-    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
-- SCHEDULE 13 Imported goods fulfilment businesses: penalty
+- SCHEDULE 13 Third country goods fulfilment businesses: penalty
   - Liability to penalty
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
   - Amount of penalty
@@ -1076,8 +1043,6 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
     - Commencement
       - [Sch. 16 para. 62](schedule/16/paragraph/62.md)
 - SCHEDULE 17 Disclosure of tax avoidance schemes: VAT and other indirect taxes
-  - PART A1 Introduction
-    - [Sch. 17 para. A1](schedule/17/paragraph/A1.md)
   - PART 1 Duties to disclose avoidance schemes etc
     - Preliminary: application of definitions
       - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
@@ -1114,27 +1079,17 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
       - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
     - Duty of promoters to provide updated information
       - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
-    - Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable
-      - [Sch. 17 para. 21A](schedule/17/paragraph/21A.md)
-    - Allocation of reference number to arrangements
+    - Arrangements to be given reference number
       - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
-    - Duty of HMRC to notify persons of reference number
-      - [Sch. 17 para. 22A](schedule/17/paragraph/22A.md)
-    - Right of appeal: paragraph 22(3) case
-      - [Sch. 17 para. 22B](schedule/17/paragraph/22B.md)
-    - Duty to provide further information requested by HMRC: paragraph 22(3) case
-      - [Sch. 17 para. 22C](schedule/17/paragraph/22C.md)
-    - Duty of promoter to notify client of number: paragraph 22(2) case
+    - Duty of promoter to notify client of number
       - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
-    - Duty to notify client of reference number: paragraph 22(3) case
-      - [Sch. 17 para. 23A](schedule/17/paragraph/23A.md)
     - Duty of client to notify parties of number
       - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
-    - Duty of client to provide information ...
+    - Duty of client to provide information to promoter
       - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
-    - Duty of parties to notify HMRC of reference number etc
+    - Duty of parties to notifiable arrangements to notify HMRC of number, etc
       - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
-    - Duty ... to provide details of clients
+    - Duty of promoter to provide details of clients
       - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
     - Enquiry following disclosure of client details
       - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
@@ -1155,7 +1110,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
     - Power to vary certain relevant periods
       - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
   - PART 2 Penalties
-    - Penalty for failure to comply with duties under Part 1 ...
+    - Penalty for failure to comply with duties under Part 1 (apart from paragraph 26)
       - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
       - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
       - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
@@ -1163,9 +1118,9 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-04-01
       - [Sch. 17 para. 43](schedule/17/paragraph/43.md)
     - Penalty for failure to comply with duties under paragraph 26
       - [Sch. 17 para. 44](schedule/17/paragraph/44.md)
-    - ...
+    - Penalty proceedings before First-tier tribunal
       - [Sch. 17 para. 45](schedule/17/paragraph/45.md)
-    - Assessment of penalties ...
+    - Assessment of penalties under paragraph 39(1)(b) or 44
       - [Sch. 17 para. 46](schedule/17/paragraph/46.md)
       - [Sch. 17 para. 47](schedule/17/paragraph/47.md)
     - Reasonable excuse
