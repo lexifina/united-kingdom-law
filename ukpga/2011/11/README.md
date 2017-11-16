@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-07-31, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2017-07-31
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2017-11-16
 
 ## Contents
 
@@ -937,6 +937,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2017-07-31
       - [Sch. 23 para. 13B](schedule/23/paragraph/13B.md)
     - Business intermediaries
       - [Sch. 23 para. 13C](schedule/23/paragraph/13C.md)
+    - Money service businesses
+      - [Sch. 23 para. 13D](schedule/23/paragraph/13D.md)
     - Payments derived from securities
       - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
       - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
