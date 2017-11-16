@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-06-26, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2017-06-26
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2017-11-16
 
 ## Contents
 
@@ -217,7 +217,9 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2017-06-26
     - [s. 157 Profits on ordinary gaming](section/157.md)
     - [s. 158 Profits on retained prizes](section/158.md)
     - [s. 159 Gaming payments](section/159.md)
+    - [s. 159A Play using the results of successful freeplay](section/159A.md)
     - [s. 160 Prizes](section/160.md)
+    - [s. 160A Prizes: freeplay](section/160A.md)
     - [s. 161 Exemptions](section/161.md)
     - [s. 162 Liability to pay](section/162.md)
   - CHAPTER 4 General
@@ -391,7 +393,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2017-06-26
     - [s. 280 Penalties for offences](section/280.md)
   - Supplemental
     - [s. 281 Partnerships](section/281.md)
-    - [s. 281A VAT](section/281A.md)
+    - [s. 281A VAT and other indirect taxes](section/281A.md)
     - [s. 282 Regulations under this Part](section/282.md)
     - [s. 283 Interpretation of this Part](section/283.md)
 - PART 6 Other provisions
@@ -1441,9 +1443,11 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2017-06-26
       - [Sch. 34A para. 25](schedule/34A/paragraph/25.md)
     - “DOTAS arrangements”
       - [Sch. 34A para. 26](schedule/34A/paragraph/26.md)
-    - “Disclosable VAT arrangements”
+    - “Disclosable VAT or other indirect tax arrangements”
+      - [Sch. 34A para. 26A](schedule/34A/paragraph/26A.md)
+    - “Disclosable Schedule 11A VAT arrangements”
       - [Sch. 34A para. 27](schedule/34A/paragraph/27.md)
-    - Paragraphs 26 and 27: supplementary
+    - Paragraphs 26 to 27: supplementary
       - [Sch. 34A para. 28](schedule/34A/paragraph/28.md)
     - “Final” counteraction
       - [Sch. 34A para. 29](schedule/34A/paragraph/29.md)
