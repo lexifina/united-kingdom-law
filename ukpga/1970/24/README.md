@@ -1,0 +1,118 @@
+# Finance Act 1970
+
+1970 c. 24. Enacted 1970-05-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1970/24/2017-11-28
+
+## Contents
+
+- Part I Customs and Excise
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 Gaming licence duty.](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6](section/6.md)
+  - [s. 7](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 10 ................................](section/10.md)
+- Part II Income Tax and Corporation Tax
+  - Chapter I General
+    - [s. 11 ................................](section/11.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 Miscellaneous amendments of income tax and corporation tax law.](section/18.md)
+  - Chapter II
+    - [s. 19 ................................](section/19.md)
+- PART III MISCELLANEOUS
+  - Capital gains
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+  - Stamp duties
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Composition by stock exchanges in respect of transfer duty](section/33.md)
+  - Other provisions
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Citation, interpretation, construction, extent and repeals.](section/36.md)
+- SCHEDULE 1 Gaming Licence Duty
+  - Part I................................
+  - Part II Supplemental
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Consequential amendments of Gaming Act 1968
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Amendments of Income Tax Acts and Corporation Tax Acts
+  - PART I
+  - PART II Other Amendments
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Inland Revenue procedures: returns and assessments
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5................................
+- SCHEDULE 6
+  - Part I
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Part II ...
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7
+  - Part I Abolition of Certain Duties
+    - Duties abolished as from 1st August 1970
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Duties abolished as from 1st February 1971
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Part II General Amendments
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4 ................................](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5 ................................](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6 ................................](schedule/7/paragraph/6.md)
+    - Bond, covenant, etc.
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8 ................................](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9 ................................](schedule/7/paragraph/9.md)
+    - Conveyance or transfer on sale
+      - [Sch. 7 para. 10 ................................](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Lease or tack
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15 ................................](schedule/7/paragraph/15.md)
+    - Mortgages etc.
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17 ................................](schedule/7/paragraph/17.md)
+  - Part III Special Provisions Connected with the New Currency
+    - [Sch. 7 para. 18 ................................](schedule/7/paragraph/18.md)
+    - Late stamping etc.
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+- SCHEDULE 8 Repeals
+  - Part I Gaming Licence Duty
+  - Part II Other Customs and Excise Repeals
+  - Part III Occupational Pension Schemes
+  - Part IV Stamp Duty Repeals having effect from 1st August 1970
+  - Part V Stamp Duty Repeals having effect from 1st February 1971
+  - Part VI Miscellaneous Repeals
+  - Part VII Obsolete or Unnecessary Provisions in Taxes Acts
