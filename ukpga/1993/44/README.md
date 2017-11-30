@@ -1,0 +1,257 @@
+# Crofters (Scotland) Act 1993
+
+1993 c. 44. Enacted 1993-11-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 269 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/44
+
+Source: https://www.legislation.gov.uk/ukpga/1993/44/2017-11-30
+
+## Contents
+
+- The Crofters Commission
+  - [s. 1 Constitution and general functions of Crofters Commission.](section/1.md)
+  - [s. 2 Particular powers and duties of the Commission.](section/2.md)
+  - [s. 2A Ministers’ power to modify functions of Commission](section/2A.md)
+  - [s. 2B Annual report](section/2B.md)
+  - [s. 2C Duty to produce plan](section/2C.md)
+  - [s. 2D Status of plan](section/2D.md)
+- Meaning of croft and crofter
+  - [s. 3 Meaning of croft and crofter.](section/3.md)
+  - [s. 3ZA Registered crofts](section/3ZA.md)
+  - [s. 3A New crofts](section/3A.md)
+  - [s. 3AA Registration of new crofts](section/3AA.md)
+  - [s. 3B Compensation for constituting holding outwith crofting counties as croft on application of tenant](section/3B.md)
+  - [s. 3C Appeal against assessment under section 3B](section/3C.md)
+- Enlargement of crofts
+  - [s. 4 Enlargement of crofts](section/4.md)
+- Exchange of crofts
+  - [s. 4A Exchange of crofts or parts of crofts](section/4A.md)
+- The conditions of tenure
+  - [s. 5 The statutory conditions.](section/5.md)
+  - [s. 5A Complaint as respects breach of the statutory conditions](section/5A.md)
+- Crofters’ duties relating to residency, use, misuse and neglect of crofts
+  - [s. 5AA Crofters: residency duty](section/5AA.md)
+  - [s. 5B Termination of tenancy for misuse or neglect](section/5B.md)
+  - [s. 5C Crofters: duty to cultivate and maintain](section/5C.md)
+  - [s. 6 Rent.](section/6.md)
+  - [s. 7 Renunciation of tenancy.](section/7.md)
+  - [s. 8 Assignation of croft.](section/8.md)
+  - [s. 9 Division of croft](section/9.md)
+- Succession to croft
+  - [s. 10 Bequest of croft.](section/10.md)
+  - [s. 11 Intestacy.](section/11.md)
+- Rights of crofters and cottars to acquire their subjects
+  - [s. 12 General provision.](section/12.md)
+  - [s. 13 Authorisation by Land Court of acquisition of croft land.](section/13.md)
+  - [s. 14 Consideration payable in respect of acquisition of croft land.](section/14.md)
+  - [s. 15 Determination by Land Court of terms and conditions for conveyance of the site of the dwelling-house.](section/15.md)
+  - [s. 16 Provisions relating to conveyance.](section/16.md)
+  - [s. 17 Provisions supplementary to sections 13 and 15.](section/17.md)
+  - [s. 18 Adjustment of rent for remainder of croft where part conveyed to crofter.](section/18.md)
+  - [s. 19 Provisions relating to existing loans and heritable securities.](section/19.md)
+  - [s. 19A Schemes for development](section/19A.md)
+- Owner-occupied crofts: duties of certain owners
+  - [s. 19B Meaning of “owner-occupier crofter” etc.](section/19B.md)
+  - [s. 19C Duties of owner-occupier crofters](section/19C.md)
+  - [s. 19D Division of owner-occupied crofts](section/19D.md)
+- Provisions relating to termination of tenancy and de-crofting
+  - [s. 20 Resumption of croft or part of croft by landlord.](section/20.md)
+  - [s. 21 Crofter’s right to share in value of land resumed by landlord.](section/21.md)
+  - [s. 21A Reversion of resumed land](section/21A.md)
+- Consent for absence from croft
+  - [s. 21B Commission consent for absence from croft](section/21B.md)
+  - [s. 21C Extension of consent for absence](section/21C.md)
+  - [s. 21D Variation of condition in consent for absence](section/21D.md)
+  - [s. 22 Absentee crofters.](section/22.md)
+  - [s. 23 Vacant crofts.](section/23.md)
+  - [s. 24 Decrofting in case of resumption or vacancy of croft.](section/24.md)
+  - [s. 24A Applications to decroft by owner-occupier crofters](section/24A.md)
+  - [s. 24B Commission’s powers in relation to applications under section 24A](section/24B.md)
+  - [s. 24C Application of section 25 in relation to decrofting directions](section/24C.md)
+  - [s. 24D Effect of decrofting direction](section/24D.md)
+  - [s. 25 Provisions supplementary to s.24(3).](section/25.md)
+  - [s. 26 Provisions as to removal of crofter.](section/26.md)
+- Investigation of suspected breach of duty
+  - [s. 26A Commission’s duty to investigate suspected breach of duty](section/26A.md)
+- Enforcement of duties
+  - [s. 26B Enforcement of duties of crofters and owner-occupier crofters: general](section/26B.md)
+  - [s. 26C Notice of suspected breach of duty](section/26C.md)
+  - [s. 26D Undertakings: general](section/26D.md)
+  - [s. 26E Circumstances where the Commission may not take action under section 26H or 26J](section/26E.md)
+  - [s. 26F Commission duty to take action under section 26H or 26J](section/26F.md)
+  - [s. 26G Division of croft before taking action](section/26G.md)
+  - [s. 26H Crofters: tenancy termination procedure](section/26H.md)
+  - [s. 26J Owner-occupier crofters: letting procedure](section/26J.md)
+  - [s. 26K Appeals](section/26K.md)
+- Subletting of crofts
+  - [s. 27 Provisions as to right to sublet.](section/27.md)
+  - [s. 28 Special provisions regarding subletting of crofts not adequately used.](section/28.md)
+  - [s. 29 Miscellaneous provisions regarding subleases of crofts.](section/29.md)
+- Letting of owner-occupied crofts
+  - [s. 29A Letting of owner-occupied crofts](section/29A.md)
+  - [s. 29B Status of tenant under a short lease](section/29B.md)
+- Compensation for improvements and for deterioration or damage
+  - [s. 30 Compensation to crofter for improvements.](section/30.md)
+  - [s. 31 Permanent improvements made on crofts for purposes of subsidiary or auxiliary occupations.](section/31.md)
+  - [s. 32 Assessment of compensation for improvements.](section/32.md)
+  - [s. 33 Record of improvements.](section/33.md)
+  - [s. 34 Compensation to landlord for deterioration or damage.](section/34.md)
+  - [s. 35 Assessment of compensation for improvements or deterioration on joint application to Land Court.](section/35.md)
+  - [s. 36 Compensation to cottar for improvements.](section/36.md)
+- Compulsory acquisition of croft
+  - [s. 37 Crofter’s right to share in value of land taken possession of compulsorily.](section/37.md)
+- Reorganisation schemes
+  - [s. 38 Reorganisation schemes.](section/38.md)
+  - [s. 38A Appeal to Land Court: special provision as respects reorganisation schemes](section/38A.md)
+  - [s. 39 Putting into effect of reorganisation schemes.](section/39.md)
+- Commission to obtain information and compile register of crofts
+  - [s. 40 Obtaining of information by Commission.](section/40.md)
+  - [s. 40A Annual notices](section/40A.md)
+  - [s. 41 Register of Crofts.](section/41.md)
+- Financial assistance to crofters, cottars and certain owner- occupiers etc
+  - [s. 42 Crofters.](section/42.md)
+  - [s. 43 Supplementary provisions as to loans under s.42.](section/43.md)
+  - [s. 44 Cottars](section/44.md)
+  - [s. 45 Former crofters and cottars who have acquired site of the dwelling-house.](section/45.md)
+  - [s. 46 Owner-occupiers of like economic status as crofters and other persons.](section/46.md)
+  - [s. 46A Regulations concerning loans](section/46A.md)
+- Common Grazings
+  - [s. 47 Appointment, etc., of grazings committee or grazings constable.](section/47.md)
+  - [s. 48 Powers and duties of grazings committees.](section/48.md)
+  - [s. 49 Common grazings regulations.](section/49.md)
+  - [s. 49n1 AGrazings committees: duty to report](section/49n1.md)
+  - [s. 50 Use of common grazings for forestry purposes.](section/50.md)
+  - [s. 50A Joint forestry ventures etc.](section/50A.md)
+  - [s. 50B Use of common grazing for other purposes](section/50B.md)
+  - [s. 51 Enlargement of common grazings.](section/51.md)
+  - [s. 51A New common grazing](section/51A.md)
+  - [s. 51B Registration of new common grazings](section/51B.md)
+  - [s. 52 Miscellaneous provisions as to common grazings, as to lands held runrig, and as to use by crofters of peat bogs, etc.](section/52.md)
+- Provisions relating to Land Court
+  - [s. 52A Appeal to Land Court: general](section/52A.md)
+  - [s. 53 Jurisdictional provisions.](section/53.md)
+  - [s. 53A Extent of boundaries](section/53A.md)
+  - [s. 53B Access to croft](section/53B.md)
+  - [s. 54 Crofters Holdings Book.](section/54.md)
+- Miscellaneous and General Provisions
+  - [s. 55 Service of notices](section/55.md)
+  - [s. 55A Public notification](section/55A.md)
+  - [s. 56 Provisions as to entry and inspection.](section/56.md)
+  - [s. 57 Provisions as to compulsory purchase of land and as to management of land.](section/57.md)
+  - [s. 58 Provisions as to representations.](section/58.md)
+  - [s. 58A Obtaining Commission approval or consent](section/58A.md)
+  - [s. 58B Variation of conditions on approval or consent](section/58B.md)
+  - [s. 59 Financial provisions.](section/59.md)
+  - [s. 59A Equal opportunities](section/59A.md)
+  - [s. 60 Regulations and orders](section/60.md)
+  - [s. 61 Interpretation.](section/61.md)
+  - [s. 62 Application of Act to Crown.](section/62.md)
+  - [s. 63 Transitional provisions and savings, and repeals.](section/63.md)
+  - [s. 64 Short title, commencement and extent.](section/64.md)
+- SCHEDULE 1 THE CROFTING COMMISSION
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Appointed members: eligibility
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Appointed members: terms of appointment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Resignation and cessation of membership
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Elected members: regulations
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Remuneration, allowances and pensions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Removal of members
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Chief executive, staff and employees
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Quorum
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Committees
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Procedure
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Members’ interests
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Delegation of powers
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Local assessors
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Location of office
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Finance
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Accounts
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Provision of information to Scottish Ministers
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Transfer of property, rights and liabilities
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 The statutory conditions
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 11A](schedule/2/paragraph/11A.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Permanent improvements
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Confirmation and validity of reorganisation schemes
+  - Part I
+    - Procedure for confirming reorganisation schemes
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part II
+    - Validity of reorganisation schemes
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Provisions as to security, etc., of loans
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Transitional provisions and savings
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Repeals
+  - Part I Enactments repealed so far as they apply in the crofting counties
+  - Part II Other enactments repealed
+- TABLE OF DERIVATIONS
