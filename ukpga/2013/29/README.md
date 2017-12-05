@@ -2,9 +2,9 @@
 
 2013 c. 29. Enacted 2013-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-12-05, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/29/2017-11-16
+Source: https://www.legislation.gov.uk/ukpga/2013/29/2017-12-05
 
 ## Contents
 
@@ -1397,6 +1397,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2017-11-16
     - [Sch. 43A para. 11](schedule/43A/paragraph/11.md)
   - Notices may be given on assumption that tax advantage does arise
     - [Sch. 43A para. 12](schedule/43A/paragraph/12.md)
+  - HMRC officers
+    - [Sch. 43A para. 12A](schedule/43A/paragraph/12A.md)
   - Power to amend
     - [Sch. 43A para. 13](schedule/43A/paragraph/13.md)
 - SCHEDULE 43B Procedural requirements: generic referral of tax arrangements
@@ -1415,6 +1417,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2017-11-16
     - [Sch. 43B para. 8](schedule/43B/paragraph/8.md)
   - Notices may be given on assumption that tax advantage does arise
     - [Sch. 43B para. 9](schedule/43B/paragraph/9.md)
+  - HMRC officers
+    - [Sch. 43B para. 9A](schedule/43B/paragraph/9A.md)
   - Power to amend
     - [Sch. 43B para. 10](schedule/43B/paragraph/10.md)
 - SCHEDULE 43C Penalty under section 212A: supplementary provision
