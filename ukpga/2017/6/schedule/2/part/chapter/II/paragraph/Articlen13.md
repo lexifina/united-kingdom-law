@@ -1,7 +1,7 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 2 Pt. chapter II. paragraph Articlen13
 heading: Requests for registration
-status: Not yet in force (in force from 2017-12-12)
+status: In force
 extent:
 version: 2017-12-12
 source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/2/part/chapter/II./paragraph/Articlen13/2017-12-12

@@ -1,7 +1,7 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 1 Pt. chapter VII. paragraph Articlen20
 heading: Regulations for the execution of the Convention
-status: Not yet in force (in force from 2017-12-12)
+status: In force
 extent:
 version: 2017-12-12
 source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/1/part/chapter/VII./paragraph/Articlen20/2017-12-12

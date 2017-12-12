@@ -1,7 +1,7 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 4 Pt. chapter 6 paragraph Articlen23
 heading: Meeting of the Parties
-status: Not yet in force (in force from 2017-12-12)
+status: In force
 extent:
 version: 2017-12-12
 source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/4/part/chapter/6/paragraph/Articlen23/2017-12-12

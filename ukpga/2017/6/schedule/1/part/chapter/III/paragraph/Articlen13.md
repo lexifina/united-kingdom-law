@@ -1,7 +1,7 @@
 ---
 title: Cultural Property (Armed Conflicts) Act 2017, Sch. 1 Pt. chapter III. paragraph Articlen13
 heading: Transport in urgent cases
-status: Not yet in force (in force from 2017-12-12)
+status: In force
 extent:
 version: 2017-12-12
 source: https://www.legislation.gov.uk/ukpga/2017/6/schedule/1/part/chapter/III./paragraph/Articlen13/2017-12-12
