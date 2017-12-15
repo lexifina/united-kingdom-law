@@ -2,9 +2,9 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-10-25, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2017-12-15, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2017-10-25
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2017-12-15
 
 ## Contents
 
@@ -402,11 +402,18 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2017-10-25
     - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
   - Codes of practice
     - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 Powers of community support officers
+  - Introduction
     - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Additional powers to issue fixed penalty notices
     - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Powers to issue fixed penalty notices: consultation with local authorities
     - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - General power of seizure
     - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Powers with regard to charity collectors
     - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Power to stop cycles
     - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
 - SCHEDULE 11 Minor and consequential amendments
   - PART 1 Amendments relating to Parts 1 to 6
