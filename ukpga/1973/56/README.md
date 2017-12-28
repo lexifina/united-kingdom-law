@@ -1,0 +1,124 @@
+# Land Compensation (Scotland) Act 1973
+
+1973 c. 56. Enacted 1973-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-12-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1973/56/2017-12-28
+
+## Contents
+
+- Part I Compensation for Depreciation Caused by use of Public Works
+  - [s. 1 Right to compensation.](section/1.md)
+  - [s. 2 Interests qualifying for compensation.](section/2.md)
+  - [s. 3 Claims.](section/3.md)
+  - [s. 4 Assessment of compensation: general provisions.](section/4.md)
+  - [s. 5 Assessment of compensation: assumptions as to planning permission.](section/5.md)
+  - [s. 6 Reduction of compensation where land is benefited.](section/6.md)
+  - [s. 7 Exclusion of minimal compensation.](section/7.md)
+  - [s. 8 Other restrictions on compensation.](section/8.md)
+  - [s. 9 Alterations to public works and changes of use.](section/9.md)
+  - [s. 10 Restricted interests in land.](section/10.md)
+  - [s. 11 Interests acquired by inheritance.](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 Information for ascertaining relevant date.](section/13.md)
+  - [s. 14 Disputes.](section/14.md)
+  - [s. 15 Action for nuisance following unsuccessful claim where responsible authority have disclaimed statutory immunity.](section/15.md)
+  - [s. 16 Interest on compensation.](section/16.md)
+  - [s. 17 Interpretation of Part I.](section/17.md)
+- Part II Mitigation of Injurious Effect of Public Works
+  - Insulation against noise
+    - [s. 18 Sound-proofing of buildings affected by public works.](section/18.md)
+    - [s. 18A Power to make payments in respect of caravans and other structures affected by noise of public works.](section/18A.md)
+    - [s. 19 ................................](section/19.md)
+  - Powers of highway authorities
+    - [s. 2023. ................................](section/2023.md)
+  - Powers of authorities responsible for other public works
+    - [s. 24 Acquisition of land in connection with public works.](section/24.md)
+    - [s. 25 Execution of works etc. in connection with public works.](section/25.md)
+  - Expenses of persons moving temporarily during construction works etc.
+    - [s. 26 Power to pay expenses of persons moving temporarily during construction works etc.](section/26.md)
+- Part III Provisions for Benefit of Persons Displaced From Land
+  - Home loss payments
+    - [s. 27 Right to home loss payment where person displaced from dwelling.](section/27.md)
+    - [s. 27A Spouses having statutory occupancy rights.](section/27A.md)
+    - [s. 28 Amount of home loss payment.](section/28.md)
+    - [s. 29 Supplementary provisions about home loss payments.](section/29.md)
+    - [s. 30 Home loss payments for certain caravan dwellers.](section/30.md)
+  - Farm loss payments
+    - [s. 31 Right to farm loss payment where person displaced from agricultural unit.](section/31.md)
+    - [s. 32 Amount of farm loss payment.](section/32.md)
+    - [s. 33 Supplementary provisions about farm loss payments.](section/33.md)
+  - Disturbance payments
+    - [s. 34 Disturbance payments for persons without compensatable interests.](section/34.md)
+    - [s. 35 Amount of disturbance payment.](section/35.md)
+  - Rehousing
+    - [s. 36 Duty to rehouse residential occupiers.](section/36.md)
+    - [s. 37 Duty to rehouse certain caravan dwellers.](section/37.md)
+    - [s. 38 Power of relevant authority to make advances repayable on maturity to displaced residential owner-occupiers.](section/38.md)
+    - [s. 39 Duty of displacing authority to indemnify rehousing or lending authority for net losses.](section/39.md)
+    - [s. 40 Power of relevant authority to defray expenses in connection with acquisition of new dwellings.](section/40.md)
+- Part IV Compulsory Purchase
+  - Assessment of compensation
+    - [s. 41 Compensation for injurious affection.](section/41.md)
+    - [s. 42 Compensation for acquisition of dwelling specially adapted for disabled person.](section/42.md)
+    - [s. 43 Compensation for disturbance where business carried on by person over sixty.](section/43.md)
+    - [s. 44 Compensation in respect of agricultural holdings.](section/44.md)
+    - [s. 45 Compensation in respect of crofts, etc.](section/45.md)
+    - [s. 46 Compensation where occupier is rehoused.](section/46.md)
+    - [s. 47 Compensation where land is in area designated as site of new town for purpose of public development.](section/47.md)
+  - Advance payment of compensation
+    - [s. 48 Right to advance payment of compensation.](section/48.md)
+    - [s. 48A Right to interest where advance payment made.](section/48A.md)
+  - Severance of land
+    - [s. 49 Notice to treat in respect of part of agricultural land.](section/49.md)
+    - [s. 50 Effect of counter-notice under section 49.](section/50.md)
+    - [s. 51 Notice of entry in respect of part of agricultural holding.](section/51.md)
+    - [s. 52 Effect of counter-notice under section 51.](section/52.md)
+    - [s. 53 Other procedures for taking possession of part of agricultural holding.](section/53.md)
+    - [s. 54 Determination of material detriment where part of house etc. proposed for compulsory acquisition.](section/54.md)
+  - Miscellaneous
+    - [s. 55 Notice to quit agricultural holding: right to opt for notice of entry compensation.](section/55.md)
+    - [s. 56 Requirement to surrender croft, etc.: right to opt for notice of entry compensation.](section/56.md)
+    - [s. 57 Notice to quit part of agricultural holding: right to claim notice of entry compensation for remainder of holding.](section/57.md)
+    - [s. 58 Requirement to surrender part of croft, etc.: right to claim notice of entry compensation for remainder.](section/58.md)
+    - [s. 59 Interest on compensation for injurious affection where no land taken.](section/59.md)
+    - [s. 60 Extension of grounds for challenging validity of compulsory purchase order.](section/60.md)
+    - [s. 61 Construction of section 6 of Railway Clauses Consolidation (Scotland) Act 1845.](section/61.md)
+    - [s. 62 Amendment of section 35 of Roads (Scotland) Act 1970.](section/62.md)
+    - [s. 63 Provisions relating to acquisition of new rights.](section/63.md)
+- Part V Planning Blight
+  - Extension of classes of blighted land
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 ................................](section/69.md)
+    - [s. 70 Land affected by proposed exercise of powers under section 20.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+  - Attempts to sell blighted property.
+    - [s. 72 ................................](section/72.md)
+  - Blight notices by personal representatives
+    - [s. 73 ................................](section/73.md)
+  - Blight notices in respect of agricultural units
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+  - Supplementary
+    - [s. 77 ................................](section/77.md)
+- Part VI Supplementary Provisions
+  - [s. 78 Application to Crown.](section/78.md)
+  - [s. 79 Financial provisions.](section/79.md)
+  - [s. 80 General interpretation.](section/80.md)
+  - [s. 81 Repeal of Land Compensation Act 1973 in relation to Scotland and reprinting of Act as it applies to England and Wales.](section/81.md)
+  - [s. 82 Savings and transitional.](section/82.md)
+  - [s. 83 Short title and extent.](section/83.md)
+- SCHEDULE 1 Application of Section 56 to Statutory Small Tenants
+  - Part I
+    - Modification of section 56
+  - Part II
+    - Section 56 as modified, in its application to statutory small tenants
+- SCHEDULE 2 CONSEQUENTIAL REPEALS AND AMENDMENTS IN LAND COMPENSATION ACT 1973
+  - PART I REPEALS
+  - PART II AMENDMENTS
