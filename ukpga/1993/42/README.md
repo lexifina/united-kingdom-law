@@ -1,0 +1,183 @@
+# Cardiff Bay Barrage Act 1993
+
+1993 c. 42. Enacted 1993-11-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2017-12-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1993/42/2017-12-28
+
+## Contents
+
+- Part I Works
+  - [s. 1 Construction of barrage etc. and other works.](section/1.md)
+  - [s. 2 Works: supplementary.](section/2.md)
+  - [s. 3 Deemed impoundment licence.](section/3.md)
+- Part II Land
+  - [s. 4 Compulsory acquisition of land.](section/4.md)
+  - [s. 5 Compulsory acquisition: supplementary.](section/5.md)
+  - [s. 6 Temporary occupation and use of land.](section/6.md)
+- Part III Operation and Management
+  - Operation of barrage
+    - [s. 7 Power to operate barrage.](section/7.md)
+    - [s. 8 Directions as to operation of barrage.](section/8.md)
+    - [s. 9 Operation: supplementary.](section/9.md)
+    - [s. 10 Interference with barrage.](section/10.md)
+  - Management of inland bay and outer harbour
+    - [s. 11 Power of management.](section/11.md)
+    - [s. 12 Water quality.](section/12.md)
+    - [s. 13 Use by vessels and for recreational purposes.](section/13.md)
+    - [s. 14 Development and conservation of flora and fauna.](section/14.md)
+    - [s. 15 Charges.](section/15.md)
+    - [s. 16 Byelaws.](section/16.md)
+    - [s. 17 Development Corporation as harbour authority.](section/17.md)
+    - [s. 18 Application of harbours clauses.](section/18.md)
+  - Other provisions
+    - [s. 19 Operation and management: supplementary.](section/19.md)
+    - [s. 20 The Cardiff Bay Advisory Committee.](section/20.md)
+- Part IV Groundwater Damage Protection
+  - [s. 21 Groundwater damage protection.](section/21.md)
+  - [s. 22 Powers to deal with consequences of altered groundwater levels.](section/22.md)
+- Part V Miscellaneous, General and Supplementary
+  - Miscellaneous and general
+    - [s. 23 Regulations to protect interests.](section/23.md)
+    - [s. 24 Planning permission.](section/24.md)
+    - [s. 25 Disapplication of certain statutory requirements.](section/25.md)
+    - [s. 26 Delegation of functions and leases.](section/26.md)
+    - [s. 27 Development Corporation: transfer of functions.](section/27.md)
+    - [s. 28 Service of notices.](section/28.md)
+    - [s. 29 Arbitration.](section/29.md)
+    - [s. 30 Crown exemption.](section/30.md)
+    - [s. 31 Offences by bodies corporate.](section/31.md)
+  - Supplementary
+    - [s. 32 Financial provision.](section/32.md)
+    - [s. 33 Interpretation.](section/33.md)
+    - [s. 34 Short title.](section/34.md)
+- SCHEDULE 1 Descriptions of Main Works
+- SCHEDULE 2 Works: Supplementary
+  - Supplementary works
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Interference with sea and inland bay
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Tidal works
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Other matters relating to water etc.
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Duty to avoid inconvenience
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Compensation
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Works affecting highway
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Works affecting apparatus
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 Requirements of Deemed Impoundment Licence
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Works and operations
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Sewage outfalls
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Fish
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Monitoring
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Approvals
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Appeals
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Compulsory Land Acquisition: Supplementary
+  - Acquisition of rights
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Mines and minerals
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Extinguishment of rights
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Compensation
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Power to survey land
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Correction of deposited plans and book of reference
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Temporary Occupation and Use of Land
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Operation and Management: Supplementary
+  - Damage etc. to structures
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Abandonment etc. of structures
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Surveys etc.
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Protection of navigation
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Powers relating to water
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Offences
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Expenses
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Saving
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Groundwater Damage Protection
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Surveys of buildings within protected property area
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Surveys of buildings not within protected property area
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Surveys: notices, reports and disputes
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Survey costs
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Building deemed within protected property area following survey
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Monitoring of buildings consequent on survey recommendation
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Review of groundwater
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Right to remedial work indicated by survey or monitoring
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Execution of remedial work
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Extension of survey period following remedial work
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Right to compensation instead of remedial work
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Measure of compensation instead of remedial work
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Effect of payment of compensation instead of remedial work
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Compensation etc. in respect of damage to gardens
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Other rights to compensation
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - No double recovery
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Powers of survey etc.
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Offences
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Local land charges
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Appointment of surveyor
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Determination of disputes
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Code of practice
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
