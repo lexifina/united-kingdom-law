@@ -1,0 +1,189 @@
+# Employment Act 1989
+
+1989 c. 38. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1989/38/2018-01-01
+
+## Contents
+
+- Overriding of provisions requiring discrimination as respects employment or training
+  - [s. 1 Overriding of statutory requirements which conflict with certain provisions of 1975 Act.](section/1.md)
+  - [s. 2 Power of Secretary of State to repeal statutory provisions requiring discrimination as respects employment or training.](section/2.md)
+- Circumstances where discrimination as respects employment or training is permissible
+  - [s. 3 Restriction of exemption for discrimination required by or under statute.](section/3.md)
+  - [s. 4 Exemption for discrimination under certain provisions concerned with the protection of women at work.](section/4.md)
+  - [s. 5 Exemption for discrimination in connection with certain educational appointments.](section/5.md)
+  - [s. 6 Power of Secretary of State to exempt particular acts of discrimination required by or under statute.](section/6.md)
+- Discrimination as respects training
+  - [s. 7 Prohibition of discrimination in connection with provision of training.](section/7.md)
+  - [s. 8 Power to exempt discrimination in favour of lone parents in connection with training.](section/8.md)
+- Removal of restrictions and other requirements relating to employment
+  - [s. 9 Repeal or modification of provisions requiring different treatment of different categories of employees.](section/9.md)
+  - [s. 10 Removal of restrictions relating to employment of young persons.](section/10.md)
+  - [s. 11 Exemption of Sikhs from requirements as to wearing of safety helmets at workplaces.](section/11.md)
+  - [s. 12 Protection of Sikhs from racial discrimination in connection with requirements as to wearing of safety helmets.](section/12.md)
+- Written statements of terms of employment
+  - [s. 13 Provision of particulars of disciplinary procedures.](section/13.md)
+- Time off for trade union duties
+  - [s. 14 ................................](section/14.md)
+- Reasons for dismissal
+  - [s. 15 ................................](section/15.md)
+- Redundancy
+  - [s. 16 ................................](section/16.md)
+  - [s. 17 ................................](section/17.md)
+- Insolvency
+  - [s. 18 ................................](section/18.md)
+  - [s. 19](section/19.md)
+- Pre-hearing reviews
+  - [s. 20 ................................](section/20.md)
+- Removal of requirement to register storage of film
+  - [s. 21 Removal of requirement to notify local authority of storage of celluloid film.](section/21.md)
+- Dissolution of Training Commission
+  - [s. 22 Dissolution of Training Commission.](section/22.md)
+- Industrial training boards
+  - [s. 23 Consultation in connection with industrial training orders.](section/23.md)
+  - [s. 24 Transfer of assets or staff of industrial training boards.](section/24.md)
+  - [s. 25 Constitution of industrial training boards.](section/25.md)
+- Transfer of staff employed in Skills Training Agency
+  - [s. 26 Transfer of staff employed in Skills Training Agency.](section/26.md)
+- General
+  - [s. 27 Power to make corresponding provision for Northern Ireland.](section/27.md)
+  - [s. 28 Orders.](section/28.md)
+  - [s. 29 Interpretation, minor and consequential amendments, repeals, etc.](section/29.md)
+  - [s. 30 Short title, commencement and extent.](section/30.md)
+- SCHEDULE 1 Provisions Concerned with Protection of Women at Work
+  - Enactments
+  - Statutory instruments
+  - Other instruments
+- SCHEDULE 2 Revocation etc. of Subordinate Legislation Requiring Different Treatment of Certain Employees
+  - Part I Provisions Revoked
+  - Part II Amendments
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Removal of Restrictions Relating to Employment of Young Persons
+  - Part I Repeals relating to Restrictions with Respect to Hours of Employment and Holidays
+  - Part II Repeals Relating to Other Requirements
+  - Part III Amendment of Certain Age Limits
+    - Employment of Women, Young Persons, and Children Act 1920 (c.65)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Children and Young Persons Act 1933 (c.12)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Children and Young Persons (Scotland) Act 1937 (c.37)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Factories Act 1961 (c.34)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Dissolution of Training Commission: Amendments of the Industrial Training Act 1982
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Dissolution of Training Commission: Supplementary Provisions
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Incorporation of Secretary of State for Employment
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Provisions as to the vesting of property etc. of Commission
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Final accounts
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Provisions relating to the 1982 Act
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Notifications of vacancies etc. for purposes of unemployment benefit
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Saving of 1988 Order
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Minor and Consequential Amendments
+  - Employment of Women, Young Persons, and Children Act 1920 (c.65)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Shops Act 1950 (c. 28)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Factories Act 1961 (c. 34)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Employment and Training Act 1973 (c. 50)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Scottish Development Agency Act 1975 (c. 69)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Development of Rural Wales Act 1976 (c. 75)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - Agricultural Training Board Act 1982 (c. 9)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+  - Industrial Training Act 1982 (c. 10)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+  - Sex Discrimination Act 1986 (c. 59)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+- SCHEDULE 7 Repeals
+  - Part I Repeals coming into force on Royal Assent
+  - Part II Repeals coming into force two months after Royal Assent
+  - Part III Repeals coming into force on a day appointed under s. 30(4)
+- SCHEDULE 8 Instruments revoked
+- SCHEDULE 9 Transitional Provisions and Savings
+  - Sex discrimination
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Time off for trade union duties
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Redundancy payments: assimilation of age limits
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Redundancy rebates
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Insolvency payments
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Appointments to industrial training boards
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
