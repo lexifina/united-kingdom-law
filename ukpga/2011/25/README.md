@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-01-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-02-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-01-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-02-01
 
 ## Contents
 
@@ -257,6 +257,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-01-01
     - [s. 177 Meaning of “charity trustees”](section/177.md)
   - Disqualification of charity trustees and trustees
     - [s. 178 Persons disqualified from being charity trustees or trustees of a charity](section/178.md)
+    - [s. 178A Case A: specified offences](section/178A.md)
     - [s. 179 Disqualification: pre-commencement events etc.](section/179.md)
     - [s. 180 Disqualification: exceptions in relation to charitable companies](section/180.md)
     - [s. 181 Power to waive disqualification](section/181.md)
