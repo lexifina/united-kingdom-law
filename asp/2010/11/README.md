@@ -1,0 +1,245 @@
+# Scottish Parliamentary Commissions and Commissioners etc. Act 2010
+
+asp/2010/11. Enacted 2010-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-03-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2010/11/2018-03-12
+
+## Contents
+
+- Part 1 THE COMMISSIONER FOR ETHICAL STANDARDS IN PUBLIC LIFE IN SCOTLAND
+  - The Commissioner
+    - [s. 1 The Commissioner for Ethical Standards in Public Life in Scotland](section/1.md)
+    - [s. 2 Functions of the Commissioners](section/2.md)
+    - [s. 3 Status of Commissioner and Commissioner’s staff](section/3.md)
+    - [s. 4 Independence of Commissioner](section/4.md)
+    - [s. 5 Protection from actions for defamation](section/5.md)
+    - [s. 6 Designation of Chief Commissioner](section/6.md)
+    - [s. 7 Appointment of acting Commissioner](section/7.md)
+  - Office of Commissioner
+    - [s. 8 Disqualification](section/8.md)
+    - [s. 9 Terms of office and remuneration](section/9.md)
+    - [s. 10 Pensions etc.](section/10.md)
+    - [s. 11 Subsequent appointments etc. of former Commissioner](section/11.md)
+  - General functions, procedures etc. of Commissioner
+    - [s. 12 General powers](section/12.md)
+    - [s. 13 Payment of witnesses’ expenses](section/13.md)
+    - [s. 14 Strategic plans](section/14.md)
+    - [s. 15 Validity of acts](section/15.md)
+    - [s. 16 Delegation](section/16.md)
+  - Staff, advisers etc.
+    - [s. 17 Staff](section/17.md)
+    - [s. 18 Advisers, assessors and other services](section/18.md)
+  - Finance
+    - [s. 19 Accountable officer](section/19.md)
+    - [s. 20 Budget](section/20.md)
+    - [s. 21 Funding](section/21.md)
+    - [s. 22 Accounts and audit](section/22.md)
+  - Location of office and sharing of resources
+    - [s. 23 Location of office](section/23.md)
+    - [s. 24 Sharing of premises, staff, services and other resources](section/24.md)
+  - Annual reports
+    - [s. 25 Annual reports](section/25.md)
+  - Ombudsman’s investigations and freedom of information
+    - [s. 26 Commission and Commissioners to be subject to investigations by Scottish Public Services Ombudsman](section/26.md)
+    - [s. 27 Commission and Public Appointments Commissioner for Scotland to be subject to Freedom of Information (Scotland) Act](section/27.md)
+  - Interpretation
+    - [s. 28 Interpretation of Part 1](section/28.md)
+- Part 2 Amendments of provisions relating to other commissions and officeholders
+  - [s. 29 Standardising and other amendments](section/29.md)
+- Part 3 General
+  - [s. 30 Interpretation](section/30.md)
+  - [s. 31 Short title, commencement, transfers and transitionals](section/31.md)
+- SCHEDULE 1 Consequential amendments of enactments referred to in section 2(5)
+  - Part 1 The Ethical Standards Act
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part 2 The Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part 3 The Parliamentary Standards Act
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part 4 The Public Appointments Act
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Part 5 The Public Services Reform (Scotland) Act 2010 (asp 8)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 Amendments of the Ethical Standards Act
+  - Procedure for appointments and orders conferring functions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Witnesses’ expenses
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Protection from actions of defamation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Application of paragraphs 5 to 16
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Land, charges, location of office and sharing of resources
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Procedure for appointment of convener
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Members’ terms of office, subsequent appointments etc.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Employees, remuneration and pensions, advisers etc.
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Strategic plans
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Finance
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Annual reports
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Terms and conditions of office, staff and status of Chief Investigating Officer
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Amendments of the Scottish Public Services Ombudsman Act 2002 (asp 11)
+  - Investigations and reports
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Annual reports
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Strategic plans
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Confidentiality of information
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Application of paragraphs 11 to 19
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Disqualification, terms of office, status, removal etc.
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Advisers and other services
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Land, location of office, sharing of resources and charges
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Budget
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Finance
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Prison management etc.
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Matters excluded from investigation
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 Amendments of the Freedom of Information (Scotland) Act 2002 (asp 13)
+  - The Commissioner: terms and period of office, removal and independence
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Advice and other services
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Expenses
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Charges
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Annual reports
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Strategic plans
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Application of paragraph 9 onward
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Legal status
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Staff
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Budget
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Land, location of office, sharing of resources
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Subsequent appointments
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 Amendments of the Commissioner for Children and Young People (Scotland) Act 2003 (asp 17)
+  - The Commissioner: period of appointment, removal etc.
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Annual reports
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Strategic plans
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Application of paragraph 6 onward
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Status and independence
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Disqualification
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Subsequent appointments
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Land, charges, location of office, sharing of resources, staff and advisers and other services
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Finance and budget
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 Amendments of the Scottish Commission for Human Rights Act 2006 (asp 16)
+  - Strategic plans
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Annual report
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Application of paragraph 4 onward
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Independence: exceptions
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Members of the Commission: period of office, removal, and other and subsequent appointments
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Land, location of office, advisers and other services, sharing of resources and finance
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+- SCHEDULE 7 Transfer of staff, property and liabilities and transitional and saving provisions
+  - Part 1 Transfer of staff, property and liabilities to Commission for Ethical Standards in Public Life in Scotland
+    - Staff
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Property and liabilities
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Part 2 Transitional and saving provisions
+    - Undetermined processes under Ethical Standards, Parliamentary Standards and Public Appointments Acts
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Current appointments of assessors by the Commissioner for Public Appointments in Scotland
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - New Commission’s first budget
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Scottish Parliamentary Standards Commissioner’s last annual report
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Other annual reports
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - The Scottish Parliamentary Standards Commissioner
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Commissioner for Public Appointments in Scotland
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Members of the Standards Commission
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Commissioner for Children and Young People and the Public Services Ombudsman
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Members of the Scottish Commission for Human Rights
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - General provisions about reappointment
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
