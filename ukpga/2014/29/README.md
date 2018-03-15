@@ -2,9 +2,9 @@
 
 2014 c. 29. Enacted 2014-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-03-31, one file per provision. Earlier versions, from 2014-12-17, are in the history before it: `git log -- ukpga/2014/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-03-15, one file per provision. Earlier versions, from 2014-12-17, are in the history before it: `git log -- ukpga/2014/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/29/2017-03-31
+Source: https://www.legislation.gov.uk/ukpga/2014/29/2018-03-15
 
 ## Contents
 
@@ -93,6 +93,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/29/2017-03-31
     - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
     - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
     - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
     - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
     - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
     - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
