@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-01-03, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-03-15, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2018-01-03
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2018-03-15
 
 ## Contents
 
@@ -758,25 +758,62 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2018-01-03
   - Part 4 Chargeable equity and liabilities
     - Definition of “assets”, “equity” and “liabilities”
       - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
-    - Chargeable equity and liabilities of a UK banking group or a building society group
+    - Chargeable equity and liabilities: relevant groups
       - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
-      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
-    - Chargeable equity and liabilities of a foreign banking group
-      - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
-      - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
-    - Chargeable equity and liabilities of a relevant non-banking group
-      - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
-      - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
-    - Chargeable equity and liabilities of UK resident banks and building societies which are not members of groups
-      - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
-      - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
-    - Chargeable equity and liabilities of relevant foreign banks which are not members of groups
-      - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+    - Chargeable equity and liabilities: relevant entities
+      - [Sch. 19 para. 15A](schedule/19/paragraph/15A.md)
+    - Meaning of “UK sub-group”
+      - [Sch. 19 para. 15B](schedule/19/paragraph/15B.md)
+    - Meaning of “chargeable UK resident entity”
+      - [Sch. 19 para. 15C](schedule/19/paragraph/15C.md)
+    - Election to disregard non-UK allocated equity and liabilities
+      - [Sch. 19 para. 15D](schedule/19/paragraph/15D.md)
+      - [Sch. 19 para. 15E](schedule/19/paragraph/15E.md)
+      - [Sch. 19 para. 15F](schedule/19/paragraph/15F.md)
+    - Determining the assets, equity and liabilities of UK resident entities
+      - [Sch. 19 para. 15G](schedule/19/paragraph/15G.md)
+    - Determining the UK-based equity and liabilities of UK resident entities
+      - [Sch. 19 para. 15H](schedule/19/paragraph/15H.md)
+      - [Sch. 19 para. 15I](schedule/19/paragraph/15I.md)
+    - Determining the UK-based equity and liabilities of UK sub-groups
+      - [Sch. 19 para. 15GJ](schedule/19/paragraph/15GJ.md)
+      - [Sch. 19 para. 15K](schedule/19/paragraph/15K.md)
+      - [Sch. 19 para. 15L](schedule/19/paragraph/15L.md)
+    - Adjustments: general
+      - [Sch. 19 para. 15M](schedule/19/paragraph/15M.md)
+      - [Sch. 19 para. 15N](schedule/19/paragraph/15N.md)
+    - Step 2 in paragraph 15N: equity and liability adjustments and netting
+      - [Sch. 19 para. 15O](schedule/19/paragraph/15O.md)
+      - [Sch. 19 para. 15P](schedule/19/paragraph/15P.md)
+      - [Sch. 19 para. 15Q](schedule/19/paragraph/15Q.md)
+      - [Sch. 19 para. 15R](schedule/19/paragraph/15R.md)
+      - [Sch. 19 para. 15S](schedule/19/paragraph/15S.md)
+      - [Sch. 19 para. 15T](schedule/19/paragraph/15T.md)
+      - [Sch. 19 para. 15U](schedule/19/paragraph/15U.md)
+    - Step 3 in paragraph 15N: loss absorbing instruments issued by overseas subsidiaries
+      - [Sch. 19 para. 15V](schedule/19/paragraph/15V.md)
+      - [Sch. 19 para. 15W](schedule/19/paragraph/15W.md)
+      - [Sch. 19 para. 15X](schedule/19/paragraph/15X.md)
+      - [Sch. 19 para. 15Y](schedule/19/paragraph/15Y.md)
+    - Step 4 in paragraph 15N: high quality liquid assets
+      - [Sch. 19 para. 15Z](schedule/19/paragraph/15Z.md)
+    - Designated FPE entities: non-UK allocated equity and liabilities etc
+      - [Sch. 19 para. 15Z1](schedule/19/paragraph/15Z1.md)
+      - [Sch. 19 para. 15Z2](schedule/19/paragraph/15Z2.md)
+    - Netting: non-UK allocated equity and liabilities
+      - [Sch. 19 para. 15Z3](schedule/19/paragraph/15Z3.md)
+      - [Sch. 19 para. 15Z4](schedule/19/paragraph/15Z4.md)
+    - Equity and liabilities: threshold amount
+      - [Sch. 19 para. 15Z5](schedule/19/paragraph/15Z5.md)
     - Definition of “UK allocated equity and liabilities”
       - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
       - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
       - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
       - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+      - [Sch. 19 para. 27A](schedule/19/paragraph/27A.md)
+      - [Sch. 19 para. 27B](schedule/19/paragraph/27B.md)
+      - [Sch. 19 para. 27C](schedule/19/paragraph/27C.md)
+      - [Sch. 19 para. 27D](schedule/19/paragraph/27D.md)
     - “Excluded” equity and liabilities
       - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
       - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
@@ -817,9 +854,11 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2018-01-03
       - [Sch. 19 para. 52](schedule/19/paragraph/52.md)
     - Joint and several liability
       - [Sch. 19 para. 53](schedule/19/paragraph/53.md)
+      - [Sch. 19 para. 53A](schedule/19/paragraph/53A.md)
     - Meaning of “the responsible member”
       - [Sch. 19 para. 54](schedule/19/paragraph/54.md)
       - [Sch. 19 para. 55](schedule/19/paragraph/55.md)
+      - [Sch. 19 para. 55A](schedule/19/paragraph/55A.md)
     - Consequential amendment to section 1 of PCTA 1968
       - [Sch. 19 para. 56](schedule/19/paragraph/56.md)
     - Consequential amendments to TMA 1970
