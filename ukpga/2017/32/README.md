@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-01-01, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-03-15, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2018-01-01
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2018-03-15
 
 ## Contents
 
@@ -724,10 +724,23 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2018-01-01
       - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
     - Acquisition of unlisted employer shares
       - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+  - PART 3A Duty to provide loan charge information to HMRC
+    - [Sch. 11 para. 35A Duty to provide loan charge information](schedule/11/paragraph/35A.md)
+    - [Sch. 11 para. 35B Duty to provide loan charge information](schedule/11/paragraph/35B.md)
+    - [Sch. 11 para. 35C Duty to provide loan charge information](schedule/11/paragraph/35C.md)
+    - [Sch. 11 para. 35D “Loan charge information”](schedule/11/paragraph/35D.md)
+    - [Sch. 11 para. 35E Power to amend paragraph 35D](schedule/11/paragraph/35E.md)
+    - [Sch. 11 para. 35F Penalties for failure to comply](schedule/11/paragraph/35F.md)
+    - [Sch. 11 para. 35G Penalties for inaccurate information and documents](schedule/11/paragraph/35G.md)
+    - [Sch. 11 para. 35H Reasonable excuse](schedule/11/paragraph/35H.md)
+    - [Sch. 11 para. 35I Assessment of a penalty](schedule/11/paragraph/35I.md)
+    - [Sch. 11 para. 35J Appeals](schedule/11/paragraph/35J.md)
+    - [Sch. 11 para. 35K Enforcement](schedule/11/paragraph/35K.md)
   - PART 4 Supplementary provision
-    - Duty to provide loan balance information to B
+    - Duty to provide loan charge information to B
       - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
     - Double taxation
+      - [Sch. 11 para. 36A](schedule/11/paragraph/36A.md)
       - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
       - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
     - Remittance basis
@@ -780,6 +793,21 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2018-01-01
   - Accelerated payments
     - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
     - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+  - Duty to provide loan charge information to HMRC
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+  - “Loan charge information”
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+  - Duty to provide loan charge information: penalties
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+  - Penalties under paragraph 25: reasonable excuse
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+  - Penalties under paragraphs 25 and 26: assessment, appeals and enforcement
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
 - SCHEDULE 13 Third country goods fulfilment businesses: penalty
   - Liability to penalty
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
