@@ -2,9 +2,9 @@
 
 2018 c. 6. Enacted 2018-03-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-03-28, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/6/2018-04-01
+Source: https://www.legislation.gov.uk/ukpga/2018/6/2018-03-28
 
 ## Contents
 
