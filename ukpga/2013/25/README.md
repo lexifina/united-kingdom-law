@@ -2,9 +2,9 @@
 
 2013 c. 25. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-07-17, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/25/2017-07-17
+Source: https://www.legislation.gov.uk/ukpga/2013/25/2018-04-01
 
 ## Contents
 
@@ -286,6 +286,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/25/2017-07-17
   - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
   - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
   - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
 - SCHEDULE 11 Prime Minister, Lord Chancellor and Commons Speaker
   - Extension of MPs’ and Ministerial pension schemes
     - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
