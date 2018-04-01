@@ -1,0 +1,313 @@
+# London Government Act 1963
+
+1963 c. 33. Enacted 1963-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1963/33/2018-04-01
+
+## Contents
+
+- Part I Local Government in and around Greater London
+  - [s. 1 London boroughs.](section/1.md)
+  - [s. 2 Greater London and the Greater London Council.](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 General provisions as to exercise in Greater London of existing local authority functions.](section/4.md)
+  - [s. 5 Delegation of functions in Greater London.](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8](section/8.md)
+- Part II Road Traffic, Highways and Motor Vehicles
+  - [s. 9 General duty of Greater London Council with respect to road traffic and abolition of London Traffic Area and Traffic Advisory Committee.](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 14 Other road traffic functions in Greater London.](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 ................................](section/16.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+- Part III Housing and Planning
+  - Housing
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Transfer of land held for housing purposes.](section/23.md)
+    - [s. 24 ................................](section/24.md)
+- Part IV Education and Youth Employment Service
+  - [s. 30 Local education authorities.](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+- Part V Sewerage and Trade Effluents
+  - [s. 35 ................................](section/35.md)
+  - [s. 37 Application of enactments relating to sewerage and sewage disposal.](section/37.md)
+  - [s. 38 ................................](section/38.md)
+- Part VI Application of Public Health Acts and Related Acts
+  - [s. 40 General application of Public Health Acts.](section/40.md)
+  - [s. 41 ................................](section/41.md)
+  - [s. 42 Medical officers of health and public health inspectors for the City, etc.](section/42.md)
+  - [s. 43 Modifications of London Building Acts.](section/43.md)
+  - [s. 44 Cemeteries and crematoria.](section/44.md)
+- Part VII Functions as to Health and Welfare Services and other matters
+  - [s. 45](section/45.md)
+  - [s. 46 Accommodation and welfare of disabled and old persons, etc.](section/46.md)
+  - [s. 47 Children authorities.](section/47.md)
+  - [s. 48 Fire authorities.](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 Explosives and petroleum-spirit.](section/50.md)
+  - [s. 51](section/51.md)
+  - [s. 52 Licensing of theatres, public entertainments etc.](section/52.md)
+  - [s. 53](section/53.md)
+  - [s. 54 Food, drugs, markets and animals.](section/54.md)
+  - [s. 55 Smallholdings, allotments, etc.](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57](section/57.md)
+  - [s. 58](section/58.md)
+  - [s. 59 The Green Belt.](section/59.md)
+  - [s. 60 Functions under National Parks and Access to the Countryside Act 1949.](section/60.md)
+  - [s. 61 Functions under Town Development Act 1952.](section/61.md)
+  - [s. 62 Miscellaneous local authority functions.](section/62.md)
+- Part VIII Rating and valuation and associated matters
+  - [s. 63 Rating and valuation.](section/63.md)
+  - [s. 64 ................................](section/64.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 ................................](section/67.md)
+  - [s. 68 Financial provisions applicable to the Common Council.](section/68.md)
+  - [s. 69 ................................](section/69.md)
+- Part IX Miscellaneous and General
+  - Common services
+    - [s. 71 ................................](section/71.md)
+    - [s. 73 Publicity for amenities of Greater London.](section/73.md)
+  - Miscellaneous
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 Compensation for injury to or death of officers.](section/75.md)
+    - [s. 76 Adjustment to metropolitan police district.](section/76.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 Charities in Greater London.](section/81.md)
+  - General
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 Other adaptations of enactments.](section/83.md)
+    - [s. 84 Supplementary and transitional provision.](section/84.md)
+    - [s. 85 Transfer and compensation of officers.](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 Local Acts and instruments in and around Greater London.](section/87.md)
+    - [s. 88 General provision as to inquiries.](section/88.md)
+    - [s. 89 Interpretation.](section/89.md)
+    - [s. 90 Orders, rules and regulations.](section/90.md)
+    - [s. 91 Expenses.](section/91.md)
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 Repeals and savings.](section/93.md)
+    - [s. 94 Short title, commencement and extent.](section/94.md)
+- SCHEDULE 1 The London Boroughs
+  - Part I
+    - Areas etc. of the London boroughs
+  - Part II
+    - Definition of certain boundaries
+      - [Sch. 1 Pt. II heading definition-of-certain-boundaries para. 1](schedule/1/part/II/crossheading/definition-of-certain-boundaries/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part III
+    - [Sch. 1 Pt. III para. 1](schedule/1/part/III/paragraph/1.md)
+- SCHEDULE 2 ...
+- SCHEDULE 3 Parliamentary and Local Government Elections in and around Greater London
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Part III Modifications of Representation of the People Act 1949
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+- SCHEDULE 4 ...
+- SCHEDULE 5 ...
+- SCHEDULE 6 ...
+- SCHEDULE 7 ...
+- SCHEDULE 8 ...
+- SCHEDULE 9 Modification and Re-enactment as from 1st April 1965 of Enactments Relating to Sewerage and Drainage
+  - Part I
+    - [Sch. 9 Pt. I para. 1](schedule/9/part/I/paragraph/1.md)
+  - Part II Specific modifications of Sewerage Provisions of Public Health Act 1936
+    - [Sch. 9 Pt. II para. 1](schedule/9/part/II/paragraph/1.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 Pt. II para. 17](schedule/9/part/II/paragraph/17.md)
+    - [Sch. 9 Pt. II para. 18](schedule/9/part/II/paragraph/18.md)
+    - [Sch. 9 Pt. II para. 19](schedule/9/part/II/paragraph/19.md)
+  - Part III ...
+    - Construction, maintenance and operation of sewers, etc.
+      - [Sch. 9 Pt. III heading construction-maintenance-and-operation-of-sewers-etc para. 1](schedule/9/part/III/crossheading/construction-maintenance-and-operation-of-sewers-etc/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10 ................................](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 13 ................................](schedule/9/paragraph/13.md)
+    - Miscellaneous
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+      - [Sch. 9 Pt. III heading miscellaneous para. 17](schedule/9/part/III/crossheading/miscellaneous/paragraph/17.md)
+      - [Sch. 9 Pt. III heading miscellaneous para. 18](schedule/9/part/III/crossheading/miscellaneous/paragraph/18.md)
+      - [Sch. 9 Pt. III heading miscellaneous para. 19](schedule/9/part/III/crossheading/miscellaneous/paragraph/19.md)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+- SCHEDULE 10 ...
+- SCHEDULE 11 Modification and Re-enactment as from 1st April 1965 of Provisions of Public Health Acts
+  - Part I Modifications
+    - General Modifications
+      - [Sch. 11 Pt. I heading general-modifications para. 1](schedule/11/part/I/crossheading/general-modifications/paragraph/1.md)
+      - [Sch. 11 Pt. I heading general-modifications para. 2](schedule/11/part/I/crossheading/general-modifications/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - The Public Health Act 1936
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - The Water Act 1945
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+      - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - The Clean Air Act 1956
+      - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+      - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+      - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+    - The Public Health Act 1961
+      - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+      - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+      - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+      - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+      - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+      - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+      - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+  - Part II Provisions Reproduced from Enactments Relating to Public Health in London
+    - [Sch. 11 Pt. II para. 1](schedule/11/part/II/paragraph/1.md)
+    - [Sch. 11 Pt. II para. 2](schedule/11/part/II/paragraph/2.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+- SCHEDULE 12 Licensing of Public Entertainments in Greater London on and after 1st April 1965
+  - Music and dancing licences
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 2A](schedule/12/paragraph/2A.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 3A Indoor sports licences](schedule/12/paragraph/3A.md)
+    - [Sch. 12 para. 3B](schedule/12/paragraph/3B.md)
+    - [Sch. 12 para. 3C](schedule/12/paragraph/3C.md)
+  - Boxing and wrestling licences
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 6A](schedule/12/paragraph/6A.md)
+    - [Sch. 12 para. 6B](schedule/12/paragraph/6B.md)
+  - Transmission and cancellation of licences
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Power to impose general terms, conditions and restrictions by regulations
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Enforcement of paragraphs 1 to 9
+    - [Sch. 12 para. 9A](schedule/12/paragraph/9A.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 11A](schedule/12/paragraph/11A.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 12A](schedule/12/paragraph/12A.md)
+    - [Sch. 12 para. 12B](schedule/12/paragraph/12B.md)
+    - [Sch. 12 para. 12C](schedule/12/paragraph/12C.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Provisional grant of licences
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - Variation of licences
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 18A](schedule/12/paragraph/18A.md)
+  - Appeals
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - Interpretation
+    - [Sch. 12 para. 19A](schedule/12/paragraph/19A.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+- SCHEDULE 13
+  - PART I
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Part II
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Part III
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+- SCHEDULE 14 Functions as from 1st April 1965 with respect to Land Drainage, Flood Prevention, etc.
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+- SCHEDULE 15 Modifications as from 1st April 1965 of Rating and Valuation Enactments
+  - Part I The Rating and Valuation Act 1925
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Part II
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - Part III
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+- SCHEDULE 16 ...
+- SCHEDULE 17 Miscellaneous Modifications of Enactments as from 1st April 1965
+  - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+  - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+  - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+  - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+  - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+  - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+  - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+  - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+  - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+  - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+  - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+  - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+  - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+  - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+  - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+  - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+- SCHEDULE 18 ...
