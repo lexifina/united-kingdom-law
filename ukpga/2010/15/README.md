@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-03-30, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2018-03-30
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2018-04-01
 
 ## Contents
 
@@ -222,7 +222,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2018-03-30
     - [s. 149 Public sector equality duty](section/149.md)
     - [s. 150 Public authorities and public functions](section/150.md)
     - [s. 151 Power to specify public authorities](section/151.md)
-    - [s. 152 Power to specify public authorities: consultation and consent](section/152.md)
+    - [s. 152 Power to specify public authorities: consultation ...](section/152.md)
     - [s. 153 Power to impose specific duties](section/153.md)
     - [s. 154 Power to impose specific duties: cross-border authorities](section/154.md)
     - [s. 155 Power to impose specific duties: supplementary](section/155.md)
