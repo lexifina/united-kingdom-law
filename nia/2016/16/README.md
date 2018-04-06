@@ -1,0 +1,119 @@
+# Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016
+
+nia/2016/16. Enacted 2016-04-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2016/16/2018-04-06
+
+## Contents
+
+- Credit Unions
+  - [s. 1 Corporate members of credit unions](section/1.md)
+  - [s. 2 Removal of restriction on non-qualifying members of a credit union](section/2.md)
+  - [s. 3 Interest-bearing shares](section/3.md)
+  - [s. 4 Attachment of shares](section/4.md)
+  - [s. 5 Supply by credit union of copies of its rules](section/5.md)
+  - [s. 6 Application of surplus funds for social, cultural or charitable purposes](section/6.md)
+  - [s. 7 Application of directors disqualification provisions to credit unions](section/7.md)
+- Co-operative and Community Benefit Societies
+  - [s. 8 Registration of societies as co-operative or community benefit societies etc.](section/8.md)
+  - [s. 9 Members under 18 years old](section/9.md)
+  - [s. 10 Limits on holding shares](section/10.md)
+  - [s. 11 Year of account](section/11.md)
+  - [s. 12 Publication of unaudited interim accounts](section/12.md)
+  - [s. 13 Dissolution of a registered society by an instrument of dissolution](section/13.md)
+- General
+  - [s. 14 Review of section 1](section/14.md)
+  - [s. 15 Interpretation](section/15.md)
+  - [s. 16 Minor and consequential amendments](section/16.md)
+  - [s. 17 Commencement](section/17.md)
+  - [s. 18 Short title](section/18.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 AMENDMENTS CONSEQUENTIAL ON SECTION 1
+    - The Credit Unions (Northern Ireland) Order 1985 (NI 12)
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - PART 2 AMENDMENTS CONSEQUENTIAL ON SECTION 8
+    - Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Fish Industry Act (Northern Ireland) 1972 (c. 4)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - The Industrial and Provident Societies (Amendment) (Northern Ireland) Order 1976 (NI 7)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - The Property (Discharge of Mortgage by Receipt) (Northern Ireland) Order 1983 (NI 9)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - The Credit Unions (Northern Ireland) Order 1985 (NI 12)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - The Industrial Relations (Northern Ireland) Order 1992 (NI 5)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - The Housing (Northern Ireland) Order 1992 (NI 15)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - The Company Directors Disqualification (Northern Ireland) Order 2002 (NI 4)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - The Insolvency (Northern Ireland) Order 2005 (NI 10)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - The Industrial and Provident Societies (Northern Ireland) Order 2006 (NI 3)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Charities Act (Northern Ireland) 2008 (c. 12)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Local Government Act (Northern Ireland) 2014 (c. 8)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - General modifications
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - PART 3 MINOR AND CONSEQUENTIAL AMENDMENTS: GENERAL
+    - Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - The Credit Unions (Northern Ireland) Order 1985 (NI 12)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - PART 4 REMOVAL OF OBSOLETE MATERIAL ETC.
+    - Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+- SCHEDULE 2 TRANSITIONAL PROVISION
+  - Section 4: attachment of shares
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Section 8: pending applications for registration of a society
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Section 8: appeals against decision not to register
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Section 9: members under 18
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
