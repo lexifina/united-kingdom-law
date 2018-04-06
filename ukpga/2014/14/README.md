@@ -2,9 +2,9 @@
 
 2014 c. 14. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-01-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-04-06, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/14/2018-01-01
+Source: https://www.legislation.gov.uk/ukpga/2014/14/2018-04-06
 
 ## Contents
 
@@ -211,7 +211,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/14/2018-01-01
   - Other miscellaneous provisions
     - [s. 141 Recovery of costs and expenses](section/141.md)
   - Northern Ireland societies
-    - [s. 142 Northern Ireland societies whose rules are recorded by the FCA](section/142.md)
+    - [s. 142 Northern Ireland societies to be treated as registered societies](section/142.md)
   - Documents
     - [s. 143 Form of documents etc](section/143.md)
     - [s. 144 Form etc of electronic documents sent to FCA or PRA](section/144.md)
