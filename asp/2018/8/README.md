@@ -1,0 +1,143 @@
+# Forestry and Land Management (Scotland) Act 2018
+
+asp/2018/8. Enacted 2018-05-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2018/8
+
+Source: https://www.legislation.gov.uk/asp/2018/8/enacted
+
+## Contents
+
+- PART 1 Overview of Act
+  - [s. 1 Overview of Act](section/1.md)
+- PART 2 Forestry functions
+  - CHAPTER 1 General forestry functions
+    - Duty to promote sustainable forest management
+      - [s. 2 Duty to promote sustainable forest management](section/2.md)
+    - Forestry strategy
+      - [s. 3 Duty to prepare forestry strategy](section/3.md)
+      - [s. 4 Preparation and revision of forestry strategy](section/4.md)
+      - [s. 5 Publication of forestry strategy](section/5.md)
+      - [s. 6 Duty to have regard to forestry strategy](section/6.md)
+      - [s. 7 Report on forestry strategy](section/7.md)
+    - Duty to make arrangements for research
+      - [s. 8 Duty to make arrangements for research in relation to the promotion of sustainable forest management](section/8.md)
+  - CHAPTER 2 Tree health and silvicultural material testing functions
+    - [s. 9 Transfer of Plant Varieties and Seeds Act 1964 functions](section/9.md)
+    - [s. 10 Transfer of Plant Health Act 1967 functions](section/10.md)
+- PART 3 Management of land by Scottish Ministers
+  - Management of forested land
+    - [s. 11 Management of forested land](section/11.md)
+    - [s. 12 Meaning of “forested land”](section/12.md)
+    - [s. 13 Meaning of “national forest estate”](section/13.md)
+  - Forestry information
+    - [s. 14 Duty to publish information on forestry](section/14.md)
+  - Management of land to further sustainable development
+    - [s. 15 Management of land to further sustainable development](section/15.md)
+  - Duty to publish map of land managed by Scottish Ministers
+    - [s. 16 Duty to publish map of land managed by Scottish Ministers](section/16.md)
+  - Power to enter into arrangements
+    - [s. 17 Power to enter into arrangements](section/17.md)
+  - Acquisition and disposal of land
+    - [s. 18 Power to acquire land by agreement](section/18.md)
+    - [s. 19 Compulsory purchase of land](section/19.md)
+    - [s. 20 Power to dispose of land](section/20.md)
+- PART 4 Felling
+  - CHAPTER 1 Overview and key terms
+    - [s. 21 Overview of Part 4](section/21.md)
+    - [s. 22 Key terms in Part 4](section/22.md)
+  - CHAPTER 2 Offence of unauthorised felling
+    - [s. 23 Offence of unauthorised felling](section/23.md)
+    - [s. 24 Unauthorised felling: exemptions](section/24.md)
+  - CHAPTER 3 Felling permission
+    - [s. 25 Applications for felling permission](section/25.md)
+    - [s. 26 False or misleading information in applications: offence](section/26.md)
+    - [s. 27 Decisions on applications](section/27.md)
+    - [s. 28 Continuing conditions on felling permission: offence](section/28.md)
+    - [s. 29 Variation of felling permission](section/29.md)
+    - [s. 30 Suspension of felling permission](section/30.md)
+    - [s. 31 Revocation of felling permission](section/31.md)
+    - [s. 32 Compensation for refusal of felling permission](section/32.md)
+    - [s. 33 Felling of trees subject to tree preservation orders](section/33.md)
+  - CHAPTER 4 Felling directions
+    - [s. 34 Felling directions](section/34.md)
+    - [s. 35 Felling directions: offence](section/35.md)
+  - CHAPTER 5 Restocking directions
+    - [s. 36 Restocking directions](section/36.md)
+    - [s. 37 Restocking directions: offence](section/37.md)
+  - CHAPTER 6 Continuing conditions on felling permission, felling directions and restocking directions: notices to comply
+    - [s. 38 Registration of notices to comply](section/38.md)
+    - [s. 39 Registered notices to comply: offence](section/39.md)
+  - CHAPTER 7 Registration of notices under Chapters 6 and 8
+    - [s. 40 Registration of notices of variation](section/40.md)
+    - [s. 41 Registration of notices of discharge from compliance](section/41.md)
+    - [s. 42 Meaning of “register”](section/42.md)
+    - [s. 43 Descriptions of land](section/43.md)
+    - [s. 44 Receipt of notices by Keeper](section/44.md)
+  - CHAPTER 8 Compliance
+    - Temporary stop notices
+      - [s. 45 Temporary stop notices](section/45.md)
+      - [s. 46 Temporary stop notices: offence](section/46.md)
+      - [s. 47 Temporary stop notices: compensation](section/47.md)
+    - Requests for information
+      - [s. 48 Requests for information](section/48.md)
+      - [s. 49 Requests for information: offence](section/49.md)
+    - Site visits
+      - [s. 50 Site visits with consent of owner or occupier](section/50.md)
+    - Powers of entry
+      - [s. 51 Power of entry: unauthorised felling](section/51.md)
+      - [s. 52 Power of entry: decision to give felling directions or restocking directions](section/52.md)
+      - [s. 53 Power of entry: failure to comply](section/53.md)
+    - Remedial notices
+      - [s. 54 Remedial notices](section/54.md)
+      - [s. 55 Remedial notices: offence](section/55.md)
+      - [s. 56 Registration of remedial notices](section/56.md)
+      - [s. 57 Registered remedial notices: offence](section/57.md)
+    - Giving documents to owner or occupier
+      - [s. 58 Giving documents to owner or occupier](section/58.md)
+    - Step-in power
+      - [s. 59 Step-in power](section/59.md)
+    - Powers of entry and step-in power: application to court
+      - [s. 60 Powers of entry and step-in power: application to court](section/60.md)
+    - Powers of entry and step-in power: offences
+      - [s. 61 Powers of entry and step-in power: offences](section/61.md)
+    - Powers of entry and step-in power: further provision
+      - [s. 62 Powers of entry and step-in power: further provision](section/62.md)
+    - Step-in power: recovery of expenses
+      - [s. 63 Step-in power: recovery of expenses](section/63.md)
+      - [s. 64 Registration of notices of liability for expenses](section/64.md)
+      - [s. 65 Recovery of expenses from new owner of land](section/65.md)
+      - [s. 66 Registration of notices of discharge of liability for expenses](section/66.md)
+    - Time limit for prosecution
+      - [s. 67 Time limit for prosecution](section/67.md)
+  - CHAPTER 9 Appeals
+    - [s. 68 Appeals against decisions by Scottish Ministers](section/68.md)
+- PART 5 General powers
+  - [s. 69 Information, research and education etc.](section/69.md)
+  - [s. 70 Power to form companies etc.](section/70.md)
+  - [s. 71 Financial assistance](section/71.md)
+  - [s. 72 Charging](section/72.md)
+  - [s. 73 Chief forester](section/73.md)
+  - [s. 74 Arrangements for carrying out forestry and land management functions](section/74.md)
+  - [s. 75 Report on operation of administrative arrangements](section/75.md)
+- PART 6 General and final provisions
+  - [s. 76 Regulations](section/76.md)
+  - [s. 77 Ancillary provision](section/77.md)
+  - [s. 78 Interpretation](section/78.md)
+  - [s. 79 Modifications of enactments and repeals](section/79.md)
+  - [s. 80 Saving of existing forestry dedication agreements](section/80.md)
+  - [s. 81 Forestry Commissioners’ functions no longer exercisable in Scotland](section/81.md)
+  - [s. 82 Index of defined expressions](section/82.md)
+  - [s. 83 Crown application: general](section/83.md)
+  - [s. 84 Crown application: powers of entry](section/84.md)
+  - [s. 85 Commencement](section/85.md)
+  - [s. 86 Short title](section/86.md)
+- SCHEDULE 1 MODIFICATIONS OF ENACTMENTS
+  - Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Town and Country Planning (Scotland) Act 1997
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 REPEALS
+- SCHEDULE 3 INDEX OF DEFINED EXPRESSIONS
