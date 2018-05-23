@@ -2,11 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-05-23, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
-
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2018-05-23
 
 ## Contents
 
@@ -18,41 +16,35 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
   - CHAPTER 1 Scope and definitions
     - [s. 4 Processing to which this Part applies](section/4.md)
     - [s. 5 Definitions](section/5.md)
-  - CHAPTER 2 The UK GDPR
-    - Meaning of certain terms used in the UK GDPR
+  - CHAPTER 2 The GDPR
+    - Meaning of certain terms used in the GDPR
       - [s. 6 Meaning of “controller”](section/6.md)
       - [s. 7 Meaning of “public authority” and “public body”](section/7.md)
     - Lawfulness of processing
       - [s. 8 Lawfulness of processing: public interest etc](section/8.md)
       - [s. 9 Child’s consent in relation to information society services](section/9.md)
-    - Relevant international law
-      - [s. 9A Processing in reliance on relevant international law](section/9A.md)
     - Special categories of personal data
       - [s. 10 Special categories of personal data and criminal convictions etc data](section/10.md)
       - [s. 11 Special categories of personal data etc: supplementary](section/11.md)
     - Rights of the data subject
       - [s. 12 Limits on fees that may be charged by controllers](section/12.md)
       - [s. 13 Obligations of credit reference agencies](section/13.md)
-      - [s. 13A Meaning of “relevant offence” for purpose of right to erasure](section/13A.md)
       - [s. 14 Automated decision-making authorised by law: safeguards](section/14.md)
-    - Exemptions etc
+    - Restrictions on data subject’s rights
       - [s. 15 Exemptions etc](section/15.md)
       - [s. 16 Power to make further exemptions etc by regulations](section/16.md)
-    - Certification
+    - Accreditation of certification providers
       - [s. 17 Accreditation of certification providers](section/17.md)
-    - ...
-      - [s. 17A Transfers based on adequacy regulations](section/17A.md)
-      - [s. 17B Transfers based on adequacy regulations: review etc](section/17B.md)
-      - [s. 17C Standard data protection clauses](section/17C.md)
-      - [s. 18 Transfers of personal data to third countries etc: public interest](section/18.md)
-    - ...
+    - Transfers of personal data to third countries etc
+      - [s. 18 Transfers of personal data to third countries etc](section/18.md)
+    - Specific processing situations
       - [s. 19 Processing for archiving, research and statistical purposes: safeguards](section/19.md)
     - Minor definition
       - [s. 20 Meaning of “court”](section/20.md)
-  - CHAPTER 3 Exemptions for manual unstructured processing and for national security and defence purposes
-    - Definitions
-      - [s. 21 Definitions](section/21.md)
-    - ...
+  - CHAPTER 3 Other general processing
+    - Scope
+      - [s. 21 Processing to which this Chapter applies](section/21.md)
+    - Application of the GDPR
       - [s. 22 Application of the GDPR to processing to which this Chapter applies](section/22.md)
       - [s. 23 Power to make provision in consequence of regulations related to the GDPR](section/23.md)
     - Exemptions etc
@@ -60,7 +52,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [s. 25 Manual unstructured data used in longstanding historical research](section/25.md)
       - [s. 26 National security and defence exemption](section/26.md)
       - [s. 27 National security: certificate](section/27.md)
-      - [s. 28 National security and defence: modifications to Articles 9 and 32 of the UK GDPR](section/28.md)
+      - [s. 28 National security and defence: modifications to Articles 9 and 32 of the applied GDPR](section/28.md)
 - PART 3 Law enforcement processing
   - CHAPTER 1 Scope and definitions
     - Scope
@@ -78,18 +70,15 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 38 The fourth data protection principle](section/38.md)
     - [s. 39 The fifth data protection principle](section/39.md)
     - [s. 40 The sixth data protection principle](section/40.md)
-    - [s. 40A Conditions for consent](section/40A.md)
     - [s. 41 Safeguards: archiving](section/41.md)
     - [s. 42 Safeguards: sensitive processing](section/42.md)
-    - [s. 42A Further provision about sensitive processing](section/42A.md)
   - CHAPTER 3 Rights of the data subject
     - Overview and scope
       - [s. 43 Overview and scope](section/43.md)
-    - Data subject’s rights to information
-      - [s. 44 ... Controller’s general duties](section/44.md)
-    - ...
+    - Information: controller’s general duties
+      - [s. 44 Information: controller’s general duties](section/44.md)
+    - Data subject’s right of access
       - [s. 45 Right of access by the data subject](section/45.md)
-      - [s. 45A Exemption from sections 44 and 45: legal professional privilege](section/45A.md)
     - Data subject’s rights to rectification or erasure etc
       - [s. 46 Right to rectification](section/46.md)
       - [s. 47 Right to erasure or restriction of processing](section/47.md)
@@ -97,12 +86,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - Automated individual decision-making
       - [s. 49 Right not to be subject to automated decision-making](section/49.md)
       - [s. 50 Automated decision-making authorised by law: safeguards](section/50.md)
-      - [s. 50A Automated processing and significant decisions](section/50A.md)
-      - [s. 50B Restrictions on automated decision-making based on sensitive processing](section/50B.md)
-      - [s. 50C Safeguards for automated decision-making](section/50C.md)
-      - [s. 50D Further provision about automated decision-making](section/50D.md)
     - Supplementary
-      - [s. 51 Exercise of rights through the Commission](section/51.md)
+      - [s. 51 Exercise of rights through the Commissioner](section/51.md)
       - [s. 52 Form of provision of information etc](section/52.md)
       - [s. 53 Manifestly unfounded or excessive requests by the data subject](section/53.md)
       - [s. 54 Meaning of “applicable time period”](section/54.md)
@@ -117,38 +102,31 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [s. 60 Processing under the authority of the controller or processor](section/60.md)
       - [s. 61 Records of processing activities](section/61.md)
       - [s. 62 Logging](section/62.md)
-      - [s. 63 Co-operation with the Commission](section/63.md)
+      - [s. 63 Co-operation with the Commissioner](section/63.md)
       - [s. 64 Data protection impact assessment](section/64.md)
-      - [s. 65 Prior consultation with the Commission](section/65.md)
+      - [s. 65 Prior consultation with the Commissioner](section/65.md)
     - Obligations relating to security
       - [s. 66 Security of processing](section/66.md)
     - Obligations relating to personal data breaches
-      - [s. 67 Notification of a personal data breach to the Commission](section/67.md)
+      - [s. 67 Notification of a personal data breach to the Commissioner](section/67.md)
       - [s. 68 Communication of a personal data breach to the data subject](section/68.md)
     - Data protection officers
       - [s. 69 Designation of a data protection officer](section/69.md)
       - [s. 70 Position of data protection officer](section/70.md)
       - [s. 71 Tasks of data protection officer](section/71.md)
-    - Codes of conduct
-      - [s. 71A Codes of conduct](section/71A.md)
   - CHAPTER 5 Transfers of personal data to third countries etc
     - Overview and interpretation
       - [s. 72 Overview and interpretation](section/72.md)
     - General principles for transfers
       - [s. 73 General principles for transfers of personal data](section/73.md)
       - [s. 74 Transfers on the basis of an adequacy decision](section/74.md)
-      - [s. 74A Transfers based on adequacy regulations](section/74A.md)
-      - [s. 74AA Transfers approved by regulations](section/74AA.md)
-      - [s. 74AB The data protection test](section/74AB.md)
-      - [s. 74B Transfers approved by regulations: monitoring](section/74B.md)
-      - [s. 75 Transfers subject to appropriate safeguards](section/75.md)
-      - [s. 76 Transfers based on special circumstances](section/76.md)
-    - Additional conditions
-      - [s. 77 Additional conditions for transfers in reliance on section 73(4)(b)](section/77.md)
+      - [s. 75 Transfers on the basis of appropriate safeguards](section/75.md)
+      - [s. 76 Transfers on the basis of special circumstances](section/76.md)
+    - Transfers to particular recipients
+      - [s. 77 Transfers of personal data to persons other than relevant authorities](section/77.md)
     - Subsequent transfers
       - [s. 78 Subsequent transfers](section/78.md)
   - CHAPTER 6 Supplementary
-    - [s. 78A National security exemption](section/78A.md)
     - [s. 79 National security: certificate](section/79.md)
     - [s. 80 Special processing restrictions](section/80.md)
     - [s. 81 Reporting of infringements](section/81.md)
@@ -156,11 +134,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
   - CHAPTER 1 Scope and definitions
     - Scope
       - [s. 82 Processing to which this Part applies](section/82.md)
-      - [s. 82A Designation of processing by a qualifying competent authority](section/82A.md)
-      - [s. 82B Duration of designation notice](section/82B.md)
-      - [s. 82C Review and withdrawal of designation notice](section/82C.md)
-      - [s. 82D Records of designation notices](section/82D.md)
-      - [s. 82E Appeal against designation notice](section/82E.md)
     - Definitions
       - [s. 83 Meaning of “controller” and “processor”](section/83.md)
       - [s. 84 Other definitions](section/84.md)
@@ -174,7 +147,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [s. 89 The fourth data protection principle](section/89.md)
       - [s. 90 The fifth data protection principle](section/90.md)
       - [s. 91 The sixth data protection principle](section/91.md)
-      - [s. 91A Further provision about sensitive processing](section/91A.md)
   - CHAPTER 3 Rights of the data subject
     - Overview
       - [s. 92 Overview](section/92.md)
@@ -207,34 +179,23 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 111 National security: certificate](section/111.md)
     - [s. 112 Other exemptions](section/112.md)
     - [s. 113 Power to make further exemptions](section/113.md)
-- PART 5 The Information Commission
-  - ...
+- PART 5 The Information Commissioner
+  - The Commissioner
     - [s. 114 The Information Commissioner](section/114.md)
-  - The Information Commission
-    - [s. 114A The Information Commission](section/114A.md)
   - General functions
-    - [s. 115 General functions under the UK GDPR and safeguards](section/115.md)
+    - [s. 115 General functions under the GDPR and safeguards](section/115.md)
     - [s. 116 Other general functions](section/116.md)
     - [s. 117 Competence in relation to courts etc](section/117.md)
   - International role
-    - [s. 118 Co-operation between parties to the Data Protection Convention](section/118.md)
+    - [s. 118 Co-operation and mutual assistance](section/118.md)
     - [s. 119 Inspection of personal data in accordance with international obligations](section/119.md)
-    - [s. 119A Standard clauses for transfers to third countries etc](section/119A.md)
     - [s. 120 Further international role](section/120.md)
-  - Duties in carrying out functions
-    - [s. 120A Principal objective](section/120A.md)
-    - [s. 120B Duties in relation to functions under the data protection legislation](section/120B.md)
-    - [s. 120C Strategy](section/120C.md)
-    - [s. 120D Duty to consult other regulators](section/120D.md)
   - Codes of practice
     - [s. 121 Data-sharing code](section/121.md)
     - [s. 122 Direct marketing code](section/122.md)
     - [s. 123 Age-appropriate design code](section/123.md)
     - [s. 124 Data protection and journalism code](section/124.md)
-    - [s. 124A Other codes of practice](section/124A.md)
-    - [s. 124B Panels to consider codes of practice](section/124B.md)
-    - [s. 124C Impact assessments for codes of practice](section/124C.md)
-    - [s. 125 Approval of codes prepared under sections 121 to 124A](section/125.md)
+    - [s. 125 Approval of codes prepared under sections 121 to 124](section/125.md)
     - [s. 126 Publication and review of codes issued under section 125(4)](section/126.md)
     - [s. 127 Effect of codes issued under section 125(4)](section/127.md)
     - [s. 128 Other codes of practice](section/128.md)
@@ -242,8 +203,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 129 Consensual audits](section/129.md)
   - Records of national security certificates
     - [s. 130 Records of national security certificates](section/130.md)
-  - Information provided to the Commission
-    - [s. 131 Disclosure of information to the Commission](section/131.md)
+  - Information provided to the Commissioner
+    - [s. 131 Disclosure of information to the Commissioner](section/131.md)
     - [s. 132 Confidentiality of information](section/132.md)
     - [s. 133 Guidance about privileged communications](section/133.md)
   - Fees
@@ -251,15 +212,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 135 Manifestly unfounded or excessive requests by data subjects etc](section/135.md)
     - [s. 136 Guidance about fees](section/136.md)
   - Charges
-    - [s. 137 Charges payable to the Commission by controllers](section/137.md)
+    - [s. 137 Charges payable to the Commissioner by controllers](section/137.md)
     - [s. 138 Regulations under section 137: supplementary](section/138.md)
   - Reports etc
     - [s. 139 Reporting to Parliament](section/139.md)
-    - [s. 139A Analysis of performance](section/139A.md)
-  - Documents and notices
-    - [s. 140 Publication by the Commission](section/140.md)
+    - [s. 140 Publication by the Commissioner](section/140.md)
     - [s. 141 Notices from the Commissioner](section/141.md)
-    - [s. 141A Notices from the Commission](section/141A.md)
 - PART 6 Enforcement
   - Information notices
     - [s. 142 Information notices](section/142.md)
@@ -268,14 +226,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 145 Information orders](section/145.md)
   - Assessment notices
     - [s. 146 Assessment notices](section/146.md)
-    - [s. 146A Assessment notices: approval of person to prepare report etc](section/146A.md)
     - [s. 147 Assessment notices: restrictions](section/147.md)
   - Information notices and assessment notices: destruction of documents etc
     - [s. 148 Destroying or falsifying information and documents etc](section/148.md)
-  - Interview notices
-    - [s. 148A Interview notices](section/148A.md)
-    - [s. 148B Interview notices: restrictions](section/148B.md)
-    - [s. 148C False statements made in response to interview notices](section/148C.md)
   - Enforcement notices
     - [s. 149 Enforcement notices](section/149.md)
     - [s. 150 Enforcement notices: supplementary](section/150.md)
@@ -290,22 +243,19 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 157 Maximum amount of penalty](section/157.md)
     - [s. 158 Fixed penalties for non-compliance with charges regulations](section/158.md)
     - [s. 159 Amount of penalties: supplementary](section/159.md)
-  - Guidance and report
+  - Guidance
     - [s. 160 Guidance about regulatory action](section/160.md)
     - [s. 161 Approval of first guidance about regulatory action](section/161.md)
-    - [s. 161A Annual report on regulatory action](section/161A.md)
   - Appeals etc
     - [s. 162 Rights of appeal](section/162.md)
     - [s. 163 Determination of appeals](section/163.md)
     - [s. 164 Applications in respect of urgent notices](section/164.md)
   - Complaints
-    - [s. 164A Complaints by data subjects to controllers](section/164A.md)
-    - [s. 164B Controllers to notify the Commission of the number of complaints](section/164B.md)
-    - [s. 165 Complaints by data subjects to the Commission](section/165.md)
-    - [s. 166 Orders to progress complaints to the Commission](section/166.md)
+    - [s. 165 Complaints by data subjects](section/165.md)
+    - [s. 166 Orders to progress complaints](section/166.md)
   - Remedies in the court
     - [s. 167 Compliance orders](section/167.md)
-    - [s. 168 Compensation for contravention of the UK GDPR](section/168.md)
+    - [s. 168 Compensation for contravention of the GDPR](section/168.md)
     - [s. 169 Compensation for contravention of other data protection legislation](section/169.md)
   - Offences relating to personal data
     - [s. 170 Unlawful obtaining etc of personal data](section/170.md)
@@ -319,9 +269,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 177 Guidance about how to seek redress against media organisations](section/177.md)
     - [s. 178 Review of processing of personal data for the purposes of journalism](section/178.md)
     - [s. 179 Effectiveness of the media’s dispute resolution procedures](section/179.md)
-  - Jurisdiction and court procedure
+  - Jurisdiction of courts
     - [s. 180 Jurisdiction](section/180.md)
-    - [s. 180A Procedure in connection with subject access requests](section/180A.md)
   - Definitions
     - [s. 181 Interpretation of Part 6](section/181.md)
 - PART 7 Supplementary and final provision
@@ -329,14 +278,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 182 Regulations and consultation](section/182.md)
   - Changes to the Data Protection Convention
     - [s. 183 Power to reflect changes to the Data Protection Convention](section/183.md)
-  - Prohibitions and restrictions etc on processing
-    - [s. 183A Protection of prohibitions and restrictions etc on processing: relevant enactments](section/183A.md)
-    - [s. 183B Protection of prohibitions and restrictions etc on processing: other enactments](section/183B.md)
   - Rights of the data subject
     - [s. 184 Prohibition of requirement to produce relevant records](section/184.md)
     - [s. 185 Avoidance of certain contractual terms relating to health records](section/185.md)
-    - [s. 186 Protection of data subject’s rights](section/186.md)
-    - [s. 186A Protection of data subject’s rights: further provision](section/186A.md)
+    - [s. 186 Data subject’s rights and other prohibitions and restrictions](section/186.md)
   - Representation of data subjects
     - [s. 187 Representation of data subjects with their authority](section/187.md)
     - [s. 188 Representation of data subjects with their authority: collective proceedings](section/188.md)
@@ -375,7 +320,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [s. 213 Transitional provision](section/213.md)
     - [s. 214 Extent](section/214.md)
     - [s. 215 Short title](section/215.md)
-- Schedule A1 Processing in reliance on relevant international law
 - SCHEDULE 1 Special categories of personal data and criminal convictions etc data
   - PART 1 Conditions relating to employment, health and research etc
     - Employment, social security and social protection
@@ -397,7 +341,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
     - Racial and ethnic diversity at senior levels of organisations
       - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
-    - Preventing etc unlawful acts
+    - Preventing or detecting unlawful acts
       - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
     - Protecting the public against dishonesty etc
       - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
@@ -463,9 +407,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
     - Additional safeguard: record of processing
       - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
-- SCHEDULE 2 Exemptions etc from the UK GDPR
-  - PART 1 Adaptations and restrictions as described in Articles 6(3) and 23(1)
-    - UK GDPR provisions to be adapted or restricted: “the listed GDPR provisions”
+- SCHEDULE 2 Exemptions etc from the GDPR
+  - PART 1 Adaptations and restrictions based on Articles 6(3) and 23(1)
+    - GDPR provisions to be adapted or restricted: “the listed GDPR provisions”
       - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
     - Crime and taxation: general
       - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
@@ -473,14 +417,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
     - Immigration
       - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
-    - Immigration: safeguards: immigration exemption decisions
-      - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
-    - Immigration: safeguard: record of decision that exemption applies
-      - [Sch. 2 para. 4B](schedule/2/paragraph/4B.md)
     - Information required to be disclosed by law etc or in connection with legal proceedings
       - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
-  - PART 2 Restrictions as described in Article 23(1): restrictions of rules in Articles 13 to 21 and 34
-    - UK GDPR provisions to be restricted: “the listed GDPR provisions”
+  - PART 2 Restrictions based on Article 23(1): restrictions of rules in Articles 13 to 21 and 34
+    - GDPR provisions to be restricted: “the listed GDPR provisions”
       - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
     - Functions designed to protect the public etc
       - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
@@ -499,13 +439,13 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
     - Crown honours, dignities and appointments
       - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
-  - PART 3 Restriction for the protection of rights of others
+  - PART 3 Restriction based on Article 23(1): protection of rights of others
     - Protection of the rights of others: general
       - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
     - Assumption of reasonableness for health workers, social workers and education workers
       - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
-  - PART 4 Restrictions as described in Article 23(1): restrictions of rules in Articles 13 to 15
-    - UK GDPR provisions to be restricted: “the listed GDPR provisions”
+  - PART 4 Restrictions based on Article 23(1): restrictions of rules in Articles 13 to 15
+    - GDPR provisions to be restricted: “the listed GDPR provisions”
       - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
     - Legal professional privilege
       - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
@@ -521,16 +461,16 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
     - Exam scripts and exam marks
       - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
-  - PART 5 Exemptions etc ... for reasons of freedom of expression and information
+  - PART 5 Exemptions etc based on Article 85(2) for reasons of freedom of expression and information
     - Journalistic, academic, artistic and literary purposes
       - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
-  - PART 6 Derogations etc ... for research, statistics and archiving
+  - PART 6 Derogations etc based on Article 89 for research, statistics and archiving
     - Research and statistics
       - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
     - Archiving in the public interest
       - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
-- SCHEDULE 3 Exemptions etc from the UK GDPR: health, social work, education and child abuse data
-  - PART 1 UK GDPR provisions to be restricted
+- SCHEDULE 3 Exemptions etc from the GDPR: health, social work, education and child abuse data
+  - PART 1 GDPR provisions to be restricted
     - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
   - PART 2 Health data
     - Definitions
@@ -539,9 +479,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
     - Exemption from the listed GDPR provisions: data subject’s expectations and wishes
       - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
-    - Exemption from Article 15 of the UK GDPR: serious harm
+    - Exemption from Article 15 of the GDPR: serious harm
       - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
-    - Restriction of Article 15 of the UK GDPR: prior opinion of appropriate health professional
+    - Restriction of Article 15 of the GDPR: prior opinion of appropriate health professional
       - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
   - PART 3 Social work data
     - Definitions
@@ -551,9 +491,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
     - Exemption from the listed GDPR provisions: data subject’s expectations and wishes
       - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
-    - Exemption from Article 15 of the UK GDPR: serious harm
+    - Exemption from Article 15 of the GDPR: serious harm
       - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
-    - Restriction of Article 15 of the UK GDPR: prior opinion of Principal Reporter
+    - Restriction of Article 15 of the GDPR: prior opinion of Principal Reporter
       - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
   - PART 4 Education data
     - Educational records
@@ -565,15 +505,15 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
     - Exemption from the listed GDPR provisions: data processed by a court
       - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
-    - Exemption from Article 15 of the UK GDPR: serious harm
+    - Exemption from Article 15 of the GDPR: serious harm
       - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
-    - Restriction of Article 15 of the UK GDPR: prior opinion of Principal Reporter
+    - Restriction of Article 15 of the GDPR: prior opinion of Principal Reporter
       - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
   - PART 5 Child abuse data
-    - Exemption from Article 15 of the UK GDPR: child abuse data
+    - Exemption from Article 15 of the GDPR: child abuse data
       - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
-- SCHEDULE 4 Exemptions etc from the UK GDPR: disclosure prohibited or restricted by an enactment
-  - UK GDPR provisions to be restricted: “the listed GDPR provisions”
+- SCHEDULE 4 Exemptions etc from the GDPR: disclosure prohibited or restricted by an enactment
+  - GDPR provisions to be restricted: “the listed GDPR provisions”
     - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
   - Human fertilisation and embryology information
     - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
@@ -723,11 +663,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
     - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
     - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
-    - [Sch. 7 para. 15A](schedule/7/paragraph/15A.md)
     - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
     - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
     - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
-    - [Sch. 7 para. 18A](schedule/7/paragraph/18A.md)
     - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
     - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
   - Other authorities with investigatory functions
@@ -764,13 +702,11 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
     - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
     - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
-    - [Sch. 7 para. 51A](schedule/7/paragraph/51A.md)
     - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
     - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
     - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
     - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
     - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
-    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
 - SCHEDULE 8 Conditions for sensitive processing under Part 3
   - Statutory etc purposes
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
@@ -870,34 +806,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
   - Scotland
     - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
-- Schedule 12A The Information Commission
-  - [Sch. 12A para. 1 Status](schedule/12A/paragraph/1.md)
-  - [Sch. 12A para. 2 Number of members](schedule/12A/paragraph/2.md)
-  - [Sch. 12A para. 3 Membership: general](schedule/12A/paragraph/3.md)
-  - [Sch. 12A para. 4 Membership: non-executive members to outnumber executive members](schedule/12A/paragraph/4.md)
-  - [Sch. 12A para. 5 Membership: selection on merit etc](schedule/12A/paragraph/5.md)
-  - [Sch. 12A para. 6 Membership: conflicts of interests](schedule/12A/paragraph/6.md)
-  - [Sch. 12A para. 7 Tenure of the chair](schedule/12A/paragraph/7.md)
-  - [Sch. 12A para. 8 Tenure of deputy chair](schedule/12A/paragraph/8.md)
-  - [Sch. 12A para. 9 Tenure of the other non-executive members](schedule/12A/paragraph/9.md)
-  - [Sch. 12A para. 10 Remuneration and pensions of non-executive members](schedule/12A/paragraph/10.md)
-  - [Sch. 12A para. 11 Executive members: terms and conditions](schedule/12A/paragraph/11.md)
-  - [Sch. 12A para. 12 Other staff: appointment, terms and conditions](schedule/12A/paragraph/12.md)
-  - [Sch. 12A para. 13 Committees](schedule/12A/paragraph/13.md)
-  - [Sch. 12A para. 14 Delegation of functions](schedule/12A/paragraph/14.md)
-  - [Sch. 12A para. 15 Advice from committees](schedule/12A/paragraph/15.md)
-  - [Sch. 12A para. 16 Proceedings](schedule/12A/paragraph/16.md)
-  - [Sch. 12A para. 17 Records of proceedings](schedule/12A/paragraph/17.md)
-  - [Sch. 12A para. 18 Disqualification for acting in relation to certain matters](schedule/12A/paragraph/18.md)
-  - [Sch. 12A para. 19 Validity of proceedings](schedule/12A/paragraph/19.md)
-  - [Sch. 12A para. 20 Money](schedule/12A/paragraph/20.md)
-  - [Sch. 12A para. 21 Fees etc and other sums](schedule/12A/paragraph/21.md)
-  - [Sch. 12A para. 22 Accounts](schedule/12A/paragraph/22.md)
-  - [Sch. 12A para. 23 Authentication of seal and presumption of authenticity of documents](schedule/12A/paragraph/23.md)
-  - [Sch. 12A para. 24 Supplementary powers](schedule/12A/paragraph/24.md)
-  - [Sch. 12A para. 25 Transitional provision: interim chief executive](schedule/12A/paragraph/25.md)
-  - [Sch. 12A para. 26 Interpretation](schedule/12A/paragraph/26.md)
-- SCHEDULE 13 Other general functions of the Commission
+- SCHEDULE 13 Other general functions of the Commissioner
   - General tasks
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
   - General powers
@@ -917,7 +826,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - LED supervisory authority
       - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
   - PART 2 Data Protection Convention
-    - Co-operation between the Commission and foreign designated authorities
+    - Co-operation between the Commissioner and foreign designated authorities
       - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
     - Assisting persons resident outside the UK with requests under Article 14 of the Convention
       - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
@@ -992,8 +901,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
     - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
   - Assessment notices
     - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
-  - Interview notices
-    - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
   - Applications in respect of urgent notices
     - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
 - SCHEDULE 18 Relevant records
@@ -1667,7 +1574,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
     - Avoidance under this Act of certain contractual terms relating to health records
       - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
-  - PART 3 The UK GDPR and Part 2 of this Act
+  - PART 3 The GDPR and Part 2 of this Act
     - Exemptions from the GDPR: restrictions of rules in Articles 13 to 15 of the GDPR
       - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
     - Manual unstructured data held by FOI public authorities
@@ -1768,27 +1675,3 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-09-30
       - [Sch. 20 para. 60](schedule/20/paragraph/60.md)
     - Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520)
       - [Sch. 20 para. 61](schedule/20/paragraph/61.md)
-- SCHEDULE 21 Further transitional provision etc
-  - Part 1 Interpretation
-    - [Sch. 21 para. 1 The applied GPDR](schedule/21/paragraph/1.md)
-  - Part 2 Continuation of existing acts etc
-    - [Sch. 21 para. 2 Merger of the directly applicable GDPR and the applied GDPR](schedule/21/paragraph/2.md)
-    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
-  - Part 3 Transfers to third countries and international organisations
-    - [Sch. 21 para. 4 UK GDPR: transfers approved by regulations](schedule/21/paragraph/4.md)
-    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
-    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
-    - [Sch. 21 para. 7 UK GDPR: transfers subject to appropriate safeguards provided by standard data protection clauses](schedule/21/paragraph/7.md)
-    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
-    - [Sch. 21 para. 9 UK GDPR: transfers subject to appropriate safeguards provided by binding corporate rules](schedule/21/paragraph/9.md)
-    - [Sch. 21 para. 10 Part 3 (law enforcement processing): transfers approved by regulations](schedule/21/paragraph/10.md)
-    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
-    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
-  - Part 4 Repeal of provisions in Chapter 3 of Part 2
-    - [Sch. 21 para. 13 Applied GDPR: power to make provision in consequence of GDPR regulations](schedule/21/paragraph/13.md)
-    - [Sch. 21 para. 14 Applied GDPR: national security certificates](schedule/21/paragraph/14.md)
-  - Part 5 The Information Commission
-    - [Sch. 21 para. 15 Confidentiality of information](schedule/21/paragraph/15.md)
-  - Part 6 Enforcement
-    - [Sch. 21 para. 16 GDPR: maximum amount of penalties](schedule/21/paragraph/16.md)
-    - [Sch. 21 para. 17 GDPR: right to an effective remedy against the Commissioner](schedule/21/paragraph/17.md)
