@@ -2,11 +2,9 @@
 
 2018 c. 13. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-05-23, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/13
-
-Source: https://www.legislation.gov.uk/ukpga/2018/13/2026-10-15
+Source: https://www.legislation.gov.uk/ukpga/2018/13/2018-05-23
 
 ## Contents
 
@@ -17,7 +15,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2026-10-15
       - [s. 2 Additional requirements for regulations for a purpose within section 1(2)](section/2.md)
     - Types of sanction
       - [s. 3 Financial sanctions](section/3.md)
-      - [s. 3A Director disqualification sanctions](section/3A.md)
       - [s. 4 Immigration sanctions](section/4.md)
       - [s. 5 Trade sanctions](section/5.md)
       - [s. 6 Aircraft sanctions](section/6.md)
@@ -35,7 +32,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2026-10-15
       - [s. 15 Exceptions and licences](section/15.md)
       - [s. 16 Information](section/16.md)
       - [s. 17 Enforcement](section/17.md)
-      - [s. 17A Enforcement: monetary penalties](section/17A.md)
       - [s. 18 Report in respect of offences in regulations](section/18.md)
       - [s. 19 Enforcement: goods etc on ships](section/19.md)
       - [s. 20 Goods etc on ships: non-UK conduct](section/20.md)
@@ -56,7 +52,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2026-10-15
       - [s. 31 Independent review of regulations with counter-terrorism purpose](section/31.md)
       - [s. 32 Periodic reports on exercise of power to make regulations under section 1](section/32.md)
     - Procedure for requests to, and reviews by, appropriate Minister
-      - [s. 33 Procedure for requests to ... appropriate Minister](section/33.md)
+      - [s. 33 Procedure for requests to, and reviews by, appropriate Minister](section/33.md)
   - CHAPTER 3 Temporary powers in relation to EU sanctions lists
     - [s. 34 Temporary powers in relation to EU sanctions lists](section/34.md)
     - [s. 35 Directions under section 34: further provision](section/35.md)
@@ -169,7 +165,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2026-10-15
     - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
   - Extra-territorial application
     - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
-    - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
   - Money Laundering Regulations 2017
     - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
   - Interpretation
