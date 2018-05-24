@@ -1,0 +1,131 @@
+# Food and Environment Protection Act 1985
+
+1985 c. 48. Enacted 1985-07-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-05-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1985/48
+
+Source: https://www.legislation.gov.uk/ukpga/1985/48/2018-05-24
+
+## Contents
+
+- PART I CONTAMINATION OF FOOD
+  - Emergency orders etc.
+    - [s. 1 Power to make emergency orders.](section/1.md)
+    - [s. 2 Powers of Ministers when emergency order has been made.](section/2.md)
+  - Investigation and enforcement
+    - [s. 3 Authorisation of investigating officers and enforcement officers.](section/3.md)
+    - [s. 4 Powers of officers.](section/4.md)
+- PART II DEPOSITS IN THE SEA
+  - Licensing
+    - [s. 5 Requirement of licences for deposit of substances and articles in the sea etc.](section/5.md)
+    - [s. 6 Requirement for licences for incineration at sea etc.](section/6.md)
+    - [s. 6A](section/6A.md)
+    - [s. 7 Exemptions.](section/7.md)
+    - [s. 7A Application of Part II: further provisions.](section/7A.md)
+    - [s. 8 Licences.](section/8.md)
+    - [s. 8A Electronic communications apparatus: operations in tidal waters etc](section/8A.md)
+  - Offences relating to licensing system etc.
+    - [s. 9 Offences relating to licensing system.](section/9.md)
+    - [s. 10 Power to take remedial action.](section/10.md)
+  - Enforcement
+    - [s. 11 Powers of officers.](section/11.md)
+    - [s. 12 Enforcement of Conventions.](section/12.md)
+  - Miscellaneous
+    - [s. 13 Powers of Ministers to test and to charge for testing.](section/13.md)
+    - [s. 14 Duty of licensing authority to keep public registers of information.](section/14.md)
+    - [s. 15 Repeal of Dumping at Sea Act 1974, consequential amendments and transitional provisions.](section/15.md)
+- Part III Pesticides Etc.
+  - [s. 16 Control of pesticides etc.](section/16.md)
+  - [s. 17 Codes of practice.](section/17.md)
+  - [s. 18 Payments for general purposes of Part III.](section/18.md)
+  - [s. 19 Enforcement powers.](section/19.md)
+- Part IV General and Supplementary
+  - [s. 20 Application to Crown etc.](section/20.md)
+  - [s. 21 Offences—penalties etc.](section/21.md)
+  - [s. 22 General defence of due diligence.](section/22.md)
+  - [s. 23 Financial provisions.](section/23.md)
+  - [s. 24 Interpretation.](section/24.md)
+  - [s. 25 Northern Ireland.](section/25.md)
+  - [s. 26 Channel Islands etc.](section/26.md)
+  - [s. 27 Commencement.](section/27.md)
+  - [s. 28 Short title.](section/28.md)
+- SCHEDULE 1 Emergency Prohibitions
+  - Part I Activities that may be Prohibited in a Designated Area
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part II Movements of Food Etc. that may be Prohibited
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part III Activities that may be Prohibited Throughout the United Kingdom
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Officers and their Powers
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Assistants for officers etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Power to question
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Powers in relation to vessels, aircraft etc.
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Containers etc.
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Evidence of officers’ authority
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Time of performance of functions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Entry into dwellings
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Power of officer to use reasonable force
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Protection of officers
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Offences
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Licences—Right to make Representations etc.
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4
+  - Particulars to be Contained in Registers
+  - Part I Licences for Deposit or Incineration or Associated Operations
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part II Licences for Scuttling or Associated Operations
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 The Advisory Committee
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 1A](schedule/5/paragraph/1A.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
