@@ -1,0 +1,324 @@
+# Justice Act (Northern Ireland) 2011
+
+nia/2011/24. Enacted 2011-05-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2011/24
+
+Source: https://www.legislation.gov.uk/nia/2011/24/2018-06-01
+
+## Contents
+
+- PART 1 VICTIMS AND WITNESSES
+  - CHAPTER 1 THE OFFENDER LEVY
+    - Offender levy imposed by court
+      - [s. 1 Offender levy imposed by court](section/1.md)
+      - [s. 2 Enforcement and treatment of offender levy imposed by court](section/2.md)
+      - [s. 3 Deduction of offender levy imposed by court from prisoner’s earnings](section/3.md)
+      - [s. 4 Offender levy imposed by court: other supplementary provisions](section/4.md)
+    - Offender levy on certain penalties
+      - [s. 5 Offender levy on certain penalties](section/5.md)
+    - Amount of the offender levy
+      - [s. 6 Amount of the offender levy](section/6.md)
+  - CHAPTER 2 VULNERABLE AND INTIMIDATED WITNESSES
+    - Special measures for vulnerable and intimidated witnesses
+      - [s. 7 Eligibility for special measures: age of child witnesses](section/7.md)
+      - [s. 8 Special measures directions for child witnesses](section/8.md)
+      - [s. 9 Special provisions relating to sexual offences](section/9.md)
+      - [s. 10 Evidence by live link: presence of supporter](section/10.md)
+      - [s. 11 Video-recorded evidence in chief: supplementary testimony](section/11.md)
+    - Evidence of certain accused persons
+      - [s. 12 Examination of accused through intermediary](section/12.md)
+    - Witnesses protected from cross-examination by accused in person
+      - [s. 13 Age of child complainant](section/13.md)
+- PART 2 LIVE LINKS
+  - [s. 14 Live links for patients detained in hospital](section/14.md)
+  - [s. 15 Live links at preliminary hearings in the High Court](section/15.md)
+  - [s. 16 Live links at preliminary hearing on appeals to the county court](section/16.md)
+  - [s. 17 Live link in sentencing hearing on appeals to the county court](section/17.md)
+  - [s. 18 Live links in the Court of Appeal](section/18.md)
+  - [s. 19 Live link direction for vulnerable accused or appellant](section/19.md)
+- PART 3 POLICING AND COMMUNITY SAFETY PARTNERSHIPS
+  - Establishment of PCSPs and DPCSPs
+    - [s. 20 Establishment of PCSPs and DPCSPs](section/20.md)
+  - Functions of PCSPs and DPCSPs
+    - [s. 21 Functions of PCSP](section/21.md)
+    - [s. 22 Functions of DPCSP](section/22.md)
+    - [s. 23 Code of practice for PCSPs and DPCSPs](section/23.md)
+  - Annual reports
+    - [s. 24 Annual report by PCSP to council](section/24.md)
+    - [s. 25 Annual report by Belfast PCSP to council](section/25.md)
+    - [s. 26 Annual report by DPCSPs to principal PCSP](section/26.md)
+  - Other reports by PCSPs and DPCSPs
+    - [s. 27 Reports by PCSP to joint committee](section/27.md)
+    - [s. 28 Reports by Belfast PCSP to joint committee](section/28.md)
+    - [s. 29 Reports by DPCSP to principal PCSP](section/29.md)
+  - Policing committee reports
+    - [s. 30 Reports by policing committees to Policing Board](section/30.md)
+    - [s. 31 Reports by policing committee of Belfast PCSP to Policing Board](section/31.md)
+    - [s. 32 Reports by policing committee of DPCSP to policing committee of principal PCSP](section/32.md)
+  - Miscellaneous
+    - [s. 33 Other community policing arrangements](section/33.md)
+    - [s. 34 Functions of joint committee and Policing Board](section/34.md)
+- PART 4 SPORT
+  - CHAPTER 1 REGULATED MATCHES
+    - [s. 35 Regulated matches](section/35.md)
+  - CHAPTER 2 CONDUCT AT REGULATED MATCHES
+    - [s. 36 Throwing of articles capable of causing injury](section/36.md)
+    - [s. 37 Chanting](section/37.md)
+    - [s. 38 Going onto the playing area](section/38.md)
+    - [s. 39 Possession of fireworks, flares, etc.](section/39.md)
+  - CHAPTER 3 ALCOHOL ON VEHICLES TRAVELLING TO REGULATED MATCHES
+    - [s. 40 Offences in connection with alcohol on vehicles](section/40.md)
+  - CHAPTER 4 BANNING ORDERS IN RELATION TO REGULATED MATCHES
+    - [s. 41 Banning orders: making on conviction](section/41.md)
+    - [s. 42 Banning orders: content](section/42.md)
+    - [s. 43 Banning orders: supplementary](section/43.md)
+    - [s. 44 Banning orders: “violence” and “disorder”](section/44.md)
+    - [s. 45 Banning orders: duration](section/45.md)
+    - [s. 46 Banning orders: additional requirements](section/46.md)
+    - [s. 47 Termination of banning orders](section/47.md)
+    - [s. 48 Information about banning orders](section/48.md)
+    - [s. 49 Failure to comply with banning order](section/49.md)
+  - CHAPTER 5 ENFORCEMENT
+    - [s. 50 Powers of enforcement](section/50.md)
+- PART 5 TREATMENT OF OFFENDERS
+  - [s. 51 Increase in maximum term of imprisonment for common assault or battery](section/51.md)
+  - [s. 52 Penalty for certain knife offences](section/52.md)
+  - [s. 53 Extension of maximum period of deferment of sentence](section/53.md)
+  - [s. 54 Breach of licence conditions by sex offenders](section/54.md)
+  - [s. 55 Sexual offences: closure orders](section/55.md)
+  - [s. 56 Financial reporting orders](section/56.md)
+  - [s. 57 Dangerous offenders: serious and specified offences](section/57.md)
+  - [s. 58 Supervised activity order in respect of certain financial penalties](section/58.md)
+- PART 6 ALTERNATIVES TO PROSECUTION
+  - CHAPTER 1 PENALTY NOTICES
+    - Penalty offences and penalties
+      - [s. 59 Penalty offences and penalties](section/59.md)
+    - Penalty notices
+      - [s. 60 Penalty notices](section/60.md)
+      - [s. 61 Form of penalty notice](section/61.md)
+      - [s. 62 Effect of penalty notice](section/62.md)
+      - [s. 63 General restriction on prosecution](section/63.md)
+      - [s. 64 Guidance](section/64.md)
+    - Procedure
+      - [s. 65 Payment of penalty](section/65.md)
+      - [s. 66 Registration certificates](section/66.md)
+      - [s. 67 Registration of penalty](section/67.md)
+      - [s. 68 Challenge to notice](section/68.md)
+      - [s. 69 Setting aside of sum enforceable under section 67](section/69.md)
+    - Interpretation
+      - [s. 70 Interpretation of this Chapter](section/70.md)
+  - CHAPTER 2 CONDITIONAL CAUTIONS
+    - [s. 71 Conditional cautions](section/71.md)
+    - [s. 72 The five requirements](section/72.md)
+    - [s. 73 Variation of conditions](section/73.md)
+    - [s. 74 Failure to comply with conditions](section/74.md)
+    - [s. 75 Arrest for failure to comply](section/75.md)
+    - [s. 76 Application of PACE provisions](section/76.md)
+    - [s. 77 Code of practice](section/77.md)
+    - [s. 78 Powers of Probation Board](section/78.md)
+    - [s. 79 Interpretation of this Chapter](section/79.md)
+- PART 7 LEGAL AID, ETC.
+  - [s. 80 Eligibility for criminal legal aid](section/80.md)
+  - [s. 81 Order to recover costs of legal aid](section/81.md)
+  - [s. 82 Eligibility of persons in receipt of guarantee credit](section/82.md)
+  - [s. 83 Legal aid for certain bail applications](section/83.md)
+  - [s. 84 Financial eligibility for grant of right to representation](section/84.md)
+  - [s. 85 Litigation funding agreements](section/85.md)
+  - [s. 86 Civil legal services: scope](section/86.md)
+  - [s. 87 Enhanced legal aid fees for certain solicitors](section/87.md)
+- PART 8 SOLICITORS’ RIGHTS OF AUDIENCE
+  - [s. 88 Authorisation of Society conferring additional rights of audience](section/88.md)
+  - [s. 89 Rights of audience of solicitors](section/89.md)
+  - [s. 90 Consequential and supplementary provisions](section/90.md)
+- PART 9 MISCELLANEOUS
+  - [s. 91 Bail: compassionate grounds](section/91.md)
+  - [s. 92 Bail: repeat application](section/92.md)
+  - [s. 93 Possession of offensive weapon with intent to commit an offence](section/93.md)
+  - [s. 94 Power of Department to make payments in relation to prevention of crime, etc.](section/94.md)
+  - [s. 95 Publication of material relating to legal proceedings](section/95.md)
+  - [s. 96 Membership of Crown Court Rules Committee](section/96.md)
+  - [s. 97 Membership of Court of Judicature Rules Committee](section/97.md)
+  - [s. 98 Funds in court: investment fees or expenses](section/98.md)
+  - [s. 99 Appeals from Crown Court: Proceeds of Crime Act 2002](section/99.md)
+  - [s. 100 Witness summons in magistrates’ court](section/100.md)
+  - [s. 101 Criminal conviction certificates to be given to employers](section/101.md)
+  - [s. 102 Accounts of the Law Commission](section/102.md)
+  - [s. 103 Variation of firearms certificate](section/103.md)
+  - [s. 104 Restrictions on use of shotguns by young persons](section/104.md)
+  - [s. 105 Restrictions on possession of air guns by young persons](section/105.md)
+- PART 10 SUPPLEMENTARY PROVISIONS
+  - [s. 106 Supplementary, incidental, consequential and transitional provision, etc](section/106.md)
+  - [s. 107 Regulations and orders](section/107.md)
+  - [s. 108 Interpretation](section/108.md)
+  - [s. 109 Transitional provisions and savings](section/109.md)
+  - [s. 110 Minor and consequential amendments and repeals](section/110.md)
+  - [s. 111 Commencement](section/111.md)
+  - [s. 112 Short title](section/112.md)
+- SCHEDULE 1 POLICING AND COMMUNITY SAFETY PARTNERSHIPS
+  - Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Composition
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Political members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Independent members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Representatives of designated organisations
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Removal of members
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Disqualification
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Chair and vice-chair
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Procedure of PCSP
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Policing committee: constitution
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Policing committee: procedure
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Other committees
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Indemnities
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Insurance against accidents
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Expenses
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Finance
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Disclosure of pecuniary interests, family connections, etc.
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Joint PCSPs
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Belfast PCSP
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 DISTRICT POLICING AND COMMUNITY SAFETY PARTNERSHIPS
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Composition
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Political members
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Independent members
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Representatives of designated organisations
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Removal of members
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Disqualification
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Chair and vice-chair
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Procedure of DPCSP
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Policing committee: constitution
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Policing committee: procedure
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Other committees
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Indemnities
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Insurance against accidents
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Expenses
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Finance
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Validity of proceedings
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Disclosure of pecuniary interests, family connections, etc.
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 REGULATED MATCHES
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Association football
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Gaelic games
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Rugby union
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 PENALTY OFFENCES AND PENALTIES
+- SCHEDULE 5 ENHANCED LEGAL AID FEES FOR CERTAIN SOLICITORS
+  - Power to provide for enhanced fee
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Accreditation of solicitors
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Duties of solicitor
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Regulations
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Consequential amendments
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Interpretation
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 TRANSITIONAL AND SAVING PROVISIONS
+  - Offender levy
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Vulnerable and intimidated witnesses
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Banning orders
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Increase in penalties
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Conditions of sex offender licence
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Serious and specified offences
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Alternatives to prosecution
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Witness summonses
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Accounts of the Law Commission
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - The Vagrancy Act 1824 (c. 83)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Judicature (Northern Ireland) Act 1978 (c. 23)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Magistrates’ Courts (Northern Ireland) Order 1981 (NI 26)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - The Employment Rights (Northern Ireland) Order 1996 (NI 16)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Criminal Evidence (Northern Ireland) Order 1999 (NI 8)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - The Police (Northern Ireland) Act 2000 (c. 32)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - The Freedom of Information Act 2000 (c. 36)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002 (NI 3)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - The Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - The Sexual Offences Act 2003 (c. 42)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - The Anti-social Behaviour (Northern Ireland) Order 2004 (NI 12)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - The Criminal Justice (Northern Ireland) Order 2008 (NI 1)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - The Sexual Offences (Northern Ireland) Order 2008 (NI 2)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 REPEALS
+  - PART 1 VULNERABLE AND INTIMIDATED WITNESSES
+  - PART 2 POLICING AND COMMUNITY SAFETY PARTNERSHIPS
+  - PART 3 LEGAL AID, ETC.
+  - PART 4 SOLICITORS’ RIGHTS OF AUDIENCE
+  - PART 5 MISCELLANEOUS
