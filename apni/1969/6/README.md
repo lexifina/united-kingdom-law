@@ -1,0 +1,182 @@
+# Mines Act (Northern Ireland) 1969
+
+apni/1969/6. Enacted 1969-06-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/apni/1969/6
+
+Source: https://www.legislation.gov.uk/apni/1969/6/2018-06-01
+
+## Contents
+
+- PART I GENERAL DUTIES OF MINE OWNERS
+  - [s. 1 General duties of mine owners.](section/1.md)
+- PART II MANAGEMENT AND CONTROL
+  - Managers and under-managers
+    - [s. 2 Appointment, and general duties and powers, of mine managers.](section/2.md)
+    - [s. 3 Rights of mine manager with respect to instructions given by or on behalf of owner.](section/3.md)
+    - [s. 4 Qualifications of mine managers.](section/4.md)
+    - [s. 5 Limitation on number of mines which a person may manage.](section/5.md)
+    - [s. 6 Under-managers.](section/6.md)
+    - [s. 7 Temporary appointments during vacancy in office of mine manager or under-manager.](section/7.md)
+    - [s. 8 Daily supervision by mine managers and under-managers.](section/8.md)
+    - [s. 9 Charge of mine when neither manager nor under-manager nor substitute is present.](section/9.md)
+    - [s. 10 Duties of mine managers with respect to reading of reports, &c.](section/10.md)
+  - Surveyors
+    - [s. 11 Surveyors.](section/11.md)
+  - Officials and technicians
+    - [s. 12 Deputies.](section/12.md)
+    - [s. 13 Other officials, engineers, technicians, &c.](section/13.md)
+    - [s. 14 Duty of mine manager to ensure that persons appointed by him understand their duties.](section/14.md)
+  - Provisions ancillary to foregoing sections
+    - [s. 15 Notification to Ministry of appointments by mine owners.](section/15.md)
+    - [s. 16 Disqualification of contractors and their employees for appointment as managers, &c., of mines.](section/16.md)
+  - Plans
+    - [s. 17 Keeping of plans.](section/17.md)
+    - [s. 18 Furnishing of documents and information requisite for preparation of plans.](section/18.md)
+    - [s. 19 Faulty plans.](section/19.md)
+    - [s. 20 Transmission to Ministry, and preservation, of plans of abandoned or disused mines, seams and veins.](section/20.md)
+- PART III SAFETY, HEALTH AND WELFARE
+  - Provisions for securing safe ingress and egress
+    - [s. 28 Provision of winding and haulage apparatus.](section/28.md)
+  - Safety precautions in connection with shafts, &c., and entrances to disused workings
+    - [s. 30 Securing of shafts and staple-pits.](section/30.md)
+    - [s. 31 Safety precautions with respect to entrances to shafts, staple-pits and outlets.](section/31.md)
+    - [s. 36 Prohibition of use of vehicles and conveyors in roads not affording free movement.](section/36.md)
+    - [s. 37 Transport rules.](section/37.md)
+    - [s. 39 Provisions for securing safety of foot-passengers in transport roads.](section/39.md)
+    - [s. 40 Provision of refuge holes.](section/40.md)
+    - [s. 41 Safety measures relating to use of vehicles.](section/41.md)
+  - Provisions for securing safe operation of winding and rope haulage apparatus and conveyors
+    - [s. 42 Charge of winding and rope haulage apparatus when persons are carried.](section/42.md)
+    - [s. 43 Charge of winding and rope haulage apparatus when persons are not carried.](section/43.md)
+    - [s. 44 Charge of conveyors at working faces.](section/44.md)
+    - [s. 45 Signalling in shafts and outlets.](section/45.md)
+    - [s. 46 Signalling in roads.](section/46.md)
+  - Support
+    - [s. 48 Duty to secure safety of roads and working places.](section/48.md)
+    - [s. 49 Systematic support in coal, shale and fireclay mines.](section/49.md)
+    - [s. 51 Supply of materials for support.](section/51.md)
+    - [s. 52 Withdrawal of support.](section/52.md)
+    - [s. 53 Duties of deputies in relation to support.](section/53.md)
+    - [s. 54 Provisions as to support rules.](section/54.md)
+  - Ventilation
+    - [s. 55 Duty to provide adequate ventilation.](section/55.md)
+    - [s. 56 Avoidance of danger from gas in waste.](section/56.md)
+    - [s. 58 Provisions as to means of ventilation.](section/58.md)
+    - [s. 59 Prevention of leakage of air between airways.](section/59.md)
+    - [s. 60 Provision of barometers and other measuring instruments.](section/60.md)
+  - Lighting, lamps and contraband
+    - [s. 61 Lighting.](section/61.md)
+    - [s. 62 Permitted lights.](section/62.md)
+    - [s. 64 Prohibition of taking into mines safety-lamps not provided by owner or of approved type.](section/64.md)
+    - [s. 65 Offences relating to safety-lamps.](section/65.md)
+    - [s. 66 Prohibition of possession of smoking materials in certain mines and parts of mines.](section/66.md)
+    - [s. 67 Prohibition of taking into certain mines and parts of mines of articles producing flames or sparks.](section/67.md)
+  - Blasting materials and devices
+    - [s. 69 Blasting materials and devices.](section/69.md)
+  - Fire precautions and provisions as to rescue
+    - [s. 73 Means of escape from rooms in which there is special risk of fire, &c.](section/73.md)
+  - Dust precautions
+    - [s. 74 Dust precuations.](section/74.md)
+  - Precautions against external dangers to workings
+    - [s. 75 Duty of mine owners and managers to seek evidence of proximity of disused workings, water-bearing strata, &c.](section/75.md)
+    - [s. 76 Duty of mine owners and managers to ascertain thickness of strata between workings and surface water.](section/76.md)
+    - [s. 77 General duty to take precautions against inrushes of gas, water, &c.](section/77.md)
+  - Duties of officials and workmen in cases of danger
+    - [s. 79 Withdrawal of workmen in cases of danger.](section/79.md)
+    - [s. 80 Duty of workmen to deal with, or report, danger.](section/80.md)
+  - Machinery and apparatus
+    - [s. 83 Restrictions on use below ground of certain engines, &c.](section/83.md)
+    - [s. 84 Air, gas and steam containers.](section/84.md)
+  - Buildings, structures, means of access, &c.
+    - [s. 86 Buildings and structures to be kept safe.](section/86.md)
+    - [s. 87 Safe means of access and safe means of employment.](section/87.md)
+  - Training and discipline
+    - [s. 88 Restriction on doing of work by unskilled persons.](section/88.md)
+    - [s. 89 Penalization of failure to observe safety directions, &c.](section/89.md)
+    - [s. 90 Penalization of negligent acts or omissions and unauthorised removal, &c., of articles.](section/90.md)
+  - First-aid
+    - [s. 91 First-aid.](section/91.md)
+  - Medical examinations and prohibition of heavy work
+  - General welfare provisions
+    - [s. 94 Sanitary conveniences](section/94.md)
+    - [s. 95 Measures against vermin and insects.](section/95.md)
+    - [s. 97 Supply of drinking water.](section/97.md)
+- Notification and Investigation of Accidents and Diseases
+- PART V WORKMEN’S INSPECTIONS
+  - [s. 105 Inspections of mines on behalf of workmen employed thereat.](section/105.md)
+- PART VII RECORDS, RETURNS AND INFORMATION
+  - [s. 112 Form of official books and preservation and inspection of entries therein.](section/112.md)
+  - [s. 113 Records of certain appointments.](section/113.md)
+  - [s. 114 Provision of copies of this Act and other instruments.](section/114.md)
+  - [s. 115 Posting of notices.](section/115.md)
+  - [s. 116 Furnishing to workers of information with respect to this Act and orders and regulations thereunder.](section/116.md)
+  - [s. 118 Notification of beginning and ending of certain mining operations.](section/118.md)
+  - [s. 119 Notification of change of ownership or name of mine.](section/119.md)
+- PART VIII REGULATIONS
+  - [s. 120 Regulations.](section/120.md)
+  - [s. 122 Variation, revocation, &c., of regulations.](section/122.md)
+- PART X GRANT, CANCELLATION AND SUSPENSION OF CERTIFICATES
+  - [s. 126 Grant of certificates.](section/126.md)
+  - [s. 127 Cancellation or suspension of certificates.](section/127.md)
+- PART XI REGULATION OF TIPS AND FENCING OF ABANDONED AND DISUSED MINES
+  - [s. 128 Regulation of tips.](section/128.md)
+  - [s. 129 Fencing of abandoned and disused mines.](section/129.md)
+- PART XII OFFENCES, PENALTIES AND LEGAL PROCEEDINGS
+  - [s. 130 Offences.](section/130.md)
+  - [s. 131 Supplementary provisions as to offences.](section/131.md)
+  - [s. 132 Working, &c., of horses in parts of mine below ground.](section/132.md)
+  - [s. 133 Penalty for offences for which no express penalty is provided.](section/133.md)
+  - [s. 134 Defence available to person charged with offence not committed personally.](section/134.md)
+  - [s. 135 Persons not to be under liability for contraventions which it was impracticable to avoid or prevent.](section/135.md)
+  - [s. 136 Special defence available to mine under-managers with limited jurisdiction.](section/136.md)
+  - [s. 137 Liability of owners for breaches of statutory duty by their servants.](section/137.md)
+  - [s. 138 Liability of parents for unlawful employment of young persons.](section/138.md)
+  - [s. 140 Removal or defacement of notices, &c.](section/140.md)
+  - [s. 141 Prosecution of offences.](section/141.md)
+  - [s. 142 Restriction on institution of certain proceedings.](section/142.md)
+  - [s. 143 Duty to report results of proceedings against persons employed at mines.](section/143.md)
+  - [s. 144 Liability of parents for unlawful employment of children.](section/144.md)
+- PART XIII MISCELLANEOUS AND GENERAL
+  - Supplementary provisions
+    - [s. 145 Division of mines.](section/145.md)
+    - [s. 146 Provisions as to references upon notices served by the Ministry.](section/146.md)
+    - [s. 148 Parliamentary control of orders, rules and regulations.](section/148.md)
+    - [s. 149 Mode of service of notices under this Act.](section/149.md)
+    - [s. 150 Provisions as to exemptions, &c.](section/150.md)
+    - [s. 151 Articles certified or approved in Great Britain.](section/151.md)
+    - [s. 155 Application to the Crown.](section/155.md)
+  - Interpretation
+    - [s. 156 Meaning of “mine”](section/156.md)
+    - [s. 157 Meaning of “owner”.](section/157.md)
+    - [s. 158 General interpretation provisions.](section/158.md)
+    - [s. 159 Application of Act to training mines.](section/159.md)
+  - Relationship of the Office and Shop Premises Act (Northern Ireland) 1966 and this Act in case of certain premises
+    - [s. 160 Office and Shop Premises Act to continue to apply to colliery storage premises until appointed day.](section/160.md)
+  - General
+    - [s. 165 General savings.](section/165.md)
+    - [s. 166 Saving for persons managing certain small mines at commencement of this Act.](section/166.md)
+    - [s. 167 Saving for common law rights of workmen, &c.](section/167.md)
+    - [s. 168 Commencement.](section/168.md)
+    - [s. 169 Short title.](section/169.md)
+- SCHEDULE 3 INQUIRIES INTO FITNESS OF HOLDERS OF CERTIFICATES AND DELIVERY UP AND CUSTODY OF CERTIFICATES IN CONNECTION WITH PROSECUTIONS AND INQUIRIES
+  - PART I INQUIRIES INTO FITNESS OF HOLDERS OF CERTIFICATES
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - PART II DELIVERY UP AND CUSTODY OF CERTIFICATES IN CONNECTION WITH PROSECUTIONS AND INQUIRIES
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
