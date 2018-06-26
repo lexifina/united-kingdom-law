@@ -2,53 +2,33 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-06-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
-
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2018-06-26
 
 ## Contents
 
 - Repeal of the ECA
   - [s. 1 Repeal of the European Communities Act 1972](section/1.md)
-- Savings for implementation period
-  - [s. 1A Saving for ECA for implementation period](section/1A.md)
-  - [s. 1B Saving for EU-derived domestic legislation for implementation period](section/1B.md)
-- Retention of saved EU law at end of implementation period
+- Retention of existing EU law
   - [s. 2 Saving for EU-derived domestic legislation](section/2.md)
   - [s. 3 Incorporation of direct EU legislation](section/3.md)
   - [s. 4 Saving for rights etc. under section 2(1) of the ECA](section/4.md)
   - [s. 5 Exceptions to savings and incorporation](section/5.md)
-  - [s. 5A Savings and incorporation: supplementary](section/5A.md)
-  - [s. 6 Interpretation of assimilated law](section/6.md)
-  - [s. 6D Incompatibility orders](section/6D.md)
-  - [s. 7 Status of assimilated law](section/7.md)
-- Further aspects of withdrawal
-  - [s. 7A General implementation of remainder of withdrawal agreement](section/7A.md)
-  - [s. 7B General implementation of EEA EFTA and Swiss agreements](section/7B.md)
-  - [s. 7C Interpretation of relevant separation agreement law](section/7C.md)
+  - [s. 6 Interpretation of retained EU law](section/6.md)
+  - [s. 7 Status of retained EU law](section/7.md)
 - Main powers in connection with withdrawal
   - [s. 8 Dealing with deficiencies arising from withdrawal](section/8.md)
-  - [s. 8A Supplementary power in connection with implementation period](section/8A.md)
-  - [s. 8B Power in connection with certain other separation issues](section/8B.md)
-  - [s. 8C Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement](section/8C.md)
   - [s. 9 Implementing the withdrawal agreement](section/9.md)
 - Devolution
-  - [s. 10 Protection for North-South co-operation and ... prevention of new border arrangements](section/10.md)
-  - [s. 11 Powers involving devolved authorities corresponding to sections 8 to 8C](section/11.md)
+  - [s. 10 Continuation of North-South co-operation and the prevention of new border arrangements](section/10.md)
+  - [s. 11 Powers involving devolved authorities corresponding to sections 8 and 9](section/11.md)
   - [s. 12 Retaining EU restrictions in devolution legislation etc.](section/12.md)
-- Parliamentary oversight of withdrawal
+- Parliamentary approval of outcome of EU negotiations
   - [s. 13 Parliamentary approval of the outcome of negotiations with the EU](section/13.md)
-  - [s. 13A Review of EU legislation during implementation period](section/13A.md)
-  - [s. 13B Certain dispute procedures under withdrawal agreement](section/13B.md)
-  - [s. 13C Bills affecting trade between Northern Ireland and other parts of the United Kingdom](section/13C.md)
 - Financial and other matters
   - [s. 14 Financial provision](section/14.md)
   - [s. 15 Publication and rules of evidence](section/15.md)
-  - [s. 15A Prohibition on extending implementation period](section/15A.md)
-  - [s. 15B Ministerial co-chairs of the Joint Committee](section/15B.md)
-  - [s. 15C No use of written procedure in the Joint Committee](section/15C.md)
   - [s. 16 Maintenance of environmental principles etc.](section/16.md)
   - [s. 17 Family unity for those seeking asylum or other protection in Europe](section/17.md)
   - [s. 18 Customs arrangement as part of the framework for the future relationship](section/18.md)
@@ -61,9 +41,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
   - [s. 24 Extent](section/24.md)
   - [s. 25 Commencement and short title](section/25.md)
 - SCHEDULE 1 Further provision about exceptions to savings and incorporation
-  - Challenges to validity of assimilated law
+  - Challenges to validity of retained EU law
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-  - ...
+  - General principles of EU law
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
   - Rule in Francovich
@@ -76,7 +56,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
     - No power to make provision outside devolved competence
       - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
-    - ...
+    - No power to modify retained direct EU legislation or confer certain functions
       - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
     - Requirement for consultation in certain circumstances
       - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
@@ -91,27 +71,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
       - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
       - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
-  - PART 1A Provision in connection with implementation period
-    - [Sch. 2 para. 11A Supplementary power in connection with implementation period](schedule/2/paragraph/11A.md)
-    - [Sch. 2 para. 11B No power to make provision outside devolved competence](schedule/2/paragraph/11B.md)
-    - [Sch. 2 para. 11C Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11C.md)
-    - [Sch. 2 para. 11D Meaning of devolved competence: Part 1A](schedule/2/paragraph/11D.md)
-    - [Sch. 2 para. 11E Meaning of devolved competence: Part 1A](schedule/2/paragraph/11E.md)
-    - [Sch. 2 para. 11F Meaning of devolved competence: Part 1A](schedule/2/paragraph/11F.md)
-  - PART 1B Provision in connection with certain other separation issues
-    - [Sch. 2 para. 11G Powers in connection with Part 3 of withdrawal agreement and EEA EFTA separation agreement](schedule/2/paragraph/11G.md)
-    - [Sch. 2 para. 11H No power to make provision outside devolved competence](schedule/2/paragraph/11H.md)
-    - [Sch. 2 para. 11I Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11I.md)
-    - [Sch. 2 para. 11J Meaning of devolved competence: Part 1B](schedule/2/paragraph/11J.md)
-    - [Sch. 2 para. 11K Meaning of devolved competence: Part 1B](schedule/2/paragraph/11K.md)
-    - [Sch. 2 para. 11L Meaning of devolved competence: Part 1B](schedule/2/paragraph/11L.md)
-  - PART 1C Provision in connection with Protocol on Ireland/Northern Ireland
-    - [Sch. 2 para. 11M Power in connection with Protocol on Ireland/Northern Ireland](schedule/2/paragraph/11M.md)
-    - [Sch. 2 para. 11N No power to make provision outside devolved competence](schedule/2/paragraph/11N.md)
-    - [Sch. 2 para. 11O Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11O.md)
-    - [Sch. 2 para. 11P Meaning of devolved competence: Part 1C](schedule/2/paragraph/11P.md)
-    - [Sch. 2 para. 11Q Meaning of devolved competence: Part 1C](schedule/2/paragraph/11Q.md)
-    - [Sch. 2 para. 11R Meaning of devolved competence: Part 1C](schedule/2/paragraph/11R.md)
   - Part 2 Implementing the withdrawal agreement
     - Power to implement withdrawal agreement
       - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
@@ -131,7 +90,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
   - Part 1 Corresponding provision in relation to executive competence
     - Scotland Act 1998
       - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-    - ...
+    - Government of Wales Act 2006
       - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
     - Northern Ireland Act 1998
       - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
@@ -262,20 +221,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
       - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
       - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
-  - PART 1A Scrutiny of Specific Powers Relating to Withdrawal Agreement Etc.
-    - [Sch. 7 para. 8A Powers in connection with Part 4 of the withdrawal agreement](schedule/7/paragraph/8A.md)
-    - [Sch. 7 para. 8B Powers in connection with Part 4 of the withdrawal agreement](schedule/7/paragraph/8B.md)
-    - [Sch. 7 para. 8C Powers in connection with Part 4 of the withdrawal agreement](schedule/7/paragraph/8C.md)
-    - [Sch. 7 para. 8D Powers in connection with other separation issues in the withdrawal agreement etc.](schedule/7/paragraph/8D.md)
-    - [Sch. 7 para. 8E Powers in connection with other separation issues in the withdrawal agreement etc.](schedule/7/paragraph/8E.md)
-    - [Sch. 7 para. 8F Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement](schedule/7/paragraph/8F.md)
-    - [Sch. 7 para. 8G Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement](schedule/7/paragraph/8G.md)
   - Part 2 Scrutiny of other powers under Act
-    - Power to enable challenges to validity of assimilated law
+    - Power to enable challenges to validity of retained EU law
       - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
-    - Power in relation to interpretation of retained EU law
-      - [Sch. 7 para. 9A](schedule/7/paragraph/9A.md)
-    - ...
+    - Power to implement withdrawal agreement
       - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
     - Power to repeal provisions relating to retained EU law restrictions
       - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
@@ -289,9 +238,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
     - Power to make transitional, transitory or saving provision
       - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
-    - Parliamentary committee to sift ... consequential regulations of a Minister of the Crown
+    - Parliamentary committee to sift certain implementation or consequential regulations of a Minister of the Crown
       - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
-    - ...
+    - Committee of the National Assembly for Wales to sift certain implementation regulations of Welsh Ministers
       - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
     - Scrutiny procedure for certain powers to which this Part applies in urgent cases
       - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
@@ -302,12 +251,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
     - Scope of consequential and transitional powers
       - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
-    - Anticipatory exercise of powers in relation to section 1B(2) saved law
-      - [Sch. 7 para. 23A](schedule/7/paragraph/23A.md)
     - Anticipatory exercise of powers in relation to retained EU law
       - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
-    - Anticipatory exercise of powers in relation to the withdrawal agreement etc.
-      - [Sch. 7 para. 24A](schedule/7/paragraph/24A.md)
     - Scope of appointed day powers
       - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
     - Effect of certain provisions in Schedule 8 on scope of powers
@@ -334,14 +279,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
 - SCHEDULE 8 Consequential, transitional, transitory and saving provision
   - Part 1 General consequential provision
-    - Existing ambulatory references to assimilated direct legislation
+    - Existing ambulatory references to retained direct EU legislation
       - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
-    - Existing ambulatory references to relevant separation agreement law
-      - [Sch. 8 para. 1A](schedule/8/paragraph/1A.md)
     - Other existing ambulatory references
       - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
-    - Existing non-ambulatory references
-      - [Sch. 8 para. 2A](schedule/8/paragraph/2A.md)
     - Existing powers to make subordinate legislation etc.
       - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
       - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
@@ -354,12 +295,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
     - Future powers to make subordinate legislation
       - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
       - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
-      - [Sch. 8 para. 11A](schedule/8/paragraph/11A.md)
-      - [Sch. 8 para. 11B](schedule/8/paragraph/11B.md)
       - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
-    - ...
+    - Affirmative procedure for instruments which amend or revoke subordinate legislation made under section 2(2) of the ECA (including subordinate legislation implementing EU directives)
       - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
-    - ...
+    - Enhanced scrutiny procedure for instruments which amend or revoke subordinate legislation under section 2(2) of the ECA (including subordinate legislation implementing EU directives)
       - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
     - Explanatory statements for instruments amending or revoking regulations etc. under section 2(2) of the ECA
       - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
@@ -397,8 +336,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
       - [Sch. 8 para. 36A](schedule/8/paragraph/36A.md)
       - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
   - Part 4 Specific transitional, transitory and saving provision
-    - Retention of saved EU law at end of implementation period
-      - [Sch. 8 para. 37A](schedule/8/paragraph/37A.md)
+    - Retention of existing EU law
       - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
       - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
     - Main powers in connection with withdrawal
