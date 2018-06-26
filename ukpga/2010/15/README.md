@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-06-26, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2018-04-01
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2018-06-26
 
 ## Contents
 
@@ -256,6 +256,11 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2018-04-01
     - [s. 179 Reviews and appeals](section/179.md)
     - [s. 180 Fees](section/180.md)
     - [s. 181 Interpretation](section/181.md)
+  - CHAPTER 2A Bus services
+    - [s. 181A Information for bus passengers](section/181A.md)
+    - [s. 181B Exemptions etc](section/181B.md)
+    - [s. 181C Guidance](section/181C.md)
+    - [s. 181D Interpretation](section/181D.md)
   - Chapter 3 Rail vehicles
     - [s. 182 Rail vehicle accessibility regulations](section/182.md)
     - [s. 183 Exemptions from rail vehicle accessibility regulations](section/183.md)
