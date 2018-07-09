@@ -1,0 +1,542 @@
+# Education Act 2011
+
+2011 c. 21. Enacted 2011-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-07-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
+
+Source: https://www.legislation.gov.uk/ukpga/2011/21/2018-07-09
+
+## Contents
+
+- Part 1 Early years provision
+  - [s. 1 Free of charge early years provision](section/1.md)
+- Part 2 Discipline
+  - [s. 2 Power of members of staff at schools to search pupils](section/2.md)
+  - [s. 3 Power of members of staff at further education institutions to search students](section/3.md)
+  - [s. 4 Exclusion of pupils from schools in England: review](section/4.md)
+  - [s. 5 Repeal of requirement to give notice of detention to parent: England](section/5.md)
+  - [s. 6 Repeal of duty to enter into behaviour and attendance partnership](section/6.md)
+- Part 3 School workforce
+  - Abolition of the General Teaching Council for England
+    - [s. 7 Abolition of the General Teaching Council for England](section/7.md)
+    - [s. 8 Functions of Secretary of State in relation to teachers](section/8.md)
+    - [s. 9 Requirement for teachers in England to serve induction period](section/9.md)
+    - [s. 10 Abolition of the GTCE: transitional provision](section/10.md)
+    - [s. 11 Abolition of the GTCE: consequential amendments](section/11.md)
+    - [s. 12 Abolition of the GTCE: transfer schemes](section/12.md)
+  - Reporting restrictions
+    - [s. 13 Restrictions on reporting alleged offences by teachers](section/13.md)
+  - Abolition of the Training and Development Agency for Schools
+    - [s. 14 Abolition of the Training and Development Agency for Schools](section/14.md)
+    - [s. 15 Training the school workforce: powers of Secretary of State and Welsh Ministers](section/15.md)
+    - [s. 16 Abolition of the TDA: consequential amendments](section/16.md)
+    - [s. 17 Abolition of the TDA: transfer schemes](section/17.md)
+  - Abolition of the School Support Staff Negotiating Body
+    - [s. 18 Abolition of the School Support Staff Negotiating Body](section/18.md)
+  - Staff: minor amendments
+    - [s. 19 Staffing of maintained schools: suspension of delegated budget](section/19.md)
+- Part 4 Qualifications and the Curriculum
+  - International comparison surveys
+    - [s. 20 Requirement for schools to participate in international surveys](section/20.md)
+  - Ofqual
+    - [s. 21 The Chief Regulator of Qualifications and Examinations](section/21.md)
+    - [s. 22 The qualifications standards objective](section/22.md)
+    - [s. 23 Enforcement powers](section/23.md)
+  - Qualifications: Wales
+    - [s. 24 Enforcement powers of Welsh Ministers](section/24.md)
+  - Abolition of the Qualifications and Curriculum Development Agency
+    - [s. 25 Abolition of the Qualifications and Curriculum Development Agency](section/25.md)
+    - [s. 26 Abolition of the QCDA: consequential amendments](section/26.md)
+    - [s. 27 Abolition of the QCDA: transfer schemes](section/27.md)
+  - Careers education and guidance
+    - [s. 28 Education and training support services in England](section/28.md)
+    - [s. 29 Careers guidance in schools in England](section/29.md)
+  - Repeal of the diploma entitlement
+    - [s. 30 Repeal of diploma entitlement for 16 to 18 year olds](section/30.md)
+    - [s. 31 Repeal of diploma entitlement for fourth key stage](section/31.md)
+- Part 5 Educational institutions: other provisions
+  - Repeal of duties of governing bodies, local authorities and others
+    - [s. 32 Duty to prepare and publish school profile](section/32.md)
+    - [s. 33 Duty to appoint school improvement partners](section/33.md)
+    - [s. 34 Duties in relation to school admissions](section/34.md)
+    - [s. 35 Duties in relation to school meals etc](section/35.md)
+  - Admissions
+    - [s. 36 Objections to admission arrangements](section/36.md)
+  - New schools
+    - [s. 37 Establishment of new schools](section/37.md)
+  - Governing bodies: constitution and dissolution
+    - [s. 38 Constitution of governing bodies: maintained schools in England](section/38.md)
+    - [s. 39 Discontinuance of federated school: governing body not to be dissolved](section/39.md)
+  - Standards
+    - [s. 40 School inspections: exempt schools](section/40.md)
+    - [s. 41 School inspections: matters to be covered in Chief Inspector’s report](section/41.md)
+    - [s. 42 Inspection of further education institutions: exempt institutions](section/42.md)
+    - [s. 43 Inspection of boarding accommodation](section/43.md)
+    - [s. 44 Schools causing concern: powers of Secretary of State](section/44.md)
+    - [s. 45 Complaints: repeal of power to complain to Local Commissioner](section/45.md)
+  - Finance
+    - [s. 46 Local authorities’ financial schemes](section/46.md)
+    - [s. 47 Payments in respect of dismissal, etc](section/47.md)
+    - [s. 48 Determination of permitted charges](section/48.md)
+  - Further education institutions
+    - [s. 49 Further education institutions: amendments](section/49.md)
+  - Pupil referral units
+    - [s. 50 Financing of pupil referral units](section/50.md)
+    - [s. 51 Repeal of provision changing name of pupil referral units](section/51.md)
+- Part 6 Academies
+  - Academy arrangements
+    - [s. 52 Academies: removal of requirement to have specialism](section/52.md)
+    - [s. 53 Academy arrangements: post-16 education and alternative provision](section/53.md)
+    - [s. 54 Consequential amendments: 16 to 19 Academies and alternative provision Academies](section/54.md)
+  - Academy orders
+    - [s. 55 Academy orders: involvement of religious bodies etc](section/55.md)
+    - [s. 56 Academies: consultation on conversion](section/56.md)
+    - [s. 57 Academy conversions: federated schools](section/57.md)
+    - [s. 58 Academy orders: local authority powers](section/58.md)
+    - [s. 59 Transfer of property, rights and liabilities to Academies](section/59.md)
+  - Academies: other provisions
+    - [s. 60 Academies: new and expanded educational institutions](section/60.md)
+    - [s. 61 Charges at boarding Academies](section/61.md)
+    - [s. 62 Staff at Academies with religious character](section/62.md)
+    - [s. 63 Academies: land](section/63.md)
+    - [s. 64 Academy admissions arrangements: references to adjudicator](section/64.md)
+    - [s. 65 Academies: minor amendments](section/65.md)
+- Part 7 Post-16 education and training
+  - Abolition of the Young People’s Learning Agency for England
+    - [s. 66 Abolition of the Young People’s Learning Agency for England](section/66.md)
+    - [s. 67 Abolition of the YPLA: consequential amendments](section/67.md)
+    - [s. 68 Abolition of the YPLA: transfer schemes](section/68.md)
+  - Apprenticeships
+    - [s. 69 The apprenticeship offer](section/69.md)
+    - [s. 70 Securing the provision of apprenticeship training](section/70.md)
+    - [s. 71 Apprenticeship certificates](section/71.md)
+  - The Chief Executive of Skills Funding
+    - [s. 72 Consultation by Chief Executive of Skills Funding](section/72.md)
+    - [s. 73 Functions of the Chief Executive of Skills Funding](section/73.md)
+  - Raising the participation age: commencement
+    - [s. 74 Duty to participate in education or training: commencement](section/74.md)
+- Part 8 Direct payments
+  - [s. 75 Direct payments: persons with special educational needs or subject to learning difficulty assessment](section/75.md)
+- Part 9 Student finance
+  - [s. 76 Student loans: interest rates](section/76.md)
+  - [s. 77 Limit on student fees: part-time courses](section/77.md)
+- Part 10 General
+  - [s. 78 Orders and regulations](section/78.md)
+  - [s. 79 Interpretation of Act](section/79.md)
+  - [s. 80 Financial provision](section/80.md)
+  - [s. 81 Extent](section/81.md)
+  - [s. 82 Commencement](section/82.md)
+  - [s. 83 Short title](section/83.md)
+- SCHEDULE 1 Review of exclusions from schools in England: consequential amendments
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - EA 1996
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - SSFA 1998
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Abolition of the GTCE: consequential amendments
+  - Amendments to THEA 1998
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Amendments to other Education Acts
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Other amendments
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 Abolition of the GTCE: transfer schemes
+  - Staff transfer schemes
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Property transfer schemes
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Continuity
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Supplementary provision etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Interpretation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Offence of breach of reporting restrictions: application to providers of information society services
+- SCHEDULE 5 Abolition of the TDA: consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Education (Fees and Awards) Act 1983 (c. 40)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - EA 1994
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - EA 1996
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - THEA 1998
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - EA 2002
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - HEA 2004
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - EA 2005
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+- SCHEDULE 6 Abolition of the TDA: transfer schemes
+  - Staff transfer schemes
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Property transfer schemes
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Continuity
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Supplementary provision etc.
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Interpretation
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 The Chief Regulator of Qualifications and Examinations
+  - Amendments to Schedule 9 to ASCLA 2009
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Consequential amendments
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Abolition of the QCDA: consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - EA 1996
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - EA 1997
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - LSA 2000
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - EA 2002
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - EIA 2006
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - ASCLA 2009
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+- SCHEDULE 9 Abolition of the QCDA: transfer schemes
+  - Staff transfer schemes
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Property transfer schemes
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Continuity
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Supplementary provision etc.
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Interpretation
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 School admissions: consequential amendments
+  - Amendments consequential on the amendments to section 85A (admission forums)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Amendments consequential on the repeal of section 88J of SSFA 1998 (school adjudicators)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+- SCHEDULE 11 Establishment of new schools
+  - Amendments to Part 2 of EIA 2006
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Other amendments
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 Further education institutions: amendments
+  - Amendments to FHEA 1992
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+  - Other amendments
+    - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+    - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+    - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+- SCHEDULE 13 16 to 19 Academies and alternative provision Academies: consequential amendments
+  - AA 2010
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Other Acts
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+- SCHEDULE 14 Academies: land
+  - Schedule 1 to AA 2010
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Amendments to Schedule 22 to SSFA 1998
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Other amendments
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+- SCHEDULE 15 Academies: minor amendments
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+- SCHEDULE 16 Abolition of the YPLA: consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Education (Fees and Awards) Act 1983 (c. 40)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Employment Act 1988 (c. 19)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Value Added Tax Act 1994 (c. 23)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - EA 1996
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - SSFA 1998
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - LSA 2000
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+  - EA 2002
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+  - HEA 2004
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+  - EA 2005
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+  - EIA 2006
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+  - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+  - Local Government and Public Involvement in Health Act 2007 (c. 28)
+    - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+  - ESA 2008
+    - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+    - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+    - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+  - Local Democracy, Economic Development and Construction Act 2009 (c. 20)
+    - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+  - ASCLA 2009
+    - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+    - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+    - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+    - [Sch. 16 para. 50](schedule/16/paragraph/50.md)
+- SCHEDULE 17 Abolition of the YPLA: transfer schemes
+  - Staff transfer schemes
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Property transfer schemes
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - Continuity
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Supplementary provision etc.
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - Interpretation
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+- SCHEDULE 18 The apprenticeship offer: consequential amendments
+  - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+  - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+  - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
