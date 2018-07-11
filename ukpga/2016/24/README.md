@@ -2,9 +2,9 @@
 
 2016 c. 24. Enacted 2016-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-06, one file per provision. Earlier versions, from 2016-04-06, are in the history before it: `git log -- ukpga/2016/24` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-07-11, one file per provision. Earlier versions, from 2016-04-06, are in the history before it: `git log -- ukpga/2016/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/24/2018-04-06
+Source: https://www.legislation.gov.uk/ukpga/2016/24/2018-07-11
 
 ## Contents
 
@@ -1039,6 +1039,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2018-04-06
     - Enhanced capital allowances
     - Creative tax reliefs
     - Research and development reliefs
+    - Enterprise management incentives exemptions and reliefs
   - PART 2 Tax advantages to which section 180(5) applies
 - SCHEDULE 25 Office of Tax Simplification
   - Membership
