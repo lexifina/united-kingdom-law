@@ -1,0 +1,139 @@
+# Tenements (Scotland) Act 2004
+
+asp/2004/11. Enacted 2004-10-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-07-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2004/11/2018-07-13
+
+## Contents
+
+- Boundaries and pertinents
+  - [s. 1 Determination of boundaries and pertinents](section/1.md)
+  - [s. 2 Tenement boundaries](section/2.md)
+  - [s. 3 Pertinents](section/3.md)
+- Tenement Management Scheme
+  - [s. 4 Application of the Tenement Management Scheme](section/4.md)
+  - [s. 4A Power of local authority to pay share of scheme costs](section/4A.md)
+- Resolution of disputes
+  - [s. 5 Application to sheriff for annulment of certain decisions](section/5.md)
+  - [s. 6 Application to sheriff for order resolving certain disputes](section/6.md)
+- Support and shelter
+  - [s. 7 Abolition as respects tenements of common law rules of common interest](section/7.md)
+  - [s. 8 Duty to maintain so as to provide support and shelter etc.](section/8.md)
+  - [s. 9 Prohibition on interference with support or shelter etc.](section/9.md)
+  - [s. 10 Recovery of costs incurred by virtue of section 8](section/10.md)
+- Repairs: costs and access
+  - [s. 11 Determination of when an owner’s liability for certain costs arises](section/11.md)
+  - [s. 12 Liability of owner and successors for certain costs](section/12.md)
+  - [s. 13 Notice of potential liability for costs: further provision](section/13.md)
+  - [s. 14 Former owner’s right to recover costs](section/14.md)
+  - [s. 15 Prescriptive period for costs to which section 12 relates](section/15.md)
+  - [s. 16 Common property: disapplication of common law right of recovery](section/16.md)
+  - [s. 17 Access for maintenance and other purposes](section/17.md)
+- Insurance
+  - [s. 18 Obligation of owner to insure](section/18.md)
+- Installation of service pipes etc.
+  - [s. 19 Installation of service pipes etc.](section/19.md)
+- Demolition and abandonment of tenement building
+  - [s. 20 Demolition of tenement building not to affect ownership](section/20.md)
+  - [s. 21 Cost of demolishing tenement building](section/21.md)
+  - [s. 22 Use and disposal of site where tenement building demolished](section/22.md)
+  - [s. 23 Sale of abandoned tenement building](section/23.md)
+- Liability for certain costs
+  - [s. 24 Liability to non owner for certain damage costs](section/24.md)
+- Miscellaneous and general
+  - [s. 25 Amendments of Title Conditions (Scotland) Act 2003](section/25.md)
+  - [s. 26 Meaning of “tenement”](section/26.md)
+  - [s. 27 Meaning of “management scheme”](section/27.md)
+  - [s. 28 Meaning of “owner”, determination of liability etc.](section/28.md)
+  - [s. 29 Interpretation](section/29.md)
+  - [s. 30 Giving of notice to owners](section/30.md)
+  - [s. 31 Ancillary provision](section/31.md)
+  - [s. 32 Orders and regulations](section/32.md)
+  - [s. 33 Crown application](section/33.md)
+  - [s. 34 Short title and commencement](section/34.md)
+- SCHEDULE 1 Tenement Management Scheme
+  - RULE 1 – SCOPE AND INTERPRETATION
+    - [Sch. 1 para. 1.1 Scope of scheme](schedule/1/paragraph/1-1.md)
+    - [Sch. 1 para. 1.2 Meaning of “scheme property”](schedule/1/paragraph/1-2.md)
+    - [Sch. 1 para. 1.3 Parts not included in rule 1.2(c)](schedule/1/paragraph/1-3.md)
+    - [Sch. 1 para. 1.4 Meaning of “scheme decision”](schedule/1/paragraph/1-4.md)
+    - [Sch. 1 para. 1.5 Other definitions](schedule/1/paragraph/1-5.md)
+    - [Sch. 1 para. 1.6 Rights of co-owners](schedule/1/paragraph/1-6.md)
+  - RULE 2 – PROCEDURE FOR MAKING SCHEME DECISIONS
+    - [Sch. 1 para. 2.1 Making scheme decisions](schedule/1/paragraph/2-1.md)
+    - [Sch. 1 para. 2.2 Allocation and exercise of votes](schedule/1/paragraph/2-2.md)
+    - [Sch. 1 para. 2.3 Qualification on allocation of votes](schedule/1/paragraph/2-3.md)
+    - [Sch. 1 para. 2.4 Exercise of vote where two or more persons own flat](schedule/1/paragraph/2-4.md)
+    - [Sch. 1 para. 2.5 Decision by majority](schedule/1/paragraph/2-5.md)
+    - [Sch. 1 para. 2.6 Notice of meeting](schedule/1/paragraph/2-6.md)
+    - [Sch. 1 para. 2.7 Consultation of owners if scheme decision not made at meeting](schedule/1/paragraph/2-7.md)
+    - [Sch. 1 para. 2.8 Consultation where two or more persons own flat](schedule/1/paragraph/2-8.md)
+    - [Sch. 1 para. 2.9 Notification of scheme decisions](schedule/1/paragraph/2-9.md)
+    - [Sch. 1 para. 2.10 Case where decision maybe annulled by notice](schedule/1/paragraph/2-10.md)
+    - [Sch. 1 para. 2.11 Time limits for rule 2.10](schedule/1/paragraph/2-11.md)
+  - RULE 3 – MATTERS ON WHICH SCHEME DECISIONS MAY BE MADE
+    - [Sch. 1 para. 3.1 Basic scheme decisions](schedule/1/paragraph/3-1.md)
+    - [Sch. 1 para. 3.2 Scheme decisions relating to maintenance](schedule/1/paragraph/3-2.md)
+    - [Sch. 1 para. 3.3 Scheme decisions under rule 3.2(c) requiring deposits exceeding certain amounts](schedule/1/paragraph/3-3.md)
+    - [Sch. 1 para. 3.4 Provision supplementary to rule 3.3](schedule/1/paragraph/3-4.md)
+    - [Sch. 1 para. 3.5 Scheme decisions under rule 3.1(g): votes of persons standing to benefit not to be counted](schedule/1/paragraph/3-5.md)
+  - RULE 4 – SCHEME COSTS: LIABILITY AND APPORTIONMENT
+    - [Sch. 1 para. 4.1 Meaning of “scheme costs”](schedule/1/paragraph/4-1.md)
+    - [Sch. 1 para. 4.2 Maintenance and running costs](schedule/1/paragraph/4-2.md)
+    - [Sch. 1 para. 4.3 Scheme costs relating to roof over the close](schedule/1/paragraph/4-3.md)
+    - [Sch. 1 para. 4.4 Insurance premium](schedule/1/paragraph/4-4.md)
+    - [Sch. 1 para. 4.5 Other scheme costs](schedule/1/paragraph/4-5.md)
+  - RULE 5 – REDISTRIBUTION OF SHARE OF COSTS
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - RULE 6 – PROCEDURAL IRREGULARITIES
+    - [Sch. 1 para. 6.1 Validity of scheme decisions](schedule/1/paragraph/6-1.md)
+    - [Sch. 1 para. 6.2 Liability for scheme costs where procedural irregularity](schedule/1/paragraph/6-2.md)
+  - RULE 7 – EMERGENCY WORK
+    - [Sch. 1 para. 7.1 Power to instruct or carry out](schedule/1/paragraph/7-1.md)
+    - [Sch. 1 para. 7.2 Liability for cost](schedule/1/paragraph/7-2.md)
+    - [Sch. 1 para. 7.3 Meaning of “emergency work”](schedule/1/paragraph/7-3.md)
+  - RULE 8 – ENFORCEMENT
+    - [Sch. 1 para. 8.1 Scheme binding on owners](schedule/1/paragraph/8-1.md)
+    - [Sch. 1 para. 8.2 Scheme decision to be binding](schedule/1/paragraph/8-2.md)
+    - [Sch. 1 para. 8.3 Enforceability of scheme decisions](schedule/1/paragraph/8-3.md)
+    - [Sch. 1 para. 8.4 Enforcement by third party](schedule/1/paragraph/8-4.md)
+  - RULE 9 – GIVING OF NOTICE
+    - [Sch. 1 para. 9.1 Giving of notice](schedule/1/paragraph/9-1.md)
+    - [Sch. 1 para. 9.2 Methods of “sending” for the purposes of rule 9.1](schedule/1/paragraph/9-2.md)
+    - [Sch. 1 para. 9.3 Giving of notice to owner where owner’s name is not known](schedule/1/paragraph/9-3.md)
+    - [Sch. 1 para. 9.4 Day on which notice is to be taken to be given](schedule/1/paragraph/9-4.md)
+- SCHEDULE 2 Form of notice of potential liability for costs
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Sale under section 22(3) or 23(1)
+  - [Sch. 3 para. 1 Application to sheriff for power to sell](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Appeal against grant or refusal of power of sale order](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Registration of power of sale order](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Exercise of power of sale](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Distribution of proceeds of sale](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Automatic discharge of heritable securities](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Amendments of Title Conditions (Scotland) Act 2003
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
