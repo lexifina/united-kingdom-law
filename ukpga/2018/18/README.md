@@ -2,11 +2,9 @@
 
 2018 c. 18. Enacted 2018-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-05-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-07-19, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 28 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/18
-
-Source: https://www.legislation.gov.uk/ukpga/2018/18/2022-05-27
+Source: https://www.legislation.gov.uk/ukpga/2018/18/2018-07-19
 
 ## Contents
 
