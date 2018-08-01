@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-07-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-08-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-07-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-08-01
 
 ## Contents
 
@@ -268,6 +268,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-07-01
     - [s. 182 Records of persons removed from office](section/182.md)
     - [s. 183 Criminal consequences of acting while disqualified](section/183.md)
     - [s. 184 Civil consequences of acting while disqualified](section/184.md)
+    - [s. 184A Sections 183 and 184: participation in corporate decisions](section/184A.md)
   - Remuneration of charity trustees and trustees etc.
     - [s. 185 Remuneration of charity trustees or trustees etc. providing services to charity](section/185.md)
     - [s. 186 Disqualification of charity trustee or trustee receiving remuneration under s.185](section/186.md)
