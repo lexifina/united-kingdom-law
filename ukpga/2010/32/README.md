@@ -2,9 +2,9 @@
 
 2010 c. 32. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-09-01, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/32/2018-04-01
+Source: https://www.legislation.gov.uk/ukpga/2010/32/2018-09-01
 
 ## Contents
 
@@ -15,10 +15,12 @@ Source: https://www.legislation.gov.uk/ukpga/2010/32/2018-04-01
   - [s. 1C Alternative provision Academies](section/1C.md)
   - [s. 1D Alternative provision Academies: powers to apply provisions with modifications](section/1D.md)
   - [s. 2 Payments under Academy agreements](section/2.md)
+- Provision to be included in Academy agreements
   - [s. 2A Academy agreements: provision about failing schools](section/2A.md)
   - [s. 2B Academy agreements: provision about coasting schools](section/2B.md)
   - [s. 2C Sections 2A and 2B supplementary - new agreements](section/2C.md)
   - [s. 2D Sections 2A and 2B: supplementary - old agreements](section/2D.md)
+  - [s. 2E Provision about staff member for looked after and previously looked after pupils](section/2E.md)
 - Conversion of schools into Academies
   - [s. 3 Application for Academy order](section/3.md)
   - [s. 4 Academy orders](section/4.md)
