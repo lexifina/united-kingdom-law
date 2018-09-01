@@ -1,0 +1,117 @@
+# Food (Scotland) Act 2015
+
+asp/2015/1. Enacted 2015-01-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2015/1/2018-09-01
+
+## Contents
+
+- PART 1 FOOD STANDARDS SCOTLAND
+  - Food Standards Scotland
+    - [s. 1 Establishment](section/1.md)
+    - [s. 2 Objectives](section/2.md)
+    - [s. 3 General functions](section/3.md)
+    - [s. 4 Governance and accountability](section/4.md)
+    - [s. 5 Statement on performance of functions](section/5.md)
+  - Membership
+    - [s. 6 Number and appointment of members](section/6.md)
+    - [s. 7 Early ending of membership](section/7.md)
+    - [s. 8 Remuneration and expenses of members](section/8.md)
+  - Staff
+    - [s. 9 Chief executive](section/9.md)
+    - [s. 10 Other staff](section/10.md)
+  - Operational matters
+    - [s. 11 Proceedings](section/11.md)
+    - [s. 12 Committees](section/12.md)
+    - [s. 13 Validity of things done](section/13.md)
+    - [s. 14 Authority to exercise functions](section/14.md)
+    - [s. 15 Annual and other reports](section/15.md)
+    - [s. 16 General powers](section/16.md)
+  - Legislation relating to public bodies
+    - [s. 17 Application of legislation relating to public bodies](section/17.md)
+  - Step-in powers
+    - [s. 18 Serious failure](section/18.md)
+  - Acquisition of information
+    - [s. 19 Duty to acquire, compile and keep under review relevant information](section/19.md)
+    - [s. 20 Observations with a view to obtaining information](section/20.md)
+    - [s. 21 Powers for persons carrying out observations](section/21.md)
+    - [s. 22 Offences in relation to section 21](section/22.md)
+  - Enforcement action
+    - [s. 23 Setting performance standards](section/23.md)
+    - [s. 24 Reporting own enforcement activities](section/24.md)
+    - [s. 25 Reporting on enforcement action by others](section/25.md)
+    - [s. 26 Power to request information in relation to enforcement action](section/26.md)
+    - [s. 27 Offences in relation to section 26](section/27.md)
+    - [s. 28 Powers for persons monitoring enforcement action](section/28.md)
+    - [s. 29 Offences in relation to section 28](section/29.md)
+  - Issuing guidance on food-borne diseases
+    - [s. 30 Power to issue guidance on control of food-borne diseases](section/30.md)
+  - Information sharing
+    - [s. 31 Publication and disclosure of advice and information](section/31.md)
+  - Consequential provision
+    - [s. 32 Certain functions of Food Standards Agency ceasing to be exercisable](section/32.md)
+- PART 2 FOOD AND FEEDING STUFFS
+  - Food information
+    - [s. 33 Food information](section/33.md)
+  - Food hygiene information scheme
+    - [s. 34 Food hygiene information scheme](section/34.md)
+  - Feeding stuffs
+    - [s. 35 Regulation of animal feeding stuffs](section/35.md)
+- PART 3 ADMINISTRATIVE SANCTIONS
+  - Fixed penalty notices
+    - [s. 36 Fixed penalty notices](section/36.md)
+    - [s. 37 Content and form of a fixed penalty notice](section/37.md)
+    - [s. 38 Effect of a fixed penalty notice on criminal proceedings](section/38.md)
+    - [s. 39 Restrictions on issuing of a fixed penalty notice](section/39.md)
+    - [s. 40 Withdrawal of a fixed penalty notice](section/40.md)
+    - [s. 41 Income from fixed penalties to be paid to the Scottish Ministers](section/41.md)
+  - Compliance notices
+    - [s. 42 Compliance notices](section/42.md)
+    - [s. 43 Content and form of a compliance notice](section/43.md)
+    - [s. 44 Failure to comply with a compliance notice](section/44.md)
+    - [s. 45 Effect of a compliance notice on criminal proceedings](section/45.md)
+    - [s. 46 Restrictions on issuing of a compliance notice](section/46.md)
+    - [s. 47 Withdrawal of a compliance notice](section/47.md)
+    - [s. 48 Appeal against a compliance notice](section/48.md)
+  - General
+    - [s. 49 Power to make supplementary etc. provision](section/49.md)
+    - [s. 50 Regulations](section/50.md)
+    - [s. 51 Lord Advocate’s guidance](section/51.md)
+    - [s. 52 Interpretation of Part](section/52.md)
+- PART 4 INTERPRETATION
+  - [s. 53 Meanings of “food” and “animal feeding stuffs”](section/53.md)
+  - [s. 54 Meaning of “food matter”](section/54.md)
+  - [s. 55 Meaning of “other interests of consumers in relation to food”](section/55.md)
+  - [s. 56 Meaning of “animal feeding stuffs matter”](section/56.md)
+  - [s. 57 Meaning of “food legislation”](section/57.md)
+  - [s. 58 General interpretation](section/58.md)
+- PART 5 FINAL PROVISIONS
+  - [s. 59 Modification of enactments](section/59.md)
+  - [s. 60 Subordinate legislation](section/60.md)
+  - [s. 61 Ancillary provision](section/61.md)
+  - [s. 62 Crown application](section/62.md)
+  - [s. 63 Commencement](section/63.md)
+  - [s. 64 Short title](section/64.md)
+- SCHEDULE MODIFICATION OF ENACTMENTS
+  - Agriculture Act 1947
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - Food and Environment Protection Act 1985
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - Food Safety Act 1990
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - Environmental Protection Act 1990
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - Radioactive Substances Act 1993
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - Environment Act 1995
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - Food Standards Act 1999
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+  - Water Environment and Water Services (Scotland) Act 2003
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - Gaelic Language (Scotland) Act 2005
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+  - Regulatory Reform (Scotland) Act 2014
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
