@@ -1,0 +1,358 @@
+# Water (Scotland) Act 1980
+
+1980 c. 45. Enacted 1980-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/45
+
+Source: https://www.legislation.gov.uk/ukpga/1980/45/2018-09-01
+
+## Contents
+
+- Part I Central Authority
+  - [s. 1 General duties of Secretary of State and of water authorities.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+- Part II Duties of Water Authorities
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 Duty of authority to provide supply.](section/6.md)
+  - [s. 7 Supply of water for domestic purposes.](section/7.md)
+  - [s. 8 Water supplied for domestic purposes to be wholesome.](section/8.md)
+  - [s. 9 Supply of water for non-domestic purposes.](section/9.md)
+  - [s. 9A](section/9A.md)
+  - [s. 10 Compensation for damage resulting from exercise of powers.](section/10.md)
+  - [s. 11 Power of Secretary of State on default of authority or board.](section/11.md)
+- Part III Powers of Water Authorities for the purposes of Water Supply
+  - [s. 12 Supply of water to premises outwith limits of supply.](section/12.md)
+  - [s. 13 Supply of water in bulk.](section/13.md)
+  - [s. 13A Supply of water for use outwith Scotland.](section/13A.md)
+  - [s. 14 Power of water authority to give guarantee for supply of water.](section/14.md)
+  - [s. 15 ................................](section/15.md)
+  - [s. 16 Powers of survey and search for water on land.](section/16.md)
+  - [s. 17 Acquisition of water rights.](section/17.md)
+  - [s. 18 Compulsory acquisition of land for water works.](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 Power to carry out works.](section/21.md)
+  - [s. 22 Power to break open streets.](section/22.md)
+  - [s. 23 Power to lay mains, etc.](section/23.md)
+  - [s. 23A Laying of mains and communication pipes by persons other than Scottish Water](section/23A.md)
+  - [s. 23B Construction standards for mains and communication pipes to vest in Scottish Water](section/23B.md)
+  - [s. 23C Vesting conditions for mains and communication pipes](section/23C.md)
+  - [s. 24 Communication and supply pipes.](section/24.md)
+  - [s. 24A Keeping of map showing water mains, etc.](section/24A.md)
+  - [s. 24B Works in connection with metering](section/24B.md)
+  - [s. 25 Power of authority to provide public wells.](section/25.md)
+  - [s. 26 Power to close, or restrict use of, wells.](section/26.md)
+  - [s. 27 Power to close, or restrict use of water from, polluted source.](section/27.md)
+  - [s. 28 Water works code.](section/28.md)
+  - [s. 29 Applications of enactments by order.](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 Consultation with authorities in England.](section/31.md)
+  - [s. 32 Power of water undertakers to supply water to water authorities.](section/32.md)
+  - [s. 33 Temporary discharge of water into watercourses.](section/33.md)
+  - [s. 34 Persons supplying water to supply to authority.](section/34.md)
+  - [s. 35 Power to supply water fittings.](section/35.md)
+  - [s. 36 Power to execute work on behalf of owner or occupier.](section/36.md)
+  - [s. 37 Power to require occupier to permit works to be executed by owner.](section/37.md)
+  - [s. 38 Entry of premises.](section/38.md)
+- Part IV Finance
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 ................................](section/41.md)
+  - [s. 41A Supply of water by meter.](section/41A.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 Domestic water rate in certain cases.](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 Power to require supply by meter.](section/50.md)
+  - [s. 51 Power to require supplies for refrigerating apparatus, etc., to be taken by meter.](section/51.md)
+  - [s. 52 Power to require supply for hose pipe to be taken by meter.](section/52.md)
+  - [s. 53 Provision as to supply to tents, vans, sheds, etc.](section/53.md)
+  - [s. 54 Register of meter to be evidence.](section/54.md)
+  - [s. 55 Charges for water supplied by meter.](section/55.md)
+  - [s. 56 Provisions as to supply of water to agricultural subjects.](section/56.md)
+  - [s. 56A Regulations as to meters.](section/56A.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 Termination of right to supply of water on special terms.](section/58.md)
+  - [s. 59 Limitation of liability of water authority to supply water on special terms.](section/59.md)
+  - [s. 60 ................................](section/60.md)
+  - [s. 61 ................................](section/61.md)
+  - [s. 62 ................................](section/62.md)
+- Part V Houses, Etc., to be Supplied with Water
+  - [s. 63 Provision of water supply for new buildings and houses.](section/63.md)
+  - [s. 64 ................................](section/64.md)
+  - [s. 65 ................................](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 ................................](section/67.md)
+- Part VI Conservation and Protection of Water Resources
+  - [s. 68 Agreements as to drainage.](section/68.md)
+  - [s. 68A Agreements for water quality](section/68A.md)
+  - [s. 69 Power to restrict use of hose pipes.](section/69.md)
+  - [s. 70 Byelaws for preventing misuse of water.](section/70.md)
+  - [s. 71 Byelaws for preventing pollution of water.](section/71.md)
+  - [s. 72 General provisions as to byelaws.](section/72.md)
+  - [s. 73 Power of Secretary of State to require the making of byelaws.](section/73.md)
+  - [s. 74 Regulations to prevent waste, misuse or contamination of water.](section/74.md)
+  - [s. 75 Penalty for polluting water.](section/75.md)
+  - [s. 76 Acquisition of land for protection of water.](section/76.md)
+- Part VIA Quality of Water
+  - [s. 76A Duties of water authorities with respect to water quality.](section/76A.md)
+  - [s. 76B Regulations for preserving water quality.](section/76B.md)
+  - [s. 76C Offence of supplying water unfit for human consumption.](section/76C.md)
+  - [s. 76D Provision of water where piped supplies insufficient or unwholesome.](section/76D.md)
+  - [s. 76E Enforcement of sections 76A to 76D.](section/76E.md)
+  - [s. 76F General functions of local authorities in relation to water quality.](section/76F.md)
+  - [s. 76FA Domestic distribution failures where water is supplied to the public by private supply](section/76FA.md)
+  - [s. 76FB Remedial powers of local authorities where domestic distribution failure affects supply to public](section/76FB.md)
+  - [s. 76FC Effect, confirmation and variation of a notice under section 76FB](section/76FC.md)
+  - [s. 76G Remedial powers of local authorities in relation to private supplies.](section/76G.md)
+  - [s. 76H Effect, confirmation and variation of notice under section 76G.](section/76H.md)
+  - [s. 76HA Application of sections 76G and 76H to certain private supplies](section/76HA.md)
+  - [s. 76I Incidental powers of local authorities.](section/76I.md)
+  - [s. 76J Standards of wholesomeness.](section/76J.md)
+  - [s. 76K Power to give effect to international obligations.](section/76K.md)
+  - [s. 76L Interpretation etc. of Part VIA.](section/76L.md)
+- PART VIB Raw water quality
+  - [s. 76M Power to enter](section/76M.md)
+  - [s. 76N Entry warrants](section/76N.md)
+  - [s. 76O Approved persons](section/76O.md)
+  - [s. 76P Taking steps](section/76P.md)
+  - [s. 76Q Obstruction offence](section/76Q.md)
+  - [s. 76R Specifying bodies of water](section/76R.md)
+  - [s. 76S Orders under this Part](section/76S.md)
+- Part VII Powers to Supply Water During Drought
+  - [s. 77 ................................](section/77.md)
+- Part VIII Water Development Boards
+  - [s. 80 Central Scotland Water Development Board.](section/80.md)
+  - [s. 81 Functions of Central Board.](section/81.md)
+  - [s. 82 Establishment of new water development boards.](section/82.md)
+  - [s. 83 Duty of water authorities and development boards to collaborate.](section/83.md)
+  - [s. 84 Constitution of water development boards.](section/84.md)
+  - [s. 85 Requisitions.](section/85.md)
+  - [s. 86 Calculation of amount to be requisitioned by water development boards.](section/86.md)
+  - [s. 87 Apportionment schemes.](section/87.md)
+  - [s. 88 Duration of scheme.](section/88.md)
+  - [s. 89 Revision of apportionment schemes.](section/89.md)
+  - [s. 90 Default by water development board on apportionment scheme.](section/90.md)
+  - [s. 91 Provision of services for water authorities and development boards.](section/91.md)
+  - [s. 92 Power of water development boards to promote or oppose private legislation.](section/92.md)
+- Part IX General
+  - [s. 93 Obtaining of information as to underground water.](section/93.md)
+  - [s. 94 False information.](section/94.md)
+  - [s. 95 Penalties for offences.](section/95.md)
+  - [s. 96 ................................](section/96.md)
+  - [s. 97 Continuing offences and penalties.](section/97.md)
+  - [s. 98 Local inquiries.](section/98.md)
+  - [s. 99 Orders subject to special parliamentary procedure.](section/99.md)
+  - [s. 100 Orders.](section/100.md)
+  - [s. 101 Regulations.](section/101.md)
+  - [s. 102 Expenses.](section/102.md)
+  - [s. 103 Notices to be in writing.](section/103.md)
+  - [s. 104 Appeal to sheriff-principal.](section/104.md)
+  - [s. 105 Reference to arbitration.](section/105.md)
+  - [s. 106 Supplementary provisions relating to determination of disputes.](section/106.md)
+  - [s. 107 Repeal, amendment and adaptation of local enactments.](section/107.md)
+  - [s. 108 Transitional provisions and savings.](section/108.md)
+  - [s. 109 Interpretation.](section/109.md)
+  - [s. 110 Further provisions as to communication pipes, etc.](section/110.md)
+  - [s. 111 Saving for protective clauses in other Acts.](section/111.md)
+  - [s. 112 Amendments and repeals.](section/112.md)
+  - [s. 113 Short title and extent.](section/113.md)
+- SCHEDULE 1 Procedure for Making Orders and Making and Confirming Byelaws
+  - Part I
+    - Orders made by the Secretary of State under section 17(2) and (if made on application of water authority or water development board) sections 19, 29(2) and 107(1)).
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part II
+    - Orders made by the Secretary of State under section 13(2) and (if no application by the water authority or water development board) sections 19 and 29(2).
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part III
+    - Agreements made by water authorities or water development boards under section 17
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Part IV
+    - Byelaws made by water authorities or water development boards under sections 70 and 71
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+- SCHEDULE 2 Orders under Section 17 Authorising Compulsory Acquisition of Land
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Provisions as to Breaking Open Streets and Laying Communication and Supply Pipes
+  - Part I
+    - Provisions as to breaking open streets, etc.
+      - [Sch. 3 para. 1 Power to break open streets.](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2 Protection for railway companies, navigation authorities, tramway undertakers, etc.](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part II
+    - Provisions as to laying communication and supply pipes, etc.
+      - [Sch. 3 para. 4 Power to lay service pipes, etc.](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5 Laying of supply pipes, etc.](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6 Laying of communication pipes, etc.](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7 Power of authority to require separate service pipes.](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9 Provisions as to the position of stopcocks.](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Provisions to be incorporated in Orders relating to Water Undertakings
+  - Part I Interpretation
+    - [Sch. 4 para. 1 Definitions, etc.](schedule/4/paragraph/1.md)
+  - Part II Works and Lands
+    - [Sch. 4 para. 2 Permissible limits of deviation.](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Limit on powers of undertakers to take water.](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 General power to construct subsidiary works.](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Penalty for obstructing construction of works.](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Power to acquire servitudes for underground work.](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Persons under disability may grant servitudes, etc.](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Extinction of private rights of way.](schedule/4/paragraph/9.md)
+  - Part III Compensation Water
+    - [Sch. 4 para. 10 Provisions as to compensation water.](schedule/4/paragraph/10.md)
+  - Part IV Minerals Underlying Waterworks
+    - [Sch. 4 para. 11 Undertakers not entitled to underlying minerals unless expressly purchased.](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Map of underground works to be prepared and kept up to date.](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Mines lying near the works not to be worked without notice to undertakers.](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 If undertakers unwilling to pay compensation, mines may be worked in usual manner.](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Power to make mining communication where continuous working is prevented.](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16 Undertakers to pay compensation for expenses incurred by reason of severance.](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17 Undertakers may enter and inspect the working of mines.](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18 Undertakers not exempted from liability for injury to mines.](schedule/4/paragraph/18.md)
+  - Part V Supply of water for public purposes
+    - [Sch. 4 para. 19 Undertakers to fix and maintain fire hydrants on pipes.](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20 Undertakers to deposit keys of hydrants at certain places.](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21 Cost of hydrants.](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 21A](schedule/4/paragraph/21A.md)
+    - [Sch. 4 para. 22 Hydrants to be placed near factories, etc., at request of owners or occupiers.](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24 Supply of water for cleansing sewers, etc., and for other public purposes.](schedule/4/paragraph/24.md)
+  - Part VI Constancy and pressure of supply
+    - [Sch. 4 para. 25 Duty of undertakers as respects constant supply and pressure.](schedule/4/paragraph/25.md)
+  - Part VII Provisions as to Waste and as to Meters
+    - [Sch. 4 para. 26 Power to require provision of cisterns in certain cases.](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27 Power to test water fittings.](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28 Power to enter premises to detect waste or misuse of water.](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29 Power to repair supply pipes.](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30 Penalty for waste, etc., of water by non-repair of pipes, etc.](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31 Penalty for misuse of water.](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32 Penalty for injuring water fittings, etc., or for fraudulent use of water.](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33 Penalty for interference with valves and apparatus.](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34 Penalty for extension or alteration of pipes, etc.](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35 Meters to be connected, or disconnected by undertakers.](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36 Meters, etc., to measure water or detect waste.](schedule/4/paragraph/36.md)
+  - Part VIII Pollution of water by manufacture of gas, etc.
+    - [Sch. 4 para. 37 Provisions as to pollution by liquids resulting from manufacture of gas, etc.](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38 Provision as to pollution by gas.](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39 Power to examine pipes and other works to ascertain source of pollution.](schedule/4/paragraph/39.md)
+  - Part IX General and Miscellaneous
+    - [Sch. 4 para. 40 Notice of discontinuance.](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41 Duty of undertakers to give notice of certain works.](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42 Penalty for obstucting execution of special Act.](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43 Proceedings for offences.](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44 Liability of undertakers to pay compensation.](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45 Protection for works of navigation authorities and for railways.](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46 Copies of special Act to be deposited.](schedule/4/paragraph/46.md)
+- SCHEDULES 5 AND 6.
+- SCHEDULE 7
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8
+  - Corporate status of boards
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Terms of office of members of boards
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Vacation of office by members of boards
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Appointments to fill casual vacancies
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Disqualification for, and re-appointment to, membership of boards
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - First meetings of boards
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Chairman
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Appointment of committees
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Members of committees
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Proceedings of boards and committees
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Authentication of documents
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Officers and servants
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Expenses, subscriptions and contributions
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - General
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+- SCHEDULE 9 Transitional Provisions and Savings
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10 Amendment of Enactments
+  - Part I General
+  - Part II Specific Enactments.
+    - Fire Services Act 1947 (c. 41.)
+    - Requisitioned Land and War Works Act 1948 (c. 17)
+    - Prevention of Damage by Pests Act 1949 (c. 55).
+    - Rivers (Prevention of Pollution) (Scotland) Act 1951 (c. 66)
+    - Town and Country Planning (Scotland) Act 1959 (c. 70)
+    - Water Officers Compensation Act 1960 (c. 15)
+    - Local Government (Financial Provisions etc.) (Scotland) Act 1962 (c. 9)
+    - Spray Irrigation (Scotland) Act 1964 (c. 90)
+    - Airports Authority Act 1965 (c. 16)
+    - Gas Act 1965 (c. 36)
+    - Countryside (Scotland) Act 1967 (c. 86)
+    - Sewerage (Scotland) Act 1968 (c. 47)
+    - Town and Country Planning (Scotland) Act 1972 (c. 52)
+    - Control of Pollution Act 1974 (c. 40)
+    - Local Government (Scotland) Act 1975 (c. 30)
+    - Airports Authority Act 1975 (c. 78)
+- SCHEDULE 11 REPEALS
