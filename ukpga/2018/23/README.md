@@ -2,9 +2,9 @@
 
 2018 c. 23. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/23/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2018/23/enacted
 
 ## Contents
 
