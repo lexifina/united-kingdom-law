@@ -2,11 +2,9 @@
 
 2018 c. 22. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-09-13, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/22
-
-Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2018-09-13
 
 ## Contents
 
@@ -41,7 +39,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
     - [s. 21 Customs agents](section/21.md)
     - [s. 22 Authorised economic operators](section/22.md)
     - [s. 23 Approvals and authorisations granted under regulations](section/23.md)
-    - [s. 24 Rulings as to application of customs tariff, valuation method or place of origin](section/24.md)
+    - [s. 24 Rulings as to application of customs tariff or place of origin](section/24.md)
   - Supplementary
     - [s. 25 Disclosure of information](section/25.md)
     - [s. 26 Co-operation with other customs services](section/26.md)
@@ -49,15 +47,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
     - [s. 28 Requirement to have regard to international obligations](section/28.md)
     - [s. 29 Consequential amendments](section/29.md)
     - [s. 30 General provision for the purposes of import duty](section/30.md)
-  - Northern Ireland
-    - [s. 30A Importation of goods: Northern Ireland](section/30A.md)
-    - [s. 30B Duty under section 30A(3): supplementary](section/30B.md)
-    - [s. 30C Duty on potentially imported goods](section/30C.md)
   - UK’s customs union
     - [s. 31 Territories forming part of a customs union with UK](section/31.md)
   - Regulations etc
     - [s. 32 Regulations etc](section/32.md)
-    - [s. 32A Reference documents](section/32A.md)
   - Interpretation etc
     - [s. 33 Meaning of “domestic goods”](section/33.md)
     - [s. 34 Presentation of goods to Customs on import or export](section/34.md)
@@ -68,8 +61,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
 - PART 2 Export duty
   - [s. 39 Charge to export duty](section/39.md)
   - [s. 40 Regulations under section 39: supplementary](section/40.md)
-  - [s. 40A Removal to Northern Ireland of at risk goods etc](section/40A.md)
-  - [s. 40B Duty under section 40A: supplementary](section/40B.md)
 - PART 3 Value added tax
   - [s. 41 Abolition of acquisition VAT and extension of import VAT](section/41.md)
   - [s. 42 EU law relating to VAT](section/42.md)
@@ -118,7 +109,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
   - Amendment or withdrawal of Customs declarations
     - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
     - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
-    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
   - Releasing and discharging goods to and from Customs procedures
     - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
   - Declarations for different Customs procedures
@@ -214,8 +204,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
       - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
     - Termination of a dumping or a subsidisation investigation
       - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
-    - Requirement to give notice to the Secretary of State in certain cases
-      - [Sch. 4 para. 12A](schedule/4/paragraph/12A.md)
   - PART 3 Provisional remedy: requiring a guarantee
     - TRA’s duty to recommend requiring guarantees
       - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
@@ -231,18 +219,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
     - TRA’s recommendations about an anti-dumping amount or a countervailing amount
       - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
       - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
-    - Secretary of State’s powers in relation to a recommendation
+    - Secretary of State’s power to accept or reject a recommendation
       - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
-    - Secretary of State’s power to apply an alternative remedy
-      - [Sch. 4 para. 20A](schedule/4/paragraph/20A.md)
     - Reviews of continuing application of an anti-dumping amount or a countervailing amount
       - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
     - Variation or revocation following an international dispute decision
       - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
-    - Revocation in the public interest
-      - [Sch. 4 para. 22A](schedule/4/paragraph/22A.md)
-    - Power to request assistance etc
-      - [Sch. 4 para. 22B](schedule/4/paragraph/22B.md)
   - PART 5 Undertakings
     - Acceptance of undertakings
       - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
@@ -288,8 +270,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
       - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
     - Termination of a safeguarding investigation
       - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
-    - Requirement to give notice to the Secretary of State in certain cases
-      - [Sch. 5 para. 10A](schedule/5/paragraph/10A.md)
   - PART 3 Provisional remedies: provisional safeguarding amount & provisional tariff rate quotas
     - TRA’s duty to recommend a provisional safeguarding amount or provisional tariff rate quota
       - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
@@ -308,18 +288,14 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
     - TRA’s recommendations regarding tariff rate quotas
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
-    - Secretary of State’s powers in relation to a recommendation to apply a definitive safeguarding amount
+    - Secretary of State’s power to apply a definitive safeguarding amount
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
-    - Secretary of State’s powers in relation to a recommendation to subject goods to a tariff rate quota
+    - Secretary of State’s power to subject goods to a tariff rate quota
       - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
     - Reviews
       - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
     - Variation or revocation following an international dispute decision
       - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
-    - Revocation in the public interest
-      - [Sch. 5 para. 22A](schedule/5/paragraph/22A.md)
-    - Power to request assistance etc
-      - [Sch. 5 para. 22B](schedule/5/paragraph/22B.md)
   - PART 5 Supplementary
     - The economic interest test
       - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
@@ -339,31 +315,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
       - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
     - Interpretation
       - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
-- Schedule 5A Increase in imports as a result of free trade agreement causing serious injury to UK producers
-  - [Sch. 5A para. 1 Application of this Schedule](schedule/5A/paragraph/1.md)
-  - [Sch. 5A para. 2 TRA and Secretary of State required to have regard to relevant free trade agreement](schedule/5A/paragraph/2.md)
-  - [Sch. 5A para. 3 Meaning of importation in “increased quantities”](schedule/5A/paragraph/3.md)
-  - [Sch. 5A para. 4 Bilateral safeguarding investigation](schedule/5A/paragraph/4.md)
-  - [Sch. 5A para. 5 Initiation of a bilateral safeguarding investigation](schedule/5A/paragraph/5.md)
-  - [Sch. 5A para. 6 Provisional affirmative determinations and final affirmative or negative determinations](schedule/5A/paragraph/6.md)
-  - [Sch. 5A para. 7 Termination of a bilateral safeguarding investigation](schedule/5A/paragraph/7.md)
-  - [Sch. 5A para. 8 TRA’s duty to recommend provisional measures](schedule/5A/paragraph/8.md)
-  - [Sch. 5A para. 9 TRA’s recommendations about provisional measures](schedule/5A/paragraph/9.md)
-  - [Sch. 5A para. 10 TRA’s recommendations about provisional measures](schedule/5A/paragraph/10.md)
-  - [Sch. 5A para. 11 TRA’s duty to recommend a definitive measure](schedule/5A/paragraph/11.md)
-  - [Sch. 5A para. 12 TRA’s recommendations about definitive measures](schedule/5A/paragraph/12.md)
-  - [Sch. 5A para. 13 TRA’s recommendations about definitive measures](schedule/5A/paragraph/13.md)
-  - [Sch. 5A para. 14 Meaning of “international dispute decision”](schedule/5A/paragraph/14.md)
-  - [Sch. 5A para. 15 No suspension of bilateral safeguarding remedies](schedule/5A/paragraph/15.md)
-  - [Sch. 5A para. 16 Exceptions](schedule/5A/paragraph/16.md)
-  - [Sch. 5A para. 17 No restriction on successive safeguarding remedies](schedule/5A/paragraph/17.md)
-  - [Sch. 5A para. 18 No interaction with anti-dumping remedies and anti-subsidy remedies](schedule/5A/paragraph/18.md)
-  - [Sch. 5A para. 19 Registration](schedule/5A/paragraph/19.md)
-  - [Sch. 5A para. 20 Reports and updates by the TRA and Secretary of State](schedule/5A/paragraph/20.md)
-  - [Sch. 5A para. 21 Secretary of State required to publish notice of decision about whether to apply remedy](schedule/5A/paragraph/21.md)
-  - [Sch. 5A para. 22 Secretary of State not required to lay statements before the House of Commons](schedule/5A/paragraph/22.md)
-  - [Sch. 5A para. 23 Interpretation](schedule/5A/paragraph/23.md)
-  - [Sch. 5A para. 24 Interpretation](schedule/5A/paragraph/24.md)
 - SCHEDULE 6 Import duty: notification of liability, payment etc
   - Notification of liability to pay import duty
     - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
@@ -552,9 +503,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
       - [Sch. 7 para. 156](schedule/7/paragraph/156.md)
     - Corporation Tax Act 2009
       - [Sch. 7 para. 157](schedule/7/paragraph/157.md)
-  - PART 4 Savings and modifications in relation to Northern Ireland
-    - Application of CEMA 1979 etc
-      - [Sch. 7 para. 158](schedule/7/paragraph/158.md)
 - SCHEDULE 8 VAT amendments connected with withdrawal from EU
   - PART 1 Amendments of Value Added Tax Act 1994
     - Amendment of the Value Added Tax Act 1994
@@ -723,5 +671,3 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
     - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
   - Finance Act 2008
     - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
-  - Savings in relation to Northern Ireland
-    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
