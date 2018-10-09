@@ -2,9 +2,9 @@
 
 2013 c. 22. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-08-30, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-10-09, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/22/2018-08-30
+Source: https://www.legislation.gov.uk/ukpga/2013/22/2018-10-09
 
 ## Contents
 
@@ -1454,6 +1454,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/22/2018-08-30
       - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
       - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
       - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+      - [Sch. 17 para. 26ZA](schedule/17/paragraph/26ZA.md)
       - [Sch. 17 para. 26A](schedule/17/paragraph/26A.md)
       - [Sch. 17 para. 26An1](schedule/17/paragraph/26An1.md)
       - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
