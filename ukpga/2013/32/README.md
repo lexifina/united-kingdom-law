@@ -2,9 +2,9 @@
 
 2013 c. 32. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-09-01, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-10-26, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/32/2018-09-01
+Source: https://www.legislation.gov.uk/ukpga/2013/32/2018-10-26
 
 ## Contents
 
@@ -101,6 +101,9 @@ Source: https://www.legislation.gov.uk/ukpga/2013/32/2018-09-01
     - [s. 74 Nuclear regulations](section/74.md)
     - [s. 75 Nuclear regulations: offences](section/75.md)
     - [s. 76 Nuclear regulations: civil liability](section/76.md)
+  - CHAPTER 2A Nuclear safeguards
+    - [s. 76A Nuclear safeguards regulations](section/76A.md)
+    - [s. 76B Payments in respect of compliance costs](section/76B.md)
   - CHAPTER 3 Office for Nuclear Regulation
     - [s. 77 The Office for Nuclear Regulation](section/77.md)
   - CHAPTER 4 Functions of the ONR
