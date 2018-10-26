@@ -2,9 +2,9 @@
 
 2013 c. 33. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-09-13, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-10-26, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/33/2018-09-13
+Source: https://www.legislation.gov.uk/ukpga/2013/33/2018-10-26
 
 ## Contents
 
@@ -128,6 +128,11 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2018-09-13
     - [s. 96 Guidance](section/96.md)
   - Reports
     - [s. 97 Reports](section/97.md)
+  - Technical Standards
+    - [s. 97A Technical standards](section/97A.md)
+    - [s. 97B Standards instruments](section/97B.md)
+    - [s. 97C Treasury approval](section/97C.md)
+    - [s. 97D Application of section 104 of this Act and Part 9A of the Financial Services and Markets Act 2000](section/97D.md)
   - Relationship with other regulators
     - [s. 98 Duty of regulators to ensure co-ordinated exercise of functions](section/98.md)
     - [s. 99 Memorandum of understanding](section/99.md)
@@ -300,8 +305,10 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2018-09-13
     - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
   - Audit of accounts
     - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
-  - Funding
+  - Funding (participants in regulated payment systems)
     - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Funding (regulated persons)
+    - [Sch. 4 para. 9A](schedule/4/paragraph/9A.md)
   - Penalty receipts
     - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
     - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
