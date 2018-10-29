@@ -2,9 +2,9 @@
 
 2020 c. 14. Enacted 2020-07-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2018-10-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/14/2026-03-18
+Source: https://www.legislation.gov.uk/ukpga/2020/14/2018-10-29
 
 ## Contents
 
@@ -122,8 +122,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/14/2026-03-18
     - [s. 85 Electric vehicles: extension of exemption](section/85.md)
     - [s. 86 Motor caravans](section/86.md)
     - [s. 87 Exemption in respect of medical courier vehicles](section/87.md)
-    - [s. 88 HGV road user levy: exempt period](section/88.md)
-    - [s. 88A HGV road user levy: transitional provision for end of exempt period](section/88A.md)
+    - [s. 88 HGV road user levy](section/88.md)
   - Hydrocarbon oil duties
     - [s. 89 Rebated fuel: private pleasure craft](section/89.md)
   - Air passenger duty
@@ -154,7 +153,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/14/2026-03-18
     - [s. 105 Interest on unpaid tax in case of disaster etc of national significance](section/105.md)
   - Coronavirus
     - [s. 106 Taxation of coronavirus support payments](section/106.md)
-    - [s. 107 Enterprise management incentives](section/107.md)
+    - [s. 107 Enterprise management incentives: disqualifying events](section/107.md)
     - [s. 108 Protected pension age of members re-employed as a result of coronavirus](section/108.md)
     - [s. 109 Modifications of the statutory residence test in connection with coronavirus](section/109.md)
     - [s. 110 Future Fund: EIS and SEIS relief](section/110.md)
@@ -630,26 +629,16 @@ Source: https://www.legislation.gov.uk/ukpga/2020/14/2026-03-18
     - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
     - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
 - SCHEDULE 15 Tax relief for scheme payments etc
-  - Part 1 Income tax and other related relief
-    - Introductory
-      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
-    - Qualifying payments
-      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
-    - Exemption from income tax
-      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
-    - Exemptions from capital gains tax
-      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
-    - Relief from inheritance tax
-      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
-  - Part 2 Corporation tax and other related relief
-    - [Sch. 15 para. 6 Introductory](schedule/15/paragraph/6.md)
-    - [Sch. 15 para. 7 Relevant compensation payments](schedule/15/paragraph/7.md)
-    - [Sch. 15 para. 8 Relevant onward payments](schedule/15/paragraph/8.md)
-    - [Sch. 15 para. 9 Exemption from corporation tax](schedule/15/paragraph/9.md)
-    - [Sch. 15 para. 10 Exemption from income tax and capital gains tax](schedule/15/paragraph/10.md)
-    - [Sch. 15 para. 11 Power to make further provision](schedule/15/paragraph/11.md)
-    - [Sch. 15 para. 12 Regulations: general](schedule/15/paragraph/12.md)
-    - [Sch. 15 para. 13 Interpretation](schedule/15/paragraph/13.md)
+  - Introductory
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Qualifying payments
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Exemption from income tax
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Exemptions from capital gains tax
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Relief from inheritance tax
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
 - SCHEDULE 16 Taxation of coronavirus support payments
   - Accounting for coronavirus support payments referable to a business
     - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
