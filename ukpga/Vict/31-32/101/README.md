@@ -1,0 +1,286 @@
+# Titles to Land Consolidation (Scotland) Act 1868
+
+1868 c. 101. Enacted 1868-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2018-11-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Vict/31-32/101
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/31-32/101/2018-11-12
+
+## Contents
+
+- [s. 1 Short title.](section/1.md)
+- [s. 2 Commencement of Act.](section/2.md)
+- [s. 3 Interpretation of terms.](section/3.md)
+- [s. 4 †Acts specified in Schedule (A.) repealed.](section/4.md)
+- [s. 5 In conveyances of land, etc. not held burgage, certain clauses may be inserted in the short forms given in Schedule (B.) No. 1.](section/5.md)
+- [s. 6 Import of clause expressing manner of holding.](section/6.md)
+- [s. 7 In conveyances of burgage property certain clauses may be inserted in the forms given in Schedule (B.) No. 2.](section/7.md)
+- [s. 8 Import of clauses in schedule (B.) Nos. 1 & 2.](section/8.md)
+- [s. 9 Conditions of entail may, in conveyances of entailed lands, be inserted by reference merely.](section/9.md)
+- [s. 10 Real burdens may be referred to as already in the register of sasines.](section/10.md)
+- [s. 11 ................................](section/11.md)
+- [s. 12 Clause directing part of conveyance to be recorded.](section/12.md)
+- [s. 13 Several lands conveyed by the same deed may be comprehended under one general name.](section/13.md)
+- [s. 14 Certain clauses in entails no longer necessary.](section/14.md)
+- [s. 15 Instrument of sasine no longer necessary, but conveyance may be recorded instead.](section/15.md)
+- [s. 16 ................................](section/16.md)
+- [s. 17 Not necessary to record the whole conveyance or discharge.](section/17.md)
+- [s. 18 Instrument of resignation ad remanentiam unnecessary, but in place thereof conveyance in favour of superior may be recorded.](section/18.md)
+- [s. 19 Notarial instruments in favour of general disponees.](section/19.md)
+- [s. 20 De praesenti words, or words of style, unnecessary in mortis causa deeds.](section/20.md)
+- [s. 21 Trustee or executor to apply lands for purposes of trust or will.](section/21.md)
+- [s. 22 ................................](section/22.md)
+- [s. 23 Notarial instruments in favour of parties acquiring rights to unrecorded conveyances.](section/23.md)
+- [s. 24 Mode of completing title by a judicial factor on a trust estate, &c.](section/24.md)
+- [s. 25 Deduction of title by liquidator](section/25.md)
+- [s. 26 Heritable property conveyed for religious or educational purposes to vest in disponees or their successors.](section/26.md)
+- [s. 26A Application for declarator of succession as heir in general or to specified lands](section/26A.md)
+- [s. 26B Application for declarator of succession as heir to last surviving trustee under a trust](section/26B.md)
+- [s. 26C Construction of reference to service of heir](section/26C.md)
+- [s. 27 Services to proceed by petition to the Sheriff.](section/27.md)
+- [s. 28 Petition to be presented to the Sheriff of the county or to the Sheriff of Chancery.](section/28.md)
+- [s. 29 ................................](section/29.md)
+- [s. 30 ................................](section/30.md)
+- [s. 31 Caveats to be received.](section/31.md)
+- [s. 32 Petition of service to be equivalent to a brieve and claim.](section/32.md)
+- [s. 33 Procedure before the Sheriff, and the effect of his judgment.](section/33.md)
+- [s. 34 ................................](section/34.md)
+- [s. 35 Competing petition may be presented, and Sheriff, after receiving evidence, give judgment.](section/35.md)
+- [s. 36 Recording and extract of judgment.](section/36.md)
+- [s. 37 The extract decree to be equivalent to an extract retour.](section/37.md)
+- [s. 38 Transmission of records.](section/38.md)
+- [s. 39 ................................](section/39.md)
+- [s. 40 No person entitled to oppose a service who could not appear against a brieve of inquest.](section/40.md)
+- [s. 41 Appeal for jury trial.](section/41.md)
+- [s. 42 Where Sheriff refuses to serve petitioner, &c., judgment may be reviewed.](section/42.md)
+- [s. 43 Procedure when a decree of service is brought under reduction.](section/43.md)
+- [s. 44 Forms and effect of procedure in the Court of Session.](section/44.md)
+- [s. 45 The Court of Session Act 1868, to apply to appeals and reductions, &c. under this Act.](section/45.md)
+- [s. 46 A decree of special service, besides operating as a retour, shall have the operation and effect of a disposition from the deceased to his heirs and assignees.](section/46.md)
+- [s. 47 A special service not to infer a general representation, either active or passive.](section/47.md)
+- [s. 48 Petitioner for special service may petition for general service.](section/48.md)
+- [s. 49 ................................](section/49.md)
+- [s. 50 Jurisdiction of the Sheriff of Chancery.](section/50.md)
+- [s. 51 Power to the Court of Session to pass acts of sederunt.](section/51.md)
+- [s. 52 ................................](section/52.md)
+- [s. 53 ................................](section/53.md)
+- [s. 54 ................................](section/54.md)
+- [s. 56 ................................](section/56.md)
+- [s. 58 ................................](section/58.md)
+- [s. 59 Unnecessary to libel and conclude for decree of special adjudication.](section/59.md)
+- [s. 60 ................................](section/60.md)
+- [s. 62 Effect of a decree of adjudication or sale.](section/62.md)
+- [s. 63 Signatures for Crown writs abolished.](section/63.md)
+- [s. 64 Crown writs to be obtained by lodging a draft thereof and note along with the title deeds.](section/64.md)
+- [s. 65 Draft Crown writ to be revised.](section/65.md)
+- [s. 66 Rectification of mistakes in former titles.](section/66.md)
+- [s. 67 †Intimation of proposed rectification to be made to solicitor for Commissioners of Woods and Forests.](section/67.md)
+- [s. 68 Presenter of signatures, &c. may refer to copy of writ when withheld.](section/68.md)
+- [s. 69 Amount of Crown duties to be fixed.](section/69.md)
+- [s. 70 Clerk’s fees.](section/70.md)
+- [s. 71 Copy of revised draft to be furnished to the party.](section/71.md)
+- [s. 72 If no objections, the revised draft to be attested, and the Crown writ prepared.](section/72.md)
+- [s. 73 Crown writs may be applied for at any time.](section/73.md)
+- [s. 74 Objections, if any, to draft Crown writ to be by a note.](section/74.md)
+- [s. 75 Objections, how to be disposed of.](section/75.md)
+- [s. 76 Procedure if objections repelled.](section/76.md)
+- [s. 77 Refusal to revise, how to be complained of.](section/77.md)
+- [s. 78 Crown writ as revised to be engrossed and delivered.](section/78.md)
+- [s. 79 Crown writ to be valid.](section/79.md)
+- [s. 80](section/80.md)
+- [s. 83 †Crown writs and Crown charters may be in the forms given in Schedule (T.).](section/83.md)
+- [s. 84 ................................](section/84.md)
+- [s. 87 Register of Crown writs to be kept.](section/87.md)
+- [s. 88 †Crown charters or writs of novodamus, how to be obtained.](section/88.md)
+- [s. 89](section/89.md)
+- [s. 90 Writs to be in the English language.](section/90.md)
+- [s. 91 Court of Session to frame regulations.](section/91.md)
+- [s. 92](section/92.md)
+- [s. 93 Power to Prince and Steward of Scotland to appoint his own presentor of signatures, &c.](section/93.md)
+- [s. 94](section/94.md)
+- [s. 96 Substitute to be appointed to Sheriff of Chancery, &c. in event of absence or disability.](section/96.md)
+- [s. 97](section/97.md)
+- [s. 100 All writs and charters from subject superior may refer tenendas and reddendo.](section/100.md)
+- [s. 101](section/101.md)
+- [s. 104 Where subject superior’s title incomplete, owner may in certain cases apply to Lord Ordinary on the Bills to ordain superior to complete his title and grant an entry under pain of forfeiture.](section/104.md)
+- [s. 105 Owner may in such case apply to Lord Ordinary on Bills to authorize application for an entry by the Crown or mediate over superior as in vice of the recusant superior.](section/105.md)
+- [s. 106 Lands to be held temporarily of the Crown or mediate superior.](section/106.md)
+- [s. 107 The party in right of the superiority may lodge a minute tendering relinquishment of his right, and if accepted by the petitioner the Lord Ordinary may interpone his authority.](section/107.md)
+- [s. 108 Over superior’s rights not to be extended or affected.](section/108.md)
+- [s. 109 Vassal obtaining or accepting forfeiture or relinquishment of superiority to be liable for its value, but forfeiture, &c. not to infer representation.](section/109.md)
+- [s. 110 Mode of relinquishing superiorities.](section/110.md)
+- [s. 111 Investiture by over superior.](section/111.md)
+- [s. 112 Applications of price of entailed superiorities.](section/112.md)
+- [s. 113 Providing for payment in lieu of casualties of superiority in case of lands conveyed for religious purposes.](section/113.md)
+- [s. 114 †Writs of confirmation &c. by subject superiors to be tested.](section/114.md)
+- [s. 115](section/115.md)
+- [s. 116 †Stamp duty on writs of confirmation, &c. 1857 c. 26.](section/116.md)
+- [s. 117 Heritable security in succession of creditor in the security](section/117.md)
+- [s. 118 Bonds and dispositions in security may be granted in the form No. 1. of Schedule (FF.)](section/118.md)
+- [s. 119 Explanation of clauses in Schedule (FF.) No. 1.](section/119.md)
+- [s. 120 Securities may be registered during lifetime of grantee, or title completed after his death.](section/120.md)
+- [s. 121 Sale carried through in terms of this Act to be valid to the purchaser.](section/121.md)
+- [s. 122 Creditors selling to count and reckon for the surplus of the price and to consign the same in the bank.](section/122.md)
+- [s. 123 On sale, &c. lands to be disencumbered of the security.](section/123.md)
+- [s. 124 Securities to be transferred in the form prescribed.](section/124.md)
+- [s. 125](section/125.md)
+- [s. 126 Completion of title of executors, &c. of creditor dying intestate.](section/126.md)
+- [s. 127 Executor nominate or disponee mortis causa may complete title by notarial instrument.](section/127.md)
+- [s. 128](section/128.md)
+- [s. 129 Adjudgers may complete their title by recording abbreviate of adjudication.](section/129.md)
+- [s. 130 Unregistered security or assignation to be available to executors, &c. of grantee.](section/130.md)
+- [s. 131 Act not to affect liability of debtors on their lands.](section/131.md)
+- [s. 132 How any heritable security may be renounced or discharged.](section/132.md)
+- [s. 133 Heritable security how restricted.](section/133.md)
+- [s. 134 Act to apply to all heritable securities.](section/134.md)
+- [s. 135 Parties may use the present forms if they see fit.](section/135.md)
+- [s. 136](section/136.md)
+- [s. 137 Act to apply to lands held by any description of tenure.](section/137.md)
+- [s. 138 Short clauses of consent to registration may be used in any deed.](section/138.md)
+- [s. 139 ................................](section/139.md)
+- [s. 140 Additional sheets may be added to writs.](section/140.md)
+- [s. 141 †All deeds, &c. recorded in register of sasines to have warrants of registration endorsed, except certain burgage deeds.](section/141.md)
+- [s. 142 Recording of conveyances in the register of sasines authorized.](section/142.md)
+- [s. 143 Recording anew](section/143.md)
+- [s. 144 Recorded instruments not to be challenged on the ground of erasures.](section/144.md)
+- [s. 145 Not competent to challenge existing warrants of registration on certain grounds.](section/145.md)
+- [s. 146 Obligations appointed to be inserted in instruments of sasine shall be inserted in notarial instruments.](section/146.md)
+- [s. 147 Prohibition against sub-infeudation not to be affected.](section/147.md)
+- [s. 148](section/148.md)
+- [s. 149](section/149.md)
+- [s. 150 Debts affecting lands exchanged for other lands to affect such other lands in lieu thereof.](section/150.md)
+- [s. 151](section/151.md)
+- [s. 152 Provision for lands in the burgh of Paisley held by booking tenure.](section/152.md)
+- [s. 153](section/153.md)
+- [s. 154 Official acts of town clerks and keepers of registers of sasines not to be affected by their personal interests in recorded writs.](section/154.md)
+- [s. 155 Date on which inhibition takes effect](section/155.md)
+- [s. 156 Short form of letters of inhibition.](section/156.md)
+- [s. 157 No inhibition to have effect against acquirenda, unless in case of heir under entail or other indefeasible title.](section/157.md)
+- [s. 158 Inhibitions on depending summons to be recalled on petition to Lord Ordinary.](section/158.md)
+- [s. 159 Litigiosity not to begin before date of registration of notice of summons.](section/159.md)
+- [s. 159A Registration of notice of summons of action of reduction](section/159A.md)
+- [s. 159B Power of the Scottish Ministers to prescribe forms](section/159B.md)
+- [s. 160](section/160.md)
+- [s. 161 Judgment of Lord Ordinary on the Bills subject to review of Inner House, and judgments in certain cases to be final.](section/161.md)
+- [s. 162 Court of Session may fix and regulate fees.](section/162.md)
+- [s. 163 Old forms of conveyances may be used.](section/163.md)
+- SCHEDULE (A.)
+  - No.1................................
+  - No. 2. C A P. XXXV.
+    - [Sch. A para. VI](schedule/A/paragraph/VI.md)
+- SCHEDULE (B.)
+  - No. 1
+    - Formal Clauses of a Disposition of Land, etc....
+  - No. 2
+    - Formal Clauses of a Disposition of Land, etc., held Burgage
+- SCHEDULE (C.)
+  - Clause of Reference to Destinations and Conditions of Entail, etc.
+- SCHEDULE (D.)
+  - Clause of Reference to Real Burdens, Conditions, &c., in Investiture
+- SCHEDULE (E.)
+- SCHEDULE (F.)
+  - No. 1
+    - Clause of Direction specifying Part of Deed which Grantor desires to be recorded
+  - No. 2
+- SCHEDULE (G.)
+  - Clause of Reference to Conveyance, containing general Designation of Lands.
+- SCHEDULE (H.)
+- SCHEDULE (I.)
+- SCHEDULE (J.)
+  - Notarial Instrument in favour of Disponee or his Assignee, &c.
+- SCHEDULE (K.)
+  - Instrument of Resignation ad Remanentiam
+- SCHEDULE (L.)
+  - Notarial Instrument in Favour of a General Disponee, or his Assignee, &c.
+- SCHEDULE (M.)
+- SCHEDULE (N.)
+  - Notarial Instrument in favour of an Assignee to an Unrecorded Conveyance, to be recorded along with the Conveyance
+- SCHEDULE (O.)
+  - Notarial Instrument in favour of a Trustee in a Sequestration or of Liquidators of Joint Stock Companies
+- SCHEDULE (P.)
+  - Form of Petition of General Service
+- SCHEDULE (Q.)
+  - Form of Petition of Special Service
+- SCHEDULE (R.)
+- SCHEDULE (S.)
+- SCHEDULE (T.)
+  - No. 1
+  - No. 2
+    - Crown Charter of Resignation
+  - No. 3
+  - No. 4
+    - Crown Charter of Confirmation
+- SCHEDULE (U.)
+- SCHEDULE (V.)
+- SCHEDULE (W.)
+- SCHEDULE (X.)
+  - No. 1
+    - Petition to the Lord Ordinary for Forfeiture of Superiority where Reddendo does not exceed Five Pounds
+  - No. 2
+    - Interlocutor by Lord Ordinary on above Petition
+  - No. 3
+    - Decree by Lord Ordinary on above Petition
+- SCHEDULE (Y.)
+  - No. 1
+    - Petition to the Lord Ordinary for Forfeiture of Feu Duties under or above Five Pounds
+  - No. 2
+    - Interlocutor by Lord Ordinary in above Petition
+  - No. 3
+    - Decree by Lord Ordinary in above Petition
+  - No. 4
+    - Finding for Expenses in above Petition
+- SCHEDULE (Z.)
+  - No. 1
+    - Writ of Confirmation on Decree of Forfeiture in case of Feu Duties above Five Pounds
+  - No. 2
+    - Writ of Resignation on Decree of Forfeiture in case of Feu Duties above Five Pounds
+- SCHEDULE (AA.)
+  - Nos. 1, 2.
+  - No. 3
+    - Writ of Clare constat proceedings on a Decree of Forfeiture or Relinquishment
+- SCHEDULE (BB.)
+  - No. 1
+    - Form of Minute of Relinquishment of Superiority by Apparent Heir
+  - No. 2
+    - Minute of Acceptance of above Relinquishment
+  - No. 3
+    - Decree of Lord Ordinary following on the above Minutes
+- SCHEDULE (CC.)
+  - No. 1
+    - Deed of Relinquishment of Superiority
+  - No. 2
+    - Acceptance by Vassal written on Deed of Relinquishment
+  - No. 3
+    - Crown Writ of Investiture written on Deed of Relinquishment
+- SCHEDULES (DD.), (EE.)
+- SCHEDULE (FF.)
+  - No. 1
+    - Form of a Bond and Disposition in Security
+  - No. 2
+    - Form of Schedule of Intimation, Requisition, and Protest
+  - No.3
+    - Certificate by Notary on Copy of foregoing Schedule
+- SCHEDULE (GG.)
+  - Form of Assignation of a Bond and Disposition in Security consti tuted by Infeftment
+- SCHEDULE (HH.)
+  - Form of Instrument in favour of an Assignee to an Heritable Security following on a Deed granted for further Purposes or Objects.
+- SCHEDULE (II.)
+- SCHEDULE (JJ.)
+  - Form of Instrument in favour of an Executor or Heir of a Creditor who died intestate in right of an Heritable Security
+- SCHEDULE (KK.)
+  - Form of Instrument in favour of the Executors or Executor nominate, or of the Disponee or Legatee of a Creditor in right of an Heritable Security
+- SCHEDULE (LL.)
+  - Form of Instrument in favour of a Trustee on a sequestrated Estate, or of Liquidators of a Joint Stock Company in right of an Heritable Security
+- SCHEDULE (MM.)
+  - Form of Instrument of an Unrecorded Bond and Disposition in Security, or Unrecorded Assignation in Favour of the Executor or Disponee, or Assignee, or Legatee, or Heir of the Creditor
+- SCHEDULE (NN.)
+  - Form of Discharge of Bond and Disposition in Security, &c.
+- SCHEDULE (OO.)
+  - Form of Deed of Restriction of an Heritable Security
+- SCHEDULE (PP.)
+  - Notice of Inhibition
+- SCHEDULE (QQ.)
+- SCHEDULE (RR.)
+  - Notice of Summons of Reduction, Adjudication, &c.
