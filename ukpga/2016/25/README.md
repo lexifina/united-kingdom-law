@@ -2,9 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-11-07, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2018-11-22, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2018-11-07
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2018-11-22
 
 ## Contents
 
@@ -447,6 +447,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2018-11-07
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
   - TEO proceedings
     - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Sanctions proceedings
+    - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
   - Proceedings relating to freezing of terrorist assets etc.
     - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
     - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
