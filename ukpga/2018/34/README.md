@@ -2,9 +2,9 @@
 
 2018 c. 34. Enacted 2018-12-20.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-03-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/34/2019-03-20
+Source: https://www.legislation.gov.uk/ukpga/2018/34/enacted
 
 ## Contents
 
