@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-11-29, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-01-03, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2018-11-29
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2019-01-03
 
 ## Contents
 
@@ -227,6 +227,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2018-11-29
       - [Sch. 1 Pt. 1 heading facilities-for-disabled-persons para. 7](schedule/1/part/1/crossheading/facilities-for-disabled-persons/paragraph/7.md)
     - Appeals relating to welfare benefits
       - [Sch. 1 Pt. 1 heading appeals-relating-to-welfare-benefits para. 8](schedule/1/part/1/crossheading/appeals-relating-to-welfare-benefits/paragraph/8.md)
+    - Appeals relating to council tax reduction schemes
       - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
     - Inherent jurisdiction of High Court in relation to children and vulnerable adults
       - [Sch. 1 Pt. 1 heading inherent-jurisdiction-of-high-court-in-relation-to-children-and-vulnerable-adults para. 9](schedule/1/part/1/crossheading/inherent-jurisdiction-of-high-court-in-relation-to-children-and-vulnerable-adults/paragraph/9.md)
