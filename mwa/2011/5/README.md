@@ -1,0 +1,148 @@
+# Housing (Wales) Measure 2011
+
+mwa/2011/5. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-01-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/mwa/2011/5
+
+Source: https://www.legislation.gov.uk/mwa/2011/5/2019-01-26
+
+## Contents
+
+- PART 1 SUSPENSION OF THE RIGHT TO BUY AND RELATED RIGHTS
+  - CHAPTER 1 DIRECTIONS SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS
+    - [s. 1 Power to apply for direction suspending the right to buy and related rights](section/1.md)
+    - [s. 2 Consultation](section/2.md)
+    - [s. 3 Application for direction suspending the right to buy and related rights](section/3.md)
+    - [s. 4 Consideration by the Welsh Ministers of an application](section/4.md)
+    - [s. 5 Decision of the Welsh Ministers on the application](section/5.md)
+    - [s. 6 Issue of direction](section/6.md)
+  - CHAPTER 2 VARIATION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS
+    - [s. 7 Meaning of “enlarging variation” and “reducing variation” etc](section/7.md)
+    - [s. 8 Enlarging variation: power to apply](section/8.md)
+    - [s. 9 Enlarging variation: consultation](section/9.md)
+    - [s. 10 Application for enlarging variation](section/10.md)
+    - [s. 11 Consideration by the Welsh Ministers of an application for an enlarging variation](section/11.md)
+    - [s. 12 Decision of the Welsh Ministers on the application](section/12.md)
+    - [s. 13 Issue of direction as varied to include enlarging elements](section/13.md)
+    - [s. 14 Reducing variation: power to apply](section/14.md)
+    - [s. 15 Application for reducing variation](section/15.md)
+    - [s. 16 Decision of the Welsh Ministers on the application](section/16.md)
+    - [s. 17 Issue of direction as varied to include reducing elements](section/17.md)
+  - CHAPTER 3 EXTENSION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS
+    - [s. 18 Extension application: power to apply](section/18.md)
+    - [s. 19 Extension application: consultation](section/19.md)
+    - [s. 20 Application for extension](section/20.md)
+    - [s. 21 Decision of the Welsh Ministers on the application](section/21.md)
+    - [s. 22 Issue of direction as extended](section/22.md)
+  - CHAPTER 4 REVOCATION OF DIRECTION SUSPENDING THE RIGHT TO BUY AND RELATED RIGHTS
+    - [s. 23 Revocation of direction: power to apply](section/23.md)
+    - [s. 24 Application for revocation](section/24.md)
+    - [s. 25 Decision of the Welsh Ministers on the application](section/25.md)
+  - CHAPTER 5 APPLICATIONS: GENERAL PROVISIONS
+    - [s. 26 Withdrawal of application](section/26.md)
+    - [s. 27 Provision of further information](section/27.md)
+    - [s. 28 Publication of directions](section/28.md)
+    - [s. 29 Restriction on repeat applications](section/29.md)
+    - [s. 30 Guidance](section/30.md)
+  - CHAPTER 6 AMENDMENTS TO THE HOUSING ACT 1985
+    - [s. 31 Consequence of the Welsh Ministers deciding to consider certain applications](section/31.md)
+    - [s. 32 Effect of direction to suspend the right to buy](section/32.md)
+  - CHAPTER 7 MISCELLANEOUS
+    - [s. 33 Interpretation of Part 1](section/33.md)
+    - [s. 34 Consequential etc orders](section/34.md)
+- PART 2 REGISTERED SOCIAL LANDLORDS
+  - CHAPTER 1 PERFORMANCE
+    - [s. 35 Standards of performance](section/35.md)
+    - [s. 36 Guidance on standards of performance](section/36.md)
+    - [s. 37 Consultation](section/37.md)
+    - [s. 38 Information as to levels of performance](section/38.md)
+    - [s. 39 Guidance about complaints about performance](section/39.md)
+    - [s. 40 Consultation](section/40.md)
+  - CHAPTER 2 VOLUNTARY UNDERTAKINGS
+    - [s. 41 Voluntary undertakings](section/41.md)
+  - CHAPTER 3 REGULATION
+    - Survey and examination
+      - [s. 42 Failure to give notice to occupiers](section/42.md)
+    - Inspection
+      - [s. 43 Inspection: overview and application](section/43.md)
+      - [s. 44 Inspection](section/44.md)
+      - [s. 45 Inspection: supplemental](section/45.md)
+      - [s. 46 Inspector’s powers to require provision of documents or information](section/46.md)
+      - [s. 47 Inspector’s powers to require provision of documents or information: supplemental](section/47.md)
+      - [s. 48 Inspector’s powers of entry and inspection](section/48.md)
+    - Inquiry
+      - [s. 49 Extraordinary audit for purposes of inquiry](section/49.md)
+  - CHAPTER 4 ENFORCEMENT
+    - General
+      - [s. 50 Welsh Ministers’ enforcement powers: general](section/50.md)
+      - [s. 51 Exercise of enforcement powers](section/51.md)
+    - Enforcement notice
+      - [s. 52 Grounds for giving notice](section/52.md)
+      - [s. 53 Content](section/53.md)
+      - [s. 54 Appeal](section/54.md)
+      - [s. 55 Withdrawal](section/55.md)
+      - [s. 56 Sanction](section/56.md)
+    - Penalty
+      - [s. 57 Grounds for imposition](section/57.md)
+      - [s. 58 Imposition](section/58.md)
+      - [s. 59 Amount](section/59.md)
+      - [s. 60 Warning](section/60.md)
+      - [s. 61 Representations](section/61.md)
+      - [s. 62 Enforcement](section/62.md)
+      - [s. 63 Appeal](section/63.md)
+    - Compensation
+      - [s. 64 Grounds for award](section/64.md)
+      - [s. 65 Persons to whom compensation may be awarded](section/65.md)
+      - [s. 66 Award](section/66.md)
+      - [s. 67 Impact](section/67.md)
+      - [s. 68 Warning](section/68.md)
+      - [s. 69 Representations](section/69.md)
+      - [s. 70 Enforcement](section/70.md)
+      - [s. 71 Appeal](section/71.md)
+    - Management and constitution of registered social landlords
+      - [s. 72 Management tender](section/72.md)
+      - [s. 73 Management tender: supplemental](section/73.md)
+      - [s. 74 Management transfer](section/74.md)
+      - [s. 75 Management transfer: supplemental](section/75.md)
+      - [s. 76 Appointment of manager of registered social landlord](section/76.md)
+      - [s. 77 Appointment of manager: supplemental](section/77.md)
+      - [s. 78 Amalgamation](section/78.md)
+      - [s. 79 Restrictions on dealings during an inquiry](section/79.md)
+      - [s. 80 Restrictions on dealings following an inquiry or extraordinary audit](section/80.md)
+      - [s. 81 Disqualification of removed person](section/81.md)
+      - [s. 82 Acting while disqualified](section/82.md)
+  - CHAPTER 5 MISCELLANEOUS AND GENERAL PROVISIONS
+    - [s. 83 Insolvency, etc of registered social landlord: appointment of interim manager](section/83.md)
+    - [s. 84 Removal of officers](section/84.md)
+    - [s. 85 Appointment of new officers](section/85.md)
+    - [s. 86 Charities that have “received public assistance”](section/86.md)
+    - [s. 87 Minor definitions](section/87.md)
+    - [s. 88 Minor and consequential amendments](section/88.md)
+- PART 3 SUPPLEMENTARY AND FINAL PROVISIONS
+  - [s. 89 Orders](section/89.md)
+  - [s. 90 Commencement](section/90.md)
+  - [s. 91 Short title](section/91.md)
+- SCHEDULE MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Housing Act 1996 (c. 52)
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
