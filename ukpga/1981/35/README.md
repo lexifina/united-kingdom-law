@@ -1,0 +1,281 @@
+# Finance Act 1981
+
+1981 c. 35. Enacted 1981-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-01-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/35
+
+Source: https://www.legislation.gov.uk/ukpga/1981/35/2019-01-26
+
+## Contents
+
+- Part I Customs and Excise
+  - [s. 1 Spirits, beer, wine, made-wine and cider.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 Increase on duty on hydrocarbon oil etc.](section/4.md)
+  - [s. 5 Energy for refineries etc.](section/5.md)
+  - [s. 6 Repayment of hydrocarbon oil duty.](section/6.md)
+  - [s. 7 Vehicles excise duty: Great Britain.](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 Betting and gaming duties.](section/9.md)
+  - [s. 10 Import and export procedures.](section/10.md)
+  - [s. 11 Miscellaneous customs and excise amendments.](section/11.md)
+- Part II
+  - [s. 12 ................................](section/12.md)
+- Part III
+  - [s. 16 ................................](section/16.md)
+- Part IV Income Tax, Corporation Tax and Capital Gains Tax
+  - Chapter I General
+    - [s. 19 ................................](section/19.md)
+    - [s. 38](section/38.md)
+    - [s. 39 ................................](section/39.md)
+  - Chapter II Relief for Investments in New Corporate Trades
+    - [s. 52 ................................](section/52.md)
+  - Chapter III Benefits in Kind
+    - [s. 68 ................................](section/68.md)
+  - Chapter IV Capital Allowances
+    - [s. 73 ................................](section/73.md)
+  - Chapter V Capital Gains
+    - [s. 78](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 80A ................................](section/80A.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 82A ................................](section/82A.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 ................................](section/90.md)
+    - [s. 91 ................................](section/91.md)
+- Part V Capital Transfer Tax
+  - [s. 92 ................................](section/92.md)
+  - [s. 96](section/96.md)
+  - [s. 97 ................................](section/97.md)
+- Part VI Stamp Duty
+  - [s. 107 Sale of houses at discount by local authorities etc.](section/107.md)
+  - [s. 108 Shared ownership transactions.](section/108.md)
+  - [s. 109 ................................](section/109.md)
+  - [s. 110 ................................](section/110.md)
+- Part VII Petroleum Revenue Tax
+  - [s. 111 Restriction of expenditure supplement.](section/111.md)
+  - [s. 112 Restriction of expenditure supplement: transfers of interest.](section/112.md)
+  - [s. 113 Restriction of expenditure supplement: loss following net profit period.](section/113.md)
+  - [s. 114 Restriction of limit on amount of tax payable.](section/114.md)
+  - [s. 115 Contracts with deferred payment.](section/115.md)
+  - [s. 116 Spreading of capital expenditure.](section/116.md)
+  - [s. 117 Spreading of capital expenditure: transitional provisions.](section/117.md)
+  - [s. 118 Licence payments other than royalties.](section/118.md)
+  - [s. 119 Transportation costs for off-shore oil.](section/119.md)
+  - [s. 120 ................................](section/120.md)
+  - [s. 121 Gas banking schemes.](section/121.md)
+- Part VIII Supplementary Petroleum Duty
+  - [s. 122 Charge of supplementary petroleum duty.](section/122.md)
+  - [s. 123 Increase of gross profit by reference to royalties in kind.](section/123.md)
+  - [s. 124 Reduction of gross profit by reference to exempt allowance.](section/124.md)
+  - [s. 125 Repayment of duty in case of field showing loss on cessation.](section/125.md)
+  - [s. 126 Deduction of duty in computing assessable profit or allowable loss for petroleum revenue tax.](section/126.md)
+  - [s. 127 Deduction of duty in computing income for corporation tax.](section/127.md)
+  - [s. 128 Supplementary Provisions.](section/128.md)
+- Part IX
+  - [s. 129 ................................](section/129.md)
+- Part X Miscellaneous and Supplementary
+  - [s. 134 Special tax on banking deposits.](section/134.md)
+  - [s. 135 Chevening Estate.](section/135.md)
+  - [s. 136 Exchange control.](section/136.md)
+  - [s. 137 Irish land Acts.](section/137.md)
+  - [s. 138 ................................](section/138.md)
+  - [s. 139 Short title, interpretation, construction and repeals.](section/139.md)
+- SCHEDULES 1, 2
+- SCHEDULES 3, 4
+- SCHEDULE 5
+- SCHEDULE 6 Import Procedures: Amendments of Customs and Excise Management Act 1979
+  - Entry of goods on importation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Acceptance of incomplete entry
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Examination of goods for purpose of making entry
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Correction and cancellation of entry
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Removal of uncleared goods
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Failure to comply with provisions as to entry
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Duties on imported goods
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Delivery of imported goods on giving security for duty
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Restriction on delivery of goods
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 Export Procedures
+  - Part I Sections Substituted in Customs and Excise Management Act 1979
+    - [Sch. 7 para. 53 Entry outwards of goods.](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54 Acceptance of incomplete entry.](schedule/7/paragraph/54.md)
+    - [Sch. 7 para. 55 Correction and cancellation of entry.](schedule/7/paragraph/55.md)
+    - [Sch. 7 para. 56 Failure to export.](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57 Delivery of entry by owner of exporting ship etc.](schedule/7/paragraph/57.md)
+    - [Sch. 7 para. 58 Simplified clearance procedure.](schedule/7/paragraph/58.md)
+    - [Sch. 7 para. 58A Local export control.](schedule/7/paragraph/58A.md)
+    - [Sch. 7 para. 58B Provisions supplementary to ss. 58 and 58A.](schedule/7/paragraph/58B.md)
+    - [Sch. 7 para. 58C Pipe-lines and export of ships and aircraft.](schedule/7/paragraph/58C.md)
+    - [Sch. 7 para. 58D Operative date for Community purposes.](schedule/7/paragraph/58D.md)
+    - [Sch. 7 para. 58E Authentication of Community customs documents.](schedule/7/paragraph/58E.md)
+  - Part II Amendments of Customs and Excise Management Act 1979
+    - Control of movement of goods
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Dutiable or restricted goods
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Restrictions on putting export goods alongside for loading
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Provisions as to stores
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Power to make regulations as to exportation, etc.
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Miscellaneous Customs and Excise Amendments
+  - Part I Amendments of Customs and Excise Management Act 1979
+    - Definition of “revenue trader”
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Warehousing regulations
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Deficiency in warehoused goods
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Procedure on warehouse ceasing to be approved
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Excise licences
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Powers of entry on premises of revenue traders
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Power to estimate excise duties
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Execution and distress
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Proof of documents
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Part II Amendments of Alcoholic Liquor Duties Act 1979
+    - Ascertainment of volume etc. of alcoholic liquors from labels etc.
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Definitions of “wholesale” and “wholesaler”
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Regulations about manufacture of spirits
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Attenuation charge for distilled spirits
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Distillers’ warehouses
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Rectifying and compounding of spirits
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Drawback on British compounds and spirits of wine
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Restrictions on distillers and rectifiers
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Spirits consignment and advice notes
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Transfer of spirit from distillers’ warehouses
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Abolition of wholesalers’ licences etc.
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Restrictions on wholesalers of spirits
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Methylated spirits
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Part III Amendments of Licensing Acts
+    - The Licensing Act 1964
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+- Schedules 9—12................................
+- Schedules 13, 14
+- Schedule 15
+- Schedule 16 Supplementary Petroleum Duty
+  - Management
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Returns and information
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Assessments and determinations
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Appeals
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Payment
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - Interest
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - Transfers to associated companies
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+- Schedule 17 Special Tax on Banking Deposits
+  - Part I The Base Period and Chargeable Deposits
+    - The base period
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Chargeable deposits
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - Part II Management and Collection
+    - Management
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Notice of liability
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Returns
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Payment of tax
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Assessments
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Right of appeal
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Interest
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - Information
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Incorrect returns, accounts, etc.
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - Application of Taxes Management Act
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+- Schedule 18
+- Schedule 19 Repeals
+  - Part I Import Procedures
+  - Part II Export Procedures
+  - Part III Customs and Excise: Miscellaneous
+    - [Sch. 19 Pt. III para. 1](schedule/19/part/III/paragraph/1.md)
+    - [Sch. 19 Pt. III para. 2](schedule/19/part/III/paragraph/2.md)
+    - [Sch. 19 Pt. III para. 3](schedule/19/part/III/paragraph/3.md)
+    - [Sch. 19 Pt. III para. 4](schedule/19/part/III/paragraph/4.md)
+  - Part IV Value Added Tax
+  - Part V Car Tax
+  - Part VI Income Tax and Corporation Tax: General
+    - [Sch. 19 Pt. VI para. 1](schedule/19/part/VI/paragraph/1.md)
+    - [Sch. 19 Pt. VI para. 2](schedule/19/part/VI/paragraph/2.md)
+    - [Sch. 19 Pt. VI para. 3](schedule/19/part/VI/paragraph/3.md)
+    - [Sch. 19 Pt. VI para. 4](schedule/19/part/VI/paragraph/4.md)
+  - Part VII Stock Relief
+  - Part VIII Capital Gains
+    - [Sch. 19 Pt. VIII para. 1](schedule/19/part/VIII/paragraph/1.md)
+    - [Sch. 19 Pt. VIII para. 2](schedule/19/part/VIII/paragraph/2.md)
+  - Part IX Capital Transfer Tax
+    - [Sch. 19 Pt. IX para. 1](schedule/19/part/IX/paragraph/1.md)
+    - [Sch. 19 Pt. IX para. 2](schedule/19/part/IX/paragraph/2.md)
+    - [Sch. 19 Pt. IX para. 3](schedule/19/part/IX/paragraph/3.md)
+    - [Sch. 19 Pt. IX para. 4](schedule/19/part/IX/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - Part X Petroleum Revenue Tax
+  - Part XI Exchange Control
+  - Part XII Irish Land Acts
