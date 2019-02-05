@@ -2,9 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-01-16, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-02-05, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2019-01-16
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2019-02-05
 
 ## Contents
 
@@ -91,10 +91,14 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2019-01-16
     - Interpretation
       - [s. 60 Part 2: interpretation](section/60.md)
 - Part 3 Authorisations for obtaining communications data
-  - Targeted authorisations for obtaining data
-    - [s. 61 Power to grant authorisations](section/61.md)
+  - Targeted authorisations for obtaining data: the Investigatory Powers Commissioner
+    - [s. 60A Power of Investigatory Powers Commissioner to grant authorisations](section/60A.md)
+  - Targeted authorisations for obtaining data: designated senior officers
+    - [s. 61 Power of designated senior officers to grant authorisations](section/61.md)
+    - [s. 61A Power of designated senior officers to grant authorisations: urgent cases](section/61A.md)
+  - Further provision about authorisations
     - [s. 62 Restrictions in relation to internet connection records](section/62.md)
-    - [s. 63 Additional restrictions on grant of authorisations](section/63.md)
+    - [s. 63 Additional restrictions on grant of authorisations under section 61](section/63.md)
     - [s. 64 Procedure for authorisations and authorised notices](section/64.md)
     - [s. 65 Duration and cancellation of authorisations and notices](section/65.md)
     - [s. 66 Duties of telecommunications operators in relation to authorisations](section/66.md)
