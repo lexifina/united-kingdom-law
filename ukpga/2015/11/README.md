@@ -2,9 +2,9 @@
 
 2015 c. 11. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-11-16, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-02-12, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/11/2017-11-16
+Source: https://www.legislation.gov.uk/ukpga/2015/11/2019-02-12
 
 ## Contents
 
@@ -146,8 +146,11 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2017-11-16
     - [s. 98 Payment of tax](section/98.md)
     - [s. 99 Diverted profits tax ignored for tax purposes](section/99.md)
     - [s. 100 Credits for tax on the same profits](section/100.md)
+    - [s. 100A Relief from corporation tax](section/100A.md)
   - Review and appeals
     - [s. 101 HMRC review of charging notice](section/101.md)
+    - [s. 101A Amendment of CT return during review period: section 80 or 81 case](section/101A.md)
+    - [s. 101B Amendment of CT return during review period: section 86 case](section/101B.md)
     - [s. 102 Appeal against charging notice or supplementary charging notice](section/102.md)
   - Administration of tax
     - [s. 103 Responsibility for collection and management](section/103.md)
@@ -160,6 +163,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2017-11-16
     - [s. 109 “Excepted loan relationship outcome”](section/109.md)
     - [s. 110 “The insufficient economic substance condition”](section/110.md)
     - [s. 111 “Transaction” and “series of transactions”](section/111.md)
+    - [s. 111A Adjustment required to be made to the material provision](section/111A.md)
     - [s. 112 Treatment of a person who is a member of a partnership](section/112.md)
     - [s. 113 “Accounting period” and “corresponding accounting period”](section/113.md)
     - [s. 114 Other defined terms in Part 3](section/114.md)
