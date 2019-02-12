@@ -1,0 +1,180 @@
+# Oil Taxation Act 1975
+
+1975 c. 22. Enacted 1975-05-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-02-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1975/22
+
+Source: https://www.legislation.gov.uk/ukpga/1975/22/2019-02-12
+
+## Contents
+
+- PART I PETROLEUM REVENUE TAX
+  - [s. 1 Petroleum revenue tax.](section/1.md)
+  - [s. 2 Assessable profits and allowable losses.](section/2.md)
+  - [s. 3 Allowance of expenditure (other than expenditure on long-term assets and abortive exploration expenditure).](section/3.md)
+  - [s. 4 Allowance of expenditure on long-term assets.](section/4.md)
+  - [s. 5 Allowance of abortive exploration expenditure.](section/5.md)
+  - [s. 5A Allowance of exploration and appraisal expenditure.](section/5A.md)
+  - [s. 5B Allowance of research expenditure.](section/5B.md)
+  - [s. 6 Allowance of unrelievable loss from abandoned field.](section/6.md)
+  - [s. 7 Relief for allowable losses.](section/7.md)
+  - [s. 8 Oil allowance.](section/8.md)
+  - [s. 9 Limit on amount of tax payable.](section/9.md)
+  - [s. 9A Operating expenditure incurred while section 9 applies.](section/9A.md)
+  - [s. 10 Modification of Part I in connection with certain gas sold to British Gas Corporation.](section/10.md)
+  - [s. 11 Application of Provisional Collection of Taxes Act 1968.](section/11.md)
+  - [s. 12 Interpretation of Part I.](section/12.md)
+  - [s. 12A Date of delivery or appropriation: shipped oil not sold at arm’s length](section/12A.md)
+- Part II
+  - [s. 13 ................................](section/13.md)
+- Part III Miscellaneous and General
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 Citation, interpretation and construction.](section/21.md)
+- SCHEDULE 1 Determination of Oil Fields
+  - Areas that are oil fields
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Areas treated as continuing to be oil fields
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Management and Collection of Petroleum Revenue Tax
+  - Management of tax
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Returns by participators
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Appointment of responsible person for each oil field
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Returns by the responsible person
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Production of accounts, books and other information
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Incorrect returns, accounts, etc.
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Assessments to tax and determinations of loss, etc.
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 12A](schedule/2/paragraph/12A.md)
+    - [Sch. 2 para. 12B](schedule/2/paragraph/12B.md)
+  - Payment of tax
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Claim for relief for overpaid tax etc
+    - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
+  - Cases in which HMRC not liable to give effect to a claim
+    - [Sch. 2 para. 13B](schedule/2/paragraph/13B.md)
+  - Making a claim
+    - [Sch. 2 para. 13C](schedule/2/paragraph/13C.md)
+  - Decision on claim
+    - [Sch. 2 para. 13D](schedule/2/paragraph/13D.md)
+  - Assessment of claimant in connection with claim
+    - [Sch. 2 para. 13E](schedule/2/paragraph/13E.md)
+  - Contract settlements
+    - [Sch. 2 para. 13F](schedule/2/paragraph/13F.md)
+  - Appeals
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Appeal: HMRC review or determination by tribunal
+    - [Sch. 2 para. 14A](schedule/2/paragraph/14A.md)
+  - Participator requires review by HMRC
+    - [Sch. 2 para. 14B](schedule/2/paragraph/14B.md)
+  - HMRC offer review
+    - [Sch. 2 para. 14C](schedule/2/paragraph/14C.md)
+  - Notifying appeal to the tribunal
+    - [Sch. 2 para. 14D](schedule/2/paragraph/14D.md)
+  - Nature of review etc
+    - [Sch. 2 para. 14E](schedule/2/paragraph/14E.md)
+  - Effect of conclusions of review
+    - [Sch. 2 para. 14F](schedule/2/paragraph/14F.md)
+  - Notifying appeal to tribunal after review concluded
+    - [Sch. 2 para. 14G](schedule/2/paragraph/14G.md)
+  - Notifying appeal to tribunal after review offered but not accepted
+    - [Sch. 2 para. 14H](schedule/2/paragraph/14H.md)
+  - Interpretation of paragraphs 14A to 14H
+    - [Sch. 2 para. 14I](schedule/2/paragraph/14I.md)
+  - Interest on tax
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Petroleum Revenue Tax: Miscellaneous Provisions
+  - Definition of sale of oil at arm’s length
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Determination of market value: the notional delivery day for a quantity of oil
+    - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+  - Definition of market value of oil
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+  - Aggregate market value of oil for purposes of section 2(5)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Definition of market value of light gases
+    - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+  - Oil delivered in place of royalties to be disregarded for certain purposes
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Effect of transfer to an associated company of participator’s rights etc. in connection with an oil field or relevant licence
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Oil owned by a person other than a participator in the oil field from which it was won
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Effect of certain transactions between participators
+    - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+  - Exclusion from section 2(4)(b) and (5)(d) of offshore oil in transit to place of first landing...
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Certain subsidised expenditure to be disregarded
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Election to have amounts mentioned in section 2(9)(b) and (c) spread
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Restriction of amount of reduction under section 8(1)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Transfers of interests in oil fields: post-transfer decommissioning expenditure
+    - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+  - Power to make regulations under this Schedule
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Provisions Supplementary to Sections 3 and 4
+  - Restrictions on expenditure allowable under section 3 or 4
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Disposal of long-term asset formerly used in connection with an oil field
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Provisions supplementary to section 4(9) of this Act and paragraph 5(2) above
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Insurance or compensation in respect of loss or destruction of long-term asset formerly used in connection with oil field
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Assets acquired jointly by participators in different oil fields
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Allowance of Expenditure (other than Abortive Exploration Expenditure)
+  - Claim periods and claims
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+    - [Sch. 5 para. 2B](schedule/5/paragraph/2B.md)
+    - [Sch. 5 para. 2C](schedule/5/paragraph/2C.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Appeals
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Allowance of Expenditure (other than Abortive Exploration Expenditure) on Claim by Participator
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 7 Allowance of Abortive Exploration Expenditure
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+- SCHEDULE 8 Allowance of Unrelievable Field Loss
+  - Reference and determination of question of abandonment of oil field
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Claims by participators for allowance of unrelievable field losses
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9................................
