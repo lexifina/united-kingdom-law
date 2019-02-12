@@ -2,9 +2,9 @@
 
 2019 c. 1. Enacted 2019-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2019-02-12, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/1/2026-05-01
+Source: https://www.legislation.gov.uk/ukpga/2019/1/2019-02-12
 
 ## Contents
 
@@ -69,9 +69,7 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2026-05-01
     - [s. 46 Changes to periods for delivering returns and paying tax](section/46.md)
   - Stamp duty and SDRT
     - [s. 47 Stamp duty: transfers of listed securities and connected persons](section/47.md)
-    - [s. 47A Stamp duty: transfers of unlisted securities and connected persons](section/47A.md)
     - [s. 48 SDRT: listed securities and connected persons](section/48.md)
-    - [s. 48A SDRT: unlisted securities and connected persons](section/48A.md)
     - [s. 49 Stamp duty: exemption in respect of financial institutions in resolution](section/49.md)
     - [s. 50 Stamp duty and SDRT: exemptions in respect of share incentive plans](section/50.md)
   - Value added tax
@@ -301,7 +299,7 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2026-05-01
     - Repayments of amounts previously paid on account of capital gains tax
       - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
       - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
-    - Collective investment vehicles to which Sch.5AAA to TCGA 1992 applies
+    - Collective investment schemes to which Sch.5AAA to TCGA 1992 applies
       - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
       - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
       - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
@@ -312,16 +310,7 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2026-05-01
       - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
     - Contents of return
       - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
-    - Interpretation of “residential property gains”
-      - [Sch. 2 para. 16A](schedule/2/paragraph/16A.md)
-      - [Sch. 2 para. 16B](schedule/2/paragraph/16B.md)
-      - [Sch. 2 para. 16C](schedule/2/paragraph/16C.md)
-      - [Sch. 2 para. 16D](schedule/2/paragraph/16D.md)
-      - [Sch. 2 para. 16E](schedule/2/paragraph/16E.md)
-      - [Sch. 2 para. 16F](schedule/2/paragraph/16F.md)
-      - [Sch. 2 para. 16G](schedule/2/paragraph/16G.md)
-      - [Sch. 2 para. 16H](schedule/2/paragraph/16H.md)
-    - Other interpretation
+    - Interpretation
       - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
   - PART 2 Notification of chargeable amounts, amendments of returns, enquiries etc
     - Requirement to notify HMRC of amounts chargeable to tax
@@ -600,10 +589,10 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2026-05-01
     - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
   - Power to amend section 352B of CTA 2009
     - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
-- SCHEDULE 13 Annual investment allowance: periods straddling 1 January 2019 or 1 April 2023
+- SCHEDULE 13 Annual investment allowance: periods straddling 1 January 2019 or 1 January 2021
   - Chargeable periods which straddle 1 January 2019
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
-  - Chargeable periods which straddle 1 April 2023
+  - Chargeable periods which straddle 1 January 2021
     - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
   - Operation of annual investment allowance where restrictions apply
     - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
