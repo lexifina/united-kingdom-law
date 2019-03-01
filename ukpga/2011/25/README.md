@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-08-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-03-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-08-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2019-03-01
 
 ## Contents
 
@@ -593,7 +593,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2018-08-01
       - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
     - Open Spaces Act 1906 (c. 25)
       - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
-    - New Parishes Measure 1943 (No. 1)
+    - ...
       - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
       - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
     - London County Council (General Powers) Act 1947 (c. xlvi)
