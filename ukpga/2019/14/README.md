@@ -2,16 +2,14 @@
 
 2019 c. 14. Enacted 2019-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2019-03-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/14/2024-01-01
+Source: https://www.legislation.gov.uk/ukpga/2019/14/2019-03-26
 
 ## Contents
 
 - [s. 1 Power to make healthcare payments](section/1.md)
-- [s. 2 Healthcare agreements and payments](section/2.md)
-- [s. 2A Healthcare agreements and payments: powers of devolved authorities](section/2A.md)
-- [s. 2B Regulations under section 2A: consent requirements](section/2B.md)
+- [s. 2 Healthcare and healthcare agreements](section/2.md)
 - [s. 3 Meaning of “healthcare” and “healthcare agreement”](section/3.md)
 - [s. 4 Data processing](section/4.md)
 - [s. 5 Requirement for consultation with devolved authorities](section/5.md)
