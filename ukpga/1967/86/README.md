@@ -1,0 +1,128 @@
+# Countryside (Scotland) Act 1967
+
+1967 c. 86. Enacted 1967-10-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1967/86
+
+Source: https://www.legislation.gov.uk/ukpga/1967/86/2019-04-01
+
+## Contents
+
+- Part I The Countryside Commission for Scotland
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+- Part II Access to Open Country
+  - [s. 10 Provision for public access to open country.](section/10.md)
+  - [s. 11 Rights of public where access agreement or order in force.](section/11.md)
+  - [s. 12 Commission to consult with local planning authorities and other bodies on access requirements.](section/12.md)
+  - [s. 13 Access agreements.](section/13.md)
+  - [s. 14 Access orders.](section/14.md)
+  - [s. 15 Provisions as to land used for agricultural purposes or as woodlands.](section/15.md)
+  - [s. 16 Effect of access agreement or order on rights and liabilities of persons interested in land.](section/16.md)
+  - [s. 17 Provisions for securing safe and sufficient access.](section/17.md)
+  - [s. 18 Power of local planning authority to enforce access.](section/18.md)
+  - [s. 19 Suspension of public access to avoid risk of fire.](section/19.md)
+  - [s. 20 Compensation for access orders.](section/20.md)
+  - [s. 21 Compensation to be assessed with regard to effect of first five years of access.](section/21.md)
+  - [s. 22 Claims for compensation and interest.](section/22.md)
+  - [s. 23 Payments on account in special circumstances.](section/23.md)
+  - [s. 24 Acquisition by local planning authorities of land for public access.](section/24.md)
+  - [s. 25 Acquisition by Secretary of State of land for public access.](section/25.md)
+  - [s. 26 Maps of land subject to public access.](section/26.md)
+  - [s. 27 Provisions as to danger areas.](section/27.md)
+  - [s. 28 Boundary notices.](section/28.md)
+  - [s. 29 Power of local planning authority to contribute to work carried out by other persons.](section/29.md)
+- Part III Public Paths and Long-Distance Routes
+  - Creation of public paths
+    - [s. 30 Creation of public paths by agreement.](section/30.md)
+    - [s. 31 Compulsory powers for creation of public paths.](section/31.md)
+    - [s. 32 Exercise of powers under ss. 30 and 31.](section/32.md)
+    - [s. 33 Making up and maintenance of public paths.](section/33.md)
+    - [s. 34 Closure of public paths.](section/34.md)
+    - [s. 35 Diversion of public paths.](section/35.md)
+    - [s. 36 Exercise of powers under sections 34 and 35.](section/36.md)
+    - [s. 37 Compensation for creation, diversion and closure of public paths.](section/37.md)
+    - [s. 38 Supplementary provisions as to creation, closure and diversion of public paths.](section/38.md)
+  - Long-Distance Routes
+    - [s. 39 General provisions as to long-distance routes.](section/39.md)
+    - [s. 40 Approval of proposals relating to a long-distance route.](section/40.md)
+    - [s. 41 Ferries for purposes of long-distance routes.](section/41.md)
+    - [s. 42 Variation of approved proposals.](section/42.md)
+  - Miscellaneous Provisions relating to Rights of Way
+    - [s. 43 Ploughing of public rights of way.](section/43.md)
+    - [s. 44 Pasturing of bulls.](section/44.md)
+    - [s. 45 Power to authorise erection of stiles, etc., on public rights of way.](section/45.md)
+    - [s. 46 Protection and maintenance of rights of way.](section/46.md)
+    - [s. 47 Interpretation of Part III.](section/47.md)
+- Part IV Further Powers of Certain Authorities
+  - [s. 48 Country Parks.](section/48.md)
+  - [s. 48A Regional parks.](section/48A.md)
+  - [s. 49 Camping and caravan sites.](section/49.md)
+  - [s. 49A](section/49A.md)
+  - [s. 50 Provision of accommodation, meals and refreshments.](section/50.md)
+  - [s. 51 Parking Places.](section/51.md)
+  - [s. 52 Amendment of Local Government (Development and Finance) (Scotland) Act 1964.](section/52.md)
+  - [s. 53 Contributions by or to local authorities.](section/53.md)
+  - [s. 54 Byelaws.](section/54.md)
+  - [s. 55 Default powers of Secretary of State as to byelaws.](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 56A Control of noise in quiet areas.](section/56A.md)
+  - [s. 57 Supplementary provisions as to byelaws.](section/57.md)
+  - [s. 58 Powers of the Forestry Commissioners.](section/58.md)
+  - [s. 59 Extension of powers of Secretary of State under section 39 of the Forestry Act 1967.](section/59.md)
+  - [s. 60 Extension of powers of Secretary of State as respects certain land held by him.](section/60.md)
+  - [s. 61 Improvement of waterways for purposes of open-air recreation.](section/61.md)
+  - [s. 62 Exercise of powers under section 61.](section/62.md)
+  - [s. 63 Provision of recreational facilities by local water authorities.](section/63.md)
+  - [s. 64 ................................](section/64.md)
+  - [s. 65 Wardens.](section/65.md)
+- Part V General, Financial and Supplementary
+  - [s. 66 Conservation of natural beauty.](section/66.md)
+  - [s. 6768. ................................](section/6768.md)
+  - [s. 69 Acquisition, appropriation, disposal, etc. of land.](section/69.md)
+  - [s. 70 Supplementary provisions as to compensation under ss. 20, 37 and 62.](section/70.md)
+  - [s. 71 ................................](section/71.md)
+  - [s. 72 .](section/72.md)
+  - [s. 73 Crown land.](section/73.md)
+  - [s. 74 Expenses.](section/74.md)
+  - [s. 75 Powers of entry.](section/75.md)
+  - [s. 76 Inquiries and service of notices.](section/76.md)
+  - [s. 77 Orders.](section/77.md)
+  - [s. 78 Interpretation](section/78.md)
+  - [s. 79 Short title and extent.](section/79.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 General Restrictions to be observed by persons having access by virtue of Part II of this Act to land which is or which gives or forms part of access to Open Country
+- SCHEDULE 3 Provisions as to Making Confirmation, Coming into Operation and Validity of Certain Orders
+  - Part I Provisions for Making and Confirming Access Orders and Certain Orders relating to Public Paths
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part II Validity and Date of Operation of Orders to which this Schedule applies
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- Schedule 4 Provisions as to the Calculation for Fixing Consideration in Respect of the Making of Access Agreements.
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
