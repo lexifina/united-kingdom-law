@@ -2,9 +2,9 @@
 
 2017 c. 10. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-06, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-04-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/10/2018-04-06
+Source: https://www.legislation.gov.uk/ukpga/2017/10/2019-04-01
 
 ## Contents
 
@@ -83,6 +83,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/10/2018-04-06
   - Miscellaneous
     - [s. 57 Regulations: death, incapacity or insolvency of person carrying on a business](section/57.md)
     - [s. 58 Provisional collection of soft drinks industry levy](section/58.md)
+    - [s. 58A Isle of Man: import and export of chargeable soft drinks](section/58A.md)
   - General
     - [s. 59 Interpretation of Part 2](section/59.md)
     - [s. 60 Regulations](section/60.md)
