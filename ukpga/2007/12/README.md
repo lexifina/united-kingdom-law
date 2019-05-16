@@ -1,0 +1,328 @@
+# Mental Health Act 2007
+
+2007 c. 12. Enacted 2007-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-05-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2007/12/2019-05-16
+
+## Contents
+
+- Part 1 Amendments to Mental Health Act 1983
+  - Chapter 1 Changes to key provisions
+    - Mental disorder
+      - [s. 1 Removal of categories of mental disorder](section/1.md)
+      - [s. 2 Learning disability](section/2.md)
+      - [s. 3 Changes to exclusions from operation of 1983 Act](section/3.md)
+    - Tests for detention etc
+      - [s. 4 Replacement of “treatability” and “care” tests with appropriate treatment test](section/4.md)
+      - [s. 5 Further cases in which appropriate treatment test is to apply](section/5.md)
+    - Medical treatment
+      - [s. 6 Appropriate treatment test in Part 4 of 1983 Act](section/6.md)
+      - [s. 7 Change in definition of “medical treatment”](section/7.md)
+    - Fundamental principles
+      - [s. 8 The fundamental principles](section/8.md)
+  - Chapter 2 Professional roles
+    - Approved clinicians and responsible clinicians
+      - [s. 9 Amendments to Part 2 of 1983 Act](section/9.md)
+      - [s. 10 Amendments to Part 3 of 1983 Act](section/10.md)
+      - [s. 11 Further amendments to Part 3 of 1983 Act](section/11.md)
+      - [s. 12 Amendments to Part 4 of 1983 Act](section/12.md)
+      - [s. 13 Amendments to Part 5 of 1983 Act](section/13.md)
+      - [s. 14 Amendments to other provisions of 1983 Act](section/14.md)
+      - [s. 15 Amendments to other Acts](section/15.md)
+      - [s. 16 Certain registered medical practitioners to be treated as approved under section 12 of 1983 Act](section/16.md)
+      - [s. 17 Regulations as to approvals in relation to England and Wales](section/17.md)
+    - Approved mental health professionals
+      - [s. 18 Approved mental health professionals](section/18.md)
+      - [s. 19 Approval of courses etc for approved mental health professionals](section/19.md)
+      - [s. 20 Amendment to section 62 of Care Standards Act 2000](section/20.md)
+      - [s. 21 Approved mental health professionals: further amendments](section/21.md)
+    - Conflicts of interest in professional roles
+      - [s. 22 Conflicts of interest](section/22.md)
+  - Chapter 3 Safeguards for patients
+    - Patient’s nearest relative
+      - [s. 23 Extension of power to appoint acting nearest relative](section/23.md)
+      - [s. 24 Discharge and variation of orders appointing nearest relative](section/24.md)
+      - [s. 25 Restriction of nearest relative’s right to apply to tribunal](section/25.md)
+      - [s. 26 Civil partners](section/26.md)
+    - Consent to treatment
+      - [s. 27 Electro-convulsive therapy, etc.](section/27.md)
+      - [s. 28 Section 27: supplemental](section/28.md)
+      - [s. 29 Withdrawal of consent](section/29.md)
+    - Advocacy
+      - [s. 30 Independent mental health advocates](section/30.md)
+    - Accommodation, etc.
+      - [s. 31 Accommodation, etc.](section/31.md)
+  - Chapter 4 Supervised community treatment
+    - [s. 32 Community treatment orders, etc](section/32.md)
+    - [s. 33 Relationship with leave of absence](section/33.md)
+    - [s. 34 Consent to treatment](section/34.md)
+    - [s. 35 Authority to treat](section/35.md)
+    - [s. 36 Repeal of provisions for after-care under supervision](section/36.md)
+  - Chapter 5 Mental Health Review Tribunals
+    - [s. 37 References](section/37.md)
+    - [s. 38 Organisation](section/38.md)
+  - Chapter 6 Cross-border patients
+    - [s. 39 Cross-border arrangements](section/39.md)
+  - Chapter 7 Restricted patients
+    - [s. 40 Restriction orders](section/40.md)
+    - [s. 41 Conditionally discharged patients subject to limitation directions](section/41.md)
+  - Chapter 8 Miscellaneous
+    - [s. 42 Offence of ill-treatment: increase in maximum penalty on conviction on indictment](section/42.md)
+    - [s. 43 Informal admission of patients aged 16 or 17](section/43.md)
+    - [s. 44 Places of safety](section/44.md)
+    - [s. 45 Delegation of powers of managers of NHS foundation trusts](section/45.md)
+    - [s. 46 Local Health Boards](section/46.md)
+    - [s. 47 Welsh Ministers: procedure for instruments](section/47.md)
+- Part 2 Amendments to other Acts
+  - Chapter 1 Amendments to Domestic Violence, Crime and Victims Act 2004
+    - [s. 48 Victims’ rights](section/48.md)
+  - Chapter 2 Amendments to Mental Capacity Act 2005
+    - [s. 49 Independent mental capacity advocacy service: exceptions](section/49.md)
+    - [s. 50 Mental Capacity Act 2005: deprivation of liberty](section/50.md)
+    - [s. 51 Amendment to section 20(11) of Mental Capacity Act 2005](section/51.md)
+- Part 3 General
+  - [s. 52 Meaning of “1983 Act”](section/52.md)
+  - [s. 53 Transitional provisions and savings](section/53.md)
+  - [s. 54 Consequential provisions](section/54.md)
+  - [s. 55 Repeals and revocations](section/55.md)
+  - [s. 56 Commencement](section/56.md)
+  - [s. 57 Commencement of section 36](section/57.md)
+  - [s. 58 Extent](section/58.md)
+  - [s. 59 Short title](section/59.md)
+- SCHEDULE 1 Categories of mental disorder: further amendments etc
+  - Part 1 Amendments to 1983 Act
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part 2 Amendments to other Acts
+    - Juries Act 1974
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Contempt of Court Act 1981
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Family Law Act 1996
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Housing Act 1996
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Care Standards Act 2000
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Mental Capacity Act 2005
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - National Health Service Act 2006
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - National Health Service (Wales) Act 2006
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Police and Justice Act 2006
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+- SCHEDULE 2 Approved mental health professionals: further amendments to 1983 Act
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Supervised community treatment: further amendments to 1983 Act
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Application in respect of patient already in hospital
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Return of patients absent without leave
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Assignment of responsibility for community patients
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Renewal of authority to detain patients
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Special provisions as to patients absent without leave
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Patients sentenced to imprisonment etc
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Discharge
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Orders appointing acting nearest relative
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Regulations for purposes of Part 2
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Wards of court
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Restricted patients
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Applications and references to Mental Health Review Tribunal
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - After-care services
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Code of practice
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - General protection of detained patients
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Offences
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Duty to give information
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Retaking of patients escaping from custody
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Members of Parliament suffering from mental disorder
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - Interpretation
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - Extent
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Application of certain provisions to patients concerned in criminal proceedings
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+- SCHEDULE 4 Supervised community treatment: amendments to other Acts
+  - Administration of Justice Act 1960
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Criminal Appeal Act 1968
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Courts-Martial (Appeals) Act 1968
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Juries Act 1974
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Cross-border arrangements
+  - Part 1 Amendments to Part 6 of 1983 Act
+    - Introduction
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Transfer of patients: Scotland
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Transfer of patients: Northern Ireland
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Transfer of patients: Channel Islands and Isle of Man
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Patients absent from hospitals in England and Wales
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Regulations for purposes of Part 6
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - General provisions as to patients removed from England and Wales
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Interpretation
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Part 2 Related amendments
+    - The 1983 Act
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Mental Health (Care and Treatment) (Scotland) Act 2003 (Consequential Provisions) Order 2005 (S.I. 2005/2078)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+- SCHEDULE 6 Victims’ rights
+  - Introduction
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Hospital orders (with or without restriction orders)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Hospital directions and limitation directions
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Transfer directions (with or without restriction directions)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Interpretation
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 Mental Capacity Act 2005: new Schedule A1
+- SCHEDULE 8 Mental Capacity Act 2005: new Schedule 1A
+- SCHEDULE 9 Amendments relating to new section 4A of, & Schedule A1 to, Mental Capacity Act 2005
+  - Part 1 Other amendments to Mental Capacity Act 2005
+    - Introduction
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - New section 21A
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Section 35: Appointment of independent mental capacity advocates
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Section 38: IMCAs and provision of accommodation by NHS body
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Section 39: IMCAs and provision of accommodation by local authority
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - New section 39A
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Section 40: Exceptions to duty to appoint IMCAs
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Section 42: Codes of practice
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Section 50: Application to the Court of Protection
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Section 64: Interpretation
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Section 65: Rules, regulations and orders
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Part 2 Amendments to other Acts
+    - National Assistance Act 1948 (c. 29)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Local Authority Social Services Act 1970 (c. 42)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+- SCHEDULE 10 Transitional provisions and savings
+  - Interpretation
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Authority to detain etc
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Consent to treatment
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Reclassification of patients
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Supervised community treatment
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Nearest relative
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Independent mental health advocates
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Applications and references to Mental Health Review Tribunal
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- SCHEDULE 11 Repeals and revocations
+  - Part 1 Removal of categories of mental disorder
+  - Part 2 Replacement of “treatability” and “care” tests
+  - Part 3 Approved clinicians and responsible clinicians
+  - Part 4 Safeguards for patients
+  - Part 5 Supervised community treatment
+  - Part 6 Organisation of tribunals
+  - Part 7 Cross-border arrangements
+  - Part 8 Restricted patients
+  - Part 9 Miscellaneous
+  - Part 10 Deprivation of liberty
