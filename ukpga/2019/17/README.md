@@ -2,11 +2,9 @@
 
 2019 c. 17. Enacted 2019-05-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-03-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2019-05-16, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 44 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2019/17
-
-Source: https://www.legislation.gov.uk/ukpga/2019/17/2023-03-27
+Source: https://www.legislation.gov.uk/ukpga/2019/17/2019-05-16
 
 ## Contents
 
