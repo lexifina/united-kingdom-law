@@ -2,9 +2,9 @@
 
 2019 c. 12. Enacted 2019-03-26.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2019-05-26, one file per provision. Earlier versions, from 2019-03-26, are in the history before it: `git log -- ukpga/2019/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/12/enacted
+Source: https://www.legislation.gov.uk/ukpga/2019/12/2019-05-26
 
 ## Contents
 
