@@ -2,9 +2,9 @@
 
 2019 c. 13. Enacted 2019-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-04-01, one file per provision. Earlier versions, from 2019-03-26, are in the history before it: `git log -- ukpga/2019/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-05-26, one file per provision. Earlier versions, from 2019-03-26, are in the history before it: `git log -- ukpga/2019/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/13/2019-04-01
+Source: https://www.legislation.gov.uk/ukpga/2019/13/2019-05-26
 
 ## Contents
 
