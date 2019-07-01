@@ -1,0 +1,134 @@
+# Armed Forces Act 2011
+
+2011 c. 18. Enacted 2011-11-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2011/18/2019-07-01
+
+## Contents
+
+- Duration of Armed Forces Act 2006
+  - [s. 1 Duration of Armed Forces Act 2006](section/1.md)
+- Armed forces covenant report
+  - [s. 2 Armed forces covenant report](section/2.md)
+- Service Police and Ministry of Defence Police
+  - [s. 3 Provost Marshal’s duty in relation to independence of investigations](section/3.md)
+  - [s. 4 Inspection of service police investigations](section/4.md)
+  - [s. 5 Provost Marshals: appointment](section/5.md)
+  - [s. 6 Ministry of Defence Police: performance regulations](section/6.md)
+- Powers of entry, search and seizure
+  - [s. 7 Power of judge advocate to authorise entry and search](section/7.md)
+  - [s. 8 Power to make provision about access to excluded material etc](section/8.md)
+- Alcohol and drugs
+  - [s. 9 Unfitness through alcohol or drugs](section/9.md)
+  - [s. 10 Exceeding alcohol limit for prescribed safety-critical duties](section/10.md)
+  - [s. 11 Testing for alcohol and drugs on suspicion of offence](section/11.md)
+- Punishments and other court orders
+  - [s. 12 Amendments relating to new rank of lance corporal in RAF Regiment](section/12.md)
+  - [s. 13 Reduction in rank or rate](section/13.md)
+  - [s. 14 Court Martial sentencing powers](section/14.md)
+  - [s. 15 Increase in maximum term of detention for certain offences](section/15.md)
+  - [s. 16 Enforcement of financial penalties](section/16.md)
+  - [s. 17 Service sexual offences prevention orders](section/17.md)
+- Miscellaneous amendments of Armed Forces Act 2006
+  - [s. 18 Place of sitting of Service Civilian Court](section/18.md)
+  - [s. 19 Administrative reduction in rank or rate](section/19.md)
+  - [s. 20 Service complaint panels](section/20.md)
+  - [s. 21 Persons eligible to be prosecuting officers](section/21.md)
+  - [s. 22 Civilians subject to service discipline](section/22.md)
+  - [s. 23 Protected prisoners of war](section/23.md)
+- Other amendments and repeals
+  - [s. 24 Byelaws for service purposes](section/24.md)
+  - [s. 25 Claims against visiting forces: transfer of liability](section/25.md)
+  - [s. 26 Judge advocates sitting in civilian courts](section/26.md)
+  - [s. 27 Repeal of Naval Medical Compassionate Fund Act 1915](section/27.md)
+  - [s. 28 Call out of reserve forces](section/28.md)
+  - [s. 29 Minor amendments of service legislation](section/29.md)
+  - [s. 30 Consequential amendments and repeals](section/30.md)
+- Supplementary
+  - [s. 31 Meaning of “AFA 2006”](section/31.md)
+  - [s. 32 Commencement](section/32.md)
+  - [s. 33 Extent to Channel Islands, Isle of Man and British overseas territories](section/33.md)
+  - [s. 34 Short title](section/34.md)
+- SCHEDULE 1 Court Martial sentencing powers
+- SCHEDULE 2 Judge advocates sitting in civilian courts
+  - Part 1 Amendments conferring jurisdiction on judge advocates
+    - Senior Courts Act 1981 (c. 54)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Courts Act 2003 (c. 39)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 2 Related amendments
+    - Criminal Justice Act 1967 (c. 80)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Juries Act 1974 (c. 23)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Minor amendments of service legislation
+  - Definition of “service policeman” in Armed Forces Act 1991
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Powers of arrest of an officer acting on behalf of provost officer
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Entry for purposes of arrest by service policeman
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Definition of “service living accommodation”
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Consultation of DSP before decision by service police on referral of case
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Powers of DSP in respect of charge allocated for Court Martial trial
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Right to elect Court Martial trial
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Summary hearing
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Activation of suspended sentence of service detention
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Suspended sentences of imprisonment
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Detention and training orders
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Restrictions on community punishments
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Definition of “period when unlawfully at large”
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Persons treated as members of service police force
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Power to make transitional provision under AFA 2006
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Activation of suspended sentence of imprisonment
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+- SCHEDULE 4 Consequential amendments
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Extradition Act 2003 (c. 41)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Armed Forces Act 2006 (c. 52)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Repeals and revocations
