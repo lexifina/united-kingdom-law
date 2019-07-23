@@ -1,0 +1,307 @@
+# Public Services Ombudsman (Wales) Act 2005
+
+2005 c. 10. Enacted 2005-04-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-07-23, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2005/10
+
+Source: https://www.legislation.gov.uk/ukpga/2005/10/2019-07-23
+
+## Contents
+
+- Part 1 The Public Services Ombudsman for Wales
+  - [s. 1 The Public Services Ombudsman for Wales](section/1.md)
+- Part 2 Investigation of complaints relating to listed authorities
+  - Power of investigation
+    - [s. 2 Power of investigation](section/2.md)
+    - [s. 3 Alternative resolution of complaints](section/3.md)
+  - Complaints
+    - [s. 4 Who can complain](section/4.md)
+    - [s. 5 Requirements: complaints made to the Ombudsman](section/5.md)
+    - [s. 6 Requirements: complaints referred to the Ombudsman](section/6.md)
+  - Matters which may be investigated
+    - [s. 7 Matters which may be investigated](section/7.md)
+    - [s. 8 Exclusion: matters not relating to Wales](section/8.md)
+    - [s. 9 Exclusion: other remedies](section/9.md)
+    - [s. 10 Other excluded matters](section/10.md)
+    - [s. 11 Decisions taken without maladministration](section/11.md)
+  - Decisions not to investigate etc.
+    - [s. 12 Decisions not to investigate or to discontinue investigation](section/12.md)
+  - Investigation procedure and evidence
+    - [s. 13 Investigation procedure](section/13.md)
+    - [s. 14 Information, documents, evidence and facilities](section/14.md)
+    - [s. 15 Obstruction and contempt](section/15.md)
+  - Reports of investigations
+    - [s. 16 Reports of investigations](section/16.md)
+    - [s. 17 Publicising reports](section/17.md)
+    - [s. 18 Publicising reports: health care providers](section/18.md)
+    - [s. 19 Action following receipt of a report](section/19.md)
+    - [s. 20 Non-action following receipt of a report](section/20.md)
+    - [s. 21 Reports: alternative procedure](section/21.md)
+  - Special reports
+    - [s. 22 Special reports](section/22.md)
+    - [s. 23 Special reports: supplementary](section/23.md)
+    - [s. 24 Special reports relating to the Welsh Assembly Government etc.](section/24.md)
+  - ...
+    - [s. 25 Consultation and co-operation with other ombudsmen](section/25.md)
+    - [s. 25A Working jointly with the Commissioner for Older People in Wales](section/25A.md)
+    - [s. 25B Working collaboratively with the Commissioner for Older People in Wales](section/25B.md)
+  - ...
+    - [s. 26 Disclosure of information](section/26.md)
+    - [s. 27 Disclosure prejudicial to safety of State or contrary to public interest](section/27.md)
+  - Listed authorities
+    - [s. 28 Listed authorities](section/28.md)
+    - [s. 29 Restrictions on power to amend Schedule 3](section/29.md)
+    - [s. 30 Provisions in orders adding persons to Schedule 3](section/30.md)
+  - Miscellaneous
+    - [s. 31 Power to issue guidance](section/31.md)
+    - [s. 32 Protection from defamation claims](section/32.md)
+    - [s. 33 Publicity for complaints procedures](section/33.md)
+    - [s. 34 Compensation for the person aggrieved](section/34.md)
+- PART 2A INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE AND PALLIATIVE CARE
+  - Application of this Part
+    - [s. 34A Matters to which this Part applies](section/34A.md)
+  - Investigation of complaints
+    - [s. 34B Power to investigate complaints](section/34B.md)
+    - [s. 34C Alternative resolution of complaints](section/34C.md)
+    - [s. 34D Who can complain](section/34D.md)
+    - [s. 34E Requirements: complaints made to the Ombudsman](section/34E.md)
+    - [s. 34F Requirements: complaints referred to the Ombudsman](section/34F.md)
+  - Decisions not to investigate etc
+    - [s. 34G Decisions not to investigate complaints or to discontinue investigations](section/34G.md)
+  - Investigation procedure and evidence
+    - [s. 34H Investigation procedure](section/34H.md)
+    - [s. 34I Information, documents, evidence and facilities](section/34I.md)
+    - [s. 34J Obstruction and contempt](section/34J.md)
+  - Reports about investigations
+    - [s. 34K Investigation reports](section/34K.md)
+    - [s. 34L Further publicity for investigation reports](section/34L.md)
+    - [s. 34M Action following receipt of investigation reports](section/34M.md)
+    - [s. 34N Reports: alternative procedure](section/34N.md)
+  - Special reports
+    - [s. 34O Circumstances in which special reports may be prepared](section/34O.md)
+    - [s. 34P Special reports](section/34P.md)
+    - [s. 34Q Further publicity for special reports](section/34Q.md)
+  - Interpretation
+    - [s. 34R Meaning of “care home” and “care home provider”](section/34R.md)
+    - [s. 34S Meaning of “domiciliary care” and “domiciliary care provider”](section/34S.md)
+    - [s. 34T Meaning of “palliative care service” and “independent palliative care provider”](section/34T.md)
+- PART 2B INVESTIGATION OF COMPLAINTS: SUPPLEMENTARY
+  - Consultation and co-operation
+    - [s. 34U Consultation and co-operation with other ombudsmen](section/34U.md)
+    - [s. 34V Working jointly with other Commissioners](section/34V.md)
+    - [s. 34W Working collaboratively with other Commissioners](section/34W.md)
+  - Disclosure
+    - [s. 34X Disclosure of information](section/34X.md)
+    - [s. 34Y Disclosure prejudicial to safety of State or contrary to public interest](section/34Y.md)
+    - [s. 34Z Protection from defamation claims](section/34Z.md)
+- Part 3 Miscellaneous and General
+  - Conduct of local government members and employees
+    - [s. 35 Conduct of local government members and employees](section/35.md)
+  - Abolition of existing bodies and offices
+    - [s. 36 Abolition of existing bodies and offices](section/36.md)
+    - [s. 37 Transfer of property, staff etc.](section/37.md)
+    - [s. 38 Undetermined complaints](section/38.md)
+  - General
+    - [s. 39 Amendments and repeals](section/39.md)
+    - [s. 40 Commencement](section/40.md)
+    - [s. 41 Interpretation](section/41.md)
+    - [s. 42 Former health care providers social landlords, social care providers and palliative care providers: modifications](section/42.md)
+    - [s. 43 Consequential, transitional provisions etc.](section/43.md)
+    - [s. 44 Orders, regulations and directions](section/44.md)
+    - [s. 45 Extent](section/45.md)
+    - [s. 46 Short title](section/46.md)
+- SCHEDULE 1 Public Services Ombudsman for Wales: appointment etc.
+  - Appointment
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Status
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Term of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Acting Public Services Ombudsman for Wales
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Disqualification
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Remuneration etc.
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Special financial provisions
+  - Staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Advisers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Delegation
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Annual and extraordinary reports
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Estimates
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Accounts
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Audit
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Accounting officer
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Examinations into the use of resources
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Examinations by the Comptroller and Auditor General
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Supplementary powers
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Excluded matters: Part 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Listed authorities
+- SCHEDULE 3A Excluded Matters: Part 2A
+  - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+- SCHEDULE 4 Conduct of local government members and employees
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 Transfer of staff, property etc.
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Transfer of staff
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Transfer of property, rights and liabilities
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Consequential amendments
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - National Health Service Act 1977 (c. 49)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Finance Act 1989 (c. 26)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Health Service Commissioners Act 1993 (c. 46)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+    - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+  - Deregulation and Contracting Out Act 1994 (c. 40)
+    - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+  - Data Protection Act 1998 (c. 29)
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+    - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+    - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+    - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+    - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+    - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+    - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+    - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+    - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+    - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+  - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+    - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+    - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+    - [Sch. 6 para. 76](schedule/6/paragraph/76.md)
+  - Public Audit (Wales) Act 2004 (c. 23)
+    - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+- SCHEDULE 7 Repeals
