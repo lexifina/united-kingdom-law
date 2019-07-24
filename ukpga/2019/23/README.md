@@ -2,9 +2,9 @@
 
 2019 c. 23. Enacted 2019-07-24.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2019-07-24, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/23/2020-04-06
+Source: https://www.legislation.gov.uk/ukpga/2019/23/2019-07-24
 
 ## Contents
 
