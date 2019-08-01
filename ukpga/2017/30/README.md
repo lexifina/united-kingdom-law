@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-10-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-08-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2018-10-01
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2019-08-01
 
 ## Contents
 
@@ -483,6 +483,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2018-10-01
     - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
     - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
     - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 32A](schedule/8/paragraph/32A.md)
     - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
     - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
     - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
