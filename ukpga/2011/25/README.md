@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-03-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-08-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2019-03-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2019-08-01
 
 ## Contents
 
@@ -549,6 +549,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2019-03-01
     - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
     - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
     - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+    - [Sch. 3 para. 11B](schedule/3/paragraph/11B.md)
   - Museums, galleries etc.
     - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
     - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
