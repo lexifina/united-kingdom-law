@@ -2,9 +2,9 @@
 
 2019 c. 27. Enacted 2019-10-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-09-10, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the Act as enacted, one file per provision. Earlier versions, from 2019-09-10, are in the history before it: `git log -- ukpga/2019/27` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/27/2019-09-10
+Source: https://www.legislation.gov.uk/ukpga/2019/27/enacted
 
 ## Contents
 
@@ -32,106 +32,65 @@ Source: https://www.legislation.gov.uk/ukpga/2019/27/2019-09-10
   - [s. 15 Short title](section/15.md)
 - SCHEDULE 1 The Parliamentary Works Sponsor Body
   - PART 1 Members of the Sponsor Body
-    - Membership
-      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-    - External members: appointment
-      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
-      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
-    - Parliamentary members: appointment
-      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
-    - Terms of appointment: general
-      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
-      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
-      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
-    - Appointment of initial external members
-      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
-    - Remuneration for external members
-      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
-    - Code of conduct
-      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
-    - Resignation, suspension and removal
-      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
-      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
-      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
-    - Interim chair
-      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 1 Membership](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 External members: appointment](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 External members: appointment](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Parliamentary members: appointment](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Terms of appointment: general](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Terms of appointment: general](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Terms of appointment: general](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Appointment of initial external members](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Remuneration for external members](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Code of conduct](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Resignation, suspension and removal](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Resignation, suspension and removal](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Resignation, suspension and removal](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Interim chair](schedule/1/paragraph/14.md)
   - PART 2 Powers, procedure, reporting etc
-    - Status
-      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
-    - Powers
-      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
-    - Staff
-      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
-      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
-    - Transfer of property etc to the Sponsor Body
-      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
-    - Committees
-      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
-    - Delegation
-      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
-    - Delegation and contracting out of pension functions
-      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
-    - Procedure
-      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
-      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
-    - Accounts and audit
-      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
-      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
-    - Report
-      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
-    - Documentary evidence
-      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
-    - Freedom of information
-      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 15 Status](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Powers](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Staff](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Transfer of property etc to the Sponsor Body](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Committees](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 Delegation](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22 Delegation and contracting out of pension functions](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Procedure](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 Procedure](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25 Accounts and audit](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26 Accounts and audit](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27 Report](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28 Documentary evidence](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29 Freedom of information](schedule/1/paragraph/29.md)
 - SCHEDULE 2 The Delivery Authority
-  - Board of directors
-    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
-  - The chair and non-executive directors: term of office
-    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
-  - Removal
-    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
-    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
-  - Validity of acts
-    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
-  - Staff
-    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
-  - Statement of required resources
-    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
-    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
-  - Accounts and audit
-    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
-    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
-  - Freedom of information
-    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 1 Board of directors](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 The chair and non-executive directors: term of office](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Removal](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Removal](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Validity of acts](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Staff](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Statement of required resources](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Statement of required resources](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Accounts and audit](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Accounts and audit](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Freedom of information](schedule/2/paragraph/11.md)
 - SCHEDULE 3 The Parliamentary Works Estimates Commission
-  - Membership
-    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-  - Removal from office
-    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
-  - Procedure etc
-    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
-    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
-  - Freedom of information
-    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 1 Membership](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Removal from office](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Procedure etc](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Procedure etc](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Freedom of information](schedule/3/paragraph/5.md)
 - SCHEDULE 4 Funding: Sponsor Body’s Estimates
   - PART 1 Introduction
-    - Interpretation
-      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
-    - Assessment of expenditure
-      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 1 Interpretation](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Assessment of expenditure](schedule/4/paragraph/2.md)
   - PART 2 Phase one
-    - Annual estimates during phase one
-      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
-      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
-    - Supplementary estimates
-      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 3 Annual estimates during phase one](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Annual estimates during phase one](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Supplementary estimates](schedule/4/paragraph/5.md)
   - PART 3 Transition year
-    - Transition year estimate
-      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
-    - Supplementary estimates
-      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 6 Transition year estimate](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Supplementary estimates](schedule/4/paragraph/7.md)
   - PART 4 Phase two
-    - Annual estimates during phase two
-      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
-    - Supplementary estimates
-      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 8 Annual estimates during phase two](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Supplementary estimates](schedule/4/paragraph/9.md)
