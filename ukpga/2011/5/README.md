@@ -2,9 +2,9 @@
 
 2011 c. 5. Enacted 2011-06-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-07-31, one file per provision. Earlier versions, from 2011-06-13, are in the history before it: `git log -- ukpga/2011/5` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2019-11-23, one file per provision. Earlier versions, from 2011-06-13, are in the history before it: `git log -- ukpga/2011/5` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/5/2017-07-31
+Source: https://www.legislation.gov.uk/ukpga/2011/5/2019-11-23
 
 ## Contents
 
@@ -302,6 +302,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/5/2017-07-31
       - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
     - Provision of information by OFCOM
       - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Interpretation
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
 - SCHEDULE 9 Transitional provisions for Part 3
   - Introduction
     - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
