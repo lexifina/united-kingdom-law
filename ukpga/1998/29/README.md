@@ -1,0 +1,423 @@
+# Data Protection Act 1998
+
+1998 c. 29. Enacted 1998-07-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2019-12-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/29
+
+Source: https://www.legislation.gov.uk/ukpga/1998/29/2019-12-02
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Basic interpretative provisions.](section/1.md)
+  - [s. 2 Sensitive personal data.](section/2.md)
+  - [s. 3 The special purposes.](section/3.md)
+  - [s. 4 The data protection principles.](section/4.md)
+  - [s. 5 Application of Act.](section/5.md)
+  - [s. 6 The Commissioner....](section/6.md)
+- Part II Rights of data subjects and others
+  - [s. 7 Right of access to personal data.](section/7.md)
+  - [s. 8 Provisions supplementary to section 7.](section/8.md)
+  - [s. 9 Application of section 7 where data controller is credit reference agency.](section/9.md)
+  - [s. 9A Unstructured personal data held by public authorities.](section/9A.md)
+  - [s. 10 Right to prevent processing likely to cause damage or distress.](section/10.md)
+  - [s. 11 Right to prevent processing for purposes of direct marketing.](section/11.md)
+  - [s. 12 Rights in relation to automated decision-taking.](section/12.md)
+  - [s. 12A Rights of data subjects in relation to exempt manual data.](section/12A.md)
+  - [s. 13 Compensation for failure to comply with certain requirements.](section/13.md)
+  - [s. 14 Rectification, blocking, erasure and destruction.](section/14.md)
+  - [s. 15 Jurisdiction and procedure.](section/15.md)
+- Part III Notification by data controllers
+  - [s. 16 Preliminary.](section/16.md)
+  - [s. 17 Prohibition on processing without registration.](section/17.md)
+  - [s. 18 Notification by data controllers.](section/18.md)
+  - [s. 19 Register of notifications.](section/19.md)
+  - [s. 20 Duty to notify changes.](section/20.md)
+  - [s. 21 Offences.](section/21.md)
+  - [s. 22 Preliminary assessment by Commissioner.](section/22.md)
+  - [s. 23 Power to make provision for appointment of data protection supervisors.](section/23.md)
+  - [s. 24 Duty of certain data controllers to make certain information available.](section/24.md)
+  - [s. 25 Functions of Commissioner in relation to making of notification regulations.](section/25.md)
+  - [s. 26 Fees regulations.](section/26.md)
+- Part IV Exemptions
+  - [s. 27 Preliminary.](section/27.md)
+  - [s. 28 National security.](section/28.md)
+  - [s. 29 Crime and taxation.](section/29.md)
+  - [s. 30 Health, education and social work.](section/30.md)
+  - [s. 31 Regulatory activity.](section/31.md)
+  - [s. 32 Journalism, literature and art.](section/32.md)
+  - [s. 33 Research, history and statistics.](section/33.md)
+  - [s. 33A Manual data held by public authorities.](section/33A.md)
+  - [s. 34 Information available to the public by or under enactment.](section/34.md)
+  - [s. 35 Disclosures required by law or made in connection with legal proceedings etc.](section/35.md)
+  - [s. 35A Parliamentary privilege.](section/35A.md)
+  - [s. 36 Domestic purposes.](section/36.md)
+  - [s. 37 Miscellaneous exemptions.](section/37.md)
+  - [s. 38 Powers to make further exemptions by order.](section/38.md)
+  - [s. 39 Transitional relief.](section/39.md)
+- Part V Enforcement
+  - [s. 40 Enforcement notices.](section/40.md)
+  - [s. 41 Cancellation of enforcement notice.](section/41.md)
+  - [s. 41A Assessment notices](section/41A.md)
+  - [s. 41B Assessment notices: limitations](section/41B.md)
+  - [s. 41C Code of practice about assessment notices](section/41C.md)
+  - [s. 42 Request for assessment.](section/42.md)
+  - [s. 43 Information notices.](section/43.md)
+  - [s. 44 Special information notices.](section/44.md)
+  - [s. 45 Determination by Commissioner as to the special purposes.](section/45.md)
+  - [s. 46 Restriction on enforcement in case of processing for the special purposes.](section/46.md)
+  - [s. 47 Failure to comply with notice.](section/47.md)
+  - [s. 48 Rights of appeal.](section/48.md)
+  - [s. 49 Determination of appeals.](section/49.md)
+  - [s. 50 Powers of entry and inspection.](section/50.md)
+- Part VI Miscellaneous and General
+  - Functions of Commissioner
+    - [s. 51 General duties of Commissioner.](section/51.md)
+    - [s. 52 Reports and codes of practice to be laid before Parliament.](section/52.md)
+    - [s. 52A Data-sharing code](section/52A.md)
+    - [s. 52AA Direct marketing code](section/52AA.md)
+    - [s. 52B data-sharing and direct marketing codes: procedure](section/52B.md)
+    - [s. 52C Alteration or replacement of data-sharing and direct marketing codes](section/52C.md)
+    - [s. 52D Publication of data-sharing and direct marketing codes](section/52D.md)
+    - [s. 52E Effect of data-sharing and direct marketing codes](section/52E.md)
+    - [s. 53 Assistance by Commissioner in cases involving processing for the special purposes.](section/53.md)
+    - [s. 54 International co-operation.](section/54.md)
+    - [s. 54A Inspection of overseas information systems](section/54A.md)
+  - Unlawful obtaining et ceteralaetc. of personal data
+    - [s. 55 Unlawful obtaining etc. of personal data.](section/55.md)
+  - Monetary penalties
+    - [s. 55A Power of Commissioner to impose monetary penalty](section/55A.md)
+    - [s. 55B Monetary penalty notices: procedural rights](section/55B.md)
+    - [s. 55C Guidance about monetary penalty notices](section/55C.md)
+    - [s. 55D Monetary penalty notices: enforcement](section/55D.md)
+    - [s. 55E Notices under sections 55A and 55B: supplemental](section/55E.md)
+  - Records obtained under data subject’s right of access
+    - [s. 56 Prohibition of requirement as to production of certain records.](section/56.md)
+    - [s. 57 Avoidance of certain contractual terms relating to health records.](section/57.md)
+  - Information provided to Commissioner or Tribunal
+    - [s. 58 Disclosure of information.](section/58.md)
+    - [s. 59 Confidentiality of information.](section/59.md)
+  - General provisions relating to offences
+    - [s. 60 Prosecutions and penalties.](section/60.md)
+    - [s. 61 Liability of directors etc.](section/61.md)
+  - Amendments of Consumer Credit Act 1974
+    - [s. 62 Amendments of Consumer Credit Act 1974.](section/62.md)
+  - General
+    - [s. 63 Application to Crown.](section/63.md)
+    - [s. 63A Application to Parliament.](section/63A.md)
+    - [s. 64 Transmission of notices etc. by electronic or other means.](section/64.md)
+    - [s. 65 Service of notices by Commissioner.](section/65.md)
+    - [s. 66 Exercise of rights in Scotland by children.](section/66.md)
+    - [s. 67 Orders, regulations and rules.](section/67.md)
+    - [s. 68 Meaning of “accessible record”.](section/68.md)
+    - [s. 69 Meaning of “health professional”.](section/69.md)
+    - [s. 70 Supplementary definitions.](section/70.md)
+    - [s. 71 Index of defined expressions.](section/71.md)
+    - [s. 72 Modifications of Act.](section/72.md)
+    - [s. 73 Transitional provisions and savings.](section/73.md)
+    - [s. 74 Minor and consequential amendments and repeals and revocations.](section/74.md)
+    - [s. 75 Short title, commencement and extent.](section/75.md)
+- SCHEDULE 1 The data protection principles
+  - Part I The principles
+    - [Sch. 1 Pt. I para. 1](schedule/1/part/I/paragraph/1.md)
+    - [Sch. 1 Pt. I para. 2](schedule/1/part/I/paragraph/2.md)
+    - [Sch. 1 Pt. I para. 3](schedule/1/part/I/paragraph/3.md)
+    - [Sch. 1 Pt. I para. 4](schedule/1/part/I/paragraph/4.md)
+    - [Sch. 1 Pt. I para. 5](schedule/1/part/I/paragraph/5.md)
+    - [Sch. 1 Pt. I para. 6](schedule/1/part/I/paragraph/6.md)
+    - [Sch. 1 Pt. I para. 7](schedule/1/part/I/paragraph/7.md)
+    - [Sch. 1 Pt. I para. 8](schedule/1/part/I/paragraph/8.md)
+  - Part II Interpretation of the principles in Part I
+    - The first principle
+      - [Sch. 1 Pt. II heading the-first-principle para. 1](schedule/1/part/II/crossheading/the-first-principle/paragraph/1.md)
+      - [Sch. 1 Pt. II heading the-first-principle para. 2](schedule/1/part/II/crossheading/the-first-principle/paragraph/2.md)
+      - [Sch. 1 Pt. II heading the-first-principle para. 3](schedule/1/part/II/crossheading/the-first-principle/paragraph/3.md)
+      - [Sch. 1 Pt. II heading the-first-principle para. 4](schedule/1/part/II/crossheading/the-first-principle/paragraph/4.md)
+    - The second principle
+      - [Sch. 1 Pt. II heading the-second-principle para. 5](schedule/1/part/II/crossheading/the-second-principle/paragraph/5.md)
+      - [Sch. 1 Pt. II heading the-second-principle para. 6](schedule/1/part/II/crossheading/the-second-principle/paragraph/6.md)
+    - The fourth principle
+      - [Sch. 1 Pt. II heading the-fourth-principle para. 7](schedule/1/part/II/crossheading/the-fourth-principle/paragraph/7.md)
+    - The sixth principle
+      - [Sch. 1 Pt. II heading the-sixth-principle para. 8](schedule/1/part/II/crossheading/the-sixth-principle/paragraph/8.md)
+    - The seventh principle
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - The eighth principle
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Conditions relevant for purposes of the first principle: processing of any personal data
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Conditions relevant for purposes of the first principle: processing of sensitive personal data
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+  - [Sch. 3 para. 7B](schedule/3/paragraph/7B.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Cases where the eighth principle does not apply
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 The Data Protection Commissioner...
+  - Part I The Commissioner
+    - Status and capacity
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Tenure of office and appointment
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Salary et ceteralaetc.
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Officers and staff
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Authentication of seal of the Commissioner
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Presumption of authenticity of documents issued by the Commissioner
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Money
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Accounts
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Application of Part I in Scotland
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Part II The Tribunal
+    - Tenure of office
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Salary et ceteralaetc.
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Officers and staff
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Expenses
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part III
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Appeal proceedings
+  - Hearing of appeals
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Constitution of Tribunal in national security cases
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Constitution of Tribunal in other cases
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Determination of questions by full Tribunal
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Ex parte proceedings
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Tribunal Procedure Rules
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Obstruction et ceteralaetc.
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Miscellaneous exemptions
+  - Confidential references given by the data controller
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Armed forces
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Judicial appointments and honours
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Crown employment and Crown or Ministerial appointments
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Management forecasts et ceteralaetc.
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Corporate finance
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Negotiations
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Examination marks
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Examination scripts et ceteralaetc.
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Legal professional privilege
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Self-incrimination
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+- SCHEDULE 8 Transitional relief
+  - Part I Interpretation of Schedule
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Part II Exemptions available before 24th October 2001
+    - Manual data
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Processing otherwise than by reference to the data subject
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Payrolls and accounts
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Unincorporated members’ clubs and mailing lists
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Back-up data
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Exemption of all eligible automated data from certain requirements
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Part III Exemptions available after 23rd October 2001 but before 24th October 2007
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 14A](schedule/8/paragraph/14A.md)
+  - Part IV Exemptions after 23rd October 2001 for historical research
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Part V Exemption from section 22
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+- SCHEDULE 9 Powers of entry and inspection
+  - Issue of warrants
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Execution of warrants
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Matters exempt from inspection and seizure
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Return of warrants
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Offences
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Vessels, vehicles et ceteralaetc.
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Scotland and Northern Ireland
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Self-incrimination
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Further provisions relating to assistance under section 53
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 Educational records
+  - Meaning of “educational record”
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - England and Wales
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 4A](schedule/11/paragraph/4A.md)
+  - Scotland
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Northern Ireland
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - England and Wales: transitory provisions
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+- SCHEDULE 12 Accessible public records
+  - Meaning of “accessible public record”
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Housing and social services records: England and Wales
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Housing and social services records: Scotland
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Housing and social services records: Northern Ireland
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+- SCHEDULE 13 Modifications of Act having effect before 24th October 2007
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+- SCHEDULE 14 Transitional provisions and savings
+  - Interpretation
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Effect of registration under Part II of 1984 Act
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Rights of data subjects
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Enforcement and transfer prohibition notices served under Part V of 1984 Act
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Notices under new law relating to matters in relation to which 1984 Act had effect
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Self-incrimination, et ceteralaetc.
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Warrants issued under 1984 Act
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Complaints under section 36(2) of 1984 Act and requests for assessment under section 42
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Applications under Access to Health Records Act 1990 or corresponding Northern Ireland legislation
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Applications under regulations under Access to Personal Files Act 1987 or corresponding Northern Ireland legislation
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Applications under section 158 of Consumer Credit Act 1974
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+- SCHEDULE 15 Minor and consequential amendments
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Access to Medical Reports Act 1988 (c. 28)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Football Spectators Act 1989 (c. 37)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Education (Student Loans) Act 1990 (c. 6)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Access to Health Records Act 1990 (c. 23)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - Access to Personal Files and Medical Reports (Northern Ireland) Order 1991 (1991/1707 (N.I. 14))
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - Access to Health Records (Northern Ireland) Order 1993 (1993/1250 (N.I. 4))
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+- SCHEDULE 16 Repeals and revocations
+  - Part I Repeals
+  - Part II Revocations
