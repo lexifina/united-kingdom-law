@@ -1,0 +1,259 @@
+# Houses in Multiple Occupation Act (Northern Ireland) 2016
+
+nia/2016/22. Enacted 2016-05-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-01-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2016/22/2020-01-13
+
+## Contents
+
+- PART 1 Meaning of “house in multiple occupation”
+  - [s. 1 Meaning of “house in multiple occupation”](section/1.md)
+  - [s. 2 Definition of living accommodation](section/2.md)
+  - [s. 3 Cases where person is treated as occupying accommodation as only or main residence](section/3.md)
+  - [s. 4 Persons who are members of the same household](section/4.md)
+  - [s. 5 Notice regarding evidence of household](section/5.md)
+  - [s. 6 Notice regarding continuation of occupation](section/6.md)
+- PART 2 Licensing of Houses in multiple occupation
+  - Requirement for and issue of licences
+    - [s. 7 Requirement for HMOs to be licensed](section/7.md)
+    - [s. 8 Applications for HMO licence](section/8.md)
+    - [s. 9 Breach of planning control](section/9.md)
+    - [s. 10 Fit and proper persons](section/10.md)
+    - [s. 11 Satisfactory management arrangements](section/11.md)
+    - [s. 12 Overprovision](section/12.md)
+    - [s. 13 Suitability of living accommodation for multiple occupation](section/13.md)
+  - Licence conditions
+    - [s. 14 Licence conditions](section/14.md)
+  - Temporary exemption from licensing requirement
+    - [s. 15 Temporary exemption notice](section/15.md)
+    - [s. 16 Extension of temporary exemption notice](section/16.md)
+    - [s. 17 Safety and security requirements](section/17.md)
+    - [s. 18 Revocation of temporary exemption notice](section/18.md)
+  - Duration and renewal
+    - [s. 19 Duration of HMO licence](section/19.md)
+    - [s. 20 Renewal of licence](section/20.md)
+    - [s. 21 Application to renew: effect on existing licence](section/21.md)
+  - Variation and revocation
+    - [s. 22 Variation of licences](section/22.md)
+    - [s. 23 Revocation of licences](section/23.md)
+    - [s. 24 Variation and revocation: procedure](section/24.md)
+  - Other provision about licences
+    - [s. 25 Restriction on applications](section/25.md)
+    - [s. 26 Joint licence holders](section/26.md)
+    - [s. 27 Surrender of HMO licence](section/27.md)
+    - [s. 28 Change of ownership: effect on licence](section/28.md)
+    - [s. 29 Death of sole licence holder: effect on licence](section/29.md)
+- PART 3 Enforcement of licensing requirements
+  - Offences
+    - [s. 30 Unlicensed HMO](section/30.md)
+    - [s. 31 Exceeding licensed occupancy or breach of licence conditions](section/31.md)
+    - [s. 32 Untrue claim that HMO is licensed](section/32.md)
+    - [s. 33 Agents not named in licence](section/33.md)
+    - [s. 34 Reasonable excuse](section/34.md)
+  - Rectification of breaches of conditions
+    - [s. 35 Power to require rectification of breach of condition](section/35.md)
+    - [s. 36 Revocation of rectification notice](section/36.md)
+    - [s. 37 Failure to comply with rectification notice](section/37.md)
+  - Orders of the court: revocation and disqualification
+    - [s. 38 Revocation orders and disqualification orders](section/38.md)
+    - [s. 39 Revocations and disqualifications: appeals](section/39.md)
+    - [s. 40 Discharge of disqualification orders](section/40.md)
+- PART 4 Standards of housing
+  - CHAPTER 1 Overcrowding
+    - Definition
+      - [s. 41 Definition of overcrowding](section/41.md)
+      - [s. 42 The room standard](section/42.md)
+      - [s. 43 The space standard](section/43.md)
+    - Overcrowding notices
+      - [s. 44 Overcrowding notices](section/44.md)
+      - [s. 45 Contents of overcrowding notice](section/45.md)
+      - [s. 46 Requirement as to overcrowding generally](section/46.md)
+      - [s. 47 Requirement not to permit new residents](section/47.md)
+      - [s. 48 Notice requiring further information](section/48.md)
+      - [s. 49 Information notice: supplementary provisions](section/49.md)
+  - CHAPTER 2 Suitability for numbers in occupation
+    - [s. 50 Suitability notice](section/50.md)
+    - [s. 51 Contents of suitability notice](section/51.md)
+    - [s. 52 Occupancy requirements](section/52.md)
+    - [s. 53 Statement of remedial work](section/53.md)
+  - CHAPTER 3 Hazards
+    - [s. 54 Definition of hazard](section/54.md)
+    - [s. 55 Hazard notice](section/55.md)
+    - [s. 56 Contents of hazard notice: prohibitions](section/56.md)
+    - [s. 57 Contents of hazard notices: other matters](section/57.md)
+    - [s. 58 Works requirement](section/58.md)
+    - [s. 59 Approvals as to use of premises](section/59.md)
+  - CHAPTER 4 Further provision about notices under this Part
+    - [s. 60 Offences](section/60.md)
+    - [s. 61 Further provision](section/61.md)
+- PART 5 Supplementary
+  - HMO register
+    - [s. 62 HMO register](section/62.md)
+  - Code of practice
+    - [s. 63 Code of practice](section/63.md)
+  - Fixed penalty as alternative to prosecution
+    - [s. 64 Fixed penalty: service of notice](section/64.md)
+    - [s. 65 Fixed penalty: effect of notice](section/65.md)
+    - [s. 66 Fixed penalty: power to alter amounts](section/66.md)
+  - Appeals
+    - [s. 67 Appeals](section/67.md)
+    - [s. 68 Council’s statement of reasons for decisions which may be appealed](section/68.md)
+    - [s. 69 Powers of court on appeal](section/69.md)
+  - Information
+    - [s. 70 Powers to require information and documents: introductory](section/70.md)
+    - [s. 71 Power to obtain information from persons connected to premises](section/71.md)
+    - [s. 72 Power to require persons connected to premises to produce documents](section/72.md)
+    - [s. 73 Power to obtain information from other persons](section/73.md)
+    - [s. 74 Sharing of information between councils](section/74.md)
+    - [s. 75 Failure to provide information or provision of false information](section/75.md)
+    - [s. 76 Unauthorised disclosure of information obtained under section 73 or 74](section/76.md)
+    - [s. 77 Court to inform council of convictions](section/77.md)
+  - Powers of entry
+    - [s. 78 Powers of entry: without warrant](section/78.md)
+    - [s. 79 Powers of entry: with warrant](section/79.md)
+    - [s. 80 Powers of entry: supplementary provisions](section/80.md)
+  - Other supplementary provision
+    - [s. 81 Application by person required to take action where consent withheld](section/81.md)
+    - [s. 82 Obstructions etc](section/82.md)
+    - [s. 83 Effect of moving from accommodation for works to be carried out](section/83.md)
+  - Final provisions
+    - [s. 84 Fees](section/84.md)
+    - [s. 85 Guidance](section/85.md)
+    - [s. 86 Regulations and orders](section/86.md)
+    - [s. 87 General notices](section/87.md)
+    - [s. 88 Interpretation](section/88.md)
+    - [s. 89 Consequential amendments and repeals](section/89.md)
+    - [s. 90 Commencement](section/90.md)
+    - [s. 91 Short title](section/91.md)
+- SCHEDULE 1 Buildings or parts of buildings which are not houses in multiple occupation
+  - Buildings (or parts) which are not houses in multiple occupation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Buildings controlled or managed by public sector bodies etc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Establishments regulated by the Regulation and Quality Improvement Authority
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Buildings regulated otherwise than under this Act
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Buildings occupied by students and managed by educational establishment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Buildings occupied by religious communities
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Buildings occupied by members of the armed forces
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Prisons, etc
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Buildings occupied by owners
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Applications for HMO licences: requirements and procedure
+  - CONTENT OF APPLICATION
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PUBLICATION OF APPLICATION
+    - Regulations regarding notice of application
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Notice to statutory authorities
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Representations in response to notices
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - REFUSAL OF APPLICATION: BREACH OF PLANNING CONTROL
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - CONSIDERATION OF APPLICATION AND HEARINGS
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Notice of proposed decision
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Hearings
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Consideration of application
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Time limit for determining application
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Notice of determination
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - FALSE OR MISLEADING INFORMATION
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Further provision about notices that specify works
+  - Part 1 Provision applying to all notices that specify works
+    - Application of Part of Schedule
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Listed buildings etc
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Extension of date for completion of works
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part 2 Failure to carry out works required by rectification notice or hazard notice
+    - Application of Part of Schedule
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Carrying out of work by council
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Vacation of land or premises to allow work to be carried out
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Warrants requiring occupant to vacate land or premises
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Unlawful occupation etc
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Recovery of expenses etc from owner
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Recovery of expenses etc from other person benefiting from works
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Variation and revocation of HMO licences: procedure
+  - Notice of proposal to vary or revoke
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Notice of proposal not to vary
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Hearings
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Consideration of application
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Notice of determination
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Effective date of decision
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Part 4 notices: further provision
+  - Part 1 Service and date of effect of notices
+    - Service of notices
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Operation of notices
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part 2 Suspension of effect of notices
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part 3 Variation and revocation
+    - Variation
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Revocation
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Definitions for the purpose of section 73
+  - Gangmasters
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Utilities undertaker
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Institution of further education
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Higher education institution
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Estate agency work
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Lettings agency work
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Housing benefit
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Consequential amendments
+  - Land Registration Act (Northern Ireland) 1970
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Rates (Northern Ireland) Order 1977
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Housing (Northern Ireland) Order 1981
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Home Energy Conservation Act 1995
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Housing (Northern Ireland) Order 2003
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Fire and Rescue Services (Northern Ireland) Order 2006
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Water and Sewerage Services (Northern Ireland) Order 2006
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Repeals
