@@ -2,9 +2,11 @@
 
 2018 c. 24. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-09-13, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2020-01-18, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/24/2018-09-13
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/24
+
+Source: https://www.legislation.gov.uk/ukpga/2018/24/2020-01-18
 
 ## Contents
 
