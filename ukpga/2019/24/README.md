@@ -2,9 +2,9 @@
 
 2019 c. 24. Enacted 2019-07-24.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2020-01-20, one file per provision. Earlier versions, from 2019-07-24, are in the history before it: `git log -- ukpga/2019/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/24/enacted
+Source: https://www.legislation.gov.uk/ukpga/2019/24/2020-01-20
 
 ## Contents
 
@@ -13,15 +13,23 @@ Source: https://www.legislation.gov.uk/ukpga/2019/24/enacted
 - [s. 3 Consequential amendment](section/3.md)
 - [s. 4 Extent, commencement and short title](section/4.md)
 - SCHEDULE Inspections
-  - [Sch. paragraph 1 Appointment of inspectors](schedule/paragraph/1.md)
-  - [Sch. paragraph 2 Powers of entry](schedule/paragraph/2.md)
-  - [Sch. paragraph 3 Powers of entry](schedule/paragraph/3.md)
-  - [Sch. paragraph 4 Exercise of powers of entry](schedule/paragraph/4.md)
-  - [Sch. paragraph 5 Exercise of powers of entry](schedule/paragraph/5.md)
-  - [Sch. paragraph 6 Exercise of powers of entry](schedule/paragraph/6.md)
-  - [Sch. paragraph 7 Powers of inspection etc](schedule/paragraph/7.md)
-  - [Sch. paragraph 8 Powers of inspection etc](schedule/paragraph/8.md)
-  - [Sch. paragraph 9 Powers of seizure: supplementary](schedule/paragraph/9.md)
-  - [Sch. paragraph 10 Obstruction etc](schedule/paragraph/10.md)
-  - [Sch. paragraph 11 Liability of inspectors](schedule/paragraph/11.md)
-  - [Sch. paragraph 12 Interpretation](schedule/paragraph/12.md)
+  - Appointment of inspectors
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - Powers of entry
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - Exercise of powers of entry
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - Powers of inspection etc
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - Powers of seizure: supplementary
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+  - Obstruction etc
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - Liability of inspectors
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+  - Interpretation
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
