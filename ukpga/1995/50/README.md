@@ -1,0 +1,540 @@
+# Disability Discrimination Act 1995
+
+1995 c. 50. Enacted 1995-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-01-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/50
+
+Source: https://www.legislation.gov.uk/ukpga/1995/50/2020-01-27
+
+## Contents
+
+- Part I Disability
+  - [s. 1 Meaning of “disability” and “disabled person”.](section/1.md)
+  - [s. 2 Past disabilities.](section/2.md)
+  - [s. 3 Guidance.](section/3.md)
+- Part II THE EMPLOYMENT FIELD AND DISTRICT COUNCILS and members of locally-electable authorities
+  - Meaning of “discrimination” and “harassment”
+    - [s. 3A Meaning of “discrimination”](section/3A.md)
+    - [s. 3B Meaning of “harassment”](section/3B.md)
+  - Employment
+    - [s. 4 Discrimination against applicants and employees.](section/4.md)
+    - [s. 4A Employers: duty to make adjustments](section/4A.md)
+    - [s. 5 Meaning of “discrimination”](section/5.md)
+    - [s. 6 Duty of employer to make adjustments.](section/6.md)
+    - [s. 7 Exemption for small businesses.](section/7.md)
+  - Contract workers
+    - [s. 4B Contract workers](section/4B.md)
+  - Office-holders
+    - [s. 4C Office-holders: introductory](section/4C.md)
+    - [s. 4D Office-holders: discrimination and harassment](section/4D.md)
+    - [s. 4E Office-holders: duty to make adjustments](section/4E.md)
+    - [s. 4F Office-holders: supplementary](section/4F.md)
+  - Occupational pension schemes
+    - [s. 4G Occupational pension schemes: non-discrimination rule](section/4G.md)
+    - [s. 4H Occupational pension schemes: duty to make adjustments](section/4H.md)
+    - [s. 4I Occupational pension schemes: procedure](section/4I.md)
+    - [s. 4J Occupational pension schemes: remedies](section/4J.md)
+    - [s. 4K Occupational pension schemes: supplementary](section/4K.md)
+  - Partnerships
+    - [s. 6A Partnerships: discrimination and harassment](section/6A.md)
+    - [s. 6B Partnerships: duty to make adjustments](section/6B.md)
+    - [s. 6C Partnerships: supplementary](section/6C.md)
+  - Barristers and advocatesBarristers
+    - [s. 7A Barristers: discrimination and harassment](section/7A.md)
+    - [s. 7B Barristers: duty to make adjustments](section/7B.md)
+    - [s. 7C Advocates: discrimination and harassment](section/7C.md)
+    - [s. 7D Advocates: duty to make adjustments](section/7D.md)
+  - Enforcement etc.
+    - [s. 8 Enforcement, remedies and procedure.](section/8.md)
+    - [s. 9 Validity of certain agreements.](section/9.md)
+    - [s. 10 Charities and support for particular groups of persons.](section/10.md)
+    - [s. 11 Advertisements suggesting that employers will discriminate against disabled persons](section/11.md)
+  - Discrimination by other persons
+    - [s. 12 Discrimination against contract workers.](section/12.md)
+    - [s. 15 Appeal against refusal of exemption certificate.](section/15.md)
+  - Trade and professional bodies
+    - [s. 13 Trade organisations: discrimination and harassment](section/13.md)
+    - [s. 14 Trade organisations: duty to make adjustments](section/14.md)
+    - [s. 14A Qualifications bodies: discrimination and harassment](section/14A.md)
+    - [s. 14B Qualifications bodies: duty to make adjustments](section/14B.md)
+  - Practical work experience
+    - [s. 14C Practical work experience: discrimination and harassment](section/14C.md)
+    - [s. 14D Practical work experience: duty to make adjustments](section/14D.md)
+  - Relationships between locally-electable authorities and their membersRelationships between district councils and their members
+    - [s. 15A Interpretation of sections 15B and 15C](section/15A.md)
+    - [s. 15B Authorities and their members: discrimination and harassment](section/15B.md)
+    - [s. 15C Authorities and their members: duty to make adjustments](section/15C.md)
+  - ...
+    - [s. 16 Alterations to premises occupied under leases.](section/16.md)
+  - Other unlawful acts
+    - [s. 16A Relationships which have come to an end](section/16A.md)
+    - [s. 16B Discriminatory advertisements](section/16B.md)
+    - [s. 16C Instructions and pressure to discriminate](section/16C.md)
+  - ...
+    - [s. 17 Occupational pension schemes.](section/17.md)
+  - Enforcement etc.
+    - [s. 17A Enforcement, remedies and procedure.](section/17A.md)
+    - [s. 17B Enforcement of sections 16B(1) and 16C](section/17B.md)
+    - [s. 17C Validity of contracts, collective agreements and rules of undertakings](section/17C.md)
+  - Supplementary and general
+    - [s. 18 Insurance services.](section/18.md)
+    - [s. 18A Alterations to premises occupied under leases.](section/18A.md)
+    - [s. 18B Reasonable adjustments: supplementary](section/18B.md)
+    - [s. 18C Charities and support for particular groups of persons.](section/18C.md)
+    - [s. 18D Interpretation of Part 2](section/18D.md)
+    - [s. 18E Premises provided otherwise than in course of a Part 2 relationship](section/18E.md)
+- PART III Discrimination in Other Areas
+  - Goods, facilities and services
+    - [s. 19 Discrimination in relation to goods, facilities and services.](section/19.md)
+    - [s. 20 Meaning of “discrimination”](section/20.md)
+    - [s. 21 Duty of providers of services to make adjustments.](section/21.md)
+    - [s. 21ZA Application of sections 19 to 21 to transport vehicles](section/21ZA.md)
+    - [s. 21A Employment services](section/21A.md)
+  - Public authorities
+    - [s. 21B Discrimination by public authorities](section/21B.md)
+    - [s. 21C Exceptions from section 21B(1)](section/21C.md)
+    - [s. 21D Meaning of “discrimination” in section 21B](section/21D.md)
+    - [s. 21E Duties for purposes of section 21D(2) to make adjustments](section/21E.md)
+  - Private clubs etc.
+    - [s. 21F Discrimination by private clubs etc.](section/21F.md)
+    - [s. 21G Meaning of “discrimination”](section/21G.md)
+    - [s. 21H Duty to make adjustments](section/21H.md)
+    - [s. 21J “Member”, “associate” and “guest”](section/21J.md)
+  - Premises
+    - [s. 22 Discrimination in relation to premises.](section/22.md)
+    - [s. 22A Commonholds](section/22A.md)
+    - [s. 23 Exemption for small dwellings.](section/23.md)
+    - [s. 24 Meaning of “discrimination”.](section/24.md)
+    - [s. 24A Let premises: discrimination in failing to comply with duty](section/24A.md)
+    - [s. 24B Exceptions to section 24A(1)](section/24B.md)
+    - [s. 24C Duty for purposes of section 24A(2) to provide auxiliary aid or service](section/24C.md)
+    - [s. 24D Duty for purposes of section 24A(2) to change practices, terms etc](section/24D.md)
+    - [s. 24E Sections 24C and 24D: supplementary and interpretation](section/24E.md)
+    - [s. 24F Let premises: victimisation of persons to whom premises are let](section/24F.md)
+    - [s. 24G Premises that are to let: discrimination in failing to comply with duty](section/24G.md)
+    - [s. 24H Exceptions to section 24G(1)](section/24H.md)
+    - [s. 24J Duties for purposes of section 24G(2)](section/24J.md)
+    - [s. 24K Let premises and premises that are to let: justification](section/24K.md)
+    - [s. 24L Sections 24 to 24K: power to make supplementary provision](section/24L.md)
+    - [s. 24M Premises provisions do not apply where other provisions operate](section/24M.md)
+  - Enforcement, etc.
+    - [s. 25 Enforcement, remedies and procedure.](section/25.md)
+    - [s. 26 Validity and revision of certain agreements.](section/26.md)
+    - [s. 27 Alterations to premises occupied under leases.](section/27.md)
+    - [s. 28 Conciliation of disputes.](section/28.md)
+- Part IV Education
+  - Chapter 1 SCHOOLS
+    - Duties of responsible bodies
+      - [s. 28A Discrimination against disabled pupils and prospective pupils](section/28A.md)
+      - [s. 28B Meaning of “discrimination”](section/28B.md)
+      - [s. 28C Disabled pupils not to be substantially disadvantaged](section/28C.md)
+      - [s. 28D Accessibility strategies and plans](section/28D.md)
+      - [s. 28E Accessibility strategies and plans: procedure](section/28E.md)
+    - Residual duty of education authorities
+      - [s. 28F Duty of education authorities not to discriminate](section/28F.md)
+      - [s. 28G Residual duty: supplementary provisions](section/28G.md)
+    - Enforcement: England and Wales
+      - [s. 28H Tribunals](section/28H.md)
+      - [s. 28I Jurisdiction and powers of the Tribunal - England and Wales](section/28I.md)
+      - [s. 28IA Jurisdiction and powers of the Tribunal – Wales](section/28IA.md)
+      - [s. 28IB Case friends — Wales](section/28IB.md)
+      - [s. 28IC Advice and information — Wales](section/28IC.md)
+      - [s. 28ID Resolution of disputes — Wales](section/28ID.md)
+      - [s. 28IE Independent advocacy services — Wales](section/28IE.md)
+      - [s. 28J Procedure](section/28J.md)
+      - [s. 28JA Appeal from the Welsh Tribunal to the Upper Tribunal](section/28JA.md)
+      - [s. 28K Admissions](section/28K.md)
+      - [s. 28L Exclusions](section/28L.md)
+      - [s. 28M Roles of the Secretary of State and the Welsh Ministers](section/28M.md)
+    - Enforcement: Scotland
+      - [s. 28N Civil proceedings](section/28N.md)
+    - Agreements relating to enforcement
+      - [s. 28P Validity and revision of agreements of responsible bodies](section/28P.md)
+    - Interpretation of Chapter 1
+      - [s. 28Q Interpretation](section/28Q.md)
+  - Chapter 2 FURTHER AND HIGHER EDUCATION
+    - Duties of responsible bodies
+      - [s. 28R Discrimination against disabled students and prospective students](section/28R.md)
+      - [s. 28S Meaning of “discrimination”](section/28S.md)
+      - [s. 28SA Meaning of “harassment“](section/28SA.md)
+      - [s. 28T Responsible bodies’ duties to make adjustments](section/28T.md)
+    - Other providers of further education or training facilities
+      - [s. 28U Further education etc. provided by local authorities and schools](section/28U.md)
+    - Other unlawful acts
+      - [s. 28UA Relationships which have come to an end](section/28UA.md)
+      - [s. 28UB Instructions and pressure to discriminate](section/28UB.md)
+      - [s. 28UC Discriminatory advertisements](section/28UC.md)
+    - Enforcement, etc.
+      - [s. 28V Enforcement, remedies and procedure](section/28V.md)
+      - [s. 28W Occupation of premises by educational institutions](section/28W.md)
+      - [s. 28X Validity and revision of agreements](section/28X.md)
+      - [s. 29 Education of disabled persons.](section/29.md)
+    - Duties of funding councils
+      - [s. 30 Further and higher education of disabled persons. 1992 c.13.](section/30.md)
+      - [s. 31 Further and higher education of disabled persons: Scotland. 1992 c. 37.](section/31.md)
+    - Interpretation of Chapter 2
+      - [s. 31A Interpretation](section/31A.md)
+  - Chapter 2A General Qualifications Bodies
+    - [s. 31AA General qualifications bodies: discrimination and harassment](section/31AA.md)
+    - [s. 31AB Meaning of “discrimination”](section/31AB.md)
+    - [s. 31AC Meaning of “harassment”](section/31AC.md)
+    - [s. 31AD General qualifications bodies: duty to make adjustments](section/31AD.md)
+    - [s. 31ADA Enforcement, remedies and procedures](section/31ADA.md)
+    - [s. 31ADB Alterations to premises occupied under leases](section/31ADB.md)
+    - [s. 31AE Chapter 2A: claims, leased premises and certain agreements](section/31AE.md)
+    - [s. 31AF Chapter 2A: duty to consult before making regulations](section/31AF.md)
+  - Chapter 3 SUPPLEMENTARY
+    - [s. 31B Conciliation for disputes](section/31B.md)
+    - [s. 31C Application to Isles of Scilly](section/31C.md)
+- Part V Public Transport
+  - Taxis
+    - [s. 32 Taxi accessibility regulations.](section/32.md)
+    - [s. 33 Designated transport facilities.](section/33.md)
+    - [s. 34 New licences conditional on compliance with taxi accessibility regulations.](section/34.md)
+    - [s. 35 Exemption from taxi accessibility regulations.](section/35.md)
+    - [s. 36 Carrying of passengers in wheelchairs.](section/36.md)
+    - [s. 36A List of wheelchair-accessible vehicles providing local services](section/36A.md)
+    - [s. 37 Carrying of guide dogs and hearing dogs.](section/37.md)
+    - [s. 37A Carrying of assistance dogs in private hire vehicles](section/37A.md)
+    - [s. 38 AppealsAppeal against refusal of exemption certificate](section/38.md)
+    - [s. 39 Requirements as to disabled passengers in Scotland.](section/39.md)
+  - Public service vehicles
+    - [s. 40 PSV accessibility regulations.](section/40.md)
+    - [s. 41 Accessibility certificates.](section/41.md)
+    - [s. 42 Approval certificates.](section/42.md)
+    - [s. 43 Special authorisations.](section/43.md)
+    - [s. 44 Reviews and appeals.](section/44.md)
+    - [s. 45 Fees.](section/45.md)
+  - Rail vehicles
+    - [s. 46 Rail vehicle accessibility regulations.](section/46.md)
+    - [s. 47 Exemption from rail vehicle accessibility regulations.](section/47.md)
+    - [s. 47A Rail vehicle accessibility compliance certificates](section/47A.md)
+    - [s. 47B Rail vehicle accessibility compliance certificates: supplementary](section/47B.md)
+    - [s. 47C Rail vehicle accessibility compliance certificates: fees](section/47C.md)
+    - [s. 47D Penalty for using rail vehicle without accessibility compliance certificate](section/47D.md)
+    - [s. 47E Penalty for using rail vehicle that does not conform with accessibility regulations](section/47E.md)
+    - [s. 47F Penalty for using rail vehicle otherwise than in conformity with accessibility regulations](section/47F.md)
+    - [s. 47G Sections 47E and 47F: inspection of rail vehicles](section/47G.md)
+    - [s. 47H Sections 47E and 47F: supplementary powers](section/47H.md)
+    - [s. 47J Penalties under sections 47D to 47H: amount, due date and recovery](section/47J.md)
+    - [s. 47K Penalties under sections 47D to 47H: procedure](section/47K.md)
+    - [s. 47L Penalties under sections 47D to 47H: appeals](section/47L.md)
+    - [s. 47M Sections 46 to 47H: interpretation](section/47M.md)
+  - Supplemental
+    - [s. 48 Offences by bodies corporate etc.](section/48.md)
+    - [s. 49 Forgery and false statements.](section/49.md)
+- Part 5A Public authorities
+  - [s. 49A General duty](section/49A.md)
+  - [s. 49B Meaning of “public authority” in Part 5A](section/49B.md)
+- Part 5B Improvements to dwelling houses
+  - [s. 49C Exceptions from section 49A(1)](section/49C.md)
+  - [s. 49D Power to impose specific duties](section/49D.md)
+  - [s. 49E Duties under section 49D: compliance notices](section/49E.md)
+  - [s. 49F Enforcement of compliance notices](section/49F.md)
+  - [s. 49G Improvements to let dwelling houses](section/49G.md)
+  - [s. 49H Conciliation of disputes](section/49H.md)
+  - [s. 49I Conciliation of disputes: rented housing in Scotland](section/49I.md)
+- Part VI The National Disability Council
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 Codes of practice prepared by the Council.](section/51.md)
+  - [s. 52 Further provision about codes issued under section 51.](section/52.md)
+- Part VII Supplemental
+  - [s. 53A Codes of practice.](section/53A.md)
+  - [s. 54A Codes of practice.](section/54A.md)
+  - [s. 53 Codes of practice prepared by the Secretary of State.](section/53.md)
+  - [s. 54 Further provision about codes issued under section 53.](section/54.md)
+  - [s. 55 Victimisation.](section/55.md)
+  - [s. 56 Help for aggrieved persons in obtaining information etc.](section/56.md)
+  - [s. 57 Aiding unlawful acts.](section/57.md)
+  - [s. 58 Liability of employers and principals.](section/58.md)
+  - [s. 59 Statutory authority and national security etc.](section/59.md)
+  - [s. 59A National security](section/59A.md)
+- Part VIII Miscellaneous
+  - [s. 60 Appointment by Secretary of State of advisers.](section/60.md)
+  - [s. 61 Amendment of Disabled Persons (Employment) Act 1944.](section/61.md)
+  - [s. 62 ................................](section/62.md)
+  - [s. 63 Restriction of publicity: Employment Appeal Tribunal.](section/63.md)
+  - [s. 64 Application to Crown etc.](section/64.md)
+  - [s. 64A Police](section/64A.md)
+  - [s. 64B Other police bodies](section/64B.md)
+  - [s. 65 Application to Parliament.](section/65.md)
+  - [s. 66 Government appointments outside Part II.](section/66.md)
+  - [s. 67 Regulations and orders.](section/67.md)
+  - [s. 67A Exercise of discretion under section 67(5A)](section/67A.md)
+  - [s. 67B Annual report on rail vehicle exemption orders](section/67B.md)
+  - [s. 68 Interpretation.](section/68.md)
+  - [s. 69 Financial provisions.](section/69.md)
+  - [s. 70 Short title, commencement, extent etc.](section/70.md)
+- SCHEDULE 1 Provisions Supplementing Section 1
+  - Impairment
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Long-term effects
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Severe disfigurement
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Normal day-to-day activities
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Substantial adverse effects
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Effect of medical treatment
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Persons deemed to be disabled
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Progressive conditions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Interpretation
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Past Disabilities
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - [Sch. 2 para. 2B](schedule/2/paragraph/2B.md)
+  - [Sch. 2 para. 2C](schedule/2/paragraph/2C.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 4ZA](schedule/2/paragraph/4ZA.md)
+  - [Sch. 2 para. 4ZB](schedule/2/paragraph/4ZB.md)
+  - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - [Sch. 2 para. 4B](schedule/2/paragraph/4B.md)
+  - [Sch. 2 para. 4C](schedule/2/paragraph/4C.md)
+  - [Sch. 2 para. 4D](schedule/2/paragraph/4D.md)
+  - [Sch. 2 para. 4E](schedule/2/paragraph/4E.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Sections 17A(8) and 25(6), 31ADA Enforcement and Procedure
+  - Part I Employment
+    - Conciliation
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Restriction on proceedings for breach of Part II
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Period within which proceedings must be brought
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Evidence
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part II Discrimination in Other Areas
+    - Restriction on proceedings for breach of Part III
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Period within which proceedings must be brought
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Staying or sisting proceedings on section 21B claim affecting criminal mattersStaying proceedings on section 21B claim affecting criminal matters
+      - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+    - Restriction of remedies for section 21B claim relating to criminal matters
+      - [Sch. 3 para. 6B](schedule/3/paragraph/6B.md)
+    - Compensation for injury to feelings
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Evidence
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part 3 DISCRIMINATION IN SCHOOLS
+    - [Sch. 3 para. 9 Restriction on proceedings for breach of Part 4, Chapter 1](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Period within which proceedings must be brought](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Evidence](schedule/3/paragraph/11.md)
+  - Part 4 DISCRIMINATION IN FURTHER AND HIGHER EDUCATION INSTITUTIONS
+    - [Sch. 3 para. 12 Restriction on proceedings for breach of Part 4, Chapter 2](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Period within which proceedings must be brought](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 Compensation for injury to feelings](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Evidence](schedule/3/paragraph/15.md)
+  - Part 5 Discrimination in General Qualifications Bodies
+    - Restriction on proceedings for breach of Part 4, Chapter 2A
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Period within which proceedings must be brought
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Evidence
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 3A VALIDITY OF CONTRACTS, COLLECTIVE AGREEMENTS AND RULES OF UNDERTAKINGS
+  - PART I validity and revision of contracts
+    - [Sch. 3A Pt. I para. 1](schedule/3A/part/I/paragraph/1.md)
+    - [Sch. 3A Pt. I para. 2](schedule/3A/part/I/paragraph/2.md)
+    - [Sch. 3A Pt. I para. 3](schedule/3A/part/I/paragraph/3.md)
+  - PART II collective agreements and rules of undertakings
+    - [Sch. 3A Pt. II para. 4](schedule/3A/part/II/paragraph/4.md)
+    - [Sch. 3A Pt. II para. 5](schedule/3A/part/II/paragraph/5.md)
+    - [Sch. 3A Pt. II para. 6](schedule/3A/part/II/paragraph/6.md)
+    - [Sch. 3A Pt. II para. 7](schedule/3A/part/II/paragraph/7.md)
+    - [Sch. 3A Pt. II para. 8](schedule/3A/part/II/paragraph/8.md)
+    - [Sch. 3A Pt. II para. 9](schedule/3A/part/II/paragraph/9.md)
+  - PART III interpretation
+    - [Sch. 3A Pt. III para. 10](schedule/3A/part/III/paragraph/10.md)
+    - [Sch. 3A Pt. III para. 11](schedule/3A/part/III/paragraph/11.md)
+    - [Sch. 3A Pt. III para. 12](schedule/3A/part/III/paragraph/12.md)
+- SCHEDULE 3A VALIDITY OF CONTRACTS, COLLECTIVE AGREEMENTS AND RULES OF UNDERTAKINGS
+  - Part 1 VALIDITY AND REVISION OF CONTRACTS
+    - [Sch. n3A Sch. 3A Pt. 1 Sch. 3A para. 1](schedule/n3A/schedule/3A/part/1/schedule/3A/paragraph/1.md)
+    - [Sch. n3A Sch. 3A Pt. 1 Sch. 3A para. 2](schedule/n3A/schedule/3A/part/1/schedule/3A/paragraph/2.md)
+    - [Sch. n3A Sch. 3A Pt. 1 Sch. 3A para. 3](schedule/n3A/schedule/3A/part/1/schedule/3A/paragraph/3.md)
+  - Part 2 COLLECTIVE AGREEMENTS AND RULES OF UNDERTAKINGS
+    - [Sch. n3A Sch. 3A Pt. 2 Sch. 3A para. 4](schedule/n3A/schedule/3A/part/2/schedule/3A/paragraph/4.md)
+    - [Sch. n3A Sch. 3A Pt. 2 Sch. 3A para. 5](schedule/n3A/schedule/3A/part/2/schedule/3A/paragraph/5.md)
+    - [Sch. n3A Sch. 3A Pt. 2 Sch. 3A para. 6](schedule/n3A/schedule/3A/part/2/schedule/3A/paragraph/6.md)
+    - [Sch. n3A Sch. 3A Pt. 2 Sch. 3A para. 7](schedule/n3A/schedule/3A/part/2/schedule/3A/paragraph/7.md)
+    - [Sch. n3A Sch. 3A Pt. 2 Sch. 3A para. 8](schedule/n3A/schedule/3A/part/2/schedule/3A/paragraph/8.md)
+    - [Sch. n3A Sch. 3A Pt. 2 Sch. 3A para. 9](schedule/n3A/schedule/3A/part/2/schedule/3A/paragraph/9.md)
+  - Part 3 INTERPRETATION
+    - [Sch. n3A Sch. 3A Pt. 3 Sch. 3A para. 10](schedule/n3A/schedule/3A/part/3/schedule/3A/paragraph/10.md)
+    - [Sch. n3A Sch. 3A Pt. 3 Sch. 3A para. 11](schedule/n3A/schedule/3A/part/3/schedule/3A/paragraph/11.md)
+    - [Sch. n3A Sch. 3A Pt. 3 Sch. 3A para. 12](schedule/n3A/schedule/3A/part/3/schedule/3A/paragraph/12.md)
+- SCHEDULE 4 Premises Occupied Under Leases
+  - Part I Occupation by EMPLOYER etc
+    - Failure to obtain consent to alteration
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Joining lessors in proceedings under section 17A...
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Regulations
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Sub-leases etc.
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part II Occupation by persons subject to a duty under section 21, 21E or 21H
+    - Failure to obtain consent to alteration
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Reference to court
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Joining lessors in proceedings under section 25
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Joining lessors in proceedings relating to group insurance or employment services
+      - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+    - Regulations
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Sub-leases etc.
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part 3 OCCUPATION BY EDUCATIONAL INSTITUTIONS
+    - [Sch. 4 para. 10 Failure to obtain consent](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Reference to court](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Joining lessors in proceedings under section 28V](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Regulations](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Sub-leases etc.](schedule/4/paragraph/14.md)
+  - PART 4 Occupation by General Qualifications Bodies
+    - Failure to obtain consent to alteration
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Reference to court
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Joining lessors in proceedings under section 31ADA
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+- SCHEDULE 4A RESPONSIBLE BODIES FOR SCHOOLS
+  - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+- SCHEDULE 4B RESPONSIBLE BODIES FOR EDUCATIONAL INSTITUTIONS
+  - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+  - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+- SCHEDULE 4C MODIFICATIONS OF CHAPTER 2 OF PART 4
+  - Part 1 Modifications for England and Wales – Further Education, etc Provided by Local Authorities
+    - [Sch. 4C para. 1](schedule/4C/paragraph/1.md)
+    - [Sch. 4C para. 2](schedule/4C/paragraph/2.md)
+    - [Sch. 4C para. 3](schedule/4C/paragraph/3.md)
+    - [Sch. 4C para. 4](schedule/4C/paragraph/4.md)
+    - [Sch. 4C para. 5](schedule/4C/paragraph/5.md)
+  - Part 1A Modifications for England and Wales – Further Education Provided by Schools, etc
+    - [Sch. 4C para. 6](schedule/4C/paragraph/6.md)
+    - [Sch. 4C para. 7](schedule/4C/paragraph/7.md)
+    - [Sch. 4C para. 8](schedule/4C/paragraph/8.md)
+    - [Sch. 4C para. 9](schedule/4C/paragraph/9.md)
+    - [Sch. 4C para. 10](schedule/4C/paragraph/10.md)
+    - [Sch. 4C para. 11](schedule/4C/paragraph/11.md)
+    - [Sch. 4C para. 12](schedule/4C/paragraph/12.md)
+  - Part 2 Modifications for Scotland – Further Education
+    - [Sch. 4C para. 13](schedule/4C/paragraph/13.md)
+    - [Sch. 4C para. 14](schedule/4C/paragraph/14.md)
+    - [Sch. 4C para. 15](schedule/4C/paragraph/15.md)
+    - [Sch. 4C para. 16](schedule/4C/paragraph/16.md)
+    - [Sch. 4C para. 17](schedule/4C/paragraph/17.md)
+  - Part 2A Modifications for Scotland – Recreational or Training Facilities
+    - [Sch. 4C para. 18](schedule/4C/paragraph/18.md)
+    - [Sch. 4C para. 19](schedule/4C/paragraph/19.md)
+    - [Sch. 4C para. 20](schedule/4C/paragraph/20.md)
+    - [Sch. 4C para. 21](schedule/4C/paragraph/21.md)
+    - [Sch. 4C para. 22](schedule/4C/paragraph/22.md)
+    - [Sch. 4C para. 23](schedule/4C/paragraph/23.md)
+    - [Sch. 4C para. 24](schedule/4C/paragraph/24.md)
+- SCHEDULE 5 The National Disability Council
+  - Status
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Procedure
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Membership
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Term of office of members
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Remuneration
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Staff
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Supplementary regulation-making power
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Annual report
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Consequential Amendments
+  - Employment and Training Act 1973 (c. 50)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Enterprise and New Towns (Scotland) Act 1990 (c. 35)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Repeals
+- SCHEDULE 8 Modifications of this Act in its application to Northern Ireland
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - [Sch. 8 para. 21A](schedule/8/paragraph/21A.md)
+  - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+  - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+  - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+  - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+  - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+  - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+  - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+  - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+  - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+  - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
