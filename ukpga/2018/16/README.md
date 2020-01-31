@@ -2,14 +2,17 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-01-30, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-01-31, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-01-30
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-01-31
 
 ## Contents
 
 - Repeal of the ECA
   - [s. 1 Repeal of the European Communities Act 1972](section/1.md)
+- Savings for implementation period
+  - [s. 1A Saving for ECA for implementation period](section/1A.md)
+  - [s. 1B Saving for EU-derived domestic legislation for implementation period](section/1B.md)
 - Retention of existing EU law
   - [s. 2 Saving for EU-derived domestic legislation](section/2.md)
   - [s. 3 Incorporation of direct EU legislation](section/3.md)
@@ -17,6 +20,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-01-30
   - [s. 5 Exceptions to savings and incorporation](section/5.md)
   - [s. 6 Interpretation of retained EU law](section/6.md)
   - [s. 7 Status of retained EU law](section/7.md)
+- Further aspects of withdrawal
+  - [s. 7A General implementation of remainder of withdrawal agreement](section/7A.md)
+  - [s. 7B General implementation of EEA EFTA and Swiss agreements](section/7B.md)
+  - [s. 7C Interpretation of relevant separation agreement law](section/7C.md)
 - Main powers in connection with withdrawal
   - [s. 8 Dealing with deficiencies arising from withdrawal](section/8.md)
   - [s. 8A Supplementary power in connection with implementation period](section/8A.md)
@@ -25,7 +32,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-01-30
   - [s. 10 Continuation of North-South co-operation and the prevention of new border arrangements](section/10.md)
   - [s. 11 Powers involving devolved authorities corresponding to sections 8 to 8C](section/11.md)
   - [s. 12 Retaining EU restrictions in devolution legislation etc.](section/12.md)
-- Parliamentary approval of outcome of EU negotiations
+- Parliamentary oversight of withdrawal
   - [s. 13 Parliamentary approval of the outcome of negotiations with the EU](section/13.md)
   - [s. 13A Review of EU legislation during implementation period](section/13A.md)
 - Financial and other matters
