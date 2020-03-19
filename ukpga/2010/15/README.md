@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-12-02, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-03-19, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2019-12-02
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-03-19
 
 ## Contents
 
@@ -725,6 +725,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2019-12-02
     - Ministers of the Crown and government departments
     - Armed forces
     - Broadcasting
+    - Citizens’ rights
     - Civil liberties
     - Court services and legal services
     - Criminal justice
