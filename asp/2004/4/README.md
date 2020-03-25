@@ -1,0 +1,140 @@
+# Education (Additional Support for Learning) (Scotland) Act 2004
+
+asp/2004/4. Enacted 2004-05-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-03-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2004/4/2020-03-25
+
+## Contents
+
+- Main definitions
+  - [s. 1 Additional support needs](section/1.md)
+  - [s. 2 Co-ordinated support plans](section/2.md)
+  - [s. 3 Children and young persons: capacity](section/3.md)
+  - [s. 3A Children: assessment of capacity, etc.](section/3A.md)
+  - [s. 3B Assessment of wellbeing](section/3B.md)
+  - [s. 3C Rights of parents of children aged 12 or over](section/3C.md)
+- General powers and duties
+  - [s. 4 Duties of education authority in relation to children and young persons for whom they are responsible](section/4.md)
+  - [s. 5 General functions of education authority in relation to additional support needs](section/5.md)
+- Establishment of additional support needs and need for co-ordinated support plan
+  - [s. 6 Children and young persons for whom education authority are responsible](section/6.md)
+  - [s. 7 Other children and young persons](section/7.md)
+  - [s. 8 Assessments and examinations](section/8.md)
+  - [s. 8A Assessments and examinations: further provision](section/8A.md)
+- Co-ordinated support plans
+  - [s. 9 Duty to prepare co-ordinated support plans](section/9.md)
+  - [s. 10 Reviews of co-ordinated support plans](section/10.md)
+  - [s. 11 Co-ordinated support plans: further provision](section/11.md)
+- Exchange of information
+  - [s. 12 Duties to seek and take account of views, advice and information](section/12.md)
+  - [s. 13 Provision of information etc. on occurrence of certain events](section/13.md)
+- Supporters and advocacy
+  - [s. 14 Supporters and advocacy](section/14.md)
+  - [s. 14A Provision of advocacy service: First-tier Tribunal](section/14A.md)
+- Mediation and dispute resolution
+  - [s. 15 Mediation services](section/15.md)
+  - [s. 16 Dispute resolution](section/16.md)
+- Appeals
+  - [s. 17 Additional Support Needs Tribunals for Scotland](section/17.md)
+  - [s. 18 References to the First-tier Tribunal](section/18.md)
+  - [s. 19 Powers of First-tier Tribunal in relation to reference](section/19.md)
+  - [s. 20 References to First-tier Tribunal and powers of First-tier Tribunal: further provision](section/20.md)
+  - [s. 21 Appeal to Court of Session against Tribunal decision](section/21.md)
+- Placing requests
+  - [s. 22 Placing requests](section/22.md)
+- Miscellaneous
+  - [s. 23 Other agencies etc. to help in exercise of functions under this Act](section/23.md)
+  - [s. 24 Power to prescribe standards etc. for special schools](section/24.md)
+  - [s. 25 Attendance at establishments outwith the United Kingdom](section/25.md)
+  - [s. 26 Publication of information by education authority](section/26.md)
+  - [s. 26A Availability of information on additional support needs](section/26A.md)
+  - [s. 27 Code of practice and directions](section/27.md)
+  - [s. 27A Collection of data on additional support needs](section/27A.md)
+- General
+  - [s. 28 Requests under this Act: further provision](section/28.md)
+  - [s. 29 Interpretation](section/29.md)
+  - [s. 30 Transitional provision: recorded children and young persons](section/30.md)
+  - [s. 31 Duty to inform in writing or alternative permanent form](section/31.md)
+  - [s. 31A Provision of support service](section/31A.md)
+  - [s. 32 Ancillary provision](section/32.md)
+  - [s. 33 Modification of enactments](section/33.md)
+  - [s. 34 Orders, regulations and rules](section/34.md)
+  - [s. 35 Commencement and short title](section/35.md)
+- SCHEDULE 1 Additional Support Needs Tribunals for Scotland
+  - Iterpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The President
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The panels
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Constitution of Tribunals
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Terms of Office
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Removal from office
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Allowances for Tribunal members
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Administration of Tribunal functions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Staff,property and services
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Finance
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Rules of procedure
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 11A Power to monitor implementation of Tribunal decisions](schedule/1/paragraph/11A.md)
+  - Practice directions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Evidence
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Decisions of a Tribunal
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Annual report
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Disclosure of information
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Allowances etc,for attendance at hearings and preparation of reports
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Children and young persons with additional support needs: placing requests
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Duty to comply with placing requests
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Circumstances in which duty does not apply
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Placing requests: further provision
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Reference to appeal committee of refusal of placing request
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - References to appeal committees: suplementary provisions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Appeal to sherrif from appeal committee
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Young persons having additional support needs
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Modification of enactments
+  - Teaching Council (Scotland) Act 1965 (c.19)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - National Health Service (Scotland) Act 1978 (c.29)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Education (Scotland) Act 1980 (c.44)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Education (Scotland) Act 1981 (c.58)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Self-Governing Schoolsetc. (Scotland) Act 1989 (c.39)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Further and Higher Education(Scotland) Act 1992 (c.37)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Children (Scotland) Act 1995 (c.36)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Education (Scotland) Act 1996 (c.43)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Standards in Scotland’s Schools etc. Act 2000 (asp 6)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
