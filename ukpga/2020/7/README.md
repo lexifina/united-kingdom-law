@@ -2,11 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2020-03-25, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
-
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2026-09-17
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-03-25
 
 ## Contents
 
@@ -247,8 +245,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2026-09-17
       - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
       - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
 - SCHEDULE 8 Mental health: England and Wales
-  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
-  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - PART 1 Introductory provision etc
+    - Interpretation
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Forms
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
   - PART 2 Modifications of the Mental Health Act 1983 and related provision
     - Applications for compulsory admission to hospital for assessment or treatment
       - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
@@ -315,8 +316,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2026-09-17
     - The Mental Health (Conflict of Interest) (Scotland) Regulations 2017 (SSI 2017/174)
       - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
 - SCHEDULE 10 Mental health: Northern Ireland
-  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - PART 1 Introductory provision etc
+    - Interpretation
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Prescribed forms
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
   - PART 2 Modifications of the Mental Health (Northern Ireland) Order 1986
     - Applications for compulsory admission to hospital for assessment
       - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
@@ -427,22 +431,32 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2026-09-17
       - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
     - Guidance
       - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - PART 2 Powers and duties of local authorities in Wales
+    - Introductory
       - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - Assessing needs for care and support
       - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
       - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
       - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
       - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
       - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - Duty to carry out financial assessment
       - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - Duties to meet needs for care and support
       - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
       - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
       - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
       - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - Charging for meeting needs during emergency period
       - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - Care and support plans etc
       - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - Portability of care and support
       - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
       - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - Duties arising before commencement
       - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - Guidance
       - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
 - SCHEDULE 13 Registration of deaths and still-births
   - PART 1 England and Wales
@@ -932,8 +946,6 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2026-09-17
       - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
     - Serious Organised Crime and Police Act 2005
       - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
-    - Sentencing Code
-      - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
 - SCHEDULE 25 Public participation in proceedings conducted by video or audio
   - Criminal, civil and family proceedings
     - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
