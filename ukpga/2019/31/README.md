@@ -2,9 +2,9 @@
 
 2019 c. 31. Enacted 2019-11-05.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-11-05, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2020-03-27, one file per provision. Earlier versions, from 2019-11-05, are in the history before it: `git log -- ukpga/2019/31` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/31/2019-11-05
+Source: https://www.legislation.gov.uk/ukpga/2019/31/2020-03-27
 
 ## Contents
 
