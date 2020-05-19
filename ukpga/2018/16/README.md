@@ -2,9 +2,9 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-04-30, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-05-19, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-04-30
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-05-19
 
 ## Contents
 
@@ -27,6 +27,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-04-30
 - Main powers in connection with withdrawal
   - [s. 8 Dealing with deficiencies arising from withdrawal](section/8.md)
   - [s. 8A Supplementary power in connection with implementation period](section/8A.md)
+  - [s. 8B Power in connection with certain other separation issues](section/8B.md)
+  - [s. 8C Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement](section/8C.md)
   - [s. 9 Implementing the withdrawal agreement](section/9.md)
 - Devolution
   - [s. 10 Continuation of North-South co-operation and the prevention of new border arrangements](section/10.md)
@@ -90,6 +92,20 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-04-30
     - [Sch. 2 para. 11D Meaning of devolved competence: Part 1A](schedule/2/paragraph/11D.md)
     - [Sch. 2 para. 11E Meaning of devolved competence: Part 1A](schedule/2/paragraph/11E.md)
     - [Sch. 2 para. 11F Meaning of devolved competence: Part 1A](schedule/2/paragraph/11F.md)
+  - PART 1B Provision in connection with certain other separation issues
+    - [Sch. 2 para. 11G Powers in connection with Part 3 of withdrawal agreement and EEA EFTA separation agreement](schedule/2/paragraph/11G.md)
+    - [Sch. 2 para. 11H No power to make provision outside devolved competence](schedule/2/paragraph/11H.md)
+    - [Sch. 2 para. 11I Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11I.md)
+    - [Sch. 2 para. 11J Meaning of devolved competence: Part 1B](schedule/2/paragraph/11J.md)
+    - [Sch. 2 para. 11K Meaning of devolved competence: Part 1B](schedule/2/paragraph/11K.md)
+    - [Sch. 2 para. 11L Meaning of devolved competence: Part 1B](schedule/2/paragraph/11L.md)
+  - PART 1C Provision in connection with Protocol on Ireland/Northern Ireland
+    - [Sch. 2 para. 11M Power in connection with Protocol on Ireland/Northern Ireland](schedule/2/paragraph/11M.md)
+    - [Sch. 2 para. 11N No power to make provision outside devolved competence](schedule/2/paragraph/11N.md)
+    - [Sch. 2 para. 11O Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11O.md)
+    - [Sch. 2 para. 11P Meaning of devolved competence: Part 1C](schedule/2/paragraph/11P.md)
+    - [Sch. 2 para. 11Q Meaning of devolved competence: Part 1C](schedule/2/paragraph/11Q.md)
+    - [Sch. 2 para. 11R Meaning of devolved competence: Part 1C](schedule/2/paragraph/11R.md)
   - Part 2 Implementing the withdrawal agreement
     - Power to implement withdrawal agreement
       - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
@@ -251,6 +267,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-04-30
   - Part 2 Scrutiny of other powers under Act
     - Power to enable challenges to validity of retained EU law
       - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Power in relation to interpretation of retained EU law
+      - [Sch. 7 para. 9A](schedule/7/paragraph/9A.md)
     - ...
       - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
     - Power to repeal provisions relating to retained EU law restrictions
