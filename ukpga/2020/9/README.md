@@ -2,9 +2,9 @@
 
 2020 c. 9. Enacted 2020-06-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2020-06-08, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/9/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2020/9/2020-06-08
 
 ## Contents
 
