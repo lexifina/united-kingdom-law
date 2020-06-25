@@ -2,11 +2,9 @@
 
 2020 c. 12. Enacted 2020-06-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-02-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/12
-
-Source: https://www.legislation.gov.uk/ukpga/2020/12/2022-02-14
+Source: https://www.legislation.gov.uk/ukpga/2020/12/enacted
 
 ## Contents
 
@@ -75,391 +73,259 @@ Source: https://www.legislation.gov.uk/ukpga/2020/12/2022-02-14
 - SCHEDULE 1 Moratoriums in Great Britain: eligible companies
 - SCHEDULE 2 Moratoriums in Great Britain: contracts involving financial services
 - SCHEDULE 3 Moratoriums in Great Britain: further amendments
-  - Insolvency Act 1986
-    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
-    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
-    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
-    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
-    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
-    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
-    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
-    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
-    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
-    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
-    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
-    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
-    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
-    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
-    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
-    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
-    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
-    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
-    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
-    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
-    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
-    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
-    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
-    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
-    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
-    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
-    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
-    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
-    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
-    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
-    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
-    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
-  - Building Societies Act 1986
-    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
-  - The Financial Markets and Insolvency (Settlement Finality) Regulations 1999
-    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
-  - Limited Liability Partnerships Act 2000
-    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
-    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
-  - The Limited Liability Partnerships Regulations 2001
-    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
-  - The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
-    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
-  - The Financial Collateral Arrangements (No.2) Regulations 2003
-    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
-  - The Insolvency Practitioners Regulations 2005
-    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
-  - Banking Act 2009
-    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
-  - Charities Act 2011
-    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
-    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
-    - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
-  - The Investment Bank Special Administration Regulations 2011
-    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
-    - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
-    - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
-  - The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012
-    - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
-  - Co-operative and Community Benefit Societies Act 2014
-    - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
-    - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
-    - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
-    - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
-  - The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)
-    - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
-  - The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015
-    - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+  - [Sch. 3 para. 1 Insolvency Act 1986](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Insolvency Act 1986](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Insolvency Act 1986](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Insolvency Act 1986](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Insolvency Act 1986](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Insolvency Act 1986](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Insolvency Act 1986](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Insolvency Act 1986](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Insolvency Act 1986](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Insolvency Act 1986](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Insolvency Act 1986](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Insolvency Act 1986](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13 Insolvency Act 1986](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14 Insolvency Act 1986](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15 Insolvency Act 1986](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16 Insolvency Act 1986](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17 Insolvency Act 1986](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18 Insolvency Act 1986](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19 Insolvency Act 1986](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20 Insolvency Act 1986](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21 Insolvency Act 1986](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22 Insolvency Act 1986](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23 Insolvency Act 1986](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24 Insolvency Act 1986](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25 Insolvency Act 1986](schedule/3/paragraph/25.md)
+  - [Sch. 3 para. 26 Insolvency Act 1986](schedule/3/paragraph/26.md)
+  - [Sch. 3 para. 27 Insolvency Act 1986](schedule/3/paragraph/27.md)
+  - [Sch. 3 para. 28 Insolvency Act 1986](schedule/3/paragraph/28.md)
+  - [Sch. 3 para. 29 Insolvency Act 1986](schedule/3/paragraph/29.md)
+  - [Sch. 3 para. 30 Insolvency Act 1986](schedule/3/paragraph/30.md)
+  - [Sch. 3 para. 31 Insolvency Act 1986](schedule/3/paragraph/31.md)
+  - [Sch. 3 para. 32 Insolvency Act 1986](schedule/3/paragraph/32.md)
+  - [Sch. 3 para. 33 Insolvency Act 1986](schedule/3/paragraph/33.md)
+  - [Sch. 3 para. 34 Building Societies Act 1986](schedule/3/paragraph/34.md)
+  - [Sch. 3 para. 35 The Financial Markets and Insolvency (Settlement Finality) Regulations 1999](schedule/3/paragraph/35.md)
+  - [Sch. 3 para. 36 Limited Liability Partnerships Act 2000](schedule/3/paragraph/36.md)
+  - [Sch. 3 para. 37 Limited Liability Partnerships Act 2000](schedule/3/paragraph/37.md)
+  - [Sch. 3 para. 38 The Limited Liability Partnerships Regulations 2001](schedule/3/paragraph/38.md)
+  - [Sch. 3 para. 39 The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001](schedule/3/paragraph/39.md)
+  - [Sch. 3 para. 40 The Financial Collateral Arrangements (No.2) Regulations 2003](schedule/3/paragraph/40.md)
+  - [Sch. 3 para. 41 The Insolvency Practitioners Regulations 2005](schedule/3/paragraph/41.md)
+  - [Sch. 3 para. 42 Banking Act 2009](schedule/3/paragraph/42.md)
+  - [Sch. 3 para. 43 Charities Act 2011](schedule/3/paragraph/43.md)
+  - [Sch. 3 para. 44 Charities Act 2011](schedule/3/paragraph/44.md)
+  - [Sch. 3 para. 45 Charities Act 2011](schedule/3/paragraph/45.md)
+  - [Sch. 3 para. 46 The Investment Bank Special Administration Regulations 2011](schedule/3/paragraph/46.md)
+  - [Sch. 3 para. 47 The Investment Bank Special Administration Regulations 2011](schedule/3/paragraph/47.md)
+  - [Sch. 3 para. 48 The Investment Bank Special Administration Regulations 2011](schedule/3/paragraph/48.md)
+  - [Sch. 3 para. 49 The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012](schedule/3/paragraph/49.md)
+  - [Sch. 3 para. 50 Co-operative and Community Benefit Societies Act 2014](schedule/3/paragraph/50.md)
+  - [Sch. 3 para. 51 Co-operative and Community Benefit Societies Act 2014](schedule/3/paragraph/51.md)
+  - [Sch. 3 para. 52 Co-operative and Community Benefit Societies Act 2014](schedule/3/paragraph/52.md)
+  - [Sch. 3 para. 53 Co-operative and Community Benefit Societies Act 2014](schedule/3/paragraph/53.md)
+  - [Sch. 3 para. 54 The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](schedule/3/paragraph/54.md)
+  - [Sch. 3 para. 55 The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015](schedule/3/paragraph/55.md)
 - SCHEDULE 4 Moratoriums in Great Britain: temporary provision
   - PART 1 “Relevant period” and powers to turn off temporary provision
-    - “Relevant period”
-      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
-    - Power to turn off particular provisions of Part 2 of this Schedule early
-      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
-    - Power to turn off provisions of Parts 3 and 4 of this Schedule early etc
-      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
-      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 1 “Relevant period”](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Power to turn off particular provisions of Part 2 of this Schedule early](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Power to turn off provisions of Parts 3 and 4 of this Schedule early etc](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Power to turn off provisions of Parts 3 and 4 of this Schedule early etc](schedule/4/paragraph/4.md)
   - PART 2 Modifications to primary legislation
-    - “Eligible” company: additional exclusion
-      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
-    - Relaxation of conditions for obtaining moratorium etc
-      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
-      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
-    - Relaxation of conditions for extending moratorium obtained during relevant period
-      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
-    - Monitoring of moratorium obtained during relevant period
-      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
-    - Termination of moratorium obtained during relevant period
-      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
-    - “Coronavirus”
-      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 5 “Eligible” company: additional exclusion](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Relaxation of conditions for obtaining moratorium etc](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Relaxation of conditions for obtaining moratorium etc](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Relaxation of conditions for extending moratorium obtained during relevant period](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Monitoring of moratorium obtained during relevant period](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Termination of moratorium obtained during relevant period](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 “Coronavirus”](schedule/4/paragraph/11.md)
   - PART 3 Temporary rules: England and Wales
-    - Introductory
-      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
-    - Definition of “the court”
-      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
-    - Content of documents relating to the obtaining or extending of a moratorium: general
-      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
-    - Authentication of documents relating to obtaining or extending moratorium: general
-      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
-    - Notice that directors wish to obtain a moratorium
-      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
-    - Proposed monitor’s statement and consent to act
-      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
-    - Timing of statements for obtaining moratorium
-      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
-    - Notice by monitor where moratorium comes into force
-      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
-    - Notice that directors wish to extend a moratorium
-      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
-    - Extension under section A10 or A11 of the Insolvency Act 1986: notices and statements
-      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
-    - Timing of statements for extension under section A10 or A11
-      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
-    - Obtaining creditor consent: qualifying decision procedure
-      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
-      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
-      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
-      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
-      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
-      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
-    - Content of application to the court for extension of moratorium
-      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
-    - Timing of statements accompanying application to court for extension of moratorium
-      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
-    - Notices about change in end of moratorium
-      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
-      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
-      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
-      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
-    - Notification by directors of insolvency proceedings etc
-      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
-    - Notice of termination of moratorium
-      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
-    - Termination of moratorium under section A38(1)(d) of the Insolvency Act 1986
-      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
-    - Replacement of monitor or additional monitor: statement and consent to act
-      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
-    - Replacement of monitor or additional monitor: notification
-      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
-    - Challenge to monitor’s remuneration
-      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
-    - Challenge to directors’ actions: qualifying decision procedure
-      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
-    - Priority of moratorium debts etc in subsequent winding up
-      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
-    - Priority of moratorium debts etc in subsequent administration
-      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
-    - Prescribed format of documents
-      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
-      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
-    - Delivery of documents
-      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
-    - Applications to court
-      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
-    - Identification details for a company
-      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
-    - Contact details of a monitor or other office-holder
-      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
-    - “The England and Wales Insolvency Rules”
-      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
-    - Interpretation: general
-      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 12 Introductory](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Definition of “the court”](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Content of documents relating to the obtaining or extending of a moratorium: general](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Authentication of documents relating to obtaining or extending moratorium: general](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16 Notice that directors wish to obtain a moratorium](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17 Proposed monitor’s statement and consent to act](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18 Timing of statements for obtaining moratorium](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19 Notice by monitor where moratorium comes into force](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20 Notice that directors wish to extend a moratorium](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21 Extension under section A10 or A11 of the Insolvency Act 1986: notices and statements](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22 Timing of statements for extension under section A10 or A11](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29 Content of application to the court for extension of moratorium](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30 Timing of statements accompanying application to court for extension of moratorium](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31 Notices about change in end of moratorium](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32 Notices about change in end of moratorium](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33 Notices about change in end of moratorium](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34 Notices about change in end of moratorium](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35 Notification by directors of insolvency proceedings etc](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36 Notice of termination of moratorium](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37 Termination of moratorium under section A38(1)(d) of the Insolvency Act 1986](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38 Replacement of monitor or additional monitor: statement and consent to act](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39 Replacement of monitor or additional monitor: notification](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40 Challenge to monitor’s remuneration](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41 Challenge to directors’ actions: qualifying decision procedure](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42 Priority of moratorium debts etc in subsequent winding up](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43 Priority of moratorium debts etc in subsequent administration](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44 Prescribed format of documents](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45 Prescribed format of documents](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46 Delivery of documents](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47 Applications to court](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48 Identification details for a company](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49 Contact details of a monitor or other office-holder](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50 “The England and Wales Insolvency Rules”](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51 Interpretation: general](schedule/4/paragraph/51.md)
   - PART 4 Temporary rules: Scotland
-    - Introductory
-      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
-    - Definition of “the court”
-      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
-    - Content of documents relating to the obtaining or extending of a moratorium: general
-      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
-    - Authentication of documents relating to obtaining or extending moratorium: general
-      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
-    - Notice that directors wish to obtain a moratorium
-      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
-    - Proposed monitor’s statement and consent to act
-      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
-    - Timing of statements for obtaining moratorium
-      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
-    - Notice by monitor where moratorium comes into force
-      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
-    - Notice that directors wish to extend a moratorium
-      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
-    - Extension under section A10 or A11 of the Insolvency Act 1986: notices and statements
-      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
-    - Timing of statements for extension under section A10 or A11
-      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
-    - Obtaining creditor consent: qualifying decision procedure
-      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
-      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
-      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
-      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
-      - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
-      - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
-    - Content of application to the court for extension of moratorium
-      - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
-    - Timing of statements accompanying application to court for extension of moratorium
-      - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
-    - Notices about change in end of moratorium
-      - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
-      - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
-      - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
-      - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
-    - Notification by directors of insolvency proceedings etc
-      - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
-    - Notice of termination of moratorium
-      - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
-    - Termination of moratorium under section A38(1)(d) of the Insolvency Act 1986
-      - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
-    - Replacement of monitor or additional monitor: statement and consent to act
-      - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
-    - Replacement of monitor or additional monitor: notification
-      - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
-    - Challenge to monitor’s remuneration
-      - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
-    - Challenge to directors’ actions: qualifying decision procedure
-      - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
-    - Priority of moratorium debts etc in subsequent winding up
-      - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
-    - Priority of moratorium debts etc in subsequent administration
-      - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
-    - Prescribed format of documents
-      - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
-      - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
-    - Delivery of documents
-      - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
-    - Identification details for a company
-      - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
-    - Contact details of a monitor or other office-holder
-      - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
-    - “The Scottish Insolvency Rules”
-      - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
-    - Interpretation: general
-      - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+    - [Sch. 4 para. 52 Introductory](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53 Definition of “the court”](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54 Content of documents relating to the obtaining or extending of a moratorium: general](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55 Authentication of documents relating to obtaining or extending moratorium: general](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56 Notice that directors wish to obtain a moratorium](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57 Proposed monitor’s statement and consent to act](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58 Timing of statements for obtaining moratorium](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59 Notice by monitor where moratorium comes into force](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60 Notice that directors wish to extend a moratorium](schedule/4/paragraph/60.md)
+    - [Sch. 4 para. 61 Extension under section A10 or A11 of the Insolvency Act 1986: notices and statements](schedule/4/paragraph/61.md)
+    - [Sch. 4 para. 62 Timing of statements for extension under section A10 or A11](schedule/4/paragraph/62.md)
+    - [Sch. 4 para. 63 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/63.md)
+    - [Sch. 4 para. 64 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/64.md)
+    - [Sch. 4 para. 65 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/65.md)
+    - [Sch. 4 para. 66 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/66.md)
+    - [Sch. 4 para. 67 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/67.md)
+    - [Sch. 4 para. 68 Obtaining creditor consent: qualifying decision procedure](schedule/4/paragraph/68.md)
+    - [Sch. 4 para. 69 Content of application to the court for extension of moratorium](schedule/4/paragraph/69.md)
+    - [Sch. 4 para. 70 Timing of statements accompanying application to court for extension of moratorium](schedule/4/paragraph/70.md)
+    - [Sch. 4 para. 71 Notices about change in end of moratorium](schedule/4/paragraph/71.md)
+    - [Sch. 4 para. 72 Notices about change in end of moratorium](schedule/4/paragraph/72.md)
+    - [Sch. 4 para. 73 Notices about change in end of moratorium](schedule/4/paragraph/73.md)
+    - [Sch. 4 para. 74 Notices about change in end of moratorium](schedule/4/paragraph/74.md)
+    - [Sch. 4 para. 75 Notification by directors of insolvency proceedings etc](schedule/4/paragraph/75.md)
+    - [Sch. 4 para. 76 Notice of termination of moratorium](schedule/4/paragraph/76.md)
+    - [Sch. 4 para. 77 Termination of moratorium under section A38(1)(d) of the Insolvency Act 1986](schedule/4/paragraph/77.md)
+    - [Sch. 4 para. 78 Replacement of monitor or additional monitor: statement and consent to act](schedule/4/paragraph/78.md)
+    - [Sch. 4 para. 79 Replacement of monitor or additional monitor: notification](schedule/4/paragraph/79.md)
+    - [Sch. 4 para. 80 Challenge to monitor’s remuneration](schedule/4/paragraph/80.md)
+    - [Sch. 4 para. 81 Challenge to directors’ actions: qualifying decision procedure](schedule/4/paragraph/81.md)
+    - [Sch. 4 para. 82 Priority of moratorium debts etc in subsequent winding up](schedule/4/paragraph/82.md)
+    - [Sch. 4 para. 83 Priority of moratorium debts etc in subsequent administration](schedule/4/paragraph/83.md)
+    - [Sch. 4 para. 84 Prescribed format of documents](schedule/4/paragraph/84.md)
+    - [Sch. 4 para. 85 Prescribed format of documents](schedule/4/paragraph/85.md)
+    - [Sch. 4 para. 86 Delivery of documents](schedule/4/paragraph/86.md)
+    - [Sch. 4 para. 87 Identification details for a company](schedule/4/paragraph/87.md)
+    - [Sch. 4 para. 88 Contact details of a monitor or other office-holder](schedule/4/paragraph/88.md)
+    - [Sch. 4 para. 89 “The Scottish Insolvency Rules”](schedule/4/paragraph/89.md)
+    - [Sch. 4 para. 90 Interpretation: general](schedule/4/paragraph/90.md)
   - PART 5 Entities other than companies
     - [Sch. 4 para. 91](schedule/4/paragraph/91.md)
     - [Sch. 4 para. 92](schedule/4/paragraph/92.md)
 - SCHEDULE 5 Moratoriums in Northern Ireland: eligible companies
 - SCHEDULE 6 Moratoriums in Northern Ireland: contracts involving financial services
 - SCHEDULE 7 Moratoriums in Northern Ireland: further amendments
-  - The Insolvency (Northern Ireland) Order 1989
-    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
-    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
-    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
-    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
-    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
-    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
-    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
-    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
-    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
-    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
-    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
-    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
-    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
-    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
-    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
-    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
-    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
-    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
-    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
-    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
-    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
-    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
-    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
-    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
-    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
-    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
-    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
-    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
-    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
-  - Building Societies Act 1986
-    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
-  - Limited Liability Partnerships Act 2000
-    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
-  - The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
-    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
-  - The Insolvency Practitioners Regulations (Northern Ireland) 2006
-    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
-  - Insolvency (Northern Ireland) Order 2002 (S.I. 2002/3152 (N.I. 6))
-    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
-  - Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))
-    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
-    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
-    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
-    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
-  - Insolvency (Amendment) Act (Northern Ireland) 2016
-    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+  - [Sch. 7 para. 1 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/17.md)
+  - [Sch. 7 para. 18 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/18.md)
+  - [Sch. 7 para. 19 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/19.md)
+  - [Sch. 7 para. 20 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/20.md)
+  - [Sch. 7 para. 21 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/21.md)
+  - [Sch. 7 para. 22 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/22.md)
+  - [Sch. 7 para. 23 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/23.md)
+  - [Sch. 7 para. 24 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/24.md)
+  - [Sch. 7 para. 25 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/25.md)
+  - [Sch. 7 para. 26 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/26.md)
+  - [Sch. 7 para. 27 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/27.md)
+  - [Sch. 7 para. 28 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/28.md)
+  - [Sch. 7 para. 29 The Insolvency (Northern Ireland) Order 1989](schedule/7/paragraph/29.md)
+  - [Sch. 7 para. 30 Building Societies Act 1986](schedule/7/paragraph/30.md)
+  - [Sch. 7 para. 31 Limited Liability Partnerships Act 2000](schedule/7/paragraph/31.md)
+  - [Sch. 7 para. 32 The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001](schedule/7/paragraph/32.md)
+  - [Sch. 7 para. 33 The Insolvency Practitioners Regulations (Northern Ireland) 2006](schedule/7/paragraph/33.md)
+  - [Sch. 7 para. 34 Insolvency (Northern Ireland) Order 2002 (S.I. 2002/3152 (N.I. 6))](schedule/7/paragraph/34.md)
+  - [Sch. 7 para. 35 Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](schedule/7/paragraph/35.md)
+  - [Sch. 7 para. 36 Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](schedule/7/paragraph/36.md)
+  - [Sch. 7 para. 37 Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](schedule/7/paragraph/37.md)
+  - [Sch. 7 para. 38 Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](schedule/7/paragraph/38.md)
+  - [Sch. 7 para. 39 Insolvency (Amendment) Act (Northern Ireland) 2016](schedule/7/paragraph/39.md)
 - SCHEDULE 8 Moratoriums in Northern Ireland: temporary provision
   - PART 1 “Relevant period” and powers to turn off temporary provision
-    - “Relevant period”
-      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
-    - Power to turn off particular provisions of Part 2 of this Schedule early
-      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
-    - Power to turn off provisions of Part 3 of this Schedule early etc
-      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
-      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 1 “Relevant period”](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2 Power to turn off particular provisions of Part 2 of this Schedule early](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3 Power to turn off provisions of Part 3 of this Schedule early etc](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4 Power to turn off provisions of Part 3 of this Schedule early etc](schedule/8/paragraph/4.md)
   - PART 2 Modifications to primary legislation
-    - “Eligible” company: additional exclusion
-      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
-    - Relaxation of conditions for obtaining moratorium etc
-      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
-      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
-    - Relaxation of conditions for extending moratorium obtained during relevant period
-      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
-    - Monitoring of moratorium obtained during relevant period
-      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
-    - Termination of moratorium obtained during relevant period
-      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
-    - “Coronavirus”
-      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 5 “Eligible” company: additional exclusion](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6 Relaxation of conditions for obtaining moratorium etc](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7 Relaxation of conditions for obtaining moratorium etc](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8 Relaxation of conditions for extending moratorium obtained during relevant period](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9 Monitoring of moratorium obtained during relevant period](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10 Termination of moratorium obtained during relevant period](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11 “Coronavirus”](schedule/8/paragraph/11.md)
   - PART 3 Temporary rules
-    - Introductory
-      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
-    - Content of documents relating to the obtaining or extending of a moratorium: general
-      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
-    - Authentication of documents relating to obtaining or extending moratorium: general
-      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
-    - Notice that directors wish to obtain a moratorium
-      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
-    - Proposed monitor’s statement and consent to act
-      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
-    - Timing of statements for obtaining moratorium
-      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
-    - Notice by monitor where moratorium comes into force
-      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
-    - Notice that directors wish to extend a moratorium
-      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
-    - Extension under Article 13CA or 13CB of the Insolvency (Northern Ireland) Order 1989: notices and statements
-      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
-    - Timing of statements for extension under Article 13CA or 13CB
-      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
-    - Obtaining creditor consent at meeting
-      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
-      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
-      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
-      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
-      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
-      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
-      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
-      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
-      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
-    - Content of application to the High Court for extension of moratorium
-      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
-    - Timing of statements accompanying application to High Court for extension of moratorium
-      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
-    - Notices about change in end of moratorium
-      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
-      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
-      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
-      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
-    - Notification by directors of insolvency proceedings etc
-      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
-    - Notice of termination of moratorium
-      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
-    - Termination of moratorium under Article 13ED(1)(d) of the Insolvency (Northern Ireland) Order 1989
-      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
-    - Replacement of monitor or additional monitor: statement and consent to act
-      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
-    - Replacement of monitor or additional monitor: notification
-      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
-    - Challenge to monitor’s remuneration
-      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
-    - Challenge to directors’ actions: meeting
-      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
-    - Priority of moratorium debts etc in subsequent winding up
-      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
-    - Priority of moratorium debts etc in subsequent administration
-      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
-    - Prescribed format of documents
-      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
-      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
-      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
-    - Authentication of applications, notices and statements
-      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
-    - Modifications to the Insolvency Rules
-      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
-    - Identification details for a company
-      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
-    - Contact details of a monitor or other office-holder
-      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
-    - “The Insolvency Rules”
-      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
-    - Interpretation: general
-      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - [Sch. 8 para. 12 Introductory](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13 Content of documents relating to the obtaining or extending of a moratorium: general](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14 Authentication of documents relating to obtaining or extending moratorium: general](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15 Notice that directors wish to obtain a moratorium](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16 Proposed monitor’s statement and consent to act](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17 Timing of statements for obtaining moratorium](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18 Notice by monitor where moratorium comes into force](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19 Notice that directors wish to extend a moratorium](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20 Extension under Article 13CA or 13CB of the Insolvency (Northern Ireland) Order 1989: notices and statements](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21 Timing of statements for extension under Article 13CA or 13CB](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22 Obtaining creditor consent at meeting](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23 Obtaining creditor consent at meeting](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24 Obtaining creditor consent at meeting](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25 Obtaining creditor consent at meeting](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26 Obtaining creditor consent at meeting](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27 Obtaining creditor consent at meeting](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28 Obtaining creditor consent at meeting](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29 Obtaining creditor consent at meeting](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30 Obtaining creditor consent at meeting](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31 Content of application to the High Court for extension of moratorium](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32 Timing of statements accompanying application to High Court for extension of moratorium](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33 Notices about change in end of moratorium](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34 Notices about change in end of moratorium](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35 Notices about change in end of moratorium](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36 Notices about change in end of moratorium](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37 Notification by directors of insolvency proceedings etc](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38 Notice of termination of moratorium](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39 Termination of moratorium under Article 13ED(1)(d) of the Insolvency (Northern Ireland) Order 1989](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40 Replacement of monitor or additional monitor: statement and consent to act](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41 Replacement of monitor or additional monitor: notification](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42 Challenge to monitor’s remuneration](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43 Challenge to directors’ actions: meeting](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44 Priority of moratorium debts etc in subsequent winding up](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45 Priority of moratorium debts etc in subsequent administration](schedule/8/paragraph/45.md)
+    - [Sch. 8 para. 46 Prescribed format of documents](schedule/8/paragraph/46.md)
+    - [Sch. 8 para. 47 Prescribed format of documents](schedule/8/paragraph/47.md)
+    - [Sch. 8 para. 48 Prescribed format of documents](schedule/8/paragraph/48.md)
+    - [Sch. 8 para. 49 Authentication of applications, notices and statements](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50 Modifications to the Insolvency Rules](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51 Identification details for a company](schedule/8/paragraph/51.md)
+    - [Sch. 8 para. 52 Contact details of a monitor or other office-holder](schedule/8/paragraph/52.md)
+    - [Sch. 8 para. 53 “The Insolvency Rules”](schedule/8/paragraph/53.md)
+    - [Sch. 8 para. 54 Interpretation: general](schedule/8/paragraph/54.md)
   - PART 4 Entities other than companies
     - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
     - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
@@ -467,139 +333,134 @@ Source: https://www.legislation.gov.uk/ukpga/2020/12/2022-02-14
   - PART 1 Main provisions
     - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
   - PART 2 Consequential amendments
-    - Finance Act 1986
-      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
-      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
-      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
-    - Insolvency Act 1986
-      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
-      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
-      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
-    - Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))
-      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
-      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
-      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
-    - Water Industry Act 1991
-      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
-    - Taxation of Chargeable Gains Act 1992
-      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
-      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
-      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
-    - Value Added Tax Act 1994
-      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
-    - Housing Act 1996
-      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
-    - Financial Services and Markets Act 2000
-      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
-      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
-      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
-      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
-    - Limited Liability Partnerships Act 2000
-      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
-    - Enterprise Act 2002
-      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
-    - Income Tax (Earnings and Pensions) Act 2003
-      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
-      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
-      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
-      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
-    - Energy Act 2004
-      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
-    - Income Tax (Trading and Other Income) Act 2005
-      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
-    - Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))
-      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
-    - Companies Act 2006
-      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
-      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
-      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
-      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
-      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
-      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
-      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
-      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
-      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
-      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
-    - Housing and Regeneration Act 2008
-      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
-    - Corporation Tax Act 2009
-      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
-    - Corporation Tax Act 2010
-      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
-      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
-      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
-    - Third Parties (Rights against Insurers) Act 2010
-      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
-    - Housing (Scotland) Act 2010 (asp 17)
-      - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
-      - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
-      - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
-    - Financial Services (Banking Reform) Act 2013
-      - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
-    - Co-operative and Community Benefit Societies Act 2014
-      - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
-    - Mutuals’ Deferred Shares Act 2015
-      - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
-- SCHEDULE 10 Restriction on Winding-Up Petitions: Great Britain
-  - Restriction on winding-up petitions
+    - [Sch. 9 para. 2 Finance Act 1986](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3 Finance Act 1986](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4 Finance Act 1986](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5 Insolvency Act 1986](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6 Insolvency Act 1986](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7 Insolvency Act 1986](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8 Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9 Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10 Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11 Water Industry Act 1991](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12 Taxation of Chargeable Gains Act 1992](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13 Taxation of Chargeable Gains Act 1992](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14 Taxation of Chargeable Gains Act 1992](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15 Value Added Tax Act 1994](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16 Housing Act 1996](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17 Financial Services and Markets Act 2000](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18 Financial Services and Markets Act 2000](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19 Financial Services and Markets Act 2000](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20 Financial Services and Markets Act 2000](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21 Limited Liability Partnerships Act 2000](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22 Enterprise Act 2002](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23 Income Tax (Earnings and Pensions) Act 2003](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24 Income Tax (Earnings and Pensions) Act 2003](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25 Income Tax (Earnings and Pensions) Act 2003](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26 Income Tax (Earnings and Pensions) Act 2003](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27 Energy Act 2004](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28 Income Tax (Trading and Other Income) Act 2005](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29 Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30 Companies Act 2006](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31 Companies Act 2006](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32 Companies Act 2006](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33 Companies Act 2006](schedule/9/paragraph/33.md)
+    - [Sch. 9 para. 34 Companies Act 2006](schedule/9/paragraph/34.md)
+    - [Sch. 9 para. 35 Companies Act 2006](schedule/9/paragraph/35.md)
+    - [Sch. 9 para. 36 Companies Act 2006](schedule/9/paragraph/36.md)
+    - [Sch. 9 para. 37 Companies Act 2006](schedule/9/paragraph/37.md)
+    - [Sch. 9 para. 38 Companies Act 2006](schedule/9/paragraph/38.md)
+    - [Sch. 9 para. 39 Companies Act 2006](schedule/9/paragraph/39.md)
+    - [Sch. 9 para. 40 Housing and Regeneration Act 2008](schedule/9/paragraph/40.md)
+    - [Sch. 9 para. 41 Corporation Tax Act 2009](schedule/9/paragraph/41.md)
+    - [Sch. 9 para. 42 Corporation Tax Act 2010](schedule/9/paragraph/42.md)
+    - [Sch. 9 para. 43 Corporation Tax Act 2010](schedule/9/paragraph/43.md)
+    - [Sch. 9 para. 44 Corporation Tax Act 2010](schedule/9/paragraph/44.md)
+    - [Sch. 9 para. 45 Third Parties (Rights against Insurers) Act 2010](schedule/9/paragraph/45.md)
+    - [Sch. 9 para. 46 Housing (Scotland) Act 2010 (asp 17)](schedule/9/paragraph/46.md)
+    - [Sch. 9 para. 47 Housing (Scotland) Act 2010 (asp 17)](schedule/9/paragraph/47.md)
+    - [Sch. 9 para. 48 Housing (Scotland) Act 2010 (asp 17)](schedule/9/paragraph/48.md)
+    - [Sch. 9 para. 49 Financial Services (Banking Reform) Act 2013](schedule/9/paragraph/49.md)
+    - [Sch. 9 para. 50 Co-operative and Community Benefit Societies Act 2014](schedule/9/paragraph/50.md)
+    - [Sch. 9 para. 51 Mutuals’ Deferred Shares Act 2015](schedule/9/paragraph/51.md)
+- SCHEDULE 10 Winding-up petitions: Great Britain
+  - PART 1 Prohibition of petitions on basis of statutory demands
     - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-  - Modification of Insolvency Rules and Rules of Court
-    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
-    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
-  - Interpretation
-    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
-  - General
-    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
-- SCHEDULE 11 RESTRICTION ON WINDING-UP PETITIONS: NORTHERN IRELAND
-  - Restriction on winding-up petitions
+  - PART 2 Restriction on winding-up petitions and orders
+    - [Sch. 10 para. 2 Restriction on winding-up petitions: registered companies](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3 Restriction on winding-up petitions: unregistered companies](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4 Restriction on winding-up petitions: petitions made before commencement](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5 Restriction on winding-up orders: registered companies](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6 Restriction on winding-up orders: unregistered companies](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7 Restriction on winding-up orders: orders made before commencement](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8 Modifications of 1986 Act](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9 Modifications of 1986 Act](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10 Modifications of 1986 Act](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11 Modifications of 1986 Act](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12 Modifications of 1986 Act](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13 Modifications of 1986 Act](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14 Modifications of 1986 Act](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15 Modifications of 1986 Act](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16 Modifications of 1986 Act](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17 Modifications of 1986 Act](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18 Modifications of 1986 Act](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19 Modification of Insolvency Rules and Rules of Court](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20 Modification of Insolvency Rules and Rules of Court](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21 Interpretation](schedule/10/paragraph/21.md)
+  - PART 3 General
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+- SCHEDULE 11 Winding-up petitions: Northern Ireland
+  - PART 1 Prohibition of petitions on basis of statutory demands
     - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
-  - Modification of Insolvency Rules
-    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
-  - Interpretation
-    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
-  - General
-    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - PART 2 Restriction on winding-up petitions and orders
+    - [Sch. 11 para. 2 Restriction on winding-up petitions: registered companies](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3 Restriction on winding-up petitions: unregistered companies](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4 Restriction on winding-up petitions: petitions made before commencement](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5 Restriction on winding-up orders: registered companies](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6 Restriction on winding-up orders: unregistered companies](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7 Restriction on winding-up orders: orders made before commencement](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8 Modifications of 1989 Order](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9 Modifications of 1989 Order](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10 Modifications of 1989 Order](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11 Modifications of 1989 Order](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12 Modifications of 1989 Order](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13 Modifications of 1989 Order](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14 Modifications of 1989 Order](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15 Modifications of 1989 Order](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16 Modifications of 1989 Order](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17 Modification of Insolvency Rules](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18 Interpretation](schedule/11/paragraph/18.md)
+  - PART 3 General
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
 - SCHEDULE 12 Protection of supplies of goods and services: Great Britain
   - PART 1 Exclusions
     - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
   - PART 2 Consequential amendments
-    - Amendments to Acts
-      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
-      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
-      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
-    - Amendments to subordinate legislation
-      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
-      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
-      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
-      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 2 Amendments to Acts](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3 Amendments to Acts](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4 Amendments to Acts](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5 Amendments to subordinate legislation](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6 Amendments to subordinate legislation](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7 Amendments to subordinate legislation](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8 Amendments to subordinate legislation](schedule/12/paragraph/8.md)
 - SCHEDULE 13 Protection of supplies of goods and services: Northern Ireland
   - PART 1 Exclusions
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
   - PART 2 Consequential amendments
-    - Amendments to Acts
-      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
-      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
-      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
-    - Amendment to subordinate legislation
-      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 2 Amendments to Acts](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3 Amendments to Acts](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4 Amendments to Acts](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5 Amendment to subordinate legislation](schedule/13/paragraph/5.md)
 - SCHEDULE 14 Meetings of companies and other bodies
-  - Meaning of “qualifying body”
-    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
-  - Meaning of “relevant period”
-    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
-  - Meetings of qualifying bodies held during the relevant period
-    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
-  - Meetings of qualifying bodies held during the relevant period: power to make further provision
-    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
-  - Extension of period for qualifying body to hold annual general meeting
-    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
-  - Power to extend period for qualifying body to hold annual general meeting
-    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
-  - Regulations made by the Secretary of State or the Treasury
-    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
-  - Regulations made by the Scottish Ministers
-    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
-  - Regulations made by the Department for the Economy in Northern Ireland
-    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
-  - Other interpretation
-    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - [Sch. 14 para. 1 Meaning of “qualifying body”](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2 Meaning of “relevant period”](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3 Meetings of qualifying bodies held during the relevant period](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4 Meetings of qualifying bodies held during the relevant period: power to make further provision](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5 Extension of period for qualifying body to hold annual general meeting](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6 Power to extend period for qualifying body to hold annual general meeting](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7 Regulations made by the Secretary of State or the Treasury](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8 Regulations made by the Scottish Ministers](schedule/14/paragraph/8.md)
+  - [Sch. 14 para. 9 Regulations made by the Department for the Economy in Northern Ireland](schedule/14/paragraph/9.md)
+  - [Sch. 14 para. 10 Other interpretation](schedule/14/paragraph/10.md)
