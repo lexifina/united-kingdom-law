@@ -2,9 +2,9 @@
 
 2013 c. 33. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-12-09, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-06-26, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/33/2019-12-09
+Source: https://www.legislation.gov.uk/ukpga/2013/33/2020-06-26
 
 ## Contents
 
@@ -167,6 +167,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2019-12-09
     - [s. 122 Restriction on winding-up orders and voluntary winding up](section/122.md)
     - [s. 123 Restriction on making of ordinary administration orders](section/123.md)
     - [s. 124 Restriction on enforcement of security](section/124.md)
+  - Powers to participate in Part 26A proceedings
+    - [s. 124A Powers of Bank to participate in Part 26A proceedings](section/124A.md)
   - Financial support for companies in FMI administration
     - [s. 125 Loans](section/125.md)
     - [s. 126 Indemnities](section/126.md)
