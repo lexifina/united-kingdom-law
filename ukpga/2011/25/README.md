@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-12-02, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-06-26, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2019-12-02
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2020-06-26
 
 ## Contents
 
@@ -353,6 +353,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2019-12-02
     - [s. 245 Regulations about winding up, insolvency and dissolution](section/245.md)
     - [s. 246 Power to make further provision about CIOs](section/246.md)
     - [s. 247 Meaning of “CIO regulations”](section/247.md)
+    - [s. 247A Regulations about moratorium for certain CIOs](section/247A.md)
     - [s. 248 Meaning of “benefit”](section/248.md)
     - [s. 249 Meaning of “connected person”](section/249.md)
     - [s. 250 Effect of provisions relating to vesting or transfer of property](section/250.md)
