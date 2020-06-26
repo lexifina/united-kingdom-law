@@ -2,9 +2,9 @@
 
 2014 c. 14. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-03-08, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-06-26, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/14/2019-03-08
+Source: https://www.legislation.gov.uk/ukpga/2014/14/2020-06-26
 
 ## Contents
 
@@ -162,7 +162,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/14/2019-03-08
   - General restriction on inspection
     - [s. 108 General restriction on inspection of books](section/108.md)
 - Part 9 Amalgamations, conversions, dissolution etc
-  - Amalgamations and transfers of engagements between societies
+  - Amalgamations and transfers of engagements between societies etc
     - [s. 109 Amalgamation of societies](section/109.md)
     - [s. 110 Transfer of engagements between societies](section/110.md)
     - [s. 111 Special resolutions under section 109 or 110](section/111.md)
@@ -175,7 +175,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/14/2019-03-08
     - [s. 116 Conversion of company into a society: member’s shareholding in company exceeds maximum permitted amount](section/116.md)
     - [s. 117 Conversion of company into a society: no effect on liabilities](section/117.md)
   - Voluntary arrangements and administration
-    - [s. 118 Power to apply provisions about company arrangements and administration](section/118.md)
+    - [s. 118 Power to apply provisions about company arrangements and administration etc](section/118.md)
   - Dissolution by an instrument of dissolution
     - [s. 119 Dissolution of society by an instrument of dissolution](section/119.md)
     - [s. 120 Special resolutions under section 119](section/120.md)
