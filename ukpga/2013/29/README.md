@@ -2,9 +2,9 @@
 
 2013 c. 29. Enacted 2013-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-01-18, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-01-18
+Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-07-22
 
 ## Contents
 
@@ -277,6 +277,9 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-01-18
   - [s. 207 Meaning of “tax arrangements” and “abusive”](section/207.md)
   - [s. 208 Meaning of “tax advantage”](section/208.md)
   - [s. 209 Counteracting the tax advantages](section/209.md)
+  - [s. 209AA Protective GAAR notices](section/209AA.md)
+  - [s. 209AB Adjustments under section 209: notices under Schedule 43 or 43A](section/209AB.md)
+  - [s. 209AC Sections 209AA and 209AB: definitions](section/209AC.md)
   - [s. 209A Effect of adjustments specified in a provisional counteraction notice](section/209A.md)
   - [s. 209B Notified adjustments: 12 month period for taking action if appeal made](section/209B.md)
   - [s. 209C Notified adjustments: case within section 209B(4)(c)](section/209C.md)
