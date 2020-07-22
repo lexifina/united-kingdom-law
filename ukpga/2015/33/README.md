@@ -1,0 +1,452 @@
+# Finance (No. 2) Act 2015
+
+2015 c. 33. Enacted 2015-11-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2015/33/2020-07-22
+
+## Contents
+
+- PART 1 Principal rates etc
+  - Tax lock
+    - [s. 1 Income tax lock](section/1.md)
+    - [s. 2 VAT lock](section/2.md)
+  - Personal allowance and basic rate limit for income tax
+    - [s. 3 Personal allowance and national minimum wage](section/3.md)
+    - [s. 4 Personal allowance and national minimum wage: Chancellor’s duties](section/4.md)
+    - [s. 5 Personal allowance from 2016](section/5.md)
+    - [s. 6 Basic rate limit from 2016](section/6.md)
+  - Corporation tax
+    - [s. 7 Rate of corporation tax for financial years 2017-2020](section/7.md)
+  - Capital allowances
+    - [s. 8 Annual investment allowance](section/8.md)
+- PART 2 Inheritance tax
+  - Rate bands
+    - [s. 9 Increased nil-rate band where home inherited by descendants](section/9.md)
+    - [s. 10 Rate bands for tax years 2018-19, 2019-20 and 2020-21](section/10.md)
+  - Settlements
+    - [s. 11 Calculation of rate of inheritance tax on settled property](section/11.md)
+    - [s. 12 Exemption from ten-yearly charge for heritage property](section/12.md)
+    - [s. 13 Settlements with initial interest in possession](section/13.md)
+    - [s. 14 Distributions etc from property settled by will](section/14.md)
+  - Interest
+    - [s. 15 Inheritance tax: interest](section/15.md)
+- PART 3 Banking
+  - Bank levy
+    - [s. 16 Bank levy rates for 2016 to 2021](section/16.md)
+  - Banking companies
+    - [s. 17 Banking companies: surcharge](section/17.md)
+    - [s. 18 Banking companies: expenses relating to compensation](section/18.md)
+    - [s. 19 Banks established under Savings Bank (Scotland) Act 1819: loss allowance](section/19.md)
+    - [s. 20 Definitions relating to banks](section/20.md)
+- PART 4 Income tax, corporation tax and capital gains tax
+  - Income tax
+    - [s. 21 Pensions: special lump sum death benefits charge](section/21.md)
+    - [s. 22 Pensions: some lump sum death benefits taxed as pension income](section/22.md)
+    - [s. 23 Pensions: annual allowance](section/23.md)
+    - [s. 24 Relief for finance costs related to residential property businesses](section/24.md)
+    - [s. 25 Enterprise investment scheme](section/25.md)
+    - [s. 26 Venture capital trusts](section/26.md)
+    - [s. 27 EIS, VCTs etc: excluded activities](section/27.md)
+    - [s. 28 EIS, VCTs and EMI: meaning of “farming”](section/28.md)
+    - [s. 29 Travel expenses of members of local authorities etc](section/29.md)
+    - [s. 30 London Anniversary Games](section/30.md)
+  - Corporation tax
+    - [s. 31 R&D expenditure credits: ineligible companies](section/31.md)
+    - [s. 32 Loan relationships and derivative contracts](section/32.md)
+    - [s. 33 Intangible fixed assets: goodwill etc](section/33.md)
+    - [s. 34 Election of designated currency by UK resident investment company](section/34.md)
+    - [s. 35 Group relief](section/35.md)
+    - [s. 36 CFC charge: abolition of relief](section/36.md)
+    - [s. 37 CFC charge: tax avoidance involving carried-forward losses](section/37.md)
+    - [s. 38 Restitution interest payments](section/38.md)
+    - [s. 39 Corporation tax instalment payments](section/39.md)
+  - Income tax and corporation tax
+    - [s. 40 Changes in trading stock not made in course of trade](section/40.md)
+    - [s. 41 Valuation of trading stock on cessation](section/41.md)
+    - [s. 42 Transfer of intangible assets not at arm’s length](section/42.md)
+  - Income tax and capital gains tax
+    - [s. 43 Carried interest](section/43.md)
+    - [s. 44 Disguised investment management fees](section/44.md)
+    - [s. 45 Carried interest and disguised investment management fees: “arise”](section/45.md)
+- PART 5 Excise duties and other taxes
+  - Vehicle excise duty
+    - [s. 46 Vehicle excise duty](section/46.md)
+  - Insurance premium tax
+    - [s. 47 Insurance premium tax: standard rate](section/47.md)
+  - Aggregates levy
+    - [s. 48 Aggregates levy: restoration of exemptions](section/48.md)
+  - Climate change levy
+    - [s. 49 CCL: removal of exemption for electricity from renewable sources](section/49.md)
+- PART 6 Administration and enforcement
+  - [s. 50 International agreements to improve compliance: client notification](section/50.md)
+  - [s. 51 Enforcement by deduction from accounts](section/51.md)
+  - [s. 52 Rate of interest applicable to judgment debts etc in taxation matters](section/52.md)
+- PART 7 Final
+  - [s. 53 Interpretation](section/53.md)
+  - [s. 54 Short title](section/54.md)
+- SCHEDULE 1 Rate of tax charged under Chapter 3 of Part 3 IHTA 1984
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Bank levy rates for 2016 to 2021
+  - Bank levy rate for 2016
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Bank levy rate for 2017
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Bank levy rate for 2018
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Bank levy rate for 2019
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Bank levy rate for 2020
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Bank levy rate for 2021
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Banking companies: surcharge
+  - PART 1 Main provisions
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 Consequential amendments
+    - TMA 1970
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - FA 1998
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - CTA 2010
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - TIOPA 2010
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - FA 2015
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - PART 3 Commencement
+    - Surcharge
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - CFCs
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Diverted profits tax
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Interpretation
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+- SCHEDULE 4 Pensions: annual allowance
+  - PART 1 Alignment of pension input periods with tax years
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 Annual allowance for, and carry-forward from, 2015-16
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - PART 3 Calculation of pension input amounts for periods ending in 2015-16
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 4 Reduction of annual allowance for high-income individuals
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - PART 5 Other amendments
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Enterprise investment scheme
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Limiting eligibility for relief to investments made before 2025
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The investor
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - General requirements
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - The issuing company
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Repayment etc of share capital
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Information to be provided by issuing company etc
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Acquisition of issuing company
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Powers to amend Part 5 of ITA 2007
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - “Knowledge-intensive companies”
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Consequential repeals
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Commencement and transitional provision
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+- SCHEDULE 6 Venture capital trusts
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Limiting eligibility for relief to investments made before 2025
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Requirements for the giving of VCT approval
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - VCT approvals
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The first commercial sale condition and the no business acquisition condition
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Qualifying holdings
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Power to amend Chapter 4 of Part 6
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Interpretation of Chapter 4 of Part 6
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Acquisitions for restructuring purposes
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Power to amend Chapters 3 and 4 of Part 6 of ITA 2007
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Interpretation of Part 6
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Repeal of saving for investment of “protected money”
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Consequential repeal
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Application and transitional provision
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+- SCHEDULE 7 Loan relationships and derivative contracts
+  - PART 1 Loan relationships: amendments of Parts 5 and 6 of CTA 2009
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+  - PART 2 Derivative contracts: amendments of Part 7 of CTA 2009
+    - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+    - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+    - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+    - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+    - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+    - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+    - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+    - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+    - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+    - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+    - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+    - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+    - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+    - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+    - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+    - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+    - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+    - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+    - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+    - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+    - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+    - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+    - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+    - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+    - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+    - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
+    - [Sch. 7 para. 88](schedule/7/paragraph/88.md)
+    - [Sch. 7 para. 89](schedule/7/paragraph/89.md)
+    - [Sch. 7 para. 90](schedule/7/paragraph/90.md)
+    - [Sch. 7 para. 91](schedule/7/paragraph/91.md)
+    - [Sch. 7 para. 92](schedule/7/paragraph/92.md)
+    - [Sch. 7 para. 93](schedule/7/paragraph/93.md)
+    - [Sch. 7 para. 94](schedule/7/paragraph/94.md)
+    - [Sch. 7 para. 95](schedule/7/paragraph/95.md)
+    - [Sch. 7 para. 96](schedule/7/paragraph/96.md)
+    - [Sch. 7 para. 97](schedule/7/paragraph/97.md)
+  - PART 3 Amendments of TCGA 1992 relating to loan relationships
+    - [Sch. 7 para. 98](schedule/7/paragraph/98.md)
+  - PART 4 Consequential amendments
+    - [Sch. 7 para. 99](schedule/7/paragraph/99.md)
+    - [Sch. 7 para. 100](schedule/7/paragraph/100.md)
+  - PART 5 Repeal of uncommenced repeal provisions
+    - [Sch. 7 para. 101](schedule/7/paragraph/101.md)
+  - PART 6 Commencement and transitional provisions
+    - Introductory
+      - [Sch. 7 para. 102](schedule/7/paragraph/102.md)
+    - Commencement: the general rule
+      - [Sch. 7 para. 103](schedule/7/paragraph/103.md)
+      - [Sch. 7 para. 104](schedule/7/paragraph/104.md)
+      - [Sch. 7 para. 105](schedule/7/paragraph/105.md)
+    - Commencement: sections 321, 349 and 605 of CTA 2009
+      - [Sch. 7 para. 106](schedule/7/paragraph/106.md)
+    - Commencement: insolvency, corporate rescue etc
+      - [Sch. 7 para. 107](schedule/7/paragraph/107.md)
+      - [Sch. 7 para. 108](schedule/7/paragraph/108.md)
+      - [Sch. 7 para. 109](schedule/7/paragraph/109.md)
+      - [Sch. 7 para. 110](schedule/7/paragraph/110.md)
+    - Commencement: anti-avoidance provisions etc
+      - [Sch. 7 para. 111](schedule/7/paragraph/111.md)
+      - [Sch. 7 para. 112](schedule/7/paragraph/112.md)
+      - [Sch. 7 para. 113](schedule/7/paragraph/113.md)
+      - [Sch. 7 para. 114](schedule/7/paragraph/114.md)
+    - Transitional adjustments relating to loan relationships
+      - [Sch. 7 para. 115](schedule/7/paragraph/115.md)
+      - [Sch. 7 para. 116](schedule/7/paragraph/116.md)
+      - [Sch. 7 para. 117](schedule/7/paragraph/117.md)
+      - [Sch. 7 para. 118](schedule/7/paragraph/118.md)
+      - [Sch. 7 para. 119](schedule/7/paragraph/119.md)
+    - Transitional adjustments relating to derivative contracts
+      - [Sch. 7 para. 120](schedule/7/paragraph/120.md)
+      - [Sch. 7 para. 121](schedule/7/paragraph/121.md)
+      - [Sch. 7 para. 122](schedule/7/paragraph/122.md)
+      - [Sch. 7 para. 123](schedule/7/paragraph/123.md)
+      - [Sch. 7 para. 124](schedule/7/paragraph/124.md)
+    - Straddling accounting periods treated as split for certain purposes
+      - [Sch. 7 para. 125](schedule/7/paragraph/125.md)
+    - Transitional provision relating to abolition of “fairly represents” test
+      - [Sch. 7 para. 126](schedule/7/paragraph/126.md)
+      - [Sch. 7 para. 127](schedule/7/paragraph/127.md)
+    - Transitional provision relating to fixed capital asset or project
+      - [Sch. 7 para. 128](schedule/7/paragraph/128.md)
+      - [Sch. 7 para. 129](schedule/7/paragraph/129.md)
+- SCHEDULE 8 Enforcement by deduction from accounts
+  - PART 1 Scheme for enforcement by deduction from accounts
+    - Introduction
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - “Relevant sum”
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Information notice
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Hold notice
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Persons at a particular disadvantage in dealing with Revenue and Customs affairs
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Effect of hold notice
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Determination of held amounts
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Duty to notify HMRC and account holders etc
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Cancellation or variation of effects of hold notice
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Making objections to hold notice
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Consideration of objections
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Appeals
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Deduction notice
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Penalties
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Assessment of penalty
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Appeal against penalty
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Enforcement of penalty
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Protection of deposit-takers acting in good faith
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Power to modify amounts and time limits
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Power to make further provision
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Regulations
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Joint accounts
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Defined terms
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Extent
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - PART 2 Miscellaneous amendments
+    - TMA 1970
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Insolvency Act 1986
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - Insolvency (Northern Ireland) Order 1989
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - FA 1998
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - FA 2003
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - FA 2013
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
