@@ -1,0 +1,137 @@
+# Stamp Act 1891
+
+1891 c. 39. Enacted 1891-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/54-55/39/2020-07-22
+
+## Contents
+
+- Part I Regulations applicable to Instruments generally
+  - Charge of Duty upon Instruments
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 All duties to be paid according to regulations of Act.](section/2.md)
+    - [s. 3 How instruments are to be written and stamped.](section/3.md)
+    - [s. 4 Instruments to be separately charged with duty in certain cases.](section/4.md)
+    - [s. 5 Facts and circumstances affecting duty to be set forth in instruments.](section/5.md)
+    - [s. 6 Mode of calculating ad valorem duty in certain cases.](section/6.md)
+  - Use of Adhesive Stamps
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 General direction as to the cancellation of adhesive stamps.](section/8.md)
+    - [s. 9 Penalty for frauds in relation to adhesive stamps.](section/9.md)
+  - Appropriated Stamps and Denoting Stamps
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 Denoting stamps.](section/11.md)
+  - Adjudication Stamps
+    - [s. 12 Adjudication by Commissioners.](section/12.md)
+    - [s. 12A Adjudication: supplementary provisions.](section/12A.md)
+    - [s. 13 Appeal against Commissioners’ decision on adjudication.](section/13.md)
+    - [s. 13A Appeal to the First-tier Tribunal.](section/13A.md)
+    - [s. 13B Appeal to the High Court.](section/13B.md)
+  - Production of Instruments in Evidence
+    - [s. 14 Terms upon which instruments not duly stamped may be received in evidence.](section/14.md)
+  - Stamping of Instruments after Execution
+    - [s. 15 Stamping after execution.](section/15.md)
+    - [s. 15A Late stamping: interest.](section/15A.md)
+    - [s. 15B Late stamping: penalties.](section/15B.md)
+  - Entries upon Rolls, Books, &c.
+    - [s. 16 Rolls, books, &c. to be open to inspection.](section/16.md)
+    - [s. 17 Penalty for enrolling, &c. instrument not duly stamped.](section/17.md)
+- Part II Regulations applicable to Particular Instruments
+  - [s. 18 ................................](section/18.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - Instruments of Apprenticeship
+    - [s. 25 Meaning of instrument of apprenticeship.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 40 ................................](section/40.md)
+  - Bills of Sale
+    - [s. 41 Bills of sale.](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+  - Charter-parties
+    - [s. 49 Provisions as to duty on charter-party.](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 52 ................................](section/52.md)
+  - Conveyances on Sale
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 How ad valorem duty to be calculated in respect of stock and securities.](section/55.md)
+    - [s. 56 How consideration consisting of periodical payments to be charged.](section/56.md)
+    - [s. 57 How conveyance in consideration of a debt, &c., to be charged.](section/57.md)
+    - [s. 58 Direction as to duty in certain cases.](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 As to sale of an annuity or right not before in existence.](section/60.md)
+    - [s. 61 Principal instrument, how to be ascertained.](section/61.md)
+  - Conveyances on any Occasion except Sale or Mortgage
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 69 ................................](section/69.md)
+  - Duplicates and Counterparts
+    - [s. 72 ................................](section/72.md)
+  - Exchange and Partition or Division
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+  - Leases
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 77 Directions as to duty in certain cases.](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 81 ................................](section/81.md)
+  - Marketable Securities and Foreign and Colonial Share Certificates
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 Penalty on issuing, &c. foreign, &c. security not duly stamped](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 90 ................................](section/90.md)
+  - Policies of Insurance
+    - [s. 91 ................................](section/91.md)
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 ................................](section/94.md)
+  - Policies of Insurance except Policies of Sea Insurance
+    - [s. 98 Meaning of policy of life insurance and policy of insurance against accident.](section/98.md)
+    - [s. 99 ................................](section/99.md)
+    - [s. 100 ................................](section/100.md)
+    - [s. 101 ................................](section/101.md)
+    - [s. 104 ................................](section/104.md)
+    - [s. 107 ................................](section/107.md)
+  - Stock Certificates to Bearer
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 Penalty for issuing stock certificate unstamped.](section/109.md)
+    - [s. 110 ................................](section/110.md)
+  - Warrants for Goods
+    - [s. 111 Provisions as to warrants for goods.](section/111.md)
+- Part III Supplemental
+  - [s. 112 ................................](section/112.md)
+  - Composition for certain Stamp Duties.
+    - [s. 114 ................................](section/114.md)
+    - [s. 115 ................................](section/115.md)
+    - [s. 116 ................................](section/116.md)
+  - Miscellaneous
+    - [s. 117 Conditions and agreements as to stamp duty void.](section/117.md)
+    - [s. 118 ................................](section/118.md)
+    - [s. 119 Instruments relating to Crown property.](section/119.md)
+    - [s. 120 As to instruments charged with duty of 35s.](section/120.md)
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 Definitions.](section/122.md)
+  - Repeal; Commencement; Short Title
+    - [s. 123 ................................](section/123.md)
+    - [s. 124 Commencement.](section/124.md)
+    - [s. 125 Short title.](section/125.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
+- THIRD SCHEDULE
