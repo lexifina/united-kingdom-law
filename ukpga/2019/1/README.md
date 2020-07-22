@@ -2,9 +2,9 @@
 
 2019 c. 1. Enacted 2019-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-04-06, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/1/2020-04-06
+Source: https://www.legislation.gov.uk/ukpga/2019/1/2020-07-22
 
 ## Contents
 
@@ -69,7 +69,9 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2020-04-06
     - [s. 46 Changes to periods for delivering returns and paying tax](section/46.md)
   - Stamp duty and SDRT
     - [s. 47 Stamp duty: transfers of listed securities and connected persons](section/47.md)
+    - [s. 47A Stamp duty: transfers of unlisted securities and connected persons](section/47A.md)
     - [s. 48 SDRT: listed securities and connected persons](section/48.md)
+    - [s. 48A SDRT: unlisted securities and connected persons](section/48A.md)
     - [s. 49 Stamp duty: exemption in respect of financial institutions in resolution](section/49.md)
     - [s. 50 Stamp duty and SDRT: exemptions in respect of share incentive plans](section/50.md)
   - Value added tax
