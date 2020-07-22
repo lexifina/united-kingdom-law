@@ -2,9 +2,9 @@
 
 2018 c. 13. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-11-22, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/13/2018-11-22
+Source: https://www.legislation.gov.uk/ukpga/2018/13/2020-07-22
 
 ## Contents
 
