@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-04-01, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-04-01
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-07-22
 
 ## Contents
 
@@ -668,7 +668,9 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-04-01
   - PART 1 Application of Part 7A of ITEPA 2003
     - Relevant step
       - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
-    - Meaning of “loan”, “quasi-loan” and “approved repayment date”
+      - [Sch. 11 para. 1A](schedule/11/paragraph/1A.md)
+      - [Sch. 11 para. 1B](schedule/11/paragraph/1B.md)
+    - Meaning of “loan” and “quasi loan”
       - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
     - Meaning of “outstanding”: loans
       - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
@@ -694,16 +696,16 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-04-01
     - Quasi-loans made in a depreciating currency
       - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
       - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
-    - Meaning of “approved fixed term loan”
+    - ...
       - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
-  - PART 2 Approval of a qualifying loan etc.
+  - PART 2 Accelerated payments
     - Application to HMRC
       - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
     - Qualifying payments condition
       - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
     - Commercial terms condition
       - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
-    - Accelerated payments
+    - ...
       - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
       - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
   - PART 3 Exclusions
@@ -724,6 +726,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-04-01
       - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
     - Acquisition of unlisted employer shares
       - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+    - Exclusion for relevant step within paragraph 1A where initial step excluded
+      - [Sch. 11 para. 35n1](schedule/11/paragraph/35n1.md)
   - PART 3A Duty to provide loan charge information to HMRC
     - [Sch. 11 para. 35A Duty to provide loan charge information](schedule/11/paragraph/35A.md)
     - [Sch. 11 para. 35B Duty to provide loan charge information](schedule/11/paragraph/35B.md)
@@ -760,7 +764,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-04-01
 - SCHEDULE 12 Trading income provided through third parties: loans etc outstanding on 5 April 2019
   - Application of sections 23A to 23H of ITTOIA 2005 in relation to loans etc. outstanding on 5 April 2019
     - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
-  - Meaning of “loan”, “quasi-loan” and “approved repayment date”
+    - [Sch. 12 para. 1A](schedule/12/paragraph/1A.md)
+  - Meaning of “loan” and “quasi loan”
     - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
   - Meaning of “outstanding”: loans
     - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
