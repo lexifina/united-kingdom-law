@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-07-24, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-08-10, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-07-24
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-08-10
 
 ## Contents
 
@@ -316,38 +316,21 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-07-24
     - The Mental Health (Conflict of Interest) (Scotland) Regulations 2017 (SSI 2017/174)
       - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
 - SCHEDULE 10 Mental health: Northern Ireland
-  - PART 1 Introductory provision etc
-    - Interpretation
-      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-    - Prescribed forms
-      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
-  - PART 2 Modifications of the Mental Health (Northern Ireland) Order 1986
-    - Applications for compulsory admission to hospital for assessment
-      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
-    - Medical recommendation
-      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
-    - Applications for compulsory admission for assessment in respect of patients already in hospital
-      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
-    - The assessment period
-      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
-    - Rectification of applications, recommendations and reports
-      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
-    - Detention for treatment
-      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
-    - Periods of remand to hospital
-      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
-    - Required medical evidence for remand to hospital, hospital or guardianship order, interim hospital order, determinations of question of fitness to be tried or finding of not guilty on ground of insanity
-      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
-    - Required medical evidence for hospital order in respect of certain other detained persons in their absence
-      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
-    - Directions for the transfer of prisoners etc to hospital
-      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
-    - Conveyance of accused or convicted persons to hospital
-      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
-    - Designation of, and admission of persons to, different hospitals in pursuance of hospital orders
-      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
-    - Code of practice
-      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
   - PART 3 Transitional provision
     - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
     - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
