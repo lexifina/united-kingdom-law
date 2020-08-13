@@ -2,9 +2,9 @@
 
 2011 c. 23. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-04-02, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-08-13, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/23/2020-04-02
+Source: https://www.legislation.gov.uk/ukpga/2011/23/2020-08-13
 
 ## Contents
 
@@ -162,6 +162,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2020-04-02
     - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
     - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
     - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 11A](schedule/6/paragraph/11A.md)
   - Requirement to destroy samples
     - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
   - Use of retained material
