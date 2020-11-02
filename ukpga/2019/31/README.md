@@ -1,0 +1,117 @@
+# Historical Institutional Abuse (Northern Ireland) Act 2019
+
+2019 c. 31. Enacted 2019-11-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-11-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2019/31/2020-11-02
+
+## Contents
+
+- PART 1 The Historical Institutional Abuse Redress Board
+  - The Board
+    - [s. 1 Establishment of the Board](section/1.md)
+  - Entitlement to compensation
+    - [s. 2 Entitlement to claim compensation](section/2.md)
+    - [s. 3 Restrictions on entitlement to claim compensation](section/3.md)
+    - [s. 4 Exclusions from entitlement to claim compensation](section/4.md)
+    - [s. 5 Application for compensation](section/5.md)
+    - [s. 6 Entitlement to claim compensation in respect of deceased person](section/6.md)
+  - Determination of application
+    - [s. 7 Priority of applications](section/7.md)
+    - [s. 8 Appointment of panel](section/8.md)
+    - [s. 9 Procedure](section/9.md)
+    - [s. 10 Power to compel giving of evidence](section/10.md)
+    - [s. 11 Advisors](section/11.md)
+  - Award of compensation
+    - [s. 12 Assessment of compensation](section/12.md)
+    - [s. 13 Actuarial adjustment of award](section/13.md)
+    - [s. 14 Initial payment of award](section/14.md)
+    - [s. 15 Status etc of award](section/15.md)
+  - Appeal
+    - [s. 16 Right to appeal](section/16.md)
+  - Miscellaneous
+    - [s. 17 Restrictions on public access](section/17.md)
+    - [s. 18 Information about legal advice and assistance](section/18.md)
+    - [s. 19 Rules](section/19.md)
+    - [s. 20 Rules: procedure](section/20.md)
+- PART 2 The Commissioner for Survivors of Institutional Childhood Abuse
+  - The Commissioner
+    - [s. 21 Establishment of the Commissioner](section/21.md)
+    - [s. 22 Principal aim of the Commissioner](section/22.md)
+  - The Advisory Panel
+    - [s. 23 The Advisory Panel](section/23.md)
+  - Functions
+    - [s. 24 General duties of the Commissioner](section/24.md)
+    - [s. 25 Powers of the Commissioner](section/25.md)
+    - [s. 26 Co-ordination of service provision etc](section/26.md)
+    - [s. 27 Monitoring specialist facilities](section/27.md)
+    - [s. 28 Functions relating to the Board, etc](section/28.md)
+  - Miscellaneous
+    - [s. 29 Independent review](section/29.md)
+    - [s. 30 Defamation: privilege](section/30.md)
+- PART 3 General
+  - [s. 31 Interpretation](section/31.md)
+  - [s. 32 Extent](section/32.md)
+  - [s. 33 Commencement](section/33.md)
+  - [s. 34 Short title](section/34.md)
+- SCHEDULE 1 The Historical Institutional Abuse Redress Board
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Advertisement in the Belfast Gazette
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Administrative functions exercisable by Northern Ireland Department
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Functions
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - President and other members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Staff, accommodation etc.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Delegation and committees
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Seal
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Evidence
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Funding
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Annual report
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Disqualification from the Assembly
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Freedom of information
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Public Services Ombudsman
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 The Commissioner for Survivors of Institutional Child Abuse
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - General powers
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Salary, etc
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Staff
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Delegation of functions of Commissioner
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Seal
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Evidence
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Property
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Funding
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Accounts
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Annual report
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Disqualification from the Assembly
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Freedom of information
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Public Services Ombudsman
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
