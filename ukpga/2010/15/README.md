@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-09-30, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-11-02, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-09-30
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-11-02
 
 ## Contents
 
@@ -691,6 +691,8 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-09-30
       - [Sch. 17 para. 6D](schedule/17/paragraph/6D.md)
     - Power of direction — Wales
       - [Sch. 17 para. 6E](schedule/17/paragraph/6E.md)
+    - Capacity of parents and persons over compulsory school age - Wales
+      - [Sch. 17 para. 6F](schedule/17/paragraph/6F.md)
   - Part 3 Tribunals in Scotland
     - Introductory
       - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
