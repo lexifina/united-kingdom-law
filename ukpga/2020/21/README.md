@@ -2,11 +2,9 @@
 
 2020 c. 21. Enacted 2020-11-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2020-11-11, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
-
-Source: https://www.legislation.gov.uk/ukpga/2020/21/2024-09-01
+Source: https://www.legislation.gov.uk/ukpga/2020/21/2020-11-11
 
 ## Contents
 
@@ -31,14 +29,14 @@ Source: https://www.legislation.gov.uk/ukpga/2020/21/2024-09-01
     - [s. 15 Aid for fruit and vegetable producer organisations](section/15.md)
     - [s. 16 Support for rural development](section/16.md)
     - [s. 17 Continuing EU programmes: power to provide financial assistance](section/17.md)
-    - [s. 18 Assimilated direct legislation](section/18.md)
+    - [s. 18 Retained direct EU legislation](section/18.md)
 - PART 2 Food and agricultural markets
   - CHAPTER 1 Food security
     - [s. 19 Duty to report to Parliament on UK food security](section/19.md)
   - CHAPTER 2 Intervention in agricultural markets
     - [s. 20 Declaration relating to exceptional market conditions](section/20.md)
     - [s. 21 Exceptional market conditions: powers available to Secretary of State](section/21.md)
-    - [s. 22 Modification of certain assimilated direct legislation in connection with exceptional market conditions and for general purposes](section/22.md)
+    - [s. 22 Modification of certain retained direct EU legislation in connection with exceptional market conditions and for general purposes](section/22.md)
 - PART 3 Transparency and fairness in the agri-food supply chain
   - CHAPTER 1 Collection and sharing of data
     - [s. 23 Agri-food supply chains: requirement to provide information](section/23.md)
@@ -196,7 +194,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/21/2024-09-01
   - PART 2 Intervention in agricultural markets
     - Exceptional market conditions: powers available to DAERA
       - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
-    - Power to modify assimilated direct legislation relating to public market intervention and private storage aid
+    - Power to modify retained direct EU legislation relating to public market intervention and private storage aid
       - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
   - PART 3 Collection and sharing of data
     - Agri-food supply chains: requirement to provide information
