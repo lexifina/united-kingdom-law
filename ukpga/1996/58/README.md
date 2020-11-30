@@ -1,0 +1,137 @@
+# Deer (Scotland) Act 1996
+
+1996 c. 58. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 121 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/58
+
+Source: https://www.legislation.gov.uk/ukpga/1996/58/2020-11-30
+
+## Contents
+
+- Part I Scottish Natural Heritage’s deer functions
+  - [s. 1 The Deer Commission for Scotland.](section/1.md)
+  - [s. 2 Advice and annual reports to Secretary of State.](section/2.md)
+  - [s. 3 Power of SNH to facilitate exercise of functions.](section/3.md)
+  - [s. 4 Appointment of panels.](section/4.md)
+- Part II Conservation, control and sustainable management of deer
+  - Close seasons
+    - [s. 5 Close seasons.](section/5.md)
+  - Code of practice on deer management
+    - [s. 5A Code of practice on deer management](section/5A.md)
+    - [s. 5B Review of compliance with code of practice on deer management](section/5B.md)
+  - Deer management plans, control agreements and control schemes
+    - [s. 6 Control areas.](section/6.md)
+    - [s. 6A Deer management plans](section/6A.md)
+    - [s. 7 Control agreements.](section/7.md)
+    - [s. 8 Control schemes.](section/8.md)
+    - [s. 9 Recovery of expenses incurred in fulfilment of control scheme.](section/9.md)
+  - Emergency measures
+    - [s. 10 Emergency measures to prevent damage by deer.](section/10.md)
+    - [s. 11 Application of section 10 in relation to the natural heritage.](section/11.md)
+  - Control agreements, control schemes and emergency measures: supplementary provisions
+    - [s. 12 Power of Commission to provide services and equipment and to make certain payments.](section/12.md)
+    - [s. 13 Offences in relation to Part II.](section/13.md)
+    - [s. 14 Limitation of criminal liability.](section/14.md)
+    - [s. 15 Power to enter on land.](section/15.md)
+    - [s. 16 Service of notices.](section/16.md)
+- Part III Offences in relation to deer
+  - Unlawful killing, taking and injuring of deer
+    - [s. 17 Unlawful killing, taking and injuring of deer.](section/17.md)
+  - Register of persons competent to shoot deer
+    - [s. 17A Register of persons competent to shoot deer](section/17A.md)
+    - [s. 17B Review of competence etc. by SNH](section/17B.md)
+  - Other offences and attempts to commit offences
+    - [s. 18 Taking or killing at night.](section/18.md)
+    - [s. 19 Use of vehicles to drive deer.](section/19.md)
+    - [s. 20 Other offences connected with moving vehicles.](section/20.md)
+    - [s. 21 Firearms and ammunition.](section/21.md)
+    - [s. 22 Offences committed by more than one person.](section/22.md)
+    - [s. 23 Illegal possession of deer.](section/23.md)
+    - [s. 24 Attempts to commit offences.](section/24.md)
+  - Exemption for certain acts
+    - [s. 25 Action intended to prevent suffering.](section/25.md)
+    - [s. 26 Right of occupier in respect of deer causing ... damage to crops etc. on certain ground.](section/26.md)
+- Part IV Enforcement, licensing of venison dealing and miscellaneous provisions
+  - Enforcement
+    - [s. 27 Powers of search and seizure.](section/27.md)
+    - [s. 28 Power of arrest.](section/28.md)
+    - [s. 29 Offences by bodies corporate.](section/29.md)
+    - [s. 29A Offences by Scottish partnerships etc.](section/29A.md)
+    - [s. 30 Power of court on trial for one offence to convict of another.](section/30.md)
+    - [s. 31 Powers of court on conviction for offences.](section/31.md)
+    - [s. 32 Disposal of deer liable to forfeiture.](section/32.md)
+  - Licensing of dealing in venison
+    - [s. 33 Licences to deal in venison.](section/33.md)
+    - [s. 34 Records kept by venison dealers.](section/34.md)
+    - [s. 35 Reciprocal arrangements.](section/35.md)
+    - [s. 36 Offences in connection with venison dealing.](section/36.md)
+  - Further powers of SNH
+    - [s. 37 Restrictions on granting of certain authorisations.](section/37.md)
+    - [s. 38 Limitation on requirement to obtain game licence.](section/38.md)
+    - [s. 39 Deer killed under the authority of SNH.](section/39.md)
+    - [s. 40 Power of Commission to require return of number of deer killed.](section/40.md)
+    - [s. 40A Power of SNH to require return of number of deer planned to be killed](section/40A.md)
+  - Miscellaneous and general provisions
+    - [s. 41 Savings for certain rights.](section/41.md)
+    - [s. 42 Information to be supplied to owner of certain land.](section/42.md)
+    - [s. 43 Application of Act to farmed deer.](section/43.md)
+    - [s. 44 Application of Act to the Crown.](section/44.md)
+    - [s. 45 Interpretation.](section/45.md)
+    - [s. 46 Financial provisions](section/46.md)
+    - [s. 47 Orders, regulations etc.](section/47.md)
+    - [s. 48 Short title, consequential amendments, repeals, extent and commencement.](section/48.md)
+- SCHEDULE 1 Deer Commission for Scotland: supplementary provisions
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Meetings and proceedings of SNH
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Office and staff of SNH
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Provisions as to control schemes
+  - Part I Procedure for making control schemes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part II Procedure for varying or revoking control schemes
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part III General procedural provisions
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part IV Provisions as to the validity of control schemes and of variations and revocations of such schemes
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Penalties
+- SCHEDULE 4 Consequential amendments
+  - The Agriculture (Scotland) Act 1948 (c.45)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Deer Act 1991 (c.54)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+- SCHEDULE 5 Repeals
+- SCHEDULE 6 Transitional, transitory and saving provisions
+  - Transitional provision
+    - [Sch. 6 heading transitional-provision para. 1](schedule/6/crossheading/transitional-provision/paragraph/1.md)
+  - Transitory provisions
+    - [Sch. 6 heading transitory-provisions para. 2](schedule/6/crossheading/transitory-provisions/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Savings
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - TABLE OF DERIVATIONS
+    - [Sch. 6 heading table-of-derivations para. 1 Notes:](schedule/6/crossheading/table-of-derivations/paragraph/1.md)
+    - [Sch. 6 heading table-of-derivations para. 2](schedule/6/crossheading/table-of-derivations/paragraph/2.md)
+  - Acts of Parliament
