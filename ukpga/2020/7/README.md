@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-11-30, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-11-30
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-12-01
 
 ## Contents
 
@@ -929,6 +929,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-11-30
       - [Sch. 24 para. 12](schedule/24/paragraph/12.md)
     - Serious Organised Crime and Police Act 2005
       - [Sch. 24 para. 13](schedule/24/paragraph/13.md)
+    - Sentencing Code
+      - [Sch. 24 para. 14](schedule/24/paragraph/14.md)
 - SCHEDULE 25 Public participation in proceedings conducted by video or audio
   - Criminal, civil and family proceedings
     - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
