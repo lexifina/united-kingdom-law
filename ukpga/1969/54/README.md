@@ -1,0 +1,224 @@
+# Children and Young Persons Act 1969
+
+1969 c. 54. Enacted 1969-10-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1969/54
+
+Source: https://www.legislation.gov.uk/ukpga/1969/54/2020-12-01
+
+## Contents
+
+- Part I Care and other treatment of juveniles through court proceedings
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - Consequential changes in criminal proceedings etc.
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 Restrictions on criminal proceedings for offences by young persons.](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 Alterations in treatment of young offenders etc.](section/7.md)
+    - [s. 7A ................................](section/7A.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 Investigations by local authorities.](section/9.md)
+    - [s. 10 Further limitations on publication of particulars of children and young persons etc.](section/10.md)
+  - Supervision
+    - [s. 11 ................................](section/11.md)
+    - [s. 11A ................................](section/11A.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 12A ................................](section/12A.md)
+    - [s. 12AA ................................](section/12AA.md)
+    - [s. 12B ................................](section/12B.md)
+    - [s. 12C ................................](section/12C.md)
+    - [s. 12D ................................](section/12D.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 14A ................................](section/14A.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 16A ................................](section/16A.md)
+    - [s. 16B ................................](section/16B.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+  - Committal to care of local authorities
+    - [s. 20 ................................](section/20.md)
+    - [s. 20A ................................](section/20A.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 21A ................................](section/21A.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 Remands and committals to local authority accommodation.](section/23.md)
+    - [s. 23A Liability to arrest for breaking conditions of remand.](section/23A.md)
+    - [s. 23B Report by local authority in certain cases where person remanded on bail](section/23B.md)
+    - [s. 23AA Electronic monitoring of conditions of remand](section/23AA.md)
+    - [s. 24 ................................](section/24.md)
+  - Transfer
+    - [s. 25 Transfers between England or Wales and Northern Ireland.](section/25.md)
+    - [s. 26 Transfers between England or Wales and the Channel Islands or Isle of Man.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+  - Detention
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 Recognisance on release of arrested child or young person.](section/29.md)
+    - [s. 30 Detention of young offenders in community homes.](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Detention of absentees.](section/32.md)
+  - Conflict of interest between parent and child or young person
+    - [s. 32A ................................](section/32A.md)
+    - [s. 32B ................................](section/32B.md)
+    - [s. 32C ................................](section/32C.md)
+    - [s. 33 ................................](section/33.md)
+  - Transitional modifications of Part I for persons of specified ages
+    - [s. 34 Transitional modifications of Part I for persons of specified ages.](section/34.md)
+- Part II Accommodation etc. for children in care, and foster children
+  - Community homes
+    - [s. 35 ................................](section/35.md)
+    - [s. 46 Discontinuance of approved schools etc. on establishment of community homes.](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 58 ................................](section/58.md)
+- Part III Miscellaneous and general
+  - [s. 60 ................................](section/60.md)
+  - [s. 61 ................................](section/61.md)
+  - [s. 62 ................................](section/62.md)
+  - Financial provisions
+    - [s. 65 Grants to voluntary organisations etc.](section/65.md)
+    - [s. 66 Increase of rate support grants.](section/66.md)
+    - [s. 67 Administrative expenses.](section/67.md)
+  - Supplemental
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Orders and regulations etc.](section/69.md)
+    - [s. 70 Interpretation and ancillary provisions.](section/70.md)
+    - [s. 71 Application to Isles of Scilly.](section/71.md)
+    - [s. 72 Transitional provisions, minor amendments and repeals etc.](section/72.md)
+    - [s. 73 Citation, commencement and extent.](section/73.md)
+- SCHEDULE 1 ...
+- SCHEDULE 2 ...
+- SCHEDULE 3 Approved schools and other institutions
+  - Provisions as to staff
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Use of premises as homes for children in care
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Financial provisions
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Interpretation
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Transitional provisions and savings
+  - Part I General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 1A](schedule/4/paragraph/1A.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Part II Interim Provisions Pending Commencement of Provisions of Social Work (Scotland) Act 1968
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- Schedule 5 Minor and Consequential Amendments of Enactments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Act of 1933
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - The Education Act 1944
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - The Criminal Justice Act 1948
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - The Sexual Offences Act 1956
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - The Affiliation Proceedings Act 1957
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - The Adoption Act 1958
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+  - The Mental Health Act 1959
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+  - The Criminal Justice Act 1961.
+    - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+  - The Act of 1963
+    - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+    - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+    - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+    - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+    - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+  - The Criminal Justice Act 1967
+    - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
+    - [Sch. 5 para. 56](schedule/5/paragraph/56.md)
+  - The Social Work (Scotland) Act 1968
+    - [Sch. 5 para. 57](schedule/5/paragraph/57.md)
+    - [Sch. 5 para. 58](schedule/5/paragraph/58.md)
+    - [Sch. 5 para. 59](schedule/5/paragraph/59.md)
+    - [Sch. 5 para. 60](schedule/5/paragraph/60.md)
+    - [Sch. 5 para. 61](schedule/5/paragraph/61.md)
+    - [Sch. 5 para. 62](schedule/5/paragraph/62.md)
+    - [Sch. 5 para. 63](schedule/5/paragraph/63.md)
+    - [Sch. 5 para. 64](schedule/5/paragraph/64.md)
+    - [Sch. 5 para. 65](schedule/5/paragraph/65.md)
+    - [Sch. 5 para. 66](schedule/5/paragraph/66.md)
+    - [Sch. 5 para. 67](schedule/5/paragraph/67.md)
+    - [Sch. 5 para. 69](schedule/5/paragraph/69.md)
+    - [Sch. 5 para. 70](schedule/5/paragraph/70.md)
+    - [Sch. 5 para. 71](schedule/5/paragraph/71.md)
+    - [Sch. 5 para. 72](schedule/5/paragraph/72.md)
+    - [Sch. 5 para. 73](schedule/5/paragraph/73.md)
+    - [Sch. 5 para. 74](schedule/5/paragraph/74.md)
+    - [Sch. 5 para. 75](schedule/5/paragraph/75.md)
+    - [Sch. 5 para. 76](schedule/5/paragraph/76.md)
+    - [Sch. 5 para. 77](schedule/5/paragraph/77.md)
+    - [Sch. 5 para. 78](schedule/5/paragraph/78.md)
+    - [Sch. 5 para. 79](schedule/5/paragraph/79.md)
+    - [Sch. 5 para. 80](schedule/5/paragraph/80.md)
+    - [Sch. 5 para. 81](schedule/5/paragraph/81.md)
+    - [Sch. 5 para. 82](schedule/5/paragraph/82.md)
+    - [Sch. 5 para. 83](schedule/5/paragraph/83.md)
+- Schedule 6 Repeals
+- SCHEDULE 7 ...
