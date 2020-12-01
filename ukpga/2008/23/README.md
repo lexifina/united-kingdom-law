@@ -1,0 +1,146 @@
+# Children and Young Persons Act 2008
+
+2008 c. 23. Enacted 2008-11-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
+
+Source: https://www.legislation.gov.uk/ukpga/2008/23/2020-12-01
+
+## Contents
+
+- Part 1 Delivery of social work services for children and young persons
+  - [s. 1 Power to enter into arrangements for discharge of care functions](section/1.md)
+  - [s. 2 Restrictions on arrangements under section 1](section/2.md)
+  - [s. 3 Effect of arrangements under section 1](section/3.md)
+  - [s. 4 Regulation of providers of social work services](section/4.md)
+  - [s. 5 Functions under this Part to be social services functions](section/5.md)
+  - [s. 6 Piloting and expiry of arrangements under this Part](section/6.md)
+- Part 2 Functions in relation to children and young persons
+  - Well-being
+    - [s. 7 Well-being of children and young persons](section/7.md)
+  - Accommodation
+    - [s. 8 Provision of accommodation and maintenance for children who are looked after by a local authority](section/8.md)
+    - [s. 9 General duty of local authority to secure sufficient accommodation](section/9.md)
+  - Independent reviewing officers
+    - [s. 10 Independent reviewing officers](section/10.md)
+    - [s. 11 Power to make further provision concerning independent reviewing officers: England](section/11.md)
+    - [s. 12 Power to make further provision concerning independent reviewing officers: Wales](section/12.md)
+    - [s. 13 Orders under sections 11 and 12: supplementary provisions](section/13.md)
+    - [s. 14 Expiry of powers conferred by sections 11 and 12](section/14.md)
+  - Visiting
+    - [s. 15 Duty of local authority to ensure visits to looked after children and others](section/15.md)
+    - [s. 16 Independent visitors for children looked after by a local authority](section/16.md)
+    - [s. 17 Children in long-term care: notification to appropriate officer etc](section/17.md)
+    - [s. 18 Visits to children in long-term care](section/18.md)
+  - Provision of support services for certain children
+    - [s. 19 Support for accommodated children](section/19.md)
+  - Education and training
+    - [s. 20 Designated member of staff at school for pupils looked after by a local authority](section/20.md)
+    - [s. 20A Designated staff member for previously looked after pupils](section/20A.md)
+    - [s. 21 Entitlement to payment in respect of higher education](section/21.md)
+    - [s. 22 Assistance to pursue education or training](section/22.md)
+    - [s. 23 Extension of entitlements to personal adviser and to assistance in connection with education or training](section/23.md)
+  - Cash payments
+    - [s. 24 Extension of power to make payments in cash](section/24.md)
+  - Care breaks
+    - [s. 25 Breaks from caring for disabled children](section/25.md)
+  - Enforcement of care standards
+    - [s. 26 Power of Chief Inspector where person is failing to comply with requirement relating to children’s home etc.](section/26.md)
+    - [s. 27 Notice restricting accommodation at certain establishments](section/27.md)
+    - [s. 28 Appeals etc. in relation to notices under section 22B of the 2000 Act](section/28.md)
+    - [s. 29 Notification of matters relating to persons carrying on or managing children’s homes etc.](section/29.md)
+  - Emergency protection orders
+    - [s. 30 Removal of restriction on hearing of application for discharge of emergency protection order](section/30.md)
+  - Information and research
+    - [s. 31 Supply of information concerning the death of children to Local Safeguarding Children Boards in England and Safeguarding Children Boards in Wales](section/31.md)
+    - [s. 32 Power of Registrar General to supply information to national authorities](section/32.md)
+    - [s. 33 Research etc. into matters connected with certain statutory functions](section/33.md)
+- Part 3 Adoption and Fostering
+  - [s. 34 Independent review of determinations relating to adoption](section/34.md)
+  - [s. 35 Extension of period allowed for making regulations under section 45 or 46 of the Children Act 2004](section/35.md)
+- Part 4 Orders under Part 2 of the 1989 Act
+  - Residence orders
+    - [s. 36 Entitlement of relative to apply for a residence order](section/36.md)
+    - [s. 37 Duration of residence orders](section/37.md)
+  - Special guardianship orders
+    - [s. 38 Entitlement of relative to apply for a special guardianship order](section/38.md)
+- Part 5 Supplementary, General and Final Provisions
+  - Supplementary
+    - [s. 39 Minor and supplementary amendments to the 1989 Act](section/39.md)
+  - General
+    - [s. 40 Orders, regulations and guidance](section/40.md)
+    - [s. 41 Interpretation](section/41.md)
+    - [s. 42 Repeals](section/42.md)
+  - Final
+    - [s. 43 Extent](section/43.md)
+    - [s. 44 Commencement](section/44.md)
+    - [s. 45 Short title](section/45.md)
+- SCHEDULE 1 Children looked after by local authorities: supplementary and consequential provisions
+  - The 1989 Act
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Children (Scotland) Act 1995 (c. 36)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Care Standards Act 2000 (c. 14)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Adoption and Children Act 2002 (c. 38)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Sexual Offences Act 2003 (c. 42)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Criminal Justice and Immigration Act 2008
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Transitory modifications of Schedule 2 to the 1989 Act
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Minor and supplementary amendments to the 1989 Act
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+- SCHEDULE 4 Repeals
