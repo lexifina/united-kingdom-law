@@ -1,0 +1,460 @@
+# Policing and Crime Act 2009
+
+2009 c. 26. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
+
+Source: https://www.legislation.gov.uk/ukpga/2009/26/2020-12-01
+
+## Contents
+
+- Part 1 Police reform
+  - Public accountability
+    - [s. 1 Duty of police authorities in relation to public accountability](section/1.md)
+  - Appointment of senior officers
+    - [s. 2 Police Senior Appointments Panel](section/2.md)
+    - [s. 3 Regulations about senior officers](section/3.md)
+    - [s. 4 Metropolitan police force appointments](section/4.md)
+  - Police co-operation
+    - [s. 5 Police collaboration](section/5.md)
+    - [s. 6 Authorisations to interfere with property etc](section/6.md)
+    - [s. 7 Authorisations for obtaining and disclosing communications data](section/7.md)
+    - [s. 8 Authorisations of covert human intelligence sources: conditions](section/8.md)
+    - [s. 9 Authorisations for surveillance etc](section/9.md)
+    - [s. 10 Police officers engaged on service outside their force etc](section/10.md)
+    - [s. 11 Police equipment](section/11.md)
+    - [s. 12 Police procedures and practices](section/12.md)
+    - [s. 13 Police facilities and services](section/13.md)
+- Part 2 Sexual offences and sex establishments
+  - Prostitution
+    - [s. 14 Paying for sexual services of a prostitute subjected to force etc: England and Wales](section/14.md)
+    - [s. 15 Paying for sexual services of a prostitute subjected to force etc: Northern Ireland](section/15.md)
+    - [s. 16 Amendment to offence of loitering etc for purposes of prostitution](section/16.md)
+    - [s. 17 Orders requiring attendance at meetings](section/17.md)
+    - [s. 18 Rehabilitation of offenders: orders under section 1(2A) of the Street Offences Act 1959](section/18.md)
+    - [s. 19 Soliciting: England and Wales](section/19.md)
+    - [s. 20 Soliciting: Northern Ireland](section/20.md)
+  - Closure orders: sexual offences
+    - [s. 21 Closure orders](section/21.md)
+  - Orders imposed on sex offenders
+    - [s. 22 Time limits](section/22.md)
+    - [s. 23 Foreign travel orders: grounds](section/23.md)
+    - [s. 24 Foreign travel orders: duration](section/24.md)
+    - [s. 25 Foreign travel orders: surrender of passports](section/25.md)
+  - Indecent photographs of children
+    - [s. 26 Penalty for contravening notice relating to encrypted information](section/26.md)
+  - Sex establishments
+    - [s. 27 Regulation of lap dancing and other sexual entertainment venues etc](section/27.md)
+- Part 3 Alcohol misuse
+  - [s. 28 Selling alcohol to children](section/28.md)
+  - [s. 29 Confiscating alcohol from young persons](section/29.md)
+  - [s. 30 Offence of persistently possessing alcohol in a public place](section/30.md)
+  - [s. 31 Directions to individuals who represent a risk of disorder](section/31.md)
+  - [s. 32 Mandatory licensing conditions relating to alcohol](section/32.md)
+  - [s. 33 Individual members of licensing authorities to be interested parties](section/33.md)
+- Part 4 Injunctions: gang-related violence and drug-dealing activity
+  - Power to grant injunctions
+    - [s. 34 Injunctions to prevent gang-related violence and drug-dealing activity](section/34.md)
+  - Contents of injunctions
+    - [s. 35 Contents of injunctions](section/35.md)
+    - [s. 36 Contents of injunctions: supplemental](section/36.md)
+  - Applications
+    - [s. 37 Applications for injunctions under section 34](section/37.md)
+    - [s. 38 Consultation by applicants for injunctions](section/38.md)
+    - [s. 39 Applications without notice](section/39.md)
+  - Interim injunctions
+    - [s. 40 Interim injunctions: adjournment of on notice hearing](section/40.md)
+    - [s. 41 Interim injunctions: adjournment of without notice hearing](section/41.md)
+  - Variation and discharge
+    - [s. 42 Variation or discharge of injunctions](section/42.md)
+  - Arrest and remand
+    - [s. 43 Arrest without warrant](section/43.md)
+    - [s. 44 Issue of warrant of arrest](section/44.md)
+    - [s. 45 Remand for medical examination and report](section/45.md)
+    - [s. 46 Further provision about remands](section/46.md)
+    - [s. 46A Breach of injunction: supplementary powers in respect of under-18s](section/46A.md)
+  - Appeals
+    - [s. 46B Appeals against decisions of youth courts](section/46B.md)
+  - Miscellaneous
+    - [s. 47 Guidance](section/47.md)
+    - [s. 48 Supplemental](section/48.md)
+    - [s. 49 Interpretation](section/49.md)
+    - [s. 50 Review of operation of this Part](section/50.md)
+- Part 5 Proceeds of crime
+  - Confiscation
+    - [s. 51 Recovery of expenses etc](section/51.md)
+    - [s. 52 Power to retain seized property: England and Wales](section/52.md)
+    - [s. 53 Power to retain seized property: Scotland](section/53.md)
+    - [s. 54 Power to retain seized property: Northern Ireland](section/54.md)
+    - [s. 55 Search and seizure of property: England and Wales](section/55.md)
+    - [s. 56 Search and seizure of property: Scotland](section/56.md)
+    - [s. 57 Search and seizure of property: Northern Ireland](section/57.md)
+    - [s. 58 Power to sell seized personal property: England and Wales](section/58.md)
+    - [s. 59 Power to sell seized personal property: Scotland](section/59.md)
+    - [s. 60 Power to sell seized personal property: Northern Ireland](section/60.md)
+    - [s. 61 Payment of compensation](section/61.md)
+  - Civil recovery
+    - [s. 62 Limitation](section/62.md)
+    - [s. 63 Power to search vehicles](section/63.md)
+    - [s. 64 Detention of seized cash](section/64.md)
+    - [s. 65 Forfeiture of detained cash](section/65.md)
+  - Detained cash investigations
+    - [s. 66 Transfer of jurisdiction to Crown Court](section/66.md)
+- Part 6 Extradition
+  - Alerts
+    - [s. 67 Article 26 alerts](section/67.md)
+    - [s. 68 Article 95 alerts](section/68.md)
+  - Deferral of extradition
+    - [s. 69 Extradition to category 1 territory](section/69.md)
+    - [s. 70 Extradition to category 2 territory](section/70.md)
+    - [s. 71 Person charged with offence or serving sentence of imprisonment](section/71.md)
+  - Return to overseas territory
+    - [s. 72 Return from category 1 territory](section/72.md)
+    - [s. 73 Return from category 2 territory](section/73.md)
+  - Extradition to UK
+    - [s. 74 Return to extraditing territory etc](section/74.md)
+    - [s. 75 Cases in which sentence treated as served](section/75.md)
+    - [s. 76 Dealing with person for other offences](section/76.md)
+  - Ancillary matters
+    - [s. 77 Provisional arrest](section/77.md)
+    - [s. 78 Use of live link in extradition proceedings](section/78.md)
+- Part 7 Aviation security
+  - [s. 79 Security planning for airports](section/79.md)
+  - [s. 80 Policing at airports](section/80.md)
+- Part 8 Miscellaneous
+  - Chapter 1 Safeguarding vulnerable groups and criminal records
+    - Renaming of Independent Barring Board
+      - [s. 81 Renaming of Independent Barring Board](section/81.md)
+    - Safeguarding vulnerable groups: England and Wales
+      - [s. 82 Educational establishments: check on members of governing body](section/82.md)
+      - [s. 83 Monitoring application](section/83.md)
+      - [s. 84 Monitoring: additional fees](section/84.md)
+      - [s. 85 Vetting information](section/85.md)
+      - [s. 86 Notification of cessation of monitoring](section/86.md)
+      - [s. 87 Notification of proposal to include person in barred list](section/87.md)
+      - [s. 88 Provision of safeguarding information to the police](section/88.md)
+      - [s. 89 Barring process](section/89.md)
+    - Safeguarding vulnerable groups: Northern Ireland
+      - [s. 90 Notification of proposal to include person in barred list: Northern Ireland](section/90.md)
+      - [s. 91 Provision of safeguarding information to the police: Northern Ireland](section/91.md)
+      - [s. 92 Barring process: Northern Ireland](section/92.md)
+    - Criminal records etc
+      - [s. 93 Criminal conviction certificates to be given to employers](section/93.md)
+      - [s. 94 Certificates of criminal records etc: right to work information](section/94.md)
+      - [s. 95 Criminal conviction certificates: verification of identity](section/95.md)
+      - [s. 96 Registered persons](section/96.md)
+      - [s. 97 Criminal records: applications](section/97.md)
+  - Chapter 2 Other
+    - Border controls
+      - [s. 98 General information powers in relation to persons entering or leaving the UK](section/98.md)
+      - [s. 99 Powers in relation to cash](section/99.md)
+      - [s. 100 Lawful interception of postal items by Revenue and Customs](section/100.md)
+      - [s. 101 Prohibition on importation or exportation of false identity documents etc](section/101.md)
+      - [s. 102 Prohibition on importation of offensive weapons](section/102.md)
+    - Football spectators
+      - [s. 103 Prohibiting attendance at matches in Scotland and Northern Ireland etc](section/103.md)
+      - [s. 104 Requirements to report at police stations](section/104.md)
+      - [s. 105 Enforcement of 1989 Act in Scotland and Northern Ireland](section/105.md)
+      - [s. 106 Enforcement of 2006 Act in England and Wales and Northern Ireland](section/106.md)
+      - [s. 107 Relevant offences for purposes of Part 2 of 1989 Act](section/107.md)
+    - Other
+      - [s. 108 Strategies for crime reduction etc: probation authorities](section/108.md)
+      - [s. 109 Application of aspects of UK law to SOCA employees working abroad](section/109.md)
+      - [s. 110 Partial exemption for SCDEA from Firearms Act 1968](section/110.md)
+      - [s. 111 Removal of limitation on warrants under Misuse of Drugs Act 1971](section/111.md)
+- Part 9 General
+  - [s. 112 Minor and consequential amendments and repeals and revocations](section/112.md)
+  - [s. 113 Transitional, transitory and saving provision](section/113.md)
+  - [s. 113A Northern Ireland: minor and consequential amendments etc](section/113A.md)
+  - [s. 114 Financial provisions](section/114.md)
+  - [s. 115 Extent](section/115.md)
+  - [s. 116 Commencement](section/116.md)
+  - [s. 117 Short title](section/117.md)
+- Schedule 1 Schedule to the Street Offences Act 1959
+- Schedule 2 Closure orders
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- Schedule 3 Lap dancing and other sexual entertainment venues etc: transitional provision
+  - Effect of section 27: cases where no existing resolutions passed
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Effect of section 27: cases where existing resolutions in force
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Power to make transitional provision on adoption of Schedule 3 to the 1982 Act as amended
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Duty to consult about adopting Schedule 3 to the 1982 Act as amended
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Interpretation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- Schedule 4 Mandatory licensing conditions relating to alcohol
+  - Part 1 Premises licences
+    - Types of mandatory conditions
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Power of Secretary of State to impose section 19(4) mandatory conditions
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Part 2 Club premises certificates
+    - Mandatory conditions relating to the supply of alcohol to members or guests
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Power of Secretary of State to impose section 73A mandatory conditions
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- Schedule 5 Injunctions: powers to remand
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Remand in custody or on bail
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Further remand
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Postponement of taking recognizance
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Requirements imposed on remand on bail
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 5A Breach of injunction: powers of court in respect of under-18s
+  - Part 1 Introductory
+    - Power to make supervision order or detention order
+      - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - Part 2 Supervision orders
+    - Supervision orders
+      - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+    - Supervision requirements
+      - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+    - Activity requirements
+      - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+    - Curfew requirements
+      - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+    - Electronic monitoring requirements
+      - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+    - “Responsible officer”
+      - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+    - Amendment of operative period
+      - [Sch. 5A para. 8](schedule/5A/paragraph/8.md)
+    - Amendment on change of area of residence
+      - [Sch. 5A para. 9](schedule/5A/paragraph/9.md)
+    - Revocation of supervision order
+      - [Sch. 5A para. 10](schedule/5A/paragraph/10.md)
+    - Compliance with supervision order
+      - [Sch. 5A para. 11](schedule/5A/paragraph/11.md)
+    - Non-compliance with supervision order
+      - [Sch. 5A para. 12](schedule/5A/paragraph/12.md)
+    - Copies of supervision order etc
+      - [Sch. 5A para. 13](schedule/5A/paragraph/13.md)
+  - Part 3 Detention orders
+    - Detention orders
+      - [Sch. 5A para. 14](schedule/5A/paragraph/14.md)
+    - Revocation of detention order
+      - [Sch. 5A para. 15](schedule/5A/paragraph/15.md)
+- Schedule 6 Amendment of Part 3 of the Aviation Security Act 1982
+  - Part 1 Amendments
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Part 2 Transitional and saving provision
+    - Transitional provision for designated airports
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Repeal of section 30 of the 1982 Act
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+- Schedule 7 Minor and consequential amendments
+  - Part 1 Police collaboration
+    - Police Act 1996 (c. 16)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Railways and Transport Safety Act 2003 (c. 20)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Energy Act 2004 (c. 20)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Part 2 Police authorisations in respect of communications data
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Part 3 Sexual offences and sex establishments
+    - Children and Young Persons Act 1969 (c. 54)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Bail Act 1976 (c. 63)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Child Abduction Act 1984 (c. 37)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Licensing Act 2003 (c. 17)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Sexual Offences (Northern Ireland) Order 2008 (S.I. 1769 (N.I. 2))
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - Part 4 Alcohol misuse other than mandatory licensing conditions
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - Part 5 Mandatory licensing conditions relating to alcohol
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+  - Part 6 Proceeds of crime: confiscation
+    - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8))
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - Bankruptcy (Scotland) Act 1985 (c. 66)
+      - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+      - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+      - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+      - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+      - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+      - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+      - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - Insolvency Act 1986 (c. 45)
+      - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+      - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+      - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+      - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+      - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+      - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+    - Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19))
+      - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+      - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+      - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+      - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+      - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+      - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+    - Access to Justice Act 1999 (c. 22)
+      - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+      - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+      - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+      - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+      - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+      - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+      - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+      - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+      - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+      - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+      - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+      - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+      - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+      - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+      - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+      - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+      - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+      - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+      - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+      - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+      - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+      - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
+      - [Sch. 7 para. 88](schedule/7/paragraph/88.md)
+      - [Sch. 7 para. 89](schedule/7/paragraph/89.md)
+      - [Sch. 7 para. 90](schedule/7/paragraph/90.md)
+      - [Sch. 7 para. 91](schedule/7/paragraph/91.md)
+      - [Sch. 7 para. 92](schedule/7/paragraph/92.md)
+      - [Sch. 7 para. 93](schedule/7/paragraph/93.md)
+      - [Sch. 7 para. 94](schedule/7/paragraph/94.md)
+      - [Sch. 7 para. 95](schedule/7/paragraph/95.md)
+    - Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))
+      - [Sch. 7 para. 96](schedule/7/paragraph/96.md)
+  - Part 7 Proceeds of crime: forfeiture of detained cash
+    - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8))
+      - [Sch. 7 para. 97](schedule/7/paragraph/97.md)
+    - Access to Justice Act 1999 (c. 22)
+      - [Sch. 7 para. 98](schedule/7/paragraph/98.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 7 para. 99](schedule/7/paragraph/99.md)
+      - [Sch. 7 para. 100](schedule/7/paragraph/100.md)
+      - [Sch. 7 para. 101](schedule/7/paragraph/101.md)
+      - [Sch. 7 para. 102](schedule/7/paragraph/102.md)
+      - [Sch. 7 para. 103](schedule/7/paragraph/103.md)
+      - [Sch. 7 para. 104](schedule/7/paragraph/104.md)
+      - [Sch. 7 para. 105](schedule/7/paragraph/105.md)
+      - [Sch. 7 para. 106](schedule/7/paragraph/106.md)
+      - [Sch. 7 para. 107](schedule/7/paragraph/107.md)
+      - [Sch. 7 para. 108](schedule/7/paragraph/108.md)
+      - [Sch. 7 para. 109](schedule/7/paragraph/109.md)
+      - [Sch. 7 para. 110](schedule/7/paragraph/110.md)
+      - [Sch. 7 para. 111](schedule/7/paragraph/111.md)
+    - Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))
+      - [Sch. 7 para. 112](schedule/7/paragraph/112.md)
+    - UK Borders Act 2007 (c. 30)
+      - [Sch. 7 para. 113](schedule/7/paragraph/113.md)
+  - Part 8 Proceeds of crime: detained cash investigations
+    - [Sch. 7 para. 114](schedule/7/paragraph/114.md)
+    - [Sch. 7 para. 115](schedule/7/paragraph/115.md)
+    - [Sch. 7 para. 116](schedule/7/paragraph/116.md)
+  - Part 9 Extradition
+    - [Sch. 7 para. 117](schedule/7/paragraph/117.md)
+  - Part 10 Criminal records
+    - [Sch. 7 para. 118](schedule/7/paragraph/118.md)
+  - Part 11 Border controls
+    - [Sch. 7 para. 119](schedule/7/paragraph/119.md)
+    - [Sch. 7 para. 120](schedule/7/paragraph/120.md)
+  - Part 12 Football spectators
+    - [Sch. 7 para. 121](schedule/7/paragraph/121.md)
+  - Part 13 Redundant provisions etc
+    - Proof of intention to supply a controlled drug
+      - [Sch. 7 para. 122](schedule/7/paragraph/122.md)
+    - Staff custody officers
+      - [Sch. 7 para. 123](schedule/7/paragraph/123.md)
+      - [Sch. 7 para. 124](schedule/7/paragraph/124.md)
+      - [Sch. 7 para. 125](schedule/7/paragraph/125.md)
+      - [Sch. 7 para. 126](schedule/7/paragraph/126.md)
+    - Secretary of State’s approval of devices for taking fingerprints and samples
+      - [Sch. 7 para. 127](schedule/7/paragraph/127.md)
+      - [Sch. 7 para. 128](schedule/7/paragraph/128.md)
+    - Additional time limits for prosecuting persons under 18
+      - [Sch. 7 para. 129](schedule/7/paragraph/129.md)
+    - Access to driver licensing records
+      - [Sch. 7 para. 130](schedule/7/paragraph/130.md)
+      - [Sch. 7 para. 131](schedule/7/paragraph/131.md)
+      - [Sch. 7 para. 132](schedule/7/paragraph/132.md)
+    - Minor amendment
+      - [Sch. 7 para. 133](schedule/7/paragraph/133.md)
+    - Local child curfew schemes
+      - [Sch. 7 para. 134](schedule/7/paragraph/134.md)
+- Schedule 8 Repeals and revocations
+  - Part 1 Appointment of senior police officers
+  - Part 2 Sexual offences
+  - Part 3 Alcohol misuse
+  - Part 4 Proceeds of crime: confiscation
+  - Part 5 Proceeds of crime: detained cash investigations
+  - Part 6 Extradition
+  - Part 7 Security planning at airports
+  - Part 8 Safeguarding vulnerable groups and criminal records
+  - Part 9 Border control powers in relation to cash
+  - Part 10 Offensive weapons
+  - Part 11 Football spectators
+  - Part 12 Misuse of Drugs Act 1971: warrants
+  - Part 13 Redundant provisions
