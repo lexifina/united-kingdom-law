@@ -2,9 +2,9 @@
 
 2018 c. 30. Enacted 2018-12-20.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2018-12-20, are in the history before it: `git log -- ukpga/2018/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/30/enacted
+Source: https://www.legislation.gov.uk/ukpga/2018/30/2020-12-01
 
 ## Contents
 
@@ -61,52 +61,88 @@ Source: https://www.legislation.gov.uk/ukpga/2018/30/enacted
   - [s. 44 Short title](section/44.md)
 - SCHEDULE 1 Civil sanctions
   - Part 1 Monetary penalties
-    - [Sch. 1 para. 1 Imposition of monetary penalties](schedule/1/paragraph/1.md)
-    - [Sch. 1 para. 2 Representations and appeals etc](schedule/1/paragraph/2.md)
-    - [Sch. 1 para. 3 Information to be included in notices under paragraph 2](schedule/1/paragraph/3.md)
-    - [Sch. 1 para. 4 Monetary penalties: criminal proceedings and conviction](schedule/1/paragraph/4.md)
+    - Imposition of monetary penalties
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Representations and appeals etc
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Information to be included in notices under paragraph 2
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Monetary penalties: criminal proceedings and conviction
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
   - Part 2 Stop notices
-    - [Sch. 1 para. 5 Imposition of stop notices](schedule/1/paragraph/5.md)
-    - [Sch. 1 para. 6 Information to be included in stop notices](schedule/1/paragraph/6.md)
-    - [Sch. 1 para. 7 Completion certificates](schedule/1/paragraph/7.md)
-    - [Sch. 1 para. 8 Appeals](schedule/1/paragraph/8.md)
-    - [Sch. 1 para. 9 Offence of failure to comply with stop notice](schedule/1/paragraph/9.md)
+    - Imposition of stop notices
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Information to be included in stop notices
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Completion certificates
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Appeals
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Offence of failure to comply with stop notice
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
   - Part 3 Enforcement undertakings
     - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
   - Part 4 Enforcement cost recovery notices
-    - [Sch. 1 para. 11 Imposition of enforcement cost recovery notices](schedule/1/paragraph/11.md)
-    - [Sch. 1 para. 12 Information to be included in enforcement cost recovery notices](schedule/1/paragraph/12.md)
-    - [Sch. 1 para. 13 Appeals](schedule/1/paragraph/13.md)
+    - Imposition of enforcement cost recovery notices
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Information to be included in enforcement cost recovery notices
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Appeals
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
   - Part 5 Power to make supplementary provision etc by regulations
-    - [Sch. 1 para. 14 Supplementary regulations: general](schedule/1/paragraph/14.md)
-    - [Sch. 1 para. 15 Consultation](schedule/1/paragraph/15.md)
-    - [Sch. 1 para. 16 Monetary penalties and costs](schedule/1/paragraph/16.md)
-    - [Sch. 1 para. 17 Enforcement undertakings](schedule/1/paragraph/17.md)
-    - [Sch. 1 para. 18 Appeals](schedule/1/paragraph/18.md)
+    - Supplementary regulations: general
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Consultation
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Monetary penalties and costs
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Enforcement undertakings
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Appeals
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
   - Part 6 General and supplemental
-    - [Sch. 1 para. 19 Combination of sanctions](schedule/1/paragraph/19.md)
-    - [Sch. 1 para. 20 Unincorporated associations](schedule/1/paragraph/20.md)
-    - [Sch. 1 para. 21 Guidance as to enforcement](schedule/1/paragraph/21.md)
-    - [Sch. 1 para. 22 Pre-commencement consultation](schedule/1/paragraph/22.md)
-    - [Sch. 1 para. 23 Reports on use of civil sanctions](schedule/1/paragraph/23.md)
-    - [Sch. 1 para. 24 Disclosure of information](schedule/1/paragraph/24.md)
+    - Combination of sanctions
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Unincorporated associations
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Guidance as to enforcement
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Pre-commencement consultation
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Reports on use of civil sanctions
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Disclosure of information
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
   - Part 7 Interpretation
-    - [Sch. 1 para. 25 Interpretation of Schedule](schedule/1/paragraph/25.md)
+    - Interpretation of Schedule
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
 - SCHEDULE 2 Search warrants: England and Wales and Northern Ireland
   - Part 1 Preliminary
-    - [Sch. 2 para. 1 Application of this Schedule](schedule/2/paragraph/1.md)
-    - [Sch. 2 para. 2 Interpretation](schedule/2/paragraph/2.md)
+    - Application of this Schedule
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Interpretation
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
   - Part 2 Search warrants: applications and safeguards
-    - [Sch. 2 para. 3 Applications for warrants](schedule/2/paragraph/3.md)
-    - [Sch. 2 para. 4 Safeguards in connection with power of entry conferred by warrant](schedule/2/paragraph/4.md)
-    - [Sch. 2 para. 5 Safeguards in connection with power of entry conferred by warrant](schedule/2/paragraph/5.md)
-    - [Sch. 2 para. 6 Safeguards in connection with power of entry conferred by warrant](schedule/2/paragraph/6.md)
+    - Applications for warrants
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Safeguards in connection with power of entry conferred by warrant
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
   - Part 3 Execution of search warrants
-    - [Sch. 2 para. 7 Warrant to be executed within one month](schedule/2/paragraph/7.md)
-    - [Sch. 2 para. 8 All-premises warrants](schedule/2/paragraph/8.md)
-    - [Sch. 2 para. 9 Search of premises more than once](schedule/2/paragraph/9.md)
-    - [Sch. 2 para. 10 Time of search](schedule/2/paragraph/10.md)
-    - [Sch. 2 para. 11 Evidence of authority etc](schedule/2/paragraph/11.md)
-    - [Sch. 2 para. 12 Extent of search](schedule/2/paragraph/12.md)
-    - [Sch. 2 para. 13 Securing premises after entry](schedule/2/paragraph/13.md)
-    - [Sch. 2 para. 14 Return and retention of warrant](schedule/2/paragraph/14.md)
+    - Warrant to be executed within one month
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - All-premises warrants
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Search of premises more than once
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Time of search
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Evidence of authority etc
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Extent of search
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Securing premises after entry
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Return and retention of warrant
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
