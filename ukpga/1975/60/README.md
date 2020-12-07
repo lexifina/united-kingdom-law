@@ -1,0 +1,301 @@
+# Social Security Pensions Act 1975
+
+1975 c. 60. Enacted 1975-08-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1975/60/2020-12-07
+
+## Contents
+
+- Part I Contributions
+  - [s. 15 ................................](section/15.md)
+- Part II Benefits
+  - [s. 610 ................................](section/610.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 1216A ................................](section/1216A.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 1821 ................................](section/1821.md)
+  - [s. 22](section/22.md)
+  - [s. 2325 ................................](section/2325.md)
+- Part III Contracting-Out
+  - Preliminary
+    - [s. 26 ................................](section/26.md)
+  - Contracted-out rates of contributions and benefits
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 29A ................................](section/29A.md)
+    - [s. 29B ................................](section/29B.md)
+    - [s. 29C ................................](section/29C.md)
+  - Arrangements for contracting-out
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+  - Requirements for contracting-out
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 37A ................................](section/37A.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+  - Protection of pensions
+    - [s. 41A ................................](section/41A.md)
+    - [s. 41B ................................](section/41B.md)
+    - [s. 41C ................................](section/41C.md)
+    - [s. 41D ................................](section/41D.md)
+    - [s. 41E ................................](section/41E.md)
+  - State scheme premiums
+    - [s. 42](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 44ZA ................................](section/44ZA.md)
+    - [s. 44A ................................](section/44A.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47](section/47.md)
+  - Supplementary
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 51A ................................](section/51A.md)
+    - [s. 52 ................................](section/52.md)
+- Part IV Occupational Pensions
+  - The revaluation percentage
+    - [s. 52A ................................](section/52A.md)
+    - [s. 52B ................................](section/52B.md)
+  - Extinguishment of liability of scheme for pensions secured by insurance policies or annuity contracts
+    - [s. 52C ................................](section/52C.md)
+    - [s. 52D ................................](section/52D.md)
+  - Equal access to occupational pension schemes
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+  - Information about and registration of occupational pension schemes
+    - [s. 56A ................................](section/56A.md)
+    - [s. 56B56D ................................](section/56B56D.md)
+    - [s. 56E ................................](section/56E.md)
+    - [s. 56F56J ................................](section/56F56J.md)
+    - [s. 56K](section/56K.md)
+    - [s. 56L ................................](section/56L.md)
+    - [s. 56M56N ................................](section/56M56N.md)
+  - Auditors
+    - [s. 56P ................................](section/56P.md)
+  - Other provisions
+    - [s. 57 ................................](section/57.md)
+    - [s. 57A ................................](section/57A.md)
+    - [s. 57B ................................](section/57B.md)
+    - [s. 57C ................................](section/57C.md)
+    - [s. 57D ................................](section/57D.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 58A ................................](section/58A.md)
+    - [s. 58B ................................](section/58B.md)
+    - [s. 59 Increase of official pensions.](section/59.md)
+    - [s. 59A Modification of effect of section 59(5).](section/59A.md)
+- Part IVA The Pensions Ombudsman
+  - [s. 59B ................................](section/59B.md)
+  - [s. 59C ................................](section/59C.md)
+  - [s. 59D ................................](section/59D.md)
+  - [s. 59E ................................](section/59E.md)
+  - [s. 59F ................................](section/59F.md)
+  - [s. 59G ................................](section/59G.md)
+  - [s. 59H ................................](section/59H.md)
+  - [s. 59J ................................](section/59J.md)
+- Part V General
+  - [s. 59K ................................](section/59K.md)
+  - [s. 60 ................................](section/60.md)
+  - [s. 60ZA ................................](section/60ZA.md)
+  - [s. 60ZB ................................](section/60ZB.md)
+  - [s. 60ZC ................................](section/60ZC.md)
+  - [s. 60ZD ................................](section/60ZD.md)
+  - [s. 60ZE ................................](section/60ZE.md)
+  - [s. 60ZF ................................](section/60ZF.md)
+  - [s. 60A ................................](section/60A.md)
+  - [s. 60B ................................](section/60B.md)
+  - [s. 61 Consultation about regulations.](section/61.md)
+  - [s. 61A ................................](section/61A.md)
+  - [s. 61B Orders and regulations (general provisions).](section/61B.md)
+  - [s. 62 Other provisions about regulations and orders.](section/62.md)
+  - [s. 63 Transitional provisions.](section/63.md)
+  - [s. 64 Expenses and receipts.](section/64.md)
+  - [s. 65 Amendments of enactments; repeals.](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 Commencement.](section/67.md)
+  - [s. 68 Short title, citation and extent.](section/68.md)
+- SCHEDULE 1................................
+- SCHEDULE 1A
+  - Part I Revaluation of Pensions
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Part II Transfer Values
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+    - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+    - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+    - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+    - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+  - Part III SUPPLEMENTARY
+    - [Sch. 1A para. 19](schedule/1A/paragraph/19.md)
+    - [Sch. 1A para. 20](schedule/1A/paragraph/20.md)
+    - [Sch. 1A para. 21](schedule/1A/paragraph/21.md)
+    - [Sch. 1A para. 22](schedule/1A/paragraph/22.md)
+    - [Sch. 1A para. 23](schedule/1A/paragraph/23.md)
+- SCHEDULE 2
+  - General regulations
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Requisite benefits
+    - [Sch. 2 para. 4 ................................](schedule/2/paragraph/4.md)
+  - Modification of Part III in certain cases
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - State scheme premiums
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Centralised schemes
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Special provisions for certain public service pension schemes
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Incidental matters
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3
+  - Earner’s contributions to occupational pension scheme
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Employer’s contributions to occupational pension scheme
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - State scheme premiums
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Interpretation
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 3A
+  - Interpretation
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Annual increase of later service component
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Annual increase of earlier service component where scheme is in surplus
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Proportional increases where first period is less than 12 months
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Restriction on increases where member is under 55
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Application of Schedule to pensions not attributable to pensionable service
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Regulations
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Overriding effect of the increase provisions
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+- SCHEDULE 4 AMENDMENTS OF ENACTMENTS
+  - PART I CONSEQUENTIAL AND OTHER AMENDMENTS
+    - The Bankruptcy (Scotland) Act 1913
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - The Bankruptcy Act 1914
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - The Companies Act 1948
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - The Law Reform (Personal Injuries) Act 1948
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - The Administration of Justice Act 1964
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - The Family Allowances Act 1965
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - The Supplementary Benefit Act 1966
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - The Agriculture Act 1967
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - The Rent Act 1968
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - The Income and Corporation Taxes Act 1970
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - The Administration of Justice Act 1970
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - The Family Income Supplements Act
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - The Attachment of Earnings Act
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - The Pensions (Increase) Act 1971
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - The Finance Act 1971
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - The Housing (Financial Provisions) (Scotland) Act 1972
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - The Housing Finance Act
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - The Social Security Act
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - The Employment and Training Act 1973
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - The National Insurance Act 1974
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - The Social Security Act 1975
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - The Social Security (Consequential Provisions) Act 1975
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+  - Part II MINOR CORRECTIONS OF 1975 CONSOLIDATION ACTS
+    - The Social Security Act 1975
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+      - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - The Social Security (Northern Ireland) Act 1975
+      - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+      - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+      - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+    - The Social Security (Consequential Provisions) Act
+      - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+- SCHEDULE 5 REPEALS
