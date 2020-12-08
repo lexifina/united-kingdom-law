@@ -1,0 +1,168 @@
+# Co-operative and Community Benefit Societies Act (Northern Ireland) 1969
+
+apni/1969/24. Enacted 1969-11-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/apni/1969/24
+
+Source: https://www.legislation.gov.uk/apni/1969/24/2020-12-08
+
+## Contents
+
+- PART I SOCIETIES WHICH MAY BE REGISTERED
+  - [s. 1 Societies which may be registered.](section/1.md)
+  - [s. 1A Meaning of “registered society”](section/1A.md)
+- PART II REGISTERED SOCIETIES
+  - Registration of Societies
+    - [s. 2 Registration of society.](section/2.md)
+    - [s. 3 Registration to effect incorporation of society with limited liability.](section/3.md)
+    - [s. 4 Existing societies deemed to be registered.](section/4.md)
+  - Name and maximum shareholding
+    - [s. 5 Name of society.](section/5.md)
+    - [s. 6 Maximum shareholding in society.](section/6.md)
+  - Operations of registered society
+    - [s. 7 Carrying on of banking by societies.](section/7.md)
+  - Capacity of society and power of committee to bind it
+    - [s. 7A Capacity of society not limited by its rules](section/7A.md)
+    - [s. 7B Power of committee to bind society](section/7B.md)
+    - [s. 7C No duty to enquire as to capacity of society or authority of committee](section/7C.md)
+    - [s. 7D Transactions with committee members and other persons in excess of powers](section/7D.md)
+    - [s. 7E Definitions relating to section 7D](section/7E.md)
+  - Provisions as to rules
+    - [s. 8 Acknowledgment of registration of rules.](section/8.md)
+    - [s. 9 Amendment of registered rules.](section/9.md)
+    - [s. 10 Rules as to fund for purchase of government securities.](section/10.md)
+    - [s. 11 Rules of agricultural, horticultural or forestry society.](section/11.md)
+    - [s. 12 Supplementary provisions as to rules.](section/12.md)
+    - [s. 13 Rules to bind members.](section/13.md)
+    - [s. 14 Provision of copies of rules.](section/14.md)
+  - Cancellation, suspension or refusal of registration of society or rules
+    - [s. 15 Cancellation of registration of society.](section/15.md)
+    - [s. 16 Suspension of registration of society.](section/16.md)
+    - [s. 17 Appeal from refusal, cancellation or suspension of registration of society or rules.](section/17.md)
+  - Membership and special provisions affecting members
+    - [s. 18 Bodies corporate as members of society.](section/18.md)
+    - [s. 19 Members under age of 18](section/19.md)
+    - [s. 20 Advances to members.](section/20.md)
+    - [s. 21 Remedy for debts from members.](section/21.md)
+    - [s. 22 Nomination to property in society.](section/22.md)
+    - [s. 23 Proceedings on death of nominator.](section/23.md)
+    - [s. 24 Provision for small payments on death.](section/24.md)
+    - [s. 25 Payments in respect of mentally incapable persons.](section/25.md)
+    - [s. 26 Validity of payment to persons apparently entitled.](section/26.md)
+  - Contracts, property, etc., of society
+    - [s. 27 Promissory notes and bills of exchange.](section/27.md)
+    - [s. 28 Contracts.](section/28.md)
+    - [s. 28A Purported contracts, deeds and obligations](section/28A.md)
+    - [s. 28B Common seal](section/28B.md)
+    - [s. 28C Execution of documents](section/28C.md)
+    - [s. 28D Power of society to have official seal for use abroad](section/28D.md)
+    - [s. 28E Effect of use of official seal](section/28E.md)
+    - [s. 28F Authorisation of use of official seal](section/28F.md)
+    - [s. 29 Charges on assets of registered societies.](section/29.md)
+    - [s. 30 Holding of land.](section/30.md)
+    - [s. 31 Investments.](section/31.md)
+    - [s. 32 Proxy voting by societies.](section/32.md)
+    - [s. 33 Discharge of mortgages.](section/33.md)
+    - [s. 34 Receipt on payment of moneys secured to a society.](section/34.md)
+  - Accounts, etc.
+    - [s. 35 Books of account, etc.](section/35.md)
+    - [s. 36 Form in which books of account may be kept.](section/36.md)
+    - [s. 36A Year of account (existing societies)](section/36A.md)
+    - [s. 36B Year of account (new registrations)](section/36B.md)
+    - [s. 37 General provisions as to accounts and balance sheets of registered societies.](section/37.md)
+    - [s. 37A Publication of accounts and balance sheets of registered societies.](section/37A.md)
+    - [s. 38 Obligation to appoint auditors.](section/38.md)
+    - [s. 38A Power of registered societies to disapply section 38.](section/38A.md)
+    - [s. 39 Re-appointment and removal of qualified auditors.](section/39.md)
+    - [s. 40 Provisions as to resolutions relating to appointment and removal of auditors.](section/40.md)
+    - [s. 41 Meaning of qualified auditor](section/41.md)
+    - [s. 42 Restrictions on appointment of auditors.](section/42.md)
+    - [s. 43 Auditors’ report and right of access to books and to attend and be heard at meetings.](section/43.md)
+    - [s. 43A Duty to obtain accountant’s reports where section 38 applied.](section/43A.md)
+    - [s. 43B Rights of person appointed under section 43A(2).](section/43B.md)
+    - [s. 43C Registrar’s power to require accounts for past years to be audited.](section/43C.md)
+    - [s. 44 Remuneration of qualified auditors.](section/44.md)
+    - [s. 45 Group accounts.](section/45.md)
+    - [s. 46 Exemption from requirements in respect of group accounts.](section/46.md)
+    - [s. 47 Meaning of “subsidiary”.](section/47.md)
+    - [s. 48 Annual returns.](section/48.md)
+    - [s. 49 Display of latest balance sheet.](section/49.md)
+  - Officers, receivers, etc.
+    - [s. 50 Security by officers.](section/50.md)
+    - [s. 51 Duty of officers of society to account.](section/51.md)
+    - [s. 52 Duties of receiver or manager of society’s property.](section/52.md)
+  - Registers, books, etc.
+    - [s. 53 Register of members and officers.](section/53.md)
+    - [s. 54 Restriction on inspection of books.](section/54.md)
+    - [s. 55 Inspection of books by members, etc.](section/55.md)
+    - [s. 56 Inspection of books by order of registrar.](section/56.md)
+    - [s. 57 Production of documents and provision of information for certain purposes.](section/57.md)
+    - [s. 58 Appointment of inspectors and calling of special meetings.](section/58.md)
+  - Amalgamations, transfers of engagements and conversions
+    - [s. 59 Amalgamation of societies.](section/59.md)
+    - [s. 60 Transfer of engagements between societies.](section/60.md)
+    - [s. 61 Conversion into, or transfer of engagements to, company.](section/61.md)
+    - [s. 62 Conversion of company into registered society.](section/62.md)
+    - [s. 63 Saving for rights of creditors.](section/63.md)
+  - Dissolution of society
+    - [s. 64 Dissolution of registered society on winding up.](section/64.md)
+    - [s. 65 Power of registrar to petition for winding-up.](section/65.md)
+    - [s. 66 Liability of members in winding-up.](section/66.md)
+    - [s. 66A Dissolution of a society by an instrument of dissolution](section/66A.md)
+    - [s. 67 Instrument of dissolution.](section/67.md)
+  - Special restriction on dissolution, etc.
+    - [s. 68 Restriction on dissolution or cancellation or registration of society.](section/68.md)
+  - Disputes, offences and legal proceedings
+    - [s. 69 Decision of disputes.](section/69.md)
+    - [s. 70 General offences by societies, etc.](section/70.md)
+    - [s. 71 Offences by societies to be also offences by officers, etc.](section/71.md)
+    - [s. 72 Continuing offences.](section/72.md)
+    - [s. 73 Punishment of fraud or misappropriation.](section/73.md)
+    - [s. 74 Penalty for falsification.](section/74.md)
+    - [s. 75 Institution of proceedings.](section/75.md)
+    - [s. 76 Recovery of costs, etc.](section/76.md)
+    - [s. 77 Application of Part II to credit unions.](section/77.md)
+- PART IV MISCELLANEOUS AND GENERAL
+  - [s. 97 Regulations.](section/97.md)
+  - [s. 98 Form, deposit and evidence of documents.](section/98.md)
+  - [s. 98A Form etc of electronic documents](section/98A.md)
+  - [s. 98B Power of registrar to impose requirements as to form etc of electronic documents](section/98B.md)
+  - [s. 98C Fees for inspection and copying of documents](section/98C.md)
+  - [s. 99 Exercise of functions of registrar.](section/99.md)
+  - [s. 100 Annual reports by registrar.](section/100.md)
+  - [s. 101 Interpretation.](section/101.md)
+  - [s. 102 Great Britain societies.](section/102.md)
+  - [s. 103 Repeals, savings and transitional provisions.](section/103.md)
+  - [s. 104 Short title and commencement.](section/104.md)
+- SCHEDULE 1 MATTERS TO BE PROVIDED FOR IN SOCIETY’S RULES
+  - PART I INDUSTRIAL AND PROVIDENT SOCIETIES...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 FORM OF STATEMENT BY SOCIETY CARRYING ON BANKING
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 FORM OF RECEIPT ON MORTGAGE, ETC.
+- SCHEDULE 4 FORMS OF BOND FOR OFFICERS OF SOCIETY
+  - FORM A
+  - FORM B
+- SCHEDULE 5 TRANSITIONAL PROVISIONS
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
