@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-10, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-12-10
 
 ## Contents
 
@@ -245,12 +245,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-12-01
       - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
       - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
 - SCHEDULE 8 Mental health: England and Wales
-  - PART 1 Introductory provision etc
-    - Interpretation
-      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
-    - Forms
-      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
-  - PART 2 Modifications of the Mental Health Act 1983 and related provision
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
     - Applications for compulsory admission to hospital for assessment or treatment
       - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
     - Applications for compulsory admission of patients already in hospital
@@ -267,7 +263,6 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2020-12-01
       - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
     - Detention in place of safety
       - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
-    - Constitution and proceedings of the Mental Health Review Tribunal for Wales
       - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
       - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
       - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
