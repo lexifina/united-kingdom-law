@@ -2,9 +2,9 @@
 
 2018 c. 22. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-16, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-07-22
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-16
 
 ## Contents
 
@@ -109,6 +109,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-07-22
   - Amendment or withdrawal of Customs declarations
     - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
     - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
   - Releasing and discharging goods to and from Customs procedures
     - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
   - Declarations for different Customs procedures
