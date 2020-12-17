@@ -2,11 +2,9 @@
 
 2020 c. 27. Enacted 2020-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-02-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-17, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/27
-
-Source: https://www.legislation.gov.uk/ukpga/2020/27/2026-02-19
+Source: https://www.legislation.gov.uk/ukpga/2020/27/2020-12-17
 
 ## Contents
 
@@ -71,11 +69,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/27/2026-02-19
     - [s. 45 Interpretation of Part 4](section/45.md)
 - PART 5 Northern Ireland Protocol
   - Northern Ireland’s place in the UK internal market and customs territory
-    - [s. 45A Ongoing guarantee of UK internal market access for qualifying Northern Ireland goods](section/45A.md)
-    - [s. 45B Goods moved from Northern Ireland: position in relation to export procedures](section/45B.md)
-    - [s. 45C Further protections in respect of Northern Ireland’s place in the UK internal market](section/45C.md)
     - [s. 46 Northern Ireland’s place in the UK internal market and customs territory](section/46.md)
-    - [s. 46A Guidance relating to section 46](section/46A.md)
   - Unfettered access
     - [s. 47 Unfettered access to UK internal market for Northern Ireland goods](section/47.md)
   - State aid
@@ -112,13 +106,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/27/2026-02-19
     - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
   - Provision having effect in more than one part of the United Kingdom
     - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
-  - Single-use plastic items
-    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
-  - Glue traps
-    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
 - SCHEDULE 2 Services exclusions
-  - PART1 SERVICES TO WHICH SECTION 19 (MUTUAL RECOGNITION) DOES NOT APPLY
-  - PART2 SERVICES TO WHICH SECTIONS 20 AND 21 (NON-DISCRIMINATION) DO NOT APPLY
+  - PART 1 Services to which section 19 (mutual recognition) does not apply
+  - PART 2 Services to which sections 20 and 21 (non-discrimination) do not apply
   - PART 3 Authorisation requirements to which section 19 (mutual recognition) does not apply
   - PART 4 Regulatory requirements to which sections 20 and 21 (non-discrimination) do not apply
 - SCHEDULE 3 Constitution etc of Office for the Internal Market panel and task groups
