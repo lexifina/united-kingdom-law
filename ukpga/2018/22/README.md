@@ -2,9 +2,9 @@
 
 2018 c. 22. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-16, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-17, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-16
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-17
 
 ## Contents
 
@@ -47,6 +47,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-16
     - [s. 28 Requirement to have regard to international obligations](section/28.md)
     - [s. 29 Consequential amendments](section/29.md)
     - [s. 30 General provision for the purposes of import duty](section/30.md)
+  - Northern Ireland
+    - [s. 30A Importation of goods: Northern Ireland](section/30A.md)
+    - [s. 30B Duty under section 30A(3): supplementary](section/30B.md)
+    - [s. 30C Duty on potentially imported goods](section/30C.md)
   - UK’s customs union
     - [s. 31 Territories forming part of a customs union with UK](section/31.md)
   - Regulations etc
@@ -61,6 +65,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-16
 - PART 2 Export duty
   - [s. 39 Charge to export duty](section/39.md)
   - [s. 40 Regulations under section 39: supplementary](section/40.md)
+  - [s. 40A Removal to Northern Ireland of at risk goods etc](section/40A.md)
+  - [s. 40B Duty under section 40A: supplementary](section/40B.md)
 - PART 3 Value added tax
   - [s. 41 Abolition of acquisition VAT and extension of import VAT](section/41.md)
   - [s. 42 EU law relating to VAT](section/42.md)
@@ -504,6 +510,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-16
       - [Sch. 7 para. 156](schedule/7/paragraph/156.md)
     - Corporation Tax Act 2009
       - [Sch. 7 para. 157](schedule/7/paragraph/157.md)
+  - PART 4 Savings and modifications in relation to Northern Ireland
+    - Application of CEMA 1979 etc
+      - [Sch. 7 para. 158](schedule/7/paragraph/158.md)
 - SCHEDULE 8 VAT amendments connected with withdrawal from EU
   - PART 1 Amendments of Value Added Tax Act 1994
     - Amendment of the Value Added Tax Act 1994
@@ -672,3 +681,5 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2020-12-16
     - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
   - Finance Act 2008
     - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Savings in relation to Northern Ireland
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
