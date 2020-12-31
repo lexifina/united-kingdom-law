@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-12-31
 
 ## Contents
 
@@ -793,7 +793,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2020-12-01
     - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
   - Communal accommodation
     - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
-  - Training provided to non-EEA residents, etc.
+  - Training provided to non-... residents, etc.
     - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
 - SCHEDULE 24 Harmonisation: exceptions
 - SCHEDULE 25 Information society services
