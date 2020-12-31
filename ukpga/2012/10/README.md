@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2020-12-31
 
 ## Contents
 
@@ -247,9 +247,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2020-12-01
       - [Sch. 1 para. 15A](schedule/1/paragraph/15A.md)
     - Forced marriage
       - [Sch. 1 Pt. 1 heading forced-marriage para. 16](schedule/1/part/1/crossheading/forced-marriage/paragraph/16.md)
-    - EU and international agreements concerning children
+    - Transitional EU arrangements and international agreements concerning children
       - [Sch. 1 Pt. 1 heading eu-and-international-agreements-concerning-children para. 17](schedule/1/part/1/crossheading/eu-and-international-agreements-concerning-children/paragraph/17.md)
-    - EU and international agreements concerning maintenance
+    - Transitional EU arrangements and international agreements concerning maintenance
       - [Sch. 1 Pt. 1 heading eu-and-international-agreements-concerning-maintenance para. 18](schedule/1/part/1/crossheading/eu-and-international-agreements-concerning-maintenance/paragraph/18.md)
     - Judicial review
       - [Sch. 1 Pt. 1 heading judicial-review para. 19](schedule/1/part/1/crossheading/judicial-review/paragraph/19.md)
