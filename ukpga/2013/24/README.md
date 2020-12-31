@@ -2,9 +2,9 @@
 
 2013 c. 24. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/24` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/24/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2013/24/2020-12-31
 
 ## Contents
 
@@ -346,6 +346,30 @@ Source: https://www.legislation.gov.uk/ukpga/2013/24/2020-12-01
       - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
       - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
       - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+  - PART 3A The OIM panel
+    - The OIM panel
+      - [Sch. 4 para. 58A](schedule/4/paragraph/58A.md)
+    - Constitution of OIM task groups
+      - [Sch. 4 para. 58B](schedule/4/paragraph/58B.md)
+    - Membership of OIM task groups
+      - [Sch. 4 para. 58C](schedule/4/paragraph/58C.md)
+      - [Sch. 4 para. 58D](schedule/4/paragraph/58D.md)
+    - Termination of person’s membership of an OIM task group
+      - [Sch. 4 para. 58E](schedule/4/paragraph/58E.md)
+      - [Sch. 4 para. 58F](schedule/4/paragraph/58F.md)
+      - [Sch. 4 para. 58G](schedule/4/paragraph/58G.md)
+    - Replacement of a member of an OIM task group
+      - [Sch. 4 para. 58H](schedule/4/paragraph/58H.md)
+    - Continuity on removal or replacement
+      - [Sch. 4 para. 58I](schedule/4/paragraph/58I.md)
+    - Powers of chair pending group’s constitution and first meeting
+      - [Sch. 4 para. 58J](schedule/4/paragraph/58J.md)
+    - Independence of OIM task groups
+      - [Sch. 4 para. 58K](schedule/4/paragraph/58K.md)
+    - Casting votes
+      - [Sch. 4 para. 58L](schedule/4/paragraph/58L.md)
+    - Procedure of OIM task groups
+      - [Sch. 4 para. 58M](schedule/4/paragraph/58M.md)
   - PART 4 Interpretation and transitional and transitory provision
     - Interpretation
       - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
