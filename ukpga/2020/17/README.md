@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
 
 ## Contents
 
@@ -1154,12 +1154,16 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-01
   - PART 2 Offences under service law
     - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
     - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
-  - PART 3 Offences under the law of Scotland, Northern Ireland or a member State other than the United Kingdom
+  - PART 3 Offences under the law of Scotland or Northern Ireland
     - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
     - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
     - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+  - Part 3A PROCEEDINGS INSTITUTED BEFORE IP COMPLETION DAY: OFFENCES UNDER THE LAW OF A MEMBER STATE
+    - [Sch. 14 para. 20A](schedule/14/paragraph/20A.md)
+    - [Sch. 14 para. 20B](schedule/14/paragraph/20B.md)
   - PART 4 Interpretation
     - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
 - SCHEDULE 15 Life sentence for second offence: listed offences
   - PART 1 Offences under the law of England and Wales
   - PART 2 Further offences under the law of England and Wales
@@ -1168,11 +1172,14 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-01
   - PART 3 Offences under service law
     - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
     - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
-  - PART 4 Offences under the law of Scotland, Northern Ireland or a member State other than the United Kingdom
+  - PART 4 Offences under the law of Scotland or Northern Ireland
     - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
     - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
     - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
     - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - Part 4A PROCEEDINGS INSTITUTED BEFORE IP COMPLETION DAY: OFFENCES UNDER THE LAW OF A MEMBER STATE
+    - [Sch. 15 para. 23A](schedule/15/paragraph/23A.md)
+    - [Sch. 15 para. 23B](schedule/15/paragraph/23B.md)
   - PART 5 Interpretation
     - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
 - SCHEDULE 16 Breach or amendment of suspended sentence order, and effect of further conviction
