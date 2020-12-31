@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-17, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-17
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-31
 
 ## Contents
 
@@ -68,7 +68,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-17
   - [s. 46 Remote gaming duty: freeplay](section/46.md)
   - [s. 47 Tobacco products manufacturing machinery: licensing scheme](section/47.md)
 - PART 3 Fulfilment businesses
-  - [s. 48 Carrying on a third country goods fulfilment business](section/48.md)
+  - [s. 48 Carrying on an imported goods fulfilment business](section/48.md)
   - [s. 49 Requirement for approval](section/49.md)
   - [s. 50 Register of approved persons](section/50.md)
   - [s. 51 Regulations relating to approval, registration etc.](section/51.md)
@@ -813,7 +813,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-17
     - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
     - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
     - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
-- SCHEDULE 13 Third country goods fulfilment businesses: penalty
+- SCHEDULE 13 Imported goods fulfilment businesses: penalty
   - Liability to penalty
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
   - Amount of penalty
