@@ -1,0 +1,899 @@
+# Friendly Societies Act 1992
+
+1992 c. 40. Enacted 1992-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/40
+
+Source: https://www.legislation.gov.uk/ukpga/1992/40/2020-12-31
+
+## Contents
+
+- Part I Functions of the Financial Conduct Authority and the Prudential Regulation Authority
+  - [s. 1 Functions of the Financial Conduct Authority and the Prudential Regulation Authority in relation to friendly societies](section/1.md)
+  - [s. 2 Financial provision for Commission.](section/2.md)
+  - [s. 3 Accounts of Commission and audit.](section/3.md)
+  - [s. 4 Annual and other reports.](section/4.md)
+- Part II Incorporated Friendly Societies
+  - Constitution and purposes of incorporated friendly societies
+    - [s. 5 Establishment of incorporated friendly societies.](section/5.md)
+    - [s. 6 Incorporation of registered friendly societies.](section/6.md)
+    - [s. 7 Purposes and powers of an incorporated friendly society.](section/7.md)
+    - [s. 8 Effect of the memorandum of an incorporated society.](section/8.md)
+    - [s. 9 Effect of the rules of an incorporated society.](section/9.md)
+    - [s. 10 Social and benevolent activities.](section/10.md)
+    - [s. 11 Group insurance.](section/11.md)
+    - [s. 12 Reinsurance.](section/12.md)
+    - [s. 13 Control of subsidiaries and other bodies corporate.](section/13.md)
+  - Powers of incorporated friendly societies
+    - [s. 14 Investment of funds.](section/14.md)
+    - [s. 15 Holding of land for purposes other than investment.](section/15.md)
+    - [s. 16 Assistance to subsidiaries and jointly controlled bodies.](section/16.md)
+    - [s. 17 Loans to assured members.](section/17.md)
+  - Benefit terms
+    - [s. 18 Terms on which benefits are available.](section/18.md)
+  - Dissolution and winding up
+    - [s. 19 Modes of dissolution and winding up.](section/19.md)
+    - [s. 20 Dissolution by consent.](section/20.md)
+    - [s. 21 Voluntary winding up.](section/21.md)
+    - [s. 22 Winding up by court: grounds and petitioners.](section/22.md)
+    - [s. 23 Application of winding up legislation to incorporated friendly societies.](section/23.md)
+    - [s. 24 Continuation of long term business.](section/24.md)
+    - [s. 25 Power of court to declare dissolution void.](section/25.md)
+    - [s. 26 Cancellation of registration.](section/26.md)
+- Part III Management and Administration
+  - Committee of management and other officers
+    - [s. 27 Committee of management.](section/27.md)
+    - [s. 28 Chief executive and secretary.](section/28.md)
+    - [s. 29 Notification of officers to FCA.](section/29.md)
+  - Meetings and resolutions
+    - [s. 30 Meetings and resolutions.](section/30.md)
+- Part IV Authorisation of Friendly Societies’ Business
+  - Restriction on carrying on unauthorised business
+    - [s. 31 Restriction on carrying on unauthorised insurance or non-insurance business.](section/31.md)
+  - Authorisation to carry on business
+    - [s. 32 Grant of authorisation by Commission: general.](section/32.md)
+    - [s. 33 Applications from certain existing friendly societies.](section/33.md)
+    - [s. 34 Grant of unconditional or conditional authorisation.](section/34.md)
+    - [s. 35 Extension of current authorisation.](section/35.md)
+    - [s. 36 Imposition of conditions on current authorisation.](section/36.md)
+    - [s. 36A ................................](section/36A.md)
+  - Restrictions on business of certain authorised societies
+    - [s. 37 Restriction on combinations of business.](section/37.md)
+    - [s. 38 Restriction on commercial business.](section/38.md)
+  - Powers of Commission in relation to authorised societies
+    - [s. 39 Power to direct application for fresh authorisation.](section/39.md)
+    - [s. 40 Withdrawal of authorisation in respect of new business.](section/40.md)
+    - [s. 41 Withdrawal of authorisation to carry on insurance business.](section/41.md)
+  - Supplementary
+    - [s. 42 Contracts effected in contravention of section 31(1).](section/42.md)
+    - [s. 43 Interpretation of Part IV.](section/43.md)
+- Part V Regulation of Friendly Societies’ Business
+  - Preliminary
+    - [s. 44 Appointment of actuary by societies with long term business.](section/44.md)
+    - [s. 45 Valuation of assets and liabilities.](section/45.md)
+  - Actuarial investigations
+    - [s. 46 Annual investigation into condition of certain societies.](section/46.md)
+    - [s. 47 Triennial investigations into condition of certain societies.](section/47.md)
+  - Margins of solvency
+    - [s. 48 Margins of solvency in relation to insurance business of certain societies.](section/48.md)
+    - [s. 49 Failure to maintain prescribed margin of solvency.](section/49.md)
+  - Adequacy of assets and premiums
+    - [s. 49A Adequacy of assets.](section/49A.md)
+    - [s. 49B Adequacy of premiums in respect of long term insurance.](section/49B.md)
+  - Criteria of prudent management
+    - [s. 50 The criteria of prudent management.](section/50.md)
+  - Powers of FCA and PRA
+    - [s. 51 Power to forbid acceptance of new members.](section/51.md)
+    - [s. 52 Applications to court.](section/52.md)
+    - [s. 52A ................................](section/52A.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 Supervision of activities of subsidiaries etc.](section/54.md)
+    - [s. 55 Supervision of group insurance business.](section/55.md)
+    - [s. 55A Supervision of controllers.](section/55A.md)
+    - [s. 56 ................................](section/56.md)
+  - Covering of risks situated in another member State
+    - [s. 57 ................................](section/57.md)
+    - [s. 57A ................................](section/57A.md)
+  - Notices, hearings and appeals
+    - [s. 58 Rights of appeal.](section/58.md)
+    - [s. 58A Notices, hearings and appeals.](section/58A.md)
+    - [s. 59 Determination of appeals.](section/59.md)
+    - [s. 60 Costs, procedure and evidence.](section/60.md)
+    - [s. 61 Further appeals on points of law.](section/61.md)
+  - Information
+    - [s. 62 Powers to obtain information and documents etc.](section/62.md)
+    - [s. 62A Entry of premises under warrant under section 176 of the Financial Services and Markets Act 2000.](section/62A.md)
+    - [Pt. V heading information s. 63n1 Confidentiality of certain information.](part/V/crossheading/information/section/63n1.md)
+    - [s. 63A Disclosure of information.](section/63A.md)
+    - [Pt. V heading information s. 63n2 Confidentiality of certain information.](part/V/crossheading/information/section/63n2.md)
+    - [s. 64 Exceptions from restrictions on disclosure.](section/64.md)
+  - Inspections etc.
+    - [s. 65 Investigations on behalf of FCA or PRA.](section/65.md)
+    - [s. 65A Protection of supplies](section/65A.md)
+    - [s. 66 Inspections and special meetings: general.](section/66.md)
+    - [s. 67 Inspections: supplementary provision.](section/67.md)
+    - [s. 67A ................................](section/67A.md)
+    - [s. 67B ................................](section/67B.md)
+    - [s. 67C ................................](section/67C.md)
+    - [s. 67D ................................](section/67D.md)
+- Part VI Accounts and Audit
+  - Records...
+    - [s. 68 Accounting records ...](section/68.md)
+  - Annual accounts of friendly societies and registered branches
+    - [s. 69 Duty to prepare accounts.](section/69.md)
+    - [s. 69A Duty to prepare individual accounts](section/69A.md)
+    - [s. 69B Friendly Societies Act individual accounts](section/69B.md)
+    - [s. 69C Form and contents of Friendly Societies Act individual accounts](section/69C.md)
+    - [s. 69D IAS individual accounts](section/69D.md)
+    - [s. 69E Duty to prepare group accounts](section/69E.md)
+    - [s. 69F Friendly Societies Act group accounts](section/69F.md)
+    - [s. 69G Form and content of Friendly Societies Act group accounts](section/69G.md)
+    - [s. 69H IAS group accounts](section/69H.md)
+    - [s. 69I Consistency of accounts](section/69I.md)
+    - [s. 69J Disclosures relating to members of the committee of management and employees of the society](section/69J.md)
+    - [s. 69K Disclosures about related undertakings](section/69K.md)
+    - [s. 69L Disclosures relating to off-balance-sheet arrangements](section/69L.md)
+    - [s. 69M Disclosure of auditor remuneration](section/69M.md)
+    - [s. 70 Contents and form of annual accounts.](section/70.md)
+  - Committee of management’s annual report
+    - [s. 71 Report on a friendly society’s affairs by the committee of management.](section/71.md)
+    - [s. 71A Business review](section/71A.md)
+  - Auditors
+    - [s. 72 Auditors’ appointment, tenure, qualifications, etc.](section/72.md)
+  - Auditors’ report on annual accounts
+    - [s. 73 Auditor’s report.](section/73.md)
+    - [s. 74 Signature of auditor’s report](section/74.md)
+    - [s. 74A Senior statutory auditor](section/74A.md)
+    - [s. 74B Names to be stated in copies of auditor’s report filed or published](section/74B.md)
+    - [s. 74C Circumstances in which names may be omitted](section/74C.md)
+    - [s. 75 Auditor’s rights to information and to attend meetings.](section/75.md)
+    - [s. 76 Approval and signing of accounts.](section/76.md)
+    - [s. 77 Information on appointed actuary to be annexed to balance sheet.](section/77.md)
+  - Laying and furnishing of accounts and reports
+    - [s. 78 Laying and furnishing of accounts and reports.](section/78.md)
+    - [s. 78A Interpretation of Part 6](section/78A.md)
+    - [s. 79 ................................](section/79.md)
+- Part VII Disputes
+  - Disputes relating to friendly societies
+    - [s. 80 Determination of certain disputes by arbitration.](section/80.md)
+    - [s. 81 Complaints by members of friendly societies.](section/81.md)
+    - [s. 82 Disputes arising out of loans of surplus funds to societies of different description.](section/82.md)
+  - Disputes relating to industrial and provident societies
+    - [s. 83 Disputes relating to industrial and provident societies.](section/83.md)
+  - Disputes under National Savings Bank Act 1971 and National Debt Act 1972
+    - [s. 84 Disputes under the National Savings Bank Act 1971 and National Debt Act 1972.](section/84.md)
+- Part VIII Amalgamations, Transfers of Engagements and Conversion of Friendly Societies into Companies
+  - Amalgamations
+    - [s. 85 Amalgamation of friendly societies.](section/85.md)
+  - Transfers of engagements
+    - [s. 86 Transfer of engagements by or to friendly society.](section/86.md)
+    - [s. 87 Actuary’s report as to margin of solvency.](section/87.md)
+    - [s. 88 Actuary’s report on transfer of long term business.](section/88.md)
+    - [s. 89 Power of appropriate authority to alter requirements for transfer by friendly society.](section/89.md)
+    - [s. 90 Power of appropriate authority to effect transfer of engagements.](section/90.md)
+    - [s. 90A ................................](section/90A.md)
+  - Conversions
+    - [s. 91 Conversion of friendly society into company.](section/91.md)
+  - Supplementary
+    - [s. 92 Compensation for loss of office.](section/92.md)
+- Part IX Miscellaneous
+  - Societies registered under 1974 Act
+    - [s. 93 Registration of societies under 1974 Act.](section/93.md)
+    - [s. 94 Registered friendly societies and branches: validation and ratification by members.](section/94.md)
+    - [s. 95 Amendments of 1974 Act.](section/95.md)
+  - Societies registered in Northern Ireland
+    - [s. 96 Extension of 1974 Act to Northern Ireland.](section/96.md)
+  - Other miscellaneous provisions
+    - [s. 97 ................................](section/97.md)
+    - [s. 98 ................................](section/98.md)
+    - [s. 99 Insurance of lives of children under 10.](section/99.md)
+    - [s. 100 ................................](section/100.md)
+    - [s. 101 ................................](section/101.md)
+- Part X General and Supplementary
+  - General
+    - [s. 102 Power to amend, etc. to assimilate to company law or law relating to persons carrying on insurance business.](section/102.md)
+    - [s. 103 Power to modify Part VI in relation to particular friendly societies.](section/103.md)
+    - [s. 104 Public file of a friendly society.](section/104.md)
+    - [s. 105 Exemptions from stamp duty.](section/105.md)
+    - [s. 105A Stamp duty land tax](section/105A.md)
+    - [s. 106 Officers and auditors not to be exempted from liability.](section/106.md)
+    - [s. 107 Time limit for commencing proceedings.](section/107.md)
+    - [s. 108 Offences by bodies corporate, partnerships and unincorporated associations.](section/108.md)
+    - [s. 109 Defence of due diligence.](section/109.md)
+    - [s. 110 Jurisdiction of magistrates’ courts in Northern Ireland.](section/110.md)
+    - [s. 111 Evidence.](section/111.md)
+    - [s. 112 Records of friendly societies.](section/112.md)
+    - [s. 113 Service of notices.](section/113.md)
+    - [s. 114 Form of documents.](section/114.md)
+    - [s. 115 Provision as to information supplied for purposes of social security.](section/115.md)
+  - Interpretation
+    - [s. 116 Friendly societies etc.](section/116.md)
+    - [s. 117 Insurance business etc.](section/117.md)
+    - [s. 118 Financial year of friendly societies.](section/118.md)
+    - [s. 119 General interpretation.](section/119.md)
+    - [s. 119A Meaning of “associate".](section/119A.md)
+    - [s. 119AA Meaning of electronic form, electronic means etc.](section/119AA.md)
+    - [s. 119AB Communications by means of a website](section/119AB.md)
+    - [s. 119B ................................](section/119B.md)
+  - Supplementary
+    - [s. 120 Amendments and repeals.](section/120.md)
+    - [s. 121 Orders and regulations.](section/121.md)
+    - [s. 122 ................................](section/122.md)
+    - [s. 123 Power to make transitional, consequential etc. provisions.](section/123.md)
+    - [s. 124 Northern Ireland.](section/124.md)
+    - [s. 125 Channel Islands and Isle of Man.](section/125.md)
+    - [s. 126 Short title and commencement.](section/126.md)
+- SCHEDULE 1
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Tenure of office of member
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration and pensions, etc. for part-time members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Parliamentary disqualification
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Staff
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Proceedings
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Performance of functions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Instruments
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Execution of documents in Scotland
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 The Activities of a Friendly Society
+- SCHEDULE 3 Establishment, Incorporation and Constitution of Incorporated Friendly Societies
+  - Requirements for establishment and incorporation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The memorandum
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The rules
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Requirements for alteration of memorandum and rules
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Membership
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Liability of members
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Name
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Offences relating to society’s name
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Change of registered office
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Societies to supply copies of rules etc
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Register of members
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Inspection of records by members
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Incorporation of Registered Friendly Societies: Supplementary
+  - Preliminary
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Schemes under section 6(5)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Effect of incorporation on registered society
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Effect of incorporation on branches of registered society
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Consequences of transfer
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Additional Activities of Incorporated Societies
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Loans out of separate loan fund
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Power to set up funds for purchasing Government Securities
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Investment of funds in housing association
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Accumulation of members’ surplus contributions
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Subscriptions to other bodies
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Making of Contracts and Execution of Documents by Incorporated Friendly Societies
+  - England and Wales and Northern Ireland
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Scotland
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7
+  - Activities
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 1A](schedule/7/paragraph/1A.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Provisions supplementary to Section 13
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+- SCHEDULE 9 Nominations by Members of Incorporated Friendly Societies and Related Matters
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Application of Companies Winding Up Legislation to Incorporated Friendly Societies
+  - Part I General Mode of Application
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Part II Modified Application of Insolvency Act 1986 Parts IV, 6, 7, 12 and 13 and Schedule 10
+    - Preliminary
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 6A](schedule/10/paragraph/6A.md)
+    - Members of a friendly society as contributories in winding up
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Voluntary winding up
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Winding up by the court
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - Winding up: general
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - Penal provisions
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - Protection of supplies
+      - [Sch. 10 para. 35A](schedule/10/paragraph/35A.md)
+    - Preferential debts
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - Insolvency practitioners: their qualification and regulation
+      - [Sch. 10 para. 36A](schedule/10/paragraph/36A.md)
+      - [Sch. 10 para. 36B](schedule/10/paragraph/36B.md)
+  - Part III Modified Application of Insolvency (Northern Ireland) Order 1989
+    - Preliminary
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - Members of a friendly society as contributories in winding up
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+      - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - Voluntary winding up
+      - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+      - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+      - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+      - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+      - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+      - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+      - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+      - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+    - Winding up by the High Court
+      - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+      - [Sch. 10 para. 50](schedule/10/paragraph/50.md)
+      - [Sch. 10 para. 51](schedule/10/paragraph/51.md)
+      - [Sch. 10 para. 52](schedule/10/paragraph/52.md)
+      - [Sch. 10 para. 53](schedule/10/paragraph/53.md)
+      - [Sch. 10 para. 54](schedule/10/paragraph/54.md)
+      - [Sch. 10 para. 55](schedule/10/paragraph/55.md)
+      - [Sch. 10 para. 56](schedule/10/paragraph/56.md)
+      - [Sch. 10 para. 57](schedule/10/paragraph/57.md)
+      - [Sch. 10 para. 58](schedule/10/paragraph/58.md)
+      - [Sch. 10 para. 59](schedule/10/paragraph/59.md)
+    - Winding up: general
+      - [Sch. 10 para. 60](schedule/10/paragraph/60.md)
+      - [Sch. 10 para. 61](schedule/10/paragraph/61.md)
+      - [Sch. 10 para. 62](schedule/10/paragraph/62.md)
+    - Penal provisions
+      - [Sch. 10 para. 63](schedule/10/paragraph/63.md)
+      - [Sch. 10 para. 64](schedule/10/paragraph/64.md)
+      - [Sch. 10 para. 65](schedule/10/paragraph/65.md)
+    - Preferential debts
+      - [Sch. 10 para. 66](schedule/10/paragraph/66.md)
+    - Insolvency practitioners: their qualification and regulation
+      - [Sch. 10 para. 66A](schedule/10/paragraph/66A.md)
+      - [Sch. 10 para. 66B](schedule/10/paragraph/66B.md)
+  - Part IV Supplementary
+    - Dissolution of incorporated friendly society after winding up
+      - [Sch. 10 para. 67](schedule/10/paragraph/67.md)
+      - [Sch. 10 para. 68](schedule/10/paragraph/68.md)
+    - Insolvency rules and fees
+      - [Sch. 10 para. 69](schedule/10/paragraph/69.md)
+- SCHEDULE 11 Committee of Management: Supplementary
+  - Part I Eligibility and Retirement of Committee Members
+    - Preliminary
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Eligibility to be elected committee member
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Eligibility to be co-opted committee member
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Notice to society of age of committee member
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Retirement of elected committee members
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Retirement of co-opted members
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Part II Dealings with Members of Committee of Management
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Requisite particulars where no adoption of this Part
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Requisite particulars on adoption of this Part
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Power to prescribe bands
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+- SCHEDULE 12 Meetings and Resolutions
+  - Annual general meeting
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Notice for calling meetings
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Members’ entitlement to vote on resolutions
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Right to demand a poll
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Special resolutions
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Postal ballots
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Electronic ballots
+    - [Sch. 12 para. 8A](schedule/12/paragraph/8A.md)
+  - Combined ballots
+    - [Sch. 12 para. 8B](schedule/12/paragraph/8B.md)
+  - Resolutions requiring special notice
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13
+  - Part I Applications for Authorisation
+    - Preliminary
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Procedure for granting authorisation
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Offences in connection with application
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Terms of authorisation: supplementary
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Part II Imposition of Conditions and Withdrawal of Authorisation
+    - Preliminary
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Imposition of conditions
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Imposition of conditions on appeal
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Procedure for withdrawing authorisation
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Non-receipt of notice by officer
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+- SCHEDULE 13A TO 1992 ACT
+- SCHEDULE 13B TO 1992 ACT
+  - PART III FRIENDLY SOCIETIES PROVIDING INSURANCE IN THE UNITED KINGDOM THROUGH OVERSEAS BRANCHES IN OTHER EEA STATES
+  - PART IV SUPPLEMENTAL
+- SCHEDULE 13C TO 1992 ACT
+- SCHEDULE 13D Disclosures about members of the committee of management and employees
+  - PART 1 Emoluments of and dealings with members of the committee
+    - Aggregate amount of committee members’ emoluments
+      - [Sch. 13D para. 1](schedule/13D/paragraph/1.md)
+    - Details of chairman’s and committee members’ emoluments
+      - [Sch. 13D para. 2](schedule/13D/paragraph/2.md)
+    - Emoluments waived
+      - [Sch. 13D para. 3](schedule/13D/paragraph/3.md)
+    - Pensions of members of the committee and past members of the committee
+      - [Sch. 13D para. 4](schedule/13D/paragraph/4.md)
+    - Compensation to members of the committee for loss of office
+      - [Sch. 13D para. 5](schedule/13D/paragraph/5.md)
+    - Sums paid to third parties in respect of services of members of the committee
+      - [Sch. 13D para. 6](schedule/13D/paragraph/6.md)
+    - Supplementary provisions regarding committee members’ emoluments
+      - [Sch. 13D para. 7](schedule/13D/paragraph/7.md)
+      - [Sch. 13D para. 8](schedule/13D/paragraph/8.md)
+      - [Sch. 13D para. 9](schedule/13D/paragraph/9.md)
+    - Interpretation of provisions regarding committee members’ emoluments
+      - [Sch. 13D para. 10](schedule/13D/paragraph/10.md)
+    - Committee members’ loans and transactions
+      - [Sch. 13D para. 11](schedule/13D/paragraph/11.md)
+    - Disclosure of auditors’ remuneration
+      - [Sch. 13D para. 12](schedule/13D/paragraph/12.md)
+  - PART 2 Information about employees
+    - [Sch. 13D para. 13](schedule/13D/paragraph/13.md)
+    - Interpretation: general
+      - [Sch. 13D para. 14](schedule/13D/paragraph/14.md)
+- SCHEDULE 13E Disclosures about related undertakings
+  - PART 1 Societies not required to prepare consolidated group accounts
+    - Subsidiary undertakings
+      - [Sch. 13E para. 1](schedule/13E/paragraph/1.md)
+    - Holdings in subsidiary undertakings
+      - [Sch. 13E para. 2](schedule/13E/paragraph/2.md)
+    - Financial information about subsidiary undertakings
+      - [Sch. 13E para. 3](schedule/13E/paragraph/3.md)
+    - Financial years of subsidiary undertakings
+      - [Sch. 13E para. 4](schedule/13E/paragraph/4.md)
+    - Significant holdings in bodies corporate other than subsidiary undertakings
+      - [Sch. 13E para. 5](schedule/13E/paragraph/5.md)
+      - [Sch. 13E para. 6](schedule/13E/paragraph/6.md)
+      - [Sch. 13E para. 7](schedule/13E/paragraph/7.md)
+    - Construction of references to shares held by society
+      - [Sch. 13E para. 8](schedule/13E/paragraph/8.md)
+  - PART 2 Societies required to prepare consolidated accounts
+    - Subsidiary undertakings
+      - [Sch. 13E para. 9](schedule/13E/paragraph/9.md)
+    - Holdings in subsidiary undertakings
+      - [Sch. 13E para. 10](schedule/13E/paragraph/10.md)
+    - Financial information about subsidiary undertakings not included in the consolidation
+      - [Sch. 13E para. 11](schedule/13E/paragraph/11.md)
+    - Jointly controlled bodies
+      - [Sch. 13E para. 12](schedule/13E/paragraph/12.md)
+    - Other significant holdings of society or group
+      - [Sch. 13E para. 13](schedule/13E/paragraph/13.md)
+      - [Sch. 13E para. 14](schedule/13E/paragraph/14.md)
+      - [Sch. 13E para. 15](schedule/13E/paragraph/15.md)
+      - [Sch. 13E para. 16](schedule/13E/paragraph/16.md)
+      - [Sch. 13E para. 17](schedule/13E/paragraph/17.md)
+      - [Sch. 13E para. 18](schedule/13E/paragraph/18.md)
+    - Construction of references to shares held by society or group
+      - [Sch. 13E para. 19](schedule/13E/paragraph/19.md)
+    - Interpretation: general
+      - [Sch. 13E para. 20](schedule/13E/paragraph/20.md)
+- SCHEDULE 13F Disclosure of auditor remuneration etc
+  - Disclosure required
+    - [Sch. 13F para. 1](schedule/13F/paragraph/1.md)
+  - Types of service
+    - [Sch. 13F para. 2](schedule/13F/paragraph/2.md)
+  - Disclosure not required of remuneration for certain services provided by distant associate
+    - [Sch. 13F para. 3](schedule/13F/paragraph/3.md)
+  - Duty of auditor to supply information
+    - [Sch. 13F para. 4](schedule/13F/paragraph/4.md)
+  - Meaning of “associate” and “distant associate” of auditor
+    - [Sch. 13F para. 5](schedule/13F/paragraph/5.md)
+  - Interpretation
+    - [Sch. 13F para. 6](schedule/13F/paragraph/6.md)
+  - Application to registered branches
+    - [Sch. 13F para. 7](schedule/13F/paragraph/7.md)
+- SCHEDULE 14 Auditors: Appointment, Tenure, Qualifications and Remuneration
+  - Appointment
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Appointments in relation to friendly societies subject to special requirements
+    - [Sch. 14 para. 3A](schedule/14/paragraph/3A.md)
+  - Eligibility for appointment
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Appointment of partnerships
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Cases in which auditor need not be a member of a recognised supervisory body
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Effect of ineligibility
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Power of appropriate authority to require second audit
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Removal of auditors
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Removal of auditor on improper grounds
+    - [Sch. 14 para. 10A](schedule/14/paragraph/10A.md)
+  - Rights of auditors who are removed or not re-appointed
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Resignation of auditors
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Rights of resigning auditors
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Statement by person ceasing to hold office
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Offences of failing to comply with paragraph 14
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Duty of auditor to notify appropriate audit authority
+    - [Sch. 14 para. 15A](schedule/14/paragraph/15A.md)
+  - Duty of friendly society or registered branch to notify appropriate audit authority
+    - [Sch. 14 para. 15B](schedule/14/paragraph/15B.md)
+  - Meaning of “appropriate audit authority”
+    - [Sch. 14 para. 15C](schedule/14/paragraph/15C.md)
+  - Remuneration of auditors
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Remuneration of auditors or their associates for non-audit work
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+- SCHEDULE 14A APPOINTMENT AND REMOVAL OF AUDITORS: SOCIETIES SUBJECT TO SPECIAL REQUIREMENTS
+  - Introductory
+    - [Sch. 14A para. 1](schedule/14A/paragraph/1.md)
+  - Appointment of auditor for society which has an audit committee
+    - [Sch. 14A para. 2](schedule/14A/paragraph/2.md)
+  - Appointment of auditor for society which does not have an audit committee
+    - [Sch. 14A para. 3](schedule/14A/paragraph/3.md)
+  - Restriction on appointment of auditor who holds office for maximum engagement period
+    - [Sch. 14A para. 4](schedule/14A/paragraph/4.md)
+    - [Sch. 14A para. 4A](schedule/14A/paragraph/4A.md)
+  - The maximum engagement period
+    - [Sch. 14A para. 5](schedule/14A/paragraph/5.md)
+  - Application to court to remove auditor from office
+    - [Sch. 14A para. 6](schedule/14A/paragraph/6.md)
+  - Interpretation
+    - [Sch. 14A para. 7](schedule/14A/paragraph/7.md)
+- SCHEDULE 15 Amalgamations, Transfers of Engagements and Conversion: Supplementary
+  - Part I Provision of Information to Members
+    - Statements relating to amalgamations and transfers
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Statements relating to conversion of society into company
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+      - [Sch. 15 para. 4ZA](schedule/15/paragraph/4ZA.md)
+      - [Sch. 15 para. 4A](schedule/15/paragraph/4A.md)
+  - Part II Confirmation by appropriate authority
+    - Applications for confirmation
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Confirmation by appropriate authority: General
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - ...
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+      - [Sch. 15 para. 11A](schedule/15/paragraph/11A.md)
+    - Confirmation of transfers of engagements
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+      - [unnumbered provision](unnumbered/0450.md)
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+      - [Sch. 15 para. 15A](schedule/15/paragraph/15A.md)
+      - [unnumbered provision](unnumbered/0453.md)
+    - ...
+      - [Sch. 15 para. 16A](schedule/15/paragraph/16A.md)
+      - [Sch. 15 para. 16B](schedule/15/paragraph/16B.md)
+    - Effect of failure to comply with relevant requirements
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - Interpretation
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+- SCHEDULE 16 Amendments of 1974 Act
+  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+  - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+  - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+  - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+  - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+  - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+  - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+  - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+  - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+  - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+  - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+  - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+  - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+  - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+  - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+  - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+  - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+  - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+  - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+  - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+  - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+  - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+  - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+  - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+  - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+  - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+  - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+  - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+  - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+  - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+  - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+  - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+  - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+  - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+  - [Sch. 16 para. 50](schedule/16/paragraph/50.md)
+  - [Sch. 16 para. 51](schedule/16/paragraph/51.md)
+  - [Sch. 16 para. 52](schedule/16/paragraph/52.md)
+- SCHEDULE 17
+- SCHEDULE 18
+  - Part I Amendments of Provisions Other Than Schedule 11
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Part II Amendments of Schedule 11
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+    - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+- SCHEDULE 19
+  - Part I Great Britain
+    - Industrial Assurance Act 1923
+      - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+      - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+      - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+      - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+      - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+      - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+      - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+      - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+      - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+      - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+      - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+      - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - Industrial Assurance and Friendly Societies Act 1948
+      - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+      - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+      - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+  - Part II Northern Ireland
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+    - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+    - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+    - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
+    - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+    - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
+    - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
+    - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
+    - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+    - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
+    - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
+    - [Sch. 19 para. 30](schedule/19/paragraph/30.md)
+    - [Sch. 19 para. 31](schedule/19/paragraph/31.md)
+    - [Sch. 19 para. 32](schedule/19/paragraph/32.md)
+- SCHEDULE 20
+  - Part I General Mode of Application
+    - General rules as to applicable law
+      - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - Applicable law in the absence of choice
+      - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - Mandatory rules
+      - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - Supplementary provisions
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Part II Long Term Business by Societies to which Section 37(2) applies
+    - General rules as to applicable law
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - Mandatory rules
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - Supplementary provisions
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+- SCHEDULE 21 Amendments
+  - Part I Amendments of Enactments
+    - Loan Societies Act 1840
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - National Savings Bank Act 1971
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - National Debt Act 1972
+      - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - Solicitors Act 1974
+      - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - Insurance Companies Act 1982
+      - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - Companies Act 1985
+      - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+    - Company Directors Disqualification Act 1986
+      - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - Banking Act 1987
+      - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - Income and Corporation Taxes Act 1988
+      - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - Companies Act 1989
+      - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - Tribunals and Inquiries Act 1992
+      - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+      - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+      - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+      - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+      - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+    - Trade Union and Labour Relations (Consolidation) Act 1992
+      - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+    - Social Security Contributions and Benefits (Northern Ireland) Act 1992
+      - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+      - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+  - Part II Amendments of Northern Ireland Legislation
+    - Parliamentary Commissioner Act (Northern Ireland) 1969
+      - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+    - Industrial and Provident Societies Act (Northern Ireland) 1969
+      - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+    - Social Security Pensions (Northern Ireland) Order 1975
+      - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+      - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+    - Statutory Rules (Northern Ireland) Order 1979
+      - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+      - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+    - Housing (Northern Ireland) Order 1981
+      - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+    - Property (Discharge of Mortgage by Receipt)(Northern Ireland) Order 1983
+      - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+    - Credit Unions (Northern Ireland) Order 1985
+      - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+      - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+    - Companies (Northern Ireland) Order 1986
+      - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+    - Companies (Northern Ireland) Order 1989
+      - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+- SCHEDULE 22 Repeals
+  - Part I General
+  - Part II Northern Ireland Legislation
