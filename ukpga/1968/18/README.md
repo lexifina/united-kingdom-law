@@ -1,0 +1,144 @@
+# Consular Relations Act 1968
+
+1968 c. 18. Enacted 1968-04-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1968/18/2020-12-31
+
+## Contents
+
+- [s. 1 Application of Vienna Convention.](section/1.md)
+- [s. 2 Restriction of privileges and immunities.](section/2.md)
+- [s. 3 Agreements providing for additional or reduced privileges and immunities.](section/3.md)
+- [s. 4 Civil jurisdiction concerning service on board ship or aircraft.](section/4.md)
+- [s. 5 Jurisdiction over offences committed on board ship.](section/5.md)
+- [s. 6 Detention on board ship for disciplinary offences.](section/6.md)
+- [s. 7 ................................](section/7.md)
+- [s. 8 Refund of customs duty on hydrocarbon oils.](section/8.md)
+- [s. 9 ................................](section/9.md)
+- [s. 10 Right of diplomatic agents and consular officers to administer oaths and do notarial acts in certain cases.](section/10.md)
+- [s. 11 Evidence.](section/11.md)
+- Privileges and immunities in connection with Commonwealth and Irish establishments
+  - [s. 12](section/12.md)
+  - [s. 13 Commonwealth and Irish consular officers.](section/13.md)
+  - [s. 14 Orders in Council.](section/14.md)
+  - [s. 15 Validation of certain provisions in colonial laws.](section/15.md)
+  - [s. 16 Short title, interpretation, commencement and repeal.](section/16.md)
+- SCHEDULE 1 PROVISIONS OF VIENNA CONVENTION HAVING THE FORCE OF LAW IN THE UNITED KINGDOM
+  - Article 1
+    - [Sch. 1 heading article-1 para. 1](schedule/1/crossheading/article-1/paragraph/1.md)
+    - [Sch. 1 heading article-1 para. 2](schedule/1/crossheading/article-1/paragraph/2.md)
+    - [Sch. 1 heading article-1 para. 3](schedule/1/crossheading/article-1/paragraph/3.md)
+  - CHAPTER I.—CONSULAR RELATIONS IN GENERAL
+    - SECTION I.—ESTABLISHMENT AND CONDUCT OF CONSULAR RELATIONS
+      - Article 5
+      - Article 15
+        - [Sch. 1 Pt. 1 Ch. 1 heading article-15 para. 1](schedule/1/part/1/chapter/1/crossheading/article-15/paragraph/1.md)
+        - [Sch. 1 Pt. 1 Ch. 1 heading article-15 para. 2](schedule/1/part/1/chapter/1/crossheading/article-15/paragraph/2.md)
+        - [Sch. 1 Pt. 1 Ch. 1 heading article-15 para. 3](schedule/1/part/1/chapter/1/crossheading/article-15/paragraph/3.md)
+        - [Sch. 1 Pt. 1 Ch. 1 heading article-15 para. 4](schedule/1/part/1/chapter/1/crossheading/article-15/paragraph/4.md)
+      - Article 17
+        - [Sch. 1 Pt. 1 Ch. 1 heading article-17 para. 1](schedule/1/part/1/chapter/1/crossheading/article-17/paragraph/1.md)
+        - [Sch. 1 Pt. 1 Ch. 1 heading article-17 para. 2](schedule/1/part/1/chapter/1/crossheading/article-17/paragraph/2.md)
+    - SECTION II.—END OF CONSULAR FUNCTIOns
+      - ARTICLE 27
+        - [Sch. 1 Pt. 1 Ch. 2 heading article-27 para. 1](schedule/1/part/1/chapter/2/crossheading/article-27/paragraph/1.md)
+        - [Sch. 1 Pt. 1 Ch. 2 heading article-27 para. 2](schedule/1/part/1/chapter/2/crossheading/article-27/paragraph/2.md)
+  - CHAPTER II.—FACILITIES, PRIVILEGES AND IMMUNITIES RELATING TO CONSULAR POSTS, CAREER CONSULAR OFFICERS AND OTHER MEMBERS OF A CONSULAR POST
+    - Section I.—Facilities, Privileges and Immunities relating to a Consular Post
+      - Article 31
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-31 para. 1](schedule/1/part/2/chapter/1/crossheading/article-31/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-31 para. 2](schedule/1/part/2/chapter/1/crossheading/article-31/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-31 para. 3](schedule/1/part/2/chapter/1/crossheading/article-31/paragraph/3.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-31 para. 4](schedule/1/part/2/chapter/1/crossheading/article-31/paragraph/4.md)
+      - Article 32
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-32 para. 1](schedule/1/part/2/chapter/1/crossheading/article-32/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-32 para. 2](schedule/1/part/2/chapter/1/crossheading/article-32/paragraph/2.md)
+      - Article 33
+      - Article 35
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-35 para. 1](schedule/1/part/2/chapter/1/crossheading/article-35/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-35 para. 2](schedule/1/part/2/chapter/1/crossheading/article-35/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-35 para. 3](schedule/1/part/2/chapter/1/crossheading/article-35/paragraph/3.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-35 para. 4](schedule/1/part/2/chapter/1/crossheading/article-35/paragraph/4.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-35 para. 5](schedule/1/part/2/chapter/1/crossheading/article-35/paragraph/5.md)
+        - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+        - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - Article 39
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-39 para. 1](schedule/1/part/2/chapter/1/crossheading/article-39/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 1 heading article-39 para. 2](schedule/1/part/2/chapter/1/crossheading/article-39/paragraph/2.md)
+    - Section II.—Facilities, Privileges and Immunities relating to Career Consular Officers and other Members of a Consular Post
+      - Article 41
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-41 para. 1](schedule/1/part/2/chapter/2/crossheading/article-41/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-41 para. 2](schedule/1/part/2/chapter/2/crossheading/article-41/paragraph/2.md)
+      - Article 43
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-43 para. 1](schedule/1/part/2/chapter/2/crossheading/article-43/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-43 para. 2](schedule/1/part/2/chapter/2/crossheading/article-43/paragraph/2.md)
+      - Article 44
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-44 para. 1](schedule/1/part/2/chapter/2/crossheading/article-44/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-44 para. 2](schedule/1/part/2/chapter/2/crossheading/article-44/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-44 para. 3](schedule/1/part/2/chapter/2/crossheading/article-44/paragraph/3.md)
+      - Article 45
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-45 para. 1](schedule/1/part/2/chapter/2/crossheading/article-45/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-45 para. 2](schedule/1/part/2/chapter/2/crossheading/article-45/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-45 para. 3](schedule/1/part/2/chapter/2/crossheading/article-45/paragraph/3.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-45 para. 4](schedule/1/part/2/chapter/2/crossheading/article-45/paragraph/4.md)
+      - Article 48
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-48 para. 1](schedule/1/part/2/chapter/2/crossheading/article-48/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-48 para. 2](schedule/1/part/2/chapter/2/crossheading/article-48/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-48 para. 3](schedule/1/part/2/chapter/2/crossheading/article-48/paragraph/3.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-48 para. 4](schedule/1/part/2/chapter/2/crossheading/article-48/paragraph/4.md)
+      - Article 49
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-49 para. 1](schedule/1/part/2/chapter/2/crossheading/article-49/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-49 para. 2](schedule/1/part/2/chapter/2/crossheading/article-49/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-49 para. 3](schedule/1/part/2/chapter/2/crossheading/article-49/paragraph/3.md)
+      - Article 50
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-50 para. 1](schedule/1/part/2/chapter/2/crossheading/article-50/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-50 para. 2](schedule/1/part/2/chapter/2/crossheading/article-50/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-50 para. 3](schedule/1/part/2/chapter/2/crossheading/article-50/paragraph/3.md)
+      - Article 51
+      - Article 52
+      - Article 53
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-53 para. 1](schedule/1/part/2/chapter/2/crossheading/article-53/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-53 para. 2](schedule/1/part/2/chapter/2/crossheading/article-53/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-53 para. 3](schedule/1/part/2/chapter/2/crossheading/article-53/paragraph/3.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-53 para. 4](schedule/1/part/2/chapter/2/crossheading/article-53/paragraph/4.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-53 para. 5](schedule/1/part/2/chapter/2/crossheading/article-53/paragraph/5.md)
+      - Article 54
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-54 para. 1](schedule/1/part/2/chapter/2/crossheading/article-54/paragraph/1.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-54 para. 2](schedule/1/part/2/chapter/2/crossheading/article-54/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-54 para. 3](schedule/1/part/2/chapter/2/crossheading/article-54/paragraph/3.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-54 para. 4](schedule/1/part/2/chapter/2/crossheading/article-54/paragraph/4.md)
+      - Article 55
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-55 para. 2](schedule/1/part/2/chapter/2/crossheading/article-55/paragraph/2.md)
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-55 para. 3](schedule/1/part/2/chapter/2/crossheading/article-55/paragraph/3.md)
+      - Article 57
+        - [Sch. 1 Pt. 2 Ch. 2 heading article-57 para. 2](schedule/1/part/2/chapter/2/crossheading/article-57/paragraph/2.md)
+  - CHAPTER III.—REGIME RELATING TO HONORARY CONSULAR OFFICERS AND CONSULAR POSTS HEADED BY SUCH OFFICERS
+    - Article 58
+      - [Sch. 1 Pt. 3 heading article-58 para. 1](schedule/1/part/3/crossheading/article-58/paragraph/1.md)
+      - [Sch. 1 Pt. 3 heading article-58 para. 2](schedule/1/part/3/crossheading/article-58/paragraph/2.md)
+      - [Sch. 1 Pt. 3 heading article-58 para. 3](schedule/1/part/3/crossheading/article-58/paragraph/3.md)
+    - Article 59
+    - Article 60
+      - [Sch. 1 Pt. 3 heading article-60 para. 1](schedule/1/part/3/crossheading/article-60/paragraph/1.md)
+      - [Sch. 1 Pt. 3 heading article-60 para. 2](schedule/1/part/3/crossheading/article-60/paragraph/2.md)
+    - Article 61
+    - Article 62
+    - Article 66
+    - Article 67
+  - CHAPTER IV.—GENERAL PROVISIONS
+    - Article 70
+      - [Sch. 1 Pt. 4 heading article-70 para. 1](schedule/1/part/4/crossheading/article-70/paragraph/1.md)
+      - [Sch. 1 Pt. 4 heading article-70 para. 2](schedule/1/part/4/crossheading/article-70/paragraph/2.md)
+      - [Sch. 1 Pt. 4 heading article-70 para. 4](schedule/1/part/4/crossheading/article-70/paragraph/4.md)
+    - Article 71
+      - [Sch. 1 Pt. 4 heading article-71 para. 1](schedule/1/part/4/crossheading/article-71/paragraph/1.md)
+      - [Sch. 1 Pt. 4 heading article-71 para. 2](schedule/1/part/4/crossheading/article-71/paragraph/2.md)
+- SCHEDULE 2 PROVISIONS FOR GIVING EFFECT TO OTHER AGREEMENTS
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
