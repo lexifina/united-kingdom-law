@@ -2,9 +2,9 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-07-23, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-07-23
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-12-31
 
 ## Contents
 
@@ -13,11 +13,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-07-23
 - Savings for implementation period
   - [s. 1A Saving for ECA for implementation period](section/1A.md)
   - [s. 1B Saving for EU-derived domestic legislation for implementation period](section/1B.md)
-- Retention of existing EU law
+- Retention of saved EU law at end of implementation period
   - [s. 2 Saving for EU-derived domestic legislation](section/2.md)
   - [s. 3 Incorporation of direct EU legislation](section/3.md)
   - [s. 4 Saving for rights etc. under section 2(1) of the ECA](section/4.md)
   - [s. 5 Exceptions to savings and incorporation](section/5.md)
+  - [s. 5A Savings and incorporation: supplementary](section/5A.md)
   - [s. 6 Interpretation of retained EU law](section/6.md)
   - [s. 7 Status of retained EU law](section/7.md)
 - Further aspects of withdrawal
@@ -31,12 +32,13 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-07-23
   - [s. 8C Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement](section/8C.md)
   - [s. 9 Implementing the withdrawal agreement](section/9.md)
 - Devolution
-  - [s. 10 Continuation of North-South co-operation and the prevention of new border arrangements](section/10.md)
+  - [s. 10 Protection for North-South co-operation and ... prevention of new border arrangements](section/10.md)
   - [s. 11 Powers involving devolved authorities corresponding to sections 8 to 8C](section/11.md)
   - [s. 12 Retaining EU restrictions in devolution legislation etc.](section/12.md)
 - Parliamentary oversight of withdrawal
   - [s. 13 Parliamentary approval of the outcome of negotiations with the EU](section/13.md)
   - [s. 13A Review of EU legislation during implementation period](section/13A.md)
+  - [s. 13B Certain dispute procedures under withdrawal agreement](section/13B.md)
 - Financial and other matters
   - [s. 14 Financial provision](section/14.md)
   - [s. 15 Publication and rules of evidence](section/15.md)
@@ -330,8 +332,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-07-23
   - Part 1 General consequential provision
     - Existing ambulatory references to retained direct EU legislation
       - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Existing ambulatory references to relevant separation agreement law
+      - [Sch. 8 para. 1A](schedule/8/paragraph/1A.md)
     - Other existing ambulatory references
       - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Existing non-ambulatory references
+      - [Sch. 8 para. 2A](schedule/8/paragraph/2A.md)
     - Existing powers to make subordinate legislation etc.
       - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
       - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
@@ -385,7 +391,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-07-23
       - [Sch. 8 para. 36A](schedule/8/paragraph/36A.md)
       - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
   - Part 4 Specific transitional, transitory and saving provision
-    - Retention of existing EU law
+    - Retention of saved EU law at end of implementation period
+      - [Sch. 8 para. 37A](schedule/8/paragraph/37A.md)
       - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
       - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
     - Main powers in connection with withdrawal
