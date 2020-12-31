@@ -1,0 +1,225 @@
+# Judicial Pensions Act 1981
+
+1981 c. 20. Enacted 1981-05-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/20
+
+Source: https://www.legislation.gov.uk/ukpga/1981/20/2020-12-31
+
+## Contents
+
+- Part I Rate of Pension
+  - Chapter I The Higher Judiciary
+    - [s. 1 Interpretation.](section/1.md)
+    - [s. 2 Rate of pension.](section/2.md)
+    - [s. 3 Former holder of office other than high judicial office.](section/3.md)
+    - [s. 4 Provision against double pensions.](section/4.md)
+  - Chapter II Other Judicial Offices
+    - [s. 5 Circuit judge in England or Wales.](section/5.md)
+    - [s. 6 Sheriffs in Scotland.](section/6.md)
+    - [s. 7 Stipendiary magistrates in England and Wales.](section/7.md)
+    - [s. 8 Judge Advocate General: choice between civil service scheme and special provision.](section/8.md)
+    - [s. 9 Judge Advocate General: special provision.](section/9.md)
+    - [s. 10 President or other member of the Lands Tribunal for Scotland.](section/10.md)
+    - [s. 11 President of pensions appeals tribunals.](section/11.md)
+    - [s. 12 President or chairman of employment tribunals](section/12.md)
+    - [s. 13 Social Security Commissioner.](section/13.md)
+    - [s. 13A Registrar of Criminal Appeals.](section/13A.md)
+    - [s. 14 Other judicial offices.](section/14.md)
+    - [s. 14A](section/14A.md)
+    - [s. 15 ................................](section/15.md)
+- Part II LUMP SUMS AND WIDOWS’, SURVIVING CIVIL PARTNERS’ AND CHILDREN’S PENSIONS
+  - [s. 16 Application of Part II, and interpretation.](section/16.md)
+  - [s. 16A](section/16A.md)
+  - [s. 17 Lump sum on retirement or death.](section/17.md)
+  - Widows’, surviving civil partners’ and children’s pensions
+    - [s. 18 Conditions of grant.](section/18.md)
+    - [s. 18A Widowers’ and surviving civil partners’ pensions](section/18A.md)
+    - [s. 19 Widows’, widowers’ and surviving civil partners’ pensions](section/19.md)
+    - [s. 20 Children’s pension: beneficiaries.](section/20.md)
+    - [s. 21 Meaning of “period of childhood and full-time education”.](section/21.md)
+    - [s. 22 Children’s pension: rate and mode of payment.](section/22.md)
+  - Contributions
+    - [s. 23 Contribution towards cost of widow’s and children’s pension.](section/23.md)
+    - [s. 24](section/24.md)
+  - Special cases
+    - [s. 25 Persons serving again after retirement.](section/25.md)
+    - [s. 26 Lord Chancellor.](section/26.md)
+  - Supplemental
+    - [s. 27 Disregard of abatement of pension under s. 65 of Social Security Act 1973.](section/27.md)
+    - [s. 28 Effect of certain nullity decrees.](section/28.md)
+    - [s. 29 Recommendation of a Minister required in certain cases.](section/29.md)
+- Part III Supplemental
+  - [s. 29ZA Restriction of schemes under this Act](section/29ZA.md)
+  - [s. 29A Transfer of accrued benefits.](section/29A.md)
+  - [s. 29B Pension credits: restriction on payments](section/29B.md)
+  - [s. 30 Saving for Pensions (Increase) Act.](section/30.md)
+  - [s. 31 Payments charged on Consolidated Fund.](section/31.md)
+  - [s. 32 Other financial provisions.](section/32.md)
+  - [s. 32A Appeals.](section/32A.md)
+  - [s. 33 Interpretation.](section/33.md)
+  - [s. 33ZA Contributions towards cost of certain judicial pensions etc](section/33ZA.md)
+  - [s. 33A Voluntary contributions.](section/33A.md)
+  - [s. 34 County court registrars and assistant registrars.](section/34.md)
+  - [s. 35 Saving for certain Circuit judges in the City of London.](section/35.md)
+  - [s. 36 Transitory provisions, amendments and repeals.](section/36.md)
+  - [s. 37 Short title and commencement.](section/37.md)
+- SCHEDULE 1 CERTAIN SENIOR COURTS AND COUNTY COURT OFFICERS, AND PRESIDENT OF TRANSPORT TRIBUNAL
+  - Part I
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Relevant service
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Person within principal civil service pension scheme prior to appointment
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part II Pension Benefits
+    - Personal pension
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Retirement for ill-health
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Retirement before qualifying for pension
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Premature retirement on abolition of office
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Discharge for inefficiency
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Re-employment after retirement
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Allocation of benefit to spouse or dependant
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Allocation of benefit on marriage after retirement
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part III Persons Injured, or Contracting Disease, In Discharge of Their Duties
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part IV Supplemental
+    - Temporary abatement of salary to be disregarded
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Service in the armed forces
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Distribution of money without representation
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Delegation of Minister’s power to grant pensions or other benefits
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Minister to determine certain questions
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - President of the Transport Tribunal
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+- SCHEDULE 1A TRANSFER OF ACCRUED BENEFITS
+  - Part I General
+    - Interpretation
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - Regulations
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - Other provisions about transfer values
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Part II Transfers Out
+    - Qualifying members
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - Qualifying member’s right to a transfer payment
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Method of taking cash benefit
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Calculation of cash equivalents
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - Time within which option must be exercised
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Option to be exercised in writing
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - Cancellation of exercise of option
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Part III Transfers In
+    - Application to accept payment into scheme
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - Cancellation of request
+      - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+    - Regulations
+      - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+- SCHEDULE 2 TRANSITORY PROVISIONS
+  - Part I
+    - The Higher Judiciary
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Circuit judges
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Stipendiary magistrates in England and Wales
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Application of Part II to certain abolished offices
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Officers within Schedule 1 to this Act
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - High Court registry at Liverpool or Manchester
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Judicial offices within Chapter II of Part I
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part II Derivative Benefits
+    - Person serving on 15 December 1950: election against all derivative benefits
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Persons serving on 15 December 1950: election against benefits for widow and children
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Relevant service wholly before 18 April 1973
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Persons serving on 18 April 1973: election for application of paragraph 14 above
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Pension not wholly attributable to service after 17 April 1973
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Persons serving on 18 April 1973: election for pensions wholly attributable to service on or after that date
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Saving for provisions about elections
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Part III Modification of Part II in Relation to Service before April 1973
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Widow’s pension
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Children’s pension
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Contributions
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Part IV Widower’s Pensions
+    - General
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Service wholly before the commencement date
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Members retiring between publication and commencement date
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Service partly before and partly after the commencement date
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Pension not wholly attributable to service after 17 April 1973
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - PART 5 SURVIVING CIVIL PARTNERS’ PENSIONS
+    - General
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Service wholly on or before the relevant date
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Service on and after the relevant date
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS
+  - Supreme Court of Judicature (Consolidation) Act 1925 (c. 49)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Superannuation Act 1965 (c. 74)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Superannuation (Miscellaneous Provisions) Act 1967 (c. 28)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Courts Act 1971 (c. 23)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Pensions (Increase) Act 1971 (c. 56)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Administration of Justice Act 1973 (c. 15)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Social Security Act 1980 (c.30)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 REPEALS
