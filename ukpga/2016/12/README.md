@@ -2,9 +2,9 @@
 
 2016 c. 12. Enacted 2016-05-04.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-10-01, one file per provision. Earlier versions, from 2016-05-04, are in the history before it: `git log -- ukpga/2016/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2016-05-04, are in the history before it: `git log -- ukpga/2016/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/12/2017-10-01
+Source: https://www.legislation.gov.uk/ukpga/2016/12/2020-12-31
 
 ## Contents
 
