@@ -1,0 +1,306 @@
+# Fisheries Act (Northern Ireland) 1966
+
+apni/1966/17. Enacted 1966-06-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/apni/1966/17
+
+Source: https://www.legislation.gov.uk/apni/1966/17/2020-12-31
+
+## Contents
+
+- PART I FUNCTIONS OF THE MINISTRY OF AGRICULTURE
+  - Preliminary
+    - [s. 1 Responsibility of the Ministry for fisheries in Northern Ireland.](section/1.md)
+  - Development and improvement of facilities for angling
+    - [s. 1A Promotion of angling.](section/1A.md)
+    - [s. 2 Acquisition and development of waters for angling.](section/2.md)
+    - [s. 3 Development of derelict waters for angling.](section/3.md)
+    - [s. 3A Schemes for development of derelict waters.](section/3A.md)
+    - [s. 4 Provisions supplemental to sections 3 and 3A.](section/4.md)
+    - [s. 5 Payment of grants and execution of works for the development, etc., of waters for angling.](section/5.md)
+    - [s. 6 Programme for the development, etc., of waters for angling.](section/6.md)
+    - [s. 7 Compilation and publication of angling guide.](section/7.md)
+  - Permits to fish in Department’s waters
+    - [s. 7A Permits.](section/7A.md)
+  - Other provisions for the improvement and protection of fisheries
+    - [s. 8 General power for stocking of waters.](section/8.md)
+    - [s. 9 Power of Ministry to improve fisheries at expense of other persons.](section/9.md)
+    - [s. 10 Power of Ministry to establish a fish farm.](section/10.md)
+    - [s. 11 Fish culture licences.](section/11.md)
+    - [s. 11A Applications for fish culture licences.](section/11A.md)
+    - [s. 11B Discharge of effluent.](section/11B.md)
+    - [s. 11C Amendment, suspension and revocation of fish culture licences.](section/11C.md)
+    - [s. 12 Power of Ministry to conduct or assist research.](section/12.md)
+    - [s. 13 Prohibition of introduction of fish of certain kinds.](section/13.md)
+    - [s. 14 Exemptions for artificial propagation and scientific purposes.](section/14.md)
+    - [s. 15 Regulations with respect to eel fishing.](section/15.md)
+  - Protection of quality of fish
+    - [s. 15A Regulations for protection of quality of fish.](section/15A.md)
+  - Definitions of mouths of rivers, etc.
+    - [s. 16 Definitions of mouths of rivers, etc.](section/16.md)
+  - Records and returns
+    - [s. 17 Records and returns by holders of fishing licences and dealers’ licences and persons engaged in the sea-fish industry.](section/17.md)
+    - [s. 18 Disclosure of returns and information.](section/18.md)
+  - Regulations
+    - [s. 19 Regulations.](section/19.md)
+  - Inquiries
+    - [s. 20 Power of Ministry to hold inquiries and investigations.](section/20.md)
+    - [s. 21 Notice of meetings and inquiries.](section/21.md)
+  - Report
+    - [s. 22 Annual report by the Ministry.](section/22.md)
+  - Financial provisions
+    - [s. 23 Expenses.](section/23.md)
+    - [s. 24 Appropriations in aid.](section/24.md)
+- PART II CONSERVATION AND PROTECTION OF SALMON AND INLAND FISHERIES
+  - Functions of the Department ...
+    - [s. 25 Functions of the Department](section/25.md)
+    - [s. 26 Regulations](section/26.md)
+  - Financial provisions affecting the Board
+    - [s. 27 Borrowing powers.](section/27.md)
+    - [s. 28 Duty of Board to make to Ministry a yearly return of estimated receipts and payments.](section/28.md)
+    - [s. 29 Power of Ministry to make advances to the Board.](section/29.md)
+    - [s. 30 Accounts and Audit](section/30.md)
+  - Returns and information
+    - [s. 32 Annual reports of the Board.](section/32.md)
+    - [s. 33 Duty of Board to disclose information to Ministry.](section/33.md)
+- [PART III FISHING LICENCES
+  - [s. 37 Power to make regulations respecting fishing licences.](section/37.md)
+  - [s. 38 Arrangements for the issue of certain licences.](section/38.md)
+  - [s. 39 Angling licences to be non-transferable.](section/39.md)
+  - [s. 40 Effect of fishing licences.](section/40.md)
+  - [s. 41 Prohibition of unlicensed fishing.](section/41.md)
+  - [s. 42 Charging of certain offences under s.41.](section/42.md)
+  - [s. 43 Defences to charges under section 41.](section/43.md)
+  - [s. 44 Complimentary licences.](section/44.md)
+  - [s. 45 Falsification, etc., of licences.](section/45.md)
+- PART IV PROTECTION OF FISHERIES
+  - Protection of fishing waters from poisoning, etc., and pollution
+    - [s. 46 Penalty for use or possession of deleterious matter.](section/46.md)
+    - [s. 47 Penalty for pollution.](section/47.md)
+  - Protection of young and breeding fish
+    - [s. 48 Taking, etc., spawn or fry of salmon, trout or eels.](section/48.md)
+    - [s. 49 Chasing, etc., spawning fish.](section/49.md)
+    - [s. 50 Penalties for taking, etc., unseasonable salmon or trout.](section/50.md)
+    - [s. 51 Prohibition against sale, etc., of immature salmon or trout.](section/51.md)
+    - [s. 52 Taking undersized pollen.](section/52.md)
+  - Obstructions to passage of fish
+    - [s. 53 Removal of natural obstructions in rivers to allow free passage of fish.](section/53.md)
+    - [s. 54 Construction of fish passes in dams in rivers.](section/54.md)
+    - [s. 55 Offence of taking fish in a fish pass, using fishing engines in a fish pass or placing obstacles in a fish pass.](section/55.md)
+    - [s. 56 Restrictions on the use of fishing engines and rods and lines at or in the vicinity of dams.](section/56.md)
+    - [s. 57 Penalty for taking fish in works or watercourses appurtenant to mills.](section/57.md)
+    - [s. 58 Provisions in relation to sluices, etc., of mills deriving water from rivers.](section/58.md)
+  - Abstraction of water from rivers and lakes
+    - [s. 59 Gratings to be set in watercourses diverted from rivers or lakes to prevent entry therein of fish.](section/59.md)
+  - Interpretation
+    - [s. 61 Interpretation of Part IV.](section/61.md)
+- PART V REGULATION OF FISHING FOR SALMON, EELS AND FRESHWATER FISH
+  - Prohibition of certain methods of fishing
+    - [s. 62 Penalty for using certain devices for taking fish.](section/62.md)
+    - [s. 63 Fishing for salmon or trout by cross lines.](section/63.md)
+    - [s. 64 Penalty for taking salmon or trout in eel weir.](section/64.md)
+    - [s. 65 Penalty for damming or teeming river or millrace for purpose of taking salmon or trout.](section/65.md)
+  - [Regulations as to nets, etc.]
+    - [s. 66 Restrictions on use of nets.](section/66.md)
+    - [s. 67 Mesh of nets made of non-rigid material for the taking of salmon in the sea or tideways.](section/67.md)
+    - [s. 68 Meshes or openings of engines made of rigid material for the taking of salmon in the sea or tideways.](section/68.md)
+    - [s. 69 Use of salmon nets near mouths of rivers.](section/69.md)
+    - [s. 70 Powers of Board with respect to drift nets for the taking of salmon in the sea.](section/70.md)
+    - [s. 71 Restriction on use of nets in fresh water.](section/71.md)
+    - [s. 72 Mesh of nets for taking fish in fresh water.](section/72.md)
+  - Prohibition of fishing weirs and fixed engines, with certain exceptions
+    - [s. 73 Restriction with respect to fishing weirs or fixed engines in fresh water portion of rivers or lakes.](section/73.md)
+    - [s. 74 Restriction on use of fixed engines for the capture of salmon in the sea or tideways.](section/74.md)
+    - [s. 75 Effect of certificate under section 6 of the Salmon Fishery (Ireland) Act 1863.](section/75.md)
+    - [s. 76 Power of Ministry to authorise the alteration of sites of fixed engines.](section/76.md)
+    - [s. 77 Power of Ministry to authorise variation in characteristics of fixed engines.](section/77.md)
+  - Regulations as to fixed engines
+    - [s. 78 Prohibition of erecting or using fixed engines at mouths of rivers.](section/78.md)
+    - [s. 79 Prohibition of bag nets in certain places.](section/79.md)
+    - [s. 80 Regulations as to construction and user of bag nets.](section/80.md)
+  - Regulations as to fishing weirs
+    - [s. 81 Free gaps in fishing weirs.](section/81.md)
+    - [s. 82 Offence of affecting flow of water through free gap by alteration of bed of river.](section/82.md)
+    - [s. 83 Fishing in or near or obstructing free gaps.](section/83.md)
+    - [s. 84 Operation of eel weir without free gap.](section/84.md)
+    - [s. 85 Rules as to boxes in salmon weirs.](section/85.md)
+    - [s. 86 Construction of guiding walls appurtenant to salmon weirs.](section/86.md)
+  - Other provisions
+    - [s. 87 Restriction on possession of unlawful fishing engines, etc.](section/87.md)
+    - [s. 88 Taking salmon or trout unlawfully killed or found dead.](section/88.md)
+- PART VI TIMES OF FISHING FOR SALMON, TROUT, POLLEN AND EELS
+  - Annual close season for salmon and trout caught otherwise than by rod and line
+    - [s. 89 Annual close season for salmon and trout.](section/89.md)
+    - [s. 90 Penalties for fishing otherwise than by rod and line for salmon or trout during the annual close season for salmon and trout.](section/90.md)
+    - [s. 91 Provisions to be observed in relation to fixed engines during the annual close season for salmon and trout](section/91.md)
+    - [s. 92 Dismantlement of salmon weirs during the annual close season for salmon and trout.](section/92.md)
+    - [s. 93 Removal of nets from banks, etc., of waters during the annual close season for salmon and trout.](section/93.md)
+    - [s. 94 Use of nets in inland waters during the annual close season for salmon and trout.](section/94.md)
+  - Annual close season for angling for salmon and annual close season for angling for trout
+    - [s. 95 Annual close season for angling for salmon and annual close season for angling for trout.](section/95.md)
+    - [s. 96 Angling for salmon or for trout during annual close season for angling for salmon or annual close season for angling for trout.](section/96.md)
+  - Weekly close time for salmon and trout caught otherwise than by rod and line
+    - [s. 97 Weekly close time.](section/97.md)
+    - [s. 98 Penalty for fishing otherwise than by rod and line for salmon or trout during the weekly close time.](section/98.md)
+    - [s. 99 Provisions to be observed in relation to certain fixed engines during the weekly close time.](section/99.md)
+    - [s. 100 Provisions to be observed in relation to salmon weirs during the weekly close time.](section/100.md)
+    - [s. 101 Penalty for preventing fish from passing through boxes, etc., during the weekly close time.](section/101.md)
+    - [s. 102 Scaring or obstructing free passage of salmon or trout during the weekly close time.](section/102.md)
+    - [s. 103 Use of nets in inland waters during the weekly close time.](section/103.md)
+  - Other restrictions as to times of fishing for salmon and trout
+    - [s. 104 Restriction on use of salmon or trout nets during certain hours in freshwater portions of rivers.](section/104.md)
+  - Pollen
+    - [s. 105 Annual close season for pollen.](section/105.md)
+    - [s. 106 Extension of sections 90 and 98 to pollen.](section/106.md)
+  - Eels
+    - [s. 107 Annual close season for eels.](section/107.md)
+    - [s. 108 Prohibition of taking etc. eels, otherwise than by rod and line, during the annual close season.](section/108.md)
+    - [s. 109 Placing fishing engines for taking eels in eyes, etc., of fishing weirs during the annual close season for eels or during the daytime.](section/109.md)
+- PART VII RESTRICTIONS ON DEALINGS IN SALMON, TROUT AND EELS
+  - [s. 110 Prohibition of sale, etc., of salmon or trout unlawfully captured.](section/110.md)
+  - [s. 111 Prohibition of purchase, sale, etc., of salmon, trout, pollen and brown eels at certain times.](section/111.md)
+  - [s. 112 Restriction on purchase of salmon, trout and eels.](section/112.md)
+  - Licences for the sale of salmon, trout and eels
+    - [s. 113 Prohibition of sale, etc., of salmon, trout and eels without licence.](section/113.md)
+    - [s. 114 Grant of licence.](section/114.md)
+    - [s. 115 Renewal of licence.](section/115.md)
+    - [s. 116 Appeal from refusal of licence.](section/116.md)
+    - [s. 117 Separate licence required for each premises, etc.](section/117.md)
+    - [s. 118 Publication of licences.](section/118.md)
+    - [s. 119 Temporary continuance of licence on death.](section/119.md)
+    - [s. 120 Register to be kept by holder of licence.](section/120.md)
+  - Other provisions
+    - [s. 122 Marking of packages containing salmon, trout or eels.](section/122.md)
+    - [s. 123 Penalties for offences under Part VII.](section/123.md)
+    - [s. 123A Power to apply this Part to other species of fish.](section/123A.md)
+- PART VIII SEA-FISHERIES
+  - Regulations
+    - [s. 124 Sea-fishing regulations.](section/124.md)
+    - [s. 126 Landing etc., fish caught in contravention of regulations.](section/126.md)
+  - Undersized sea-fish
+    - [s. 127 Minimum sizes of sea-fish.](section/127.md)
+  - Other provisions
+    - [s. 128 Use of beaches, etc., by fishermen for purposes of sea-fishing.](section/128.md)
+    - [s. 129 Use by fishermen of land adjoining fishing places.](section/129.md)
+- [PART IX SHELL-FISH FISHERY LICENCES
+  - [s. 131 Power of Department to grant shell-fish fishery licence.](section/131.md)
+  - [s. 132 Application for shell-fish fishery licence.](section/132.md)
+  - [s. 133 Form, conditions, duration and variation of shell-fish fishery licence.](section/133.md)
+  - [s. 134 Publication of shell-fish fishery licence.](section/134.md)
+  - [s. 135 Effect of shell-fish fishery licence.](section/135.md)
+  - [s. 136 Offences with respect to licensed shell-fish fishery.](section/136.md)
+  - [s. 137 Suspension or revocation of shell-fish fishery licence.](section/137.md)
+- PART IXA MARINE FISH FISHERY LICENCES
+  - [s. 137A Marine fish fishery licences.](section/137A.md)
+- PART X MISCELLANEOUS OFFENCES
+  - [s. 160 Obstructing persons lawfully fishing.](section/160.md)
+  - [s. 161 Placing fishing engine with intent to prevent fish entering any other fishing engine lawfully set.](section/161.md)
+  - [s. 162 Taking or using boats without permission.](section/162.md)
+  - [s. 163 Names of owners to be painted on fishing boats.](section/163.md)
+  - [s. 164 Unauthorised entry on several fishery.](section/164.md)
+  - [s. 165 Unauthorised fishing in private ponds.](section/165.md)
+- PART XI AUTHORISED PERSONS
+  - Definitions
+    - [s. 166 Definitions for purposes of Part XI.](section/166.md)
+  - Provisions with respect to particular classes of authorised persons
+    - [s. 167 Amendment of 1836 c.13 s.15, as to purposes for which members of the Royal Ulster Constabulary may be employed.](section/167.md)
+    - [s. 168 Restriction on powers of officers of the Department.](section/168.md)
+    - [s. 170 Appointment, etc., of private water bailiffs.](section/170.md)
+    - [s. 170A Duration of appointments of private water bailiffs.](section/170A.md)
+    - [s. 171 Warrant for exercise of powers.](section/171.md)
+  - Powers
+    - [s. 172 General powers of authorised persons.](section/172.md)
+    - [s. 173 Power of justice of the peace to grant warrant to enter certain places.](section/173.md)
+    - [s. 174 Boarding and examination of fishing boats.](section/174.md)
+    - [s. 175 Detention of sea-fishing boats, etc.](section/175.md)
+    - [s. 176 Apprehension of offenders.](section/176.md)
+    - [s. 177 Powers in relation to fishing engines, etc.](section/177.md)
+    - [s. 178 Powers of inspection, examination and detention.](section/178.md)
+    - [s. 179 Persons using, etc., fishing engines to produce fishing licence therefor on demand.](section/179.md)
+    - [s. 179A Production of permits issued under section 7A.](section/179A.md)
+    - [s. 180 Procedure for disposal of boat or fishing engine seized in certain cases.](section/180.md)
+    - [s. 181 Procedure for disposal of fish seized or detained.](section/181.md)
+  - Protection of authorised persons
+    - [s. 182 Penalty for assaulting authorised person.](section/182.md)
+    - [s. 183 Obstructing or impeding authorised person.](section/183.md)
+    - [s. 184 Giving warning to persons unlawfully fishing.](section/184.md)
+    - [s. 185 Indemnification of authorised persons.](section/185.md)
+- PART XII SUPPLEMENTAL PROVISIONS
+  - General considerations
+    - [s. 185A Preservation of amenity.](section/185A.md)
+  - Jurisdiction of Water Appeals Commission for Northern Ireland under this Act
+    - [s. 185B Jurisdiction of Appeals Commission.](section/185B.md)
+  - Legal Proceedings
+    - [s. 186 Complaints.](section/186.md)
+    - [s. 188 Jurisdiction in offences committed at sea.](section/188.md)
+    - [s. 189 Service of documents.](section/189.md)
+    - [s. 192 Additional defence for persons charged with buying, etc., undersized fish.](section/192.md)
+    - [s. 193 Detention of offender pending return of warrant of distress.](section/193.md)
+  - Forfeitures
+    - [s. 195 Forfeiture of boat, fishing engine, etc., as statutory consequence of conviction.](section/195.md)
+    - [s. 196 Non-obligation of court to pronounce or record forfeiture.](section/196.md)
+    - [s. 197 Power of court to order forfeiture of vehicle.](section/197.md)
+    - [s. 198 Disposal of forfeitures.](section/198.md)
+    - [s. 199 Appeal from refusal of Ministry to annul forfeiture in certain cases.](section/199.md)
+    - [s. 200 Forfeiture of licences.](section/200.md)
+  - Penalties
+    - [s. 201 Penalties for offences.](section/201.md)
+    - [s. 202 Continuing offences.](section/202.md)
+    - [s. 203 Disposal of fines.](section/203.md)
+  - Evidence
+    - [s. 204 Proof of documents.](section/204.md)
+    - [s. 205 Recovery and evidence of expenses.](section/205.md)
+  - Interpretation
+    - [s. 206 Interpretation.](section/206.md)
+    - [s. 207 Extension to hand lines of provisions relating to angling.](section/207.md)
+  - Saving
+    - [s. 208 Saving for right of owner to take materials from streams](section/208.md)
+  - Transitional
+    - [s. 209 Transitional provisions.](section/209.md)
+  - General
+    - [s. 212 Application to the Londonderry Area.](section/212.md)
+    - [s. 213 Commencement.](section/213.md)
+    - [s. 214 Short title.](section/214.md)
+- SCHEDULE 1 SUSPENSION AND REVOCATION OF LICENCES
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 THE FISHERIES CONSERVANCY BOARD FOR NORTHERN IRELAND
+    - Incorporation and constitution
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Executive committee of the Board
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Remuneration
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Power to amend certain provisions of this Schedule
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Officers and servants
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Superannuation
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - The seal
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Execution of contracts and instruments not under seal
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 5 FORM OF APPOINTMENT OF PRIVATE WATER BAILIFF
+- SCHEDULE 5A RENEWAL OF APPOINTMENTS OF PRIVATE WATER BAILIFFS
+  - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+  - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+- SCHEDULE 6 PROVISIONS TO WHICH SECTIONS 182(b) AND 183(b) APPLY
