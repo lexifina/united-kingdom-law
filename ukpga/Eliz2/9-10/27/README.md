@@ -1,0 +1,645 @@
+# Carriage by Air Act 1961
+
+1961 c. 27. Enacted 1961-06-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/9-10/27
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/9-10/27/2020-12-31
+
+## Contents
+
+- [s. 1 Convention to have the force of law](section/1.md)
+- [s. 2 Designation of High Contracting Parties.](section/2.md)
+- [s. 3 Fatal accidents.](section/3.md)
+- [s. 4 Limitation of liability.](section/4.md)
+- [s. 4A Notice of partial loss.](section/4A.md)
+- [s. 5 Time for bringing proceedings.](section/5.md)
+- [s. 6 Contributory negligence.](section/6.md)
+- [s. 7 Power to exclude aircraft in use for military purposes.](section/7.md)
+- [s. 8 Actions against parties to Conventions.](section/8.md)
+- [s. 8A Amendments consequential on revision of Convention.](section/8A.md)
+- [s. 9 Application to British possessions, etc.](section/9.md)
+- [s. 10 Application to carriage by air not governed by Convention.](section/10.md)
+- [s. 11 Application to Scotland.](section/11.md)
+- [s. 12 Application to Northern Ireland.](section/12.md)
+- [s. 13 Application to Crown.](section/13.md)
+- [s. 14 Short title, interpretation and repeals.](section/14.md)
+- FIRST SCHEDULE THE WARSAW CONVENTION WITH THE AMENDMENTS MADE IN IT BY THE HAGUE PROTOCOL
+  - PART I THE ENGLISH TEXT
+    - CHAPTER 1 Scope—Definitions
+      - Article 1
+        - [Sch. FIRST Pt. I Ch. 1 heading article-1 para. 1](schedule/FIRST/part/I/chapter/1/crossheading/article-1/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. 1 heading article-1 para. 2](schedule/FIRST/part/I/chapter/1/crossheading/article-1/paragraph/2.md)
+        - [Sch. FIRST Pt. I Ch. 1 heading article-1 para. 3](schedule/FIRST/part/I/chapter/1/crossheading/article-1/paragraph/3.md)
+      - Article 2
+        - [Sch. FIRST Pt. I Ch. 1 heading article-2 para. 1](schedule/FIRST/part/I/chapter/1/crossheading/article-2/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. 1 heading article-2 para. 2](schedule/FIRST/part/I/chapter/1/crossheading/article-2/paragraph/2.md)
+    - CHAPTER II Documents of Carriage
+      - Section 1.—Passenger Ticket
+        - Article 3
+          - [Sch. FIRST Pt. I Ch. II heading section-1passenger-ticket heading section 1passenger ticket art. 3_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-1passenger-ticket/crossheading/section/1passenger/ticket/article/3_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-1passenger-ticket heading section 1passenger ticket art. 3_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-1passenger-ticket/crossheading/section/1passenger/ticket/article/3_paragraph/2.md)
+      - Section 2—Baggage Check
+        - Article 4
+          - [Sch. FIRST Pt. I Ch. II heading section-2baggage-check heading section 2baggage check art. 4_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-2baggage-check/crossheading/section/2baggage/check/article/4_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-2baggage-check heading section 2baggage check art. 4_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-2baggage-check/crossheading/section/2baggage/check/article/4_paragraph/2.md)
+      - Section 3.—Air Waybill
+        - Article 5
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 5_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/5_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 5_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/5_paragraph/2.md)
+        - Article 6
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 6_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/6_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 6_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/6_paragraph/2.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 6_paragraph 3](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/6_paragraph/3.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 6_paragraph 4](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/6_paragraph/4.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 6_paragraph 5](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/6_paragraph/5.md)
+        - Article 7
+        - Article 8
+        - Article 9
+        - Article 10
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 10_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/10_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 10_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/10_paragraph/2.md)
+        - Article 11
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 11_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/11_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 11_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/11_paragraph/2.md)
+        - Article 12
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 12_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/12_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 12_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/12_paragraph/2.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 12_paragraph 3](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/12_paragraph/3.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 12_paragraph 4](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/12_paragraph/4.md)
+        - Article 13
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 13_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/13_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 13_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/13_paragraph/2.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 13_paragraph 3](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/13_paragraph/3.md)
+        - Article 14
+        - Article 15
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 15_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/15_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 15_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/15_paragraph/2.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 15_paragraph 3](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/15_paragraph/3.md)
+        - Article 16
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 16_paragraph 1](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/16_paragraph/1.md)
+          - [Sch. FIRST Pt. I Ch. II heading section-3air-waybill heading section 3air waybill art. 16_paragraph 2](schedule/FIRST/part/I/chapter/II/crossheading/section-3air-waybill/crossheading/section/3air/waybill/article/16_paragraph/2.md)
+    - CHAPTER III Liability of the Carrier
+      - Article 17
+      - Article 18
+        - [Sch. FIRST Pt. I Ch. III heading article-18 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-18/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-18 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-18/paragraph/2.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-18 para. 3](schedule/FIRST/part/I/chapter/III/crossheading/article-18/paragraph/3.md)
+      - Article 19
+      - Article 20
+      - Article 21
+      - Article 22
+        - [Sch. FIRST Pt. I Ch. III heading article-22 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-22/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-22 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-22/paragraph/2.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-22 para. 3](schedule/FIRST/part/I/chapter/III/crossheading/article-22/paragraph/3.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-22 para. 4](schedule/FIRST/part/I/chapter/III/crossheading/article-22/paragraph/4.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-22 para. 5](schedule/FIRST/part/I/chapter/III/crossheading/article-22/paragraph/5.md)
+      - Article 23
+        - [Sch. FIRST Pt. I Ch. III heading article-23 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-23/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-23 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-23/paragraph/2.md)
+      - Article 24
+        - [Sch. FIRST Pt. I Ch. III heading article-24 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-24/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-24 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-24/paragraph/2.md)
+      - Article 25
+      - Article 25A
+        - [Sch. FIRST Pt. I Ch. III heading article-25a para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-25a/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-25a para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-25a/paragraph/2.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-25a para. 3](schedule/FIRST/part/I/chapter/III/crossheading/article-25a/paragraph/3.md)
+      - Article 26
+        - [Sch. FIRST Pt. I Ch. III heading article-26 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-26/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-26 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-26/paragraph/2.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-26 para. 3](schedule/FIRST/part/I/chapter/III/crossheading/article-26/paragraph/3.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-26 para. 4](schedule/FIRST/part/I/chapter/III/crossheading/article-26/paragraph/4.md)
+      - Article 27
+      - Article 28
+        - [Sch. FIRST Pt. I Ch. III heading article-28 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-28/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-28 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-28/paragraph/2.md)
+      - Article 29
+        - [Sch. FIRST Pt. I Ch. III heading article-29 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-29/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-29 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-29/paragraph/2.md)
+      - Article 30
+        - [Sch. FIRST Pt. I Ch. III heading article-30 para. 1](schedule/FIRST/part/I/chapter/III/crossheading/article-30/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-30 para. 2](schedule/FIRST/part/I/chapter/III/crossheading/article-30/paragraph/2.md)
+        - [Sch. FIRST Pt. I Ch. III heading article-30 para. 3](schedule/FIRST/part/I/chapter/III/crossheading/article-30/paragraph/3.md)
+    - CHAPTER IV Provisions Relating to Combined Carriage
+      - Article 31
+        - [Sch. FIRST Pt. I Ch. IV heading article-31 para. 1](schedule/FIRST/part/I/chapter/IV/crossheading/article-31/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. IV heading article-31 para. 2](schedule/FIRST/part/I/chapter/IV/crossheading/article-31/paragraph/2.md)
+    - CHAPTER V General and Final Provisions
+      - Article 32
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 36
+      - Article 40A
+        - [Sch. FIRST Pt. I Ch. V heading article-40a para. 1](schedule/FIRST/part/I/chapter/V/crossheading/article-40a/paragraph/1.md)
+        - [Sch. FIRST Pt. I Ch. V heading article-40a para. 2](schedule/FIRST/part/I/chapter/V/crossheading/article-40a/paragraph/2.md)
+    - Additional Protocol
+      - (With reference to Article 2)
+  - PART II THE FRENCH TEXT
+    - CHAPITRE Ier Objet—Définitions
+      - Article 1er
+        - [Sch. FIRST Pt. II Ch. 1 heading article-1er para. 1](schedule/FIRST/part/II/chapter/1/crossheading/article-1er/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 1 heading article-1er para. 2](schedule/FIRST/part/II/chapter/1/crossheading/article-1er/paragraph/2.md)
+        - [Sch. FIRST Pt. II Ch. 1 heading article-1er para. 3](schedule/FIRST/part/II/chapter/1/crossheading/article-1er/paragraph/3.md)
+      - Article 2
+        - [Sch. FIRST Pt. II Ch. 1 heading article-2 para. 1](schedule/FIRST/part/II/chapter/1/crossheading/article-2/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 1 heading article-2 para. 2](schedule/FIRST/part/II/chapter/1/crossheading/article-2/paragraph/2.md)
+    - CHAPITRE II Titre de transport
+      - Section 1.—Billet de passage
+        - Article 3
+          - [Sch. FIRST Pt. II Ch. 2 heading section-1billet-de-passage heading section 1billet de passage article 3_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-1billet-de-passage/crossheading/section/1billet/de/passage/article/3_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-1billet-de-passage heading section 1billet de passage article 3_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-1billet-de-passage/crossheading/section/1billet/de/passage/article/3_paragraph/2.md)
+      - Section 2.—Bulletin de bagages
+        - Article 4
+          - [Sch. FIRST Pt. II Ch. 2 heading section-2bulletin-de-bagages heading section 2bulletin de bagages article 4_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-2bulletin-de-bagages/crossheading/section/2bulletin/de/bagages/article/4_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-2bulletin-de-bagages heading section 2bulletin de bagages article 4_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-2bulletin-de-bagages/crossheading/section/2bulletin/de/bagages/article/4_paragraph/2.md)
+      - Section 3.—Lettre de transport aérien
+        - Article 5
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 5_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/5_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 5_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/5_paragraph/2.md)
+        - Article 6
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 6_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/6_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 6_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/6_paragraph/2.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 6_paragraph 3](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/6_paragraph/3.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 6_paragraph 4](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/6_paragraph/4.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 6_paragraph 5](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/6_paragraph/5.md)
+        - Article 7
+        - Article 8
+        - Article 9
+        - Article 10
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 10_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/10_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 10_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/10_paragraph/2.md)
+        - Article 11
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 11_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/11_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 11_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/11_paragraph/2.md)
+        - Article 12
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 12_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/12_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 12_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/12_paragraph/2.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 12_paragraph 3](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/12_paragraph/3.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 12_paragraph 4](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/12_paragraph/4.md)
+        - Article 13
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 13_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/13_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 13_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/13_paragraph/2.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 13_paragraph 3](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/13_paragraph/3.md)
+        - Article 14
+        - Article 15
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 15_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/15_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 15_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/15_paragraph/2.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 15_paragraph 3](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/15_paragraph/3.md)
+        - Article 16
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 16_paragraph 1](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/16_paragraph/1.md)
+          - [Sch. FIRST Pt. II Ch. 2 heading section-3lettre-de-transport-arien heading section 3lettre de transport arien art. 16_paragraph 2](schedule/FIRST/part/II/chapter/2/crossheading/section-3lettre-de-transport-arien/crossheading/section/3lettre/de/transport/arien/article/16_paragraph/2.md)
+    - CHAPITRE III Responsabilité du transporteur
+      - Article 17
+      - Article 18
+        - [Sch. FIRST Pt. II Ch. 3 heading article-18 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-18/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-18 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-18/paragraph/2.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-18 para. 3](schedule/FIRST/part/II/chapter/3/crossheading/article-18/paragraph/3.md)
+      - Article 19
+      - Article 20
+      - Article 21
+      - Article 22
+        - [Sch. FIRST Pt. II Ch. 3 heading article-22 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-22/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-22 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-22/paragraph/2.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-22 para. 3](schedule/FIRST/part/II/chapter/3/crossheading/article-22/paragraph/3.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-22 para. 4](schedule/FIRST/part/II/chapter/3/crossheading/article-22/paragraph/4.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-22 para. 5](schedule/FIRST/part/II/chapter/3/crossheading/article-22/paragraph/5.md)
+      - Article 23
+        - [Sch. FIRST Pt. II Ch. 3 heading article-23 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-23/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-23 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-23/paragraph/2.md)
+      - Article 24
+        - [Sch. FIRST Pt. II Ch. 3 heading article-24 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-24/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-24 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-24/paragraph/2.md)
+      - Article 25
+      - Article 25A
+        - [Sch. FIRST Pt. II Ch. 3 heading article-25a para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-25a/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-25a para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-25a/paragraph/2.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-25a para. 3](schedule/FIRST/part/II/chapter/3/crossheading/article-25a/paragraph/3.md)
+      - Article 26
+        - [Sch. FIRST Pt. II Ch. 3 heading article-26 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-26/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-26 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-26/paragraph/2.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-26 para. 3](schedule/FIRST/part/II/chapter/3/crossheading/article-26/paragraph/3.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-26 para. 4](schedule/FIRST/part/II/chapter/3/crossheading/article-26/paragraph/4.md)
+      - Article 27
+      - Article 28
+        - [Sch. FIRST Pt. II Ch. 3 heading article-28 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-28/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-28 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-28/paragraph/2.md)
+      - Article 29
+        - [Sch. FIRST Pt. II Ch. 3 heading article-29 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-29/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-29 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-29/paragraph/2.md)
+      - Article 30
+        - [Sch. FIRST Pt. II Ch. 3 heading article-30 para. 1](schedule/FIRST/part/II/chapter/3/crossheading/article-30/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-30 para. 2](schedule/FIRST/part/II/chapter/3/crossheading/article-30/paragraph/2.md)
+        - [Sch. FIRST Pt. II Ch. 3 heading article-30 para. 3](schedule/FIRST/part/II/chapter/3/crossheading/article-30/paragraph/3.md)
+    - CHAPITRE IV Dispositions relatives aux transports combinés
+      - Article 31
+        - [Sch. FIRST Pt. II Ch. 4 heading article-31 para. 1](schedule/FIRST/part/II/chapter/4/crossheading/article-31/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 4 heading article-31 para. 2](schedule/FIRST/part/II/chapter/4/crossheading/article-31/paragraph/2.md)
+    - CHAPITRE V Dispositions générales et finales
+      - Article 32
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 36
+      - Article 40A
+        - [Sch. FIRST Pt. II Ch. 5 heading article-40a para. 1](schedule/FIRST/part/II/chapter/5/crossheading/article-40a/paragraph/1.md)
+        - [Sch. FIRST Pt. II Ch. 5 heading article-40a para. 2](schedule/FIRST/part/II/chapter/5/crossheading/article-40a/paragraph/2.md)
+    - Protocole additionnel
+      - Ad Article 2
+- SCHEDULE 1 THE WARSAW CONVENTION AS AMENDED AT THE HAGUE IN 1955 AND BY PROTOCOLS NO. 3 AND NO. 4 SIGNED AT MONTREAL IN 1975
+  - PART I THE ENGLISH TEXT
+    - CHAPTER I SCOPE—DEFINITIONS
+      - Article 1
+      - Article 2
+    - CHAPTER II DOCUMENTS OF CARRIAGE
+      - SECTION 1—PASSENGER TICKET
+        - Article 3
+          - [Sch. 1 Pt. I Ch. II heading section-1passenger-ticket heading section 1passenger ticket art. 3_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-1passenger-ticket/crossheading/section/1passenger/ticket/article/3_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-1passenger-ticket heading section 1passenger ticket art. 3_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-1passenger-ticket/crossheading/section/1passenger/ticket/article/3_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-1passenger-ticket heading section 1passenger ticket art. 3_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-1passenger-ticket/crossheading/section/1passenger/ticket/article/3_paragraph/3.md)
+      - SECTION 2—BAGGAGE CHECK
+        - Article 4
+          - [Sch. 1 Pt. I Ch. II heading section-2baggage-check heading section 2baggage check art. 4_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-2baggage-check/crossheading/section/2baggage/check/article/4_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-2baggage-check heading section 2baggage check art. 4_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-2baggage-check/crossheading/section/2baggage/check/article/4_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-2baggage-check heading section 2baggage check art. 4_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-2baggage-check/crossheading/section/2baggage/check/article/4_paragraph/3.md)
+      - SECTION 3—DOCUMENTATION RELATING TO CARGO
+        - Article 5
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 5_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/5_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 5_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/5_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 5_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/5_paragraph/3.md)
+        - Article 6
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 6_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/6_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 6_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/6_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 6_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/6_paragraph/3.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 6_paragraph 4](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/6_paragraph/4.md)
+        - Article 7
+        - Article 8
+        - Article 9
+        - Article 10
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 10_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/10_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 10_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/10_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 10_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/10_paragraph/3.md)
+        - Article 11
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 11_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/11_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 11_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/11_paragraph/2.md)
+        - Article 12
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 12_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/12_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 12_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/12_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 12_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/12_paragraph/3.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 12_paragraph 4](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/12_paragraph/4.md)
+        - Article 13
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 13_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/13_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 13_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/13_paragraph/2.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 13_paragraph 3](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/13_paragraph/3.md)
+        - Article14
+        - Article 15
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 15_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/15_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 15_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/15_paragraph/2.md)
+        - Article 16
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 16_paragraph 1](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/16_paragraph/1.md)
+          - [Sch. 1 Pt. I Ch. II heading section-3documentation-relating-to-cargo heading section 3documentation relating to cargo art. 16_paragraph 2](schedule/1/part/I/chapter/II/crossheading/section-3documentation-relating-to-cargo/crossheading/section/3documentation/relating/to/cargo/article/16_paragraph/2.md)
+    - CHAPTER III LIABILITY OF THE CARRIER
+      - Article 17
+      - Article 18
+      - Article 19
+      - Article 20
+      - Article 21
+      - Article 22
+      - Article 22A
+      - Article 23
+      - Article 24
+      - Article 25A
+      - Article 26
+      - Article 27
+      - Article 28
+      - Article 29
+      - Article 30
+      - Article 30A
+    - CHAPTER IV PROVISIONS RELATING TO COMBINED CARRIAGE
+      - Article 31
+    - CHAPTER V GENERAL AND FINAL PROVISIONS
+      - Article 32
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 35A
+      - Article 40A
+  - PART II THE FRENCH TEXTCHAPITRE IEROBJET—DÉFINITIONS
+    - CHAPITRE Ier OBJET — DéFINITIONS
+      - Article 1er
+      - Article 2
+    - CHAPITRE II TITRES DE TRANSPORT
+      - SECTION 1—BILLET DE PASSAGE
+        - Article 3
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-1billet-de-passage crossheading s. 1billet de passage art. 3_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-1billet-de-passage/crossheading/section/1billet/de/passage/article/3_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-1billet-de-passage crossheading s. 1billet de passage art. 3_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-1billet-de-passage/crossheading/section/1billet/de/passage/article/3_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-1billet-de-passage crossheading s. 1billet de passage art. 3_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-1billet-de-passage/crossheading/section/1billet/de/passage/article/3_paragraph/3.md)
+      - SECTION 2—BULLETIN DE BAGGAGES
+        - Article 4
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-2bulletin-de-baggages crossheading s. 2bulletin de baggages art. 4_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-2bulletin-de-baggages/crossheading/section/2bulletin/de/baggages/article/4_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-2bulletin-de-baggages crossheading s. 2bulletin de baggages art. 4_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-2bulletin-de-baggages/crossheading/section/2bulletin/de/baggages/article/4_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-2bulletin-de-baggages crossheading s. 2bulletin de baggages art. 4_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-2bulletin-de-baggages/crossheading/section/2bulletin/de/baggages/article/4_paragraph/3.md)
+      - SECTION 3—DOCUMENTATION RELATIVE AUX MARCHANDISES
+        - Article 5
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 5_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/5_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 5_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/5_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 5_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/5_paragraph/3.md)
+        - Article 6
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 6_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/6_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 6_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/6_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 6_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/6_paragraph/3.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 6_paragraph 4](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/6_paragraph/4.md)
+        - Article 7
+        - Article 8
+        - Article 9
+        - Article 10
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 10_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/10_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 10_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/10_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 10_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/10_paragraph/3.md)
+        - Article 11
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 11_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/11_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 11_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/11_paragraph/2.md)
+        - Article 12
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 12_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/12_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 12_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/12_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 12_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/12_paragraph/3.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 12_paragraph 4](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/12_paragraph/4.md)
+        - Article 13
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 13_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/13_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 13_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/13_paragraph/2.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 13_paragraph 3](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/13_paragraph/3.md)
+        - Article 14
+        - Article 15
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 15_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/15_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 15_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/15_paragraph/2.md)
+        - Article 16
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 16_paragraph 1](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/16_paragraph/1.md)
+          - [Sch. 1 Pt. II Ch. CHAPITRE II crossheading section-3documentation-relative-aux-marchandises crossheading s. 3documentation relative aux marchandises article 16_paragraph 2](schedule/1/part/II/chapter/CHAPITRE/II/crossheading/section-3documentation-relative-aux-marchandises/crossheading/section/3documentation/relative/aux-/marchandises/article/16_paragraph/2.md)
+    - CHAPITRE III RESPONSABILITÉ DU TRANSPORTEUR
+      - Article 17
+      - Article 18
+      - Article 19
+      - Article 20
+      - Article 21
+      - Article 22
+      - Article 22A
+      - Article 23
+      - Article 24
+      - Article 25A
+      - Article 26
+      - Article 27
+      - Article 28
+      - Article 29
+      - Article 30
+      - Article 30A
+    - CHAPITRE IV DISPOSITIONS RELATIVES AUX TRANSPORTS COMBINÉS
+      - Article 31
+    - CHAPITRE V DISPOSITIONS GÉNÉRALES ET FINALS
+      - Article 32
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 35A
+      - Article 40A
+    - PROTOCOLE ADDITIONNEL
+      - Ad Article 2
+- SCHEDULE 1A THE WARSAW CONVENTION WITH THE AMENDMENTS MADE IN IT BY THE HAGUE PROTOCOL AND PROTOCOL NO. 4 OF MONTREAL, 1975
+  - PART 1 THE ENGLISH TEXT
+    - CHAPTER I Scope—Definitions
+    - Article 1
+    - Article 2
+    - CHAPTER II DOCUMENTS OF CARRIAGE
+    - SECTION 1 —PASSENGER TICKET
+    - Article 3
+    - SECTION 2 —BAGGAGE CHECK
+    - Article 4
+    - SECTION 3 —DOCUMENTATION RELATING TO CARGO
+    - Article 5
+    - Article 6
+    - Article 7
+    - Article 8
+    - Article 9
+    - Article 10
+    - Article 11
+    - Article 12
+    - Article 13
+    - Article 14
+    - Article 15
+    - Article 16
+    - CHAPTER III LIABILITY OF THE CARRIER
+    - Article 17
+    - Article 18
+    - Article 19
+    - Article 20
+    - Article 21
+    - Article 22
+    - Article 23
+    - Article 24
+    - Article 25
+    - Article 25A
+    - Article 26
+    - Article 27
+    - Article 28
+    - Article 29
+    - Article 30
+    - Article 30A
+    - CHAPTER IV PROVISIONS RELATING TO COMBINED CARRIAGE
+    - Article 31
+    - CHAPTER V GENERAL AND FINAL PROVISIONS
+    - Article 32
+    - Article 33
+    - Article 34
+    - Article 35
+    - Article 36
+    - Article 40A
+  - ADDITIONAL PROTOCOL
+  - PART II CONVENTION
+    - CHAPITRE 1er OBJET-DEFINITIONS
+    - CHAPITRE II TITRE DE TRANSPORT
+    - SECTION I— BILLET DE PASSAGE
+    - SECTION 2— BULLETIN DE BAGAGES
+    - SECTION III.— DOCUMENTATION RELATIVE AUX MARCHANDISES
+    - CHAPITRE III RESPONSABILITE DU TRANSPORTEUR
+    - CHAPITRE IV DISPOSITIONS RELATIVES AUX TRANSPORTS COMINÉS
+    - CHAPITRE V DISPOSITIONS GÉNÉRALES ET FINALES
+    - CHAPITRE 1er OBJET—DEFINITIONS
+    - Article 1er
+    - Article 2
+    - CHAPITRE II TITRE DE TRANSPORT
+    - SECTION I —BILLET DE PASSAGE
+    - Article 3
+    - SECTION II —BULLETIN DE BAGAGES
+    - Article 4
+    - SECTION III. —DOCUMENTATION RELATIVE AUX MARCHANDISES
+    - Article 5
+      - [Sch. 1A Pt. II Ch. Article 5 paragraph 1](schedule/1A/part/II/chapter/Article/5/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 5 paragraph 2](schedule/1A/part/II/chapter/Article/5/paragraph/2.md)
+      - [Sch. 1A Pt. II Ch. Article 5 paragraph 3](schedule/1A/part/II/chapter/Article/5/paragraph/3.md)
+    - Article 6
+      - [Sch. 1A Pt. II Ch. Article 6 paragraph 1](schedule/1A/part/II/chapter/Article/6/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 6 paragraph 2](schedule/1A/part/II/chapter/Article/6/paragraph/2.md)
+      - [Sch. 1A Pt. II Ch. Article 6 paragraph 3](schedule/1A/part/II/chapter/Article/6/paragraph/3.md)
+      - [Sch. 1A Pt. II Ch. Article 6 paragraph 4](schedule/1A/part/II/chapter/Article/6/paragraph/4.md)
+    - Article 7
+    - Article 8
+    - Article 9
+    - Article 10
+      - [Sch. 1A Pt. II Ch. Article 10 paragraph 1](schedule/1A/part/II/chapter/Article/10/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 10 paragraph 2](schedule/1A/part/II/chapter/Article/10/paragraph/2.md)
+      - [Sch. 1A Pt. II Ch. Article 10 paragraph 3](schedule/1A/part/II/chapter/Article/10/paragraph/3.md)
+    - Article 11
+      - [Sch. 1A Pt. II Ch. Article 11 paragraph 1](schedule/1A/part/II/chapter/Article/11/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 11 paragraph 2](schedule/1A/part/II/chapter/Article/11/paragraph/2.md)
+    - Article 12
+      - [Sch. 1A Pt. II Ch. Article 12 paragraph 1](schedule/1A/part/II/chapter/Article/12/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 12 paragraph 2](schedule/1A/part/II/chapter/Article/12/paragraph/2.md)
+      - [Sch. 1A Pt. II Ch. Article 12 paragraph 3](schedule/1A/part/II/chapter/Article/12/paragraph/3.md)
+      - [Sch. 1A Pt. II Ch. Article 12 paragraph 4](schedule/1A/part/II/chapter/Article/12/paragraph/4.md)
+    - Article 13
+      - [Sch. 1A Pt. II Ch. Article 13 paragraph 1](schedule/1A/part/II/chapter/Article/13/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 13 paragraph 2](schedule/1A/part/II/chapter/Article/13/paragraph/2.md)
+      - [Sch. 1A Pt. II Ch. Article 13 paragraph 3](schedule/1A/part/II/chapter/Article/13/paragraph/3.md)
+    - Article 14
+    - Article 15
+      - [Sch. 1A Pt. II Ch. Article 15 paragraph 1](schedule/1A/part/II/chapter/Article/15/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 15 paragraph 2](schedule/1A/part/II/chapter/Article/15/paragraph/2.md)
+    - Article 16
+      - [Sch. 1A Pt. II Ch. Article 16 paragraph 1](schedule/1A/part/II/chapter/Article/16/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 16 paragraph 2](schedule/1A/part/II/chapter/Article/16/paragraph/2.md)
+    - CHAPITRE III RESPONSABILITE DU TRANSPORTEUR
+    - Article 17
+    - Article 18
+      - [Sch. 1A Pt. II Ch. Article 18 paragraph 1](schedule/1A/part/II/chapter/Article/18/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 18 paragraph 2](schedule/1A/part/II/chapter/Article/18/paragraph/2.md)
+      - [Sch. 1A Pt. II Ch. Article 18 paragraph 3](schedule/1A/part/II/chapter/Article/18/paragraph/3.md)
+      - [Sch. 1A Pt. II Ch. Article 18 paragraph 4](schedule/1A/part/II/chapter/Article/18/paragraph/4.md)
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Article 19
+    - Article 20
+    - Article 21
+      - [Sch. 1A Pt. II Ch. Article 21 paragraph 1](schedule/1A/part/II/chapter/Article/21/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 21 paragraph 2](schedule/1A/part/II/chapter/Article/21/paragraph/2.md)
+    - Article 22
+    - Article 23
+    - Article 24
+      - [Sch. 1A Pt. II Ch. Article 24 paragraph 1](schedule/1A/part/II/chapter/Article/24/paragraph/1.md)
+      - [Sch. 1A Pt. II Ch. Article 24 paragraph 2](schedule/1A/part/II/chapter/Article/24/paragraph/2.md)
+    - Article 25
+    - Article 25A
+    - Article 26
+    - Article 27
+    - Article 28
+    - Article 29
+    - Article 30
+    - Article 30A
+    - CHAPITRE IV DISPOSITIONS RELATIVES AUX TRANSPORTS COMBINÉS
+    - Article 31
+    - CHAPITRE V DISPOSITONS GÉNÉRALES ET FINALES
+    - Article 32
+    - Article 33
+    - Article 34
+    - Article 35
+    - Article 36
+    - Article 40A
+  - PROTOCOL ADDITIONNEL (Ad Article 2)
+- SCHEDULE 1B CONVENTION
+  - Chapter I General Provisions
+    - [Sch. 1B Pt. 1 para. 1n1 Article 1—Scope of Application](schedule/1B/part/1/paragraph/1n1.md)
+    - [Sch. 1B Pt. 1 para. 2n1](schedule/1B/part/1/paragraph/2n1.md)
+    - [Sch. 1B Pt. 1 para. 3n1](schedule/1B/part/1/paragraph/3n1.md)
+    - [Sch. 1B Pt. 1 para. 4](schedule/1B/part/1/paragraph/4.md)
+    - [Sch. 1B Pt. 1 para. 1n2 Article 2—Carriage Performed by State and Carriage of Postal Items](schedule/1B/part/1/paragraph/1n2.md)
+    - [Sch. 1B Pt. 1 para. 2n2](schedule/1B/part/1/paragraph/2n2.md)
+    - [Sch. 1B Pt. 1 para. 3n2](schedule/1B/part/1/paragraph/3n2.md)
+    - X
+    - Chapter III Liability of the Carrier and Extent of Compensation for Damage
+      - [Sch. 1B Pt. 1 Ch. III para. 1n3 Article 17—Death and Injury of Passengers—Damage to Baggage](schedule/1B/part/1/chapter/III/paragraph/1n3.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n3](schedule/1B/part/1/chapter/III/paragraph/2n3.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n3](schedule/1B/part/1/chapter/III/paragraph/3n3.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 4n2](schedule/1B/part/1/chapter/III/paragraph/4n2.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n4 Article 18—Damage to Cargo](schedule/1B/part/1/chapter/III/paragraph/1n4.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n4](schedule/1B/part/1/chapter/III/paragraph/2n4.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n4](schedule/1B/part/1/chapter/III/paragraph/3n4.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 4n3](schedule/1B/part/1/chapter/III/paragraph/4n3.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n5 Article 21—Compensation in Case of Death or Injury of Passengers](schedule/1B/part/1/chapter/III/paragraph/1n5.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n5](schedule/1B/part/1/chapter/III/paragraph/2n5.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n6 Article 22—Limits of Liability in Relation to Delay, Baggage and Cargo](schedule/1B/part/1/chapter/III/paragraph/1n6.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n6](schedule/1B/part/1/chapter/III/paragraph/2n6.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n5](schedule/1B/part/1/chapter/III/paragraph/3n5.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 4n4](schedule/1B/part/1/chapter/III/paragraph/4n4.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 5](schedule/1B/part/1/chapter/III/paragraph/5.md)
+      - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n7 Article 23—Conversion of Monetary Units](schedule/1B/part/1/chapter/III/paragraph/1n7.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n7](schedule/1B/part/1/chapter/III/paragraph/2n7.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n6](schedule/1B/part/1/chapter/III/paragraph/3n6.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n8 Article 24—Review of Limits](schedule/1B/part/1/chapter/III/paragraph/1n8.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n8](schedule/1B/part/1/chapter/III/paragraph/2n8.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n7](schedule/1B/part/1/chapter/III/paragraph/3n7.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n9 Article 30—Servants, Agents—Aggregation of Claims](schedule/1B/part/1/chapter/III/paragraph/1n9.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n9](schedule/1B/part/1/chapter/III/paragraph/2n9.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n8](schedule/1B/part/1/chapter/III/paragraph/3n8.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n10 Article 31—Timely Notice of Complaints](schedule/1B/part/1/chapter/III/paragraph/1n10.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n10](schedule/1B/part/1/chapter/III/paragraph/2n10.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n9](schedule/1B/part/1/chapter/III/paragraph/3n9.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 4n5](schedule/1B/part/1/chapter/III/paragraph/4n5.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n11 Article 33—Jurisdiction](schedule/1B/part/1/chapter/III/paragraph/1n11.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n11](schedule/1B/part/1/chapter/III/paragraph/2n11.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n10](schedule/1B/part/1/chapter/III/paragraph/3n10.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 4n6](schedule/1B/part/1/chapter/III/paragraph/4n6.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n12 Article 34—Arbitration](schedule/1B/part/1/chapter/III/paragraph/1n12.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n12](schedule/1B/part/1/chapter/III/paragraph/2n12.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n11](schedule/1B/part/1/chapter/III/paragraph/3n11.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 4n7](schedule/1B/part/1/chapter/III/paragraph/4n7.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n13 Article 35—Limitation of Actions](schedule/1B/part/1/chapter/III/paragraph/1n13.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n13](schedule/1B/part/1/chapter/III/paragraph/2n13.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 1n14 Article 36—Successive Carriage](schedule/1B/part/1/chapter/III/paragraph/1n14.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 2n14](schedule/1B/part/1/chapter/III/paragraph/2n14.md)
+      - [Sch. 1B Pt. 1 Ch. III para. 3n12](schedule/1B/part/1/chapter/III/paragraph/3n12.md)
+    - Chapter IV Combined Carriage
+      - [Sch. 1B Pt. 1 Ch. IV para. 1 Article 38—Combined Carriage](schedule/1B/part/1/chapter/IV/paragraph/1.md)
+      - [Sch. 1B Pt. 1 Ch. IV para. 2](schedule/1B/part/1/chapter/IV/paragraph/2.md)
+    - Chapter V Carriage by Air Performed by a Person other than the Contracting Carrier
+      - [Sch. 1B Pt. 1 Ch. V para. 1 Article 41—Mutual Liability](schedule/1B/part/1/chapter/V/paragraph/1.md)
+      - [Sch. 1B Pt. 1 Ch. V para. 2](schedule/1B/part/1/chapter/V/paragraph/2.md)
+    - Chapter VI Other Provisions
+    - Chapter VII Final Clauses
+      - [Sch. 1B Pt. 1 Ch. VII para. 2n17 Article 53—Signature, Ratification and Entry into Force](schedule/1B/part/1/chapter/VII/paragraph/2n17.md)
+      - [Sch. 1B Pt. 1 Ch. VII para. 1](schedule/1B/part/1/chapter/VII/paragraph/1.md)
+      - [Sch. 1B Pt. 1 Ch. VII para. 2n18](schedule/1B/part/1/chapter/VII/paragraph/2n18.md)
+  - Chapter II DOCUMENTATION AND DUTIES OF THE PARTIES RELATING TO THE CARRIAGE OF PASSENGERS, BAGGAGE AND CARGO
+    - [Sch. 1B Pt. Chapter II paragraph 1n18 Article 3—Passengers and Baggage](schedule/1B/part/Chapter/II/paragraph/1n18.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n19](schedule/1B/part/Chapter/II/paragraph/2n19.md)
+    - [Sch. 1B Pt. Chapter II paragraph 3n13](schedule/1B/part/Chapter/II/paragraph/3n13.md)
+    - [Sch. 1B Pt. Chapter II paragraph 4n8](schedule/1B/part/Chapter/II/paragraph/4n8.md)
+    - [Sch. 1B Pt. Chapter II paragraph 5](schedule/1B/part/Chapter/II/paragraph/5.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n19 Article 4—Cargo](schedule/1B/part/Chapter/II/paragraph/1n19.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n20](schedule/1B/part/Chapter/II/paragraph/2n20.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n20 Article 7—Description of Air Waybill](schedule/1B/part/Chapter/II/paragraph/1n20.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n21](schedule/1B/part/Chapter/II/paragraph/2n21.md)
+    - [Sch. 1B Pt. Chapter II paragraph 3n14](schedule/1B/part/Chapter/II/paragraph/3n14.md)
+    - [Sch. 1B Pt. Chapter II paragraph 4n9](schedule/1B/part/Chapter/II/paragraph/4n9.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n21 Article 10—Responsibility for Particulars of Documentation](schedule/1B/part/Chapter/II/paragraph/1n21.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n22](schedule/1B/part/Chapter/II/paragraph/2n22.md)
+    - [Sch. 1B Pt. Chapter II paragraph 3n15](schedule/1B/part/Chapter/II/paragraph/3n15.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n22 Article 11—Evidentiary Value of Documentation](schedule/1B/part/Chapter/II/paragraph/1n22.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n23](schedule/1B/part/Chapter/II/paragraph/2n23.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n23 Article 12—Right of Disposition of Cargo](schedule/1B/part/Chapter/II/paragraph/1n23.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n24](schedule/1B/part/Chapter/II/paragraph/2n24.md)
+    - [Sch. 1B Pt. Chapter II paragraph 3n16](schedule/1B/part/Chapter/II/paragraph/3n16.md)
+    - [Sch. 1B Pt. Chapter II paragraph 4n10](schedule/1B/part/Chapter/II/paragraph/4n10.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n24 Article 13—Delivery of the Cargo](schedule/1B/part/Chapter/II/paragraph/1n24.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n25](schedule/1B/part/Chapter/II/paragraph/2n25.md)
+    - [Sch. 1B Pt. Chapter II paragraph 3n17](schedule/1B/part/Chapter/II/paragraph/3n17.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n25 Articles 15—Relations of Consignor and Consignee or Mutual Relations of Third Parties](schedule/1B/part/Chapter/II/paragraph/1n25.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n26](schedule/1B/part/Chapter/II/paragraph/2n26.md)
+    - [Sch. 1B Pt. Chapter II paragraph 1n26 Article 16—Formalities of Customs, Police or Other Public Authorities](schedule/1B/part/Chapter/II/paragraph/1n26.md)
+    - [Sch. 1B Pt. Chapter II paragraph 2n27](schedule/1B/part/Chapter/II/paragraph/2n27.md)
+  - Chapter III
+  - Chapter IV
+  - Chapter V
+  - Chapter VI
+  - Chapter VII
+- SECOND SCHEDULE
