@@ -1,0 +1,213 @@
+# Criminal Law Act 1977
+
+1977 c. 45. Enacted 1977-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1977/45
+
+Source: https://www.legislation.gov.uk/ukpga/1977/45/2020-12-31
+
+## Contents
+
+- Part I Conspiracy
+  - [s. 1 The offence of conspiracy.](section/1.md)
+  - [s. 1A Conspiracy to commit offences outside England and Wales.](section/1A.md)
+  - [s. 2 Exemptions from liability for conspiracy.](section/2.md)
+  - [s. 3 Penalties for conspiracy.](section/3.md)
+  - [s. 4 Restrictions on the institution of proceedings for conspiracy.](section/4.md)
+  - [s. 5 Abolitions, savings, transitional provisions, consequential amendment and repeals.](section/5.md)
+- Part II Offences Relating to Entering and Remaining on Property
+  - [s. 6 Violence for securing entry.](section/6.md)
+  - [s. 7 Adverse occupation of residential premises.](section/7.md)
+  - [s. 8 Trespassing with a weapon of offence.](section/8.md)
+  - [s. 9 Trespassing on premises of foreign missions, etc.](section/9.md)
+  - [s. 10 Obstruction of enforcement officers and court officers executing High Court or county court process.](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 Supplementary provisions.](section/12.md)
+  - [s. 12A Protected intending occupiers: supplementary provisions.](section/12A.md)
+  - [s. 13 Abolitions and repeals.](section/13.md)
+- Part III Criminal Procedure, Penalties, etc.
+  - [s. 14 ................................](section/14.md)
+  - Allocation of offences to classes as regards mode of trial
+    - [s. 15 Offences which are to become triable only summarily.](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+  - Penalties
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Penalties on summary conviction for offences triable either way.](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 Penalties (and mode of trial) for offences made triable only summarily.](section/30.md)
+    - [s. 31 Increase of fines for certain summary offences.](section/31.md)
+    - [s. 32 Other provisions as to maximum fines.](section/32.md)
+    - [s. 33 Penalty for offences under section 3 of Explosive Substances Act 1883.](section/33.md)
+  - Young offenders
+    - [s. 34 ................................](section/34.md)
+    - [s. 36 Enforcement of fines imposed on young offenders.](section/36.md)
+    - [s. 37 Supervision orders.](section/37.md)
+  - Cross-border enforcement
+    - [s. 38 ................................](section/38.md)
+    - [s. 38A Execution in different parts of United Kingdom of warrants for imprisonment for non-payment of fine.](section/38A.md)
+    - [s. 38B Further provision for execution of warrants of commitment for non-payment of sum adjudged to be paid by conviction in England and Wales or Northern Ireland.](section/38B.md)
+    - [s. 39 Service of summonses and citation throughout United Kingdom.](section/39.md)
+    - [s. 40 Transfer of fine orders.](section/40.md)
+  - Other provisions
+    - [s. 41 ................................](section/41.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 Power to make rules as to furnishing of information by prosecutor in criminal proceedings.](section/48.md)
+    - [s. 49 ................................](section/49.md)
+- Part IV Miscellaneous Provisions
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 Bomb hoaxes.](section/51.md)
+  - [s. 52 Misuse of Drugs Act 1971: redefinition of cannabis.](section/52.md)
+  - [s. 53 Amendments of Obscene Publications Act 1959 with respect to cinematograph exhibitions.](section/53.md)
+  - [s. 54 Inciting girl under sixteen to have incestuous sexual intercourse.](section/54.md)
+  - [s. 55](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 Proceedings involving persons under 17: increase of certain pecuniary limits.](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 62 ................................](section/62.md)
+- Part V Provisions applying to Scotland
+  - [s. 63 Provisions applying to Scotland.](section/63.md)
+- Part VI Supplementary
+  - [s. 64 Meaning of “indictable offence”, “summary offence” and “offence triable either way” in England and Wales.](section/64.md)
+  - [s. 65 Citation, etc.](section/65.md)
+- SCHEDULE 1 Offences Made Triable Only Summarily, and Related Amendments
+- SCHEDULES 2—4 ...
+- SCHEDULE 5 Alteration of Penalties on Summary Conviction of Certain Offences Triable Either Way
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- Schedule 6 Increase of fines for certain summary offences
+- SCHEDULE 7 Transfer of Fine Orders
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Scotland
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 ...
+- SCHEDULE 9 Matters Ancillary to Section 47
+  - Probation orders
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Courts competent to restore sentence held in suspense
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Recall of offender on re-conviction
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Consecutive sentences of imprisonment
+    - [Sch. 9 para. 3A](schedule/9/paragraph/3A.md)
+  - Miscellaneous (procedural)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Miscellaneous (consequential)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 ...
+- SCHEDULE 11 Amendments of Criminal Procedure (Scotland Act) 1975]
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 Minor and Consequential Amendments
+  - NIGHT POACHING ACT 1828 (C. 69)
+    - [Sch. 12 Pt. 1 para. 1](schedule/12/part/1/paragraph/1.md)
+    - [Sch. 12 Pt. 1 para. 2](schedule/12/part/1/paragraph/2.md)
+  - METROPOLITAN POLICE COURTS ACT 1839 (C. 71)
+  - ACCESSORIES AND ABETTORS ACT 1861 (C. 94)
+  - OFFENCES AGAINST THE PERSON ACT 1861 (C. 100)
+  - PUBLIC STORES ACT 1875 (C. 25)
+  - EXPLOSIVE SUBSTANCES ACT 1883 (C. 3)
+  - CORONERS ACT 1877 (c. 71)
+  - CHILDREN ACT 1948 (c.43)
+  - ................................
+  - ................................
+  - ................................
+  - ................................
+  - BIRTHS AND DEATHS REGISTRATION ACT 1953 (c. 20)
+  - SEXUAL OFFENCES ACT 1956 (C.69)
+    - [Sch. 12 Pt. 14 para. 1](schedule/12/part/14/paragraph/1.md)
+    - [Sch. 12 Pt. 14 para. 2](schedule/12/part/14/paragraph/2.md)
+  - ADOPTION ACT 1958 (7&8 Eliz.2.c.5.)
+  - OBSCENE PUBLICATIONS ACT 1959 (c. 66)
+  - CRIMINAL JUSTICE ACT 1961 (c. 39)
+    - [Sch. 12 Pt. 17 para. 1](schedule/12/part/17/paragraph/1.md)
+    - [Sch. 12 Pt. 17 para. 2](schedule/12/part/17/paragraph/2.md)
+    - [Sch. 12 Pt. 17 para. 3](schedule/12/part/17/paragraph/3.md)
+    - [Sch. 12 Pt. 17 para. 4](schedule/12/part/17/paragraph/4.md)
+    - [Sch. 12 Pt. 17 para. 5](schedule/12/part/17/paragraph/5.md)
+  - LICENSING ACT 1964 (c. 26)
+    - [Sch. 12 Pt. 18 para. 1](schedule/12/part/18/paragraph/1.md)
+    - [Sch. 12 Pt. 18 para. 2](schedule/12/part/18/paragraph/2.md)
+  - HOUSING ACT 1964 (c. 56)
+  - HOUSING (SCOTLAND) ACT 1966 (c. 49)
+  - CRIMINAL LAW ACT 1967 (c. 58)
+  - ................................
+  - CRIMINAL JUSTICE ACT 1967 (C. 80)
+    - [Sch. 12 Pt. 23 para. 1](schedule/12/part/23/paragraph/1.md)
+    - [Sch. 12 Pt. 23 para. 2](schedule/12/part/23/paragraph/2.md)
+    - [Sch. 12 Pt. 23 para. 3](schedule/12/part/23/paragraph/3.md)
+    - [Sch. 12 Pt. 23 para. 4](schedule/12/part/23/paragraph/4.md)
+    - [Sch. 12 Pt. 23 para. 5](schedule/12/part/23/paragraph/5.md)
+    - [Sch. 12 Pt. 23 para. 6](schedule/12/part/23/paragraph/6.md)
+    - [Sch. 12 Pt. 23 para. 7](schedule/12/part/23/paragraph/7.md)
+    - [Sch. 12 Pt. 23 para. 8](schedule/12/part/23/paragraph/8.md)
+    - [Sch. 12 Pt. 23 para. 9](schedule/12/part/23/paragraph/9.md)
+  - COMPANIES ACT 1967 (c. 81)
+    - [Sch. 12 Pt. 24 para. 1](schedule/12/part/24/paragraph/1.md)
+    - [Sch. 12 Pt. 24 para. 2](schedule/12/part/24/paragraph/2.md)
+  - ...
+  - CHILDREN AND YOUNG PERSONS ACT 1969 (c.54)
+    - [Sch. 12 Pt. 28 para. 1](schedule/12/part/28/paragraph/1.md)
+    - [Sch. 12 Pt. 28 para. 2](schedule/12/part/28/paragraph/2.md)
+    - [Sch. 12 Pt. 28 para. 3](schedule/12/part/28/paragraph/3.md)
+    - [Sch. 12 Pt. 28 para. 4](schedule/12/part/28/paragraph/4.md)
+    - [Sch. 12 Pt. 28 para. 5](schedule/12/part/28/paragraph/5.md)
+    - [Sch. 12 Pt. 28 para. 6](schedule/12/part/28/paragraph/6.md)
+  - ................................
+  - FINANCE ACT 1972 (C. 41)
+  - ................................
+  - ADMINISTRATION OF JUSTICE ACT 1973 (c. 15)
+    - [Sch. 12 Pt. 32 para. 1](schedule/12/part/32/paragraph/1.md)
+    - [Sch. 12 Pt. 32 para. 2](schedule/12/part/32/paragraph/2.md)
+  - POWERS OF CRIMINAL COURTS ACT 1973 (c. 62)
+    - [Sch. 12 Pt. 33 para. 1](schedule/12/part/33/paragraph/1.md)
+    - [Sch. 12 Pt. 33 para. 2](schedule/12/part/33/paragraph/2.md)
+    - [Sch. 12 Pt. 33 para. 3](schedule/12/part/33/paragraph/3.md)
+    - [Sch. 12 Pt. 33 para. 4](schedule/12/part/33/paragraph/4.md)
+    - [Sch. 12 Pt. 33 para. 5](schedule/12/part/33/paragraph/5.md)
+    - [Sch. 12 Pt. 33 para. 6](schedule/12/part/33/paragraph/6.md)
+    - [Sch. 12 Pt. 33 para. 7](schedule/12/part/33/paragraph/7.md)
+    - [Sch. 12 Pt. 33 para. 8](schedule/12/part/33/paragraph/8.md)
+    - [Sch. 12 Pt. 33 para. 9](schedule/12/part/33/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - ................................
+  - JURIES ACT 1974 (c. 23)
+  - HEALTH AND SAFETY AT WORK ETC. ACT 1974 (c. 37)
+  - ................................
+  - BAIL ACT 1976 (c. 63)
+    - [Sch. 12 Pt. 39 para. 1](schedule/12/part/39/paragraph/1.md)
+    - [Sch. 12 Pt. 39 para. 2](schedule/12/part/39/paragraph/2.md)
+    - [Sch. 12 Pt. 39 para. 3](schedule/12/part/39/paragraph/3.md)
+    - [Sch. 12 Pt. 39 para. 4](schedule/12/part/39/paragraph/4.md)
+- SCHEDULE 13
+- SCHEDULE 14 Transitional Provisions
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
