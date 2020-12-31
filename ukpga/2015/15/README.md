@@ -2,9 +2,9 @@
 
 2015 c. 15. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-08-25, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-08-25
+Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-12-31
 
 ## Contents
 
@@ -48,7 +48,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-08-25
       - [s. 30 Goods under guarantee](section/30.md)
     - Can a trader contract out of statutory rights and remedies under a goods contract?
       - [s. 31 Liability that cannot be excluded or restricted](section/31.md)
-      - [s. 32 Contracts applying law of non-EEA State](section/32.md)
+      - [s. 32 Contracts applying law of a country other than the UK](section/32.md)
   - CHAPTER 3 Digital content
     - What digital content contracts are covered?
       - [s. 33 Contracts covered by this Chapter](section/33.md)
@@ -107,7 +107,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-08-25
     - [s. 71 Duty of court to consider fairness of term](section/71.md)
     - [s. 72 Application of rules to secondary contracts](section/72.md)
     - [s. 73 Disapplication of rules to mandatory terms and notices](section/73.md)
-    - [s. 74 Contracts applying law of non-EEA State](section/74.md)
+    - [s. 74 Contracts applying law of a country other than the UK](section/74.md)
     - [s. 75 Changes to other legislation](section/75.md)
     - [s. 76 Interpretation of Part 2](section/76.md)
 - PART 3 Miscellaneous and General
@@ -314,7 +314,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-08-25
       - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
     - Domestic enforcers
       - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
-    - EU enforcers
+    - Schedule 13 enforcers
       - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
     - Public designated enforcers
       - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
@@ -346,10 +346,10 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-08-25
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
     - Application to Crown
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
-  - PART 4 Further powers exercisable by domestic enforcers and EU enforcers
+  - PART 4 Further powers exercisable by domestic enforcers and Schedule 13 enforcers
     - Exercise of powers in this Part: domestic enforcers
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
-    - Exercise of powers in this Part: EU enforcers
+    - Exercise of powers in this Part: Schedule 13 enforcers
       - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
     - Power to purchase products
       - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
