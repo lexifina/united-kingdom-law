@@ -1,0 +1,178 @@
+# Air Weapons and Licensing (Scotland) Act 2015
+
+asp/2015/10. Enacted 2015-08-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-01-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2015/10/2021-01-27
+
+## Contents
+
+- PART 1 AIR WEAPONS
+  - Meaning of air weapon
+    - [s. 1 Meaning of “air weapon”](section/1.md)
+  - Air weapon certificates
+    - [s. 2 Requirement for air weapon certificate](section/2.md)
+    - [s. 3 Application for grant or renewal of air weapon certificate](section/3.md)
+    - [s. 4 Verification of applications](section/4.md)
+    - [s. 5 Grant or renewal of air weapon certificate](section/5.md)
+    - [s. 6 Air weapon certificate: conditions](section/6.md)
+    - [s. 7 Special requirements and conditions for young persons](section/7.md)
+    - [s. 8 Duration of air weapon certificate](section/8.md)
+    - [s. 9 Alignment of different types of certificate](section/9.md)
+    - [s. 10 Variation of air weapon certificate](section/10.md)
+    - [s. 11 Revocation of air weapon certificate](section/11.md)
+  - Permits
+    - [s. 12 Police permits](section/12.md)
+    - [s. 13 Visitor permits](section/13.md)
+    - [s. 14 Visitor permits: young persons](section/14.md)
+    - [s. 15 Police and visitor permits: conditions](section/15.md)
+    - [s. 16 Police and visitor permits: variation and revocation](section/16.md)
+    - [s. 17 Event permits](section/17.md)
+  - Air weapon clubs and recreational shooting facilities
+    - [s. 18 Approval of air weapon clubs](section/18.md)
+    - [s. 19 Variation of approval](section/19.md)
+    - [s. 20 Duration of approval](section/20.md)
+    - [s. 21 Alignment of club approvals](section/21.md)
+    - [s. 22 Power to enter and inspect club premises](section/22.md)
+    - [s. 23 Requirements for recreational shooting facilities](section/23.md)
+  - Transactions involving air weapons and commercial matters
+    - [s. 24 Restrictions on transactions involving air weapons](section/24.md)
+    - [s. 25 Requirement for commercial sales of air weapons to be in person](section/25.md)
+  - Enforcement
+    - [s. 26 Power of search with warrant](section/26.md)
+    - [s. 27 Production of air weapon certificate](section/27.md)
+    - [s. 28 Cancellation of air weapon certificate](section/28.md)
+    - [s. 29 Forfeiture and disposal of air weapons](section/29.md)
+  - Offences
+    - [s. 30 Failure to keep air weapons secure or to report loss to police](section/30.md)
+    - [s. 31 False statements, certificates and permits](section/31.md)
+    - [s. 32 Time limit for offences](section/32.md)
+    - [s. 33 Offences by bodies corporate etc.](section/33.md)
+  - General
+    - [s. 34 Appeals](section/34.md)
+    - [s. 35 Fees](section/35.md)
+    - [s. 36 Power to make further provision](section/36.md)
+    - [s. 37 Crown application](section/37.md)
+    - [s. 38 Transitional arrangements for existing certificate holders](section/38.md)
+    - [s. 39 Guidance](section/39.md)
+    - [s. 40 Interpretation of Part 1](section/40.md)
+- PART 2 ALCOHOL LICENSING
+  - Licensing objectives
+    - [s. 41 Licensing objectives: protecting young persons from harm](section/41.md)
+  - Statements of licensing policy
+    - [s. 42 Statements of licensing policy: licensing policy periods](section/42.md)
+  - Fit and proper person test
+    - [s. 43 Premises licence application: ground for refusal](section/43.md)
+    - [s. 44 Application to transfer premises licence: ground for refusal](section/44.md)
+    - [s. 45 Ground for review of premises licence](section/45.md)
+    - [s. 46 Personal licence applications and renewals: ground for refusal](section/46.md)
+    - [s. 47 Personal licence holders: procedure on receipt of notice of conviction](section/47.md)
+    - [s. 48 Personal licence holders: conduct inconsistent with the licensing objectives](section/48.md)
+  - Transfer of premises licences
+    - [s. 49 Transfer of premises licences](section/49.md)
+  - Relevant offences and foreign offences
+    - [s. 50 Premises licences: procedure in relation to relevant offences or foreign offences](section/50.md)
+    - [s. 51 Personal licences: procedure in relation to relevant offences or foreign offences](section/51.md)
+    - [s. 52 Relevant offences and foreign offences: spent convictions](section/52.md)
+  - Supply of alcohol to a child or young person
+    - [s. 53 Offences of supplying alcohol to a child or young person](section/53.md)
+  - Miscellaneous
+    - [s. 54 Meaning of “alcohol”: inclusion of angostura bitters](section/54.md)
+    - [s. 55 Overprovision](section/55.md)
+    - [s. 56 Duties of Licensing Boards to produce annual reports](section/56.md)
+    - [s. 57 Licensing Standards Officers: general function in relation to personal licences](section/57.md)
+    - [s. 58 Powers of Licensing Standards Officers](section/58.md)
+    - [s. 59 Interested parties](section/59.md)
+    - [s. 60 Personal licences: grant, duration and renewal](section/60.md)
+    - [s. 61 Processing and deemed grant of applications](section/61.md)
+    - [s. 62 Form etc. of communications under the 2005 Act](section/62.md)
+- PART 3 CIVIC LICENSING
+  - Taxis and private hire cars
+    - [s. 63 Refusal to grant private hire car licences on grounds of overprovision](section/63.md)
+    - [s. 64 Testing of private hire car drivers](section/64.md)
+    - [s. 65 Exemptions from requirements of sections 10 to 21 of 1982 Act](section/65.md)
+  - Metal dealers
+    - [s. 66 Penalties for failure to have appropriate licence or comply with conditions](section/66.md)
+    - [s. 67 Removal of exemption warrants for certain metal dealers](section/67.md)
+    - [s. 68 Abolition of requirement to retain metal for 48 hours](section/68.md)
+    - [s. 69 Acceptable forms of payment for metal](section/69.md)
+    - [s. 70 Metal dealers and itinerant metal dealers: records](section/70.md)
+    - [s. 71 Register of dealers in metal](section/71.md)
+    - [s. 72 Interpretation of provisions relating to metal dealers etc.](section/72.md)
+    - [s. 73 Exemptions from requirements of sections 28 to 37 of 1982 Act](section/73.md)
+  - Public entertainment venues
+    - [s. 74 Licensing of theatres etc.](section/74.md)
+    - [s. 75 Restriction of exemption from requirement for public entertainment licence](section/75.md)
+  - Sexual entertainment venues
+    - [s. 76 Licensing of sexual entertainment venues](section/76.md)
+  - Miscellaneous and general
+    - [s. 77 Deemed grant of applications](section/77.md)
+    - [s. 78 Revocation of Part 2 licences](section/78.md)
+    - [s. 79 Procedure for hearings](section/79.md)
+    - [s. 80 Conditions for Part 3 licences](section/80.md)
+    - [s. 81 Conditions for Part 3 licences: displays or advertising](section/81.md)
+    - [s. 82 Civic licensing standards officers](section/82.md)
+    - [s. 83 Electronic communications under the 1982 Act](section/83.md)
+- PART 4 GENERAL
+  - [s. 84 Interpretation](section/84.md)
+  - [s. 85 Regulations](section/85.md)
+  - [s. 86 Ancillary provision](section/86.md)
+  - [s. 87 Minor and consequential amendments and repeals](section/87.md)
+  - [s. 88 Commencement](section/88.md)
+  - [s. 89 Short title](section/89.md)
+- SCHEDULE 1 EXEMPTIONS
+  - Approved air weapon clubs
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Registered firearms dealers and their employees
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Auctioneers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Carriers and warehouse keepers
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Artistic performers
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Cadet corps
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Bodies corporate etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Holders of police permits
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Holders of visitor permits
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Authorised events
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Supervised use of air weapons on private land
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Use of air weapons at recreational shooting facilities
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Museums
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Air weapons on ships
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Purchase of air weapons for delivery outwith Scotland
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Loaning of air weapons for exempted purposes
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Public servants carrying out official duties
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Holders of certificates or permits with conditions
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Use or possession of air weapons on service premises
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Use or possession of air weapons on Ministry of Defence Police premises
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - PART 1 AMENDMENTS AND REPEALS RELATING TO PART 1
+    - Firearms Act 1968
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Violent Crime Reduction Act 2006
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 2 AMENDMENTS RELATING TO PART 2
+    - Licensing (Scotland) Act 2005
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 3 AMENDMENTS RELATING TO PART 3
+    - Civic Government (Scotland) Act 1982
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
