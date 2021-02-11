@@ -2,9 +2,9 @@
 
 2018 c. 10. Enacted 2018-05-10.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2018-05-10, are in the history before it: `git log -- ukpga/2018/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-02-11, one file per provision. Earlier versions, from 2018-05-10, are in the history before it: `git log -- ukpga/2018/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/10/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2018/10/2021-02-11
 
 ## Contents
 
@@ -15,6 +15,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/10/2020-12-31
     - [s. 2 Objectives](section/2.md)
     - [s. 3 Functions](section/3.md)
     - [s. 4 Specific requirements as to the pensions guidance function](section/4.md)
+    - [s. 4A Specific functions included in the pensions guidance function](section/4A.md)
     - [s. 5 Delegation of functions to delivery partner organisations](section/5.md)
     - [s. 6 Debt respite scheme: advice to the Secretary of State](section/6.md)
     - [s. 7 Debt respite scheme: regulations](section/7.md)
