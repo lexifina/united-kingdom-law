@@ -1,0 +1,234 @@
+# Community Empowerment (Scotland) Act 2015
+
+asp/2015/6. Enacted 2015-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-02-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2015/6/2021-02-24
+
+## Contents
+
+- PART 1 NATIONAL OUTCOMES
+  - [s. 1 National outcomes](section/1.md)
+  - [s. 2 Review of national outcomes](section/2.md)
+  - [s. 3 Reports](section/3.md)
+- PART 2 COMMUNITY PLANNING
+  - [s. 4 Community planning](section/4.md)
+  - [s. 5 Socio-economic inequalities](section/5.md)
+  - [s. 6 Local outcomes improvement plan](section/6.md)
+  - [s. 7 Local outcomes improvement plan: review](section/7.md)
+  - [s. 8 Local outcomes improvement plan: progress report](section/8.md)
+  - [s. 9 Localities: comparison of outcomes](section/9.md)
+  - [s. 10 Locality plan](section/10.md)
+  - [s. 11 Locality plan: review](section/11.md)
+  - [s. 12 Locality plan: progress report](section/12.md)
+  - [s. 13 Governance](section/13.md)
+  - [s. 14 Community planning partners: duties](section/14.md)
+  - [s. 15 Guidance](section/15.md)
+  - [s. 16 Duty to promote community planning](section/16.md)
+  - [s. 17 Establishment of corporate bodies](section/17.md)
+  - [s. 18 Interpretation of Part 2](section/18.md)
+- PART 3 PARTICIPATION REQUESTS
+  - Key definitions
+    - [s. 19 Meaning of “community-controlled body”](section/19.md)
+    - [s. 20 Meaning of “community participation body”](section/20.md)
+    - [s. 21 Meaning of “public service authority”](section/21.md)
+  - Participation requests
+    - [s. 22 Participation requests](section/22.md)
+    - [s. 23 Regulations](section/23.md)
+  - Decisions about participation requests
+    - [s. 24 Participation requests: decisions](section/24.md)
+    - [s. 25 Decision notice: information about outcome improvement process](section/25.md)
+    - [s. 26 Proposed outcome improvement process](section/26.md)
+    - [s. 27 Power to decline certain participation requests](section/27.md)
+  - Outcome improvement processes
+    - [s. 28 Duty to establish and maintain outcome improvement process](section/28.md)
+    - [s. 29 Modification of outcome improvement process](section/29.md)
+  - Appeals and reviews
+    - [s. 30 Regulations: appeals and reviews](section/30.md)
+  - Reporting
+    - [s. 31 Reporting](section/31.md)
+    - [s. 32 Annual reports](section/32.md)
+    - [s. 33 Ministerial report](section/33.md)
+  - Guidance
+    - [s. 34 Guidance](section/34.md)
+  - Interpretation of Part 3
+    - [s. 35 Interpretation of Part 3](section/35.md)
+- PART 4 COMMUNITY RIGHTS TO BUY LAND
+  - Modifications of Part 2 of Land Reform (Scotland) Act 2003
+    - [s. 36 Nature of land in which community interest may be registered](section/36.md)
+    - [s. 37 Community bodies](section/37.md)
+    - [s. 38 Modification of memorandum, articles, constitution or registered rules](section/38.md)
+    - [s. 39 Register of Community Interests in Land](section/39.md)
+    - [s. 40 Public notice of certain applications](section/40.md)
+    - [s. 41 Criteria for registration of interest in land](section/41.md)
+    - [s. 42 Procedure for late applications](section/42.md)
+    - [s. 43 Evidence and notification of concluded missives or option agreements](section/43.md)
+    - [s. 44 Notification of transfer](section/44.md)
+    - [s. 45 Notice of expiry of registration](section/45.md)
+    - [s. 46 Changes to information relating to registered interests](section/46.md)
+    - [s. 47 Notification under section 50 of 2003 Act](section/47.md)
+    - [s. 48 Approval of members of community to buy land](section/48.md)
+    - [s. 49 Appointment of person to conduct ballot on proposal to buy land](section/49.md)
+    - [s. 50 Consent under section 51 of 2003 Act: prescribed information](section/50.md)
+    - [s. 51 Representations etc. regarding circumstances affecting ballot result](section/51.md)
+    - [s. 52 Ballot not conducted as prescribed](section/52.md)
+    - [s. 53 Period in which ballot results and valuations are to be notified](section/53.md)
+    - [s. 54 Exercise of right to buy: date of entry and payment of price](section/54.md)
+    - [s. 55 Notification of application under section 57 of the 2003 Act](section/55.md)
+    - [s. 56 Valuation: views on representations and time limit](section/56.md)
+    - [s. 57 Expenses of valuation of land](section/57.md)
+    - [s. 58 Creditors in standard security with right to sell land: appeals](section/58.md)
+    - [s. 59 Appeals to Lands Tribunal as respects valuations of land](section/59.md)
+    - [s. 60 Calculation of time periods in Part 2 of 2003 Act](section/60.md)
+    - [s. 61 Duty to provide information about community right to buy](section/61.md)
+  - Modifications of Part 3 of Land Reform (Scotland) Act 2003
+    - [s. 62 Crofting community bodies](section/62.md)
+    - [s. 63 Modification of memorandum, articles, constitution or registered rules](section/63.md)
+    - [s. 64 Application: information about rights and interest in land](section/64.md)
+    - [s. 65 Criteria for consent by Ministers](section/65.md)
+    - [s. 66 Ballot: information and expenses](section/66.md)
+    - [s. 67 Application by more than one crofting community body](section/67.md)
+    - [s. 68 Reference to Land Court of questions on applications](section/68.md)
+    - [s. 69 Valuation: views on representations and time limit](section/69.md)
+    - [s. 70 Compensation](section/70.md)
+    - [s. 71 Land Court: reasons for decision under section 92](section/71.md)
+    - [s. 72 Register of Crofting Community Rights to Buy](section/72.md)
+    - [s. 73 Meaning of creditor in standard security with right to sell](section/73.md)
+  - Abandoned, neglected and detrimental land
+    - [s. 74 Abandoned, neglected and detrimental land](section/74.md)
+  - Mediation
+    - [s. 75 Parts 2, 3 and 3A of Land Reform (Scotland) Act 2003: mediation](section/75.md)
+  - Meaning of “the 2003 Act”
+    - [s. 76 Meaning of “the 2003 Act” in Part 4](section/76.md)
+- PART 5 ASSET TRANSFER REQUESTS
+  - Key definitions
+    - [s. 77 Meaning of “community transfer body”](section/77.md)
+    - [s. 78 Meaning of “relevant authority”](section/78.md)
+  - Requests
+    - [s. 79 Asset transfer requests](section/79.md)
+    - [s. 80 Community transfer bodies that may request transfer of ownership of land](section/80.md)
+    - [s. 81 Asset transfer requests: regulations](section/81.md)
+  - Decisions
+    - [s. 82 Asset transfer requests: decisions](section/82.md)
+    - [s. 83 Agreement to asset transfer request](section/83.md)
+  - Prohibition on disposal of land
+    - [s. 84 Prohibition on disposal of land](section/84.md)
+  - Appeals and reviews
+    - [s. 85 Appeals](section/85.md)
+    - [s. 86 Review by local authority](section/86.md)
+    - [s. 87 Review of decisions by the Scottish Ministers](section/87.md)
+    - [s. 88 Appeals from reviews under section 86](section/88.md)
+    - [s. 89 Decisions by relevant authority specified under section 85(2)(c): reviews](section/89.md)
+    - [s. 90 No concluded contract: appeals](section/90.md)
+    - [s. 91 Effect of offers on appeals and reviews](section/91.md)
+  - Disapplication of certain lease restrictions
+    - [s. 92 Disapplication of restrictions in lease of land to relevant authority](section/92.md)
+  - Power to decline subsequent requests
+    - [s. 93 Power to decline certain asset transfer requests](section/93.md)
+  - Registers of relevant authorities’ land
+    - [s. 94 Duty to publish register of land](section/94.md)
+  - Annual reports
+    - [s. 95 Annual reports](section/95.md)
+  - Guidance
+    - [s. 96 Guidance](section/96.md)
+  - Interpretation of Part 5
+    - [s. 97 Interpretation of Part 5](section/97.md)
+- PART 6 DELEGATION OF FORESTRY COMMISSIONERS’ FUNCTIONS
+  - [s. 98 Meaning of “community body” in Forestry Act 1967](section/98.md)
+- PART 7 FOOTBALL CLUBS
+  - [s. 99 Facilitation of supporter involvement in football clubs](section/99.md)
+  - [s. 100 Supporter involvement in decision-making](section/100.md)
+  - [s. 101 Supporter ownership](section/101.md)
+- PART 8 COMMON GOOD PROPERTY
+  - Registers
+    - [s. 102 Common good registers](section/102.md)
+    - [s. 103 Guidance about common good registers](section/103.md)
+  - Disposal and use
+    - [s. 104 Disposal and use of common good property: consultation](section/104.md)
+    - [s. 105 Disposal etc. of common good property: guidance](section/105.md)
+  - Interpretation of Part 8
+    - [s. 106 Interpretation of Part 8](section/106.md)
+- PART 9 ALLOTMENTS
+  - Key definitions
+    - [s. 107 Meaning of “allotment”](section/107.md)
+    - [s. 108 Meaning of “allotment site”](section/108.md)
+  - Request and offer to lease allotment
+    - [s. 109 Request to lease allotment](section/109.md)
+    - [s. 110 Offer to lease allotment](section/110.md)
+  - Local authority functions
+    - [s. 111 Duty to maintain list](section/111.md)
+    - [s. 112 Duty to provide allotments](section/112.md)
+    - [s. 113 Duty of tenant of allotment site to grant sublease](section/113.md)
+    - [s. 114 Access to allotment and allotment site](section/114.md)
+    - [s. 115 Allotment site regulations](section/115.md)
+    - [s. 116 Allotment site regulations: further provision](section/116.md)
+    - [s. 117 Disposal etc. of allotment sites owned by local authority](section/117.md)
+    - [s. 118 Disposal etc. of allotment sites leased by local authority](section/118.md)
+    - [s. 119 Duty to prepare food-growing strategy](section/119.md)
+    - [s. 120 Duty to review food-growing strategy](section/120.md)
+    - [s. 121 Annual allotments report](section/121.md)
+    - [s. 122 Power to remove unauthorised buildings from allotment sites](section/122.md)
+    - [s. 123 Delegation of management of allotment sites](section/123.md)
+    - [s. 124 Promotion and use of allotments: expenditure](section/124.md)
+    - [s. 125 Use of local authority and other premises for meetings](section/125.md)
+  - Termination of lease
+    - [s. 126 Termination of lease of allotment or allotment site](section/126.md)
+    - [s. 127 Resumption of allotment or allotment site by local authority](section/127.md)
+  - Notice of termination: sublease
+    - [s. 128 Notice of termination: sublease by local authority](section/128.md)
+    - [s. 129 Notice of termination: sublease by allotment association etc.](section/129.md)
+  - Prohibition against assignation or subletting
+    - [s. 130 Prohibition against assignation or subletting](section/130.md)
+  - Tenants’ rights
+    - [s. 131 Sale of surplus produce](section/131.md)
+    - [s. 132 Removal of items from allotment by tenant](section/132.md)
+  - Compensation
+    - [s. 133 Compensation for disturbance](section/133.md)
+    - [s. 134 Compensation for deterioration of allotment](section/134.md)
+    - [s. 135 Compensation for loss of crops](section/135.md)
+    - [s. 136 Set-off of compensation etc.](section/136.md)
+  - Guidance
+    - [s. 137 Guidance](section/137.md)
+  - Interpretation of Part 9
+    - [s. 138 Interpretation of Part 9](section/138.md)
+- PART 10 PARTICIPATION IN PUBLIC DECISION-MAKING
+  - [s. 139 Participation in decisions of certain persons exercising public functions](section/139.md)
+- PART 11 NON-DOMESTIC RATES
+  - [s. 140 Schemes for reduction and remission of non-domestic rates](section/140.md)
+- PART 12 GENERAL
+  - [s. 141 Guidance under Parts 2, 3, 5, 8, 9 and 10: publication](section/141.md)
+  - [s. 142 Subordinate legislation](section/142.md)
+  - [s. 143 Ancillary provision](section/143.md)
+  - [s. 144 Minor and consequential amendments and repeals](section/144.md)
+  - [s. 145 Commencement](section/145.md)
+  - [s. 146 Short title](section/146.md)
+- SCHEDULE 1 COMMUNITY PLANNING PARTNERS
+- SCHEDULE 2 PUBLIC SERVICE AUTHORITIES
+- SCHEDULE 3 RELEVANT AUTHORITIES
+- SCHEDULE 4 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Small Landholders (Scotland) Act 1911
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Compensation (Defence) Act 1939
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Agriculture (Scotland) Act 1948
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Opencast Coal Act 1958
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Local Government (Scotland) Act 1973
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Local Government Act 1992
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Local Government in Scotland Act 2003
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Land Reform (Scotland) Act 2003
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Fire (Scotland) Act 2005
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Schools (Consultation) (Scotland) Act 2010
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Public Services Reform (Scotland) Act 2010
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Police and Fire Reform (Scotland) Act 2012
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 REPEALS
