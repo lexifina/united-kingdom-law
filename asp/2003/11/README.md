@@ -1,0 +1,238 @@
+# Agricultural Holdings (Scotland) Act 2003
+
+asp/2003/11. Enacted 2003-04-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-02-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 98 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/11
+
+Source: https://www.legislation.gov.uk/asp/2003/11/2021-02-28
+
+## Contents
+
+- Part 1 Agricultural tenancies
+  - Chapter 1 Types of tenancy
+    - Tenancies under the 1991 Act
+      - [s. 1 Application of the 1991 Act to agricultural holdings](section/1.md)
+      - [s. 2 Conversion from 1991 Act tenancy to limited duration tenancy](section/2.md)
+      - [s. 2A Conversion from 1991 Act tenancy to modern limited duration tenancy](section/2A.md)
+      - [s. 2B Conversion from limited duration tenancy to modern limited duration tenancy](section/2B.md)
+    - Leases for grazing or mowing
+      - [s. 3 Leases for grazing or mowing](section/3.md)
+    - New types of tenancy
+      - [s. 4 Short limited duration tenancies](section/4.md)
+      - [s. 5 Limited duration tenancies](section/5.md)
+      - [s. 5A Modern limited duration tenancies](section/5A.md)
+      - [s. 5B Modern limited duration tenancies: break clauses](section/5B.md)
+      - [s. 5C Repairing tenancies: creation](section/5C.md)
+      - [s. 5D Repairing tenancies: exemption from rules of good husbandry during repairing period](section/5D.md)
+  - Chapter 2 General provision as to new types of tenancy
+    - New types of tenancy: general provision
+      - [s. 6 Assignation, subletting and termination of short limited duration tenancies](section/6.md)
+      - [s. 7 Assignation and subletting of limited duration tenancies](section/7.md)
+      - [s. 7A Subletting of modern limited duration tenancies](section/7A.md)
+      - [s. 7B Assignation of modern limited duration tenancies](section/7B.md)
+      - [s. 8 Continuation and termination of limited duration tenancies](section/8.md)
+      - [s. 8A Termination of modern limited duration tenancies by agreement](section/8A.md)
+      - [s. 8B Termination of modern limited duration tenancies by landlord](section/8B.md)
+      - [s. 8C Termination of modern limited duration tenancies by tenant](section/8C.md)
+      - [s. 8D Termination of modern limited duration tenancies subject to break clause](section/8D.md)
+      - [s. 8E Continuation and extension of modern limited duration tenancies](section/8E.md)
+      - [s. 9 Review of rent under limited duration tenancies, modern limited duration tenancies and repairing tenancies](section/9.md)
+      - [s. 9A Form and content of rent review notice](section/9A.md)
+      - [s. 9B Determination of rent](section/9B.md)
+      - [s. 9C Review of rent under limited duration tenancies, modern limited duration tenancies and repairing tenancies: surplus residential accommodation](section/9C.md)
+      - [s. 10 Increase in rent: landlord’s improvements](section/10.md)
+      - [s. 10A Landlord improvement notices](section/10A.md)
+      - [s. 10B Objection by tenant](section/10B.md)
+      - [s. 10C Referral to Land Court](section/10C.md)
+      - [s. 10D Notice of dates of improvement](section/10D.md)
+      - [s. 10E Improvement by landlord without notice etc.](section/10E.md)
+      - [s. 10F Emergency improvements](section/10F.md)
+      - [s. 11 Variation of rent by Land Court](section/11.md)
+      - [s. 12 Right of tenant to withhold rent](section/12.md)
+      - [s. 13 Written leases and the revision of certain leases](section/13.md)
+      - [s. 14 Freedom of cropping and disposal of produce](section/14.md)
+      - [s. 15 Permanent pasture](section/15.md)
+      - [s. 16 Fixed equipment etc.](section/16.md)
+      - [s. 16A Modern limited duration tenancies: fixed equipment etc.](section/16A.md)
+      - [s. 17 Resumption of land by landlord](section/17.md)
+      - [s. 18 Irritancy of lease and good husbandry](section/18.md)
+      - [s. 18A Irritancy of lease and good husbandry: modern limited duration tenancies](section/18A.md)
+      - [s. 19 Resumption and irritancy: supplementary](section/19.md)
+    - Succession to short limited duration tenancies and limited duration tenancies
+      - [s. 20 Section 16 of the Succession (Scotland) Act 1964](section/20.md)
+      - [s. 21 Bequest of lease](section/21.md)
+      - [s. 22 Right of landlord to object to acquirer of tenancy](section/22.md)
+      - [s. 23 Effect of termination of tenancy where tenant deceased](section/23.md)
+- Part 2 Tenant’s right to buy land
+  - Registration of interest and the right to buy
+    - [s. 24 The Keeper and the Register](section/24.md)
+    - [s. 25 Registration of tenant’s interest](section/25.md)
+    - [s. 26 Notice of proposal to transfer land](section/26.md)
+    - [s. 27 Transfers not requiring notice](section/27.md)
+    - [s. 28 Right to buy](section/28.md)
+    - [s. 29 Exercise of right to buy](section/29.md)
+    - [s. 30 Meaning of “creditor in a standard security with a right to sell land”](section/30.md)
+    - [s. 31 Effect of extinguishing of right to buy](section/31.md)
+  - Procedure for buying and valuation
+    - [s. 32 Procedure for buying](section/32.md)
+    - [s. 33 Appointment of valuer](section/33.md)
+    - [s. 34 Valuation of the land](section/34.md)
+    - [s. 35 Special provision where buyer is general partner in limited partnership](section/35.md)
+    - [s. 36 Valuation etc.: further provision](section/36.md)
+    - [s. 37 Appeal to Lands Tribunal against valuation](section/37.md)
+    - [s. 38 Referral of certain matters by Lands Tribunal to Land Court](section/38.md)
+- PART 2A Sale where landlord in breach
+  - Application to Land Court for order for sale
+    - [s. 38A Application to Land Court for order for sale](section/38A.md)
+    - [s. 38B Order for sale](section/38B.md)
+    - [s. 38C Effect of order for sale: prohibition of transfer etc.](section/38C.md)
+    - [s. 38D Effect of order for sale: suspension of rights](section/38D.md)
+    - [s. 38E Tenant’s right to buy](section/38E.md)
+  - Procedure for buying and valuation
+    - [s. 38F Procedure for buying](section/38F.md)
+    - [s. 38G Appointment of valuer and valuation of the land](section/38G.md)
+    - [s. 38H Failure of seller to complete transaction](section/38H.md)
+    - [s. 38I Failure of tenant to complete transaction](section/38I.md)
+    - [s. 38J Completion of sale to tenant](section/38J.md)
+    - [s. 38K Effect of extinguishing of right to buy](section/38K.md)
+  - Sale to third party
+    - [s. 38L Sale to third party](section/38L.md)
+    - [s. 38M Procedure for sale to third party](section/38M.md)
+  - Post-sale obligations
+    - [s. 38N Restriction on notice to quit etc. where sale to third party](section/38N.md)
+    - [s. 38O Payment to former landlord where early resale](section/38O.md)
+    - [s. 38P Compensation](section/38P.md)
+- Part 3 Use of agricultural land: diversification
+  - [s. 39 Use of land for non-agricultural purposes](section/39.md)
+  - [s. 40 Notice of and objection to diversification](section/40.md)
+  - [s. 40A Landlord’s objection: application to Land Court](section/40A.md)
+  - [s. 41 Imposition of conditions by Land Court](section/41.md)
+  - [s. 42 Tenant’s right to timber](section/42.md)
+- Part 4 Compensation under agricultural tenancies
+  - Chapter 1 Compensation for improvements
+    - 1991 Act tenancies
+      - [s. 43 Agreements as to compensation for improvements](section/43.md)
+      - [s. 44 Amount of compensation where grant made to tenant](section/44.md)
+    - New types of tenancy
+      - [s. 45 Right to compensation for improvements](section/45.md)
+      - [s. 45A Amnesty under the Land Reform (Scotland) Act 2016](section/45A.md)
+      - [s. 46 Payment of compensation by incoming tenant](section/46.md)
+      - [s. 47 Amount of compensation](section/47.md)
+      - [s. 48 Consent required for compensation in certain cases](section/48.md)
+      - [s. 49 Notice required for certain improvements](section/49.md)
+  - Chapter 2 Compensation for disturbance and diversification etc.
+    - 1991 Act tenancies
+      - [s. 50 Compensation for disturbance and for damage by game](section/50.md)
+      - [s. 51 Compensation arising as a result of diversification etc.](section/51.md)
+    - New types of tenancy
+      - [s. 52 Compensation for disturbance](section/52.md)
+      - [s. 53 Compensation for other particular things](section/53.md)
+  - Chapter 3 Compensation where compulsory acquisition of land
+    - [s. 54 Compensation where compulsory acquisition of land](section/54.md)
+  - Chapter 4 Miscellaneous provision as to compensation
+    - [s. 55 Right to compensation for yielding vacant possession](section/55.md)
+    - [s. 56 No right to penal rent etc.](section/56.md)
+    - [s. 57 Provision as to parts of land and divided land](section/57.md)
+    - [s. 58 Compensation not payable where direction as to permanent pasture](section/58.md)
+    - [s. 59 Extent to which compensation recoverable under agreements](section/59.md)
+    - [s. 59A Compensation under repairing tenancies](section/59A.md)
+- Part 5 Miscellaneous amendments to the 1991 Act
+  - [s. 60 Agreements as to fixed equipment](section/60.md)
+  - [s. 61 Making of records](section/61.md)
+  - [s. 62 Interdict in certain cases](section/62.md)
+  - [s. 63 Variation of rent](section/63.md)
+  - [s. 64 Tenant’s right to withhold rent](section/64.md)
+  - [s. 65 Termination of tenancy](section/65.md)
+  - [s. 66 Assignation and subletting of tenancy](section/66.md)
+  - [s. 67 Notices to quit](section/67.md)
+  - [s. 68 Restoration of agricultural holding following mineral exploitation](section/68.md)
+  - [s. 69 Good husbandry and conservation activities](section/69.md)
+- Part 6 Rights of certain persons where tenant is a partnership
+  - [s. 70 Rights of certain persons where tenant is a partnership](section/70.md)
+  - [s. 71 Meaning of “family”](section/71.md)
+  - [s. 72 Rights of certain persons where tenant is a limited partnership](section/72.md)
+  - [s. 72A Application of section 73](section/72A.md)
+  - [s. 73 Termination of tenancy continued under section 72](section/73.md)
+  - [s. 74 Application of right to buy provisions](section/74.md)
+  - [s. 74A Application of Part 3A of the 1991 Act](section/74A.md)
+- Part 7 Jurisdiction of the Land Court and the resolution of disputes
+  - 1991 Act tenancies
+    - [s. 75 Jurisdiction of the Land Court](section/75.md)
+    - [s. 76 Arbitrations etc.](section/76.md)
+  - Short limited duration tenancies and limited duration tenancies etc.
+    - [s. 77 Resolution of disputes by Land Court](section/77.md)
+    - [s. 78 Agreement to refer matters to arbitration](section/78.md)
+    - [s. 79 Arbitration: procedure etc.](section/79.md)
+    - [s. 80 Other provisions as to the resolution of disputes](section/80.md)
+    - [s. 81 Clauses in leases as to resolution of disputes](section/81.md)
+  - Jurisdiction of the Land Court: further provision
+    - [s. 82 Amendment of the Scottish Land Court Act 1993](section/82.md)
+    - [s. 83 Power to amend Land Court’s jurisdiction](section/83.md)
+    - [s. 84 Power of Land Court to grant remedies etc.](section/84.md)
+    - [s. 85 Remit from Land Court to sheriff or Court of Session](section/85.md)
+    - [s. 86 Remit to Land Court by sheriff or Court of Session](section/86.md)
+    - [s. 87 Transmission of case where contingency](section/87.md)
+    - [s. 88 Appeal from Land Court to Court of Session](section/88.md)
+    - [s. 89 Expenses in sheriff court and Court of Session](section/89.md)
+    - [s. 90 Conduct of arbiter and setting aside of arbiter’s award](section/90.md)
+- Part 8 General provisions
+  - [s. 91 Orders and regulations](section/91.md)
+  - [s. 92 Ancillary provision](section/92.md)
+  - [s. 93 Interpretation](section/93.md)
+  - [s. 94 Amendments to enactments](section/94.md)
+  - [s. 95 Short title, Crown application and commencement](section/95.md)
+- SCHEDULE Amendments to enactments
+  - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - [Sch. paragraph 7](schedule/paragraph/7.md)
+  - [Sch. paragraph 8 Agriculture Act 1986 (c. 49)](schedule/paragraph/8.md)
+  - [Sch. paragraph 9](schedule/paragraph/9.md)
+  - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - [Sch. paragraph 11 The 1991 Act](schedule/paragraph/11.md)
+  - [Sch. paragraph 12](schedule/paragraph/12.md)
+  - [Sch. paragraph 13](schedule/paragraph/13.md)
+  - [Sch. paragraph 14](schedule/paragraph/14.md)
+  - [Sch. paragraph 15](schedule/paragraph/15.md)
+  - [Sch. paragraph 16](schedule/paragraph/16.md)
+  - [Sch. paragraph 17](schedule/paragraph/17.md)
+  - [Sch. paragraph 18](schedule/paragraph/18.md)
+  - [Sch. paragraph 19](schedule/paragraph/19.md)
+  - [Sch. paragraph 20](schedule/paragraph/20.md)
+  - [Sch. paragraph 21](schedule/paragraph/21.md)
+  - [Sch. paragraph 22](schedule/paragraph/22.md)
+  - [Sch. paragraph 23](schedule/paragraph/23.md)
+  - [Sch. paragraph 24](schedule/paragraph/24.md)
+  - [Sch. paragraph 25](schedule/paragraph/25.md)
+  - [Sch. paragraph 26](schedule/paragraph/26.md)
+  - [Sch. paragraph 27](schedule/paragraph/27.md)
+  - [Sch. paragraph 28](schedule/paragraph/28.md)
+  - [Sch. paragraph 29](schedule/paragraph/29.md)
+  - [Sch. paragraph 30](schedule/paragraph/30.md)
+  - [Sch. paragraph 31](schedule/paragraph/31.md)
+  - [Sch. paragraph 32](schedule/paragraph/32.md)
+  - [Sch. paragraph 33](schedule/paragraph/33.md)
+  - [Sch. paragraph 34](schedule/paragraph/34.md)
+  - [Sch. paragraph 35](schedule/paragraph/35.md)
+  - [Sch. paragraph 36](schedule/paragraph/36.md)
+  - [Sch. paragraph 37](schedule/paragraph/37.md)
+  - [Sch. paragraph 38](schedule/paragraph/38.md)
+  - [Sch. paragraph 39](schedule/paragraph/39.md)
+  - [Sch. paragraph 40](schedule/paragraph/40.md)
+  - [Sch. paragraph 41](schedule/paragraph/41.md)
+  - [Sch. paragraph 42](schedule/paragraph/42.md)
+  - [Sch. paragraph 43](schedule/paragraph/43.md)
+  - [Sch. paragraph 44](schedule/paragraph/44.md)
+  - [Sch. paragraph 45](schedule/paragraph/45.md)
+  - [Sch. paragraph 46](schedule/paragraph/46.md)
+  - [Sch. paragraph 47](schedule/paragraph/47.md)
+  - [Sch. paragraph 48](schedule/paragraph/48.md)
+  - [Sch. paragraph 49](schedule/paragraph/49.md)
+  - [Sch. paragraph 50](schedule/paragraph/50.md)
+  - [Sch. paragraph 51](schedule/paragraph/51.md)
+  - [Sch. paragraph 52](schedule/paragraph/52.md)
