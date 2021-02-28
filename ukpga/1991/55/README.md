@@ -1,0 +1,508 @@
+# Agricultural Holdings (Scotland) Act 1991
+
+1991 c. 55. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-02-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 68 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
+
+Source: https://www.legislation.gov.uk/ukpga/1991/55/2021-02-28
+
+## Contents
+
+- Part I Agricultural Holdings
+  - [s. 1 Meaning of “agricultural holding” and “agricultural land”.](section/1.md)
+  - [s. 2 Leases for less than year to year.](section/2.md)
+  - [s. 3 Leases to be continued by tacit relocation.](section/3.md)
+- Part II Terms of Leases and Variations Thereof
+  - [s. 4 Written leases and the revision of certain leases.](section/4.md)
+  - [s. 5 Fixed equipment and insurance premiums.](section/5.md)
+  - [s. 6 Sums recovered under fire insurance policy.](section/6.md)
+  - [s. 7 Freedom of cropping and disposal of produce.](section/7.md)
+  - [s. 8 Record of condition, etc., of holding.](section/8.md)
+  - [s. 9 Arbitration as to permanent pasture.](section/9.md)
+  - [s. 10 Power of landlord to enter on holding.](section/10.md)
+  - [s. 10A Assignation of tenancy](section/10A.md)
+  - [s. 11 Bequest of lease.](section/11.md)
+  - [s. 12 Transfer of lease on intestacy](section/12.md)
+  - [s. 12A Landlord’s objection to legatee or acquirer on intestacy: near relative](section/12A.md)
+  - [s. 12B Landlord’s objection to legatee or acquirer on intestacy: other persons](section/12B.md)
+  - [s. 12C Landlord’s objection to legatee or acquirer on intestacy: supplementary provision](section/12C.md)
+  - Rent review
+    - [s. 13 Rent review](section/13.md)
+    - [s. 14 Determination by the Land Court under sections 4 and 5](section/14.md)
+    - [s. 14A Landlord improvement notices](section/14A.md)
+    - [s. 14B Objection by tenant](section/14B.md)
+    - [s. 14C Referral to Land Court](section/14C.md)
+    - [s. 14D Notice of dates of improvement](section/14D.md)
+    - [s. 14E Improvement by landlord without notice etc.](section/14E.md)
+    - [s. 14F Emergency improvements](section/14F.md)
+    - [s. 15 Increase of rent for certain improvements by landlord.](section/15.md)
+  - Tenant’s right to withhold rent
+    - [s. 15A Tenant’s right to withhold rent](section/15A.md)
+  - Termination of tenancy
+    - [s. 16 Leases not terminated by variation of terms, etc..](section/16.md)
+    - [s. 16A Leases not terminated on grounds of non-residence](section/16A.md)
+    - [s. 17 Prohibition of removal of manure, etc., after notice to quit,etc..](section/17.md)
+    - [s. 18 Tenant’s right to remove fixtures and buildings.](section/18.md)
+    - [s. 19 Payment for implements, etc., sold on quitting holding.](section/19.md)
+    - [s. 20 Removal of tenant for non-payment of rent.](section/20.md)
+- Part III Notice to Quit and Notice of Intention to Quit
+  - [s. 21 Notice to quit and notice of intention to quit.](section/21.md)
+  - [s. 22 Restrictions on operation of notices to quit.](section/22.md)
+  - [s. 23 Consent by Land Court or arbitration on notices to quit.](section/23.md)
+  - [s. 24 Consents for purposes of section 22.](section/24.md)
+  - [s. 25 Termination of tenancies acquired by succession.](section/25.md)
+  - [s. 26 Certificates of bad husbandry.](section/26.md)
+  - [s. 27 Penalty for breach of condition.](section/27.md)
+  - [s. 28 Effect on notice to quit of sale of holding.](section/28.md)
+  - [s. 29 Notice to quit part of holding to be valid in certain cases.](section/29.md)
+  - [s. 29A Holding to be restored in certain circumstances](section/29A.md)
+  - [s. 30 Tenant’s right to treat notice to quit part as notice to quit entire holding.](section/30.md)
+  - [s. 31 Reduction of rent where tenant dispossessed of part of holding.](section/31.md)
+  - [s. 32 Further restrictions on operation of certain notices to quit.](section/32.md)
+- PART 3A Relinquishing and assignation of holdings
+  - CHAPTER 1 Tenant’s offer to relinquish holding
+    - Application of Part and key terms
+      - [s. 32A Application of Part](section/32A.md)
+      - [s. 32B New entrants to farming and persons progressing in farming](section/32B.md)
+      - [s. 32C Tenant’s offer to relinquish tenancy](section/32C.md)
+      - [s. 32D Form and content of notice of intention to relinquish](section/32D.md)
+      - [s. 32E Restrictions on serving notice of intention to relinquish](section/32E.md)
+      - [s. 32F Restriction on notice to quit etc. where notice of intention to relinquish served](section/32F.md)
+    - Appointment of valuer
+      - [s. 32G Appointment of valuer by Tenant Farming Commissioner](section/32G.md)
+      - [s. 32H Objection to valuer appointed by Tenant Farming Commissioner](section/32H.md)
+      - [s. 32I Valuer’s expenses](section/32I.md)
+    - Valuer’s assessment
+      - [s. 32J Assessment of value of land etc.](section/32J.md)
+      - [s. 32K Valuation: further provision](section/32K.md)
+    - Calculation of compensation
+      - [s. 32L Compensation payable by landlord to tenant](section/32L.md)
+    - Notice of assessment
+      - [s. 32M Notice of assessment](section/32M.md)
+    - Appeal against valuer’s assessment
+      - [s. 32N Appeal to Lands Tribunal against valuer’s assessment](section/32N.md)
+      - [s. 32O Referral of certain matters by Lands Tribunal to Land Court](section/32O.md)
+    - Withdrawal of notice of intention to relinquish
+      - [s. 32P Withdrawal of notice of intention to relinquish](section/32P.md)
+    - Landlord’s response to tenant’s offer to quit tenancy
+      - [s. 32Q Landlord’s acceptance of notice of intention to relinquish](section/32Q.md)
+      - [s. 32R Notice of declinature](section/32R.md)
+      - [s. 32S Withdrawal of notice of acceptance](section/32S.md)
+    - Payment of compensation ends tenancy
+      - [s. 32T Consequences of landlord paying compensation to tenant](section/32T.md)
+  - CHAPTER 2 Assignation where landlord does not accept tenant’s offer
+    - [s. 32U Assignation where landlord does not accept notice of intention to relinquish](section/32U.md)
+    - [s. 32V Application of section 10A to assignation under this Part](section/32V.md)
+  - CHAPTER 3 Interpretation
+    - [s. 32W Interpretation of Part](section/32W.md)
+- Part IV Compensation for Improvements
+  - [s. 33 Improvements.](section/33.md)
+  - [s. 33A Agreements as to compensation for improvements](section/33A.md)
+  - [s. 34 Right to compensation for improvements.](section/34.md)
+  - [s. 34A Amnesty under the Land Reform (Scotland) Act 2016](section/34A.md)
+  - [s. 35 Payment of compensation by incoming tenant.](section/35.md)
+  - [s. 36 Amount of compensation under this Part.](section/36.md)
+  - [s. 37 Consents necessary for compensation for some improvements.](section/37.md)
+  - [s. 38 Notice required of certain improvements.](section/38.md)
+  - [s. 39 Compensation for Sch. 5, Pt. II, improvements conditional on approval of Land Court in certain cases.](section/39.md)
+- Part V Other Provisions Regarding Compensation
+  - Market gardens
+    - [s. 40 Market gardens.](section/40.md)
+    - [s. 41 Direction by Land Court that holding be treated as market garden.](section/41.md)
+    - [s. 42 Agreements as to compensation relating to market gardens.](section/42.md)
+  - Miscellaneous
+    - [s. 43 Compensation for disturbance.](section/43.md)
+    - [s. 44 Compensation for continuous adoption of special standard of farming.](section/44.md)
+    - [s. 45 Compensation to landlord for deterioration etc. of holding.](section/45.md)
+    - [s. 45A Compensation arising as a result of diversification and cropping of trees](section/45A.md)
+    - [s. 46 Compensation for failure to repair or maintain fixed equipment.](section/46.md)
+    - [s. 47 Provisions supplementary to ss. 45 and 46.](section/47.md)
+    - [s. 48 Landlord not to have right to penal rent or liquidated damages.](section/48.md)
+    - [s. 49 Compensation provisions to apply to parts of holdings in certain cases.](section/49.md)
+    - [s. 50 Determination of claims for compensation where holding is divided.](section/50.md)
+    - [s. 51 Compensation not to be payable for things done in compliance with this Act.](section/51.md)
+    - [s. 52 Compensation for damage by game.](section/52.md)
+    - [s. 53 Extent to which compensation recoverable under agreements.](section/53.md)
+- Part VI Additional Payments
+  - [s. 54 Additional payments to tenants quitting holdings.](section/54.md)
+  - [s. 55 Provisions supplementary to s. 54.](section/55.md)
+  - [s. 56 Additional payments in consequence of compulsory acquisition etc. of agricultural holdings.](section/56.md)
+  - [s. 57 Provisions supplementary to s. 56.](section/57.md)
+  - [s. 58 Effect of early resumption clauses on compensation.](section/58.md)
+  - [s. 59 Interpretation etc. of Part VI.](section/59.md)
+- Part VII Arbitration and Other Proceedings
+  - [s. 60 Resolution of disputes by Land Court](section/60.md)
+  - [s. 61 Agreement to refer matters to arbitration](section/61.md)
+  - [s. 61A Arbitration: procedure etc.](section/61A.md)
+  - [s. 61B Clauses in leases as to resolution of disputes](section/61B.md)
+  - [s. 62 Claims on termination of tenancy.](section/62.md)
+  - [s. 63 Panel of arbiters, and remuneration of arbiter.](section/63.md)
+  - [s. 64 Appointment of arbiter in cases where Secretary of State is a party.](section/64.md)
+  - [s. 65 Recovery of compensation and other sums due.](section/65.md)
+  - [s. 66 Power to enable demand to remedy a breach to be modified on arbitration.](section/66.md)
+  - [s. 67 Prohibition of appeal to sheriff principal.](section/67.md)
+  - Sheep stock valuation
+    - [s. 68 Sheep stock valuation.](section/68.md)
+    - [s. 69 Submission of questions of law for decision of sheriff.](section/69.md)
+    - [s. 70 Determination by Land Court of questions as to value of sheep stock.](section/70.md)
+    - [s. 71 Statement of sales of stock.](section/71.md)
+    - [s. 72 Interpretation of sections 68 to 71.](section/72.md)
+- Part VIII Miscellaneous
+  - [s. 73 Power of Secretary of State to vary Schedules 5 and 6.](section/73.md)
+  - [s. 74 Power of limited owners to give consents, etc..](section/74.md)
+  - [s. 75 Power of tenant and landlord to obtain charge on holding.](section/75.md)
+  - [s. 76 Power of land improvement companies to advance money.](section/76.md)
+  - [s. 77 Appointment of guardian to landlord or tenant.](section/77.md)
+  - [s. 78 Validity of consents, etc..](section/78.md)
+- Part IX Supplementary
+  - Crown and Secretary of State
+    - [s. 79 Application to Crown land.](section/79.md)
+    - [s. 80 Determination of matters where Secretary of State is landlord or tenant.](section/80.md)
+    - [s. 81 Expenses and receipts.](section/81.md)
+    - [s. 82 Powers of entry and inspection.](section/82.md)
+  - Land Court
+    - [s. 83 Proceedings of the Land Court.](section/83.md)
+  - Service of notices
+    - [s. 84 Service of notices, etc..](section/84.md)
+  - Interpretation
+    - [s. 85 Interpretation.](section/85.md)
+    - [s. 86 Construction of references in other Acts to holdings as defined by earlier Acts.](section/86.md)
+    - [s. 87 Savings.](section/87.md)
+  - Consequential amendments and repeals
+    - [s. 88 Consequential amendments and repeals.](section/88.md)
+  - Citation, commencement and extent
+    - [s. 89 Citation, commencement and extent.](section/89.md)
+- SCHEDULE 1 Provisions Required in Leases
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 1A Rent Review
+  - Rent review: service of rent review notice
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Form and content of rent review notice
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Timing of rent review notice
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Withdrawal of rent review notice
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Termination of rent review notice
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Referral of rent to the Land Court
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Powers of Land Court on referral under paragraph 6
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - New rent to take effect from rent agreement date
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Productive capacity
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - Surplus residential accommodation
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Open market rent
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+  - Power of Land Court to phase in new rent
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Interpretation
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+- SCHEDULE 2 Grounds for Consent to Operation of Notices to Quit a Tenancy Where Section 25(3) Applies
+  - Part I Grounds For Consent to Operation of Notice to Quit a Tenancy Let Before 1 January 1984
+    - Case 1
+    - Case 2
+    - Case 3
+  - Part II Grounds for Consent to Operation of Notice to Quit a Tenancy Let on or After 1 January 1984
+    - Case 4
+    - Case 5
+    - Case 6
+    - Case 7
+  - Part III Supplementary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 1923 Act Improvements For Which Compensation May Be Payable
+  - Part I Improvements For Which Consents Required
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Part II Improvements For Which Notice Required
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Part III Improvements For Which No Consents Or Notice Required
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 1931 Act Improvements For Which Compensation May Be Payable
+  - Part I Improvements For Which Consent Required
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part II Improvements Of Which Notice Required
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Part III Improvements For Which No Consent Or Notice Required
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+- SCHEDULE 5 New Improvements For Which Compensation May Be Payable
+  - Part I Improvements For Which Consent Is Required
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Part II Improvements For Which Notice Is Required
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 23A](schedule/5/paragraph/23A.md)
+    - [Sch. 5 para. 23B](schedule/5/paragraph/23B.md)
+    - [Sch. 5 para. 23C](schedule/5/paragraph/23C.md)
+  - Part III Improvements For Which No Consent Or Notice Required
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 29A](schedule/5/paragraph/29A.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+- SCHEDULE 6 Market Garden Improvements
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Arbitrations
+  - Appointment of Arbiters
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Particulars of Claim
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Evidence
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Award
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Expenses
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Statement of Case
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Removal of Arbiter and Setting Aside of Award
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Forms
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+- SCHEDULE 8 Supplementary Provisions with Respect to Payments Under Section 56
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 9 Valuation of Sheep Stock in Scotland in Respect of Old Leases
+  - Part I Valuation Made in Respect of a Tenancy Terminating at Whitsunday
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Part II Valuation Made in Respect of a Tenancy Terminating at Martinmas
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Part III
+  - Particulars to be Shown in an Arbiter’s Award
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Part IV Interpretation
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+- SCHEDULE 10 Valuation of Sheep Stock in Scotland in Respect of Leases Entered into after 1st December 1986
+  - Part I Valuation Made in Respect of a Tenancy Terminating at Whitsunday
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Part II Valuation Made in Respect of a Tenancy Terminating at Martinmas
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Part III
+  - Particulars to be Shown in an Arbiter’s Award
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Part IV Interpretation
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+- SCHEDULE 11 Consequential Amendments of Enactments
+  - Hill Farming Act 1946 (c. 73)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Crofters (Scotland) Act 1955 (c. 21)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Agriculture (Safety, Health and Welfare Provisions) Act 1956 (c.49)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Coal Mining (Subsidence) Act 1957 (c.59)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Opencast Coal Act 1958 (c.69)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - Horticulture Act 1960 (c. 22)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Crofters (Scotland) Act 1961 (c. 58)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - Succession (Scotland) Act 1964 (c. 41)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - Agriculture Act 1967 (c. 22)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+    - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+    - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+  - Conveyancing and Feudal Reform (Scotland) Act 1970 (c. 35)
+    - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+  - Land Compensation (Scotland) Act 1973 (c. 56)
+    - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+    - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+    - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+    - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+    - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+  - Land Tenure Reform (Scotland) Act 1974 (c. 38)
+    - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+  - Control of Pollution Act 1974 (c. 40)
+    - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+  - Matrimonial Homes (Family Protection)(Scotland) Act 1981 (c.59)
+    - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+  - Rent (Scotland) Act 1984 (c. 58)
+    - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73)
+    - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+  - Agriculture Act 1986 (c.49)
+    - [Sch. 11 para. 43](schedule/11/paragraph/43.md)
+    - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+    - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+    - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+    - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+    - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+    - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+    - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+    - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+    - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+    - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+  - Housing (Scotland) Act 1987 (c. 26)
+    - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+    - [Sch. 11 para. 55](schedule/11/paragraph/55.md)
+    - [Sch. 11 para. 56](schedule/11/paragraph/56.md)
+  - Housing (Scotland) Act 1988 (c. 43)
+    - [Sch. 11 para. 57](schedule/11/paragraph/57.md)
+- SCHEDULE 12 TRANSITIONALS AND SAVINGS
+  - Continuation of savings
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Construction of references to old and new law
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Savings for specific enactments
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Compensation
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Repeals and Revocations
+  - Part I Repeals
+  - Part II
+    - Table of Derivations
