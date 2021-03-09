@@ -2,11 +2,9 @@
 
 2021 c. 26. Enacted 2021-06-10.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2021-03-09, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2021/26
-
-Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2021/26/2021-03-09
 
 ## Contents
 
@@ -30,7 +28,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
     - [s. 13 Disposal of assets where SR allowance made](section/13.md)
     - [s. 14 Counteraction where arrangements are contrived etc](section/14.md)
   - Capital allowances: other measures
-    - [s. 15](section/15.md)
+    - [s. 15 Extension of temporary increase in annual investment allowance](section/15.md)
     - [s. 16 Meaning of “general decommissioning expenditure”](section/16.md)
     - [s. 17 Extensions of plant or machinery leases for reasons related to coronavirus](section/17.md)
   - Reliefs for business
@@ -76,9 +74,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
   - Interpretation of main terms etc
     - [s. 47 Chargeable plastic packaging components](section/47.md)
     - [s. 48 Meaning of “plastic packaging component”](section/48.md)
-    - [s. 49 Meaning of “plastic”, “recycled plastic” and “attributed recycled plastic”](section/49.md)
-    - [s. 49A Meaning of “chemical recycling certification scheme”](section/49A.md)
-    - [s. 49B Chemical recycling certification schemes: further conditions](section/49B.md)
+    - [s. 49 Meaning of “plastic” and “recycled plastic”](section/49.md)
     - [s. 50 Time of importation](section/50.md)
   - Deferrals, exemptions and credits
     - [s. 51 Plastic packaging components intended for export](section/51.md)
@@ -124,7 +120,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
     - [s. 85 Commencement etc](section/85.md)
 - PART 3 Other taxes
   - Inheritance tax
-    - [s. 86 Rate bands etc for tax years 2021-22 to 2030-31](section/86.md)
+    - [s. 86 Rate bands etc for tax years 2021-22 to 2025-26](section/86.md)
   - Stamp duty land tax
     - [s. 87 Temporary period for reduced rates on residential property](section/87.md)
     - [s. 88 Increased rates for non-resident transactions](section/88.md)
@@ -162,8 +158,8 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
     - [s. 111 Rates of landfill tax](section/111.md)
     - [s. 112 Repeal of carbon emissions tax](section/112.md)
 - PART 4 Miscellaneous and final
-  - Freeports and investment zones
-    - [s. 113 Designation of special tax sites](section/113.md)
+  - Freeports
+    - [s. 113 Designation of freeport tax sites](section/113.md)
     - [s. 114 Capital allowances for freeport tax sites](section/114.md)
     - [s. 115 Relief from stamp duty land tax for freeport tax sites](section/115.md)
   - Penalties
@@ -741,8 +737,6 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
       - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
     - Award of penalty points
       - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
-    - Cancellation of individual penalty points
-      - [Sch. 24 para. 6A](schedule/24/paragraph/6A.md)
     - Expiry of individual penalty points
       - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
     - Expiry of all penalty points for a group of returns
@@ -759,8 +753,6 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
       - [Sch. 24 para. 15](schedule/24/paragraph/15.md)
     - Assessments
       - [Sch. 24 para. 16](schedule/24/paragraph/16.md)
-    - Withdrawal of assessments
-      - [Sch. 24 para. 16A](schedule/24/paragraph/16A.md)
     - Time limit for assessments
       - [Sch. 24 para. 17](schedule/24/paragraph/17.md)
     - Power to amend figures by regulations
@@ -859,7 +851,6 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
     - Assessments
       - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
       - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
-      - [Sch. 26 para. 17A](schedule/26/paragraph/17A.md)
     - Time limit for assessments
       - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
     - Appeals
