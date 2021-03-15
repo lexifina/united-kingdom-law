@@ -2,9 +2,9 @@
 
 2020 c. 13. Enacted 2020-07-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-07-22, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2021-03-15, one file per provision. Earlier versions, from 2020-07-22, are in the history before it: `git log -- ukpga/2020/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/13/2020-07-22
+Source: https://www.legislation.gov.uk/ukpga/2020/13/2021-03-15
 
 ## Contents
 
