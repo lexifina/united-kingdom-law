@@ -2,9 +2,9 @@
 
 2021 c. 7. Enacted 2021-03-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2021-03-15, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/7/2023-07-01
+Source: https://www.legislation.gov.uk/ukpga/2021/7/2021-03-15
 
 ## Contents
 
