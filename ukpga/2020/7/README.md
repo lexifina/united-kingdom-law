@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-01-18, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-03-22, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-01-18
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-03-22
 
 ## Contents
 
@@ -409,32 +409,22 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-01-18
       - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
     - Guidance
       - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
-  - PART 2 Powers and duties of local authorities in Wales
-    - Introductory
       - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
-    - Assessing needs for care and support
       - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
       - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
       - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
       - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
       - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
-    - Duty to carry out financial assessment
       - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
-    - Duties to meet needs for care and support
       - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
       - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
       - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
       - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
-    - Charging for meeting needs during emergency period
       - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
-    - Care and support plans etc
       - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
-    - Portability of care and support
       - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
       - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
-    - Duties arising before commencement
       - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
-    - Guidance
       - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
 - SCHEDULE 13 Registration of deaths and still-births
   - PART 1 England and Wales
