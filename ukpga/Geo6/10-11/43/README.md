@@ -1,0 +1,112 @@
+# Local Government (Scotland) Act 1947
+
+1947 c. 43. Enacted 1947-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/10-11/43/2021-04-01
+
+## Contents
+
+- Parts I—VIII
+  - [s. 1 ................................](section/1.md)
+- Part IX Accounts, Funds and Expenses of Local Authorities
+  - [s. 174 ................................](section/174.md)
+  - County Fund and Expenses of County Council
+    - [s. 176 ................................](section/176.md)
+    - [s. 179 Payments by county council in respect of salaries of procurators fiscal, etc.](section/179.md)
+    - [s. 180 ................................](section/180.md)
+    - [s. 187 ................................](section/187.md)
+    - [s. 188 ................................](section/188.md)
+  - General
+    - [s. 193 Apportionment of general expenses.](section/193.md)
+    - [s. 194 ................................](section/194.md)
+    - [s. 195 Savings.](section/195.md)
+- Part X
+  - [s. 196 ................................](section/196.md)
+- Part XI Levy And Collection of Rates by Rating Authorities and Requisitions for Payment by other Local Authorities
+  - [s. 209 ................................](section/209.md)
+  - [s. 216 Requisitions by joint committees and joint boards.](section/216.md)
+  - [s. 217 ................................](section/217.md)
+  - [s. 221 ................................](section/221.md)
+  - [s. 222 ................................](section/222.md)
+  - [s. 223 ................................](section/223.md)
+  - [s. 224 ................................](section/224.md)
+  - [s. 228 ................................](section/228.md)
+  - [s. 230 ................................](section/230.md)
+  - Payment of Rates
+    - [s. 231 ................................](section/231.md)
+    - [s. 232 ................................](section/232.md)
+  - Assessment Roll
+    - [s. 233 Assessment Roll.](section/233.md)
+    - [s. 234 ................................](section/234.md)
+    - [s. 235 Rating authority may require owner to furnish statement of lets.](section/235.md)
+    - [s. 236 Fractions of a penny of rates.](section/236.md)
+  - Demand Note
+    - [s. 237 Demand note for rates.](section/237.md)
+  - Appeals against Rates
+    - [s. 238 Appeals against rates.](section/238.md)
+  - Levy of Occupiers’ Rates on Owner in Certain Cases
+    - [s. 239 ................................](section/239.md)
+    - [s. 240 Owner may be charged with occupiers’ rates where subjects let for less than a year.](section/240.md)
+    - [s. 241 Rates on subjects not occupied by same occupier for whole year.](section/241.md)
+  - Relief of Rates as between Occupiers
+    - [s. 242 Outgoing occupier to have right of relief for rates against incoming occupier.](section/242.md)
+  - Exemptions from Payment of Rates
+    - [s. 243 ................................](section/243.md)
+    - [s. 243A ................................](section/243A.md)
+    - [s. 243B ................................](section/243B.md)
+    - [s. 244 ................................](section/244.md)
+    - [s. 245 ................................](section/245.md)
+  - Recovery and Priority of Rates
+    - [s. 247 Recovery of rates.](section/247.md)
+    - [s. 247A Sheriff officer’s fees and outlays.](section/247A.md)
+    - [s. 248 ................................](section/248.md)
+    - [s. 250 Recovery of rates from persons removing.](section/250.md)
+    - [s. 251 ................................](section/251.md)
+    - [s. 253 Misnomers, etc., not to affect proceedings for recovery of rates.](section/253.md)
+  - Miscellaneous
+    - [s. 254 Application of Part XI of Act to all rates levied by rating authority.](section/254.md)
+    - [s. 255 ................................](section/255.md)
+- Part XII Borrowing by Local Authorities
+  - [s. 258 ................................](section/258.md)
+  - [s. 270 Creation of redeemable stock by authority other than local authority having power to raise money by rate or requisition.](section/270.md)
+  - [s. 271 ................................](section/271.md)
+- Parts XIII—XVI
+  - [s. 297 ................................](section/297.md)
+- Part XVII Provisions Consequential on Transfer of Functions by or by virtue of this Act
+  - [s. 317 ................................](section/317.md)
+  - [s. 318 Transfer and compensation of officers on transfer of functions.](section/318.md)
+  - [s. 319 ................................](section/319.md)
+- Part XVIII
+  - [s. 321 ................................](section/321.md)
+- Part XIX
+  - [s. 332 ................................](section/332.md)
+- Part XX General
+  - [s. 336 ................................](section/336.md)
+- Miscellaneous Provisions
+  - [s. 361 ................................](section/361.md)
+  - [s. 377 Minor consequential amendments of enactments.](section/377.md)
+  - [s. 378 ................................](section/378.md)
+  - [s. 379 Interpretation.](section/379.md)
+  - [s. 380 Interpretation as respects Crown rights.](section/380.md)
+  - [s. 381 Repeals.](section/381.md)
+  - [s. 382 Short title, commencement and extent.](section/382.md)
+- FIRST TO FIFTH SCHEDULES
+- SIXTH TO EIGHTH SCHEDULES
+- NINTH TO TENTH SCHEDULES
+- ELEVENTH SCHEDULE Provisions as to the Determination and Payment of Compensation to Officers in Case of Transfer of Functions
+  - [Sch. ELEVENTH para. 1 Procedure for claiming compensation.](schedule/ELEVENTH/paragraph/1.md)
+  - [Sch. ELEVENTH para. 2 General considerations to be applied.](schedule/ELEVENTH/paragraph/2.md)
+  - [Sch. ELEVENTH para. 3 Power to award compensation by way of a lump sum.](schedule/ELEVENTH/paragraph/3.md)
+  - [Sch. ELEVENTH para. 4 Assessment of compensation for determination of whole-time office.](schedule/ELEVENTH/paragraph/4.md)
+  - [Sch. ELEVENTH para. 5 Assessment of compensation for determination of part-time office.](schedule/ELEVENTH/paragraph/5.md)
+  - [Sch. ELEVENTH para. 6 Assessment of compensation for diminution of emoluments.](schedule/ELEVENTH/paragraph/6.md)
+  - [Sch. ELEVENTH para. 7 Rules for computing period of service.](schedule/ELEVENTH/paragraph/7.md)
+  - [Sch. ELEVENTH para. 8 Right of appeal.](schedule/ELEVENTH/paragraph/8.md)
+  - [Sch. ELEVENTH para. 9 Date on which compensation commences.](schedule/ELEVENTH/paragraph/9.md)
+  - [Sch. ELEVENTH para. 10 Suspension of compensation.](schedule/ELEVENTH/paragraph/10.md)
+  - [Sch. ELEVENTH para. 11 Forms.](schedule/ELEVENTH/paragraph/11.md)
+  - [Sch. ELEVENTH para. 12 Interpretation.](schedule/ELEVENTH/paragraph/12.md)
+- TWELFTH SCHEDULE
+- THIRTEENTH TO FOURTEENTH SCHEDULES
