@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-03-31, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-21, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-03-31
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-04-21
 
 ## Contents
 
@@ -947,24 +947,14 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-03-31
     - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
     - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
     - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
-  - PART 2 Directions and other measures to address lack of capacity
-    - Designation where there is insufficient capacity to deal with dead bodies etc
-      - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
-    - Directions to do things calculated to facilitate dealing with dead bodies etc
-      - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
-    - Power of ministers etc to step in
-      - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
-    - Appropriate national authority directions to prevail
-      - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
-    - Compensation where directions given
-      - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
-    - Guidance
-      - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
-    - General provisions about directions and schemes
-      - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
-    - Procedure
-      - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
-  - PART 3 Power to direct local authorities etc
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+    - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+    - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+    - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
     - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
   - PART 4 Deceased’s wishes etc
     - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
