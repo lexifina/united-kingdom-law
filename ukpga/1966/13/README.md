@@ -1,0 +1,126 @@
+# Universities (Scotland) Act 1966
+
+1966 c. 13. Enacted 1966-03-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1966/13/2021-04-24
+
+## Contents
+
+- Part I Provision for Future Reconstitution of Older Universities
+  - [s. 1 Reconstitution of older Universities.](section/1.md)
+- Part II Amendment of Constitutions and Powers of Existing Bodies, etc.
+  - University Courts
+    - [s. 2 Constitution of University Courts.](section/2.md)
+    - [s. 3 Powers of University Courts.](section/3.md)
+    - [s. 4 Making of ordinances.](section/4.md)
+    - [s. 5 Ordinances made under former enactments.](section/5.md)
+    - [s. 6 Passing of resolutions.](section/6.md)
+  - Senates
+    - [s. 7 Constitution of Senates.](section/7.md)
+    - [s. 8 Powers of Senates.](section/8.md)
+  - General Councils
+    - [s. 9 Powers of General Councils.](section/9.md)
+    - [s. 10 General Council register.](section/10.md)
+  - Miscellaneous
+    - [s. 11 University staff ineligible to become rector, or assessor on Court except in certain circumstances.](section/11.md)
+    - [s. 12 Annual reports and financial statements.](section/12.md)
+- Part III Provisions Consequential on Foundation of University of Dundee
+  - [s. 13 Consequential provisions.](section/13.md)
+- Part IV Supplementary
+  - [s. 14 ................................](section/14.md)
+  - [s. 15 Statutory Instruments Act 1946 not to apply to Orders in Council.](section/15.md)
+  - [s. 16 Interpretation.](section/16.md)
+  - [s. 17 Citation and commencement.](section/17.md)
+- SCHEDULE 1 Composition of Courts of Older Universitites
+  - Part I
+    - St. Andrews
+  - Part II
+  - Part III
+    - Aberdeen
+  - Part IV
+    - Edinburgh
+- SCHEDULE 2 Powers of University Courts
+  - Part I
+    - Powers exerciseable by ordinance
+      - [Sch. 2 Pt. I heading powers-exerciseable-by-ordinance para. 1](schedule/2/part/I/crossheading/powers-exerciseable-by-ordinance/paragraph/1.md)
+      - [Sch. 2 Pt. I heading powers-exerciseable-by-ordinance para. 2](schedule/2/part/I/crossheading/powers-exerciseable-by-ordinance/paragraph/2.md)
+      - [Sch. 2 Pt. I heading powers-exerciseable-by-ordinance para. 3](schedule/2/part/I/crossheading/powers-exerciseable-by-ordinance/paragraph/3.md)
+      - [Sch. 2 Pt. I heading powers-exerciseable-by-ordinance para. 4](schedule/2/part/I/crossheading/powers-exerciseable-by-ordinance/paragraph/4.md)
+      - [Sch. 2 Pt. I heading powers-exerciseable-by-ordinance para. 5](schedule/2/part/I/crossheading/powers-exerciseable-by-ordinance/paragraph/5.md)
+      - [Sch. 2 Pt. I heading powers-exerciseable-by-ordinance para. 6](schedule/2/part/I/crossheading/powers-exerciseable-by-ordinance/paragraph/6.md)
+  - Part II
+    - Powers exerciseable by resolution
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 1](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/1.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 2](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/2.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 3](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/3.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 4](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/4.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 5](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/5.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 6](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/6.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 7](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/7.md)
+      - [Sch. 2 Pt. II heading powers-exerciseable-by-resolution para. 8](schedule/2/part/II/crossheading/powers-exerciseable-by-resolution/paragraph/8.md)
+  - Part III
+    - Powers exerciseable in accordance with procedure prescribed by the University Court
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 1](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/1.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 2](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/2.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 3](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/3.md)
+      - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 4](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/4.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 5](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/5.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 6](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/6.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 7](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/7.md)
+      - [Sch. 2 Pt. III heading powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court para. 8](schedule/2/part/III/crossheading/powers-exerciseable-in-accordance-with-procedure-prescribed-by-the-university-court/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Ordinances made under former enactments which may be varied or revoked only by ordinance made under this Act
+- SCHEDULE 4 List of Enactments Ceasing to have Effect on the Approval by Her Majesty in Council of an Ordinance Mentioned in Section 10 of this Act
+- SCHEDULE 5 Provisions applicable by virtue of section 13 of this Act to the University of St. Andrews after the foundation of the University of Dundee
+  - Constitution of the University and Colleges
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Principal, Vice-Principal and Heads of Colleges
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Bursaries
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Construction of contracts etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Persons employed by College Council in St. Andrews
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Transfer of Property, Etc. to University of Dundee and other transitional provisions
+  - Transfer of property and liabilities
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Bursaries
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Construction of contracts etc.
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Court Proceedings
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Construction of gifts, etc.
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Officers and staff
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Abolition of qualifying examinations and degrees in medicine etc. in the University of St. Andrews
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Amendments to the Medical Act 1956 and Dentists Act 1957
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Existing students
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Compensation for loss of office
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Arbitration
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Interpretation
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+- SCHEDULE 7
