@@ -2,11 +2,9 @@
 
 2021 c. 17. Enacted 2021-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
-
-Source: https://www.legislation.gov.uk/ukpga/2021/17/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2021/17/2021-04-29
 
 ## Contents
 
@@ -72,9 +70,6 @@ Source: https://www.legislation.gov.uk/ukpga/2021/17/2026-09-30
     - [s. 47 Further provision about appeals](section/47.md)
     - [s. 48 Nature of certain proceedings under this Part](section/48.md)
     - [s. 49 Special measures for witnesses](section/49.md)
-  - Notifying schools etc if child is suspected victim of domestic abuse
-    - [s. 49A Arrangements to notify schools etc](section/49A.md)
-    - [s. 49B Power to extend section 49A to childcare providers](section/49B.md)
   - Notices and orders: supplementary
     - [s. 50 Guidance](section/50.md)
     - [s. 51 Data from electronic monitoring: code of practice](section/51.md)
@@ -102,7 +97,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/17/2026-09-30
 - PART 6 Offences involving abusive or violent behaviour
   - Controlling or coercive behaviour
     - [s. 68 Controlling or coercive behaviour in an intimate or family relationship](section/68.md)
-  - ...
+  - Disclosure of private sexual photographs and films
     - [s. 69 Threats to disclose private sexual photographs and films with intent to cause distress](section/69.md)
   - Offences against the person
     - [s. 70 Strangulation or suffocation](section/70.md)
