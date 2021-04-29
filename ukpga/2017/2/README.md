@@ -2,9 +2,9 @@
 
 2017 c. 2. Enacted 2017-01-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2017-01-17, one file per provision. Earlier versions, from 2017-01-16, are in the history before it: `git log -- ukpga/2017/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-29, one file per provision. Earlier versions, from 2017-01-16, are in the history before it: `git log -- ukpga/2017/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/2/2017-01-17
+Source: https://www.legislation.gov.uk/ukpga/2017/2/2021-04-29
 
 ## Contents
 
@@ -87,6 +87,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/2/2017-01-17
       - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
     - Further provision about Help-to-Save accounts
       - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Successor accounts for certain Help-to-Save accounts
+      - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
     - Accounts wrongly treated as Help-to-Save accounts
       - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
   - Part 4 Government bonuses
