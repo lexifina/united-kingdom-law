@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-29, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2021-04-29
 
 ## Contents
 
@@ -712,7 +712,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2020-12-31
       - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
     - Finance Act 1999 (c. 16)
       - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
-    - Cathedrals Measure 1999 (No. 1)
+    - ...
       - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
       - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
       - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
