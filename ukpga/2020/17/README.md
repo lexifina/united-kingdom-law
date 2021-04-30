@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-04-30, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
 
 ## Contents
 
@@ -32,6 +32,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
         - [s. 15 Committal for sentence of dangerous adult offenders](section/15.md)
       - Committal following summary trial: persons under 18
         - [s. 16 Committal for sentence of young offenders on summary trial of certain serious offences](section/16.md)
+        - [s. 16A Committal for sentence of young offenders on summary trial of certain terrorist offences](section/16A.md)
         - [s. 17 Committal for sentence of dangerous young offenders](section/17.md)
       - Committal for sentence following indication of guilty plea
         - [s. 18 Committal for sentence on indication of guilty plea to offence triable either way: adult offenders](section/18.md)
@@ -40,7 +41,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
         - [s. 20 Committal in certain cases where offender committed in respect of another offence](section/20.md)
       - Power of Crown Court on committal for sentence
         - [s. 21 Power of Crown Court on committal for sentence of offender under section 14, 15 or 18](section/21.md)
-        - [s. 22 Power of Crown Court on committal for sentence of person under 18 under section 16, 17 or 19](section/22.md)
+        - [s. 22 Power of Crown Court on committal for sentence of person under 18 under section 16, 16A, 17 or 19](section/22.md)
         - [s. 23 Power of Crown Court on committal for sentence under section 20](section/23.md)
       - Further powers to commit to Crown Court for sentence
         - [s. 24 Further powers to commit offender to the Crown Court to be dealt with](section/24.md)
@@ -355,6 +356,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
         - [s. 250 Sentence of detention: offender convicted of certain serious offences](section/250.md)
         - [s. 251 Exercise of power to impose sentence of detention under section 250](section/251.md)
         - [s. 252 Maximum sentence](section/252.md)
+      - Special custodial sentence for terrorist offenders
+        - [s. 252A Required special sentence of detention for terrorist offenders of particular concern](section/252A.md)
+      - Sentences of detention passed during detention and training order
         - [s. 253 Sentence of detention passed on offender subject to detention and training order](section/253.md)
       - Extended sentences
         - [s. 254 Extended sentence for certain violent, sexual or terrorism offences](section/254.md)
@@ -365,7 +369,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
         - [s. 258 Required sentence of detention for life for offence carrying life sentence](section/258.md)
         - [s. 259 Offenders who commit murder etc when under 18: duty to detain at Her Majesty’s pleasure](section/259.md)
       - Detention under this Chapter
-        - [s. 260 Detention under section 250 or 259](section/260.md)
+        - [s. 260 Detention under section 250, 252A or 259](section/260.md)
         - [s. 261 Detention in pursuance of extended sentence](section/261.md)
     - CHAPTER 3 Adults aged under 21
       - Detention in a young offender institution
@@ -1104,21 +1108,32 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2020-12-31
   - Offence after release for supervision or during further supervision period
     - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
 - SCHEDULE 13 Special sentence for offenders of particular concern: offences
-  - Terrorism offences
-    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
-    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
-    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
-    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
-    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
-  - Sexual offences
-    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
-  - Inchoate offences
-    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
-    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
-  - Abolished offences
-    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
-  - Meaning of “terrorist connection”
-    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - PART 1 Offences involving or connected with terrorism
+    - Terrorism Act 2000
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Terrorism Act 2006
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Counter-Terrorism Act 2008
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Terrorism Prevention and Investigation Measures 2011
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Counter-Terrorism and Security Act 2015
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Inchoate offences
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Abolished offences
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Offences connection with terrorism
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - PART 2 Sexual offences
+    - Sexual Offences Act 2003
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Inchoate offences
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Abolished offences
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
 - SCHEDULE 14 Extended sentences: the earlier offence condition: offences
   - PART 1 Offences under the law of England and Wales
     - Manslaughter
