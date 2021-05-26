@@ -2,9 +2,9 @@
 
 2015 c. 15. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-05-26, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2015/15/2021-05-26
 
 ## Contents
 
@@ -371,6 +371,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2020-12-31
       - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
     - Power to decommission or switch off fixed installations
       - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 30A](schedule/5/paragraph/30A.md)
     - Power to break open container etc
       - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
     - Power to enter premises with warrant
