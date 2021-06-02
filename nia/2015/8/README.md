@@ -1,0 +1,189 @@
+# Reservoirs Act (Northern Ireland) 2015
+
+nia/2015/8. Enacted 2015-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2015/8/2021-06-02
+
+## Contents
+
+- PART 1 CONTROLLED RESERVOIRS, REGISTRATION AND RESERVOIR DESIGNATION
+  - Controlled reservoirs
+    - [s. 1 Controlled reservoirs](section/1.md)
+    - [s. 2 Structure or area which is to be treated as a controlled reservoir](section/2.md)
+    - [s. 3 Matters to be taken into account under section 2(3)](section/3.md)
+    - [s. 4 Controlled reservoirs: further provision](section/4.md)
+    - [s. 5 Controlled reservoirs: supplementary](section/5.md)
+  - Reservoir managers
+    - [s. 6 Reservoir managers](section/6.md)
+    - [s. 7 Multiple reservoir managers: supplementary](section/7.md)
+    - [s. 8 Duty of multiple reservoir managers to co-operate](section/8.md)
+  - Registration
+    - [s. 9 Controlled reservoirs register](section/9.md)
+    - [s. 10 Reservoir managers’ duty to register with the Department](section/10.md)
+    - [s. 11 Structures or areas which are controlled reservoirs on the relevant date](section/11.md)
+    - [s. 12 Structures or areas which become controlled reservoirs after the relevant date](section/12.md)
+    - [s. 13 Structures or areas which are the subject of regulations under section 2(3)](section/13.md)
+    - [s. 14 Fees: registration and administration](section/14.md)
+    - [s. 15 Registration: supplementary](section/15.md)
+    - [s. 16 Offences: registration](section/16.md)
+  - Reservoir designation
+    - [s. 17 Giving a reservoir designation](section/17.md)
+    - [s. 18 Periodic re-assessment of reservoir designations](section/18.md)
+    - [s. 19 Date on which reservoir designation given under section 17 or given as different designation under section 18 takes effect](section/19.md)
+    - [s. 20 Review by Department of its decision under section 17 or 18](section/20.md)
+    - [s. 21 Appeal against Department’s decision in a review under section 20](section/21.md)
+    - [s. 22 Matters to be taken into account under sections 17(3), 18(2), 20(3)(b)(ii) and 21(5)(a)](section/22.md)
+    - [s. 23 Matters to be taken into account under sections 17(3), 18(2), 20(3)(b)(ii) and 21(5)(a): further provision](section/23.md)
+    - [s. 24 High-consequence reservoirs, medium-consequence reservoirs and low-consequence reservoirs: further provision](section/24.md)
+- PART 2 REQUIREMENTS FOR HIGH-CONSEQUENCE AND MEDIUM-CONSEQUENCE RESERVOIRS
+  - Supervision by supervising engineer
+    - [s. 25 Supervision requirement and commissioning of supervising engineer etc.](section/25.md)
+    - [s. 26 Duties etc. in relation to supervision](section/26.md)
+    - [s. 27 Regulations as to visits by supervising engineer](section/27.md)
+    - [s. 28 Visual inspection directed under section 26(4)(a): further provision](section/28.md)
+    - [s. 29 Nominated representative under section 26(7)(a): further provision](section/29.md)
+  - Inspections etc. by inspecting engineer
+    - [s. 30 Inspection timing: general requirements](section/30.md)
+    - [s. 31 Inspection timing: reservoir subject to pre-commencement inspection report](section/31.md)
+    - [s. 32 Inspection timing: other qualifications](section/32.md)
+    - [s. 33 Pre-commencement inspection report](section/33.md)
+    - [s. 34 Commissioning of inspecting engineer etc.](section/34.md)
+    - [s. 35 Duties etc. in relation to inspection](section/35.md)
+    - [s. 36 Inspection reports: compliance](section/36.md)
+  - Record keeping etc.
+    - [s. 37 Recording of water levels etc. and record keeping](section/37.md)
+  - Offences: supervision, inspection, record keeping
+    - [s. 38 Offences: supervision, inspection, record keeping](section/38.md)
+    - [s. 39 Offence in connection with inspection: failure to secure compliance with safety direction or recommendation](section/39.md)
+    - [s. 40 Defences: offence under section 39(1)](section/40.md)
+- PART 3 CONSTRUCTION OR ALTERATION OF CONTROLLED RESERVOIRS
+  - Construction or alteration
+    - [s. 41 Application of Part 3 etc.](section/41.md)
+    - [s. 42 Meaning of “relevant works” for purposes of Act](section/42.md)
+  - Supervision by construction engineer
+    - [s. 43 Notice to Department and commissioning of construction engineer](section/43.md)
+    - [s. 44 Supervision of relevant works and reservoir safety by construction engineer](section/44.md)
+    - [s. 45 Safety report](section/45.md)
+    - [s. 46 Safety report: compliance](section/46.md)
+    - [s. 47 Preliminary certificate](section/47.md)
+    - [s. 48 Construction certificate](section/48.md)
+    - [s. 49 Final certificate](section/49.md)
+    - [s. 50 Preliminary and final certificates: compliance](section/50.md)
+    - [s. 51 Termination of supervision by construction engineer](section/51.md)
+  - Offences: construction or alteration
+    - [s. 52 Offences: construction or alteration](section/52.md)
+    - [s. 53 Offences: failure to comply with safety direction in safety report, preliminary certificate or final certificate](section/53.md)
+    - [s. 54 Defences: offences under section 53(1)](section/54.md)
+  - Relevant works underway at commencement
+    - [s. 55 Controlled reservoirs subject to relevant works on the commencement date](section/55.md)
+- PART 4 CONTROLLED RESERVOIRS: OTHER REQUIREMENTS
+  - [s. 56 Incident reporting](section/56.md)
+  - [s. 57 Flood plans](section/57.md)
+  - [s. 58 Maintenance of records](section/58.md)
+  - [s. 59 Display of emergency response information](section/59.md)
+  - [s. 60 Offences under Part 4](section/60.md)
+- PART 5 DISPUTE REFERRAL
+  - [s. 61 Referral to referee: directions in safety report or inspection report](section/61.md)
+  - [s. 62 Referral to referee: requirements in preliminary certificate or final certificate](section/62.md)
+  - [s. 63 Commissioning of referee](section/63.md)
+  - [s. 64 Powers of referee: referral under section 61(2)](section/64.md)
+  - [s. 65 Powers of referee: referral under section 62(1)](section/65.md)
+  - [s. 66 Procedure etc.](section/66.md)
+- PART 6 CIVIL ENFORCEMENT, EMERGENCY POWERS AND FURTHER OFFENCES
+  - Enforcement of commissioning of engineers
+    - [s. 67 Enforcement notice: commissioning of engineers](section/67.md)
+    - [s. 68 Offence: failure to comply with notice under section 67(2)](section/68.md)
+    - [s. 69 Commissioning of engineer by Department](section/69.md)
+    - [s. 70 Commissioning by the Department: engineers’ reports, certificates, recommendations etc.](section/70.md)
+  - Enforcement of taking of safety measures
+    - [s. 71 Enforcement notice: safety measures](section/71.md)
+    - [s. 72 Offence: failure to comply with notice under section 71(2)](section/72.md)
+  - Department arranging taking of safety measures
+    - [s. 73 Department’s power to arrange taking of safety measures](section/73.md)
+  - Conviction of certain offences involving safety matters: further remedies
+    - [s. 74 Offence under section 39(1) or 53(1)(a): further remedies](section/74.md)
+  - Department’s powers in emergency
+    - [s. 75 Emergency powers](section/75.md)
+  - Recovery of costs under section 69, 71, 73 or 75: appeal
+    - [s. 76 Recovery of costs under section 69, 71, 73 or 75: appeal](section/76.md)
+  - Stop notices
+    - [s. 77 Stop notices](section/77.md)
+    - [s. 78 Stop notices: content and procedure](section/78.md)
+    - [s. 79 Stop notices: compensation](section/79.md)
+    - [s. 80 Stop notices: enforcement](section/80.md)
+  - Other civil enforcement measures
+    - [s. 81 Enforcement undertakings](section/81.md)
+    - [s. 82 Regulations as to enforcement undertakings: further provision](section/82.md)
+    - [s. 83 Fixed monetary penalties](section/83.md)
+    - [s. 84 Fixed monetary penalties: procedure etc.](section/84.md)
+    - [s. 85 Fixed monetary penalties: criminal proceedings and conviction etc.](section/85.md)
+    - [s. 86 Variable monetary penalties](section/86.md)
+    - [s. 87 Variable monetary penalties: procedure etc.](section/87.md)
+    - [s. 88 Variable monetary penalties: criminal proceedings and conviction](section/88.md)
+    - [s. 89 Undertaking referred to in section 87(5): enforcement](section/89.md)
+  - Miscellaneous
+    - [s. 90 Consultation in relation to regulations under sections 77(1), 81(1), 83(1) and 86(1)](section/90.md)
+    - [s. 91 Recovery by the Department of certain costs](section/91.md)
+    - [s. 92 Publication of enforcement action](section/92.md)
+  - Powers of entry
+    - [s. 93 Powers of entry](section/93.md)
+    - [s. 94 Warrants authorising entry](section/94.md)
+    - [s. 95 Powers of entry: supplementary](section/95.md)
+    - [s. 96 Offence: preventing or obstructing entry](section/96.md)
+    - [s. 97 Compensation](section/97.md)
+  - Reasonable facilities, information and assistance
+    - [s. 98 Affording of reasonable facilities to engineers](section/98.md)
+    - [s. 99 Power of the Department to require information and assistance from reservoir managers](section/99.md)
+    - [s. 100 Offences: sections 98 and 99](section/100.md)
+    - [s. 101 Power to require information and assistance from others](section/101.md)
+- PART 7 PANELS OF RESERVOIR ENGINEERS
+  - [s. 102 Panels of reservoir engineers](section/102.md)
+  - [s. 103 Appointment of members to panels: further provision](section/103.md)
+  - [s. 104 Removal of panel members](section/104.md)
+  - [s. 105 Dissolution or alteration of panels etc.](section/105.md)
+  - [s. 106 Review of decisions not to appoint, or to remove civil engineers from panels etc.](section/106.md)
+  - [s. 107 Consultation with Institution of Civil Engineers](section/107.md)
+  - [s. 108 Reimbursement of costs incurred by Institution of Civil Engineers](section/108.md)
+- PART 8 MISCELLANEOUS
+  - [s. 109 Power of Water Appeals Commission to award costs in an appeal](section/109.md)
+  - [s. 110 Orders as to costs: supplementary](section/110.md)
+  - [s. 111 Fees in relation to appeals](section/111.md)
+  - [s. 112 Time limit for certain summary offences under Act](section/112.md)
+  - [s. 113 National security: further provision](section/113.md)
+  - [s. 114 Grants](section/114.md)
+  - [s. 115 Assessment of engineers’ reports etc.](section/115.md)
+  - [s. 116 Publication of information as regards ranges of costs of engineers’ services](section/116.md)
+  - [s. 117 Notice to the Department of revocation of commissioning, or resignation, of engineer](section/117.md)
+  - [s. 118 Form and content of notices, reports, certificates etc.](section/118.md)
+  - [s. 119 Electronic serving or giving of notices or other documents](section/119.md)
+  - [s. 120 Change to the Institution of Civil Engineers](section/120.md)
+  - [s. 121 Civil liability](section/121.md)
+- PART 9 GENERAL
+  - [s. 122 Application to the Crown](section/122.md)
+  - [s. 123 Enforcement in relation to the Crown](section/123.md)
+  - [s. 124 Service or giving of notices or other documents: the Crown](section/124.md)
+  - [s. 125 Offences by bodies corporate and partnerships](section/125.md)
+  - [s. 126 Supplementary, incidental, consequential etc. provision](section/126.md)
+  - [s. 127 Orders and regulations](section/127.md)
+  - [s. 128 Definitions](section/128.md)
+  - [s. 129 Minor and consequential amendments and repeals](section/129.md)
+  - [s. 130 Commencement](section/130.md)
+  - [s. 131 Duty to report on operation of this Act](section/131.md)
+  - [s. 132 Short title](section/132.md)
+- SCHEDULE 1 PRE-COMMENCEMENT INSPECTION REPORTS: REVIEW OF DECISION UNDER SECTION 33(2)
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 INDEX OF DEFINED EXPRESSIONS
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - The Water and Sewerage Services (Northern Ireland) Order 2006 (NI 21)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 REPEALS
