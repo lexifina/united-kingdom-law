@@ -2,9 +2,9 @@
 
 2015 c. 11. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2019-02-12, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/11/2019-02-12
+Source: https://www.legislation.gov.uk/ukpga/2015/11/2021-06-10
 
 ## Contents
 
@@ -604,6 +604,8 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2019-02-12
     - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
   - General anti-abuse rule: aggregate penalties
     - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+  - Follower notices: aggregate penalties
+    - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
 - SCHEDULE 21 Penalties in connection with offshore asset moves
   - Penalty linked to offshore asset moves
     - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
