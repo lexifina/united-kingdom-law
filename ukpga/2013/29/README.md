@@ -2,9 +2,9 @@
 
 2013 c. 29. Enacted 2013-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2013/29/2021-06-10
 
 ## Contents
 
@@ -193,7 +193,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
     - [s. 147A Caretaker flat owned by management company](section/147A.md)
     - [s. 148 Farmhouses](section/148.md)
     - [s. 149 “Farm worker” and “former long-serving farm worker”](section/149.md)
-    - [s. 150 Providers of social housing](section/150.md)
+    - [s. 150 Providers of social housing etc](section/150.md)
+    - [s. 150A Meaning of “qualifying housing co-operative”](section/150A.md)
   - Exemptions
     - [s. 151 Charitable companies](section/151.md)
     - [s. 152 Section 151: supplementary](section/152.md)
@@ -279,7 +280,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
   - [s. 209 Counteracting the tax advantages](section/209.md)
   - [s. 209AA Protective GAAR notices](section/209AA.md)
   - [s. 209AB Adjustments under section 209: notices under Schedule 43 or 43A](section/209AB.md)
-  - [s. 209AC Sections 209AA and 209AB: definitions](section/209AC.md)
+  - [s. 209ABA Adjustments under section 209: notices under Schedule 43D](section/209ABA.md)
+  - [s. 209AC Sections 209AA to 209ABA: definitions](section/209AC.md)
   - [s. 209A Effect of adjustments specified in a provisional counteraction notice](section/209A.md)
   - [s. 209B Notified adjustments: 12 month period for taking action if appeal made](section/209B.md)
   - [s. 209C Notified adjustments: case within section 209B(4)(c)](section/209C.md)
@@ -290,6 +292,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
   - [s. 211 Proceedings before a court or tribunal](section/211.md)
   - [s. 212 Relationship between the GAAR and priority rules](section/212.md)
   - [s. 212A Penalty](section/212A.md)
+  - [s. 212B Penalty: partnerships](section/212B.md)
   - [s. 213 Consequential amendment](section/213.md)
   - [s. 214 Interpretation of Part 5](section/214.md)
   - [s. 215 Commencement and transitional provision](section/215.md)
@@ -1379,6 +1382,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
     - [Sch. 43 para. 12](schedule/43/paragraph/12.md)
   - Notices may be given on assumption that tax advantage does arise
     - [Sch. 43 para. 13](schedule/43/paragraph/13.md)
+  - HMRC officers
+    - [Sch. 43 para. 14](schedule/43/paragraph/14.md)
 - SCHEDULE 43A Procedural requirements: pooling notices and notices of binding
   - Pooling notices
     - [Sch. 43A para. 1](schedule/43A/paragraph/1.md)
@@ -1424,7 +1429,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
     - [Sch. 43B para. 9A](schedule/43B/paragraph/9A.md)
   - Power to amend
     - [Sch. 43B para. 10](schedule/43B/paragraph/10.md)
-- SCHEDULE 43C Penalty under section 212A: supplementary provision
+- SCHEDULE 43C Penalty under section 212A or 212B: supplementary provision
   - Value of the counteracted advantage: introduction
     - [Sch. 43C para. 1](schedule/43C/paragraph/1.md)
   - Value of the counteracted advantage: basic rule
@@ -1447,6 +1452,41 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2020-12-31
     - [Sch. 43C para. 10](schedule/43C/paragraph/10.md)
   - Interpretation
     - [Sch. 43C para. 11](schedule/43C/paragraph/11.md)
+- SCHEDULE 43D The GAAR and partnerships
+  - PART 1 General
+    - Introductory
+      - [Sch. 43D para. 1](schedule/43D/paragraph/1.md)
+    - Meaning of “the responsible partner”
+      - [Sch. 43D para. 2](schedule/43D/paragraph/2.md)
+    - Partnership return made on basis that tax advantage arises
+      - [Sch. 43D para. 3](schedule/43D/paragraph/3.md)
+  - PART 2 Protective GAAR notices
+    - Power to give protective GAAR notice to responsible partner
+      - [Sch. 43D para. 4](schedule/43D/paragraph/4.md)
+  - PART 3 Notices of proposed counteraction
+    - Power to give notice of proposed counteraction to responsible partner
+      - [Sch. 43D para. 5](schedule/43D/paragraph/5.md)
+    - Effect of giving a notice under paragraph 5
+      - [Sch. 43D para. 6](schedule/43D/paragraph/6.md)
+    - Modifications to Schedule 43
+      - [Sch. 43D para. 7](schedule/43D/paragraph/7.md)
+    - Notices may be given on assumption that tax advantage does arise
+      - [Sch. 43D para. 8](schedule/43D/paragraph/8.md)
+    - HMRC officers
+      - [Sch. 43D para. 9](schedule/43D/paragraph/9.md)
+  - PART 4 Pooling notices and notices of binding
+    - Power to give pooling notice or notice of binding to responsible partner
+      - [Sch. 43D para. 10](schedule/43D/paragraph/10.md)
+    - Effect of giving notice under paragraph 10
+      - [Sch. 43D para. 11](schedule/43D/paragraph/11.md)
+    - Modifications to Schedule 43A
+      - [Sch. 43D para. 12](schedule/43D/paragraph/12.md)
+    - Modifications to Schedule 43B
+      - [Sch. 43D para. 13](schedule/43D/paragraph/13.md)
+    - Notices may be given on assumption that tax advantage does arise
+      - [Sch. 43D para. 14](schedule/43D/paragraph/14.md)
+    - HMRC officers
+      - [Sch. 43D para. 15](schedule/43D/paragraph/15.md)
 - SCHEDULE 44 Trusts with vulnerable beneficiary
   - Inheritance Tax Act 1984
     - [Sch. 44 para. 1](schedule/44/paragraph/1.md)
