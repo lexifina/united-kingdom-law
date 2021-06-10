@@ -2,9 +2,9 @@
 
 2011 c. 11. Enacted 2011-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-01-01, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2011-03-31, are in the history before it: `git log -- ukpga/2011/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/11/2021-01-01
+Source: https://www.legislation.gov.uk/ukpga/2011/11/2021-06-10
 
 ## Contents
 
@@ -907,7 +907,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/11/2021-01-01
       - [Sch. 19 para. 79](schedule/19/paragraph/79.md)
     - “ UK resident bank”
       - [Sch. 19 para. 80](schedule/19/paragraph/80.md)
-  - Part 9 Power to make consequential changes
+  - Part 9 Powers to amend
     - [Sch. 19 para. 81](schedule/19/paragraph/81.md)
 - SCHEDULE 20 Supplies of commodities to be used in producing electricity
   - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
