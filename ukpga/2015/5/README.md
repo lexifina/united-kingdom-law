@@ -1,0 +1,131 @@
+# National Insurance Contributions Act 2015
+
+2015 c. 5. Enacted 2015-02-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2015/5/2021-06-10
+
+## Contents
+
+- Secondary Class 1 contributions: apprentices under 25
+  - [s. 1 Zero-rate secondary Class 1 contributions for apprentices under 25](section/1.md)
+- Class 2 contributions
+  - [s. 2 Reform of Class 2 contributions](section/2.md)
+  - [s. 3 Consequential etc power](section/3.md)
+- Follower notices, accelerated payments and promoters of avoidance
+  - [s. 4 Application of Parts 4 and 5 of FA 2014 to national insurance contributions](section/4.md)
+  - [s. 5 Provision in consequence etc of tax-only changes to Part 4 or 5 of FA 2014](section/5.md)
+- Anti-avoidance
+  - [s. 6 Categorisation of earners etc: anti-avoidance](section/6.md)
+- General
+  - [s. 7 HMRC administrative expenses: financial provision](section/7.md)
+  - [s. 8 Abbreviations of Acts](section/8.md)
+  - [s. 9 Short title and extent](section/9.md)
+- SCHEDULE 1 Reform of Class 2 contributions
+  - SSCBA 1992
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - SSCB(NI)A 1992
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - SSAA 1992
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - SSC(TF)A 1999
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 (S.I. 1999/671)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Commencement
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+- SCHEDULE 2 Application of Parts 4 and 5 of FA 2014 to national insurance contributions
+  - PART 1 Follower notices & accelerated payments: Class 1, 1A, 1B and certain Class 2
+    - Introduction
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - General
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - List of relevant taxes
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Circumstances in which follower notice may be given
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Follower notices: corrective action and penalties
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Follower notices: aggregate penalties
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Circumstances in which accelerated payment notice may be given
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Nature and recovery of accelerated payment
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Effect of accelerated payment notice in respect of appeal
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Penalty for failure to pay accelerated payment
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Recovery of penalties under Part 4 of FA 2014
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Withdrawal, modification or suspension of accelerated payment notice
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Interpretation
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - PART 2 Promoters of avoidance schemes: Class 1, 1A, 1B and certain Class 2
+    - Introduction
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - General
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Duty to notify Commissioners
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Power to obtain information and documents
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Limitation of defence of reasonable care
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - List of taxes
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 30A Threshold conditions](schedule/2/paragraph/30A.md)
+      - [Sch. 2 para. 30B Relevant defeats](schedule/2/paragraph/30B.md)
+    - Interpretation
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+  - PART 3 Application of Parts 4 and 5 of FA 2014: Class 4
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - PART 4 Commencement and transitory provision
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
