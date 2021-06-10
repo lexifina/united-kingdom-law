@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2021-06-10
 
 ## Contents
 
@@ -283,12 +283,15 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
       - [s. 207 Representations about a follower notice](section/207.md)
     - Penalties
       - [s. 208 Penalty if corrective action not taken in response to follower notice](section/208.md)
-      - [s. 209 Amount of a section 208 penalty](section/209.md)
+      - [s. 208A Additional penalty for unreasonable tax appeal](section/208A.md)
+      - [s. 209 Amount of a section 208 or 208A penalty](section/209.md)
       - [s. 210 Reduction of a section 208 penalty for co-operation](section/210.md)
       - [s. 211 Assessment of a section 208 penalty](section/211.md)
+      - [s. 211A Assessment of a section 208A penalty](section/211A.md)
       - [s. 212 Aggregate penalties](section/212.md)
-      - [s. 213 Alteration of assessment of a section 208 penalty](section/213.md)
+      - [s. 213 Alteration of assessment of a section 208 or 208A penalty](section/213.md)
       - [s. 214 Appeal against a section 208 penalty](section/214.md)
+      - [s. 214A Appeal against a section 208A penalty](section/214A.md)
     - Partners and partnerships
       - [s. 215 Follower notices: treatment of partners and partnerships](section/215.md)
     - Appeals out of time
@@ -332,6 +335,18 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [s. 234 Meaning of “relevant proposal” and “relevant arrangements”](section/234.md)
     - [s. 235 Carrying on a business “as a promoter”](section/235.md)
     - [s. 236 Meaning of “intermediary”](section/236.md)
+  - Stop notices
+    - [s. 236A Power to give stop notices](section/236A.md)
+    - [s. 236B Effect of stop notices](section/236B.md)
+    - [s. 236C Quarterly returns](section/236C.md)
+    - [s. 236D Withdrawal of stop notices](section/236D.md)
+    - [s. 236E Appeal against decision not to withdraw stop notice](section/236E.md)
+    - [s. 236F Suspension of stop notice pending appeal](section/236F.md)
+    - [s. 236G Automatic withdrawal of certain stop notices](section/236G.md)
+    - [s. 236H Publication](section/236H.md)
+    - [s. 236I Publication where stop notice automatically withdrawn](section/236I.md)
+    - [s. 236J Disclosure to clients and intermediaries](section/236J.md)
+    - [s. 236K Notification of interested persons by HMRC](section/236K.md)
   - Conduct notices
     - [s. 237 Duty to give conduct notice](section/237.md)
     - [s. 237A Duty to give conduct notice: defeat of promoted arrangements](section/237A.md)
@@ -340,7 +355,8 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [s. 237D Judicial ruling upholding asserted tax advantage: effect on conduct notice which is provisional](section/237D.md)
     - [s. 238 Contents of a conduct notice](section/238.md)
     - [s. 239 Section 238: supplementary](section/239.md)
-    - [s. 240 Amendment or withdrawal of conduct notice](section/240.md)
+    - [s. 239A Conduct notices: transferees](section/239A.md)
+    - [s. 240 Amendment, withdrawal or reissue of conduct notice](section/240.md)
     - [s. 241 Duration of conduct notice](section/241.md)
   - Defeat notices
     - [s. 241A Defeat notices](section/241A.md)
@@ -349,6 +365,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [s. 242 Monitoring notices: duty to apply to tribunal](section/242.md)
     - [s. 243 Monitoring notices: tribunal approval](section/243.md)
     - [s. 244 Monitoring notices: content and issuing](section/244.md)
+    - [s. 244A Monitoring notices: transferees](section/244A.md)
     - [s. 245 Withdrawal of monitoring notice](section/245.md)
     - [s. 246 Notification of determination under section 245](section/246.md)
     - [s. 247 Appeal against refusal to withdraw monitoring notice](section/247.md)
@@ -356,7 +373,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [s. 249 Publication by monitored promoter](section/249.md)
   - Allocation and distribution of promoter reference number
     - [s. 250 Allocation of promoter reference number](section/250.md)
-    - [s. 251 Duty of monitored promoter to notify clients and intermediaries of number](section/251.md)
+    - [s. 251 Duty of monitored promoter to notify clients etc of number](section/251.md)
     - [s. 252 Duty of those notified to notify others of promoter’s number](section/252.md)
     - [s. 253 Duty of persons to notify the Commissioners](section/253.md)
   - Obtaining information and documents
@@ -366,7 +383,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [s. 257 Ongoing duty to provide information following HMRC notice](section/257.md)
     - [s. 258 Duty of person dealing with non-resident monitored promoter](section/258.md)
     - [s. 259 Monitored promoters: duty to provide information about clients](section/259.md)
-    - [s. 260 Intermediaries: duty to provide information about clients](section/260.md)
+    - [s. 260 Intermediaries etc: duty to provide information about clients](section/260.md)
     - [s. 261 Enquiry following provision of client information](section/261.md)
     - [s. 262 Information required for monitoring compliance with conduct notice](section/262.md)
     - [s. 263 Duty to notify HMRC of address](section/263.md)
@@ -381,6 +398,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [s. 270 Limitation on duty to produce documents](section/270.md)
     - [s. 271 Legal professional privilege](section/271.md)
     - [s. 272 Tax advisers](section/272.md)
+    - [s. 272A Application of Schedule 36 FA 2008 powers](section/272A.md)
     - [s. 273 Confidentiality](section/273.md)
   - Penalties
     - [s. 274 Penalties](section/274.md)
@@ -1307,7 +1325,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
   - Saving for amendments and repeals made by Schedule 28
     - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
-- SCHEDULE 30 Section 208 penalty: value of the denied advantage
+- SCHEDULE 30 Section 208 or 208A penalty: value of the denied advantage
   - Introduction
     - [Sch. 30 para. 1](schedule/30/paragraph/1.md)
   - Value of denied advantage: normal rule
@@ -1325,6 +1343,8 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [Sch. 31 para. 3](schedule/31/paragraph/3.md)
   - Penalty if corrective action not taken in response to partnership follower notice
     - [Sch. 31 para. 4](schedule/31/paragraph/4.md)
+  - Additional penalty for unreasonable tax appeal
+    - [Sch. 31 para. 4A](schedule/31/paragraph/4A.md)
   - Calculation of penalty etc
     - [Sch. 31 para. 5](schedule/31/paragraph/5.md)
 - SCHEDULE 32 Accelerated payments and partnerships
@@ -1355,6 +1375,17 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
     - [Sch. 33 para. 4](schedule/33/paragraph/4.md)
   - Finance Act 2009
     - [Sch. 33 para. 5](schedule/33/paragraph/5.md)
+- SCHEDULE 33A Promotion structures
+  - Cases in which a person is a member of a promotion structure.
+    - [Sch. 33A para. 1](schedule/33A/paragraph/1.md)
+  - Multiple entity promoter
+    - [Sch. 33A para. 2](schedule/33A/paragraph/2.md)
+  - Acting for a non-resident promoter
+    - [Sch. 33A para. 3](schedule/33A/paragraph/3.md)
+  - Control of another promoter
+    - [Sch. 33A para. 4](schedule/33A/paragraph/4.md)
+  - Transfer of promotion business
+    - [Sch. 33A para. 5](schedule/33A/paragraph/5.md)
 - SCHEDULE 34 Promoters of tax avoidance schemes: threshold conditions
   - PART 1 Meeting the threshold conditions: general
     - Meaning of “threshold condition”
@@ -1365,7 +1396,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
       - [Sch. 34 para. 3](schedule/34/paragraph/3.md)
     - Dishonest tax agents
       - [Sch. 34 para. 4](schedule/34/paragraph/4.md)
-    - Non-compliance with Part 7 of FA 2004
+    - Non-compliance with avoidance disclosure requirements
       - [Sch. 34 para. 5](schedule/34/paragraph/5.md)
     - Criminal offences
       - [Sch. 34 para. 6](schedule/34/paragraph/6.md)
@@ -1379,7 +1410,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2020-12-31
       - [Sch. 34 para. 10](schedule/34/paragraph/10.md)
     - Restrictive contractual terms
       - [Sch. 34 para. 11](schedule/34/paragraph/11.md)
-    - Continuing to promote certain arrangements
+    - Stop notices
       - [Sch. 34 para. 12](schedule/34/paragraph/12.md)
   - PART 2 Meeting the threshold conditions: bodies corporate and partnerships
     - Interpretation
