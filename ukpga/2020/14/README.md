@@ -2,9 +2,9 @@
 
 2020 c. 14. Enacted 2020-07-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-04-06, one file per provision. Earlier versions, from 2018-10-29, are in the history before it: `git log -- ukpga/2020/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2018-10-29, are in the history before it: `git log -- ukpga/2020/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/14/2021-04-06
+Source: https://www.legislation.gov.uk/ukpga/2020/14/2021-06-10
 
 ## Contents
 
@@ -153,7 +153,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/14/2021-04-06
     - [s. 105 Interest on unpaid tax in case of disaster etc of national significance](section/105.md)
   - Coronavirus
     - [s. 106 Taxation of coronavirus support payments](section/106.md)
-    - [s. 107 Enterprise management incentives: disqualifying events](section/107.md)
+    - [s. 107 Enterprise management incentives](section/107.md)
     - [s. 108 Protected pension age of members re-employed as a result of coronavirus](section/108.md)
     - [s. 109 Modifications of the statutory residence test in connection with coronavirus](section/109.md)
     - [s. 110 Future Fund: EIS and SEIS relief](section/110.md)
