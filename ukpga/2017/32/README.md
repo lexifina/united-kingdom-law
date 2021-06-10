@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2021-06-10
 
 ## Contents
 
@@ -1076,6 +1076,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-31
     - Commencement
       - [Sch. 16 para. 62](schedule/16/paragraph/62.md)
 - SCHEDULE 17 Disclosure of tax avoidance schemes: VAT and other indirect taxes
+  - PART A1 Introduction
+    - [Sch. 17 para. A1](schedule/17/paragraph/A1.md)
   - PART 1 Duties to disclose avoidance schemes etc
     - Preliminary: application of definitions
       - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
@@ -1112,17 +1114,27 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2020-12-31
       - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
     - Duty of promoters to provide updated information
       - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
-    - Arrangements to be given reference number
+    - Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable
+      - [Sch. 17 para. 21A](schedule/17/paragraph/21A.md)
+    - Allocation of reference number to arrangements
       - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
-    - Duty of promoter to notify client of number
+    - Duty of HMRC to notify persons of reference number
+      - [Sch. 17 para. 22A](schedule/17/paragraph/22A.md)
+    - Right of appeal: paragraph 22(3) case
+      - [Sch. 17 para. 22B](schedule/17/paragraph/22B.md)
+    - Duty to provide further information requested by HMRC: paragraph 22(3) case
+      - [Sch. 17 para. 22C](schedule/17/paragraph/22C.md)
+    - Duty of promoter to notify client of number: paragraph 22(2) case
       - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+    - Duty to notify client of reference number: paragraph 22(3) case
+      - [Sch. 17 para. 23A](schedule/17/paragraph/23A.md)
     - Duty of client to notify parties of number
       - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
-    - Duty of client to provide information to promoter
+    - Duty of client to provide information ...
       - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
-    - Duty of parties to notifiable arrangements to notify HMRC of number, etc
+    - Duty of parties to notify HMRC of reference number etc
       - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
-    - Duty of promoter to provide details of clients
+    - Duty ... to provide details of clients
       - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
     - Enquiry following disclosure of client details
       - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
