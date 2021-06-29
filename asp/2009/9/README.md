@@ -1,0 +1,175 @@
+# Sexual Offences (Scotland) Act 2009
+
+asp/2009/9. Enacted 2009-07-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2009/9
+
+Source: https://www.legislation.gov.uk/asp/2009/9/2021-06-29
+
+## Contents
+
+- Part 1 Rape etc.
+  - Rape
+    - [s. 1 Rape](section/1.md)
+  - Sexual assault by penetration
+    - [s. 2 Sexual assault by penetration](section/2.md)
+  - Sexual assault and other sexual offences
+    - [s. 3 Sexual assault](section/3.md)
+    - [s. 4 Sexual coercion](section/4.md)
+    - [s. 5 Coercing a person into being present during a sexual activity](section/5.md)
+    - [s. 6 Coercing a person into looking at a sexual image](section/6.md)
+    - [s. 7 Communicating indecently etc.](section/7.md)
+    - [s. 8 Sexual exposure](section/8.md)
+    - [s. 9 Voyeurism](section/9.md)
+    - [s. 10 Interpretation of section 9](section/10.md)
+    - [s. 11 Administering a substance for sexual purposes](section/11.md)
+- Part 2 Consent and reasonable belief
+  - Consent
+    - [s. 12 Meaning of “consent” and related expressions](section/12.md)
+    - [s. 13 Circumstances in which conduct takes place without free agreement](section/13.md)
+    - [s. 14 Consent: capacity while asleep or unconscious](section/14.md)
+    - [s. 15 Consent: scope and withdrawal](section/15.md)
+  - Reasonable belief
+    - [s. 16 Reasonable belief](section/16.md)
+- Part 3 Mentally disordered persons
+  - Mentally disordered persons
+    - [s. 17 Capacity to consent](section/17.md)
+- Part 4 Children
+  - Young children
+    - [s. 18 Rape of a young child](section/18.md)
+    - [s. 19 Sexual assault on a young child by penetration](section/19.md)
+    - [s. 20 Sexual assault on a young child](section/20.md)
+    - [s. 21 Causing a young child to participate in a sexual activity](section/21.md)
+    - [s. 22 Causing a young child to be present during a sexual activity](section/22.md)
+    - [s. 23 Causing a young child to look at a sexual image](section/23.md)
+    - [s. 24 Communicating indecently with a young child etc.](section/24.md)
+    - [s. 25 Sexual exposure to a young child](section/25.md)
+    - [s. 26 Voyeurism towards a young child](section/26.md)
+    - [s. 27 Belief that child had attained the age of 13 years](section/27.md)
+  - Older children
+    - [s. 28 Having intercourse with an older child](section/28.md)
+    - [s. 29 Engaging in penetrative sexual activity with or towards an older child](section/29.md)
+    - [s. 30 Engaging in sexual activity with or towards an older child](section/30.md)
+    - [s. 31 Causing an older child to participate in a sexual activity](section/31.md)
+    - [s. 32 Causing an older child to be present during a sexual activity](section/32.md)
+    - [s. 33 Causing an older child to look at a sexual image](section/33.md)
+    - [s. 34 Communicating indecently with an older child etc.](section/34.md)
+    - [s. 35 Sexual exposure to an older child](section/35.md)
+    - [s. 36 Voyeurism towards an older child](section/36.md)
+    - [s. 37 Older children engaging in sexual conduct with each other](section/37.md)
+    - [s. 38 Penetration and consent for the purposes of section 37](section/38.md)
+    - [s. 39 Defences in relation to offences against older children](section/39.md)
+  - General
+    - [s. 40 Special provision as regards failure to establish whether child has or has not attained certain ages](section/40.md)
+    - [s. 41 Special provision as regards age: deeming provisions](section/41.md)
+- Part 5 Abuse of position of trust
+  - Children
+    - [s. 42 Sexual abuse of trust](section/42.md)
+    - [s. 43 Positions of trust](section/43.md)
+    - [s. 44 Interpretation of section 43](section/44.md)
+    - [s. 45 Sexual abuse of trust: defences](section/45.md)
+  - Mentally disordered persons
+    - [s. 46 Sexual abuse of trust of a mentally disordered person](section/46.md)
+    - [s. 47 Sexual abuse of trust of a mentally disordered person: defences](section/47.md)
+- Part 6 Penalties
+  - Penalties
+    - [s. 48 Penalties](section/48.md)
+- Part 7 Miscellaneous and general
+  - Miscellaneous
+    - [s. 49 Establishment of purpose for the purposes of sections 5 to 9, 22 to 26 and 32 to 36](section/49.md)
+    - [s. 50 Power to convict for offence other than that charged](section/50.md)
+    - [s. 51 Exceptions to inciting or being involved art and part in offences under Part 4 or 5](section/51.md)
+    - [s. 52 Common law offences](section/52.md)
+    - [s. 53 Continuity of law on sexual offences](section/53.md)
+    - [s. 54 Incitement to commit certain sexual acts outside Scotland](section/54.md)
+    - [s. 54A Offences committed outside Scotland](section/54A.md)
+    - [s. 54B Offence committed by virtue of section 54A(1): limitations on prosecution](section/54B.md)
+    - [s. 54C Listed offence: limitations on prosecution if country not specified](section/54C.md)
+    - [s. 54D Offences committed outside the United Kingdom: adult victims](section/54D.md)
+    - [s. 55 Offences committed outside the United Kingdom: child victims](section/55.md)
+    - [s. 56 Section 55: continuity of law](section/56.md)
+  - General provisions
+    - [s. 57 Offences by bodies corporate etc.](section/57.md)
+    - [s. 58 Ancillary provision](section/58.md)
+    - [s. 59 Orders](section/59.md)
+    - [s. 60 Interpretation](section/60.md)
+    - [s. 61 Modification of enactments](section/61.md)
+    - [s. 62 Short title and commencement](section/62.md)
+- SCHEDULE 1 Relevant sexual offences
+  - Part 1 Offences that may currently be committed
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part 2 Offences replaced by an offence in Part 1 or this Part
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+- SCHEDULE 2 Penalties
+- SCHEDULE 3 Alternative verdicts
+- SCHEDULE 4 Listed offences
+  - Part 1 Incitement to commit certain sexual acts outside UK
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 2 Offences committed outside UK
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Criminal Injuries Compensation Act 1995 (c. 53)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - The Protection of Children (Scotland) Act 2003 (asp 5)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Sexual Offences Act 2003 (c. 42)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - The Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Repeals
