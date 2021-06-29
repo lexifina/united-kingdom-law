@@ -2,9 +2,9 @@
 
 2011 c. 23. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-04-30, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-29, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/23/2021-04-30
+Source: https://www.legislation.gov.uk/ukpga/2011/23/2021-06-29
 
 ## Contents
 
@@ -13,8 +13,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2021-04-30
   - [s. 2 Imposition of terrorism prevention and investigation measures](section/2.md)
   - [s. 3 Conditions A to E](section/3.md)
   - [s. 4 Involvement in terrorism-related activity](section/4.md)
-- Two year limit on imposition of measures without new terrorism-related activity
-  - [s. 5 Two year limit for TPIM notices](section/5.md)
+- Duration of measures
+  - [s. 5 Five year limit for TPIM notices](section/5.md)
 - Court scrutiny of imposition of measures
   - [s. 6 Prior permission of the court](section/6.md)
   - [s. 7 Urgent cases: reference to the court etc](section/7.md)
@@ -52,7 +52,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2021-04-30
   - [s. 31 Short title, commencement and extent](section/31.md)
 - SCHEDULE 1 Terrorism prevention and investigation measures
   - Part 1 Measures
-    - Overnight residence measure
+    - ... Residence measure
       - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
     - Travel measure
       - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
@@ -74,12 +74,18 @@ Source: https://www.legislation.gov.uk/ukpga/2011/23/2021-04-30
       - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
     - Reporting measure
       - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Polygraph measure
+      - [Sch. 1 para. 10ZA](schedule/1/paragraph/10ZA.md)
+    - Drug testing measure
+      - [Sch. 1 para. 10ZB](schedule/1/paragraph/10ZB.md)
     - Appointments measure
       - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
     - Photography measure
       - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
     - Monitoring measure
       - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Provision of residence information measure
+      - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
   - Part 2 Permission and notices
     - Permission
       - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
