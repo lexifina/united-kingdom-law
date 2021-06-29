@@ -2,9 +2,9 @@
 
 2015 c. 9. Enacted 2015-03-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-02-10, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-29, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/9/2021-02-10
+Source: https://www.legislation.gov.uk/ukpga/2015/9/2021-06-29
 
 ## Contents
 
@@ -110,6 +110,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/9/2021-02-10
     - [s. 75 Guidance about female genital mutilation](section/75.md)
   - Domestic abuse
     - [s. 76 Controlling or coercive behaviour in an intimate or family relationship](section/76.md)
+    - [s. 76A Offences under section 76 committed outside the United Kingdom](section/76A.md)
     - [s. 77 Guidance about investigation of offences under section 76](section/77.md)
 - PART 6 Miscellaneous and general
   - Miscellaneous
