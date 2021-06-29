@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-04-30, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-29, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-06-29
 
 ## Contents
 
@@ -95,7 +95,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
     - CHAPTER 2 Sentencing guidelines
       - [s. 59 Sentencing guidelines: general duty of court](section/59.md)
       - [s. 60 Sentencing guidelines: determination of sentence](section/60.md)
-      - [s. 61 Sentencing guidelines: extended sentences and life sentences](section/61.md)
+      - [s. 61 Sentencing guidelines: extended sentences, serious terrorism sentences and life sentences](section/61.md)
       - [s. 62 Sentencing guidelines duties: interpretation](section/62.md)
     - CHAPTER 3 Seriousness and determining sentence
       - Generally
@@ -383,6 +383,10 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
         - [s. 266 Extended sentence of detention in a young offender institution for certain violent, sexual or terrorism offences](section/266.md)
         - [s. 267 Extended sentence of detention in a young offender institution: availability](section/267.md)
         - [s. 268 Term of extended sentence of detention in a young offender institution](section/268.md)
+      - Serious terrorism sentence
+        - [s. 268A Serious terrorism sentence of detention in a young offender institution](section/268A.md)
+        - [s. 268B Serious terrorism sentence of detention in a young offender institution: circumstances in which required](section/268B.md)
+        - [s. 268C Term of serious terrorism sentence of detention in a young offender institution](section/268C.md)
       - Detention in a young offender institution: consecutive sentences etc
         - [s. 269 Detention in a young offender institution: consecutive sentences](section/269.md)
         - [s. 270 Sentence of detention in a young offender institution where offender subject to detention and training order](section/270.md)
@@ -404,6 +408,10 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
         - [s. 280 Extended sentence of imprisonment: availability](section/280.md)
         - [s. 281 Term of extended sentence of imprisonment](section/281.md)
         - [s. 282 Extended sentences for offences committed before 4 April 2005](section/282.md)
+      - Serious terrorism sentence
+        - [s. 282A Serious terrorism sentence of imprisonment: persons 21 or over](section/282A.md)
+        - [s. 282B Serious terrorism sentence of imprisonment: circumstances in which required](section/282B.md)
+        - [s. 282C Term of serious terrorism sentence of imprisonment](section/282C.md)
       - Life sentences
         - [s. 283 Life sentence for second listed offence](section/283.md)
         - [s. 284 Required life sentence where second offence committed before 4 April 2005](section/284.md)
@@ -594,7 +602,22 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
     - [s. 418 Commencement of Schedule 26](section/418.md)
     - [s. 419 Power to state effect of commencement provisions](section/419.md)
     - [s. 420 Short title](section/420.md)
-- SCHEDULE 1 Offences where terrorist connection to be considered
+- SCHEDULE A1 Offences where terrorist connection not required to be considered
+  - Terrorism Act 2000
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Anti-terrorism, Crime and Security Act 2001
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Terrorism Act 2006
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Counter-Terrorism Act 2008
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Terrorism Prevention and Investigation Measures 2011
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Counter-Terrorism and Security Act 2015
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - Inchoate offences
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+- SCHEDULE 1 Offences committed before the commencement of section 1 of the Counter-Terrorism and Sentencing Act 2021 where terrorist connection to be considered
   - Common law offences
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
@@ -1342,6 +1365,58 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
       - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
   - PART 10 Interpretation
     - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
+- SCHEDULE 17A Serious terrorism offences
+  - PART 1 Terrorism offences
+    - Terrorism Act 2000
+      - [Sch. 17A para. 1](schedule/17A/paragraph/1.md)
+    - Terrorism Act 2006
+      - [Sch. 17A para. 2](schedule/17A/paragraph/2.md)
+    - Inchoate offences
+      - [Sch. 17A para. 3](schedule/17A/paragraph/3.md)
+  - PART 2 Other offences (in case where determination of terrorist connection under section 69 is made)
+    - Common law offences
+      - [Sch. 17A para. 4](schedule/17A/paragraph/4.md)
+      - [Sch. 17A para. 5](schedule/17A/paragraph/5.md)
+      - [Sch. 17A para. 6](schedule/17A/paragraph/6.md)
+    - Offences against the Person Act 1861
+      - [Sch. 17A para. 7](schedule/17A/paragraph/7.md)
+    - Explosive Substances Act 1883
+      - [Sch. 17A para. 8](schedule/17A/paragraph/8.md)
+    - Infant Life (Preservation) Act 1929
+      - [Sch. 17A para. 9](schedule/17A/paragraph/9.md)
+    - Infanticide Act 1938
+      - [Sch. 17A para. 10](schedule/17A/paragraph/10.md)
+    - Firearms Act 1968
+      - [Sch. 17A para. 11](schedule/17A/paragraph/11.md)
+    - Theft Act 1968
+      - [Sch. 17A para. 12](schedule/17A/paragraph/12.md)
+    - Criminal Damage Act 1971
+      - [Sch. 17A para. 13](schedule/17A/paragraph/13.md)
+    - Biological Weapons Act 1974
+      - [Sch. 17A para. 14](schedule/17A/paragraph/14.md)
+    - Taking of Hostages Act 1982
+      - [Sch. 17A para. 15](schedule/17A/paragraph/15.md)
+    - Aviation Security Act 1982
+      - [Sch. 17A para. 16](schedule/17A/paragraph/16.md)
+    - Nuclear Material (Offences) Act 1983
+      - [Sch. 17A para. 17](schedule/17A/paragraph/17.md)
+    - Criminal Justice Act 1988
+      - [Sch. 17A para. 18](schedule/17A/paragraph/18.md)
+    - Aviation and Maritime Security Act 1990
+      - [Sch. 17A para. 19](schedule/17A/paragraph/19.md)
+    - Channel Tunnel (Security) Order 1994
+      - [Sch. 17A para. 20](schedule/17A/paragraph/20.md)
+    - Chemical Weapons Act 1996
+      - [Sch. 17A para. 21](schedule/17A/paragraph/21.md)
+    - International Criminal Court Act 2001
+      - [Sch. 17A para. 22](schedule/17A/paragraph/22.md)
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 17A para. 23](schedule/17A/paragraph/23.md)
+    - Modern Slavery Act 2015
+      - [Sch. 17A para. 24](schedule/17A/paragraph/24.md)
+    - Inchoate offences
+      - [Sch. 17A para. 25](schedule/17A/paragraph/25.md)
+      - [Sch. 17A para. 26](schedule/17A/paragraph/26.md)
 - SCHEDULE 18 Specified offences for purposes of section 306
   - PART 1 Specified violent offences
     - Common law offences
@@ -1364,10 +1439,14 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
       - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
     - Criminal Damage Act 1971
       - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - Biological Weapons Act 1974
+      - [Sch. 18 para. 11A](schedule/18/paragraph/11A.md)
     - Taking of Hostages Act 1982
       - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
     - Aviation Security Act 1982
       - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - Nuclear Material (Offences) Act 1983
+      - [Sch. 18 para. 13A](schedule/18/paragraph/13A.md)
     - Mental Health Act 1983
       - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
     - Prohibition of Female Circumcision Act 1985
@@ -1382,6 +1461,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
       - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
     - Channel Tunnel (Security) Order 1994
       - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - Chemical Weapons Act 1996
+      - [Sch. 18 para. 20A](schedule/18/paragraph/20A.md)
     - Protection from Harassment Act 1997
       - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
     - Crime and Disorder Act 1998
@@ -1563,6 +1644,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
       - [Sch. 22 para. 36](schedule/22/paragraph/36.md)
       - [Sch. 22 para. 37](schedule/22/paragraph/37.md)
       - [Sch. 22 para. 38](schedule/22/paragraph/38.md)
+      - [Sch. 22 para. 38A](schedule/22/paragraph/38A.md)
+      - [Sch. 22 para. 38B](schedule/22/paragraph/38B.md)
       - [Sch. 22 para. 39](schedule/22/paragraph/39.md)
       - [Sch. 22 para. 40](schedule/22/paragraph/40.md)
       - [Sch. 22 para. 41](schedule/22/paragraph/41.md)
@@ -1583,6 +1666,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
       - [Sch. 22 para. 55](schedule/22/paragraph/55.md)
       - [Sch. 22 para. 56](schedule/22/paragraph/56.md)
       - [Sch. 22 para. 57](schedule/22/paragraph/57.md)
+      - [Sch. 22 para. 57A](schedule/22/paragraph/57A.md)
+      - [Sch. 22 para. 57B](schedule/22/paragraph/57B.md)
       - [Sch. 22 para. 58](schedule/22/paragraph/58.md)
       - [Sch. 22 para. 59](schedule/22/paragraph/59.md)
       - [Sch. 22 para. 60](schedule/22/paragraph/60.md)
@@ -1594,6 +1679,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-04-30
       - [Sch. 22 para. 66](schedule/22/paragraph/66.md)
       - [Sch. 22 para. 67](schedule/22/paragraph/67.md)
       - [Sch. 22 para. 68](schedule/22/paragraph/68.md)
+      - [Sch. 22 para. 68A](schedule/22/paragraph/68A.md)
       - [Sch. 22 para. 69](schedule/22/paragraph/69.md)
       - [Sch. 22 para. 70](schedule/22/paragraph/70.md)
       - [Sch. 22 para. 71](schedule/22/paragraph/71.md)
