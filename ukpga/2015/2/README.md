@@ -2,9 +2,9 @@
 
 2015 c. 2. Enacted 2015-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-04-01, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-06-29, one file per provision. Earlier versions, from 2015-02-12, are in the history before it: `git log -- ukpga/2015/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/2/2021-04-01
+Source: https://www.legislation.gov.uk/ukpga/2015/2/2021-06-29
 
 ## Contents
 
@@ -51,7 +51,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/2/2021-04-01
     - [s. 31 Mutual recognition of driving disqualification in UK and Republic of Ireland](section/31.md)
   - Offences involving intent to cause distress etc
     - [s. 32 Sending letters etc with intent to cause distress or anxiety](section/32.md)
-    - [s. 33 Disclosing private sexual photographs and films with intent to cause distress](section/33.md)
+    - [s. 33 Disclosing, or threatening to disclose, private sexual photographs and films with intent to cause distress](section/33.md)
     - [s. 34 Meaning of “disclose” and “photograph or film”](section/34.md)
     - [s. 35 Meaning of “private” and “sexual”](section/35.md)
   - Offences involving sexual grooming or pornographic images
@@ -299,7 +299,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/2/2021-04-01
       - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
     - Saving for pre-1 December 2014 cases
       - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
-- SCHEDULE 8 Disclosing private sexual photographs or films: providers of information society services
+- SCHEDULE 8 Disclosing, or threatening to disclose, private sexual photographs or films: providers of information society services
   - England and Wales service providers: extension of liability
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
   - Non-UK service providers: restriction on institution of proceedings
