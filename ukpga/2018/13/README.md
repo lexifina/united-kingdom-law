@@ -2,9 +2,9 @@
 
 2018 c. 13. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-05-27, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-07-01, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/13/2021-05-27
+Source: https://www.legislation.gov.uk/ukpga/2018/13/2021-07-01
 
 ## Contents
 
@@ -165,6 +165,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2021-05-27
     - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
   - Extra-territorial application
     - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
   - Money Laundering Regulations 2017
     - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
   - Interpretation
