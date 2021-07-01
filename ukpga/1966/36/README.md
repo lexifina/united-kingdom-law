@@ -1,0 +1,126 @@
+# Veterinary Surgeons Act 1966
+
+1966 c. 36. Enacted 1966-11-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1966/36/2021-07-01
+
+## Contents
+
+- The Council
+  - [s. 1 The Council of the Royal College of Veterinary Surgeons.](section/1.md)
+- ...
+  - [s. 1A Functions of the College as competent authority](section/1A.md)
+- Registration and qualification for registration
+  - [s. 2 Register of veterinary surgeons.](section/2.md)
+  - [s. 3 Right of holders of university degrees to be registered.](section/3.md)
+  - [s. 4 Examination by the College of students of certain universities.](section/4.md)
+  - [s. 5 Supervisory functions of the Council.](section/5.md)
+  - [s. 5A Registration of Community rights entitled persons: European qualifications](section/5A.md)
+  - [s. 5B Registration of Community rights entitled persons: knowledge and skill](section/5B.md)
+  - [s. 5ZBA Requirement to demonstrate knowledge of language](section/5ZBA.md)
+  - [s. 5BA Removal from the register of names of persons who cease to be Community rights entitled persons](section/5BA.md)
+  - [s. 5C Appeals in connection with registration under section 5A](section/5C.md)
+  - [s. 5CA Appeals in connection with registration under section 5B](section/5CA.md)
+  - [s. 5CB Appeals in connection with the visiting European list](section/5CB.md)
+  - [s. 5CC Appeals in connection with removal under section 5BA](section/5CC.md)
+  - [s. 5CCA Appeals in connection with alerts sent to other competent authorities](section/5CCA.md)
+  - [s. 5CD Appeals under sections 5C, 5CA 5CB, 5CC and 5CCA](section/5CD.md)
+  - [s. 5CE Appeals from decisions on appeals under sections 5C, 5CA, 5CB, 5CC and 5CCA](section/5CE.md)
+  - [s. 5D Registration appeals committee](section/5D.md)
+  - [s. 6 Qualification for registration as a Commonwealth or foreign practitioner.](section/6.md)
+  - [s. 7 Temporary registration.](section/7.md)
+  - [s. 5CBn1 Visiting European veterinary surgeons](section/5CBn1.md)
+  - [s. 8 Supplementary veterinary register.](section/8.md)
+- Supplementary provisions as to the register and registration
+  - [s. 9 Keeping, evidential effect and publication of the register.](section/9.md)
+  - [s. 10 Procedure for registration.](section/10.md)
+  - [s. 11 Power to make regulations, etc., with respect to the register.](section/11.md)
+  - [s. 12 Abbreviations of qualifications granted abroad.](section/12.md)
+  - [s. 13 Removal of names of deceased persons and of those who have ceased to practise.](section/13.md)
+  - [s. 14 Incorrect and fraudulent entries in the register.](section/14.md)
+- Disciplinary and similar proceedings
+  - [s. 15 Preliminary investigation and disciplinary committees.](section/15.md)
+  - [s. 16 Removal of names from register for crime or disgraceful conduct.](section/16.md)
+  - [s. 17 Appeals in disciplinary and other cases.](section/17.md)
+  - [s. 18 Restoration of name after removal or suspension.](section/18.md)
+- Restriction of practice of veterinary surgery
+  - [s. 19 Restriction of practice of veterinary surgery by unqualified persons.](section/19.md)
+  - [s. 20 Prohibition of use of practitioners’ titles by unqualified persons.](section/20.md)
+- Agreements with the Republic of Ireland
+  - [s. 21 Power to give effect to agreements with the Republic of Ireland.](section/21.md)
+- Miscellaneous and general
+  - [s. 22 Default powers of the Privy Council.](section/22.md)
+  - [s. 23 Exercise of powers conferred on the Privy Council.](section/23.md)
+  - [s. 24 Exemption from jury service.](section/24.md)
+  - [s. 25 Regulations, rules and orders.](section/25.md)
+  - [s. 26 Notices.](section/26.md)
+  - [s. 27 Interpretation.](section/27.md)
+  - [s. 28 Repeal, saving and transitional provisions.](section/28.md)
+  - [s. 29 Short title, extent and commencement.](section/29.md)
+- SCHEDULE 1 Provisions as to the Council
+  - Tenure of office of members and of President and Vice-Presidents
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+    - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Elections, appointments and casual vacancies
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Supplementary
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 1A REGISTRATION OF COMMUNITY RIGHTS ENTITLED PERSONS: EUROPEAN QUALIFICATION
+  - Recognised European qualifications
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Other qualifications acquired prior to member State membership of the European Union
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Other qualifications granted in relevant European States
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - TABLE A
+    - ...
+  - TABLE B
+    - Other qualifications acquired prior to member State membership of the European Union
+- SCHEDULE 1B VISITING VETERINARY SURGEONS FROM RELEVANT EUROPEAN STATES
+  - [Sch. 1B para. 1 Application and interpretation](schedule/1B/paragraph/1.md)
+  - [Sch. 1B para. 2 Application and interpretation](schedule/1B/paragraph/2.md)
+  - [Sch. 1B para. 3 Registration in respect of the provision of occasional veterinary services](schedule/1B/paragraph/3.md)
+  - [Sch. 1B para. 4 Entitlement to provide occasional veterinary services: first year](schedule/1B/paragraph/4.md)
+  - [Sch. 1B para. 5 First provision of services: required documents](schedule/1B/paragraph/5.md)
+  - [Sch. 1B para. 6 Entitlement to provide occasional services after first year: renewals](schedule/1B/paragraph/6.md)
+  - [Sch. 1B para. 7 Duration of entitlements to provide occasional services](schedule/1B/paragraph/7.md)
+  - [Sch. 1B para. 8 Registrar’s duty to notify person appearing not to have entitlement](schedule/1B/paragraph/8.md)
+- SCHEDULE 2 Preliminary Investigation and Disciplinary Committees
+  - PARTI Constitution of the committees
+    - [Sch. 2 para. 1 Constitution of the committees](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Constitution of the committees](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Constitution of the committees](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 3A Transitional provision](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 3B Interpretation](schedule/2/paragraph/3B.md)
+  - Part II Procedure of Disciplinary Committee
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Exemptions from Restrictions on Practice of Veterinary Surgery
+  - Part I Treatment and Operations which may be Given or Carried Out by Unqualified Persons
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Exclusions from Provisions of Part I
+- SCHEDULE 4 Enactments Repealed
