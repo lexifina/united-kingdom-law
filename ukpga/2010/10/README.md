@@ -2,9 +2,9 @@
 
 2010 c. 10. Enacted 2010-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-06-26, one file per provision. Earlier versions, from 2010-03-25, are in the history before it: `git log -- ukpga/2010/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-07-08, one file per provision. Earlier versions, from 2010-03-25, are in the history before it: `git log -- ukpga/2010/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/10/2020-06-26
+Source: https://www.legislation.gov.uk/ukpga/2010/10/2021-07-08
 
 ## Contents
 
@@ -39,7 +39,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/10/2020-06-26
   - [s. 19A Interpretation](section/19A.md)
   - [s. 20 Amendments, transitionals, repeals, etc](section/20.md)
   - [s. 21 Short title, commencement and extent](section/21.md)
-- SCHEDULEA1 Administration under relevant sectoral legislation
+- SCHEDULE A1 Administration under relevant sectoral legislation
   - List of Enactments
     - Aviation
     - Energy
