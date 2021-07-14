@@ -1,0 +1,183 @@
+# Violent Crime Reduction Act 2006
+
+2006 c. 38. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-07-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
+
+Source: https://www.legislation.gov.uk/ukpga/2006/38/2021-07-14
+
+## Contents
+
+- Part 1 Alcohol-related violence and disorder
+  - Chapter 1 Drinking banning orders
+    - Introductory
+      - [s. 1 Drinking banning orders](section/1.md)
+      - [s. 2 Duration of drinking banning orders](section/2.md)
+    - Orders made on application
+      - [s. 3 Orders on an application to magistrates’ court](section/3.md)
+      - [s. 4 Orders in county court proceedings](section/4.md)
+      - [s. 5 Variation or discharge of orders under s. 3 or 4](section/5.md)
+    - Orders made on conviction
+      - [s. 6 Orders on conviction in criminal proceedings](section/6.md)
+      - [s. 7 Supplementary provision about orders on conviction](section/7.md)
+      - [s. 8 Variation or discharge of orders under s. 6](section/8.md)
+    - Supplemental provisions about drinking banning orders
+      - [s. 9 Interim orders](section/9.md)
+      - [s. 10 Appeals](section/10.md)
+      - [s. 11 Breach of drinking banning orders](section/11.md)
+      - [s. 12 Approved courses](section/12.md)
+      - [s. 13 Certificates of completion of approved courses](section/13.md)
+      - [s. 14 Interpretation of Chapter 1](section/14.md)
+  - Chapter 2 Alcohol Disorder Zones
+    - [s. 15 Power to impose charges on licence holders etc. in zones](section/15.md)
+    - [s. 16 Designation of alcohol disorder zones](section/16.md)
+    - [s. 17 Procedure for designation of zones](section/17.md)
+    - [s. 18 Functions of local chief officer of police](section/18.md)
+    - [s. 19 Guidance about the designation of zones](section/19.md)
+    - [s. 20 Supplemental provisions for Chapter 2](section/20.md)
+  - Chapter 3 Other provisions
+    - Licence reviews
+      - [s. 21 Power of police to require review of premises licence](section/21.md)
+      - [s. 22 Provisions supplemental to s. 21](section/22.md)
+    - Persistently selling alcohol to children
+      - [s. 23 Offence of persistently selling alcohol to children](section/23.md)
+      - [s. 24 Closure notices for persistently selling alcohol to children](section/24.md)
+    - Door supervision at licensed premises
+      - [s. 25 Mandatory premises licence condition: door supervision](section/25.md)
+    - Alcohol related disorder in public places
+      - [s. 26 Designated public places](section/26.md)
+      - [s. 27 Directions to individuals who represent a risk of disorder](section/27.md)
+- Part 2 Weapons etc.
+  - Dangerous weapons
+    - [s. 28 Using someone to mind a weapon](section/28.md)
+    - [s. 29 Penalties etc. for offence under s. 28](section/29.md)
+  - Minimum sentences for firearms offences
+    - [s. 30 Minimum sentences for certain firearms offences](section/30.md)
+  - Air weapons
+    - [s. 31 Prohibition on sale or transfer of air weapons except by registered dealers](section/31.md)
+    - [s. 32 Sales of air weapons by way of trade or business to be face to face](section/32.md)
+    - [s. 33 Age limits for purchase etc. of air weapons](section/33.md)
+    - [s. 34 Firing an air weapon beyond premises](section/34.md)
+  - Ammunition
+    - [s. 35 Restriction on sale and purchase of primers](section/35.md)
+  - Imitation firearms
+    - [s. 36 Manufacture, import and sale of realistic imitation firearms](section/36.md)
+    - [s. 37 Specific defences applying to the offence under s. 36](section/37.md)
+    - [s. 38 Meaning of “realistic imitation firearm”](section/38.md)
+    - [s. 39 Specification for imitation firearms](section/39.md)
+    - [s. 40 Supplying imitation firearms to minors](section/40.md)
+    - [s. 41 Increase of maximum sentence for possessing an imitation firearm](section/41.md)
+  - Knives, etc.
+    - [s. 42 Increase of maximum sentences for offences of having knives etc.](section/42.md)
+    - [s. 43 Sale etc. of knives and other weapons](section/43.md)
+    - [s. 44 Sale etc. of crossbows](section/44.md)
+    - [s. 45 Power of members of staff to search school pupils for weapons](section/45.md)
+    - [s. 46 Power to search further education students for weapons](section/46.md)
+    - [s. 47 Power to search persons in attendance centres for weapons](section/47.md)
+    - [s. 48 Amendment of police power to search schools etc. for weapons](section/48.md)
+  - Supplemental
+    - [s. 49 Consequential amendments relating to minimum sentences](section/49.md)
+    - [s. 50 Supplemental provisions for Part 2](section/50.md)
+    - [s. 51 Corresponding provision for Northern Ireland](section/51.md)
+- Part 3 Miscellaneous
+  - Football
+    - [s. 52 Football-related disorder](section/52.md)
+    - [s. 53 Sale and disposal of tickets by unauthorised persons](section/53.md)
+  - Sexual offences
+    - [s. 54 Forfeiture and detention of vehicles etc.](section/54.md)
+    - [s. 55 Continuity of sexual offences law](section/55.md)
+    - [s. 56 Cross-border provisions relating to sexual offences](section/56.md)
+    - [s. 57 Amendment of s. 82 of the Sexual Offences Act 2003](section/57.md)
+    - [s. 58 Power of entry and search of relevant offender’s home address](section/58.md)
+  - Other
+    - [s. 59 Limitation period for anti-social behaviour orders](section/59.md)
+    - [s. 60 Parenting orders](section/60.md)
+    - [s. 61 Committal of young persons of unruly character](section/61.md)
+    - [s. 62 Offering or agreeing to re-programme a mobile telephone](section/62.md)
+    - [s. 63 Removal of sports grounds etc. from private security industry regulation](section/63.md)
+- Part 4 General
+  - [s. 64 Expenses](section/64.md)
+  - [s. 65 Repeals](section/65.md)
+  - [s. 66 Short title, commencement and extent](section/66.md)
+- SCHEDULE 1 Consequential amendments relating to minimum sentences
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Weapons etc.: corresponding provisions for Northern Ireland
+  - Using someone to mind a weapon
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Penalties etc. for offence under paragraph 1
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Minimum sentence for certain firearms offences
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Manufacture, import and sale of realistic imitation firearms
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Specification for imitation firearms
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Supplying imitation firearms to minors
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Increase of maximum sentence for possessing an imitation firearm
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Sale etc. of knives and other weapons
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Sale etc. of crossbows
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Amendment of police power to search schools etc. for weapons
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Supplemental
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Football banning orders and football-related consequential amendments
+  - Part 1 Football banning orders
+    - Introductory
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Banning orders: bail conditions
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Appeals against decisions not to make banning orders
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Applications for banning orders under section 14B
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Notification obligations under banning orders
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Duration of banning orders
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Notices during control periods
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Deemed receipt of notices and other documents
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - New relevant offence
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Part 2 Consequential Amendments
+    - Meaning of “spectator” in Part 1
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - General provisions relating to licences to admit spectators
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Declarations of relevance
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Periods relevant to football matches
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Amendments of other enactments
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Forfeiture and detention of vehicles etc.
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Repeals
