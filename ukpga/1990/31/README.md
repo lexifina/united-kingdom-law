@@ -1,0 +1,153 @@
+# Aviation and Maritime Security Act 1990
+
+1990 c. 31. Enacted 1990-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-07-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1990/31/2021-07-29
+
+## Contents
+
+- Part I Aviation Security
+  - Endangering safety at aerodromes
+    - [s. 1 Endangering safety at aerodromes.](section/1.md)
+  - Powers of Secretary of State and authorised persons
+    - [s. 2 Extension of power to require promotion of searches.](section/2.md)
+    - [s. 3 Extension of Secretary of State’s powers under section 14 of Aviation Security Act 1982.](section/3.md)
+    - [s. 4 Enforcement notices in respect of directions under Part II of Aviation Security Act 1982.](section/4.md)
+  - Offences relating to security at aerodromes etc.
+    - [s. 5 Offences relating to security at aerodromes etc.](section/5.md)
+  - Air cargo agents
+    - [s. 6 Air cargo agents.](section/6.md)
+  - Reporting of certain occurrences
+    - [s. 7 Duty to report certain occurrences.](section/7.md)
+  - Other amendments
+    - [s. 8 Other amendments of Aviation Security Act 1982.](section/8.md)
+- Part II Offences against the Safety of Ships and Fixed Platforms
+  - [s. 9 Hijacking of ships.](section/9.md)
+  - [s. 10 Seizing or exercising control of fixed platforms.](section/10.md)
+  - [s. 11 Destroying ships or fixed platforms or endangering their safety.](section/11.md)
+  - [s. 12 Other acts endangering or likely to endanger safe navigation.](section/12.md)
+  - [s. 13 Offences involving threats.](section/13.md)
+  - [s. 14 Ancillary offences.](section/14.md)
+  - [s. 15 Master’s power of delivery.](section/15.md)
+  - [s. 16 Prosecution of offences and proceedings.](section/16.md)
+  - [s. 17 Interpretation of Part II.](section/17.md)
+- Part III Protection of Ships and Harbour Areas against Acts of Violence
+  - General purposes
+    - [s. 18 Purposes to which Part III applies.](section/18.md)
+  - Powers of Secretary of State
+    - [s. 19 Power of Secretary of State to require information.](section/19.md)
+    - [s. 20 Designation of restricted zones of harbour areas.](section/20.md)
+    - [s. 21 Power to impose restrictions in relation to ships.](section/21.md)
+    - [s. 22 Power to require harbour authorities to promote searches in harbour areas.](section/22.md)
+    - [s. 23 Power to require other persons to promote searches.](section/23.md)
+    - [s. 24 General power to direct measures to be taken for purposes to which Part III applies.](section/24.md)
+  - Supplemental provisions with respect to directions
+    - [s. 25 Matters which may be included in directions under sections 21 to 24.](section/25.md)
+    - [s. 26 Limitations on scope of directions under sections 21 to 24.](section/26.md)
+    - [s. 27 General or urgent directions under sections 21 to 24.](section/27.md)
+    - [s. 28 Objections to certain directions under section 24.](section/28.md)
+    - [s. 29 Enforcement notices.](section/29.md)
+    - [s. 30 Contents of enforcement notice.](section/30.md)
+    - [s. 31 Offences relating to enforcement notices.](section/31.md)
+    - [s. 32 Objections to enforcement notices.](section/32.md)
+    - [s. 33 Enforcement notices: supplementary.](section/33.md)
+    - [s. 34 Operation of directions under Part III in relation to rights and duties under other laws.](section/34.md)
+    - [s. 35 Detention of ships.](section/35.md)
+    - [s. 36 Inspection of ships and harbour areas.](section/36.md)
+    - [s. 36A Maritime security services: approved providers](section/36A.md)
+  - Offences relating to security of ships and harbour areas.
+    - [s. 37 False statements relating to baggage, cargo etc.](section/37.md)
+    - [s. 38 False statements in connection with identity documents.](section/38.md)
+    - [s. 39 Unauthorised presence in restricted zone.](section/39.md)
+    - [s. 40 Offences relating to authorised persons.](section/40.md)
+  - Sea cargo agents
+    - [s. 41 Sea cargo agents.](section/41.md)
+  - Reporting of certain occurrences
+    - [s. 42 Duty to report certain occurrences.](section/42.md)
+  - General supplemental provisions
+    - [s. 43 Compensation in respect of certain measures taken under Part III.](section/43.md)
+    - [s. 44 Annual report by Secretary of State as to notices and directions under Part III.](section/44.md)
+    - [s. 45 Service of documents.](section/45.md)
+    - [s. 46 Interpretation of Part III.](section/46.md)
+- Part IV Miscellaneous and General
+  - Miscellaneous
+    - [s. 47 Carriage of goods by air.](section/47.md)
+    - [s. 48 Powers in relation to certain aircraft.](section/48.md)
+    - [s. 48A Application of Act to medium-range rockets](section/48A.md)
+  - General
+    - [s. 49 Extradition by virtue of Orders in Council under section 2 of Extradition Act 1870.](section/49.md)
+    - [s. 50 Offences by bodies corporate.](section/50.md)
+    - [s. 51 Extension of Act outside the United Kingdom.](section/51.md)
+    - [s. 52 Expenses.](section/52.md)
+    - [s. 53 Minor and consequential amendments and repeals.](section/53.md)
+    - [s. 54 Short title, commencement and extent.](section/54.md)
+- SCHEDULE 1 Further amendments of the Aviation Security Act 1982
+  - Obstruction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Provision of information
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Designation of restricted zones of aerodromes
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Directions by Secretary of State
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Supplemental provisions with respect to directions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Air navigation installations
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Compensation
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Annual report by Secretary of State
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Service of documents
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Interpretation
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Reimbursement of expenses
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Offences by bodies corporate
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Revocation and variation of directions
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Provisions relating to compensation
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Provisions Relating to Compensation
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - The Visiting Forces Act 1952 (c. 67)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Merchant Shipping Act 1970 (c. 36)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Criminal Jurisdiction Act 1975 (c. 59)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Northern Ireland (Emergency Provisions) Act 1978 (c. 5)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Suppression of Terrorism Act 1978 (c. 26)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Criminal Justice Act 1982 (c. 48)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Extradition Act 1989 (c. 33)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Police and Criminal Evidence (Northern Ireland) Order 1989
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Repeals
