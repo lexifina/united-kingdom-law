@@ -1,0 +1,137 @@
+# Special Educational Needs and Disability Act 2001
+
+2001 c. 10. Enacted 2001-05-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2001/10
+
+Source: https://www.legislation.gov.uk/ukpga/2001/10/2021-09-01
+
+## Contents
+
+- Part 1 SPECIAL EDUCATIONAL NEEDS
+  - Mainstream education
+    - [s. 1 Education in mainstream schools of children with special educational needs](section/1.md)
+  - General duties of local education authorities
+    - [s. 2 Advice and information for parents](section/2.md)
+    - [s. 3 Resolution of disputes](section/3.md)
+    - [s. 4 Compliance with orders](section/4.md)
+  - Appeals
+    - [s. 5 Unopposed appeals](section/5.md)
+    - [s. 6 Maintenance of statement during appeal](section/6.md)
+  - Identification and assessment of educational needs
+    - [s. 7 Duty to inform parent where special educational provision made](section/7.md)
+    - [s. 8 Review or assessment of educational needs at request of responsible body](section/8.md)
+    - [s. 9 Duty to specify named school](section/9.md)
+  - Amendment of statement of special educational needs
+    - [s. 10 Amendment of statement of special educational needs](section/10.md)
+- Part 2 DISABILITY DISCRIMINATION IN EDUCATION
+  - Chapter 1 SCHOOLS
+    - Duties of responsible bodies
+      - [s. 11 Discrimination against disabled pupils and prospective pupils](section/11.md)
+      - [s. 12 Meaning of “discrimination”](section/12.md)
+      - [s. 13 Disabled pupils not to be substantially disadvantaged](section/13.md)
+      - [s. 14 Accessibility strategies and plans](section/14.md)
+      - [s. 15 Accessibility strategies and plans: procedure](section/15.md)
+      - [s. 16 Residual duty of education authorities](section/16.md)
+    - Enforcement
+      - [s. 17 Special Educational Needs and Disability Tribunal](section/17.md)
+      - [s. 18 Jurisdiction and powers of the Tribunal](section/18.md)
+      - [s. 19 Procedure](section/19.md)
+      - [s. 20 Admissions](section/20.md)
+      - [s. 21 Exclusions](section/21.md)
+      - [s. 22 Roles of the Secretary of State and the National Assembly](section/22.md)
+      - [s. 23 Enforcement procedure: Scotland](section/23.md)
+      - [s. 24 Validity and revision of agreements of responsible bodies](section/24.md)
+      - [s. 25 Interpretation](section/25.md)
+  - Chapter 2 FURTHER AND HIGHER EDUCATION
+    - Duties of responsible bodies
+      - [s. 26 Discrimination against disabled students and prospective students](section/26.md)
+      - [s. 27 Meaning of “discrimination”](section/27.md)
+      - [s. 28 Disabled students not to be substantially disadvantaged](section/28.md)
+      - [s. 29 Further education etc. provided by local education authorities and schools](section/29.md)
+    - Enforcement
+      - [s. 30 Right of redress](section/30.md)
+      - [s. 31 Occupation of premises by educational institutions](section/31.md)
+      - [s. 32 Validity and revision of agreements](section/32.md)
+      - [s. 33 Interpretation](section/33.md)
+      - [s. 34 Removal of certain duties of funding bodies](section/34.md)
+  - Chapter 3 MISCELLANEOUS
+    - [s. 35 Extension of role of Disability Rights Commission](section/35.md)
+    - [s. 36 Codes of practice](section/36.md)
+    - [s. 37 Conciliation for disputes under Part 4 of the 1995 Act](section/37.md)
+    - [s. 38 Relationship with other Parts of the 1995 Act](section/38.md)
+    - [s. 39 Application to the Isles of Scilly](section/39.md)
+    - [s. 40 Duty of Teacher Training Agency](section/40.md)
+- Part 3 SUPPLEMENTARY
+  - [s. 41 Expenses of Secretary of State](section/41.md)
+  - [s. 42 Minor amendments and repeals](section/42.md)
+  - [s. 43 Short title, interpretation, commencement and extent](section/43.md)
+- SCHEDULE 1 AMENDMENT TO STATEMENT OF SPECIAL EDUCATIONAL NEEDS
+  - Part 1 PROCEDURE FOR MAKING AMENDMENT TO STATEMENT OF SPECIAL EDUCATIONAL NEEDS
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part 2 APPEALS AGAINST AMENDMENTS TO STATEMENT OF SPECIAL EDUCATIONAL NEEDS
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 RESPONSIBLE BODIES FOR SCHOOLS
+- SCHEDULE 3 AMENDMENT OF SCHEDULE 3 TO THE 1995 ACT
+  - [Sch. 3 para.](schedule/3/paragraph.md)
+  - [Sch. 3 para. n1](schedule/3/paragraph/n1.md)
+- SCHEDULE 4 RESPONSIBLE BODIES FOR EDUCATIONAL INSTITUTIONS
+- SCHEDULE 5 MODIFICATIONS OF CHAPTER 2 OF PART 4 OF THE 1995 ACT
+- SCHEDULE 6 AMENDMENT OF SCHEDULE 4 TO THE 1995 ACT
+- SCHEDULE 7 AMENDMENTS TO THE DISABILITY RIGHTS COMMISSION ACT 1999
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Part 1 THE 1996 ACT
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2 The re-naming of the Tribunal](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5 Annual reports](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6 Contents and service of notices](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11 Proposals to make an assessment](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12 Statements: suitable arrangements made by parents](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13 Procedure regulations](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14 Time limits with respect to assessments](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15 School attendance orders: amendment of statement of special educational needs](schedule/8/paragraph/15.md)
+  - Part 2 OTHER ENACTMENTS
+    - [Sch. 8 para. 16 The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19 The Tribunals and Inquiries Act 1992 (c. 53)](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23 The School Standards and Framework Act 1998 (c. 31)](schedule/8/paragraph/23.md)
+- SCHEDULE 9 REPEALS
