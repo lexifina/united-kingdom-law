@@ -1,0 +1,117 @@
+# Employment Act (Northern Ireland) 2016
+
+nia/2016/15. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-09-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2016/15/2021-09-20
+
+## Contents
+
+- Industrial tribunals
+  - [s. 1 Conciliation before and after institution of proceedings](section/1.md)
+  - [s. 2 Extension of limitation periods to allow conciliation](section/2.md)
+  - [s. 3 Extended power to define “relevant proceedings” for conciliation purposes](section/3.md)
+  - [s. 4 Power to require party to proceedings to pay deposit](section/4.md)
+- Fair Employment Tribunal
+  - [s. 5 Conciliation before and after complaint to Fair Employment Tribunal](section/5.md)
+  - [s. 6 Extension of time limit to allow conciliation](section/6.md)
+  - [s. 7 Power to require party to proceedings to pay deposit](section/7.md)
+- Assessment of matters relating to tribunal proceedings
+  - [s. 8 Assessment of matters relating to tribunal proceedings](section/8.md)
+- Reviews
+  - [s. 9 Review of early conciliation](section/9.md)
+  - [s. 10 Review of Section 8: assessment of matters relating to tribunal proceedings](section/10.md)
+- Employment judges
+  - [s. 11 Employment judges: industrial tribunals](section/11.md)
+  - [s. 12 Employment judges: Fair Employment Tribunal](section/12.md)
+- Protected disclosures
+  - [s. 13 Disclosures not protected unless believed to be made in the public interest](section/13.md)
+  - [s. 14 Power to reduce compensation where disclosure not made in good faith](section/14.md)
+  - [s. 15 Protected disclosures: reporting requirements](section/15.md)
+  - [s. 16 Worker subjected to detriment by co-worker or agent of employer](section/16.md)
+  - [s. 17 Extension of meaning of “worker”](section/17.md)
+- Zero hours workers
+  - [s. 18 Zero hours workers](section/18.md)
+- Gender pay and disclosure of information
+  - [s. 19 Gender pay gap information](section/19.md)
+- Careers guidance
+  - [s. 20 Careers guidance](section/20.md)
+- Apprenticeships
+  - [s. 21 Apprenticeships](section/21.md)
+- Miscellaneous
+  - [s. 22 Indexation of amounts: timing and rounding](section/22.md)
+  - [s. 23 Prohibition on disclosure of information held by the Labour Relations Agency](section/23.md)
+  - [s. 24 Variation in procedures for certain orders and regulations](section/24.md)
+  - [s. 25 Statutory shared parental pay: correction of references](section/25.md)
+  - [s. 26 References to tribunal jurisdictions to which Articles 17 and 27 of the Employment (Northern Ireland) Order 2003 apply](section/26.md)
+- Supplementary
+  - [s. 27 Repeals](section/27.md)
+  - [s. 28 Interpretation](section/28.md)
+  - [s. 29 Commencement](section/29.md)
+  - [s. 30 Short title](section/30.md)
+- SCHEDULE 1 CONCILIATION: MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Employment Rights (Northern Ireland) Order 1996 (NI 16)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Industrial Tribunals (Northern Ireland) Order 1996 (NI 18)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - National Minimum Wage Act 1998 (c. 39)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 EXTENSION OF LIMITATION PERIODS TO ALLOW FOR CONCILIATION
+  - Equal Pay Act (Northern Ireland) 1970 (c. 32)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Trade Union and Labour Relations (Northern Ireland) Order 1995 (NI 12)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Disability Discrimination Act 1995 (c. 50)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Employment Rights (Northern Ireland) Order 1996 (NI 16)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+  - Race Relations (Northern Ireland) Order 1997 (NI 6)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+  - National Minimum Wage Act 1998 (c. 39)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+  - Employment Relations (Northern Ireland) Order 1999 (NI 9)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+- SCHEDULE 3 REPEALS
