@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-09-15, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-09-24, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-09-15
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-09-24
 
 ## Contents
 
@@ -956,7 +956,6 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-09-15
     - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
     - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
     - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
-  - PART 4 Deceased’s wishes etc
     - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
   - PART 5 Interpretation
     - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
