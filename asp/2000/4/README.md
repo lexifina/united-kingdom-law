@@ -1,0 +1,238 @@
+# Adults with Incapacity (Scotland) Act 2000
+
+asp/2000/4. Enacted 2000-05-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2000/4
+
+Source: https://www.legislation.gov.uk/asp/2000/4/2021-09-30
+
+## Contents
+
+- PART 1 GENERAL
+  - General
+    - [s. 1 General principles and fundamental definitions](section/1.md)
+  - Judicial proceedings
+    - [s. 2 Applications and other proceedings and appeals](section/2.md)
+    - [s. 3 Powers of sheriff](section/3.md)
+    - [s. 4 Power of Court of Session or sheriff with regard to nearest relative](section/4.md)
+    - [s. 5 Safeguarding of interests in Court of Session appeals or proceedings](section/5.md)
+  - The Public Guardian
+    - [s. 6 The Public Guardian and his functions](section/6.md)
+    - [s. 7 The Public Guardian: further provision](section/7.md)
+  - Expenses in court proceedings
+    - [s. 8 Expenses in court proceedings](section/8.md)
+  - The Mental Welfare Commission
+    - [s. 9 Functions of the Mental Welfare Commission](section/9.md)
+  - Local authorities
+    - [s. 10 Functions of local authorities](section/10.md)
+  - Intimation
+    - [s. 11 Intimation not required in certain circumstances](section/11.md)
+  - Investigations
+    - [s. 12 Investigations](section/12.md)
+  - Codes of practice
+    - [s. 13 Codes of practice](section/13.md)
+  - Appeal against decision as to incapacity
+    - [s. 14 Appeal against decision as to incapacity](section/14.md)
+- PART 2 CONTINUING POWERS OF ATTORNEY AND WELFARE POWERS OF ATTORNEY
+  - [s. 15 Creation of continuing power of attorney](section/15.md)
+  - [s. 16 Creation and exercise of welfare power of attorney](section/16.md)
+  - [s. 16A Continuing and welfare power of attorney: accompanying certificate](section/16A.md)
+  - [s. 17 Attorney not obliged to act in certain circumstances](section/17.md)
+  - [s. 18 Power of attorney not granted in accordance with this Act](section/18.md)
+  - [s. 19 Registration of continuing or welfare power of attorney](section/19.md)
+  - [s. 19A Electronic copies](section/19A.md)
+  - [s. 20 Powers of sheriff](section/20.md)
+  - [s. 21 Records: attorneys](section/21.md)
+  - [s. 22 Notification to Public Guardian](section/22.md)
+  - [s. 22A Revocation of continuing or welfare power of attorney](section/22A.md)
+  - [s. 23 Resignation of continuing or welfare attorney](section/23.md)
+  - [s. 24 Termination of continuing or welfare power of attorney](section/24.md)
+- Part 3 Accounts and funds
+  - Purposes and application of Part
+    - [s. 24A Intromissions with funds](section/24A.md)
+    - [s. 24B Adults in respect of whom applications may be made](section/24B.md)
+  - Authority to take preliminary steps
+    - [s. 24C Authority to provide information about funds](section/24C.md)
+    - [s. 24D Authority to open account in adult’s name](section/24D.md)
+  - Authority to intromit
+    - [s. 25 Authority to intromit](section/25.md)
+    - [s. 26 Authority to intromit: application](section/26.md)
+  - Withdrawal certificates
+    - [s. 26A Withdrawal certificates](section/26A.md)
+  - Joint and reserve withdrawers
+    - [s. 26B Addition of joint withdrawer](section/26B.md)
+    - [s. 26C Joint withdrawers: supplementary](section/26C.md)
+    - [s. 26D Reserve withdrawers: applications](section/26D.md)
+    - [s. 26E Reserve withdrawers: authority to act](section/26E.md)
+  - Variation of withdrawer’s authority
+    - [s. 26F Variation of withdrawal certificate](section/26F.md)
+  - Authority to transfer funds
+    - [s. 26G Authority to transfer specified sums](section/26G.md)
+  - Applications: general
+    - [s. 27 Applications: general requirements](section/27.md)
+    - [s. 27A Countersigning of applications](section/27A.md)
+    - [s. 27B Medical certificates](section/27B.md)
+    - [s. 27C Intimation of applications](section/27C.md)
+    - [s. 27D Determination of applications: applicant to be fit and proper](section/27D.md)
+    - [s. 27E Determination of applications: opportunity to make representations](section/27E.md)
+    - [s. 27F Referral of application to sheriff](section/27F.md)
+    - [s. 27G Multiple applications etc.](section/27G.md)
+  - Fundholders
+    - [s. 28 Fundholders of adult’s current account and adult’s second account](section/28.md)
+    - [s. 28A Fundholder of original account](section/28A.md)
+    - [s. 29 Fundholder’s liability](section/29.md)
+  - Withdrawers
+    - [s. 30A Notification of change of address](section/30A.md)
+    - [s. 30B Records and inquiries](section/30B.md)
+  - Duration etc. of authority
+    - [s. 31 Duration of withdrawal certificate](section/31.md)
+    - [s. 31A Suspension and termination of authority](section/31A.md)
+    - [s. 31B Renewal of authority to intromit](section/31B.md)
+    - [s. 31C Duration of certificates issued under section 24C, 24D, and 26G etc.](section/31C.md)
+  - Appeals
+    - [s. 31D Appeals](section/31D.md)
+  - Transition from guardianship
+    - [s. 31E Transition from guardianship](section/31E.md)
+  - Miscellaneous
+    - [s. 32n1 Joint accounts](section/32n1.md)
+  - Interpretation
+    - [s. 33n1 Interpretation of Part](section/33n1.md)
+- PART 4 MANAGEMENT OF RESIDENTS’ FINANCES
+  - [s. 35 Application of Part 4](section/35.md)
+  - [s. 36 ................................](section/36.md)
+  - [s. 37 Residents whose affairs may be managed](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 Matters which may be managed](section/39.md)
+  - [s. 40 Supervisory bodies](section/40.md)
+  - [s. 41 Duties and functions of managers of authorised establishment](section/41.md)
+  - [s. 42 Authorisation of named manager to withdraw from resident’s account](section/42.md)
+  - [s. 43 Statement of resident’s affairs](section/43.md)
+  - [s. 44 Resident ceasing to be resident of authorised establishment](section/44.md)
+  - [s. 45 Appeal, revocation etc.](section/45.md)
+  - [s. 46 Disapplication of Part 4](section/46.md)
+- PART 5 MEDICAL TREATMENT AND RESEARCH
+  - [s. 47 Authority of persons responsible for medical treatment](section/47.md)
+  - [s. 48 Exceptions to authority to treat](section/48.md)
+  - [s. 49 Medical treatment where there is an application for intervention or guardianship order](section/49.md)
+  - [s. 50 Medical treatment where guardian etc. has been appointed](section/50.md)
+  - [s. 51 Authority for research](section/51.md)
+  - [s. 52 Appeal against decision as to medical treatment](section/52.md)
+- PART 6 INTERVENTION ORDERS AND GUARDIANSHIP ORDERS
+  - Intervention orders
+    - [s. 53 Intervention orders](section/53.md)
+    - [s. 54 Records: intervention orders](section/54.md)
+    - [s. 55 Notification of change of address](section/55.md)
+    - [s. 56 Registration of intervention order relating to heritable property](section/56.md)
+    - [s. 56A Death of person authorised to intervene](section/56A.md)
+  - Guardianship orders
+    - [s. 57 Application for guardianship order](section/57.md)
+    - [s. 58 Disposal of application](section/58.md)
+    - [s. 59 Who may be appointed as guardian](section/59.md)
+    - [s. 60 Renewal of guardianship order by sheriff](section/60.md)
+    - [s. 61 Registration of guardianship order relating to heritable property](section/61.md)
+  - Joint and substitute guardians
+    - [s. 62 Joint guardians](section/62.md)
+    - [s. 63 Substitute guardian](section/63.md)
+  - Functions etc. of guardian
+    - [s. 64 Functions and duties of guardian](section/64.md)
+    - [s. 65 Records: guardians](section/65.md)
+    - [s. 66 Gifts](section/66.md)
+    - [s. 67 Effect of appointment and transactions of guardian](section/67.md)
+    - [s. 68 Reimbursement and remuneration of guardian](section/68.md)
+    - [s. 69 Forfeiture of guardian’s remuneration](section/69.md)
+    - [s. 70 Non-compliance with decisions of guardian with welfare powers](section/70.md)
+  - Termination and variation of guardianship and replacement, removal or resignation of guardian
+    - [s. 71 Replacement or removal of guardian or recall of guardianship by sheriff](section/71.md)
+    - [s. 72 Discharge of guardian with financial powers](section/72.md)
+    - [s. 73 Recall of powers of guardian](section/73.md)
+    - [s. 73A Recall of chief social work officer’s guardianship powers](section/73A.md)
+    - [s. 74 Variation of guardianship order](section/74.md)
+    - [s. 75 Resignation of guardian](section/75.md)
+    - [s. 75A Death of guardian](section/75A.md)
+    - [s. 76 Change of habitual residence](section/76.md)
+  - Termination of authority to intervene and guardianship on death of adult
+    - [s. 77 Termination of authority to intervene and guardianship on death of adult](section/77.md)
+    - [s. 78 Amendment of registration under section 61 on events affecting guardianship or death of adult](section/78.md)
+    - [s. 79 Protection of third parties: guardianship](section/79.md)
+  - Guardianship orders: children
+    - [s. 79A Guardianship orders: children](section/79A.md)
+- PART 7 MISCELLANEOUS
+  - [s. 80 Future appointment of curator bonis etc. incompetent](section/80.md)
+  - [s. 81 Repayment of funds](section/81.md)
+  - [s. 81A Public Guardian’s power to obtain records](section/81A.md)
+  - [s. 82 Limitation of liability](section/82.md)
+  - [s. 83 Offence of ill-treatment and wilful neglect](section/83.md)
+  - [s. 84 Application to guardians appointed under Criminal Procedure (Scotland) Act 1995](section/84.md)
+  - [s. 84A Application to storage of gametes without adult’s consent where adult is incapable](section/84A.md)
+  - [s. 84B Application to use of human cells to create an embryo in vitro without adult’s consent](section/84B.md)
+  - [s. 85 Jurisdiction and private international law](section/85.md)
+  - [s. 86 Regulations](section/86.md)
+  - [s. 87 Interpretation](section/87.md)
+  - [s. 88 Continuation of existing powers, minor and consequential amendments and repeals](section/88.md)
+  - [s. 89 Citation and commencement](section/89.md)
+- SCHEDULE 1 MANAGERS OF AN ESTABLISHMENT
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 MANAGEMENT OF ESTATE OF ADULT
+  - [Sch. 2 para. 1 Management plan](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Directions from sheriff](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Inventory of estate](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Money](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Powers relating to investment and carrying on of business by guardian](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Purchase or disposal of accommodation](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Accounting and auditing](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Approval of accounts](schedule/2/paragraph/8.md)
+- SCHEDULE 3 JURISDICTION AND PRIVATE INTERNATIONAL LAW
+  - [Sch. 3 para. 1 General](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Appropriate sheriff](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Applicable law](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Recognition and enforcement](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Co-operation, avoidance of conflict of jurisdiction and compliance with the Convention](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 General](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 CONTINUATION OF EXISTING CURATORS, TUTORS, GUARDIANS AND ATTORNEYS UNDER THIS ACT
+  - [Sch. 4 para. 1 Curators and tutors](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Guardians](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Proceedings relating to existing appointments](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Attorneys](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Managers](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Application of Act to persons who become guardians by virtue of this schedule](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Transitional Provisions](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Interpretation](schedule/4/paragraph/8.md)
+- SCHEDULE 5 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - [Sch. 5 para. 1 General](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Defence Act 1842 (c.94)](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 Judicial Factors Act 1849 (c.51)](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4 Improvement of Land Act 1864 (c.114)](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5 Titles to Land (Consolidation) (Scotland) Act 1868 (c.101)](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6 Judicial Factors (Scotland) Act 1889 (c.39)](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7 Heritable Securities (Scotland) Act 1894 (c.44)](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8 National Assistance Act 1948 (c.29)](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9 Offices, Shops and Railway Premises Act 1963 (c.41)](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12 Medicines Act 1968 (c.67)](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13 Sheriff Courts (Scotland) Act 1971 (c.58)](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14 Land Registration (Scotland) Act 1979 (c.33)](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15 Solicitors (Scotland) Act 1980 (c.46)](schedule/5/paragraph/15.md)
+  - [Sch. 5 para. 16 Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c.55)](schedule/5/paragraph/16.md)
+  - [Sch. 5 para. 17 Mental Health (Scotland) Act 1984 (c.36)](schedule/5/paragraph/17.md)
+  - [Sch. 5 para. 18 Insolvency Act 1986 (c.45)](schedule/5/paragraph/18.md)
+  - [Sch. 5 para. 19 Legal Aid (Scotland) Act 1986 (c.47)](schedule/5/paragraph/19.md)
+  - [Sch. 5 para. 20 Financial Services Act 1986 (c.60)](schedule/5/paragraph/20.md)
+  - [Sch. 5 para. 21 Access to Health Records Act 1990 (c.23)](schedule/5/paragraph/21.md)
+  - [Sch. 5 para. 22 Child Support Act 1991 (c.48)](schedule/5/paragraph/22.md)
+  - [Sch. 5 para. 23 Social Security Administration Act 1992 (c.5)](schedule/5/paragraph/23.md)
+  - [Sch. 5 para. 24 Health Service Commissioners Act 1993 (c.46)](schedule/5/paragraph/24.md)
+  - [Sch. 5 para. 25 Clean Air Act 1993 (c.11)](schedule/5/paragraph/25.md)
+  - [Sch. 5 para. 26 Criminal Procedure (Scotland) Act 1995 (c.46)](schedule/5/paragraph/26.md)
+- SCHEDULE 6 REPEALS
