@@ -2,9 +2,9 @@
 
 2020 c. 12. Enacted 2020-06-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-09-29, one file per provision. Earlier versions, from 2020-06-25, are in the history before it: `git log -- ukpga/2020/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-10-01, one file per provision. Earlier versions, from 2020-06-25, are in the history before it: `git log -- ukpga/2020/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/12/2021-09-29
+Source: https://www.legislation.gov.uk/ukpga/2020/12/2021-10-01
 
 ## Contents
 
@@ -538,42 +538,16 @@ Source: https://www.legislation.gov.uk/ukpga/2020/12/2021-09-29
       - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
     - Mutuals’ Deferred Shares Act 2015
       - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
-- SCHEDULE 10 Winding-up petitions: Great Britain
-  - PART 1 Prohibition of petitions on basis of statutory demands
+- SCHEDULE 10 Restriction on Winding-Up Petitions: Great Britain
+  - Restriction on winding-up petitions
     - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-  - PART 2 Restriction on winding-up petitions and orders
-    - Restriction on winding-up petitions: registered companies
-      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
-    - Restriction on winding-up petitions: unregistered companies
-      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
-    - Restriction on winding-up petitions: petitions made before commencement
-      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
-    - Restriction on winding-up orders: registered companies
-      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
-    - Restriction on winding-up orders: unregistered companies
-      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
-    - Restriction on winding-up orders: orders made before commencement
-      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
-    - Modifications of 1986 Act
-      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
-      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
-      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
-      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
-      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
-      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
-      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
-      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
-      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
-      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
-      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
-    - Modification of Insolvency Rules and Rules of Court
-      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
-      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
-    - Interpretation
-      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
-  - PART 3 General
-    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
-    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - Modification of Insolvency Rules and Rules of Court
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Interpretation
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - General
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
 - SCHEDULE 11 RESTRICTION ON WINDING-UP PETITIONS: NORTHERN IRELAND
   - Restriction on winding-up petitions
     - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
