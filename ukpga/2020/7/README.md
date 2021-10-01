@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-09-30, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-10-01, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-09-30
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-01
 
 ## Contents
 
@@ -967,15 +967,10 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-09-30
   - Secure tenancies
     - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
     - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
-  - Flexible tenancies
     - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
-  - Assured tenancies
     - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
-  - Assured shorthold tenancies
     - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
-  - Introductory tenancies
     - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
-  - Demoted tenancies
     - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
   - Consequential modifications in relation to prescribed forms
     - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
