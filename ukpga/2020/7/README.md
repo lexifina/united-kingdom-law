@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-10-01, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-10-28, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-01
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-28
 
 ## Contents
 
@@ -943,22 +943,20 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-01
   - PART 3 Availability of live links in certain magistrates’ court proceedings in Northern Ireland
     - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
 - SCHEDULE 28 Transportation, storage and disposal of dead bodies etc
-  - PART 1 Information about capacity
-    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
-    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
-    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
-    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
-    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
-    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
-    - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
-    - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
-    - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
-    - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
-    - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
-    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
-    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
-  - PART 5 Interpretation
-    - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+  - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+  - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+  - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+  - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+  - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+  - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+  - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+  - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+  - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+  - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+  - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+  - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+  - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+  - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
 - SCHEDULE 29 Residential tenancies in England and Wales: protection from eviction
   - Interpretation
     - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
