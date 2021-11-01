@@ -1,0 +1,155 @@
+# Local Government (Wales) Measure 2009
+
+mwa/2009/2. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/mwa/2009/2
+
+Source: https://www.legislation.gov.uk/mwa/2009/2/2021-11-01
+
+## Contents
+
+- PART 1 LOCAL GOVERNMENT IMPROVEMENT
+  - Meaning of “Welsh improvement authority”
+    - [s. 1 Meaning of “Welsh improvement authority”](section/1.md)
+  - General duty
+    - [s. 2 General duty in relation to improvement](section/2.md)
+  - Improvement objectives
+    - [s. 3 Improvement objectives](section/3.md)
+  - Improvement: supplementary
+    - [s. 4 Aspects of improvement](section/4.md)
+    - [s. 5 Consultation about the general duty and improvement objectives](section/5.md)
+    - [s. 6 The general duty, improvement objectives and consultation: guidance](section/6.md)
+    - [s. 7 Aspects of improvement: amendment](section/7.md)
+  - Performance indicators and standards
+    - [s. 8 Performance indicators and standards](section/8.md)
+  - Collaboration and improvement
+    - [s. 9 Powers to collaborate etc](section/9.md)
+    - [s. 10 Fire and rescue authorities: powers of delegation](section/10.md)
+    - [s. 11 Meaning of “powers of collaboration”](section/11.md)
+    - [s. 12 Duties in relation to powers of collaboration](section/12.md)
+    - [s. 12A Guidance about collaboration between Welsh improvement authorities](section/12A.md)
+  - Improvement planning and information
+    - [s. 13 Collection of information related to performance](section/13.md)
+    - [s. 14 Use of performance information](section/14.md)
+    - [s. 15 Improvement planning and publication of improvement information](section/15.md)
+  - Relevant regulators and their functions
+    - [s. 16 Meaning of “relevant regulators” and “relevant functions”](section/16.md)
+  - Improvement audits and assessments
+    - [s. 17 Improvement information and planning: audit](section/17.md)
+    - [s. 18 Improvement assessments](section/18.md)
+    - [s. 19 Audit and assessment reports](section/19.md)
+    - [s. 20 Response to section 19 reports](section/20.md)
+  - Other functions of the Auditor General for Wales
+    - [s. 21 Special inspections](section/21.md)
+    - [s. 22 Reports of special inspections](section/22.md)
+    - [s. 23 Co-ordination of audit etc](section/23.md)
+    - [s. 24 Annual improvement reports](section/24.md)
+    - [s. 25 Statement of practice](section/25.md)
+    - [s. 26 Inspectors’ powers and duties](section/26.md)
+    - [s. 27 Fees](section/27.md)
+    - [s. 27A Welsh Ministers’ power to prescribe a scale of fees](section/27A.md)
+  - The Welsh Ministers
+    - [s. 28 Welsh Ministers: support for Welsh improvement authorities](section/28.md)
+    - [s. 29 Welsh Ministers: powers of direction etc](section/29.md)
+    - [s. 30 Powers of direction: collaboration arrangements](section/30.md)
+    - [s. 31 Power of Welsh Ministers to modify enactments and confer new powers](section/31.md)
+    - [s. 32 Orders under section 31: procedure](section/32.md)
+  - Miscellaneous and supplemental
+    - [s. 33 Information sharing](section/33.md)
+    - [s. 34 Use of information by regulators](section/34.md)
+    - [s. 35 Part 1: interpretation](section/35.md)
+    - [s. 36 Finance](section/36.md)
+- PART 2 COMMUNITY STRATEGIES AND PLANNING
+  - Community planning
+    - [s. 37 Community planning](section/37.md)
+    - [s. 38 Meaning of “community planning partners”](section/38.md)
+  - Community strategies
+    - [s. 39 Production of community strategy](section/39.md)
+    - [s. 40 Community strategies: duty to review](section/40.md)
+    - [s. 41 Community strategy reviews](section/41.md)
+    - [s. 42 Community strategies: monitoring](section/42.md)
+    - [s. 43 Community strategies: implementation](section/43.md)
+  - Community involvement
+    - [s. 44 Community planning etc: community involvement](section/44.md)
+  - The Welsh Ministers
+    - [s. 45 Community planning etc: guidance](section/45.md)
+    - [s. 46 Community planning etc: role of Welsh Ministers](section/46.md)
+  - Interpretation
+    - [s. 47 Part 2: interpretation etc](section/47.md)
+- PART 3 GENERAL
+  - [s. 48 Guidance](section/48.md)
+  - [s. 49 Directions](section/49.md)
+  - [s. 50 Orders and regulations](section/50.md)
+  - [s. 51 Consequential etc amendments and transitional and saving provision](section/51.md)
+  - [s. 52 Repeals](section/52.md)
+  - [s. 53 Commencement](section/53.md)
+  - [s. 54 Short title](section/54.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS: PART 1
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Local Government Act 1999 (c. 27)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Local Government Act 2003 (c. 26)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - Fire and Rescue Services Act 2004 (c. 21)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - Public Audit (Wales) Act 2004 (c. 23)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL AMENDMENTS: PART 2
+  - ...
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 TRANSITIONAL PROVISION AND SAVINGS
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Community Strategies produced under section 4 of the Local Government Act 2000
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 REPEALS
