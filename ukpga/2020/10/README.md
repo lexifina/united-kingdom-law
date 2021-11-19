@@ -1,0 +1,102 @@
+# Birmingham Commonwealth Games Act 2020
+
+2020 c. 10. Enacted 2020-06-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-11-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2020/10/2021-11-19
+
+## Contents
+
+- PART 1 Organising Committee
+  - [s. 1 Financial assistance](section/1.md)
+  - [s. 2 Annual reporting](section/2.md)
+- PART 2 Association with the Games
+  - [s. 3 Unauthorised association with the Games](section/3.md)
+  - [s. 4 Authorised association](section/4.md)
+  - [s. 5 Exceptions to the prohibition on unauthorised association](section/5.md)
+  - [s. 6 Enforcement of section 3(1) in relation to goods and documents](section/6.md)
+  - [s. 7 Protections for persons with an interest in goods or documents](section/7.md)
+  - [s. 8 Guidance](section/8.md)
+  - [s. 9 Interpretation of Part 2](section/9.md)
+- PART 3 Touting, advertising and trading offences
+  - Touting
+    - [s. 10 Ticket touting offence](section/10.md)
+    - [s. 11 Ticket touting outside the United Kingdom](section/11.md)
+    - [s. 12 Other provision about authorisations under section 10](section/12.md)
+  - Advertising
+    - [s. 13 Advertising offence](section/13.md)
+    - [s. 14 Authorised advertising](section/14.md)
+    - [s. 15 Exceptions to the advertising offence](section/15.md)
+  - Trading
+    - [s. 16 Trading offence](section/16.md)
+    - [s. 17 Authorised trading](section/17.md)
+    - [s. 18 Exceptions for certain kinds of trading](section/18.md)
+    - [s. 19 Power to provide exceptions to the trading offence](section/19.md)
+  - Enforcement
+    - [s. 20 Enforcement of offences under Part 3](section/20.md)
+  - Supplementary and general
+    - [s. 21 Offences by directors, partners, etc](section/21.md)
+    - [s. 22 Existing restrictions to be unaffected](section/22.md)
+    - [s. 23 Guidance and information](section/23.md)
+    - [s. 24 Interpretation of Part 3](section/24.md)
+- PART 4 Transport
+  - [s. 25 Games transport plan](section/25.md)
+  - [s. 26 Temporary prohibition or restriction on roads](section/26.md)
+  - [s. 27 Concurrent exercise of powers of a local traffic authority](section/27.md)
+  - [s. 28 Power to direct a local traffic authority](section/28.md)
+  - [s. 29 Interpretation of Part 4](section/29.md)
+- PART 5 Final provisions
+  - [s. 30 Power to make transitional provision and savings](section/30.md)
+  - [s. 31 Regulations](section/31.md)
+  - [s. 32 Extent](section/32.md)
+  - [s. 33 Commencement and duration](section/33.md)
+  - [s. 34 Short title](section/34.md)
+- SCHEDULE 1 Unauthorised association: providers of information society services
+  - Exceptions for mere conduits
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Exception for caching
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Exception for hosting
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interpretation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Ticket touting: providers of information society services
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Exceptions for mere conduits
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Exception for caching
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Exception for hosting
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Interpretation
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Enforcement of offences under Part 3
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Conditions for seizure and detention under Schedule 5 to the 2015 Act
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Additional powers of search and seizure
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Protections relating to search and seizure under paragraph 3
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Retention etc of items seized under paragraph 3
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Disposal of seized items
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Power to conceal or destroy advertising
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Obstruction of officers etc
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Exercise of powers outside authority’s area
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Compensation
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
