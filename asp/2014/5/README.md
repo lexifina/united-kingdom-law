@@ -1,0 +1,103 @@
+# Marriage and Civil Partnership (Scotland) Act 2014
+
+asp/2014/5. Enacted 2014-03-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2014/5/2021-11-30
+
+## Contents
+
+- PART 1 MARRIAGE
+  - CHAPTER 1 SAME SEX MARRIAGE
+    - [s. 1 Marriage of related persons](section/1.md)
+    - [s. 2 Objections to marriage](section/2.md)
+    - [s. 3 Preliminaries to marriage](section/3.md)
+    - [s. 4 Meaning of marriage and related expressions in enactments and documents](section/4.md)
+    - [s. 5 Same sex marriage: further provision](section/5.md)
+    - [s. 6 Jurisdiction in proceedings relating to same sex marriages](section/6.md)
+    - [s. 7 Reset: abolition of defence](section/7.md)
+  - CHAPTER 2 MARRIAGE BETWEEN CIVIL PARTNERS IN QUALIFYING CIVIL PARTNERSHIPS
+    - [s. 8 Marriage between civil partners in qualifying civil partnerships](section/8.md)
+    - [s. 9 Power to modify meaning of “qualifying civil partnership”](section/9.md)
+    - [s. 10 Change of qualifying civil partnership into marriage](section/10.md)
+    - [s. 11 Effect of marriage between civil partners in a qualifying civil partnership](section/11.md)
+  - CHAPTER 3 SOLEMNISATION OF MARRIAGE
+    - [s. 12 Persons who may solemnise marriage](section/12.md)
+    - [s. 13 Registration of nominated persons as celebrants](section/13.md)
+    - [s. 14 Temporary authorisation of celebrants](section/14.md)
+    - [s. 15 Religious or belief marriage: further provision](section/15.md)
+  - CHAPTER 4 SAME SEX MARRIAGE: PROTECTION OF FREEDOM OF EXPRESSION ETC.
+    - [s. 16 Same sex marriage: protection of freedom of expression etc.](section/16.md)
+  - CHAPTER 5 OTHER CHANGES TO MARRIAGE PROCEDURE
+    - [s. 17 Power of district registrar to require evidence of nationality: marriage](section/17.md)
+    - [s. 18 The Marriage Schedule](section/18.md)
+    - [s. 19 Marriage outside Scotland: evidence of dissolution of former civil partnership](section/19.md)
+    - [s. 20 Religious marriages: solemnisation by Church of Scotland deacons](section/20.md)
+    - [s. 21 Places at which civil marriages may be solemnised](section/21.md)
+    - [s. 22 Second marriage ceremony: form of endorsement](section/22.md)
+  - CHAPTER 6 SHERIFF COURT JURISDICTION IN RELATION TO DECLARATOR OF MARRIAGE
+    - [s. 23 Sheriff court jurisdiction in relation to declarator of marriage](section/23.md)
+- PART 2 CIVIL PARTNERSHIP
+  - [s. 24 Registration of civil partnership](section/24.md)
+  - [s. 25 Power of district registrar to require evidence of nationality: civil partnership](section/25.md)
+  - [s. 26 Recognition of overseas relationships](section/26.md)
+  - [s. 27 Dissolution of civil partnership: evidence](section/27.md)
+- PART 3 MARRIAGE AND CIVIL PARTNERSHIP: OTHER PROVISION
+  - [s. 28 Bigamy](section/28.md)
+- PART 4 CHANGE OF GENDER OF MARRIED PERSONS OR CIVIL PARTNERS
+  - [s. 29 Change of gender of married persons or civil partners](section/29.md)
+  - [s. 30 Renewed marriage or civil partnership following issue of full gender recognition certificate](section/30.md)
+  - [s. 31 Grounds of divorce: interim gender recognition certificate followed by full certificate](section/31.md)
+- PART 5 REGISTRATION SERVICES
+  - [s. 32 Provision of certain information to district registrars](section/32.md)
+  - [s. 33 Form of register of marriages](section/33.md)
+- PART 6 GENERAL PROVISIONS
+  - [s. 34 Interpretation](section/34.md)
+  - [s. 35 Ancillary provision](section/35.md)
+  - [s. 36 Commencement](section/36.md)
+  - [s. 37 Short title](section/37.md)
+- SCHEDULE 1 JURISDICTION IN PROCEEDINGS RELATING TO SAME SEX MARRIAGES
+  - Domicile and Matrimonial Proceedings Act 1973
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Presumption of Death (Scotland) Act 1977
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 CHANGE OF GENDER OF MARRIED PERSONS OR CIVIL PARTNERS
+  - PART 1 APPLICATIONS BY MARRIED PERSONS AND CIVIL PARTNERS
+    - Introductory
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Interpretation
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Evidence
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Successful applications
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Issue of full gender recognition certificate after interim certificate: applicant married
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Issue of full gender recognition certificate after interim certificate: grounds of divorce
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Applications by both civil partners
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Appeals etc.
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Registration
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Continuity of marriage
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Continuity of civil partnership
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Foreign gender change and marriage
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - PART 2 ALTERNATIVE GROUNDS FOR GRANTING APPLICATIONS FOR GENDER RECOGNITION CERTIFICATES
+    - Introductory
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Alternative grounds for granting applications
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Evidence for granting applications on alternative grounds
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Membership of Panels determining applications on alternative grounds
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - PART 3 CONSEQUENTIAL AMENDMENTS
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
