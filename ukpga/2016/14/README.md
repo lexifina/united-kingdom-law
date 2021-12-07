@@ -1,0 +1,200 @@
+# Bank of England and Financial Services Act 2016
+
+2016 c. 14. Enacted 2016-05-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2021-12-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/14
+
+Source: https://www.legislation.gov.uk/ukpga/2016/14/2021-12-07
+
+## Contents
+
+- PART 1 The Bank of England
+  - Governance
+    - [s. 1 Membership of court of directors](section/1.md)
+    - [s. 2 Term of office of non-executive directors](section/2.md)
+    - [s. 3 Abolition of Oversight Committee](section/3.md)
+    - [s. 4 Functions of non-executive directors](section/4.md)
+    - [s. 5 Financial stability strategy](section/5.md)
+    - [s. 6 Financial Policy Committee: status and membership](section/6.md)
+    - [s. 7 Monetary Policy Committee: membership](section/7.md)
+    - [s. 8 Monetary Policy Committee: procedure](section/8.md)
+  - Financial arrangements
+    - [s. 9 Audit](section/9.md)
+    - [s. 10 Activities indemnified by Treasury](section/10.md)
+    - [s. 11 Examinations and reviews](section/11.md)
+  - Prudential regulation
+    - [s. 12 Bank to act as Prudential Regulation Authority](section/12.md)
+    - [s. 13 Prudential Regulation Committee](section/13.md)
+    - [s. 14 Accounts relating to Bank’s functions as Prudential Regulation Authority](section/14.md)
+    - [s. 15 Transfer of property etc to Bank](section/15.md)
+  - Consequential and transitional provision
+    - [s. 16 Amendments relating to Part 1](section/16.md)
+    - [s. 17 Saving and transitional provision relating to Part 1](section/17.md)
+- PART 2 Financial services
+  - The regulators
+    - [s. 18 Appointment of Financial Conduct Authority chief executive](section/18.md)
+    - [s. 19 Treasury recommendations to Financial Conduct Authority](section/19.md)
+    - [s. 20 Regulatory principles: diversity](section/20.md)
+  - Conduct of persons working in financial services sector
+    - [s. 21 Extension of relevant authorised persons regime to all authorised persons](section/21.md)
+    - [s. 22 Rules about controlled functions: power to make transitional provision](section/22.md)
+    - [s. 23 Administration of senior managers regime](section/23.md)
+    - [s. 24 Rules of conduct](section/24.md)
+    - [s. 25 Misconduct](section/25.md)
+    - [s. 26 Decisions causing a financial institution to fail: meaning of insolvency](section/26.md)
+  - Enforceability of agreements
+    - [s. 27 Enforceability of agreements relating to credit](section/27.md)
+    - [s. 28 Enforceability of agreements made through unauthorised persons](section/28.md)
+  - Illegal money lending
+    - [s. 29 Illegal money lending](section/29.md)
+  - Money laundering and terrorist financing
+    - [s. 30 Money laundering and terrorist financing](section/30.md)
+  - Transformer vehicles
+    - [s. 31 Transformer vehicles](section/31.md)
+  - Pensions
+    - [s. 32 Pensions guidance](section/32.md)
+    - [s. 33 Advice about transferring or otherwise dealing with annuity payments](section/33.md)
+    - [s. 34 Independent advice on conversions and transfers of pension benefits: appointed representatives](section/34.md)
+    - [s. 35 Early exit pension charges](section/35.md)
+  - Information about resolution planning
+    - [s. 36 Duty of Bank to provide information to Treasury](section/36.md)
+  - Financial Services and Markets Act 2000 consequential amendments
+    - [s. 37 Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001](section/37.md)
+- PART 3 Miscellaneous and general
+  - Banknotes in Scotland and Northern Ireland
+    - [s. 38 Banks authorised to issue banknotes in Scotland and Northern Ireland](section/38.md)
+  - General
+    - [s. 39 Consequential provision](section/39.md)
+    - [s. 40 Extent](section/40.md)
+    - [s. 41 Commencement](section/41.md)
+    - [s. 42 Short title](section/42.md)
+- SCHEDULE 1 Prudential Regulation Committee
+- SCHEDULE 2 Amendments relating to Part 1
+  - PART 1 Bank of England Act 1998
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - PART 2 Other Acts
+    - Bank of England Act 1946 (c. 27)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - Banking Act 2009 (c. 1)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+      - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+      - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+      - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+      - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+      - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+      - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+    - Financial Services Act 2012 (c. 21)
+      - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+      - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+      - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - Financial Services (Banking Reform) Act 2013 (c. 33)
+      - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - Repeals
+      - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+- SCHEDULE 3 Saving and transitional provision relating to Part 1
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Saving for orders under section 2A(6)(d) of the Financial Services and Markets Act 2000
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Prudential regulation strategy
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Prudential regulation budget
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Annual report
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Information
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Corporation tax: intangible assets
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Construction of enactments
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Construction of other documents
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Continuity: general provision
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Extension of relevant authorised persons regime to all authorised persons
+  - Amendments of Financial Services and Markets Act 2000
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Consequential amendments of Financial Services (Banking Reform) Act 2013
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
