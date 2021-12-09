@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-10-28, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2021-12-09, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-28
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-12-09
 
 ## Contents
 
@@ -527,17 +527,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-28
   - Enforcement
     - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
 - SCHEDULE 16 Temporary closure of educational institutions and childcare premises
-  - PART 1 England and Wales
-    - Schools, 16 to 19 Academies, further and higher education providers
-      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
-    - Registered childcare providers
-      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
-    - Effect of temporary closure directions on other provisions
-      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
-    - Authorisations
-      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
-    - Publication, duration and guidance
-      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
   - PART 2 Scotland
     - Interpretation
       - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
@@ -626,13 +620,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-28
     - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
     - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
 - SCHEDULE 21 Powers relating to potentially infectious persons
-  - PART 1 Overview and interpretation
-    - Overview
-      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
-    - Potentially infectious persons
-      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
-    - Other definitions
-      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
   - PART 2 Powers relating to potentially infectious persons in England
     - Declarations of risks of coronavirus in England
       - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
@@ -773,11 +763,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2021-10-28
     - Supplementary interpretation
       - [Sch. 21 para. 89](schedule/21/paragraph/89.md)
 - SCHEDULE 22 Powers to issue directions relating to events, gatherings and premises
-  - PART 1 General
-    - Interpretation
-      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
-    - Disapplication to the Parliamentary Estate
-      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
   - PART 2 Powers relating to events, gatherings and premises in England
     - Declaration of threat to public health in England due to coronavirus
       - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
