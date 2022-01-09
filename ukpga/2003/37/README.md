@@ -1,0 +1,323 @@
+# Water Act 2003
+
+2003 c. 37. Enacted 2003-11-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-01-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
+
+Source: https://www.legislation.gov.uk/ukpga/2003/37/2022-01-09
+
+## Contents
+
+- Part 1 Abstraction and impounding
+  - Restrictions on abstraction and impounding
+    - [s. 1 Licences to abstract water](section/1.md)
+    - [s. 2 Restrictions on impounding](section/2.md)
+    - [s. 3 Existing impounding works](section/3.md)
+    - [s. 4 Existing impounding works: works notices](section/4.md)
+    - [s. 5 Rights of navigation, harbour and conservancy authorities](section/5.md)
+    - [s. 6 Rights to abstract small quantities](section/6.md)
+    - [s. 7 Rights to abstract for drainage purposes, etc](section/7.md)
+    - [s. 8 Amendments relating to section 7](section/8.md)
+    - [s. 9 Power to provide for further exemptions](section/9.md)
+    - [s. 10 Orders under section 33 of the WRA, etc](section/10.md)
+  - Applications for a licence
+    - [s. 11 Who may apply for a licence](section/11.md)
+    - [s. 12 Abolition of combined licences](section/12.md)
+    - [s. 13 Applications: types of abstraction licence](section/13.md)
+    - [s. 14 Publication of application for licence](section/14.md)
+  - Consideration of licence applications
+    - [s. 15 General consideration of licence applications](section/15.md)
+    - [s. 16 Protection from derogation](section/16.md)
+    - [s. 17 Protected rights](section/17.md)
+    - [s. 18 Register of certain protected rights](section/18.md)
+  - Form, contents and effect of licences
+    - [s. 19 Form, contents and effect of licences](section/19.md)
+    - [s. 20 Limited extension of abstraction licence validity](section/20.md)
+  - Modification of licences
+    - [s. 21 Modification of licences](section/21.md)
+    - [s. 22 Proposals for modification at instance of Agency or Secretary of State](section/22.md)
+  - Transfer and apportionment of licences
+    - [s. 23 Transfer and apportionment of licences](section/23.md)
+  - Claims and compensation
+    - [s. 24 Claims arising out of water abstraction](section/24.md)
+    - [s. 25 Compensation for modification of licence on direction of Secretary of State](section/25.md)
+    - [s. 26 Recovery of compensation from new licence-holder](section/26.md)
+    - [s. 27 Withdrawal of compensation for certain revocations and variations](section/27.md)
+  - Water resources management schemes
+    - [s. 28 Water resources management schemes: other abstractors](section/28.md)
+    - [s. 29 Water resources management schemes: referral to Secretary of State](section/29.md)
+  - Enforcement
+    - [s. 30 Enforcement notices, and related procedures and offences](section/30.md)
+  - Miscellaneous
+    - [s. 31 Bulk supplies](section/31.md)
+    - [s. 32 Visiting forces](section/32.md)
+    - [s. 33 Application of certain water resources provisions to this Act](section/33.md)
+- Part 2 New regulatory arrangements, etc
+  - Establishment, etc of new bodies
+    - [s. 34 Water Services Regulation Authority](section/34.md)
+    - [s. 35 Consumer Council for Water](section/35.md)
+    - [s. 36 Transfer to Authority and Council of functions, property etc](section/36.md)
+    - [s. 37 Conditions relating to costs of water regulation](section/37.md)
+    - [s. 38 Forward work programmes and annual reports](section/38.md)
+  - Objectives of regulation of water industry
+    - [s. 39 Objectives and duties under WIA](section/39.md)
+    - [s. 40 Guidance to Authority on social and environmental matters](section/40.md)
+    - [s. 41 Standards of performance in relation to water supply](section/41.md)
+    - [s. 42 Standards of performance in relation to sewerage services](section/42.md)
+  - Functions of the Council
+    - [s. 43 General functions of the Council](section/43.md)
+    - [s. 44 Provision of information to the Council](section/44.md)
+    - [s. 45 Provision of statistical information to consumers etc](section/45.md)
+    - [s. 46 Consumer complaints](section/46.md)
+    - [s. 47 Investigations by the Council](section/47.md)
+  - Enforcement of obligations
+    - [s. 48 Financial penalties](section/48.md)
+    - [s. 49 Enforcement of certain provisions](section/49.md)
+  - Remuneration and standards of performance
+    - [s. 50 Links between directors’ pay and standards of performance](section/50.md)
+  - Miscellaneous
+    - [s. 51 Reasons for decisions](section/51.md)
+    - [s. 52 Co-operation between water regulators](section/52.md)
+  - The Competition Commission
+    - [s. 53 Specialist members of the Competition Commission](section/53.md)
+    - [s. 54 Determination references under section 12 of the WIA](section/54.md)
+    - [s. 55 Conditions of appointments under the WIA](section/55.md)
+  - Licensing of water suppliers
+    - [s. 56 Licensing of other water suppliers](section/56.md)
+- Part 3 Miscellaneous
+  - The Drinking Water Inspectorate
+    - [s. 57 The Chief Inspector of Drinking Water and the Drinking Water Inspectorate](section/57.md)
+  - Water fluoridation
+    - [s. 58 Fluoridation of water supplies](section/58.md)
+  - Water resale
+    - [s. 59 Charges for services provided with the help of an undertaker](section/59.md)
+  - Penalties
+    - [s. 60 Abstraction and impounding offences](section/60.md)
+    - [s. 61 Supplying water unfit for human consumption](section/61.md)
+  - Water resources management plans
+    - [s. 62 Water resources management plans](section/62.md)
+  - Drought
+    - [s. 63 Drought plans](section/63.md)
+    - [s. 64 Drought orders and drought permits: charges](section/64.md)
+    - [s. 65 Procedure at local inquiries](section/65.md)
+  - Land drainage and flood defence
+    - [s. 66 Revocation of local flood defence schemes](section/66.md)
+    - [s. 67 Membership of regional flood defence committees in Wales](section/67.md)
+    - [s. 68 Regional flood defence committees](section/68.md)
+    - [s. 69 Grants for drainage works and flood warning systems](section/69.md)
+  - Information
+    - [s. 70 Information](section/70.md)
+  - Powers of entry
+    - [s. 71 Extension of Environment Agency’s powers of entry](section/71.md)
+  - Environment Agency’s general water resources duty
+    - [s. 72 Efficient use of water resources](section/72.md)
+  - Border rivers
+    - [s. 73 Border rivers](section/73.md)
+  - Reservoirs
+    - [s. 74 Environment Agency to be enforcement authority under the Reservoirs Act 1975](section/74.md)
+    - [s. 75 Extension of enforcement authority’s reserve powers](section/75.md)
+    - [s. 76 Service of documents](section/76.md)
+    - [s. 77 Flood plans: large raised reservoirs](section/77.md)
+    - [s. 78 National security](section/78.md)
+    - [s. 79 Offences](section/79.md)
+    - [s. 80 Crown application](section/80.md)
+  - Water conservation
+    - [s. 81 Duty to encourage water conservation](section/81.md)
+    - [s. 82 Water conservation: requirements on relevant undertakers](section/82.md)
+    - [s. 83 Water conservation by public authorities](section/83.md)
+  - Fire hydrants
+    - [s. 84 Fire hydrants](section/84.md)
+  - Coal mine water pollution
+    - [s. 85 Control of water from coal mines](section/85.md)
+  - Contaminated land
+    - [s. 86 Contaminated land: pollution of controlled waters](section/86.md)
+  - Discharge consents
+    - [s. 87 Transfer of discharge consents](section/87.md)
+  - Trade effluent consents
+    - [s. 88 Trade effluent consents](section/88.md)
+    - [s. 89 Trade effluent consents: conditions of consent](section/89.md)
+  - Water mains, etc
+    - [s. 90 Water main requisitions: financial conditions](section/90.md)
+    - [s. 91 Water main requisitions: calculation of payments](section/91.md)
+    - [s. 92 Self-lay and adoption of water mains and service pipes](section/92.md)
+  - Sewers and drains
+    - [s. 93 Requisition and adoption of sewers](section/93.md)
+    - [s. 94 Provision of public sewers otherwise than by requisition](section/94.md)
+    - [s. 95 Requisition of lateral drains](section/95.md)
+    - [s. 96 Adoption of lateral drains](section/96.md)
+    - [s. 97 Requisitioning and adoption of lateral drains: supplementary](section/97.md)
+    - [s. 98 Schemes for the adoption of sewers, lateral drains and sewage disposal works](section/98.md)
+    - [s. 99 Communication with public sewers](section/99.md)
+- Part 4 Supplementary
+  - [s. 100 Devolution: Wales](section/100.md)
+  - [s. 101 Minor and consequential amendments and repeals](section/101.md)
+  - [s. 102 Specific transitional and transitory provisions](section/102.md)
+  - [s. 103 Powers to make further supplementary, consequential and transitional provision, etc](section/103.md)
+  - [s. 104 Regulations and orders](section/104.md)
+  - [s. 105 Interpretation, commencement, short title, and extent](section/105.md)
+- SCHEDULE 1 The Water Services Regulation Authority
+- SCHEDULE 2 The Consumer Council for Water
+- SCHEDULE 3 Further provisions about transfers of functions, property etc
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Contents of transfer schemes
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Modification of transfer scheme after appointed day
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Effect of transfers
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Continuity of employment, etc of transferred employees
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Licensing of water suppliers
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Powers of entry under the Coal Industry Act 1994
+- SCHEDULE 6 Compulsory purchase under the Coal Industry Act 1994
+- SCHEDULE 7 Minor and consequential amendments
+  - Part 1 Abstraction and impounding
+    - Water Resources Act 1991 (c. 57)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Part 2 New regulatory arrangements, etc
+    - Public Records Act 1958 (c. 51)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Telecommunications Act 1984 (c. 12)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Airports Act 1986 (c. 31)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Company Directors Disqualification Act 1986 (c. 46)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Water Act 1989 (c. 15)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Water Resources Act 1991 (c. 57)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Water Consolidation (Consequential Provisions) Act 1991 (c. 60)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - Competition and Service (Utilities) Act 1992 (c. 43)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Coal Industry Act 1994 (c. 21)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Competition Act 1998 (c. 41)
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Postal Services Act 2000 (c. 26)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Utilities Act 2000 (c. 27)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - Transport Act 2000 (c. 38)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Enterprise Act 2002 (c. 40)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+  - Part 3 Miscellaneous
+    - Metropolis Water Act 1852 (c. 84)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - Reservoirs Act 1975 (c. 23)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - Land Drainage Act 1991 (c. 59)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - Health Authorities Act 1995 (c. 17)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+- SCHEDULE 8 Minor and consequential amendments: licensing of water suppliers etc
+  - Water Act 1989 (c. 15)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+    - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+  - Competition Act 1998 (c. 41)
+    - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+- SCHEDULE 9 Repeals and revocation
+  - Part 1 Abstraction and impounding
+  - Part 2 New regulatory arrangements, etc
+  - Part 3 Miscellaneous and supplementary
