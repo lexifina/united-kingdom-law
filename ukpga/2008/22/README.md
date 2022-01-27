@@ -1,0 +1,307 @@
+# Human Fertilisation and Embryology Act 2008
+
+2008 c. 22. Enacted 2008-11-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-01-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/22
+
+Source: https://www.legislation.gov.uk/ukpga/2008/22/2022-01-27
+
+## Contents
+
+- Part 1 Amendments of the Human Fertilisation and Embryology Act 1990
+  - Principal terms used in the 1990 Act
+    - [s. 1 Meaning of “embryo” and “gamete”](section/1.md)
+    - [s. 2 Meaning of “nuclear DNA”](section/2.md)
+  - Activities governed by the 1990 Act
+    - [s. 3 Prohibitions in connection with embryos](section/3.md)
+    - [s. 4 Prohibitions in connection with genetic material not of human origin](section/4.md)
+  - The Human Fertilisation and Embryology Authority
+    - [s. 5 Membership of Authority: disqualification and tenure](section/5.md)
+    - [s. 6 Additional general functions of Authority](section/6.md)
+    - [s. 7 Duties in relation to carrying out its functions](section/7.md)
+    - [s. 8 Power to contract out functions etc.](section/8.md)
+    - [s. 9 Power to assist other public authorities](section/9.md)
+    - [s. 10 Power to delegate and establish committees](section/10.md)
+  - Scope of licences
+    - [s. 11 Activities that may be licensed](section/11.md)
+  - Licence conditions
+    - [s. 12 General conditions of licences](section/12.md)
+    - [s. 13 Consent to use or storage of gametes, embryos, human admixed embryos etc.](section/13.md)
+    - [s. 14 Conditions of licences for treatment](section/14.md)
+    - [s. 15 Conditions of storage licences](section/15.md)
+  - Grant, revocation and suspension of licences
+    - [s. 16 Grant of licence](section/16.md)
+    - [s. 17 The person responsible](section/17.md)
+    - [s. 18 Revocation and variation of licence](section/18.md)
+    - [s. 19 Procedure for refusal, variation or revocation of licence](section/19.md)
+    - [s. 20 Power to suspend licence](section/20.md)
+    - [s. 21 Reconsideration and appeals](section/21.md)
+  - Directions and guidance
+    - [s. 22 Directions](section/22.md)
+    - [s. 23 Code of practice](section/23.md)
+  - Information
+    - [s. 24 Register of information](section/24.md)
+    - [s. 25 Restrictions on disclosure of information](section/25.md)
+  - Mitochondrial donation
+    - [s. 26 Mitochondrial donation](section/26.md)
+  - Miscellaneous
+    - [s. 27 Fees](section/27.md)
+    - [s. 28 Inspection, entry, search and seizure](section/28.md)
+    - [s. 29 Offences under the 1990 Act](section/29.md)
+    - [s. 30 Regulations under the 1990 Act](section/30.md)
+    - [s. 31 Power to make consequential provision](section/31.md)
+    - [s. 32 Orders under the 1990 Act](section/32.md)
+- Part 2 Parenthood in cases involving assisted reproduction
+  - Meaning of “mother”
+    - [s. 33 Meaning of “mother”](section/33.md)
+  - Application of sections 35 to 47
+    - [s. 34 Application of sections 35 to 47](section/34.md)
+  - Meaning of “father”
+    - [s. 35 Woman married to, or civil partner of, a man at time of treatment](section/35.md)
+    - [s. 36 Treatment provided to woman where agreed fatherhood conditions apply](section/36.md)
+    - [s. 37 The agreed fatherhood conditions](section/37.md)
+    - [s. 38 Further provision relating to sections 35 and 36](section/38.md)
+    - [s. 39 Use of sperm, or transfer of embryo, after death of man providing sperm](section/39.md)
+    - [s. 40 Embryo transferred after death of male spouse, civil partner or intended parent who did not provide sperm](section/40.md)
+    - [s. 41 Persons not to be treated as father](section/41.md)
+  - Cases in which woman to be other parent
+    - [s. 42 Woman in civil partnership or marriage to a woman at time of treatment](section/42.md)
+    - [s. 43 Treatment provided to woman who agrees that second woman to be parent](section/43.md)
+    - [s. 44 The agreed female parenthood conditions](section/44.md)
+    - [s. 45 Further provision relating to sections 42 and 43](section/45.md)
+    - [s. 46 Embryo transferred after death of female spouse, civil partner or intended parent](section/46.md)
+    - [s. 47 Woman not to be other parent merely because of egg donation](section/47.md)
+  - Effect of sections 33 to 47
+    - [s. 48 Effect of sections 33 to 47](section/48.md)
+  - References to parties to marriage or civil partnership
+    - [s. 49 Meaning of references to parties to a marriage](section/49.md)
+    - [s. 50 Meaning of references to parties to a civil partnership](section/50.md)
+  - Further provision about registration by virtue of section 39, 40 or 46
+    - [s. 51 Meaning of “relevant register of births”](section/51.md)
+    - [s. 52 Late election by mother with consent of Registrar General](section/52.md)
+  - Interpretation of references to father etc. where woman is other parent
+    - [s. 53 Interpretation of references to father etc.](section/53.md)
+  - Parental orders
+    - [s. 54 Parental orders: two applicants](section/54.md)
+    - [s. 54A Parental orders: one applicant](section/54A.md)
+    - [s. 55 Parental orders: supplementary provision](section/55.md)
+  - Amendments of enactments
+    - [s. 56 Amendments relating to parenthood in cases involving assisted reproduction](section/56.md)
+  - General
+    - [s. 57 Repeals and transitional provision relating to Part 2](section/57.md)
+    - [s. 58 Interpretation of Part 2](section/58.md)
+- Part 3 Miscellaneous and General
+  - Miscellaneous
+    - [s. 59 Surrogacy arrangements](section/59.md)
+    - [s. 60 Exclusion of embryos from definition of “organism” in Part 6 of the EPA 1990](section/60.md)
+  - General
+    - [s. 61 Orders and regulations: general provisions](section/61.md)
+    - [s. 62 Orders and regulations: parliamentary control](section/62.md)
+    - [s. 63 Meaning of “the 1990 Act”](section/63.md)
+    - [s. 64 Power to make consequential and transitional provision etc.](section/64.md)
+    - [s. 65 Minor and consequential amendments](section/65.md)
+    - [s. 66 Repeals and revocations](section/66.md)
+    - [s. 67 Extent](section/67.md)
+    - [s. 68 Commencement](section/68.md)
+    - [s. 69 Short title](section/69.md)
+- SCHEDULE 1 Amendments to Schedule 1 to the 1990 Act relating to membership of the Authority
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Activities that may be licensed under the 1990 Act
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Licences for treatment
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Embryo testing and sex selection
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Licences for non-medical fertility services
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Licences for storage
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Licences for research
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Consent to use or storage of gametes, embryos or human admixed embryos etc.
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - General requirements as to consent
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Terms of consent
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Information to be given to a person giving consent
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Variation and withdrawal of consent
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Withdrawal of consent to storage: notification of interested persons
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Application of consent provisions to non-medical fertility services
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - In vitro fertilisation and subsequent use of embryo
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Use of embryos obtained by lavage etc.
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Consents in relation to storage
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Creation, use and storage of human admixed embryos
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Cases where human cells etc. can be used without consent of person providing them
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Interpretation
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Schedule inserted in the 1990 Act as Schedule 3ZA
+- SCHEDULE 5 Schedule inserted in the 1990 Act as Schedule 3B
+- SCHEDULE 6 Amendments relating to parenthood in cases involving assisted reproduction
+  - Part 1 General
+    - Population (Statistics) Act 1938 (c. 12)
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Births and Deaths Registration Act 1953 (c. 20)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Registration of Births, Deaths and Marriages (Special Provisions) Act 1957 (c. 58)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Family Law Reform Act 1969 (c. 46)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Congenital Disabilities (Civil Liability) Act 1976 (c. 28)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Legitimacy Act 1976 (c. 31)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Supreme Court Act 1981 (c. 54)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - British Nationality Act 1981 (c. 61)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Family Law Act 1986 (c. 55)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Family Law Reform Act 1987 (c. 42)
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Children Act 1989 (c. 41)
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Human Fertilisation and Embryology Act 1990 (c. 37)
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - Child Support Act 1991 (c. 48)
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - Family Law Act 1996 (c. 27)
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - Access to Justice Act 1999 (c. 22)
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - Adoption and Children Act 2002 (c. 38)
+      - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - Mental Capacity Act 2005 (c. 9)
+      - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+  - Part 2 Enactments relating only to Scotland
+    - Children and Young Persons (Scotland) Act 1937 (c. 37)
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49)
+      - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+      - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - Family Law (Scotland) Act 1985 (c. 37)
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - Children (Scotland) Act 1995 (c. 36)
+      - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+      - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+      - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+      - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+      - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+      - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+      - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+    - Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+      - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+    - Adoption and Children (Scotland) Act 2007 (asp 4)
+      - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+  - Part 3 Enactments relating only to Northern Ireland
+    - Legitimacy Act (Northern Ireland) 1928 (c. 5 (N.I.))
+      - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+      - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+      - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+    - Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041 (N.I. 14))
+      - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+      - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+      - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+      - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+      - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+      - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+      - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+    - Family Law Reform (Northern Ireland) Order 1977 (S.I. 1977/1250 (N.I. 17))
+      - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+    - Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I. 22))
+      - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+    - Child Support (Northern Ireland) Order 1991 (S.I. 1991/2628 (N.I. 23))
+      - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+    - Children (Northern Ireland) Order 1995 (S.I. 1995/755 (N.I. 2))
+      - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+      - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+      - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+      - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+      - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+      - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+      - [Sch. 6 para. 76](schedule/6/paragraph/76.md)
+      - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+      - [Sch. 6 para. 78](schedule/6/paragraph/78.md)
+    - Family Homes and Domestic Violence (Northern Ireland) Order 1998 (S.I. 1998/1071 (N.I. 6))
+      - [Sch. 6 para. 79](schedule/6/paragraph/79.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Congenital Disabilities (Civil Liability) Act 1976 (c. 28)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Human Fertilisation and Embryology Act 1990 (c. 37)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Age of Legal Capacity (Scotland) Act 1991 (c. 50)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Children (Scotland) Act 1995 (c. 36)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Adults with Incapacity (Scotland) Act 2000 (asp 4)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Human Tissue Act 2004 (c. 30)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Mental Capacity Act 2005 (c. 9)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+- SCHEDULE 8 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
