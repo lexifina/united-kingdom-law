@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-01-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-01-27, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2022-01-01
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2022-01-27
 
 ## Contents
 
@@ -413,8 +413,8 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2022-01-01
   - PART 6A Marriage of same sex couples and Civil Partnership in England and Wales
     - [Sch. 3 para. 25A Marriage according to religious rites: no compulsion to solemnize etc](schedule/3/paragraph/25A.md)
     - [Sch. 3 para. 25AA No compulsion for religious organisations or persons acting on their behalf to act in relation to civil partnerships](schedule/3/paragraph/25AA.md)
-  - PART 6B MARRIAGE OF SAME SEX COUPLES AND CIVIL PARTNERSHIP: SCOTLAND
-    - [Sch. 3 para. 25B Marriage of same sex couples and civil partnership: Scotland](schedule/3/paragraph/25B.md)
+  - PART 6B CIVIL PARTNERSHIP, MARRIAGE OF SAME SEX COUPLES AND MARRIAGE OF CIVIL PARTNERS: SCOTLAND
+    - [Sch. 3 para. 25B Marriage and civil partnership: Scotland](schedule/3/paragraph/25B.md)
     - [Sch. 3 para. 25C Marriage of same sex couples: Scottish forces marriages](schedule/3/paragraph/25C.md)
   - Part 7 Separate, single and concessionary services, etc
     - Separate services for the sexes
