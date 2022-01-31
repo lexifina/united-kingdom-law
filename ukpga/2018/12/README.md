@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-12-17, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-01-31, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2021-12-17
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-01-31
 
 ## Contents
 
@@ -423,6 +423,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2021-12-17
       - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
     - Immigration
       - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Immigration: additional safeguard: decisions for the purposes of paragraph 4(1) and requirement to have regard to immigration exemption policy document
+      - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+    - Immigration: additional safeguard: record etc of decision that exemption applies
+      - [Sch. 2 para. 4B](schedule/2/paragraph/4B.md)
     - Information required to be disclosed by law etc or in connection with legal proceedings
       - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
   - PART 2 Restrictions as described in Article 23(1): restrictions of rules in Articles 13 to 21 and 34
