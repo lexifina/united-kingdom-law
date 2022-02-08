@@ -2,9 +2,11 @@
 
 2016 c. 13. Enacted 2016-05-04.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-07-04, one file per provision. Earlier versions, from 2016-05-04, are in the history before it: `git log -- ukpga/2016/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-08, one file per provision. Earlier versions, from 2016-05-04, are in the history before it: `git log -- ukpga/2016/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/13/2016-07-04
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/13
+
+Source: https://www.legislation.gov.uk/ukpga/2016/13/2022-02-08
 
 ## Contents
 
