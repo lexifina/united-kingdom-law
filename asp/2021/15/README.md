@@ -1,0 +1,218 @@
+# Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021
+
+asp/2021/15. Enacted 2021-04-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2021/15/2022-02-09
+
+## Contents
+
+- PART 1 Overview and meaning of “redress scheme”
+  - [s. 1 Overview of Act](section/1.md)
+  - [s. 2 Meaning of “redress scheme”](section/2.md)
+- PART 2 Operation of the redress scheme
+  - Redress Scotland
+    - [s. 3 Establishment](section/3.md)
+    - [s. 4 Status](section/4.md)
+    - [s. 5 Membership, procedures and powers etc.](section/5.md)
+    - [s. 6 Independence](section/6.md)
+  - Functions in relation to the redress scheme
+    - [s. 7 Functions of Redress Scotland](section/7.md)
+    - [s. 8 Functions of the Scottish Ministers](section/8.md)
+    - [s. 9 Duty with respect to ensuring individuals can make informed choices](section/9.md)
+    - [s. 10 Provision of administrative support to Redress Scotland](section/10.md)
+    - [s. 11 Duty on the Scottish Ministers and Redress Scotland to co-operate](section/11.md)
+    - [s. 12 Sharing of information between the Scottish Ministers and Redress Scotland](section/12.md)
+    - [s. 13 Principle of dignity, respect and compassion](section/13.md)
+  - Contributions to the redress scheme
+    - [s. 14 Scheme contributors](section/14.md)
+    - [s. 15 Statement of principles in relation to contributor list](section/15.md)
+    - [s. 16 Retrospective removal of scheme contributor from contributor list](section/16.md)
+    - [s. 17 Financial contributions by charities](section/17.md)
+- PART 3 Eligibility and key concepts
+  - Eligibility to apply for redress payments
+    - [s. 18 Eligibility to apply for a redress payment](section/18.md)
+  - Meaning of “abuse”
+    - [s. 19 Meaning of “abuse”](section/19.md)
+  - Meanings of “relevant care setting” and “resident”
+    - [s. 20 Meaning of “relevant care setting”](section/20.md)
+    - [s. 21 Meaning of “residential institution”: further provision](section/21.md)
+    - [s. 22 Meaning of “resident”](section/22.md)
+  - Exceptions to eligibility
+    - [s. 23 Power to create exceptions to eligibility](section/23.md)
+  - Eligibility to apply for next of kin payments
+    - [s. 24 Eligibility to apply for a next of kin payment](section/24.md)
+    - [s. 25 Eligibility to apply for a next of kin payment: exceptional circumstances](section/25.md)
+    - [s. 26 Review of determination made under section 25](section/26.md)
+    - [s. 27 Outcome of a section 26 review](section/27.md)
+    - [s. 28 Meaning of “specified next of kin”](section/28.md)
+- PART 4 Financial redress: redress payments
+  - CHAPTER 1 Determination of applications for redress payments
+    - Applications
+      - [s. 29 Application for a redress payment](section/29.md)
+      - [s. 30 Cases where more than one application permitted](section/30.md)
+      - [s. 31 Application period](section/31.md)
+      - [s. 32 Pausing of application](section/32.md)
+      - [s. 33 Withdrawal of application](section/33.md)
+    - Determination of applications
+      - [s. 34 Prioritisation of applications](section/34.md)
+      - [s. 35 Decision-making panels](section/35.md)
+      - [s. 36 Determination of applications](section/36.md)
+      - [s. 37 Assessment of amount of redress payment](section/37.md)
+    - Payment levels
+      - [s. 38 Fixed rate payment](section/38.md)
+      - [s. 39 Individually assessed payment](section/39.md)
+      - [s. 40 Next of kin payment](section/40.md)
+      - [s. 41 Power to adjust redress payment amounts for inflation](section/41.md)
+    - Deduction of previous payments
+      - [s. 42 Deduction of previous payments from redress payment](section/42.md)
+      - [s. 43 Deduction of previous payments: further provision](section/43.md)
+      - [s. 44 Information about previous payments from applicant](section/44.md)
+      - [s. 45 Information about previous payments: further provision](section/45.md)
+    - Waiver
+      - [s. 46 Waiver](section/46.md)
+      - [s. 47 Form and content of waiver](section/47.md)
+      - [s. 48 Report on effect of waiver on participation in redress scheme](section/48.md)
+    - Payment of redress payment
+      - [s. 49 Period for which offer valid](section/49.md)
+      - [s. 50 Acceptance of offer and making of payments](section/50.md)
+      - [s. 51 Payments to children](section/51.md)
+      - [s. 52 Review of direction made under section 51](section/52.md)
+      - [s. 53 Outcome of a section 52 review](section/53.md)
+  - CHAPTER 2 Review of redress payment determinations
+    - [s. 54 Right to a review](section/54.md)
+    - [s. 55 Review panels](section/55.md)
+    - [s. 56 Procedure for a review](section/56.md)
+    - [s. 57 Outcome of a review](section/57.md)
+    - [s. 58 Period for which offer valid following a review](section/58.md)
+    - [s. 59 Withdrawal of review request](section/59.md)
+  - CHAPTER 3 Applications affected by convictions for serious offences
+    - [s. 60 Applicants etc. with convictions for serious offences](section/60.md)
+    - [s. 61 Applicants etc. with convictions for serious offences: definitions](section/61.md)
+    - [s. 62 Review of determination made under section 60](section/62.md)
+    - [s. 63 Outcome of a section 62 review](section/63.md)
+    - [s. 64 Information about convictions for serious offences](section/64.md)
+  - CHAPTER 4 Death of applicant
+    - [s. 65 Nomination of a beneficiary](section/65.md)
+    - [s. 66 Applicant’s death while application ongoing](section/66.md)
+    - [s. 67 Access to information and evidence by nominated beneficiary](section/67.md)
+    - [s. 68 Review of determination made under section 66(3)](section/68.md)
+    - [s. 69 Outcome of a section 68 review](section/69.md)
+    - [s. 70 Applicant’s death after offer accepted](section/70.md)
+    - [s. 71 Invitation to nominated beneficiary to take over application](section/71.md)
+    - [s. 72 Application taken over by nominated beneficiary](section/72.md)
+    - [s. 73 Nominated beneficiary’s death etc.](section/73.md)
+  - CHAPTER 5 Redress payments or determinations made in error
+    - [s. 74 Liability for redress payments made in error](section/74.md)
+    - [s. 75 Reconsideration of determination where possible material error](section/75.md)
+    - [s. 75A Effect of referral for reconsideration on ongoing applications](section/75A.md)
+    - [s. 75B Effect of referral for reconsideration on unpaid redress payments](section/75B.md)
+    - [s. 75C Effect of redetermination: no eligibility or no offer made](section/75C.md)
+    - [s. 75D Effect of redetermination: offer made where no previous offer or previous offer not accepted](section/75D.md)
+    - [s. 75E Effect of redetermination: offer made where previous offer accepted](section/75E.md)
+    - [s. 76 Review of reconsidered determination](section/76.md)
+    - [s. 77 Outcome of a section 76 review](section/77.md)
+    - [s. 77A Withdrawal of review request](section/77A.md)
+    - [s. 77B Liability for redress payment where offer on redetermination rejected](section/77B.md)
+    - [s. 78 Power to make further provision about reconsiderations](section/78.md)
+  - CHAPTER 6 Provision of information and evidence
+    - [s. 79 Power of the Scottish Ministers to require the provision of evidence](section/79.md)
+    - [s. 80 Power to obtain information about previous payments](section/80.md)
+    - [s. 81 Redress Scotland’s power in relation to information and evidence](section/81.md)
+    - [s. 82 Applicant access to information and evidence](section/82.md)
+    - [s. 83 Power to commission reports](section/83.md)
+    - [s. 84 Offences of failure to provide, and of tampering with, information or evidence](section/84.md)
+    - [s. 85 Individual culpability where an organisation commits an offence under section 84](section/85.md)
+    - [s. 86 Crown application in relation to offences under section 84](section/86.md)
+    - [s. 87 Confidentiality of information](section/87.md)
+    - [s. 88 Power to share information with third parties](section/88.md)
+- PART 5 Other support for survivors of abuse
+  - Provision of support
+    - [s. 89 Provision of support to persons in connection with an application](section/89.md)
+    - [s. 90 Provision of support to certain persons eligible for a payment etc.](section/90.md)
+  - Payment of costs and expenses
+    - [s. 91 Reimbursement of costs incurred in connection with applications](section/91.md)
+  - Payment of fees for legal work
+    - [s. 92 Duty on the Scottish Ministers to pay fee for legal work in making an application](section/92.md)
+    - [s. 93 Duty on the Scottish Ministers to pay certain fees for legal work in exceptional cases](section/93.md)
+    - [s. 94 Sections 92 and 93: further provision](section/94.md)
+    - [s. 95 Assessment, notification and review of certain fee payment requests](section/95.md)
+    - [s. 96 Restriction on additional legal fees](section/96.md)
+  - Liability for certain payments made in error
+    - [s. 97 Liability for payments, other than redress payments, made in error](section/97.md)
+    - [s. 98 Power to make further provision about payments, other than redress payments, made in error](section/98.md)
+- PART 6 Reporting on wider redress actions
+  - [s. 99 Annual report on wider redress actions](section/99.md)
+  - [s. 100 Power of the Scottish Ministers to require production of report](section/100.md)
+  - [s. 101 Power to make provision about additional redress reporting](section/101.md)
+- PART 7 General and miscellaneous
+  - [s. 102 The Survivor Forum](section/102.md)
+  - [s. 103 Dissolution of the National Confidential Forum](section/103.md)
+  - [s. 104 Dissolution of Redress Scotland](section/104.md)
+  - [s. 105 Interpretation](section/105.md)
+  - [s. 106 Guidance](section/106.md)
+  - [s. 107 Regulation-making powers](section/107.md)
+  - [s. 108 Ancillary provision](section/108.md)
+  - [s. 109 Commencement](section/109.md)
+  - [s. 110 Short title](section/110.md)
+- SCHEDULE 1 Redress Scotland
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Terms and conditions of appointment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Equal opportunities
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Persons who may not be appointed
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Early termination of membership
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Members’ remuneration and allowances
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Chief executive and other staff
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff pensions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Authority to perform functions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Regulation of procedure
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Validity of things done
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - General powers
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Funding and financial assistance
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Corporate plan
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Accounts and audit
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Annual report
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Application of public bodies legislation
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- SCHEDULE 2 The National Confidential Forum
+  - PART 1 Continuing matters
+    - Confidentiality and disclosure of information
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Public records
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - PART 2 Consequential modifications
+    - Public Appointments and Public Bodies etc. (Scotland) Act 2003
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Mental Health (Care and Treatment) (Scotland) Act 2003
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Victims and Witnesses (Scotland) Act 2014
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - National Confidential Forum (Prescribed Care and Health Services) (Scotland) Order 2014
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Gender Representation on Public Boards (Scotland) Act 2018
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
