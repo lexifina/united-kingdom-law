@@ -2,9 +2,11 @@
 
 2021 c. 34. Enacted 2021-12-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-12-15, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-15, one file per provision. Earlier versions, from 2021-12-15, are in the history before it: `git log -- ukpga/2021/34` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/34/2021-12-15
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2021/34
+
+Source: https://www.legislation.gov.uk/ukpga/2021/34/2022-02-15
 
 ## Contents
 
