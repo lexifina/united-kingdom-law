@@ -2,9 +2,9 @@
 
 2022 c. 3. Enacted 2022-02-24.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-24, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/3/2026-03-18
+Source: https://www.legislation.gov.uk/ukpga/2022/3/2022-02-24
 
 ## Contents
 
@@ -25,7 +25,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/3/2026-03-18
     - [s. 10 Increase of normal minimum pension age](section/10.md)
     - [s. 11 Public service pension schemes: rectification of unlawful discrimination](section/11.md)
   - Capital allowances
-    - [s. 12](section/12.md)
+    - [s. 12 Extension of temporary increase in annual investment allowance](section/12.md)
     - [s. 13 Structures and buildings allowances: allowance statements](section/13.md)
   - Reliefs for investments
     - [s. 14 Qualifying asset holding companies](section/14.md)
@@ -150,7 +150,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/3/2026-03-18
     - [s. 100 Power to make temporary modifications of taxation of employment income](section/100.md)
   - Emissions certificates for vehicles
     - [s. 101 Vehicle CO2 emissions certificates](section/101.md)
-  - ...
+  - Office of Tax Simplification
     - [s. 102 Increase in membership of the Office of Tax Simplification](section/102.md)
   - Final
     - [s. 103 Interpretation](section/103.md)
@@ -282,7 +282,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/3/2026-03-18
   - PART 4 Groups
     - [Sch. 2 para. 33 Acquisition of assets into and out of QAHC ring fence business from other member of group](schedule/2/paragraph/33.md)
     - [Sch. 2 para. 34 Continuity of substantial shareholdings between group members](schedule/2/paragraph/34.md)
-    - [Sch. 2 para. 35 ...](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 35 Meaning of “group” in paragraphs 33 and 34](schedule/2/paragraph/35.md)
     - [Sch. 2 para. 36 Gain or loss arising where section 179 of TCGA 1992 applies in relation to transfer of assets](schedule/2/paragraph/36.md)
   - PART 5 Close companies, exchange gains and basis of accounting
     - [Sch. 2 para. 37 Non-close QAHCs treated as close companies for certain purposes](schedule/2/paragraph/37.md)
@@ -296,7 +296,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/3/2026-03-18
   - PART 7 Treatment of certain amounts payable by a QAHC
     - [Sch. 2 para. 44 Treatment of certain distributions](schedule/2/paragraph/44.md)
     - [Sch. 2 para. 45 Application of hybrid and other mismatches rules where paragraph 44 applies](schedule/2/paragraph/45.md)
-    - [Sch. 2 para. 46 Payments of distributions etc to individual to whom the remittance basis applied or who makes a foreign income or gain claim](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 46 Payments of distributions etc to individual to whom the remittance basis applies](schedule/2/paragraph/46.md)
     - [Sch. 2 para. 47 Purchase of own shares](schedule/2/paragraph/47.md)
     - [Sch. 2 para. 48 Disapplication of paragraph 47 during cure period for certain non-category A investors](schedule/2/paragraph/48.md)
     - [Sch. 2 para. 49 Transactions in securities rules](schedule/2/paragraph/49.md)
@@ -314,7 +314,6 @@ Source: https://www.legislation.gov.uk/ukpga/2022/3/2026-03-18
     - [Sch. 2 para. 56 Minor and consequential amendments](schedule/2/paragraph/56.md)
     - [Sch. 2 para. 57 Making of notifications and returns](schedule/2/paragraph/57.md)
     - [Sch. 2 para. 58 Interpretation](schedule/2/paragraph/58.md)
-    - [Sch. 2 para. 59 Alternative finance arrangements](schedule/2/paragraph/59.md)
 - SCHEDULE 3 Real Estate Investment Trusts
   - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
   - [Sch. 3 para. 2 Conditions for companies in relation to UK REITs](schedule/3/paragraph/2.md)
