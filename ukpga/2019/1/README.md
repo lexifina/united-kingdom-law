@@ -2,9 +2,9 @@
 
 2019 c. 1. Enacted 2019-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-24, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/1/2021-06-10
+Source: https://www.legislation.gov.uk/ukpga/2019/1/2022-02-24
 
 ## Contents
 
@@ -591,10 +591,10 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2021-06-10
     - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
   - Power to amend section 352B of CTA 2009
     - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
-- SCHEDULE 13 Annual investment allowance: periods straddling 1 January 2019 or 1 January 2022
+- SCHEDULE 13 Annual investment allowance: periods straddling 1 January 2019 or 1 April 2023
   - Chargeable periods which straddle 1 January 2019
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
-  - Chargeable periods which straddle 1 January 2022
+  - Chargeable periods which straddle 1 April 2023
     - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
   - Operation of annual investment allowance where restrictions apply
     - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
