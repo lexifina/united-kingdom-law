@@ -2,9 +2,9 @@
 
 2015 c. 11. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-06-10, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-24, one file per provision. Earlier versions, from 2015-03-18, are in the history before it: `git log -- ukpga/2015/11` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/11/2021-06-10
+Source: https://www.legislation.gov.uk/ukpga/2015/11/2022-02-24
 
 ## Contents
 
@@ -151,6 +151,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2021-06-10
     - [s. 101 HMRC review of charging notice](section/101.md)
     - [s. 101A Amendment of CT return during review period: section 80 or 81 case](section/101A.md)
     - [s. 101B Amendment of CT return during review period: section 86 case](section/101B.md)
+    - [s. 101C Closure notices: rules during review period](section/101C.md)
     - [s. 102 Appeal against charging notice or supplementary charging notice](section/102.md)
   - Administration of tax
     - [s. 103 Responsibility for collection and management](section/103.md)
@@ -167,6 +168,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/11/2021-06-10
     - [s. 112 Treatment of a person who is a member of a partnership](section/112.md)
     - [s. 113 “Accounting period” and “corresponding accounting period”](section/113.md)
     - [s. 114 Other defined terms in Part 3](section/114.md)
+    - [s. 114A Application of section 124 of TIOPA 2010 in relation to diverted profits tax](section/114A.md)
   - Final provisions
     - [s. 115 Application of other enactments to diverted profits tax](section/115.md)
     - [s. 116 Commencement and transitional provision](section/116.md)
