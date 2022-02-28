@@ -2,9 +2,9 @@
 
 2021 c. 30. Enacted 2021-11-09.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-01-24, one file per provision. Earlier versions, from 2021-11-09, are in the history before it: `git log -- ukpga/2021/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-02-28, one file per provision. Earlier versions, from 2021-11-09, are in the history before it: `git log -- ukpga/2021/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/30/2022-01-24
+Source: https://www.legislation.gov.uk/ukpga/2021/30/2022-02-28
 
 ## Contents
 
@@ -42,6 +42,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/30/2022-01-24
       - [s. 23 Principal objective of the OEP and exercise of its functions](section/23.md)
       - [s. 24 The OEP’s strategy: process](section/24.md)
       - [s. 25 Guidance on the OEP’s enforcement policy and functions](section/25.md)
+      - [s. 25A Guidance on the OEP’s Northern Ireland enforcement policy and functions](section/25A.md)
       - [s. 26 Memorandum of understanding](section/26.md)
       - [s. 27 Co-operation duties of public authorities and the OEP](section/27.md)
     - The OEP’s scrutiny and advice functions
@@ -230,6 +231,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/30/2022-01-24
   - [Sch. 1 para. 21 Freedom of Information](schedule/1/paragraph/21.md)
   - [Sch. 1 para. 22 Investigation by the Parliamentary Commissioner](schedule/1/paragraph/22.md)
   - [Sch. 1 para. 23 Public sector equality duty](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24 Meaning of “the Northern Ireland Department”](schedule/1/paragraph/24.md)
 - SCHEDULE 2 Improving the natural environment: Northern Ireland
   - PART 1 Environmental improvement plans
     - [Sch. 2 para. 1 Environmental improvement plans](schedule/2/paragraph/1.md)
