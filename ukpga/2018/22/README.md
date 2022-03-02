@@ -2,9 +2,9 @@
 
 2018 c. 22. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-02-24, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-02, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/22/2022-02-24
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2022-03-02
 
 ## Contents
 
@@ -55,7 +55,6 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2022-02-24
     - [s. 31 Territories forming part of a customs union with UK](section/31.md)
   - Regulations etc
     - [s. 32 Regulations etc](section/32.md)
-    - [s. 32A Reference documents](section/32A.md)
   - Interpretation etc
     - [s. 33 Meaning of “domestic goods”](section/33.md)
     - [s. 34 Presentation of goods to Customs on import or export](section/34.md)
