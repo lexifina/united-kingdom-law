@@ -1,0 +1,274 @@
+# Child Support Act 1991
+
+1991 c. 48. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 196 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
+
+Source: https://www.legislation.gov.uk/ukpga/1991/48/2022-03-10
+
+## Contents
+
+- The basic principles
+  - [s. 1 The duty to maintain.](section/1.md)
+  - [s. 2 Welfare of children: the general principle.](section/2.md)
+  - [s. 3 Meaning of certain terms used in this Act.](section/3.md)
+  - [s. 4 Child support maintenance.](section/4.md)
+  - [s. 5 Child support maintenance: supplemental provisions.](section/5.md)
+  - [s. 6 Applications by those claiming or receiving benefit.](section/6.md)
+  - [s. 7 Right of child in Scotland to apply for calculation.](section/7.md)
+  - [s. 8 Role of the courts with respect to maintenance for children.](section/8.md)
+  - [s. 9 Agreements about maintenance.](section/9.md)
+  - [s. 10 Relationship between maintenance calculations and certain court orders and related matters.](section/10.md)
+- Maintenance calculations
+  - [s. 11 Maintenance calculations.](section/11.md)
+  - [s. 12 Default and interim maintenance decisions.](section/12.md)
+- Child support officers
+  - [s. 13 Child support officers.](section/13.md)
+- Information
+  - [s. 14 Information required by Secretary of State.](section/14.md)
+  - [s. 14A Information—offences.](section/14A.md)
+  - [s. 15 Powers of inspectors.](section/15.md)
+  - [s. 15A Inspectors: warrants authorising entry](section/15A.md)
+- Reviews and appeals
+  - [s. 16 Revision of decisions](section/16.md)
+  - [s. 17 Decisions superseding earlier decisions](section/17.md)
+  - [s. 18 Reviews of decisions of child support officers.](section/18.md)
+  - [s. 19 Reviews at instigation of child support officers.](section/19.md)
+  - [s. 20 Appeals to First-tier Tribunal.](section/20.md)
+  - [s. 20A Lapse of appeals.](section/20A.md)
+  - [s. 21 Child support appeal tribunals.](section/21.md)
+  - [s. 22 Child Support Commissioners.](section/22.md)
+  - [s. 23 Child Support Commissioners for Northern Ireland.](section/23.md)
+  - [s. 23A Redetermination of appeals.](section/23A.md)
+  - [s. 24 Appeals to Upper Tribunal](section/24.md)
+  - [s. 25 Appeal from Child Support Commissioner on question of law.](section/25.md)
+  - [s. 26 Disputes about parentage.](section/26.md)
+  - [s. 27 Applications for declaration of parentage under Family Law Act 1986.](section/27.md)
+  - [s. 27A Recovery of fees for scientific tests.](section/27A.md)
+  - [s. 28 Power of Secretary of State to initiate or defend actions of declarator: Scotland.](section/28.md)
+- Decisions and appeals dependent on other cases
+  - [s. 28ZA Decisions involving issues that arise on appeal in other cases](section/28ZA.md)
+  - [s. 28ZB Appeals involving issues that arise on appeal in other cases](section/28ZB.md)
+- Cases of error
+  - [s. 28ZC Restrictions on liability in certain cases of error](section/28ZC.md)
+  - [s. 28ZD Correction of errors and setting aside of decisions](section/28ZD.md)
+- Variations
+  - [s. 28A Application for variation of usual rules for calculating maintenance.](section/28A.md)
+  - [s. 28B Preliminary consideration of applications.](section/28B.md)
+  - [s. 28C Imposition of regular payments condition.](section/28C.md)
+  - [s. 28D Determination of applications.](section/28D.md)
+  - [s. 28E Matters to be taken into account.](section/28E.md)
+  - [s. 28F Agreement to a variation.](section/28F.md)
+  - [s. 28G Variations: revision and supersession.](section/28G.md)
+  - [s. 28H Departure directions: decisions and appeals](section/28H.md)
+  - [s. 28I Transitional provisions.](section/28I.md)
+- Voluntary payments
+  - [s. 28J Voluntary payments.](section/28J.md)
+- Collection and enforcement
+  - [s. 29 Collection of child support maintenance.](section/29.md)
+  - [s. 30 Collection and enforcement of other forms of maintenance.](section/30.md)
+  - [s. 31 Deduction from earnings orders.](section/31.md)
+  - [s. 32 Regulations about deduction from earnings orders.](section/32.md)
+  - [s. 32A Orders for regular deductions from accounts](section/32A.md)
+  - [s. 32B Orders under section 32A: joint accounts](section/32B.md)
+  - [s. 32C Regulations about orders under section 32A](section/32C.md)
+  - [s. 32D Orders under section 32A: offences](section/32D.md)
+  - [s. 32E Lump sum deductions: interim orders](section/32E.md)
+  - [s. 32F Lump sum deductions: final orders](section/32F.md)
+  - [s. 32G Orders under sections 32E and 32F: freezing of accounts etc.](section/32G.md)
+  - [s. 32H Orders under section 32F: deductions and payments](section/32H.md)
+  - [s. 32I Power to disapply sections 32G(1) and (2) and 32H(2)(b) and (4)(b)](section/32I.md)
+  - [s. 32J Regulations about orders under section 32E or 32F](section/32J.md)
+  - [s. 32K Lump sum deduction orders: offences](section/32K.md)
+  - [s. 32L Orders preventing avoidance](section/32L.md)
+  - [s. 33 Liability orders.](section/33.md)
+  - [s. 34 Regulations about liability orders.](section/34.md)
+  - [s. 35 Enforcement of liability orders by taking control of goods.](section/35.md)
+  - [s. 36 Enforcement in county courts.](section/36.md)
+  - [s. 37 Regulations about liability orders: Scotland.](section/37.md)
+  - [s. 38 Enforcement of liability orders by diligence: Scotland.](section/38.md)
+  - [s. 39 Liability orders: enforcement throughout United Kingdom.](section/39.md)
+  - [s. 39A Commitment to prison and disqualification from driving.](section/39A.md)
+  - [s. 39B Disqualification for holding or obtaining United Kingdom passport](section/39B.md)
+  - [s. 39C Period for which orders under section 39B are to have effect](section/39C.md)
+  - [s. 39D Power to order search](section/39D.md)
+  - [s. 39E Variation and revocation of orders following payment](section/39E.md)
+  - [s. 39F Power to make supplementary provision](section/39F.md)
+  - [s. 39G Application of sections 39B and 39F to Scotland](section/39G.md)
+  - [s. 40 Commitment to prison.](section/40.md)
+  - [s. 40A Commitment to prison: Scotland.](section/40A.md)
+  - [s. 40B Disqualification from driving: further provision.](section/40B.md)
+  - [s. 41 Arrears of child support maintenance.](section/41.md)
+  - [s. 41A Penalty payments.](section/41A.md)
+  - [s. 41B Repayment of overpaid child support maintenance.](section/41B.md)
+  - [s. 41C Power to treat liability as satisfied](section/41C.md)
+  - [s. 41D Power to accept part payment of arrears in full and final satisfaction](section/41D.md)
+  - [s. 41E Power to write off arrears](section/41E.md)
+- Special cases
+  - [s. 42 Special cases.](section/42.md)
+  - [s. 43 Recovery of child support maintenance by deduction from benefit.](section/43.md)
+  - [s. 43A Recovery of arrears from deceased’s estate](section/43A.md)
+- Jurisdiction
+  - [s. 44 Jurisdiction.](section/44.md)
+  - [s. 45 Jurisdiction of courts in certain proceedings under this Act.](section/45.md)
+- Miscellaneous and supplemental
+  - [s. 46 Reduced benefit decisions.](section/46.md)
+  - [s. 46A Finality of decisions](section/46A.md)
+  - [s. 46B Matters arising as respects decisions](section/46B.md)
+  - [s. 47 Fees.](section/47.md)
+  - [s. 48 Right of audience.](section/48.md)
+  - [s. 49 Right of audience: Scotland.](section/49.md)
+  - [s. 49D Disclosure of information to credit reference agencies](section/49D.md)
+  - [s. 50 Unauthorised disclosure of information.](section/50.md)
+  - [s. 50A Use of computers](section/50A.md)
+  - [s. 51 Supplementary powers to make regulations.](section/51.md)
+  - [s. 51A Pilot schemes](section/51A.md)
+  - [s. 52 Regulations and orders.](section/52.md)
+  - [s. 53 Financial provisions.](section/53.md)
+  - [s. 54 Interpretation.](section/54.md)
+  - [s. 55 Meaning of “child”.](section/55.md)
+  - [s. 56 Corresponding provision for and co-ordination with Northern Ireland.](section/56.md)
+  - [s. 57 Application to Crown.](section/57.md)
+  - [s. 58 Short title, commencement and extent, etc.](section/58.md)
+- SCHEDULE 1 Maintenance Calculations
+  - PART I Calculation of weekly amount of child support maintenance
+    - General rule
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Basic rate
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Reduced rate
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Flat rate
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Nil rate
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Non-resident parent party to other maintenance arrangement
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+    - Apportionment
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Shared care—basic and reduced rate
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Shared care—flat rate
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Regulations about shared care
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Gross weekly income
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Regulations about rates, figures, etc.
+      - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+    - Regulations about income
+      - [Sch. 1 para. 10B](schedule/1/paragraph/10B.md)
+    - References to various terms
+      - [Sch. 1 para. 10C](schedule/1/paragraph/10C.md)
+  - Part II General Provisions About Maintenance Calculations
+    - Effective date of calculation
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Form of calculation
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Assessments where amount of child support is nil
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Consolidated applications and calculations
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Separate calculations for different periods
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Termination of calculations
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Provision of Information to Secretary of State
+  - Inland Revenue records
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Local authority records
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Child Support Appeal Tribunals
+  - The President
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Membership of child support appeal tribunals
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The chairmen
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Other members of child support appeal tribunals
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Clerks of tribunals
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Expenses of tribunal members and others
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Consultation with Lord Advocate
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Child Support Commissioners for Northern Ireland
+  - Tenure of office
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Commissioners’ remuneration and their pensions
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Expenses of other persons
+    - [Sch. 4 para. 2A](schedule/4/paragraph/2A.md)
+  - Commissioners barred from legal practice
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Deputy Child Support Commissioners
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Determination of questions by other officers
+    - [Sch. 4 para. 4A](schedule/4/paragraph/4A.md)
+  - Tribunals of Commissioners
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Finality of decisions
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Consultation with Lord Advocate
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Northern Ireland
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 4A Applications for a variation
+  - Interpretation
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Applications for a variation
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Completion of preliminary consideration
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Information
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - Joint consideration of applications for a variation and appeals
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+- SCHEDULE 4B Applications for a variation: The Cases and Controls
+  - Part I The Cases
+    - General
+      - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+    - Special expenses
+      - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+    - Property or capital transfers
+      - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+    - Additional cases
+      - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+  - Part II Regulatory Controls
+    - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+    - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+- SCHEDULE 4C Decisions and Appeals: Departure Directions and Reduced Benefit Directions etc.
+  - Revision of decisions
+    - [Sch. 4C para. 1](schedule/4C/paragraph/1.md)
+  - Decisions superseding earlier decisions
+    - [Sch. 4C para. 2](schedule/4C/paragraph/2.md)
+  - Appeals to appeal tribunals
+    - [Sch. 4C para. 3](schedule/4C/paragraph/3.md)
+  - Decisions and appeals dependent on other cases
+    - [Sch. 4C para. 4](schedule/4C/paragraph/4.md)
+    - [Sch. 4C para. 5](schedule/4C/paragraph/5.md)
+  - Cases of error
+    - [Sch. 4C para. 6](schedule/4C/paragraph/6.md)
+- SCHEDULE 5 Consequential Amendments
+  - The Tribunals and Inquiries Act 1971 (c.62)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Northern Ireland Constitution Act 1973 (c. 36)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c.25)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Family Law (Scotland) Act 1985 (c.37)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Bankruptcy (Scotland) Act 1985 (c.66)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Insolvency Act 1986 (c.45)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - The Debtors (Scotland) Act 1987 (c.18)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
