@@ -1,0 +1,129 @@
+# Agriculture Act 1947
+
+1947 c. 48. Enacted 1947-08-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/10-11/48
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/10-11/48/2022-03-10
+
+## Contents
+
+- Part I Guaranteed Prices and Assured Markets
+  - [s. 1 Provisions for securing efficient agricultural production and proper agricultural conditions.](section/1.md)
+  - [s. 2 † Annual and special reviews of condition of agricultural industry.](section/2.md)
+  - [s. 37. ................................](section/37.md)
+  - [s. 8 Interpretation of Part I.](section/8.md)
+- Part II Good Estate Management and Good Husbandry
+  - [s. 9 ................................](section/9.md)
+  - Rules of good estate management and good husbandry
+    - [s. 10 Good estate management.](section/10.md)
+    - [s. 11 Good husbandry.](section/11.md)
+    - [s. 1220. ................................](section/1220.md)
+    - [s. 21 ................................](section/21.md)
+- Part III
+  - [s. 2246. ................................](section/2246.md)
+- Part IV Smallholdings
+  - [s. 4752. ................................](section/4752.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 5457. ................................](section/5457.md)
+  - Financial provisions
+    - [s. 58 Contributions by Minister to losses incurred by smallholdings authorities.](section/58.md)
+    - [s. 59 Winding-up of Small Holdings and Allotments Account.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Supplementary provisions
+    - [s. 6166. ................................](section/6166.md)
+    - [s. 67 Application and repeal of provisions of Small Holdings and Allotments Acts, 1908 to 1931.](section/67.md)
+- Part V Administrative and General
+  - [s. 6869. ................................](section/6869.md)
+  - [s. 70 ................................](section/70.md)
+  - [s. 7172. ................................](section/7172.md)
+  - Agricultural Land Tribunals
+    - [s. 73 Establishment, constitution and procedure of Agricultural Land Tribunal.](section/73.md)
+    - [s. 74 Proceedings before Agricultural Land Tribunal on reference of Minister’s proposals.](section/74.md)
+  - Supplementary administrative provisions.
+    - [s. 75 Provisions where some land is in Wales and some is in England and transfer of proceedings](section/75.md)
+    - [s. 76 ................................](section/76.md)
+  - Statistics of Agriculture in Great Britain
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 Power to obtain agricultural statistics.](section/78.md)
+    - [s. 79 Information as to dealings in land used for agriculture.](section/79.md)
+    - [s. 80 Restriction on disclosure of information.](section/80.md)
+    - [s. 81 Penalties.](section/81.md)
+  - General powers of acquisition and management of land by Minister
+    - [s. 82 Powers of Minister to acquire land by agreement.](section/82.md)
+    - [s. 83 Acquisition by Minister of land for research, experiment and demonstration.](section/83.md)
+    - [s. 84 Acquisition of land by Minister to ensure full and efficient use thereof.](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 Control of subdivision of agricultural units.](section/86.md)
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 Transfer to Minister of land vested in other Government departments.](section/88.md)
+    - [s. 89 Transfer of land from Land Settlement Associations to Minister.](section/89.md)
+    - [s. 90 Powers of management, etc., of land acquired by Minister.](section/90.md)
+    - [s. 91 ................................](section/91.md)
+  - Provisions as to compulsory acquisition of land
+    - [s. 92 Procedure for compulsory purchase of land.](section/92.md)
+    - [s. 93 Compulsory hiring of land.](section/93.md)
+    - [s. 94 Limitation of period of compulsory hiring.](section/94.md)
+  - Special directions to secure production
+    - [s. 95 Special directions to secure production.](section/95.md)
+  - Continuation of contributions to cost of drainage, water supply and application of lime.
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 ................................](section/97.md)
+  - Pest and weed control
+    - [s. 98 Prevention of damage by pests.](section/98.md)
+    - [s. 99 Prevention of escape of captive animals.](section/99.md)
+    - [s. 100 Supplementary provisions relating to sections ninety-eight and ninety-nine.](section/100.md)
+    - [s. 101 Provision by Minister of equipment and services for pest control.](section/101.md)
+    - [s. 102 ................................](section/102.md)
+  - Supplementary
+    - [s. 103 ................................](section/103.md)
+    - [s. 104 Provisions as to representations.](section/104.md)
+    - [s. 105 Expenses and receipts.](section/105.md)
+    - [s. 106 Provisions as to entry and inspection.](section/106.md)
+    - [s. 107 Services of notices.](section/107.md)
+    - [s. 108 Regulations and orders.](section/108.md)
+    - [s. 109 Interpretation.](section/109.md)
+    - [s. 110 ................................](section/110.md)
+    - [s. 111 †Short title, commencement and extent.](section/111.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE Provisions where permanent pasture directed to be ploughed up or other cultivations to be carried out
+  - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+  - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+  - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+  - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+- THIRD TO SEVENTH SCHEDULES
+- EIGHTH SCHEDULE Provisions of Small Holdings and Allotments Acts Applied or Saved
+  - Part I
+  - Part II Provisions Saved
+- NINTH SCHEDULE Constitution etc. of Commission, Sub-Commission, Committees and Tribunals
+  - [Sch. NINTH para. 16. ................................](schedule/NINTH/paragraph/16.md)
+  - [Sch. NINTH para. 712. ................................](schedule/NINTH/paragraph/712.md)
+  - Agricultural Land Tribunal
+    - [Sch. NINTH para. 13](schedule/NINTH/paragraph/13.md)
+    - [Sch. NINTH para. 14](schedule/NINTH/paragraph/14.md)
+    - [Sch. NINTH para. 15](schedule/NINTH/paragraph/15.md)
+    - [Sch. NINTH para. 15A](schedule/NINTH/paragraph/15A.md)
+    - [Sch. NINTH para. 16-72](schedule/NINTH/paragraph/16-72.md)
+    - [Sch. NINTH para. 16A](schedule/NINTH/paragraph/16A.md)
+    - [Sch. NINTH para. 17](schedule/NINTH/paragraph/17.md)
+    - [Sch. NINTH para. 18 ................................](schedule/NINTH/paragraph/18.md)
+  - Disqualifications for appointment
+    - [Sch. NINTH para. 19](schedule/NINTH/paragraph/19.md)
+  - Validity of acts
+    - [Sch. NINTH para. 20](schedule/NINTH/paragraph/20.md)
+    - [Sch. NINTH para. 21 ................................](schedule/NINTH/paragraph/21.md)
+  - Officers and Servants
+    - [Sch. NINTH para. 22](schedule/NINTH/paragraph/22.md)
+  - Remuneration and Expenses
+    - [Sch. NINTH para. 23](schedule/NINTH/paragraph/23.md)
+  - Proof of Instruments
+    - [Sch. NINTH para. 24](schedule/NINTH/paragraph/24.md)
+- TENTH SCHEDULE
+- ELEVENTH SCHEDULE Application in relation to Mortgages and Charges of section 86 of Act
+  - [Sch. ELEVENTH para. 1](schedule/ELEVENTH/paragraph/1.md)
+  - [Sch. ELEVENTH para. 2](schedule/ELEVENTH/paragraph/2.md)
+- TWELFTH SCHEDULE
+- THIRTEENTH SCHEDULE
