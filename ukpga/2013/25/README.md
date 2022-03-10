@@ -2,9 +2,9 @@
 
 2013 c. 25. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-05-14, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-10, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/25/2018-05-14
+Source: https://www.legislation.gov.uk/ukpga/2013/25/2022-03-10
 
 ## Contents
 
@@ -24,6 +24,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/25/2018-05-14
 - Cost control
   - [s. 11 Valuations](section/11.md)
   - [s. 12 Employer cost cap](section/12.md)
+  - [s. 12A Sections 11 and 12: restricted schemes](section/12A.md)
   - [s. 13 Employer contributions in funded schemes](section/13.md)
 - Administration
   - [s. 14 Information about benefits](section/14.md)
@@ -41,6 +42,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/25/2018-05-14
   - [s. 24 Other procedure](section/24.md)
 - New schemes: supplementary
   - [s. 25 Extension of schemes](section/25.md)
+  - [s. 25A Extension of schemes where definition of “the judiciary” expanded](section/25A.md)
   - [s. 26 Non-scheme benefits](section/26.md)
   - [s. 27 Consequential and minor amendments](section/27.md)
 - Existing schemes: supplementary
