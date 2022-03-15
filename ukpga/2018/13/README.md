@@ -2,9 +2,9 @@
 
 2018 c. 13. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-11-11, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-15, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/13/2021-11-11
+Source: https://www.legislation.gov.uk/ukpga/2018/13/2022-03-15
 
 ## Contents
 
@@ -52,7 +52,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2021-11-11
       - [s. 31 Independent review of regulations with counter-terrorism purpose](section/31.md)
       - [s. 32 Periodic reports on exercise of power to make regulations under section 1](section/32.md)
     - Procedure for requests to, and reviews by, appropriate Minister
-      - [s. 33 Procedure for requests to, and reviews by, appropriate Minister](section/33.md)
+      - [s. 33 Procedure for requests to ... appropriate Minister](section/33.md)
   - CHAPTER 3 Temporary powers in relation to EU sanctions lists
     - [s. 34 Temporary powers in relation to EU sanctions lists](section/34.md)
     - [s. 35 Directions under section 34: further provision](section/35.md)
