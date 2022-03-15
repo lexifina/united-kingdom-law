@@ -2,9 +2,9 @@
 
 2022 c. 10. Enacted 2022-03-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-03-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-15, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
+Source: https://www.legislation.gov.uk/ukpga/2022/10/2022-03-15
 
 ## Contents
 
@@ -25,16 +25,13 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
     - [s. 10 Processing of application under section 9](section/10.md)
     - [s. 11 Transfer of documents to Public Record Office](section/11.md)
   - Obtaining, updating and verifiying information
-    - [s. 12 Duty to take steps to obtain information](section/12.md)
+    - [s. 12 Identifying registrable beneficial owners](section/12.md)
     - [s. 13 Additional powers to obtain information](section/13.md)
     - [s. 14 Sections 12 and 13: supplementary](section/14.md)
     - [s. 15 Failure to comply with notice under section 12 or 13](section/15.md)
-    - [s. 15A False statements under section 12 or 13: basic offence](section/15A.md)
-    - [s. 15B False statements under section 12 or 13: aggravated offence](section/15B.md)
     - [s. 16 Verification of registrable beneficial owners and managing officers](section/16.md)
   - Exemptions
     - [s. 17 Power to modify application process etc in certain cases](section/17.md)
-    - [s. 17A Exceptions to duty to provide change of beneficiary information](section/17A.md)
     - [s. 18 Exemptions](section/18.md)
   - Language requirement
     - [s. 19 Documents to be in English](section/19.md)
@@ -43,21 +40,18 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
   - Inspection of the register and protection of information
     - [s. 21 Inspection and copies of register](section/21.md)
     - [s. 22 Material unavailable for inspection](section/22.md)
-    - [s. 23 Disclosure of protected information](section/23.md)
-    - [s. 24 Consultation about regulations under section 23](section/24.md)
-    - [s. 25 Power to make regulations protecting material](section/25.md)
+    - [s. 23 Disclosure of information about trusts](section/23.md)
+    - [s. 24 Disclosure of protected information](section/24.md)
+    - [s. 25 Power to protect other information](section/25.md)
     - [s. 26 Data protection](section/26.md)
   - Correction or removal of material on the register
-    - [s. 27 Resolving inconsistencies ...](section/27.md)
-    - [s. 28 Administrative removal of material from the register](section/28.md)
-    - [s. 28A Further provision about removal of material from the register](section/28A.md)
+    - [s. 27 Resolving inconsistencies in the register](section/27.md)
+    - [s. 28 Administrative removal of material from register](section/28.md)
     - [s. 29 Application to rectify register](section/29.md)
-    - [s. 29A](section/29A.md)
     - [s. 30 Court order to rectify register](section/30.md)
     - [s. 31 Court powers on ordering removal of material from the register](section/31.md)
   - False statements
-    - [s. 32 False statements: basic offence](section/32.md)
-    - [s. 32A False statements: aggravated offence](section/32A.md)
+    - [s. 32 General false statement offence](section/32.md)
   - Land ownership and transactions
     - [s. 33 Land ownership and transactions](section/33.md)
     - [s. 34 Power to require overseas entity to register if it owns certain land](section/34.md)
@@ -74,7 +68,6 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
     - [s. 41 Applications in the transitional period: information about land transactions](section/41.md)
     - [s. 42 Requirement for certain unregistered overseas entities to provide information](section/42.md)
     - [s. 43 Section 42: supplementary](section/43.md)
-    - [s. 43A Duty to deliver further information for transitional cases](section/43A.md)
   - Interpretation
     - [s. 44 Interpretation](section/44.md)
 - PART 2 Unexplained wealth orders
@@ -138,7 +131,6 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
   - PART 2 Meaning of “beneficial owner”
     - [Sch. 2 para. 5 Introduction](schedule/2/paragraph/5.md)
     - [Sch. 2 para. 6 Beneficial owners](schedule/2/paragraph/6.md)
-    - [Sch. 2 para. 6A Persons treated as beneficial owners where entity holds land as nominee](schedule/2/paragraph/6A.md)
   - PART 3 Meaning of “subject to its own disclosure requirements”
     - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
   - PART 4 Beneficial owners exempt from registration
@@ -160,8 +152,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
     - [Sch. 2 para. 22 Rights attached to shares held by way of security](schedule/2/paragraph/22.md)
     - [Sch. 2 para. 23 Limited partnerships](schedule/2/paragraph/23.md)
     - [Sch. 2 para. 24 Meaning of “director”](schedule/2/paragraph/24.md)
-  - PART 6 Powers to amend this Schedule
-    - [Sch. 2 para. 24A Expansion of meaning of “registrable beneficial owner” where trusts in view](schedule/2/paragraph/24A.md)
+  - PART 6 Power to amend thresholds etc
     - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
 - SCHEDULE 3 Land ownership and transactions: England and Wales
   - PART 1 Amendments to Land Registration Act 2002
@@ -195,13 +186,3 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
   - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
   - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
   - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
-- SCHEDULE 6 Duty to deliver further information for transitional cases
-  - [Sch. 6 para. 1 Application of this Schedule](schedule/6/paragraph/1.md)
-  - [Sch. 6 para. 2 Duty to deliver statements and information](schedule/6/paragraph/2.md)
-  - [Sch. 6 para. 3 Information about changes in beneficial ownership](schedule/6/paragraph/3.md)
-  - [Sch. 6 para. 4 Information about trusts and changes in beneficiaries](schedule/6/paragraph/4.md)
-  - [Sch. 6 para. 5 Information about changes in trusts of which registrable beneficial owners trustees](schedule/6/paragraph/5.md)
-  - [Sch. 6 para. 6 Compliance by confirmation of information previously provided](schedule/6/paragraph/6.md)
-  - [Sch. 6 para. 7 Failure to comply with this Schedule](schedule/6/paragraph/7.md)
-  - [Sch. 6 para. 8 Obtaining information](schedule/6/paragraph/8.md)
-  - [Sch. 6 para. 9 Power to exclude descriptions of registrable beneficial owner](schedule/6/paragraph/9.md)
