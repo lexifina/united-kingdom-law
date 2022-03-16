@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-12-08, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-16, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2021-12-08
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2022-03-16
 
 ## Contents
 
@@ -449,6 +449,22 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2021-12-08
     - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
     - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
     - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - PART3 SCOTTISH BODIES
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
 - SCHEDULE 8 Specified persons for the purposes of the fraud provisions
   - PART 1 UK AND ENGLISH BODIES
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
@@ -509,6 +525,25 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2021-12-08
     - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
     - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
     - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+  - PART3 SCOTTISH BODIES
+    - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+    - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+    - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+    - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+    - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+    - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+    - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+    - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+    - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+    - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+    - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+    - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
 - SCHEDULE 9 Bank of England oversight of payment systems
   - PART 1 Extension of Bank of England oversight of payment systems
     - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
