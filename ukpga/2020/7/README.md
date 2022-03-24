@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-03-23, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-24, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
 
 ## Contents
 
@@ -245,8 +245,10 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
       - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
       - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
 - SCHEDULE 8 Mental health: England and Wales
-  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
-  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Interpretation
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Forms
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
     - Applications for compulsory admission to hospital for assessment or treatment
       - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
     - Applications for compulsory admission of patients already in hospital
@@ -263,6 +265,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
       - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
     - Detention in place of safety
       - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Constitution and proceedings of the Mental Health Review Tribunal for Wales
       - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
       - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
       - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
@@ -311,21 +314,34 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
     - The Mental Health (Conflict of Interest) (Scotland) Regulations 2017 (SSI 2017/174)
       - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
 - SCHEDULE 10 Mental health: Northern Ireland
-  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
-  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
-  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
-  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
-  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
-  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
-  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
-  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
-  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
-  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
-  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
-  - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
-  - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
-  - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Interpretation
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Applications for compulsory admission to hospital for assessment
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Medical recommendation
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Applications for compulsory admission for assessment in respect of patients already in hospital
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - The assessment period
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Rectification of applications, recommendations and reports
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Detention for treatment
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Periods of remand to hospital
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Required medical evidence for remand to hospital, hospital or guardianship order, interim hospital order, determinations of question of fitness to be tried or finding of not guilty on ground of insanity
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Required medical evidence for hospital order in respect of certain other detained persons in their absence
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Directions for the transfer of prisoners etc to hospital
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Conveyance of accused or convicted persons to hospital
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Designation of, and admission of persons to, different hospitals in pursuance of hospital orders
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
   - PART 3 Transitional provision
     - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
     - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
@@ -420,11 +436,13 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
       - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
       - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
       - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - Charging for meeting needs during emergency period
       - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
       - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
       - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
       - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
       - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - Guidance
       - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
 - SCHEDULE 13 Registration of deaths and still-births
   - PART 1 England and Wales
@@ -527,11 +545,15 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
   - Enforcement
     - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
 - SCHEDULE 16 Temporary closure of educational institutions and childcare premises
-  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
-  - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
-  - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
-  - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
-  - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - Schools, 16 to 19 Academies, further and higher education providers
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - Registered childcare providers
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - Effect of temporary closure directions on other provisions
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - Authorisations
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
   - PART 2 Scotland
     - Interpretation
       - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
@@ -620,9 +642,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
     - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
     - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
 - SCHEDULE 21 Powers relating to potentially infectious persons
-  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
-  - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
-  - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - Overview
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - Potentially infectious persons
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
   - PART 2 Powers relating to potentially infectious persons in England
     - Declarations of risks of coronavirus in England
       - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
@@ -763,8 +787,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
     - Supplementary interpretation
       - [Sch. 21 para. 89](schedule/21/paragraph/89.md)
 - SCHEDULE 22 Powers to issue directions relating to events, gatherings and premises
-  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
-  - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - Interpretation
+      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
   - PART 2 Powers relating to events, gatherings and premises in England
     - Declaration of threat to public health in England due to coronavirus
       - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
@@ -934,16 +959,23 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-23
   - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
   - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
   - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
-  - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
-  - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
-  - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
-  - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
-  - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
-  - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
-  - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
-  - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
-  - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
-  - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+    - Directions to do things calculated to facilitate dealing with dead bodies etc
+      - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+    - Power of ministers etc to step in
+      - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - Appropriate national authority directions to prevail
+      - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - Compensation where directions given
+      - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+    - Guidance
+      - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+    - General provisions about directions and schemes
+      - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+    - Procedure
+      - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+      - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+      - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+      - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
 - SCHEDULE 29 Residential tenancies in England and Wales: protection from eviction
   - Interpretation
     - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
