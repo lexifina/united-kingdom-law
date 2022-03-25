@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-03-24, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-25, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-25
 
 ## Contents
 
@@ -245,10 +245,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
       - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
       - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
 - SCHEDULE 8 Mental health: England and Wales
-    - Interpretation
-      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
-    - Forms
-      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - PART 2 Modifications of the Mental Health Act 1983 and related provision
     - Applications for compulsory admission to hospital for assessment or treatment
       - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
     - Applications for compulsory admission of patients already in hospital
@@ -314,9 +313,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
     - The Mental Health (Conflict of Interest) (Scotland) Regulations 2017 (SSI 2017/174)
       - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
 - SCHEDULE 10 Mental health: Northern Ireland
-    - Interpretation
-      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
-      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - PART 2 Modifications of the Mental Health (Northern Ireland) Order 1986
     - Applications for compulsory admission to hospital for assessment
       - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
     - Medical recommendation
@@ -341,6 +340,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
       - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
     - Designation of, and admission of persons to, different hospitals in pursuance of hospital orders
       - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Code of practice
       - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
   - PART 3 Transitional provision
     - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
@@ -436,13 +436,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
       - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
       - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
       - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
-    - Charging for meeting needs during emergency period
       - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
       - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
       - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
       - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
       - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
-    - Guidance
       - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
 - SCHEDULE 13 Registration of deaths and still-births
   - PART 1 England and Wales
@@ -545,6 +543,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
   - Enforcement
     - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
 - SCHEDULE 16 Temporary closure of educational institutions and childcare premises
+  - PART 1 England and Wales
     - Schools, 16 to 19 Academies, further and higher education providers
       - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
     - Registered childcare providers
@@ -553,6 +552,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
       - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
     - Authorisations
       - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - Publication, duration and guidance
       - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
   - PART 2 Scotland
     - Interpretation
@@ -642,10 +642,12 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
     - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
     - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
 - SCHEDULE 21 Powers relating to potentially infectious persons
+  - PART 1 Overview and interpretation
     - Overview
       - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
     - Potentially infectious persons
       - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - Other definitions
       - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
   - PART 2 Powers relating to potentially infectious persons in England
     - Declarations of risks of coronavirus in England
@@ -787,8 +789,10 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
     - Supplementary interpretation
       - [Sch. 21 para. 89](schedule/21/paragraph/89.md)
 - SCHEDULE 22 Powers to issue directions relating to events, gatherings and premises
+  - PART 1 General
     - Interpretation
       - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - Disapplication to the Parliamentary Estate
       - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
   - PART 2 Powers relating to events, gatherings and premises in England
     - Declaration of threat to public health in England due to coronavirus
@@ -915,10 +919,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
       - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
     - Prohibitions and limitations on use of live links
       - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
-  - PART 2 Expansion of powers under the Extradition Act 2003
-    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
-    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
-    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+      - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+      - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+      - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
   - PART 3 Other modifications
     - Police and Criminal Evidence Act 1984
       - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
@@ -955,10 +958,13 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
   - PART 3 Availability of live links in certain magistrates’ court proceedings in Northern Ireland
     - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
 - SCHEDULE 28 Transportation, storage and disposal of dead bodies etc
-  - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
-  - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
-  - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
-  - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+  - PART 1 Information about capacity
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+  - PART 2 Directions and other measures to address lack of capacity
+    - Designation where there is insufficient capacity to deal with dead bodies etc
+      - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
     - Directions to do things calculated to facilitate dealing with dead bodies etc
       - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
     - Power of ministers etc to step in
@@ -973,9 +979,12 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
       - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
     - Procedure
       - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
-      - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
-      - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
-      - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+  - PART 3 Power to direct local authorities etc
+    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+  - PART 4 Deceased’s wishes etc
+    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+  - PART 5 Interpretation
+    - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
 - SCHEDULE 29 Residential tenancies in England and Wales: protection from eviction
   - Interpretation
     - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
@@ -984,10 +993,15 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-24
   - Secure tenancies
     - [Sch. 29 para. 3](schedule/29/paragraph/3.md)
     - [Sch. 29 para. 4](schedule/29/paragraph/4.md)
+  - Flexible tenancies
     - [Sch. 29 para. 5](schedule/29/paragraph/5.md)
+  - Assured tenancies
     - [Sch. 29 para. 6](schedule/29/paragraph/6.md)
+  - Assured shorthold tenancies
     - [Sch. 29 para. 7](schedule/29/paragraph/7.md)
+  - Introductory tenancies
     - [Sch. 29 para. 8](schedule/29/paragraph/8.md)
+  - Demoted tenancies
     - [Sch. 29 para. 9](schedule/29/paragraph/9.md)
   - Consequential modifications in relation to prescribed forms
     - [Sch. 29 para. 10](schedule/29/paragraph/10.md)
