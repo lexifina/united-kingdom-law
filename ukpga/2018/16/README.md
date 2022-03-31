@@ -2,9 +2,9 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-31, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2022-03-31
 
 ## Contents
 
@@ -72,7 +72,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-12-31
       - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
     - No power to make provision outside devolved competence
       - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
-    - No power to modify retained direct EU legislation or confer certain functions
+    - ...
       - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
     - Requirement for consultation in certain circumstances
       - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
@@ -127,7 +127,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2020-12-31
   - Part 1 Corresponding provision in relation to executive competence
     - Scotland Act 1998
       - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-    - Government of Wales Act 2006
+    - ...
       - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
     - Northern Ireland Act 1998
       - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
