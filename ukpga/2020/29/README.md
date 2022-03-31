@@ -2,9 +2,9 @@
 
 2020 c. 29. Enacted 2020-12-31.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-07-23, one file per provision. Earlier versions, from 2020-12-31, are in the history before it: `git log -- ukpga/2020/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-31, one file per provision. Earlier versions, from 2020-12-31, are in the history before it: `git log -- ukpga/2020/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/29/2021-07-23
+Source: https://www.legislation.gov.uk/ukpga/2020/29/2022-03-31
 
 ## Contents
 
@@ -215,11 +215,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/29/2021-07-23
       - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
 - SCHEDULE 6 Consequential and transitional provision etc.
   - PART 1 Consequential provision
-    - Scotland Act 1998
+    - ...
       - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
-    - Northern Ireland Act 1998
+    - ...
       - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
-    - Government of Wales Act 2006
+    - ...
       - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
     - Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)
       - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
