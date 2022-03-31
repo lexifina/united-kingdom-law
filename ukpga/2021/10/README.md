@@ -2,9 +2,9 @@
 
 2021 c. 10. Enacted 2021-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-06-30, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-03-31, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/10/2021-06-30
+Source: https://www.legislation.gov.uk/ukpga/2021/10/2022-03-31
 
 ## Contents
 
@@ -65,11 +65,11 @@ Source: https://www.legislation.gov.uk/ukpga/2021/10/2021-06-30
   - PART 4 Scrutiny of regulations under section 2(10)(b)
     - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
 - SCHEDULE 3 Exceptions to restrictions in the devolution settlements
-  - Scotland Act 1998
+  - ...
     - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
-  - Government of Wales Act 2006
+  - ...
     - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
-  - Northern Ireland Act 1998
+  - ...
     - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
   - Transitional exception
     - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
