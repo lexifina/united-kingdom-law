@@ -1,0 +1,254 @@
+# Health and Social Care (Reform) Act (Northern Ireland) 2009
+
+nia/2009/1. Enacted 2009-01-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2009/1
+
+Source: https://www.legislation.gov.uk/nia/2009/1/2022-04-01
+
+## Contents
+
+- Restructuring of administration of health and social care
+  - [s. 1 Restructuring of administration of health and social care](section/1.md)
+- Department’s role in promoting and providing health and social care
+  - [s. 2 Department’s general duty](section/2.md)
+  - [s. 3 Department’s general power](section/3.md)
+  - [s. 3A Provision of health care outside Northern Ireland](section/3A.md)
+  - [s. 4 Department’s priorities and objectives](section/4.md)
+  - [s. 5 The framework document](section/5.md)
+  - [s. 6 Power of Department to give directions to certain bodies](section/6.md)
+- ...
+  - [s. 7 The Regional Health and Social Care Board](section/7.md)
+  - [s. 8 Functions of the Regional Board](section/8.md)
+  - [s. 9 Local Commissioning Groups](section/9.md)
+  - [s. 10 Power of Regional Board to give directions and guidance to HSC trusts](section/10.md)
+  - [s. 11 Provision of information, etc. to Regional Board by HSC trusts](section/11.md)
+- The Regional Agency
+  - [s. 12 The Regional Agency for Public Health and Social Well-being](section/12.md)
+  - [s. 13 Functions of the Regional Agency](section/13.md)
+- RBSO
+  - [s. 14 The Regional Business Services Organisation](section/14.md)
+  - [s. 15 Functions of RBSO: support services](section/15.md)
+  - [s. 15A Other functions of RBSO](section/15A.md)
+- Local area bodies
+  - [s. 15B Duty to establish bodies for local areas](section/15B.md)
+  - [s. 15C Power of Department to give directions and guidance](section/15C.md)
+- Patient representation and public involvement
+  - [s. 16 The Patient and Client Council](section/16.md)
+  - [s. 17 Functions of the Patient and Client Council](section/17.md)
+  - [s. 18 Duty to co-operate with the Patient and Client Council](section/18.md)
+  - [s. 19 Public involvement and consultation](section/19.md)
+  - [s. 20 Public involvement: consultation schemes](section/20.md)
+- HSC trusts
+  - [s. 21 Duty on HSC trusts in relation to improvement of health and social well-being](section/21.md)
+- Public-private partnerships
+  - [s. 22 Public-private partnerships](section/22.md)
+- Transfer of assets, liabilities and functions
+  - [s. 23 Schemes for transfer of assets and liabilities](section/23.md)
+  - [s. 24 Transfer of functions of Health and Social Services Boards](section/24.md)
+  - [s. 25 Transfer of functions of the Mental Health Commission](section/25.md)
+  - [s. 26 Transfer of functions of Central Services Agency](section/26.md)
+  - [s. 27 Amendment of statutory and other references to dissolved bodies, etc.](section/27.md)
+  - [s. 28 Dissolution of special agencies](section/28.md)
+- Supplementary
+  - [s. 29 Orders, regulations, guidance and directions](section/29.md)
+  - [s. 30 Further provision](section/30.md)
+  - [s. 31 Interpretation](section/31.md)
+  - [s. 32 Minor and consequential amendments](section/32.md)
+  - [s. 33 Repeals](section/33.md)
+  - [s. 34 Commencement](section/34.md)
+  - [s. 35 Short title](section/35.md)
+- SCHEDULE 1 THE REGIONAL HEALTH AND SOCIAL CARE BOARD
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Term of office
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Resignation and removal
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Committees
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Sub-committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Disclosure of pecuniary, etc., interests and related provisions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The chief officer and other staff
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Application of the seal
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Execution of documents
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Finance
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Accounts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Annual report
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Interpretation
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Information
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Default powers of Department
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 THE REGIONAL AGENCY FOR PUBLIC HEALTH AND SOCIAL WELL-BEING
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - General powers
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Membership
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Term of office
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Resignation and removal
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Committees
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Sub-committees
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Proceedings
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Validity of proceedings
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Disclosure of pecuniary, etc., interests and related provisions
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - The chief officer and other staff
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Application of the seal
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Execution of documents
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Finance
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Accounts
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Annual report
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Interpretation
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Information
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Default powers of Department
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- SCHEDULE 3 THE REGIONAL BUSINESS SERVICES ORGANISATION
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - General powers
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Membership
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Appointment, procedure etc.
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The chief officer
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Application of the seal
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Execution of documents
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Finance
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Accounts
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Annual report
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Interpretation
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Information
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Default powers of Department
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 THE PATIENT AND CLIENT COUNCIL
+  - Status
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - General powers
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Membership
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Appointment, procedure etc.
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The chief officer
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Application of the seal
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Execution of documents
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Finance
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Accounts
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Annual report
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Interpretation
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Information
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Default powers of Department
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 TRANSFER OF ASSETS, ETC.
+  - PART 1 TRANSFER SCHEMES
+    - Transfer of assets and liabilities
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Transfer of employed staff
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Continuity
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - PART 2 ACCOUNTS AND REPORTS OF DISSOLVED BODIES
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - General amendment of certain references to health and social services, etc.
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - The Public Health Act (Northern Ireland) 1967 (c. 36)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - The Order of 1972
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The Solicitors (Northern Ireland) Order 1976 (NI 12)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - The Chronically Sick and Disabled Persons (Northern Ireland) Act 1978 (c. 53)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - The Magistrates’ Courts (Northern Ireland) Order 1981 (NI 26)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - The Mental Health (Northern Ireland) Order 1986 (NI 4)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - The AIDS (Control) (Northern Ireland) Order 1987 (NI 18)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - The Water (Fluoridation) (Northern Ireland) Order 1987 (NI 21)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - The Health and Medicines (Northern Ireland) Order 1988 (NI 24)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - The Disabled Persons (Northern Ireland) Act 1989 (c. 10)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - The Health and Personal Social Services (Northern Ireland) Order 1991 (NI 1)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - The Children (Northern Ireland) Order 1995 (NI 2)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - The Criminal Justice (Northern Ireland) Order 1996 (NI 24)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - The Freedom of Information Act 2000 (c. 36)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - The Health and Personal Social Services Act (Northern Ireland) 2001 (c. 3)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - The Audit and Accountability (Northern Ireland) Order 2003 (NI 5)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+- SCHEDULE 7 REPEALS
