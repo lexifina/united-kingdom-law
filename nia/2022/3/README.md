@@ -1,0 +1,390 @@
+# Health and Social Care Act (Northern Ireland) 2022
+
+nia/2022/3. Enacted 2022-02-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2022/3
+
+Source: https://www.legislation.gov.uk/nia/2022/3/2022-04-01
+
+## Contents
+
+- The Regional Board
+  - [s. 1 Dissolution of the Regional Health and Social Care Board](section/1.md)
+  - [s. 2 Transfer of the Regional Board’s functions](section/2.md)
+- Local bodies
+  - [s. 3 Continuation of Local Commissioning Groups](section/3.md)
+  - [s. 4 Duty to establish bodies for local areas](section/4.md)
+- Supplementary
+  - [s. 5 Schemes for transfer of assets and liabilities](section/5.md)
+  - [s. 6 Transitional provision](section/6.md)
+  - [s. 7 Interpretation](section/7.md)
+  - [s. 8 Commencement](section/8.md)
+  - [s. 9 Short title](section/9.md)
+- SCHEDULE 1 Transfer of the Regional Board’s functions
+  - Factories Act (Northern Ireland) 1965
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Children and Young Persons Act (Northern Ireland) 1968
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Superannuation (Northern Ireland) Order 1972
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1972
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+  - Solicitors (Northern Ireland) Order 1976
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+  - Pharmacy (Northern Ireland) Order 1976
+    - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+  - Chronically Sick and Disabled Persons (Northern Ireland) Act 1978
+    - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+    - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+  - Health and Safety at Work (Northern Ireland) Order 1978
+    - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+  - Judgments Enforcement (Northern Ireland) Order 1981
+    - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+  - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981
+    - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+  - Diseases of Animals (Northern Ireland) Order 1981
+    - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+  - Dentists Act 1984
+    - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+  - Mental Health (Northern Ireland) Order 1986
+    - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+    - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+    - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+    - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+    - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+    - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+    - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+    - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+    - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+    - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+    - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+    - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+    - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+    - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+    - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+    - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+    - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+    - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+    - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+    - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+    - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+    - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+    - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+    - [Sch. 1 para. 100](schedule/1/paragraph/100.md)
+    - [Sch. 1 para. 101](schedule/1/paragraph/101.md)
+  - Adoption (Northern Ireland) Order 1987
+    - [Sch. 1 para. 102](schedule/1/paragraph/102.md)
+    - [Sch. 1 para. 103](schedule/1/paragraph/103.md)
+    - [Sch. 1 para. 104](schedule/1/paragraph/104.md)
+    - [Sch. 1 para. 105](schedule/1/paragraph/105.md)
+    - [Sch. 1 para. 106](schedule/1/paragraph/106.md)
+    - [Sch. 1 para. 107](schedule/1/paragraph/107.md)
+    - [Sch. 1 para. 108](schedule/1/paragraph/108.md)
+    - [Sch. 1 para. 109](schedule/1/paragraph/109.md)
+    - [Sch. 1 para. 110](schedule/1/paragraph/110.md)
+    - [Sch. 1 para. 111](schedule/1/paragraph/111.md)
+    - [Sch. 1 para. 112](schedule/1/paragraph/112.md)
+    - [Sch. 1 para. 113](schedule/1/paragraph/113.md)
+    - [Sch. 1 para. 114](schedule/1/paragraph/114.md)
+    - [Sch. 1 para. 115](schedule/1/paragraph/115.md)
+    - [Sch. 1 para. 116](schedule/1/paragraph/116.md)
+    - [Sch. 1 para. 117](schedule/1/paragraph/117.md)
+    - [Sch. 1 para. 118](schedule/1/paragraph/118.md)
+    - [Sch. 1 para. 119](schedule/1/paragraph/119.md)
+    - [Sch. 1 para. 120](schedule/1/paragraph/120.md)
+  - Housing (Northern Ireland) Order 1988
+    - [Sch. 1 para. 121](schedule/1/paragraph/121.md)
+    - [Sch. 1 para. 122](schedule/1/paragraph/122.md)
+    - [Sch. 1 para. 123](schedule/1/paragraph/123.md)
+    - [Sch. 1 para. 124](schedule/1/paragraph/124.md)
+  - Health and Medicines (Northern Ireland) Order 1988
+    - [Sch. 1 para. 125](schedule/1/paragraph/125.md)
+  - Disabled Persons (Northern Ireland) Act 1989
+    - [Sch. 1 para. 126](schedule/1/paragraph/126.md)
+    - [Sch. 1 para. 127](schedule/1/paragraph/127.md)
+    - [Sch. 1 para. 128](schedule/1/paragraph/128.md)
+    - [Sch. 1 para. 129](schedule/1/paragraph/129.md)
+    - [Sch. 1 para. 130](schedule/1/paragraph/130.md)
+    - [Sch. 1 para. 131](schedule/1/paragraph/131.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989
+    - [Sch. 1 para. 132](schedule/1/paragraph/132.md)
+  - Children Act 1989
+    - [Sch. 1 para. 133](schedule/1/paragraph/133.md)
+  - Opticians Act 1989
+    - [Sch. 1 para. 134](schedule/1/paragraph/134.md)
+  - Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990
+    - [Sch. 1 para. 135](schedule/1/paragraph/135.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1991
+    - [Sch. 1 para. 136](schedule/1/paragraph/136.md)
+    - [Sch. 1 para. 137](schedule/1/paragraph/137.md)
+    - [Sch. 1 para. 138](schedule/1/paragraph/138.md)
+    - [Sch. 1 para. 139](schedule/1/paragraph/139.md)
+    - [Sch. 1 para. 140](schedule/1/paragraph/140.md)
+    - [Sch. 1 para. 141](schedule/1/paragraph/141.md)
+    - [Sch. 1 para. 142](schedule/1/paragraph/142.md)
+    - [Sch. 1 para. 143](schedule/1/paragraph/143.md)
+    - [Sch. 1 para. 144](schedule/1/paragraph/144.md)
+    - [Sch. 1 para. 145](schedule/1/paragraph/145.md)
+    - [Sch. 1 para. 146](schedule/1/paragraph/146.md)
+    - [Sch. 1 para. 147](schedule/1/paragraph/147.md)
+    - [Sch. 1 para. 148](schedule/1/paragraph/148.md)
+    - [Sch. 1 para. 149](schedule/1/paragraph/149.md)
+  - Food Safety (Northern Ireland) Order 1991
+    - [Sch. 1 para. 150](schedule/1/paragraph/150.md)
+  - Social Security Contributions and Benefits (Northern Ireland) Act 1992
+    - [Sch. 1 para. 151](schedule/1/paragraph/151.md)
+  - Social Security Administration (Northern Ireland) Act 1992
+    - [Sch. 1 para. 152](schedule/1/paragraph/152.md)
+  - Access to Health Records (Northern Ireland) Order 1993
+    - [Sch. 1 para. 153](schedule/1/paragraph/153.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1994
+    - [Sch. 1 para. 154](schedule/1/paragraph/154.md)
+  - Children (Northern Ireland) Order 1995
+    - [Sch. 1 para. 155](schedule/1/paragraph/155.md)
+    - [Sch. 1 para. 156](schedule/1/paragraph/156.md)
+    - [Sch. 1 para. 157](schedule/1/paragraph/157.md)
+    - [Sch. 1 para. 158](schedule/1/paragraph/158.md)
+    - [Sch. 1 para. 159](schedule/1/paragraph/159.md)
+    - [Sch. 1 para. 160](schedule/1/paragraph/160.md)
+    - [Sch. 1 para. 161](schedule/1/paragraph/161.md)
+    - [Sch. 1 para. 162](schedule/1/paragraph/162.md)
+    - [Sch. 1 para. 163](schedule/1/paragraph/163.md)
+    - [Sch. 1 para. 164](schedule/1/paragraph/164.md)
+    - [Sch. 1 para. 165](schedule/1/paragraph/165.md)
+    - [Sch. 1 para. 166](schedule/1/paragraph/166.md)
+  - Trade Union and Labour Relations (Northern Ireland) Order 1995
+    - [Sch. 1 para. 167](schedule/1/paragraph/167.md)
+  - Education (Northern Ireland) Order 1996
+    - [Sch. 1 para. 168](schedule/1/paragraph/168.md)
+  - Employment Rights (Northern Ireland) Order 1996
+    - [Sch. 1 para. 169](schedule/1/paragraph/169.md)
+  - Criminal Justice (Northern Ireland) Order 1996
+    - [Sch. 1 para. 170](schedule/1/paragraph/170.md)
+  - Health Services (Primary Care) (Northern Ireland) Order 1997
+    - [Sch. 1 para. 171](schedule/1/paragraph/171.md)
+    - [Sch. 1 para. 172](schedule/1/paragraph/172.md)
+    - [Sch. 1 para. 173](schedule/1/paragraph/173.md)
+    - [Sch. 1 para. 174](schedule/1/paragraph/174.md)
+    - [Sch. 1 para. 175](schedule/1/paragraph/175.md)
+    - [Sch. 1 para. 176](schedule/1/paragraph/176.md)
+    - [Sch. 1 para. 177](schedule/1/paragraph/177.md)
+    - [Sch. 1 para. 178](schedule/1/paragraph/178.md)
+    - [Sch. 1 para. 179](schedule/1/paragraph/179.md)
+    - [Sch. 1 para. 180](schedule/1/paragraph/180.md)
+    - [Sch. 1 para. 181](schedule/1/paragraph/181.md)
+    - [Sch. 1 para. 182](schedule/1/paragraph/182.md)
+    - [Sch. 1 para. 183](schedule/1/paragraph/183.md)
+    - [Sch. 1 para. 184](schedule/1/paragraph/184.md)
+    - [Sch. 1 para. 185](schedule/1/paragraph/185.md)
+    - [Sch. 1 para. 186](schedule/1/paragraph/186.md)
+  - Freedom of Information Act 2000
+    - [Sch. 1 para. 187](schedule/1/paragraph/187.md)
+  - Criminal Justice and Court Services Act 2000
+    - [Sch. 1 para. 188](schedule/1/paragraph/188.md)
+  - Health and Personal Social Services Act (Northern Ireland) 2001
+    - [Sch. 1 para. 189](schedule/1/paragraph/189.md)
+  - Carers and Direct Payments Act (Northern Ireland) 2002
+    - [Sch. 1 para. 190](schedule/1/paragraph/190.md)
+  - Health and Personal Social Services Act (Northern Ireland) 2002
+    - [Sch. 1 para. 191](schedule/1/paragraph/191.md)
+  - Justice (Northern Ireland) Act 2002
+    - [Sch. 1 para. 192](schedule/1/paragraph/192.md)
+  - Adoption and Children Act 2002
+    - [Sch. 1 para. 193](schedule/1/paragraph/193.md)
+  - Nationality, Immigration and Asylum Act 2002
+    - [Sch. 1 para. 194](schedule/1/paragraph/194.md)
+  - Marriage (Northern Ireland) Order 2003
+    - [Sch. 1 para. 195](schedule/1/paragraph/195.md)
+  - Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003
+    - [Sch. 1 para. 196](schedule/1/paragraph/196.md)
+  - Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003
+    - [Sch. 1 para. 197](schedule/1/paragraph/197.md)
+    - [Sch. 1 para. 198](schedule/1/paragraph/198.md)
+    - [Sch. 1 para. 199](schedule/1/paragraph/199.md)
+    - [Sch. 1 para. 200](schedule/1/paragraph/200.md)
+    - [Sch. 1 para. 201](schedule/1/paragraph/201.md)
+    - [Sch. 1 para. 202](schedule/1/paragraph/202.md)
+    - [Sch. 1 para. 203](schedule/1/paragraph/203.md)
+    - [Sch. 1 para. 204](schedule/1/paragraph/204.md)
+    - [Sch. 1 para. 205](schedule/1/paragraph/205.md)
+    - [Sch. 1 para. 206](schedule/1/paragraph/206.md)
+  - Commissioner for Children and Young People (Northern Ireland) Order 2003
+    - [Sch. 1 para. 207](schedule/1/paragraph/207.md)
+  - Domestic Violence, Crime and Victims Act 2004
+    - [Sch. 1 para. 208](schedule/1/paragraph/208.md)
+  - Civil Partnership Act 2004
+    - [Sch. 1 para. 209](schedule/1/paragraph/209.md)
+  - Emergency Workers (Obstruction) Act 2006
+    - [Sch. 1 para. 210](schedule/1/paragraph/210.md)
+  - Recovery of Health Services Charges (Northern Ireland) Order 2006
+    - [Sch. 1 para. 211](schedule/1/paragraph/211.md)
+  - Water and Sewerage Services (Northern Ireland) Order 2006
+    - [Sch. 1 para. 212](schedule/1/paragraph/212.md)
+  - Corporate Manslaughter and Corporate Homicide Act 2007
+    - [Sch. 1 para. 213](schedule/1/paragraph/213.md)
+  - Safeguarding Vulnerable Groups (Northern Ireland) Order 2007
+    - [Sch. 1 para. 214](schedule/1/paragraph/214.md)
+  - Health (Miscellaneous Provisions) Act (Northern Ireland) 2008
+    - [Sch. 1 para. 215](schedule/1/paragraph/215.md)
+    - [Sch. 1 para. 216](schedule/1/paragraph/216.md)
+    - [Sch. 1 para. 217](schedule/1/paragraph/217.md)
+    - [Sch. 1 para. 218](schedule/1/paragraph/218.md)
+    - [Sch. 1 para. 219](schedule/1/paragraph/219.md)
+    - [Sch. 1 para. 220](schedule/1/paragraph/220.md)
+    - [Sch. 1 para. 221](schedule/1/paragraph/221.md)
+    - [Sch. 1 para. 222](schedule/1/paragraph/222.md)
+    - [Sch. 1 para. 223](schedule/1/paragraph/223.md)
+    - [Sch. 1 para. 224](schedule/1/paragraph/224.md)
+    - [Sch. 1 para. 225](schedule/1/paragraph/225.md)
+  - Criminal Justice (Northern Ireland) Order 2008
+    - [Sch. 1 para. 226](schedule/1/paragraph/226.md)
+  - Sexual Offences (Northern Ireland) Order 2008
+    - [Sch. 1 para. 227](schedule/1/paragraph/227.md)
+  - Health and Social Care (Reform) Act (Northern Ireland) 2009
+    - [Sch. 1 para. 228](schedule/1/paragraph/228.md)
+    - [Sch. 1 para. 229](schedule/1/paragraph/229.md)
+    - [Sch. 1 para. 230](schedule/1/paragraph/230.md)
+    - [Sch. 1 para. 231](schedule/1/paragraph/231.md)
+    - [Sch. 1 para. 232](schedule/1/paragraph/232.md)
+    - [Sch. 1 para. 233](schedule/1/paragraph/233.md)
+    - [Sch. 1 para. 234](schedule/1/paragraph/234.md)
+    - [Sch. 1 para. 235](schedule/1/paragraph/235.md)
+    - [Sch. 1 para. 236](schedule/1/paragraph/236.md)
+    - [Sch. 1 para. 237](schedule/1/paragraph/237.md)
+    - [Sch. 1 para. 238](schedule/1/paragraph/238.md)
+    - [Sch. 1 para. 239](schedule/1/paragraph/239.md)
+    - [Sch. 1 para. 240](schedule/1/paragraph/240.md)
+    - [Sch. 1 para. 241](schedule/1/paragraph/241.md)
+    - [Sch. 1 para. 242](schedule/1/paragraph/242.md)
+  - Commissioner for Older People Act (Northern Ireland) 2011
+    - [Sch. 1 para. 243](schedule/1/paragraph/243.md)
+  - Safeguarding Board Act (Northern Ireland) 2011
+    - [Sch. 1 para. 244](schedule/1/paragraph/244.md)
+  - Health and Social Care (Amendment) Act (Northern Ireland) 2014
+    - [Sch. 1 para. 245](schedule/1/paragraph/245.md)
+  - Modern Slavery Act 2015
+    - [Sch. 1 para. 246](schedule/1/paragraph/246.md)
+  - Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015
+    - [Sch. 1 para. 247](schedule/1/paragraph/247.md)
+  - Children’s Services Co-operation Act (Northern Ireland) 2015
+    - [Sch. 1 para. 248](schedule/1/paragraph/248.md)
+  - Welfare Reform (Northern Ireland) Order 2015
+    - [Sch. 1 para. 249](schedule/1/paragraph/249.md)
+  - Public Services Ombudsman Act (Northern Ireland) 2016
+    - [Sch. 1 para. 250](schedule/1/paragraph/250.md)
+  - Special Educational Needs and Disability Act (Northern Ireland) 2016
+    - [Sch. 1 para. 251](schedule/1/paragraph/251.md)
+  - Mental Capacity Act (Northern Ireland) 2016
+    - [Sch. 1 para. 252](schedule/1/paragraph/252.md)
+  - Rural Needs Act (Northern Ireland) 2016
+    - [Sch. 1 para. 253](schedule/1/paragraph/253.md)
+  - Justice Act (Northern Ireland) 2016
+    - [Sch. 1 para. 254](schedule/1/paragraph/254.md)
+  - Health and Personal Social Services (Amendment) Act (Northern Ireland) 2016
+    - [Sch. 1 para. 255](schedule/1/paragraph/255.md)
+  - Health (Miscellaneous Provisions) Act (Northern Ireland) 2016
+    - [Sch. 1 para. 256](schedule/1/paragraph/256.md)
+  - Coronavirus Act 2020
+    - [Sch. 1 para. 257](schedule/1/paragraph/257.md)
+- SCHEDULE 2 Local Commissioning Groups
+  - Statutory provisions to continue to operate in relation to Groups as continued
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Appointments and terms of office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Other provision about the Groups as continued
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Continuity
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Power of Department to dissolve the continued Groups
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Transfer of assets, etc
+  - Transfer of assets and liabilities
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Transfer of employed staff
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Continuity
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Transitional provision
+  - PART 1 Accounts and reports of the Regional Board
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Other transitional provision
+    - General provision
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Specific provision
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
