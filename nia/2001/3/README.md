@@ -1,0 +1,145 @@
+# Health and Personal Social Services Act (Northern Ireland) 2001
+
+nia/2001/3. Enacted 2001-03-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2001/3/2022-04-01
+
+## Contents
+
+- PART I SOCIAL CARE WORKERS
+  - Preliminary
+    - [s. 1 The Northern Ireland Social Care Council](section/1.md)
+    - [s. 2 “Social care worker”, etc.](section/2.md)
+  - Registration
+    - [s. 3 The register](section/3.md)
+    - [s. 4 Applications for registration](section/4.md)
+    - [s. 5 Grant or refusal of registration](section/5.md)
+    - [s. 5A Visiting social workers from relevant European States](section/5A.md)
+    - [s. 6 Removal, etc. from register](section/6.md)
+    - [s. 7 Rules about registration](section/7.md)
+    - [s. 7A Power to obtain information etc](section/7A.md)
+    - [s. 7B Investigations under section 6: information about, and to, a registered person’s employers](section/7B.md)
+    - [s. 8 Registration – enforcement](section/8.md)
+  - Codes of practice
+    - [s. 9 Codes of practice](section/9.md)
+  - Training
+    - [s. 10 Approval of courses, etc.](section/10.md)
+    - [s. 10A Recognition of attainment of standards by social workers](section/10A.md)
+    - [s. 11 Qualifications gained outside Northern Ireland](section/11.md)
+    - [s. 12 Post registration training](section/12.md)
+    - [s. 13 Visitors for certain social work courses](section/13.md)
+    - [s. 14 Functions of the Department](section/14.md)
+  - Miscellaneous and supplemental
+    - [s. 15 Appeals to the Care Tribunal](section/15.md)
+    - [s. 16 Publication, etc. of register](section/16.md)
+    - [s. 16A Publication etc of information about fitness to practise](section/16A.md)
+    - [s. 17 Cesser of functions of CCETSW](section/17.md)
+    - [s. 18 Rules](section/18.md)
+    - [s. 19 Default powers of Department](section/19.md)
+    - [s. 22 Interpretation of this Part](section/22.md)
+- PART II RECOVERY OF CHARGES IN CONNECTION WITH THE TREATMENT OF ROAD TRAFFIC CASUALTIES
+  - Payment for hospital treatment
+    - [s. 23 Payment for hospital treatment of traffic casualties](section/23.md)
+  - Certificates of health services charges
+    - [s. 24 Applications for certificates of health services charges](section/24.md)
+    - [s. 25 Information contained in certificates](section/25.md)
+  - Recovery of health services charges
+    - [s. 26 Payment of health services charges](section/26.md)
+    - [s. 27 Recovery of health services charges](section/27.md)
+  - Reviews and appeals
+    - [s. 28 Review of certificates](section/28.md)
+    - [s. 29 Appeals against a certificate](section/29.md)
+    - [s. 30 Appeal tribunals](section/30.md)
+    - [s. 31 Appeal to the court on point of law](section/31.md)
+    - [s. 32 Reviews and appeals: supplementary](section/32.md)
+  - Information
+    - [s. 33 Provision of information](section/33.md)
+    - [s. 34 Use of information held by the Department](section/34.md)
+  - Payments to hospitals
+    - [s. 35 Payment of health services charges to hospitals](section/35.md)
+  - Miscellaneous and general
+    - [s. 36 Regulations governing payments into court, etc.](section/36.md)
+    - [s. 37 Interpretation of this Part](section/37.md)
+    - [s. 38 Consequential amendments](section/38.md)
+- PART III HEALTH AND SOCIAL CARE– GENERAL
+  - Fund-holding practices
+    - [s. 39 Repeal of law about fund-holding practices](section/39.md)
+  - Local administration
+    - [s. 40 Remuneration for Part VI services](section/40.md)
+    - [s. 41 Indemnity cover for Part VI services](section/41.md)
+    - [s. 42 Local representative committees](section/42.md)
+  - Health and Social Care trusts
+    - [s. 43 Establishment orders](section/43.md)
+    - [s. 44 Exercise of powers](section/44.md)
+    - [s. 45 Public dividend capital](section/45.md)
+    - [s. 46 Existing HSC trusts: conversion of initial loan](section/46.md)
+    - [s. 47 Borrowing, surplus funds and investment](section/47.md)
+  - Evasion of charges, fraud etc.
+    - [s. 48 Evasion of charges etc.](section/48.md)
+    - [s. 49 Disqualification of Part VI practitioners](section/49.md)
+  - Miscellaneous
+    - [s. 50 Disclosure of information by the Commissioner for Complaints](section/50.md)
+    - [s. 51 Provision of information as to births and deaths](section/51.md)
+    - [s. 52 Liability of officers of Health and Social Services Councils](section/52.md)
+    - [s. 53 Regulations under section 11 of the Medical Act 1983](section/53.md)
+    - [s. 54 Public access to meetings of certain bodies](section/54.md)
+    - [s. 55 Sale of medical practices: goodwill](section/55.md)
+- PART IV MISCELLANEOUS AND GENERAL
+  - Pharmaceutical chemists
+    - [s. 56 Regulation of the profession of pharmaceutical chemist](section/56.md)
+  - General
+    - [s. 57 Orders, regulations and directions](section/57.md)
+    - [s. 58 Supplementary and consequential provision](section/58.md)
+    - [s. 59 Interpretation](section/59.md)
+    - [s. 60 Amendments and repeals](section/60.md)
+    - [s. 61 Short title and commencement](section/61.md)
+- SCHEDULE 1 THE NORTHERN IRELAND SOCIAL CARE COUNCIL
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - General duty
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Membership
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Appointment, procedure etc.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration and allowances
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Chief officer
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Delegation of functions
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Arrangements for the use of staff
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Payments to Council
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Accounts
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Reports and other information
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Application of seal and evidence
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - General
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 SCHEDULE 11 TO THE PRINCIPAL ORDER, AS SUBSTITUTED
+- SCHEDULE 3 SCHEDULE 10 TO THE PRINCIPAL ORDER, AS SUBSTITUTED
+- SCHEDULE 4 REGULATION OF THE PROFESSION OF PHARMACEUTICAL CHEMIST
+  - [Sch. 4 para. 1 Matters generally within the scope of an order](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Manner of exercise of power](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Matters outside the scope of an order](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9 Preliminary procedure for making an order](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10 Interpretation and application](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
