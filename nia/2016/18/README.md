@@ -1,0 +1,857 @@
+# Mental Capacity Act (Northern Ireland) 2016
+
+nia/2016/18. Enacted 2016-05-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2016/18
+
+Source: https://www.legislation.gov.uk/nia/2016/18/2022-04-01
+
+## Contents
+
+- PART 1 PRINCIPLES
+  - Principles
+    - [s. 1 Principles: capacity](section/1.md)
+    - [s. 2 Principle: best interests](section/2.md)
+  - Establishing whether a person has capacity
+    - [s. 3 Meaning of “lacks capacity”](section/3.md)
+    - [s. 4 Meaning of “unable to make a decision”](section/4.md)
+    - [s. 5 Supporting person to make decision](section/5.md)
+    - [s. 6 Compliance with section 1(2)](section/6.md)
+  - Establishing what is in a person’s best interests
+    - [s. 7 Best interests](section/7.md)
+    - [s. 8 Compliance with section 2](section/8.md)
+- PART 2 LACK OF CAPACITY: PROTECTION FROM LIABILITY, AND SAFEGUARDS
+  - CHAPTER 1 PROTECTION FROM LIABILITY, AND GENERAL SAFEGUARDS
+    - [s. 9 Protection from liability for acts in best interests of person lacking capacity](section/9.md)
+    - [s. 10 General limitations on section 9](section/10.md)
+    - [s. 11 Advance decisions: effect on section 9](section/11.md)
+    - [s. 12 Acts of restraint: condition that must be met](section/12.md)
+  - CHAPTER 2 ADDITIONAL SAFEGUARDS FOR SERIOUS INTERVENTIONS
+    - Formal capacity assessments etc
+      - [s. 13 Formal assessment of capacity](section/13.md)
+      - [s. 14 Section 13: formal capacity assessments and statements of incapacity](section/14.md)
+    - Nominated persons
+      - [s. 15 Nominated person: need to have in place and consult](section/15.md)
+  - CHAPTER 3 ADDITIONAL SAFEGUARD: SECOND OPINION
+    - [s. 16 Second opinion needed for certain treatment](section/16.md)
+    - [s. 17 Second opinion needed for continuation of medication](section/17.md)
+    - [s. 18 Second opinion: relevant certificates](section/18.md)
+  - CHAPTER 4 ADDITIONAL SAFEGUARD: AUTHORISATIONS ETC
+    - Treatment with serious consequences
+      - [s. 19 Treatment with serious consequences: objection from nominated person](section/19.md)
+      - [s. 20 Treatment with serious consequences: resistance by P etc](section/20.md)
+      - [s. 21 Meaning of “treatment with serious consequences”](section/21.md)
+      - [s. 22 Sections 19 and 20: the prevention of serious harm condition](section/22.md)
+      - [s. 23 Meaning of “subject to an additional measure”](section/23.md)
+    - Deprivation of liberty
+      - [s. 24 Deprivation of liberty](section/24.md)
+      - [s. 25 Section 24: definitions](section/25.md)
+      - [s. 26 Taking person to a place for deprivation of liberty](section/26.md)
+      - [s. 27 Permission for absence](section/27.md)
+    - Requirements to attend for treatment with serious consequences
+      - [s. 28 Requirements to attend for certain treatment](section/28.md)
+      - [s. 29 Duty to revoke requirement where criteria no longer met](section/29.md)
+    - Community residence requirements
+      - [s. 30 Community residence requirements: authorisation etc](section/30.md)
+      - [s. 31 Meaning of “community residence requirement”](section/31.md)
+      - [s. 32 Duty to revoke community residence requirement where criteria no longer met](section/32.md)
+      - [s. 33 Duties in relation to people subject to community residence requirements](section/33.md)
+      - [s. 34 Community residence requirements: further provision](section/34.md)
+  - CHAPTER 5 ADDITIONAL SAFEGUARD: INDEPENDENT MENTAL CAPACITY ADVOCATE
+    - [s. 35 Independent mental capacity advocate: need to have in place and consult](section/35.md)
+    - [s. 36 Section 35: relevant acts](section/36.md)
+  - CHAPTER 6 EXTENSION OF PERIOD OF CERTAIN AUTHORISATIONS
+    - Extensions of period of authorisation
+      - [s. 37 First extension of period of authorisation](section/37.md)
+      - [s. 38 Subsequent extensions](section/38.md)
+      - [s. 39 Sections 37 and 38: extension reports](section/39.md)
+      - [s. 40 Extension of period where responsible person not of the requisite opinion](section/40.md)
+    - Supplementary provisions about extension
+      - [s. 41 Meaning of “measure”, “authorised measure” and “the criteria for continuation”](section/41.md)
+      - [s. 42 Meaning of “the responsible person”](section/42.md)
+      - [s. 43 Extension reports: further provision](section/43.md)
+      - [s. 44 Effect of extension on authorisation where authorised measure unused etc](section/44.md)
+  - CHAPTER 7 RIGHTS OF REVIEW OF AUTHORISATION
+    - Applications to the Tribunal
+      - [s. 45 Right to apply to Tribunal](section/45.md)
+      - [s. 46 Applications: visiting and examination](section/46.md)
+    - References to the Tribunal
+      - [s. 47 Power of certain persons to refer case to Tribunal](section/47.md)
+      - [s. 48 Duty of HSC trust to refer case to Tribunal](section/48.md)
+      - [s. 49 References etc to Tribunal: persons formerly detained under the Mental Health Order](section/49.md)
+      - [s. 50 Duty of HSC trust to notify the Attorney General](section/50.md)
+    - Powers of the Tribunal
+      - [s. 51 Powers of Tribunal in relation to authorisation under Schedule 1](section/51.md)
+      - [s. 52 Powers of Tribunal in relation to authorisation under Schedule 2](section/52.md)
+      - [s. 53 Sections 51 and 52: additional powers of Tribunal](section/53.md)
+  - CHAPTER 8 SUPPLEMENTARY
+    - Medical reports: involvement of nominated person and independent mental capacity advocate
+      - [s. 54 Medical reports: involvement of nominated person](section/54.md)
+      - [s. 55 Medical reports: involvement of independent mental capacty advocate](section/55.md)
+      - [s. 56 Sections 54 and 55: meaning of “emergency”](section/56.md)
+    - Provision of information
+      - [s. 57 Provision of information](section/57.md)
+      - [s. 58 Ways in which information must be provided](section/58.md)
+    - Other supplementary provision
+      - [s. 59 Failure by person other than D to take certain steps](section/59.md)
+      - [s. 60 Part 2 not applicable where other authority for act](section/60.md)
+      - [s. 61 Power to make further provision](section/61.md)
+    - Disregard of certain detention
+      - [s. 62 Disregard of certain detention](section/62.md)
+  - CHAPTER 9 DEFINITIONS FOR PURPOSES OF PART 2
+    - Meaning of “serious intervention”
+      - [s. 63 “Serious intervention”](section/63.md)
+      - [s. 64 Acts that are “part of” serious interventions](section/64.md)
+    - Meaning of “emergency”
+      - [s. 65 Meaning of “emergency” in relation to safeguard provisions](section/65.md)
+      - [s. 66 Section 65: definitions etc](section/66.md)
+      - [s. 67 Failure by persons other than D to take steps to ensure safeguard met](section/67.md)
+    - Other definitions for purposes of Part 2
+      - [s. 68 Interpretation of Part 2: general](section/68.md)
+- PART 3 NOMINATED PERSON
+  - Nominated person
+    - [s. 69 Nominated person](section/69.md)
+  - Appointment by person of his or her nominated person
+    - [s. 70 Appointment of nominated person](section/70.md)
+    - [s. 71 Revocation of appointment](section/71.md)
+    - [s. 72 Resignation](section/72.md)
+  - Default nominated person
+    - [s. 73 Default nominated person](section/73.md)
+    - [s. 74 Section 73: the list](section/74.md)
+    - [s. 75 Section 73: persons to be disregarded](section/75.md)
+    - [s. 76 Section 73: meaning of “carer”](section/76.md)
+  - Declarations etc
+    - [s. 77 Declaration that particular person not to be nominated person](section/77.md)
+    - [s. 78 Notice declining to be a person’s nominated person](section/78.md)
+  - Formalities
+    - [s. 79 Formalities for documents under Part 3](section/79.md)
+  - Powers of the Tribunal
+    - [s. 80 Application to Tribunal for appointment of nominated person](section/80.md)
+    - [s. 81 Tribunal’s power to appoint nominated person](section/81.md)
+    - [s. 82 Tribunal’s power to disqualify person from being default nominated person](section/82.md)
+    - [s. 83 Revocation of Tribunal’s appointment where P regains capacity](section/83.md)
+  - Duties in relation to nominated person
+    - [s. 84 Duties in relation to nominated person: supplementary](section/84.md)
+    - [s. 85 Determining who is nominated person](section/85.md)
+- PART 4 INDEPENDENT MENTAL CAPACITY ADVOCATES
+  - Independent mental capacity advocates
+    - [s. 86 Independent mental capacity advocates](section/86.md)
+    - [s. 87 Functions of independent mental capacity advocates: provision of support, etc](section/87.md)
+  - Procedure for ensuring that an independent mental capacity advocate is instructed
+    - [s. 88 Request for independent mental capacity advocate to be instructed](section/88.md)
+    - [s. 89 Steps to be taken before independent mental capacity advocate may be requested](section/89.md)
+    - [s. 90 Right to declare that no independent mental capacity advocate to be instructed](section/90.md)
+    - [s. 91 Instruction of independent mental capacity advocate](section/91.md)
+    - [s. 92 Powers of independent mental capacity advocates](section/92.md)
+  - Procedure after instruction of independent mental capacity advocate
+    - [s. 93 Right of person to discontinue involvement of independent mental capacity advocate](section/93.md)
+    - [s. 94 Continuing duty of trust in relation to independent mental capacity advocate](section/94.md)
+  - Formalities
+    - [s. 95 Formalities for declarations under Part 4](section/95.md)
+  - Power to adjust role of independent mental capacity advocates
+    - [s. 96 Power to adjust role of independent mental capacity advocates](section/96.md)
+- PART 5 LASTING POWERS OF ATTORNEY
+  - Creation of lasting power of attorney
+    - [s. 97 Lasting powers of attorney](section/97.md)
+  - Scope of lasting power of attorney
+    - [s. 98 Restrictions on scope of lasting power of attorney](section/98.md)
+    - [s. 99 Relationship between advance decisions and lasting powers of attorney](section/99.md)
+    - [s. 100 Scope of lasting powers of attorney: gifts](section/100.md)
+  - Appointment of attorneys and replacements
+    - [s. 101 Appointment of attorneys: requirements as respects attorneys](section/101.md)
+    - [s. 102 Appointment of two or more attorneys](section/102.md)
+    - [s. 103 Appointment of replacement attorneys](section/103.md)
+    - [s. 104 Appointment of two or more replacements for a single initial appointee](section/104.md)
+    - [s. 105 Replacement attorneys: position where two or more initial appointees](section/105.md)
+    - [s. 106 Revocation of lasting power etc by donor or on donor’s bankruptcy](section/106.md)
+    - [s. 107 Revocation etc: events relating to the attorney](section/107.md)
+  - Protection of attorney and others
+    - [s. 108 Protection of attorney and others if no power created or power revoked](section/108.md)
+    - [s. 109 Reliance on authority of attorney in relation to treatment etc](section/109.md)
+  - Powers of the court
+    - [s. 110 Powers of court as to lasting powers of attorney](section/110.md)
+    - [s. 111 Powers of court as to operation of lasting powers of attorney](section/111.md)
+- PART 6 HIGH COURT POWERS: DECISIONS AND DEPUTIES
+  - Declarations
+    - [s. 112 The court’s power to make declarations](section/112.md)
+  - Decisions and deputies
+    - [s. 113 The court’s powers to make decisions and appoint deputies: general](section/113.md)
+    - [s. 114 Section 113 powers: care, treatment and personal welfare](section/114.md)
+    - [s. 115 Section 113 powers: property and affairs](section/115.md)
+    - [s. 116 Appointment of deputies](section/116.md)
+    - [s. 117 Restrictions on deputies](section/117.md)
+    - [s. 118 Reliance on authority of deputy in relation to treatment etc](section/118.md)
+  - Ancillary powers of the court
+    - [s. 119 Interim orders and directions](section/119.md)
+    - [s. 120 Power to call for reports](section/120.md)
+    - [s. 121 Powers of Public Guardian or Court Visitor in respect of reports under section 120(2)](section/121.md)
+  - Practice and procedure
+    - [s. 122 Applications to the court](section/122.md)
+    - [s. 123 Duty to notify Attorney General](section/123.md)
+    - [s. 124 Rules of court](section/124.md)
+- PART 7 PUBLIC GUARDIAN AND COURT VISITORS
+  - Public Guardian
+    - [s. 125 The Public Guardian](section/125.md)
+    - [s. 126 Functions of the Public Guardian](section/126.md)
+    - [s. 127 Further powers of the Public Guardian](section/127.md)
+    - [s. 128 Duty to notify the Public Guardian](section/128.md)
+    - [s. 129 Notifications under section 128: procedure and effect](section/129.md)
+  - Court Visitors
+    - [s. 130 Court Visitors](section/130.md)
+    - [s. 131 Powers of Court Visitors](section/131.md)
+- PART 8 RESEARCH
+  - Approved research projects
+    - [s. 132 Research](section/132.md)
+    - [s. 133 Section 132: exception for clinical trials](section/133.md)
+    - [s. 134 Approval of research projects](section/134.md)
+    - [s. 135 Requirement to consult nominated person, carer etc](section/135.md)
+    - [s. 136 Section 135: exception for urgent treatment](section/136.md)
+    - [s. 137 Additional safeguards](section/137.md)
+  - Transitional cases
+    - [s. 138 Loss of capacity during research project: transitional cases](section/138.md)
+- PART 9 POWER OF POLICE TO REMOVE PERSON TO PLACE OF SAFETY
+  - Power of police to remove person from public place to place of safety
+    - [s. 139 Power of police to remove person from public place to place of safety](section/139.md)
+    - [s. 140 Information to be given on removal](section/140.md)
+    - [s. 141 Search of person on exercise of power to remove](section/141.md)
+  - Powers of police to detain person removed from public place
+    - [s. 142 Power of police to detain in hospital a person removed from a public place](section/142.md)
+    - [s. 143 Power to detain in police station a person removed from a public place](section/143.md)
+    - [s. 144 Sections 142 and 143: the detention conditions](section/144.md)
+    - [s. 145 Transfer from one place of safety to another](section/145.md)
+    - [s. 146 Maximum period of detention under Part 9](section/146.md)
+  - Duties and powers of police where person removed to place of safety
+    - [s. 147 Duty to inform certain persons where power of removal or transfer used](section/147.md)
+    - [s. 148 Section 147: meaning of “the required information” etc](section/148.md)
+    - [s. 149 Record of detention to be kept](section/149.md)
+    - [s. 150 Responsibilities of the appropriate officer](section/150.md)
+    - [s. 151 Review of detention](section/151.md)
+    - [s. 152 Access to legal advice](section/152.md)
+    - [s. 153 Searches of person following removal to place of safety](section/153.md)
+    - [s. 154 Searches and examination to ascertain identity](section/154.md)
+    - [s. 155 Intimate searches](section/155.md)
+    - [s. 156 Annual records](section/156.md)
+  - Supplementary
+    - [s. 157 Principles applying for purposes of Part 9](section/157.md)
+    - [s. 158 Reasonable belief etc](section/158.md)
+    - [s. 159 Power of constable to use reasonable force](section/159.md)
+    - [s. 160 Definitions for purposes of Part 9](section/160.md)
+    - [s. 161 Relationship of Part 9 to other provisions](section/161.md)
+- PART 10 CRIMINAL JUSTICE
+  - CHAPTER 1 REMAND TO HOSPITAL
+    - [s. 162 Remand to hospital](section/162.md)
+    - [s. 163 Section 162: meaning of “an accused person”](section/163.md)
+    - [s. 164 Section 162: the medical report condition](section/164.md)
+    - [s. 165 Section 162: the treatment condition](section/165.md)
+    - [s. 166 Effect of remand to hospital](section/166.md)
+  - CHAPTER 2 POWERS OF COURT ON CONVICTION
+    - Public protection orders with and without restrictions
+      - [s. 167 Public protection orders with and without restrictions](section/167.md)
+      - [s. 168 Section 167: the detention conditions](section/168.md)
+      - [s. 169 Section 167: the restriction condition](section/169.md)
+      - [s. 170 Further provision about making of public protection orders](section/170.md)
+      - [s. 171 Effect of public protection orders](section/171.md)
+      - [s. 172 Power to direct the ending of restrictions under a public protection order](section/172.md)
+      - [s. 173 Effect of ending of restrictions under a public protection order](section/173.md)
+    - Hospital directions
+      - [s. 174 Hospital direction when passing custodial sentence](section/174.md)
+      - [s. 175 Conditions for giving hospital direction](section/175.md)
+      - [s. 176 Effect of hospital directions](section/176.md)
+    - Interim detention orders
+      - [s. 177 Interim detention orders](section/177.md)
+      - [s. 178 Effect of interim detention orders](section/178.md)
+  - CHAPTER 3 DETENTION UNDER A PUBLIC PROTECTION ORDER WITHOUT RESTRICTIONS
+    - Detention and discharge
+      - [s. 179 Detention under a public protection order without restrictions](section/179.md)
+      - [s. 180 Discharge from detention by responsible medical practitioner](section/180.md)
+    - Extension of the period of an order
+      - [s. 181 First extension of period of order](section/181.md)
+      - [s. 182 Subsequent extensions](section/182.md)
+      - [s. 183 Sections 181 and 182: extension reports](section/183.md)
+      - [s. 184 Extension of period where responsible person not of the requisite opinion](section/184.md)
+      - [s. 185 The criteria for continuation](section/185.md)
+      - [s. 186 Extension reports: further provision](section/186.md)
+    - Permission for absence and transfers
+      - [s. 187 Permission for absence](section/187.md)
+      - [s. 188 Transfers between hospitals etc](section/188.md)
+    - Effect of custodial sentence
+      - [s. 189 Effect of custodial sentence](section/189.md)
+  - CHAPTER 4 DETENTION UNDER A PUBLIC PROTECTION ORDER WITH RESTRICTIONS
+    - [s. 190 Detention under a public protection order with restrictions](section/190.md)
+    - [s. 191 Discharge from detention by Department of Justice](section/191.md)
+    - [s. 192 Power to recall person who has been conditionally discharged](section/192.md)
+    - [s. 193 Reports by responsible medical practitioner](section/193.md)
+    - [s. 194 Direction for person to attend for purposes of justice etc](section/194.md)
+    - [s. 195 Permission for absence](section/195.md)
+    - [s. 196 Transfers between hospitals etc](section/196.md)
+  - CHAPTER 5 DETENTION UNDER A HOSPITAL DIRECTION
+    - [s. 197 Detention under a hospital direction](section/197.md)
+    - [s. 198 Termination of hospital directions](section/198.md)
+    - [s. 199 Section 198: meaning of “release date”](section/199.md)
+    - [s. 200 Duties and powers to release from detention](section/200.md)
+    - [s. 201 Reports by responsible medical practitioner](section/201.md)
+    - [s. 202 Permission for absence etc](section/202.md)
+    - [s. 203 Transfers between hospitals](section/203.md)
+  - CHAPTER 6 UNFITNESS TO BE TRIED ETC
+    - Procedure during trial on indictment
+      - [s. 204 Procedure where question of fitness to be tried arises](section/204.md)
+      - [s. 205 Finding that the accused did the act or made the omission charged](section/205.md)
+      - [s. 206 Procedure in relation to finding of insanity](section/206.md)
+      - [s. 207 Powers to deal with person unfit to be tried or not guilty by reason of insanity](section/207.md)
+      - [s. 208 Remission for trial where person no longer unfit to be tried](section/208.md)
+    - Procedure of court of summary jurisdiction
+      - [s. 209 Power to make order where the accused did the act or made the omission charged](section/209.md)
+    - Restraining orders
+      - [s. 210 Power to make restraining order following finding of unfitness to plead etc](section/210.md)
+  - CHAPTER 7 TRANSFER FROM PRISON ETC TO HOSPITAL
+    - Persons serving custodial sentences etc
+      - [s. 211 Power to transfer person serving custodial sentence etc to hospital](section/211.md)
+      - [s. 212 Conditions for transfer under section 211](section/212.md)
+      - [s. 213 Effect of transfer under section 211](section/213.md)
+    - Civil prisoners and immigration detainees
+      - [s. 214 Transfer of civil prisoner or immigration detainee to hospital](section/214.md)
+      - [s. 215 Detention in hospital on removal under section 214](section/215.md)
+      - [s. 216 Termination of direction under section 214](section/216.md)
+    - Persons remanded in custody by magistrates’ court
+      - [s. 217 Transfer to hospital of person remanded by magistrates’ court](section/217.md)
+      - [s. 218 Detention in hospital on removal under section 217](section/218.md)
+      - [s. 219 Termination of direction under section 217 etc](section/219.md)
+    - Other detainees
+      - [s. 220 Transfer of certain other detainees to hospital](section/220.md)
+      - [s. 221 Detention in hospital on removal under section 220](section/221.md)
+      - [s. 222 Termination of direction under section 220](section/222.md)
+    - Conditions for transfer to hospital under section 214, 217 or 220
+      - [s. 223 Conditions for transfer to hospital under section 214, 217 or 220](section/223.md)
+    - General provisions about hospital transfer directions
+      - [s. 224 General provisions about hospital transfer directions](section/224.md)
+  - CHAPTER 8 RIGHTS OF REVIEW OF DETENTION UNDER PART 10
+    - Applications and references to Tribunal: general
+      - [s. 225 Right to apply to Tribunal](section/225.md)
+      - [s. 226 Meaning of “a qualifying person”](section/226.md)
+      - [s. 227 Applications: visiting and examination](section/227.md)
+      - [s. 228 Power of certain persons to refer case to Tribunal](section/228.md)
+      - [s. 229 Duty of HSC trust to refer case to Tribunal](section/229.md)
+      - [s. 230 Duty to notify the Attorney General](section/230.md)
+    - Powers of Tribunal as to public protection orders
+      - [s. 231 Powers of Tribunal as to public protection order without restrictions](section/231.md)
+      - [s. 232 Powers of Tribunal as to public protection order with restrictions](section/232.md)
+      - [s. 233 Sections 231 and 232: the prevention of serious harm condition](section/233.md)
+      - [s. 234 Sections 231 and 232: additional powers of Tribunal etc](section/234.md)
+    - Effect of conditional discharge from public protection order with restrictions
+      - [s. 235 Effect of conditional discharge](section/235.md)
+      - [s. 236 Applications and references to Tribunal where person recalled](section/236.md)
+      - [s. 237 Applications to Tribunal where person has not been recalled](section/237.md)
+    - Powers of Tribunal as to hospital directions and hospital transfer directions
+      - [s. 238 Powers of Tribunal as to hospital directions and hospital transfer directions](section/238.md)
+      - [s. 239 Section 238: additional powers of Tribunal](section/239.md)
+      - [s. 240 Section 238: procedure where prevention of serious harm condition is not met](section/240.md)
+  - CHAPTER 9 SUPPLEMENTARY
+    - Provision of information
+      - [s. 241 Provision of information](section/241.md)
+      - [s. 242 Ways in which information must be provided](section/242.md)
+    - Detention under Part 10: further provision
+      - [s. 243 Section 20 may apply to person detained under Part 10](section/243.md)
+      - [s. 244 Absence without permission](section/244.md)
+      - [s. 245 Effect of court order or direction on previous authority for hospital detention](section/245.md)
+    - Appeals
+      - [s. 246 Appeals: general](section/246.md)
+      - [s. 247 Appeals against orders made on finding of unfitness to be tried etc](section/247.md)
+      - [s. 248 Hospital directions: cases stated by magistrates’ courts](section/248.md)
+    - Other supplementary provision
+      - [s. 249 Requirements as to written evidence](section/249.md)
+      - [s. 250 Interpretation of Part 10: children](section/250.md)
+      - [s. 251 Interpretation of Part 10: impairment of or disturbance in the functioning of the mind or brain](section/251.md)
+      - [s. 252 Interpretation of Part 10: references to disorder](section/252.md)
+      - [s. 253 Interpretation of Part 10: general](section/253.md)
+- PART 11 TRANSFER BETWEEN JURISDICTIONS
+  - CHAPTER 1 REMOVAL OF PERSONS FROM NORTHERN IRELAND
+    - Removal to other parts of UK of persons detained under Part 2
+      - [s. 254 Removal of persons detained under Part 2 to England or Wales](section/254.md)
+      - [s. 255 Removal of persons detained under Part 2 to Scotland](section/255.md)
+    - Removal to other parts of UK of persons detained under Part 10
+      - [s. 256 Removal of certain persons detained under Part 10 to England or Wales](section/256.md)
+      - [s. 257 Removal of certain persons detained under Part 10 to Scotland](section/257.md)
+  - CHAPTER 2 PERSONS REMOVED FROM ENGLAND, WALES OR SCOTLAND TO NORTHERN IRELAND
+    - Persons to be detained under Part 2
+      - [s. 258 Persons to be detained under Part 2 after removal from England or Wales](section/258.md)
+      - [s. 259 Persons to be detained under Part 2 after removal from Scotland](section/259.md)
+    - Persons to be detained under Part 10
+      - [s. 260 Persons to be detained under Part 10 after removal from England or Wales](section/260.md)
+      - [s. 261 Persons to be detained under Part 10 after removal from Scotland](section/261.md)
+  - CHAPTER 3 SUPPLEMENTARY
+    - [s. 262 Removal or transfer from Northern Ireland: power to make further provision](section/262.md)
+    - [s. 263 Persons removed or transferred to Northern Ireland: power to make further provision](section/263.md)
+    - [s. 264 Interpretation of Part 11](section/264.md)
+- PART 12 CHILDREN
+  - [s. 265 In-patients under 18: duties of hospital managers](section/265.md)
+  - [s. 266 Amendments of Mental Health Order: children etc](section/266.md)
+- PART 13 OFFENCES
+  - [s. 267 Ill-treatment or neglect](section/267.md)
+  - [s. 268 Forgery, false statements etc](section/268.md)
+  - [s. 269 Unlawful detention of persons lacking capacity etc](section/269.md)
+  - [s. 270 Assisting persons to absent themselves without permission](section/270.md)
+  - [s. 271 Assisting breach of community residence requirement](section/271.md)
+  - [s. 272 Obstruction](section/272.md)
+  - [s. 273 Offences by bodies corporate](section/273.md)
+- PART 14 MISCELLANEOUS
+  - The Review Tribunal
+    - [s. 274 Renaming of Mental Health Review Tribunal](section/274.md)
+    - [s. 275 Visiting etc powers of medical practitioners in connection with the Tribunal](section/275.md)
+  - Expenditure etc
+    - [s. 276 Power to make regulations about dealing with money and valuables](section/276.md)
+    - [s. 277 Contravention of regulations under section 276(2)](section/277.md)
+    - [s. 278 Expenditure](section/278.md)
+    - [s. 279 Payment for necessary goods and services](section/279.md)
+  - Miscellaneous functions of HSC trusts
+    - [s. 280 Appointment of approved social workers](section/280.md)
+    - [s. 281 Miscellaneous functions of HSC trusts](section/281.md)
+  - Direct payments in place of provision of care services
+    - [s. 282 Direct payments in place of provision of care services](section/282.md)
+  - International protection of adults
+    - [s. 283 International protection of adults](section/283.md)
+  - Advance decisions to refuse treatment
+    - [s. 284 Review of law relating to advance decisions](section/284.md)
+  - Matters excluded from Act
+    - [s. 285 Family relationships etc](section/285.md)
+    - [s. 286 Voting rights](section/286.md)
+  - Declaratory provision
+    - [s. 287 Relationship of Act with law relating to murder etc](section/287.md)
+- PART 15 SUPPLEMENTARY
+  - Codes of practice
+    - [s. 288 Codes of practice](section/288.md)
+    - [s. 289 Effect of code](section/289.md)
+  - Provision of information and facilities
+    - [s. 290 Provision of information by HSC trusts and the Department](section/290.md)
+    - [s. 291 Provision of facilities by HSC trusts and the Department](section/291.md)
+  - Warrants
+    - [s. 292 Warrants](section/292.md)
+    - [s. 293 Warrants: persons liable to be detained under 1983 Act or 2005 Order](section/293.md)
+  - Custody, detention etc
+    - [s. 294 Provisions as to custody, detention etc](section/294.md)
+    - [s. 295 Retaking of persons escaping from legal custody](section/295.md)
+  - Special accommodation
+    - [s. 296 Special accommodation](section/296.md)
+  - Panels
+    - [s. 297 Panels constituted to decide applications: general provision](section/297.md)
+  - Protection from proceedings
+    - [s. 298 Protection for acts done in pursuance of Part 9 or 10](section/298.md)
+  - Other supplementary provision
+    - [s. 299 Risk of serious physical harm to others](section/299.md)
+    - [s. 300 Medical practitioners who may make certain medical reports](section/300.md)
+    - [s. 301 Documents appearing to be duly made](section/301.md)
+    - [s. 302 Regulations](section/302.md)
+    - [s. 303 Consequential amendments and repeals](section/303.md)
+  - Definitions
+    - [s. 304 Persons “unconnected with” a person](section/304.md)
+    - [s. 305 Meaning of “mental disorder”](section/305.md)
+    - [s. 306 Definitions for purposes of Act](section/306.md)
+  - Final provisions
+    - [s. 307 Commencement etc](section/307.md)
+    - [s. 308 Short title](section/308.md)
+- SCHEDULE 1 Authorisation by panel of certain serious interventions
+  - Part 1 Preliminary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part 2 Applications for authorisation
+    - Applications for authorisation
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Applications: supplementary
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Paragraph 2: meaning of “relevant treatment”
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Who may make application
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Contents of application
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Medical report
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Care plan
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part 3 The criteria for authorisation
+    - Criteria for treatment
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Criteria for detention amounting to deprivation of liberty
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Criteria for requirement to attend for treatment
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Criteria for community residence requirement
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Measures proposed to be carried out only if particular circumstances arise
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Part 4 Decision on application
+    - Panel to consider application
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Decision on application
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Specifying detention amounting to deprivation of liberty
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Specifying requirement to attend for treatment
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Specifying community residence requirement
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Time limit for panel’s decision, and duty to notify decision
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Interim authorisations
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Part 5 Matters covered by authorisation etc
+    - Treatment: what is covered by authorisation
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Detention: what is covered by authorisation
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Effect of discharge from detention
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Power to vary or revoke requirements etc imposed under authorisation
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Effect of authorisation on previous authorisations
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Relationship with other conditions
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+- SCHEDULE 2 Authorisation of short-term detention in hospital for examination etc
+  - Part 1 Preliminary
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part 2 The authorisation
+    - Authorisation of detention in hospital for examination etc
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Who may make a report under paragraph 2
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Medical report
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Consultation required before report authorising detention is made
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Information to be given where report authorising detention is made
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Duration of authorisation: preliminary
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Part 3 Events terminating the authorisation
+    - Expiry where failure to admit P within period required
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Expiry where failure to give P certain information
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Expiry where failure to examine and report on P on admission
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - The condition for detention
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Expiry where no examination and report by suitable medical practitioner within required time
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Expiry where no further examination and report on P within 14 days
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Expiry 14 days after date of further report
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Discharge
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Unreasonable delay in taking certain steps
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Part 4 Supplementary provisions
+    - Detention covered by authorisation
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Relationship with other conditions
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Rectification of reports: correction of administrative errors
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Rectification of reports: substitution of medical reports
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Extension by panel of period of authorisation
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Applications for extension
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Who may make application
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Contents of application
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Medical report
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Care plan
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Panel to consider application
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Decision on application
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Time limit for panel’s decision, and duty to notify decision
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Lasting powers of attorney: formalities
+  - Part 1 Making instruments
+    - General requirements as to making instruments
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Requirements as to content of instruments
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Failure to comply with required form
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part 2 Registration
+    - Applications and procedure for registration
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Notification requirements
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Power to dispense with notification requirements
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Instrument not properly made
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Instrument containing ineffective provision
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Deputy already appointed
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Objection by attorney, replacement attorney or named person
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Objection by donor
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Notification of registration
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Evidence of registration
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Part 3 Cancellation of registration and notification of severance
+    - Cancellation of registration by Public Guardian following revocation
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Court to require Public Guardian to cancel registration in certain cases
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Notification by court of ineffective provision etc in instrument
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Notification on cancellation
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Delivery up of instrument on cancellation
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Part 4 Records of alterations in registered powers
+    - Partial revocation or suspension of power as a result of bankruptcy
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Termination of appointment of attorney which does not revoke power
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Replacement of attorney
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Severance of ineffective provisions
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Notification of alterations
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+- SCHEDULE 5 Property and affairs: supplementary provisions
+  - Wills: introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Provision that may be made in will
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Wills: requirements relating to execution
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Wills: effect of execution
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Vesting orders ancillary to settlement etc
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Variation of settlements
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Transfer of stock to appointee outside Northern Ireland
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Preservation of interests in property disposed of on behalf of person lacking capacity
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Extension by panel of public protection order without restrictions
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Applications for extension of public protection order without restrictions
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Who may make application
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Contents of application
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Medical report
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Care plan
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Panel to consider application
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Decision on application
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Time limit for panel’s decision, and duty to notify decision
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 Supervision and assessment orders
+  - Part 1 Introductory
+    - Introductory
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Part 2 Making and contents of order
+    - Conditions which must be satisfied before order can be made
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Supervision element
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Assessment element
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Residence element
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Procedural requirements relating to the making of the order
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Part 3 Effect of order
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Part 4 Amendment or revocation of order
+    - Amendment of order: general
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Amendment of order: change of area of residence
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Medical reports
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Revocation of order
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Procedural requirements on amendment or revocation of order
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Part 5 Breach of order
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Part 6 Supplementary
+    - Power to vary period for which supervision element may be made
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Transitional provision relating to the abolition of petty sessions districts
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Amendments of Mental Health Order
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+  - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+  - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+  - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+  - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+  - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+  - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+  - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+  - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+  - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+  - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+  - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+  - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+  - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+  - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+  - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+  - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+  - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+  - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+  - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+  - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+  - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+  - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+  - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+  - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+  - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+  - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+  - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+  - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+  - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+- SCHEDULE 9 International protection of adults
+  - Part 1 Preliminary
+    - Introduction
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - The Convention
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Countries, territories and nationals
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Adults with incapacity
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Protective measures
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Application of this Schedule
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Central Authority
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Part 2 Jurisdiction
+    - Scope of jurisdiction
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Exercise of jurisdiction
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Part 3 Applicable law
+    - Applicable law
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Lasting powers of attorney, etc
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Protection of third parties
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Mandatory rules
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Public policy
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Part 4 Recognition and enforcement
+    - Recognition
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Enforcement
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Measures taken in relation to under 16s
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - Supplementary
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+  - Part 5 Co-operation
+    - Proposal for cross-border placement
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - Adult in danger etc
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - Part 6 General
+    - Certificate
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - Powers to make further provision as to private international law
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - Exceptions
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+- SCHEDULE 10 Consequential amendments
+  - Judicature (Northern Ireland) Act 1978 (c. 23)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - County Courts (Northern Ireland) Order 1980 (NI 3)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981 (NI 26)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+- SCHEDULE 11 Repeals
