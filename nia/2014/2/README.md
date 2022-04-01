@@ -1,0 +1,209 @@
+# Public Service Pensions Act (Northern Ireland) 2014
+
+nia/2014/2. Enacted 2014-03-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2014/2/2022-04-01
+
+## Contents
+
+- Establishment of new schemes
+  - [s. 1 Schemes for persons in public service](section/1.md)
+  - [s. 2 Responsible authority for schemes](section/2.md)
+  - [s. 3 Scheme regulations](section/3.md)
+- Governance
+  - [s. 4 Scheme manager](section/4.md)
+  - [s. 5 Pension board](section/5.md)
+  - [s. 6 Pension board: information](section/6.md)
+  - [s. 7 Scheme advisory board](section/7.md)
+- Design
+  - [s. 8 Types of scheme](section/8.md)
+  - [s. 9 Revaluation](section/9.md)
+  - [s. 10 Pension age](section/10.md)
+- Cost control
+  - [s. 11 Valuations](section/11.md)
+  - [s. 12 Employer cost cap](section/12.md)
+  - [s. 12A Sections 11 and 12: restricted schemes](section/12A.md)
+  - [s. 13 Employer contributions in funded schemes](section/13.md)
+- Administration
+  - [s. 14 Information about benefits](section/14.md)
+  - [s. 15 Information about schemes](section/15.md)
+  - [s. 16 Records](section/16.md)
+  - [s. 17 Regulatory oversight](section/17.md)
+- Transitional
+  - [s. 18 Restriction of existing pension schemes](section/18.md)
+  - [s. 19 Closure of existing injury and compensation schemes](section/19.md)
+  - [s. 20 Final salary link](section/20.md)
+- Procedure for scheme regulations
+  - [s. 21 Consultation](section/21.md)
+  - [s. 22 Procedure for protected elements](section/22.md)
+  - [s. 23 Procedure for retrospective provision](section/23.md)
+  - [s. 24 Other procedure](section/24.md)
+- New schemes: supplementary
+  - [s. 25 Extension of schemes](section/25.md)
+  - [s. 25A Extension of schemes where definition of “the judiciary” expanded](section/25A.md)
+  - [s. 26 Non-scheme benefits](section/26.md)
+  - [s. 27 Consequential and minor amendments](section/27.md)
+- Existing schemes: supplementary
+  - [s. 28 Existing local government scheme](section/28.md)
+  - [s. 29 Existing schemes for civil servants: extension of access](section/29.md)
+  - [s. 30 Police pensions](section/30.md)
+- Public body pension schemes
+  - [s. 31 New public body pension schemes](section/31.md)
+  - [s. 32 Power to restrict other existing public body pension schemes](section/32.md)
+  - [s. 33 Existing public body pension schemes: pension age](section/33.md)
+- General
+  - [s. 34 General interpretation](section/34.md)
+  - [s. 35 Regulations, orders and directions](section/35.md)
+- Final
+  - [s. 36 Financial provision](section/36.md)
+  - [s. 37 Commencement](section/37.md)
+  - [s. 38 Short title](section/38.md)
+- SCHEDULE 1 Persons in public service: definitions
+  - Civil servants
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Holders of judicial office
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Local government workers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Teachers
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Health service workers
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Fire and rescue workers
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Members of the police service
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Responsible authorities
+  - Civil servants
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Holders of judicial office
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Local government workers
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Teachers
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Health service workers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Fire and rescue workers
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Members of the police service
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Scope of scheme regulations: supplementary matters
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Regulatory oversight
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+- SCHEDULE 5 Existing pension schemes
+  - Civil servants
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Holders of judicial office
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Local government workers
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Teachers
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Health service workers
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Fire and rescue workers
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Members of the police service
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Existing injury and compensation schemes
+  - Civil servants
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Local government workers
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Teachers
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Health service workers
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Fire and rescue workers
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Members of the police service
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Compensation schemes for loss of office, etc.
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Final salary link
+  - Persons who remain in an old scheme for past service
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Persons whose benefits under an old scheme are transferred to another closed scheme
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Continuity of employment
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Movement between new schemes
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Final salary link not to apply again to a pension in payment
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Consequential and minor amendments
+  - Lands Tribunal and Compensation Act (Northern Ireland) 1964 (c. 29)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Pensions (Increase) Act (Northern Ireland) 1971 (c. 35)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Superannuation (Northern Ireland) Order 1972 (NI 10)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Fire Services (Northern Ireland) Order 1984 (NI 11)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Police (Northern Ireland) Act 1998 (c. 32)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - Social Security (Northern Ireland) Order 1998 (NI 10)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+- SCHEDULE 9 Existing schemes for civil servants: extension of access
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
