@@ -1,0 +1,153 @@
+# Family Law Act 1986
+
+1986 c. 55. Enacted 1986-11-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/55
+
+Source: https://www.legislation.gov.uk/ukpga/1986/55/2022-04-06
+
+## Contents
+
+- Part I Child Custody
+  - Chapter I Preliminary
+    - [s. 1 Orders to which Part I applies.](section/1.md)
+  - Chapter II Jurisdiction of Courts in England and Wales
+    - [s. 2 Jurisdiction: general.](section/2.md)
+    - [s. 2A Jurisdiction in or in connection with matrimonial proceedings or civil partnership proceedings.](section/2A.md)
+    - [s. 3 Habitual residence or presence of child.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 Power of court to refuse application or stay proceedings.](section/5.md)
+    - [s. 6 Duration and variation of custody orders.](section/6.md)
+    - [s. 7 Interpretation of Chapter II.](section/7.md)
+  - Chapter III Jurisdiction of Courts in Scotland
+    - [s. 8 Jurisdiction in independent proceedings.](section/8.md)
+    - [s. 9 Habitual residence.](section/9.md)
+    - [s. 10 Presence of child.](section/10.md)
+    - [s. 11 Provisions supplementary to sections 9 and 10.](section/11.md)
+    - [s. 12 Emergency jurisdiction.](section/12.md)
+    - [s. 13 Jurisdiction ancillary to matrimonial proceedings.](section/13.md)
+    - [s. 14 Power of court to refuse application or sist proceedings.](section/14.md)
+    - [s. 15 Duration, variation and recall of orders.](section/15.md)
+    - [s. 16 Tutory and curatory.](section/16.md)
+    - [s. 17 Orders for delivery of child.](section/17.md)
+    - [s. 17A](section/17A.md)
+    - [s. 18 Interpretation of Chapter III.](section/18.md)
+  - Chapter IV Jurisdiction of Courts in Northern Ireland
+    - [s. 19 Jurisdiction: general.](section/19.md)
+    - [s. 19A Jurisdiction in or in connection with matrimonial proceedings or civil partnership proceedings.](section/19A.md)
+    - [s. 20 Habitual residence or presence of child.](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 Power of court to refuse application or stay proceedings.](section/22.md)
+    - [s. 23 Duration and variation of custody orders.](section/23.md)
+    - [s. 24 Interpretation of Chapter IV.](section/24.md)
+  - Chapter V Recognition and Enforcement
+    - [s. 25 Recognition of custody orders: general.](section/25.md)
+    - [s. 26 Recognition: special Scottish rule.](section/26.md)
+    - [s. 27 Registration.](section/27.md)
+    - [s. 28 Cancellation and variation of registration.](section/28.md)
+    - [s. 29 Enforcement.](section/29.md)
+    - [s. 30 Staying or sisting of enforcement proceedings.](section/30.md)
+    - [s. 31 Dismissal of enforcement proceedings.](section/31.md)
+    - [s. 32 Interpretation of Chapter V.](section/32.md)
+  - Chapter VI Miscellaneous and Supplemental
+    - [s. 33 Power to order disclosure of child’s whereabouts.](section/33.md)
+    - [s. 34 Power to order recovery of child.](section/34.md)
+    - [s. 35 Powers to restrict removal of child from jurisdiction.](section/35.md)
+    - [s. 36 Effect of orders restricting removal.](section/36.md)
+    - [s. 37 Surrender of passports.](section/37.md)
+    - [s. 38 Automatic restriction on removal of wards of court.](section/38.md)
+    - [s. 39 Duty to furnish particulars of other proceedings.](section/39.md)
+    - [s. 40 Interpretation of Chapter VI.](section/40.md)
+    - [s. 41 Habitual residence after removal without consent, etc.](section/41.md)
+    - [s. 42 General interpretation of Part I.](section/42.md)
+    - [s. 43 Application of Part I to dependent territories.](section/43.md)
+- Part II Recognition of Divorces, Annulments and Legal Separations
+  - Divorces, annulments and judicial separations granted in the British Islands
+    - [s. 44 Recognition in United Kingdom of divorces, annulments and judicial separations granted in the British Islands.](section/44.md)
+  - Overseas divorces, annulments and legal separations
+    - [s. 45 Recognition in the United Kingdom of overseas divorces, annulments and legal separations.](section/45.md)
+    - [s. 46 Grounds for recognition.](section/46.md)
+    - [s. 47 Cross-proceedings and divorces following legal separations.](section/47.md)
+    - [s. 48 Proof of facts relevant to recognition.](section/48.md)
+  - Supplemental
+    - [s. 49 Modifications of Part II in relation to countries comprising territories having different systems of law.](section/49.md)
+    - [s. 50 Non-recognition of divorce or annulment in another jurisdiction no bar to remarriage.](section/50.md)
+    - [s. 51 Refusal of recognition.](section/51.md)
+    - [s. 52 Provisions as to divorces, annulments etc. obtained before commencement of Part II.](section/52.md)
+    - [s. 53 Effect of divorces and annulments on wills.](section/53.md)
+    - [s. 54 Interpretation of Part II.](section/54.md)
+- Part III Declarations of Status
+  - [s. 55 Declarations as to marital status.](section/55.md)
+  - [s. 55A Declarations of parentage.](section/55A.md)
+  - [s. 56 Declarations as to parentage, legitimacy or legitimation.](section/56.md)
+  - [s. 57 Declarations as to adoptions effected overseas.](section/57.md)
+  - [s. 58 General provisions as to the making and effect of declarations.](section/58.md)
+  - [s. 59 Provisions relating to the Attorney-General.](section/59.md)
+  - [s. 60 Supplementary provisions as to declarations.](section/60.md)
+  - [s. 61 Abolition of right to petition for jactitation of marriage.](section/61.md)
+  - [s. 62 Repeal of Greek Marriages Act 1884.](section/62.md)
+  - [s. 63 ................................](section/63.md)
+- Part IV Miscellaneous and General
+  - [s. 64 ................................](section/64.md)
+  - [s. 65 Amendments of Child Abduction Act 1984.](section/65.md)
+  - [s. 66 ................................](section/66.md)
+- Part IV Miscellaneous and General
+  - [s. 67 Amendments of Child Abduction and Custody Act 1985.](section/67.md)
+  - [s. 68 Minor and consequential amendments, repeals and savings.](section/68.md)
+  - [s. 69 Short title, commencement and extent.](section/69.md)
+- SCHEDULE 1 Minor and Consequential Amendments Acts
+  - ACTS
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - The Guardianship of Infants Act 1886 (c. 27)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - The Sheriff Courts (Scotland) Act 1907 (c. 51)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - The Matrimonial Proceedings (Children) Act 1958 (c. 40)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - The Law Reform (Miscellaneous Provisions) (Scotland) Act 1966 (c. 19)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - The Domestic and Appellate Proceedings (Restriction of Publicity) Act 1968 (c. 63)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The Guardianship of Minors Act 1971 (c. 3)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - The Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - The Guardianship Act 1973 (c. 29)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - The Children Act 1975 (c. 72)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - The Marriage (Scotland) Act 1977 (c. 15)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - The Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - The Senior Courts Act 1981 (c. 54)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - The Matrimonial and Family Proceedings Act 1984 (c. 42)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - The Child Abduction and Custody Act 1985 (c. 60)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - ORDERS
+    - The Matrimonial Causes (Northern Ireland) Order 1978 S.I. 1978/1045 (N.I. 15)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - The Domestic Proceedings (Northern Ireland) Order 1980 S.I. 1980/563 (N.I. 5)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+- SCHEDULE 2 Repeals
