@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-12-15, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-06, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-12-15
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
 
 ## Contents
 
@@ -462,7 +462,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-12-15
       - Minimum sentence for repeat offences
         - [s. 313 Minimum sentence of 7 years for third class A drug trafficking offence](section/313.md)
         - [s. 314 Minimum sentence of 3 years for third domestic burglary](section/314.md)
-        - [s. 315 Minimum sentence for repeat offence involving weapon or bladed article](section/315.md)
+        - [s. 315 Minimum sentence for repeat offence involving weapon or bladed article or corrosive substance](section/315.md)
         - [s. 316 Appeals where previous convictions set aside](section/316.md)
         - [s. 317 Certificates of conviction for purposes of sections 313 and 314](section/317.md)
         - [s. 318 Offences under service law](section/318.md)
@@ -1559,6 +1559,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2021-12-15
 - SCHEDULE 20 Detention under section 250 and minimum sentences: firearms offences
   - PART 1 Offences
     - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 1A](schedule/20/paragraph/1A.md)
     - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
     - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
     - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
