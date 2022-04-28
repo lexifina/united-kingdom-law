@@ -1,0 +1,140 @@
+# Political Parties and Elections Act 2009
+
+2009 c. 12. Enacted 2009-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2009/12/2022-04-28
+
+## Contents
+
+- Part 1 The Electoral Commission
+  - Functions of Electoral Commission
+    - [s. 1 Compliance with controls imposed by the 2000 Act etc](section/1.md)
+    - [s. 2 Investigatory powers of Commission](section/2.md)
+    - [s. 3 Civil sanctions](section/3.md)
+  - Electoral Commissioners etc
+    - [s. 4 Selection of prospective Electoral Commissioners and Commission chairman](section/4.md)
+    - [s. 5 Four Electoral Commissioners to be persons put forward by parties](section/5.md)
+    - [s. 6 Number of Electoral Commissioners](section/6.md)
+    - [s. 7 Political restrictions on Electoral Commissioners and staff](section/7.md)
+    - [s. 8 Education about systems of government and EU institutions](section/8.md)
+- Part 2 Political donations etc and expenditure
+  - Donations etc
+    - [s. 9 Declaration as to source of donation](section/9.md)
+    - [s. 10 Non-resident donors etc](section/10.md)
+    - [s. 11 Non-resident lenders etc](section/11.md)
+    - [s. 12 Defence to charge of failing to return donation from impermissible donor](section/12.md)
+  - Offences
+    - [s. 13 “Reasonable excuse” in relation to certain offences under the 2000 Act](section/13.md)
+  - Responsible persons and compliance officers
+    - [s. 14 Control of donations to members associations: responsible persons](section/14.md)
+    - [s. 15 Control of donations to holders of elective office: compliance officers](section/15.md)
+    - [s. 16 Control of loans etc to members associations: responsible persons](section/16.md)
+    - [s. 17 Control of loans etc to holders of elective office: compliance officers](section/17.md)
+    - [s. 18 Person may not be “responsible person” for more than one third party](section/18.md)
+  - Unincorporated associations
+    - [s. 19 Reports of gifts received by unincorporated associations making political contributions](section/19.md)
+  - Thresholds
+    - [s. 20 Increased thresholds in relation to donations etc](section/20.md)
+  - Election expenses
+    - [s. 21 Limitation of pre-candidacy election expenses for certain general elections](section/21.md)
+    - [s. 22 Election expenses: guidance by Commission](section/22.md)
+- Part 3 Elections
+  - [s. 23 Election falling within canvass period](section/23.md)
+  - [s. 24 Candidate at parliamentary election may withhold home address from publication](section/24.md)
+  - [s. 25 Disposal of election documents in Scotland](section/25.md)
+  - [s. 26 Filling vacant European Parliament seats in Northern Ireland](section/26.md)
+  - [s. 27 Returning officers for elections to the European Parliament](section/27.md)
+- Part 4 Electoral registration
+  - Co-ordinated on-line record of electors
+    - [s. 28 Establishment of corporation sole to be CORE keeper](section/28.md)
+    - [s. 29 Use of CORE information](section/29.md)
+  - Identifying information
+    - [s. 30 Voluntary provision of identifying information](section/30.md)
+    - [s. 31 Regulations amending or supplementing section 30](section/31.md)
+    - [s. 32 Report by Electoral Commission on provision of identifying information](section/32.md)
+    - [s. 33 Obligatory provision of identifying information](section/33.md)
+    - [s. 34 Provision supplementing section 33](section/34.md)
+  - Data schemes
+    - [s. 35 Schemes for provision of data to registration officers](section/35.md)
+    - [s. 36 Schemes under section 35: proposals, consultation and evaluation](section/36.md)
+  - Interpretation
+    - [s. 37 Meaning of expressions relating to registration](section/37.md)
+- Part 5 General
+  - [s. 38 Meaning of “the 1983 Act” and “the 2000 Act”](section/38.md)
+  - [s. 39 Functions of the Minister for the Cabinet Office](section/39.md)
+  - [s. 39n1 Amendments and repeals](section/39n1.md)
+  - [s. 40 Transitional provision](section/40.md)
+  - [s. 41 Money](section/41.md)
+  - [s. 42 Extent](section/42.md)
+  - [s. 43 Commencement](section/43.md)
+  - [s. 44 Short title](section/44.md)
+- SCHEDULE 1 Investigatory powers of Commission: Schedule to be inserted into the 2000 Act
+- SCHEDULE 2 Civil sanctions: Schedule to be inserted into the 2000 Act
+- SCHEDULE 3 Declaration as to source of donation
+  - Schedule 7 to the 2000 Act (control of donations to individuals and members associations)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Schedule 11 to the 2000 Act (control of donations to recognised third parties)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Schedule 15 to the 2000 Act (control of donations to permitted participants)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Schedule 20 to the 2000 Act (penalties)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Declaration as to whether residence etc condition satisfied
+  - Schedule 7 to the 2000 Act (control of donations to individuals and members associations)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Schedule 11 to the 2000 Act (control of donations to recognised third parties)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Schedule 15 to the 2000 Act (control of donations to permitted participants)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Schedule 20 to the 2000 Act (penalties)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Reports of gifts received by unincorporated associations making political contributions: Schedule to be inserted into the 2000 Act
+- SCHEDULE 6 Minor and consequential amendments
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Political Parties, Elections and Referendums Act 2000 (c. 41)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+- SCHEDULE 7 Repeals
