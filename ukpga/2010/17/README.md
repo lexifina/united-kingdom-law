@@ -1,0 +1,109 @@
+# Crime and Security Act 2010
+
+2010 c. 17. Enacted 2010-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
+
+Source: https://www.legislation.gov.uk/ukpga/2010/17/2022-04-28
+
+## Contents
+
+- Police powers of stop and search
+  - [s. 1 Records of searches](section/1.md)
+- Taking of fingerprints and samples: England and Wales
+  - [s. 2 Powers to take material in relation to offences](section/2.md)
+  - [s. 3 Powers to take material in relation to offences outside England and Wales](section/3.md)
+  - [s. 4 Information to be given on taking of material](section/4.md)
+  - [s. 5 Speculative searches](section/5.md)
+  - [s. 6 Power to require attendance at police station](section/6.md)
+  - [s. 7 “Qualifying offence”](section/7.md)
+- Taking of fingerprints and samples: Northern Ireland
+  - [s. 8 Powers to take material in relation to offences](section/8.md)
+  - [s. 9 Powers to take material in relation to offences outside Northern Ireland](section/9.md)
+  - [s. 10 Information to be given on taking of material](section/10.md)
+  - [s. 11 Speculative searches](section/11.md)
+  - [s. 12 Power to require attendance at police station](section/12.md)
+  - [s. 13 “Qualifying offence”](section/13.md)
+- Retention, destruction and use of fingerprints and samples etc
+  - [s. 14 Material subject to the Police and Criminal Evidence Act 1984](section/14.md)
+  - [s. 15 Material subject to the Police and Criminal Evidence (Northern Ireland) Order 1989](section/15.md)
+  - [s. 16 Material subject to the Criminal Procedure (Scotland) Act 1995](section/16.md)
+  - [s. 17 Material subject to the Terrorism Act 2000](section/17.md)
+  - [s. 18 Material subject to the Terrorism Act 2000 (Scotland)](section/18.md)
+  - [s. 19 Material subject to the International Criminal Court Act 2001](section/19.md)
+  - [s. 20 Material subject to the Counter-Terrorism Act 2008 (Scotland)](section/20.md)
+  - [s. 21 Other material](section/21.md)
+  - [s. 22 Destruction of material taken before commencement](section/22.md)
+  - [s. 23 National DNA Database Strategy Board](section/23.md)
+- Domestic violence
+  - [s. 24 Power to issue a domestic violence protection notice](section/24.md)
+  - [s. 25 Contents and service of a domestic violence protection notice](section/25.md)
+  - [s. 26 Breach of a domestic violence protection notice](section/26.md)
+  - [s. 27 Application for a domestic violence protection order](section/27.md)
+  - [s. 28 Conditions for and contents of a domestic violence protection order](section/28.md)
+  - [s. 29 Breach of a domestic violence protection order](section/29.md)
+  - [s. 30 Further provision about remand](section/30.md)
+  - [s. 31 Guidance](section/31.md)
+  - [s. 32 Ministry of Defence Police](section/32.md)
+  - [s. 33 Pilot schemes](section/33.md)
+- Gang-related violence
+  - [s. 34 Grant of injunction: minimum age](section/34.md)
+  - [s. 35 Review on respondent to injunction becoming 18](section/35.md)
+  - [s. 36 Consultation of youth offending team](section/36.md)
+  - [s. 37 Application for variation or discharge of injunction](section/37.md)
+  - [s. 38 Powers of court to remand](section/38.md)
+  - [s. 39 Powers of court on breach of injunction by respondent under 18](section/39.md)
+- Anti-social behaviour orders
+  - [s. 40 Report on family circumstances](section/40.md)
+  - [s. 41 Parenting orders on breach](section/41.md)
+- Private security industry
+  - [s. 42 Extension of licensing scheme](section/42.md)
+  - [s. 43 Extension of approval scheme](section/43.md)
+  - [s. 44 Charges for vehicle release: appeals](section/44.md)
+- Prison security
+  - [s. 45 Offences relating to electronic communications devices in prison](section/45.md)
+- Air weapons
+  - [s. 46 Offence of allowing minors access to air weapons](section/46.md)
+- Compensation of victims of overseas terrorism
+  - [s. 47 Introductory](section/47.md)
+  - [s. 48 Compensation scheme](section/48.md)
+  - [s. 49 Eligibility and applications](section/49.md)
+  - [s. 50 Payments](section/50.md)
+  - [s. 51 Claims officers etc](section/51.md)
+  - [s. 52 Reviews and appeals](section/52.md)
+  - [s. 53 Reports, accounts and financial records](section/53.md)
+  - [s. 54 Parliamentary control](section/54.md)
+- Sale and supply of alcohol
+  - [s. 55 Power to restrict sale and supply of alcohol](section/55.md)
+- Searches of controlled persons
+  - [s. 56 Persons subject to control order: powers of search and seizure](section/56.md)
+- Final
+  - [s. 57 Financial provisions](section/57.md)
+  - [s. 58 Extent](section/58.md)
+  - [s. 59 Commencement](section/59.md)
+  - [s. 60 Short title](section/60.md)
+- SCHEDULE 1 Extension of private security industry licensing scheme: consequential and minor amendments
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Compensation of victims of overseas terrorism: consequential amendments
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Finance Act 2005 (c. 7)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Tribunals, Courts and Enforcement Act 2007 (c. 15)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
