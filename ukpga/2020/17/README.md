@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-06, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-28
 
 ## Contents
 
@@ -47,7 +47,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
         - [s. 24 Further powers to commit offender to the Crown Court to be dealt with](section/24.md)
     - CHAPTER 3 Remission to youth court or other magistrates’ court for sentence
       - [s. 25 Power and duty to remit offenders aged under 18 to youth courts for sentence](section/25.md)
-      - [s. 26 Remission by Crown Court to youth court: custody or bail, and appeals](section/26.md)
+      - [s. 25A Power to remit adult offenders to magistrates’ courts for sentence](section/25A.md)
+      - [s. 26 Remission by Crown Court to youth court or other magistrates’ court: custody or bail, and appeals](section/26.md)
       - [s. 27 Power of youth court to remit offender who attains age of 18 to magistrates’ court other than youth court for sentence](section/27.md)
       - [s. 28 Power of magistrates’ court to remit case to another magistrates’ court for sentence](section/28.md)
       - [s. 29 Remission by magistrates’ court: adjournment, remand and appeal](section/29.md)
@@ -281,6 +282,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
       - Youth rehabilitation orders: supplementary
         - [s. 197 Youth rehabilitation orders: interpretation](section/197.md)
         - [s. 198 When a youth rehabilitation order is in force](section/198.md)
+        - [s. 198A Electronic monitoring requirement previously imposed](section/198A.md)
         - [s. 199 Youth rehabilitation orders: Isles of Scilly](section/199.md)
     - CHAPTER 2 Community orders
       - What a community order is
@@ -499,6 +501,19 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
       - [s. 340 Special measures for witnesses](section/340.md)
       - [s. 341 Guidance](section/341.md)
       - [s. 342 Offender aged under 18: parenting order where criminal behaviour order made](section/342.md)
+    - CHAPTER 1A Serious violence reduction orders
+      - [s. 342A Power to make serious violence reduction order](section/342A.md)
+      - [s. 342B Meaning of “serious violence reduction order”](section/342B.md)
+      - [s. 342C Serious violence reduction orders: additional requirements etc](section/342C.md)
+      - [s. 342D Duration of serious violence reduction orders](section/342D.md)
+      - [s. 342E Serious violence reduction orders: powers of constables](section/342E.md)
+      - [s. 342F Retention and disposal of things seized under section 342E](section/342F.md)
+      - [s. 342G Offences relating to a serious violence reduction order](section/342G.md)
+      - [s. 342H Variation, renewal or discharge of serious violence reduction order](section/342H.md)
+      - [s. 342I Appeal against serious violence reduction order etc](section/342I.md)
+      - [s. 342J Guidance](section/342J.md)
+      - [s. 342K Guidance: Parliamentary procedure](section/342K.md)
+      - [s. 342L Serious violence reduction orders: interpretation](section/342L.md)
     - CHAPTER 2 Sexual harm prevention orders
       - [s. 343 Sexual harm prevention order](section/343.md)
       - [s. 344 Meaning of “sexual harm”](section/344.md)
@@ -813,15 +828,23 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
       - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
     - Restriction on imposing education requirement
       - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
-  - PART 17 Electronic monitoring requirement
-    - Requirement
+  - PART 17 Electronic monitoring
+    - Electronic compliance monitoring requirement
       - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
-    - Person responsible for electronic monitoring
+    - Person responsible for electronic monitoring: electronic compliance monitoring requirement
       - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
-    - Monitoring period
-      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
-    - Restrictions on imposing electronic monitoring
+    - Electronic monitoring: general
+      - [Sch. 6 para. 43A](schedule/6/paragraph/43A.md)
+    - Restrictions on imposing electronic compliance monitoring requirement
       - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - Electronic whereabouts monitoring requirement
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - Person responsible for electronic monitoring: electronic whereabouts monitoring order
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - Electronic whereabouts monitoring requirement: general
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+    - Restrictions on imposing electronic whereabouts monitoring requirement
+      - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
 - SCHEDULE 7 Breach, revocation or amendment of youth rehabilitation order
   - PART 1 Preliminary
     - Interpretation
@@ -1649,6 +1672,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-04-06
       - [Sch. 22 para. 38B](schedule/22/paragraph/38B.md)
       - [Sch. 22 para. 39](schedule/22/paragraph/39.md)
       - [Sch. 22 para. 40](schedule/22/paragraph/40.md)
+      - [Sch. 22 para. 40A](schedule/22/paragraph/40A.md)
       - [Sch. 22 para. 41](schedule/22/paragraph/41.md)
       - [Sch. 22 para. 42](schedule/22/paragraph/42.md)
       - [Sch. 22 para. 43](schedule/22/paragraph/43.md)
