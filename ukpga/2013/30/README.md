@@ -1,0 +1,258 @@
+# Marriage (Same Sex Couples) Act 2013
+
+2013 c. 30. Enacted 2013-07-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2013/30/2022-04-28
+
+## Contents
+
+- PART 1 Marriage of same sex couples in England and Wales
+  - Extension of marriage
+    - [s. 1 Extension of marriage to same sex couples](section/1.md)
+  - Religious protection
+    - [s. 2 Marriage according to religious rites: no compulsion to solemnize etc](section/2.md)
+  - Part 3 of the Marriage Act 1949
+    - [s. 3 Marriage for which no opt-in necessary](section/3.md)
+    - [s. 4 Opt-in: marriage in places of worship](section/4.md)
+    - [s. 5 Opt-in: other religious ceremonies](section/5.md)
+  - Part 5 of the Marriage Act 1949
+    - [s. 6 Armed forces chapels](section/6.md)
+  - The Marriage (Registrar General’s Licence) Act 1970
+    - [s. 7 Opt-in: “deathbed marriages”](section/7.md)
+  - The Church in Wales
+    - [s. 8 Power to allow for marriage of same sex couples in Church in Wales](section/8.md)
+  - Other provisions relating to marriages of same sex couples
+    - [s. 9 Conversion of civil partnership into marriage](section/9.md)
+    - [s. 10 Extra-territorial matters](section/10.md)
+  - Effect of extension of marriage
+    - [s. 11 Effect of extension of marriage](section/11.md)
+- PART 2 Other provisions relating to marriage and civil partnership
+  - [s. 12 Change of gender of married persons or civil partners](section/12.md)
+  - [s. 13 Marriage overseas](section/13.md)
+  - [s. 14 Marriage according to the usages of belief organisations](section/14.md)
+  - [s. 15 Review of civil partnership](section/15.md)
+  - [s. 16 Survivor benefits under occupational pension schemes](section/16.md)
+- PART 3 Final provisions
+  - [s. 17 Transitional and consequential provision](section/17.md)
+  - [s. 18 Orders and regulations](section/18.md)
+  - [s. 19 Interpretation](section/19.md)
+  - [s. 20 Extent](section/20.md)
+  - [s. 21 Short title and commencement](section/21.md)
+- SCHEDULE 1 Registration of buildings etc
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Registration of buildings
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Shared buildings
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Extra-territorial matters
+  - PART 1 English and Welsh marriages of same sex couples: treatment in Scotland and Northern Ireland
+    - Scotland
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Northern Ireland
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Contrary provision
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 2 Marriage treated as civil partnership: dissolution, annulment or separation
+    - Order made in relation to civil partnership: validity in relation to marriage
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 3 England and Wales: “overseas relationships” in Civil Partnership Act 2004
+    - Marriage not an “overseas relationship” in England and Wales
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Interpretation of legislation
+  - PART 1 Existing England and Wales legislation
+    - Interpretation of existing England and Wales legislation
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Interpretation of legislation about couples living together as if married
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - General
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - PART 2 New England and Wales legislation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Effect of extension of marriage: further provision
+  - PART 1 Private legal instruments
+    - Existing instruments
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Presumption on birth of child to married woman
+    - Common law presumption
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - PART 3 Divorce and annulment of marriage
+    - Divorce
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Annulment of marriage
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - PART 4 Matrimonial proceedings
+    - Amendment of the Domicile and Matrimonial Proceedings Act 1973
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Transitory provision until commencement of Presumption of Death Act 2013
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - PART 5 State pensions
+    - Category B retirement pension for married person
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Category B retirement pension for widows and widowers
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Category B retirement pension for widowers
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Graduated retirement benefit
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Adult dependency increases
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Converted civil partnerships
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - PART 6 Occupational pensions and survivor benefits
+    - Benefits dependent on marriage of same sex couples
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Pension Schemes Act 1993
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - PART 7 Provisions which limit equivalence of all marriages etc
+    - Contrary provision
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+- SCHEDULE 5 Change of gender of married persons or civil partners
+  - PART 1 Applications by married persons and civil partners
+    - Introduction
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Evidence
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Successful applications
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Issue of full certificate after interim certificate: applicant married
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Applications by both civil partners
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Errors in certificates
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Applications: supplementary
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Appeals etc
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Registration
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Change in gender of party to marriage
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Change in gender of civil partners
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Foreign gender change and marriage
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Prohibition on disclosure of information
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Interpretation
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - PART 2 Alternative grounds for granting applications for gender recognition certificates
+    - Introduction
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Alternative grounds for granting applications
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Evidence for granting applications on alternative grounds
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Membership of Panels determining applications on alternative grounds
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 Marriage overseas
+  - PART 1 Consular marriage under UK law
+    - Provision for consular marriage
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Refusal by registration officer
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - No religious service
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Treatment of marriage as taking place in part of UK for certain purposes
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Validity of consular marriage
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Interpretation
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - PART 2 Marriage under foreign law: certificates of no impediment
+    - Provision for certificates of no impediment
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - PART 3 Marriage of forces personnel under UK law
+    - Provision for marriage of armed forces personnel
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Religious services at forces marriages of same sex couples
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Treatment of marriage as taking place in part of UK for certain purposes
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Validity of forces marriage
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Interpretation
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - PART 4 General provisions
+    - Parliamentary scrutiny
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Particular kinds of provision
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Interpretation
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+- SCHEDULE 7 Transitional and consequential provision etc
+  - PART 1 Transitional and transitory provision
+    - Approval of premises for civil weddings
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - PART 2 Minor and consequential amendments
+    - Marriage Act 1949 (c. 76)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Marriage (Registrar General’s Licence) Act 1970
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Public Order Act 1986 (c. 64)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Pension Schemes Act 1993 (c. 48)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Civil Partnership Act 2004 (c. 33)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - Human Fertilisation and Embryology Act 2008 (c. 22)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
