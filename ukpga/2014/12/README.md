@@ -2,9 +2,9 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-09-17, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2021-09-17
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2022-04-28
 
 ## Contents
 
@@ -92,7 +92,9 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2021-09-17
   - CHAPTER 2 Public spaces protection orders
     - Public spaces protection orders
       - [s. 59 Power to make orders](section/59.md)
+      - [s. 59A Power to make expedited public spaces protection orders](section/59A.md)
       - [s. 60 Duration of orders](section/60.md)
+      - [s. 60A Duration of expedited orders](section/60A.md)
       - [s. 61 Variation and discharge of orders](section/61.md)
     - Prohibition on consuming alcohol
       - [s. 62 Premises etc to which alcohol prohibition does not apply](section/62.md)
@@ -110,6 +112,8 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2021-09-17
       - [s. 70 Byelaws](section/70.md)
       - [s. 71 Bodies other than local authorities with statutory functions in relation to land](section/71.md)
       - [s. 72 Convention rights, consultation, publicity and notification](section/72.md)
+      - [s. 72A Expedited orders: Convention rights and consents](section/72A.md)
+      - [s. 72B Consultation and notifications after making expedited order](section/72B.md)
       - [s. 73 Guidance](section/73.md)
       - [s. 74 Interpretation of Chapter 2](section/74.md)
       - [s. 75 Saving and transitional provision](section/75.md)
