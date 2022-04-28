@@ -1,0 +1,228 @@
+# Pensions Act (Northern Ireland) 2008
+
+nia/2008/1. Enacted 2008-02-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2008/1
+
+Source: https://www.legislation.gov.uk/nia/2008/1/2022-04-28
+
+## Contents
+
+- PART 1 STATE PENSION
+  - Entitlement to Category A and B retirement pensions
+    - [s. 1 Category A and B retirement pensions: single contribution condition](section/1.md)
+    - [s. 2 Category B retirement pension: removal of restriction on entitlement](section/2.md)
+  - Credits for basic state pension, etc.
+    - [s. 3 Contributions credits for relevant parents and carers](section/3.md)
+  - Abolition of adult dependency increases
+    - [s. 4 Category A and C retirement pensions: abolition of adult dependency increases](section/4.md)
+  - Up-rating of basic state pension and other benefits
+    - [s. 5 Up-rating of basic pension etc. and standard minimum guarantee by reference to earnings](section/5.md)
+    - [s. 6 Preservation of link with prices in case of other benefits](section/6.md)
+  - Additional pension: deemed earnings factors
+    - [s. 7 Deemed earnings factors for purposes of additional pension](section/7.md)
+  - Additional pension: simplification of accrual rates
+    - [s. 8 Additional pension: removal of accrual band from 2010–11](section/8.md)
+    - [s. 9 Additional pension: simplified accrual rates as from flat rate introduction year](section/9.md)
+    - [s. 10 Additional pension: upper accrual point](section/10.md)
+  - Increase in state pension age
+    - [s. 11 Increase in pensionable age for men and women](section/11.md)
+- PART 2 OCCUPATIONAL AND PERSONAL PENSION SCHEMES
+  - Contracting-out
+    - [s. 12 Conversion of guaranteed minimum pensions](section/12.md)
+    - [s. 13 Abolition of contracting-out for defined contribution pension schemes](section/13.md)
+  - Dispute resolution
+    - [s. 14 Dispute resolution arrangements](section/14.md)
+  - Actuarial guidance
+    - [s. 15 Removal of Department’s role in approving actuarial guidance](section/15.md)
+- PART 3 PERSONAL ACCOUNTS DELIVERY AUTHORITY
+  - [s. 16 Initial function of the Personal Accounts Delivery Authority](section/16.md)
+  - [s. 17 Management of the Authority](section/17.md)
+- PART 4 GENERAL
+  - [s. 18 Review of operation of Act](section/18.md)
+  - [s. 19 Consequential etc. provision, repeals and revocations](section/19.md)
+  - [s. 20 Interpretation](section/20.md)
+  - [s. 21 Commencement](section/21.md)
+  - [s. 22 Short title](section/22.md)
+- SCHEDULE 1 STATE PENSION: CONSEQUENTIAL AND RELATED AMENDMENTS
+  - PART 1 CATEGORY A AND B RETIREMENT PENSIONS: SINGLE CONTRIBUTION CONDITION
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - PART 2 CATEGORY B RETIREMENT PENSION: REMOVAL OF RESTRICTION ON ENTITLEMENT
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 3 CONTRIBUTIONS CREDITS FOR RELEVANT PARENTS AND CARERS
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - The Welfare Reform Act (Northern Ireland) 2007 (c. 2)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - PART 4 CATEGORY A AND C RETIREMENT PENSIONS: ABOLITION OF ADULT DEPENDENCY INCREASES
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - PART 5 UP-RATING OF BASIC PENSION ETC. AND STANDARD MINIMUM GUARANTEE BY REFERENCE TO EARNINGS
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - PART 6 DEEMED EARNINGS FACTORS FOR PURPOSES OF ADDITIONAL PENSION
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - PART 7 ADDITIONAL PENSION: SIMPLIFIED ACCRUAL RATES
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - PART 8 INCREASE IN PENSIONABLE AGE FOR MEN AND WOMEN
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - The State Pension Credit Act (Northern Ireland) 2002 (c. 14)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+- SCHEDULE 2 ADDITIONAL PENSION: SIMPLIFIED ACCRUAL RATES
+  - PART 1 NEW SCHEDULE 4B TO THE CONTRIBUTIONS AND BENEFITS ACT
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PART 2 REVALUATION OF FLAT RATE ACCRUAL AMOUNT
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - PART 3 CONSEQUENTIAL AND RELATED AMENDMENTS
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 INCREASE IN PENSIONABLE AGE FOR MEN AND WOMEN
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES
+  - PART 1 AMENDMENTS HAVING EFFECT AS FROM ABOLITION DATE
+    - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - The Pensions (Northern Ireland) Order 1995 (NI 22)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - The Pensions (Northern Ireland) Order 2005 (NI 1)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+  - PART 2 FURTHER AMENDMENTS
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+  - PART 3 SAVINGS
+    - Issue and cancellation etc. of certificates for periods before the abolition date
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - Determination of question whether scheme was appropriate scheme
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - Preservation of earner’s chosen scheme
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - Interpretation etc.
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+- SCHEDULE 5 REMOVAL OF DEPARTMENT’S ROLE IN APPROVING ACTUARIAL GUIDANCE
+  - The Insolvency (Northern Ireland) Order 1989 (NI 19)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Pensions (Northern Ireland) Order 1995 (NI 22)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Pensions (Northern Ireland) Order 2005 (NI 1)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 REPEALS AND REVOCATIONS
+  - PART 1 CATEGORY B RETIREMENT PENSION: REMOVAL OF RESTRICTION ON ENTITLEMENT
+  - PART 2 CATEGORY A AND C RETIREMENT PENSIONS: ABOLITION OF ADULT DEPENDENCY INCREASES
+  - PART 3 UP-RATING
+  - PART 4 ADDITIONAL PENSION: SIMPLIFIED ACCRUAL RATES
+  - PART 5 INCREASE IN PENSIONABLE AGE
+  - PART 6 ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES: REPEALS AND REVOCATIONS HAVING EFFECT ON ABOLITION DATE
+  - PART 7 ABOLITION OF CONTRACTING-OUT FOR DEFINED CONTRIBUTION PENSION SCHEMES: FURTHER REPEALS
+  - PART 8 REMOVAL OF DEPARTMENT’S ROLE IN APPROVING ACTUARIAL GUIDANCE
