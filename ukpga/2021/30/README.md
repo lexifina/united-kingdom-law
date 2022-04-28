@@ -2,9 +2,9 @@
 
 2021 c. 30. Enacted 2021-11-09.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. Earlier versions, from 2021-11-09, are in the history before it: `git log -- ukpga/2021/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2021-11-09, are in the history before it: `git log -- ukpga/2021/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/30/2022-04-01
+Source: https://www.legislation.gov.uk/ukpga/2021/30/2022-04-28
 
 ## Contents
 
