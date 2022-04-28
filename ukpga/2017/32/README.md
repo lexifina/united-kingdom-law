@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-01, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2022-04-01
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2022-04-28
 
 ## Contents
 
