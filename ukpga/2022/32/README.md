@@ -2,11 +2,9 @@
 
 2022 c. 32. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 69 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
-
-Source: https://www.legislation.gov.uk/ukpga/2022/32/2026-10-01
+Source: https://www.legislation.gov.uk/ukpga/2022/32/2022-04-28
 
 ## Contents
 
@@ -67,13 +65,6 @@ Source: https://www.legislation.gov.uk/ukpga/2022/32/2026-10-01
     - [s. 42 Code of practice about the extraction of information](section/42.md)
     - [s. 43 Confidential information](section/43.md)
     - [s. 44 Authorised persons](section/44.md)
-  - Chapter 3A Requests for information relating to victims
-    - [s. 44A Requests for information relating to victims](section/44A.md)
-    - [s. 44B Notice requirements for victim information requests](section/44B.md)
-    - [s. 44C Content of victim information requests](section/44C.md)
-    - [s. 44D Code of practice](section/44D.md)
-    - [s. 44E Authorised persons](section/44E.md)
-    - [s. 44F Application of this Chapter to service police etc](section/44F.md)
   - CHAPTER 4 Other provisions
     - Pre-charge bail
       - [s. 45 Pre-charge bail](section/45.md)
