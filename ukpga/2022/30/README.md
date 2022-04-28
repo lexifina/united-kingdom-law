@@ -2,11 +2,9 @@
 
 2022 c. 30. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
-
-Source: https://www.legislation.gov.uk/ukpga/2022/30/2026-07-01
+Source: https://www.legislation.gov.uk/ukpga/2022/30/2022-04-28
 
 ## Contents
 
@@ -161,14 +159,12 @@ Source: https://www.legislation.gov.uk/ukpga/2022/30/2026-07-01
     - [s. 118 Section 117: height of buildings and number of storeys](section/118.md)
     - [s. 119 Meaning of “qualifying lease” and “the qualifying time”](section/119.md)
     - [s. 119A Meaning of “connected replacement lease”](section/119A.md)
-    - [s. 120 Meaning of “relevant defect” and “relevant steps”](section/120.md)
+    - [s. 120 Meaning of “relevant defect”](section/120.md)
     - [s. 121 Associated persons](section/121.md)
     - [s. 122 Remediation costs under qualifying leases etc](section/122.md)
     - [s. 123 Remediation orders](section/123.md)
     - [s. 124 Remediation contribution orders](section/124.md)
     - [s. 125 Meeting remediation costs of insolvent landlord](section/125.md)
-  - Insolvency of certain persons with an interest in higher-risk and relevant buildings
-    - [s. 125A Notifications by insolvency practitioners](section/125A.md)
   - Building industry schemes
     - [s. 126 Building industry schemes](section/126.md)
     - [s. 127 Building industry schemes: supplementary](section/127.md)
@@ -457,24 +453,24 @@ Source: https://www.legislation.gov.uk/ukpga/2022/30/2026-07-01
   - [Sch. 11 para. 1 Introductory](schedule/11/paragraph/1.md)
   - [Sch. 11 para. 2 General safety requirements](schedule/11/paragraph/2.md)
   - [Sch. 11 para. 3 Construction products with designated standards or technical assessments](schedule/11/paragraph/3.md)
-  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
-  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
-  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
-  - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
-  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
-  - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 4 Construction products with designated standards or technical assessments](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 Construction products with designated standards or technical assessments](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 Construction products with designated standards or technical assessments](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7 Construction products with designated standards or technical assessments](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8 Construction products with designated standards or technical assessments](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9 Construction products with designated standards or technical assessments](schedule/11/paragraph/9.md)
   - [Sch. 11 para. 10 Safety-critical products](schedule/11/paragraph/10.md)
-  - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
-  - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
-  - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
-  - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - [Sch. 11 para. 11 Safety-critical products](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12 Safety-critical products](schedule/11/paragraph/12.md)
+  - [Sch. 11 para. 13 Safety-critical products](schedule/11/paragraph/13.md)
+  - [Sch. 11 para. 14 Safety-critical products](schedule/11/paragraph/14.md)
   - [Sch. 11 para. 15 Enforcement](schedule/11/paragraph/15.md)
   - [Sch. 11 para. 16 Costs](schedule/11/paragraph/16.md)
   - [Sch. 11 para. 17 Information](schedule/11/paragraph/17.md)
-  - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
-  - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 18 Information](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 19 Information](schedule/11/paragraph/19.md)
   - [Sch. 11 para. 20 General and supplementary](schedule/11/paragraph/20.md)
-  - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
-  - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 21 General and supplementary](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22 General and supplementary](schedule/11/paragraph/22.md)
   - [Sch. 11 para. 23 Procedure](schedule/11/paragraph/23.md)
   - [Sch. 11 para. 24 Interpretation](schedule/11/paragraph/24.md)
