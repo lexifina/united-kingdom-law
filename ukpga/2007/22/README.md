@@ -1,0 +1,298 @@
+# Pensions Act 2007
+
+2007 c. 22. Enacted 2007-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/22
+
+Source: https://www.legislation.gov.uk/ukpga/2007/22/2022-04-28
+
+## Contents
+
+- Part 1 State pension
+  - Entitlement to Category A and B retirement pensions
+    - [s. 1 Category A and B retirement pensions: single contribution condition](section/1.md)
+    - [s. 2 Category B retirement pension: removal of restriction on entitlement](section/2.md)
+  - Credits for basic state pension
+    - [s. 3 Contributions credits for relevant parents and carers](section/3.md)
+  - Abolition of adult dependency increases
+    - [s. 4 Category A and C retirement pensions: abolition of adult dependency increases](section/4.md)
+  - Up-rating of basic state pension and other benefits
+    - [s. 5 Up-rating of basic pension etc. and standard minimum guarantee by reference to earnings](section/5.md)
+    - [s. 6 Preservation of link with prices in case of other benefits](section/6.md)
+    - [s. 7 Removal of link between lower earnings limit and basic pension](section/7.md)
+    - [s. 8 Removal of link between lower earnings limit and basic pension: Northern Ireland](section/8.md)
+  - Additional pension: deemed earnings factors
+    - [s. 9 Deemed earnings factors for purposes of additional pension](section/9.md)
+  - Additional pension: simplification of accrual rates
+    - [s. 10 Additional pension: removal of accrual band from 2010-11](section/10.md)
+    - [s. 11 Additional pension: simplified accrual rates as from flat rate introduction year](section/11.md)
+    - [s. 12 Additional pension: upper accrual point](section/12.md)
+  - Increase in state pension age
+    - [s. 13 Increase in pensionable age for men and women](section/13.md)
+- Part 2 Occupational and personal pension schemes
+  - Contracting-out
+    - [s. 14 Conversion of guaranteed minimum pensions](section/14.md)
+    - [s. 15 Abolition of contracting-out for defined contribution pension schemes](section/15.md)
+  - Dispute resolution
+    - [s. 16 Dispute resolution arrangements](section/16.md)
+  - Actuarial guidance
+    - [s. 17 Removal of Secretary of State’s role in approving actuarial guidance](section/17.md)
+  - Financial assistance scheme
+    - [s. 18 Financial assistance scheme: increased levels of payments](section/18.md)
+    - [s. 19 Temporary restriction on purchase of annuities](section/19.md)
+- Part 3 Personal Accounts Delivery Authority
+  - [s. 20 Personal Accounts Delivery Authority](section/20.md)
+  - [s. 21 Initial function of the Authority](section/21.md)
+  - [s. 22 Management of the Authority](section/22.md)
+  - [s. 23 Winding up of the Authority](section/23.md)
+- Part 4 General
+  - [s. 24 Review of operation of Act](section/24.md)
+  - [s. 25 Orders and regulations](section/25.md)
+  - [s. 26 Interpretation](section/26.md)
+  - [s. 27 Consequential etc. provision, repeals and revocations](section/27.md)
+  - [s. 28 Financial provisions](section/28.md)
+  - [s. 29 Extent](section/29.md)
+  - [s. 30 Commencement](section/30.md)
+  - [s. 31 Short title](section/31.md)
+- SCHEDULE 1 State pension: consequential and related amendments
+  - Part 1 Category A and B retirement pensions: single contribution condition
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part 2 Category B retirement pension: removal of restriction on entitlement
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part 3 Contributions credits for relevant parents and carers
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Welfare Reform Act 2007 (c. 5)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Part 4 Category A and C retirement pensions: abolition of adult dependency increases
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part 5 Up-rating of basic pension etc. and standard minimum guarantee by reference to earnings
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Social Security Administration Act 1992 (c. 5)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Part 6 Deemed earnings factors for purposes of additional pension
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Part 7 Additional pension: simplified accrual rates
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Pension Schemes Act 1993 (c. 48)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - Part 8 Increase in pensionable age for men and women
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - State Pension Credit Act 2002 (c. 16)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+- SCHEDULE 2 Additional pension: simplified accrual rates
+  - Part 1 New Schedule 4B to the SSCBA
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part 2 Revaluation of flat rate accrual amount
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part 3 Consequential and related amendments
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Pension Schemes Act 1993 (c. 48)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Increase in pensionable age for men and women
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Abolition of contracting-out for defined contribution pension schemes
+  - Part 1 Amendments having effect as from abolition date
+    - Pension Schemes Act 1993 (c. 48)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - Pensions Act 1995 (c. 26)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - Welfare Reform and Pensions Act 1999 (c. 30)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - Pensions Act 2004 (c. 35)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - Part 2 Further amendments
+    - Social Security Contributions and Benefits Act 1992 (c. 4)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - Pension Schemes Act 1993 (c. 48)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+  - Part 3 Savings
+    - Issue and cancellation etc. of certificates for periods before the abolition date
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - Determination of question whether scheme was appropriate scheme
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - Preservation of earner’s chosen scheme
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - Interpretation etc.
+      - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+- SCHEDULE 5 Removal of Secretary of State’s role in approving actuarial guidance
+  - Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Pensions Act 1995 (c. 26)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Pensions Act 2004 (c. 35)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6
+  - Part 1 Members and employees etc.
+    - Members
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Qualifications for non-executive members
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Tenure of office of non-executive members
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Remuneration etc. of non-executive members
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Deputy chairman
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Executive members and employees
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Terms and conditions of executive members
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Terms and conditions of other employees
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Part 2 Proceedings etc.
+    - Non-executive committee
+      - [Sch. 6 para. 8A](schedule/6/paragraph/8A.md)
+    - Other committees and advisory committees
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Proceedings of the Authority, committees and sub-committees
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Disqualification for acting in relation to certain matters
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Delegation
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Validity of proceedings
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Authentication of the Authority’s seal
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Annual report
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Part 3 Money
+    - Finance
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Accounts
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Part 4 Supplementary
+    - Disqualification
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Records and freedom of information
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Interpretation
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+- SCHEDULE 7 Repeals and revocations
+  - Part 1 Category B retirement pension: removal of restriction on entitlement
+  - Part 2 Category A and C retirement pensions: abolition of adult dependency increases
+  - Part 3 Up-rating
+  - Part 4 Removal of link between lower earnings limit and basic pension
+  - Part 5 Additional pension: simplified accrual rates
+  - Part 6 Abolition of contracting-out for defined contribution pension schemes: repeals and revocations having effect on abolition date
+  - Part 7 Abolition of contracting-out for defined contribution pension schemes: further repeals
+  - Part 8 Removal of Secretary of State’s role in approving actuarial guidance
