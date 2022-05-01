@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-03-18, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-05-01, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-03-18
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-05-01
 
 ## Contents
 
@@ -673,6 +673,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-03-18
     - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
     - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
     - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 15A](schedule/7/paragraph/15A.md)
     - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
     - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
     - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
