@@ -2,9 +2,9 @@
 
 2011 c. 20. Enacted 2011-11-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-03-18, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-05-05, one file per provision. Earlier versions, from 2011-11-15, are in the history before it: `git log -- ukpga/2011/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/20/2022-03-18
+Source: https://www.legislation.gov.uk/ukpga/2011/20/2022-05-05
 
 ## Contents
 
@@ -316,7 +316,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/20/2022-03-18
 - SCHEDULE 1 General power of competence: consequential amendments
   - Local Government Act 1972 (c. 70)
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-  - Local Government Act 2000 (c. 22)
+  - ...
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
     - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
