@@ -1,0 +1,137 @@
+# Crime and Punishment (Scotland) Act 1997
+
+1997 c. 48. Enacted 1997-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-05-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/48
+
+Source: https://www.legislation.gov.uk/ukpga/1997/48/2022-05-17
+
+## Contents
+
+- Part I Sentencing
+  - Automatic sentences
+    - [s. 1 Imprisonment for life on further conviction for certain offences.](section/1.md)
+    - [s. 2 Minimum sentence for third conviction of certain offences relating to drug trafficking.](section/2.md)
+    - [s. 3 Meaning of “conviction”.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Restriction of liberty orders
+    - [s. 5 Restriction of liberty orders.](section/5.md)
+  - Mentally disordered offenders
+    - [s. 6 Disposal in cases of mentally disordered offenders.](section/6.md)
+    - [s. 7 Effect of hospital direction.](section/7.md)
+    - [s. 8 Remand of persons suffering from mental disorder to private hospital.](section/8.md)
+    - [s. 9 Power to specify hospital unit.](section/9.md)
+    - [s. 10 Medical evidence in relation to mentally disordered offenders.](section/10.md)
+    - [s. 11 Increase in maximum period of interim hospital orders.](section/11.md)
+    - [s. 12 Sentence calculation where remand spent in hospital.](section/12.md)
+  - Increases in sentencing powers and penalties
+    - [s. 13 Increase in sentences available to sheriff and district courts.](section/13.md)
+    - [s. 14 Increase in maximum penalty for certain sexual offences.](section/14.md)
+  - Powers of court to disqualify from driving
+    - [s. 15 Driving disqualifications.](section/15.md)
+  - Miscellaneous
+    - [s. 16 Designated life prisoners.](section/16.md)
+- Part II Criminal Procedure
+  - Appeals
+    - [s. 17 Right of appeal.](section/17.md)
+    - [s. 18 Automatic sentences: jurisdiction and appeals.](section/18.md)
+    - [s. 19 Appeal against automatic sentence where earlier conviction quashed.](section/19.md)
+    - [s. 20 Transfer of rights of appeal of deceased person.](section/20.md)
+    - [s. 21 Increased rights of appeal of prosecutor.](section/21.md)
+    - [s. 22 Appeal by prosecutor against hospital orders etc.](section/22.md)
+    - [s. 23 Appeals against orders under section 49 of the 1995 Act.](section/23.md)
+    - [s. 24 Suspension of certain sentences pending determination of appeal.](section/24.md)
+  - The Scottish Criminal Cases Review Commission
+    - [s. 25 Scottish Criminal Cases Review Commission.](section/25.md)
+  - Evidential provisions
+    - [s. 26 Evidence concerning certain orders.](section/26.md)
+    - [s. 27 Proof of age.](section/27.md)
+    - [s. 28 Evidence from certain official documents.](section/28.md)
+    - [s. 29 Evidence of vulnerable persons: special provisions.](section/29.md)
+    - [s. 30 Routine evidence.](section/30.md)
+    - [s. 31 Previous convictions in solemn proceedings.](section/31.md)
+    - [s. 32 Supervision and care of persons diverted from prosecution or subject to supervision requirement.](section/32.md)
+- Part III Prisoners
+  - Chapter I Early release
+  - Chapter II Treatment of prisoners
+    - [s. 42 Testing of prisoners for alcohol.](section/42.md)
+    - [s. 43 Medical services in prisons.](section/43.md)
+    - [s. 44 Unlawful disclosure of information.](section/44.md)
+- Part IV Police
+  - Police funding and organisation
+    - [s. 45 Police grant.](section/45.md)
+    - [s. 46 Common police services.](section/46.md)
+  - Collection and use of records
+    - [s. 47 Record of evidence taken from external parts of body.](section/47.md)
+    - [s. 48 Samples etc. from persons convicted of sexual and violent offences.](section/48.md)
+- Part V Criminal Legal Assistance
+  - [s. 49 Criminal legal assistance.](section/49.md)
+  - Employment of solicitors
+    - [s. 50 Employment of solicitors in relation to criminal legal assistance.](section/50.md)
+  - Fixed payments for criminal legal assistance
+    - [s. 51 Fixed payments.](section/51.md)
+    - [s. 52 Contracts for the provision of criminal legal assistance.](section/52.md)
+  - Powers of investigation
+    - [s. 53 Power of investigation of Scottish Legal Aid Board.](section/53.md)
+    - [s. 54 Regulations in relation to criminal legal assistance.](section/54.md)
+- Part VI Miscellaneous and General
+  - Miscellaneous
+    - [s. 55 Liberation of child by police.](section/55.md)
+    - [s. 56 Powers of the court on remand or committal of children and young persons.](section/56.md)
+    - [s. 57 Precognitions.](section/57.md)
+    - [s. 58 Information concerning jurors.](section/58.md)
+    - [s. 59 Certification of previous convictions in criminal proceedings.](section/59.md)
+    - [s. 60 Grants for forensic medical services.](section/60.md)
+    - [s. 61 Confiscation of alcohol from persons under 18.](section/61.md)
+  - General
+    - [s. 62 Minor and consequential amendments, and repeals.](section/62.md)
+    - [s. 63 Financial provisions.](section/63.md)
+    - [s. 64 Interpretation.](section/64.md)
+    - [s. 65 Short title, commencement and extent.](section/65.md)
+- SCHEDULE 1 Minor and Consequential Amendments
+  - The Public Records Act 1958 (c.51)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Police (Scotland) Act 1967 (c.77)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Firearms Act 1968 (c.27)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Superannuation Act 1972 (c.11)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - The Sexual Offences (Scotland) Act 1976 (c.67)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c.55)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Criminal Justice (Scotland) Act 1980 (c.62)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - The Mental Health (Scotland) Act 1984 (c.36.)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The Repatriation of Prisoners Act 1984 (c.47)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - The Foster Children (Scotland) Act 1984 (c.56)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The Legal Aid (Scotland) Act 1986 (c.47)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - The Prisons (Scotland) Act 1989 (c.45)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - The Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Criminal Justice (Scotland) Act 1995 (c.20)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - The Children (Scotland) Act 1995 (c.36)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - The Criminal Law (Consolidation)(Scotland) Act 1995 (c.39)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - The Criminal Procedure (Consequential Provisions)(Scotland) Act 1995 (c.40)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - The Proceeds of Crime (Scotland) Act 1995 (c.43)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - The Criminal Procedure (Scotland) Act 1995 (c.46.)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2
+- SCHEDULE 3 Repeals
