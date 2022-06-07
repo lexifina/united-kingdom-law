@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-05-02, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-07, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-05-02
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
 
 ## Contents
 
@@ -1496,6 +1496,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-05-02
       - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
     - Domestic Violence, Crime and Victims Act 2004
       - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+    - Serious Crime Act 2015
+      - [Sch. 18 para. 25A](schedule/18/paragraph/25A.md)
     - Modern Slavery Act 2015
       - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
     - Inchoate offences
