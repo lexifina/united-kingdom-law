@@ -2,9 +2,9 @@
 
 2015 c. 30. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-07, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-06-07
 
 ## Contents
 
@@ -236,6 +236,8 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-04-28
     - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
   - Terrorism Act 2006 (c. 11)
     - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+  - Serious Crime Act 2015
+    - [Sch. 4 para. 35A](schedule/4/paragraph/35A.md)
   - Modern Slavery Act 2015 (c. 30)
     - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
     - [Sch. 4 para. 36A](schedule/4/paragraph/36A.md)
