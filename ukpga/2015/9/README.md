@@ -2,9 +2,9 @@
 
 2015 c. 9. Enacted 2015-03-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-07, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/9/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2015/9/2022-06-07
 
 ## Contents
 
@@ -108,6 +108,9 @@ Source: https://www.legislation.gov.uk/ukpga/2015/9/2022-04-28
     - [s. 73 Female genital mutilation protection orders](section/73.md)
     - [s. 74 Duty to notify police of female genital mutilation](section/74.md)
     - [s. 75 Guidance about female genital mutilation](section/75.md)
+  - Strangulation or suffocation
+    - [s. 75A Strangulation or suffocation](section/75A.md)
+    - [s. 75B Offences under section 75A committed outside the United Kingdom](section/75B.md)
   - Domestic abuse
     - [s. 76 Controlling or coercive behaviour in an intimate or family relationship](section/76.md)
     - [s. 76A Offences under section 76 committed outside the United Kingdom](section/76A.md)
