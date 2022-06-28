@@ -1,0 +1,211 @@
+# Food Standards Act 1999
+
+1999 c. 28. Enacted 1999-11-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1999/28/2022-06-28
+
+## Contents
+
+- The Food Standards Agency
+  - [s. 1 The Food Standards Agency.](section/1.md)
+  - [s. 2 Appointment of members etc.](section/2.md)
+  - [s. 3 Appointment of chief executive and directors.](section/3.md)
+  - [s. 4 Annual and other reports.](section/4.md)
+  - [s. 5 Advisory committees.](section/5.md)
+- General functions in relation to food
+  - [s. 6 Development of food policy and provision of advice, etc. to public authorities.](section/6.md)
+  - [s. 7 Provision of advice, information and assistance to other persons.](section/7.md)
+  - [s. 8 Acquisition and review of information.](section/8.md)
+- General functions in relation to animal feedingstuffs
+  - [s. 9 General functions in relation to animal feedingstuffs.](section/9.md)
+- Observations with a view to acquiring information
+  - [s. 10 Power to carry out observations.](section/10.md)
+  - [s. 11 Power of entry for persons carrying out observations.](section/11.md)
+- Monitoring of enforcement action
+  - [s. 12 Monitoring of enforcement action.](section/12.md)
+  - [s. 13 Power to request information relating to enforcement action.](section/13.md)
+  - [s. 14 Power of entry for persons monitoring enforcement action.](section/14.md)
+  - [s. 15 Meaning of “enforcement authority” and related expressions.](section/15.md)
+  - [s. 16 Offences relating to sections 13 and 14.](section/16.md)
+- Other functions of the Agency
+  - [s. 17 Delegation of powers to make emergency orders.](section/17.md)
+  - [s. 18 Functions under other enactments.](section/18.md)
+  - [s. 19 Publication etc. by the Agency of advice and information.](section/19.md)
+  - [s. 20 Power to issue guidance on control of food-borne diseases.](section/20.md)
+  - [s. 21 Supplementary powers.](section/21.md)
+- General provisions relating to the functions of the Agency
+  - [s. 22 Statement of general objectives and practices.](section/22.md)
+  - [s. 23 Consideration of objectives, risks, costs and benefits, etc.](section/23.md)
+  - [s. 24 Directions relating to breach of duty or to international obligations.](section/24.md)
+  - [s. 25 Power to modify enactments about disclosure of information.](section/25.md)
+  - [s. 25A Obstruction of food crime officers](section/25A.md)
+- Miscellaneous provisions
+  - [s. 26 Statutory functions ceasing to be exercisable by Minister of Agriculture, Fisheries and Food and Department of Agriculture for Northern Ireland.](section/26.md)
+  - [s. 27 Notification of tests for food-borne disease.](section/27.md)
+  - [s. 28 Arrangements for sharing information about food-borne zoonoses.](section/28.md)
+  - [s. 29 Consultation on veterinary products.](section/29.md)
+  - [s. 30 Animal feedingstuffs: Great Britain.](section/30.md)
+  - [s. 31 Animal feedingstuffs: Northern Ireland.](section/31.md)
+  - [s. 32 Modification of certain provisions of this Act.](section/32.md)
+  - [s. 33 Consequences of Agency losing certain functions.](section/33.md)
+  - [s. 34 Duty to take account of functions of the Food Safety Promotion Board.](section/34.md)
+  - [s. 35 Devolution in Scotland and Northern Ireland.](section/35.md)
+- Final provisions
+  - [s. 36 Interpretation.](section/36.md)
+  - [s. 37 Subordinate legislation.](section/37.md)
+  - [s. 38 Crown application.](section/38.md)
+  - [s. 39 Financial provisions.](section/39.md)
+  - [s. 40 Minor and consequential amendments and repeals.](section/40.md)
+  - [s. 41 Transfer of property, rights and liabilities to the Agency.](section/41.md)
+  - [s. 42 Power to make transitional provision etc.](section/42.md)
+  - [s. 43 Short title, commencement and extent.](section/43.md)
+- SCHEDULE 1 Constitution etc. of the Agency
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Tenure of office of members of the Agency
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remuneration, pensions, etc. of members of the Agency
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Disqualification
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings etc.
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Delegation of powers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Advisory committees
+  - Advisory committees for Wales, Scotland and Northern Ireland
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Advisory committee or committees for England
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Other advisory committees
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Remuneration of members of advisory committees
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Expenditure of advisory committees
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Transfer of existing non-statutory advisory committees
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Joint committees
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 The Agency’s functions under other enactments
+  - Part I Functions under the 1990 Act
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Section 6 (enforcement)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Section 13(3) (emergency control orders)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Section 40 (codes of practice)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Section 41 (information from food authorities)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Section 42 (default powers)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Section 48 (regulations and orders)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Functions under the 1991 Order
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Article 12 (emergency control orders)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Article 26 (enforcement)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Article 39 (codes of practice)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Article 40 (information from district councils)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Article 41 (default powers)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Article 47 (regulations and orders)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part III Other functions
+    - Medicines Act 1968 (c. 67)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Food and Environment Protection Act 1985 (c. 48)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Environmental Protection Act 1990 (c. 43)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Genetically Modified Organisms (Northern Ireland) Order 1991 (S.I. 1991/1714 (N.I. 19))
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Radioactive Substances Act 1993 (c. 12)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 Accounts and audit
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Resource Accounts
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Accounts of Agency relating to sums paid or appropriated under s.39(3)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Consolidated accounts
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Accounts under section 7 of the Government Resources and Accounts Act 2000
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Functions of Comptroller under s. 9 of the National Audit Act 1983
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - Agricultural Returns Act (Northern Ireland) 1939 (c. 35)(N.I.)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Agriculture Act 1947 (c. 48)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Parliamentary Commissioner Act 1967
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Trade Descriptions Act 1968 (c. 29)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Agricultural Statistics Act 1979 (c. 13)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Food and Environment Protection Act 1985 (c. 48)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Food Safety Act 1990 (c. 16)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - Food Safety (Northern Ireland) Order 1991 (S.I. 1991/762 (N.I. 7))
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+  - Radioactive Substances Act 1993 (c. 12)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+  - Government of Wales Act 1998 (c. 38)
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+- SCHEDULE 6 Repeals
