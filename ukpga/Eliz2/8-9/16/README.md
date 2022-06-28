@@ -1,0 +1,117 @@
+# Road Traffic Act 1960
+
+1960 c. 16. Enacted 1960-03-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/8-9/16/2022-06-28
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II
+  - [s. 97 ................................](section/97.md)
+- Part III
+  - [s. 117 ................................](section/117.md)
+- Part IV
+  - [s. 164 ................................](section/164.md)
+  - [s. 183 ................................](section/183.md)
+  - [s. 186 ................................](section/186.md)
+  - [s. 187 ................................](section/187.md)
+  - [s. 188 ................................](section/188.md)
+  - [s. 189 ................................](section/189.md)
+- Part V
+  - [s. 192 ................................](section/192.md)
+- Part VI
+  - [s. 201 ................................](section/201.md)
+- Part VII MISCELLANEOUS AND GENERAL
+  - [s. 217 ................................](section/217.md)
+  - [s. 222 ................................](section/222.md)
+  - [s. 223 ................................](section/223.md)
+  - Production of Documents and Furnishing of Information
+    - [s. 225 ................................](section/225.md)
+    - [s. 232 Duty to give information as to identity of driver, &c., in certain cases.](section/232.md)
+  - Forgery, false Statements, &c.
+    - [s. 233 ................................](section/233.md)
+    - [s. 234 ................................](section/234.md)
+    - [s. 235 ................................](section/235.md)
+    - [s. 236 ................................](section/236.md)
+    - [s. 239 ................................](section/239.md)
+    - [s. 240 ................................](section/240.md)
+  - Legal Proceedings and Destination of Fines
+    - [s. 241 ................................](section/241.md)
+    - [s. 242 Evidence by certificate.](section/242.md)
+    - [s. 243 Proof, in summary proceedings, of identity of driver of vehicle.](section/243.md)
+    - [s. 244 Time for commencing summary proceedings for certain offences.](section/244.md)
+    - [s. 245 ................................](section/245.md)
+    - [s. 246 ................................](section/246.md)
+    - [s. 247 Destination of fines.](section/247.md)
+  - Inquiries
+    - [s. 248 General power to hold inquiries.](section/248.md)
+    - [s. 249 General provisions as to inquiries.](section/249.md)
+    - [s. 250 ................................](section/250.md)
+    - [s. 251 ................................](section/251.md)
+  - Interpretation
+    - [s. 252 ................................](section/252.md)
+    - [s. 253 Interpretation of expressions relating to motor vehicles and classes or descriptions thereof.](section/253.md)
+    - [s. 254 ................................](section/254.md)
+    - [s. 255 Method of calculating weight of motor vehicles.](section/255.md)
+    - [s. 256 ................................](section/256.md)
+    - [s. 257 General interpretation provisions.](section/257.md)
+    - [s. 258 ................................](section/258.md)
+    - [s. 259 ................................](section/259.md)
+    - [s. 260 ................................](section/260.md)
+  - Supplementary
+    - [s. 261 ................................](section/261.md)
+    - [s. 263 ................................](section/263.md)
+    - [s. 264 ................................](section/264.md)
+    - [s. 265 ................................](section/265.md)
+    - [s. 266 Repeal of provisions as to use of bridges by locomotives.](section/266.md)
+    - [s. 267 ................................](section/267.md)
+    - [s. 268 ................................](section/268.md)
+    - [s. 269 Saving for law of nuisance.](section/269.md)
+    - [s. 270 Commencement.](section/270.md)
+    - [s. 271 Short title and extent.](section/271.md)
+- FIRST SCHEDULE
+- SECOND, THIRD SCHEDULES
+- FOURTH TO SEVENTH SCHEDULES
+- EIGHTH, NINTH SCHEDULES
+- TENTH SCHEDULE
+- ELEVENTH SCHEDULE
+- TWELFTH SCHEDULE
+- THIRTEENTH, FOURTEENTH SCHEDULES
+- FIFTEENTH, SIXTEENTH SCHEDULES
+- SEVENTEENTH SCHEDULE Amendments of other Acts
+  - ...
+  - The Road Traffic Act, 1930 (20 & 21 Geo. 5. c. 43)
+  - The London Passenger Transport Act, 1933 (23 & 24 Geo. 5.c. 14)
+  - ...
+  - ...
+  - ...
+  - ...
+  - The Post 0ffice Act, 1953 (1 & 2. Eliz. 2. c. 36)
+  - The Transport Charges &c. (Miscellaneous Provisions) Act, 1954 (2 & 3 Eliz. 2. c. 64)
+  - ...
+  - ...
+  - The Highways Act, 1959 (7 & 8 Eliz. 2. c. 25)
+- EIGHTEENTH SCHEDULE................................
+- NINETEENTH SCHEDULE SAVINGS AND TRANSITIONAL PROVISIONS
+  - [Sch. NINETEENTH para. 1](schedule/NINETEENTH/paragraph/1.md)
+  - [Sch. NINETEENTH para. 2](schedule/NINETEENTH/paragraph/2.md)
+  - [Sch. NINETEENTH para. 3](schedule/NINETEENTH/paragraph/3.md)
+  - [Sch. NINETEENTH para. 4](schedule/NINETEENTH/paragraph/4.md)
+  - [Sch. NINETEENTH para. 5 ................................](schedule/NINETEENTH/paragraph/5.md)
+  - [Sch. NINETEENTH para. 6](schedule/NINETEENTH/paragraph/6.md)
+  - [Sch. NINETEENTH para. 7 ................................](schedule/NINETEENTH/paragraph/7.md)
+  - [Sch. NINETEENTH para. 9](schedule/NINETEENTH/paragraph/9.md)
+  - [Sch. NINETEENTH para. 10](schedule/NINETEENTH/paragraph/10.md)
+  - [Sch. NINETEENTH para. 11](schedule/NINETEENTH/paragraph/11.md)
+  - [Sch. NINETEENTH para. 12 ................................](schedule/NINETEENTH/paragraph/12.md)
+  - [Sch. NINETEENTH para. 15 ................................](schedule/NINETEENTH/paragraph/15.md)
+  - [Sch. NINETEENTH para. 16 ................................](schedule/NINETEENTH/paragraph/16.md)
+  - [Sch. NINETEENTH para. 17](schedule/NINETEENTH/paragraph/17.md)
+  - [Sch. NINETEENTH para. 18](schedule/NINETEENTH/paragraph/18.md)
+  - [Sch. NINETEENTH para. 19](schedule/NINETEENTH/paragraph/19.md)
+- TWENTIETH SCHEDULE SPECIAL PROVISIONS AS TO COMING INTO OPERATION OF CERTAIN PROVISIONS OF THIS ACT
+  - [Sch. TWENTIETH para. 1](schedule/TWENTIETH/paragraph/1.md)
