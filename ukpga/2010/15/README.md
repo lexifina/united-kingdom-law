@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-15, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2022-06-15
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2022-06-28
 
 ## Contents
 
@@ -238,9 +238,12 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2022-06-15
     - [s. 162 Designated transport facilities](section/162.md)
     - [s. 163 Taxi licence conditional on compliance with taxi accessibility regulations](section/163.md)
     - [s. 164 Exemption from taxi accessibility regulations](section/164.md)
-    - [s. 165 Passengers in wheelchairs](section/165.md)
-    - [s. 166 Passengers in wheelchairs: exemption certificates](section/166.md)
+    - [s. 164A Disabled passengers: duties of drivers](section/164A.md)
+    - [s. 165 Disabled passengers in wheelchairs: duties of drivers of designated vehicles](section/165.md)
+    - [s. 165A Disabled passengers: assistance to identify and find vehicle](section/165A.md)
+    - [s. 166 Disabled passengers: exemption certificates](section/166.md)
     - [s. 167 Lists of wheelchair-accessible vehicles](section/167.md)
+    - [s. 167A Disabled passengers: duties of operators of private hire vehicles](section/167A.md)
     - [s. 168 Assistance dogs in taxis](section/168.md)
     - [s. 169 Assistance dogs in taxis: exemption certificates](section/169.md)
     - [s. 170 Assistance dogs in private hire vehicles](section/170.md)
