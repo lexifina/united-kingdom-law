@@ -1,0 +1,164 @@
+# Salmon and Freshwater Fisheries Act 1975
+
+1975 c. 51. Enacted 1975-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1975/51/2022-06-28
+
+## Contents
+
+- Part I Prohibition of Certain Modes of Taking or Destroying Fish, etc.
+  - [s. 1 Prohibited implements.](section/1.md)
+  - [s. 2 Roe, spawning and unclean fish, etc.](section/2.md)
+  - [s. 3 Nets.](section/3.md)
+  - [s. 4 Poisonous matter and polluting effluent.](section/4.md)
+  - [s. 5 Prohibition of use of explosives, poisons or electrical devices and of destruction of dams etc.](section/5.md)
+- Part II Obstructions to Passage of Fish
+  - [s. 6 Fixed engines.](section/6.md)
+  - [s. 7 Fishing weirs.](section/7.md)
+  - [s. 8 Fishing mill dams.](section/8.md)
+  - [s. 9 Duty to make and maintain fish passes.](section/9.md)
+  - [s. 10 Power of appropriate agency to construct and alter fish passes.](section/10.md)
+  - [s. 11 Minister’s consents and approvals for fish passes.](section/11.md)
+  - [s. 12 Penalty for injuring or obstructing fish pass or free gap.](section/12.md)
+  - [s. 13 Sluices.](section/13.md)
+  - [s. 14 Screens.](section/14.md)
+  - [s. 15 Power of appropriate agency to use screens etc. to limit movements of salmon and trout.](section/15.md)
+  - [s. 16 Boxes and cribs in weirs and dams.](section/16.md)
+  - [s. 17 Restrictions on taking salmon or trout above or below an obstruction or in mill races.](section/17.md)
+  - [s. 18 Provisons supplementary to Part II.](section/18.md)
+- Part III Times of Fishing and Selling and Exporting Fish
+  - [s. 19 Close seasons and close times.](section/19.md)
+  - [s. 20 Close seasons and close times—fixed engines and obstructions.](section/20.md)
+  - [s. 21 Eel baskets etc.](section/21.md)
+  - [s. 22 Sale of salmon and trout.](section/22.md)
+  - [s. 23 Export of salmon and trout.](section/23.md)
+  - [s. 24 Consignment of salmon and trout.](section/24.md)
+- Part IV Fishing Licences and authorisations
+  - [s. 25 Licences to fish.](section/25.md)
+  - [s. 26 Limitation of fishing licences.](section/26.md)
+  - [s. 27 Unlicensed fishing.](section/27.md)
+  - [s. 27A Authorisation of fishing otherwise than by licensable means](section/27A.md)
+  - [s. 27B Unauthorised fishing etc](section/27B.md)
+- Part V Administration and Enforcement
+  - Regulation of fisheries etc.
+    - [s. 28 General powers and duties of water authorities and Minister.](section/28.md)
+    - [s. 29 Fish rearing licences.](section/29.md)
+    - [s. 30 Introduction of fish into inland waters.](section/30.md)
+  - Powers of water bailiffs etc.
+    - [s. 31 Powers of search etc.](section/31.md)
+    - [s. 32 Power to enter lands.](section/32.md)
+    - [s. 33 Orders and warrants to enter suspected premises.](section/33.md)
+    - [s. 34 Power to apprehend persons fishing illegally ....](section/34.md)
+    - [s. 35 Power to require production of fishing licences.](section/35.md)
+    - [s. 36 Provisions supplementary to sections 31 to 35.](section/36.md)
+  - Offences
+    - [s. 37 Prosecution etc. of offences.](section/37.md)
+    - [s. 37A Fixed penalty notices for certain offences.](section/37A.md)
+- Part VI Miscellaneous and Supplementary
+  - [s. 38 Works below high water mark.](section/38.md)
+  - [s. 39 Border rivers and Solway Firth.](section/39.md)
+  - [s. 40 River Severn.](section/40.md)
+  - [s. 40A Power to specify fish](section/40A.md)
+  - [s. 40B Orders: supplementary](section/40B.md)
+  - [s. 41 Interpretation.](section/41.md)
+  - [s. 42 Repeals etc.](section/42.md)
+  - [s. 43 Citation etc.](section/43.md)
+- SCHEDULE 1 Close Seasons and Close Times
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Licences
+  - Duty on licences
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 heading duty-on-licences para. 6n1](schedule/2/crossheading/duty-on-licences/paragraph/6n1.md)
+    - [Sch. 2 heading duty-on-licences para. 6n2](schedule/2/crossheading/duty-on-licences/paragraph/6n2.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Net etc. licences for salmon and trout fishing
+    - [Sch. 2 heading net-etc-licences-for-salmon-and-trout-fishing para. 9n1](schedule/2/crossheading/net-etc-licences-for-salmon-and-trout-fishing/paragraph/9n1.md)
+    - [Sch. 2 heading net-etc-licences-for-salmon-and-trout-fishing para. 9n2](schedule/2/crossheading/net-etc-licences-for-salmon-and-trout-fishing/paragraph/9n2.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Historic installations
+    - [Sch. 2 para. 14A](schedule/2/paragraph/14A.md)
+  - Miscellaneous
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Administration
+  - Part I Orders
+    - Scope
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Procedure
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part II Byelaws
+    - ...
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Purposes for which Byelaws may be made
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 21A](schedule/3/paragraph/21A.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - Part III Miscellaneous
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+- SCHEDULE 4 Offences
+  - Part I Prosecution and Punishment
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II Procedure
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 REPEALS
