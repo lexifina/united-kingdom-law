@@ -2,9 +2,9 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-03-30, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2020-03-30
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2022-06-28
 
 ## Contents
 
@@ -92,6 +92,11 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2020-03-30
     - [s. 65 Duty to publish higher education information](section/65.md)
     - [s. 66 Designated body](section/66.md)
     - [s. 67 Power of designated body to charge fees](section/67.md)
+  - Publication
+    - [s. 67A Power for the OfS to publish notices, decisions and reports](section/67A.md)
+    - [s. 67B Publication of decision to conduct or terminate investigation](section/67B.md)
+  - Defamation
+    - [s. 67C Protection from defamation claims](section/67C.md)
   - Financial sustainability
     - [s. 68 Duty to monitor and report on financial sustainability](section/68.md)
   - Efficiency studies etc
