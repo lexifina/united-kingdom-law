@@ -2,9 +2,9 @@
 
 2010 c. 32. Enacted 2010-07-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2010-07-27, are in the history before it: `git log -- ukpga/2010/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/32/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2010/32/2022-06-28
 
 ## Contents
 
@@ -33,6 +33,9 @@ Source: https://www.legislation.gov.uk/ukpga/2010/32/2022-04-28
   - [s. 6 Effect of Academy order](section/6.md)
   - [s. 7 Transfer of school surpluses](section/7.md)
   - [s. 8 Transfer schemes: other property, rights and liabilities](section/8.md)
+- 16 to 19 Academies designated as having a religious character
+  - [s. 8A Designation of 16 to 19 Academy as having a religious character](section/8A.md)
+  - [s. 8B Constitution of Academy proprietor, collective worship and religious education](section/8B.md)
 - Academies: other provisions
   - [s. 9 Impact: new and expanded educational institutions](section/9.md)
   - [s. 10 Consultation: new and expanded educational institutions](section/10.md)
