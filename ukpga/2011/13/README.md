@@ -2,9 +2,9 @@
 
 2011 c. 13. Enacted 2011-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-05-05, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2011-09-15, are in the history before it: `git log -- ukpga/2011/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/13/2022-05-05
+Source: https://www.legislation.gov.uk/ukpga/2011/13/2022-06-28
 
 ## Contents
 
@@ -211,6 +211,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/13/2022-05-05
     - [s. 147 Authorisation for operation of amplified noise equipment](section/147.md)
     - [s. 148 Meaning of “authorised officer” and “responsible authority”](section/148.md)
     - [s. 149 Effect of Part on byelaws](section/149.md)
+    - [s. 149A Power to specify other areas as controlled areas](section/149A.md)
 - Part 4 Miscellaneous
   - Seizure powers
     - [s. 150 Powers of seizure etc under certain regulations and byelaws](section/150.md)
