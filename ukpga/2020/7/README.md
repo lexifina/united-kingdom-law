@@ -2,9 +2,9 @@
 
 2020 c. 7. Enacted 2020-03-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-03-25, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2020-03-25, are in the history before it: `git log -- ukpga/2020/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-25
+Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-06-28
 
 ## Contents
 
@@ -919,9 +919,10 @@ Source: https://www.legislation.gov.uk/ukpga/2020/7/2022-03-25
       - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
     - Prohibitions and limitations on use of live links
       - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
-      - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
-      - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
-      - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
+  - PART 2 Expansion of powers under the Extradition Act 2003
+    - [Sch. 24 para. 8](schedule/24/paragraph/8.md)
+    - [Sch. 24 para. 9](schedule/24/paragraph/9.md)
+    - [Sch. 24 para. 10](schedule/24/paragraph/10.md)
   - PART 3 Other modifications
     - Police and Criminal Evidence Act 1984
       - [Sch. 24 para. 11](schedule/24/paragraph/11.md)
