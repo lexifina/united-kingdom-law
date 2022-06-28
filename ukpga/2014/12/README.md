@@ -2,9 +2,9 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-05-05, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2022-05-05
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2022-06-28
 
 ## Contents
 
@@ -89,11 +89,11 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2022-05-05
       - [s. 56 Guidance](section/56.md)
       - [s. 57 Interpretation of Chapter 1](section/57.md)
       - [s. 58 Saving and transitional provision](section/58.md)
-  - CHAPTER 2 Public spaces protection orders
-    - Public spaces protection orders
-      - [s. 59 Power to make orders](section/59.md)
+  - CHAPTER 2 Public spaces protection orders and expedited orders
+    - Public spaces protection orders and expedited orders
+      - [s. 59 Power to make public spaces protection orders](section/59.md)
       - [s. 59A Power to make expedited public spaces protection orders](section/59A.md)
-      - [s. 60 Duration of orders](section/60.md)
+      - [s. 60 Duration of public spaces protection orders](section/60.md)
       - [s. 60A Duration of expedited orders](section/60A.md)
       - [s. 61 Variation and discharge of orders](section/61.md)
     - Prohibition on consuming alcohol
@@ -111,7 +111,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2022-05-05
       - [s. 69 Powers of community support officers](section/69.md)
       - [s. 70 Byelaws](section/70.md)
       - [s. 71 Bodies other than local authorities with statutory functions in relation to land](section/71.md)
-      - [s. 72 Convention rights, consultation, publicity and notification](section/72.md)
+      - [s. 72 Public spaces protection orders: Convention rights, consultation, publicity and notification](section/72.md)
       - [s. 72A Expedited orders: Convention rights and consents](section/72A.md)
       - [s. 72B Consultation and notifications after making expedited order](section/72B.md)
       - [s. 73 Guidance](section/73.md)
