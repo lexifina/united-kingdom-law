@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-07, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-28
 
 ## Contents
 
@@ -107,6 +107,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
         - [s. 66 Hostility](section/66.md)
         - [s. 67 Assaults on emergency workers](section/67.md)
         - [s. 68 Emergency workers for the purposes of section 67](section/68.md)
+        - [s. 68A Assaults on those providing a public service etc](section/68A.md)
         - [s. 69 Terrorist connection](section/69.md)
         - [s. 70 Using minor to mind weapon](section/70.md)
         - [s. 71 Supply of controlled drug near school premises or involving child](section/71.md)
@@ -311,6 +312,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
         - [s. 216 Duty of offender to obtain permission before changing residence](section/216.md)
       - Review
         - [s. 217 Power to provide for court review of community orders](section/217.md)
+        - [s. 217A Review of community order qualifying for special procedures](section/217A.md)
+        - [s. 217B Powers on review](section/217B.md)
+        - [s. 217C Alteration of review arrangements](section/217C.md)
       - Breach, revocation or amendment of community order
         - [s. 218 Breach, revocation or amendment of community order](section/218.md)
       - Transferring order to Scotland or Northern Ireland
@@ -369,6 +373,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
         - [s. 257 Extended sentence under section 254 where offender subject to detention and training order](section/257.md)
       - Detention for life etc
         - [s. 258 Required sentence of detention for life for offence carrying life sentence](section/258.md)
+        - [s. 258A Required sentence of detention for life for manslaughter of emergency worker](section/258A.md)
         - [s. 259 Offenders who commit murder etc when under 18: duty to detain at Her Majesty’s pleasure](section/259.md)
       - Detention under this Chapter
         - [s. 260 Detention under section 250, 252A or 259](section/260.md)
@@ -398,6 +403,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
         - [s. 272 Offences other than murder](section/272.md)
         - [s. 273 Custody for life for second listed offence](section/273.md)
         - [s. 274 Required sentence of custody for life for offence carrying life sentence](section/274.md)
+        - [s. 274A Required sentence of custody for life for manslaughter of emergency worker](section/274A.md)
         - [s. 275 Duty to impose custody for life for offence of murder](section/275.md)
         - [s. 276 Custody for life: place of detention](section/276.md)
     - CHAPTER 4 Adults aged 21 and over
@@ -418,6 +424,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
         - [s. 283 Life sentence for second listed offence](section/283.md)
         - [s. 284 Required life sentence where second offence committed before 4 April 2005](section/284.md)
         - [s. 285 Required life sentence for offence carrying life sentence](section/285.md)
+        - [s. 285A Required life sentence for manslaughter of emergency worker](section/285A.md)
     - CHAPTER 5 Suspended sentences
       - What a suspended sentence order is
         - [s. 286 Suspended sentence order](section/286.md)
@@ -431,6 +438,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
         - [s. 292 Suspended sentence order: exercise of power to impose requirements](section/292.md)
       - Provision for review of suspended sentence order with community requirements
         - [s. 293 Power to provide for review of suspended sentence order](section/293.md)
+        - [s. 293A Review of suspended sentence order qualifying for special procedures](section/293A.md)
         - [s. 294 Review hearings: power to amend community requirements etc](section/294.md)
         - [s. 295 Suspended sentence order: alteration of periodic review arrangements](section/295.md)
       - Making a suspended sentence order with community requirements
@@ -588,6 +596,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
     - CHAPTER 6 Orders imposing community requirements
       - [s. 394 Rules relating to community orders and suspended sentence orders etc](section/394.md)
       - [s. 395 Data from electronic monitoring: code of practice](section/395.md)
+      - [s. 395A Community and suspended sentence orders qualifying for special procedures](section/395A.md)
     - CHAPTER 7 Warrants
       - [s. 396 Execution of process between England and Wales and Scotland](section/396.md)
   - PART 13 Interpretation
@@ -833,7 +842,9 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
     - Person responsible for electronic monitoring: electronic compliance monitoring requirement
       - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
-    - Electronic monitoring: general
+    - Monitoring period: electronic compliance monitoring requirement
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - Electronic monitoring Electronic compliance monitoring requirement: general
       - [Sch. 6 para. 43A](schedule/6/paragraph/43A.md)
     - Restrictions on imposing electronic compliance monitoring requirement
       - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
@@ -970,6 +981,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
     - Requirements where court imposes curfew requirement
       - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Power of responsible officer to vary curfew requirement
+      - [Sch. 9 para. 10A](schedule/9/paragraph/10A.md)
   - PART 6 Exclusion requirement
     - Requirement
       - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
@@ -998,6 +1011,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
     - Periodic review of drug rehabilitation requirement
       - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - PART 10A Drug testing requirement
+    - Requirement
+      - [Sch. 9 para. 22A](schedule/9/paragraph/22A.md)
+    - Restrictions on imposing drug testing requirement
+      - [Sch. 9 para. 22B](schedule/9/paragraph/22B.md)
   - PART 11 Alcohol treatment requirement
     - Requirement
       - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
@@ -1008,7 +1026,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
     - Restriction on imposing alcohol abstinence and monitoring requirement
       - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
-  - PART 13 Attendance centre requirement
+  - PART 13 Attendance centre requirement: offenders convicted before the day on which section 152 of the Police, Crime, Sentencing and Courts Act 2022 came into force
     - Requirement
       - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
     - Restriction on imposing attendance centre requirement
@@ -1049,6 +1067,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
     - Issue of summons or warrant by Crown Court
       - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Issue of summons or warrant after review hearing
+      - [Sch. 10 para. 9A](schedule/10/paragraph/9A.md)
     - Powers of magistrates’ court
       - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
     - Powers of Crown Court
@@ -1057,6 +1077,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
     - Powers in paragraphs 10 and 11 to impose more onerous requirements: further provision
       - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Power under paragraphs 10 and 11 to commit to prison: further provision
+      - [Sch. 10 para. 13A](schedule/10/paragraph/13A.md)
   - PART 3 Revocation of order with or without re-sentencing
     - Community order subject to magistrates’ court supervision
       - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
@@ -1066,6 +1088,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
     - Amendment because of change of residence
       - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
       - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Amendment because of variation of curfew requirement by responsible officer
+      - [Sch. 10 para. 17A](schedule/10/paragraph/17A.md)
     - Amendment of requirements of community order
       - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
     - Amendment of treatment requirement on report of practitioner
@@ -1264,6 +1288,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
     - Crown Court order: issue of summons or warrant by Crown Court
       - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - Issue of summons or warrant after review hearing in special procedure cases
+      - [Sch. 16 para. 9A](schedule/16/paragraph/9A.md)
     - Offender before magistrates’ court: breach of community requirement
       - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
     - Offender before magistrates’ court: further conviction
@@ -1278,6 +1304,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
     - Power under paragraph 13 to fine or amend community requirements: further provision
       - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - Power under paragraph 13(1)(da) to commit to prison: further provision
+      - [Sch. 16 para. 16A](schedule/16/paragraph/16A.md)
     - Treatment requirement: reasonable refusal to undergo certain treatment
       - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
     - Duty of court in Scotland or Northern Ireland when informed of suspended sentence
@@ -1293,6 +1321,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
     - Amendment because of change of residence
       - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
       - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - Amendment because of variation of curfew requirement by responsible officer
+      - [Sch. 16 para. 24A](schedule/16/paragraph/24A.md)
     - Amendment of community requirements of suspended sentence order
       - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
     - Amendment of treatment requirement on report of practitioner
@@ -1492,6 +1522,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
     - International Criminal Court Act 2001
       - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+    - Anti-Terrorism, Crime and Security Act 2001
+      - [Sch. 18 para. 23A](schedule/18/paragraph/23A.md)
     - Female Genital Mutilation Act 2003
       - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
     - Domestic Violence, Crime and Victims Act 2004
@@ -1574,6 +1606,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
     - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
   - Sexual Offences Act 2003
     - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+  - Domestic Violence, Crime and Victims Act 2004
+    - [Sch. 19 para. 20A](schedule/19/paragraph/20A.md)
   - Terrorism Act 2006
     - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
   - Modern Slavery Act 2015
@@ -1600,6 +1634,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
     - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
     - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
     - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 6n1](schedule/21/paragraph/6n1.md)
   - Aggravating and mitigating factors
     - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
     - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
@@ -1697,6 +1732,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 22 para. 57B](schedule/22/paragraph/57B.md)
       - [Sch. 22 para. 58](schedule/22/paragraph/58.md)
       - [Sch. 22 para. 59](schedule/22/paragraph/59.md)
+      - [Sch. 22 para. 59A](schedule/22/paragraph/59A.md)
       - [Sch. 22 para. 60](schedule/22/paragraph/60.md)
       - [Sch. 22 para. 61](schedule/22/paragraph/61.md)
       - [Sch. 22 para. 62](schedule/22/paragraph/62.md)
@@ -1714,9 +1750,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 22 para. 73](schedule/22/paragraph/73.md)
       - [Sch. 22 para. 74](schedule/22/paragraph/74.md)
       - [Sch. 22 para. 75](schedule/22/paragraph/75.md)
+      - [Sch. 22 para. 75A](schedule/22/paragraph/75A.md)
       - [Sch. 22 para. 76](schedule/22/paragraph/76.md)
       - [Sch. 22 para. 77](schedule/22/paragraph/77.md)
       - [Sch. 22 para. 78](schedule/22/paragraph/78.md)
+      - [Sch. 22 para. 78A](schedule/22/paragraph/78A.md)
     - Change of residence: duty of responsible officer to apply for amendment of suspended sentence order
       - [Sch. 22 para. 79](schedule/22/paragraph/79.md)
     - Dangerous offenders
@@ -2595,7 +2633,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-07
       - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
     - Making detention and training order where offender subject to other order
       - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
-    - Period on remand etc: effect on term of detention and training order
+    - ...
       - [Sch. 27 para. 14](schedule/27/paragraph/14.md)
     - Special custodial sentences for offenders of particular concern
       - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
