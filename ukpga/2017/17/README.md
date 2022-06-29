@@ -2,9 +2,9 @@
 
 2017 c. 17. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-02-11, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-06-29, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/17/2021-02-11
+Source: https://www.legislation.gov.uk/ukpga/2017/17/2022-06-29
 
 ## Contents
 
@@ -29,8 +29,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/17/2021-02-11
     - [s. 14 Requirement to submit annual accounts](section/14.md)
     - [s. 15 Requirement to submit supervisory return](section/15.md)
     - [s. 16 Duty to notify Regulator of significant events](section/16.md)
-    - [s. 17 Fixed penalty notice for failure to comply with request for information](section/17.md)
-    - [s. 18 Escalating penalty notice for failure to comply with request for information](section/18.md)
+    - [s. 17 Fixed penalty notice for failure to comply with request for information etc](section/17.md)
+    - [s. 18 Escalating penalty notice for failure to comply with request for information etc](section/18.md)
     - [s. 19 Withdrawal of authorisation](section/19.md)
   - Triggering events: continuity
     - [s. 20 Triggering event: duties of trustees](section/20.md)
