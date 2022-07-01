@@ -1,0 +1,155 @@
+# Goods Vehicles (Licensing of Operators) Act (Northern Ireland) 2010
+
+nia/2010/2. Enacted 2010-01-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2010/2/2022-07-01
+
+## Contents
+
+- Operators’ licences
+  - [s. 1 Operators’ licences](section/1.md)
+  - [s. 2 “Standard” and “restricted” licences](section/2.md)
+  - [s. 2A Temporary exemptions for international operators](section/2A.md)
+  - [s. 3 Other temporary exemptions](section/3.md)
+- Vehicles authorised to be used under a licence
+  - [s. 4 Vehicles authorised to be used under operator’s licence](section/4.md)
+  - [s. 5 Maximum numbers of vehicles](section/5.md)
+- Operating centres
+  - [s. 6 Operating centres to be specified in heavy goods vehicle licences](section/6.md)
+- Applications for licences
+  - [s. 7 Application for operators’ licences](section/7.md)
+  - [s. 8 Notification of events subsequent to the making of an application](section/8.md)
+  - [s. 9 Publication by Department of notice of application for licence](section/9.md)
+  - [s. 10 Publication in locality affected of notice of application for heavy goods vehicle licence](section/10.md)
+  - [s. 11 Objections to, and representations against, issue of operators’ licences](section/11.md)
+- Determination of applications
+  - [s. 12 Determination of applications for operators’ licences](section/12.md)
+  - [s. 12A Requirements for standard licences](section/12A.md)
+  - [s. 12B Requirements for restricted licences](section/12B.md)
+  - [s. 12C Requirements for standard and restricted licences](section/12C.md)
+  - [s. 12D Further requirement for standard and restricted licences](section/12D.md)
+  - [s. 12E Professional competence for restricted licence holders](section/12E.md)
+  - [s. 13 Determination where objections etc are made on environmental grounds](section/13.md)
+  - [s. 14 Issue of operators’ licences](section/14.md)
+  - [s. 15 Duration of operators’ licences](section/15.md)
+- Variation of licences
+  - [s. 16 Variation of operators’ licences](section/16.md)
+  - [s. 17 Publication of notice of applications for variation of heavy goods vehicle licences in any locality affected](section/17.md)
+  - [s. 18 Objection to, and refusal of, applications to vary heavy goods vehicle licences on environmental grounds](section/18.md)
+  - [s. 19 Variation of licences: further provisions](section/19.md)
+- Conditions of licences
+  - [s. 20 Conditions of licences](section/20.md)
+- Interim licences and interim variations
+  - [s. 21 Interim operators’ licences](section/21.md)
+  - [s. 22 Interim variations](section/22.md)
+- Revocation etc of operators’ licences
+  - [s. 23 Revocation, suspension and curtailment of operators’ licences](section/23.md)
+  - [s. 24 Revocation of standard licences](section/24.md)
+  - [s. 25 Disqualification](section/25.md)
+  - [s. 26 Revocation, disqualification, etc: supplementary provisions](section/26.md)
+- Review of operating centres
+  - [s. 27 Periods of review for operating centres](section/27.md)
+  - [s. 28 Power to remove operating centres on review](section/28.md)
+  - [s. 29 Power to attach conditions on review](section/29.md)
+- Transfer of operating centres
+  - [s. 30 Transfer of operating centres](section/30.md)
+- Environmental matters
+  - [s. 31 Determinations as to environmental matters](section/31.md)
+- Inquiries and assessors
+  - [s. 32 Power of Department to hold inquiries](section/32.md)
+  - [s. 33 Power of Department to appoint assessors](section/33.md)
+- Review of decisions and appeals
+  - [s. 34 Review of decisions](section/34.md)
+  - [s. 35 Rights of appeal in connection with operators’ licences](section/35.md)
+- Forgery, false statements, etc
+  - [s. 36 Forgery of documents etc](section/36.md)
+  - [s. 37 False statements](section/37.md)
+- Enforcement
+  - [s. 38 Powers of entry](section/38.md)
+  - [s. 39 Power to seize documents etc](section/39.md)
+  - [s. 40 Obtaining of information etc by authorised persons](section/40.md)
+  - [s. 41 Obstruction of authorised persons](section/41.md)
+  - [s. 42 Exercise of enforcement powers: authorised persons and constables](section/42.md)
+  - [s. 43 Evidence by certificate](section/43.md)
+  - [s. 44 Detention of vehicle used without operator’s licence](section/44.md)
+  - [s. 45 Prosecutions](section/45.md)
+- Miscellaneous
+  - [s. 46 Disclosure of information](section/46.md)
+  - [s. 47 Fees](section/47.md)
+  - [s. 48 Operators’ licences not to be transferable](section/48.md)
+  - [s. 49 Certificates of qualification](section/49.md)
+  - [s. 50 Method of calculating weight of vehicles](section/50.md)
+  - [s. 51 Payment of grants](section/51.md)
+- Application of this Act: special cases
+  - [s. 52 Application of Act to holding companies and subsidiaries](section/52.md)
+  - [s. 53 Application of Act to partnerships](section/53.md)
+  - [s. 54 Application of Act to the Crown](section/54.md)
+  - [s. 55 Application of Act to harbours](section/55.md)
+- Supplementary
+  - [s. 56 Supplementary provision](section/56.md)
+  - [s. 57 Regulations](section/57.md)
+  - [s. 58 General interpretation](section/58.md)
+  - [s. 59 Amendments and repeals](section/59.md)
+  - [s. 59A Transitional provisions](section/59A.md)
+  - [s. 60 Commencement](section/60.md)
+  - [s. 61 Short title](section/61.md)
+- SCHEDULE 1 TRANSFER OF OPERATING CENTRES
+  - Transfers in connection with new licences
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Transfers in connection with the variation of licences
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 DETENTION OF VEHICLES USED WITHOUT OPERATOR’S LICENCE
+  - Detention of property
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Immobilisation and removal
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Return or disposal of vehicle
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Return or disposal of contents of vehicle
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Custody of property
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Proceeds of sale
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Disputes
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Offences as to securing possession of property
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Interpretation
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 AMENDMENTS
+  - The Transport Act (Northern Ireland) 1967 (c. 37)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The International Road Haulage Permits Act 1975 (c. 46)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Road Traffic (Northern Ireland) Order 1981 (NI 1)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Road Traffic (Northern Ireland) Order 1995 (NI 18)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 REPEALS
+- SCHEDULE5 TRANSITIONAL PROVISIONS
+  - Provisions relating to the Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022
+    - [Sch. 5 para. 1 Interpretation for paragraphs 2 and 3](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Existing operator’s licence to be treated as heavy goods vehicle licence](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Transport manager to continue under Act ... as amended](schedule/5/paragraph/3.md)
