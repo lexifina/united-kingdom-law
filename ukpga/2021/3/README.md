@@ -2,22 +2,25 @@
 
 2021 c. 3. Enacted 2021-02-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-07-27, one file per provision. Earlier versions, from 2021-02-11, are in the history before it: `git log -- ukpga/2021/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2021-02-11, are in the history before it: `git log -- ukpga/2021/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/3/2021-07-27
+Source: https://www.legislation.gov.uk/ukpga/2021/3/2022-07-01
 
 ## Contents
 
 - PART 1 The Commissioner for Patient Safety
   - [s. 1 Establishment and core duties etc](section/1.md)
 - PART 2 Human medicines
-  - CHAPTER 1 Regulations
+  - CHAPTER 1 Regulations: general
     - [s. 2 Power to make regulations about human medicines](section/2.md)
     - [s. 3 Manufacture, marketing and supply](section/3.md)
     - [s. 4 Falsified medicines](section/4.md)
     - [s. 5 Clinical trials](section/5.md)
     - [s. 6 Fees, offences, powers of inspectors](section/6.md)
     - [s. 7 Emergencies](section/7.md)
+  - CHAPTER 1A Regulations: information systems
+    - [s. 7A Information systems](section/7A.md)
+    - [s. 7B Offence of disclosing information](section/7B.md)
   - CHAPTER 2 International agreements: disclosure of information
     - [s. 8 Disclosure of information in accordance with international agreements](section/8.md)
   - CHAPTER 3 Interpretation
