@@ -1,0 +1,366 @@
+# National Health Service and Community Care Act 1990
+
+1990 c. 19. Enacted 1990-06-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/19
+
+Source: https://www.legislation.gov.uk/ukpga/1990/19/2022-07-01
+
+## Contents
+
+- Part I The National Health Service: England and Wales
+  - Local management
+    - [s. 1 Regional and District Health Authorities.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 Primary and other functions of health authorities etc. and exercise of functions.](section/3.md)
+    - [s. 4 NHS contracts.](section/4.md)
+    - [s. 4A Provision of certain services under NHS contracts.](section/4A.md)
+  - National Health Service trusts
+    - [s. 5 NHS trusts.](section/5.md)
+    - [s. 6 Transfer of staff to NHS trusts.](section/6.md)
+    - [s. 7 Supplementary provisions as to transfer of staff.](section/7.md)
+    - [s. 8 Transfer of property, rights and liabilities to NHS trust.](section/8.md)
+    - [s. 9 Originating capital debt of, and other financial provisions relating to NHS trusts.](section/9.md)
+    - [s. 10 Financial obligations of NHS trusts.](section/10.md)
+    - [s. 11 Trust funds and trustees for NHS trusts.](section/11.md)
+  - Family Health Services Authorities
+    - [s. 12 Functions of Family Health Services Authorities.](section/12.md)
+    - [s. 13 ................................](section/13.md)
+  - Fund-holding practices
+    - [s. 14](section/14.md)
+    - [s. 15 Payments to recognised fund-holding practices.](section/15.md)
+    - [s. 16](section/16.md)
+    - [s. 17](section/17.md)
+  - Indicative amounts
+    - [s. 18 Indicative amounts for doctors’ practices.](section/18.md)
+  - Funding, audit and liabilities
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 Extension of functions etc. of Audit Commission to cover the health service.](section/20.md)
+    - [s. 21 Schemes for meeting losses and liabilities etc. of certain health service bodies.](section/21.md)
+  - Further amendments of the principal Act
+    - [s. 22 The Medical Practices Committee.](section/22.md)
+    - [s. 23 Distribution of general medical services.](section/23.md)
+    - [s. 24 Limitations on right to be included on list of dental practitioners.](section/24.md)
+    - [s. 25 Transfer to DHA of certain functions relating to private patients.](section/25.md)
+  - Interpretation
+    - [s. 26 Interpretation of Part I.](section/26.md)
+- Part II The National Health Service: Scotland
+  - Health Boards and other bodies
+    - [s. 27 Health Boards, the Common Services Agency and state hospitals.](section/27.md)
+    - [s. 28 Special Health Boards.](section/28.md)
+    - [s. 29 Scottish advisory bodies.](section/29.md)
+    - [s. 30 NHS contracts.](section/30.md)
+  - National Health Service trusts
+    - [s. 31 National Health Service trusts.](section/31.md)
+    - [s. 32 Further provision relating to NHS trusts.](section/32.md)
+    - [s. 33 Trust property of NHS trusts.](section/33.md)
+  - Fund-holding practices
+    - [s. 34 Fund-holding practices.](section/34.md)
+  - Indicative amounts
+    - [s. 35 Indicative amounts for doctors’ practices.](section/35.md)
+  - Audit
+    - [s. 36 Accounts and audit of NHS trusts and fund-holding practices.](section/36.md)
+  - Miscellaneous
+    - [s. 37 Relationship of Health Boards and medical practitioners.](section/37.md)
+    - [s. 38 Scottish Medical Practices Committee.](section/38.md)
+    - [s. 39 Distribution of general medical services.](section/39.md)
+    - [s. 40 Limitations on right to be included on list of dental practitioners.](section/40.md)
+    - [s. 41 Schemes for meeting losses and liabilities etc. of certain health service bodies.](section/41.md)
+- Part III Community Care: England and Wales
+  - Provision of accommodation and welfare services
+    - [s. 42 Provision of accommodation and welfare services: agency arrangements.](section/42.md)
+    - [s. 43 Exclusion of powers to provide accommodation in certain cases.](section/43.md)
+    - [s. 44 Charges for accommodation provided by local authorities.](section/44.md)
+    - [s. 45 Recovery of charges due to local authorities for accommodation.](section/45.md)
+  - General provisions concerning community care services
+    - [s. 46 Local authority plans for community care services.](section/46.md)
+    - [s. 47 Assessment of needs for community care services.](section/47.md)
+    - [s. 48 Inspection of premises used for provision of community care services.](section/48.md)
+    - [s. 49 Transfer of staff from health service to local authorities.](section/49.md)
+    - [s. 50 Powers of the Secretary of State as respects social services functions of local authorities.](section/50.md)
+- Part IV Community Care: Scotland
+  - [s. 51 Power of Secretary of State to give directions.](section/51.md)
+  - [s. 52 Local authority plans for, and complaints in relation to, community care services in Scotland.](section/52.md)
+  - [s. 53 Inspection of premises providing accommodation.](section/53.md)
+  - [s. 54 Inquiries.](section/54.md)
+  - [s. 55 Duty of local authority to make assessment of needs.](section/55.md)
+  - [s. 56 Residential accommodation with nursing and provision of care and after-care.](section/56.md)
+  - [s. 57 Exclusion of powers to provide accommodation in certain cases.](section/57.md)
+  - [s. 58 Power of Secretary of State to make grants.](section/58.md)
+- Part V Miscellaneous and General
+  - [s. 59 Parliamentary disqualification.](section/59.md)
+  - [s. 60 Removal of Crown immunities.](section/60.md)
+  - [s. 61 Health service bodies: taxation.](section/61.md)
+  - [s. 61A Health service bodies: stamp duty land tax](section/61A.md)
+  - [s. 62 ................................](section/62.md)
+  - [s. 63 Repeal of remaining provisions of Health Services Act 1976.](section/63.md)
+  - [s. 64 Financial provisions.](section/64.md)
+  - [s. 65 Regulations, orders and directions.](section/65.md)
+  - [s. 66 Amendments and repeals.](section/66.md)
+  - [s. 67 Short title, commencement and extent.](section/67.md)
+- SCHEDULE 1 Health Authorities and Family Health Services Authorities
+  - Part I
+    - Regional health authorities
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - District health authorities
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part II
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part III Amendments of Part III of Schedule 5 to the Principal Act
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2
+  - Part I Orders Under Section 5(1)
+    - [Sch. 2 para. 1 ................................](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 ................................](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 ................................](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 ................................](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 ................................](schedule/2/paragraph/5.md)
+  - Part II Duties, Powers and Status
+    - Specific duties
+      - [Sch. 2 para. 6 ................................](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7 ................................](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8 ................................](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9 ................................](schedule/2/paragraph/9.md)
+    - Specific powers
+      - [Sch. 2 para. 10 ................................](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11 ................................](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12 ................................](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13 ................................](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14 ................................](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15 ................................](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 15A ................................](schedule/2/paragraph/15A.md)
+    - General powers
+      - [Sch. 2 para. 16 ................................](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17 ................................](schedule/2/paragraph/17.md)
+    - Status
+      - [Sch. 2 para. 18 ................................](schedule/2/paragraph/18.md)
+  - Part III Supplementary Provisions
+    - Re-imbursement for health services work carried out otherwise than under NHS contract
+      - [Sch. 2 para. 19 ................................](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20 ................................](schedule/2/paragraph/20.md)
+    - Supply of goods and services by local authorities
+      - [Sch. 2 para. 21 ................................](schedule/2/paragraph/21.md)
+    - Making of charges
+      - [Sch. 2 para. 22 ................................](schedule/2/paragraph/22.md)
+    - Power to raise money by appeals etc.
+      - [Sch. 2 para. 23 ................................](schedule/2/paragraph/23.md)
+    - Accounts and audit
+      - [Sch. 2 para. 24 ................................](schedule/2/paragraph/24.md)
+    - Protection of members and officers
+      - [Sch. 2 para. 25 ................................](schedule/2/paragraph/25.md)
+    - Compulsory acquisition
+      - [Sch. 2 para. 26 ................................](schedule/2/paragraph/26.md)
+    - Use and development of consecrated land and burial grounds
+      - [Sch. 2 para. 27 ................................](schedule/2/paragraph/27.md)
+    - Instruments etc.
+      - [Sch. 2 para. 28 ................................](schedule/2/paragraph/28.md)
+  - Part IV Dissolution
+    - [Sch. 2 para. 29 ................................](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30 ................................](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31 ................................](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32 ................................](schedule/2/paragraph/32.md)
+- SCHEDULE 3
+  - Borrowing
+    - [Sch. 3 para. 1 ................................](schedule/3/paragraph/1.md)
+  - Guarantees of borrowing
+    - [Sch. 3 para. 2 ................................](schedule/3/paragraph/2.md)
+  - Limits on indebtedness
+    - [Sch. 3 para. 3 ................................](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 ................................](schedule/3/paragraph/4.md)
+  - Additional public dividend capital
+    - [Sch. 3 para. 5 ................................](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 5A Supplementary payments](schedule/3/paragraph/5A.md)
+  - Surplus funds
+    - [Sch. 3 para. 6 ................................](schedule/3/paragraph/6.md)
+  - Investment
+    - [Sch. 3 para. 7 ................................](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 ................................](schedule/3/paragraph/8.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 Health Boards, the Common Services Agency and State Hospitals
+  - Health Boards
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Common Services Agency
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - State hospitals
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 Schedules to be inserted after Schedule 7 to the National Health Service (Scotland) Act 1978
+- SCHEDULE 7 Amendments relating to Audit of Accounts of Scottish Health Service Bodies
+  - The Local Government (Scotland) Act 1973
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - The National Health Service (Scotland) Act 1978
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - General amendment
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Provisions arising out of removal of Crown Immunities from Health Service Bodies
+  - Part I Amendments Continuing Certain Statutory Exemptions
+    - The Employers’ Liability (Compulsory Insurance) Act 1969
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - The Vehicles (Excise) Act 1971
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - The Copyright, Designs and Patents Act 1988
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - The Road Traffic Act 1988
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part II Consequential Amendments
+    - The Acquisition of Land (Authorisation Procedure)(Scotland) Act 1947
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - The Town and Country Planning Act 1971
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - The Town and Country Planning (Scotland) Act 1972
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - The Acquisition of Land Act 1981
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - The Value Added Tax Act 1983
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - The Housing Act 1988
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - The Housing (Scotland) Act 1988
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - PART III Transitional Provisions
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - The Building (Scotland) Act 1959
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - The Medicines Act 1968
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - The Fire Precautions Act 1971
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - The Town and Country Planning Act 1971
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - The Town and Country Planning (Scotland) Act 1972
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - The Building Act 1984
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - The Housing Act 1988 and the Rent Act 1977
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - The Housing (Scotland) Act 1988 and the Rent (Scotland) Act 1984
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 Minor and Consequential Amendments
+  - The Public Health (Scotland) Act 1897
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - The Voluntary Hospitals (Paying Patients) Act 1936
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - The Nursing Homes Registration (Scotland) Act 1938
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - The Public Health (Scotland) Act 1945
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - The National Assistance Act 1948
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - The Public Records Act 1958
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - The Human Tissue Act 1961
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - The Abortion Act 1967
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - The Leasehold Reform Act 1967
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - The Social Work (Scotland) Act 1968
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - The Local Authority Social Services Act 1970
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - The Chronically Sick and Disabled Persons Act 1970
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - The Local Government Act 1972
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - The Criminal Procedure (Scotland) Act 1975
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - The Child Benefit Act 1975
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - The Children Act 1975
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - The Adoption Act 1976
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - The National Health Service Act 1977
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - The National Health Service (Scotland) Act 1978
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - The Employment Protection (Consolidation) Act 1978
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - The Overseas Development and Co-operation Act 1980
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - The Education Act 1981
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - The Acquisition of Land Act 1981
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - The Mental Health Act 1983
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+  - The Health and Social Services and Social Security Adjudications Act 1983
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+  - The Public Health (Control of Disease) Act 1984
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+  - The Registered Homes Act 1984
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - The Mental Health (Scotland) Act 1984
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - The Hospital Complaints Procedure Act 1985
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - The Disabled Persons (Services, Consultation and Representation) Act 1986
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - The Education (No. 2) Act 1986
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+  - The AIDS (Control) Act 1987
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+  - The Community Health Councils (Access to Information) Act 1988
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - The Health and Medicines Act 1988
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - The Road Traffic Act 1988
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+  - The Children Act 1989
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - The Opticians Act 1989
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+- SCHEDULE 10 Enactments Repealed
