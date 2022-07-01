@@ -2,9 +2,9 @@
 
 2014 c. 23. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-07-17, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/23/2021-07-17
+Source: https://www.legislation.gov.uk/ukpga/2014/23/2022-07-01
 
 ## Contents
 
@@ -142,7 +142,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2021-07-17
       - [s. 100 Objectives, priorities and outcomes](section/100.md)
       - [s. 101 Sections 98 and 100: matters to which HEE must have regard](section/101.md)
       - [s. 102 Advice](section/102.md)
-    - Local functions
+    - ...
       - [s. 103 Local Education and Training Boards](section/103.md)
       - [s. 104 LETBs: appointment etc.](section/104.md)
       - [s. 105 LETBs: co-operation by providers of health services](section/105.md)
