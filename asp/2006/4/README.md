@@ -1,0 +1,122 @@
+# Human Tissue (Scotland) Act 2006
+
+asp/2006/4. Enacted 2006-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2006/4/2022-07-01
+
+## Contents
+
+- Part 1 Transplantation etc.
+  - General functions of the Scottish Ministers
+    - [s. 1 Duties of the Scottish Ministers as respects transplantation, donation of body parts etc.](section/1.md)
+    - [s. 2 Assistance and support](section/2.md)
+  - Establishment and maintenance of register
+    - [s. 2A Establishment and maintenance of register](section/2A.md)
+    - [s. 2B Delegation of function of establishing and maintaining Register](section/2B.md)
+    - [s. 2C Disclosure of information](section/2C.md)
+    - [s. 2D Power to make provision about Register](section/2D.md)
+  - Use of part of body of deceased person for transplantation, research etc.
+    - [s. 3 Use of part of body of deceased person for transplantation, research etc.](section/3.md)
+    - [s. 4 Disapplication of sections 3, 6 to 11 and 16 in certain circumstances](section/4.md)
+    - [s. 5 Consent by procurator fiscal to removal of part of body](section/5.md)
+    - [s. 6 Express authorisation: adult](section/6.md)
+    - [s. 6A Withdrawal of express authorisation: adult](section/6A.md)
+    - [s. 6B Opt-out declaration: adult](section/6B.md)
+    - [s. 6C Withdrawal of opt-out declaration: adult](section/6C.md)
+    - [s. 6D Deemed authorisation for transplantation: adult](section/6D.md)
+    - [s. 6E Non-resident adult: authorisation for transplantation by nearest relative](section/6E.md)
+    - [s. 6F Adult incapable of understanding deemed authorisation: authorisation for transplantation by nearest relative](section/6F.md)
+    - [s. 6G Excepted body parts: authorisation for transplantation by nearest relative](section/6G.md)
+    - [s. 6H Authorisation for purpose other than transplantation by nearest relative](section/6H.md)
+    - [s. 6I Review of section 1(1)(d) and (e) and sections 6(1A), 6B and 6D](section/6I.md)
+    - [s. 7 Authorisation by adult’s nearest relative](section/7.md)
+    - [s. 8 Authorisation: child 12 years of age or over](section/8.md)
+    - [s. 8A Withdrawal of authorisation: child 12 years of age or over](section/8A.md)
+    - [s. 8B Opt-out declaration: child 12 years of age or over](section/8B.md)
+    - [s. 8C Withdrawal of opt-out declaration: child 12 years of age or over](section/8C.md)
+    - [s. 8D Authorisation by person with parental rights and responsibilities: child 12 years of age or over](section/8D.md)
+    - [s. 9 Authorisation as respects child who dies 12 years of age or over by person with parental rights and responsibilities](section/9.md)
+    - [s. 10 Authorisation by person with parental rights and responsibilities: child under 12 years of age](section/10.md)
+    - [s. 10A Authorisation by other persons: children](section/10A.md)
+    - [s. 10B Local authority with parental rights and responsibilities in relation to child: consultation](section/10B.md)
+    - [s. 10C Power to make provision about decisions](section/10C.md)
+    - [s. 10D Withdrawal by person who is blind or unable to write](section/10D.md)
+    - [s. 11 Removal of part of body of deceased person: further requirements](section/11.md)
+    - [s. 12 Removal of tissue sample to determine viability of transplantation](section/12.md)
+    - [s. 13 Preservation for transplantation](section/13.md)
+    - [s. 14 Part of body removed before day on which section 3 comes into force](section/14.md)
+    - [s. 15 Existing request by adult not acted on before commencement of sections 3 and 6](section/15.md)
+    - [s. 16 Offences: removal or use of part of body of deceased person for transplantation, research etc.](section/16.md)
+  - Pre-death procedures relating to transplantation
+    - [s. 16A Meaning of “pre-death procedure”, “Type A procedure” and “Type B procedure”](section/16A.md)
+    - [s. 16B Type A procedures](section/16B.md)
+    - [s. 16C Type B procedures](section/16C.md)
+    - [s. 16D Restrictions on carrying out of pre-death procedures](section/16D.md)
+    - [s. 16E Carrying out of Type A and Type B procedures](section/16E.md)
+    - [s. 16F Authorisation of Type A procedures](section/16F.md)
+    - [s. 16G Authorisation of Type A procedures: transitory provision](section/16G.md)
+    - [s. 16H Duty to inquire: adult](section/16H.md)
+    - [s. 16I Duty to inquire: child](section/16I.md)
+    - [s. 16J Meaning of “health worker”](section/16J.md)
+    - [s. 16K Interpretation and meaning of “relevant time”](section/16K.md)
+  - Restrictions on transplants involving live donor
+    - [s. 17 Restrictions on transplants involving live donor](section/17.md)
+    - [s. 18 Meaning of adult with incapacity for purposes of section 17(1)(c) and (2)(c)](section/18.md)
+  - Records, information etc.: removal and use of parts of human bodies for transplantation etc.
+    - [s. 19 Records, information etc.: removal and use of parts of human bodies for transplantation etc.](section/19.md)
+  - Trafficking
+    - [s. 20 Prohibition of commercial dealings in parts of a human body for transplantation](section/20.md)
+    - [s. 20A Offences under section 20 committed outside UK](section/20A.md)
+  - Summary proceedings for offences under section 17, 19(4) or 20(2)
+    - [s. 21 Summary proceedings for offences under section 17, 19(4) or 20(2)](section/21.md)
+  - Authorisation for transplantation to have priority
+    - [s. 22 Authorisation by virtue of Part 1 for transplantation to have priority](section/22.md)
+- Part 2 Post-mortem examinations
+  - [s. 23 Meaning of post-mortem examination for purposes of Act](section/23.md)
+  - [s. 24 Disapplication of sections 23 and 27 to 37 as respects procurator fiscal](section/24.md)
+  - [s. 25 Disapplication of sections 27 to 35 and 37: bodies of persons dead for at least 100 years](section/25.md)
+  - [s. 26 Consent by procurator fiscal to post-mortem examination](section/26.md)
+  - [s. 27 Requirements for carrying out post-mortem examination](section/27.md)
+  - [s. 28 Removal during examination and retention of organs and other parts of a body](section/28.md)
+  - [s. 29 Authorisation of post-mortem examination etc.: adult](section/29.md)
+  - [s. 30 Authorisation of post-mortem examination etc. by adult’s nominee or nearest relative](section/30.md)
+  - [s. 31 Authorisation of post-mortem examination etc.: child 12 years of age or over](section/31.md)
+  - [s. 32 Authorisation of post-mortem examination etc. as respects child 12 years of age or over by nominee or person with parental rights and parental responsibilities](section/32.md)
+  - [s. 33 Authorisation of post-mortem examination etc. as respects child under 12 years of age](section/33.md)
+  - [s. 34 Nomination of person under section 30(1) or 32(1): additional provision](section/34.md)
+  - [s. 35 Post-mortem examination and removal and retention of organs: further requirements](section/35.md)
+  - [s. 36 Organ or tissue sample removed before day on which section 27 comes into force](section/36.md)
+  - [s. 37 Offences: post-mortem examinations](section/37.md)
+- Part 3 Tissue sample or organs no longer required for procurator fiscal purposes
+  - [s. 38 Tissue sample becoming part of medical records of deceased person](section/38.md)
+  - [s. 39 Use of tissue sample which has become part of deceased’s medical records](section/39.md)
+  - [s. 40 Use of organ no longer required for procurator fiscal purposes](section/40.md)
+  - [s. 41 Notice under section 38(2) or 40(2)(a): further provision](section/41.md)
+  - [s. 42 Authorisation of use etc. after examination: adult](section/42.md)
+  - [s. 43 Authorisation of use etc. after examination: adult’s nearest relative](section/43.md)
+  - [s. 44 Authorisation of use etc. after examination: child 12 years of age or over](section/44.md)
+  - [s. 45 Authorisation of use etc. after examination: person with parental rights and parental responsibilities for child 12 years of age or over](section/45.md)
+  - [s. 46 Authorisation of use etc. after examination: person with parental rights and responsibilities for child under 12 years of age](section/46.md)
+  - [s. 47 Use of tissue sample removed before day on which section 38 comes into force](section/47.md)
+  - [s. 48 Use of organ removed before day on which section 40 comes into force](section/48.md)
+- Part 4 Parts 1 to 3: supplementary provision
+  - [s. 49 Conditions attached to authorisation](section/49.md)
+  - [s. 50 Nearest relative](section/50.md)
+  - [s. 51 Witnesses: additional provision](section/51.md)
+  - [s. 52 Power to prescribe forms and descriptions of persons who may act as a witness](section/52.md)
+- Part 5 Amendment of the Anatomy Act 1984
+  - [s. 53 Amendment of the Anatomy Act 1984](section/53.md)
+- Part 6 Miscellaneous
+  - [s. 54 Arrangements by the Scottish Ministers for assistance with functions under section 1, 2, 17(3), (4) or (5), 18, 19(2) or 20(3)](section/54.md)
+  - [s. 55 Power to give effect to EU obligations](section/55.md)
+  - [s. 56 Bodies corporate etc.](section/56.md)
+  - [s. 57 Amendment of the Adults with Incapacity (Scotland) Act 2000](section/57.md)
+- Part 7 General
+  - [s. 58 Ancillary provision](section/58.md)
+  - [s. 59 Regulations or orders](section/59.md)
+  - [s. 60 Interpretation](section/60.md)
+  - [s. 61 Repeals](section/61.md)
+  - [s. 62 Short title and commencement](section/62.md)
+- SCHEDULE Repeals
