@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2021-06-17, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-07-01
 
 ## Contents
 
@@ -122,7 +122,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
     - Licence conditions
       - [s. 94 Standard conditions](section/94.md)
       - [s. 95 Special conditions](section/95.md)
-      - [s. 96 Limits on Monitor’s functions to set or modify licence conditions](section/96.md)
+      - [s. 96 Limits on NHS England’s functions to set or modify licence conditions](section/96.md)
       - [s. 97 Conditions: supplementary](section/97.md)
       - [s. 98 Conditions relating to the continuation of the provision of services etc.](section/98.md)
       - [s. 99 Notification of commissioners where continuation of services at risk](section/99.md)
@@ -143,20 +143,26 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
       - [s. 112](section/112.md)
       - [s. 113](section/113.md)
       - [s. 114](section/114.md)
-  - CHAPTER 4 Pricing
-    - [s. 115 Price payable by commissioners for NHS services](section/115.md)
-    - [s. 116 The national tariff](section/116.md)
-    - [s. 117 The national tariff: further provision](section/117.md)
-    - [s. 118 Consultation on proposals for the national tariff](section/118.md)
-    - [s. 119 Consultation: further provision](section/119.md)
-    - [s. 120 Responses to consultation](section/120.md)
-    - [s. 121 Determination on reference under section 120](section/121.md)
-    - [s. 122 Changes following determination on reference under section 120](section/122.md)
-    - [s. 123 Power to veto changes proposed under section 122](section/123.md)
-    - [s. 124 Local modifications of prices: agreements](section/124.md)
-    - [s. 125 Local modifications of prices: applications](section/125.md)
-    - [s. 126 Applications under section 125: notification of commissioners](section/126.md)
-    - [s. 127 Correction of mistakes](section/127.md)
+  - CHAPTER 4 The NHS payment scheme
+    - [s. 114A The NHS payment scheme](section/114A.md)
+    - [s. 114B The NHS payment scheme: enforcement](section/114B.md)
+    - [s. 114C The NHS payment scheme: impact assessment and consultation](section/114C.md)
+    - [s. 114D Objections to proposed NHS payment scheme](section/114D.md)
+    - [s. 114E Amendments of the NHS payment scheme](section/114E.md)
+    - [s. 114F Interpretation](section/114F.md)
+    - [s. 115](section/115.md)
+    - [s. 116](section/116.md)
+    - [s. 117](section/117.md)
+    - [s. 118](section/118.md)
+    - [s. 119](section/119.md)
+    - [s. 120](section/120.md)
+    - [s. 121](section/121.md)
+    - [s. 122](section/122.md)
+    - [s. 123](section/123.md)
+    - [s. 124](section/124.md)
+    - [s. 125](section/125.md)
+    - [s. 126](section/126.md)
+    - [s. 127](section/127.md)
   - CHAPTER 5 Health special administration
     - [s. 128 Health special administration orders](section/128.md)
     - [s. 129 Objective of a health special administration](section/129.md)
@@ -252,7 +258,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
       - [s. 195 Duty to encourage integrated working](section/195.md)
       - [s. 196 Other functions of Health and Wellbeing Boards](section/196.md)
     - Health and Wellbeing Boards: supplementary
-      - [s. 197 Participation of NHS Commissioning Board](section/197.md)
+      - [s. 197 Participation of NHS England](section/197.md)
       - [s. 198 Discharge of functions of Health and Wellbeing Boards](section/198.md)
       - [s. 199 Supply of information to Health and Wellbeing Boards](section/199.md)
     - Care Trusts
@@ -305,7 +311,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
   - Functions: quality standards
     - [s. 234 Quality standards](section/234.md)
     - [s. 235 Supply of quality standards to other persons](section/235.md)
-    - [s. 236 Advice or guidance to the Secretary of State or the Board](section/236.md)
+    - [s. 236 Advice or guidance to the Secretary of State or NHS England](section/236.md)
   - Functions: advice, guidance etc.
     - [s. 237 Advice, guidance, information and recommendations](section/237.md)
     - [s. 238 NICE recommendations: appeals](section/238.md)
@@ -359,7 +365,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
       - [s. 272 Failure by Information Centre to discharge any of its functions](section/272.md)
       - [s. 273 Protection from personal liability](section/273.md)
     - General and supplementary
-      - [s. 274 Powers of Secretary of State or Board to give directions](section/274.md)
+      - [s. 274 Powers of Secretary of State or NHS England to give directions](section/274.md)
       - [s. 275 Interpretation of this Chapter](section/275.md)
       - [s. 276 Dissolution of predecessor body](section/276.md)
       - [s. 277 Consequential provision](section/277.md)
@@ -386,8 +392,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
     - [s. 293 Conduct of reviews etc.](section/293.md)
     - [s. 294 Failure to discharge functions](section/294.md)
   - Arrangements with devolved authorities etc.
-    - [s. 295 Arrangements between the Board and Northern Ireland Ministers](section/295.md)
-    - [s. 296 Arrangements between the Board and Scottish Ministers etc.](section/296.md)
+    - [s. 295 Arrangements between NHS England and Northern Ireland Ministers](section/295.md)
+    - [s. 296 Arrangements between NHS England and Scottish Ministers etc.](section/296.md)
     - [s. 297 Relationships between the health services](section/297.md)
     - [s. 298 Advice or assistance to public authorities in the Isle of Man or Channel Islands](section/298.md)
   - Supervised community treatment under the Mental Health Act 1983
@@ -395,7 +401,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
   - Transfer schemes
     - [s. 300 Transfer schemes](section/300.md)
     - [s. 301 Transfer schemes: supplemental](section/301.md)
-    - [s. 302 Subsequent property transfer schemes](section/302.md)
+    - [s. 302 Transfer schemes in respect of previously transferred property](section/302.md)
 - PART 12 Final provisions
   - [s. 303 Power to make consequential provision](section/303.md)
   - [s. 304 Regulations, orders and directions](section/304.md)
@@ -965,7 +971,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2021-06-17
     - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
   - Powers of investigation
     - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
-- SCHEDULE 11 Further provision about Monitor’s enforcement powers
+- SCHEDULE 11 Further provision about NHS England’s enforcement powers
   - PART 1 Discretionary requirements
     - Procedure
       - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
