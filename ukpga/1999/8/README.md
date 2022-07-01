@@ -1,0 +1,278 @@
+# Health Act 1999
+
+1999 c. 8. Enacted 1999-06-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/8
+
+Source: https://www.legislation.gov.uk/ukpga/1999/8/2022-07-01
+
+## Contents
+
+- Part I The National Health Service
+  - Fund-holding practices
+    - [s. 1 Repeal of law about fund-holding practices.](section/1.md)
+  - Local administration
+    - [s. 2 Primary Care Trusts.](section/2.md)
+    - [s. 3 Primary Care Trusts: finance.](section/3.md)
+    - [s. 4 Expenditure of Health Authorities and Primary Care Trusts.](section/4.md)
+    - [s. 5 Primary Care Trusts: provision of services etc.](section/5.md)
+    - [s. 6 Delegation of Health Authority functions relating to pilot schemes and section 28C arrangements.](section/6.md)
+    - [s. 7 Primary Care Trusts: trust-funds and trustees.](section/7.md)
+    - [s. 8 Payments relating to past performance.](section/8.md)
+    - [s. 9 Indemnity cover for Part II services.](section/9.md)
+    - [s. 10 Remuneration for Part II services.](section/10.md)
+    - [s. 11 Local representative committees.](section/11.md)
+    - [s. 12 Directions.](section/12.md)
+  - NHS trusts
+    - [s. 13 Establishment orders.](section/13.md)
+    - [s. 14 Exercise of powers.](section/14.md)
+    - [s. 15 Public dividend capital.](section/15.md)
+    - [s. 16 Existing NHS trusts: conversion of initial loan.](section/16.md)
+    - [s. 17 Borrowing.](section/17.md)
+  - Quality etc
+    - [s. 18 Duty of quality.](section/18.md)
+    - [s. 19 The Commission for Health Improvement.](section/19.md)
+    - [s. 20 Functions of the Commission.](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 Arrangements with Ministers.](section/22.md)
+    - [s. 23 Obtaining information etc.](section/23.md)
+    - [s. 24 Restrictions on disclosure of information.](section/24.md)
+    - [s. 25 Abolition of Clinical Standards Advisory Group.](section/25.md)
+  - Partnership
+    - [s. 26 Co-operation between NHS bodies.](section/26.md)
+    - [s. 27 Co-operation between NHS bodies and local authorities.](section/27.md)
+    - [s. 28 Plans for improving health etc.](section/28.md)
+    - [s. 29 Payments by NHS bodies to local authorities.](section/29.md)
+    - [s. 30 Payments by local authorities to NHS bodies.](section/30.md)
+    - [s. 31 Arrangements between NHS bodies and local authorities.](section/31.md)
+    - [s. 32 Joint consultative committees.](section/32.md)
+  - Control of prices of medicines and profits
+    - [s. 33 Powers relating to voluntary schemes.](section/33.md)
+    - [s. 34 Power to control prices.](section/34.md)
+    - [s. 35 Statutory schemes.](section/35.md)
+    - [s. 36 Statutory schemes: supplementary.](section/36.md)
+    - [s. 37 Enforcement.](section/37.md)
+    - [s. 38 Controls: supplementary.](section/38.md)
+  - Evasion of charges, fraud etc.
+    - [s. 39 Evasion of charges etc.](section/39.md)
+    - [s. 40 Disqualification etc. of Part II practitioners.](section/40.md)
+  - Miscellaneous
+    - [s. 41 High security psychiatric services.](section/41.md)
+    - [s. 42 Provision of information by Registrar General.](section/42.md)
+    - [s. 43 Health Service Commissioners.](section/43.md)
+  - Rectification of transitional arrangements
+    - [s. 44 Power to rectify transitional provisions etc.](section/44.md)
+- Part II The National Health Service: Scotland
+  - Fund-holding practices
+    - [s. 45 Repeal of law about fund-holding practices.](section/45.md)
+  - NHS trusts
+    - [s. 46 Establishment orders.](section/46.md)
+    - [s. 47 Directions as to delegation of functions.](section/47.md)
+    - [s. 48 Constitution of NHS trust boards.](section/48.md)
+    - [s. 49 Duties of NHS trusts.](section/49.md)
+  - Staff transfer
+    - [s. 50 Transfer of staff among health service bodies.](section/50.md)
+  - Quality
+    - [s. 51 Duty of quality.](section/51.md)
+  - Finance
+    - [s. 52 Expenditure of Health Boards and other bodies.](section/52.md)
+    - [s. 53 Public dividend capital.](section/53.md)
+    - [s. 54 Existing NHS trusts: conversion of initial loan.](section/54.md)
+    - [s. 55 Borrowing.](section/55.md)
+  - Indemnity cover
+    - [s. 56 Indemnity cover for Part II services.](section/56.md)
+  - Remuneration
+    - [s. 57 Remuneration for Part II services.](section/57.md)
+  - Fraud
+    - [s. 58 Disqualification etc. of Part II practitioners.](section/58.md)
+    - [s. 59 Recovery of charges and payments.](section/59.md)
+- Part III Miscellaneous and Supplementary
+  - Miscellaneous
+    - [s. 60 Regulation of health professions and social care workers etc.](section/60.md)
+    - [s. 60A Standard of proof in fitness to practise proceedings](section/60A.md)
+    - [s. 61 English and Scottish border provisions.](section/61.md)
+  - Supplementary
+    - [s. 62 Regulations and orders.](section/62.md)
+    - [s. 63 Supplementary and consequential provision etc.](section/63.md)
+    - [s. 64 Interpretation.](section/64.md)
+  - Final provisions
+    - [s. 65 Amendments and repeals.](section/65.md)
+    - [s. 66 Devolution.](section/66.md)
+    - [s. 67 Commencement.](section/67.md)
+    - [s. 68 Extent.](section/68.md)
+    - [s. 69 Short title.](section/69.md)
+- SCHEDULE 1
+- SCHEDULE 2
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - General powers
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - General duty
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Membership
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Appointment, procedure etc
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - Remuneration and allowances
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Employees
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Delegation of functions
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Assistance
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Payments and loans to Commission
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Accounts
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Reports and other information
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Application of seal and evidence
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Miscellaneous amendments
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 2A Section 31 arrangements: transfer of staff
+  - [Sch. 2A para. 1 Application of Schedule](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2 Orders transferring staff](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3 Effect of order on contracts of employment](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4 Effect of order on pension rights](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5 Divided employments](schedule/2A/paragraph/5.md)
+- SCHEDULE 3 Regulation of health care and associated professions
+  - Matters generally within the scope of the Orders
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+    - [Sch. 3 para. 1B](schedule/3/paragraph/1B.md)
+  - Power to abolish regulatory bodies
+    - [Sch. 3 para. 1C](schedule/3/paragraph/1C.md)
+  - Manner of exercise of power
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Matters outside the scope of the Orders
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Preliminary procedure for making Orders
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Interpretation and application
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Amendments of enactments
+  - ................................
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - National Health Service Act 1966 (c. 8)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Health Services and Public Health Act 1968 (c. 46)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The 1977 Act
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - The 1978 Act
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+    - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+  - Mental Health (Scotland) Act 1984 (c. 36)
+    - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+  - Hospital Complaints Procedure Act 1985 (c. 42)
+    - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+  - Health Service Joint Consultative Committees (Access to Information) Act 1986 (c. 24)
+    - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+  - ................................
+    - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+    - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+    - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+    - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+    - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+    - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+    - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+    - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+    - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+    - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+    - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+  - Health Service Commissioners Act 1993 (c. 46)
+    - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+  - ................................
+    - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+  - National Health Service (Residual Liabilities) Act 1996 (c. 15)
+    - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+  - National Health Service (Primary Care) Act 1997 (c. 46)
+    - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+  - National Health Service (Private Finance) Act 1997 (c. 56)
+    - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+- SCHEDULE 5 Repeals
