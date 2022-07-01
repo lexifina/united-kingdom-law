@@ -2,9 +2,9 @@
 
 2015 c. 30. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-07, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-06-07
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-07-01
 
 ## Contents
 
@@ -241,6 +241,8 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-06-07
   - Modern Slavery Act 2015 (c. 30)
     - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
     - [Sch. 4 para. 36A](schedule/4/paragraph/36A.md)
+  - Health and Care Act 2022
+    - [Sch. 4 para. 36B](schedule/4/paragraph/36B.md)
   - Ancillary offences
     - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
 - SCHEDULE 4A Information gateways: specified persons
