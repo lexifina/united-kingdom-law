@@ -2,9 +2,9 @@
 
 2014 c. 2. Enacted 2014-01-30.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-03-18, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/2/2022-03-18
+Source: https://www.legislation.gov.uk/ukpga/2014/2/2022-07-01
 
 ## Contents
 
@@ -23,7 +23,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2022-03-18
   - [s. 10 Functions of auditor panel](section/10.md)
   - [s. 11 Relationship with relevant authority](section/11.md)
   - [s. 12 Failure to appoint local auditor](section/12.md)
-  - [s. 13 Failure of clinical commissioning group to appoint local auditor](section/13.md)
+  - [s. 13 Failure of health service bodies to appoint local auditor](section/13.md)
   - [s. 14 Limitation of local auditor’s liability](section/14.md)
   - [s. 15 Further provisions about liability limitation agreements](section/15.md)
   - [s. 16 Resignation and removal of local auditor](section/16.md)
@@ -113,6 +113,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2022-03-18
   - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
   - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
   - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - [Sch. 2 para. 23A](schedule/2/paragraph/23A.md)
   - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
   - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
   - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
