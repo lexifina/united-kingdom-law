@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-14, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-28
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-07-14
 
 ## Contents
 
@@ -844,7 +844,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-28
       - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
     - Monitoring period: electronic compliance monitoring requirement
       - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
-    - Electronic monitoring Electronic compliance monitoring requirement: general
+    - Electronic compliance monitoring requirement: general
       - [Sch. 6 para. 43A](schedule/6/paragraph/43A.md)
     - Restrictions on imposing electronic compliance monitoring requirement
       - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
@@ -1686,6 +1686,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-28
   - PART 5 Custodial sentences
     - Increase in magistrates’ court’s power to impose imprisonment
       - [Sch. 22 para. 24](schedule/22/paragraph/24.md)
+      - [Sch. 22 para. 24A](schedule/22/paragraph/24A.md)
       - [Sch. 22 para. 25](schedule/22/paragraph/25.md)
       - [Sch. 22 para. 26](schedule/22/paragraph/26.md)
     - Detention and training orders: offenders aged under 12
@@ -1827,6 +1828,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-06-28
     - Breach of community order: power to amend amounts of fines
       - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
   - PART 8 Custodial sentences
+    - General limit on magistrates’ court’s power to impose custodial sentence
+      - [Sch. 23 para. 14A](schedule/23/paragraph/14A.md)
     - Detention and training orders: end of period of supervision
       - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
     - Offenders of particular concern: listed offences
