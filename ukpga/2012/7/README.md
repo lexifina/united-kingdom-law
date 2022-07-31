@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-07-31, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-07-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-07-31
 
 ## Contents
 
@@ -369,6 +369,11 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-07-01
       - [s. 275 Interpretation of this Chapter](section/275.md)
       - [s. 276 Dissolution of predecessor body](section/276.md)
       - [s. 277 Consequential provision](section/277.md)
+  - CHAPTER 3 Information about adult social care
+    - [s. 277A Provision of adult social care information to Secretary of State](section/277A.md)
+    - [s. 277B Restrictions on onward disclosure of information](section/277B.md)
+    - [s. 277C Directions to certain bodies to exercise functions under this Chapter](section/277C.md)
+    - [s. 277D Arrangements with third parties](section/277D.md)
 - PART 10 Abolition of certain public bodies etc
   - [s. 278 The Alcohol Education and Research Council](section/278.md)
   - [s. 279 The Appointments Commission](section/279.md)
