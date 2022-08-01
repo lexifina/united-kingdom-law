@@ -1,0 +1,149 @@
+# Pension Schemes Act (Northern Ireland) 2016
+
+nia/2016/1. Enacted 2016-01-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2016/1/2022-08-01
+
+## Contents
+
+- PART 1 CATEGORIES OF PENSION SCHEME
+  - [s. 1 Introduction](section/1.md)
+  - [s. 2 Defined benefits scheme](section/2.md)
+  - [s. 3 Shared risk scheme (sometimes known as “defined ambition”)](section/3.md)
+  - [s. 4 Defined contributions scheme](section/4.md)
+  - [s. 5 Meaning of “pensions promise” etc](section/5.md)
+  - [s. 6 Treatment of a scheme as two or more separate schemes](section/6.md)
+  - [s. 7 Interpretation of Part 1](section/7.md)
+- PART 2 COLLECTIVE BENEFITS
+  - Introduction and nature of collective benefits
+    - [s. 8 Introduction and definition](section/8.md)
+    - [s. 9 Duty to set targets for collective benefits](section/9.md)
+    - [s. 10 Policy about factors used to determine each benefit](section/10.md)
+    - [s. 11 Power to impose requirements about factors used to determine each benefit](section/11.md)
+  - Contributions
+    - [s. 12 Payment schedule](section/12.md)
+    - [s. 13 Overdue contributions and other payments](section/13.md)
+  - Investment
+    - [s. 14 Statement of investment strategy](section/14.md)
+    - [s. 15 Investment performance reports](section/15.md)
+    - [s. 16 Investment powers](section/16.md)
+    - [s. 17 Restriction on borrowing by trustees or managers](section/17.md)
+    - [s. 18 Investment powers: duty of care](section/18.md)
+  - Valuation
+    - [s. 19 Valuation reports](section/19.md)
+    - [s. 20 Valuation process](section/20.md)
+  - Dealing with deficits and surpluses
+    - [s. 21 Policy for dealing with a deficit or surplus](section/21.md)
+    - [s. 22 Power to impose requirements about dealing with a deficit or surplus](section/22.md)
+    - [s. 23 Deficits attributable to an offence or the imposition of a levy](section/23.md)
+    - [s. 24 Payment of amounts out of collective benefit funds](section/24.md)
+  - Cash equivalents
+    - [s. 25 Policy for calculating cash equivalent of benefits](section/25.md)
+  - Winding up
+    - [s. 26 Winding up](section/26.md)
+    - [s. 27 Requirement to wind up scheme in specified circumstances](section/27.md)
+    - [s. 28 Policies about winding up](section/28.md)
+  - Identifying assets
+    - [s. 29 Working out which assets are available for the provision of which benefits](section/29.md)
+  - Regulations under Part 2: general
+    - [s. 30 Requirement to obtain actuarial advice](section/30.md)
+    - [s. 31 Sub-delegation](section/31.md)
+    - [s. 32 Publication of documents etc](section/32.md)
+    - [s. 33 Enforcement](section/33.md)
+    - [s. 34 Overriding requirements](section/34.md)
+  - Interpretation of Part 2
+    - [s. 35 Interpretation of Part 2](section/35.md)
+- PART 3 GENERAL CHANGES TO LEGISLATION ABOUT PENSION SCHEMES
+  - Administration and governance
+    - [s. 36 Pensions promise obtained from third party](section/36.md)
+    - [s. 37 Duty to act in the best interests of members](section/37.md)
+    - [s. 38 Disclosure of information about schemes](section/38.md)
+  - Early leavers
+    - [s. 39 Extension of preservation of benefit under occupational pension schemes](section/39.md)
+    - [s. 40 Revaluation of accrued benefits](section/40.md)
+  - Indexation
+    - [s. 41 Collective benefits exempt from indexation](section/41.md)
+    - [s. 42 Regulatory own fund schemes exempt from indexation](section/42.md)
+    - [s. 43 Power to create other exemptions from indexation](section/43.md)
+  - Independent trustees
+    - [s. 44 Removal of requirement to maintain register of independent trustees](section/44.md)
+  - Rules about modification of schemes
+    - [s. 45 Rules about modification of schemes](section/45.md)
+  - Pension sharing
+    - [s. 46 Pension sharing and normal benefit age](section/46.md)
+  - Other amendments
+    - [s. 47 Other amendments to do with Parts 1 and 2](section/47.md)
+- PART 4 GENERAL
+  - [s. 48 Power to make consequential amendments](section/48.md)
+  - [s. 49 Regulations](section/49.md)
+  - [s. 50 Crown application](section/50.md)
+  - [s. 51 Interpretation](section/51.md)
+  - [s. 52 Commencement](section/52.md)
+  - [s. 53 Short title](section/53.md)
+- SCHEDULE 1 EARLY LEAVERS: REVALUATION OF ACCRUED BENEFITS
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 OTHER AMENDMENTS TO DO WITH PARTS 1 AND 2
+  - Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Pensions (Northern Ireland) Order 1995 (NI 22)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Pensions (Northern Ireland) Order 2005 (NI 1)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+  - Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+  - Pensions Act (Northern Ireland) 2015 (c. 5)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
