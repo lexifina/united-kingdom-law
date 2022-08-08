@@ -1,0 +1,104 @@
+# Defamation and Malicious Publication (Scotland) Act 2021
+
+asp/2021/10. Enacted 2021-04-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-08-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2021/10/2022-08-08
+
+## Contents
+
+- PART 1 Defamation
+  - Actionability and restrictions on bringing proceedings
+    - [s. 1 Actionability of defamatory statements](section/1.md)
+    - [s. 2 Prohibition on public authorities bringing proceedings](section/2.md)
+    - [s. 3 Restriction on proceedings against secondary publishers](section/3.md)
+    - [s. 4 Power to specify persons to be treated as publishers](section/4.md)
+  - Defences
+    - [s. 5 Defence of truth](section/5.md)
+    - [s. 6 Defence of publication on a matter of public interest](section/6.md)
+    - [s. 7 Defence of honest opinion](section/7.md)
+    - [s. 8 Abolition of common law defences and transitional provision](section/8.md)
+  - Absolute privilege
+    - [s. 9 Contemporaneous reports of court proceedings](section/9.md)
+  - Qualified privilege
+    - [s. 10 Peer-reviewed statement in scientific or academic journal etc.](section/10.md)
+    - [s. 11 Other statements protected by qualified privilege](section/11.md)
+    - [s. 12 Privilege: transitional provision](section/12.md)
+  - Offers to make amends
+    - [s. 13 Offer to make amends](section/13.md)
+    - [s. 14 Acceptance and enforcement of offer to make amends](section/14.md)
+    - [s. 15 Offer to make amends: multiple persons responsible for statement](section/15.md)
+    - [s. 16 Rejection of unqualified offer to make amends](section/16.md)
+    - [s. 17 Rejection of qualified offer to make amends](section/17.md)
+    - [s. 18 Offers to make amends: transitional provision](section/18.md)
+  - Jurisdiction
+    - [s. 19 Actions against a person not domiciled in the UK](section/19.md)
+  - Removal of presumption that proceedings are to be tried by jury
+    - [s. 20 Removal of presumption that proceedings are to be tried by jury](section/20.md)
+- PART 2 Malicious publication
+  - Actionable types of malicious publication
+    - [s. 21 Statements causing harm to business interests](section/21.md)
+    - [s. 22 Statements causing doubt as to title to property](section/22.md)
+    - [s. 23 Statements criticising assets](section/23.md)
+  - General provision
+    - [s. 24 Limit on requirement to show financial loss](section/24.md)
+    - [s. 25 Statements conveying two or more meanings](section/25.md)
+    - [s. 26 Damages for anxiety and distress](section/26.md)
+  - Abolition of common law verbal injuries
+    - [s. 27 Abolition of common law verbal injuries](section/27.md)
+- PART 3 General
+  - Remedies
+    - [s. 28 Power of court to order a summary of its judgment to be published](section/28.md)
+    - [s. 29 Making a statement in open court](section/29.md)
+    - [s. 30 Power of court to order display of notice of proceedings, removal of a statement etc.](section/30.md)
+    - [s. 31 Remedies: transitional provision](section/31.md)
+  - Limitation
+    - [s. 32 Limitation of actions](section/32.md)
+    - [s. 33 Interruption of limitation period: mediation](section/33.md)
+    - [s. 34 Interruption of limitation period: media complaints and expert determination](section/34.md)
+  - Miscellaneous
+    - [s. 35 Consequential modifications](section/35.md)
+    - [s. 36 Interpretation](section/36.md)
+    - [s. 37 Regulations](section/37.md)
+    - [s. 38 Ancillary provision](section/38.md)
+    - [s. 39 Commencement](section/39.md)
+    - [s. 40 Short title](section/40.md)
+- SCHEDULE Statements having qualified privilege
+  - PART 1 Statements having qualified privilege without being subject to explanation or contradiction
+    - Reports of legislative proceedings
+      - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - Legislature and government documents
+      - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - Reports of court and inquiry proceedings
+      - [Sch. paragraph 3](schedule/paragraph/3.md)
+      - [Sch. paragraph 4](schedule/paragraph/4.md)
+    - Court notices, advertisements etc.
+      - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - Public registers and documents
+      - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - International organisations and conferences
+      - [Sch. paragraph 7](schedule/paragraph/7.md)
+      - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - PART 2 Statements having qualified privilege subject to explanation or contradiction
+    - Notices etc. issued by legislatures, governments, certain authorities, international organisations etc.
+      - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - Documents released by courts, judges and court officers
+      - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - Reports of proceedings of local government, committees, commissions, inquiries, tribunals etc.
+      - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - Reports of press conferences on matters of public interest
+      - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - Reports of public meetings on matters of public interest
+      - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - Listed companies: reports of meetings and certain other documents
+      - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - Findings or decisions of certain associations
+      - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - Reports of scientific and academic conferences and associated documents
+      - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - Reports and summaries etc. by Scottish Ministers’ designees
+      - [Sch. paragraph 17](schedule/paragraph/17.md)
+  - PART 3 Supplementary provision
+    - Interpretation
+      - [Sch. paragraph 18](schedule/paragraph/18.md)
