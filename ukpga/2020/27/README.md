@@ -2,9 +2,9 @@
 
 2020 c. 27. Enacted 2020-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-08-11, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/27/2022-04-28
+Source: https://www.legislation.gov.uk/ukpga/2020/27/2022-08-11
 
 ## Contents
 
@@ -106,6 +106,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/27/2022-04-28
     - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
   - Provision having effect in more than one part of the United Kingdom
     - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Single-use plastic items
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
 - SCHEDULE 2 Services exclusions
   - PART 1 Services to which section 19 (mutual recognition) does not apply
   - PART 2 Services to which sections 20 and 21 (non-discrimination) do not apply
