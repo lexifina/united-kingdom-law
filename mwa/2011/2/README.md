@@ -1,0 +1,202 @@
+# Rights of Children and Young Persons (Wales) Measure 2011
+
+mwa/2011/2. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/mwa/2011/2/2022-09-01
+
+## Contents
+
+- [s. 1 Duty to have due regard to Convention on the Rights of the Child](section/1.md)
+- [s. 2 The children’s scheme](section/2.md)
+- [s. 3 Preparation and publication of the scheme](section/3.md)
+- [s. 4 Reports](section/4.md)
+- [s. 5 Duty to promote knowledge of the Convention](section/5.md)
+- [s. 6 Power to amend legislation etc](section/6.md)
+- [s. 7 Application to young persons](section/7.md)
+- [s. 8 The Convention on the Rights of the Child](section/8.md)
+- [s. 9 Other interpretive provisions](section/9.md)
+- [s. 10 Orders](section/10.md)
+- [s. 11 Commencement](section/11.md)
+- [s. 12 Short title](section/12.md)
+- SCHEDULE THE CONVENTION, PROTOCOLS, DECLARATIONS AND RESERVATIONS
+  - PART 1 PART I OF THE CONVENTION
+    - Article 1
+    - Article 2
+      - [Sch. part 1 crossheading article-2 paragraph 1](schedule/part/1/crossheading/article-2/paragraph/1.md)
+      - [Sch. part 1 crossheading article-2 paragraph 2](schedule/part/1/crossheading/article-2/paragraph/2.md)
+    - Article 3
+      - [Sch. part 1 crossheading article-3 paragraph 1](schedule/part/1/crossheading/article-3/paragraph/1.md)
+      - [Sch. part 1 crossheading article-3 paragraph 2](schedule/part/1/crossheading/article-3/paragraph/2.md)
+      - [Sch. part 1 crossheading article-3 paragraph 3](schedule/part/1/crossheading/article-3/paragraph/3.md)
+    - Article 4
+    - Article 5
+    - Article 6
+      - [Sch. part 1 crossheading article-6 paragraph 1](schedule/part/1/crossheading/article-6/paragraph/1.md)
+      - [Sch. part 1 crossheading article-6 paragraph 2](schedule/part/1/crossheading/article-6/paragraph/2.md)
+    - Article 7
+      - [Sch. part 1 crossheading article-7 paragraph 1](schedule/part/1/crossheading/article-7/paragraph/1.md)
+      - [Sch. part 1 crossheading article-7 paragraph 2](schedule/part/1/crossheading/article-7/paragraph/2.md)
+    - Article 8
+      - [Sch. part 1 crossheading article-8 paragraph 1](schedule/part/1/crossheading/article-8/paragraph/1.md)
+      - [Sch. part 1 crossheading article-8 paragraph 2](schedule/part/1/crossheading/article-8/paragraph/2.md)
+    - Article 9
+      - [Sch. part 1 crossheading article-9 paragraph 1](schedule/part/1/crossheading/article-9/paragraph/1.md)
+      - [Sch. part 1 crossheading article-9 paragraph 2](schedule/part/1/crossheading/article-9/paragraph/2.md)
+      - [Sch. part 1 crossheading article-9 paragraph 3](schedule/part/1/crossheading/article-9/paragraph/3.md)
+      - [Sch. part 1 crossheading article-9 paragraph 4](schedule/part/1/crossheading/article-9/paragraph/4.md)
+    - Article 10
+      - [Sch. part 1 crossheading article-10 paragraph 1](schedule/part/1/crossheading/article-10/paragraph/1.md)
+      - [Sch. part 1 crossheading article-10 paragraph 2](schedule/part/1/crossheading/article-10/paragraph/2.md)
+    - Article 11
+      - [Sch. part 1 crossheading article-11 paragraph 1](schedule/part/1/crossheading/article-11/paragraph/1.md)
+      - [Sch. part 1 crossheading article-11 paragraph 2](schedule/part/1/crossheading/article-11/paragraph/2.md)
+    - Article 12
+      - [Sch. part 1 crossheading article-12 paragraph 1](schedule/part/1/crossheading/article-12/paragraph/1.md)
+      - [Sch. part 1 crossheading article-12 paragraph 2](schedule/part/1/crossheading/article-12/paragraph/2.md)
+    - Article 13
+      - [Sch. part 1 crossheading article-13 paragraph 1](schedule/part/1/crossheading/article-13/paragraph/1.md)
+      - [Sch. part 1 crossheading article-13 paragraph 2](schedule/part/1/crossheading/article-13/paragraph/2.md)
+    - Article 14
+      - [Sch. part 1 crossheading article-14 paragraph 1](schedule/part/1/crossheading/article-14/paragraph/1.md)
+      - [Sch. part 1 crossheading article-14 paragraph 2](schedule/part/1/crossheading/article-14/paragraph/2.md)
+      - [Sch. part 1 crossheading article-14 paragraph 3](schedule/part/1/crossheading/article-14/paragraph/3.md)
+    - Article 15
+      - [Sch. part 1 crossheading article-15 paragraph 1](schedule/part/1/crossheading/article-15/paragraph/1.md)
+      - [Sch. part 1 crossheading article-15 paragraph 2](schedule/part/1/crossheading/article-15/paragraph/2.md)
+    - Article 16
+      - [Sch. part 1 crossheading article-16 paragraph 1](schedule/part/1/crossheading/article-16/paragraph/1.md)
+      - [Sch. part 1 crossheading article-16 paragraph 2](schedule/part/1/crossheading/article-16/paragraph/2.md)
+    - Article 17
+    - Article 18
+      - [Sch. part 1 crossheading article-18 paragraph 1](schedule/part/1/crossheading/article-18/paragraph/1.md)
+      - [Sch. part 1 crossheading article-18 paragraph 2](schedule/part/1/crossheading/article-18/paragraph/2.md)
+      - [Sch. part 1 crossheading article-18 paragraph 3](schedule/part/1/crossheading/article-18/paragraph/3.md)
+    - Article 19
+      - [Sch. part 1 crossheading article-19 paragraph 1](schedule/part/1/crossheading/article-19/paragraph/1.md)
+      - [Sch. part 1 crossheading article-19 paragraph 2](schedule/part/1/crossheading/article-19/paragraph/2.md)
+    - Article 20
+      - [Sch. part 1 crossheading article-20 paragraph 1](schedule/part/1/crossheading/article-20/paragraph/1.md)
+      - [Sch. part 1 crossheading article-20 paragraph 2](schedule/part/1/crossheading/article-20/paragraph/2.md)
+      - [Sch. part 1 crossheading article-20 paragraph 3](schedule/part/1/crossheading/article-20/paragraph/3.md)
+    - Article 21
+    - Article 22
+      - [Sch. part 1 crossheading article-22 paragraph 1](schedule/part/1/crossheading/article-22/paragraph/1.md)
+      - [Sch. part 1 crossheading article-22 paragraph 2](schedule/part/1/crossheading/article-22/paragraph/2.md)
+    - Article 23
+      - [Sch. part 1 crossheading article-23 paragraph 1](schedule/part/1/crossheading/article-23/paragraph/1.md)
+      - [Sch. part 1 crossheading article-23 paragraph 2](schedule/part/1/crossheading/article-23/paragraph/2.md)
+      - [Sch. part 1 crossheading article-23 paragraph 3](schedule/part/1/crossheading/article-23/paragraph/3.md)
+      - [Sch. part 1 crossheading article-23 paragraph 4](schedule/part/1/crossheading/article-23/paragraph/4.md)
+    - Article 24
+      - [Sch. part 1 crossheading article-24 paragraph 1](schedule/part/1/crossheading/article-24/paragraph/1.md)
+      - [Sch. part 1 crossheading article-24 paragraph 2](schedule/part/1/crossheading/article-24/paragraph/2.md)
+      - [Sch. part 1 crossheading article-24 paragraph 3](schedule/part/1/crossheading/article-24/paragraph/3.md)
+      - [Sch. part 1 crossheading article-24 paragraph 4](schedule/part/1/crossheading/article-24/paragraph/4.md)
+    - Article 25
+    - Article 26
+      - [Sch. part 1 crossheading article-26 paragraph 1](schedule/part/1/crossheading/article-26/paragraph/1.md)
+      - [Sch. part 1 crossheading article-26 paragraph 2](schedule/part/1/crossheading/article-26/paragraph/2.md)
+    - Article 27
+      - [Sch. part 1 crossheading article-27 paragraph 1](schedule/part/1/crossheading/article-27/paragraph/1.md)
+      - [Sch. part 1 crossheading article-27 paragraph 2](schedule/part/1/crossheading/article-27/paragraph/2.md)
+      - [Sch. part 1 crossheading article-27 paragraph 3](schedule/part/1/crossheading/article-27/paragraph/3.md)
+      - [Sch. part 1 crossheading article-27 paragraph 4](schedule/part/1/crossheading/article-27/paragraph/4.md)
+    - Article 28
+      - [Sch. part 1 crossheading article-28 paragraph 1](schedule/part/1/crossheading/article-28/paragraph/1.md)
+      - [Sch. part 1 crossheading article-28 paragraph 2](schedule/part/1/crossheading/article-28/paragraph/2.md)
+      - [Sch. part 1 crossheading article-28 paragraph 3](schedule/part/1/crossheading/article-28/paragraph/3.md)
+    - Article 29
+      - [Sch. part 1 crossheading article-29 paragraph 1](schedule/part/1/crossheading/article-29/paragraph/1.md)
+      - [Sch. part 1 crossheading article-29 paragraph 2](schedule/part/1/crossheading/article-29/paragraph/2.md)
+    - Article 30
+    - Article 31
+      - [Sch. part 1 crossheading article-31 paragraph 1](schedule/part/1/crossheading/article-31/paragraph/1.md)
+      - [Sch. part 1 crossheading article-31 paragraph 2](schedule/part/1/crossheading/article-31/paragraph/2.md)
+    - Article 32
+      - [Sch. part 1 crossheading article-32 paragraph 1](schedule/part/1/crossheading/article-32/paragraph/1.md)
+      - [Sch. part 1 crossheading article-32 paragraph 2](schedule/part/1/crossheading/article-32/paragraph/2.md)
+    - Article 33
+    - Article 34
+    - Article 35
+    - Article 36
+    - Article 37
+    - Article 38
+      - [Sch. part 1 crossheading article-38 paragraph 1](schedule/part/1/crossheading/article-38/paragraph/1.md)
+      - [Sch. part 1 crossheading article-38 paragraph 2](schedule/part/1/crossheading/article-38/paragraph/2.md)
+      - [Sch. part 1 crossheading article-38 paragraph 3](schedule/part/1/crossheading/article-38/paragraph/3.md)
+      - [Sch. part 1 crossheading article-38 paragraph 4](schedule/part/1/crossheading/article-38/paragraph/4.md)
+    - Article 39
+    - Article 40
+      - [Sch. part 1 crossheading article-40 paragraph 1](schedule/part/1/crossheading/article-40/paragraph/1.md)
+      - [Sch. part 1 crossheading article-40 paragraph 2](schedule/part/1/crossheading/article-40/paragraph/2.md)
+      - [Sch. part 1 crossheading article-40 paragraph 3](schedule/part/1/crossheading/article-40/paragraph/3.md)
+      - [Sch. part 1 crossheading article-40 paragraph 4](schedule/part/1/crossheading/article-40/paragraph/4.md)
+    - Article 41
+  - PART 2 PROTOCOLS
+    - OPTIONAL PROTOCOL TO THE CONVENTION ON THE RIGHTS OF THE CHILD ON THE INVOLVEMENT OF CHILDREN IN ARMED CONFLICT
+      - Article 1
+      - Article 2
+      - Article 3
+        - [Sch. part 2 chapter 1 crossheading article-3 paragraph 1](schedule/part/2/chapter/1/crossheading/article-3/paragraph/1.md)
+        - [Sch. part 2 chapter 1 crossheading article-3 paragraph 2](schedule/part/2/chapter/1/crossheading/article-3/paragraph/2.md)
+        - [Sch. part 2 chapter 1 crossheading article-3 paragraph 3](schedule/part/2/chapter/1/crossheading/article-3/paragraph/3.md)
+        - [Sch. part 2 chapter 1 crossheading article-3 paragraph 4](schedule/part/2/chapter/1/crossheading/article-3/paragraph/4.md)
+        - [Sch. part 2 chapter 1 crossheading article-3 paragraph 5](schedule/part/2/chapter/1/crossheading/article-3/paragraph/5.md)
+      - Article 4
+        - [Sch. part 2 chapter 1 crossheading article-4 paragraph 1](schedule/part/2/chapter/1/crossheading/article-4/paragraph/1.md)
+        - [Sch. part 2 chapter 1 crossheading article-4 paragraph 2](schedule/part/2/chapter/1/crossheading/article-4/paragraph/2.md)
+        - [Sch. part 2 chapter 1 crossheading article-4 paragraph 3](schedule/part/2/chapter/1/crossheading/article-4/paragraph/3.md)
+      - Article 5
+      - Article 6
+        - [Sch. part 2 chapter 1 crossheading article-6 paragraph 1](schedule/part/2/chapter/1/crossheading/article-6/paragraph/1.md)
+        - [Sch. part 2 chapter 1 crossheading article-6 paragraph 2](schedule/part/2/chapter/1/crossheading/article-6/paragraph/2.md)
+        - [Sch. part 2 chapter 1 crossheading article-6 paragraph 3](schedule/part/2/chapter/1/crossheading/article-6/paragraph/3.md)
+      - Article 7
+        - [Sch. part 2 chapter 1 crossheading article-7 paragraph 1](schedule/part/2/chapter/1/crossheading/article-7/paragraph/1.md)
+        - [Sch. part 2 chapter 1 crossheading article-7 paragraph 2](schedule/part/2/chapter/1/crossheading/article-7/paragraph/2.md)
+    - OPTIONAL PROTOCOL TO THE CONVENTION ON THE RIGHTS OF THE CHILD ON THE SALE OF CHILDREN, CHILD PROSTITUTION AND CHILD PORNOGRAPHY
+      - Article 1
+      - Article 2
+      - Article 3
+        - [Sch. part 2 chapter 2 crossheading article-3 paragraph 1](schedule/part/2/chapter/2/crossheading/article-3/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-3 paragraph 2](schedule/part/2/chapter/2/crossheading/article-3/paragraph/2.md)
+        - [Sch. part 2 chapter 2 crossheading article-3 paragraph 3](schedule/part/2/chapter/2/crossheading/article-3/paragraph/3.md)
+        - [Sch. part 2 chapter 2 crossheading article-3 paragraph 4](schedule/part/2/chapter/2/crossheading/article-3/paragraph/4.md)
+        - [Sch. part 2 chapter 2 crossheading article-3 paragraph 5](schedule/part/2/chapter/2/crossheading/article-3/paragraph/5.md)
+      - Article 4
+        - [Sch. part 2 chapter 2 crossheading article-4 paragraph 1](schedule/part/2/chapter/2/crossheading/article-4/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-4 paragraph 2](schedule/part/2/chapter/2/crossheading/article-4/paragraph/2.md)
+        - [Sch. part 2 chapter 2 crossheading article-4 paragraph 3](schedule/part/2/chapter/2/crossheading/article-4/paragraph/3.md)
+        - [Sch. part 2 chapter 2 crossheading article-4 paragraph 4](schedule/part/2/chapter/2/crossheading/article-4/paragraph/4.md)
+      - Article 5
+        - [Sch. part 2 chapter 2 crossheading article-5 paragraph 1](schedule/part/2/chapter/2/crossheading/article-5/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-5 paragraph 2](schedule/part/2/chapter/2/crossheading/article-5/paragraph/2.md)
+        - [Sch. part 2 chapter 2 crossheading article-5 paragraph 3](schedule/part/2/chapter/2/crossheading/article-5/paragraph/3.md)
+        - [Sch. part 2 chapter 2 crossheading article-5 paragraph 4](schedule/part/2/chapter/2/crossheading/article-5/paragraph/4.md)
+        - [Sch. part 2 chapter 2 crossheading article-5 paragraph 5](schedule/part/2/chapter/2/crossheading/article-5/paragraph/5.md)
+      - Article 6
+        - [Sch. part 2 chapter 2 crossheading article-6 paragraph 1](schedule/part/2/chapter/2/crossheading/article-6/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-6 paragraph 2](schedule/part/2/chapter/2/crossheading/article-6/paragraph/2.md)
+      - Article 7
+      - Article 8
+        - [Sch. part 2 chapter 2 crossheading article-8 paragraph 1](schedule/part/2/chapter/2/crossheading/article-8/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-8 paragraph 2](schedule/part/2/chapter/2/crossheading/article-8/paragraph/2.md)
+        - [Sch. part 2 chapter 2 crossheading article-8 paragraph 3](schedule/part/2/chapter/2/crossheading/article-8/paragraph/3.md)
+        - [Sch. part 2 chapter 2 crossheading article-8 paragraph 4](schedule/part/2/chapter/2/crossheading/article-8/paragraph/4.md)
+        - [Sch. part 2 chapter 2 crossheading article-8 paragraph 5](schedule/part/2/chapter/2/crossheading/article-8/paragraph/5.md)
+        - [Sch. paragraph 6](schedule/paragraph/6.md)
+      - Article 9
+        - [Sch. part 2 chapter 2 crossheading article-9 paragraph 1](schedule/part/2/chapter/2/crossheading/article-9/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-9 paragraph 2](schedule/part/2/chapter/2/crossheading/article-9/paragraph/2.md)
+        - [Sch. part 2 chapter 2 crossheading article-9 paragraph 3](schedule/part/2/chapter/2/crossheading/article-9/paragraph/3.md)
+        - [Sch. part 2 chapter 2 crossheading article-9 paragraph 4](schedule/part/2/chapter/2/crossheading/article-9/paragraph/4.md)
+        - [Sch. part 2 chapter 2 crossheading article-9 paragraph 5](schedule/part/2/chapter/2/crossheading/article-9/paragraph/5.md)
+      - Article 10
+        - [Sch. part 2 chapter 2 crossheading article-10 paragraph 1](schedule/part/2/chapter/2/crossheading/article-10/paragraph/1.md)
+        - [Sch. part 2 chapter 2 crossheading article-10 paragraph 2](schedule/part/2/chapter/2/crossheading/article-10/paragraph/2.md)
+        - [Sch. part 2 chapter 2 crossheading article-10 paragraph 3](schedule/part/2/chapter/2/crossheading/article-10/paragraph/3.md)
+        - [Sch. part 2 chapter 2 crossheading article-10 paragraph 4](schedule/part/2/chapter/2/crossheading/article-10/paragraph/4.md)
+  - PART 3 DECLARATIONS AND RESERVATIONS
+    - Declarations
