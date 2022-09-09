@@ -1,0 +1,196 @@
+# Landfill Disposals Tax (Wales) Act 2017
+
+anaw/2017/3. Enacted 2017-09-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-09-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2017/3
+
+Source: https://www.legislation.gov.uk/anaw/2017/3/2022-09-09
+
+## Contents
+
+- PART 1 OVERVIEW
+  - [s. 1 Overview of Act](section/1.md)
+- PART 2 THE TAX AND TAXABLE DISPOSALS
+  - CHAPTER 1 LANDFILL DISPOSALS TAX
+    - [s. 2 The tax](section/2.md)
+  - CHAPTER 2 TAXABLE DISPOSALS
+    - [s. 3 Taxable disposals](section/3.md)
+    - [s. 4 Disposal of material by way of landfill](section/4.md)
+    - [s. 5 Authorised landfill sites and environmental permits](section/5.md)
+    - [s. 6 Disposal of material as waste](section/6.md)
+    - [s. 7 Disposal of material as waste: person responsible for disposal](section/7.md)
+    - [s. 8 Landfill site activities to be treated as taxable disposals](section/8.md)
+  - CHAPTER 3 EXEMPT DISPOSALS
+    - [s. 9 Exemptions: general](section/9.md)
+    - [s. 10 Multiple disposals of material at same site](section/10.md)
+    - [s. 11 Pet cemeteries](section/11.md)
+    - [s. 12 Power to modify exemptions](section/12.md)
+- PART 3 TAXABLE DISPOSALS MADE AT AUTHORISED LANDFILL SITES
+  - CHAPTER 1 PERSONS CHARGEABLE TO TAX
+    - [s. 13 Persons chargeable to tax](section/13.md)
+  - CHAPTER 2 TAX CHARGEABLE ON TAXABLE DISPOSALS
+    - Calculation of tax chargeable
+      - [s. 14 Calculation of tax chargeable on taxable disposal](section/14.md)
+    - Qualifying materials and qualifying mixtures of materials
+      - [s. 15 Qualifying material](section/15.md)
+      - [s. 16 Qualifying mixtures of materials](section/16.md)
+      - [s. 17 Qualifying mixture of materials: fines](section/17.md)
+    - Taxable weight of material
+      - [s. 18 Taxable weight of material in taxable disposal](section/18.md)
+      - [s. 19 Calculation of taxable weight of material by operator](section/19.md)
+      - [s. 20 Determination of weight of material by operator](section/20.md)
+      - [s. 21 Discount in respect of water content of material](section/21.md)
+      - [s. 22 Calculation of taxable weight of material by WRA](section/22.md)
+      - [s. 23 Calculation of taxable weight of material by WRA: cases of non-compliance](section/23.md)
+      - [s. 24 Reviews and appeals relating to method for determining weight of material](section/24.md)
+      - [s. 25 Power to modify provision relating to taxable weight of material](section/25.md)
+  - CHAPTER 3 RELIEF FROM TAX
+    - [s. 26 Reliefs: general](section/26.md)
+    - [s. 27 Material removed from bed of river, sea or other water](section/27.md)
+    - [s. 28 Material resulting from mining and quarrying](section/28.md)
+    - [s. 29 Using material in approved site restoration work](section/29.md)
+    - [s. 30 Site restoration work: procedure on application for approval](section/30.md)
+    - [s. 31 Site restoration work: variation of approval](section/31.md)
+    - [s. 32 Refilling open-cast mines and quarries](section/32.md)
+    - [s. 33 Power to modify reliefs](section/33.md)
+  - CHAPTER 4 TAX COLLECTION AND MANAGEMENT
+    - Registration
+      - [s. 34 Register of persons who carry out taxable operations](section/34.md)
+      - [s. 35 Duty to be registered](section/35.md)
+      - [s. 36 Changes and corrections of information](section/36.md)
+      - [s. 37 Cancellation of registration](section/37.md)
+      - [s. 38 Reviews and appeals relating to registration](section/38.md)
+    - Accounting for tax
+      - [s. 39 Duty to make tax return in respect of accounting period](section/39.md)
+      - [s. 40 Power to vary accounting period or filing date](section/40.md)
+      - [s. 41 Tax chargeable in respect of accounting period](section/41.md)
+    - Payment, recovery and repayment of tax
+      - [s. 42 Payment of tax](section/42.md)
+      - [s. 43 Duty to maintain landfill disposals tax summary](section/43.md)
+      - [s. 44 Postponement of recovery](section/44.md)
+      - [s. 45 No requirement to discharge or repay tax unless all tax paid](section/45.md)
+- PART 4 TAXABLE DISPOSALS MADE AT PLACES OTHER THAN AUTHORISED LANDFILL SITES
+  - CHAPTER 1 TAX CHARGEABLE ON TAXABLE DISPOSALS
+    - [s. 46 Calculation of tax chargeable on taxable disposal](section/46.md)
+  - CHAPTER 2 PROCEDURE FOR CHARGING TAX
+    - [s. 47 The charging condition](section/47.md)
+    - [s. 48 Power to issue preliminary notice](section/48.md)
+    - [s. 49 Power to issue charging notice after issuing preliminary notice](section/49.md)
+    - [s. 50 Power to issue charging notice without issuing preliminary notice](section/50.md)
+    - [s. 51 Payment of tax](section/51.md)
+    - [s. 52 Power to make further provision](section/52.md)
+    - [s. 53 Late payment interest](section/53.md)
+- PART 5 SUPPLEMENTARY PROVISION
+  - CHAPTER 1 CHAPTER 1
+    - [s. 54 Power to make provision for tax credits](section/54.md)
+  - CHAPTER 2 NON-DISPOSAL AREAS
+    - [s. 55 Designation of non-disposal area](section/55.md)
+    - [s. 56 Duties of operator in relation to non-disposal area](section/56.md)
+    - [s. 57 Duties to keep and preserve records](section/57.md)
+    - [s. 58 Reviews and appeals relating to designation of non-disposal areas](section/58.md)
+  - CHAPTER 3 INVESTIGATION AND INFORMATION
+    - [s. 59 Powers of inspection](section/59.md)
+    - [s. 60 Disclosure of information to WRA](section/60.md)
+  - CHAPTER 4 PENALTIES UNDER THIS ACT
+    - Penalties relating to calculation of taxable weight of material
+      - [s. 61 Penalty for failure to determine weight properly](section/61.md)
+      - [s. 62 Penalty for applying water discount incorrectly](section/62.md)
+      - [s. 63 Assessment of penalties under sections 61 and 62](section/63.md)
+    - Penalties relating to registration
+      - [s. 64 Penalties for carrying out taxable operations without being registered](section/64.md)
+      - [s. 65 Reasonable excuse for non-compliance](section/65.md)
+      - [s. 66 Penalty for failure to comply with other requirements relating to registration](section/66.md)
+      - [s. 67 Assessment of penalties under sections 64 and 66](section/67.md)
+    - Penalties relating to non-disposal areas
+      - [s. 68 Penalties relating to non-disposal areas](section/68.md)
+      - [s. 69 Assessment of penalties under section 68](section/69.md)
+    - General
+      - [s. 70 Payment of penalties](section/70.md)
+      - [s. 71 Double jeopardy](section/71.md)
+      - [s. 72 Liability of personal representatives](section/72.md)
+      - [s. 73 Power to make regulations about penalties](section/73.md)
+  - CHAPTER 5 ADDITIONAL PENALTIES UNDER THE TAX COLLECTION AND MANAGEMENT (WALES) ACT 2016
+    - [s. 74 Penalties for multiple failures to make tax returns](section/74.md)
+    - [s. 75 Penalty for failure to pay tax on time](section/75.md)
+    - [s. 76 Penalties for multiple failures to pay tax on time](section/76.md)
+  - CHAPTER 6 SPECIAL CASES
+    - Corporate groups
+      - [s. 77 Designation of group of companies](section/77.md)
+      - [s. 78 Conditions for designation as member of group](section/78.md)
+      - [s. 79 Variation or cancellation of designation](section/79.md)
+      - [s. 80 Reviews and appeals relating to designation of groups of companies](section/80.md)
+      - [s. 81 Power to make further provision about designation of groups of companies](section/81.md)
+    - Partnerships and unincorporated bodies
+      - [s. 82 Registration of partnerships and unincorporated bodies and changes in membership](section/82.md)
+      - [s. 83 Duties and liabilities of partnerships and unincorporated bodies](section/83.md)
+      - [s. 84 Power to make further provision about partnerships and unincorporated bodies](section/84.md)
+    - Change in persons carrying on landfill business
+      - [s. 85 Death, incapacity and insolvency](section/85.md)
+      - [s. 86 Power to make further provision about death, incapacity and insolvency](section/86.md)
+      - [s. 87 Power to make provision about transfers of businesses as going concerns](section/87.md)
+  - CHAPTER 7 MISCELLANEOUS
+    - Further provision relating to the tax
+      - [s. 88 Adjustment of contracts](section/88.md)
+      - [s. 89 Power to impose secondary liability on controllers of authorised landfill sites](section/89.md)
+      - [s. 90 Minor and consequential amendments to the Tax Collection and Management (Wales) Act 2016](section/90.md)
+      - [s. 91 Welsh Ministers’ exercise of powers and duties under this Act](section/91.md)
+    - Landfill Disposals Tax Communities Scheme
+      - [s. 92 Landfill Disposals Tax Communities Scheme](section/92.md)
+- PART 6 FINAL PROVISIONS
+  - [s. 93 Power to make consequential and transitional etc. provision](section/93.md)
+  - [s. 94 Regulations under this Act: general](section/94.md)
+  - [s. 95 Regulations changing tax rates](section/95.md)
+  - [s. 96 Interpretation](section/96.md)
+  - [s. 97 Coming into force](section/97.md)
+  - [s. 98 Short title](section/98.md)
+- SCHEDULE 1 QUALIFYING MATERIAL: SPECIFIED MATERIALS AND CONDITIONS
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Interpretation
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 CONTENTS OF REGISTER
+  - General information
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Representative members of corporate groups: additional information about group
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Partnerships and unincorporated bodies: additional information about members
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Interpretation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 CONTENTS OF LANDFILL INVOICE
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 MINOR AND CONSEQUENTIAL AMENDMENTS TO THE TAX COLLECTION AND MANAGEMENT (WALES) ACT 2016
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
