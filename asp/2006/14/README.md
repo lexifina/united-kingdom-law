@@ -1,0 +1,114 @@
+# Local Electoral Administration and Registration Services (Scotland) Act 2006
+
+asp/2006/14. Enacted 2006-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-09-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2006/14/2022-09-24
+
+## Contents
+
+- Part 1 Local government elections
+  - Performance of returning officers in relation to elections etc.
+    - [s. 1 Setting of performance standards](section/1.md)
+    - [s. 2 Returns and reports on performance standards](section/2.md)
+    - [s. 3 Provision of information about expenditure on elections](section/3.md)
+    - [s. 4 Correction of procedural errors](section/4.md)
+  - Access to election documents
+    - [s. 5 Access to election documents](section/5.md)
+    - [s. 6 Access to election documents: contravention of regulations](section/6.md)
+    - [s. 7 Access to election documents: supplementary](section/7.md)
+  - Observers
+    - [s. 8 Observers: individuals](section/8.md)
+    - [s. 9 Observers: organisations](section/9.md)
+    - [s. 10 Attendance of observers](section/10.md)
+    - [s. 11 Code of practice on attendance of observers at elections etc.](section/11.md)
+  - False information
+    - [s. 12 False information in applications relating to absent voting](section/12.md)
+    - [s. 13 False information in nomination papers etc.](section/13.md)
+  - Offences relating to voting
+    - [s. 14 Undue influence](section/14.md)
+    - [s. 15 Offences relating to applications for postal and proxy votes](section/15.md)
+  - Election expenses
+    - [s. 16 Prohibition of expenses not authorised by election agent](section/16.md)
+    - [s. 17 Meaning of election expenses for the purposes of the 1983 Act](section/17.md)
+    - [s. 18 Financial limits applying to candidates’ election expenses](section/18.md)
+    - [s. 19 Return as to election expenses](section/19.md)
+  - Anonymous entries
+    - [s. 20 Anonymous registration: miscellaneous amendments](section/20.md)
+  - Personal identifiers
+    - [s. 21 Absent vote applications: provision of personal identifiers](section/21.md)
+    - [s. 22 Provision of fresh signatures](section/22.md)
+    - [s. 23 Disclosure of personal identifiers](section/23.md)
+    - [s. 24 Power to require existing absent voters to provide personal identifiers](section/24.md)
+  - Photographs on ballot papers: piloting
+    - [s. 25 Photographs on ballot papers: piloting](section/25.md)
+  - Encouraging electoral participation
+    - [s. 26 Encouraging electoral participation](section/26.md)
+  - Miscellaneous
+    - [s. 27 Tendered votes in certain circumstances](section/27.md)
+    - [s. 28 Election campaigns and proceedings: miscellaneous amendments](section/28.md)
+    - [s. 29 Details to appear on election publications](section/29.md)
+    - [s. 30 Repeal of reference to Maundy Thursday](section/30.md)
+    - [s. 31 Translations etc. of certain documents](section/31.md)
+    - [s. 32 Certain voters entitled to vote in person](section/32.md)
+    - [s. 33 Power to make regulations as to preparation of special lists and records etc.](section/33.md)
+    - [s. 34 Miscellaneous amendments](section/34.md)
+  - General
+    - [s. 35 Part 1: minor and consequential modifications](section/35.md)
+    - [s. 36 Interpretation of Part 1](section/36.md)
+- Part 2 Registration services
+  - Reorganisation of local registration services
+    - [s. 37 Registration districts and authorities](section/37.md)
+    - [s. 38 Registration offices: opening times](section/38.md)
+  - Registration of births and deaths
+    - [s. 39 Registration of births](section/39.md)
+    - [s. 40 Registration of still-births](section/40.md)
+    - [s. 41 Re-registration of births](section/41.md)
+    - [s. 42 Registration of deaths](section/42.md)
+  - Registration information
+    - [s. 43 Registers kept by district registrars](section/43.md)
+    - [s. 44 Indexing of registers and provision of registration information](section/44.md)
+    - [s. 45 Correction of errors in registers](section/45.md)
+    - [s. 46 Recording change of name or surname](section/46.md)
+  - Other amendments of the 1965 Act
+    - [s. 47 Other amendments of the 1965 Act](section/47.md)
+  - Marriages and civil partnerships: procedure
+    - [s. 48 Marriage procedure: marriages at sea](section/48.md)
+    - [s. 49 Marriage procedure: miscellaneous amendments](section/49.md)
+    - [s. 50 Marriage procedure: electronic communications](section/50.md)
+    - [s. 51 Civil partnership procedure: registrations at sea](section/51.md)
+    - [s. 52 Civil partnership procedure: miscellaneous amendments](section/52.md)
+    - [s. 53 Provision of information about civil partnerships for certain purposes: fees](section/53.md)
+  - Recording of events relating to persons outwith Scotland
+    - [s. 54 Recording of certain events in Book of Scottish Connections](section/54.md)
+    - [s. 55 Keeping of, and access to, the Book of Scottish Connections](section/55.md)
+  - Other provisions about information held by Registrar General
+    - [s. 56 Provision of registration information to public bodies and office-holders](section/56.md)
+    - [s. 57 Keeping of central register for health and local authority purposes](section/57.md)
+    - [s. 58 Issuing of other material kept or held by Registrar General](section/58.md)
+  - General
+    - [s. 59 Part 2: minor and consequential modifications](section/59.md)
+    - [s. 60 Interpretation of Part 2](section/60.md)
+- Part 3 General
+  - [s. 61 Orders and regulations](section/61.md)
+  - [s. 62 Ancillary provision](section/62.md)
+  - [s. 63 Short title and commencement](section/63.md)
+- SCHEDULE 1 Schedule to be inserted before Schedule 5 to the 1983 Act
+- SCHEDULE 2 Part 1: minor and consequential modifications
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Scottish Local Government (Elections) Act 2002 (asp 1)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
