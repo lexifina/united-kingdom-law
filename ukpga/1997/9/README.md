@@ -1,0 +1,187 @@
+# Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997
+
+1997 c. 9. Enacted 1997-02-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/9
+
+Source: https://www.legislation.gov.uk/ukpga/1997/9/2022-10-01
+
+## Contents
+
+- Part I Listed Buildings
+  - Chapter I Listing of Special Buildings
+    - [s. 1 Listing of buildings of special architectural or historic interest.](section/1.md)
+    - [s. 1A Publication of lists and notification of listing etc.](section/1A.md)
+    - [s. 2 Publication of lists.](section/2.md)
+    - [s. 3 Temporary listing: building preservation notices.](section/3.md)
+    - [s. 4 Temporary listing in urgent cases.](section/4.md)
+    - [s. 5 Provisions applicable on lapse of building preservation notice.](section/5.md)
+    - [s. 5A Certificate that building not intended to be listed](section/5A.md)
+    - [s. 5B Appeal against listing of buildings](section/5B.md)
+    - [s. 5C Determination of appeals under section 5B](section/5C.md)
+    - [s. 5D Procedure for appeals under section 5B](section/5D.md)
+  - Chapter II Authorisation of Works Affecting Listed Buildings
+    - Control of works in respect of listed buildings
+      - [s. 6 Restriction on works affecting listed buildings.](section/6.md)
+      - [s. 7 Authorisation of works: listed building consent.](section/7.md)
+      - [s. 8 Offences.](section/8.md)
+    - Applications for listed building consent
+      - [s. 9 Making of applications for listed building consent.](section/9.md)
+      - [s. 10 Certificates as to interests in listed building etc.](section/10.md)
+      - [s. 10A Declining to determine an application](section/10A.md)
+      - [s. 11 Reference of certain applications to Secretary of State.](section/11.md)
+      - [s. 12 Duty to notify Secretary of State of applications.](section/12.md)
+      - [s. 13 Directions concerning notification of applications etc.](section/13.md)
+      - [s. 14 Decision on application.](section/14.md)
+    - Grant of consent subject to conditions
+      - [s. 15 Power to impose conditions on grant of listed building consent.](section/15.md)
+      - [s. 16 Limit of duration of listed building consent.](section/16.md)
+      - [s. 17 Application for variation or discharge of conditions.](section/17.md)
+    - Appeals
+      - [s. 18 Right to appeal against decision or failure to take decision.](section/18.md)
+      - [s. 19 Appeals: supplementary provisions.](section/19.md)
+      - [s. 20 Determination of appeals.](section/20.md)
+    - Revocation and modification of consent
+      - [s. 21 Revocation and modification of listed building consent by planning authority.](section/21.md)
+      - [s. 22 Procedure for section 21 orders: opposed cases.](section/22.md)
+      - [s. 23 Procedure for section 21 orders: unopposed cases.](section/23.md)
+      - [s. 24 Revocation and modification of listed building consent by Secretary of State.](section/24.md)
+  - Chapter III Rights of Owners etc.
+    - Compensation
+      - [s. 25 Compensation where listed building consent revoked or modified.](section/25.md)
+      - [s. 26 Compensation for loss or damage caused by service of building preservation notice.](section/26.md)
+      - [s. 27 General provisions as to compensation for depreciation under this Part.](section/27.md)
+    - Listed building purchase notices
+      - [s. 28 Purchase notice on refusal or conditional grant of listed building consent.](section/28.md)
+      - [s. 28A Purchase notices: Crown land](section/28A.md)
+      - [s. 29 Action by planning authority on whom listed building purchase notice served.](section/29.md)
+      - [s. 30 Procedure on reference of listed building purchase notice to Secretary of State.](section/30.md)
+      - [s. 31 Action by Secretary of State in relation to listed building purchase notice.](section/31.md)
+      - [s. 32 Effect of Secretary of State’s action in relation to listed building purchase notice.](section/32.md)
+      - [s. 33 Reduction of compensation on acquisition where section 25 compensation payable.](section/33.md)
+  - Chapter IV Enforcement
+    - [s. 34 Power to issue listed building enforcement notice.](section/34.md)
+    - [s. 35 Appeal against listed building enforcement notice.](section/35.md)
+    - [s. 36 Appeals: supplementary provisions.](section/36.md)
+    - [s. 37 Determination of appeals under section 35.](section/37.md)
+    - [s. 38 Execution of works required by listed building enforcement notice.](section/38.md)
+    - [s. 39 Offence where listed building enforcement notice not complied with.](section/39.md)
+    - [s. 39A Fixed penalty notice where listed building enforcement notice not complied with](section/39A.md)
+    - [s. 40 Effect of listed building consent on listed building enforcement notice.](section/40.md)
+    - [s. 41 Enforcement by Secretary of State.](section/41.md)
+    - Stop notices
+      - [s. 41A Stop notices](section/41A.md)
+      - [s. 41B Stop notices: supplementary provisions](section/41B.md)
+      - [s. 41C Power of the Scottish Ministers to serve stop notice](section/41C.md)
+      - [s. 41D Compensation for loss due to stop notice](section/41D.md)
+      - [s. 41E Penalties for contravention of stop notice](section/41E.md)
+    - Temporary stop notices
+      - [s. 41F Temporary stop notices](section/41F.md)
+      - [s. 41G Temporary stop notices: restrictions](section/41G.md)
+      - [s. 41H Temporary stop notices: offences](section/41H.md)
+      - [s. 41I Temporary stop notices: compensation](section/41I.md)
+  - Chapter V Prevention of Deterioration and Damage
+    - Compulsory acquisition of listed building in need of repair
+      - [s. 42 Compulsory acquisition of listed building in need of repair.](section/42.md)
+      - [s. 43 Repairs notice as preliminary to acquisition under section 42.](section/43.md)
+      - [s. 44 Compensation on compulsory acquisition of listed building.](section/44.md)
+      - [s. 45 Minimum compensation in case of listed building deliberately left derelict.](section/45.md)
+      - [s. 46 Ending of rights over land compulsorily acquired.](section/46.md)
+    - Acquisition by agreement
+      - [s. 47 Acquisition of land by agreement.](section/47.md)
+    - Management of acquired buildings
+      - [s. 48 Management of listed buildings acquired under this Act.](section/48.md)
+    - Urgent preservation
+      - [s. 49 Urgent works to preserve unoccupied listed buildings.](section/49.md)
+      - [s. 50 Recovery of expenses of works under section 49.](section/50.md)
+    - Liability of owner and successors for expenses of works executed under section 49
+      - [s. 50A Liability of owner and successors for expenses of works executed under section 49](section/50A.md)
+      - [s. 50B Notice of liability for expenses: further provision](section/50B.md)
+      - [s. 50C Notices of renewal](section/50C.md)
+      - [s. 50D Notice of determination following representations under section 50](section/50D.md)
+      - [s. 50E Discharge of notice of liability for expenses and notice of renewal](section/50E.md)
+      - [s. 50F Meaning of “register” in relation to notices](section/50F.md)
+      - [s. 50G Power to prescribe forms](section/50G.md)
+    - Grants for repair and maintenance
+      - [s. 51 Power of local authority to contribute to preservation of listed buildings etc.](section/51.md)
+      - [s. 52 Recovery of grants under section 51.](section/52.md)
+    - Damage to listed buildings
+      - [s. 53 Acts causing or likely to result in damage to listed buildings.](section/53.md)
+  - Chapter VI Miscellaneous and Supplemental
+    - Exceptions for church buildings and ancient monuments
+      - [s. 54 Exceptions for ecclesiastical buildings.](section/54.md)
+      - [s. 55 Exceptions for ancient monuments etc.](section/55.md)
+    - Local authority notices and works affecting listed buildings
+      - [s. 56 Intimation of local authority notices etc. affecting listed buildings.](section/56.md)
+    - Validity of instruments, decisions and proceedings
+      - [s. 57 Validity of certain orders and decisions.](section/57.md)
+      - [s. 58 Proceedings for questioning validity of other orders, decisions and directions.](section/58.md)
+    - Special considerations affecting planning functions
+      - [s. 59 General duty as respects listed buildings in exercise of planning functions.](section/59.md)
+      - [s. 60 Publicity for applications affecting setting of listed buildings.](section/60.md)
+- Part II Conservation Areas
+  - Designation
+    - [s. 61 Designation of conservation areas.](section/61.md)
+    - [s. 62 Designation of conservation areas: supplementary provisions.](section/62.md)
+  - General duties of planning authorities
+    - [s. 63 Proposals for preservation and enhancement of conservation areas.](section/63.md)
+    - [s. 64 General duty as respects conservation areas in exercise of planning functions.](section/64.md)
+    - [s. 65 Publicity for applications affecting conservation areas.](section/65.md)
+  - Control of demolition
+    - [s. 66 Control of demolition in conservation areas.](section/66.md)
+    - [s. 67 Cases in which section 66 does not apply.](section/67.md)
+    - [s. 68 Urgent works to preserve unoccupied buildings in conservation areas.](section/68.md)
+  - Grants
+    - [s. 69 Grants and loans for preservation or enhancement of conservation areas.](section/69.md)
+    - [s. 70 Recovery of grants under section 69.](section/70.md)
+  - Town schemes
+    - [s. 71 Town scheme agreements.](section/71.md)
+    - [s. 72 Grants for repairing of buildings in town schemes.](section/72.md)
+- Part III General
+  - Special cases
+    - [s. 73 Application of Act to land and works of planning authorities.](section/73.md)
+    - [s. 73A Application to the Crown](section/73A.md)
+    - [s. 73B Urgent works relating to Crown land: application](section/73B.md)
+    - [s. 73C Expressions relating to the Crown](section/73C.md)
+    - [s. 73D Enforcement in relation to the Crown](section/73D.md)
+    - [s. 73E Reference to an interest in land](section/73E.md)
+    - [s. 73F Applications for listed building or conservation area consent by Crown](section/73F.md)
+    - [s. 74 Exercise of powers in relation to Crown land.](section/74.md)
+    - [s. 75 Application for listed building or conservation area consent in anticipation of disposal of Crown land.](section/75.md)
+  - Miscellaneous provisions
+    - [s. 76 Rights of entry.](section/76.md)
+    - [s. 77 Power to issue warrant.](section/77.md)
+    - [s. 78 Rights of entry: supplementary provisions.](section/78.md)
+    - [s. 78A Rights of entry: Crown land](section/78A.md)
+    - [s. 79 Application of certain general provisions of principal Act.](section/79.md)
+    - [s. 80 Financial provisions.](section/80.md)
+- Part IV Supplemental
+  - [s. 81 Interpretation.](section/81.md)
+  - [s. 82 Regulations and orders.](section/82.md)
+  - [s. 83 Short title, commencement and extent.](section/83.md)
+- SCHEDULE 1 Buildings formerly subject to building preservation orders
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Lapse of building preservation notice
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Determination of certain appeals by person appointed by Secretary of State
+  - Determination of appeals by appointed person
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Powers and duties of appointed person
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Determination of appeals by Secretary of State
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Appointment of another person to determine appeal
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Local inquiries and hearings
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Supplementary provisions
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- TABLE OF DERIVATIONS
