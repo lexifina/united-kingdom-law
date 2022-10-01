@@ -1,0 +1,345 @@
+# Judicial Pensions and Retirement Act 1993
+
+1993 c. 8. Enacted 1993-03-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/8
+
+Source: https://www.legislation.gov.uk/ukpga/1993/8/2022-10-01
+
+## Contents
+
+- Part I New Arrangements for Judicial Pensions
+  - Application of Part I
+    - [s. 1 Persons to whom this Part applies.](section/1.md)
+  - Pensions for judicial officers
+    - [s. 2 The judicial officer’s entitlement to a pension.](section/2.md)
+    - [s. 3 The appropriate annual rate.](section/3.md)
+  - Derivative benefits
+    - [s. 4 Lump sum on the judicial officer’s retirement or death.](section/4.md)
+    - [s. 5 Surviving spouse’s and surviving civil partner’s pension.](section/5.md)
+    - [s. 6 Grant and payment of a children’s pension.](section/6.md)
+    - [s. 7 Children’s pension: meaning of “period of childhood and full-time education”.](section/7.md)
+    - [s. 8 Rate of children’s pension.](section/8.md)
+    - [s. 9 Contribution towards cost of surviving spouse’s, surviving civil partner’s and children’s pension.](section/9.md)
+  - Contributions
+    - [s. 9A Contributions towards cost of judicial pension etc](section/9A.md)
+  - Additional voluntary contributions
+    - [s. 10 Additional benefits from voluntary contributions.](section/10.md)
+  - Relationship with other pension schemes
+    - [s. 11 Provision against pensions under two or more judicial pension schemes.](section/11.md)
+    - [s. 12 Transfer of rights under judicial pension schemes.](section/12.md)
+    - [s. 12A Transfer of rights under other public service pension schemes](section/12A.md)
+    - [s. 12B Rate of pension etc. where rights transferred under section 12 or 12A](section/12B.md)
+    - [s. 13 Election for personal pension instead of judicial pension.](section/13.md)
+  - Supplemental provisions
+    - [s. 14 Application of this Part to holders of the office of Lord Chancellor.](section/14.md)
+    - [s. 15 Circuit judges: the Recorder of London and the Common Serjeant.](section/15.md)
+    - [s. 16 Disregard of abatement of pension under s.65 of the Social Security Act 1973 etc.](section/16.md)
+    - [s. 17 Effect of certain nullity decrees.](section/17.md)
+    - [s. 18 Continuity of tax treatment.](section/18.md)
+- PART 1A FEE-PAID JUDGES
+  - [s. 18A Pension scheme for fee-paid judges](section/18A.md)
+- Part II Miscellaneous, General and Supplementary Provisions
+  - Additional benefits in respect of disregarded earnings
+    - [s. 19 Benefits in respect of earnings in excess of pension-capped salary.](section/19.md)
+  - General provisions connected with the new schemes
+    - [s. 20 Appeals.](section/20.md)
+    - [s. 21 Pensions payable to judicial officers etc. by local authorities in England and Wales.](section/21.md)
+    - [s. 22 Application of the Pensions (Increase) Act 1971.](section/22.md)
+    - [s. 23 Transfer of accrued benefits.](section/23.md)
+    - [s. 23A Pension credits](section/23A.md)
+    - [s. 24 Corresponding minor amendments to other enactments.](section/24.md)
+  - Pensions for senior public investigative officers
+    - [s. 25 The Comptroller and Auditor General and the Parliamentary and Health Service Commissioners etc.](section/25.md)
+  - Retirement date for certain judicial officers etc
+    - [s. 26 Retirement date for holders of certain judicial offices etc.](section/26.md)
+    - [s. 27 Completion of proceedings after retirement.](section/27.md)
+  - Miscellaneous and supplementary provisions
+    - [s. 28 Payments charged on Consolidated Fund etc.](section/28.md)
+    - [s. 28A Northern Ireland](section/28A.md)
+    - [s. 29 Regulations and orders.](section/29.md)
+    - [s. 30 Interpretation.](section/30.md)
+    - [s. 31 Short title, supplementary provisions and extent.](section/31.md)
+- SCHEDULE 1 The offices which may be qualifying judicial offices
+  - Part I Judges
+  - Part II Other appointments
+    - Court officers
+    - Members of tribunals
+    - Other offices whose holders are appointed by the Lord Chancellor
+    - Other offices
+- SCHEDULE 1A SURVIVING CIVIL PARTNER’S PENSION: TRANSITIONAL PROVISIONS
+  - The commencement date
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Service wholly before the commencement date
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Service partly before and partly on the commencement date
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+- SCHEDULE 2 Transfer of accrued benefits
+  - Part I General
+    - Interpretation
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Regulations
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Other provisions about transfer values
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part II Transfers out
+    - Qualifying members
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Qualifying member’s right to a transfer payment
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Method of taking cash benefit
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Calculation of cash equivalents
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Time within which option must be exercised
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Option to be exercised in writing
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Cancellation of exercise of option
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part III Transfers in
+    - Application to accept payment into scheme
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Cancellation of request
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Regulations
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 2A PENSION CREDITS
+  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+- SCHEDULE 3 Corresponding minor amendments to other pensions enactments
+  - Part I Amendments of the 1981 Act
+    - Dependent children: maximum allowable remuneration
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Appeals
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Additional voluntary contributions
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part II Amendment of the Sheriffs’ Pensions (Scotland) Act 1961
+    - Appeals
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part III Amendments of Northern Ireland Provisions
+    - Interpretation
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Dependent children: maximum allowable remuneration
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Appeals
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Additional voluntary contributions
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Pensions for senior public investigative officers
+  - Part I The Comptroller and Auditor General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Part II The Parliamentary Commissioner for Administration
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Part III The Health Service Commissioners
+    - The Health Service Commissioners for England and for Wales
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - The Health Service Commissioner for Scotland
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part IV The Comptroller and Auditor General for Northern Ireland
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part V The Northern Ireland Parliamentary Commissioner for Administration and the Northern Ireland Commissioner for Complaints
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Retirement provisions: the relevant offices
+- SCHEDULE 6 Retirement dates for certain judicial offices
+  - The Judicial Committee of the Privy Council
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Lords of Appeal
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Lords of Appeal in Ordinary and senior judges in Scotland and Northern Ireland
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Judges of the Supreme Court
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Acting and deputy judges
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Temporary Judges of the Court of Session
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Acting judges of the High Court or Court of Appeal in Northern Ireland
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Circuit judges
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Recorders, deputy Circuit judges and assistant Recorders
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Sheriffs
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Temporary sheriffs
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - County Court Judge in Northern Ireland
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Deputy judge of a county court in Northern Ireland
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Officers of the Supreme Court
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Deputy and temporary officers of the Supreme Court
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Deputy district judges of district registries of the High Court
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - District judges and deputy district judges of county courts
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Statutory officers in Northern Ireland
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Stipendiary magistrates in England and Wales
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Resident Magistrates in Northern Ireland
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - Social security: Commissioners, and the President and chairmen of appeal tribunals
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Social security: Commissioners, and the President and chairmen of appeal tribunals in Northern Ireland
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Child support: Commissioners and chairmen of appeal tribunals
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Chairmen of child support appeal tribunals in Northern Ireland
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Chairman of the Foreign Compensation Commission
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - Commons Commissioners
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - President and chairmen of employment tribunals
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - President, Vice-President and chairmen of industrial tribunals and of the Fair Employment Tribunal
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+  - President of the Industrial Court in Northern Ireland
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+  - Members of the Employment Appeal Tribunal
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+  - The Lands Tribunal and the Lands Tribunal for Scotland
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+  - The Lands Tribunal for Northern Ireland
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+  - Judge Advocate of Her Majesty’s Fleet
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+  - Judge Advocate General and related offices
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+  - Value added tax tribunals
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+  - Special, and deputy Special, Commissioners for Income Tax
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+  - President or other member of the Immigration Appeal Tribunal
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+  - Immigration adjudicators
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+  - Pensions Appeal Tribunals
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+  - Mental Health Review Tribunals
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+  - The Financial Services Tribunal
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+  - Tribunals and advisory bodies under the Misuse of Drugs Act 1971
+    - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+  - Restrictive Practices Court
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+  - Tribunals constituted under section 706 of the Income and Corporation Taxes Act 1988
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+  - Arbitrator appointed under the Agricultural Holdings Act 1986
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+  - Agricultural Land Tribunals
+    - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+  - The Aircraft and Shipbuilding Industries Arbitration Tribunal
+    - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+  - Chairman of a tribunal established by section 29 of the Betting, Gaming and Lotteries Act 1963
+    - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+  - The Copyright Tribunal
+    - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+  - The Data Protection Tribunal
+    - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+  - Independent Schools Tribunals
+    - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+  - President of a tribunal constituted under Schedule 3 to the Industry Act 1975
+    - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+  - Tribunal constituted under Schedule 9 to the National Health Service Act 1977
+    - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+  - Chairman of the Plant Varieties and Seeds Tribunal
+    - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+  - Chairman of a Registered Homes Tribunal
+    - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+  - Rent Assessment Committees
+    - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+  - The Transport Tribunal
+    - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+  - Tribunal established under section 9 of the Wireless Telegraphy Act 1949
+    - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+  - Wreck commissioner
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+  - Chairman of a Reinstatement Committee
+    - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+  - Tribunals constituted for the purposes of section 150(4) of the Mines and Quarries Act 1954
+    - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+  - Courts of inquiry under section 52 of the Merchant Shipping Act 1970
+    - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+  - Chairman of a vaccine damage tribunal in Northern Ireland
+    - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+  - Chairman of a tribunal constituted under section 47 of the Building Societies Act 1986
+    - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+  - Chairman of a tribunal constituted under section 28 of the Banking Act 1987
+    - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+  - Arbitrators appointed under Schedule 10 to the Electricity Act 1989
+    - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+  - Chairman of a tribunal constituted under Schedule 3 to the Education (Schools) Act 1992
+    - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+  - Chairman of a tribunal constituted under section 59 of the Friendly Societies Act 1992
+    - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+- SCHEDULE 7 Retirement dates: transitional provisions
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Salaried offices
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Fee-paid offices
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Persons holding a relevant office by virtue of a continuation power
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Ascertainment of potential retirement date
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Minor and consequential amendments
+  - The Courts-Martial (Appeals) Act 1951
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The County Courts Act (Northern Ireland) 1959
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Resident Magistrates’ Pensions Act (Northern Ireland) 1960
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - The Foreign Compensation Act 1962
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - The Lands Tribunal and Compensation Act (Northern Ireland) 1964
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - The Superannuation Act 1965
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - The Superannuation (Miscellaneous Provisions) Act (Northern Ireland) 1969
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - The Taxes Management Act 1970
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - The Immigration Act 1971
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - The Administration of Justice Act 1973
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - The Social Security (Northern Ireland) Act 1975
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - The Social Security Pensions Act 1975
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - The Social Security Pensions (Northern Ireland) Order 1975
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - The Judicature (Northern Ireland) Act 1978
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - The Supreme Court Act 1981
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - The Value Added Tax Act 1983
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - The County Courts Act 1984
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - The Social Security Act 1986
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - The Social Security (Northern Ireland) Order 1986
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - The Criminal Justice Act 1988
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - The Child Support Act 1991
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - The Child Support (Northern Ireland) Order 1991
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - The Social Security Administration Act 1992
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - The Social Security Administration (Northern Ireland) Act 1992
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+- SCHEDULE 9 Repeals and revocations
