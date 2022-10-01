@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-07-31, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-07-31
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-10-01
 
 ## Contents
 
@@ -374,6 +374,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-07-31
     - [s. 277B Restrictions on onward disclosure of information](section/277B.md)
     - [s. 277C Directions to certain bodies to exercise functions under this Chapter](section/277C.md)
     - [s. 277D Arrangements with third parties](section/277D.md)
+  - CHAPTER 4 Enforcement
+    - [s. 277E Enforcement of provisions under this Part](section/277E.md)
+    - [s. 277F Directions to Special Health Authority to exercise functions under section 277E](section/277F.md)
 - PART 10 Abolition of certain public bodies etc
   - [s. 278 The Alcohol Education and Research Council](section/278.md)
   - [s. 279 The Appointments Commission](section/279.md)
