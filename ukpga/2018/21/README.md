@@ -2,9 +2,9 @@
 
 2018 c. 21. Enacted 2018-07-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-01, one file per provision. Earlier versions, from 2018-07-19, are in the history before it: `git log -- ukpga/2018/21` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-25, one file per provision. Earlier versions, from 2018-07-19, are in the history before it: `git log -- ukpga/2018/21` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/21/2022-06-01
+Source: https://www.legislation.gov.uk/ukpga/2018/21/2022-10-25
 
 ## Contents
 
@@ -18,7 +18,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/21/2022-06-01
 - Review and termination
   - [s. 6 Review of level at which cap is set](section/6.md)
   - [s. 7 Review of competition for domestic supply contracts](section/7.md)
-  - [s. 8 Extension and termination of tariff cap conditions](section/8.md)
+  - [s. 8 Termination of tariff cap conditions](section/8.md)
 - Protection for customers after termination
   - [s. 9 Protection for domestic customers after termination of tariff cap conditions](section/9.md)
 - Consequential modification of conditions
