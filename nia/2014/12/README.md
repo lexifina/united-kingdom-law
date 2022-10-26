@@ -1,0 +1,124 @@
+# Education Act (Northern Ireland) 2014
+
+nia/2014/12. Enacted 2014-12-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2014/12/2022-10-26
+
+## Contents
+
+- The Education Authority
+  - [s. 1 The Education Authority](section/1.md)
+  - [s. 2 Functions of the Authority](section/2.md)
+  - [s. 3 Dissolution of education and library boards and Staff Commission](section/3.md)
+- Funding of sectoral bodies
+  - [s. 4 Funding of sectoral bodies](section/4.md)
+- Supplementary provisions
+  - [s. 5 Amendments, repeals and other consequential provision](section/5.md)
+  - [s. 6 Interpretation](section/6.md)
+  - [s. 7 Short title and commencement](section/7.md)
+- SCHEDULE 1 The Education Authority
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Political members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Chair and appointed members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remuneration and allowances of members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Officers
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration, allowances and pensions of officers
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Application of seal and documents
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Finance
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Accounts
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Annual report
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Other reports and returns
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Commissioner for Complaints
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Freedom of information
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Interpretation
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Transfer of assets, liabilities and staff of dissolved bodies
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Transfer of assets and liabilities
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Transfer of employed staff
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - References to, and acts, etc. done by, or in relation to, a dissolved body
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Amendments
+  - The Education Orders - general amendment of references to education and library boards
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The School Sites Act (Northern Ireland) 1928 (c. 8)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Exchequer and Financial Provisions Act (Northern Ireland) 1950 (c. 3)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Superannuation (Northern Ireland) Order 1972 (NI 10)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Health and Personal Social Services (Northern Ireland) Order 1972 (NI 14)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Solicitors (Northern Ireland) Order 1976 (NI 12)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Rates (Northern Ireland) Order 1977 (NI 28)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Education and Libraries (Northern Ireland) Order 1986 (NI 3)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Disabled Persons (Northern Ireland) Act 1989 (c. 10)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Education Reform (Northern Ireland) Order 1989 (NI 20)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Youth Service (Northern Ireland) Order 1989 (NI 22)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Disability Discrimination Act 1995 (c. 50)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Children (Northern Ireland) Order 1995 (NI 2)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Education (Northern Ireland) Order 1996 (NI 1)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - The Employment Rights (Northern Ireland) Order 1996 (NI 16)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Race Relations (Northern Ireland) Order 1997 (NI 6)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Further Education (Northern Ireland) Order 1997 (NI 15)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The Museums and Galleries (Northern Ireland) Order 1998 (NI 2)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Education (Northern Ireland) Order 1998 (NI 13)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Education (Student Support) (Northern Ireland) Order 1998 (NI 14)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Education and Libraries (Northern Ireland) Order 2003 (NI 12)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Higher Education (Northern Ireland) Order 2005 (NI 5)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Special Educational Needs and Disability (Northern Ireland) 2005 (NI 6)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - The Education (Northern Ireland) Order 2006 (NI 11)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - The Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (NI 11)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - The Safeguarding Board Act (Northern Ireland) 2011 (c. 7)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+- SCHEDULE 4 Repeals
