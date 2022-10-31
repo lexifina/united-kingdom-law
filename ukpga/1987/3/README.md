@@ -1,0 +1,135 @@
+# Coal Industry Act 1987
+
+1987 c. 3. Enacted 1987-03-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1987/3
+
+Source: https://www.legislation.gov.uk/ukpga/1987/3/2022-10-31
+
+## Contents
+
+- British Coal Corporation
+  - [s. 1 British Coal Corporation.](section/1.md)
+- Grants to the Corporation
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Grants for workforce redeployment and reduction, etc.](section/3.md)
+  - [s. 4 Pit closure grants: cessation and transitional provisions.](section/4.md)
+- Participation by representative organisations
+  - [s. 5 Coal industry trusts.](section/5.md)
+  - [s. 6 Other social welfare bodies.](section/6.md)
+  - [s. 7 Superannuation schemes, etc.](section/7.md)
+  - [s. 8 Proceedings for questioning validity of orders under sections 6 and 7.](section/8.md)
+- Supplementary
+  - [s. 9 Interpretation.](section/9.md)
+  - [s. 10 Short title, commencement, repeals and extent.](section/10.md)
+- SCHEDULE 1 British Coal Corporation: Consequential Amendments
+  - The Coal Industry Nationalisation Act 1946
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Coal Industry Act 1949
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Miners’ Welfare Act 1952
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Landlord and Tenant Act 1954
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The Coal-Mining (Subsidence) Act 1957
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - The Public Records Act 1958
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The Opencast Coal Act 1958
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Coal Industry Act 1962
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - The Licensing Act 1964
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The Continental Shelf Act 1964
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - The Coal Industry Act 1965
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - The Mines (Working Facilities and Support) Act 1966
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - The Building Control Act 1966
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - The Industrial Development Act 1966
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - The National Coal Board (Additional Powers) Act 1966
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Coal Industry Act 1967
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - The Gaming Act 1968
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - The Coal Industry Act 1971
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - The Town and Country Planning Act 1971
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - The Town and Country Planning (Scotland) Act 1972
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - The Coal Industry Act 1973
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - The Local Government Act 1974
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - The Control of Pollution Act 1974
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - The House of Commons Disqualification Act 1975
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - The Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - The Local Government (Scotland) Act 1975
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - The Statutory Corporations (Financial Provisions) Act 1975
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - The Coal Industry Act 1975
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - The Welsh Development Agency Act 1975
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - The National Coal Board (Finance) Act 1976
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - The Land Drainage Act 1976
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - The Development of Rural Wales Act 1976
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - The Coal Industry Act 1977
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - The Ancient Monuments and Archaeological Areas Act 1979
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - The Coal Industry Act 1980
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - The Overseas Development and Co-operation Act 1980
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - The Local Government, Planning and Land Act 1980
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - The Highways Act 1980
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - The Acquisition of Land Act 1981
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - The Coal Industry Act 1982
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - The Iron and Steel Act 1982
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - The Civic Government (Scotland) Act 1982
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+  - The National Audit Act 1983
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - The Housing Defects Act 1984
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+  - The Roads (Scotland) Act 1984
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+  - The Housing Act 1985
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+  - The Weights and Measures Act 1985
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+  - The Agricultural Holdings Act 1986
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+- SCHEDULE 2 Section 3 Grants: Eligible Expenditure
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Repeals
+  - Part I Pit Closure Grants
+  - Part II Other Repeals
