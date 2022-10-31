@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-07-01, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-10-31, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-10-31
 
 ## Contents
 
@@ -98,11 +98,10 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
   - Cy-près powers and variation of charters
     - [s. 61 Duty of trustees in relation to application of property cy-près](section/61.md)
     - [s. 62 Occasions for applying property cy-près](section/62.md)
-    - [s. 63 Application cy-près: donor unknown or disclaiming](section/63.md)
-    - [s. 64 Donors treated as unidentifiable](section/64.md)
-    - [s. 65 Donors treated as disclaiming](section/65.md)
-    - [s. 66 Unknown and disclaiming donors: supplementary](section/66.md)
+    - [s. 63 Failure of specific charitable purposes: application cy-près](section/63.md)
+    - [s. 66 Section 63A: supplementary](section/66.md)
     - [s. 67 Cy-près schemes](section/67.md)
+    - [s. 67A Proceeds of fund-raising: power of charity trustees to apply cy-près](section/67A.md)
     - [s. 68 Charities governed by charter, or by or under statute](section/68.md)
   - Powers of Commission to make schemes etc.
     - [s. 69 Commission’s concurrent jurisdiction with High Court for certain purposes](section/69.md)
@@ -112,6 +111,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
     - [s. 73 Powers to make schemes altering provision made by Acts, etc.](section/73.md)
     - [s. 74 Restriction on expenditure on promoting Bills](section/74.md)
     - [s. 75 Further powers to alter application of charitable property](section/75.md)
+  - Power of the court and the Commission to make schemes
+    - [s. 75ZA Power of the court and the Commission to make schemes](section/75ZA.md)
   - Powers of Commission to act for protection of charities etc.
     - [s. 75A Official warnings by the Commission](section/75A.md)
     - [s. 76 Suspension of trustees etc. and appointment of interim managers](section/76.md)
@@ -270,9 +271,9 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
     - [s. 184 Civil consequences of acting while disqualified](section/184.md)
     - [s. 184A Sections 183 and 184: participation in corporate decisions](section/184A.md)
   - Remuneration of charity trustees and trustees etc.
-    - [s. 185 Remuneration of charity trustees or trustees etc. providing services to charity](section/185.md)
+    - [s. 185 Remuneration of charity trustees or trustees etc. providing goods or services to charity](section/185.md)
     - [s. 186 Disqualification of charity trustee or trustee receiving remuneration under s.185](section/186.md)
-    - [s. 187 Meaning of “benefit”, “remuneration”, “services” etc.](section/187.md)
+    - [s. 187 Meaning of “benefit”, “remuneration”...etc.](section/187.md)
     - [s. 188 Meaning of “connected person”](section/188.md)
   - Indemnity insurance for charity trustees and trustees
     - [s. 189 Indemnity insurance for charity trustees and trustees](section/189.md)
@@ -396,6 +397,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
     - [s. 278 S.275 resolution not to take effect or to take effect at a later date](section/278.md)
     - [s. 279 Replacement of purposes in accordance with s.275](section/279.md)
     - [s. 280 Power to modify powers or procedures of unincorporated charity](section/280.md)
+  - Charity established etc by Royal charter: general power to amend
+    - [s. 280C Power to amend Royal charter](section/280C.md)
   - Powers of unincorporated charities to spend capital
     - [s. 281 Power of unincorporated charities to spend capital: general](section/281.md)
     - [s. 282 Resolution to spend larger fund given for particular purpose](section/282.md)
@@ -458,6 +461,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
     - [s. 322 Reviewable matters](section/322.md)
     - [s. 323 Remission of matters to Commission](section/323.md)
     - [s. 324 Power to amend provisions relating to appeals and applications to Tribunal](section/324.md)
+    - [s. 324A Power to authorise costs to be incurred in relation to proceedings](section/324A.md)
   - CHAPTER 3 References to Tribunal
     - [s. 325 References by Commission](section/325.md)
     - [s. 326 References by Attorney General](section/326.md)
@@ -471,6 +475,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2022-07-01
     - [s. 332 Manner of giving notice of charity meetings, etc.](section/332.md)
     - [s. 333 Conferral of authority to execute documents](section/333.md)
     - [s. 334 Transfer and evidence of title to property vested in trustees](section/334.md)
+  - Trustee of charitable trust: status as trust corporation
+    - [s. 334A Status of certain trustees of charitable trusts](section/334A.md)
   - Enforcement powers of Commission etc.
     - [s. 335 Enforcement of requirements by order of Commission](section/335.md)
     - [s. 336 Enforcement of orders of Commission](section/336.md)
