@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-07-30, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-11-01, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-07-30
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-11-01
 
 ## Contents
 
@@ -677,6 +677,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-07-30
     - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
     - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
     - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 18A](schedule/7/paragraph/18A.md)
     - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
     - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
   - Other authorities with investigatory functions
@@ -1586,7 +1587,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2022-07-30
     - Avoidance under this Act of certain contractual terms relating to health records
       - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
   - PART 3 The UK GDPR and Part 2 of this Act
-    - Exemptions from the GDPR: restrictions of rules in Articles 13 to 15 of the GDPR
+    - Exemptions from the UK GDPR: restrictions of rules in Articles 13 to 15 of the UK GDPR
       - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
     - Manual unstructured data held by FOI public authorities
       - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
