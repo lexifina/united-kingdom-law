@@ -1,0 +1,127 @@
+# Insolvency (Amendment) Act (Northern Ireland) 2016
+
+nia/2016/2. Enacted 2016-01-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-11-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2016/2
+
+Source: https://www.legislation.gov.uk/nia/2016/2/2022-11-04
+
+## Contents
+
+- Provisions relating to communication
+  - [s. 1 Attendance at meetings and use of websites](section/1.md)
+  - [s. 2 References to things in writing](section/2.md)
+- Requirements relating to meetings
+  - [s. 3 Removal of requirement for annual meetings in a members’ voluntary and a creditors’ voluntary winding up](section/3.md)
+  - [s. 4 Requirements in relation to meetings under Articles 81 and 84 of the Insolvency Order](section/4.md)
+- Reports in individual voluntary arrangements
+  - [s. 5 Individual voluntary arrangements: removal of requirement to submit a nominee’s report to the High Court](section/5.md)
+  - [s. 6 Fast-track voluntary arrangements: notification of the Department](section/6.md)
+- Powers of liquidator and trustee
+  - [s. 7 Powers of liquidator exercisable with or without sanction in a winding up](section/7.md)
+  - [s. 8 Powers of trustee exercisable with or without sanction in a bankruptcy](section/8.md)
+- Miscellaneous
+  - [s. 9 Definition of debt](section/9.md)
+  - [s. 10 Treatment of liabilities relating to contracts of employment](section/10.md)
+  - [s. 11 Deeds of arrangement](section/11.md)
+  - [s. 12 Bankruptcy: early discharge procedure](section/12.md)
+  - [s. 13 After-acquired property of bankrupt](section/13.md)
+  - [s. 14 Authorisation of insolvency practitioners](section/14.md)
+  - [s. 15 Regulatory objectives](section/15.md)
+  - [s. 16 Oversight of recognised professional bodies](section/16.md)
+  - [s. 17 Recognised professional bodies: revocation of recognition](section/17.md)
+  - [s. 18 Court sanction of insolvency practitioners in public interest cases](section/18.md)
+  - [s. 19 Power for Department to obtain information](section/19.md)
+  - [s. 20 Compliance orders](section/20.md)
+- Power to establish single regulator of insolvency practitioners
+  - [s. 21 Power to establish single regulator of insolvency practitioners](section/21.md)
+  - [s. 22 Regulations under section 21: designation of existing body](section/22.md)
+  - [s. 23 Power to make regulations](section/23.md)
+  - [s. 24 Company arrangement or administration provision to apply to a credit union](section/24.md)
+  - [s. 25 Disqualification from office: duty to consult the Lord Chief Justice](section/25.md)
+- Supplementary
+  - [s. 26 Interpretation](section/26.md)
+  - [s. 27 Transitional provisions, minor and consequential amendments and repeals](section/27.md)
+  - [s. 28 Commencement](section/28.md)
+  - [s. 29 Short title](section/29.md)
+- SCHEDULE 1 SINGLE REGULATOR OF INSOLVENCY PRACTITIONERS: SUPPLEMENTARY PROVISION
+  - Operation of this Schedule
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Name, members and chair
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Remuneration etc.
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Staff
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Proceedings
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Fees
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Consultation
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Training and other services
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Report and accounts
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Funding
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Financial penalties
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Status etc.
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Transfer schemes
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Additional provision where body is unincorporated association
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 TRANSITIONAL PROVISIONS
+  - Requirements relating to meetings
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Reports in individual voluntary arrangements
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Powers of liquidator
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Powers of trustee
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Definition of debt
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Authorisation of insolvency practitioners
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - The Solicitors (Northern Ireland) Order 1976 (NI 12)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Insolvency (Northern Ireland) Order 1989 (NI 19)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - The Pensions (Northern Ireland) Order 2005 (NI 1)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Insolvency (Northern Ireland) Order 2005 (NI 10)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 REPEALS
