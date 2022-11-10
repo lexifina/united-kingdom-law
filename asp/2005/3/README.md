@@ -1,0 +1,122 @@
+# Water Services etc. (Scotland) Act 2005
+
+asp/2005/3. Enacted 2005-03-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-11-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2005/3/2022-11-10
+
+## Contents
+
+- Part 1 Water Industry Commission and Customer Panels
+  - [s. 1 Water Industry Commission for Scotland](section/1.md)
+  - [s. 2 Dissolution of office of Commissioner](section/2.md)
+  - [s. 3 Customer Panels](section/3.md)
+- Part 2 Provision of water and sewerage services
+  - Offences
+    - [s. 4 Public water supply system: offences](section/4.md)
+    - [s. 5 Public sewerage system: offences](section/5.md)
+  - Licensing of services to eligible premises
+    - [s. 6 Licence authorisation](section/6.md)
+    - [s. 7 Granting of licences](section/7.md)
+    - [s. 8 Compliance with licences](section/8.md)
+    - [s. 9 Fees relating to licences](section/9.md)
+    - [s. 10 Licensed providers to give information](section/10.md)
+    - [s. 11 Participation of licensed providers](section/11.md)
+    - [s. 11A Complaints about licensed providers](section/11A.md)
+    - [s. 12 Licences and compliance: further provision](section/12.md)
+  - Scottish Water: water and sewerage services undertaking
+    - [s. 13 Water and sewerage services undertaking](section/13.md)
+    - [s. 14 Financing, borrowing and guarantees](section/14.md)
+    - [s. 15 Transfer of staff etc. to the undertaking](section/15.md)
+  - Scottish Water: services via licensed providers
+    - [s. 16 Scottish Water to provide services](section/16.md)
+    - [s. 17 Continuation of water services](section/17.md)
+    - [s. 18 Discontinuation of water services](section/18.md)
+    - [s. 19 Disconnections code](section/19.md)
+    - [s. 20 Continuation and discontinuation of sewerage services](section/20.md)
+  - Contractual matters
+    - [s. 20A Deemed contracts](section/20A.md)
+    - [s. 20B Commission’s scheme](section/20B.md)
+    - [s. 20C Notification of occupancy](section/20C.md)
+    - [s. 20D Liability for charges](section/20D.md)
+  - Scottish Water: charges and functions
+    - [s. 21 Scottish Water’s charges for water and sewerage services](section/21.md)
+    - [s. 22 Scottish Water’s functions: powers of the Scottish Ministers](section/22.md)
+    - [s. 23 Determinations relating to provision of services](section/23.md)
+    - [s. 24 Qualification of duty to provide services](section/24.md)
+  - Sewerage nuisance: code of practice
+    - [s. 25 Sewerage nuisance: code of practice](section/25.md)
+    - [s. 26 Monitoring and enforcement](section/26.md)
+  - Definitions for Part
+    - [s. 27 Meaning of “eligible premises”](section/27.md)
+    - [s. 28 Meaning of “public water supply system”](section/28.md)
+    - [s. 29 Meaning of “public sewerage system”](section/29.md)
+- Part 3 Coal mine water pollution
+  - [s. 30 Control of water from coal mines](section/30.md)
+- Part 4 Miscellaneous and general
+  - Miscellaneous
+    - [s. 31 Offences by bodies corporate and partnerships](section/31.md)
+    - [s. 32 Amendments to enactments](section/32.md)
+    - [s. 33 Ancillary provision](section/33.md)
+  - General
+    - [s. 34 Orders and regulations](section/34.md)
+    - [s. 35 Interpretation](section/35.md)
+    - [s. 36 Crown application](section/36.md)
+    - [s. 37 Short title and commencement](section/37.md)
+- SCHEDULE 1 Water Industry Commission for Scotland
+- SCHEDULE 2 Licences and compliance: further provision
+  - Application for licence
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Applications forwarded by the Water Services Regulation Authority
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Applications forwarded to the Water Services Regulation Authority
+    - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+  - Conditions of licence
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Conditions: sustainable development
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Transfer of licence
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Powers of entry etc.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Powers of entry etc.: further provision
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Warrants
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Enforcement notices
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Enforcement notices: offences
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Revocation of licences
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Penalties for contravention of licence
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Register of licences
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Certain pre-existing agreements as to charges
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Powers of entry under the Coal Industry Act 1994
+- SCHEDULE 5 Amendments to enactments
+  - Sewerage (Scotland) Act 1968 (c. 47)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Water (Fluoridation) Act 1985 (c. 63)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Public Finance and Accountability (Scotland) Act 2000 (asp 1)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Water Industry (Scotland) Act 2002 (asp 3)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
