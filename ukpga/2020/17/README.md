@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-08-01, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2022-11-29, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-08-01
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-11-29
 
 ## Contents
 
@@ -528,6 +528,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2022-08-01
       - [s. 345 Sexual harm prevention order: availability on conviction](section/345.md)
       - [s. 346 Exercise of power to make sexual harm prevention order](section/346.md)
       - [s. 347 Sexual harm prevention orders: matters to be specified](section/347.md)
+      - [s. 347A Sexual harm prevention orders: requirements included in order etc.](section/347A.md)
       - [s. 348 Sexual harm prevention orders: prohibitions on foreign travel](section/348.md)
       - [s. 349 Making of sexual harm prevention order: effect on other orders](section/349.md)
       - [s. 350 Sexual harm prevention orders: variations, renewals and discharges](section/350.md)
