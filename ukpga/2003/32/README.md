@@ -1,0 +1,348 @@
+# Crime (International Co-operation) Act 2003
+
+2003 c. 32. Enacted 2003-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 40 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/32
+
+Source: https://www.legislation.gov.uk/ukpga/2003/32/2022-11-30
+
+## Contents
+
+- Part 1 Mutual assistance in criminal matters
+  - Chapter 1 Mutual service of process etc.
+    - Service of overseas process in the UK
+      - [s. 1 Service of overseas process](section/1.md)
+      - [s. 2 Service of overseas process: supplementary](section/2.md)
+    - Service of UK process abroad
+      - [s. 3 General requirements for service of process](section/3.md)
+      - [s. 4 Service of process otherwise than by post](section/4.md)
+      - [s. 5 General requirements for effecting Scottish citation etc.](section/5.md)
+      - [s. 6 Effecting Scottish citation etc. otherwise than by post](section/6.md)
+  - Chapter 2 Mutual provision of evidence
+    - Assistance in obtaining evidence abroad
+      - [s. 7 Requests for assistance in obtaining evidence abroad](section/7.md)
+      - [s. 8 Sending requests for assistance](section/8.md)
+      - [s. 9 Use of evidence obtained](section/9.md)
+      - [s. 10 Domestic freezing orders](section/10.md)
+      - [s. 11 Sending freezing orders](section/11.md)
+      - [s. 12 Variation or revocation of freezing orders](section/12.md)
+    - Assisting overseas authorities to obtain evidence in the UK
+      - [s. 13 Requests for assistance from overseas authorities](section/13.md)
+      - [s. 14 Powers to arrange for evidence to be obtained](section/14.md)
+      - [s. 15 Nominating a court etc. to receive evidence](section/15.md)
+      - [s. 16 Extension of statutory search powers in England and Wales and Northern Ireland](section/16.md)
+      - [s. 17 Warrants in England and Wales or Northern Ireland](section/17.md)
+      - [s. 18 Warrants in Scotland](section/18.md)
+      - [s. 19 Seized evidence](section/19.md)
+    - Overseas freezing orders
+      - [s. 20 Overseas freezing orders](section/20.md)
+      - [s. 21 Considering the order](section/21.md)
+      - [s. 22 Giving effect to the order](section/22.md)
+      - [s. 23 Postponed effect](section/23.md)
+      - [s. 24 Evidence seized under the order](section/24.md)
+      - [s. 25 Release of evidence held under the order](section/25.md)
+    - General
+      - [s. 26 Powers under warrants](section/26.md)
+      - [s. 27 Exercise of powers by others](section/27.md)
+      - [s. 28 Interpretation of Chapter 2](section/28.md)
+  - Chapter 3 Hearing evidence through television links or by telephone
+    - [s. 29 Hearing witnesses abroad through video or audio links](section/29.md)
+    - [s. 30 Hearing witnesses in the UK through television links](section/30.md)
+    - [s. 31 Hearing witnesses in the UK by telephone](section/31.md)
+  - Chapter 4 Information about banking transactions
+    - Requests for information about banking transactions in England and Wales and Northern Ireland for use abroad
+      - [s. 32 Customer information](section/32.md)
+      - [s. 33 Making, varying or discharging customer information orders](section/33.md)
+      - [s. 34 Offences](section/34.md)
+      - [s. 35 Account information](section/35.md)
+      - [s. 36 Making, varying or discharging account monitoring orders](section/36.md)
+    - Requests for information about banking transactions in Scotland for use abroad
+      - [s. 37 Customer information](section/37.md)
+      - [s. 38 Making, varying or discharging customer information orders](section/38.md)
+      - [s. 39 Offences](section/39.md)
+      - [s. 40 Account information](section/40.md)
+      - [s. 41 Making, varying or discharging account monitoring orders](section/41.md)
+    - Disclosure of information
+      - [s. 42 Offence of disclosure](section/42.md)
+    - Requests for information about banking transactions for use in UK
+      - [s. 43 Information about a person’s bank account](section/43.md)
+      - [s. 44 Monitoring banking transactions](section/44.md)
+      - [s. 45 Sending requests for assistance](section/45.md)
+    - General
+      - [s. 46 Interpretation of Chapter 4](section/46.md)
+  - Chapter 5 Transfer of prisoners
+    - [s. 47 Transfer of UK prisoner to assist investigation abroad](section/47.md)
+    - [s. 48 Transfer of EU etc. prisoner to assist UK investigation](section/48.md)
+  - Chapter 6 Supplementary
+    - [s. 49 Rules of court](section/49.md)
+    - [s. 50 Subordinate legislation](section/50.md)
+    - [s. 51 General interpretation](section/51.md)
+- Part 2 Terrorist acts and threats: jurisdiction
+  - [s. 52 Jurisdiction for terrorist offences](section/52.md)
+  - [s. 53 Jurisdiction for offence under section 113 of the Anti-terrorism, Crime and Security Act 2001](section/53.md)
+- Part 3 Road traffic
+  - Chapter 1 Mutual recognition of driving disqualification in UK and Republic of Ireland
+    - Road traffic offences in UK
+      - [s. 54 Application of section 55](section/54.md)
+      - [s. 55 Duty to give notice to Republic of Ireland of UK driving disqualification](section/55.md)
+    - Road traffic offences in Republic of Ireland
+      - [s. 56 Application of section 57](section/56.md)
+      - [s. 57 Recognition in United Kingdom of Republic of Ireland driving disqualification](section/57.md)
+      - [s. 58 Notice under section 57](section/58.md)
+    - Appeals
+      - [s. 59 Appeal against disqualification](section/59.md)
+      - [s. 60 Power of appellate courts in England and Wales to suspend disqualification](section/60.md)
+      - [s. 61 Power of appellate courts in Scotland to suspend disqualification](section/61.md)
+      - [s. 62 Power of appellate courts in Northern Ireland to suspend disqualification](section/62.md)
+    - Production of licence
+      - [s. 63 Production of licence: Great Britain](section/63.md)
+      - [s. 64 Production of licence: Northern Ireland](section/64.md)
+      - [s. 65 Production of licence: Community licence holders](section/65.md)
+    - Disqualification
+      - [s. 66 Effect of disqualification by virtue of section 57](section/66.md)
+      - [s. 67 Rule for determining end of period of disqualification](section/67.md)
+    - Endorsement
+      - [s. 68 Endorsement of driving record: Great Britain](section/68.md)
+      - [s. 69 Endorsement of licence: Northern Ireland](section/69.md)
+    - General
+      - [s. 70 Duty of appropriate Minister to inform competent authority](section/70.md)
+      - [s. 71 Notices](section/71.md)
+      - [s. 71A The specified agreement on driving disqualifications](section/71A.md)
+      - [s. 72 Regulations: Great Britain](section/72.md)
+      - [s. 73 Regulations: Northern Ireland](section/73.md)
+      - [s. 74 Interpretation](section/74.md)
+      - [s. 75 Application to Crown](section/75.md)
+  - Chapter 2 Mutual recognition within the United Kingdom etc.
+    - [s. 76 Recognition in Great Britain of disqualifications in Northern Ireland etc.](section/76.md)
+    - [s. 77 Endorsement of counterparts issued to Northern Ireland licence holders](section/77.md)
+    - [s. 78 Prohibition on holding or obtaining Great Britain and Northern Ireland licences](section/78.md)
+    - [s. 79 Disability and prospective disability](section/79.md)
+- Part 4 Miscellaneous
+  - Information
+    - [s. 80 Disclosure of information by SFO](section/80.md)
+    - [s. 81 Inspection of overseas information systems](section/81.md)
+    - [s. 82 Driver licensing information](section/82.md)
+  - Cross-border surveillance
+    - [s. 83 Foreign surveillance operations](section/83.md)
+    - [s. 84 Assaults on foreign officers](section/84.md)
+    - [s. 85 Liability in respect of foreign officers](section/85.md)
+  - Extradition
+    - [s. 86 Schengen-building provisions of the 1996 Extradition Convention](section/86.md)
+    - [s. 87 States in relation to which 1995 and 1996 Extradition Conventions not in force](section/87.md)
+  - False monetary instruments
+    - [s. 88 False monetary instruments: England and Wales and Northern Ireland](section/88.md)
+    - [s. 89 False monetary instruments: Scotland](section/89.md)
+  - Freezing of terrorist property
+    - [s. 90 Freezing of terrorist property](section/90.md)
+- Part 5 Final provisions
+  - Chapter 1 Amendments and repeals
+    - [s. 91 Amendments and repeals](section/91.md)
+  - Chapter 2 Miscellaneous
+    - [s. 92 Northern Ireland](section/92.md)
+    - [s. 93 Supplementary and consequential provision](section/93.md)
+    - [s. 94 Commencement](section/94.md)
+    - [s. 95 Extent](section/95.md)
+    - [s. 96 Short title](section/96.md)
+- SCHEDULE 1 Proceedings of a nominated court under section 15
+  - Securing attendance of witnesses
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Power to administer oaths
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proceedings
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Privilege of witnesses
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Forwarding evidence
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Supplementary
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 1A Listed offences within section 28(5)(a)
+- SCHEDULE 1B Certificate under section 11(4) or 20(5): specified information
+  - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+  - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+  - [Sch. 1B para. 4](schedule/1B/paragraph/4.md)
+  - [Sch. 1B para. 5](schedule/1B/paragraph/5.md)
+  - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+  - [Sch. 1B para. 7](schedule/1B/paragraph/7.md)
+  - [Sch. 1B para. 8](schedule/1B/paragraph/8.md)
+- SCHEDULE 1B Certificate under section 11(4) or 20(5): specified information
+  - [Sch. 1B para. 1n1](schedule/1B/paragraph/1n1.md)
+  - [Sch. 1B para. 2n1](schedule/1B/paragraph/2n1.md)
+  - [Sch. 1B para. 3n1](schedule/1B/paragraph/3n1.md)
+  - [Sch. 1B para. 4n1](schedule/1B/paragraph/4n1.md)
+  - [Sch. 1B para. 5n1](schedule/1B/paragraph/5n1.md)
+  - [Sch. 1B para. 6n1](schedule/1B/paragraph/6n1.md)
+  - [Sch. 1B para. 7n1](schedule/1B/paragraph/7n1.md)
+  - [Sch. 1B para. 8n1](schedule/1B/paragraph/8n1.md)
+  - [Sch. 1B para. 9](schedule/1B/paragraph/9.md)
+- SCHEDULE 2 Evidence given by television link or telephone
+  - Part 1 Evidence given by television link
+    - Securing attendance of witnesses
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Conduct of hearing
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Privilege of witness
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Record of hearing
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part 2 Evidence given by telephone
+    - Notification of witness
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Conduct of hearing
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Offences for the purposes of section 54: Great Britain
+  - Part 1 Offences where order of disqualification for a minimum period unnecessary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part 2 Offences where order of disqualification for minimum period necessary
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 3A Offences for the purposes of section 54: Northern Ireland
+  - PART 1 Offences where order of disqualification for a minimum period unnecessary
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - PART 2 Offences where order of disqualification for a minimum period necessary
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+- SCHEDULE 3B Offences for the purposes of section 56: Republic of Ireland
+  - PART 1 Offences where order of disqualification for a minimum period unnecessary
+    - [Sch. 3B para. 1](schedule/3B/paragraph/1.md)
+  - PART 2 Offences where order of disqualification for a minimum period necessary
+    - [Sch. 3B para. 2](schedule/3B/paragraph/2.md)
+- SCHEDULE 4 Terrorist property: freezing orders
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - The Internationally Protected Persons Act 1978 (c. 17)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Suppression of Terrorism Act 1978 (c. 26)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/ 154 (N.I. 1))
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Nuclear Material (Offences) Act 1983 (c. 18)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - The Child Abduction Act 1984 (c. 37)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - The Criminal Justice Act 1987 (c. 38)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - The Criminal Justice Act 1988 (c. 33)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - The Road Traffic Act 1988 (c. 52)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - The Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+  - The Criminal Justice (Evidence, Etc.) (Northern Ireland) Order 1988 (S.I. 1988/1847 (N.I. 17))
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+  - The Criminal Justice (International Co-operation) Act 1990 (c. 5)
+    - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+  - The Road Traffic (New Drivers) Act 1995 (c. 13)
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+    - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+    - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+    - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+    - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+    - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+    - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+    - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+    - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+    - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
+    - [Sch. 5 para. 56](schedule/5/paragraph/56.md)
+    - [Sch. 5 para. 57](schedule/5/paragraph/57.md)
+    - [Sch. 5 para. 58](schedule/5/paragraph/58.md)
+    - [Sch. 5 para. 59](schedule/5/paragraph/59.md)
+    - [Sch. 5 para. 60](schedule/5/paragraph/60.md)
+  - The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+    - [Sch. 5 para. 61](schedule/5/paragraph/61.md)
+    - [Sch. 5 para. 62](schedule/5/paragraph/62.md)
+    - [Sch. 5 para. 63](schedule/5/paragraph/63.md)
+  - The Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 5 para. 64](schedule/5/paragraph/64.md)
+    - [Sch. 5 para. 65](schedule/5/paragraph/65.md)
+  - The United Nations Personnel Act 1997 (c. 13)
+    - [Sch. 5 para. 66](schedule/5/paragraph/66.md)
+    - [Sch. 5 para. 67](schedule/5/paragraph/67.md)
+  - The Data Protection Act 1998 (c. 29)
+    - [Sch. 5 para. 68](schedule/5/paragraph/68.md)
+    - [Sch. 5 para. 69](schedule/5/paragraph/69.md)
+    - [Sch. 5 para. 70](schedule/5/paragraph/70.md)
+    - [Sch. 5 para. 71](schedule/5/paragraph/71.md)
+  - The Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 5 para. 72](schedule/5/paragraph/72.md)
+    - [Sch. 5 para. 73](schedule/5/paragraph/73.md)
+    - [Sch. 5 para. 74](schedule/5/paragraph/74.md)
+  - The Terrorism Act 2000 (c. 11)
+    - [Sch. 5 para. 75](schedule/5/paragraph/75.md)
+    - [Sch. 5 para. 76](schedule/5/paragraph/76.md)
+    - [Sch. 5 para. 77](schedule/5/paragraph/77.md)
+  - The Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 5 para. 78](schedule/5/paragraph/78.md)
+    - [Sch. 5 para. 79](schedule/5/paragraph/79.md)
+    - [Sch. 5 para. 80](schedule/5/paragraph/80.md)
+  - The Armed Forces Act 2001 (c. 19)
+    - [Sch. 5 para. 81](schedule/5/paragraph/81.md)
+  - The Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 5 para. 82](schedule/5/paragraph/82.md)
+    - [Sch. 5 para. 83](schedule/5/paragraph/83.md)
+- SCHEDULE 6 Repeals
