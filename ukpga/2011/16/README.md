@@ -1,0 +1,219 @@
+# Energy Act 2011
+
+2011 c. 16. Enacted 2011-10-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2022-12-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2011/16/2022-12-01
+
+## Contents
+
+- Part 1 Energy efficiency
+  - CHAPTER 1 Green deal
+    - Introductory
+      - [s. 1 Green deal plans](section/1.md)
+      - [s. 2 Green deal plans: supplementary](section/2.md)
+      - [s. 3 Framework regulations](section/3.md)
+    - Green deal plan
+      - [s. 4 Assessment of property etc](section/4.md)
+      - [s. 5 Terms of plan etc](section/5.md)
+      - [s. 6 Consents and redress etc](section/6.md)
+      - [s. 7 Installation of improvements](section/7.md)
+      - [s. 8 Confirmation of plan](section/8.md)
+      - [s. 9 Confirmation of plan: supplementary provision for England and Wales](section/9.md)
+      - [s. 10 Confirmation of plan: supplementary provision for Scotland](section/10.md)
+      - [s. 11 Updating information produced under section 8](section/11.md)
+    - Disclosure of green deal plan etc
+      - [s. 12 Disclosure of green deal plan etc in connection with sale or letting out](section/12.md)
+      - [s. 13 Disclosure of green deal plan in connection with other transactions etc](section/13.md)
+      - [s. 14 Acknowledgment of green deal plan on sale or letting out](section/14.md)
+      - [s. 15 Acknowledgment of green deal plan in connection with other transactions etc](section/15.md)
+      - [s. 16 Sanctions for non-compliance with obligations under sections 12 to 15](section/16.md)
+    - Modifying energy licences
+      - [s. 17 Power to modify energy licences in connection with green deal payments](section/17.md)
+      - [s. 18 Power to modify energy supply licences to make provision as to default in green deal payments](section/18.md)
+      - [s. 19 Power to modify energy supply licences to require provision of information](section/19.md)
+      - [s. 20 Power to modify energy supply licences to make provision as to consumer protection](section/20.md)
+      - [s. 21 Powers under sections 17 to 20: consultation](section/21.md)
+      - [s. 22 Powers under sections 17 to 20: supplementary](section/22.md)
+    - Gas and electricity codes
+      - [s. 23 Recovering green deal payments: gas suppliers](section/23.md)
+      - [s. 24 Recovering green deal payments: electricity suppliers](section/24.md)
+    - Modifying consumer credit legislation
+      - [s. 25 Exemption from Consumer Credit Act 1974 in relation to credit to business debtors](section/25.md)
+      - [s. 26 Energy suppliers not to be treated as carrying on ancillary credit business](section/26.md)
+      - [s. 27 Duties to give debtors information and statements](section/27.md)
+      - [s. 28 Exemption from requirement to give notice of sums in arrears](section/28.md)
+      - [s. 29 Early repayment of green deal finance](section/29.md)
+      - [s. 30 Power to amend Consumer Credit Act 1974](section/30.md)
+    - Delegation and exercise of functions
+      - [s. 31 Delegation and conferring of functions](section/31.md)
+      - [s. 32 Exercise of scheme functions on behalf of the Secretary of State or a public body](section/32.md)
+      - [s. 33 Duty to report](section/33.md)
+    - General
+      - [s. 34 Power of Secretary of State to deal with special circumstances](section/34.md)
+      - [s. 35 Appeals](section/35.md)
+      - [s. 36 Funding for energy efficiency advice](section/36.md)
+      - [s. 37 Preparatory expenditure: framework regulations](section/37.md)
+      - [s. 38 Green deal installation apprenticeships](section/38.md)
+      - [s. 39 Parliamentary procedure in relation to code of practice](section/39.md)
+      - [s. 40 Regulations and orders](section/40.md)
+      - [s. 41 Crown application: Chapter 1](section/41.md)
+  - CHAPTER 2 Private rented sector: England and Wales
+    - Introductory
+      - [s. 42 Meaning of “domestic PR property” and “non-domestic PR property”: England and Wales](section/42.md)
+    - Domestic energy efficiency regulations
+      - [s. 43 Domestic energy efficiency regulations](section/43.md)
+      - [s. 44 Further provision about domestic energy efficiency regulations](section/44.md)
+      - [s. 45 Sanctions for the purposes of domestic energy efficiency regulations](section/45.md)
+    - Tenants’ energy efficiency improvements regulations
+      - [s. 46 Tenants’ energy efficiency improvements regulations](section/46.md)
+      - [s. 47 Further provision about tenants’ energy efficiency improvements regulations](section/47.md)
+      - [s. 48 Sanctions for the purposes of tenants’ energy efficiency improvements regulations](section/48.md)
+    - Non-domestic energy efficiency regulations
+      - [s. 49 Non-domestic energy efficiency regulations](section/49.md)
+      - [s. 50 Further provision about non-domestic energy efficiency regulations](section/50.md)
+      - [s. 51 Sanctions for the purposes of non-domestic energy efficiency regulations](section/51.md)
+    - General
+      - [s. 52 Regulations and orders: Chapter 2](section/52.md)
+      - [s. 53 Crown application: Chapter 2](section/53.md)
+  - CHAPTER 3 Private rented sector: Scotland
+    - Introductory
+      - [s. 54 Meaning of “domestic PR property” and “non-domestic PR property”: Scotland](section/54.md)
+    - Scottish domestic energy efficiency regulations
+      - [s. 55 Scottish domestic energy efficiency regulations](section/55.md)
+      - [s. 56 Further provision about Scottish domestic energy efficiency regulations](section/56.md)
+      - [s. 57 Sanctions for the purposes of Scottish domestic energy efficiency regulations](section/57.md)
+    - Scottish tenants’ energy efficiency improvements regulations
+      - [s. 58 Scottish tenants’ energy efficiency improvements regulations](section/58.md)
+      - [s. 59 Further provision about Scottish tenants’ energy efficiency improvements regulations](section/59.md)
+      - [s. 60 Sanctions for the purposes of Scottish tenants’ energy efficiency improvements regulations](section/60.md)
+    - Scottish non-domestic energy efficiency regulations
+      - [s. 61 Scottish non-domestic energy efficiency regulations](section/61.md)
+      - [s. 62 Further provision about Scottish non-domestic energy efficiency regulations](section/62.md)
+      - [s. 63 Sanctions for the purposes of Scottish non-domestic energy efficiency regulations](section/63.md)
+    - General
+      - [s. 64 Regulations and orders: Chapter 3](section/64.md)
+      - [s. 65 Crown application: Chapter 3](section/65.md)
+  - CHAPTER 4 Reducing carbon emissions and home-heating costs
+    - [s. 66 Promotion of reductions in carbon emissions: gas transporters and suppliers](section/66.md)
+    - [s. 67 Promotion of reductions in carbon emissions: electricity generators, distributors and suppliers](section/67.md)
+    - [s. 68 Promotion of reductions in home-heating costs: gas transporters and suppliers](section/68.md)
+    - [s. 69 Promotion of reductions in home-heating costs: electricity distributors and suppliers](section/69.md)
+    - [s. 70 Overall home-heating cost reduction targets](section/70.md)
+    - [s. 71 Power of Secretary of State to require information: carbon emissions reduction targets and home-heating cost reduction targets](section/71.md)
+    - [s. 72 Minor and consequential amendments](section/72.md)
+  - CHAPTER 5 Information about energy consumption, efficiency and tariffs
+    - Smart meters
+      - [s. 73 Smart meters](section/73.md)
+    - Energy performance certificates
+      - [s. 74 Access to register of energy performance certificates etc: England and Wales](section/74.md)
+      - [s. 75 Access to register of energy performance certificates etc: Scotland](section/75.md)
+    - Information about tariffs
+      - [s. 76 Power to modify energy supply licences: information about tariffs](section/76.md)
+      - [s. 77 Power to modify energy supply licences: procedure and supplemental](section/77.md)
+      - [s. 78 General duties of the Secretary of State](section/78.md)
+- Part 2 Security of energy supplies
+  - CHAPTER 1 Electricity supply
+    - [s. 79 Annual report by Gas and Electricity Markets Authority on security of electricity supply](section/79.md)
+    - [s. 80 Annual report by Secretary of State on security of energy supplies](section/80.md)
+  - CHAPTER 2 Gas supply
+    - [s. 81 Power of the Gas and Electricity Markets Authority to direct a modification of the Uniform Network Code](section/81.md)
+  - CHAPTER 3 Upstream petroleum infrastructure
+    - [s. 82 Acquisition of rights to use upstream petroleum infrastructure](section/82.md)
+    - [s. 83 Power of OGA to give a notice under section 82(11) on own initiative](section/83.md)
+    - [s. 84 Compulsory modification of upstream petroleum infrastructure](section/84.md)
+    - [s. 85 Variation of notices under sections 82 and 84](section/85.md)
+    - [s. 86 Publication of notices and variations](section/86.md)
+    - [s. 87 Powers of OGA to require information](section/87.md)
+    - [s. 87A Appeals against requirements to provide information](section/87A.md)
+    - [s. 87B Sanctions for failure to provide information](section/87B.md)
+    - [s. 88 Enforcement](section/88.md)
+    - [s. 89 Minor, consequential and supplemental provision](section/89.md)
+    - [s. 89A Assignments and assignations of applications](section/89A.md)
+    - [s. 89B Transfers of ownership](section/89B.md)
+    - [s. 90 Interpretation](section/90.md)
+    - [s. 91 Meaning of “associate” for the purposes of section 82](section/91.md)
+  - CHAPTER 4 Downstream gas processing facilities
+    - [s. 92 Acquisition of rights to use gas processing facilities for downstream purposes](section/92.md)
+  - CHAPTER 5 Special administration
+    - Special administration under the Energy Act 2004
+      - [s. 93 Amendment of section 166 of the Energy Act 2004](section/93.md)
+    - Special administration under this Chapter
+      - [s. 94 Energy supply company administration orders](section/94.md)
+      - [s. 95 Objective of an energy supply company administration](section/95.md)
+      - [s. 96 Application of certain provisions of the Energy Act 2004 in relation to esc administration orders](section/96.md)
+      - [s. 97 Conduct of administration, transfer schemes, etc](section/97.md)
+      - [s. 98 Modifications of particular or standard conditions](section/98.md)
+      - [s. 99 Licence conditions to secure funding of energy supply company administration](section/99.md)
+      - [s. 100 Modifications under the Enterprise Act 2002](section/100.md)
+      - [s. 101 Power to make further modifications of insolvency legislation](section/101.md)
+      - [s. 102 Interpretation of Chapter 5](section/102.md)
+  - CHAPTER 6 Continental shelf
+    - [s. 103 Revocation etc of designations under Continental Shelf Act 1964](section/103.md)
+- Part 3 Measures for reducing carbon emissions
+  - Offshore electricity
+    - [s. 104 Offshore transmission and distribution of electricity: extension of time for licence modifications and property scheme applications](section/104.md)
+  - Security of nuclear construction sites
+    - [s. 105 Regulation of security of nuclear construction sites](section/105.md)
+  - Decommissioning
+    - [s. 106 Agreement about modifying decommissioning programme](section/106.md)
+    - [s. 107 Abandonment: infrastructure converted for CCS demonstration projects](section/107.md)
+  - Carbon dioxide pipelines
+    - [s. 108 Carbon dioxide pipelines: powers of compulsory acquisition](section/108.md)
+  - Carbon emissions reduction
+    - [s. 109 Contribution to carbon budgeting under the Climate Change Act 2008](section/109.md)
+    - [s. 110 Energy efficiency aim](section/110.md)
+  - Electricity from renewable sources
+    - [s. 111 Adjustment of electricity transmission charges](section/111.md)
+    - [s. 112 Electricity from renewable sources: National Park authorities and Broads Authority](section/112.md)
+  - Northern Ireland: renewable heat incentives
+    - [s. 113 Renewable heat incentives in Northern Ireland](section/113.md)
+    - [s. 114 Power for Gas and Electricity Markets Authority to act on behalf of Northern Ireland authority in connection with scheme under section 113](section/114.md)
+- Part 4 Coal Authority
+  - [s. 115 Additional powers of the Coal Authority: England and Wales](section/115.md)
+  - [s. 116 Additional powers of the Coal Authority: Scotland](section/116.md)
+- Part 5 Miscellaneous and general
+  - Miscellaneous
+    - [s. 117 Amendment of section 137 of the Energy Act 2004](section/117.md)
+    - [s. 118 Amendment and repeal of measures relating to home energy efficiency](section/118.md)
+  - General
+    - [s. 119 Consultation](section/119.md)
+    - [s. 120 Extent](section/120.md)
+    - [s. 121 Commencement](section/121.md)
+    - [s. 122 Short title](section/122.md)
+- SCHEDULE 1 Reducing carbon emissions and home-heating costs: minor and consequential amendments
+  - Gas Act 1986
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Electricity Act 1989
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Utilities Act 2000
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Upstream petroleum infrastructure: minor and consequential amendments
+  - Pipe-lines Act 1962
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Petroleum Act 1998
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Energy Act 2008
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
