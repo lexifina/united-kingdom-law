@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-12-15, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-01-01, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2022-12-15
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2023-01-01
 
 ## Contents
 
@@ -201,7 +201,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2022-12-15
       - [s. 127 No relief against policyholders’ share of I - E profit](section/127.md)
   - CHAPTER 10 Transfers of long-term business
     - Transfers of BLAGAB
-      - [s. 128 Relief for transferee in respect of transferor’s BLAGAB expenses](section/128.md)
+      - [s. 128 Relief for transferee in respect of transferor’s excess BLAGAB expenses](section/128.md)
       - [s. 129 Intra-group transfers and demutualisation](section/129.md)
       - [s. 130 Transfers between non-group companies: present value of in-force business](section/130.md)
       - [s. 130A Re-insurance in the course of transfer of BLAGAB](section/130A.md)
