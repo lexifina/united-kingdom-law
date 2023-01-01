@@ -1,0 +1,114 @@
+# Parliamentary Buildings (Restoration and Renewal) Act 2019
+
+2019 c. 27. Enacted 2019-10-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2019/27/2023-01-01
+
+## Contents
+
+- The works
+  - [s. 1 “The Parliamentary building works”](section/1.md)
+- The Sponsor Body and the Delivery Authority
+  - [s. 2 The Parliamentary Works Sponsor Body](section/2.md)
+  - [s. 2A Annual report](section/2A.md)
+  - [s. 3 The Delivery Authority](section/3.md)
+  - [s. 4 Relationship between the Sponsor Body and the Delivery Authority](section/4.md)
+- The Sponsor Body and Parliament
+  - [s. 5 Consultation strategy](section/5.md)
+  - [s. 6 Relationship between the Sponsor Body and Parliament](section/6.md)
+- Parliamentary approval
+  - [s. 7 Parliamentary approval for works and funding](section/7.md)
+- The Estimates Commission and funding
+  - [s. 8 The Parliamentary Works Estimates Commission](section/8.md)
+  - [s. 9 Funding](section/9.md)
+- Abolition etc of bodies
+  - [s. 10 Abolition of the Sponsor Body and the Estimates Commission](section/10.md)
+  - [s. 11 Dissolution of the Delivery Authority](section/11.md)
+- General
+  - [s. 12 Interpretation](section/12.md)
+  - [s. 13 Extent](section/13.md)
+  - [s. 14 Commencement](section/14.md)
+  - [s. 15 Short title](section/15.md)
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+- SCHEDULE 2 The Delivery Authority
+  - Board of directors
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The chair and non-executive directors: term of office
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Removal
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Validity of acts
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Staff
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Statement of required resources
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Accounts and audit
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Freedom of information
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 The Parliamentary Works Estimates Commission
+  - Membership
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Removal from office
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Procedure etc
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Freedom of information
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Funding: Sponsor Body’s Estimates
+  - PART 1 Introduction
+    - Interpretation
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Assessment of expenditure
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - PART 2 Phase one
+    - Annual estimates during phase one
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Supplementary estimates
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 3 Transition year
+    - Transition year estimate
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Supplementary estimates
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - PART 4 Phase two
+    - Annual estimates during phase two
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Supplementary estimates
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
