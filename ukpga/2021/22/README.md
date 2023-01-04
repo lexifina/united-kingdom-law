@@ -2,9 +2,9 @@
 
 2021 c. 22. Enacted 2021-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-01-01, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-01-04, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/22/2023-01-01
+Source: https://www.legislation.gov.uk/ukpga/2021/22/2023-01-04
 
 ## Contents
 
@@ -249,6 +249,8 @@ Source: https://www.legislation.gov.uk/ukpga/2021/22/2023-01-01
     - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
   - Financial Services and Markets Act 2000 (Gibraltar) Order 2001 (S.I. 2001/3084)
     - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Subsidy Control Act 2022
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
 - SCHEDULE 9 Collective investment schemes authorised in approved countries
   - PART 1 Provisions to be inserted in Chapter 5 of Part 17 of the Financial Services and Markets Act 2000
     - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
