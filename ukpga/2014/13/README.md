@@ -2,9 +2,9 @@
 
 2014 c. 13. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2016-03-29, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-01-16, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/13/2016-03-29
+Source: https://www.legislation.gov.uk/ukpga/2014/13/2023-01-16
 
 ## Contents
 
