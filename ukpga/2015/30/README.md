@@ -2,9 +2,9 @@
 
 2015 c. 30. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-11-30, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-01-30, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-11-30
+Source: https://www.legislation.gov.uk/ukpga/2015/30/2023-01-30
 
 ## Contents
 
@@ -71,6 +71,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/30/2022-11-30
   - [s. 48 Independent child trafficking advocates](section/48.md)
   - [s. 49 Guidance about identifying and supporting victims](section/49.md)
   - [s. 50 Regulations about identifying and supporting victims](section/50.md)
+  - [s. 50A Identified potential victims etc: assistance and support](section/50A.md)
   - [s. 51 Presumption about age](section/51.md)
   - [s. 52 Duty to notify Secretary of State about suspected victims of slavery or human trafficking](section/52.md)
   - [s. 53 Overseas domestic workers](section/53.md)
