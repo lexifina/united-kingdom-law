@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-11-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-11-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2023-02-01
 
 ## Contents
 
@@ -336,13 +336,13 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-11-01
     - [s. 251A Consistent identifiers](section/251A.md)
     - [s. 251B Duty to share information](section/251B.md)
     - [s. 251C Continuity of information: interpretation](section/251C.md)
-  - CHAPTER 2 The Health and Social Care Information Centre
-    - Establishment and general duties
+  - CHAPTER 2 NHS ENGLAND: HEALTH AND SOCIAL CARE INFORMATION ETC.
+    - ... General duties
       - [s. 252 The Health and Social Care Information Centre](section/252.md)
-      - [s. 253 General duties](section/253.md)
+      - [s. 253 NHS England data functions: general](section/253.md)
     - Functions: information systems
-      - [s. 254 Powers to direct Information Centre to establish information systems](section/254.md)
-      - [s. 255 Powers to request Information Centre to establish information systems](section/255.md)
+      - [s. 254 Powers to direct NHS England to establish information systems](section/254.md)
+      - [s. 255 Powers to request NHS England to establish information systems](section/255.md)
       - [s. 256 Requests for collection under section 255: confidential information](section/256.md)
       - [s. 257 Requests under section 255: supplementary](section/257.md)
       - [s. 258 Information systems: supplementary](section/258.md)
@@ -366,6 +366,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2022-11-01
       - [s. 273 Protection from personal liability](section/273.md)
     - General and supplementary
       - [s. 274 Powers of Secretary of State or NHS England to give directions](section/274.md)
+      - [s. 274A Secretary of State’s guidance about NHS England data functions](section/274A.md)
       - [s. 275 Interpretation of this Chapter](section/275.md)
       - [s. 276 Dissolution of predecessor body](section/276.md)
       - [s. 277 Consequential provision](section/277.md)
