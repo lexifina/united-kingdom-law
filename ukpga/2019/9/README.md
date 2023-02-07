@@ -2,9 +2,11 @@
 
 2019 c. 9. Enacted 2019-03-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-04-28, one file per provision. Earlier versions, from 2019-03-15, are in the history before it: `git log -- ukpga/2019/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2019-03-15, are in the history before it: `git log -- ukpga/2019/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/9/2022-04-28
+legislation.gov.uk lists 28 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2019/9
+
+Source: https://www.legislation.gov.uk/ukpga/2019/9/2023-02-07
 
 ## Contents
 
