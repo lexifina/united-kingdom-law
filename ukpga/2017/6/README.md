@@ -1,0 +1,189 @@
+# Cultural Property (Armed Conflicts) Act 2017
+
+2017 c. 6. Enacted 2017-02-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2017/6/2023-02-07
+
+## Contents
+
+- Part 1 Key definitions
+  - [s. 1 “The Convention” and related expressions](section/1.md)
+  - [s. 2 “Cultural property”](section/2.md)
+- Part 2 Serious violation of Second Protocol
+  - [s. 3 Offence of serious violation of Second Protocol](section/3.md)
+  - [s. 4 Ancillary offences](section/4.md)
+  - [s. 5 Responsibility of commanders and other superiors](section/5.md)
+  - [s. 6 Penalties](section/6.md)
+  - [s. 7 Consent to prosecutions](section/7.md)
+- Part 3 Cultural emblem
+  - [s. 8 The cultural emblem](section/8.md)
+  - [s. 9 Offence of unauthorised use](section/9.md)
+  - [s. 10 Use authorised by appropriate national authority](section/10.md)
+  - [s. 11 Other authorised use: moveable property](section/11.md)
+  - [s. 12 Other authorised use: personnel](section/12.md)
+  - [s. 13 Defences](section/13.md)
+  - [s. 14 Forfeiture following conviction under section 9](section/14.md)
+  - [s. 15 “Appropriate national authority”](section/15.md)
+- Part 4 Property exported from occupied territory
+  - Definitions
+    - [s. 16 “Unlawfully exported cultural property” etc](section/16.md)
+  - Dealing in unlawfully exported cultural property
+    - [s. 17 Offence of dealing in unlawfully exported cultural property](section/17.md)
+    - [s. 18 Forfeiture in connection with dealing offence](section/18.md)
+  - Forfeiture otherwise than in connection with offence
+    - [s. 19 Property liable to forfeiture](section/19.md)
+    - [s. 20 Forfeiture order](section/20.md)
+    - [s. 21 Compensation](section/21.md)
+    - [s. 22 Interim orders](section/22.md)
+  - Seizure and retention of property liable to forfeiture
+    - [s. 23 Search and seizure warrants](section/23.md)
+    - [s. 24 Retention of property in custody of constable](section/24.md)
+    - [s. 25 Notices of seizure or retention](section/25.md)
+    - [s. 26 Property in custody of others](section/26.md)
+    - [s. 27 Return of property to owner if not forfeited](section/27.md)
+- Part 5 Property removed for safekeeping
+  - [s. 28 Immunity from seizure or forfeiture](section/28.md)
+- Part 6 General
+  - [s. 29 Liability of company officers for offences by company](section/29.md)
+  - [s. 30 Crown application](section/30.md)
+  - [s. 31 Extent](section/31.md)
+  - [s. 32 Commencement](section/32.md)
+  - [s. 33 Short title](section/33.md)
+- SCHEDULE 1 Convention
+    - Chapter I. General provisions regarding protection
+      - [Sch. 1 Pt. chapter I. paragraph Articlen1 Definition of cultural property](schedule/1/part/chapter/I/paragraph/Articlen1.md)
+      - [Sch. 1 Pt. chapter I. paragraph Articlen2 Protection of cultural property](schedule/1/part/chapter/I/paragraph/Articlen2.md)
+      - [Sch. 1 Pt. chapter I. paragraph Articlen3 Safeguarding of cultural property](schedule/1/part/chapter/I/paragraph/Articlen3.md)
+      - [Sch. 1 Pt. chapter I. paragraph Articlen4 Respect for cultural property](schedule/1/part/chapter/I/paragraph/Articlen4.md)
+      - [Sch. 1 Pt. chapter I. paragraph Articlen5 Occupation](schedule/1/part/chapter/I/paragraph/Articlen5.md)
+      - [Sch. 1 Pt. chapter I. paragraph Articlen6 Distinctive marking of cultural property](schedule/1/part/chapter/I/paragraph/Articlen6.md)
+      - [Sch. 1 Pt. chapter I. paragraph Articlen7 Military measures](schedule/1/part/chapter/I/paragraph/Articlen7.md)
+    - Chapter II. Special protection
+      - [Sch. 1 Pt. chapter II. paragraph Articlen8 Granting of special protection](schedule/1/part/chapter/II/paragraph/Articlen8.md)
+      - [Sch. 1 Pt. chapter II. paragraph Articlen9 Immunity of cultural property under special protection](schedule/1/part/chapter/II/paragraph/Articlen9.md)
+      - [Sch. 1 Pt. chapter II. paragraph Articlen10 Identification and control](schedule/1/part/chapter/II/paragraph/Articlen10.md)
+      - [Sch. 1 Pt. chapter II. paragraph Articlen11 Withdrawal of immunity](schedule/1/part/chapter/II/paragraph/Articlen11.md)
+    - Chapter III. Transport of cultural property
+      - [Sch. 1 Pt. chapter III. paragraph Articlen12 Transport under special protection](schedule/1/part/chapter/III/paragraph/Articlen12.md)
+      - [Sch. 1 Pt. chapter III. paragraph Articlen13 Transport in urgent cases](schedule/1/part/chapter/III/paragraph/Articlen13.md)
+      - [Sch. 1 Pt. chapter III. paragraph Articlen14 Immunity from seizure, capture and prize](schedule/1/part/chapter/III/paragraph/Articlen14.md)
+    - Chapter IV. Personnel
+      - [Sch. 1 Pt. chapter IV. paragraph Article Personnel](schedule/1/part/chapter/IV/paragraph/Article.md)
+    - Chapter V. The distinctive emblem
+      - [Sch. 1 Pt. chapter V. paragraph Articlen16 Emblem of the convention](schedule/1/part/chapter/V/paragraph/Articlen16.md)
+      - [Sch. 1 Pt. chapter V. paragraph Articlen17 Use of the emblem](schedule/1/part/chapter/V/paragraph/Articlen17.md)
+    - Chapter VI. Scope of application of the Convention
+      - [Sch. 1 Pt. chapter VI. paragraph Articlen18 Application of the Convention](schedule/1/part/chapter/VI/paragraph/Articlen18.md)
+      - [Sch. 1 Pt. chapter VI. paragraph Articlen19 Conflicts not of an international character](schedule/1/part/chapter/VI/paragraph/Articlen19.md)
+    - Chapter VII. Execution of the Convention
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen20 Regulations for the execution of the Convention](schedule/1/part/chapter/VII/paragraph/Articlen20.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen21 Protecting powers](schedule/1/part/chapter/VII/paragraph/Articlen21.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen22 Conciliation procedure](schedule/1/part/chapter/VII/paragraph/Articlen22.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen23 Assistance of UNESCO](schedule/1/part/chapter/VII/paragraph/Articlen23.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen24 Special agreements](schedule/1/part/chapter/VII/paragraph/Articlen24.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen25 Dissemination of the Convention](schedule/1/part/chapter/VII/paragraph/Articlen25.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen26 Translations reports](schedule/1/part/chapter/VII/paragraph/Articlen26.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen27 Meetings](schedule/1/part/chapter/VII/paragraph/Articlen27.md)
+      - [Sch. 1 Pt. chapter VII. paragraph Articlen28 Sanctions](schedule/1/part/chapter/VII/paragraph/Articlen28.md)
+      - Final provisions
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen29 Languages](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen29.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen30 Signature](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen30.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen31 Ratification](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen31.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen32 Accession](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen32.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen33 Entry into force](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen33.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen34 Effective application](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen34.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen35 Territorial extension of the Convention](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen35.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen36 Relation to previous conventions](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen36.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen37 Denunciation](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen37.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen38 Notifications](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen38.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen39 Revision of the Convention and of the Regulations for its execution](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen39.md)
+        - [Sch. 1 Pt. chapter VII. crossheading final-provisions paragraph Articlen40 Registration](schedule/1/part/chapter/VII/crossheading/final-provisions/paragraph/Articlen40.md)
+- SCHEDULE 2 Regulations for the execution of the Convention
+    - Chapter I. Control
+      - [Sch. 2 Pt. chapter I. paragraph Articlen1 International list of persons](schedule/2/part/chapter/I/paragraph/Articlen1.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen2 Organization of control](schedule/2/part/chapter/I/paragraph/Articlen2.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen3 Appointment of delegates of Protecting Powers](schedule/2/part/chapter/I/paragraph/Articlen3.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen4 Appointment of Commissioner-General](schedule/2/part/chapter/I/paragraph/Articlen4.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen5 Functions of delegates](schedule/2/part/chapter/I/paragraph/Articlen5.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen6 Functions of the Commissioner-General](schedule/2/part/chapter/I/paragraph/Articlen6.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen7 Inspectors and experts](schedule/2/part/chapter/I/paragraph/Articlen7.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen8 Discharge of the mission of control](schedule/2/part/chapter/I/paragraph/Articlen8.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen9 Substitutes for Protecting Powers](schedule/2/part/chapter/I/paragraph/Articlen9.md)
+      - [Sch. 2 Pt. chapter I. paragraph Articlen10 Expenses](schedule/2/part/chapter/I/paragraph/Articlen10.md)
+    - Chapter II. Special protection
+      - [Sch. 2 Pt. chapter II. paragraph Articlen11 Improvised refuges](schedule/2/part/chapter/II/paragraph/Articlen11.md)
+      - [Sch. 2 Pt. chapter II. paragraph Articlen12 International Register of Cultural Property under Special Protection](schedule/2/part/chapter/II/paragraph/Articlen12.md)
+      - [Sch. 2 Pt. chapter II. paragraph Articlen13 Requests for registration](schedule/2/part/chapter/II/paragraph/Articlen13.md)
+      - [Sch. 2 Pt. chapter II. paragraph Articlen14 Objections](schedule/2/part/chapter/II/paragraph/Articlen14.md)
+      - [Sch. 2 Pt. chapter II. paragraph Articlen15 Registration](schedule/2/part/chapter/II/paragraph/Articlen15.md)
+      - [Sch. 2 Pt. chapter II. paragraph Articlen16 Cancellation](schedule/2/part/chapter/II/paragraph/Articlen16.md)
+    - Chapter III. Transport of cultural property
+      - [Sch. 2 Pt. chapter III. paragraph Articlen17 Procedure to obtain immunity](schedule/2/part/chapter/III/paragraph/Articlen17.md)
+      - [Sch. 2 Pt. chapter III. paragraph Articlen18 Transport abroad](schedule/2/part/chapter/III/paragraph/Articlen18.md)
+      - [Sch. 2 Pt. chapter III. paragraph Articlen19 Occupied territory](schedule/2/part/chapter/III/paragraph/Articlen19.md)
+    - Chapter IV. The distinctive emblem
+      - [Sch. 2 Pt. chapter IV. paragraph Articlen20 Affixing of the emblem](schedule/2/part/chapter/IV/paragraph/Articlen20.md)
+      - [Sch. 2 Pt. chapter IV. paragraph Articlen21 Identification of persons](schedule/2/part/chapter/IV/paragraph/Articlen21.md)
+- SCHEDULE 3 First Protocol
+  - [Sch. 3 para. I](schedule/3/paragraph/I.md)
+  - [Sch. 3 para. II](schedule/3/paragraph/II.md)
+  - [Sch. 3 para. III](schedule/3/paragraph/III.md)
+- SCHEDULE 4 Second Protocol
+    - Chapter 1 Introduction
+      - [Sch. 4 Pt. chapter 1 paragraph Articlen1 Definitions](schedule/4/part/chapter/1/paragraph/Articlen1.md)
+      - [Sch. 4 Pt. chapter 1 paragraph Articlen2 Relation to the Convention](schedule/4/part/chapter/1/paragraph/Articlen2.md)
+      - [Sch. 4 Pt. chapter 1 paragraph Articlen3 Scope of application](schedule/4/part/chapter/1/paragraph/Articlen3.md)
+      - [Sch. 4 Pt. chapter 1 paragraph Articlen4 Relationship between Chapter 3 and other provisions of the Convention and this Protocol](schedule/4/part/chapter/1/paragraph/Articlen4.md)
+    - Chapter 2 General provisions regarding protection
+      - [Sch. 4 Pt. chapter 2 paragraph Articlen5 Safeguarding of cultural property](schedule/4/part/chapter/2/paragraph/Articlen5.md)
+      - [Sch. 4 Pt. chapter 2 paragraph Articlen6 Respect for cultural property](schedule/4/part/chapter/2/paragraph/Articlen6.md)
+      - [Sch. 4 Pt. chapter 2 paragraph Articlen7 Precautions in attack](schedule/4/part/chapter/2/paragraph/Articlen7.md)
+      - [Sch. 4 Pt. chapter 2 paragraph Articlen8 Precautions against the effects of hostilities](schedule/4/part/chapter/2/paragraph/Articlen8.md)
+      - [Sch. 4 Pt. chapter 2 paragraph Articlen9 Protection of cultural property in occupied territory](schedule/4/part/chapter/2/paragraph/Articlen9.md)
+    - Chapter 3 Enhanced Protection
+      - [Sch. 4 Pt. chapter 3 paragraph Articlen10 Enhanced protection](schedule/4/part/chapter/3/paragraph/Articlen10.md)
+      - [Sch. 4 Pt. chapter 3 paragraph Articlen11 The granting of enhanced protection](schedule/4/part/chapter/3/paragraph/Articlen11.md)
+      - [Sch. 4 Pt. chapter 3 paragraph Articlen12 Immunity of cultural property under enhanced protection](schedule/4/part/chapter/3/paragraph/Articlen12.md)
+      - [Sch. 4 Pt. chapter 3 paragraph Articlen13 Loss of enhanced protection](schedule/4/part/chapter/3/paragraph/Articlen13.md)
+      - [Sch. 4 Pt. chapter 3 paragraph Articlen14 Suspension and cancellation of enhanced protection](schedule/4/part/chapter/3/paragraph/Articlen14.md)
+    - Chapter 4 Criminal responsibility and jurisdiction
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen15 Serious violations of this Protocol](schedule/4/part/chapter/4/paragraph/Articlen15.md)
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen16 Jurisdiction](schedule/4/part/chapter/4/paragraph/Articlen16.md)
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen17 Prosecution](schedule/4/part/chapter/4/paragraph/Articlen17.md)
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen18 Extradition](schedule/4/part/chapter/4/paragraph/Articlen18.md)
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen19 Mutual legal assistance](schedule/4/part/chapter/4/paragraph/Articlen19.md)
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen20 Grounds for refusal](schedule/4/part/chapter/4/paragraph/Articlen20.md)
+      - [Sch. 4 Pt. chapter 4 paragraph Articlen21 Measures regarding other violations](schedule/4/part/chapter/4/paragraph/Articlen21.md)
+    - Chapter 5 The protection of cultural property in armed conflicts not of an international character
+      - [Sch. 4 Pt. chapter 5 paragraph Article Armed conflicts not of an international character](schedule/4/part/chapter/5/paragraph/Article.md)
+    - Chapter 6 Institutional Issues
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen23 Meeting of the Parties](schedule/4/part/chapter/6/paragraph/Articlen23.md)
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen24 Committee for the Protection of Cultural Property in the Event of Armed Conflict](schedule/4/part/chapter/6/paragraph/Articlen24.md)
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen25 Term of office](schedule/4/part/chapter/6/paragraph/Articlen25.md)
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen26 Rules of procedure](schedule/4/part/chapter/6/paragraph/Articlen26.md)
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen27 Functions](schedule/4/part/chapter/6/paragraph/Articlen27.md)
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen28 Secretariat](schedule/4/part/chapter/6/paragraph/Articlen28.md)
+      - [Sch. 4 Pt. chapter 6 paragraph Articlen29 The Fund for the Protection of Cultural Property in the Event of Armed Conflict](schedule/4/part/chapter/6/paragraph/Articlen29.md)
+    - Chapter 7 Dissemination of Information and International Assistance
+      - [Sch. 4 Pt. chapter 7 paragraph Articlen30 Dissemination](schedule/4/part/chapter/7/paragraph/Articlen30.md)
+      - [Sch. 4 Pt. chapter 7 paragraph Articlen31 International cooperation](schedule/4/part/chapter/7/paragraph/Articlen31.md)
+      - [Sch. 4 Pt. chapter 7 paragraph Articlen32 International assistance](schedule/4/part/chapter/7/paragraph/Articlen32.md)
+      - [Sch. 4 Pt. chapter 7 paragraph Articlen33 Assistance of UNESCO](schedule/4/part/chapter/7/paragraph/Articlen33.md)
+    - Chapter 8 Execution of this Protocol
+      - [Sch. 4 Pt. chapter 8 paragraph Articlen34 Protecting Powers](schedule/4/part/chapter/8/paragraph/Articlen34.md)
+      - [Sch. 4 Pt. chapter 8 paragraph Articlen35 Conciliation procedure](schedule/4/part/chapter/8/paragraph/Articlen35.md)
+      - [Sch. 4 Pt. chapter 8 paragraph Articlen36 Conciliation in absence of Protecting Powers](schedule/4/part/chapter/8/paragraph/Articlen36.md)
+      - [Sch. 4 Pt. chapter 8 paragraph Articlen37 Translations and reports](schedule/4/part/chapter/8/paragraph/Articlen37.md)
+      - [Sch. 4 Pt. chapter 8 paragraph Articlen38 State responsibility](schedule/4/part/chapter/8/paragraph/Articlen38.md)
+    - Chapter 9 Final Clauses
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen39 Languages](schedule/4/part/chapter/9/paragraph/Articlen39.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen40 Signature](schedule/4/part/chapter/9/paragraph/Articlen40.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen41 Ratification, acceptance or approval](schedule/4/part/chapter/9/paragraph/Articlen41.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen42 Accession](schedule/4/part/chapter/9/paragraph/Articlen42.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen43 Entry into force](schedule/4/part/chapter/9/paragraph/Articlen43.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen44 Entry into force in situations of armed conflict](schedule/4/part/chapter/9/paragraph/Articlen44.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen45 Denunciation](schedule/4/part/chapter/9/paragraph/Articlen45.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen46 Notifications](schedule/4/part/chapter/9/paragraph/Articlen46.md)
+      - [Sch. 4 Pt. chapter 9 paragraph Articlen47 Registration with the United Nations](schedule/4/part/chapter/9/paragraph/Articlen47.md)
