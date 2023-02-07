@@ -1,0 +1,115 @@
+# Fraud Act 2006
+
+2006 c. 35. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2006/35/2023-02-07
+
+## Contents
+
+- Fraud
+  - [s. 1 Fraud](section/1.md)
+  - [s. 2 Fraud by false representation](section/2.md)
+  - [s. 3 Fraud by failing to disclose information](section/3.md)
+  - [s. 4 Fraud by abuse of position](section/4.md)
+  - [s. 5 “Gain” and “loss”](section/5.md)
+  - [s. 6 Possession etc. of articles for use in frauds](section/6.md)
+  - [s. 7 Making or supplying articles for use in frauds](section/7.md)
+  - [s. 8 “Article”](section/8.md)
+  - [s. 9 Participating in fraudulent business carried on by sole trader etc.](section/9.md)
+  - [s. 10 Participating in fraudulent business carried on by company etc.: penalty](section/10.md)
+- Obtaining services dishonestly
+  - [s. 11 Obtaining services dishonestly](section/11.md)
+- Supplementary
+  - [s. 12 Liability of company officers for offences by company](section/12.md)
+  - [s. 13 Evidence](section/13.md)
+  - [s. 14 Minor and consequential amendments etc.](section/14.md)
+  - [s. 15 Commencement and extent](section/15.md)
+  - [s. 16 Short title](section/16.md)
+- SCHEDULE 1 Minor and consequential amendments
+  - Abolition of various deception offences
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Visiting Forces Act 1952 (c. 67)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Theft Act 1968 (c. 60)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Theft Act 1978 (c. 31)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Theft (Northern Ireland) Order 1978 (S.I. 1978/1407 (N.I. 23))
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Limitation Act 1980 (c. 58)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Finance Act 1982 (c. 39)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Nuclear Material (Offences) Act 1983 (c. 18)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11))
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Criminal Justice Act 1993 (c. 36)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15))
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24))
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Armed Forces Act 2001 (c. 19)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - Licensing Act 2003 (c. 17)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - Serious Organised Crime and Police Act 2005 (c. 15)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - Gambling Act 2005 (c. 19)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+- SCHEDULE 2 Transitional provisions and savings
+  - Maximum term of imprisonment for offences under this Act
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Increase in penalty for fraudulent trading
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Abolition of deception offences
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Scope of offences relating to stolen goods under the Theft Act 1968 (c. 60)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Dishonestly retaining a wrongful credit under the Theft Act 1968
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Scope of offences relating to stolen goods under the Theft Act (Northern Ireland) 1969 (c. 16 (N.I.))
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Dishonestly retaining a wrongful credit under the Theft Act (Northern Ireland) 1969
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Limitation periods under the Limitation Act 1980 (c. 58)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Limitation periods under the Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11))
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Scheduled offences under the Terrorism Act 2000 (c. 11)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Powers of arrest under Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Repeals and revocations
