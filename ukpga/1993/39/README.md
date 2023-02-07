@@ -1,0 +1,358 @@
+# National Lottery etc. Act 1993
+
+1993 c. 39. Enacted 1993-10-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 31 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/39
+
+Source: https://www.legislation.gov.uk/ukpga/1993/39/2023-02-07
+
+## Contents
+
+- Part I AUTHORISATION AND REGULATION OF THE NATIONAL LOTTERY
+  - Preliminary
+    - [s. 1 The National Lottery.](section/1.md)
+    - [s. 2 Legality of lotteries forming part of the National Lottery.](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 3A The Gambling Commission.](section/3A.md)
+    - [s. 4 Overriding duties of the Secretary of State and Director General.](section/4.md)
+    - [s. 4A Consultation with Gambling Commission](section/4A.md)
+    - [s. 4B Disclosure of information](section/4B.md)
+    - [s. 4C Wrongful disclosure](section/4C.md)
+  - The licensing system
+    - [s. 5 Licensing of a person to run the National Lottery.](section/5.md)
+    - [s. 6 Licensing of persons to promote lotteries.](section/6.md)
+    - [s. 7 Licences under sections 5 and 6: further provisions.](section/7.md)
+    - [s. 7A Annual fee](section/7A.md)
+    - [s. 8 Variation of conditions in licences.](section/8.md)
+    - [s. 9 Enforcement of conditions in licences.](section/9.md)
+    - [s. 10 Revocation of licences.](section/10.md)
+    - [s. 10A Financial penalties for breach of conditions in licences.](section/10A.md)
+    - [s. 10B Appeals against financial penalties.](section/10B.md)
+    - [s. 10C Annual levy](section/10C.md)
+  - Control by the Secretary of State
+    - [s. 11 Directions to the Director General.](section/11.md)
+    - [s. 12 Regulations as to the promotion of lotteries.](section/12.md)
+    - [s. 13 Contravention of regulations an offence.](section/13.md)
+  - Provision of information by the Director General
+    - [s. 14 Annual report.](section/14.md)
+    - [s. 15 Power of the Secretary of State to require information.](section/15.md)
+  - Miscellaneous and supplementary
+    - [s. 16 False representations as to the National Lottery.](section/16.md)
+    - [s. 17 Extension of powers of Horserace Totalisator Board.](section/17.md)
+    - [s. 18 Control of betting on the National Lottery.](section/18.md)
+    - [s. 19 Restriction of enactments relating to the rehabilitation of offenders.](section/19.md)
+    - [s. 20 Interpretation of Part I.](section/20.md)
+- Part II DISTRIBUTION OF THE NET PROCEEDS OF THE NATIONAL LOTTERY
+  - The distribution system
+    - [s. 21 The National Lottery Distribution Fund.](section/21.md)
+    - [s. 22 Apportionment of money in Distribution Fund.](section/22.md)
+    - [s. 23 The distributing bodies.](section/23.md)
+    - [s. 24 Payments from Distribution Fund to distributing bodies.](section/24.md)
+    - [s. 25 Application of money by distributing bodies.](section/25.md)
+    - [s. 25A Delegation by distributing bodies of their powers of distribution.](section/25A.md)
+    - [s. 25B Joint schemes for distribution of money by distributing bodies.](section/25B.md)
+    - [s. 25C Strategic plans for distributing bodies.](section/25C.md)
+    - [s. 25D Strategic plans for distributing bodies in or as regards Scotland](section/25D.md)
+    - [s. 25E Distribution of funds: publicity](section/25E.md)
+  - Control by the Secretary of State
+    - [s. 26 Directions to distributing bodies.](section/26.md)
+    - [s. 26A Directions to distributing bodies in or as regards Scotland](section/26A.md)
+    - [s. 27 Power to prohibit distribution in certain cases.](section/27.md)
+    - [s. 28 Power to amend section 22.](section/28.md)
+    - [s. 29 Power to amend section 23.](section/29.md)
+    - [s. 29A Reallocation of funds](section/29A.md)
+  - Winding up of fund allocated under section 22(3)(e)
+    - [s. 30 Winding up of fund allocated under section 22(3)(e).](section/30.md)
+  - Distribution Fund: further provisions
+    - [s. 31 Payments from Distribution Fund in respect of expenses.](section/31.md)
+    - [s. 32 Investment of Distribution Fund.](section/32.md)
+    - [s. 33 Accounts of the Secretary of State and National Debt Commissioners.](section/33.md)
+  - Reports and accounts of distributing bodies
+    - [s. 34 Annual reports by distributing bodies ....](section/34.md)
+    - [s. 35 Accounts of distributing bodies other than the Big Lottery Fund.](section/35.md)
+  - The Trustees of the National Heritage Memorial Fund
+    - [s. 36 Amendment of the National Heritage Act 1980.](section/36.md)
+  - The Big Lottery Fund
+    - [s. 36A The Fund](section/36A.md)
+    - [s. 36B Power to distribute funds](section/36B.md)
+    - [s. 36C Non-lottery funds](section/36C.md)
+    - [s. 36D Power to give advice](section/36D.md)
+    - [s. 36E Directions](section/36E.md)
+  - The National Lottery Charities Board
+    - [s. 37 The National Lottery Charities Board.](section/37.md)
+    - [s. 38 Grants to charities etc.](section/38.md)
+    - [s. 39 Accounts.](section/39.md)
+  - The Millennium Commission
+    - [s. 40 The Millennium Commission.](section/40.md)
+    - [s. 41 Grants in respect of projects.](section/41.md)
+    - [s. 42 Annual report.](section/42.md)
+    - [s. 43 Accounts.](section/43.md)
+  - The New Opportunities Fund
+    - [s. 43A The New Opportunities Fund.](section/43A.md)
+    - [s. 43B Functions of the New Opportunities Fund.](section/43B.md)
+    - [s. 43C Provisions supplemental to section 43B.](section/43C.md)
+    - [s. 43CC Directions to New Opportunities Fund in or as regards Scotland](section/43CC.md)
+    - [s. 43D Accounts.](section/43D.md)
+  - Supplementary
+    - [s. 44 Interpretation of Part II.](section/44.md)
+- Part III MISCELLANEOUS AMENDMENTS RELATING TO LOTTERIES
+  - Preliminary
+    - [s. 45 Interpretation of Part III.](section/45.md)
+  - Importation and exportation restrictions
+    - [s. 46 Importation and exportation restrictions.](section/46.md)
+  - Private lotteries
+    - [s. 47 Private lotteries.](section/47.md)
+  - Societies’ lotteries and local lotteries
+    - [s. 48 Registration of societies.](section/48.md)
+    - [s. 49 Registration of lottery schemes.](section/49.md)
+    - [s. 50 Lottery managers.](section/50.md)
+    - [s. 51 Frequency of lotteries.](section/51.md)
+    - [s. 52 Rules for lotteries.](section/52.md)
+    - [s. 53 Offences.](section/53.md)
+    - [s. 54 Powers of the Secretary of State to vary monetary limits and to prescribe or vary fees.](section/54.md)
+    - [s. 55 Interpretation of the 1976 Act.](section/55.md)
+- Part IV POOL BETTING
+  - [s. 56 Removal of prohibition on the use of premises for the delivery of football pools coupons and stakes.](section/56.md)
+  - [s. 57 Reduction of age limit in relation to football pool betting.](section/57.md)
+  - [s. 58 Roll-over of prize money.](section/58.md)
+  - [s. 59 Pool promoters’ dividends.](section/59.md)
+- Part V SUPPLEMENTARY
+  - [s. 60 Orders and regulations.](section/60.md)
+  - [s. 61 Directions.](section/61.md)
+  - [s. 62 Expenses.](section/62.md)
+  - [s. 63 Northern Ireland](section/63.md)
+  - [s. 64 Repeals.](section/64.md)
+  - [s. 65 Commencement.](section/65.md)
+  - [s. 66 Short title.](section/66.md)
+- SCHEDULE 1 LEGALITY ETC. OF LOTTERIES FORMING PART OF THE NATIONAL LOTTERY
+  - The Gaming Act 1968 (c. 65)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Lotteries and Amusements Act 1976 (c. 32)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 (S.I. 1985/1204 (N.I. 11))
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2
+  - Tenure of office
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Remuneration etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Staff
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Finance
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Evidence
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - The Parliamentary Commissioner
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - The Council on Tribunals
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Parliamentary disqualification
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- Schedule 2A The Gambling Commission
+  - Status and capacity
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Membership
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Chairman
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Remuneration and allowances
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Staff
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - [Sch. 2A para. 6A](schedule/2A/paragraph/6A.md)
+  - Proceedings
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Delegation
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Duty to give reasons for decisions
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Finance
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Accounts
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - Application of seal and evidence
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+    - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+- SCHEDULE 3 REVOCATION OF LICENCES
+  - Part I DISCRETIONARY GROUNDS FOR REVOCATION
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part II PROCEDURE AND APPEALS
+    - Notice of proposed revocation
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Suspension of licence
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Decision by the Director General
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Appeals to the Secretary of State
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Appeals
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- Schedule 3A Joint schemes: supplementary provisions
+  - Interpretation
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Authorisation or approval by Secretary of State
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Contents of authorisations and approvals
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Effect of increasing annual limit on schemes authorised by order
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Powers
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Modification
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - Termination
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - Orders under s.29(1): participant ceasing to be distributing body
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Authorisation to continue payments despite occurrence of certain events
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+- SCHEDULE 4 AMENDMENT OF THE NATIONAL HERITAGE ACT 1980 (C.17)
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 4A THE BIG LOTTERY FUND
+  - Part 1 Constitution
+    - Membership
+      - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+    - Tenure
+      - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+      - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+      - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+      - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - Staff
+      - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - Committees
+      - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+      - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+      - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - Status
+      - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+    - Supervision
+      - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+    - Disqualification
+      - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+      - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+  - Part 2 Proceedings
+    - Self-regulation
+      - [Sch. 4A para. 14](schedule/4A/paragraph/14.md)
+    - Records
+      - [Sch. 4A para. 15](schedule/4A/paragraph/15.md)
+    - Saving
+      - [Sch. 4A para. 16](schedule/4A/paragraph/16.md)
+  - Part 3 Money
+    - Remuneration, &c.
+      - [Sch. 4A para. 17](schedule/4A/paragraph/17.md)
+      - [Sch. 4A para. 18](schedule/4A/paragraph/18.md)
+    - Payments
+      - [Sch. 4A para. 19](schedule/4A/paragraph/19.md)
+    - Investment
+      - [Sch. 4A para. 20](schedule/4A/paragraph/20.md)
+    - Accounts
+      - [Sch. 4A para. 21](schedule/4A/paragraph/21.md)
+- SCHEDULE 5 THE NATIONAL LOTTERY CHARITIES BOARD
+  - Membership
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Committees
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Staff
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Proceedings
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Application of seal and evidence
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Finance
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Status of the Board
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Parliamentary disqualification
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Exemption from register of charities
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 THE MILLENNIUM COMMISSION
+  - Membership
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Allowances
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Staff
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Proceedings
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Application of seal and evidence
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Finance
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Status of the Millennium Commission
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- Schedule 6A The New Opportunities Fund
+  - Membership
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Committees
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - Tenure of office
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+  - Staff
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+  - Proceedings
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+  - Application of seal and evidence
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+  - Status of New Opportunities Fund
+    - [Sch. 6A para. 9](schedule/6A/paragraph/9.md)
+    - [Sch. 6A para. 10](schedule/6A/paragraph/10.md)
+  - Application to Scotland
+    - [Sch. 6A para. 11](schedule/6A/paragraph/11.md)
+- SCHEDULE 7 REGISTRATION OF SOCIETIES
+  - Part I AMENDMENT OF SCHEDULE 1 TO THE 1976 ACT
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part II SCHEDULE TO BE INSERTED IN THE 1976 ACT AFTER SCHEDULE 1
+- SCHEDULE 8 REGISTRATION OF SCHEMES: AMENDMENT OF SCHEDULE 2 TO THE 1976 ACT
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 SCHEDULE TO BE INSERTED IN THE 1976 ACT AFTER SCHEDULE 2
+- SCHEDULE 10 REPEALS
