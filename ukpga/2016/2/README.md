@@ -1,0 +1,172 @@
+# Psychoactive Substances Act 2016
+
+2016 c. 2. Enacted 2016-01-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2016/2/2023-02-07
+
+## Contents
+
+- Introductory
+  - [s. 1 Overview](section/1.md)
+- Psychoactive substances
+  - [s. 2 Meaning of “psychoactive substance” etc](section/2.md)
+  - [s. 3 Exempted substances](section/3.md)
+- Offences
+  - [s. 4 Producing a psychoactive substance](section/4.md)
+  - [s. 5 Supplying, or offering to supply, a psychoactive substance](section/5.md)
+  - [s. 6 Aggravation of offence under section 5](section/6.md)
+  - [s. 7 Possession of psychoactive substance with intent to supply](section/7.md)
+  - [s. 8 Importing or exporting a psychoactive substance](section/8.md)
+  - [s. 9 Possession of a psychoactive substance in a custodial institution](section/9.md)
+  - [s. 10 Penalties](section/10.md)
+  - [s. 11 Exceptions to offences](section/11.md)
+- Powers for dealing with prohibited activities
+  - [s. 12 Meaning of “prohibited activity”](section/12.md)
+  - [s. 13 Prohibition notices](section/13.md)
+  - [s. 14 Premises notices](section/14.md)
+  - [s. 15 Prohibition notices and premises notices: supplementary](section/15.md)
+  - [s. 16 Further provision about giving notices under sections 13 to 15](section/16.md)
+  - [s. 17 Meaning of “prohibition order”](section/17.md)
+  - [s. 18 Prohibition orders on application](section/18.md)
+  - [s. 19 Prohibition orders following conviction](section/19.md)
+  - [s. 20 Premises orders](section/20.md)
+  - [s. 21 Applications for prohibition orders and premises orders](section/21.md)
+  - [s. 22 Provision that may be made by prohibition orders and premises orders](section/22.md)
+  - [s. 23 Enforcement of access prohibitions](section/23.md)
+  - [s. 24 Access prohibitions: reimbursement of costs](section/24.md)
+  - [s. 25 Access prohibitions: exemption from liability](section/25.md)
+  - [s. 26 Offence of failing to comply with a prohibition order or premises order](section/26.md)
+  - [s. 27 Offence of failing to comply with an access prohibition, etc](section/27.md)
+  - [s. 28 Variation and discharge on application](section/28.md)
+  - [s. 29 Variation following conviction](section/29.md)
+  - [s. 30 Appeals against making of prohibition orders and premises orders](section/30.md)
+  - [s. 31 Appeals about variation and discharge](section/31.md)
+  - [s. 32 Nature of proceedings under sections 19 and 29, etc](section/32.md)
+  - [s. 33 Special measures for witnesses: England and Wales](section/33.md)
+  - [s. 34 Special measures for witnesses: Northern Ireland](section/34.md)
+  - [s. 35 Transfer of proceedings from youth court](section/35.md)
+- Powers of entry, search and seizure
+  - [s. 36 Power to stop and search persons](section/36.md)
+  - [s. 37 Power to enter and search vehicles](section/37.md)
+  - [s. 38 Power to board and search vessels or aircraft](section/38.md)
+  - [s. 39 Power to enter and search premises](section/39.md)
+  - [s. 40 Further provision about search warrants](section/40.md)
+  - [s. 41 Powers of examination, etc](section/41.md)
+  - [s. 42 Power to require production of documents, etc](section/42.md)
+  - [s. 43 Powers of seizure, etc](section/43.md)
+  - [s. 44 Excluded items](section/44.md)
+  - [s. 45 Further provision about seizure under section 43](section/45.md)
+  - [s. 46 Notices and records in relation to seized items](section/46.md)
+  - [s. 47 Powers of entry, search and seizure: supplementary provision](section/47.md)
+  - [s. 48 Offences in relation to enforcement officers](section/48.md)
+- Retention and disposal of items
+  - [s. 49 Retention of seized items](section/49.md)
+  - [s. 50 Power of police, etc to dispose of seized psychoactive substances](section/50.md)
+  - [s. 51 Forfeiture of seized items by court on application](section/51.md)
+  - [s. 52 Appeal against decision under section 51](section/52.md)
+  - [s. 53 Return of item to person entitled to it, or disposal if return impracticable](section/53.md)
+  - [s. 54 Forfeiture by court following conviction](section/54.md)
+- Supplementary and final provisions
+  - [s. 55 Application of Customs and Excise Management Act 1979](section/55.md)
+  - [s. 56 Offences by directors, partners, etc](section/56.md)
+  - [s. 57 Providers of information society services](section/57.md)
+  - [s. 58 Review](section/58.md)
+  - [s. 59 Interpretation](section/59.md)
+  - [s. 60 Consequential amendments](section/60.md)
+  - [s. 61 Power to make further consequential amendments](section/61.md)
+  - [s. 62 Extent](section/62.md)
+  - [s. 63 Commencement and short title](section/63.md)
+- SCHEDULE 1 EXEMPTED SUBSTANCES
+  - Controlled drugs
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Medicinal products
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Alcohol
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Nicotine and tobacco products
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Caffeine
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Food
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 EXEMPTED ACTIVITIES
+  - Healthcare-related activities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Research
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 SEARCH WARRANTS: ENGLAND AND WALES AND NORTHERN IRELAND
+  - PART 1 APPLICATION OF THIS SCHEDULE
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 SEARCH WARRANTS: APPLICATIONS AND SAFEGUARDS
+    - Applications for warrants
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Safeguards in connection with power of entry conferred by warrant
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - PART 3 EXECUTION OF SEARCH WARRANTS
+    - Warrant to be executed within one month
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - All-premises warrants
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Search of premises more than once
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Time of search
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Evidence of authority etc
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Extent of search
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Securing premises after entry
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Return and retention of warrant
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 PROVIDERS OF INFORMATION SOCIETY SERVICES
+  - PART 1 OFFERING TO SUPPLY A PSYCHOACTIVE SUBSTANCE
+    - Domestic service providers: extension of liability
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Non-UK service providers: restriction on institution of proceedings
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Exceptions for mere conduits
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Exception for caching
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Exception for hosting
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 PROHIBITION NOTICES AND PROHIBITION ORDERS
+    - Domestic service providers: extension of liability
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Non-UK service providers: restriction on including terms in prohibition notice or order
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Protections for service providers of intermediary services
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 3 INTERPRETATION
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 CONSEQUENTIAL AMENDMENTS
+  - Intoxicating Substances (Supply) Act 1985
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Proceeds of Crime Act 2002
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Police Reform Act 2002
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Police (Northern Ireland) Act 2003
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Licensing Act 2003
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Gambling Act 2005
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Armed Forces Act 2006
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Serious Crime Act 2007
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Regulatory Enforcement and Sanctions Act 2008
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Policing and Crime Act 2009
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
