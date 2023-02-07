@@ -1,0 +1,197 @@
+# Recall of MPs Act 2015
+
+2015 c. 25. Enacted 2015-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2015/25/2023-02-07
+
+## Contents
+
+- How an MP becomes subject to a recall petition process
+  - [s. 1 How an MP becomes subject to a recall petition process](section/1.md)
+  - [s. 2 The first and third recall conditions: further provision](section/2.md)
+  - [s. 3 The first and third recall conditions: expiry of appeal period](section/3.md)
+  - [s. 4 The first and third recall conditions: courts to notify the Speaker](section/4.md)
+  - [s. 5 Speaker’s notice that first, second or third recall condition has been met](section/5.md)
+- Conduct of the recall petition process
+  - [s. 6 Petition officers](section/6.md)
+  - [s. 7 Where and from when the recall petition may be signed](section/7.md)
+  - [s. 8 Notice of petition to be sent to registered electors](section/8.md)
+  - [s. 9 Recall petition to be made available for signing](section/9.md)
+  - [s. 10 Persons entitled to sign a recall petition](section/10.md)
+  - [s. 11 How entitlement to sign a recall petition is to be exercised](section/11.md)
+  - [s. 12 Double signing](section/12.md)
+- Early termination of recall petition process
+  - [s. 13 Early termination of recall petition process](section/13.md)
+- Outcome of recall petition
+  - [s. 14 Determination of whether recall petition successful](section/14.md)
+  - [s. 15 Effect of successful petition](section/15.md)
+- Financial controls
+  - [s. 16 Expenses, donations and reporting](section/16.md)
+  - [s. 17 Loans](section/17.md)
+- Final provisions
+  - [s. 18 Power to make further provision about conduct of a recall petition etc](section/18.md)
+  - [s. 19 Performance of the Speaker’s functions by others](section/19.md)
+  - [s. 20 Minor and consequential amendments](section/20.md)
+  - [s. 21 Regulations](section/21.md)
+  - [s. 22 Interpretation](section/22.md)
+  - [s. 23 Extent](section/23.md)
+  - [s. 24 Commencement](section/24.md)
+  - [s. 25 Short title](section/25.md)
+- SCHEDULE 1 Petition officers
+  - Petition officer’s general duty
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Performance of petition officer’s functions: delegation, assistance etc
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Expenditure
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Taxation of petition officer’s account
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Alteration of registers of parliamentary electors
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Regulation of expenditure
+  - PART 1 Introduction
+    - Overview
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 Limits on expenditure
+    - Limit on petition expenditure: persons other than accredited campaigners
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Limit on petition expenditure: accredited campaigners
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Expenses incurred by persons acting in concert
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Expenses incurred before the recall petition period
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Notional petition expenses
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Petition expenses incurred before becoming an accredited campaigner
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - PART 3 Petition expenses of accredited campaigners: general controls
+    - Restriction on incurring petition expenses
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Restriction on payments in respect of petition expenses
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Restrictions on payment of claims in respect of petition expenses
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Payment of claims in respect of petition expenses: application for leave to pay late claims
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Disputed claims
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - PART 4 Meaning of “petition expense”
+    - Meaning of “petition expense”
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - List of matters
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - General exclusions
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Guidance
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - PART 5 Accredited campaigners and responsible persons
+    - Meaning of “accredited campaigner”
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Eligibility to be an accredited campaigner
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Accreditation notice
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Notice of alteration
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - The responsible person
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Duty of petition officer to publish information about accredited campaigners
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - PART 6 Final provisions
+    - Power to alter meaning of “petition expense”
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Power to alter certain financial limits
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Corrupt and illegal practices
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Application of defined terms in PPERA 2000
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 Control of donations to accredited campaigners
+  - PART 1 Introduction and interpretation
+    - Operation of Schedule and meaning of “accredited campaigner” and “relevant donation” etc
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Donations: general rules
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Sponsorship
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Payments etc not to be regarded as donations
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Value of donations
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Meaning of “permissible donor”
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Return of donations
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Power to alter certain financial limits
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 2 Control of donations
+    - Prohibition on accepting donations from impermissible or unidentifiable donors
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Donations treated as received or not received from permissible donors
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Meaning of “exempt trust donation” in paragraph 10
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Donations made on behalf of other persons
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Duty to verify identity of donor
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Duty to return donations from impermissible donors
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Duty to return donations from unidentifiable donors
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Circumstances in which donations treated as accepted or received
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Forfeiture of donations made by impermissible or unidentifiable donors
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Appeal against order under paragraph 17
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Supplementary provision about orders under paragraph 17 or 18
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Evasion of restrictions on donations
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Further provision about offences under this Schedule
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Application of defined terms in PPERA 2000
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+- SCHEDULE 5 Recall petition returns
+  - Recall petition returns
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Statements and accompanying documents relating to petition expenses
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Statement and accompanying documents relating to relevant donations accepted
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Statement relating to relevant donations received from impermissible or unidentifiable donors
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Declaration of responsible person as to return
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Delivery of return etc to petition officer and supplementary returns
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Offences relating to return
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Onward delivery of returns to Electoral Commission
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Inspection of returns and accompanying documents
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Application of certain provisions of Schedule 3
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Minor and consequential amendments
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Political Parties, Elections and Referendums Act 2000 (c. 41)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
