@@ -1,0 +1,125 @@
+# Terrorism Act 2006
+
+2006 c. 11. Enacted 2006-03-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/11
+
+Source: https://www.legislation.gov.uk/ukpga/2006/11/2023-02-07
+
+## Contents
+
+- Part 1 Offences
+  - Encouragement etc. of terrorism
+    - [s. 1 Encouragement of terrorism](section/1.md)
+    - [s. 2 Dissemination of terrorist publications](section/2.md)
+    - [s. 3 Application of ss. 1 and 2 to internet activity etc.](section/3.md)
+    - [s. 4 Giving of notices under s. 3](section/4.md)
+  - Preparation of terrorist acts and terrorist training
+    - [s. 5 Preparation of terrorist acts](section/5.md)
+    - [s. 6 Training for terrorism](section/6.md)
+    - [s. 7 Powers of forfeiture in respect of offences under s. 6](section/7.md)
+    - [s. 8 Attendance at a place used for terrorist training](section/8.md)
+  - Offences involving radioactive devices and materials and nuclear facilities and sites
+    - [s. 9 Making and possession of devices or materials](section/9.md)
+    - [s. 10 Misuse of devices or material and misuse and damage of facilities](section/10.md)
+    - [s. 11 Terrorist threats relating to devices, materials or facilities](section/11.md)
+    - [s. 11A Forfeiture of devices, materials or facilities](section/11A.md)
+    - [s. 12 Trespassing etc. on nuclear sites](section/12.md)
+  - Increases of penalties
+    - [s. 13 Maximum penalty for possessing for terrorist purposes](section/13.md)
+    - [s. 14 Maximum penalty for certain offences relating to nuclear material](section/14.md)
+    - [s. 15 Maximum penalty for contravening notice relating to encrypted information](section/15.md)
+  - Incidental provisions about offences
+    - [s. 16 Preparatory hearings in terrorism cases](section/16.md)
+    - [s. 17 Commission of offences abroad](section/17.md)
+    - [s. 18 Liability of company directors etc.](section/18.md)
+    - [s. 19 Consents to prosecutions](section/19.md)
+  - Interpretation of Part 1
+    - [s. 20 Interpretation of Part 1](section/20.md)
+- Part 2 Miscellaneous provisions
+  - Proscription of terrorist organisations
+    - [s. 21 Grounds of proscription](section/21.md)
+    - [s. 22 Name changes by proscribed organisations](section/22.md)
+  - Detention of terrorist suspects
+    - [s. 23 Extension of period of detention of terrorist suspects](section/23.md)
+    - [s. 24 Grounds for extending detention](section/24.md)
+    - [s. 25 Expiry or renewal of extended maximum detention period](section/25.md)
+  - Searches etc.
+    - [s. 26 All premises warrants: England and Wales and Northern Ireland](section/26.md)
+    - [s. 27 All premises warrants: Scotland](section/27.md)
+    - [s. 28 Search, seizure and forfeiture of terrorist publications](section/28.md)
+    - [s. 29 Power to search vehicles under Schedule 7 to the Terrorism Act 2000](section/29.md)
+    - [s. 30 Extension to internal waters of authorisations to stop and search](section/30.md)
+  - Other investigatory powers
+    - [s. 31 Amendment of the Intelligence Services Act 1994](section/31.md)
+    - [s. 32 Interception warrants](section/32.md)
+    - [s. 33 Disclosure notices for the purposes of terrorist investigations](section/33.md)
+  - Definition of terrorism etc.
+    - [s. 34 Amendment of the definition of “terrorism” etc.](section/34.md)
+  - Other amendments
+    - [s. 35 Applications for extended detention of seized cash](section/35.md)
+- Part 3 Supplemental provisions
+  - [s. 36 Review of terrorism legislation](section/36.md)
+  - [s. 37 Consequential amendments and repeals](section/37.md)
+  - [s. 38 Expenses](section/38.md)
+  - [s. 39 Short title, commencement and extent](section/39.md)
+- SCHEDULE 1 Convention offences
+  - Explosives offences
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Biological weapons
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Offences against internationally protected persons
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Hostage-taking
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Hijacking and other offences against aircraft
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Offences involving nuclear materialor nuclear facilities
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Offences under the Aviation and Maritime Security Act 1990 (c. 31)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Offences involving chemical weapons
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Terrorist funds
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Directing terrorist organisations
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Offences involving nuclear weapons
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Conspiracy etc.
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Seizure and forfeiture of terrorist publications
+  - Application of Schedule
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Notice of seizure
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Notice of claim
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Automatic forfeiture in a case where no claim is made
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Forfeiture by the court in other cases
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Forfeiture proceedings
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Effect of forfeiture
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Disposal of unclaimed property
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Provisions as to proof
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Special provisions as to certain claimants
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Saving for owner’s rights
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Interpretation of Schedule
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Repeals
