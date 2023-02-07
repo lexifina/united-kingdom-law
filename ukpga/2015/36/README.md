@@ -1,0 +1,164 @@
+# European Union Referendum Act 2015
+
+2015 c. 36. Enacted 2015-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2015/36/2023-02-07
+
+## Contents
+
+- The referendum
+  - [s. 1 The referendum](section/1.md)
+  - [s. 2 Entitlement to vote in the referendum](section/2.md)
+  - [s. 3 Further provision about the referendum](section/3.md)
+  - [s. 4 Conduct regulations, etc](section/4.md)
+  - [s. 5 Gibraltar](section/5.md)
+  - [s. 6 Duty to publish information on outcome of negotiations between member States](section/6.md)
+  - [s. 7 Duty to publish information about membership of the European Union etc](section/7.md)
+  - [s. 8 Power to modify section 125 of the 2000 Act](section/8.md)
+- Supplemental
+  - [s. 9 Regulations](section/9.md)
+  - [s. 10 Financial provisions](section/10.md)
+  - [s. 11 Definitions](section/11.md)
+- Final provisions
+  - [s. 12 Extent](section/12.md)
+  - [s. 13 Commencement](section/13.md)
+  - [s. 14 Short title](section/14.md)
+- SCHEDULE 1 CAMPAIGNING AND FINANCIAL CONTROLS
+  - The referendum period
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Permitted participants
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Notifications and declarations for purpose of becoming permitted participant
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Registration under section 107 of the 2000 Act
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Responsible person
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Person may not be responsible for compliance for two or more permitted participants
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Unincorporated associations with offensive etc names
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Designation of organisations: designation of one organisation only
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Applying to become a designated organisation: period for making application
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Grants to designated organisations may be paid in instalments
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Assistance available to designated organisations
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Referendum agents
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Referendum expenses: definition
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Creditors’ rights
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Expenses incurred by persons acting in concert
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Restriction on making claims in respect of referendum expenses
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Limits on referendum expenses by permitted participants
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Permissible donors: donations to registered parties other than minor parties
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Financial limit on certain donations etc to registered parties other than minor parties
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Permissible donors: donations to minor parties and to persons who are not parties
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - Acceptance or return of donations
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Evasion of restrictions on donations
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - Reporting of donations from permissible donors
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Returns in respect of referendum expenses and donations
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - Declaration of responsible person as to donations
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - Declaration where no referendum expenses incurred in referendum period
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - Application to Gibraltar public bodies of restriction on publication of promotional material
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - Reporting of donations during referendum period
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - Declaration of responsible person as to donation reports under paragraph 39
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - Public inspection of donation reports under paragraph 39
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - Referendum campaign broadcasts
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+  - Enforcement
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - Interpretation
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+- SCHEDULE 2 CONTROL OF LOANS ETC TO PERMITTED PARTICIPANTS
+  - Control of loans etc to permitted participants
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Further modifications of 2000 Act relating to loans etc
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Transactions entered into before commencement: operation of paragraphs 1 and 2
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Reporting of regulated transactions during referendum period
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Declaration of responsible person as to reports under paragraph 5
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Public inspection of reports under paragraph 5
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Enforcement
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Persons with whom certain registered parties may enter into loan agreements etc
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 FURTHER PROVISION ABOUT THE REFERENDUM
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appointment of Chief Counting Officer
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Counting officers
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Regional Counting Officers
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Assistance to counting officers etc
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - General duties of counting officers etc
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Appointment of deputies and clerks
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Counting officers etc: correction of procedural errors
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Public notices
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Role of Electoral Commission
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Encouraging participation
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Supply and use of register of electors
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Payments to counting officers and Regional Counting Officers
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Taxation of counting officer’s or Regional Counting Officer’s account
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Electoral Commission accounts
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Restriction on challenge to referendum result
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
