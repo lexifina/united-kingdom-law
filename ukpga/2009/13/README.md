@@ -1,0 +1,160 @@
+# Parliamentary Standards Act 2009
+
+2009 c. 13. Enacted 2009-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2009/13/2023-02-07
+
+## Contents
+
+- Introductory
+  - [s. 1 Bill of Rights](section/1.md)
+  - [s. 2 House of Lords](section/2.md)
+- Independent Parliamentary Standards Authority etc
+  - [s. 3 Independent Parliamentary Standards Authority etc](section/3.md)
+  - [s. 3A General duties of the IPSA](section/3A.md)
+- Salaries and allowances for MPs
+  - [s. 4 MPs’ salaries](section/4.md)
+  - [s. 4A Determination of MPs’ salaries](section/4A.md)
+  - [s. 5 MPs’ allowances scheme](section/5.md)
+  - [s. 6 Dealing with claims under the scheme](section/6.md)
+  - [s. 6A Review of IPSA’s determination](section/6A.md)
+  - [s. 7 Information and guidance ...](section/7.md)
+- ...
+  - [s. 8 MPs’ code of conduct relating to financial interests](section/8.md)
+- Investigation and enforcement
+  - [s. 9 Investigations](section/9.md)
+  - [s. 9A Procedures etc](section/9A.md)
+  - [s. 9B Enforcement](section/9B.md)
+  - [s. 10 Offence of providing false or misleading information for allowances claims](section/10.md)
+  - [s. 10A Relationships with other bodies etc](section/10A.md)
+- Final provisions
+  - [s. 11 Further functions of the IPSA and Commissioner](section/11.md)
+  - [s. 12 Interpretation](section/12.md)
+  - [s. 13 Power to make transitional etc provision](section/13.md)
+  - [s. 14 Short title and commencement](section/14.md)
+  - [s. 15 Expiry of provisions of the Act](section/15.md)
+- SCHEDULE 1 Independent Parliamentary Standards Authority
+  - Part 1 Members of the IPSA
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Appointment of chair and ordinary members
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Terms and conditions: general
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Term of office
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Resignation and removal from office
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Remuneration
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Code of conduct
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Disqualification
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part 2 The IPSA
+    - Status
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - ...
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Powers
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Committees
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Procedure and proceedings
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Staff
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Staff pensions
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Separation of administration functions and regulation functions
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Meaning of “administration functions” and “regulation functions”
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Delegation
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Contracting-out of payment functions
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Delegation and contracting out of pension functions
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Funding
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Accounts
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Audit
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Annual report
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Documentary evidence
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Freedom of information
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Public records
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Interpretation
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+- Schedule 2 Compliance Officer
+  - Appointment of Compliance Officer
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Terms and conditions: general
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Term of office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Resignation and removal from office
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Remuneration
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Status
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Funding
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Annual report
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Vacancy in office of Compliance Officer
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Disqualification
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Freedom of information
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Public records
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Speaker’s Committee for the Independent Parliamentary Standards Authority
+  - Membership
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appointed members
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Lay members
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+  - Committee proceedings
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- Schedule 4 Enforcement
+  - Part 1 Recovery of overpayments
+    - Power to give repayment direction
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Guidance etc
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Appeal against repayment direction
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Extension of repayment period
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Enforcement of repayment direction
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part 2 Penalties
+    - Power to impose penalties
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Amount of penalty
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Information to be contained in notice
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Guidance etc
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Review of penalty
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Appeal against penalty
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Enforcement of penalty
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Payment of penalty into Consolidated Fund
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
