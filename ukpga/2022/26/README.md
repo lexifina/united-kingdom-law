@@ -2,9 +2,9 @@
 
 2022 c. 26. Enacted 2022-04-28.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/26/enacted
+Source: https://www.legislation.gov.uk/ukpga/2022/26/2023-02-07
 
 ## Contents
 
