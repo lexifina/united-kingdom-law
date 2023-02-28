@@ -2,14 +2,15 @@
 
 2022 c. 48. Enacted 2022-12-06.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2022-12-06, are in the history before it: `git log -- ukpga/2022/48` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-02-28, one file per provision. Earlier versions, from 2022-12-06, are in the history before it: `git log -- ukpga/2022/48` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/48/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2022/48/2023-02-28
 
 ## Contents
 
 - Executive formation
-  - [s. 1 Extension of period for making Ministerial appointments by six weeks](section/1.md)
+  - [s. 1 Extension of period for making Ministerial appointments ...](section/1.md)
+  - [s. 1A Power to propose date for a poll](section/1A.md)
   - [s. 2 Power to extend period for making Ministerial appointments by a further six weeks](section/2.md)
 - Exercise of departmental functions
   - [s. 3 Exercise of departmental functions](section/3.md)
