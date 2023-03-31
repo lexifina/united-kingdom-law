@@ -1,0 +1,118 @@
+# Abusive Behaviour and Sexual Harm (Scotland) Act 2016
+
+asp/2016/22. Enacted 2016-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-03-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2016/22/2023-03-31
+
+## Contents
+
+- PART 1 Abusive behaviour
+  - Abusive behaviour towards partner or ex-partner
+    - [s. 1 Aggravation of offence where abuse of partner or ex-partner](section/1.md)
+    - [s. 1A Presumption as to the relationship](section/1A.md)
+  - Disclosure of an intimate photograph or film
+    - [s. 2 Disclosing, or threatening to disclose, an intimate photograph or film](section/2.md)
+    - [s. 3 Interpretation of section 2](section/3.md)
+    - [s. 4 Section 2: special provision in relation to providers of information society services](section/4.md)
+  - Non-harassment orders
+    - [s. 5 Making of non-harassment orders in criminal cases](section/5.md)
+- PART 2 Sexual harm
+  - CHAPTER 1 Jury directions relating to sexual offences
+    - [s. 6 Jury directions relating to sexual offences](section/6.md)
+  - CHAPTER 2 Sexual acts outside Scotland
+    - [s. 7 Incitement to commit certain sexual acts elsewhere in the United Kingdom](section/7.md)
+    - [s. 8 Commission of certain sexual offences elsewhere in the United Kingdom](section/8.md)
+    - [s. 9 Commission of certain sexual offences outside the United Kingdom](section/9.md)
+  - CHAPTER 3 Sexual harm prevention orders
+    - Meaning of sexual harm
+      - [s. 10 Meaning of sexual harm](section/10.md)
+    - Circumstances where sexual harm prevention order may be made
+      - [s. 11 Making of order on dealing with person for offence](section/11.md)
+      - [s. 12 Making of order against qualifying offender on application to sheriff](section/12.md)
+      - [s. 13 Qualifying offender: conviction etc. in Scotland](section/13.md)
+      - [s. 14 Qualifying offender: conviction etc. elsewhere in United Kingdom](section/14.md)
+      - [s. 15 Qualifying offender: conviction etc. outside United Kingdom](section/15.md)
+    - What order does
+      - [s. 16 Content and duration of order](section/16.md)
+      - [s. 17 Prohibitions on foreign travel](section/17.md)
+    - Interaction with notification requirements
+      - [s. 18 Application of notification requirements where order made](section/18.md)
+      - [s. 19 Cessation of order: relevant sexual offenders](section/19.md)
+    - Variation, renewal and discharge
+      - [s. 20 Variation, renewal and discharge](section/20.md)
+    - Interim orders
+      - [s. 21 Interim orders](section/21.md)
+    - Appeals
+      - [s. 22 Appeals](section/22.md)
+    - Requirement to serve order
+      - [s. 23 Requirement for clerk of court to serve order](section/23.md)
+    - Enforcement
+      - [s. 24 Offence of breaching order](section/24.md)
+    - Interpretation
+      - [s. 25 Interpretation of Chapter](section/25.md)
+  - CHAPTER 4 Sexual risk orders
+    - Meaning of harm
+      - [s. 26 Meaning of harm](section/26.md)
+    - Making of order
+      - [s. 27 Making of order](section/27.md)
+    - What order does
+      - [s. 28 Content and duration of order](section/28.md)
+      - [s. 29 Prohibitions on foreign travel](section/29.md)
+    - Variation, renewal and discharge
+      - [s. 30 Variation, renewal and discharge](section/30.md)
+    - Interim orders
+      - [s. 31 Interim orders](section/31.md)
+    - Appeals
+      - [s. 32 Appeals](section/32.md)
+    - Requirement to serve order
+      - [s. 33 Requirement for clerk of court to serve order](section/33.md)
+    - Enforcement
+      - [s. 34 Offence of breaching order](section/34.md)
+      - [s. 35 Application of notification requirements on breach of order](section/35.md)
+    - Interpretation
+      - [s. 36 Interpretation of Chapter](section/36.md)
+  - CHAPTER 5 Equivalent orders elsewhere in United Kingdom
+    - [s. 37 Breach of orders equivalent to orders in Chapters 3 and 4: offence](section/37.md)
+    - [s. 38 Breach of certain equivalent orders: application of notification requirements](section/38.md)
+  - CHAPTER 6 Previous orders
+    - [s. 39 Repeals of provisions as to previous orders](section/39.md)
+    - [s. 40 Saving and transitional provision](section/40.md)
+- PART 3 General
+  - [s. 41 Interpretation](section/41.md)
+  - [s. 42 Ancillary provision](section/42.md)
+  - [s. 43 Minor and consequential modifications](section/43.md)
+  - [s. 44 Crown application](section/44.md)
+  - [s. 45 Commencement](section/45.md)
+  - [s. 46 Short title](section/46.md)
+- SCHEDULE 1 SECTION 2: SPECIAL PROVISION IN RELATION TO PROVIDERS OF INFORMATION SOCIETY SERVICES
+  - Exceptions for mere conduits
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Exception for caching
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Exception for hosting
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interpretation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL MODIFICATIONS
+  - Criminal Procedure (Scotland) Act 1995
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Police Act 1997
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Sexual Offences Act 2003
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Protection of Vulnerable Groups (Scotland) Act 2007
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Sexual Offences (Scotland) Act 2009
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Criminal Justice and Licensing (Scotland) Act 2010
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Police and Fire Reform (Scotland) Act 2012
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Sexual Offences Act 2003 (Remedial) (Scotland) Order 2011 (S.S.I. 2011/45)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Anti-social Behaviour, Crime and Policing Act 2014
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
