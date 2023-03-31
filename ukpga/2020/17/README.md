@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-03-30, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-03-31, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2023-03-30
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2023-03-31
 
 ## Contents
 
@@ -532,7 +532,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2023-03-30
       - [s. 348 Sexual harm prevention orders: prohibitions on foreign travel](section/348.md)
       - [s. 349 Making of sexual harm prevention order: effect on other orders](section/349.md)
       - [s. 350 Sexual harm prevention orders: variations, renewals and discharges](section/350.md)
-      - [s. 351 Variation of sexual harm prevention order by court in Northern Ireland](section/351.md)
+      - [s. 351 Variation, renewal or discharge of sexual harm prevention order by court in Northern Ireland](section/351.md)
+      - [s. 351A Variation, renewal or discharge of sexual harm prevention order by court in Scotland](section/351A.md)
       - [s. 352 Sexual harm prevention orders: notification requirements](section/352.md)
       - [s. 353 Sexual harm prevention orders: appeals](section/353.md)
       - [s. 354 Offence: breach of sexual harm prevention order](section/354.md)
