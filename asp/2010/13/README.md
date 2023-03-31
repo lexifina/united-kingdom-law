@@ -1,0 +1,608 @@
+# Criminal Justice and Licensing (Scotland) Act 2010
+
+asp/2010/13. Enacted 2010-08-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-03-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/13
+
+Source: https://www.legislation.gov.uk/asp/2010/13/2023-03-31
+
+## Contents
+
+- PART 1 SENTENCING
+  - The Scottish Sentencing Council
+    - [s. 1 The Scottish Sentencing Council](section/1.md)
+    - [s. 2 The Council’s objectives](section/2.md)
+    - [s. 3 Sentencing guidelines](section/3.md)
+    - [s. 4 Consultation on proposed sentencing guidelines](section/4.md)
+    - [s. 5 Approval of sentencing guidelines by High Court](section/5.md)
+    - [s. 6 Effect of sentencing guidelines](section/6.md)
+    - [s. 7 Ministers’ power to request that sentencing guidelines be prepared or reviewed](section/7.md)
+    - [s. 8 High Court’s power to require preparation or review of sentencing guidelines](section/8.md)
+    - [s. 8A Sheriff Appeal Court’s power to require preparation or review of sentencing guidelines](section/8A.md)
+    - [s. 9 Publication of High Court and Sheriff Appeal Court guideline judgments](section/9.md)
+    - [s. 10 Scottish Court Service to provide sentencing information to the Council](section/10.md)
+    - [s. 11 The Council’s power to provide information, advice etc.](section/11.md)
+    - [s. 12 Business plan](section/12.md)
+    - [s. 13 Annual report](section/13.md)
+  - Community payback orders
+    - [s. 14 Community payback orders](section/14.md)
+  - Non-harassment orders
+    - [s. 15 Non-harassment orders](section/15.md)
+  - Short sentences
+    - [s. 16 Short periods of detention](section/16.md)
+    - [s. 17 Presumption against short periods of imprisonment](section/17.md)
+    - [s. 18 Amendments of Custodial Sentences and Weapons (Scotland) Act 2007](section/18.md)
+    - [s. 19 Early removal of certain short-term prisoners from the United Kingdom](section/19.md)
+  - Other sentencing measures
+    - [s. 20 Reports about supervised persons](section/20.md)
+    - [s. 21 Detention of children convicted on indictment](section/21.md)
+    - [s. 22 Pre-sentencing reports about organisations](section/22.md)
+    - [s. 23 Extended sentences for certain sexual offences](section/23.md)
+    - [s. 24 Effect of probation and absolute discharge](section/24.md)
+    - [s. 25 Offences aggravated by racial or religious prejudice](section/25.md)
+    - [s. 26 Voluntary intoxication by alcohol: effect in sentencing](section/26.md)
+    - [s. 27 Mutual recognition of judgments and probation decisions](section/27.md)
+- PART 2 CRIMINAL LAW
+  - Serious organised crime
+    - [s. 28 Involvement in serious organised crime](section/28.md)
+    - [s. 29 Offences aggravated by connection with serious organised crime](section/29.md)
+    - [s. 30 Directing serious organised crime](section/30.md)
+    - [s. 31 Failure to report serious organised crime](section/31.md)
+  - Genocide, crimes against humanity and war crimes
+    - [s. 32 Genocide, crimes against humanity and war crimes: UK residents](section/32.md)
+    - [s. 33 Genocide, crimes against humanity and war crimes: retrospective application](section/33.md)
+  - Articles banned in prison
+    - [s. 34 Articles banned in prison](section/34.md)
+  - Crossbows, knives etc.
+    - [s. 35 Sale and hire of crossbows to persons under 18](section/35.md)
+    - [s. 36 Sale and hire of knives and certain other articles to persons under 18](section/36.md)
+  - Offensive weapons etc.
+    - [s. 37 Offensive weapons etc.](section/37.md)
+  - Threatening or abusive behaviour
+    - [s. 38 Threatening or abusive behaviour](section/38.md)
+  - Stalking
+    - [s. 39 Offence of stalking](section/39.md)
+    - [s. 39A Offence of stalking committed outside the United Kingdom](section/39A.md)
+  - Sexual offences
+    - [s. 40 Certain sexual offences by non-natural persons](section/40.md)
+    - [s. 41 Indecent images of children](section/41.md)
+    - [s. 42 Extreme pornography](section/42.md)
+    - [s. 43 Voyeurism: additional forms of conduct](section/43.md)
+    - [s. 44 Sexual offences: defences in relation to offences against older children](section/44.md)
+    - [s. 45 Penalties for offences of brothel-keeping and living on the earnings of prostitution](section/45.md)
+  - People trafficking
+    - [s. 46 People trafficking](section/46.md)
+  - Slavery, servitude and forced or compulsory labour
+    - [s. 47 Slavery, servitude and forced or compulsory labour](section/47.md)
+  - Fraud and embezzlement
+    - [s. 48 Alternative charges for fraud and embezzlement](section/48.md)
+    - [s. 49 Articles for use in fraud](section/49.md)
+  - Conspiracy
+    - [s. 50 Conspiracy to commit offences outwith Scotland](section/50.md)
+  - Abolition of offences of sedition and leasing-making
+    - [s. 51 Abolition of offences of sedition and leasing-making](section/51.md)
+- PART 3 CRIMINAL PROCEDURE
+  - Children
+    - [s. 52 Prosecution of children](section/52.md)
+  - Offences: liability of partners
+    - [s. 53 Offences: liability of partners](section/53.md)
+  - Witness statements
+    - [s. 54 Witness statements](section/54.md)
+  - Police liberation
+    - [s. 55 Breach of undertaking](section/55.md)
+  - Grant of warrants
+    - [s. 56 Grant of warrants for execution by constables and police members of SCDEA](section/56.md)
+  - Bail
+    - [s. 57 Bail review applications](section/57.md)
+    - [s. 58 Bail condition for identification procedures etc.](section/58.md)
+    - [s. 59 Bail conditions: remote monitoring requirements](section/59.md)
+  - Prosecution on indictment
+    - [s. 60 Prosecution on indictment: Scottish Law Officers](section/60.md)
+  - Transfer of justice of the peace court cases
+    - [s. 61 Transfer of justice of the peace court cases](section/61.md)
+  - Additions to complaint
+    - [s. 62 Additional charge where bail etc. breached](section/62.md)
+  - Dockets and charges in sex cases
+    - [s. 63 Dockets and charges in sex cases](section/63.md)
+  - Remand and committal of children
+    - [s. 64 Remand and committal of children and young persons](section/64.md)
+  - Prosecution of organisations
+    - [s. 65 Meaning of “organisation”](section/65.md)
+    - [s. 66 Proceedings on indictment against organisations](section/66.md)
+    - [s. 67 Prosecution of organisations by summary procedure](section/67.md)
+    - [s. 68 Manner of citation of organisations in summary proceedings](section/68.md)
+  - Personal conduct of case by accused
+    - [s. 69 Prohibition of personal conduct of case by accused in certain proceedings](section/69.md)
+  - Disclosure of convictions etc.
+    - [s. 70 Disclosure of convictions and non-court disposals](section/70.md)
+    - [s. 71 Convictions by courts in other EU member States](section/71.md)
+  - Appeals: time limits
+    - [s. 72 Time limits for lodging certain appeals](section/72.md)
+  - Crown appeals
+    - [s. 73 Submissions as to sufficiency of evidence](section/73.md)
+    - [s. 74 Prosecutor’s right of appeal](section/74.md)
+    - [s. 75 Power of High Court in appeal under section 107A of 1995 Act](section/75.md)
+    - [s. 76 Further amendment of 1995 Act](section/76.md)
+  - Retention and use of samples etc.
+    - [s. 77 Retention of samples etc.](section/77.md)
+    - [s. 78 Retention of samples etc. where offer under sections 302 to 303ZA of 1995 Act accepted](section/78.md)
+    - [s. 79 Retention of samples etc. taken or provided in connection with certain fixed penalty offences](section/79.md)
+    - [s. 80 Retention of samples etc. from children referred to children’s hearings](section/80.md)
+    - [s. 81 Extension of section 19A of 1995 Act](section/81.md)
+    - [s. 82 Use of samples etc.](section/82.md)
+  - Referrals from the Scottish Criminal Cases Review Commission
+    - [s. 83 Referrals from Scottish Criminal Cases Review Commission: grounds for appeal](section/83.md)
+- PART 4 EVIDENCE
+  - [s. 84 Admissibility of prior statements of witnesses: abolition of competence test](section/84.md)
+  - [s. 85 Witness statements: use during trial](section/85.md)
+  - [s. 86 Spouse or civil partner of accused a compellable witness](section/86.md)
+  - [s. 87 Special measures for child witnesses and other vulnerable witnesses](section/87.md)
+  - [s. 88 Child witnesses in proceedings for people trafficking offences](section/88.md)
+  - [s. 89 Amendment of Criminal Justice (Scotland) Act 2003](section/89.md)
+  - [s. 90 Witness anonymity orders](section/90.md)
+  - [s. 91 Television link evidence](section/91.md)
+  - [s. 92 European evidence warrants](section/92.md)
+- PART 5 CRIMINAL JUSTICE
+  - Jury service
+    - [s. 93 Lists of jurors](section/93.md)
+    - [s. 94 Upper age limit for jurors](section/94.md)
+    - [s. 95 Excusal from jury service](section/95.md)
+    - [s. 96 Persons excusable from jury service](section/96.md)
+  - Data matching for detection of fraud etc.
+    - [s. 97 Data matching for detection of fraud etc.](section/97.md)
+  - Sharing information with anti-fraud organisations
+    - [s. 98 Sharing information with anti-fraud organisations](section/98.md)
+  - Closure of premises associated with human exploitation etc.
+    - [s. 99 Closure of premises associated with human exploitation etc.](section/99.md)
+  - Sexual offences prevention orders
+    - [s. 100 Sexual offences prevention orders](section/100.md)
+  - Foreign travel orders
+    - [s. 101 Foreign travel orders](section/101.md)
+  - Sex offender notification requirements
+    - [s. 102 Sex offender notification requirements](section/102.md)
+  - Risk of sexual harm orders
+    - [s. 103 Risk of sexual harm orders](section/103.md)
+    - [s. 104 Risk of sexual harm orders: spent convictions](section/104.md)
+  - Obtaining information from outwith United Kingdom
+    - [s. 105 Obtaining information from outwith United Kingdom](section/105.md)
+  - Surveillance
+    - [s. 106 Grant of authorisations for surveillance](section/106.md)
+  - Interference with property
+    - [s. 107 Authorisations to interfere with property etc.](section/107.md)
+  - Amendments of Part 5 of Police Act 1997
+    - [s. 108 Amendments of Part 5 of Police Act 1997](section/108.md)
+  - Rehabilitation of offenders
+    - [s. 109 Spent alternatives to prosecution: Rehabilitation of Offenders Act 1974](section/109.md)
+  - Medical services in prisons
+    - [s. 110 Medical services in prisons](section/110.md)
+  - Miscellaneous
+    - [s. 111 Assistance for victim support](section/111.md)
+    - [s. 112 Public defence solicitors](section/112.md)
+    - [s. 113 Compensation for miscarriages of justice](section/113.md)
+    - [s. 114 Financial reporting orders](section/114.md)
+    - [s. 115 Compensation orders](section/115.md)
+- PART 6 DISCLOSURE
+  - Meaning of “information”
+    - [s. 116 Meaning of “information”](section/116.md)
+  - Provision of information to prosecutor
+    - [s. 117 Provision of information to prosecutor: solemn cases](section/117.md)
+    - [s. 118 Continuing duty to provide information: solemn cases](section/118.md)
+    - [s. 119 Provision of information to prosecutor: summary cases](section/119.md)
+    - [s. 120 Continuing duty of investigating agency: summary cases](section/120.md)
+  - Prosecutor’s duty to disclose information
+    - [s. 121 Prosecutor’s duty to disclose information](section/121.md)
+    - [s. 122 Disclosure of other information: solemn cases](section/122.md)
+    - [s. 123 Continuing duty of prosecutor](section/123.md)
+  - Defence statements
+    - [s. 124 Defence statements: solemn proceedings](section/124.md)
+    - [s. 125 Defence statements: summary proceedings](section/125.md)
+    - [s. 126 Change in circumstances following lodging of defence statement: summary proceedings](section/126.md)
+  - Sections 121 to 126: general
+    - [s. 127 Sections 121 to 126: no need to disclose same information more than once](section/127.md)
+  - Court rulings on disclosure
+    - [s. 128 Application by accused for ruling on disclosure](section/128.md)
+    - [s. 129 Review of ruling under section 128](section/129.md)
+    - [s. 130 Appeals against rulings under section 128](section/130.md)
+  - Effect of guilty plea
+    - [s. 131 Effect of guilty plea](section/131.md)
+  - Disclosure after conclusion of proceedings at first instance
+    - [s. 132 Sections 133 to 140: interpretation](section/132.md)
+    - [s. 133 Duty to disclose after conclusion of proceedings at first instance](section/133.md)
+    - [s. 134 Continuing duty of prosecutor](section/134.md)
+    - [s. 135 Application to prosecutor for further disclosure](section/135.md)
+    - [s. 136 Further duty of prosecutor: conviction upheld on appeal](section/136.md)
+    - [s. 137 Further duty of prosecutor: convicted persons](section/137.md)
+    - [s. 138 Further duty of prosecutor: appeal against acquittal](section/138.md)
+  - Court rulings on disclosure: appellate proceedings
+    - [s. 139 Application by appellant for ruling on disclosure](section/139.md)
+    - [s. 140 Review of ruling under section 139](section/140.md)
+  - Disclosure in relation to 2011 Act proceedings
+    - [s. 140A Sections 140B to 140F: interpretation](section/140A.md)
+    - [s. 140B Duty to disclose on institution of 2011 Act proceedings](section/140B.md)
+    - [s. 140C Continuing duty of prosecutor](section/140C.md)
+    - [s. 140D Application to prosecutor for further disclosure](section/140D.md)
+  - Court rulings on disclosure: 2011 Act proceedings
+    - [s. 140E Application by respondent for ruling on disclosure](section/140E.md)
+    - [s. 140F Review of ruling under section 140E](section/140F.md)
+  - Applications to court: orders preventing or restricting disclosure
+    - [s. 141 Application for section 145 order](section/141.md)
+    - [s. 142 Application for non-notification order or exclusion order](section/142.md)
+    - [s. 143 Application for non-notification order and exclusion order](section/143.md)
+    - [s. 144 Application for exclusion order](section/144.md)
+    - [s. 145 Application for section 145 order: determination](section/145.md)
+  - Orders preventing or restricting disclosure: Secretary of State
+    - [s. 146 Order preventing or restricting disclosure: application by Secretary of State](section/146.md)
+    - [s. 147 Application for ancillary orders: Secretary of State](section/147.md)
+    - [s. 148 Application for restricted notification order and non-attendance order](section/148.md)
+    - [s. 149 Application for non-attendance order](section/149.md)
+  - Special counsel
+    - [s. 150 Special counsel](section/150.md)
+    - [s. 151 Persons eligible for appointment as special counsel](section/151.md)
+    - [s. 152 Role of special counsel](section/152.md)
+  - Appeals
+    - [s. 153 Appeals](section/153.md)
+    - [s. 154 Prohibition on disclosure pending determination of certain appeals](section/154.md)
+  - Review of section 145 and 146 orders
+    - [s. 155 Review of section 145 order](section/155.md)
+    - [s. 156 Review of section 146 order](section/156.md)
+    - [s. 157 Review by court of section 145 and 146 orders](section/157.md)
+  - Applications and reviews: general
+    - [s. 158 Applications and reviews: general provisions](section/158.md)
+  - General
+    - [s. 159 Exemptions from disclosure](section/159.md)
+    - [s. 160 Means of disclosure](section/160.md)
+    - [s. 161 Redaction of non-disclosable information by prosecutor](section/161.md)
+    - [s. 162 Confidentiality of disclosed information](section/162.md)
+    - [s. 163 Contravention of section 162](section/163.md)
+    - [s. 164 Code of practice](section/164.md)
+    - [s. 165 Acts of Adjournal](section/165.md)
+    - [s. 166 Abolition of common law rules about disclosure](section/166.md)
+  - Interpretation of Part 6
+    - [s. 167 Interpretation of Part 6](section/167.md)
+- PART 7 MENTAL DISORDER AND UNFITNESS FOR TRIAL
+  - [s. 168 Criminal responsibility of persons with mental disorder](section/168.md)
+  - [s. 169 Acquittal involving mental disorder: procedure](section/169.md)
+  - [s. 170 Unfitness for trial](section/170.md)
+  - [s. 171 Abolition of common law rules](section/171.md)
+- PART 8 LICENSING UNDER CIVIC GOVERNMENT (SCOTLAND) ACT 1982
+  - [s. 172 Conditions to which licences under 1982 Act are to be subject](section/172.md)
+  - [s. 173 Licensing: powers of entry and inspection for civilian employees](section/173.md)
+  - [s. 174 Licensing of taxis and private hire cars](section/174.md)
+  - [s. 175 Licensing of street trading: food hygiene certificates](section/175.md)
+  - [s. 176 Licensing of public entertainment](section/176.md)
+  - [s. 177 Licensing of late night catering](section/177.md)
+  - [s. 178 Applications for licences](section/178.md)
+- PART 9 ALCOHOL LICENSING
+  - [s. 179 Premises licence applications: statements about disabled access etc.](section/179.md)
+  - [s. 180 Premises licence applications: notification requirements](section/180.md)
+  - [s. 181 Premises licence applications: modification of layout plans](section/181.md)
+  - [s. 182 Reviews of premises licences: notification of determinations](section/182.md)
+  - [s. 183 Premises licence applications: antisocial behaviour reports](section/183.md)
+  - [s. 184 Premises licences: connected persons and interested parties](section/184.md)
+  - [s. 185 Provisional premises licences: duration](section/185.md)
+  - [s. 186 Premises licence applications: food hygiene certificates](section/186.md)
+  - [s. 187 Provision of copies of licences to chief constable](section/187.md)
+  - [s. 188 Sale of alcohol to trade](section/188.md)
+  - [s. 189 Occasional licences](section/189.md)
+  - [s. 190 Extended hours applications: notification period](section/190.md)
+  - [s. 191 Extended hours applications: variation of conditions](section/191.md)
+  - [s. 192 Personal licences](section/192.md)
+  - [s. 193 Emergency closure orders](section/193.md)
+  - [s. 194 Appeals](section/194.md)
+  - [s. 195 Liability for offences](section/195.md)
+  - [s. 196 False statements in applications: offence](section/196.md)
+  - [s. 197 Powers of Licensing Standards Officers](section/197.md)
+  - [s. 198 Further modifications of 2005 Act](section/198.md)
+- PART 10 MISCELLANEOUS
+  - [s. 199 Annual report on Criminal Justice (Terrorism and Conspiracy) Act 1998](section/199.md)
+  - [s. 200 Modification of references to “Act”, “enactment” etc. in certain Acts of Parliament](section/200.md)
+- PART 11 GENERAL
+  - [s. 201 Orders and regulations](section/201.md)
+  - [s. 202 Interpretation](section/202.md)
+  - [s. 203 Modification of enactments](section/203.md)
+  - [s. 204 Ancillary provision](section/204.md)
+  - [s. 205 Transitional provision etc.](section/205.md)
+  - [s. 206 Commencement and short title](section/206.md)
+- SCHEDULE 1 THE SCOTTISH SENTENCING COUNCIL
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Procedure for appointment of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Persons disqualified from membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Term of office
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Resignation and removal of members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Suspension of judicial members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration and expenses of members
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Chairing of the Council
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Validity of acts
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Ancillary powers
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Delegation
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Maladministration
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Freedom of information
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 COMMUNITY PAYBACK ORDERS: CONSEQUENTIAL MODIFICATIONS
+  - PART 1 THE 1995 ACT
+    - The 1995 Act
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - PART 2 OTHER ENACTMENTS
+    - The Firearms Act 1968 (c.27)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - The Social Work (Scotland) Act 1968 (c.49)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - The Rehabilitation of Offenders Act 1974 (c.53)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - The Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c.55)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - The Local Government and Planning (Scotland) Act 1982 (c.43)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - The 1982 Act
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - The Foster Children (Scotland) Act 1984 (c.56)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - The Road Traffic Offenders Act 1988 (c.53)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - The Jobseekers Act 1995 (c.18)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - The Proceeds of Crime (Scotland) Act 1995 (c.43)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - The Crime and Punishment (Scotland) Act 1997 (c.48)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - The Crime and Disorder Act 1998 (c.37)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - The Powers of Criminal Courts (Sentencing) Act 2000 (c.6)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - The Criminal Justice and Court Services Act 2000 (c.43)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - The Social Security Fraud Act 2001 (c.11)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - The Justice (Northern Ireland) Act 2002 (c.26)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - The Criminal Justice (Scotland) Act 2003 (asp 7)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - The Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - The Criminal Justice Act 2003 (c.44)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - The Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - The Management of Offenders etc. (Scotland) Act 2005 (asp 14)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - The Criminal Justice and Immigration Act 2008 (c.4)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+- SCHEDULE 3 SHORT-TERM CUSTODY AND COMMUNITY SENTENCES: CONSEQUENTIAL AMENDMENTS
+  - Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The 1995 Act
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 CONVICTIONS BY COURTS IN OTHER EU MEMBER STATES: MODIFICATIONS OF ENACTMENTS
+  - PART 1 THE 1995 ACT
+    - The 1995 Act
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 2 OTHER ENACTMENTS
+    - The 1982 Act
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - The Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - The Criminal Law (Consolidation) (Scotland) Act 1995 (c.39)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - The Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - The Sexual Offences (Scotland) Act 2009 (asp 9)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 WITNESS ANONYMITY ORDERS: TRANSITIONAL
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Pre-commencement anonymity orders: appeals
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 FURTHER MODIFICATIONS OF 2005 ACT
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 MODIFICATIONS OF ENACTMENTS
+  - The Libel Act 1792 (c.60)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Criminal Libel Act 1819 (c.8)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The False Oaths (Scotland) Act 1933 (c.20)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Public Records (Scotland) Act 1937 (c.43)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - The Law Officers Act 1944 (c.25)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - The Defamation Act 1952 (c.66)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Rehabilitation of Offenders Act 1974 (c.53)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - The Evidence (Proceedings in Other Jurisdictions) Act 1975 (c.34)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - The 1982 Act
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - The Incest and Related Offences (Scotland) Act 1986 (c.36)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - The Legal Aid (Scotland) Act 1986 (c.47)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - The Criminal Justice (Scotland) Act 1987 (c.41)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - The Criminal Justice Act 1988 (c.33)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - The Trade Union and Labour Relations (Consolidation) Act 1992 (c.52)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - The Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - The Criminal Law (Consolidation) (Scotland) Act 1995 (c.39)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c.40)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - The 1995 Act
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+    - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+    - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+    - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+    - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+  - The Offensive Weapons Act 1996 (c.26)
+    - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+  - The Defamation Act 1996 (c.31)
+    - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+  - The Crime and Punishment (Scotland) Act 1997 (c.48)
+    - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+    - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+  - The Terrorism Act 2000 (c.11)
+    - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+  - The Protection of Children (Scotland) Act 2003 (asp 5)
+    - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+  - The Criminal Justice (Scotland) Act 2003 (asp 7)
+    - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+  - The Legal Deposit Libraries Act 2003 (c.28)
+    - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+  - The Sexual Offences Act 2003 (c.42)
+    - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+  - The Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)
+    - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+  - The Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9)
+    - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+  - The Management of Offenders etc. (Scotland) Act 2005 (asp 14)
+    - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+  - The Serious Organised Crime and Police Act 2005 (c.15)
+    - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+  - The Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)
+    - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+    - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+    - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+    - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+    - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+    - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+  - The Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+    - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+  - The Counter-Terrorism Act 2008 (c.28)
+    - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+  - The Sexual Offences (Scotland) Act 2009 (asp 9)
+    - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+  - The Coroners and Justice Act 2009 (c.25)
+    - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
