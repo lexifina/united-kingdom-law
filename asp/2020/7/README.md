@@ -1,0 +1,220 @@
+# Coronavirus (Scotland) Act 2020
+
+asp/2020/7. Enacted 2020-04-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2020/7/2023-04-01
+
+## Contents
+
+- PART 1 Main provisions
+  - Key expression
+    - [s. 1 Meaning of “coronavirus”](section/1.md)
+  - Eviction from dwelling-houses
+    - [s. 2 Eviction from dwelling-houses](section/2.md)
+  - Protection for debtors
+    - [s. 3 Temporary extension of moratoriums on diligence](section/3.md)
+  - ...
+    - [s. 4 Children and vulnerable adults](section/4.md)
+  - Justice
+    - [s. 5 Justice](section/5.md)
+  - Alcohol licensing
+    - [s. 6 Alcohol licensing](section/6.md)
+  - Public bodies
+    - [s. 7 Functioning of public bodies](section/7.md)
+  - Other measures in response to coronavirus
+    - [s. 8 Other measures in response to coronavirus](section/8.md)
+- PART 2 Supporting provisions
+  - [s. 9 Advancement of equality and non-discrimination](section/9.md)
+  - [s. 10 Subordinate legislation making powers](section/10.md)
+  - [s. 11 Power to suspend and revive provisions](section/11.md)
+  - [s. 12 Expiry](section/12.md)
+  - [s. 13 Power to bring forward expiry](section/13.md)
+  - [s. 14 Power to amend Act in consequence of amendments to subordinate legislation](section/14.md)
+  - [s. 15 Reports by the Scottish Ministers on status of provisions](section/15.md)
+  - [s. 15A Reviews: information about domestic abuse](section/15A.md)
+  - [s. 16 Ancillary provision](section/16.md)
+  - [s. 17 Commencement](section/17.md)
+  - [s. 18 Short title](section/18.md)
+- SCHEDULE 1 Eviction from dwelling-houses
+  - Private residential tenancies: eviction grounds to be discretionary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Private residential tenancies: extension of notice periods
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Assured tenancies: eviction grounds to be discretionary
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Assured tenancies: extension of notice periods
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Tenancies under the Rent (Scotland) Act 1984: eviction grounds to be discretionary
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Tenancies under the Rent (Scotland) Act 1984: extension of notice periods
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Scottish secure tenancies: extension of notice periods
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Power to modify notice periods
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Consequential modifications in relation to prescribed forms
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Errors in notices
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Temporary extension of moratoriums on diligence
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Children and vulnerable adults
+  - ...
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+- SCHEDULE 4 Justice
+  - PART 1 Courts and tribunals: conduct of business by electronic means
+    - Electronic signatures and transmission of documents
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Intimation, etc. on Scottish Courts and Tribunals Service website
+      - [Sch. 4 para. 1A](schedule/4/paragraph/1A.md)
+    - Suspension of requirements for physical attendance
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Attendance by electronic means
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Further provision about attendance by electronic means
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Publication of directions and guidance
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Interpretation of Part
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - PART 2 Fiscal fines
+    - Fixed penalty: conditional offer by procurator fiscal
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - PART 3 Cases beginning with an appearance from custody
+    - Ability to take case in any sheriff court
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Paragraph 8: supporting provision
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 4 Extension of time limits
+    - Criminal proceedings: extension of time limits
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - PART 5 Evidence
+    - Exceptions to the rule that hearsay evidence is inadmissible
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - PART 6 Community orders
+    - Community payback orders: extension of unpaid work or other activity requirements
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Community payback orders: time limit for completion of unpaid work or other activity
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Community orders: postponement
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Community orders: variation
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Community orders: interpretation
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - PART 7 Parole Board
+    - Chairing of the Parole Board
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Modifications of the Parole Board Rules
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - PART 8 Release of prisoners
+    - Early release of prisoners
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Regulations under paragraph 19: procedure and expiry
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - PART 9 Legal aid
+    - Assessment of claims for interim payment of fees and outlays
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Recovery of overpayment of interim fees or outlays paid to firms
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Payment of interim fees for civil legal aid to counsel
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 Alcohol licensing
+  - Requirement to hold a hearing
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Premises licences
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Personal licence holders
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Licensing Boards etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Modifications of duties of Licensing Standards Officers
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Notifications by the chief constable
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Interpretation
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Modifications of the Licensing (Procedure) (Scotland) Regulations 2007
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Functioning of public bodies
+  - PART 1 Licensing other than alcohol licensing
+    - Modifications of Civic Government (Scotland) Act 1982 etc.
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - PART 2 Freedom of information
+    - Interpretation
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Time periods for responding to requests
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Extension of periods in which certain authorities may respond
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Commissioner’s ability to take account of impact of coronavirus
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Giving notice electronically
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - PART 3 Duties in respect of reports and other documents
+    - Power to postpone publication and laying of reports
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Power to publish or make available documents for inspection electronically
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Resumption of duties in relation to reports and documents
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - PART 4 Local authority meetings
+    - Introductory
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Interpretation
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Grounds for exclusion of the public from meetings of local authorities
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Photographic copies of documents in respect of meetings of local authorities
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - PART 5 Duties under the Public Finance and Accountability (Scotland) Act 2000
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+- SCHEDULE 7 Other measures in response to coronavirus
+  - Social security
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Irritancy clauses in commercial leases: non-payment of rent or other sums due
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Duration of planning permission
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Electronic delivery of copy of deed to Registers of Scotland
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Land registration: period of effect of advance notice
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Anatomy Act 1984: extension of periods
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Scrutiny of subordinate legislation in urgent cases
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+  - Business improvement districts: extension of certain arrangements
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - Muirburn
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
