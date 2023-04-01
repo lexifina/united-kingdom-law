@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2023-02-01
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2023-04-01
 
 ## Contents
 
@@ -113,6 +113,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2023-02-01
       - [s. 85 Application for licence](section/85.md)
       - [s. 86 Licensing criteria](section/86.md)
       - [s. 87 Grant or refusal of licence](section/87.md)
+      - [s. 87A Application and grant: NHS trusts](section/87A.md)
       - [s. 88 Application and grant: NHS foundation trusts](section/88.md)
       - [s. 89 Revocation of licence](section/89.md)
       - [s. 90 Right to make representations](section/90.md)
@@ -150,19 +151,19 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2023-02-01
     - [s. 114D Objections to proposed NHS payment scheme](section/114D.md)
     - [s. 114E Amendments of the NHS payment scheme](section/114E.md)
     - [s. 114F Interpretation](section/114F.md)
-    - [s. 115](section/115.md)
-    - [s. 116](section/116.md)
-    - [s. 117](section/117.md)
-    - [s. 118](section/118.md)
-    - [s. 119](section/119.md)
-    - [s. 120](section/120.md)
-    - [s. 121](section/121.md)
-    - [s. 122](section/122.md)
-    - [s. 123](section/123.md)
-    - [s. 124](section/124.md)
-    - [s. 125](section/125.md)
-    - [s. 126](section/126.md)
-    - [s. 127](section/127.md)
+    - [s. 115 Price payable by commissioners for NHS services](section/115.md)
+    - [s. 116 The national tariff](section/116.md)
+    - [s. 117 The national tariff: further provision](section/117.md)
+    - [s. 118 Consultation on proposals for the national tariff](section/118.md)
+    - [s. 119 Consultation: further provision](section/119.md)
+    - [s. 120 Responses to consultation](section/120.md)
+    - [s. 121 Determination on reference under section 120](section/121.md)
+    - [s. 122 Changes following determination on reference under section 120](section/122.md)
+    - [s. 123 Power to veto changes proposed under section 122](section/123.md)
+    - [s. 124 Local modifications of prices: agreements](section/124.md)
+    - [s. 125 Local modifications of prices: applications](section/125.md)
+    - [s. 126 Applications under section 125: notification of commissioners](section/126.md)
+    - [s. 127 Correction of mistakes](section/127.md)
   - CHAPTER 5 Health special administration
     - [s. 128 Health special administration orders](section/128.md)
     - [s. 129 Objective of a health special administration](section/129.md)
@@ -403,6 +404,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2023-02-01
   - Arrangements with devolved authorities etc.
     - [s. 295 Arrangements between NHS England and Northern Ireland Ministers](section/295.md)
     - [s. 296 Arrangements between NHS England and Scottish Ministers etc.](section/296.md)
+    - [s. 296A Arrangements between NHS England and devolved authorities in respect of education and training](section/296A.md)
     - [s. 297 Relationships between the health services](section/297.md)
     - [s. 298 Advice or assistance to public authorities in the Isle of Man or Channel Islands](section/298.md)
   - Supervised community treatment under the Mental Health Act 1983
