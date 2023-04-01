@@ -1,0 +1,160 @@
+# Coronavirus (Scotland) (No.2) Act 2020
+
+asp/2020/10. Enacted 2020-05-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2020/10/2023-04-01
+
+## Contents
+
+- PART 1 Main provisions
+  - Key expression
+    - [s. 1 Meaning of “coronavirus”](section/1.md)
+  - Protection of the individual
+    - [s. 2 Protection of the individual](section/2.md)
+  - Justice
+    - [s. 3 Operation of the justice system](section/3.md)
+  - Reports, accounts and other documents
+    - [s. 4 Reports, accounts and other documents](section/4.md)
+  - Other measures in response to coronavirus
+    - [s. 5 Other measures in response to coronavirus](section/5.md)
+- PART 2 Supporting and final provisions
+  - Supporting provisions
+    - [s. 6 Advancement of equality and non-discrimination](section/6.md)
+    - [s. 7 Subordinate legislation making powers](section/7.md)
+    - [s. 8 Power to suspend and revive provisions](section/8.md)
+    - [s. 9 Expiry](section/9.md)
+    - [s. 10 Power to bring forward expiry](section/10.md)
+    - [s. 11 Power to amend Act in consequence of amendments to subordinate legislation](section/11.md)
+  - Reporting requirements
+    - [s. 12 Reports by the Scottish Ministers on the status of provisions](section/12.md)
+    - [s. 13 Reviews: information about domestic abuse](section/13.md)
+    - [s. 14 Reports by the Scottish Ministers on coronavirus-related instruments](section/14.md)
+  - General
+    - [s. 15 Ancillary provision](section/15.md)
+    - [s. 16 Commencement](section/16.md)
+    - [s. 17 Short title](section/17.md)
+- SCHEDULE 1 Protection of the individual
+  - PART 1 Student residential tenancy: termination by tenant
+    - Interpretation of this Part
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Tenant’s ability to bring tenancy to an end
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Requirements for notice to be given by tenant
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - PART 2 Tenancies: pre-action requirements for order for possession or eviction order on ground of rent arrears
+    - Assured and short assured tenancy
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Private residential tenancy
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - PART 3 Carer’s allowance supplement
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - PART 4 Social care staff support fund
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - PART 5 Bankruptcy
+    - Electronic service of documents
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Financial criteria for minimal asset process
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Meaning of “qualified creditor”
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Deadline for sending proposals for debtor’s contribution
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Virtual meetings of creditors
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Electronic signature of forms
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Fees for debtor applications
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - PART 6 Mental health: named person nomination
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - PART 7 Care homes
+    - Emergency directions
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Emergency intervention orders
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - PART 8 Powers to purchase care home services and care at home providers
+    - Power of local authority to purchase distressed care home or care at home service provider
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Power of health body to purchase distressed care home service provider
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Circumstances in which powers under this Part may be exercised
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Interpretation
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - PART 9 Care homes: further provision
+    - Inspections
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Reporting on coronavirus deaths
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - PART 10 Marriage and civil partnership
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- SCHEDULE 2 Operation of the justice system
+  - PART 1 Criminal justice
+    - Criminal proceedings: extension of time limits
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Arrangements for the custody of persons detained at police stations
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Expiry of undertaking under section 25(2)(a) of the Criminal Justice (Scotland) Act 2016
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Fixed penalty notices under the Health Protection (Coronavirus) (Restrictions) (Scotland) Regulations 2020
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - PART 2 Proceeds of crime
+    - Extension of permitted period for purpose of confiscation order
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Time limits for payment of confiscation orders
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - PART 3 Intimation, etc. of documents
+    - Replacement of requirement for intimation on walls of court, etc.
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Reports, accounts and other documents
+  - PART 1 Reports, etc. under the Climate Change (Scotland) Act 2009
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 Accounts of registered social landlords
+    - Extension of deadline for accounts
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - PART 3 Accounts under the Public Finance and Accountability (Scotland) Act 2000
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - PART 4 Housing (Scotland) Act 1987: statement under section 33B
+    - Referral of application for accommodation to another local authority: extension of deadline for Ministerial statement
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Other measures in response to coronavirus
+  - PART 1 UEFA European Championship
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Listed buildings and conservation areas: consents
+    - Extension of period of consent
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - PART 3 Registers kept by the Keeper of the Registers of Scotland
+    - Register of Inhibitions
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Register of judgments
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - PART 4 Care services: giving of notices by the Care Inspectorate
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 5 Land and buildings transaction tax: additional amount
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - PART 6 Non-domestic rates relief
+    - Special power in respect of financial year 2020-21
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Relief to be provided to the newspaper publishing industry
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 7 Execution of documents, etc.
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 8 Freedom of information
+    - Modification of Coronavirus (Scotland) Act 2020
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Reporting on Scottish Ministers’ responses to requests for information
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - PART 9 Low emission zones
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - PART 10 Council tax: exempt dwellings
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - PART 11 Traffic Regulation
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - PART 12 Restriction on giving grant to businesses connected to tax havens
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
