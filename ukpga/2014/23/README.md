@@ -2,9 +2,9 @@
 
 2014 c. 23. Enacted 2014-05-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. Earlier versions, from 2014-05-14, are in the history before it: `git log -- ukpga/2014/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/23/2023-02-01
+Source: https://www.legislation.gov.uk/ukpga/2014/23/2023-04-01
 
 ## Contents
 
@@ -99,6 +99,9 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2023-02-01
     - [s. 71 Five-yearly review by Secretary of State](section/71.md)
   - Appeals
     - [s. 72 Part 1 appeals](section/72.md)
+  - Default by local authority
+    - [s. 72A Default power of Secretary of State](section/72A.md)
+    - [s. 72B Default power of Secretary of State: supplementary](section/72B.md)
   - Miscellaneous
     - [s. 73 Human Rights Act 1998: provision of regulated care or support etc a public function](section/73.md)
     - [s. 74 Discharge of hospital patients with care and support needs](section/74.md)
@@ -132,7 +135,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2023-02-01
   - Regulated activities
     - [s. 95 Training for persons working in regulated activity](section/95.md)
 - PART 3 Health
-  - CHAPTER 1 Health Education England
+  - CHAPTER 1 The Education and Training Functions of NHS England
     - Establishment
       - [s. 96 Health Education England](section/96.md)
     - National functions
@@ -140,7 +143,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/23/2023-02-01
       - [s. 98 Ensuring sufficient skilled health care workers for the health service](section/98.md)
       - [s. 99 Quality improvement in education and training, etc.](section/99.md)
       - [s. 100 Objectives, priorities and outcomes](section/100.md)
-      - [s. 101 Sections 98 and 100: matters to which HEE must have regard](section/101.md)
+      - [s. 101 Sections 98 and 100: matters to which NHS England must have regard](section/101.md)
       - [s. 102 Advice](section/102.md)
     - ...
       - [s. 103 Local Education and Training Boards](section/103.md)
