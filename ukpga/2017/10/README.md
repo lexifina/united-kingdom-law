@@ -2,9 +2,9 @@
 
 2017 c. 10. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/10/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2017/10/2023-04-01
 
 ## Contents
 
@@ -56,6 +56,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/10/2023-02-07
     - [s. 34 Secondary warehousing regulations](section/34.md)
     - [s. 35 Liability to pay the levy](section/35.md)
     - [s. 36 Levy rates](section/36.md)
+    - [s. 36A Determining levy rate for flavour concentrates](section/36A.md)
   - Exemption etc
     - [s. 37 Small producer exemption](section/37.md)
     - [s. 38 Meaning of “small producer”](section/38.md)
