@@ -2,9 +2,9 @@
 
 2022 c. 10. Enacted 2022-03-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-01-16, one file per provision. Earlier versions, from 2022-03-15, are in the history before it: `git log -- ukpga/2022/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. Earlier versions, from 2022-03-15, are in the history before it: `git log -- ukpga/2022/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/10/2023-01-16
+Source: https://www.legislation.gov.uk/ukpga/2022/10/2023-04-01
 
 ## Contents
 
@@ -48,6 +48,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2023-01-16
     - [s. 27 Resolving inconsistencies in the register](section/27.md)
     - [s. 28 Administrative removal of material from register](section/28.md)
     - [s. 29 Application to rectify register](section/29.md)
+    - [s. 29A](section/29A.md)
     - [s. 30 Court order to rectify register](section/30.md)
     - [s. 31 Court powers on ordering removal of material from the register](section/31.md)
   - False statements
