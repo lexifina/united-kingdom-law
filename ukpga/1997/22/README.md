@@ -1,0 +1,145 @@
+# Architects Act 1997
+
+1997 c. 22. Enacted 1997-03-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1997/22/2023-04-01
+
+## Contents
+
+- Part I The Architects Registration Board
+  - [s. 1 The Board.](section/1.md)
+  - [s. 1AA Authorisation for Board to enter into regulator recognition agreements](section/1AA.md)
+  - [s. 1A Designation of the Board as competent authority](section/1A.md)
+- Part II Registration etc.
+  - The Registrar and the Register
+    - [s. 2 The Registrar.](section/2.md)
+    - [s. 3 The Register.](section/3.md)
+  - Registration
+    - [s. 4 Registration ...: general](section/4.md)
+    - [s. 5 Registration ...: European qualifications](section/5.md)
+    - [s. 5A Registration in Part 2 of the Register: Directive-rights nationals providing services](section/5A.md)
+    - [s. 5B Titles to be used by persons registered in Part 2 of the Register](section/5B.md)
+    - [s. 5C Information to be given to recipients of the service](section/5C.md)
+    - [s. 5D Administrative co-operation with other relevant European States](section/5D.md)
+    - [s. 5E Complaints by recipients of services](section/5E.md)
+    - [s. 6 Registration: further procedural requirements.](section/6.md)
+    - [s. 6A Issuing of certificates of architectural education](section/6A.md)
+    - [s. 7 Penalty for obtaining registrationor recognition by false representation.](section/7.md)
+  - Removal from Register etc.
+    - [s. 8 Retention of name in Register.](section/8.md)
+    - [s. 9 Competence to practise.](section/9.md)
+    - [s. 10 Disqualification in a relevant European State.](section/10.md)
+    - [s. 11 Failure to notify change of address.](section/11.md)
+  - ...
+    - [s. 12 Visiting EEA architects.](section/12.md)
+- Part III Discipline
+  - Professional standards
+    - [s. 13 Code of practice.](section/13.md)
+    - [s. 14 Professional misconduct and incompetence.](section/14.md)
+  - Disciplinary orders
+    - [s. 15 Disciplinary orders.](section/15.md)
+    - [s. 16 Penalty orders.](section/16.md)
+    - [s. 17 Suspension orders.](section/17.md)
+    - [s. 18 Erasure orders.](section/18.md)
+  - ...
+    - [s. 19 Application of discipline provisions to visiting EEA architects.](section/19.md)
+- Part IV Use of title “architect”
+  - [s. 20 Use of title “architect”.](section/20.md)
+  - [s. 21 Offence.](section/21.md)
+- Part V General and supplementary
+  - General
+    - [s. 21A Appeals to the Appeals Committee](section/21A.md)
+    - [s. 22 Appeals to the court](section/22.md)
+    - [s. 22B Professional-regulation information](section/22B.md)
+    - [s. 22C Confidentiality](section/22C.md)
+    - [s. 23 Rules.](section/23.md)
+    - [s. 24 Service of documents.](section/24.md)
+    - [s. 24A Fees](section/24A.md)
+  - Supplementary
+    - [s. 25 Interpretation.](section/25.md)
+    - [s. 26 Consequential amendments.](section/26.md)
+    - [s. 27 Transitionals, repeals etc.](section/27.md)
+    - [s. 28 Short title, commencement and extent.](section/28.md)
+- SCHEDULE 1 The Board and its committees
+  - Part I The Board
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Elected members
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Appointed members
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Term of office
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Casual vacancies
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Chair
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Procedure
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Staff
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Seal
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part II The Professional Conduct Committee
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 17A](schedule/1/paragraph/17A.md)
+  - Part 2A The appeals committee
+    - [Sch. 1 para. 17B](schedule/1/paragraph/17B.md)
+  - Part III Other committees
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Part IV General
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- SCHEDULE 1A VISITING ARCHITECTS FROM RELEVANT EUROPEAN STATES
+  - [Sch. 1A para. 1 Application and interpretation](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Application and interpretation](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Entitlement to be registered in respect of provision of occasional services: first year](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Registration in respect of provision of occasional services after first year](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Duration of entitlements to be registered in Part 2 of the Register](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Deemed registration where person entitled to be registered is not registered](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Registrar’s power to remove person’s name from Part 2 of the Register](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Saving for other powers to de-register or suspend registration](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Registrar’s duty to notify person appearing not to have entitlement](schedule/1A/paragraph/9.md)
+- SCHEDULE 2 Transitional provisions and savings
+  - General transitionals and savings
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - First appointments to the Board
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Registration
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Discipline
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Offence of practising while not registered
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - The Education Fund
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Repeals and revocations
+  - TABLE OF DERIVATIONS
+    - [Sch. 3 para. 1 Notes:](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
