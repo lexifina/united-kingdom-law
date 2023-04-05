@@ -2,9 +2,9 @@
 
 2015 c. 9. Enacted 2015-03-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-05, one file per provision. Earlier versions, from 2015-03-03, are in the history before it: `git log -- ukpga/2015/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/9/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2015/9/2023-04-05
 
 ## Contents
 
