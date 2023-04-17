@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-04-17, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-01
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
 
 ## Contents
 
@@ -175,8 +175,10 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-01
     - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
   - Limitation of persons bound
     - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
-  - Exclusion of assignment, upgrading and sharing provisions
+  - Exclusion of assignment ... provisions
     - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Upgrading and sharing provisions
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
   - Termination and modification of agreements
     - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
     - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
