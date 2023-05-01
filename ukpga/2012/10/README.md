@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-05-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2023-05-01
 
 ## Contents
 
@@ -213,6 +213,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2023-02-07
   - Part 1 Services
     - Care, supervision and protection of children
       - [Sch. 1 Pt. 1 heading care-supervision-and-protection-of-children para. 1](schedule/1/part/1/crossheading/care-supervision-and-protection-of-children/paragraph/1.md)
+    - Special Guardianship
+      - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
     - Special educational needs
       - [Sch. 1 Pt. 1 heading special-educational-needs para. 2](schedule/1/part/1/crossheading/special-educational-needs/paragraph/2.md)
     - Abuse of child or vulnerable adult
