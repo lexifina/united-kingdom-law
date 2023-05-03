@@ -1,0 +1,141 @@
+# National Security and Investment Act 2021
+
+2021 c. 25. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-05-03, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/25/2023-05-03
+
+## Contents
+
+- PART 1 Call-in for national security
+  - CHAPTER 1 Call-in power
+    - [s. 1 Call-in notice for national security purposes](section/1.md)
+    - [s. 2 Further provision about call-in notices](section/2.md)
+    - [s. 3 Statement about exercise of call-in power](section/3.md)
+    - [s. 4 Consultation and parliamentary procedure](section/4.md)
+  - CHAPTER 2 Interpretation
+    - [s. 5 Meaning of “trigger event” and “acquirer”](section/5.md)
+    - [s. 6 Notifiable acquisitions](section/6.md)
+    - [s. 7 Qualifying entities and assets](section/7.md)
+    - [s. 8 Control of entities](section/8.md)
+    - [s. 9 Control of assets](section/9.md)
+    - [s. 10 Holding and acquiring interests and rights: supplementary](section/10.md)
+    - [s. 11 Exceptions relating to control of assets](section/11.md)
+    - [s. 12 Trigger events: supplementary](section/12.md)
+  - CHAPTER 3 Approval of notifiable acquisition
+    - [s. 13 Approval of notifiable acquisition](section/13.md)
+  - CHAPTER 4 Procedure
+    - Procedure in respect of notifiable acquisition
+      - [s. 14 Mandatory notification procedure](section/14.md)
+      - [s. 15 Requirement to consider retrospective validation without application](section/15.md)
+      - [s. 16 Application for retrospective validation of notifiable acquisition](section/16.md)
+      - [s. 17 Retrospective validation of notifiable acquisition following call-in](section/17.md)
+    - Voluntary notification of trigger event
+      - [s. 18 Voluntary notification procedure](section/18.md)
+    - Information, etc
+      - [s. 19 Power to require information](section/19.md)
+      - [s. 20 Attendance of witnesses](section/20.md)
+      - [s. 21 Information notices and attendance notices: persons outside the UK](section/21.md)
+      - [s. 22 False or misleading information](section/22.md)
+- PART 2 Remedies
+  - Assessment period
+    - [s. 23 Meaning of “assessment period”](section/23.md)
+    - [s. 24 Effect of information notice and attendance notice](section/24.md)
+  - Interim and final orders
+    - [s. 25 Interim orders](section/25.md)
+    - [s. 26 Final orders and final notifications](section/26.md)
+    - [s. 27 Review, variation and revocation of orders](section/27.md)
+    - [s. 28 Orders: supplementary](section/28.md)
+    - [s. 29 Publication of notice of final order](section/29.md)
+  - Financial assistance
+    - [s. 30 Financial assistance](section/30.md)
+  - CMA functions
+    - [s. 31 Interaction with CMA functions under Part 3 of Enterprise Act 2002](section/31.md)
+- PART 3 Enforcement and Appeals
+  - Offences
+    - [s. 32 Offence of completing notifiable acquisition without approval](section/32.md)
+    - [s. 33 Offence of failing to comply with order](section/33.md)
+    - [s. 34 Offences: information and attendance of witnesses](section/34.md)
+    - [s. 35 Offences in relation to sharing information](section/35.md)
+    - [s. 36 Offences by bodies corporate etc](section/36.md)
+  - Prosecution and penalties
+    - [s. 37 Prosecution](section/37.md)
+    - [s. 38 Proceedings against partnerships etc](section/38.md)
+    - [s. 39 Offences: penalties](section/39.md)
+  - Civil sanctions
+    - [s. 40 Power to impose monetary penalties](section/40.md)
+    - [s. 41 Permitted maximum penalties](section/41.md)
+    - [s. 42 Review, variation and revocation of monetary penalties](section/42.md)
+    - [s. 43 Monetary penalties: criminal proceedings and convictions](section/43.md)
+    - [s. 44 Recovering penalties](section/44.md)
+    - [s. 45 Monetary penalties: cost recovery](section/45.md)
+    - [s. 46 Review, variation and revocation of cost recovery notice](section/46.md)
+    - [s. 47 Enforcement of cost recovery notice](section/47.md)
+  - Civil proceedings
+    - [s. 48 Enforcement through civil proceedings](section/48.md)
+  - Judicial review and appeals
+    - [s. 49 Procedure for judicial review of certain decisions](section/49.md)
+    - [s. 50 Appeals against monetary penalties](section/50.md)
+    - [s. 51 Appeals against costs](section/51.md)
+  - Territorial application
+    - [s. 52 Extra-territorial application and jurisdiction to try offences](section/52.md)
+- PART 4 Miscellaneous
+  - Administrative requirements
+    - [s. 53 Procedure for service, etc](section/53.md)
+  - Information gateways
+    - [s. 54 Disclosure of information](section/54.md)
+    - [s. 55 Disclosure of information held by HMRC](section/55.md)
+  - CMA information
+    - [s. 56 Duty of CMA to provide information and assistance](section/56.md)
+  - Data protection
+    - [s. 57 Data protection](section/57.md)
+  - Minor amendments, etc
+    - [s. 58 Minor and consequential amendments and revocations](section/58.md)
+  - Disclosure of information under the Enterprise Act 2002
+    - [s. 59 Overseas information disclosure](section/59.md)
+  - Defamation
+    - [s. 60 Defamation](section/60.md)
+  - Annual report
+    - [s. 61 Annual report](section/61.md)
+- PART 5 Final provisions
+  - [s. 62 Transitional and saving provision in relation to the Enterprise Act 2002](section/62.md)
+  - [s. 63 Regulations under this Act](section/63.md)
+  - [s. 64 Financial provision](section/64.md)
+  - [s. 65 Interpretation](section/65.md)
+  - [s. 66 Short title, commencement and extent](section/66.md)
+- SCHEDULE 1 Trigger events: holding of interests and rights
+  - Joint interests
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Joint arrangements
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Indirect holdings
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interests held by nominees
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Rights treated as held by person who controls their exercise
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Rights exercisable only in certain circumstances etc
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Rights attached to shares held by way of security
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Connected persons
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Common purpose
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Arrangements
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Minor and consequential amendments and revocations
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
