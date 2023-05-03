@@ -1,0 +1,409 @@
+# Weights and Measures Act 1985
+
+1985 c. 72. Enacted 1985-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-05-03, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
+
+Source: https://www.legislation.gov.uk/ukpga/1985/72/2023-05-03
+
+## Contents
+
+- Part I Units and Standards of Measurement
+  - [s. 1 Units of measurement.](section/1.md)
+  - [s. 2 United Kingdom primary standards and authorised copies of the primary standards.](section/2.md)
+  - [s. 3 Department of Trade and Industry secondary, tertiary and coinage standards.](section/3.md)
+  - [s. 4 Local standards.](section/4.md)
+  - [s. 5 Working standards and testing and stamping equipment.](section/5.md)
+  - [s. 6 Testing of other standards and equipment.](section/6.md)
+- Part II Weighing and Measuring for Trade
+  - General
+    - [s. 7 Meaning of “use for trade”.](section/7.md)
+    - [s. 8 Units of measurement, weights and measures lawful for use for trade.](section/8.md)
+    - [s. 9 Dual marking and conversion charts.](section/9.md)
+    - [s. 10 Multiples and fractions of measures and units.](section/10.md)
+  - Weighing or measuring equipment for use for trade
+    - [s. 11 Certain equipment to be passed and stamped by inspector.](section/11.md)
+    - [s. 11A Approval of persons to verify equipment manufactured etc by them.](section/11A.md)
+    - [s. 11B Testing by official EEA testers.](section/11B.md)
+    - [s. 12 Approved patterns of equipment.](section/12.md)
+    - [s. 13 Offences in connection with approved patterns of equipment.](section/13.md)
+    - [s. 14 General specifications of equipment.](section/14.md)
+  - Miscellaneous
+    - [s. 15 Regulations relating to weighing or measuring for trade.](section/15.md)
+    - [s. 15A Pre-test stamping by certain manufacturers.](section/15A.md)
+    - [s. 16 Offences in connection with stamping of equipment.](section/16.md)
+    - [s. 17 Offences relating to false or unjust equipment or fraud.](section/17.md)
+- Part III Public Weighing or Measuring Equipment
+  - [s. 18 Keepers of public equipment to hold certificate.](section/18.md)
+  - [s. 19 Provision of public equipment by local authorities.](section/19.md)
+  - [s. 20 Offences in connection with public equipment.](section/20.md)
+- Part IV Regulation of Transactions in Goods
+  - Transactions in particular goods
+    - [s. 21 Transactions in goods mentioned in Schedules 4 to 7.](section/21.md)
+    - [s. 22 Orders relating to transactions in particular goods.](section/22.md)
+    - [s. 23 Regulations as to information.](section/23.md)
+    - [s. 24 Exemption from requirements imposed under sections 21 to 23.](section/24.md)
+    - [s. 25 Offences relating to transactions in particular goods.](section/25.md)
+  - Quantity to be stated in writing
+    - [s. 26 Quantity to be stated in writing in certain cases.](section/26.md)
+    - [s. 27 Exemption from requirements of section 26.](section/27.md)
+  - General offences
+    - [s. 28 Short weight, etc.](section/28.md)
+    - [s. 29 Misrepresentation.](section/29.md)
+    - [s. 30 Quantity less than stated.](section/30.md)
+    - [s. 31 Incorrect statements.](section/31.md)
+    - [s. 31A Non-compliance with certain requirements of the FIC Regulation](section/31A.md)
+    - [s. 32 Offences due to default of third person.](section/32.md)
+  - Defences
+    - [s. 33 Warranty.](section/33.md)
+    - [s. 34 Reasonable precautions and due diligence.](section/34.md)
+    - [s. 35 Subsequent deficiency.](section/35.md)
+    - [s. 36 Excess due to precautions.](section/36.md)
+    - [s. 37 Provisions as to testing.](section/37.md)
+  - Powers of inspectors
+    - [s. 38 Special powers of inspectors with respect to certain goods.](section/38.md)
+    - [s. 39 Powers of inspectors with respect to certain documents.](section/39.md)
+    - [s. 40 Powers of inspectors with respect to goods carried on road vehicles.](section/40.md)
+  - Miscellaneous and supplementary
+    - [s. 41 Check-weighing of certain road vehicles.](section/41.md)
+    - [s. 42 Power to make test purchases.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 Selling by quantity.](section/44.md)
+    - [s. 45 Making quantity known to a person.](section/45.md)
+    - [s. 46 Weighing in presence of a person.](section/46.md)
+- Part V Packaged Goods
+  - Quantity control
+    - [s. 47 Duty of packers and importers as to quantity.](section/47.md)
+    - [s. 48 Duty of packers and importers as to marking of containers.](section/48.md)
+    - [s. 49 Duties as to equipment, checks and documentation.](section/49.md)
+  - Enforcement of control
+    - [s. 50 Offences, etc.](section/50.md)
+    - [s. 51 Defences to certain charges under section 50.](section/51.md)
+    - [s. 52 Enforcement of Part V by local weights and measures authority.](section/52.md)
+    - [s. 53 Powers of inspectors and local weights and measures authority under Part V.](section/53.md)
+  - Special provision for certain packages
+    - [s. 54 Special provision for certain packages.](section/54.md)
+  - Co-ordination of control
+    - [s. 55 The national Metrological Co-ordinating Unit](section/55.md)
+    - [s. 56 General duties of Secretary of State.](section/56.md)
+    - [s. 57 Power of Secretary of State to require packers and importers to furnish particulars of marks.](section/57.md)
+    - [s. 58 Duty of Secretary of State to prepare scheme allocating marks.](section/58.md)
+    - [s. 59 Supervision by Secretary of State of certain functions of inspectors.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 ................................](section/61.md)
+    - [s. 62 Power to extend or transfer Unit’s functions and to abolish Unit.](section/62.md)
+  - Instructions by inspectors
+    - [s. 63 Instructions by inspectors.](section/63.md)
+  - Miscellaneous
+    - [s. 64 Disclosure of information.](section/64.md)
+    - [s. 65 Power to modify Part V.](section/65.md)
+    - [s. 66 Regulations under Part V.](section/66.md)
+    - [s. 67 Service of documents.](section/67.md)
+    - [s. 68 Interpretation of Part V.](section/68.md)
+- Part VI Administration
+  - Local administration
+    - [s. 69 Local weights and measures authorities.](section/69.md)
+    - [s. 70 Annual reports by local weights and measures authorities.](section/70.md)
+    - [s. 71 Inspection of local weights and measures arrangements.](section/71.md)
+  - Inspectors of weights and measures
+    - [s. 72 Appointment of inspectors.](section/72.md)
+    - [s. 73 Certificate of qualification to act as inspector.](section/73.md)
+    - [s. 74 Performance by inspectors of additional functions.](section/74.md)
+    - [s. 75 Offences in connection with office of inspector.](section/75.md)
+  - Fees
+    - [s. 76 Fees for performance of EU obligations.](section/76.md)
+    - [s. 77 Reduction of fees.](section/77.md)
+    - [s. 78 Fees received by inspectors.](section/78.md)
+- Part VII General
+  - Enforcement and legal proceedings
+    - [s. 79 General powers of inspection and entry.](section/79.md)
+    - [s. 79A Investigatory powers](section/79A.md)
+    - [s. 80 Obstruction of inspectors.](section/80.md)
+    - [s. 81 Failure to provide assistance or information.](section/81.md)
+    - [s. 82 Offences by corporations.](section/82.md)
+    - [s. 83 Prosecution of offences.](section/83.md)
+    - [s. 84 Penalties.](section/84.md)
+    - [s. 85 Determination of certain questions by Secretary of State.](section/85.md)
+  - Miscellaneous and supplementary
+    - [s. 86 Regulations and orders.](section/86.md)
+    - [s. 87 Secretary of State to report to Parliament.](section/87.md)
+    - [s. 88 Application to Crown.](section/88.md)
+    - [s. 89 Saving for use of certain units in wholesale transactions.](section/89.md)
+    - [s. 90 Saving for certain rights in City of London.](section/90.md)
+    - [s. 91 Validity of contracts.](section/91.md)
+    - [s. 92 Spelling of “gram”, etc.](section/92.md)
+    - [s. 93 Powers under other Acts with respect to marking of food.](section/93.md)
+    - [s. 94 General interpretation.](section/94.md)
+    - [s. 95 Application to Northern Ireland.](section/95.md)
+    - [s. 96 Transitional provisions and savings.](section/96.md)
+    - [s. 97 Consequential amendments.](section/97.md)
+    - [s. 98 Repeals and revocations.](section/98.md)
+    - [s. 99 Short title and commencement.](section/99.md)
+- SCHEDULE 1 Definitions of Units of Measurement
+  - Part I Measurement of Length
+    - Metric units
+  - Part II Measurement of Area
+    - Imperial units
+    - Metric units
+  - Part III Measurement of Volume
+    - Metric units
+  - Part IV Measurement of Capacity
+    - Imperial unit
+    - Metric units
+  - Part V Measurement of Mass or Weight
+    - Imperial unit
+    - Metric units
+  - PART VI Definitions of certain units which may not be used for trade except as supplementary indications
+  - Part VII Measurement of Electricity
+- SCHEDULE 2 Existing United Kingdom Primary Standards andAuthorised Copies
+  - Part I Description of United Kingdom primary standard of the yard
+  - Part II Description of United Kingdom primary standard of the pound
+  - Part III Description of United Kingdom primary standard of the metre
+  - Part IV Description of United Kingdom primary standard of the kilogram
+  - Part V Authorised copies of United Kingdom primary standards of the yard and pound
+- SCHEDULE 3 Measures and Weights Lawful for Use for Trade
+  - Part I Linear Measures
+    - Metric system
+  - Part II Square Measures
+    - Metric system
+  - Part III Cubic Measures
+    - Metric system
+  - Part IV Capacity Measures
+    - Imperial system
+    - Metric system
+  - Part V Weights
+    - Imperial system
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Metric system
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 3A APPROVALS UNDER SECTION 11A
+  - PART I APPROVALS: GENERAL
+    - Fees
+      - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - Form, effect and conditions of approvals
+      - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+    - Suspension of approvals
+      - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+    - Withdrawal of approvals
+      - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - Grant of new approval following withdrawal
+      - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+    - Application for further approval
+      - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+  - PART II REQUIREMENTS TO BE MET BY APPROVED VERIFIERS
+    - Maintenance of quality system
+      - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+    - Preparation etc. of quality system manual
+      - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+    - Keeping of records
+      - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+- Schedule 4 Sand and Other Ballast
+  - Part I General Provisions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Part II Carriage of Ballast by Road
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Part III Application to Scotland
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Solid Fuel
+  - Part I General
+    - Introductory
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Sales by net weight
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Quantities in containers
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Indication of quantity
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Loads on vehicles
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Information about containers...
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Exemptions
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Vending machines
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Byelaws
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Damping of fuel
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Sale of fuel from vehicles
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Part II Weighing of Solid Fuel at Buyer’s Request
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part III Carriage of Solid Fuel by Road
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Part IV Carriage of Solid Fuel by Rail
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+- SCHEDULE 6 Miscellaneous Goods other than Foods
+  - Part I Liquid Fuel and Lubricants
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Part II Ready-Mixed Cement Mortar and Ready-Mixed Concrete
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Part III Agricultural Liming Materials, Agricultural Salt and Inorganic Fertilisers
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Part IV Wood Fuel
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Part V COSMETIC PRODUCTS
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Part VI Soap
+    - [Sch. 6 para. 16A](schedule/6/paragraph/16A.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Part VII Miscellaneous Goods to be Sold by or Marked with Length
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Part VIII Miscellaneous Goods to be Sold by or Marked withNet Weight
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - Part IX Miscellaneous Goods to be Marked when Pre-Packed with Net Weight
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+  - Part X Miscellaneous Goods to be Sold by or Marked with Capacity Measurement
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+  - Part XI Miscellaneous Goods to be Marked when Pre-Packed with Capacity Measurement
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+  - Part XII Miscellaneous Goods to be Sold by or Marked With Net Weight of Capacity Measurement
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+  - Part XIII Miscellaneous Goods to be Marked When Pre-PackedWith Quantity by Number
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+    - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+- SCHEDULE 7 Composite Goods and Collections of Articles
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Powers of Inspectors and Local Weights and MeasuresAuthority Under Part V
+  - Powers of entry and inspection
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Power of seizure
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Power to require information
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Purchase of goods
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Failure to provide assistance or information
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 ...
+- SCHEDULE 10 Provisions Relating to Northern Ireland
+  - Part I Provisions of this Act Extending to Northern Ireland
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Part II Standards in Northern Ireland
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 Transitional Provisions and Savings
+  - General
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Acts passed before 31st July 1963
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Standards, etc.
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Stamping of equipment
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Approved patterns of equipment
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Weighing equipment passed etc. before 27th April 1978
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Products and equipment used etc. before 1st December 1980
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Joint local weights and measures authorities in Greater London
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - Relaxation of Ministerial controls
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Inspectors
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - “Gallon” and “litre”
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Byelaws
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+- SCHEDULE 12 Consequential Amendments
+  - The Petroleum (Consolidation) Act 1928
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - The Agriculture Act 1967
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - The Trade Descriptions Act 1968
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - The Greater London Council (General Powers) Act 1972
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - The Fair Trading Act 1973
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - The Weights and Measures &c. Act 1976
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - The Weights and Measures (Northern Ireland) Order 1981
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - The Local Government Act 1985
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+- SCHEDULE 13 Repeals and Revocations
+  - Part I Repeals
+  - Part II Revocations
+  - TABLE OF DERIVATIONS
