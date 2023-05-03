@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-17, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-05-03, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-05-03
 
 ## Contents
 
@@ -316,6 +316,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
     - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
     - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
     - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 9A](schedule/4/paragraph/9A.md)
+    - [Sch. 4 para. 9B](schedule/4/paragraph/9B.md)
     - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
     - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
     - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
@@ -335,6 +337,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
     - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
     - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
     - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 28A](schedule/4/paragraph/28A.md)
   - PART 2 WELSH BODIES
     - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
     - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
@@ -431,6 +434,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
     - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
     - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
     - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 5A](schedule/7/paragraph/5A.md)
+    - [Sch. 7 para. 5B](schedule/7/paragraph/5B.md)
     - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
     - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
     - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
@@ -443,6 +448,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
     - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
     - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
     - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 17A](schedule/7/paragraph/17A.md)
   - PART 2 WELSH BODIES
     - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
     - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
@@ -481,6 +487,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
     - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
     - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
     - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 12A](schedule/8/paragraph/12A.md)
+    - [Sch. 8 para. 12B](schedule/8/paragraph/12B.md)
     - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
     - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
     - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
@@ -511,6 +519,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-04-17
     - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
     - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
     - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 41A](schedule/8/paragraph/41A.md)
   - PART 2 WELSH BODIES
     - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
     - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
