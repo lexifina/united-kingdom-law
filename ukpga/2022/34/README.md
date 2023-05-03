@@ -2,9 +2,9 @@
 
 2022 c. 34. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/34` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-05-03, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/34` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/34/2022-06-28
+Source: https://www.legislation.gov.uk/ukpga/2022/34/2023-05-03
 
 ## Contents
 
@@ -21,9 +21,11 @@ Source: https://www.legislation.gov.uk/ukpga/2022/34/2022-06-28
   - [Sch. paragraph 3](schedule/paragraph/3.md)
   - [Sch. paragraph 4](schedule/paragraph/4.md)
   - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - [Sch. paragraph 5A](schedule/paragraph/5A.md)
   - [Sch. paragraph 6](schedule/paragraph/6.md)
   - [Sch. paragraph 7](schedule/paragraph/7.md)
   - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - [Sch. paragraph 8A](schedule/paragraph/8A.md)
   - [Sch. paragraph 9](schedule/paragraph/9.md)
   - [Sch. paragraph 10](schedule/paragraph/10.md)
   - [Sch. paragraph 11](schedule/paragraph/11.md)
