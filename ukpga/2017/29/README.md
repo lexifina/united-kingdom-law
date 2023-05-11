@@ -2,9 +2,9 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-06-28, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-05-11, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2022-06-28
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2023-05-11
 
 ## Contents
 
@@ -101,6 +101,9 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2022-06-28
     - [s. 68 Duty to monitor and report on financial sustainability](section/68.md)
   - Efficiency studies etc
     - [s. 69 Studies for improving economy, efficiency and effectiveness](section/69.md)
+    - [s. 69B Functions of the OfS in relation to students’ unions](section/69B.md)
+    - [s. 69D Overseas funding: registered higher education providers](section/69D.md)
+    - [s. 69E Overseas funding: students’ unions](section/69E.md)
   - Funding of the OfS
     - [s. 70 Registration fees](section/70.md)
     - [s. 71 Other fees](section/71.md)
