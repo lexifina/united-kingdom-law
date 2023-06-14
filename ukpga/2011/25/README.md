@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-06-14, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-06-14
 
 ## Contents
 
@@ -69,11 +69,13 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
     - [s. 39 Statement required to be made in official publications etc.](section/39.md)
     - [s. 40 Power to alter sum specified in s.39(1)](section/40.md)
     - [s. 41 Offences](section/41.md)
-  - Power to require charity’s name to be changed
-    - [s. 42 Power to require name to be changed](section/42.md)
+  - Names and working names
+    - [s. 42 Power to require name or working name to be changed](section/42.md)
     - [s. 43 Duty of charity trustees on receiving direction under s.42](section/43.md)
     - [s. 44 Change of name not to affect existing rights and obligations etc.](section/44.md)
     - [s. 45 Change of name where charity is a company](section/45.md)
+    - [s. 45A Power to delay registration following s. 42 direction](section/45A.md)
+    - [s. 45B Power to delay entry of name in register following a s. 42 direction](section/45B.md)
 - Part 5 Information powers
   - Inquiries instituted by Commission
     - [s. 46 General power to institute inquiries](section/46.md)
@@ -154,6 +156,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
     - [s. 104 Meaning of “Scottish recognised body” and “Northern Ireland charity”](section/104.md)
   - Total return investment
     - [s. 104A Investment of endowment fund on total return basis](section/104A.md)
+    - [s. 104AA Total return investment: social investments](section/104AA.md)
     - [s. 104B Total return investment: regulations](section/104B.md)
   - Power to authorise dealings with charity property, ex gratia payments etc.
     - [s. 105 Power to authorise dealings with charity property etc.](section/105.md)
@@ -188,6 +191,8 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
   - Release of charity rentcharges
     - [s. 127 Release of charity rentcharges](section/127.md)
     - [s. 128 Power to alter sum specified in s.127(2)](section/128.md)
+  - Advice etc from charity trustees, officers and employees
+    - [s. 128A Advice etc from charity trustees, officers and employees](section/128A.md)
   - Interpretation
     - [s. 129 Interpretation](section/129.md)
 - Part 8 Charity accounts, reports and returns
@@ -380,7 +385,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
     - [s. 264 Records of applications and certificates](section/264.md)
     - [s. 265 Meaning of “incorporated body” and “relevant charity”](section/265.md)
     - [s. 266 Effect of provisions relating to vesting or transfer of property](section/266.md)
-- Part 13 Unincorporated charities
+- Part 13 Powers to amend trusts and use capital
   - Power to transfer all property of unincorporated charity
     - [s. 267 Introduction](section/267.md)
     - [s. 268 Resolution to transfer all property](section/268.md)
@@ -399,13 +404,18 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
     - [s. 280 Power to modify powers or procedures of unincorporated charity](section/280.md)
   - Charity established etc by Royal charter: general power to amend
     - [s. 280C Power to amend Royal charter](section/280C.md)
-  - Powers of unincorporated charities to spend capital
-    - [s. 281 Power of unincorporated charities to spend capital: general](section/281.md)
-    - [s. 282 Resolution to spend larger fund given for particular purpose](section/282.md)
+  - Powers of ... charities to spend capital
+    - [s. 281 Power of ... charities to spend capital: general](section/281.md)
+    - [s. 282 Resolution to spend larger fund ...](section/282.md)
     - [s. 283 Notice of, and information about, s.282 resolution](section/283.md)
     - [s. 284 When and how s.282 resolution takes effect](section/284.md)
+  - Power to borrow from permanent endowment
+    - [s. 284A Power to borrow from permanent endowment: general](section/284A.md)
+    - [s. 284B Calculation of the “permitted amount”](section/284B.md)
+    - [s. 284C Calculation of the “maximum estimated capital appreciation”](section/284C.md)
+    - [s. 284D Inability to repay](section/284D.md)
   - Supplementary
-    - [s. 285 Power to alter sums specified in this Part](section/285.md)
+    - [s. 285 Power to alter sums etc specified in this Part](section/285.md)
     - [s. 286 Effect of provisions relating to vesting or transfer of property](section/286.md)
 - Part 14 Special trusts
   - [s. 287 Meaning of “special trust”](section/287.md)
@@ -500,6 +510,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
     - [s. 350 Connected person: child, spouse and civil partner](section/350.md)
     - [s. 351 Connected person: controlled institution](section/351.md)
     - [s. 352 Connected person: substantial interest in body corporate](section/352.md)
+    - [s. 352A Power to amend definition of “connected person”](section/352A.md)
     - [s. 353 Minor definitions](section/353.md)
 - Part 19 Final provisions
   - [s. 354 Amendments etc.](section/354.md)
@@ -876,7 +887,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-02-07
     - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
   - Regulations to secure that any institution ceasing to be an exempt charity on the relevant commencement date is excepted
     - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
-  - Change of name and exempt charities
+  - ...
     - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
   - Power to institute inquiries and exempt charities
     - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
