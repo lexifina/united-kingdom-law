@@ -1,0 +1,179 @@
+# Justice and Security (Northern Ireland) Act 2007
+
+2007 c. 6. Enacted 2007-05-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-06-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/6
+
+Source: https://www.legislation.gov.uk/ukpga/2007/6/2023-06-16
+
+## Contents
+
+- Trials on indictment without a jury
+  - [s. 1 Issue of certificate](section/1.md)
+  - [s. 2 Certificates: supplementary](section/2.md)
+  - [s. 3 Preliminary inquiry](section/3.md)
+  - [s. 4 Court for trial](section/4.md)
+  - [s. 5 Mode of trial on indictment](section/5.md)
+  - [s. 6 Rules of court](section/6.md)
+  - [s. 7 Limitation on challenge of issue of certificate](section/7.md)
+  - [s. 8 Supplementary](section/8.md)
+  - [s. 9 Duration of non-jury trial provisions](section/9.md)
+- Juries
+  - [s. 10 Restrictions on disclosure of juror information](section/10.md)
+  - [s. 11 Chief Electoral Officer to provide additional information to Juries Officer](section/11.md)
+  - [s. 12 Jurors found to be disqualified before being summoned](section/12.md)
+  - [s. 13 Abolition of peremptory challenge in criminal cases](section/13.md)
+- Human Rights Commission
+  - [s. 14 Legal proceedings](section/14.md)
+  - [s. 15 Investigations: evidence](section/15.md)
+  - [s. 16 Investigations: access to prisons, &c.](section/16.md)
+  - [s. 17 Investigations: terms of reference](section/17.md)
+  - [s. 18 Investigations: duty to report](section/18.md)
+  - [s. 19 Recommendations](section/19.md)
+  - [s. 20 Timing](section/20.md)
+- Powers
+  - [s. 21 Stop and question](section/21.md)
+  - [s. 22 Arrest](section/22.md)
+  - [s. 23 Entry](section/23.md)
+  - [s. 24 Search for munitions and transmitters](section/24.md)
+  - [s. 25 Search for unlawfully detained persons](section/25.md)
+  - [s. 26 Premises: vehicles, &c.](section/26.md)
+  - [s. 27 Examination of documents](section/27.md)
+  - [s. 28 Examination of documents: procedure](section/28.md)
+  - [s. 29 Taking possession of land, &c.](section/29.md)
+  - [s. 30 Road closure: immediate](section/30.md)
+  - [s. 31 Sections 29 and 30: supplementary](section/31.md)
+  - [s. 32 Road closure: by order](section/32.md)
+- Powers: supplementary
+  - [s. 33 Exercise of powers](section/33.md)
+  - [s. 34 Code of practice](section/34.md)
+  - [s. 35 Code: effect](section/35.md)
+  - [s. 36 Code: procedure for order](section/36.md)
+  - [s. 37 Records](section/37.md)
+  - [s. 38 Compensation](section/38.md)
+  - [s. 39 Prosecution](section/39.md)
+  - [s. 40 Review](section/40.md)
+  - [s. 41 Duration](section/41.md)
+  - [s. 42 Interpretation](section/42.md)
+- Miscellaneous
+  - [s. 43 Accredited community-based restorative justice schemes](section/43.md)
+  - [s. 44 Northern Ireland department with policing and justice functions](section/44.md)
+  - [s. 45 Chief Inspector of Criminal Justice](section/45.md)
+  - [s. 46 Free legal aid in magistrates’ courts](section/46.md)
+  - [s. 47 Altering title of resident magistrate](section/47.md)
+  - [s. 48 Private Security Industry](section/48.md)
+  - [s. 49 Amendments of the Private Security Industry Act 2001](section/49.md)
+- Supplemental
+  - [s. 50 Repeals and revocations](section/50.md)
+  - [s. 51 Financial provisions](section/51.md)
+  - [s. 52 Extent](section/52.md)
+  - [s. 53 Commencement](section/53.md)
+  - [s. 54 Short title](section/54.md)
+- SCHEDULE 1 Trials on indictment without a jury: consequential amendments
+  - Criminal Procedure and Investigations Act 1996 (c. 25)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Restrictions on disclosure of juror information: further amendments
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - No inspection of Jurors Lists and panels
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Procedure for ascertaining attendance of jurors to be conducted in private
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Balloting of jurors by number rather than by name
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Munitions and Transmitters: Search and Seizure
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Entering premises
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Stopping and searching persons: general
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Stopping and searching persons in specified locations
+    - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+    - [Sch. 3 para. 4B](schedule/3/paragraph/4B.md)
+    - [Sch. 3 para. 4C](schedule/3/paragraph/4C.md)
+    - [Sch. 3 para. 4D](schedule/3/paragraph/4D.md)
+    - [Sch. 3 para. 4E](schedule/3/paragraph/4E.md)
+    - [Sch. 3 para. 4F](schedule/3/paragraph/4F.md)
+    - [Sch. 3 para. 4G](schedule/3/paragraph/4G.md)
+    - [Sch. 3 para. 4H](schedule/3/paragraph/4H.md)
+    - [Sch. 3 para. 4I](schedule/3/paragraph/4I.md)
+  - Seizure
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Records
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Offences
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Compensation
+  - Right to compensation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Time limit
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Determination
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Assignment of right
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Offenders
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Notices
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Offences
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Northern Ireland department with policing and justice functions
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Private Security Industry: Interim Arrangements
+  - Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Unlicensed services: offences
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Application for licence
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Issue of licence
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Conditions of licence
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Refusal of licence
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Duration of licence
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Revocation of licence
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Appeal
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Change of personnel
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - Records
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - Offence: body corporate
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Notice
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+- SCHEDULE 7 Repeals and revocations
