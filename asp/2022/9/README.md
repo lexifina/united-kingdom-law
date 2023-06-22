@@ -1,0 +1,135 @@
+# Fireworks and Pyrotechnic Articles (Scotland) Act 2022
+
+asp/2022/9. Enacted 2022-08-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-06-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2022/9/2023-06-22
+
+## Contents
+
+- Part 1 Key concepts
+  - [s. 1 Meaning of “firework” and “pyrotechnic article”](section/1.md)
+  - [s. 2 Categories of fireworks](section/2.md)
+- Part 2 Fireworks licensing
+  - Fireworks which require a licence
+    - [s. 3 Application of Part](section/3.md)
+  - Fireworks licensing
+    - [s. 4 Requirement to have fireworks licence](section/4.md)
+    - [s. 5 Supply of fireworks to unlicensed persons](section/5.md)
+  - Process for licensing
+    - [s. 6 Applying for fireworks licence: general requirements](section/6.md)
+    - [s. 7 Applying for fireworks licence: mandatory requirements](section/7.md)
+    - [s. 8 Fireworks training course](section/8.md)
+    - [s. 9 Grant of fireworks licence](section/9.md)
+    - [s. 10 Fireworks licence: conditions and further provision](section/10.md)
+    - [s. 11 Register of fireworks licence applications and licensed persons](section/11.md)
+    - [s. 12 Revocation of fireworks licence](section/12.md)
+    - [s. 13 Notification of convictions and cancellation of fireworks licence](section/13.md)
+    - [s. 14 Appeals](section/14.md)
+  - Offences relating to fireworks licence applications
+    - [s. 15 False statements](section/15.md)
+    - [s. 16 False or altered licences and documents](section/16.md)
+  - General
+    - [s. 17 Power of Scottish Ministers to make arrangements for certain functions](section/17.md)
+    - [s. 18 Power to make further provision](section/18.md)
+    - [s. 19 Regulations: consultation](section/19.md)
+- Part 3 Restrictions on supply and use of fireworks and pyrotechnic articles
+  - Application of Part
+    - [s. 20 Application of Part](section/20.md)
+  - Prohibition on supply to children
+    - [s. 21 Prohibition on providing fireworks or pyrotechnic articles to children](section/21.md)
+  - Days of supply and use of fireworks
+    - [s. 22 Restriction on days of supply of fireworks](section/22.md)
+    - [s. 23 Alignment of days when licence required to supply](section/23.md)
+    - [s. 24 Restriction on days of use of fireworks](section/24.md)
+  - Compensation
+    - [s. 25 Compensation for specialist firework businesses affected by section 22](section/25.md)
+- Part 4 Firework control zones
+  - [s. 26 Application of Part](section/26.md)
+  - [s. 27 Firework control zones](section/27.md)
+  - [s. 28 Prior consultation on proposals](section/28.md)
+  - [s. 29 Publication of decision on proposal](section/29.md)
+  - [s. 30 Publicising firework control zones](section/30.md)
+  - [s. 31 Review of operation and effectiveness](section/31.md)
+  - [s. 32 Power to make further provision](section/32.md)
+  - [s. 33 Guidance](section/33.md)
+- Part 5 Pyrotechnic articles in public places and at designated venues and events
+  - [s. 34 Application of Part](section/34.md)
+  - [s. 35 Prohibition of pyrotechnic articles in public places](section/35.md)
+  - [s. 36 Prohibition of pyrotechnic articles at designated venues or events](section/36.md)
+  - [s. 37 Designation of venues or events](section/37.md)
+- Part 6 Exemptions, enforcement and other matters
+  - Exemptions
+    - [s. 38 Exemptions from offences in Act](section/38.md)
+  - Powers of local weights and measures authorities
+    - [s. 39 Powers of local weights and measures authorities](section/39.md)
+  - Powers of constables
+    - [s. 40 Power of entry etc. with warrant](section/40.md)
+    - [s. 41 Search for fireworks or pyrotechnic articles without warrant](section/41.md)
+  - Offences in relation to enforcement
+    - [s. 42 Offence of obstructing officer of a local weights and measures authority](section/42.md)
+    - [s. 43 Offence of impersonating officer of a local weights and measures authority](section/43.md)
+  - Aggravation of offences against emergency workers
+    - [s. 44 Aggravation of offences against emergency workers](section/44.md)
+  - Miscellaneous
+    - [s. 45 Time limit for prosecution of offences](section/45.md)
+    - [s. 46 Presumptions in proceedings under this Act](section/46.md)
+    - [s. 47 Certificates as to proof of certain matters](section/47.md)
+    - [s. 48 Forfeiture and disposal of fireworks and pyrotechnic articles](section/48.md)
+    - [s. 49 Individual culpability for offending by an organisation](section/49.md)
+- Part 7 General provisions
+  - [s. 50 Report on operation of Act](section/50.md)
+  - [s. 51 Interpretation](section/51.md)
+  - [s. 52 Regulations](section/52.md)
+  - [s. 53 Ancillary provision](section/53.md)
+  - [s. 54 Crown application: criminal offences](section/54.md)
+  - [s. 55 Crown application: powers of entry](section/55.md)
+  - [s. 56 Commencement](section/56.md)
+  - [s. 57 Short title](section/57.md)
+- Schedule 1 Exemptions
+  - [Sch. 1 para. 1 Regulatory authorities or those acting under the direction of a regulatory authority](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Regulatory authorities or those acting under the direction of a regulatory authority](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Regulatory authorities or those acting under the direction of a regulatory authority](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Regulatory authorities or those acting under the direction of a regulatory authority](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Professional organisers or operators of fireworks displays or pyrotechnics displays](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Professional organisers or operators of fireworks displays or pyrotechnics displays](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Professional organisers or operators of fireworks displays or pyrotechnics displays](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Business or supply in accordance with Pyrotechnic Articles (Safety) Regulations 2015](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Business or supply in accordance with Pyrotechnic Articles (Safety) Regulations 2015](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Business or supply in accordance with Pyrotechnic Articles (Safety) Regulations 2015](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Business or supply in accordance with Pyrotechnic Articles (Safety) Regulations 2015](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20 Organiser of a public fireworks display](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21 Organiser of a public fireworks display](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25 Persons under 18 in education, training or employment](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26 Persons outwith Scotland](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27 Persons outwith Scotland](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28 Public servants and volunteers in similar roles](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+- Schedule 2 Investigatory powers of a local weights and measures authority
+  - [Sch. 2 para. 1 General](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Power to purchase fireworks](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Power to observe carrying on of business etc.](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Power to enter premises without warrant](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Power to inspect and test fireworks](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Power to seize and retain items](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Powers in relation to documents](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Power to break open container etc.](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Power of entry with warrant](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Power to require assistance from person on premises](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Access to seized items and documents](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Notice of testing of item](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Application for release of firework, item or document](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Compensation](schedule/2/paragraph/14.md)
