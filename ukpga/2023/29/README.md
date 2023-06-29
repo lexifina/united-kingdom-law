@@ -2,17 +2,15 @@
 
 2023 c. 29. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
-
-Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-13
+Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-06-29
 
 ## Contents
 
 - PART 1 Regulatory framework
-  - CHAPTER 1 Revocation of assimilated law
-    - [s. 1 Revocation of assimilated law relating to financial services and markets](section/1.md)
+  - CHAPTER 1 Revocation of retained EU law
+    - [s. 1 Revocation of retained EU law relating to financial services and markets](section/1.md)
     - [s. 2 Transitional amendments](section/2.md)
     - [s. 3 Power to make further transitional amendments](section/3.md)
     - [s. 4 Power to restate and modify saved legislation](section/4.md)
@@ -126,8 +124,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-13
   - [s. 85 Extent](section/85.md)
   - [s. 86 Commencement](section/86.md)
   - [s. 87 Short title](section/87.md)
-- SCHEDULE 1 Revocation of assimilated law relating to financial services
-  - PART 1 Assimilated direct principal legislation
+- SCHEDULE 1 Revocation of retained EU law relating to financial services
+  - PART 1 Retained direct principal EU legislation
   - PART 2 Subordinate legislation
   - PART 3 EU tertiary legislation etc
   - PART 4 Primary legislation
@@ -136,31 +134,23 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-13
   - PART 1 Amendments to the Markets in Financial Instruments Regulation
     - [Sch. 2 para. 1 Introductory](schedule/2/paragraph/1.md)
     - [Sch. 2 para. 2 Transparency requirements for equities](schedule/2/paragraph/2.md)
-    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
-    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
-    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
-    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
     - [Sch. 2 para. 7 Transparency requirements for fixed income instruments and derivatives etc](schedule/2/paragraph/7.md)
     - [Sch. 2 para. 8 Systematic internalisers and other investment firms](schedule/2/paragraph/8.md)
-    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
-    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
-    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
-    - [Sch. 2 para. 12 Systematic internalisers and other investment firms](schedule/2/paragraph/12.md)
     - [Sch. 2 para. 13 Share trading obligation](schedule/2/paragraph/13.md)
     - [Sch. 2 para. 14 Share trading obligation](schedule/2/paragraph/14.md)
     - [Sch. 2 para. 15 Derivatives trading obligation](schedule/2/paragraph/15.md)
-    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
-    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
-    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 16 Derivatives trading obligation](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Derivatives trading obligation](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Derivatives trading obligation](schedule/2/paragraph/18.md)
     - [Sch. 2 para. 19 Consequential amendments relating to this Part](schedule/2/paragraph/19.md)
-    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
-    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
-    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
-    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
-    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
-    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
-    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
-    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 20 Consequential amendments relating to this Part](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Consequential amendments relating to this Part](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Consequential amendments relating to this Part](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23 Consequential amendments relating to this Part](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Consequential amendments relating to this Part](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25 Consequential amendments relating to this Part](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26 Consequential amendments relating to this Part](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27 Consequential amendments relating to this Part](schedule/2/paragraph/27.md)
   - PART 2 Amendments to the European Market Infrastructure Regulation
     - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
     - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
@@ -182,10 +172,10 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2026-07-13
   - PART 4 Amendments to the Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017
     - [Sch. 2 para. 44 Introductory](schedule/2/paragraph/44.md)
     - [Sch. 2 para. 45 Position limits for commodity derivatives](schedule/2/paragraph/45.md)
-    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
-    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
-    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
-    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - [Sch. 2 para. 46 Position limits for commodity derivatives](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47 Position limits for commodity derivatives](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48 Position limits for commodity derivatives](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49 Position limits for commodity derivatives](schedule/2/paragraph/49.md)
     - [Sch. 2 para. 50 Consequential revocations relating to this Part](schedule/2/paragraph/50.md)
   - PART 5 Amendments to the Central Counterparties (Amendment, etc., and Transitional Provision) (EU Exit) Regulations 2018
     - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
