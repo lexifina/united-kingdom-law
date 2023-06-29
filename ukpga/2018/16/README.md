@@ -2,9 +2,9 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-01-30, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-01-30
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-06-29
 
 ## Contents
 
@@ -350,10 +350,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-01-30
     - Future powers to make subordinate legislation
       - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
       - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 11A](schedule/8/paragraph/11A.md)
+      - [Sch. 8 para. 11B](schedule/8/paragraph/11B.md)
       - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
-    - Affirmative procedure for instruments which amend or revoke subordinate legislation made under section 2(2) of the ECA (including subordinate legislation implementing EU directives)
+    - ...
       - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
-    - Enhanced scrutiny procedure for instruments which amend or revoke subordinate legislation under section 2(2) of the ECA (including subordinate legislation implementing EU directives)
+    - ...
       - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
     - Explanatory statements for instruments amending or revoking regulations etc. under section 2(2) of the ECA
       - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
