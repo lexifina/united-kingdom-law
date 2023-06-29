@@ -2,9 +2,9 @@
 
 2023 c. 28. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/28/2026-01-01
+Source: https://www.legislation.gov.uk/ukpga/2023/28/2023-06-29
 
 ## Contents
 
@@ -29,8 +29,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/28/2026-01-01
   - [s. 14 Powers to revoke or replace](section/14.md)
   - [s. 15 Power to update](section/15.md)
   - [s. 16 Power to remove or reduce burdens](section/16.md)
-- Assimilated law dashboard and report
-  - [s. 17 Assimilated law dashboard and report](section/17.md)
+- Retained EU law dashboard and report
+  - [s. 17 Retained EU law dashboard and report](section/17.md)
 - Business impact target
   - [s. 18 Abolition of business impact target](section/18.md)
 - Final provisions
