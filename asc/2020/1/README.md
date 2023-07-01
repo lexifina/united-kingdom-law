@@ -1,0 +1,155 @@
+# Health and Social Care (Quality and Engagement) (Wales) Act 2020
+
+asc/2020/1. Enacted 2020-06-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asc/2020/1/2023-07-01
+
+## Contents
+
+- PART 1 Overview
+  - [s. 1 Overview of this Act](section/1.md)
+- PART 2 Improvement in Health Services
+  - [s. 2 Quality in the provision of health services](section/2.md)
+- PART 3 Duty of Candour
+  - Application of the duty
+    - [s. 3 When the duty of candour applies](section/3.md)
+  - Procedural and other requirements
+    - [s. 4 Duty of candour procedure](section/4.md)
+    - [s. 5 Primary care providers: duty to prepare report](section/5.md)
+    - [s. 6 Supply and summary of report under section 5](section/6.md)
+    - [s. 7 Local Health Board, NHS trust and Special Health Authority: reporting requirements](section/7.md)
+    - [s. 8 Publication of section 6 summary and section 7 report](section/8.md)
+    - [s. 9 Confidentiality](section/9.md)
+    - [s. 10 Guidance given by the Welsh Ministers](section/10.md)
+    - [s. 11 Interpretation of “health care” and other terms](section/11.md)
+- PART 4 The Citizen Voice Body for Health and Social Care
+  - Establishment and general objective etc. of Citizen Voice Body
+    - [s. 12 Establishment of Citizen Voice Body](section/12.md)
+    - [s. 13 General objective](section/13.md)
+    - [s. 14 Public awareness and statement of policy](section/14.md)
+  - Making representations
+    - [s. 15 Representations to public bodies](section/15.md)
+    - [s. 16 Advocacy services etc. in respect of complaints about services](section/16.md)
+  - Duties imposed on certain public bodies in respect of Citizen Voice Body
+    - [s. 17 Duty to promote awareness of activities of Citizen Voice Body](section/17.md)
+    - [s. 18 Duty to supply information to Citizen Voice Body](section/18.md)
+  - Access to premises by Citizen Voice Body: duty to have regard to code of practice
+    - [s. 19 Code of practice on access to premises](section/19.md)
+  - Co-operation in the exercise of functions
+    - [s. 20 Co-operation between the Body, local authorities and NHS bodies](section/20.md)
+  - Interpretation of this Part
+    - [s. 21 Meaning of “health services” and “social services”](section/21.md)
+    - [s. 22 Meaning of other terms](section/22.md)
+  - Abolition of Community Health Councils etc.
+    - [s. 23 Abolition of Community Health Councils, and connected matters](section/23.md)
+- PART 5 Miscellaneous and General
+  - Constitution of NHS trusts
+    - [s. 24 Vice-chairs of boards of directors of NHS trusts](section/24.md)
+  - General
+    - [s. 25 Regulations](section/25.md)
+    - [s. 26 Interpretation](section/26.md)
+    - [s. 27 Minor and consequential amendments](section/27.md)
+    - [s. 28 Power to make transitional etc. provision](section/28.md)
+    - [s. 29 Coming into force](section/29.md)
+    - [s. 30 Short title](section/30.md)
+- SCHEDULE 1 Citizen Voice Body for Health and Social Care, Wales
+  - PART 1 Status
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - PART 2 Members
+    - Membership
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Disqualification from appointment as non-executive member
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Terms of non-executive membership
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Removal of non-executive members from office
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Appointment of the associate member
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Terms of associate membership etc.
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Removal of associate member from office
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 3 Staff
+    - Chief executive
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Other staff
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - PART 4 Ancillary Functions etc.
+    - Committees
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Delegation
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Supplementary powers
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - PART 5 Procedure etc.
+    - Procedure
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Validity of proceedings and acts
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Seal
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Evidence
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - PART 6 Financial Matters
+    - Funding
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Accounting officer
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Accounts
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Audit
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - PART 7 Reporting Requirements etc.
+    - Annual plan
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Annual reports
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Provision of information to Welsh Ministers
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - PART 8 Interpretation
+    - General interpretation
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+- SCHEDULE 2 Transfers of Property, Rights and Liabilities
+  - Transfer schemes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - PART 1 Amendments and repeals relating to Part 2
+    - Health and Social Care (Community Health and Standards) Act 2003 (c. 43)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - PART 2 Amendments and repeals relating to Part 4
+    - Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Mental Health Act 1983 (c. 20)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Community Health Councils (Access to Information) Act 1988 (c. 24)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Welsh Language (Wales) Measure 2011 (nawm 1)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Counter-Terrorism and Security Act 2015 (c. 6)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Digital Economy Act 2017 (c. 30)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - The Welsh Language Standards (No. 7) Regulations 2018 (S.I. 2018/441)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Public Services Ombudsman (Wales) Act 2019 (anaw 3)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - PART 3 Amendment of 2006 Act: Independent Advocacy Services
+    - National Health Service (Wales) Act 2006 (c. 42)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
