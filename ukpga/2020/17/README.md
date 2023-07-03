@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-19, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-03, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2023-04-19
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2023-07-03
 
 ## Contents
 
@@ -846,7 +846,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2023-04-19
       - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
     - Monitoring period: electronic compliance monitoring requirement
       - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
-    - Electronic compliance monitoring requirement: general
+    - Electronic monitoring Electronic compliance monitoring requirement: general
       - [Sch. 6 para. 43A](schedule/6/paragraph/43A.md)
     - Restrictions on imposing electronic compliance monitoring requirement
       - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
