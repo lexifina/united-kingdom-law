@@ -2,9 +2,9 @@
 
 2020 c. 14. Enacted 2020-07-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-06, one file per provision. Earlier versions, from 2018-10-29, are in the history before it: `git log -- ukpga/2020/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2018-10-29, are in the history before it: `git log -- ukpga/2020/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/14/2023-04-06
+Source: https://www.legislation.gov.uk/ukpga/2020/14/2023-07-11
 
 ## Contents
 
@@ -122,7 +122,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/14/2023-04-06
     - [s. 85 Electric vehicles: extension of exemption](section/85.md)
     - [s. 86 Motor caravans](section/86.md)
     - [s. 87 Exemption in respect of medical courier vehicles](section/87.md)
-    - [s. 88 HGV road user levy](section/88.md)
+    - [s. 88 HGV road user levy: exempt period](section/88.md)
+    - [s. 88A HGV road user levy: transitional provision for end of exempt period](section/88A.md)
   - Hydrocarbon oil duties
     - [s. 89 Rebated fuel: private pleasure craft](section/89.md)
   - Air passenger duty
