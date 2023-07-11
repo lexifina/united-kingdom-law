@@ -1,0 +1,200 @@
+# Administration of Justice Act 1982
+
+1982 c. 53. Enacted 1982-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/53/2023-07-11
+
+## Contents
+
+- Part I Damages for Personal Injuries Etc.
+  - Abolition of certain claims for damages etc.
+    - [s. 1 Abolition of right to damages for loss of expectation of life.](section/1.md)
+    - [s. 2 Abolition of actions for loss of services etc.](section/2.md)
+  - Fatal Accidents Act 1976
+    - [s. 3 Amendments of Fatal Accidents Act 1976.](section/3.md)
+  - Claims not surviving death
+    - [s. 4 Exclusion of Law Reform (Miscellaneous Provisions) Act 1934.](section/4.md)
+  - Maintenance at public expense
+    - [s. 5 Maintenance at public expense to be taken into account in assessment of damages.](section/5.md)
+  - Provisional damages for personal injuries
+    - [s. 6 Award of provisional damages for personal injuries.](section/6.md)
+- Part II Damages for Personal Injuries Etc.—Scotland
+  - [s. 7 Damages in respect of services.](section/7.md)
+  - [s. 8 Services rendered to injured person.](section/8.md)
+  - [s. 9 Services to injured person’s relative.](section/9.md)
+  - [s. 10 Assessment of damages for personal injuries.](section/10.md)
+  - [s. 11 Maintenance at public expense to be taken into account in assessment of damages: Scotland.](section/11.md)
+  - [s. 12 Award of provisional damages for personal injuries: Scotland.](section/12.md)
+  - [s. 13 Supplementary.](section/13.md)
+  - [s. 14 Amendment and repeal of enactments.](section/14.md)
+- Part III Powers of Courts to Award Interest
+  - [s. 15 Interest on debts and damages.](section/15.md)
+  - [s. 16 Interest on lump sums in matrimonial proceedings.](section/16.md)
+- Part IV Wills
+  - Amendments of Wills Act 1837
+    - [s. 17 Relaxation of formal requirements for making wills.](section/17.md)
+    - [s. 18 Effect of marriage or its termination on wills.](section/18.md)
+    - [s. 19 Gifts to children etc. who predecease testator.](section/19.md)
+  - Rectification and interpretation of wills
+    - [s. 20 Rectification.](section/20.md)
+    - [s. 21 Interpretation of wills—general rules as to evidence.](section/21.md)
+    - [s. 22 Presumption as to effect of gifts to spouses.](section/22.md)
+  - Registration of wills
+    - [s. 23 Deposit and registration of wills of living persons.](section/23.md)
+    - [s. 24 Designation of Principal Registry as national body under Registration Convention.](section/24.md)
+    - [s. 25 Regulations as to deposit and registration of wills etc.](section/25.md)
+    - [s. 26 Fees as to registration in Scotland.](section/26.md)
+  - International wills
+    - [s. 27 The form of an international will.](section/27.md)
+    - [s. 28 International wills—procedure.](section/28.md)
+- Part V County Courts
+  - [s. 29 ................................](section/29.md)
+  - [s. 34 Transfers from High Court to county court.](section/34.md)
+  - [s. 35 Transfers from county court to High Court.](section/35.md)
+  - [s. 36 ................................](section/36.md)
+  - [s. 37 Limits of county court jurisdiction.](section/37.md)
+- Part VI Funds in Court
+  - [s. 38 Management and investment of funds in court.](section/38.md)
+  - [s. 39 Investment of money transferred to National Debt Commissioners.](section/39.md)
+  - [s. 40 Statutory deposits.](section/40.md)
+  - [s. 41 Transfer of funds in court to Official Custodian for Charities and appropriate authority.](section/41.md)
+  - [s. 42 Common investment schemes.](section/42.md)
+  - [s. 43 Provision for making good defaults.](section/43.md)
+  - [s. 44 Power to repeal and modify ss. 42 and 43.](section/44.md)
+  - [s. 45 Accounts.](section/45.md)
+  - [s. 46 Supplemental.](section/46.md)
+  - [s. 47 Interpretation.](section/47.md)
+  - [s. 48 Application of Part VI to Scotland.](section/48.md)
+  - [s. 48A Application of Part VI to Northern Ireland](section/48A.md)
+- Part VII Miscellaneous
+  - Family Law
+    - [s. 49 Presentation of petitions for matrimonial relief on behalf of patients under Mental Health Act 1959.](section/49.md)
+    - [s. 50 Orders for the maintenance of wards of court.](section/50.md)
+    - [s. 51 Remission of arrears of maintenance.](section/51.md)
+    - [s. 52 Filing of orders.](section/52.md)
+  - Amendments of Attachment of Earnings Act 1971
+    - [s. 53 Power to order debtor to appear before court where attachment of earnings order is in force.](section/53.md)
+    - [s. 54 Deductions by employer under attachment of earnings order.](section/54.md)
+    - [s. 55 Attachment of debts](section/55.md)
+  - Penalties under Solicitors Act 1974
+    - [s. 56 Increase in penalty etc.](section/56.md)
+  - Judicial Trustees
+    - [s. 57 Accounts of judicial trustees.](section/57.md)
+  - Recorders
+    - [s. 58 Assistance by Recorders for transaction of business of High Court.](section/58.md)
+  - Official referee’s business
+    - [s. 59 Official referee’s business.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Jurors
+    - [s. 61 Questions to persons summoned for jury service.](section/61.md)
+  - Inquests
+    - [s. 62 Juries where death in police custody etc. suspected.](section/62.md)
+  - Explosive substances—consents to prosecutions
+    - [s. 63 Consents to prosecutions under the Explosive Substances Act 1883.](section/63.md)
+  - Constitution of the Law Commission
+    - [s. 64 Temporary vacancies in Law Commission.](section/64.md)
+  - Justices of the Peace
+    - [s. 65 ................................](section/65.md)
+  - Land Registration
+    - [s. 66 Computerisation of the title register.](section/66.md)
+    - [s. 67 Jurisdiction.](section/67.md)
+- Part VIII Provisions relating to Northern Ireland
+  - [s. 68 Damages for personal injuries etc.](section/68.md)
+  - [s. 69 Interest on debts and damages.](section/69.md)
+  - [s. 70 Amendents of Judicature (Northern Ireland) Act 1978.](section/70.md)
+  - [s. 71 ................................](section/71.md)
+  - [s. 72 Travelling, subsistence and financial loss allowances for Justices of the Peace.](section/72.md)
+- Part IX General and Supplementary
+  - [s. 73 Transitional provisions and savings.](section/73.md)
+  - [s. 74 ................................](section/74.md)
+  - [s. 75 Repeals and revocations.](section/75.md)
+  - [s. 76 Commencement.](section/76.md)
+  - [s. 77 Extent.](section/77.md)
+  - [s. 78 Citation.](section/78.md)
+- SCHEDULE 1 Interest on debts and damages
+  - Part I Section Inserted in Senior Courts Act 1981
+    - [Sch. 1 para. 35A Power of High Court to award interest on debts and damages.](schedule/1/paragraph/35A.md)
+  - Part II ...
+  - Part III Consequential amendment of Crown Proceedings Act 1947
+  - Part IV
+    - [Sch. 1 para. 19A Power of arbitrator to award interest.](schedule/1/paragraph/19A.md)
+- SCHEDULE 2 The Annex to the Convention on International Wills
+  - Article 1
+  - Article 2
+  - Article 3
+  - Article 4
+  - Article 5
+  - Article 6
+  - Article 7
+  - Article 8
+  - Article 9
+  - Article 10
+  - Article 11
+  - Article 12
+  - Article 13
+  - Article 14
+  - Article 15
+- SCHEDULE 3 Monetary Limits of County Court Jurisdiction
+  - Part I The County Court Limit
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part II Amendents of enactments specifying monetary limits
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part III Power to raise County Court limit
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part IV Highways
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Attachment of debts
+  - Part I Section inserted in Senior Courts Act 1981
+    - [Sch. 4 para. 40A Administrative and clerical expenses of garnishees.](schedule/4/paragraph/40A.md)
+  - Part II ...
+- SCHEDULE 5
+- SCHEDULE 6 Damages for Personal Injuries etc.Northern Ireland
+  - Abolition of actions for enticement, seduction and harbouring of child
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Fatal accidents
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Exclusion of section 14 of Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1937
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Orders for provisional damages for personal injury
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Interest on Debts and Damages—Northern Ireland
+  - Part I Section inserted in Judicature (Northern Ireland) Act 1978
+    - [Sch. 7 para. 33A Power of High Court to award interest on debts and damages.](schedule/7/paragraph/33A.md)
+  - Part II Article inserted in County Courts Northern Ireland) Order 1980
+    - Interest on debts and damages
+      - [Sch. 7 para. 45A](schedule/7/paragraph/45A.md)
+  - Part III Amendments Consequential on Section 69
+    - Crown Proceedings Act 1947 (c. 44)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Judicature (Northern Ireland) Act 1978 (c. 23)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - County Courts (Northern Ireland) Order 1980
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Amendments of Judicature (Northern Ireland) Act 1978
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9
+  - Part I Repeals
+  - Part II Repeals
