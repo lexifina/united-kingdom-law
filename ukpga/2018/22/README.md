@@ -2,9 +2,9 @@
 
 2018 c. 22. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-19, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-06-19
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-07-11
 
 ## Contents
 
@@ -39,7 +39,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-06-19
     - [s. 21 Customs agents](section/21.md)
     - [s. 22 Authorised economic operators](section/22.md)
     - [s. 23 Approvals and authorisations granted under regulations](section/23.md)
-    - [s. 24 Rulings as to application of customs tariff or place of origin](section/24.md)
+    - [s. 24 Rulings as to application of customs tariff, valuation method or place of origin](section/24.md)
   - Supplementary
     - [s. 25 Disclosure of information](section/25.md)
     - [s. 26 Co-operation with other customs services](section/26.md)
@@ -227,8 +227,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-06-19
     - TRA’s recommendations about an anti-dumping amount or a countervailing amount
       - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
       - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
-    - Secretary of State’s power to accept or reject a recommendation
+    - Secretary of State’s powers in relation to a recommendation
       - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Secretary of State’s power to apply an alternative remedy
+      - [Sch. 4 para. 20A](schedule/4/paragraph/20A.md)
     - Reviews of continuing application of an anti-dumping amount or a countervailing amount
       - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
     - Variation or revocation following an international dispute decision
@@ -296,9 +298,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-06-19
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
     - TRA’s recommendations regarding tariff rate quotas
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
-    - Secretary of State’s power to apply a definitive safeguarding amount
+    - Secretary of State’s powers in relation to a recommendation to apply a definitive safeguarding amount
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
-    - Secretary of State’s power to subject goods to a tariff rate quota
+    - Secretary of State’s powers in relation to a recommendation to subject goods to a tariff rate quota
       - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
     - Reviews
       - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
@@ -323,6 +325,31 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-06-19
       - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
     - Interpretation
       - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+- Schedule 5A Increase in imports as a result of free trade agreement causing serious injury to UK producers
+  - [Sch. 5A para. 1 Application of this Schedule](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2 TRA and Secretary of State required to have regard to relevant free trade agreement](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3 Meaning of importation in “increased quantities”](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4 Bilateral safeguarding investigation](schedule/5A/paragraph/4.md)
+  - [Sch. 5A para. 5 Initiation of a bilateral safeguarding investigation](schedule/5A/paragraph/5.md)
+  - [Sch. 5A para. 6 Provisional affirmative determinations and final affirmative or negative determinations](schedule/5A/paragraph/6.md)
+  - [Sch. 5A para. 7 Termination of a bilateral safeguarding investigation](schedule/5A/paragraph/7.md)
+  - [Sch. 5A para. 8 TRA’s duty to recommend provisional measures](schedule/5A/paragraph/8.md)
+  - [Sch. 5A para. 9 TRA’s recommendations about provisional measures](schedule/5A/paragraph/9.md)
+  - [Sch. 5A para. 10 TRA’s recommendations about provisional measures](schedule/5A/paragraph/10.md)
+  - [Sch. 5A para. 11 TRA’s duty to recommend a definitive measure](schedule/5A/paragraph/11.md)
+  - [Sch. 5A para. 12 TRA’s recommendations about definitive measures](schedule/5A/paragraph/12.md)
+  - [Sch. 5A para. 13 TRA’s recommendations about definitive measures](schedule/5A/paragraph/13.md)
+  - [Sch. 5A para. 14 Meaning of “international dispute decision”](schedule/5A/paragraph/14.md)
+  - [Sch. 5A para. 15 No suspension of bilateral safeguarding remedies](schedule/5A/paragraph/15.md)
+  - [Sch. 5A para. 16 Exceptions](schedule/5A/paragraph/16.md)
+  - [Sch. 5A para. 17 No restriction on successive safeguarding remedies](schedule/5A/paragraph/17.md)
+  - [Sch. 5A para. 18 No interaction with anti-dumping remedies and anti-subsidy remedies](schedule/5A/paragraph/18.md)
+  - [Sch. 5A para. 19 Registration](schedule/5A/paragraph/19.md)
+  - [Sch. 5A para. 20 Reports and updates by the TRA and Secretary of State](schedule/5A/paragraph/20.md)
+  - [Sch. 5A para. 21 Secretary of State required to publish notice of decision about whether to apply remedy](schedule/5A/paragraph/21.md)
+  - [Sch. 5A para. 22 Secretary of State not required to lay statements before the House of Commons](schedule/5A/paragraph/22.md)
+  - [Sch. 5A para. 23 Interpretation](schedule/5A/paragraph/23.md)
+  - [Sch. 5A para. 24 Interpretation](schedule/5A/paragraph/24.md)
 - SCHEDULE 6 Import duty: notification of liability, payment etc
   - Notification of liability to pay import duty
     - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
