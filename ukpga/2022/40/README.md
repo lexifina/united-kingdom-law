@@ -2,9 +2,9 @@
 
 2022 c. 40. Enacted 2022-07-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-01-10, one file per provision. Earlier versions, from 2022-07-14, are in the history before it: `git log -- ukpga/2022/40` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2022-07-14, are in the history before it: `git log -- ukpga/2022/40` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/40/2023-01-10
+Source: https://www.legislation.gov.uk/ukpga/2022/40/2023-07-11
 
 ## Contents
 
@@ -12,6 +12,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/40/2023-01-10
   - [s. 1 Charge to tax](section/1.md)
 - Relief for investment expenditure
   - [s. 2 Additional expenditure treated as incurred for purposes of section 1](section/2.md)
+  - [s. 2A Section 2: meaning of expenditure on “de-carbonisation of upstream petroleum production”](section/2A.md)
   - [s. 3 Section 2: meaning of “operating expenditure”](section/3.md)
   - [s. 4 Section 2: meaning of “leasing expenditure”](section/4.md)
   - [s. 5 Section 2: meaning of “disqualifying purposes”](section/5.md)
