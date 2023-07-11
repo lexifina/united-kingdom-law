@@ -2,9 +2,9 @@
 
 2021 c. 26. Enacted 2021-06-10.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-06, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/26/2023-04-06
+Source: https://www.legislation.gov.uk/ukpga/2021/26/2023-07-11
 
 ## Contents
 
@@ -28,7 +28,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2023-04-06
     - [s. 13 Disposal of assets where SR allowance made](section/13.md)
     - [s. 14 Counteraction where arrangements are contrived etc](section/14.md)
   - Capital allowances: other measures
-    - [s. 15 Extension of temporary increase in annual investment allowance](section/15.md)
+    - [s. 15](section/15.md)
     - [s. 16 Meaning of “general decommissioning expenditure”](section/16.md)
     - [s. 17 Extensions of plant or machinery leases for reasons related to coronavirus](section/17.md)
   - Reliefs for business
@@ -158,8 +158,8 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2023-04-06
     - [s. 111 Rates of landfill tax](section/111.md)
     - [s. 112 Repeal of carbon emissions tax](section/112.md)
 - PART 4 Miscellaneous and final
-  - Freeports
-    - [s. 113 Designation of freeport tax sites](section/113.md)
+  - Freeports and investment zones
+    - [s. 113 Designation of special tax sites](section/113.md)
     - [s. 114 Capital allowances for freeport tax sites](section/114.md)
     - [s. 115 Relief from stamp duty land tax for freeport tax sites](section/115.md)
   - Penalties
