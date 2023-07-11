@@ -2,19 +2,19 @@
 
 2022 c. 9. Enacted 2022-03-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-06, one file per provision. Earlier versions, from 2022-03-15, are in the history before it: `git log -- ukpga/2022/9` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2022-03-15, are in the history before it: `git log -- ukpga/2022/9` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/9/2023-04-06
+Source: https://www.legislation.gov.uk/ukpga/2022/9/2023-07-11
 
 ## Contents
 
 - PART 1 Secondary Class 1 contributions
-  - Freeports
-    - [s. 1 Zero-rate contributions for employees at freeport tax sites: Great Britain](section/1.md)
-    - [s. 2 Freeport conditions](section/2.md)
-    - [s. 3 Freeport conditions: supplementary](section/3.md)
+  - Special tax sites
+    - [s. 1 Zero-rate contributions for employees at special tax sites: Great Britain](section/1.md)
+    - [s. 2 Applicable conditions](section/2.md)
+    - [s. 3 Applicable conditions: supplementary](section/3.md)
     - [s. 4 Anti-avoidance](section/4.md)
-    - [s. 5 Zero-rate contributions for employees at freeport tax sites: Northern Ireland](section/5.md)
+    - [s. 5 Zero-rate contributions for employees at special tax sites: Northern Ireland](section/5.md)
   - Veterans
     - [s. 6 Zero-rate contributions for armed forces veterans](section/6.md)
     - [s. 7 Veteran conditions](section/7.md)
