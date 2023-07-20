@@ -2,9 +2,9 @@
 
 2016 c. 22. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-18, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-07-20, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/22/2023-07-18
+Source: https://www.legislation.gov.uk/ukpga/2016/22/2023-07-20
 
 ## Contents
 
@@ -176,7 +176,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2023-07-18
     - [s. 121 Secure and assured tenancies: transfer of tenancy](section/121.md)
 - PART 5 Housing, estate agents and rentcharges: other changes
   - Electrical safety standards
-    - [s. 122 Electrical safety standards for properties let by private landlords](section/122.md)
+    - [s. 122 Electrical safety standards for residential properties let by landlords](section/122.md)
     - [s. 123 Electrical safety standards: enforcement](section/123.md)
   - Accommodation needs in England
     - [s. 124 Assessment of accommodation needs](section/124.md)
