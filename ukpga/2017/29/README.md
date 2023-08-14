@@ -2,9 +2,9 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-14, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2023-07-11
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2023-08-14
 
 ## Contents
 
@@ -187,6 +187,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2023-07-11
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
   - The Director for Fair Access and Participation
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Director for Freedom of Speech and Academic Freedom
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
   - Terms of appointment and tenure of members
     - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
     - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
