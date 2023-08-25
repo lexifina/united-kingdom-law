@@ -2,9 +2,9 @@
 
 2018 c. 22. Enacted 2018-09-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-08-01, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-25, one file per provision. Earlier versions, from 2018-09-13, are in the history before it: `git log -- ukpga/2018/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-08-01
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-08-25
 
 ## Contents
 
@@ -212,6 +212,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-08-01
       - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
     - Termination of a dumping or a subsidisation investigation
       - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Requirement to give notice to the Secretary of State in certain cases
+      - [Sch. 4 para. 12A](schedule/4/paragraph/12A.md)
   - PART 3 Provisional remedy: requiring a guarantee
     - TRA’s duty to recommend requiring guarantees
       - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
@@ -235,6 +237,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-08-01
       - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
     - Variation or revocation following an international dispute decision
       - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Revocation in the public interest
+      - [Sch. 4 para. 22A](schedule/4/paragraph/22A.md)
+    - Power to request assistance etc
+      - [Sch. 4 para. 22B](schedule/4/paragraph/22B.md)
   - PART 5 Undertakings
     - Acceptance of undertakings
       - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
@@ -280,6 +286,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-08-01
       - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
     - Termination of a safeguarding investigation
       - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Requirement to give notice to the Secretary of State in certain cases
+      - [Sch. 5 para. 10A](schedule/5/paragraph/10A.md)
   - PART 3 Provisional remedies: provisional safeguarding amount & provisional tariff rate quotas
     - TRA’s duty to recommend a provisional safeguarding amount or provisional tariff rate quota
       - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
@@ -306,6 +314,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/22/2023-08-01
       - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
     - Variation or revocation following an international dispute decision
       - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Revocation in the public interest
+      - [Sch. 5 para. 22A](schedule/5/paragraph/22A.md)
+    - Power to request assistance etc
+      - [Sch. 5 para. 22B](schedule/5/paragraph/22B.md)
   - PART 5 Supplementary
     - The economic interest test
       - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
