@@ -2,9 +2,9 @@
 
 2013 c. 33. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-29, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-08-29
 
 ## Contents
 
@@ -139,9 +139,21 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-02-07
     - [s. 100 Power of Bank to require Regulator to refrain from specified action](section/100.md)
     - [s. 101 Power of FCA to require Regulator to refrain from specified action](section/101.md)
     - [s. 102 Power of PRA to require Regulator to refrain from specified action](section/102.md)
+  - Recommendations
+    - [s. 102A Recommendations by Treasury in connection with general duties](section/102A.md)
   - Consultation, accountability and oversight
+    - [s. 102B Matters to consider when imposing generally applicable requirements](section/102B.md)
     - [s. 103 Regulator’s general duty to consult](section/103.md)
     - [s. 104 Consultation in relation to generally applicable requirements](section/104.md)
+    - [s. 104A Requirements in connection with public consultations](section/104A.md)
+    - [s. 104B Duty of Regulator to review generally applicable requirements](section/104B.md)
+    - [s. 104C Statement of policy relating to review of requirements](section/104C.md)
+    - [s. 104D Requirement to review specified requirements](section/104D.md)
+    - [s. 104E Report on certain reviews](section/104E.md)
+    - [s. 104F Power of Treasury to require the imposition of generally applicable requirements](section/104F.md)
+    - [s. 104G Consultation with the FCA Cost Benefit Analysis Panel](section/104G.md)
+    - [s. 104H Statement of policy in relation to cost benefit analyses](section/104H.md)
+    - [s. 104I Statement of policy on panel appointments](section/104I.md)
     - [s. 105 Independent inquiries](section/105.md)
     - [s. 106 Investigations into regulatory failure](section/106.md)
     - [s. 107 Competition scrutiny](section/107.md)
@@ -151,7 +163,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-02-07
     - [s. 110 Interpretation of Part](section/110.md)
 - PART 6 Special administration for operators of certain infrastructure systems
   - Introductory
-    - [s. 111 Financial market infrastructure administration](section/111.md)
+    - [s. 111 Financial market and cash infrastructure administration](section/111.md)
     - [s. 112 Interpretation: infrastructure companies](section/112.md)
     - [s. 113 Interpretation: other expressions](section/113.md)
   - FMI administration orders
@@ -305,6 +317,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-02-07
     - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
   - Annual report
     - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Other reports
+    - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
   - Audit of accounts
     - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
   - Funding (participants in regulated payment systems)
@@ -319,6 +333,9 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-02-07
     - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
   - Exemption from liability in damages
     - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Engagement with Parliamentary Committees
+    - [Sch. 4 para. 14A](schedule/4/paragraph/14A.md)
+    - [Sch. 4 para. 14B](schedule/4/paragraph/14B.md)
   - Freedom of information
     - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
   - Equality
