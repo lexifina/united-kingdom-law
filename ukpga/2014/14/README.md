@@ -1,0 +1,541 @@
+# Co-operative and Community Benefit Societies Act 2014
+
+2014 c. 14. Enacted 2014-05-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
+
+Source: https://www.legislation.gov.uk/ukpga/2014/14/2023-08-29
+
+## Contents
+
+- Part 1 Registration
+  - Introduction
+    - [s. 1 Meaning of “registered society”](section/1.md)
+  - Registration
+    - [s. 2 Societies that may be registered](section/2.md)
+    - [s. 3 Registration](section/3.md)
+    - [s. 4 Registration etc: special cases](section/4.md)
+  - Cancellation of registration
+    - [s. 5 Cancellation of registration: conditions for cancellation](section/5.md)
+    - [s. 6 Cancellation of registration: procedure and effect](section/6.md)
+    - [s. 7 Cancellation of registration: additional procedure in cases involving condition D](section/7.md)
+  - Suspension of registration
+    - [s. 8 Suspension of registration](section/8.md)
+  - Appeals
+    - [s. 9 Appeal against refusal to register or cancellation or suspension of registration](section/9.md)
+- Part 2 Name, rules, powers etc
+  - Name and charitable status
+    - [s. 10 A society’s name](section/10.md)
+    - [s. 11 Registered name to be displayed and used](section/11.md)
+    - [s. 12 Charitable status to appear on documents etc](section/12.md)
+    - [s. 13 Change of name](section/13.md)
+  - Rules: general
+    - [s. 14 Content of a society’s rules](section/14.md)
+    - [s. 15 Rules to bind members](section/15.md)
+    - [s. 16 Amendment of rules](section/16.md)
+    - [s. 17 Appeal against refusal to register amendment of rules](section/17.md)
+    - [s. 18 Duty to provide copy of rules on demand](section/18.md)
+  - Rules: supplementary provisions
+    - [s. 19 Provision of rules with intent to mislead or defraud](section/19.md)
+    - [s. 20 Creation of offences by a society’s rules](section/20.md)
+    - [s. 21 Rules as to fund for purchase of government securities](section/21.md)
+    - [s. 22 Rules of agricultural, horticultural or forestry society may provide for loans without security](section/22.md)
+    - [s. 23 Supplementary provisions as to rules](section/23.md)
+  - Maximum shareholding
+    - [s. 24 Maximum interest in a society’s withdrawable shares](section/24.md)
+    - [s. 25 Power to amend limit in section 24](section/25.md)
+  - Power to hold land
+    - [s. 26 Power to hold land etc](section/26.md)
+  - Power to invest etc
+    - [s. 27 Power to invest](section/27.md)
+    - [s. 28 Proxy voting by societies](section/28.md)
+  - Power to restrict use of assets
+    - [s. 29 Power to restrict use of assets of a community benefit society](section/29.md)
+- Part 3 Members and officers
+  - Register of members and officers
+    - [s. 30 Register of members and officers](section/30.md)
+  - Provisions about certain kinds of member etc
+    - [s. 31 Members under 18](section/31.md)
+    - [s. 32 Bodies corporate may be members](section/32.md)
+    - [s. 33 Society a member of another society: references to members making and signing documents etc](section/33.md)
+  - Dealings with members
+    - [s. 34 Advances to members](section/34.md)
+    - [s. 35 Remedies for members’ debts](section/35.md)
+    - [s. 36 Payments in respect of persons lacking capacity](section/36.md)
+  - Distribution of member’s property in society on death
+    - [s. 37 Nomination by member of entitlement to property in society on member’s death](section/37.md)
+    - [s. 38 Section 37: variation and revocation of nominations](section/38.md)
+    - [s. 39 Section 37: procedure on death](section/39.md)
+    - [s. 40 Death of member: distribution of property not exceeding £5,000](section/40.md)
+  - Officers and employees in charge of money etc
+    - [s. 41 Security to be given by certain officers](section/41.md)
+    - [s. 42 Duty of certain officers and employees to account](section/42.md)
+- Part 4 A society’s capacity and related matters
+  - Capacity of society and power of committee to bind it
+    - [s. 43 Capacity of a society and relationship with its rules](section/43.md)
+    - [s. 44 Special resolutions under section 43](section/44.md)
+    - [s. 45 Power of committee to bind society](section/45.md)
+    - [s. 46 No duty to enquire as to capacity of society or authority of committee](section/46.md)
+    - [s. 47 Application of sections 43 and 45 to charitable societies](section/47.md)
+    - [s. 48 Transactions with committee members etc in excess of powers](section/48.md)
+    - [s. 49 Section 48: definitions](section/49.md)
+  - Seals
+    - [s. 50 Common seal](section/50.md)
+    - [s. 51 Power of society to have official seal for use abroad](section/51.md)
+    - [s. 52 Authorisation of use of official seal](section/52.md)
+  - Execution of documents
+    - [s. 53 Methods for execution of documents: England and Wales](section/53.md)
+    - [s. 54 Method for execution of contracts under seal: England and Wales](section/54.md)
+    - [s. 55 Execution of documents: Scotland](section/55.md)
+    - [s. 56 Execution of documents: presumption of validity of officer’s signature](section/56.md)
+  - Other matters
+    - [s. 57 Contracts, deeds and obligations made before registration of society](section/57.md)
+    - [s. 58 Bills of exchange and promissory notes](section/58.md)
+- Part 5 Charges over a society’s assets
+  - CHAPTER 1 Charges: England and Wales
+    - [s. 59 Charges on assets of English and Welsh societies](section/59.md)
+    - [s. 60 Section 59: power to extend time for making application or to rectify errors](section/60.md)
+    - [s. 61 Notification of transactions relating to charges recorded under section 59](section/61.md)
+  - CHAPTER 2 Charges: Scotland
+    - [s. 62 Floating charges created by Scottish societies](section/62.md)
+    - [s. 63 Filing of information relating to charges created by virtue of section 62](section/63.md)
+    - [s. 64 Notification of charges etc: Scotland](section/64.md)
+  - CHAPTER 3 Receiver or manager of society’s property
+    - [s. 65 English and Welsh societies: restriction on appointment of administrative receiver](section/65.md)
+    - [s. 66 Duty to account etc of receiver or manager of a society’s property](section/66.md)
+- Part 6 Banking and lending by societies
+  - Banking
+    - [s. 67 Registered society with withdrawable share capital not to carry on banking etc](section/67.md)
+    - [s. 68 Power to amend figures in section 67(2)](section/68.md)
+    - [s. 69 Society carrying on banking must display statement](section/69.md)
+    - [s. 70 Section 69: form of statement](section/70.md)
+  - Discharge of charges securing lending by a registered society
+    - [s. 71 Discharge of mortgages of property in England and Wales](section/71.md)
+    - [s. 72 Discharge of securities: land in Scotland](section/72.md)
+    - [s. 73 Discharge of securities: other property in Scotland](section/73.md)
+    - [s. 74 Receipt on payment of moneys secured to a society](section/74.md)
+- Part 7 Accounts, audit and annual returns
+  - Books of account
+    - [s. 75 Duty to keep books of account etc](section/75.md)
+    - [s. 76 Form of books of account](section/76.md)
+  - Year of account
+    - [s. 77 Year of account: societies registered on or after 8 January 2012](section/77.md)
+    - [s. 78 Year of account: societies registered on or before 7 January 2012](section/78.md)
+  - Accounts and balance sheets
+    - [s. 79 Duty to prepare revenue accounts](section/79.md)
+    - [s. 80 Accounts and balance sheets to give a true and fair view](section/80.md)
+    - [s. 81 Duty to display latest balance sheet at registered office](section/81.md)
+    - [s. 82 Restrictions on publication of accounts and balance sheets](section/82.md)
+  - Auditing of accounts etc
+    - [s. 83 Duty to appoint auditors](section/83.md)
+    - [s. 84 Power of certain societies to disapply section 83](section/84.md)
+    - [s. 85 Duty to obtain report in certain cases where section 83 is disapplied](section/85.md)
+    - [s. 86 Power to require accounts etc for past years to be audited by qualified auditor](section/86.md)
+    - [s. 87 Auditors: content of report and powers](section/87.md)
+    - [s. 88 Persons appointed under section 82 or 85: powers etc](section/88.md)
+  - Annual returns
+    - [s. 89 Annual returns](section/89.md)
+    - [s. 90 Duty to provide copy of annual return on demand](section/90.md)
+  - Auditors
+    - [s. 91 Meaning of “qualified auditor”](section/91.md)
+    - [s. 92 Persons ineligible for appointment as auditors etc](section/92.md)
+    - [s. 93 Re-appointment and removal of qualified auditors](section/93.md)
+    - [s. 94 Resolutions relating to appointment or removal of auditors](section/94.md)
+    - [s. 95 Resolutions relating to auditors: auditors’ representations](section/95.md)
+    - [s. 96 Section 95: provision of auditor’s representations by making available on website](section/96.md)
+    - [s. 97 Remuneration of qualified auditors](section/97.md)
+  - Group accounts
+    - [s. 98 Group accounts](section/98.md)
+    - [s. 99 Section 98: exceptions](section/99.md)
+  - Interpretation of Part 7
+    - [s. 100 Meaning of company being a “subsidiary” of a society](section/100.md)
+    - [s. 101 Meaning of society being a “subsidiary” of another society](section/101.md)
+    - [s. 102 Interpretation of Part 7](section/102.md)
+- Part 8 Inspection and investigations
+  - Power to inspect books etc
+    - [s. 103 Power of members etc to inspect own account and society’s register](section/103.md)
+    - [s. 104 Power of society to make rules authorising inspection of books](section/104.md)
+    - [s. 105 Power of FCA to appoint accountant or actuary to inspect a society’s books](section/105.md)
+  - Inspectors and special meetings
+    - [s. 106 Appointment of inspectors and calling of special meetings](section/106.md)
+    - [s. 107 Section 106: examinations and special meetings](section/107.md)
+  - General restriction on inspection
+    - [s. 108 General restriction on inspection of books](section/108.md)
+- Part 9 Amalgamations, conversions, dissolution etc
+  - Amalgamations and transfers of engagements between societies etc
+    - [s. 109 Amalgamation of societies](section/109.md)
+    - [s. 110 Transfer of engagements between societies](section/110.md)
+    - [s. 111 Special resolutions under section 109 or 110](section/111.md)
+  - Conversion of society into company etc
+    - [s. 112 Conversion of society into a company, amalgamation with a company etc](section/112.md)
+    - [s. 113 Special resolutions under section 112](section/113.md)
+    - [s. 114 Conversion of society into a company: supplementary](section/114.md)
+  - Conversion of company into society
+    - [s. 115 Conversion of company into a registered society](section/115.md)
+    - [s. 116 Conversion of company into a society: member’s shareholding in company exceeds maximum permitted amount](section/116.md)
+    - [s. 117 Conversion of company into a society: no effect on liabilities](section/117.md)
+  - Voluntary arrangements and administration
+    - [s. 118 Power to apply provisions about company arrangements and administration etc](section/118.md)
+  - Dissolution by an instrument of dissolution
+    - [s. 119 Dissolution of society by an instrument of dissolution](section/119.md)
+    - [s. 120 Special resolutions under section 119](section/120.md)
+    - [s. 121 Instruments of dissolution: notification to FCA etc](section/121.md)
+    - [s. 122 Instruments of dissolution: advertisement, dissolution etc](section/122.md)
+  - Dissolution on winding up
+    - [s. 123 Dissolution of society on winding up](section/123.md)
+    - [s. 124 Liability of existing and former members in winding up](section/124.md)
+  - Dissolution following administration
+    - [s. 125 Dissolution following administration](section/125.md)
+  - Restriction on dissolution etc
+    - [s. 126 Dissolution etc to occur only after society’s property dealt with](section/126.md)
+- Part 10 Offences
+  - Offences
+    - [s. 127 General offences](section/127.md)
+    - [s. 128 Offences by societies to be also offences by officers etc](section/128.md)
+    - [s. 129 Continuing offences](section/129.md)
+    - [s. 130 Misappropriation of a society’s property etc](section/130.md)
+    - [s. 131 Falsification of a society’s records etc](section/131.md)
+  - Prosecution of offences
+    - [s. 132 Prosecution of offences: persons who may bring proceedings and time for bringing them](section/132.md)
+    - [s. 133 Prosecution of societies: service of summons etc](section/133.md)
+- Part 11 Miscellaneous and general
+  - Application of company law etc
+    - [s. 134 Power to amend this Act to assimilate to company law](section/134.md)
+    - [s. 135 Power to apply company law provisions on investigations, names and dissolution etc](section/135.md)
+    - [s. 136 Section 135: power to make consequential amendments](section/136.md)
+  - Determination of disputes
+    - [s. 137 Determination of disputes in accordance with a society’s rules](section/137.md)
+    - [s. 138 Determination of disputes under section 137: application to the court](section/138.md)
+    - [s. 139 Determination of disputes otherwise than under a society’s rules](section/139.md)
+    - [s. 140 Determination of disputes: supplementary](section/140.md)
+  - Other miscellaneous provisions
+    - [s. 141 Recovery of costs and expenses](section/141.md)
+  - Northern Ireland societies
+    - [s. 142 Northern Ireland societies to be treated as registered societies](section/142.md)
+  - Documents
+    - [s. 143 Form of documents etc](section/143.md)
+    - [s. 144 Form etc of electronic documents sent to FCA or PRA](section/144.md)
+    - [s. 145 Fees for inspection and copying of documents](section/145.md)
+    - [s. 146 Certain documents to be received in evidence](section/146.md)
+  - Regulations and orders
+    - [s. 147 Regulations and orders](section/147.md)
+  - Interpretation
+    - [s. 148 Meaning of “electronic form”, “by electronic means” etc](section/148.md)
+    - [s. 149 Interpretation of Act](section/149.md)
+- Part 12 Final provisions
+  - [s. 150 Pre-commencement societies](section/150.md)
+  - [s. 151 Amendments, repeals etc](section/151.md)
+  - [s. 152 Channel Islands](section/152.md)
+  - [s. 153 Extent](section/153.md)
+  - [s. 154 Commencement](section/154.md)
+  - [s. 155 Short title](section/155.md)
+- SCHEDULE 1 Forms of bond for officers of society
+  - Part 1 Forms applicable in England, Wales and Channel Islands
+    - Form A
+    - Form B
+  - Part 2 Form applicable in Scotland
+    - Form C
+- SCHEDULE 2 Form of receipt on mortgage, heritable security etc
+  - Part 1 Forms applicable in England and Wales
+    - Form A
+    - Form B
+  - Part 2 Forms applicable in Scotland
+    - Form C
+    - Form D
+    - Form E
+    - Form F
+- SCHEDULE 3 Provision for certain pre-commencement societies
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Section 5 (cancellation of registration): societies registered before 26 July 1938
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Powers of a society registered on or before 1 January 1894
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Section 15: amendments registered on or before 27 March 1928 increasing a member’s financial contribution
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Preservation of certain rules facilitating investment in government securities (section 21)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Maximum shareholding (section 24): effect of certain resolutions on society’s rules
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Maximum deposits: effect of resolution on rules of societies registered before 27 April 1952
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Maximum deposits: effect on certain resolutions on society’s rules
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The 1968 Act: consequential amendments to rules
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Section 37 (nomination by member of entitlement to property in society on member’s death): nominations made before 5 August 1954
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Section 50 (common seals)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Section 59 (charges on assets of English and Welsh societies): instruments executed before 14 September 1967
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Section 104 (inspection of books: power to authorise inspection)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Section 108 (inspection of books: general restriction)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part 9: winding up of societies registered before 26 July 1938
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Consequential amendments
+  - Part 1 Amendments of the Credit Unions Act 1979
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Part 2 Amendments of other Acts
+    - Forged Transfers Act 1891 (c. 43)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Libraries Offences Act 1898 (c. 53)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Stock Transfer Act 1963 (c. 18)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Transport Act 1968 (c. 73)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - National Savings Bank Act 1971 (c. 29)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Local Government Act 1972 (c. 7)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Friendly Societies Act 1974 (c. 46)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Industrial Common Ownership Act 1976 (c. 78)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - Housing Associations Act 1985 (c. 69)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - Finance Act 1986 (c. 41)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - Company Directors Disqualification Act 1986 (c. 46)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - Housing (Scotland) Act 1987 (c. 26)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - Local Government and Housing Act 1989 (c. 42)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - Opticians Act 1989 (c. 44)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - Enterprise and New Towns (Scotland) Act 1990 (c. 35)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - Housing Act 1996 (c. 52)
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - Scotland Act 1998 (c. 46)
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+      - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+      - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+      - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+      - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+    - Political Parties, Elections and Referendums Act 2000 (c. 41)
+      - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+      - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+      - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+      - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+      - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+    - Housing (Scotland) Act 2001 (asp 10)
+      - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+    - Land Registration Act 2002 (c. 9)
+      - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+    - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+      - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+    - Licensing Act 2003 (c. 17)
+      - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+      - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+      - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+    - Fire and Rescue Services Act 2004 (c. 21)
+      - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+    - Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)
+      - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+      - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+      - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+      - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+    - Housing Act 2004 (c. 34)
+      - [Sch. 4 para. 91](schedule/4/paragraph/91.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 4 para. 92](schedule/4/paragraph/92.md)
+      - [Sch. 4 para. 93](schedule/4/paragraph/93.md)
+      - [Sch. 4 para. 94](schedule/4/paragraph/94.md)
+      - [Sch. 4 para. 95](schedule/4/paragraph/95.md)
+    - Charities and Trustee Investment (Scotland) Act 2005 (asp 10)
+      - [Sch. 4 para. 96](schedule/4/paragraph/96.md)
+      - [Sch. 4 para. 97](schedule/4/paragraph/97.md)
+      - [Sch. 4 para. 98](schedule/4/paragraph/98.md)
+    - Companies Act 2006 (c. 46)
+      - [Sch. 4 para. 99](schedule/4/paragraph/99.md)
+      - [Sch. 4 para. 100](schedule/4/paragraph/100.md)
+      - [Sch. 4 para. 101](schedule/4/paragraph/101.md)
+      - [Sch. 4 para. 102](schedule/4/paragraph/102.md)
+      - [Sch. 4 para. 103](schedule/4/paragraph/103.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 4 para. 104](schedule/4/paragraph/104.md)
+      - [Sch. 4 para. 105](schedule/4/paragraph/105.md)
+      - [Sch. 4 para. 106](schedule/4/paragraph/106.md)
+      - [Sch. 4 para. 107](schedule/4/paragraph/107.md)
+      - [Sch. 4 para. 108](schedule/4/paragraph/108.md)
+      - [Sch. 4 para. 109](schedule/4/paragraph/109.md)
+      - [Sch. 4 para. 110](schedule/4/paragraph/110.md)
+      - [Sch. 4 para. 111](schedule/4/paragraph/111.md)
+      - [Sch. 4 para. 112](schedule/4/paragraph/112.md)
+    - Building Societies (Funding) and Mutual Societies (Transfers) Act 2007 (c. 26)
+      - [Sch. 4 para. 113](schedule/4/paragraph/113.md)
+      - [Sch. 4 para. 114](schedule/4/paragraph/114.md)
+      - [Sch. 4 para. 115](schedule/4/paragraph/115.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 4 para. 116](schedule/4/paragraph/116.md)
+    - Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)
+      - [Sch. 4 para. 117](schedule/4/paragraph/117.md)
+      - [Sch. 4 para. 118](schedule/4/paragraph/118.md)
+      - [Sch. 4 para. 119](schedule/4/paragraph/119.md)
+      - [Sch. 4 para. 120](schedule/4/paragraph/120.md)
+    - Housing and Regeneration Act 2008 (c. 17)
+      - [Sch. 4 para. 121](schedule/4/paragraph/121.md)
+      - [Sch. 4 para. 122](schedule/4/paragraph/122.md)
+      - [Sch. 4 para. 123](schedule/4/paragraph/123.md)
+      - [Sch. 4 para. 124](schedule/4/paragraph/124.md)
+      - [Sch. 4 para. 125](schedule/4/paragraph/125.md)
+      - [Sch. 4 para. 126](schedule/4/paragraph/126.md)
+      - [Sch. 4 para. 127](schedule/4/paragraph/127.md)
+      - [Sch. 4 para. 128](schedule/4/paragraph/128.md)
+      - [Sch. 4 para. 129](schedule/4/paragraph/129.md)
+      - [Sch. 4 para. 130](schedule/4/paragraph/130.md)
+      - [Sch. 4 para. 131](schedule/4/paragraph/131.md)
+      - [Sch. 4 para. 132](schedule/4/paragraph/132.md)
+      - [Sch. 4 para. 133](schedule/4/paragraph/133.md)
+      - [Sch. 4 para. 134](schedule/4/paragraph/134.md)
+      - [Sch. 4 para. 135](schedule/4/paragraph/135.md)
+      - [Sch. 4 para. 136](schedule/4/paragraph/136.md)
+      - [Sch. 4 para. 137](schedule/4/paragraph/137.md)
+    - Local Transport Act 2008 (c. 26)
+      - [Sch. 4 para. 138](schedule/4/paragraph/138.md)
+    - Counter Terrorism Act 2008 (c. 28)
+      - [Sch. 4 para. 139](schedule/4/paragraph/139.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 4 para. 140](schedule/4/paragraph/140.md)
+      - [Sch. 4 para. 141](schedule/4/paragraph/141.md)
+      - [Sch. 4 para. 142](schedule/4/paragraph/142.md)
+      - [Sch. 4 para. 143](schedule/4/paragraph/143.md)
+      - [Sch. 4 para. 144](schedule/4/paragraph/144.md)
+      - [Sch. 4 para. 145](schedule/4/paragraph/145.md)
+      - [Sch. 4 para. 146](schedule/4/paragraph/146.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 4 para. 147](schedule/4/paragraph/147.md)
+    - Local Democracy, Economic Development and Construction Act 2009 (c. 20)
+      - [Sch. 4 para. 148](schedule/4/paragraph/148.md)
+      - [Sch. 4 para. 149](schedule/4/paragraph/149.md)
+      - [Sch. 4 para. 150](schedule/4/paragraph/150.md)
+      - [Sch. 4 para. 151](schedule/4/paragraph/151.md)
+      - [Sch. 4 para. 152](schedule/4/paragraph/152.md)
+      - [Sch. 4 para. 153](schedule/4/paragraph/153.md)
+      - [Sch. 4 para. 154](schedule/4/paragraph/154.md)
+    - Corporation Tax Act 2010 (c. 4)
+      - [Sch. 4 para. 155](schedule/4/paragraph/155.md)
+      - [Sch. 4 para. 156](schedule/4/paragraph/156.md)
+      - [Sch. 4 para. 157](schedule/4/paragraph/157.md)
+      - [Sch. 4 para. 158](schedule/4/paragraph/158.md)
+      - [Sch. 4 para. 159](schedule/4/paragraph/159.md)
+      - [Sch. 4 para. 160](schedule/4/paragraph/160.md)
+      - [Sch. 4 para. 161](schedule/4/paragraph/161.md)
+      - [Sch. 4 para. 162](schedule/4/paragraph/162.md)
+      - [Sch. 4 para. 163](schedule/4/paragraph/163.md)
+      - [Sch. 4 para. 164](schedule/4/paragraph/164.md)
+      - [Sch. 4 para. 165](schedule/4/paragraph/165.md)
+      - [Sch. 4 para. 166](schedule/4/paragraph/166.md)
+      - [Sch. 4 para. 167](schedule/4/paragraph/167.md)
+      - [Sch. 4 para. 168](schedule/4/paragraph/168.md)
+      - [Sch. 4 para. 169](schedule/4/paragraph/169.md)
+      - [Sch. 4 para. 170](schedule/4/paragraph/170.md)
+    - Taxation (International and Other Provisions) Act 2010 (c. 8)
+      - [Sch. 4 para. 171](schedule/4/paragraph/171.md)
+    - Finance Act 2010 (c. 13)
+      - [Sch. 4 para. 172](schedule/4/paragraph/172.md)
+    - Finance Act 2011 (c. 11)
+      - [Sch. 4 para. 173](schedule/4/paragraph/173.md)
+    - Localism Act 2011 (c. 20)
+      - [Sch. 4 para. 174](schedule/4/paragraph/174.md)
+      - [Sch. 4 para. 175](schedule/4/paragraph/175.md)
+      - [Sch. 4 para. 176](schedule/4/paragraph/176.md)
+      - [Sch. 4 para. 177](schedule/4/paragraph/177.md)
+      - [Sch. 4 para. 178](schedule/4/paragraph/178.md)
+      - [Sch. 4 para. 179](schedule/4/paragraph/179.md)
+    - Public Bodies Act 2011 (c. 24)
+      - [Sch. 4 para. 180](schedule/4/paragraph/180.md)
+    - Charities Act 2011 (c. 25)
+      - [Sch. 4 para. 181](schedule/4/paragraph/181.md)
+      - [Sch. 4 para. 182](schedule/4/paragraph/182.md)
+      - [Sch. 4 para. 183](schedule/4/paragraph/183.md)
+- SCHEDULE 5 Transitionals and savings
+  - Continuity of the law
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Effect of old transitionals and savings
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Use of existing forms etc
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Meaning of “enactment”
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Transitory modifications etc
+  - Establishment of a single county court
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Amendments relating to the punishment of offences in England and Wales
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Land Registration etc. (Scotland) Act 2012 (asp 5)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Repeals and revocations
