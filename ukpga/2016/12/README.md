@@ -2,9 +2,9 @@
 
 2016 c. 12. Enacted 2016-05-04.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-01-25, one file per provision. Earlier versions, from 2016-05-04, are in the history before it: `git log -- ukpga/2016/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-29, one file per provision. Earlier versions, from 2016-05-04, are in the history before it: `git log -- ukpga/2016/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/12/2023-01-25
+Source: https://www.legislation.gov.uk/ukpga/2016/12/2023-08-29
 
 ## Contents
 
@@ -30,7 +30,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/12/2023-01-25
   - Definitions
     - [s. 13 Definitions used in Part 1](section/13.md)
 - PART 2 Regulators
-  - Business impact target
+  - ...
     - [s. 14 Extension of target to provisions made by regulators](section/14.md)
   - Reporting requirements
     - [s. 15 Duty to report on effect of regulators’ code](section/15.md)
