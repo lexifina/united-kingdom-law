@@ -2,9 +2,9 @@
 
 2015 c. 26. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-29, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/26/2023-06-29
+Source: https://www.legislation.gov.uk/ukpga/2015/26/2023-08-29
 
 ## Contents
 
@@ -39,7 +39,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/26/2023-06-29
     - [s. 19 Guidance by the Secretary of State](section/19.md)
   - Report on investigations under financial regulators’ complaints scheme
     - [s. 20 Independent Complaints Commissioner: reporting duty](section/20.md)
-  - Business impact target
+  - ...
     - [s. 21 Duty on Secretary of State to publish business impact target etc](section/21.md)
     - [s. 22 Sections 21 and 23 to 25: “qualifying regulatory provisions” etc](section/22.md)
     - [s. 23 Duty on Secretary of State to publish reports](section/23.md)
