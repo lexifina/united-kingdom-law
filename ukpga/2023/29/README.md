@@ -2,9 +2,9 @@
 
 2023 c. 29. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-08-29, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-07-11
+Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-08-29
 
 ## Contents
 
@@ -134,8 +134,16 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-07-11
   - PART 1 Amendments to the Markets in Financial Instruments Regulation
     - [Sch. 2 para. 1 Introductory](schedule/2/paragraph/1.md)
     - [Sch. 2 para. 2 Transparency requirements for equities](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
     - [Sch. 2 para. 7 Transparency requirements for fixed income instruments and derivatives etc](schedule/2/paragraph/7.md)
     - [Sch. 2 para. 8 Systematic internalisers and other investment firms](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Systematic internalisers and other investment firms](schedule/2/paragraph/12.md)
     - [Sch. 2 para. 13 Share trading obligation](schedule/2/paragraph/13.md)
     - [Sch. 2 para. 14 Share trading obligation](schedule/2/paragraph/14.md)
     - [Sch. 2 para. 15 Derivatives trading obligation](schedule/2/paragraph/15.md)
@@ -143,14 +151,14 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-07-11
     - [Sch. 2 para. 17 Derivatives trading obligation](schedule/2/paragraph/17.md)
     - [Sch. 2 para. 18 Derivatives trading obligation](schedule/2/paragraph/18.md)
     - [Sch. 2 para. 19 Consequential amendments relating to this Part](schedule/2/paragraph/19.md)
-    - [Sch. 2 para. 20 Consequential amendments relating to this Part](schedule/2/paragraph/20.md)
-    - [Sch. 2 para. 21 Consequential amendments relating to this Part](schedule/2/paragraph/21.md)
-    - [Sch. 2 para. 22 Consequential amendments relating to this Part](schedule/2/paragraph/22.md)
-    - [Sch. 2 para. 23 Consequential amendments relating to this Part](schedule/2/paragraph/23.md)
-    - [Sch. 2 para. 24 Consequential amendments relating to this Part](schedule/2/paragraph/24.md)
-    - [Sch. 2 para. 25 Consequential amendments relating to this Part](schedule/2/paragraph/25.md)
-    - [Sch. 2 para. 26 Consequential amendments relating to this Part](schedule/2/paragraph/26.md)
-    - [Sch. 2 para. 27 Consequential amendments relating to this Part](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
   - PART 2 Amendments to the European Market Infrastructure Regulation
     - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
     - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
