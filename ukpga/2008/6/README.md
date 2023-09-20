@@ -1,0 +1,258 @@
+# Child Maintenance and Other Payments Act 2008
+
+2008 c. 6. Enacted 2008-06-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-09-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
+
+Source: https://www.legislation.gov.uk/ukpga/2008/6/2023-09-20
+
+## Contents
+
+- Part 1 The Child Maintenance and Enforcement Commission
+  - [s. 1 The Child Maintenance and Enforcement Commission](section/1.md)
+  - [s. 2 Objectives of the Commission](section/2.md)
+  - [s. 3 Functions of the Commission: general](section/3.md)
+  - [s. 4 Promotion of child maintenance](section/4.md)
+  - [s. 5 Provision of information and guidance](section/5.md)
+  - [s. 6 Fees](section/6.md)
+  - [s. 7 Agency arrangements and provision of services](section/7.md)
+  - [s. 8 Contracting out](section/8.md)
+  - [s. 9 Annual report to Secretary of State](section/9.md)
+  - [s. 10 Directions and guidance](section/10.md)
+  - [s. 11 Review of the status of the Commission](section/11.md)
+  - [s. 12 Supplementary provisions](section/12.md)
+- Part 2 Transfer of child support functions etc. to the Commission
+  - [s. 13 Transfer of child support functions](section/13.md)
+  - [s. 14 Transfer of property, rights and liabilities](section/14.md)
+- Part 3 Child support etc.
+  - Removal of compulsion for benefit claimants
+    - [s. 15 Repeal of sections 6 and 46](section/15.md)
+  - Maintenance calculations
+    - [s. 16 Changes to the calculation of maintenance](section/16.md)
+    - [s. 17 Power to regulate supersession](section/17.md)
+    - [s. 18 Determination of applications for a variation](section/18.md)
+    - [s. 19 Transfer of cases to new rules](section/19.md)
+  - Collection and enforcement
+    - [s. 20 Use of deduction from earnings orders as basic method of payment](section/20.md)
+    - [s. 21 Deduction from earnings orders: the liable person’s earnings](section/21.md)
+    - [s. 22 Orders for regular deductions from accounts](section/22.md)
+    - [s. 23 Lump sum deduction orders](section/23.md)
+    - [s. 24 Orders preventing avoidance](section/24.md)
+    - [s. 25 Administrative liability orders](section/25.md)
+    - [s. 26 Enforcement in county courts](section/26.md)
+    - [s. 27 Disqualification for holding or obtaining travel authorisation](section/27.md)
+    - [s. 28 Curfew orders](section/28.md)
+    - [s. 29 Commitment to prison](section/29.md)
+    - [s. 30 Disqualification for driving](section/30.md)
+  - Debt management powers
+    - [s. 31 Power to treat liability as satisfied](section/31.md)
+    - [s. 32 Power to accept part payment of arrears in full and final satisfaction](section/32.md)
+    - [s. 33 Power to write off arrears](section/33.md)
+    - [s. 34 Transfer of arrears](section/34.md)
+  - Miscellaneous
+    - [s. 35 Registered maintenance agreements: Scotland](section/35.md)
+    - [s. 36 Offence of failing to notify change of address](section/36.md)
+    - [s. 37 Additional special case](section/37.md)
+    - [s. 38 Recovery of arrears from deceased’s estate](section/38.md)
+    - [s. 39 Disclosure of information relating to family proceedings](section/39.md)
+    - [s. 40 Disclosure of information to credit reference agencies](section/40.md)
+    - [s. 41 Pilot schemes](section/41.md)
+    - [s. 42 Meaning of “child”](section/42.md)
+    - [s. 43 Extinction of liability in respect of interest and fees](section/43.md)
+    - [s. 44 Use of information](section/44.md)
+    - [s. 45 Liable relative provisions: exclusion of parental duty to maintain](section/45.md)
+- Part 4 Lump sum payments: mesothelioma etc.
+  - Mesothelioma lump sum payments
+    - [s. 46 Lump sum payments](section/46.md)
+    - [s. 47 Conditions of entitlement](section/47.md)
+    - [s. 48 Determination of claims](section/48.md)
+    - [s. 49 Reconsideration](section/49.md)
+    - [s. 50 Appeal to First-tier Tribunal](section/50.md)
+    - [s. 51 Appeal to Social Security Commissioner](section/51.md)
+    - [s. 52 Minors and people who lack capacity](section/52.md)
+    - [s. 53 Regulations: Part 4](section/53.md)
+  - Recovery of mesothelioma and other lump sum payments
+    - [s. 54 Amendment of Social Security (Recovery of Benefits) Act 1997](section/54.md)
+- Part 5 General
+  - [s. 55 Regulations and orders: general](section/55.md)
+  - [s. 56 General interpretation](section/56.md)
+  - [s. 57 Minor and consequential amendments](section/57.md)
+  - [s. 58 Repeals](section/58.md)
+  - [s. 59 Transition](section/59.md)
+  - [s. 60 Financial provisions](section/60.md)
+  - [s. 61 Extent](section/61.md)
+  - [s. 62 Commencement](section/62.md)
+  - [s. 63 Citation](section/63.md)
+- SCHEDULE 1
+  - Constitution of the Commission
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Appointment of a person to chair the Commission
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Appointment of directors
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Terms of appointment and tenure of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration etc. of non-executive members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Appointment of deputy chair
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Staff
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Committees
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Procedure
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Delegation
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Instruments
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Finance
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Accounts and audit
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Non-executive functions committee
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Supplementary powers
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Status of the Commission
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Validity
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Public records
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Investigation by Parliamentary Commissioner
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Civil service pensions
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - House of Commons disqualification
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Northern Ireland Assembly disqualification
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Freedom of information
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Interpretation
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+- SCHEDULE 2
+- SCHEDULE 3 Transfer of child support functions
+  - Part 1 Consequential amendments
+    - Child Support Act 1991 (c. 48)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+    - Social Security Act 1998 (c. 14)
+      - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+  - Part 2 Transitional provision and savings
+    - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+- SCHEDULE 4 Changes to the calculation of maintenance
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Calculation by reference to gross weekly income
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Change to basic rate
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Increase in flat rate and minimum amounts of liability
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Applicable rate where non-resident parent party to other maintenance arrangement
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Shared care
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Weekly income
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Maintenance calculations: transfer of cases to new rules
+  - Power to require a decision about whether to stay in the statutory scheme
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Effect on accrual of liability of exercise of power under paragraph 1
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Additional powers
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Interpretation
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6
+  - Powers in relation to use of information
+    - [Sch. 6 para. 1 ................................](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2 ................................](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3 ................................](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4 ................................](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5 ................................](schedule/6/paragraph/5.md)
+  - Interpretation
+    - [Sch. 6 para. 6 ................................](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Social Security Act 1998 (c. 14)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Tax Credits Act 2002 (c. 21)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Repeals
