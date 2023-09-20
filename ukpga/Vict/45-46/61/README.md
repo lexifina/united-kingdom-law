@@ -1,0 +1,141 @@
+# Bills of Exchange Act 1882
+
+1882 c. 61. Enacted 1882-08-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-09-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/45-46/61/2023-09-20
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 Interpretation of terms.](section/2.md)
+- Part II Bills of Exchange
+  - Form and Interpretation
+    - [s. 3 Bill of exchange defined.](section/3.md)
+    - [s. 4 Inland and foreign bills.](section/4.md)
+    - [s. 5 Effect where different parties to bill are the same person.](section/5.md)
+    - [s. 6 Address to drawee.](section/6.md)
+    - [s. 7 Certainty required as to payee.](section/7.md)
+    - [s. 8 What bills are negotiable.](section/8.md)
+    - [s. 9 Sum payable.](section/9.md)
+    - [s. 10 Bill payable on demand.](section/10.md)
+    - [s. 11 Bill payable at a future time.](section/11.md)
+    - [s. 12 Omission of date in bill payable after date.](section/12.md)
+    - [s. 13 Ante-dating and post-dating.](section/13.md)
+    - [s. 14 Computation of time of payment.](section/14.md)
+    - [s. 15 Case of need.](section/15.md)
+    - [s. 16 Optional stipulations by drawer or indorser.](section/16.md)
+    - [s. 17 Definition and requisites of acceptance.](section/17.md)
+    - [s. 18 Time for acceptance.](section/18.md)
+    - [s. 19 General and qualified acceptances.](section/19.md)
+    - [s. 20 Inchoate instruments.](section/20.md)
+    - [s. 21 Delivery.](section/21.md)
+  - Capacity and Authority of Parties
+    - [s. 22 Capacity of parties.](section/22.md)
+    - [s. 23 Signature essential to liability.](section/23.md)
+    - [s. 24 Forged or unauthorised signature.](section/24.md)
+    - [s. 25 Procuration signatures.](section/25.md)
+    - [s. 26 Person signing as agent or in representative capacity.](section/26.md)
+  - The Consideration for a Bill
+    - [s. 27 Value and holder for value.](section/27.md)
+    - [s. 28 Accommodation bill or party.](section/28.md)
+    - [s. 29 Holder in due course.](section/29.md)
+    - [s. 30 Presumption of value and good faith.](section/30.md)
+  - Negotiation of Bills
+    - [s. 31 Negotiation of bill.](section/31.md)
+    - [s. 32 Requisites of a valid indorsement.](section/32.md)
+    - [s. 33 Conditional indorsement.](section/33.md)
+    - [s. 34 Indorsement in blank and special indorsement.](section/34.md)
+    - [s. 35 Restrictive indorsement.](section/35.md)
+    - [s. 36 Negotiation of overdue or dishonoured bill.](section/36.md)
+    - [s. 37 Negotiation of bill to party already liable thereon.](section/37.md)
+    - [s. 38 Rights of the holder.](section/38.md)
+  - General Duties of the Holder
+    - [s. 39 When presentment for acceptance is necessary.](section/39.md)
+    - [s. 40 Time for presenting bill payable after sight.](section/40.md)
+    - [s. 41 Rules as to presentment for acceptance, and excuses for non-presentment.](section/41.md)
+    - [s. 42 Non-acceptance.](section/42.md)
+    - [s. 43 Dishonour by non-acceptance and its consequences.](section/43.md)
+    - [s. 44 Duties as to qualified acceptances.](section/44.md)
+    - [s. 45 Rules as to presentment for payment.](section/45.md)
+    - [s. 46 Excuses for delay or non-presentment for payment.](section/46.md)
+    - [s. 47 Dishonour by non-payment.](section/47.md)
+    - [s. 48 Notice of dishonour and effect of non-notice.](section/48.md)
+    - [s. 49 Rules as to notice of dishonour.](section/49.md)
+    - [s. 50 Excuses for non-notice and delay.](section/50.md)
+    - [s. 51 Noting or protest of bill.](section/51.md)
+    - [s. 52 Duties of holder as regards drawee or acceptor.](section/52.md)
+  - Liabilities of Parties
+    - [s. 53 Funds in hands of drawee.](section/53.md)
+    - [s. 54 Liability of acceptor.](section/54.md)
+    - [s. 55 Liability of drawer or indorser.](section/55.md)
+    - [s. 56 Stranger signing bill liable as indorser.](section/56.md)
+    - [s. 57 Measure of damages against parties to dishonoured bill.](section/57.md)
+    - [s. 58 Transferor by delivery and transferee.](section/58.md)
+  - Discharge of Bill
+    - [s. 59 Payment in due course.](section/59.md)
+    - [s. 60 Banker paying demand draft whereon indorsement is forged.](section/60.md)
+    - [s. 61 Acceptor the holder at maturity.](section/61.md)
+    - [s. 62 Express waiver.](section/62.md)
+    - [s. 63 Cancellation.](section/63.md)
+    - [s. 64 Alteration of bill.](section/64.md)
+  - Acceptance and Payment for Honour
+    - [s. 65 Acceptance for honour supra protest.](section/65.md)
+    - [s. 66 Liability of acceptor for honour.](section/66.md)
+    - [s. 67 Presentment to acceptor for honour.](section/67.md)
+    - [s. 68 Payment for honour supra protest.](section/68.md)
+  - Lost Instruments
+    - [s. 69 Holder’s right to duplicate of lost bill.](section/69.md)
+    - [s. 70 Action on lost bill.](section/70.md)
+  - Bill in a Set
+    - [s. 71 Rules as to sets.](section/71.md)
+  - Conflict of Laws
+    - [s. 72 Rules where laws conflict.](section/72.md)
+- Part III Cheques on a Banker
+  - [s. 73 Cheque defined.](section/73.md)
+  - [s. 74 Presentment of cheque for payment.](section/74.md)
+  - [s. 74A Presentment of cheque for payment: alternative place of presentment.](section/74A.md)
+  - [s. 74B Presentment of cheque for payment: alternative means of presentment by banker](section/74B.md)
+  - [s. 74C Cheques presented for payment under section 74B: disapplication of section 52(4).](section/74C.md)
+  - [s. 75 Revocation of banker’s authority.](section/75.md)
+  - [s. 75A](section/75A.md)
+  - Crossed Cheques
+    - [s. 76 General and special crossings defined.](section/76.md)
+    - [s. 77 Crossing by drawer or after issue.](section/77.md)
+    - [s. 78 Crossing a material part of cheque.](section/78.md)
+    - [s. 79 Duties of banker as to crossed cheques.](section/79.md)
+    - [s. 80 Protection to banker and drawer where cheque is crossed.](section/80.md)
+    - [s. 81 Effect of crossing on holder.](section/81.md)
+    - [s. 81A Non-transferable cheques.](section/81A.md)
+    - [s. 82 ................................](section/82.md)
+- Part IV Promissory Notes
+  - [s. 83 Promissory note defined.](section/83.md)
+  - [s. 84 Delivery necessary.](section/84.md)
+  - [s. 85 Joint and several notes.](section/85.md)
+  - [s. 86 Note payable on demand.](section/86.md)
+  - [s. 87 Presentment of note for payment.](section/87.md)
+  - [s. 88 Liability of maker.](section/88.md)
+  - [s. 89 Application of Part II to notes.](section/89.md)
+- PART 4A Presentment of cheques and other instruments by electronic means
+  - [s. 89A Presentment of instruments by electronic means](section/89A.md)
+  - [s. 89B Instruments to which section 89A applies](section/89B.md)
+  - [s. 89C Banker’s obligation in relation to accepting physical instrument for presentment](section/89C.md)
+  - [s. 89D Copies of instruments and evidence of payment](section/89D.md)
+  - [s. 89E Compensation in cases of presentment by electronic means](section/89E.md)
+  - [s. 89F Supplementary](section/89F.md)
+- Part V Supplementary
+  - [s. 90 Good faith.](section/90.md)
+  - [s. 91 Signature.](section/91.md)
+  - [s. 92 Computation of time.](section/92.md)
+  - [s. 93 When noting equivalent to protest.](section/93.md)
+  - [s. 94 Protest when notary not accessible.](section/94.md)
+  - [s. 95 Dividend warrants may be crossed.](section/95.md)
+  - [s. 96 ................................](section/96.md)
+  - [s. 97 Savings.](section/97.md)
+  - [s. 98 Saving of summary diligence in Scotland.](section/98.md)
+  - [s. 99 Construction with other Acts, &c.](section/99.md)
+  - [s. 100 Parole evidence allowed in certain judicial proceedings in Scotland.](section/100.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
