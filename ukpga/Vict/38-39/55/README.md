@@ -1,0 +1,197 @@
+# Public Health Act 1875
+
+1875 c. 55. Enacted 1875-08-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/38-39/55/2023-10-01
+
+## Contents
+
+- Part I
+  - Preliminary
+    - [s. 1 Short title.](section/1.md)
+    - [s. 2 Extent of Act.](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 Definitions.](section/4.md)
+- Part II
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 12 ................................](section/12.md)
+- Part III
+  - SANITARY PROVISIONS
+    - [s. 13 ................................](section/13.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+  - Water Supply
+    - [s. 51 ................................](section/51.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 ................................](section/67.md)
+    - Provisions for Protection of Water
+      - [s. 68 Penalty for causing water to be corrupted by gas washings.](section/68.md)
+      - [s. 69 ................................](section/69.md)
+      - [s. 70 ................................](section/70.md)
+      - [s. 116 ................................](section/116.md)
+      - [s. 120 ................................](section/120.md)
+- Part IV LOCAL GOVERNMENT PROVISIONS
+  - Highways and Streets
+    - [s. 144 ................................](section/144.md)
+    - [s. 145 ................................](section/145.md)
+    - [s. 146 ................................](section/146.md)
+    - [s. 148 ................................](section/148.md)
+    - Regulation of Streets and Buildings
+      - [s. 149 ................................](section/149.md)
+      - [s. 153 Power to require gas and water pipes to be moved.](section/153.md)
+      - [s. 154 ................................](section/154.md)
+      - [s. 156 ................................](section/156.md)
+      - [s. 157 ................................](section/157.md)
+      - [s. 159 ................................](section/159.md)
+      - [s. 160 Incorporation of certain provisions of 10 & 11 Vict. c. 34.](section/160.md)
+    - Lighting Streets, &c.
+      - [s. 161 Powers of urban authority for lighting their district.](section/161.md)
+      - [s. 162 ................................](section/162.md)
+      - [s. 163 ................................](section/163.md)
+  - Public Pleasure Grounds, &c.
+    - [s. 164 Local authority may provide places of public recreation.](section/164.md)
+    - [s. 165 Urban authority may provide public clocks.](section/165.md)
+    - [s. 166 ................................](section/166.md)
+  - Police Regulations
+    - [s. 171 Incorporation of certain provisions of 10 & 11 Vict. c. 89.](section/171.md)
+    - [s. 172 ................................](section/172.md)
+- Part V GENERAL PROVISIONS
+  - [s. 173 ................................](section/173.md)
+  - [s. 175 ................................](section/175.md)
+  - Arbitration
+    - [s. 179 ................................](section/179.md)
+    - [s. 180 ................................](section/180.md)
+    - [s. 181 ................................](section/181.md)
+  - Byelaws
+    - [s. 182 ................................](section/182.md)
+    - [s. 183 Power to impose penalties on breach of byelaws.](section/183.md)
+    - [s. 184 Confirmation of byelaws.](section/184.md)
+    - [s. 185 ................................](section/185.md)
+    - [s. 188 As to regulations of local authority.](section/188.md)
+    - [s. 189 ................................](section/189.md)
+    - [s. 201 ................................](section/201.md)
+    - [s. 202 ................................](section/202.md)
+    - [s. 204 ................................](section/204.md)
+    - [s. 205 ................................](section/205.md)
+    - [s. 206 ................................](section/206.md)
+- Part VI RATING AND BORROWING POWERS, &c.
+  - Expenses of Urban Authority and Urban Rates
+    - General Provisions as to Urban Rates
+      - [s. 207 ................................](section/207.md)
+      - [s. 211 ................................](section/211.md)
+      - [s. 212 ................................](section/212.md)
+      - [s. 213 ................................](section/213.md)
+      - [s. 216 ................................](section/216.md)
+      - [s. 218 ................................](section/218.md)
+      - [s. 224 ................................](section/224.md)
+      - [s. 225 ................................](section/225.md)
+      - [s. 227 ................................](section/227.md)
+      - [s. 228 ................................](section/228.md)
+      - [s. 229 ................................](section/229.md)
+      - [s. 230 ................................](section/230.md)
+      - [s. 232 ................................](section/232.md)
+      - [s. 233 ................................](section/233.md)
+      - [s. 234 ................................](section/234.md)
+      - [s. 235 ................................](section/235.md)
+      - [s. 236 ................................](section/236.md)
+      - [s. 240 ................................](section/240.md)
+      - [s. 242 ................................](section/242.md)
+      - [s. 244 ................................](section/244.md)
+      - [s. 245 ................................](section/245.md)
+      - [s. 248 ................................](section/248.md)
+      - [s. 249 ................................](section/249.md)
+- Part VII LEGAL PROCEEDINGS
+  - Prosecution of Offences and Recovery of Penalties, &c.
+    - [s. 251 Summary proceedings for offences, penalties, &c.](section/251.md)
+    - [s. 252 ................................](section/252.md)
+    - [s. 253 ................................](section/253.md)
+    - [s. 254 ................................](section/254.md)
+    - [s. 255 ................................](section/255.md)
+    - [s. 256 ................................](section/256.md)
+    - [s. 258 Justices may act though members of local authority or liable to contribute.](section/258.md)
+    - [s. 259 ................................](section/259.md)
+    - [s. 261 ................................](section/261.md)
+    - [s. 262 ................................](section/262.md)
+    - [s. 263 ................................](section/263.md)
+    - [s. 264 ................................](section/264.md)
+    - [s. 265 Protection of local authority and their officers from personal liability.](section/265.md)
+  - Notices
+    - [s. 266 Notices, &c. may be printed or written.](section/266.md)
+    - [s. 267 Service of notices.](section/267.md)
+    - [s. 268 ................................](section/268.md)
+  - Appeal
+    - [s. 269 ................................](section/269.md)
+- Part VIII ALTERATION OF AREAS AND UNION OF DISTRICTS
+  - [s. 270 ................................](section/270.md)
+  - [s. 271 ................................](section/271.md)
+  - [s. 275 ................................](section/275.md)
+  - [s. 276 ................................](section/276.md)
+  - [s. 277 ................................](section/277.md)
+  - [s. 278 ................................](section/278.md)
+  - Union of Districts
+    - [s. 279 ................................](section/279.md)
+    - [s. 285 Power to execute works in adjoining districts, and to combine for execution of works.](section/285.md)
+    - [s. 286 ................................](section/286.md)
+    - [s. 287 ................................](section/287.md)
+    - [s. 291 ................................](section/291.md)
+    - [s. 292 ................................](section/292.md)
+- Part IX LOCAL GOVERNMENT BOARD
+  - Inquiries by Board
+    - [s. 293 ................................](section/293.md)
+    - [s. 295 ................................](section/295.md)
+    - [s. 296 ................................](section/296.md)
+  - Provisional Orders by Board
+    - [s. 297 As to provisional orders made by Local Government Board.](section/297.md)
+    - [s. 298 Costs of provisional orders.](section/298.md)
+    - [s. 299 ................................](section/299.md)
+  - Powers of Board in relation to Local Acts, &c.
+    - [s. 303 Power to repeal and alter local Acts.](section/303.md)
+    - [s. 304 ................................](section/304.md)
+- Part X MISCELLANEOUS AND TEMPORARY PROVISIONS
+  - Miscellaneous
+    - [s. 305 Entry on lands for purposes of Act.](section/305.md)
+    - [s. 306 Penalty on obstructing execution of Act.](section/306.md)
+    - [s. 307 ................................](section/307.md)
+    - [s. 308 Compensation in case of damage by local authority.](section/308.md)
+    - [s. 309 ................................](section/309.md)
+    - [s. 310 ................................](section/310.md)
+    - [s. 312 ................................](section/312.md)
+    - [s. 313 ................................](section/313.md)
+    - [s. 314 ................................](section/314.md)
+    - [s. 316 As to construction of incorporated Acts.](section/316.md)
+    - [s. 317 ................................](section/317.md)
+    - [s. 318 ................................](section/318.md)
+    - [s. 319 ................................](section/319.md)
+    - [s. 321 ................................](section/321.md)
+    - [s. 322 ................................](section/322.md)
+    - [s. 323 ................................](section/323.md)
+    - [s. 324 ................................](section/324.md)
+- Part XI SAVING CLAUSES AND REPEAL OF ACTS
+  - Saving Clauses
+    - [s. 326 ................................](section/326.md)
+    - [s. 327 Saving for works and property of certain authorities, and for navigation and water rights, &c.](section/327.md)
+    - [s. 328 Reference to arbitration in case of works not within preceding section.](section/328.md)
+    - [s. 329 Effect of arbitration.](section/329.md)
+    - [s. 330 ................................](section/330.md)
+    - [s. 338 ................................](section/338.md)
+    - [s. 339 ................................](section/339.md)
+    - [s. 340 ................................](section/340.md)
+    - [s. 341 Powers of Act to be cumulative.](section/341.md)
+    - [s. 342 ................................](section/342.md)
+  - Repeal of Acts
+    - [s. 343 Repeal of Acts in schedule V.](section/343.md)
+- SCHEDULE I
+- SCHEDULE II
+- SCHEDULE III
+- SCHEDULE IV................................
+- SCHEDULE V
+  - Part I
+  - Part II
+  - Part III
+    - 11 & 12 Vict. c. 63. s. 83.
+    - 24 & 25 Vict. c. 61, s. 21.
