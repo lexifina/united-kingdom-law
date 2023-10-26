@@ -2,9 +2,9 @@
 
 2018 c. 13. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/13/2023-06-29
+Source: https://www.legislation.gov.uk/ukpga/2018/13/2023-10-26
 
 ## Contents
 
@@ -15,6 +15,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2023-06-29
       - [s. 2 Additional requirements for regulations for a purpose within section 1(2)](section/2.md)
     - Types of sanction
       - [s. 3 Financial sanctions](section/3.md)
+      - [s. 3A Director disqualification sanctions](section/3A.md)
       - [s. 4 Immigration sanctions](section/4.md)
       - [s. 5 Trade sanctions](section/5.md)
       - [s. 6 Aircraft sanctions](section/6.md)
@@ -32,6 +33,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/13/2023-06-29
       - [s. 15 Exceptions and licences](section/15.md)
       - [s. 16 Information](section/16.md)
       - [s. 17 Enforcement](section/17.md)
+      - [s. 17A Enforcement: monetary penalties](section/17A.md)
       - [s. 18 Report in respect of offences in regulations](section/18.md)
       - [s. 19 Enforcement: goods etc on ships](section/19.md)
       - [s. 20 Goods etc on ships: non-UK conduct](section/20.md)
