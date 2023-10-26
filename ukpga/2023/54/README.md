@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2023-10-26
 
 ## Contents
 
@@ -115,13 +115,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - [s. 81 Conflicts of interest: duty to identify](section/81.md)
   - [s. 82 Conflicts of interest: duty to mitigate](section/82.md)
   - [s. 83 Conflicts assessments](section/83.md)
-- Part 5A Outsourcing: protection of workers
-  - [s. 83A Application of this Part](section/83A.md)
-  - [s. 83B Relevant outsourcing contracts](section/83B.md)
-  - [s. 83C Power to specify provision for inclusion in relevant outsourcing contracts](section/83C.md)
-  - [s. 83D Code of practice on relevant outsourcing contracts](section/83D.md)
-  - [s. 83E Interpretation of this Part](section/83E.md)
-  - [s. 83F Power of Scottish Ministers to amend this Part](section/83F.md)
 - PART 6 Below-threshold contracts
   - [s. 84 Regulated below-threshold contracts](section/84.md)
   - [s. 85 Regulated below-threshold contracts: procedure](section/85.md)
@@ -160,7 +153,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - [s. 113 Minister of the Crown: restrictions on the exercise of powers](section/113.md)
   - [s. 114 Definitions relating to procurement arrangements](section/114.md)
   - [s. 115 Powers relating to procurement arrangements](section/115.md)
-  - [s. 115A Application of this Act where a devolved Scottish authority carries out procurement under a reserved procurement arrangement etc.](section/115A.md)
 - PART 12 Amendments and repeals
   - [s. 116 Disapplication of duty in section 17 of the Local Government Act 1988](section/116.md)
   - [s. 117 Single source defence contracts](section/117.md)
@@ -168,7 +160,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - [s. 119 Repeals etc](section/119.md)
 - PART 13 General
   - [s. 120 Power to disapply this Act in relation to procurement by NHS in England](section/120.md)
-  - [s. 120A Power to disapply this Act in relation to procurement by NHS in Wales](section/120A.md)
   - [s. 121 Power to amend this Act in relation to private utilities](section/121.md)
   - [s. 122 Regulations](section/122.md)
   - [s. 123 Interpretation](section/123.md)
@@ -187,7 +178,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - PART 1 Counterparty exempted contracts
     - [Sch. 2 para. 1 General](schedule/2/paragraph/1.md)
     - [Sch. 2 para. 2 Vertical arrangements](schedule/2/paragraph/2.md)
-    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
     - [Sch. 2 para. 3 Horizontal arrangements](schedule/2/paragraph/3.md)
     - [Sch. 2 para. 4 Defence and security contracts](schedule/2/paragraph/4.md)
     - [Sch. 2 para. 5 Utilities contracts](schedule/2/paragraph/5.md)
@@ -299,7 +289,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
     - [Sch. 6 para. 23 Labour market, slavery and human trafficking offences](schedule/6/paragraph/23.md)
     - [Sch. 6 para. 24 Labour market, slavery and human trafficking offences](schedule/6/paragraph/24.md)
     - [Sch. 6 para. 25 Labour market, slavery and human trafficking offences](schedule/6/paragraph/25.md)
-    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 26 Labour market, slavery and human trafficking offences](schedule/6/paragraph/26.md)
     - [Sch. 6 para. 27 Organised crime](schedule/6/paragraph/27.md)
     - [Sch. 6 para. 28 Organised crime](schedule/6/paragraph/28.md)
     - [Sch. 6 para. 29 Tax offences](schedule/6/paragraph/29.md)
@@ -352,10 +342,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - [Sch. 8 para. 10 Defence authority contracts](schedule/8/paragraph/10.md)
   - [Sch. 8 para. 11 Defence authority contracts](schedule/8/paragraph/11.md)
 - SCHEDULE 9 Treaty state suppliers (specified international agreements)
-  - [Sch. 9 para. A1 ...](schedule/9/paragraph/A1.md)
-  - [Sch. 9 para. B1 ...](schedule/9/paragraph/B1.md)
-  - [Sch. 9 para. C1 ...](schedule/9/paragraph/C1.md)
-  - [Sch. 9 para. 1 ... ...](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
   - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
   - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
   - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
@@ -380,10 +367,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
   - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
   - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
-  - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
-  - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
-  - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
-- Schedule 9A Procurement by devolved Scottish authorities
 - SCHEDULE 10 Single source defence contracts
   - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
   - [Sch. 10 para. 2 Definition of qualifying defence contract](schedule/10/paragraph/2.md)
@@ -403,7 +386,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-07-16
   - [Sch. 10 para. 16 Qualifying sub-contracts](schedule/10/paragraph/16.md)
   - [Sch. 10 para. 17 Qualifying sub-contracts](schedule/10/paragraph/17.md)
   - [Sch. 10 para. 18 Powers of the Single Source Regulations Office (“SSRO”)](schedule/10/paragraph/18.md)
-  - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 19 Powers of the Single Source Regulations Office (“SSRO”)](schedule/10/paragraph/19.md)
   - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
 - SCHEDULE 11 Repeals and revocations
   - [Sch. 11 para. 1 Primary legislation](schedule/11/paragraph/1.md)
