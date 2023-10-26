@@ -2,9 +2,9 @@
 
 2010 c. 23. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/23` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/23/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2010/23/2023-10-26
 
 ## Contents
 
@@ -37,7 +37,6 @@ Source: https://www.legislation.gov.uk/ukpga/2010/23/2023-02-07
 - SCHEDULE 1 Consequential amendments
   - Ministry of Defence Police Act 1987 (c. 4)
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-  - Criminal Justice Act 1987 (c. 38)
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
   - International Criminal Court Act 2001 (c. 17)
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
