@@ -2,11 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
-
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2023-10-26
 
 ## Contents
 
@@ -40,7 +38,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
       - [s. 19 Duties to protect journalistic content](section/19.md)
     - Duties about content reporting and complaints procedures
       - [s. 20 Duty about content reporting](section/20.md)
-      - [s. 20A Reporting of intimate image content](section/20A.md)
       - [s. 21 Duties about complaints procedures](section/21.md)
     - Cross-cutting duties
       - [s. 22 Duties about freedom of expression and privacy](section/22.md)
@@ -58,7 +55,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
       - [s. 30 Safety duties protecting children: interpretation](section/30.md)
     - Duties about content reporting and complaints procedures
       - [s. 31 Duty about content reporting](section/31.md)
-      - [s. 31A Reporting of intimate image content](section/31A.md)
       - [s. 32 Duties about complaints procedures](section/32.md)
     - Cross-cutting duties
       - [s. 33 Duties about freedom of expression and privacy](section/33.md)
@@ -217,7 +213,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
     - [s. 152 Advisory committee on disinformation and misinformation](section/152.md)
     - [s. 153 Functions of the Content Board](section/153.md)
     - [s. 154 Research about users’ experiences of regulated services](section/154.md)
-    - [s. 154A Information for research about online safety matters](section/154A.md)
     - [s. 155 Consumer consultation](section/155.md)
     - [s. 156 OFCOM’s statement about freedom of expression and privacy](section/156.md)
     - [s. 157 OFCOM’s reports about use of age assurance](section/157.md)
@@ -305,17 +300,11 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
     - [s. 212 Repeals: Digital Economy Act 2017](section/212.md)
     - [s. 213 Offence under the Obscene Publications Act 1959: OFCOM defence](section/213.md)
     - [s. 214 Offences regarding indecent photographs of children: OFCOM defence](section/214.md)
-  - Power to require providers of internet services to prevent or restrict access by children to internet services
-    - [s. 214A Power to require providers of internet services to prevent or restrict access by children to internet services](section/214A.md)
   - Power to amend Act to regulate app stores
     - [s. 215 Power to regulate app stores](section/215.md)
     - [s. 216 Power to regulate app stores: supplementary](section/216.md)
-  - Power to amend Act: illegal AI-generated content etc
-    - [s. 216A Power to amend Act in relation to illegal AI-generated content etc](section/216A.md)
   - Power to amend Act: alternative dispute resolution
     - [s. 217 Power to impose duty about alternative dispute resolution procedure](section/217.md)
-  - Power to amend Act: pornographic content
-    - [s. 217A Power to impose duties about pornographic content](section/217A.md)
   - Other powers to amend Act
     - [s. 218 Power to amend section 40](section/218.md)
     - [s. 219 Powers to amend sections 61 and 62](section/219.md)
@@ -417,29 +406,29 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
     - [Sch. 3 para. 6 Section 15(2) assessments](schedule/3/paragraph/6.md)
   - PART 3 Pre-existing Part 4B services
     - [Sch. 3 para. 7 Interpretation of this Part](schedule/3/paragraph/7.md)
-    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
-    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
-    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 8 Interpretation of this Part](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Interpretation of this Part](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Interpretation of this Part](schedule/3/paragraph/10.md)
   - Pre-existing Part 4B services which are regulated user-to-user services
     - [Sch. 3 para. 11 Application of paragraphs 12 to 14](schedule/3/paragraph/11.md)
     - [Sch. 3 para. 12 Illegal content risk assessments and children’s access assessments](schedule/3/paragraph/12.md)
-    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 13 Illegal content risk assessments and children’s access assessments](schedule/3/paragraph/13.md)
     - [Sch. 3 para. 14 Section 15(2) assessments](schedule/3/paragraph/14.md)
   - Regulated user-to-user services which include a pre-existing Part 4B service
     - [Sch. 3 para. 15 Application of paragraphs 16 to 20](schedule/3/paragraph/15.md)
     - [Sch. 3 para. 16 Illegal content risk assessments and children’s access assessments of Part 4B part](schedule/3/paragraph/16.md)
-    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 17 Illegal content risk assessments and children’s access assessments of Part 4B part](schedule/3/paragraph/17.md)
     - [Sch. 3 para. 18 Section 15(2) assessments of Part 4B part](schedule/3/paragraph/18.md)
     - [Sch. 3 para. 19 Application of Part 1 and paragraph 6](schedule/3/paragraph/19.md)
     - [Sch. 3 para. 20 Application of paragraph 5](schedule/3/paragraph/20.md)
   - PART 4 Interpretation, and extension of three-month periods
     - [Sch. 3 para. 21 Interpretation of this Schedule](schedule/3/paragraph/21.md)
-    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
-    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
-    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
-    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
-    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
-    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 22 Interpretation of this Schedule](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23 Interpretation of this Schedule](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24 Interpretation of this Schedule](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25 Interpretation of this Schedule](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26 Interpretation of this Schedule](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27 Interpretation of this Schedule](schedule/3/paragraph/27.md)
     - [Sch. 3 para. 28 Extension of three-month periods](schedule/3/paragraph/28.md)
 - SCHEDULE 4 Codes of practice under section 41: principles, objectives, content
   - [Sch. 4 para. 1 General principles](schedule/4/paragraph/1.md)
@@ -482,7 +471,6 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
 - SCHEDULE 7 Priority offences
   - [Sch. 7 para. 1 Assisting suicide](schedule/7/paragraph/1.md)
   - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
-  - [Sch. 7 para. 2A Encouraging or assisting serious self-harm](schedule/7/paragraph/2A.md)
   - [Sch. 7 para. 3 Threats to kill](schedule/7/paragraph/3.md)
   - [Sch. 7 para. 4 Public order offences, harassment, stalking and fear or provocation of violence](schedule/7/paragraph/4.md)
   - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
@@ -509,8 +497,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
   - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
   - [Sch. 7 para. 27 Sexual exploitation](schedule/7/paragraph/27.md)
   - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
-  - [Sch. 7 para. 28A](schedule/7/paragraph/28A.md)
-  - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - [Sch. 7 para. 29 Sexual images](schedule/7/paragraph/29.md)
   - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
   - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
   - [Sch. 7 para. 32 Proceeds of crime](schedule/7/paragraph/32.md)
@@ -572,8 +559,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
   - [Sch. 9 para. 2 Internal business services (part of internet service)](schedule/9/paragraph/2.md)
   - [Sch. 9 para. 3 Services provided by public bodies](schedule/9/paragraph/3.md)
   - [Sch. 9 para. 4 Services provided by persons providing education or childcare](schedule/9/paragraph/4.md)
-  - [Sch. 9 para. 5 On-demand programme services and non-UK on-demand programme services that are Tier 1 services (entire internet service)](schedule/9/paragraph/5.md)
-  - [Sch. 9 para. 6 On-demand programme services and non-UK on-demand programme services that are Tier 1 services (part of internet service)](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 5 On-demand programme services (entire internet service)](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 On-demand programme services (part of internet service)](schedule/9/paragraph/6.md)
   - [Sch. 9 para. 7 Interpretation](schedule/9/paragraph/7.md)
 - SCHEDULE 10 Recovery of OFCOM’s initial costs
   - [Sch. 10 para. 1 Recovery of initial costs](schedule/10/paragraph/1.md)
@@ -602,21 +589,21 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
   - [Sch. 12 para. 7 Powers exercisable by warrant](schedule/12/paragraph/7.md)
   - [Sch. 12 para. 8 Powers of seizure: supplementary](schedule/12/paragraph/8.md)
   - [Sch. 12 para. 9 Further provision about executing warrants](schedule/12/paragraph/9.md)
-  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
-  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
-  - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
-  - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
-  - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
-  - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - [Sch. 12 para. 10 Further provision about executing warrants](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11 Further provision about executing warrants](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12 Further provision about executing warrants](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13 Further provision about executing warrants](schedule/12/paragraph/13.md)
+  - [Sch. 12 para. 14 Further provision about executing warrants](schedule/12/paragraph/14.md)
+  - [Sch. 12 para. 15 Further provision about executing warrants](schedule/12/paragraph/15.md)
   - [Sch. 12 para. 16 Return of warrants](schedule/12/paragraph/16.md)
   - [Sch. 12 para. 17 Restrictions on powers](schedule/12/paragraph/17.md)
   - [Sch. 12 para. 18 Offences](schedule/12/paragraph/18.md)
   - [Sch. 12 para. 19 Interpretation](schedule/12/paragraph/19.md)
-  - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
-  - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
-  - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
-  - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
-  - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+  - [Sch. 12 para. 20 Interpretation](schedule/12/paragraph/20.md)
+  - [Sch. 12 para. 21 Interpretation](schedule/12/paragraph/21.md)
+  - [Sch. 12 para. 22 Interpretation](schedule/12/paragraph/22.md)
+  - [Sch. 12 para. 23 Interpretation](schedule/12/paragraph/23.md)
+  - [Sch. 12 para. 24 Interpretation](schedule/12/paragraph/24.md)
 - SCHEDULE 13 Penalties imposed by OFCOM under Chapter 6 of Part 7
   - [Sch. 13 para. 1 Meaning of “penalty” in this Schedule](schedule/13/paragraph/1.md)
   - [Sch. 13 para. 2 Amount of penalties: principles](schedule/13/paragraph/2.md)
@@ -628,7 +615,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-09-30
   - PART 1 Amendments consequential on offences in sections 179, 181 and 183
     - [Sch. 14 para. 1 Football Spectators Act 1989](schedule/14/paragraph/1.md)
     - [Sch. 14 para. 2 Sexual Offences Act 2003](schedule/14/paragraph/2.md)
-    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 3 Sexual Offences Act 2003](schedule/14/paragraph/3.md)
     - [Sch. 14 para. 4 Regulatory Enforcement and Sanctions Act 2008](schedule/14/paragraph/4.md)
     - [Sch. 14 para. 5 Elections Act 2022](schedule/14/paragraph/5.md)
   - PART 2 Amendments consequential on offence in section 184
