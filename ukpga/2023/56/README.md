@@ -2,9 +2,9 @@
 
 2023 c. 56. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/56/2026-06-29
+Source: https://www.legislation.gov.uk/ukpga/2023/56/2023-10-26
 
 ## Contents
 
@@ -259,7 +259,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/56/2026-06-29
   - Power to strike out certain claims
     - [s. 194 Strategic litigation against public participation: requirement to make rules of court](section/194.md)
     - [s. 195 Meaning of “SLAPP” claim](section/195.md)
-  - ...
+  - Attributing criminal liability for economic crimes to certain bodies
     - [s. 196 Attributing criminal liability for economic crimes to certain bodies](section/196.md)
     - [s. 197 Power to amend list of economic crimes](section/197.md)
     - [s. 198 Offences under section 196 committed by partnerships](section/198.md)
@@ -523,8 +523,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/56/2026-06-29
   - [Sch. 12 para. 20 Statutory offences](schedule/12/paragraph/20.md)
 - SCHEDULE 13 Failure to prevent fraud: fraud offences
   - [Sch. 13 para. 1 Common law offences](schedule/13/paragraph/1.md)
-  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 2 Common law offences](schedule/13/paragraph/2.md)
   - [Sch. 13 para. 3 Statutory offences](schedule/13/paragraph/3.md)
-  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
-  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
-  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 4 Statutory offences](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5 Statutory offences](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6 Statutory offences](schedule/13/paragraph/6.md)
