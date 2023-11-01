@@ -2,9 +2,9 @@
 
 2022 c. 37. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-10-31, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/37` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-01, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/37` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/37/2023-10-31
+Source: https://www.legislation.gov.uk/ukpga/2022/37/2023-11-01
 
 ## Contents
 
@@ -275,7 +275,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/37/2023-10-31
 - Schedule 9 Offences for purposes of Part 5
   - Part 1 Common law offences
     - [Sch. 9 para. 1 Offences under the law of England and Wales, Scotland and Northern Ireland](schedule/9/paragraph/1.md)
-    - [Sch. 9 para. 2 Offences under the law of England and Wales, Scotland and Northern Ireland](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
     - [Sch. 9 para. 3 Offences under the law of England and Wales and Northern Ireland](schedule/9/paragraph/3.md)
     - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
     - [Sch. 9 para. 5 Offences under the law of Scotland](schedule/9/paragraph/5.md)
