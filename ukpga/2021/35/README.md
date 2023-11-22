@@ -2,9 +2,9 @@
 
 2021 c. 35. Enacted 2021-12-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-11-13, one file per provision. Earlier versions, from 2021-12-15, are in the history before it: `git log -- ukpga/2021/35` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-22, one file per provision. Earlier versions, from 2021-12-15, are in the history before it: `git log -- ukpga/2021/35` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/35/2023-11-13
+Source: https://www.legislation.gov.uk/ukpga/2021/35/2023-11-22
 
 ## Contents
 
