@@ -1,0 +1,238 @@
+# Arbitration (Scotland) Act 2010
+
+asp/2010/1. Enacted 2010-01-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/1
+
+Source: https://www.legislation.gov.uk/asp/2010/1/2023-11-24
+
+## Contents
+
+- Introductory
+  - [s. 1 Founding principles](section/1.md)
+  - [s. 2 Key terms](section/2.md)
+  - [s. 3 Seat of arbitration](section/3.md)
+- Arbitration agreements
+  - [s. 4 Arbitration agreement](section/4.md)
+  - [s. 5 Separability](section/5.md)
+  - [s. 6 Law governing arbitration agreement](section/6.md)
+- Scottish Arbitration Rules
+  - [s. 7 Scottish Arbitration Rules](section/7.md)
+  - [s. 8 Mandatory rules](section/8.md)
+  - [s. 9 Default rules](section/9.md)
+- Suspension of legal proceedings
+  - [s. 10 Suspension of legal proceedings](section/10.md)
+- Enforcing and challenging arbitral awards etc.
+  - [s. 11 Arbitral award to be final and binding on parties](section/11.md)
+  - [s. 12 Enforcement of arbitral awards](section/12.md)
+  - [s. 13 Court intervention in arbitrations](section/13.md)
+  - [s. 14 Persons who take no part in arbitral proceedings](section/14.md)
+  - [s. 15 Anonymity in legal proceedings](section/15.md)
+- Statutory arbitration
+  - [s. 16 Statutory arbitration: special provisions](section/16.md)
+  - [s. 17 Power to adapt enactments providing for statutory arbitration](section/17.md)
+- Recognition and enforcement of New York Convention awards
+  - [s. 18 New York Convention awards](section/18.md)
+  - [s. 19 Recognition and enforcement of New York Convention awards](section/19.md)
+  - [s. 20 Refusal of recognition or enforcement](section/20.md)
+  - [s. 21 Evidence to be produced when seeking recognition or enforcement](section/21.md)
+  - [s. 22 Saving for other bases of recognition or enforcement](section/22.md)
+- Supplementary
+  - [s. 23 Prescription and limitation](section/23.md)
+  - [s. 24 Arbitral appointments referee](section/24.md)
+  - [s. 25 Power of judge to act as arbitrator or umpire](section/25.md)
+  - [s. 26 Amendments to UNCITRAL Model Law or Rules or New York Convention](section/26.md)
+  - [s. 27 Amendment of Conveyancing (Scotland) Act 1924 (c. 27)](section/27.md)
+  - [s. 28 Articles of Regulation 1695](section/28.md)
+  - [s. 29 Repeals](section/29.md)
+  - [s. 30 Arbitrability of disputes](section/30.md)
+- Final provisions
+  - [s. 31 Interpretation](section/31.md)
+  - [s. 32 Ancillary provision](section/32.md)
+  - [s. 33 Orders](section/33.md)
+  - [s. 34 Crown application](section/34.md)
+  - [s. 35 Commencement](section/35.md)
+  - [s. 36 Transitional provisions](section/36.md)
+  - [s. 37 Short title](section/37.md)
+- SCHEDULE 1 Scottish Arbitration Rules
+  - Part 1 Commencement and constitution of tribunal etc.
+    - Rule 1 Commencement of arbitration D
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Rule 2 Appointment of tribunal D
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Rule 3 Arbitrator to be an individual M
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Rule 4 Eligibility to act as arbitrator M
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Rule 5 Number of arbitrators D
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Rule 6 Method of appointment D
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Rule 7 Failure of appointment procedure M
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Rule 8 Duty to disclose any conflict of interests M
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Rule 9 Arbitrator’s tenure D
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Rule 10 Challenge to appointment of arbitrator D
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Rule 11 Removal of arbitrator by parties D
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Rule 12 Removal of arbitrator by court M
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Rule 13 Dismissal of tribunal by court M
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Rule 14 Removal and dismissal by court: supplementary M
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Rule 15 Resignation of arbitrator M
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Rule 16 Liability etc. of arbitrator when tenure ends M
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Rule 17 Reconstitution of tribunal D
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Rule 18 Arbitrators nominated in arbitration agreements D
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part 2 Jurisdiction of tribunal
+    - Rule 19 Power of tribunal to rule on own jurisdiction M
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Rule 20 Objections to tribunal’s jurisdiction M
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Rule 21 Appeal against tribunal’s ruling on jurisdictional objection M
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Rule 22 Referral of point of jurisdiction D
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Rule 23 Jurisdiction referral: procedure etc. M
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Part 3 General duties
+    - Rule 24 General duty of the tribunal M
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Rule 25 General duty of the parties M
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Rule 26 Confidentiality D
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Rule 27 Tribunal deliberations D
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Part 4 Arbitral proceedings
+    - Rule 28 Procedure and evidence D
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Rule 29 Place of arbitration D
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Rule 30 Tribunal decisions D
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Rule 31 Tribunal directions D
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Rule 32 Power to appoint clerk, agents or employees etc. D
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Rule 33 Party representatives D
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Rule 34 Experts D
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Rule 35 Powers relating to property D
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Rule 36 Oaths or affirmations D
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Rule 37 Failure to submit claim or defence timeously D
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Rule 38 Failure to attend hearing or provide evidence D
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - Rule 39 Failure to comply with tribunal direction or arbitration agreement D
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Rule 40 Consolidation of proceedings D
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - Part 5 Powers of court in relation to arbitral proceedings
+    - Rule 41 Referral of point of law D
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - Rule 42 Point of law referral: procedure etc. M
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - Rule 43 Variation of time limits set by parties D
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Rule 44 Time limit variation: procedure etc. M
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - Rule 45 Court’s power to order attendance of witnesses and disclosure of evidence M
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - Rule 46 Court’s other powers in relation to arbitration D
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+  - Part 6 Awards
+    - Rule 47 Rules applicable to the substance of the dispute D
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - Rule 48 Power to award payment and damages M
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - Rule 49 Other remedies available to tribunal D
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - Rule 50 Interest M
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - Rule 51 Form of award D
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - Rule 52 Award treated as made in Scotland D
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - Rule 53 Provisional awards D
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - Rule 54 Part awards M
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - Rule 55 Draft awards D
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - Rule 56 Power to withhold award on non-payment of fees or expenses M
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - Rule 57 Arbitration to end on last award or early settlement D
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+    - Rule 58 Correcting an award D
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+  - Part 7 Arbitration expenses
+    - Rule 59 Arbitration expenses D
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - Rule 60 Arbitrators’ fees and expenses M
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - Rule 61 Recoverable arbitration expenses D
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - Rule 62 Liability for recoverable arbitration expenses D
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - Rule 63 Ban on pre-dispute agreements about liability for arbitration expenses M
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+    - Rule 64 Security for expenses D
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+    - Rule 65 Limitation of recoverable arbitration expenses D
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - Rule 66 Awards on recoverable arbitration expenses D
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+  - Part 8 Challenging awards
+    - Rule 67 Challenging an award: substantive jurisdiction M
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+    - Rule 68 Challenging an award: serious irregularity M
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - Rule 69 Challenging an award: legal error D
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - Rule 70 Legal error appeals: procedure etc. M
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - Rule 71 Challenging an award: supplementary M
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+    - Rule 72 Reconsideration by tribunal M
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+  - Part 9 Miscellaneous
+    - Rule 73 Immunity of tribunal etc. M
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - Rule 74 Immunity of appointing arbitral institution etc. M
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - Rule 75 Immunity of experts, witnesses and legal representatives M
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - Rule 76 Loss of right to object M
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+    - Rule 77 Independence of arbitrator M
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+    - Rule 78 Consideration where arbitrator judged not to be impartial and independent D
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+    - Rule 79 Death of arbitrator M
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - Rule 80 Death of party D
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - Rule 81 Unfair treatment D
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - Rule 82 Rules applicable to umpires M
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+    - Rule 83 Formal communications D
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+    - Rule 84 Periods of time D
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+  - Index
+- SCHEDULE 2 Repeals
