@@ -2,9 +2,9 @@
 
 2020 c. 27. Enacted 2020-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-01-04, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-24, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/27/2023-01-04
+Source: https://www.legislation.gov.uk/ukpga/2020/27/2023-11-24
 
 ## Contents
 
@@ -109,8 +109,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/27/2023-01-04
   - Single-use plastic items
     - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
 - SCHEDULE 2 Services exclusions
-  - PART 1 Services to which section 19 (mutual recognition) does not apply
-  - PART 2 Services to which sections 20 and 21 (non-discrimination) do not apply
+  - PART1 SERVICES TO WHICH SECTION 19 (MUTUAL RECOGNITION) DOES NOT APPLY
+  - PART2 SERVICES TO WHICH SECTIONS 20 AND 21 (NON-DISCRIMINATION) DO NOT APPLY
   - PART 3 Authorisation requirements to which section 19 (mutual recognition) does not apply
   - PART 4 Regulatory requirements to which sections 20 and 21 (non-discrimination) do not apply
 - SCHEDULE 3 Constitution etc of Office for the Internal Market panel and task groups
