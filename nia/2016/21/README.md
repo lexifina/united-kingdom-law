@@ -1,0 +1,198 @@
+# Justice Act (Northern Ireland) 2016
+
+nia/2016/21. Enacted 2016-05-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2016/21
+
+Source: https://www.legislation.gov.uk/nia/2016/21/2023-11-27
+
+## Contents
+
+- PART 1 FINES AND OTHER PENALTIES: ENFORCEMENT
+  - CHAPTER 1 Collection of Fines etc.
+    - Introductory
+      - [s. 1 Application of Chapter](section/1.md)
+    - Collection officers and orders
+      - [s. 2 Collection officers](section/2.md)
+      - [s. 3 Collection order](section/3.md)
+      - [s. 4 Additional powers where collection order made](section/4.md)
+    - Default on payment
+      - [s. 5 Collection officer to contact debtor in default](section/5.md)
+      - [s. 6 Powers of collection officer in relation to debtor in default](section/6.md)
+      - [s. 7 Referral to the court: collection officer’s report etc.](section/7.md)
+      - [s. 8 Referral to the court in case where no collection order made](section/8.md)
+      - [s. 9 Powers of court on referral of debtor’s case](section/9.md)
+      - [s. 10 Power to issue arrest warrant where debtor fails to attend hearing](section/10.md)
+      - [s. 11 Arrest under warrant under section 10](section/11.md)
+      - [s. 12 Remand or committal under section 11](section/12.md)
+      - [s. 13 Costs relating to referral of debtor’s case](section/13.md)
+    - Deductions from benefits
+      - [s. 14 Application for deduction from benefits](section/14.md)
+      - [s. 15 Deduction from benefits: further provision in regulations](section/15.md)
+      - [s. 16 Enquiries into debtor’s means](section/16.md)
+      - [s. 17 Disclosure of information](section/17.md)
+    - Attachment of earnings
+      - [s. 18 Attachment of earnings order](section/18.md)
+      - [s. 19 Statement of earnings](section/19.md)
+    - Freezing bank accounts etc.
+      - [s. 20 Interim bank account order](section/20.md)
+      - [s. 21 Hardship payments](section/21.md)
+      - [s. 22 Bank account order](section/22.md)
+    - Seizure of vehicles
+      - [s. 23 Vehicle seizure order](section/23.md)
+    - Supplementary
+      - [s. 24 Offences](section/24.md)
+      - [s. 25 Appeals](section/25.md)
+      - [s. 26 Guidance](section/26.md)
+      - [s. 27 Interpretation etc.](section/27.md)
+      - [s. 28 Minor and consequential amendments](section/28.md)
+  - CHAPTER 2 Other enforcement procedures
+    - [s. 29 Supervised activity orders](section/29.md)
+    - [s. 30 Restriction on detention of children for default in paying fines, etc.](section/30.md)
+    - [s. 31 Distress in default](section/31.md)
+    - [s. 32 Limitations on remission](section/32.md)
+- PART 2 The Prison Ombudsman For Northern Ireland
+  - The Ombudsman
+    - [s. 33 The Prison Ombudsman for Northern Ireland](section/33.md)
+    - [s. 34 Main functions of Ombudsman](section/34.md)
+  - Complaints
+    - [s. 35 Complaints](section/35.md)
+    - [s. 36 Report of investigation of complaint](section/36.md)
+  - Deaths in custody
+    - [s. 37 Investigations into deaths in custody](section/37.md)
+    - [s. 38 Report on investigation into death](section/38.md)
+  - Investigations requested by Department
+    - [s. 39 Investigations requested by the Department](section/39.md)
+    - [s. 40 Report on investigation under section 39](section/40.md)
+  - Own-initiative investigations
+    - [s. 41 Own-initiative investigations](section/41.md)
+    - [s. 42 Report on investigation under section 41](section/42.md)
+  - Powers of Ombudsman
+    - [s. 43 Powers of Ombudsman](section/43.md)
+  - Supplementary
+    - [s. 44 Disclosure of information](section/44.md)
+    - [s. 45 Guidance to Ombudsman in relation to matters connected with national security](section/45.md)
+    - [s. 46 Interpretation](section/46.md)
+    - [s. 47 Transitional provision: the Prisoner Ombudsman for Northern Ireland](section/47.md)
+- PART 3 Miscellaneous
+  - Animal welfare
+    - [s. 48 Penalties for animal welfare offences](section/48.md)
+  - Lay visitors
+    - [s. 49 Lay visitors for all police stations](section/49.md)
+  - Pornographic or other sexual images
+    - [s. 50 Possession of pornographic images of rape and assault by penetration](section/50.md)
+    - [s. 51 Disclosing private sexual photographs and films with intent to cause distress](section/51.md)
+    - [s. 52 Meaning of “disclose” and “photograph or film”](section/52.md)
+    - [s. 53 Meaning of “private” and “sexual”](section/53.md)
+  - Assaulting ambulance workers etc
+    - [s. 54 Offence of assaulting ambulance workers etc](section/54.md)
+  - Early removal of prisoners
+    - [s. 55 Early removal from prison of prisoners liable to removal from United Kingdom](section/55.md)
+    - [s. 56 Re-entry into Northern Ireland of offender removed under section 55](section/56.md)
+  - Direct committal for trial
+    - [s. 57 Direct committal for trial: indictable offence triable summarily](section/57.md)
+  - Firearms
+    - [s. 58 Amendments of Firearms (Northern Ireland) Order 2004, etc.](section/58.md)
+  - Costs
+    - [s. 59 Costs of Accountant General in administering funds in court](section/59.md)
+- PART 4 General
+  - [s. 60 Regulations and orders](section/60.md)
+  - [s. 61 Commencement and short title](section/61.md)
+- SCHEDULE 1 ATTACHMENT OF EARNINGS ORDERS
+  - Service of order
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Compliance with order
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Power to determine whether payments are earnings
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Administrative costs of employer
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Change of circumstances
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Variation of order
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Discharge of order
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Prioritisation of orders
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Crown employment
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Regulations
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 COLLECTION ORDERS: MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Criminal Justice Act (Northern Ireland) 1945
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Mines Act (Northern Ireland) 1969
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Road Traffic Offenders (Northern Ireland) Order 1996
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Criminal Justice and Immigration Act 2008
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Justice Act (Northern Ireland) 2011
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Justice Act (Northern Ireland) 2015
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 THE PRISON OMBUDSMAN
+  - Appointment, status and term of office
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Remuneration and allowances
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Appointment of acting Ombudsman
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Ombudsman’s officers
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Advisers
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Documents
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Finance
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Annual report
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Data protection
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Freedom of information
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Public Services Ombudsman
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Interpretation
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 PRIVATE SEXUAL PHOTOGRAPHS ETC: PROVIDERS OF INFORMATION SOCIETY SERVICES
+  - Exceptions for mere conduits
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Exception for caching
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Exception for hosting
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Interpretation
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 AMENDMENTS OF THE FIREARMS (NORTHERN IRELAND) ORDER 2004
+  - Part 1 Firearms - Persons under 18
+    - Authorisation of shotgun clubs to allow use of shotguns by persons under the age of 16
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Other amendments relating to persons under 18
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Firearm certificates and other certificates
+    - Variation of firearm certificate
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Variation of firearms dealer’s certificate
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Updated certificates
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Certificates granted in Great Britain
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Part 3 Supplementary
+    - Fees
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Consequential amendment
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
