@@ -2,9 +2,9 @@
 
 2014 c. 12. Enacted 2014-03-13.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-08-17, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-30, one file per provision. Earlier versions, from 2014-03-13, are in the history before it: `git log -- ukpga/2014/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/12/2023-08-17
+Source: https://www.legislation.gov.uk/ukpga/2014/12/2023-11-30
 
 ## Contents
 
@@ -184,7 +184,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/12/2023-08-17
 - PART 10 Forced marriage
   - [s. 120 Offence of breaching forced marriage protection order](section/120.md)
   - [s. 121 Offence of forced marriage: England and Wales](section/121.md)
-  - [s. 122 Offence of forced marriage: Scotland](section/122.md)
+  - [s. 122 Offence of forced marriage or forced civil partnership: Scotland](section/122.md)
   - [s. 122A Anonymity of victims of forced marriage: England and Wales](section/122A.md)
 - PART 11 Policing etc
   - College of Policing
