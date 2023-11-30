@@ -1,0 +1,119 @@
+# Registration of Births, Deaths and Marriages (Scotland) Act 1965
+
+1965 c. 49. Enacted 1965-08-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1965/49/2023-11-30
+
+## Contents
+
+- Part I General Organisation of Registration Service
+  - Central Organisation
+    - [s. 1 The Registrar General.](section/1.md)
+    - [s. 2 Registrar General’s staff.](section/2.md)
+    - [s. 3 General Register Office.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Local Organisation
+    - [s. 5 Registration districts and local registration authorities](section/5.md)
+    - [s. 6 Alteration of registration districts.](section/6.md)
+    - [s. 7 Senior and district registrars and other staff.](section/7.md)
+    - [s. 8 Registration offices.](section/8.md)
+    - [s. 9 Area repositories.](section/9.md)
+    - [s. 10 Delivery up of books etc. on ceasing to hold office.](section/10.md)
+    - [s. 11 General provision as to fees.](section/11.md)
+    - [s. 12 Fees to be accounted for.](section/12.md)
+- Part II Registration of Births
+  - [s. 13 Particulars of births to be registered.](section/13.md)
+  - [s. 14 Duty to give information of particulars of birth.](section/14.md)
+  - [s. 14A Directions about giving information of particulars of birth](section/14A.md)
+  - [s. 15 Duty to give information concerning finding of infant children.](section/15.md)
+  - [s. 16 Registrar’s power to require information concerning birth to be given.](section/16.md)
+  - [s. 16A Provision of birth particulars to Registrar General](section/16A.md)
+  - [s. 16B Registration of births](section/16B.md)
+  - [s. 17 Registration after expiration of three months from date of birth or finding.](section/17.md)
+  - [s. 18 Births of children born out of wedlock.](section/18.md)
+  - [s. 18ZA Registration of father or second female parent by virtue of certain provisions of the Human Fertilisation and Embryology Act 2008](section/18ZA.md)
+  - [s. 18A Decrees of parentage and non-parentage.](section/18A.md)
+  - [s. 18B Births of children where second female parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008](section/18B.md)
+  - [s. 19 Free abbreviated certificate of birth.](section/19.md)
+  - [s. 20 Re-registration in certain cases.](section/20.md)
+  - [s. 21 Still-births.](section/21.md)
+  - [s. 21A Meaning of birth registration form](section/21A.md)
+- Part III Registration of Deaths
+  - [s. 22 Particulars of deaths to be registered.](section/22.md)
+  - [s. 23 Duty to give information of particulars of death.](section/23.md)
+  - [s. 23A Directions about giving information of particulars of death](section/23A.md)
+  - [s. 24 Certificate of cause of death.](section/24.md)
+  - [s. 24A Duty to refer certain certificates of cause of death for review](section/24A.md)
+  - [s. 24B Request for review not to stay registration](section/24B.md)
+  - [s. 25 Registrar’s power to require information concerning death to be given.](section/25.md)
+  - [s. 25A Provision of death particulars to Registrar General](section/25A.md)
+  - [s. 25B Registration of deaths](section/25B.md)
+  - [s. 26 Registration after expiration of three months from date of death or finding of body.](section/26.md)
+  - [s. 27 Free certificate of registration of death.](section/27.md)
+  - [s. 27A Offence of disposal of body without authorisation](section/27A.md)
+  - [s. 28 Intimation of certain deaths by registrar to Procurator-Fiscal and vice-versa.](section/28.md)
+  - [s. 28ZA Meaning of death registration form](section/28ZA.md)
+- Part IIIA
+  - [s. 28A Registration of divorces and declarators of nullity of marriage.](section/28A.md)
+  - [s. 28B ................................](section/28B.md)
+- Part IV
+  - [s. 2931. ................................](section/2931.md)
+- Part V General
+  - Registers
+    - [s. 32 Provision of registers etc. by Registrar General.](section/32.md)
+    - [s. 33 Duplicate and copy registers.](section/33.md)
+    - [s. 34 Examination and transmission of registers](section/34.md)
+    - [s. 35 Reproduction of registers.](section/35.md)
+    - [s. 36 Replacement of lost registers etc.](section/36.md)
+  - Searches and Extracts, etc.
+    - [s. 37 Issuing of extracts of entries in current registers](section/37.md)
+    - [s. 38 Search of indexes kept by Registrar General.](section/38.md)
+    - [s. 39A Notice of registration events to third parties](section/39A.md)
+    - [s. 39B Application by third party for notification of death](section/39B.md)
+    - [s. 39C Provision of information to district registrars](section/39C.md)
+    - [s. 39D Searching of indexes and issuing of extracts by district registrars](section/39D.md)
+    - [s. 39E Abbreviated extracts](section/39E.md)
+    - [s. 41 Form and authentication of registration information](section/41.md)
+    - [s. 41A Admissibility of registration information as evidence](section/41A.md)
+  - Corrections and Changes of Name or Surname
+    - [s. 42 Correction of errors in registers.](section/42.md)
+    - [s. 43 Recording of baptismal name or change of name or surname.](section/43.md)
+    - [s. 44 Register of Corrections Etc.](section/44.md)
+  - Parochial Registers
+    - [s. 45 Correction of entries in parochial registers.](section/45.md)
+    - [s. 46 Parochial registers to be transmitted to Registrar General.](section/46.md)
+    - [s. 47 Search of parochial registers etc., and provision of extracts therefrom.](section/47.md)
+  - Miscellaneous
+    - [s. 48 Decrees of court altering status.](section/48.md)
+    - [s. 49 Signing by mark by persons unable to write.](section/49.md)
+    - [s. 50 Events occurring in institutions.](section/50.md)
+    - [s. 51 Returns to be made by registrar.](section/51.md)
+    - [s. 52 Sending of documents by post.](section/52.md)
+    - [s. 53 Offences.](section/53.md)
+    - [s. 54 Regulations.](section/54.md)
+    - [s. 54A Form, and manner of attestation, of documents](section/54A.md)
+    - [s. 55 Expenses.](section/55.md)
+    - [s. 56 Interpretation.](section/56.md)
+    - [s. 57 Savings etc.](section/57.md)
+    - [s. 58 Consequential amendments and repeals.](section/58.md)
+    - [s. 59 Short title, extent and commence-ment.](section/59.md)
+- SCHEDULE 1 Consequential Amendments of other Enactments
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Marriage Notice (Scotland) Act 1878
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Marriage (Scotland) Act 1939
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The Family Allowances Act 1945
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - The National Insurance Act 1946
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - The Adoption Act 1958
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The Adoption Act 1964
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2
