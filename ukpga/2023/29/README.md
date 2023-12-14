@@ -2,9 +2,9 @@
 
 2023 c. 29. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-11-06, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-14, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-11-06
+Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-12-14
 
 ## Contents
 
