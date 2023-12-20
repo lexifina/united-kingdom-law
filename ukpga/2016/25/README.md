@@ -2,9 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-19, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-20, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2023-06-19
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2023-12-20
 
 ## Contents
 
@@ -449,6 +449,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2023-06-19
     - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
   - TPIM proceedings
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Proceedings under Part 2 of the National Security Act 2023
+    - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
   - TEO proceedings
     - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
   - Sanctions proceedings
