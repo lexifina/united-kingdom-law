@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-08-01, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-20, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2023-08-01
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2023-12-20
 
 ## Contents
 
@@ -313,6 +313,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2023-08-01
       - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
     - Extension of time for retention of travel documents
       - [Sch. 1 para. 45A](schedule/1/paragraph/45A.md)
+    - Foreign power threat activity prevention and investigation measures
+      - [Sch. 1 para. 45B](schedule/1/paragraph/45B.md)
     - Connected matters
       - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
   - Part 2 Excluded services
