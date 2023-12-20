@@ -1,0 +1,163 @@
+# Radioactive Substances Act 1993
+
+1993 c. 12. Enacted 1993-05-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
+
+Source: https://www.legislation.gov.uk/ukpga/1993/12/2023-12-20
+
+## Contents
+
+- Preliminary
+  - [s. 1 Meaning of “radioactive material”.](section/1.md)
+  - [s. 1A Meaning of “radioactive material” and “radioactive waste”](section/1A.md)
+  - [s. 1B NORM industrial activities](section/1B.md)
+  - [s. 1C Processed radionuclides of natural terrestrial or cosmic origin](section/1C.md)
+  - [s. 1D Radionuclides not of natural terrestrial or cosmic origin](section/1D.md)
+  - [s. 1DA Dilution to reduce concentration of radioactivity: Northern Ireland](section/1DA.md)
+  - [s. 1E Radionuclides with a short half-life](section/1E.md)
+  - [s. 1F Radionuclides not of natural terrestrial or cosmic origin in background radioactivity](section/1F.md)
+  - [s. 1G Contaminated substances or articles](section/1G.md)
+  - [s. 1GA Historic radium contamination: Northern Ireland](section/1GA.md)
+  - [s. 1H Substances or articles after disposal](section/1H.md)
+  - [s. 1J Variation of tables in Schedule 1A](section/1J.md)
+  - [s. 2 Meaning of “radioactive waste”.](section/2.md)
+  - [s. 3 Meaning of “mobile radioactive apparatus”.](section/3.md)
+- Inspectors and chief inspector
+  - [s. 4 Inspectors and chief inspector appointed by Secretary of State.](section/4.md)
+  - [s. 5 Appointment of inspectors by Minister of Agriculture, Fisheries and Food.](section/5.md)
+- Registration relating to use of radioactive material and mobile radioactive apparatus
+  - [s. 6 Prohibition of use of radioactive material without registration.](section/6.md)
+  - [s. 7 Registration of users of radioactive material.](section/7.md)
+  - [s. 8 Exemptions from registration under s. 7.](section/8.md)
+  - [s. 9 Prohibition of use of mobile radioactive apparatus without registration.](section/9.md)
+  - [s. 10 Registration of mobile radioactive apparatus.](section/10.md)
+  - [s. 11 Exemptions from registration under s. 10.](section/11.md)
+  - [s. 12 Cancellation and variation of registration.](section/12.md)
+- Authorisation of disposal and accumulation of radioactive waste
+  - [s. 13 Disposal of radioactive waste.](section/13.md)
+  - [s. 14 Accumulation of radioactive waste.](section/14.md)
+  - [s. 14A Radioactive waste: requirements to be imposed on persons authorised to dispose of and accumulate radioactive waste: Northern Ireland](section/14A.md)
+  - [s. 15 Further exemptions from ss. 13 and 14.](section/15.md)
+  - [s. 16 Grant of authorisations.](section/16.md)
+  - [s. 16A Transfer of authorisations](section/16A.md)
+  - [s. 17 Revocation and variation of authorisations.](section/17.md)
+  - [s. 17A Review of authorisations and inspection of premises authorised in this Act](section/17A.md)
+  - [s. 18 Functions of public and local authorities in relation to authorisations under s. 13.](section/18.md)
+- Further obligations relating to registration or authorisation
+  - [s. 19 Duty to display documents.](section/19.md)
+  - [s. 20 Retention and production of site or disposal records.](section/20.md)
+- Enforcement notices and prohibition notices
+  - [s. 21 Enforcement notices.](section/21.md)
+  - [s. 22 Prohibition notices.](section/22.md)
+- Powers of Secretary of State in relation to applications etc.
+  - [s. 23 Power of Secretary of State to give directions to chief inspector.](section/23.md)
+  - [s. 24 Power of Secretary of State to require certain applications to be determined by him.](section/24.md)
+  - [s. 25 Power of Secretary of State to restrict knowledge of applications etc.](section/25.md)
+- Appeals
+  - [s. 26 Registrations, authorisations and notices: appeals from decisions of chief inspector.](section/26.md)
+  - [s. 27 Procedure on appeals unders. 26.](section/27.md)
+  - [s. 28 Representations in relation to authorisations and notices where appropriate Minister is concerned.](section/28.md)
+- Further powers of Secretary of State in relation to radioactive waste
+  - [s. 29 Provision of facilities for disposal or accumulation of radioactive waste.](section/29.md)
+  - [s. 30 Power of Secretary of State to dispose of radioactive waste.](section/30.md)
+  - [s. 30A Recovery and disposal of orphan sources](section/30A.md)
+- Rights of entry
+  - [s. 31 Rights of entry and inspection.](section/31.md)
+- Offences
+  - [s. 32 Offences relating to registration or authorisation.](section/32.md)
+  - [s. 33 Offences relating to ss. 19 and 20.](section/33.md)
+  - [s. 34 Disclosure of trade secrets.](section/34.md)
+  - [s. 34A Offences of making false or misleading statements or false entries.](section/34A.md)
+  - [s. 35 Obstruction.](section/35.md)
+  - [s. 36 Offences by bodies corporate.](section/36.md)
+  - [s. 37 Offence due to another’s fault.](section/37.md)
+  - [s. 38 Restriction on prosecutions.](section/38.md)
+- Public access to documents and records
+  - [s. 39 Public access to documents and records.](section/39.md)
+- Operation of other statutory provisions
+  - [s. 40 Radioactivity to be disregarded for purposes of certain statutory provisions.](section/40.md)
+- General
+  - [s. 41 Service of documents.](section/41.md)
+  - [s. 42 Application of Act to Crown.](section/42.md)
+  - [s. 43 Fees and charges.](section/43.md)
+  - [s. 44 Regulations and orders: Great Britain.](section/44.md)
+  - [s. 45 Regulations and orders: Northern Ireland.](section/45.md)
+  - [s. 46 Effect of Act on other rights and duties.](section/46.md)
+  - [s. 47 General interpretation provisions.](section/47.md)
+  - [s. 48 Index of defined expressions.](section/48.md)
+  - [s. 49 Consequential amendments and transitional and transitory provisions.](section/49.md)
+  - [s. 50 Repeals.](section/50.md)
+  - [s. 51 Short title, commencement and extent.](section/51.md)
+- SCHEDULE 1 Specified elements
+- SCHEDULE 1A Tables of NORM industrial activities, radionuclides and summation rules
+- SCHEDULE 2 Exercise of rights of entry and inspection
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Enactments, other than local enactments, to which s. 40 applies
+  - Part I England and Wales
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 10A](schedule/3/paragraph/10A.md)
+    - [Sch. 3 para. 10B](schedule/3/paragraph/10B.md)
+  - Part II Scotland
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 17A](schedule/3/paragraph/17A.md)
+  - Part III Northern Ireland
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- TABLE OF DERIVATIONS
