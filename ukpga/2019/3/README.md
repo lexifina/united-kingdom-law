@@ -1,0 +1,268 @@
+# Counter-Terrorism and Border Security Act 2019
+
+2019 c. 3. Enacted 2019-02-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2019/3
+
+Source: https://www.legislation.gov.uk/ukpga/2019/3/2023-12-20
+
+## Contents
+
+- PART 1 Counter-Terrorism
+  - CHAPTER 1 Terrorist offences
+    - [s. 1 Expressions of support for a proscribed organisation](section/1.md)
+    - [s. 2 Publication of images and seizure of articles](section/2.md)
+    - [s. 3 Obtaining or viewing material over the internet](section/3.md)
+    - [s. 4 Entering or remaining in a designated area](section/4.md)
+    - [s. 5 Encouragement of terrorism and dissemination of terrorist publications](section/5.md)
+    - [s. 6 Extra-territorial jurisdiction](section/6.md)
+  - CHAPTER 2 Punishment and management of terrorist offenders
+    - Sentencing
+      - [s. 7 Increase in maximum sentences](section/7.md)
+      - [s. 8 Sentences for offences with a terrorist connection](section/8.md)
+      - [s. 9 Extended sentences etc for terrorism offences: England and Wales](section/9.md)
+      - [s. 10 Extended sentences for terrorism offences: Scotland](section/10.md)
+      - [s. 11 Extended sentences for terrorism offences: Northern Ireland](section/11.md)
+    - Notification requirements
+      - [s. 12 Additional requirements](section/12.md)
+      - [s. 13 Power to enter and search home](section/13.md)
+    - Serious crime prevention orders
+      - [s. 14 Serious crime prevention orders](section/14.md)
+  - CHAPTER 3 Counter-terrorism powers
+    - [s. 15 Traffic regulation](section/15.md)
+    - [s. 16 Evidence obtained under port and border control powers](section/16.md)
+    - [s. 17 Persons detained under port and border control powers](section/17.md)
+    - [s. 18 Detention of terrorist suspects: hospital treatment](section/18.md)
+    - [s. 19 Retention of biometric data for counter-terrorism purposes etc](section/19.md)
+  - CHAPTER 4 Miscellaneous
+    - [s. 20 Persons vulnerable to being drawn into terrorism](section/20.md)
+    - [s. 21 Terrorism reinsurance](section/21.md)
+- PART 2 Border security
+  - [s. 22 Port and border controls](section/22.md)
+- PART 3 Final provisions
+  - [s. 23 Minor and consequential amendments](section/23.md)
+  - [s. 24 Notification requirements: transitional provisions](section/24.md)
+  - [s. 25 Other transitional provisions](section/25.md)
+  - [s. 26 Extent](section/26.md)
+  - [s. 27 Commencement](section/27.md)
+  - [s. 28 Short title](section/28.md)
+- SCHEDULE 1 Notification requirements: financial information and information about identification documents
+- SCHEDULE 2 Retention of biometric data for counter-terrorism purposes etc
+  - Police and Criminal Evidence Act 1984
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Criminal Procedure (Scotland) Act 1995
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Terrorism Act 2000
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Counter-Terrorism Act 2008
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Terrorism Prevention and Investigation Measures Act 2011
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Protection of Freedoms Act 2012
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Border security
+  - PART 1 Powers
+    - Power to stop, question and detain
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Searches
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Retention of property
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Power to make and retain copies
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Offences
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Exercise of powers
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - PART 2 Detention
+    - Place of detention
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Identification
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Video recording of interviews
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Status
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Rights: England, Wales and Northern Ireland
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Fingerprints and samples: England, Wales and Northern Ireland
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - Rights: Scotland
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+    - Fingerprints and samples: Scotland
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - Destruction and retention of fingerprints and samples etc: United Kingdom
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+  - PART 3 Review of detention
+    - General requirements
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+    - Representations
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+    - Rights
+      - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+    - Record
+      - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+  - PART 4 Codes of practice
+    - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+    - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+  - PART 5 Related powers
+    - Entry
+      - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+    - Reasonable force
+      - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+    - Information
+      - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+    - Other police powers
+      - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+  - PART 6 Review of powers
+    - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+  - PART 7 Cross-Channel rail services
+    - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+  - PART 8 Interpretation
+    - [Sch. 3 para. 64](schedule/3/paragraph/64.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - PART 1 Consequential amendments relating to section 9
+    - Children and Young Persons Act 1933 (c. 12)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Bail Act 1976 (c. 63)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Repatriation of Prisoners Act 1984 (c. 47)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Road Traffic Offenders Act 1988 (c. 53)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Licensing Act 2003 (c. 17)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Coroners and Justice Act 2009 (c. 25)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - PART 2 Consequential amendments relating to section 11
+    - Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Coroners and Justice Act 2009 (c. 25)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Justice Act (Northern Ireland) 2015 (c. 9 (N.I.))
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - PART 3 Consequential amendments relating to Part 2
+    - Children and Young Persons Act 1933 (c. 12)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Legal Aid (Scotland) Act 1986 (c. 47)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Channel Tunnel (International Arrangements) Order 1993 (S.I. 1993/1813)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Criminal Procedure (Scotland) Act 1995 (c. 46)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Regulation of Investigatory Powers Act 2000 (c. 23)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Postal Services Act 2000 (c. 26)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Advice and Assistance and Civil Legal Aid (Financial Conditions and Contributions) (Scotland) Regulations 2011 (S.S.I. 2011/217)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Terrorism Prevention and Investigation Measures Act 2011 (c. 23)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Protection of Freedoms Act 2012 (c. 9)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Criminal Legal Aid (General) Regulations 2013 (S.I. 2013/9)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Civil Legal Services (Financial) Regulations (Northern Ireland) 2015 (S.R. (N.I.) 2015 No. 196)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Civil Legal Services (Remuneration) Order (Northern Ireland) 2015 (S.R. (N.I.) 2015 No. 201)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - Investigatory Powers Act 2016 (c. 25)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+  - PART 4 Other minor and consequential amendments
+    - Criminal Procedure and Investigations Act 1996 (c. 25)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - Counter-Terrorism Act 2008 (Foreign Travel Notification Requirements) Regulations 2009 (S.I. 2009/2493)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
