@@ -1,0 +1,143 @@
+# Criminal Appeal (Northern Ireland) Act 1980
+
+1980 c. 47. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 35 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/47
+
+Source: https://www.legislation.gov.uk/ukpga/1980/47/2023-12-20
+
+## Contents
+
+- Part I Appeal to Court of Appeal from Crown Court
+  - Appeal against conviction on indictment
+    - [s. 1 Right of appeal against conviction on indictment.](section/1.md)
+    - [s. 2 Grounds for allowing appeal against conviction.](section/2.md)
+    - [s. 3 Power to substitute conviction of alternative offence.](section/3.md)
+    - [s. 3A Power to substitute conviction of alternative offence after guilty plea](section/3A.md)
+    - [s. 4 Alteration of sentence on appeal against conviction.](section/4.md)
+    - [s. 5 Appeal against conviction on special verdict.](section/5.md)
+  - Retrial
+    - [s. 6 Power to order retrial.](section/6.md)
+    - [s. 7 Supplementary provisions as to retrial.](section/7.md)
+  - Appeal against sentence
+    - [s. 8 Appeal against sentence following conviction on indictment.](section/8.md)
+    - [s. 9 Appeal in other cases dealt with by Crown Court.](section/9.md)
+    - [s. 10 Supplementary provisions as to appeals against sentence.](section/10.md)
+    - [s. 10A Quashing of certain confiscation orders: supplementary](section/10A.md)
+  - Appeal in cases of insanity
+    - [s. 11 Appeal against conviction: substitution of finding of insanity.](section/11.md)
+    - [s. 12 Appeal against finding of not guilty on ground of insanity.](section/12.md)
+    - [s. 13 Disposal of appeal allowed under s. 12.](section/13.md)
+  - Appeal against finding of unfitness to be tried.
+    - [s. 13A Appeal against finding of unfitness to be tried.](section/13A.md)
+  - Appeals following references by the CCRC
+    - [s. 13B Power to dismiss certain appeals following references by the CCRC](section/13B.md)
+  - Review of cases
+    - [s. 14 ................................](section/14.md)
+  - Reference of point of law
+    - [s. 15 Reference of point of law following acquittal on indictment.](section/15.md)
+  - Procedure from notice of appeal to hearing
+    - [s. 16 Notice of appeal or application for leave.](section/16.md)
+    - [s. 16A Appeals in cases of contempt of court.](section/16A.md)
+    - [s. 17 Bail.](section/17.md)
+    - [s. 18 Groundless appeals or applications for leave to appeal.](section/18.md)
+    - [s. 19 Legal aid.](section/19.md)
+    - [s. 20 Preparation of case for hearing.](section/20.md)
+  - Transcripts, documents, etc.
+    - [s. 21 Transcripts.](section/21.md)
+    - [s. 22 Trial documents, etc.](section/22.md)
+    - [s. 23 Judge’s notes and report.](section/23.md)
+  - The hearing
+    - [s. 24 Right of appellant to be present.](section/24.md)
+    - [s. 25 Evidence.](section/25.md)
+    - [s. 25A Power to order investigations.](section/25A.md)
+    - [s. 26 Additional powers of Court.](section/26.md)
+  - Matters depending on result of appeal
+    - [s. 27 Restitution of property.](section/27.md)
+    - [s. 28 Costs.](section/28.md)
+    - [s. 29 Computation of sentence.](section/29.md)
+  - Supplementary
+    - [s. 29A Effect of interim hospital orders](section/29A.md)
+    - [s. 30 Interpretation of Part I.](section/30.md)
+- Part II Appeal to House of Lords from Court of Appeal
+  - The appeal
+    - [s. 31 Right of appeal to House of Lords.](section/31.md)
+    - [s. 32 Application for leave to appeal.](section/32.md)
+    - [s. 33 Hearing and disposal of appeal.](section/33.md)
+  - Reference of point of law
+    - [s. 34 Further reference to Supreme Court of point of law following acquittal on indictment.](section/34.md)
+  - Matters preliminary to hearing
+    - [s. 35 Bail.](section/35.md)
+    - [s. 36 Detention of defendant pending appeal by Crown.](section/36.md)
+    - [s. 37 Legal aid.](section/37.md)
+    - [s. 38 Presence of defendant at hearing.](section/38.md)
+  - Matters depending on result of appeal
+    - [s. 39 Computation of sentence.](section/39.md)
+    - [s. 40 Restitution of property.](section/40.md)
+    - [s. 41 Costs.](section/41.md)
+    - [s. 42 Taxation of costs.](section/42.md)
+- Part III Miscellaneous and Supplementary
+  - Exercise of jurisdiction under this Act by Court of Appeal
+    - [s. 43 Jurisdiction of Court of Appeal under this Act.](section/43.md)
+    - [s. 44 Composition of Court of Appeal sitting under this Act.](section/44.md)
+    - [s. 45 Powers of Court which are exercisable by single judge.](section/45.md)
+    - [s. 46 Judgment.](section/46.md)
+  - Supplementary
+    - [s. 47 Rules of court.](section/47.md)
+    - [s. 47A Appeals in cases of death.](section/47A.md)
+    - [s. 48 Appeal in capital cases.](section/48.md)
+    - [s. 49 Saving for prerogative of mercy.](section/49.md)
+    - [s. 50 Interpretation.](section/50.md)
+    - [s. 51 Consequential amendments, repeals and transitional provisions.](section/51.md)
+    - [s. 52 Short title and commencement.](section/52.md)
+- SCHEDULE 1 Provisions Applicable on Retrial
+  - Legal Aid
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Evidence
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - Conviction and sentence
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Consequences and Effect of Order under Section 13(6) for Detention in Hospital
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3
+  - Appeal to Court of Appeal
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appeal to House of Lords
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Amendments.
+  - The Criminal Justice Act (Northern Ireland) 1945 (c. 15).
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Geneva Convention Act 1957 (c. 52).
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Costs in Criminal Cases Act (Northern Ireland) 1968 (c. 10).
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - The Children and Young Persons Act (Northern Ireland) 1968 (c. 34).
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Criminal Jurisdiction Act 1975 (c. 59).
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - The Treatment of Offenders (Northern Ireland) Order 1976 (S.I. 1976/226 (N.I.4)).
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - THE NORTHERN IRELAND (EMERGENCY PROVISIONS) ACT 1978 (C. 5).
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - THE JUDICATURE (NORTHERN IRELAND) ACT 1978 (C. 23).
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Repeals.
