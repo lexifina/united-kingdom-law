@@ -1,0 +1,147 @@
+# Land Clauses Consolidation Act 1845
+
+1845 c. 18. Enacted 1845-05-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Vict/8-9/18
+
+Source: https://www.legislation.gov.uk/ukpga/Vict/8-9/18/2023-12-26
+
+## Contents
+
+- [s. 1 Act to apply to all undertakings authorized by Acts hereafter to be passed.](section/1.md)
+- Interpretation
+  - [s. 2 “Special Act:” ’’Prescribed:”The works:”Promoters of the undertaking”](section/2.md)
+  - [s. 3 Interpretations in this and the special Act:](section/3.md)
+  - [s. 4 Short title of the Act.](section/4.md)
+  - [s. 5 ................................](section/5.md)
+- Purchase of lands by agreement.
+  - [s. 6 Power to purchase lands by agreement.](section/6.md)
+  - [s. 7 Parties under disability enabled to sell and convey.](section/7.md)
+  - [s. 8 Parties under disability to exercise other powers.](section/8.md)
+  - [s. 9 Amount of compensation in case of parties under disability to be ascertained by valuation, and paid into the Bank.](section/9.md)
+  - [s. 10 Where vendor absolutely entitled, lands may be sold on chief rents.](section/10.md)
+  - [s. 11 Payment of rents to be charged on tolls.](section/11.md)
+  - [s. 12 Power to purchase lands required for additional accommodation.](section/12.md)
+  - [s. 13 Authority to sell and re-purchase such lands.](section/13.md)
+  - [s. 14 Restraint on purchase from incapacitated persons.](section/14.md)
+  - [s. 15 Municipal corporations not to sell without the approbation of the Treasury.](section/15.md)
+- Purchase of lands otherwise than by agreement
+  - [s. 16 Capital to be subscribed before compulsory powers put in force.](section/16.md)
+  - [s. 17 Evidence as to capital having been subscribed.](section/17.md)
+  - [s. 18 Notice of intention to take lands.](section/18.md)
+  - [s. 19 Service of notices on owners and occupiers of lands.](section/19.md)
+  - [s. 20 Service of notice on a corporation aggregate.](section/20.md)
+  - [s. 21 If parties fail to treat or in case of dispute, question to be settled as after mentioned.](section/21.md)
+  - [s. 22 Disputes as to compensation, not exceeding 50l. to be settled by two justices.](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 58 †Compensation to absent parties to be determined by a surveyor appointed by two justices.](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 61 Valuation, &c. to be produced to the owner of the lands on demand.](section/61.md)
+  - [s. 62 Expences to be borne by promoters.](section/62.md)
+  - [s. 63 Purchase money and compensation, how to be estimated.](section/63.md)
+  - [s. 64 Where compensation to absent party has been determined by a surveyor, the party may have the same submitted to arbitration.](section/64.md)
+  - [s. 65 Question to be submitted to the arbitrators.](section/65.md)
+  - [s. 66 If further sum awarded, promoters to pay or deposit same within 14 days.](section/66.md)
+  - [s. 67 Costs of the arbitration.](section/67.md)
+  - [s. 68 †To be settled by arbitration or jury, at the option of the party claiming compensation.](section/68.md)
+- Application of compensation
+  - [s. 69 †Purchase money payable to parties under disability, amounting to 200l. to be deposited in the Bank.](section/69.md)
+  - [s. 70 Order for application, and investment meanwhile.](section/70.md)
+  - [s. 71 Sums from 20l. to 200l. to be deposited, or paid to trustees.](section/71.md)
+  - [s. 72 Sums not exceeding 20l. to be paid to parties.](section/72.md)
+  - [s. 73 All sums payable under contract with persons not absolutely entitled, to be paid into Bank.](section/73.md)
+  - [s. 74 Court of Chancery may direct application of money in respect of leases or reversions as they may think just.](section/74.md)
+  - [s. 75 Upon deposit being made, the owners of the lands to convey, or in default the lands to vest in the promoters of the undertaking upon a deed poll being executed.](section/75.md)
+  - [s. 76 Where parties refuse to convey, or do not show title, or cannot be found, the purchase money to be deposited.](section/76.md)
+  - [s. 77 Upon deposit being made a receipt to be given, and the lands to vest upon a deed poll being executed.](section/77.md)
+  - [s. 78 Application of monies so deposited.](section/78.md)
+  - [s. 79 Party in possession to be deemed the owner.](section/79.md)
+  - [s. 80 Costs in cases of money deposited.](section/80.md)
+- Conveyances
+  - [s. 81 Form of conveyances.](section/81.md)
+  - [s. 82 Costs of conveyances.](section/82.md)
+  - [s. 83 Taxation of costs of conveyances.](section/83.md)
+- Entry on lands
+  - [s. 84 Payment of price to be made previous to entry, except to survey, &c.](section/84.md)
+  - [s. 85 Promoters to be allowed to enter on lands before purchase, on making deposit by way of security and giving bond.](section/85.md)
+  - [heading entry-on-lands s. 86n1 Application of Funds in court.](crossheading/entry-on-lands/section/86n1.md)
+  - [heading entry-on-lands s. 86n2 Application of Funds in court.](crossheading/entry-on-lands/section/86n2.md)
+  - [s. 89 Penalty on the promoters of the undertaking entering upon lands without consent before payment of the purchase money.](section/89.md)
+  - [s. 90 Decision of justices not conclusive,&c.](section/90.md)
+  - [s. 91 Proceedings in case of refusal to deliver possession of lands.](section/91.md)
+  - [s. 92 Parties not to be required to sell part of a house.](section/92.md)
+- Intersected lands
+  - [s. 93 Owners of intersected lands may insist on sale.](section/93.md)
+  - [s. 94 Promoters of the undertaking may insist on purchase where expence of bridges, &c. exceeds the value.](section/94.md)
+  - [s. 95 ................................](section/95.md)
+- Common lands
+  - [s. 99 Compensation for common lands, where held of a manor, &c. how to be paid.](section/99.md)
+  - [s. 100 Lord of the manor, &c. to convey to the promoters of the undertaking, on receiving compensation for his interest.](section/100.md)
+  - [s. 101 Compensation for common lands where not held of a manor how to be ascertained.](section/101.md)
+  - [s. 102 A meeting of the parties interested to be convened.](section/102.md)
+  - [s. 103 Meeting to appoint a committee.](section/103.md)
+  - [s. 104 Committee to agree with the promoters of the undertaking.](section/104.md)
+  - [s. 105 Disputes to be settled as in other cases.](section/105.md)
+  - [s. 106 If no committee be appointed, the amount to be determined by a surveyor.](section/106.md)
+  - [s. 107 Upon payment of compensation payable to commoners, the lands to vest.](section/107.md)
+- Lands in mortgage
+  - [s. 108 Power to redeem mortgages.](section/108.md)
+  - [s. 109 Deposit of mortgage money on refusal to accept.](section/109.md)
+  - [s. 110 Sum to be paid when mortgage exceeds the value of the lands.](section/110.md)
+  - [s. 111 Deposit of money when refused on tender.](section/111.md)
+  - [s. 112 Sum to be paid where part only of mortgaged lands taken.](section/112.md)
+  - [s. 113 Deposit of money when refused on tender.](section/113.md)
+  - [s. 114 Compensation to be made in certain cases if mortgage paid off before the stipulated time.](section/114.md)
+- Rent-charges
+  - [s. 115 Release of lands from rent-charges.](section/115.md)
+  - [s. 116 Release of part of lands from charge.](section/116.md)
+  - [s. 117 Deposit in case of refusal to release.](section/117.md)
+  - [s. 118 Charge to continue on lands not taken.](section/118.md)
+- Leases
+  - [s. 119 Where part only of lands under lease taken, the rent to be apportioned.](section/119.md)
+  - [s. 120 Tenants to be compensated.](section/120.md)
+  - [s. 121 Compensation to be made to tenants at will &c.](section/121.md)
+  - [s. 122 Where greater interest claimed than from year to year, lease to be produced.](section/122.md)
+  - [s. 123 Limit of time for compulsory purchase.](section/123.md)
+- Interests omitted to be purchased
+  - [s. 124 Promoters of the undertaking empowered to purchase interests in lands, the purchase whereof may have been omitted by mistake.](section/124.md)
+  - [s. 125 How value of such lands to be estimated.](section/125.md)
+  - [s. 126 ................................](section/126.md)
+- Sale of superfluous Land
+  - [s. 127 Lands not wanted to be sold, or in default to vest in owners of adjoining lands.](section/127.md)
+  - [s. 128 Lands to be offered to owner of lands from which they were originally taken or to adjoining owners.](section/128.md)
+  - [s. 129 Right of pre-emption to be claimed within six weeks.](section/129.md)
+  - [s. 130 Differences as to price to be settled by arbitration.](section/130.md)
+  - [s. 131 Lands to be conveyed to the purchasers.](section/131.md)
+  - [s. 132 Effect of the word “grant” in conveyances.](section/132.md)
+  - [s. 133 †Land tax and poor’s rate to be made good.](section/133.md)
+- Notices
+  - [s. 134 Service of notices upon company.](section/134.md)
+  - [s. 135 Tender of amends.](section/135.md)
+- Recovery of penalties
+  - [s. 136 Penalties to be summarily recovered before two justices.](section/136.md)
+  - [s. 137 ................................](section/137.md)
+  - [s. 138 ................................](section/138.md)
+  - [s. 139 ................................](section/139.md)
+  - [s. 140 Distress against the treasurer.](section/140.md)
+  - [s. 141 Distress not unlawful for want of form.](section/141.md)
+  - [s. 142 ................................](section/142.md)
+  - [s. 143 ................................](section/143.md)
+  - [s. 144 ................................](section/144.md)
+  - [s. 145 ................................](section/145.md)
+  - [s. 146 †Parties allowed to appeal to quarter sessions, on giving security.](section/146.md)
+  - [s. 147 ................................](section/147.md)
+  - [s. 148 ................................](section/148.md)
+  - [s. 149 ................................](section/149.md)
+- Access to special Act
+  - [s. 150 Copies of special Act to be kept and deposited, and allowed to be inspected.](section/150.md)
+  - [s. 151 Penalty on company failing to keep, &c.](section/151.md)
+  - [s. 152 Extent of Act.](section/152.md)
+  - [s. 153 ................................](section/153.md)
+- SCHEDULE (A.)
+  - FORM of Conveyance
+- SCHEDULE (B.)
+  - FORM of Conveyance on Chief Rent
+- SCHEDULE (C)
