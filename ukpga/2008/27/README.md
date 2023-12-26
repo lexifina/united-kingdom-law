@@ -1,0 +1,404 @@
+# Climate Change Act 2008
+
+2008 c. 27. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 23 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2008/27
+
+Source: https://www.legislation.gov.uk/ukpga/2008/27/2023-12-26
+
+## Contents
+
+- Part 1 Carbon target and budgeting
+  - The target for 2050
+    - [s. 1 The target for 2050](section/1.md)
+    - [s. 2 Amendment of 2050 target or baseline year](section/2.md)
+    - [s. 3 Consultation on order amending 2050 target or baseline year](section/3.md)
+  - Carbon budgeting
+    - [s. 4 Carbon budgets](section/4.md)
+    - [s. 5 Level of carbon budgets](section/5.md)
+    - [s. 6 Amendment of target percentages](section/6.md)
+    - [s. 7 Consultation on order setting or amending target percentages](section/7.md)
+    - [s. 8 Setting of carbon budgets for budgetary periods](section/8.md)
+    - [s. 9 Consultation on carbon budgets](section/9.md)
+    - [s. 10 Matters to be taken into account in connection with carbon budgets](section/10.md)
+  - Limit on use of carbon units
+    - [s. 11 Limit on use of carbon units](section/11.md)
+  - Indicative annual ranges
+    - [s. 12 Duty to provide indicative annual ranges for net UK carbon account](section/12.md)
+  - Proposals and policies for meeting carbon budgets
+    - [s. 13 Duty to prepare proposals and policies for meeting carbon budgets](section/13.md)
+    - [s. 14 Duty to report on proposals and policies for meeting carbon budgets](section/14.md)
+    - [s. 15 Duty to have regard to need for UK domestic action on climate change](section/15.md)
+  - Determination whether objectives met
+    - [s. 16 Annual statement of UK emissions](section/16.md)
+    - [s. 17 Powers to carry amounts from one budgetary period to another](section/17.md)
+    - [s. 18 Final statement for budgetary period](section/18.md)
+    - [s. 19 Duty to report on proposals and policies for compensating for budget excess](section/19.md)
+    - [s. 20 Final statement for 2050](section/20.md)
+  - Alteration of budgets or budgetary periods
+    - [s. 21 Alteration of carbon budgets](section/21.md)
+    - [s. 22 Consultation on alteration of carbon budgets](section/22.md)
+    - [s. 23 Alteration of budgetary periods](section/23.md)
+  - Targeted greenhouse gases
+    - [s. 24 Targeted greenhouse gases](section/24.md)
+    - [s. 25 Base years for targeted greenhouse gases other than CO2](section/25.md)
+  - Carbon units, carbon accounting and the net UK carbon account
+    - [s. 26 Carbon units and carbon accounting](section/26.md)
+    - [s. 27 Net UK carbon account](section/27.md)
+    - [s. 28 Procedure for regulations under section 26 or 27](section/28.md)
+  - Other supplementary provisions
+    - [s. 29 UK emissions and removals of greenhouse gases](section/29.md)
+    - [s. 30 Emissions from international aviation or international shipping](section/30.md)
+    - [s. 31 Procedure for regulations under section 30](section/31.md)
+- Part 2 The Committee on Climate Change
+  - The Committee
+    - [s. 32 The Committee on Climate Change](section/32.md)
+  - Functions of the Committee
+    - [s. 33 Advice on level of 2050 target](section/33.md)
+    - [s. 34 Advice in connection with carbon budgets](section/34.md)
+    - [s. 35 Advice on emissions from international aviation and international shipping](section/35.md)
+    - [s. 36 Reports on progress](section/36.md)
+    - [s. 37 Response to Committee’s reports on progress](section/37.md)
+    - [s. 38 Duty to provide advice or other assistance on request](section/38.md)
+  - Supplementary provisions
+    - [s. 39 General ancillary powers](section/39.md)
+    - [s. 40 Grants to the Committee](section/40.md)
+    - [s. 41 Powers to give guidance](section/41.md)
+    - [s. 42 Powers to give directions](section/42.md)
+  - Interpretation
+    - [s. 43 Interpretation of Part 2](section/43.md)
+- Part 3 Trading schemes
+  - Trading schemes
+    - [s. 44 Trading schemes](section/44.md)
+    - [s. 45 Activities to which trading schemes may apply](section/45.md)
+    - [s. 46 Matters that may or must be provided for in regulations](section/46.md)
+  - Authorities and regulations
+    - [s. 47 Relevant national authorities](section/47.md)
+    - [s. 48 Procedure for making regulations](section/48.md)
+    - [s. 49 Further provisions about regulations](section/49.md)
+  - Other supplementary provisions
+    - [s. 50 Information](section/50.md)
+    - [s. 51 Powers to give guidance](section/51.md)
+    - [s. 52 Powers to give directions](section/52.md)
+    - [s. 53 Grants to administrators and participants](section/53.md)
+    - [s. 54 Power to make consequential provision](section/54.md)
+  - Interpretation
+    - [s. 55 Interpretation of Part 3](section/55.md)
+- Part 4 Impact of and adaptation to climate change
+  - National reports and programmes
+    - [s. 56 Report on impact of climate change](section/56.md)
+    - [s. 57 Advice of Committee on Climate Change on impact report](section/57.md)
+    - [s. 58 Programme for adaptation to climate change](section/58.md)
+    - [s. 59 Reporting on progress in connection with adaptation](section/59.md)
+    - [s. 60 Programme for adaptation to climate change: Northern Ireland](section/60.md)
+  - Reporting authorities: non-devolved functions
+    - [s. 61 Guidance by Secretary of State to reporting authorities](section/61.md)
+    - [s. 62 Directions by Secretary of State to prepare reports](section/62.md)
+    - [s. 63 Compliance with Secretary of State’s directions](section/63.md)
+    - [s. 64 Consent of, or consultation with, devolved authorities](section/64.md)
+    - [s. 65 Report on exercise of power to give directions](section/65.md)
+  - Reporting authorities: devolved Welsh functions
+    - [s. 66 Guidance by Welsh Ministers to reporting authorities](section/66.md)
+    - [s. 67 Directions by Welsh Ministers to prepare reports](section/67.md)
+    - [s. 68 Compliance with Welsh Ministers’ directions](section/68.md)
+    - [s. 69 Consent of, or consultation with, Secretary of State](section/69.md)
+  - Interpretation
+    - [s. 70 Interpretation](section/70.md)
+- Part 5 Other provisions
+  - Waste reduction schemes
+    - [s. 71 Waste reduction schemes](section/71.md)
+    - [s. 72 Waste reduction provisions: piloting](section/72.md)
+    - [s. 73 Waste reduction provisions: report and review](section/73.md)
+    - [s. 74 Waste reduction provisions: interim report](section/74.md)
+    - [s. 75 Waste reduction provisions: roll-out or repeal](section/75.md)
+  - Collection of household waste
+    - [s. 76 Collection of household waste](section/76.md)
+  - Charges for carrier bags
+    - [s. 77 Charges for carrier bags](section/77.md)
+  - Renewable transport fuel obligations
+    - [s. 78 Renewable transport fuel obligations](section/78.md)
+  - Carbon emissions reduction targets
+    - [s. 79 Carbon emissions reduction targets](section/79.md)
+  - Miscellaneous
+    - [s. 80 Report on climate change: Wales](section/80.md)
+    - [s. 81 Climate change measures reports in Wales](section/81.md)
+    - [s. 82 Repeal of previous reporting obligation](section/82.md)
+    - [s. 83 Guidance on reporting](section/83.md)
+    - [s. 84 Report on contribution of reporting to climate change objectives](section/84.md)
+    - [s. 85 Regulations about reporting by companies](section/85.md)
+    - [s. 86 Report on the civil estate](section/86.md)
+    - [s. 87 Power of Ministers and departments to offset greenhouse gas emissions](section/87.md)
+    - [s. 88 Fines for offences relating to pollution](section/88.md)
+- Part 6 General supplementary provisions
+  - Territorial scope of provisions relating to greenhouse gas emissions
+    - [s. 89 Territorial scope of provisions relating to greenhouse gas emissions](section/89.md)
+  - Orders and regulations
+    - [s. 90 Orders and regulations](section/90.md)
+    - [s. 91 Affirmative and negative resolution procedure](section/91.md)
+  - Interpretation
+    - [s. 92 Meaning of “greenhouse gas”](section/92.md)
+    - [s. 93 Measurement of emissions etc by reference to carbon dioxide equivalent](section/93.md)
+    - [s. 94 Meaning of “international carbon reporting practice”](section/94.md)
+    - [s. 95 Meaning of “national authority”](section/95.md)
+    - [s. 96 Meaning of “relevant Northern Ireland department”](section/96.md)
+    - [s. 97 Minor definitions](section/97.md)
+    - [s. 98 Index of defined expressions](section/98.md)
+  - Final provisions
+    - [s. 99 Extent](section/99.md)
+    - [s. 100 Commencement](section/100.md)
+    - [s. 101 Short title](section/101.md)
+- SCHEDULE 1 The Committee on Climate Change
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Term of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Remuneration and pensions etc
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Sub-committees
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - The Adaptation Sub-Committee
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Proceedings
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Discharge of functions
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Application of seal and proof of documents
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Reports and accounts
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Information
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Publication of advice etc
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Status
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+- SCHEDULE 2 Trading schemes
+  - Part 1 Schemes limiting activities
+    - Introductory
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Trading periods
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Activities
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Participants
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Allocation of allowances
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Use of allowances
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Credits
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Payments
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Trading
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Permits
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Units under other schemes
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part 2 Schemes encouraging activities
+    - Introductory
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Trading periods
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Activities
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Participants
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Targets and obligations
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Certificates
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Payments
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Trading
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Units under other schemes
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part 3 Administration and enforcement
+    - The administrator
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Information
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Registers
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Publication of information
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Acquisition of units by the administrator
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Charges
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Monitoring compliance
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Enforcement
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Penalties
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Offences
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Appeals
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+- SCHEDULE 3 Trading schemes regulations: further provisions
+  - Part 1 Regulations made by a single national authority
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part 2 Regulations made by two or more national authorities
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part 3 Power to make provision by Order in Council
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Trading schemes: powers to require information
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Information from electricity suppliers and distributors
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Information from potential participants in a trading scheme
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Requirements for a valid notice
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Failure to comply with notice etc an offence
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Disclosure of information
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Waste reduction schemes
+  - Part 1 Main provisions
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Consequential amendments
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Charges for carrier bags
+  - Part 1 Powers to make regulations about charges
+    - General power
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Requirement to charge
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+    - Sellers of goods
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Amount of charge
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 4A Destination of proceeds – Wales](schedule/6/paragraph/4A.md)
+      - [Sch. 6 para. 4An1](schedule/6/paragraph/4An1.md)
+      - [Sch. 6 para. 4B Interpretation of paragraph 4A](schedule/6/paragraph/4B.md)
+    - Carrier bags
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Administration
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Registration
+      - [Sch. 6 para. 6A](schedule/6/paragraph/6A.md)
+    - Record-keeping and publication of records
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Enforcement
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Part 2 Civil sanctions
+    - Civil sanctions
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Fixed monetary penalties
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Fixed monetary penalties: procedure
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Discretionary requirements
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Discretionary requirements: procedure
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Discretionary requirements: enforcement
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Combination of sanctions
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Monetary penalties
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Costs recovery
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Appeals
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Publicity for imposition of civil sanctions
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Persons liable to civil sanctions
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Guidance as to use of civil sanctions
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Publication of enforcement action
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Compliance with regulatory principles
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Review
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Suspension
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Payment of penalties into Consolidated Fund
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - Part 3 Procedures applying to regulations
+    - Regulations made by a single authority
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Regulations made by two or more national authorities
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Hybrid instruments
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+- SCHEDULE 7 Renewable transport fuel obligations
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The Administrator
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Determination of amounts of transport fuel
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Discharge of obligation by payment
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Civil penalties
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Disclosure of information
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Interpretation
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Carbon emissions reduction targets
+  - Gas Act 1986 (c. 44)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Utilities Act 2000 (c. 27)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
