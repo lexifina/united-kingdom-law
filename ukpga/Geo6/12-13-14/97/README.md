@@ -1,0 +1,192 @@
+# National Parks and Access to the Countryside Act 1949
+
+1949 c. 97. Enacted 1949-12-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/2023-12-26
+
+## Contents
+
+- Part I The National Parks Commission
+  - [s. 1 The Countryside Council for Wales.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Power of Minister to give directions to the Council.](section/3.md)
+  - [s. 4 ................................](section/4.md)
+- Part II National Parks
+  - [s. 4A Application of Part II of this Act in Wales.](section/4A.md)
+  - [s. 5 National Parks.](section/5.md)
+  - [s. 6 General duties of Natural England in relation to National Parks.](section/6.md)
+  - [s. 7 Designation and variation of National Parks.](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 Development plans relating to National Parks.](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11](section/11.md)
+  - [s. 11A Duty of certain bodies and persons in relation to the purposes for which National Parks are designated.](section/11A.md)
+  - [s. 12 Provision of accommodation, meals, refreshments, camping sites and parking places.](section/12.md)
+  - [s. 13 Improvement of waterways for purposes of open-air recreation.](section/13.md)
+  - [s. 14 Acquisition by Minister of land in National Parks.](section/14.md)
+- Part III Nature Conservation
+  - [s. 15 Meaning of “nature reserve.”](section/15.md)
+  - [s. 15A Meaning of appropriate conservation body.](section/15A.md)
+  - [s. 16 Agreements for management of nature reserves in Scotland and Wales](section/16.md)
+  - [s. 17 Compulsory acquisition of land by conservation body for establishment of nature reserves.](section/17.md)
+  - [s. 18 Compulsory acquisition of land by conservation body for maintenance of nature reserves.](section/18.md)
+  - [s. 19 Declarations that areas are nature reserves.](section/19.md)
+  - [s. 20 Byelaws for protection of nature reserves.](section/20.md)
+  - [s. 21 Establishment of nature reserves by local authorities.](section/21.md)
+  - [s. 22 Power of drainage authorities to do work in nature reserves.](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 Application of Part III to Scotland.](section/26.md)
+- Part IV Public Rights of Way
+  - Ascertainment of footpaths, bridleways and certain other highways
+    - [s. 27 ................................](section/27.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+  - Long-Distance Routes
+    - [s. 50A Application of Part IV of this Act in Wales.](section/50A.md)
+    - [s. 51 General provisions as to long-distance routes.](section/51.md)
+    - [s. 52 Approval of proposals relating to a long-distance route.](section/52.md)
+    - [s. 53 Ferries for purposes of long-distance routes.](section/53.md)
+    - [s. 54 Accommodation, meals and refreshments along long-distance routes.](section/54.md)
+    - [s. 55 Variation of approved proposals.](section/55.md)
+    - [s. 55A Proposals relating to the English coastal route](section/55A.md)
+    - [s. 55B Route subject to erosion etc](section/55B.md)
+    - [s. 55C Alternative routes](section/55C.md)
+    - [s. 55D Coastal margin](section/55D.md)
+    - [s. 55E Consideration of reports made pursuant to the coastal access duty](section/55E.md)
+    - [s. 55F Directions under Part 1 of the CROW Act](section/55F.md)
+    - [s. 55G Ferries for the purposes of the English coastal route](section/55G.md)
+    - [s. 55H Variation pursuant to the coastal access duty](section/55H.md)
+    - [s. 55I Temporary diversions](section/55I.md)
+    - [s. 55J Interpretation of sections 55A to 55J](section/55J.md)
+  - Minor Amendments of Law relating to Rights of Way
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 Penalty for displaying on footpaths notices deterring public use.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+- Part V Access to Open Country
+  - [s. 59 Provision for public access to open country.](section/59.md)
+  - [s. 60 Rights of public where access agreement, order in force.](section/60.md)
+  - [s. 61 ................................](section/61.md)
+  - [s. 62 ................................](section/62.md)
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 Access agreements.](section/64.md)
+  - [s. 65 Access orders.](section/65.md)
+  - [s. 66 Effect of access agreement or order on rights and liabilities of owners.](section/66.md)
+  - [s. 67 Provision of means of access.](section/67.md)
+  - [s. 68 Power of local planning authority to enforce access.](section/68.md)
+  - [s. 69 Suspension of public access to avoid exceptional risk of fire.](section/69.md)
+  - [s. 70 Compensation for access orders.](section/70.md)
+  - [s. 71 Compensation to be assessed with regard to effect of first five years of access.](section/71.md)
+  - [s. 72 Claims for compensation and interest.](section/72.md)
+  - [s. 73 Payments on account in cases of special hardship.](section/73.md)
+  - [s. 74 Application to waterways in National Parks.](section/74.md)
+  - [s. 75 Exercise of powers under s. 13 as respects open country and waterways comprised in access orders.](section/75.md)
+  - [s. 76 Acquisition by local authorities of land for public access.](section/76.md)
+  - [s. 77 Acquisition by Ministers of land for public access.](section/77.md)
+  - [s. 78 Maps of land subject to public access.](section/78.md)
+  - [s. 79 ................................](section/79.md)
+  - [s. 80 Provisions as to danger areas.](section/80.md)
+  - [s. 81 Boundary notices.](section/81.md)
+  - [s. 82 Power of local planning authority to contribute to work carried out by other persons.](section/82.md)
+  - [s. 83 Repeal of 2 & 3 Geo. 6. c. 30.](section/83.md)
+- Part VI General, Financial and Supplementary
+  - [s. 84 ................................](section/84.md)
+  - General powers and duties of Commission
+    - [s. 85 General duty of Natural England and the Natural Resources Body for Wales to advise on questions relating to natural beauty.](section/85.md)
+    - [s. 86 Information services to be provided by Natural England.](section/86.md)
+    - [s. 86A Information services to be provided by Natural Resources Body for Wales.](section/86A.md)
+  - Areas of outstanding natural beauty
+    - [s. 87 Designation of areas of outstanding natural beauty.](section/87.md)
+    - [s. 88 Functions of certain bodies in relation to areas of outstanding natural beauty.](section/88.md)
+  - General Powers of Local Planning Authorities
+    - [s. 89 Planting of trees and treatment of derelict land.](section/89.md)
+    - [s. 90 Local authority byelaws.](section/90.md)
+    - [s. 91 Default powers of Secretary of State as to certain byelaws.](section/91.md)
+    - [s. 92 Wardens.](section/92.md)
+    - [s. 93 ................................](section/93.md)
+  - Financial Provisions
+    - [s. 95 ................................](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 ................................](section/97.md)
+    - [s. 98 ................................](section/98.md)
+    - [s. 99 Contributions by local authorities.](section/99.md)
+    - [s. 100 Payments out of moneys provided by Parliament.](section/100.md)
+  - Supplementary Provisions
+    - [s. 101 Crown land.](section/101.md)
+    - [s. 102 ................................](section/102.md)
+    - [s. 103 General provisions as to acquisition of land.](section/103.md)
+    - [s. 104 General provisions as to appropriation and disposal of land.](section/104.md)
+    - [s. 105 ................................](section/105.md)
+    - [s. 106 Supplementary provisions as to byelaws.](section/106.md)
+    - [s. 106A Supplementary provisions as to byelaws made by the Natural Resources Body for Wales](section/106A.md)
+    - [s. 107 Supplementary provisions as to compensation under ss. 20, 46 and 70.](section/107.md)
+    - [s. 108 Powers of entry.](section/108.md)
+    - [s. 109 †Application of provisions of Act of 1947 as to inquiries and service of notices.](section/109.md)
+    - [s. 110 Regulations and orders.](section/110.md)
+    - [s. 111 Application to Isles of Scilly.](section/111.md)
+    - [s. 111A Application to the Broads Authority.](section/111A.md)
+    - [s. 112 Epping Forest and Burnham Beeches.](section/112.md)
+    - [s. 113 National Trust land.](section/113.md)
+    - [s. 114 Interpretation.](section/114.md)
+    - [s. 115 Short title and extent.](section/115.md)
+- FIRST SCHEDULE Provisions as to Making, Confirmation, Coming into Operation and Validity of certain Instruments
+  - Part I
+    - Orders designating National Parks, Public Path Orders, Diversion Orders and Extinguishment Orders, and Access Orders
+      - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+      - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+      - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+      - [Sch. FIRST para. 3A](schedule/FIRST/paragraph/3A.md)
+      - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+  - Part II................................
+  - Part III
+    - Provisions as to validity of orders, and of certain maps and statements prepared under Part IV of this Act
+      - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+      - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+      - [Sch. FIRST para. 10](schedule/FIRST/paragraph/10.md)
+      - [Sch. FIRST para. 11](schedule/FIRST/paragraph/11.md)
+- Schedule 1A Coastal access reports
+  - Introductory
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Advertising etc of coastal access reports
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Objections by persons with relevant interest in affected land
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Referral of objections to the appointed person
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Determination of admissibility of objections
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Admissible objections
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Representations about reports
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Reference of objection to the appointed person
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - Consideration of objections by appointed person
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Recommendations of the appointed person
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+  - Information and documents
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Holding of local inquiries and other hearings by appointed person
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+  - Supplementary provision about procedure in connection with objections
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+  - Preliminary consultation
+    - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+  - Determinations under section 52
+    - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+  - Notice of determinations under section 52
+    - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+  - Interpretation
+    - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+- SECOND SCHEDULE General Restrictions to be observed by Persons having access to Open Country or Waterways by virtue of Part V of Act
+  - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
