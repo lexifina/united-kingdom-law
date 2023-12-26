@@ -1,0 +1,253 @@
+# Norfolk and Suffolk Broads Act 1988
+
+1988 c. 4. Enacted 1988-03-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/4
+
+Source: https://www.legislation.gov.uk/ukpga/1988/4/2023-12-26
+
+## Contents
+
+- Part I The Broads Authority
+  - [s. 1 The Broads Authority.](section/1.md)
+  - [s. 2 Functions of Authority: general.](section/2.md)
+  - [s. 3 The Broads Plan.](section/3.md)
+  - [s. 4 Conservation of areas of natural beauty.](section/4.md)
+  - [s. 5 Notification of certain operations within the Broads.](section/5.md)
+  - [s. 6 Byelaws: general.](section/6.md)
+  - [s. 7 Alteration of constitution of Authority.](section/7.md)
+- Part II Navigation
+  - [s. 8 The navigation area.](section/8.md)
+  - [s. 9 The Navigation Committee.](section/9.md)
+  - [s. 10 Functions of Authority and others in relation to the navigation area.](section/10.md)
+  - [s. 11 Licences required for construction of works.](section/11.md)
+  - [s. 12 Contravention of section 11(1).](section/12.md)
+- Part III Finance
+  - [s. 13 Navigation charges.](section/13.md)
+  - [s. 14 Authority’s power to make levies on participating authorities.](section/14.md)
+  - [s. 15 Grants from Secretary of State.](section/15.md)
+  - [s. 16 Borrowing powers of Authority.](section/16.md)
+  - [s. 17 Accounts and auditing.](section/17.md)
+- Part IV Miscellaneous and Supplemental
+  - [s. 17A General duty of public bodies etc.](section/17A.md)
+  - [s. 17B Duty of public bodies etc to contribute to the Broads Plan](section/17B.md)
+  - [s. 18 Transfer of staff to Authority.](section/18.md)
+  - [s. 19 Transfer of property, rights and liabilities.](section/19.md)
+  - [s. 20 Annual report.](section/20.md)
+  - [s. 21 Application to Authority of certain enactments applying to local authorities etc.](section/21.md)
+  - [s. 22 Protection of Crown interests.](section/22.md)
+  - [s. 23 Power to make incidental, consequential and transitional provision.](section/23.md)
+  - [s. 24 Orders, regulations and byelaws.](section/24.md)
+  - [s. 25 Interpretation.](section/25.md)
+  - [s. 26 Commencement.](section/26.md)
+  - [s. 27 Short title, etc.](section/27.md)
+- SCHEDULE 1 The Broads Authority
+  - Appointment of members
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Replacement of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Meetings of Authority
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Chairman and vice-chairman
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Authority’s chief officer
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Variation of Area Treated as the Broads
+  - Part I Variation of Area Shown on Deposited Map
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II Variation by Order
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Functions of Authority
+  - Part I Planning and Connected Matters
+    - The Electricity (Supply) Act 1919
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The National Parks and Access to the Countryside Act 1949
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - The Land Compensation Act 1961
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - The Water Resources Act 1963
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - The Countryside Act 1968
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - The Race Relations Act 1976
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - The Ancient Monuments and Archaeological Areas Act 1979
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - The Wildlife and Countryside Act 1981
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Part II Miscellaneous Functions
+    - Land Drainage
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Water
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - Discharge of trade and sewage effluent
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - Staithes
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+    - Common Land
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+    - Open spaces
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - Provision of facilities
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+    - Caravan sites
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+    - Conservation of buildings etc.
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - Derelict land
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - Compulsory acquisitions
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+    - Refuse disposal
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - Litter
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+    - Footpaths and bridleways
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+    - Publication of information
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+- SCHEDULE 4 The Navigation Committee
+  - Appointment of members
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Replacement of members
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Attendance at meetings
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Proceedings of Committee
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 The Navigation Area
+  - Part I Functions of Authority
+    - Maintenance and improvement
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Dredging
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Communication with vessels
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Byelaws
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Registration of vessels
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Appeal against cancellation or refusal to register
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Supplementary provisions in relation to byelaws
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Contravention of byelaws
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Information as to navigation by pleasure craft
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Temporary closure of waterways
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Repair of landing places etc.
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Removal of wrecks etc.
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Nature conservation
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Consultation with Navigation Committee
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Part II Functions of Navigation Officers
+    - Interpretation
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Directions for regulating vessels
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Seagoing freight traffic
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Part III Miscellaneous
+    - Integration of administration with the Commissioners
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Protection of statutory undertakers
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Duty of Authority to notify Commissioners of dredging and other work
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - New rights of navigation
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+- SCHEDULE 6 Application to Authority of Certain Enactments Applying to Local Authorities etc.
+  - The Commons Act 1899
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - The Landlord and Tenant Act 1954
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - The Trustee Investments Act 1961
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - The Local Government (Records) Act 1962
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The General Rate Act 1967
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - The Leasehold Reform Act 1967
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - The Employers Liability (Compulsory Insurance) Act 1969
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - The Local Authorities (Goods and Services) Act 1970
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - The Road Traffic Act 1972
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - The Local Government Act 1972
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - The Employment Agencies Act 1973
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - The Local Government Act 1974
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - The Health and Safety at Work etc. Act 1974
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - The Local Land Charges Act 1975
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - The Race Relations Act 1976
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - The Rent (Agriculture) Act 1976
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - The Rent Act 1977
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - The Employment Protection (Consolidation) Act 1978
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - The Justices of the Peace Act 1979
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - The Acquisition of Land Act 1981
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - The Local Government (Miscellaneous Provisions) Act 1982
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - The County Courts Act 1984
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - The Housing Act 1985
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - The Landlord and Tenant Act 1985
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - The Local Government Act 1986
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+  - The Landlord and Tenant Act 1987
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+- SCHEDULE 7 Transitional Provisions
+  - Initial appointment of members of the Authority
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Initial appointment of members of the Navigation Committee
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - First meeting of the Authority
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Continuity of exercise of functions
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Variation of area of jurisdiction of the Authority
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Consultation
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Temporary borrowing
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
