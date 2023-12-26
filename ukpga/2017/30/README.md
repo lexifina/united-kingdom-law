@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-10-26
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-12-26
 
 ## Contents
 
@@ -323,6 +323,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-10-26
     - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
     - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
     - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 14A](schedule/4/paragraph/14A.md)
     - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
     - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
     - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
@@ -365,7 +366,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-10-26
     - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
     - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
 - SCHEDULE 5 Public service delivery: specified persons for the purposes of sections 36 and 37
-  - PART1 UK AND ENGLISH BODIES
+  - PART 1 UK AND ENGLISH BODIES
     - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
     - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
     - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
@@ -374,6 +375,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-10-26
     - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
     - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
     - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 8A](schedule/5/paragraph/8A.md)
     - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
     - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
     - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
@@ -408,6 +410,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-10-26
     - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
     - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
     - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 7A](schedule/6/paragraph/7A.md)
     - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
     - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
     - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
