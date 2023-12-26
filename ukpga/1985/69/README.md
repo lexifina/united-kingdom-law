@@ -1,0 +1,251 @@
+# Housing Associations Act 1985
+
+1985 c. 69. Enacted 1985-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1985/69/2023-12-26
+
+## Contents
+
+- Part I Regulation of Housing Associations
+  - Introductory
+    - [s. 1 Meaning of “housing association” and related expressions.](section/1.md)
+    - [s. 2 Meaning of “housing trust”.](section/2.md)
+    - [s. 2A ................................](section/2A.md)
+    - [s. 2B Meaning of “registered housing association”, “registered social landlord” etc.](section/2B.md)
+  - Registration
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Disposal of land
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 Control of disposals by unregistered housing associations](section/9.md)
+    - [s. 10 Dispositions excepted from s. 9.](section/10.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 Avoidance of certain disposals of houses without consent.](section/12.md)
+  - Control of payments to members, etc.
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 15A ................................](section/15A.md)
+  - Constitution, change of rules, amalgamation and dissolution
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+  - Accounts and audit
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 27A ................................](section/27A.md)
+  - Inquiries into affairs of housing associations
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+  - Miscellaneous
+    - [s. 33 ................................](section/33.md)
+    - [s. 33A Provision of services between the Corporations.](section/33A.md)
+    - [s. 34 Provision of land by county councils.](section/34.md)
+    - [s. 35 Housing trusts: power to transfer housing to local housing authority.](section/35.md)
+    - [s. 36 Housing trusts: functions of Secretary of State with respect to legal proceedings.](section/36.md)
+    - [s. 36A ................................](section/36A.md)
+  - Supplementary
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 Definitions relating to charities.](section/38.md)
+    - [s. 39 Minor definitions.](section/39.md)
+    - [s. 40 Index of defined expressions: Part I.](section/40.md)
+- Part II Housing Association Finance
+  - [s. 41 ................................](section/41.md)
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - Deficit grants
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+  - Arrangements with local authorities
+    - [s. 58 Powers of local authorities to promote and assist housing associations: England and Wales.](section/58.md)
+    - [s. 59 Powers of local authorities to promote and assist housing associations: Scotland.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Power of local housing authority to supply furniture to housing association tenants.](section/61.md)
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+  - Loans by Public Works Loan Commissioners
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 Local loans made by the Treasury: Scotland.](section/68.md)
+  - Miscellaneous
+    - [s. 69 Power to vary or terminate certain agreements with housing associations.](section/69.md)
+    - [s. 69A](section/69A.md)
+    - [s. 70 Continuation of arrangements under repealed enactments.](section/70.md)
+    - [s. 71 Superseded contributions, subsidies and grants.](section/71.md)
+  - Supplementary provisions
+    - [s. 72 Minor definitions.](section/72.md)
+    - [s. 73 Index of defined expressions: Part II.](section/73.md)
+- Part III Social Housing in Wales
+  - Functions of the Welsh Ministers and other general matters
+    - [s. 74 The Welsh Ministers](section/74.md)
+    - [s. 75 General functions](section/75.md)
+    - [s. 76 Directions by the Secretary of State.](section/76.md)
+    - [s. 76A Realisation of value of Housing Corporation’s loans portfolio.](section/76A.md)
+    - [s. 77 Advisory service.](section/77.md)
+    - [s. 78 Annual report.](section/78.md)
+  - Relevant Authority’s powers with respect to grants and loans
+    - [s. 79 Lending powers.](section/79.md)
+    - [s. 80 Security for loans to unregistered self-build societies.](section/80.md)
+    - [s. 81 Further advances in case of disposal on shared ownership lease.](section/81.md)
+    - [s. 82 Loans made under s. 2 of the Housing Act 1964.](section/82.md)
+    - [s. 83 Power to guarantee loans.](section/83.md)
+    - [s. 84 Agreements to indemnify certain lenders](section/84.md)
+    - [s. 85 Meaning of “recognised body” and “relevant advance”.](section/85.md)
+    - [s. 86 Agreements to indemnify building societies: Scotland.](section/86.md)
+    - [s. 87 Financial assistance with respect to formation, management, etc. of certain housing associations.](section/87.md)
+  - Relevant Authority’s powers with respect to land and works
+    - [s. 88 Acquisition of land.](section/88.md)
+    - [s. 89 Provision of dwellings or hostels and clearance, management and development of land.](section/89.md)
+    - [s. 90 Disposal of land.](section/90.md)
+    - [s. 91 Protection of persons deriving title under transactions requiring consent.](section/91.md)
+  - The Relevant Authority’s finances
+    - [s. 92 Borrowing powers.](section/92.md)
+    - [s. 93 Limit on borrowing.](section/93.md)
+    - [s. 94 Treasury guarantees of borrowing.](section/94.md)
+    - [s. 95 Grants to the Housing Corporation.](section/95.md)
+    - [s. 96 General financial provisions.](section/96.md)
+    - [s. 97 Accounts and audit.](section/97.md)
+  - Acquisition of securities and control of subsidiaries
+    - [s. 98 Acquisition of securities and promotion of body corporate.](section/98.md)
+    - [s. 99 Control of subsidiaries.](section/99.md)
+  - Supplementary provisions
+    - [s. 100 Scottish Special Housing Association may act as agents for Relevant Authority in Scotland.](section/100.md)
+    - [s. 101 Minor definitions.](section/101.md)
+    - [s. 102 Index of defined expressions: Part III.](section/102.md)
+- Part IV General Provisions
+  - General provisions
+    - [s. 103 Application to Isles of Scilly.](section/103.md)
+    - [s. 104 Local housing authorities.](section/104.md)
+    - [s. 105 Members of a persons family](section/105.md)
+    - [s. 106 Minor definitions — general.](section/106.md)
+  - Final provisions
+    - [s. 107 Short title, commencement and extent.](section/107.md)
+- SCHEDULE 1 Grant-Aided Land
+  - Definition of “grant-aided land”
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Payments
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Loans
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2
+  - Repayment of discount on early disposal
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Liability to repay is a charge on the premises
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Restriction on disposal of houses in National Parks, etc.
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Relevant disposals
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Exempted disposals
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Meaning of “compulsory disposal”
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Exempted disposals which end liability under covenants
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Treatment of options
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3
+  - Books of account, &c.
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Accounts and balance sheets
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appointment of auditor
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Auditor’s report
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Duties of auditor
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Auditor’s right of access to books, etc.
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Periods of account
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Housing Associations: Continuation of Arrangements Under Repealed Enactments
+  - Part I Arrangements with Local Authorities for Provision or Improvement of Housing
+    - (ss. 120 and 121 of the Housing Act 1957)
+      - [Sch. 4 Pt. I heading ss-120-and-121-of-the-housing-act-1957 para. 1](schedule/4/part/I/crossheading/ss-120-and-121-of-the-housing-act-1957/paragraph/1.md)
+      - [Sch. 4 Pt. I heading ss-120-and-121-of-the-housing-act-1957 para. 2](schedule/4/part/I/crossheading/ss-120-and-121-of-the-housing-act-1957/paragraph/2.md)
+  - Part II Subsidy Agreements with Local Authorities
+    - (s. 79 of the Housing Finance Act 1972 and s. 59 of the Housing (Financial Provisions) (Scotland) Act 1972)
+      - [Sch. 4 Pt. II heading s-79-of-the-housing-finance-act-1972-and-s-59-of-the-housing-financial-provisions-scotland-act-1972 para. 1](schedule/4/part/II/crossheading/s-79-of-the-housing-finance-act-1972-and-s-59-of-the-housing-financial-provisions-scotland-act-1972/paragraph/1.md)
+      - [Sch. 4 Pt. II heading s-79-of-the-housing-finance-act-1972-and-s-59-of-the-housing-financial-provisions-scotland-act-1972 para. 2](schedule/4/part/II/crossheading/s-79-of-the-housing-finance-act-1972-and-s-59-of-the-housing-financial-provisions-scotland-act-1972/paragraph/2.md)
+  - Part III Special Arrangements with the Secretary of State in Scotland
+    - (s.1(1)(d) of the Housing (Scotland) Act 1962; s.1(2)(d) of the Housing (Financial Provisions) (Scotland) Act 1968)
+- SCHEDULE 5 Housing Association Finance: Superseded Subsidies, Contributions and Grants
+  - Part I Residual Subsidies: England and Wales
+    - (ss. 72 and 73 of the Housing Finance Act 1972) Entitlement to residual subsidies
+      - [Sch. 5 Pt. I heading ss-72-and-73-of-the-housing-finance-act-1972-entitlement-to-residual-subsidies para. 1](schedule/5/part/I/crossheading/ss-72-and-73-of-the-housing-finance-act-1972-entitlement-to-residual-subsidies/paragraph/1.md)
+      - [Sch. 5 Pt. I heading ss-72-and-73-of-the-housing-finance-act-1972-entitlement-to-residual-subsidies para. 2](schedule/5/part/I/crossheading/ss-72-and-73-of-the-housing-finance-act-1972-entitlement-to-residual-subsidies/paragraph/2.md)
+      - [Sch. 5 Pt. I heading ss-72-and-73-of-the-housing-finance-act-1972-entitlement-to-residual-subsidies para. 3](schedule/5/part/I/crossheading/ss-72-and-73-of-the-housing-finance-act-1972-entitlement-to-residual-subsidies/paragraph/3.md)
+    - Power to vary withdrawal factor or reduction factor
+      - [Sch. 5 Pt. I heading power-to-vary-withdrawal-factor-or-reduction-factor para. 4](schedule/5/part/I/crossheading/power-to-vary-withdrawal-factor-or-reduction-factor/paragraph/4.md)
+    - Administrative provisions
+      - [Sch. 5 Pt. I heading administrative-provisions para. 5](schedule/5/part/I/crossheading/administrative-provisions/paragraph/5.md)
+    - Powers exercisable in case of disposal of dwellings by association
+      - [Sch. 5 Pt. I heading powers-exercisable-in-case-of-disposal-of-dwellings-by-association para. 6](schedule/5/part/I/crossheading/powers-exercisable-in-case-of-disposal-of-dwellings-by-association/paragraph/6.md)
+    - Saving for financial years beginning before the commencement of this Act
+      - [Sch. 5 Pt. I heading saving-for-financial-years-beginning-before-the-commencement-of-this-act para. 7](schedule/5/part/I/crossheading/saving-for-financial-years-beginning-before-the-commencement-of-this-act/paragraph/7.md)
+  - Part II Residual Subsidies: Scotland
+    - (ss. 52 and 53 of the Housing (Financial Provisions) (Scotland) Act 1972) Entitlement to residual subsidies
+      - [Sch. 5 Pt. II heading ss-52-and-53-of-the-housing-financial-provisions-scotland-act-1972-entitlement-to-residual-subsidies para. 1](schedule/5/part/II/crossheading/ss-52-and-53-of-the-housing-financial-provisions-scotland-act-1972-entitlement-to-residual-subsidies/paragraph/1.md)
+      - [Sch. 5 Pt. II heading ss-52-and-53-of-the-housing-financial-provisions-scotland-act-1972-entitlement-to-residual-subsidies para. 2](schedule/5/part/II/crossheading/ss-52-and-53-of-the-housing-financial-provisions-scotland-act-1972-entitlement-to-residual-subsidies/paragraph/2.md)
+      - [Sch. 5 Pt. II heading ss-52-and-53-of-the-housing-financial-provisions-scotland-act-1972-entitlement-to-residual-subsidies para. 3](schedule/5/part/II/crossheading/ss-52-and-53-of-the-housing-financial-provisions-scotland-act-1972-entitlement-to-residual-subsidies/paragraph/3.md)
+    - Power to vary withdrawal factor or reduction factor
+      - [Sch. 5 Pt. II heading power-to-vary-withdrawal-factor-or-reduction-factor para. 4](schedule/5/part/II/crossheading/power-to-vary-withdrawal-factor-or-reduction-factor/paragraph/4.md)
+    - Administrative provisions
+      - [Sch. 5 Pt. II heading administrative-provisions para. 5](schedule/5/part/II/crossheading/administrative-provisions/paragraph/5.md)
+    - Powers exercisable in case of disposal of houses by association
+      - [Sch. 5 Pt. II heading powers-exercisable-in-case-of-disposal-of-houses-by-association para. 6](schedule/5/part/II/crossheading/powers-exercisable-in-case-of-disposal-of-houses-by-association/paragraph/6.md)
+    - Saving for financial years beginning before the commencement of this Act
+      - [Sch. 5 Pt. II heading saving-for-financial-years-beginning-before-the-commencement-of-this-act para. 7](schedule/5/part/II/crossheading/saving-for-financial-years-beginning-before-the-commencement-of-this-act/paragraph/7.md)
+  - Part III Contributions and Grants Under Arrangements With Local Authorities
+    - (s. 12 of the Housing (Financial Provisions) Act 1958; s. 12 of the Housing Subsidies Act 1967; s. 21 of the Housing Act 1969)
+      - [Sch. 5 Pt. III heading s-12-of-the-housing-financial-provisions-act-1958-s-12-of-the-housing-subsidies-act-1967-s-21-of-the-housing-act-1969 para. 1](schedule/5/part/III/crossheading/s-12-of-the-housing-financial-provisions-act-1958-s-12-of-the-housing-subsidies-act-1967-s-21-of-the-housing-act-1969/paragraph/1.md)
+      - [Sch. 5 Pt. III heading s-12-of-the-housing-financial-provisions-act-1958-s-12-of-the-housing-subsidies-act-1967-s-21-of-the-housing-act-1969 para. 2](schedule/5/part/III/crossheading/s-12-of-the-housing-financial-provisions-act-1958-s-12-of-the-housing-subsidies-act-1967-s-21-of-the-housing-act-1969/paragraph/2.md)
+    - (s. 17 of the Housing (Financial Provisions) (Scotland) Act 1968)
+      - [Sch. 5 Pt. III heading s-17-of-the-housing-financial-provisions-scotland-act-1968 para. 3](schedule/5/part/III/crossheading/s-17-of-the-housing-financial-provisions-scotland-act-1968/paragraph/3.md)
+      - [Sch. 5 Pt. III heading s-17-of-the-housing-financial-provisions-scotland-act-1968 para. 4](schedule/5/part/III/crossheading/s-17-of-the-housing-financial-provisions-scotland-act-1968/paragraph/4.md)
+  - Part IV Contributions Under Arrangements with the Secretary of State in Scotland
+    - (s. 16 of the Housing (Financial Provisions) (Scotland) Act 1968)
+      - [Sch. 5 Pt. IV heading s-16-of-the-housing-financial-provisions-scotland-act-1968 para. 1](schedule/5/part/IV/crossheading/s-16-of-the-housing-financial-provisions-scotland-act-1968/paragraph/1.md)
+  - Part V Schemes for the Unification of Grant Conditions
+    - (s. 123 of the Housing Act 1957; s. 157 of the Housing (Scotland) Act 1966)
+      - [Sch. 5 Pt. V heading s-123-of-the-housing-act-1957-s-157-of-the-housing-scotland-act-1966 para. 1](schedule/5/part/V/crossheading/s-123-of-the-housing-act-1957-s-157-of-the-housing-scotland-act-1966/paragraph/1.md)
+      - [Sch. 5 Pt. V heading s-123-of-the-housing-act-1957-s-157-of-the-housing-scotland-act-1966 para. 2](schedule/5/part/V/crossheading/s-123-of-the-housing-act-1957-s-157-of-the-housing-scotland-act-1966/paragraph/2.md)
+  - Part VI New Building Subsidy and Improvement Subsidy
+    - (s. 75 of the Housing Finance Act 1972; ss. 55 and 57 of the Housing (Financial Provisions) (Scotland) Act 1972)
+      - [Sch. 5 Pt. VI heading s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972 para. 1](schedule/5/part/VI/crossheading/s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972/paragraph/1.md)
+      - [Sch. 5 Pt. VI heading s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972 para. 2](schedule/5/part/VI/crossheading/s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972/paragraph/2.md)
+      - [Sch. 5 Pt. VI heading s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972 para. 3](schedule/5/part/VI/crossheading/s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972/paragraph/3.md)
+      - [Sch. 5 Pt. VI heading s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972 para. 4](schedule/5/part/VI/crossheading/s-75-of-the-housing-finance-act-1972-ss-55-and-57-of-the-housing-financial-provisions-scotland-act-1972/paragraph/4.md)
+  - Part VII Payments in Respect of Hostels Under Pre-1974 Enactments
+    - (s. 21 of the Housing (Financial Provisions) (Scotland) Act 1968)
+      - [Sch. 5 Pt. VII heading s-21-of-the-housing-financial-provisions-scotland-act-1968 para. 1](schedule/5/part/VII/crossheading/s-21-of-the-housing-financial-provisions-scotland-act-1968/paragraph/1.md)
+- SCHEDULE 6
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+- SCHEDULE 7 Powers Exercisable Where Loan Outstanding under Section 2 of The Housing Act 1964
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Directions as to disposal of land securing loan
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Schemes for Corporation to provide housing accommodation in place of association
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- TABLE OF DERIVATIONS
+  - [Sch. n8 para. 1](schedule/n8/paragraph/1.md)
