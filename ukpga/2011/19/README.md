@@ -2,9 +2,11 @@
 
 2011 c. 19. Enacted 2011-11-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2022-08-01, one file per provision. Earlier versions, from 2011-11-03, are in the history before it: `git log -- ukpga/2011/19` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-31, one file per provision. Earlier versions, from 2011-11-03, are in the history before it: `git log -- ukpga/2011/19` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/19/2022-08-01
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2011/19
+
+Source: https://www.legislation.gov.uk/ukpga/2011/19/2023-12-31
 
 ## Contents
 
