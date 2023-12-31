@@ -1,0 +1,133 @@
+# Pensions Act (Northern Ireland) 2012
+
+nia/2012/3. Enacted 2012-06-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2023-12-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2012/3
+
+Source: https://www.legislation.gov.uk/nia/2012/3/2023-12-31
+
+## Contents
+
+- Part 1 State Pension
+  - [s. 1 Equalisation of and increase in pensionable age for men and women](section/1.md)
+  - [s. 2 Duty to report on the impact of socio-economic background (including health indicators) in relation to retirement pension](section/2.md)
+  - [s. 3 Abolition of certain additions to the state pension](section/3.md)
+  - [s. 4 Consolidation of additional pension](section/4.md)
+- Part 2 Automatic Enrolment
+  - [s. 5 Automatic re-enrolment where scheme membership interrupted](section/5.md)
+  - [s. 6 Earnings trigger for automatic enrolment and re-enrolment](section/6.md)
+  - [s. 7 Postponement or disapplication of automatic enrolment](section/7.md)
+  - [s. 8 Timing of automatic re-enrolment](section/8.md)
+  - [s. 9 Review of earnings trigger and qualifying earnings band](section/9.md)
+  - [s. 10 Rounded figures for earnings trigger and qualifying earnings band](section/10.md)
+  - [s. 11 Qualifying schemes: administration charges](section/11.md)
+  - [s. 12 Test scheme standard for schemes that produce sum of money for provision of benefits](section/12.md)
+  - [s. 13 Certification that alternative to quality requirement is satisfied](section/13.md)
+  - [s. 14 Certification for non-UK schemes](section/14.md)
+  - [s. 15 Transitional period for defined benefits and hybrid schemes to be optional](section/15.md)
+  - [s. 16 Arrangements where transitional conditions cease to be satisfied](section/16.md)
+  - [s. 17 Power of managers to modify by resolution](section/17.md)
+  - [s. 18 No indemnification for civil penalties](section/18.md)
+  - [s. 19 Power to exempt certain cross-border employment from enrolment duty](section/19.md)
+- Part 3 Occupational Pension Schemes
+  - Indexation and revaluation
+    - [s. 20 Indexation and revaluation](section/20.md)
+    - [s. 21 Indexation requirements for cash balance benefits](section/21.md)
+  - Pension Protection Fund
+    - [s. 22 Pension Protection Fund](section/22.md)
+  - Miscellaneous
+    - [s. 23 Payment of surplus to employer: transitional power to amend scheme](section/23.md)
+    - [s. 24 Contribution notices and financial support directions](section/24.md)
+    - [s. 25 Technical amendment to Schedule 4 to the Pensions Act (Northern Ireland) 2008](section/25.md)
+    - [s. 26 Technical amendment to section 38(2) of the Pension Schemes (Northern Ireland) Act 1993](section/26.md)
+- Part 4 Money Purchase Benefits
+  - [s. 27 Definition of money purchase benefits](section/27.md)
+  - [s. 28 Transitional](section/28.md)
+  - [s. 29 Consequential and supplementary](section/29.md)
+  - [s. 30 Power to make further provision](section/30.md)
+  - [s. 31 Regulations](section/31.md)
+- Part 5 Miscellaneous and General
+  - Miscellaneous
+    - [s. 32 Grants by the Department to advisory bodies etc.](section/32.md)
+    - [s. 33 Service of documents and electronic working](section/33.md)
+  - General
+    - [s. 34 Commencement](section/34.md)
+    - [s. 35 Short title](section/35.md)
+- SCHEDULE 1 Equalisation of and increase in pensionable age for men and women: consequential amendments
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The Pensions (Northern Ireland) Order 1995 (NI 22)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - The Pensions Act (Northern Ireland) 2008 (c. 1)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Abolition of certain additions to the state pension: consequential amendments etc.
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Repeals of spent enactments
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Consolidation of additional pension
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Pension Protection Fund
+  - Requirements to obtain actuarial valuations
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Requirement to obtain protected benefits quotation
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Removal of restriction on transfer notices
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Assembly control of orders and regulations
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Pension credit members
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Postponement of compensation
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Pension compensation sharing: postponement of compensation
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - Calculation of compensation: admissible rules etc.
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
