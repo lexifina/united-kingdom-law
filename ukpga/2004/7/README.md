@@ -1,0 +1,250 @@
+# Gender Recognition Act 2004
+
+2004 c. 7. Enacted 2004-07-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
+
+Source: https://www.legislation.gov.uk/ukpga/2004/7/2024-01-01
+
+## Contents
+
+- Applications for gender recognition certificate
+  - [s. 1 Applications](section/1.md)
+  - [s. 2 Determination of applications](section/2.md)
+  - [s. 3 Evidence](section/3.md)
+  - [s. 3A Alternative grounds for granting applications](section/3A.md)
+  - [s. 3B Evidence for granting applications on alternative grounds](section/3B.md)
+  - [s. 3C Alternative grounds for granting applications: Scotland](section/3C.md)
+  - [s. 3D Evidence for granting applications on alternative grounds: Scotland](section/3D.md)
+  - [s. 3E Alternative grounds for granting applications: Scotland (English and Welsh and Northern Ireland residents)](section/3E.md)
+  - [s. 3F Evidence for granting applications on alternative grounds: Scotland (English and Welsh and Northern Ireland residents)](section/3F.md)
+  - [s. 4 Successful applications](section/4.md)
+- Issue of full certificate after interim certificate: applicant married or a civil partner
+  - [s. 4A Married person or civil partner with interim certificate: issue of full certificate](section/4A.md)
+  - [s. 4B Application under section 4A: death of spouse or civil partner](section/4B.md)
+  - [s. 4C Married person or civil partner with interim certificate: issue of full certificate (Scotland)](section/4C.md)
+  - [s. 4D Application under section 4C: death of spouse or civil partner](section/4D.md)
+  - [s. 4E Married person or civil partner with interim certificate: issue of full certificate on application to the sheriff (Scotland)](section/4E.md)
+  - [s. 4F Death of civil partner or spouse: issue of full certificate (Scotland)](section/4F.md)
+  - [s. 5 Issue of full certificates where applicant has been married](section/5.md)
+  - [s. 5A Issue of full certificates where applicant has been a civil partner](section/5A.md)
+- Other provision about applications and certificates
+  - [s. 5B Applications by both civil partners](section/5B.md)
+  - [s. 5C Protected Scottish civil partnership: applications by both civil partners](section/5C.md)
+  - [s. 5D Protected Scottish civil partnership: power to make further provision for issue of full certificate](section/5D.md)
+  - [s. 6 Errors](section/6.md)
+  - [s. 7 Applications: supplementary](section/7.md)
+  - [s. 8 Appeals etc.](section/8.md)
+- Consequences of issue of gender recognition certificate etc.
+  - [s. 9 General](section/9.md)
+  - [s. 10 Registration](section/10.md)
+  - [s. 11 Marriage](section/11.md)
+  - [s. 11A Change in gender of party to marriage](section/11A.md)
+  - [s. 11B Change in gender of civil partner](section/11B.md)
+  - [s. 11C Continuity of marriage: Scotland](section/11C.md)
+  - [s. 11D Continuity of civil partnership: Scotland](section/11D.md)
+  - [s. 12 Parenthood](section/12.md)
+  - [s. 13 Social security benefits and pensions](section/13.md)
+  - [s. 14 Discrimination](section/14.md)
+  - [s. 15 Succession etc.](section/15.md)
+  - [s. 16 Peerages etc.](section/16.md)
+  - [s. 17 Trustees and personal representatives](section/17.md)
+  - [s. 18 Orders where expectations defeated](section/18.md)
+  - [s. 19](section/19.md)
+  - [s. 20 Gender-specific offences](section/20.md)
+  - [s. 21 Foreign gender change and marriage](section/21.md)
+- Supplementary
+  - [s. 22 Prohibition on disclosure of information](section/22.md)
+  - [s. 23 Power to modify statutory provisions](section/23.md)
+  - [s. 24 Orders and regulations](section/24.md)
+  - [s. 25 Interpretation](section/25.md)
+  - [s. 26 Commencement](section/26.md)
+  - [s. 27 Applications within two years of commencement](section/27.md)
+  - [s. 28 Extent](section/28.md)
+  - [s. 29 Short title](section/29.md)
+- SCHEDULE 1 Gender Recognition Panels
+  - List of persons eligible to sit
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - President
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tenure of persons appointed to list
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Membership of Panels
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Procedure
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Staff and facilities
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Money
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 8A Delegation](schedule/1/paragraph/8A.md)
+  - Tribunals and Inquiries Act 1992
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Disqualification
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Interim certificates: marriage
+  - Part 1 England and Wales
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part 2 Scotland
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Part 3 Northern Ireland
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Registration
+  - Part 1 England and Wales
+    - Introductory
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Gender Recognition Register
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Entries in Gender Recognition Register and marking of existing birth register entries
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Indexing of entries in Gender Recognition Register
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Certified copies of entries in Gender Recognition Register
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Short certificates of birth compiled from Gender Recognition Register
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Gender Recognition Register: re-registration
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Correction etc. of Gender Recognition Register
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Revocation of gender recognition certificate etc.
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Evidence
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Regulatory reform
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Registration of marriages and civil partnerships
+      - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+  - Part 2 Scotland
+    - Introductory
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Gender Recognition Register
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Entries in Gender Recognition Register
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Indexing of entries in Gender Recognition Register
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Extracts of entries in Gender Recognition Register
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Abbreviated extracts of birth compiled from Gender Recognition Register
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Gender Recognition Register: correction, re-registration etc.
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Revocation of gender recognition certificate etc.
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Authentication and admissibility
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 20A](schedule/3/paragraph/20A.md)
+  - Part 3 Northern Ireland
+    - Introductory
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Gender Recognition Register
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Entries in Gender Recognition Register and marking of existing birth register entries
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Indexing of entries in Gender Recognition Register
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Certified copies of entries in Gender Recognition Register
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Short certificates of birth compiled from Gender Recognition Register
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Gender Recognition Register: re-registration
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Correction of errors in Gender Recognition Register
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Revocation of gender recognition certificate etc.
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - Change of name
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Evidence
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - Fees
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - Registration of marriages and civil partnerships
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+- SCHEDULE 4 Effect on marriage
+  - Part 1 England and Wales
+    - Marriage Act 1949 (c. 76)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 Scotland
+    - Marriage (Scotland) Act 1977 (c. 15)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Part 3 Northern Ireland
+    - Family Law (Miscellaneous Provisions) (Northern Ireland) Order 1984 (S.I. 1984/1984 (N.I. 14))
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Matrimonial Causes (Northern Ireland) Order 1978 (S.I. 1978/1045 (N.I. 15))
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Benefits and pensions
+  - Part 1 Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Part 2 State benefits
+    - Introductory
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Widowed mother’s allowance
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Widow’s pension
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Widowed parent’s allowance
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Long-term incapacity benefit etc.
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Pension under Part 1 of the Pensions Act 2014
+      - [Sch. 5 para. 6A](schedule/5/paragraph/6A.md)
+    - Pension under Part 1 of the Pensions Act (Northern Ireland) 2015
+      - [Sch. 5 para. 6B](schedule/5/paragraph/6B.md)
+    - Category A retirement pension
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Category B retirement pension etc.
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Shared additional pension
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Deferment of pensions
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - ...
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Graduated retirement benefit: Great Britain
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Graduated retirement benefit: Northern Ireland
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Part 3 Occupational pension schemes
+    - Guaranteed minimum pensions etc.: Great Britain
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Guaranteed minimum pensions etc.: Northern Ireland
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Equivalent pension benefits: Great Britain
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Equivalent pension benefits: Northern Ireland
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Sex discrimination
+  - Part 1 Great Britain
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Part 2 Northern Ireland
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
