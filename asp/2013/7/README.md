@@ -1,0 +1,158 @@
+# Aquaculture and Fisheries (Scotland) Act 2013
+
+asp/2013/7. Enacted 2013-06-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2013/7
+
+Source: https://www.legislation.gov.uk/asp/2013/7/2024-01-01
+
+## Contents
+
+- PART 1 Aquaculture
+  - CHAPTER 1 Fish farm management
+    - [s. 1 Fish farm management agreements and statements](section/1.md)
+    - [s. 2 Escapes, and obtaining samples, from fish farms](section/2.md)
+  - CHAPTER 2 Fish farming: equipment and wellboats
+    - Equipment
+      - [s. 3 Technical requirements for equipment used in fish farming](section/3.md)
+    - Wellboats
+      - [s. 4 Meaning of “wellboat”](section/4.md)
+      - [s. 5 Control and monitoring of operations of wellboats](section/5.md)
+      - [s. 6 Enforcement notices](section/6.md)
+      - [s. 7 Marine enforcement officers’ functions](section/7.md)
+      - [s. 8 Power to detain wellboats in connection with court proceedings](section/8.md)
+      - [s. 9 Release of wellboat detained under section 8](section/9.md)
+      - [s. 10 Power of sheriff to order release of wellboats](section/10.md)
+  - CHAPTER 3 Commercially damaging species
+    - Orders relating to commercially damaging species
+      - [s. 11 Specification of commercially damaging species](section/11.md)
+      - [s. 12 Movement of species, etc.](section/12.md)
+      - [s. 13 Orders under section 12(1): samples and surveillance](section/13.md)
+      - [s. 14 Offences relating to persons appointed under section 13](section/14.md)
+      - [s. 15 Notification of presence of commercially damaging species](section/15.md)
+    - Control
+      - [s. 16 Control agreements](section/16.md)
+      - [s. 17 Control schemes](section/17.md)
+      - [s. 18 Emergency action notices](section/18.md)
+      - [s. 19 Appeals in connection with emergency action notices](section/19.md)
+    - Powers
+      - [s. 20 Power to enter fish farms, shellfish farms, etc.](section/20.md)
+    - Offences
+      - [s. 21 Offences in relation to control agreements, control schemes, etc.](section/21.md)
+    - Interpretation of Chapter 3
+      - [s. 22 Interpretation of Chapter 3](section/22.md)
+  - CHAPTER 4 Planning permission
+    - [s. 23 Planning permission for marine fish farms](section/23.md)
+- PART 2 Salmon fisheries, etc.
+  - Governance
+    - [s. 24 District salmon fishery boards: openness and accountability](section/24.md)
+    - [s. 25 Duty to consult and report before making certain applications](section/25.md)
+  - Management
+    - [s. 26 Carcass tagging](section/26.md)
+    - [s. 27 Powers to take fish or samples for analysis, etc.](section/27.md)
+    - [s. 28 Power of Scottish Ministers to conduct inquiries and obtain information](section/28.md)
+    - [s. 29 Monitoring and evaluation of the effects of orders, etc.](section/29.md)
+    - [s. 30 Power to vary procedures for orders, etc. relating to certain fisheries](section/30.md)
+    - [s. 31 Offence of fishing for salmon during annual close time](section/31.md)
+    - [s. 32 Consents for introduction of fish into inland waters](section/32.md)
+    - [s. 33 Offences exempted by permission or consent: power to attach conditions, etc.](section/33.md)
+  - Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003: Crown application
+    - [s. 34 Application of the Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 to the Crown](section/34.md)
+- PART 3 Sea fisheries
+  - Enforcement of sea fisheries legislation
+    - [s. 35 Powers of British sea-fishery officers to enforce sea fisheries legislation](section/35.md)
+  - Detention of vessels in connection with court proceedings
+    - [s. 36 Power to detain vessels in connection with court proceedings](section/36.md)
+    - [s. 37 Release of vessel detained under section 36](section/37.md)
+    - [s. 38 Power of sheriff to order release of vessels](section/38.md)
+  - Inspection and seizure of objects used in commercial sea fishing
+    - [s. 39 Power to inspect and seize objects](section/39.md)
+    - [s. 40 Reports of inspections under section 39](section/40.md)
+    - [s. 41 Retention of objects seized under section 39(3)](section/41.md)
+    - [s. 42 Disposal of objects seized under section 39](section/42.md)
+  - Retention and disposal of property seized by BSFOs
+    - [s. 43 Retention of property seized by British sea-fishery officers](section/43.md)
+    - [s. 44 Power of Scottish Ministers to sell seized fish in their possession](section/44.md)
+    - [s. 45 Disposal of property retained by Scottish Ministers under section 43](section/45.md)
+  - Forfeiture
+    - [s. 46 Forfeiture of prohibited items](section/46.md)
+    - [s. 47 Forfeiture of fish failing to meet size requirements](section/47.md)
+    - [s. 48 Further provision about forfeiture under section 46 or 47](section/48.md)
+  - Inshore sea fishing
+    - [s. 49 Contravention of orders prohibiting inshore sea fishing](section/49.md)
+    - [s. 50 Powers of entry](section/50.md)
+  - Enforcement of EU rules
+    - [s. 51 Modification of the Fisheries Act 1981: enforcement of EU rules](section/51.md)
+  - Supplementary
+    - [s. 52 Conclusion of proceedings](section/52.md)
+    - [s. 53 Interpretation of Part 3](section/53.md)
+- PART 4 Shellfish
+  - Protection of shellfish waters
+    - [s. 54 Protection and improvement of shellfish waters](section/54.md)
+  - Orders as to fisheries for shellfish
+    - [s. 55 Power to make orders as to fisheries for shellfish](section/55.md)
+    - [s. 56 Contravention of regulated fishery orders](section/56.md)
+    - [s. 57 Enforcement of orders: powers of entry](section/57.md)
+    - [s. 58 Power to appoint inspectors before making orders as to fisheries for shellfish](section/58.md)
+- PART 5 Miscellaneous
+  - Charging
+    - [s. 59 Power to charge in connection with fisheries functions](section/59.md)
+  - Fixed penalty notices
+    - [s. 60 Fixed penalty notices](section/60.md)
+    - [s. 61 Fixed penalty notices and civil sanctions under the Marine (Scotland) Act 2010](section/61.md)
+- PART 6 General
+  - [s. 62 Subordinate legislation](section/62.md)
+  - [s. 63 Interpretation](section/63.md)
+  - [s. 64 Ancillary provision](section/64.md)
+  - [s. 65 Crown application](section/65.md)
+  - [s. 66 Commencement](section/66.md)
+  - [s. 67 Short title](section/67.md)
+- SCHEDULE 1 Commercially damaging species: control schemes
+  - Making a control scheme: procedure
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Variation or revocation of a control scheme: procedure
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Objections
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Making, varying or revoking a control scheme: notices
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Validity of control schemes
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Appeals
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Forfeiture under section 46 or 47
+  - Application of schedule
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Notice of intended forfeiture
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Notice of claim
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Automatic forfeiture in a case where no claim is made
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Decision whether to apply for order forfeiting property
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Return of property if no application made to the sheriff
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Forfeiture applications
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Appeal against sheriff’s decision on forfeiture application
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Effect of forfeiture
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Disposal of property which is not returned
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Provisions as to proof
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Power to destroy fish before forfeiture
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Power to return shellfish to the sea before forfeiture
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
