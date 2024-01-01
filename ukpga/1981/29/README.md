@@ -1,0 +1,161 @@
+# Fisheries Act 1981
+
+1981 c. 29. Enacted 1981-07-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/29
+
+Source: https://www.legislation.gov.uk/ukpga/1981/29/2024-01-01
+
+## Contents
+
+- Part I The Sea Fish Industry Authority
+  - Constitution, duties and powers
+    - [s. 1 Constitution of the Authority.](section/1.md)
+    - [s. 2 Duties of the Authority.](section/2.md)
+    - [s. 3 Powers of the Authority.](section/3.md)
+  - Financial provisions
+    - [s. 4 Levies.](section/4.md)
+    - [s. 5 Records and information for levy purposes.](section/5.md)
+    - [s. 6 Borrowing powers.](section/6.md)
+    - [s. 7 Government loans.](section/7.md)
+    - [s. 8 Government grants.](section/8.md)
+    - [s. 9 Government guarantees.](section/9.md)
+    - [s. 10 Investment of reserve funds.](section/10.md)
+  - Supplementary
+    - [s. 11 Accounts and reports.](section/11.md)
+    - [s. 12 Restriction on disclosure of information.](section/12.md)
+    - [s. 13 Abolition of White Fish Authority and Herring Industry Board.](section/13.md)
+    - [s. 14 Interpretation of Part I.](section/14.md)
+- Part II Financial Assistance for Sea Fish Industry
+  - [s. 15 Schemes of financial assistance.](section/15.md)
+  - [s. 16 Administration of schemes by Sea Fish Industry Authority.](section/16.md)
+  - [s. 17 Offences in connection with schemes.](section/17.md)
+  - [s. 18 Interpretation of Part II.](section/18.md)
+  - [s. 18A](section/18A.md)
+- Part III Regulation of Sea Fishing
+  - [s. 19 Size limits for fish.](section/19.md)
+  - [s. 20 Licensing of fishing boats.](section/20.md)
+  - [s. 21 Licensing of vessels receiving trans-shipped fish.](section/21.md)
+  - [s. 22 Power to restrict sea fishing.](section/22.md)
+  - [s. 23 Prohibition of trans-shipment of sea fish.](section/23.md)
+  - [s. 24 Penalties for offences.](section/24.md)
+  - [s. 25 Enforcement of Act of 1967.](section/25.md)
+  - [s. 26 British sea-fishery officers.](section/26.md)
+  - [s. 27 Enforcement of provisions as to trans-shipment.](section/27.md)
+  - [s. 28 Offences by bodies corporate.](section/28.md)
+  - [s. 29 Jurisdiction.](section/29.md)
+  - [s. 30 Enforcement of rules relating to sea fishing.](section/30.md)
+- Part IV Fish Farming
+  - [s. 31 Financial assistance.](section/31.md)
+  - [s. 32 Research, development and advice.](section/32.md)
+  - [s. 33 Exclusion of offences under conservation legislation.](section/33.md)
+  - [s. 34 Structures for propagating or cultivating shellfish.](section/34.md)
+- Part V Miscellaneous and Supplementary
+  - [s. 35 Regulation of whaling.](section/35.md)
+  - [s. 36 Landing etc. of whales in Scotland.](section/36.md)
+  - [s. 37 Import of live fish.](section/37.md)
+  - [s. 38 Fisheries offences on River Tweed.](section/38.md)
+  - [s. 39 Reports on fisheries.](section/39.md)
+  - [s. 40 Fishery protection in waters adjacent to Northern Ireland.](section/40.md)
+  - [s. 41 Orders ....](section/41.md)
+  - [s. 42 Offences by bodies corporate.](section/42.md)
+  - [s. 43 Financial provisions.](section/43.md)
+  - [s. 44 General interpretation.](section/44.md)
+  - [s. 45 Amendment of section 22(2) of Sea Fish (Conservation) Act 1967.](section/45.md)
+  - [s. 46 Short title, repeals, commencement and extent.](section/46.md)
+- SCHEDULE 1 The Sea Fish Industry Authority
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Officers and servants
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Proceedings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Execution of instruments etc.
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Sea Fish Industry Levies
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 White Fish Authority and Herring Industry Board: Consequential Provisions
+  - General
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Staff and pensions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Schemes of financial assistance
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Levies
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Lending limit
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Accounts
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Other statutory functions
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Exemptions for Fish Farming
+  - Part I Offences to Which Section 33(1) of This Act Applies
+    - Offences under the Salmon and Freshwater Fisheries Act 1975
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Offences against byelaws relating to salmon and other freshwater fishing
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Offences relating to sea fishing
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 17A](schedule/4/paragraph/17A.md)
+      - [Sch. 4 para. 17B](schedule/4/paragraph/17B.md)
+      - [Sch. 4 para. 17C](schedule/4/paragraph/17C.md)
+  - Part II Offences to which section 33(5) of this Act Applies
+    - Offences relating to freshwater fish and salmon
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Offences relating to sea fishing
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 34A](schedule/4/paragraph/34A.md)
+- SCHEDULE 5 Repeals
+  - Part I White Fish Authority and Herring Industry Board
+  - Part II Miscellaneous
