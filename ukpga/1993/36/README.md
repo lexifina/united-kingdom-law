@@ -1,0 +1,208 @@
+# Criminal Justice Act 1993
+
+1993 c. 36. Enacted 1993-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/36
+
+Source: https://www.legislation.gov.uk/ukpga/1993/36/2024-01-01
+
+## Contents
+
+- PART I JURISDICTION
+  - [s. 1 Offences to which this Part applies.](section/1.md)
+  - [s. 2 Jurisdiction in respect of Group A offences.](section/2.md)
+  - [s. 3 Questions immaterial to jurisdiction in the case of certain offences.](section/3.md)
+  - [s. 4 Rules for determining certain jurisdictional questions relating to the location of events.](section/4.md)
+  - [s. 5 Conspiracy, attempt and incitement.](section/5.md)
+  - [s. 6 Relevance of external law.](section/6.md)
+- Part II DRUG TRAFFICKING OFFENCES
+  - Confiscation orders
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+  - Death or absence of defendant
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+  - Offences
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 Acquisition, possession or use of proceeds of drug trafficking: Scotland.](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Offences in connection with laundering money from drug trafficking: Scotland.](section/19.md)
+    - [s. 20 Prosecution by order of the Commissioners of Customs and Excise.](section/20.md)
+  - Enforcement
+    - [s. 21 Enforcement of certain orders.](section/21.md)
+    - [s. 22 Enforcement of Northern Ireland orders: drug trafficking.](section/22.md)
+    - [s. 23 Transfer of certain enforcement powers to the Commissioners of Customs and Excise.](section/23.md)
+  - Miscellaneous
+    - [s. 24 Miscellaneous amendments.](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Disclosure of information etc. received in privileged circumstances.](section/26.md)
+- Part III PROCEEDS OF CRIMINAL CONDUCT
+  - Confiscation orders
+    - [s. 27 Confiscation orders.](section/27.md)
+    - [s. 28 Postponed determinations.](section/28.md)
+  - Money laundering and other offences
+    - [s. 29 Assisting another to retain the benefit of criminal conduct.](section/29.md)
+    - [s. 30 Acquisition, possession or use of proceeds of criminal conduct.](section/30.md)
+    - [s. 31 Concealing or transferring proceeds of criminal conduct.](section/31.md)
+    - [s. 32 Tipping-off.](section/32.md)
+    - [s. 33 Application to Scotland of sections 93A to 93D of 1988 Act.](section/33.md)
+    - [s. 34 Enforcement of Northern Ireland orders: proceeds of criminal conduct.](section/34.md)
+    - [s. 35 Prosecution by order of the Commissioners of Customs and Excise.](section/35.md)
+- Part IV FINANCING ETC. OF TERRORISM
+  - Amendments of the 1991 Act
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+  - Amendments of the 1989 Act
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+- Part V INSIDER DEALING
+  - The offence of insider dealing
+    - [s. 52 The offence.](section/52.md)
+    - [s. 53 Defences.](section/53.md)
+  - Interpretation
+    - [s. 54 Securities to which Part V applies.](section/54.md)
+    - [s. 55 “Dealing” in securities.](section/55.md)
+    - [s. 56 “Inside information”, etc.](section/56.md)
+    - [s. 57 “Insiders”.](section/57.md)
+    - [s. 58 Information “made public”.](section/58.md)
+    - [s. 59 “Professional intermediary”.](section/59.md)
+    - [s. 60 Other interpretation provisions.](section/60.md)
+  - Miscellaneous
+    - [s. 61 Penalties and prosecution.](section/61.md)
+    - [s. 61A Summary proceedings: venue and time limit for proceedings](section/61A.md)
+    - [s. 62 Territorial scope of offence of insider dealing.](section/62.md)
+    - [s. 63 Limits on section 52.](section/63.md)
+    - [s. 64 Orders.](section/64.md)
+- Part VI MISCELLANEOUS
+  - [s. 65 Fixing of fines.](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 Penalty for causing death by dangerous driving or by careless driving.](section/67.md)
+  - [s. 68 ................................](section/68.md)
+  - [s. 69 ................................](section/69.md)
+  - [s. 70 Penalties under implementation regulations.](section/70.md)
+  - [s. 71 Offences in connection with taxation etc. in the European Union.](section/71.md)
+  - [s. 72 Backing of warrants: safeguards.](section/72.md)
+  - [s. 73 Power of Secretary of State to make grants in relation to combating drug misuse.](section/73.md)
+  - [s. 74 Persons not eligible for early release.](section/74.md)
+  - [s. 75 Compassionate release of certain children and other persons in Scotland.](section/75.md)
+  - [s. 76 Life prisoners transferred to Scotland.](section/76.md)
+  - [s. 77 Power to extend certain offences to Crown servants and to exempt regulators etc.](section/77.md)
+- PART VII SUPPLEMENTARY
+  - [s. 78 Commencement etc.](section/78.md)
+  - [s. 79 Short title, extent etc.](section/79.md)
+- SCHEDULE 1 Special defences
+  - Market makers
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Market information
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Buy-back programmes and stabilisation
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2
+  - PART1 Securities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - PART2 Interpretation
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Financial penalties
+  - Increases in certain maximum fines
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Statements as to offenders’ financial circumstances
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Remission of fines
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Default in paying unit fines
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Responsibility of parents and guardians
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Other amendments
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- Schedule 4 Extensions and Exemptions
+  - The Drug Trafficking Offences Act 1986 (c.32)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Criminal Justice (Scotland) Act 1987 (c.41)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Criminal Justice Act 1988 (c.33)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Criminal Justice (International Co-operation) Act 1990 (c.5)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Northern Ireland (Emergency Provisions) Act 1991 (c.24)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Consequential Amendments
+  - Part I Enactments
+    - The Criminal Appeal Act 1968 (c.19)
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - The Criminal Procedure (Scotland) Act 1975 (c. 21)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - The Criminal Appeal (Northern Ireland) Act 1980 (c.47)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - The Companies Act 1985 (c.6)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - The Drug Trafficking Offences Act 1986 (c.32)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - The Financial Services Act 1986 (c.60)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - The Banking Act 1987 (c.22)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - The Criminal Justice Act 1988 (c.33)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - The Companies Act 1989 (c.40)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - The Northern Ireland (Emergency Provisions) Act 1991 (c.24)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Part II Orders in Council under the Northern Ireland Act 1974
+    - The Companies (Northern Ireland) Order 1986 (Statutory InstrumentS.I. 1986/1032 (N.I.6))
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - The Companies (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2404 (N.I.18))
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - The Insolvency (Northern Ireland) Order 1989 (Statutory InstrumentS.I. 1989/2405 (N.I. 19))
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+- SCHEDULE 6 Repeals and Revocations
+  - Part I Repeals
+  - Part II Revocations
