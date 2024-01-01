@@ -2,9 +2,9 @@
 
 2013 c. 33. Enacted 2013-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-31, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2013-12-18, are in the history before it: `git log -- ukpga/2013/33` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-12-31
+Source: https://www.legislation.gov.uk/ukpga/2013/33/2024-01-01
 
 ## Contents
 
@@ -157,6 +157,7 @@ Source: https://www.legislation.gov.uk/ukpga/2013/33/2023-12-31
     - [s. 105 Independent inquiries](section/105.md)
     - [s. 106 Investigations into regulatory failure](section/106.md)
     - [s. 107 Competition scrutiny](section/107.md)
+    - [s. 107A International trade obligations](section/107A.md)
   - Miscellaneous and supplemental
     - [s. 108 Relationship with Part 8 of the Payment Services Regulations 2017](section/108.md)
     - [s. 109 Exemption from liability in damages for FCA and PRA](section/109.md)
