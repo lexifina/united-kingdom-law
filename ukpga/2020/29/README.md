@@ -1,0 +1,241 @@
+# European Union (Future Relationship) Act 2020
+
+2020 c. 29. Enacted 2020-12-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2020/29/2024-01-01
+
+## Contents
+
+- PART 1 Security
+  - Criminal records
+    - [s. 1 Duty to notify member States of convictions](section/1.md)
+    - [s. 2 Retention of information received from member States](section/2.md)
+    - [s. 3 Transfers to third countries of personal data notified under section 2](section/3.md)
+    - [s. 4 Requests for information from member States](section/4.md)
+    - [s. 5 Requests for information made by member States](section/5.md)
+    - [s. 6 Interpretation of the criminal records provisions](section/6.md)
+  - Passenger and vehicle registration data
+    - [s. 7 Passenger name record data](section/7.md)
+    - [s. 8 Disclosure of vehicle registration data](section/8.md)
+  - Evidence
+    - [s. 9 Mutual assistance in criminal matters](section/9.md)
+    - [s. 10 Accreditation of forensic service providers](section/10.md)
+  - Extradition
+    - [s. 11 Member States to remain category 1 territories](section/11.md)
+    - [s. 12 Dual criminality](section/12.md)
+    - [s. 13 Category 1 territories not applying Trade and Cooperation Agreement to old cases](section/13.md)
+- PART 2 Trade and other matters
+  - Information about non-food product safety
+    - [s. 14 Disclosure of non-food product safety information within UK](section/14.md)
+    - [s. 15 Disclosure of non-food product safety information to Commission](section/15.md)
+    - [s. 16 Offence relating to disclosure under section 14(4)(b)](section/16.md)
+    - [s. 17 General provisions about disclosure of non-food product safety information](section/17.md)
+    - [s. 18 Interpretation of sections 14 to 17](section/18.md)
+  - Use of relevant international standards
+    - [s. 19 Use of relevant international standards](section/19.md)
+  - Customs and tax
+    - [s. 20 Disclosure of information and co-operation with other customs services](section/20.md)
+    - [s. 21 Powers to make regulations about movement of goods](section/21.md)
+    - [s. 22 Administrative co-operation on VAT and mutual assistance on tax debts](section/22.md)
+  - Transport
+    - [s. 23 Licences for access to the international road haulage market](section/23.md)
+    - [s. 24 International road haulage](section/24.md)
+    - [s. 25 Disclosure of data relating to drivers’ cards for tachographs](section/25.md)
+  - Social security
+    - [s. 26 Social security co-ordination](section/26.md)
+  - Privileges and immunities
+    - [s. 27 The EU and Euratom and related organisations and bodies](section/27.md)
+  - Energy
+    - [s. 28 Nuclear Cooperation Agreement](section/28.md)
+- PART 3 General implementation
+  - General implementation of agreements
+    - [s. 29 General implementation of agreements](section/29.md)
+    - [s. 30 Interpretation of agreements](section/30.md)
+  - Powers
+    - [s. 31 Implementation power](section/31.md)
+    - [s. 32 Powers relating to the start of agreements](section/32.md)
+    - [s. 33 Powers relating to the functioning of agreements](section/33.md)
+  - Financial provision
+    - [s. 34 Funding of PEACE PLUS programme](section/34.md)
+    - [s. 35 General financial provision](section/35.md)
+  - Parliamentary scrutiny
+    - [s. 36 Requirements in Part 2 of CRAGA](section/36.md)
+- PART 4 Supplementary and final provision
+  - Supplementary
+    - [s. 37 Interpretation](section/37.md)
+    - [s. 38 Regulations](section/38.md)
+    - [s. 39 Consequential and transitional provision etc.](section/39.md)
+  - Final
+    - [s. 40 Extent, commencement and short title](section/40.md)
+- SCHEDULE 1 Information to be included in notification of conviction
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Information about the individual
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Information about the conviction
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Passenger name record data
+  - PART 1 Amendments to the PNR regulations
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - PART 2 Interim period: modifications for restricted EU PNR data that is subject to deletion
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - PART 3 Sea and rail travel: power to modify PNR regulations etc.
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3 Mutual assistance in criminal matters
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Application of the 2003 Act to member States
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Customer information orders in relation to safe deposit boxes
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Miscellaneous
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Technical barriers to trade: use of relevant international standards
+  - Amendments of subordinate legislation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Amendments of retained direct EU legislation
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 Regulations under this Act
+  - PART 1 Procedure
+    - Criminal records
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Passenger name record data
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Administrative co-operation on VAT and mutual assistance on tax debts
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Implementation power: before IP completion day
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Implementation power: on or after IP completion day
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Powers relating to the start of agreements
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Powers relating to the functioning of agreements
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Implementation and other powers: certain urgent cases
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Consequential provision
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 2 General restrictions on certain powers of devolved authorities
+    - No power to make provision outside devolved competence
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Requirement for consent where it would otherwise be required
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Requirement for joint exercise where it would otherwise be required
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Requirement for consultation where it would otherwise be required
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Meaning of devolved competence
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - PART 3 General provision about powers under Act
+    - Scope and nature of powers: general
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Anticipatory exercise of powers in relation to future relationship agreements etc.
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Scope of appointed day power
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - Disapplication of certain review provisions
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Hybrid instruments
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Procedure on re-exercise of certain powers
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Combinations of instruments
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+- SCHEDULE 6 Consequential and transitional provision etc.
+  - PART 1 Consequential provision
+    - ...
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - ...
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - ...
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - European Union (Withdrawal) Act 2018
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - PART 2 Transitional, transitory and saving provision
+    - Passenger name record data
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Extradition
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - “relevant criminal offence”
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Powers of devolved authorities in relation to EU law
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Modifications of subordinate legislation
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
