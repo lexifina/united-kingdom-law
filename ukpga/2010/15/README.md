@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-31, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2023-12-31
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-01-01
 
 ## Contents
 
@@ -32,6 +32,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2023-12-31
       - [s. 17 Pregnancy and maternity discrimination: non-work cases](section/17.md)
       - [s. 18 Pregnancy and maternity discrimination: work cases](section/18.md)
       - [s. 19 Indirect discrimination](section/19.md)
+      - [s. 19A Indirect discrimination: same disadvantage](section/19A.md)
     - Adjustments for disabled persons
       - [s. 20 Duty to make adjustments](section/20.md)
       - [s. 21 Failure to comply with duty](section/21.md)
@@ -95,8 +96,9 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2023-12-31
     - Local authority members
       - [s. 58 Official business of members](section/58.md)
       - [s. 59 Interpretation](section/59.md)
-    - Recruitment
+    - Recruitment etc
       - [s. 60 Enquiries about disability and health](section/60.md)
+      - [s. 60A Discriminatory statements](section/60A.md)
   - Chapter 2 Occupational pension schemes
     - [s. 61 Non-discrimination rule](section/61.md)
     - [s. 62 Non-discrimination alterations](section/62.md)
@@ -326,6 +328,8 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2023-12-31
       - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
     - Effect of medical treatment
       - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Normal day-to-day activities
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
     - Certain medical conditions
       - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
     - Deemed disability
