@@ -2,9 +2,9 @@
 
 2022 c. 30. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-10-01, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/30/2023-10-01
+Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-01-01
 
 ## Contents
 
@@ -453,24 +453,24 @@ Source: https://www.legislation.gov.uk/ukpga/2022/30/2023-10-01
   - [Sch. 11 para. 1 Introductory](schedule/11/paragraph/1.md)
   - [Sch. 11 para. 2 General safety requirements](schedule/11/paragraph/2.md)
   - [Sch. 11 para. 3 Construction products with designated standards or technical assessments](schedule/11/paragraph/3.md)
-  - [Sch. 11 para. 4 Construction products with designated standards or technical assessments](schedule/11/paragraph/4.md)
-  - [Sch. 11 para. 5 Construction products with designated standards or technical assessments](schedule/11/paragraph/5.md)
-  - [Sch. 11 para. 6 Construction products with designated standards or technical assessments](schedule/11/paragraph/6.md)
-  - [Sch. 11 para. 7 Construction products with designated standards or technical assessments](schedule/11/paragraph/7.md)
-  - [Sch. 11 para. 8 Construction products with designated standards or technical assessments](schedule/11/paragraph/8.md)
-  - [Sch. 11 para. 9 Construction products with designated standards or technical assessments](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
   - [Sch. 11 para. 10 Safety-critical products](schedule/11/paragraph/10.md)
-  - [Sch. 11 para. 11 Safety-critical products](schedule/11/paragraph/11.md)
-  - [Sch. 11 para. 12 Safety-critical products](schedule/11/paragraph/12.md)
-  - [Sch. 11 para. 13 Safety-critical products](schedule/11/paragraph/13.md)
-  - [Sch. 11 para. 14 Safety-critical products](schedule/11/paragraph/14.md)
+  - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
   - [Sch. 11 para. 15 Enforcement](schedule/11/paragraph/15.md)
   - [Sch. 11 para. 16 Costs](schedule/11/paragraph/16.md)
   - [Sch. 11 para. 17 Information](schedule/11/paragraph/17.md)
-  - [Sch. 11 para. 18 Information](schedule/11/paragraph/18.md)
-  - [Sch. 11 para. 19 Information](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
   - [Sch. 11 para. 20 General and supplementary](schedule/11/paragraph/20.md)
-  - [Sch. 11 para. 21 General and supplementary](schedule/11/paragraph/21.md)
-  - [Sch. 11 para. 22 General and supplementary](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
   - [Sch. 11 para. 23 Procedure](schedule/11/paragraph/23.md)
   - [Sch. 11 para. 24 Interpretation](schedule/11/paragraph/24.md)
