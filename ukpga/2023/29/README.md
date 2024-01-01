@@ -2,15 +2,15 @@
 
 2023 c. 29. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-31, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-12-31
+Source: https://www.legislation.gov.uk/ukpga/2023/29/2024-01-01
 
 ## Contents
 
 - PART 1 Regulatory framework
-  - CHAPTER 1 Revocation of retained EU law
-    - [s. 1 Revocation of retained EU law relating to financial services and markets](section/1.md)
+  - CHAPTER 1 Revocation of assimilated law
+    - [s. 1 Revocation of assimilated law relating to financial services and markets](section/1.md)
     - [s. 2 Transitional amendments](section/2.md)
     - [s. 3 Power to make further transitional amendments](section/3.md)
     - [s. 4 Power to restate and modify saved legislation](section/4.md)
@@ -124,8 +124,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2023-12-31
   - [s. 85 Extent](section/85.md)
   - [s. 86 Commencement](section/86.md)
   - [s. 87 Short title](section/87.md)
-- SCHEDULE 1 Revocation of retained EU law relating to financial services
-  - PART 1 Retained direct principal EU legislation
+- SCHEDULE 1 Revocation of assimilated law relating to financial services
+  - PART 1 Assimilated direct principal legislation
   - PART 2 Subordinate legislation
   - PART 3 EU tertiary legislation etc
   - PART 4 Primary legislation
