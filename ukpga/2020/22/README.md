@@ -1,0 +1,412 @@
+# Fisheries Act 2020
+
+2020 c. 22. Enacted 2020-11-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2020/22/2024-01-01
+
+## Contents
+
+- Fisheries objectives, fisheries statements and fisheries management plans
+  - [s. 1 Fisheries objectives](section/1.md)
+  - [s. 2 Joint fisheries statement](section/2.md)
+  - [s. 3 Joint fisheries statement: procedure](section/3.md)
+  - [s. 4 Secretary of State fisheries statement](section/4.md)
+  - [s. 5 Secretary of State fisheries statement: procedure](section/5.md)
+  - [s. 6 Fisheries management plans: duty to comply with proposals in JFS](section/6.md)
+  - [s. 7 Fisheries management plans: power to depart from proposals in JFS](section/7.md)
+  - [s. 8 Fisheries management plans: procedure](section/8.md)
+  - [s. 9 Fisheries management plans: transitional provision](section/9.md)
+  - [s. 10 Effect of fisheries statements and fisheries management plans](section/10.md)
+  - [s. 11 Reports on fisheries statements and fisheries management plans](section/11.md)
+- Access to British fisheries and regulation of foreign fishing boats
+  - [s. 12 Access to British fisheries by foreign fishing boats](section/12.md)
+  - [s. 13 Regulation of foreign fishing boats](section/13.md)
+- Licensing of fishing boats
+  - [s. 14 British fishing boats required to be licensed](section/14.md)
+  - [s. 15 Power to grant licences in respect of British fishing boats](section/15.md)
+  - [s. 16 Foreign fishing boats required to be licensed if within British fishery limits](section/16.md)
+  - [s. 17 Power to grant licences in respect of foreign fishing boats](section/17.md)
+  - [s. 18 Further provision about licences](section/18.md)
+- Access and licensing: offences and consequential amendments
+  - [s. 19 Penalties for offences](section/19.md)
+  - [s. 20 Offences by bodies corporate etc](section/20.md)
+  - [s. 21 Jurisdiction of court to try offences](section/21.md)
+  - [s. 22 Minor and consequential amendments](section/22.md)
+- Fishing opportunities
+  - [s. 23 Power of Secretary of State to determine fishing opportunities](section/23.md)
+  - [s. 24 Duties relating to a determination of fishing opportunities](section/24.md)
+  - [s. 25 Distribution of fishing opportunities](section/25.md)
+  - [s. 26 Duties to ensure fishing opportunities not exceeded](section/26.md)
+  - [s. 27 Sale of English fishing opportunities](section/27.md)
+- Discard prevention charging schemes
+  - [s. 28 Discard prevention charging schemes](section/28.md)
+  - [s. 29 Meaning of “chargeable person” and “unauthorised catch of sea fish”](section/29.md)
+  - [s. 30 Catches subject to a charge ignored for certain regulatory purposes](section/30.md)
+  - [s. 31 Charge collectors](section/31.md)
+  - [s. 32 Discard prevention charging schemes: supplementary provision](section/32.md)
+- Grants and charges
+  - [s. 33 Financial assistance: powers of Secretary of State](section/33.md)
+  - [s. 34 Charges: powers of Marine Management Organisation](section/34.md)
+  - [s. 35 Sea Fish Industry Authority: fees for services provided for industry in EU](section/35.md)
+- Powers to make further provision
+  - [s. 36 Power to make provision about fisheries, aquaculture etc](section/36.md)
+  - [s. 37 Section 36: interpretation](section/37.md)
+  - [s. 38 Power to make provision about aquatic animal diseases](section/38.md)
+  - [s. 39 Scope of regulations under section 36 or 38](section/39.md)
+  - [s. 40 Scope of regulations under section 36 or 38 where consent obtained](section/40.md)
+  - [s. 41 Procedural requirements for regulations under section 36 or 38](section/41.md)
+  - [s. 42 Powers of Scottish Ministers, Welsh Ministers and NI department](section/42.md)
+- Miscellaneous
+  - [s. 43 Agency arrangements between sea fish licensing authorities](section/43.md)
+  - [s. 44 Foreign fishing boats that are exclusively Faroe Islands-regulated](section/44.md)
+  - [s. 45 Legislative competence of Senedd Cymru](section/45.md)
+  - [s. 46 Interpretation of Welsh legislation](section/46.md)
+  - [s. 47 Conservation of Seals](section/47.md)
+  - [s. 48 Amendments of the Marine and Coastal Access Act 2009](section/48.md)
+  - [s. 49 Retained direct EU legislation: minor and consequential amendments](section/49.md)
+- Final provisions
+  - [s. 50 Amendments that could have been made under existing powers](section/50.md)
+  - [s. 51 Regulations](section/51.md)
+  - [s. 52 Interpretation](section/52.md)
+  - [s. 53 Extent](section/53.md)
+  - [s. 54 Commencement](section/54.md)
+  - [s. 55 Short title](section/55.md)
+- SCHEDULE 1 Fisheries statements and management plans: preparation and publication
+  - PART 1 Joint fisheries statement
+    - Introductory
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Consultation
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Requirement to lay consultation draft before appropriate legislature
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Publication of the relevant document
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - PART 2 Secretary of State fisheries statement
+    - Introductory
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Consultation
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Requirement to lay consultation draft before Parliament
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Publication of the relevant document
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 3 Fisheries management plans
+    - Introductory
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Consultation
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Publication of the relevant document
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Regulation of foreign fishing boats
+  - PART 1 England and Wales
+    - Scallops (Irish Sea) (Prohibition of Fishing) Order 1984
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Undersized Velvet Crabs Order 1989
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Sea Fish (Specified Sea Area) (Regulation of Nets and Prohibition of Fishing Methods) Order 1989
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Lobsters and Crawfish (Prohibition of Fishing and Landing) Order 2000
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Undersized Edible Crabs Order 2000
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) Order 2001
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Prohibition of Fishing with Multiple Trawls Order 2001
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Shrimp Fishing Nets Order 2002
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Shellfish (Specified Sea Area) (Prohibition of Fishing Methods) (Wales) Order 2003
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Prohibition of Fishing with Multiple Trawls Order 2003
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Prohibition of Fishing with Multiple Trawls (Wales) Order 2003
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - South-west Territorial Waters (Prohibition of Pair Trawling) Order 2004
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Tope (Prohibition of Fishing) Order 2008
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Shrimp Fishing Nets (Wales) Order 2008
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Tope (Prohibition of Fishing) (Wales) Order 2008
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Scallop Fishing (Wales) (No 2) Order 2010
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Cockles and Mussels (Specified Area) (Wales) Order 2011
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Scallop Fishing (England) Order 2012
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Scallop Dredging Operations (Tracking Devices) (Wales) Order 2012
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Specified Crustaceans (Prohibition on Fishing, Landing, Sale and Carriage) (Wales) Order 2015
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Whelk Fishing (Wales) Order 2019
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - PART 2 Scotland
+    - The Lobsters and Crawfish (Prohibition of Fishing and Landing) (Scotland) Order 1999
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - The Prohibition of Fishing for Scallops (Scotland) Order 2003
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - The Shrimp Fishing Nets (Scotland) Order 2004
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - The Sharks, Skates and Rays (Prohibition of Fishing, Trans-shipment and Landing) (Scotland) Order 2012
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - The Regulation of Scallop Fishing (Scotland) Order 2017
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - The Prohibition of Fishing with Multiple Trawls (Scotland) Order 2017
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - The Specified Crustaceans (Prohibition on Landing, Sale and Carriage) (Scotland) Order 2017
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2019
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+  - PART 3 Northern Ireland
+    - The Inshore Fishing (Prohibition of Fishing and Fishing Methods) Regulations (Northern Ireland) 1993
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - The Razor Shells (Prohibition of Fishing) Regulations (Northern Ireland) 1998
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - The Crabs and Lobsters (Minimum Size) Order (Northern Ireland) 2000
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - The Conservation of Scallops Regulations (Northern Ireland) 2008
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - The Edible Crabs (Conservation) Regulations (Northern Ireland) 2020
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - The Edible Crabs (Undersized) Order (Northern Ireland) 2020
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+- SCHEDULE 3 Sea fishing licences: further provision
+  - Power to attach conditions to sea fishing licence
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Power to vary, suspend or revoke sea fishing licence etc
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Power to obtain information
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Duty to comply with request of another sea fish licensing authority
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Use of licensing functions to limit fishing activity
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Power to arrange for licensing functions to be exercised by others
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Regulations about the licensing of fishing boats
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Power of Secretary of State under paragraph 7 where consent obtained
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Interpretation
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Access and licensing: minor and consequential amendments
+  - PART 1 Access to British fisheries by foreign fishing boats
+    - Sea Fish Industry Act 1962
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Sea Fisheries Act 1968
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Fishery Limits Act 1976
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Subordinate legislation made under section 2 of the Fishery Limits Act 1976
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Fishery Limits Act 1976 (Guernsey) Order 1989
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 Licensing of fishing boats
+    - Sea Fish (Conservation) Act 1967
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Fishery Limits Act 1976
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Fisheries Act 1981
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Sea Fish (Conservation) Act 1992
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Government of Wales Act 2006
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Marine and Coastal Access Act 2009
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Sea Fish (Specified Manx Waters) Licensing Order 1990
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Sea Fish Licensing Order 1992
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Sea Fish Licensing (Time at Sea) (Principles) Order 1993
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Sea Fishing (Licences and Notices) Regulations 1994
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Scotland Act (Agency Arrangements) (Specification) Order 1999
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Scotland Act 1998 (Concurrent Functions) Order 1999
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Sea Fishing (Licences and Notices) (Scotland) Regulations 2011
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Sea Fishing (Licences and Notices) (England) Regulations 2012
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Sea Fishing (Licences and Notices) Regulations (Northern Ireland) 2014
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Sea Fish Licensing (England) Order 2015
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Sea Fish Licensing (Wales) Order 2019
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Sea Fishing (Licences and Notices) (Wales) Regulations 2019
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Sea Fish Licensing (England) (EU Exit) Regulations 2019
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Sea Fish Licensing (Foreign Vessels) (EU Exit) (Scotland) Order 2019
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Sea Fishing (Licences and Notices) (Scotland) (Amendment) Regulations 2019
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Fishing Boats Designation (EU Exit) (Scotland) Order 2019
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - PART 3 Transitional provision
+    - Licences in respect of British fishing boats
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Licence conditions
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Regulations
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Continuity of the law
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+- SCHEDULE 5 Sale of Welsh fishing opportunities
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Financial assistance: powers of devolved authorities
+  - Power of the Scottish Ministers
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Power of the Welsh Ministers
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Power of the Northern Ireland department
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Financial assistance: consequential amendments
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Transitional provision
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Imposition of charges: powers of devolved authorities
+  - Power of Scottish Ministers
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Power of Welsh Ministers
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Power of Northern Ireland department
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Powers to make further provision: devolved authorities
+  - PART 1 Scottish Ministers
+    - Power to make provision about fisheries, aquaculture etc
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Paragraph 1: interpretation
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Power to make provision about aquatic animal diseases
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Scope of regulations under paragraph 1 or 3
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Procedural requirements
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - PART 2 Welsh Ministers
+    - Power to make provision about fisheries, aquaculture etc
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Paragraph 6: interpretation
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Power to make provision about aquatic animal diseases
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Scope of regulations under paragraph 6 or 8
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Procedural requirements
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - PART 3 The Northern Ireland department
+    - Power to make provision about fisheries, aquaculture etc
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Paragraph 11: interpretation
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Power to make provision about aquatic animal diseases
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Scope of regulations under paragraph 11 or 13
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Procedural requirements
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+- SCHEDULE 9 Conservation of seals
+  - PART 1 Amendments of the Conservation of Seals Act 1970
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - PART 2 Amendments of the Wildlife (Northern Ireland) Order 1985
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+- SCHEDULE 10 Amendments of the Marine and Coastal Access Act 2009
+  - PART 1 General powers and duties of the Marine Management Organisation
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - PART 2 Powers relating to the exploitation of sea fisheries resources
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+- SCHEDULE 11 Retained direct EU legislation: minor and consequential amendments
+  - Introduction
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Common Fisheries Policy Regulation
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Regulation (EU) No 1379/2013
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Commission Delegated Regulation (EU) No 1393/2014
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Commission Delegated Regulation (EU) No 1395/2014
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Regulation (EU) 2016/2336
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Regulation (EU) 2017/1004
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Regulation (EU) 2017/2403
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Regulation (EU) 2018/973
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Regulation (EU) 2019/472
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Regulation (EU) 2019/1241
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Commission Delegated Regulation (EU) 2019/2238
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Commission Delegated Regulation (EU) 2019/2239
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Council Regulation (EU) 2020/123
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Transitional provision
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Consequential amendments
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
