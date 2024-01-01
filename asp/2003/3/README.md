@@ -1,0 +1,192 @@
+# Water Environment and Water Services (Scotland) Act 2003
+
+asp/2003/3. Enacted 2003-03-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/3
+
+Source: https://www.legislation.gov.uk/asp/2003/3/2024-01-01
+
+## Contents
+
+- Part 1 Protection of the water environment
+  - Chapter 1 Purpose, general duties and definitions
+    - [s. 1 General purpose of Part 1](section/1.md)
+    - [s. 2 The general duties](section/2.md)
+    - [s. 3 The water environment: definitions](section/3.md)
+  - Chapter 2 River basin management planning
+    - River basin districts
+      - [s. 4 Establishment of river basin districts](section/4.md)
+      - [s. 5 Characterisation of river basin districts](section/5.md)
+      - [s. 5A Shellfish water protected areas](section/5A.md)
+      - [s. 6 Bodies of water used for the abstraction of drinking water](section/6.md)
+      - [s. 7 Register of protected areas](section/7.md)
+      - [s. 8 Monitoring](section/8.md)
+      - [s. 9 Environmental objectives and programmes of measures](section/9.md)
+    - River basin management plans
+      - [s. 10 River basin management plans](section/10.md)
+      - [s. 11 River basin management plans: publicity and consultation](section/11.md)
+      - [s. 12 River basin management plans: submission for approval](section/12.md)
+      - [s. 13 River basin management plans: approval](section/13.md)
+      - [s. 14 River basin management plans: review](section/14.md)
+      - [s. 15 Sub-basin plans](section/15.md)
+      - [s. 16 Duty to have regard to river basin management plans and sub-basin plans](section/16.md)
+      - [s. 17 River Basin District Advisory Groups](section/17.md)
+    - General
+      - [s. 18 Power to obtain information and documents etc.](section/18.md)
+      - [s. 19 General regulation-making power](section/19.md)
+  - Chapter 3 Measures for protection of the water environment
+    - [s. 20 Regulation of controlled activities](section/20.md)
+    - [s. 21 Controlled activities regulations: procedure](section/21.md)
+    - [s. 22 Remedial and restoration measures](section/22.md)
+    - [s. 23 Fixing of charges for water services](section/23.md)
+    - [s. 24 Planning permission: fish farming](section/24.md)
+  - Chapter 4 Supplementary
+    - [s. 25 Power to give effect to Community obligations etc.](section/25.md)
+    - [s. 26 Annual report on implementation of Directive](section/26.md)
+    - [s. 27 Availability of documents for public inspection](section/27.md)
+    - [s. 28 Interpretation of Part 1](section/28.md)
+    - [s. 28A Interpretation of Directives for the purposes of Part 1](section/28A.md)
+- Part 2 Water and sewerage services
+  - Duty to provide water and sewerage services
+    - [s. 29 Duty to provide water and sewerage services](section/29.md)
+    - [s. 30 Private sewers, SUD systems and sewage treatment works etc.: vesting, takeover and connection conditions](section/30.md)
+  - Mains and pipes provided by persons other than Scottish Water
+    - [s. 31 Laying of water mains and communication pipes by persons other than Scottish Water](section/31.md)
+  - Vesting of waterworks and mains
+    - [s. 32 Vesting in Scottish Water of waterworks and mains](section/32.md)
+  - Sustainable urban drainage systems
+    - [s. 33 Sustainable urban drainage systems](section/33.md)
+  - Supplementary
+    - [s. 34 Modifications of Part III of the 1980 Act](section/34.md)
+- Part 3 General
+  - [s. 35 Crown application](section/35.md)
+  - [s. 36 Orders and regulations](section/36.md)
+  - [s. 37 Ancillary provision](section/37.md)
+  - [s. 38 Commencement and short title](section/38.md)
+- SCHEDULE 1 Matters to be included in river basin management plans
+  - Part 1 Matters to be included in every plan
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Part 2 Additional matters to be included in revised plans
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Controlled activities regulations: particular purposes
+  - Part 1 List of purposes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Publicity and consultation](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Enforcement and offences](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part 2 Supplementary provisions
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- SCHEDULE 2A Remedial and restoration measures regulations: offences
+  - Offences
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Supplementary
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Interpretation
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+- SCHEDULE 3 Sustainable urban drainage systems: further amendments
+  - [Sch. 3 para. 1 The 1968 Act](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+- SCHEDULE 4 Modifications of Part III of the 1980 Act
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Interpretation of Directives for the purposes of Part 1
+  - PART 1 The Directive
+    - Introduction
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Modifications to the Articles
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Definition of assimilated law
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - PART 2 The Groundwater Directive
+    - Introduction
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Modifications to the Articles
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Definition of assimilated law
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - PART 3 The Priority Substances Directive
+    - Introduction
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Modifications to Articles
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Definition of assimilated law
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
