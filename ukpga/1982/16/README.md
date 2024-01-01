@@ -1,0 +1,381 @@
+# Civil Aviation Act 1982
+
+1982 c. 16. Enacted 1982-05-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 31 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
+
+Source: https://www.legislation.gov.uk/ukpga/1982/16/2024-01-01
+
+## Contents
+
+- Part I Administration
+  - The Secretary of State
+    - [s. 1 Functions of Secretary of State.](section/1.md)
+  - Constitution and functions of CAA
+    - [s. 2 Constitution of CAA.](section/2.md)
+    - [s. 3 Functions of CAA.](section/3.md)
+  - Regulation of performance by CAA of its functions
+    - [s. 4 General objectives.](section/4.md)
+    - [s. 5 Duty of CAA to consider environmental factors when licensing or issuing certificates for certain aerodromes.](section/5.md)
+    - [s. 6 Secretary of State’s directions in national interest, etc.](section/6.md)
+    - [s. 7 Special provisions as respects certain functions.](section/7.md)
+  - Financial provisions in relation to CAA
+    - [s. 8 General financial duties.](section/8.md)
+    - [s. 9 The initial debt.](section/9.md)
+    - [s. 10 Borrowing powers.](section/10.md)
+    - [s. 11 Charges.](section/11.md)
+    - [s. 12 Grants and loans by Secretary of State.](section/12.md)
+    - [s. 13 Payments to Secretary of State.](section/13.md)
+    - [s. 14 Guarantees.](section/14.md)
+    - [s. 15 Accounts and audit.](section/15.md)
+  - Assistance, information, etc. to be given by CAA
+    - [s. 16 Provision by CAA of assistance, etc. for Secretary of State and others.](section/16.md)
+    - [s. 17 Provision by CAA of information, etc. for Secretary of State.](section/17.md)
+  - Supplemental provisions in relation to CAA
+    - [s. 18 Official secrets.](section/18.md)
+    - [s. 19 Application of certain enactments to CAA.](section/19.md)
+    - [s. 20 Supplementary provisions with respect to the functions of CAA.](section/20.md)
+    - [s. 21 Annual report.](section/21.md)
+    - [s. 22 Matters arising in connection with original transfer to CAA of property, staff, etc.](section/22.md)
+  - Disclosure of information
+    - [s. 23 Disclosure of information.](section/23.md)
+  - Eurocontrol
+    - [s. 24 Eurocontrol.](section/24.md)
+- Part II Aerodromes and Other Land
+  - Secretary of State’s aerodromes
+    - [s. 25 Secretary of State’s power to provide aerodromes.](section/25.md)
+    - [s. 26 Consultation with local bodies.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+  - CAA’s aerodromes
+    - [s. 28 Prohibition of management, etc. of aerodromes by CAA](section/28.md)
+    - [s. 29 ................................](section/29.md)
+  - Aerodromes and facilities at aerodromes provided by local authorities
+    - [s. 30 Provision of aerodromes and facilities at aerodromes by local authorities.](section/30.md)
+    - [s. 31 Power to carry on ancillary business.](section/31.md)
+    - [s. 32 ................................](section/32.md)
+  - Other aerodromes
+    - [s. 33 ................................](section/33.md)
+  - Miscellaneous provisions as to aerodromes
+    - [s. 34 Financial assistance for certain aerodromes.](section/34.md)
+    - [s. 35 Facilities for consultation at certain aerodromes.](section/35.md)
+    - [s. 36 Health control at Secretary of State’s aerodromes ....](section/36.md)
+    - [s. 37 ................................](section/37.md)
+    - [s. 38 Aerodrome charges: noise and emissions](section/38.md)
+    - [s. 38A Noise control schemes](section/38A.md)
+    - [s. 38B Noise control schemes: supplementary](section/38B.md)
+    - [s. 38C Breaches of noise control schemes](section/38C.md)
+    - [s. 39 Trespassing on licensed or authorised aerodromes.](section/39.md)
+    - [s. 40 ................................](section/40.md)
+  - Powers in relation to land exercisable in connection with civil aviation
+    - [s. 41 Power of Secretary of State to acquire and manage land.](section/41.md)
+    - [s. 42 Acquisition of land by CAA.](section/42.md)
+    - [s. 42A Acquisition of land: air traffic services licence holders.](section/42A.md)
+    - [s. 43 Rights granted over land to Secretary of State or CAA to bind grantor’s successors.](section/43.md)
+    - [s. 44 Power to obtain rights over land.](section/44.md)
+    - [s. 45 Power to restrict use of land for purpose of securing safety at aerodromes.](section/45.md)
+    - [s. 46 Power to exercise control over land in interests of civil aviation.](section/46.md)
+    - [s. 47 Warning of presence of obstructions near licensed or authorised aerodromes.](section/47.md)
+    - [s. 48 Power of Secretary of State to stop up and divert highways etc. in interests of civil aviation.](section/48.md)
+    - [s. 49 Power to acquire land in connection with order under s. 48.](section/49.md)
+    - [s. 50 Power of entry for purposes of survey.](section/50.md)
+  - Supplemental
+    - [s. 51 Special provisions relating to statutory undertakers.](section/51.md)
+    - [s. 52 Displacements from land.](section/52.md)
+    - [s. 53 Compensation in respect of planning decisions relating to safety of aerodromes, etc.](section/53.md)
+    - [s. 54 Consecrated land and burial grounds.](section/54.md)
+    - [s. 55 Registration of orders, etc. under Part II.](section/55.md)
+    - [s. 56 Notices.](section/56.md)
+    - [s. 57 Power to appoint special constables.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 Expenses and stamp duty.](section/59.md)
+- Part III Regulation of Civil Aviation
+  - General
+    - [s. 60 Power to give effect to Chicago Convention and to regulate air navigation, etc.](section/60.md)
+    - [s. 61 Air Navigation Orders etc,: supplemental.](section/61.md)
+  - War and emergencies
+    - [s. 62 ................................](section/62.md)
+    - [s. 63 ................................](section/63.md)
+  - Air transport, etc.
+    - [s. 64 Restriction of unlicensed carriage by air for reward.](section/64.md)
+    - [s. 65 Grant and refusal of air transport licences.](section/65.md)
+    - [s. 66 Revocation, suspension and variation of air transport licences.](section/66.md)
+    - [s. 67 Supplementary provisions relating to air transport licensing.](section/67.md)
+    - [s. 68 General duties in relation to air transport licensing functions of CAA.](section/68.md)
+    - [s. 69 Periodical publication of CAA’s policies.](section/69.md)
+    - [s. 69A Regulation of carriage by air by route licences.](section/69A.md)
+    - [s. 70 Modification of CAA’s duties with respect to British airlines in relation to certain air transport services.](section/70.md)
+    - [s. 71 Regulation of provision of accommodation in aircraft.](section/71.md)
+    - [s. 71A Contributions by licence holders to Air Travel Trust](section/71A.md)
+    - [s. 71B Procedure relating to regulations under section 71A](section/71B.md)
+  - Air navigation services
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 74A Enforcement of foreign judgments etc. in respect of route charges.](section/74A.md)
+  - Investigation of accidents
+    - [s. 75 Investigation of accidents.](section/75.md)
+  - Trespass by aircraft and aircraft nuisance, noise, etc.
+    - [s. 76 Liability of aircraft in respect of trespass, nuisance and surface damage.](section/76.md)
+    - [s. 77 Nuisance caused by aircraft on aerodromes.](section/77.md)
+    - [s. 78 Regulation of noise and vibration from aircraft.](section/78.md)
+    - [s. 78A Penalty schemes](section/78A.md)
+    - [s. 78B Direction to establish, amend or revoke penalty scheme](section/78B.md)
+    - [s. 79 Grants towards cost of sound-proofing buildings.](section/79.md)
+    - [s. 80 Designation of aerodromes for purposes of ss. 78 and 79.](section/80.md)
+    - [s. 81 Dangerous flying.](section/81.md)
+    - [s. 82 Prohibition of aerial advertising and propaganda.](section/82.md)
+  - Records and provision of information, etc.
+    - [s. 83 Recording and registration of births and deaths, etc.](section/83.md)
+    - [s. 84 Provision by others of information for the CAA and Secretary of State.](section/84.md)
+- Part IV Aircraft
+  - Design, construction and maintenance of aircraft
+    - [s. 85 Design, construction and maintenance of aircraft.](section/85.md)
+  - Rights etc. in relation to aircraft
+    - [s. 86 Power to provide for the mortgaging of aircraft.](section/86.md)
+    - [s. 87 Application of law of wreck and salvage to aircraft.](section/87.md)
+    - [s. 88 Detention and sale of aircraft for unpaid airport charges.](section/88.md)
+    - [s. 89 Exemption of aircraft and parts thereof from seizure on patent claims.](section/89.md)
+    - [s. 90 Power to give effect to Convention on rights in aircraft.](section/90.md)
+  - Jurisdiction, etc.
+    - [s. 91 Jurisdiction in civil matters.](section/91.md)
+    - [s. 92 Application of criminal law to aircraft.](section/92.md)
+    - [s. 93 ................................](section/93.md)
+  - Powers of commander of aircraft
+    - [s. 94 Powers of commander of aircraft.](section/94.md)
+  - Evidence, etc.
+    - [s. 95 Provisions as to evidence in connection with aircraft.](section/95.md)
+    - [s. 96 Use of records and documentary evidence.](section/96.md)
+  - Seaplanes
+    - [s. 97 Seaplanes](section/97.md)
+  - Supplemental
+    - [s. 98 Construction of certain provisions of Part IV.](section/98.md)
+- Part V Miscellaneous and General
+  - [s. 99 Offences.](section/99.md)
+  - [s. 100 Application of Act to hovercraft.](section/100.md)
+  - [s. 101 Power to apply certain provisions to Crown aircraft](section/101.md)
+  - [s. 102 Powers to make Orders in Council, orders and regulations.](section/102.md)
+  - [s. 103 Special parliamentary procedure: Scotland.](section/103.md)
+  - [s. 104 Construction of provisions relating to property.](section/104.md)
+  - [s. 105 General interpretation.](section/105.md)
+  - [s. 106 Application of Act to territorial waters.](section/106.md)
+  - [s. 107 Application of Act to Northern Ireland.](section/107.md)
+  - [s. 108 Extension of provisions of Act outside United Kingdom.](section/108.md)
+  - [s. 109 Transitional provisions, consequential amendments, repeals, etc.](section/109.md)
+  - [s. 110 Citation and commencement.](section/110.md)
+- SCHEDULE 1 Additional Provisions Relating to Constitution, Etc. of CAA
+  - Appointment and tenure of non-executive members
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration etc of non-executive members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Executive members: terms and conditions
+    - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Staff
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Performance of functions
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Instruments and contracts
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Interpretation
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Application of Enactments Relating to Statutory Undertakers, Etc.
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Matters Arising out of Transfer to CAA of Aerodromes and other Property, Rights and Liabilities and Staff
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Eurocontrol
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5
+- SCHEDULE 6 Modifications of Schedule 6 to the Local Government Act (Northern Ireland) 1972
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Provisions Relating to Certain Orders Under Part II
+  - Part I
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Part II
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part III
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Provisions Relating to Orders Under Section 45
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 Provisions Relating to Directions Under Section 46
+  - Part I
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Part II
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Part III
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Adjustments of the Functions of Statutory Undertakers
+  - Part I
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Part II
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+- SCHEDULE 11
+  - Tenure of members
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Procedure
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Supplemental
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+- SCHEDULE 12 Patent Claims Against Aircraft not Protected Under Chicago Convention
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+- SCHEDULE 13 Subordinate Instruments
+  - Part I Powers not Exercisable by Statutory Instrument
+  - Part II Provisions applying to Certain Powers
+  - Part III Supplemental Powers
+    - Different provision for different cases
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Incidental supplementary and transitional provision
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Power to authorise making of regulations
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Power to provide for detention of aircraft
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Crown aircraft
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Extra-territorial provisions
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+- SCHEDULE 14 Transitional and Transitory Provisions and Savings
+  - General
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Extra-territorial provisions
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Byelaws
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Section 6 of the Civil Aviation Act 1949
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Lighthouse authorities
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - The Hovercraft Act 1968
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Schedule 9 to the Civil Aviation Act 1971
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Section 1 of the Civil Aviation Act 1978
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Section 7 of the Civil Aviation Act 1978
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - The British Nationality Act 1981
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Interpretation
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- SCHEDULE 15 Consequential Amendments
+  - The Law of Property Act 1925
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - The Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - The Public Records Act 1958
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - The Harbours Act 1964
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - The Industrial Development Act 1966
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - The Tokyo Convention Act 1967
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - The Land Registration Act (Northern Ireland) 1970
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - The Rolls Royce (Purchase) Act 1971
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - The Local Government Act 1972
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - The Land Compensation Act 1973
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - The Land Compensation (Scotland) Act 1973
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+  - The Air Travel Reserve Fund Act 1975
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - The Aircraft and Shipbuilding Industries Act 1977
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - The Patents Act 1977
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - The Civil Aviation Act 1978
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+  - The Suppression of Terrorism Act 1978
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+  - The National Health Service (Scotland) Act 1978
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - The Customs and Excise Management Act 1979
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - The Highlands and Islands Air Services (Scotland) Act 1980
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - The Supreme Court 1981
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+  - The New Towns Act 1981
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+  - The Acquisition of Land Act 1981
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+- SCHEDULE 16 Repeals
