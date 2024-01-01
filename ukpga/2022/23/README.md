@@ -1,0 +1,175 @@
+# Subsidy Control Act 2022
+
+2022 c. 23. Enacted 2022-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/23
+
+Source: https://www.legislation.gov.uk/ukpga/2022/23/2024-01-01
+
+## Contents
+
+- PART 1 Overview and key interpretation
+  - Overview etc
+    - [s. 1 Overview and application of Act](section/1.md)
+  - “Subsidy”
+    - [s. 2 “Subsidy”](section/2.md)
+    - [s. 3 Financial assistance which confers an economic advantage](section/3.md)
+    - [s. 4 Financial assistance which is specific](section/4.md)
+    - [s. 5 Section 2: modification for air carriers](section/5.md)
+  - “Public authority”
+    - [s. 6 “Public authority”](section/6.md)
+  - “Enterprise”
+    - [s. 7 “Enterprise”](section/7.md)
+    - [s. 8 Persons under common control](section/8.md)
+  - Other key terms
+    - [s. 9 The subsidy control principles and the energy and environment principles](section/9.md)
+    - [s. 10 Subsidy schemes and streamlined subsidy schemes](section/10.md)
+    - [s. 11 Subsidies and schemes of interest or particular interest](section/11.md)
+- PART 2 Subsidy control requirements
+  - CHAPTER 1 Principles
+    - [s. 12 Application of the subsidy control principles](section/12.md)
+    - [s. 13 Application of the energy and environment principles](section/13.md)
+  - CHAPTER 2 Prohibitions and other requirements
+    - Introductory
+      - [s. 14 Introductory](section/14.md)
+    - General prohibitions
+      - [s. 15 Unlimited guarantees](section/15.md)
+      - [s. 16 Export performance](section/16.md)
+      - [s. 17 Use of domestic goods or services](section/17.md)
+      - [s. 18 Relocation of activities](section/18.md)
+    - Ailing or insolvent enterprises
+      - [s. 19 Rescuing](section/19.md)
+      - [s. 20 Restructuring](section/20.md)
+      - [s. 21 Restructuring deposit takers or insurance companies](section/21.md)
+      - [s. 22 Liquidating deposit takers or insurance companies](section/22.md)
+      - [s. 23 Liquidity provision for deposit takers or insurance companies](section/23.md)
+      - [s. 24 Meaning of “ailing or insolvent”](section/24.md)
+      - [s. 25 Meaning of “deposit taker”](section/25.md)
+      - [s. 26 Meaning of “insurance company”](section/26.md)
+    - Other specific prohibitions and requirements
+      - [s. 27 Subsidies for insurers that provide export credit insurance](section/27.md)
+      - [s. 28 Subsidies for air carriers for the operation of routes](section/28.md)
+      - [s. 29 Services of public economic interest](section/29.md)
+    - Subsidy schemes
+      - [s. 30 Effect of prohibitions etc in relation to subsidy schemes](section/30.md)
+    - Subsidies or schemes subject to mandatory referral
+      - [s. 31 Subsidies or schemes subject to mandatory referral](section/31.md)
+  - CHAPTER 3 Transparency
+    - [s. 32 Subsidy database](section/32.md)
+    - [s. 33 Duty to include information in the subsidy database](section/33.md)
+    - [s. 34 Information to be included in the subsidy database](section/34.md)
+- PART 3 Exemptions
+  - CHAPTER 1 Introductory
+    - [s. 35 Introductory](section/35.md)
+  - CHAPTER 2 Minimal or SPEI financial assistance
+    - Minimal financial assistance
+      - [s. 36 Minimal financial assistance](section/36.md)
+      - [s. 37 Section 36: procedural requirements](section/37.md)
+    - Services of public economic interest assistance
+      - [s. 38 Services of public economic interest assistance](section/38.md)
+      - [s. 39 Section 38: procedural requirements](section/39.md)
+    - General
+      - [s. 40 Mergers and acquisitions](section/40.md)
+      - [s. 41 Exemption for certain subsidies given to SPEI enterprises](section/41.md)
+      - [s. 42 Chapter 2: supplementary and interpretative provision](section/42.md)
+  - CHAPTER 3 Emergencies etc.
+    - [s. 43 Natural disasters and other exceptional circumstances](section/43.md)
+    - [s. 44 National or global economic emergencies](section/44.md)
+  - CHAPTER 4 Other miscellaneous exemptions
+    - [s. 45 National security](section/45.md)
+    - [s. 46 Bank of England monetary policy](section/46.md)
+    - [s. 47 Financial stability](section/47.md)
+    - [s. 48 Legacy and withdrawal agreement subsidies](section/48.md)
+    - [s. 49 Tax measures](section/49.md)
+    - [s. 50 Large cross-border or international cooperation projects](section/50.md)
+    - [s. 51 Nuclear energy](section/51.md)
+- PART 4 CMA: referrals and functions
+  - CHAPTER 1 Functions on referrals of subsidies and schemes
+    - Mandatory referrals
+      - [s. 52 Mandatory referral to CMA](section/52.md)
+      - [s. 53 CMA reporting period for mandatory referral](section/53.md)
+      - [s. 54 Cooling off period following mandatory referral](section/54.md)
+      - [s. 55 Call-in direction](section/55.md)
+    - Voluntary referrals
+      - [s. 56 Voluntary referral to CMA](section/56.md)
+      - [s. 57 CMA reporting period for voluntary referral](section/57.md)
+      - [s. 58 Call-in direction following voluntary referral](section/58.md)
+    - Mandatory and voluntary referrals: contents of CMA report
+      - [s. 59 CMA report following mandatory or voluntary referral](section/59.md)
+    - Post-award referrals
+      - [s. 60 Post-award referrals](section/60.md)
+      - [s. 61 CMA reporting period for post-award referrals](section/61.md)
+      - [s. 62 CMA report following post-award referral](section/62.md)
+    - Exemptions
+      - [s. 63 Referrals in relation to subsidy schemes](section/63.md)
+      - [s. 64 Other exemptions](section/64.md)
+  - CHAPTER 2 General functions
+    - [s. 65 Monitoring and reporting on subsidy control](section/65.md)
+    - [s. 66 CMA annual report](section/66.md)
+    - [s. 67 Information-gathering powers](section/67.md)
+  - CHAPTER 3 Subsidy Advice Unit
+    - [s. 68 Subsidy Advice Unit](section/68.md)
+    - [s. 69 References to subsidy control groups](section/69.md)
+- PART 5 Enforcement
+  - Appeals to the Competition Appeal Tribunal
+    - [s. 70 Review of subsidy decisions](section/70.md)
+    - [s. 71 Time limits for applications under section 70](section/71.md)
+    - [s. 72 CAT powers on review: England and Wales and Northern Ireland](section/72.md)
+    - [s. 73 CAT powers on review: Scotland](section/73.md)
+    - [s. 74 Recovery orders](section/74.md)
+    - [s. 75 Appeals against decisions of the CAT](section/75.md)
+  - Pre-action information
+    - [s. 76 Duty to provide pre-action information](section/76.md)
+  - Misuse
+    - [s. 77 Misuse of subsidies](section/77.md)
+- PART 6 Miscellaneous and general
+  - CHAPTER 1 Miscellaneous
+    - [s. 78 Subsidies and schemes in primary legislation](section/78.md)
+    - [s. 79 Guidance](section/79.md)
+    - [s. 80 Disclosure of information](section/80.md)
+    - [s. 81 Modifications to subsidies and schemes](section/81.md)
+    - [s. 82 Gross cash and gross cash equivalent amount of financial assistance](section/82.md)
+    - [s. 83 Minor amendment to the Financial Services Act 2021](section/83.md)
+  - CHAPTER 2 General
+    - [s. 84 Financial provision](section/84.md)
+    - [s. 85 Crown application](section/85.md)
+    - [s. 86 Power to make consequential provision](section/86.md)
+    - [s. 87 Regulations](section/87.md)
+    - [s. 88 Directions](section/88.md)
+    - [s. 89 Interpretation](section/89.md)
+    - [s. 90 Extent](section/90.md)
+    - [s. 91 Commencement](section/91.md)
+    - [s. 92 Short title](section/92.md)
+- SCHEDULE 1 The subsidy control principles
+  - [Sch. 1 para. A Common interest](schedule/1/paragraph/A.md)
+  - [Sch. 1 para. B Proportionate and necessary](schedule/1/paragraph/B.md)
+  - [Sch. 1 para. C Design to change economic behaviour of beneficiary](schedule/1/paragraph/C.md)
+  - [Sch. 1 para. D Costs that would be funded anyway](schedule/1/paragraph/D.md)
+  - [Sch. 1 para. E Least distortive means of achieving policy objective](schedule/1/paragraph/E.md)
+  - [Sch. 1 para. F Competition and investment within the United Kingdom](schedule/1/paragraph/F.md)
+  - [Sch. 1 para. G Beneficial effects to outweigh negative effects](schedule/1/paragraph/G.md)
+- SCHEDULE 2 The energy and environment principles
+  - [Sch. 2 para. A Aim of subsidies in relation to energy and environment](schedule/2/paragraph/A.md)
+  - [Sch. 2 para. B Subsidies not to relieve beneficiary from liabilities as a polluter](schedule/2/paragraph/B.md)
+  - [Sch. 2 para. C Subsidies for electricity generation adequacy, renewable energy or cogeneration](schedule/2/paragraph/C.md)
+  - [Sch. 2 para. D Subsidies for electricity generation adequacy, renewable energy or cogeneration](schedule/2/paragraph/D.md)
+  - [Sch. 2 para. E Subsidies for electricity generation adequacy, renewable energy or cogeneration](schedule/2/paragraph/E.md)
+  - [Sch. 2 para. F Subsidies in the form of partial exemptions from energy-related taxes and levies](schedule/2/paragraph/F.md)
+  - [Sch. 2 para. G Subsidies in the form of compensation for increases in electricity costs](schedule/2/paragraph/G.md)
+  - [Sch. 2 para. H Subsidies for the decarbonisation of emissions linked to industrial activities](schedule/2/paragraph/H.md)
+  - [Sch. 2 para. I Subsidies for improvements of the energy efficiency of industrial activities](schedule/2/paragraph/I.md)
+- SCHEDULE 3 Subsidies provided by primary legislation
+  - [Sch. 3 para. 1 Introductory](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Introductory](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Introductory](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Introductory](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Introductory](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Application of principles](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Prohibitions etc and exemptions](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Transparency](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 CMA referrals](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Recovery orders](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Pre-action information](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Time limits](schedule/3/paragraph/12.md)
