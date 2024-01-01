@@ -2,9 +2,9 @@
 
 2022 c. 20. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-01, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/20/2023-12-01
+Source: https://www.legislation.gov.uk/ukpga/2022/20/2024-01-01
 
 ## Contents
 
@@ -14,7 +14,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/20/2023-12-01
   - [s. 3 Implementation of international recognition agreements](section/3.md)
   - [s. 4 Authorisation to enter into regulator recognition agreements](section/4.md)
   - [s. 5 Revocation of general EU system of recognition of overseas qualifications](section/5.md)
-  - [s. 6 Revocation of other retained EU recognition law](section/6.md)
+  - [s. 6 Revocation of other assimilated recognition law](section/6.md)
 - Assistance and information
   - [s. 7 Assistance centre](section/7.md)
   - [s. 8 Duty of regulator to publish information on requirements to practise](section/8.md)
