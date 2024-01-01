@@ -1,0 +1,154 @@
+# Trade Act 2021
+
+2021 c. 10. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/10/2024-01-01
+
+## Contents
+
+- PART 1 International trade agreements
+  - [s. 1 Implementation of the Agreement on Government Procurement](section/1.md)
+  - [s. 2 Implementation of international trade agreements](section/2.md)
+  - [s. 3 Free trade agreements and genocide](section/3.md)
+  - [s. 4 Regulations: devolved authorities and general provision](section/4.md)
+  - [s. 5 Interpretation of Part 1](section/5.md)
+- PART 2 The Trade Remedies Authority
+  - [s. 6 The Trade Remedies Authority](section/6.md)
+  - [s. 7 Provision of advice, support and assistance by the TRA](section/7.md)
+- PART 3 The Trade and Agriculture Commission
+  - [s. 8 Trade and Agriculture Commission](section/8.md)
+  - [s. 9 Trade and Agriculture Commission: advisory functions](section/9.md)
+  - [s. 10 Trade and Agriculture Commission: further provision](section/10.md)
+  - [s. 11 Trade and Agriculture Commission: repeal](section/11.md)
+- PART 4 Trade information
+  - [s. 12 Collection of exporter information by HMRC](section/12.md)
+  - [s. 13 Disclosure of information by HMRC](section/13.md)
+  - [s. 14 Disclosure of information by other authorities](section/14.md)
+  - [s. 15 Offence relating to disclosure under section 14](section/15.md)
+- PART 5 General
+  - [s. 16 Interpretation](section/16.md)
+  - [s. 17 Extent](section/17.md)
+  - [s. 18 Commencement](section/18.md)
+  - [s. 19 Short title](section/19.md)
+- SCHEDULE 1 Restrictions on devolved authorities
+  - No power to make provision outside devolved competence
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Requirement for consultation in certain circumstances
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Requirement for consent where it would otherwise be required
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Requirement for joint exercise where it would otherwise be required
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Requirement for consultation where it would otherwise be required
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Meaning of devolved competence
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Meaning of “Northern Ireland devolved authority”
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Regulations under Part 1
+  - PART 1 Statutory instruments and statutory rules
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PART 2 Scrutiny of regulations under section 1(1)
+    - Scrutiny of regulations made by Minister of the Crown or devolved authority acting alone
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Scrutiny of regulations made by Minister of the Crown and devolved authority acting jointly
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 3 Scrutiny of regulations under section 2(1)
+    - Scrutiny of regulations made by Minister of the Crown or devolved authority acting alone
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Scrutiny of regulations made by Minister of the Crown and devolved authority acting jointly
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 4 Scrutiny of regulations under section 2(10)(b)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Exceptions to restrictions in the devolution settlements
+  - ...
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - ...
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - ...
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Transitional exception
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 The Trade Remedies Authority
+  - Status
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Membership
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Terms of appointment and tenure of members
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Remuneration of members
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - A chief executive appointed by the Secretary of State
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Staffing of the TRA
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Committees
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Procedure
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Delegation of functions
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Funding
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+  - Accounts and audit
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - Annual report
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Seal and evidence
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - Supplementary powers
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+  - Guidance
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+  - Public records
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+  - Investigation by the Parliamentary Commissioner
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - House of Commons disqualification
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+  - Northern Ireland Assembly disqualification
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+  - Freedom of information
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+  - Public sector equality duty
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+- SCHEDULE 5 Transfer schemes
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Trade and Agriculture Commission: public authorities legislation
+  - Public records
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Investigations by the Parliamentary Commissioner
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - House of Commons disqualification
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Northern Ireland Assembly disqualification
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Freedom of information
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Public sector equality duty
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
