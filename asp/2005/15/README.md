@@ -1,0 +1,118 @@
+# Environmental Assessment (Scotland) Act 2005
+
+asp/2005/15. Enacted 2005-12-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2005/15/2024-01-01
+
+## Contents
+
+- Part 1 Environmental assessment for plans and programmes
+  - [s. 1 Requirement for environmental assessment](section/1.md)
+  - [s. 2 Responsible authorities](section/2.md)
+  - [s. 3 Consultation authorities](section/3.md)
+  - [s. 4 Plans and programmes](section/4.md)
+  - [s. 5 Qualifying plans and programmes](section/5.md)
+  - [s. 6 Types of excluded plans and programmes](section/6.md)
+  - [s. 7 Exemptions: pre-screening](section/7.md)
+  - [s. 8 Exemptions: screening](section/8.md)
+  - [s. 9 Screening: procedure](section/9.md)
+  - [s. 10 Screening: publicity for determinations](section/10.md)
+  - [s. 11 Directions as regards plans and programmes](section/11.md)
+  - [s. 12 Restriction on adoption or submission](section/12.md)
+  - [s. 13 Relationship with other assimilated law requirements](section/13.md)
+- Part 2 Environmental reports and consultation
+  - [s. 14 Preparation of environmental report](section/14.md)
+  - [s. 15 Scoping](section/15.md)
+  - [s. 16 Consultation procedures](section/16.md)
+  - [s. 17 Account to be taken of environmental report etc.](section/17.md)
+- Part 3 Post-adoption procedures
+  - [s. 18 Information as to adoption of a qualifying plan or programme](section/18.md)
+  - [s. 19 Monitoring of implementation of qualifying plans and programmes](section/19.md)
+- Part 4 Miscellaneous
+  - [s. 20 Annual reports](section/20.md)
+- Part 5 General
+  - [s. 21 Crown application](section/21.md)
+  - [s. 22 Orders](section/22.md)
+  - [s. 23 Ancillary provision](section/23.md)
+  - [s. 24 Environmental Assessment of Plans and Programmes (Scotland) Regulations 2004](section/24.md)
+  - [s. 25 Interpretation](section/25.md)
+  - [s. 26 Commencement and short title](section/26.md)
+- SCHEDULE 1 Projects
+  - Part 1
+    - Particular projects
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - General
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Part 2
+    - Agriculture, silviculture and aquaculture
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Extractive industry
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Energy industry
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Production and processing of metals
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Mineral industry
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Chemical industry
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Food industry
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Textile, leather, wood and paper industries
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Rubber industry
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Infrastructure projects
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Tourism and leisure
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Miscellaneous projects
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - General
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Interpretation
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+- SCHEDULE 2 Criteria for determining the likely significance of effects on the environment
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Information for environmental reports
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
