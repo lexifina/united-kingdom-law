@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-31, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2023-12-31
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2024-01-01
 
 ## Contents
 
@@ -284,10 +284,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2023-12-31
     - [s. 182 Regulations and consultation](section/182.md)
   - Changes to the Data Protection Convention
     - [s. 183 Power to reflect changes to the Data Protection Convention](section/183.md)
+    - [s. 183B Protection of prohibitions and restrictions etc on processing: other enactments](section/183B.md)
   - Rights of the data subject
     - [s. 184 Prohibition of requirement to produce relevant records](section/184.md)
     - [s. 185 Avoidance of certain contractual terms relating to health records](section/185.md)
     - [s. 186 Data subject’s rights and other prohibitions and restrictions](section/186.md)
+    - [s. 186A Protection of data subject’s rights: further provision](section/186A.md)
   - Representation of data subjects
     - [s. 187 Representation of data subjects with their authority](section/187.md)
     - [s. 188 Representation of data subjects with their authority: collective proceedings](section/188.md)
