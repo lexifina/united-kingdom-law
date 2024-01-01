@@ -1,0 +1,171 @@
+# Contracts (Applicable Law) Act 1990
+
+1990 c. 36. Enacted 1990-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/36
+
+Source: https://www.legislation.gov.uk/ukpga/1990/36/2024-01-01
+
+## Contents
+
+- [s. 1 Meaning of “the Rome Convention”](section/1.md)
+- [s. 2 Application of the Rome Convention](section/2.md)
+- [s. 3 Interpretation of the Rome Convention.](section/3.md)
+- [s. 4 Revision of Conventions etc.](section/4.md)
+- [s. 4A Disapplication where the rules in the Rome I Regulations apply: England and Wales and Northern Ireland](section/4A.md)
+- [s. 4B Disapplication where the rules in the Rome I Regulation apply: Scotland](section/4B.md)
+- [s. 5 Consequential amendments.](section/5.md)
+- [s. 6 Application to Crown.](section/6.md)
+- [s. 7 Commencement.](section/7.md)
+- [s. 8 Extent.](section/8.md)
+- [s. 9 Short title.](section/9.md)
+- SCHEDULE 1 The Rome Convention
+  - Title I Scope of the Convention
+    - Article 1
+    - Scope of the Convention
+      - [Sch. 1 Pt. 1 heading scope-of-the-convention para. 1](schedule/1/part/1/crossheading/scope-of-the-convention/paragraph/1.md)
+      - [Sch. 1 Pt. 1 heading scope-of-the-convention para. 2](schedule/1/part/1/crossheading/scope-of-the-convention/paragraph/2.md)
+      - [Sch. 1 Pt. 1 heading scope-of-the-convention para. 3](schedule/1/part/1/crossheading/scope-of-the-convention/paragraph/3.md)
+      - [Sch. 1 Pt. 1 heading scope-of-the-convention para. 4](schedule/1/part/1/crossheading/scope-of-the-convention/paragraph/4.md)
+    - Article 2
+    - Application of law of a country outside of the United Kingdom
+  - Title II Uniform Rules
+    - Article 3
+    - Freedom of choice
+      - [Sch. 1 Pt. 2 heading freedom-of-choice para. 1](schedule/1/part/2/crossheading/freedom-of-choice/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading freedom-of-choice para. 2](schedule/1/part/2/crossheading/freedom-of-choice/paragraph/2.md)
+      - [Sch. 1 Pt. 2 heading freedom-of-choice para. 3](schedule/1/part/2/crossheading/freedom-of-choice/paragraph/3.md)
+      - [Sch. 1 Pt. 2 heading freedom-of-choice para. 4](schedule/1/part/2/crossheading/freedom-of-choice/paragraph/4.md)
+    - Article 4
+    - Applicable law in the absence of choice
+      - [Sch. 1 Pt. 2 heading applicable-law-in-the-absence-of-choice para. 1](schedule/1/part/2/crossheading/applicable-law-in-the-absence-of-choice/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading applicable-law-in-the-absence-of-choice para. 2](schedule/1/part/2/crossheading/applicable-law-in-the-absence-of-choice/paragraph/2.md)
+      - [Sch. 1 Pt. 2 heading applicable-law-in-the-absence-of-choice para. 3](schedule/1/part/2/crossheading/applicable-law-in-the-absence-of-choice/paragraph/3.md)
+      - [Sch. 1 Pt. 2 heading applicable-law-in-the-absence-of-choice para. 4](schedule/1/part/2/crossheading/applicable-law-in-the-absence-of-choice/paragraph/4.md)
+      - [Sch. 1 Pt. 2 heading applicable-law-in-the-absence-of-choice para. 5](schedule/1/part/2/crossheading/applicable-law-in-the-absence-of-choice/paragraph/5.md)
+    - Article 5
+    - Certain consumer contracts
+      - [Sch. 1 Pt. 2 heading certain-consumer-contracts para. 1](schedule/1/part/2/crossheading/certain-consumer-contracts/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading certain-consumer-contracts para. 2](schedule/1/part/2/crossheading/certain-consumer-contracts/paragraph/2.md)
+      - [Sch. 1 Pt. 2 heading certain-consumer-contracts para. 3](schedule/1/part/2/crossheading/certain-consumer-contracts/paragraph/3.md)
+      - [Sch. 1 Pt. 2 heading certain-consumer-contracts para. 4](schedule/1/part/2/crossheading/certain-consumer-contracts/paragraph/4.md)
+      - [Sch. 1 Pt. 2 heading certain-consumer-contracts para. 5](schedule/1/part/2/crossheading/certain-consumer-contracts/paragraph/5.md)
+    - Article 6
+    - Individual employment contracts
+      - [Sch. 1 Pt. 2 heading individual-employment-contracts para. 1](schedule/1/part/2/crossheading/individual-employment-contracts/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading individual-employment-contracts para. 2](schedule/1/part/2/crossheading/individual-employment-contracts/paragraph/2.md)
+    - Article 7
+    - Mandatory rules
+      - [Sch. 1 Pt. 2 heading mandatory-rules para. 1](schedule/1/part/2/crossheading/mandatory-rules/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading mandatory-rules para. 2](schedule/1/part/2/crossheading/mandatory-rules/paragraph/2.md)
+    - Article 8
+    - Material validity
+      - [Sch. 1 Pt. 2 heading material-validity para. 1](schedule/1/part/2/crossheading/material-validity/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading material-validity para. 2](schedule/1/part/2/crossheading/material-validity/paragraph/2.md)
+    - Article 9
+    - Formal validity
+      - [Sch. 1 Pt. 2 heading formal-validity para. 1](schedule/1/part/2/crossheading/formal-validity/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading formal-validity para. 2](schedule/1/part/2/crossheading/formal-validity/paragraph/2.md)
+      - [Sch. 1 Pt. 2 heading formal-validity para. 3](schedule/1/part/2/crossheading/formal-validity/paragraph/3.md)
+      - [Sch. 1 Pt. 2 heading formal-validity para. 4](schedule/1/part/2/crossheading/formal-validity/paragraph/4.md)
+      - [Sch. 1 Pt. 2 heading formal-validity para. 5](schedule/1/part/2/crossheading/formal-validity/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Article 10
+    - Scope of the applicable law
+      - [Sch. 1 Pt. 2 heading scope-of-the-applicable-law para. 1](schedule/1/part/2/crossheading/scope-of-the-applicable-law/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading scope-of-the-applicable-law para. 2](schedule/1/part/2/crossheading/scope-of-the-applicable-law/paragraph/2.md)
+    - Article 11
+    - Incapacity
+    - Article 12
+    - Voluntary assignment
+      - [Sch. 1 Pt. 2 heading voluntary-assignment para. 1](schedule/1/part/2/crossheading/voluntary-assignment/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading voluntary-assignment para. 2](schedule/1/part/2/crossheading/voluntary-assignment/paragraph/2.md)
+    - Article 13
+    - Subrogation
+      - [Sch. 1 Pt. 2 heading subrogation para. 1](schedule/1/part/2/crossheading/subrogation/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading subrogation para. 2](schedule/1/part/2/crossheading/subrogation/paragraph/2.md)
+    - Article 14
+    - Burden of proof, etc.
+      - [Sch. 1 Pt. 2 heading burden-of-proof-etc para. 1](schedule/1/part/2/crossheading/burden-of-proof-etc/paragraph/1.md)
+      - [Sch. 1 Pt. 2 heading burden-of-proof-etc para. 2](schedule/1/part/2/crossheading/burden-of-proof-etc/paragraph/2.md)
+    - Article 15
+    - Exclusion of renvoi
+    - Article 16
+  - “Ordre public”
+  - Article 17
+  - No retrospective effect
+  - Article 18
+  - Uniform interpretation
+  - Article 19
+  - States with more than one legal system
+    - [Sch. 1 heading states-with-more-than-one-legal-system para. 1](schedule/1/crossheading/states-with-more-than-one-legal-system/paragraph/1.md)
+    - [Sch. 1 heading states-with-more-than-one-legal-system para. 2](schedule/1/crossheading/states-with-more-than-one-legal-system/paragraph/2.md)
+  - Article 20
+  - Precedence of assimilated law
+  - Article 21
+  - Relationship with other conventions
+  - Article 22
+  - Reservations
+  - Title III Final Provisions
+    - Article 23
+    - Article 24
+    - Article 25
+    - Article 26
+    - Article 27
+    - Article 28
+    - Article 29
+    - Article 30
+    - Article 31
+    - Article 32
+    - Article 33
+    - PROTOCOL
+- SCHEDULE 2 The Luxembourg Convention
+- SCHEDULE 3 The Brussels Protocol
+  - Article 1
+  - Article 2
+  - Article 3
+  - Article 4
+  - Article 5
+  - Article 6
+  - Article 7
+  - Article 8
+  - Article 9
+  - Article 10
+  - Article 11
+- SCHEDULE 3A THE FUNCHAL CONVENTION
+  - Article 1
+  - Article 2
+  - Article 3
+  - Article 4
+  - Article 5
+  - Article 6
+  - Article 7
+- SCHEDULE 3B THE 1996 ACCESSION CONVENTION
+  - TITLE I General Provisions
+    - ARTICLE I
+  - TITLE II
+  - Adjustments to the Protocol annexed to the Convention of 1980
+    - ARTICLE 2
+  - TITLE III Adjustments to the First Protocol of 1988
+    - ARTICLE 3
+  - TITLE IV Final Provisions
+    - ARTICLE 4
+    - ARTICLE 5
+    - ARTICLE 6
+    - ARTICLE 7
+    - ARTICLE 8
+- SCHEDULE 4 Consequential Amendments
+  - The Equal Pay Act (Northern Ireland) 1970 (c.32 (N.I.))
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Consumer Credit Act 1974 (c.39)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Patents Act 1977 (c.37)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Unfair Contract Terms Act 1977 (c.50)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Aviation Security Act 1982 (c.36)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Income and Corporation Taxes Act 1988 (c.1)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
