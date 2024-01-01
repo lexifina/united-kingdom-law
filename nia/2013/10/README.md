@@ -1,0 +1,130 @@
+# Marine Act (Northern Ireland) 2013
+
+nia/2013/10. Enacted 2013-09-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2013/10/2024-01-01
+
+## Contents
+
+- Part 1 Preliminary
+  - [s. 1 Sustainable development](section/1.md)
+  - [s. 2 The Northern Ireland inshore region](section/2.md)
+  - [s. 3 Arrangements to promote co-ordination of functions in Northern Ireland inshore region](section/3.md)
+- Part 2 Marine Planning
+  - Marine plans
+    - [s. 4 Marine plans for Northern Ireland inshore region](section/4.md)
+    - [s. 5 Amendment of marine plan](section/5.md)
+    - [s. 6 Withdrawal of marine plan](section/6.md)
+    - [s. 7 Duty to keep relevant matters under review](section/7.md)
+  - Decisions affected by a marine plan
+    - [s. 8 Decisions affected by a marine plan](section/8.md)
+  - Monitoring and reporting on marine plans
+    - [s. 9 Monitoring of, and periodical reporting on, marine plans](section/9.md)
+  - Validity of marine plans and amendments
+    - [s. 10 Validity of marine plans](section/10.md)
+    - [s. 11 Powers of the High Court on an application under section 10](section/11.md)
+  - Interpretation
+    - [s. 12 Interpretation of this Part](section/12.md)
+- Part 3 Marine protection
+  - Designation of MCZs
+    - [s. 13 Designation of marine conservation zones](section/13.md)
+  - MCZs
+    - [s. 14 Grounds for designation of MCZ](section/14.md)
+    - [s. 15 Further provision as to orders designating MCZs](section/15.md)
+  - Designation procedure
+    - [s. 16 Consultation before designation](section/16.md)
+    - [s. 17 Publication of orders](section/17.md)
+    - [s. 18 Hearings](section/18.md)
+    - [s. 19 Review of orders](section/19.md)
+  - Duties of Department
+    - [s. 20 Creation of network of conservation sites](section/20.md)
+    - [s. 21 Reports](section/21.md)
+  - Duties of public authorities
+    - [s. 22 General duties of public authorities in relation to MCZs](section/22.md)
+    - [s. 23 Duties of public authorities in relation to certain decisions](section/23.md)
+    - [s. 24 Advice and guidance by the Department](section/24.md)
+    - [s. 25 Failure to comply with duties, etc.](section/25.md)
+  - Byelaws
+    - [s. 26 Byelaws for protection of MCZs](section/26.md)
+    - [s. 27 Byelaws: procedure](section/27.md)
+    - [s. 28 Emergency byelaws](section/28.md)
+    - [s. 29 Interim byelaws for MCZ](section/29.md)
+    - [s. 30 Byelaws: supplementary](section/30.md)
+    - [s. 31 Hearings](section/31.md)
+  - Offences
+    - [s. 32 Offence of contravening byelaws](section/32.md)
+    - [s. 33 Offence of damaging, etc. protected features of MCZ](section/33.md)
+    - [s. 34 Exceptions](section/34.md)
+  - Fixed monetary penalties
+    - [s. 35 Fixed monetary penalties](section/35.md)
+    - [s. 36 Fixed monetary penalties: procedure](section/36.md)
+    - [s. 37 Fixed monetary penalties: further provision](section/37.md)
+  - Enforcement powers
+    - [s. 38 Enforcement officers](section/38.md)
+    - [s. 39 The common enforcement powers](section/39.md)
+  - Supplementary
+    - [s. 40 Repeals, amendments and transitional provisions](section/40.md)
+    - [s. 41 Interpretation of this Part](section/41.md)
+- Part 4 Marine licensing: Generating stations
+  - [s. 42 Special procedure for applications relating to generating stations](section/42.md)
+- Part 5 Supplementary
+  - [s. 43 Regulations and orders](section/43.md)
+  - [s. 44 Offences: companies, etc.](section/44.md)
+  - [s. 45 Disapplication of requirement for consent to certain prosecutions](section/45.md)
+  - [s. 46 Supplementary, incidental, consequential, transitional provision etc.](section/46.md)
+  - [s. 47 Crown application](section/47.md)
+  - [s. 48 Interpretation](section/48.md)
+  - [s. 49 Commencement](section/49.md)
+  - [s. 50 Short title](section/50.md)
+- Schedule 1 Marine plans: preparation and adoption
+  - Department to notify relevant authorities of decision to prepare plan
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Secretary of State to be kept informed of Department’s intentions as to certain matters.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Marine plans to be compatible with certain other marine plans and development plans
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Consultation with other relevant Northern Ireland departments.
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Statement of public participation.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Further provision about the content of an SPP.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Review and revision of the SPP
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Advice and assistance.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Matters to which the Department is to have regard in preparing a marine plan
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Sustainability appraisal.
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Preparation and publication of a consultation draft.
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Representations about the consultation draft.
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Independent investigation
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Matters to which Department is to have regard in settling text for adoption
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Adoption and publication of a marine plan.
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Action taken by the Department before commencement
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- Schedule 2 Further provision about fixed monetary penalties under section 35
+  - Fixed monetary penalties: other sanctions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Monetary penalties
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Appeals
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Consultation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Guidance as to use of fixed monetary penalties
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Guidance as to enforcement of offences
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Publication of enforcement action
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Disclosure of information
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
