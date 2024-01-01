@@ -1,0 +1,225 @@
+# Flood Risk Management (Scotland) Act 2009
+
+asp/2009/6. Enacted 2009-06-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2009/6/2024-01-01
+
+## Contents
+
+- Part 1 General duty, directions and guidance
+  - [s. 1 General duty](section/1.md)
+  - [s. 2 Directions and guidance](section/2.md)
+- Part 2 Principal expressions
+  - [s. 3 “Flood” and “flood risk”](section/3.md)
+  - [s. 4 SEPA](section/4.md)
+  - [s. 5 Responsible authorities](section/5.md)
+  - [s. 6 “The Directive”](section/6.md)
+  - [s. 6A Interpretation of the Directive](section/6A.md)
+- Part 3 Flood risk assessment, maps and plans
+  - Purpose of Part
+    - [s. 7 General purpose of Part 3](section/7.md)
+  - Flood risk management districts
+    - [s. 8 Flood risk management districts](section/8.md)
+  - Flood risk assessment
+    - [s. 9 SEPA to prepare flood risk assessments](section/9.md)
+    - [s. 10 Flood risk assessments: review](section/10.md)
+    - [s. 11 Flood risk assessments: regulations](section/11.md)
+    - [s. 12 Flood risk assessments: availability for public inspection](section/12.md)
+  - Identification of potentially vulnerable areas and local plan districts
+    - [s. 13 SEPA to identify potentially vulnerable areas and local plan districts](section/13.md)
+    - [s. 14 Potentially vulnerable areas and local plan districts: review](section/14.md)
+    - [s. 15 Potentially vulnerable areas and local plan districts: regulations](section/15.md)
+  - Assessment of flood risk from sewerage systems
+    - [s. 16 Scottish Water to assess flood risk from sewerage systems](section/16.md)
+  - Bodies of water etc.: mapping and assessment
+    - [s. 17 Local authorities to prepare maps of bodies of water etc.](section/17.md)
+    - [s. 18 Local authorities to assess bodies of water](section/18.md)
+  - Artificial structures and natural features: mapping and assessment
+    - [s. 19 SEPA to prepare maps of artificial structures and natural features](section/19.md)
+  - Assessment of possible contribution of alteration etc. of natural features and characteristics
+    - [s. 20 SEPA to assess possible contribution of alteration etc. of natural features and characteristics](section/20.md)
+  - Flood hazard maps and flood risk maps
+    - [s. 21 SEPA to prepare flood hazard maps and flood risk maps](section/21.md)
+    - [s. 22 Flood hazard maps](section/22.md)
+    - [s. 23 Flood risk maps](section/23.md)
+    - [s. 24 Flood hazard maps and flood risk maps: review](section/24.md)
+    - [s. 25 Flood hazard maps and flood risk maps: availability for public inspection](section/25.md)
+    - [s. 26 Flood hazard maps and flood risk maps: regulations](section/26.md)
+  - Flood risk management plans
+    - [s. 27 SEPA to prepare flood risk management plans](section/27.md)
+    - [s. 28 Flood risk management plans: objectives and measures](section/28.md)
+    - [s. 29 Flood risk management plans: guidance](section/29.md)
+    - [s. 30 Flood risk management plans: publicity of drafts etc. and consultation](section/30.md)
+    - [s. 31 Flood risk management plans: submission for approval](section/31.md)
+    - [s. 32 Flood risk management plans: approval and publication](section/32.md)
+    - [s. 33 Flood risk management plans: review](section/33.md)
+  - Local flood risk management plans
+    - [s. 34 Local authorities to prepare local flood risk management plans](section/34.md)
+    - [s. 35 Local flood risk management plans: publicity and consultation](section/35.md)
+    - [s. 36 Local flood risk management plans: completion and publication](section/36.md)
+    - [s. 37 Local flood risk management plans: interim report](section/37.md)
+    - [s. 38 Local flood risk management plans: final report](section/38.md)
+    - [s. 39 Local flood risk management plans: joint working](section/39.md)
+  - Regulations about plans
+    - [s. 40 Regulations relating to flood risk management plans and local flood risk management plans](section/40.md)
+  - Duty to have regard to plans
+    - [s. 41 Duty to have regard to flood risk management plans and local flood risk management plans](section/41.md)
+    - [s. 42 Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008](section/42.md)
+  - Provision of information and assistance
+    - [s. 43 Power of SEPA to obtain information, documents and assistance](section/43.md)
+    - [s. 44 Power of lead authorities to obtain information, documents and assistance](section/44.md)
+    - [s. 45 Power of local authorities to obtain information](section/45.md)
+    - [s. 46 Power to obtain information, documents and assistance: supplementary](section/46.md)
+    - [s. 47 Power to obtain information, documents and assistance: offence](section/47.md)
+  - Consistency and co-ordination with river basin management planning under the 2003 Act
+    - [s. 48 Consistency and co-ordination with characterisations and plans under the 2003 Act](section/48.md)
+  - Advisory groups
+    - [s. 49 District flood risk advisory groups](section/49.md)
+    - [s. 50 Sub-district flood risk advisory groups](section/50.md)
+    - [s. 50A Cross border areas](section/50A.md)
+  - Supplementary
+    - [s. 51 Power to give effect to EU obligations etc.](section/51.md)
+    - [s. 52 Annual report on implementation of Directive](section/52.md)
+    - [s. 53 Availability of documents for public inspection](section/53.md)
+    - [s. 54 Publicity of matters](section/54.md)
+    - [s. 55 Interpretation of Part 3](section/55.md)
+- Part 4 Flood risk management: local authority functions
+  - General power
+    - [s. 56 General power to manage flood risk](section/56.md)
+    - [s. 57 Limits of general power](section/57.md)
+    - [s. 58 Limits of general power: statutory undertakings](section/58.md)
+  - Clearance and repair works
+    - [s. 59 Duty to carry out clearance and repair works](section/59.md)
+  - Flood protection schemes
+    - [s. 60 Flood protection schemes](section/60.md)
+    - [s. 61 Orders under the Land Drainage (Scotland) Act 1958](section/61.md)
+    - [s. 62 Registers of flood protection schemes](section/62.md)
+    - [s. 63 Registers of flood protection schemes: information about schemes under 1961 Act](section/63.md)
+    - [s. 64 Registers of flood protection schemes: regulations etc.](section/64.md)
+  - Deemed planning permission
+    - [s. 65 Deemed planning permission for scheme work](section/65.md)
+  - Acquisition of land
+    - [s. 66 Acquisition of land](section/66.md)
+  - General
+    - [s. 67 Recovery of expenses](section/67.md)
+    - [s. 68 Information about ownership etc. of land](section/68.md)
+    - [s. 69 Damage to certain flood protection work](section/69.md)
+    - [s. 70 Repeal of Flood Prevention (Scotland) Act 1961](section/70.md)
+    - [s. 71 Interpretation of Part 4](section/71.md)
+- Part 5 SEPA: other flood risk management functions
+  - Advice to planning authorities and others as to flood risk
+    - [s. 72 Advice to planning authorities and others as to flood risk](section/72.md)
+  - Other assessment and maps of flood risk
+    - [s. 73 Other assessment and maps of flood risk](section/73.md)
+  - Flood warning
+    - [s. 74 Flood warning](section/74.md)
+    - [s. 75 Assessment of whether flood warning system should be provided or altered](section/75.md)
+    - [s. 76 Provision, alteration etc. of flood warning system](section/76.md)
+    - [s. 77 Consultation required by sections 75 and 76](section/77.md)
+  - Power to obtain information about land
+    - [s. 78 SEPA’s power to obtain information about land](section/78.md)
+- Part 6 Powers of entry and compensation
+  - Powers of entry
+    - [s. 79 Powers of entry](section/79.md)
+    - [s. 80 Warrants authorising entry](section/80.md)
+    - [s. 81 Powers of entry: supplementary](section/81.md)
+  - Compensation
+    - [s. 82 Compensation](section/82.md)
+    - [s. 83 Compensation: supplementary](section/83.md)
+- Part 7 Reservoirs
+  - SEPA to be enforcement authority under the Reservoirs Act 1975
+    - [s. 84 SEPA to be enforcement authority under the Reservoirs Act 1975](section/84.md)
+    - [s. 85 Transitional arrangements](section/85.md)
+    - [s. 86 Service of documents](section/86.md)
+  - Enforcement powers and incident reporting
+    - [s. 87 Extension of enforcement authority’s reserve powers](section/87.md)
+    - [s. 88 Incident reporting](section/88.md)
+    - [s. 89 Flood plans](section/89.md)
+  - Crown application
+    - [s. 90 Reservoirs Act 1975: Crown application](section/90.md)
+- Part 8 General
+  - [s. 91 Crown application](section/91.md)
+  - [s. 92 Offences by bodies corporate etc.](section/92.md)
+  - [s. 93 Ancillary provision](section/93.md)
+  - [s. 94 Orders and regulations](section/94.md)
+  - [s. 95 Interpretation: general](section/95.md)
+  - [s. 96 Minor and consequential modifications](section/96.md)
+  - [s. 97 Commencement and short title](section/97.md)
+- SCHEDULE 1 Matters to be included in flood risk management plans
+  - Part 1 Matters to be included in every plan
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part 2 Components of the subsequent update of flood risk management plans
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Flood protection schemes: procedure etc.
+  - Notification
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Public inspection of scheme proposal
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Objections
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Decision where no valid objections received
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Preliminary decision following objections
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Ministerial call-in
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Ministerial consideration of proposed scheme
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Local authority hearing to consider proposed scheme
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Final decision following preliminary decision
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Notice of final decision
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Commencement of scheme
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Appeals
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Assessment of environmental effects
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Further provision
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Minor and consequential modifications
+  - Land Drainage (Scotland) Act 1958 (c. 24)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Agriculture Act 1970 (c. 40)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Civil Aviation Act 1982 (c. 16)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Roads (Scotland) Act 1984 (c. 54)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Local Government etc. (Scotland) Act 1994 (c. 39)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Gas Act 1995 (c. 45)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Planning (Consequential Provisions) (Scotland) Act 1997 (c. 11)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Flood Prevention and Land Drainage (Scotland) Act 1997 (c. 36)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Water Industry (Scotland) Act 2002 (asp 3)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Water Environment and Water Services (Scotland) Act 2003 (asp 3)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Index
