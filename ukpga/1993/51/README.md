@@ -1,0 +1,21 @@
+# European Economic Area Act 1993
+
+1993 c. 51. Enacted 1993-11-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1993/51/2024-01-01
+
+## Contents
+
+- [s. 1 Agreement on European Economic Area.](section/1.md)
+- [s. 2 Consistent application of law to whole of EEA.](section/2.md)
+- [s. 3 General implementation of Agreement.](section/3.md)
+- [s. 4 Amendment of 1972 Act s.3.](section/4.md)
+- [s. 5 Regulations.](section/5.md)
+- [s. 6 Interpretation.](section/6.md)
+- [s. 7 Short title.](section/7.md)
+- SCHEDULE Limitations on application of section 2(1)
+  - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - [Sch. paragraph 3](schedule/paragraph/3.md)
