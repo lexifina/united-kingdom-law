@@ -2,9 +2,9 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-06-29
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2024-01-01
 
 ## Contents
 
@@ -19,8 +19,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-06-29
   - [s. 4 Saving for rights etc. under section 2(1) of the ECA](section/4.md)
   - [s. 5 Exceptions to savings and incorporation](section/5.md)
   - [s. 5A Savings and incorporation: supplementary](section/5A.md)
-  - [s. 6 Interpretation of retained EU law](section/6.md)
-  - [s. 7 Status of retained EU law](section/7.md)
+  - [s. 6 Interpretation of assimilated law](section/6.md)
+  - [s. 6D Incompatibility orders](section/6D.md)
+  - [s. 7 Status of assimilated law](section/7.md)
 - Further aspects of withdrawal
   - [s. 7A General implementation of remainder of withdrawal agreement](section/7A.md)
   - [s. 7B General implementation of EEA EFTA and Swiss agreements](section/7B.md)
@@ -57,9 +58,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-06-29
   - [s. 24 Extent](section/24.md)
   - [s. 25 Commencement and short title](section/25.md)
 - SCHEDULE 1 Further provision about exceptions to savings and incorporation
-  - Challenges to validity of retained EU law
+  - Challenges to validity of assimilated law
     - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
-  - General principles of EU law
+  - ...
     - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
     - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
   - Rule in Francovich
@@ -267,7 +268,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-06-29
     - [Sch. 7 para. 8F Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement](schedule/7/paragraph/8F.md)
     - [Sch. 7 para. 8G Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement](schedule/7/paragraph/8G.md)
   - Part 2 Scrutiny of other powers under Act
-    - Power to enable challenges to validity of retained EU law
+    - Power to enable challenges to validity of assimilated law
       - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
     - Power in relation to interpretation of retained EU law
       - [Sch. 7 para. 9A](schedule/7/paragraph/9A.md)
@@ -330,7 +331,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2023-06-29
       - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
 - SCHEDULE 8 Consequential, transitional, transitory and saving provision
   - Part 1 General consequential provision
-    - Existing ambulatory references to retained direct EU legislation
+    - Existing ambulatory references to assimilated direct legislation
       - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
     - Existing ambulatory references to relevant separation agreement law
       - [Sch. 8 para. 1A](schedule/8/paragraph/1A.md)
