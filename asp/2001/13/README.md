@@ -1,0 +1,109 @@
+# International Criminal Court (Scotland) Act 2001
+
+asp/2001/13. Enacted 2001-09-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2001/13/2024-01-04
+
+## Contents
+
+- Part 1 Offences
+  - Offences
+    - [s. 1 Genocide, crimes against humanity and war crimes](section/1.md)
+    - [s. 2 Conduct ancillary to genocide etc.](section/2.md)
+    - [s. 3 Trial and punishment of main offences](section/3.md)
+    - [s. 4 Offences in relation to the ICC](section/4.md)
+    - [s. 5 Responsibility of military commanders and other superiors](section/5.md)
+    - [s. 6 Proceedings against persons becoming resident in the United Kingdom](section/6.md)
+    - [s. 7 Meaning of “ancillary offence”](section/7.md)
+    - [s. 8 Mental element](section/8.md)
+    - [s. 8A Meaning of “United Kingdom national” and “United Kingdom resident”](section/8A.md)
+    - [s. 9 Application of principles of the law of Scotland, construction etc.](section/9.md)
+    - [s. 9A Retrospective application of certain offences](section/9A.md)
+    - [s. 9B Provision supplemental to section 9A: modification of penalties](section/9B.md)
+    - [s. 10 Amendment of Criminal Procedure (Scotland) Act 1995](section/10.md)
+- Part 2 Assistance
+  - Introduction
+    - [s. 11 Provision of assistance to the ICC](section/11.md)
+  - Forms of assistance
+    - [s. 12 Questioning](section/12.md)
+    - [s. 13 Taking or production of evidence](section/13.md)
+    - [s. 14 Taking or production of evidence: further provisions](section/14.md)
+    - [s. 15 Service of process](section/15.md)
+    - [s. 16 Entry, search and seizure](section/16.md)
+    - [s. 17 Taking of fingerprints etc.](section/17.md)
+    - [s. 18 Provision of records and documents](section/18.md)
+    - [s. 19 Investigation of proceeds of ICC crime](section/19.md)
+    - [s. 20 Freezing orders in respect of property liable to forfeiture](section/20.md)
+  - Supplementary provisions
+    - [s. 21 Verification of material](section/21.md)
+    - [s. 22 Transmission of material to the ICC](section/22.md)
+- Part 3 Enforcement of sentences and orders
+  - Sentences of imprisonment
+    - [s. 23 Detention in Scotland of certain prisoners](section/23.md)
+    - [s. 24 Limited disapplication of certain provisions relating to sentences](section/24.md)
+    - [s. 25 Amendment of Mental Health (Scotland) Act 1984](section/25.md)
+  - Orders
+    - [s. 26 Power to make provision for enforcement of orders](section/26.md)
+- Part 4 General
+  - [s. 27 Supplementary provisions relating to the ICC](section/27.md)
+  - [s. 28 Interpretation](section/28.md)
+  - [s. 29 Crown application](section/29.md)
+  - [s. 30 Short title and commencement](section/30.md)
+- SCHEDULE 1 Genocide, crimes against humanity and war crimes: articles 6 to 9
+  - Article 6 Genocide
+  - Article 7 Crimes against humanity
+    - [Sch. 1 Pt. 2 para. 1](schedule/1/part/2/paragraph/1.md)
+    - [Sch. 1 Pt. 2 para. 2](schedule/1/part/2/paragraph/2.md)
+    - [Sch. 1 Pt. 2 para. 3](schedule/1/part/2/paragraph/3.md)
+  - Article 8 War crimes
+    - [Sch. 1 Pt. 3 para. 2](schedule/1/part/3/paragraph/2.md)
+  - Article 9 Elements of crimes
+    - [Sch. 1 Pt. 4 para. 1](schedule/1/part/4/paragraph/1.md)
+    - [Sch. 1 Pt. 4 para. 2](schedule/1/part/4/paragraph/2.md)
+    - [Sch. 1 Pt. 4 para. 3](schedule/1/part/4/paragraph/3.md)
+- SCHEDULE 2 Offences against the administration of justice: article 70
+  - Article 70 Offences against the administration of justice
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Rights of persons during an investigation: article 55
+  - Article 55 Rights of persons during an investigation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 Taking of fingerprints etc.
+  - [Sch. 4 para. 1 Nomination of court to supervise taking of evidence](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Order to provide evidence](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Requirement to attend and provide evidence](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Consent to taking of evidence](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Taking of evidence without consent](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Record of certain matters to be made](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Destruction of prints and samples](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Investigation of proceeds of ICC crime
+  - Part 1 Production or access orders
+    - [Sch. 5 para. 1 Application for order](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Grounds for making order](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Production or access orders: standard orders](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Production or access orders: special orders](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Supplementary provision in relation to orders](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Effect of order](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Order in relation to material in possession of government department](schedule/5/paragraph/7.md)
+  - Part 2 Search warrants
+    - [Sch. 5 para. 8 Application for warrant](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Effect of warrant](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Grounds for issue of warrant](schedule/5/paragraph/10.md)
+  - Part 3 Interpretation
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Freezing orders in respect of property liable to forfeiture
+  - [Sch. 6 para. 1 Application for freezing order](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Grounds for making order](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Effect of order](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Variation or discharge of order](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Power to appoint receiver](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Inhibition of property affected by freezing order](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Seizure to prevent removal from Scotland](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Sequestration](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Winding up](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Property subject to floating charge](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Protection of insolvency practitioners](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12 Interpretation](schedule/6/paragraph/12.md)
