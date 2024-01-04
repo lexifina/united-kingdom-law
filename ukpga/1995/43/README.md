@@ -1,0 +1,111 @@
+# Proceeds of Crime (Scotland) Act 1995
+
+1995 c. 43. Enacted 1995-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1995/43/2024-01-04
+
+## Contents
+
+- Confiscation of the Proceeds of Crime
+  - Confiscation orders
+    - [s. 1 General provision.](section/1.md)
+    - [s. 2 Benefit from commission of offence](section/2.md)
+    - [s. 3 Assessing the proceeds of drug trafficking.](section/3.md)
+    - [s. 4 Realisable property.](section/4.md)
+    - [s. 5 Gifts caught by Part I.](section/5.md)
+    - [s. 6 Implicative gifts.](section/6.md)
+    - [s. 7 Gifts: valuation.](section/7.md)
+    - [s. 8 Making of confiscation orders.](section/8.md)
+    - [s. 9 Statements relevant to making confiscation orders.](section/9.md)
+    - [s. 10 Postponed confiscation orders.](section/10.md)
+    - [s. 11 Increase in benefit or realisable property.](section/11.md)
+    - [s. 12 Realisable property inadequate to meet payments under confiscation order.](section/12.md)
+    - [s. 13 Confiscation orders where proceeds of crime discovered at later date.](section/13.md)
+    - [s. 14 Application of provisions relating to fines to enforcement of confiscation orders.](section/14.md)
+    - [s. 15 Interest on sums unpaid under confiscation orders.](section/15.md)
+  - Exercise of powers
+    - [s. 16 Exercise of powers by court or administrator.](section/16.md)
+  - Compensation
+    - [s. 17 Compensation.](section/17.md)
+  - Investigation and disclosure of information
+    - [s. 18 Order to make material available.](section/18.md)
+    - [s. 19 Authority for search.](section/19.md)
+    - [s. 20 Disclosure of information held by government departments.](section/20.md)
+- PART II Forfeiture of Property used in Crime
+  - [s. 21 Suspended forfeiture order.](section/21.md)
+  - [s. 22 Forfeiture: district court.](section/22.md)
+  - [s. 23 Warrant to search for and seize property.](section/23.md)
+  - [s. 24 Forfeiture of property subject to suspended forfeiture order.](section/24.md)
+  - [s. 25 Recall or variation of suspended forfeiture order.](section/25.md)
+  - [s. 26 Property wrongly forfeited: return or compensation.](section/26.md)
+  - [s. 27 Appeal against court decision under section 25(1) or 26(1).](section/27.md)
+- PART III Restraint Orders
+  - [s. 28 Restraint orders.](section/28.md)
+  - [s. 29 Restraint orders in relation to realisable property.](section/29.md)
+  - [s. 30 Restraint orders in relation to forfeitable property.](section/30.md)
+  - [s. 31 Variation and recall of restraint orders.](section/31.md)
+  - [s. 32 Inhibition of property affected by restraint order or by interdict.](section/32.md)
+  - [s. 33 Arrestment of property affected by restraint order.](section/33.md)
+  - [s. 34 Administrators.](section/34.md)
+- PART IV Reciprocal Arrangements for Enforcement of Orders
+  - [s. 35 Recognition and enforcement of orders made in England and Wales.](section/35.md)
+  - [s. 36 Provisions supplementary to section 35.](section/36.md)
+  - [s. 37 Inhibition of Scottish property affected by order registered under section 35.](section/37.md)
+  - [s. 38 Arrestment of Scottish property affected by order registered under section 35.](section/38.md)
+  - [s. 39 Enforcement of Northern Ireland orders.](section/39.md)
+  - [s. 40 Enforcement of orders made outside United Kingdom.](section/40.md)
+  - [s. 41 Registration of external confiscation orders.](section/41.md)
+  - [s. 42 Enforcement of Scottish orders in England and Wales.](section/42.md)
+  - [s. 43 Order in Council as regards taking of action in designated country.](section/43.md)
+- PART V Miscellaneous and General
+  - [s. 44 Sequestration etc of person holding realisable or forfeitable property.](section/44.md)
+  - [s. 45 Disposal of family home under Part I or II.](section/45.md)
+  - [s. 46 Forfeiture of property where accused has died.](section/46.md)
+  - [s. 47 Construction of certain enactments.](section/47.md)
+  - [s. 48 Service and notice.](section/48.md)
+  - [s. 49 Interpretation.](section/49.md)
+  - [s. 50 Short title, commencement and extent.](section/50.md)
+- SCHEDULE 1 Administrators
+  - Appointment of administrators
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Functions of administrators
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Money received by administrator
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Application of proceeds of realisation and other sums
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Supervision of administrators
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Accounts and remuneration of administrator
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Effect of appointment of administrator on diligence
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Further provision as to administrators
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Discharge of administrator
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Compensation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Rules of court as regards accountant of court’s supervision etc of administrators
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Power to facilitate realisation
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Sequestration etc. of Persons Holding Realisable or Forfeitable Property
+  - Sequestration of person holding realisable or forfeitable property
+    - [Sch. 2 heading sequestration-of-person-holding-realisable-or-forfeitable-property para. 1](schedule/2/crossheading/sequestration-of-person-holding-realisable-or-forfeitable-property/paragraph/1.md)
+  - Bankruptcy in England and Wales of person holding realisable or forfeitable property
+    - [Sch. 2 heading bankruptcy-in-england-and-wales-of-person-holding-realisable-or-forfeitable-property para. 2](schedule/2/crossheading/bankruptcy-in-england-and-wales-of-person-holding-realisable-or-forfeitable-property/paragraph/2.md)
+  - Winding up of company holding realisable or forfeitable property
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Property subject to floating charge
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Insolvency practitioners dealing with property subject to restraint order
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Interpretation
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - TABLE OF DERIVATIONS
+    - Notes:
+      - [Sch. 2 Pt. 1 heading notes para. 1](schedule/2/part/1/crossheading/notes/paragraph/1.md)
+      - [Sch. 2 Pt. 1 heading notes para. 2](schedule/2/part/1/crossheading/notes/paragraph/2.md)
