@@ -1,0 +1,172 @@
+# Debt Arrangement and Attachment (Scotland) Act 2002
+
+asp/2002/17. Enacted 2002-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2002/17
+
+Source: https://www.legislation.gov.uk/asp/2002/17/2024-01-04
+
+## Contents
+
+- Part 1 The debt arrangement scheme
+  - [s. 1 Debt arrangement scheme](section/1.md)
+  - [s. 2 Debt payment programmes](section/2.md)
+  - [s. 3 Money advice](section/3.md)
+  - [s. 4 Effect of debt payment programmes](section/4.md)
+  - [s. 5 Variation of debt payment programmes](section/5.md)
+  - [s. 6 Deduction from earnings](section/6.md)
+  - [s. 7 Debt payment programmes: power to make further provision](section/7.md)
+  - [s. 7A Debt payment programmes: power to make provision about debt relief](section/7A.md)
+  - [s. 8 Functions of the Scottish Ministers](section/8.md)
+  - [s. 9 Interpretation of Part](section/9.md)
+- Part 1A Interim attachment
+  - Interim attachment
+    - [s. 9A Interim attachment](section/9A.md)
+    - [s. 9B Articles exempt from interim attachment](section/9B.md)
+  - Application for interim attachment
+    - [s. 9C Application for warrant for interim attachment](section/9C.md)
+    - [s. 9D Grant of warrant without a hearing](section/9D.md)
+    - [s. 9E Hearing on application](section/9E.md)
+  - Execution of interim attachment
+    - [s. 9F Execution of interim attachment](section/9F.md)
+    - [s. 9G Execution of interim attachment before service](section/9G.md)
+  - Interim attachment: further procedure
+    - [s. 9H Order for security of attached articles](section/9H.md)
+  - Interim attachment: effects
+    - [s. 9J Unlawful acts after interim attachment](section/9J.md)
+    - [s. 9K Articles belonging to or owned in common by a third party](section/9K.md)
+    - [s. 9L Duration of interim attachment](section/9L.md)
+  - Recall etc. of interim attachment
+    - [s. 9M Recall or restriction of interim attachment](section/9M.md)
+    - [s. 9N Variation of orders and variation or recall of conditions](section/9N.md)
+  - General and miscellaneous provisions
+    - [s. 9P Expenses of interim attachment](section/9P.md)
+    - [s. 9Q Recovery of expenses of interim attachment](section/9Q.md)
+    - [s. 9R Ascription of sums recovered while interim attachment is in effect](section/9R.md)
+    - [s. 9S Ranking of interim attachment](section/9S.md)
+- Part 2 Attachment
+  - Attachment
+    - [s. 10 Attachment](section/10.md)
+    - [s. 11 Articles exempt from attachment](section/11.md)
+    - [s. 12 Times when attachment is not competent](section/12.md)
+    - [s. 13 Presumption of ownership](section/13.md)
+    - [s. 13A Schedule of attachment](section/13A.md)
+  - Attachment of articles kept outwith dwellinghouses etc.
+    - [s. 14 Procedure for attachment of articles kept outwith dwellinghouses etc.](section/14.md)
+    - [s. 15 Valuation](section/15.md)
+    - [s. 16 Attachment of mobile homes](section/16.md)
+    - [s. 17 Report of attachment](section/17.md)
+    - [s. 18 Redemption](section/18.md)
+    - [s. 19 Removal and auction of attached articles](section/19.md)
+    - [s. 19A Urgent removal of attached articles](section/19A.md)
+  - Attachment: further procedure
+    - [s. 20 Order for security of articles or sale of articles which are perishable etc.](section/20.md)
+    - [s. 21 Unlawful acts after attachment](section/21.md)
+    - [s. 22 Release of vehicle from attachment](section/22.md)
+    - [s. 23 Appeals against valuation](section/23.md)
+    - [s. 24 Duration of attachment](section/24.md)
+    - [s. 25 Second attachment at same place](section/25.md)
+    - [s. 26 Invalidity and cessation of attachment](section/26.md)
+  - Auction of attached articles
+    - [s. 27 Notice of public auction](section/27.md)
+    - [s. 28 Alteration of arrangements for removal or auction](section/28.md)
+    - [s. 29 Cancellation of auctions](section/29.md)
+    - [s. 30 Auction](section/30.md)
+    - [s. 31 Disposal of proceeds of auction](section/31.md)
+    - [s. 32 Report of auction](section/32.md)
+    - [s. 33 Audit of report of auction](section/33.md)
+  - General and miscellaneous provisions
+    - [s. 34 Articles belonging to a third party](section/34.md)
+    - [s. 35 Articles in common ownership](section/35.md)
+    - [s. 36 Procedure where articles in common ownership are sold at auction](section/36.md)
+    - [s. 37 Attachment terminated by payment or tender of full amount owing](section/37.md)
+    - [s. 38 Assistance to debtor](section/38.md)
+    - [s. 39 Expenses chargeable in relation to attachment etc.](section/39.md)
+    - [s. 40 Recovery from debtor of expenses of attachment](section/40.md)
+    - [s. 41 Ascription of sums recovered by attachment or while attachment is in effect](section/41.md)
+    - [s. 42 Restriction on fees payable by debtor](section/42.md)
+    - [s. 43 Power to provide for lay representation](section/43.md)
+    - [s. 44 Legal aid](section/44.md)
+    - [s. 45 Interpretation of this Part and Parts 3 and 4](section/45.md)
+- Part 3 Attachment of articles kept in dwellinghouses: special procedure
+  - [s. 46 Restriction on attachment of articles kept in dwellinghouses](section/46.md)
+  - [s. 47 Exceptional attachment order](section/47.md)
+  - [s. 48 Exceptional circumstances](section/48.md)
+  - [s. 49 Power of entry](section/49.md)
+  - [s. 50 Unlawful acts before attachment](section/50.md)
+  - [s. 51 Valuation](section/51.md)
+  - [s. 52 Articles with sentimental value](section/52.md)
+  - [s. 53 Removal of articles attached in dwellinghouse](section/53.md)
+  - [s. 54 Professional valuation](section/54.md)
+  - [s. 55 Release of articles from attachment](section/55.md)
+  - [s. 56 Redemption](section/56.md)
+  - [s. 57 Appeals](section/57.md)
+- Part 4 Abolition of poindings and warrant sales
+  - [s. 58 Abolition of poindings and warrant sales](section/58.md)
+  - [s. 59 Savings](section/59.md)
+- Part 5 Miscellaneous and general
+  - [s. 60 Application of this Act to sequestration for rent and arrestment](section/60.md)
+  - [s. 60A Electronic signatures](section/60A.md)
+  - [s. 61 Minor and consequential amendments and repeals](section/61.md)
+  - [s. 62 Regulations and orders](section/62.md)
+  - [s. 63 Crown application](section/63.md)
+  - [s. 64 Short title and commencement](section/64.md)
+- SCHEDULE 1 Expenses of attachment etc.
+  - [Sch. 1 para. 1 Expenses chargeable against the debtor](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Circumstances where liability for expenses is at the discretion of the sheriff](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Calculation of amount chargeable against debtor under the foregoing provisions](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Circumstances where no expenses are due to or by either party](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Non-essential assets
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Minor and consequential amendments and repeals
+  - Part 1 Acts
+    - [Sch. 3 para. 1 Companies Clauses Consolidation (Scotland) Act 1845 (c.17)](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Lands Clauses Consolidation (Scotland) Act 1845 (c.19)](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Railway Clauses Consolidation (Scotland) Act 1845 (c.33)](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Markets and Fairs Clauses Act 1847 (c.14)](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Harbours, Docks and Piers Clauses Act 1847 (c.27)](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Entail Amendment Act 1853 (c.94)](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Writs Execution (Scotland) Act 1877 (c.40)](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Sheriff Courts (Scotland) Extracts Act 1892 (c.17)](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Public Health (Scotland) Act 1897 (c.38)](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Local Government (Scotland) Act 1947 (c.43)](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Taxes Management Act 1970 (c.9)](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Water (Scotland) Act 1980 (c.45)](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13 Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 Car Tax Act 1983 (c.53)](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Bankruptcy (Scotland) Act 1985 (c.66)](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16 Gas Act 1986 (c.44)](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17 Debtors (Scotland) Act 1987 (c.18)](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18 Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c.47)](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19 Income and Corporation Taxes Act 1988 (c.1)](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20 Child Support Act 1991 (c.48)](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21 Social Security Administration Act 1992 (c.5)](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22 Local Government Finance Act 1992 (c.14)](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23 Local Government etc. (Scotland) Act 1994 (c.39);](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24 Proceeds of Crime (Scotland) Act 1995 (c.43)](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25 Criminal Procedure (Scotland) Act 1995 (c.46)](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26 Finance Act 1997 (c.16)](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27 Abolition of Poindings and Warrant Sales Act 2001 (asp 1)](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28 Water Industry (Scotland) Act 2002 (asp 3)](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29 Proceeds of Crime Act 2002 (c.29)](schedule/3/paragraph/29.md)
+  - Part 2 Subordinate legislation
+    - [Sch. 3 para. 30 Stamp Duty Reserve Tax Regulations 1986 (S.I. 1986/1711)](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31 Confiscation of the Proceeds of Drug Trafficking (Designated Countries and Territories) (Scotland) Order 1991 (S.I. 1991/1467)](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32 Merchant Shipping (Ministry of Defence Commercially Managed Ships) Order 1992 (S.I. 1992/1293)](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33 Merchant Shipping (Ministry of Defence Yachts) Order 1992 (S.I. 1992/1294)](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34 Insurance Premium Tax Regulations 1994 (S.I. 1994/1774)](schedule/3/paragraph/34.md)
+    - [Sch. 3 para. 35 Lloyd’s Underwriters (Gilt-edged Securities) (Periodic Accounting for Tax on Interest) Regulations 1995 (S.I. 1995/3225)](schedule/3/paragraph/35.md)
+    - [Sch. 3 para. 36 Landfill Tax Regulations 1996 (S.I. 1996/1527)](schedule/3/paragraph/36.md)
+    - [Sch. 3 para. 37 Stamp Duty (Collection and Recovery of Penalties) Regulations 1999 (S.I. 1999/2537)](schedule/3/paragraph/37.md)
+    - [Sch. 3 para. 38 Civil Legal Aid (Scotland) Regulations 2002 (S.S.I. 2002/494)](schedule/3/paragraph/38.md)
