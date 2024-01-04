@@ -1,0 +1,113 @@
+# Dormant Bank and Building Society Accounts Act 2008
+
+2008 c. 31. Enacted 2008-11-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2008/31/2024-01-04
+
+## Contents
+
+- Part 1 Transfer of balances in dormant accounts
+  - The general scheme
+    - [s. 1 Transfer of balances to reclaim fund](section/1.md)
+  - Alternative scheme for smaller institutions
+    - [s. 2 Transfer of balances to charities, with proportion to reclaim fund](section/2.md)
+    - [s. 2A Return of surplus alternative scheme assets](section/2A.md)
+    - [s. 3 The assets-limit condition](section/3.md)
+  - Shareholding members of building societies
+    - [s. 4 Effect of balance transfer on membership rights](section/4.md)
+  - Reclaim funds
+    - [s. 5 Functions etc of a reclaim fund](section/5.md)
+  - Interpretation etc
+    - [s. 6 Interpretation of Part 1](section/6.md)
+    - [s. 7 “Bank”](section/7.md)
+    - [s. 8 “Balance”](section/8.md)
+    - [s. 9 “Account”](section/9.md)
+    - [s. 10 “Dormant”](section/10.md)
+  - Supplemental
+    - [s. 11 Customer’s rights preserved on insolvency etc of bank or building society](section/11.md)
+    - [s. 12 Disclosure of information](section/12.md)
+    - [s. 13 Banks making transfers under section 2: information in directors’ reports](section/13.md)
+    - [s. 14 Review and report to Parliament](section/14.md)
+  - Amendments
+    - [s. 15 Amendments to the Financial Services and Markets Act 2000](section/15.md)
+- Part 2 DISTRIBUTION OF DORMANT ASSETS MONEY
+  - The distribution system: general
+    - [s. 16 Distribution of dormant assets money by Big Lottery Fund](section/16.md)
+    - [s. 17 Apportionment of dormant assets money](section/17.md)
+  - Distribution for England, Wales, Scotland and Northern Ireland
+    - [s. 18 Distribution of money for meeting English expenditure](section/18.md)
+    - [s. 18A Distribution of money for meeting English expenditure](section/18A.md)
+    - [s. 19 Distribution of money for meeting Welsh expenditure](section/19.md)
+    - [s. 20 Distribution of money for meeting Scottish expenditure](section/20.md)
+    - [s. 21 Distribution of money for meeting Northern Ireland expenditure](section/21.md)
+  - Powers of Secretary of State or appropriate national authority
+    - [s. 22 Directions to Big Lottery Fund](section/22.md)
+    - [s. 23 Power to prohibit distribution in certain cases](section/23.md)
+    - [s. 24 Power to add or remove distributors](section/24.md)
+  - Supplemental
+    - [s. 25 Power of Big Lottery Fund to enter into arrangements](section/25.md)
+    - [s. 26 Expenses](section/26.md)
+  - Interpretation
+    - [s. 27 Interpretation of Part 2](section/27.md)
+- Part 3 Final provisions
+  - [s. 28 Orders](section/28.md)
+  - [s. 29 Directions](section/29.md)
+  - [s. 30 Extent](section/30.md)
+  - [s. 31 Commencement](section/31.md)
+  - [s. 32 Short title](section/32.md)
+- SCHEDULE 1 Provision to be made in articles of association of reclaim fund
+  - Assistance to government departments in connection with dormant or unwanted assets
+    - [Sch. 1 para. A1](schedule/1/paragraph/A1.md)
+  - Expenses
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - No distribution to members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Publication of information
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Amendments to the Financial Services and Markets Act 2000
+  - Amendments to Part 2
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Amendments to Part 7
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Amendments to Part 24
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Further provision about the functions of the Big Lottery Fund
+  - Part 1 Strategic plans
+    - Strategic plans for England
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Strategic plans for Wales
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Strategic plans for Scotland
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Strategic plans for Northern Ireland
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part 2 Delegation etc
+    - Delegation to other bodies or persons, or to committees
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Interpretation of paragraph 5
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Provision supplementing paragraph 5
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - New functions for existing devolved expenditure committees
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part 3 Reports and accounts
+    - Annual reports
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Accounts
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part 4 Miscellaneous powers
+    - Power to solicit applications
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Power to consult
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Power to publish information etc
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Power to give advice
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
