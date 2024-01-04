@@ -1,0 +1,216 @@
+# International Criminal Court Act 2001
+
+2001 c. 17. Enacted 2001-05-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2001/17
+
+Source: https://www.legislation.gov.uk/ukpga/2001/17/2024-01-04
+
+## Contents
+
+- Part 1 The International Criminal Court
+  - [s. 1 The ICC and the ICC Statute](section/1.md)
+- Part 2 Arrest and delivery of persons
+  - Proceedings on request
+    - [s. 2 Request for arrest and surrender](section/2.md)
+    - [s. 3 Request for provisional arrest](section/3.md)
+    - [s. 4 Dealing with person arrested under provisional warrant](section/4.md)
+    - [s. 5 Proceedings for delivery order](section/5.md)
+    - [s. 6 Supplementary provisions as to proceedings before competent court](section/6.md)
+    - [s. 7 Consent to surrender](section/7.md)
+  - Proceedings where court refuses delivery order
+    - [s. 8 Procedure where court refuses order](section/8.md)
+    - [s. 9 Appeal against refusal of delivery order: England and Wales](section/9.md)
+    - [s. 10 Appeal against refusal of delivery order: Scotland](section/10.md)
+  - Proceedings where court makes delivery order
+    - [s. 11 Procedure where court makes order](section/11.md)
+    - [s. 12 Right to review of delivery order](section/12.md)
+    - [s. 13 Waiver of right to review](section/13.md)
+  - Warrants, custody, bail and related matters
+    - [s. 14 Effect of warrant of arrest](section/14.md)
+    - [s. 15 Effect of delivery order](section/15.md)
+    - [s. 16 Bail and custody: general](section/16.md)
+    - [s. 17 Bail and custody (England and Wales): supplementary](section/17.md)
+    - [s. 18 Bail and custody: consultation with the ICC, &c](section/18.md)
+    - [s. 19 Discharge of person not delivered up](section/19.md)
+    - [s. 20 Discharge of person no longer required to be surrendered](section/20.md)
+  - Request for transit and unscheduled landing
+    - [s. 21 Request for transit](section/21.md)
+    - [s. 22 Unscheduled landing](section/22.md)
+  - Supplementary provisions
+    - [s. 23 Provisions as to state or diplomatic immunity](section/23.md)
+    - [s. 24 Delivery up of persons subject to criminal proceedings, &c](section/24.md)
+    - [s. 25 Documents having effect as warrants, &c](section/25.md)
+    - [s. 26 Meaning of “appropriate judicial officer” and “competent court”](section/26.md)
+- Part 3 Other forms of assistance
+  - Introduction
+    - [s. 27 Provision of assistance](section/27.md)
+  - Forms of assistance
+    - [s. 28 Questioning](section/28.md)
+    - [s. 29 Taking or production of evidence](section/29.md)
+    - [s. 30 Taking or production of evidence: further provisions](section/30.md)
+    - [s. 31 Service of process](section/31.md)
+    - [s. 32 Transfer of prisoner to give evidence or assist in investigation](section/32.md)
+    - [s. 33 Entry, search and seizure](section/33.md)
+    - [s. 34 Taking of fingerprints or non-intimate sample](section/34.md)
+    - [s. 35 Orders for exhumation](section/35.md)
+    - [s. 36 Provision of records and documents](section/36.md)
+    - [s. 37 Investigation of proceeds of ICC crime](section/37.md)
+    - [s. 38 Freezing orders in respect of property liable to forfeiture](section/38.md)
+  - National security
+    - [s. 39 Production or disclosure prejudicial to national security](section/39.md)
+  - Supplementary provisions
+    - [s. 40 Verification of material](section/40.md)
+    - [s. 41 Transmission of material to the ICC](section/41.md)
+- Part 4 Enforcement of sentences and orders
+  - Sentences of imprisonment
+    - [s. 42 Detention in the United Kingdom in pursuance of ICC sentence](section/42.md)
+    - [s. 43 Temporary return or transfer of custody to another state](section/43.md)
+    - [s. 44 Transfer to another part of the United Kingdom: transfer of ICC sentence](section/44.md)
+    - [s. 45 Transfer to another part of the United Kingdom: transfer for temporary purposes](section/45.md)
+    - [s. 46 Domestic sentence current at end of term of ICC sentence](section/46.md)
+    - [s. 47 Custody of prisoner in transit, &c](section/47.md)
+    - [s. 48 Interpretation of ss. 42 to 47](section/48.md)
+  - Other orders
+    - [s. 49 Power to make provision for enforcement of other orders](section/49.md)
+- Part 5 Offences under domestic law
+  - Introduction
+    - [s. 50 Meaning of “genocide”, “crime against humanity” and “war crime”](section/50.md)
+  - England and Wales
+    - [s. 51 Genocide, crimes against humanity and war crimes](section/51.md)
+    - [s. 52 Conduct ancillary to genocide, etc. committed outside jurisdiction](section/52.md)
+    - [s. 53 Trial and punishment of main offences](section/53.md)
+    - [s. 54 Offences in relation to the ICC](section/54.md)
+    - [s. 55 Meaning of “ancillary offence”](section/55.md)
+    - [s. 56 Saving for general principles of liability, etc](section/56.md)
+    - [s. 57 Protection of victims and witnesses](section/57.md)
+  - Northern Ireland
+    - [s. 58 Genocide, crimes against humanity and war crimes](section/58.md)
+    - [s. 59 Conduct ancillary to genocide, etc. committed outside jurisdiction](section/59.md)
+    - [s. 60 Trial and punishment of main offences](section/60.md)
+    - [s. 61 Offences in relation to the ICC](section/61.md)
+    - [s. 62 Meaning of “ancillary offence”](section/62.md)
+    - [s. 63 Saving for general principles of liability, etc](section/63.md)
+    - [s. 64 Protection of victims and witnesses](section/64.md)
+  - Supplementary provisions
+    - [s. 65 Responsibility of commanders and other superiors](section/65.md)
+    - [s. 65A Retrospective application of certain offences](section/65A.md)
+    - [s. 65B Modification of penalties: provision supplemental to section 65A](section/65B.md)
+    - [s. 66 Mental element](section/66.md)
+    - [s. 67 Meaning of “UK national”, “UK resident” and “person subject to UK service jurisdiction”](section/67.md)
+    - [s. 67A Supplemental provision about UK residents](section/67A.md)
+    - [s. 68 Proceedings against persons becoming resident within the jurisdiction](section/68.md)
+    - [s. 69 References to acts to include omissions, etc](section/69.md)
+  - Consequential provisions
+    - [s. 70 Offences under section 1 of the Geneva Conventions Act 1957](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 Consequential amendments of armed forces legislation](section/74.md)
+- Part 6 General provisions
+  - Interpretation
+    - [s. 75 Meaning of “national court” and “service court”](section/75.md)
+    - [s. 76 Meaning of “British aircraft”, “British hovercraft” and “British ship”](section/76.md)
+  - Application and extent
+    - [s. 77 Application of provisions in relation to other International Tribunals](section/77.md)
+    - [s. 77A The Special Court for Sierra Leone](section/77A.md)
+    - [s. 78 Crown application](section/78.md)
+    - [s. 79 Extent](section/79.md)
+    - [s. 80 Power to make provision in relation to Scotland](section/80.md)
+  - Final provisions
+    - [s. 81 Index of defined expressions](section/81.md)
+    - [s. 82 Commencement](section/82.md)
+    - [s. 83 Repeals](section/83.md)
+    - [s. 84 Short title](section/84.md)
+- SCHEDULE 1 Supplementary provisions relating to the ICC
+  - [Sch. 1 para. 1 Legal capacity, privileges and immunities](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Power to provide for sittings of the ICC in the UK](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Power to give effect to Rules of Procedure and Evidence etc.](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Parliamentary approval of draft Orders](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Proof of orders, etc. of the ICC](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Evidence about ICC proceedings and orders](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Pension provision for UK judges of ICC](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Delivery up of persons subject to criminal proceedings, &c.
+  - Part 1 Criminal proceedings
+    - [Sch. 2 para. 1 Meaning of “criminal proceedings”](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Criminal proceedings in England and Wales or Northern Ireland](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Criminal proceedings in Scotland](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Proceedings before service court](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Effect on custodial sentences](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Power to suspend or revoke other orders](schedule/2/paragraph/6.md)
+  - Part 2 Extradition proceedings
+    - [Sch. 2 para. 7 Meaning of “extradition proceedings”](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Extradition proceedings in England and Wales or Northern Ireland](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Extradition proceedings in Scotland](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Power to suspend or revoke warrant or order](schedule/2/paragraph/10.md)
+  - Part 3 Other delivery proceedings
+    - [Sch. 2 para. 11 Meaning of “other delivery proceedings”](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Delivery proceedings in England and Wales](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Delivery proceedings in Scotland](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Power to suspend or revoke previous delivery order](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Rights of persons during investigation: article 55
+  - Article 55 Rights of persons during an investigation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 Taking of fingerprints or non-intimate samples
+  - [Sch. 4 para. 1 Nomination of court to supervise taking of evidence](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Order to provide evidence](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Requirement to attend and provide evidence](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Consent to taking of evidence](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Taking of evidence without consent](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Record of certain matters to be made](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Checking of fingerprints or samples](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Destruction of fingerprints and samples](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Investigation of proceeds of ICC crime
+  - Part 1 Production or access orders
+    - [Sch. 5 para. 1 Application for order](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Grounds for making order](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Production or access orders: standard orders](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Production or access orders: special orders](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Effect of order: general](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6 Effect of order: supplementary](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Order in relation to material in possession of government department](schedule/5/paragraph/7.md)
+  - Part 2 Search warrants
+    - [Sch. 5 para. 8 Application for warrant](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Effect of warrant](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Grounds for issue of warrant](schedule/5/paragraph/10.md)
+  - Part 3 Supplementary provisions
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Freezing orders in respect of property liable to forfeiture
+  - [Sch. 6 para. 1 Application for freezing order](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Grounds for making order](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Effect of order](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Variation or discharge of order](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Power to appoint receiver](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Seizure to prevent removal from jurisdiction](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Registered land: England and Wales](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Registered land: Northern Ireland](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Bankruptcy: England and Wales](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Bankruptcy: Northern Ireland](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Winding up: England and Wales](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12 Winding up: Northern Ireland](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13 Protection of insolvency practitioners](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14 Interpretation](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Domestic provisions not applicable to ICC prisoners
+  - [Sch. 7 para. 1 Introduction](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Provisions affecting length of sentence](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Provisions relating to early release or release on licence](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Genocide, crimes against humanity and war crimes: articles 6 to 9
+  - Article 6 Genocide
+  - Article 7 Crimes against humanity
+    - [Sch. 8 Pt. 2 para. 1](schedule/8/part/2/paragraph/1.md)
+    - [Sch. 8 Pt. 2 para. 2](schedule/8/part/2/paragraph/2.md)
+    - [Sch. 8 Pt. 2 para. 3](schedule/8/part/2/paragraph/3.md)
+  - Article 8 War crimes
+    - [Sch. 8 Pt. 3 para. 2](schedule/8/part/3/paragraph/2.md)
+  - Article 9 Elements of crimes
+    - [Sch. 8 Pt. 4 para. 1](schedule/8/part/4/paragraph/1.md)
+    - [Sch. 8 Pt. 4 para. 2](schedule/8/part/4/paragraph/2.md)
+    - [Sch. 8 Pt. 4 para. 3](schedule/8/part/4/paragraph/3.md)
+- SCHEDULE 9 Offences against the ICC: article 70
+  - Article 70 Offences against the administration of justice
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10 Repeals
