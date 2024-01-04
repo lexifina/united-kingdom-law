@@ -1,0 +1,950 @@
+# Companies Act 1989
+
+1989 c. 40. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/40
+
+Source: https://www.legislation.gov.uk/ukpga/1989/40/2024-01-04
+
+## Contents
+
+- Part I Company Accounts
+  - Introduction
+    - [s. 1 Introduction.](section/1.md)
+  - Provisions applying to companies generally
+    - [s. 2 Accounting records.](section/2.md)
+    - [s. 3 A company’s financial year and accounting reference periods.](section/3.md)
+    - [s. 4 Individual company accounts.](section/4.md)
+    - [s. 5 Group accounts.](section/5.md)
+    - [s. 6 Additional disclosure required in notes to accounts.](section/6.md)
+    - [s. 7 Approval and signing of accounts.](section/7.md)
+    - [s. 8 Directors’ report.](section/8.md)
+    - [s. 9 Auditors’ report.](section/9.md)
+    - [s. 10 Publication of accounts and reports.](section/10.md)
+    - [s. 11 Laying and delivering of accounts and reports.](section/11.md)
+    - [s. 12 Remedies for failure to comply with accounting requirements.](section/12.md)
+  - Exemptions and special provisions
+    - [s. 13 Small and medium-sized companies and groups.](section/13.md)
+    - [s. 14 Dormant companies.](section/14.md)
+    - [s. 15 Public listed companies: provision of summary financial statement.](section/15.md)
+    - [s. 16 Private companies: election to dispense with laying of accounts and reports before general meeting.](section/16.md)
+    - [s. 17 Unlimited companies: exemption from requirement to deliver accounts and reports.](section/17.md)
+    - [s. 18 Banking and insurance companies and groups: special provisions.](section/18.md)
+  - Supplementary provisions
+    - [s. 19 Accounting standards.](section/19.md)
+    - [s. 20 Power to alter accounting requirements.](section/20.md)
+    - [s. 21 Parent and subsidiary undertakings.](section/21.md)
+    - [s. 22 Other interpretation provisions.](section/22.md)
+  - Consequential amendments
+    - [s. 23 Consequential amendments.](section/23.md)
+- Part II Eligibility for Appointment as Company Auditor
+  - Introduction
+    - [s. 24 Introduction.](section/24.md)
+  - Eligibility for appointment
+    - [s. 25 Eligibility for appointment.](section/25.md)
+    - [s. 26 Effect of appointment of partnership.](section/26.md)
+    - [s. 27 Ineligibility on ground of lack of independence.](section/27.md)
+    - [s. 28 Effect of ineligibility.](section/28.md)
+    - [s. 29 Power of Secretary of State to require second audit.](section/29.md)
+  - Recognition of supervisory bodies and professional qualifications
+    - [s. 30 Supervisory bodies.](section/30.md)
+    - [s. 31 Meaning of “appropriate qualification”.](section/31.md)
+    - [s. 32 Qualifying bodies and recognised professional qualifications.](section/32.md)
+    - [s. 33 Approval of overseas qualifications.](section/33.md)
+    - [s. 34 Eligibility of individuals retaining only 1967 Act authorisation.](section/34.md)
+  - Duties of recognised bodies
+    - [s. 35 The register of auditors.](section/35.md)
+    - [s. 36 Information about firms to be available to public.](section/36.md)
+    - [s. 37 Matters to be notified to the Secretary of State.](section/37.md)
+    - [s. 38 Power to call for information.](section/38.md)
+    - [s. 39 Compliance orders.](section/39.md)
+    - [s. 40 Directions to comply with international obligations.](section/40.md)
+  - Offences
+    - [s. 41 False and misleading statements.](section/41.md)
+    - [s. 42 Offences by bodies corporate, partnerships and unincorporated associations.](section/42.md)
+    - [s. 43 Time limits for prosecution of offences.](section/43.md)
+    - [s. 44 Jurisdiction and procedure in respect of offences.](section/44.md)
+  - Supplementary provisions
+    - [s. 45 Fees.](section/45.md)
+    - [s. 46 Delegation of functions of Secretary of State.](section/46.md)
+    - [s. 46A Circumstances in which Secretary of State may delegate functions to existing body](section/46A.md)
+    - [s. 47 Restrictive practices.](section/47.md)
+    - [s. 48 Exemption from liability for damages.](section/48.md)
+    - [s. 49 Service of notices.](section/49.md)
+    - [s. 50 Power to make consequential amendments.](section/50.md)
+    - [s. 51 Power to make provision in consequence of changes affecting accountancy bodies.](section/51.md)
+    - [s. 52 Meaning of “associate”.](section/52.md)
+    - [s. 53 Minor definitions.](section/53.md)
+    - [s. 54 Index of defined expressions.](section/54.md)
+- Part III Investigations and Powers to Obtain Information
+  - Amendments of the Companies Act 1985
+    - [s. 55 Investigations by inspectors not leading to published report.](section/55.md)
+    - [s. 56 Production of documents and evidence to inspectors.](section/56.md)
+    - [s. 57 Duty of inspectors to report.](section/57.md)
+    - [s. 58 Power to bring civil proceedings on the company’s behalf.](section/58.md)
+    - [s. 59 Expenses of investigating a company’s affairs.](section/59.md)
+    - [s. 60 Power of Secretary of State to present winding-up petition.](section/60.md)
+    - [s. 61 Inspectors’ reports as evidence.](section/61.md)
+    - [s. 62 Investigation of company ownership.](section/62.md)
+    - [s. 63 Secretary of State’s power to require production of documents.](section/63.md)
+    - [s. 64 Entry and search of premises.](section/64.md)
+    - [s. 65 Provision for security of information obtained.](section/65.md)
+    - [s. 66 Punishment for destroying, mutilating, &c. company documents.](section/66.md)
+    - [s. 67 Punishment for furnishing false information.](section/67.md)
+    - [s. 68 Disclosure of information by Secretary of State or inspector.](section/68.md)
+    - [s. 69 Protection of banking information.](section/69.md)
+    - [s. 70 Investigation of oversea companies.](section/70.md)
+    - [s. 71 Investigation of unregistered companies.](section/71.md)
+  - Amendments of the Financial Services Act 1986
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+  - Amendments of other enactments
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+    - [s. 80 Amendment of the Building Societies Act 1986.](section/80.md)
+    - [s. 81 ................................](section/81.md)
+  - Powers exercisable to assist overseas regulatory authorities
+    - [s. 82 Request for assistance by overseas regulatory authority.](section/82.md)
+    - [s. 83 Power to require information, documents or other assistance.](section/83.md)
+    - [s. 84 Exercise of powers by officer, &c.](section/84.md)
+    - [s. 85 Penalty for failure to comply with requirement, &c.](section/85.md)
+    - [s. 86 Restrictions on disclosure of information.](section/86.md)
+    - [s. 87 Exceptions from restrictions on disclosure.](section/87.md)
+    - [s. 88 Exercise of powers in relation to Northern Ireland.](section/88.md)
+    - [s. 89 Prosecutions.](section/89.md)
+    - [s. 90 Offences by bodies corporate, partnerships and unincorporated associations.](section/90.md)
+    - [s. 91 Jurisdiction and procedure in respect of offences.](section/91.md)
+- Part IV Registration of Company Charges
+  - Introduction
+    - [s. 92 Introduction.](section/92.md)
+  - Registration in the companies charges register
+    - [s. 93 Charges requiring registration.](section/93.md)
+    - [s. 94 The companies charges register.](section/94.md)
+    - [s. 95 Delivery of particulars for registration.](section/95.md)
+    - [s. 96 Delivery of further particulars.](section/96.md)
+    - [s. 97 Effect of omissions and errors in registered particulars.](section/97.md)
+    - [s. 98 Memorandum of charge ceasing to affect company’s property.](section/98.md)
+    - [s. 99 Further provisions with respect to voidness of charges.](section/99.md)
+    - [s. 100 Additional information to be registered.](section/100.md)
+  - Copies of instruments and register to be kept by the company
+    - [s. 101 Copies of instruments and register to be kept by the company](section/101.md)
+  - Supplementary provisions
+    - [s. 102 Power to make further provision by regulations.](section/102.md)
+    - [s. 103 Other supplementary provisions.](section/103.md)
+    - [s. 104 Interpretation, &c.](section/104.md)
+    - [s. 105 Charges on property of oversea company.](section/105.md)
+    - [s. 106 Application of provisions to unregistered companies.](section/106.md)
+    - [s. 107 Consequential amendments.](section/107.md)
+- Part V Other amendments of Company Law
+  - A company’s capacity and related matters
+    - [s. 108 A company’s objects and the power of the directors to bind it.](section/108.md)
+    - [s. 109](section/109.md)
+    - [s. 110 Statement of company’s objects.](section/110.md)
+    - [s. 111 ................................](section/111.md)
+    - [s. 112 Charitable companies (Scotland).](section/112.md)
+  - De-regulation of private companies
+    - [s. 113 Written resolutions of private companies.](section/113.md)
+    - [s. 114 Written resolutions: supplementary provisions.](section/114.md)
+    - [s. 115 Election by private company to dispense with certain requirements.](section/115.md)
+    - [s. 116 Elective resolution of private company.](section/116.md)
+    - [s. 117 Power to make further provision by regulations.](section/117.md)
+  - Appointment and removal of auditors and related matters
+    - [s. 118 Introduction.](section/118.md)
+    - [s. 119 Appointment of auditors.](section/119.md)
+    - [s. 120 Rights of auditors.](section/120.md)
+    - [s. 121 Remuneration of auditors.](section/121.md)
+    - [s. 122 Removal, resignation, &c. of auditors.](section/122.md)
+    - [s. 123 Statement by person ceasing to hold office as auditor.](section/123.md)
+    - [s. 124 ................................](section/124.md)
+  - Company records and related matters
+    - [s. 125 Delivery of documents to the registrar.](section/125.md)
+    - [s. 126 Keeping and inspection of company records.](section/126.md)
+    - [s. 127 Supplementary provisions as to company records and related matters.](section/127.md)
+  - Miscellaneous
+    - [s. 128 Form and articles for partnership company.](section/128.md)
+    - [s. 129 Membership of holding company.](section/129.md)
+    - [s. 130 Company contracts and execution of documents by companies.](section/130.md)
+    - [s. 131 Members’ rights to damages, &c.](section/131.md)
+    - [s. 132 Financial assistance for purposes of employees’ share scheme.](section/132.md)
+    - [s. 133 Issue of redeemable shares.](section/133.md)
+    - [s. 134 Disclosure of interests in shares.](section/134.md)
+    - [s. 135 Orders imposing restrictions on shares.](section/135.md)
+    - [s. 136 A company’s registered office.](section/136.md)
+    - [s. 137 Effecting of insurance for officers and auditors of company.](section/137.md)
+    - [s. 138 Increase of limits on certain exemptions.](section/138.md)
+    - [s. 139 Annual returns.](section/139.md)
+    - [s. 140 Floating charges (Scotland).](section/140.md)
+    - [s. 141 Application to declare dissolution of company void.](section/141.md)
+    - [s. 141n1 Abolition of doctrine of deemed notice.](section/141n1.md)
+    - [s. 141n2 Rights of inspection and related matters.](section/141n2.md)
+    - [s. 144 “Subsidiary”, “holding company” and “wholly-owned subsidiary”.](section/144.md)
+    - [s. 145](section/145.md)
+- Part VI Mergers and Related Matters
+  - [s. 146 ................................](section/146.md)
+  - [s. 147 Undertakings as alternative to merger reference.](section/147.md)
+  - [s. 148 Enforcement of undertakings.](section/148.md)
+  - [s. 149 Temporary restrictions on share dealings.](section/149.md)
+  - [s. 150 Obtaining control by stages.](section/150.md)
+  - [s. 151 False or misleading information.](section/151.md)
+  - [s. 152 Fees.](section/152.md)
+  - [s. 153 Other amendments about mergers and related matters.](section/153.md)
+- Part VII Financial Markets and Insolvency
+  - Introduction
+    - [s. 154 Introduction.](section/154.md)
+  - Recognised bodies
+    - [s. 155 Market contracts.](section/155.md)
+    - [s. 155A Qualifying collateral arrangements and qualifying property transfers](section/155A.md)
+    - [s. 156 ................................](section/156.md)
+    - [s. 157](section/157.md)
+    - [s. 158 Modifications of the law of insolvency.](section/158.md)
+    - [s. 159 Proceedings of recognised bodies take precedence over insolvency procedures.](section/159.md)
+    - [s. 160](section/160.md)
+    - [s. 161 Supplementary provisions as to default proceedings.](section/161.md)
+    - [s. 162 Duty to report on completion of default procedings.](section/162.md)
+    - [s. 163 Net sum payable on completion of default proceedings.](section/163.md)
+    - [s. 164 Disclaimer of property, rescission of contracts, &c.](section/164.md)
+    - [s. 165 Adjustment of prior transactions.](section/165.md)
+    - [s. 166 Powers ... to give directions.](section/166.md)
+    - [s. 167 Application to determine whether default proceedings to be taken.](section/167.md)
+    - [s. 168 ................................](section/168.md)
+    - [s. 169 Supplementary provisions.](section/169.md)
+  - Other exchanges and clearing houses
+    - [s. 170 Certain overseas exchanges and clearing houses.](section/170.md)
+    - [s. 170A Third country central counterparties](section/170A.md)
+    - [s. 170B Third country central counterparties: procedure](section/170B.md)
+    - [s. 170C Third country CSDs](section/170C.md)
+    - [s. 171 ................................](section/171.md)
+    - [s. 172 Settlement arrangements provided by the Bank of England.](section/172.md)
+  - Market charges
+    - [s. 173 Market charges.](section/173.md)
+    - [s. 174 Modifications of the law of insolvency.](section/174.md)
+    - [s. 175 Administration orders, &c.](section/175.md)
+    - [s. 176 Power to make provision about certain other charges.](section/176.md)
+  - Market property
+    - [s. 177 Application of margin or default fund contribution not affected by certain other interests.](section/177.md)
+    - [s. 178 Priority of floating market charge over subsequent charges.](section/178.md)
+    - [s. 179 Priority of market charge over unpaid vendor’s lien.](section/179.md)
+    - [s. 180 Proceedings against market property by unsecured creditors.](section/180.md)
+    - [s. 181 Power to apply provisions to other cases.](section/181.md)
+  - Supplementary provisions
+    - [s. 182 Powers of court in relation to certain proceedings begun before commencement.](section/182.md)
+    - [s. 182A Recognised central counterparties: disapplication of provisions on mutual credit and set-off](section/182A.md)
+    - [s. 183 Insolvency proceedings in other jurisdictions.](section/183.md)
+    - [s. 184 Indemnity for certain acts, &c.](section/184.md)
+    - [s. 185 Power to make further provision by regulations.](section/185.md)
+    - [s. 186 Supplementary provisions as to regulations.](section/186.md)
+    - [s. 187 Construction of references to parties to market contracts.](section/187.md)
+    - [s. 188 Meaning of “default rules” and related expressions.](section/188.md)
+    - [s. 189 Meaning of “relevant office-holder”.](section/189.md)
+    - [s. 189A Meaning of “transfer”](section/189A.md)
+    - [s. 190 Minor definitions.](section/190.md)
+    - [s. 191 Index of defined expressions.](section/191.md)
+- Part VIII Amendments of the Financial Services Act 1986
+  - [s. 192 ................................](section/192.md)
+  - [s. 193 ................................](section/193.md)
+  - [s. 194 ................................](section/194.md)
+  - [s. 195 ................................](section/195.md)
+  - [s. 196 ................................](section/196.md)
+  - [s. 197 ................................](section/197.md)
+  - [s. 198 ................................](section/198.md)
+  - [s. 199 ................................](section/199.md)
+  - [s. 200 Jurisdiction of High Court and Court of Session.](section/200.md)
+  - [s. 201 ................................](section/201.md)
+  - [s. 202 ................................](section/202.md)
+  - [s. 203 ................................](section/203.md)
+  - [s. 204 ................................](section/204.md)
+  - [s. 205 ................................](section/205.md)
+  - [s. 206 ................................](section/206.md)
+- Part IX Transfer of Securities
+  - [s. 207 Transfer of securities.](section/207.md)
+- Part X Miscellaneous and General Provisions
+  - Miscellaneous
+    - [s. 208 Summary proceedings in Scotland for offences in connection with disqualification of directors.](section/208.md)
+    - [s. 209 ................................](section/209.md)
+    - [s. 210 Restriction of duty to supply statements of premium income.](section/210.md)
+    - [s. 211 Building societies: miscellaneous amendments.](section/211.md)
+  - General
+    - [s. 211A “Bank of England”](section/211A.md)
+    - [s. 212 Repeals.](section/212.md)
+    - [s. 213 Provisions extending to Northern Ireland.](section/213.md)
+    - [s. 214 ................................](section/214.md)
+    - [s. 215 Commencement and transitional provisions.](section/215.md)
+    - [s. 216 Short title.](section/216.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Group undertakings
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Participating interests
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Consistency of accounting policies
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Revaluation reserve
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Compliance with accounting standards
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Provision for taxation
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Loans in connection with assistance for purchase of company’s own shares
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Obligation to show corresponding amounts for previous financial year
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Special provisions where company is parent company or subsidiary undertaking
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2
+  - General rules
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Elimination of group transactions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Acquisition and merger accounting
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Minority interests
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Interests in subsidiary undertakings excluded from consolidation
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Joint ventures
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Associated undertakings
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3
+  - Part I Companies not Required to Prepare Group Accounts
+    - Subsidiary undertakings
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Holdings in subsidiary undertakings
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Financial information about subsidiary undertakings
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Financial years of subsidiary undertakings
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Further information about subsidiary undertakings
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Shares and debentures of company held by subsidiary undertakings
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Significant holdings in undertakings other than subsidiary undertakings
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Arrangements attracting merger relief
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Parent undertaking drawing up accounts for larger group
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Identification of ultimate parent company
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Constructions of references to shares held by company
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part II Companies Required to Prepare Group Accounts
+    - Introductory
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Subsidiary undertakings
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Holdings in subsidiary undertakings
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Financial information about subsidiary undertakings not included in the consolidation
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Further information about subsidiary undertakings excluded from consolidation
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Financial years of subsidiary undertakings
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Shares and debentures of company held by subsidiary undertakings
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Joint ventures
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Associated undertakings
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Other significant holdings of parent company or group
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Arrangements attracting merger relief
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - Parent undertaking drawing up accounts for larger group
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Identification of ultimate parent company
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - Construction of references to shares held by parent company or group
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 ................................](schedule/4/paragraph/7.md)
+- SCHEDULE 5
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Subsidiary undertakings
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Directors’ interests
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6
+  - Part I Small Companies
+    - Balance sheet
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Profit and loss account
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Disclosure of information in notes to accounts
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Directors’ report
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Part II Small Companies
+    - Profit and loss account
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Disclosure of information in notes to accounts
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Part III Supplementary Provisions
+    - Statement that advantage taken of exemptions
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Special auditors’ report
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Dormant companies
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Requirements in connection with publication of accounts
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7
+  - Preliminary
+  - Part I Form and Content of Accounts
+    - [Sch. 7 Pt. I para. 1](schedule/7/part/I/paragraph/1.md)
+    - [Sch. 7 Pt. I para. 2](schedule/7/part/I/paragraph/2.md)
+    - [Sch. 7 Pt. I para. 3](schedule/7/part/I/paragraph/3.md)
+    - [Sch. 7 Pt. I para. 4](schedule/7/part/I/paragraph/4.md)
+    - [Sch. 7 Pt. I para. 5](schedule/7/part/I/paragraph/5.md)
+    - [Sch. 7 Pt. I para. 6](schedule/7/part/I/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Part II [Part II of Schedule 9 to the Companies Act 1985]
+    - Undertakings to be included in consolidation
+      - [Sch. 7 Pt. II heading undertakings-to-be-included-in-consolidation para. 1](schedule/7/part/II/crossheading/undertakings-to-be-included-in-consolidation/paragraph/1.md)
+    - General application of provisions applicable to individual accounts
+      - [Sch. 7 Pt. II heading general-application-of-provisions-applicable-to-individual-accounts para. 2](schedule/7/part/II/crossheading/general-application-of-provisions-applicable-to-individual-accounts/paragraph/2.md)
+    - Treatment of goodwill
+      - [Sch. 7 Pt. II heading treatment-of-goodwill para. 3](schedule/7/part/II/crossheading/treatment-of-goodwill/paragraph/3.md)
+    - Minority interests and associated undertakings
+      - [Sch. 7 Pt. II heading minority-interests-and-associated-undertakings para. 4](schedule/7/part/II/crossheading/minority-interests-and-associated-undertakings/paragraph/4.md)
+    - Companies entitled to benefit of exemptions
+      - [Sch. 7 Pt. II heading companies-entitled-to-benefit-of-exemptions para. 5](schedule/7/part/II/crossheading/companies-entitled-to-benefit-of-exemptions/paragraph/5.md)
+    - Information as to undertaking in which shares held as result of financial assistance operation
+      - [Sch. 7 Pt. II heading information-as-to-undertaking-in-which-shares-held-as-result-of-financial-assistance-operation para. 6](schedule/7/part/II/crossheading/information-as-to-undertaking-in-which-shares-held-as-result-of-financial-assistance-operation/paragraph/6.md)
+  - Part III [Part III of Schedule 9 to the Companies Act 1985]
+    - [Sch. 7 Pt. III para. 1](schedule/7/part/III/paragraph/1.md)
+  - Part IV [Part IV of Schedule 9 to the Companies Act 1985]
+    - [Sch. 7 Pt. IV para. 1](schedule/7/part/IV/paragraph/1.md)
+    - Loans, quasi-loans and other dealings
+      - [Sch. 7 Pt. IV heading loans-quasiloans-and-other-dealings para. 2](schedule/7/part/IV/crossheading/loans-quasiloans-and-other-dealings/paragraph/2.md)
+    - Other transactions, arrangements and agreements
+      - [Sch. 7 Pt. IV heading other-transactions-arrangements-and-agreements para. 3](schedule/7/part/IV/crossheading/other-transactions-arrangements-and-agreements/paragraph/3.md)
+- SCHEDULE 8
+  - Recent issues
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Turnover and profitability
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Labour force and wages paid
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Voting rights in an undertaking
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Right to appoint or remove a majority of the directors
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Right to exercise dominant influence
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Rights exercisable only in certain circumstances or temporarily incapable of exercise
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Rights held by one person on behalf of another
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Rights attached to shares held by way of security
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Rights attributed to parent undertaking
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Disregard of certain rights
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Supplementary
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Amendments Consequential on Part I
+  - Part I Amendments of the Companies Act 1985
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - Part II Amendments of Other Enactments
+    - Betting, Gaming and Lotteries Act 1963 (c.2)
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Harbours Act 1964 (c.40)
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - Coal Industry Act 1971 (c.16)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - Aircraft and Shipbuilding Industries Act 1977 (c.3)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+    - Crown Agents Act 1979 (c.43)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - British Telecommunications Act 1981 (c.38)
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - Transport Act 1981 (c.56)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - Iron and Steel Act 1982 (c.25)
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - Oil and Pipelines Act 1985 (c.62)
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+    - Patents, Designs and Marks Act 1986 (c.39)
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+    - Company Directors Disqualification Act 1986 (c.46)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - Financial Services Act 1986 (c.60)
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - Banking Act 1987 (c.22)
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - Income and Corporation Taxes Act 1988 (c.1)
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - Dartford–Thurrock Crossing Act 1988 (c.20)
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+- SCHEDULE 11
+  - Part I Grant and Revocation of Recognition
+    - Application for recognition of supervisory body
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Grant and refusal of recognition
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Revocation of Recognition
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Part II Requirements for Recognition
+    - Holding of appropriate qualification
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Auditors to be fit and proper persons
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Professional integrity and independence
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Technical standards
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Procedures for maintaining competence
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Monitoring and enforcement
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Independent monitoring of audits of listed and other major companies
+      - [Sch. 11 para. 10A](schedule/11/paragraph/10A.md)
+    - Membership, eligibility and discipline
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Investigation of complaints
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Independent investigation for disciplinary purposes of public interest cases
+      - [Sch. 11 para. 12A](schedule/11/paragraph/12A.md)
+    - Meeting of claims arising out of audit work
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Register of auditors and other information to be made available
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Taking account of costs of compliance
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Promotion and maintenance of standards
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - Part 3 Arrangements in which supervisory bodies are required to participate
+    - [Sch. 11 para. 17 Arrangements for setting standards relating to professional integrity and independence](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18 Arrangements for setting technical standards](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19 Arrangements for independent monitoring of audits of listed and other major companies](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20 Arrangements for independent investigation for disciplinary purposes of public interest cases](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21 Supplementary: arrangements to operate independently of body](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22 Supplementary: “funded” arrangements etc.](schedule/11/paragraph/22.md)
+- SCHEDULE 12
+  - Part I Grant and Revocation of Recognition
+    - Application for recognition of professional qualification
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Grant and refusal of recognition
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Revocation of recognition
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Part II Requirements for Recognition
+    - Entry requirements
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Course of theoretical instruction
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Sufficient period of professional experience
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Examination
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Practical training
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - The body offering the qualification
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13
+  - Operation of this Schedule
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Status
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Name, members and chairman
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Financial provisions
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Proceedings
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Fees
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Legislative functions
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Report and accounts
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Other supplementary provisions
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+- SCHEDULE 14 Supervisory and qualifying bodies: Restrictive practices
+  - Part I Prevention of restrictive practices
+    - Refusal of recognition on grounds related to competition
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Notification of changes to rules or guidance
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Continuing scrutiny by the Director General of Fair Trading
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Investigatory powers of the Director
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+      - [Sch. 14 para. 4A Enforcement](schedule/14/paragraph/4A.md)
+      - [Sch. 14 para. 4B](schedule/14/paragraph/4B.md)
+    - Publication of Director’s reports
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - Powers exercisable by the Secretary of State in consequence of report
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Supplementary provisions
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Part II Consequential Exemptions from Competition Law
+    - Fair Trading Act 1973 (c. 41)
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - The Competition Act 1998
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Competition Act 1980 (c. 21)
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+- SCHEDULE 15 Charges on Property of Oversea Companies
+- SCHEDULE 16 Amendments Consequential on Part IV
+  - Land Charges Act 1972 (c. 61)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 16 para. 1A](schedule/16/paragraph/1A.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Insolvency Act 1986 (c. 45)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Company Directors Disqualification Act 1986 (c. 46)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+- SCHEDULE 17 Company Contracts, Seals, &c.: Further Provisions
+  - ................................
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - ................................
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - ................................
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - ................................
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - ................................
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - ................................
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - ................................
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - ................................
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+- SCHEDULE 18 “Subsidiary” and related expressions: consequential amendments and savings
+  - Coal Industry Nationalisation Act 1946 (c. 59)
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Electricity Act 1947 (c. 54)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Transport Act 1962 (c. 46)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Harbours Act 1964 (c. 40)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - General Rate Act 1967 (c. 9)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Transport Act 1968 (c. 73)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Post Office Act 1969 (c. 48)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Industry Act 1972 (c. 63)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Coal Industry Act 1973 (c. 8)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - Industry Act 1975 (c. 68)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+  - Scottish Development Agency Act 1975 (c. 69)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+  - Restrictive Trade Practices Act 1976 (c. 41)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - Industrial Common Ownership Act 1976 (c. 78)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+  - Aircraft and Shipbuilding Industries Act 1977 (c. 3)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+  - Nuclear Industry (Finance) Act 1977 (c. 7)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+  - Coal Industry Act 1977 (c. 39)
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - Shipbuilding (Redundancy Payments) Act 1978 (c. 11)
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+  - Capital Gains Tax Act 1979 (c. 14)
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+  - Crown Agents Act 1979 (c. 43)
+    - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+  - Competition Act 1980 (c. 21)
+    - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+  - British Aerospace Act 1980 (c. 26)
+    - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+  - British Telecommunications Act 1981 (c. 38)
+    - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+  - Transport Act 1981 (c. 56)
+    - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+  - Value Added Tax Act 1983 (c. 55)
+    - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
+  - Telecommunications Act 1984 (c. 12)
+    - [Sch. 18 para. 28](schedule/18/paragraph/28.md)
+  - London Regional Transport Act 1984 (c. 32)
+    - [Sch. 18 para. 29](schedule/18/paragraph/29.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 18 para. 30](schedule/18/paragraph/30.md)
+  - Ordnance Factories and Military Services Act 1984 (c. 59)
+    - [Sch. 18 para. 31](schedule/18/paragraph/31.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 18 para. 32](schedule/18/paragraph/32.md)
+    - [Sch. 18 para. 32n1](schedule/18/paragraph/32n1.md)
+    - [Sch. 18 para. 34](schedule/18/paragraph/34.md)
+    - [Sch. 18 para. 35](schedule/18/paragraph/35.md)
+    - [Sch. 18 para. 36](schedule/18/paragraph/36.md)
+    - [Sch. 18 para. 36n1](schedule/18/paragraph/36n1.md)
+    - [Sch. 18 para. 36n2](schedule/18/paragraph/36n2.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 18 para. 39](schedule/18/paragraph/39.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 18 para. 40](schedule/18/paragraph/40.md)
+  - Housing Associations Act 1985 (c. 69)
+    - [Sch. 18 para. 41](schedule/18/paragraph/41.md)
+  - Atomic Energy Authority Act 1986 (c. 3)
+    - [Sch. 18 para. 42](schedule/18/paragraph/42.md)
+  - Airports Act 1986 (c. 31)
+    - [Sch. 18 para. 43](schedule/18/paragraph/43.md)
+  - Gas Act 1986 (c. 44)
+    - [Sch. 18 para. 44](schedule/18/paragraph/44.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 18 para. 45](schedule/18/paragraph/45.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 18 para. 46](schedule/18/paragraph/46.md)
+  - British Steel Act 1988 (c. 35)
+    - [Sch. 18 para. 47](schedule/18/paragraph/47.md)
+- SCHEDULE 19 Minor amendments of the Companies Act 1985
+  - Correction of cross-reference
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+  - Particulars to be given of directors and secretaries
+    - [Sch. 19 para. 8n1](schedule/19/paragraph/8n1.md)
+    - [Sch. 19 para. 8n2](schedule/19/paragraph/8n2.md)
+    - [Sch. 19 para. 8n3](schedule/19/paragraph/8n3.md)
+    - [Sch. 19 para. 8n4](schedule/19/paragraph/8n4.md)
+    - [Sch. 19 para. 8n5](schedule/19/paragraph/8n5.md)
+    - [Sch. 19 para. 8n6](schedule/19/paragraph/8n6.md)
+  - Transactions with directors not requiring authorisation
+    - [Sch. 19 para. 8n7](schedule/19/paragraph/8n7.md)
+  - Time limit for holding extraordinary general meeting convened on members’ requisition
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - Removal of restriction on transfer of shares
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+  - Protection of company’s members against unfair prejudice
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+  - Requirements for registration by joint stock companies
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+  - Delivery of documents by oversea companies
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - Companies’ registered numbers
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+  - Exemptions from limit of 20 on members of partnership
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+  - Meaning of “officer who is in default”
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+  - Offences committed by partnerships and other unincorporated bodies
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+  - Meaning of “office copy” in Scotland
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+  - Index of defined expressions
+    - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+  - Fraudulent trading by unregistered companies
+    - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+- SCHEDULE 20 Amendments about mergers and related matters
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+    - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+    - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+    - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+    - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+    - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+    - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+  - Competition Act 1980 (c. 21)
+    - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+    - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
+    - [Sch. 20 para. 23](schedule/20/paragraph/23.md)
+    - [Sch. 20 para. 24](schedule/20/paragraph/24.md)
+  - Telecommunications Act 1984 (c. 12)
+    - [Sch. 20 para. 25](schedule/20/paragraph/25.md)
+  - Financial Services Act 1986 (c. 60)
+    - [Sch. 20 para. 26](schedule/20/paragraph/26.md)
+- SCHEDULE 21
+  - Part I U.K. investment exchanges
+    - Default Rules
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - Content of rules
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - Notification to other parties affected
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - Application of default rules to designated non-members
+      - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - Delegation of functions in connection with default procedures
+      - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - Co-operation with other authorities
+      - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - Margin
+      - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Part II U.K. clearing houses
+    - Default rules
+      - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - Content of rules
+      - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+      - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - Notification to other parties affected
+      - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - Delegation of functions in connection with default procedures
+      - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+    - Co-operation with other authorities
+      - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+    - Margin
+      - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+  - Part III Overseas investment exchanges and clearing houses
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+- SCHEDULE 22
+  - Introductory
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Recognised investment exchanges and clearing houses
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Market charges
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+  - Supplementary provisions
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+    - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+- SCHEDULE 23
+  - Part I General Amendments
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+    - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+    - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+    - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+    - [Sch. 23 para. 25](schedule/23/paragraph/25.md)
+  - Part II Amendments Relating to Friendly Societies
+    - [Sch. 23 para. 26](schedule/23/paragraph/26.md)
+    - [Sch. 23 para. 27](schedule/23/paragraph/27.md)
+    - [Sch. 23 para. 28](schedule/23/paragraph/28.md)
+    - [Sch. 23 para. 29](schedule/23/paragraph/29.md)
+    - [Sch. 23 para. 30](schedule/23/paragraph/30.md)
+    - [Sch. 23 para. 31](schedule/23/paragraph/31.md)
+    - [Sch. 23 para. 32](schedule/23/paragraph/32.md)
+    - [Sch. 23 para. 33](schedule/23/paragraph/33.md)
+    - [Sch. 23 para. 34](schedule/23/paragraph/34.md)
+    - [Sch. 23 para. 35](schedule/23/paragraph/35.md)
+    - [Sch. 23 para. 36](schedule/23/paragraph/36.md)
+    - [Sch. 23 para. 37](schedule/23/paragraph/37.md)
+    - [Sch. 23 para. 38](schedule/23/paragraph/38.md)
+    - [Sch. 23 para. 39](schedule/23/paragraph/39.md)
+    - [Sch. 23 para. 40](schedule/23/paragraph/40.md)
+    - [Sch. 23 para. 41](schedule/23/paragraph/41.md)
+    - [Sch. 23 para. 42](schedule/23/paragraph/42.md)
+    - [Sch. 23 para. 43](schedule/23/paragraph/43.md)
+- SCHEDULE 24 Repeals
