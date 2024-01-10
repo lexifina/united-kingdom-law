@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-11-22, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-10, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2023-11-22
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-01-10
 
 ## Contents
 
@@ -406,29 +406,29 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2023-11-22
     - [Sch. 3 para. 6 Section 15(2) assessments](schedule/3/paragraph/6.md)
   - PART 3 Pre-existing Part 4B services
     - [Sch. 3 para. 7 Interpretation of this Part](schedule/3/paragraph/7.md)
-    - [Sch. 3 para. 8 Interpretation of this Part](schedule/3/paragraph/8.md)
-    - [Sch. 3 para. 9 Interpretation of this Part](schedule/3/paragraph/9.md)
-    - [Sch. 3 para. 10 Interpretation of this Part](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
   - Pre-existing Part 4B services which are regulated user-to-user services
     - [Sch. 3 para. 11 Application of paragraphs 12 to 14](schedule/3/paragraph/11.md)
     - [Sch. 3 para. 12 Illegal content risk assessments and children’s access assessments](schedule/3/paragraph/12.md)
-    - [Sch. 3 para. 13 Illegal content risk assessments and children’s access assessments](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
     - [Sch. 3 para. 14 Section 15(2) assessments](schedule/3/paragraph/14.md)
   - Regulated user-to-user services which include a pre-existing Part 4B service
     - [Sch. 3 para. 15 Application of paragraphs 16 to 20](schedule/3/paragraph/15.md)
     - [Sch. 3 para. 16 Illegal content risk assessments and children’s access assessments of Part 4B part](schedule/3/paragraph/16.md)
-    - [Sch. 3 para. 17 Illegal content risk assessments and children’s access assessments of Part 4B part](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
     - [Sch. 3 para. 18 Section 15(2) assessments of Part 4B part](schedule/3/paragraph/18.md)
     - [Sch. 3 para. 19 Application of Part 1 and paragraph 6](schedule/3/paragraph/19.md)
     - [Sch. 3 para. 20 Application of paragraph 5](schedule/3/paragraph/20.md)
   - PART 4 Interpretation, and extension of three-month periods
     - [Sch. 3 para. 21 Interpretation of this Schedule](schedule/3/paragraph/21.md)
-    - [Sch. 3 para. 22 Interpretation of this Schedule](schedule/3/paragraph/22.md)
-    - [Sch. 3 para. 23 Interpretation of this Schedule](schedule/3/paragraph/23.md)
-    - [Sch. 3 para. 24 Interpretation of this Schedule](schedule/3/paragraph/24.md)
-    - [Sch. 3 para. 25 Interpretation of this Schedule](schedule/3/paragraph/25.md)
-    - [Sch. 3 para. 26 Interpretation of this Schedule](schedule/3/paragraph/26.md)
-    - [Sch. 3 para. 27 Interpretation of this Schedule](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
     - [Sch. 3 para. 28 Extension of three-month periods](schedule/3/paragraph/28.md)
 - SCHEDULE 4 Codes of practice under section 41: principles, objectives, content
   - [Sch. 4 para. 1 General principles](schedule/4/paragraph/1.md)
@@ -589,21 +589,21 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2023-11-22
   - [Sch. 12 para. 7 Powers exercisable by warrant](schedule/12/paragraph/7.md)
   - [Sch. 12 para. 8 Powers of seizure: supplementary](schedule/12/paragraph/8.md)
   - [Sch. 12 para. 9 Further provision about executing warrants](schedule/12/paragraph/9.md)
-  - [Sch. 12 para. 10 Further provision about executing warrants](schedule/12/paragraph/10.md)
-  - [Sch. 12 para. 11 Further provision about executing warrants](schedule/12/paragraph/11.md)
-  - [Sch. 12 para. 12 Further provision about executing warrants](schedule/12/paragraph/12.md)
-  - [Sch. 12 para. 13 Further provision about executing warrants](schedule/12/paragraph/13.md)
-  - [Sch. 12 para. 14 Further provision about executing warrants](schedule/12/paragraph/14.md)
-  - [Sch. 12 para. 15 Further provision about executing warrants](schedule/12/paragraph/15.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
   - [Sch. 12 para. 16 Return of warrants](schedule/12/paragraph/16.md)
   - [Sch. 12 para. 17 Restrictions on powers](schedule/12/paragraph/17.md)
   - [Sch. 12 para. 18 Offences](schedule/12/paragraph/18.md)
   - [Sch. 12 para. 19 Interpretation](schedule/12/paragraph/19.md)
-  - [Sch. 12 para. 20 Interpretation](schedule/12/paragraph/20.md)
-  - [Sch. 12 para. 21 Interpretation](schedule/12/paragraph/21.md)
-  - [Sch. 12 para. 22 Interpretation](schedule/12/paragraph/22.md)
-  - [Sch. 12 para. 23 Interpretation](schedule/12/paragraph/23.md)
-  - [Sch. 12 para. 24 Interpretation](schedule/12/paragraph/24.md)
+  - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+  - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+  - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+  - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+  - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
 - SCHEDULE 13 Penalties imposed by OFCOM under Chapter 6 of Part 7
   - [Sch. 13 para. 1 Meaning of “penalty” in this Schedule](schedule/13/paragraph/1.md)
   - [Sch. 13 para. 2 Amount of penalties: principles](schedule/13/paragraph/2.md)
