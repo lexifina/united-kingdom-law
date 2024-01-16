@@ -2,9 +2,9 @@
 
 2022 c. 37. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/37` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-16, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/37` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/37/2023-12-26
+Source: https://www.legislation.gov.uk/ukpga/2022/37/2024-01-16
 
 ## Contents
 
@@ -251,7 +251,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/37/2023-12-26
     - [Sch. 7 para. 13 Pre-commencement applications for registration in a register of parliamentary electors](schedule/7/paragraph/13.md)
     - [Sch. 7 para. 14 Overseas electors registered pursuant to pre-commencement applications](schedule/7/paragraph/14.md)
     - [Sch. 7 para. 15 Postal voting](schedule/7/paragraph/15.md)
-    - [Sch. 7 para. 16 Postal voting](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
     - [Sch. 7 para. 17 Power to make supplementary provision](schedule/7/paragraph/17.md)
     - [Sch. 7 para. 18 Promoting awareness of changes to overseas elector franchise](schedule/7/paragraph/18.md)
 - Schedule 8 Voting and candidacy rights of EU citizens
