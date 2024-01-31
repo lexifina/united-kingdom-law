@@ -2,9 +2,9 @@
 
 2021 c. 17. Enacted 2021-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-04-05, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-31, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/17/2023-04-05
+Source: https://www.legislation.gov.uk/ukpga/2021/17/2024-01-31
 
 ## Contents
 
@@ -97,7 +97,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/17/2023-04-05
 - PART 6 Offences involving abusive or violent behaviour
   - Controlling or coercive behaviour
     - [s. 68 Controlling or coercive behaviour in an intimate or family relationship](section/68.md)
-  - Disclosure of private sexual photographs and films
+  - ...
     - [s. 69 Threats to disclose private sexual photographs and films with intent to cause distress](section/69.md)
   - Offences against the person
     - [s. 70 Strangulation or suffocation](section/70.md)
