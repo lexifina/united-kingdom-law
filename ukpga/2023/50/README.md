@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-10, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-31, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-01-10
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-01-31
 
 ## Contents
 
@@ -615,7 +615,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-01-10
   - PART 1 Amendments consequential on offences in sections 179, 181 and 183
     - [Sch. 14 para. 1 Football Spectators Act 1989](schedule/14/paragraph/1.md)
     - [Sch. 14 para. 2 Sexual Offences Act 2003](schedule/14/paragraph/2.md)
-    - [Sch. 14 para. 3 Sexual Offences Act 2003](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
     - [Sch. 14 para. 4 Regulatory Enforcement and Sanctions Act 2008](schedule/14/paragraph/4.md)
     - [Sch. 14 para. 5 Elections Act 2022](schedule/14/paragraph/5.md)
   - PART 2 Amendments consequential on offence in section 184
