@@ -2,9 +2,9 @@
 
 2022 c. 37. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-16, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/37` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-01-31, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/37` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/37/2024-01-16
+Source: https://www.legislation.gov.uk/ukpga/2022/37/2024-01-31
 
 ## Contents
 
@@ -327,6 +327,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/37/2024-01-16
     - [Sch. 9 para. 50 Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](schedule/9/paragraph/50.md)
     - [Sch. 9 para. 51 Serious Crime Act 2015](schedule/9/paragraph/51.md)
     - [Sch. 9 para. 52 Hate Crime and Public Order (Scotland) Act 2021 (asp 14)](schedule/9/paragraph/52.md)
+    - [Sch. 9 para. 52A Online Safety Act 2023](schedule/9/paragraph/52A.md)
   - Part 3 Inchoate offences
     - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
 - Schedule 10 Disqualification orders: minor and consequential amendments
