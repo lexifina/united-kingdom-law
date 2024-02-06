@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-19, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-06, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2024-01-19
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2024-02-06
 
 ## Contents
 
@@ -160,6 +160,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2024-01-19
   - [s. 119 Repeals etc](section/119.md)
 - PART 13 General
   - [s. 120 Power to disapply this Act in relation to procurement by NHS in England](section/120.md)
+  - [s. 120A Power to disapply this Act in relation to procurement by NHS in Wales](section/120A.md)
   - [s. 121 Power to amend this Act in relation to private utilities](section/121.md)
   - [s. 122 Regulations](section/122.md)
   - [s. 123 Interpretation](section/123.md)
