@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-26, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-08, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-12-26
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2024-02-08
 
 ## Contents
 
@@ -337,6 +337,10 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2023-12-26
     - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
     - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
     - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 27A](schedule/4/paragraph/27A.md)
+    - [Sch. 4 para. 27B](schedule/4/paragraph/27B.md)
+    - [Sch. 4 para. 27C](schedule/4/paragraph/27C.md)
+    - [Sch. 4 para. 27D](schedule/4/paragraph/27D.md)
     - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
     - [Sch. 4 para. 28A](schedule/4/paragraph/28A.md)
   - PART 2 WELSH BODIES
