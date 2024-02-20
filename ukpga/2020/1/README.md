@@ -2,9 +2,9 @@
 
 2020 c. 1. Enacted 2020-01-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-29, one file per provision. Earlier versions, from 2020-01-23, are in the history before it: `git log -- ukpga/2020/1` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-20, one file per provision. Earlier versions, from 2020-01-23, are in the history before it: `git log -- ukpga/2020/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/1/2023-06-29
+Source: https://www.legislation.gov.uk/ukpga/2020/1/2024-02-20
 
 ## Contents
 
@@ -67,7 +67,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/1/2023-06-29
     - [s. 37 Arrangements with EU about unaccompanied children seeking asylum](section/37.md)
 - PART 5 General and final provision
   - Parliamentary sovereignty
-    - [s. 38 Parliamentary sovereignty](section/38.md)
+    - [s. 38 Parliamentary sovereignty and the constitutional status of Northern Ireland](section/38.md)
+    - [s. 38A Prohibition of certain Northern Ireland-related agreements](section/38A.md)
   - Interpretation
     - [s. 39 Interpretation](section/39.md)
   - Supplementary and final
