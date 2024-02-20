@@ -2,9 +2,9 @@
 
 2020 c. 27. Enacted 2020-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-20, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/27/2024-01-01
+Source: https://www.legislation.gov.uk/ukpga/2020/27/2024-02-20
 
 ## Contents
 
@@ -69,7 +69,11 @@ Source: https://www.legislation.gov.uk/ukpga/2020/27/2024-01-01
     - [s. 45 Interpretation of Part 4](section/45.md)
 - PART 5 Northern Ireland Protocol
   - Northern Ireland’s place in the UK internal market and customs territory
+    - [s. 45A Ongoing guarantee of UK internal market access for qualifying Northern Ireland goods](section/45A.md)
+    - [s. 45B Goods moved from Northern Ireland: position in relation to export procedures](section/45B.md)
+    - [s. 45C Further protections in respect of Northern Ireland’s place in the UK internal market](section/45C.md)
     - [s. 46 Northern Ireland’s place in the UK internal market and customs territory](section/46.md)
+    - [s. 46A Guidance relating to section 46](section/46A.md)
   - Unfettered access
     - [s. 47 Unfettered access to UK internal market for Northern Ireland goods](section/47.md)
   - State aid
