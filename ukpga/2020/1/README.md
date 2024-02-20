@@ -1,0 +1,306 @@
+# European Union (Withdrawal Agreement) Act 2020
+
+2020 c. 1. Enacted 2020-01-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2020/1/2024-02-20
+
+## Contents
+
+- PART 1 Implementation period
+  - Saved law for implementation period
+    - [s. 1 Saving of ECA for implementation period](section/1.md)
+    - [s. 2 Additional saving for implementation period](section/2.md)
+  - Supplementary powers
+    - [s. 3 Supplementary power in connection with implementation period](section/3.md)
+    - [s. 4 Powers corresponding to section 3 involving devolved authorities](section/4.md)
+- PART 2 Remaining implementation of withdrawal agreement etc: general
+  - Withdrawal agreement
+    - [s. 5 General implementation of remainder of withdrawal agreement](section/5.md)
+  - Related EEA EFTA and Swiss agreements
+    - [s. 6 General implementation of related EEA EFTA and Swiss agreements](section/6.md)
+- PART 3 Citizens’ rights
+  - Rights in relation to entry and residence
+    - [s. 7 Rights related to residence: application deadline and temporary protection](section/7.md)
+    - [s. 8 Frontier workers](section/8.md)
+    - [s. 9 Restrictions of rights of entry and residence](section/9.md)
+    - [s. 10 Retention of existing grounds for deportation](section/10.md)
+    - [s. 11 Appeals etc. against citizens’ rights immigration decisions](section/11.md)
+  - Professional qualifications
+    - [s. 12 Recognition of professional qualifications](section/12.md)
+  - Co-ordination of social security systems
+    - [s. 13 Co-ordination of social security systems](section/13.md)
+  - Equal treatment etc.
+    - [s. 14 Non-discrimination, equal treatment and rights of workers etc.](section/14.md)
+  - Independent Monitoring Authority
+    - [s. 15 Independent Monitoring Authority for the Citizens’ Rights Agreements](section/15.md)
+  - General
+    - [s. 16 Regulations: supplementary](section/16.md)
+    - [s. 17 Interpretation: Part 3](section/17.md)
+- PART 4 Other subject areas
+  - Other separation issues
+    - [s. 18 Main power in connection with other separation issues](section/18.md)
+    - [s. 19 Powers corresponding to section 18 involving devolved authorities](section/19.md)
+  - Main financial provision
+    - [s. 20 Financial provision](section/20.md)
+  - Ireland/Northern Ireland Protocol
+    - [s. 21 Main power in connection with Ireland/Northern Ireland Protocol](section/21.md)
+    - [s. 22 Powers corresponding to section 21 involving devolved authorities](section/22.md)
+    - [s. 23 Protection for certain rights, safeguards etc. in Belfast Agreement](section/23.md)
+    - [s. 24 No alteration of North-South co-operation](section/24.md)
+  - Relationship to EUWA 2018
+    - [s. 25 Retention of saved EU law at end of implementation period](section/25.md)
+    - [s. 26 Interpretation of retained EU law and relevant separation agreement law](section/26.md)
+    - [s. 27 Dealing with deficiencies in retained EU law](section/27.md)
+    - [s. 28 Ancillary fee-charging powers](section/28.md)
+  - Parliamentary oversight
+    - [s. 29 Review of EU legislation during implementation period](section/29.md)
+    - [s. 30 Certain dispute procedures under withdrawal agreement](section/30.md)
+    - [s. 31 Repeal of section 13 of EUWA 2018](section/31.md)
+    - [s. 32 Requirements in Part 2 of CRAGA](section/32.md)
+  - Other matters
+    - [s. 33 Prohibition on extending implementation period](section/33.md)
+    - [s. 34 Ministerial co-chairs of the Joint Committee](section/34.md)
+    - [s. 35 No use of written procedure in the Joint Committee](section/35.md)
+    - [s. 36 Repeal of unnecessary or spent enactments](section/36.md)
+    - [s. 37 Arrangements with EU about unaccompanied children seeking asylum](section/37.md)
+- PART 5 General and final provision
+  - Parliamentary sovereignty
+    - [s. 38 Parliamentary sovereignty and the constitutional status of Northern Ireland](section/38.md)
+    - [s. 38A Prohibition of certain Northern Ireland-related agreements](section/38A.md)
+  - Interpretation
+    - [s. 39 Interpretation](section/39.md)
+  - Supplementary and final
+    - [s. 40 Regulations](section/40.md)
+    - [s. 41 Consequential and transitional provision etc.](section/41.md)
+    - [s. 42 Extent, commencement and short title](section/42.md)
+- SCHEDULE 1 Powers of devolved authorities under sections 12, 13 and 14
+  - No power to make provision outside devolved competence
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Requirement for consent where it would otherwise be required
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Requirement for joint exercise where it would otherwise be required
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Requirement for consultation where it would otherwise be required
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Interpretation
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Independent Monitoring Authority for the Citizens’ Rights Agreements
+  - PART 1 Constitution, proceedings etc.
+    - Status
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Membership
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Interim chief executive
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Requirements relating to appointment
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Procedure for appointing members with knowledge of conditions in devolved areas etc.
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Non-executive members: terms of appointment and tenure etc.
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Remuneration of non-executive members
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Staffing of the IMA
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Procedure
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Discharge of functions
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Seal and evidence
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Funding
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Operational independence
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Accounts and audit
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Annual plan
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Public records
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Investigation by the Parliamentary Commissioner
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - House of Commons disqualification
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Northern Ireland Assembly disqualification
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Freedom of information
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Public sector equality duty
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - PART 2 Functions of the IMA etc.
+    - General duties
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Inquiries
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Reports following an inquiry
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Complaints
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Applying for review or intervening in legal proceedings
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Annual reports for specialised committee etc.
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Guidance
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Gibraltar
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Supplementary power
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Cooperation by relevant public authorities
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - PART 3 Further provisions
+    - Disclosure of HMRC’s information
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Data protection and disclosure of information
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - Disclosure of information to IMA: national security
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Transfer of IMA’s functions and abolition
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - Interpretation
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+- SCHEDULE 3 Protection for certain rights, safeguards etc. in Belfast Agreement
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Regulations under this Act
+  - PART 1 Procedure
+    - Rights in relation to entry and residence
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Powers under sections 12, 13 and 14: sole exercise
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Powers under sections 12, 13 and 14: joint exercise
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Power to amend definition of “IP completion day”
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Consequential provision
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - The IMA
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Power under paragraph 1(3) of Schedule 5: sole exercise
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Power under paragraph 1(3) of Schedule 5: joint exercise
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Power under paragraph 3(2) of Schedule 5
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - PART 2 General provision about powers under Act
+    - Scope and nature of powers: general
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Anticipatory exercise of powers in relation to withdrawal agreement etc.
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Scope of appointed day power
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Hybrid instruments
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Combinations of instruments
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+- SCHEDULE 5 Consequential and transitional provision etc.
+  - PART 1 General consequential provision
+    - Subordinate legislation with commencement by reference to exit day
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Devolved preparatory legislation of a kind mentioned in paragraph 41(3) to (5) of Schedule 8 to EUWA 2018
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Power to make consequential regulations under EUWA 2018
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - PART 2 Specific consequential provision etc.
+    - Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Interpretation Act 1978
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - European Economic Area Act 1993
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Scotland Act 1998
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Northern Ireland Act 1998
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Government of Wales Act 2006
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - European Union (Withdrawal) Act 2018
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+      - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+      - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+      - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+      - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+      - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+      - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+      - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+      - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+      - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+      - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+      - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+      - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
+      - [Sch. 5 para. 56](schedule/5/paragraph/56.md)
+    - The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018
+      - [Sch. 5 para. 57](schedule/5/paragraph/57.md)
+    - Legislation (Wales) Act 2019 (anaw 4)
+      - [Sch. 5 para. 58](schedule/5/paragraph/58.md)
+      - [Sch. 5 para. 59](schedule/5/paragraph/59.md)
+      - [Sch. 5 para. 60](schedule/5/paragraph/60.md)
+      - [Sch. 5 para. 61](schedule/5/paragraph/61.md)
+      - [Sch. 5 para. 62](schedule/5/paragraph/62.md)
+  - PART 3 Transitional, transitory and saving provision
+    - Retention of existing grounds for deportation
+      - [Sch. 5 para. 63](schedule/5/paragraph/63.md)
+    - Certain powers of devolved authorities in relation to EU law
+      - [Sch. 5 para. 64](schedule/5/paragraph/64.md)
+    - Savings in connection with section 36
+      - [Sch. 5 para. 65](schedule/5/paragraph/65.md)
+    - Regulations under EUWA 2018 etc.
+      - [Sch. 5 para. 66](schedule/5/paragraph/66.md)
+    - Time-limited powers
+      - [Sch. 5 para. 67](schedule/5/paragraph/67.md)
+    - Power to make transitional, transitory or saving regulations under EUWA 2018
+      - [Sch. 5 para. 68](schedule/5/paragraph/68.md)
