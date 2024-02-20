@@ -2,9 +2,9 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-20, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2024-01-01
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2024-02-20
 
 ## Contents
 
@@ -40,6 +40,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/16/2024-01-01
   - [s. 13 Parliamentary approval of the outcome of negotiations with the EU](section/13.md)
   - [s. 13A Review of EU legislation during implementation period](section/13A.md)
   - [s. 13B Certain dispute procedures under withdrawal agreement](section/13B.md)
+  - [s. 13C Bills affecting trade between Northern Ireland and other parts of the United Kingdom](section/13C.md)
 - Financial and other matters
   - [s. 14 Financial provision](section/14.md)
   - [s. 15 Publication and rules of evidence](section/15.md)
