@@ -1,0 +1,444 @@
+# Social Security Act 1998
+
+1998 c. 14. Enacted 1998-05-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 64 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
+
+Source: https://www.legislation.gov.uk/ukpga/1998/14/2024-02-21
+
+## Contents
+
+- Part I Decisions and Appeals
+  - Chapter I General
+    - Decisions
+      - [s. 1 Transfer of functions to Secretary of State](section/1.md)
+      - [s. 2 Use of computers](section/2.md)
+      - [s. 3 Use of information](section/3.md)
+    - Appeals
+      - [s. 4 Unified appeal tribunals](section/4.md)
+      - [s. 5 President of appeal tribunals](section/5.md)
+      - [s. 6 Panel for appointment to appeal tribunals](section/6.md)
+      - [s. 7 Constitution of appeal tribunals](section/7.md)
+  - Chapter II Social Security Decisions and Appeals
+    - Decisions
+      - [s. 8 Decisions by Secretary of State](section/8.md)
+      - [s. 9 Revision of decisions](section/9.md)
+      - [s. 10 Decisions superseding earlier decisions](section/10.md)
+      - Reference of issues by Secretary of State to Inland Revenue
+        - [s. 10A Reference of issues by Secretary of State to Inland Revenue.](section/10A.md)
+        - [s. 11 Regulations with respect to decisions](section/11.md)
+    - Appeals
+      - [s. 12 Appeal to First-tier Tribunal](section/12.md)
+      - [s. 13 Redetermination etc. of appeals by tribunal](section/13.md)
+      - [s. 14 Appeal from First-tier Tribunal to Upper Tribunal](section/14.md)
+      - [s. 15 Applications for permission to appeal against a decision of the Upper Tribunal](section/15.md)
+      - [s. 15A Functions of Senior President of Tribunals](section/15A.md)
+    - Procedure etc.
+      - [s. 16 Procedure](section/16.md)
+      - [s. 17 Finality of decisions](section/17.md)
+      - [s. 18 Matters arising as respects decisions](section/18.md)
+    - Medical examinations
+      - [s. 19 Medical examination required by Secretary of State](section/19.md)
+      - [s. 20 Medical examination required by appeal tribunal](section/20.md)
+      - [s. 20A Travelling and other allowances](section/20A.md)
+    - Suspension and termination of benefit
+      - [s. 21 Suspension in prescribed circumstances](section/21.md)
+      - [s. 22 Suspension for failure to furnish information etc](section/22.md)
+      - [s. 23 Termination in cases of failure to furnish information](section/23.md)
+      - [s. 24 Suspension and termination for failure to submit to medical examination](section/24.md)
+    - Appeals dependent on issues falling to be decided by Inland Revenue
+      - [s. 24A Appeals dependent on issues falling to be decided by Inland Revenue.](section/24A.md)
+    - Decisions and appeals dependent on other cases
+      - [s. 25 Decisions involving issues that arise on appeal in other cases](section/25.md)
+      - [s. 26 Appeals involving issues that arise on appeal in other cases](section/26.md)
+    - Cases of error
+      - [s. 27 Restrictions on entitlement to benefit in certain cases of error](section/27.md)
+      - [s. 28 Correction of errors and setting aside of decisions](section/28.md)
+    - Industrial accidents
+      - [s. 29 Decision that accident is an industrial accident](section/29.md)
+      - [s. 30 Effect of decision](section/30.md)
+    - Other special cases
+      - [s. 31 Incapacity for work](section/31.md)
+      - [s. 32 Industrial diseases](section/32.md)
+      - [s. 33 Christmas bonus](section/33.md)
+    - Housing benefit and council tax benefit
+      - [s. 34 Determination of claims and reviews](section/34.md)
+      - [s. 35 Suspension of benefit in prescribed circumstances](section/35.md)
+    - Social fund payments
+      - [s. 36 Appropriate officers](section/36.md)
+      - [s. 37 The social fund Commissioner and inspectors](section/37.md)
+      - [s. 38 Reviews of determinations](section/38.md)
+    - Supplemental
+      - [s. 39ZA Certificates](section/39ZA.md)
+      - [s. 39 Interpretation etc. of Chapter II](section/39.md)
+  - Chapter III Other Decisions and Appeals
+    - Child support
+      - [s. 40 Child support: revision of decisions](section/40.md)
+      - [s. 41 Child support: decisions superseding earlier decisions](section/41.md)
+      - [s. 42 Child support: appeals to appeal tribunals](section/42.md)
+      - [s. 43 Child support: decisions and appeals dependent on other cases](section/43.md)
+      - [s. 44 Child support: cases of error](section/44.md)
+    - Vaccine damage payments
+      - [s. 45 Vaccine damage payments: decisions reversing earlier decisions](section/45.md)
+      - [s. 46 Vaccine damage payments: appeals to appeal tribunals](section/46.md)
+      - [s. 47 Vaccine damage payments: correction of errors etc](section/47.md)
+- Part II Contributions
+  - Amendments of Contributions and Benefits Act
+    - [s. 48 Apportionment of payments etc. made for more than one earner](section/48.md)
+    - [s. 49 Payments on account of directors’ contributions](section/49.md)
+    - [s. 50 Payments treated as remuneration and earnings](section/50.md)
+    - [s. 51 Class 1 contributions](section/51.md)
+    - [s. 52 Class 1A contributions](section/52.md)
+    - [s. 53 Class 1B contributions](section/53.md)
+    - [s. 54 Contributions paid in error](section/54.md)
+    - [s. 55 Recovery of primary Class 1 contributions by secondary contributors](section/55.md)
+    - [s. 56 Contributions returns](section/56.md)
+    - [s. 57 Collection of contributions by Secretary of State](section/57.md)
+    - [s. 58 Interest and penalties chargeable concurrently with Inland Revenue](section/58.md)
+    - [s. 59 Levy of Class 4 contributions with income tax](section/59.md)
+  - Amendments of Administration Act
+    - [s. 60 Breach of regulations](section/60.md)
+    - [s. 61 Offences and penalties relating to contributions](section/61.md)
+    - [s. 62 Evidence of non-payment](section/62.md)
+    - [s. 63 Recovery of contributions etc](section/63.md)
+    - [s. 64 Liability of directors etc. for company’s contributions](section/64.md)
+    - [s. 65 Class 1B contributions: supplemental](section/65.md)
+    - [s. 66 Payments of certain contributions out of the Consolidated Fund](section/66.md)
+- Part III Benefits
+  - Amendments etc. of Contributions and Benefits Act
+    - [s. 67 Daily rate of maternity allowance](section/67.md)
+    - [s. 68 Rates of short-term incapacity benefit](section/68.md)
+    - [s. 69 Validation of certain housing benefit determinations](section/69.md)
+    - [s. 70 Discretionary payments out of social fund](section/70.md)
+    - [s. 71 Budgeting loans: criteria for making awards](section/71.md)
+    - [s. 72 Power to reduce child benefit for lone parents](section/72.md)
+    - [s. 73 Statutory sick pay not precluded by maternity allowance](section/73.md)
+  - Amendments of Administration Act
+    - [s. 74 Provision of information](section/74.md)
+    - [s. 75 Overpayments out of social fund](section/75.md)
+    - [s. 76 Power to anticipate pensions up-rating order](section/76.md)
+- Part IV Miscellaneous and supplemental
+  - [s. 77 Pilot schemes](section/77.md)
+  - [s. 78 Expenditure for facilitating transfer of functions etc](section/78.md)
+  - [s. 79 Regulations and orders](section/79.md)
+  - [s. 80 Parliamentary control of regulations](section/80.md)
+  - [s. 81 Reports by Secretary of State](section/81.md)
+  - [s. 82 Financial provisions](section/82.md)
+  - [s. 83 Transitory provisions](section/83.md)
+  - [s. 84 Interpretation: general](section/84.md)
+  - [s. 85 Provision for Northern Ireland](section/85.md)
+  - [s. 86 Minor and consequential amendments and repeals](section/86.md)
+  - [s. 87 Short title, commencement and extent](section/87.md)
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Decisions against which no appeal lies
+  - Jobseeker’s allowance for persons under 18
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Christmas bonus
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Priority between persons entitled to carer’s allowance, carer support payment and the carer element of universal credit
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Priority between persons entitled to child benefit
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Persons treated as if present in Great Britain
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Work-focused interviews
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - Alteration of rates of benefit
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Increases in income support due to attainment of particular ages
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Reduction in accordance with reduced benefit decision
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Reduction on application of benefit cap
+    - [Sch. 2 para. 8A](schedule/2/paragraph/8A.md)
+  - Power to prescribe other decisions
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Decisions against which an appeal lies
+  - Part I Benefit decisions
+    - Entitlement to benefit without a claim
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Payability of benefit
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+    - Payments to third parties
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Recovery of benefits
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+      - [Sch. 3 para. 6B](schedule/3/paragraph/6B.md)
+    - State pension: prisoners and overseas residents
+      - [Sch. 3 para. 6C](schedule/3/paragraph/6C.md)
+      - [Sch. 3 para. 6D](schedule/3/paragraph/6D.md)
+    - Industrial injuries benefit
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - State pension credit
+      - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
+      - [Sch. 3 para. 8B](schedule/3/paragraph/8B.md)
+      - [Sch. 3 para. 8C](schedule/3/paragraph/8C.md)
+      - [Sch. 3 para. 8D](schedule/3/paragraph/8D.md)
+    - Power to prescribe other decisions
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Part II Contributions decisions
+    - Categorisation of earners
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Compulsory contributions
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Voluntary contributions
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Responsibilities at home
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Earnings and contributions credits
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Statutory sick pay
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Statutory maternity pay
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Liability of directors etc. for company’s contributions
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Preserved rights to benefit etc.
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Employment of long-term unemployed
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Interest and penalties
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Power to prescribe other decisions
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Regulations as to procedure: provision which may be made
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Transitory provisions
+  - Constitution of appeal tribunals
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Claims no longer subsisting after decisions made
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Appeals to tribunals
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Appeals to Commissioners
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Suspension of benefit in prescribed circumstances
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Restrictions on entitlement in certain cases of error
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Reviews of social fund determinations
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Overpayments out of social fund
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Child support: appeals to tribunals
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Army Act 1955 (c. 18)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Air Force Act 1955 (c. 19)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Vaccine Damage Payments Act 1979 (c. 17)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Forfeiture Act 1982 (c. 34)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Debtors (Scotland) Act 1987 (c. 18)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Child Support Act 1991 (c. 48)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+  - Social Security Contributions and Benefits Act 1992 (c. 4)
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+    - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+    - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+    - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+    - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+    - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+    - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+    - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+    - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+    - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+    - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+    - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+    - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+    - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+    - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+    - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+    - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+    - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+    - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+    - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+    - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+    - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+    - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+    - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+    - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+    - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
+    - [Sch. 7 para. 88](schedule/7/paragraph/88.md)
+    - [Sch. 7 para. 89](schedule/7/paragraph/89.md)
+    - [Sch. 7 para. 90](schedule/7/paragraph/90.md)
+    - [Sch. 7 para. 91](schedule/7/paragraph/91.md)
+    - [Sch. 7 para. 92](schedule/7/paragraph/92.md)
+    - [Sch. 7 para. 93](schedule/7/paragraph/93.md)
+    - [Sch. 7 para. 94](schedule/7/paragraph/94.md)
+    - [Sch. 7 para. 95](schedule/7/paragraph/95.md)
+    - [Sch. 7 para. 96](schedule/7/paragraph/96.md)
+    - [Sch. 7 para. 97](schedule/7/paragraph/97.md)
+    - [Sch. 7 para. 98](schedule/7/paragraph/98.md)
+    - [Sch. 7 para. 99](schedule/7/paragraph/99.md)
+    - [Sch. 7 para. 100](schedule/7/paragraph/100.md)
+    - [Sch. 7 para. 101](schedule/7/paragraph/101.md)
+    - [Sch. 7 para. 102](schedule/7/paragraph/102.md)
+    - [Sch. 7 para. 103](schedule/7/paragraph/103.md)
+    - [Sch. 7 para. 104](schedule/7/paragraph/104.md)
+    - [Sch. 7 para. 105](schedule/7/paragraph/105.md)
+    - [Sch. 7 para. 106](schedule/7/paragraph/106.md)
+    - [Sch. 7 para. 107](schedule/7/paragraph/107.md)
+    - [Sch. 7 para. 108](schedule/7/paragraph/108.md)
+    - [Sch. 7 para. 109](schedule/7/paragraph/109.md)
+    - [Sch. 7 para. 110](schedule/7/paragraph/110.md)
+    - [Sch. 7 para. 111](schedule/7/paragraph/111.md)
+    - [Sch. 7 para. 112](schedule/7/paragraph/112.md)
+    - [Sch. 7 para. 113](schedule/7/paragraph/113.md)
+    - [Sch. 7 para. 114](schedule/7/paragraph/114.md)
+    - [Sch. 7 para. 115](schedule/7/paragraph/115.md)
+    - [Sch. 7 para. 116](schedule/7/paragraph/116.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 7 para. 117](schedule/7/paragraph/117.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 7 para. 118](schedule/7/paragraph/118.md)
+    - [Sch. 7 para. 119](schedule/7/paragraph/119.md)
+    - [Sch. 7 para. 120](schedule/7/paragraph/120.md)
+    - [Sch. 7 para. 121](schedule/7/paragraph/121.md)
+    - [Sch. 7 para. 122](schedule/7/paragraph/122.md)
+  - Judicial Pensions and Retirement Act 1993 (c. 8)
+    - [Sch. 7 para. 123](schedule/7/paragraph/123.md)
+    - [Sch. 7 para. 124](schedule/7/paragraph/124.md)
+    - [Sch. 7 para. 125](schedule/7/paragraph/125.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 7 para. 126](schedule/7/paragraph/126.md)
+    - [Sch. 7 para. 127](schedule/7/paragraph/127.md)
+    - [Sch. 7 para. 128](schedule/7/paragraph/128.md)
+    - [Sch. 7 para. 129](schedule/7/paragraph/129.md)
+    - [Sch. 7 para. 130](schedule/7/paragraph/130.md)
+    - [Sch. 7 para. 131](schedule/7/paragraph/131.md)
+    - [Sch. 7 para. 132](schedule/7/paragraph/132.md)
+  - Jobseekers Act 1995 (c. 18)
+    - [Sch. 7 para. 133](schedule/7/paragraph/133.md)
+    - [Sch. 7 para. 134](schedule/7/paragraph/134.md)
+    - [Sch. 7 para. 135](schedule/7/paragraph/135.md)
+    - [Sch. 7 para. 136](schedule/7/paragraph/136.md)
+    - [Sch. 7 para. 137](schedule/7/paragraph/137.md)
+    - [Sch. 7 para. 138](schedule/7/paragraph/138.md)
+    - [Sch. 7 para. 139](schedule/7/paragraph/139.md)
+    - [Sch. 7 para. 140](schedule/7/paragraph/140.md)
+    - [Sch. 7 para. 141](schedule/7/paragraph/141.md)
+    - [Sch. 7 para. 142](schedule/7/paragraph/142.md)
+    - [Sch. 7 para. 143](schedule/7/paragraph/143.md)
+    - [Sch. 7 para. 144](schedule/7/paragraph/144.md)
+    - [Sch. 7 para. 145](schedule/7/paragraph/145.md)
+    - [Sch. 7 para. 146](schedule/7/paragraph/146.md)
+  - Industrial Tribunals Act 1996 (c. 17)
+    - [Sch. 7 para. 147](schedule/7/paragraph/147.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 7 para. 148](schedule/7/paragraph/148.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 7 para. 149](schedule/7/paragraph/149.md)
+    - [Sch. 7 para. 150](schedule/7/paragraph/150.md)
+    - [Sch. 7 para. 151](schedule/7/paragraph/151.md)
+    - [Sch. 7 para. 152](schedule/7/paragraph/152.md)
+    - [Sch. 7 para. 153](schedule/7/paragraph/153.md)
+- SCHEDULE 8 Repeals
