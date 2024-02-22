@@ -2,9 +2,9 @@
 
 2023 c. 30. Enacted 2023-07-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-08-25, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
+Source: https://www.legislation.gov.uk/ukpga/2023/30/2024-02-22
 
 ## Contents
 
@@ -200,7 +200,11 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
       - [s. 145 Exclusion of expenses for illegal payments, fines and penalties](section/145.md)
       - [s. 146 Adjustment for changes in accounting policies and prior period errors](section/146.md)
       - [s. 147 Accrued pension expense](section/147.md)
-      - [s. 148 Treatment of qualifying refundable tax credits](section/148.md)
+      - [s. 147A Treatment of tax credits](section/147A.md)
+      - [s. 148 Meaning of qualifying refundable tax credits](section/148.md)
+      - [s. 148A Transferable tax credits](section/148A.md)
+      - [s. 148B Value of marketable transferable tax credits: originator](section/148B.md)
+      - [s. 148C Value of marketable transferable tax credits: purchaser](section/148C.md)
       - [s. 149 Arm’s length requirement for certain transactions](section/149.md)
       - [s. 150 Transactions between members of a multinational group: differences with accounting for tax](section/150.md)
       - [s. 151 Adjustments for companies in distress](section/151.md)
@@ -234,6 +238,14 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
       - [s. 174 Amount of covered tax balance](section/174.md)
       - [s. 175 Amounts excluded from covered tax balance](section/175.md)
       - [s. 176 Amounts to be reflected in covered tax balance](section/176.md)
+    - Transferable tax credits
+      - [s. 176A Meaning of “non-marketable transferable tax credits”](section/176A.md)
+      - [s. 176B Value of non-marketable transferable tax credits: originator](section/176B.md)
+      - [s. 176C Value of non-marketable transferable tax credits: purchaser](section/176C.md)
+    - Tax equity partnerships
+      - [s. 176D Tax credits etc allocated under tax equity partnerships](section/176D.md)
+      - [s. 176E Flow-through tax benefits: proportional amortisation method](section/176E.md)
+      - [s. 176F Flow-through tax benefits: subtraction method](section/176F.md)
     - Allocation of covered taxes
       - [s. 177 Permanent establishments](section/177.md)
       - [s. 178 Reallocation of tax expense](section/178.md)
@@ -243,6 +255,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
     - Dealing with deferred tax assets etc
       - [s. 182 Total deferred tax adjustment amount](section/182.md)
       - [s. 183 Qualifying foreign tax credits (substitute loss carry forward assets)](section/183.md)
+      - [s. 183A Alternative to section 183 where carry forward of credits not permitted](section/183A.md)
       - [s. 184 Recaptured deferred tax liabilities](section/184.md)
       - [s. 185 Inclusion of existing deferred tax assets and liabilities on entry into regime](section/185.md)
       - [s. 186 Deferred tax assets recorded at less than minimum rate](section/186.md)
@@ -259,7 +272,9 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
     - [s. 195 Substance based income exclusion](section/195.md)
     - [s. 196 Eligible payroll costs](section/196.md)
     - [s. 197 Eligible tangible asset amount](section/197.md)
+    - [s. 197A Operating leases](section/197A.md)
     - [s. 198 Eligible payroll costs and eligible tangible asset amount: permanent establishments and flow-through entities](section/198.md)
+    - [s. 198A Power to make provision about treatment of payroll costs and assets](section/198A.md)
     - [s. 199 Election to treat total top-up amount as nil](section/199.md)
   - Chapter 7 Allocating top-up amounts to responsible members
     - [s. 200 Top-up amounts multiplied by inclusion ratio](section/200.md)
@@ -309,6 +324,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
     - Meaning of “entity” etc
       - [s. 231 Meaning of entity](section/231.md)
       - [s. 232 Permanent establishments treated as entities](section/232.md)
+      - [s. 232A Partnerships](section/232A.md)
       - [s. 233 Treatment of protected cell companies](section/233.md)
       - [s. 234 Governmental, international and non-profit entities](section/234.md)
       - [s. 235 Pension funds and pension services entities](section/235.md)
@@ -331,17 +347,19 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
       - [s. 249 Consolidated financial statements](section/249.md)
       - [s. 250 Acceptable accounting standards](section/250.md)
       - [s. 251 Accounting periods](section/251.md)
+      - [s. 251A Meaning of country-by-country report](section/251A.md)
     - Miscellaneous
       - [s. 252 Application to sovereign wealth funds](section/252.md)
       - [s. 253 Disqualified and qualified refundable imputation taxes](section/253.md)
       - [s. 254 Use of currency](section/254.md)
       - [s. 255 Pillar Two rules](section/255.md)
       - [s. 256 Qualifying domestic top-up tax](section/256.md)
+      - [s. 256A Qualifying domestic top-up tax treated as not accruing where contested etc](section/256A.md)
       - [s. 257 Qualifying undertaxed profits tax](section/257.md)
       - [s. 258 Meaning of “connected”](section/258.md)
       - [s. 259 Other definitions](section/259.md)
   - Chapter 11 General and miscellaneous provision
-    - [s. 260 Transitional provision](section/260.md)
+    - [s. 260 Transitional provision and safe harbours](section/260.md)
     - [s. 261 Index of defined expressions](section/261.md)
     - [s. 262 Power to amend to ensure consistency with Pillar Two](section/262.md)
     - [s. 263 Regulations](section/263.md)
@@ -351,14 +369,20 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
     - [s. 265 Introduction to domestic top-up tax](section/265.md)
     - [s. 266 Qualifying entities](section/266.md)
     - [s. 267 DTT excluded entities](section/267.md)
+    - [s. 267A Securitisation companies in a group treated as not consolidated](section/267A.md)
     - [s. 268 Permanent establishments](section/268.md)
+    - [s. 268A Partnerships](section/268A.md)
   - Chapter 2 Charge to domestic top-up tax
     - [s. 269 Chargeable persons](section/269.md)
     - [s. 270 Amount charged](section/270.md)
     - [s. 271 Election to make one member of a group liable for amounts charged](section/271.md)
   - Chapter 3 Application of multinational top-up tax provisions
     - [s. 272 Determining top-up amounts of entity that is a member of a group](section/272.md)
+    - [s. 272A Treatment of covered bond vehicles](section/272A.md)
     - [s. 273 Determining top-up amounts of entity that is not a member of a group](section/273.md)
+    - [s. 273A References to Pillar Two rules](section/273A.md)
+    - [s. 273B Effect of becoming subject to Pillar Two rules](section/273B.md)
+    - [s. 273C Dividends from protected cell companies](section/273C.md)
     - [s. 274 Application of section 262](section/274.md)
     - [s. 275 Application of Schedule 14](section/275.md)
     - [s. 276 Application of transitional provision](section/276.md)
@@ -405,6 +429,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
     - [s. 309 Information sharing](section/309.md)
     - [s. 310 Interaction of electricity generator levy with corporation tax](section/310.md)
     - [s. 311 Regulations under this Part](section/311.md)
+    - [s. 311A Meaning of “qualifying new generating plant”](section/311A.md)
     - [s. 312 Minor definitions relating to electricity market](section/312.md)
     - [s. 313 Definitions in this Part](section/313.md)
 - Part 6 Other taxes
@@ -719,42 +744,45 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
     - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
   - Part 10 Payments of multinational top-up tax
     - [Sch. 14 para. 32 Timing of payments](schedule/14/paragraph/32.md)
-    - [Sch. 14 para. 33 Timing of payments](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - [Sch. 14 para. 33A](schedule/14/paragraph/33A.md)
     - [Sch. 14 para. 34 Group payment notices](schedule/14/paragraph/34.md)
-    - [Sch. 14 para. 35 Group payment notices](schedule/14/paragraph/35.md)
-    - [Sch. 14 para. 36 Group payment notices](schedule/14/paragraph/36.md)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
     - [Sch. 14 para. 37 Effect of group payment for tax purposes](schedule/14/paragraph/37.md)
+    - [Sch. 14 para. 37A Partnership payment notices](schedule/14/paragraph/37A.md)
+    - [Sch. 14 para. 37B Recovery of partnership payment and effect for tax purposes etc](schedule/14/paragraph/37B.md)
     - [Sch. 14 para. 38 Recovery](schedule/14/paragraph/38.md)
     - [Sch. 14 para. 39 Power to make regulations](schedule/14/paragraph/39.md)
   - Part 11 Penalties
     - [Sch. 14 para. 40 Penalties payable in connection with this Schedule](schedule/14/paragraph/40.md)
-    - [Sch. 14 para. 41 Penalties payable in connection with this Schedule](schedule/14/paragraph/41.md)
-    - [Sch. 14 para. 42 Penalties payable in connection with this Schedule](schedule/14/paragraph/42.md)
-    - [Sch. 14 para. 43 Penalties payable in connection with this Schedule](schedule/14/paragraph/43.md)
-    - [Sch. 14 para. 44 Penalties payable in connection with this Schedule](schedule/14/paragraph/44.md)
-    - [Sch. 14 para. 45 Penalties payable in connection with this Schedule](schedule/14/paragraph/45.md)
-    - [Sch. 14 para. 46 Penalties payable in connection with this Schedule](schedule/14/paragraph/46.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
     - [Sch. 14 para. 47 Penalties under paragraphs 42, 43 and 46: administration and supplemental provision](schedule/14/paragraph/47.md)
-    - [Sch. 14 para. 48 Penalties under paragraphs 42, 43 and 46: administration and supplemental provision](schedule/14/paragraph/48.md)
-    - [Sch. 14 para. 49 Penalties under paragraphs 42, 43 and 46: administration and supplemental provision](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
     - [Sch. 14 para. 50 Multiple penalties in respect of same accounting period](schedule/14/paragraph/50.md)
   - Part 12 Appeals and claims
     - [Sch. 14 para. 51 Claims in relation to overpaid tax](schedule/14/paragraph/51.md)
-    - [Sch. 14 para. 52 Claims in relation to overpaid tax](schedule/14/paragraph/52.md)
-    - [Sch. 14 para. 53 Claims in relation to overpaid tax](schedule/14/paragraph/53.md)
-    - [Sch. 14 para. 54 Claims in relation to overpaid tax](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
     - [Sch. 14 para. 55 Appeals of decisions: general](schedule/14/paragraph/55.md)
-    - [Sch. 14 para. 56 Appeals of decisions: general](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
     - [Sch. 14 para. 57 Reviews by HMRC](schedule/14/paragraph/57.md)
-    - [Sch. 14 para. 58 Reviews by HMRC](schedule/14/paragraph/58.md)
-    - [Sch. 14 para. 59 Reviews by HMRC](schedule/14/paragraph/59.md)
-    - [Sch. 14 para. 60 Reviews by HMRC](schedule/14/paragraph/60.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
     - [Sch. 14 para. 61 Settlement agreements](schedule/14/paragraph/61.md)
     - [Sch. 14 para. 62 Determination by tribunal](schedule/14/paragraph/62.md)
     - [Sch. 14 para. 63 Postponement of payment pending appeal](schedule/14/paragraph/63.md)
-    - [Sch. 14 para. 64 Postponement of payment pending appeal](schedule/14/paragraph/64.md)
-    - [Sch. 14 para. 65 Postponement of payment pending appeal](schedule/14/paragraph/65.md)
-    - [Sch. 14 para. 66 Postponement of payment pending appeal](schedule/14/paragraph/66.md)
+    - [Sch. 14 para. 64](schedule/14/paragraph/64.md)
+    - [Sch. 14 para. 65](schedule/14/paragraph/65.md)
+    - [Sch. 14 para. 66](schedule/14/paragraph/66.md)
     - [Sch. 14 para. 67 Special provisions as to penalties](schedule/14/paragraph/67.md)
   - Part 13 Other amendments
     - [Sch. 14 para. 68](schedule/14/paragraph/68.md)
@@ -778,6 +806,18 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2023-08-25
       - [Sch. 16 para. 10 Application in the case of joint venture group](schedule/16/paragraph/10.md)
       - [Sch. 16 para. 11 Application to investment entities in same territory as owners](schedule/16/paragraph/11.md)
       - [Sch. 16 para. 12 Minority owned members](schedule/16/paragraph/12.md)
+  - Part 3 Transitional reporting election
+    - [Sch. 16 para. 13 Transitional reporting election](schedule/16/paragraph/13.md)
+- Schedule 16A Multinational top-up tax: safe harbours
+  - Part 1 Qualifying domestic top-up tax safe harbour
+    - Chapter 1 Qualifying domestic top-up tax safe harbour election
+      - [Sch. 16A para. 1 Election for qualifying domestic top-up tax safe harbour](schedule/16A/paragraph/1.md)
+      - [Sch. 16A para. 2 Accredited qualifying domestic top-up tax](schedule/16A/paragraph/2.md)
+      - [Sch. 16A para. 3 Disqualifying conditions](schedule/16A/paragraph/3.md)
+    - Chapter 2 Application to non-standard members of a multinational group
+      - [Sch. 16A para. 4 Application in the case of joint venture group](schedule/16A/paragraph/4.md)
+      - [Sch. 16A para. 5 Application in the case of investment entities](schedule/16A/paragraph/5.md)
+      - [Sch. 16A para. 6 Application in the case of minority owned members](schedule/16A/paragraph/6.md)
 - Schedule 17 Index of expressions defined or explained in Parts 3 and 4
 - Schedule 18 Administration of domestic top-up tax
   - [Sch. 18 para. 1 Introduction](schedule/18/paragraph/1.md)
