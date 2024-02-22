@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-02-07, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2023-02-07
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2024-02-22
 
 ## Contents
 
@@ -406,6 +406,8 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2023-02-07
     - [s. 276 Limitation of defence of reasonable care](section/276.md)
     - [s. 277 Extended time limit for assessment](section/277.md)
   - Offences
+    - [s. 277A Offences relating to stop notices](section/277A.md)
+    - [s. 277B Liability for offences under section 277A committed by a body](section/277B.md)
     - [s. 278 Offence of concealing etc documents](section/278.md)
     - [s. 279 Offence of concealing etc documents following informal notification](section/279.md)
     - [s. 280 Penalties for offences](section/280.md)
