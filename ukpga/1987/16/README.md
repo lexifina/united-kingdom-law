@@ -1,0 +1,281 @@
+# Finance Act 1987
+
+1987 c. 16. Enacted 1987-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1987/16
+
+Source: https://www.legislation.gov.uk/ukpga/1987/16/2024-02-22
+
+## Contents
+
+- Part 1 Customs and Excise and Value Added Tax
+  - Chapter I Customs and Excise
+    - Duties of excise
+      - [s. 1 Unleaded petrol.](section/1.md)
+      - [s. 2 Part I Vehicles excise duty.](section/2.md)
+      - [s. 3 Abolition of general betting duty on on-course bets.](section/3.md)
+      - [s. 4 ................................](section/4.md)
+      - [s. 5 Gaming machine licence duty: other amendments.](section/5.md)
+    - Amendments of the Management Act
+      - [s. 6 ................................](section/6.md)
+      - [s. 7 Powers of search and access etc. in respect of vehicles. 1979 c. 2.](section/7.md)
+      - [s. 8 Local export control.](section/8.md)
+      - [s. 9 Records relating to importation and exportation.](section/9.md)
+      - [s. 10 Information powers.](section/10.md)
+  - Chapter II Value Added Tax
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+- Part II Income Tax, Corporation Tax and Capital Gains Tax
+  - Chapter I General
+    - [s. 20 ................................](section/20.md)
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+  - Chapter II
+    - [s. 47 ................................](section/47.md)
+- Part III Stamp Duty and Stamp Duty Reserve Tax
+  - Stamp duty
+    - [s. 48 Unit trusts.](section/48.md)
+    - [s. 49 Contract notes.](section/49.md)
+    - [s. 50 Warrants to purchase Government stock, etc.](section/50.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 Clearance services](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 Shared ownership transactions.](section/54.md)
+    - [s. 55 Crown exemption.](section/55.md)
+    - [s. 56 Stamp duty reserve tax](section/56.md)
+- Part IV Inheritance Tax
+  - [s. 57 Reduced rates of tax.](section/57.md)
+  - [s. 58 Securities, other business property and agricultural property.](section/58.md)
+  - [s. 59 Maintenance funds for historic buildings etc.](section/59.md)
+  - [s. 60 Acceptance in lieu: waiver of interest.](section/60.md)
+- Part V Oil Taxation
+  - [s. 61 Nomination of disposals and appropriations.](section/61.md)
+  - [s. 62 Market value of oil to be determined on a monthly basis.](section/62.md)
+  - [s. 63 Blends of oil from two or more fields.](section/63.md)
+  - [s. 64 Relief for research expenditure.](section/64.md)
+  - [s. 65 Cross-field allowance of certain expenditure incurred on new fields.](section/65.md)
+  - [s. 66 Oil allowance: adjustment for final periods.](section/66.md)
+  - [s. 67 Variation of decisions on claims for allowable expenditure.](section/67.md)
+- Part VI Miscellaneous and Supplementary
+  - [s. 68 Abolition of enactments relating to exchange control.](section/68.md)
+  - [s. 69 Regulation of financial dealings.](section/69.md)
+  - [s. 70 Arrangements specified in Orders in Council relating to double taxation relief etc.](section/70.md)
+  - [s. 71 ................................](section/71.md)
+  - [s. 72 Short title, interpretation, construction and repeals.](section/72.md)
+- SCHEDULE 1 Vehicles Excise Duty
+  - Part I................................
+  - Part II Recovery Vehicles
+    - Interpretation
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Exclusion of recovery vehicles from trade licences
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part III Miscellaneous Amendments
+    - Introductory
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Additional liability for evasion of duty
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Offences relating to trade licences
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Regulations concerning transfer etc. of vehicles
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Increase of certain penalties for offences under regulations
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Dishonoured cheques
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Amendments of Value Added Tax Act 1983
+  - Supplies received from abroad
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 ................................](schedule/2/paragraph/2.md)
+  - Transfers of going concerns
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Appeals
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULES 3–6................................
+- SCHEDULE 7 Stamp Duty Reserve Tax
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Principal charge
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Renounceable letters of allotment, etc.
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Market makers in options
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Clearance services
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Charities etc.
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Interest on tax repayments
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Securities, Other Business Property and Agricultural Property
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+- SCHEDULE 9 Maintenance Funds for Historic Buildings etc.
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Nomination Scheme for Disposals and Appropriation
+  - Interpretation
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Transactions which may be nominated
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Period for which nomination has effect
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Timing of nominations
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Content of nomination
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 5A](schedule/10/paragraph/5A.md)
+    - [Sch. 10 para. 5B](schedule/10/paragraph/5B.md)
+  - Nominated price
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Nominal volume
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Revision of nominations
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Effective volume for nominated transactions
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Aggregate effective volume for a month
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Aggregate nominated proceeds for a month
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Blended oil
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Interpretation
+    - [Sch. 10 para. 12n1](schedule/10/paragraph/12n1.md)
+  - Returns
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Market Value of Oil
+  - Part I Amendments of Paragraphs 2, 2a and 3 of Schedule 3 to Principal Act
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Part II Consequential Amendments of Principal Act
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+- SCHEDULE 12 Supplementary Provisions as to Blended Oil
+  - Interpretation
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Method of allocation not suitable
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Appeals
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+- SCHEDULE 13 Relief for Research Expenditure
+  - Part I Section to be Inserted After Section 5A of the Principal Act
+  - Part II Amendments Relating to the New Allowance
+    - The principal Act
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - The Petroleum Revenue Tax Act 1980
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - The Finance Act 1980
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - The Finance Act 1981
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - The Finance Act 1984
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Part III Receipts to be Set Against Allowable Expenditure
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+- SCHEDULE 14 Cross-Field Allowance
+  - Part I Elections
+    - General
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Earliest date for an election
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Latest date for election
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Two or more elections relating to same expenditure
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Part II Effect on Receiving Field
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Part III Relevant New Fields and Associated Companies
+    - Relevant new fields
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Associated companies
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Part IV Supplemental and Consequential Provisions
+    - Notice of variation reducing expenditure qualifying for supplement
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - Elections following variation increasing expenditure qualifying for supplement
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - Limit on amount of tax payable in respect of receiving field
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- SCHEDULE 15 Pre-Consolidation Amendments: Income Tax and Corporation Tax
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - The Interpretation Act 1978 (c. 30)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- SCHEDULE 16 Repeals
+  - Part I Vehicles Excise Duty
+    - [Sch. 16 Pt. I para. 1](schedule/16/part/I/paragraph/1.md)
+    - [Sch. 16 Pt. I para. 2](schedule/16/part/I/paragraph/2.md)
+  - Part II Betting and Gaming Duties
+    - [Sch. 16 Pt. II para. 1](schedule/16/part/II/paragraph/1.md)
+    - [Sch. 16 Pt. II para. 2](schedule/16/part/II/paragraph/2.md)
+    - [Sch. 16 Pt. II para. 3](schedule/16/part/II/paragraph/3.md)
+  - Part III Management of Customs and Excise
+  - Part IV Value Added Tax
+  - Part V Income Tax and Corporation Tax: General
+    - [Sch. 16 Pt. V para. 1](schedule/16/part/V/paragraph/1.md)
+    - [Sch. 16 Pt. V para. 2](schedule/16/part/V/paragraph/2.md)
+    - [Sch. 16 Pt. V para. 3](schedule/16/part/V/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Part VI Unit Trusts
+  - Part VII Income Tax and Corporation Tax: Pre-Consolidation Amendments
+  - Part VIII Stamp Duty
+    - [Sch. 16 Pt. VIII para. 1](schedule/16/part/VIII/paragraph/1.md)
+    - [Sch. 16 Pt. VIII para. 2](schedule/16/part/VIII/paragraph/2.md)
+  - Part IX Inheritance Tax
+  - Part X Oil Taxation
+  - Part XI Exchange Control
+    - [Sch. 16 Pt. XI para. 1](schedule/16/part/XI/paragraph/1.md)
+    - [Sch. 16 Pt. XI para. 2](schedule/16/part/XI/paragraph/2.md)
