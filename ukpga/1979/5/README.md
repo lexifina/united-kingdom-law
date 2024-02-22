@@ -1,0 +1,262 @@
+# Hydrocarbon Oil Duties Act 1979
+
+1979 c. 5. Enacted 1979-02-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1979/5
+
+Source: https://www.legislation.gov.uk/ukpga/1979/5/2024-02-22
+
+## Contents
+
+- The dutiable commodities
+  - [s. 1 Hydrocarbon oil.](section/1.md)
+  - [s. 2 Provisions supplementing s. 1.](section/2.md)
+  - [s. 2AA Biodiesel](section/2AA.md)
+  - [s. 2AB Bioethanol](section/2AB.md)
+  - [s. 2AC Aqua methanol](section/2AC.md)
+  - [s. 2A Power to amend definitions.](section/2A.md)
+  - [s. 3 Hydrocarbon oil as ingredient of imported goods.](section/3.md)
+  - [s. 4](section/4.md)
+  - [s. 5 Road fuel gas.](section/5.md)
+- Charging provisions
+  - [s. 6 Excise duty on hydrocarbon oil.](section/6.md)
+  - [s. 6AA Excise duty on biodiesel](section/6AA.md)
+  - [s. 6AB Excise duty on blends of biodiesel and heavy oils](section/6AB.md)
+  - [s. 6AC Application to biodiesel and bioblend of provisions relating to hydrocarbon oil](section/6AC.md)
+  - [s. 6AD Excise duty on bioethanol](section/6AD.md)
+  - [s. 6AE Excise duty on blends of bioethanol and hydrocarbon oil](section/6AE.md)
+  - [s. 6AF Application to bioethanol and bioethanol blend of provisions relating to hydrocarbon oil](section/6AF.md)
+  - [s. 6AG Excise duty on aqua methanol](section/6AG.md)
+  - [s. 6AH Application to aqua methanol of provisions relating to hydrocarbon oil](section/6AH.md)
+  - [s. 6A Fuel substitutes.](section/6A.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 Excise duty on road fuel gas.](section/8.md)
+- Delivery of oil without payment of duty
+  - [s. 9 Oil delivered for home use for certain industrial purposes.](section/9.md)
+  - [s. 10 Restrictions on the use of duty-free oil.](section/10.md)
+- Rebate of duty
+  - [s. 11 Rebate on heavy oil.](section/11.md)
+  - [s. 12 Rebate not allowed on fuel other than for excepted machines.](section/12.md)
+  - [s. 13 Penalties for contravention of section 12.](section/13.md)
+  - [s. 13ZA Rebate on certain heavy oil used for heating etc](section/13ZA.md)
+  - [s. 13ZB Restrictions on supply of certain heavy oil for heating etc](section/13ZB.md)
+  - [s. 13A Rebate on unleaded petrol](section/13A.md)
+  - [s. 13AA Restrictions on use of rebated kerosene.](section/13AA.md)
+  - [s. 13AB Penalties for contravention of section 13AA.](section/13AB.md)
+  - [s. 13AC Use of rebated kerosene for private pleasure-flying](section/13AC.md)
+  - [s. 13AD Penalties for contravention of section 13AC](section/13AD.md)
+  - [s. 14 Rebate on light oil for use as furnace fuel.](section/14.md)
+  - [s. 14A Rebate on biodiesel used as fuel for excepted machines](section/14A.md)
+  - [s. 14B Rebate on bioblend used as fuel for excepted machines.](section/14B.md)
+  - [s. 14C Restrictions on use of rebated biodiesel and bioblend](section/14C.md)
+  - [s. 14D Penalties for misuse of rebated biodiesel or bioblend](section/14D.md)
+  - [s. 14E Rebated heavy oil and bioblend: private pleasure craft](section/14E.md)
+  - [s. 14F Penalties for contravention of section 14E](section/14F.md)
+- Drawback
+  - [s. 15 Drawback of duty on exportation etc. of certain goods.](section/15.md)
+  - [s. 16 ................................](section/16.md)
+- Miscellaneous reliefs
+  - [s. 17 Heavy oil used by horticultural producers.](section/17.md)
+  - [s. 17A Biodiesel used otherwise than as road fuel](section/17A.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 Fuel used in lifeboats, etc.](section/19.md)
+  - [s. 19A Fuel for producing energy for refineries etc.](section/19A.md)
+  - [s. 20 Contaminated or accidentally mixed oil.](section/20.md)
+- Mixing
+  - [s. 20A Mixing: adjustment of duty.](section/20A.md)
+  - [s. 20AAA Mixing of rebated oil.](section/20AAA.md)
+  - [s. 20AAB Mixing of rebated oil: supplementary.](section/20AAB.md)
+  - [s. 20AAC Prohibition on mixing of aqua methanol](section/20AAC.md)
+  - [s. 20AAD Mixing of aqua methanol in contravention of prohibition: adjustment of duty](section/20AAD.md)
+  - [s. 20AA Power to allow reliefs.](section/20AA.md)
+  - [s. 20AB Power to allow reliefs for fuel testing etc](section/20AB.md)
+- Administration and enforcement
+  - [s. 20AC Determination by Commissioners of composition of substance](section/20AC.md)
+  - [s. 21 Regulations with respect to hydrobarbon oil, petrol substitutes and road fuel gas.](section/21.md)
+  - [s. 22 Prohibition on use of fuel substitutes on which duty has not been paid](section/22.md)
+  - [s. 23 Prohibition on use etc. of road fuel gas on which duty has not been paid.](section/23.md)
+  - [s. 23A Regulation of traders in controlled oil](section/23A.md)
+  - [s. 23B Power to provide for exceptions to section 23A](section/23B.md)
+  - [s. 23C Warehousing](section/23C.md)
+  - [s. 24 Control of use of duty-free and rebated oil.](section/24.md)
+  - [s. 24AA Registered excise dealers and shippers regulations: special provision for traders in controlled oil](section/24AA.md)
+  - [s. 24A Penalties for misuse of marked oil.](section/24A.md)
+- Supplementary
+  - [s. 25 Regulations.](section/25.md)
+  - [s. 26 Directions.](section/26.md)
+  - [s. 27 Interpretation.](section/27.md)
+  - [s. 28 Consequential amendments, repeals, savings and transitional provisions.](section/28.md)
+  - [s. 29 Citation and commencement.](section/29.md)
+- SCHEDULE 1 EXCEPTED VEHICLES
+  - Unlicensed vehicles not used on public roads
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Tractors
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Light agricultural vehicles
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Agricultural material handlers
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+  - Agricultural engines
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Agricultural processing vehicles
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+  - Vehicles used between different parts of land
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Mowing machines
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Snow clearing vehicles
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Gritters
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Mobile cranes
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Mobile pumping vehicles
+    - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+  - Digging machines
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Works trucks
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Road construction vehicles
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Road rollers
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Road surfacing vehicles
+    - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+  - Tar Sprayers
+    - [Sch. 1 para. 13B](schedule/1/paragraph/13B.md)
+  - Interpretation
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 1A Excepted machines
+  - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Agricultural vehicle
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Special vehicles
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Unlicensed vehicles
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Trains etc
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Vessels etc
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Mowing machines
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Other machines or appliances
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Interpretation
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+- SCHEDULE 2 MEANING OF “HORTICULTURAL PRODUCE” FOR PURPOSES OF RELIEF UNDER SECTION 17
+- SCHEDULE 2A Mixing of rebated oil
+  - Part I Light oil
+    - Converting unleaded petrol into leaded petrol
+      - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - Converting unleaded petrol into higher octane unleaded petrol
+      - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - Mixing different kinds of unleaded petrol
+      - [Sch. 2A para. 2A](schedule/2A/paragraph/2A.md)
+    - Power to create exceptions
+      - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Part II Heavy oil
+    - Mixing partially rebated heavy oil with unrebated heavy oil
+      - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - Mixing fully rebated heavy oil with unrebated heavy oil
+      - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - Mixing fully rebated heavy oil with partially rebated heavy oil
+      - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - Mixing different types of partially rebated gas oil
+      - [Sch. 2A para. 6A](schedule/2A/paragraph/6A.md)
+    - Complex mixtures of heavy oils
+      - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Part IIA Unrebated heavy oil
+    - [Sch. 2A para. 7A](schedule/2A/paragraph/7A.md)
+    - [Sch. 2A para. 7B Mixing biodiesel with rebated heavy oil](schedule/2A/paragraph/7B.md)
+  - Part III Rates of duty, etc.
+    - Rate for mixtures of light oil
+      - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - Rate for mixtures of heavy oil
+      - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - Credit for duty paid on ingredients of mixture
+      - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+    - Interpretation
+      - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+- SCHEDULE 3 SUBJECTS FOR REGULATIONS UNDER SECTION 21
+  - Part I hydrocarbon oil
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 10A](schedule/3/paragraph/10A.md)
+    - [Sch. 3 para. 10B](schedule/3/paragraph/10B.md)
+    - [Sch. 3 para. 10C](schedule/3/paragraph/10C.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part II
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Part III road fuel gas
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 SUBJECTS FOR REGULATIONS UNDER SECTION 24
+  - As to grant of relief...
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - As to mixing of oil
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - As to marking of oil
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - As to control of storage, supply etc. of oil, entry of premises etc.
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 18A](schedule/4/paragraph/18A.md)
+    - [Sch. 4 para. 18B](schedule/4/paragraph/18B.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Interpretation
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+- SCHEDULE 5 SAMPLING
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 CONSEQUENTIAL AMENDMENTS
+  - Finance Act 1965 and Finance Act (Northern Ireland) Act 1965
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Transport Act 1968
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Excise Duties (Gas as Road Fuel) Order 1972
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 REPEALS
