@@ -1,0 +1,106 @@
+# Finance Act 1976
+
+1976 c. 40. Enacted 1976-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1976/40/2024-02-22
+
+## Contents
+
+- Part I Customs and Excise
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 6](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - Vehicles excise duty
+    - [s. 11 Information about goods vehicles and registration of trailers.](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+- Part II Value Added Tax
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 23 Failure of resolution under Provisional Collection of Taxes Act 1968.](section/23.md)
+- Part III Income Tax, Corporation Tax and Capital Gains Tax
+  - CHAPTER I General
+    - [s. 24 ................................](section/24.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 51 ................................](section/51.md)
+    - [s. 52 ................................](section/52.md)
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 ................................](section/55.md)
+    - [s. 57 Investigatory powers.](section/57.md)
+    - [s. 58 Recovery of tax in sheriff court.](section/58.md)
+    - [s. 59 Post-war credits.](section/59.md)
+  - CHAPTER II Benefits derived by Company Directors and others from their Employment
+    - [s. 60 ................................](section/60.md)
+    - [s. 72](section/72.md)
+- Part IV
+  - [s. 73 ................................](section/73.md)
+- Part V Miscellaneous and Supplementary
+  - [s. 126 ................................](section/126.md)
+  - [s. 127 Stamp duty: stock exchange transfers](section/127.md)
+  - [s. 128 ................................](section/128.md)
+  - [s. 129 ................................](section/129.md)
+  - [s. 130 Petroleum revenue tax.](section/130.md)
+  - [s. 131 Inter-American Development Bank.](section/131.md)
+  - [s. 132 Citation, interpretation, construction and repeals.](section/132.md)
+- SCHEDULES 1, 2
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4................................
+- SCHEDULE 5................................
+- SCHEDULE 6 Sections to be Substituted for Section 20 of Taxes Management Act 1970
+- SCHEDULES 7, 8
+- SCHEDULE 9 Amendments of Tax Acts Consequent on Part III, Chapter II
+  - Part I Replacement of Section 15 of the Taxes Management Act 1970 (c. 9)
+    - Taxes Management Act 1970
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Finance Act 1974
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Savings
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - PART II OTHER AMENDMENTS
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Taxes Management Act 1970
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+- SCHEDULES 10–14.
+- SCHEDULE 15 Repeals
+  - Part I Customs and Excise
+  - Part II Value Added Tax
+  - Part III Income Tax, Corporation Tax and Capital Gains Tax
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Part IV Life Policies
+  - Part V Capital Transfer Tax
+  - Part VI Stamp Duty
+  - Part VII Miscellaneous
