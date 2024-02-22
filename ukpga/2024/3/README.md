@@ -2,9 +2,9 @@
 
 2024 c. 3. Enacted 2024-02-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/3/2026-06-25
+Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-02-22
 
 ## Contents
 
@@ -125,7 +125,6 @@ Source: https://www.legislation.gov.uk/ukpga/2024/3/2026-06-25
     - [Sch. 2 para. 22 Continuity between regimes: British certification](schedule/2/paragraph/22.md)
     - [Sch. 2 para. 23 Continuity between regimes: UK expenditure (films and television programmes)](schedule/2/paragraph/23.md)
     - [Sch. 2 para. 24 Transition of video games from European expenditure condition to UK expenditure condition](schedule/2/paragraph/24.md)
-    - [Sch. 2 para. 24A Calculation of expenditure credit where company previously benefiting from video games tax relief](schedule/2/paragraph/24A.md)
     - [Sch. 2 para. 25 Transfer of terminal losses between productions in existing and new regimes](schedule/2/paragraph/25.md)
 - Schedule 3 Theatrical productions
   - Part 1 Amendments of Part 15C of CTA 2009
@@ -330,15 +329,11 @@ Source: https://www.legislation.gov.uk/ukpga/2024/3/2026-06-25
     - [Sch. 9 para. 125 Availability of individual’s lump sum allowance](schedule/9/paragraph/125.md)
     - [Sch. 9 para. 126 Availability of individual’s lump sum and death benefit allowance](schedule/9/paragraph/126.md)
     - [Sch. 9 para. 127 Transitional tax-free amount certificates](schedule/9/paragraph/127.md)
-    - [Sch. 9 para. 127A Availability of member’s overseas transfer allowance](schedule/9/paragraph/127A.md)
-    - [Sch. 9 para. 127B Provision of information by individuals to certification administrators](schedule/9/paragraph/127B.md)
     - [Sch. 9 para. 128 Provision of information by scheme administrators to members](schedule/9/paragraph/128.md)
     - [Sch. 9 para. 129 Paragraphs 125 to 128: interpretation](schedule/9/paragraph/129.md)
     - [Sch. 9 para. 130 Statements for certain members who would not otherwise receive one in the tax year 2024-25](schedule/9/paragraph/130.md)
-    - [Sch. 9 para. 130A Lump sums paid on or after 6 April 2024 where entitlement arose before that date](schedule/9/paragraph/130A.md)
     - [Sch. 9 para. 131 Lump sum death benefits paid on or after 6 April 2024 that crystallised before that date](schedule/9/paragraph/131.md)
-    - [Sch. 9 para. 132 Modifications of scheme rules](schedule/9/paragraph/132.md)
-    - [Sch. 9 para. 132A Continuity of the law](schedule/9/paragraph/132A.md)
+    - [Sch. 9 para. 132 References in scheme rules to lifetime allowance excess lump sums](schedule/9/paragraph/132.md)
     - [Sch. 9 para. 133 Power to make further transitional provision](schedule/9/paragraph/133.md)
     - [Sch. 9 para. 134 Power to make further provision in connection with the abolition of lifetime allowance charge](schedule/9/paragraph/134.md)
 - Schedule 10 Calculation of trade profits etc
