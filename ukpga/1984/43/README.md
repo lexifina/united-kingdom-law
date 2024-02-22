@@ -1,0 +1,244 @@
+# Finance Act 1984
+
+1984 c. 43. Enacted 1984-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-02-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1984/43/2024-02-22
+
+## Contents
+
+- Part I Customs and Excise, Value Added Tax and Car Tax
+- Chapter I Customs and Excise
+  - [s. 1 Duties on spirits, beer, wine, made-wine and cider.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Hydrocarbon oil.](section/3.md)
+  - [s. 4](section/4.md)
+  - [s. 5 Vehicles excise duty: recipients of mobility supplement.](section/5.md)
+  - [s. 6 Gaming licence duty.](section/6.md)
+  - [s. 7 Gaming machine licence duty.](section/7.md)
+  - [s. 8 Free zones.](section/8.md)
+  - [s. 9 Entry of goods on importation.](section/9.md)
+- Chapter II Value Added Tax
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 ................................](section/13.md)
+- Chapter III Miscellaneous
+  - [s. 14 Reliefs from duty and value added tax in respect of imported legacies.](section/14.md)
+  - [s. 15 Extension to certain Community reliefs of power to make supplementary provision.](section/15.md)
+  - [s. 16 Unpaid car tax and value added tax: distress and poinding.](section/16.md)
+- PART II INCOME TAX, CORPORATION TAX AND CAPITAL GAINS TAX ETC.
+- CHAPTER I GENERAL
+  - [s. 17 ................................](section/17.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 56](section/56.md)
+  - [s. 57 Proceedings in magistrates’ courts and county courts.](section/57.md)
+- CHAPTER II CAPITAL ALLOWANCES
+  - [s. 58 ................................](section/58.md)
+- CHAPTER III CAPITAL GAINS
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 ................................](section/64.md)
+  - [s. 65 ................................](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 ................................](section/67.md)
+  - [s. 68 ................................](section/68.md)
+  - [s. 69 ................................](section/69.md)
+  - [s. 70 ................................](section/70.md)
+  - [s. 71 ................................](section/71.md)
+- CHAPTER IV INSURANCE
+  - [s. 72 ................................](section/72.md)
+  - [s. 73 Insurance business of registered friendly societies.](section/73.md)
+  - [s. 74 ................................](section/74.md)
+- CHAPTER V OIL AND GAS INDUSTRY
+  - [s. 77 ................................](section/77.md)
+  - [s. 78 ................................](section/78.md)
+  - [s. 79 ................................](section/79.md)
+  - [s. 80 ................................](section/80.md)
+  - [s. 81 ................................](section/81.md)
+- CHAPTER VI CONTROLLED FOREIGN COMPANIES
+  - [s. 82 ................................](section/82.md)
+  - [s. 92 ................................](section/92.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 108 Pre-consolidation amendments.](section/108.md)
+- PART IV STAMP DUTY
+  - [s. 109 ................................](section/109.md)
+  - [s. 110 Extension of stamp duty relief on sales at discount.](section/110.md)
+  - [s. 111 Agreements for leases.](section/111.md)
+  - [s. 112 Sub-sales.](section/112.md)
+- PART V OIL TAXATION
+  - [s. 113 Restriction on PRT reliefs.](section/113.md)
+  - [s. 114 Sales of gas: treatment of certain payments.](section/114.md)
+  - [s. 115 Information relating to sales at arm’s length and market value of oil.](section/115.md)
+  - [s. 116 Offences relating to section 115.](section/116.md)
+- PART VI MISCELLANEOUS AND SUPPLEMENTARY
+  - National insurance surcharge
+    - [s. 117 Abolition of national insurance surcharge.](section/117.md)
+    - [s. 118 ................................](section/118.md)
+  - Miscellaneous
+    - [s. 124 Recovery of certain tax assessed on non-residents.](section/124.md)
+    - [s. 125 Local loans.](section/125.md)
+    - [s. 126 Tax exemptions in relation to designated international organisations.](section/126.md)
+    - [s. 127 Special and General Commissioners.](section/127.md)
+    - [s. 128 Short title, interpretation, construction and repeals.](section/128.md)
+- SCHEDULE 1 Wine and Made-Wine
+  - Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 VEHICLES EXCISE DUTY
+  - Part I
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Part II Amendment of Part I of Schedule 4 to the Vehicles (Excise) Act 1971 and the Vehicles (Excise) Act (Northern Ireland) 1972
+    - Amendments made in both Acts
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 GAMING MACHINE LICENCE DUTY
+  - Part I Special Licences and Staggered Starting Dates for Whole-Year Licences in Respect of Premises
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Transitional Provisions
+    - Whole-year licences during transitional period
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- Schedule 4 Free Zones
+  - Part I Provisions Inserted in Customs and Excise Management Act 1979 as Part VIIIA
+  - Part II Further Amendments of 1979 Act
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- Schedule 5 Entry on Importation:
+  - Amendment of Customs and Excise Management Act 1979
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- Schedule 6
+  - Part I Food
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Part II
+    - [Sch. 6 para. 2 ................................](schedule/6/paragraph/2.md)
+  - Part III Protected Buildings
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- Schedules 7—9
+- SCHEDULE 10
+- SCHEDULE 11 FURNISHED HOLIDAY LETTINGS
+  - Treatment of lettings as a trade for certain purposes
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Capital gains tax
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Power to make apportionments
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Adjustments of tax charged
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12
+- SCHEDULE 13 QUALIFYING CORPORATE BONDS
+  - PART I APPLICATION OF PROVISIONS RELATING TO GILT-EDGED SECURITIES
+    - Capital Gains Tax Act 1979
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Other enactments
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - PART II REORGANISATIONS, CONVERSIONS, RECONSTRUCTIONS ETC.
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+- SCHEDULE 14 BENEFICIARY’S LIABILITY FOR TAX ON GAINS OF NON-RESIDENT TRUSTEES
+  - Interpretation
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Claims for postponement of tax
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Tax referable to attributed gains
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Initial calculations relevant to tax which may be postponed
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Relevant benefits
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - The basic rules as to postponement
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Effect of subsequent capital payments received by the beneficiary
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Effect of related benefits derived from payments received by close relatives of the beneficiary
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Related benefits
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Time when postponed tax becomes payable
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Balance of capital payments
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Second and later claims
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Information
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+- Schedules 15—20
+- SCHEDULE 21
+  - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+  - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+- SCHEDULE 22 SPECIAL AND GENERAL COMMISSIONERS
+  - Appointment of Special Commissioners
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Special Commissioners: quorum
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Elections to bring appeals before Special Commissioners
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Procedural rules
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Transfer of appeals from General to Special Commissioners
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Fee for statement of case
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Statement of case from Special Commissioners to Court of Appeal
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - Saving
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+- SCHEDULE 23 REPEALS
+  - Part I Made-Wine
+  - Part II Gaming Machine Licence Duty
+  - Part III Value Added Tax
+  - Part IV Customs and Excise: Miscellaneous
+  - PART V INCOME TAX AND CORPORATION TAX: GENERAL
+    - [Sch. 23 Pt. V para. 1](schedule/23/part/V/paragraph/1.md)
+    - [Sch. 23 Pt. V para. 2](schedule/23/part/V/paragraph/2.md)
+    - [Sch. 23 Pt. V para. 3](schedule/23/part/V/paragraph/3.md)
+    - [Sch. 23 Pt. V para. 4](schedule/23/part/V/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - PART VI INCOME TAX: THE ADDITIONAL RATE
+  - PART VII FOREIGN EARNINGS AND EMOLUMENTS
+    - [Sch. 23 Pt. VII para. 1](schedule/23/part/VII/paragraph/1.md)
+    - [Sch. 23 Pt. VII para. 2](schedule/23/part/VII/paragraph/2.md)
+    - [Sch. 23 Pt. VII para. 3](schedule/23/part/VII/paragraph/3.md)
+    - [Sch. 23 Pt. VII para. 4](schedule/23/part/VII/paragraph/4.md)
+  - PART VIII CAPITAL GAINS
+    - [Sch. 23 Pt. VIII para. 1](schedule/23/part/VIII/paragraph/1.md)
+    - [Sch. 23 Pt. VIII para. 2](schedule/23/part/VIII/paragraph/2.md)
+    - [Sch. 23 Pt. VIII para. 3](schedule/23/part/VIII/paragraph/3.md)
+    - [Sch. 23 Pt. VIII para. 4](schedule/23/part/VIII/paragraph/4.md)
+  - Part IX Capital Transfer Tax
+  - Part X Stamp Duty
+  - Part XI National Insurance Surcharge
+  - Part XII Development Land Tax
+  - PART XIII SPECIAL AND GENERAL COMMISSIONERS
+  - Part XIV Miscellaneous
