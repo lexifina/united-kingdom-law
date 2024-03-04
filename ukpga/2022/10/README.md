@@ -2,9 +2,9 @@
 
 2022 c. 10. Enacted 2022-03-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-10-26, one file per provision. Earlier versions, from 2022-03-15, are in the history before it: `git log -- ukpga/2022/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-04, one file per provision. Earlier versions, from 2022-03-15, are in the history before it: `git log -- ukpga/2022/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/10/2023-10-26
+Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-04
 
 ## Contents
 
@@ -48,7 +48,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/10/2023-10-26
     - [s. 25 Power to make regulations protecting material](section/25.md)
     - [s. 26 Data protection](section/26.md)
   - Correction or removal of material on the register
-    - [s. 27 Resolving inconsistencies](section/27.md)
+    - [s. 27 Resolving inconsistencies ...](section/27.md)
     - [s. 28 Administrative removal of material from the register](section/28.md)
     - [s. 28A Further provision about removal of material from the register](section/28A.md)
     - [s. 29 Application to rectify register](section/29.md)
