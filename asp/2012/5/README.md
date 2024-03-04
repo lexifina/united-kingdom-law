@@ -1,0 +1,419 @@
+# Land Registration etc. (Scotland) Act 2012
+
+asp/2012/5. Enacted 2012-07-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2012/5
+
+Source: https://www.legislation.gov.uk/asp/2012/5/2024-03-04
+
+## Contents
+
+- Part 1 The Land Register
+  - The Land Register of Scotland
+    - [s. 1 The Land Register of Scotland](section/1.md)
+  - Structure and contents of the register
+    - [s. 2 The parts of the register](section/2.md)
+  - Title sheets and the title sheet record
+    - [s. 3 Title sheets and the title sheet record](section/3.md)
+    - [s. 4 Title and lease title numbers](section/4.md)
+    - [s. 5 Structure of title sheets](section/5.md)
+    - [s. 6 The property section of the title sheet](section/6.md)
+    - [s. 7 The proprietorship section of the title sheet](section/7.md)
+    - [s. 8 The securities section of the title sheet](section/8.md)
+    - [s. 9 The burdens section of the title sheet](section/9.md)
+    - [s. 10 What is entered or incorporated by reference in a title sheet](section/10.md)
+  - The cadastral map
+    - [s. 11 The cadastral map](section/11.md)
+    - [s. 12 Cadastral units](section/12.md)
+    - [s. 13 The cadastral map: further provision](section/13.md)
+  - The archive record
+    - [s. 14 The archive record](section/14.md)
+  - The application record
+    - [s. 15 The application record](section/15.md)
+  - Tenements etc.
+    - [s. 16 Tenements and other flatted buildings](section/16.md)
+  - Shared plots
+    - [s. 17 Shared plots](section/17.md)
+    - [s. 18 Shared plot and sharing plot title sheets](section/18.md)
+    - [s. 19 Conversion of shared plot title sheet to ordinary title sheet](section/19.md)
+    - [s. 20 Shared plot title sheets in relation to registered leases](section/20.md)
+- Part 2 Registration
+  - Applications for registration
+    - [s. 21 Application for registration of deed](section/21.md)
+    - [s. 22 General application conditions](section/22.md)
+    - [s. 23 Conditions of registration: transfer of unregistered plot](section/23.md)
+    - [s. 24 Circumstances in which section 25 applies](section/24.md)
+    - [s. 25 Conditions of registration: certain deeds relating to unregistered plots](section/25.md)
+    - [s. 26 Conditions of registration: deeds relating to registered plots](section/26.md)
+  - Registration without deed
+    - [s. 27 Application for voluntary registration](section/27.md)
+    - [s. 28 Conditions of registration: voluntary registration](section/28.md)
+    - [s. 29 Keeper-induced registration](section/29.md)
+  - Completion of registration
+    - [s. 30 Completion of registration of plot](section/30.md)
+    - [s. 31 Completion of registration of deed](section/31.md)
+    - [s. 32 References to certain entries in Register of Inhibitions](section/32.md)
+  - General provision about applications
+    - [s. 33 Recording in application record](section/33.md)
+    - [s. 34 Withdrawal and amendments etc. of application](section/34.md)
+    - [s. 35 Period within which decision must be made](section/35.md)
+  - Date of application and registration etc.
+    - [s. 36 Date of application](section/36.md)
+    - [s. 37 Date and time of registration](section/37.md)
+    - [s. 38 Power to amend section 6 of the Land Registers (Scotland) Act 1868](section/38.md)
+  - Applications in relation to the same land
+    - [s. 39 Order in which applications are to be dealt with](section/39.md)
+  - Notification
+    - [s. 40 Notification of acceptance, rejection or withdrawal of application](section/40.md)
+    - [s. 41 Notification to proprietor](section/41.md)
+    - [s. 42 Notification to Scottish Ministers of certain applications](section/42.md)
+  - Prescriptive claimants etc.
+    - [s. 43 Prescriptive claimants](section/43.md)
+    - [s. 44 Provisional entries on title sheet](section/44.md)
+    - [s. 45 Notification of prescriptive applications](section/45.md)
+  - Further provision
+    - [s. 46 Meaning of “disposition” in certain provisions](section/46.md)
+    - [s. 47 Effect of death or dissolution](section/47.md)
+  - Closure of Register of Sasines etc.
+    - [s. 48 Closure of Register of Sasines etc.](section/48.md)
+- Part 3 Competence and effect of registration
+  - Registrable deeds
+    - [s. 49 Registrable deeds](section/49.md)
+  - Specific provisions on competence and effect of registration
+    - [s. 50 Transfer by disposition](section/50.md)
+    - [s. 51 Proper liferents](section/51.md)
+    - [s. 52 Registration of, and of transactions and events affecting, leases](section/52.md)
+    - [s. 53 Completion of title](section/53.md)
+    - [s. 54 Registration of decree of reduction](section/54.md)
+    - [s. 55 Registration of order for rectification of document etc.](section/55.md)
+- Part 4 Advance notices
+  - [s. 56 Advance notices](section/56.md)
+  - [s. 57 Application for advance notice](section/57.md)
+  - [s. 58 Period of effect of advance notice](section/58.md)
+  - [s. 59 Effect of advance notice: registered deeds](section/59.md)
+  - [s. 60 Effect of advance notice: recorded deeds](section/60.md)
+  - [s. 61 Effect of advance notice: further provision](section/61.md)
+  - [s. 62 Removal of advance notice etc.](section/62.md)
+  - [s. 63 Discharge of advance notice](section/63.md)
+  - [s. 64 Application of Part to specific deeds](section/64.md)
+- Part 5 Inaccuracies in the register
+  - [s. 65 Meaning of “inaccuracy”](section/65.md)
+  - [s. 66 Shifting boundaries](section/66.md)
+- Part 6 Caveats
+  - [s. 67 Warrant to place a caveat](section/67.md)
+  - [s. 68 Duration of caveat](section/68.md)
+  - [s. 69 Renewal of caveat](section/69.md)
+  - [s. 70 Restriction of caveat](section/70.md)
+  - [s. 71 Recall of caveat](section/71.md)
+  - [s. 72 Discharge of caveat](section/72.md)
+- Part 7 Keeper’s warranty
+  - Keeper’s warranty
+    - [s. 73 Keeper’s warranty](section/73.md)
+    - [s. 74 Keeper’s warranty on registration under sections 25 and 29](section/74.md)
+    - [s. 75 Extension, limitation or exclusion of warranty](section/75.md)
+    - [s. 76 Variation of warranty](section/76.md)
+  - Claims under warranty
+    - [s. 77 Claims under Keeper’s warranty](section/77.md)
+    - [s. 78 Claims under warranty: circumstances where liability excluded](section/78.md)
+    - [s. 79 Claims under warranty: quantification of compensation](section/79.md)
+- Part 8 Rectification of the register
+  - Rectification
+    - [s. 80 Rectification of the register](section/80.md)
+    - [s. 81 Rectification where registration provisional etc.](section/81.md)
+  - Referral of questions to Lands Tribunal
+    - [s. 82 Referral to the Lands Tribunal for Scotland](section/82.md)
+  - Keeper’s right to be heard in proceedings
+    - [s. 83 Proceedings involving the accuracy of the register](section/83.md)
+  - Compensation in consequence of rectification
+    - [s. 84 Rectification: compensation for certain expenses and losses](section/84.md)
+    - [s. 85 Rectification: circumstances where liability excluded](section/85.md)
+- Part 9 Rights of persons acquiring etc. in good faith
+  - Ownership
+    - [s. 86 Acquisition from disponer without valid title](section/86.md)
+    - [s. 87 Acquisition from representative of disponer without valid title](section/87.md)
+  - Leases
+    - [s. 88 Acquisition from assigner without valid title](section/88.md)
+    - [s. 89 Acquisition from representative of assigner without valid title](section/89.md)
+  - Servitudes
+    - [s. 90 Grant of servitude by person not proprietor](section/90.md)
+  - Extinction of encumbrances etc.
+    - [s. 91 Extinction of encumbrance when land disponed](section/91.md)
+    - [s. 92 Extinction of encumbrance when lease assigned](section/92.md)
+    - [s. 93 Extinction of floating charge when land disponed](section/93.md)
+  - Compensation in consequence of this Part
+    - [s. 94 Compensation for loss incurred in consequence of this Part](section/94.md)
+    - [s. 95 Quantification of compensation](section/95.md)
+- Part 10 Electronic documents, electronic conveyancing and electronic registration
+  - Electronic documents
+    - [s. 96 Where requirement for writing satisfied by electronic document](section/96.md)
+    - [s. 97 Electronic documents](section/97.md)
+    - [s. 98 Amendment of Requirements of Writing (Scotland) Act 1995](section/98.md)
+  - Electronic conveyancing
+    - [s. 99 Automated registration](section/99.md)
+  - Electronic recording and registration
+    - [s. 100 Power to enable electronic registration](section/100.md)
+- Part 11 Miscellaneous and general
+  - Deduction of title
+    - [s. 101 Deduction of title](section/101.md)
+  - Notes on register
+    - [s. 102 Note of date on which entry in register is made](section/102.md)
+  - Appeals
+    - [s. 103 Appeals](section/103.md)
+  - Extracts and certified copies
+    - [s. 104 Extracts and certified copies: general](section/104.md)
+    - [s. 105 Evidential status of extract or certified copy](section/105.md)
+    - [s. 106 Liability of Keeper in respect of extracts, information and lost documents etc.](section/106.md)
+  - Information and access
+    - [s. 107 Information and access](section/107.md)
+  - Keeper’s functions
+    - [s. 108 Provision of services by the Keeper](section/108.md)
+    - [s. 109 Performance of Keeper’s functions during vacancy in office etc.](section/109.md)
+  - Fees
+    - [s. 110 Fees](section/110.md)
+  - Duty to take reasonable care
+    - [s. 111 Duties of certain persons](section/111.md)
+  - Offences
+    - [s. 112 Offence relating to applications for registration](section/112.md)
+    - [s. 112A Offence by overseas entity](section/112A.md)
+  - General provisions
+    - [s. 113 Interpretation](section/113.md)
+    - [s. 114 References to “registering” etc. in the Land Register of Scotland](section/114.md)
+    - [s. 115 Land register rules](section/115.md)
+    - [s. 116 Subordinate legislation](section/116.md)
+    - [s. 117 Ancillary provision](section/117.md)
+    - [s. 118 Transitional provisions](section/118.md)
+    - [s. 119 Minor and consequential modifications](section/119.md)
+    - [s. 120 Saving provisions](section/120.md)
+    - [s. 121 Crown application](section/121.md)
+    - [s. 122 The designated day](section/122.md)
+    - [s. 123 Commencement](section/123.md)
+    - [s. 124 Short title](section/124.md)
+- SCHEDULE 1 Registered leases tenanted in common
+  - Shared leases
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Shared lease and sharing lease title sheets
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Conversion of shared lease title sheet to ordinary lease title sheet
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 1A Land transactions: overseas entities
+  - [Sch. 1A para. 1 Cases where Keeper must reject application under section 21](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Cases where Keeper must reject application under section 21](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Cases where Keeper must reject application to register notice of title](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Cases where Keeper must reject application to register notice of title](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Case where Keeper must reject prescriptive application](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Case where Keeper must reject voluntary application](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Consent to registration of certain deeds that cannot otherwise be registered](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Partially executed deeds](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Interpretation](schedule/1A/paragraph/9.md)
+- SCHEDULE 2 Amendment of Registration of Leases (Scotland) Act 1857
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+- SCHEDULE 3 Amendment of Requirements of Writing (Scotland) Act 1995
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+- SCHEDULE 4 Transitional provisions
+  - Existing title sheets
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Common areas: general
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Common areas: developments begun before designated day
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Common areas: Sasine arrangements
+    - [Sch. 4 para. 11A](schedule/4/paragraph/11A.md)
+  - Certain deeds relating to registered leases: Sasine arrangements
+    - [Sch. 4 para. 11B](schedule/4/paragraph/11B.md)
+  - Archive record
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Pending applications
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Claims under the 1979 Act
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Bijural inaccuracies
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Depiction of tenement etc.
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+- SCHEDULE 5 Minor and consequential modifications
+  - Lands Clauses Consolidation (Scotland) Act 1845 (c.19)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Commissioners Clauses Act 1847 (c.16)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Ordnance Board Transfer Act 1855 (c.117)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Transmission of Moveable Property (Scotland) Act 1862 (c.85)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Land Registers (Scotland) Act 1868 (c.64)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Titles to Land Consolidation (Scotland) Act 1868 (c.101)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Conveyancing (Scotland) Act 1874 (c.94)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Trusts (Scotland) Act 1921 (c.58)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Conveyancing (Scotland) Act 1924 (c.27)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Burgh Registers (Scotland) Act 1926 (c.50)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Public Registers and Records (Scotland) Act 1948 (c.57)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Land Drainage (Scotland) Act 1958 (c.24)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Harbours Act 1964 (c.40)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Succession (Scotland) Act 1964 (c.41)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Industrial and Provident Societies Act 1965 (c.12)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Gas Act 1965 (c.36)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Prescription and Limitation (Scotland) Act 1973 (c.52)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Land Registration (Scotland) Act 1979 (c.33)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Education (Scotland) Act 1980 (c.44)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Water (Scotland) Act 1980 (c.45)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - Civil Aviation Act 1982 (c.16)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - Litter Act 1983 (c.35)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - Health and Social Services and Social Security Adjudications Act 1983 (c.41)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - Telecommunications Act 1984 (c.12)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - Matrimonial and Family Proceedings Act 1984 (c.42)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - Bankruptcy (Scotland) Act 1985 (c.66)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - Housing Associations Act 1985 (c.69)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - Law Reform (Miscellaneous Provisions)(Scotland) Act 1985 (c.73)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - Electricity Act 1989 (c.29)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - Property Misdescriptions Act 1991 (c.29)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+  - Agricultural Holdings (Scotland) Act 1991 (c.55)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+  - Coal Industry Act 1994 (c.21)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+  - Land Registers (Scotland) Act 1995 (c.14)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+  - Petroleum Act 1998 (c.17)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+  - Public Finance and Accountability (Scotland) Act 2000 (asp 1)
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+  - Adults with Incapacity (Scotland) Act 2000 (asp 4)
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+  - Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)
+    - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+  - Standards in Scotland’s Schools etc. Act 2000 (asp 6)
+    - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+  - National Parks (Scotland) Act 2000 (asp 10)
+    - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+  - Housing (Scotland) Act 2001 (asp 10)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+  - Title Conditions (Scotland) Act 2003 (asp 9)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+  - Civil Partnership Act 2004 (c.33)
+    - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+  - Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+  - Tenements (Scotland) Act 2004 (asp 11)
+    - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+  - Edinburgh Tram (Line Two) Act 2006 (asp 6)
+    - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+  - Edinburgh Tram (Line One) Act 2006 (asp 7)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+  - Waverley Railway (Scotland) Act 2006 (asp 13)
+    - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+  - Companies Act 2006 (c.46)
+    - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+  - Glasgow Airport Rail Link Act 2007 (asp 1)
+    - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+  - Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)
+    - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+  - Edinburgh Airport Rail Link Act 2007 (asp 16)
+    - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+  - Airdrie-Bathgate Railway and Linked Improvements Act 2007 (asp 19)
+    - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+  - Energy Act 2008 (c.32)
+    - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
