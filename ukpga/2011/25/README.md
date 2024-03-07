@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-06-14, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-07, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-06-14
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2024-03-07
 
 ## Contents
 
@@ -275,9 +275,12 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-06-14
     - [s. 183 Criminal consequences of acting while disqualified](section/183.md)
     - [s. 184 Civil consequences of acting while disqualified](section/184.md)
     - [s. 184A Sections 183 and 184: participation in corporate decisions](section/184A.md)
+  - Invalid appointment of charity trustee
+    - [s. 184B Power to confirm trustee appointments etc](section/184B.md)
   - Remuneration of charity trustees and trustees etc.
     - [s. 185 Remuneration of charity trustees or trustees etc. providing goods or services to charity](section/185.md)
     - [s. 186 Disqualification of charity trustee or trustee receiving remuneration under s.185](section/186.md)
+    - [s. 186A Remuneration etc for work already carried out](section/186A.md)
     - [s. 187 Meaning of “benefit”, “remuneration”...etc.](section/187.md)
     - [s. 188 Meaning of “connected person”](section/188.md)
   - Indemnity insurance for charity trustees and trustees
@@ -402,6 +405,9 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-06-14
     - [s. 278 S.275 resolution not to take effect or to take effect at a later date](section/278.md)
     - [s. 279 Replacement of purposes in accordance with s.275](section/279.md)
     - [s. 280 Power to modify powers or procedures of unincorporated charity](section/280.md)
+  - Unincorporated charity’s general power to amend
+    - [s. 280A Amendment of the trusts of an unincorporated charity](section/280A.md)
+    - [s. 280B S. 280A: supplementary provision](section/280B.md)
   - Charity established etc by Royal charter: general power to amend
     - [s. 280C Power to amend Royal charter](section/280C.md)
   - Powers of ... charities to spend capital
@@ -490,7 +496,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2023-06-14
   - Enforcement powers of Commission etc.
     - [s. 335 Enforcement of requirements by order of Commission](section/335.md)
     - [s. 336 Enforcement of orders of Commission](section/336.md)
-    - [s. 337 Other provisions as to orders of Commission](section/337.md)
+    - [s. 337 Other provisions as to orders etc of Commission](section/337.md)
     - [s. 338 Directions of the Commission or person conducting inquiry](section/338.md)
     - [s. 339 Service of orders and directions](section/339.md)
   - Documents and evidence etc.
