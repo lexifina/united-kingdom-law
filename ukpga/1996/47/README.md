@@ -1,0 +1,132 @@
+# Trusts of Land and Appointment of Trustees Act 1996
+
+1996 c. 47. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1996/47/2024-03-07
+
+## Contents
+
+- Part I TRUSTS OF LAND
+  - Introductory
+    - [s. 1 Meaning of “trust of land”.](section/1.md)
+  - Settlements and trusts for sale as trusts of land
+    - [s. 2 Trusts in place of settlements.](section/2.md)
+    - [s. 3 Abolition of doctrine of conversion.](section/3.md)
+    - [s. 4 Express trusts for sale as trusts of land.](section/4.md)
+    - [s. 5 Implied trusts for sale as trusts of land.](section/5.md)
+  - Functions of trustees of land
+    - [s. 6 General powers of trustees.](section/6.md)
+    - [s. 7 Partition by trustees.](section/7.md)
+    - [s. 8 Exclusion and restriction of powers.](section/8.md)
+    - [s. 9 Delegation by trustees.](section/9.md)
+    - [s. 9A Duties of trustees in connection with delegation etc.](section/9A.md)
+  - Consents and consultation
+    - [s. 10 Consents.](section/10.md)
+    - [s. 11 Consultation with beneficiaries.](section/11.md)
+  - Right of beneficiaries to occupy trust land
+    - [s. 12 The right to occupy.](section/12.md)
+    - [s. 13 Exclusion and restriction of right to occupy.](section/13.md)
+  - Powers of court
+    - [s. 14 Applications for order.](section/14.md)
+    - [s. 15 Matters relevant in determining applications.](section/15.md)
+  - Purchaser protection
+    - [s. 16 Protection of purchasers.](section/16.md)
+  - Supplementary
+    - [s. 17 Application of provisions to trusts of proceeds of sale.](section/17.md)
+    - [s. 18 Application of Part to personal representatives.](section/18.md)
+- Part II APPOINTMENT AND RETIREMENT OF TRUSTEES
+  - [s. 19 Appointment and retirement of trustee at instance of beneficiaries.](section/19.md)
+  - [s. 20 Appointment of substitute for trustee who lacks capacity](section/20.md)
+  - [s. 21 Supplementary.](section/21.md)
+- Part III SUPPLEMENTARY
+  - [s. 22 Meaning of “beneficiary”.](section/22.md)
+  - [s. 23 Other interpretation provisions.](section/23.md)
+  - [s. 24 Application to Crown.](section/24.md)
+  - [s. 25 Amendments, repeals etc.](section/25.md)
+  - [s. 26 Power to make consequential provision.](section/26.md)
+  - [s. 27 Short title, commencement and extent.](section/27.md)
+- SCHEDULE 1 PROVISIONS CONSEQUENTIAL ON SECTION 2
+  - Minors
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Family charges
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Charitable, ecclesiastical and public trusts
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Entailed interests
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Property held on settlement ceasing to exist
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 AMENDMENTS OF STATUTORY PROVISIONS IMPOSING TRUST FOR SALE
+  - Mortgaged property held by trustees after redemption barred
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Land purchased by trustees of personal property etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Dispositions to tenants in common
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Joint tenancies
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Intestacy
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Reverter of sites
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Trusts deemed to arise in 1926
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - The Law of Property Act 1922 (c.16)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Settled Land Act 1925 (c.18)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Trustee Act 1925 (c.19)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Law of Property Act 1925 (c.20)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Land Registration Act 1925 (c.21)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Administration of Estates Act 1925 (c.23)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Green Belt (London and Home Counties) Act 1938 (c.xciii)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Settled Land and Trustee Acts (Court’s General Powers) Act 1943 (c.25)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Historic Buildings and Ancient Monuments Act 1953 (c.49)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - The Leasehold Reform Act 1967 (c.88)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - The Agriculture Act 1970 (c.40)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - The Land Charges Act 1972 (c.61)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - The Land Compensation Act 1973 (c.26)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - The Local Land Charges Act 1975 (c.76)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - The Rentcharges Act 1977 (c.30)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - The Interpretation Act 1978 (c.30)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - The Ancient Monuments and Archaeological Areas Act 1979 (c.46)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - The Limitation Act 1980 (c.58)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - The Highways Act 1980 (c.66)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - ...
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Health and Social Services and Social Security Adjudications Act 1983 (c.41)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Telecommunications Act 1984 (c.12)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - The Insolvency Act 1986 (c.45)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - The Patronage (Benifices) Measure 1986 (No.3)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - The Family Law Reform Act 1987 (c.42)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - The Charities Act 1993 (c.10)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - The Leasehold Reform, Housing and Urban Development Act 1993 (c.28)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+- SCHEDULE 4 REPEALS
