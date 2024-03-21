@@ -1,0 +1,168 @@
+# Aviation Security Act 1982
+
+1982 c. 36. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/36
+
+Source: https://www.legislation.gov.uk/ukpga/1982/36/2024-03-21
+
+## Contents
+
+- Part I Offences Against the Safety of Aircraft Etc.
+  - [s. 1 Hijacking.](section/1.md)
+  - [s. 2 Destroying, damaging or endangering safety of aircraft.](section/2.md)
+  - [s. 3 Other acts endangering or likely to endanger safety of aircraft.](section/3.md)
+  - [s. 4 Offences in relation to certain dangerous articles.](section/4.md)
+  - [s. 5 Jurisdiction of courts in respect of air piracy.](section/5.md)
+  - [s. 6 Ancillary offences.](section/6.md)
+  - [s. 7 Powers exercisable on suspicion of intended offence under Part I.](section/7.md)
+  - [s. 8 Prosecution of offences and proceedings.](section/8.md)
+  - [s. 9 ................................](section/9.md)
+- Part II Protection of Aircraft, Aerodromes and Air Navigation Installations Against Acts of Violence
+  - General purposes
+    - [s. 10 Purposes to which Part II applies.](section/10.md)
+  - Powers of Secretary of State
+    - [s. 11 Power for Secretary of State to require information.](section/11.md)
+  - Designation of security restricted areas
+    - [s. 11A Designation of security restricted areas.](section/11A.md)
+  - Directions
+    - [s. 12 Power to impose restrictions in relation to aircraft.](section/12.md)
+    - [s. 13 Power to require aerodrome managers to promote searches at aerodromes.](section/13.md)
+    - [s. 13A Power to require other persons to promote searches.](section/13A.md)
+    - [s. 14 General power to direct measures to be taken for purposes to which Part II applies.](section/14.md)
+    - [s. 14A Review by CAA](section/14A.md)
+  - Supplemental provisions with respect to directions
+    - [s. 15 Matters which may be included in directions under ss. 12 to 14.](section/15.md)
+    - [s. 16 Limitations on scope of directions under ss. 12 to 14.](section/16.md)
+    - [s. 16A Directions requiring national security vetting](section/16A.md)
+    - [s. 17 General or urgent directions under ss. 12 and 14.](section/17.md)
+    - [s. 17A Copies of directions etc for CAA](section/17A.md)
+    - [s. 18 Objections to certain directions under s. 14.](section/18.md)
+    - [s. 18A Enforcement notices.](section/18A.md)
+    - [s. 18B Contents of enforcement notice.](section/18B.md)
+    - [s. 18C Offences relating to enforcement notices.](section/18C.md)
+    - [s. 18D Objections to enforcement notices.](section/18D.md)
+    - [s. 18E Enforcement notices: supplementary.](section/18E.md)
+    - [s. 19 Operation of directions under Part II in relation to rights and duties under other laws.](section/19.md)
+    - [s. 20 Inspection of aircraft and aerodromes.](section/20.md)
+    - [s. 20A Aviation security services: approved providers](section/20A.md)
+  - Detention of aircraft
+    - [s. 20B Detention direction](section/20B.md)
+  - Air navigation installations
+    - [s. 21 Application of provisions of Part II to air navigation installations.](section/21.md)
+  - Offences relating to security at aerodromes etc.
+    - [s. 21A False statements relating to baggage, cargo etc.](section/21A.md)
+    - [s. 21B False statements in connection with identity documents.](section/21B.md)
+    - [s. 21C Unauthorised presence in security restricted area.](section/21C.md)
+    - [s. 21D Unauthorised presence on board aircraft.](section/21D.md)
+    - [s. 21E Offences relating to authorised persons.](section/21E.md)
+  - Air cargo agents
+    - [s. 21F Air cargo agents.](section/21F.md)
+    - [s. 21FA Air cargo agents: documents](section/21FA.md)
+  - Reporting of certain occurrences relating to aviation security
+    - [s. 21G Duty to report certain occurrences.](section/21G.md)
+  - Advice and assistance
+    - [s. 21H Provision of advice and assistance to Secretary of State](section/21H.md)
+    - [s. 21I Provision of advice and assistance to other persons](section/21I.md)
+    - [s. 21J Power to modify functions of CAA etc relating to aviation security](section/21J.md)
+  - Miscellaneous supplemental provisions
+    - [s. 22 Compensation in respect of certain measures taken under Part II.](section/22.md)
+    - [s. 22A Civil penalties for failure to provide information or comply with a direction](section/22A.md)
+    - [s. 23 Annual report by Secretary of State as to notices and directions under Part II.](section/23.md)
+    - [s. 23A Functions of CAA under this Part](section/23A.md)
+    - [s. 24 Service of documents.](section/24.md)
+    - [s. 24A Interpretation of Part II.](section/24A.md)
+- Part 2A Security planning for aerodromes
+  - Aerodromes to which Part 2A applies
+    - [s. 24AA Aerodromes to which Part 2A applies](section/24AA.md)
+  - Risk assessment at aerodromes
+    - [s. 24AB Risk advisory groups](section/24AB.md)
+    - [s. 24AC Functions of risk advisory groups](section/24AC.md)
+    - [s. 24AD Discharge of functions by risk advisory groups](section/24AD.md)
+  - Aerodrome security planning
+    - [s. 24AE Aerodrome security plans](section/24AE.md)
+    - [s. 24AF Aerodrome security plans: duration etc.](section/24AF.md)
+    - [s. 24AG Security executive groups](section/24AG.md)
+    - [s. 24AH Functions of security executive groups](section/24AH.md)
+    - [s. 24AI Objections to proposals by security executive groups](section/24AI.md)
+    - [s. 24AJ Discharge of functions by security executive groups](section/24AJ.md)
+  - Aerodrome security groups: general
+    - [s. 24AK Aerodrome groups: supplemental](section/24AK.md)
+    - [s. 24AL Period for establishment of aerodrome groups](section/24AL.md)
+  - Disputes about security planning
+    - [s. 24AM Meaning of dispute about security planning](section/24AM.md)
+    - [s. 24AN Power to refer dispute to Secretary of State](section/24AN.md)
+    - [s. 24AO Powers of Secretary of State in relation to disputes](section/24AO.md)
+    - [s. 24AP Dispute resolution: procedure](section/24AP.md)
+    - [s. 24AQ Dispute resolution: powers](section/24AQ.md)
+    - [s. 24AR Dispute resolution: appeals and enforcement etc.](section/24AR.md)
+  - General and supplemental
+    - [s. 24AS Power to except or modify](section/24AS.md)
+    - [s. 24AT Interpretation](section/24AT.md)
+- Part III Policing of Aerodromes
+  - Power to stop and search at aerodromes
+    - [s. 24B Power of constable to stop and search persons, vehicles etc](section/24B.md)
+  - Policing of designated airports
+    - [s. 25 Designated airports.](section/25.md)
+    - [s. 25A Consultation about policing of designated airports.](section/25A.md)
+  - Policing of aerodromes to which Part 2A applies
+    - [s. 25AA Relevant aerodromes](section/25AA.md)
+    - [s. 25B Police services agreements](section/25B.md)
+    - [s. 25C Police services agreements: duration etc.](section/25C.md)
+    - [s. 25D Review and variation of police services agreements](section/25D.md)
+    - [s. 25E Discharge of functions of relevant persons in relation to police services agreements](section/25E.md)
+    - [s. 26 Exercise of police functions at relevant aerodromes.](section/26.md)
+    - [s. 27 Prevention of theft at relevant aerodromes.](section/27.md)
+    - [s. 28 Byelaws for relevant aerodromes.](section/28.md)
+    - [s. 29 Control of road traffic at relevant aerodromes.](section/29.md)
+    - [s. 29A Power to refer disputes to Secretary of State](section/29A.md)
+    - [s. 29B Powers of Secretary of State in relation to disputes](section/29B.md)
+    - [s. 29C Dispute resolution: procedure](section/29C.md)
+    - [s. 29D Dispute resolution: powers](section/29D.md)
+    - [s. 29E Dispute resolution: appeals and enforcement etc.](section/29E.md)
+    - [s. 30 Supplementary orders.](section/30.md)
+    - [s. 31 Interpretation and application of Part III to Scotland and Northern Ireland.](section/31.md)
+- Part IV The Aviation Security Fund
+  - [s. 32 The Aviation Security Fund.](section/32.md)
+  - [s. 33 Contributions to the Fund.](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Power to wind up the fund.](section/36.md)
+- Part V Miscellaneous and General
+  - [s. 37 Offences by bodies corporate.](section/37.md)
+  - [s. 38 Interpretation etc.](section/38.md)
+  - [s. 39 Extension of Act outside United Kingdom.](section/39.md)
+  - [s. 40 Consequential amendments, savings and repeals.](section/40.md)
+  - [s. 41 Short title and commencement.](section/41.md)
+- SCHEDULE 1 Provisions Relating to Compensation
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Consequential Amendments and Savings
+  - Periods running at commencement
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Past offences
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - The Visiting Forces Act 1952
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - The Protection of Aircraft Act 1973
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - The Criminal Jurisdiction Act 1975
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Northern Ireland (Emergency Provisions) Act 1978
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - The Suppression of Terrorism Act 1978
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - The British Nationality Act 1981
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Repeals
