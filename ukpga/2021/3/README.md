@@ -1,0 +1,150 @@
+# Medicines and Medical Devices Act 2021
+
+2021 c. 3. Enacted 2021-02-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/3/2024-03-21
+
+## Contents
+
+- PART 1 The Commissioner for Patient Safety
+  - [s. 1 Establishment and core duties etc](section/1.md)
+- PART 2 Human medicines
+  - CHAPTER 1 Regulations: general
+    - [s. 2 Power to make regulations about human medicines](section/2.md)
+    - [s. 3 Manufacture, marketing and supply](section/3.md)
+    - [s. 4 Falsified medicines](section/4.md)
+    - [s. 5 Clinical trials](section/5.md)
+    - [s. 6 Fees, offences, powers of inspectors](section/6.md)
+    - [s. 7 Emergencies](section/7.md)
+  - CHAPTER 1A Regulations: information systems
+    - [s. 7A Information systems](section/7A.md)
+    - [s. 7B Offence of disclosing information](section/7B.md)
+  - CHAPTER 2 International agreements: disclosure of information
+    - [s. 8 Disclosure of information in accordance with international agreements](section/8.md)
+  - CHAPTER 3 Interpretation
+    - [s. 9 Interpretation of Part 2](section/9.md)
+- PART 3 Veterinary medicines
+  - CHAPTER 1 Regulations
+    - [s. 10 Power to make regulations about veterinary medicines](section/10.md)
+    - [s. 11 Manufacture, marketing, supply and field trials](section/11.md)
+    - [s. 12 Fees, offences, powers of inspectors, costs](section/12.md)
+  - CHAPTER 2 International agreements: disclosure of information
+    - [s. 13 Disclosure of information in accordance with international agreements](section/13.md)
+  - CHAPTER 3 Interpretation etc
+    - [s. 14 Interpretation of Part 3 and supplementary provision](section/14.md)
+- PART 4 Medical devices
+  - CHAPTER 1 Regulations: general
+    - [s. 15 Power to make regulations about medical devices](section/15.md)
+    - [s. 16 Manufacture, marketing and supply](section/16.md)
+    - [s. 17 Fees, information, offences](section/17.md)
+    - [s. 18 Emergencies](section/18.md)
+  - CHAPTER 2 Regulations: information systems, advisory committee
+    - [s. 19 Information systems](section/19.md)
+    - [s. 20 Advisory committee](section/20.md)
+  - CHAPTER 3 Enforcement
+    - Enforcement notices
+      - [s. 21 Compliance notices](section/21.md)
+      - [s. 22 Suspension notices](section/22.md)
+      - [s. 23 Safety notices](section/23.md)
+      - [s. 24 Information notices](section/24.md)
+      - [s. 25 Applications to set notices aside etc](section/25.md)
+      - [s. 26 Compensation](section/26.md)
+      - [s. 27 Further appeals](section/27.md)
+    - Offences
+      - [s. 28 Offences](section/28.md)
+      - [s. 29 Defence of due diligence](section/29.md)
+      - [s. 30 Offences by bodies corporate](section/30.md)
+    - Civil sanctions
+      - [s. 31 Civil sanctions](section/31.md)
+    - Forfeiture
+      - [s. 32 Forfeiture of medical devices](section/32.md)
+      - [s. 33 Appeals against forfeiture decisions](section/33.md)
+    - Recovery of expenses of enforcement
+      - [s. 34 Recovery of expenses of enforcement](section/34.md)
+    - Recall of medical device by enforcement authority
+      - [s. 35 Recall of medical device by enforcement authority](section/35.md)
+    - Power of officer of Revenue and Customs to detain medical device
+      - [s. 36 Power of officer of Revenue and Customs to detain medical device](section/36.md)
+      - [s. 37 Offence of obstructing an officer of Revenue and Customs](section/37.md)
+    - Civil proceedings
+      - [s. 38 Civil proceedings](section/38.md)
+  - CHAPTER 4 Disclosure of information and consequential etc provision
+    - Disclosure of information
+      - [s. 39 Disclosure of information](section/39.md)
+      - [s. 40 Offences relating to information](section/40.md)
+    - Consequential etc provision
+      - [s. 41 Consequential and supplementary provision](section/41.md)
+  - CHAPTER 5 Interpretation of Part 4
+    - [s. 42 Interpretation of Part 4](section/42.md)
+- PART 5 Regulations under Parts 1, 2, 3 and 4
+  - [s. 43 Power to make consequential etc provision](section/43.md)
+  - [s. 44 Scope of powers of Northern Ireland departments](section/44.md)
+  - [s. 45 Consultation](section/45.md)
+  - [s. 46 Reporting requirements](section/46.md)
+  - [s. 47 Procedure](section/47.md)
+- PART 6 Report on operation of medicines and medical devices legislation
+  - [s. 48 Report on operation of medicines and medical devices legislation](section/48.md)
+- PART 7 Extent, commencement and short title
+  - [s. 49 Extent](section/49.md)
+  - [s. 50 Commencement](section/50.md)
+  - [s. 51 Transitional etc provision in connection with commencement](section/51.md)
+  - [s. 52 Short title](section/52.md)
+- SCHEDULE 1 Further provision about the Commissioner for Patient Safety
+  - Principles relating to core duties
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Involvement of patients
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Supplementary functions and information
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Individual cases
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Amendments to primary legislation
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Regulations about appointment and operation
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Medical devices: civil sanctions
+  - PART 1 Monetary penalties
+    - Imposition of monetary penalty
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Notices, representations and appeals etc
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Information to be included in notices under paragraph 2
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Monetary penalties: criminal proceedings and conviction
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 2 Enforcement undertakings
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 3 Enforcement costs recovery notices
+    - Imposition of enforcement costs recovery notices
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Information to be included in enforcement costs recovery notices
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Appeals
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - PART 4 Power to make supplementary provision etc by regulations
+    - Supplementary regulations: general
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Monetary penalties and costs
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Enforcement undertakings
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Appeals
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - PART 5 General and supplemental
+    - Guidance as to enforcement
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Pre-commencement consultation
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Reports on use of civil sanctions
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Disclosure of information
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - PART 6 Interpretation
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Offence of breaching provisions in the Medical Devices Regulations 2002
+  - PART 1 Offence
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 Provisions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
