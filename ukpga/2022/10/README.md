@@ -1,0 +1,207 @@
+# Economic Crime (Transparency and Enforcement) Act 2022
+
+2022 c. 10. Enacted 2022-03-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-21, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2022/10/2024-03-21
+
+## Contents
+
+- PART 1 Registration of overseas entities
+  - Introduction
+    - [s. 1 Overview](section/1.md)
+    - [s. 2 Definition of “overseas entity” etc](section/2.md)
+  - The register and registration
+    - [s. 3 Register of overseas entities](section/3.md)
+    - [s. 4 Application for registration](section/4.md)
+    - [s. 5 Registration and allocation of overseas entity ID](section/5.md)
+    - [s. 6 Notice of registration](section/6.md)
+  - Updating
+    - [s. 7 Updating duty](section/7.md)
+    - [s. 8 Failure to comply with updating duty](section/8.md)
+  - Removal
+    - [s. 9 Application for removal](section/9.md)
+    - [s. 10 Processing of application under section 9](section/10.md)
+    - [s. 11 Transfer of documents to Public Record Office](section/11.md)
+  - Obtaining, updating and verifiying information
+    - [s. 12 Duty to take steps to obtain information](section/12.md)
+    - [s. 13 Additional powers to obtain information](section/13.md)
+    - [s. 14 Sections 12 and 13: supplementary](section/14.md)
+    - [s. 15 Failure to comply with notice under section 12 or 13](section/15.md)
+    - [s. 15A False statements under section 12 or 13: basic offence](section/15A.md)
+    - [s. 15B False statements under section 12 or 13: aggravated offence](section/15B.md)
+    - [s. 16 Verification of registrable beneficial owners and managing officers](section/16.md)
+  - Exemptions
+    - [s. 17 Power to modify application process etc in certain cases](section/17.md)
+    - [s. 17A Exceptions to duty to provide change of beneficiary information](section/17A.md)
+    - [s. 18 Exemptions](section/18.md)
+  - Language requirement
+    - [s. 19 Documents to be in English](section/19.md)
+  - Annotation of the register
+    - [s. 20 Annotation of the register](section/20.md)
+  - Inspection of the register and protection of information
+    - [s. 21 Inspection and copies of register](section/21.md)
+    - [s. 22 Material unavailable for inspection](section/22.md)
+    - [s. 23 Disclosure of protected information](section/23.md)
+    - [s. 24 Consultation about regulations under section 23](section/24.md)
+    - [s. 25 Power to make regulations protecting material](section/25.md)
+    - [s. 26 Data protection](section/26.md)
+  - Correction or removal of material on the register
+    - [s. 27 Resolving inconsistencies ...](section/27.md)
+    - [s. 28 Administrative removal of material from the register](section/28.md)
+    - [s. 28A Further provision about removal of material from the register](section/28A.md)
+    - [s. 29 Application to rectify register](section/29.md)
+    - [s. 29A](section/29A.md)
+    - [s. 30 Court order to rectify register](section/30.md)
+    - [s. 31 Court powers on ordering removal of material from the register](section/31.md)
+  - False statements
+    - [s. 32 False statements: basic offence](section/32.md)
+    - [s. 32A False statements: aggravated offence](section/32A.md)
+  - Land ownership and transactions
+    - [s. 33 Land ownership and transactions](section/33.md)
+    - [s. 34 Power to require overseas entity to register if it owns certain land](section/34.md)
+  - Supplementary provision about offences
+    - [s. 35 Liability of officers in default](section/35.md)
+    - [s. 36 Meaning of “daily default fine”](section/36.md)
+    - [s. 37 Consent required for prosecutions](section/37.md)
+    - [s. 38 Further provision about proceedings](section/38.md)
+  - Financial penalties
+    - [s. 39 Financial penalties](section/39.md)
+  - Sharing of information by HMRC
+    - [s. 40 Sharing of information by HMRC](section/40.md)
+  - Transitional provision
+    - [s. 41 Applications in the transitional period: information about land transactions](section/41.md)
+    - [s. 42 Requirement for certain unregistered overseas entities to provide information](section/42.md)
+    - [s. 43 Section 42: supplementary](section/43.md)
+    - [s. 43A Duty to deliver further information for transitional cases](section/43A.md)
+  - Interpretation
+    - [s. 44 Interpretation](section/44.md)
+- PART 2 Unexplained wealth orders
+  - [s. 45 Imposition of unexplained wealth orders on officers etc of property holder: England and Wales and Northern Ireland](section/45.md)
+  - [s. 46 Imposition of unexplained wealth orders on officers etc of property holder: Scotland](section/46.md)
+  - [s. 47 Alternative test to the income requirement: England and Wales and Northern Ireland](section/47.md)
+  - [s. 48 Alternative test to the income requirement: Scotland](section/48.md)
+  - [s. 49 Power to extend period for which interim freezing order has effect: England and Wales and Northern Ireland](section/49.md)
+  - [s. 50 Power to extend period for which interim freezing order has effect: Scotland](section/50.md)
+  - [s. 51 Annual reports on use of unexplained wealth orders: England and Wales](section/51.md)
+  - [s. 52 Limits on costs orders in relation to unexplained wealth orders: England and Wales and Northern Ireland](section/52.md)
+  - [s. 53 Limits on expenses orders in relation to unexplained wealth orders: Scotland](section/53.md)
+- PART 3 Sanctions
+  - CHAPTER 1 Monetary penalties
+    - [s. 54 Imposition of monetary penalties](section/54.md)
+    - [s. 55 Procedural rights](section/55.md)
+    - [s. 56 Reporting on breach of financial sanctions](section/56.md)
+  - CHAPTER 2 Imposition of sanctions etc
+    - Sanctions regulations
+      - [s. 57 Streamlining process of making sanctions regulations](section/57.md)
+    - Designation
+      - [s. 58 Urgent designation of persons by name](section/58.md)
+      - [s. 59 Urgent designation of persons by description](section/59.md)
+      - [s. 60 Specified ships](section/60.md)
+      - [s. 61 Existing sanctions regulations](section/61.md)
+    - Reviews and reports
+      - [s. 62 Removal of reviews](section/62.md)
+      - [s. 63 Removal of reporting requirements](section/63.md)
+      - [s. 64 Court reviews: restrictions regarding damages](section/64.md)
+    - Miscellaneous
+      - [s. 65 Sharing of information](section/65.md)
+      - [s. 66 Consequential provision](section/66.md)
+- PART 4 General
+  - [s. 67 Regulations](section/67.md)
+  - [s. 68 Extent](section/68.md)
+  - [s. 69 Commencement](section/69.md)
+  - [s. 70 Short title](section/70.md)
+- SCHEDULE 1 Applications: required information
+  - PART 1 Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - PART 2 Overseas entities
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - PART 3 Registrable beneficial owners
+    - [Sch. 1 para. 3 Individuals](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Governments and public authorities](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Other legal entities](schedule/1/paragraph/5.md)
+  - PART 4 Managing officers
+    - [Sch. 1 para. 6 Individuals](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Persons other than individuals](schedule/1/paragraph/7.md)
+  - PART 5 Trusts
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 6 Powers to make further provision under this Schedule
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2 Registrable beneficial owners
+  - PART 1 Meaning of “registrable beneficial owner”
+    - [Sch. 2 para. 1 Introduction](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Registrable beneficial owners: individuals](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Registrable beneficial owners: legal entities](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Registrable beneficial owners: government or public authority](schedule/2/paragraph/4.md)
+  - PART 2 Meaning of “beneficial owner”
+    - [Sch. 2 para. 5 Introduction](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Beneficial owners](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 6A Persons treated as beneficial owners where entity holds land as nominee](schedule/2/paragraph/6A.md)
+  - PART 3 Meaning of “subject to its own disclosure requirements”
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - PART 4 Beneficial owners exempt from registration
+    - [Sch. 2 para. 8 “Exempt from being registered”](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Holding an interest in an overseas entity etc](schedule/2/paragraph/9.md)
+  - PART 5 Supplementary provision about interpretation of Schedule
+    - [Sch. 2 para. 10 Introduction](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Joint interests](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Joint arrangements](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Calculating shareholdings](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Voting rights](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Voting rights](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 Rights to appoint or remove members of the board](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Rights to appoint or remove members of the board](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Shares or rights held “indirectly”](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Shares held by nominees](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Rights treated as held by a person who controls their exercise](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Rights exercisable only in certain circumstances etc](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Rights attached to shares held by way of security](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23 Limited partnerships](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Meaning of “director”](schedule/2/paragraph/24.md)
+  - PART 6 Powers to amend this Schedule
+    - [Sch. 2 para. 24A Expansion of meaning of “registrable beneficial owner” where trusts in view](schedule/2/paragraph/24A.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+- SCHEDULE 3 Land ownership and transactions: England and Wales
+  - PART 1 Amendments to Land Registration Act 2002
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - PART 2 Transition: qualifying estates registered pre-commencement
+    - [Sch. 3 para. 5 Duty of proprietor to register as an overseas entity within transitional period](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Registrar’s duty to enter restriction in relation to qualifying estate](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Interpretation](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Land ownership and transactions: Scotland
+  - PART 1 Amendments
+    - [Sch. 4 para. 1 Conveyancing (Scotland) Act 1924](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Land Registration etc. (Scotland) Act 2012 (asp 5)](schedule/4/paragraph/9.md)
+  - PART 2 Transition: deeds registered pre-commencement
+    - [Sch. 4 para. 10 Duty to register as an overseas entity within transitional period](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Disapplication of certain provisions during transitional period](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Interpretation](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Interpretation](schedule/4/paragraph/13.md)
+  - PART 3 Power to make further provision
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 Land ownership and transactions: Northern Ireland
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Duty to deliver further information for transitional cases
+  - [Sch. 6 para. 1 Application of this Schedule](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Duty to deliver statements and information](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Information about changes in beneficial ownership](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Information about trusts and changes in beneficiaries](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Information about changes in trusts of which registrable beneficial owners trustees](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Compliance by confirmation of information previously provided](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Failure to comply with this Schedule](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Obtaining information](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Power to exclude descriptions of registrable beneficial owner](schedule/6/paragraph/9.md)
