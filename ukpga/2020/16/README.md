@@ -2,9 +2,9 @@
 
 2020 c. 16. Enacted 2020-07-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-09-28, one file per provision. Earlier versions, from 2020-05-04, are in the history before it: `git log -- ukpga/2020/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-03-31, one file per provision. Earlier versions, from 2020-05-04, are in the history before it: `git log -- ukpga/2020/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/16/2023-09-28
+Source: https://www.legislation.gov.uk/ukpga/2020/16/2024-03-31
 
 ## Contents
 
@@ -17,6 +17,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/16/2023-09-28
     - [s. 5 Conditions](section/5.md)
     - [s. 6 Enforcement and revocation](section/6.md)
     - [s. 7 Effects](section/7.md)
+    - [s. 7A Enforcement](section/7A.md)
     - [s. 8 Local authority functions](section/8.md)
     - [s. 9 Interpretation](section/9.md)
     - [s. 10 Expiry of pavement licence provisions](section/10.md)
