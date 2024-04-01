@@ -1,0 +1,200 @@
+# Defence Reform Act 2014
+
+2014 c. 20. Enacted 2014-05-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/20
+
+Source: https://www.legislation.gov.uk/ukpga/2014/20/2024-04-01
+
+## Contents
+
+- Part 1 Defence procurement
+  - Defence procurement arrangements
+    - [s. 1 Arrangements for providing defence procurement services](section/1.md)
+    - [s. 2 Financial assistance](section/2.md)
+    - [s. 3 Financial claims against contractors or former contractors](section/3.md)
+    - [s. 4 Exemptions relating to premises used by a contractor](section/4.md)
+    - [s. 5 Jurisdiction of Ministry of Defence Police](section/5.md)
+    - [s. 6 Status of contractor](section/6.md)
+    - [s. 7 Restrictions on disclosure or use of information](section/7.md)
+    - [s. 8 Intellectual property rights](section/8.md)
+  - Transfers
+    - [s. 9 Transfer of employees: application of TUPE regulations](section/9.md)
+    - [s. 10 Transfer schemes](section/10.md)
+  - General
+    - [s. 11 Financial provisions](section/11.md)
+    - [s. 12 Interpretation of this Part](section/12.md)
+- Part 2 Single source contracts
+  - Single Source Regulations Office
+    - [s. 13 Single Source Regulations Office (or “SSRO”)](section/13.md)
+  - Qualifying defence contracts
+    - [s. 14 Regulations relating to qualifying defence contracts](section/14.md)
+  - Pricing of contracts
+    - [s. 15 Pricing of contracts](section/15.md)
+    - [s. 16 Pricing of contracts: supplementary](section/16.md)
+    - [s. 17 Contract profit rate](section/17.md)
+    - [s. 18 Contract profit rate: supplementary](section/18.md)
+    - [s. 19 Rates etc relevant to determining contract profit rate](section/19.md)
+    - [s. 20 Allowable costs](section/20.md)
+    - [s. 21 Final price adjustment](section/21.md)
+    - [s. 22 Recovery of unpaid amounts](section/22.md)
+  - Transparency
+    - [s. 23 Records](section/23.md)
+    - [s. 24 Reports on qualifying defence contracts](section/24.md)
+    - [s. 25 Reports on overheads and forward planning etc](section/25.md)
+    - [s. 26 Duty to report relevant events, circumstances and information](section/26.md)
+    - [s. 27 Records and reports: restrictions](section/27.md)
+  - Sub-contracts
+    - [s. 28 Qualifying sub-contracts](section/28.md)
+    - [s. 29 Determining whether a contract is a qualifying sub-contract](section/29.md)
+    - [s. 30 Application of Part to qualifying sub-contracts](section/30.md)
+  - Compliance
+    - [s. 31 Compliance notice](section/31.md)
+    - [s. 32 Penalty notice](section/32.md)
+    - [s. 33 Amount of penalty](section/33.md)
+    - [s. 34 Enforcement](section/34.md)
+  - SSRO: other functions
+    - [s. 35 Opinions and determinations](section/35.md)
+    - [s. 35A Guidance](section/35A.md)
+    - [s. 36 Recording, review and analysis functions](section/36.md)
+    - [s. 37 Provision of other services to Secretary of State](section/37.md)
+  - Disclosure of information
+    - [s. 38 Disclosure of information](section/38.md)
+  - Review
+    - [s. 39 Review of Part and regulations under it](section/39.md)
+    - [s. 40 Power to repeal Part](section/40.md)
+  - General
+    - [s. 41 Single source contract regulations: time limits and determinations](section/41.md)
+    - [s. 42 Single source contract regulations: general](section/42.md)
+    - [s. 43 Interpretation etc](section/43.md)
+- Part 3 Reserve forces
+  - [s. 44 Renaming of Army Reserve and Territorial Army](section/44.md)
+  - [s. 45 Call out of members of reserve forces](section/45.md)
+  - [s. 46 Payments to employers etc of members of reserve forces](section/46.md)
+  - [s. 47 Report on volunteer reserve forces](section/47.md)
+  - [s. 48 Unfair dismissal of reserve forces: no qualifying period of employment](section/48.md)
+- Part 4 Final provisions
+  - [s. 49 Extent](section/49.md)
+  - [s. 50 Commencement](section/50.md)
+  - [s. 51 Short title](section/51.md)
+- SCHEDULE 1 Exemptions relating to premises used by a contractor
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Nuclear Installations Act 1965 (c. 57)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Health and Safety at Work etc Act 1974 (c. 37)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Radioactive Substances Act 1993 (c. 12)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Environmental Permitting (England and Wales) Regulations 2016
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Power to create other exemptions
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Orders under this Schedule
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Restrictions on disclosure or use of information
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Disclosure between the parties etc
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Disclosure and use for audit purposes
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Unauthorised disclosure of information
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Unauthorised use of information
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Interpretation: general
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Transfer schemes under section 10
+  - Transfer of property, rights and liabilities
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Provision that may be made by a transfer scheme
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Compensation
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Foreign property
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Incidental etc provision
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Modification of transfer schemes
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Interpretation etc
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Single Source Regulations Office
+  - Membership
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Executive members: appointment and status
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Non-executive members: tenure
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Suspension from office
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Payment of non-executive members
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Staff etc
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Superannuation
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Procedure
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Committees
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Accounts and audit
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Annual report
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Powers
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Seal and evidence
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Finance
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Status
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Parliamentary Commissioner
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Disqualification
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Freedom of information
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+- SCHEDULE 5 Restrictions on disclosing information
+  - Information to which Schedule applies
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Offence of disclosing information
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Disclosure with consent
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Disclosure of information already available to public
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Other permitted disclosures
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Power to prohibit disclosure
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Call out of members of reserve forces: transitional classes
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Payments to employers etc of members of reserve forces: supplementary
+  - Reserve Forces Act 1996 (c. 14)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Transitional provision
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
