@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-03-12, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2024-03-12
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2024-04-01
 
 ## Contents
 
@@ -387,7 +387,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2024-03-12
   - [Sch. 10 para. 16 Qualifying sub-contracts](schedule/10/paragraph/16.md)
   - [Sch. 10 para. 17 Qualifying sub-contracts](schedule/10/paragraph/17.md)
   - [Sch. 10 para. 18 Powers of the Single Source Regulations Office (“SSRO”)](schedule/10/paragraph/18.md)
-  - [Sch. 10 para. 19 Powers of the Single Source Regulations Office (“SSRO”)](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
   - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
 - SCHEDULE 11 Repeals and revocations
   - [Sch. 11 para. 1 Primary legislation](schedule/11/paragraph/1.md)
