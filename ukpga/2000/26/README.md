@@ -1,0 +1,400 @@
+# Postal Services Act 2000
+
+2000 c. 26. Enacted 2000-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/26
+
+Source: https://www.legislation.gov.uk/ukpga/2000/26/2024-04-01
+
+## Contents
+
+- Part I Introductory
+  - [s. 1 The Postal Services Commission.](section/1.md)
+  - [s. 2 The Consumer Council for Postal Services.](section/2.md)
+  - [s. 3 Duty of the Commission to ensure provision of a universal postal service.](section/3.md)
+  - [s. 4 Provision of a universal postal service: meaning.](section/4.md)
+  - [s. 5 Other duties of the Commission in the consumer interest.](section/5.md)
+- Part II Licences for Postal Services
+  - Restriction on provision of postal services
+    - [s. 6 Restriction on provision of postal services.](section/6.md)
+    - [s. 7 Exceptions from section 6.](section/7.md)
+    - [s. 7A](section/7A.md)
+    - [s. 8 Power to modify section 7 by order.](section/8.md)
+    - [s. 9 General power to suspend the restriction.](section/9.md)
+    - [s. 10 Emergency power to suspend the restriction.](section/10.md)
+  - Licences
+    - [s. 11 Licences: general.](section/11.md)
+    - [s. 12 Licences: grant.](section/12.md)
+    - [s. 12A Licences: refusal](section/12A.md)
+    - [s. 12B Licences: determination of applications](section/12B.md)
+    - [s. 13 Licences: conditions and other provisions.](section/13.md)
+  - Modification of licences
+    - [s. 14 Modification of licences by agreement.](section/14.md)
+    - [s. 15 References to the Competition Commission.](section/15.md)
+    - [s. 15A References under section 15: time limits](section/15A.md)
+    - [s. 15B References under section 15: application of Enterprise Act 2002](section/15B.md)
+    - [s. 16 Reports on references.](section/16.md)
+    - [s. 16A Reports on references under section 15: further provision](section/16A.md)
+    - [s. 17 Modification following report.](section/17.md)
+    - [s. 18 Power of intervention of the Competition Commission.](section/18.md)
+    - [s. 19 Procedural requirements in relation to modifications.](section/19.md)
+    - [s. 19A Sections 18 and 19: further provision](section/19A.md)
+    - [s. 20 Application of competition legislation to references etc.](section/20.md)
+    - [s. 21 Modification by order under other enactments.](section/21.md)
+  - Enforcement orders
+    - [s. 22 Final orders.](section/22.md)
+    - [s. 23 Provisional orders.](section/23.md)
+    - [s. 24 Confirmation of provisional orders.](section/24.md)
+    - [s. 25 Exceptions from duty to make or confirm enforcement orders.](section/25.md)
+    - [s. 26 Enforcement orders: main procedural requirements.](section/26.md)
+    - [s. 27 Enforcement orders: further procedural requirements.](section/27.md)
+    - [s. 28 Validity of enforcement orders.](section/28.md)
+    - [s. 29 Effect of enforcement orders.](section/29.md)
+  - Financial penalties
+    - [s. 30 Financial penalties.](section/30.md)
+    - [s. 31 Statement of policy in relation to penalties.](section/31.md)
+    - [s. 32 Imposition of penalties: main procedural requirements.](section/32.md)
+    - [s. 33 Penalties: further procedural requirements.](section/33.md)
+    - [s. 34 Time-limits on the imposition of penalties.](section/34.md)
+    - [s. 35 Interest and payments by instalment.](section/35.md)
+    - [s. 36 Appeals.](section/36.md)
+    - [s. 37 Recovery of penalties.](section/37.md)
+  - Miscellaneous
+    - [s. 38 Register.](section/38.md)
+    - [s. 39 Recovery of costs of the Council etc.](section/39.md)
+    - [s. 39A Licences and the new arrangements](section/39A.md)
+    - [s. 40 Directors’ remuneration.](section/40.md)
+    - [s. 41 Free services for the blind and partially sighted.](section/41.md)
+- Part III Other functions of the Commission and the Council
+  - The Commission
+    - [s. 42 Duties in relation to public post offices.](section/42.md)
+    - [s. 43 Duties in relation to social and environmental matters.](section/43.md)
+    - [s. 44 Review and information.](section/44.md)
+    - [s. 45 Annual and other reports: the Commission.](section/45.md)
+    - [s. 46 Publication of information and advice: the Commission.](section/46.md)
+    - [s. 47 Power of the Commission to require information.](section/47.md)
+    - [s. 48 Information powers: enforcement.](section/48.md)
+    - [s. 49 Powers of entry and seizure.](section/49.md)
+    - [s. 50 Codes of practice.](section/50.md)
+  - The Council
+    - [s. 51 Relevant postal issues.](section/51.md)
+    - [s. 52 Provision of advice and information to public authorities and licence holders.](section/52.md)
+    - [s. 53 Publication of information to users.](section/53.md)
+    - [s. 54 Exercise of functions: general.](section/54.md)
+    - [s. 55 Annual and other reports: the Council.](section/55.md)
+    - [s. 56 Complaints referred to the Council.](section/56.md)
+    - [s. 57 Power of the Council to investigate other matters.](section/57.md)
+    - [s. 58 Power of the Council to require information.](section/58.md)
+  - The Commission and the Council
+    - [s. 59 Provision of information by the Council to the Commission.](section/59.md)
+    - [s. 60 Memorandum of understanding.](section/60.md)
+    - [s. 61 Forward work programmes.](section/61.md)
+  - Information
+    - [s. 61A Information relating to complaints handling standards](section/61A.md)
+- Part IV Reorganisation of the Post Office
+  - Transfer of property etc.
+    - [s. 62 Transfer of property etc. to nominated company.](section/62.md)
+  - The Post Office company etc: government holdings
+    - [s. 63 Power to direct issue of certain securities etc](section/63.md)
+    - [s. 64 Government investment in securities of certain companies.](section/64.md)
+  - The Post Office company etc: restrictions on dealings
+    - [s. 65 Restriction on issue of shares to third parties.](section/65.md)
+    - [s. 66 Restriction on disposals of shares to third parties.](section/66.md)
+    - [s. 67 Approved disposals.](section/67.md)
+  - Financial provisions
+    - [s. 68 Loans by the Secretary of State to relevant companies.](section/68.md)
+    - [s. 69 Guarantees by the Secretary of State for relevant companies.](section/69.md)
+    - [s. 70 Extinguishment of certain liabilities.](section/70.md)
+    - [s. 71 Limit on loans and other arrangements with government.](section/71.md)
+    - [s. 72 Reserves of relevant companies.](section/72.md)
+    - [s. 73 Statutory accounts of the original holding company.](section/73.md)
+    - [s. 74 Further provisions relating to the capital structure of certain relevant companies.](section/74.md)
+  - Dissolution of the Post Office
+    - [s. 75 Dissolution of the Post Office.](section/75.md)
+  - Supplementary provisions
+    - [s. 76 Accounts of the Secretary of State in relation to loans.](section/76.md)
+    - [s. 77 Publicity requirements for certain accounts and reports ....](section/77.md)
+    - [s. 78 Information requirements on certain relevant companies.](section/78.md)
+    - [s. 79 Exercise of functions through nominees.](section/79.md)
+    - [s. 80 Shadow directors.](section/80.md)
+    - [s. 81 Tax.](section/81.md)
+    - [s. 82 Interpretation: Part IV.](section/82.md)
+- Part V Offences in relation to Postal Services
+  - Offences of interfering with the mail
+    - [s. 83 Interfering with the mail: postal operators.](section/83.md)
+    - [s. 84 Interfering with the mail: general.](section/84.md)
+  - Prohibition on sending certain articles by post
+    - [s. 85 Prohibition on sending certain articles by post.](section/85.md)
+  - Additional protection for universal postal service
+    - [s. 86 Prohibition on affixing advertisements on certain letter boxes etc.](section/86.md)
+    - [s. 87 Prohibition on misleading descriptions.](section/87.md)
+    - [s. 88 Obstruction of business of universal service providers.](section/88.md)
+- Part VI Postal services: supplementary
+  - Schemes and limitation of liability
+    - [s. 89 Schemes as to terms and conditions for provision of postal services.](section/89.md)
+    - [s. 89A Powers of OFCOM in relation to schemes](section/89A.md)
+    - [s. 90 Exclusion of liability.](section/90.md)
+    - [s. 91 Limited liability for postal packets.](section/91.md)
+    - [s. 92 Section 91: supplementary.](section/92.md)
+    - [s. 93 Power to modify sections 89 to 92.](section/93.md)
+  - Supplementary powers for universal postal service
+    - [s. 94 Power to require carriage of mail-bags by ship or aircraft.](section/94.md)
+    - [s. 95 Power to acquire land etc.](section/95.md)
+  - Articles in transit
+    - [s. 96 Immunity from prosecution.](section/96.md)
+    - [s. 97 Harbour charges on mail-bags.](section/97.md)
+    - [s. 98 Mail-bags not to be subject to control by harbour authorities.](section/98.md)
+  - Common carriers
+    - [s. 99 Common carriers.](section/99.md)
+  - Certain exemptions from postage etc.
+    - [s. 100 Certain exemptions from postage etc.](section/100.md)
+- Part VII Miscellaneous and supplementary
+  - Supplementary powers of the Secretary of State
+    - [s. 101 Directions in interests of national security etc.](section/101.md)
+    - [s. 102 Power to ensure compliance with the Postal Services Directive.](section/102.md)
+    - [s. 103 Subsidy for public post offices.](section/103.md)
+  - Inviolability of mails etc.
+    - [s. 104 Inviolability of mails.](section/104.md)
+    - [s. 104A Power to detain packets in respect of unpaid or underpaid postage](section/104A.md)
+    - [s. 105 Application of customs and excise enactments to certain postal packets.](section/105.md)
+    - [s. 105A Section 105: limit on handling charges etc](section/105A.md)
+    - [s. 106 Power to detain postal packets containing contraband.](section/106.md)
+    - [s. 107 Conditions of transit of postal packets.](section/107.md)
+  - Evidential provisions
+    - [s. 108 Evidence of amount of postage etc.](section/108.md)
+    - [s. 109 Evidence of thing being a postal packet.](section/109.md)
+    - [s. 110 Certificates in relation to universal postal service letter boxes.](section/110.md)
+  - Postal and money orders
+    - [s. 111 Exclusion of liability in relation to postal and money orders.](section/111.md)
+    - [s. 112 Schemes in relation to postal and money orders.](section/112.md)
+    - [s. 113 Recoupment of losses on wrongly paid money orders.](section/113.md)
+    - [s. 114 Special arrangements with other countries or territories.](section/114.md)
+  - Other
+    - [s. 115 Extension of existing powers relating to the Post Office.](section/115.md)
+    - [s. 116 The Postcode Address File.](section/116.md)
+    - [s. 117 Records of the former Postmaster General’s department.](section/117.md)
+    - [s. 118 Supplementary provisions relating to the Council.](section/118.md)
+    - [s. 119 General restrictions on disclosure of information.](section/119.md)
+  - General
+    - [s. 120 Offences by bodies corporate.](section/120.md)
+    - [s. 121 Service of documents.](section/121.md)
+    - [s. 122 Orders and regulations.](section/122.md)
+    - [s. 123 Directions.](section/123.md)
+    - [s. 124 General financial provision.](section/124.md)
+    - [s. 125 Interpretation.](section/125.md)
+    - [s. 126 Index of defined expressions.](section/126.md)
+    - [s. 127 General amendments and repeals.](section/127.md)
+    - [s. 128 Modifications of local enactments etc.](section/128.md)
+    - [s. 129 Transitional provisions etc.](section/129.md)
+  - Final
+    - [s. 130 Commencement.](section/130.md)
+    - [s. 131 Short title and extent.](section/131.md)
+- SCHEDULE 1 The Postal Services Commission
+  - ...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - ...
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - ...
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - ...
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - ...
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - ...et ceterala...
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - ...
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - ...
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 The Consumer Council for Postal Services
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Committees
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Terms of appointment of members
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Pay and remuneration of members
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Staff
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Proceedings et ceteralaetc.
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Delegation
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Supplementary powers
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Accounts and expenses
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Transfer to the Post Office company: supplementary provisions
+  - General provisions as to vesting of property etc.
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Pensions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Welfare funds
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Third party rights relating to land
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Other third party property rights
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Requisitions on title as to Treasury consent
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Vesting of foreign property etc.
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Interpretation
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Transfer to the Post Office company: tax
+  - Corporation tax: general
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Shares and other securities
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Debt
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Transfer arrangements
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Tax-free benefits
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Assets acquired by the Post Office in 1969
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Value added tax
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Stamp duty
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Acquisition of land
+  - Part I Powers of acquisition etc
+    - England and Wales
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Scotland
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Northern Ireland
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part II Procedure, compensation etc (England and Wales)
+    - Application of Acquisition of Land Act 1981
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - New rights: Compulsory Purchase Act 1965
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - New rights: specific adaptations of 1965 Act
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - New rights: compensation
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Part III Procedure, compensation etc (Scotland)
+    - Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - New rights: application of 1947 Act and incorporated enactments
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - New rights: specific adaptations of 1947 Act
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - New rights: specific adaptations of Lands Clauses Consolidation (Scotland) Act 1845
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - New rights: compensation
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - Part IV Procedure, compensation etc (Northern Ireland)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+- SCHEDULE 6 Further provisions relating to land
+  - Power to place post-boxes etc in streets
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Entry on land for exploratory purposes
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Acquisition of land by agreement
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Power to sell Duchy of Lancaster land
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Supplementary
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Disclosure of information
+  - ...
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - ...
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - ...
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - ...
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - ...
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Amendments of enactments
+  - Part I General amendments
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part II Other amendments
+    - Public Records Act 1958 (c.51)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Parliamentary Commissioner Act 1967 (c.13)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Post Office Act 1969 (c.48)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Pensions (Increase) Act 1971 (c.56)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Superannuation Act 1972 (c.11)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - House of Commons Disqualification Act 1975 (c.24)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Rates (Northern Ireland) Order 1977 (S.I.1977/2157 (N.I.28))
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Representation of the People Act 1983 (c.2)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Mental Health Act 1983 (c.20)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Insolvency Act 1986 (c.45)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - ...
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Value Added Tax Act 1994 (c.23)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Value Added Tax Regulations 1995 (S.I.1995/2518)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Criminal Procedure (Scotland) Act 1995 (c.46)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - Local Government and Rating Act 1997 (c.29)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Northern Ireland Act 1998 (c.47)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Postal Services Regulations 1999 (S.I. 1999/2107)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+- SCHEDULE 9 Repeals and revocations
