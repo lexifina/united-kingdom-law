@@ -1,0 +1,138 @@
+# Transport (Scotland) Act 2005
+
+asp/2005/12. Enacted 2005-08-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2005/12
+
+Source: https://www.legislation.gov.uk/asp/2005/12/2024-04-01
+
+## Contents
+
+- Part 1 Regional transport
+  - Chapter 1 Regional Transport Partnerships
+    - Establishment etc.
+      - [s. 1 Establishment of regional Transport Partnerships](section/1.md)
+      - [s. 2 Dissolution of regional Transport Partnerships](section/2.md)
+    - Administration
+      - [s. 3 Regional Transport Partnerships: funding and borrowing](section/3.md)
+      - [s. 4 Further provision about regional Transport Partnerships](section/4.md)
+    - Regional transport strategies
+      - [s. 5 Formulation and content of regional transport strategies](section/5.md)
+      - [s. 6 Procedure before and after the drawing up of regional transport strategies](section/6.md)
+      - [s. 7 Review, modification and renewal of regional transport strategies](section/7.md)
+      - [s. 8 Duty of constituent councils and other public bodies as respects regional transport strategies](section/8.md)
+      - [s. 9 Joint regional transport strategies](section/9.md)
+    - Regional transport functions
+      - [s. 10 Other transport functions of regional Transport Partnerships](section/10.md)
+      - [s. 11 Alteration of functions of regional Transport Partnerships](section/11.md)
+      - [s. 12 Manner of performance of functions of regional Transport Partnerships](section/12.md)
+  - Chapter 2 Transport functions: further provisions
+    - [s. 13 Transfer to Scottish Ministers of certain rail provisions](section/13.md)
+    - [s. 14 Arrangements for performance by regional Transport Partnership of certain transport functions etc.](section/14.md)
+  - Chapter 3 Supplementary and consequential provision
+    - [s. 15 Transfer of staff, property, rights and liabilities](section/15.md)
+- Part 2 Road works
+  - The Scottish Road Works Commissioner
+    - [s. 16 Creation, appointment, status and funding of Scottish Road Works Commissioner](section/16.md)
+    - [s. 17 Functions of Commissioner](section/17.md)
+    - [s. 18 Duty of road works authority and undertakers to provide Commissioner with information](section/18.md)
+    - [s. 18A Power to carry out inspections](section/18A.md)
+    - [s. 18B Inspections: warrants](section/18B.md)
+    - [s. 18C Inspections: further provision](section/18C.md)
+    - [s. 18D Offence of obstructing inspections](section/18D.md)
+    - [s. 18E Liability of authorised persons](section/18E.md)
+    - [s. 18F Power to make regulations about inspections](section/18F.md)
+  - The Scottish Road Works Register
+    - [s. 19 The Scottish Road Works Register](section/19.md)
+  - Miscellaneous
+    - [s. 20 Directions as to timing of road works](section/20.md)
+    - [s. 21 Directions as to placing of apparatus in roads](section/21.md)
+    - [s. 22 Restriction on works following substantial road works](section/22.md)
+    - [s. 23 Duty of road works authority to co-ordinate road works etc.](section/23.md)
+    - [s. 24 Duty of undertakers to co-operate with authorities and other undertakers](section/24.md)
+    - [s. 25 Enforcement of sections 118 and 119 of 1991 Act](section/25.md)
+    - [s. 26 Qualifications of supervisors and operatives](section/26.md)
+    - [s. 27 Duty of authorities, undertakers etc. to ensure competence of employees etc.](section/27.md)
+    - [s. 28 Duty of undertaker to notify completion of road works: form and procedure](section/28.md)
+    - [s. 29 Notices requiring remedial works relating to reinstatements](section/29.md)
+  - Resurfacing
+    - [s. 30 Power of road works authority to require undertaker to resurface road](section/30.md)
+    - [s. 31 Resurfacing: regulations and guidance](section/31.md)
+    - [s. 32 Contributions to costs of resurfacing by undertaker](section/32.md)
+  - Enforcement of 1991 Act
+    - [s. 33 Increase in penalties for summary offences under 1991 Act](section/33.md)
+    - [s. 34 Fixed penalty offences](section/34.md)
+    - [s. 35 Civil penalties for certain offences under 1991 Act](section/35.md)
+  - Resolution of disputes under 1991 Act
+    - [s. 36 Method of settlement of certain disputes under 1991 Act](section/36.md)
+  - Enforcement of certain offences under the Roads (Scotland) Act 1984
+    - [s. 37 Fixed penalty offences under the Roads (Scotland) Act 1984](section/37.md)
+    - [s. 38 Civil penalties for certain offences under the roads (Scotland) Act 1984](section/38.md)
+    - [s. 39 Consultation on regulations and codes of practice](section/39.md)
+- Part 3 Miscellaneous
+  - [s. 40 National travel concession schemes](section/40.md)
+  - [s. 41 Public Transport Users’ Committee for Scotland](section/41.md)
+  - [s. 42 Functions of the Committee](section/42.md)
+  - [s. 43 Guidance and direction to the Committee](section/43.md)
+  - [s. 44 Abolition of requirement on local traffic authority to inform the Scottish Ministers about certain pedestrian crossings](section/44.md)
+  - [s. 45 Modification of Highlands and Islands Shipping Services Act 1960 and loans for transport-related purposes](section/45.md)
+  - [s. 46 Amendment of procedure for dealing with applications for harbour orders](section/46.md)
+  - [s. 47 Amendment of procedure where harbour revision orders are made by the Scottish Ministers of their own motion](section/47.md)
+  - [s. 48 Transitional provision for sections 46 and 47](section/48.md)
+  - [s. 49 Badges for vehicles used for disabled people: change of terminology](section/49.md)
+  - [s. 50 Extension of remit of Bus User Complaints Tribunal](section/50.md)
+  - [s. 51 Minor amendments of Transport (Scotland) Act 2001](section/51.md)
+- Part 4 General
+  - [s. 52 Orders and regulations](section/52.md)
+  - [s. 53 Interpretation](section/53.md)
+  - [s. 54 Short title and commencement](section/54.md)
+- SCHEDULE 1 Further provision about regional Transport Partnerships
+  - Staff
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Land
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Private legislation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Participation in community planning
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Forming companies
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Legal proceedings, notices etc.
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Reporting and information
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Finance etc.
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Contracts etc.
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Standards of members’ conduct
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Expenses of observers
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Investigation
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Freedom of information
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+- SCHEDULE 2 Scottish Road Works Commissioner: further provision
+  - Staff
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Accounts
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Reports and information
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Freedom of information
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Increase in maximum fines for certain summary offences under the 1991 Act
+- SCHEDULE 4 Schedule 6A to the New Roads and Street Works Act 1991
+- SCHEDULE 5 Schedule 6B to the New Roads and Street Works Act 1991
+- SCHEDULE 6 Schedule 8A to the Roads (Scotland) Act 1984
+- SCHEDULE 7 Schedule 8B to the Roads (Scotland) Act 1984
