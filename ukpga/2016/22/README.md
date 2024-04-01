@@ -2,9 +2,9 @@
 
 2016 c. 22. Enacted 2016-05-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-03-28, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/22` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. Earlier versions, from 2016-05-12, are in the history before it: `git log -- ukpga/2016/22` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/22/2024-03-28
+Source: https://www.legislation.gov.uk/ukpga/2016/22/2024-04-01
 
 ## Contents
 
@@ -156,7 +156,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/22/2024-03-28
       - [s. 104 Winding-up orders](section/104.md)
       - [s. 105 Voluntary winding up](section/105.md)
       - [s. 106 Making of ordinary administration orders](section/106.md)
-      - [s. 107 Administrator appointments by creditors](section/107.md)
+      - [s. 107 Administrator appointments by creditors etc](section/107.md)
       - [s. 108 Enforcement of security](section/108.md)
     - Financial support for registered providers in housing administration
       - [s. 109 Grants and loans where housing administration order is made](section/109.md)
