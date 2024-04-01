@@ -1,0 +1,266 @@
+# Clean Neighbourhoods and Environment Act 2005
+
+2005 c. 16. Enacted 2005-04-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2005/16
+
+Source: https://www.legislation.gov.uk/ukpga/2005/16/2024-04-01
+
+## Contents
+
+- Part 1 Crime and disorder
+  - [s. 1 Crime and disorder reduction strategies](section/1.md)
+  - [s. 2 Gating orders](section/2.md)
+- Part 2 Vehicles
+  - Nuisance parking offences
+    - [s. 3 Exposing vehicles for sale on a road](section/3.md)
+    - [s. 4 Repairing vehicles on a road](section/4.md)
+    - [s. 5 Liability of directors etc](section/5.md)
+  - Nuisance parking offences: fixed penalty notices
+    - [s. 6 Power to give fixed penalty notices](section/6.md)
+    - [s. 7 Power to require name and address](section/7.md)
+    - [s. 8 Use of fixed penalty receipts](section/8.md)
+    - [s. 9 Fixed penalty notices: supplementary](section/9.md)
+  - Abandoned vehicles
+    - [s. 10 Offence of abandoning a vehicle: fixed penalty notices](section/10.md)
+    - [s. 11 Notice of removal](section/11.md)
+    - [s. 12 Disposal](section/12.md)
+    - [s. 13 Guidance](section/13.md)
+    - [s. 14 Abandoned vehicles: supplementary](section/14.md)
+  - Illegally parked vehicles etc
+    - [s. 15 Notice of removal](section/15.md)
+    - [s. 16 Disposal](section/16.md)
+    - [s. 17 Guidance](section/17.md)
+- Part 3 Litter and refuse
+  - Offence of dropping litter
+    - [s. 18 Extension of litter offence to all open places](section/18.md)
+    - [s. 19 Litter offence: fixed penalty notices](section/19.md)
+  - Local authority notices
+    - [s. 20 Litter clearing notices](section/20.md)
+    - [s. 21 Street litter control notices](section/21.md)
+    - [s. 22 Failure to comply with notice: fixed penalty notices](section/22.md)
+  - Free distribution of printed matter
+    - [s. 23 Controls on free distribution of printed matter](section/23.md)
+  - General
+    - [s. 24 Fixed penalty notices: common provision](section/24.md)
+    - [s. 25 Exclusion of liability](section/25.md)
+    - [s. 26 “Appropriate person”](section/26.md)
+    - [s. 27 “Litter”](section/27.md)
+- Part 4 Graffiti and other defacement
+  - Graffiti and fly-posting
+    - [s. 28 Fixed penalty notices: amount of fixed penalty](section/28.md)
+    - [s. 29 Fixed penalty notices: power to require name and address](section/29.md)
+    - [s. 30 Fixed penalty notices: authorised officers](section/30.md)
+    - [s. 31 Extension of graffiti removal notices to fly-posting](section/31.md)
+    - [s. 32 Sale of aerosol paint to children](section/32.md)
+  - Advertisements
+    - [s. 33 Unlawful display of advertisements: defences](section/33.md)
+    - [s. 34 Removal of placards and posters](section/34.md)
+- Part 5 Waste
+  - Chapter 1 Transport of waste
+    - [s. 35 Unregistered transport: defence of acting under employer’s instructions](section/35.md)
+    - [s. 36 Registration requirements and conditions](section/36.md)
+    - [s. 37 Enforcement powers](section/37.md)
+    - [s. 38 Failure to produce authority: fixed penalty notices](section/38.md)
+    - [s. 39 Interpretation](section/39.md)
+  - Chapter 2 Deposit and disposal of waste
+    - Offence of unlawful deposit of waste etc
+      - [s. 40 Defence of acting under employer’s instructions](section/40.md)
+      - [s. 41 Penalties on conviction](section/41.md)
+      - [s. 42 Investigation and enforcement costs](section/42.md)
+      - [s. 43 Clean-up costs](section/43.md)
+      - [s. 44 Forfeiture of vehicles](section/44.md)
+    - Offences relating to documentation
+      - [s. 45 Failure to furnish documentation: fixed penalty notices](section/45.md)
+    - Offences: powers of seizure
+      - [s. 46 Power to search and seize vehicles](section/46.md)
+    - Local authority waste collection and disposal
+      - [s. 47 Abolition of requirement to contract out waste disposal functions](section/47.md)
+      - [s. 48 Offences relating to waste receptacles: fixed penalty notices](section/48.md)
+      - [s. 49 Payments for waste recycling and disposal](section/49.md)
+      - [s. 50 Power to require owner of land to remove waste](section/50.md)
+    - Supplementary
+      - [s. 51 “Appropriate person”](section/51.md)
+      - [s. 52 Use of fixed penalty receipts](section/52.md)
+      - [s. 53 Supplementary enforcement powers](section/53.md)
+  - Chapter 3 Site waste
+    - [s. 54 Site waste management plans](section/54.md)
+- Part 6 Dogs
+  - Chapter 1 Controls on dogs
+    - Dog control orders
+      - [s. 55 Power to make dog control orders](section/55.md)
+      - [s. 56 Dog control orders: supplementary](section/56.md)
+      - [s. 57 Land to which Chapter 1 applies](section/57.md)
+      - [s. 58 Primary and secondary authorities](section/58.md)
+    - Fixed penalty notices
+      - [s. 59 Fixed penalty notices](section/59.md)
+      - [s. 60 Amount of fixed penalties](section/60.md)
+      - [s. 61 Power to require name and address](section/61.md)
+      - [s. 62 Community support officers etc](section/62.md)
+    - Supplementary
+      - [s. 63 Overlapping powers](section/63.md)
+      - [s. 64 Byelaws](section/64.md)
+      - [s. 65 Dogs (Fouling of Land) Act 1996](section/65.md)
+    - General
+      - [s. 66 “Appropriate person”](section/66.md)
+      - [s. 67 Regulations and orders](section/67.md)
+  - Chapter 2 Stray dogs
+    - [s. 68 Termination of police responsibility for stray dogs](section/68.md)
+- Part 7 Noise
+  - Chapter 1 Audible intruder alarms
+    - Alarm notification areas
+      - [s. 69 Designation of alarm notification areas](section/69.md)
+      - [s. 70 Withdrawal of designation](section/70.md)
+      - [s. 71 Notification of nominated key-holders](section/71.md)
+      - [s. 72 Nomination of key-holders](section/72.md)
+      - [s. 73 Offences under section 71: fixed penalty notices](section/73.md)
+      - [s. 74 Amount of fixed penalty](section/74.md)
+      - [s. 75 Use of fixed penalty receipts](section/75.md)
+      - [s. 76 Fixed penalty notices: power to require name and address](section/76.md)
+    - Powers in relation to alarms
+      - [s. 77 Power of entry](section/77.md)
+      - [s. 78 Warrant to enter premises by force](section/78.md)
+      - [s. 79 Powers of entry: supplementary](section/79.md)
+    - Supplementary
+      - [s. 80 Orders and regulations](section/80.md)
+      - [s. 81 Interpretation](section/81.md)
+  - Chapter 2 General
+    - Noise from premises
+      - [s. 82 Noise offences: fixed penalty notices](section/82.md)
+      - [s. 83 Noise offences: use of fixed penalty receipts](section/83.md)
+      - [s. 84 Extension of Noise Act 1996 to licensed premises etc](section/84.md)
+      - [s. 85 Noise Act 1996: supplementary](section/85.md)
+    - Statutory noise nuisances
+      - [s. 86 Deferral of duty to serve abatement notice](section/86.md)
+- Part 8 Architecture and the built environment
+  - Commission for Architecture and the Built Environment
+    - [s. 87 The Commission for Architecture and the Built Environment](section/87.md)
+    - [s. 88 General functions of the Commission](section/88.md)
+    - [s. 89 Changes to functions of the Commission](section/89.md)
+    - [s. 90 Power to dissolve the Commission](section/90.md)
+    - [s. 91 Dissolution of the old Commission](section/91.md)
+    - [s. 92 Transfer of staff, property etc](section/92.md)
+    - [s. 93 Tax](section/93.md)
+  - Financial assistance
+    - [s. 94 Architecture and the built environment: financial assistance](section/94.md)
+  - Supplementary
+    - [s. 95 Orders](section/95.md)
+- Part 9 Miscellaneous
+  - Use of fixed penalty receipts
+    - [s. 95A Use of fixed penalty receipts: higher tier authorities in England](section/95A.md)
+    - [s. 96 Use of fixed penalty receipts: higher tier authorities in Wales](section/96.md)
+    - [s. 97 Use of fixed penalty receipts: lower tier authorities](section/97.md)
+    - [s. 98 Sections 95A, 96 and 97: supplementary](section/98.md)
+  - Shopping and luggage trolleys
+    - [s. 99 Abandoned shopping and luggage trolleys](section/99.md)
+    - [s. 100 Section 99: transitional provision](section/100.md)
+  - Statutory nuisances
+    - [s. 101 Statutory nuisance: insects](section/101.md)
+    - [s. 102 Statutory nuisance: lighting](section/102.md)
+    - [s. 103 Sections 101 and 102: supplementary](section/103.md)
+  - Pollution
+    - [s. 104 Contaminated land: appeals against remediation notices](section/104.md)
+    - [s. 105 Offences relating to pollution etc: penalties on conviction](section/105.md)
+- Part 10 General
+  - [s. 106 Minor and consequential amendments](section/106.md)
+  - [s. 107 Repeals](section/107.md)
+  - [s. 108 Commencement](section/108.md)
+  - [s. 109 Money](section/109.md)
+  - [s. 110 Extent](section/110.md)
+  - [s. 111 Short title](section/111.md)
+- SCHEDULE 1 Application of the Noise Act 1996 to licensed premises etc
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Commission for Architecture and the Built Environment
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Membership
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Tenure
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Staff etc
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Committees
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Remuneration etc
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Delegation
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Proceedings
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Accounts
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Annual report
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Instruments and authentication
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Records
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Disqualification
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Transitional provisions
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Interpretation
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Transfer of staff, property etc from the old Commission
+  - Transfer of staff
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Transfer of property, rights and liabilities
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The appointed day
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Highways Act 1980 (c. 66)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Environmental Protection Act 1990 (c. 43)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Control of Pollution (Amendment) Act 1989 (c. 14)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Anti-social Behaviour Act 2003 (c. 38)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+- SCHEDULE 5 Repeals
+  - Part 1 Vehicles
+  - Part 2 Litter and refuse
+  - Part 3 Graffiti and other defacement
+  - Part 4 Waste
+  - Part 5 Dog controls
+  - Part 6 Stray dogs
+  - Part 7 Noise
+  - Part 8 Architecture and the built environment
+  - Part 9 Use of fixed penalty receipts
+  - Part 10 Contaminated land
