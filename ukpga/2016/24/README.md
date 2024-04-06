@@ -2,9 +2,9 @@
 
 2016 c. 24. Enacted 2016-09-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2016-04-06, are in the history before it: `git log -- ukpga/2016/24` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-06, one file per provision. Earlier versions, from 2016-04-06, are in the history before it: `git log -- ukpga/2016/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/24/2023-07-11
+Source: https://www.legislation.gov.uk/ukpga/2016/24/2024-04-06
 
 ## Contents
 
@@ -375,7 +375,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/24/2023-07-11
     - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
   - Exercise of EMI options
     - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
-- SCHEDULE 4 Pensions: lifetime allowance: transitional provision
+- SCHEDULE 4 Pensions: lump sum allowance and lump sum and death benefit allowance: transitional provision
   - PART 1 “Fixed protection 2016”
     - The protection
       - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
