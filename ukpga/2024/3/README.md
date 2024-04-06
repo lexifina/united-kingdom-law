@@ -2,9 +2,9 @@
 
 2024 c. 3. Enacted 2024-02-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. Earlier versions, from 2024-02-22, are in the history before it: `git log -- ukpga/2024/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-06, one file per provision. Earlier versions, from 2024-02-22, are in the history before it: `git log -- ukpga/2024/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-04-01
+Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-04-06
 
 ## Contents
 
@@ -329,11 +329,14 @@ Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-04-01
     - [Sch. 9 para. 125 Availability of individual’s lump sum allowance](schedule/9/paragraph/125.md)
     - [Sch. 9 para. 126 Availability of individual’s lump sum and death benefit allowance](schedule/9/paragraph/126.md)
     - [Sch. 9 para. 127 Transitional tax-free amount certificates](schedule/9/paragraph/127.md)
+    - [Sch. 9 para. 127A Availability of member’s overseas transfer allowance](schedule/9/paragraph/127A.md)
     - [Sch. 9 para. 128 Provision of information by scheme administrators to members](schedule/9/paragraph/128.md)
     - [Sch. 9 para. 129 Paragraphs 125 to 128: interpretation](schedule/9/paragraph/129.md)
     - [Sch. 9 para. 130 Statements for certain members who would not otherwise receive one in the tax year 2024-25](schedule/9/paragraph/130.md)
+    - [Sch. 9 para. 130A Lump sums paid on or after 6 April 2024 where entitlement arose before that date](schedule/9/paragraph/130A.md)
     - [Sch. 9 para. 131 Lump sum death benefits paid on or after 6 April 2024 that crystallised before that date](schedule/9/paragraph/131.md)
-    - [Sch. 9 para. 132 References in scheme rules to lifetime allowance excess lump sums](schedule/9/paragraph/132.md)
+    - [Sch. 9 para. 132 Modifications of scheme rules](schedule/9/paragraph/132.md)
+    - [Sch. 9 para. 132A Continuity of the law](schedule/9/paragraph/132A.md)
     - [Sch. 9 para. 133 Power to make further transitional provision](schedule/9/paragraph/133.md)
     - [Sch. 9 para. 134 Power to make further provision in connection with the abolition of lifetime allowance charge](schedule/9/paragraph/134.md)
 - Schedule 10 Calculation of trade profits etc
