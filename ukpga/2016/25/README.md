@@ -2,9 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-12-20, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-16, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2023-12-20
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2024-04-16
 
 ## Contents
 
@@ -215,7 +215,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2023-12-20
       - [s. 151 Safeguards relating to disclosure of material overseas](section/151.md)
       - [s. 152 Safeguards relating to examination of material](section/152.md)
       - [s. 153 Additional safeguards for items subject to legal privilege](section/153.md)
-      - [s. 154 Additional safeguard for confidential journalistic material](section/154.md)
+      - [s. 154 Additional safeguards for confidential journalistic material etc](section/154.md)
+      - [s. 154A Section 154: procedure where use of criteria approved by senior official](section/154A.md)
       - [s. 155 Offence of breaching safeguards relating to examination of material](section/155.md)
       - [s. 156 Application of other restrictions in relation to warrants](section/156.md)
     - Interpretation
