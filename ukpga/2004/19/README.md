@@ -1,0 +1,148 @@
+# Asylum and Immigration (Treatment of Claimants, etc. ) Act 2004
+
+2004 c. 19. Enacted 2004-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 20 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/19
+
+Source: https://www.legislation.gov.uk/ukpga/2004/19/2024-04-25
+
+## Contents
+
+- Offences
+  - [s. 1 Assisting unlawful immigration](section/1.md)
+  - [s. 2 Entering United Kingdom without passport, &c.](section/2.md)
+  - [s. 3 Immigration documents: forgery](section/3.md)
+  - [s. 4 Trafficking people for exploitation](section/4.md)
+  - [s. 5 Section 4: supplemental](section/5.md)
+  - [s. 6 Employment](section/6.md)
+  - [s. 7 Advice of Director of Public Prosecutions](section/7.md)
+- Treatment of claimants
+  - [s. 8 Claimant’s credibility](section/8.md)
+  - [s. 9 Failed asylum seekers: withdrawal of support](section/9.md)
+  - [s. 10 Failed asylum seekers: accommodation](section/10.md)
+  - [s. 11 Accommodation for asylum seekers: local connection](section/11.md)
+  - [s. 12 Refugee: back-dating of benefits](section/12.md)
+  - [s. 13 Integration loans for refugees and others](section/13.md)
+- Enforcement powers
+  - [s. 14 Immigration officer: power of arrest](section/14.md)
+  - [s. 15 Fingerprinting](section/15.md)
+  - [s. 16 Information about passengers](section/16.md)
+  - [s. 17 Retention of documents](section/17.md)
+  - [s. 18 Control of entry](section/18.md)
+- Procedure for marriage
+  - [s. 19 England and Wales](section/19.md)
+  - [s. 20 England and Wales: supplemental](section/20.md)
+  - [s. 21 Scotland](section/21.md)
+  - [s. 22 Scotland: supplemental](section/22.md)
+  - [s. 23 Northern Ireland](section/23.md)
+  - [s. 24 Northern Ireland: supplemental](section/24.md)
+  - [s. 25 Application for permission under section 19(3)(b), 21(3)(b) or 23(3)(b)](section/25.md)
+- Appeals
+  - [s. 26 Unification of appeal system](section/26.md)
+  - [s. 27 Unfounded human rights or asylum claim](section/27.md)
+  - [s. 28 Appeal from within United Kingdom](section/28.md)
+  - [s. 29 Entry clearance](section/29.md)
+  - [s. 30 Earlier right of appeal](section/30.md)
+  - [s. 31 Seamen and aircrews: right of appeal](section/31.md)
+  - [s. 32 Suspected international terrorist: bail](section/32.md)
+- Removal and detention
+  - [s. 33 Removing asylum seeker to safe country](section/33.md)
+  - [s. 34 Detention pending deportation](section/34.md)
+  - [s. 35 Deportation or removal: cooperation](section/35.md)
+  - [s. 36 Electronic monitoring](section/36.md)
+- Immigration services
+  - [s. 37 Provision of immigration services](section/37.md)
+  - [s. 38 Immigration Services Commissioner: power of entry](section/38.md)
+  - [s. 39 Offence of advertising services](section/39.md)
+  - [s. 40 Appeal to Immigration Services Tribunal](section/40.md)
+  - [s. 41 Professional bodies](section/41.md)
+- Fees
+  - [s. 42 Amount of fees](section/42.md)
+  - [s. 43 Transfer of leave stamps](section/43.md)
+- General
+  - [s. 44 Interpretation: “the Immigration Acts”](section/44.md)
+  - [s. 45 Interpretation: immigration officer](section/45.md)
+  - [s. 46 Money](section/46.md)
+  - [s. 47 Repeals](section/47.md)
+  - [s. 48 Commencement](section/48.md)
+  - [s. 49 Extent](section/49.md)
+  - [s. 50 Short title](section/50.md)
+- SCHEDULE 1 New Schedule 4 to the Nationality, Immigration and Asylum Act 2002
+- SCHEDULE 2 Asylum and Immigration Tribunal: Consequential Amendments and Transitional Provision
+  - Part 1 Consequential Amendments
+    - Immigration Act 1971 (c. 77)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - British Nationality Act 1981 (c. 61)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981/228 (N.I. 8))
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Courts and Legal Services Act 1990 (c. 41)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Tribunals and Inquiries Act 1992 (c. 53)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Judicial Pensions and Retirement Act 1993 (c. 8)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Asylum and Immigration Appeals Act 1993 (c. 23)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Special Immigration Appeals Commission Act 1997 (c. 68)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Access to Justice Act 1999 (c. 22)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Nationality, Immigration and Asylum Act 2002 (c. 41)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Part 2 Transitional Provision
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+- SCHEDULE 3 Removal of Asylum Seeker to Safe Country
+  - Part 1 Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part 2 First List of Safe Countries (Refugee Convention and Human Rights (1))
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part 3 Second List of Safe Countries (Refugee Convention and Human Rights (2))
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Part 4 Third List of Safe Countries (Refugee Convention Only)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Part 5 Countries Certified as Safe for Individuals
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Part 6 Amendment of Lists
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- SCHEDULE 4 Repeals
