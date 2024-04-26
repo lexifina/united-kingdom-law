@@ -1,0 +1,606 @@
+# Anti-terrorism, Crime and Security Act 2001
+
+2001 c. 24. Enacted 2001-12-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2001/24
+
+Source: https://www.legislation.gov.uk/ukpga/2001/24/2024-04-26
+
+## Contents
+
+- Part 1 Terrorist Property
+  - [s. 1 Forfeiture of terrorist property](section/1.md)
+  - [s. 2 Amendments relating to section 1](section/2.md)
+  - [s. 3 Terrorist property: amendments](section/3.md)
+- Part 2 Freezing Orders
+  - Orders
+    - [s. 4 Power to make order](section/4.md)
+    - [s. 5 Contents of order](section/5.md)
+    - [s. 6 Contents: further provisions](section/6.md)
+    - [s. 7 Review of order](section/7.md)
+    - [s. 8 Duration of order](section/8.md)
+  - Interpretation
+    - [s. 9 Nationals and residents](section/9.md)
+  - Orders: procedure etc.
+    - [s. 10 Procedure for making freezing orders](section/10.md)
+    - [s. 11 Procedure for making certain amending orders](section/11.md)
+    - [s. 12 Procedure for revoking orders](section/12.md)
+    - [s. 13 De-hybridisation](section/13.md)
+    - [s. 14 Orders: supplementary](section/14.md)
+  - Miscellaneous
+    - [s. 15 The Crown](section/15.md)
+    - [s. 16 Repeals](section/16.md)
+- Part 3 Disclosure of Information
+  - [s. 17 Extension of existing disclosure powers](section/17.md)
+  - [s. 18 Restriction on disclosure of information for overseas purposes](section/18.md)
+  - [s. 19 Disclosure of information held by revenue departments](section/19.md)
+  - [s. 20 Interpretation of Part 3](section/20.md)
+- Part 4 Immigration and Asylum
+  - Suspected international terrorists
+    - [s. 21 Suspected international terrorist: certification](section/21.md)
+    - [s. 22 Deportation, removal, &c.](section/22.md)
+    - [s. 23 Detention](section/23.md)
+    - [s. 24 Bail](section/24.md)
+    - [s. 25 Certification: appeal](section/25.md)
+    - [s. 26 Certification: review](section/26.md)
+    - [s. 27 Appeal and review: supplementary](section/27.md)
+    - [s. 28 Review of sections 21 to 23](section/28.md)
+    - [s. 29 Duration of sections 21 to 23](section/29.md)
+    - [s. 30 Legal proceedings: derogation](section/30.md)
+    - [s. 31 Interpretation](section/31.md)
+    - [s. 32 Channel Islands and Isle of Man](section/32.md)
+  - Refugee Convention
+    - [s. 33 Certificate that Convention does not apply](section/33.md)
+    - [s. 34 Construction](section/34.md)
+  - Special Immigration Appeals Commission
+    - [s. 35 Status of Commission](section/35.md)
+  - Fingerprints
+    - [s. 36 Destruction of fingerprints](section/36.md)
+- Part 5 Race and Religion
+  - [s. 37 Meaning of racial hatred](section/37.md)
+  - [s. 38 Meaning of fear and hatred](section/38.md)
+  - [s. 39 Religiously aggravated offences](section/39.md)
+  - [s. 40 Racial hatred offences: penalties](section/40.md)
+  - [s. 41 Hatred and fear offences: penalties](section/41.md)
+  - [s. 42 Saving](section/42.md)
+- Part 6 Weapons of Mass Destruction
+  - Amendment of the Biological Weapons Act 1974 and the Chemical Weapons Act 1996
+    - [s. 43 Transfers of biological agents and toxins](section/43.md)
+    - [s. 44 Extraterritorial application of biological weapons offences](section/44.md)
+    - [s. 45 Customs and Excise prosecutions for biological weapons offences](section/45.md)
+    - [s. 46 Customs and Excise prosecutions for chemical weapons offences](section/46.md)
+  - Nuclear weapons
+    - [s. 47 Use etc. of nuclear weapons](section/47.md)
+    - [s. 48 Exceptions](section/48.md)
+    - [s. 49 Defences](section/49.md)
+  - Assisting or inducing weapons-related acts overseas
+    - [s. 50 Assisting or inducing certain weapons-related acts overseas](section/50.md)
+  - Supplemental provisions relating to sections 47 and 50
+    - [s. 51 Extraterritorial application](section/51.md)
+    - [s. 52 Powers of entry](section/52.md)
+    - [s. 53 Revenue and Customs prosecutions](section/53.md)
+    - [s. 54 Offences](section/54.md)
+    - [s. 55 Consent to prosecutions](section/55.md)
+    - [s. 56 Interpretation of Part 6](section/56.md)
+  - Extension of Part 6 to dependencies
+    - [s. 57 Power to extend Part 6 to dependencies](section/57.md)
+- Part 7 Security of Pathogens and Toxins
+  - [s. 58 Pathogens and toxins in relation to which requirements under Part 7 apply](section/58.md)
+  - [s. 59 Duty to notify Secretary of State before keeping or using dangerous substances](section/59.md)
+  - [s. 60 Information about security of dangerous substances](section/60.md)
+  - [s. 61 Information about persons with access to dangerous substances](section/61.md)
+  - [s. 62 Directions requiring security measures](section/62.md)
+  - [s. 63 Directions requiring disposal of dangerous substances](section/63.md)
+  - [s. 64 Directions requiring denial of access](section/64.md)
+  - [s. 65 Powers of entry](section/65.md)
+  - [s. 66 Search warrants](section/66.md)
+  - [s. 67 Offences](section/67.md)
+  - [s. 68 Bodies corporate](section/68.md)
+  - [s. 69 Partnerships and unincorporated associations](section/69.md)
+  - [s. 70 Denial of access: appeals](section/70.md)
+  - [s. 71 Other appeals](section/71.md)
+  - [s. 72 Giving of directions or notices](section/72.md)
+  - [s. 73 Orders and regulations](section/73.md)
+  - [s. 74 Interpretation of Part 7](section/74.md)
+  - [s. 75 Power to extend Part 7 to animal or plant pathogens, pests or toxic chemicals](section/75.md)
+- Part 8 Security of Nuclear Industry
+  - [s. 76 Atomic Energy Authority special constables](section/76.md)
+  - [s. 77 Regulation of security of civil nuclear industry](section/77.md)
+  - [s. 78 Repeals relating to security of civil nuclear installations](section/78.md)
+  - [s. 79 Prohibition of disclosures relating to nuclear security](section/79.md)
+  - [s. 80 Prohibition of disclosures of uranium enrichment technology](section/80.md)
+  - [s. 80A Extension of Official Secrets Acts to certain places](section/80A.md)
+  - [s. 81 Part 8: supplementary](section/81.md)
+- Part 9 Aviation Security
+  - [s. 82 Arrest without warrant](section/82.md)
+  - [s. 83 Trespass on aerodrome: penalty](section/83.md)
+  - [s. 84 Removal of intruder](section/84.md)
+  - [s. 85 Aviation security services](section/85.md)
+  - [s. 86 Detention of aircraft](section/86.md)
+  - [s. 87 Air cargo agent: documents](section/87.md)
+  - [s. 88 Extent outside United Kingdom](section/88.md)
+- Part 10 Police Powers
+  - Identification
+    - [s. 89 Fingerprinting of terrorist suspects](section/89.md)
+    - [s. 90 Searches, examinations and fingerprinting: England and Wales](section/90.md)
+    - [s. 91 Searches, examinations and fingerprinting: Northern Ireland](section/91.md)
+    - [s. 92 Photographing of suspects etc.: England and Wales](section/92.md)
+    - [s. 93 Photographing of suspects etc.: Northern Ireland](section/93.md)
+    - [s. 94 Powers to require removal of disguises: England and Wales](section/94.md)
+    - [s. 95 Powers to require removal of disguises: Northern Ireland](section/95.md)
+  - Powers of stop, search and seizure in Northern Ireland
+    - [s. 96 Power to stop and search in anticipation of violence](section/96.md)
+    - [s. 97 Seized articles](section/97.md)
+  - MoD and transport police
+    - [s. 98 Jurisdiction of MoD police](section/98.md)
+    - [s. 99 Provision of assistance by MoD police](section/99.md)
+    - [s. 100 Jurisdiction of transport police](section/100.md)
+    - [s. 101 Further provisions about transport police and MoD police](section/101.md)
+- Part 11 Retention of Communications Data
+  - [s. 102 Codes and agreements about the retention of communications data](section/102.md)
+  - [s. 103 Procedure for codes of practice](section/103.md)
+  - [s. 104 Directions about retention of communications data](section/104.md)
+  - [s. 105 Lapsing of powers in section 104](section/105.md)
+  - [s. 106 Arrangements for payments](section/106.md)
+  - [s. 107 Interpretation of Part 11](section/107.md)
+- Part 12 Bribery and Corruption
+  - [s. 108 Bribery and corruption: foreign officers etc.](section/108.md)
+  - [s. 109 Bribery and corruption committed outside the UK](section/109.md)
+  - [s. 110 Presumption of corruption not to apply](section/110.md)
+- Part 13 Miscellaneous
+  - Third pillar of the European Union
+    - [s. 111 Implementation of the third pillar](section/111.md)
+    - [s. 112 Third pillar: supplemental](section/112.md)
+  - Dangerous substances
+    - [s. 113 Use of noxious substances or things to cause harm and intimidate](section/113.md)
+    - [s. 113A Application of section 113](section/113A.md)
+    - [s. 113B Consent to prosecution for offence under section 113](section/113B.md)
+    - [s. 114 Hoaxes involving noxious substances or things](section/114.md)
+    - [s. 115 Sections 113 and 114: supplementary](section/115.md)
+  - Intelligence Services Act 1994
+    - [s. 116 Amendments of Intelligence Services Act 1994](section/116.md)
+  - Terrorism Act 2000
+    - [s. 117 Information about acts of terrorism](section/117.md)
+    - [s. 118 Port and airport controls for domestic travel](section/118.md)
+    - [s. 119 Passenger information](section/119.md)
+    - [s. 120 Weapons training for terrorists](section/120.md)
+    - [s. 121 Crown Court judges: Northern Ireland](section/121.md)
+- Part 14 Supplemental
+  - [s. 122 Review of Act](section/122.md)
+  - [s. 123 Effect of report](section/123.md)
+  - [s. 124 Consequential and supplementary provision](section/124.md)
+  - [s. 125 Repeals and revocation](section/125.md)
+  - [s. 126 Expenses](section/126.md)
+  - [s. 127 Commencement](section/127.md)
+  - [s. 128 Extent](section/128.md)
+  - [s. 129 Short title](section/129.md)
+- SCHEDULE 1 Forfeiture of terrorist property
+  - PART 1 Introductory: forfeiture of terrorist cash
+    - Terrorist cash
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - PART 2 Seizure and detention of terrorist cash
+    - Seizure of cash
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Detention of seized cash
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Payment of detained cash into an account
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Release of detained cash
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - PART 2A Forfeiture of terrorist cash without court order
+    - Cash forfeiture notice
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+    - Effect of cash forfeiture notice
+      - [Sch. 1 para. 5B](schedule/1/paragraph/5B.md)
+    - Detention following lapse of cash forfeiture notice
+      - [Sch. 1 para. 5C](schedule/1/paragraph/5C.md)
+    - Application to set aside forfeiture
+      - [Sch. 1 para. 5D](schedule/1/paragraph/5D.md)
+    - Release of cash subject to cash forfeiture notice
+      - [Sch. 1 para. 5E](schedule/1/paragraph/5E.md)
+    - Application of cash forfeited under cash forfeiture notice
+      - [Sch. 1 para. 5F](schedule/1/paragraph/5F.md)
+  - PART 3 Forfeiture of terrorist cash
+    - Forfeiture
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Appeal against decision in forfeiture proceedings
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Extended time for appealing in certain cases where deproscription order made
+      - [Sch. 1 para. 7n1](schedule/1/paragraph/7n1.md)
+    - Application of forfeited cash
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 4 Miscellaneous: terrorist cash
+    - Victims
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Restrictions on release
+      - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+    - Compensation
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - PART 4A Forfeiture of terrorist assets
+    - Definition of “listed asset”
+      - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+    - Seizure of listed assets
+      - [Sch. 1 para. 10B](schedule/1/paragraph/10B.md)
+    - Initial detention of seized property
+      - [Sch. 1 para. 10C](schedule/1/paragraph/10C.md)
+    - Further detention of seized property
+      - [Sch. 1 para. 10D](schedule/1/paragraph/10D.md)
+    - Testing and safekeeping of property seized under paragraph 10B
+      - [Sch. 1 para. 10E](schedule/1/paragraph/10E.md)
+    - Release of detained property
+      - [Sch. 1 para. 10F](schedule/1/paragraph/10F.md)
+    - Forfeiture
+      - [Sch. 1 para. 10G](schedule/1/paragraph/10G.md)
+    - Associated and joint property
+      - [Sch. 1 para. 10H](schedule/1/paragraph/10H.md)
+    - Agreements about associated and joint property
+      - [Sch. 1 para. 10I](schedule/1/paragraph/10I.md)
+    - Associated and joint property: default of agreement
+      - [Sch. 1 para. 10J](schedule/1/paragraph/10J.md)
+    - Paragraphs 10G to 10J: appeals
+      - [Sch. 1 para. 10K](schedule/1/paragraph/10K.md)
+    - Extended time for appealing in certain cases where deproscription order made
+      - [Sch. 1 para. 10L](schedule/1/paragraph/10L.md)
+    - Realisation of forfeited property
+      - [Sch. 1 para. 10M](schedule/1/paragraph/10M.md)
+    - Proceeds of realisation
+      - [Sch. 1 para. 10N](schedule/1/paragraph/10N.md)
+    - Victims
+      - [Sch. 1 para. 10O](schedule/1/paragraph/10O.md)
+    - Compensation
+      - [Sch. 1 para. 10P](schedule/1/paragraph/10P.md)
+  - PART 4B Forfeiture of terrorist money held in certain accounts
+    - Application for account freezing order
+      - [Sch. 1 para. 10Q](schedule/1/paragraph/10Q.md)
+    - Meaning of “bank”
+      - [Sch. 1 para. 10R](schedule/1/paragraph/10R.md)
+    - Making of account freezing order
+      - [Sch. 1 para. 10S](schedule/1/paragraph/10S.md)
+    - Variation and setting aside of account freezing order
+      - [Sch. 1 para. 10T](schedule/1/paragraph/10T.md)
+    - Exclusions
+      - [Sch. 1 para. 10U](schedule/1/paragraph/10U.md)
+    - Restriction on proceedings and remedies
+      - [Sch. 1 para. 10V](schedule/1/paragraph/10V.md)
+    - Account forfeiture notice
+      - [Sch. 1 para. 10W](schedule/1/paragraph/10W.md)
+    - Giving of account forfeiture notice
+      - [Sch. 1 para. 10X](schedule/1/paragraph/10X.md)
+    - Lapse of account forfeiture notice
+      - [Sch. 1 para. 10Y](schedule/1/paragraph/10Y.md)
+    - Application to set aside forfeiture
+      - [Sch. 1 para. 10Z](schedule/1/paragraph/10Z.md)
+    - Application of money forfeited under account forfeiture notice
+      - [Sch. 1 para. 10Z1](schedule/1/paragraph/10Z1.md)
+    - Forfeiture order
+      - [Sch. 1 para. 10Z2](schedule/1/paragraph/10Z2.md)
+    - Continuation of account freezing order pending appeal
+      - [Sch. 1 para. 10Z3](schedule/1/paragraph/10Z3.md)
+    - Appeal against decision under paragraph 10Z2
+      - [Sch. 1 para. 10Z4](schedule/1/paragraph/10Z4.md)
+    - Extended time for appealing in certain cases where deproscription order made
+      - [Sch. 1 para. 10Z5](schedule/1/paragraph/10Z5.md)
+    - Application of money forfeited under account forfeiture order
+      - [Sch. 1 para. 10Z6](schedule/1/paragraph/10Z6.md)
+    - Victims etc
+      - [Sch. 1 para. 10Z6A](schedule/1/paragraph/10Z6A.md)
+    - Compensation
+      - [Sch. 1 para. 10Z7](schedule/1/paragraph/10Z7.md)
+  - PART 4BA Seizure and detention of terrorist cryptoassets
+    - [Sch. 1 para. 10Z7A Interpretation](schedule/1/paragraph/10Z7A.md)
+    - [Sch. 1 para. 10Z7AA Seizure of cryptoasset-related items](schedule/1/paragraph/10Z7AA.md)
+    - [Sch. 1 para. 10Z7AB Initial detention of cryptoasset-related items](schedule/1/paragraph/10Z7AB.md)
+    - [Sch. 1 para. 10Z7AC Further detention of cryptoasset-related items](schedule/1/paragraph/10Z7AC.md)
+    - [Sch. 1 para. 10Z7AD Seizure of cryptoassets](schedule/1/paragraph/10Z7AD.md)
+    - [Sch. 1 para. 10Z7AE Prior authorisation for detention of cryptoassets](schedule/1/paragraph/10Z7AE.md)
+    - [Sch. 1 para. 10Z7AF Initial detention of cryptoassets](schedule/1/paragraph/10Z7AF.md)
+    - [Sch. 1 para. 10Z7AG Further detention of cryptoassets](schedule/1/paragraph/10Z7AG.md)
+    - [Sch. 1 para. 10Z7AH Safekeeping of cryptoasset-related items and cryptoassets](schedule/1/paragraph/10Z7AH.md)
+    - [Sch. 1 para. 10Z7AI Release of cryptoasset-related items and cryptoassets](schedule/1/paragraph/10Z7AI.md)
+  - PART 4BB Terrorist cryptoassets: crypto wallet freezing orders
+    - [Sch. 1 para. 10Z7B Interpretation](schedule/1/paragraph/10Z7B.md)
+    - [Sch. 1 para. 10Z7BA Application for crypto wallet freezing order](schedule/1/paragraph/10Z7BA.md)
+    - [Sch. 1 para. 10Z7BB Making of crypto wallet freezing order](schedule/1/paragraph/10Z7BB.md)
+    - [Sch. 1 para. 10Z7BC Variation and setting aside of crypto wallet freezing order](schedule/1/paragraph/10Z7BC.md)
+    - [Sch. 1 para. 10Z7BD Exclusions](schedule/1/paragraph/10Z7BD.md)
+    - [Sch. 1 para. 10Z7BE Restriction on proceedings and remedies](schedule/1/paragraph/10Z7BE.md)
+  - PART 4BC Forfeiture of terrorist cryptoassets
+    - [Sch. 1 para. 10Z7C Interpretation](schedule/1/paragraph/10Z7C.md)
+    - [Sch. 1 para. 10Z7CA Forfeiture](schedule/1/paragraph/10Z7CA.md)
+    - [Sch. 1 para. 10Z7CB Forfeiture: supplementary](schedule/1/paragraph/10Z7CB.md)
+    - [Sch. 1 para. 10Z7CC Associated and joint property](schedule/1/paragraph/10Z7CC.md)
+    - [Sch. 1 para. 10Z7CD Agreements about associated and joint property](schedule/1/paragraph/10Z7CD.md)
+    - [Sch. 1 para. 10Z7CE Associated and joint property: default of agreement](schedule/1/paragraph/10Z7CE.md)
+    - [Sch. 1 para. 10Z7CF Continuation of crypto wallet freezing order pending appeal](schedule/1/paragraph/10Z7CF.md)
+    - [Sch. 1 para. 10Z7CG Paragraphs 10Z7CA to 10Z7CE: appeals](schedule/1/paragraph/10Z7CG.md)
+    - [Sch. 1 para. 10Z7CH Extended time for appealing in certain cases where deproscription order made](schedule/1/paragraph/10Z7CH.md)
+    - [Sch. 1 para. 10Z7CI Realisation or destruction of forfeited cryptoassets etc](schedule/1/paragraph/10Z7CI.md)
+    - [Sch. 1 para. 10Z7CJ Proceeds of realisation](schedule/1/paragraph/10Z7CJ.md)
+    - [Sch. 1 para. 10Z7CK Victims etc: detained cryptoassets](schedule/1/paragraph/10Z7CK.md)
+    - [Sch. 1 para. 10Z7CL Victims etc: crypto wallet freezing orders](schedule/1/paragraph/10Z7CL.md)
+    - [Sch. 1 para. 10Z7CM Compensation](schedule/1/paragraph/10Z7CM.md)
+  - PART 4BD Conversion of cryptoassets
+    - [Sch. 1 para. 10Z7D Interpretation](schedule/1/paragraph/10Z7D.md)
+    - [Sch. 1 para. 10Z7DA Detained cryptoassets: conversion](schedule/1/paragraph/10Z7DA.md)
+    - [Sch. 1 para. 10Z7DB Frozen crypto wallet: conversion](schedule/1/paragraph/10Z7DB.md)
+    - [Sch. 1 para. 10Z7DC Conversion: existing forfeiture proceedings](schedule/1/paragraph/10Z7DC.md)
+    - [Sch. 1 para. 10Z7DD Detained cryptoassets: detention of proceeds of conversion](schedule/1/paragraph/10Z7DD.md)
+    - [Sch. 1 para. 10Z7DE Frozen crypto wallets: detention of proceeds of conversion](schedule/1/paragraph/10Z7DE.md)
+    - [Sch. 1 para. 10Z7DF Release of detained converted cryptoassets](schedule/1/paragraph/10Z7DF.md)
+    - [Sch. 1 para. 10Z7DG Forfeiture](schedule/1/paragraph/10Z7DG.md)
+    - [Sch. 1 para. 10Z7DH Forfeiture: appeals](schedule/1/paragraph/10Z7DH.md)
+    - [Sch. 1 para. 10Z7DI Extended time for appealing in certain cases where deproscription order made](schedule/1/paragraph/10Z7DI.md)
+    - [Sch. 1 para. 10Z7DJ Application of forfeited converted cryptoassets](schedule/1/paragraph/10Z7DJ.md)
+    - [Sch. 1 para. 10Z7DK Victims etc](schedule/1/paragraph/10Z7DK.md)
+    - [Sch. 1 para. 10Z7DL Compensation](schedule/1/paragraph/10Z7DL.md)
+  - PART 4C OFFENCES
+    - [Sch. 1 para. 10Z8 Offences in relation to counter-terrorism financial investigators](schedule/1/paragraph/10Z8.md)
+  - PART 4D Proceedings under this Schedule
+    - Powers for prosecutors to appear in proceedings
+      - [Sch. 1 para. 10Z9](schedule/1/paragraph/10Z9.md)
+  - PART 5 Property earmarked as terrorist property
+    - Property obtained through terrorism
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Property earmarked as terrorist property
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Tracing property
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Mixing property
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Accruing profits
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - General exceptions
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - PART 6 Interpretation
+    - Property
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Obtaining and disposing of property
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - General interpretation
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Terrorist property: amendments
+  - PART 1 Account monitoring orders
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PART 2 Restraint orders
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 3 Disclosure of information
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 4 Financial information orders
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Freezing orders
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Funds
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Making funds available
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Licences
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Information and documents
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Disclosure of information
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Offences
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Offences: procedure
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Offences by bodies corporate etc.
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Compensation
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Treasury’s duty to give reasons
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Extension of existing disclosure powers
+  - PART 1 Enactments to which section 17 applies
+    - Agricultural Marketing Act 1958 (c. 47)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Harbours Act 1964 (c. 40)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Cereals Marketing Act 1965 (c. 14)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Agriculture Act 1967 (c. 22)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Trade Descriptions Act 1968 (c. 29)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Sea Fish Industry Act 1970 (c. 11)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - National Savings Bank Act 1971 (c. 29)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Employment Agencies Act 1973 (c. 35)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Fair Trading Act 1973 (c. 41)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Prices Act 1974 (c. 24)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Health and Safety at Work etc. Act 1974 (c. 37)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Energy Act 1976 (c. 76)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - National Health Service Act 1977 (c. 49)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Estate Agents Act 1979 (c. 38)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Public Passenger Vehicles Act 1981 (c. 14)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Fisheries Act 1981 (c. 29)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Merchant Shipping (Liner Conferences) Act 1982 (c. 37)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Civil Aviation Act 1982 (c. 16)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Diseases of Fish Act 1983 (c. 30)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Telecommunications Act 1984 (c. 12)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Companies Act 1985 (c. 6)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Airports Act 1986 (c. 31)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Legal Aid (Scotland) Act 1986 (c. 47)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Consumer Protection Act 1987 (c. 43)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Companies Act 1989 (c. 40)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Broadcasting Act 1990 (c. 42)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Property Misdescriptions Act 1991 (c. 29)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Water Resources Act 1991 (c. 57)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - Timeshare Act 1992 (c. 35)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - Railways Act 1993 (c. 43)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - Coal Industry Act 1994 (c. 21)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - Shipping and Trading Interests (Protection) Act 1995 (c. 22)
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - Pensions Act 1995 (c. 26)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - Chemical Weapons Act 1996 (c. 6)
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - Bank of England Act 1998 (c. 11)
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - Audit Commission Act 1998 (c. 18)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - Data Protection Act 1998 (c. 29)
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - Police (Northern Ireland) Act 1998 (c. 32)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - Landmines Act 1998 (c. 33)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - Health Act 1999 (c. 8)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - Disability Rights Commission Act 1999 (c. 17)
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - Access to Justice Act 1999 (c. 22)
+      - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - Nuclear Safeguards Act 2000 (c. 5)
+      - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - Finance Act 2000 (c. 21)
+      - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - Postal Services Act 2000 (c. 26)
+      - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - Utilities Act 2000 (c. 27)
+      - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - Transport Act 2000 (c. 38)
+      - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+      - [Sch. 4 para. 53A](schedule/4/paragraph/53A.md)
+    - Equality Act 2006
+      - [Sch. 4 para. 53B](schedule/4/paragraph/53B.md)
+      - [Sch. 4 para. 53C](schedule/4/paragraph/53C.md)
+      - [Sch. 4 para. 53D](schedule/4/paragraph/53D.md)
+      - [Sch. 4 para. 53E](schedule/4/paragraph/53E.md)
+      - [Sch. 4 para. 53F](schedule/4/paragraph/53F.md)
+      - [Sch. 4 para. 53G](schedule/4/paragraph/53G.md)
+  - PART 2 Northern Ireland legislation to which section 17 applies
+    - Transport Act (Northern Ireland) 1967 (c. 37 (N.I.))
+      - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+      - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - Health and Safety at Work (Northern Ireland) Order 1978 (S.I. 1978/1039 (N.I. 9))
+      - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - Access to Justice (Northern Ireland) Order 2003
+      - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - Agricultural Marketing (Northern Ireland) Order 1982 (S.I. 1982/1080 (N.I. 12))
+      - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
+      - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - Consumer Protection (Northern Ireland) Order 1987 (S.I. 1987 (N.I. 20))
+      - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - Electricity (Northern Ireland) Order 1992 (S.I. 1992/231 (N.I. 1))
+      - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
+      - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+      - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - Gas (Northern Ireland) Order 1996 (S.I. 1996/275 (N.I. 2))
+      - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I. 6))
+      - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 21))
+      - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+- SCHEDULE 5 Pathogens and toxins
+  - VIRUSES
+  - RICKETTSIAE
+  - BACTERIA
+  - ...
+  - TOXINS
+  - Notes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 The Pathogens Access Appeal Commission
+  - Constitution and administration
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Procedure
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Transport police and MoD police: further provisions
+  - Police (Scotland) Act 1967 (c. 77)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Firearms Act 1968 (c. 27)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+- SCHEDULE 8 Repeals and revocation
+  - PART 1 Terrorist property
+  - PART 2 Freezing orders
+  - PART 3 Immigration and asylum
+  - PART 4 Race and religion
+  - PART 5 Civil nuclear security
+  - PART 6 Police powers
+  - PART 7 Miscellaneous
