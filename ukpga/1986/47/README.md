@@ -1,0 +1,213 @@
+# Legal Aid (Scotland) Act 1986
+
+1986 c. 47. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 36 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/47
+
+Source: https://www.legislation.gov.uk/ukpga/1986/47/2024-04-30
+
+## Contents
+
+- Part I Scottish Legal Aid Board
+  - The Board
+    - [s. 1 The Scottish Legal Aid Board.](section/1.md)
+    - [s. 2 Powers of the Board.](section/2.md)
+    - [s. 3 Duties of the Board.](section/3.md)
+  - The Fund
+    - [s. 4 Scottish Legal Aid Fund.](section/4.md)
+    - [s. 4A Power of Board to make grants for certain purposes](section/4A.md)
+    - [s. 5 Accounts and audit.](section/5.md)
+- Part II Advice and Assistance
+  - [s. 6 Definitions.](section/6.md)
+  - [s. 7 Application of Part II.](section/7.md)
+  - [s. 8 Availability of advice & assistance.](section/8.md)
+  - [s. 8A Criminal advice and assistance: automatic availability in certain circumstances](section/8A.md)
+  - [s. 9 Regulations may apply Part II to representation.](section/9.md)
+  - [s. 10 Financial limit.](section/10.md)
+  - [s. 11 Clients’ contributions: general](section/11.md)
+  - [s. 11A Clients’ contributions: specified criminal assistance by way of representation](section/11A.md)
+  - [s. 12 Payment of fees or outlays otherwise than through clients’ contributions.](section/12.md)
+  - Register of advice organisations
+    - [s. 12A Register of advice organisations](section/12A.md)
+    - [s. 12B Advice and assistance](section/12B.md)
+- Part III Civil Legal Aid
+  - [s. 13 Meaning of “civil legal aid”.](section/13.md)
+  - [s. 14 Availability of civil legal aid.](section/14.md)
+  - [s. 15 Financial conditions.](section/15.md)
+  - Expenses
+    - [s. 16 Expenses in favour of certain assisted persons.](section/16.md)
+    - [s. 17 Contributions, and payments out of property recovered.](section/17.md)
+    - [s. 18 Expenses of unassisted party.](section/18.md)
+    - [s. 19 Expenses out of the Fund.](section/19.md)
+    - [s. 20 Provisions supplementary to sections 18 and 19.](section/20.md)
+- Part IV Criminal Legal Aid
+  - [s. 21 Scope and nature of criminal legal aid.](section/21.md)
+  - [s. 22 Automatic availability of criminal legal aid.](section/22.md)
+  - [s. 23 Power of the court to grant legal aid.](section/23.md)
+  - [s. 23A Legal aid in solemn proceedings](section/23A.md)
+  - [s. 24 Legal aid in summary proceedings.](section/24.md)
+  - [s. 25 Legal aid in appeals.](section/25.md)
+  - [s. 25AA Legal aid in respect of appeals under section 303A of the 1995 Act.](section/25AA.md)
+  - [s. 25AB Legal aid in references, appeals or applications for special leave to appeal to the Supreme Court](section/25AB.md)
+- Part IVA Criminal Legal Assistance
+  - Registration
+    - [s. 25A Criminal Legal Assistance Register.](section/25A.md)
+  - Code of practice
+    - [s. 25B Code of practice in relation to criminal legal assistance.](section/25B.md)
+    - [s. 25C Supervision of registered solicitors and firms.](section/25C.md)
+  - Removal of name from Register
+    - [s. 25D Removal of name from Register following failure to comply with code.](section/25D.md)
+    - [s. 25E Further provision as to removal of name from Register.](section/25E.md)
+    - [s. 25F Publication of Register.](section/25F.md)
+- Part V Employment of Solicitors by the Board
+  - [s. 26 Employment to which Part V applies.](section/26.md)
+  - [s. 27 Arrangements for employment to which Part V applies.](section/27.md)
+  - [s. 28 General provisions relating to employment to which Part V applies.](section/28.md)
+  - [s. 28A Power of Board to employ solicitors to provide criminal assistance.](section/28A.md)
+- Part 5A Children’s legal aid
+  - [s. 28B Children’s legal aid](section/28B.md)
+  - [s. 28C Circumstances where children’s legal aid automatically available](section/28C.md)
+  - [s. 28D Availability of children’s legal aid: child](section/28D.md)
+  - [s. 28E Availability of children’s legal aid: relevant person](section/28E.md)
+  - [s. 28F Availability of children’s legal aid: appeals relating to deemed relevant person](section/28F.md)
+  - [s. 28G Conditions](section/28G.md)
+  - [s. 28H Board to establish review procedures](section/28H.md)
+  - [s. 28J Board’s power to require compliance with conditions](section/28J.md)
+  - [s. 28K Contributions to the Fund](section/28K.md)
+  - [s. 28L Power of Scottish Ministers to extend or restrict types of proceedings before children’s hearings in which children’s legal aid to be available](section/28L.md)
+  - [s. 28LA Power of Scottish Ministers to provide for children’s legal aid to be available to other persons in relation to court proceedings](section/28LA.md)
+  - [s. 28LB Power of Scottish Ministers to provide for children’s legal aid to be available in relation to proceedings under the Age of Criminal Responsibility (Scotland) Act 2019](section/28LB.md)
+- Part 5B Children’s legal assistance
+  - [s. 28M Register of solicitors and firms eligible to provide children’s legal assistance](section/28M.md)
+  - [s. 28N Code of practice](section/28N.md)
+  - [s. 28P Duty to comply with code of practice](section/28P.md)
+  - [s. 28Q Non-compliance with code of practice](section/28Q.md)
+  - [s. 28R Further provision as to removal of name from register](section/28R.md)
+  - [s. 28S Publication of register etc.](section/28S.md)
+- Part VI Miscellaneous
+  - Proceedings in relation to children
+    - [s. 29 Legal aid in respect of certain proceedings relating to children.](section/29.md)
+  - Contempt of court
+    - [s. 30 Legal aid in contempt proceedings.](section/30.md)
+  - Solicitors and counsel
+    - [s. 31 Solicitors and counsel.](section/31.md)
+    - [s. 32 Restriction on payment and employment of solicitor or counsel.](section/32.md)
+    - [s. 33 Fees and outlays of solicitors and counsel.](section/33.md)
+    - [s. 33ZA Regulations about contributions for criminal legal assistance](section/33ZA.md)
+  - Interim payments to solicitors and counsel
+    - [s. 33ZB Claim for interim payment](section/33ZB.md)
+    - [s. 33ZC Recovery where interim payment excessive](section/33ZC.md)
+  - Contracts for the provision of criminal legal assistance
+    - [s. 33A Contracts for the provision of criminal legal assistance.](section/33A.md)
+  - Contracts for the provision of children’s legal assistance
+    - [s. 33B Contracts for the provision of children’s legal assistance](section/33B.md)
+  - Information
+    - [s. 34 Confidentiality of information.](section/34.md)
+    - [s. 35 False information etc.](section/35.md)
+    - [s. 35A Power of Board to require information.](section/35A.md)
+    - [s. 35AA Information about legal services](section/35AA.md)
+  - Power of entry
+    - [s. 35B Power of Board to enter premises and investigate.](section/35B.md)
+  - Suspension of payments to solicitor
+    - [s. 35C Suspension of payments to solicitor.](section/35C.md)
+  - Regulations and rules of court
+    - [s. 36 Regulations.](section/36.md)
+    - [s. 37 Parliamentary procedure.](section/37.md)
+    - [s. 38 Rules of court.](section/38.md)
+  - Rights of indemnity
+    - [s. 39 Adaptation of rights to indemnity.](section/39.md)
+  - General
+    - [s. 40 Finance.](section/40.md)
+    - [s. 41 Interpretation.](section/41.md)
+    - [s. 41A Regulations in relation to criminal legal assistance.](section/41A.md)
+    - [s. 42 Disposable income and capital.](section/42.md)
+    - [s. 43 Act not to affect certain taxations etc.](section/43.md)
+    - [s. 43A Applications of Act to services provided under Law Reform (Miscellaneous Provisions) (Scotland) Act 1990.](section/43A.md)
+    - [s. 44 Crown application.](section/44.md)
+    - [s. 45 Amendments, transitional provisions, savings and repeals.](section/45.md)
+    - [s. 46 Short title, commencement and extent.](section/46.md)
+- SCHEDULE 1 The Scottish Legal Aid Board
+  - Incorporation and Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tenure of Members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration of members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Staff
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Proceedings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Allowances
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Instruments
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Board not dominus litis
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 1A Further provision in relation to the Register of Advice organisations
+  - Register of advice organisations
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Applications
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Further provision on applications
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Adviser code
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Monitoring
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Removal of name from the register of advice organisations
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Appeals
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+- SCHEDULE 2
+  - Part I Courts in which Civil Legal Aid is Available
+    - [Sch. 2 Pt. I para. 1](schedule/2/part/I/paragraph/1.md)
+    - [Sch. 2 Pt. I para. 2](schedule/2/part/I/paragraph/2.md)
+    - [Sch. 2 para. 2A Proceedings before the First-tier Tribunal for Scotland](schedule/2/paragraph/2A.md)
+    - [Sch. 2 Pt. I para. 3 Proceedings for judicial review before the Upper Tribunal](schedule/2/part/I/paragraph/3.md)
+  - Part II Excepted Proceedings
+    - [Sch. 2 Pt. II para. 1](schedule/2/part/II/paragraph/1.md)
+    - [Sch. 2 Pt. II para. 2](schedule/2/part/II/paragraph/2.md)
+    - [Sch. 2 Pt. II para. 3](schedule/2/part/II/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - The Maintenance Orders (Reciprocal Enforcement) Act 1972 (c.18)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c.25)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Sex Discrimination Act 1975 (c.65)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Race Relations Act 1976 (c.74)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Solicitors (Scotland) Act 1980 (c.46)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - The Tenants’ Rights, Etc. (Scotland) Act 1980 (c.52)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Transitional Provisions and Savings
+  - The Legal Aid (Scotland) fund
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Rights, obligations and property
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Legal aid and advice and assistance
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Pensions
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - General
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- Schedule 5 Repeals
