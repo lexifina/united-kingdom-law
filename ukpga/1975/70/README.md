@@ -1,0 +1,157 @@
+# Welsh Development Agency Act 1975
+
+1975 c. 70. Enacted 1975-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1975/70
+
+Source: https://www.legislation.gov.uk/ukpga/1975/70/2024-04-30
+
+## Contents
+
+- [s. 1 Welsh development.](section/1.md)
+- [s. 2 Constitution and status.](section/2.md)
+- [s. 3 ................................](section/3.md)
+- [s. 4 Ancillary powers.](section/4.md)
+- [s. 5 Assistance to Assembly from public authorities and other persons.](section/5.md)
+- [s. 6 Power to form committees.](section/6.md)
+- [s. 7 Dissolution of Welsh Industrial Estates Corporation.](section/7.md)
+- [s. 8 Transfer to Agency of land held under Local Employment Act 1972.](section/8.md)
+- [s. 9 Provision of sites and premises for industry.](section/9.md)
+- [s. 10 Services etc. for development of industry.](section/10.md)
+- [s. 10A Financial assistance for regeneration and development.](section/10A.md)
+- [s. 11 Application of Landlord and Tenant Act 1954 to Agency premises.](section/11.md)
+- [s. 12 ................................](section/12.md)
+- [s. 13 Welsh Industrial Development Advisory Board.](section/13.md)
+- [s. 14 Transfer of Publicly-owned property to Agency.](section/14.md)
+- [s. 15 The environment.](section/15.md)
+- [s. 16 Derelict land.](section/16.md)
+- [s. 17 Financial duties of the Agency.](section/17.md)
+- [s. 18 Borrowing and guarantees](section/18.md)
+- [s. 19 The Agency and the media.](section/19.md)
+- [s. 20 Other limits on Agency’s powers.](section/20.md)
+- [s. 21 Expenses.](section/21.md)
+- [s. 21A Powers of land acquisition.](section/21A.md)
+- [s. 21B Disposal of land.](section/21B.md)
+- [s. 21C Powers to advise on land matters.](section/21C.md)
+- [s. 22 ................................](section/22.md)
+- [s. 23 ................................](section/23.md)
+- [s. 24 Power to obtain information.](section/24.md)
+- [s. 25 Service of documents.](section/25.md)
+- [s. 26 ................................](section/26.md)
+- [s. 27 Interpretation.](section/27.md)
+- [s. 28 Orders and regulations.](section/28.md)
+- [s. 29 Citation etc.](section/29.md)
+- SCHEDULE 1
+  - Appointment and tenure of members of the Agency and of committees
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Remuneration etc.
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Disqualification of members of the Agency for House of Commons
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Proceedings
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Incorporation of Agency and execution of instruments and contracts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+    - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+  - Stamp duty
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Circulars
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Acquisition of holdings of minority shareholders
+    - [Sch. 1 para. 22 ................................](schedule/1/paragraph/22.md)
+- SCHEDULE 2
+  - Transfer of Staff
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Compensation for members or staff of the Corporation
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Continuity of employment
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Consequential repeals
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Borrowing and guarantees
+  - ...
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Borrowing Powers
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - ...
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Borrowing by wholly owned subsidiaries
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Guarantees
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - ...
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - ...
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - ...
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Acquisition of land
+  - Part I Compulsory acquisition
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 1A](schedule/4/paragraph/1A.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+    - [Sch. 4 para. 3B](schedule/4/paragraph/3B.md)
+  - Part II Acquisition by agreement
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part III “Cleansing”Provisions
+    - Extinguishment of rights over land compulsorily acquired
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - ...
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Use and development of consecrated land and burial grounds
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Use and development of land for open spaces
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Paragraphs 6 to 8: supplementary
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Extinguishment of rights of way, and rights as to apparatus, of statutory undertakers
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Orders under paragraph 11
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Notice for same purposes as paragraph 11 but given by statutory undertakers to Assembly
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Part IV Other provisions
+    - Rights of entry
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Displacement of legislation preventing possession
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Register of land holdings
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Information
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Regulations as to form of documents
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Local inquiries
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Crown land
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Offences by corporations
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
