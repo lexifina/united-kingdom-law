@@ -1,0 +1,346 @@
+# Licensing (Scotland) Act 2005
+
+asp/2005/16. Enacted 2005-12-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-04-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2005/16
+
+Source: https://www.legislation.gov.uk/asp/2005/16/2024-04-30
+
+## Contents
+
+- Part 1 Core provisions
+  - [s. 1 Prohibition of unlicensed sale of alcohol](section/1.md)
+  - [s. 2 Meaning of “alcohol”](section/2.md)
+  - [s. 3 Certain supplies of alcohol to be treated as sales](section/3.md)
+  - [s. 4 The licensing objectives](section/4.md)
+- Part 2 Licensing bodies and officers
+  - Licensing Boards
+    - [s. 5 Licensing Boards](section/5.md)
+    - [s. 6 Statements of licensing policy](section/6.md)
+    - [s. 7 Duty to assess overprovision](section/7.md)
+    - [s. 8 Applicants attempting to influence Board members](section/8.md)
+    - [s. 9 Licensing Board’s duty to keep a public register](section/9.md)
+    - [s. 9A Annual functions report](section/9A.md)
+    - [s. 9B Annual financial report](section/9B.md)
+  - Local Licensing Forums
+    - [s. 10 Local Licensing Forums](section/10.md)
+    - [s. 11 General functions of Local Licensing Forums](section/11.md)
+    - [s. 12 Licensing Boards’ duties in relation to Local Licensing Forums](section/12.md)
+  - Chief constables’ reports
+    - [s. 12A Chief constable’s reports to Licensing Boards and Local Licensing Forums](section/12A.md)
+  - Licensing Standards Officers
+    - [s. 13 Licensing Standards Officers](section/13.md)
+    - [s. 14 General functions of Licensing Standards Officers](section/14.md)
+    - [s. 15 Powers of entry, inspection and seizure](section/15.md)
+    - [s. 16 Training of Licensing Standards Officers](section/16.md)
+- Part 3 Premises licences
+  - Introductory
+    - [s. 17 Premises licence](section/17.md)
+    - [s. 18 Meaning of “appropriate Licensing Board”](section/18.md)
+    - [s. 19 Premises manager](section/19.md)
+  - Premises licence applications
+    - [s. 20 Application for premises licence](section/20.md)
+    - [s. 21 Notification of application](section/21.md)
+    - [s. 22 Objections and representations](section/22.md)
+    - [s. 23 Determination of premises licence application](section/23.md)
+    - [s. 24 Applicant’s duty to notify Licensing Board of convictions](section/24.md)
+    - [s. 24A Power to request antisocial behaviour report](section/24A.md)
+    - [s. 25 Further application after refusal of premises licence application](section/25.md)
+    - [s. 26 Issue of licence and summary](section/26.md)
+  - Conditions of premises licence
+    - [s. 27 Conditions of premises licence](section/27.md)
+    - [s. 27A Power of Board to vary premises licence conditions](section/27A.md)
+  - Duration of premises licence
+    - [s. 28 Period of effect of premises licence](section/28.md)
+  - Variation of premises licence
+    - [s. 29 Application to vary premises licence](section/29.md)
+    - [s. 30 Determination of application for variation](section/30.md)
+    - [s. 31 Variation to substitute new premises manager](section/31.md)
+    - [s. 32 Further application after refusal of application for variation](section/32.md)
+  - Transfer of premises licence
+    - [s. 33 Transfer on application of licence holder](section/33.md)
+    - [s. 34 Transfer on application of person other than licence holder](section/34.md)
+    - [s. 35 Variation on transfer](section/35.md)
+  - Review of premises licence
+    - [s. 36 Application for review of premises licence](section/36.md)
+    - [s. 37 Review of premises licence on Licensing Board’s initiative](section/37.md)
+    - [s. 38 Review hearing](section/38.md)
+    - [s. 39 Licensing Board’s powers on review](section/39.md)
+    - [s. 39A Notification of determinations](section/39A.md)
+    - [s. 39B Recall of revocation of licence under section 39(2A)](section/39B.md)
+    - [s. 40 Review of Licensing Board’s decision to vary or suspend licence](section/40.md)
+  - Connected persons
+    - [s. 40A Connected persons: licence holder’s duty to notify changes](section/40A.md)
+  - Conviction of licence holder etc. for relevant or foreign offence
+    - [s. 41 Duty to notify court of premises licence](section/41.md)
+    - [s. 42 Court’s duty to notify Licensing Board of convictions](section/42.md)
+    - [s. 43 Licence holder’s duty to notify Licensing Board of convictions](section/43.md)
+    - [s. 44 Procedure where Licensing Board receives notice of conviction](section/44.md)
+  - Premises under construction or conversion
+    - [s. 45 Provisional premises licence](section/45.md)
+    - [s. 46 Confirmation of provisional premises licence](section/46.md)
+    - [s. 47 Temporary premises licence](section/47.md)
+  - Updating of licence
+    - [s. 48 Notification of change of name or address](section/48.md)
+    - [s. 49 Licensing Board’s duty to update premises licence](section/49.md)
+  - Miscellaneous
+    - [s. 50 Certificates as to planning, building standards and food hygiene](section/50.md)
+    - [s. 51 Notification of determinations](section/51.md)
+    - [s. 52 Duty to keep, display and produce premises licence](section/52.md)
+    - [s. 53 Theft, loss etc. of premises licence or summary](section/53.md)
+    - [s. 54 Dismissal, resignation, death etc. of premises manager](section/54.md)
+    - [s. 55 Certified copies](section/55.md)
+- Part 4 Occasional licences
+  - [s. 56 Occasional licence](section/56.md)
+  - [s. 57 Notification of application to chief constable and Licensing Standards Officer](section/57.md)
+  - [s. 58 Objections and representations](section/58.md)
+  - [s. 59 Determination of application](section/59.md)
+  - [s. 60 Conditions of occasional licence](section/60.md)
+  - [s. 61 Notification of determinations](section/61.md)
+- Part 5 Licensed hours
+  - General
+    - [s. 62 Licensed hours](section/62.md)
+    - [s. 63 Prohibition of sale, consumption and taking away of alcohol outwith licensed hours](section/63.md)
+    - [s. 64 24 hour licences to be granted only in exceptional circumstances](section/64.md)
+    - [s. 65 Licensed hours: off-sales](section/65.md)
+    - [s. 66 Effect of start and end of British Summer Time](section/66.md)
+  - Occasional extensions
+    - [s. 67 Power for Licensing Board to grant general extensions of licensed hours](section/67.md)
+    - [s. 68 Extended hours applications](section/68.md)
+    - [s. 69 Notification of extended hours application](section/69.md)
+    - [s. 70 Determination of extended hours application](section/70.md)
+    - [s. 70A Extended hours applications: variation of conditions](section/70A.md)
+- Part 6 Personal licences
+  - Introductory
+    - [s. 71 Personal licence](section/71.md)
+  - Grant and renewal of personal licence
+    - [s. 72 Application for personal licence](section/72.md)
+    - [s. 73 Notification of application to chief constable](section/73.md)
+    - [s. 73A Notification of application to Licensing Standards Officer](section/73A.md)
+    - [s. 74 Determination of personal licence application](section/74.md)
+    - [s. 75 Applicant’s duty to notify Licensing Board of convictions](section/75.md)
+    - [s. 76 Issue of licence](section/76.md)
+    - [s. 77 Period of effect of personal licence](section/77.md)
+    - [s. 78 Renewal of personal licence](section/78.md)
+    - [s. 79 Notification of determinations](section/79.md)
+  - Conviction of licence holder for relevant or foreign offence
+    - [s. 80 Duty to notify court of personal licence](section/80.md)
+    - [s. 81 Court’s duty to notify Licensing Board of convictions](section/81.md)
+    - [s. 82 Licence holder’s duty to notify Licensing Board of convictions](section/82.md)
+    - [s. 83 Procedure where Licensing Board receives notice of conviction](section/83.md)
+  - Conduct inconsistent with licensing objectives
+    - [s. 84 Conduct inconsistent with the licensing objectives](section/84.md)
+    - [s. 84A Power of chief constable to report conduct inconsistent with the licensing objectives](section/84A.md)
+    - [s. 84B Power of Licensing Standards Officers to report conduct inconsistent with the licensing objectives](section/84B.md)
+  - Endorsements
+    - [s. 85 Expiry of endorsements](section/85.md)
+    - [s. 86 Suspension of licence after multiple endorsements](section/86.md)
+  - Licence holder’s duty to undertake training
+    - [s. 87 Licence holder’s duty to undertake training](section/87.md)
+  - Update of licence
+    - [s. 88 Notification of change of name or address](section/88.md)
+    - [s. 89 Licensing Board’s duty to update licence](section/89.md)
+  - Miscellaneous
+    - [s. 90 Power to specify which Licensing Board is to exercise functions under this Part](section/90.md)
+    - [s. 91 Power to prescribe licensing qualifications](section/91.md)
+    - [s. 92 Theft, loss etc. of personal licence](section/92.md)
+    - [s. 93 Licence holder’s duty to produce licence](section/93.md)
+- Part 7 Control of order
+  - Exclusion of violent offenders
+    - [s. 94 Exclusion orders](section/94.md)
+    - [s. 95 Breach of exclusion order](section/95.md)
+    - [s. 96 Exclusion orders: supplementary provision](section/96.md)
+  - Closure of premises
+    - [s. 97 Closure orders](section/97.md)
+    - [s. 98 Termination of closure orders](section/98.md)
+    - [s. 99 Extension of emergency closure order](section/99.md)
+    - [s. 100 Regulations as to closure orders](section/100.md)
+    - [s. 101 Interpretation of sections 97 to 100](section/101.md)
+- Part 8 Offences
+  - Offences relating to children and young people
+    - [s. 102 Sale of alcohol to a child or young person](section/102.md)
+    - [s. 103 Allowing the sale of alcohol to a child or young person](section/103.md)
+    - [s. 104 Sale of liqueur confectionery to a child](section/104.md)
+    - [s. 104A Supply of alcohol to a child](section/104A.md)
+    - [s. 104B Supply of alcohol to a young person](section/104B.md)
+    - [s. 105 Purchase of alcohol by a child or young person](section/105.md)
+    - [s. 106 Consumption of alcohol by a child or young person](section/106.md)
+    - [s. 107 Unsupervised sale of alcohol by a child or young person](section/107.md)
+    - [s. 108 Delivery of alcohol by or to a child or young person](section/108.md)
+    - [s. 109 Sending a child or young person to obtain alcohol](section/109.md)
+    - [s. 110 Duty to display notice](section/110.md)
+  - Drunkenness and disorderly conduct
+    - [s. 111 Drunk persons entering or in premises on which alcohol is sold](section/111.md)
+    - [s. 112 Obtaining of alcohol by or for a drunk person](section/112.md)
+    - [s. 113 Sale of alcohol to a drunk person](section/113.md)
+    - [s. 114 Premises manager, staff etc. not to be drunk](section/114.md)
+    - [s. 115 Disorderly conduct](section/115.md)
+    - [s. 116 Refusal to leave premises](section/116.md)
+  - Miscellaneous offences
+    - [s. 117 Offences relating to sale of alcohol to trade](section/117.md)
+    - [s. 118 Prohibition of unauthorised sale of alcohol on moving vehicles](section/118.md)
+    - [s. 119 Delivery of alcohol from vehicles etc.](section/119.md)
+    - [s. 120 Prohibition of late-night deliveries of alcohol](section/120.md)
+    - [s. 121 Keeping of smuggled goods](section/121.md)
+  - Interpretation of Part
+    - [s. 122 Interpretation of Part 8](section/122.md)
+- Part 9 Miscellaneous and general
+  - Excluded and exempt premises
+    - [s. 123 Excluded premises](section/123.md)
+    - [s. 124 Exempt premises](section/124.md)
+  - Special provision for certain clubs
+    - [s. 125 Special provisions for certain clubs](section/125.md)
+  - Vessels, vehicles and moveable structures
+    - [s. 126 Vessels, vehicles and moveable structures](section/126.md)
+    - [s. 127 Power to prohibit sale of alcohol on trains](section/127.md)
+    - [s. 128 Power to prohibit sale of alcohol on ferries](section/128.md)
+  - Relevant and foreign offences
+    - [s. 129 Relevant offences and foreign offences](section/129.md)
+    - [s. 130 Effect of appeal against conviction for relevant or foreign offence](section/130.md)
+  - Appeals
+    - [s. 131 Appeals](section/131.md)
+    - [s. 132 Appeals: supplementary provision](section/132.md)
+  - Procedures, forms etc.
+    - [s. 133 Hearings](section/133.md)
+    - [s. 133A How hearings may be held](section/133A.md)
+    - [s. 134 Form etc. of applications, proposals, notices and other communications](section/134.md)
+    - [s. 134A Offence of knowingly making a false statement in an application](section/134A.md)
+    - [s. 135 Power to relieve failure to comply with rules and other requirements](section/135.md)
+    - [s. 136 Fees](section/136.md)
+  - Miscellaneous
+    - [s. 137 Inspection of premises before grant of licence etc.](section/137.md)
+    - [s. 138 Police powers of entry](section/138.md)
+    - [s. 139 Remote sales of alcohol](section/139.md)
+    - [s. 140 Presumption as to liquid contents of containers](section/140.md)
+    - [s. 141 Offences by bodies corporate etc.](section/141.md)
+    - [s. 141A Defence of due diligence for certain offences](section/141A.md)
+    - [s. 141B Vicarious liability of premises licence holders and interested parties](section/141B.md)
+  - General
+    - [s. 142 Guidance](section/142.md)
+    - [s. 143 Crown application](section/143.md)
+    - [s. 144 Modification of enactments](section/144.md)
+    - [s. 145 Ancillary provision](section/145.md)
+    - [s. 146 Orders and regulations](section/146.md)
+    - [s. 147 Interpretation](section/147.md)
+    - [s. 148 Index of defined expressions](section/148.md)
+    - [s. 149 Repeals](section/149.md)
+    - [s. 150 Short title and commencement](section/150.md)
+- SCHEDULE 1 Licensing Boards
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Election of members
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Disqualification from membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Tenure of office etc.
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Removal of members from office
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Convener
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Removal of convener
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Administrative support
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation of functions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Training of members
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Proceedings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Transitional and transitory provision
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Local Licensing Forums
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Membership
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Convener
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Administrative support
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Meetings and proceedings
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Premises licences: mandatory conditions
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Compliance with the operating plan
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - The premises manager
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Authorisation of sales of alcohol
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Training of staff
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+    - [Sch. 3 para. 6B](schedule/3/paragraph/6B.md)
+  - Pricing of alcohol
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+  - Irresponsible drinks promotions
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Provision of non-alcoholic drinks
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Age verification policy
+    - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
+  - Payment of annual or recurring fees
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Notices – admission of persons under 18
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Baby changing facilities
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Display, or promotion of the sale, of alcohol for consumption off the premises
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Occasional licences: mandatory conditions
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Compliance with licence
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Authorisation of sales of alcohol
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Voluntary organisations
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+    - [Sch. 4 para. 5B](schedule/4/paragraph/5B.md)
+  - Pricing of alcohol
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 6A](schedule/4/paragraph/6A.md)
+  - Irresponsible drinks promotions
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Provision of non-alcoholic drinks
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Age verification policy
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Appeals
+  - Part 1 Appeals to the sheriff principal
+  - Part 2 Appeals to the sheriff
+- SCHEDULE 6 Modification of enactments
+  - Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Countryside (Scotland) Act 1967 (c. 86)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - New Towns (Scotland) Act 1968 (c. 16)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Civic Government (Scotland) Act 1982 (c. 45)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Crime and Punishment (Scotland) Act 1997 (c. 48)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Repeals
