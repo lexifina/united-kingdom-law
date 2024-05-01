@@ -1,0 +1,237 @@
+# Northern Ireland Troubles (Legacy and Reconciliation) Act 2023
+
+2023 c. 41. Enacted 2023-09-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2023/41/2024-05-01
+
+## Contents
+
+- PART 1 The Troubles
+  - [s. 1 Meaning of “the Troubles” and other key expressions](section/1.md)
+- PART 2 The Independent Commission for Reconciliation and Information Recovery
+  - The ICRIR, the Commissioners and ICRIR officers
+    - [s. 2 The Independent Commission for Reconciliation and Information Recovery](section/2.md)
+    - [s. 3 ICRIR officers](section/3.md)
+    - [s. 4 Actions of the ICRIR: safeguards](section/4.md)
+    - [s. 5 Full disclosure to the ICRIR](section/5.md)
+    - [s. 6 Operational powers of ICRIR officers](section/6.md)
+  - Admissibility of information provided to the ICRIR
+    - [s. 7 Admissibility of material in criminal proceedings](section/7.md)
+    - [s. 8 Admissibility of material in civil proceedings](section/8.md)
+  - Reviews of deaths and other harmful conduct
+    - [s. 9 Requests for reviews of deaths](section/9.md)
+    - [s. 10 Requests for reviews of other harmful conduct forming part of the Troubles](section/10.md)
+    - [s. 11 Requests for reviews: general provision](section/11.md)
+    - [s. 12 Reviews in connection with requests for immunity from prosecution](section/12.md)
+    - [s. 13 Conduct of reviews](section/13.md)
+    - [s. 14 Supply of information](section/14.md)
+    - [s. 15 Production of reports on the findings of reviews](section/15.md)
+    - [s. 16 Consultation on reports](section/16.md)
+    - [s. 17 Issuing and publication of reports](section/17.md)
+    - [s. 18 Reports: general provision](section/18.md)
+  - Immunity from prosecution
+    - [s. 19 Immunity from prosecution](section/19.md)
+    - [s. 20 Requests for immunity: procedural matters](section/20.md)
+    - [s. 21 Determining a request for immunity](section/21.md)
+    - [s. 22 The immunity requests panel](section/22.md)
+    - [s. 23 Personal statements by persons affected by deaths etc](section/23.md)
+    - [s. 24 Publication of personal statements](section/24.md)
+  - Information for prosecutors
+    - [s. 25 Information for prosecutors](section/25.md)
+  - Grants of immunity: revocation and false statements
+    - [s. 26 Subsequent convictions: revocation of immunity](section/26.md)
+    - [s. 27 False statements: offence](section/27.md)
+  - The historical record of deaths
+    - [s. 28 Production of the historical record](section/28.md)
+    - [s. 29 Publication of the historical record](section/29.md)
+  - Information
+    - [s. 30 Disclosure of information: general power and prohibitions](section/30.md)
+    - [s. 31 The ICRIR’s use of information obtained by it](section/31.md)
+    - [s. 32 Identifying information that is subject to additional safeguards](section/32.md)
+    - [s. 33 Guidance and protocols relating to information](section/33.md)
+    - [s. 34 Regulations about the holding and handling of information](section/34.md)
+  - Biometric material
+    - [s. 35 Biometric material](section/35.md)
+  - Supplementary
+    - [s. 36 Review of the performance of the ICRIR’s functions](section/36.md)
+    - [s. 37 Conclusion of the work of the ICRIR](section/37.md)
+- PART 3 Investigations, legal proceedings etc and release of prisoners
+  - Criminal investigations and proceedings
+    - [s. 38 No criminal investigations except through ICRIR reviews](section/38.md)
+    - [s. 39 Grant of immunity: prohibition of criminal enforcement action](section/39.md)
+    - [s. 40 No grant of immunity: restrictions on criminal enforcement action](section/40.md)
+    - [s. 41 Other Troubles-related offences: prohibition of criminal enforcement action](section/41.md)
+    - [s. 42 General provision and saving for ongoing pre-commencement action](section/42.md)
+  - Civil proceedings, inquests and police complaints
+    - [s. 43 Tort, delict and fatal accident actions](section/43.md)
+    - [s. 44 Inquests, investigations and inquiries](section/44.md)
+    - [s. 45 Police complaints](section/45.md)
+  - Interim custody orders
+    - [s. 46 Interim custody orders: validity](section/46.md)
+    - [s. 47 Interim custody orders: prohibition of proceedings and compensation](section/47.md)
+  - Release of prisoners
+    - [s. 48 Prisoner release](section/48.md)
+- PART 4 Memorialising the Troubles
+  - [s. 49 Oral history](section/49.md)
+  - [s. 50 The memorialisation strategy](section/50.md)
+  - [s. 51 Response to the memorialisation strategy](section/51.md)
+  - [s. 52 Academic research](section/52.md)
+  - [s. 53 Annual reports](section/53.md)
+  - [s. 54 Carrying out the Troubles-related work programme](section/54.md)
+  - [s. 55 The advisory forum](section/55.md)
+  - [s. 56 Designated persons and funding](section/56.md)
+  - [s. 57 Interpretation of this Part](section/57.md)
+- PART 5 Final provisions
+  - [s. 58 Consequential provision](section/58.md)
+  - [s. 59 Regulations](section/59.md)
+  - [s. 60 Interpretation](section/60.md)
+  - [s. 61 Application to the Crown](section/61.md)
+  - [s. 62 Extent](section/62.md)
+  - [s. 63 Commencement](section/63.md)
+  - [s. 64 Short title](section/64.md)
+- SCHEDULE 1 The ICRIR, the Commissioners and ICRIR officers
+  - PART 1 The ICRIR
+    - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Powers](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Regulation and validity of proceedings](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Delegation of functions and their exercise by the Commissioners](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Seal and proof of documents](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Accounts and audit](schedule/1/paragraph/6.md)
+  - PART 2 The Commissioners
+    - [Sch. 1 para. 7 Number of Commissioners](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Appointment](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Person holding public elected position not to be a Commissioner](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Terms of appointment of Commissioners](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Conflicts of interest](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Resignation and removal of Commissioners](schedule/1/paragraph/12.md)
+  - PART 3 The Chief Commissioner
+    - [Sch. 1 para. 13 Delegation of functions](schedule/1/paragraph/13.md)
+  - PART 4 The Commissioner for Investigations
+    - [Sch. 1 para. 14 Delegation of functions](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 No limitation on trade union activity](schedule/1/paragraph/15.md)
+  - PART 5 ICRIR officers
+    - [Sch. 1 para. 16 Employed ICRIR officers](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Seconded ICRIR officers](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Persons holding public elected positions not to be ICRIR officers](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Rehabilitation of offenders](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Liability for unlawful conduct](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 No limitation on trade union activity](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22 Meaning of “employed” and “seconded” ICRIR officer](schedule/1/paragraph/22.md)
+- SCHEDULE 2 Operational powers of ICRIR officers
+  - [Sch. 2 para. 1 Designations and designated ICRIR officers](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Effect of designation](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Exercise of the powers and privileges of a Scottish constable](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Limitations](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Duration of designation](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Evidence of designation](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Territorial restrictions](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Powers exercisable under warrant](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Direction and control of ICRIR officers exercising powers in Scotland](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Modification of references](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Assaulting a designated ICRIR officer](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Resisting, obstructing or impeding a designated ICRIR officer](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Impersonating a designated ICRIR officer](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Regulations](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Family members
+  - PART 1 Close family members
+    - [Sch. 3 para. 1 Meaning of “close family member”](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Co-habitee](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3 Step-child](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Step-parent](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Step-brother or step-sister](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Interpretation](schedule/3/paragraph/6.md)
+  - PART 2 Relevant family members
+    - [Sch. 3 para. 7 Meaning of “relevant family member”](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Supply of information: enforcement
+  - PART 1 Failure to comply with a notice
+    - [Sch. 4 para. 1 Penalty for failure to comply](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Notification of penalty decision](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Objection to penalty decision](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Appeals](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Enforcement of penalty](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Giving of notices](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Interpretation](schedule/4/paragraph/7.md)
+  - PART 2 Distortion or suppression of evidence etc
+    - [Sch. 4 para. 8 Distorting evidence etc](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Suppression of evidence etc](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Institution of proceedings](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Penalties](schedule/4/paragraph/11.md)
+- SCHEDULE 5 No immunity in certain circumstances
+  - PART 1 Sexual offence, existing conviction or ongoing prosecution
+    - [Sch. 5 para. 1 Application of this Part](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Prohibition of grant of immunity: sexual offences](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Prohibition of grant of immunity: conviction or ongoing prosecution](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Grant of immunity prohibited for all identified possible offences](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Grant of immunity prohibited for some identified possible offences](schedule/5/paragraph/5.md)
+  - PART 2 New request for immunity after revocation of previous grant
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Permitted disclosures of information
+  - PART 1 Disclosures that are “permitted”
+    - [Sch. 6 para. 1 Introduction](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2 Disclosure of any information to the Secretary of State](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3 Disclosure of sensitive information to certain recipients](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4 Disclosure of sensitive information notified in advance to the Secretary of State](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5 Disclosure of protected international information notified in advance to the Secretary of State](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6 The “relevant decision period”](schedule/6/paragraph/6.md)
+  - PART 2 Decisions to prohibit disclosures of sensitive information in final reports
+    - [Sch. 6 para. 7 Application of this Part](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8 Affected report to include statement of Secretary of State’s decision](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9 Initial appeals](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10 Bringing an initial appeal](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11 Further appeal against an initial appeal](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12 Application of the Justice and Security Act 2013](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13 Interpretation](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Offences relating to disclosure of information
+  - [Sch. 7 para. 1 Current and former Commissioners, ICRIR officers and ICRIR contractors](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Penalties](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Interpretation](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Identification of sensitive, prejudicial or protected international information
+  - PART 1 The ICRIR: identification of sensitive or prejudicial information
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - PART 2 Relevant authorities: identification of sensitive or prejudicial information
+    - [Sch. 8 para. 2 Information made available by a relevant authority](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3 Information made available by other persons](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4 Notifications under this Schedule](schedule/8/paragraph/4.md)
+  - PART 3 Secretary of State: identification of protected international information
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 Determination of whether the prohibition on civil actions applies
+  - [Sch. 9 para. 1 Actions that contravene a section 43 prohibition](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 Right of the Secretary of State to intervene](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Determination by the court](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Appeals etc](schedule/9/paragraph/4.md)
+- SCHEDULE 10 Civil actions to which the 2008 Mediation Directive applies
+  - [Sch. 10 para. 1 Prohibition on continuing or bringing actions which involved prior cross-border mediation](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Interpretation](schedule/10/paragraph/2.md)
+- SCHEDULE 11 Investigations, inquests and inquiries in England and Wales and Scotland
+  - PART 1 England and Wales: investigations and inquests
+    - [Sch. 11 para. 1 Coroners and Justice Act 2009](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2 Coroners Act 1988](schedule/11/paragraph/2.md)
+  - PART 2 Scotland: inquiries and investigations
+    - [Sch. 11 para. 3 Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016](schedule/11/paragraph/3.md)
+- SCHEDULE 12 Prisoner release
+  - [Sch. 12 para. 1 Amendment and saving of legislation](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Qualifying offences: offences committed between 1966 and 1973](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Offences equivalent to qualifying offences: offences committed between 1966 and 1973](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Interpretation of the 1998 Act](schedule/12/paragraph/4.md)
+- SCHEDULE 13 Amendments
+  - PART 1 The ICRIR
+    - [Sch. 13 para. 1 Prosecution of Offences Act 1985](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2 Northern Ireland Act 1998](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3 Police (Northern Ireland) Act 1998](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4 Freedom of Information Act 2000](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5 Justice (Northern Ireland) Act 2002](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6 Police Reform Act 2002](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7 Police, Public Order and Criminal Justice (Scotland) Act2006 (Consequential Provisions and Modifications) Order 2007](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8 Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9 Investigatory Powers Act 2016](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10 Data Protection Act 2018](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11 Sentencing Act 2020](schedule/13/paragraph/11.md)
+  - PART 2 Limitation of legal proceedings
+    - [Sch. 13 para. 12 Prescription and Limitation (Scotland) Act 1973](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13 Limitation Act 1980](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14 Foreign Limitation Periods Act 1984](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15 Foreign Limitation Periods (Northern Ireland) Order 1985 (S.I. 1985/754 (N.I. 5)](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16 Limitation (Northern Ireland) Order 1989 (S.I. 1989/1339 (N.I. 11))](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17 Merchant Shipping Act 1995](schedule/13/paragraph/17.md)
