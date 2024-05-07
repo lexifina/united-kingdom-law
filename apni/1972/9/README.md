@@ -1,0 +1,327 @@
+# Local Government Act (Northern Ireland) 1972
+
+apni/1972/9. Enacted 1972-03-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/apni/1972/9
+
+Source: https://www.legislation.gov.uk/apni/1972/9/2024-05-07
+
+## Contents
+
+- PART I DISTRICTS AND COUNCILS
+  - [s. 1 District councils.](section/1.md)
+  - [s. 2 Boroughs.](section/2.md)
+- PART II MEMBERS, MEETINGS AND PROCEDURE
+  - Councillors
+    - [s. 3 Qualifications.](section/3.md)
+    - [s. 4 Disqualifications.](section/4.md)
+    - [s. 5 Disqualifications to become inapplicable in certain cases.](section/5.md)
+    - [s. 6 Penalties for acting while disqualified.](section/6.md)
+    - [s. 7 Declaration on acceptance of office.](section/7.md)
+    - [s. 7A Northern Ireland code of local government conduct.](section/7A.md)
+    - [s. 8 Resignation.](section/8.md)
+    - [s. 9 Vacation of office on account of non-attendance.](section/9.md)
+    - [s. 10 Declaration of vacancy in office in certain cases.](section/10.md)
+  - Chairman and vice-chairman
+    - [s. 11 Chairman.](section/11.md)
+    - [s. 12 Payment of allowance to chairman.](section/12.md)
+    - [s. 12A Election of chairman.](section/12A.md)
+    - [s. 13 Vice-chairman.](section/13.md)
+    - [s. 14 Declaration of acceptance of office.](section/14.md)
+    - [s. 15 Resignation.](section/15.md)
+    - [s. 16 Vacation of office on account of absence from district.](section/16.md)
+    - [s. 17 Casual vacancy in office of chairman.](section/17.md)
+  - Committees
+    - [s. 18 Power to appoint committees and sub-committees.](section/18.md)
+    - [s. 19 Joint committees.](section/19.md)
+    - [s. 19A Voting rights of members of committees, sub-committees and joint committees.](section/19A.md)
+    - [s. 20 Expenses of joint committees.](section/20.md)
+    - [s. 21 Disqualification for membership of committees.](section/21.md)
+  - Procedure of council and committees
+    - [s. 22 Meetings and proceedings.](section/22.md)
+  - Admission to meetings
+    - [s. 23 Admission of public to meetings.](section/23.md)
+    - [s. 24 Information to be given as to meetings.](section/24.md)
+    - [s. 25 Facilities for newspaper representatives.](section/25.md)
+    - [s. 26 Certain publications to be privileged.](section/26.md)
+    - [s. 27 Savings.](section/27.md)
+  - Pecuniary interests
+    - [s. 28 Disclosure of councillors’ pecuniary interests and disability from voting on account thereof.](section/28.md)
+    - [s. 29 Restrictions on application of section 28.](section/29.md)
+    - [s. 30 Relatives of councillors.](section/30.md)
+    - [s. 31 Recovery of wrongful gains and remedies against councillor guilty of reprehensible conduct.](section/31.md)
+    - [s. 32 Ancillary powers of the High Court in exercising jurisdiction under section 31.](section/32.md)
+    - [s. 33 Time limit for proceedings under sections 28, 30 and 31.](section/33.md)
+  - General provisions as to councillors, chairman, vice-chairman and members of committees, etc.
+    - [s. 34 Re-election.](section/34.md)
+    - [s. 35 Validity of acts done by unqualified person.](section/35.md)
+    - [s. 36 Payments to councillors.](section/36.md)
+    - [s. 37 Expenses of official and courtesy visits, etc.](section/37.md)
+    - [s. 38 Expenses incurred in attending conferences and meetings.](section/38.md)
+    - [s. 39 Insurance against accidents to councillors.](section/39.md)
+- PART III OFFICERS
+  - [s. 40 The Staff Commission.](section/40.md)
+  - [s. 41 Appointment and qualification of officers.](section/41.md)
+  - [s. 41A Appointment of Officers by the Executive.](section/41A.md)
+  - [s. 41B Loans to officers for purchase of motor cars or motor cycles.](section/41B.md)
+  - [s. 42 Councillors not to be appointed officers.](section/42.md)
+  - [s. 44 Retirement of officers.](section/44.md)
+  - [s. 45 Insurance against default of officers.](section/45.md)
+  - [s. 46 Duty of officers to disclose pecuniary interest.](section/46.md)
+  - [s. 47 Prohibition of acceptance of unauthorised fee or reward.](section/47.md)
+  - [s. 47A Delegation of functions to officers.](section/47A.md)
+  - [s. 48 Protection for officer acting in execution of duty.](section/48.md)
+  - [s. 49 Officers of joint committee.](section/49.md)
+- PART IV ALTERATIONS OF DISTRICTS
+  - [s. 50 Local government boundaries](section/50.md)
+  - [s. 51 Change of name of district.](section/51.md)
+  - [s. 52 Supplemental provisions as to alterations of boundaries or names.](section/52.md)
+- PART V FINANCIAL PROVISIONS
+  - Annual budget and financial arrangements
+    - [s. 53 Annual budget.](section/53.md)
+    - [s. 54 Arrangements for handling receipts and payments.](section/54.md)
+  - Funds
+    - [s. 55 The district fund.](section/55.md)
+    - [s. 56 Power to establish capital fund and renewal and repairs fund.](section/56.md)
+    - [s. 57 Capital fund.](section/57.md)
+    - [s. 58 Renewal and repairs fund.](section/58.md)
+    - [s. 59 Proceeds of sale of capital assets.](section/59.md)
+    - [s. 60 Limitation on application of funds.](section/60.md)
+  - Borrowing
+    - [s. 61 Purposes for which money may be borrowed.](section/61.md)
+    - [s. 62 Modes of borrowing.](section/62.md)
+    - [s. 63 Security for borrowing.](section/63.md)
+    - [s. 64 Priority of securities.](section/64.md)
+    - [s. 65 Repayment of money borrowed.](section/65.md)
+    - [s. 66 Power to suspend annual provision for repayment of, and to borrow for payment of interest on, certain borrowed money.](section/66.md)
+    - [s. 67 Application of unexpended portion of borrowed money.](section/67.md)
+    - [s. 68 Power to re-borrow.](section/68.md)
+    - [s. 69 Lenders relieved from certain inquiries.](section/69.md)
+    - [s. 70 Securities regulations.](section/70.md)
+    - [s. 71 Appointment of receiver.](section/71.md)
+    - [s. 72 Consolidated loans fund.](section/72.md)
+    - [s. 73 Use of money forming part of capital fund or renewal and repairs fund.](section/73.md)
+  - Local government auditors
+    - [s. 74 Local government auditors.](section/74.md)
+    - [s. 75 Audit Fees](section/75.md)
+  - Audit
+    - [s. 76 Audit of accounts of councils.](section/76.md)
+    - [s. 77 Duties of officers as to audit.](section/77.md)
+    - [s. 77A Confidentiality of officers’ records.](section/77A.md)
+    - [s. 78 Production of, and declaration as to, documents.](section/78.md)
+    - [s. 79 Right to objection.](section/79.md)
+    - [s. 80 Auditor’s report.](section/80.md)
+  - Surcharge, etc.
+    - [s. 81 Declaration that item of account is unlawful.](section/81.md)
+    - [s. 82 Recovery of amount not accounted for, etc.](section/82.md)
+    - [s. 82A Power of auditor to issue prohibition order.](section/82A.md)
+    - [s. 82B Effect of and appeals against prohibition orders.](section/82B.md)
+    - [s. 82C Supplementary provisions as to prohibition orders.](section/82C.md)
+    - [s. 82D Power of auditor to apply for judicial review.](section/82D.md)
+  - Functions of Ministry as to accounts and audit
+    - [s. 87 Regulations as to accounts and audit.](section/87.md)
+    - [s. 88 Extraordinary audits and inspections.](section/88.md)
+  - Studies for improving economy, etc. of services
+    - [s. 89A Studies for improving economy, etc. of services.](section/89A.md)
+- PART VI BYE-LAWS
+  - [s. 90 Bye-laws.](section/90.md)
+  - [s. 91 Procedure, etc., for making bye-laws.](section/91.md)
+  - [s. 92 Penalties for contravention of bye-laws.](section/92.md)
+  - [s. 93 Enforcement of bye-laws.](section/93.md)
+  - [s. 94 Evidence of bye-laws.](section/94.md)
+- PART VII MISCELLANEOUS FUNCTIONS
+  - Land
+    - [s. 95 Provisions of offices, halls, etc.](section/95.md)
+    - [s. 96 Acquisition, etc., of land.](section/96.md)
+    - [s. 97 Acquisition of land otherwise than by agreement.](section/97.md)
+    - [s. 98 Power to enter on land.](section/98.md)
+  - Contracts
+    - [s. 99 Contracts of councils.](section/99.md)
+    - [s. 100 Sealing of contracts](section/100.md)
+  - Local and personal Bills
+    - [s. 101 Power to promote or oppose local or personal Bills.](section/101.md)
+    - [s. 102 Sanction of council to promotion of, or opposition to, Bills.](section/102.md)
+    - [s. 103 Taxation of costs.](section/103.md)
+  - Co-operation with other councils, public bodies and government departments
+    - [s. 104 Agency arrangements](section/104.md)
+    - [s. 105 Arrangements for the supply of goods and services or interchange of staff.](section/105.md)
+    - [s. 106 Contribution to other councils, etc.](section/106.md)
+  - Co-operation with voluntary bodies, etc.
+    - [s. 107 Contributions for development of trade, tourism and cultural activities.](section/107.md)
+    - [s. 108 Contributions to other voluntary bodies.](section/108.md)
+  - Advice and information
+    - [s. 109 Instruction, lectures, etc., on questions relating to the functions of councils.](section/109.md)
+    - [s. 110 Information centres.](section/110.md)
+  - Other miscellaneous functions
+    - [s. 111 Subscriptions.](section/111.md)
+    - [s. 112 Insurance.](section/112.md)
+    - [s. 113 Exercise of certain functions outside district.](section/113.md)
+    - [s. 113A Power to provide advice and assistance.](section/113A.md)
+    - [s. 114 Acceptance of gifts.](section/114.md)
+    - [s. 115 Expenditure for special purposes.](section/115.md)
+  - Publicity
+    - [s. 115A Publicity Prohibition of political publicity.](section/115A.md)
+    - [s. 115B Codes of recommended practice as regards publicity.](section/115B.md)
+    - [s. 115C Separate account of expenditure on publicity.](section/115C.md)
+    - [s. 115D Sections 115A to 115C: supplementary provisions.](section/115D.md)
+- PART VIII LEGAL AND ADMINISTRATIVE
+  - Legal proceedings
+    - [s. 116 Power to prosecute or defend.](section/116.md)
+    - [s. 117 Appearance in legal proceedings.](section/117.md)
+    - [s. 118 Name of council need not be proved.](section/118.md)
+    - [s. 119 Evidence of resolutions, etc.](section/119.md)
+  - Administrative provisions
+    - [s. 120 The seal.](section/120.md)
+    - [s. 121 Inspection of documents.](section/121.md)
+    - [s. 122 Public notices.](section/122.md)
+    - [s. 123 Penalty for destroying notices.](section/123.md)
+    - [s. 124 Authentication of documents.](section/124.md)
+    - [s. 125 Custody of records.](section/125.md)
+    - [s. 126 Compensation for damage by council.](section/126.md)
+  - Supervision of councils
+    - [s. 127 Information, reports and returns.](section/127.md)
+    - [s. 128 Inquiries and investigations.](section/128.md)
+    - [s. 129 Default of council.](section/129.md)
+  - Jurisdiction of High Court
+    - [s. 130 Exercise of jurisdiction of High Court.](section/130.md)
+- PART IX ABOLITION OF EXISTING LOCAL AUTHORITIES AND TRANSITIONAL PROVISIONS
+  - [s. 131 Abolition of existing local government areas and dissolution of existing local authorities, with certain exceptions.](section/131.md)
+  - [s. 132 Charters](section/132.md)
+  - [s. 133 Transfer of functions.](section/133.md)
+  - [s. 134 Supplementary and transitional provisions.](section/134.md)
+  - [s. 135 Transfer of officers](section/135.md)
+  - [s. 136 Superannuation officers.](section/136.md)
+  - [s. 137 Compensation of officers](section/137.md)
+  - [s. 140 Bye-laws, etc.](section/140.md)
+- PART X GENERAL
+  - [s. 142 Application of Act to joint committees.](section/142.md)
+  - [s. 143 Orders and regulations.](section/143.md)
+  - [s. 145 Payments due by councils to government departments, etc.](section/145.md)
+  - [s. 146 Interpretation: pecuniary interests.](section/146.md)
+  - [s. 147 Interpretation: “provide” and “maintain”.](section/147.md)
+  - [s. 148 General interpretation.](section/148.md)
+  - [s. 149 Amendments, repeals and savings.](section/149.md)
+  - [s. 150 Short title and commencement.](section/150.md)
+- SCHEDULE 1 DECLARATIONS ON ACCEPTANCE OF OFFICE
+  - PART I DECLARATION OF COUNCILLOR
+- SCHEDULE 2 MEETINGS AND PROCEEDINGS OF COUNCILS AND COMMITTEES
+    - Holding of meetings
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Convening meetings
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Chairman of meeting
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Quorum
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Names of councillors present to be recorded
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Person authorised by Ministry may attend meetings
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Decision on questions
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Mode of voting
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Minutes
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Standing orders
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Vacancies, etc., not to invalidate proceedings
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Proceedings of committees
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 THE STAFF COMMISSION
+    - Members
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Allowances
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+    - Expenses
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Borrowing
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Accounts, etc., and audit
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Information, reports and returns
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 LOCAL GOVERNMENT BOUNDARIES COMMISSIONER
+  - PART I APPOINTMENT, ETC.
+    - Interpretation
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Appointment
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Assistant Commissioners and assessors
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Officers
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Remuneration and expenses
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART II PROCEDURE
+    - Procedure for Commissioner appointed under section 50(1)(a)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Procedure for Commissioner appointed under section 50(1)(b)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Procedure for Commissioner appointed under section 50(4)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Commissioner’s procedure - general
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - PART III RULES IN ACCORDANCE WITH WHICH RECOMMENDATIONS OF A COMMISSIONER ARE TO BE MADE
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+- SCHEDULE 5
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 ACQUISITION OF LAND BY VESTING ORDER
+    - Preliminary procedure
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Making of vesting order
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Validity and operation of vesting orders
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Reference of disputed cases to the Lands Tribunal
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Special powers of the Lands Tribunal
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Satisfaction of claims
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Payment of Ministry’s costs by council
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Interpretation
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+- SCHEDULE 7 PROVISIONS APPLIED TO JOINT COMMITTEES
