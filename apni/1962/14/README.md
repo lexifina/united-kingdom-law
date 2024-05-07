@@ -1,0 +1,361 @@
+# Electoral Law Act (Northern Ireland) 1962
+
+apni/1962/14. Enacted 1962-03-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1962/14/2024-05-07
+
+## Contents
+
+- PART III LOCAL AUTHORITIES
+  - [s. 11 Election and term of office of members of district councils.](section/11.md)
+  - [s. 11A Procedures for filling casual vacancies: interpretation](section/11A.md)
+  - [s. 11B Initial response to vacancy](section/11B.md)
+  - [s. 11C Independent members: list of substitutes](section/11C.md)
+  - [s. 11D Independent members: filling casual vacancies](section/11D.md)
+  - [s. 11E Members for registered parties: filling casual vacancies](section/11E.md)
+  - [s. 11F Members for two or more registered parties: filling casual vacancies](section/11F.md)
+  - [s. 11G Party or parties no longer registered](section/11G.md)
+  - [s. 11H Transitional provision for previously co-opted members](section/11H.md)
+  - [s. 11J Transitional provision for elected members](section/11J.md)
+  - [s. 11K Unfilled vacancies in a local election year](section/11K.md)
+- PART IV OFFICERS
+  - [s. 14 Appointment of Chief Electoral Officer.](section/14.md)
+  - [s. 14A Appointment of persons to assist Chief Electoral Officer.](section/14A.md)
+  - [s. 14B Travelling and subsistence allowances.](section/14B.md)
+  - [s. 15 Duties of Chief Electoral Officer.](section/15.md)
+  - [s. 21 Expenses of registration.](section/21.md)
+  - [s. 22 Remuneration and expenses of returning officer at parliamentary election.](section/22.md)
+  - [s. 23 Remuneration and expenses of Chief Electoral Officer and other persons at local election.](section/23.md)
+  - [s. 24 Claims against, and taxation of expenses of, returning officer.](section/24.md)
+  - [s. 25 Remuneration retainable by officers.](section/25.md)
+  - [s. 27 Mutual assistance by officers, etc.](section/27.md)
+- PART V REGISTRATION OF ELECTORS AND VOTING
+  - [s. 28 Preparation and publication of registers.](section/28.md)
+  - [s. 29 Miscellaneous provisions as to registration and voting.](section/29.md)
+- PART VI THE ELECTION CAMPAIGN
+  - [s. 34 Appointment of election agent.](section/34.md)
+  - [s. 35 Sub-agents at parliamentary elections.](section/35.md)
+  - [s. 36 Offices of election agent and sub-agent.](section/36.md)
+  - [s. 37 Default in appointing election agent.](section/37.md)
+  - [s. 37A Control of donations to candidates at local elections](section/37A.md)
+  - [s. 38 Making of contracts through election agent.](section/38.md)
+  - [s. 39 Payment of expenses through an election agent](section/39.md)
+  - [s. 40 Personal expenses of candidate and petty expenses at an election.](section/40.md)
+  - [s. 40A Expenses incurred at a local election otherwise than for election purposes](section/40A.md)
+  - [s. 41 Prohibition of unauthorised expenses.](section/41.md)
+  - [s. 42 Limitation of election expenses](section/42.md)
+  - [s. 43 Time for sending in and paying claims.](section/43.md)
+  - [s. 44 Disputed claims.](section/44.md)
+  - [s. 45 Claim by election agent at an election.](section/45.md)
+  - [s. 46 return as to election expenses](section/46.md)
+  - [s. 47 Declarations as to expenses at a parliamentary election.](section/47.md)
+  - [s. 48 Penalty for sitting or voting after failure to transmit return and declarations.](section/48.md)
+  - [s. 49 Authorised excuses for failures as respects return and declarations.](section/49.md)
+  - [s. 50 Power of court to require information from election agent or sub-agent.](section/50.md)
+  - [s. 51 Publication of summary of return as to election expenses at elections.](section/51.md)
+  - [s. 52 Inspection of returns and declarations.](section/52.md)
+  - [s. 52A Meaning of “election expenses” at a local election](section/52A.md)
+  - [s. 52B Property, goods, services etc provided free of charge or at a discount](section/52B.md)
+  - [s. 53 Right to send election address post free.](section/53.md)
+  - [s. 54 Rateability of premises unaffected by election meeting thereon.](section/54.md)
+  - [s. 55 Duty on and licences for carriages, etc., used at elections.](section/55.md)
+  - [s. 56 Rights of creditors.](section/56.md)
+- PART VII CONDUCT OF ELECTIONS
+  - [s. 57 Rules for conduct of elections.](section/57.md)
+  - [s. 57A Returning officers: correction of procedural errors](section/57A.md)
+  - [s. 58 Saving as respects acts, etc., of officers.](section/58.md)
+  - [s. 59 Returning officer not disqualified for voting.](section/59.md)
+  - [s. 60 Candidates’ deposits.](section/60.md)
+  - [s. 61 Return or disposal of deposit.](section/61.md)
+  - [s. 62 Plural candidatures prohibited.](section/62.md)
+  - [s. 63 Offices of returning officers at parliamentary elections.](section/63.md)
+  - [s. 64 Offices of returning officers at local elections.](section/64.md)
+  - [s. 65 Polling station schemes.](section/65.md)
+  - [s. 66 Voting by post.](section/66.md)
+  - [s. 67 Voting by proxy.](section/67.md)
+- Part VIII (ss.69—71) rep. by 1968 c.20 (NI)
+- PART IX QUESTIONING OF ELECTIONS
+  - [s. 72 Election courts.](section/72.md)
+  - [s. 73 Attendance of Director of Public Prosecutions at trial of election petition.](section/73.md)
+  - [s. 74 Method of questioning parliamentary election.](section/74.md)
+  - [s. 75 Presentation and service of parliamentary election petition.](section/75.md)
+  - [s. 76 Time for presentation or amendment of parliamentary election petition.](section/76.md)
+  - [s. 77 Conclusion of trial of parliamentary election petition.](section/77.md)
+  - [s. 78 Method of questioning local election.](section/78.md)
+  - [s. 79 Presentation and service of local election petition.](section/79.md)
+  - [s. 80 Time for presentation or amendment of local election petition.](section/80.md)
+  - [s. 81 Conclusion of trial of local election petition.](section/81.md)
+  - [s. 82 Consequences of avoidance of local election.](section/82.md)
+  - [s. 83 Special case for determination of Court of Appeal.](section/83.md)
+  - [s. 84 Withdrawal of petition.](section/84.md)
+  - [s. 91 Costs of petition.](section/91.md)
+  - [s. 92 Further provision as to costs of petition.](section/92.md)
+  - [s. 93 Jurisdiction.](section/93.md)
+  - [s. 94 Report as to candidate guilty of a corrupt or illegal practice.](section/94.md)
+  - [s. 95 Avoidance of election and incapacity of candidate reported guilty of a corrupt or illegal practice.](section/95.md)
+  - [s. 96 Provisions applying to all persons reported personally guilty of a corrupt or illegal practice.](section/96.md)
+  - [s. 97 Disciplinary action on report of corrupt practice.](section/97.md)
+  - [s. 98 Avoidance of election for general corruption, etc.](section/98.md)
+  - [s. 99 Avoidance of election for employing corrupt agent.](section/99.md)
+  - [s. 100 Votes to be struck off for corrupt or illegal practices.](section/100.md)
+  - [s. 101 Service of notices, etc.](section/101.md)
+  - [s. 102 Rules of court.](section/102.md)
+- PART X ELECTORAL MISDEMEANOURS
+  - [s. 103 Electoral misdemeanours.](section/103.md)
+  - [s. 104 Giving of leave of absence to employees to record their votes.](section/104.md)
+  - [s. 105 Prosecution and trial of electoral misdemeanours.](section/105.md)
+  - [s. 106 Prosecution of offences disclosed on election petition.](section/106.md)
+  - [s. 107 Power to except innocent act from being illegal practice, payment, employment....](section/107.md)
+  - [s. 108 Penalties for corrupt practices.](section/108.md)
+  - [s. 109 Penalty for illegal practices.](section/109.md)
+  - [s. 110 Compensation where charge of personation is unjustly made or not prosecuted.](section/110.md)
+  - [s. 111 Penalties for electoral offences by officers and other persons.](section/111.md)
+  - [s. 112 Incapacities resulting from convictions for corrupt or illegal practices.](section/112.md)
+  - [s. 113 Mitigation and remission of incapacities.](section/113.md)
+  - [s. 114 Corrupt and illegal practices committed by agents.](section/114.md)
+  - [s. 115 Prosecutions for offences committed outside Northern Ireland.](section/115.md)
+  - [s. 116 Evidence by certificate of holding of elections.](section/116.md)
+  - [s. 118 Time limit for prosecutions.](section/118.md)
+  - [s. 119 Offences by corporations.](section/119.md)
+  - [s. 120 Provisions as to Director of Public Prosecutions.](section/120.md)
+- PART XI MISCELLANEOUS AND GENERAL
+  - [s. 122 Effect of incapacities with respect to the Parliament of the United Kingdom.](section/122.md)
+  - [s. 122A Translations etc. of certain documents](section/122A.md)
+  - [s. 123 Publication of notices and documents.](section/123.md)
+  - [s. 124 Misnomer, inaccurate description, etc.](section/124.md)
+  - [s. 125 Use of mark in place of signature.](section/125.md)
+  - [s. 126 Amendment of forms in Tenth Schedule.](section/126.md)
+  - [s. 127 Electoral regulations.](section/127.md)
+  - [s. 128 Financial provisions.](section/128.md)
+  - [s. 129](section/129.md)
+  - [s. 130 Interpretation.](section/130.md)
+  - [s. 131 Savings.](section/131.md)
+  - [s. 132 Short title.](section/132.md)
+- Schedule 1 rep. by 1989 c. 3
+- Schedule 2 rep. by 1968 c.20 (NI); SI 1973/2163
+- Schedule 3 rep. by 1989 c. 3
+- SCHEDULE 3A CONTROL OF DONATIONS TO CANDIDATES AT A LOCAL ELECTION
+  - Part 1 Introductory
+    - [Sch. 3A para. 1 Operation and interpretation of Schedule](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2 Donations: general rules](schedule/3A/paragraph/2.md)
+    - [Sch. 3A para. 3 Sponsorship](schedule/3A/paragraph/3.md)
+    - [Sch. 3A para. 4 Payments etc not to be regarded as donations](schedule/3A/paragraph/4.md)
+    - [Sch. 3A para. 5 Value of donations](schedule/3A/paragraph/5.md)
+  - Part 2 Controls on donations
+    - [Sch. 3A para. 6 Prohibition on accepting donations from impermissible donors](schedule/3A/paragraph/6.md)
+    - [Sch. 3A para. 7 Acceptance or return of donations](schedule/3A/paragraph/7.md)
+    - [Sch. 3A para. 8 Transfer of donations received by candidate to election agent](schedule/3A/paragraph/8.md)
+    - [Sch. 3A para. 9 Evasion of restrictions on donations](schedule/3A/paragraph/9.md)
+  - Part 3 Reporting of donations
+    - [Sch. 3A para. 10 Statement of relevant donations](schedule/3A/paragraph/10.md)
+    - [Sch. 3A para. 11 Donations from permissible donors](schedule/3A/paragraph/11.md)
+    - [Sch. 3A para. 12 Donations from impermissible donors](schedule/3A/paragraph/12.md)
+- SCHEDULE 3B LOCAL ELECTION: ELECTION EXPENSES
+  - Part 1 List of Matters
+    - [Sch. 3B para. 1](schedule/3B/paragraph/1.md)
+    - [Sch. 3B para. 2](schedule/3B/paragraph/2.md)
+    - [Sch. 3B para. 3](schedule/3B/paragraph/3.md)
+    - [Sch. 3B para. 4](schedule/3B/paragraph/4.md)
+    - [Sch. 3B para. 5](schedule/3B/paragraph/5.md)
+    - [Sch. 3B para. 6](schedule/3B/paragraph/6.md)
+  - Part 2 General Exclusions
+    - [Sch. 3B para. 7](schedule/3B/paragraph/7.md)
+    - [Sch. 3B para. 8](schedule/3B/paragraph/8.md)
+    - [Sch. 3B para. 9](schedule/3B/paragraph/9.md)
+    - [Sch. 3B para. 10](schedule/3B/paragraph/10.md)
+    - [Sch. 3B para. 11](schedule/3B/paragraph/11.md)
+    - [Sch. 3B para. 12](schedule/3B/paragraph/12.md)
+    - [Sch. 3B para. 13](schedule/3B/paragraph/13.md)
+- Schedule 4 rep. by SLR 1980
+- SCHEDULE 5 Local Elections Rules
+  - Part I Provisions as to Time and Interpretation
+    - [Sch. 5 para. 1 Timetable](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Computation of time](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3 Returning officer](schedule/5/paragraph/3.md)
+    - [Sch. 5 Pt. I para. 3A Forms](schedule/5/part/I/paragraph/3A.md)
+  - Part II Stages Common to Contested and Uncontested Elections
+    - [Sch. 5 para. 4 Notice of election](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5 Nomination of candidates](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 5A Nomination papers: name of registered political party](schedule/5/paragraph/5A.md)
+    - [Sch. 5 para. 6 Subscription of nomination paper](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7 Consent to nomination](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8 Place for delivery of nomination papers](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9 Right to attend nomination](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10 Decisions as to validity of nomination papers](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11 Withdrawal of candidates](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12 Publication of nominations](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 12A Correction of minor errors](schedule/5/paragraph/12A.md)
+    - [Sch. 5 para. 13 Adjournment of nomination proceedings in case of riot](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14 Method of election](schedule/5/paragraph/14.md)
+  - Part III Contested Elections
+    - [Sch. 5 para. 15 Poll to be taken by ballot](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16 The ballot papers](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 16A Corresponding number list](schedule/5/paragraph/16A.md)
+    - [Sch. 5 para. 16B Date of birth lists](schedule/5/paragraph/16B.md)
+    - [Sch. 5 para. 17 The official mark](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18 Prohibition of disclosure of vote](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19 Use of schools and public rooms](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20 Notice of poll](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21 Postal ballot papers](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22 Provision of polling stations](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23 Appointment of presiding officers and clerks](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 25 Issue of official poll cards](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26 Equipment of polling stations](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27 Appointment of polling and counting agents](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28 Notification of requirement of secrecy](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29 Admission to polling station](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30 Keeping of order in station](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31 Sealing of ballot boxes](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32 Questions to be put to voters](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33 Challenge of voter](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34 Voting procedure and voter identification requirements](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 34A Disclosure of information regarding ballot papers](schedule/5/paragraph/34A.md)
+    - [Sch. 5 para. 35 Votes marked by presiding officer](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36 Voting by persons with disabilities](schedule/5/paragraph/36.md)
+    - [Sch. 5 para. 37 Tendered ballot papers](schedule/5/paragraph/37.md)
+    - [Sch. 5 para. 37A Tendered postal ballot papers: anonymous entries](schedule/5/paragraph/37A.md)
+    - [Sch. 5 para. 38 Refusal to deliver ballot paper](schedule/5/paragraph/38.md)
+    - [Sch. 5 para. 39 Spoilt ballot papers](schedule/5/paragraph/39.md)
+    - [Sch. 5 para. 39A Correction of errors on day of poll](schedule/5/paragraph/39A.md)
+    - [Sch. 5 para. 40 Adjournment of poll in case of riot](schedule/5/paragraph/40.md)
+    - [Sch. 5 para. 41 Procedure on close of poll](schedule/5/paragraph/41.md)
+  - Part IV Counting of Votes
+    - [Sch. 5 para. 42 Interpretation](schedule/5/paragraph/42.md)
+    - [Sch. 5 para. 43 Place and time for, and manner of, counting of votes](schedule/5/paragraph/43.md)
+    - [Sch. 5 para. 44 Attendance at counting of votes](schedule/5/paragraph/44.md)
+    - [Sch. 5 para. 45 Preliminary proceedings and conduct of the count](schedule/5/paragraph/45.md)
+    - [Sch. 5 para. 46 Rejected ballot papers](schedule/5/paragraph/46.md)
+    - [Sch. 5 para. 47 First stage](schedule/5/paragraph/47.md)
+    - [Sch. 5 para. 48 The quota](schedule/5/paragraph/48.md)
+    - [Sch. 5 para. 49 Transfer of votes](schedule/5/paragraph/49.md)
+    - [Sch. 5 para. 50 Supplementary provisions on transfer](schedule/5/paragraph/50.md)
+    - [Sch. 5 para. 51 Exclusion of candidates](schedule/5/paragraph/51.md)
+    - [Sch. 5 para. 52 Filling of last vacancies](schedule/5/paragraph/52.md)
+    - [Sch. 5 para. 53 Re-count](schedule/5/paragraph/53.md)
+    - [Sch. 5 para. 53A Ballot papers in wrong box](schedule/5/paragraph/53A.md)
+    - [Sch. 5 para. 54 Order of election of candidates](schedule/5/paragraph/54.md)
+    - [Sch. 5 para. 55 Decisions of returning officer](schedule/5/paragraph/55.md)
+  - Part V Final Proceedings in Contested and Uncontested Elections
+    - [Sch. 5 para. 56 Declaration of result](schedule/5/paragraph/56.md)
+    - [Sch. 5 para. 56A Destruction of home address forms and date of birth lists](schedule/5/paragraph/56A.md)
+  - Part VI Disposal of Documents
+    - [Sch. 5 para. 57 Sealing up of ballot papers](schedule/5/paragraph/57.md)
+    - [Sch. 5 para. 58 Forwarding of documents](schedule/5/paragraph/58.md)
+    - [Sch. 5 para. 59 Orders for production of documents](schedule/5/paragraph/59.md)
+    - [Sch. 5 para. 60 Retention... of documents](schedule/5/paragraph/60.md)
+  - Part VII Death of Candidate
+    - [Sch. 5 para. 61 Independent candidate](schedule/5/paragraph/61.md)
+    - [Sch. 5 para. 62 Deceased independent candidate’s votes are equal to or exceed the quota](schedule/5/paragraph/62.md)
+    - [Sch. 5 para. 63 Party candidate](schedule/5/paragraph/63.md)
+    - [Sch. 5 para. 64 Abandoned poll](schedule/5/paragraph/64.md)
+    - APPENDIX OF FORMS
+    - Front of form
+    - ELECTION OF DISTRICT COUNCILLORS
+    - DECLARATION OF IDENTITY
+    - Back of form
+    - INSTRUCTIONS TO THE VOTER
+- Schedule 6 rep. by 1968 c. 20 (NI)
+- SEVENTH SCHEDULE PROXIES
+  - PART I [Title rep. by 1968 c.20 (NI) s.8 sch.4 Pt.I]
+    - [Sch. SEVENTH para. 1](schedule/SEVENTH/paragraph/1.md)
+    - [Sch. SEVENTH para. 2](schedule/SEVENTH/paragraph/2.md)
+    - [Sch. SEVENTH para. 3](schedule/SEVENTH/paragraph/3.md)
+  - Part II rep. by 1968 c.20 (NI)
+- EIGHTH SCHEDULE ELECTION COURTS
+  - Powers of election courts
+    - [Sch. EIGHTH para. 1](schedule/EIGHTH/paragraph/1.md)
+  - Place of trial
+    - [Sch. EIGHTH para. 2](schedule/EIGHTH/paragraph/2.md)
+  - Reception of and attendance on election judges, etc.
+    - [Sch. EIGHTH para. 3](schedule/EIGHTH/paragraph/3.md)
+  - Local election courts
+    - [Sch. EIGHTH para. 4](schedule/EIGHTH/paragraph/4.md)
+  - Shorthand writers
+    - [Sch. EIGHTH para. 5](schedule/EIGHTH/paragraph/5.md)
+  - Expenses of local election courts
+    - [Sch. EIGHTH para. 6](schedule/EIGHTH/paragraph/6.md)
+  - Provisions as to security for costs
+    - [Sch. EIGHTH para. 7](schedule/EIGHTH/paragraph/7.md)
+  - Petition at issue
+    - [Sch. EIGHTH para. 8](schedule/EIGHTH/paragraph/8.md)
+  - Lists and trial of election petitions
+    - [Sch. EIGHTH para. 9](schedule/EIGHTH/paragraph/9.md)
+  - Preliminary and incidental applications
+    - [Sch. EIGHTH para. 10](schedule/EIGHTH/paragraph/10.md)
+  - Trial of petitions
+    - [Sch. EIGHTH para. 11](schedule/EIGHTH/paragraph/11.md)
+  - Witnesses
+    - [Sch. EIGHTH para. 12](schedule/EIGHTH/paragraph/12.md)
+- NINTH SCHEDULE ELECTORAL MISDEMEANOURS
+  - PART I CORRUPT PRACTICES
+    - [Sch. NINTH para. 1](schedule/NINTH/paragraph/1.md)
+    - [Sch. NINTH para. 2](schedule/NINTH/paragraph/2.md)
+    - [Sch. NINTH para. 3](schedule/NINTH/paragraph/3.md)
+    - [Sch. NINTH para. 4](schedule/NINTH/paragraph/4.md)
+    - [Sch. NINTH para. 4A Offences relating to applications for postal and proxy votes at a local election](schedule/NINTH/paragraph/4A.md)
+    - [Sch. NINTH para. 5](schedule/NINTH/paragraph/5.md)
+    - [Sch. NINTH para. 5ZA Handling of postal voting documents by political campaigners](schedule/NINTH/paragraph/5ZA.md)
+    - [Sch. NINTH para. 5A False statements in nomination papers, etc.](schedule/NINTH/paragraph/5A.md)
+    - [Sch. NINTH para. 6](schedule/NINTH/paragraph/6.md)
+    - [Sch. NINTH para. 7](schedule/NINTH/paragraph/7.md)
+    - [Sch. NINTH para. 8](schedule/NINTH/paragraph/8.md)
+    - [Sch. NINTH para. 9](schedule/NINTH/paragraph/9.md)
+  - PART II ILLEGAL PRACTICES
+    - [Sch. NINTH para. 10](schedule/NINTH/paragraph/10.md)
+    - [Sch. NINTH para. 11](schedule/NINTH/paragraph/11.md)
+    - [Sch. NINTH para. 12](schedule/NINTH/paragraph/12.md)
+    - [Sch. NINTH para. 12A](schedule/NINTH/paragraph/12A.md)
+    - [Sch. NINTH para. 13](schedule/NINTH/paragraph/13.md)
+    - [Sch. NINTH para. 14](schedule/NINTH/paragraph/14.md)
+    - [Sch. NINTH para. 15](schedule/NINTH/paragraph/15.md)
+    - [Sch. NINTH para. 16](schedule/NINTH/paragraph/16.md)
+    - [Sch. NINTH para. 17](schedule/NINTH/paragraph/17.md)
+    - [Sch. NINTH para. 17A](schedule/NINTH/paragraph/17A.md)
+    - [Sch. NINTH para. 18](schedule/NINTH/paragraph/18.md)
+    - [Sch. NINTH para. 19](schedule/NINTH/paragraph/19.md)
+    - [Sch. NINTH para. 20](schedule/NINTH/paragraph/20.md)
+    - [Sch. NINTH para. 21](schedule/NINTH/paragraph/21.md)
+    - [Sch. NINTH para. 22](schedule/NINTH/paragraph/22.md)
+    - [Sch. NINTH para. 23](schedule/NINTH/paragraph/23.md)
+  - PART III ELECTORAL OFFENCES
+    - [Sch. NINTH para. 24A](schedule/NINTH/paragraph/24A.md)
+    - [Sch. NINTH para. 25](schedule/NINTH/paragraph/25.md)
+    - [Sch. NINTH para. 26](schedule/NINTH/paragraph/26.md)
+    - [Sch. NINTH para. 26A](schedule/NINTH/paragraph/26A.md)
+    - [Sch. NINTH para. 27](schedule/NINTH/paragraph/27.md)
+    - [Sch. NINTH para. 27A Prohibition on publication of exit polls](schedule/NINTH/paragraph/27A.md)
+    - [Sch. NINTH para. 28](schedule/NINTH/paragraph/28.md)
+    - [Sch. NINTH para. 29](schedule/NINTH/paragraph/29.md)
+    - [Sch. NINTH para. 30](schedule/NINTH/paragraph/30.md)
+    - [Sch. NINTH para. 32](schedule/NINTH/paragraph/32.md)
+    - [Sch. NINTH para. 32A](schedule/NINTH/paragraph/32A.md)
+    - [Sch. NINTH para. 34](schedule/NINTH/paragraph/34.md)
+    - [Sch. NINTH para. 35](schedule/NINTH/paragraph/35.md)
+- TENTH SCHEDULE FORMS
+  - Form 1 rep. by SLR 1980
+  - FORM 2
+    - Form of return of expenses required by section forty-one to be authorised by an election agent.
+  - FORM 3
+    - Form of declaration as to expenses required by section forty-one to be authorised by an election agent.
+  - FORM 4
+  - FORM 5
+    - Form of declaration as to election expenses required by section forty-seven
+  - Form 6 repealed by SLR 1980.
+  - Form 7 repealed by SLR 1980.
+  - Form 8 repealed by SLR 1980.
+  - Form 9 repealed by SLR 1980.
+  - Form 10 repealed by SLR 1980.
+  - Form 11 repealed by SLR 1980.
+  - Form 12 repealed by 1972 NI 13.
+  - Form 13 spent.
+  - Form 14 repealed by 1972 NI 13.
+  - Form 15 spent.
+  - Form 16 spent.
+  - Form 17 spent.
+  - Form 18 repealed by 1968 c.20 (NI)
+  - Form 19 repealed by 1968 c.20 (NI
+  - Form 20 repealed by 1968 c.20 (NI
+  - Form 21 repealed by 1968 c.20 (NI
+- Eleventh Schedule repealed by SLR 1973
