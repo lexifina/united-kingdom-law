@@ -1,0 +1,393 @@
+# Transport Act 1968
+
+1968 c. 73. Enacted 1968-10-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
+
+Source: https://www.legislation.gov.uk/ukpga/1968/73/2024-05-07
+
+## Contents
+
+- Part I Integration of Freight Transport Services
+  - [s. 1 ................................](section/1.md)
+  - [s. 6 ................................](section/6.md)
+  - Redistribution of activities between Freight Corporation and Railways Board or Scottish Group
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+- Part II Integrated Transport Areas and Passenger Transport Areas
+  - Designation of Integrated Transport Areas or Passenger Transport Areas and establishment and functions of Authorities and Executives
+    - [s. 9 Areas, Authorities and Executives.](section/9.md)
+    - [s. 9A General functions of Authorities and Executives.](section/9A.md)
+    - [s. 9B Consultation and publicity with respect to policies as to services.](section/9B.md)
+    - [s. 10 General powers of Executive.](section/10.md)
+    - [s. 10A Further powers of Executives](section/10A.md)
+    - [s. 10B Boundaries of power under section 10A](section/10B.md)
+    - [s. 10C Power to make provision supplemental to section 10A](section/10C.md)
+    - [s. 11 Financial duty of Executive.](section/11.md)
+    - [s. 12 Borrowing powers of Executive.](section/12.md)
+    - [s. 13 Power to make grants.](section/13.md)
+    - [s. 13A Guarantees by Authority.](section/13A.md)
+    - [s. 14 Accounts of Executive.](section/14.md)
+    - [s. 15 Further functions of Authority.](section/15.md)
+    - [s. 15A Additional provisions as to control of Executive by Authority.](section/15A.md)
+    - [s. 16 Publication of annual report by Authority and Executive and prevention of improper conduct of subsidiary activities.](section/16.md)
+  - Reorganisation of passenger transport in Integrated Transport Areas or Passenger Transport Areas
+    - [s. 17 Transfer to Executive of local authority transport undertakings.](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 20 Special duty of certain Executives with respect to railway passenger services.](section/20.md)
+    - [s. 21 ................................](section/21.md)
+  - General
+    - [s. 22 Provisions as to regulations and orders under Part II.](section/22.md)
+    - [s. 23 Consents of, or directions by, Minister under Part II.](section/23.md)
+    - [s. 23A Interpretation of certain provisions of this Part relating to railways.](section/23A.md)
+- Part III Bus and Ferry Services
+  - National Bus Company and Scottish Transport Group
+    - [s. 24 Establishment and general duties of Bus Company and Scottish Group.](section/24.md)
+    - [s. 25 General powers of Bus Company.](section/25.md)
+    - [s. 26 General powers of Scottish Group.](section/26.md)
+    - [s. 27 Financial provisions with respect to Bus Company and Scottish Group.](section/27.md)
+    - [s. 28 Transfer to Bus Company or Scottish Group of certain securities, rights and liabilities.](section/28.md)
+    - [s. 29 Transfer of certain property, rights and liabilities between Railways Board and Bus Company or Scottish Group.](section/29.md)
+  - Relaxation of control over certain bus services
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 Abolition of special control over bus services provided by local authorities outside their areas.](section/31.md)
+  - Assistance for bus and ferry services
+    - [s. 32 New bus grants.](section/32.md)
+    - [s. 33](section/33.md)
+    - [s. 34 Assistance for rural bus or ferry services.](section/34.md)
+  - Further provision relating to public service vehicles
+    - [s. 35](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 Power for local authorities to acquire or dispose of public service vehicle undertakings.](section/37.md)
+- Part IV Further Provisions as to Boards, New Authorities and Transport Services
+  - Railways Board
+    - [s. 38 Composition of Railways Board and removal of requirement for regional boards.](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 ................................](section/40.md)
+  - Additional financial provisions with respect to Boards and new authorities
+    - [s. 41 Financial provisions as to Boards and new authorities.](section/41.md)
+    - [s. 42 Additional financial provisions as to Railways Board.](section/42.md)
+    - [s. 43 Additional financial provisions as to Waterways Board.](section/43.md)
+    - [s. 43A Grants to Canal & River Trust](section/43A.md)
+    - [s. 44 Account by Minister of receipt and disposal of certain sums.](section/44.md)
+  - Additional duties of Boards and new authorities
+    - [s. 45 Duty of Freight Corporation and Railways Board to review organisation.](section/45.md)
+    - [s. 46 Duty of Boards and new authorities to promote research and development.](section/46.md)
+  - Additional powers of Boards and new authorities
+    - [s. 47 Extension to new authorities of certain functions of Boards.](section/47.md)
+    - [s. 48 Manufacture, repair and supply.](section/48.md)
+    - [s. 49 Powers with respect to land.](section/49.md)
+    - [s. 50 Miscellaneous provisions as to powers.](section/50.md)
+    - [s. 51 Subsidiaries and joint subsidiaries.](section/51.md)
+    - [s. 52 Supplementary and miscellaneous provisions.](section/52.md)
+  - Power to dissolve Holding Company, etc.
+    - [s. 53 Provisions with respect to Holding Company.](section/53.md)
+  - Miscellaneous further provisions with respect to transport services
+    - [s. 54 ................................](section/54.md)
+    - [s. 55 Amendments as to Passengers’ Council and London Transport Users’ Committee.](section/55.md)
+    - [s. 56 Assistance by Minister or local authority towards capital expenditure on public transport facilities.](section/56.md)
+    - [s. 57 Grants for research or development in connection with transport services, etc.](section/57.md)
+    - [s. 57A Grants for research or development in connection with transport services by inland waterways in Scotland](section/57A.md)
+    - [s. 58 ................................](section/58.md)
+- Part V
+  - The licensing authority
+    - [s. 59 The licensing authority for Part V.](section/59.md)
+  - O perators’ licences
+    - [s. 60 Users of certain goods vehicles to hold operators’ licences.](section/60.md)
+    - [s. 61 Authorised vehicles.](section/61.md)
+    - [s. 61A Maximum numbers of vehicles.](section/61A.md)
+    - [s. 62 Applications for operators’ licences.](section/62.md)
+    - [s. 63 Objections to grant of operators’ licences.](section/63.md)
+    - [s. 64 Decision on applications for operators’ licences.](section/64.md)
+    - [s. 64A Issue of operators’ licences.](section/64A.md)
+    - [s. 64B Conditions for securing road safety.](section/64B.md)
+    - [s. 65 Conditions as to transport managers.](section/65.md)
+    - [s. 66 Conditions as to matters required to be notified to licensing authority.](section/66.md)
+    - [s. 67 Duration of operators’ licences and grant of interim licences.](section/67.md)
+    - [s. 67A Interim licences.](section/67A.md)
+    - [s. 68 Variation of operators’ licences.](section/68.md)
+    - [s. 68A Interim variations.](section/68A.md)
+    - [s. 69 Revocation, suspension and curtailment of operators’ licences.](section/69.md)
+    - [s. 69A Operating centres for authorised vehicles to be specified in operators’ licences.](section/69A.md)
+    - [s. 69B Objection to, or refusal or modification of, applications for operators’ licences on environmental grounds.](section/69B.md)
+    - [s. 69C Conditions as to the use of operating centres.](section/69C.md)
+    - [s. 69D Variation of operators’ licences with respect to operating centres and conditions affecting their use, etc.](section/69D.md)
+    - [s. 69E Publication of notice of applications for licences and variations in localities affected.](section/69E.md)
+  - Further provisions about operating centres
+    - [s. 69EA Periods of review for operating centres.](section/69EA.md)
+    - [s. 69EB Power to remove operating centres on review.](section/69EB.md)
+    - [s. 69EC Powers to attach conditions etc. on review.](section/69EC.md)
+    - [s. 69ED Transfer of operating centres.](section/69ED.md)
+    - [s. 69F Revocation, etc. of operators’ licences for breach of provisions controlling use of operating centres.](section/69F.md)
+    - [s. 69G Provisions supplementary to sections 69A to 69F.](section/69G.md)
+    - [s. 69H Determinations as to environmental matters: supplementary provisions.](section/69H.md)
+  - Operators’ licences: supplementary provisions
+    - [s. 69I Assessors.](section/69I.md)
+    - [s. 69J Review of decisions.](section/69J.md)
+    - [s. 70 Rights of appeal in connection with operators’ licences.](section/70.md)
+  - Special authorisations for use of large goods vehicles
+    - [s. 71 Control of the use of large goods vehicles.](section/71.md)
+    - [s. 72 ................................](section/72.md)
+  - Enforcement
+    - [s. 81 Consignment notes.](section/81.md)
+    - [s. 82 Powers of entry and inspection.](section/82.md)
+    - [s. 83 Falsification of consignment notes and records.](section/83.md)
+    - [s. 84 Evidence by certificate.](section/84.md)
+  - Supplementary
+    - [s. 85 Holding companies and subsidiaries.](section/85.md)
+    - [s. 85A Partnerships.](section/85A.md)
+    - [s. 86 Operators’ licences not to be transferable etc.](section/86.md)
+    - [s. 87 Inquiries.](section/87.md)
+    - [s. 88 Provisions relating to Transport Tribunal.](section/88.md)
+    - [s. 89 Fees.](section/89.md)
+    - [s. 90 Appointment and remuneration of officers and servants.](section/90.md)
+    - [s. 91 Regulations and orders for purposes of Part V.](section/91.md)
+    - [s. 92 Interpretation of Part V.](section/92.md)
+  - Abolition of carriers’ licensing for certain vehicles
+    - [s. 93 Carriers’ licences not to be required for small vehicles or for medium vehicles covered by operators’ licences.](section/93.md)
+  - Transitional provisions and amendments
+    - [s. 94 Transitional provisions and amendments.](section/94.md)
+- Part VI Drivers’ Hours
+  - [s. 95 Vehicles and drivers subject to control under Part VI.](section/95.md)
+  - [s. 96 Permitted driving time and periods of duty.](section/96.md)
+  - [s. 96A Authorisation of field tests](section/96A.md)
+  - [s. 97 Installation and use of recording equipment: EU requirements.](section/97.md)
+  - [s. 97ZA Installation and use of recording equipment: AETR requirements](section/97ZA.md)
+  - [s. 97ZB Supply of recording equipment which is not type-approved](section/97ZB.md)
+  - [s. 97ZC Recording equipment system elements: security vulnerabilities](section/97ZC.md)
+  - [s. 97A Provisions supplementary to section 97.](section/97A.md)
+  - [s. 97AA Forgery, etc of seals on recording equipment](section/97AA.md)
+  - [s. 97B](section/97B.md)
+  - [s. 97C Delivery of record sheets and other documents](section/97C.md)
+  - [s. 97D Vehicle units: downloading data](section/97D.md)
+  - [s. 97E Driver cards: downloading data](section/97E.md)
+  - [s. 97F Downloading data: requirement imposed by an officer](section/97F.md)
+  - [s. 97G Downloading and retaining data: offences](section/97G.md)
+  - [s. 97H Access to downloaded data](section/97H.md)
+  - [s. 98 Written records.](section/98.md)
+  - [s. 99 Inspection of records and other documents.](section/99.md)
+  - [s. 99ZA Inspection of records and other documents and data relating to recording equipment](section/99ZA.md)
+  - [s. 99ZB Inspection of records and other documents and data relating to recording equipment](section/99ZB.md)
+  - [s. 99ZC Inspection of records and other documents and data relating to recording equipment](section/99ZC.md)
+  - [s. 99ZD Inspection of records and other documents and data relating to recording equipment](section/99ZD.md)
+  - [s. 99ZE Inspection of records and other documents and data relating to recording equipment](section/99ZE.md)
+  - [s. 99ZF Inspection of records and other documents and data relating to recording equipment](section/99ZF.md)
+  - [s. 99ZG Power to stop](section/99ZG.md)
+  - [s. 99A Power to prohibit driving of vehicle.](section/99A.md)
+  - [s. 99B Duration and removal of prohibition.](section/99B.md)
+  - [s. 99C Failure to comply with prohibition.](section/99C.md)
+  - [s. 100 Power to give effect to international agreements.](section/100.md)
+  - [s. 101 Orders and regulations under Part VI.](section/101.md)
+  - [s. 102 Application to the Crown and exemption for police and fire brigade.](section/102.md)
+  - [s. 102A Exclusion of application to tramcars and trolley vehicles.](section/102A.md)
+  - [s. 102B Partnerships and other unincorporated associations](section/102B.md)
+  - [s. 102C Offences by bodies corporate etc](section/102C.md)
+  - [s. 103 Interpretation, supplementary provisions, etc., for Part VI.](section/103.md)
+- Part VII Inland Waterways
+  - The Board’s waterways
+    - [s. 104 Classification of ... waterways.](section/104.md)
+    - [s. 105 Maintenance of ... waterways.](section/105.md)
+    - [s. 106 Enforcement of maintenance duty – the Waterways Board](section/106.md)
+    - [s. 106A Enforcement of maintenance duty – Canal & River Trust](section/106A.md)
+    - [s. 107 Amendments as to general duties of Board.](section/107.md)
+    - [s. 108 Prevention of nuisance as respects certain waterways.](section/108.md)
+    - [s. 109 Power of certain bodies to maintain or take over waterways and connected works in Scotland.](section/109.md)
+    - [s. 110 The Inland Waterways Advisory Council](section/110.md)
+    - [s. 110A Term of office, procedure etc.](section/110A.md)
+    - [s. 110B Functions of Council: England and Wales](section/110B.md)
+    - [s. 110C Functions of Council: Scotland](section/110C.md)
+    - [s. 111 Access agreements and orders as respects canals other than commercial waterways and cruising waterways.](section/111.md)
+  - Other inland waterway provisions
+    - [s. 112 Power to extinguish statutory rights and obligations in respect of canals not comprised in undertaking of Board or Canal & River Trust.](section/112.md)
+    - [s. 113 Byelaws in respect of waterways owned or managed by certain bodies.](section/113.md)
+    - [s. 114 Power of local authorities to assist in maintaining waterways for amenity purposes.](section/114.md)
+  - Supplementary
+    - [s. 115 Interpretation of Part VII.](section/115.md)
+- Part VIII Bridges, Level Crossings, etc.
+  - Bridges
+    - [s. 116 Transfer of responsibility for maintenance of highways on bridges over certain railways, inland waterways, etc.](section/116.md)
+    - [s. 117 Duty ... as respects bridges carrying highways.](section/117.md)
+    - [s. 118 Duty of highway authorities, etc., as respects bridges over certain railways or inland waterways.](section/118.md)
+    - [s. 119 Ending of liability ... to make payments on being relieved of responsibility for bridges carrying trunk or special roads.](section/119.md)
+    - [s. 120 ................................](section/120.md)
+    - [s. 121 Application of foregoing sections to other undertakers.](section/121.md)
+    - [s. 122 Interpretations of sections 116 to 121.](section/122.md)
+  - Level crossings
+    - [s. 123 Power of highway and other authorities to contribute to cost of barriers, etc., at level crossings.](section/123.md)
+    - [s. 124 ................................](section/124.md)
+  - Inspectors of railways
+    - [s. 125 ................................](section/125.md)
+- Part IX Regulation of Road Traffic
+  - [s. 126 ................................](section/126.md)
+  - [s. 133 ................................](section/133.md)
+- Part X Miscellaneous and General
+  - [s. 134 Duty to act in certain cases as body engaged in commercial enterprise.](section/134.md)
+  - [s. 135 Compensation for loss of employment etc.](section/135.md)
+  - [s. 136 Pensions.](section/136.md)
+  - [s. 137 Machinery for negotiation and consultation with staff.](section/137.md)
+  - [s. 138 Travel concessions.](section/138.md)
+  - [s. 139 Land required as service area for special road: compensation in certain cases of compulsory acquisition.](section/139.md)
+  - [s. 140 ................................](section/140.md)
+  - [s. 141 Application of Town and Country Planning Acts.](section/141.md)
+  - [s. 142 Powers of Minister in connection with channel tunnel.](section/142.md)
+  - [s. 143 ................................](section/143.md)
+  - [s. 144 Transfer and disposal of historical records and relics.](section/144.md)
+  - [s. 145 Minor amendments of Road Traffic Act 1960.](section/145.md)
+  - [s. 146 Approval marks.](section/146.md)
+  - [s. 147 ................................](section/147.md)
+  - [s. 148 ................................](section/148.md)
+  - [s. 149 ................................](section/149.md)
+  - [s. 150 ................................](section/150.md)
+  - [s. 151 ................................](section/151.md)
+  - [s. 152 ................................](section/152.md)
+  - [s. 153 ................................](section/153.md)
+  - [s. 154 ................................](section/154.md)
+  - [s. 155 ................................](section/155.md)
+  - [s. 156 Miscellaneous, supplementary and consequential provisions.](section/156.md)
+  - [s. 157 Orders and regulations.](section/157.md)
+  - [s. 158 Inquiries.](section/158.md)
+  - [s. 159 Interpretation—general.](section/159.md)
+  - [s. 160 Stamp duty.](section/160.md)
+  - [s. 161 Income tax, etc.](section/161.md)
+  - [s. 162 Rating.](section/162.md)
+  - [s. 163 Expenses.](section/163.md)
+  - [s. 164 Application to Northern Ireland.](section/164.md)
+  - [s. 165 ................................](section/165.md)
+  - [s. 166 Short title and commencement.](section/166.md)
+- SCHEDULE 1 The New Authorities
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Commencing Capital Debts of New Authorities
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3
+- SCHEDULE 4 Supplementary Provisions as to certain Transfers of Property, Rights and Liabilities
+  - Allocation of property, rights and liabilities
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Rights and liabilities under agreement for rendering of personal services
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Right to production of documents of title
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Perfection of vesting of certain property or rights
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Proof of title by certificate
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Restrictions on dealing with certain land
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Construction of agreements, statutory provisions and documents
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Third parties affected by vesting provisions
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Passenger Transport Executives
+  - Part I
+    - The Authority
+      - [Sch. 5 Pt. I heading the-authority para. 1](schedule/5/part/I/crossheading/the-authority/paragraph/1.md)
+      - [Sch. 5 Pt. I heading the-authority para. 2](schedule/5/part/I/crossheading/the-authority/paragraph/2.md)
+      - [Sch. 5 Pt. I heading the-authority para. 3](schedule/5/part/I/crossheading/the-authority/paragraph/3.md)
+      - [Sch. 5 Pt. I heading the-authority para. 4](schedule/5/part/I/crossheading/the-authority/paragraph/4.md)
+      - [Sch. 5 Pt. I heading the-authority para. 5](schedule/5/part/I/crossheading/the-authority/paragraph/5.md)
+  - Part II
+    - The Executive
+      - [Sch. 5 Pt. II heading the-executive para. 1](schedule/5/part/II/crossheading/the-executive/paragraph/1.md)
+      - [Sch. 5 Pt. II heading the-executive para. 2](schedule/5/part/II/crossheading/the-executive/paragraph/2.md)
+      - [Sch. 5 Pt. II heading the-executive para. 3](schedule/5/part/II/crossheading/the-executive/paragraph/3.md)
+      - [Sch. 5 Pt. II heading the-executive para. 4](schedule/5/part/II/crossheading/the-executive/paragraph/4.md)
+      - [Sch. 5 Pt. II heading the-executive para. 5](schedule/5/part/II/crossheading/the-executive/paragraph/5.md)
+  - Part III
+    - Matters which may be dealt with by order under s. 9(1)
+      - [Sch. 5 Pt. III heading matters-which-may-be-dealt-with-by-order-under-s-91 para. 1](schedule/5/part/III/crossheading/matters-which-may-be-dealt-with-by-order-under-s-91/paragraph/1.md)
+      - [Sch. 5 Pt. III heading matters-which-may-be-dealt-with-by-order-under-s-91 para. 2](schedule/5/part/III/crossheading/matters-which-may-be-dealt-with-by-order-under-s-91/paragraph/2.md)
+      - [Sch. 5 Pt. III heading matters-which-may-be-dealt-with-by-order-under-s-91 para. 3](schedule/5/part/III/crossheading/matters-which-may-be-dealt-with-by-order-under-s-91/paragraph/3.md)
+      - [Sch. 5 Pt. III heading matters-which-may-be-dealt-with-by-order-under-s-91 para. 4](schedule/5/part/III/crossheading/matters-which-may-be-dealt-with-by-order-under-s-91/paragraph/4.md)
+      - [Sch. 5 Pt. III heading matters-which-may-be-dealt-with-by-order-under-s-91 para. 5](schedule/5/part/III/crossheading/matters-which-may-be-dealt-with-by-order-under-s-91/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 ...
+- SCHEDULE 7 Bodies whose Securities are Transferred to Bus Company
+- SCHEDULE 8 New Bus Grants—Supplementary Provisions
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+- Schedule 8A Transfer of operating centres
+- SCHEDULE 9 ...
+- SCHEDULE 10 Amendments Consequential on Part V
+  - Part I
+  - PART II AMENDMENTS AS FROM APPOINTED DAY FOR PURPOSES OF S. 94(8)
+- SCHEDULE 11 Amendments Consequential on Part VI
+  - The Road Traffic Act 1960
+- SCHEDULE 12 Commercial and Cruising Waterways
+  - Part I Commercial Waterways
+  - Part II Cruising Waterways
+- SCHEDULE 13 Order Relating to Inland Waterways
+  - Preliminary
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Consultation
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 3A](schedule/13/paragraph/3A.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Publication of proposed orders and consideration of objections
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Interpretation
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+- SCHEDULE 14
+- SCHEDULE 15 ...
+- SCHEDULE 16 Supplementary or Consequential Provisions
+  - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+- SCHEDULE 17 Application to Northern Ireland
+  - Part I
+    - Provisions extending to Northern Ireland
+  - Part II
+    - Modifications
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+- SCHEDULE 18
