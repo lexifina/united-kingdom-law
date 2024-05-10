@@ -1,0 +1,138 @@
+# Education (Wales) Act 2014
+
+anaw/2014/5. Enacted 2014-05-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/anaw/2014/5/2024-05-10
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview](section/1.md)
+- PART 2 EDUCATION WORKFORCE
+  - Education Workforce Council
+    - [s. 2 Education Workforce Council](section/2.md)
+    - [s. 3 Aims of the Council](section/3.md)
+    - [s. 4 Functions of the Council](section/4.md)
+    - [s. 5 Power to add functions](section/5.md)
+    - [s. 6 Directions](section/6.md)
+  - Provision of advice and promotion of careers
+    - [s. 7 Provision of advice by the Council](section/7.md)
+    - [s. 8 Promotion of careers](section/8.md)
+  - Registration of education workforce
+    - [s. 9 Register](section/9.md)
+    - [s. 10 Eligibility for registration](section/10.md)
+    - [s. 11 Appeals against refusal of registration](section/11.md)
+    - [s. 12 Registration fees](section/12.md)
+    - [s. 13 Registration: further provision](section/13.md)
+  - Requirements to be satisfied to provide services
+    - [s. 14 School teachers and school learning support workers](section/14.md)
+    - [s. 15 Further education teachers](section/15.md)
+    - [s. 16 Further education learning support workers](section/16.md)
+  - Induction and appraisal of registered persons
+    - [s. 17 Requirement to undertake period of induction](section/17.md)
+    - [s. 18 Induction assessment standards](section/18.md)
+    - [s. 19 Appeals against induction decisions](section/19.md)
+    - [s. 20 Induction: intervention powers](section/20.md)
+    - [s. 21 Induction: interpretation](section/21.md)
+    - [s. 22 Special provision for maintained schools with delegated budgets](section/22.md)
+    - [s. 23 Appraisal of registered persons](section/23.md)
+  - Code of conduct and practice for registered persons
+    - [s. 24 Code of conduct and practice](section/24.md)
+    - [s. 25 Code of conduct and practice: further provision](section/25.md)
+  - Disciplinary functions of the Council
+    - [s. 26 Disciplinary functions](section/26.md)
+    - [s. 27 Disciplinary functions: interpretation](section/27.md)
+    - [s. 28 Disciplinary functions: further provision](section/28.md)
+    - [s. 29 Conditional registration orders](section/29.md)
+    - [s. 30 Suspension orders](section/30.md)
+    - [s. 31 Prohibition orders](section/31.md)
+    - [s. 32 Appeals against disciplinary orders](section/32.md)
+  - Information duties
+    - [s. 33 Council to maintain records about certain persons](section/33.md)
+    - [s. 34 Supply of information: Ministers](section/34.md)
+    - [s. 35 Supply of information: the Council](section/35.md)
+    - [s. 36 Supply of information: employers](section/36.md)
+    - [s. 37 Supply of information: agents and contractors](section/37.md)
+    - [s. 38 Directions to secure compliance with information duties](section/38.md)
+  - Transitional and transitory provision
+    - [s. 39 Transfer of registrations of persons already registered](section/39.md)
+    - [s. 40 Transitory matters relating to eligibility for registration](section/40.md)
+  - Interpretation of Part 2
+    - [s. 41 Interpretation of Part 2](section/41.md)
+- PART 3 MISCELLANEOUS PROVISION
+  - Term and holiday dates and times of school sessions
+    - [s. 42 Dates of terms and holidays and times of school sessions](section/42.md)
+  - Her Majesty’s Inspectorate of Education and Training in Wales
+    - [s. 43 Her Majesty’s Inspectorate of Education and Training in Wales](section/43.md)
+  - Local authority education functions - intervention
+    - [s. 44 Local authority education functions exercisable by the persons directed](section/44.md)
+- PART 4 GENERAL PROVISION
+  - [s. 45 Status as an Education Act](section/45.md)
+  - [s. 46 Ancillary provision](section/46.md)
+  - [s. 47 Orders and regulations](section/47.md)
+  - [s. 48 Minor and consequential amendments and repeals](section/48.md)
+  - [s. 49 General interpretation](section/49.md)
+  - [s. 50 Commencement](section/50.md)
+  - [s. 51 Short title](section/51.md)
+- SCHEDULE 1 EDUCATION WORKFORCE COUNCIL
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Membership: further provision
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Tenure
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Removal from office
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration, allowances and expenses of members
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Chairing member
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Chief officer and other staff
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Schemes relating to remuneration etc.
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Eligibility for superannuation scheme
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Committees generally
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Delegation of functions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Proceedings
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Application of seal
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Proof of documents
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Finance
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Accounting officer
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Audit committee
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Audit committee: membership
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Accounts and external audit
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Annual reports
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+- SCHEDULE 2 CATEGORIES OF REGISTRATION
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Changing the categories of registered worker
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Interpretation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 CHANGES TO OTHER LEGISLATION
+  - PART 1 MINOR AND CONSEQUENTIAL AMENDMENTS
+    - Education Act 2002 (c. 32)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - School Standards and Organisation (Wales) Act 2013 (anaw 1)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - PART 2 REPEALS
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 INDEX OF DEFINED WORDS AND EXPRESSIONS
