@@ -2,9 +2,9 @@
 
 2022 c. 40. Enacted 2022-07-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2022-07-14, are in the history before it: `git log -- ukpga/2022/40` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-24, one file per provision. Earlier versions, from 2022-07-14, are in the history before it: `git log -- ukpga/2022/40` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/40/2023-07-11
+Source: https://www.legislation.gov.uk/ukpga/2022/40/2024-05-24
 
 ## Contents
 
@@ -32,6 +32,8 @@ Source: https://www.legislation.gov.uk/ukpga/2022/40/2023-07-11
   - [s. 15 Transitional provision for accounting periods straddling 26 May 2022](section/15.md)
   - [s. 16 Transitional provision for accounting periods straddling 31 March 2028](section/16.md)
   - [s. 17 Rules for apportioning profits or loss to separate accounting periods](section/17.md)
+  - [s. 17A Circumstances in which the levy ends early: energy security investment mechanism](section/17A.md)
+  - [s. 17B Section 17A: supplementary provision](section/17B.md)
   - [s. 18 Interpretation](section/18.md)
   - [s. 19 Short title](section/19.md)
 - SCHEDULE 1 Reliefs
