@@ -1,0 +1,805 @@
+# Powers of Criminal Courts (Sentencing) Act 2000
+
+2000 c. 6. Enacted 2000-05-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-05-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 181 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
+
+Source: https://www.legislation.gov.uk/ukpga/2000/6/2024-05-24
+
+## Contents
+
+- Part I POWERS EXERCISABLE BEFORE SENTENCE
+  - Deferment of sentence
+    - [s. 1 Deferment of sentence](section/1.md)
+    - [s. 1ZA Undertakings to participate in restorative justice activities](section/1ZA.md)
+    - [s. 1A Further provision about undertakings](section/1A.md)
+    - [s. 1B Breach of undertakings](section/1B.md)
+    - [s. 1C Conviction of offence during period of deferment](section/1C.md)
+    - [s. 1D Deferment of sentence: supplementary](section/1D.md)
+  - Committal to Crown Court for sentence
+    - [s. 3 Committal for sentence on summary trial of offence triable either way.](section/3.md)
+    - [s. 3A Committal for sentence of dangerous adult offenders](section/3A.md)
+    - [s. 3B Committal for sentence of young offenders on summary trial of certain serious offences](section/3B.md)
+    - [s. 3C Committal for sentence of dangerous young offenders](section/3C.md)
+    - [s. 4 Committal for sentence on indication of guilty plea to offence triable either way.](section/4.md)
+    - [s. 4A Committal for sentence on indication of guilty plea by child or young person with related offences](section/4A.md)
+    - [s. 5 Power of Crown Court on committal for sentence under sections 3 and 4.Power of Crown Court on committal for sentence under sections 3, 3A and 4](section/5.md)
+    - [s. 5A Power of Crown Court on committal for sentence under sections 3B, 3C and 4A](section/5A.md)
+    - [s. 6 Committal for sentence in certain cases where offender committed in respect of another offence.](section/6.md)
+    - [s. 7 Power of Crown Court on committal for sentence under section 6.](section/7.md)
+  - Remission for sentence: young offenders etc.
+    - [s. 8 Power and duty to remit young offenders to youth courts for sentence.](section/8.md)
+    - [s. 9 Power of youth court to remit offender who attains age of 18 to magistrates’ court other than youth court for sentence.](section/9.md)
+    - [s. 10 Power of magistrates’ court to remit case to another magistrates’ court for sentence.](section/10.md)
+  - Remand by magistrates’ court for medical examination
+    - [s. 11 Remand by magistrates’ court for medical examination.](section/11.md)
+- Part II ABSOLUTE AND CONDITIONAL DISCHARGE
+  - [s. 12 Absolute and conditional discharge.](section/12.md)
+  - [s. 13 Commission of further offence by person conditionally discharged.](section/13.md)
+  - [s. 14 Effect of discharge.](section/14.md)
+  - [s. 15 Discharge: supplementary.](section/15.md)
+- Part III MANDATORY AND DISCRETIONARY REFERRAL OF YOUNG OFFENDERS
+  - Referral orders
+    - [s. 16 Duty and power to refer certain young offenders to youth offender panels.](section/16.md)
+    - [s. 17 The referral conditions.](section/17.md)
+    - [s. 18 Making of referral orders: general.](section/18.md)
+    - [s. 19 Making of referral orders: effect on court’s other sentencing powers.](section/19.md)
+    - [s. 20 Making of referral orders: attendance of parents etc.](section/20.md)
+  - Youth offender panels
+    - [s. 21 Establishment of panels.](section/21.md)
+    - [s. 22 Attendance at panel meetings.](section/22.md)
+  - Youth offender contracts
+    - [s. 23 First meeting: agreement of contract with offender.](section/23.md)
+    - [s. 24 First meeting: duration of contract.](section/24.md)
+    - [s. 25 First meeting: failure to agree contract.](section/25.md)
+    - [s. 26 Progress meetings.](section/26.md)
+    - [s. 27 Final meeting.](section/27.md)
+  - Referrals back to court in the interests of justice
+    - [s. 27A Revocation of referral order where offender making good progress etc.](section/27A.md)
+    - [s. 27B Extension of period for which young offender contract has effect](section/27B.md)
+  - Further court proceedings
+    - [s. 28 Offender or parent referred back to court: offender convicted while subject to referral order.](section/28.md)
+  - Supplementary
+    - [s. 29 Functions of youth offending teams.](section/29.md)
+    - [s. 30 Regulations under Part III.](section/30.md)
+    - [s. 31 Rules of court.](section/31.md)
+    - [s. 32 Definitions for purposes of Part III.](section/32.md)
+- Part IV Youth community orders and reparation orders
+  - Chapter I Youth community orders: general provisions
+    - [s. 33 Meaning of “youth community order” and “community sentence”](section/33.md)
+    - [s. 34 Community orders not available where sentence fixed by law etc.](section/34.md)
+    - [s. 35 Restrictions on imposing community sentences.](section/35.md)
+    - [s. 36 Procedural requirements for community sentences: pre-sentence reports etc.](section/36.md)
+    - [s. 36A Pre-sentence drug testing.](section/36A.md)
+    - [s. 36B Electronic monitoring of requirements in youth community orders.](section/36B.md)
+  - Chapter II Community orders available for offenders of any age
+    - Curfew orders
+      - [s. 37 Curfew orders.](section/37.md)
+      - [s. 38 Electronic monitoring of curfew orders.](section/38.md)
+      - [s. 39 Breach, revocation and amendment of curfew orders.](section/39.md)
+      - [s. 40 Curfew orders: supplementary.](section/40.md)
+    - Exclusion orders
+      - [s. 40A Exclusion orders.](section/40A.md)
+      - [s. 40B Breach, revocation and amendment of exclusion orders.](section/40B.md)
+      - [s. 40C Exclusion orders: supplementary.](section/40C.md)
+  - Chapter III Community orders available only where offender aged 16 or over
+    - Probation orders
+      - [s. 41 Community rehabilitation orders.](section/41.md)
+      - [s. 42 Additional requirements which may be included in community rehabilitation orders.](section/42.md)
+      - [s. 43 Breach, revocation and amendment of community rehabilitation orders.](section/43.md)
+      - [s. 44 Offenders residing in Scotland or Northern Ireland.](section/44.md)
+      - [s. 45 Community rehabilitation orders: supplementary.](section/45.md)
+    - Community punishment orders
+      - [s. 46 Community punishment orders.](section/46.md)
+      - [s. 47 Obligations of person subject to community punishment order.](section/47.md)
+      - [s. 48 Breach, revocation and amendment of community punishment orders.](section/48.md)
+      - [s. 49 Offenders residing in Scotland or Northern Ireland.](section/49.md)
+      - [s. 50 Community punishment orders: supplementary.](section/50.md)
+    - Community punishment and rehabilitation orders
+      - [s. 51 Community punishment and rehabilitation orders.](section/51.md)
+    - Drug treatment and testing orders
+      - [s. 52 Drug treatment and testing orders.](section/52.md)
+      - [s. 53 The treatment and testing requirements.](section/53.md)
+      - [s. 54 Provisions of order as to supervision and periodic review.](section/54.md)
+      - [s. 55 Periodic reviews.](section/55.md)
+      - [s. 56 Breach, revocation and amendment of drug treatment and testing orders.](section/56.md)
+      - [s. 57 Copies of orders.](section/57.md)
+      - [s. 58 Drug treatment and testing orders: supplementary.](section/58.md)
+    - Drug abstinence orders
+      - [s. 58A Drug abstinence orders.](section/58A.md)
+      - [s. 58B Drug abstinence orders: supplementary.](section/58B.md)
+    - Orders for persistent petty offenders
+      - [s. 59 Curfew orders and community punishment orders for persistent petty offenders.](section/59.md)
+  - Chapter IV Attendance centre orders: offenders under 21 and defaulters
+    - [s. 60 Attendance centre orders.](section/60.md)
+    - [s. 61 Breach, revocation and amendment of attendance centre orders.](section/61.md)
+    - [s. 62 Provision, regulation and management of attendance centres.](section/62.md)
+  - Chapter V Community orders available only where offender aged under 18
+    - Supervision orders
+      - [s. 63 Supervision orders.](section/63.md)
+      - [s. 64 Selection and duty of supervisor and certain expenditure of his.](section/64.md)
+      - [s. 64A Supervision orders and curfew orders](section/64A.md)
+      - [s. 65 Breach, revocation and amendment of supervision orders.](section/65.md)
+      - [s. 66 Facilities for implementing supervision orders.](section/66.md)
+      - [s. 67 Meaning of “local authority”, “reside” and “parent”.](section/67.md)
+      - [s. 68 Isles of Scilly.](section/68.md)
+    - Action plan orders
+      - [s. 69 Action plan orders.](section/69.md)
+      - [s. 70 Requirements which may be included in action plan orders and directions.](section/70.md)
+      - [s. 71 Action plan orders: power to fix further hearings.](section/71.md)
+      - [s. 72 Breach, revocation and amendment of action plan orders.](section/72.md)
+  - Chapter VI Reparation orders for young offenders
+    - [s. 73 Reparation orders.](section/73.md)
+    - [s. 74 Requirements and provisions of reparation order, and obligations of person subject to it.](section/74.md)
+    - [s. 75 Breach, revocation and amendment of reparation orders.](section/75.md)
+- Part V CUSTODIAL SENTENCES ETC.
+  - Chapter I General provisions
+    - Meaning of “custodial sentence”
+      - [s. 76 Meaning of “custodial sentence”.](section/76.md)
+    - Liability to imprisonment on conviction on indictment
+      - [s. 77 Liability to imprisonment on conviction on indictment.](section/77.md)
+    - General limit on magistrates’ courts’ powers
+      - [s. 78 General limit on magistrates’ court’s power to impose imprisonment or detention in a young offender institution.](section/78.md)
+    - General restrictions on discretionary custodial sentences
+      - [s. 79 General restrictions on imposing discretionary custodial sentences.](section/79.md)
+      - [s. 80 Length of discretionary custodial sentences: general provision.](section/80.md)
+    - Procedural requirements for imposing discretionary custodial sentences
+      - [s. 81 Pre-sentence reports and other requirements.](section/81.md)
+      - [s. 82 Additional requirements in case of mentally disordered offender.](section/82.md)
+    - Life sentences
+      - [s. 82A Determination of tariffs.](section/82A.md)
+    - Other restrictions
+      - [s. 83 Restriction on imposing custodial sentences on persons not legally represented.](section/83.md)
+      - [s. 84 Restriction on consecutive sentences for released prisoners.](section/84.md)
+    - Sexual and violent offences: licences etc.
+      - [s. 85 Sexual or violent offences: extension of certain custodial sentences for licence purposes.](section/85.md)
+      - [s. 86 Sexual offences committed before 30th September 1998.](section/86.md)
+    - Crediting of periods of remand in custody
+      - [s. 87 Crediting of periods of remand in custody: terms of imprisonment and detention.](section/87.md)
+      - [s. 88 Meaning of “remand in custody”.](section/88.md)
+  - Chapter II Detention and custody of young offenders
+    - Restriction on imposing imprisonment on persons under 21
+      - [s. 89 Restriction on imposing imprisonment on persons under 21.](section/89.md)
+    - Detention at Her Majesty’s pleasure or for specified period
+      - [s. 90 Offenders who commit murder etc. when under 18: duty to detain at Her Majesty’s pleasure.](section/90.md)
+      - [s. 91 Offenders under 18 convicted of certain serious offences: power to detain for specified period.](section/91.md)
+      - [s. 92 Detention under sections 90 and 91: place of detention etc.](section/92.md)
+    - Custody for life
+      - [s. 93 Duty to impose custody for life in certain cases where offender under 21.](section/93.md)
+      - [s. 94 Power to impose custody for life in certain other cases where offender at least 18 but under 21.](section/94.md)
+      - [s. 95 Custody for life: place of detention.](section/95.md)
+    - Detention in a young offender institution
+      - [s. 96 Detention in a young offender institution for other cases where offender at least 18 but under 21.](section/96.md)
+      - [s. 97 Term of detention in a young offender institution, and consecutive sentences.](section/97.md)
+      - [s. 98 Detention in a young offender institution: place of detention.](section/98.md)
+    - Conversion of sentence of detention to sentence of imprisonment
+      - [s. 99 Conversion of sentence of detention to sentence of imprisonment](section/99.md)
+    - Detention and training orders
+      - [s. 100 Offenders under 18: detention and training orders.](section/100.md)
+      - [s. 101 Term of order, consecutive terms and taking account of remands.](section/101.md)
+      - [s. 102 The period of detention and training.](section/102.md)
+      - [s. 103 The period of supervision.](section/103.md)
+      - [s. 104 Breach of supervision requirements.](section/104.md)
+      - [s. 104A Application of sections 103 to 105 in relation to orders under section 104(3)(aa)](section/104A.md)
+      - [s. 104B Interaction of orders under section 104(3)(a) with other sentences](section/104B.md)
+      - [s. 105 Offences during currency of order.](section/105.md)
+      - [s. 106 Interaction with sentences of detention in a young offender institution.](section/106.md)
+      - [s. 106A Interaction with sentences of detention](section/106A.md)
+      - [s. 106B Further supervision after end of term of detention and training order](section/106B.md)
+      - [s. 107 Meaning of “ youth detention accommodation” and references to terms.](section/107.md)
+    - Detention of persons aged at least 18 but under 21 for default or contempt
+      - [s. 108 Detention of persons aged at least 18 but under 21 for default or contempt.](section/108.md)
+  - Chapter III Required custodial sentences for certain offences
+    - [s. 109 Life sentence for second serious offence.](section/109.md)
+    - [s. 110 Minimum of seven years for third class A drug trafficking offence.](section/110.md)
+    - [s. 111 Minimum of three years for third domestic burglary.](section/111.md)
+    - [s. 112 Appeals where previous convictions set aside.](section/112.md)
+    - [s. 113 Certificates of convictions for purposes of Chapter III.](section/113.md)
+    - [s. 114 Offences under service law.](section/114.md)
+    - [s. 115 Determination of day when offence committed.](section/115.md)
+  - Chapter IV Return to prison etc. where offence committed during original sentence
+    - [s. 116 Power to order return to prison etc. where offence committed during original sentence.](section/116.md)
+    - [s. 117 Treatment for purposes of section 116(1) of person serving two or more sentences or extended sentence.](section/117.md)
+  - Chapter V Suspended sentences of imprisonment
+    - Suspended sentences of imprisonment
+      - [s. 118 Suspended sentences of imprisonment.](section/118.md)
+      - [s. 119 Power of court on conviction of further offence to deal with suspended sentence.](section/119.md)
+      - [s. 120 Court by which suspended sentence may be dealt with.](section/120.md)
+      - [s. 121 Procedure where court convicting of further offence does not deal with suspended sentence.](section/121.md)
+    - Suspended sentence supervision orders
+      - [s. 122 Suspended sentence supervision orders.](section/122.md)
+      - [s. 123 Breach of requirement of suspended sentence supervision order.](section/123.md)
+      - [s. 124 Suspended sentence supervision orders: revocation, amendment and cessation.](section/124.md)
+    - Suspended sentences: supplementary
+      - [s. 125 Suspended sentences: supplementary.](section/125.md)
+- Part VI Financial penalties and orders
+  - Financial circumstances orders
+    - [s. 126 Powers to order statement as to offender’s financial circumstances.](section/126.md)
+  - Fines: general
+    - [s. 127 General power of Crown Court to fine offender convicted on indictment.](section/127.md)
+    - [s. 128 Fixing of fines.](section/128.md)
+    - [s. 129 Remission of fines.](section/129.md)
+  - Compensation orders
+    - [s. 130 Compensation orders against convicted persons.](section/130.md)
+    - [s. 131 Limit on amount payable under compensation order of magistrates’ court in case of young offender.](section/131.md)
+    - [s. 132 Compensation orders: appeals etc.](section/132.md)
+    - [s. 133 Review of compensation orders.](section/133.md)
+    - [s. 134 Effect of compensation order on subsequent award of damages in civil proceedings.](section/134.md)
+  - Young offenders
+    - [s. 135 Limit on fines imposed by magistrates’ courts in respect of young offenders.](section/135.md)
+    - [s. 136 Power to order statement as to financial circumstances of parent or guardian.](section/136.md)
+    - [s. 137 Power to order parent or guardian to pay fine, costs, compensation or surcharge.](section/137.md)
+    - [s. 138 Fixing of fine, compensation or surcharge to be paid by parent or guardian.](section/138.md)
+  - Miscellaneous powers and duties of Crown Court in relation to recognizances etc.
+    - [s. 139 Powers and duties of Crown Court in relation to ... forfeited recognizances.](section/139.md)
+    - [s. 140 Enforcement of ... recognizances forfeited by Crown Court.](section/140.md)
+    - [s. 141 Power of Crown Court to allow time for payment, or payment by instalments, of costs and compensation.](section/141.md)
+    - [s. 142 Power of Crown Court to order search of persons before it.](section/142.md)
+- Part VII Further powers of courts
+  - Powers to deprive offender of property used etc. for purposes of crime
+    - [s. 143 Powers to deprive offender of property used etc. for purposes of crime.](section/143.md)
+    - [s. 144 Property which is in possession of police by virtue of section 143.](section/144.md)
+    - [s. 145 Application of proceeds of forfeited property.](section/145.md)
+  - Driving disqualifications
+    - [s. 146 Driving disqualification for any offence.](section/146.md)
+    - [s. 147 Driving disqualification where vehicle used for purposes of crime.](section/147.md)
+    - [s. 147A Extension of disqualification where custodial sentence also imposed](section/147A.md)
+    - [s. 147B Effect of custodial sentence in other cases](section/147B.md)
+  - Restitution orders
+    - [s. 148 Restitution orders.](section/148.md)
+    - [s. 149 Restitution orders: supplementary.](section/149.md)
+  - Young offenders
+    - [s. 150 Binding over of parent or guardian.](section/150.md)
+- Part VIII Miscellaneous and supplementary
+  - Factors to be taken into account in sentencing
+    - [s. 151 Effect of previous convictions and of offending while on bail.](section/151.md)
+    - [s. 152 Reduction in sentences for guilty pleas.](section/152.md)
+    - [s. 153 Increase in sentences for racial or religious aggravation.](section/153.md)
+  - Commencement and alteration of Crown Court sentence
+    - [s. 154 Commencement of Crown Court sentence.](section/154.md)
+    - [s. 155 Alteration of Crown Court sentence.](section/155.md)
+  - Disclosure of pre-sentence reports etc.
+    - [s. 156 Disclosure of pre-sentence reports.](section/156.md)
+    - [s. 157 Other reports of officers of local probation boards and members of youth offending teams](section/157.md)
+  - Supplementary
+    - [s. 158 Savings for powers to mitigate sentences and deal appropriately with mentally disordered offenders.](section/158.md)
+    - [s. 159 Execution of process between England and Wales and Scotland.](section/159.md)
+    - [s. 160 Rules and orders.](section/160.md)
+  - Interpretation
+    - [s. 161 Meaning of “associated offence”, “sexual offence”, “violent offence” and “protecting the public from serious harm”.](section/161.md)
+    - [s. 162 Meaning of “pre-sentence report”.](section/162.md)
+    - [s. 163 General definitions.](section/163.md)
+    - [s. 164 Further interpretive provisions.](section/164.md)
+  - Final provisions
+    - [s. 165 Consequential amendments, transitory modifications, transitional provisions and repeals.](section/165.md)
+    - [s. 166 Short title.](section/166.md)
+    - [s. 167 Extent.](section/167.md)
+    - [s. 168 Commencement.](section/168.md)
+- SCHEDULE 1 Youth offender panels: further court proceedings
+  - Part I Referral back to appropriate court: REVOCATION OF REFERRAL ORDER
+    - Introductory
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Mode of referral back to court
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Bringing the offender before the court
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Detention and remand of arrested offender
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Power of court where it upholds panel’s decision
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Appeal
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Power of court to impose fine or extend period for which contract has effect
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+    - Consequences of Court not revoking referral order or orders
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Exception where court satisfied as to completion of contract
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Discharge of extension orders
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Power to adjourn hearing and remand offender
+      - [Sch. 1 para. 9ZA](schedule/1/paragraph/9ZA.md)
+  - Part 1ZA Referral back to appropriate court: extension of period for which contract has effect
+    - [Sch. 1 para. 9ZB Introductory](schedule/1/paragraph/9ZB.md)
+    - [Sch. 1 para. 9ZC Mode of referral back to court](schedule/1/paragraph/9ZC.md)
+    - [Sch. 1 para. 9ZD Power of court](schedule/1/paragraph/9ZD.md)
+    - [Sch. 1 para. 9ZE Supplementary](schedule/1/paragraph/9ZE.md)
+  - Part 1a referral of parent or guardian for breach of section 20 order
+    - [Sch. 1 para. 9A Introductory](schedule/1/paragraph/9A.md)
+    - [Sch. 1 para. 9B Mode of referral to court](schedule/1/paragraph/9B.md)
+    - [Sch. 1 para. 9C Bringing the parent before the court](schedule/1/paragraph/9C.md)
+    - [Sch. 1 para. 9D Power of court to make parenting order: application of supplemental provisions](schedule/1/paragraph/9D.md)
+    - [Sch. 1 para. 9E Appeal](schedule/1/paragraph/9E.md)
+    - [Sch. 1 para. 9F Effect on section 20 order](schedule/1/paragraph/9F.md)
+  - Part II Further convictions during referral
+    - Extension of referral for further offences
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Extension where further offence committed after referral
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Provisions supplementary to paragraph 10
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Further convictions: power to revoke referral orders
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Interpretation
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Additional requirements which may be included in community rehabilitation orders
+  - ...
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Breach, revocation and amendment of certain community orders
+  - Part I Preliminary
+    - Definitions
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Orders made on appeal
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Functions of responsible officer
+      - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+  - Part II Breach of requirement of order
+    - Issue of summons or warrant
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Powers of magistrates’ court
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Powers of Crown Court
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Exclusions from paragraphs 4 and 5
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Community punishment orders imposed for breach of relevant order
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Attendance centre orders imposed for breach of relevant order
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Supplementary
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Part III Revocation of order
+    - Revocation of order with or without re-sentencing: powers of magistrates’ court
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Revocation of order with or without re-sentencing: powers of Crown Court on conviction et ceteralaetc.
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Substitution of conditional discharge for community rehabilitation or community punishment and rehabilitation order
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Revocation following custodial sentence by magistrates’ court unconnected with order
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Supplementary
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Part IV Amendment of order
+    - Amendment by reason of change of residence
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Amendment of requirements of community rehabilitation, community punishment and rehabilitation, curfew or exclusion order.
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Amendment of treatment requirements of community rehabilitation or community punishment and rehabilitation order on report of practitioner
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Amendment of drug treatment and testing order
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Extension of community punishment or community punishment and rehabilitation order
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Supplementary
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+- SCHEDULE 4 Transfer of certain community orders to Scotland or Northern Ireland
+  - ...
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Requirements which may be included in supervision orders
+  - Requirement to reside with named individual
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Requirement to comply with directions of supervisor
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Requirements as to activities, reparation, night restrictions et ceteralaetc.
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Requirement to live for specified period in local authority accommodation
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Requirement to live for specified period with local authority foster parent
+    - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+  - Requirements as to treatment for mental condition
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Requirements as to drug treatment and testing
+    - [Sch. 6 para. 6A](schedule/6/paragraph/6A.md)
+  - Requirements as to education
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Exercise of powers under paragraphs 3, 6 and 7
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Breach, revocation and amendment of supervision orders
+  - Meaning of “relevant court”, et ceteralaetc.
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Breach of requirement of supervision order
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Curfew orders imposed for breach of supervision order
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Attendance centre orders imposed for breach of supervision order
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Revocation and amendment of supervision order
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Amendment of order on report of medical practitioner
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Presence of offender in court, remands et ceteralaetc.
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Restrictions on court’s powers to revoke or amend order
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Copies of revoking or amending orders
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Appeals
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Power of parent or guardian to make application on behalf of young person
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Breach, revocation and amendment of ... reparation orders
+  - ...
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Breach of requirement of ... reparation order
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Curfew orders imposed for breach of action plan order or reparation order
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Attendance centre orders imposed for breach of action plan or reparation order
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Revocation and amendment of ... reparation order
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Presence of offender in court, remands et ceteralaetc.
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Power to adjourn hearing and remand offender
+    - [Sch. 8 para. 6A](schedule/8/paragraph/6A.md)
+  - Appeals
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 Consequential amendments
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Prison Act 1952 (c. 52)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Army Act 1955 (c. 18)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Air Force Act 1955 (c. 19)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Naval Discipline Act 1957 (c. 53)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - Children and Young Persons Act 1963 (c. 37)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - Criminal Justice Act 1967 (c. 80)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - Criminal Appeal Act 1968 (c. 19)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - Firearms Act 1968 (c. 27)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+  - Health Services and Public Health Act 1968 (c. 46)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - Theft Act 1968 (c. 60)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+  - Civil Evidence Act 1968 (c. 64)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1968 (c. 70)
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+  - Children and Young Persons Act 1969 (c. 54)
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+  - Administration of Justice Act 1970 (c. 31)
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+  - Attachment of Earnings Act 1971 (c. 32)
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+  - Solicitors Act 1974 (c. 47)
+    - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+  - Rehabilitation of Offenders Act 1974 (c. 53)
+    - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+    - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+    - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+  - Bail Act 1976 (c. 63)
+    - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+    - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+    - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+    - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+    - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+  - Criminal Law Act 1977 (c. 45)
+    - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+    - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+    - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+  - Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+    - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+    - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+  - Licensed Premises (Exclusion of Certain Persons) Act 1980 (c. 32)
+    - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+    - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+    - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+    - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+    - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+    - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+    - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+    - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+    - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+    - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+    - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+    - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+    - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+    - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+    - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+    - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
+    - [Sch. 9 para. 77](schedule/9/paragraph/77.md)
+    - [Sch. 9 para. 78](schedule/9/paragraph/78.md)
+    - [Sch. 9 para. 79](schedule/9/paragraph/79.md)
+    - [Sch. 9 para. 80](schedule/9/paragraph/80.md)
+  - Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 9 para. 81](schedule/9/paragraph/81.md)
+  - Criminal Attempts Act 1981 (c. 47)
+    - [Sch. 9 para. 82](schedule/9/paragraph/82.md)
+  - Contempt of Court Act 1981 (c. 49)
+    - [Sch. 9 para. 83](schedule/9/paragraph/83.md)
+    - [Sch. 9 para. 84](schedule/9/paragraph/84.md)
+    - [Sch. 9 para. 85](schedule/9/paragraph/85.md)
+    - [Sch. 9 para. 86](schedule/9/paragraph/86.md)
+  - Senior Courts Act 1981 (c. 54)
+    - [Sch. 9 para. 87](schedule/9/paragraph/87.md)
+    - [Sch. 9 para. 88](schedule/9/paragraph/88.md)
+  - Criminal Justice Act 1982 (c. 48)
+    - [Sch. 9 para. 89](schedule/9/paragraph/89.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 9 para. 90](schedule/9/paragraph/90.md)
+    - [Sch. 9 para. 91](schedule/9/paragraph/91.md)
+  - Telecommunications Act 1984 (c. 12)
+    - [Sch. 9 para. 92](schedule/9/paragraph/92.md)
+  - Child Abduction Act 1984 (c. 37)
+    - [Sch. 9 para. 93](schedule/9/paragraph/93.md)
+  - Repatriation of Prisoners Act 1984 (c. 47)
+    - [Sch. 9 para. 94](schedule/9/paragraph/94.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 9 para. 95](schedule/9/paragraph/95.md)
+    - [Sch. 9 para. 96](schedule/9/paragraph/96.md)
+    - [Sch. 9 para. 97](schedule/9/paragraph/97.md)
+    - [Sch. 9 para. 98](schedule/9/paragraph/98.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 9 para. 99](schedule/9/paragraph/99.md)
+  - Protection of Military Remains Act 1986 (c. 35)
+    - [Sch. 9 para. 100](schedule/9/paragraph/100.md)
+  - Public Order Act 1986 (c. 64)
+    - [Sch. 9 para. 101](schedule/9/paragraph/101.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 9 para. 102](schedule/9/paragraph/102.md)
+    - [Sch. 9 para. 103](schedule/9/paragraph/103.md)
+    - [Sch. 9 para. 104](schedule/9/paragraph/104.md)
+    - [Sch. 9 para. 105](schedule/9/paragraph/105.md)
+    - [Sch. 9 para. 106](schedule/9/paragraph/106.md)
+    - [Sch. 9 para. 107](schedule/9/paragraph/107.md)
+    - [Sch. 9 para. 108](schedule/9/paragraph/108.md)
+    - [Sch. 9 para. 109](schedule/9/paragraph/109.md)
+    - [Sch. 9 para. 110](schedule/9/paragraph/110.md)
+    - [Sch. 9 para. 111](schedule/9/paragraph/111.md)
+    - [Sch. 9 para. 112](schedule/9/paragraph/112.md)
+    - [Sch. 9 para. 113](schedule/9/paragraph/113.md)
+    - [Sch. 9 para. 114](schedule/9/paragraph/114.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+    - [Sch. 9 para. 115](schedule/9/paragraph/115.md)
+    - [Sch. 9 para. 116](schedule/9/paragraph/116.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 9 para. 117](schedule/9/paragraph/117.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 9 para. 118](schedule/9/paragraph/118.md)
+    - [Sch. 9 para. 119](schedule/9/paragraph/119.md)
+    - [Sch. 9 para. 120](schedule/9/paragraph/120.md)
+    - [Sch. 9 para. 121](schedule/9/paragraph/121.md)
+    - [Sch. 9 para. 122](schedule/9/paragraph/122.md)
+    - [Sch. 9 para. 123](schedule/9/paragraph/123.md)
+  - Extradition Act 1989 (c. 33)
+    - [Sch. 9 para. 124](schedule/9/paragraph/124.md)
+  - Football Spectators Act 1989 (c. 37)
+    - [Sch. 9 para. 125](schedule/9/paragraph/125.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 9 para. 126](schedule/9/paragraph/126.md)
+    - [Sch. 9 para. 127](schedule/9/paragraph/127.md)
+    - [Sch. 9 para. 128](schedule/9/paragraph/128.md)
+    - [Sch. 9 para. 129](schedule/9/paragraph/129.md)
+    - [Sch. 9 para. 130](schedule/9/paragraph/130.md)
+    - [Sch. 9 para. 131](schedule/9/paragraph/131.md)
+    - [Sch. 9 para. 132](schedule/9/paragraph/132.md)
+  - Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25)
+    - [Sch. 9 para. 133](schedule/9/paragraph/133.md)
+  - Criminal Justice Act 1991 (c. 53)
+    - [Sch. 9 para. 134](schedule/9/paragraph/134.md)
+    - [Sch. 9 para. 135](schedule/9/paragraph/135.md)
+    - [Sch. 9 para. 136](schedule/9/paragraph/136.md)
+    - [Sch. 9 para. 137](schedule/9/paragraph/137.md)
+    - [Sch. 9 para. 138](schedule/9/paragraph/138.md)
+    - [Sch. 9 para. 139](schedule/9/paragraph/139.md)
+    - [Sch. 9 para. 140](schedule/9/paragraph/140.md)
+    - [Sch. 9 para. 141](schedule/9/paragraph/141.md)
+    - [Sch. 9 para. 142](schedule/9/paragraph/142.md)
+    - [Sch. 9 para. 143](schedule/9/paragraph/143.md)
+    - [Sch. 9 para. 144](schedule/9/paragraph/144.md)
+    - [Sch. 9 para. 145](schedule/9/paragraph/145.md)
+    - [Sch. 9 para. 146](schedule/9/paragraph/146.md)
+    - [Sch. 9 para. 147](schedule/9/paragraph/147.md)
+    - [Sch. 9 para. 148](schedule/9/paragraph/148.md)
+    - [Sch. 9 para. 149](schedule/9/paragraph/149.md)
+  - Social Security Administration Act 1992 (c. 5)
+    - [Sch. 9 para. 150](schedule/9/paragraph/150.md)
+  - Aggravated Vehicle-Taking Act 1992 (c. 11)
+    - [Sch. 9 para. 151](schedule/9/paragraph/151.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 9 para. 152](schedule/9/paragraph/152.md)
+  - Probation Service Act 1993 (c. 47)
+    - [Sch. 9 para. 153](schedule/9/paragraph/153.md)
+    - [Sch. 9 para. 154](schedule/9/paragraph/154.md)
+    - [Sch. 9 para. 155](schedule/9/paragraph/155.md)
+    - [Sch. 9 para. 156](schedule/9/paragraph/156.md)
+  - Pension Schemes Act 1993 (c. 48)
+    - [Sch. 9 para. 157](schedule/9/paragraph/157.md)
+  - Vehicle Excise and Registration Act 1994 (c. 22)
+    - [Sch. 9 para. 158](schedule/9/paragraph/158.md)
+    - [Sch. 9 para. 159](schedule/9/paragraph/159.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 9 para. 160](schedule/9/paragraph/160.md)
+    - [Sch. 9 para. 161](schedule/9/paragraph/161.md)
+    - [Sch. 9 para. 162](schedule/9/paragraph/162.md)
+  - Drug Trafficking Act 1994 (c. 37)
+    - [Sch. 9 para. 163](schedule/9/paragraph/163.md)
+    - [Sch. 9 para. 164](schedule/9/paragraph/164.md)
+    - [Sch. 9 para. 165](schedule/9/paragraph/165.md)
+    - [Sch. 9 para. 166](schedule/9/paragraph/166.md)
+    - [Sch. 9 para. 167](schedule/9/paragraph/167.md)
+    - [Sch. 9 para. 168](schedule/9/paragraph/168.md)
+    - [Sch. 9 para. 169](schedule/9/paragraph/169.md)
+    - [Sch. 9 para. 170](schedule/9/paragraph/170.md)
+    - [Sch. 9 para. 171](schedule/9/paragraph/171.md)
+    - [Sch. 9 para. 172](schedule/9/paragraph/172.md)
+    - [Sch. 9 para. 173](schedule/9/paragraph/173.md)
+  - Goods Vehicles (Licensing of Operators) Act 1995 (c. 23)
+    - [Sch. 9 para. 174](schedule/9/paragraph/174.md)
+  - Children (Scotland) Act 1995 (c. 36)
+    - [Sch. 9 para. 175](schedule/9/paragraph/175.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 9 para. 176](schedule/9/paragraph/176.md)
+    - [Sch. 9 para. 177](schedule/9/paragraph/177.md)
+    - [Sch. 9 para. 178](schedule/9/paragraph/178.md)
+  - London Local Authorities Act 1995 (c. x)
+    - [Sch. 9 para. 179](schedule/9/paragraph/179.md)
+  - Criminal Evidence (Amendment) Act 1997 (c. 17)
+    - [Sch. 9 para. 180](schedule/9/paragraph/180.md)
+  - Social Security (Recovery of Benefits) Act 1997 (c. 27)
+    - [Sch. 9 para. 181](schedule/9/paragraph/181.md)
+  - Crime (Sentences) Act 1997 (c. 43)
+    - [Sch. 9 para. 182](schedule/9/paragraph/182.md)
+    - [Sch. 9 para. 183](schedule/9/paragraph/183.md)
+    - [Sch. 9 para. 184](schedule/9/paragraph/184.md)
+    - [Sch. 9 para. 185](schedule/9/paragraph/185.md)
+    - [Sch. 9 para. 186](schedule/9/paragraph/186.md)
+    - [Sch. 9 para. 187](schedule/9/paragraph/187.md)
+    - [Sch. 9 para. 188](schedule/9/paragraph/188.md)
+  - Sex Offenders Act 1997 (c. 51)
+    - [Sch. 9 para. 189](schedule/9/paragraph/189.md)
+    - [Sch. 9 para. 190](schedule/9/paragraph/190.md)
+  - Data Protection Act 1998 (c. 29)
+    - [Sch. 9 para. 191](schedule/9/paragraph/191.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 9 para. 192](schedule/9/paragraph/192.md)
+    - [Sch. 9 para. 193](schedule/9/paragraph/193.md)
+    - [Sch. 9 para. 194](schedule/9/paragraph/194.md)
+    - [Sch. 9 para. 195](schedule/9/paragraph/195.md)
+    - [Sch. 9 para. 196](schedule/9/paragraph/196.md)
+    - [Sch. 9 para. 197](schedule/9/paragraph/197.md)
+    - [Sch. 9 para. 198](schedule/9/paragraph/198.md)
+    - [Sch. 9 para. 199](schedule/9/paragraph/199.md)
+    - [Sch. 9 para. 200](schedule/9/paragraph/200.md)
+    - [Sch. 9 para. 201](schedule/9/paragraph/201.md)
+    - [Sch. 9 para. 202](schedule/9/paragraph/202.md)
+    - [Sch. 9 para. 203](schedule/9/paragraph/203.md)
+  - Access to Justice Act 1999 (c. 22)
+    - [Sch. 9 para. 204](schedule/9/paragraph/204.md)
+  - Youth Justice and Criminal Evidence Act 1999 (c. 23)
+    - [Sch. 9 para. 205](schedule/9/paragraph/205.md)
+- SCHEDULE 10 Transitory modifications
+  - Section 8
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Section 13
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Sections 63 and 66 and Schedule 7
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Section 67
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Section 69
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Section 73
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Section 83
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Sections 122 and 124
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Section 150
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Section 155
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Schedule 3
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Schedule 5
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Schedule 6
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Meaning of “the relevant commencement date”, et ceteralaetc.
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Power to make transitional provision
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Saving for old transitional provisions
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+- SCHEDULE 11 Transitional provisions
+  - Part I General
+    - Continuity of the law: general
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - General saving for old transitional provisions and savings
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Use of existing forms etc.
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Part II Specific provisions: replication of old transitional provisions
+    - Sections 37, 41, 46 and 79 and Schedules 2, 3 and 6: consent requirements
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Section 37: minimum age for curfew order
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Custodial sentences for young offenders: section 98 and re-sentencing powers
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Sections 143, 147, 148 and 150: miscellaneous transitional provisions
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Part III Specific provisions: miscellaneous transitional provisions
+    - Referral orders
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Modifications for Isles of Scilly
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Consequential amendments
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Part IV Interpretation
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+- SCHEDULE 12 Repeals and revocations
+  - Part I Acts of Parliament repealed
+  - Part II Subordinate legislation revoked
