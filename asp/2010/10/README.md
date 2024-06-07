@@ -1,0 +1,138 @@
+# Interpretation and Legislative Reform (Scotland) Act 2010
+
+asp/2010/10. Enacted 2010-06-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-06-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/10
+
+Source: https://www.legislation.gov.uk/asp/2010/10/2024-06-07
+
+## Contents
+
+- Part 1 Interpretation
+  - Application of Part 1
+    - [s. 1 Application of Part 1](section/1.md)
+  - Commencement
+    - [s. 2 Commencement of Acts of the Scottish Parliament](section/2.md)
+    - [s. 3 Commencement of Acts of the Scottish Parliament and Scottish instruments: time](section/3.md)
+  - Powers
+    - [s. 4 Exercise of powers before commencement of Act of the Scottish Parliament](section/4.md)
+    - [s. 5 Power to appoint to an office](section/5.md)
+    - [s. 6 Power to revoke, amend and re-enact](section/6.md)
+    - [s. 7 Carrying out of powers and duties more than once](section/7.md)
+    - [s. 8 Additional powers on commencement by order](section/8.md)
+  - References to legislative provisions
+    - [s. 9 References to Acts of the Scottish Parliament](section/9.md)
+    - [s. 10 References to Acts of Parliament](section/10.md)
+    - [s. 11 References to Acts of the Parliaments of Scotland](section/11.md)
+    - [s. 12 References to certain EU instruments](section/12.md)
+    - [s. 13 References to portions of legislative provisions](section/13.md)
+    - [s. 14 References to other legislative provisions](section/14.md)
+  - Repeals
+    - [s. 15 Effect of repeal generally](section/15.md)
+    - [s. 16 Effect of repeal on existing rights](section/16.md)
+    - [s. 17 Effect of repeal on existing liability to certain penalties](section/17.md)
+    - [s. 18 Temporary Acts of the Scottish Parliament and Scottish instruments](section/18.md)
+    - [s. 19 Effect of repeal and re-enactment](section/19.md)
+  - Application of legislation to the Crown
+    - [s. 20 Application of Acts and instruments to the Crown](section/20.md)
+  - Forms
+    - [s. 21 Forms](section/21.md)
+  - Meaning of words and expressions used in legislation
+    - [s. 22 Number](section/22.md)
+    - [s. 23 References to time of day](section/23.md)
+    - [s. 24 Meaning of words and expressions used in instruments](section/24.md)
+    - [s. 25 Definitions](section/25.md)
+    - [s. 26 Service of documents](section/26.md)
+- Part 2 Scottish statutory instruments
+  - Definition
+    - [s. 27 Definition of “Scottish statutory instrument”](section/27.md)
+  - Parliamentary scrutiny
+    - [s. 28 Instruments subject to the negative procedure](section/28.md)
+    - [s. 29 Instruments subject to the affirmative procedure](section/29.md)
+    - [s. 30 Other instruments laid before the Parliament](section/30.md)
+    - [s. 31 Failure to lay instruments in accordance with section 28(2) or 30(2)](section/31.md)
+    - [s. 32 Laying of Scottish statutory instruments before the Scottish Parliament](section/32.md)
+  - Combination of certain powers
+    - [s. 33 Combination of certain powers](section/33.md)
+  - Further provision about procedures
+    - [s. 34 Power to change procedure to which subordinate legislation is subject](section/34.md)
+    - [s. 35 Procedures prescribed in pre-commencement enactments](section/35.md)
+  - Statutory instruments subject to procedure in the Scottish Parliament
+    - [s. 36 Statutory instruments subject to procedure in the Scottish Parliament](section/36.md)
+  - Interpretation of Part 2
+    - [s. 37 Interpretation of Part 2](section/37.md)
+- Part 3 Publication of Acts and instruments
+  - Acts of the Scottish Parliament
+    - [s. 38 Official prints of Acts of the Scottish Parliament](section/38.md)
+    - [s. 39 Publication of official prints](section/39.md)
+    - [s. 40 Preservation of official prints](section/40.md)
+  - Scottish statutory instruments
+    - [s. 41 Queen’s Printer to publish instruments](section/41.md)
+    - [s. 42 Publication, numbering and citation: regulations](section/42.md)
+    - [s. 43 Preservation of Scottish statutory instruments](section/43.md)
+    - [s. 44 Publication in the Gazettes](section/44.md)
+    - [s. 45 No duty to print Scottish statutory instruments](section/45.md)
+    - [s. 46 Queen’s Printer: delegation of functions](section/46.md)
+  - Interpretation of Part 3
+    - [s. 47 Interpretation of Part 3](section/47.md)
+- Part 4 Orders subject to special parliamentary procedure
+  - [s. 48 Application of Part 4](section/48.md)
+  - [s. 49 Notice of special procedure orders](section/49.md)
+  - [s. 50 Orders to which objections are made](section/50.md)
+  - [s. 51 Orders to which no objections are made](section/51.md)
+  - [s. 52 Statement of objections](section/52.md)
+  - [s. 53 Interpretation of Part 4](section/53.md)
+- Part 5 Laying of documents other than Scottish statutory instruments
+  - [s. 54 Laying of certain documents before the Scottish Parliament](section/54.md)
+- Part 6 Miscellaneous and general
+  - [s. 55 Consequential revocation of transitional Orders](section/55.md)
+  - [s. 56 Orders](section/56.md)
+  - [s. 57 Ancillary provision](section/57.md)
+  - [s. 58 Short title and commencement](section/58.md)
+- SCHEDULE 1 Definitions of words and expressions
+  - Definitions
+  - Definitions relating to EU exit
+  - Definitions relating to the EU
+- SCHEDULE 2 Scottish statutory instruments: transitional and consequential provision
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Ministerial functions of making orders or regulations under pre-commencement enactments
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Functions of making Orders in Council
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Functions of making acts of adjournal or acts of sederunt
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Other functions of making etc. subordinate legislation under pre-commencement enactments
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Functions to which this schedule does not apply
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Modification of pre-commencement enactments
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Instruments subject to annulment in pursuance of a resolution of the Parliament
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Instruments laid in draft which cannot be made where the Parliament so resolves within 40 days
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Instruments required to be laid for a specified period before coming into force and subject to annulment by the Parliament
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Instruments which cannot be made unless a draft is laid before and approved by resolution of the Parliament
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Instruments made but which cannot come into force unless laid before, and approved by resolution of, the Parliament
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Instruments required to be laid for a specified period before coming into force
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Instruments not required to be laid before the Parliament
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Application of Part 2 to statutory instruments laid before the Parliament
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Instruments subject to annulment in pursuance of a resolution of the Parliament
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Instruments which cannot be made unless a draft is laid before and approved by resolution of the Parliament
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Other instruments laid before the Parliament
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Laying of statutory instruments before the Parliament
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
