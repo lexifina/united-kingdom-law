@@ -1,0 +1,314 @@
+# Tribunals (Scotland) Act 2014
+
+asp/2014/10. Enacted 2014-04-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-06-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2014/10
+
+Source: https://www.legislation.gov.uk/asp/2014/10/2024-06-10
+
+## Contents
+
+- PART 1 The Scottish Tribunals
+  - CHAPTER 1 Establishment and leadership
+    - Establishment and headship etc.
+      - [s. 1 Establishment of the Tribunals](section/1.md)
+      - [s. 2 Head of the Tribunals](section/2.md)
+      - [s. 3 Upholding independence](section/3.md)
+    - President of the Tribunals
+      - [s. 4 Assignment to office](section/4.md)
+      - [s. 5 Functions of office](section/5.md)
+  - CHAPTER 2 Overarching responsibilities
+    - Head of the Tribunals
+      - [s. 6 Representation of interests](section/6.md)
+      - [s. 7 Business arrangements](section/7.md)
+      - [s. 8 Delegation of functions](section/8.md)
+      - [s. 9 Directions on functions](section/9.md)
+    - Regulations by Ministers
+      - [s. 10 Authority under regulations](section/10.md)
+      - [s. 11 Consultation on regulations](section/11.md)
+    - Guiding principle
+      - [s. 12 Principle to be observed](section/12.md)
+- PART 2 Organisational arrangements
+  - CHAPTER 1 Membership types
+    - Overview and main types
+      - [s. 13 Overview of membership](section/13.md)
+      - [s. 14 Capacity of members](section/14.md)
+      - [s. 15 First-tier members](section/15.md)
+      - [s. 16 Upper members](section/16.md)
+    - Judiciary eligible to sit
+      - [s. 17 Sheriffs and judges](section/17.md)
+      - [s. 18 Authorisation of others](section/18.md)
+      - [s. 19 Judicial membership](section/19.md)
+  - CHAPTER 2 Internal structure
+    - Structure of First-tier Tribunal
+      - [s. 20 Chambers in the Tribunal](section/20.md)
+      - [s. 21 Chamber Presidents](section/21.md)
+      - [s. 22 Appointment to post](section/22.md)
+    - Structure of Upper Tribunal
+      - [s. 23 Divisions of the Tribunal](section/23.md)
+      - [s. 24 Vice-Presidents](section/24.md)
+      - [s. 25 Assignment to post](section/25.md)
+      - [s. 26 Appointment to post](section/26.md)
+- PART 3 Acquisition of functions
+  - Transfer-in from listed tribunals
+    - [s. 27 Listed tribunals](section/27.md)
+    - [s. 28 Transfer-in of functions](section/28.md)
+    - [s. 29 Transfer-in of members](section/29.md)
+  - Conferral of functions by another Act
+    - [s. 30 Accommodation of functions](section/30.md)
+    - [s. 31 Redistribution of functions](section/31.md)
+- PART 4 More about membership etc.
+  - Appointment and assignment
+    - [s. 32 Scheduled provisions](section/32.md)
+    - [s. 33 Assignment policy](section/33.md)
+  - Training, conditions and conduct
+    - [s. 34 Training and review](section/34.md)
+    - [s. 35 Conditions of membership etc.](section/35.md)
+    - [s. 36 Conduct and fitness etc.](section/36.md)
+- PART 5 Decision-making and composition
+  - Decisions in First-tier Tribunal
+    - [s. 37 Decisions in the Tribunal](section/37.md)
+    - [s. 38 Composition of the Tribunal](section/38.md)
+  - Decisions in Upper Tribunal
+    - [s. 39 Decisions in the Tribunal](section/39.md)
+    - [s. 40 Composition of the Tribunal](section/40.md)
+  - Voting where two or more members
+    - [s. 41 Voting for decisions](section/41.md)
+    - [s. 42 Chairing members](section/42.md)
+- PART 6 Review or appeal of decisions
+  - CHAPTER 1 Tribunal decisions
+    - Internal review
+      - [s. 43 Review of decisions](section/43.md)
+      - [s. 44 Actions on review](section/44.md)
+      - [s. 45 Review once only](section/45.md)
+    - Appeal from First-tier Tribunal
+      - [s. 46 Appeal from the Tribunal](section/46.md)
+      - [s. 47 Disposal of an appeal](section/47.md)
+    - Appeal from Upper Tribunal
+      - [s. 48 Appeal from the Tribunal](section/48.md)
+      - [s. 49 Disposal of an appeal](section/49.md)
+      - [s. 50 Procedure on second appeal](section/50.md)
+    - Excluded decisions
+      - [s. 51 Excluded decisions](section/51.md)
+      - [s. 52 Decisions on review](section/52.md)
+      - [s. 53 Other appeal rights](section/53.md)
+      - [s. 54 Position on transfer-in](section/54.md)
+    - Miscellaneous procedure
+      - [s. 55 Process for permission](section/55.md)
+      - [s. 56 Participation of non-parties](section/56.md)
+  - CHAPTER 2 Special jurisdiction
+    - [s. 57 Judicial review cases](section/57.md)
+    - [s. 57A Procedural steps where petition remitted](section/57A.md)
+    - [s. 58 Decision on remittal](section/58.md)
+    - [s. 59 Additional matters](section/59.md)
+    - [s. 60 Meaning of judicial review](section/60.md)
+- PART 7 Powers, procedure and administration
+  - CHAPTER 1 Powers and enforcement
+    - Cases and proceedings
+      - [s. 61 Venue for hearings](section/61.md)
+      - [s. 62 Conduct of cases](section/62.md)
+      - [s. 63 Enforcement of decisions](section/63.md)
+      - [s. 64 Award of expenses](section/64.md)
+    - Supplementary provisions
+      - [s. 65 Additional powers](section/65.md)
+      - [s. 66 Application of enactments](section/66.md)
+      - [s. 67 Offences in relation to proceedings](section/67.md)
+  - CHAPTER 2 Practice and procedure
+    - Tribunal Rules
+      - [s. 68 Tribunal Rules](section/68.md)
+      - [s. 69 Exercise of functions](section/69.md)
+      - [s. 70 Extent of rule-making](section/70.md)
+    - Particular matters
+      - [s. 71 Proceedings and steps](section/71.md)
+      - [s. 72 Hearings in cases](section/72.md)
+      - [s. 73 Evidence and decisions](section/73.md)
+    - Issuing directions
+      - [s. 74 Practice directions](section/74.md)
+      - [s. 75 Publication and effect](section/75.md)
+  - CHAPTER 3 Fees and administration
+    - [s. 76 Tribunal fees](section/76.md)
+    - [s. 77 Administrative support](section/77.md)
+    - [s. 78 Annual reporting](section/78.md)
+- PART 8 Final provisions
+  - General and ancillary
+    - [s. 79 Regulation-making](section/79.md)
+    - [s. 80 Ancillary regulations](section/80.md)
+    - [s. 81 Transitional and consequential](section/81.md)
+  - Interpretation, commencement and short title
+    - [s. 82 Interpretation](section/82.md)
+    - [s. 83 Commencement](section/83.md)
+    - [s. 84 Short title](section/84.md)
+- SCHEDULE 1 Listed tribunals
+  - PART 1 List of tribunals
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+    - [Sch. 1 para. 9B](schedule/1/paragraph/9B.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+    - [Sch. 1 para. 10B](schedule/1/paragraph/10B.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+  - PART 2 Further specification
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Transfer-in of members
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Appointment to First-tier Tribunal
+  - PART 1 Ordinary members
+    - Appointment and eligibility
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - PART 2 Legal members
+    - Application of Part
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Appointment and eligibility
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Eligibility under regulations
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Positions in First-tier Tribunal
+  - PART 1 Deputy or Temporary President
+    - Deputy President
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Temporary President
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 Assignment internally
+    - Assignment by the President of Tribunals
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Assignment of Chamber Presidents
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Assignment of other members
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Assignment of judicial members
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Appointment to Upper Tribunal
+  - PART 1 Ordinary members
+    - Appointment and eligibility
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - PART 2 Legal members
+    - Application of Part
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Appointment and eligibility
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Eligibility under regulations
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Positions in Upper Tribunal
+  - PART 1 Temporary Vice-President
+    - Temporary Vice-President
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - PART 2 Assignment internally
+    - Assignment of and by the President of Tribunals
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Assignment of Vice-Presidents etc.
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Assignment of other members
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Assignment of judicial members etc.
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Conditions of membership etc.
+  - Application of schedule
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Initial period of office
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Automatic reappointment
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Extension in senior post
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Termination of appointment
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Required oaths
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Pensions etc.
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Other conditions
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Conduct and fitness etc.
+  - PART 1 Conduct and discipline
+    - Application of Part
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Conduct rules
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Reprimand etc.
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Suspension of membership
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Judicial Complaints Reviewer
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - PART 2 Fitness and removal
+    - Application of Part
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Constitution and procedure
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Composition and remuneration
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Proceedings before tribunal
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Suspension during investigation
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Report and removal
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+- SCHEDULE 9 Transitional and consequential
+  - PART 1 Transitional and other matters
+    - Exercise of functions
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Rules of listed tribunals
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Pre-SCJC rule-making
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Adoption of inherited rules
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Chambers and divisions
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Making appointments
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - PART 2 Consequential modifications
+    - Judicial Pensions and Retirement Act 1993
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Judiciary and Courts (Scotland) Act 2008
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Scottish Civil Justice Council and Criminal Legal Assistance Act 2013
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+- SCHEDULE 10 Index of expressions
