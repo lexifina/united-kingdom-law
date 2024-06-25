@@ -1,0 +1,346 @@
+# Local Government Act (Northern Ireland) 2014
+
+nia/2014/8. Enacted 2014-05-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2014/8/2024-06-25
+
+## Contents
+
+- PART 1 COUNCILS
+  - [s. 1 Names of councils](section/1.md)
+  - [s. 2 Constitutions of councils](section/2.md)
+- PART 2 DISQUALIFICATIONS
+  - [s. 3 Disqualifications for being councillors](section/3.md)
+  - [s. 4 Disqualification of councillors for being independent members of policing and community safety partnerships](section/4.md)
+  - [s. 5 Disqualification of holders of prescribed offices and employments](section/5.md)
+- PART 3 POSITIONS OF RESPONSIBILITY
+  - [s. 6 Positions of responsibility](section/6.md)
+- PART 4 DISCHARGE OF FUNCTIONS
+  - Arrangements for discharge of functions
+    - [s. 7 Arrangements for discharge of functions of council](section/7.md)
+    - [s. 8 Arrangements by one council for discharge of functions by another council](section/8.md)
+    - [s. 9 Arrangements for discharge of functions by councils jointly](section/9.md)
+    - [s. 10 Exercise of functions not prevented by arrangements under this Part](section/10.md)
+  - Appointment of committees etc.
+    - [s. 11 Appointment of committees etc. for the purpose of discharging functions](section/11.md)
+    - [s. 12 Appointment of committee to advise on discharge of functions](section/12.md)
+    - [s. 13 Appointment of councillors to committees, etc.](section/13.md)
+  - Supplementary
+    - [s. 14 Joint committees: further provisions](section/14.md)
+    - [s. 15 Disqualification for membership of committees](section/15.md)
+    - [s. 16 Declaration required of persons who are not members of council](section/16.md)
+    - [s. 17 Voting rights of persons who are not members of council](section/17.md)
+    - [s. 18 Termination of membership on ceasing to be member of council](section/18.md)
+- PART 5 PERMITTED FORMS OF GOVERNANCE
+  - [s. 19 Permitted forms of governance](section/19.md)
+  - [s. 20 Power to prescribe additional permitted governance arrangements](section/20.md)
+- PART 6 EXECUTIVE ARRANGEMENTS
+  - Council executives
+    - [s. 21 Council executives](section/21.md)
+  - Executive functions
+    - [s. 22 Functions which are the responsibility of an executive](section/22.md)
+    - [s. 23 Functions of an executive: further provision](section/23.md)
+  - Allocation and discharge of functions
+    - [s. 24 Allocation and discharge of functions](section/24.md)
+    - [s. 25 Discharge of functions of and by another council](section/25.md)
+    - [s. 26 Joint exercise of functions](section/26.md)
+  - Overview and scrutiny committees
+    - [s. 27 Overview and scrutiny committees: functions](section/27.md)
+    - [s. 28 Overview and scrutiny committees: supplementary provision](section/28.md)
+    - [s. 29 Scrutiny officers](section/29.md)
+    - [s. 30 Reference of matters to overview and scrutiny committee etc.](section/30.md)
+    - [s. 31 Dealing with references under section 30(1)(c)](section/31.md)
+    - [s. 32 Duty of council or executive to respond to overview and scrutiny committee](section/32.md)
+    - [s. 33 Publication etc. of reports, recommendations and responses: confidential and exempt information](section/33.md)
+  - Meetings and access to information etc.
+    - [s. 34 Meetings and access to information etc.](section/34.md)
+    - [s. 35 Meetings and access to information etc.: further provision and regulations](section/35.md)
+- PART 7 MEETINGS AND PROCEEDINGS
+  - General
+    - [s. 36 Meetings and proceedings](section/36.md)
+  - Standing orders
+    - [s. 37 Standing orders](section/37.md)
+    - [s. 38 Regulations about standing orders](section/38.md)
+  - Decision-making
+    - [s. 39 Simple majority](section/39.md)
+    - [s. 40 Qualified majority](section/40.md)
+    - [s. 41 Power to require decisions to be reconsidered](section/41.md)
+- PART 8 ACCESS TO MEETINGS AND DOCUMENTS
+  - [s. 42 Admission to meetings of councils](section/42.md)
+  - [s. 43 Access to agenda and connected reports](section/43.md)
+  - [s. 44 Inspection of minutes and other documents after meetings](section/44.md)
+  - [s. 45 Inspection of background papers](section/45.md)
+  - [s. 46 Application to committees and sub-committees](section/46.md)
+  - [s. 47 Audio recording of meetings](section/47.md)
+  - [s. 48 Additional rights of access to documents for members of councils](section/48.md)
+  - [s. 49 Councils to publish additional information](section/49.md)
+  - [s. 50 Supplemental provisions and offences](section/50.md)
+  - [s. 51 Exempt information and power to vary Schedule 6](section/51.md)
+  - [s. 52 Interpretation and application of this Part](section/52.md)
+- PART 9 CONDUCT OF COUNCILLORS
+  - Code of conduct
+    - [s. 53 Code of conduct](section/53.md)
+  - Guidance
+    - [s. 54 Guidance](section/54.md)
+  - Investigations
+    - [s. 55 Investigations](section/55.md)
+    - [s. 56 Investigations: further provisions](section/56.md)
+  - Adjudication hearings
+    - [s. 56A Adjudication hearings](section/56A.md)
+  - Reports, etc.
+    - [s. 57 Reports, etc.](section/57.md)
+    - [s. 58 Interim reports](section/58.md)
+  - Decisions and recommendations
+    - [s. 59 Decision following report](section/59.md)
+    - [s. 60 Decisions on interim reports](section/60.md)
+    - [s. 61 Recommendations](section/61.md)
+  - Disclosure and registration of councillors’ interests, etc.
+    - [s. 62 Disclosure and registration of councillors’ interests, etc.](section/62.md)
+  - Miscellaneous
+    - [s. 63 Extension of 2016 Act](section/63.md)
+    - [s. 64 Expenditure of Commissioner under this Act](section/64.md)
+    - [s. 65 Interpretation](section/65.md)
+- PART 10 COMMUNITY PLANNING
+  - General
+    - [s. 66 Community planning](section/66.md)
+    - [s. 67 Community planning partners](section/67.md)
+  - Community plan
+    - [s. 68 Production of community plan](section/68.md)
+    - [s. 69 Duty to review community plan](section/69.md)
+    - [s. 70 Review of community plan](section/70.md)
+    - [s. 71 Monitoring](section/71.md)
+    - [s. 72 Implementation](section/72.md)
+  - Community involvement
+    - [s. 73 Community involvement](section/73.md)
+  - Miscellaneous
+    - [s. 74 Guidance](section/74.md)
+    - [s. 75 Duties of departments in relation to community planning](section/75.md)
+    - [s. 76 Establishment of bodies corporate](section/76.md)
+    - [s. 77 Amendments of the Planning Act (Northern Ireland) 2011](section/77.md)
+    - [s. 78 Interpretation](section/78.md)
+- PART 11 GENERAL POWERS OF COUNCILS
+  - [s. 79 Council’s general power of competence](section/79.md)
+  - [s. 80 Boundaries of the general power](section/80.md)
+  - [s. 81 Limits on charging in exercise of general power](section/81.md)
+  - [s. 82 Powers to make supplemental provision](section/82.md)
+  - [s. 83 Limits on power conferred by section 82(1)](section/83.md)
+- PART 12 PERFORMANCE IMPROVEMENT
+  - General duty
+    - [s. 84 Improvement: general duty](section/84.md)
+  - Improvement objectives
+    - [s. 85 Improvement objectives](section/85.md)
+  - Improvement: supplementary
+    - [s. 86 Improvement: supplementary](section/86.md)
+    - [s. 87 Consultation on improvement duties](section/87.md)
+    - [s. 88 Appropriate arrangements under sections 84(1) and 85(2)](section/88.md)
+  - Performance indicators and performance standards
+    - [s. 89 Performance indicators and performance standards](section/89.md)
+  - Improvement planning and information
+    - [s. 90 Collection of information relating to performance](section/90.md)
+    - [s. 91 Use of performance information](section/91.md)
+    - [s. 92 Improvement planning and publication of improvement information](section/92.md)
+  - Improvement audits and assessments
+    - [s. 93 Improvement information and planning](section/93.md)
+    - [s. 94 Improvement assessments](section/94.md)
+    - [s. 95 Audit and assessment reports](section/95.md)
+    - [s. 96 Response to section 95 reports](section/96.md)
+    - [s. 97 Annual improvement reports](section/97.md)
+  - Special inspections
+    - [s. 98 Special inspections](section/98.md)
+    - [s. 99 Reports of special inspections](section/99.md)
+  - Powers of direction, etc.
+    - [s. 100 Powers of direction, etc.](section/100.md)
+  - Supplementary
+    - [s. 101 Power to modify statutory provisions and confer new powers](section/101.md)
+    - [s. 102 Application of certain local government audit provisions](section/102.md)
+- PART 13 PARTNERSHIP PANEL
+  - [s. 103 Partnership Panel](section/103.md)
+- PART 14 SUPERVISION OF COUNCILS BY NORTHERN IRELAND DEPARTMENTS
+  - [s. 104 Power of any Northern Ireland department to direct council to make reports etc.](section/104.md)
+  - [s. 105 Inquiries and investigations](section/105.md)
+  - [s. 106 Power of any Northern Ireland department to intervene in case of default by council](section/106.md)
+  - [s. 107 International obligations](section/107.md)
+- PART 15 AMENDMENTS OF THE 2005 ORDER
+  - [s. 108 The local government auditor](section/108.md)
+  - [s. 109 Power to repeal provisions relating to surcharge, etc.](section/109.md)
+  - [s. 110 Minor and consequential amendments](section/110.md)
+- PART 16 MISCELLANEOUS
+  - Guidance
+    - [s. 111 Guidance](section/111.md)
+  - Rates
+    - [s. 112 Transitional rate relief in consequence of changes in local government districts](section/112.md)
+    - [s. 113 Commencement of the Local Government (Boundaries) Order (Northern Ireland) 2012](section/113.md)
+  - Transferred functions grant
+    - [s. 114 Transferred functions grant](section/114.md)
+  - Contracts and disposals
+    - [s. 115 Exclusion of non-commercial considerations](section/115.md)
+    - [s. 116 Control of disposals and contracts of existing councils and their finances](section/116.md)
+  - Payments for special purposes etc.
+    - [s. 117 Payments for special purposes and public appeals](section/117.md)
+  - Persons ceasing to hold office and unqualified person
+    - [s. 118 Persons ceasing to hold office](section/118.md)
+    - [s. 119 Validity of acts done by unqualified person](section/119.md)
+  - Power to dissolve Local Government Staff Commission
+    - [s. 120 Power to dissolve the Local Government Staff Commission for Northern Ireland](section/120.md)
+  - Insurance
+    - [s. 121 Insurance against accidents to councillors](section/121.md)
+  - Transfer schemes
+    - [s. 122 Schemes for transfers of assets and liabilities](section/122.md)
+    - [s. 123 Compensation for loss of office or diminution of emoluments](section/123.md)
+  - Provisions for the purposes of this Act and other purposes
+    - [s. 124 Supplementary and transitional provisions for the purposes of this Act and other purposes](section/124.md)
+  - Council websites
+    - [s. 125 Council websites](section/125.md)
+  - Supplementary
+    - [s. 126 Interpretation](section/126.md)
+    - [s. 127 Regulations and orders](section/127.md)
+    - [s. 128 Minor and consequential amendments and repeals](section/128.md)
+    - [s. 129 Commencement](section/129.md)
+    - [s. 130 Short title](section/130.md)
+- SCHEDULE 1 POSITIONS OF RESPONSIBILITY
+  - PART 1 FILLING POSITIONS OF RESPONSIBILITY BY NOMINATION
+    - Application of this Part
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Selection of positions of responsibility etc. by nominating officers
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - The formula
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Vacancies
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Selection of members at subsequent annual meetings
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - New positions of responsibility
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - PART 2 FILLING POSITIONS OF RESPONSIBILITY BY ELECTION
+    - Application of this Part
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Election to positions of responsibility
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Vacancies
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - New positions of responsibility
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Method of election
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - PART 3 CHAIRS AND DEPUTY CHAIRS
+    - Chairs and deputy chairs of council and committees
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Chair of council continues until successor takes up office
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Chair of council ceases to hold office if absent from district
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Deputy chair of council
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - PART 4 GENERAL
+    - Interpretation
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Cases where persons cease to hold positions of responsibility
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 APPOINTMENT OF COUNCILLORS TO COMMITTEES, ETC.
+  - Exclusion of positions of responsibility
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Appointment of councillors to committees
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Quota
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Vacancies
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Appointment of more than one committee
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Joint committees
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 DECLARATION ON APPOINTMENT TO COMMITTEE OF PERSON WHO IS NOT A COUNCILLOR
+- SCHEDULE 4 OVERVIEW AND SCRUTINY COMMITTEES: VOTING RIGHTS OF CO-OPTED MEMBERS
+  - Voting rights schemes
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Regulations
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 MEETINGS AND PROCEEDINGS
+  - Annual meetings
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Other meetings for transaction of general business
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Convening meetings
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Requisition for meeting
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Notice of meeting and summons to attend
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Who presides at meetings
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Quorum
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Names of members present to be recorded
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Person authorised by the Department may attend meetings
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Minutes
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Vacancies, etc., not to invalidate proceedings
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Committees, sub-committees and joint committees
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Interpretation
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 ACCESS TO INFORMATION: EXEMPT INFORMATION
+  - PART 1 DESCRIPTIONS OF EXEMPT INFORMATION
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - PART 2 QUALIFICATIONS
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - PART 3 INTERPRETATION
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO LOCAL GOVERNMENT AUDIT
+  - Local Government (Northern Ireland) Order 2005 (NI 18)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+- SCHEDULE 8 TRANSFER SCHEMES
+  - Transfer of assets and liabilities
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Transfer of staff
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Continuity
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9 MINOR AND CONSEQUENTIAL AMENDMENTS: GENERAL
+  - Local Government Act (Northern Ireland) 1972 (c.9)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Local Government (Northern Ireland) Order 2005 (NI 18)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c.7)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Planning Act (Northern Ireland) 2011 (c. 25)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 REPEALS
