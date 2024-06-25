@@ -1,0 +1,126 @@
+# Local Government Act 1992
+
+1992 c. 19. Enacted 1992-03-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1992/19/2024-06-25
+
+## Contents
+
+- Part I Citizen’s Charter Provisions
+  - Performance standards of local authorities etc.
+    - [s. 1 ................................](section/1.md)
+    - [s. 1A Permitted methods of publishing information.](section/1A.md)
+    - [s. 2 Directions under s. 1.](section/2.md)
+    - [s. 3 Functions of auditor and studies by the Commissions.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+  - Auditors’ reports and recommendations
+    - [s. 5 Duty to consider auditor’s report or recommendation.](section/5.md)
+    - [s. 6 Publicity requirements for meetings under s. 5.](section/6.md)
+  - Publication of information by the Audit Commission
+    - [s. 7 ................................](section/7.md)
+  - Competition
+    - [s. 8 Application of competitive tendering to professional services etc.](section/8.md)
+    - [s. 9 Power to define conduct as competitive or anti-competitive.](section/9.md)
+    - [s. 10 Publicity for tender specifications.](section/10.md)
+    - [s. 11 Amendments of competition provisions.](section/11.md)
+- Part II Local Government Changes for England
+  - The Local Government Commission
+    - [s. 12 The Local Government Commission for England.](section/12.md)
+  - Functions of the Local Government Commission
+    - [s. 13 Reviews and Recommendations](section/13.md)
+    - [s. 14 Changes that may be recommended.](section/14.md)
+    - [s. 14A Requests for single-member electoral areas](section/14A.md)
+    - [s. 14B Provision supplementary to section 14A](section/14B.md)
+    - [s. 15 Procedure on a review.](section/15.md)
+    - [s. 15A Alternative procedure on a review](section/15A.md)
+    - [s. 16 Consultation with the Audit Commission.](section/16.md)
+  - Implementation of recommendations
+    - [s. 17 Implementation of recommendations by order.](section/17.md)
+    - [s. 18 Consequences of structural changes etc.](section/18.md)
+    - [s. 19 Regulations for supplementing orders.](section/19.md)
+    - [s. 20 Agreements as to incidental matters.](section/20.md)
+    - [s. 21 Joint authorities.](section/21.md)
+    - [s. 22 Residuary bodies.](section/22.md)
+    - [s. 23 Staff commissions.](section/23.md)
+  - Supplemental provisions of Part II
+    - [s. 24 Abolition of the Local Government Boundary Commission for England.](section/24.md)
+    - [s. 25 Application of Part II to the Isles of Scilly.](section/25.md)
+    - [s. 26 Orders, regulations and directions under Part II.](section/26.md)
+    - [s. 27 Amendments relating to local government changes.](section/27.md)
+- Part III General
+  - [s. 28 Interpretation.](section/28.md)
+  - [s. 29 Consequential amendment, repeals and saving.](section/29.md)
+  - [s. 30 Short title, commencement and extent.](section/30.md)
+- SCHEDULE 1 Amendments of Competition Provisions
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 The Local Government Commission for England
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Remuneration, pensions et ceteralaetc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Staff
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Incidental powers
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Proceedings
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Delegation of powers
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Members’ interests
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Application of seal and proof of instruments
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Finances of the Commission
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Accounts
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - The Parliamentary Commissioner
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - House of Commons disqualification
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Amendments consequential on Part II
+  - The Fire Services Act 1947 (c. 41)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Police Act 1964 (c. 48)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - The Local Government Act 1972 (c.70)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - The Interpretation Act 1978 (c. 30)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - The Banking Act 1987 (c. 22)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 4 Repeals
+  - Part I Repeals relating to Part I
+  - Part II Repeals relating to Part II
