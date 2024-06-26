@@ -1,0 +1,166 @@
+# Trusts and Succession (Scotland) Act 2024
+
+asp/2024/2. Enacted 2024-01-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-06-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2024/2/2024-06-26
+
+## Contents
+
+- Part 1 Trusts
+  - Chapter 1 Appointment, assumption, resignation, removal and discharge of trustees
+    - Appointment or assumption
+      - [s. 1 Appointment of additional or new trustee by court: general](section/1.md)
+      - [s. 2 Appointment of new trustee by truster](section/2.md)
+      - [s. 3 Assumption of additional trustee](section/3.md)
+      - [s. 4 Operation of appointment or assumption as general conveyance of trust property](section/4.md)
+    - Resignation and removal
+      - [s. 5 Resignation of trustee](section/5.md)
+      - [s. 6 Resignation of incapable trustee](section/6.md)
+      - [s. 7 Removal of trustee by court](section/7.md)
+      - [s. 8 Removal of certain trustees by court: unfitness](section/8.md)
+      - [s. 9 Removal of trustee by co-trustees](section/9.md)
+      - [s. 10 Removal of trustee by beneficiaries](section/10.md)
+    - Saving as respects liability of trustees
+      - [s. 11 Saving as respects liability of trustees](section/11.md)
+    - Discharge
+      - [s. 12 Discharge where trustee has resigned, died or been removed from office](section/12.md)
+  - Chapter 2 Decision-making by trustees
+    - [s. 13 Decisions: preliminary](section/13.md)
+    - [s. 14 Making of decision](section/14.md)
+  - Chapter 3 Powers and duties of trustees
+    - Powers: general
+      - [s. 15 General powers of trustees](section/15.md)
+      - [s. 16 Conferring of additional powers by court](section/16.md)
+      - [s. 17 Power to take out insurance](section/17.md)
+    - Investment
+      - [s. 18 Power of investment](section/18.md)
+      - [s. 19 Exercise of power of investment](section/19.md)
+      - [s. 20 Exercise of power of investment: further provision](section/20.md)
+    - Sale of property
+      - [s. 21 Charitable trusts: sale of property](section/21.md)
+    - Delegation and the appointment of agents and nominees
+      - [s. 22 Delegation and the appointment of agents](section/22.md)
+      - [s. 23 Appointment of nominees](section/23.md)
+    - Power of advancement
+      - [s. 24 Power to advance from capital](section/24.md)
+    - Apportionment
+      - [s. 25 Exercise of power to apportion between or among beneficiaries](section/25.md)
+      - [s. 26 Time apportionment](section/26.md)
+      - [s. 27 Apportionment: disapplication of certain rules](section/27.md)
+    - Payments from income
+      - [s. 28 Power to make payments etc. from income](section/28.md)
+    - Duty to provide information
+      - [s. 29 Trustees’ duty to provide information other than on request](section/29.md)
+      - [s. 30 Trustees’ duty to provide information on request](section/30.md)
+    - Trustees’ duty of care etc.
+      - [s. 31 Trustees’ duty of care etc.](section/31.md)
+    - Breach of duty etc.
+      - [s. 32 Breach of fiduciary duty at instigation or request of beneficiary or with consent of beneficiary](section/32.md)
+      - [s. 33 Order relieving trustee of consequences of actings which are ultra vires](section/33.md)
+      - [s. 34 Provision purporting to limit liability for, or indemnify for, breach of fiduciary duty](section/34.md)
+      - [s. 35 Order relieving trustee of consequences of entering into a transaction in breach of fiduciary duty](section/35.md)
+    - Personal liability of trustees
+      - [s. 36 Trustees’ personal liability for beneficiary’s loss](section/36.md)
+      - [s. 37 Errors in distribution: circumstances in which trustee not personally liable](section/37.md)
+  - Chapter 4 Contractual rights, damages and the validity of certain transactions and documents
+    - Contractual rights
+      - [s. 38 Contractual rights](section/38.md)
+    - Damages
+      - [s. 39 Damages for loss resulting from trustee’s act or omission in ordinary course of administration](section/39.md)
+      - [s. 40 Bringing of action for damages for loss resulting from trustee’s act or omission in ordinary course of administration](section/40.md)
+      - [s. 41 Delictual liability: trustee’s right of relief against other trustees](section/41.md)
+      - [s. 42 Trustees’ liability in relation to certain obligations](section/42.md)
+    - Validity of certain transactions and documents
+      - [s. 43 Validity of certain transactions entered into by trustees](section/43.md)
+      - [s. 44 Validity of certain deeds and other documents bearing to be executed by trustees](section/44.md)
+  - Chapter 5 Duration of trust
+    - [s. 45 Abolition of restrictions on accumulation and on creation of future interests](section/45.md)
+  - Chapter 6 Private purpose trusts
+    - Private purpose trusts: general
+      - [s. 46 Private purpose trusts: general](section/46.md)
+    - Applications to the court
+      - [s. 47 Application for order requiring fulfilment of purpose of private purpose trust](section/47.md)
+      - [s. 48 Application to reform trust](section/48.md)
+    - Supervisors
+      - [s. 49 Appointment of supervisor](section/49.md)
+      - [s. 50 Rights and remedies of supervisor](section/50.md)
+      - [s. 51 Application to supervisors of certain provisions relating to removal from office and to decision making](section/51.md)
+      - [s. 52 Resignation of supervisor](section/52.md)
+  - Chapter 7 Protectors
+    - [s. 53 Protectors](section/53.md)
+    - [s. 54 Appointment of new protector](section/54.md)
+    - [s. 55 Application to protectors of certain provisions relating to removal from office and to decision making](section/55.md)
+    - [s. 56 Resignation of protector](section/56.md)
+    - [s. 57 Liability for compliance with protector’s direction](section/57.md)
+  - Chapter 8 Powers of the court
+    - Variation and termination of private trusts
+      - [s. 58 Arrangements to vary or terminate a trust etc.](section/58.md)
+      - [s. 59 Agreement or approval for purposes of section 58(2)](section/59.md)
+      - [s. 60 Giving of approval by court](section/60.md)
+      - [s. 61 Interests of negligible value](section/61.md)
+      - [s. 62 Arrangements to vary or revoke alimentary purposes](section/62.md)
+      - [s. 63 Views of persons under 18](section/63.md)
+      - [s. 64 No requirement for agreement of truster](section/64.md)
+    - Alteration of trust purposes
+      - [s. 65 Alteration of trust purposes on material change in circumstances](section/65.md)
+    - Powers in relation to ex officio trustees
+      - [s. 66 Appointment by the court of a trustee to take the place of an ex officio trustee](section/66.md)
+      - [s. 67 Office supplying ex officio trustee](section/67.md)
+    - Application in respect of defective exercise of fiduciary power etc.
+      - [s. 68 Application in respect of defective exercise of fiduciary power etc.](section/68.md)
+    - Directions relating to trust matters and the estates of deceased persons
+      - [s. 69 Applications in relation to trusts and to the estates of deceased persons](section/69.md)
+    - Expenses
+      - [s. 70 Expenses of litigation](section/70.md)
+      - [s. 71 Expenses of application](section/71.md)
+    - Miscellaneous powers
+      - [s. 72 Authorisation to make payments on basis that an event has or has not occurred or will or will not occur](section/72.md)
+      - [s. 73 Completion of title by beneficiary](section/73.md)
+      - [s. 74 Warrant to vest corporeal moveable property in beneficiary where trustee has died or become incapable](section/74.md)
+      - [s. 75 Superintendence order as to investment and distribution of trust property](section/75.md)
+- Part 2 Succession
+  - Effect of divorce, dissolution or annulment on special destination
+    - [s. 76 Effect of divorce, dissolution or annulment on special destination](section/76.md)
+  - Rights of succession to intestate estate
+    - [s. 77 Rights of succession to intestate estate](section/77.md)
+    - [s. 78 Application to court by survivor for provision on intestacy](section/78.md)
+- Part 3 Miscellaneous and general
+  - Miscellaneous
+    - [s. 79 Amendment of Requirements of Writing (Scotland) Act 1995](section/79.md)
+    - [s. 80 Amendment of Confirmation of Executors (Scotland) Act 1858](section/80.md)
+  - General
+    - [s. 81 Interpretation](section/81.md)
+    - [s. 82 Power to amend jurisdiction in relation to trusts](section/82.md)
+    - [s. 83 Meaning of incapable and related expressions](section/83.md)
+    - [s. 84 Persons who are untraceable](section/84.md)
+    - [s. 85 Modification of enactments](section/85.md)
+    - [s. 86 Ancillary provision](section/86.md)
+    - [s. 87 Repeals](section/87.md)
+    - [s. 88 Commencement](section/88.md)
+    - [s. 89 Short title](section/89.md)
+- Schedule 1 Modification of enactments
+  - [Sch. 1 para. 1 Titles to Land Consolidation (Scotland) Act 1868](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Judicial Factors (Scotland) Act 1880](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 National Parks and Access to the Countryside Act 1949](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Historic Buildings and Ancient Monuments Act 1953](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Town and Country Planning (Scotland) Act 1959](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Trusts (Scotland) Act 1961](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Trustee Investments Act 1961](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Land Compensation (Scotland) Act 1963](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Countryside (Scotland) Act 1967](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Agriculture Act 1970](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Prescription and Limitation (Scotland) Act 1973](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 National Health Service (Scotland) Act 1978](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Ancient Monuments and Archaeological Areas Act 1979](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Married Women’s Policies of Assurance (Scotland) (Amendment) Act 1980](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Civil Jurisdiction and Judgments Act 1982](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Coal Mining Subsidence Act 1991](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Age of Legal Capacity (Scotland) Act 1991](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Children (Scotland) Act 1995](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19 National Parks (Scotland) Act 2000](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20 Christmas Day and New Year’s Day Trading (Scotland) Act 2007](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21 Public Appointments and Public Bodies etc. (Scotland) Act 2003](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22 Charities and Trustee Investment (Scotland) Act 2005](schedule/1/paragraph/22.md)
+- Schedule 2 Repeals
