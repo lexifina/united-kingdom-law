@@ -1,0 +1,139 @@
+# Damages Act 1996
+
+1996 c. 48. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/48
+
+Source: https://www.legislation.gov.uk/ukpga/1996/48/2024-07-01
+
+## Contents
+
+- [s. A1 Assumed rate of return on investment of damages: England and Wales](section/A1.md)
+- [s. B1 Assumed rate of return on damages invested: Scotland](section/B1.md)
+- [s. C1 Assumed rate of return on damages invested: Northern Ireland](section/C1.md)
+- [s. 1 Assumed rate of return on investment of damages.](section/1.md)
+- [s. 2 Periodical payments](section/2.md)
+- [s. 2A Periodical payments: supplementary](section/2A.md)
+- [s. 2B Variation of orders and settlements](section/2B.md)
+- [s. 3 Provisional damages and fatal accident claims.](section/3.md)
+- [s. 4 Enhanced protection for periodical payments](section/4.md)
+- [s. 5 Meaning of structured settlement.](section/5.md)
+- [s. 6 Guarantees for public sector settlements.](section/6.md)
+- [s. 7 Interpretation.](section/7.md)
+- [s. 8 Short title, extent and commencement.](section/8.md)
+- SCHEDULE A1 ASSUMED RATE OF RETURN ON INVESTMENT OF DAMAGES: ENGLAND AND WALES
+  - [Sch. A1 para. 1 Periodic reviews of the rate of return](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2 Conducting the first review](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3 Conducting later reviews](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4 Determining the rate of return](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5 Determination](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6 Expert panel](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7 Proceedings, powers and funding of an expert panel](schedule/A1/paragraph/7.md)
+  - [Sch. A1 para. 8 Application of this Schedule where there are several rates of return](schedule/A1/paragraph/8.md)
+  - [Sch. A1 para. 9 Interpretation](schedule/A1/paragraph/9.md)
+- SCHEDULE B1 Setting the rate for section B1(1): Scotland
+  - Regular review of rates of return
+    - [Sch. B1 para. 1](schedule/B1/paragraph/1.md)
+    - [Sch. B1 para. 2](schedule/B1/paragraph/2.md)
+    - [Sch. B1 para. 3](schedule/B1/paragraph/3.md)
+  - Overview as to rate-setting
+    - [Sch. B1 para. 4](schedule/B1/paragraph/4.md)
+    - [Sch. B1 para. 5](schedule/B1/paragraph/5.md)
+    - [Sch. B1 para. 6](schedule/B1/paragraph/6.md)
+  - Returns-based assessment
+    - [Sch. B1 para. 7](schedule/B1/paragraph/7.md)
+    - [Sch. B1 para. 8](schedule/B1/paragraph/8.md)
+    - [Sch. B1 para. 9](schedule/B1/paragraph/9.md)
+  - Standard adjustments
+    - [Sch. B1 para. 10](schedule/B1/paragraph/10.md)
+    - [Sch. B1 para. 11](schedule/B1/paragraph/11.md)
+  - Notional investment portfolio
+    - [Sch. B1 para. 12](schedule/B1/paragraph/12.md)
+    - [Sch. B1 para. 13](schedule/B1/paragraph/13.md)
+  - Details within portfolio
+    - [Sch. B1 para. 14](schedule/B1/paragraph/14.md)
+    - [Sch. B1 para. 15](schedule/B1/paragraph/15.md)
+  - Hypothetical investor
+    - [Sch. B1 para. 16](schedule/B1/paragraph/16.md)
+    - [Sch. B1 para. 17](schedule/B1/paragraph/17.md)
+    - [Sch. B1 para. 18](schedule/B1/paragraph/18.md)
+  - Expression of rates set
+    - [Sch. B1 para. 19](schedule/B1/paragraph/19.md)
+    - [Sch. B1 para. 20](schedule/B1/paragraph/20.md)
+  - Single or multiple rates
+    - [Sch. B1 para. 21](schedule/B1/paragraph/21.md)
+    - [Sch. B1 para. 22](schedule/B1/paragraph/22.md)
+  - Reporting and effective date
+    - [Sch. B1 para. 23](schedule/B1/paragraph/23.md)
+    - [Sch. B1 para. 24](schedule/B1/paragraph/24.md)
+    - [Sch. B1 para. 25](schedule/B1/paragraph/25.md)
+  - Reimbursement of costs
+    - [Sch. B1 para. 26](schedule/B1/paragraph/26.md)
+  - Transitional arrangements
+    - [Sch. B1 para. 27](schedule/B1/paragraph/27.md)
+    - [Sch. B1 para. 28](schedule/B1/paragraph/28.md)
+    - [Sch. B1 para. 29](schedule/B1/paragraph/29.md)
+    - [Sch. B1 para. 30](schedule/B1/paragraph/30.md)
+  - Procedure for regulations
+    - [Sch. B1 para. 31](schedule/B1/paragraph/31.md)
+  - Interpretation of schedule
+    - [Sch. B1 para. 32](schedule/B1/paragraph/32.md)
+    - [Sch. B1 para. 33](schedule/B1/paragraph/33.md)
+- SCHEDULE C1 Setting the rate for section C1(1): Northern Ireland
+  - Regular review of rates of return
+    - [Sch. C1 para. 1](schedule/C1/paragraph/1.md)
+    - [Sch. C1 para. 2](schedule/C1/paragraph/2.md)
+    - [Sch. C1 para. 3](schedule/C1/paragraph/3.md)
+  - Overview as to rate-setting
+    - [Sch. C1 para. 4](schedule/C1/paragraph/4.md)
+    - [Sch. C1 para. 5](schedule/C1/paragraph/5.md)
+    - [Sch. C1 para. 6](schedule/C1/paragraph/6.md)
+  - Returns-based assessment
+    - [Sch. C1 para. 7](schedule/C1/paragraph/7.md)
+    - [Sch. C1 para. 8](schedule/C1/paragraph/8.md)
+    - [Sch. C1 para. 9](schedule/C1/paragraph/9.md)
+  - Standard adjustments
+    - [Sch. C1 para. 10](schedule/C1/paragraph/10.md)
+    - [Sch. C1 para. 11](schedule/C1/paragraph/11.md)
+  - Notional investment portfolio
+    - [Sch. C1 para. 12](schedule/C1/paragraph/12.md)
+    - [Sch. C1 para. 13](schedule/C1/paragraph/13.md)
+  - Details within portfolio
+    - [Sch. C1 para. 14](schedule/C1/paragraph/14.md)
+    - [Sch. C1 para. 15](schedule/C1/paragraph/15.md)
+  - Hypothetical investor
+    - [Sch. C1 para. 16](schedule/C1/paragraph/16.md)
+    - [Sch. C1 para. 17](schedule/C1/paragraph/17.md)
+    - [Sch. C1 para. 18](schedule/C1/paragraph/18.md)
+  - Expression of rates set
+    - [Sch. C1 para. 19](schedule/C1/paragraph/19.md)
+    - [Sch. C1 para. 20](schedule/C1/paragraph/20.md)
+  - Single or multiple rates
+    - [Sch. C1 para. 21](schedule/C1/paragraph/21.md)
+    - [Sch. C1 para. 22](schedule/C1/paragraph/22.md)
+  - Reporting and effective date
+    - [Sch. C1 para. 23](schedule/C1/paragraph/23.md)
+    - [Sch. C1 para. 24](schedule/C1/paragraph/24.md)
+    - [Sch. C1 para. 25](schedule/C1/paragraph/25.md)
+  - Reimbursement of costs
+    - [Sch. C1 para. 26](schedule/C1/paragraph/26.md)
+  - Transitional arrangements
+    - [Sch. C1 para. 27](schedule/C1/paragraph/27.md)
+    - [Sch. C1 para. 28](schedule/C1/paragraph/28.md)
+    - [Sch. C1 para. 29](schedule/C1/paragraph/29.md)
+    - [Sch. C1 para. 30](schedule/C1/paragraph/30.md)
+  - Procedure for regulations
+    - [Sch. C1 para. 31](schedule/C1/paragraph/31.md)
+  - Interpretation of Schedule
+    - [Sch. C1 para. 32](schedule/C1/paragraph/32.md)
+    - [Sch. C1 para. 33](schedule/C1/paragraph/33.md)
+    - [Sch. C1 para. 34](schedule/C1/paragraph/34.md)
+- SCHEDULE 1 Guarantees by Northern Ireland departments for public sector settlements
+  - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - [Sch. paragraph 3](schedule/paragraph/3.md)
+  - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - [Sch. paragraph 5](schedule/paragraph/5.md)
+  - [Sch. paragraph 6](schedule/paragraph/6.md)
