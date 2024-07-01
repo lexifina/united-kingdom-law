@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-05-24, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-05-24
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-07-01
 
 ## Contents
 
@@ -768,6 +768,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-05-24
     - Other body added on 26th November 2020
     - Other office added on 1st December 2020
     - Other body added on 23rd December 2021
+    - Other bodies and offices added on 1st July 2024
   - PART 4 PUBLIC AUTHORITIES: CROSS-BORDER AUTHORITIES
     - Cross-border Welsh authorities
 - SCHEDULE 20
