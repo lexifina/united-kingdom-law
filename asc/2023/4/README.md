@@ -1,0 +1,129 @@
+# Agriculture (Wales) Act 2023
+
+asc/2023/4. Enacted 2023-08-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2023/4
+
+Source: https://www.legislation.gov.uk/asc/2023/4/2024-07-15
+
+## Contents
+
+- PART 1 SUSTAINABLE LAND MANAGEMENT
+  - The objectives
+    - [s. 1 The sustainable land management objectives](section/1.md)
+  - The duty
+    - [s. 2 Welsh Ministers’ duty in relation to the objectives](section/2.md)
+    - [s. 3 Exceptions from the duty in section 2](section/3.md)
+  - Monitoring and reporting
+    - [s. 4 Sustainable land management indicators and targets](section/4.md)
+    - [s. 5 Steps to be taken in preparing or revising indicators and targets](section/5.md)
+    - [s. 6 Sustainable land management reports](section/6.md)
+    - [s. 7 Steps to be taken in preparing reports](section/7.md)
+- PART 2 SUPPORT FOR AGRICULTURE ETC.
+  - CHAPTER 1 WELSH MINISTERS’ POWER TO PROVIDE SUPPORT
+    - [s. 8 Welsh Ministers’ power to provide support](section/8.md)
+    - [s. 9 Further provision about support under section 8](section/9.md)
+    - [s. 10 Power to make provision about publication of information about support](section/10.md)
+    - [s. 11 Multi-annual support plans](section/11.md)
+    - [s. 12 Power to make provision about checking eligibility for support, etc.](section/12.md)
+    - [s. 13 Annual report about support provided under section 8](section/13.md)
+    - [s. 14 Impact Report](section/14.md)
+    - [s. 15 Steps to be taken in preparing report under section 14](section/15.md)
+  - CHAPTER 2 POWERS TO MODIFY LEGISLATION RELATING TO FINANCIAL AND OTHER SUPPORT
+    - [s. 16 Power to modify legislation governing the basic payment scheme](section/16.md)
+    - [s. 17 Power to modify legislation relating to the common agricultural policy](section/17.md)
+    - [s. 18 Power to modify legislation relating to support for apiculture](section/18.md)
+    - [s. 19 Power to modify legislation relating to support for rural development](section/19.md)
+    - [s. 20 Relationship with other powers to modify legislation](section/20.md)
+  - CHAPTER 3 INTERVENTION IN AGRICULTURAL MARKETS
+    - [s. 21 Declaration relating to exceptional market conditions](section/21.md)
+    - [s. 22 Exceptional market conditions: powers available to Welsh Ministers](section/22.md)
+    - [s. 23 Power to modify retained direct EU legislation relating to public market intervention and private storage aid](section/23.md)
+  - CHAPTER 4 AGRICULTURAL TENANCIES
+    - [s. 24 Agricultural Holdings: dispute resolution relating to financial support](section/24.md)
+- PART 3 MATTERS RELATING TO AGRICULTURE AND AGRICULTURAL PRODUCTS
+  - CHAPTER 1 COLLECTION AND SHARING OF DATA
+    - [s. 25 Agri-food supply chains: requirement to provide information](section/25.md)
+    - [s. 26 Meaning of “agri-food supply chain”](section/26.md)
+    - [s. 27 Relevant activity: requirement to provide information](section/27.md)
+    - [s. 28 Meaning of “relevant activity”](section/28.md)
+    - [s. 29 Requirement to specify purposes for which information may be processed](section/29.md)
+    - [s. 30 Duty to publish requirement under section 25(1) or 27(1) in draft](section/30.md)
+    - [s. 31 Provision of required information and limitations on its processing](section/31.md)
+    - [s. 32 Enforcement of information requirements](section/32.md)
+    - [s. 33 Review of operation and effect of sections 25 to 32](section/33.md)
+  - CHAPTER 2 MARKETING STANDARDS: AGRICULTURAL PRODUCTS
+    - [s. 34 Marketing standards](section/34.md)
+  - CHAPTER 3 CLASSIFICATION OF CERTAIN CARCASSES ETC.
+    - [s. 35 Carcass classification](section/35.md)
+- PART 4 FORESTRY
+  - [s. 36 Overview of Part](section/36.md)
+  - [s. 37 Conditions of tree felling licences](section/37.md)
+  - [s. 38 Amendment of tree felling licences by agreement](section/38.md)
+  - [s. 39 Varying, suspending or revoking tree felling licences](section/39.md)
+  - [s. 40 Tree Preservation Orders](section/40.md)
+  - [s. 41 Appeals and compensation](section/41.md)
+  - [s. 42 Penalty for felling without licence](section/42.md)
+  - [s. 43 Service of documents](section/43.md)
+  - [s. 44 Consequential amendments to the Forestry Act 1967](section/44.md)
+- PART 5 WILDLIFE
+  - [s. 45 Overview of Part](section/45.md)
+  - [s. 46 Prohibition on use of snares and glue traps](section/46.md)
+  - [s. 47 Modification of prohibitions on use of other methods to kill or take wild animals](section/47.md)
+  - [s. 48 Consequential amendments to the Wildlife and Countryside Act 1981](section/48.md)
+- PART 6 GENERAL
+  - [s. 49 Power to make consequential, transitional etc. provision](section/49.md)
+  - [s. 50 Regulations under this Act](section/50.md)
+  - [s. 51 Meaning of “agriculture” and related references](section/51.md)
+  - [s. 52 Meaning of “ancillary activity”](section/52.md)
+  - [s. 53 Power to amend sections 51 and 52](section/53.md)
+  - [s. 54 Other interpretation](section/54.md)
+  - [s. 55 Consequential amendments and repeals etc.](section/55.md)
+  - [s. 56 Coming into force](section/56.md)
+  - [s. 57 Short title](section/57.md)
+- SCHEDULE 1 AGRICULTURAL PRODUCTS RELEVANT TO MARKETING STANDARDS PROVISIONS
+  - [Sch. 1 para. 1 Milk and milk products](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Spreadable fats](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Beef and veal](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Poultry and poultrymeat](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Eggs and egg products](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Fruit and vegetables, other than olives](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Olive oil and table olives](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Hops](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Wine](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Aromatised wine](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Interpretation](schedule/1/paragraph/11.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL AMENDMENTS ETC. RELATING TO PARTS 1 TO 3
+  - PART 1 AMENDMENTS, REPEALS AND SAVINGS RELATING TO THE AGRICULTURE ACT 2020
+    - [Sch. 2 para. 1 Agriculture Act 2020 (c. 21)](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Agriculture Act 2020 (c. 21)](schedule/2/paragraph/2.md)
+  - PART 2 AMENDMENTS TO OTHER ACTS
+    - [Sch. 2 para. 3 Environment Act 1995 (c. 25)](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Countryside and Rights of Way Act 2000 (c. 37)](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Planning and Compulsory Purchase Act 2004 (c. 5)](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Environment (Wales) Act 2016 (anaw 3)](schedule/2/paragraph/6.md)
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS ETC. TO THE CMO REGULATION
+  - PART 1 AMENDMENTS RELATING TO CHAPTER 3 OF PART 2 (INTERVENTION IN MARKETS)
+    - [Sch. 3 para. 1 Exceptional market conditions](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2 Exceptional market conditions](schedule/3/paragraph/2.md)
+  - PART 2 AMENDMENTS RELATING TO SECTION 34 (MARKETING STANDARDS)
+    - [Sch. 3 para. 3 Marketing standards](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4 Marketing standards](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5 Marketing standards](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6 Marketing standards](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7 Marketing standards](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8 Marketing standards](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9 Marketing standards](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10 Marketing standards](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11 Marketing standards](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12 Marketing standards](schedule/3/paragraph/12.md)
+  - PART 3 AMENDMENTS RELATING TO SECTION 35 (CARCASS CLASSIFICATION)
+    - [Sch. 3 para. 13 Carcass classification](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14 Carcass classification](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15 Carcass classification](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16 Carcass classification](schedule/3/paragraph/16.md)
+  - PART 4 SAVING PROVISION
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
