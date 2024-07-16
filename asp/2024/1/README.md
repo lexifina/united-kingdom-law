@@ -1,0 +1,238 @@
+# United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024
+
+asp/2024/1. Enacted 2024-01-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2024/1
+
+Source: https://www.legislation.gov.uk/asp/2024/1/2024-07-16
+
+## Contents
+
+- Part 1 The UNCRC requirements
+  - Meaning of “the UNCRC requirements” and related expressions
+    - [s. 1 Meaning of “the UNCRC requirements” and related expressions](section/1.md)
+    - [s. 2 Meaning of references to States Parties and related expressions in the UNCRC requirements](section/2.md)
+    - [s. 3 Power to modify the schedule](section/3.md)
+  - Interpretation of the UNCRC requirements
+    - [s. 4 Interpretation of the UNCRC requirements](section/4.md)
+    - [s. 5 Duty to modify section 4 on ratification of the third optional protocol to the Convention](section/5.md)
+- Part 2 Duties on public authorities
+  - Acts of public authorities to be compatible with the UNCRC requirements
+    - [s. 6 Acts of public authorities to be compatible with the UNCRC requirements](section/6.md)
+  - Remedies for unlawful acts
+    - [s. 7 Proceedings for unlawful acts](section/7.md)
+    - [s. 8 Judicial remedies](section/8.md)
+    - [s. 9 Child’s view on effectiveness of reliefs etc.](section/9.md)
+    - [s. 10 Restriction on proceedings in respect of judicial acts](section/10.md)
+  - Power for Commissioner to bring or intervene in proceedings
+    - [s. 11 Power for Commissioner to bring or intervene in proceedings](section/11.md)
+  - Power for Scottish Commission for Human Rights to bring or intervene in proceedings
+    - [s. 12 Power for Scottish Commission for Human Rights to bring or intervene in proceedings](section/12.md)
+  - Guidance on this Part
+    - [s. 13 Guidance on this Part](section/13.md)
+- Part 3 Children’s rights scheme, child rights and wellbeing impact assessments and reporting duties
+  - Children’s Rights Scheme
+    - [s. 14 Children’s Rights Scheme](section/14.md)
+    - [s. 15 Procedure for making, amending and remaking the Scheme](section/15.md)
+    - [s. 16 Reviewing and reporting on the Scheme](section/16.md)
+  - Child rights and wellbeing impact assessments
+    - [s. 17 Child rights and wellbeing impact assessments](section/17.md)
+  - Reporting duty of listed authorities
+    - [s. 18 Reporting duty of listed authorities](section/18.md)
+    - [s. 19 Listed authorities](section/19.md)
+    - [s. 20 Guidance on section 18](section/20.md)
+  - Reporting duty of the Scottish Parliament
+    - [s. 21 Reporting duty of the Scottish Parliament](section/21.md)
+  - Consequential amendments
+    - [s. 22 Consequential amendments of Children and Young People (Scotland) Act 2014](section/22.md)
+- Part 4 Legislation and the UNCRC requirements
+  - [s. 23 Statements of compatibility in relation to legislation](section/23.md)
+  - [s. 24 Interpretation of legislation](section/24.md)
+  - [s. 25 Strike down declarators](section/25.md)
+  - [s. 26 Incompatibility declarators](section/26.md)
+  - [s. 27 Power to intervene in proceedings where strike down declarator or incompatibility declarator is being considered](section/27.md)
+  - [s. 28 Ministerial action following strike down declarator or incompatibility declarator](section/28.md)
+  - [s. 29 Primary legislation words to which this Part applies](section/29.md)
+  - [s. 30 Subordinate legislation words to which this Part applies](section/30.md)
+- Part 5 Compatibility questions and UNCRC compatibility issues
+  - [s. 31 Meaning of “compatibility question”](section/31.md)
+  - [s. 32 UNCRC compatibility issues in criminal proceedings](section/32.md)
+  - [s. 33 Power to institute proceedings to determine compatibility question](section/33.md)
+  - [s. 34 Power to intervene in proceedings where compatibility question arises](section/34.md)
+  - [s. 35 Reference of compatibility question to higher court](section/35.md)
+  - [s. 36 Direct references to Supreme Court: compatibility question arising in proceedings](section/36.md)
+  - [s. 37 Direct references to Supreme Court: compatibility question not arising in proceedings](section/37.md)
+  - [s. 38 Additional expenses](section/38.md)
+- Part 6 Remedial regulations
+  - [s. 39 Remedial regulations](section/39.md)
+  - [s. 40 Remedial regulations: procedure](section/40.md)
+  - [s. 41 Urgent remedial regulations](section/41.md)
+- Part 7 Final provisions
+  - [s. 42 Interpretation](section/42.md)
+  - [s. 43 No modification of the Human Rights Act 1998](section/43.md)
+  - [s. 44 Rules of court](section/44.md)
+  - [s. 45 Regulations](section/45.md)
+  - [s. 46 Ancillary provision](section/46.md)
+  - [s. 47 Commencement](section/47.md)
+  - [s. 48 Short title](section/48.md)
+- Schedule The UNCRC requirements
+  - Part 1 Rights and obligations from the Convention
+    - Article 1
+    - Article 2
+      - [Sch. part 1 crossheading 2 paragraph 1](schedule/part/1/crossheading/2/paragraph/1.md)
+      - [Sch. part 1 crossheading 2 paragraph 2](schedule/part/1/crossheading/2/paragraph/2.md)
+    - Article 3
+      - [Sch. part 1 crossheading 3 paragraph 1](schedule/part/1/crossheading/3/paragraph/1.md)
+      - [Sch. part 1 crossheading 3 paragraph 2](schedule/part/1/crossheading/3/paragraph/2.md)
+      - [Sch. part 1 crossheading 3 paragraph 3](schedule/part/1/crossheading/3/paragraph/3.md)
+    - Article 4
+    - Article 5
+    - Article 6
+      - [Sch. part 1 crossheading 6 paragraph 1](schedule/part/1/crossheading/6/paragraph/1.md)
+      - [Sch. part 1 crossheading 6 paragraph 2](schedule/part/1/crossheading/6/paragraph/2.md)
+    - Article 7
+      - [Sch. part 1 crossheading 7 paragraph 1](schedule/part/1/crossheading/7/paragraph/1.md)
+      - [Sch. part 1 crossheading 7 paragraph 2](schedule/part/1/crossheading/7/paragraph/2.md)
+    - Article 8
+      - [Sch. part 1 crossheading 8 paragraph 1](schedule/part/1/crossheading/8/paragraph/1.md)
+      - [Sch. part 1 crossheading 8 paragraph 2](schedule/part/1/crossheading/8/paragraph/2.md)
+    - Article 9
+      - [Sch. part 1 crossheading 9 paragraph 1](schedule/part/1/crossheading/9/paragraph/1.md)
+      - [Sch. part 1 crossheading 9 paragraph 2](schedule/part/1/crossheading/9/paragraph/2.md)
+      - [Sch. part 1 crossheading 9 paragraph 3](schedule/part/1/crossheading/9/paragraph/3.md)
+      - [Sch. part 1 crossheading 9 paragraph 4](schedule/part/1/crossheading/9/paragraph/4.md)
+    - Article 10
+      - [Sch. part 1 crossheading 10 paragraph 2](schedule/part/1/crossheading/10/paragraph/2.md)
+    - Article 11
+      - [Sch. part 1 crossheading 11 paragraph 1](schedule/part/1/crossheading/11/paragraph/1.md)
+    - Article 12
+      - [Sch. part 1 crossheading 12 paragraph 1](schedule/part/1/crossheading/12/paragraph/1.md)
+      - [Sch. part 1 crossheading 12 paragraph 2](schedule/part/1/crossheading/12/paragraph/2.md)
+    - Article 13
+      - [Sch. part 1 crossheading 13 paragraph 1](schedule/part/1/crossheading/13/paragraph/1.md)
+      - [Sch. part 1 crossheading 13 paragraph 2](schedule/part/1/crossheading/13/paragraph/2.md)
+    - Article 14
+      - [Sch. part 1 crossheading 14 paragraph 1](schedule/part/1/crossheading/14/paragraph/1.md)
+      - [Sch. part 1 crossheading 14 paragraph 2](schedule/part/1/crossheading/14/paragraph/2.md)
+      - [Sch. part 1 crossheading 14 paragraph 3](schedule/part/1/crossheading/14/paragraph/3.md)
+    - Article 15
+      - [Sch. part 1 crossheading 15 paragraph 1](schedule/part/1/crossheading/15/paragraph/1.md)
+      - [Sch. part 1 crossheading 15 paragraph 2](schedule/part/1/crossheading/15/paragraph/2.md)
+    - Article 16
+      - [Sch. part 1 crossheading 16 paragraph 1](schedule/part/1/crossheading/16/paragraph/1.md)
+      - [Sch. part 1 crossheading 16 paragraph 2](schedule/part/1/crossheading/16/paragraph/2.md)
+    - Article 17
+    - Article 18
+      - [Sch. part 1 crossheading 18 paragraph 1](schedule/part/1/crossheading/18/paragraph/1.md)
+      - [Sch. part 1 crossheading 18 paragraph 2](schedule/part/1/crossheading/18/paragraph/2.md)
+      - [Sch. part 1 crossheading 18 paragraph 3](schedule/part/1/crossheading/18/paragraph/3.md)
+    - Article 19
+      - [Sch. part 1 crossheading 19 paragraph 1](schedule/part/1/crossheading/19/paragraph/1.md)
+      - [Sch. part 1 crossheading 19 paragraph 2](schedule/part/1/crossheading/19/paragraph/2.md)
+    - Article 20
+      - [Sch. part 1 crossheading 20 paragraph 1](schedule/part/1/crossheading/20/paragraph/1.md)
+      - [Sch. part 1 crossheading 20 paragraph 2](schedule/part/1/crossheading/20/paragraph/2.md)
+      - [Sch. part 1 crossheading 20 paragraph 3](schedule/part/1/crossheading/20/paragraph/3.md)
+    - Article 21
+    - Article 22
+      - [Sch. part 1 crossheading 22 paragraph 1](schedule/part/1/crossheading/22/paragraph/1.md)
+      - [Sch. part 1 crossheading 22 paragraph 2](schedule/part/1/crossheading/22/paragraph/2.md)
+    - Article 23
+      - [Sch. part 1 crossheading 23 paragraph 1](schedule/part/1/crossheading/23/paragraph/1.md)
+      - [Sch. part 1 crossheading 23 paragraph 2](schedule/part/1/crossheading/23/paragraph/2.md)
+      - [Sch. part 1 crossheading 23 paragraph 3](schedule/part/1/crossheading/23/paragraph/3.md)
+      - [Sch. part 1 crossheading 23 paragraph 4](schedule/part/1/crossheading/23/paragraph/4.md)
+    - Article 24
+      - [Sch. part 1 crossheading 24 paragraph 1](schedule/part/1/crossheading/24/paragraph/1.md)
+      - [Sch. part 1 crossheading 24 paragraph 2](schedule/part/1/crossheading/24/paragraph/2.md)
+      - [Sch. part 1 crossheading 24 paragraph 3](schedule/part/1/crossheading/24/paragraph/3.md)
+      - [Sch. part 1 crossheading 24 paragraph 4](schedule/part/1/crossheading/24/paragraph/4.md)
+    - Article 25
+    - Article 26
+      - [Sch. part 1 crossheading 26 paragraph 1](schedule/part/1/crossheading/26/paragraph/1.md)
+      - [Sch. part 1 crossheading 26 paragraph 2](schedule/part/1/crossheading/26/paragraph/2.md)
+    - Article 27
+      - [Sch. part 1 crossheading 27 paragraph 1](schedule/part/1/crossheading/27/paragraph/1.md)
+      - [Sch. part 1 crossheading 27 paragraph 2](schedule/part/1/crossheading/27/paragraph/2.md)
+      - [Sch. part 1 crossheading 27 paragraph 3](schedule/part/1/crossheading/27/paragraph/3.md)
+      - [Sch. part 1 crossheading 27 paragraph 4](schedule/part/1/crossheading/27/paragraph/4.md)
+    - Article 28
+      - [Sch. part 1 crossheading 28 paragraph 1](schedule/part/1/crossheading/28/paragraph/1.md)
+      - [Sch. part 1 crossheading 28 paragraph 2](schedule/part/1/crossheading/28/paragraph/2.md)
+      - [Sch. part 1 crossheading 28 paragraph 3](schedule/part/1/crossheading/28/paragraph/3.md)
+    - Article 29
+      - [Sch. part 1 crossheading 29 paragraph 1](schedule/part/1/crossheading/29/paragraph/1.md)
+      - [Sch. part 1 crossheading 29 paragraph 2](schedule/part/1/crossheading/29/paragraph/2.md)
+    - Article 30
+    - Article 31
+      - [Sch. part 1 crossheading 31 paragraph 1](schedule/part/1/crossheading/31/paragraph/1.md)
+      - [Sch. part 1 crossheading 31 paragraph 2](schedule/part/1/crossheading/31/paragraph/2.md)
+    - Article 32
+      - [Sch. part 1 crossheading 32 paragraph 1](schedule/part/1/crossheading/32/paragraph/1.md)
+      - [Sch. part 1 crossheading 32 paragraph 2](schedule/part/1/crossheading/32/paragraph/2.md)
+    - Article 33
+    - Article 34
+    - Article 35
+    - Article 36
+    - Article 37
+    - Article 38
+      - [Sch. part 1 crossheading 38 paragraph 1](schedule/part/1/crossheading/38/paragraph/1.md)
+      - [Sch. part 1 crossheading 38 paragraph 2](schedule/part/1/crossheading/38/paragraph/2.md)
+      - [Sch. part 1 crossheading 38 paragraph 4](schedule/part/1/crossheading/38/paragraph/4.md)
+    - Article 39
+    - Article 40
+      - [Sch. part 1 crossheading 40 paragraph 1](schedule/part/1/crossheading/40/paragraph/1.md)
+      - [Sch. part 1 crossheading 40 paragraph 2](schedule/part/1/crossheading/40/paragraph/2.md)
+      - [Sch. part 1 crossheading 40 paragraph 3](schedule/part/1/crossheading/40/paragraph/3.md)
+      - [Sch. part 1 crossheading 40 paragraph 4](schedule/part/1/crossheading/40/paragraph/4.md)
+    - Article 41
+    - Article 42
+  - Part 2 Rights and obligations from the first optional protocol
+    - Article 4
+      - [Sch. part 2 crossheading 1 paragraph 1](schedule/part/2/crossheading/1/paragraph/1.md)
+      - [Sch. part 2 crossheading 1 paragraph 2](schedule/part/2/crossheading/1/paragraph/2.md)
+      - [Sch. part 2 crossheading 1 paragraph 3](schedule/part/2/crossheading/1/paragraph/3.md)
+    - Article 5
+    - Article 6
+      - [Sch. part 2 crossheading 3 paragraph 1](schedule/part/2/crossheading/3/paragraph/1.md)
+      - [Sch. part 2 crossheading 3 paragraph 2](schedule/part/2/crossheading/3/paragraph/2.md)
+      - [Sch. part 2 crossheading 3 paragraph 3](schedule/part/2/crossheading/3/paragraph/3.md)
+    - Article 7
+      - [Sch. part 2 crossheading 4 paragraph 1](schedule/part/2/crossheading/4/paragraph/1.md)
+      - [Sch. part 2 crossheading 4 paragraph 2](schedule/part/2/crossheading/4/paragraph/2.md)
+  - Part 3 Rights and obligations from the second optional protocol
+    - Article 1
+    - Article 2
+    - Article 3
+      - [Sch. part 3 crossheading 3 paragraph 1](schedule/part/3/crossheading/3/paragraph/1.md)
+      - [Sch. part 3 crossheading 3 paragraph 2](schedule/part/3/crossheading/3/paragraph/2.md)
+      - [Sch. part 3 crossheading 3 paragraph 3](schedule/part/3/crossheading/3/paragraph/3.md)
+      - [Sch. part 3 crossheading 3 paragraph 4](schedule/part/3/crossheading/3/paragraph/4.md)
+      - [Sch. part 3 crossheading 3 paragraph 5](schedule/part/3/crossheading/3/paragraph/5.md)
+    - Article 4
+      - [Sch. part 3 crossheading 4 paragraph 1](schedule/part/3/crossheading/4/paragraph/1.md)
+      - [Sch. part 3 crossheading 4 paragraph 2](schedule/part/3/crossheading/4/paragraph/2.md)
+      - [Sch. part 3 crossheading 4 paragraph 3](schedule/part/3/crossheading/4/paragraph/3.md)
+      - [Sch. part 3 crossheading 4 paragraph 4](schedule/part/3/crossheading/4/paragraph/4.md)
+    - Article 6
+      - [Sch. part 3 crossheading 5 paragraph 1](schedule/part/3/crossheading/5/paragraph/1.md)
+      - [Sch. part 3 crossheading 5 paragraph 2](schedule/part/3/crossheading/5/paragraph/2.md)
+    - Article 7
+    - Article 8
+      - [Sch. part 3 crossheading 7 paragraph 1](schedule/part/3/crossheading/7/paragraph/1.md)
+      - [Sch. part 3 crossheading 7 paragraph 2](schedule/part/3/crossheading/7/paragraph/2.md)
+      - [Sch. part 3 crossheading 7 paragraph 3](schedule/part/3/crossheading/7/paragraph/3.md)
+      - [Sch. part 3 crossheading 7 paragraph 4](schedule/part/3/crossheading/7/paragraph/4.md)
+      - [Sch. part 3 crossheading 7 paragraph 5](schedule/part/3/crossheading/7/paragraph/5.md)
+      - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - Article 9
+      - [Sch. part 3 crossheading 8 paragraph 1](schedule/part/3/crossheading/8/paragraph/1.md)
+      - [Sch. part 3 crossheading 8 paragraph 2](schedule/part/3/crossheading/8/paragraph/2.md)
+      - [Sch. part 3 crossheading 8 paragraph 3](schedule/part/3/crossheading/8/paragraph/3.md)
+      - [Sch. part 3 crossheading 8 paragraph 4](schedule/part/3/crossheading/8/paragraph/4.md)
+      - [Sch. part 3 crossheading 8 paragraph 5](schedule/part/3/crossheading/8/paragraph/5.md)
+    - Article 10
+      - [Sch. part 3 crossheading 9 paragraph 4](schedule/part/3/crossheading/9/paragraph/4.md)
+    - Article 11
