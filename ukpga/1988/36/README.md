@@ -1,0 +1,104 @@
+# Court of Session Act 1988
+
+1988 c. 36. Enacted 1988-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1988/36/2024-07-16
+
+## Contents
+
+- Part I Constitution and Administration of the Court
+  - [s. 1 Number of judges of Court.](section/1.md)
+  - [s. 2 Composition of Court.](section/2.md)
+  - [s. 3 Exchequer causes.](section/3.md)
+  - [s. 4 Power of judges to act in cases relating to rates and taxes.](section/4.md)
+- Part II General Powers of the Court in Relation to Procedure
+  - [s. 5 Power to regulate procedure etc. by act of sederunt.](section/5.md)
+  - [s. 5A Rules for lay representation](section/5A.md)
+  - [s. 6 Allocation of business etc. by act of sederunt.](section/6.md)
+  - [s. 7 Fees on remit to accountants etc.](section/7.md)
+  - [s. 8 Rules Council.](section/8.md)
+- Part III Ordinary Actions
+  - Proof
+    - [s. 9 Allowing of proof by Lord Ordinary.](section/9.md)
+    - [s. 10 Evidence on commission in Outer House.](section/10.md)
+    - [s. 11 Jury actions.](section/11.md)
+  - Trial by jury
+    - [s. 12 Summoning of jury.](section/12.md)
+    - [s. 13 Selection of jury.](section/13.md)
+    - [s. 14 Application for view by jury.](section/14.md)
+    - [s. 15 Illness or death of juror during trial.](section/15.md)
+    - [s. 16 Trial to proceed despite objection to opinion and direction of judge.](section/16.md)
+    - [s. 17 Return of verdict.](section/17.md)
+  - Judgment
+    - [s. 18 Lord Ordinary’s judgment final in Outer House.](section/18.md)
+- Part IV Other Causes
+  - Consistorial causes
+    - [s. 19 Lord Advocate as party to action for nullity of marriage or divorce.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+  - Exchequer causes
+    - [s. 21 Exchequer causes to have precedence.](section/21.md)
+    - [s. 22 Lord Advocate to sue and be sued on behalf of the Crown.](section/22.md)
+    - [s. 23 Lord Advocate may be heard last.](section/23.md)
+    - [s. 24 Appeal to Supreme Court.](section/24.md)
+  - Petitions
+    - [s. 25 Disposal of petitions initiated in Outer House.](section/25.md)
+  - Summary trials
+    - [s. 26 Summary trials.](section/26.md)
+  - Special cases
+    - [s. 27 Special cases.](section/27.md)
+  - Applications to the supervisory jurisdiction of the Court
+    - [s. 27A Time limits](section/27A.md)
+    - [s. 27B Requirement for permission](section/27B.md)
+    - [s. 27C Oral hearings where permission refused, etc.](section/27C.md)
+    - [s. 27D Appeals following oral hearings](section/27D.md)
+- Part V Appeal and Review
+  - Reclaiming
+    - [s. 28 Reclaiming.](section/28.md)
+  - Review in jury actions
+    - [s. 29 Application for new trial.](section/29.md)
+    - [s. 30 Restrictions on granting of application for new trial.](section/30.md)
+    - [s. 31 Verdict may be returned subject to opinion of Inner House on point reserved.](section/31.md)
+    - [s. 31A Power to provide for single judge of Inner House to determine leave or permission and assess grounds of appeal](section/31A.md)
+  - Appeals and transmissions from sheriff
+    - [s. 32 Appeals.](section/32.md)
+    - [s. 33 Transmissions from sheriff to Court on ground of contingency.](section/33.md)
+  - Review by suspension
+    - [s. 34 Suspension of decrees of Court granted in absence.](section/34.md)
+    - [s. 35 Suspension of sheriff court decree.](section/35.md)
+  - Rehearing and additional proof in Inner House
+    - [s. 36 Rehearing by larger court of causes pending in Inner House.](section/36.md)
+    - [s. 37 Additional proof ordered by Inner House.](section/37.md)
+    - [s. 38 Evidence on commission in Inner House.](section/38.md)
+  - Judgment in Inner House
+    - [s. 39 Inner House judgment final in Court of Session.](section/39.md)
+  - Appeals to Supreme Court
+    - [s. 40 Appeals to the Supreme Court](section/40.md)
+    - [s. 40A Permission for appeal under section 40](section/40A.md)
+    - [s. 41 Interim possession, execution and expenses.](section/41.md)
+    - [s. 42 Supreme Court may make order on payment of interest.](section/42.md)
+    - [s. 43 Interest and expenses where appeal dismissed for want of prosecution.](section/43.md)
+- Part VI Miscellaneous Provisions
+  - [s. 44 Selection of judges for trial of election petitions.](section/44.md)
+  - [s. 45 Restoration of possession and specific performance.](section/45.md)
+  - [s. 46 Specific relief may be granted in interdict proceedings.](section/46.md)
+  - [s. 47 Interim interdict and other interim orders.](section/47.md)
+  - [s. 47A Power to grant warrant for ejection](section/47A.md)
+  - [s. 48 Right of audience of solicitor before the court.](section/48.md)
+  - [s. 48A Further provision as to rights of audience.](section/48A.md)
+  - [s. 49 Subscription of bill for letters of inhibition.](section/49.md)
+  - [s. 50 Copy of interlocutor granting commission and diligence to be equivalent to formal extract.](section/50.md)
+- Part VII Supplementary
+  - [s. 51 Interpretation](section/51.md)
+  - [s. 52 Consequential amendments, repeals and savings.](section/52.md)
+  - [s. 53 Short title, commencement and extent.](section/53.md)
+- SCHEDULE 1 Minor Amendments
+  - The Jury Trials (Scotland) Act 1815 (c.42)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The Sheriff Courts (Scotland) Act 1907 (c.51)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Repeals
+  - Part I Enactments Repealed
+  - Part II Repealed Enactments which are Re-enacted
+  - Part III Repealed Enactments which are not Re-enacted
