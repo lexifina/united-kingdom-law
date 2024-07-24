@@ -2,9 +2,9 @@
 
 2024 c. 18. Enacted 2024-05-24.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-24, one file per provision. Earlier versions, from 2024-05-24, are in the history before it: `git log -- ukpga/2024/18` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/18/enacted
+Source: https://www.legislation.gov.uk/ukpga/2024/18/2024-07-24
 
 ## Contents
 
