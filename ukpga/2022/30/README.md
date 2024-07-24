@@ -2,9 +2,9 @@
 
 2022 c. 30. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-25, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-07-24, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-04-25
+Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-07-24
 
 ## Contents
 
@@ -165,6 +165,8 @@ Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-04-25
     - [s. 123 Remediation orders](section/123.md)
     - [s. 124 Remediation contribution orders](section/124.md)
     - [s. 125 Meeting remediation costs of insolvent landlord](section/125.md)
+  - Insolvency of certain persons with an interest in higher-risk and relevant buildings
+    - [s. 125A Notifications by insolvency practitioners](section/125A.md)
   - Building industry schemes
     - [s. 126 Building industry schemes](section/126.md)
     - [s. 127 Building industry schemes: supplementary](section/127.md)
