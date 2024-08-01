@@ -1,0 +1,210 @@
+# Well-being of Future Generations (Wales) Act 2015
+
+anaw/2015/2. Enacted 2015-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2015/2
+
+Source: https://www.legislation.gov.uk/anaw/2015/2/2024-08-01
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview](section/1.md)
+- PART 2 IMPROVING WELL-BEING
+  - Sustainable development and well-being duty on public bodies
+    - [s. 2 Sustainable development](section/2.md)
+    - [s. 3 Well-being duty on public bodies](section/3.md)
+    - [s. 4 The well-being goals](section/4.md)
+    - [s. 5 The sustainable development principle](section/5.md)
+    - [s. 6 Meaning of “public body”](section/6.md)
+  - Well-being objectives
+    - [s. 7 Statements about well-being objectives](section/7.md)
+    - [s. 8 Welsh Ministers’ well-being objectives](section/8.md)
+    - [s. 8A Corporate joint committees’ well-being objectives](section/8A.md)
+    - [s. 9 Other public bodies’ well-being objectives](section/9.md)
+  - Measuring performance towards achieving the goals
+    - [s. 10 National indicators and annual well-being report](section/10.md)
+    - [s. 11 Future trends report](section/11.md)
+    - [s. 12 Annual reports by the Welsh Ministers](section/12.md)
+    - [s. 13 Annual reports by other public bodies](section/13.md)
+  - Guidance
+    - [s. 14 Guidance](section/14.md)
+  - Role of the Auditor General for Wales
+    - [s. 15 The sustainable development principle: Auditor General’s examinations](section/15.md)
+  - Promotion of sustainable development
+    - [s. 16 Promotion of sustainable development](section/16.md)
+- PART 3 THE FUTURE GENERATIONS COMMISSIONER FOR WALES
+  - The Commissioner
+    - [s. 17 Future Generations Commissioner for Wales](section/17.md)
+    - [s. 18 Commissioner’s general duty](section/18.md)
+  - The Commissioner’s functions
+    - [s. 19 Commissioner’s functions](section/19.md)
+    - [s. 20 Reviews by the Commissioner](section/20.md)
+    - [s. 21 Recommendations made by the Commissioner](section/21.md)
+    - [s. 22 Duty to follow recommendations](section/22.md)
+    - [s. 23 Future Generations report](section/23.md)
+    - [s. 24 Future Generations report: activity during the reporting period](section/24.md)
+  - Joint working
+    - [s. 25 Joint working](section/25.md)
+  - Advisory panel to the Commissioner
+    - [s. 26 Advisory panel](section/26.md)
+    - [s. 27 Appointed members](section/27.md)
+    - [s. 28 Payment of panel members’ expenses](section/28.md)
+- PART 4 PUBLIC SERVICES BOARDS
+  - CHAPTER 1 ESTABLISHMENT, PARTICIPATION AND SCRUTINY
+    - [s. 29 Public services boards](section/29.md)
+    - [s. 30 Invitations to participate](section/30.md)
+    - [s. 31 Invitations to participate: issue, response and duration of participation](section/31.md)
+    - [s. 32 Other partners](section/32.md)
+    - [s. 33 Changes in participation](section/33.md)
+    - [s. 34 Meetings and terms of reference](section/34.md)
+    - [s. 35 Overview and scrutiny committee of local authority](section/35.md)
+  - CHAPTER 2 IMPROVING LOCAL WELL-BEING
+    - Well-being duty on public services boards
+      - [s. 36 Well-being duty on public services boards](section/36.md)
+    - Local well-being assessments
+      - [s. 37 Assessments of local well-being](section/37.md)
+      - [s. 38 Preparation of assessments](section/38.md)
+    - Local well-being plans
+      - [s. 39 Local well-being plans](section/39.md)
+      - [s. 40 Local well-being plans: role of community councils](section/40.md)
+      - [s. 41 Preparation of local well-being plans: information about activities of others](section/41.md)
+      - [s. 42 Preparation of local well-being plans: Commissioner’s advice](section/42.md)
+      - [s. 43 Preparation of local well-being plans: further consultation and approval](section/43.md)
+      - [s. 44 Review of local well-being plans](section/44.md)
+      - [s. 45 Annual progress reports](section/45.md)
+    - Consequential modifications
+      - [s. 46 Modifications of enactments](section/46.md)
+  - CHAPTER 3 MISCELLANEOUS
+    - [s. 47 Merger and demerger of public services boards](section/47.md)
+    - [s. 48 Collaboration between public services boards](section/48.md)
+    - [s. 49 Directions to merge, demerge or collaborate](section/49.md)
+    - [s. 50 Performance indicators and standards](section/50.md)
+    - [s. 51 Guidance](section/51.md)
+- PART 5 FINAL PROVISIONS
+  - [s. 52 Meaning of “public body”: further provision](section/52.md)
+  - [s. 53 Power to make consequential etc. provision](section/53.md)
+  - [s. 54 Regulations](section/54.md)
+  - [s. 55 Interpretation](section/55.md)
+  - [s. 56 Commencement](section/56.md)
+  - [s. 57 Short title](section/57.md)
+- SCHEDULE 1 ANNUAL REPORTS BY OTHER PUBLIC BODIES
+  - Public bodies: general
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Local Health Boards and NHS trusts
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The Natural Resources Body for Wales
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 THE FUTURE GENERATIONS COMMISSIONER FOR WALES
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Validity of acts
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Duration of appointment
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Terms of appointment
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Remuneration, allowances and pensions
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Disqualification
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - End of appointment (other than through disqualification)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Powers
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Staff
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Delegation
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Deputy Commissioner
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Complaints procedure
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Register of interests
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Conflicts of interest
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Payments by the Welsh Ministers
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Annual reports
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Accounting officer
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Estimates
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Accounts
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Audit
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Examinations into the use of resources
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Seal and validity of documents
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+- SCHEDULE 3 PUBLIC SERVICES BOARDS: FURTHER PROVISION
+  - Quorum
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - First meeting
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Mandatory meetings
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Terms of reference
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Administrative support
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Sub-groups and delegation
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Representation at meetings
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 PUBLIC SERVICES BOARDS: CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - Education Act 1997 (c.44)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Local Government Act 2000 (c.22)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Education Act 2002 (c.32)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Planning and Compulsory Purchase Act 2004 (c.5)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Children Act 2004 (c.31)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Government of Wales Act 2006 (c.32)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - National Health Service (Wales) Act 2006 (c.42)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Local Government (Wales) Measure 2009 (nawm 2)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Children and Families (Wales) Measure 2010 (nawm 1)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Mental Health (Wales) Measure 2010 (nawm 7)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - Local Government (Wales) Measure 2011 (nawm 4)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Public Audit (Wales) Act 2013 (anaw 3)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+  - Violence against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 (anaw x)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
