@@ -1,0 +1,223 @@
+# Qualifications Wales Act 2015
+
+anaw/2015/5. Enacted 2015-08-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/anaw/2015/5/2024-08-01
+
+## Contents
+
+- PART 1 OVERVIEW
+  - [s. 1 Overview](section/1.md)
+- PART 2 ESTABLISHMENT AND PRINCIPAL AIMS OF QUALIFICATIONS WALES
+  - [s. 2 Establishment of Qualifications Wales](section/2.md)
+  - [s. 3 Principal aims of Qualifications Wales](section/3.md)
+- PART 3 RECOGNITION OF AWARDING BODIES
+  - General
+    - [s. 4 Recognition of awarding bodies](section/4.md)
+  - Recognition criteria
+    - [s. 5 Duty to set general recognition criteria](section/5.md)
+    - [s. 6 Power to set qualification specific recognition criteria](section/6.md)
+    - [s. 7 Revision of general and qualification specific recognition criteria](section/7.md)
+  - Recognition of awarding bodies
+    - [s. 8 General recognition of an awarding body](section/8.md)
+    - [s. 9 Qualification specific recognition of an awarding body](section/9.md)
+    - [s. 10 Rules about applications for recognition](section/10.md)
+    - [s. 11 Further provision about recognition](section/11.md)
+    - [s. 12 Recognition: interpretation](section/12.md)
+- PART 4 PRIORITY QUALIFICATIONS AND APPROVAL OF QUALIFICATIONS
+  - Priority qualifications
+    - [s. 13 Duty to prepare list of priority qualifications](section/13.md)
+    - [s. 14 Restricted priority qualifications](section/14.md)
+    - [s. 15 Power to make arrangements for development of restricted priority qualification](section/15.md)
+    - [s. 16 Approval of a restricted priority qualification developed in accordance with section 15 arrangements](section/16.md)
+    - [s. 17 Approval of a restricted priority qualification in the absence of section 15 arrangements](section/17.md)
+    - [s. 18 Approval of unrestricted priority qualifications](section/18.md)
+  - Other qualifications
+    - [s. 19 Approval of qualifications that are not priority qualifications](section/19.md)
+  - Approval criteria
+    - [s. 20 Approval criteria](section/20.md)
+  - Power for Welsh Ministers to specify minimum requirements
+    - [s. 21 Power to specify minimum requirements](section/21.md)
+  - Supplementary provision relevant to all approvals
+    - [s. 22 Conditions of approval](section/22.md)
+    - [s. 23 Duration of approval](section/23.md)
+    - [s. 24 Rules about applications for approval](section/24.md)
+  - Surrender and withdrawal of approval
+    - [s. 25 Surrender of approval](section/25.md)
+    - [s. 26 Transitional provision in connection with surrender of approval](section/26.md)
+    - [s. 27 Withdrawal of approval](section/27.md)
+    - [s. 28 Transitional provision in connection with withdrawal of approval](section/28.md)
+- PART 5 DESIGNATION OF OTHER QUALIFICATIONS
+  - [s. 29 Designation of other qualifications](section/29.md)
+  - [s. 30 Further provision about section 29 designations](section/30.md)
+  - [s. 31 Transitional provision in connection with section 29 designations](section/31.md)
+  - [s. 32 Revocation of section 29 designations](section/32.md)
+  - [s. 33 Rules about applications for designation](section/33.md)
+- PART 6 FURTHER PROVISION RELEVANT TO RECOGNITION, APPROVAL AND DESIGNATION
+  - Funding etc of certain courses
+    - [s. 34 Restriction on funding and provision of certain courses](section/34.md)
+  - Delineation of roles of Qualifications Wales and Ofqual
+    - [s. 35 Award in Wales of an approved qualification: restriction on application of conditions imposed by Ofqual](section/35.md)
+    - [s. 36 Restriction on application of conditions imposed by Qualifications Wales](section/36.md)
+- PART 7 ENFORCEMENT POWERS OF QUALIFICATIONS WALES
+  - [s. 37 Power to give directions](section/37.md)
+  - [s. 38 Power to impose monetary penalties](section/38.md)
+  - [s. 39 Monetary penalties: appeals](section/39.md)
+  - [s. 40 Monetary penalties: interest](section/40.md)
+  - [s. 41 Costs recovery for imposition of sanctions](section/41.md)
+  - [s. 42 Costs recovery: appeals](section/42.md)
+  - [s. 43 Costs: interest](section/43.md)
+  - [s. 44 Entry and inspection of premises](section/44.md)
+- PART 8 SUPPLEMENTARY
+  - Commercial activities
+    - [s. 45 Provision of services etc by Qualifications Wales](section/45.md)
+  - Review and research
+    - [s. 46 Review and research](section/46.md)
+  - Subsidiary functions
+    - [s. 47 Policy statement and statement about consultation](section/47.md)
+    - [s. 48 Complaints](section/48.md)
+    - [s. 49 Charging scheme](section/49.md)
+    - [s. 50 Grants](section/50.md)
+    - [s. 51 Provision of information or advice](section/51.md)
+    - [s. 52 Joint working](section/52.md)
+    - [s. 53 Duty to have regard to government policy and other matters](section/53.md)
+    - [s. 54 Performance of regulatory activities by Qualifications Wales](section/54.md)
+- PART 9 GENERAL
+  - [s. 55 Regulations](section/55.md)
+  - [s. 56 Interpretation of references to “qualification”](section/56.md)
+  - [s. 57 General interpretation and index of defined expressions](section/57.md)
+  - [s. 58 Consequential amendments](section/58.md)
+  - [s. 59 Power to make consequential and transitional provision etc](section/59.md)
+  - [s. 60 Coming into force](section/60.md)
+  - [s. 61 Short title and inclusion as one of the Education Acts](section/61.md)
+- SCHEDULE 1 QUALIFICATIONS WALES
+  - PART 1 ESTABLISHMENT OF QUALIFICATIONS WALES
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Membership
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - The chair and ordinary members
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The chief executive and other staff
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Committees
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Delegation
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Procedure
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Register of interests
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Supplementary powers
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Annual and other reports
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Finance
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Accounts and audit
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Examination of use of resources
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - PART 2 CONSEQUENTIAL AMENDMENTS
+    - Care Standards Act 2000 (c.14)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Freedom of Information Act 2000 (c.36)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Public Services Ombudsman (Wales) Act 2005 (c.10)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - Commissioner for Older People (Wales) Act 2006 (c.30)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Equality Act 2010 (c.15)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+- SCHEDULE 2 TRANSFERS OF PROPERTY AND STAFF TO QUALIFICATIONS WALES
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 FURTHER PROVISION ABOUT RECOGNITION OF AWARDING BODIES
+  - Duration of recognition
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Standard conditions of recognition
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Special conditions to which recognition may be subject
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Fee capping conditions
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Procedure for imposing fee capping conditions
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Review of fee capping conditions
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Revision of fee capping conditions
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Transfer conditions
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Review of decision to give direction
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Surrender of recognition
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Transitional provision in respect of surrender
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Withdrawal of recognition
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Procedure for withdrawal of recognition
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Review of decision to withdraw recognition
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Transitional provision in respect of withdrawal
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+- SCHEDULE 4 CONSEQUENTIAL AMENDMENTS
+  - Education Act 1996 (c.56)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Education Act 1997 (c.44)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Learning and Skills Act 2000 (c.21)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Education Act 2002 (c.32)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3239)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Government of Wales Act 2006 (c.32)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Education and Skills Act 2008 (c.25)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Apprenticeships, Skills, Children and Learning Act 2009 (c.22)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Education Act 2011 (c.21)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Counter-Terrorism and Security Act 2015 (c.6)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
