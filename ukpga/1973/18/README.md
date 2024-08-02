@@ -1,0 +1,164 @@
+# Matrimonial Causes Act 1973
+
+1973 c. 18. Enacted 1973-05-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-08-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 86 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
+
+Source: https://www.legislation.gov.uk/ukpga/1973/18/2024-08-02
+
+## Contents
+
+- Part I Divorce, Nullity and Other Matrimonial Suits
+  - Divorce
+    - [s. 1 Divorce on breakdown of marriage.](section/1.md)
+    - [s. 2 Supplemental provisions as to facts raising presumption of breakdown.](section/2.md)
+    - [s. 3 Bar on applying for a divorce order within one year of marriage.](section/3.md)
+    - [s. 4 Divorce not precluded by previous judicial separation.](section/4.md)
+    - [s. 5 Refusal of decree in five year separation cases on grounds of grave hardship to respondent.](section/5.md)
+    - [s. 6 Attempts at reconciliation of parties to marriage.](section/6.md)
+    - [s. 7 Consideration by the court of certain agreements or arrangements.](section/7.md)
+    - [s. 8 Intervention of Queen’s Proctor.](section/8.md)
+    - [s. 9 Proceedings before divorce order has been made final: general powers of court.](section/9.md)
+    - [s. 10 Proceedings before divorce order made final: special protection for respondent.](section/10.md)
+    - [s. 10A Proceedings before divorce order has been made final: religious marriage](section/10A.md)
+  - Nullity
+    - [s. 11 Grounds on which a marriage is void.](section/11.md)
+    - [s. 12 Grounds on which a marriage is voidable.](section/12.md)
+    - [s. 12A Grounds on which a marriage converted from a civil partnership is void or voidable](section/12A.md)
+    - [s. 12B The period before nullity of marriage orders may be made final](section/12B.md)
+    - [s. 13 Bars to relief where marriage is voidable.](section/13.md)
+    - [s. 14 Marriages governed by foreign law or celebrated abroad under English law.](section/14.md)
+    - [s. 15 Application of sections 8 and 9 to proceedings for a nullity of marriage order](section/15.md)
+    - [s. 16 Effect of annulment in case of voidable marriage.](section/16.md)
+  - Other matrimonial suits
+    - [s. 17 Judicial separation.](section/17.md)
+    - [s. 18 Effects of judicial separation.](section/18.md)
+    - [s. 19 Presumption of death and dissolution of marriage.](section/19.md)
+  - ...
+    - [s. 20 Relief for respondent in divorce proceedings.](section/20.md)
+- Part II Financial Relief for Parties to Marriage and Children of Family
+  - Financial provision and property adjustment orders
+    - [s. 21 Financial provision and property adjustment orders.](section/21.md)
+    - [s. 21A Pension sharing orders.](section/21A.md)
+    - [s. 21B Pension compensation sharing orders](section/21B.md)
+    - [s. 21C Pension compensation: interpretation](section/21C.md)
+  - Ancillary relief in connection with divorce proceedings, etc.
+    - [s. 22 Maintenance pending suit.](section/22.md)
+    - [s. 22ZA Orders for payment in respect of legal services](section/22ZA.md)
+    - [s. 22ZB Matters to which court is to have regard in deciding how to exercise power under section 22ZA](section/22ZB.md)
+    - [s. 23 Financial provision orders in connection with divorce proceedings, etc.](section/23.md)
+    - [s. 24 Property adjustment orders in connection with divorce proceedings, etc.](section/24.md)
+    - [s. 24A Orders for sale of property](section/24A.md)
+    - [s. 24B Pension sharing orders in connection with divorce proceedings etc.](section/24B.md)
+    - [s. 24C Pension sharing orders: duty to stay.](section/24C.md)
+    - [s. 24D Pension sharing orders: apportionment of charges.](section/24D.md)
+    - [s. 24E Pension compensation sharing orders in connection with divorce proceedings](section/24E.md)
+    - [s. 24F Pension compensation sharing orders: duty to stay](section/24F.md)
+    - [s. 24G Pension compensation sharing orders: apportionment of charges](section/24G.md)
+    - [s. 25 Matters to which court is to have regard in deciding how to exercise its powers under ss. 23, 24, 24A, 24B and 24E.](section/25.md)
+    - [s. 25A Exercise of court’s powers in favour of party to marriage on divorce or nullity of marriage order.](section/25A.md)
+    - [s. 25B Pensions.](section/25B.md)
+    - [s. 25C Pensions: lump sums.](section/25C.md)
+    - [s. 25D Pensions: supplementary.](section/25D.md)
+    - [s. 25E The Pension Protection Fund](section/25E.md)
+    - [s. 25F Attachment of pension compensation](section/25F.md)
+    - [s. 25G Pension compensation: supplementary](section/25G.md)
+    - [s. 26 Commencement of proceedings for ancillary relief, etc.](section/26.md)
+  - Financial provision in case of neglect to maintain
+    - [s. 27 Financial provision orders, etc., in case of neglect by party to marriage to maintain other party or child of the family.](section/27.md)
+  - Additional provisions with respect to financial provision and property adjustment orders
+    - [s. 28 Duration of continuing financial provision orders in favour of party to marriage, and effect of remarriage or formation of civil partnership.](section/28.md)
+    - [s. 29 Duration of continuing financial provision orders in favour of children, and age limit on making certain orders in their favour.](section/29.md)
+    - [s. 30 Direction for settlement of instrument for securing payments or effecting property adjustment.](section/30.md)
+  - Variation, discharge and enforcement of certain orders, etc.
+    - [s. 31 Variation, discharge, etc., of certain orders for financial relief.](section/31.md)
+    - [s. 32 Payment of certain arrears unenforceable without the leave of the court.](section/32.md)
+    - [s. 33 Orders for repayment in certain cases of sums paid under certain orders.](section/33.md)
+  - Consent orders
+    - [s. 33A Consent orders for financial provision or property adjustment.](section/33A.md)
+  - Maintenance agreements
+    - [s. 34 Validity of maintenance agreements.](section/34.md)
+    - [s. 35 Alteration of agreements by court during lives of parties.](section/35.md)
+    - [s. 36 Alteration of agreements by court after death of one party.](section/36.md)
+  - Miscellaneous and supplemental
+    - [s. 37 Avoidance of transactions intended to prevent or reduce financial relief.](section/37.md)
+    - [s. 38 Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage or formation of civil partnership.](section/38.md)
+    - [s. 39 Settlement, etc. made in compliance with a property adjustment order may be avoided on bankruptcy of settlor.](section/39.md)
+    - [s. 40 Payments, etc., under order made in favour of person suffering from mental disorder.](section/40.md)
+    - [s. 40A Appeals relating to pension sharing orders which have taken effect.](section/40A.md)
+- Part III Protection, Custody, etc., of Children
+  - [s. 41 Restrictions on decrees for dissolution, annulment or separation affecting children.](section/41.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 ................................](section/44.md)
+- Part IV Miscellaneous and Supplemental
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 Matrimonial relief and declarations of validity in respect of polygamous marriages.](section/47.md)
+  - [s. 48 Evidence.](section/48.md)
+  - [s. 49 Parties to proceedings under this Act.](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 Interpretation.](section/52.md)
+  - [s. 52A Interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders](section/52A.md)
+  - [s. 53 Transitional provisions and savings.](section/53.md)
+  - [s. 54 Consequential amendments and repeals.](section/54.md)
+  - [s. 55 Citation, commencement and extent.](section/55.md)
+- SCHEDULE 1 Transitional Provisions and Savings
+  - Part I Miscellaneous and General
+    - General transitional provisions and savings
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Transitional provisions derived from the Act of 1965
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part II Preservation for limited Purposes of certain Provisions of previous Enactments
+    - Nullity
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Succession on intestacy in case of judicial separation
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Validation of certain void or voidable decrees
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part III Assimilation in certain respects to Orders under this Act of Orders made, etc., under the Act of 1965, etc.
+    - Cesser on remarriage of orders made, etc., under the Act of 1965 and recovery of sums mistakenly paid thereafter
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Variation, etc., of certain orders made, etc., under the Act of 1965
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Orders made under the Act of 1965 to count as orders under this Act for certain purposes
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Application of provisions of this Act with respect to enforcement of arrears and recovery of excessive payments to certain orders made, etc., under the Act of 1965
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Avoidance under this Act of transactions intended to defeat claims for relief and relief granted under the Act of 1965
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Care and supervision of children
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+- SCHEDULE 2 Consequential Amendments
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3
