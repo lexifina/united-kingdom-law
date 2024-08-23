@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-01, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-08-23, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-04-01
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-08-23
 
 ## Contents
 
@@ -559,8 +559,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-04-01
   - [Sch. 9 para. 2 Internal business services (part of internet service)](schedule/9/paragraph/2.md)
   - [Sch. 9 para. 3 Services provided by public bodies](schedule/9/paragraph/3.md)
   - [Sch. 9 para. 4 Services provided by persons providing education or childcare](schedule/9/paragraph/4.md)
-  - [Sch. 9 para. 5 On-demand programme services (entire internet service)](schedule/9/paragraph/5.md)
-  - [Sch. 9 para. 6 On-demand programme services (part of internet service)](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 5 On-demand programme services and non-UK on-demand programme services that are Tier 1 services (entire internet service)](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 On-demand programme services and non-UK on-demand programme services that are Tier 1 services (part of internet service)](schedule/9/paragraph/6.md)
   - [Sch. 9 para. 7 Interpretation](schedule/9/paragraph/7.md)
 - SCHEDULE 10 Recovery of OFCOM’s initial costs
   - [Sch. 10 para. 1 Recovery of initial costs](schedule/10/paragraph/1.md)
