@@ -1,0 +1,762 @@
+# Parliamentary Voting System and Constituencies Act 2011
+
+2011 c. 1. Enacted 2011-02-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-08-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2011/1/2024-08-24
+
+## Contents
+
+- PART 1 Voting system for parliamentary elections
+  - The referendum
+    - [s. 1 Referendum on the alternative vote system](section/1.md)
+    - [s. 2 Entitlement to vote in the referendum](section/2.md)
+    - [s. 3 Conduct of the referendum](section/3.md)
+    - [s. 4 Combination of polls](section/4.md)
+    - [s. 5 Press comment etc not subject to spending controls](section/5.md)
+    - [s. 6 Control of loans etc to permitted participants](section/6.md)
+    - [s. 7 Interpretation](section/7.md)
+  - Result of the referendum
+    - [s. 8 Commencement or repeal of amending provisions](section/8.md)
+    - [s. 9 The alternative vote system: amendments](section/9.md)
+- PART 2 Parliamentary constituencies
+  - [s. 10 Boundary Commissions: reports etc](section/10.md)
+  - [s. 11 Number and distribution of seats](section/11.md)
+  - [s. 12 Boundary Commission proposals: publicity and consultation](section/12.md)
+  - [s. 13 National Assembly for Wales](section/13.md)
+  - [s. 14 Review of reduction in number of constituencies](section/14.md)
+- PART 3 Miscellaneous and general
+  - [s. 15 Orders](section/15.md)
+  - [s. 16 Repeals](section/16.md)
+  - [s. 17 Financial provisions](section/17.md)
+  - [s. 18 Extent](section/18.md)
+  - [s. 19 Commencement](section/19.md)
+  - [s. 20 Short title](section/20.md)
+- SCHEDULE 1 Further provisions about the referendum
+  - Referendum period
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Counting officers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Regional Counting Officers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Assistance to counting officers etc
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - General duties of counting officers etc
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Appointment of deputies and clerks
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Counting officers etc: correction of procedural errors
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Public notices
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Role of Electoral Commission
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Encouraging participation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Referendum agents
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Responsible persons
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Grants to designated organisations may be paid in instalments
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Expenses incurred by persons acting in concert
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Advertisements
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Non-domestic rating: premises used for referendum purposes
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Payments to counting officers and Regional Counting Officers
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Taxation of counting officer’s or Regional Counting Officer’s account
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Electoral Commission accounts
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Restriction on challenge to referendum result
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+- SCHEDULE 2 Rules for conduct of the referendum
+  - PART 1 Referendum rules
+    - Time
+      - Timetable
+        - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - Computation of time
+        - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - General provisions
+      - Notice of referendum
+        - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - Poll to be taken by ballot
+        - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - The ballot paper
+        - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - Corresponding number list
+        - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - The official mark
+        - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - Prohibition of disclosure of vote
+        - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - Use of schools and public rooms
+        - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - Modification of forms
+        - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Action to be taken before the poll
+      - Notice of poll
+        - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - Postal ballot papers
+        - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - Provision of polling stations
+        - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - Appointment of presiding officers and clerks
+        - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - Issue of official poll cards
+        - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - Notification that certain electors entitled to absent vote
+        - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - Equipment of polling stations
+        - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - Appointment of polling and counting agents
+        - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - Notification of requirement of secrecy
+        - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - Return of postal ballot papers
+        - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - The poll
+      - Admission to polling station
+        - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - Keeping of order in polling station
+        - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - Sealing of ballot boxes
+        - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - Questions to be put to voters
+        - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - Challenge of voter
+        - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - Voting procedure
+        - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+        - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+        - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+        - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - Votes marked by presiding officer
+        - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - Voting by people with disabilities
+        - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - Tendered ballot papers
+        - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+        - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - Refusal to deliver ballot paper
+        - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - Spoilt ballot papers
+        - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - Correction of errors on day of poll
+        - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - Adjournment of poll in case of riot
+        - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - Procedure on close of poll
+        - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Counting of votes
+      - Attendance at the count
+        - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - The count
+        - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - Re-count
+        - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - Rejected ballot papers
+        - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - Direction to conduct re-count
+        - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - Decisions on ballot papers
+        - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - Final proceedings
+      - Declaration by counting officers
+        - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+        - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - Declaration by Regional Counting Officers
+        - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - Declaration of referendum result by Chief Counting Officer
+        - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - Disposal of documents
+      - Sealing up of ballot papers
+        - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - Delivery or retention of documents
+        - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - Orders for production of documents
+        - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - Retention and public inspection of documents
+        - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - Supplementary
+      - Interpretation
+        - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+  - PART 2 Forms referred to in referendum rules
+    - FORM 1 - FORM OF BALLOT PAPER
+    - FORM 2 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IF REFERENDUM TAKEN ALONE)
+    - FORM 3 - FORM OF POSTAL VOTING STATEMENT
+    - FORM 4 - DECLARATION OF IDENTITY (NORTHERN IRELAND)
+    - FORM 5 - OFFICIAL POLL CARD (TO BE SENT TO AN ELECTOR NOT VOTING BY POST)
+    - FORM 6 - OFFICIAL POSTAL POLL CARD (TO BE SENT TO AN ELECTOR VOTING BY POST)
+    - FORM 7 - OFFICIAL PROXY POLL CARD (TO BE SENT TO AN APPOINTED PROXY VOTING IN PERSON)
+    - FORM 8 - OFFICIAL PROXY POSTAL POLL CARD (TO BE SENT TO AN APPOINTED PROXY VOTING BY POST)
+    - FORM 9 - OFFICIAL POLL CARD (TO BE SENT TO AN ELECTOR IN NORTHERN IRELAND NOT VOTING BY POST)
+    - FORM 10 - OFFICIAL PROXY POLL CARD (TO BE SENT TO AN APPOINTED PROXY VOTING IN PERSON IN NORTHERN IRELAND)
+    - FORM 11 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS IF REFERENDUM TAKEN ALONE)
+    - FORM 12 - FORM OF DIRECTIONS FOR THE GUIDANCE OF THE VOTERS IN VOTING
+    - FORM 13 - FORM OF CERTIFICATE OF EMPLOYMENT
+    - FORM 14 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+- SCHEDULE 3 Absent voting in the referendum
+  - PART 1 Great Britain
+    - Interpretation
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Manner of voting in the referendum
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Entitlement to vote by post or by proxy
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Application to vote by post or by proxy in the referendum
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Absent voters lists
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Proxies
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Voting as proxy
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Use of personal identifier information
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Offences
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - PART 2 Northern Ireland
+    - Interpretation
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Manner of voting in the referendum
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Entitlement to vote by post or by proxy
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Application to vote by post or by proxy in the referendum
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Absent voters lists
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Proxies
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Voting as proxy
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Offences
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - PART 3 Form of proxy paper
+- SCHEDULE 4 Application to the referendum of existing provisions
+  - PART 1 Representation of the People Act 1983
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - PART 2 Other Acts
+    - Political Parties, Elections and Referendums Act 2000
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Electoral Administration Act 2006
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - PART 3 The 2001 Regulations (England and Wales) and 2001 Regulations (Scotland)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 4 The 2008 Regulations (Northern Ireland)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Combination of polls: England
+  - PART 1 Provision about combination
+    - General provisions
+      - Interpretation
+        - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+        - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - Functions to be performed by counting officer
+        - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - Attendance and conduct of observers
+        - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - Cost of combined polls
+        - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+        - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - Application of other provisions about combination of polls
+        - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - Forms
+        - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Action to be taken before poll
+      - Corresponding number lists
+        - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+        - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - Notice of poll
+        - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - Notice of polling stations
+        - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - Postal voting statements
+        - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+        - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - Colour of ballot papers
+        - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - Polling stations
+        - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - Official poll cards
+        - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - Ballot boxes
+        - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - Form of corresponding number lists provided to polling stations
+        - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - Ballot paper displayed in polling stations
+        - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+      - Guidance to be exhibited inside and outside polling stations
+        - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - Guidance to be exhibited in each polling station compartment
+        - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - Notice of appointment of polling and counting agents
+        - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - The poll
+      - Admission to the polling station
+        - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - Voting by persons on duty on day of poll
+        - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - Questions put to voters: local referendums
+        - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - Voting procedure: copies of registers and absent voters lists
+        - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+        - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+        - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - List of votes marked by presiding officer
+        - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - Declaration to be made by the companion of a voter with disabilities
+        - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+      - List of voters with disabilities assisted by companions
+        - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+      - Tendered votes list
+        - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+      - Lists relating to correction of errors on day of poll
+        - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+      - Notice of adjournment in case of riot
+        - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+      - Procedure on close of poll
+        - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+        - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - Counting of votes
+      - Attendance and arrangements for counting
+        - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+        - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+        - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+        - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+      - Counting and separation of ballot papers by counting officer
+        - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+      - Delivery of ballot papers etc to returning officers
+        - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+      - Counting of votes
+        - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+      - Ballot papers placed in wrong ballot box
+        - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+    - Declaration of result
+      - Declaration
+        - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+    - Disposal of documents etc
+      - Packets of documents
+        - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+      - Delivery and retention of documents
+        - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+      - Countermand or abandonment of poll on death of candidate
+        - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+    - Provision of registers etc to counting officer
+      - Registers
+        - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+      - Absent voters lists
+        - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+      - Personal identifier information
+        - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+  - PART 2 Application of provisions about issue and receipt of postal ballot papers
+    - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+  - PART 3 Forms referred to in Part 1
+    - FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+    - FORM 2 - FORM OF POSTAL VOTING STATEMENT (FOR USE WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+    - FORM 3 - FORM OF POSTAL VOTING STATEMENT (FOR USE WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 4 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+    - FORM 5 - GUIDANCE FOR VOTERS TO BE EXHIBITED INSIDE AND OUTSIDE EVERY POLLING STATION
+    - FORM 6 - GUIDANCE FOR VOTERS TO BE EXHIBITED IN EVERY POLLING STATION COMPARTMENT
+    - FORM 7 - FORM OF CERTIFICATE OF EMPLOYMENT
+    - FORM 8 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+- SCHEDULE 6 Combination of polls: Wales
+  - PART 1 Provision about combination
+    - General provisions
+      - Interpretation
+        - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+        - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - Cost of combined polls
+        - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+        - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - Publication of statement of persons nominated
+        - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - Forms
+        - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Action to be taken before poll
+      - Corresponding number lists
+        - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+        - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - Notice of polling stations
+        - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - Postal voting
+        - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+        - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - Polling stations
+        - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+        - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - Appointment of presiding officers and clerks
+        - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - Official poll cards
+        - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - Equipment of polling stations
+        - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+        - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - Colour of ballot papers
+        - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - Form of corresponding number lists provided to polling stations
+        - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - Ballot paper displayed in polling stations
+        - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - Guidance to be exhibited inside and outside polling stations
+        - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - Guidance to be exhibited in each polling station compartment
+        - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - Notice of appointment of polling and counting agents
+        - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+      - Notification of requirement of secrecy
+        - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+      - Return of postal ballot papers
+        - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - The poll
+      - Admission to the polling station
+        - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+      - Voting by persons on duty on day of poll
+        - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+        - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+      - Removal from polling station
+        - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+      - Voting procedure: copies of registers and lists of proxies
+        - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+        - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+        - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+      - List of votes marked by presiding officer
+        - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - Declaration to be made by the companion of a voter with disabilities
+        - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+      - List of voters with disabilities assisted by companions
+        - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+      - Tendered votes list
+        - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+      - Lists relating to correction of errors on day of poll
+        - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+      - Notice of adjournment in case of riot
+        - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+      - Procedure on close of poll
+        - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+        - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+        - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+        - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - Counting of votes
+      - Attendance and arrangements for counting
+        - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+        - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+        - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+        - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+      - Counting and separation of ballot papers by counting officer
+        - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+      - Delivery of ballot papers etc to returning officers
+        - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+      - Counting of votes
+        - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+      - Ballot papers placed in wrong ballot box
+        - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+    - Declaration of result
+      - Declaration
+        - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - Disposal of documents etc
+      - Packets of documents
+        - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+      - Delivery and retention of documents
+        - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+      - Countermand or abandonment of poll on death of candidate
+        - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+        - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+    - Provision of registers etc to counting officer
+      - Registers
+        - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+      - Absent voters lists
+        - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+      - Personal identifier information
+        - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+  - PART 2 Application of provisions about issue and receipt of postal ballot papers
+    - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+  - PART 3 Forms referred to in Parts 1 and 2
+    - FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+    - FORM 2 - FORM OF POSTAL VOTING STATEMENT (TO BE USED WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+    - FORM 3 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR REFERENDUM WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 4 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR NATIONAL ASSEMBLY FOR WALES ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 5 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+    - FORM 6 - GUIDANCE FOR VOTERS TO BE EXHIBITED INSIDE AND OUTSIDE EVERY POLLING STATION
+    - FORM 7 - GUIDANCE FOR VOTERS TO BE EXHIBITED IN EVERY POLLING STATION COMPARTMENT
+    - FORM 8 - FORM OF CERTIFICATE OF EMPLOYMENT
+    - FORM 9 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+    - FORM 10 - STATEMENT AS TO POSTAL BALLOT PAPERS FOR THE REFERENDUM
+- SCHEDULE 7 Combination of polls: Scotland
+  - PART 1 Provision about combination
+    - General provisions
+      - Interpretation
+        - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+        - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - Cost of combined polls
+        - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+        - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - Forms
+        - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Action to be taken before poll
+      - Corresponding number lists
+        - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+        - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - Notice of polling stations
+        - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+        - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - Postal voting
+        - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+        - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - Polling stations
+        - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+        - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - Appointment of presiding officers and clerks
+        - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - Official poll cards
+        - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - Equipment of polling stations
+        - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+        - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - Colour of ballot papers
+        - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+      - Form of corresponding number lists provided to polling stations
+        - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - Ballot paper displayed in polling stations
+        - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - Guidance to be exhibited outside and inside polling stations
+        - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - Guidance to be exhibited in each polling station compartment
+        - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+      - Notice of appointment of polling and counting agents
+        - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - Notification of requirement of secrecy
+        - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - The poll
+      - Admission to the polling station
+        - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+      - Voting by persons on duty on day of poll
+        - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+        - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+      - Removal from polling station
+        - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+      - Voting procedure: copies of registers and lists of proxies
+        - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+        - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+        - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+      - List of votes marked by presiding officer
+        - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+      - Declaration to be made by the companion of a voter with disabilities
+        - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+      - List of voters with disabilities assisted by companions
+        - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+      - Tendered votes list
+        - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+      - Lists relating to correction of errors on day of poll
+        - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+      - Notice of adjournment in case of riot
+        - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+      - Procedure on close of poll
+        - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+        - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+        - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+        - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Counting of votes
+      - Attendance and arrangements for counting
+        - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+        - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+        - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+        - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+      - Counting and separation of ballot papers by counting officer
+        - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+      - Delivery of ballot papers etc to returning officers
+        - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+      - Counting of votes
+        - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+      - Ballot papers placed in wrong ballot box
+        - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - Declaration of result
+      - Declaration
+        - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - Disposal of documents etc
+      - Packets of documents
+        - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+      - Delivery and retention of documents
+        - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+        - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+      - Countermand or abandonment of poll on death of candidate
+        - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - Provision of registers etc to counting officer
+      - Registers
+        - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+      - Absent voters lists
+        - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+      - Personal identifier information
+        - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+  - PART 2 Application of provisions about issue and receipt of postal ballot papers
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+  - PART 3 Forms referred to in Parts 1 and 2
+    - FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+    - FORM 2 - FORM OF POSTAL VOTING STATEMENT (TO BE USED WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+    - FORM 3 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR REFERENDUM WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 4 - FORM OF POSTAL VOTING STATEMENT (TO BE USED FOR SCOTTISH PARLIAMENTARY ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 5 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+    - FORM 6 - GUIDANCE FOR VOTERS TO BE EXHIBITED OUTSIDE AND INSIDE EVERY POLLING STATION
+    - FORM 7 - GUIDANCE FOR VOTERS TO BE EXHIBITED IN EVERY POLLING STATION COMPARTMENT
+    - FORM 8 - FORM OF CERTIFICATE OF EMPLOYMENT
+    - FORM 9 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+    - FORM 10 - STATEMENT AS TO POSTAL BALLOT PAPERS FOR THE REFERENDUM
+- SCHEDULE 8 Combination of polls: Northern Ireland
+  - PART 1 Provision about combination
+    - General provisions
+      - Interpretation
+        - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+        - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - Cost of combined polls
+        - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - Publication of statement of persons nominated
+        - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - Directions by Chief Counting Officer to Chief Electoral Officer
+        - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - Forms
+        - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Action to be taken before poll
+      - Corresponding number lists
+        - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+        - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - Notice of polling stations
+        - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - Declarations of identity
+        - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+        - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - Colour of ballot papers
+        - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - Polling stations
+        - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - Official poll cards
+        - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - Ballot boxes
+        - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - Form of corresponding number lists provided to polling stations
+        - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - Ballot paper displayed in polling stations
+        - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - Guidance to be exhibited outside and inside polling stations
+        - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - The poll
+      - Admission to the polling station
+        - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - Questions to be put to voters
+        - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - Voting procedure: copies of registers and lists of proxies
+        - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+        - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+        - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - List of votes marked by presiding officer
+        - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - Declaration to be made by the companion of a voter with disabilities
+        - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - List of voters with disabilities assisted by companions
+        - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - Tendered votes list
+        - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - Lists relating to correction of errors on day of poll
+        - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - Procedure on close of poll
+        - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+        - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+        - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - Counting of votes
+      - Attendance and arrangements for counting
+        - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - Counting and separation of ballot papers
+        - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - Counting of votes
+        - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+      - Application
+        - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+      - Ballot papers placed in wrong ballot box
+        - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - Declaration of result
+      - Declaration
+        - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - Disposal of documents etc
+      - Retention of certain documents by Chief Electoral Officer
+        - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+        - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+      - Countermand or abandonment of poll
+        - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - PART 2 Postal voting
+    - Interpretation
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - Attendance at proceedings on issue and receipt of postal ballot papers
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - Procedure on issue of postal ballot papers
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - Provisions requiring declaration of identity to indicate colours of ballot papers
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - Envelopes
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - Spoilt postal ballot papers
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - Opening of postal voters’ ballot box
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - Opening of ballot paper envelopes
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - Countermand or abandonment of poll for relevant election
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - Retention of documents
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+  - PART 3 Forms referred to in Part 1
+    - FORM 1 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED FOR COMBINED POLLS)
+    - FORM 2 - FORM OF DECLARATION OF IDENTITY (TO BE USED WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS COMBINED)
+    - FORM 3 - FORM OF DECLARATION OF IDENTITY (TO BE USED FOR REFERENDUM WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 4 - FORM OF DECLARATION OF IDENTITY (TO BE USED FOR NORTHERN IRELAND ASSEMBLY ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 5 - FORM OF DECLARATION OF IDENTITY (TO BE USED FOR LOCAL ELECTION WHERE PROCEEDINGS ON ISSUE AND RECEIPT OF POSTAL BALLOT PAPERS NOT COMBINED)
+    - FORM 6 - FORM OF CORRESPONDING NUMBER LIST (TO BE USED IN POLLING STATIONS FOR COMBINED POLLS)
+    - FORM 7 - GUIDANCE FOR VOTERS TO BE EXHIBITED OUTSIDE EVERY POLLING STATION AND IN EVERY COMPARTMENT INSIDE
+    - FORM 8 - FORM OF DECLARATION TO BE MADE BY THE COMPANION OF A VOTER WITH DISABILITIES
+- SCHEDULE 9 Control of loans etc to permitted participants
+- SCHEDULE 10 The alternative vote system: further amendments
+  - PART 1 Amendments of the parliamentary elections rules
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - PART 2 Amendments of other provisions of the 1983 Act
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - PART 3 Amendments of other enactments
+    - Parliamentary Constituencies Act 1986
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - Political Parties, Elections and Referendums Act 2000
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+- SCHEDULE 11 Public hearings about Boundary Commission proposals
+- SCHEDULE 12 Repeals
+  - PART 1 Voting system for parliamentary elections
+  - PART 2 Parliamentary constituencies
