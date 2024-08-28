@@ -1,0 +1,124 @@
+# Criminal Law (Consolidation) (Scotland) Act 1995
+
+1995 c. 39. Enacted 1995-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-08-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/39
+
+Source: https://www.legislation.gov.uk/ukpga/1995/39/2024-08-28
+
+## Contents
+
+- Part I SEXUAL OFFENCES
+  - Incest and related offences
+    - [Pt. I heading incest-and-related-offences s. 1 Incest.](part/I/crossheading/incest-and-related-offences/section/1.md)
+    - [Pt. I heading incest-and-related-offences s. 2 Intercourse with step-child.](part/I/crossheading/incest-and-related-offences/section/2.md)
+    - [s. 3 Intercourse of person in position of trust with child under 16.](section/3.md)
+    - [s. 4 Proceedings and penalties for offences under sections 1 and 2.](section/4.md)
+  - Offences against children
+    - [s. 5 Intercourse with girl under 16.](section/5.md)
+    - [s. 6 Indecent behaviour towards girl between 12 and 16.](section/6.md)
+  - Procuring, prostitution etc.
+    - [s. 7 Procuring.](section/7.md)
+    - [s. 8 Abduction and unlawful detention.](section/8.md)
+    - [s. 9 Permitting girl to use premises for intercourse.](section/9.md)
+    - [s. 10 Seduction, prostitution, etc., of girl under 16.](section/10.md)
+    - [s. 11 Trading in prostitution and brothel-keeping.](section/11.md)
+    - [s. 12 Allowing child to be in brothel.](section/12.md)
+    - [s. 12A Sections 11(5) and 12: further provision](section/12A.md)
+  - Living on earnings of another from male prostitution
+    - [s. 13 Living on earnings of another from male prostitution](section/13.md)
+  - Miscellaneous
+    - [s. 14 Power, on indictment for rape, etc., to convict of other offences.](section/14.md)
+    - [s. 15 Defence to charge of indecent assault.](section/15.md)
+    - [s. 16 Power of search.](section/16.md)
+    - [s. 16A Conspiracy or incitement to commit certain sexual acts outside the United Kingdom.](section/16A.md)
+    - [s. 16B Commission of certain sexual acts outside the United Kingdom.](section/16B.md)
+    - [s. 17 Liability to other criminal proceedings.](section/17.md)
+- Part II SPORTING EVENTS: CONTROL OF ALCOHOL ETC.
+  - [s. 18 Designation of sports grounds and sporting events.](section/18.md)
+  - [s. 19 Alcohol on vehicles.](section/19.md)
+  - [s. 20 Sporting events: controls.](section/20.md)
+  - [s. 21 Police powers of enforcement.](section/21.md)
+  - [s. 22 Presumption as to contents of container.](section/22.md)
+  - [s. 23 Interpretation of Part II.](section/23.md)
+- Part III Investigation of Revenue and Customs offences
+  - Investigation of offences by HMRC
+    - [s. 23A Investigation of offences by Her Majesty’s Revenue and Customs](section/23A.md)
+  - Production orders
+    - [s. 23B Production orders](section/23B.md)
+    - [s. 23C Production orders: supplementary](section/23C.md)
+    - [s. 23D Offences in relation to production orders](section/23D.md)
+  - Revenue and Customs warrants
+    - [s. 23E Revenue and Customs warrants](section/23E.md)
+  - Orders and warrants: common provisions
+    - [s. 23F Procedure where documents etc removed](section/23F.md)
+    - [s. 23G Access to and copies of documents etc removed](section/23G.md)
+    - [s. 23H Failure to comply with requirements of section 23F and 23G](section/23H.md)
+    - [s. 23J Confidentiality](section/23J.md)
+    - [s. 23K Meaning of “document” etc](section/23K.md)
+  - Execution and enforcement of orders and warrants outwith Scotland
+    - [s. 23L Cross-border exercise of powers](section/23L.md)
+  - Detention and questioning of suspects and witnesses
+    - [s. 23M Powers relating to suspects and potential witnesses](section/23M.md)
+    - [s. 23N Fingerprinting of persons suspected of offences](section/23N.md)
+    - [s. 23P Offences arising from breach of requirements under sections 23M and 23N](section/23P.md)
+    - [s. 24 Detention and questioning: Revenue and Customs, immigration and nationality offences](section/24.md)
+    - [s. 24A Extension of period of detention under section 24](section/24A.md)
+    - [s. 24B Extension under section 24A: procedure](section/24B.md)
+    - [s. 25 Right to have someone informed when detained.](section/25.md)
+    - [s. 25A Right of suspects to have access to a solicitor](section/25A.md)
+    - [s. 26 Detention in connection with certain drug smuggling offences.](section/26.md)
+  - Power of arrest
+    - [s. 26A Power of arrest](section/26A.md)
+  - General provisions
+    - [s. 26B Interpretation of Part 3 etc](section/26B.md)
+    - [s. 26C Investigations by designated customs officials](section/26C.md)
+- Part IV INVESTIGATION OF SERIOUS OR COMPLEX FRAUD
+  - [s. 27 Lord Advocate’s direction.](section/27.md)
+  - [s. 28 Powers of investigation.](section/28.md)
+  - [s. 29 Offences in relation to investigations under section 28.](section/29.md)
+  - [s. 30 Disclosure of information.](section/30.md)
+- Part V DRUG TRAFFICKING
+  - Investigations and disclosure of information
+    - [s. 31 Order to make material available.](section/31.md)
+    - [s. 32 Authority for search.](section/32.md)
+    - [s. 33 Interpretation of sections 31 and 32.](section/33.md)
+    - [s. 34 Prosecution by order of the Commissioners of Customs and Excise.](section/34.md)
+    - [s. 35 Disclosure of information held by government departments.](section/35.md)
+  - Offences
+    - [s. 36 Offence of prejudicing investigation.](section/36.md)
+    - [s. 37 Acquisition, possession or use of proceeds of drug trafficking.](section/37.md)
+    - [s. 38 Offence of assisting another to retain the proceeds of drug trafficking.](section/38.md)
+    - [s. 39 Failure to disclose knowledge or suspicion of money laundering.](section/39.md)
+    - [s. 40 Tipping-off.](section/40.md)
+    - [s. 41 Offences relating to controlled drugs: fines.](section/41.md)
+    - [s. 42 Extension of certain offences to Crown servants and exemptions for regulators etc.](section/42.md)
+    - [s. 43 Interpretation of Part V.](section/43.md)
+- Part VI MISCELLANEOUS AND GENERAL
+  - False oaths etc.
+    - [s. 44 False statements and declarations.](section/44.md)
+    - [s. 45 Provisions supplementary to section 44.](section/45.md)
+    - [s. 46 Proceedings.](section/46.md)
+  - False monetary instruments
+    - [s. 46A False monetary instruments](section/46A.md)
+  - Offensive weapons
+    - [s. 47 Prohibition of the carrying of offensive weapons.](section/47.md)
+    - [s. 48 Search for offensive weapons.](section/48.md)
+    - [s. 49 Offence of having in public place article with blade or point.](section/49.md)
+    - [s. 49A Offence of having article with blade or point (or offensive weapon) on school premises.](section/49A.md)
+    - [s. 49B Power of entry to search for articles with a blade or point and offensive weapons.](section/49B.md)
+    - [s. 49C Offence of having offensive weapon etc. in prison](section/49C.md)
+    - [s. 50 Extension of constable’s power to stop, search and arrest without warrant.](section/50.md)
+  - Racially-aggravated harassment
+    - [s. 50A Racially-aggravated harassment.](section/50A.md)
+  - Reset
+    - [s. 51 Reset.](section/51.md)
+  - Vandalism
+    - [s. 52 Vandalism.](section/52.md)
+  - General
+    - [s. 53 Short title, commencement and extent.](section/53.md)
+- TABLE OF DERIVATIONS
+  - [Pt. 7 s. 1 Notes:](part/7/section/1.md)
+  - [Pt. 7 s. 2 Notes:](part/7/section/2.md)
