@@ -1,0 +1,275 @@
+# Agriculture Act 2020
+
+2020 c. 21. Enacted 2020-11-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-09-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
+
+Source: https://www.legislation.gov.uk/ukpga/2020/21/2024-09-01
+
+## Contents
+
+- PART 1 Financial assistance
+  - CHAPTER 1 New financial assistance powers
+    - [s. 1 Secretary of State’s powers to give financial assistance](section/1.md)
+    - [s. 2 Financial assistance: forms, conditions, delegation and publication of information](section/2.md)
+    - [s. 3 Financial assistance: checking, enforcing and monitoring](section/3.md)
+    - [s. 4 Multi-annual financial assistance plans](section/4.md)
+    - [s. 5 Annual and other reports on amount of financial assistance given](section/5.md)
+    - [s. 6 Monitoring impact of financial assistance etc](section/6.md)
+  - CHAPTER 2 Direct payments after EU exit
+    - [s. 7 Meaning of “basic payment scheme” and other expressions in Chapter 2](section/7.md)
+    - [s. 8 The agricultural transition period for England and the termination of relevant payments](section/8.md)
+    - [s. 9 Power to modify legislation governing the basic payment scheme](section/9.md)
+    - [s. 10 Power to provide for the continuation of the basic payment scheme beyond 2020](section/10.md)
+    - [s. 11 Power to provide for phasing out direct payments](section/11.md)
+    - [s. 12 Power to make delinked payments](section/12.md)
+    - [s. 13 Power to provide for lump sum payments in lieu of relevant payments](section/13.md)
+  - CHAPTER 3 Other financial support after EU exit
+    - [s. 14 General provision connected with payments to farmers and other beneficiaries](section/14.md)
+    - [s. 15 Aid for fruit and vegetable producer organisations](section/15.md)
+    - [s. 16 Support for rural development](section/16.md)
+    - [s. 17 Continuing EU programmes: power to provide financial assistance](section/17.md)
+    - [s. 18 Assimilated direct legislation](section/18.md)
+- PART 2 Food and agricultural markets
+  - CHAPTER 1 Food security
+    - [s. 19 Duty to report to Parliament on UK food security](section/19.md)
+  - CHAPTER 2 Intervention in agricultural markets
+    - [s. 20 Declaration relating to exceptional market conditions](section/20.md)
+    - [s. 21 Exceptional market conditions: powers available to Secretary of State](section/21.md)
+    - [s. 22 Modification of certain assimilated direct legislation in connection with exceptional market conditions and for general purposes](section/22.md)
+- PART 3 Transparency and fairness in the agri-food supply chain
+  - CHAPTER 1 Collection and sharing of data
+    - [s. 23 Agri-food supply chains: requirement to provide information](section/23.md)
+    - [s. 24 Meaning of “agri-food supply chain”](section/24.md)
+    - [s. 25 Requirement must specify purposes for which information may be processed](section/25.md)
+    - [s. 26 Requirements under section 23(1): duty to publish draft requirement](section/26.md)
+    - [s. 27 Provision of required information and limitations on its processing](section/27.md)
+    - [s. 28 Enforcement of information requirements](section/28.md)
+  - CHAPTER 2 Fair dealing with agricultural producers and others in the supply chain
+    - [s. 29 Fair dealing obligations of business purchasers of agricultural products](section/29.md)
+  - CHAPTER 3 Producer organisations
+    - [s. 30 Producer and interbranch organisations etc: application for recognition](section/30.md)
+    - [s. 31 Recognised organisations: competition exemptions and further provision](section/31.md)
+    - [s. 32 Regulations under sections 30 and 31](section/32.md)
+- PART 4 Matters relating to farming and the countryside
+  - [s. 33 Fertilisers](section/33.md)
+  - [s. 34 Identification and traceability of animals](section/34.md)
+  - [s. 35 Red meat levy: payments between levy bodies in Great Britain](section/35.md)
+  - [s. 36 Agricultural tenancies](section/36.md)
+- PART 5 Agricultural products
+  - [s. 37 Marketing standards](section/37.md)
+  - [s. 38 Organic products](section/38.md)
+  - [s. 39 Organic products: supplementary](section/39.md)
+  - [s. 40 Carcass classification](section/40.md)
+  - [s. 41 Power to reproduce modifications under section 37 for wine sector](section/41.md)
+  - [s. 42 Reports relating to free trade agreements](section/42.md)
+- PART 6 WTO Agreement on Agriculture
+  - [s. 43 Power to make regulations for securing compliance with WTO Agreement on Agriculture: general](section/43.md)
+  - [s. 44 Regulations under section 43: limits on provision of domestic support in the United Kingdom](section/44.md)
+  - [s. 45 Regulations under section 43: classification of domestic support](section/45.md)
+- PART 7 Wales and Northern Ireland
+  - [s. 46 Wales](section/46.md)
+  - [s. 47 Duration of provision in relation to Wales](section/47.md)
+  - [s. 48 Northern Ireland](section/48.md)
+- PART 8 General and final provisions
+  - [s. 49 Data protection](section/49.md)
+  - [s. 50 Regulations](section/50.md)
+  - [s. 51 Interpretation](section/51.md)
+  - [s. 52 Consequential amendments](section/52.md)
+  - [s. 53 Power to make consequential etc provision](section/53.md)
+  - [s. 54 Power to make transitional etc provision](section/54.md)
+  - [s. 55 Financial provision](section/55.md)
+  - [s. 56 Extent](section/56.md)
+  - [s. 57 Commencement](section/57.md)
+  - [s. 58 Short title](section/58.md)
+- SCHEDULE 1 Agricultural sectors relevant to producer organisation provisions
+- SCHEDULE 2 Recognised organisations: competition exclusions
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Agricultural tenancies
+  - PART 1 Amendments to the Agricultural Holdings Act 1986
+    - Introductory
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Notices relating to third party determination of rent
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Appointment of arbitrators etc
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Requests for landlord’s consent or variation of terms
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Arbitration or third party determination of rent: relevant factors
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Notices to quit: cases where consent of tribunal not required
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Succession on death or retirement: condition relating to occupation of commercial unit
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Succession on death or retirement: condition relating to suitability
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Succession on retirement: minimum age of retiring tenant
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Regulations and orders
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - PART 2 Amendments to the Agricultural Tenancies Act 1995
+    - Introductory
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Appointment of arbitrators
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Agricultural products relevant to marketing standards provisions
+- SCHEDULE 5 Provision relating to Wales
+  - PART 1 Financial support after EU exit
+    - Direct payments after EU exit: interpretation
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Power to modify legislation governing the basic payment scheme
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Power to provide for the continuation of the basic payment scheme beyond 2020
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Other financial support: modification in relation to Wales of general provision connected with payments to farmers and other beneficiaries
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Apiculture
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Support for rural development: modification of legislation in relation to Wales
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - PART 2 Intervention in agricultural markets
+    - Declaration relating to exceptional market conditions
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Exceptional market conditions: powers available to Welsh Ministers
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Power to modify retained direct EU legislation relating to public market intervention and private storage aid
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - PART 3 Collection and sharing of data
+    - Agri-food supply chains: requirement to provide information
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Meaning of “agri-food supply chain”
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Requirement must specify purposes for which information may be processed
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Requirements under paragraph 10(1): duty to publish draft requirement
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Provision of required information and limitations on its processing
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Enforcement of information requirements
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - PART 4 Marketing standards and carcass classification
+    - Marketing standards
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Agricultural products
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Carcass classification
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 5 Data protection
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 Provision relating to Northern Ireland
+  - PART 1 Financial support after EU exit
+    - Direct payments after EU Exit: interpretation
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Power to modify legislation governing the basic payment scheme
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Power to provide for the continuation of the basic payment scheme beyond 2020
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Power to modify legislation governing the coupled support scheme
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - General provision connected with payments to farmers and other beneficiaries: modification in relation to Northern Ireland
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Apiculture
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Support for rural development: modification of legislation in relation to Northern Ireland
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - PART 2 Intervention in agricultural markets
+    - Exceptional market conditions: powers available to DAERA
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Power to modify assimilated direct legislation relating to public market intervention and private storage aid
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - PART 3 Collection and sharing of data
+    - Agri-food supply chains: requirement to provide information
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Meaning of “agri-food supply chain”
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Requirement must specify purposes for which information may be processed
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Requirements under paragraph 10(1): duty to publish draft requirement
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Provision of required information and limitations on its processing
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Enforcement of information requirements
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - PART 4 Marketing standards and carcass classification
+    - Marketing standards
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Agricultural products
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Carcass classification
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - PART 5 Data protection
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+- SCHEDULE 7 The CMO Regulation: consequential amendments
+  - PART 1 Exceptional market conditions: England
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - PART 2 Exceptional market conditions: Wales
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - PART 3 Marketing standards and carcass classification: England
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - PART 4 Marketing standards and carcass classification: Wales
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+  - PART 5 Marketing standards and carcass classification: Northern Ireland
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
