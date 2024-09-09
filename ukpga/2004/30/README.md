@@ -1,0 +1,240 @@
+# Human Tissue Act 2004
+
+2004 c. 30. Enacted 2004-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-09-09, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
+
+Source: https://www.legislation.gov.uk/ukpga/2004/30/2024-09-09
+
+## Contents
+
+- Part 1 Removal, storage and use of human organs and other tissue for scheduled purposes
+  - [s. 1 Authorisation of activities for scheduled purposes](section/1.md)
+  - [s. 2 “Appropriate consent”: children](section/2.md)
+  - [s. 3 “Appropriate consent”: adults](section/3.md)
+  - [s. 4 Nominated representatives](section/4.md)
+  - [s. 5 Prohibition of activities without consent etc.](section/5.md)
+  - [s. 6 Activities involving material from adults who lack capacity to consent](section/6.md)
+  - [s. 7 Powers to dispense with need for consent](section/7.md)
+  - [s. 8 Restriction of activities in relation to donated material](section/8.md)
+  - [s. 9 Existing holdings](section/9.md)
+  - [s. 10 Existing anatomical specimens](section/10.md)
+  - [s. 11 Coroners](section/11.md)
+  - [s. 12 Interpretation of Part 1](section/12.md)
+- Part 2 Regulation of activities involving human tissue
+  - The Human Tissue Authority
+    - [s. 13 The Human Tissue Authority](section/13.md)
+    - [s. 14 Remit](section/14.md)
+    - [s. 15 General functions](section/15.md)
+  - Licensing
+    - [s. 16 Licence requirement](section/16.md)
+    - [s. 17 Persons to whom licence applies](section/17.md)
+    - [s. 18 Duty of the designated individual](section/18.md)
+    - [s. 19 Right to reconsideration of licensing decisions](section/19.md)
+    - [s. 20 Appeals committees](section/20.md)
+    - [s. 21 Procedure on reconsideration](section/21.md)
+    - [s. 22 Appeal on point of law](section/22.md)
+    - [s. 23 Conduct of licensed activities](section/23.md)
+    - [s. 24 Changes of licence circumstance](section/24.md)
+    - [s. 25 Breach of licence requirement](section/25.md)
+  - Codes of practice
+    - [s. 26 Preparation of codes](section/26.md)
+    - [s. 27 Provision with respect to consent](section/27.md)
+    - [s. 28 Effect of codes](section/28.md)
+    - [s. 29 Approval of codes](section/29.md)
+  - Anatomy
+    - [s. 30 Possession of anatomical specimens away from licensed premises](section/30.md)
+    - [s. 31 Possession of former anatomical specimens away from licensed premises](section/31.md)
+  - Trafficking
+    - [s. 32 Prohibition of commercial dealings in human material for transplantation](section/32.md)
+    - [s. 32A Offences under section 32 committed outside UK](section/32A.md)
+  - Transplants
+    - [s. 33 Restriction on transplants involving a live donor](section/33.md)
+    - [s. 34 Information about transplant operations](section/34.md)
+  - General
+    - [s. 35 Agency arrangements and provision of services](section/35.md)
+    - [s. 36 Annual report](section/36.md)
+    - [s. 37 Directions](section/37.md)
+    - [s. 38 Duties in relation to carrying out functions](section/38.md)
+  - Exceptions
+    - [s. 39 Criminal justice purposes](section/39.md)
+    - [s. 40 Religious relics](section/40.md)
+  - Supplementary
+    - [s. 41 Interpretation of Part 2](section/41.md)
+- Part 3 Miscellaneous and general
+  - Miscellaneous
+    - [s. 42 Power of Human Tissue Authority to assist other public authorities](section/42.md)
+    - [s. 43 Preservation for transplantation](section/43.md)
+    - [s. 44 Surplus tissue](section/44.md)
+    - [s. 45 Non-consensual analysis of DNA](section/45.md)
+    - [s. 46 Power to give effect to EU obligations](section/46.md)
+    - [s. 47 Power to de-accession human remains](section/47.md)
+  - General
+    - [s. 48 Powers of inspection, entry, search and seizure](section/48.md)
+    - [s. 49 Offences by bodies corporate](section/49.md)
+    - [s. 50 Prosecutions](section/50.md)
+    - [s. 51 Offences: Northern Ireland](section/51.md)
+    - [s. 52 Orders and regulations](section/52.md)
+    - [s. 53 “Relevant material”](section/53.md)
+    - [s. 54 General interpretation](section/54.md)
+    - [s. 55 Financial provisions](section/55.md)
+    - [s. 56 Consequential amendments](section/56.md)
+    - [s. 57 Repeals and revocations](section/57.md)
+    - [s. 58 Transition](section/58.md)
+    - [s. 59 Extent](section/59.md)
+    - [s. 60 Commencement](section/60.md)
+    - [s. 61 Short title](section/61.md)
+- SCHEDULE 1 Scheduled purposes
+  - Part 1 Purposes requiring consent: general
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Part 2 Purposes requiring consent: deceased persons
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 The human tissue authority
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Disqualification
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Tenure of office
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+    - [Sch. 2 para. 9B](schedule/2/paragraph/9B.md)
+    - [Sch. 2 para. 9C](schedule/2/paragraph/9C.md)
+  - Remuneration and pensions of members
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Staff
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Proceedings
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Members’ interests
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Finance
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Accounts and audit
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Instruments
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Status
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Supplementary powers
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Application of Statutory Instruments Act 1946
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Public records
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Investigation by Parliamentary Commissioner
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - House of Commons Disqualification
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Northern Ireland Assembly Disqualification
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Freedom of information
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 Licences for the purposes of section 16
+  - Power to grant licence
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Characteristics of licence
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Power to impose conditions
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Pre-conditions to grant of licence
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Power to revoke licence
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Power to vary licence
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Power to suspend licence
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Procedure in relation to licensing decisions
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Notification of licensing decisions
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Permission for the purposes of the licence condition required by paragraph 3(2)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Applications under this Schedule
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Section 45: supplementary
+  - Part 1 Qualifying consent
+    - Introductory
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Qualifying consent
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Application to Scotland
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part 2 Use for an excepted purpose
+    - Introductory
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Purposes of general application
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Purpose of research in connection with disorders, or functioning, of the human body
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Purposes relating to existing holdings
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Purposes relating to material from body of a living person
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Purpose authorised under section 1
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Purposes relating to DNA of adults who lack capacity to consent
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Power to amend paragraphs 5, 7 and 8
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Powers of inspection, entry, search and seizure
+  - Inspection of statutory records
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Entry and inspection of licensed premises
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Entry and search in connection with suspected offence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Execution of warrants
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Seizure in the course of inspection or search
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Powers: supplementary
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Enforcement
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Interpretation
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Consequential amendments
+  - Wills Act 1837 (c. 26)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Anatomy Act 1984 (c. 14)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Coroners Act 1988 (c. 13)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Human Organ Transplants Act 1989 (c. 31)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Asylum and Immigration (Treatment of Claimants, etc.) Act 2004
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
