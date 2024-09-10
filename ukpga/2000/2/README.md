@@ -1,0 +1,164 @@
+# Representation of the People Act 2000
+
+2000 c. 2. Enacted 2000-03-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/2
+
+Source: https://www.legislation.gov.uk/ukpga/2000/2/2024-09-10
+
+## Contents
+
+- Part I Electoral registration and franchise
+  - New system of registration
+    - [s. 1 New system of electoral registration.](section/1.md)
+  - Disfranchisement
+    - [s. 2 Disfranchisement of offenders detained in mental hospitals.](section/2.md)
+  - Residence for purposes of registration
+    - [s. 3 Residence for purposes of registration: general.](section/3.md)
+    - [s. 4 Residence: patients in mental hospitals who are not detained offenders or on remand.](section/4.md)
+    - [s. 5 Residence: persons remanded in custody etc.](section/5.md)
+    - [s. 6 Notional residence: declarations of local connection.](section/6.md)
+  - Service voters
+    - [s. 7 Service declarations.](section/7.md)
+  - Further amendments
+    - [s. 8 Further amendments about registration.](section/8.md)
+  - Supply of information contained in register
+    - [s. 9 Restriction on supply of information contained in register.](section/9.md)
+- Part II Conduct of elections
+  - New electoral procedures
+    - [s. 10 Pilot schemes for local elections in England and Wales.](section/10.md)
+    - [s. 11 Revision of procedures in the light of pilot schemes.](section/11.md)
+  - Manner of voting
+    - [s. 12 Changes relating to absent voting at elections in Great Britain.](section/12.md)
+  - Persons with disabilities
+    - [s. 13 Assistance with voting for persons with disabilities.](section/13.md)
+- Part III Miscellaneous and General
+  - Miscellaneous
+    - [s. 14 Free delivery of election addresses at Greater London Authority elections.](section/14.md)
+  - General
+    - [s. 15 Minor and consequential amendments and repeals.](section/15.md)
+    - [s. 16 Financial provisions.](section/16.md)
+    - [s. 16A Functions of the Minister for the Cabinet Office](section/16A.md)
+    - [s. 17 Citation, construction, commencement and extent.](section/17.md)
+- SCHEDULE 1 Registration: amendments of 1983 Act
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Residence
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Registers of electors
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Maintenance of registers
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Publication of registers
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Service declarations
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Polling districts
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Effect of registers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Regulations about registration
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Registration appeals: England and Wales
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Registration appeals: Northern Ireland
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Service voters
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Offences
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Election expenses
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Election addresses
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Evidence of registration
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Regulations under the Act
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Interpretation
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Parliamentary elections rules
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Content of regulations as to registration
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+- SCHEDULE 2 Registration: overseas electors
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Franchise for parliamentary elections
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Registration of overseas electors
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Franchise for European Parliamentary elections
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Registration: local elections in Northern Ireland
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Registration of electors
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Application of provisions of 1983 Act
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Modification of provisions of 1983 Act
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Absent voting in Great Britain
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Manner of voting at parliamentary or local government elections
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Absent vote at elections for a period
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Absent vote at particular election
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Absent voters list
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Proxies at elections
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Voting as proxy
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Provision of fresh signatures
+    - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+    - [Sch. 4 para. 7B](schedule/4/paragraph/7B.md)
+  - Use of personal identifier information
+    - [Sch. 4 para. 7C](schedule/4/paragraph/7C.md)
+    - [Sch. 4 para. 7D](schedule/4/paragraph/7D.md)
+  - Notification of rejected postal vote
+    - [Sch. 4 para. 7E](schedule/4/paragraph/7E.md)
+  - Regulations under paragraph 7E in relation to local government elections in Scotland
+    - [Sch. 4 para. 7F](schedule/4/paragraph/7F.md)
+  - Offences
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Free delivery of election addresses at first GLA mayoral election: New Schedule 3A to the Greater London Authority Act 1999
+- SCHEDULE 6 Minor and consequential amendments
+  - City of London (Various Powers) Act 1957 (c. x)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - European Parliamentary Elections Act 1978 (c. 10)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - The 1983 Act
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Representation of the People Act 1985 (c. 50)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Finance Act 1996 (c. 8)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+- SCHEDULE 7 Repeals
+  - Part I Repeals extending to whole of the United Kingdom
+  - Part II Repeals extending to England, Wales and Scotland
+  - Part III Repeals extending to Northern Ireland only
