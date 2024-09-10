@@ -1,0 +1,149 @@
+# Electoral Registration and Administration Act 2013
+
+2013 c. 6. Enacted 2013-01-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2013/6/2024-09-10
+
+## Contents
+
+- PART 1 Individual electoral registration in Great Britain
+  - [s. 1 Individual registration](section/1.md)
+  - [s. 2 Applications for registration and verification of entitlement etc](section/2.md)
+  - [s. 3 Proxies to be registered electors](section/3.md)
+  - [s. 4 Annual canvass](section/4.md)
+  - [s. 5 Invitations to register](section/5.md)
+  - [s. 6 Amendment of Parliamentary Constituencies Act 1986](section/6.md)
+  - [s. 7 Power to amend or abolish the annual canvass](section/7.md)
+  - [s. 8 Consulting Electoral Commission about proposals under section 7](section/8.md)
+  - [s. 9 Piloting of changes to the annual canvass](section/9.md)
+  - [s. 10 Piloting registration provisions](section/10.md)
+  - [s. 11 Orders under Part 1](section/11.md)
+  - [s. 12 Interpretation of Part 1](section/12.md)
+  - [s. 13 Amendments and transitional provision](section/13.md)
+- PART 2 Administration and conduct of elections etc
+  - [s. 14 Extension of timetable for parliamentary elections](section/14.md)
+  - [s. 15 Timing of parish and community council elections in England and Wales](section/15.md)
+  - [s. 16 Alteration of electoral registers: pending elections](section/16.md)
+  - [s. 17 Review of polling districts and places in Great Britain](section/17.md)
+  - [s. 18 Inadequate performance of returning officer: reduction of charges](section/18.md)
+  - [s. 19 Voters waiting at polling station at close of poll](section/19.md)
+  - [s. 20 Use of emblems on ballot papers](section/20.md)
+  - [s. 21 Community support officers](section/21.md)
+  - [s. 22 Notification of rejected postal vote](section/22.md)
+  - [s. 23 Repeal of powers to establish co-ordinated on-line record of electors](section/23.md)
+- PART 3 Final provisions
+  - [s. 24 Financial provisions](section/24.md)
+  - [s. 25 Meaning of “the Minister” etc](section/25.md)
+  - [s. 26 Extent](section/26.md)
+  - [s. 27 Commencement](section/27.md)
+  - [s. 28 Short title](section/28.md)
+- SCHEDULE 1 Register of electors: alterations and removal
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Sharing and checking information etc
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Civil penalty for failing to make application when required by registration officer
+- SCHEDULE 4 Amendments to do with Part 1
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - ...
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - Representation of the People Act 2000 (c. 2)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - Electoral Administration Act 2006 (c. 22)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Political Parties and Elections Act 2009 (c. 12)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 Transitional provision to do with Part 1
+  - PART 1 Introduction
+    - Applications for registration etc made before commencement
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Meaning of “commencement date”
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Meaning of “new application for registration” and “successful” new application
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Checking of old entries and meaning of “confirmation” of entitlement to remain registered
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - PART 2 Removal of existing registrations by end of the third new canvass
+    - Removal of certain existing registrations after the first new canvass
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Removal of existing registrations after the third new canvass
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - This Part not to apply to persons within Part 5 or 6 below
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - PART 3 Encouraging new applications
+    - Registration officers to invite applications in year of first new canvass from those with existing registrations
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Powers to delay canvasses and timing of canvasses
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Canvass forms need not be supplied to addresses to which invitations supplied
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Registration officers to invite applications in year of second new canvass from those with existing registrations
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Invitations under paragraph 8 or 11 and power to require application following invitation
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Power to require additional information on poll cards at 2014 European Parliamentary election
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Certain provisions of this Part not to apply to persons within Part 5 or 6 below
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - PART 4 Absent voting
+    - Applicant for absent vote must have made successful new application for registration or had registration confirmed
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Entitlement to absent vote ceases after first new canvass if no successful new application for registration or confirmation of registration
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Proxies to have made successful new application for registration or had registration confirmed
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Proxy for existing absent voter need not have made successful new application for registration or had registration confirmed until after first new canvass
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - PART 5 Persons with existing registrations by virtue of declarations etc
+    - Meaning of “relevant person”
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Relevant person’s first renewal of registration after 3-month transitional period: successful new application required
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Application for absent vote before first renewal of registration after 3-month transitional period: relevant person need not have made successful new application for registration
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Proxy for relevant person need not have made successful new application for registration until relevant person’s first successful new application for registration
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - PART 6 Persons with existing registrations by virtue of section 7(2) or 7A(2) of the Representation of the People Act 1983
+    - Meaning of “relevant person”
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Amendments not to apply to application made by relevant person before first renewal of registration after 3-month transitional period
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Application for absent vote before first renewal of registration after 3-month transitional period: relevant person need not have made successful new application for registration
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Proxy for relevant person need not have made successful new application for registration until relevant person’s first successful new application for registration
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - PART 7 Supplementary
+    - Power to bring forward effect of paragraph 6
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Power to make supplementary provision
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Interpretation of this Schedule
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
