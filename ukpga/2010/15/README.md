@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-08-23, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-09-18, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-08-23
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-09-18
 
 ## Contents
 
@@ -734,6 +734,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-08-23
 - SCHEDULE 19 Public authorities
   - Part 1 Public authorities: general
     - Ministers of the Crown and government departments
+    - Advocates for victims of major incidents
     - Armed forces
     - Broadcasting
     - Citizens’ rights
