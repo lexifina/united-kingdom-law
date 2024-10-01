@@ -1,0 +1,191 @@
+# Civil Contingencies Act 2004
+
+2004 c. 36. Enacted 2004-11-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/36
+
+Source: https://www.legislation.gov.uk/ukpga/2004/36/2024-10-01
+
+## Contents
+
+- Part 1 Local Arrangements for Civil Protection
+  - Introductory
+    - [s. 1 Meaning of “emergency”](section/1.md)
+  - Contingency planning
+    - [s. 2 Duty to assess, plan and advise](section/2.md)
+    - [s. 3 Section 2: supplemental](section/3.md)
+    - [s. 4 Advice and assistance to the public](section/4.md)
+  - Civil protection
+    - [s. 5 General measures](section/5.md)
+    - [s. 6 Disclosure of information](section/6.md)
+  - General
+    - [s. 7 Urgency](section/7.md)
+    - [s. 8 Urgency: Scotland](section/8.md)
+    - [s. 8A Urgency: Wales](section/8A.md)
+    - [s. 9 Monitoring by Government](section/9.md)
+    - [s. 10 Enforcement](section/10.md)
+    - [s. 11 Enforcement: Scotland](section/11.md)
+    - [s. 11A Enforcement: Wales](section/11A.md)
+    - [s. 12 Provision of information](section/12.md)
+    - [s. 12A Northern Ireland: provision or disclosure of national security information](section/12A.md)
+    - [s. 13 Amendment of lists of responders](section/13.md)
+    - [s. 14 Scotland: consultation](section/14.md)
+    - [s. 14A Northern Ireland: consultation](section/14A.md)
+    - [s. 14B Wales: consultation](section/14B.md)
+    - [s. 15 Scotland: cross-border collaboration](section/15.md)
+    - [s. 15A Northern Ireland: cross-border collaboration](section/15A.md)
+    - [s. 15B Wales: cross-border collaboration](section/15B.md)
+    - [s. 16 National Assembly for Wales](section/16.md)
+    - [s. 17 Regulations and orders](section/17.md)
+    - [s. 18 Interpretation, &c.](section/18.md)
+- Part 2 Emergency powers
+  - [s. 19 Meaning of “emergency”](section/19.md)
+  - [s. 20 Power to make emergency regulations](section/20.md)
+  - [s. 21 Conditions for making emergency regulations](section/21.md)
+  - [s. 22 Scope of emergency regulations](section/22.md)
+  - [s. 23 Limitations of emergency regulations](section/23.md)
+  - [s. 24 Regional and Emergency Coordinators](section/24.md)
+  - [s. 25 Establishment of tribunal](section/25.md)
+  - [s. 26 Duration](section/26.md)
+  - [s. 27 Parliamentary scrutiny](section/27.md)
+  - [s. 28 Parliamentary scrutiny: prorogation and adjournment](section/28.md)
+  - [s. 29 Consultation with devolved administrations](section/29.md)
+  - [s. 30 Procedure](section/30.md)
+  - [s. 31 Interpretation](section/31.md)
+- Part 3 General
+  - [s. 32 Minor and consequential amendments and repeals](section/32.md)
+  - [s. 33 Money](section/33.md)
+  - [s. 34 Commencement](section/34.md)
+  - [s. 35 Extent](section/35.md)
+  - [s. 36 Short title](section/36.md)
+- SCHEDULE 1 Category 1 and 2 Responders
+  - Part 1 Category 1 Responders: General
+    - Local authorities
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Emergency services
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Health
+      - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+      - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Miscellaneous
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+  - Part 2 Category 1 Responders: Scotland
+    - Local authorities
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Emergency services
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Health
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Integration authorities
+      - [Sch. 1 para. 17A](schedule/1/paragraph/17A.md)
+    - Miscellaneous
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part 2A Category 1 Responders: Wales
+    - Local authorities
+      - [Sch. 1 para. 18A](schedule/1/paragraph/18A.md)
+    - Emergency services
+      - [Sch. 1 para. 18B](schedule/1/paragraph/18B.md)
+    - Health
+      - [Sch. 1 para. 18C](schedule/1/paragraph/18C.md)
+      - [Sch. 1 para. 18D](schedule/1/paragraph/18D.md)
+    - Environment
+      - [Sch. 1 para. 18E](schedule/1/paragraph/18E.md)
+    - Port Health Authorities
+      - [Sch. 1 para. 18F](schedule/1/paragraph/18F.md)
+  - Part 3 Category 2 Responders: General
+    - Utilities
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Transport
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 26A](schedule/1/paragraph/26A.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Health and safety
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Health
+      - [Sch. 1 para. 29ZA](schedule/1/paragraph/29ZA.md)
+      - [Sch. 1 para. 29A](schedule/1/paragraph/29A.md)
+    - Miscellaneous
+      - [Sch. 1 para. 29B](schedule/1/paragraph/29B.md)
+      - [Sch. 1 para. 29C](schedule/1/paragraph/29C.md)
+      - [Sch. 1 para. 29D](schedule/1/paragraph/29D.md)
+  - Part 4 Category 2 Responders: Scotland
+    - Utilities
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Transport
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 36A](schedule/1/paragraph/36A.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Health
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 38A](schedule/1/paragraph/38A.md)
+  - Part 5 Category 2 Responders: Wales
+    - Utilities
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Transport
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+- SCHEDULE 2 Minor and Consequential Amendments and Repeals
+  - Part 1 Amendments and Repeals Consequential on Part 1
+    - Civil Defence Act 1939 (c. 31)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Civil Defence Act (Northern Ireland) 1939 (c. 15 (N.I.))
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Civil Defence Act 1948 (c. 5)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Civil Defence Act (Northern Ireland) 1950 (c. 11 (N.I.))
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Defence Contracts Act 1958 (c. 38)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Public Expenditure and Receipts Act 1968 (c. 14)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Civil Protection in Peacetime Act 1986 (c. 22)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Metropolitan County Fire and Rescue Authorities
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part 2 Amendments and Repeals Consequential on Part 2
+    - Emergency Powers Act 1920 (c. 55)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Emergency Powers Act (Northern Ireland) 1926 (c. 8)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Northern Ireland Act 1998 (c. 47)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Part 3 Minor Amendments
+    - Energy Act 1976 (c. 76)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Highways Act 1980 (c. 66)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Roads (Scotland) Act 1984 (c. 54)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Repeals and Revocations
