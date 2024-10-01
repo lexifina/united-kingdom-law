@@ -1,0 +1,678 @@
+# Energy Act 2013
+
+2013 c. 32. Enacted 2013-12-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
+
+Source: https://www.legislation.gov.uk/ukpga/2013/32/2024-10-01
+
+## Contents
+
+- PART 1 Decarbonisation
+  - [s. 1 Decarbonisation target range](section/1.md)
+  - [s. 2 Matters to be taken into account](section/2.md)
+  - [s. 3 Further duties of the Secretary of State](section/3.md)
+  - [s. 4 Meaning and calculation of “carbon intensity of electricity generation in the United Kingdom”](section/4.md)
+- PART 2 Electricity Market Reform
+  - CHAPTER 1 General considerations
+    - [s. 5 General considerations relating to this Part](section/5.md)
+  - CHAPTER 2 Contracts for Difference
+    - [s. 6 Regulations to encourage low carbon electricity generation](section/6.md)
+    - [s. 7 Designation of a CFD counterparty](section/7.md)
+    - [s. 8 Duties of a CFD counterparty](section/8.md)
+    - [s. 9 Supplier obligation](section/9.md)
+    - [s. 10 Direction to offer to contract](section/10.md)
+    - [s. 11 Standard terms](section/11.md)
+    - [s. 12 CFD notifications](section/12.md)
+    - [s. 13 Allocation of CFDs](section/13.md)
+    - [s. 14 CFD notification: offer to contract on standard terms](section/14.md)
+    - [s. 15 Modification of standard terms](section/15.md)
+    - [s. 16 Sections 12 to 15: further provision](section/16.md)
+    - [s. 17 Payments to electricity suppliers](section/17.md)
+    - [s. 18 Application of sums held by a CFD counterparty](section/18.md)
+    - [s. 19 Information and advice](section/19.md)
+    - [s. 20 Functions of the Authority](section/20.md)
+    - [s. 21 Regulations: further provision](section/21.md)
+    - [s. 22 Enforcement](section/22.md)
+    - [s. 23 Limits on costs to be incurred](section/23.md)
+    - [s. 24 Consultation](section/24.md)
+    - [s. 25 Shadow directors, etc.](section/25.md)
+    - [s. 26 Licence modifications](section/26.md)
+  - CHAPTER 3 Capacity Market
+    - [s. 27 Power to make electricity capacity regulations](section/27.md)
+    - [s. 28 Capacity agreements](section/28.md)
+    - [s. 29 Capacity auctions](section/29.md)
+    - [s. 30 Settlement body](section/30.md)
+    - [s. 31 Functions of the Authority or the national system operator](section/31.md)
+    - [s. 32 Other requirements](section/32.md)
+    - [s. 33 Electricity capacity regulations: information and advice](section/33.md)
+    - [s. 34 Power to make capacity market rules](section/34.md)
+    - [s. 35 Provision about electricity demand reduction](section/35.md)
+    - [s. 36 Enforcement and dispute resolution](section/36.md)
+    - [s. 37 Licence modifications for the purpose of the capacity market](section/37.md)
+    - [s. 38 Amendment of enactments](section/38.md)
+    - [s. 39 Principal objective and general duties](section/39.md)
+    - [s. 40 Regulations under Chapter 3](section/40.md)
+    - [s. 41 Capacity market rules: procedure](section/41.md)
+    - [s. 42 Capacity market rules: further provision](section/42.md)
+    - [s. 43 Pilot scheme for electricity demand reduction](section/43.md)
+  - CHAPTER 4 Investment contracts
+    - [s. 44 Investment contracts](section/44.md)
+  - CHAPTER 5 Conflict of interest and contingency arrangements
+    - [s. 45 Modifications of transmission and other licences: business separation](section/45.md)
+    - [s. 46 Power to transfer EMR functions](section/46.md)
+    - [s. 47 Orders under section 46: fees and other supplementary provision](section/47.md)
+    - [s. 48 Energy administration orders](section/48.md)
+  - CHAPTER 6 Access to markets etc
+    - Market participation and liquidity
+      - [s. 49 Power to modify licence conditions etc: market participation and liquidity](section/49.md)
+    - Power purchase agreement scheme
+      - [s. 50 Power to modify licence conditions etc to facilitate investment in electricity generation](section/50.md)
+      - [s. 51 Power purchase agreement scheme: regulations](section/51.md)
+      - [s. 52 Power purchase agreement scheme: disclosure of information](section/52.md)
+      - [s. 53 Principal objective and general duties: power purchase agreement scheme](section/53.md)
+    - Supplementary
+      - [s. 54 Licence modifications under sections 49 and 50: further provisions](section/54.md)
+  - CHAPTER 7 The renewables obligation: transitional arrangements
+    - [s. 55 Closure of support under the renewables obligation](section/55.md)
+    - [s. 56 Transition to certificate purchase scheme](section/56.md)
+  - CHAPTER 8 Emissions performance standard
+    - [s. 57 Duty not to exceed annual carbon dioxide emissions limit](section/57.md)
+    - [s. 58 Introduction of carbon capture and storage: exemption from emissions limit](section/58.md)
+    - [s. 59 Suspension etc of emissions limit in exceptional circumstances](section/59.md)
+    - [s. 60 Monitoring and enforcement](section/60.md)
+    - [s. 61 Interpretation of Chapter 8](section/61.md)
+    - [s. 62 Regulations under Chapter 8](section/62.md)
+  - CHAPTER 9 Miscellaneous
+    - [s. 63 Exemption from liability in damages](section/63.md)
+    - [s. 64 Licence modifications: general](section/64.md)
+    - [s. 65 Consequential amendments](section/65.md)
+    - [s. 66 Review of certain provisions of Part 2](section/66.md)
+- PART 3 Nuclear Regulation
+  - CHAPTER 1 The ONR’s purposes
+    - [s. 67 The ONR’s purposes](section/67.md)
+    - [s. 68 Nuclear safety purposes](section/68.md)
+    - [s. 69 Nuclear site health and safety purposes](section/69.md)
+    - [s. 70 Nuclear security purposes](section/70.md)
+    - [s. 71 Notice by Secretary of State to ONR specifying sensitive nuclear information](section/71.md)
+    - [s. 72 Nuclear safeguards purposes](section/72.md)
+    - [s. 73 Transport purposes](section/73.md)
+  - CHAPTER 2 Nuclear regulations
+    - [s. 74 Nuclear regulations](section/74.md)
+    - [s. 75 Nuclear regulations: offences](section/75.md)
+    - [s. 76 Nuclear regulations: civil liability](section/76.md)
+  - CHAPTER 2A Nuclear safeguards
+    - [s. 76A Nuclear safeguards regulations](section/76A.md)
+    - [s. 76B Payments in respect of compliance costs](section/76B.md)
+  - CHAPTER 3 Office for Nuclear Regulation
+    - [s. 77 The Office for Nuclear Regulation](section/77.md)
+  - CHAPTER 4 Functions of the ONR
+    - Functions of ONR: general
+      - [s. 78 Principal function](section/78.md)
+      - [s. 79 Codes of practice](section/79.md)
+      - [s. 80 Procedure for issue, revision or withdrawal of codes of practice](section/80.md)
+      - [s. 81 Proposals about orders and regulations](section/81.md)
+      - [s. 82 Enforcement of relevant statutory provisions](section/82.md)
+      - [s. 83 Inspectors](section/83.md)
+      - [s. 84 Investigations](section/84.md)
+      - [s. 85 Inquiries](section/85.md)
+      - [s. 86 Inquiries: payments and charges](section/86.md)
+    - Other functions
+      - [s. 87 Provision of information](section/87.md)
+      - [s. 88 Research, training etc](section/88.md)
+      - [s. 89 Provision of information or advice to relevant authorities](section/89.md)
+      - [s. 90 Arrangements with government departments etc](section/90.md)
+      - [s. 91 Provision of services or facilities](section/91.md)
+    - Exercise of functions: general
+      - [s. 92 Directions from Secretary of State](section/92.md)
+      - [s. 93 Compliance with nuclear safeguards obligations](section/93.md)
+      - [s. 94 Consent of Secretary of State for certain communications](section/94.md)
+      - [s. 95 Power to arrange for exercise of functions by others](section/95.md)
+      - [s. 96 Co-operation between ONR and Health and Safety Executive](section/96.md)
+    - Information etc
+      - [s. 97 Power to obtain information](section/97.md)
+      - [s. 98 Powers of HMRC in relation to information](section/98.md)
+      - [s. 99 HMRC power to seize articles etc to facilitate ONR and inspectors](section/99.md)
+      - [s. 100 Disclosure of information](section/100.md)
+    - Fees
+      - [s. 101 Fees](section/101.md)
+  - CHAPTER 5 Supplementary
+    - General duties of employers, employees and others
+      - [s. 102 General duty of employees at work in relation to requirements imposed on others](section/102.md)
+      - [s. 103 Duty not to interfere with or misuse certain things provided under statutory requirements](section/103.md)
+      - [s. 104 Duty not to charge employees for certain things](section/104.md)
+    - Offences
+      - [s. 105 Offences relating to false information and deception](section/105.md)
+      - [s. 106 Provision relating to offences under certain relevant statutory provisions](section/106.md)
+    - Civil liability
+      - [s. 107 Civil liability: saving for section 12 of the Nuclear Installations Act 1965](section/107.md)
+    - Supplementary
+      - [s. 108 Reporting requirements of Secretary of State](section/108.md)
+      - [s. 109 Notices etc](section/109.md)
+      - [s. 110 Electronic delivery of notices etc](section/110.md)
+      - [s. 111 Crown application: Part 3](section/111.md)
+      - [s. 112 Interpretation of Part 3](section/112.md)
+      - [s. 113 Subordinate legislation under Part 3](section/113.md)
+      - [s. 114 Transitional provision etc](section/114.md)
+      - [s. 115 Transfer of staff etc](section/115.md)
+      - [s. 116 Minor and consequential amendments](section/116.md)
+      - [s. 117 Application of Part 3](section/117.md)
+      - [s. 118 Review of Part 3](section/118.md)
+- PART 4 Government Pipe-line and Storage System
+  - [s. 119 Meaning of “government pipe-line and storage system”](section/119.md)
+  - [s. 120 Rights in relation to the government pipe-line and storage system](section/120.md)
+  - [s. 121 Right of entry](section/121.md)
+  - [s. 122 Warrants for the purposes of section 121](section/122.md)
+  - [s. 123 Registration of rights](section/123.md)
+  - [s. 124 Compensation](section/124.md)
+  - [s. 125 Right to transfer the government pipe-line and storage system](section/125.md)
+  - [s. 126 Application of the Pipe-lines Act 1962](section/126.md)
+  - [s. 127 Rights apart from Part 4](section/127.md)
+  - [s. 128 Repeals](section/128.md)
+  - [s. 129 Power to dissolve the Oil and Pipelines Agency by order](section/129.md)
+  - [s. 130 Crown application: Part 4](section/130.md)
+- PART 5 Strategy and Policy Statement
+  - [s. 131 Designation of statement](section/131.md)
+  - [s. 132 Duties in relation to statement](section/132.md)
+  - [s. 133 Exceptions from section 132 duties](section/133.md)
+  - [s. 134 Review](section/134.md)
+  - [s. 135 Procedural requirements](section/135.md)
+  - [s. 136 Principal objective and general duties in preparation of statement](section/136.md)
+  - [s. 137 Reporting requirements](section/137.md)
+  - [s. 138 Consequential provision](section/138.md)
+- PART 6 Consumer Protection and Miscellaneous
+  - CHAPTER 1 Consumer Protection
+    - Domestic tariffs
+      - [s. 139 Power to modify energy supply licences: domestic supply contracts](section/139.md)
+      - [s. 140 Section 139: procedure etc](section/140.md)
+      - [s. 141 General duties of Secretary of State](section/141.md)
+      - [s. 142 Consequential provision](section/142.md)
+    - Licensable activities
+      - [s. 143 Powers to alter activities requiring licence: activities related to supply contracts](section/143.md)
+    - Consumer redress orders
+      - [s. 144 Consumer redress orders](section/144.md)
+    - Fuel poverty
+      - [s. 145 Fuel poverty](section/145.md)
+  - CHAPTER 2 Miscellaneous
+    - Feed-in tariffs
+      - [s. 146 Feed-in tariffs: increase in maximum capacity of plant](section/146.md)
+    - Offshore transmission
+      - [s. 147 Offshore transmission systems](section/147.md)
+    - Fees
+      - [s. 148 Fees for services provided for energy resilience purposes](section/148.md)
+      - [s. 149 Fees in respect of decommissioning and clean-up of nuclear sites](section/149.md)
+    - Smoke and carbon monoxide alarms
+      - [s. 150 Smoke and carbon monoxide alarms](section/150.md)
+    - Review
+      - [s. 151 Review of certain provisions of Part 6](section/151.md)
+- PART 7 Final
+  - [s. 152 Interpretation of Act](section/152.md)
+  - [s. 153 Transfer schemes](section/153.md)
+  - [s. 154 Financial provisions](section/154.md)
+  - [s. 155 Extent](section/155.md)
+  - [s. 156 Commencement](section/156.md)
+  - [s. 157 Short title](section/157.md)
+- SCHEDULE 1 CFD counterparties: transfer schemes
+  - Power to make transfer schemes
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Contents of a scheme
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Compensation
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 Investment contracts
+  - PART 1 Introductory
+    - Meaning of “investment contract”
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Varied investment contract
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Confidential information
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Interpretation for the purposes of this Schedule
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Investment contract counterparty
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 2 Regulations: general
+    - Regulations for the purposes of investment contracts
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Supplier obligation
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Payments to electricity suppliers
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Application of sums
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Information and advice
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Investment contracts: functions of the Authority
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Enforcement
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Consultation
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - PART 3 Further provision about an investment contract counterparty and a CFD counterparty
+    - Duties and liabilities of an investment contract counterparty and a CFD counterparty
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Shadow directors, etc.
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - PART 4 Transfers
+    - Transfers
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - PART 5 Supplementary
+    - Licence modifications
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Expenditure
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Orders under section 46: transfer schemes
+  - Power to make transfer schemes
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Contents of a scheme
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Compensation
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Application and modification of emissions limit duty
+  - Application of duty: changes to main boilers
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Application of duty: generating stations not exporting to a network
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Modifications where gasification or CCS plant associated with two or more generating stations
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Modifications where carbon capture and storage process used in relation to part of generating station
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Modifications of emissions limit duty for changes of circumstance during a year
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Emissions limit duty: monitoring and enforcement
+  - Matters that may be contained in enforcement regulations
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Enforcement notices
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Financial penalties
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - General
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Interpretation
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Nuclear regulations
+  - PART 1 Introductory
+    - Provision that may be made by nuclear regulations
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Interpretation
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - PART 2 Examples of provision that may be made by nuclear regulations
+    - Nuclear installations etc
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Research
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Import etc
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Transport
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Licences and approvals
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Appointment of persons to carry out specified functions
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Restrictions on employment
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Instruction, training and supervision etc
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Registration, notification and records
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Accidents and other occurrences
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 The Office for Nuclear Regulation
+  - Status
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Membership
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Terms of appointment
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Remuneration, allowances and pensions etc of non-executive members
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Employees and other members of staff
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Committees
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Procedure
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Performance of functions
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Payment of allowances and expenses
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Indemnities
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Accounts
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Strategy
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Annual plan
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Reporting requirements of the ONR
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Laying and publication
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Payments and borrowing
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - Supplementary powers
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Financial year
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+- SCHEDULE 8 Inspectors
+  - PART 1 Appointment and powers of inspectors
+    - Appointment of inspectors
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Powers of inspectors
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - PART 2 Powers exercisable by inspectors authorised by instrument of appointment: improvement notices and prohibition notices
+    - Improvement notices
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Prohibition notices
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Improvement and prohibition notices: supplementary
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Appeal against improvement or prohibition notice
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Improvement and prohibition notices: offences
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - PART 3 Other powers exercisable by inspector if authorised by instrument of appointment
+    - Power of entry
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Power to take persons and equipment etc onto premises
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Power to deal with cause of imminent danger
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Powers exercisable in relation to particular articles or substances or in particular circumstances
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Powers of inspection and examination and to take samples
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Powers to require information and documents
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Offences
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Supplementary powers
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Protection for documents subject to legal professional privilege etc
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - PART 4 Supplementary
+    - Duty to provide information to employees or their representatives
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Interpretation
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+- SCHEDULE 9 Disclosure of information
+  - PART 1 Prohibition on disclosure of protected information
+    - Meaning of “protected information” and related terms
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - PART 2 Offences relating to disclosure and use of protected information
+    - Prohibition on disclosing protected information
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Offence of disclosing protected information in contravention of paragraph 2
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Offence of using protected information in contravention of a restriction in Part 3
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Defence to offences under paragraphs 3 and 4
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Penalty for offences under paragraphs 3 and 4
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - PART 3 Protected information: permitted disclosures and restrictions on use
+    - Disclosure with appropriate consent
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Disclosure by ONR, inspectors etc
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Disclosure to the ONR, inspectors etc
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Ministers, government departments and certain authorities
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Health and safety etc
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Local authorities and water authorities etc
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Police
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Disclosure required under legislation
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Legal proceedings, inquiries and investigations
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Disclosure for safeguards purposes
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - Anonymised information
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - PART 4 General
+    - Interaction with other legislation
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+- SCHEDULE 10 Provisions relating to offences
+  - Interpretation
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Venue
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Extension of time for bringing summary proceedings
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Continuation of offences
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Offences due to fault of other person
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Offences by bodies corporate
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Offences by partnerships
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Restriction on institution of proceedings in England and Wales
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Prosecutions by inspectors in England and Wales
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Onus of proving limits of what is practicable etc
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Evidence
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Power of court to order cause of offence to be remedied
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Transfers to the Office for Nuclear Regulation
+  - PART 1 Introductory
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - PART 2 Staff transfer schemes
+    - Power to make staff transfer schemes
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Staff to whom a transfer may apply
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Content of a staff transfer scheme
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - PART 3 Property transfer schemes
+    - Power to make property transfer schemes
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Qualifying property
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Content of a property transfer scheme
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Compensation
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - PART 4 Procedure for making or modifying schemes under this Schedule
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+- SCHEDULE 12 Minor and consequential amendments relating to Part 3
+  - PART 1 Amendments of the Health and Safety at Work etc. Act 1974
+    - Health and Safety at Work etc. Act 1974 (c. 37)
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - PART 2 Nuclear safety
+    - Nuclear Installations Act 1965 (c. 57)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - Consequential repeals and revocations
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+  - PART 3 Nuclear security
+    - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+  - PART 4 Nuclear safeguards
+    - Atomic Energy Act 1946 (c. 80)
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+      - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+      - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+      - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - Nuclear Safeguards and Electricity (Finance) Act 1978 (c. 25)
+      - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+      - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+      - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - Nuclear Safeguards Act 2000 (c. 5)
+      - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+      - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+      - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+      - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+      - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+      - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+      - [Sch. 12 para. 48](schedule/12/paragraph/48.md)
+      - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+  - PART 5 Other enactments
+    - Explosives Act 1875 (c. 17)
+      - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+      - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+      - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+    - Factories Act 1961 (c. 34)
+      - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+    - Employment Protection Act 1975 (c.71)
+      - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+    - Civil Aviation Act 1982 (c. 16)
+      - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+    - Water Act 1989 (c. 15)
+      - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+    - Electricity Act 1989 (c. 29)
+      - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+      - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+      - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+    - Radioactive Material (Road Transport) Act 1991 (c. 27)
+      - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+    - Water Resources Act 1991 (c. 57)
+      - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+    - Radioactive Substances Act 1993 (c. 12)
+      - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+      - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+      - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+    - Railways Act 1993 (c. 43)
+      - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+    - Coal Industry Act 1994 (c. 21)
+      - [Sch. 12 para. 70](schedule/12/paragraph/70.md)
+    - Deregulation and Contracting Out Act 1994 (c. 40)
+      - [Sch. 12 para. 71](schedule/12/paragraph/71.md)
+    - Scotland Act 1998 (c. 46)
+      - [Sch. 12 para. 72](schedule/12/paragraph/72.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 12 para. 73](schedule/12/paragraph/73.md)
+    - Regulation of Investigatory Powers Act 2000 (c. 23)
+      - [Sch. 12 para. 74](schedule/12/paragraph/74.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 12 para. 75](schedule/12/paragraph/75.md)
+    - Transport Act 2000 (c. 38)
+      - [Sch. 12 para. 76](schedule/12/paragraph/76.md)
+    - Energy Act 2004 (c. 20)
+      - [Sch. 12 para. 77](schedule/12/paragraph/77.md)
+      - [Sch. 12 para. 78](schedule/12/paragraph/78.md)
+      - [Sch. 12 para. 79](schedule/12/paragraph/79.md)
+      - [Sch. 12 para. 80](schedule/12/paragraph/80.md)
+    - Civil Contingencies Act 2004 (c. 36)
+      - [Sch. 12 para. 81](schedule/12/paragraph/81.md)
+    - Railways Act 2005 (c. 14)
+      - [Sch. 12 para. 82](schedule/12/paragraph/82.md)
+      - [Sch. 12 para. 83](schedule/12/paragraph/83.md)
+      - [Sch. 12 para. 84](schedule/12/paragraph/84.md)
+      - [Sch. 12 para. 85](schedule/12/paragraph/85.md)
+    - Fire (Scotland) Act 2005 (asp. 5)
+      - [Sch. 12 para. 86](schedule/12/paragraph/86.md)
+    - Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)
+      - [Sch. 12 para. 87](schedule/12/paragraph/87.md)
+      - [Sch. 12 para. 88](schedule/12/paragraph/88.md)
+      - [Sch. 12 para. 89](schedule/12/paragraph/89.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 12 para. 90](schedule/12/paragraph/90.md)
+    - National Health Service Act 2006 (c. 41)
+      - [Sch. 12 para. 91](schedule/12/paragraph/91.md)
+    - Road Safety Act 2006 (c. 49)
+      - [Sch. 12 para. 92](schedule/12/paragraph/92.md)
+    - Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)
+      - [Sch. 12 para. 93](schedule/12/paragraph/93.md)
+    - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+      - [Sch. 12 para. 94](schedule/12/paragraph/94.md)
+    - Energy Act 2008 (c. 32)
+      - [Sch. 12 para. 95](schedule/12/paragraph/95.md)
+      - [Sch. 12 para. 96](schedule/12/paragraph/96.md)
+      - [Sch. 12 para. 97](schedule/12/paragraph/97.md)
+      - [Sch. 12 para. 98](schedule/12/paragraph/98.md)
+      - [Sch. 12 para. 99](schedule/12/paragraph/99.md)
+      - [Sch. 12 para. 100](schedule/12/paragraph/100.md)
+    - Borders, Citizenship and Immigration Act 2009 (c. 11)
+      - [Sch. 12 para. 101](schedule/12/paragraph/101.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 12 para. 102](schedule/12/paragraph/102.md)
+    - Health and Social Care Act 2012 (c. 7)
+      - [Sch. 12 para. 103](schedule/12/paragraph/103.md)
+- SCHEDULE 13 Transfer schemes under section 129
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+- SCHEDULE 14 Consumer redress orders
+  - PART 1 Gas consumers
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - PART 2 Electricity consumers
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
