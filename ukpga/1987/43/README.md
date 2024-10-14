@@ -1,0 +1,133 @@
+# Consumer Protection Act 1987
+
+1987 c. 43. Enacted 1987-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-14, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1987/43
+
+Source: https://www.legislation.gov.uk/ukpga/1987/43/2024-10-14
+
+## Contents
+
+- Part I Product Liability
+  - [s. 1 Purpose and construction of Part I.](section/1.md)
+  - [s. 2 Liability for defective products.](section/2.md)
+  - [s. 3 Meaning of “defect”.](section/3.md)
+  - [s. 4 Defences.](section/4.md)
+  - [s. 5 Damage giving rise to liability.](section/5.md)
+  - [s. 6 Application of certain enactments etc.](section/6.md)
+  - [s. 7 Prohibition on exclusions from liability.](section/7.md)
+  - [s. 8 Power to modify Part I.](section/8.md)
+  - [s. 9 Application of Part I to Crown.](section/9.md)
+- Part II Consumer Safety
+  - [s. 10 The general safety requirement.](section/10.md)
+  - [s. 11 Safety regulations.](section/11.md)
+  - [s. 12 Offences against the safety regulations.](section/12.md)
+  - [s. 13 Prohibition notices and notices to warn.](section/13.md)
+  - [s. 14 Suspension notices.](section/14.md)
+  - [s. 15 Appeals against suspension notices.](section/15.md)
+  - [s. 16 Forfeiture: England and Wales and Northern Ireland.](section/16.md)
+  - [s. 17 Forfeiture: Scotland.](section/17.md)
+  - [s. 18 Power to obtain information.](section/18.md)
+  - [s. 19 Interpretation of Part II.](section/19.md)
+- Part III Misleading Price Indications
+  - [s. 20 Offence of giving misleading indication.](section/20.md)
+  - [s. 21 Meaning of “misleading”.](section/21.md)
+  - [s. 22 Application to provision of services and facilities.](section/22.md)
+  - [s. 23 Application to provision of accommodation etc.](section/23.md)
+  - [s. 24 Defences.](section/24.md)
+  - [s. 25 Code of practice.](section/25.md)
+  - [s. 26 Power to make regulations.](section/26.md)
+- Part IV Enforcement of Parts II and III
+  - [s. 27 Enforcement.](section/27.md)
+  - [s. 28 Test purchases.](section/28.md)
+  - [s. 29 Powers of search etc.](section/29.md)
+  - [s. 30 Provisions supplemental to s. 29.](section/30.md)
+  - [s. 31 Power of customs officer to detain goods.](section/31.md)
+  - [s. 32 Obstruction of authorised officer.](section/32.md)
+  - [s. 33 Appeals against detention of goods.](section/33.md)
+  - [s. 34 Compensation for seizure and detention.](section/34.md)
+  - [s. 35 Recovery of expenses of enforcement.](section/35.md)
+- Part V Miscellaneous and Supplemental
+  - [s. 36 Amendments of Part I of the Health and Safety at Work etc. Act 1974.](section/36.md)
+  - [s. 37 Power of Commissioners for Revenue and Customs to disclose information](section/37.md)
+  - [s. 38 Restrictions on disclosure of information.](section/38.md)
+  - [s. 39 Defence of due diligence.](section/39.md)
+  - [s. 40 Liability of persons other than principal offender.](section/40.md)
+  - [s. 41 Civil proceedings.](section/41.md)
+  - [s. 42 Reports etc.](section/42.md)
+  - [s. 43 Financial provisions.](section/43.md)
+  - [s. 44 Service of documents etc.](section/44.md)
+  - [s. 45 Interpretation.](section/45.md)
+  - [s. 46 Meaning of “supply”](section/46.md)
+  - [s. 47 Savings for certain privileges.](section/47.md)
+  - [s. 48 Minor and consequential amendments and repeals.](section/48.md)
+  - [s. 49 Northern Ireland.](section/49.md)
+  - [s. 50 Short title: commencement and transitional provision.](section/50.md)
+- SCHEDULE 1 Limitation of Actions under Part I
+  - Part I England and Wales
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part II Scotland
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Prohibition Notices and Notices to Warn
+  - Part I Prohibition Notices
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part II Notices to Warn
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part III General
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Amendments of Part I of the Health and Safety at Work etc. Act 1974
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - The Explosives Act 1875
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Trade Descriptions Act 1968
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Fair Trading Act 1973
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Consumer Credit Act 1974
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Torts (Interference with Goods) Act 1977
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Estate Agents Act 1979
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Competition Act 1980
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - The Employment Act 1982
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - The Telecommunications Act 1984
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Airports Act 1986
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - The Gas Act 1986
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - The Insolvency Act 1986
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - The Motor Cycle Noise Act 1987
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Repeals
