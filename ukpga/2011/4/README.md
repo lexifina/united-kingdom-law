@@ -2,9 +2,9 @@
 
 2011 c. 4. Enacted 2011-03-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2018-04-01, one file per provision. Earlier versions, from 2011-03-22, are in the history before it: `git log -- ukpga/2011/4` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-15, one file per provision. Earlier versions, from 2011-03-22, are in the history before it: `git log -- ukpga/2011/4` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/4/2018-04-01
+Source: https://www.legislation.gov.uk/ukpga/2011/4/2024-10-15
 
 ## Contents
 
@@ -13,6 +13,7 @@ Source: https://www.legislation.gov.uk/ukpga/2011/4/2018-04-01
   - [s. 2 Annual Budget documents](section/2.md)
   - [s. 3 Office for Budget Responsibility](section/3.md)
   - [s. 4 Main duty of Office](section/4.md)
+  - [s. 4A Announcement of fiscally significant measures](section/4A.md)
   - [s. 5 How main duty is to be performed](section/5.md)
   - [s. 6 Guidance as to how main duty is to be performed](section/6.md)
   - [s. 7 Efficiency etc](section/7.md)
