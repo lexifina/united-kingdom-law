@@ -1,0 +1,149 @@
+# Courts-Martial (Appeals) Act 1968
+
+1968 c. 20. Enacted 1968-05-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1968/20
+
+Source: https://www.legislation.gov.uk/ukpga/1968/20/2024-10-16
+
+## Contents
+
+- Part I THE COURT MARTIAL APPEAL COURT
+  - [s. 1 The Court and its jurisdiction.](section/1.md)
+  - [s. 2 Judges.](section/2.md)
+  - [s. 3 Other senior judges who may exercise powers of Appeal Court.](section/3.md)
+  - [s. 4 Sittings.](section/4.md)
+  - [s. 5](section/5.md)
+  - [s. 6 Power of Master of the Rolls to act for Lord Chief Justice.](section/6.md)
+  - [s. 7 Court staff, salaries and pensions.](section/7.md)
+- Part II APPEALS FROM THE COURT MARTIAL
+  - Right of appeal and initiating procedure
+    - [s. 8 Right of appeal.](section/8.md)
+    - [s. 9 Application for leave to appeal.](section/9.md)
+    - [s. 10 Alternative procedure for appeal from court-martial abroad.](section/10.md)
+    - [s. 11 Consideration of application by Appeal Court.](section/11.md)
+  - Disposal of appeal
+    - [s. 12 Power to quash conviction as unsafe.](section/12.md)
+    - [s. 13 Power to re-sentence when some but not all convictions successfully appealed.](section/13.md)
+    - [s. 14 Substitution of conviction on different charge otherwise than after guilty plea.](section/14.md)
+    - [s. 14A Substitution of conviction on different charge after guilty plea](section/14A.md)
+    - [s. 15 Variation of conviction so as to attract different sentence.](section/15.md)
+    - [s. 16 Substitution of finding of insanity or findings of unfitness to stand trial etc.](section/16.md)
+    - [s. 16A Appeals against sentence.](section/16A.md)
+    - [s. 17 Term of sentence passed under s. 13, 14, 14A or 16A.](section/17.md)
+    - [s. 17A Appeals by civilians: application of Service Act provisions.](section/17A.md)
+  - Retrial
+    - [s. 18 Retrial generally excluded.](section/18.md)
+    - [s. 19 Power to authorise retrial in certain cases.](section/19.md)
+    - [s. 20 Implementation of authority for retrial, and supplementary orders of Appeal Court.](section/20.md)
+  - Insanity
+    - [s. 21 Appeal against finding of not guilty by reason of insanity.](section/21.md)
+    - [s. 22 Consequences where appeal under s. 21 allowed.](section/22.md)
+    - [s. 23 Substitution of findings of unfitness to stand trial etc.](section/23.md)
+    - [s. 23A Substitution of finding of not guilty.](section/23A.md)
+  - Unfitness to stand trial
+    - [s. 24 Appeal against finding of unfitness.](section/24.md)
+    - [s. 25 Disposal of appeal under s. 24](section/25.md)
+  - Appeal against order made in cases of insanity or unfitness to stand trial
+    - [s. 25A Right of appeal against hospital order etc.](section/25A.md)
+    - [s. 25B Disposal of appeal under s. 25A](section/25B.md)
+  - Appeals following references by the CCRC
+    - [s. 25C Power to dismiss certain appeals following references by the CCRC](section/25C.md)
+  - General procedural provisions
+    - [s. 26 Presentation, of appellant’s case.](section/26.md)
+    - [s. 27 Right of appellant to be present.](section/27.md)
+    - [s. 28 Evidence.](section/28.md)
+    - [s. 29 Power to call for report by member of the Court Martial.](section/29.md)
+    - [s. 29A Power to order investigation by Criminal Cases Review Commission](section/29A.md)
+    - [s. 30 Other powers for facilitating disposal of appeal.](section/30.md)
+  - Costs
+    - [s. 31 Costs of successful appeal.](section/31.md)
+    - [s. 31A Legal costs](section/31A.md)
+    - [s. 32 Costs against appellant.](section/32.md)
+    - [s. 33 Witnesses’ expenses.](section/33.md)
+    - [s. 33A Appellant’s expenses.](section/33A.md)
+    - [s. 33B Further provision about costs](section/33B.md)
+    - [s. 33C Regulations](section/33C.md)
+  - Special references to Appeal Court
+    - [s. 34 Reference of cases by Service authorities.](section/34.md)
+    - [s. 35 ................................](section/35.md)
+  - Supplementary
+    - [s. 35A Effect of interim hospital orders](section/35A.md)
+    - [s. 36 Powers under Part II which are exercisable by single judge.](section/36.md)
+    - [s. 36A Powers under Part II which are exercisable by registrar.](section/36A.md)
+    - [s. 36B Procedural directions: powers of single judge and registrar](section/36B.md)
+    - [s. 36C Appeals against procedural directions](section/36C.md)
+    - [s. 37 Provision of record of proceedings of the Court Martial.](section/37.md)
+    - [s. 37A False statements in computer record certificates.](section/37A.md)
+    - [s. 38 Defence of appeals.](section/38.md)
+- Part III APPEAL FROM COURT MARTIAL APPEAL COURT TO Court of Judicature
+  - [s. 39 Right of appeal.](section/39.md)
+  - [s. 40 Application for leave to appeal.](section/40.md)
+  - [s. 41 Hearing and disposal of appeal.](section/41.md)
+  - [s. 42 Bail.](section/42.md)
+  - [s. 43 Detention of accused.](section/43.md)
+  - [s. 43A Continuation of community treatment order](section/43A.md)
+  - [s. 44 Presence of accused at hearing.](section/44.md)
+  - [s. 45 Effect of appeal on sentence.](section/45.md)
+  - [s. 46 Restitution of property.](section/46.md)
+  - [s. 46A Costs: application to Appeal Court by Director of Service Prosecutions](section/46A.md)
+  - [s. 46B Costs: application to Appeal Court by accused](section/46B.md)
+  - [s. 47 Costs: application to Supreme Court.](section/47.md)
+  - [s. 47A Further provision about costs](section/47A.md)
+  - [s. 47B Regulations](section/47B.md)
+  - [s. 48 Powers under Part III which are exercisable by single judge.](section/48.md)
+  - [s. 48A Appeals on behalf of deceased persons.](section/48A.md)
+- Part IV Miscellaneous and General
+  - [s. 49 Rules of Court.](section/49.md)
+  - [s. 50 Duties of registrar with respect to appeals etc.](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 Removal of prisoners.](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 Saving for prerogative.](section/54.md)
+  - [s. 55 Modification of provisions in Parts II and III for capital cases.](section/55.md)
+  - [s. 56 Modifications for protected prisoners of war](section/56.md)
+  - [s. 57 Interpretation.](section/57.md)
+  - [s. 58 Consequential amendments of enactments.](section/58.md)
+  - [s. 59 Transitional provisions.](section/59.md)
+  - [s. 60 Repeals.](section/60.md)
+  - [s. 61 Short title and commencement.](section/61.md)
+- SCHEDULE 1 Provisions as to Retrial
+  - [Sch. 1 para. 1n1](schedule/1/paragraph/1n1.md)
+  - [Sch. 1 para. 2n1](schedule/1/paragraph/2n1.md)
+  - [Sch. 1 para. 3n1](schedule/1/paragraph/3n1.md)
+  - [Sch. 1 para. 4n1](schedule/1/paragraph/4n1.md)
+- SCHEDULE 2 Procedural and other Modifications for Capital Cases
+  - Modifications of Part II
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Modifications of Part III
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Modifications in Relation to Prisoners of War
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Consequential Amendment of Enactments
+  - ...
+    - [Sch. 4 heading the-army-act-1955-c18 para. Sectionn1](schedule/4/crossheading/the-army-act-1955-c18/paragraph/Sectionn1.md)
+    - [Sch. 4 heading the-army-act-1955-c18 para. Sectionn2](schedule/4/crossheading/the-army-act-1955-c18/paragraph/Sectionn2.md)
+    - [Sch. 4 heading the-army-act-1955-c18 para. Sectionn3](schedule/4/crossheading/the-army-act-1955-c18/paragraph/Sectionn3.md)
+    - [Sch. 4 heading the-air-force-act-1955-c-19 para. Sectionn4](schedule/4/crossheading/the-air-force-act-1955-c-19/paragraph/Sectionn4.md)
+    - [Sch. 4 heading the-air-force-act-1955-c-19 para. Sectionn5](schedule/4/crossheading/the-air-force-act-1955-c-19/paragraph/Sectionn5.md)
+    - [Sch. 4 heading the-air-force-act-1955-c-19 para. Sectionn6](schedule/4/crossheading/the-air-force-act-1955-c-19/paragraph/Sectionn6.md)
+    - [Sch. 4 heading the-naval-discipline-act-1957-c53 para. sectionn1](schedule/4/crossheading/the-naval-discipline-act-1957-c53/paragraph/sectionn1.md)
+    - [Sch. 4 heading the-naval-discipline-act-1957-c53 para. Sectionn7](schedule/4/crossheading/the-naval-discipline-act-1957-c53/paragraph/Sectionn7.md)
+    - [Sch. 4 heading the-naval-discipline-act-1957-c53 para. sectionn2](schedule/4/crossheading/the-naval-discipline-act-1957-c53/paragraph/sectionn2.md)
+    - [Sch. 4 heading the-naval-discipline-act-1957-c53 para. Sectionn8](schedule/4/crossheading/the-naval-discipline-act-1957-c53/paragraph/Sectionn8.md)
+- SCHEDULE 5 Transistional Provisions
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Repeals
