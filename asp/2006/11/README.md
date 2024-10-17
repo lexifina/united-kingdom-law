@@ -1,0 +1,142 @@
+# Animal Health and Welfare (Scotland) Act 2006
+
+asp/2006/11. Enacted 2006-07-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2006/11
+
+Source: https://www.legislation.gov.uk/asp/2006/11/2024-10-17
+
+## Contents
+
+- Part 1 Animal health
+  - Powers of slaughter
+    - [s. 1 Slaughter for preventing spread of disease](section/1.md)
+    - [s. 2 Slaughter of treated animals](section/2.md)
+    - [s. 3 Disease control (slaughter) statement](section/3.md)
+  - Prevention of the spread of disease
+    - [s. 4 Biosecurity codes](section/4.md)
+    - [s. 5 Tests and samples](section/5.md)
+    - [s. 6 Animal gatherings](section/6.md)
+    - [s. 7 Treatment](section/7.md)
+    - [s. 8 Seizure of carcases etc.](section/8.md)
+    - [s. 9 Specified diseases](section/9.md)
+  - Deliberate infection of animals
+    - [s. 10 Deliberate infection of animals](section/10.md)
+  - Particular provision for TSE
+    - [s. 11 Livestock genotypes: specification, breeding and slaughter](section/11.md)
+  - Miscellaneous
+    - [s. 12 Powers of entry etc.](section/12.md)
+    - [s. 13 Inspection of vehicles](section/13.md)
+    - [s. 14 Penalties and time limits](section/14.md)
+    - [s. 15 Electronic communication](section/15.md)
+- Part 2 Animal welfare
+  - Introductory
+    - [s. 16 Animals to which this Part applies](section/16.md)
+    - [s. 17 Protected animals](section/17.md)
+    - [s. 18 Responsibility for animals](section/18.md)
+  - Prevention of harm
+    - [s. 19 Unnecessary suffering](section/19.md)
+    - [s. 20 Mutilation](section/20.md)
+    - [s. 21 Cruel operations](section/21.md)
+    - [s. 22 Administration of poisons etc.](section/22.md)
+    - [s. 23 Animal fights](section/23.md)
+  - Promotion of welfare
+    - [s. 24 Ensuring welfare of animals](section/24.md)
+    - [s. 25 Care notices](section/25.md)
+    - [s. 26 Provision for securing welfare](section/26.md)
+    - [s. 27 Licensing etc. of activities involving animals](section/27.md)
+    - [s. 28 Prohibition on keeping certain animals](section/28.md)
+    - [s. 29 Abandonment](section/29.md)
+    - [s. 30 Sale of animals to children](section/30.md)
+    - [s. 31 Offering animals as prizes](section/31.md)
+  - Animals in distress
+    - [s. 32 Taking possession of animals](section/32.md)
+    - [s. 32A Powers of authorised person where animal taken into possession](section/32A.md)
+    - [s. 32B Decision notice for exercise of powers under section 32A: content](section/32B.md)
+    - [s. 32C Decision notice: service](section/32C.md)
+    - [s. 32D Appeal to the court in respect of decision notice](section/32D.md)
+    - [s. 32E Effect of decision notice on applications under section 33](section/32E.md)
+    - [s. 32F Effect of decision notice on applications under section 34](section/32F.md)
+    - [s. 32G Compensation notice for exercise of powers under section 32A](section/32G.md)
+    - [s. 32H Compensation amount](section/32H.md)
+    - [s. 32I Application of proceeds of sale](section/32I.md)
+    - [s. 32J Appeal to court in respect of compensation amount](section/32J.md)
+    - [s. 32K Payment of compensation amount](section/32K.md)
+    - [s. 32L Forfeiture of compensation](section/32L.md)
+    - [s. 32M Modification of powers over animals](section/32M.md)
+    - [s. 33 Release orders where animals taken](section/33.md)
+    - [s. 34 Disposal orders where animals taken](section/34.md)
+    - [s. 35 Resort to destruction of animals](section/35.md)
+  - Welfare bodies, codes and guidance
+    - [s. 36 Animal welfare bodies](section/36.md)
+    - [s. 37 Animal welfare codes](section/37.md)
+    - [s. 38 Animal welfare guidance](section/38.md)
+  - Post-conviction orders
+    - [s. 39 Deprivation orders](section/39.md)
+    - [s. 40 Disqualification orders](section/40.md)
+    - [s. 41 Seizure orders where disqualification breached](section/41.md)
+    - [s. 42 Termination or variation of disqualification](section/42.md)
+    - [s. 42A Disqualification orders: record of reasons](section/42A.md)
+    - [s. 43 Appeals against orders](section/43.md)
+  - Offences and penalties
+    - [s. 44 Proceedings for animal fighting offences](section/44.md)
+    - [s. 45 Offences by bodies corporate etc.](section/45.md)
+    - [s. 46 Penalties for offences](section/46.md)
+    - [s. 46A Fixed penalty notices for certain offences](section/46A.md)
+  - Exclusions from application of this Part
+    - [s. 47 Exclusions](section/47.md)
+  - Miscellaneous
+    - [s. 48 Suffering](section/48.md)
+    - [s. 49 Vets, inspectors and constables](section/49.md)
+    - [s. 50 Premises](section/50.md)
+    - [s. 51 Regulations](section/51.md)
+- Part 3 General
+  - [s. 52 Modification of enactments](section/52.md)
+  - [s. 53 Ancillary provision](section/53.md)
+  - [s. 54 Crown application](section/54.md)
+  - [s. 55 Commencement and short title](section/55.md)
+- SCHEDULE 1 Powers of inspectors and constables for Part 2
+  - Entry and inspection in connection with an obligation under assimilated law
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Entry and search where animals in distress
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Entry and inspection in connection with offences
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Entry and search etc. in connection with offences
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Conditions for granting warrants
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Supplementary powers of inspectors: evidence gathering in connection with wildlife offences
+    - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+  - Stopping and detaining vehicles etc.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Entry and search etc.: supplementary
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Offences of obstruction
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Powers of constables: supplementary
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Interpretation
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Modification of enactments
+  - Animal health provisions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Animal welfare provisions
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
