@@ -2,9 +2,9 @@
 
 2010 c. 15. Enacted 2010-04-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-10-01, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-26, one file per provision. Earlier versions, from 2010-04-08, are in the history before it: `git log -- ukpga/2010/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-10-01
+Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-10-26
 
 ## Contents
 
@@ -69,6 +69,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-10-01
     - Employees
       - [s. 39 Employees and applicants](section/39.md)
       - [s. 40 Employees and applicants: harassment](section/40.md)
+      - [s. 40A Employer duty to prevent sexual harassment of employees](section/40A.md)
       - [s. 41 Contract workers](section/41.md)
     - Police officers
       - [s. 42 Identity of employer](section/42.md)
@@ -185,6 +186,7 @@ Source: https://www.legislation.gov.uk/ukpga/2010/15/2024-10-01
     - [s. 122 References by court to tribunal, etc.](section/122.md)
     - [s. 123 Time limits](section/123.md)
     - [s. 124 Remedies: general](section/124.md)
+    - [s. 124A Remedies: compensation uplift in sexual harassment cases](section/124A.md)
     - [s. 125 Remedies: national security](section/125.md)
     - [s. 126 Remedies: occupational pension schemes](section/126.md)
   - Chapter 4 Equality of terms
