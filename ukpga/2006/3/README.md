@@ -1,0 +1,338 @@
+# Equality Act 2006
+
+2006 c. 3. Enacted 2006-02-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2006/3/2024-10-26
+
+## Contents
+
+- Part 1 The Commission for Equality and Human Rights
+  - The Commission
+    - [s. 1 Establishment](section/1.md)
+    - [s. 2 Constitution, &c.](section/2.md)
+    - [s. 3 General duty](section/3.md)
+    - [s. 4 Strategic plan](section/4.md)
+    - [s. 5 Strategic plan: consultation](section/5.md)
+    - [s. 6 Disclosure](section/6.md)
+    - [s. 7 Scotland: human rights](section/7.md)
+  - Duties
+    - [s. 8 Equality and diversity](section/8.md)
+    - [s. 9 Human rights](section/9.md)
+    - [s. 10 Groups](section/10.md)
+    - [s. 11 Monitoring the law](section/11.md)
+    - [s. 12 Monitoring progress](section/12.md)
+  - General powers
+    - [s. 13 Information, advice, &c.](section/13.md)
+    - [s. 14 Codes of practice](section/14.md)
+    - [s. 15 Codes of practice: supplemental](section/15.md)
+    - [s. 16 Inquiries](section/16.md)
+    - [s. 17 Grants](section/17.md)
+    - [s. 18 Human rights](section/18.md)
+    - [s. 19 Groups](section/19.md)
+  - Enforcement powers
+    - [s. 20 Investigations](section/20.md)
+    - [s. 21 Unlawful act notice](section/21.md)
+    - [s. 22 Action plans](section/22.md)
+    - [s. 23 Agreements](section/23.md)
+    - [s. 24 Applications to court](section/24.md)
+    - [s. 24A Enforcement powers: supplemental](section/24A.md)
+    - [s. 25 Application to restrain unlawful advertising, pressure, &c.](section/25.md)
+    - [s. 26 Section 25: supplemental](section/26.md)
+    - [s. 27 Conciliation](section/27.md)
+    - [s. 28 Legal assistance](section/28.md)
+    - [s. 29 Legal assistance: costs](section/29.md)
+    - [s. 30 Judicial review and other legal proceedings](section/30.md)
+    - [s. 31 Public sector duties: assessment](section/31.md)
+    - [s. 32 Public sector duties: compliance notice](section/32.md)
+  - Interpretation
+    - [s. 33 Equality and human rights enactments](section/33.md)
+    - [s. 34 Unlawful](section/34.md)
+    - [s. 35 General](section/35.md)
+  - Dissolution of Existing Commissions
+    - [s. 36 Dissolution](section/36.md)
+    - [s. 37 Transfer of property, &c.](section/37.md)
+    - [s. 38 Transfer of property: supplemental](section/38.md)
+  - Miscellaneous
+    - [s. 39 Orders and regulations](section/39.md)
+    - [s. 40 Consequential amendments](section/40.md)
+    - [s. 41 Transitional: the Commission](section/41.md)
+    - [s. 42 Transitional: functions of the dissolved Commissions](section/42.md)
+    - [s. 43 Transitional: rented housing in Scotland](section/43.md)
+- Part 2 Discrimination on grounds of religion or belief
+  - Key concepts
+    - [s. 44 Religion and belief](section/44.md)
+    - [s. 45 Discrimination](section/45.md)
+  - Prohibited discrimination
+    - [s. 46 Goods, facilities and services](section/46.md)
+    - [s. 47 Premises](section/47.md)
+    - [s. 48 Section 47: exceptions](section/48.md)
+    - [s. 49 Educational establishments](section/49.md)
+    - [s. 50 Section 49: exceptions](section/50.md)
+    - [s. 51 Local education authorities and education authorities](section/51.md)
+    - [s. 52 Public authorities: general](section/52.md)
+  - Other unlawful acts
+    - [s. 53 Discriminatory practices](section/53.md)
+    - [s. 54 Discriminatory advertisements](section/54.md)
+    - [s. 55 Instructing or causing discrimination](section/55.md)
+  - General exceptions
+    - [s. 56 Statutory requirements](section/56.md)
+    - [s. 57 Organisations relating to religion or belief](section/57.md)
+    - [s. 58 Charities relating to religion or belief](section/58.md)
+    - [s. 59 Faith schools, &c.](section/59.md)
+    - [s. 60 Membership requirement](section/60.md)
+    - [s. 61 Education, training and welfare](section/61.md)
+    - [s. 62 Care within family](section/62.md)
+    - [s. 63 National security](section/63.md)
+    - [s. 64 Amendment of exceptions](section/64.md)
+  - Enforcement
+    - [s. 65 Restriction of proceedings](section/65.md)
+    - [s. 66 Claim of unlawful action](section/66.md)
+    - [s. 67 Immigration...](section/67.md)
+    - [s. 68 Remedies](section/68.md)
+    - [s. 69 Timing](section/69.md)
+    - [s. 70 Information](section/70.md)
+    - [s. 71 National security](section/71.md)
+    - [s. 72 Validity and revision of contracts](section/72.md)
+  - General
+    - [s. 73 Aiding unlawful acts](section/73.md)
+    - [s. 74 Employers’ and principals’ liability](section/74.md)
+    - [s. 75 Police, &c.](section/75.md)
+    - [s. 76 Indirect provision of benefit, &c.](section/76.md)
+    - [s. 77 Employment Equality Regulations](section/77.md)
+    - [s. 78 Crown application](section/78.md)
+    - [s. 79 Interpretation](section/79.md)
+    - [s. 80 Territorial application](section/80.md)
+- Part 3 Discrimination on grounds of sexual orientation
+  - [s. 81 Regulations](section/81.md)
+  - [s. 82 Regulations for Northern Ireland](section/82.md)
+- Part 4 Public Functions
+  - Sex discrimination
+    - [s. 83 Prohibition of discrimination](section/83.md)
+    - [s. 84 General duty to promote equality, &c.](section/84.md)
+    - [s. 85 Specific duties](section/85.md)
+    - [s. 86 Codes of practice](section/86.md)
+    - [s. 87 National security](section/87.md)
+  - Disability discrimination
+    - [s. 88 General duty: exceptions](section/88.md)
+    - [s. 89 National security](section/89.md)
+  - Race discrimination
+    - [s. 90 National security](section/90.md)
+- Part 5 General
+  - [s. 91 Repeals](section/91.md)
+  - [s. 92 Crown application](section/92.md)
+  - [s. 93 Commencement](section/93.md)
+  - [s. 94 Extent](section/94.md)
+  - [s. 95 Short title](section/95.md)
+- SCHEDULE 1 The Commission: Constitution, &c.
+  - Part 1 Constitution
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Tenure
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Chairman
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part 2 Proceedings
+    - Procedure
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Staff
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Investigating Commissioners
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Delegation
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Committees
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Scotland Committee
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Wales Committee
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Annual report
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Savings
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Part 3 Money
+    - Remuneration, &c.
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Secretary of State
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - Charging
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Accounts
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - Financial year
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - Part 4 Status, &c.
+    - Status
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - Supervision
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Disqualifications
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - Records
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - Freedom of information
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+  - Part 5 Disability Committee
+    - Establishment
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - Membership
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - Functions
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - Resources
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - Report
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - 5-year review
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+- SCHEDULE 2 Inquiries, Investigations and Assessments
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Terms of reference
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Representations
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Evidence
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Reports
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Recommendations
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Effect of report
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Courts and tribunals
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Intelligence services
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Amendments Consequential on Part 1
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+  - Employment Act 1989 (c. 38)
+    - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+  - Disability Discrimination Act 1995 (c. 50)
+    - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+    - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+    - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+    - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+    - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+    - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+    - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+    - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+    - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+    - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+    - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+    - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+    - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+  - Employment Tribunals Act 1996 (c. 17)
+    - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+  - Asylum and Immigration Act 1996 (c. 49)
+    - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+  - Disability Rights Commission Act 1999 (c. 17)
+    - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+  - Freedom of Information Act 2000 (c. 36)
+    - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+  - Housing (Scotland) Act 2001 (asp 10)
+    - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+  - Housing (Scotland) Act 2006 (asp 01)
+    - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+- SCHEDULE 4 Repeals
