@@ -1,0 +1,255 @@
+# Transport Act 1962
+
+1962 c. 46. Enacted 1962-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/2024-10-30
+
+## Contents
+
+- Part I The Boards and the Holding Company
+  - Preliminary
+    - [s. 1 The four Boards.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+  - The Railways Board
+    - [s. 3 Duty and powers of Railways Board.](section/3.md)
+    - [s. 4 Railways Board’s road services.](section/4.md)
+    - [s. 4A Railways Board’s road passenger transport services.](section/4A.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - The Docks Board
+    - [s. 9 ................................](section/9.md)
+  - The British Waterways Board
+    - [s. 10 Duty and powers of British Waterways Board.](section/10.md)
+  - Provisions concerning all the Boards
+    - [s. 11 Development of land.](section/11.md)
+    - [s. 12 Pipe-lines.](section/12.md)
+    - [s. 13 The Boards’ powers of manufacture and production.](section/13.md)
+    - [s. 14 Supplemental provisions relating to the Boards’ powers.](section/14.md)
+    - [s. 15 Compulsory purchase of land.](section/15.md)
+    - [s. 15A Compulsory purchase of land: British Waterways Board ...](section/15A.md)
+    - [s. 16 Working agreements involving the delegation of special statutory powers.](section/16.md)
+    - [s. 17 Power to promote and oppose Bills.](section/17.md)
+  - Financial provisions
+    - [s. 18 Financial duty of Boards.](section/18.md)
+    - [s. 19 Borrowing powers of Boards.](section/19.md)
+    - [s. 20 Exchequer loans.](section/20.md)
+    - [s. 21 Treasury guarantees.](section/21.md)
+    - [Pt. I heading financial-provisions s. 21An1 British Waterways Board: guarantees by the Scottish Ministers](part/I/crossheading/financial-provisions/section/21An1.md)
+    - [Pt. I heading financial-provisions s. 21An2 Grants to the Railways Board.](part/I/crossheading/financial-provisions/section/21An2.md)
+    - [s. 22 Special provisions for Railways Board.](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 Accounts.](section/24.md)
+  - Supplemental provisions relating to the Boards
+    - [s. 25 The Boards’ subsidiaries.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 Powers of Minister in relation to Boards.](section/27.md)
+    - [s. 28 Powers exercisable subject to Minister’s consent.](section/28.md)
+    - [s. 29 ................................](section/29.md)
+  - Status of the Boards and the Holding Company
+    - [s. 30 Status of Boards and the Holding Company.](section/30.md)
+- Part II Division of Commission’s Undertaking
+  - Property and functions
+    - [s. 31 Distribution of Commission’s assets.](section/31.md)
+    - [s. 32 Distribution of Commission’s statutory functions.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Transfer of staff.](section/34.md)
+    - [s. 35 Supplementary provisions relating to distribution of Commission’s undertaking.](section/35.md)
+  - Capital debts and other financial provisions
+    - [s. 36 Treasury to take over liability for Transport Stock.](section/36.md)
+    - [s. 37 Transfer of redemption funds.](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 Commencing capital debts of the new bodies.](section/39.md)
+    - [s. 40 ................................](section/40.md)
+  - Miscellaneous
+    - [s. 41 Exemptions from stamp duty.](section/41.md)
+    - [s. 42 ................................](section/42.md)
+- Part III Transport Charges and Facilities
+  - General
+    - [s. 43 Charges and facilities: general provisions.](section/43.md)
+    - [s. 44 ................................](section/44.md)
+  - Charges and conditions at harbours
+    - [s. 50 †Port charges and conditions at harbours.](section/50.md)
+    - [s. 51 ................................](section/51.md)
+  - Miscellaneous
+    - [s. 52 Independent railway and inland waterway undertakings.](section/52.md)
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 Advance information about railway and shipping closures.](section/54.md)
+- Part IV Miscellaneous and General
+  - The Nationalised Transport Advisory Council, the Consultative Committees and the Transport Tribunal
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 The Passengers’ Council and London Transport Users’ Committee.](section/56.md)
+    - [s. 56A ................................](section/56A.md)
+    - [s. 57 The Transport Tribunal.](section/57.md)
+  - Provisions relating to the Boards
+    - [s. 58 ................................](section/58.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Amendment of enactments relating to inland waterways.](section/61.md)
+    - [s. 62 Local enactments relating to the supply of water for canals.](section/62.md)
+    - [s. 63 Abstraction of water by British Waterways Board.](section/63.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 The railway savings banks.](section/65.md)
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 Byelaws for railways and railway shipping services.](section/67.md)
+    - [s. 68 Custody of lost property on London Board’s transport system.](section/68.md)
+    - [s. 69 ................................](section/69.md)
+    - [s. 70 Transport police constables.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 General provisions as to terms and conditions of employment of staff.](section/72.md)
+    - [s. 73 The powers of the Boards and the Holding Company as regards pensions and pension schemes.](section/73.md)
+    - [s. 74 Minister’s power to make orders about pensions.](section/74.md)
+    - [s. 75 Transitional provisions relating to pensions.](section/75.md)
+  - Transitory provisions concerning the Commission
+    - [s. 76 ................................](section/76.md)
+    - [s. 79 Power to make special payments on the termination of the appointment of members of the Commission or Executive.](section/79.md)
+    - [s. 80 ................................](section/80.md)
+  - Compensation to officers and servants of the Commission
+    - [s. 81 Compensation to officers and servants of the Commission.](section/81.md)
+  - Miscellaneous provisions
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 Abandonment of independent railways.](section/83.md)
+    - [s. 84 Minor amendments relating to railways.](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 Application of Town and Country Planning Acts.](section/86.md)
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 ................................](section/88.md)
+  - Supplemental
+    - [s. 89 Duty to give effect to Minister’s directions.](section/89.md)
+    - [s. 90 Inquiries.](section/90.md)
+    - [s. 91 Repeal of local enactments.](section/91.md)
+    - [s. 92 Interpretation.](section/92.md)
+    - [s. 93 Application to Northern Ireland.](section/93.md)
+    - [s. 94 Minister’s expenses.](section/94.md)
+    - [s. 95 Repeal and savings.](section/95.md)
+    - [s. 96 Short title and commencement.](section/96.md)
+- FIRST SCHEDULE The Boards... and The Holding Company
+  - Part I The Four Boards
+    - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+    - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+    - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+    - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+    - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+    - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+    - [Sch. FIRST para. 7](schedule/FIRST/paragraph/7.md)
+    - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+  - Part II ...
+  - Part III ...
+- SECOND SCHEDULE Transfer of Commission’s Statutory Functions
+  - Part I Public Acts
+    - The Railway Fires Act, 1905
+    - 5 Edw. 7. c. 11
+    - The London Passenger Transport Act, 1933
+    - The Coast Protection Act, 1949
+    - 12, 13 & 14 Geo. 6. c. 74
+      - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+      - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+    - The Transport Charges &c. (Miscellaneous Provisions) Act, 1954
+    - 2 & 3 Eliz. 2. c. 64
+    - The Food and Drugs Act, 1955
+    - The Food and Drugs (Scotland) Act, 1956
+    - 4 & 5 Eliz. 2. c. 30
+  - Part II
+    - The Railway Air Transport Act of 1929
+      - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+  - Part III Other Functions under Local Enactments
+    - The London Passenger Transport Acts of 1934 to 1947
+    - The British Transport Commission Act 1949
+    - 12 & 13 Geo. 6. c. xxix
+    - The British Transport Commission Order Confirmation Act 1953
+    - 1 & 2 Eliz. 2. c. xx
+    - The British Transport Commission Act 1953
+    - 1 & 2 Eliz. 2. c. xlii
+    - The British Transport Commission Act 1954
+    - 2 & 3 Eliz. 2. c. lv
+    - The British Transport Commission Act 1957
+    - 5 & 6 Eliz. 2. c. xxxiii
+    - The British Transport Commission Act 1958
+    - 6 & 7 Eliz. 2. c. xliv
+    - The British Transport Commission Order Confirmation Act 1959
+    - 7 & 8 Eliz. 2. c. xxxvi
+    - The British Transport Commission Act 1959
+    - 7 & 8 Eliz. 2. c. xliv
+    - The British Transport Commission Act 1961
+    - 9 & 10 Eliz. 2. c. xxxvi
+  - Part IV The Railways Clauses Acts
+- THIRD–FIFTH SCHEDULES
+- SIXTH SCHEDULE Distribution of Commission’s Undertaking
+  - Distribution of property among the Boards
+    - [Sch. SIXTH para. 1](schedule/SIXTH/paragraph/1.md)
+  - Construction of Agreements, Statutory Provisions and Documents
+    - [Sch. SIXTH para. 2](schedule/SIXTH/paragraph/2.md)
+  - Third parties affected by vesting provisions
+    - [Sch. SIXTH para. 3](schedule/SIXTH/paragraph/3.md)
+  - Minister’s power to alter distribution of property and functions
+    - [Sch. SIXTH para. 4](schedule/SIXTH/paragraph/4.md)
+  - Special provisions relating to transferred heritage in Scotland
+    - [Sch. SIXTH para. 5](schedule/SIXTH/paragraph/5.md)
+  - Transitory protection for Boards affected by works carried out by another Board
+    - [Sch. SIXTH para. 6](schedule/SIXTH/paragraph/6.md)
+- SEVENTH SCHEDULE Transitional Provisions
+  - Part I Transport Stock
+    - [Sch. SEVENTH para. 1](schedule/SEVENTH/paragraph/1.md)
+    - [Sch. SEVENTH para. 2](schedule/SEVENTH/paragraph/2.md)
+    - [Sch. SEVENTH para. 3](schedule/SEVENTH/paragraph/3.md)
+  - Part II
+    - [Sch. SEVENTH para. 5](schedule/SEVENTH/paragraph/5.md)
+  - Part III Consultative Committees
+    - Areas and members of existing Consultative Committees
+      - [Sch. SEVENTH para. 8](schedule/SEVENTH/paragraph/8.md)
+      - [Sch. SEVENTH para. 9](schedule/SEVENTH/paragraph/9.md)
+    - Directions
+      - [Sch. SEVENTH para. 11](schedule/SEVENTH/paragraph/11.md)
+  - Part IV Pensions
+    - Employees’ rights to continue to participate in pension schemes after transfer
+      - [Sch. SEVENTH para. 12](schedule/SEVENTH/paragraph/12.md)
+      - [Sch. SEVENTH para. 13](schedule/SEVENTH/paragraph/13.md)
+    - Provisions to be included in orders about pensions
+      - [Sch. SEVENTH para. 14](schedule/SEVENTH/paragraph/14.md)
+    - Existing pensions payable by Commission as of grace
+      - [Sch. SEVENTH para. 15](schedule/SEVENTH/paragraph/15.md)
+      - [Sch. SEVENTH para. 16](schedule/SEVENTH/paragraph/16.md)
+    - Continuation of existing pension regulations, etc.
+      - [Sch. SEVENTH para. 17](schedule/SEVENTH/paragraph/17.md)
+  - Part V
+    - [Sch. SEVENTH para. 18](schedule/SEVENTH/paragraph/18.md)
+    - Pensions and other payments to members of the Commission
+      - [Sch. SEVENTH para. 23](schedule/SEVENTH/paragraph/23.md)
+      - [Sch. SEVENTH para. 24](schedule/SEVENTH/paragraph/24.md)
+- EIGHTH SCHEDULE Transport Charges and Facilities Enactments Ceasing to have effect
+  - The Railways Clauses Consolidation Act 1845 (8 & 9 Vict. c. 20)
+  - The Railways Clauses Consolidation (Scotland) Act 1845 (8 & 9 Vict. c. 33)
+  - The Railway and Canal Traffic Act 1854 17 & 18 Vict. c. 31)
+  - The Railways Act 1921 (11 & 12 Geo. 5. c. 55)
+  - The London Passenger Transport Act 1933 (23 & 24 Geo. 5. c. 14)
+  - The Road and Rail Traffic Act 1933 (23 & 24 Geo. 5. c. 53)
+  - The Transport Act 1953 (1 & 2 Eliz. 2. c. 13)
+- NINTH SCHEDULE Port Charges
+  - Ship, passenger and merchandise dues
+    - [Sch. NINTH para. 1](schedule/NINTH/paragraph/1.md)
+    - [Sch. NINTH para. 2](schedule/NINTH/paragraph/2.md)
+    - [Sch. NINTH para. 3](schedule/NINTH/paragraph/3.md)
+    - [Sch. NINTH para. 4](schedule/NINTH/paragraph/4.md)
+  - Other port charges
+    - [Sch. NINTH para. 5](schedule/NINTH/paragraph/5.md)
+  - General
+    - [Sch. NINTH para. 6](schedule/NINTH/paragraph/6.md)
+- TENTH SCHEDULE ...
+- ELEVENTH SCHEDULE Application to Northern Ireland
+  - Part I Provisions extending to Northern Ireland
+  - Part II Modifications
+    - [Sch. ELEVENTH para. 1](schedule/ELEVENTH/paragraph/1.md)
+    - [Sch. ELEVENTH para. 2](schedule/ELEVENTH/paragraph/2.md)
+    - [Sch. ELEVENTH para. 3](schedule/ELEVENTH/paragraph/3.md)
+    - [Sch. ELEVENTH para. 4](schedule/ELEVENTH/paragraph/4.md)
+    - [Sch. ELEVENTH para. 5](schedule/ELEVENTH/paragraph/5.md)
+    - [Sch. ELEVENTH para. 6](schedule/ELEVENTH/paragraph/6.md)
+    - [Sch. ELEVENTH para. 7](schedule/ELEVENTH/paragraph/7.md)
+    - [Sch. ELEVENTH para. 8](schedule/ELEVENTH/paragraph/8.md)
+    - [Sch. ELEVENTH para. 9](schedule/ELEVENTH/paragraph/9.md)
+    - [Sch. ELEVENTH para. 10](schedule/ELEVENTH/paragraph/10.md)
+    - [Sch. ELEVENTH para. 11](schedule/ELEVENTH/paragraph/11.md)
+- TWELFTH SCHEDULE
+  - Part I ...
+  - Part II ...
