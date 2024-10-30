@@ -1,0 +1,522 @@
+# High Speed Rail (West Midlands - Crewe) Act 2021
+
+2021 c. 2. Enacted 2021-02-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/2/2024-10-30
+
+## Contents
+
+- Works
+  - [s. 1 Power to construct and maintain works for Phase 2a of High Speed 2](section/1.md)
+  - [s. 2 Further provision about works](section/2.md)
+  - [s. 3 Highways](section/3.md)
+- Compulsory acquisition of land
+  - [s. 4 Power to acquire land compulsorily](section/4.md)
+  - [s. 5 Acquisition of rights and imposition of restrictive covenants](section/5.md)
+  - [s. 6 Acquisition of airspace](section/6.md)
+  - [s. 7 Acquisition of subsoil or under-surface](section/7.md)
+  - [s. 8 Highway subsoil](section/8.md)
+  - [s. 9 Termination of power to acquire land](section/9.md)
+- Extinction and exclusion of rights over land
+  - [s. 10 Extinction of rights over land](section/10.md)
+  - [s. 11 Extinction of rights of statutory undertakers](section/11.md)
+  - [s. 12 Exclusion of new rights of way](section/12.md)
+- Temporary possession and use of land
+  - [s. 13 Temporary possession and use of land](section/13.md)
+  - [s. 14 Use of roads](section/14.md)
+  - [s. 15 Enforcement of restrictions on land use](section/15.md)
+  - [s. 16 Compensation for injurious affection](section/16.md)
+- Planning
+  - [s. 17 Deemed planning permission](section/17.md)
+  - [s. 18 Time limit on deemed planning permission](section/18.md)
+  - [s. 19 Power to disapply deemed planning permission](section/19.md)
+  - [s. 20 Development consent](section/20.md)
+- Deregulation
+  - [s. 21 Listed buildings and ancient monuments](section/21.md)
+  - [s. 22 Burial grounds](section/22.md)
+  - [s. 23 Consecrated land](section/23.md)
+  - [s. 24 Commons and open spaces](section/24.md)
+  - [s. 25 Trees](section/25.md)
+  - [s. 26 Overhead lines](section/26.md)
+  - [s. 27 Water](section/27.md)
+  - [s. 28 Buildings](section/28.md)
+  - [s. 29 Street works](section/29.md)
+  - [s. 30 Lorries](section/30.md)
+  - [s. 31 Noise](section/31.md)
+  - [s. 32 Local Acts](section/32.md)
+  - [s. 33 Community Infrastructure Levy](section/33.md)
+- Railway matters
+  - [s. 34 Objectives of Office of Rail and Road](section/34.md)
+  - [s. 35 Disapplication of licensing requirement in pre-operational phase](section/35.md)
+  - [s. 36 Disapplication of statutory closure provisions](section/36.md)
+  - [s. 37 Other railway legislation etc](section/37.md)
+  - [s. 38 Co-operation](section/38.md)
+  - [s. 39 Transfer of functions relating to works](section/39.md)
+- Traffic
+  - [s. 40 Traffic](section/40.md)
+- Nominated undertaker
+  - [s. 41 Nominated undertaker](section/41.md)
+- Statutory undertakers etc
+  - [s. 42 Extension of planning permission for statutory undertakers](section/42.md)
+  - [s. 43 Protective provisions](section/43.md)
+  - [s. 44 Existing agreements](section/44.md)
+- Reinstatement and environmental works
+  - [s. 45 Compulsory acquisition of land for relocation of an undertaking](section/45.md)
+  - [s. 46 Power to carry out reinstatement works](section/46.md)
+  - [s. 47 Planning permission: works involving reinstatement of undertaking](section/47.md)
+  - [s. 48 Enforcement of environmental covenants](section/48.md)
+- Further high speed rail works
+  - [s. 49 Power to apply Act to further high speed rail works](section/49.md)
+- The Crown
+  - [s. 50 Application of powers to Crown land](section/50.md)
+  - [s. 51 Highways for which Secretary of State is highway authority](section/51.md)
+  - [s. 52 Crown Estate](section/52.md)
+- Deposited plans and sections
+  - [s. 53 “Deposited plans” and “deposited sections”](section/53.md)
+  - [s. 54 Correction of deposited plans](section/54.md)
+- Miscellaneous and general
+  - [s. 55 Environmental Impact Assessment Regulations: miscellaneous](section/55.md)
+  - [s. 56 Arbitration](section/56.md)
+  - [s. 57 Notices and other documents](section/57.md)
+  - [s. 58 Resumption of previous use of land](section/58.md)
+  - [s. 59 Ancient woodland](section/59.md)
+  - [s. 60 Consultation with residents and stakeholders in relation to Phase 2a of High Speed 2 and associated works](section/60.md)
+- Interpretation
+  - [s. 61 “Phase 2a purposes”](section/61.md)
+  - [s. 62 Interpretation](section/62.md)
+- Final
+  - [s. 63 Financial provision](section/63.md)
+  - [s. 64 Commencement and short title](section/64.md)
+- SCHEDULE 1 Scheduled works
+  - Construction and maintenance of works
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Description of scheduled works
+- SCHEDULE 2 Works
+  - Authority to survey and investigate land etc
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Support of buildings and apparatus etc
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Trees on neighbouring land
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Exercise of powers of entry under paragraphs 2 to 7
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Noise mitigation for buildings
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Discharge of water
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Temporary interference with waterways
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Electronic communications apparatus
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Overhead line diversions
+- SCHEDULE 4 Highways
+  - PART 1 Highway access
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Interference with highways
+    - Stopping up
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Effect of stopping up of highway
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Creation of public rights of way over new footpaths, bridleways etc
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Deviation of new footpaths, bridleways etc
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Permanent obstruction
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Temporary interference
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Street works
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Working sites in highways
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - PART 3 Construction and maintenance of highways
+    - Construction and alteration
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Roads constructed as highways
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Maintenance
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Bridges carrying highways
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+- SCHEDULE 5 Highways: tables relevant to Part 2 of Schedule 4
+- SCHEDULE 6 Acquisition of land for particular purposes
+- SCHEDULE 7 Acquisition of land: application of compulsory purchase legislation
+  - Land Clauses Consolidation Act 1845 (c. 18)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Compulsory Purchase Act 1965 (c. 56)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Land where powers of acquisition are limited to acquisition of rights or imposition of restrictive covenants
+- SCHEDULE 9 Acquisition of rights in land etc: application of compulsory purchase legislation
+  - Compulsory Purchase Act 1965 and compensation enactments
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Compulsory Purchase (Vesting Declarations) Act 1981 and compensation enactments
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Schedule 9 to High Speed Rail (London - West Midlands) Act 2017
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Acquisition of rights in land: substituted Schedule 2A for Compulsory Purchase Act 1965
+- SCHEDULE 11 Land where powers of acquisition are limited to sub-surface acquisition
+  - Restriction of power of compulsory acquisition to land under the surface
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Supplementary
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+- SCHEDULE 12 Highways: restrictions on powers to use subsoil and acquire land
+- SCHEDULE 13 Right to require acquisition where time limit extended
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+- SCHEDULE 14 Extinction of rights over land
+  - Land to which Schedule applies
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Private rights
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - General rights
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Meaning of “the appropriate time”
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Amendments to registers of common land or town or village greens
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Interpretation
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+- SCHEDULE 15 Temporary possession and use of land
+  - PART 1 Temporary possession for construction of works
+    - Right to enter on and take possession of land
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Exceptions
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Powers exercisable on land of which temporary possession has been taken
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Procedure and compensation
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - PART 2 Temporary possession for maintenance of works
+    - Right to enter on and take possession of land
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Procedure and compensation
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - PART 3 Suspension of rights and enforcement
+    - Suspension of rights relating to land
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - Enforcement
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+- SCHEDULE 16 Temporary possession and use of land: table of land
+- SCHEDULE 17 Conditions of deemed planning permission
+  - PART 1 Conditions
+    - Introductory
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Condition relating to building works
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Condition relating to other construction works
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Condition relating to matters ancillary to development
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Condition relating to road transport
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Conditions relating to waste and spoil disposal and excavation
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Conditions on bringing scheduled works and depots into use
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Condition relating to discontinuation of ancillary operations
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Condition relating to site restoration
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - PART 2 Qualifying authorities
+    - Specification of qualifying authorities
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Transition
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+  - PART 3 Approvals: supplementary
+    - Requests for planning approval
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Fees for requests for approval
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - Consultation on requests for approval
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - Directions restricting powers of approval
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - Compulsory reference of requests for approval
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - Non-material changes to approvals
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - Termination of approval relating to road transportation arrangements
+      - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+    - Appeals
+      - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+      - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+      - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+      - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+    - Guidance by Secretary of State
+      - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+  - PART 4 Supplementary and general
+    - Regulations
+      - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - Interpretation
+      - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+- SCHEDULE 18 Listed buildings
+  - Buildings authorised to be demolished, altered or extended
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Buildings in respect of which noise mitigation works are authorised
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Damage to buildings
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Power to disapply provision made by paragraphs 1 to 3
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Heritage partnership agreements
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Inspection and observation of works
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Recording of buildings
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Interpretation
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Tables
+- SCHEDULE 19 Ancient monuments
+  - Disapplication of controls
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Power to disapply provision made by paragraphs 1 and 2
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - Inspection and observation of works etc
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - Interpretation
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+- SCHEDULE 20 Burial grounds
+  - Notice of removal of remains or monument
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Removal of remains under licence
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Removal of remains by nominated undertaker
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Removal of monuments
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Records
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Discharge of functions by nominated undertaker
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+  - Relatives and personal representatives
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+- SCHEDULE 21 Water
+  - Water abstraction and impounding
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - No environmental permit required for operating regulated facility etc
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Floods
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Drainage
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Eels
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Interpretation
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+- SCHEDULE 22 Buildings
+  - Building regulations
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Drain repairs
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Drain disconnections
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Raising of chimneys
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Construction of cellars and rooms below subsoil water level
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Demolition of whole or part of building
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Interpretation
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+- SCHEDULE 23 Party walls etc
+  - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+- SCHEDULE 24 Street works
+  - Works in or near highways
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - Street works
+    - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+  - Permit schemes
+    - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+- SCHEDULE 25 Lorries
+  - Lorry ban orders
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - Required provision in lorry ban orders
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+  - Issue of emergency permits
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+  - Grant of applications for permit
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - Supplementary interpretation
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+- SCHEDULE 26 Noise
+  - Control of noise on construction sites
+    - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+  - Defences to proceedings relating to statutory nuisance
+    - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+    - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+    - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+- SCHEDULE 27 Local Acts
+  - Cheshire County Council Act 1968 (c. xxxvi)
+    - [Sch. 27 para. 1](schedule/27/paragraph/1.md)
+  - Cheshire County Council Act 1980 (c. xiii)
+    - [Sch. 27 para. 2](schedule/27/paragraph/2.md)
+  - Staffordshire Act 1983 (c. xviii)
+    - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+- SCHEDULE 28 Application of other railway legislation etc
+  - Highway (Railway Crossings) Act 1839 (c. 45)
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+  - Railway Regulation Act 1840 (c. 97)
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+  - Railway Regulation Act 1842 (c. 55)
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+  - Railways Clauses Consolidation Act 1845 (c. 20)
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+  - Regulation of Railways Act 1889 (c. 57)
+    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+  - British Transport Commission Act 1949 (c xxix)
+    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+- SCHEDULE 29 Arbitration between railway operators
+  - Directions as to results to be achieved
+    - [Sch. 29 para. 1](schedule/29/paragraph/1.md)
+  - Directions as to consolidation and grouping of proceedings
+    - [Sch. 29 para. 2](schedule/29/paragraph/2.md)
+- SCHEDULE 30 Traffic regulation
+  - Traffic authority to consult Secretary of State before making traffic regulation order
+    - [Sch. 30 para. 1](schedule/30/paragraph/1.md)
+    - [Sch. 30 para. 2](schedule/30/paragraph/2.md)
+    - [Sch. 30 para. 3](schedule/30/paragraph/3.md)
+  - Power of Secretary of State to direct traffic authority to make traffic regulation order
+    - [Sch. 30 para. 4](schedule/30/paragraph/4.md)
+    - [Sch. 30 para. 5](schedule/30/paragraph/5.md)
+    - [Sch. 30 para. 6](schedule/30/paragraph/6.md)
+  - Further powers of Secretary of State (including in relation to variation or revocation of orders)
+    - [Sch. 30 para. 7](schedule/30/paragraph/7.md)
+    - [Sch. 30 para. 8](schedule/30/paragraph/8.md)
+    - [Sch. 30 para. 9](schedule/30/paragraph/9.md)
+    - [Sch. 30 para. 10](schedule/30/paragraph/10.md)
+  - Power to restrict traffic authority from making or implementing traffic regulation order
+    - [Sch. 30 para. 11](schedule/30/paragraph/11.md)
+  - Consultation requirements applicable to Secretary of State
+    - [Sch. 30 para. 12](schedule/30/paragraph/12.md)
+  - Guidance
+    - [Sch. 30 para. 13](schedule/30/paragraph/13.md)
+  - Removal of vehicles
+    - [Sch. 30 para. 14](schedule/30/paragraph/14.md)
+  - Interpretation
+    - [Sch. 30 para. 15](schedule/30/paragraph/15.md)
+- SCHEDULE 31 Extension of planning permission for statutory undertakers
+  - Case where planning permission extended
+    - [Sch. 31 para. 1](schedule/31/paragraph/1.md)
+  - Condition of extended planning permission
+    - [Sch. 31 para. 2](schedule/31/paragraph/2.md)
+  - Controls on proposed development
+    - [Sch. 31 para. 3](schedule/31/paragraph/3.md)
+    - [Sch. 31 para. 4](schedule/31/paragraph/4.md)
+  - Notices
+    - [Sch. 31 para. 5](schedule/31/paragraph/5.md)
+- SCHEDULE 32 Protective provisions
+  - PART 1 Highways and traffic
+    - [Sch. 32 para. 1](schedule/32/paragraph/1.md)
+    - [Sch. 32 para. 2](schedule/32/paragraph/2.md)
+    - [Sch. 32 para. 3](schedule/32/paragraph/3.md)
+    - [Sch. 32 para. 4](schedule/32/paragraph/4.md)
+    - [Sch. 32 para. 5](schedule/32/paragraph/5.md)
+    - [Sch. 32 para. 6](schedule/32/paragraph/6.md)
+    - [Sch. 32 para. 7](schedule/32/paragraph/7.md)
+    - [Sch. 32 para. 8](schedule/32/paragraph/8.md)
+    - [Sch. 32 para. 9](schedule/32/paragraph/9.md)
+    - [Sch. 32 para. 10](schedule/32/paragraph/10.md)
+    - [Sch. 32 para. 11](schedule/32/paragraph/11.md)
+    - [Sch. 32 para. 12](schedule/32/paragraph/12.md)
+    - [Sch. 32 para. 13](schedule/32/paragraph/13.md)
+    - [Sch. 32 para. 14](schedule/32/paragraph/14.md)
+    - [Sch. 32 para. 15](schedule/32/paragraph/15.md)
+    - [Sch. 32 para. 16](schedule/32/paragraph/16.md)
+    - [Sch. 32 para. 17](schedule/32/paragraph/17.md)
+  - PART 2 Electricity, gas, water and sewerage undertakers
+    - [Sch. 32 para. 18](schedule/32/paragraph/18.md)
+    - [Sch. 32 para. 19](schedule/32/paragraph/19.md)
+    - [Sch. 32 para. 20](schedule/32/paragraph/20.md)
+    - [Sch. 32 para. 21](schedule/32/paragraph/21.md)
+    - [Sch. 32 para. 22](schedule/32/paragraph/22.md)
+    - [Sch. 32 para. 23](schedule/32/paragraph/23.md)
+    - [Sch. 32 para. 24](schedule/32/paragraph/24.md)
+    - [Sch. 32 para. 25](schedule/32/paragraph/25.md)
+    - [Sch. 32 para. 26](schedule/32/paragraph/26.md)
+    - [Sch. 32 para. 27](schedule/32/paragraph/27.md)
+    - [Sch. 32 para. 28](schedule/32/paragraph/28.md)
+    - [Sch. 32 para. 29](schedule/32/paragraph/29.md)
+    - [Sch. 32 para. 30](schedule/32/paragraph/30.md)
+    - [Sch. 32 para. 31](schedule/32/paragraph/31.md)
+  - PART 3 Electronic communications code networks
+    - [Sch. 32 para. 32](schedule/32/paragraph/32.md)
+    - [Sch. 32 para. 33](schedule/32/paragraph/33.md)
+    - [Sch. 32 para. 34](schedule/32/paragraph/34.md)
+    - [Sch. 32 para. 35](schedule/32/paragraph/35.md)
+    - [Sch. 32 para. 36](schedule/32/paragraph/36.md)
+    - [Sch. 32 para. 37](schedule/32/paragraph/37.md)
+    - [Sch. 32 para. 38](schedule/32/paragraph/38.md)
+    - [Sch. 32 para. 39](schedule/32/paragraph/39.md)
+  - PART 4 Land drainage, flood defence, water resources and fisheries
+    - [Sch. 32 para. 40](schedule/32/paragraph/40.md)
+    - [Sch. 32 para. 41](schedule/32/paragraph/41.md)
+    - [Sch. 32 para. 42](schedule/32/paragraph/42.md)
+    - [Sch. 32 para. 43](schedule/32/paragraph/43.md)
+    - [Sch. 32 para. 44](schedule/32/paragraph/44.md)
+    - [Sch. 32 para. 45](schedule/32/paragraph/45.md)
+    - [Sch. 32 para. 46](schedule/32/paragraph/46.md)
+    - [Sch. 32 para. 47](schedule/32/paragraph/47.md)
+    - [Sch. 32 para. 48](schedule/32/paragraph/48.md)
+    - [Sch. 32 para. 49](schedule/32/paragraph/49.md)
+    - [Sch. 32 para. 50](schedule/32/paragraph/50.md)
+    - [Sch. 32 para. 51](schedule/32/paragraph/51.md)
+  - PART 5 Canal & River Trust
+    - [Sch. 32 para. 52](schedule/32/paragraph/52.md)
+    - [Sch. 32 para. 53](schedule/32/paragraph/53.md)
+    - [Sch. 32 para. 54](schedule/32/paragraph/54.md)
+    - [Sch. 32 para. 55](schedule/32/paragraph/55.md)
+    - [Sch. 32 para. 56](schedule/32/paragraph/56.md)
+    - [Sch. 32 para. 57](schedule/32/paragraph/57.md)
+    - [Sch. 32 para. 58](schedule/32/paragraph/58.md)
+    - [Sch. 32 para. 59](schedule/32/paragraph/59.md)
+    - [Sch. 32 para. 60](schedule/32/paragraph/60.md)
+    - [Sch. 32 para. 61](schedule/32/paragraph/61.md)
+    - [Sch. 32 para. 62](schedule/32/paragraph/62.md)
