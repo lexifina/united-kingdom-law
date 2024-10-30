@@ -2,9 +2,11 @@
 
 2017 c. 7. Enacted 2017-02-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-05-03, one file per provision. Earlier versions, from 2017-02-23, are in the history before it: `git log -- ukpga/2017/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-30, one file per provision. Earlier versions, from 2017-02-23, are in the history before it: `git log -- ukpga/2017/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/7/2023-05-03
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/7
+
+Source: https://www.legislation.gov.uk/ukpga/2017/7/2024-10-30
 
 ## Contents
 
