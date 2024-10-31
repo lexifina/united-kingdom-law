@@ -2,9 +2,9 @@
 
 2022 c. 30. Enacted 2022-04-28.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-07-24, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-10-31, one file per provision. Earlier versions, from 2022-04-28, are in the history before it: `git log -- ukpga/2022/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-07-24
+Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-10-31
 
 ## Contents
 
@@ -159,7 +159,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/30/2024-07-24
     - [s. 118 Section 117: height of buildings and number of storeys](section/118.md)
     - [s. 119 Meaning of “qualifying lease” and “the qualifying time”](section/119.md)
     - [s. 119A Meaning of “connected replacement lease”](section/119A.md)
-    - [s. 120 Meaning of “relevant defect”](section/120.md)
+    - [s. 120 Meaning of “relevant defect” and “relevant steps”](section/120.md)
     - [s. 121 Associated persons](section/121.md)
     - [s. 122 Remediation costs under qualifying leases etc](section/122.md)
     - [s. 123 Remediation orders](section/123.md)
