@@ -1,0 +1,304 @@
+# Childcare Act 2006
+
+2006 c. 21. Enacted 2006-07-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/21
+
+Source: https://www.legislation.gov.uk/ukpga/2006/21/2024-11-01
+
+## Contents
+
+- Part 1 General functions of local authority: England
+  - Improvement of young children’s well-being
+    - [s. 1 General duties of local authority in relation to well-being of young children](section/1.md)
+    - [s. 2 Meaning of “early childhood services” for purposes of section 3](section/2.md)
+    - [s. 3 Specific duties of local authority in relation to early childhood services](section/3.md)
+    - [s. 4 Duty of local authority and relevant partners to work together](section/4.md)
+    - [s. 5 Power to amend sections 2 and 4](section/5.md)
+  - Children’s centres
+    - [s. 5A Arrangements for provision of children’s centres](section/5A.md)
+    - [s. 5B Children’s centres: staffing, organisation and operation](section/5B.md)
+    - [s. 5C Children’s centres: advisory boards](section/5C.md)
+    - [s. 5D Children’s centres: consultation](section/5D.md)
+    - [s. 5E Duty to consider providing services through a children’s centre](section/5E.md)
+    - [s. 5F Children’s centres: transitional provision](section/5F.md)
+    - [s. 5G Children’s centres: interpretation](section/5G.md)
+  - Provision of childcare
+    - [s. 6 Duty to secure sufficient childcare for working parents](section/6.md)
+    - [s. 7 Duty to secure early years provision free of charge in accordance with regulations](section/7.md)
+    - [s. 7A Discharge of duty under section 7](section/7A.md)
+    - [s. 8 Powers of local authority in relation to the provision of childcare](section/8.md)
+    - [s. 9 Arrangements between local authority and childcare providers](section/9.md)
+    - [s. 9A Arrangements made by local authorities for the purposes of section 7](section/9A.md)
+    - [s. 10 Charges where local authority provide childcare](section/10.md)
+    - [s. 11 Duty to assess childcare provision](section/11.md)
+  - Information, advice and assistance
+    - [s. 12 Duty to provide information, advice and assistance](section/12.md)
+    - [s. 13 Duty to provide information, advice and training to childcare providers](section/13.md)
+    - [s. 13A Supply of information: free of charge early years provision](section/13A.md)
+    - [s. 13B Unauthorised disclosure of information received under section 13A](section/13B.md)
+  - Miscellaneous
+    - [s. 14 Inspection](section/14.md)
+    - [s. 15 Powers of Secretary of State to secure proper performance etc.](section/15.md)
+    - [s. 16 Amendments of Children Act 2004](section/16.md)
+    - [s. 17 Charges for early years provision at maintained school](section/17.md)
+  - Interpretation
+    - [s. 18 Meaning of childcare](section/18.md)
+    - [s. 19 Meaning of “young child”](section/19.md)
+    - [s. 20 Meaning of “early years provision”](section/20.md)
+    - [s. 21 Interpretation of Part 1](section/21.md)
+- Part 2 General Functions of Local Authority: Wales
+  - Provision of childcare
+    - [s. 22 Duty to secure sufficient childcare for working parents](section/22.md)
+    - [s. 23 Powers of local authority in relation to the provision of childcare](section/23.md)
+    - [s. 24 Arrangements between local authority and childcare providers](section/24.md)
+    - [s. 25 Charges where local authority provide childcare](section/25.md)
+    - [s. 26 Power to require local authority to assess childcare provision](section/26.md)
+  - Information, advice and assistance
+    - [s. 27 Duty to provide information, advice and assistance](section/27.md)
+  - Miscellaneous
+    - [s. 28 Inspection](section/28.md)
+    - [s. 29 Powers of intervention of Welsh Ministers etc.](section/29.md)
+  - Interpretation
+    - [s. 30 Interpretation of Part 2](section/30.md)
+- Part 3 Regulation of Provision of Childcare in England
+  - Chapter 1 General functions of Chief Inspector
+    - [s. 31 General functions of the Chief Inspector](section/31.md)
+    - [s. 32 Maintenance of the two childcare registers](section/32.md)
+  - Chapter 2 Regulation of early years provision
+    - Requirements to register
+      - [s. 33 Requirement to register: early years childminders with domestic premises](section/33.md)
+      - [s. 34 Requirement to register: other early years providers](section/34.md)
+    - Process of registration
+      - [s. 35 Applications for registration: early years childminders with domestic premises](section/35.md)
+      - [s. 36 Applications for registration: other early years providers](section/36.md)
+      - [s. 37 Entry on the register and certificates](section/37.md)
+      - [s. 37A Early years childminder agencies: registers and certificates](section/37A.md)
+      - [s. 38 Conditions on registration](section/38.md)
+    - Requirements to be met by early years providers
+      - [s. 39 The Early Years Foundation Stage](section/39.md)
+      - [s. 40 Duty to implement Early Years Foundation Stage](section/40.md)
+      - [s. 41 The learning and development requirements](section/41.md)
+      - [s. 42 Further provisions about assessment arrangements](section/42.md)
+      - [s. 43 Welfare requirements](section/43.md)
+      - [s. 44 Instruments specifying learning and development or welfare requirements](section/44.md)
+      - [s. 45 Procedure for making certain orders](section/45.md)
+      - [s. 46 Power to enable exemptions to be conferred](section/46.md)
+      - [s. 47 Independent schools](section/47.md)
+      - [s. 48 Amendments relating to curriculum](section/48.md)
+    - Inspection
+      - [s. 49 Inspections](section/49.md)
+      - [s. 50 Report of inspections](section/50.md)
+    - Interpretation
+      - [s. 51 Interpretation of Chapter 2](section/51.md)
+  - CHAPTER 2A Regulation of early years childminder agencies
+    - Process of registration
+      - [s. 51A Applications for registration](section/51A.md)
+      - [s. 51B Entry on the register and certificates](section/51B.md)
+      - [s. 51C Conditions on registration](section/51C.md)
+    - Inspections
+      - [s. 51D Inspections of early years childminder agencies](section/51D.md)
+      - [s. 51E Reports of inspections](section/51E.md)
+    - False representations
+      - [s. 51F False representations](section/51F.md)
+  - Chapter 3 Regulation of later years provision for children under 8
+    - Requirements to register
+      - [s. 52 Requirement to register: later years childminders for children under eight with domestic premises](section/52.md)
+      - [s. 53 Requirement to register: other later years providers for children under eight](section/53.md)
+    - Process of registration
+      - [s. 54 Applications for registration: later years childminders with domestic premises](section/54.md)
+      - [s. 55 Applications for registration: other later years providers](section/55.md)
+      - [s. 56 Entry on the register and certificates](section/56.md)
+      - [s. 56A Later years childminder agencies: registers and certificates](section/56A.md)
+      - [s. 57 Special procedure for providers registered in the early years register](section/57.md)
+      - [s. 57A Special procedure for providers registered with early years childminder agencies](section/57A.md)
+    - Regulation
+      - [s. 58 Conditions on registration](section/58.md)
+      - [s. 59 Regulations governing activities](section/59.md)
+    - Inspection
+      - [s. 60 Inspections](section/60.md)
+      - [s. 61 Report of inspections](section/61.md)
+  - CHAPTER 3A Regulation of later years childminder agencies
+    - Process of registration
+      - [s. 61A Applications for registration](section/61A.md)
+      - [s. 61B Entry on the register and certificates](section/61B.md)
+      - [s. 61C Special procedure for registered early years childminder agencies](section/61C.md)
+      - [s. 61D Conditions on registration](section/61D.md)
+    - Inspections
+      - [s. 61E Inspections of later years childminder agencies](section/61E.md)
+      - [s. 61F Reports of inspections](section/61F.md)
+    - False representations
+      - [s. 61G False representations](section/61G.md)
+  - Chapter 4 Voluntary registration
+    - Process of voluntary registration
+      - [s. 62 Applications for registration on the general register: childminders with domestic premises](section/62.md)
+      - [s. 63 Applications for registration on the general register: other childcare providers](section/63.md)
+      - [s. 64 Entry on the register and certificates](section/64.md)
+      - [s. 65 Special procedure for persons already registered in a childcare register](section/65.md)
+    - Voluntary registration of persons registered with childminder agencies
+      - [s. 65A Procedure for persons already registered with a childminder agency](section/65A.md)
+    - Regulation of persons registering voluntarily
+      - [s. 66 Conditions on registration](section/66.md)
+      - [s. 67 Regulations governing activities](section/67.md)
+  - Chapter 5 Common provisions
+    - Cancellation of registration etc.
+      - [s. 68 Cancellation of registration in a childcare register: early years and later years providers](section/68.md)
+      - [s. 69 Suspension of registration in a childcare register: early years and later years providers](section/69.md)
+      - [s. 69A Cancellation, termination and suspension of registration with a childminder agency](section/69A.md)
+      - [s. 69B Cancellation of registration: childminder agencies](section/69B.md)
+      - [s. 69C Suspension of registration: childminder agencies](section/69C.md)
+      - [s. 70 Voluntary removal from a childcare register: early years and later years providers](section/70.md)
+      - [s. 70A Voluntary removal from a childcare register: childminder agencies](section/70A.md)
+      - [s. 71 Termination of voluntary registration in Part B of the general childcare register on expiry of prescribed period](section/71.md)
+    - Cancellation etc. in an emergency
+      - [s. 72 Protection of children in an emergency](section/72.md)
+    - Registration – procedural safeguards
+      - [s. 73 Procedure for taking certain steps](section/73.md)
+      - [s. 74 Appeals relating to registration in a childcare register](section/74.md)
+    - Disqualification from registration: early years and later years providers
+      - [s. 75 Disqualification from registration: early years and later years providers](section/75.md)
+      - [s. 76 Consequences of disqualification: early years and later years providers](section/76.md)
+    - Disqualification from registration: childminder agencies
+      - [s. 76A Disqualification from registration: childminder agencies](section/76A.md)
+      - [s. 76B Consequences of disqualification: childminder agencies](section/76B.md)
+    - Rights of entry
+      - [s. 77 Chief Inspector’s powers of entry: early years provision and later years provision](section/77.md)
+      - [s. 78 Powers of entry under section 77: requirement for consent](section/78.md)
+      - [s. 78A Chief Inspector’s powers of entry: childminder agencies](section/78A.md)
+      - [s. 78B Powers of entry under section 78A: requirement for consent](section/78B.md)
+      - [s. 79 Power of constable to assist in exercise of powers of entry](section/79.md)
+    - Reports and information
+      - [s. 80 Combined reports](section/80.md)
+      - [s. 81 Information to be included in annual reports](section/81.md)
+      - [s. 82 Supply of information to Chief Inspector](section/82.md)
+      - [s. 83 Supply of information to the Secretary of State, HMRC and local authorities by the Chief Inspector](section/83.md)
+      - [s. 83A Supply of information to the Secretary of State, HMRC and local authorities by childminder agencies](section/83A.md)
+      - [s. 84 Disclosure of information for certain purposes: the Chief Inspector](section/84.md)
+      - [s. 84A Disclosure of information for certain purposes: childminder agencies](section/84A.md)
+    - Offences and criminal proceedings
+      - [s. 85 Offence of making false or misleading statement](section/85.md)
+      - [s. 85A Offence of providing provision other than on approved premises](section/85A.md)
+      - [s. 86 Time limit for proceedings](section/86.md)
+      - [s. 87 Offences by bodies corporate and partnerships](section/87.md)
+      - [s. 88 Unincorporated associations](section/88.md)
+    - Miscellaneous
+      - [s. 89 Fees](section/89.md)
+      - [s. 90 Cases where consent to disclosure withheld](section/90.md)
+      - [s. 91 Co-operation between authorities](section/91.md)
+      - [s. 92 Combined certificates of registration](section/92.md)
+      - [s. 93 Notices](section/93.md)
+      - [s. 94 Power to amend Part 3: applications in respect of multiple premises](section/94.md)
+      - [s. 95 Certain institutions not to be regarded as schools](section/95.md)
+    - Interpretation
+      - [s. 96 Meaning of early years and later years provision etc.](section/96.md)
+      - [s. 97 Employees not to be regarded as providing childcare](section/97.md)
+      - [s. 98 Interpretation of Part 3](section/98.md)
+- Part 3A Inspection of children’s centres
+  - [s. 98A Inspections](section/98A.md)
+  - [s. 98B Reports](section/98B.md)
+  - [s. 98C Action to be taken by local authority on receiving report](section/98C.md)
+  - [s. 98D Inspections of children’s centres: powers of entry](section/98D.md)
+  - [s. 98E Obstruction of power of entry, etc.](section/98E.md)
+  - [s. 98F Power of constable to assist in exercise of power of entry](section/98F.md)
+  - [s. 98G Inspection of children’s centres: interpretation](section/98G.md)
+- Part 4 Miscellaneous and General
+  - Provision of information about children
+    - [s. 99 Provision of information about young children: England](section/99.md)
+    - [s. 100 Provision of information about young children: transitory provision](section/100.md)
+    - [s. 101 Provision of information about children: Wales](section/101.md)
+  - Disqualification for registration under Children Act 1989
+    - [s. 102 Disqualification for registration under Children Act 1989](section/102.md)
+  - General
+    - [s. 103 Minor and consequential amendments and repeals](section/103.md)
+    - [s. 104 Subordinate legislation: general provisions](section/104.md)
+    - [s. 105 Subordinate legislation: parliamentary control](section/105.md)
+    - [s. 106 General interpretation etc.](section/106.md)
+    - [s. 107 Financial provisions](section/107.md)
+    - [s. 108 Isles of Scilly](section/108.md)
+    - [s. 109 Commencement](section/109.md)
+    - [s. 110 The appropriate authority by whom commencement order is made](section/110.md)
+    - [s. 111 Short title and extent](section/111.md)
+- SCHEDULE 1 Amendments relating to the curriculum
+  - Interpretation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - ...............
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Minor and consequential amendments
+  - Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Supreme Court Act 1981 (c. 54)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Education Act 1997 (c. 44)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - School Standards and Framework Act 1998 (c. 31)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+  - Protection of Children Act 1999 (c. 14)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+  - Education Act 2005 (c. 18)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+- SCHEDULE 3 Repeals
+  - Part 1 The curriculum
+  - Part 2 Other repeals
