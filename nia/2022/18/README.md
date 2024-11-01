@@ -1,0 +1,364 @@
+# Adoption and Children Act (Northern Ireland) 2022
+
+nia/2022/18. Enacted 2022-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2022/18
+
+Source: https://www.legislation.gov.uk/nia/2022/18/2024-11-01
+
+## Contents
+
+- PART 1 Adoption
+  - CHAPTER 1 Introductory
+    - [s. 1 Considerations applying to the exercise of powers](section/1.md)
+  - CHAPTER 2 The Adoption Service
+    - The Adoption Service
+      - [s. 2 Basic definitions](section/2.md)
+      - [s. 3 Adoption authority](section/3.md)
+      - [s. 4 The Adoption Service](section/4.md)
+      - [s. 5 Assessments etc. for adoption support services](section/5.md)
+      - [s. 6 Adoption support services: duty to provide information](section/6.md)
+      - [s. 7 Arrangements on cancellation of registration](section/7.md)
+      - [s. 8 Inactive or defunct adoption societies, etc.](section/8.md)
+    - Regulations
+      - [s. 9 General power to regulate adoption agencies](section/9.md)
+      - [s. 10 Management, etc., of agencies](section/10.md)
+      - [s. 11 Fees](section/11.md)
+      - [s. 12 Independent review of qualifying determinations of adoption agencies](section/12.md)
+    - Supplemental
+      - [s. 13 Information concerning adoption](section/13.md)
+      - [s. 14 Inspection of premises, etc.](section/14.md)
+  - CHAPTER 3 Placement for adoption and adoption orders
+    - Placement of children by adoption agency for adoption
+      - [s. 15 Placement for adoption by agencies](section/15.md)
+      - [s. 16 Placing children with parental consent](section/16.md)
+      - [s. 17 Advance consent to adoption](section/17.md)
+      - [s. 18 Placement orders](section/18.md)
+      - [s. 19 Applications for placement orders](section/19.md)
+      - [s. 20 Varying placement orders](section/20.md)
+      - [s. 21 Revoking placement orders](section/21.md)
+      - [s. 22 Parental responsibility](section/22.md)
+      - [s. 23 Contact](section/23.md)
+      - [s. 24 Contact: supplementary](section/24.md)
+      - [s. 25 Further consequences of placement](section/25.md)
+      - [s. 26 Further consequences of placement orders](section/26.md)
+    - Removal of children who are or may be placed by adoption agencies
+      - [s. 27 General prohibitions on removal](section/27.md)
+      - [s. 28 Recovery by parent etc. where child not placed or is a baby](section/28.md)
+      - [s. 29 Recovery by parent etc. where child placed and consent withdrawn](section/29.md)
+      - [s. 30 Recovery by parent etc. where child placed and placement order refused](section/30.md)
+      - [s. 31 Placement orders: prohibition on removal](section/31.md)
+      - [s. 32 Return of child in other cases](section/32.md)
+    - Removal of children in non-agency cases
+      - [s. 33 Restrictions on removal](section/33.md)
+      - [s. 34 Applications for adoption](section/34.md)
+      - [s. 35 Authority foster parents](section/35.md)
+      - [s. 36 Partners of parents](section/36.md)
+      - [s. 37 Other non-agency cases](section/37.md)
+    - Breach of restrictions on removal
+      - [s. 38 Recovery orders](section/38.md)
+    - Preliminaries to adoption
+      - [s. 39 Child to live with adopters before application](section/39.md)
+      - [s. 40 Reports where child placed by agency](section/40.md)
+      - [s. 41 Notice of intention to adopt](section/41.md)
+      - [s. 42 Suitability of adopters](section/42.md)
+    - The making of adoption orders
+      - [s. 43 Adoption orders](section/43.md)
+      - [s. 44 Conditions for making adoption orders](section/44.md)
+      - [s. 45 Restrictions on making adoption orders](section/45.md)
+      - [s. 46 Applications for adoption](section/46.md)
+      - [s. 47 Adoption by couple](section/47.md)
+      - [s. 48 Adoption by one person](section/48.md)
+    - Post-adoption contact
+      - [s. 49 Post-adoption contact](section/49.md)
+      - [s. 50 Orders under section 49: supplementary](section/50.md)
+    - Placement and adoption: general
+      - [s. 51 Parental etc. consent](section/51.md)
+      - [s. 52 Modification of Children Order in relation to adoption](section/52.md)
+      - [s. 53 Disclosing information to prospective adopters](section/53.md)
+      - [s. 54 Revocation of adoptions on legitimation](section/54.md)
+    - Disclosure of information about a person’s adoption
+      - [s. 55 Information to be kept about a person’s adoption](section/55.md)
+      - [s. 56 Restrictions on disclosure of protected etc. information](section/56.md)
+      - [s. 57 Disclosure of other information](section/57.md)
+      - [s. 58 Offence](section/58.md)
+      - [s. 59 Disclosing information to adopted adult](section/59.md)
+      - [s. 60 Disclosing protected information about adults](section/60.md)
+      - [s. 61 Disclosing protected information about children](section/61.md)
+      - [s. 62 Counselling](section/62.md)
+      - [s. 63 Other provision to be made by regulations](section/63.md)
+      - [s. 64 Sections 55 to 64: interpretation](section/64.md)
+  - CHAPTER 4 Status of adopted children
+    - [s. 65 Meaning of adoption in Chapter 4](section/65.md)
+    - [s. 66 Status conferred by adoption](section/66.md)
+    - [s. 67 Adoptive relatives](section/67.md)
+    - [s. 68 Rules of interpretation for instruments concerning property](section/68.md)
+    - [s. 69 Dispositions depending on date of birth](section/69.md)
+    - [s. 70 Property devolving with peerages etc.](section/70.md)
+    - [s. 71 Protection of trustees and personal representatives](section/71.md)
+    - [s. 72 Meaning of disposition](section/72.md)
+    - [s. 73 Miscellaneous](section/73.md)
+    - [s. 74 Pensions](section/74.md)
+    - [s. 75 Insurance](section/75.md)
+  - CHAPTER 5 Registers
+    - Adopted Children Register, etc.
+      - [s. 76 Adopted Children Register](section/76.md)
+      - [s. 77 Searches and copies](section/77.md)
+      - [s. 78 Connections between the register and birth records](section/78.md)
+    - Adoption Contact Register
+      - [s. 79 Adoption Contact Register](section/79.md)
+      - [s. 80 Adoption Contact Register: supplementary](section/80.md)
+      - [s. 81 Interpretation](section/81.md)
+  - CHAPTER 6 Adoptions with a foreign element
+    - Bringing children into and out of the United Kingdom
+      - [s. 82 Restriction on bringing children in](section/82.md)
+      - [s. 83 Giving parental responsibility prior to adoption abroad](section/83.md)
+      - [s. 84 Restriction on taking children out](section/84.md)
+      - [s. 85 Power to modify sections 82 and 84](section/85.md)
+    - Adoptions from abroad: special restrictions
+      - [s. 86 Declaration of special restrictions on adoptions from abroad](section/86.md)
+      - [s. 87 Review](section/87.md)
+      - [s. 88 The special restrictions](section/88.md)
+      - [s. 89 Imposition of extra conditions in certain cases](section/89.md)
+    - Overseas adoptions
+      - [s. 90 Overseas adoptions](section/90.md)
+    - Miscellaneous
+      - [s. 91 Modification of section 66 for Hague Convention adoptions](section/91.md)
+      - [s. 92 Annulment etc. of overseas or Hague Convention adoptions](section/92.md)
+      - [s. 93 Section 92: supplementary](section/93.md)
+      - [s. 94 Overseas determinations and orders](section/94.md)
+      - [s. 95 Power to charge](section/95.md)
+  - CHAPTER 7 Miscellaneous
+    - Restrictions
+      - [s. 96 Restriction on arranging adoptions etc.](section/96.md)
+      - [s. 97 Offence of breaching restrictions under section 96](section/97.md)
+      - [s. 98 Restriction on reports](section/98.md)
+      - [s. 99 Prohibition of certain payments](section/99.md)
+      - [s. 100 Excepted payments](section/100.md)
+      - [s. 101 Sections 96 to 100: interpretation](section/101.md)
+    - Information
+      - [s. 102 Pre-commencement adoptions: information](section/102.md)
+    - Proceedings
+      - [s. 103 Proceedings for offences](section/103.md)
+      - [s. 104 Appeals](section/104.md)
+      - [s. 105 Privacy](section/105.md)
+    - Children’s court guardians
+      - [s. 106 Children’s court guardians](section/106.md)
+      - [s. 107 Right of access to adoption agency records](section/107.md)
+    - Evidence
+      - [s. 108 Evidence of consent](section/108.md)
+    - Orders made in Great Britain, etc.
+      - [s. 109 Effect of certain Scottish orders and provisions](section/109.md)
+      - [s. 110 Effect of certain orders made in England and Wales](section/110.md)
+      - [s. 111 Use of adoption records from Great Britain, etc.](section/111.md)
+      - [s. 112 Channel Islands and the Isle of Man](section/112.md)
+    - General
+      - [s. 113 Avoiding delay](section/113.md)
+      - [s. 114 Service of notices etc.](section/114.md)
+      - [s. 115 Jurisdiction of courts](section/115.md)
+- PART 2 Children order amendments
+  - [s. 116 Definition of family proceedings](section/116.md)
+  - [s. 117 Article 8 orders: authority foster parents](section/117.md)
+  - [s. 118 Duration of residence orders](section/118.md)
+  - [s. 119 Special guardianship](section/119.md)
+  - [s. 120 Ascertainment of children’s wishes](section/120.md)
+  - [s. 121 Provision of services to children in need, etc.](section/121.md)
+  - [s. 122 Duty of authorities to promote etc. achievement, learning and development, and to prevent disruption to education or training](section/122.md)
+  - [s. 123 Corporate parenting principles](section/123.md)
+  - [s. 124 Placement of looked after children with prospective adopters](section/124.md)
+  - [s. 125 Accommodation for children: requirements](section/125.md)
+  - [s. 126 Authority foster parents](section/126.md)
+  - [s. 127 Duty to ensure visits to and advice etc. for children](section/127.md)
+  - [s. 128 Former relevant children: continuing functions](section/128.md)
+  - [s. 129 Local offer for care leavers](section/129.md)
+  - [s. 130 Inquiries into representations](section/130.md)
+  - [s. 131 Review of cases of looked after children](section/131.md)
+  - [s. 132 Independent advocacy services](section/132.md)
+  - [s. 133 Definition of harm](section/133.md)
+  - [s. 134 Care plans](section/134.md)
+  - [s. 135 Contact: children in care of authority](section/135.md)
+  - [s. 136 Persons authorised to act as children’s court guardian](section/136.md)
+  - [s. 137 Renaming of guardians ad litem](section/137.md)
+  - [s. 138 Interests of children in proceedings](section/138.md)
+  - [s. 139 Definition of privately fostered child](section/139.md)
+  - [s. 140 Welfare of children who will be privately fostered](section/140.md)
+  - [s. 141 Notification of fostering: public awareness](section/141.md)
+  - [s. 142 Privacy for children in proceedings](section/142.md)
+  - [s. 143 Report on the operation of the Children Order](section/143.md)
+- PART 3 Miscellaneous and supplementary
+  - Northern Ireland Adoption and Children Act Register
+    - [s. 144 Northern Ireland Adoption and Children Act Register](section/144.md)
+    - [s. 145 Use of an organisation to establish the register](section/145.md)
+    - [s. 146 Use of an organisation as an agency for payments](section/146.md)
+    - [s. 147 Supply of information for the register](section/147.md)
+    - [s. 148 Disclosure of information](section/148.md)
+    - [s. 149 Search and inspection of the register by prospective adopters](section/149.md)
+    - [s. 150 Search and inspection of the register by adoption agencies](section/150.md)
+    - [s. 151 Supplementary](section/151.md)
+  - Supplementary
+    - [s. 152 Time limit within which proceedings may be brought](section/152.md)
+    - [s. 153 Research and investigations](section/153.md)
+    - [s. 154 Amendments, transitional and transitory provisions, savings and repeals](section/154.md)
+    - [s. 155 Regulations and orders](section/155.md)
+    - [s. 156 Rules of court](section/156.md)
+    - [s. 157 Supplementary and consequential provision](section/157.md)
+    - [s. 158 Review](section/158.md)
+    - [s. 159 Interpretation](section/159.md)
+    - [s. 160 Commencement](section/160.md)
+    - [s. 161 Short title](section/161.md)
+- SCHEDULE 1 Registration of adoptions
+  - Registration of adoption orders
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Registration of adoptions in Great Britain, the Isle of Man and the Channel Islands
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Registration of other adoptions
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Amendment of orders and rectification of Registers and other records
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Marking of entries on re-registration of birth on legitimation
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Cancellations in registers on legitimation
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Disclosure of birth records by Registrar General
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Minor and consequential amendments
+  - PART 1 Amendments of primary legislation
+    - The Legitimacy Act (Northern Ireland) 1928
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The Births and Deaths Registration (Northern Ireland) Order 1976
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - The Child Abduction and Custody Act 1985
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - The Child Abduction (Northern Ireland) Order 1985
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - The Mental Health (Northern Ireland) Order 1986
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - The Family Law Act 1986
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - The Adoption (Northern Ireland) Order 1987
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - The Matrimonial and Family Proceedings (Northern Ireland) Order 1989
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - The Armed Forces Act 1991
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - The Health and Personal Social Services (Northern Ireland) Order 1991
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - The Child Support (Northern Ireland) Order 1991
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - The Children (Northern Ireland) Order 1995
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+    - The Children (Scotland) Act 1995
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+    - The Employment Rights (Northern Ireland) Order 1996
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+    - The Police Act 1997
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+    - The Family Homes and Domestic Violence (Northern Ireland) Order 1998
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+    - The Justice (Northern Ireland) Act 2002
+      - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+      - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+    - The Adoption and Children Act 2002
+      - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+      - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+      - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+      - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+    - The Marriage (Northern Ireland) Order 2003
+      - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+    - The Health and Personal Social Services (Quality, Improvement and Regulation)(Northern Ireland) Order 2003
+      - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+      - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+      - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+      - [Sch. 3 para. 64](schedule/3/paragraph/64.md)
+      - [Sch. 3 para. 65](schedule/3/paragraph/65.md)
+    - The Access to Justice (Northern Ireland) Order 2003
+      - [Sch. 3 para. 66](schedule/3/paragraph/66.md)
+      - [Sch. 3 para. 67](schedule/3/paragraph/67.md)
+    - The Commissioner for Children and Young People (Northern Ireland) Order 2003
+      - [Sch. 3 para. 68](schedule/3/paragraph/68.md)
+    - The Children and Adoption Act 2006
+      - [Sch. 3 para. 69](schedule/3/paragraph/69.md)
+      - [Sch. 3 para. 70](schedule/3/paragraph/70.md)
+    - The Sexual Offences (Northern Ireland) Order 2008
+      - [Sch. 3 para. 71](schedule/3/paragraph/71.md)
+      - [Sch. 3 para. 72](schedule/3/paragraph/72.md)
+      - [Sch. 3 para. 73](schedule/3/paragraph/73.md)
+      - [Sch. 3 para. 74](schedule/3/paragraph/74.md)
+    - The Human Fertilisation and Embryology Act 2008
+      - [Sch. 3 para. 75](schedule/3/paragraph/75.md)
+    - The Children’s Services Co-operation Act (Northern Ireland) 2015
+      - [Sch. 3 para. 76](schedule/3/paragraph/76.md)
+    - The Mental Capacity Act (Northern Ireland) 2016
+      - [Sch. 3 para. 77](schedule/3/paragraph/77.md)
+    - The Data Protection Act 2018
+      - [Sch. 3 para. 78](schedule/3/paragraph/78.md)
+      - [Sch. 3 para. 79](schedule/3/paragraph/79.md)
+    - The Health and Social Care Act (Northern Ireland) 2022
+      - [Sch. 3 para. 80](schedule/3/paragraph/80.md)
+  - PART 2 Amendments of subordinate legislation
+    - The Human Fertilisation and Embryology (Parental Orders) Regulations 2018
+      - [Sch. 3 para. 81](schedule/3/paragraph/81.md)
+      - [Sch. 3 para. 82](schedule/3/paragraph/82.md)
+      - [Sch. 3 para. 84](schedule/3/paragraph/84.md)
+- SCHEDULE 4 Transitional and transitory provisions and savings
+  - Adoption support services
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Pending applications for freeing orders
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Freeing orders
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Pending applications for adoption orders
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Pending applications for parental orders
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Advertising
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Registration of adoptions
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - The Adoption (Hague Convention) Act (Northern Ireland) 1969
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - The Child Abduction (Northern Ireland) Order 1985
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Repeals
