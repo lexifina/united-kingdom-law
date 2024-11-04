@@ -1,0 +1,154 @@
+# Coal Mining Subsidence Act 1991
+
+1991 c. 45. Enacted 1991-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/45
+
+Source: https://www.legislation.gov.uk/ukpga/1991/45/2024-11-04
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Subsidence damage to which Act applies.](section/1.md)
+- Part II Remedial Action
+  - General
+    - [s. 2 Duty to take remedial action.](section/2.md)
+    - [s. 3 Notice of subsidence damage.](section/3.md)
+    - [s. 4 Initial response to damage notice.](section/4.md)
+    - [s. 5 Determination of appropriate remedial action.](section/5.md)
+    - [s. 6 Schedule of remedial works.](section/6.md)
+  - The kinds of remedial action available
+    - [s. 7 Execution of remedial works.](section/7.md)
+    - [s. 8 Discretionary payments in lieu.](section/8.md)
+    - [s. 9 Obligatory payments in lieu.](section/9.md)
+    - [s. 10 Discretionary depreciation payments.](section/10.md)
+    - [s. 11 Obligatory depreciation payments.](section/11.md)
+    - [s. 12 Payments in respect of emergency works.](section/12.md)
+  - Payments in lieu and depreciation payments
+    - [s. 13 Payments in lieu.](section/13.md)
+    - [s. 14 Depreciation payments: general.](section/14.md)
+    - [s. 15 Recipients of depreciation payments.](section/15.md)
+  - Further damage
+    - [s. 16 Stop notices where further damage is likely.](section/16.md)
+    - [s. 17 Revocation and review of stop notices.](section/17.md)
+    - [s. 18 Effect of further damage.](section/18.md)
+  - Special cases
+    - [s. 19 Ancient monuments and listed buildings.](section/19.md)
+    - [s. 20 Ecclesiastical property etc.](section/20.md)
+    - [s. 21 Property belonging to protected tenants.](section/21.md)
+- Part III Additional Remedies
+  - Dwelling-houses rendered uninhabitable etc.
+    - [s. 22 Home loss payments.](section/22.md)
+    - [s. 23 Relief for temporary dispossession.](section/23.md)
+    - [s. 24 Care of vacant dwelling-houses.](section/24.md)
+    - [s. 25 Compensation for inconvenience etc. during works.](section/25.md)
+  - Agricultural losses
+    - [s. 26 Farm loss payments.](section/26.md)
+    - [s. 27 Crop loss payments.](section/27.md)
+    - [s. 28 Payments for tenant farmers.](section/28.md)
+  - Miscellaneous
+    - [s. 29 Purchase etc. of property affected by blight.](section/29.md)
+    - [s. 30 Compensation for consequential losses of small firms.](section/30.md)
+    - [s. 31 Compensation for damage to moveable property.](section/31.md)
+    - [s. 32 Compensation for death or disablement.](section/32.md)
+- Part IV Preventive and Other Measures
+  - [s. 33 Existing buildings, structures or works.](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Land drainage systems.](section/36.md)
+- Part V Supplemental
+  - Claims
+    - [s. 37 Avoidance of double claims.](section/37.md)
+    - [s. 38 Reimbursement of successful claimants’ expenses.](section/38.md)
+    - [s. 39 ................................](section/39.md)
+  - Disputes and complaints
+    - [s. 40 Disputes: general.](section/40.md)
+    - [s. 41 Disputes about withholding of agreement or consent.](section/41.md)
+    - [s. 42 Disputes about access etc. to premises.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 Time limits for certain disputes.](section/44.md)
+    - [s. 45 ................................](section/45.md)
+  - Notices, information and reports
+    - [s. 46 Notices to property owners etc.](section/46.md)
+    - [s. 47 Notices to local authorities.](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 Reports on operation of Act.](section/49.md)
+  - General
+    - [s. 50 Regulations and orders.](section/50.md)
+    - [s. 51 Service of documents](section/51.md)
+    - [s. 52 Interpretation etc.](section/52.md)
+    - [s. 53 Transitional provisions, savings and repeals.](section/53.md)
+    - [s. 54 Short title, commencement and extent.](section/54.md)
+- SCHEDULE 1 Determination of Amount of Depreciation Payments
+  - Units of property
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Basis of valuation
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Amount of depreciation
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interest on depreciation payments
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Recipients of Depreciation Payments: Special Cases
+  - Mortgages
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Rentcharges
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Settlements etc.
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Effect of devises or bequests
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Sale and compulsory acquisition
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Property Belonging to Protected Tenants
+  - Protected tenant treated as liable to make good the damage
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Circumstances in which Schedule applies
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Supplemental
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Home Loss Payments
+  - Right to home loss payment
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Amount of home loss payment
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Supplementary provisions
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 Relief for Temporary Dispossession
+  - Preliminary
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Obligations of Corporation
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Cessation of obligations
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Procedural requirements
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Alternative living accommodation
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Supplemental
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Farm Loss Payments
+  - Right to a farm loss payment
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Amount of farm loss payment
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Supplementary provisions
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Transitional Provisions and Savings
+  - Remedial action
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Additional remedies
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Preventive and other measures
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Notices
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Supplemental
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Repeals
