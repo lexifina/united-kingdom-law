@@ -1,0 +1,264 @@
+# National Heritage Act 1983
+
+1983 c. 47. Enacted 1983-05-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1983/47/2024-11-04
+
+## Contents
+
+- Victoria and Albert Museum
+  - [s. 1 Establishment of Board of Trustees.](section/1.md)
+  - [s. 2 The Board’s general functions.](section/2.md)
+  - [s. 3 Power of Board to form companies.](section/3.md)
+  - [s. 4 Initial vesting in Board.](section/4.md)
+  - [s. 5 Certain gifts vesting on or after vesting day.](section/5.md)
+  - [s. 6 Acquisition and disposal of objects.](section/6.md)
+  - [s. 7 Lending and borrowing of objects.](section/7.md)
+  - [s. 8 ................................](section/8.md)
+- Science Museum
+  - [s. 9 Establishment of Board of Trustees.](section/9.md)
+  - [s. 10 The Board’s general functions.](section/10.md)
+  - [s. 11 Power of Board to form companies.](section/11.md)
+  - [s. 12 Initial vesting in Board.](section/12.md)
+  - [s. 13 Certain gifts vesting on or after vesting day.](section/13.md)
+  - [s. 14 Acquisition and disposal of objects.](section/14.md)
+  - [s. 15 Lending and borrowing of objects.](section/15.md)
+  - [s. 16 ................................](section/16.md)
+- Armouries
+  - [s. 17 Establishment of Board of Trustees.](section/17.md)
+  - [s. 18 The Board’s general functions.](section/18.md)
+  - [s. 18A Power of Board to form companies.](section/18A.md)
+  - [s. 19 Initial vesting in Board.](section/19.md)
+  - [s. 20 Acquisition and disposal of objects.](section/20.md)
+  - [s. 21 Lending and borrowing of objects.](section/21.md)
+  - [s. 22 Finance.](section/22.md)
+- Royal Botanic Gardens, Kew
+  - [s. 23 Establishment of Board of Trustees.](section/23.md)
+  - [s. 24 The Board’s general functions.](section/24.md)
+  - [s. 25 Power of Board to form companies.](section/25.md)
+  - [s. 26 Initial vesting in Board.](section/26.md)
+  - [s. 27 Acquisition and disposal of objects.](section/27.md)
+  - [s. 28 Lending and borrowing of objects.](section/28.md)
+  - [s. 29 Finance.](section/29.md)
+- Armed Forces museums
+  - [s. 30 Grants by Secretary of State.](section/30.md)
+  - [s. 31 Designated institutions.](section/31.md)
+- The Royal Naval College
+  - [s. 31A Grants for preservation of Royal Naval College site.](section/31A.md)
+- Historic Buildings and Monuments Commission for England
+  - [s. 32 Establishment of Commission.](section/32.md)
+  - [s. 33 The Commission’s general functions.](section/33.md)
+  - [s. 33A Functions relating to foreign monuments and buildings](section/33A.md)
+  - [s. 33B Powers to exploit intangible assets](section/33B.md)
+  - [s. 33C Assistance in relation to protected wrecks](section/33C.md)
+  - [s. 34 Commission to exercise certain ministerial functions.](section/34.md)
+  - [s. 35 Power of Commission to form companies.](section/35.md)
+  - [s. 36 Records: powers of entry.](section/36.md)
+  - [s. 37 Monuments etc. partly situated in England.](section/37.md)
+  - [s. 38 Finance.](section/38.md)
+- General
+  - [s. 39 Dissolution of certain bodies.](section/39.md)
+  - [s. 40 Amendments and repeals.](section/40.md)
+  - [s. 41 Commencement.](section/41.md)
+  - [s. 42 Extent.](section/42.md)
+  - [s. 43 Short title.](section/43.md)
+- SCHEDULE 1 The Boards
+  - Part I Victoria and Albert Museum
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Membership
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Staff
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Proceedings
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Allowances
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Instruments
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Finance
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Reports
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part II Science Museum
+    - Status
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Membership
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Staff
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Proceedings
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Allowances
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Instruments
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Finance
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Reports
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Part III Armouries
+    - Status
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Membership
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Staff
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Proceedings
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Allowances
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Instruments
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Accounts
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Information
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - Part IV Royal Botanic Gardens, Kew
+    - Status
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Membership
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Staff
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Proceedings
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Allowances
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Instruments
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - Accounts
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Information
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+- SCHEDULE 2 Armed Forces Museums
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Offer of employment
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Superannuation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 The Commission
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Membership
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Staff
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Proceedings
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Committees
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Instruments
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Members’ remuneration
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Accounts
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Information
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - House of Commons disqualification
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 The Commission: Amendments
+  - Historic Buildings and Ancient Monuments Act 1953 (c. 49)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Pastoral Measure 1968 (No. 1)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Redundant Churches and Other Religious Buildings Act 1969 (c. 22)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Town and Country Planning Act 1971 (c. 78)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Town and Country Planning (Amendment) Act 1972 (c. 42)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+    - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+    - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+    - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+    - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+    - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+    - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+    - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+  - Pastoral Measure 1983 (No. 1)
+    - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+  - Interpretation
+    - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+- SCHEDULE 5 Minor and Consequential Amendments
+  - National Gallery and Tate Gallery Act 1954 (c. 65)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Public Records Act 1958 (c. 51)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Charities Act 1960 (c. 58)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - British Museum Act 1963 (c. 24)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - British Library Act 1972 (c. 54)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Repeals
