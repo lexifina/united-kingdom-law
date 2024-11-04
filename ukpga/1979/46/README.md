@@ -1,0 +1,276 @@
+# Ancient Monuments and Archaeological Areas Act 1979
+
+1979 c. 46. Enacted 1979-04-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
+
+Source: https://www.legislation.gov.uk/ukpga/1979/46/2024-11-04
+
+## Contents
+
+- Part I Ancient Monuments
+  - Protection of scheduled monuments
+    - [s. 1 Schedule of monuments.](section/1.md)
+    - [s. 1A Commission’s functions as to informing and publishing.](section/1A.md)
+    - [Pt. I para. 1AA Duty to consult on certain amendments relating to the Schedule](part/I/paragraph/1AA.md)
+    - [Pt. I para. 1AB Interim protection pending decisions on certain amendments relating to the Schedule](part/I/paragraph/1AB.md)
+    - [Pt. I para. 1AC Provisions applicable on lapse of interim protection](part/I/paragraph/1AC.md)
+    - [Pt. I para. 1AD Compensation for loss or damage caused by interim protection](part/I/paragraph/1AD.md)
+    - [Pt. I para. 1AE Review of decisions on certain amendments relating to the Schedule](part/I/paragraph/1AE.md)
+    - [Pt. I para. 1B Publication of the Schedule](part/I/paragraph/1B.md)
+    - [Pt. I para. 1C Appeal against inclusion etc. in Schedule of monuments](part/I/paragraph/1C.md)
+    - [Pt. I para. 1D Determination of appeals under section 1C](part/I/paragraph/1D.md)
+    - [Pt. I para. 1E Procedure for appeals under section 1C](part/I/paragraph/1E.md)
+    - [s. 2 Control of works affecting scheduled monuments.](section/2.md)
+    - [s. 3 Grant of scheduled monument consent by order of the Secretary of State.](section/3.md)
+    - [Pt. I para. 3A Application for variation or discharge of conditions](part/I/paragraph/3A.md)
+    - [Pt. I para. 3B Referral of certain applications to the Scottish Ministers](part/I/paragraph/3B.md)
+    - [Pt. I para. 3C Procedure for referrals under section 3B](part/I/paragraph/3C.md)
+    - [s. 4 Duration, modification and revocation of scheduled monument consent.](section/4.md)
+    - [Pt. I para. 4A Modification and revocation of scheduled monument consent by Scottish Ministers](part/I/paragraph/4A.md)
+    - [Pt. I para. 4B Appeal in relation to scheduled monument consent](part/I/paragraph/4B.md)
+    - [Pt. I para. 4C Determination of appeals under section 4B](part/I/paragraph/4C.md)
+    - [Pt. I para. 4D Procedure for appeals under section 4B](part/I/paragraph/4D.md)
+    - [s. 5 Execution of works for preservation of a scheduled monument by Secretary of State in cases of urgency.](section/5.md)
+    - [s. 6 Powers of entry for inspection of scheduled monuments, etc.](section/6.md)
+    - [s. 6A Commission’s powers of entry in relation to scheduled monuments.](section/6A.md)
+    - [s. 7 Compensation for refusal of scheduled monument consent.](section/7.md)
+    - [s. 8 Recovery of compensation under section 7 on subsequent grant of consent.](section/8.md)
+    - [s. 9 Compensation where works affecting a scheduled monument cease to be authorised.](section/9.md)
+  - ...
+    - [s. 9ZA Heritage partnership agreement](section/9ZA.md)
+    - [s. 9ZB Heritage partnership agreement: supplemental](section/9ZB.md)
+  - ...
+    - [s. 9ZC Scheduled monument enforcement notice](section/9ZC.md)
+    - [s. 9ZD Scheduled monument enforcement notice: supplementary provision](section/9ZD.md)
+    - [s. 9ZE Scheduled monument enforcement notice: appeal](section/9ZE.md)
+    - [s. 9ZF Scheduled monument enforcement notice: power of entry](section/9ZF.md)
+    - [s. 9ZG Failure to comply with scheduled monument enforcement notice](section/9ZG.md)
+    - [s. 9ZH Effect of scheduled monument consent on notice](section/9ZH.md)
+  - ...
+    - [s. 9ZI Temporary stop notice](section/9ZI.md)
+    - [s. 9ZJ Temporary stop notice: power of entry](section/9ZJ.md)
+    - [s. 9ZK Temporary stop notice: offence](section/9ZK.md)
+    - [s. 9ZL Temporary stop notice: compensation](section/9ZL.md)
+  - ...
+    - [s. 9ZM Injunctions](section/9ZM.md)
+  - Scheduled monument enforcement notices
+    - [s. 9A Power to issue scheduled monument enforcement notice](section/9A.md)
+    - [s. 9B Scheduled monument enforcement notices: further provisions](section/9B.md)
+    - [s. 9C Appeal against scheduled monument enforcement notice](section/9C.md)
+    - [Pt. I para. 9CA Determination of appeals under section 9C](part/I/paragraph/9CA.md)
+    - [Pt. I para. 9CB Procedure for appeals under section 9C](part/I/paragraph/9CB.md)
+    - [s. 9D Execution of works required by scheduled monument enforcement notice](section/9D.md)
+    - [s. 9E Offence where scheduled monument enforcement notice not complied with](section/9E.md)
+    - [s. 9F Effect of scheduled monument consent on scheduled monument enforcement notice](section/9F.md)
+    - [Pt. I para. 9FA Enforcement by the Scottish Ministers](part/I/paragraph/9FA.md)
+    - [s. 9G Stop notices](section/9G.md)
+    - [s. 9H Stop notices: supplementary provisions](section/9H.md)
+    - [Pt. I para. 9HA Power of the Scottish Ministers to serve stop notice](part/I/paragraph/9HA.md)
+    - [s. 9I Compensation for loss due to stop notice](section/9I.md)
+    - [s. 9J Penalties for contravention of stop notice](section/9J.md)
+  - Temporary stop notices
+    - [s. 9K Temporary stop notices](section/9K.md)
+    - [s. 9L Temporary stop notices: restrictions](section/9L.md)
+    - [s. 9M Temporary stop notices: offences](section/9M.md)
+    - [s. 9N Temporary stop notices: compensation](section/9N.md)
+  - Interdicts
+    - [s. 9O Interdicts restraining unauthorised works on scheduled monuments](section/9O.md)
+  - Acquisition of ancient monuments
+    - [s. 10 Compulsory acquisition of ancient monuments.](section/10.md)
+    - [s. 11 Acquisition by agreement or gift of ancient monuments.](section/11.md)
+  - Guardianship of ancient monuments
+    - [s. 12 Power to place ancient monument under guardianship.](section/12.md)
+    - [s. 13 Effect of guardianship.](section/13.md)
+    - [s. 14 Termination of guardianship.](section/14.md)
+  - Acquisition and guardianship of land in the vicinity of an ancient monument, etc.
+    - [s. 15 Acquisition and guardianship of land in the vicinity of an ancient monument.](section/15.md)
+    - [s. 16 Acquisition of easements and other similar rights over land in the vicinity of an ancient monument.](section/16.md)
+  - Agreements concerning ancient monuments, etc.
+    - [s. 17 Agreements concerning ancient monuments and land in their vicinity.](section/17.md)
+  - Powers of limited owners
+    - [s. 18 Powers of limited owners for purposes of sections 12, 16 and 17.](section/18.md)
+  - Public access to monuments under public control
+    - [s. 19 Public access to monuments under public control.](section/19.md)
+    - [s. 20 Provision of facilities for the public in connection with ancient monuments.](section/20.md)
+  - Transfer of ownership and guardianship of ancient monuments
+    - [s. 21 Transfer of ancient monuments between local authorities and Secretary of State.](section/21.md)
+  - Ancient Monuments Boards
+    - [s. 22 Ancient Monuments Boards.](section/22.md)
+    - [s. 23 Annual reports of Ancient Monuments Boards.](section/23.md)
+  - Local inquiries
+    - [s. 23A Local inquiries](section/23A.md)
+    - [s. 23B Local inquiries: further provision](section/23B.md)
+  - Miscellaneous and supplemental
+    - [s. 24 Expenditure by Secretary of State or local authority on acquisition and preservation of ancient monuments, etc.](section/24.md)
+    - [s. 25 Advice and superintendence by Secretary of State.](section/25.md)
+    - [s. 26 Power of entry on land believed to contain an ancient monument.](section/26.md)
+    - [s. 27 General provisions as to compensation for depreciation under Part I.](section/27.md)
+    - [s. 28 Offence of damaging certain ancient monuments.](section/28.md)
+    - [s. 29 Compensation orders for damage to monuments under guardianship in England and Wales.](section/29.md)
+    - [s. 30 Disposal of land acquired under Part I.](section/30.md)
+    - [s. 31 Voluntary contributions towards expenditure under Part I.](section/31.md)
+    - [s. 32 Interpretation of Part I.](section/32.md)
+- Part 1A Inventories of gardens and designed landscapes and of battlefields
+  - [s. 32A Inventory of gardens and designed landscapes](section/32A.md)
+  - [s. 32B Inventory of battlefields](section/32B.md)
+- Part II Archaeological Areas
+  - [s. 33 Designation of areas of archaeological importance.](section/33.md)
+  - [s. 34 Investigating authorities for areas of archaeological importance.](section/34.md)
+  - [s. 35 Notice required of operations in areas of archaeological importance.](section/35.md)
+  - [s. 36 Certificate to accompany operations notice under section 35.](section/36.md)
+  - [s. 37 Exemptions from offence under section 35.](section/37.md)
+  - [s. 38 Powers of investigating authority to enter and excavate site of operations covered by an operations notice.](section/38.md)
+  - [s. 39 Power of investigating authority to investigate in advance of operations notice any site which may be acquired compulsorily.](section/39.md)
+  - [s. 40 Other powers of entry on site of operations covered by an operations notice.](section/40.md)
+  - [s. 41 Interpretation of Part II.](section/41.md)
+- Part III Miscellaneous and Supplemental
+  - ...
+    - [s. 41A Register of historic parks and gardens in Wales](section/41A.md)
+  - Restrictions on use of metal detectors
+    - [s. 42 Restrictions on use of metal detectors.](section/42.md)
+  - Powers of entry
+    - [s. 43 Power of entry for survey and valuation.](section/43.md)
+    - [s. 44 Supplementary provisions with respect to powers of entry.](section/44.md)
+  - Financial provisions
+    - [s. 45 Expenditure on archaeological investigation.](section/45.md)
+    - [s. 45A Development and understanding of matters of historic, etc. interest: grants and loans](section/45A.md)
+    - [s. 46 Compensation for damage caused by exercise of certain powers under this Act.](section/46.md)
+    - [s. 47 General provisions with respect to claims for compensation under this Act.](section/47.md)
+    - [s. 48 Recovery of grants for expenditure in conservation areas and on historic buildings.](section/48.md)
+    - [s. 49 Grants to the Architectural Heritage Fund.](section/49.md)
+  - Application to special cases
+    - [s. 50 Application to Crown land.](section/50.md)
+    - [s. 51 Ecclesiastical Property.](section/51.md)
+    - [s. 52 Application to the Isles of Scilly.](section/52.md)
+    - [s. 52A The Broads.](section/52A.md)
+    - [s. 53 Monuments in territorial waters.](section/53.md)
+  - Supplemental
+    - [s. 54 Treatment and preservation of finds.](section/54.md)
+    - [s. 55 Proceedings for questioning validity of certain orders, etc.](section/55.md)
+    - [s. 56 Service of documents.](section/56.md)
+    - [s. 57 Power to require information as to interests in land.](section/57.md)
+    - [s. 58 Offences by corporations.](section/58.md)
+    - [s. 59 Prosecution of offences: Scotland.](section/59.md)
+    - [s. 60 Regulations and orders.](section/60.md)
+    - [s. 61 Interpretation.](section/61.md)
+    - [s. 62 Special provision for Scotland.](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 Transitional provisions, consequential amendments and repeals.](section/64.md)
+    - [s. 65 Short title, commencement and extent.](section/65.md)
+- SCHEDULE A1 LAPSE OF INTERIM PROTECTION
+  - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+- SCHEDULE A2 DECISIONS ON REVIEWS BY PERSON APPOINTED BY WELSH MINISTERS
+  - Decisions on reviews by appointed persons
+    - [Sch. A2 para. 1](schedule/A2/paragraph/1.md)
+  - Powers and duties of appointed person
+    - [Sch. A2 para. 2](schedule/A2/paragraph/2.md)
+  - Appointment of another person to make a decision on a review
+    - [Sch. A2 para. 3](schedule/A2/paragraph/3.md)
+  - Public local inquiries, hearings and written representations
+    - [Sch. A2 para. 4](schedule/A2/paragraph/4.md)
+  - Directions
+    - [Sch. A2 para. 5](schedule/A2/paragraph/5.md)
+  - Delegation
+    - [Sch. A2 para. 6](schedule/A2/paragraph/6.md)
+  - Supplementary provision
+    - [Sch. A2 para. 7](schedule/A2/paragraph/7.md)
+- SCHEDULE 1 Control of Works Affecting Scheduled Monuments
+  - Part I Applications for Scheduled Monument Consent
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+    - [Sch. 1 para. 2B](schedule/1/paragraph/2B.md)
+    - [Sch. 1 para. 2C](schedule/1/paragraph/2C.md)
+    - [Sch. 1 para. 2D](schedule/1/paragraph/2D.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part II Modification and Revocation of Scheduled Monument Consent
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 1A DETERMINATION OF CERTAIN APPEALS BY PERSON APPOINTED BY THE SCOTTISH MINISTERS
+  - Determination of appeals by appointed person
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Powers and duties of appointed person
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Determination of appeals by the Scottish Ministers
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Appointment of another person to determine appeal
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Local inquiries and hearings
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Supplementary provisions
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+- SCHEDULE 2 Designation Orders
+  - Designation orders by the Secretary of State
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Designation orders by a local authority
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Designation orders by the Commission
+    - [Sch. 2 para. 15A](schedule/2/paragraph/15A.md)
+  - Operation of designation orders
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Variation and revocation of designation orders
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Scotland
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Interpretation
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Transitional Provisions
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Consequential amendments
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Enactments Repealed
