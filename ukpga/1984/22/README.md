@@ -1,0 +1,169 @@
+# Public Health (Control of Disease) Act 1984
+
+1984 c. 22. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/22
+
+Source: https://www.legislation.gov.uk/ukpga/1984/22/2024-11-07
+
+## Contents
+
+- Part I Administrative Provisions
+  - General administration
+    - [s. 1 Authorities administering Act.](section/1.md)
+  - Port health districts and authorities
+    - [s. 2 Port health districts and authorities.](section/2.md)
+    - [s. 3 Jurisdiction and powers of port health authority.](section/3.md)
+    - [s. 4 General provisions as to orders constituting port health districts and authorities.](section/4.md)
+    - [s. 5 Financial provisions as to port health authorities.](section/5.md)
+  - Port of London
+    - [s. 6 Extent of Port of London](section/6.md)
+    - [s. 7 Port health district and authority for Port of London.](section/7.md)
+    - [s. 8 Supplementary provisions as to London port health district.](section/8.md)
+  - Inland and coastal waters
+    - [s. 9 Vessels in inland or coastal waters.](section/9.md)
+- Part II Control of Disease
+  - General
+    - [s. 10 Notifiable diseases.](section/10.md)
+    - [s. 11 Cases of notifiable disease and food poisoning to be reported.](section/11.md)
+    - [s. 12 Fees for certificates under s. 11.](section/12.md)
+    - [s. 13 Regulations for control of certain diseases.](section/13.md)
+    - [s. 14 Application of s. 13 to aerodromes.](section/14.md)
+    - [s. 15 Contravention of regulations under s. 13.](section/15.md)
+    - [s. 16 Power of local authority to direct that other diseases notifiable.](section/16.md)
+    - [s. 17 Exposure of persons and articles liable to convey notifiable disease.](section/17.md)
+    - [s. 18 Information to be furnished by occupier in case of notifiable disease or food poisoning.](section/18.md)
+    - [s. 19 Trading etc. by person with notifiable disease.](section/19.md)
+    - [s. 20 Stopping of work to prevent spread of disease.](section/20.md)
+  - Children
+    - [s. 21 Exclusion from school of child liable to convey notifiable disease.](section/21.md)
+    - [s. 22 List of day pupils at school having case of notifiable disease.](section/22.md)
+    - [s. 23 Exclusion of children from places of entertainment or assembly.](section/23.md)
+  - Infected articles
+    - [s. 24 Infected articles not to be taken or sent to be washed or cleaned.](section/24.md)
+    - [s. 25 Library books.](section/25.md)
+    - [s. 26 Infectious matter not to be placed in dustbins.](section/26.md)
+    - [s. 27 Provision of disinfecting stations.](section/27.md)
+  - Infected premises
+    - [s. 28 Prohibition of certain work on premises where notifiable disease exists.](section/28.md)
+    - [s. 29 Letting of house or room after recent case of notifiable disease.](section/29.md)
+    - [s. 30 Duty on ceasing to occupy house after recent case of notifiable disease.](section/30.md)
+    - [s. 31 Disinfection of premises.](section/31.md)
+    - [s. 32 Removal of person from infected house.](section/32.md)
+  - Public conveyances
+    - [s. 33 Use of public conveyance by person with notifiable disease.](section/33.md)
+    - [s. 34 Duty of owner, driver or conductor of public conveyance.](section/34.md)
+  - Infectious persons
+    - [s. 35 Medical examination.](section/35.md)
+    - [s. 36 Medical examination of group of persons believed to comprise carrier of notifiable disease.](section/36.md)
+    - [s. 37 Removal to hospital of person with notifiable disease.](section/37.md)
+    - [s. 38 Detention in hospital of person with notifiable disease.](section/38.md)
+  - Common lodging–houses
+    - [s. 39 Keeper of common lodging–house to notify case of infectious disease.](section/39.md)
+    - [s. 40 Medical examination of inmates of common lodging–house.](section/40.md)
+    - [s. 41 Removal to hospital of inmate of common lodging–house with notifiable disease.](section/41.md)
+    - [s. 42 Closure of common lodging–house on account of notifiable disease.](section/42.md)
+  - Death of person suffering from notifiable disease
+    - [s. 43 Person dying in hosptial with notifiable disease.](section/43.md)
+    - [s. 44 Isolation of body of person dying with notifiable disease.](section/44.md)
+    - [s. 45 Restriction of wakes.](section/45.md)
+- Part 2A Public Health Protection
+  - Introductory
+    - [s. 45A Infection or contamination](section/45A.md)
+  - Power to make regulations
+    - [s. 45B Health protection regulations: international travel etc.](section/45B.md)
+    - [s. 45C Health protection regulations: domestic](section/45C.md)
+    - [s. 45D Restrictions on power to make regulations under section 45C](section/45D.md)
+    - [s. 45E Medical treatment](section/45E.md)
+    - [s. 45F Health protection regulations: supplementary](section/45F.md)
+  - Orders that may be made by justice of the peace
+    - [s. 45G Power to order health measures in relation to persons](section/45G.md)
+    - [s. 45H Power to order health measures in relation to things](section/45H.md)
+    - [s. 45I Power to order health measures in relation to premises](section/45I.md)
+    - [s. 45J Orders in respect of groups](section/45J.md)
+    - [s. 45K Part 2A orders: supplementary](section/45K.md)
+    - [s. 45L Period for which Part 2A order may be in force](section/45L.md)
+    - [s. 45M Procedure for making, varying and revoking Part 2A orders](section/45M.md)
+    - [s. 45N Power to make further provision by regulations](section/45N.md)
+    - [s. 45O Enforcement of Part 2A orders](section/45O.md)
+  - Regulations under Part 2A: general
+    - [s. 45P General provision about regulations](section/45P.md)
+    - [s. 45Q Parliamentary control](section/45Q.md)
+    - [s. 45R Emergency procedure](section/45R.md)
+  - General
+    - [s. 45S Application to territorial sea](section/45S.md)
+    - [s. 45T Part 2A: further definitions](section/45T.md)
+- Part III
+  - Disposal of Dead Bodies
+    - [s. 46 Burial and cremation.](section/46.md)
+    - [s. 47 Regulations about dead bodies.](section/47.md)
+    - [s. 48 Removal of body to mortuary or for immediate burial.](section/48.md)
+- Part IV
+  - Canal Boats
+    - [s. 49 Regulations as to canal boats.](section/49.md)
+    - [s. 50 Power to enter and inspect canal boats.](section/50.md)
+    - [s. 51 Duties of local authorities and port health authorities under Part IV.](section/51.md)
+    - [s. 52 Prosecution of offences under Part IV.](section/52.md)
+    - [s. 53 Interpretation of Part IV.](section/53.md)
+- Part V
+  - Miscellaneous
+    - [s. 54 Instruction about health and disease.](section/54.md)
+    - [s. 55 Inducements offered by dealers in rags and old clothes.](section/55.md)
+    - [s. 56 Tents, vans, sheds and similar structures.](section/56.md)
+- Part VI General
+  - [s. 57 General provision for compensation.](section/57.md)
+  - [s. 58 Form of notices and other documents.](section/58.md)
+  - [s. 59 Authentication of documents.](section/59.md)
+  - [s. 60 Service of notices and other documents.](section/60.md)
+  - [s. 60A Electronic communications](section/60A.md)
+  - [s. 61 Power to enter premises.](section/61.md)
+  - [s. 62 Supplementary provisions as to entry.](section/62.md)
+  - [s. 63 Offence of wilful obstruction.](section/63.md)
+  - [s. 63A Offences by bodies corporate](section/63A.md)
+  - [s. 63B Unincorporated associations](section/63B.md)
+  - [s. 64 Restriction on right to prosecute.](section/64.md)
+  - [s. 64A Time limits for prosecutions](section/64A.md)
+  - [s. 65 Daily penalties for continuing offences.](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 Applications to, and appeals from magistrates’ courts.](section/67.md)
+  - [s. 68 Judges and justices not to be disqualified by liability to rates.](section/68.md)
+  - [s. 69 Protection from personal liability.](section/69.md)
+  - [s. 70 Local inquiries.](section/70.md)
+  - [s. 71 Default powers.](section/71.md)
+  - [s. 72 Cumulative effect of Act.](section/72.md)
+  - [s. 73 Crown property.](section/73.md)
+  - [s. 74 Interpretation.](section/74.md)
+  - [s. 75 Inner Temple and Middle Temple.](section/75.md)
+  - [s. 76 Isle of Man and Channel Islands.](section/76.md)
+  - [s. 77 Transitional provisions and savings.](section/77.md)
+  - [s. 78 Amendments and repeals.](section/78.md)
+  - [s. 79 Short title, commencement and extent.](section/79.md)
+- Schedule 1 Transitional Provisions and Savings
+  - Port health districts and port health authorities
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Notifiable diseases
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Unlawful expenditure
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Amendment and repeal of Acts etc.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- Schedule 2 Consequential Amendments
+  - Public Health Act 1936
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Local Authority Social Services Act 1970
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - National Health Service Act 1977
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Local Government, Planning and Land Act 1980
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- Schedule 3 Repeals
+  - Table of Derivations
+    - Note: The following abbreviations are used in this Table:—
