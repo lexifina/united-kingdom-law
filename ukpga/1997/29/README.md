@@ -1,0 +1,122 @@
+# Local Government and Rating Act 1997
+
+1997 c. 29. Enacted 1997-03-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/29
+
+Source: https://www.legislation.gov.uk/ukpga/1997/29/2024-11-16
+
+## Contents
+
+- Part I Non-domestic Rating
+  - England and Wales
+    - [s. 1 General stores etc. in rural settlements.](section/1.md)
+    - [s. 2 Sporting rights.](section/2.md)
+    - [s. 3 Crown property.](section/3.md)
+    - [s. 4 Visiting forces etc.](section/4.md)
+  - Scotland
+    - [s. 5 General stores etc. in rural settlements.](section/5.md)
+    - [s. 6 Crown property.](section/6.md)
+    - [s. 7 Visiting forces etc.](section/7.md)
+    - [s. 8 Orders under section 6 and Schedule 2.](section/8.md)
+- Part II Parishes and Parish Councils
+  - Establishment and review
+    - [s. 9 Reviews of parishes by local authorities.](section/9.md)
+    - [s. 10 Procedure on a review.](section/10.md)
+    - [s. 11 Petitions for new parishes.](section/11.md)
+    - [s. 12 Views of local authority about the petition.](section/12.md)
+    - [s. 13 Consideration by Electoral Commission](section/13.md)
+    - [s. 14 Implementation by Secretary of State.](section/14.md)
+    - [s. 15 Regulations for supplementing orders under section 14.](section/15.md)
+    - [s. 16 Establishment of new parish councils by local authorities.](section/16.md)
+    - [s. 17 Electoral arrangements.](section/17.md)
+    - [s. 18 Considerations in deciding about electoral arrangements.](section/18.md)
+    - [s. 19 Reviews of parishes by Local Government Commission.](section/19.md)
+    - [s. 20 Election of parish councillors.](section/20.md)
+  - Consultation
+    - [s. 21 Consultation with parish councils.](section/21.md)
+  - Supplemental
+    - [s. 22 Exercise of functions.](section/22.md)
+    - [s. 23 Orders and regulations under Part II.](section/23.md)
+    - [s. 24 Interpretation of Part II.](section/24.md)
+    - [s. 25 Application of Part II to England only.](section/25.md)
+- Part III Powers of Parish Councils and Community Councils
+  - Transport etc.
+    - [s. 26 Car-sharing schemes.](section/26.md)
+    - [s. 27 Grants for bus services.](section/27.md)
+    - [s. 28 Taxi fare concessions.](section/28.md)
+    - [s. 29 Information about transport.](section/29.md)
+    - [s. 30 Traffic calming works.](section/30.md)
+  - Crime prevention
+    - [s. 31 Crime prevention.](section/31.md)
+- Part IV General
+  - [s. 32 Financial provisions.](section/32.md)
+  - [s. 33 Minor and consequential amendments and repeals.](section/33.md)
+  - [s. 34 Commencement.](section/34.md)
+  - [s. 35 Short title and extent.](section/35.md)
+- SCHEDULE 1 Relief from non-domestic rates for general stores etc. in rural settlements: England and Wales
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Relief from non-domestic rates for general stores etc. in rural settlements: Scotland
+  - Rural settlement list
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Preparation and maintenance of lists
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Mandatory relief
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - Discretionary relief
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Interpretation
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Minor and consequential amendments
+  - Valuation and Rating (Scotland) Act 1956 (c.60)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Local Government (Financial Provisions etc.) (Scotland) Act 1962 (c.9)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Local Government (Financial Provisions) (Scotland) Act 1963 (c.12)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Local Government (Scotland) Act 1975 (c. 30)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Valuation and Rating (Exempted Classes) (Scotland) Act 1976 (c. 64)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - National Heritage Act 1983 (c. 47)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Dockyard Services Act 1986 (c. 52)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Banking Act 1987 (c. 22)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - National Maritime Museum Act 1989 (c. 8)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Repeals
