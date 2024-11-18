@@ -2,9 +2,9 @@
 
 2024 c. 3. Enacted 2024-02-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-09-03, one file per provision. Earlier versions, from 2024-02-22, are in the history before it: `git log -- ukpga/2024/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-18, one file per provision. Earlier versions, from 2024-02-22, are in the history before it: `git log -- ukpga/2024/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-09-03
+Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-11-18
 
 ## Contents
 
@@ -330,6 +330,7 @@ Source: https://www.legislation.gov.uk/ukpga/2024/3/2024-09-03
     - [Sch. 9 para. 126 Availability of individual’s lump sum and death benefit allowance](schedule/9/paragraph/126.md)
     - [Sch. 9 para. 127 Transitional tax-free amount certificates](schedule/9/paragraph/127.md)
     - [Sch. 9 para. 127A Availability of member’s overseas transfer allowance](schedule/9/paragraph/127A.md)
+    - [Sch. 9 para. 127B Provision of information by individuals to certification administrators](schedule/9/paragraph/127B.md)
     - [Sch. 9 para. 128 Provision of information by scheme administrators to members](schedule/9/paragraph/128.md)
     - [Sch. 9 para. 129 Paragraphs 125 to 128: interpretation](schedule/9/paragraph/129.md)
     - [Sch. 9 para. 130 Statements for certain members who would not otherwise receive one in the tax year 2024-25](schedule/9/paragraph/130.md)
