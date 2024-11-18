@@ -2,9 +2,9 @@
 
 2013 c. 29. Enacted 2013-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-10-30, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-18, one file per provision. Earlier versions, from 1993-03-20, are in the history before it: `git log -- ukpga/2013/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/29/2024-10-30
+Source: https://www.legislation.gov.uk/ukpga/2013/29/2024-11-18
 
 ## Contents
 
@@ -204,9 +204,8 @@ Source: https://www.legislation.gov.uk/ukpga/2013/29/2024-10-30
   - Power to modify reliefs
     - [s. 156 Modification of reliefs](section/156.md)
   - Alternative property finance
-    - [s. 157 Land in England ... or Northern Ireland sold to financial institution and leased to person](section/157.md)
+    - [s. 157 Land in England, Wales or Northern Ireland sold to financial institution and leased to person](section/157.md)
     - [s. 157A Land in Scotland sold to financial institution and leased to person](section/157A.md)
-    - [s. 157B Land in Wales sold to financial institution and leased to person](section/157B.md)
   - Administration and payment of tax
     - [s. 158 Responsibility for collection and management](section/158.md)
     - [s. 159 Annual tax on enveloped dwellings return](section/159.md)
