@@ -1,0 +1,332 @@
+# Financial Services Act 2021
+
+2021 c. 22. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2021/22
+
+Source: https://www.legislation.gov.uk/ukpga/2021/22/2024-11-22
+
+## Contents
+
+- Prudential regulation of credit institutions and investment firms
+  - [s. 1 Exclusion of certain investment firms from the Capital Requirements Regulation](section/1.md)
+  - [s. 2 Prudential regulation of certain investment firms by FCA rules](section/2.md)
+  - [s. 3 Transfer of certain prudential regulation matters into PRA rules](section/3.md)
+  - [s. 4 CRR Basel standards](section/4.md)
+  - [s. 5 Prudential regulation of credit institutions etc by PRA rules](section/5.md)
+  - [s. 6 Power to amend the Credit Rating Agencies Regulation](section/6.md)
+  - [s. 7 Amendments of the Capital Requirements Regulation](section/7.md)
+- Benchmarks
+  - [s. 8 Review of which benchmarks are critical benchmarks](section/8.md)
+  - [s. 9 Mandatory administration of a critical benchmark](section/9.md)
+  - [s. 10 Prohibition on new use where administrator to cease providing critical benchmark](section/10.md)
+  - [s. 11 Assessment of representativeness of critical benchmarks](section/11.md)
+  - [s. 12 Mandatory contribution to critical benchmarks](section/12.md)
+  - [s. 13 Designation of certain critical benchmarks](section/13.md)
+  - [s. 14 Use of Article 23A benchmarks](section/14.md)
+  - [s. 15 Orderly cessation of Article 23A benchmarks](section/15.md)
+  - [s. 16 Review of exercise of powers under Article 23D](section/16.md)
+  - [s. 17 Policy statements relating to critical benchmarks](section/17.md)
+  - [s. 18 Critical benchmarks provided for different currencies etc](section/18.md)
+  - [s. 19 Changes to and cessation of a benchmark](section/19.md)
+  - [s. 20 Extension of transitional period for benchmarks with non-UK administrators](section/20.md)
+  - [s. 21 Benchmarks: minor and consequential amendments](section/21.md)
+- Access to financial services markets
+  - [s. 22 Regulated activities and Gibraltar](section/22.md)
+  - [s. 23 Power to make provision about Gibraltar](section/23.md)
+  - [s. 24 Collective investment schemes authorised in approved countries](section/24.md)
+  - [s. 25 Individually recognised overseas collective investment schemes](section/25.md)
+  - [s. 26 Money market funds authorised in approved countries](section/26.md)
+  - [s. 27 Provision of investment services etc in the UK](section/27.md)
+- Variation or cancellation of permission to carry on regulated activity
+  - [s. 28 Part 4A permissions: variation or cancellation on initiative of FCA](section/28.md)
+- Rules about level of care provided by authorised persons
+  - [s. 29 FCA rules about level of care provided to consumers by authorised persons](section/29.md)
+- Insider dealing and money laundering etc
+  - [s. 30 Insider lists and managers’ transactions](section/30.md)
+  - [s. 31 Maximum sentences for insider dealing and financial services offences](section/31.md)
+  - [s. 32 Money laundering offences: electronic money institutions, payment institutions and deposit-taking bodies](section/32.md)
+  - [s. 33 Forfeiture of money: electronic money institutions and payment institutions](section/33.md)
+  - [s. 34 Application of money laundering regulations to overseas trustees](section/34.md)
+- Debt respite scheme
+  - [s. 35 Debt respite scheme](section/35.md)
+- Help to save
+  - [s. 36 Successor accounts for Help-to-Save savers](section/36.md)
+- Miscellaneous
+  - [s. 37 Regulated activities and application of Consumer Credit Act 1974](section/37.md)
+  - [s. 38 Amendments of the PRIIPs Regulation etc](section/38.md)
+  - [s. 39 Retention of personal data under the Market Abuse Regulation](section/39.md)
+  - [s. 40 Over the counter derivatives: clearing and procedures for reporting](section/40.md)
+  - [s. 41 Regulations about financial collateral arrangements](section/41.md)
+  - [s. 42 Appointment of chief executive of FCA](section/42.md)
+  - [s. 43 Subordinate legislation made under retained direct EU legislation](section/43.md)
+  - [s. 44 Payment services and the provision of cash](section/44.md)
+- General
+  - [s. 45 Power to make consequential provision](section/45.md)
+  - [s. 46 Regulations](section/46.md)
+  - [s. 47 Interpretation](section/47.md)
+  - [s. 48 Extent](section/48.md)
+  - [s. 49 Commencement and transitional provision](section/49.md)
+  - [s. 50 Short title](section/50.md)
+- SCHEDULE 1 Exclusion of certain investment firms from the Capital Requirements Regulation: consequential amendments
+  - PART 1 Amendments of the Capital Requirements Regulation
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+  - PART 2 Amendments of the Capital Requirements (Country-by-Country Reporting) Regulations 2013
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+- SCHEDULE 2 Prudential regulation of FCA investment firms
+  - PART 1 New Part 9C of the Financial Services and Markets Act 2000
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PART 2 Minor and consequential amendments
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - PART 3 Transitional provision
+    - Rules made before Part 1 of this Schedule comes into force
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Pre-commencement consultation etc
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Relevant equivalence decisions
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Carbon target
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Interpretation
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+- SCHEDULE 3 Prudential regulation of credit institutions etc
+  - PART 1 New Part 9D of the Financial Services and Markets Act 2000
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 PRA’s powers in relation to certain holding companies
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - PART 3 Minor and consequential amendments
+    - Bank of England Act 1998 (c. 11)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Capital Requirements Regulations 2013 (S.I. 2013/3115)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - PART 4 Transitional provision
+    - Pre-commencement consultation etc
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Relevant equivalence decisions
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Carbon target
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Section 192V rules
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Interpretation
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+- SCHEDULE 4 Amendments of the Capital Requirements Regulation
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Benchmarks: minor and consequential amendments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Gibraltar-based persons carrying on activities in the UK
+- SCHEDULE 7 UK-based persons carrying on activities in Gibraltar
+- SCHEDULE 8 Gibraltar: minor and consequential amendments
+  - Financial Services and Markets Act 2000 (c. 8)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Financial Services and Markets Act 2000 (Gibraltar) Order 2001 (S.I. 2001/3084)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Subsidy Control Act 2022
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+- SCHEDULE 9 Collective investment schemes authorised in approved countries
+  - PART 1 Provisions to be inserted in Chapter 5 of Part 17 of the Financial Services and Markets Act 2000
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - PART 2 Minor and consequential amendments
+    - Financial Services and Markets Act 2000 (c. 8)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - The Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+- SCHEDULE 10 Amendments of the Markets in Financial Instruments Regulation
+  - Introduction
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Scope
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Definitions
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Provision of services by third-country firms following equivalence determination
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Equivalence determination
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Requirements
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Temporary prohibitions and restrictions and withdrawal of registration
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Temporary prohibitions and restrictions and withdrawal of registration: procedure
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - FCA directions and rules
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Transitional provisions
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+- SCHEDULE 11 Variation or cancellation of Part 4A permission on initiative of FCA: additional power
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+- SCHEDULE 12 Forfeiture of money: electronic money institutions and payment institutions
+  - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Proceeds of Crime Act 2002 (c. 29)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
