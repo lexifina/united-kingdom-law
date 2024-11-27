@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-11-18, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-27, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2024-11-18
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2024-11-27
 
 ## Contents
 
@@ -570,6 +570,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2024-11-18
       - [s. 377 Binding over of parent or guardian: appeals, variations and revocations](section/377.md)
       - [s. 378 Other powers of the court to bind over to keep the peace](section/378.md)
     - CHAPTER 6 Other orders
+      - [s. 378A Domestic abuse protection orders](section/378A.md)
       - [s. 379 Other behaviour orders etc](section/379.md)
 - FIFTH GROUP OF PARTS Sentencing: miscellaneous provision and interpretation
   - PART 12 Miscellaneous provision about sentencing
