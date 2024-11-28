@@ -1,0 +1,311 @@
+# Human Fertilisation and Embryology Act 1990
+
+1990 c. 37. Enacted 1990-11-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-11-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 24 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/37
+
+Source: https://www.legislation.gov.uk/ukpga/1990/37/2024-11-28
+
+## Contents
+
+- Principal terms used
+  - [s. 1 Meaning of “embryo”, “gamete” and associated expressions.](section/1.md)
+  - [s. 1A Reference to Directives](section/1A.md)
+  - [s. 2 Other terms.](section/2.md)
+  - [s. 2A Third party agreements](section/2A.md)
+  - [s. 2B Meaning of “importing licensee”, “third country premises” etc](section/2B.md)
+- Activities governed by the Act
+  - [s. 3 Prohibitions in connection with embryos.](section/3.md)
+  - [s. 3ZA Permitted eggs, permitted sperm and permitted embryos](section/3ZA.md)
+  - [s. 3A Prohibition in connection with germ cells.](section/3A.md)
+  - [s. 4 Prohibitions in connection with gametes.](section/4.md)
+  - [s. 4A Prohibitions in connection with genetic material not of human origin](section/4A.md)
+- The Human Fertilisation and Embryology Authority, its functions and procedure
+  - [s. 5 The Human Fertilisation and Embryology Authority.](section/5.md)
+  - [s. 6 Accounts and audit.](section/6.md)
+  - [s. 7 Reports to Secretary of State.](section/7.md)
+  - [s. 8 General functions of the Authority.](section/8.md)
+  - [s. 8ZA Duties in relation to carrying out its functions](section/8ZA.md)
+  - [s. 8ZB Duties of the Authority in relation to the Single European Code: Northern Ireland](section/8ZB.md)
+  - [s. 8A Duty of Authority to communicate with competent authorities of EEA states: Northern Ireland](section/8A.md)
+  - [s. 8B Agency arrangements and provision of services](section/8B.md)
+  - [s. 8C Contracting out functions of Authority](section/8C.md)
+  - [s. 8D Disclosure of information where functions of Authority exercised by others](section/8D.md)
+  - [s. 8E Power to assist other public authorities](section/8E.md)
+  - [s. 9A Power to delegate and establish committees](section/9A.md)
+  - [s. 10 Licensing procedure.](section/10.md)
+- Scope of licences
+  - [s. 11 Licences for treatment, storage and research.](section/11.md)
+- Licence conditions
+  - [s. 12 General conditions.](section/12.md)
+  - [s. 13 Conditions of licences for treatment.](section/13.md)
+  - [s. 13A Conditions of licences for non-medical fertility services](section/13A.md)
+  - [s. 14 Conditions of storage licences.](section/14.md)
+  - [s. 14A Conditions of licences: human application](section/14A.md)
+  - [s. 15 Conditions of research licences.](section/15.md)
+  - [s. 15A Duties of the Authority in relation to serious adverse events and serious adverse reactions](section/15A.md)
+  - [s. 15B Inspection of third country premises etc.: Northern Ireland](section/15B.md)
+  - [s. 15C Third country premises and third country suppliers: report of inspections etc: Northern Ireland](section/15C.md)
+- Grant, revocation and suspension of licences
+  - [s. 16 Grant of licence.](section/16.md)
+  - [s. 17 The person responsible.](section/17.md)
+  - [s. 18 Revocation of licence](section/18.md)
+  - [s. 18A Variation of licence](section/18A.md)
+  - [s. 19 Procedure in relation to licensing decisions](section/19.md)
+  - [s. 19A Notification of licensing decisions](section/19A.md)
+  - [s. 19B Applications under this Act](section/19B.md)
+  - [s. 19C Power to suspend licence](section/19C.md)
+  - [s. 20 Right to reconsideration of licensing decisions](section/20.md)
+  - [s. 20A Appeals committee](section/20A.md)
+  - [s. 20B Procedure on reconsideration](section/20B.md)
+  - [s. 21 Appeal on a point of law](section/21.md)
+  - [s. 22 Temporary suspension of licence.](section/22.md)
+- Directions and guidance
+  - [s. 23 Directions: general.](section/23.md)
+  - [s. 24 Directions as to particular matters.](section/24.md)
+  - [s. 25 Code of practice.](section/25.md)
+  - [s. 26 Procedure for approval of code.](section/26.md)
+- Status
+  - [s. 27 Meaning of “mother”.](section/27.md)
+  - [s. 28 Meaning of “father”.](section/28.md)
+  - [s. 29 Effect of sections 27 and 28.](section/29.md)
+  - [s. 30 Parental orders in favour of gamete donors.](section/30.md)
+- Information
+  - [s. 31 Register of information](section/31.md)
+  - [s. 31ZA Request for information as to genetic parentage etc.](section/31ZA.md)
+  - [s. 31ZB Request for information as to intended spouse etc.](section/31ZB.md)
+  - [s. 31ZC Power of Authority to inform donor of request for information](section/31ZC.md)
+  - [s. 31ZD Provision to donor of information about resulting children](section/31ZD.md)
+  - [s. 31ZE Provision of information about donor-conceived genetic siblings](section/31ZE.md)
+  - [s. 31ZF Power of Authority to keep voluntary contact register](section/31ZF.md)
+  - [s. 31ZG Financial assistance for person setting up or keeping voluntary contact register](section/31ZG.md)
+  - [s. 31A The Authority’s register of licences](section/31A.md)
+  - [s. 31B The Authority’s register of serious adverse events and serious adverse reactions](section/31B.md)
+  - [s. 32 Information to be provided to Registrar General.](section/32.md)
+  - [s. 33A Disclosure of information](section/33A.md)
+  - [s. 33B Consent required to authorise certain disclosures](section/33B.md)
+  - [s. 33C Power to provide for additional exceptions from section 33A(1)](section/33C.md)
+  - [s. 33D Disclosure for the purposes of medical or other research](section/33D.md)
+  - [s. 34 Disclosure in interests of justice.](section/34.md)
+  - [s. 35 Disclosure in interests of justice: congenital disabilities, etc.](section/35.md)
+- Mitochondrial donation
+  - [s. 35A Mitochondrial donation](section/35A.md)
+- Fees
+  - [s. 35B Fees](section/35B.md)
+- Surrogacy
+  - [s. 36 Amendment of Surrogacy Arrangements Act 1985.](section/36.md)
+- Abortion
+  - [s. 37 Amendment of law relating to termination of pregnancy.](section/37.md)
+- Conscientious objection
+  - [s. 38 Conscientious objection.](section/38.md)
+- Enforcement
+  - [s. 38A Inspection, entry, search and seizure](section/38A.md)
+  - [s. 39 Powers of members and employees of Authority.](section/39.md)
+  - [s. 40 Power to enter premises.](section/40.md)
+- Offences
+  - [s. 41 Offences.](section/41.md)
+  - [s. 42 Consent to prosecution.](section/42.md)
+- Miscellaneous and General
+  - [s. 42A Powers to make regulations in relation to standards of quality and safety](section/42A.md)
+  - [s. 43 Keeping and examining gametes and embryos in connection with crime, etc.](section/43.md)
+  - [s. 44 Civil liability to child with disability.](section/44.md)
+  - [s. 45 Regulations.](section/45.md)
+  - [s. 45A Power to make consequential provision](section/45A.md)
+  - [s. 45B Orders](section/45B.md)
+  - [s. 46 Notices.](section/46.md)
+  - [s. 47 Index.](section/47.md)
+  - [s. 48 Northern Ireland.](section/48.md)
+  - [s. 49 Short title, commencement, etc.](section/49.md)
+- SCHEDULE 1 The Authority: Supplementary Provisions
+  - Status and capacity
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Expenses
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Appointment of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+  - Tenure of office
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+    - [Sch. 1 para. 5B](schedule/1/paragraph/5B.md)
+  - Disqualification of members of Authority for House of Commons and Northern Ireland Assembly
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Remuneration and pensions of members
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Instruments
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Investigation by Parliamentary Commissioner
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Application of Statutory Instruments Act 1946
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Activities for which licences may be granted
+  - Licences for treatment
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Embryo testing
+    - [Sch. 2 para. 1ZA](schedule/2/paragraph/1ZA.md)
+  - Sex selection
+    - [Sch. 2 para. 1ZB](schedule/2/paragraph/1ZB.md)
+  - Power to amend paragraphs 1ZA and 1ZB
+    - [Sch. 2 para. 1ZC](schedule/2/paragraph/1ZC.md)
+  - Licences for non-medical fertility services
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Licences for storage
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Licences for research
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Purposes for which activities may be licensed under paragraph 3
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - General
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Consents to use OR STORAGE OF GAMETES, EMBRYOS OR HUMAN ADMIXED EMBRYOS ETC
+  - Consent
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Procedure for giving consent
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Variation and withdrawal of consent
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+  - Use of gametes for treatment of others
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - In vitro fertilisation and subsequent use of embryo
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Embryos obtained by lavage, etc.
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Storage of gametes and embryos
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Cases where consent not required for storage
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Renewal of consent to storage of gametes
+    - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+    - [Sch. 3 para. 11B](schedule/3/paragraph/11B.md)
+  - Renewal of consent to storage of embryos
+    - [Sch. 3 para. 11C](schedule/3/paragraph/11C.md)
+    - [Sch. 3 para. 11D](schedule/3/paragraph/11D.md)
+  - Creation, use and storage of human admixed embryos
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Parental consent conditions
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Adults lacking capacity: exemption relating to use of human cells etc.
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Consent to use of human cells etc. not required: adult lacking capacity
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Consulting carers etc. in case of adult lacking capacity
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Effect of acquiring capacity
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Use of cells or cell lines in existence before relevant commencement date
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Conditions for grant of exemption in paragraph 20
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Interpretation
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 3ZA CIRCUMSTANCES IN WHICH OFFER OF COUNSELLING REQUIRED AS CONDITION OF LICENCE FOR TREATMENT
+  - Part 1 Kinds of treatment in relation to which counselling must be offered
+    - [Sch. 3ZA para. 1](schedule/3ZA/paragraph/1.md)
+    - [Sch. 3ZA para. 2](schedule/3ZA/paragraph/2.md)
+    - [Sch. 3ZA para. 3](schedule/3ZA/paragraph/3.md)
+  - Part 2 Events in connection with which counselling must be offered
+    - [Sch. 3ZA para. 4](schedule/3ZA/paragraph/4.md)
+    - [Sch. 3ZA para. 5](schedule/3ZA/paragraph/5.md)
+    - [Sch. 3ZA para. 6](schedule/3ZA/paragraph/6.md)
+    - [Sch. 3ZA para. 7](schedule/3ZA/paragraph/7.md)
+- SCHEDULE 3A SUPPLEMENTARY LICENCE CONDITIONS: HUMAN APPLICATION
+  - [Sch. 3A para. A1](schedule/3A/paragraph/A1.md)
+  - Modification of the definition of partner donation in the second Directive
+    - [Sch. 3A para. B1](schedule/3A/paragraph/B1.md)
+  - Traceability system
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Serious adverse events and serious adverse reactions: Great Britain
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Serious adverse events and serious adverse reactions: Northern Ireland
+    - [Sch. 3A para. 3A](schedule/3A/paragraph/3A.md)
+  - Third party agreements and termination of licensed activities
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Requirements for procurement of gametes and embryos
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+  - Selection criteria and laboratory tests required for donors of reproductive cells
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+    - [Sch. 3A para. 7A](schedule/3A/paragraph/7A.md)
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Donation and procurement procedures and reception at the tissue establishment
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+  - Requirements for holding a licence under paragraph 1, 1A or 2 of Schedule 2
+    - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+  - Requirements for holding a licence for gametes and embryo preparation processes
+    - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+  - Modifications to the first, second and third Directives
+    - [Sch. 3A para. 11A](schedule/3A/paragraph/11A.md)
+    - [Sch. 3A para. 11B](schedule/3A/paragraph/11B.md)
+    - [Sch. 3A para. 11C](schedule/3A/paragraph/11C.md)
+  - Interpretation of this Schedule
+    - [Sch. 3A para. 12](schedule/3A/paragraph/12.md)
+- SCHEDULE 3AA Requirements where gametes or embryos imported from third country
+  - [Sch. 3AA para. A1](schedule/3AA/paragraph/A1.md)
+  - Directions
+    - [Sch. 3AA para. 1](schedule/3AA/paragraph/1.md)
+    - [Sch. 3AA para. 2](schedule/3AA/paragraph/2.md)
+    - [Sch. 3AA para. 3](schedule/3AA/paragraph/3.md)
+  - Modifications to the fourth Directive
+    - [Sch. 3AA para. 3A](schedule/3AA/paragraph/3A.md)
+  - Interpretation of this Schedule
+    - [Sch. 3AA para. 4](schedule/3AA/paragraph/4.md)
+- SCHEDULE 3B Inspection, entry, search and seizure
+  - Inspection of statutory records
+    - [Sch. 3B para. 1](schedule/3B/paragraph/1.md)
+  - Inspection of documents held by an importing licensee
+    - [Sch. 3B para. 1A](schedule/3B/paragraph/1A.md)
+  - Arranging inspections
+    - [Sch. 3B para. 2](schedule/3B/paragraph/2.md)
+  - Entry and inspection of premises
+    - [Sch. 3B para. 3](schedule/3B/paragraph/3.md)
+    - [Sch. 3B para. 4](schedule/3B/paragraph/4.md)
+    - [Sch. 3B para. 4A](schedule/3B/paragraph/4A.md)
+  - Entry and search in connection with suspected offence
+    - [Sch. 3B para. 5](schedule/3B/paragraph/5.md)
+  - Execution of warrants
+    - [Sch. 3B para. 6](schedule/3B/paragraph/6.md)
+  - Seizure in the course of inspection or search
+    - [Sch. 3B para. 7](schedule/3B/paragraph/7.md)
+  - Supplementary provision
+    - [Sch. 3B para. 8](schedule/3B/paragraph/8.md)
+    - [Sch. 3B para. 9](schedule/3B/paragraph/9.md)
+  - Enforcement
+    - [Sch. 3B para. 10](schedule/3B/paragraph/10.md)
+  - Interpretation
+    - [Sch. 3B para. 11](schedule/3B/paragraph/11.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - Family Law Reform Act 1969 (c. 46.)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Social Security Act 1975 (c. 14.)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Social Security (Northern Ireland) Act 1975 (c. 15.)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Adoption Act 1976 (c. 36.)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Family Law Reform (Northern Ireland) Order 1977 (S. I. 1977/1250 (N. I. 17))
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Adoption (Scotland) Act 1978 (c. 28.)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Adoption (Northern Ireland) Order 1987 (S. I. 1987/2203 (N. I. 22))
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Human Organ Transplants Act 1989 (c. 31.)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Human Organ Transplants (Northern Ireland) Order 1989 (S.I. 1989/2408 (N.I. 21)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
