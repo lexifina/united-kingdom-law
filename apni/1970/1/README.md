@@ -1,0 +1,104 @@
+# Harbours Act (Northern Ireland) 1970
+
+apni/1970/1. Enacted 1970-02-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-12-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1970/1/2024-12-01
+
+## Contents
+
+- PART I HARBOUR DEVELOPMENT AND HARBOUR CHARGES
+  - Harbour Orders
+    - [s. 1 Harbour orders.](section/1.md)
+  - Exchequer Assistance for Execution of Harbour Works, &c.
+    - [s. 2 Loans for execution of harbour works, etc.](section/2.md)
+    - [s. 3 Grants for execution of harbour works, &c.](section/3.md)
+    - [s. 4 Maximum amount of loans and grants under sections 2 and 3.](section/4.md)
+    - [s. 4A Grants payable to certain harbour authorities in relation to expenses](section/4A.md)
+  - Harbour Charges
+    - [s. 5 Repeal of provisions limiting discretion of certain harbour authorities as to charges chargeable by them.](section/5.md)
+    - [s. 6 Availability of copies of lists of certain charges.](section/6.md)
+    - [s. 7 Right of objection to ship, passenger and goods dues.](section/7.md)
+    - [s. 8 Special provisions with respect to certain aviation charges.](section/8.md)
+    - [s. 9 Repeal of certain enactments relating to harbour charges.](section/9.md)
+- PART II HARBOURS VESTED IN LOCAL AUTHORITIES
+  - [s. 10 Powers of authorities.](section/10.md)
+  - [s. 11 Tidal works.](section/11.md)
+  - [s. 12 Charges and leases by authorities.](section/12.md)
+  - [s. 13 Application of provisions of Harbours, Docks and Piers Clauses Act.](section/13.md)
+  - [s. 14 Byelaws.](section/14.md)
+  - [s. 15 Harbour masters.](section/15.md)
+  - [s. 16 Execution of certain operations in pursuance of orders of the Ministry.](section/16.md)
+  - [s. 17 Discontinuation of a harbour’s maintenance.](section/17.md)
+  - [s. 18 Suspension of use of harbours.](section/18.md)
+  - [s. 20 Order of application of authority’s revenue.](section/20.md)
+  - [s. 21 Exercise of power to grant leases and exclusive rights.](section/21.md)
+  - [s. 22 Interpretation (Part II).](section/22.md)
+- PART III MISCELLANEOUS
+  - Powers of Harbour Authorities
+    - [s. 23 Power of harbour authorities to provide inland clearance depots.](section/23.md)
+    - [s. 24 Power of harbour authorities to acquire a harbour business or shares in a harbour business.](section/24.md)
+    - [s. 25 Miscellaneous powers of harbour authorities.](section/25.md)
+    - [s. 26 Compulsory acquisition of land by harbour authorities.](section/26.md)
+    - [s. 27 Water supplies.](section/27.md)
+  - Furnishing of Information
+    - [s. 28 Power of Ministry to obtain information and forecasts.](section/28.md)
+    - [s. 29 Information in relation to grants and loans.](section/29.md)
+  - Financial Provisions
+    - [s. 30 Accounts, &c., relating to harbour authorities.](section/30.md)
+    - [s. 31 Borrowing by harbour authorities.](section/31.md)
+    - [s. 32 Over-riding of limits on borrowing powers of harbour authorities.](section/32.md)
+    - [s. 33 Miscellaneous financial provisions.](section/33.md)
+  - Miscellaneous
+    - [s. 36 Transitional provisions and repeals.](section/36.md)
+    - [s. 37](section/37.md)
+    - [s. 38 Interpretation.](section/38.md)
+    - [s. 39 Power to amend Acts of local application.](section/39.md)
+    - [s. 40 Saving for private Bills.](section/40.md)
+    - [s. 41 Short title.](section/41.md)
+- SCHEDULE 1 OBJECTS FOR WHOSE ACHIEVEMENT HARBOUR ORDERS MAY BE MADE
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 FURTHER PROVISIONS RELATING TO HARBOUR ORDERS
+  - PART I PROVISIONS WHICH HARBOUR ORDERS MAY CONTAIN
+    - [Sch. 2 Pt. I para. 1](schedule/2/part/I/paragraph/1.md)
+    - [Sch. 2 Pt. I para. 2](schedule/2/part/I/paragraph/2.md)
+    - [Sch. 2 Pt. I para. 3](schedule/2/part/I/paragraph/3.md)
+    - [Sch. 2 Pt. I para. 4](schedule/2/part/I/paragraph/4.md)
+    - [Sch. 2 Pt. I para. 5](schedule/2/part/I/paragraph/5.md)
+  - PART II PROVISIONS FOR CONTROLLING SHIP MOVEMENTS
+    - [Sch. 2 Pt. II para. 1](schedule/2/part/II/paragraph/1.md)
+    - [Sch. 2 Pt. II para. 2](schedule/2/part/II/paragraph/2.md)
+    - [Sch. 2 Pt. II para. 3](schedule/2/part/II/paragraph/3.md)
+    - [Sch. 2 Pt. II para. 4](schedule/2/part/II/paragraph/4.md)
+    - [Sch. 2 Pt. II para. 5](schedule/2/part/II/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 CONDITIONS RELATING TO TIDAL WORKS
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 MODIFICATIONS OF SECTION 22(2) OF AND SCHEDULE 2 TO THE LOCAL GOVERNMENT ACT (NORTHERN IRELAND) 1934 FOR THE PURPOSES OF SECTION 26
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
