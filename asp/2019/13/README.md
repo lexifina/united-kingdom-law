@@ -1,0 +1,161 @@
+# Planning (Scotland) Act 2019
+
+asp/2019/13. Enacted 2019-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-12-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2019/13
+
+Source: https://www.legislation.gov.uk/asp/2019/13/2024-12-05
+
+## Contents
+
+- PART 1 Development planning
+  - Development planning
+    - [s. 1 Purpose of planning](section/1.md)
+    - [s. 2 National Planning Framework](section/2.md)
+    - [s. 3 Open space strategy](section/3.md)
+    - [s. 4 Housing needs of older people and disabled people: parliamentary report](section/4.md)
+    - [s. 5 Strategic development: regional spatial strategies](section/5.md)
+    - [s. 6 Removal of requirement to prepare strategic development plans](section/6.md)
+    - [s. 7 Local development plans](section/7.md)
+    - [s. 8 List of persons seeking land for self-build housing](section/8.md)
+    - [s. 9 Supplementary guidance](section/9.md)
+    - [s. 10 Key agencies](section/10.md)
+    - [s. 11 Delivery programmes](section/11.md)
+    - [s. 12 Amendment of National Planning Framework and local development plans](section/12.md)
+    - [s. 13 Development plan](section/13.md)
+  - Local place plans
+    - [s. 14 Local place plans](section/14.md)
+- PART 2 Masterplan consent areas
+  - [s. 15 Masterplan consent area schemes](section/15.md)
+  - [s. 16 Bar to creation of new simplified planning zones](section/16.md)
+- PART 3 Development management
+  - Meaning of “development”
+    - [s. 17 Meaning of “development”: use of dwellinghouse for short-term holiday lets](section/17.md)
+  - Applications
+    - [s. 18 Pre-application consultation](section/18.md)
+    - [s. 19 Assessment of health effects](section/19.md)
+    - [s. 20 Regulations about procedure for certain applications](section/20.md)
+    - [s. 21 Removal of requirement to recover costs before determining certain applications](section/21.md)
+    - [s. 22 Declining to determine an application](section/22.md)
+  - Notice by planning authority of certain applications made to them
+    - [s. 23 Notice by planning authority of certain applications made to them](section/23.md)
+  - Assessment of environmental effects
+    - [s. 24 Assessment of environmental effects](section/24.md)
+  - Conditional grant of planning permission: noise-sensitive developments
+    - [s. 25 Conditional grant of planning permission: noise-sensitive developments](section/25.md)
+  - Conditional grant of planning permission: provision of toilet facilities within certain large developments
+    - [s. 26 Conditional grant of planning permission: provision of toilet facilities within certain large developments](section/26.md)
+  - Delegation of development decisions
+    - [s. 27 Delegation of development decisions](section/27.md)
+    - [s. 28 Schemes of delegation](section/28.md)
+  - Call-in of applications by Scottish Ministers: further provision
+    - [s. 29 Call-in of applications by Scottish Ministers: further provision](section/29.md)
+  - Determination of applications: statement to accompany notification
+    - [s. 30 Determination of applications: statement to accompany notification](section/30.md)
+  - Agreements relating to period before which an appeal may be made
+    - [s. 31 Agreements relating to period before which an appeal may be made](section/31.md)
+  - Duration of planning permission
+    - [s. 32 Duration of planning permission](section/32.md)
+    - [s. 33 Completion notices](section/33.md)
+  - Planning obligations
+    - [s. 34 Planning obligations: financial agreements](section/34.md)
+    - [s. 35 Planning obligations: publication](section/35.md)
+    - [s. 36 Planning obligations: annual report](section/36.md)
+    - [s. 37 Planning obligations: modification or discharge](section/37.md)
+  - Declining to determine an application: further provision
+    - [s. 38 Declining to determine an application: further provision](section/38.md)
+  - Development orders
+    - [s. 39 Withdrawal of planning permission granted by development order](section/39.md)
+- PART 4 Other matters
+  - Promotion and use of mediation etc.
+    - [s. 40 Promotion and use of mediation etc.](section/40.md)
+  - Charges and fees
+    - [s. 41 Fees for planning applications etc.](section/41.md)
+  - Enforcement
+    - [s. 42 Fines: increases and duty of court in determining amount](section/42.md)
+    - [s. 43 Liability for expenses under enforcement notice](section/43.md)
+    - [s. 44 Enforcement charters: statement on major developments](section/44.md)
+  - Training for taking planning decisions
+    - [s. 45 Power to impose training requirements: planning authorities](section/45.md)
+  - Performance of planning authorities
+    - [s. 46 Annual report by planning authorities on performance](section/46.md)
+    - [s. 47 National performance monitoring](section/47.md)
+  - Regulations
+    - [s. 48 Regulations](section/48.md)
+  - Ministerial directions
+    - [s. 49 Publication of directions](section/49.md)
+  - Chief planning officers
+    - [s. 50 Chief planning officers](section/50.md)
+  - National Scenic Areas
+    - [s. 51 National Scenic Areas](section/51.md)
+  - Notice by planning authority of applications for listed building consent
+    - [s. 52 Notice by planning authority of applications for listed building consent](section/52.md)
+  - Forestry and woodland strategy
+    - [s. 53 Forestry and woodland strategy](section/53.md)
+- PART 5 Infrastructure levy
+  - [s. 54 Power to provide for levy](section/54.md)
+  - [s. 55 Guidance](section/55.md)
+  - [s. 56 Interpretation of Part and schedule](section/56.md)
+  - [s. 57 Power to change meaning of “infrastructure”](section/57.md)
+  - [s. 58 Lapsing of power to provide for levy](section/58.md)
+- PART 6 Final provisions
+  - [s. 59 Ancillary provision](section/59.md)
+  - [s. 60 Power to replace descriptions with actual dates](section/60.md)
+  - [s. 61 Regulation-making powers](section/61.md)
+  - [s. 62 Minor and consequential amendments and repeals](section/62.md)
+  - [s. 63 Commencement](section/63.md)
+  - [s. 64 Short title](section/64.md)
+- SCHEDULE 1 Infrastructure-levy regulations
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Who is liable for what
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Relief where relevant planning obligation
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Local exemptions and discounts
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Collection and enforcement
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Financial penalty for late payment
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Stopping development
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Remission and repayment
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Appeals
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Accounting requirements
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Expenditure of levy income
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Use of planning and development powers
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Maximum penalties
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Minor and consequential amendments and repeals
+  - PART 1 Development planning
+    - Removal of requirement to prepare strategic development plans
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Local development plans
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Delivery programmes
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Development plan
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 2 Masterplan consent areas
+    - Masterplan consent area schemes
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 3 Development management
+    - Duration of planning permission
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Schemes of delegation and local review
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Development orders
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - PART 4 Regulations
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
