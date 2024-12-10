@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-08-23, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-12-10, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-08-23
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-12-10
 
 ## Contents
 
@@ -497,7 +497,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2024-08-23
   - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
   - [Sch. 7 para. 27 Sexual exploitation](schedule/7/paragraph/27.md)
   - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
-  - [Sch. 7 para. 29 Sexual images](schedule/7/paragraph/29.md)
+  - [Sch. 7 para. 28A](schedule/7/paragraph/28A.md)
+  - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
   - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
   - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
   - [Sch. 7 para. 32 Proceeds of crime](schedule/7/paragraph/32.md)
