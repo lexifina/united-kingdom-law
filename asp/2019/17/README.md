@@ -1,0 +1,218 @@
+# Transport (Scotland) Act 2019
+
+asp/2019/17. Enacted 2019-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2024-12-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2019/17/2024-12-26
+
+## Contents
+
+- PART 1 National transport strategy
+  - [s. 1 Preparation of strategy](section/1.md)
+  - [s. 2 Consultation on strategy](section/2.md)
+  - [s. 3 Publication and laying of strategy](section/3.md)
+  - [s. 4 Review of strategy](section/4.md)
+  - [s. 5 Reporting on strategy](section/5.md)
+- PART 2 Low emission zones
+  - CHAPTER 1 Effect of a low emission zone scheme
+    - [s. 6 Restriction on driving within a zone](section/6.md)
+    - [s. 7 Proving contraventions and issue of a penalty charge notice](section/7.md)
+    - [s. 8 Enforcement](section/8.md)
+  - CHAPTER 2 Creation and modification of a low emission zone scheme
+    - Process
+      - [s. 9 Power to make or modify a low emission zone scheme](section/9.md)
+      - [s. 10 Ministerial approval](section/10.md)
+      - [s. 11 Prior consultation](section/11.md)
+      - [s. 12 Examination of proposals](section/12.md)
+      - [s. 13 Ministers’ power to regulate process](section/13.md)
+    - Content
+      - [s. 14 Required content of a scheme](section/14.md)
+      - [s. 15 Grace period](section/15.md)
+      - [s. 16 Grace periods: further provision](section/16.md)
+      - [s. 17 Time-limited exemptions](section/17.md)
+      - [s. 18 Power to alter operating hours](section/18.md)
+      - [s. 19 Ministers’ power to specify additional content](section/19.md)
+  - CHAPTER 3 Operation of a low emission zone scheme
+    - Equipment and signs
+      - [s. 20 Use of equipment](section/20.md)
+      - [s. 21 Approved devices](section/21.md)
+      - [s. 22 Traffic signs](section/22.md)
+    - Information sharing
+      - [s. 23 Power to share information](section/23.md)
+    - Temporary suspension for events
+      - [s. 24 Temporary suspension for events](section/24.md)
+    - Finances and reporting etc.
+      - [s. 25 Ministers’ grant-making powers](section/25.md)
+      - [s. 26 Financial powers etc.](section/26.md)
+      - [s. 27 Application of penalty charges](section/27.md)
+      - [s. 28 Accounts](section/28.md)
+      - [s. 29 Annual report](section/29.md)
+    - Performance of a scheme
+      - [s. 30 Direction to carry out a review](section/30.md)
+      - [s. 31 Action following a review](section/31.md)
+  - CHAPTER 4 General
+    - [s. 32 Guidance](section/32.md)
+    - [s. 33 Interpretation of Part](section/33.md)
+- PART 3 Bus services
+  - Provision of services by local transport authorities
+    - [s. 34 Provision of bus services etc. by local transport authorities](section/34.md)
+  - Bus services improvement partnerships
+    - [s. 35 Bus services improvement partnerships](section/35.md)
+    - [s. 36 Procedures for partnership plans and schemes](section/36.md)
+    - [s. 37 Registration of local services and functions of traffic commissioner](section/37.md)
+  - Local services franchises
+    - [s. 38 Franchising arrangements for local services](section/38.md)
+  - Information relating to services
+    - [s. 39 Provision of service information when varying or cancelling registration](section/39.md)
+    - [s. 40 Provision of information about bus services](section/40.md)
+- PART 4 Ticketing arrangements and schemes
+  - [s. 41 Ticketing arrangements](section/41.md)
+  - [s. 42 National technological standard for smart ticketing](section/42.md)
+  - [s. 43 National Smart Ticketing Advisory Board](section/43.md)
+  - [s. 44 Ticketing schemes](section/44.md)
+  - [s. 45 Directions about ticketing schemes](section/45.md)
+  - [s. 46 Reports on ticketing arrangements and schemes](section/46.md)
+  - [s. 47 Application of ticketing arrangements and schemes to trams](section/47.md)
+  - [s. 48 Guidance](section/48.md)
+- PART 5 Travel concession schemes: application to community transport
+  - [s. 49 Travel concession schemes: application to community transport](section/49.md)
+- PART 6 Parking prohibitions
+  - Pavement parking prohibition
+    - [s. 50 Pavement parking prohibition](section/50.md)
+    - [s. 51 Exemption orders](section/51.md)
+    - [s. 52 Exemption orders: form and procedure](section/52.md)
+    - [s. 53 Exemption orders: traffic signs](section/53.md)
+  - Double parking prohibition
+    - [s. 54 Double parking prohibition](section/54.md)
+  - Exceptions to pavement parking prohibition and double parking prohibition
+    - [s. 55 Exceptions to pavement parking prohibition and double parking prohibition](section/55.md)
+  - Dropped footway parking prohibition
+    - [s. 56 Dropped footway parking prohibition](section/56.md)
+    - [s. 57 Exceptions to dropped footway parking prohibition](section/57.md)
+  - Enforcement of parking prohibitions
+    - [s. 58 Imposition of penalty charges](section/58.md)
+    - [s. 59 Enforcement of parking prohibitions](section/59.md)
+    - [s. 60 Power to install approved devices](section/60.md)
+  - Removal, moving and disposal of motor vehicles
+    - [s. 61 Removal of motor vehicles parked contrary to parking prohibitions](section/61.md)
+    - [s. 62 Moving motor vehicles parked contrary to parking prohibitions](section/62.md)
+    - [s. 63 Disposal of removed motor vehicles](section/63.md)
+  - Arrangements in connection with enforcement
+    - [s. 64 Arrangements in connection with enforcement](section/64.md)
+  - Information sharing
+    - [s. 65 Power to share information](section/65.md)
+  - Accounts
+    - [s. 66 Accounts](section/66.md)
+  - Ministerial directions and guidance
+    - [s. 67 Ministerial directions](section/67.md)
+    - [s. 68 Ministerial guidance](section/68.md)
+  - Interpretation of Part 6
+    - [s. 69 Interpretation of Part 6](section/69.md)
+- PART 7 Workplace parking
+  - Workplace parking licensing schemes
+    - [s. 70 Workplace parking licensing schemes](section/70.md)
+    - [s. 71 Workplace parking places](section/71.md)
+  - Making and modifying schemes
+    - [s. 72 Power to make and modify schemes](section/72.md)
+    - [s. 73 Prior consultation and impact assessment](section/73.md)
+    - [s. 74 Scottish Ministers’ power to regulate process](section/74.md)
+    - [s. 75 Examination of proposals](section/75.md)
+  - Workplace parking licences
+    - [s. 76 Licence applications and processes](section/76.md)
+    - [s. 77 Content of licences](section/77.md)
+  - Exemptions
+    - [s. 78 Exemptions etc.](section/78.md)
+    - [s. 79 National exemptions](section/79.md)
+  - Financial provisions
+    - [s. 80 Charges](section/80.md)
+    - [s. 81 Application of net proceeds of workplace parking licensing schemes](section/81.md)
+    - [s. 82 Accounts](section/82.md)
+  - Enforcement
+    - [s. 83 Penalty charges](section/83.md)
+    - [s. 84 Evidence from approved devices](section/84.md)
+    - [s. 85 Enforcement powers](section/85.md)
+    - [s. 86 Enforcement powers: warrants](section/86.md)
+    - [s. 87 Enforcement powers: further provision](section/87.md)
+    - [s. 88 Power of entry: Crown land](section/88.md)
+    - [s. 89 Interpretation of Part](section/89.md)
+- PART 8 Recovery of unpaid parking charges
+  - Application
+    - [s. 90 Application of Part](section/90.md)
+  - Key concepts
+    - [s. 91 Meaning of “relevant obligation”](section/91.md)
+    - [s. 92 Meaning of “parking charge”](section/92.md)
+    - [s. 93 Meaning of “relevant contract”](section/93.md)
+    - [s. 94 Meaning of “relevant land”](section/94.md)
+  - Right to recover unpaid charges from keeper of vehicle
+    - [s. 95 Right in certain circumstances to recover from keeper of vehicle](section/95.md)
+    - [s. 96 First condition: lack of knowledge of driver’s name and address](section/96.md)
+    - [s. 97 Second condition: giving of notices to driver and keeper](section/97.md)
+    - [s. 98 Giving of notice to driver](section/98.md)
+    - [s. 99 Giving of notice to keeper following giving notice to driver](section/99.md)
+    - [s. 100 Giving of notice to keeper without giving notice to driver](section/100.md)
+    - [s. 101 Notices to keeper: accompanying evidence](section/101.md)
+    - [s. 102 Third condition: keeper’s details obtained from Secretary of State](section/102.md)
+    - [s. 103 Fourth condition: display of notices on relevant land](section/103.md)
+  - Hire vehicles
+    - [s. 104 No right to recover from vehicle-hire firm](section/104.md)
+    - [s. 105 Right to recover from hirer](section/105.md)
+  - Military vehicles
+    - [s. 106 Military vehicles](section/106.md)
+  - General
+    - [s. 107 Power to modify Part](section/107.md)
+    - [s. 108 Interpretation of Part](section/108.md)
+- PART 9 Road works
+  - Scottish Road Works Commissioner: status and functions
+    - [s. 109 Status of the Scottish Road Works Commissioner](section/109.md)
+    - [s. 110 Inspection functions](section/110.md)
+    - [s. 111 Compliance notices](section/111.md)
+    - [s. 112 Fixed penalty notices](section/112.md)
+    - [s. 113 Functions in relation to the Scottish Road Works Register](section/113.md)
+  - Permission to execute works in a road
+    - [s. 114 Permission to execute works in a road](section/114.md)
+  - Safety measures for the carrying out of works in roads
+    - [s. 115 Fencing and lighting of obstructions and excavations](section/115.md)
+    - [s. 116 Qualifications of supervisors and operatives](section/116.md)
+  - Commencement and completion notices
+    - [s. 117 Commencement and completion notices](section/117.md)
+  - Reinstatement of roads following works
+    - [s. 118 Reinstatement quality plans](section/118.md)
+  - Information about apparatus
+    - [s. 119 Information about apparatus](section/119.md)
+- PART 10 Miscellaneous and general
+  - Health boards: duty to have regard to community benefit in non-emergency patient transport contracts
+    - [s. 120 Health boards: duty to have regard to community benefit in non-emergency patient transport contracts](section/120.md)
+  - Health boards: duty to work with community transport bodies
+    - [s. 121 Health boards: duty to work with community transport bodies](section/121.md)
+  - Regional Transport Partnerships: finance
+    - [s. 122 Regional Transport Partnerships: finance](section/122.md)
+  - The British Waterways Board
+    - [s. 123 The British Waterways Board](section/123.md)
+  - Certain orders under the Roads (Scotland) Act 1984: objections
+    - [s. 124 Certain orders under the Roads (Scotland) Act 1984: objections](section/124.md)
+  - General
+    - [s. 125 Individual culpability where offending by an organisation](section/125.md)
+    - [s. 126 Crown application](section/126.md)
+    - [s. 127 Minor and consequential amendments and repeals](section/127.md)
+    - [s. 128 Regulations](section/128.md)
+    - [s. 129 Ancillary provision](section/129.md)
+    - [s. 130 Commencement](section/130.md)
+    - [s. 131 Short title](section/131.md)
+- SCHEDULE Minor and consequential amendments and repeals
+  - PART 1 Bus services
+    - Road Traffic Regulation Act 1984
+      - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - Transport Act 1985
+      - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - Transport (Scotland) Act 2001
+      - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - Transport (Scotland) Act 2005
+      - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - PART 2 Road works
+    - Roads (Scotland) Act 1984
+      - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - New Roads and Street Works Act 1991
+      - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - Transport (Scotland) Act 2005
+      - [Sch. paragraph 7](schedule/paragraph/7.md)
