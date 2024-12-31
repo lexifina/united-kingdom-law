@@ -2,9 +2,9 @@
 
 2023 c. 29. Enacted 2023-06-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-12-17, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2024-12-31, one file per provision. Earlier versions, from 2023-06-29, are in the history before it: `git log -- ukpga/2023/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/29/2024-12-17
+Source: https://www.legislation.gov.uk/ukpga/2023/29/2024-12-31
 
 ## Contents
 
@@ -147,9 +147,9 @@ Source: https://www.legislation.gov.uk/ukpga/2023/29/2024-12-17
     - [Sch. 2 para. 13 Share trading obligation](schedule/2/paragraph/13.md)
     - [Sch. 2 para. 14 Share trading obligation](schedule/2/paragraph/14.md)
     - [Sch. 2 para. 15 Derivatives trading obligation](schedule/2/paragraph/15.md)
-    - [Sch. 2 para. 16 Derivatives trading obligation](schedule/2/paragraph/16.md)
-    - [Sch. 2 para. 17 Derivatives trading obligation](schedule/2/paragraph/17.md)
-    - [Sch. 2 para. 18 Derivatives trading obligation](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
     - [Sch. 2 para. 19 Consequential amendments relating to this Part](schedule/2/paragraph/19.md)
     - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
     - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
