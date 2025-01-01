@@ -1,0 +1,134 @@
+# Opticians Act 1989
+
+1989 c. 44. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 103 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/44
+
+Source: https://www.legislation.gov.uk/ukpga/1989/44/2025-01-01
+
+## Contents
+
+- Part I The General Optical Council
+  - The Council
+    - [s. 1 Constitution and functions of the Council.](section/1.md)
+  - The Council’s Committees
+    - [s. 2 The Education Committee.](section/2.md)
+    - [s. 3 The Companies Committee](section/3.md)
+    - [s. 4 The Investigation Committee](section/4.md)
+    - [s. 5 The Registration Committee](section/5.md)
+    - [s. 5A The Registration Appeals Committee](section/5A.md)
+    - [s. 5B The Standards Committee](section/5B.md)
+    - [s. 5C The Fitness to Practise Committee](section/5C.md)
+    - [s. 5D The Hearings Panel](section/5D.md)
+    - [s. 6 General power to appoint committees.](section/6.md)
+    - [s. 6A Powers of delegation](section/6A.md)
+- Part II Registration and Training of Opticians
+  - The registers and lists
+    - [s. 7 Registers of opticians.](section/7.md)
+    - [s. 8 Qualifications for being registered.](section/8.md)
+    - [s. 8ZA Section 8: further provision relating to specified state qualifications](section/8ZA.md)
+    - [s. 8A Registers of students](section/8A.md)
+    - [s. 8B Visiting opticians from relevant European States: registers](section/8B.md)
+    - [s. 8C Visiting optometrists: entitlement to registration](section/8C.md)
+    - [s. 8D Visiting dispensing opticians: entitlement to registration](section/8D.md)
+    - [s. 9 List of bodies corporate carrying on business as opticians.](section/9.md)
+    - [s. 10 General provisions as to registers and lists.](section/10.md)
+    - [s. 10A Indemnity arrangements for individual registrants and persons applying for their name to be registered](section/10A.md)
+    - [s. 11 Publication of registers and proof of registration](section/11.md)
+  - Training and Qualifications
+    - [s. 11A Requirement for continuing education and training](section/11A.md)
+    - [s. 11B Failure to satisfy requirements imposed under a scheme](section/11B.md)
+    - [s. 12 Education and training](section/12.md)
+    - [s. 13 Supervision of training establishments and qualifying assessments.](section/13.md)
+- PART 2A FITNESS TO PRACTISE
+  - [s. 13A The Council’s duty to provide guidance on fitness to practise](section/13A.md)
+  - [s. 13AA Information to be provided to specified state professionals](section/13AA.md)
+  - [s. 13B The Council’s power to require disclosure of information](section/13B.md)
+  - [s. 13C Notification and disclosure by the Council](section/13C.md)
+  - [s. 13D Allegations](section/13D.md)
+  - [s. 13E Provisions supplementary to section 13D](section/13E.md)
+  - [s. 13F Powers of the Fitness to Practise Committee](section/13F.md)
+  - [s. 13G Provisions supplementary to section 13F](section/13G.md)
+  - [s. 13H Financial penalty order](section/13H.md)
+  - [s. 13I Power to order immediate suspension etc. after a finding of impairment of fitness to practise](section/13I.md)
+  - [s. 13J Removal from a register on grounds of fraud or error](section/13J.md)
+  - [s. 13K Restoration of names to a register](section/13K.md)
+  - [s. 13L Interim orders](section/13L.md)
+  - [s. 13M Provisions supplementary to section 13L](section/13M.md)
+- Part III Disciplinary Proceedings
+  - [s. 14 Disciplinary orders.](section/14.md)
+  - [s. 15 Suspension orders.](section/15.md)
+  - [s. 16 Penalty orders.](section/16.md)
+  - [s. 17 Powers of Disciplinary Committee.](section/17.md)
+  - [s. 18 Restoration of names erased as result of disciplinary cases etc.](section/18.md)
+  - [s. 19 Erasure from register and list on grounds of fraud or error.](section/19.md)
+  - [s. 20 Service of notifications.](section/20.md)
+  - [s. 21 Procedure of Disciplinary Committee.](section/21.md)
+  - [s. 22 Assessors to Disciplinary Committee.](section/22.md)
+  - [s. 23 Appeals in disciplinary and other cases.](section/23.md)
+- PART 3A PROCEEDINGS AND APPEALS
+  - [s. 23A Service of notification](section/23A.md)
+  - [s. 23B Procedure of Fitness to Practise Committee and Registration Appeals Committee](section/23B.md)
+  - [s. 23C Powers of the Council to make rules](section/23C.md)
+  - [s. 23D Legal advisers](section/23D.md)
+  - [s. 23E Other advisers](section/23E.md)
+  - [s. 23F Registration appeals](section/23F.md)
+  - [s. 23G Appeals from the Registration Appeals Committee and the Fitness to Practise Committee](section/23G.md)
+  - [s. 23H Date decision takes effect](section/23H.md)
+- Part IV Restrictions On Testing Of Sight, Fitting Of Contact Lenses, Sale And Supply Of Optical Appliances And Use Of Titles And Descriptions
+  - [s. 24 Testing of sight.](section/24.md)
+  - [s. 25 Fitting of contact lenses.](section/25.md)
+  - [s. 26 Duties to be performed on sight testing.](section/26.md)
+  - [s. 27 Sale and supply of optical appliances.](section/27.md)
+  - [s. 28 Penalty for pretending to be registered etc.](section/28.md)
+  - [s. 29 Provision as to death or bankruptcy of registered optician.](section/29.md)
+  - [s. 30 Offences by bodies corporate.](section/30.md)
+  - [s. 30A Legal proceedings](section/30A.md)
+- Part V Miscellaneous And Supplementary
+  - Miscellaneous
+    - [s. 31 Miscellaneous matters with respect to which rules may be made.](section/31.md)
+    - [s. 31A Rules](section/31A.md)
+    - [s. 32 Expenses and accounts of the Council.](section/32.md)
+    - [s. 32A Annual reports, statistical reports and strategic plans](section/32A.md)
+    - [s. 33 Default powers of Privy Council.](section/33.md)
+    - [s. 34 Subordinate legislation procedure.](section/34.md)
+    - [s. 35 Privy Council quorum and documents.](section/35.md)
+  - Supplementary
+    - [s. 36 Interpretation.](section/36.md)
+    - [s. 37 Consequential amendments and repeals.](section/37.md)
+    - [s. 38 Commencement.](section/38.md)
+    - [s. 39 Short title and extent.](section/39.md)
+- SCHEDULE 1 Constitution etc. of Council
+  - Membership etc.
+    - [Sch. 1 para. 1A Membership: general](schedule/1/paragraph/1A.md)
+    - [Sch. 1 para. 1B Matters for the order of the Privy Council under section 1(4)](schedule/1/paragraph/1B.md)
+    - [Sch. 1 para. 1C Registration of members’ private interests](schedule/1/paragraph/1C.md)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para.](schedule/1/paragraph.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - The registrar
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Powers of Council
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+    - [Sch. 1 para. 12B](schedule/1/paragraph/12B.md)
+  - Power of Privy Council to alter membership of Council etc.
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 1A REGISTRATION APPEALS
+  - [Sch. 1A para. 1 Interpretation](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Appealable registration decisions](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Notice of appealable registration decisions](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Appeals from an appealable registration decision](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Extension of time for appealing](schedule/1A/paragraph/5.md)
+- SCHEDULE 2 Repeals
