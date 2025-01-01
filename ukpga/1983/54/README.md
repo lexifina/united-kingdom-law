@@ -1,0 +1,359 @@
+# Medical Act 1983
+
+1983 c. 54. Enacted 1983-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 201 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1983/54
+
+Source: https://www.legislation.gov.uk/ukpga/1983/54/2025-01-01
+
+## Contents
+
+- Part I Preliminary
+  - The General Medical Council
+    - [s. 1 The General Medical Council.](section/1.md)
+    - [s. 2 Registration of medical practitioners.](section/2.md)
+- Part II Medical Education and Registration: Persons Qualifying in the United Kingdom and Elsewhere in the EEC.
+  - [s. 3 Registration by virtue of primary United Kingdom or primary European qualifications.](section/3.md)
+  - [s. 4 Qualifying examinations and primary United Kingdom qualifications.](section/4.md)
+  - [s. 5 General functions of the General Council in relation to medical education in the United Kingdom.](section/5.md)
+  - [s. 6 Further powers of the General Council.](section/6.md)
+  - [s. 7 Power to appoint visitors of medical schools.](section/7.md)
+  - [s. 8 Power to add further qualifying examinations.](section/8.md)
+  - [s. 9 Powers of Privy Council where standards not maintained.](section/9.md)
+  - [s. 10 Experience required for full registration by virtue of primary United Kingdom qualifications.](section/10.md)
+  - [s. 10A Programmes for provisionally registered doctors](section/10A.md)
+  - [s. 10B Professional traineeships carried out in ... relevant European States, etc.](section/10B.md)
+  - [s. 11 Provisions supplementary to s. 10, etc.](section/11.md)
+  - [s. 12 Special provisions as to employment in health centres.](section/12.md)
+  - [s. 13 Power to appoint visitors of approved hospitals.](section/13.md)
+  - [s. 14 Alternative requirements as to experience in certain cases.](section/14.md)
+  - [s. 14A Full registration of EEA nationals etc without certain acquired rights certificates](section/14A.md)
+  - [s. 15 Provisional registration.](section/15.md)
+  - [s. 15A Provisional registration for EEA nationals etc](section/15A.md)
+  - [s. 16 Registration of qualifications.](section/16.md)
+  - [s. 17 Primary qualifications obtained in ... relevant European States.](section/17.md)
+  - [s. 18 Visiting medical practitioners from relevant European States](section/18.md)
+  - [s. 18A Temporary registration with regard to emergencies involving loss of human life or human illness etc.](section/18A.md)
+- Part III Registration of Persons Qualifying Overseas
+  - [s. 19 Full registration of EEA nationals etc. by virtue of overseas primary qualifications etc.](section/19.md)
+  - [s. 19A Full registration of EEA nationals etc by virtue of overseas qualifications accepted by a relevant European State ...](section/19A.md)
+  - [s. 20 Experience required for full registration by virtue of recognised overseas qualifications.](section/20.md)
+  - [s. 21 Provisional registration of EEA nationals etc. with certain overseas qualifications.](section/21.md)
+  - [s. 21A Full registration for eligible specialists and qualified general practitioners](section/21A.md)
+  - [s. 21B Full registration of persons with an overseas qualification](section/21B.md)
+  - [s. 21BA Further provision relating to the registration of specified state professionals](section/21BA.md)
+  - [s. 21C Provisional registration of persons with an overseas qualification](section/21C.md)
+  - [s. 22 Limited registration of persons by virtue of overseas qualifications.](section/22.md)
+  - [s. 23 Limited registration: supplementary provisions.](section/23.md)
+  - [s. 24 Limited registration: erasure.](section/24.md)
+  - [s. 25 Full registration of persons with limited registration.](section/25.md)
+  - [s. 26 Registration of qualifications.](section/26.md)
+  - [s. 27A Temporary registration for visiting eminent specialists](section/27A.md)
+  - [s. 27B Special purpose registration](section/27B.md)
+  - [s. 27 Temporary full registration for visiting overseas specialists.](section/27.md)
+  - [s. 28 The Review Board for Overseas Qualified Practitioners.](section/28.md)
+  - [s. 29 Functions of the Review Board.](section/29.md)
+- PART IIIA LICENCE TO PRACTISE AND REVALIDATION
+  - Duty of General Council to make regulations
+    - [s. 29A Regulations as to licence to practise and revalidation](section/29A.md)
+  - Grant, refusal and withdrawal of licence
+    - [s. 29B Grant, refusal and withdrawal of licence](section/29B.md)
+    - [s. 29C Dealing with questions as to impairment of fitness to practise](section/29C.md)
+  - Restoration of licence
+    - [s. 29D Restoration of licence](section/29D.md)
+  - Supplementary provisions
+    - [s. 29E Evidence](section/29E.md)
+    - [s. 29EA Disclosure by a licensing authority of information relating to revalidation](section/29EA.md)
+    - [s. 29F Appeals](section/29F.md)
+    - [s. 29G Guidance](section/29G.md)
+    - [s. 29GA Information for specified state professionals](section/29GA.md)
+    - [s. 29H Notices](section/29H.md)
+    - [s. 29J Miscellaneous](section/29J.md)
+- Part IV General Provisions Concerning Registration
+  - [s. 30 The registers.](section/30.md)
+  - [s. 30A The register: emergency powers doctors list](section/30A.md)
+  - [s. 31 Power to make regulations with respect to the registers.](section/31.md)
+  - [s. 31A Voluntary removal from ... any of the registers.](section/31A.md)
+  - [s. 32 Registration fees.](section/32.md)
+  - [s. 33 Supplementary provisions about registration.](section/33.md)
+  - [s. 34 Publication of the registers](section/34.md)
+  - [s. 34A Proof of registration](section/34A.md)
+  - [s. 34B Registration and training appeals](section/34B.md)
+- PART 4A POSTGRADUATE MEDICAL EDUCATION AND TRAINING
+  - [s. 34C The General Practitioner Register](section/34C.md)
+  - [s. 34D The Specialist Register](section/34D.md)
+  - [s. 34E Applications for inclusion in the General Practitioner Register or the Specialist Register](section/34E.md)
+  - [s. 34F Removal of names from the General Practitioner Register and the Specialist Register](section/34F.md)
+  - [s. 34G Acquired rights of general practitioners](section/34G.md)
+  - [s. 34H Postgraduate medical education and training: general functions](section/34H.md)
+  - [s. 34I Postgraduate medical education and training: approvals](section/34I.md)
+  - [s. 34J Minimum requirements for general practice training](section/34J.md)
+  - [s. 34K Minimum requirements for specialist training](section/34K.md)
+  - [s. 34L Award and withdrawal of a Certificate of Completion of Training](section/34L.md)
+  - [s. 34M Visitors](section/34M.md)
+  - [s. 34N Power to require information](section/34N.md)
+  - [s. 34O Fees](section/34O.md)
+- Part V Fitness to Practise and Medical Ethics
+  - [s. 35 General Council’s power to advise on conduct, performance or ethics](section/35.md)
+  - [s. 35A General Council’s power to require disclosure of information](section/35A.md)
+  - [s. 35B Notification and disclosure by the General Council](section/35B.md)
+  - [s. 35C Functions of the Investigation Committee](section/35C.md)
+  - [s. 35CC Provisions supplementary to section 35C](section/35CC.md)
+  - [s. 35D Functions of a Medical Practitioners Tribunal](section/35D.md)
+  - [s. 35E Provisions supplementary to section 35D](section/35E.md)
+  - [s. 36 Professional misconduct and criminal offences.](section/36.md)
+  - [s. 36A Professional performance.](section/36A.md)
+  - [s. 37 Unfitness to practise through illness, etc.](section/37.md)
+  - [s. 38 Power to order immediate suspension etc.](section/38.md)
+  - [s. 39 Fraud or error in relation to registration](section/39.md)
+  - [s. 40 Appeals...](section/40.md)
+  - [s. 40A Appeals by General Council](section/40A.md)
+  - [s. 40B Appeal under section 40A: role of Professional Standards Authority for Health and Social Care](section/40B.md)
+  - [s. 41 Restoration of names to the register.](section/41.md)
+  - [s. 41A Interim Orders](section/41A.md)
+  - [s. 41B Interim orders made by committees other than the Interim Orders Committee](section/41B.md)
+  - [s. 41C Effect of directions or orders on a licence to practise](section/41C.md)
+  - [s. 42 Preliminary proceedings as to professional misconduct and unfitness to practise.](section/42.md)
+  - [s. 43 Proceedings before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals](section/43.md)
+  - [s. 44 Effect of disqualification in ... relevant European State on registration in the United Kingdom.](section/44.md)
+  - [s. 44A Effect of disqualification or conviction on registration](section/44A.md)
+  - [s. 44B Provision of information in respect of fitness to practise matters](section/44B.md)
+  - [s. 44BA Fitness to practise of exempt persons: sufficient evidence](section/44BA.md)
+  - [s. 44C Indemnity arrangements](section/44C.md)
+  - [s. 44D Approved practice settings](section/44D.md)
+  - [s. 45 Disciplinary provisions affecting practitioners who render services while visiting the United Kingdom](section/45.md)
+- Part 5A Responsible Officers
+  - [s. 45A Requirement to nominate or appoint responsible officer](section/45A.md)
+  - [s. 45B Responsibilities of responsible officer](section/45B.md)
+  - [s. 45C Regulations under section 45A: further provisions](section/45C.md)
+  - [s. 45D Crown application](section/45D.md)
+  - [s. 45E Regulations under section 45A: supplementary provisions](section/45E.md)
+  - [s. 45F Interpretation of Part 5A](section/45F.md)
+- Part VI Privileges of Registered Practitioners
+  - [s. 46 Recovery of fees.](section/46.md)
+  - [s. 47 Appointments not to be held except by fully registered medical practitioners who hold licences to practise.](section/47.md)
+  - [s. 48 Certificates invalid if not signed by fully registered medical practitioners who hold licences to practise.](section/48.md)
+  - [s. 49 Penalty for pretending to be registered.](section/49.md)
+  - [s. 49A Penalty for pretending to hold a licence to practise](section/49A.md)
+- Part VII Miscellaneous and General
+  - [s. 49B The Directive: designation of competent authority etc.](section/49B.md)
+  - [s. 50 Default powers of Privy Council.](section/50.md)
+  - [s. 51 Exercise of powers to make Orders in Council and other orders.](section/51.md)
+  - [s. 52 Exercise of powers of Privy Council.](section/52.md)
+  - [s. 52A Annual reports, statistical reports and strategic plans](section/52A.md)
+  - [s. 52B Annual reports of the MPTS](section/52B.md)
+  - [s. 53 Proof of certain instruments.](section/53.md)
+  - [s. 54 Saving for certain occupations.](section/54.md)
+  - [s. 55 Interpretation.](section/55.md)
+  - [s. 56 Consequential amendments, repeals, transitional provisions and savings.](section/56.md)
+  - [s. 57 Short title, commencement and extent.](section/57.md)
+- SCHEDULE 1 The General Medical Council and its Committees, and the Branch Councils
+  - Part1 Constitution of the General Medical Council
+    - [Sch. 1 para. 1A Membership: general](schedule/1/paragraph/1A.md)
+    - [Sch. 1 para. 1B Matters for the order of the Privy Council under section 1(2)](schedule/1/paragraph/1B.md)
+    - [Sch. 1 para. 1C Registration of members’ private interests](schedule/1/paragraph/1C.md)
+  - Part II Incidental Powers and Duties and Proceedings of the General Medical Council
+    - Incidental powers and duties
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+      - [Sch. 1 para. 9B](schedule/1/paragraph/9B.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Proceedings of the General Council
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Officers of the General Council
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Financial provisions
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part III Committees of the General Medical Council
+    - ...
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - ...
+      - [Sch. 1 para. 19A](schedule/1/paragraph/19A.md)
+    - Registration Panels
+      - [Sch. 1 para. 19B](schedule/1/paragraph/19B.md)
+    - Registration Appeals Panels
+      - [Sch. 1 para. 19C](schedule/1/paragraph/19C.md)
+    - Investigation Committee
+      - [Sch. 1 para. 19D](schedule/1/paragraph/19D.md)
+    - ...
+      - [Sch. 1 para. 19E](schedule/1/paragraph/19E.md)
+    - Medical Practitioners Tribunal Service
+      - [Sch. 1 para. 19F](schedule/1/paragraph/19F.md)
+    - Medical Practitioners Tribunals and Interim Orders Tribunals
+      - [Sch. 1 para. 19G](schedule/1/paragraph/19G.md)
+    - Supplementary
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 23B](schedule/1/paragraph/23B.md)
+      - [Sch. 1 para. 23C](schedule/1/paragraph/23C.md)
+      - [Sch. 1 para. 23D](schedule/1/paragraph/23D.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Part IV The Branch Councils
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+- SCHEDULE 2 Primary European Qualifications
+- SCHEDULE 2A Visiting medical practitioners from relevant European states
+  - Application and interpretation
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Registration in respect of provision of occasional medical services
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Entitlement to provide occasional medical services: first year
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - First provision of services: required documents
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Entitlement to provide occasional medical services after first year: renewals
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Duration of entitlement to provide occasional medical services
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Conditions
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+- SCHEDULE 3 Registration: Supplementary Provisions
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - To which registrar application to be made
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Proof of qualifications
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Proof of nationality
+    - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+  - Acknowledgement of applications
+    - [Sch. 3 para. 4B](schedule/3/paragraph/4B.md)
+  - Duty to deal promptly with registration applications by specified state professionals
+    - [Sch. 3 para. 4C](schedule/3/paragraph/4C.md)
+  - Time allowed for specified state professionals in relation to application process
+    - [Sch. 3 para. 4D](schedule/3/paragraph/4D.md)
+  - Issue of certificates of registration
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Entry in or alteration of a register
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Visiting medical practitioners from relevant European States
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 3A Registration and Training Appeals
+  - [Sch. 3A para. 1 Interpretation](schedule/3A/paragraph/1.md)
+  - [Sch. 3A para. 2 Appealable registration decisions](schedule/3A/paragraph/2.md)
+  - [Sch. 3A para. 2A Appealable decisions relating to postgraduate medical education and training](schedule/3A/paragraph/2A.md)
+  - [Sch. 3A para. 3 Notice of appealable registration decisions](schedule/3A/paragraph/3.md)
+  - [Sch. 3A para. 4 Appeals from appealable registration decisions](schedule/3A/paragraph/4.md)
+  - [Sch. 3A para. 5 Appeals from a Registration Appeals Panel](schedule/3A/paragraph/5.md)
+  - [Sch. 3A para. 6 Notices](schedule/3A/paragraph/6.md)
+  - [Sch. 3A para. 7 Extension of time for appealing](schedule/3A/paragraph/7.md)
+- SCHEDULE 3B Licence to Practise and Revalidation: Appeals
+  - [Sch. 3B para. 1 Manner of, and time for, appealing](schedule/3B/paragraph/1.md)
+  - [Sch. 3B para. 2 Extension of time for appealing](schedule/3B/paragraph/2.md)
+  - [Sch. 3B para. 3 Rules as to procedure and evidence](schedule/3B/paragraph/3.md)
+  - [Sch. 3B para. 4 References to the Investigation Committee](schedule/3B/paragraph/4.md)
+  - [Sch. 3B para. 5 Powers of Registration Appeal Panels disposing of an appeal](schedule/3B/paragraph/5.md)
+  - [Sch. 3B para. 6 Successful appeals](schedule/3B/paragraph/6.md)
+  - [Sch. 3B para. 7 Unsuccessful appeals](schedule/3B/paragraph/7.md)
+  - [Sch. 3B para. 8 Further appeal to court against determination within paragraph 7](schedule/3B/paragraph/8.md)
+- SCHEDULE 4 Proceedings before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals
+  - Procedure of and evidence before the Investigation Committee, Medical Practitioners Tribunals and Interim Orders Tribunals
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Reference and transfer of cases to the Investigation Committee
+    - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - Reference and transfer of cases to the Health Committee
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Preliminary proceedings
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Professional performance assessments and health assessments
+    - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+    - [Sch. 4 para. 5B](schedule/4/paragraph/5B.md)
+    - [Sch. 4 para. 5C Knowledge of English Assessments](schedule/4/paragraph/5C.md)
+  - Proceedings for erasure of entries fraudulently or incorrectly made
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Legal assessors
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Case managers
+    - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+  - Service of notifications of decisions
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Extension of time for appealing
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Taking effect of directions for erasure, suspension or conditional registration and of variations of conditions of registration
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 10A](schedule/4/paragraph/10A.md)
+    - [Sch. 4 para. 10B](schedule/4/paragraph/10B.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Recording of directions for suspension or conditional registration
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Meaning of “party”
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 4A Directive 2005/36: functions of the General Council under section 49B(3)
+- SCHEDULE 5 Consequential Amendments of Enactments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Mental Health Act 1959
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Mental Health (Scotland) Act 1960
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Medicines Act 1968
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Mines Act (Northern Ireland) 1969
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Nurses and Midwives Act (Northern Ireland) 1970
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Nursing Homes and Nursing Agencies Act (Northern Ireland) 1971
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Misuse of Drugs Act 1971
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1972
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Finance Act 1972
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Poisons Act 1972
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Births and Deaths Registration (Northern Ireland) Order 1976
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Pharmacy (Northern Ireland) Order 1976
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Poisons (Northern Ireland) Order 1976
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - National Health Service Act 1977
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - National Health Service (Scotland) Act 1978
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Interpretation Act 1978
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 Transitional and Saving Provisions
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+- SCHEDULE 7
+  - Part I Enactments Repealed
+  - Part II Revocation
