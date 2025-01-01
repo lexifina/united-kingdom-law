@@ -1,0 +1,219 @@
+# Solicitors Act 1974
+
+1974 c. 47. Enacted 1974-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
+
+Source: https://www.legislation.gov.uk/ukpga/1974/47/2025-01-01
+
+## Contents
+
+- Part I Right to Practise as Solicitor
+  - Qualifications and training
+    - [s. 1 Qualifications for practising as solicitor.](section/1.md)
+    - [s. 1A Practising certificates: employed solicitors.](section/1A.md)
+    - [s. 1B Restriction on practice as sole solicitor](section/1B.md)
+    - [s. 2 Training regulations.](section/2.md)
+  - Admission
+    - [s. 3 Admission as solicitor.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+  - The roll
+    - [s. 6 Keeping of the roll.](section/6.md)
+    - [s. 7 Entry of name and restoration of name struck off.](section/7.md)
+    - [s. 8 Removal or restoration of name at solicitor’s request.](section/8.md)
+  - Practising certificates
+    - [s. 9 Applications for practising certificates.](section/9.md)
+    - [s. 10 Issue of practising certificates.](section/10.md)
+    - [s. 10A Register of holders of practising certificates](section/10A.md)
+    - [s. 11 Fees payable on issue of practising certificates.](section/11.md)
+    - [s. 12 Discretion of Society with respect to issue of practising certificates in special cases.](section/12.md)
+    - [s. 12A Additional fee payable by certain solicitors on applying for practising certificates.](section/12A.md)
+    - [s. 13 Appeals etc in connection with the issue of practising certificates.](section/13.md)
+    - [s. 13ZA Application to practise as sole practitioner while practising certificate in force](section/13ZA.md)
+    - [s. 13ZB Fee payable on making of sole solicitor endorsement](section/13ZB.md)
+    - [s. 13A Imposition of conditions while practising certificates are in force.](section/13A.md)
+    - [s. 13B Suspension of practising certificates where solicitors convicted of fraud or serious crime.](section/13B.md)
+    - [s. 14 Commencement, expiry and replacement of practising certificates.](section/14.md)
+    - [s. 15 Suspension of practising certificates.](section/15.md)
+    - [s. 16 Duration of suspension of practising certificates.](section/16.md)
+    - [s. 17 Publicity in relation to suspension of practising certificates.](section/17.md)
+    - [s. 17A Suspension of sole solicitor endorsement](section/17A.md)
+    - [s. 17B Duration and publicity of suspension of sole solicitor endorsement](section/17B.md)
+    - [s. 18 Extracts from the roll or register etc as evidence.](section/18.md)
+  - Rights and privileges of solicitors
+    - [s. 19 Rights of practising and rights of audience.](section/19.md)
+  - Unqualified persons acting as solicitors
+    - [s. 20 Unqualified person not to act as solicitor.](section/20.md)
+    - [s. 21 Unqualified person not to pretend to be a solicitor.](section/21.md)
+    - [s. 22 Unqualified person not to prepare certain instruments.](section/22.md)
+    - [s. 22A Powers of entry etc. of local weights and measures authorities.](section/22A.md)
+    - [s. 23 Unqualified person not to prepare papers for probate etc.](section/23.md)
+    - [s. 24 Application of penal provisions to body corporate.](section/24.md)
+    - [s. 25 Costs where unqualified person acts as solicitor.](section/25.md)
+    - [s. 26 Time limit for commencement of certain proceedings.](section/26.md)
+    - [s. 27 Saving for persons authorised to conduct legal proceedings.](section/27.md)
+  - Supplementary
+    - [s. 28 Regulations.](section/28.md)
+    - [s. 29 Non–British subjects as solicitors. 12 & 13 Will. 3. c. 2.](section/29.md)
+    - [s. 30 Evidence as to solicitors in Scotland.](section/30.md)
+- Part II Professional Practice, Conduct and Discipline of Solicitors and Clerks
+  - Practice rules
+    - [s. 31 Rules as to professional practice, conduct and discipline.](section/31.md)
+  - Accounts etc.
+    - [s. 32 Accounts rules and trust accounts rules.](section/32.md)
+    - [s. 33 Interest on clients’ money.](section/33.md)
+    - [s. 33A Inspection of practice bank accounts etc.](section/33A.md)
+    - [s. 34 Accountants’ reports.](section/34.md)
+  - Sole solicitors
+    - [s. 34A Employees of solicitors](section/34A.md)
+    - [s. 34B Employees of solicitors: accounts rules etc](section/34B.md)
+  - Intervention in solicitor’s practice, Compensation Fund and professional indemnity
+    - [s. 35 Intervention in solicitor’s practice.](section/35.md)
+    - [s. 36 Compensation grants.](section/36.md)
+    - [s. 36A Compensation funds](section/36A.md)
+    - [s. 37 Professional indemnity.](section/37.md)
+  - Inadequate professional services
+    - [s. 37A Redress for inadequate professional services.](section/37A.md)
+  - Restrictions on practice as solicitor
+    - [s. 38 Solicitor who is justice of the peace not to act in certain proceedings.](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 Solicitor not to commence or defend actions while in prison.](section/40.md)
+  - Restrictions on employment of certain persons
+    - [s. 41 Employment by solicitor of person struck off or suspended.](section/41.md)
+    - [s. 42 Failure to disclose fact of having been struck off or suspended.](section/42.md)
+    - [s. 43 Control of solicitors’ employees and consultants.](section/43.md)
+    - [s. 44 Offences in connection with orders under section 43(2).](section/44.md)
+  - Imposition by Council of disciplinary sanctions for inadequate professional services
+    - [s. 44A ................................](section/44A.md)
+  - Examination of files
+    - [s. 44B Provision of information and documents by solicitors etc](section/44B.md)
+    - [s. 44BA Power to require explanation of document or information](section/44BA.md)
+    - [s. 44BB Provision of information and documents by other persons](section/44BB.md)
+    - [s. 44BC Information offences](section/44BC.md)
+  - Costs of investigations
+    - [s. 44C Power to charge for costs of investigations.](section/44C.md)
+    - [s. 45 ................................](section/45.md)
+  - Disciplinary powers of the Society
+    - [s. 44D Disciplinary powers of the Society](section/44D.md)
+    - [s. 44E Appeals against disciplinary action under section 44D](section/44E.md)
+  - Disciplinary proceedings before Solicitors Disciplinary Tribunal
+    - [s. 46 Solicitors Disciplinary Tribunal.](section/46.md)
+    - [s. 46A Funding of the Tribunal](section/46A.md)
+    - [s. 47 Jurisdiction and powers of Tribunal.](section/47.md)
+    - [s. 47A ................................](section/47A.md)
+    - [s. 48 Orders of Tribunal.](section/48.md)
+    - [s. 49 Appeals from Tribunal.](section/49.md)
+    - [s. 49A Appeals to the Tribunal instead of the High Court](section/49A.md)
+  - Disciplinary proceedings before Supreme Court
+    - [s. 50 Jurisdiction of Senior Courts over solicitors.](section/50.md)
+    - [s. 51 Procedure upon certain applications to High Court.](section/51.md)
+    - [s. 52 Power of Society to draw up order of court.](section/52.md)
+    - [s. 53 Production of order of court to Society.](section/53.md)
+  - Disciplinary proceedings—general
+    - [s. 54 Restrictions on powers to strike names off roll.](section/54.md)
+    - [s. 55 Applications to require solicitor to answer allegations.](section/55.md)
+- Part III Remuneration of Solicitors
+  - Non–contentious business
+    - [s. 56 Orders as to remuneration for non–contentious business.](section/56.md)
+    - [s. 57 Non–contentious business agreements.](section/57.md)
+    - [s. 58 Remuneration of a solicitor who is a mortgagee.](section/58.md)
+  - Contentious business
+    - [s. 59 Contentious business agreements.](section/59.md)
+    - [s. 60 Effect of contentious business agreements.](section/60.md)
+    - [s. 61 Enforcement of contentious business agreements.](section/61.md)
+    - [s. 62 Contentious business agreements by certain representatives.](section/62.md)
+    - [s. 63 Effect on contentious business agreement of death, incapability or change of solicitor.](section/63.md)
+    - [s. 64 Form of bill of costs for contentious business.](section/64.md)
+    - [s. 65 Security for costs and termination of retainer.](section/65.md)
+    - [s. 66 Assessments with respect to contentious business.](section/66.md)
+  - Remuneration—general
+    - [s. 67 Inclusion of disbursements in bill of costs.](section/67.md)
+    - [s. 68 Power of court to order solicitor to deliver bill, etc.](section/68.md)
+    - [s. 69 Action to recover solicitor’s costs.](section/69.md)
+    - [s. 70 Assessment on application of party chargeable or solicitor.](section/70.md)
+    - [s. 71 Assessment on application of third parties.](section/71.md)
+    - [s. 72 Supplementary provisions as to assessments.](section/72.md)
+    - [s. 73 Charging orders.](section/73.md)
+    - [s. 74 Special provisions as to contentious business done in county courts.](section/74.md)
+    - [s. 75 Saving for certain enactments.](section/75.md)
+- Part IV Miscellaneous and General
+  - The Society
+    - [s. 76 Non–practising solicitors eligible for membership of Society.](section/76.md)
+    - [s. 77 Annual subscription to Society.](section/77.md)
+    - [s. 78 Cessation and suspension of membership of Society.](section/78.md)
+    - [s. 79 Discharge of the Council’s functions](section/79.md)
+    - [s. 80 Powers to act on behalf of Society.](section/80.md)
+  - Miscellaneous
+    - [s. 81 Administration of oaths and taking of affidavits.](section/81.md)
+    - [s. 81A Fees for administering oaths and taking affidavits.](section/81A.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 Power of Society to inspect file of proceedings in bankruptcy of solicitor.](section/83.md)
+    - [s. 84 Service of documents at solicitor’s place of business.](section/84.md)
+    - [s. 85 Bank accounts.](section/85.md)
+    - [s. 86 Bankers’ books.](section/86.md)
+  - Supplementary
+    - [s. 86A Rules](section/86A.md)
+    - [s. 87 Interpretation.](section/87.md)
+    - [s. 88 Saving for solicitors to public departments and City of London.](section/88.md)
+    - [s. 89 Consequential amendments, repeals, savings, etc.](section/89.md)
+    - [s. 90 Short title, commencement and extent.](section/90.md)
+- SCHEDULE 1 Intervention in Solicitor’s Practice
+  - Part I Circumstances in which Society may Intervene
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part II Powers Exercisable on Intervention
+    - Money
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+      - [Sch. 1 para. 6B](schedule/1/paragraph/6B.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Documents
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Mail and other forms of communication
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Trusts
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - General
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 1A INADEQUATE PROFESSIONAL SERVICES
+  - [Sch. 1A para. 1 Circumstances in which Council’s powers may be exercised](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Directions which may be given](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Compensation](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Taxation of costs](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Failure to comply with direction](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Fees](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Costs](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Duty of Tribunal](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Interpretation](schedule/1A/paragraph/9.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULES 3 CONSEQUENTIAL AMENDMENTS
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- Schedule 4 ENACTMENTS REPEALED
