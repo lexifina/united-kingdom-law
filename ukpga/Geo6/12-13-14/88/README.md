@@ -1,0 +1,189 @@
+# Registered Designs Act 1949
+
+1949 c. 88. Enacted 1949-12-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 18 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/88
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/88/2025-01-01
+
+## Contents
+
+- Registrable designs and proceedings for registration
+  - [s. 1 Registration of designs.](section/1.md)
+  - [s. 1A Substantive grounds for refusal of registration.](section/1A.md)
+  - [s. 1B Requirement of novelty and individual character.](section/1B.md)
+  - [s. 1C Designs dictated by their technical function.](section/1C.md)
+  - [s. 1D Designs contrary to public policy or morality.](section/1D.md)
+  - [s. 2 Proprietorship of designs.](section/2.md)
+  - [s. 3 Applications for registration.](section/3.md)
+  - [s. 3A Determination of applications for registration.](section/3A.md)
+  - [s. 3B Modification of applications for registration.](section/3B.md)
+  - [s. 3C Date of registration of designs.](section/3C.md)
+  - [s. 3D Appeals in relation to applications for registration.](section/3D.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 Provisions for secrecy of certain designs.](section/5.md)
+  - [s. 6 ................................](section/6.md)
+- Effect of registration, etc.
+  - [s. 7 Right given by registration.](section/7.md)
+  - [s. 7A Infringements of rights in registered designs.](section/7A.md)
+  - [s. 7B Right of prior use](section/7B.md)
+  - [s. 8 Duration of right in registered design.](section/8.md)
+  - [s. 8A Restoration of lapsed right in design.](section/8A.md)
+  - [s. 8B Effect of order for restoration of right.](section/8B.md)
+  - [s. 9 Exemption of innocent infringer from liability for damages.](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 Cancellation of registration.](section/11.md)
+  - [s. 11ZA Grounds for invalidity of registration.](section/11ZA.md)
+  - [s. 11ZB Applications for declaration of invalidity.](section/11ZB.md)
+  - [s. 11ZC Determination of applications for declaration of invalidity.](section/11ZC.md)
+  - [s. 11ZD Modification of registration.](section/11ZD.md)
+  - [s. 11ZE Effect of cancellation or invalidation of registration.](section/11ZE.md)
+  - [s. 11ZF Appeals in relation to cancellation or invalidation.](section/11ZF.md)
+  - [s. 11A Powers exercisable for protection of the public interest.](section/11A.md)
+  - [s. 11AB Powers exercisable following merger and market investigations](section/11AB.md)
+  - [s. 11B ................................](section/11B.md)
+  - [s. 12 Use for services of the Crown.](section/12.md)
+  - [s. 12A Application of the Act to certain registered Community designs](section/12A.md)
+  - [s. 12B Application of the Act to certain international designs](section/12B.md)
+- International Arrangements
+  - [s. 13 Orders in Council as to convention countries.](section/13.md)
+  - [s. 14 Registration of design where application for protection in convention country has been made.](section/14.md)
+  - [s. 15 Extension of time for applications under s. 14 in certain cases.](section/15.md)
+  - [s. 15ZA Accession to the Hague Agreement](section/15ZA.md)
+- Property in and dealing with registered designs and applications
+  - [s. 15A The nature of registered designs](section/15A.md)
+  - [s. 15B Assignment, &c of registered designs and applications for registered designs](section/15B.md)
+  - [s. 15C Exclusive licences](section/15C.md)
+  - [s. 16 ................................](section/16.md)
+- Register of designs, etc.
+  - [s. 17 Register of designs etc.](section/17.md)
+  - [s. 18 Certificate of registration.](section/18.md)
+  - [s. 19 Registration of assignments, etc.](section/19.md)
+  - [s. 20 Rectification of register.](section/20.md)
+  - [s. 21 Power to correct clerical errors.](section/21.md)
+  - [s. 22 Inspection of registered designs.](section/22.md)
+  - [s. 23 Information as to existence of right in registered design.](section/23.md)
+- Legal proceedings: general
+  - [s. 24A Action for infringement](section/24A.md)
+  - [s. 24B Exemption of innocent infringer from liability](section/24B.md)
+  - [s. 24C Order for delivery up](section/24C.md)
+  - [s. 24D Order as to disposal of infringing articles, &c](section/24D.md)
+  - [s. 24E Jurisdiction of county court and sheriff court](section/24E.md)
+  - [s. 24F Rights and remedies of exclusive licensee](section/24F.md)
+  - [s. 24G Meaning of “infringing article”](section/24G.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 Certificate of contested validity of registration.](section/25.md)
+  - [s. 25A Privilege for communications with those on the special list of professional designs representatives](section/25A.md)
+- Unjustified threats
+  - [s. 26 Threats of infringement proceedings](section/26.md)
+  - [s. 26A Actionable threats](section/26A.md)
+  - [s. 26B Permitted communications](section/26B.md)
+  - [s. 26C Remedies and defences](section/26C.md)
+  - [s. 26D Professional advisers](section/26D.md)
+  - [s. 26E Supplementary: pending registration](section/26E.md)
+  - [s. 26F Supplementary: proceedings for delivery up etc.](section/26F.md)
+- Meaning of “the court” and appeals
+  - [s. 27 The court.](section/27.md)
+  - [s. 27A Appeals from decisions of registrar](section/27A.md)
+  - [s. 27B Persons appointed to hear and determine appeals](section/27B.md)
+  - [s. 28 The Appeal Tribunal.](section/28.md)
+- Opinions service
+  - [s. 28A Opinions on designs](section/28A.md)
+- Powers and Duties of Registrar
+  - [s. 29 Exercise of discretionary powers of registrar.](section/29.md)
+  - [s. 30 Costs and security for costs.](section/30.md)
+  - [s. 31 Evidence before registrar.](section/31.md)
+  - [s. 31A Power to require use of forms](section/31A.md)
+  - [s. 32 ................................](section/32.md)
+- Offences
+  - [s. 33 Offences under s. 5.](section/33.md)
+  - [s. 34 Falsification of register, etc.](section/34.md)
+  - [s. 35 Fine for falsely representing a design as registered.](section/35.md)
+  - [s. 35ZA Offence of unauthorised copying etc. of design in course of business](section/35ZA.md)
+  - [s. 35ZB Section 35ZA: enforcement](section/35ZB.md)
+  - [s. 35ZC Section 35ZA: forfeiture in England and Wales or Northern Ireland](section/35ZC.md)
+  - [s. 35ZD Section 35ZA: forfeiture in Scotland](section/35ZD.md)
+  - [s. 35A Offence by body corporate or partnership: liability of officers or partners](section/35A.md)
+- Rules, etc.
+  - [s. 36 General power of Board of Trade to make rules, etc.](section/36.md)
+  - [s. 37 Provisions as to rules and Orders.](section/37.md)
+  - [s. 37A Use of electronic communications](section/37A.md)
+  - [s. 38](section/38.md)
+- Supplemental
+  - [s. 39 Hours of business and excluded days.](section/39.md)
+  - [s. 40 Fees.](section/40.md)
+  - [s. 41 Service of notices, etc., by post.](section/41.md)
+  - [s. 42 Annual report of registrar.](section/42.md)
+  - [s. 43 Savings.](section/43.md)
+  - [s. 44 Interpretation.](section/44.md)
+  - [s. 45 Application to Scotland](section/45.md)
+  - [s. 46 Application to Northern Ireland.](section/46.md)
+  - [s. 47 Application to Isle of Man.](section/47.md)
+  - [s. 47A Territorial waters and the Continental shelf.](section/47A.md)
+  - [s. 48 Repeals, savings, and transitional provisions.](section/48.md)
+  - [s. 49 Short title and commencement.](section/49.md)
+- SCHEDULE A1 Grounds for refusal of registration in relation to emblems etc.
+  - [Sch. A1 para. 1 Grounds for refusal in relation to certain emblems etc.](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2 Grounds for refusal in relation to emblems etc. of Paris Convention countries](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3 Grounds for refusal in relation to emblems etc. of certain international organisations](schedule/A1/paragraph/3.md)
+  - Paragraphs 2 and 3: supplementary
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Interpretation
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+- FIRST SCHEDULE Provisions as to the use of Registered Designs for the services of the Crown and as to the Rights of Third Parties in respect of such use
+  - [Sch. FIRST para. 1 Use of registered designs for services of the Crown.](schedule/FIRST/paragraph/1.md)
+  - [Sch. FIRST para. 2 Rights of third parties in respect of Crown use.](schedule/FIRST/paragraph/2.md)
+  - [Sch. FIRST para. 2A Compensation for loss of profit.](schedule/FIRST/paragraph/2A.md)
+  - [Sch. FIRST para. 3 Reference of disputes as to Crown use.](schedule/FIRST/paragraph/3.md)
+  - [Sch. FIRST para. 4 Special provisions as to Crown use during emergency.](schedule/FIRST/paragraph/4.md)
+- SCHEDULE 1A EUROPEAN COMMUNITY REGISTERED DESIGNS
+  - PART 1 Existing registered Community designs
+    - [Sch. 1A para. 1 Designs registered as Community designs to be treated as registered under the Act](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2 Entries to be made in the register in relation to designs treated as registered under this Act](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3 Opt out](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4 Effect of claim of priority](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5 Unregistered pre-exit transfers](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6 Pre-exit licences to continue to have effect in the United Kingdom](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7 Security interests in existing registered Community designs](schedule/1A/paragraph/7.md)
+    - [Sch. 1A para. 8 Continuity of rights in relation to an existing registered Community design](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9 Pending proceedings concerning an existing registered Community design](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 9A Existing registered Community design: effect of invalidity](schedule/1A/paragraph/9A.md)
+    - [Sch. 1A para. 10 Effect of injunction protecting an existing registered Community design](schedule/1A/paragraph/10.md)
+  - PART 2 Applications for registered Community designs which are pending at IP completion day
+    - [Sch. 1A para. 11 Applications for registration pending immediately before IP completion day](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - PART 3 Registered Community designs where publication is deferred at IP completion day
+    - [Sch. 1A para. 13 Designs registered at the EUIPO immediately before IP completion day where publication is deferred](schedule/1A/paragraph/13.md)
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+  - PART 4 Treatment of registered Community designs whose registrations expire during the period of six months ending on IP completion day
+    - [Sch. 1A para. 15 Application of Part](schedule/1A/paragraph/15.md)
+    - [Sch. 1A para. 16 Renewal of registration of an expired Community design](schedule/1A/paragraph/16.md)
+  - PART 5 Restoration of registered Community design registrations and applications
+    - [Sch. 1A para. 17 Restoration of registered Community design to the RCD register](schedule/1A/paragraph/17.md)
+    - [Sch. 1A para. 18 Restoration of application for registered Community design](schedule/1A/paragraph/18.md)
+  - PART 6 Interpretation
+    - [Sch. 1A para. 19 Interpretation](schedule/1A/paragraph/19.md)
+    - [Sch. 1A para. 20](schedule/1A/paragraph/20.md)
+- SCHEDULE 1B INTERNATIONAL DESIGNS
+  - PART 1 Existing international designs
+    - [Sch. 1B para. 1 International designs in respect of which the European Union is designated to be treated as registered under the Act](schedule/1B/paragraph/1.md)
+    - [Sch. 1B para. 2 Entries to be made in the register in relation to designs treated as registered under this Act](schedule/1B/paragraph/2.md)
+    - [Sch. 1B para. 3 Opt out](schedule/1B/paragraph/3.md)
+    - [Sch. 1B para. 4 Effect of claim of priority](schedule/1B/paragraph/4.md)
+    - [Sch. 1B para. 5 Unregistered pre-exit transfers](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6 Pre-exit licences to continue to have effect in the United Kingdom](schedule/1B/paragraph/6.md)
+    - [Sch. 1B para. 7 Security interests in protected ... international registered designs (EU)](schedule/1B/paragraph/7.md)
+    - [Sch. 1B para. 8 Continuity of rights in relation to a protected international registered design (EU)](schedule/1B/paragraph/8.md)
+    - [Sch. 1B para. 9 Pending proceedings concerning a protected international registered design (EU)](schedule/1B/paragraph/9.md)
+    - [Sch. 1B para. 10 Effect of injunction protecting a protected international registered design (EU)](schedule/1B/paragraph/10.md)
+  - PART 2 International registrations in respect of which the period for refusal has not expired before IP completion day etc
+    - [Sch. 1B para. 11](schedule/1B/paragraph/11.md)
+    - [Sch. 1B para. 12](schedule/1B/paragraph/12.md)
+  - PART 3 Treatment of international registered designs whose registrations expire during the period of six months ending on IP completion day
+    - [Sch. 1B para. 13 Application of Part](schedule/1B/paragraph/13.md)
+    - [Sch. 1B para. 14 Renewal of registration of an expired international design](schedule/1B/paragraph/14.md)
+  - PART 4 Interpretation
+    - [Sch. 1B para. 15 Interpretation](schedule/1B/paragraph/15.md)
+- SECOND SCHEDULE
