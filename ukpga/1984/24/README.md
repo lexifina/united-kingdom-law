@@ -1,0 +1,330 @@
+# Dentists Act 1984
+
+1984 c. 24. Enacted 1984-06-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 20 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/24
+
+Source: https://www.legislation.gov.uk/ukpga/1984/24/2025-01-01
+
+## Contents
+
+- Part I The General Dental Council
+  - [s. 1 Constitution and general duties of the Council.](section/1.md)
+  - [s. 2 Committees of the Council.](section/2.md)
+  - [s. 2A The Council’s duty to co-operate](section/2A.md)
+  - [s. 2B Annual reports, statistical reports and strategic plans](section/2B.md)
+  - [s. 2C Accounts](section/2C.md)
+  - [s. 2D Complaints](section/2D.md)
+  - [s. 2E Registration of members’ private interests](section/2E.md)
+- Part II Dental Education
+  - Degrees and licences in dentistry
+    - [s. 3 Power of medical authorities to hold examinations and grant licences in dentistry.](section/3.md)
+    - [s. 4 Conduct of examinations for degrees and licences.](section/4.md)
+    - [s. 5 Holding of examinations and grant of licences by Royal College of Surgeons of England.](section/5.md)
+    - [s. 6 Requirements in relation to admission of candidates to examinations and grant of degrees and licences.](section/6.md)
+    - [s. 7 Effect of grant of degree or licence in dentistry.](section/7.md)
+  - Supervision of dental education
+    - [s. 8 Information to be furnished by dental authorities.](section/8.md)
+    - [s. 9 Supervision of instruction given by dental schools and post-graduate institutions.](section/9.md)
+    - [s. 10 Supervision of examinations.](section/10.md)
+    - [s. 11 Remedy where qualifying courses of study or examinations are inadequate.](section/11.md)
+    - [s. 12 Candidates not to be required to adopt or reject particular theories of dentistry.](section/12.md)
+    - [s. 12A Degrees and licences in dentistry](section/12A.md)
+  - Functions of Education Committee
+    - [s. 13 ................................](section/13.md)
+- Part III The Dental Profession
+  - Registration
+    - [s. 14 The dentists register and the registrar](section/14.md)
+    - [s. 15 Qualification for registration in the dentists register.](section/15.md)
+    - [s. 15ZA Section 15: further provision relating to specified state professionals](section/15ZA.md)
+    - [s. 15A Supplementary provisions as to the necessary knowledge of English](section/15A.md)
+    - [s. 16 Supplementary provisions as to registration of holders of overseas diplomas.](section/16.md)
+    - [s. 16A Requisite knowledge and skill: holders of overseas diplomas](section/16A.md)
+    - [s. 16B Requisite knowledge and skill: recognition of overseas diplomas](section/16B.md)
+    - [s. 17 Temporary registration.](section/17.md)
+  - Procedure for registration
+    - [s. 18 Procedure for registration.](section/18.md)
+    - [s. 19 Regulations with respect to the register.](section/19.md)
+    - [s. 20 Selection of proper abbreviations of overseas diplomas.](section/20.md)
+    - [s. 21 Notification of reasons for refusal of application for registration etc.](section/21.md)
+    - [s. 21A Notification of results of application](section/21A.md)
+  - Publication of the register
+    - [s. 22 Publication of the register](section/22.md)
+  - Erasures and alterations in the register
+    - [s. 23 Erasure of names of deceased persons and of those who have ceased to practise.](section/23.md)
+    - [s. 24 Erasure on grounds of fraud or error](section/24.md)
+    - [s. 25 Alteration of names and addresses.](section/25.md)
+  - Registration appeals
+    - [s. 25A Registration appeals](section/25A.md)
+  - Use of titles and descriptions
+    - [s. 26 Use of titles and descriptions.](section/26.md)
+  - Insurance
+    - [s. 26A Indemnity arrangements](section/26A.md)
+  - Professional conduct and fitness to practise
+    - [s. 26B Guidance](section/26B.md)
+    - [s. 26C Information for specified state professionals](section/26C.md)
+    - [s. 27 Allegations](section/27.md)
+    - [s. 27A The Investigating Committee](section/27A.md)
+    - [s. 27AA Delegation of the Investigating Committee’s functions under section 27A](section/27AA.md)
+    - [s. 27AB Review of determination under section 27A(1)](section/27AB.md)
+    - [s. 27B The Practice Committees](section/27B.md)
+    - [s. 27C Resumed hearings](section/27C.md)
+    - [s. 28 Restoration of names to the register following erasure under section 27B](section/28.md)
+    - [s. 29 Appeals.](section/29.md)
+    - [s. 29A Taking effect of directions for erasure, suspension, conditional registration etc.](section/29A.md)
+    - [s. 30 Orders for immediate suspension and immediate conditional registration](section/30.md)
+    - [s. 31 Special provisions where directions replace, or extend periods under, previous directions.](section/31.md)
+    - [s. 32 Interim orders](section/32.md)
+  - Supplementary provisions
+    - [s. 33 Supplementary provisions relating to fitness to practise cases](section/33.md)
+    - [s. 33A Recording of suspension or conditional registration etc.](section/33A.md)
+    - [s. 33B The Council’s power to require disclosure of information](section/33B.md)
+    - [s. 33C Notification and disclosure by the Council](section/33C.md)
+    - [s. 34 Restoration of name erased under s. 27.](section/34.md)
+  - Professional training and development requirements
+    - [s. 34A Professional training and development requirements](section/34A.md)
+    - [s. 34AA Limits on section 34A as respects visiting dentists from relevant European States](section/34AA.md)
+    - [s. 34B Restoration of name to the register: professional training and development](section/34B.md)
+  - Effect of disqualification in a relevant European State
+    - [s. 35 Effect on registration of disqualification in a relevant European State.](section/35.md)
+  - Visiting dentists from relevant European States
+    - [s. 36 Visiting dentists from relevant European States.](section/36.md)
+  - The Directive: designation of competent authority etc.
+    - [s. 36ZA The Directive: designation of competent authority etc.](section/36ZA.md)
+    - [s. 36ZB Fees for provision of certificates](section/36ZB.md)
+- PART 3A Professions Complementary to Dentistry
+  - Introductory
+    - [s. 36A Professions complementary to dentistry](section/36A.md)
+  - Education and registration
+    - [s. 36B The dental care professionals register](section/36B.md)
+    - [s. 36C Qualifications for registration](section/36C.md)
+    - [s. 36CA Supplementary provisions as to necessary knowledge of English](section/36CA.md)
+    - [s. 36CB Requisite knowledge and skill: holders of relevant qualifications](section/36CB.md)
+    - [s. 36CC Requisite knowledge and skill: recognition of relevant qualifications](section/36CC.md)
+    - [s. 36D Education and training for members of professions complementary to dentistry](section/36D.md)
+  - Procedure for registration
+    - [s. 36E Rules relating to the dental care professionals register](section/36E.md)
+    - [s. 36EA Applications by specified state professionals under section 36C](section/36EA.md)
+    - [s. 36F Fees](section/36F.md)
+  - Publication of the dental care professionals register
+    - [s. 36G Publication of the dental care professionals register](section/36G.md)
+  - Erasures and alterations in the dental care professionals register
+    - [s. 36H Erasure of names of deceased persons and of those who have ceased to practise](section/36H.md)
+    - [s. 36I Erasure on grounds of fraud or error](section/36I.md)
+  - Registration appeals
+    - [s. 36J Registration appeals](section/36J.md)
+  - Use of titles and descriptions
+    - [s. 36K Use of titles and descriptions](section/36K.md)
+  - Insurance
+    - [s. 36L Indemnity arrangements](section/36L.md)
+  - Professional conduct and fitness to practise
+    - [s. 36M Guidance](section/36M.md)
+    - [s. 36MA Information for specified state professionals](section/36MA.md)
+    - [s. 36N Allegations](section/36N.md)
+    - [s. 36O The Investigating Committee](section/36O.md)
+    - [s. 36OA Delegation of the Investigating Committee’s functions under section 36O](section/36OA.md)
+    - [s. 36OB Review of determination under section 36O(1)](section/36OB.md)
+    - [s. 36P The Practice Committees](section/36P.md)
+    - [s. 36Q Resumed hearings](section/36Q.md)
+    - [s. 36R Restoration of names to the dental care professionals register following erasure under section 36P](section/36R.md)
+    - [s. 36S Appeals](section/36S.md)
+    - [s. 36T Taking effect of directions for erasure, suspension, conditional registration etc.](section/36T.md)
+    - [s. 36U Orders for immediate suspension and immediate conditional registration](section/36U.md)
+    - [s. 36V Interim orders](section/36V.md)
+  - Supplementary provisions
+    - [s. 36W Supplementary provisions relating to fitness to practise cases](section/36W.md)
+    - [s. 36X Recording of suspension or conditional registration etc.](section/36X.md)
+    - [s. 36Y The Council’s power to require disclosure of information](section/36Y.md)
+    - [s. 36Z Notification and disclosure by the Council](section/36Z.md)
+  - Professional training and development requirements
+    - [s. 36Z1 Professional training and development requirements](section/36Z1.md)
+    - [s. 36Z2 Restoration of names to the dental care professionals register: professional training and development](section/36Z2.md)
+  - Visiting dental care professionals from relevant European States
+    - [s. 36Z3 Visiting dental care professionals from relevant European States](section/36Z3.md)
+    - [s. 36Z4 Limits on section 36Z1 as respects visiting dental care professionals](section/36Z4.md)
+- Part IV Restrictions on Practice of Dentistry and on Carrying on Business of Dentistry
+  - The practice of dentistry
+    - [s. 37 Definition of practice of dentistry.](section/37.md)
+    - [s. 38 Prohibition on practice of dentistry by laymen.](section/38.md)
+    - [s. 39 Prohibition on use of practitioners’ titles by laymen.](section/39.md)
+  - Restrictions on carrying on the business of dentistry
+    - [s. 40 Definition of business of dentistry.](section/40.md)
+    - [s. 41 Restriction on individuals.](section/41.md)
+    - [s. 42 Restriction on bodies corporate](section/42.md)
+    - [s. 43 Directors of bodies corporate](section/43.md)
+    - [s. 43A Provision of information and payment of fees by bodies corporate](section/43A.md)
+    - [s. 43B Financial penalties in relation to bodies corporate](section/43B.md)
+    - [s. 44 Further financial penalties on bodies corporate](section/44.md)
+    - [s. 44A Supplementary provisions relating to financial penalties under sections 43B and 44](section/44A.md)
+    - [s. 44B Appeals relating to financial penalties](section/44B.md)
+- Part V Dental Auxiliaries
+  - [s. 45 Establishment by Council of classes of dental auxiliaries.](section/45.md)
+  - [s. 46 Restrictions on employment of dental auxiliaries.](section/46.md)
+  - [s. 47 Use of titles and descriptions.](section/47.md)
+  - [s. 48 Functions of Dental Auxiliaries Committee.](section/48.md)
+- Part VI Miscellaneous and Supplementary
+  - Termination of the 1927 Agreement
+    - [s. 49 Termination of the 1927 Agreement with the Republic of Ireland.](section/49.md)
+    - [s. 49A Advisers](section/49A.md)
+  - Supplementary
+    - [s. 50 Evidence etc. in certain proceedings under this Act.](section/50.md)
+    - [s. 50A Service of notifications](section/50A.md)
+    - [s. 50B Publication of information](section/50B.md)
+    - [s. 50C Rules](section/50C.md)
+    - [s. 50D Rules: consultation requirements](section/50D.md)
+    - [s. 51 Exercise of powers conferred on Privy Council.](section/51.md)
+    - [s. 52 Regulations and other documents.](section/52.md)
+    - [s. 53 Interpretation.](section/53.md)
+    - [s. 54 Consequential amendments, repeals and revocations.](section/54.md)
+    - [s. 55 Commencement, transitional provisions and savings.](section/55.md)
+    - [s. 56 Short title and extent.](section/56.md)
+- SCHEDULE 1 The Council and Committees of the Council: Supplementary Provisions
+  - Part I The Council
+    - Constitution
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+    - Matters for the order of the Privy Council under section 1(2A)
+      - [Sch. 1 para. 1B](schedule/1/paragraph/1B.md)
+    - Lay members
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+    - Members who are registered dentists or registered dental care professionals
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Council President
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - General powers of Council
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+  - Part II
+    - The Education Committee
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The Preliminary Proceedings Committee
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - The Professional Conduct Committee
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - The Dental Auxiliaries Committee
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 European Dental Qualifications
+  - Part I Appropriate European Diplomas
+    - [Sch. 2 Pt. I para. 1](schedule/2/part/I/paragraph/1.md)
+    - [Sch. 2 Pt. I para. 2](schedule/2/part/I/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+    - [Sch. 2 para. 6B](schedule/2/paragraph/6B.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - PART II SCHEDULED EUROPEAN DIPLOMAS
+- SCHEDULE 2A Registration appeals: dentists register
+  - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3 Notification of appealable registration decisions](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4 Appeals from an appealable registration decision](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5 Extension of time for appealing](schedule/2A/paragraph/5.md)
+  - [Sch. 2A para. 6 Appeals from the Registration Appeals Committee](schedule/2A/paragraph/6.md)
+- SCHEDULE 3 Proceedings before the Investigating Committee, the Interim Orders Committee and Practice Committees: dentists
+  - [Sch. 3 para. 1 Definitions](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Rules relating to procedure](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Evidence etc.](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Evidence etc.](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Evidence etc.](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Costs](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Reference of cases to the registrar or a different Committee](schedule/3/paragraph/7.md)
+- SCHEDULE 3A CONTINUING PROFESSIONAL DEVELOPMENT CASES
+  - Procedure
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - References to other committees
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+  - Notices
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+- SCHEDULE 4 VISITING DENTISTS FROM RELEVANT EUROPEAN STATES
+  - [Sch. 4 para. 1 Application and interpretation](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Application and interpretation](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Registration in respect of provision of occasional dental services](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Entitlement to provide occasional dental services: first year](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 First provision of services: required documents](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 First provision of services: required documents](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Entitlement to provide occasional dental services after first year: renewals](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Duration of entitlement to provide occasional dental services](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9 Conditions](schedule/4/paragraph/9.md)
+- SCHEDULE 4ZA DIRECTIVE 2005/36: FUNCTIONS OF THE COUNCIL UNDER SECTION 36ZA(3)
+- SCHEDULE 4A Registration appeals: dental care professionals register
+  - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3 Notification of appealable registration decisions](schedule/4A/paragraph/3.md)
+  - [Sch. 4A para. 4 Appeals from an appealable registration decision](schedule/4A/paragraph/4.md)
+  - [Sch. 4A para. 5 Extension of time for appealing](schedule/4A/paragraph/5.md)
+  - [Sch. 4A para. 6 Appeals from the Registration Appeals Committee](schedule/4A/paragraph/6.md)
+- SCHEDULE 4B Proceedings before the Investigating Committee, the Interim Orders Committee and Practice Committees: dental care professionals
+  - [Sch. 4B para. 1 Definitions](schedule/4B/paragraph/1.md)
+  - [Sch. 4B para. 2 Rules relating to procedure](schedule/4B/paragraph/2.md)
+  - [Sch. 4B para. 3 Evidence etc.](schedule/4B/paragraph/3.md)
+  - [Sch. 4B para. 4 Evidence etc.](schedule/4B/paragraph/4.md)
+  - [Sch. 4B para. 5 Evidence etc.](schedule/4B/paragraph/5.md)
+  - [Sch. 4B para. 6 Costs](schedule/4B/paragraph/6.md)
+  - [Sch. 4B para. 7 Reference of cases to the registrar or a different Committee](schedule/4B/paragraph/7.md)
+- SCHEDULE 4C Advisers
+  - [Sch. 4C para. 1 Legal advisers](schedule/4C/paragraph/1.md)
+  - [Sch. 4C para. 2 Medical advisers](schedule/4C/paragraph/2.md)
+  - [Sch. 4C para. 3 Professional advisers](schedule/4C/paragraph/3.md)
+- SCHEDULE 5 Consequential Amendments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Medicines Act 1968 (c. 67)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Misuse Of Drugs Act 1971 (c. 38)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Poisons Act 1972 (c. 66)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Health and Personal Social Services (Northern Ireland) Order 1972 (S.I.1972/1265 (N.I.14))
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - National Health Service Act 1977 (c. 49)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Medical Act 1983 (c. 54)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Value Added Tax Act 1983 (c. 55)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+- SCHEDULE 6 Repeals and Revocations
+  - Part I
+  - Part II
+- SCHEDULE 7 Transitional Provisions and Savings
+  - General
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Elections and nominations
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Registration
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Adaptation of references in enactments etc.
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Proceedings pending before Disciplinary Committee
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Rules of procedure
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Restrictions on carrying on the business of dentistry
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Documents issued by Dental Board
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
