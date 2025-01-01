@@ -1,0 +1,1429 @@
+# Legal Services Act 2007
+
+2007 c. 29. Enacted 2007-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 47 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
+
+Source: https://www.legislation.gov.uk/ukpga/2007/29/2025-01-01
+
+## Contents
+
+- Part 1 The regulatory objectives
+  - [s. 1 The regulatory objectives](section/1.md)
+- Part 2 The Legal Services Board
+  - Constitution
+    - [s. 2 The Legal Services Board](section/2.md)
+  - General functions
+    - [s. 3 The Board’s duty to promote the regulatory objectives etc](section/3.md)
+    - [s. 4 Standards of regulation, education and training](section/4.md)
+    - [s. 5 Corporate governance](section/5.md)
+    - [s. 6 Annual report](section/6.md)
+    - [s. 7 Supplementary powers](section/7.md)
+  - Consumer Panel
+    - [s. 8 The Consumer Panel](section/8.md)
+    - [s. 9 Committees and the procedure of the Consumer Panel](section/9.md)
+    - [s. 10 Representations by the Consumer Panel](section/10.md)
+    - [s. 11 Advice and research functions of the Consumer Panel](section/11.md)
+- Part 3 Reserved legal activities
+  - Reserved legal activities
+    - [s. 12 Meaning of “reserved legal activity” and “legal activity”](section/12.md)
+  - Carrying on the activities
+    - [s. 13 Entitlement to carry on a reserved legal activity](section/13.md)
+  - Offences
+    - [s. 14 Offence to carry on a reserved legal activity if not entitled](section/14.md)
+    - [s. 15 Carrying on of a reserved legal activity: employers and employees etc](section/15.md)
+    - [s. 16 Offence to carry on reserved legal activity through person not entitled](section/16.md)
+    - [s. 17 Offence to pretend to be entitled](section/17.md)
+  - Interpretation
+    - [s. 18 Authorised persons](section/18.md)
+    - [s. 19 Exempt persons](section/19.md)
+    - [s. 20 Approved regulators and relevant approved regulators](section/20.md)
+    - [s. 21 Regulatory arrangements](section/21.md)
+  - Continuity of existing rights and transitional protection
+    - [s. 22 Continuity of existing rights to carry on reserved legal activities](section/22.md)
+    - [s. 23 Transitional protection for non-commercial bodies](section/23.md)
+  - Alteration of reserved legal activities
+    - [s. 24 Extension of the reserved legal activities](section/24.md)
+    - [s. 25 Provisional designation as approved regulators and licensing authorities](section/25.md)
+    - [s. 26 Recommendations that activities should cease to be reserved legal activities](section/26.md)
+- Part 4 Regulation of approved regulators
+  - Introductory
+    - [s. 27 Regulatory and representative functions of approved regulators](section/27.md)
+  - General duties of approved regulators
+    - [s. 28 Approved regulator’s duty to promote the regulatory objectives etc](section/28.md)
+  - Separation of regulatory and representative functions
+    - [s. 29 Prohibition on the Board interfering with representative functions](section/29.md)
+    - [s. 30 Rules relating to the exercise of regulatory functions](section/30.md)
+  - Performance targets
+    - [s. 31 Performance targets and monitoring](section/31.md)
+  - Directions
+    - [s. 32 Directions](section/32.md)
+    - [s. 33 Directions: procedure](section/33.md)
+    - [s. 34 Enforcement of directions](section/34.md)
+  - Censure
+    - [s. 35 Public censure](section/35.md)
+    - [s. 36 Public censure: procedure](section/36.md)
+  - Financial penalties
+    - [s. 37 Financial penalties](section/37.md)
+    - [s. 38 Financial penalties: procedure](section/38.md)
+    - [s. 39 Appeals against financial penalties](section/39.md)
+    - [s. 40 Recovery of financial penalties](section/40.md)
+  - Intervention
+    - [s. 41 Intervention directions](section/41.md)
+    - [s. 42 Intervention directions: further provision](section/42.md)
+    - [s. 43 Intervention directions: enforcement](section/43.md)
+    - [s. 44 Revocation of intervention directions](section/44.md)
+  - Cancellation of approval
+    - [s. 45 Cancellation of designation as approved regulator](section/45.md)
+    - [s. 46 Cancellation of designation: further provision](section/46.md)
+    - [s. 47 The Board’s power to recommend orders made under section 46](section/47.md)
+    - [s. 48 Cancellation of designation: powers of entry etc](section/48.md)
+  - Policy statements
+    - [s. 49 The Board’s policy statements](section/49.md)
+    - [s. 50 Policy statements: procedure](section/50.md)
+  - Practising fees
+    - [s. 51 Control of practising fees charged by approved regulators](section/51.md)
+  - Regulatory conflict
+    - [s. 52 Regulatory conflict with approved regulators](section/52.md)
+    - [s. 53 Modification of provision made about regulatory conflict](section/53.md)
+    - [s. 54 Regulatory conflict with other regulatory regimes](section/54.md)
+  - Information
+    - [s. 55 Provision of information to the Board](section/55.md)
+    - [s. 56 Enforcement of notices under section 55](section/56.md)
+  - Competition
+    - [s. 57 Reports by the CMA](section/57.md)
+    - [s. 58 The Board’s response to CMA report](section/58.md)
+    - [s. 59 Referral of report by the Lord Chancellor ...](section/59.md)
+    - [s. 60 Duties of the CMA](section/60.md)
+    - [s. 61 Lord Chancellor’s power to give directions](section/61.md)
+  - The Board as approved regulator
+    - [s. 62 The Board as an approved regulator](section/62.md)
+    - [s. 63 The Board’s designation under section 62(1)(a)](section/63.md)
+    - [s. 64 Modification of the Board’s functions under section 62(1)(b)](section/64.md)
+    - [s. 65 Cancellation of the Board’s designation under section 62(1)(c)](section/65.md)
+    - [s. 66 The Board’s power to recommend orders made under section 62](section/66.md)
+    - [s. 67 Effect of the Board’s designation as an approved regulator](section/67.md)
+    - [s. 68 Regulatory conflict and the Board as approved regulator](section/68.md)
+  - Functions of approved regulators etc
+    - [s. 69 Modification of the functions of approved regulators etc](section/69.md)
+    - [s. 70 Procedural requirements relating to recommendations under section 69](section/70.md)
+- Part 5 Alternative business structures
+  - Introductory
+    - [s. 71 Carrying on of activities by licensed bodies](section/71.md)
+    - [s. 72 “Licensable body”](section/72.md)
+  - Licensing authorities
+    - [s. 73 Licensing authorities and relevant licensing authorities](section/73.md)
+    - [s. 74 Designation of approved regulator as licensing authority](section/74.md)
+    - [s. 75 Automatic cancellation of designation as licensing authority](section/75.md)
+    - [s. 76 Cancellation of designation as licensing authority by order](section/76.md)
+    - [s. 77 Cancellation of designation: further provision](section/77.md)
+    - [s. 78 The Board’s power to recommend orders made under section 77](section/78.md)
+    - [s. 79 Cancellation of designation: powers of entry etc](section/79.md)
+  - Appeals
+    - [s. 80 Functions of appellate bodies](section/80.md)
+    - [s. 81 Procedural requirements relating to recommendations under section 80](section/81.md)
+  - Policy statement
+    - [s. 82 Licensing authority policy statement](section/82.md)
+  - Licensing rules
+    - [s. 83 Licensing rules](section/83.md)
+  - Licensing
+    - [s. 84 Application for licence](section/84.md)
+    - [s. 85 Terms of licence](section/85.md)
+    - [s. 86 Modification of licence](section/86.md)
+    - [s. 87 Registers of licensed bodies](section/87.md)
+    - [s. 88 Evidence of status](section/88.md)
+  - Ownership of licensed bodies
+    - [s. 89 Ownership of licensed bodies](section/89.md)
+  - Regulation of licensed bodies
+    - [s. 90 Duties of non-authorised persons](section/90.md)
+    - [s. 91 Duties of Head of Legal Practice](section/91.md)
+    - [s. 92 Duties of Head of Finance and Administration](section/92.md)
+    - [s. 93 Information](section/93.md)
+    - [s. 94 Enforcement of notices under section 93](section/94.md)
+    - [s. 95 Financial penalties](section/95.md)
+    - [s. 96 Appeals against financial penalties](section/96.md)
+    - [s. 97 Recovery of financial penalties](section/97.md)
+    - [s. 98 Referral of employees etc to appropriate regulator](section/98.md)
+    - [s. 99 Disqualification](section/99.md)
+    - [s. 100 Lists of disqualified persons](section/100.md)
+    - [s. 101 Suspension and revocation of licence](section/101.md)
+    - [s. 102 Intervention](section/102.md)
+    - [s. 103 Regulatory conflict and the Board as licensing authority](section/103.md)
+    - [s. 104 Prevention of regulatory conflict: accounts rules](section/104.md)
+  - Special kinds of body
+    - [s. 105 Trade union exemptions](section/105.md)
+    - [s. 106 Power to modify application of licensing rules etc to special bodies](section/106.md)
+    - [s. 107 Modifications under section 106: supplementary](section/107.md)
+    - [s. 108 “Low risk body”](section/108.md)
+    - [s. 109 Foreign bodies](section/109.md)
+  - Supplementary provision
+    - [s. 110 Reporting requirements relating to Part 5](section/110.md)
+    - [s. 111 Interpretation of Part 5](section/111.md)
+- PART 5A Approved regulators: information powers
+  - The Law Society’s information powers relating to economic crime
+    - [s. 111A The Law Society’s information powers relating to economic crime](section/111A.md)
+    - [s. 111B Enforcement of information powers relating to economic crime](section/111B.md)
+    - [s. 111C Provision of information relating to economic crime by other persons](section/111C.md)
+  - Other approved regulators: information powers relating to economic crime
+    - [s. 111D Order to confer information powers on other approved regulators](section/111D.md)
+    - [s. 111E The Board’s power to recommend orders under section 111D](section/111E.md)
+- Part 6 Legal Complaints
+  - Complaints procedures of authorised persons
+    - [s. 112 Complaints procedures of authorised persons](section/112.md)
+  - Overview of the scheme
+    - [s. 113 Overview of the scheme](section/113.md)
+  - The Office for Legal Complaints
+    - [s. 114 The Office for Legal Complaints](section/114.md)
+    - [s. 115 The ombudsman scheme](section/115.md)
+    - [s. 116 General obligations](section/116.md)
+    - [s. 117 Corporate governance](section/117.md)
+    - [s. 118 Annual report](section/118.md)
+    - [s. 119 Supplementary powers](section/119.md)
+    - [s. 120 Reporting to the Board](section/120.md)
+    - [s. 121 Performance targets and monitoring](section/121.md)
+  - The ombudsmen
+    - [s. 122 Appointment of the Chief Ombudsman and assistant ombudsmen](section/122.md)
+    - [s. 123 Annual report of Chief Ombudsman](section/123.md)
+    - [s. 124 Additional reports of Chief Ombudsman](section/124.md)
+  - Jurisdiction and operation of the ombudsman scheme
+    - [s. 125 Jurisdiction of the ombudsman scheme](section/125.md)
+    - [s. 126 Complaints excluded because respondent’s complaints procedures not used](section/126.md)
+    - [s. 127 Complaints excluded by scheme rules](section/127.md)
+    - [s. 128 Parties](section/128.md)
+    - [s. 129 Pre-commencement acts and omissions](section/129.md)
+    - [s. 130 Orders under section 128](section/130.md)
+    - [s. 131 Acts and omissions by employees etc](section/131.md)
+    - [s. 132 Continuity of complaints](section/132.md)
+    - [s. 133 Operation of the ombudsman scheme](section/133.md)
+    - [s. 134 Delegation of an ombudsman’s functions](section/134.md)
+    - [s. 135 Notification requirements](section/135.md)
+    - [s. 136 Charges payable by respondents](section/136.md)
+  - Determinations under the scheme
+    - [s. 137 Determination of complaints](section/137.md)
+    - [s. 138 Limitation on value of directions under the ombudsman scheme](section/138.md)
+    - [s. 139 Alteration of limit](section/139.md)
+    - [s. 140 Acceptance or rejection of determination](section/140.md)
+    - [s. 141 Enforcement by complainant of directions under section 137](section/141.md)
+    - [s. 142 Reporting court orders made against authorised persons](section/142.md)
+  - Reporting misconduct
+    - [s. 143 Reporting possible misconduct to approved regulators](section/143.md)
+  - Co-operation with investigations
+    - [s. 144 Duties to share information](section/144.md)
+    - [s. 145 Duties of authorised persons to co-operate with investigations](section/145.md)
+    - [s. 146 Reporting failures to co-operate with an investigation to approved regulators](section/146.md)
+  - Information
+    - [s. 147 Information and documents](section/147.md)
+    - [s. 148 Reporting failures to provide information or produce documents](section/148.md)
+    - [s. 149 Enforcement of requirements to provide information or produce documents](section/149.md)
+    - [s. 150 Reports of investigations](section/150.md)
+    - [s. 151 Restricted information](section/151.md)
+    - [s. 152 Disclosure of restricted information](section/152.md)
+    - [s. 153 Data protection](section/153.md)
+  - Defamation
+    - [s. 154 Protection from defamation claims](section/154.md)
+  - Scheme rules
+    - [s. 155 Consent requirements for rules](section/155.md)
+    - [s. 156 The Board’s powers in respect of rules](section/156.md)
+  - Effect on existing arrangements for redress etc
+    - [s. 157 Approved regulators not to make provision for redress](section/157.md)
+    - [s. 158 Regulatory arrangements not prohibited by section 157](section/158.md)
+    - [s. 159 Legal Services Complaints Commissioner and Legal Services Ombudsman](section/159.md)
+  - Interpretation
+    - [s. 160 Interpretation of Part 6](section/160.md)
+  - Claims management services
+    - [s. 161 Extension of Part 6 to claims management services](section/161.md)
+- Part 7 Further provisions relating to the Board and the OLC
+  - Guidance
+    - [s. 162 Guidance](section/162.md)
+  - Voluntary arrangements
+    - [s. 163 Voluntary arrangements](section/163.md)
+    - [s. 164 Power to establish voluntary scheme for resolving complaints](section/164.md)
+    - [s. 165 Procedure for making orders under section 164](section/165.md)
+    - [s. 166 Operation of voluntary scheme](section/166.md)
+  - Disclosure and use of information
+    - [s. 167 Restricted information](section/167.md)
+    - [s. 168 Disclosure of restricted information](section/168.md)
+    - [s. 169 Disclosure of information to the Board](section/169.md)
+    - [s. 170 Data protection](section/170.md)
+    - [s. 171 Use of information](section/171.md)
+  - Payments by Lord Chancellor
+    - [s. 172 Funding](section/172.md)
+  - The levy
+    - [s. 173 The levy](section/173.md)
+    - [s. 174 The levy: supplementary provisions](section/174.md)
+  - OLC expenditure relating to claims management services
+    - [s. 174A OLC expenditure relating to claims management services](section/174A.md)
+  - Payments into the Consolidated Fund
+    - [s. 175 Amounts payable into the Consolidated Fund](section/175.md)
+- Part 8 Miscellaneous provisions about lawyers etc
+  - Duties of regulated persons
+    - [s. 176 Duties of regulated persons](section/176.md)
+  - Solicitors, the Law Society and the Disciplinary Tribunal
+    - [s. 177 The Law Society, solicitors, recognised bodies and foreign lawyers](section/177.md)
+    - [s. 178 The Solicitors Disciplinary Tribunal: approval of rules](section/178.md)
+    - [s. 179 Board’s power to give directions to the Tribunal](section/179.md)
+    - [s. 180 Functions of the Tribunal](section/180.md)
+  - Other lawyers
+    - [s. 181 Unqualified person not to pretend to be a barrister](section/181.md)
+    - [s. 182 Licensed conveyancers](section/182.md)
+    - [s. 183 Commissioners for oaths](section/183.md)
+    - [s. 184 Trade mark attorneys](section/184.md)
+    - [s. 185 Patent attorneys](section/185.md)
+    - [s. 186 Immigration advisers and immigration service providers](section/186.md)
+    - [s. 187 Claims management services](section/187.md)
+  - Advocates and litigators
+    - [s. 188 Duties of advocates and litigators](section/188.md)
+    - [s. 189 Employed advocates](section/189.md)
+  - Legal professional privilege
+    - [s. 190 Legal professional privilege](section/190.md)
+  - Employees of housing management bodies
+    - [s. 191 Rights of audience etc of employees of housing management bodies](section/191.md)
+  - Savings
+    - [s. 192 Powers of court in respect of rights of audience and conduct of litigation](section/192.md)
+    - [s. 193 Solicitors to public departments and the City of London](section/193.md)
+  - Pro bono representation
+    - [s. 194 Payments in respect of pro bono representation: civil courts in England and Wales](section/194.md)
+    - [s. 194A Payments in respect of pro bono representation: tribunals](section/194A.md)
+    - [s. 194B Payments in respect of pro bono representation: Supreme Court](section/194B.md)
+    - [s. 194C Sections 194 to 194B: the prescribed charity](section/194C.md)
+  - Scotland
+    - [s. 195 Application of the Legal Profession and Legal Aid (Scotland) Act 2007](section/195.md)
+    - [s. 196 Scottish legal services ombudsman: functions](section/196.md)
+- Part 9 General
+  - Offences
+    - [s. 197 Offences committed by bodies corporate and unincorporated bodies](section/197.md)
+    - [s. 198 Local weights and measures authorities](section/198.md)
+  - Protected functions of the Lord Chancellor
+    - [s. 199 Protected functions of the Lord Chancellor](section/199.md)
+  - Notices etc
+    - [s. 200 Notices and directions](section/200.md)
+    - [s. 201 Documents](section/201.md)
+    - [s. 202 The giving of notices, directions and other documents](section/202.md)
+    - [s. 203 The giving of notices, directions and other documents in electronic form](section/203.md)
+  - Orders, rules etc
+    - [s. 204 Orders, regulations and rules](section/204.md)
+    - [s. 205 Consultation requirements for rules](section/205.md)
+    - [s. 206 Parliamentary control of orders and regulations](section/206.md)
+  - Interpretation
+    - [s. 207 Interpretation](section/207.md)
+  - Miscellaneous and supplementary
+    - [s. 208 Minor and consequential provision etc](section/208.md)
+    - [s. 209 Transitional and transitory provision](section/209.md)
+    - [s. 210 Repeals](section/210.md)
+    - [s. 211 Commencement](section/211.md)
+    - [s. 212 Extent](section/212.md)
+    - [s. 213 Index of defined expressions](section/213.md)
+    - [s. 214 Short title](section/214.md)
+- SCHEDULE 1 The Legal Services Board
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Terms of appointment and tenure of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Remuneration etc of members
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Staff
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Arrangements for assistance
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Committees
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Proceedings
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Delegation of functions
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Borrowing
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Accounts
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Status
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Application of seal and proof of instruments
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Disqualification
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - Freedom of information
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - Public records
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Exemption from liability in damages
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+- SCHEDULE 2 The reserved legal activities
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Rights of audience
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Conduct of litigation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Reserved instrument activities
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Probate activities
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Notarial activities
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Administration of oaths
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Exempt persons
+  - Rights of audience
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Conduct of litigation
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Reserved instrument activities
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Probate activities
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Notarial activities
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Administration of oaths
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - European lawyers
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Employers etc acting through exempt person
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Further exempt persons
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Approved regulators
+  - Part 1 Existing regulators
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Part 2 Designation of bodies by order
+    - Application to the Board
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Dismissal of application
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Board’s duty to seek advice
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Advice of Competition and Markets Authority
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Advice of the Consumer Panel
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Advice of selected consultees
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Advice of the Lord Chief Justice
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Information obtained by consultees
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Representations by applicant
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Publication of advice and representations etc
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Rules governing decisions by the Board
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Determination of applications
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Effect of grant of application
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Lord Chancellor’s decision to make an order
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Approval of regulatory arrangements
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - Part 3 Alteration of approved regulator’s regulatory arrangements
+    - Requirement for approval
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Application to Board
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Initial determination
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Advice
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Representations by applicant
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Publication of advice and representations etc
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Decision by the Board
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Failure to decide application during decision period
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Effect of grant of application
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+- SCHEDULE 5 Authorised persons
+  - Part 1 Continuity of rights
+    - Rights of audience and conduct of litigation
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Conveyancing services
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Probate activities
+      - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+  - Part 2 Rights during transitional period
+    - The transitional period
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Barristers etc
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Solicitors etc
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Legal Executives
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Licensed conveyancers
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Notaries public
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Patent attorneys
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Trade mark attorneys
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Law costs draftsmen
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Part 3 Interpretation
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 Alteration of reserved legal activities
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Requests for Board to hold a full investigation
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Board’s duty to hold preliminary inquiries in certain cases
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Board’s power to hold preliminary inquiries in other cases
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Advice
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Restrictions on refusing a paragraph 2 request
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Decision to hold investigation
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Duty to investigate and produce a provisional report within the investigation period
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - “The investigation period”
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Supplementary provisions about the investigation
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Consideration of the provisional report
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Duty to prepare final report within the final reporting period
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - “The final reporting period”
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Costs
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- SCHEDULE 7 Directions: procedure
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Notification of the approved regulator
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Board’s duty to seek advice
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Advice of the Lord Chancellor
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Advice of Competition and Markets Authority
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Advice of the Consumer Panel
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Advice of selected consultees
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Advice of the Lord Chief Justice
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Consultees’ powers to request information
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Representations by approved regulator
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Publication of advice etc
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Decision by the Board
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Intervention directions: procedure
+  - Part 1 Giving intervention directions
+    - Introductory
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Notification of the approved regulator
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Board’s duty to seek advice
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Advice of the Lord Chancellor
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Advice of Competition and Markets Authority
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Advice of the Consumer Panel
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Advice of selected consultees
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Advice of the Lord Chief Justice
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Consultees’ powers to request information
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Representations by the approved regulator etc
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Further provision about publishing of advice and representations
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Decision by the Board
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Part 2 Revoking intervention directions
+    - Introductory
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Board’s duty to seek advice
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Advice of the Lord Chancellor
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Advice of Competition and Markets Authority
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Advice of the Consumer Panel
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Advice of the selected consultees
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Advice of the Lord Chief Justice
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Information obtained by consultees
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Representations by approved regulator etc
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Further provision about publishing advice and representations
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Decision by the Board
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+- SCHEDULE 9 Cancellation of designation as approved regulator
+  - Introductory
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Notification of the approved regulator
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Board’s duty to seek advice
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Advice of Competition and Markets Authority
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Advice of the Consumer Panel
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Advice of selected consultees
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Advice of the Lord Chief Justice
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Information obtained by consultees
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Representations by the approved regulator etc
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Publication of advice etc
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Decision by the Board
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Designation of approved regulators as licensing authorities
+  - Part 1 Designation of approved regulators by order
+    - Application to the Board
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Dismissal of application
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Board’s duty to seek advice
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Advice of Competition and Markets Authority
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Advice of the Consumer Panel
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Advice of selected consultees
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Advice of the Lord Chief Justice
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Information obtained by consultees
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Representations by applicant
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Publication of advice and representations etc
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Rules governing decisions by the Board
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Determination of applications
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Effect of grant of application
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Lord Chancellor’s decision to make an order
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Approval of licensing rules
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Part 2 Cancellation of designation by order
+    - Introductory
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Notification of the licensing authority
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Board’s duty to seek advice
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Advice of Competition and Markets Authority
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Advice of the Consumer Panel
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Advice of selected consultees
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Advice of the Lord Chief Justice
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - Information obtained by consultees
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - Representations by the approved regulator etc
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Publication of advice etc
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - Decision by the Board
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+- SCHEDULE 11 Licensing rules
+  - Part 1 Licensing procedure
+    - Applications for licences
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Determination of applications
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Review of determination
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Period of licence and renewal
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Continuity of licences
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Modification of licences
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Modifications under section 106 or 107
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Part 2 Structural requirements
+    - Management
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Head of Legal Practice
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Head of Finance and Administration
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Part 3 Practice requirements
+    - Practising address
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Licensed activities
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Compliance with regulatory arrangements etc
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - Disqualified employees
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Indemnification arrangements and compensation arrangements
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - Accounts
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Part 4 Regulation
+    - Fees
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - Financial penalties
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - Disqualifications
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - Suspension or revocation of licence under section 101
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+- SCHEDULE 12 Entitlement to make an application for a licence to the Board
+  - Application to Board
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Board’s decision on an application under paragraph 1
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Licensing authority’s duty to make relevant determinations
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - “The Board”
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - “Competent licensing authority”
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - “Potentially competent licensing authority”
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - “Suitable regulatory arrangements”
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+- SCHEDULE 13 Ownership of licensed bodies
+  - Part 1 Introductory
+    - Restricted interests subject to approval
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Restricted interest
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Material interest
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Controlled interest
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Associates, parent undertakings and voting power
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - The approval requirements
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Approval of multiple restricted interests
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Board’s power to prescribe rules
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Lord Chancellor’s power to modify
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Part 2 Approval of restricted interests on application for licence
+    - Requirement to identify non-authorised persons
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - Requirement to notify non-authorised persons
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - Licensing authority’s power to require information
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - Licence may not be granted unless non-authorised persons approved
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - Unconditional approval of notified interest
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - Conditional approval of notified interest
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - Objection to notified interest
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+  - Part 3 Approval of restricted interests after licence is issued
+    - Powers of licensing authority in relation to change of interests
+      - Continuing notification requirements
+        - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+      - Offences in connection with paragraph 21
+        - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+        - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+        - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+      - Duty of licensing authority following notification etc.
+        - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+      - Licensing authority’s power to require information
+        - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+      - Unconditional approval of notifiable interest
+        - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+      - Conditional approval of notifiable interest
+        - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+        - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+      - Duration of unconditional or conditional approval
+        - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+      - Objection to acquisition of notifiable interest
+        - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+        - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - Powers of licensing authority where no change of interests
+      - Imposition of conditions (or further conditions) on existing restricted interest
+        - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+        - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+      - Variation and cancellation of conditions
+        - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+      - Objection to existing restricted interest
+        - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+        - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+  - Part 4 Additional restrictions
+    - Power to impose share limit, voting limit etc
+      - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - Obligation to notify where share limit or voting limit exceeded
+      - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+      - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+  - Part 5 Enforcement
+    - Divestiture
+      - The divestiture condition
+        - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+        - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+      - Application for divestiture
+        - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+      - Restriction notice
+        - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+      - Divestiture by High Court
+        - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - Conditions
+      - Enforcement of conditions
+        - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+    - Records of decisions
+      - Duty to notify Board of decisions under this Schedule
+        - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+        - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+      - Power to notify Board where share limit or voting limit breached
+        - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+        - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+      - Board’s list of persons subject to objections and conditions
+        - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+- SCHEDULE 14 Licensing authority’s powers of intervention
+  - Introductory
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Money: prohibition on payment
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Money etc: vesting in licensing authority
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Money: information
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Notice to produce or deliver documents
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Order to produce or deliver documents
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Taking possession of documents etc under notice or order
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Mail and other forms of communication
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Use of documents in licensing authority’s possession
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Trusts
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - General powers of licensing authority
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Licensing authority’s costs
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+- SCHEDULE 15 The Office for Legal Complaints
+  - Membership
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Terms of appointment and tenure of members
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Remuneration etc of members
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Staff
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - Arrangements for assistance
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - Committees
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - Proceedings
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+  - Delegation of functions
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - Budget
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - Land
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - Borrowing
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+  - Accounts
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+  - Status
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+  - Application of seal and proof of instruments
+    - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+  - Disqualification
+    - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+  - Freedom of information
+    - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+  - Public records
+    - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+  - Exemption from liability in damages
+    - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+- SCHEDULE 16 The Law Society, solicitors, recognised bodies and foreign lawyers
+  - Part 1 The Solicitors Act 1974 (c. 47)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+    - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+    - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+    - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+    - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+    - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+    - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+    - [Sch. 16 para. 48](schedule/16/paragraph/48.md)
+    - [Sch. 16 para. 49](schedule/16/paragraph/49.md)
+    - [Sch. 16 para. 50](schedule/16/paragraph/50.md)
+    - [Sch. 16 para. 51](schedule/16/paragraph/51.md)
+    - [Sch. 16 para. 52](schedule/16/paragraph/52.md)
+    - [Sch. 16 para. 53](schedule/16/paragraph/53.md)
+    - [Sch. 16 para. 54](schedule/16/paragraph/54.md)
+    - [Sch. 16 para. 55](schedule/16/paragraph/55.md)
+    - [Sch. 16 para. 56](schedule/16/paragraph/56.md)
+    - [Sch. 16 para. 57](schedule/16/paragraph/57.md)
+    - [Sch. 16 para. 58](schedule/16/paragraph/58.md)
+    - [Sch. 16 para. 59](schedule/16/paragraph/59.md)
+    - [Sch. 16 para. 60](schedule/16/paragraph/60.md)
+    - [Sch. 16 para. 61](schedule/16/paragraph/61.md)
+    - [Sch. 16 para. 62](schedule/16/paragraph/62.md)
+    - [Sch. 16 para. 63](schedule/16/paragraph/63.md)
+    - [Sch. 16 para. 64](schedule/16/paragraph/64.md)
+    - [Sch. 16 para. 65](schedule/16/paragraph/65.md)
+    - [Sch. 16 para. 66](schedule/16/paragraph/66.md)
+    - [Sch. 16 para. 67](schedule/16/paragraph/67.md)
+    - [Sch. 16 para. 68](schedule/16/paragraph/68.md)
+    - [Sch. 16 para. 69](schedule/16/paragraph/69.md)
+    - [Sch. 16 para. 70](schedule/16/paragraph/70.md)
+    - [Sch. 16 para. 71](schedule/16/paragraph/71.md)
+    - [Sch. 16 para. 72](schedule/16/paragraph/72.md)
+    - [Sch. 16 para. 73](schedule/16/paragraph/73.md)
+    - [Sch. 16 para. 74](schedule/16/paragraph/74.md)
+    - [Sch. 16 para. 75](schedule/16/paragraph/75.md)
+    - [Sch. 16 para. 76](schedule/16/paragraph/76.md)
+    - [Sch. 16 para. 77](schedule/16/paragraph/77.md)
+    - [Sch. 16 para. 78](schedule/16/paragraph/78.md)
+    - [Sch. 16 para. 79](schedule/16/paragraph/79.md)
+  - Part 2 The Administration of Justice Act 1985 (c. 61)
+    - [Sch. 16 para. 80](schedule/16/paragraph/80.md)
+    - [Sch. 16 para. 81](schedule/16/paragraph/81.md)
+    - [Sch. 16 para. 82](schedule/16/paragraph/82.md)
+    - [Sch. 16 para. 83](schedule/16/paragraph/83.md)
+    - [Sch. 16 para. 84](schedule/16/paragraph/84.md)
+    - [Sch. 16 para. 85](schedule/16/paragraph/85.md)
+    - [Sch. 16 para. 86](schedule/16/paragraph/86.md)
+    - [Sch. 16 para. 87](schedule/16/paragraph/87.md)
+    - [Sch. 16 para. 88](schedule/16/paragraph/88.md)
+    - [Sch. 16 para. 89](schedule/16/paragraph/89.md)
+    - [Sch. 16 para. 90](schedule/16/paragraph/90.md)
+    - [Sch. 16 para. 91](schedule/16/paragraph/91.md)
+    - [Sch. 16 para. 92](schedule/16/paragraph/92.md)
+    - [Sch. 16 para. 93](schedule/16/paragraph/93.md)
+    - [Sch. 16 para. 94](schedule/16/paragraph/94.md)
+    - [Sch. 16 para. 95](schedule/16/paragraph/95.md)
+    - [Sch. 16 para. 96](schedule/16/paragraph/96.md)
+    - [Sch. 16 para. 97](schedule/16/paragraph/97.md)
+    - [Sch. 16 para. 98](schedule/16/paragraph/98.md)
+    - [Sch. 16 para. 99](schedule/16/paragraph/99.md)
+    - [Sch. 16 para. 100](schedule/16/paragraph/100.md)
+    - [Sch. 16 para. 101](schedule/16/paragraph/101.md)
+    - [Sch. 16 para. 102](schedule/16/paragraph/102.md)
+    - [Sch. 16 para. 103](schedule/16/paragraph/103.md)
+    - [Sch. 16 para. 104](schedule/16/paragraph/104.md)
+    - [Sch. 16 para. 105](schedule/16/paragraph/105.md)
+    - [Sch. 16 para. 106](schedule/16/paragraph/106.md)
+    - [Sch. 16 para. 107](schedule/16/paragraph/107.md)
+    - [Sch. 16 para. 108](schedule/16/paragraph/108.md)
+    - [Sch. 16 para. 109](schedule/16/paragraph/109.md)
+    - [Sch. 16 para. 110](schedule/16/paragraph/110.md)
+    - [Sch. 16 para. 111](schedule/16/paragraph/111.md)
+    - [Sch. 16 para. 112](schedule/16/paragraph/112.md)
+    - [Sch. 16 para. 113](schedule/16/paragraph/113.md)
+    - [Sch. 16 para. 114](schedule/16/paragraph/114.md)
+    - [Sch. 16 para. 115](schedule/16/paragraph/115.md)
+    - [Sch. 16 para. 116](schedule/16/paragraph/116.md)
+    - [Sch. 16 para. 117](schedule/16/paragraph/117.md)
+    - [Sch. 16 para. 118](schedule/16/paragraph/118.md)
+    - [Sch. 16 para. 119](schedule/16/paragraph/119.md)
+    - [Sch. 16 para. 120](schedule/16/paragraph/120.md)
+    - [Sch. 16 para. 121](schedule/16/paragraph/121.md)
+    - [Sch. 16 para. 122](schedule/16/paragraph/122.md)
+    - [Sch. 16 para. 123](schedule/16/paragraph/123.md)
+  - Part 3 The Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 16 para. 124](schedule/16/paragraph/124.md)
+    - [Sch. 16 para. 125](schedule/16/paragraph/125.md)
+    - [Sch. 16 para. 126](schedule/16/paragraph/126.md)
+    - [Sch. 16 para. 127](schedule/16/paragraph/127.md)
+    - [Sch. 16 para. 128](schedule/16/paragraph/128.md)
+    - [Sch. 16 para. 129](schedule/16/paragraph/129.md)
+    - [Sch. 16 para. 130](schedule/16/paragraph/130.md)
+    - [Sch. 16 para. 131](schedule/16/paragraph/131.md)
+    - [Sch. 16 para. 132](schedule/16/paragraph/132.md)
+    - [Sch. 16 para. 133](schedule/16/paragraph/133.md)
+    - [Sch. 16 para. 134](schedule/16/paragraph/134.md)
+    - [Sch. 16 para. 135](schedule/16/paragraph/135.md)
+    - [Sch. 16 para. 136](schedule/16/paragraph/136.md)
+    - [Sch. 16 para. 137](schedule/16/paragraph/137.md)
+    - [Sch. 16 para. 138](schedule/16/paragraph/138.md)
+- SCHEDULE 17 Licensed conveyancing
+  - Part 1 Administration of Justice Act 1985 (c. 61)
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+    - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+    - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+    - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+    - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+    - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+    - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+    - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+  - Part 2 Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+    - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+    - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+- SCHEDULE 18 Immigration advice and immigration services
+  - Part 1 Qualifying regulators
+    - Designation orders
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - Continuity of existing rights
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - Application to become a qualifying regulator
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - Consultation and representations
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - Determination of application
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - Effect of application
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - Loss of qualifying regulator status
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Part 2 Amendments of the Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+  - Part 3 Transitional provision
+    - The transitional period
+      - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+    - Barristers etc
+      - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+      - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - Solicitors etc
+      - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+      - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+    - Legal Executives
+      - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+- SCHEDULE 19 Claims management services
+  - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+  - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+  - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+- SCHEDULE 20 Amendments in relation to the Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)
+  - Solicitors (Scotland) Act 1980 (c. 46)
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+- SCHEDULE 21 Minor and consequential amendments
+  - Public Notaries Act 1801 (c. 79)
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Public Notaries Act 1843 (c. 90)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Bills of Exchange Act 1882 (c. 61)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - Commissioners for Oaths Act 1889 (c. 10)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+  - Benefices Act 1898 (c. 48)
+    - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+  - Children and Young Persons Act 1933 (c. 12)
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+    - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+    - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+    - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+    - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+    - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+  - London Building Acts (Amendment) Act 1939 (c. xcvii)
+    - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+  - Accommodation Agencies Act 1953 (c. 23)
+    - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+  - Geneva Conventions Act 1957 (c. 52)
+    - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+  - Horserace Betting Levy Act 1969 (c. 14)
+    - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+  - Taxes Management Act 1970 (c. 9)
+    - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+  - Powers of Attorney Act 1971 (c. 27)
+    - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+  - Poisons Act 1972 (c. 66)
+    - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+  - Matrimonial Causes Act 1973 (c. 18)
+    - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+  - ...
+    - [Sch. 21 para. 32](schedule/21/paragraph/32.md)
+  - Bail Act 1976 (c. 63)
+    - [Sch. 21 para. 33](schedule/21/paragraph/33.md)
+    - [Sch. 21 para. 34](schedule/21/paragraph/34.md)
+    - [Sch. 21 para. 35](schedule/21/paragraph/35.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 21 para. 36](schedule/21/paragraph/36.md)
+    - [Sch. 21 para. 37](schedule/21/paragraph/37.md)
+    - [Sch. 21 para. 38](schedule/21/paragraph/38.md)
+    - [Sch. 21 para. 39](schedule/21/paragraph/39.md)
+  - Patents Act 1977 (c. 37)
+    - [Sch. 21 para. 40](schedule/21/paragraph/40.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 21 para. 42](schedule/21/paragraph/42.md)
+    - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
+    - [Sch. 21 para. 44](schedule/21/paragraph/44.md)
+  - Supreme Court Act 1981 (c. 54)
+    - [Sch. 21 para. 45](schedule/21/paragraph/45.md)
+    - [Sch. 21 para. 46](schedule/21/paragraph/46.md)
+    - [Sch. 21 para. 47](schedule/21/paragraph/47.md)
+  - Representation of the People Act 1983 (c. 2)
+    - [Sch. 21 para. 48](schedule/21/paragraph/48.md)
+    - [Sch. 21 para. 49](schedule/21/paragraph/49.md)
+    - [Sch. 21 para. 50](schedule/21/paragraph/50.md)
+    - [Sch. 21 para. 51](schedule/21/paragraph/51.md)
+    - [Sch. 21 para. 52](schedule/21/paragraph/52.md)
+  - Mental Health Act 1983 (c. 20)
+    - [Sch. 21 para. 53](schedule/21/paragraph/53.md)
+    - [Sch. 21 para. 54](schedule/21/paragraph/54.md)
+    - [Sch. 21 para. 55](schedule/21/paragraph/55.md)
+    - [Sch. 21 para. 56](schedule/21/paragraph/56.md)
+    - [Sch. 21 para. 57](schedule/21/paragraph/57.md)
+    - [Sch. 21 para. 58](schedule/21/paragraph/58.md)
+    - [Sch. 21 para. 59](schedule/21/paragraph/59.md)
+    - [Sch. 21 para. 60](schedule/21/paragraph/60.md)
+  - County Courts Act 1984 (c. 28)
+    - [Sch. 21 para. 61](schedule/21/paragraph/61.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 21 para. 62](schedule/21/paragraph/62.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 21 para. 63](schedule/21/paragraph/63.md)
+  - Prosecution of Offences Act 1985 (c. 23)
+    - [Sch. 21 para. 64](schedule/21/paragraph/64.md)
+  - Administration of Justice Act 1985 (c. 61)
+    - [Sch. 21 para. 65](schedule/21/paragraph/65.md)
+    - [Sch. 21 para. 66](schedule/21/paragraph/66.md)
+    - [Sch. 21 para. 67](schedule/21/paragraph/67.md)
+  - Social Security Act 1986 (c. 50)
+    - [Sch. 21 para. 68](schedule/21/paragraph/68.md)
+  - Building Societies Act 1986 (c. 53)
+    - [Sch. 21 para. 69](schedule/21/paragraph/69.md)
+    - [Sch. 21 para. 70](schedule/21/paragraph/70.md)
+    - [Sch. 21 para. 71](schedule/21/paragraph/71.md)
+    - [Sch. 21 para. 72](schedule/21/paragraph/72.md)
+  - Ministry of Defence Police Act 1987 (c. 4)
+    - [Sch. 21 para. 73](schedule/21/paragraph/73.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 21 para. 74](schedule/21/paragraph/74.md)
+  - Copyright, Designs and Patents Act 1988 (c. 48)
+    - [Sch. 21 para. 75](schedule/21/paragraph/75.md)
+    - [Sch. 21 para. 76](schedule/21/paragraph/76.md)
+    - [Sch. 21 para. 77](schedule/21/paragraph/77.md)
+    - [Sch. 21 para. 78](schedule/21/paragraph/78.md)
+    - [Sch. 21 para. 79](schedule/21/paragraph/79.md)
+    - [Sch. 21 para. 80](schedule/21/paragraph/80.md)
+  - Law of Property (Miscellaneous Provisions) Act 1989 (c. 34)
+    - [Sch. 21 para. 81](schedule/21/paragraph/81.md)
+  - Companies Act 1989 (c. 40)
+    - [Sch. 21 para. 82](schedule/21/paragraph/82.md)
+  - Courts and Legal Services Act 1990 (c. 41)
+    - [Sch. 21 para. 83](schedule/21/paragraph/83.md)
+    - [Sch. 21 para. 84](schedule/21/paragraph/84.md)
+    - [Sch. 21 para. 85](schedule/21/paragraph/85.md)
+    - [Sch. 21 para. 86](schedule/21/paragraph/86.md)
+    - [Sch. 21 para. 87](schedule/21/paragraph/87.md)
+    - [Sch. 21 para. 88](schedule/21/paragraph/88.md)
+    - [Sch. 21 para. 89](schedule/21/paragraph/89.md)
+    - [Sch. 21 para. 90](schedule/21/paragraph/90.md)
+    - [Sch. 21 para. 91](schedule/21/paragraph/91.md)
+    - [Sch. 21 para. 92](schedule/21/paragraph/92.md)
+    - [Sch. 21 para. 93](schedule/21/paragraph/93.md)
+    - [Sch. 21 para. 94](schedule/21/paragraph/94.md)
+    - [Sch. 21 para. 95](schedule/21/paragraph/95.md)
+    - [Sch. 21 para. 96](schedule/21/paragraph/96.md)
+    - [Sch. 21 para. 97](schedule/21/paragraph/97.md)
+    - [Sch. 21 para. 98](schedule/21/paragraph/98.md)
+    - [Sch. 21 para. 99](schedule/21/paragraph/99.md)
+    - [Sch. 21 para. 100](schedule/21/paragraph/100.md)
+    - [Sch. 21 para. 101](schedule/21/paragraph/101.md)
+  - Environmental Protection Act 1990 (c. 43)
+    - [Sch. 21 para. 102](schedule/21/paragraph/102.md)
+  - Friendly Societies Act 1992 (c. 40)
+    - [Sch. 21 para. 103](schedule/21/paragraph/103.md)
+  - Trade Union and Labour Relations Consolidation Act 1992 (c. 52)
+    - [Sch. 21 para. 104](schedule/21/paragraph/104.md)
+    - [Sch. 21 para. 105](schedule/21/paragraph/105.md)
+    - [Sch. 21 para. 106](schedule/21/paragraph/106.md)
+    - [Sch. 21 para. 107](schedule/21/paragraph/107.md)
+  - Finance Act 1993 (c. 34)
+    - [Sch. 21 para. 108](schedule/21/paragraph/108.md)
+  - Trade Marks Act 1994 (c. 26)
+    - [Sch. 21 para. 109](schedule/21/paragraph/109.md)
+    - [Sch. 21 para. 110](schedule/21/paragraph/110.md)
+    - [Sch. 21 para. 111](schedule/21/paragraph/111.md)
+    - [Sch. 21 para. 112](schedule/21/paragraph/112.md)
+    - [Sch. 21 para. 113](schedule/21/paragraph/113.md)
+    - [Sch. 21 para. 114](schedule/21/paragraph/114.md)
+    - [Sch. 21 para. 115](schedule/21/paragraph/115.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 21 para. 116](schedule/21/paragraph/116.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 21 para. 117](schedule/21/paragraph/117.md)
+  - ...
+    - [Sch. 21 para. 118](schedule/21/paragraph/118.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 21 para. 119](schedule/21/paragraph/119.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 21 para. 120](schedule/21/paragraph/120.md)
+  - Family Law Act 1996 (c. 27)
+    - [Sch. 21 para. 121](schedule/21/paragraph/121.md)
+  - Civil Procedure Act 1997 (c. 12)
+    - [Sch. 21 para. 122](schedule/21/paragraph/122.md)
+  - Sexual Offences (Protected Material) Act 1997 (c. 39)
+    - [Sch. 21 para. 123](schedule/21/paragraph/123.md)
+  - National Minimum Wage Act 1998 (c. 39)
+    - [Sch. 21 para. 124](schedule/21/paragraph/124.md)
+    - [Sch. 21 para. 125](schedule/21/paragraph/125.md)
+    - [Sch. 21 para. 126](schedule/21/paragraph/126.md)
+  - Access to Justice Act 1999 (c. 22)
+    - [Sch. 21 para. 127](schedule/21/paragraph/127.md)
+    - [Sch. 21 para. 128](schedule/21/paragraph/128.md)
+    - [Sch. 21 para. 129](schedule/21/paragraph/129.md)
+    - [Sch. 21 para. 130](schedule/21/paragraph/130.md)
+    - [Sch. 21 para. 131](schedule/21/paragraph/131.md)
+  - Youth Justice and Criminal Evidence Act 1999 (c. 23)
+    - [Sch. 21 para. 132](schedule/21/paragraph/132.md)
+  - Criminal Justice and Court Services Act 2000 (c. 43)
+    - [Sch. 21 para. 133](schedule/21/paragraph/133.md)
+  - Finance Act 2002 (c. 23)
+    - [Sch. 21 para. 134](schedule/21/paragraph/134.md)
+    - [Sch. 21 para. 135](schedule/21/paragraph/135.md)
+    - [Sch. 21 para. 136](schedule/21/paragraph/136.md)
+  - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+    - [Sch. 21 para. 137](schedule/21/paragraph/137.md)
+  - Finance Act 2003 (c. 14)
+    - [Sch. 21 para. 138](schedule/21/paragraph/138.md)
+  - Licensing Act 2003 (c. 17)
+    - [Sch. 21 para. 139](schedule/21/paragraph/139.md)
+    - [Sch. 21 para. 140](schedule/21/paragraph/140.md)
+    - [Sch. 21 para. 141](schedule/21/paragraph/141.md)
+  - Courts Act 2003 (c. 39)
+    - [Sch. 21 para. 142](schedule/21/paragraph/142.md)
+    - [Sch. 21 para. 143](schedule/21/paragraph/143.md)
+    - [Sch. 21 para. 144](schedule/21/paragraph/144.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 21 para. 145](schedule/21/paragraph/145.md)
+    - [Sch. 21 para. 146](schedule/21/paragraph/146.md)
+    - [Sch. 21 para. 147](schedule/21/paragraph/147.md)
+    - [Sch. 21 para. 148](schedule/21/paragraph/148.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 21 para. 149](schedule/21/paragraph/149.md)
+  - Civil Partnership Act 2004 (c. 33)
+    - [Sch. 21 para. 150](schedule/21/paragraph/150.md)
+  - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+    - [Sch. 21 para. 151](schedule/21/paragraph/151.md)
+  - Equality Act 2006 (c. 3)
+    - [Sch. 21 para. 152](schedule/21/paragraph/152.md)
+  - Natural Environment and Rural Communities Act 2006 (c. 16)
+    - [Sch. 21 para. 153](schedule/21/paragraph/153.md)
+  - National Health Service Act 2006 (c. 41)
+    - [Sch. 21 para. 154](schedule/21/paragraph/154.md)
+  - National Health Service (Wales) Act 2006 (c. 42)
+    - [Sch. 21 para. 155](schedule/21/paragraph/155.md)
+  - Companies Act 2006 (c. 46)
+    - [Sch. 21 para. 156](schedule/21/paragraph/156.md)
+  - Income Tax Act 2007 (c. 3)
+    - [Sch. 21 para. 157](schedule/21/paragraph/157.md)
+    - [Sch. 21 para. 158](schedule/21/paragraph/158.md)
+    - [Sch. 21 para. 159](schedule/21/paragraph/159.md)
+    - [Sch. 21 para. 160](schedule/21/paragraph/160.md)
+    - [Sch. 21 para. 161](schedule/21/paragraph/161.md)
+  - Tribunals, Courts and Enforcement Act 2007 (c. 15)
+    - [Sch. 21 para. 162](schedule/21/paragraph/162.md)
+- SCHEDULE 22 Transitional and transitory provision
+  - Transitory power to modify the functions of bodies
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Approved regulators
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Licensed Conveyancers
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Exercise of Board’s functions pending appointment of Chief Executive
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+  - Interim Chief Executive of the OLC
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - 1 Solicitors
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+  - Solicitors Act 1974 (c. 47)
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+  - Recognised bodies
+    - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+    - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+    - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+  - Functions transferred to the Lord Chancellor
+    - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+- SCHEDULE 23 Repeals
+- SCHEDULE 24 Index of defined expressions
