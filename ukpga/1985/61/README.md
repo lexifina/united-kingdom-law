@@ -1,0 +1,346 @@
+# Administration of Justice Act 1985
+
+1985 c. 61. Enacted 1985-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1985/61
+
+Source: https://www.legislation.gov.uk/ukpga/1985/61/2025-01-01
+
+## Contents
+
+- Part I Solicitors
+  - Solicitors’ discipline
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 Examination of solicitors’ files in connection with complaints.](section/2.md)
+    - [s. 3 ................................](section/3.md)
+  - Practising certificates
+    - [s. 4 Issue of practising certificates subject to conditions.](section/4.md)
+    - [s. 5 Conditions imposed on current certificates.](section/5.md)
+  - Restrictions applying to unqualified persons
+    - [s. 6 Preparation of conveyancing documents by unqualified persons.](section/6.md)
+    - [s. 7 Preparation of papers for probate etc. by unqualified persons.](section/7.md)
+  - Other amendments
+    - [s. 8 Other amendments of Solicitors Act 1974.](section/8.md)
+  - Legal services bodies and sole solicitors’ practices
+    - [s. 9 Recognition of legal services bodies and of sole solicitors’ practices](section/9.md)
+    - [s. 9A Legal services bodies](section/9A.md)
+    - [s. 10 Penalty for pretending to be a body recognised under s. 9.](section/10.md)
+    - [s. 10A Penalty for sole solicitor pretending that practice is recognised](section/10A.md)
+- Part II Licensed Conveyancing
+  - Preliminary
+    - [s. 11 Provision of conveyancing services by licensed conveyancers.](section/11.md)
+  - The Council for Licensed Conveyancers
+    - [s. 12 Establishment of the Council.](section/12.md)
+  - Training and licensing of persons seeking to practise as licensed conveyancers
+    - [s. 13 Training rules.](section/13.md)
+    - [s. 14 Applications for licences.](section/14.md)
+    - [s. 15 Issue of licences by Council.](section/15.md)
+    - [s. 16 Conditional licences.](section/16.md)
+    - [s. 16A Additional fee payable by certain persons when applying for licences](section/16A.md)
+    - [s. 17 Imposition of conditions during currency of licence.](section/17.md)
+    - [s. 17A Variation of conditions](section/17A.md)
+    - [s. 18 Suspension or termination of licences.](section/18.md)
+    - [s. 19 Register of licensed conveyancers.](section/19.md)
+  - Code of conduct
+    - [s. 20 Rules as to professional practice, conduct and discipline.](section/20.md)
+  - Financial requirements
+    - [s. 21 Professional indemnity and compensation.](section/21.md)
+    - [s. 22 Keeping of accounts and establishment of client accounts.](section/22.md)
+    - [s. 23 Interest on clients’ money.](section/23.md)
+  - Disciplinary and other proceedings
+    - [s. 24 Preliminary investigation of disciplinary cases.](section/24.md)
+    - [s. 24A Determination of allegations by Investigating Committee](section/24A.md)
+    - [s. 25 The Discipline and Appeals Committee.](section/25.md)
+    - [s. 26 Proceedings in disciplinary cases.](section/26.md)
+    - [s. 27 Removal of disqualification from holding a licence.](section/27.md)
+    - [s. 28 Revocation of licence on grounds of fraud or error.](section/28.md)
+    - [s. 29 Appeals from decisions of Council in relation to licences.](section/29.md)
+    - [s. 30 Supplementary provisions relating to disciplinary and other proceedings.](section/30.md)
+  - Intervention by Council
+    - [s. 31 Intervention in licensed conveyancer’s practice and examination of files.](section/31.md)
+  - Recognised bodies
+    - [s. 32 Provision of conveyancing or other services by recognised bodies.](section/32.md)
+    - [s. 32A Conveyancing services bodies](section/32A.md)
+    - [s. 32B CLC practitioner services bodies](section/32B.md)
+  - Miscellaneous and supplemental
+    - [s. 33 Legal professional privilege.](section/33.md)
+    - [s. 33A Administration of oaths by licensed conveyancers or licensed CLC practitioners](section/33A.md)
+    - [s. 34 Modification of existing enactments relating to conveyancing etc.](section/34.md)
+    - [s. 35 Penalty for pretending to be a licensed conveyancer or recognised body.](section/35.md)
+    - [s. 36 Offences by bodies corporate.](section/36.md)
+    - [s. 37 Service of documents.](section/37.md)
+    - [s. 38 Rules.](section/38.md)
+    - [s. 39 Interpretation of Part II.](section/39.md)
+- Part III Legal Aid
+  - Legal aid complaints
+    - [s. 40 Legal aid complaints: preliminary.](section/40.md)
+    - [s. 41 Application to legal aid complaints against barristers of disciplinary provisions.](section/41.md)
+    - [s. 42 Exclusion of barristers from legal aid work.](section/42.md)
+    - [s. 43 Jurisdiction and powers of Solicitors Disciplinary Tribunal in relation to complaints against solicitors.](section/43.md)
+    - [s. 44 Exclusion of solicitor from legal aid work.](section/44.md)
+  - Advice and assistance
+    - [s. 45 ................................](section/45.md)
+  - Legal aid in criminal proceedings
+    - [s. 46 ................................](section/46.md)
+- Part IV The Supreme Court and County Courts
+  - Proceedings relating to estates of deceased persons and trusts
+    - [s. 47 Power of High Court to make judgments binding on persons who are not parties.](section/47.md)
+    - [s. 48 Power of High Court to authorise action to be taken in reliance on counsel’s opinion.](section/48.md)
+    - [s. 49 Powers of High Court on compromise of probate action.](section/49.md)
+    - [s. 50 Power of High Court to appoint substitute for, or to remove, personal representative.](section/50.md)
+    - [s. 51 Amendments relating to jurisdiction of county courts and district probate registrars in probate proceedings.](section/51.md)
+  - Garnishee proceedings
+    - [s. 52 Administrative and clerical expenses of garnishees.](section/52.md)
+  - Reimbursement of costs
+    - [s. 53 Reimbursement of additional costs resulting from death or incapacity of presiding judge etc.](section/53.md)
+  - Register of county court judgments
+    - [s. 54 Register of county court judgments.](section/54.md)
+  - Relief from forfeiture in county court
+    - [s. 55 Power of county court to grant relief from forfeiture for non-payment of rent.](section/55.md)
+  - Interpretation
+    - [s. 56 Interpretation of Part IV.](section/56.md)
+- Part V Miscellaneous and Supplementary
+  - Miscellaneous
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 Pensions Appeal Tribunals: provision for appeals by non-residents to be heard in Scotland or Northern Ireland.](section/59.md)
+    - [s. 60 ................................](section/60.md)
+    - [s. 61 Constitution of [youth courts] in London.](section/61.md)
+    - [s. 62 Amendments of Judicature (Northern Ireland) Act 1978.](section/62.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 Northern Ireland rules of court with respect to disclosure of expert evidence etc.](section/64.md)
+    - [s. 65 ................................](section/65.md)
+  - Supplementary
+    - [s. 66 ................................](section/66.md)
+    - [s. 67 Consequential amendments and repeals.](section/67.md)
+    - [s. 68 Extent: power to make corresponding provision for Northern Ireland.](section/68.md)
+    - [s. 69 Short title, commencement, transitional provisions and savings.](section/69.md)
+- SCHEDULE 1 Minor Amendments of Solicitors Act 1974
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Legal services practices: Supplementary Provisions
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Appeal against refusal of Society to grant recognition etc
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Accounts rules
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Interest on clients’ money
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 4ZA](schedule/2/paragraph/4ZA.md)
+  - Inspection of bank accounts
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+  - Accountants’ reports
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - Compensation Fund
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Solicitor who is justice of the peace not to act in certain proceedings
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Restriction on employment of person struck off roll or suspended
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Failure to disclose fact of having been struck off or suspended
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Control of employment of persons convicted of offences of dishonesty and certain other persons
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Offences in connection with orders under section 43(2) of the 1974 Act
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Powers of Council in respect of inadequate professional services
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - information about suitatbility for recognition
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 14ZA](schedule/2/paragraph/14ZA.md)
+  - Power to charge for costs of investigation
+    - [Sch. 2 para. 14A](schedule/2/paragraph/14A.md)
+  - Disciplinary powers of the Society
+    - [Sch. 2 para. 14B](schedule/2/paragraph/14B.md)
+    - [Sch. 2 para. 14C](schedule/2/paragraph/14C.md)
+  - Lay observers
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Complaints to Tribunal with respect to recognised bodies and recognised sole solicitor’s practice,
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Procedure on applications and complaints
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Powers of Tribunal with respect to recognised bodies
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 18A](schedule/2/paragraph/18A.md)
+  - Powers of Tribunal in respect of inadequate professional services
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Powers of Tribunal in respect of legal aid complaints
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Revocation of recognition by reason of default by director
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Costs: general modification of provisions of Part III of 1974 Act
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Orders as to remuneration for non-contentious business
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Effect of contentious business agreements
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Effect on contentious business agreement of supervening incapacity of recognised body to act for client
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Assessments with respect to contentious business
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Power of court to order delivery of bill of costs, etc.
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Power of court to order recognised body to pay over clients’ money
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Actions to recover costs
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - Power of Society to inspect files relating to certain proceedings
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+  - Bank accounts
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 31A](schedule/2/paragraph/31A.md)
+  - Intervention by Society
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 32A](schedule/2/paragraph/32A.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+  - Privilege from disclosure etc.
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+  - Modification of enactments relating to conveyancing etc.
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+- SCHEDULE 3 The Council for Licensed Conveyancers: Supplementary Provisions
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Constitution
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Remuneration of members
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Incidental powers
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Officers and staff
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Committees of the Council
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Proceedings
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Expenses of Council
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Accounts
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 The Discipline and Appeals Committee: Supplementary Provisions
+  - Rules of procedure
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Evidence etc.
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Filing of orders of Committee
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Intervention in Licensed Conveyancer’s Practice
+  - Part I Circumstances in which Council may Intervene
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part II Powers Exercisable on Intervention
+    - Money
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 6A](schedule/5/paragraph/6A.md)
+      - [Sch. 5 para. 6B](schedule/5/paragraph/6B.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Documents
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Redirection of communications
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Trusts
+      - [Sch. 5 para. 10A](schedule/5/paragraph/10A.md)
+    - General
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 12A](schedule/5/paragraph/12A.md)
+- SCHEDULE 6 Bodies Recognised under s.32: Supplementary Provisions
+  - Construction of references to recognised bodies
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Disciplinary control of recognised bodies
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 3A](schedule/6/paragraph/3A.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Appeals against orders of the Committee
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Revocation of recognition on grounds of fraud or error
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Appeal against decision of Council in relation to grant of recognition
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Rules of procedure, etc.
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Intervention by Council
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Examination of files
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Application of rules relating to accounts and interest on client’s money
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 Consequential Amendments
+  - Legal Aid Act 1974 (c.4)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Solicitors Act 1974 (c.47)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - County Courts Act 1984 (c.28)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Repeals
+  - Part I Repeal Coming into Force on Royal Assent
+  - Part II Repeals Coming into Force Two Months After Royal Assent
+  - Part III Repeals Coming into Force on an Appointed Day
+- SCHEDULE 9 Transitional Provisions and Savings
+  - Imposition of disciplinary sanctions by Council of Law Society
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Examination of solicitors’ files in connection with complaints
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Powers of lay observers and Tribunal in relation to inadequate professional services
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Practising certificates
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Restriction on preparation of contracts of sale etc.
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Restriction on preparation of papers for probate etc.
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Orders modifying provisions so as to apply to incorporated practices
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Legal aid complaints
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Substitution or removal of personal representatives
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Administrative and clerical expenses of garnishees
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Register of county court judgments
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Relief from forfeiture in county court
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Time limits for actions for libel or slander
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Appointment of arbitrator by court
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Limitation of damages against resident magistrates etc. in Northern Ireland
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Increase of penalties under Solicitors Act 1974
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
