@@ -1,0 +1,706 @@
+# Postal Services Act 2011
+
+2011 c. 5. Enacted 2011-06-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2011/5/2025-01-01
+
+## Contents
+
+- Part 1 Restructuring of Royal Mail group
+  - Removal of existing statutory restrictions on ownership
+    - [s. 1 Removal of restrictions on ownership of Royal Mail Holdings plc etc](section/1.md)
+  - Ownership of the Royal Mail
+    - [s. 2 Report on decision to dispose of shares in a Royal Mail company etc](section/2.md)
+    - [s. 3 Employee share scheme](section/3.md)
+  - Ownership of the Post Office
+    - [s. 4 Restrictions on issue and transfer of shares and share rights in a Post Office company etc](section/4.md)
+    - [s. 5 Report on transfer of interest in a Post Office company to a relevant mutual](section/5.md)
+    - [s. 6 Meaning of “Post Office company”](section/6.md)
+    - [s. 7 Meaning of “relevant mutual”](section/7.md)
+  - Transfer of property etc
+    - [s. 8 Transfer schemes](section/8.md)
+    - [s. 9 Transfer of employees otherwise than under transfer scheme](section/9.md)
+    - [s. 10 Taxation provisions relating to re-structuring](section/10.md)
+  - Supplementary provisions
+    - [s. 11 Annual report on post office network](section/11.md)
+    - [s. 12 Annual report on postal museum collection and archive](section/12.md)
+    - [s. 13 Directions](section/13.md)
+  - Interpretation
+    - [s. 14 Ownership of companies](section/14.md)
+    - [s. 15 Part 1: general interpretation](section/15.md)
+- Part 2 Royal Mail Pension Plan
+  - Introduction
+    - [s. 16 Introduction](section/16.md)
+  - Powers exercisable
+    - [s. 17 Transfer of qualifying accrued rights to new public scheme](section/17.md)
+    - [s. 18 Division of the RMPP into different sections](section/18.md)
+    - [s. 19 Amendments of the RMPP](section/19.md)
+    - [s. 20 Protection against adverse treatment](section/20.md)
+    - [s. 21 Transfer of assets of the RMPP](section/21.md)
+    - [s. 22 Restriction on power to transfer assets](section/22.md)
+  - Supplementary provisions
+    - [s. 23 Taxation](section/23.md)
+    - [s. 24 Information](section/24.md)
+    - [s. 25 Orders and regulations](section/25.md)
+    - [s. 26 Interpretation of Part 2](section/26.md)
+- Part 3 Regulation of postal services
+  - Postal services
+    - [s. 27 Postal services, postal packets and postal operators](section/27.md)
+    - [s. 28 General authorisation to provide postal services](section/28.md)
+  - The universal postal service
+    - [s. 29 Duty to secure provision of universal postal service](section/29.md)
+    - [s. 30 The universal postal service](section/30.md)
+    - [s. 31 Minimum requirements](section/31.md)
+    - [s. 32 Section 31: definitions](section/32.md)
+    - [s. 33 Exceptions to minimum requirements](section/33.md)
+    - [s. 34 Review of minimum requirements](section/34.md)
+  - Universal service providers
+    - [s. 35 Designation of universal service providers](section/35.md)
+    - [s. 36 Designated USP conditions](section/36.md)
+    - [s. 37 Publication of information about performance](section/37.md)
+    - [s. 38 USP access conditions](section/38.md)
+    - [s. 39 USP accounting conditions](section/39.md)
+  - Persons providing services within scope of universal postal service
+    - [s. 40 Services within scope of the universal postal service](section/40.md)
+    - [s. 41 Notification condition](section/41.md)
+    - [s. 42 General universal service conditions](section/42.md)
+    - [s. 43 Recovery of administrative charges incurred by OFCOM](section/43.md)
+  - Financial support for universal postal service
+    - [s. 44 Review of costs of universal service obligations](section/44.md)
+    - [s. 45 Fairness of bearing burden of universal service obligations](section/45.md)
+    - [s. 46 Contributions for meeting burden](section/46.md)
+    - [s. 47 Report on sharing mechanism](section/47.md)
+  - Postal operators generally
+    - [s. 48 Notification by postal operators](section/48.md)
+    - [s. 49 Essential conditions](section/49.md)
+    - [s. 50 General access conditions](section/50.md)
+    - [s. 51 Consumer protection conditions](section/51.md)
+    - [s. 52 Provision that may be made by consumer protection conditions](section/52.md)
+  - General provisions
+    - [s. 53 Imposition, modification or revocation of regulatory conditions](section/53.md)
+    - [s. 54 Enforcement of regulatory requirements](section/54.md)
+    - [s. 55 Information](section/55.md)
+    - [s. 56 General restriction on disclosure of information](section/56.md)
+  - Appeals
+    - [s. 57 Decisions by OFCOM to impose regulatory conditions, penalties etc](section/57.md)
+    - [s. 58 Appeals from the CAT](section/58.md)
+    - [s. 59 Price control decisions](section/59.md)
+    - [s. 60 Section 59: supplementary](section/60.md)
+  - Supplementary and consequential provisions
+    - [s. 61 Duties in relation to social and environmental matters](section/61.md)
+    - [s. 62 UK postage stamps bearing image of Her Majesty](section/62.md)
+    - [s. 63 Orders, schemes and regulations made by OFCOM](section/63.md)
+    - [s. 64 Abolition of Postal Services Commission etc](section/64.md)
+    - [s. 65 Interpretation of Part 3 etc](section/65.md)
+    - [s. 66 Transitional provisions for Part 3](section/66.md)
+    - [s. 67 Review of Part 3](section/67.md)
+- Part 4 Special administration regime
+  - Postal administration orders
+    - [s. 68 Postal administration orders](section/68.md)
+    - [s. 69 Objective of a postal administration](section/69.md)
+    - [s. 70 Applications for postal administration orders](section/70.md)
+    - [s. 71 Powers of court](section/71.md)
+    - [s. 72 Postal administrators](section/72.md)
+    - [s. 73 Conduct of administration, transfer schemes etc](section/73.md)
+  - Restrictions on other insolvency procedures
+    - [s. 74 Winding-up orders](section/74.md)
+    - [s. 75 Voluntary winding up](section/75.md)
+    - [s. 76 Making of ordinary administration orders](section/76.md)
+    - [s. 77 Administrator appointments by creditors etc](section/77.md)
+    - [s. 78 Enforcement of security](section/78.md)
+  - Financial support for companies in administration
+    - [s. 79 Grants and loans](section/79.md)
+    - [s. 80 Indemnities](section/80.md)
+    - [s. 81 Guarantees where postal administration order is made](section/81.md)
+  - Modifications of regulatory conditions etc
+    - [s. 82 Regulatory powers exercisable during postal administration](section/82.md)
+    - [s. 83 Regulatory conditions to secure funding of postal administration order](section/83.md)
+  - Supplementary provisions
+    - [s. 84 Modification of Part 4 under Enterprise Act 2002](section/84.md)
+    - [s. 85 Interpretation of Part 4](section/85.md)
+    - [s. 86 Partnerships](section/86.md)
+    - [s. 87 Northern Ireland](section/87.md)
+    - [s. 88 Review of Part 4](section/88.md)
+- Part 5 General
+  - [s. 89 Orders and regulations made by Ministers of Crown](section/89.md)
+  - [s. 90 Minor definitions](section/90.md)
+  - [s. 91 Minor and consequential amendments](section/91.md)
+  - [s. 92 Financial provisions](section/92.md)
+  - [s. 93 Short title, commencement and extent](section/93.md)
+- SCHEDULE 1 Transfer schemes
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Identification of property etc to be transferred
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Property, rights and liabilities that may be transferred
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Dividing and modifying transferor’s property, rights and liabilities
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Obligation to effect transfers etc
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Effect of transfer scheme: general
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Effect of transfer scheme on right to terminate or modify interest etc
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Supplementary provisions of schemes
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Proof of title by certificate
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Staff
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Modification of scheme
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Disapplication of certain company law provisions etc
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Taxation provisions relating to re-structuring etc
+  - Transfer of securities of subsidiaries of original holding company to Crown etc
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Transfers of property, rights and liabilities by transfer schemes
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Transfers of securities of original holding company or its subsidiaries
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Further provision about access conditions
+  - Part 1 Provision that may be made by access conditions
+    - Introduction
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Terms of access
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Price controls etc.
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Arrangements for provision of services by others
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Separation for accounting purposes
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Restriction on use of information obtained in connection with giving access
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Periods for compliance
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Dealing with requests for access
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Non-discrimination
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Transparency
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Part 2 Resolution of access disputes by OFCOM
+    - Reference of disputes to OFCOM
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - OFCOM to decide whether to handle dispute
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Resolution of disputes by OFCOM
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Resolution of disputes: OFCOM’s powers
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Resolution of disputes: procedure
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Reference not to affect legal proceedings or OFCOM’s powers
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Information
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- SCHEDULE 4 Recovery of administrative charges incurred by OFCOM
+  - Fixing of charges
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Meaning of OFCOM’s postal services functions
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Procedure for fixing of charges
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Notification of non-payment of charges
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Penalties for non-payment of charges
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Suspending service provision for non-payment
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Enforcement of directions under paragraph 7
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Approval of redress schemes
+  - Approval of redress schemes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Approval of redress schemes: supplementary
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Procedure for refusing or withdrawing approval
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Imposition, modification or revocation of regulatory conditions
+  - General test for imposing or modifying regulatory conditions
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Provision which may be contained in regulatory conditions
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Procedure for imposing, modifying or revoking conditions
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Directions and approvals for purposes of conditions
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Delivery of copies of notifications etc.
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Enforcement of regulatory requirements
+  - Introduction
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Notification of contravention of regulatory requirements
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Enforcement notification for contravention of regulatory requirements
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Penalties for contravention of regulatory requirements
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Power to deal with urgent cases
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Suspending service provision for contravention of regulatory requirements
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Enforcement of directions under paragraph 8 or 11
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Civil liability for breach of regulatory requirements etc.
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+- SCHEDULE 8 Information provisions
+  - Part 1 Requirements to provide information to OFCOM
+    - Information required for purposes of OFCOM’s functions in relation to postal services
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Restrictions on imposing requirements in case of conditions of general application
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Information required for related purposes
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Manner in which information may be required
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part 2 Enforcement
+    - Notification of contravention of information requirements
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Penalties for contravention of information requirements
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Suspending service provision for contravention of information requirements
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Enforcement of directions under paragraph 8
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Offences in connection with information requirements
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Part 3 Supplementary provisions
+    - Statement of policy on information gathering
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Provision of information by OFCOM
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - ...
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+- SCHEDULE 9 Transitional provisions for Part 3
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - The universal postal service
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Provisional designation of universal service providers
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Regulatory conditions applicable as from appointed day
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Recovery of administrative charges incurred by OFCOM
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Power to extend operation of time-limited licence condition
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Anticipatory exercise of powers
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Reliance by OFCOM on work done by Postcomm
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Consultation on exercise of existing regulatory functions
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Enforcement action by Postcomm etc
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - References to universal service provider
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Saving
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+- SCHEDULE 10 Conduct of postal administration
+  - Part 1 Modifications of Schedule B1 to 1986 Act
+    - Introductory
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - General modifications of the applicable provisions
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Specific modifications
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - Part 2 Further modifications of Schedule B1 to 1986 Act: foreign companies
+    - Introductory
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+    - Modifications
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+  - Part 3 Other modifications
+    - General modifications
+      - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+      - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+    - Modifications of 1986 Act
+      - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+      - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+      - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+      - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+    - Power to make further modifications
+      - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+    - Interpretation of Part 3 of Schedule
+      - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+- SCHEDULE 11 Postal transfer schemes
+  - Application of Schedule
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Making of postal transfer schemes
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Approval and modification of scheme by Secretary of State
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Identification of property etc to be transferred
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Property, rights and liabilities that may be transferred
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Dividing and modifying the old company’s property, rights and liabilities
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Transfer of regulatory conditions etc
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Transfer etc of statutory functions
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Effect of postal transfer scheme: general
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Effect of postal transfer scheme on right to terminate or modify interest etc
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Supplementary provisions of postal transfer schemes
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Proof of title by certificate
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - Staff
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Transfers in case of foreign companies
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - Transfers by two or more postal transfer schemes
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+- SCHEDULE 12 Minor and consequential amendments
+  - Part 1 Postal Services Act 2000
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+    - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+    - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+    - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+    - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+    - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+    - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+    - [Sch. 12 para. 48](schedule/12/paragraph/48.md)
+    - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+    - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+    - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+    - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+    - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+    - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+    - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+  - Part 2 Communications Act 2003
+    - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+    - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+    - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+    - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+    - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+    - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+    - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+    - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+    - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+    - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+    - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+    - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+    - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+    - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+    - [Sch. 12 para. 70](schedule/12/paragraph/70.md)
+  - Part 3 Other enactments
+    - Commissioners Clauses Act 1847
+      - [Sch. 12 para. 71](schedule/12/paragraph/71.md)
+    - Improvement of Land Act 1864
+      - [Sch. 12 para. 72](schedule/12/paragraph/72.md)
+    - Bills of Exchange Act 1882
+      - [Sch. 12 para. 73](schedule/12/paragraph/73.md)
+    - Congested Districts (Scotland) Act 1897
+      - [Sch. 12 para. 74](schedule/12/paragraph/74.md)
+    - Law of Property Act 1925
+      - [Sch. 12 para. 75](schedule/12/paragraph/75.md)
+    - Execution of Diligence (Scotland) Act 1926
+      - [Sch. 12 para. 76](schedule/12/paragraph/76.md)
+    - Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947
+      - [Sch. 12 para. 77](schedule/12/paragraph/77.md)
+    - London County Council (General Powers) Act 1957
+      - [Sch. 12 para. 78](schedule/12/paragraph/78.md)
+    - Opencast Coal Act 1958
+      - [Sch. 12 para. 79](schedule/12/paragraph/79.md)
+      - [Sch. 12 para. 80](schedule/12/paragraph/80.md)
+      - [Sch. 12 para. 81](schedule/12/paragraph/81.md)
+    - Public Records Act 1958
+      - [Sch. 12 para. 82](schedule/12/paragraph/82.md)
+      - [Sch. 12 para. 83](schedule/12/paragraph/83.md)
+      - [Sch. 12 para. 84](schedule/12/paragraph/84.md)
+    - City of London (Various Powers) Act 1967
+      - [Sch. 12 para. 85](schedule/12/paragraph/85.md)
+    - Forestry Act 1967
+      - [Sch. 12 para. 86](schedule/12/paragraph/86.md)
+    - Parliamentary Commissioner Act 1967
+      - [Sch. 12 para. 87](schedule/12/paragraph/87.md)
+    - National Loans Act 1968
+      - [Sch. 12 para. 88](schedule/12/paragraph/88.md)
+    - Greater London Council (General Powers) Act 1969
+      - [Sch. 12 para. 89](schedule/12/paragraph/89.md)
+    - Post Office Act 1969
+      - [Sch. 12 para. 90](schedule/12/paragraph/90.md)
+      - [Sch. 12 para. 91](schedule/12/paragraph/91.md)
+      - [Sch. 12 para. 92](schedule/12/paragraph/92.md)
+    - Greater London Council (General Powers) Act 1970
+      - [Sch. 12 para. 93](schedule/12/paragraph/93.md)
+      - [Sch. 12 para. 94](schedule/12/paragraph/94.md)
+      - [Sch. 12 para. 95](schedule/12/paragraph/95.md)
+    - Pensions (Increase) Act 1971
+      - [Sch. 12 para. 96](schedule/12/paragraph/96.md)
+    - Control of Pollution Act 1974
+      - [Sch. 12 para. 97](schedule/12/paragraph/97.md)
+    - Solicitors Act 1974
+      - [Sch. 12 para. 98](schedule/12/paragraph/98.md)
+    - House of Commons Disqualification Act 1975
+      - [Sch. 12 para. 99](schedule/12/paragraph/99.md)
+    - Northern Ireland Assembly Disqualification Act 1975
+      - [Sch. 12 para. 100](schedule/12/paragraph/100.md)
+    - Welsh Development Agency Act 1975
+      - [Sch. 12 para. 101](schedule/12/paragraph/101.md)
+    - Local Government (Miscellaneous Provisions) Act 1976
+      - [Sch. 12 para. 102](schedule/12/paragraph/102.md)
+    - Ancient Monuments and Archaeological Areas Act 1979
+      - [Sch. 12 para. 103](schedule/12/paragraph/103.md)
+    - Highways Act 1980
+      - [Sch. 12 para. 104](schedule/12/paragraph/104.md)
+    - Local Government, Planning and Land Act 1980
+      - [Sch. 12 para. 105](schedule/12/paragraph/105.md)
+      - [Sch. 12 para. 106](schedule/12/paragraph/106.md)
+      - [Sch. 12 para. 107](schedule/12/paragraph/107.md)
+      - [Sch. 12 para. 108](schedule/12/paragraph/108.md)
+      - [Sch. 12 para. 109](schedule/12/paragraph/109.md)
+    - Acquisition of Land Act 1981
+      - [Sch. 12 para. 110](schedule/12/paragraph/110.md)
+    - Forgery and Counterfeiting Act 1981
+      - [Sch. 12 para. 111](schedule/12/paragraph/111.md)
+    - Greater London Council (General Powers) Act 1981
+      - [Sch. 12 para. 112](schedule/12/paragraph/112.md)
+    - New Towns Act 1981
+      - [Sch. 12 para. 113](schedule/12/paragraph/113.md)
+    - Civil Aviation Act 1982
+      - [Sch. 12 para. 114](schedule/12/paragraph/114.md)
+    - Mental Health Act 1983
+      - [Sch. 12 para. 115](schedule/12/paragraph/115.md)
+    - Representation of the People Act 1983
+      - [Sch. 12 para. 116](schedule/12/paragraph/116.md)
+      - [Sch. 12 para. 117](schedule/12/paragraph/117.md)
+      - [Sch. 12 para. 118](schedule/12/paragraph/118.md)
+      - [Sch. 12 para. 119](schedule/12/paragraph/119.md)
+      - [Sch. 12 para. 120](schedule/12/paragraph/120.md)
+      - [Sch. 12 para. 121](schedule/12/paragraph/121.md)
+    - Building Act 1984
+      - [Sch. 12 para. 122](schedule/12/paragraph/122.md)
+    - Administration of Justice Act 1985
+      - [Sch. 12 para. 123](schedule/12/paragraph/123.md)
+    - Insolvency Act 1986
+      - [Sch. 12 para. 124](schedule/12/paragraph/124.md)
+      - [Sch. 12 para. 125](schedule/12/paragraph/125.md)
+      - [Sch. 12 para. 126](schedule/12/paragraph/126.md)
+    - Housing (Scotland) Act 1987
+      - [Sch. 12 para. 127](schedule/12/paragraph/127.md)
+    - Housing Act 1988
+      - [Sch. 12 para. 128](schedule/12/paragraph/128.md)
+      - [Sch. 12 para. 129](schedule/12/paragraph/129.md)
+      - [Sch. 12 para. 130](schedule/12/paragraph/130.md)
+    - ...
+      - [Sch. 12 para. 131](schedule/12/paragraph/131.md)
+    - Planning (Hazardous Substances) Act 1990
+      - [Sch. 12 para. 132](schedule/12/paragraph/132.md)
+    - Planning (Listed Buildings and Conservation Areas) Act 1990
+      - [Sch. 12 para. 133](schedule/12/paragraph/133.md)
+    - Town and Country Planning Act 1990
+      - [Sch. 12 para. 134](schedule/12/paragraph/134.md)
+    - Coal Mining Subsidence Act 1991
+      - [Sch. 12 para. 135](schedule/12/paragraph/135.md)
+    - Land Drainage Act 1991
+      - [Sch. 12 para. 136](schedule/12/paragraph/136.md)
+    - Water Industry Act 1991
+      - [Sch. 12 para. 137](schedule/12/paragraph/137.md)
+    - Water Resources Act 1991
+      - [Sch. 12 para. 138](schedule/12/paragraph/138.md)
+    - Social Security Administration Act 1992
+      - [Sch. 12 para. 139](schedule/12/paragraph/139.md)
+      - [Sch. 12 para. 140](schedule/12/paragraph/140.md)
+      - [Sch. 12 para. 141](schedule/12/paragraph/141.md)
+    - Social Security Administration (Northern Ireland) Act 1992
+      - [Sch. 12 para. 142](schedule/12/paragraph/142.md)
+      - [Sch. 12 para. 143](schedule/12/paragraph/143.md)
+      - [Sch. 12 para. 144](schedule/12/paragraph/144.md)
+    - Taxation of Chargeable Gains Act 1992
+      - [Sch. 12 para. 145](schedule/12/paragraph/145.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 12 para. 146](schedule/12/paragraph/146.md)
+    - Merchant Shipping Act 1995
+      - [Sch. 12 para. 147](schedule/12/paragraph/147.md)
+    - Local Government and Rating Act 1997
+      - [Sch. 12 para. 148](schedule/12/paragraph/148.md)
+    - Planning (Hazardous Substances) (Scotland) Act 1997
+      - [Sch. 12 para. 149](schedule/12/paragraph/149.md)
+    - Planning (Listed Buildings and Conservation Areas) (Scotland) Act 1997
+      - [Sch. 12 para. 150](schedule/12/paragraph/150.md)
+    - Town and Country Planning (Scotland) Act 1997
+      - [Sch. 12 para. 151](schedule/12/paragraph/151.md)
+    - Competition Act 1998
+      - [Sch. 12 para. 152](schedule/12/paragraph/152.md)
+    - Northern Ireland Act 1998
+      - [Sch. 12 para. 153](schedule/12/paragraph/153.md)
+    - Regional Development Agencies Act 1998
+      - [Sch. 12 para. 154](schedule/12/paragraph/154.md)
+    - Greater London Authority Act 1999
+      - [Sch. 12 para. 155](schedule/12/paragraph/155.md)
+    - Countryside and Rights of Way Act 2000
+      - [Sch. 12 para. 156](schedule/12/paragraph/156.md)
+    - Freedom of Information Act 2000
+      - [Sch. 12 para. 157](schedule/12/paragraph/157.md)
+    - Political Parties, Elections and Referendums Act 2000
+      - [Sch. 12 para. 158](schedule/12/paragraph/158.md)
+    - Regulation of Investigatory Powers Act 2000
+      - [Sch. 12 para. 159](schedule/12/paragraph/159.md)
+      - [Sch. 12 para. 160](schedule/12/paragraph/160.md)
+      - [Sch. 12 para. 161](schedule/12/paragraph/161.md)
+    - Anti-terrorism, Crime and Security Act 2001
+      - [Sch. 12 para. 162](schedule/12/paragraph/162.md)
+    - Enterprise Act 2002
+      - [Sch. 12 para. 163](schedule/12/paragraph/163.md)
+      - [Sch. 12 para. 164](schedule/12/paragraph/164.md)
+      - [Sch. 12 para. 165](schedule/12/paragraph/165.md)
+      - [Sch. 12 para. 166](schedule/12/paragraph/166.md)
+      - [Sch. 12 para. 167](schedule/12/paragraph/167.md)
+    - Office of Communications Act 2002
+      - [Sch. 12 para. 168](schedule/12/paragraph/168.md)
+    - Railways and Transport Safety Act 2003
+      - [Sch. 12 para. 169](schedule/12/paragraph/169.md)
+    - Water Act 2003
+      - [Sch. 12 para. 170](schedule/12/paragraph/170.md)
+    - London Local Authorities Act 2004
+      - [Sch. 12 para. 171](schedule/12/paragraph/171.md)
+    - Gambling Act 2005
+      - [Sch. 12 para. 172](schedule/12/paragraph/172.md)
+    - Railways Act 2005
+      - [Sch. 12 para. 173](schedule/12/paragraph/173.md)
+    - Legislative and Regulatory Reform Act 2006
+      - [Sch. 12 para. 174](schedule/12/paragraph/174.md)
+    - Consumer, Estate Agents and Redress Act 2007
+      - [Sch. 12 para. 175](schedule/12/paragraph/175.md)
+      - [Sch. 12 para. 176](schedule/12/paragraph/176.md)
+      - [Sch. 12 para. 177](schedule/12/paragraph/177.md)
+      - [Sch. 12 para. 178](schedule/12/paragraph/178.md)
+      - [Sch. 12 para. 179](schedule/12/paragraph/179.md)
+      - [Sch. 12 para. 180](schedule/12/paragraph/180.md)
+      - [Sch. 12 para. 181](schedule/12/paragraph/181.md)
+      - [Sch. 12 para. 182](schedule/12/paragraph/182.md)
+      - [Sch. 12 para. 183](schedule/12/paragraph/183.md)
+      - [Sch. 12 para. 184](schedule/12/paragraph/184.md)
+      - [Sch. 12 para. 185](schedule/12/paragraph/185.md)
+      - [Sch. 12 para. 186](schedule/12/paragraph/186.md)
+      - [Sch. 12 para. 187](schedule/12/paragraph/187.md)
+      - [Sch. 12 para. 188](schedule/12/paragraph/188.md)
+    - Legal Services Act 2007
+      - [Sch. 12 para. 189](schedule/12/paragraph/189.md)
+    - London Local Authorities Act 2007
+      - [Sch. 12 para. 190](schedule/12/paragraph/190.md)
+    - Regulatory Enforcement and Sanctions Act 2008
+      - [Sch. 12 para. 191](schedule/12/paragraph/191.md)
