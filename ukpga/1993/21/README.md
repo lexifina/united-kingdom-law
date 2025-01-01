@@ -1,0 +1,150 @@
+# Osteopaths Act 1993
+
+1993 c. 21. Enacted 1993-07-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/21
+
+Source: https://www.legislation.gov.uk/ukpga/1993/21/2025-01-01
+
+## Contents
+
+- The General Council and its committees
+  - [s. 1 The General Osteopathic Council and its committees.](section/1.md)
+- Registration of osteopaths
+  - [s. 2 The Registrar of Osteopaths.](section/2.md)
+  - [s. 3 Full registration.](section/3.md)
+  - [s. 4 Conditional registration.](section/4.md)
+  - [s. 5 Provisional registration.](section/5.md)
+  - [s. 5A Temporary registration for visiting osteopaths from relevant European States](section/5A.md)
+  - [s. 6 Registration: supplemental provision.](section/6.md)
+  - [s. 6A Registration: provision relating to specified state professionals](section/6A.md)
+  - [s. 7 Suspension of registration.](section/7.md)
+  - [s. 8 Restoration to the register of osteopaths who have been struck off.](section/8.md)
+  - [s. 9 Access to the register etc.](section/9.md)
+  - [s. 10 Fraud or error in relation to registration.](section/10.md)
+- Professional education
+  - [s. 11 The Education Committee.](section/11.md)
+  - [s. 12 Visitors.](section/12.md)
+  - [s. 13 The standard of proficiency.](section/13.md)
+  - [s. 14 Recognition of qualifications.](section/14.md)
+  - [s. 14A Section 14: further provision relating to specified state professionals](section/14A.md)
+  - [s. 15 Recognition of qualifications: supplemental.](section/15.md)
+  - [s. 16 Withdrawal of recognition.](section/16.md)
+  - [s. 17 Post registration training.](section/17.md)
+  - [s. 18 Information to be given by institutions.](section/18.md)
+- Professional conduct and fitness to practise
+  - [s. 19 The Code of Practice.](section/19.md)
+  - [s. 19A Information to be made available to specified state professionals](section/19A.md)
+  - [s. 20 Professional conduct and fitness to practise.](section/20.md)
+  - [s. 21 Interim suspension powers of the Investigating Committee.](section/21.md)
+  - [s. 22 Consideration of allegations by the Professional Conduct Committee.](section/22.md)
+  - [s. 23 Consideration of allegations by the Health Committee.](section/23.md)
+  - [s. 24 Interim suspension powers of the Professional Conduct Committee and the Health Committee.](section/24.md)
+  - [s. 25 Revocation of interim suspension orders.](section/25.md)
+  - [s. 26 Investigation of allegations: procedural rules.](section/26.md)
+  - [s. 27 Legal assessors.](section/27.md)
+  - [s. 28 Medical assessors.](section/28.md)
+- Appeals
+  - [s. 29 Appeals against decisions of the Registrar.](section/29.md)
+  - [s. 29A Appeals against decisions of the General Council](section/29A.md)
+  - [s. 30 Appeals against decisions of the Health Committee.](section/30.md)
+  - [s. 31 Appeals against decisions of the Professional Conduct Committee and appeal tribunals.](section/31.md)
+- Offences
+  - [s. 32 Offences.](section/32.md)
+- Monopolies and competition
+  - [s. 33 Competition and anti-competitive practices.](section/33.md)
+- Miscellaneous
+  - [s. 34 Default powers of the Privy Council.](section/34.md)
+  - [s. 35 Rules.](section/35.md)
+  - [s. 36 Exercise of powers of Privy Council.](section/36.md)
+  - [s. 37 Indemnity arrangements](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 Exemption from provisions about rehabilitation of offenders.](section/39.md)
+  - [s. 40 Financial provisions.](section/40.md)
+  - [s. 40A Annual reports, statistical reports and strategic plans](section/40A.md)
+- Supplemental
+  - [s. 41 Interpretation.](section/41.md)
+  - [s. 42 Short title, commencement, transitional provisions and extent.](section/42.md)
+- SCHEDULE The General Council and Committees
+  - Part I The General Council
+    - ...
+      - [Sch. paragraph 1](schedule/paragraph/1.md)
+      - [Sch. paragraph 2](schedule/paragraph/2.md)
+      - [Sch. paragraph 3](schedule/paragraph/3.md)
+      - [Sch. paragraph 4](schedule/paragraph/4.md)
+      - [Sch. paragraph 5](schedule/paragraph/5.md)
+      - [Sch. paragraph 6](schedule/paragraph/6.md)
+      - [Sch. paragraph 7](schedule/paragraph/7.md)
+      - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - ...
+      - [Sch. paragraph 9](schedule/paragraph/9.md)
+      - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - ...
+      - [Sch. paragraph 11](schedule/paragraph/11.md)
+      - [Sch. paragraph 11A](schedule/paragraph/11A.md)
+    - ...
+      - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - ...
+      - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - ...
+      - [Sch. paragraph 14](schedule/paragraph/14.md)
+      - [Sch. paragraph 1A Membership: general](schedule/paragraph/1A.md)
+      - [Sch. paragraph 1B Matters for the order of the Privy Council under section 1(4)](schedule/paragraph/1B.md)
+      - [Sch. paragraph 1C Registration of members’ private interests](schedule/paragraph/1C.md)
+      - [Sch. paragraph 1D Duties of co-operation etc.](schedule/paragraph/1D.md)
+    - Powers of the General Council
+      - [Sch. paragraph 15](schedule/paragraph/15.md)
+  - Part II The Statutory Committees
+    - General
+      - [Sch. paragraph 16](schedule/paragraph/16.md)
+      - [Sch. paragraph 17](schedule/paragraph/17.md)
+      - [Sch. paragraph 18](schedule/paragraph/18.md)
+      - [Sch. paragraph 19](schedule/paragraph/19.md)
+      - [Sch. paragraph 20](schedule/paragraph/20.md)
+      - [Sch. paragraph 21](schedule/paragraph/21.md)
+      - [Sch. paragraph 22](schedule/paragraph/22.md)
+      - [Sch. paragraph 23](schedule/paragraph/23.md)
+      - [Sch. paragraph 24](schedule/paragraph/24.md)
+    - The Education Committee
+      - [Sch. paragraph 25](schedule/paragraph/25.md)
+      - [Sch. paragraph 26](schedule/paragraph/26.md)
+      - [Sch. paragraph 27](schedule/paragraph/27.md)
+      - [Sch. paragraph 28](schedule/paragraph/28.md)
+      - [Sch. paragraph 29](schedule/paragraph/29.md)
+    - The Investigating Committee
+      - [Sch. paragraph 30](schedule/paragraph/30.md)
+      - [Sch. paragraph 30A](schedule/paragraph/30A.md)
+      - [Sch. paragraph 31](schedule/paragraph/31.md)
+      - [Sch. paragraph 32](schedule/paragraph/32.md)
+      - [Sch. paragraph 33](schedule/paragraph/33.md)
+    - The Professional Conduct Committee
+      - [Sch. paragraph 34](schedule/paragraph/34.md)
+      - [Sch. paragraph 34A](schedule/paragraph/34A.md)
+      - [Sch. paragraph 34B](schedule/paragraph/34B.md)
+      - [Sch. paragraph 35](schedule/paragraph/35.md)
+      - [Sch. paragraph 36](schedule/paragraph/36.md)
+      - [Sch. paragraph 37](schedule/paragraph/37.md)
+    - The Health Committee
+      - [Sch. paragraph 38](schedule/paragraph/38.md)
+      - [Sch. paragraph 38A](schedule/paragraph/38A.md)
+      - [Sch. paragraph 38B](schedule/paragraph/38B.md)
+      - [Sch. paragraph 39](schedule/paragraph/39.md)
+      - [Sch. paragraph 40](schedule/paragraph/40.md)
+      - [Sch. paragraph 41](schedule/paragraph/41.md)
+  - Part III Transitional Provisions
+    - The initial membership of the General Council
+      - [Sch. paragraph 42](schedule/paragraph/42.md)
+    - The transitional periods
+      - [Sch. paragraph 43](schedule/paragraph/43.md)
+    - The osteopathic members
+      - [Sch. paragraph 44](schedule/paragraph/44.md)
+    - The lay members
+      - [Sch. paragraph 45](schedule/paragraph/45.md)
+    - The education members
+      - [Sch. paragraph 46](schedule/paragraph/46.md)
+    - The Secretary of State’s nominee
+      - [Sch. paragraph 47](schedule/paragraph/47.md)
+    - Appointment of first Chairman
+      - [Sch. paragraph 48](schedule/paragraph/48.md)
