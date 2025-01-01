@@ -2,9 +2,9 @@
 
 2013 c. 24. Enacted 2013-04-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-11-04, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/24` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. Earlier versions, from 2013-04-25, are in the history before it: `git log -- ukpga/2013/24` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2013/24/2024-11-04
+Source: https://www.legislation.gov.uk/ukpga/2013/24/2025-01-01
 
 ## Contents
 
@@ -382,6 +382,22 @@ Source: https://www.legislation.gov.uk/ukpga/2013/24/2024-11-04
       - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
     - First annual plan of the CMA
       - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+- Schedule 4A Functions to which the CMA’s duty of expedition applies
+  - Part 1 Introduction
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Part 2 Competition functions
+    - [Sch. 4A para. 2 Functions under the Enterprise Act 2002](schedule/4A/paragraph/2.md)
+    - [Sch. 4A para. 3 Functions under the Enterprise Act 2002](schedule/4A/paragraph/3.md)
+    - [Sch. 4A para. 4 Functions under the Enterprise Act 2002](schedule/4A/paragraph/4.md)
+    - [Sch. 4A para. 5 Functions under Part 1 of the Competition Act 1998](schedule/4A/paragraph/5.md)
+    - [Sch. 4A para. 6 Functions under Chapter 3 of Part 2 of the Water Industry Act 1991](schedule/4A/paragraph/6.md)
+  - Part 3 Consumer functions
+    - [Sch. 4A para. 7 Functions under Part 3 of the Digital Markets, Competition and Consumers Act 2024](schedule/4A/paragraph/7.md)
+    - [Sch. 4A para. 8 Functions under Part 3 of the Digital Markets, Competition and Consumers Act 2024](schedule/4A/paragraph/8.md)
+    - [Sch. 4A para. 9 Functions under the Consumer Rights Act 2015](schedule/4A/paragraph/9.md)
+    - [Sch. 4A para. 10 Functions under the Business Protection from Misleading Marketing Regulations 2008](schedule/4A/paragraph/10.md)
+  - Part 4 Digital market functions
+    - [Sch. 4A para. 11 Functions under Part 1 of the Digital Markets, Competition and Consumers Act 2024](schedule/4A/paragraph/11.md)
 - SCHEDULE 5 Amendments related to Part 3
   - PART 1 Transfer of functions under the 1998 Act to the CMA
     - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
