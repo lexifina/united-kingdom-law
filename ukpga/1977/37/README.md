@@ -1,0 +1,326 @@
+# Patents Act 1977
+
+1977 c. 37. Enacted 1977-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 16 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1977/37
+
+Source: https://www.legislation.gov.uk/ukpga/1977/37/2025-01-01
+
+## Contents
+
+- Part I New Domestic Law
+  - Patentability
+    - [s. 1 Patentable inventions.](section/1.md)
+    - [s. 2 Novelty.](section/2.md)
+    - [s. 3 Inventive step.](section/3.md)
+    - [s. 4 Industrial application.](section/4.md)
+    - [s. 4A Methods of treatment or diagnosis](section/4A.md)
+    - [s. 5 Priority date.](section/5.md)
+    - [s. 6 Disclosure of matter, etc., between earlier and later applications.](section/6.md)
+  - Right to apply for and obtain a patent and be mentioned as inventor
+    - [s. 7 Right to apply for and obtain a patent.](section/7.md)
+    - [s. 8 Determination before grant of questions about entitlement to patents, etc.](section/8.md)
+    - [s. 9 Determination after grant of questions referred before grant.](section/9.md)
+    - [s. 10 Handling of application by joint applicants.](section/10.md)
+    - [s. 11 Effect of transfer of application under s. 8 or 10.](section/11.md)
+    - [s. 12 Determination of questions about entitlement to foreign and convention patents, etc.](section/12.md)
+    - [s. 13 Mention of inventor.](section/13.md)
+  - Applications
+    - [s. 14 Making of application.](section/14.md)
+    - [s. 15 Date of filing application.](section/15.md)
+    - [s. 15A Preliminary examination](section/15A.md)
+    - [s. 16 Publication of application.](section/16.md)
+  - Examination and search
+    - [s. 17 Search.](section/17.md)
+    - [s. 18 Substantive examination and grant or refusal of patent.](section/18.md)
+    - [s. 19 General power to amend application before grant.](section/19.md)
+    - [s. 20 Failure of application.](section/20.md)
+    - [s. 20A Reinstatement of applications](section/20A.md)
+    - [s. 20B Effect of reinstatement under section 20A](section/20B.md)
+    - [s. 21 Observations by third party on patentability.](section/21.md)
+  - Security and safety
+    - [s. 22 Information prejudicial to national security or safety of public.](section/22.md)
+    - [s. 23 Restrictions on applications abroad by United Kingdom residents.](section/23.md)
+  - Provisions as to patents after grant
+    - [s. 24 Publication and certificate of grant.](section/24.md)
+    - [s. 25 Term of patent.](section/25.md)
+    - [s. 26 Patent not to be impugned for lack of unity.](section/26.md)
+    - [s. 27 General power to amend specification after grant.](section/27.md)
+    - [s. 28 Restoration of lapsed patents.](section/28.md)
+    - [s. 28A Effect of order for restoration of patent.](section/28A.md)
+    - [s. 29 Surrender of patents.](section/29.md)
+  - Property in patents and applications, and registration
+    - [s. 30 Nature of, and transactions in, patents and applications for patents.](section/30.md)
+    - [s. 31 Nature of, and transactions in, patents and applications for patents in Scotland.](section/31.md)
+    - [s. 32 Register of patents etc.](section/32.md)
+    - [s. 33 Effect of registration, etc., on rights in patents.](section/33.md)
+    - [s. 34 Rectification of register.](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 Co-ownership of patents and applications for patents.](section/36.md)
+    - [s. 37 Determination of right to patent after grant.](section/37.md)
+    - [s. 38 Effect of transfer of patent under s. 37.](section/38.md)
+  - Employees’ inventions
+    - [s. 39 Right to employees’ inventions.](section/39.md)
+    - [s. 40 Compensation of employees for certain inventions.](section/40.md)
+    - [s. 41 Amount of compensation.](section/41.md)
+    - [s. 42 Enforceability of contracts relating to employees’ inventions.](section/42.md)
+    - [s. 43 Supplementary.](section/43.md)
+  - Contracts as to patented products, etc.
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 Determination of parts of certain contracts.](section/45.md)
+  - Licences of right and compulsory licences
+    - [s. 46 Patentee’s application for entry in register that licences are available as of right.](section/46.md)
+    - [s. 47 Cancellation of entry made under s. 46.](section/47.md)
+    - [s. 48 Compulsory licences: general.](section/48.md)
+    - [s. 48A Compulsory licences: WTO proprietors.](section/48A.md)
+    - [s. 48B Compulsory licences: other cases.](section/48B.md)
+    - [s. 49 Provisions about licences under s. 48.](section/49.md)
+    - [s. 50 Exercise of powers on applications under s. 48.](section/50.md)
+    - [s. 50A Powers exercisable following merger and market investigations](section/50A.md)
+    - [s. 51 Powers exercisable in consequence of report of Competition and Markets Authority.](section/51.md)
+    - [s. 52 Opposition, appeal and arbitration.](section/52.md)
+    - [s. 53 Compulsory licences; supplementary provisions.](section/53.md)
+    - [s. 54 Special provisions where patented invention is being worked abroad.](section/54.md)
+  - Use of patented inventions for services of the Crown
+    - [s. 55 Use of patented inventions for services of the Crown.](section/55.md)
+    - [s. 56 Interpretation, etc., of provisions about Crown use.](section/56.md)
+    - [s. 57 Rights of third parties in respect of Crown use.](section/57.md)
+    - [s. 57A Compensation for loss of profit.](section/57A.md)
+    - [s. 58 References of disputes as to Crown use.](section/58.md)
+    - [s. 59 Special provisions as to Crown use during emergency.](section/59.md)
+  - Infringement
+    - [s. 60 Meaning of infringement.](section/60.md)
+    - [s. 61 Proceedings for infringement of patent.](section/61.md)
+    - [s. 62 Restrictions on recovery of damages for infringement.](section/62.md)
+    - [s. 63 Relief for infringement of partially valid patent.](section/63.md)
+    - [s. 64 Right to continue use begun before priority date.](section/64.md)
+    - [s. 65 Certificate of contested validity of patent.](section/65.md)
+    - [s. 66 Proceedings for infringement by a co-owner.](section/66.md)
+    - [s. 67 Proceedings for infringement by exclusive licensee.](section/67.md)
+    - [s. 68 Effect of non-registration on infringement proceedings.](section/68.md)
+    - [s. 69 Infringement of rights conferred by publication of application.](section/69.md)
+    - [s. 70 Threats of infringement proceedings](section/70.md)
+    - [s. 70A Actionable threats](section/70A.md)
+    - [s. 70B Permitted communications](section/70B.md)
+    - [s. 70C Remedies and defences](section/70C.md)
+    - [s. 70D Professional advisers](section/70D.md)
+    - [s. 70E Supplementary: pending registration](section/70E.md)
+    - [s. 70F Supplementary: proceedings for delivery up etc.](section/70F.md)
+  - Declaration or declarator as to non-infringement
+    - [s. 71 Declaration or declarator as to non-infringement](section/71.md)
+  - Revocation of patents
+    - [s. 72 Power to revoke patents on application.](section/72.md)
+    - [s. 73 Comptroller’s power to revoke patents on his own initiative.](section/73.md)
+  - Putting validity in issue
+    - [s. 74 Proceedings in which validity of patent may be put in issue.](section/74.md)
+  - Opinions by Patent Office
+    - [s. 74A Opinions on matters prescribed in the rules](section/74A.md)
+    - [s. 74B Reviews of opinions under section 74A](section/74B.md)
+  - General provisions as to amendment of patents and applications
+    - [s. 75 Amendment of patent in infringement or revocation proceedings.](section/75.md)
+    - [s. 76 Amendments of applications and patents not to include added matter.](section/76.md)
+    - [s. 76A Biotechnological inventions](section/76A.md)
+- Part II Provisions about International Conventions
+  - European patents and patent applications
+    - [s. 77 Effect of European patent (UK).](section/77.md)
+    - [s. 78 Effect of filing an application for a European patent (UK).](section/78.md)
+    - [s. 79 Operation of s. 78 in relation to certain European patent applications.](section/79.md)
+    - [s. 80 Authentic text of European patents and patent applications.](section/80.md)
+    - [s. 81 Conversion of European patent applications.](section/81.md)
+    - [s. 82 Jurisdiction to determine questions as to right to a patent.](section/82.md)
+    - [s. 83 Effect of patent decisions of competent authorities of other states.](section/83.md)
+    - [s. 83A European patent with unitary effect and Unified Patent Court](section/83A.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+  - Community patents
+    - [s. 86 Implementation of Community Patent Convention.](section/86.md)
+    - [s. 87 Decisions on Community Patent Convention.](section/87.md)
+    - [s. 88 ................................](section/88.md)
+  - Unified Patent Court
+    - [s. 88A Implementation of Agreement on a Unified Patent Court](section/88A.md)
+    - [s. 88B Designation as international organisation of which UK is member](section/88B.md)
+  - International applications for patents
+    - [s. 89 Effect of international application for patent.](section/89.md)
+    - [s. 89A International and national phases of application.](section/89A.md)
+    - [s. 89B Adaptation of provisions in relation to international application.](section/89B.md)
+  - Convention countries
+    - [s. 90 Orders in Council as to convention countries.](section/90.md)
+  - Miscellaneous
+    - [s. 91 Evidence of conventions and instruments under conventions.](section/91.md)
+    - [s. 92 Obtaining evidence for proceedings under the European Patent Convention.](section/92.md)
+    - [s. 93 Enforcement of orders for costs.](section/93.md)
+    - [s. 94 Communication of information to the European Patent Office, etc.](section/94.md)
+    - [s. 95 Financial provisions.](section/95.md)
+- Part III Miscellaneous and General
+  - Legal Proceedings
+    - [s. 96 The Patents Court.](section/96.md)
+    - [s. 97 Appeals from the comptroller.](section/97.md)
+    - [s. 98 Proceedings in Scotland.](section/98.md)
+    - [s. 99 General powers of the court.](section/99.md)
+    - [s. 99A Power of Patents Court to order report.](section/99A.md)
+    - [s. 99B Power of Court of Session to order report.](section/99B.md)
+    - [s. 100 Burden of proof in certain cases.](section/100.md)
+    - [s. 101 Exercise of comptroller’s discretionary powers.](section/101.md)
+    - [s. 102 Right of audience, &c. in proceedings before comptroller.](section/102.md)
+    - [s. 102A Right of audience, &c. in proceedings on appeal from the comptroller.](section/102A.md)
+    - [s. 103 Extension of privilege for communications with solicitors relating to patent proceedings.](section/103.md)
+    - [s. 104 Privilege for communications with patent agents relating to patent proceedings.](section/104.md)
+    - [s. 105 Extension of privilege in Scotland for communications relating to patent proceedings.](section/105.md)
+    - [s. 106 Costs and expenses in proceedings before the Court ....](section/106.md)
+    - [s. 107 Costs and expenses in proceedings before the comptroller.](section/107.md)
+    - [s. 108 Licences granted by order of comptroller.](section/108.md)
+  - Offences
+    - [s. 109 Falsification of register etc.](section/109.md)
+    - [s. 110 Unauthorised claim of patent rights.](section/110.md)
+    - [s. 111 Unauthorised claim that patent has been applied for.](section/111.md)
+    - [s. 112 Misuse of title “Patent Office”.](section/112.md)
+    - [s. 113 Offences by corporations.](section/113.md)
+    - [s. 114 ................................](section/114.md)
+    - [s. 115 ................................](section/115.md)
+  - Immunity of department
+    - [s. 116 Immunity of department as regards official acts.](section/116.md)
+  - Administrative provisions
+    - [s. 117 Correction of errors in patents and applications.](section/117.md)
+    - [s. 117A Effect of resuscitating a withdrawn application under section 117](section/117A.md)
+    - [s. 117B Extension of time limits specified by comptroller](section/117B.md)
+    - [s. 118 Information about patent applications and patents, and inspection of documents.](section/118.md)
+    - [s. 118A Copyright in documents made available electronically for inspection under section 118(1)](section/118A.md)
+    - [s. 119 Service by post.](section/119.md)
+    - [s. 120 Hours of business and excluded days.](section/120.md)
+    - [s. 121 Comptroller’s annual report.](section/121.md)
+  - Supplemental
+    - [s. 122 Crown’s right to sell forfeited articles.](section/122.md)
+    - [s. 123 Rules.](section/123.md)
+    - [s. 124 Rules, regulations and orders; supplementary.](section/124.md)
+    - [s. 124A Use of electronic communications](section/124A.md)
+    - [s. 125 Extent of invention.](section/125.md)
+    - [s. 125A Disclosure of invention by specification: availablity of samples of biological material.](section/125A.md)
+    - [s. 126 ................................](section/126.md)
+    - [s. 127 Existing patents and applications.](section/127.md)
+    - [s. 128 Priorities between patents and applications under 1949 Act and this Act.](section/128.md)
+    - [s. 128A Compulsory pharmaceutical licences](section/128A.md)
+    - [s. 128B Supplementary protection certificates](section/128B.md)
+    - [s. 129 Application of Act to Crown.](section/129.md)
+    - [s. 130 Interpretation.](section/130.md)
+    - [s. 131 Northern Ireland.](section/131.md)
+    - [s. 131A Scotland](section/131A.md)
+    - [s. 132 Short title, extent, commencement, consequential amendments and repeals.](section/132.md)
+- SCHEDULE A1 DEROGATION FROM PATENT PROTECTION IN RESPECT OF BIOTECHNOLOGICAL INVENTIONS
+  - [Sch. A1 para. 1 Interpretation](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2 Specified species](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3 Liability to pay equitable remuneration](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4 Exemption for small farmers](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5 Information to be supplied by farmer](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6 Information to be supplied by seed processor](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7 Information to be supplied by relevant rights holder](schedule/A1/paragraph/7.md)
+  - [Sch. A1 para. 8 Period in respect of which inquiry may be made](schedule/A1/paragraph/8.md)
+  - [Sch. A1 para. 9 Restriction on movement for processing from the holding](schedule/A1/paragraph/9.md)
+  - [Sch. A1 para. 10 Confidentiality](schedule/A1/paragraph/10.md)
+  - [Sch. A1 para. 11 Formalities](schedule/A1/paragraph/11.md)
+  - [Sch. A1 para. 12 Remedies](schedule/A1/paragraph/12.md)
+- SCHEDULE A2 BIOTECHNOLOGICAL INVENTIONS
+  - [Sch. A2 para. 1](schedule/A2/paragraph/1.md)
+  - [Sch. A2 para. 2](schedule/A2/paragraph/2.md)
+  - [Sch. A2 para. 3](schedule/A2/paragraph/3.md)
+  - [Sch. A2 para. 4](schedule/A2/paragraph/4.md)
+  - [Sch. A2 para. 5](schedule/A2/paragraph/5.md)
+  - [Sch. A2 para. 6](schedule/A2/paragraph/6.md)
+  - [Sch. A2 para. 7](schedule/A2/paragraph/7.md)
+  - [Sch. A2 para. 8](schedule/A2/paragraph/8.md)
+  - [Sch. A2 para. 9](schedule/A2/paragraph/9.md)
+  - [Sch. A2 para. 10](schedule/A2/paragraph/10.md)
+  - [Sch. A2 para. 11](schedule/A2/paragraph/11.md)
+- SCHEDULE A3 EUROPEAN PATENT WITH UNITARY EFFECT
+  - Meaning of “relevant statutory provisions”
+    - [Sch. A3 para. 1](schedule/A3/paragraph/1.md)
+  - Provisions applied by this Schedule to the European patent with unitary effect
+    - [Sch. A3 para. 2](schedule/A3/paragraph/2.md)
+  - Manner of application of relevant statutory provisions
+    - [Sch. A3 para. 3](schedule/A3/paragraph/3.md)
+  - Modifications of relevant statutory provisions
+    - [Sch. A3 para. 4](schedule/A3/paragraph/4.md)
+  - Interpretation
+    - [Sch. A3 para. 5](schedule/A3/paragraph/5.md)
+- SCHEDULE A4 THE UNIFIED PATENT COURT
+  - Jurisdiction
+    - [Sch. A4 para. 1](schedule/A4/paragraph/1.md)
+  - Transitional provisions
+    - [Sch. A4 para. 2](schedule/A4/paragraph/2.md)
+  - Modifications of law applicable where UPC has jurisdiction
+    - [Sch. A4 para. 3](schedule/A4/paragraph/3.md)
+  - Enforcement
+    - [Sch. A4 para. 4](schedule/A4/paragraph/4.md)
+  - Interpretation
+    - [Sch. A4 para. 5](schedule/A4/paragraph/5.md)
+- SCHEDULE 1 Application of 1949 Act to existing patents and applications
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+  - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Application of this Act to Existing Patents and Applications
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 REPEALS OF PROVISIONS OF 1949 ACT
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 Transitional Provisions
+  - General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Use of patented invention for services of the Crown
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Infringement
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Notice of opposition
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Secrecy
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Revocation
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Licences of right and compulsory licences
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Convention countries
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Appeals from court on certain petitions for revocation
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Appeals from comptroller under continuing provisions of 1949 Act
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Appeals from comptroller under repealed provisions of 1949 Act
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Appeals from Appeal Tribunal to Court of Appeal
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Rules
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Supplementary
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 4A SUPPLEMENTARY PROTECTION CERTIFICATES
+  - [Sch. 4A para. 1 References to patents etc](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2 References to patents etc](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3 References to this Act etc](schedule/4A/paragraph/3.md)
+  - [Sch. 4A para. 4 Other references](schedule/4A/paragraph/4.md)
+  - [Sch. 4A para. 5 Fees](schedule/4A/paragraph/5.md)
+  - [Sch. 4A para. 6 Interpretation](schedule/4A/paragraph/6.md)
+  - [Sch. 4A para. 7 Interpretation](schedule/4A/paragraph/7.md)
+  - [Sch. 4A para. 8 Transitional provision](schedule/4A/paragraph/8.md)
+- SCHEDULE 5 CONSEQUENTIAL AMENDMENTS
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Defence Contracts Act 1958 (c. 38)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Administration of Justice Act 1970 (c. 31)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Atomic Energy Authority (Weapons Group) Act 1973 (c. 4)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 ENACTMENTS REPEALED
