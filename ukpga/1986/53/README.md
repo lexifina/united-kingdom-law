@@ -1,0 +1,1078 @@
+# Building Societies Act 1986
+
+1986 c. 53. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 18 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/53
+
+Source: https://www.legislation.gov.uk/ukpga/1986/53/2025-01-06
+
+## Contents
+
+- PART I FUNCTIONS OF THE Financial Conduct Authority and the Prudential Regulation Authority
+  - [s. 1 Functions of the Financial Conduct Authority and the Prudential Regulation Authority in relation to building societies.](section/1.md)
+  - [s. 2 Financial provision for Commission.](section/2.md)
+  - [s. 3 Accounts of Commission and audit.](section/3.md)
+  - [s. 4 Annual and other reports.](section/4.md)
+- Part II Constitution of Building Societies
+  - Establishment
+    - [s. 5 Establishment, constitution and powers.](section/5.md)
+  - Making loans
+    - [s. 6 The lending limit.](section/6.md)
+    - [s. 6A Loans secured on land.](section/6A.md)
+    - [s. 6B Loans fully secured on land.](section/6B.md)
+    - [s. 6C Discharge of mortgages.](section/6C.md)
+  - Raising funds and borrowing
+    - [s. 7 The funding limit.](section/7.md)
+    - [s. 8 Raising funds and borrowing.](section/8.md)
+    - [s. 9 ................................](section/9.md)
+  - Restrictions on powers
+    - [s. 9A Restrictions on certain transactions.](section/9A.md)
+    - [s. 9B Restriction on creation of floating charges.](section/9B.md)
+- Part III Advances, Loans and Other Assets
+  - Class 1 advances and class 2 advances secured on land
+    - [s. 10 Advances secured on land.](section/10.md)
+    - [s. 11 Class 1 and class 2 advances](section/11.md)
+    - [s. 12 Class 1 and class 2 advances: supplementary provisions.](section/12.md)
+    - [s. 13 Security for advances: valuation and supplementary and related provisions.](section/13.md)
+  - Other advances secured on land
+    - [s. 14 Power to make advances secured on land overseas.](section/14.md)
+    - [s. 14A Power to participate in secured syndicated lending.](section/14A.md)
+  - Other commercial assets
+    - [s. 15 Loans for mobile homes.](section/15.md)
+    - [s. 16 Power to lend to individuals otherwise than by class 1 or class 2 advances etc.](section/16.md)
+    - [s. 17 Power to hold and develop land as commercial asset.](section/17.md)
+    - [s. 18 Power to invest in subsidiaries and other associated bodies.](section/18.md)
+    - [s. 19 Power for Treasury to add powers to hold other descriptions of class 3 assets.](section/19.md)
+  - Commercial asset structure requirements
+    - [s. 20 Commercial asset structure requirements for building societies.](section/20.md)
+  - Liquid assets
+    - [s. 21 Liquid assets.](section/21.md)
+  - Liabilities of associated bodies
+    - [s. 22 ................................](section/22.md)
+  - Other powers
+    - [s. 23 Power to hedge.](section/23.md)
+- Part IV Protection of Investors
+  - Investor Protection Scheme
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 25A ................................](section/25A.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 27A ................................](section/27A.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 29A ................................](section/29A.md)
+    - [s. 30 ................................](section/30.md)
+  - Other provisions
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Special provisions as regards investors.](section/32.md)
+    - [s. 33 Assistance by building societies to other building societies.](section/33.md)
+- Part V Powers to Provide Services
+  - [s. 34 Powers to provide financial services or services relating to land.](section/34.md)
+  - [s. 35 Prohibition on linking services.](section/35.md)
+- Part VI Powers of Control of the appropriate authority
+  - Powers in relation to principal purpose and nature limits
+    - [s. 36 Power to direct restructuring of business etc.](section/36.md)
+    - [s. 36A Power to make prohibition orders.](section/36A.md)
+    - [s. 37 Powers to petition for winding up etc.](section/37.md)
+  - Power to determine extent of building society powers
+    - [s. 38 Power to determine building society’s powers.](section/38.md)
+    - [s. 39 The determination: notification, effect, appeal.](section/39.md)
+    - [s. 40 Power to make prohibition orders.](section/40.md)
+  - Powers in relation to authorisation
+    - [s. 41 ................................](section/41.md)
+    - [s. 42 ................................](section/42.md)
+    - [s. 42A ................................](section/42A.md)
+    - [s. 42B Power to direct transfers of engagements or business.](section/42B.md)
+    - [s. 42C Variation and revocation of transfer directions](section/42C.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 43A ................................](section/43A.md)
+    - [s. 43B ................................](section/43B.md)
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+  - General functions of Commission
+    - [s. 45AA ................................](section/45AA.md)
+    - [s. 45A ................................](section/45A.md)
+  - Notices, hearings and appeals
+    - [s. 46A Notices, hearings and appeals.](section/46A.md)
+    - [s. 46 Rights of appeal.](section/46.md)
+    - [s. 47 Determination of appeals.](section/47.md)
+    - [s. 48 Costs, procedure and evidence.](section/48.md)
+    - [s. 49 Further appeals on points of law.](section/49.md)
+  - Advertising etc.
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 Powers to avoid apparent association with other bodies.](section/51.md)
+  - Information
+    - [s. 52 Powers to obtain information and documents etc.](section/52.md)
+    - [s. 52B Entry of premises under warrant under section 176 of the Financial Services and Markets Act 2000.](section/52B.md)
+    - [s. 53A Disclosure of information.](section/53A.md)
+    - [s. 54 Information disclosed to FCA or PRA from other sources.](section/54.md)
+  - Inspections, etc
+    - [s. 55 Investigations on behalf of FCA or PRA.](section/55.md)
+    - [s. 56 Inspections and special meetings: general.](section/56.md)
+    - [s. 57 Inspections: supplementary provisions.](section/57.md)
+- Part VII Management of Building Societies
+  - Directors and other officers
+    - [s. 58 Directors: number.](section/58.md)
+    - [s. 59 Chief executive and secretary.](section/59.md)
+    - [s. 60 Directors: elections and retirements.](section/60.md)
+    - [s. 61 Directors: supplementary provisions as to elections, etc.](section/61.md)
+  - Dealings with directors
+    - [s. 62 Prohibition of tax-free payments to directors.](section/62.md)
+    - [s. 63 Directors to disclose interests in contracts and other transactions.](section/63.md)
+    - [s. 64 Substantial property transactions involving directors and connected persons.](section/64.md)
+    - [s. 65 Restriction on loans, etc. to directors and persons connected with them.](section/65.md)
+    - [s. 66 Sanctions for breach of s. 65.](section/66.md)
+    - [s. 66A Transactions with directors and persons connected with them.](section/66A.md)
+    - [s. 67 Directors, etc, not to accept commissions in connection with loans.](section/67.md)
+    - [s. 68 Records of loans, etc. for directors falling within s. 65.](section/68.md)
+  - Disclosure and record of related businesses
+    - [s. 69 Disclosure and record of income of related businesses.](section/69.md)
+  - Interpretation
+    - [s. 70 Interpretation of this Part.](section/70.md)
+- Part VIII Accounts and Audit
+  - Accounting records...
+    - [s. 71 Accounting records...](section/71.md)
+  - Accounts
+    - [s. 72 Duty of directors to prepare annual accounts.](section/72.md)
+    - [s. 72A Duty to prepare individual accounts](section/72A.md)
+    - [s. 72B Building Societies Act individual accounts](section/72B.md)
+    - [s. 72C Form and contents of Building Societies Act individual accounts](section/72C.md)
+    - [s. 72D IAS individual accounts](section/72D.md)
+    - [s. 72E Duty to prepare group accounts](section/72E.md)
+    - [s. 72F Building Societies Act group accounts](section/72F.md)
+    - [s. 72G Form and contents of Building Societies Act group accounts](section/72G.md)
+    - [s. 72H IAS group accounts](section/72H.md)
+    - [s. 72I Consistency of accounts](section/72I.md)
+    - [s. 72J Disclosures relating to directors, other officers and employees of society required in notes to accounts](section/72J.md)
+    - [s. 72K Disclosures about related undertakings required in notes to accounts](section/72K.md)
+    - [s. 72L Disclosures relating to off-balance-sheet arrangements required in notes to accounts](section/72L.md)
+    - [s. 72M Disclosure of auditor remuneration required in notes to accounts](section/72M.md)
+    - [s. 73 Contents and form of annual accounts.](section/73.md)
+    - [s. 74 Duty of directors to prepare annual business statement.](section/74.md)
+    - [s. 75 Directors’ report.](section/75.md)
+    - [s. 75A Business review](section/75A.md)
+    - [s. 76 Summary financial statement for members and depositors.](section/76.md)
+  - Auditors and audit of accounts
+    - [s. 77 Auditors: appointment, tenure ..., etc.](section/77.md)
+    - [s. 78 Auditor’s report.](section/78.md)
+    - [s. 78A Signature of auditors’ report](section/78A.md)
+    - [s. 78B Senior statutory auditor](section/78B.md)
+    - [s. 78C Names to be stated in copies of auditor’s report filed or published](section/78C.md)
+    - [s. 78D Circumstances in which names may be omitted](section/78D.md)
+    - [s. 79 Auditor’s duties and powers.](section/79.md)
+  - Procedure on completion of accounts
+    - [s. 80 Signing of balance sheet: documents to be annexed.](section/80.md)
+    - [s. 81 Laying and furnishing accounts, etc., to members, the FCA and the PRA.](section/81.md)
+    - [s. 81A Requirements in connection with publication of accounts](section/81A.md)
+    - [s. 81B Interpretation of Part 8](section/81B.md)
+    - [s. 82 ................................](section/82.md)
+- Part IX ... Disputes
+  - [s. 83 ................................](section/83.md)
+  - [s. 83A ................................](section/83A.md)
+  - [s. 84 ................................](section/84.md)
+  - [s. 85 Settlement of disputes.](section/85.md)
+- Part X Dissolution, Winding Up, Mergers and Transfer of Business
+  - Dissolution and winding up
+    - [s. 86 Modes of dissolution and winding up.](section/86.md)
+    - [s. 87 Dissolution by consent.](section/87.md)
+    - [s. 88 Voluntary winding up.](section/88.md)
+    - [s. 89 Winding up by court: grounds and petitioners.](section/89.md)
+    - [s. 89A Building society insolvency as alternative order](section/89A.md)
+    - [s. 90 Application of winding up legislation to building societies.](section/90.md)
+    - [s. 90A Application of other companies insolvency legislation to building societies.](section/90A.md)
+    - [s. 90B Power to alter priorities on dissolution and winding up](section/90B.md)
+    - [s. 90C Application of bank insolvency and administration legislation to building societies](section/90C.md)
+    - [s. 90D Notice to the FCA and the PRA of preliminary steps](section/90D.md)
+    - [s. 90E Disqualification of directors](section/90E.md)
+    - [s. 91 Power of court to declare dissolution of building society void.](section/91.md)
+    - [s. 92 Supplementary.](section/92.md)
+  - New business
+    - [s. 92A Acquisition or establishment of a business.](section/92A.md)
+  - Mergers
+    - [s. 93 Amalgamations.](section/93.md)
+    - [s. 94 Transfer of engagements.](section/94.md)
+    - [s. 95 Mergers; provisions supplementing ss. 93 and 94.](section/95.md)
+    - [s. 96 Mergers: compensation for loss of office and bonuses to members.](section/96.md)
+  - Transfer of business to commercial company
+    - [s. 97 Transfer of business to commercial company.](section/97.md)
+    - [s. 98 Transfers of business: supplementary provisions.](section/98.md)
+    - [s. 99 Regulated terms: compensation for loss of office, etc.](section/99.md)
+    - [s. 99A Transfers of business: increased remuneration etc.](section/99A.md)
+    - [s. 100 Regulated terms etc: distributions and share rights.](section/100.md)
+    - [s. 101 Protective provisions for specially formed successors.](section/101.md)
+    - [s. 102 Transfer regulations.](section/102.md)
+    - [s. 102A Rights of second-named joint shareholders.](section/102A.md)
+    - [s. 102B Protection of interests of beneficiaries in the case of trustee account holders.](section/102B.md)
+    - [s. 102C Consequences of false declaration.](section/102C.md)
+    - [s. 102D Provisions supplementary to sections 102B and 102C.](section/102D.md)
+  - Cancellation of registration
+    - [s. 103 Cancellation of registration.](section/103.md)
+- Part XI Miscellaneous and Supplementary and Conveyancing Services
+  - Miscellaneous and supplementary
+    - [s. 104 Power to amend, etc. to assimilate to company law.](section/104.md)
+    - [s. 104A Registration of charges: application of company law.](section/104A.md)
+    - [s. 105 Limited power to anticipate future statutory instrument powers.](section/105.md)
+    - [s. 106 Public file of the society.](section/106.md)
+    - [s. 107 Restriction of use of certain names and descriptions.](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 Exemption from stamp duty.](section/109.md)
+    - [s. 109A Exemptions from stamp duty land tax](section/109A.md)
+    - [s. 110 Officers and auditors not to be exempted from liability](section/110.md)
+    - [s. 111 Time limit for commencing proceedings.](section/111.md)
+    - [s. 112 Offences: liability of officers and defence of due diligence.](section/112.md)
+    - [s. 113 Evidence.](section/113.md)
+    - [s. 114 Records.](section/114.md)
+    - [s. 115 Service of notices.](section/115.md)
+    - [s. 115A Deemed agreement to use of web site](section/115A.md)
+    - [s. 115B Right to hard copy version](section/115B.md)
+    - [s. 115C Other agreed forms of communication](section/115C.md)
+    - [s. 116 Form of documents.](section/116.md)
+    - [s. 117 Financial year of building societies.](section/117.md)
+    - [s. 117A Alteration of financial year](section/117A.md)
+    - [s. 118 Qualifying asset holding for certain powers.](section/118.md)
+    - [s. 118A ................................](section/118A.md)
+    - [s. 119 Interpretation.](section/119.md)
+    - [s. 119A Meaning of “associated undertaking”](section/119A.md)
+    - [s. 120 Amendments, repeals, revocations and transitional and saving provisions.](section/120.md)
+    - [s. 121 Power to make transitional and saving provisions.](section/121.md)
+    - [s. 122 Northern Ireland](section/122.md)
+    - [s. 123 ................................](section/123.md)
+  - Provision of conveyancing services by recognised institutions and practitioners
+    - [s. 124 Recognition of building societies, other institutions and individuals as suitable to provide conveyancing services.](section/124.md)
+  - General
+    - [s. 125 Short title.](section/125.md)
+    - [s. 126 Commencement.](section/126.md)
+- SCHEDULE 1
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The First Commissioner, etc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tenure of office of member
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Remuneration and pensions, etc. for part-time members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Parliamentary disqualification
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Proceedings
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Performance of functions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 ................................](schedule/1/paragraph/13.md)
+  - Instruments
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Establishment, Incorporation and Constitution of Building Societies
+  - Part I General
+    - Requirements for establishment
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - The memorandum
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - The rules
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Requirements for alteration of purpose, powers and rules
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Membership
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Liability of members
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Joint shareholders
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Joint borrowers
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Use and change of name
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Offences relating to society’s name
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Restrictions on business names
+      - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+    - Use of business names: required disclosure
+      - [Sch. 2 para. 10B](schedule/2/paragraph/10B.md)
+    - Use of business names: supplementary
+      - [Sch. 2 para. 10C](schedule/2/paragraph/10C.md)
+    - Change of principal office
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Societies to supply copies of rules etc.
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Register of members
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Exception to duties to send documents
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Right of members to obtain particulars from the register
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part II Capacity of society and power of directors to bind it
+    - Capacity of society not limited by its memorandum
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Power of directors to bind society
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - No duty to enquire as to capacity of society etc.
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Powers of central office
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Part III Meetings, Resolutions and Postal Ballots
+    - Annual general meeting
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Special meeting on members’ requisition
+      - [Sch. 2 para. 20A](schedule/2/paragraph/20A.md)
+    - Failure to comply with members’ requisition
+      - [Sch. 2 para. 20B](schedule/2/paragraph/20B.md)
+    - Length of notice for calling meetings
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Persons entitled to notice of meetings
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Transmission of notice of meeting to an electronic address
+      - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
+    - Publication of notice of meeting on a web site
+      - [Sch. 2 para. 22B](schedule/2/paragraph/22B.md)
+    - Members’ entitlement to vote on resolutions
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Proxies
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Right to demand a poll
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Special resolutions
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 27A](schedule/2/paragraph/27A.md)
+    - Borrowing members’ resolutions
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Transfer resolutions
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Members’ right to propose and circulate resolutions
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Members’ resolutions: supplementary provisions
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Postal ballots
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Electronic ballots
+      - [Sch. 2 para. 33A](schedule/2/paragraph/33A.md)
+    - Declarations to be made in proxy and ballot forms
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 34A](schedule/2/paragraph/34A.md)
+    - Advertising requirements in lieu of notice of meetings, etc.
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - The prescribed amount
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+- SCHEDULE 2A Discharge of mortgages: supplementary provisions
+  - Main provisions
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Application of paragraph 1 to Northern Ireland
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Power to prescribe form of documents
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+- SCHEDULE 3
+  - Part I Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part II Authorisation
+    - Procedure for authorisation
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Offences in connection with application
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part III Imposition of Conditions
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part IV Revocation of Authorisation
+    - Procedure for revocation
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part V Supplementary
+    - Imposition of conditions on appeal
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Notice to directors and chief executives
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4
+  - Provisions as to sale of mortgaged property
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Discharge of mortgages
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Power to prescribe form of documents
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5
+  - Constitution
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Appointment and tenure of office
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Allowances
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Proceedings
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Performance of functions
+    - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+  - Accounts, audit and annual report
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Investors: Special Provisions
+  - Members or depositors dying
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Receipts by depositors under age
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+- SCHEDULE 7A
+  - Preliminary
+    - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+  - Procedure for giving proposed direction
+    - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+  - Procedure for giving different direction
+    - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+  - Different directions on appeal
+    - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+  - Notice to directors and chief executives
+    - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+- SCHEDULE 8 Powers to Provide Services
+  - Part I The Services
+    - [Sch. 8 Pt. I para. 1](schedule/8/part/I/paragraph/1.md)
+    - [Sch. 8 Pt. I para. 2](schedule/8/part/I/paragraph/2.md)
+    - [Sch. 8 Pt. I para. 3](schedule/8/part/I/paragraph/3.md)
+    - [Sch. 8 Pt. I para. 4](schedule/8/part/I/paragraph/4.md)
+    - [Sch. 8 Pt. I para. 5](schedule/8/part/I/paragraph/5.md)
+    - [Sch. 8 Pt. I para. 6](schedule/8/part/I/paragraph/6.md)
+  - Part II General Restrictions On Services
+    - [Sch. 8 Pt. II para. 1](schedule/8/part/II/paragraph/1.md)
+    - [Sch. 8 Pt. II para. 2](schedule/8/part/II/paragraph/2.md)
+    - [Sch. 8 Pt. II para. 3](schedule/8/part/II/paragraph/3.md)
+    - [Sch. 8 Pt. II para. 4](schedule/8/part/II/paragraph/4.md)
+    - [Sch. 8 Pt. II para. 5](schedule/8/part/II/paragraph/5.md)
+    - [Sch. 8 Pt. II para. 6](schedule/8/part/II/paragraph/6.md)
+  - Part III Restrictions In Relation To Certain Services
+    - Banking services
+      - [Sch. 8 Pt. III heading banking-services para. 1](schedule/8/part/III/crossheading/banking-services/paragraph/1.md)
+    - Investment services
+      - [Sch. 8 Pt. III heading investment-services para. 2](schedule/8/part/III/crossheading/investment-services/paragraph/2.md)
+    - Trusteeship
+      - [Sch. 8 Pt. III heading trusteeship para. 3](schedule/8/part/III/crossheading/trusteeship/paragraph/3.md)
+    - Land services
+      - [Sch. 8 Pt. III heading land-services para. 4](schedule/8/part/III/crossheading/land-services/paragraph/4.md)
+      - [Sch. 8 Pt. III heading land-services para. 5](schedule/8/part/III/crossheading/land-services/paragraph/5.md)
+  - Part IV Supplementary
+    - Powers—general
+      - [Sch. 8 Pt. IV heading powersgeneral para. 1](schedule/8/part/IV/crossheading/powersgeneral/paragraph/1.md)
+    - Powers—specific services
+      - [Sch. 8 Pt. IV heading powersspecific-services para. 2](schedule/8/part/IV/crossheading/powersspecific-services/paragraph/2.md)
+    - Banking—particular provisions
+      - [Sch. 8 Pt. IV heading bankingparticular-provisions para. 3](schedule/8/part/IV/crossheading/bankingparticular-provisions/paragraph/3.md)
+      - [Sch. 8 Pt. IV heading bankingparticular-provisions para. 4](schedule/8/part/IV/crossheading/bankingparticular-provisions/paragraph/4.md)
+      - [Sch. 8 Pt. IV heading bankingparticular-provisions para. 5](schedule/8/part/IV/crossheading/bankingparticular-provisions/paragraph/5.md)
+    - Land services—sanction
+      - [Sch. 8 Pt. IV heading land-servicessanction para. 6](schedule/8/part/IV/crossheading/land-servicessanction/paragraph/6.md)
+    - Interpretation
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 8A Transfer directions: modifications of Part X
+  - Part I Directions under section 42B(3)
+    - Preliminary
+      - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+    - Compensation for loss of office
+      - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+    - Statements to members
+      - [Sch. 8A para. 3](schedule/8A/paragraph/3.md)
+    - Application for confirmation
+      - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+    - Grounds for not confirming transfer
+      - [Sch. 8A para. 5](schedule/8A/paragraph/5.md)
+  - Part II Directions under section 42B(4)
+    - Preliminary
+      - [Sch. 8A para. 6](schedule/8A/paragraph/6.md)
+    - Compensation for loss of office
+      - [Sch. 8A para. 7](schedule/8A/paragraph/7.md)
+    - Increased remuneration
+      - [Sch. 8A para. 8](schedule/8A/paragraph/8.md)
+    - Statements to members
+      - [Sch. 8A para. 9](schedule/8A/paragraph/9.md)
+    - Application for confirmation
+      - [Sch. 8A para. 10](schedule/8A/paragraph/10.md)
+    - Grounds for not confirming transfer
+      - [Sch. 8A para. 11](schedule/8A/paragraph/11.md)
+- SCHEDULE 9 Directors: Requisite Particulars of Restricted Transactions
+  - Preliminary
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - The requisite particulars
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+- SCHEDULE 10 Requisite Particulars of Income or Related Businesses
+  - Part I Requisite Particulars Where no Adoption of Part II
+    - Conveyancers
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Valuers and surveyors
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Accountants
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Insurance agents, etc.
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Part II Requisite Particulars on Adoption of This Part
+    - Conveyancers
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Valuers and surveyors
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Accountants
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Insurance agents, etc.
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Part III Supplementary
+    - Power to prescribe bands for Part II particulars
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Interpretation
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 10A Disclosures about directors, other officers and employees in notes to accounts
+  - Part 1 Emoluments of and dealings with directors and other officers
+    - Aggregate amount of director’s remuneration etc
+      - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+      - [Sch. 10A para. 1A](schedule/10A/paragraph/1A.md)
+    - Details of individual directors’ remuneration etc
+      - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+    - Excess retirement benefits of directors and past directors
+      - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+    - Compensation to directors for loss of office
+      - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+    - Sums paid to third parties in respect of directors’ services
+      - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+    - Supplementary provisions regarding directors’ remuneration
+      - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+      - [Sch. 10A para. 7](schedule/10A/paragraph/7.md)
+      - [Sch. 10A para. 8](schedule/10A/paragraph/8.md)
+    - Interpretation of provisions regarding directors remuneration
+      - [Sch. 10A para. 9](schedule/10A/paragraph/9.md)
+    - Directors’ loans and transactions
+      - [Sch. 10A para. 10](schedule/10A/paragraph/10.md)
+    - Disclosure of auditors’ remuneration
+      - [Sch. 10A para. 11](schedule/10A/paragraph/11.md)
+    - Persons who are to be regarded as associates of a society’s auditors
+      - [Sch. 10A para. 12](schedule/10A/paragraph/12.md)
+  - PART 2 Information about employees
+    - [Sch. 10A para. 13](schedule/10A/paragraph/13.md)
+- SCHEDULE 10B Disclosures about related undertakings required in note to accounts
+  - PART 1 Societies not required to prepare consolidated group accounts
+    - Subsidiary undertakings
+      - [Sch. 10B para. 1](schedule/10B/paragraph/1.md)
+    - Holdings in subsidiary undertakings
+      - [Sch. 10B para. 2](schedule/10B/paragraph/2.md)
+    - Financial information about subsidiary undertakings
+      - [Sch. 10B para. 3](schedule/10B/paragraph/3.md)
+    - Financial years of subsidiary undertakings
+      - [Sch. 10B para. 4](schedule/10B/paragraph/4.md)
+    - Significant holdings in undertakings other than subsidiary undertakings
+      - [Sch. 10B para. 5](schedule/10B/paragraph/5.md)
+      - [Sch. 10B para. 6](schedule/10B/paragraph/6.md)
+      - [Sch. 10B para. 7](schedule/10B/paragraph/7.md)
+    - Construction of references to shares held by society
+      - [Sch. 10B para. 8](schedule/10B/paragraph/8.md)
+  - PART 2 Societies required to prepare consolidated group accounts
+    - Subsidiary undertakings
+      - [Sch. 10B para. 9](schedule/10B/paragraph/9.md)
+    - Holdings in subsidiary undertakings
+      - [Sch. 10B para. 10](schedule/10B/paragraph/10.md)
+    - Financial information about subsidiary undertakings not included in the consolidation
+      - [Sch. 10B para. 11](schedule/10B/paragraph/11.md)
+    - Associated undertakings
+      - [Sch. 10B para. 12](schedule/10B/paragraph/12.md)
+    - Other significant holdings of society or group
+      - [Sch. 10B para. 13](schedule/10B/paragraph/13.md)
+      - [Sch. 10B para. 14](schedule/10B/paragraph/14.md)
+      - [Sch. 10B para. 15](schedule/10B/paragraph/15.md)
+      - [Sch. 10B para. 16](schedule/10B/paragraph/16.md)
+      - [Sch. 10B para. 17](schedule/10B/paragraph/17.md)
+      - [Sch. 10B para. 18](schedule/10B/paragraph/18.md)
+    - Construction of references to shares held by society or group
+      - [Sch. 10B para. 19](schedule/10B/paragraph/19.md)
+    - Interpretation: general
+      - [Sch. 10B para. 20](schedule/10B/paragraph/20.md)
+- SCHEDULE10C Disclosure of auditor remuneration etc required in notes to accounts
+  - Disclosure required
+    - [Sch. 10C para. 1](schedule/10C/paragraph/1.md)
+  - Types of service
+    - [Sch. 10C para. 2](schedule/10C/paragraph/2.md)
+  - Disclosure not required of remuneration for certain services provided by distant associate
+    - [Sch. 10C para. 3](schedule/10C/paragraph/3.md)
+  - Duty of auditor to supply information
+    - [Sch. 10C para. 4](schedule/10C/paragraph/4.md)
+  - Meaning of “associate” and “distant associate” of auditor
+    - [Sch. 10C para. 5](schedule/10C/paragraph/5.md)
+  - Interpretation
+    - [Sch. 10C para. 6](schedule/10C/paragraph/6.md)
+- SCHEDULE 11 Auditors: Appointment, Tenure...
+  - Appointment
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 3A](schedule/11/paragraph/3A.md)
+    - [Sch. 11 para. 3B](schedule/11/paragraph/3B.md)
+    - [Sch. 11 para. 3C](schedule/11/paragraph/3C.md)
+    - [Sch. 11 para. 3D](schedule/11/paragraph/3D.md)
+    - [Sch. 11 para. 3DA](schedule/11/paragraph/3DA.md)
+    - [Sch. 11 para. 3E](schedule/11/paragraph/3E.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Qualification and disqualification of auditors
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Tenure
+    - [Sch. 11 para. 5A](schedule/11/paragraph/5A.md)
+    - [Sch. 11 para. 5B Maximum engagement period: transitional arrangements](schedule/11/paragraph/5B.md)
+  - Removal of auditors
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 6ZA Application to court to remove auditor from office](schedule/11/paragraph/6ZA.md)
+  - Removal of auditor on improper grounds
+    - [Sch. 11 para. 6A](schedule/11/paragraph/6A.md)
+  - Resignation of auditors
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Duty of auditor to notify appropriate audit authority
+    - [Sch. 11 para. 8A](schedule/11/paragraph/8A.md)
+  - Duty of building society to notify appropriate audit authority
+    - [Sch. 11 para. 8B](schedule/11/paragraph/8B.md)
+  - Interpretation
+    - [Sch. 11 para. 8C](schedule/11/paragraph/8C.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+- SCHEDULE 12
+  - Part I Matters to be Provided for in Schemes
+    - Administration
+      - [Sch. 12 Pt. I heading administration para. 1](schedule/12/part/I/crossheading/administration/paragraph/1.md)
+      - [Sch. 12 Pt. I heading administration para. 2](schedule/12/part/I/crossheading/administration/paragraph/2.md)
+      - [Sch. 12 Pt. I heading administration para. 3](schedule/12/part/I/crossheading/administration/paragraph/3.md)
+    - The adjudicator
+      - [Sch. 12 Pt. I heading the-adjudicator para. 4](schedule/12/part/I/crossheading/the-adjudicator/paragraph/4.md)
+    - Scope of scheme
+      - [Sch. 12 Pt. I heading scope-of-scheme para. 5](schedule/12/part/I/crossheading/scope-of-scheme/paragraph/5.md)
+    - Functions of adjudicator
+      - [Sch. 12 Pt. I heading functions-of-adjudicator para. 6](schedule/12/part/I/crossheading/functions-of-adjudicator/paragraph/6.md)
+      - [Sch. 12 Pt. I heading functions-of-adjudicator para. 7](schedule/12/part/I/crossheading/functions-of-adjudicator/paragraph/7.md)
+      - [Sch. 12 Pt. I heading functions-of-adjudicator para. 8](schedule/12/part/I/crossheading/functions-of-adjudicator/paragraph/8.md)
+    - Determinations and their effects
+      - [Sch. 12 Pt. I heading determinations-and-their-effects para. 9](schedule/12/part/I/crossheading/determinations-and-their-effects/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - Reports by investigators to administering body
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - Amendment or revocation of scheme
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - Accession to membership
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - Withdrawal from membership
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - Part II Requirements for Recognised Schemes:Matters of Complaint
+    - Share accounts
+      - [Sch. 12 Pt. II heading share-accounts para. 1](schedule/12/part/II/crossheading/share-accounts/paragraph/1.md)
+    - Deposit accounts
+      - [Sch. 12 Pt. II heading deposit-accounts para. 2](schedule/12/part/II/crossheading/deposit-accounts/paragraph/2.md)
+    - Borrowing members: class 1 or class 2 advances
+      - [Sch. 12 Pt. II heading borrowing-members-class-1-or-class-2-advances para. 3](schedule/12/part/II/crossheading/borrowing-members-class-1-or-class-2-advances/paragraph/3.md)
+    - Borrowers: mobile home loans
+      - [Sch. 12 Pt. II heading borrowers-mobile-home-loans para. 4](schedule/12/part/II/crossheading/borrowers-mobile-home-loans/paragraph/4.md)
+    - Borrowers: other loans
+      - [Sch. 12 Pt. II heading borrowers-other-loans para. 5](schedule/12/part/II/crossheading/borrowers-other-loans/paragraph/5.md)
+    - Money transmission services
+      - [Sch. 12 Pt. II heading money-transmission-services para. 6](schedule/12/part/II/crossheading/money-transmission-services/paragraph/6.md)
+    - Foreign exchange facilities
+      - [Sch. 12 Pt. II heading foreign-exchange-facilities para. 7](schedule/12/part/II/crossheading/foreign-exchange-facilities/paragraph/7.md)
+    - Agency payments and receipts
+      - [Sch. 12 Pt. II heading agency-payments-and-receipts para. 8](schedule/12/part/II/crossheading/agency-payments-and-receipts/paragraph/8.md)
+    - Provision of credit
+      - [Sch. 12 Pt. II heading provision-of-credit para. 9](schedule/12/part/II/crossheading/provision-of-credit/paragraph/9.md)
+  - Part III Minimum Requirements for Recognised Schemes: Other Provisions
+    - Grounds of complaint
+      - [Sch. 12 Pt. III heading grounds-of-complaint para. 1](schedule/12/part/III/crossheading/grounds-of-complaint/paragraph/1.md)
+    - Permissible exclusions from investigation
+      - [Sch. 12 Pt. III heading permissible-exclusions-from-investigation para. 2](schedule/12/part/III/crossheading/permissible-exclusions-from-investigation/paragraph/2.md)
+    - Functions of adjudicator
+      - [Sch. 12 Pt. III heading functions-of-adjudicator para. 3](schedule/12/part/III/crossheading/functions-of-adjudicator/paragraph/3.md)
+      - [Sch. 12 Pt. III heading functions-of-adjudicator para. 4](schedule/12/part/III/crossheading/functions-of-adjudicator/paragraph/4.md)
+      - [Sch. 12 Pt. III heading functions-of-adjudicator para. 5](schedule/12/part/III/crossheading/functions-of-adjudicator/paragraph/5.md)
+    - Effect of determinations and their communication
+      - [Sch. 12 Pt. III heading effect-of-determinations-and-their-communication para. 6](schedule/12/part/III/crossheading/effect-of-determinations-and-their-communication/paragraph/6.md)
+      - [Sch. 12 Pt. III heading effect-of-determinations-and-their-communication para. 7](schedule/12/part/III/crossheading/effect-of-determinations-and-their-communication/paragraph/7.md)
+    - Reports by adjudicator to administering body
+      - [Sch. 12 Pt. III heading reports-by-adjudicator-to-administering-body para. 8](schedule/12/part/III/crossheading/reports-by-adjudicator-to-administering-body/paragraph/8.md)
+    - Publication
+      - [Sch. 12 Pt. III heading publication para. 9](schedule/12/part/III/crossheading/publication/paragraph/9.md)
+- SCHEDULE 13
+  - Preliminary
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - The register of recognised schemes
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Procedure for recognition: Commission’s initiative
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Procedure for recognition: submission by societies
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Procedure on accession to schemes
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Withdrawal of recognition
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Withdrawal from membership
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 Settlement of Disputes
+  - Part I Proceedings in Court
+    - Jurisdiction of the court
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Right of FCA and PRA to be heard
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Part II Arbitration
+    - Circulation of election addresses, resolutions and statements
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - Calling of special meeting
+      - [Sch. 14 para. 4A](schedule/14/paragraph/4A.md)
+    - Procedure on a reference to arbitration
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - Access to register of members
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Disputes cognizable under a scheme
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - General
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+- SCHEDULE 15 Application of Companies Winding Up Legislation to Building Societies
+  - Part I General Mode of Application
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 1A](schedule/15/paragraph/1A.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Part II Modified Application of Insolvency Act 1986
+    - Parts IV, 6, 7, 12 and 13 and Schedule 10
+      - Preliminary
+        - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+        - [Sch. 15 para. 6ZA](schedule/15/paragraph/6ZA.md)
+        - [Sch. 15 para. 6A](schedule/15/paragraph/6A.md)
+      - Members of a building society as contributories in winding up
+        - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+        - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+        - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+      - Voluntary winding up
+        - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+        - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+        - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+        - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+        - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+      - Winding up by the court
+        - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+        - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+        - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+        - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+        - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+        - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+        - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+        - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+        - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+        - [Sch. 15 para. 23A](schedule/15/paragraph/23A.md)
+        - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+        - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+        - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+      - Winding up: general
+        - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+        - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+        - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+      - Penal provisions
+        - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+        - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+        - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+      - Protection of supplies
+        - [Sch. 15 para. 32A](schedule/15/paragraph/32A.md)
+      - Preferential debts
+        - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+      - Insolvency practitioners: their qualification and regulation
+        - [Sch. 15 para. 33A](schedule/15/paragraph/33A.md)
+        - [Sch. 15 para. 33B](schedule/15/paragraph/33B.md)
+  - Part III Modified application of Insolvency (Northern Ireland) Order 1989
+    - Parts V, 11 and 12
+      - Preliminary
+        - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+        - [Sch. 15 para. 34A](schedule/15/paragraph/34A.md)
+      - Members of a building society as contributories in winding up
+        - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+        - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+        - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+      - Voluntary winding up
+        - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+        - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+        - [Sch. 15 para. 40](schedule/15/paragraph/40.md)
+        - [Sch. 15 para. 41](schedule/15/paragraph/41.md)
+        - [Sch. 15 para. 42](schedule/15/paragraph/42.md)
+      - Winding up by the High Court
+        - [Sch. 15 para. 43](schedule/15/paragraph/43.md)
+        - [Sch. 15 para. 44](schedule/15/paragraph/44.md)
+        - [Sch. 15 para. 45](schedule/15/paragraph/45.md)
+        - [Sch. 15 para. 46](schedule/15/paragraph/46.md)
+        - [Sch. 15 para. 47](schedule/15/paragraph/47.md)
+        - [Sch. 15 para. 48](schedule/15/paragraph/48.md)
+        - [Sch. 15 para. 49](schedule/15/paragraph/49.md)
+        - [Sch. 15 para. 50](schedule/15/paragraph/50.md)
+        - [Sch. 15 para. 50A](schedule/15/paragraph/50A.md)
+        - [Sch. 15 para. 51](schedule/15/paragraph/51.md)
+        - [Sch. 15 para. 52](schedule/15/paragraph/52.md)
+        - [Sch. 15 para. 53](schedule/15/paragraph/53.md)
+      - Winding up: general
+        - [Sch. 15 para. 54](schedule/15/paragraph/54.md)
+        - [Sch. 15 para. 55](schedule/15/paragraph/55.md)
+        - [Sch. 15 para. 55A](schedule/15/paragraph/55A.md)
+      - Penal provisions
+        - [Sch. 15 para. 55B](schedule/15/paragraph/55B.md)
+        - [Sch. 15 para. 55C](schedule/15/paragraph/55C.md)
+        - [Sch. 15 para. 55D](schedule/15/paragraph/55D.md)
+      - Protection of supplies
+        - [Sch. 15 para. 55DA](schedule/15/paragraph/55DA.md)
+      - Preferential debts
+        - [Sch. 15 para. 55E](schedule/15/paragraph/55E.md)
+      - Insolvency practitioners: their qualification and regulation
+        - [Sch. 15 para. 55F](schedule/15/paragraph/55F.md)
+        - [Sch. 15 para. 55G](schedule/15/paragraph/55G.md)
+  - Part IV Dissolution of Building Society wound up (England and Wales, Scotland and Northern Ireland)
+    - [Sch. 15 para. 56](schedule/15/paragraph/56.md)
+    - [Sch. 15 para. 57](schedule/15/paragraph/57.md)
+    - Insolvency rules and fees: England and Wales and Scotland
+      - [Sch. 15 para. 58](schedule/15/paragraph/58.md)
+    - Insolvency rules and fees: Northern Ireland
+      - [Sch. 15 para. 59](schedule/15/paragraph/59.md)
+- SCHEDULE 15A Application of other companies insolvency legislation to building societies
+  - Part I General mode of application
+    - [Sch. 15A para. 1](schedule/15A/paragraph/1.md)
+    - [Sch. 15A para. 2](schedule/15A/paragraph/2.md)
+    - [Sch. 15A para. 3](schedule/15A/paragraph/3.md)
+    - [Sch. 15A para. 4](schedule/15A/paragraph/4.md)
+    - [Sch. 15A para. 5](schedule/15A/paragraph/5.md)
+    - [Sch. 15A para. 5A](schedule/15A/paragraph/5A.md)
+  - Part II Modified Application of Parts I to III, 6, 7, 12 and 13 of Insolvency Act 1986
+    - Preliminary
+      - [Sch. 15A para. 6](schedule/15A/paragraph/6.md)
+      - [Sch. 15A para. 6A](schedule/15A/paragraph/6A.md)
+    - Voluntary arrangements
+      - [Sch. 15A para. 7](schedule/15A/paragraph/7.md)
+      - [Sch. 15A para. 8](schedule/15A/paragraph/8.md)
+      - [Sch. 15A para. 8A](schedule/15A/paragraph/8A.md)
+      - [Sch. 15A para. 9](schedule/15A/paragraph/9.md)
+      - [Sch. 15A para. 9A](schedule/15A/paragraph/9A.md)
+    - Administration orders
+      - [Sch. 15A para. 10](schedule/15A/paragraph/10.md)
+      - [Sch. 15A para. 11](schedule/15A/paragraph/11.md)
+      - [Sch. 15A para. 12](schedule/15A/paragraph/12.md)
+      - [Sch. 15A para. 13](schedule/15A/paragraph/13.md)
+      - [Sch. 15A para. 14](schedule/15A/paragraph/14.md)
+      - [Sch. 15A para. 15](schedule/15A/paragraph/15.md)
+      - [Sch. 15A para. 16](schedule/15A/paragraph/16.md)
+      - [Sch. 15A para. 17](schedule/15A/paragraph/17.md)
+      - [Sch. 15A para. 18](schedule/15A/paragraph/18.md)
+      - [Sch. 15A para. 19](schedule/15A/paragraph/19.md)
+      - [Sch. 15A para. 20](schedule/15A/paragraph/20.md)
+      - [Sch. 15A para. 21](schedule/15A/paragraph/21.md)
+      - [Sch. 15A para. 22](schedule/15A/paragraph/22.md)
+      - [Sch. 15A para. 23](schedule/15A/paragraph/23.md)
+      - [Sch. 15A para. 24](schedule/15A/paragraph/24.md)
+    - Receivers and managers
+      - [Sch. 15A para. 25](schedule/15A/paragraph/25.md)
+      - [Sch. 15A para. 26](schedule/15A/paragraph/26.md)
+      - [Sch. 15A para. 27](schedule/15A/paragraph/27.md)
+      - [Sch. 15A para. 27A](schedule/15A/paragraph/27A.md)
+      - [Sch. 15A para. 27B](schedule/15A/paragraph/27B.md)
+      - [Sch. 15A para. 27C](schedule/15A/paragraph/27C.md)
+      - [Sch. 15A para. 27D](schedule/15A/paragraph/27D.md)
+      - [Sch. 15A para. 27E](schedule/15A/paragraph/27E.md)
+      - [Sch. 15A para. 27F](schedule/15A/paragraph/27F.md)
+    - Protection of supplies
+      - [Sch. 15A para. 27FA](schedule/15A/paragraph/27FA.md)
+    - Insolvency practitioners: their qualification and regulation
+      - [Sch. 15A para. 27G](schedule/15A/paragraph/27G.md)
+      - [Sch. 15A para. 27H](schedule/15A/paragraph/27H.md)
+      - [Sch. 15A para. 27I](schedule/15A/paragraph/27I.md)
+  - Part III Modified Application of Parts II, III, 4 and 12 of Insolvency (Northern Ireland) Order 1989
+    - Preliminary
+      - [Sch. 15A para. 28](schedule/15A/paragraph/28.md)
+    - Voluntary arrangements
+      - [Sch. 15A para. 29](schedule/15A/paragraph/29.md)
+      - [Sch. 15A para. 30](schedule/15A/paragraph/30.md)
+      - [Sch. 15A para. 30A](schedule/15A/paragraph/30A.md)
+      - [Sch. 15A para. 31](schedule/15A/paragraph/31.md)
+      - [Sch. 15A para. 31A](schedule/15A/paragraph/31A.md)
+    - Administration orders
+      - [Sch. 15A para. 32](schedule/15A/paragraph/32.md)
+      - [Sch. 15A para. 33](schedule/15A/paragraph/33.md)
+      - [Sch. 15A para. 34](schedule/15A/paragraph/34.md)
+      - [Sch. 15A para. 35](schedule/15A/paragraph/35.md)
+      - [Sch. 15A para. 36](schedule/15A/paragraph/36.md)
+      - [Sch. 15A para. 37](schedule/15A/paragraph/37.md)
+      - [Sch. 15A para. 38](schedule/15A/paragraph/38.md)
+      - [Sch. 15A para. 39](schedule/15A/paragraph/39.md)
+      - [Sch. 15A para. 40](schedule/15A/paragraph/40.md)
+      - [Sch. 15A para. 41](schedule/15A/paragraph/41.md)
+      - [Sch. 15A para. 42](schedule/15A/paragraph/42.md)
+      - [Sch. 15A para. 43](schedule/15A/paragraph/43.md)
+      - [Sch. 15A para. 44](schedule/15A/paragraph/44.md)
+      - [Sch. 15A para. 45](schedule/15A/paragraph/45.md)
+      - [Sch. 15A para. 46](schedule/15A/paragraph/46.md)
+    - Receivers and managers
+      - [Sch. 15A para. 47](schedule/15A/paragraph/47.md)
+      - [Sch. 15A para. 48](schedule/15A/paragraph/48.md)
+      - [Sch. 15A para. 49](schedule/15A/paragraph/49.md)
+      - [Sch. 15A para. 50](schedule/15A/paragraph/50.md)
+      - [Sch. 15A para. 51](schedule/15A/paragraph/51.md)
+      - [Sch. 15A para. 52](schedule/15A/paragraph/52.md)
+    - Protection of supplies
+      - [Sch. 15A para. 52A](schedule/15A/paragraph/52A.md)
+    - Insolvency practitioners: their qualification and regulation
+      - [Sch. 15A para. 53](schedule/15A/paragraph/53.md)
+      - [Sch. 15A para. 54](schedule/15A/paragraph/54.md)
+      - [Sch. 15A para. 55](schedule/15A/paragraph/55.md)
+- SCHEDULE 16 Mergers: Supplementary Provisions
+  - Part I Issue of Statements to Members
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Part II Notification of Proposals for Merger
+    - Preliminary
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - Duty to notify members
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - Duty to notify appropriate authority
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - Penalty
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Part III Confirmation by appropriate authority: Procedure
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+- SCHEDULE 17 Transfers of Business: Supplementary Provisions
+  - PART I Issue of statement or summary to members
+    - Preliminary
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Duty to send transfer statements or summaries to members
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - PART IA Notification of proposals for transfers of business
+    - Preliminary
+      - [Sch. 17 para. 5A](schedule/17/paragraph/5A.md)
+    - Duty to notify members
+      - [Sch. 17 para. 5B](schedule/17/paragraph/5B.md)
+      - [Sch. 17 para. 5C](schedule/17/paragraph/5C.md)
+    - Duty to notify appropriate authority
+      - [Sch. 17 para. 5D](schedule/17/paragraph/5D.md)
+    - Penalty
+      - [Sch. 17 para. 5E](schedule/17/paragraph/5E.md)
+  - Part II Confirmation by appropriate authority: Procedure
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+- SCHEDULE 18 Amendments of Enactments
+  - Part I United Kingdom
+    - Bankers’ Books Evidence Act 1879 (c.11)
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - Land Registration Act 1925 (c.21)
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - Payment of Wages Act 1960 (c. 37)
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - Trustee Investments Act 1961 (c. 62)
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - Stock Transfer Act 1963 (c.18)
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - Industrial and Provident Societies Act 1965 (c.12)
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - Income and Corporation Taxes Act 1970 (c.10)
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - Banking and Financial Dealings Act 1971 (c.80)
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - Local Government Act 1972 (c.70)
+      - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - Solicitors Act 1974 (c.47)
+      - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - Home Purchase Assistance and Housing Corporation Guarantee Act 1978 (c.27)
+      - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - Banking Act 1979 (c.37)
+      - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - Charging Orders Act 1979 (c.53)
+      - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - Finance Act 1982 (c.39)
+      - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - Companies Act 1985 (c.6)
+      - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - Insolvency Act 1985 (c.65)
+      - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+    - Housing Associations Act 1985 (c.69)
+      - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+  - Part II Northern Ireland
+    - Industrial and Provident Societies Act (Northern Ireland)1969 (c.24 N.I.)
+      - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - Payment of Wages Act (Northern Ireland 1970
+      - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+    - Private Streets (Northern Ireland) Order 1980 (S.I. 1980/1086 (N.I.12))
+      - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+    - Housing (Northern Ireland) Order 1981 (S.I. 1981/156 (N.I.3))
+      - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+    - Property (Discharge of Mortgage by Receipt) (Northern Ireland) Order 1983 (S.I. 1983/766 (N.I.9))
+      - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+    - Housing (Northern Ireland) Order 1983 (S.I. 1983/1118 (N.I.15))
+      - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+    - Companies (Northern Ireland) Order 1986
+      - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+- SCHEDULE 19 Repeals and Revocations
+  - Part I Repeals: General
+  - Part II Revocation Extending to Great Britain
+  - PART III Repeals and Revocations Extending Only to Northern Ireland
+- SCHEDULE 20 Transitional and Saving Provisions
+  - Preliminary
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Adoption of powers and alteration of rules
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Default powers
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Registration with existing authorities
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Authorisation under existing enactments
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - Anticipation of powers: declaratory provision
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Unlawful anticipation of powers
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - Penalty for breach of undertaking
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - Penalty for false declaration
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+  - Powers of central office
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+  - Permissible securities for advances
+    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+  - Existing business names
+    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+  - Directors in office
+    - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+  - Existing financial years
+    - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+  - Qualifying assets
+    - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+  - Provision of conveyancing services for building societies
+    - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+- SCHEDULE 21 Provision of Conveyancing Services by Recognised Institutions and Practitioners
+  - ...
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+    - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
