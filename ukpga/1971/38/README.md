@@ -1,0 +1,137 @@
+# Misuse of Drugs Act 1971
+
+1971 c. 38. Enacted 1971-05-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1971/38
+
+Source: https://www.legislation.gov.uk/ukpga/1971/38/2025-01-15
+
+## Contents
+
+- The Advisory Council on the Misuse of Drugs
+  - [s. 1 The Advisory Council on the Misuse of Drugs.](section/1.md)
+- Controlled drugs and their classification
+  - [s. 2 Controlled drugs and their classification for purposes of this Act.](section/2.md)
+  - [s. 2A Temporary class drug orders](section/2A.md)
+  - [s. 2B Orders under section 2A: role of Advisory Council etc](section/2B.md)
+- Restrictions relating to controlled drugs etc.
+  - [s. 3 Restriction of importation and exportation of controlled drugs.](section/3.md)
+  - [s. 4 Restriction of production and supply of controlled drugs.](section/4.md)
+  - [s. 4A Aggravation of offence of supply of controlled drug](section/4A.md)
+  - [s. 5 Restriction of possession of controlled drugs.](section/5.md)
+  - [s. 6 Restriction of cultivation of cannabis plant.](section/6.md)
+  - [s. 7 Authorisation of activities otherwise unlawful under foregoing provisions.](section/7.md)
+  - [s. 7A Temporary class drug orders: power to make further provision](section/7A.md)
+- Miscellaneous offences involving controlled drugs etc.
+  - [s. 8 Occupiers etc. of premises to be punishable for permitting certain activities to take place there.](section/8.md)
+  - [s. 9 Prohibition of certain activities etc. relating to opium.](section/9.md)
+  - [s. 9A Prohibition of supply etc. of articles for administering or preparing controlled drugs.](section/9A.md)
+- Powers of Secretary of State for preventing misuse of controlled drugs
+  - [s. 10 Power to make regulations for preventing misuse of controlled drugs.](section/10.md)
+  - [s. 11 Power to direct special precautions for safe custody of controlled drugs to be taken at certain premises.](section/11.md)
+  - [s. 12 Directions prohibiting prescribing, supply etc. of controlled drugs by practitioners etc. convicted of certain offences.](section/12.md)
+  - [s. 13 Directions prohibiting prescribing, supply etc. of controlled drugs by practitioners in other cases.](section/13.md)
+  - [s. 14 Investigation where grounds for a direction under s. 13 are considered to exist.](section/14.md)
+  - [s. 15 Temporary directions under s. 13(2).](section/15.md)
+  - [s. 16 Provisions supplementary to ss. 14 and 15.](section/16.md)
+  - [s. 17 Power to obtain information from doctors, pharmacists etc. in certain circumstances.](section/17.md)
+- Miscellaneous offences and powers
+  - [s. 18 Miscellaneous offences.](section/18.md)
+  - [s. 19 Attempts etc. to commit offences.](section/19.md)
+  - [s. 20 Assisting in or inducing commission outside United Kingdom of offence punishable under a corresponding law.](section/20.md)
+  - [s. 21 Offences by corporations.](section/21.md)
+  - [s. 22 Further powers to make regulations.](section/22.md)
+- Law enforcement and punishment of offences
+  - [s. 23 Powers to search and obtain evidence.](section/23.md)
+  - [s. 23A Temporary class drugs: further power to search, seize and detain](section/23A.md)
+  - [s. 24 Power of arrest](section/24.md)
+  - [s. 25 Prosecution and punishment of offences.](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 Forfeiture.](section/27.md)
+- Miscellaneous and supplementary provisions
+  - [s. 28 Proof of lack of knowledge etc. to be a defence in proceedings for certain offences.](section/28.md)
+  - [s. 29 Service of documents.](section/29.md)
+  - [s. 30 Licences and authorities.](section/30.md)
+  - [s. 31 General provisions as to regulations.](section/31.md)
+  - [s. 32 Research.](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 35 Financial provisions.](section/35.md)
+  - [s. 36 Meaning of “corresponding law”, and evidence of certain matters by certificate.](section/36.md)
+  - [s. 37 Interpretation.](section/37.md)
+  - [s. 38 Special provisions as to Northern Ireland.](section/38.md)
+  - [s. 39 Savings and transitional provisions, repeals, and power to amend local enactments.](section/39.md)
+  - [s. 40 Short title, extent and commencement.](section/40.md)
+- SCHEDULE 1 Constitution etc. of Advisory Council on the Misuse of Drugs
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Controlled Drugs
+  - Part I Class A Drugs
+    - [Sch. 2 Pt. I para. 1](schedule/2/part/I/paragraph/1.md)
+    - [Sch. 2 Pt. I para. 2](schedule/2/part/I/paragraph/2.md)
+    - [Sch. 2 Pt. I para. 3](schedule/2/part/I/paragraph/3.md)
+    - [Sch. 2 Pt. I para. 4](schedule/2/part/I/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part II Class B Drugs
+    - [Sch. 2 Pt. II para. 1](schedule/2/part/II/paragraph/1.md)
+    - [Sch. 2 Pt. II para. 2](schedule/2/part/II/paragraph/2.md)
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+    - [Sch. 2 Pt. II para. 3](schedule/2/part/II/paragraph/3.md)
+    - [Sch. 2 Pt. II para. 4](schedule/2/part/II/paragraph/4.md)
+  - Part III Class C Drugs
+    - [Sch. 2 Pt. III para. 1](schedule/2/part/III/paragraph/1.md)
+    - [Sch. 2 Pt. III para. 2](schedule/2/part/III/paragraph/2.md)
+    - [Sch. 2 Pt. III para. 3](schedule/2/part/III/paragraph/3.md)
+    - [Sch. 2 Pt. III para. 4](schedule/2/part/III/paragraph/4.md)
+  - Part IV Meaning of certain Expressions used in this Schedule
+- SCHEDULE 3 Tribunals, Advisory Bodies and Professional Panels
+  - Part I Tribunals
+    - Membership
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Procedure
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Financial provisions
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Supplemental
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Part II Advisory Bodies
+    - Membership
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Procedure
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Application of provisions of Part I
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Part III Professional Panels
+    - Membership
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Procedure
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Application of provisions of Part I
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Part IV Application of Parts I to III to Northern Ireland
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+- Schedule 4 Prosecution and Punishment of Offences
+- SCHEDULE 5 Savings and Transitional Provisions
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Repeals.
