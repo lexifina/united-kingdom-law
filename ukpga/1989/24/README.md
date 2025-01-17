@@ -1,0 +1,149 @@
+# Social Security Act 1989
+
+1989 c. 24. Enacted 1989-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/24
+
+Source: https://www.legislation.gov.uk/ukpga/1989/24/2025-01-17
+
+## Contents
+
+- Contributions
+  - [s. 1 ................................](section/1.md)
+  - [s. 4 Earnings factors.](section/4.md)
+- Liability to maintain children
+  - [s. 5 Liability of parants to maintain children under the age of nineteen in respect of whom income support is paid.](section/5.md)
+- Benefits under the principal Act
+  - [s. 6 Benefits for women widowed before 11th April 1988.](section/6.md)
+  - [s. 7](section/7.md)
+  - [s. 8 ................................](section/8.md)
+  - [s. 9 ................................](section/9.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+- Recovery from damages etc of sums equivalent to benefit
+  - [s. 22 Recovery of sums equivalent to benefit from compensation payments in respect of accidents, injuries and diseases.](section/22.md)
+- Occupational and personal pensions etc
+  - [s. 23 Equal treatment for men and women.](section/23.md)
+  - [s. 24 Miscellaneous amendments relating to pensions.](section/24.md)
+- War pensions committees
+  - [s. 25 Establishment and functions of war pensions committees.](section/25.md)
+- General and supplementary provisions
+  - [s. 26 Pre-consolidation amendments.](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 Financial provisions.](section/28.md)
+  - [s. 29 Regulations and orders: general provisions.](section/29.md)
+  - [s. 30 Interpretation.](section/30.md)
+  - [s. 31 Minor and consequential amendments, repeals and transitional provisions.](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 Short title, commencement and extent.](section/33.md)
+- SCHEDULE 1 Abolition of Earnings Rule Etc.
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Occupational and personal pensions
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULES 2, 3................................
+- SCHEDULE 4 Recovery of Sums Equivalent to Benefit from Compensation Payments in respect of Accidents etc: Supplementary Provision
+  - Parts I—III ...
+  - Part IV MISCELLANEOUS
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Modification of Law Reform (Personal Injuries) Act 1948
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Modification of Bankruptcy (Scotland) Act 1985
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 Employment-related Schemes for Pensions or other Benefits: Equal Treatment for Men and Women
+  - Part I Compliance by Schemes
+    - Schemes to comply with the principle of equal treatment
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - The principle
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Non-compliance: compulsory levelling up
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Modification of schemes by the Occupational Pensions Board
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Unfair maternity provisions
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Unfair paternity leave provisions
+      - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+    - Unfair adoption leave provisions
+      - [Sch. 5 para. 5B](schedule/5/paragraph/5B.md)
+    - Unfair shared parental leave provisions
+      - [Sch. 5 para. 5C](schedule/5/paragraph/5C.md)
+    - Unfair parental bereavement leave provisions
+      - [Sch. 5 para. 5D](schedule/5/paragraph/5D.md)
+    - Unfair neonatal care leave provisions
+      - [Sch. 5 para. 5E](schedule/5/paragraph/5E.md)
+    - Unfair family leave provisions
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Meaning of “employment-related benefit scheme” etc.
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Extension of ban on compulsory membership
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Jurisdiction
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Interpretation
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Supplemental
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Future repeal of actuarial provisions
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Part II Amendment of Enactments Relating to Employment
+    - Equal Pay Act 1970 (c.41)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Sex Discrimination Act 1975 (c.65)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Employment Protection (Consolidation) Act 1978 (c.44)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 Occupational and Personal Pensions
+  - Social Security Act 1973 (c.38)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Social Security Pensions Act 1975 (c. 60)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Social Security (Miscellaneous Provisions) Act 1977 (c. 5)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Social Security Act 1986 (c. 50)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - The Occupational Pension Schemes (Contracting-out) Regulations 1984 (S.I.1984/380)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+- SCHEDULE 7 Pre-consolidation Amendments
+  - Social Security Act 1973 (c. 38)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+- SCHEDULE 8 Minor and Consequential Amendments
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Transitional and consequential provision in regulations
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Restriction on first up-rating of additional pension
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Consultations about subordinate legislation
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Regulations relating to home responsibilities
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Joint citations
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+- SCHEDULE 9 Repeals
