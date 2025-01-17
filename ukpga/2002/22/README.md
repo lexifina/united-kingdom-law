@@ -1,0 +1,171 @@
+# Employment Act 2002
+
+2002 c. 22. Enacted 2002-07-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
+
+Source: https://www.legislation.gov.uk/ukpga/2002/22/2025-01-17
+
+## Contents
+
+- Part 1 Statutory leave and pay
+  - Chapter 1 Paternity and adoption
+    - Rights to leave and pay
+      - [s. 1 Paternity leave](section/1.md)
+      - [s. 2 Statutory paternity pay](section/2.md)
+      - [s. 3 Adoption leave](section/3.md)
+      - [s. 4 Statutory adoption pay](section/4.md)
+    - Administration and enforcement: pay
+      - [s. 5 General functions of the Board](section/5.md)
+      - [s. 6 Financial arrangements](section/6.md)
+      - [s. 7 Funding of employers’ liabilities](section/7.md)
+      - [s. 8 Regulations about payment](section/8.md)
+      - [s. 9 Decisions and appeals](section/9.md)
+      - [s. 10 Powers to require information](section/10.md)
+      - [s. 11 Penalties: failures to comply](section/11.md)
+      - [s. 12 Penalties: fraud etc.](section/12.md)
+      - [s. 13 Supply of information held by the Board](section/13.md)
+      - [s. 14 Supply of information held by the Secretary of State](section/14.md)
+      - [s. 15 Use of information by the Board](section/15.md)
+      - [s. 16 Interpretation](section/16.md)
+  - Chapter 2 Maternity
+    - [s. 17 Rights during and after maternity leave](section/17.md)
+    - [s. 18 Maternity pay period](section/18.md)
+    - [s. 19 Rate of statutory maternity pay](section/19.md)
+    - [s. 20 Entitlement to statutory maternity pay](section/20.md)
+    - [s. 21 Funding of employers’ liabilities: statutory maternity pay](section/21.md)
+- Part 2 Tribunal reform
+  - Costs and expenses
+    - [s. 22 Employment tribunals](section/22.md)
+    - [s. 23 Employment Appeal Tribunal](section/23.md)
+  - Miscellaneous
+    - [s. 24 Conciliation](section/24.md)
+    - [s. 25 Power to delegate prescription of forms etc.](section/25.md)
+    - [s. 26 Determination without a hearing](section/26.md)
+    - [s. 27 Practice directions](section/27.md)
+    - [s. 28 Pre-hearing reviews](section/28.md)
+- Part 3 Dispute resolution etc.
+  - Statutory procedures
+    - [s. 29 Statutory dispute resolution procedures](section/29.md)
+    - [s. 30 Contracts of employment](section/30.md)
+    - [s. 31 Non-completion of statutory procedure: adjustment of awards](section/31.md)
+    - [s. 32 Complaints about grievances](section/32.md)
+    - [s. 33 Consequential adjustment of time limits](section/33.md)
+    - [s. 34 Procedural fairness in unfair dismissal](section/34.md)
+  - Employment particulars
+    - [s. 35 Particulars of procedures relating to discipline or dismissal](section/35.md)
+    - [s. 36 Removal of exemption for small employers](section/36.md)
+    - [s. 37 Use of alternative documents to give particulars](section/37.md)
+    - [s. 38 Failure to give statement of employment particulars etc.](section/38.md)
+  - General
+    - [s. 39 Unfair dismissal: adjustments under sections 31 and 38](section/39.md)
+    - [s. 40 Interpretation of Part 3](section/40.md)
+- Part 4 Miscellaneous and general
+  - ...
+    - [s. 41 Power to confer rights on individuals: amendment](section/41.md)
+    - [s. 42 ....](section/42.md)
+    - [s. 43 Union learning representatives](section/43.md)
+    - [s. 44 Dismissal procedures agreements](section/44.md)
+    - [s. 45 Fixed-term work](section/45.md)
+    - [s. 46 Fixed-term work: Northern Ireland](section/46.md)
+    - [s. 47 Flexible working](section/47.md)
+    - [s. 48 Rate of maternity allowance](section/48.md)
+    - [s. 49 Work-focused interviews for partners](section/49.md)
+    - [s. 50 Use of information for, or relating to, employment and training](section/50.md)
+  - General
+    - [s. 51 Orders and regulations](section/51.md)
+    - [s. 52 Financial provisions](section/52.md)
+    - [s. 53 Minor and consequential amendments](section/53.md)
+    - [s. 54 Repeals and revocations](section/54.md)
+    - [s. 55 Short title etc.](section/55.md)
+- SCHEDULE 1 Penalties: procedure and appeals
+  - [Sch. 1 para. 1 Determination of penalties by officer of Board](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Provisions supplementary to paragraph 1](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Appeals against penalty determinations](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Penalty proceedings before First-tier Tribunal](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Penalty proceedings before court](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Mitigation of penalties](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Time limits for penalties](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Interest on penalties](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Interpretation](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Statutory dispute resolution procedures
+  - ...
+  - ... ...
+    - ... ...
+- SCHEDULE 3 Tribunal jurisdictions to which section 31 applies
+- SCHEDULE 4 Tribunal jurisdictions to which section 32 applies
+- SCHEDULE 5 Tribunal jurisdictions to which section 38 applies
+- SCHEDULE 6 Use of information for, or relating to, employment and training
+  - [Sch. 6 para. 1 Supply and use of employment or training information by Secretary of State etc.](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Supply of tax information for employment or training purposes](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Supply of Inland Revenue tax credits information for employment or training purposes](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Supply to Inland Revenue of employment or training information for purposes of tax credits](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Supply of other Inland Revenue information for employment or training purposes](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13 Supply to Inland Revenue of employment or training information for other purposes](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - [Sch. 7 para. 1 Finance Act 1989 (c. 26)](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Social Security Contributions and Benefits Act 1992 (c. 4)](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8 Social Security Administration Act 1992 (c. 5)](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17 Social Security Administration (Northern Ireland) Act 1992 (c. 8)](schedule/7/paragraph/17.md)
+  - [Sch. 7 para. 18 Trade Union and Labour Relations (Consolidation) Act 1992 (c. 52)](schedule/7/paragraph/18.md)
+  - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - [Sch. 7 para. 23 Employment Tribunals Act 1996 (c. 17)](schedule/7/paragraph/23.md)
+  - [Sch. 7 para. 24 Employment Rights Act 1996 (c. 18)](schedule/7/paragraph/24.md)
+  - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+  - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+  - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+  - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+  - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+  - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+  - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+  - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+  - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+  - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+  - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+  - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+  - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+  - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+  - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+  - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+  - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+  - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+  - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+  - [Sch. 7 para. 50 Finance Act 1997 (c.16)](schedule/7/paragraph/50.md)
+  - [Sch. 7 para. 51 Social Security Act 1998 (c. 14)](schedule/7/paragraph/51.md)
+  - [Sch. 7 para. 52 Tax Credits Act 1999 (c. 10)](schedule/7/paragraph/52.md)
+  - [Sch. 7 para. 53 Finance Act 1999 (c. 16)](schedule/7/paragraph/53.md)
+  - [Sch. 7 para. 54 Employment Relations Act 1999 (c. 26)](schedule/7/paragraph/54.md)
+  - [Sch. 7 para. 55 Welfare Reform and Pensions Act 1999 (c. 30)](schedule/7/paragraph/55.md)
+- SCHEDULE 8 Repeals and revocations
