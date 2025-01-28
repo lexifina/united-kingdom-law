@@ -1,0 +1,150 @@
+# Judicial Factors (Scotland) Act 2025
+
+asp/2025/3. Enacted 2025-01-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2025/3/2025-01-28
+
+## Contents
+
+- Part 1 Appointment of judicial factor
+  - Appointment of judicial factor
+    - [s. 1 Appointment of judicial factor](section/1.md)
+    - [s. 2 Appointment of judicial factor: charities](section/2.md)
+  - Interim judicial factor
+    - [s. 3 Interim judicial factor](section/3.md)
+  - Conditions and qualification for appointment
+    - [s. 4 Conditions for appointment of judicial factor](section/4.md)
+    - [s. 5 Qualification for appointment as judicial factor](section/5.md)
+  - Caution
+    - [s. 6 Finding of caution](section/6.md)
+  - Intimation and recording of notice of appointment
+    - [s. 7 Intimation and recording of notice of appointment](section/7.md)
+    - [s. 8 Review of appropriateness of recording in the Register of Inhibitions](section/8.md)
+  - Vesting of estate in judicial factor
+    - [s. 9 Vesting of estate in judicial factor](section/9.md)
+  - Warrant to intromit with estate
+    - [s. 10 Warrant to intromit with estate](section/10.md)
+  - Remuneration and reimbursement of judicial factor
+    - [s. 11 Remuneration and reimbursement of judicial factor](section/11.md)
+  - Guidance about the appointment of judicial factors on the estates of missing persons
+    - [s. 12 Guidance about the appointment of judicial factors on the estates of missing persons](section/12.md)
+- Part 2 Functions of judicial factor
+  - Functions of judicial factor
+    - [s. 13 Functions of judicial factor](section/13.md)
+  - Power of court to specify functions of judicial factor
+    - [s. 14 Power of court to specify functions of judicial factor](section/14.md)
+  - Power of judicial factor to require information
+    - [s. 15 Power of judicial factor to require information](section/15.md)
+  - Ingathering
+    - [s. 16 Ingathering](section/16.md)
+  - Inventory and management plan
+    - [s. 17 Inventory of estate](section/17.md)
+    - [s. 18 Management plan](section/18.md)
+  - Submission of accounts, etc.
+    - [s. 19 Submission of accounts, etc.](section/19.md)
+  - Investment
+    - [s. 20 Investment](section/20.md)
+  - Claims
+    - [s. 21 Enforcing or defending claims](section/21.md)
+  - Duty where estate object of dispute
+    - [s. 22 Duty where estate object of dispute](section/22.md)
+- Part 3 Dealings etc. with third parties and validity of certain transactions
+  - [s. 23 Protection of person acquiring title](section/23.md)
+  - [s. 24 Entitlements and liabilities of judicial factor](section/24.md)
+  - [s. 25 Contracts entered into by judicial factor](section/25.md)
+  - [s. 26 Expenses of legal proceedings on behalf of factory estate](section/26.md)
+  - [s. 27 Claims arising from acts or omissions of judicial factor](section/27.md)
+  - [s. 28 Prescription of obligations](section/28.md)
+  - [s. 29 Validity of certain transactions by judicial factor appointed on trust estate](section/29.md)
+- Part 4 Distribution of factory estate, termination, recall and discharge of judicial factor
+  - Distribution of factory estate
+    - [s. 30 Approval of judicial factor’s scheme for distribution of factory estate](section/30.md)
+    - [s. 31 Application for distribution of factory estate](section/31.md)
+  - Termination, recall and discharge after distribution
+    - [s. 32 Termination, recall and discharge after distribution of factory estate](section/32.md)
+  - Appointment of replacement judicial factor
+    - [s. 33 Duty of Accountant to apply for appointment of replacement where judicial factor has died or ceased to perform duties](section/33.md)
+  - Other applications for recall and discharge
+    - [s. 34 Resignation and applications for recall and discharge in other circumstances](section/34.md)
+  - Inventory and balance sheet
+    - [s. 35 Inventory and balance sheet where replacement judicial factor appointed](section/35.md)
+  - Termination of judicial factory where insufficient funds
+    - [s. 36 Termination of judicial factory where insufficient funds](section/36.md)
+  - Ending of judicial factor’s accountability on discharge
+    - [s. 37 Ending of judicial factor’s accountability on discharge](section/37.md)
+- Part 5 Accountant of court
+  - Accountant of Court and Depute Accountant
+    - [s. 38 Accountant of Court: appointment, remuneration and fees](section/38.md)
+    - [s. 39 Depute Accountant](section/39.md)
+  - General function of Accountant of Court
+    - [s. 40 General function of Accountant of Court](section/40.md)
+  - Misconduct or failure of judicial factor
+    - [s. 41 Misconduct or failure of judicial factor](section/41.md)
+  - Power of Accountant to require information
+    - [s. 42 Power of Accountant to require information](section/42.md)
+  - Audit by Accountant
+    - [s. 43 Audit by Accountant](section/43.md)
+    - [s. 44 Audit by Accountant: objection and appeal](section/44.md)
+  - Annual review
+    - [s. 45 Annual review](section/45.md)
+  - Inspection of records held by Accountant
+    - [s. 46 Inspection of records held by Accountant](section/46.md)
+  - Inconsistency in judgement or practice
+    - [s. 47 Inconsistency in judgement or practice](section/47.md)
+  - Right of judicial factor to require determination as regards decision of Accountant
+    - [s. 48 Right of judicial factor to require determination as regards decision of Accountant](section/48.md)
+- Part 6 Miscellaneous and general
+  - Miscellaneous
+    - [s. 49 Competence of appointing curator bonis](section/49.md)
+    - [s. 50 Application of this Act](section/50.md)
+  - General
+    - [s. 51 Ancillary provision](section/51.md)
+    - [s. 52 Modification of enactments and repeals and revocations](section/52.md)
+    - [s. 53 Interpretation](section/53.md)
+    - [s. 54 Commencement](section/54.md)
+    - [s. 55 Short title](section/55.md)
+- Schedule 1 Standard powers
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+- Schedule 2 Modification of enactments
+  - [Sch. 2 para. 1 Trusts (Scotland) Act 1921](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Conveyancing (Scotland) Act 1924](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Companies Act 1989](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Pension Schemes Act 1993](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Employment Rights Act 1996](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Pensions Act 2004](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Bankruptcy and Diligence etc. (Scotland) Act 2007](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Third Parties (Rights against Insurers) Act 2010](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Courts Reform (Scotland) Act 2014](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Bankruptcy (Scotland) Act 2016](schedule/2/paragraph/10.md)
+- Schedule 3 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
