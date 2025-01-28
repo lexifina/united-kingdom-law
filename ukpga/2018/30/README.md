@@ -1,0 +1,148 @@
+# Ivory Act 2018
+
+2018 c. 30. Enacted 2018-12-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-01-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2018/30/2025-01-28
+
+## Contents
+
+- Prohibition
+  - [s. 1 Prohibition on dealing in ivory](section/1.md)
+- Exemption for outstandingly valuable and important pre-1918 items
+  - [s. 2 Pre-1918 items of outstanding artistic etc value and importance](section/2.md)
+  - [s. 3 Applications for exemption certificates](section/3.md)
+  - [s. 4 Further provision about exemption certificates](section/4.md)
+  - [s. 5 Fresh applications and appeals](section/5.md)
+- Other exemptions
+  - [s. 6 Pre-1918 portrait miniatures](section/6.md)
+  - [s. 7 Pre-1947 items with low ivory content](section/7.md)
+  - [s. 8 Pre-1975 musical instruments](section/8.md)
+  - [s. 9 Acquisitions by qualifying museums](section/9.md)
+  - [s. 10 Registration](section/10.md)
+  - [s. 11 Further provision about registration](section/11.md)
+- Criminal and civil sanctions
+  - [s. 12 Offence of breaching the prohibition or causing or facilitating a breach](section/12.md)
+  - [s. 13 Civil sanctions](section/13.md)
+- Powers of entry, search and seizure
+  - [s. 14 Power to stop and search persons](section/14.md)
+  - [s. 15 Power to stop and search vehicles](section/15.md)
+  - [s. 16 Power to board and search vessels and aircraft](section/16.md)
+  - [s. 17 Warrants authorising entry and search of premises](section/17.md)
+  - [s. 18 Further provision about search warrants](section/18.md)
+  - [s. 19 Powers of examination etc](section/19.md)
+  - [s. 20 Power to require production of documents etc](section/20.md)
+  - [s. 21 Powers of seizure etc](section/21.md)
+  - [s. 22 Accredited civilian officers: powers of entry](section/22.md)
+  - [s. 23 Other powers of accredited civilian officers](section/23.md)
+  - [s. 24 Excluded items](section/24.md)
+  - [s. 25 Further provision about seizure under section 21 or 23](section/25.md)
+  - [s. 26 Notices and records in relation to seized items](section/26.md)
+  - [s. 27 Powers of entry, search and seizure: supplementary provision](section/27.md)
+  - [s. 28 Offences of obstruction etc](section/28.md)
+- Retention and disposal or return of items
+  - [s. 29 Retention of seized items](section/29.md)
+  - [s. 30 Forfeiture of seized items by court on application](section/30.md)
+  - [s. 31 Appeal against decision under section 30](section/31.md)
+  - [s. 32 Return of item to person entitled to it, or disposal if return impracticable](section/32.md)
+  - [s. 33 Forfeiture by court following conviction](section/33.md)
+- General
+  - [s. 34 Application of Customs and Excise Management Act 1979](section/34.md)
+  - [s. 35 Contracts of insurance etc](section/35.md)
+  - [s. 36 Liability of corporate officers for offences by bodies corporate etc](section/36.md)
+  - [s. 37 Meaning of “ivory”](section/37.md)
+  - [s. 38 Meaning of other expressions](section/38.md)
+  - [s. 39 Regulations](section/39.md)
+  - [s. 40 Financial provision](section/40.md)
+  - [s. 41 Crown application](section/41.md)
+  - [s. 42 Extent](section/42.md)
+  - [s. 43 Commencement](section/43.md)
+  - [s. 44 Short title](section/44.md)
+- SCHEDULE 1 Civil sanctions
+  - Part 1 Monetary penalties
+    - Imposition of monetary penalties
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Representations and appeals etc
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Information to be included in notices under paragraph 2
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Monetary penalties: criminal proceedings and conviction
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part 2 Stop notices
+    - Imposition of stop notices
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Information to be included in stop notices
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Completion certificates
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Appeals
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Offence of failure to comply with stop notice
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part 3 Enforcement undertakings
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part 4 Enforcement cost recovery notices
+    - Imposition of enforcement cost recovery notices
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Information to be included in enforcement cost recovery notices
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Appeals
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Part 5 Power to make supplementary provision etc by regulations
+    - Supplementary regulations: general
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Consultation
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Monetary penalties and costs
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Enforcement undertakings
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Appeals
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part 6 General and supplemental
+    - Combination of sanctions
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Unincorporated associations
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Guidance as to enforcement
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Pre-commencement consultation
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Reports on use of civil sanctions
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Disclosure of information
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Part 7 Interpretation
+    - Interpretation of Schedule
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+- SCHEDULE 2 Search warrants: England and Wales and Northern Ireland
+  - Part 1 Preliminary
+    - Application of this Schedule
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Interpretation
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part 2 Search warrants: applications and safeguards
+    - Applications for warrants
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Safeguards in connection with power of entry conferred by warrant
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 3 Execution of search warrants
+    - Warrant to be executed within one month
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - All-premises warrants
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Search of premises more than once
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Time of search
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Evidence of authority etc
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Extent of search
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Securing premises after entry
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Return and retention of warrant
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
