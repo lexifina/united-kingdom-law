@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-02-23, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-02-24, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2025-02-23
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2025-02-24
 
 ## Contents
 
@@ -153,6 +153,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2025-02-23
   - [s. 113 Minister of the Crown: restrictions on the exercise of powers](section/113.md)
   - [s. 114 Definitions relating to procurement arrangements](section/114.md)
   - [s. 115 Powers relating to procurement arrangements](section/115.md)
+  - [s. 115A Application of this Act where a devolved Scottish authority carries out procurement under a reserved procurement arrangement etc.](section/115A.md)
 - PART 12 Amendments and repeals
   - [s. 116 Disapplication of duty in section 17 of the Local Government Act 1988](section/116.md)
   - [s. 117 Single source defence contracts](section/117.md)
@@ -343,32 +344,33 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2025-02-23
   - [Sch. 8 para. 10 Defence authority contracts](schedule/8/paragraph/10.md)
   - [Sch. 8 para. 11 Defence authority contracts](schedule/8/paragraph/11.md)
 - SCHEDULE 9 Treaty state suppliers (specified international agreements)
-  - [Sch. 9 para. A1 Interpretation](schedule/9/paragraph/A1.md)
-  - [Sch. 9 para. 1 The Agreements](schedule/9/paragraph/1.md)
-  - [Sch. 9 para. 2 The Agreements](schedule/9/paragraph/2.md)
-  - [Sch. 9 para. 3 The Agreements](schedule/9/paragraph/3.md)
-  - [Sch. 9 para. 4 The Agreements](schedule/9/paragraph/4.md)
-  - [Sch. 9 para. 5 The Agreements](schedule/9/paragraph/5.md)
-  - [Sch. 9 para. 6 The Agreements](schedule/9/paragraph/6.md)
-  - [Sch. 9 para. 7 The Agreements](schedule/9/paragraph/7.md)
-  - [Sch. 9 para. 8 The Agreements](schedule/9/paragraph/8.md)
-  - [Sch. 9 para. 9 The Agreements](schedule/9/paragraph/9.md)
-  - [Sch. 9 para. 10 The Agreements](schedule/9/paragraph/10.md)
-  - [Sch. 9 para. 11 The Agreements](schedule/9/paragraph/11.md)
-  - [Sch. 9 para. 12 The Agreements](schedule/9/paragraph/12.md)
-  - [Sch. 9 para. 13 The Agreements](schedule/9/paragraph/13.md)
-  - [Sch. 9 para. 14 The Agreements](schedule/9/paragraph/14.md)
-  - [Sch. 9 para. 15 The Agreements](schedule/9/paragraph/15.md)
-  - [Sch. 9 para. 16 The Agreements](schedule/9/paragraph/16.md)
-  - [Sch. 9 para. 17 The Agreements](schedule/9/paragraph/17.md)
-  - [Sch. 9 para. 18 The Agreements](schedule/9/paragraph/18.md)
-  - [Sch. 9 para. 19 The Agreements](schedule/9/paragraph/19.md)
-  - [Sch. 9 para. 20 The Agreements](schedule/9/paragraph/20.md)
-  - [Sch. 9 para. 21 The Agreements](schedule/9/paragraph/21.md)
-  - [Sch. 9 para. 22 The Agreements](schedule/9/paragraph/22.md)
-  - [Sch. 9 para. 23 The Agreements](schedule/9/paragraph/23.md)
-  - [Sch. 9 para. 24 The Agreements](schedule/9/paragraph/24.md)
-  - [Sch. 9 para. 25 The Agreements](schedule/9/paragraph/25.md)
+  - [Sch. 9 para. A1 ...](schedule/9/paragraph/A1.md)
+  - [Sch. 9 para. 1 ...](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 ...](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 ...](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 ...](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5 ...](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 ...](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7 ...](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8 ...](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9 ...](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10 ...](schedule/9/paragraph/10.md)
+  - [Sch. 9 para. 11 ...](schedule/9/paragraph/11.md)
+  - [Sch. 9 para. 12 ...](schedule/9/paragraph/12.md)
+  - [Sch. 9 para. 13 ...](schedule/9/paragraph/13.md)
+  - [Sch. 9 para. 14 ...](schedule/9/paragraph/14.md)
+  - [Sch. 9 para. 15 ...](schedule/9/paragraph/15.md)
+  - [Sch. 9 para. 16 ...](schedule/9/paragraph/16.md)
+  - [Sch. 9 para. 17 ...](schedule/9/paragraph/17.md)
+  - [Sch. 9 para. 18 ...](schedule/9/paragraph/18.md)
+  - [Sch. 9 para. 19 ...](schedule/9/paragraph/19.md)
+  - [Sch. 9 para. 20 ...](schedule/9/paragraph/20.md)
+  - [Sch. 9 para. 21 ...](schedule/9/paragraph/21.md)
+  - [Sch. 9 para. 22 ...](schedule/9/paragraph/22.md)
+  - [Sch. 9 para. 23 ...](schedule/9/paragraph/23.md)
+  - [Sch. 9 para. 24 ...](schedule/9/paragraph/24.md)
+  - [Sch. 9 para. 25 ...](schedule/9/paragraph/25.md)
+- Schedule 9A Procurement by devolved Scottish authorities
 - SCHEDULE 10 Single source defence contracts
   - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
   - [Sch. 10 para. 2 Definition of qualifying defence contract](schedule/10/paragraph/2.md)
