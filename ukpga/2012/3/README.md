@@ -2,9 +2,9 @@
 
 2012 c. 3. Enacted 2012-03-08.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-31, one file per provision. Earlier versions, from 2012-03-08, are in the history before it: `git log -- ukpga/2012/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-02-24, one file per provision. Earlier versions, from 2012-03-08, are in the history before it: `git log -- ukpga/2012/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/3/2020-12-31
+Source: https://www.legislation.gov.uk/ukpga/2012/3/2025-02-24
 
 ## Contents
 
