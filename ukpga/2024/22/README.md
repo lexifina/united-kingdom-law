@@ -1,0 +1,457 @@
+# Leasehold and Freehold Reform Act 2024
+
+2024 c. 22. Enacted 2024-05-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-03, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
+
+Source: https://www.legislation.gov.uk/ukpga/2024/22/2025-03-03
+
+## Contents
+
+- Part 1 Leasehold houses
+  - Ban on grant or assignment of certain long residential leases of houses
+    - [s. 1 Ban on grant or assignment of certain long residential leases of houses](section/1.md)
+  - Key definitions
+    - [s. 2 Long residential leases of houses](section/2.md)
+    - [s. 3 Leases which have a long term](section/3.md)
+    - [s. 4 Series of leases whose term would extend beyond 21 years](section/4.md)
+    - [s. 5 Houses](section/5.md)
+    - [s. 6 Residential leases](section/6.md)
+    - [s. 7 Permitted leases](section/7.md)
+  - Regulation of permitted leases
+    - [s. 8 Permitted leases: certification by the appropriate tribunal](section/8.md)
+    - [s. 9 Permitted leases: marketing restrictions](section/9.md)
+    - [s. 10 Permitted leases: transaction warning conditions](section/10.md)
+  - Land registration
+    - [s. 11 Prescribed statements in new long leases](section/11.md)
+    - [s. 12 Restriction on title](section/12.md)
+  - Redress
+    - [s. 13 Redress: right to acquire a freehold or superior leasehold estate](section/13.md)
+    - [s. 14 Redress: application of the right to acquire](section/14.md)
+    - [s. 15 Redress: general provision](section/15.md)
+    - [s. 16 Redress regulations: exercising and giving effect to the right to acquire](section/16.md)
+  - Enforcement
+    - [s. 17 Enforcement by trading standards authorities](section/17.md)
+    - [s. 18 Financial penalties](section/18.md)
+    - [s. 19 Financial penalties: cross-border enforcement](section/19.md)
+    - [s. 20 Lead enforcement authority](section/20.md)
+    - [s. 21 General duties of lead enforcement authority](section/21.md)
+    - [s. 22 Enforcement by lead enforcement authority](section/22.md)
+    - [s. 23 Further powers and duties of enforcement authorities](section/23.md)
+  - General
+    - [s. 24 Part 1: Crown application](section/24.md)
+    - [s. 25 Power to amend: permitted leases and definitions](section/25.md)
+    - [s. 26 Interpretation of Part 1](section/26.md)
+- Part 2 Leasehold enfranchisement and extension
+  - Eligibility for enfranchisement and extension
+    - [s. 27 Removal of qualifying period before enfranchisement and extension claims](section/27.md)
+    - [s. 28 Removal of restrictions on repeated enfranchisement and extension claims](section/28.md)
+    - [s. 29 Change of non-residential limit on collective enfranchisement claims](section/29.md)
+    - [s. 30 Eligibility for enfranchisement and extension: specific cases](section/30.md)
+  - Effects of enfranchisement
+    - [s. 31 Acquisition of intermediate interests in collective enfranchisement](section/31.md)
+    - [s. 32 Right to require leaseback by freeholder after collective enfranchisement](section/32.md)
+  - Effects of extension
+    - [s. 33 Longer lease extensions](section/33.md)
+    - [s. 34 Lease extensions under the LRA 1967 on payment of premium at peppercorn rent](section/34.md)
+  - Price payable on enfranchisement or extension
+    - [s. 35 LRA 1967: determining price payable for freehold or lease extension](section/35.md)
+    - [s. 36 LRHUDA 1993: determining price payable for collective enfranchisement or new lease](section/36.md)
+    - [s. 37 Enfranchisement or extension: new method for calculating price payable](section/37.md)
+  - Costs of enfranchisement or extension
+    - [s. 38 Costs of enfranchisement and extension under the LRA 1967](section/38.md)
+    - [s. 39 Costs of enfranchisement and extension under the LRHUDA 1993](section/39.md)
+  - Jurisdiction of the county court and tribunals
+    - [s. 40 Replacement of sections 20 and 21 of the LRA 1967](section/40.md)
+    - [s. 41 References to “the court” in Part 1 of the LRA 1967](section/41.md)
+    - [s. 42 Amendment of Part 1 of the LRHUDA 1993](section/42.md)
+    - [s. 43 References to “the court” in Part 1 of the LRHUDA 1993](section/43.md)
+  - Jurisdiction of the High Court
+    - [s. 44 No first-instance applications to the High Court in tribunal matters](section/44.md)
+  - Enfranchisement and extension: miscellaneous amendments
+    - [s. 45 Miscellaneous amendments](section/45.md)
+  - Preservation of existing law for certain purposes
+    - [s. 46 LRA 1967: preservation of existing law for certain enfranchisements](section/46.md)
+  - Consequential amendments to other legislation
+    - [s. 47 Part 2: consequential amendments to other legislation](section/47.md)
+- Part 3 Other rights of long leaseholders
+  - New right to replace rent with peppercorn rent
+    - [s. 48 Right to vary long lease to replace rent with peppercorn rent](section/48.md)
+  - The right to manage
+    - [s. 49 Change of non-residential limit on right to manage claims](section/49.md)
+    - [s. 50 Costs of right to manage claims](section/50.md)
+    - [s. 51 Compliance with obligations arising under Chapter 1 of Part 2 of the CLRA 2002](section/51.md)
+    - [s. 52 No first-instance applications to the High Court in tribunal matters](section/52.md)
+- Part 4 Regulation of leasehold
+  - Service charges
+    - [s. 53 Extension of regulation to fixed service charges](section/53.md)
+    - [s. 54 Notice of future service charge demands](section/54.md)
+    - [s. 55 Service charge demands](section/55.md)
+    - [s. 56 Accounts and annual reports](section/56.md)
+    - [s. 57 Right to obtain information on request](section/57.md)
+    - [s. 58 Enforcement of duties relating to service charges](section/58.md)
+  - Insurance
+    - [s. 59 Limitation on ability of landlord to charge insurance costs](section/59.md)
+    - [s. 60 Duty to provide information about insurance to tenants](section/60.md)
+  - Administration charges
+    - [s. 61 Duty of landlords to publish administration charge schedules](section/61.md)
+  - Litigation costs
+    - [s. 62 Limits on rights of landlords to claim litigation costs from tenants](section/62.md)
+    - [s. 63 Right of tenants to claim litigation costs from landlords](section/63.md)
+  - Non-litigation costs: enfranchisement, extension and right to manage
+    - [s. 64 Restriction on recovery of non-litigation costs of enfranchisement, extension and right to manage](section/64.md)
+  - Appointment of manager by Tribunal
+    - [s. 65 Appointment of manager: power to vary or discharge orders](section/65.md)
+    - [s. 66 Appointment of manager: breach of redress scheme requirements](section/66.md)
+  - Sales information requests
+    - [s. 67 Leasehold sales information requests](section/67.md)
+  - General
+    - [s. 68 Regulations under the LTA 1985: procedure and appropriate authority](section/68.md)
+    - [s. 69 LTA 1985: Crown application](section/69.md)
+    - [s. 70 Part 4: consequential amendments](section/70.md)
+    - [s. 71 Application of Part 4 to existing leases](section/71.md)
+- Part 5 Regulation of estate management
+  - Key definitions
+    - [s. 72 Meaning of “estate management” etc](section/72.md)
+  - Limitation of estate management charges
+    - [s. 73 Estate management charges: general limitations](section/73.md)
+    - [s. 74 Limitation of estate management charges: reasonableness](section/74.md)
+    - [s. 75 Limitation of estate management charges: consultation requirements](section/75.md)
+    - [s. 76 Limitation of estate management charges: time limits](section/76.md)
+    - [s. 77 Determination of tribunal as to estate management charges](section/77.md)
+  - Rights relating to estate management charges
+    - [s. 78 Demands for payment](section/78.md)
+    - [s. 79 Annual reports](section/79.md)
+    - [s. 80 Right to request information](section/80.md)
+    - [s. 81 Requests under section 80: further provision](section/81.md)
+    - [s. 82 Enforcement of sections 78 to 81](section/82.md)
+  - Administration charges
+    - [s. 83 Meaning of “administration charge”](section/83.md)
+    - [s. 84 Duty of estate managers to publish administration charge schedules](section/84.md)
+    - [s. 85 Enforcement of section 84](section/85.md)
+    - [s. 86 Limitation of administration charges](section/86.md)
+    - [s. 87 Determination of tribunal as to administration charges](section/87.md)
+  - Codes of management practice
+    - [s. 88 Codes of management practice: extension to estate managers](section/88.md)
+  - Appointment of substitute manager by Tribunal
+    - [s. 89 Notices of complaint](section/89.md)
+    - [s. 90 Appointment of substitute manager](section/90.md)
+    - [s. 91 Conditions for applying for appointment order](section/91.md)
+    - [s. 92 Criteria for determining whether to make appointment order](section/92.md)
+    - [s. 93 Appointment orders: further provision](section/93.md)
+  - Sales information requests
+    - [s. 94 Estate management: sales information requests](section/94.md)
+    - [s. 95 Effect of sales information request](section/95.md)
+    - [s. 96 Charges for provision of information](section/96.md)
+    - [s. 97 Enforcement of sections 95 and 96](section/97.md)
+  - General
+    - [s. 98 Part 5: Crown application](section/98.md)
+    - [s. 99 Interpretation of Part 5](section/99.md)
+- Part 6 Leasehold and estate management: redress schemes
+  - Redress schemes: general
+    - [s. 100 Leasehold and estate management: redress schemes](section/100.md)
+    - [s. 101 Redress schemes: voluntary jurisdiction](section/101.md)
+    - [s. 102 Financial assistance for establishment or maintenance of redress schemes](section/102.md)
+    - [s. 103 Approval and designation of redress schemes](section/103.md)
+    - [s. 104 Redress schemes: no Crown status](section/104.md)
+  - Enforcement
+    - [s. 105 Financial penalties](section/105.md)
+    - [s. 106 Financial penalties: maximum amounts](section/106.md)
+    - [s. 107 Decision under a redress scheme may be made enforceable as if it were a court order](section/107.md)
+    - [s. 108 Lead enforcement authority: further provision](section/108.md)
+  - Guidance
+    - [s. 109 Guidance for enforcement authorities and scheme administrators](section/109.md)
+  - Amendments to other Acts
+    - [s. 110 Part 6: amendments to other Acts](section/110.md)
+  - Interpretation
+    - [s. 111 Interpretation of Part 6](section/111.md)
+- Part 7 Rentcharges
+  - [s. 112 Meaning of “estate rentcharge”](section/112.md)
+  - [s. 113 Regulation of remedies for arrears of rentcharges](section/113.md)
+- Part 8 Amendments of Part 5 of the Building Safety Act 2022
+  - Remediation of building defects
+    - [s. 114 Steps relating to remediation of defects](section/114.md)
+    - [s. 115 Remediation orders](section/115.md)
+    - [s. 116 Remediation contribution orders](section/116.md)
+    - [s. 117 Recovery of legal costs etc through service charge](section/117.md)
+    - [s. 118 Repeal of section 125 of the BSA 2022](section/118.md)
+  - Insolvency of responsible persons
+    - [s. 119 Higher-risk and relevant buildings: notifications in connection with insolvency](section/119.md)
+- Part 9 General
+  - [s. 120 Interpretation of references to other Acts](section/120.md)
+  - [s. 121 Power to make consequential provision](section/121.md)
+  - [s. 122 Regulations](section/122.md)
+  - [s. 123 Extent](section/123.md)
+  - [s. 124 Commencement](section/124.md)
+  - [s. 125 Short title](section/125.md)
+- Schedule 1 Categories of permitted lease
+  - Part 1 Categories of permitted lease for Tribunal certification
+    - [Sch. 1 para. 1 Leases granted out of historic leasehold estates](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Community housing leases](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Retirement housing leases](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Leases of certain National Trust property](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Leases granted by the Crown](schedule/1/paragraph/5.md)
+  - Part 2 Categories of permitted lease for self-certification
+    - [Sch. 1 para. 6 Leases agreed before commencement](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Shared ownership leases](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Home finance plan leases](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Extended leases](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Agricultural leases](schedule/1/paragraph/10.md)
+- Schedule 2 Leasehold houses: financial penalties
+  - [Sch. 2 para. 1 Notice of intent](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Time limits for notice of intent](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Right to make written representations](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Final notice](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Withdrawal or amendment of notice](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Appeals](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Recovery of penalty](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Proceeds of penalties](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Proceeds of penalties](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Manner of giving notices](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Interpretation](schedule/2/paragraph/11.md)
+- Schedule 3 Eligibility for enfranchisement and extension: specific cases
+  - [Sch. 3 para. 1 Removal of redevelopment restrictions on enfranchisement and extension](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Removal of residential restriction on enfranchisement and extension under the LRA 1967](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Removal of public purposes restriction on enfranchisement and extension under the LRA 1967](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Exception to enfranchisement for certified community housing providers](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Exception to enfranchisement for certified community housing providers](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Removal of restriction on extension claims by sub-lessees](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Eligibility of leases of National Trust property for extension](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Eligibility of leases of National Trust property for extension](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Consequential amendments to the LRA 1967](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Consequential amendments to the LRA 1967](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Consequential amendments to the LRA 1967](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Consequential amendments to the LRA 1967](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13 Consequential amendments to the LRA 1967](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14 Consequential amendments to the LRA 1967](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15 Consequential amendments to the LRA 1967](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16 Consequential amendments to the LRA 1967](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17 Consequential amendments to the LRA 1967](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18 Consequential amendments to the LRA 1967](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/25.md)
+  - [Sch. 3 para. 26 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/26.md)
+  - [Sch. 3 para. 27 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/27.md)
+  - [Sch. 3 para. 28 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/28.md)
+  - [Sch. 3 para. 29 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/29.md)
+  - [Sch. 3 para. 30 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/30.md)
+  - [Sch. 3 para. 31 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/31.md)
+  - [Sch. 3 para. 32 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/32.md)
+  - [Sch. 3 para. 33 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/33.md)
+  - [Sch. 3 para. 34 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/34.md)
+  - [Sch. 3 para. 35 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/35.md)
+  - [Sch. 3 para. 36 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/36.md)
+  - [Sch. 3 para. 37 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/37.md)
+  - [Sch. 3 para. 38 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/38.md)
+  - [Sch. 3 para. 39 Consequential amendments to the LRHUDA 1993](schedule/3/paragraph/39.md)
+- Schedule 4 Determining and sharing the market value
+  - Part 1 Introduction
+    - [Sch. 4 para. 1 Determination and sharing of market value for purposes of section 37](schedule/4/paragraph/1.md)
+  - Part 2 The market value
+    - [Sch. 4 para. 2 Freehold enfranchisements: the basis of the market value](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Lease extensions: the basis of the market value](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 How the market value is determined](schedule/4/paragraph/4.md)
+  - Part 3 Determining the market value
+    - [Sch. 4 para. 5 Compulsory use of the standard valuation method](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Tenant holding over or unexpired term of 5 years or less](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Home finance plan leases](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Market rack rent leases](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Property included in the acquisition of a freehold house under section 2(4) of the LRA 1967](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Leases already extended under the old law in the LRA 1967](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Business tenancies](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Acquisition of a freehold house under the LRA 1967: shared ownership leases](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Collective enfranchisement: property other than relevant flats etc and appurtenant property](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Voluntary use of the standard valuation method](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Property that is “subject to the standard valuation method”](schedule/4/paragraph/15.md)
+  - Part 4 Assumptions and other matters affecting determination of market value
+    - [Sch. 4 para. 16 Application of this Part of this Schedule](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17 Assumptions in all cases: intermediate leases merged and no marriage or hope value](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18 Additional assumption on transfer of freehold house or lease extension: repairing obligations and improvements](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19 Additional assumptions on collective enfranchisements: repairing obligations, improvements & leasebacks](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20 Any determination of market value: specified matters to be taken into consideration](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21 Any determination of market value: current lease gives rise to a right to hold over](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22 Standard valuation method: other matters](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23 Enfranchisement of house or lease extension: tenant with superior lease](schedule/4/paragraph/23.md)
+  - Part 5 The standard valuation method
+    - [Sch. 4 para. 24 Introduction](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25 Step 1: determine the value of right to receive rent (the “term value”)](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26 Rent (including a notional capped rent) that is to be used for determining the term value](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27 Step 2 (freehold enfranchisement): determine the value of the freehold reversion (the “reversion value”)](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28 Step 2 (lease extensions): determine the value of a 990 year lease (the “reversion value”)](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29 Step 3: calculate the market value of the newly owned premises subject to the standard valuation method](schedule/4/paragraph/29.md)
+  - Part 6 Entitlement of eligible persons to shares of the market value
+    - [Sch. 4 para. 30 Entitlement and calculation of share](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31 Freehold enfranchisements: the “eligible persons” and “qualifying transactions”](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32 Lease extensions: the “eligible persons” and “qualifying transactions”](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33 The loss suffered](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34 Interpretation](schedule/4/paragraph/34.md)
+  - Part 7 Determining the term value
+    - [Sch. 4 para. 35 Introduction](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36 Lease not subject to a rent review](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37 Lease subject to a rent review with fixed changes](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38 Lease subject to any other rent review](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39 Interpretation](schedule/4/paragraph/39.md)
+- Schedule 5 Other compensation
+  - [Sch. 5 para. 1 Application of this Schedule](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Compensation payable](schedule/5/paragraph/2.md)
+- Schedule 6 Schedules 4 and 5: interpretation
+  - [Sch. 6 para. 1 Provision to be construed as one with existing enfranchisement legislation](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Meaning of specific expressions](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Expressions with different meanings in relation to different statutory grants or leases](schedule/6/paragraph/3.md)
+- Schedule 7 Amendments consequential on sections 35 to 37 and Schedules 4 to 6
+  - [Sch. 7 para. 1 Involvement of other landlords: the LRA 1967](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Involvement of other landlords: collective enfranchisement under the LRHUDA 1993](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Involvement of other landlords: collective enfranchisement under the LRHUDA 1993](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 Involvement of other landlords: collective enfranchisement under the LRHUDA 1993](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 Involvement of other landlords: new lease under the LRHUDA 1993](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Involvement of other landlords: new lease under the LRHUDA 1993](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7 Other consequential amendments to the LRA 1967](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8 Other consequential amendments to the LRA 1967](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9 Other consequential amendments to the LRA 1967](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10 Other consequential amendments to the LRA 1967](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11 Other consequential amendments to the LRA 1967](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12 Other consequential amendments to the LRA 1967](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13 Other consequential amendments to the LRA 1967](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/17.md)
+  - [Sch. 7 para. 18 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/18.md)
+  - [Sch. 7 para. 19 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/19.md)
+  - [Sch. 7 para. 20 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/20.md)
+  - [Sch. 7 para. 21 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/21.md)
+  - [Sch. 7 para. 22 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/22.md)
+  - [Sch. 7 para. 23 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/23.md)
+  - [Sch. 7 para. 24 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/24.md)
+  - [Sch. 7 para. 25 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/25.md)
+  - [Sch. 7 para. 26 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/26.md)
+  - [Sch. 7 para. 27 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/27.md)
+  - [Sch. 7 para. 28 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/28.md)
+  - [Sch. 7 para. 29 Other consequential amendments to the LRHUDA 1993](schedule/7/paragraph/29.md)
+- Schedule 8 Leasehold enfranchisement and extension: miscellaneous amendments
+  - Part 1 LRA 1967 and LRHUDA 1993: general
+    - [Sch. 8 para. 1 Repeal of section 18 of the LRHUDA 1993](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2 Application of security of tenure provisions to extended leases](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3 Required statements in extended leases](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4 Redevelopment break rights in extended leases](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5 Consequential amendments to the LRA 1967](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6 Repeal of obsolete provision in section 19 of the LRA 1967](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7 Orders and regulations under the LRA 1967](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8 Reduction of rent under intermediate leases](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9 Reduction of rent under intermediate leases](schedule/8/paragraph/9.md)
+  - Part 2 Shared ownership leases and the LRA 1967
+    - [Sch. 8 para. 10 Amendment of the LRA 1967](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11 Repeal of exclusions of shared ownership leases from Part 1 of the LRA 1967](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12 Rateable value limits and low rent tests not to apply to shared ownership leases](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13 No right of enfranchisement for certain shared ownership leases](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14 Inclusion of terms for sharing staircasing payments](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15 Meaning of “shared ownership lease”](schedule/8/paragraph/15.md)
+  - Part 3 Shared ownership leases and the LRHUDA 1993
+    - [Sch. 8 para. 16 Amendment of the LRHUDA 1993](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17 Repeal of special provision for shared ownership leases in definition of “long lease”](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18 No right to collective enfranchisement for certain shared ownership leases](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19 Tenant under shared ownership lease to have right to new lease](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20 Consequential amendment](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21 Collective enfranchisement: mandatory leaseback](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22 Inclusion of terms for sharing staircasing payments](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23 Meaning of “shared ownership lease”](schedule/8/paragraph/23.md)
+  - Part 4 Other legislation
+    - [Sch. 8 para. 24 Provision about “RTE companies”](schedule/8/paragraph/24.md)
+- Schedule 9 Part 2: consequential amendments to other legislation
+  - [Sch. 9 para. 1 Parliamentary Commissioner Act 1967](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 Leasehold Reform Act 1979](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Local Government Act 1985](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Housing Act 1985](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5 Landlord and Tenant Act 1985](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 Housing and Planning Act 1986](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7 Housing Act 1988](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8 Local Government and Housing Act 1989](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9 Local Government (Wales) Act 1994](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10 Housing Act 1996](schedule/9/paragraph/10.md)
+  - [Sch. 9 para. 11 Commonhold and Leasehold Reform Act 2002](schedule/9/paragraph/11.md)
+  - [Sch. 9 para. 12 Finance Act 2003](schedule/9/paragraph/12.md)
+  - [Sch. 9 para. 13 Companies Act 2006](schedule/9/paragraph/13.md)
+  - [Sch. 9 para. 14 Enterprise and Regulatory Reform Act 2013](schedule/9/paragraph/14.md)
+  - [Sch. 9 para. 15 Immigration Act 2014](schedule/9/paragraph/15.md)
+  - [Sch. 9 para. 16 Consumer Rights Act 2015](schedule/9/paragraph/16.md)
+  - [Sch. 9 para. 17 Housing and Planning Act 2016](schedule/9/paragraph/17.md)
+  - [Sch. 9 para. 18 Tenant Fees Act 2019](schedule/9/paragraph/18.md)
+  - [Sch. 9 para. 19 Building Safety Act 2022](schedule/9/paragraph/19.md)
+- Schedule 10 Right to vary lease to replace rent with peppercorn rent
+  - [Sch. 10 para. 1 Right to vary lease to replace rent with peppercorn rent](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Meaning of “qualifying lease” and exclusion of certain rent from the right to vary](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Claiming the right to a peppercorn rent](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Suspension of rent variation notices](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 Counter-notice](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 Application to appropriate tribunal where claim or terms not agreed](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 Variation of the lease](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8 Reduction of rent under intermediate leases](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9 Jurisdiction of the appropriate tribunal in relation to paragraph 8](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10 Failure to vary lease](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11 Missing landlord or third party](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12 Circumstances in which notice ceases to have effect etc](schedule/10/paragraph/12.md)
+  - [Sch. 10 para. 13 Tenant’s liability for costs](schedule/10/paragraph/13.md)
+  - [Sch. 10 para. 14 Liability for costs: failed claims](schedule/10/paragraph/14.md)
+  - [Sch. 10 para. 15 Liability for costs: successful claims](schedule/10/paragraph/15.md)
+  - [Sch. 10 para. 16 Duty of landlord to give copies of the rent variation notice to superior landlords](schedule/10/paragraph/16.md)
+  - [Sch. 10 para. 17 Duty of superior landlord to give copies of the rent variation notice to other superior landlords](schedule/10/paragraph/17.md)
+  - [Sch. 10 para. 18 Actions of immediate landlord binding on other landlords](schedule/10/paragraph/18.md)
+  - [Sch. 10 para. 19 Duty of immediate landlord to conduct commutation claim on behalf of affected other landlords](schedule/10/paragraph/19.md)
+  - [Sch. 10 para. 20 Provisions of the LRHUDA 1993 that apply for the purposes of this Schedule](schedule/10/paragraph/20.md)
+  - [Sch. 10 para. 21 Regulations](schedule/10/paragraph/21.md)
+  - [Sch. 10 para. 22 Interpretation](schedule/10/paragraph/22.md)
+- Schedule 11 Part 4: consequential amendments
+  - Part 1 Amendments consequential on section 68
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Part 2 Other consequential amendments
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+- Schedule 12 Redress schemes: financial penalties
+  - [Sch. 12 para. 1 Notice of intent](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Right to make representations](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Final notice](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Withdrawal or amendment of notice](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Appeals](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Recovery of financial penalty](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Proceeds of financial penalties](schedule/12/paragraph/7.md)
+- Schedule 13 Part 6: amendments to other Acts
+  - [Sch. 13 para. 1 Local Government Act 1974](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2 Local Government Act 1974](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3 Local Government Act 1974](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4 Local Government Act 1974](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5 Local Government Act 1974](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6 Housing Act 1996](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7 Building Safety Act 2022](schedule/13/paragraph/7.md)
