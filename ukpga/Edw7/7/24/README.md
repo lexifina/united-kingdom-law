@@ -1,0 +1,118 @@
+# Limited Partnerships Act 1907
+
+1907 c. 24. Enacted 1907-08-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Edw7/7/24/2025-03-18
+
+## Contents
+
+- Short title and interpretation
+  - [s. 1 Short title.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Interpretation of terms.](section/3.md)
+- Definition and constitution of limited partnership
+  - [s. 4 Definition and constitution of limited partnership.](section/4.md)
+  - [s. 5 Registration of limited partnership required.](section/5.md)
+- Application of other laws to limited partnerships
+  - [s. 6 Modifications of general law in case of limited partnerships.](section/6.md)
+  - [s. 6A actions by limited partners](section/6A.md)
+  - [s. 7 Law as to private partnerships to apply where not excluded by this Act.](section/7.md)
+  - [s. 7A Application of company law](section/7A.md)
+- Registration and designation
+  - [s. 8 Duty to register and designate](section/8.md)
+  - [s. 8A Application for registration](section/8A.md)
+  - [s. 8B Name of limited partnership](section/8B.md)
+  - [s. 8C Certificate of registration and certificate of designation as a private fund limited partnership](section/8C.md)
+  - [s. 8D Application for designation as a private fund limited partnership](section/8D.md)
+- A limited partnership’s registered office
+  - [s. 8E Duty to ensure registered office at appropriate address](section/8E.md)
+  - [s. 8F Change of address of registered office by general partners](section/8F.md)
+  - [s. 8G Regulations about change of address of registered office by registrar](section/8G.md)
+- A limited partnership‘s registered email address
+  - [s. 8H Duty to maintain a registered email address](section/8H.md)
+  - [s. 8I Change of registered email address](section/8I.md)
+- Duty to remove disqualified general partners
+  - [s. 8J Duty to remove disqualified general partners](section/8J.md)
+- Officers of general partners
+  - [s. 8K Duty to maintain registered officer and named contacts](section/8K.md)
+  - [s. 8L Change of registered officers and named contacts by general partner](section/8L.md)
+  - [s. 8M Duty to notify changes in general partner’s registered officer](section/8M.md)
+  - [s. 8N Duty to notify named contact](section/8N.md)
+  - [s. 8O Duty to notify changes in named contacts](section/8O.md)
+  - [s. 8P Failure to comply with obligations relating to officers](section/8P.md)
+  - [s. 8Q Regulations about change of registered officer’s address by registrar](section/8Q.md)
+- Notification of information about partners
+  - [s. 8R Duty to notify registrar of change in partners](section/8R.md)
+  - [s. 8S Duty to notify registrar of changes of information about partners](section/8S.md)
+  - [s. 8T Notification of changes occurring before registration](section/8T.md)
+  - [s. 8U Failure to notify information about partners](section/8U.md)
+  - [s. 8V Prohibition on acting unless general partner notified](section/8V.md)
+  - [s. 8W Regulations about change of general partner’s address by registrar](section/8W.md)
+  - [s. 9 Registration of changes in partnerships.](section/9.md)
+  - [s. 10 Advertisement in Gazette of statement of general partner becoming a limited partner and of assignment of share of limited partner.](section/10.md)
+- Notification of other changes in partnerships
+  - [s. 10A Duty to notify registrar of other changes in partnerships](section/10A.md)
+  - [s. 10B Notification of other changes occurring before registration](section/10B.md)
+  - [s. 10C Failure to notify other changes in partnerships](section/10C.md)
+- Confirmation statements
+  - [s. 10D Duty to deliver confirmation statements](section/10D.md)
+  - [s. 10E Power to amend matters to be confirmed in confirmation statement](section/10E.md)
+  - [s. 10F Failure to deliver confirmation statement](section/10F.md)
+- Power for HMRC to obtain accounts
+  - [s. 10G Power for HMRC to obtain accounts](section/10G.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 Registrar to file statement and issue certificate of registration.](section/13.md)
+  - [s. 14 Register and index to be kept.](section/14.md)
+- The registrar
+  - [s. 15 The registrar](section/15.md)
+- The register of limited partnerships
+  - [s. 16 Inspection and copies of the register of limited partnerships](section/16.md)
+  - [s. 16A Material not available for public inspection](section/16A.md)
+  - [s. 16B Records relating to dissolved or deregistered limited partnerships](section/16B.md)
+- Restriction on disclosure of information by registrar
+  - [s. 16C Restriction on disclosure of information by registrar](section/16C.md)
+- Restriction on use or disclosure of information by partners
+  - [s. 16D Restriction on use or disclosure of information by partners](section/16D.md)
+- Disclosure of protected residential address information under court order
+  - [s. 16E Disclosure of protected residential address information under court order](section/16E.md)
+  - [s. 17 Power to Board of Trade to make rules.](section/17.md)
+- Dissolution, revival and deregistration
+  - [s. 18 Duty to notify registrar of dissolution](section/18.md)
+  - [s. 19 Registrar’s power to confirm dissolution of limited partnership](section/19.md)
+  - [s. 20 Administrative revival](section/20.md)
+  - [s. 21 Registrar’s decision on application for administrative revival](section/21.md)
+  - [s. 22 Effect of administrative revival](section/22.md)
+  - [s. 23 Application to court for revival](section/23.md)
+  - [s. 24 Decision on application for revival by the court](section/24.md)
+  - [s. 25 Effect of court order for revival](section/25.md)
+  - [s. 26 Voluntary deregistration of limited partnership](section/26.md)
+  - [s. 27 Removal of limited partnership from index of names](section/27.md)
+- Winding up: applications and petitions to the court
+  - [s. 28 Winding up limited partnerships on grounds of public interest](section/28.md)
+  - [s. 29 Winding up dissolved limited partnerships](section/29.md)
+  - [s. 30 Power to make provision about winding up](section/30.md)
+  - [s. 31 Winding up of limited partnerships: concurrent proceedings](section/31.md)
+  - [s. 32 Power to amend circumstances for notification under section 31](section/32.md)
+- Delivery of documents to the registrar
+  - [s. 33 Documents to be delivered by authorised corporate service providers](section/33.md)
+  - [s. 34 False statements: basic offence](section/34.md)
+  - [s. 35 False statements: aggravated offence](section/35.md)
+- National security exemption from identity verification
+  - [s. 36 National security exemption from identity verification](section/36.md)
+- Service of documents
+  - [s. 37 Service of documents on limited partnership](section/37.md)
+- Regulations
+  - [s. 38 Regulations](section/38.md)
+- SCHEDULE Required information
+  - PART 1 Introduction
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - PART 2 Partners
+    - [Sch. paragraph 2 Individuals](schedule/paragraph/2.md)
+    - [Sch. paragraph 3 Legal entities](schedule/paragraph/3.md)
+  - PART 3 Registered officers
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - PART 4 Named contacts
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
