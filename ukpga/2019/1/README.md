@@ -2,9 +2,9 @@
 
 2019 c. 1. Enacted 2019-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2023-07-11, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/1/2023-07-11
+Source: https://www.legislation.gov.uk/ukpga/2019/1/2025-03-20
 
 ## Contents
 
@@ -312,7 +312,16 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2023-07-11
       - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
     - Contents of return
       - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
-    - Interpretation
+    - Interpretation of “residential property gains”
+      - [Sch. 2 para. 16A](schedule/2/paragraph/16A.md)
+      - [Sch. 2 para. 16B](schedule/2/paragraph/16B.md)
+      - [Sch. 2 para. 16C](schedule/2/paragraph/16C.md)
+      - [Sch. 2 para. 16D](schedule/2/paragraph/16D.md)
+      - [Sch. 2 para. 16E](schedule/2/paragraph/16E.md)
+      - [Sch. 2 para. 16F](schedule/2/paragraph/16F.md)
+      - [Sch. 2 para. 16G](schedule/2/paragraph/16G.md)
+      - [Sch. 2 para. 16H](schedule/2/paragraph/16H.md)
+    - Other interpretation
       - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
   - PART 2 Notification of chargeable amounts, amendments of returns, enquiries etc
     - Requirement to notify HMRC of amounts chargeable to tax
