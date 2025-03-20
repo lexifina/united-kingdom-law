@@ -2,9 +2,9 @@
 
 2021 c. 26. Enacted 2021-06-10.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-11-12, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/26/2024-11-12
+Source: https://www.legislation.gov.uk/ukpga/2021/26/2025-03-20
 
 ## Contents
 
@@ -120,7 +120,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2024-11-12
     - [s. 85 Commencement etc](section/85.md)
 - PART 3 Other taxes
   - Inheritance tax
-    - [s. 86 Rate bands etc for tax years 2021-22 to 2027-28](section/86.md)
+    - [s. 86 Rate bands etc for tax years 2021-22 to 2029-30](section/86.md)
   - Stamp duty land tax
     - [s. 87 Temporary period for reduced rates on residential property](section/87.md)
     - [s. 88 Increased rates for non-resident transactions](section/88.md)
