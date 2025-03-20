@@ -1,0 +1,383 @@
+# Finance (No. 2) Act 2005
+
+2005 c. 22. Enacted 2005-07-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2005/22
+
+Source: https://www.legislation.gov.uk/ukpga/2005/22/2025-03-20
+
+## Contents
+
+- Part 1 Value added tax
+  - [s. 1 Goods subject to warehousing regime: place of acquisition or supply](section/1.md)
+  - [s. 2 Cars: determination of consideration for fuel supplied for private use](section/2.md)
+  - [s. 3 Credit for, or repayment of, overstated or overpaid VAT](section/3.md)
+  - [s. 4 Section 3: consequential and supplementary provision](section/4.md)
+  - [s. 5 Reverse charge: gas and electricity valuation](section/5.md)
+  - [s. 6 Disclosure of value added tax avoidance schemes](section/6.md)
+- Part 2 Income tax, corporation tax and capital gains tax
+  - Chapter 1 Personal taxation
+    - Social security pension lump sums
+      - [s. 7 Charge to income tax on lump sum](section/7.md)
+      - [s. 8 Meaning of “applicable year of assessment” in section 7](section/8.md)
+      - [s. 9 Interpretation and commencement](section/9.md)
+      - [s. 10 Consequential amendments](section/10.md)
+    - Gift aid
+      - [s. 11 Donations to charity by individuals](section/11.md)
+    - Employee securities
+      - [s. 12 Employee securities: anti-avoidance](section/12.md)
+  - Chapter 2 Scientific research organisations
+    - [s. 13 Corporation tax exemption for organisations](section/13.md)
+    - [s. 14 Income tax deduction for payments to organisations](section/14.md)
+    - [s. 15 Corporation tax deduction for payments to organisations](section/15.md)
+  - Chapter 3 Authorised investment funds etc
+    - [s. 16 Open-ended investment companies](section/16.md)
+    - [s. 17 Authorised unit trusts and open-ended investment companies](section/17.md)
+    - [s. 18 Section 17(3): specific powers](section/18.md)
+    - [s. 19 Section 17: commencement and procedure](section/19.md)
+    - [s. 20 Unauthorised unit trusts: chargeable gains](section/20.md)
+    - [s. 21 Unit trusts: treatment of accumulation units](section/21.md)
+    - [s. 22 Section 349B ICTA: exemption for distributions to PEP/ISA managers](section/22.md)
+    - [s. 23 Offshore funds](section/23.md)
+  - Chapter 4 Avoidance involving tax arbitrage
+    - [s. 24 Deduction cases](section/24.md)
+    - [s. 25 Rules relating to deductions](section/25.md)
+    - [s. 26 Receipts cases](section/26.md)
+    - [s. 27 Rule as to qualifying payment](section/27.md)
+    - [s. 28 Notices under sections 24 and 26](section/28.md)
+    - [s. 29 Amendments relating to company tax returns](section/29.md)
+    - [s. 30 Interpretation](section/30.md)
+    - [s. 31 Commencement](section/31.md)
+  - Chapter 5 Chargeable gains
+    - Residence, location of assets etc
+      - [s. 32 Temporary non-residents](section/32.md)
+      - [s. 33 Trustees both resident and non-resident in a year of assessment](section/33.md)
+      - [s. 34 Location of assets etc](section/34.md)
+    - Miscellaneous
+      - [s. 35 Exercise of options etc](section/35.md)
+      - [s. 36 Notional transfers within a group](section/36.md)
+  - Chapter 6 Miscellaneous
+    - Accounting practice and related matters
+      - [s. 37 Accounting practice and related matters](section/37.md)
+    - Financial avoidance etc
+      - [s. 38 Charges on income for the purposes of corporation tax](section/38.md)
+      - [s. 39 Avoidance involving financial arrangements](section/39.md)
+    - Financing of companies etc
+      - [s. 40 Transfer pricing and loan relationships](section/40.md)
+    - Intangible fixed assets
+      - [s. 41 Intangible fixed assets](section/41.md)
+    - Insurance companies etc
+      - [s. 42 Insurance companies etc](section/42.md)
+    - International matters
+      - [s. 43 Implementation of the amended Parent/Subsidiary Directive](section/43.md)
+      - [s. 44 Territories with a lower level of taxation: reduction of amount of local tax](section/44.md)
+    - Miscellaneous
+      - [s. 45 Lloyd’s underwriters: assessment and collection of tax](section/45.md)
+      - [s. 46 Energy Act 2004 and Health Protection Agency Act 2004](section/46.md)
+- Part 3 Stamp taxes
+  - Stamp duty land tax
+    - [s. 47 E-conveyancing](section/47.md)
+    - [s. 48 Disclosure of information contained in land transaction returns](section/48.md)
+    - [s. 49 Miscellaneous amendments](section/49.md)
+  - Stamp duty and stamp duty reserve tax
+    - [s. 50 Power to extend exceptions relating to recognised exchanges](section/50.md)
+- Part 4 European company statute
+  - [s. 51 Chargeable gains](section/51.md)
+  - [s. 52 Intangible fixed assets](section/52.md)
+  - [s. 53 Intangible fixed assets: permanent establishment in another member State](section/53.md)
+  - [s. 54 Loan relationships](section/54.md)
+  - [s. 55 Derivative contracts](section/55.md)
+  - [s. 56 Capital allowances](section/56.md)
+  - [s. 57 Stamp duty reserve tax](section/57.md)
+  - [s. 58 Bearer instruments: stamp duty and stamp duty reserve tax](section/58.md)
+  - [s. 59 Consequential amendments](section/59.md)
+  - [s. 60 Residence](section/60.md)
+  - [s. 61 Continuity for transitional purposes](section/61.md)
+  - [s. 62 Groups](section/62.md)
+  - [s. 63 Groups: intangible fixed assets](section/63.md)
+  - [s. 64 Held-over gains](section/64.md)
+  - [s. 65 Restrictions on set-off of pre-entry losses](section/65.md)
+- Part 5 Miscellaneous matters
+  - [s. 66 Vehicle excise duty: late renewal supplements](section/66.md)
+  - [s. 67 Reorganisation of water and sewerage services in Northern Ireland](section/67.md)
+  - [s. 68 EU Mutual Assistance Directive: notifications](section/68.md)
+  - [s. 69 Abolition of statutory adjudicator for National Savings and Investments](section/69.md)
+- Part 6 Supplementary provisions
+  - [s. 70 Repeals](section/70.md)
+  - [s. 71 Interpretation](section/71.md)
+  - [s. 72 Short title](section/72.md)
+- SCHEDULE 1 Disclosure of value added tax avoidance schemes
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Interpretative provisions
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Duty to notify Commissioners
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Amount of penalty
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Penalty assessments
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Employee securities: anti-avoidance
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Rights under certain insurance contracts to be securities
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Restricted securities
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Convertible securities
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Securities acquired for less than market value
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Post-acquisition benefits from securities
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Corporation tax relief: minor and consequential amendments
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Qualifying scheme
+  - Part 1 Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part 2 Schemes involving hybrid entities
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part 3 Schemes involving hybrid effect
+    - Schemes involving hybrid effect
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Instruments of alterable character
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Shares subject to conversion
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Securities subject to conversion
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Debt instruments treated as equity
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part 4 Schemes involving hybrid effect and connected persons
+    - Schemes involving hybrid effect and connected persons
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Scheme including issue of shares not conferring a qualifying beneficial entitlement
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Scheme including transfer of rights under a security
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Interpretation
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Chargeable gains: location of assets etc
+  - Part 1 Location of assets
+    - Exceptions from sections 713 and 714 of ICTA
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Foreign securities: delayed remittances
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Designated international organisations
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Location of assets: general
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Location of certain intangible assets
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Location of assets: interests of co-owners
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 Minor amendments: non-resident company with UK permanent establishment
+    - Computation of losses
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Reallocation within group of gain or loss accruing under section 179
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Exemptions for disposals by companies with substantial shareholding
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Part 3 Commencement
+    - Commencement
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Chargeable gains: options
+  - Part 1 Application of market value rule in case of exercise of option
+    - Application of market value rule in case of exercise of option
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Application of market value rule in case of exercise of option: exception
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Miscellaneous amendments relating to share options etc
+    - Shares acquired on same day: election for alternative treatment
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Employment-related securities options
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Interpretation of TCGA 1992
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part 3 Commencement
+    - Commencement
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Accounting practice and related matters
+  - Adjustment on change of accounting basis
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Meaning of “statutory insolvency arrangement”
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Minor corrections
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Deemed release of liability on impaired debt becoming held by connected company
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Adjustment on change to international accounting standards: bad debt debits formerly disallowed
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Loan relationships with embedded derivatives
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Exchange gains and losses
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Avoidance involving financial arrangements
+  - Rent factoring
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Section 730: restriction to income consisting of distributions in respect of company shares etc
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Change in ownership of company with investment business
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Transfers of rights to receive annual payments
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Disposals and acquisitions of company loan relationships with or without interest
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Manufactured interest and the accrued income scheme
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Consideration due after time of disposal: creditor relationships etc
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Corporate strips: manipulation of price: associated payment giving rise to loss
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Transactions within a group: shares subject to third party obligations
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Shares treated as loan relationships
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Related transactions in relation to right to receive manufactured interest
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Money debts etc not arising from lending of money: discounts and profits from transactions
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Meaning of “commercial rate of interest”
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Capital redemption policies: removal of exclusion from loan relationships computations
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Deemed disposal of assets and liabilities on company ceasing to be resident in UK etc
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Transactions not at arm’s length: exceptions relating to groups of companies
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Continuity of treatment of groups etc: treatment of transferee company
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Transferee leaving group after replacing transferor as party to loan relationship
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Avoidance involving repos or stock lending
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Capital redemption policies: computations on the I minus E basis
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Relevant discounted securities: corporate strips
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Transactions within groups: treatment of transferee company
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Transactions within groups: fair value accounting
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Transferee leaving group after replacing transferor as party to derivative contract
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Deeply discounted securities: corporate strips
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+- SCHEDULE 8 Financing of companies etc: transfer pricing and loan relationships
+  - Amendments of Schedule 28AA to ICTA
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Amendments of Schedule 9 to FA 1996
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Commencement and transitional provisions
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Insurance companies etc
+  - Expenses of insurance companies
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Interpretative provisions relating to insurance companies
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Amendment of Chapter 1 of Part 12 of ICTA etc
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Apportionment of income and gains
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Section 432B apportionment: participating funds
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Transfers of business: deemed periodical return
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Transfers of business: modification of section 444AC of ICTA
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Transfers of business: transferor shares are assets of transferee’s long-term insurance fund etc
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Equalisation reserves for general business
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Unappropriated surplus on valuation
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Relevant financial reinsurance contracts
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Receipts to be taken into account
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Meaning of “brought into account”
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Changes in recognised accounts: attribution of amounts carried forward under s.432F of ICTA
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Charge of certain receipts of basic life assurance business
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Corporation tax: policy holders’ fraction of profits
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Overseas life insurance companies
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - Meaning of “pension business”
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - Miscellaneous references to “class” of business
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - Transfers of business: references to accounting period ending with day of transfer
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+- SCHEDULE 10 Stamp duty land tax: miscellaneous amendments
+  - Part 1 Amendments coming into force in accordance with paragraph 16
+    - Introduction
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Transfer of rights: exclusion of transaction to which alternative finance provisions apply
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Group relief
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Reconstruction and acquisition reliefs
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Withdrawal of money etc from partnership after transfer of chargeable interest
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Grant of lease to bare trustee
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Variation of lease
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Loan or deposit in connection with grant or assignment of lease
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Commencement
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Part 2 Amendments coming into force in accordance with paragraph 22
+    - Introduction
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Transfers involving public bodies
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Group relief: avoidance arrangements
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Acquisition relief: avoidance arrangements
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Stamp duty on transfers of partnership interests
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Commencement
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+- SCHEDULE 11 Repeals
+  - Part 1 Value added tax
+  - Part 2 Income tax, corporation tax and capital gains tax
+  - Part 3 Stamp taxes
+  - Part 4 European company statute
+  - Part 5 Miscellaneous matters
