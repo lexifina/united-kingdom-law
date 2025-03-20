@@ -1,0 +1,104 @@
+# Taxation (Post-transition Period) Act 2020
+
+2020 c. 26. Enacted 2020-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2020/26/2025-03-20
+
+## Contents
+
+- Northern Ireland Protocol
+  - [s. 1 Duty on goods removed to Northern Ireland](section/1.md)
+  - [s. 2 Duty on goods imported into or removed from Northern Ireland](section/2.md)
+  - [s. 3 Value added tax in Northern Ireland](section/3.md)
+  - [s. 4 Excise duty on the removal of goods to Northern Ireland](section/4.md)
+  - [s. 5 Duty under section 4: supplementary](section/5.md)
+  - [s. 6 Rate of fuel duty on aviation gasoline](section/6.md)
+- Other provision about value added tax
+  - [s. 7 Online sales by overseas persons and low value importations](section/7.md)
+- Insurance premium tax
+  - [s. 8 Liability of insured in certain cases](section/8.md)
+- Controlled foreign companies
+  - [s. 9 Recovery of unlawful state aid](section/9.md)
+- Final provisions
+  - [s. 10 Interpretation](section/10.md)
+  - [s. 11 Commencement](section/11.md)
+  - [s. 12 Short title](section/12.md)
+- SCHEDULE 1 Customs duties etc: amendments relating to the Northern Ireland Protocol
+  - Amendments of TCTA 2018
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Isle of Man Act 1979
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Finance (No.2) Act 1992
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Value added tax: amendments relating to the Northern Ireland Protocol etc
+  - PART 1 Amendments of VATA 1994
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - New Schedules: VAT in Northern Ireland
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Other amendments of VATA 1994
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - PART 2 Amendments of other legislation
+    - F(No.2)A 2017
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - TCTA 2018
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Value Added Tax (Place of Supply of Goods) Order 2004
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Value Added Tax (Relief for European Research Infrastructure Consortia) Order 2012
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Value Added Tax (Miscellaneous Amendments, Revocation and Transitional Provisions) (EU Exit) Regulations 2019
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Online sales by overseas persons and low value importations
+  - PART 1 Main amendments
+    - Amendments to the Value Added Tax Act 1994
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Amendment to the Value Added Tax (Imported Goods) Relief Order 1984
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Amendments to the Value Added Tax Regulations 1995
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - PART 2 Amendments and modifications relating to the Northern Ireland Protocol
+    - Amendments to the Value Added Tax Act 1994
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Recovery of unlawful state aid
