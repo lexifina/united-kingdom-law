@@ -2,9 +2,9 @@
 
 2023 c. 30. Enacted 2023-07-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-02-01, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
+Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-03-20
 
 ## Contents
 
@@ -167,8 +167,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
   - Chapter 1 Introduction and charge
     - [s. 121 Introduction to multinational top-up tax](section/121.md)
     - [s. 122 Chargeable persons](section/122.md)
-    - [s. 123 Amount charged by reference to “top-up amounts”](section/123.md)
-    - [s. 124 How to calculate top-up amounts and attribute them](section/124.md)
+    - [s. 123 Charge to multinational top-up tax](section/123.md)
+    - [s. 124 How to calculate top-up amounts etc](section/124.md)
     - [s. 125 Administration of multinational top-up tax](section/125.md)
   - Chapter 2 Qualifying multinational groups and their members
     - Multinational groups
@@ -189,6 +189,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
       - [s. 135 Underlying profits of permanent establishments](section/135.md)
       - [s. 136 Underlying profits accounts](section/136.md)
       - [s. 137 No amounts outside of profit and loss account to be included](section/137.md)
+      - [s. 137A Use of substituted values](section/137A.md)
     - Adjustments of underlying profits
       - [s. 138 Profits adjusted to be before tax](section/138.md)
       - [s. 139 Profits adjusted to be profits before consolidation adjustments to eliminate intragroup transactions](section/139.md)
@@ -227,7 +228,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
       - [s. 166 Election in relation to hedging currency risk in ownership interests](section/166.md)
     - Dealing with transparency and entities subject to qualifying dividend regime
       - [s. 167 Underlying profits of hybrids](section/167.md)
-      - [s. 168 Underlying profits of transparent and reverse hybrid entities](section/168.md)
+      - [s. 168 Underlying profits of transparent ... entities](section/168.md)
       - [s. 169 Certain non tax resident entities to be treated as flow-through entities](section/169.md)
       - [s. 170 Adjustments for ultimate parent that is a flow-through entity](section/170.md)
       - [s. 171 Ultimate parent subject to qualifying dividend regime](section/171.md)
@@ -236,8 +237,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
     - Amount of covered taxes
       - [s. 173 Covered taxes](section/173.md)
       - [s. 174 Amount of covered tax balance](section/174.md)
-      - [s. 175 Amounts excluded from covered tax balance](section/175.md)
-      - [s. 176 Amounts to be reflected in covered tax balance](section/176.md)
+      - [s. 175 Amounts excluded from qualifying current tax expense](section/175.md)
+      - [s. 176 Amounts to be reflected in qualifying current tax expense](section/176.md)
     - Transferable tax credits
       - [s. 176A Meaning of “non-marketable transferable tax credits”](section/176A.md)
       - [s. 176B Value of non-marketable transferable tax credits: originator](section/176B.md)
@@ -246,12 +247,17 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
       - [s. 176D Tax credits etc allocated under tax equity partnerships](section/176D.md)
       - [s. 176E Flow-through tax benefits: proportional amortisation method](section/176E.md)
       - [s. 176F Flow-through tax benefits: subtraction method](section/176F.md)
+      - [s. 176G Clawback of earlier qualifying flow-through tax benefits](section/176G.md)
     - Allocation of covered taxes
       - [s. 177 Permanent establishments](section/177.md)
       - [s. 178 Reallocation of tax expense](section/178.md)
       - [s. 179 Controlled foreign company tax regimes](section/179.md)
       - [s. 180 Blended CFC regimes](section/180.md)
+      - [s. 180A Section 180: further provision](section/180A.md)
       - [s. 181 Distributions from other members of a group](section/181.md)
+      - [s. 181A Cross-border allocation of current tax under cross-crediting regime](section/181A.md)
+    - Cross-border allocation of deferred tax expense
+      - [s. 181B Cross-border allocation of deferred tax assets and liabilities](section/181B.md)
     - Dealing with deferred tax assets etc
       - [s. 182 Total deferred tax adjustment amount](section/182.md)
       - [s. 183 Qualifying foreign tax credits (substitute loss carry forward assets)](section/183.md)
@@ -273,9 +279,12 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
     - [s. 196 Eligible payroll costs](section/196.md)
     - [s. 197 Eligible tangible asset amount](section/197.md)
     - [s. 197A Operating leases](section/197A.md)
-    - [s. 198 Eligible payroll costs and eligible tangible asset amount: permanent establishments and flow-through entities](section/198.md)
+    - [s. 198 Eligible payroll costs and eligible tangible asset amount: permanent establishments](section/198.md)
+    - [s. 198ZA Eligible payroll costs: flow-through entities](section/198ZA.md)
+    - [s. 198ZB Eligible tangible asset amount: flow-through entities](section/198ZB.md)
+    - [s. 198ZC Eligible payroll costs and eligible tangible asset amount: flow-through ultimate parent](section/198ZC.md)
     - [s. 198A Power to make provision about treatment of payroll costs and assets](section/198A.md)
-    - [s. 199 Election to treat total top-up amount as nil](section/199.md)
+    - [s. 199 Election to treat certain top-up amounts as nil](section/199.md)
   - Chapter 7 Allocating top-up amounts to responsible members
     - [s. 200 Top-up amounts multiplied by inclusion ratio](section/200.md)
     - [s. 201 Inclusion ratio](section/201.md)
@@ -318,6 +327,22 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
       - [s. 228 Minority owned members](section/228.md)
     - Application to multi-parent groups
       - [s. 229 Multi-parent groups](section/229.md)
+  - Chapter 9A Untaxed amounts
+    - Introduction
+      - [s. 229A Meaning of potentially undertaxed](section/229A.md)
+      - [s. 229B Untaxed amounts](section/229B.md)
+    - Allocation of untaxed amounts
+      - [s. 229C Allocation of untaxed amount to members](section/229C.md)
+      - [s. 229D Amount allocated to the United Kingdom](section/229D.md)
+      - [s. 229E Allocation to qualifying members](section/229E.md)
+      - [s. 229F Election to make one member of a group liable for untaxed amounts](section/229F.md)
+    - How to determine number of employees and tangible fixed assets values
+      - [s. 229G Number of employees](section/229G.md)
+      - [s. 229H Value of tangible fixed assets](section/229H.md)
+    - Joint ventures
+      - [s. 229I Joint ventures](section/229I.md)
+    - References to responsible members
+      - [s. 229J References to responsible members](section/229J.md)
   - Chapter 10 Definitions etc
     - Introduction
       - [s. 230 Meaning of terms and concepts used in this Part](section/230.md)
@@ -794,18 +819,23 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
     - [Sch. 16 para. 1 Transitional relief for substance-based income exclusion](schedule/16/paragraph/1.md)
     - [Sch. 16 para. 2 Intra-group transfers before entry into regime](schedule/16/paragraph/2.md)
   - Part 2 Transitional safe harbour
-    - Chapter 1 Transitional safe harbour election
+    - Chapter 1 General transitional safe harbour election
       - [Sch. 16 para. 3 Election](schedule/16/paragraph/3.md)
       - [Sch. 16 para. 4 Qualified financial statements and basis of calculations](schedule/16/paragraph/4.md)
+      - [Sch. 16 para. 4A Accounts or statements reflecting purchase price accounting adjustments](schedule/16/paragraph/4A.md)
       - [Sch. 16 para. 5 Qualifying income tax expense](schedule/16/paragraph/5.md)
       - [Sch. 16 para. 6 Adjustments](schedule/16/paragraph/6.md)
+      - [Sch. 16 para. 6A Deduction and non-inclusion arrangements and duplicate loss arrangements](schedule/16/paragraph/6A.md)
+      - [Sch. 16 para. 6B Duplicate tax recognition arrangements](schedule/16/paragraph/6B.md)
       - [Sch. 16 para. 7 Threshold test](schedule/16/paragraph/7.md)
       - [Sch. 16 para. 8 Simplified effective tax rate test](schedule/16/paragraph/8.md)
       - [Sch. 16 para. 9 Routine profits test](schedule/16/paragraph/9.md)
-    - Chapter 2 Application to joint ventures etc
+    - Chapter 2 Application of Chapter 1 to joint ventures etc
       - [Sch. 16 para. 10 Application in the case of joint venture group](schedule/16/paragraph/10.md)
       - [Sch. 16 para. 11 Application to investment entities in same territory as owners](schedule/16/paragraph/11.md)
       - [Sch. 16 para. 12 Minority owned members](schedule/16/paragraph/12.md)
+  - Part 2A UTPR transitional safe harbour election
+    - [Sch. 16 para. 12A Election](schedule/16/paragraph/12A.md)
   - Part 3 Transitional reporting election
     - [Sch. 16 para. 13 Transitional reporting election](schedule/16/paragraph/13.md)
 - Schedule 16A Multinational top-up tax: safe harbours
@@ -818,6 +848,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2025-02-01
       - [Sch. 16A para. 4 Application in the case of joint venture group](schedule/16A/paragraph/4.md)
       - [Sch. 16A para. 5 Application in the case of investment entities](schedule/16A/paragraph/5.md)
       - [Sch. 16A para. 6 Application in the case of minority owned members](schedule/16A/paragraph/6.md)
+  - Part 2 Untaxed amounts: international expansion of groups
+    - [Sch. 16A para. 7 No untaxed amounts for groups in initial phase of international expansion](schedule/16A/paragraph/7.md)
 - Schedule 17 Index of expressions defined or explained in Parts 3 and 4
 - Schedule 18 Administration of domestic top-up tax
   - [Sch. 18 para. 1 Introduction](schedule/18/paragraph/1.md)
