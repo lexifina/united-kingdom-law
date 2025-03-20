@@ -2,9 +2,9 @@
 
 2022 c. 3. Enacted 2022-02-24.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-04-06, one file per provision. Earlier versions, from 2022-02-24, are in the history before it: `git log -- ukpga/2022/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2022-02-24, are in the history before it: `git log -- ukpga/2022/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/3/2024-04-06
+Source: https://www.legislation.gov.uk/ukpga/2022/3/2025-03-20
 
 ## Contents
 
@@ -296,7 +296,7 @@ Source: https://www.legislation.gov.uk/ukpga/2022/3/2024-04-06
   - PART 7 Treatment of certain amounts payable by a QAHC
     - [Sch. 2 para. 44 Treatment of certain distributions](schedule/2/paragraph/44.md)
     - [Sch. 2 para. 45 Application of hybrid and other mismatches rules where paragraph 44 applies](schedule/2/paragraph/45.md)
-    - [Sch. 2 para. 46 Payments of distributions etc to individual to whom the remittance basis applies](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 46 Payments of distributions etc to individual to whom the remittance basis applied or who makes a foreign income or gain claim](schedule/2/paragraph/46.md)
     - [Sch. 2 para. 47 Purchase of own shares](schedule/2/paragraph/47.md)
     - [Sch. 2 para. 48 Disapplication of paragraph 47 during cure period for certain non-category A investors](schedule/2/paragraph/48.md)
     - [Sch. 2 para. 49 Transactions in securities rules](schedule/2/paragraph/49.md)
