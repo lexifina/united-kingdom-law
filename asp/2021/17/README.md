@@ -1,0 +1,120 @@
+# Tied Pubs (Scotland) Act 2021
+
+asp/2021/17. Enacted 2021-05-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-03-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2021/17/2025-03-30
+
+## Contents
+
+- Part 1 The Code and the adjudicator
+  - [s. 1 Scottish Pubs Code](section/1.md)
+  - [s. 2 Scottish Pubs Code Adjudicator](section/2.md)
+  - [s. 3 Duty to act consistently with regulatory principles](section/3.md)
+  - [s. 4 Scottish Ministers’ duty to seek to make code and appoint adjudicator](section/4.md)
+  - [s. 5 Review of the code and adjudicator’s performance](section/5.md)
+  - [s. 6 Ministerial guidance to the adjudicator](section/6.md)
+- Part 2 Giving effect to the code
+  - Agreements that are inconsistent with the code
+    - [s. 7 Unenforceability of contract terms](section/7.md)
+  - Investigation by the adjudicator
+    - [s. 8 Power to investigate](section/8.md)
+    - [s. 9 Enforcement action](section/9.md)
+    - [s. 10 Financial penalties under section 9](section/10.md)
+    - [s. 11 Investigation report](section/11.md)
+    - [s. 12 Recovery of investigation costs](section/12.md)
+    - [s. 13 Investigation policy](section/13.md)
+  - Arbitration
+    - [s. 14 Adjudicator’s duty to arbitrate or appoint arbitrator](section/14.md)
+    - [s. 15 Submission of dispute to adjudicator](section/15.md)
+    - [s. 16 Liability for arbitrator’s reasonable fees and expenses](section/16.md)
+    - [s. 17 Further fees and expenses payable to the adjudicator](section/17.md)
+    - [s. 18 Information about arbitration](section/18.md)
+  - Avoidance
+    - [s. 19 Reports on avoidance](section/19.md)
+- Part 3 Interpretation
+  - [s. 20 Tied pub](section/20.md)
+  - [s. 21 Pub-owning business and tied-pub tenant](section/21.md)
+  - [s. 22 Other expressions](section/22.md)
+- Part 4 Final provisions
+  - [s. 23 Ancillary provision](section/23.md)
+  - [s. 24 Regulation-making powers](section/24.md)
+  - [s. 25 Commencement](section/25.md)
+  - [s. 26 Short title](section/26.md)
+- Schedule 1 The Scottish Pubs Code
+  - Requirement to provide information
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Requirement to comply with adjudicator’s directions following an investigation
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Restriction on enforcing certain terms of agreement
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Requirement to offer guest beer agreement
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Requirement to offer market rent only lease
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Market rent only lease: further provision
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Generality of enabling power unaffected
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- Schedule 2 Scottish Pubs Code Adjudicator
+  - Part 1 Status and liability
+    - Legal personality
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Exclusion of Crown Status
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Exemption from liability for damages
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part 2 Powers
+    - Chapter 1 Power to require information
+      - Imposition of requirement
+        - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - Offence of failing to comply with requirement
+        - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - Offence of providing false information
+        - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Chapter 2 Other powers
+      - Power to advise on the code
+        - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - Power to issue guidance
+        - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - General powers
+        - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part 3 Funding and other support
+    - Chapter 1 Assistance from the Scottish Ministers
+      - Loans
+        - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - Other assistance
+        - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Chapter 2 Levy funding
+      - Annual levy on pub-owning businesses
+        - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - Amount of levy
+        - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - Liability to pay
+        - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - Rebate
+        - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - Appeals
+        - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Part 4 Accountability
+    - Accounts and audit
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Annual report
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Information to Scottish Ministers
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Part 5 Appointment and terms and conditions
+    - Appointment
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Tenure
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Defect in appointment
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Remuneration
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Other terms and conditions
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Part 6 Staff
+    - Secondees
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
