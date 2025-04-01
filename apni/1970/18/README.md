@@ -1,0 +1,390 @@
+# Land Registration Act (Northern Ireland) 1970
+
+apni/1970/18. Enacted 1970-06-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1970/18/2025-04-01
+
+## Contents
+
+- PART I THE LAND REGISTRY
+  - [s. 1 Land Registry.](section/1.md)
+  - [s. 2 Power of Registrar to summon witnesses.](section/2.md)
+  - [s. 3 Indemnity of Land Registry officials.](section/3.md)
+- PART II JURISDICTION OF HIGH COURT AND COUNTY COURTS
+  - [s. 4 Jurisdiction of the High Court and county courts.](section/4.md)
+  - [s. 5 Power of court in action for specific performance.](section/5.md)
+  - [s. 6 Appeal and reference to the High Court.](section/6.md)
+  - [s. 7 Appeal from the High Court.](section/7.md)
+  - [s. 8 Enforcement by High Court of order of Registrar.](section/8.md)
+  - [s. 9 Registrar to obey order of court.](section/9.md)
+- PART III REGISTRATION OF OWNERSHIP
+  - The registers
+    - [s. 10 The title register.](section/10.md)
+    - [s. 11 Conclusiveness of registers.](section/11.md)
+  - Owners and classes of title
+    - [s. 12 Classes of owners who may be registered.](section/12.md)
+    - [s. 13 Classes of title with which owner may be registered.](section/13.md)
+  - Freehold estates
+    - [s. 14 Application for first registration of freehold estate.](section/14.md)
+    - [s. 15 Effect of first registration of freehold estate with an absolute title.](section/15.md)
+    - [s. 16 Effect of first registration of freehold estate with a good fee farm grant title.](section/16.md)
+    - [s. 17 Effect of first registration of freehold estate with a possessory title.](section/17.md)
+    - [s. 18 Qualified title to freehold estate.](section/18.md)
+  - Leasehold estates
+    - [s. 19 Application for first registration of leasehold estate.](section/19.md)
+    - [s. 20 Effect of first registration of leasehold estate with an absolute title.](section/20.md)
+    - [s. 21 Effect of first registration of leasehold estate with a good leasehold title.](section/21.md)
+    - [s. 22 Effect of first registration of leasehold estate with a possessory title.](section/22.md)
+    - [s. 23 Qualified title to leasehold estate.](section/23.md)
+  - Compulsory first registration
+    - [s. 24 Compulsory first registration.](section/24.md)
+    - [s. 25 Extension of compulsory registration.](section/25.md)
+  - Reclassification of title
+    - [s. 26 Reclassification of registered titles.](section/26.md)
+  - Extinguishment of leasehold estates
+    - [s. 27 Extinguishment of leasehold estates.](section/27.md)
+  - Examination of title
+    - [s. 28 Examination of title by Registrar.](section/28.md)
+    - [s. 29 Affidavit required before registration.](section/29.md)
+    - [s. 30 Production of deeds, etc.](section/30.md)
+    - [s. 31 Deeds, etc., to be marked with notice of registration.](section/31.md)
+- PART IV DEALINGS WITH REGISTERED LAND
+  - General provisions
+    - [s. 32 Dealings with registered land.](section/32.md)
+    - [s. 32A Validity of electronic documents](section/32A.md)
+    - [s. 33 Powers of person entitled to be registered.](section/33.md)
+    - [s. 34 Transfers of registered land.](section/34.md)
+    - [s. 35 Words of transfer.](section/35.md)
+    - [s. 36 Defeasance of registered owner’s estate.](section/36.md)
+    - [s. 37 Transmission of registered land.](section/37.md)
+  - Burdens generally
+    - [s. 38 Matters which are burdens affecting registered land without registration.](section/38.md)
+    - [s. 39 Registration of certain burdens.](section/39.md)
+    - [s. 40 Priority of registered burdens.](section/40.md)
+  - Money burdens
+    - [s. 41 Creation and effect of charges on registered land.](section/41.md)
+    - [s. 42 Exercise of power of charging land](section/42.md)
+    - [s. 43 Priority of registered charge for future advances.](section/43.md)
+    - [s. 44 Powers with respect to charges under certain statutory provisions.](section/44.md)
+    - [s. 45 Term of years vested in trustee for raising money out of registered land.](section/45.md)
+    - [s. 46 Term of years vested in trustee for raising money, or mortgage, prior to first registration.](section/46.md)
+  - Rights of residence
+    - [s. 47 Right of residence on registered land.](section/47.md)
+  - Modification and discharge of burdens
+    - [s. 48 Modification and discharge of burdens other than charges.](section/48.md)
+    - [s. 49 Discharge, etc., of registered charges.](section/49.md)
+  - Creation of security by deposit of land certificate, etc.
+    - [s. 50 Creation of security by deposit of land certificate or certificate of charge.](section/50.md)
+- PART V GENERAL PROVISIONS AS TO REGISTRATION
+  - [s. 50A Souvenir land.](section/50A.md)
+  - [s. 51 Entry of rights appurtenant to land.](section/51.md)
+  - [s. 53 Acquisition of title by possession.](section/53.md)
+  - [s. 54 Notice of trusts.](section/54.md)
+  - [s. 54A Liens](section/54A.md)
+  - [s. 55 Undivided shares and co-owners.](section/55.md)
+  - [s. 56 Special provisions applicable to settled land and to charitable trusts, etc.](section/56.md)
+  - [s. 57 Power for trustee to apply to the court for directions.](section/57.md)
+  - [s. 58 Provisions as to incumbrances created or issued by a body corporate which are not registered or protected.](section/58.md)
+  - [s. 59 Transmissions on bankruptcy of registered owner.](section/59.md)
+  - [s. 59A Effect of transmissions on bankruptcy](section/59A.md)
+  - [s. 60 Minors.](section/60.md)
+  - [s. 61 Persons suffering from mental disorder.](section/61.md)
+  - [s. 61A Overseas entities](section/61A.md)
+- PART VI MAPS AND BOUNDARIES
+  - [s. 62 The registry map.](section/62.md)
+  - [s. 63 Description of registered land.](section/63.md)
+  - [s. 64 Effect of description of registered land.](section/64.md)
+- PART VII CAUTIONS AND INHIBITIONS
+  - [s. 65 Cautions against first registration.](section/65.md)
+  - [s. 66 Cautions against registered dispositions, etc.](section/66.md)
+  - [s. 67 Inhibitions of registered dealings.](section/67.md)
+  - [s. 67A Protection of creditors prior to registration of trustee in bankruptcy.](section/67A.md)
+  - [s. 68 Inhibitions in consequence of discovery of error.](section/68.md)
+- PART VIII RECTIFICATION AND INDEMNITY
+  - [s. 69 Rectification of errors.](section/69.md)
+  - [s. 71 Claims for compensation.](section/71.md)
+- PART IX MISCELLANEOUS PROVISIONS
+  - [s. 72 Exemption from registration in the registry of deeds.](section/72.md)
+  - [s. 73 Exemption from registration in registry of deeds of documents relating to burdens registered under this Act.](section/73.md)
+  - [s. 74 Execution of documents containing reservations.](section/74.md)
+  - [s. 75 Avoidance of stipulations in documents precluding registration of title.](section/75.md)
+  - [s. 76 Avoidance of certain stipulations in contracts for transfer of, or charge on, registered land.](section/76.md)
+  - [s. 77 Facilities for registration of Crown Land.](section/77.md)
+  - [s. 78 Foreshore and seabed.](section/78.md)
+  - [s. 79 Land certificates and certificates of charge.](section/79.md)
+  - [s. 80 Special provisions relating to certain vesting orders and fiats.](section/80.md)
+  - [s. 81 Searches.](section/81.md)
+  - [s. 82 Penalties for fraud.](section/82.md)
+  - [s. 83 Effect of fraudulent dispositions and fraudulent acts.](section/83.md)
+  - [s. 84 Fees.](section/84.md)
+  - [s. 85 Rules.](section/85.md)
+  - [s. 85A Documents and records.](section/85A.md)
+- PART X THE STATUTORY CHARGES REGISTER
+  - [s. 86 The Statutory Charges Register.](section/86.md)
+  - [s. 87 Matters registrable in the Statutory Charges Register.](section/87.md)
+  - [s. 88 Provisions as to registration and priority.](section/88.md)
+  - [s. 89 Priority notices.](section/89.md)
+  - [s. 90 Use of registers existing on 2nd April 1951.](section/90.md)
+  - [s. 91 Cancellation and modification of statutory charges.](section/91.md)
+  - [s. 92 Application of certain other provisions of the Act to statutory charges.](section/92.md)
+- PART XI SUPPLEMENTARY
+  - [s. 93 Financial provisions.](section/93.md)
+  - [s. 94 Interpretation.](section/94.md)
+  - [s. 96 Transitional provisions and savings.](section/96.md)
+  - [s. 98 Application to the Crown.](section/98.md)
+  - [s. 99 Citation and commencement.](section/99.md)
+- SCHEDULE 1 ADMINISTRATIVE PROVISIONS RELATING TO LAND REGISTRY
+    - Appointment of Registrar of Titles
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Other officials
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Functions
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The official seal
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 1A ELECTRONIC REGISTRATION
+  - [Sch. 1A para. 1 Interpretation of this Schedule](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Validity of electronic documents](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Formalities of execution of electronic documents](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Equivalent treatment of electronic documents](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Presumption as to the authentication of electronic documents](schedule/1A/paragraph/5.md)
+- SCHEDULE 2 COMPULSORY REGISTRATION
+  - PART I COMPULSORY REGISTRATION AND EFFECT OF NON-REGISTRATION
+  - PART II POWER TO EXTEND TIME FOR FIRST COMPULSORY REGISTRATION
+  - PART III INTERPRETATION OF PART I
+  - PART IV PROVISIONS RELATING TO CERTAIN LEASES
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 RECLASSIFICATION OF TITLE
+    - Reclassification of titles formerly subject to notes as to equities and deemed to be possessory titles
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Reclassification of titles on efflux of time
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Reclassification of titles in other cases
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Adverse claims
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Evidence of title and notices
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 TRANSMISSION OF REGISTERED LAND
+    - Transmission on death of a full owner in respect of deaths after commencement of Act
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Transmission of estate of limited owner on death, in respect of deaths after commencement of Act, or otherwise
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Functions of Registrar in relation to assents or transfers by personal representatives
+      - [Sch. 4 para. 6A](schedule/4/paragraph/6A.md)
+    - Application of paragraphs 1 to 6A
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Transmission of registered land in the case of persons dying before the commencement of Act
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 BURDENS WHICH AFFECT REGISTERED LAND WITHOUT REGISTRATION
+  - PART I LIST OF BURDENS WHICH AFFECT REGISTERED LAND WITHOUT REGISTRATION
+    - [Sch. 5 Pt. I para. 1](schedule/5/part/I/paragraph/1.md)
+    - [Sch. 5 Pt. I para. 2](schedule/5/part/I/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - PART II PROVISIONS AFFECTING SCHEDULE 5 BURDENS
+    - [Sch. 5 Pt. II para. 1](schedule/5/part/II/paragraph/1.md)
+    - [Sch. 5 Pt. II para. 2](schedule/5/part/II/paragraph/2.md)
+- SCHEDULE 6 REGISTRATION OF CERTAIN BURDENS
+  - PART I LIST OF BURDENS TO WHICH SECTION 39 APPLIES
+    - [Sch. 6 Pt. I para. 1](schedule/6/part/I/paragraph/1.md)
+    - [Sch. 6 Pt. I para. 2](schedule/6/part/I/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 Pt. I para. 5](schedule/6/part/I/paragraph/5.md)
+    - [Sch. 6 Pt. I para. 6](schedule/6/part/I/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 8A](schedule/6/paragraph/8A.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 14A](schedule/6/paragraph/14A.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - PART II PROVISIONS AFFECTING REGISTRATION OF SCHEDULE 6 BURDENS
+    - Registration of burdens
+      - [Sch. 6 Pt. II Ch.  para. 1](schedule/6/part/II/chapter/x/paragraph/1.md)
+      - [Sch. 6 Pt. II Ch.  para. 2](schedule/6/part/II/chapter/x/paragraph/2.md)
+    - Note of indemnity in respect of rent registered as a burden
+      - [Sch. 6 Pt. II Ch. n2 para. 5](schedule/6/part/II/chapter/n2/paragraph/5.md)
+    - Registration of pending actions to lapse after five years
+      - [Sch. 6 Pt. II Ch. n3 para. 6](schedule/6/part/II/chapter/n3/paragraph/6.md)
+    - Registration of bankruptcy petitions
+      - [Sch. 6 para. 6A](schedule/6/paragraph/6A.md)
+- SCHEDULE 7 PROVISIONS RELATING TO CHARGES ON REGISTERED LAND
+  - PART I GENERAL PROVISIONS
+    - Registration of charges
+      - [Sch. 7 Pt. I Ch.  para. 1](schedule/7/part/I/chapter/x/paragraph/1.md)
+      - [Sch. 7 Pt. I Ch.  para. 2](schedule/7/part/I/chapter/x/paragraph/2.md)
+      - [Sch. 7 Pt. I Ch.  para. 3](schedule/7/part/I/chapter/x/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Effect of registration of ownership of charge
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - PART II SPECIAL PROVISIONS RELATING TO CERTAIN CHARGES IN RESPECT OF SETTLED LAND
+  - PART III VALIDITY OF CERTAIN CHARGES PURPORTING TO BE REGISTERED AT 28TH JULY 1957
+    - [Sch. 7 Pt. III para. 1](schedule/7/part/III/paragraph/1.md)
+    - [Sch. 7 Pt. III para. 2](schedule/7/part/III/paragraph/2.md)
+    - [Sch. 7 Pt. III para. 3](schedule/7/part/III/paragraph/3.md)
+- SCHEDULE 8 SPECIAL PROVISIONS RELATING TO SETTLED LAND AND TO CHARITABLE TRUSTS, ETC.
+  - PART I SETTLED LAND
+    - [Sch. 8 Pt. I para. 1](schedule/8/part/I/paragraph/1.md)
+    - [Sch. 8 Pt. I para. 2](schedule/8/part/I/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - PART II CHARITABLE AND CERTAIN OTHER TRUSTS
+    - Registration as owners of trustees appointed pursuant to the Trustee Appointment Acts 1850 and 1890
+      - [Sch. 8 Pt. II Ch.  para. 1](schedule/8/part/II/chapter/x/paragraph/1.md)
+    - Registration as owners of persons in whom registered land is vested by an order under section 12 of the Charities Act (Northern Ireland) 1964
+      - [Sch. 8 Pt. II Ch. n2 para. 2](schedule/8/part/II/chapter/n2/paragraph/2.md)
+- SCHEDULE 8A Overseas entities
+  - PART 1 Registration and dispositions
+    - [Sch. 8A para. 1 Meaning of “qualifying estate”](schedule/8A/paragraph/1.md)
+    - [Sch. 8A para. 2 Registration](schedule/8A/paragraph/2.md)
+    - [Sch. 8A para. 3 Restrictions on disposal](schedule/8A/paragraph/3.md)
+    - [Sch. 8A para. 4 Registrable dispositions by overseas entity entitled to be registered (but not registered)](schedule/8A/paragraph/4.md)
+    - [Sch. 8A para. 4A Consent to registration of dispositions that cannot otherwise be registered](schedule/8A/paragraph/4A.md)
+    - [Sch. 8A para. 5 Making dispositions that cannot be registered](schedule/8A/paragraph/5.md)
+    - [Sch. 8A para. 6 Interpretation etc](schedule/8A/paragraph/6.md)
+    - [Sch. 8A para. 7 Interpretation etc](schedule/8A/paragraph/7.md)
+- SCHEDULE 9 COMPENSATION PAYABLE UNDER THE ACT
+    - Right to compensation
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 3A](schedule/9/paragraph/3A.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 4A](schedule/9/paragraph/4A.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Quantum of compensation
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Special provisions in respect of settled land
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Procedure for claiming compensation
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 SPECIAL PROVISIONS RELATING TO CERTAIN VESTING ORDERS AND FIATS UNDER THE LAND PURCHASE ACTS
+    - Application of Schedule
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Vesting not to be invalidated by death
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Procedure for corrections consequent upon errors in vesting orders
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 MATTERS WHICH REQUIRE TO BE REGISTERED IN THE STATUTORY CHARGES REGISTER
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 18A](schedule/11/paragraph/18A.md)
+  - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+  - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+  - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+  - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+  - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+  - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+  - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+  - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+  - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+  - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+  - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+  - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+  - [Sch. 11 para. 43n1](schedule/11/paragraph/43n1.md)
+  - [Sch. 11 para. 43n2](schedule/11/paragraph/43n2.md)
+  - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+  - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+  - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+  - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+  - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+  - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+  - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+  - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+  - [Sch. 11 para. 51A](schedule/11/paragraph/51A.md)
+  - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+  - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+  - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+- SCHEDULE 13 TRANSITIONAL AND SAVING PROVISIONS
+  - PART I TRANSITIONAL PROVISIONS
+    - Effect of previous registration with a qualified or possessory title
+      - [Sch. 13 Pt. I Ch.  para. 1](schedule/13/part/I/chapter/x/paragraph/1.md)
+    - Effect of previous registration subject to note as to equities
+      - [Sch. 13 Pt. I Ch. n2 para. 2](schedule/13/part/I/chapter/n2/paragraph/2.md)
+    - Effect of previous registration not subject to note as to equities
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Effect of previous registration with a note to the effect that the title of lessor has been examined and found to be good and valid
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Effect of previous registration without a note relating to the title of lessor
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Effect of previous registration in the register of proprietors
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Transfers of registrations from local registries to central office
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Statutory charges under the Act of 1951
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Construction of certain cross-references
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Disposal of certain books, etc., relating to record of title
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - PART II SAVINGS
+    - Consent to alienation, etc.
+      - [Sch. 13 Pt. II Ch.  para. 1](schedule/13/part/II/chapter/x/paragraph/1.md)
+    - Provisions of Interpretation Act (Northern Ireland) 1954 relating to repeals and substituting provisions
+      - [Sch. 13 Pt. II Ch. n2 para. 2](schedule/13/part/II/chapter/n2/paragraph/2.md)
