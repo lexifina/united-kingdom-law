@@ -1,0 +1,197 @@
+# Democracy and Boundary Commission Cymru etc. Act 2013
+
+anaw/2013/4. Enacted 2013-07-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2013/4
+
+Source: https://www.legislation.gov.uk/anaw/2013/4/2025-04-01
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview](section/1.md)
+- PART 2 Democracy and Boundary Commission Cymru
+  - Continuation and name
+    - [s. 2 Democracy and Boundary Commission Cymru](section/2.md)
+  - Status
+    - [s. 3 Status](section/3.md)
+  - Members
+    - [s. 4 Membership](section/4.md)
+    - [s. 5 Tenure](section/5.md)
+  - Proceedings
+    - [s. 6 Proceedings](section/6.md)
+    - [s. 7 Seal and validity of documents](section/7.md)
+  - Staff, experts and assistant commissioners
+    - [s. 8 Chief executive](section/8.md)
+    - [s. 9 Other staff](section/9.md)
+    - [s. 10 Experts](section/10.md)
+    - [s. 11 Assistant commissioners](section/11.md)
+  - General powers and directions
+    - [s. 11A Power to charge](section/11A.md)
+    - [s. 12 Powers](section/12.md)
+    - [s. 13 Delegation](section/13.md)
+    - [s. 14 Directions](section/14.md)
+  - Financial matters and governance
+    - [s. 15 Funding](section/15.md)
+    - [s. 16 Accounting officer](section/16.md)
+    - [s. 17 Governance and audit committee](section/17.md)
+    - [s. 18 Governance and audit committee: membership and quorum](section/18.md)
+    - [s. 19 Accounts and external audit](section/19.md)
+    - [s. 20 Annual reports](section/20.md)
+- PART 2A CO-ORDINATION OF ELECTORAL ADMINISTRATION
+  - General functions
+    - [s. 20A Electoral administration functions](section/20A.md)
+  - Directions
+    - [s. 20B Directions to returning officers](section/20B.md)
+    - [s. 20C Directions to electoral registration officers](section/20C.md)
+    - [s. 20D Consultation with the Electoral Commission](section/20D.md)
+  - The Board
+    - [s. 20E Electoral Management Board](section/20E.md)
+    - [s. 20F Board membership](section/20F.md)
+    - [s. 20G Tenure](section/20G.md)
+    - [s. 20H Board proceedings](section/20H.md)
+  - General
+    - [s. 20I Interpretation of this Part](section/20I.md)
+- PART 3 ARRANGEMENTS FOR LOCAL GOVERNMENT
+  - CHAPTER 1 DUTIES TO MONITOR LOCAL GOVERNMENT ARRANGEMENTS
+    - Duty of the Commission
+      - [s. 21 Duty of the Commission to monitor arrangements for local government](section/21.md)
+    - Duties of a principal council
+      - [s. 22 Duties of principal councils in relation to area](section/22.md)
+  - CHAPTER 2 AREA REVIEWS
+    - Principal areas
+      - [s. 23 Review of principal area boundaries](section/23.md)
+      - [s. 24 Review of principal areas following new town order](section/24.md)
+    - Communities
+      - [s. 25 Review of community boundaries by principal council](section/25.md)
+      - [s. 26 Review of community boundaries by the Commission](section/26.md)
+    - Preserved counties
+      - [s. 27 Review of preserved counties](section/27.md)
+    - Seaward boundaries
+      - [s. 28 Review of seaward boundaries](section/28.md)
+  - CHAPTER 3 ELECTORAL ARRANGEMENTS REVIEWS
+    - Principal areas
+      - [s. 29 Review of electoral arrangements for principal area](section/29.md)
+      - [s. 30 Considerations for a review of principal area electoral arrangements](section/30.md)
+    - Communities
+      - [s. 31 Review of electoral arrangements for community by principal council](section/31.md)
+      - [s. 32 Review of electoral arrangements for community by the Commission](section/32.md)
+      - [s. 33 Considerations for a review of community electoral arrangements](section/33.md)
+  - CHAPTER 4 PROCEDURE FOR LOCAL GOVERNMENT REVIEWS
+    - Procedure for reviews
+      - [s. 34 Pre-review procedure](section/34.md)
+      - [s. 35 Consultation and investigation](section/35.md)
+      - [s. 36 Reporting on review](section/36.md)
+      - [s. 36A Names of electoral ward‍s](section/36A.md)
+      - [s. 36B Deadline for completion of reviews](section/36B.md)
+  - CHAPTER 5 IMPLEMENTATION FOLLOWING REVIEW
+    - Implementation by the Welsh Ministers
+      - [s. 37 Implementation by the Welsh Ministers](section/37.md)
+    - Non-ministerial implementation
+      - [s. 38 Implementation of community boundary change](section/38.md)
+      - [s. 39 Implementation of community electoral arrangements change](section/39.md)
+    - Further provision about implementation and implementation orders
+      - [s. 40 Implementation orders: consequential provision](section/40.md)
+      - [s. 41 General consequential and transitional provision](section/41.md)
+      - [s. 42 Transfers of staff](section/42.md)
+      - [s. 43 Variation and revocation of orders](section/43.md)
+    - Agreements between public bodies to deal with change
+      - [s. 44 Transitional agreements as to property and finance](section/44.md)
+  - CHAPTER 6 OTHER PROVISION RELEVANT TO LOCAL AUTHORITY BOUNDARIES
+    - [s. 45 Police area change](section/45.md)
+    - [s. 46 Extent of seaward boundaries](section/46.md)
+    - [s. 47 Boundary change following alteration of water-course](section/47.md)
+  - CHAPTER 7 MISCELLANEOUS PROVISION
+    - [s. 48 Directions and guidance relating to Part 3](section/48.md)
+    - [s. 49 Local inquiries](section/49.md)
+    - [s. 49ZA Publication of orders under Part 3](section/49ZA.md)
+    - [s. 49ZB Publication of up-to-date lists of communities and community councils](section/49ZB.md)
+- PART 3A SENEDD CONSTITUENCY BOUNDARY REVIEWS
+  - [s. 49A Senedd constituency boundary reviews](section/49A.md)
+  - [s. 49B Notice of commencement of Senedd constituency boundary review](section/49B.md)
+  - [s. 49C Constituency rules](section/49C.md)
+  - [s. 49D Determining the names of the Senedd constituencies](section/49D.md)
+  - [s. 49E Initial report on boundary review and first period for representations](section/49E.md)
+  - [s. 49F Publication of, and consultation on, representations](section/49F.md)
+  - [s. 49G Public hearings](section/49G.md)
+  - [s. 49H Second report on boundary review and final period for representations](section/49H.md)
+  - [s. 49I Final report on boundary review](section/49I.md)
+  - [s. 49J Implementation of final report by the Welsh Ministers](section/49J.md)
+  - [s. 49K Modification of final report by the Commission](section/49K.md)
+  - [s. 49L Interpretation of Part](section/49L.md)
+- PART 4 REVIEWS OF PUBLIC BODY MEMBERSHIP
+  - [s. 50 Reviews of qualifying public bodies](section/50.md)
+- PART 5 OTHER CHANGES TO LOCAL GOVERNMENT
+  - Presiding members
+    - [s. 51 Presiding member of principal council](section/51.md)
+  - Private Bills
+    - [s. 52 Promoting private Bills](section/52.md)
+    - [s. 53 Opposing private Bills](section/53.md)
+    - [s. 54 Restriction on payments in relation to promoting or opposing Bills](section/54.md)
+  - Access to information
+    - [s. 55 Community council websites](section/55.md)
+    - [s. 56 Requirement to give public notices electronically](section/56.md)
+    - [s. 57 Meetings and proceedings of communities](section/57.md)
+    - [s. 58 Registers of members’ interests](section/58.md)
+  - Remote attendance at meetings
+    - [s. 59 Remote attendance at meetings of principal councils](section/59.md)
+  - Democratic services committees
+    - [s. 60 Democratic services committees](section/60.md)
+  - Audit committees
+    - [s. 61 Audit committees](section/61.md)
+  - ...
+    - [s. 62 Functions relating to payments to members](section/62.md)
+    - [s. 63 Functions relating to salaries of heads of paid service](section/63.md)
+    - [s. 64 Relevant authorities](section/64.md)
+    - [s. 65 Subsequent annual reports](section/65.md)
+    - [s. 66 Consultation on draft reports](section/66.md)
+    - [s. 67 Publicity requirements in reports](section/67.md)
+  - Joint standards committees
+    - [s. 68 Joint standards committees](section/68.md)
+    - [s. 69 Referral of cases relating to conduct](section/69.md)
+- PART 5A FUNCTIONS RELATING TO PAYMENTS AND PENSIONS
+  - Remuneration of authority members
+    - [s. 69A Function relating to payments to members](section/69A.md)
+    - [s. 69B Functions relating to members’ pensions](section/69B.md)
+    - [s. 69C Relevant authorities, members etc.](section/69C.md)
+    - [s. 69D Functions relating to resettlement payments](section/69D.md)
+    - [s. 69E Annual remuneration reports in relation to members of relevant authorities](section/69E.md)
+    - [s. 69F Supplementary remuneration reports](section/69F.md)
+    - [s. 69G Further provision about annual remuneration reports and supplementary remuneration reports](section/69G.md)
+    - [s. 69H Directions to reconsider draft reports](section/69H.md)
+    - [s. 69I Commission’s publication and notification duties in relation to reports](section/69I.md)
+    - [s. 69J Administrative requirements for relevant authorities in reports](section/69J.md)
+    - [s. 69K Publishing requirements for relevant authorities in reports](section/69K.md)
+    - [s. 69L Monitoring compliance with Commission’s requirements](section/69L.md)
+    - [s. 69M Directions to enforce compliance with Commission’s requirements](section/69M.md)
+    - [s. 69N Members wishing to forgo payments](section/69N.md)
+    - [s. 69O Withholding payments](section/69O.md)
+    - [s. 69P Guidance](section/69P.md)
+    - [s. 69Q Directions under this Part](section/69Q.md)
+    - [s. 69R Power to modify provision](section/69R.md)
+- PART 6 MISCELLANEOUS AND GENERAL PROVISION
+  - [s. 70ZA Directions](section/70ZA.md)
+  - [s. 70 Ancillary provision](section/70.md)
+  - [s. 71 Orders and regulations](section/71.md)
+  - [s. 72 Interpretation](section/72.md)
+  - [s. 73 Minor and consequential amendments and repeals](section/73.md)
+  - [s. 74 Ongoing reviews and other savings](section/74.md)
+  - [s. 75 Commencement](section/75.md)
+  - [s. 76 Short title](section/76.md)
+- SCHEDULE 1 Minor and consequential amendments
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - ...
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - ...
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Police Reform and Social Responsibility Act 2011 (c. 13)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Local Government Byelaws (Wales) Act 2012 (anaw 2)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Repeals
+- SCHEDULE 3 Index of defined expressions
