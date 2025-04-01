@@ -1,0 +1,316 @@
+# Local Government (Wales) Measure 2011
+
+mwa/2011/4. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/mwa/2011/4
+
+Source: https://www.legislation.gov.uk/mwa/2011/4/2025-04-01
+
+## Contents
+
+- PART 1 STRENGTHENING LOCAL DEMOCRACY
+  - CHAPTER 1 PROMOTING AND SUPPORTING MEMBERSHIP OF LOCAL AUTHORITIES
+    - Survey of councillors and unsuccessful candidates for election as councillors
+      - [s. 1 Duty to conduct a survey](section/1.md)
+      - [s. 2 Completion of a survey and publication of information](section/2.md)
+      - [s. 3 Guidance about surveys](section/3.md)
+      - [s. 3A Publication of directions about surveys](section/3A.md)
+    - Supporting membership
+      - [s. 4 Remote attendance at meetings](section/4.md)
+      - [s. 5 Annual reports by members of a local authority](section/5.md)
+      - [s. 6 Timing of council meetings](section/6.md)
+      - [s. 7 Training and development of members of a local authority](section/7.md)
+  - CHAPTER 2 LOCAL AUTHORITY DEMOCRATIC SERVICES
+    - [s. 8 Head of democratic services](section/8.md)
+    - [s. 9 Democratic services functions](section/9.md)
+    - [s. 10 Duty to adopt standing orders about management of staff](section/10.md)
+    - [s. 11 Local authorities to appoint democratic services committees](section/11.md)
+    - [s. 11A Reviews at request of a local authority](section/11A.md)
+    - [s. 12 Membership](section/12.md)
+    - [s. 13 Sub-committees](section/13.md)
+    - [s. 14 Proceedings etc](section/14.md)
+    - [s. 15 Frequency of meetings](section/15.md)
+    - [s. 16 Discharging functions](section/16.md)
+    - [s. 17 Termination of membership on ceasing to be member of authority](section/17.md)
+    - [s. 18 Reports and recommendations by head of democratic services](section/18.md)
+    - [s. 19 Reports and recommendations by democratic services committees](section/19.md)
+    - [s. 20 Local authority functions not to be delegated](section/20.md)
+    - [s. 21 Head of democratic services to be a politically restricted post](section/21.md)
+  - CHAPTER 3 INTERPRETATION
+    - [s. 22 Meaning of “member”](section/22.md)
+- PART 2 FAMILY ABSENCE FOR MEMBERS OF LOCAL AUTHORITIES
+  - [s. 23 Right to family absence](section/23.md)
+  - [s. 24 Maternity absence](section/24.md)
+  - [s. 25 Newborn absence](section/25.md)
+  - [s. 26 Adopter’s absence](section/26.md)
+  - [s. 27 New adoption absence](section/27.md)
+  - [s. 28 Parental absence](section/28.md)
+  - [s. 29 Regulations: supplemental](section/29.md)
+  - [s. 30 Guidance](section/30.md)
+  - [s. 31 Amendment of Local Government Act 1972](section/31.md)
+  - [s. 32 Amendment of Local Government Act 2000](section/32.md)
+  - [s. 33 Interpretation of Part 2](section/33.md)
+- PART 3 AVAILABLE GOVERNANCE ARRANGEMENTS
+  - Mayor and council manager executive
+    - [s. 34 Abolition of mayor and council manager executive](section/34.md)
+  - Alternative arrangements
+    - [s. 35 Authorities to replace alternative arrangements with executive arrangements](section/35.md)
+    - [s. 36 Consequential provision etc](section/36.md)
+- PART 4 CHANGES TO EXECUTIVE ARRANGEMENTS
+  - CHAPTER 1 ADOPTING A DIFFERENT FORM OF EXECUTIVE
+    - General provisions
+      - [s. 37 Power to adopt a different form of executive](section/37.md)
+      - [s. 38 Proposals for adopting a different form of executive](section/38.md)
+      - [s. 39 Contents of proposals](section/39.md)
+      - [s. 40 Referendums](section/40.md)
+      - [s. 41 Timetable for implementation of proposals: no referendum](section/41.md)
+      - [s. 42 Timetable for implementation of proposals: referendum](section/42.md)
+      - [s. 43 Publicity for proposals](section/43.md)
+      - [s. 44 Implementing proposals](section/44.md)
+      - [s. 45 Action if referendum rejects change](section/45.md)
+    - Interpretation
+      - [s. 46 Changes of executive arrangements requiring approval in a referendum](section/46.md)
+      - [s. 47 Interpretation](section/47.md)
+  - CHAPTER 2 OTHER VARIATIONS OF EXISTING EXECUTIVE ARRANGEMENTS
+    - [s. 48 Power to vary the existing form of executive](section/48.md)
+    - [s. 49 Proposals for varying the form of executive](section/49.md)
+    - [s. 50 Contents of proposals](section/50.md)
+    - [s. 51 Implementing proposals](section/51.md)
+  - CHAPTER 3 SUPPLEMENTARY
+    - [s. 52 Powers under which executive arrangements may be varied](section/52.md)
+    - [s. 53 Forms of executive](section/53.md)
+    - [s. 54 Consequential provision etc](section/54.md)
+- PART 5 LOCAL AUTHORITY FUNCTIONS: DISCHARGE BY COMMITTEES AND COUNCILLORS
+  - Area committees
+    - [s. 55 Area covered and membership](section/55.md)
+  - Exercise of functions by councillors
+    - [s. 56 Exercise of functions by councillors](section/56.md)
+    - [s. 57 Consequential provision](section/57.md)
+- PART 6 OVERVIEW AND SCRUTINY
+  - CHAPTER 1 OVERVIEW AND SCRUTINY COMMITTEES
+    - Joint overview and scrutiny committees
+      - [s. 58 Joint overview and scrutiny committees](section/58.md)
+    - Powers of committees
+      - [s. 59 Scrutinising designated persons](section/59.md)
+      - [s. 60 Notifying designated persons of report or recommendations](section/60.md)
+      - [s. 61 Designated persons](section/61.md)
+    - Taking into account the views of the public
+      - [s. 62 Taking into account the views of the public](section/62.md)
+    - Powers of councillors
+      - [s. 63 Reference of matters to overview and scrutiny committee etc](section/63.md)
+    - Duty to respond to overview and scrutiny committee
+      - [s. 64 Duty to respond to overview and scrutiny committee](section/64.md)
+    - Provision consequential on sections 63 and 64
+      - [s. 65 Provision consequential on sections 63 and 64](section/65.md)
+    - Appointing persons to chair committees
+      - [s. 66 Provision in standing orders about appointment of persons to chair committees](section/66.md)
+      - [s. 67 When appointments to be made by committee](section/67.md)
+      - [s. 68 When appointments to be made by non-executive group](section/68.md)
+      - [s. 69 How appointments to be made in other cases](section/69.md)
+      - [s. 70 Appointments to be made by political groups](section/70.md)
+      - [s. 71 Failure to make appointments in accordance with section 70](section/71.md)
+      - [s. 72 Changes in composition of executive](section/72.md)
+      - [s. 73 Occasional vacancies in committee chairs](section/73.md)
+      - [s. 74 Appointment provision determined by authority](section/74.md)
+      - [s. 75 Supplementary provision and interpretation](section/75.md)
+    - Co-opted members of overview and scrutiny committees
+      - [s. 76 Guidance and directions about co-option](section/76.md)
+    - Provision of information
+      - [s. 77 Forward plans and other information](section/77.md)
+    - Restricting party control of committees
+      - [s. 78 Prohibition of whipped votes & declaration of party whips](section/78.md)
+    - Overview and scrutiny committee structure
+      - [s. 79 Guidance and directions](section/79.md)
+    - Interpretation
+      - [s. 80 Interpretation of this Chapter](section/80.md)
+  - CHAPTER 2 GOVERNANCE AND AUDIT COMMITTEES
+    - [s. 81 Local authorities to appoint governance and audit committees](section/81.md)
+    - [s. 82 Membership](section/82.md)
+    - [s. 83 Proceedings etc](section/83.md)
+    - [s. 84 Frequency of meetings](section/84.md)
+    - [s. 85 Guidance](section/85.md)
+    - [s. 86 Termination of membership on ceasing to be member of authority](section/86.md)
+    - [s. 87 Interpretation etc](section/87.md)
+- PART 7 COMMUNITIES AND COMMUNITY COUNCILS
+  - CHAPTER 1 COMMUNITY MEETINGS AND COMMUNITY POLLS
+    - [s. 88 Convening of community meetings by local government electors](section/88.md)
+    - [s. 89 Notice of community meeting convened by local government electors](section/89.md)
+    - [s. 90 Facility for the provision of electronic notices of the convening of community meetings](section/90.md)
+    - [s. 91 Action following receipt of notice of the convening of a community meeting](section/91.md)
+    - [s. 92 Public notice of community meeting](section/92.md)
+    - [s. 93 Demands for community polls](section/93.md)
+    - [s. 94 Notice to be given by returning officer following taking of a poll consequent on a community meeting](section/94.md)
+    - [s. 95 Determination of monitoring officer as to the council to whose functions a poll relates](section/95.md)
+    - [s. 96 Consideration of result of community poll by community council](section/96.md)
+    - [s. 97 Action to be taken following community council’s consideration of results of certain community polls](section/97.md)
+    - [s. 98 Consideration of result of community poll by principal council](section/98.md)
+    - [s. 99 Principal council’s explanation of its response to a community poll](section/99.md)
+  - CHAPTER 2 ORGANISATION OF COMMUNITIES AND THEIR COUNCILS
+    - [s. 100 Repeal of existing provisions about establishment and dissolution of community councils etc](section/100.md)
+    - [s. 101 Power of community meeting to apply for an order establishing a community council](section/101.md)
+    - [s. 102 Orders establishing separate community councils for communities](section/102.md)
+    - [s. 103 Power of community meeting to apply for an order dissolving its separate community council](section/103.md)
+    - [s. 104 Orders dissolving separate community councils for communities](section/104.md)
+    - [s. 105 Power of community meeting to apply for an order grouping its community with other communities under a common community council](section/105.md)
+    - [s. 106 Orders grouping a community with other communities under a common community council](section/106.md)
+    - [s. 107 Power of community meeting to apply for an order adding its community to a group of communities with a common council](section/107.md)
+    - [s. 108 Orders adding a community to a group of communities with a common council](section/108.md)
+    - [s. 109 Power of council for a group of communities to apply for an order dissolving the group](section/109.md)
+    - [s. 110 Orders dissolving a group of communities](section/110.md)
+    - [s. 111 Power of community meeting to apply for order separating community from a group of communities](section/111.md)
+    - [s. 112 Orders separating a community from a group of communities](section/112.md)
+    - [s. 113 Power of Welsh Ministers to alter voting threshold in connection with organisation of community councils](section/113.md)
+    - [s. 114 Organisation of communities and their councils: consequential amendments](section/114.md)
+    - [s. 115 Transitional provision](section/115.md)
+  - CHAPTER 3 CO-OPTION OF MEMBERS OF COMMUNITY COUNCILS
+    - [s. 116 Requirement of public notice where vacancies in community council membership are to be filled by co-option](section/116.md)
+    - [s. 117 Guidance about giving public notice of co-option](section/117.md)
+  - CHAPTER 4 APPOINTMENT OF COMMUNITY YOUTH REPRESENTATIVES
+    - [s. 118 Appointment of community youth representatives by community councils](section/118.md)
+    - [s. 119 Notice requirements in connection with youth representative appointments](section/119.md)
+    - [s. 120 Guidance about appointment of community youth representatives](section/120.md)
+    - [s. 121 Effect of appointment as a community youth representative](section/121.md)
+  - CHAPTER 5 REVIEWS OF COMMUNITY AREAS AND ELECTORAL ARRANGEMENTS
+    - [s. 122 Reports about discharge of a principal council’s function of keeping community areas under review](section/122.md)
+    - [s. 123 Reports about discharge of a principal council’s function of keeping electoral arrangements for communities under review](section/123.md)
+    - [s. 124 Exercise of functions by the Local Government Boundary Commission for Wales on behalf of principal councils](section/124.md)
+    - [s. 125 Sums payable in respect of reviews carried out by the Local Government Boundary Commission for Wales](section/125.md)
+  - CHAPTER 6 COMMUNITY COUNCILS’ POWERS TO PROMOTE WELL-BEING
+    - [s. 126 Community councils’ powers to promote well-being](section/126.md)
+    - [s. 127 Modifications of enactments preventing or obstructing a community council from exercising their well-being power](section/127.md)
+    - [s. 128 Transitional provision](section/128.md)
+  - CHAPTER 7 GRANTS TO COMMUNITY COUNCILS
+    - [s. 129 Welsh Ministers’ power to pay grant to community councils](section/129.md)
+  - CHAPTER 8 MODEL CHARTER AGREEMENTS BETWEEN LOCAL AUTHORITIES AND COMMUNITY COUNCILS
+    - [s. 130 Power to set out model charter agreement](section/130.md)
+    - [s. 131 Directions requiring the adoption of model charter agreements](section/131.md)
+    - [s. 132 Guidance about model charter agreements](section/132.md)
+    - [s. 133 Consultation](section/133.md)
+  - CHAPTER 9 SCHEMES FOR THE ACCREDITATION OF QUALITY IN COMMUNITY GOVERNMENT
+    - [s. 134 Schemes for the accreditation of quality in community government](section/134.md)
+    - [s. 135 Accreditation of quality in community government: criteria](section/135.md)
+    - [s. 136 Accreditation of quality in community government: applications](section/136.md)
+    - [s. 137 Accreditation of quality in community government: fees](section/137.md)
+    - [s. 138 Accreditation of quality in community government: removal of accreditation](section/138.md)
+    - [s. 139 Applications for accreditation of quality in community government: delegation of functions](section/139.md)
+    - [s. 140 Accreditation of quality in community government: consequences](section/140.md)
+- PART 8 ...PAYMENTS AND PENSIONS
+  - The Independent Remuneration Panel for Wales
+    - [s. 141 The Panel](section/141.md)
+  - Principal functions of the Panel
+    - [s. 142 Functions relating to payments to members](section/142.md)
+    - [s. 143 Functions relating to members’ pensions](section/143.md)
+    - [s. 143A Functions relating to remuneration of chief executives](section/143A.md)
+    - [s. 144 Relevant authorities, members etc.](section/144.md)
+  - Reports by the Panel
+    - [s. 145 Annual reports](section/145.md)
+    - [s. 146 First annual report](section/146.md)
+    - [s. 147 Subsequent annual reports](section/147.md)
+    - [s. 148 Consultation on draft reports](section/148.md)
+    - [s. 149 Directions to vary draft reports](section/149.md)
+    - [s. 150 Administrative requirements in reports](section/150.md)
+    - [s. 151 Publicity requirements in reports](section/151.md)
+    - [s. 152 Publicising reports](section/152.md)
+  - Payments by relevant authorities
+    - [s. 153 Compliance with Panel’s requirements](section/153.md)
+    - [s. 154 Members wishing to forgo payments](section/154.md)
+    - [s. 155 Withholding payments](section/155.md)
+  - Enforcement
+    - [s. 156 Directions to comply with requirements](section/156.md)
+  - Supplementary
+    - [s. 157 Guidance](section/157.md)
+    - [s. 158 Power to modify provision about Panel](section/158.md)
+    - [s. 159 Interpretation of Part 8](section/159.md)
+    - [s. 160 Consequential amendments](section/160.md)
+- PART 9 COLLABORATION AND AMALGAMATION
+  - CHAPTER 1 COLLABORATION
+    - [s. 161 Guidance about collaboration between Welsh improvement authorities](section/161.md)
+  - CHAPTER 2 AMALGAMATION
+    - [s. 162 Power to make amalgamation order](section/162.md)
+    - [s. 163 Electoral matters](section/163.md)
+    - [s. 164 Requirement to hold a referendum involving an elected mayor](section/164.md)
+    - [s. 165 Power to direct a referendum involving an elected mayor](section/165.md)
+    - [s. 166 Supplementary, incidental, consequential, transitional and saving provision](section/166.md)
+    - [s. 167 Review of electoral arrangements](section/167.md)
+    - [s. 168 Amendments to the Local Government Act 1972](section/168.md)
+    - [s. 169 Procedure applicable to an amalgamation order](section/169.md)
+    - [s. 170 Correction of orders](section/170.md)
+    - [s. 171 Interpretation of this Chapter](section/171.md)
+- PART 10 GENERAL
+  - [s. 172 Orders and regulations](section/172.md)
+  - [s. 173 Procedure applicable to certain orders under section 127](section/173.md)
+  - [s. 174 Guidance and directions](section/174.md)
+  - [s. 175 Interpretation](section/175.md)
+  - [s. 176 Consequential amendments and repeals](section/176.md)
+  - [s. 177 Power to make supplementary provision](section/177.md)
+  - [s. 178 Commencement](section/178.md)
+  - [s. 179 Short title](section/179.md)
+- SCHEDULE 1 CHANGE FROM ALTERNATIVE TO EXECUTIVE ARRANGEMENTS
+  - PART 1 GENERAL PROVISIONS
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Proposals for moving to executive arrangements
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Contents of proposals
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Referendums
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Timetable for implementation of change to leader and cabinet executive (Wales)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Timetable for implementation of change to mayor and cabinet executive
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Publicity for proposals
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Implementing proposals
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - PART 2 OTHER PROVISIONS APPLICABLE WHERE REFERENDUM REQUIRED
+    - Outline fall-back proposals in case referendum rejects change
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Action if referendum rejects change
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Timetable for implementation of detailed fall-back proposals
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Implementing detailed fall-back proposals
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - PART 3 MISCELLANEOUS
+    - Failure to cease operating alternative arrangements
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Arrangements to be treated as operated after passing of resolution
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Interpretation
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 THE PANEL
+  - Membership
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Tenure
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Meetings
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Information
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Expenses, administrative support etc.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 PAYMENTS AND PENSIONS: MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Local Government Act 1972
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Local Government and Housing Act 1989
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Environment Act 1995
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - School Standards and Framework Act 1998
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Local Government Act 2000
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Education Act 2002
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Education and Skills Act 2008
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 REPEALS AND REVOCATIONS
+  - PART A: STRENGTHENING LOCAL DEMOCRACY (PART 1 OF THE MEASURE)
+  - PART B: AVAILABLE GOVERNANCE ARRANGEMENTS (PART 3 OF THE MEASURE)
+  - PART C: CHANGES TO EXECUTIVE ARRANGEMENTS (PART 4 OF THE MEASURE)
+  - PART D: OVERVIEW AND SCRUTINY (PART 6 OF THE MEASURE)
+  - PART E: COMMUNITIES AND COMMUNITY COUNCILS (PART 7 OF THE MEASURE)
+  - PART F: MEMBERS: PAYMENTS AND PENSIONS (PART 8 OF THE MEASURE)
