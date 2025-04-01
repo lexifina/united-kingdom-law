@@ -1,0 +1,170 @@
+# Requirements of Writing (Scotland) Act 1995
+
+1995 c. 7. Enacted 1995-05-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/7
+
+Source: https://www.legislation.gov.uk/ukpga/1995/7/2025-04-01
+
+## Contents
+
+- Part 1 When writing is required
+  - [s. 1 Writing required for certain contracts, obligations, trusts, conveyances and wills.](section/1.md)
+- Part 2 Traditional documents
+  - [s. 1A Application of Part 2](section/1A.md)
+  - [s. 2 Type of writing required for formal validity of certain traditional documents.](section/2.md)
+  - [s. 2A Formalities of execution of electronic documents](section/2A.md)
+  - [s. 2B Directions by the Keeper of the Registers of Scotland](section/2B.md)
+  - [s. 2C Authentication of an electronic document by a person granting in more than one capacity](section/2C.md)
+  - [s. 3 Presumption as to granter’s subscription or date or place of subscription.](section/3.md)
+  - [s. 3A Presumption as to the authentication of electronic documents](section/3A.md)
+  - [s. 4 Presumption as to granter’s subscription or date or place of subscription when established in court proceedings.](section/4.md)
+  - [s. 5 Alterations to traditional documents: formal validity and presumptions.](section/5.md)
+  - [s. 6 Registration of traditional documents.](section/6.md)
+  - [s. 6A Registration for preservation and execution of electronic standard securities](section/6A.md)
+  - [s. 7 Subscription and signing.](section/7.md)
+  - [s. 8 Annexations to traditional documents.](section/8.md)
+  - [s. 9 Subscription on behalf of blind granter or granter unable to write.](section/9.md)
+- Part 3 Electronic documents
+  - [s. 9A Application of Part 3](section/9A.md)
+  - [s. 9B Validity of electronic documents](section/9B.md)
+  - [s. 9C Presumption as to authentication of electronic documents](section/9C.md)
+  - [s. 9D Presumptions as to granter’s authentication etc. when established in court proceedings](section/9D.md)
+  - [s. 9E Further provision by Scottish Ministers about electronic documents](section/9E.md)
+  - [s. 9F Delivery of electronic documents](section/9F.md)
+  - [s. 9G Registration and recording of electronic documents](section/9G.md)
+- Part 4 General provisions
+  - [s. 10 Forms of testing clause.](section/10.md)
+  - [s. 10A Disapplication of physical presence requirements](section/10A.md)
+  - [s. 11 Abolition of proof by writ or oath, reference to oath and other common law rules.](section/11.md)
+  - [s. 12 Interpretation.](section/12.md)
+  - [s. 13 Application of Act to Crown.](section/13.md)
+  - [s. 14 Minor and consequential amendments, repeals, transitional provisions and savings.](section/14.md)
+  - [s. 15 Short title, commencement and extent.](section/15.md)
+- SCHEDULE 1 Alterations Made to a traditional document After it has been Subscribed
+  - Presumption as to granter’s signature or date or place of signing
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Presumption as to granter’s signature or date or place of signing when established in court proceedings
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Subscription and Signing: Special Cases
+  - General
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Partnerships
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Companies
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Limited Liability Partnerships
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - Local authorities
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Other bodies corporate
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Ministers of the Crown and office-holders
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Modifications of This Act in Relation to Subscription or Signing by Relevant Person under Section 9
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - General adaptation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Specific enactments
+  - Lands Clauses Consolidation (Scotland) Act 1845
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Infeftment Act 1845
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Commissioners Clauses Act 1847
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Entail Amendment Act 1848
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Ordnance Board Transfer Act 1855
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Registration of Leases (Scotland) Act 1857
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Transmission of Moveable Property (Scotland) Act 1862
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Titles to Land Consolidation (Scotland) Act 1868
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Conveyancing (Scotland) Act 1874
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - Colonial Stock Act 1877
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Colonial Stock Act 1892
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - Feudal Casualties (Scotland) Act 1914
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Trusts (Scotland) Act 1921
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - Conveyancing (Scotland) Act 1924
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - Long Leases (Scotland) Act 1954
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+  - Succession (Scotland) Act 1964
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - Industrial and Provident Societies Act 1965
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+  - Conveyancing and Feudal Reform (Scotland) Act 1970
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+  - Petroleum and Submarine Pipe-lines Act 1975
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+  - Patents Act 1977
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+  - Oil and Gas (Enterprise) Act 1982
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+  - Companies Act 1985
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+  - Companies Consolidation (Consequential Provisions) Act 1985
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+  - Insolvency Act 1986
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+  - Housing (Scotland) Act 1987
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+- SCHEDULE 5 Repeals
