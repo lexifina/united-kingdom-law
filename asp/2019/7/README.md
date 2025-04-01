@@ -1,0 +1,132 @@
+# Age of Criminal Responsibility (Scotland) Act 2019
+
+asp/2019/7. Enacted 2019-06-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2019/7
+
+Source: https://www.legislation.gov.uk/asp/2019/7/2025-04-01
+
+## Contents
+
+- PART 1 AGE OF CRIMINAL RESPONSIBILITY
+  - [s. 1 Raising the age of criminal responsibility](section/1.md)
+  - [s. 2 Raising the age of criminal responsibility: consequential repeal and saving](section/2.md)
+  - [s. 3 No referral of child under 12 to children’s hearing on offence ground](section/3.md)
+- PART 2 DISCLOSURE OF CONVICTIONS AND OTHER INFORMATION RELATING TO TIME WHEN PERSON UNDER 12
+  - CHAPTER 1 DISCLOSURE OF CONVICTIONS ETC.
+    - Pre-12 convictions etc. not be treated as convictions
+      - [s. 4 Amendment of the Rehabilitation of Offenders Act 1974](section/4.md)
+    - Disclosure of information about relevant behaviour
+      - [s. 5 Disclosure of information about convictions etc. relating to time when person under 12](section/5.md)
+      - [s. 6 Disclosure of information about relevant behaviour: judicial proceedings](section/6.md)
+      - [s. 7 Disclosure of information about relevant behaviour: non-judicial proceedings](section/7.md)
+      - [s. 8 Disapplication of sections 6 and 7](section/8.md)
+      - [s. 9 Further limitations on sections 6 and 7](section/9.md)
+  - CHAPTER 2 INDEPENDENT REVIEW OF DISCLOSURE OF INFORMATION
+    - Limitation on disclosure of information
+      - [s. 10 Disclosure of information relating to time when person under 12](section/10.md)
+    - Appointment of independent reviewer
+      - [s. 11 Independent reviewer](section/11.md)
+      - [s. 12 Period and terms of appointment](section/12.md)
+      - [s. 13 Administrative support](section/13.md)
+    - Review of information prior to disclosure
+      - [s. 14 Referral of information to independent reviewer](section/14.md)
+      - [s. 15 Notification of referral under section 14](section/15.md)
+      - [s. 16 Notification to applicant or scheme member](section/16.md)
+      - [s. 17 Provision of information to the independent reviewer](section/17.md)
+      - [s. 18 Review of referred information](section/18.md)
+      - [s. 19 Notification of determination](section/19.md)
+      - [s. 20 Appeal against determination under section 18](section/20.md)
+      - [s. 20A Removal of information from scheme record following review or appeal](section/20A.md)
+    - General functions of independent reviewer
+      - [s. 21 Annual report and recommendations](section/21.md)
+      - [s. 22 Guidance](section/22.md)
+      - [s. 23 Regulation of procedure for review](section/23.md)
+      - [s. 24 Modifications of the functions of the independent reviewer](section/24.md)
+  - CHAPTER 3 GENERAL PROVISIONS
+    - [s. 25 Amendments consequential on Chapter 2](section/25.md)
+    - [s. 26 Interpretation of Part 2](section/26.md)
+- PART 3 VICTIM INFORMATION
+  - [s. 27 Provision of information to persons affected by child’s behaviour](section/27.md)
+- PART 4 POLICE INVESTIGATORY AND OTHER POWERS
+  - CHAPTER 1 EMERGENCY PLACE OF SAFETY
+    - [s. 28 Power to take child under 12 to place of safety](section/28.md)
+    - [s. 29 List of places of safety](section/29.md)
+    - [s. 30 Place of safety: regulations](section/30.md)
+    - [s. 31 Guidance](section/31.md)
+    - [s. 32 Reports on use of places of safety](section/32.md)
+  - CHAPTER 2 SEARCH OF CHILDREN UNDER 12
+    - Search without warrant
+      - [s. 33 Search of child under 12 without warrant under existing enactment](section/33.md)
+    - Search under order
+      - [s. 34 Application for order authorising search in relation to child under 12](section/34.md)
+      - [s. 35 Consideration of application for order under section 36](section/35.md)
+      - [s. 36 Order authorising search in relation to child under 12](section/36.md)
+      - [s. 37 Notification of order under section 36](section/37.md)
+      - [s. 38 Appeal against decision under section 36](section/38.md)
+  - CHAPTER 3 QUESTIONING OF CERTAIN CHILDREN
+    - Limitation on police questioning
+      - [s. 39 Limitation on police questioning of certain children](section/39.md)
+    - Investigative interview by agreement
+      - [s. 40 Investigative interview by agreement](section/40.md)
+      - [s. 41 Information to be provided following agreement to investigative interview](section/41.md)
+    - Child interview order
+      - [s. 42 Application for child interview order](section/42.md)
+      - [s. 43 Consideration of application for child interview order](section/43.md)
+      - [s. 44 Child interview order](section/44.md)
+      - [s. 45 Notification of child interview order](section/45.md)
+      - [s. 46 Appeal against decision under section 44](section/46.md)
+    - Planning and conduct of investigative interviews
+      - [s. 47 Planning of investigative interview](section/47.md)
+      - [s. 48 Conduct of investigative interview](section/48.md)
+      - [s. 49 Right not to answer questions](section/49.md)
+      - [s. 50 Right to have supporter present](section/50.md)
+      - [s. 51 Right to have child interview rights practitioner present](section/51.md)
+      - [s. 52 Child not to be questioned while unaccompanied](section/52.md)
+      - [s. 53 Information to be provided to child](section/53.md)
+    - Questioning in urgent cases
+      - [s. 54 Questioning of child in urgent cases](section/54.md)
+      - [s. 55 Procedure following authorisation of questioning under section 54](section/55.md)
+    - Register of child interview rights practitioners
+      - [s. 56 Register of child interview rights practitioners](section/56.md)
+    - Guidance
+      - [s. 57 Guidance](section/57.md)
+  - CHAPTER 4 TAKING OF PRINTS AND SAMPLES FROM CERTAIN CHILDREN
+    - Limitation on taking of prints and samples
+      - [s. 58 Limitation on taking prints and samples from children under 12](section/58.md)
+      - [s. 59 Limitation on taking prints and samples from children aged 12 and over](section/59.md)
+      - [s. 60 Key definitions](section/60.md)
+    - Order authorising taking of prints and samples
+      - [s. 61 Application for order authorising taking of prints and samples from child](section/61.md)
+      - [s. 62 Consideration by sheriff of application for order under section 63](section/62.md)
+      - [s. 63 Order authorising taking of prints and samples from child](section/63.md)
+      - [s. 64 Notification of order under section 63](section/64.md)
+      - [s. 65 Taking of intimate samples](section/65.md)
+      - [s. 66 Destruction of prints and samples taken under section 63](section/66.md)
+      - [s. 67 Appeal against decision under section 63](section/67.md)
+      - [s. 68 Treatment of prints and samples where appeal taken against making of order under section 63](section/68.md)
+    - Taking of prints and samples in urgent cases
+      - [s. 69 Taking of prints and samples in urgent cases](section/69.md)
+      - [s. 70 Procedure following taking of prints and samples under section 69](section/70.md)
+    - Destruction of prints and samples taken with consent
+      - [s. 71 Destruction of prints and samples taken from children aged 12 and over with consent](section/71.md)
+  - CHAPTER 5 GENERAL PROVISIONS
+    - [s. 72 Wellbeing of child](section/72.md)
+    - [s. 73 Children’s legal aid for proceedings under this Part](section/73.md)
+    - [s. 74 Additional powers and duties of constables](section/74.md)
+    - [s. 75 Offences](section/75.md)
+    - [s. 76 Interpretation of Part 4](section/76.md)
+- PART 5 CHILDREN’S HEARINGS: DUTY TO CONSIDER NEED FOR FURTHER REPORTS
+  - [s. 77 Children’s hearings: duty to consider need for further reports](section/77.md)
+- PART 6 REVIEW OF AGE OF CRIMINAL RESPONSIBILITY
+  - [s. 78 Review of age of criminal responsibility](section/78.md)
+  - [s. 79 Provision of information](section/79.md)
+- PART 7 FINAL PROVISIONS
+  - [s. 80 Interpretation](section/80.md)
+  - [s. 81 Civil jurisdiction of summary sheriffs](section/81.md)
+  - [s. 82 Regulation-making powers](section/82.md)
+  - [s. 83 Ancillary provision](section/83.md)
+  - [s. 84 Commencement](section/84.md)
+  - [s. 85 Short title](section/85.md)
