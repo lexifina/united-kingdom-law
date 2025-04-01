@@ -1,0 +1,184 @@
+# Moveable Transactions (Scotland) Act 2023
+
+asp/2023/3. Enacted 2023-06-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2023/3/2025-04-01
+
+## Contents
+
+- Part 1 Assignation
+  - Chapter 1 Assignation of claims, protection of debtors and related matters
+    - Assignation of claims
+      - [s. 1 Assignation of claims: general](section/1.md)
+      - [s. 2 Assignation of claim subject to a condition](section/2.md)
+      - [s. 3 Transfer of claims](section/3.md)
+      - [s. 4 Assignation of claims: insolvency](section/4.md)
+      - [s. 5 Assignation in part](section/5.md)
+      - [s. 6 Limitations as to assignability: general](section/6.md)
+      - [s. 7 Claim in respect of wages or salary](section/7.md)
+      - [s. 8 Intimation of the assignation of a claim](section/8.md)
+      - [s. 9 Warrandice implied in the assignation of a claim](section/9.md)
+    - Protection of debtors
+      - [s. 10 Protection of debtor who performs in good faith](section/10.md)
+      - [s. 11 Further provision as to protection of debtor](section/11.md)
+      - [s. 12 Performance in good faith where claim assigned cannot be transferred by intimation](section/12.md)
+      - [s. 13 Performance in good faith where claim assigned subject to condition](section/13.md)
+      - [s. 14 Asserting defence or right of compensation](section/14.md)
+      - [s. 15 Right to withhold performance until information as to assignation is provided](section/15.md)
+    - Accessory security rights
+      - [s. 16 Accessory security rights](section/16.md)
+    - Abolition of certain rules of law
+      - [s. 17 Abolition of certain rules of law](section/17.md)
+    - Saving
+      - [s. 18 Saving as respects International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015](section/18.md)
+  - Chapter 2 Register of Assignations
+    - Register of Assignations
+      - [s. 19 The Register of Assignations](section/19.md)
+    - Structure and contents of the register
+      - [s. 20 The parts of the register](section/20.md)
+      - [s. 21 The assignations record](section/21.md)
+      - [s. 22 The archive record](section/22.md)
+    - Registration process
+      - [s. 23 Application for registration](section/23.md)
+      - [s. 24 Application for registration where claims assigned to different assignees](section/24.md)
+      - [s. 25 Registration](section/25.md)
+      - [s. 26 Verification statement](section/26.md)
+    - Effective registration
+      - [s. 27 Effective registration of assignation document](section/27.md)
+      - [s. 28 Seriously misleading inaccuracies in the assignations record](section/28.md)
+    - Corrections
+      - [s. 29 Correction of the assignations record](section/29.md)
+      - [s. 30 Correction of the assignations record: procedure](section/30.md)
+      - [s. 31 Proceedings involving the accuracy of the assignations record](section/31.md)
+      - [s. 32 Power to make provision about applications for corrections](section/32.md)
+    - Searches and extracts
+      - [s. 33 Searching the assignations record](section/33.md)
+      - [s. 34 Admissibility and evidential status of search results](section/34.md)
+      - [s. 35 Extracts and their evidential status](section/35.md)
+    - Requests for information
+      - [s. 36 Assignee’s duty to respond to request for information](section/36.md)
+    - Entitlement to compensation
+      - [s. 37 Liability of Keeper](section/37.md)
+      - [s. 38 Liability of certain other persons](section/38.md)
+    - Rules
+      - [s. 39 Rules](section/39.md)
+  - Chapter 3 Miscellaneous and interpretation of Part 1
+    - Miscellaneous
+      - [s. 40 Repeal of Transmission of Moveable Property (Scotland) Act 1862](section/40.md)
+    - Interpretation of Part 1
+      - [s. 41 Interpretation of Part 1](section/41.md)
+- Part 2 Security over Moveable Property
+  - Chapter 1 Pledge
+    - Pledge, secured obligation and encumbered property
+      - [s. 42 Pledge](section/42.md)
+      - [s. 43 Secured obligation and encumbered property](section/43.md)
+    - Possessory pledge
+      - [s. 44 Delivery](section/44.md)
+    - Statutory pledge
+      - [s. 45 Constitutive document](section/45.md)
+      - [s. 46 Competence of individual acting as provider of a statutory pledge](section/46.md)
+      - [s. 47 Competence of creating statutory pledge over certain kinds of property](section/47.md)
+      - [s. 48 Creation of statutory pledge by registration: general](section/48.md)
+      - [s. 49 Creation of statutory pledge over added property](section/49.md)
+      - [s. 50 Creation of statutory pledge: insolvency](section/50.md)
+    - Property encumbered by statutory pledge: effect of transfer by provider
+      - [s. 51 Property encumbered by statutory pledge: transfer by provider](section/51.md)
+      - [s. 52 Extinction of statutory pledge where dealings inconsistent with a fixed security](section/52.md)
+      - [s. 53 Acquisition in good faith from seller acting in ordinary course of business](section/53.md)
+      - [s. 54 Acquisition in good faith for personal, domestic or household purposes](section/54.md)
+      - [s. 55 Acquisition in good faith of motor vehicles](section/55.md)
+    - Rights relating to matrimonial or family home where relevant to a statutory pledge
+      - [s. 56 Occupancy and other rights in family home following grant of statutory pledge](section/56.md)
+    - Assignation, amendment, restriction or extinction of statutory pledge
+      - [s. 57 Assignation of statutory pledge](section/57.md)
+      - [s. 58 Amendment of statutory pledge](section/58.md)
+      - [s. 59 Restriction or discharge of statutory pledge](section/59.md)
+    - Ranking of pledges etc.
+      - [s. 60 Ranking](section/60.md)
+      - [s. 61 Amendment of Companies Act 1985 and Insolvency Act 1986](section/61.md)
+      - [s. 62 Effect of diligence on pledge](section/62.md)
+    - Enforcement of pledge
+      - [s. 63 The expression “pledge” in sections 64 to 77](section/63.md)
+      - [s. 64 Enforcement of pledge: general](section/64.md)
+      - [s. 65 Pledge enforcement notice](section/65.md)
+      - [s. 66 Whether court order required for enforcement](section/66.md)
+      - [s. 67 Secured creditor’s right to take possession of, or steps in relation to, corporeal property](section/67.md)
+      - [s. 68 Secured creditor’s right to sell](section/68.md)
+      - [s. 69 Sale: unencumbered acquisition](section/69.md)
+      - [s. 70 Secured creditor’s right to let](section/70.md)
+      - [s. 71 Secured creditor’s right to grant licence over intellectual property](section/71.md)
+      - [s. 72 Secured creditor’s right to protect and manage the property](section/72.md)
+      - [s. 73 Secured creditor’s right to appropriate](section/73.md)
+      - [s. 74 Appropriation with prior agreement](section/74.md)
+      - [s. 75 Appropriation without prior agreement](section/75.md)
+      - [s. 76 Appropriation: unencumbered acquisition](section/76.md)
+      - [s. 77 Application of proceeds from enforcement of pledge](section/77.md)
+      - [s. 78 Mandatory application for removal of an entry from the statutory pledges record](section/78.md)
+    - Liability for loss due to enforcement
+      - [s. 79 Liability for loss suffered by virtue of enforcement](section/79.md)
+    - Service of documents for purposes of this Chapter
+      - [s. 80 Service of documents for purposes of this Chapter](section/80.md)
+  - Chapter 2 Register of Statutory Pledges
+    - Register of Statutory Pledges
+      - [s. 81 The Register of Statutory Pledges](section/81.md)
+    - Structure and contents of the register
+      - [s. 82 The parts of the register](section/82.md)
+      - [s. 83 The statutory pledges record](section/83.md)
+      - [s. 84 The archive record](section/84.md)
+    - Registration process
+      - [s. 85 Order in which applications are to be dealt with](section/85.md)
+      - [s. 86 Application for registration of statutory pledge](section/86.md)
+      - [s. 87 Registration of statutory pledge](section/87.md)
+      - [s. 88 Application for registration of amendment](section/88.md)
+      - [s. 89 Registration of amendment](section/89.md)
+      - [s. 90 Verification statement as to registration of statutory pledge or amendment](section/90.md)
+    - Effective registration
+      - [s. 91 Effective registration of statutory pledge](section/91.md)
+      - [s. 92 Effective registration of amendment to statutory pledge](section/92.md)
+      - [s. 93 Supervening inaccuracies: protection of third parties](section/93.md)
+      - [s. 94 Seriously misleading inaccuracies in the statutory pledges record](section/94.md)
+    - Duration
+      - [s. 95 Power of Scottish Ministers in relation to duration of statutory pledge](section/95.md)
+    - Corrections
+      - [s. 96 Application by secured creditor for correction of statutory pledges record](section/96.md)
+      - [s. 97 Correction of record in response to application under section 96](section/97.md)
+      - [s. 98 Demand that application for correction be made under section 96](section/98.md)
+      - [s. 99 Response to application for correction under section 98(6)](section/99.md)
+      - [s. 100 Correction of the statutory pledges record at instance of the court or the Keeper](section/100.md)
+      - [s. 101 Meaning of “inaccuracy” and how a correction is made](section/101.md)
+      - [s. 102 Correction of the statutory pledges record: procedure](section/102.md)
+      - [s. 103 Proceedings involving the accuracy of the statutory pledges record](section/103.md)
+    - Searches and extracts
+      - [s. 104 Searching the statutory pledges record](section/104.md)
+      - [s. 105 Admissibility and evidential status of search results](section/105.md)
+      - [s. 106 Extracts and their evidential status](section/106.md)
+    - Requests for information
+      - [s. 107 Secured creditor’s duty to respond to request for information](section/107.md)
+      - [s. 108 Acquisition of property confirmed by creditor not to be encumbered property](section/108.md)
+    - Entitlement to compensation
+      - [s. 109 Liability of Keeper](section/109.md)
+      - [s. 110 Liability of certain other persons](section/110.md)
+    - Rules
+      - [s. 111 Rules](section/111.md)
+  - Chapter 3 Miscellaneous and Interpretation of Part 2
+    - Miscellaneous
+      - [s. 112 Competence of creating an agricultural charge](section/112.md)
+    - Interpretation of Part 2
+      - [s. 113 Interpretation of Part 2](section/113.md)
+- Part 3 Miscellaneous and General
+  - Computer system
+    - [s. 114 Automated computer system](section/114.md)
+  - Registration of electronic documents
+    - [s. 115 Competence of registration of electronic documents](section/115.md)
+  - Good faith
+    - [s. 116 Good faith](section/116.md)
+  - Review of the Act
+    - [s. 117 Review of Act](section/117.md)
+  - General
+    - [s. 118 Regulations](section/118.md)
+    - [s. 119 Ancillary provision](section/119.md)
+    - [s. 120 Interpretation of Act](section/120.md)
+    - [s. 121 Commencement](section/121.md)
+    - [s. 122 Short title](section/122.md)
