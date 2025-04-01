@@ -1,0 +1,130 @@
+# Transport Act (Northern Ireland) 1967
+
+apni/1967/37. Enacted 1967-12-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/apni/1967/37/2025-04-01
+
+## Contents
+
+- PART II CARRIAGE OF PASSENGERS BY ROAD
+  - Road service licences
+    - [s. 4 Grant of road service licences.](section/4.md)
+    - [s. 5 Particulars to be provided by applicants for road service licences.](section/5.md)
+    - [s. 6 Functions as to grant of road service licences.](section/6.md)
+    - [s. 6A Refusal of road service licence in certain cases.](section/6A.md)
+    - [s. 7 Conditions of road service licences.](section/7.md)
+    - [s. 7A Conditions as to matters required to be notified](section/7A.md)
+    - [s. 8 Duration of road service licences.](section/8.md)
+    - [s. 9 Fees for road service licences.](section/9.md)
+    - [s. 10 Revocation and suspension of road service licences.](section/10.md)
+    - [s. 10A Exemption from licensing requirements of certain motor vehicles used under permits.](section/10A.md)
+    - [s. 10B Permits in relation to buses used by educational and other bodies.](section/10B.md)
+    - [s. 10C Further provision with respect to permits under section 10B.](section/10C.md)
+    - [s. 10D Permits under section 10B: regulations.](section/10D.md)
+    - [s. 11 Powers to make grants to operators of road passenger transport services.](section/11.md)
+- PART III CARRIAGE OF GOODS BY ROAD
+  - Road freight operators’ licences
+    - [s. 14 Grant of operators’ licences.](section/14.md)
+    - [s. 15 Applications for operators’ licences.](section/15.md)
+    - [s. 15A Conditions of operators’ licences.](section/15A.md)
+    - [s. 16 Duration of, and fees for, operators’ licences.](section/16.md)
+  - Road freight vehicle licences
+    - [s. 17 Grant of vehicle licences.](section/17.md)
+    - [s. 18 Disqualifications for offences under s.17.](section/18.md)
+    - [s. 19 Applications for vehicle licences.](section/19.md)
+    - [s. 20 Conditions of vehicle licences.](section/20.md)
+    - [s. 21 Effect of vehicle licences.](section/21.md)
+    - [s. 22 Duration of vehicle licences.](section/22.md)
+    - [s. 23 Fees for vehicle licences.](section/23.md)
+    - [s. 25 Special provisions as to farmers and milk hauliers.](section/25.md)
+    - [s. 26 Licence, notice or mark to be affixed to and exhibited on certain vehicles.](section/26.md)
+    - [s. 27 Surrender of vehicle licences.](section/27.md)
+  - General provisions relating to operators’ or vehicle licences
+    - [s. 28 Functions as to grant of operators’ or vehicle licences.](section/28.md)
+    - [s. 28A Refusal of operators’ licences in certain cases.](section/28A.md)
+    - [s. 29 Suspension and revocation of operators’ or vehicle licences.](section/29.md)
+- PART IV GENERAL PROVISIONS RELATING TO LICENCES UNDER PARTS II AND III
+  - [s. 31 Records of licences.](section/31.md)
+  - [s. 32 Copies of licences.](section/32.md)
+  - [s. 33 Transfer of licences.](section/33.md)
+  - [s. 34 Forgery of licences.](section/34.md)
+  - [s. 35 False statements.](section/35.md)
+  - [s. 36 Disclosure of information.](section/36.md)
+  - [s. 37 Inspectors and powers of entry.](section/37.md)
+  - [s. 38 Obtaining of information etc. by inspectors.](section/38.md)
+  - [s. 39 Power to seize certain articles.](section/39.md)
+  - [s. 40 Obstruction of inspectors.](section/40.md)
+  - [s. 41 Authorisation of inspectors.](section/41.md)
+  - [s. 42 Functions of police.](section/42.md)
+  - [s. 43 Prosecutions.](section/43.md)
+  - [s. 45 Regulations for purposes of Parts II, III and IV.](section/45.md)
+  - [s. 46 Interpretation of “carriage for reward” for purposes of Part 2 and this Part.](section/46.md)
+  - [s. 46A Interpretation of certain expressions in Parts II and III.](section/46A.md)
+  - [s. 46B Good repute](section/46B.md)
+  - [s. 46C Financial standing of road freight and road passenger transport operators](section/46C.md)
+  - [s. 46D Professional competence of road passenger transport operators](section/46D.md)
+  - [s. 46E Professional competence of road freight operators](section/46E.md)
+  - [s. 46F Savings](section/46F.md)
+- PART V THE NORTHERN IRELAND TRANSPORT HOLDING COMPANY
+  - [s. 47 Establishment of the Northern Ireland Transport Holding Company.](section/47.md)
+  - [s. 48 General functions of the Holding Company.](section/48.md)
+  - [s. 49 Power to Minister to give directions as to policy and control by the Holding Company of its subsidiaries.](section/49.md)
+  - [s. 50 Surplus Funds of the Holding Company.](section/50.md)
+  - [s. 51 Borrowing powers of the Holding Company.](section/51.md)
+  - [s. 52 Accounts, audit and returns.](section/52.md)
+  - [s. 53 Supplemental provisions as to the Holding Company and its subsidiaries.](section/53.md)
+  - [s. 54 Pension schemes.](section/54.md)
+  - [s. 55 Provision of railway services.](section/55.md)
+  - [s. 56 Powers of the railway undertaking.](section/56.md)
+  - [s. 57 Power of railway undertaking to made byelaws.](section/57.md)
+  - [s. 59 Complaints as to inadequacy of railway services.](section/59.md)
+  - [s. 60 Discontinuance of railway services.](section/60.md)
+  - [s. 61 Abandonment of railway lines.](section/61.md)
+  - [s. 62 Powers of acquisition where railway diverted for road purposes.](section/62.md)
+  - [s. 63 Exchequer grants to meet capital expenditure of the railway undertaking.](section/63.md)
+  - [s. 64 Financial assistance by Holding Company to the railway undertaking.](section/64.md)
+  - [s. 65 Trespass on premises of the railway undertaking.](section/65.md)
+  - [s. 66 Safety arrangements at level crossings.](section/66.md)
+  - [s. 67 Supplemental provisions as to the railway undertaking.](section/67.md)
+- PART VA CONSTRUCTION OF RAILWAYS
+  - [s. 67A Construction of railways.](section/67A.md)
+  - [s. 67B Acquisition of land by Holding Company.](section/67B.md)
+  - [s. 67C Information as to ownership of premises.](section/67C.md)
+  - [s. 67D Power to enter land.](section/67D.md)
+  - [s. 67E Supplementary provisions relating to section 67D.](section/67E.md)
+  - [s. 67F Extinguishment of public rights of way.](section/67F.md)
+  - [s. 67G Diversion of navigable watercourses.](section/67G.md)
+  - [s. 67H Extinguishment of certain public rights over navigable waters and foreshore.](section/67H.md)
+  - [s. 67I Orders under sections 67A(2), 67G(1) and 67H.](section/67I.md)
+  - [s. 67J Incorporation of Railways Clauses Consolidation Act, 1845 and Railways Clauses Act, 1863.](section/67J.md)
+- PART VB PENALTY FARES ON BUSES AND TRAINS
+  - [s. 67K Operation of Schedule 1B.](section/67K.md)
+- PART VI DISTRIBUTION OF THE UNDERTAKING OF THE AUTHORITY
+  - [s. 68 Vesting of the Authority’s undertaking in the Holding Company](section/68.md)
+  - [s. 69 Transfer or letting of property of the Holding Company to the railway undertaking.](section/69.md)
+  - [s. 70 Supplementary provisions as to the letting of property by the Holding Company to the railway undertaking.](section/70.md)
+- PART VIII MISCELLANEOUS AND GENERAL
+  - [s. 75 Termination of Transport Tribunal.](section/75.md)
+  - [s. 75A Grants for transport facilities and services.](section/75A.md)
+  - [s. 78 Regulations.](section/78.md)
+  - [s. 80 Saving for powers of Minister of Transport, etc.](section/80.md)
+  - [s. 81 Interpretation.](section/81.md)
+  - [s. 83 Short title and commencement.](section/83.md)
+- SCHEDULE 1 THE NORTHERN IRELAND TRANSPORT HOLDING COMPANY
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 1A MODIFICATIONS OF ARTICLE 133(2) AND (4) OF, AND SCHEDULE 8 TO, THE ROADS (NORTHERN IRELAND) ORDER 1993 FOR THE PURPOSES OF SECTIONS 67A, 67G AND 67H
+  - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+- SCHEDULE 1B PROVISION FOR PENALTY FARES ON BUSES AND TRAINS
+  - [Sch. 1B para. 1 Liability to pay a penalty fare](schedule/1B/paragraph/1.md)
+  - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+  - [Sch. 1B para. 4 Amount of penalty fare, etc.](schedule/1B/paragraph/4.md)
+  - [Sch. 1B para. 5 Supplementary provisions](schedule/1B/paragraph/5.md)
+  - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+  - [Sch. 1B para. 7](schedule/1B/paragraph/7.md)
