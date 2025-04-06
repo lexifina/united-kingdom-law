@@ -1,0 +1,181 @@
+# Administration of Justice Act 1970
+
+1970 c. 31. Enacted 1970-05-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1970/31
+
+Source: https://www.legislation.gov.uk/ukpga/1970/31/2025-04-06
+
+## Contents
+
+- Part I Courts and Judges
+  - High Court
+    - [s. 1 Redistribution of business among divisions of the High Court.](section/1.md)
+    - [s. 2 Admiralty Court.](section/2.md)
+    - [s. 3 Commercial Court.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Court of Appeal
+    - [s. 9 ................................](section/9.md)
+  - Patents and Registered Designs Appeal Tribunals
+    - [s. 10 Temporary additional judges.](section/10.md)
+- Part II Enforcement of Debt
+  - Provisions restricting sanction of imprisonment
+    - [s. 11 Restriction on power of committal under Debtors Act 1869 (c. 62).](section/11.md)
+    - [s. 12 Restriction on magistrates’ power of committal for civil debt.](section/12.md)
+    - [s. 13 ................................](section/13.md)
+  - Enforcement by attachment of earnings
+    - [s. 27](section/27.md)
+    - [s. 28 Other provisions for interpretation of Part II.](section/28.md)
+  - Supplementary
+    - [s. 29](section/29.md)
+    - [s. 30 ................................](section/30.md)
+- Part III Discovery and Related Procedures
+  - [s. 31 Power of court to order disclosure, etc. of documents before commencement of proceedings.](section/31.md)
+  - [s. 32 Extension of existing powers of court to order disclosure of documents,inspection of property, etc.](section/32.md)
+  - [s. 33](section/33.md)
+  - [s. 34 Application of ss.31 to 33 to county courts and High Court in Northern Ireland.](section/34.md)
+  - [s. 35 Application to Crown.](section/35.md)
+- Part IV Actions by Mortgagees for Possession
+  - [s. 36 Additional powers of court in action by mortgagee for possession of dwelling-house.](section/36.md)
+  - [s. 37 Exclusive jurisdiction of county court in certain mortgage actions.](section/37.md)
+  - [s. 38A](section/38A.md)
+  - [s. 39 Interpretation of Part IV.](section/39.md)
+- Part V Miscellaneous Provisions
+  - [s. 40 Punishment for unlawful harassment of debtors.](section/40.md)
+  - [s. 41 Recovery of costs and compensation awarded by magistrates, assizes, quarter sessions, etc.](section/41.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 Interest on judgment debts.](section/44.md)
+  - [s. 44A Interest on judgment debts expressed in currencies other than sterling.](section/44A.md)
+  - [s. 45 Removal of limit on number of county court judges assignable to a district and of certain registrars appointed jointly.](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 Variation in rate of payments in maintenance order registered in magistrates’ court.](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 Minor amendments of Children and Young Persons Act 1969 (c. 54).](section/51.md)
+- Part VI General
+  - [s. 52 Financial provisions.](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 Citation, interpretation, repeals, commencement and extent.](section/54.md)
+- SCHEDULE 1................................
+- SCHEDULE 2 AMENDMENT OF ENACTMENTS CONSEQUENTIAL ON SECTION 1
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The Maintenance Orders (Facilities for Enforcement) Act 1920 (c. 33)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - The Administration of Estates Act 1925 (c.23)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Supreme Court of Judicature (Consolidation) Act 1925 (c. 49)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Other amendments in Parts I to V
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Amendments of references in Part VII to principal probate registry and registrar
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - The Supreme Court Officers (Pensions) Act 1954 (c. 38)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - The Public Records Act 1958 (c. 51)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - The Judicial Pensions Act 1959 (c. 9)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - The County Courts Act 1959 (c. 22)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - The County Courts Act 1959 (c.22)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - The Matrimonial Causes Act 1967 (c. 56)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Taxes, Social Insurance Contributions, etc. subject to Special Enforcement Provisions in Part II
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULES 5–7................................
+- SCHEDULE 8 Maintenance Orders for purposes of 1958 Act and Part II of this Act
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 2A](schedule/8/paragraph/2A.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - [Sch. 8 para. 13A](schedule/8/paragraph/13A.md)
+  - [Sch. 8 para. 13B](schedule/8/paragraph/13B.md)
+  - [Sch. 8 para. 13C](schedule/8/paragraph/13C.md)
+  - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+- SCHEDULE 9 Enforcement of Orders for Costs, Compensation, etc.
+  - Part I Cases where Payment Enforceable as on Summary Conviction
+    - Costs awarded by magistrates
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 1A](schedule/9/paragraph/1A.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Costs awarded by assizes and quarter sessions
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 4A](schedule/9/paragraph/4A.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Costs awarded by Court of Appeal (criminal division) or House of Lords
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Miscellaneous orders for costs, compensation, damages etc.
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 9A](schedule/9/paragraph/9A.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+      - [Sch. 9 Pt. I heading miscellaneous-orders-for-costs-compensation-damages-etc para. 13](schedule/9/part/I/crossheading/miscellaneous-orders-for-costs-compensation-damages-etc/paragraph/13.md)
+      - [Sch. 9 para. 13A](schedule/9/paragraph/13A.md)
+      - [Sch. 9 para. 12C](schedule/9/paragraph/12C.md)
+  - Part II Cases where costs enforceable summarily as civil debt
+    - Costs awarded by magistrates
+      - [Sch. 9 Pt. II heading costs-awarded-by-magistrates para. 13](schedule/9/part/II/crossheading/costs-awarded-by-magistrates/paragraph/13.md)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Costs awarded by assizes and quarter sessions
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Costs awarded by Court of Appeal (criminal division)
+      - [Sch. 9 para. 16A](schedule/9/paragraph/16A.md)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+- SCHEDULE 10................................
+- Schedule 11 Enactments Repealed
