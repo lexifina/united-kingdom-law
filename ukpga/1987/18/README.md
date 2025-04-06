@@ -1,0 +1,352 @@
+# Debtors (Scotland) Act 1987
+
+1987 c. 18. Enacted 1987-05-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 49 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1987/18
+
+Source: https://www.legislation.gov.uk/ukpga/1987/18/2025-04-06
+
+## Contents
+
+- PART I EXTENSION OF TIME TO PAY DEBTS
+  - Time to pay directions on granting decree
+    - [s. 1 Time to pay directions.](section/1.md)
+    - [s. 2 Effect of time to pay direction on diligence.](section/2.md)
+    - [s. 3 Variation and recall of time to pay direction and arrestment.](section/3.md)
+    - [s. 4 Lapse of time to pay direction.](section/4.md)
+  - Time to pay orders following charge or diligence
+    - [s. 5 Time to pay orders.](section/5.md)
+    - [s. 6 Application for time to pay order.](section/6.md)
+    - [s. 7 Disposal of application.](section/7.md)
+    - [s. 8 Effect of interim order on diligence.](section/8.md)
+    - [s. 9 Effect of time to pay order on diligence.](section/9.md)
+    - [s. 10 Variation and recall of time to pay order and arrestment.](section/10.md)
+    - [s. 11 Lapse of time to pay order.](section/11.md)
+  - Miscellaneous
+    - [s. 12 Sequestration and insolvency.](section/12.md)
+    - [s. 13 Saving of creditor’s rights and remedies.](section/13.md)
+    - [s. 14 Circumstances where direction or order not competent or no longer effective.](section/14.md)
+    - [s. 15 Interpretation of Part I.](section/15.md)
+- Part 1A Diligence on the dependence
+  - Availability of diligence on the dependence
+    - [s. 15A Diligence on the dependence of action](section/15A.md)
+    - [s. 15B Diligence on the dependence of petition](section/15B.md)
+    - [s. 15C Diligence on the dependence to secure future or contingent debts](section/15C.md)
+  - Application for diligence on the dependence
+    - [s. 15D Application for diligence on the dependence](section/15D.md)
+    - [s. 15E Grant of warrant without a hearing](section/15E.md)
+    - [s. 15F Hearing on application](section/15F.md)
+  - Execution before service
+    - [s. 15G Execution of diligence before service of summons](section/15G.md)
+  - Restriction on property attached
+    - [s. 15H Sum attached by arrestment on dependence](section/15H.md)
+    - [s. 15J Property affected by inhibition on dependence](section/15J.md)
+  - Recall etc. of diligence on the dependence.
+    - [s. 15K Recall or restriction of diligence on dependence](section/15K.md)
+    - [s. 15L Variation of orders and variation or recall of conditions](section/15L.md)
+  - General and miscellaneous
+    - [s. 15M Expenses of diligence on the dependence](section/15M.md)
+    - [s. 15N Application of this Part to admiralty actions](section/15N.md)
+- PART II POINDINGS AND WARRANT SALES
+  - Poinding
+    - [s. 16 Articles exempt from poinding.](section/16.md)
+    - [s. 17 Restrictions on times when poinding may be executed.](section/17.md)
+    - [s. 18 Power of entry for execution of poinding.](section/18.md)
+    - [s. 19 Value of articles which may be poinded and presumption as to ownership.](section/19.md)
+    - [s. 20 Poinding procedure.](section/20.md)
+    - [s. 21 Poinding procedure - further provisions.](section/21.md)
+    - [s. 22 Report of execution of poinding.](section/22.md)
+    - [s. 23 Release of poinded article on ground of undue harshness.](section/23.md)
+    - [s. 24 Invalidity, cessation and recall of poinding.](section/24.md)
+    - [s. 25 Second poinding in same premises.](section/25.md)
+    - [s. 26 Sist of proceedings in poinding of mobile homes.](section/26.md)
+    - [s. 27 Duration of poinding.](section/27.md)
+  - Removal, damage or destruction of poinded articles
+    - [s. 28 Removal of poinded articles.](section/28.md)
+    - [s. 29 Unlawful acts relating to poinded articles.](section/29.md)
+  - Warrant sales
+    - [s. 30 Application for warrant of sale.](section/30.md)
+    - [s. 31 Provisions of warrant of sale.](section/31.md)
+    - [s. 32 Location of sale.](section/32.md)
+    - [s. 33 Release or redemption of poinded articles after warrant.](section/33.md)
+    - [s. 34 Intimation and publication of sale.](section/34.md)
+    - [s. 35 Alteration of arrangements for sale.](section/35.md)
+    - [s. 36 Payment agreements after warrant of sale.](section/36.md)
+    - [s. 37 The warrant sale.](section/37.md)
+    - [s. 38 Disposal of proceeds of sale.](section/38.md)
+    - [s. 39 Report of warrant sale.](section/39.md)
+  - Articles belonging to third parties or in common ownership
+    - [s. 40 Release from poinding of articles belonging to third party.](section/40.md)
+    - [s. 41 Poinding and sale of articles in common ownership.](section/41.md)
+  - Supplementary
+    - [s. 42 Certain proceedings under Part II to postpone further steps in the diligence.](section/42.md)
+    - [s. 43 Conjoining of further poinding with original poinding.](section/43.md)
+    - [s. 44 Expenses of poinding and sale.](section/44.md)
+    - [s. 45 Interpretation of Part II.](section/45.md)
+- PART III DILIGENCE AGAINST EARNINGS
+  - Introduction
+    - [s. 46 New diligences against earnings.](section/46.md)
+  - Earnings arrestments
+    - [s. 47 General effect of earnings arrestment.](section/47.md)
+    - [s. 48 Debt recoverable by earnings arrestment.](section/48.md)
+    - [s. 49 Deductions from net earnings to be made by employer.](section/49.md)
+    - [s. 49A Deductions where net earnings include holiday pay](section/49A.md)
+    - [s. 50 Review of earnings arrestment.](section/50.md)
+  - Current maintenance arrestments
+    - [s. 51 General effect of current maintenance arrestment.](section/51.md)
+    - [s. 52 Enforcement of 2 or more obligations to pay maintenance.](section/52.md)
+    - [s. 53 Deductions from net earnings to be made by employer.](section/53.md)
+    - [s. 54 Current maintenance arrestment to be preceded by default.](section/54.md)
+    - [s. 55 Review and termination of current maintenance arrestment.](section/55.md)
+    - [s. 56 Effect of new maintenance order on current maintenance arrestment.](section/56.md)
+  - General
+    - [s. 57 Failure to comply with arrestment, manner of payment and creditor’s duty when arrestment ceases to have effect.](section/57.md)
+    - [s. 58 Simultaneous operation of earnings and current maintenance arrestment.](section/58.md)
+    - [s. 59 Priority among arrestments.](section/59.md)
+  - Conjoined arrestment orders
+    - [s. 60 Conjoined arrestment orders: general provision.](section/60.md)
+    - [s. 61 Amount recoverable under conjoined arrestment order.](section/61.md)
+    - [s. 62 Relationship of conjoined arrestment order with earnings and current maintenance arrestments.](section/62.md)
+    - [s. 63 Sum payable by employer under conjoined arrestment order.](section/63.md)
+    - [s. 64 Disbursement by sheriff clerk of sums received from employer.](section/64.md)
+    - [s. 65 Operation of conjoined arrestment order.](section/65.md)
+    - [s. 66 Recall and variation of conjoined arrestment order.](section/66.md)
+  - Supplementary provisions
+    - [s. 67 Equalisation of diligences not to apply.](section/67.md)
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Restriction on liability of employer in operating diligence against earnings.](section/69.md)
+    - [s. 70 Execution and intimation of copies.](section/70.md)
+    - [s. 70A Employer’s duty to provide information](section/70A.md)
+    - [s. 70B Failure to give notice under section 70A(5)](section/70B.md)
+    - [s. 70C Creditor’s duty to provide information](section/70C.md)
+    - [s. 70D Debtor’s duty to provide information](section/70D.md)
+    - [s. 71 Employer’s fee for operating diligence against earnings.](section/71.md)
+    - [s. 72 Effect of sequestration on diligence against earnings.](section/72.md)
+    - [s. 73 Interpretation of Part III.](section/73.md)
+- Part 3A Arrestment and action of furthcoming
+  - [s. 73A Arrestment and action of furthcoming to proceed only on decree or document of debt](section/73A.md)
+  - [s. 73B Schedule of arrestment to be in prescribed form](section/73B.md)
+  - [s. 73C Arrestment on the dependence followed by decree](section/73C.md)
+  - [s. 73D Debt advice and information](section/73D.md)
+  - [s. 73E Funds attached](section/73E.md)
+  - [s. 73F Protection of minimum balance in certain bank accounts](section/73F.md)
+  - [s. 73G Arrestee’s duty of disclosure](section/73G.md)
+  - [s. 73H Failure to disclose information](section/73H.md)
+  - [s. 73J Automatic release of arrested funds](section/73J.md)
+  - [s. 73K Sum released under section 73J(2)](section/73K.md)
+  - [s. 73L Circumstances preventing automatic release](section/73L.md)
+  - [s. 73M Notice of objection](section/73M.md)
+  - [s. 73N Hearings following notice of objection](section/73N.md)
+  - [s. 73P Arrestee not liable for funds released in good faith](section/73P.md)
+  - [s. 73Q Application for release of property where arrestment unduly harsh](section/73Q.md)
+  - [s. 73R Hearing on application under section 73Q for release of property](section/73R.md)
+  - [s. 73S Mandate to be in prescribed form](section/73S.md)
+  - [s. 73T Arrestment of ships etc.](section/73T.md)
+- PART IV RECOVERY OF RATES AND TAXES ETC.
+  - [s. 74 Recovery of rates and taxes etc.](section/74.md)
+- PART V MESSENGERS-AT-ARMS AND SHERIFF OFFICERS
+  - [s. 75 Regulation of organisation, training, conduct and procedure.](section/75.md)
+  - [s. 76 Advisory Council.](section/76.md)
+  - [s. 77 Appointment of messenger-at-arms.](section/77.md)
+  - [s. 78 Inspection of work.](section/78.md)
+  - [s. 79 Investigation of alleged misconduct.](section/79.md)
+  - [s. 80 Courts’ powers in relation to offences or misconduct.](section/80.md)
+  - [s. 81 Provisions supplementary to section 80.](section/81.md)
+  - [s. 82 Appeals from decisions under sections 77, 79 and 80.](section/82.md)
+  - [s. 83 Service of charge and execution of diligence or warrant void where officer of court has interest.](section/83.md)
+  - [s. 84 Collection of statistics from officers of court.](section/84.md)
+  - [s. 85 Measure of damages payable by officer of court for negligence or other fault.](section/85.md)
+  - [s. 86 Official identity card.](section/86.md)
+  - [s. 86A Electronic communications](section/86A.md)
+- PART VI WARRANTS FOR DILIGENCE AND CHARGES FOR PAYMENT
+  - [s. 87 Effect of warrants for diligence in extract decrees and other documents.](section/87.md)
+  - [s. 88 Warrants for diligence: special cases.](section/88.md)
+  - [s. 89 Abolition of letters of horning, horning and poinding, poinding, and caption.](section/89.md)
+  - [s. 90 Provisions relating to charges for payment.](section/90.md)
+  - [s. 91 Enforcement of certain warrants and precepts of sheriff anywhere in Scotland.](section/91.md)
+- PART VII MISCELLANEOUS AND GENERAL
+  - [s. 92 General provision relating to liability for expenses in court proceedings.](section/92.md)
+  - [s. 93 Recovery from debtor of expenses of certain diligences.](section/93.md)
+  - [s. 94 Ascription of sums recovered by diligence or while diligence is in effect.](section/94.md)
+  - [s. 95 Certain diligences terminated by payment or tender of full amount owing.](section/95.md)
+  - [s. 95A Prescription of arrestment](section/95A.md)
+  - [s. 96 Provisions to assist debtor in proceedings under Act.](section/96.md)
+  - [s. 97](section/97.md)
+  - [s. 98](section/98.md)
+  - [s. 99 ................................](section/99.md)
+  - [s. 100](section/100.md)
+  - [s. 101](section/101.md)
+  - [s. 102 Procedure in diligence proceeding on extract of registered document etc.](section/102.md)
+  - [s. 103 Appeals.](section/103.md)
+  - [s. 104 Regulations.](section/104.md)
+  - [s. 105 Application to Crown.](section/105.md)
+  - [s. 106 Interpretation.](section/106.md)
+  - [s. 107 Financial provisions.](section/107.md)
+  - [s. 108 Minor and consequential amendments, transitional provisions and repeals.](section/108.md)
+  - [s. 109 Short title, commencement and extent.](section/109.md)
+- SCHEDULE 1 EXPENSES OF POINDING AND SALE
+  - Expenses chargeable against the debtor
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Circumstances where liability for expenses is at the discretion of the sheriff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Calculation of amount chargeable against debtor under the foregoing provisions
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Circumstances where no expenses are due to or by either party
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Supplementary
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 ARRESTMENT
+- SCHEDULE 3 DISBURSEMENTS BY SHERIFF CLERKS UNDER CONJOINED ARRESTMENT ORDER
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 4A](schedule/3/paragraph/4A.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 RECOVERY OF RATES AND TAXES ETC.
+  - The Local Government (Scotland) Act 1947 (c. 43.)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Taxes Management Act 1970 (c. 9.)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Car Tax Act 1983 (c. 53.)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Value Added Tax Act 1983 (c. 55.)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 POINDINGS AND SALES IN PURSUANCE OF SUMMARY WARRANTS
+  - Articles exempt from poinding
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Restrictions on time when poinding may be executed
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Power of entry for execution of poinding
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Value of articles which may be poinded and presumption as to ownership
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Poinding procedure
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Release of poinded article on ground of undue harshness
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Invalidity, cessation and recall of poinding
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Second poinding in same premises
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Sist of proceedings in poinding of mobile homes
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Duration of poinding
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Removal, damage or destruction of poinded articles
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Arrangements for sale
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Release or redemption of poinded articles
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Intimation and publication of sale
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Alteration of arrangements for sale
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - The sale
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Disposal of proceeds of sale
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Report of sale
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Articles belonging to third parties or in common ownership
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - Certain proceedings under this Schedule to postpone further steps in the diligence
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - Power to enter premises and open shut and lockfast places
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - Expenses chargeable against the debtor
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - Circumstances where liability for expenses is at the discretion of the sheriff
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - Calculation of amount chargeable against debtor under the foregoing provisions
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - Circumstances where no expenses are due to or by either party
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+  - Supplementary
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+- SCHEDULE 6 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - General amendment
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Specific amendments
+  - The Bank Notes (Scotland) Act 1765 (c. 49.)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - The Debtors (Scotland) Act 1838 (c. 114.)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - The Harbours, Docks, and Piers Clauses Act 1847 (c. 27.)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The Lyon King of Arms Act 1867 (c.17)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - The Court of Session Act 1868 (c. 100)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - The Titles to Land Consolidation (Scotland) Act 1868 (c. 101)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - The Debtors (Scotland) Act 1880 (c. 34)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - The Sea Fisheries Act 1883 (c. 22.)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - The Merchant Shipping Act 1894 (c. 60.)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - The Execution of Diligence (Scotland) Act 1926 (c. 16)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - The Sea Fisheries Act 1968 (c. 77.)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - The Prevention of Oil Pollution Act 1971 (c. 60.)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - The Town and Country Planning (Scotland) Act 1972 (c. 52)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - The Consumer Credit Act 1974 (c. 69)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - The Criminal Procedure (Scotland) Act 1975 (c. 21)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - The Crofting Reform (Scotland) Act 1976 (c. 21)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - The Patents Act 1977 (c. 37)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+  - The Customs and Excise Management Act 1979 (c. 2)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+  - The Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - The Betting and Gaming Duties Act 1981 (c. 63)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - The British Fishing Boats Act 1983 (c. 8.)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - The Inshore Fishing (Scotland) Act 1984 (c. 26.)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - The Rent (Scotland) Act 1984 (c. 58.)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+  - The Bankruptcy (Scotland) Act 1985 (c. 66)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+- SCHEDULE 7 TRANSITIONAL PROVISIONS
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 REPEALS
