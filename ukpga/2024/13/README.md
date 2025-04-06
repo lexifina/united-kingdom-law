@@ -2,9 +2,9 @@
 
 2024 c. 13. Enacted 2024-05-24.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. Earlier versions, from 2024-05-24, are in the history before it: `git log -- ukpga/2024/13` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. Earlier versions, from 2024-05-24, are in the history before it: `git log -- ukpga/2024/13` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/13/2025-01-01
+Source: https://www.legislation.gov.uk/ukpga/2024/13/2025-04-06
 
 ## Contents
 
@@ -667,11 +667,11 @@ Source: https://www.legislation.gov.uk/ukpga/2024/13/2025-01-01
   - [Sch. 18 para. 1 Estate Agents Act 1979](schedule/18/paragraph/1.md)
   - [Sch. 18 para. 2 Companies Act 1985](schedule/18/paragraph/2.md)
   - [Sch. 18 para. 3 Enterprise Act 2002](schedule/18/paragraph/3.md)
-  - [Sch. 18 para. 4 Enterprise Act 2002](schedule/18/paragraph/4.md)
-  - [Sch. 18 para. 5 Enterprise Act 2002](schedule/18/paragraph/5.md)
-  - [Sch. 18 para. 6 Enterprise Act 2002](schedule/18/paragraph/6.md)
-  - [Sch. 18 para. 7 Enterprise Act 2002](schedule/18/paragraph/7.md)
-  - [Sch. 18 para. 8 Enterprise Act 2002](schedule/18/paragraph/8.md)
+  - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
   - [Sch. 18 para. 9 Companies Act 2006](schedule/18/paragraph/9.md)
   - [Sch. 18 para. 10 Regulatory Enforcement and Sanctions Act 2008](schedule/18/paragraph/10.md)
   - [Sch. 18 para. 11 Consumer Rights Act 2015](schedule/18/paragraph/11.md)
