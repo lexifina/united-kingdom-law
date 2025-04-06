@@ -2,9 +2,9 @@
 
 2015 c. 15. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-01-01, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/15/2025-01-01
+Source: https://www.legislation.gov.uk/ukpga/2015/15/2025-04-06
 
 ## Contents
 
@@ -314,7 +314,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2025-01-01
       - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
     - Domestic enforcers
       - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
-    - Schedule 13 enforcers
+    - ...
       - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
     - Public designated enforcers
       - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
@@ -364,13 +364,19 @@ Source: https://www.legislation.gov.uk/ukpga/2015/15/2025-01-01
       - [Sch. 5 para. 16J](schedule/5/paragraph/16J.md)
     - Limitations on use of information provided in response to a notice under paragraph 14
       - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Extra-territorial application in relation to notices under paragraph 14
+      - [Sch. 5 para. 17A](schedule/5/paragraph/17A.md)
+    - Means of giving notice under this Part of this Schedule
+      - [Sch. 5 para. 17B](schedule/5/paragraph/17B.md)
     - Application to Crown
       - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
-  - PART 4 Further powers exercisable by domestic enforcers and Schedule 13 enforcers
+  - PART 4 Further powers exercisable by domestic enforcers and authorised enforcers
     - Exercise of powers in this Part: domestic enforcers
       - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
-    - Exercise of powers in this Part: Schedule 13 enforcers
+    - Exercise of powers in this Part: authorised enforcers
       - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Paragraph 20: listed enactments
+      - [Sch. 5 para. 20A](schedule/5/paragraph/20A.md)
     - Power to purchase products
       - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
     - Power to observe carrying on of business etc
