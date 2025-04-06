@@ -2,9 +2,9 @@
 
 2025 c. 8. Enacted 2025-03-20.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. Earlier versions, from 2025-03-20, are in the history before it: `git log -- ukpga/2025/8` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/8/2025-03-20
+Source: https://www.legislation.gov.uk/ukpga/2025/8/2025-04-06
 
 ## Contents
 
@@ -437,6 +437,7 @@ Source: https://www.legislation.gov.uk/ukpga/2025/8/2025-03-20
     - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
   - Part 4 Commencement and transitional provision
     - [Sch. 12 para. 70 Commencement](schedule/12/paragraph/70.md)
+    - [Sch. 12 para. 70A Settlements: transitional protection where available protected income is increased by this Schedule](schedule/12/paragraph/70A.md)
     - [Sch. 12 para. 71 Onward gifts: settlements (income)](schedule/12/paragraph/71.md)
     - [Sch. 12 para. 72 Onward gifts: settlements (income)](schedule/12/paragraph/72.md)
     - [Sch. 12 para. 73 Onward gifts: transfer of assets abroad](schedule/12/paragraph/73.md)
