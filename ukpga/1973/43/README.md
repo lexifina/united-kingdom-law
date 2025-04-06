@@ -1,0 +1,168 @@
+# Hallmarking Act 1973
+
+1973 c. 43. Enacted 1973-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1973/43/2025-04-06
+
+## Contents
+
+- [s. 1 Prohibited descriptions of unhallmarked articles.](section/1.md)
+- [s. 2 Meaning of approved hallmarks, etc.](section/2.md)
+- [s. 3 Sponsors’ marks.](section/3.md)
+- [s. 4 Approved hallmarks.](section/4.md)
+- [s. 4A Assay office carrying on business outside the United Kingdom](section/4A.md)
+- [s. 5 Alterations to hallmarked articles.](section/5.md)
+- [s. 6 Counterfeiting, etc. of dies and marks.](section/6.md)
+- [s. 7 Treatment by assay offices of unauthorised marks.](section/7.md)
+- [s. 8 Offences.](section/8.md)
+- [s. 9 Enforcement of Act.](section/9.md)
+- [s. 10 Treatment of articles following convictions.](section/10.md)
+- [s. 11 Dealers to exhibit notices as to hallmarks.](section/11.md)
+- [s. 12 Charges for assaying and hallmarking, etc.](section/12.md)
+- [s. 13 The British Hallmarking Council.](section/13.md)
+- [s. 14 Power to alter, etc., constitution of Council.](section/14.md)
+- [s. 15 Functions of assay offices, etc.](section/15.md)
+- [s. 16 Orders constituting, dissolving, etc., or conferring powers on assay offices.](section/16.md)
+- [s. 17 Application of Act to other metals by order.](section/17.md)
+- [s. 18 Local Acts and instruments.](section/18.md)
+- [s. 19 Reports and accounts.](section/19.md)
+- [s. 20 Local inquiries.](section/20.md)
+- [s. 21 Regulations and orders.](section/21.md)
+- [s. 22 Interpretation.](section/22.md)
+- [s. 23 Repeals.](section/23.md)
+- [s. 24 Short title, commencement and extent.](section/24.md)
+- SCHEDULE 1 Unhallmarked Articles
+  - Part I Permissible Descriptions
+    - [Sch. 1 Pt. I para. 1](schedule/1/part/I/paragraph/1.md)
+    - [Sch. 1 Pt. I para. 2](schedule/1/part/I/paragraph/2.md)
+  - Part II Exempted Articles
+    - [Sch. 1 Pt. II para. 1](schedule/1/part/II/paragraph/1.md)
+    - [Sch. 1 Pt. II para. 2](schedule/1/part/II/paragraph/2.md)
+    - [Sch. 1 Pt. II para. 3](schedule/1/part/II/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 9A](schedule/1/paragraph/9A.md)
+    - Articles exempt if of minimum fineness
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+      - [Sch. 1 para. 12B](schedule/1/paragraph/12B.md)
+      - [Sch. 1 para. 12C](schedule/1/paragraph/12C.md)
+      - [Sch. 1 para. 12D](schedule/1/paragraph/12D.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 14A](schedule/1/paragraph/14A.md)
+      - [Sch. 1 para. 14AA](schedule/1/paragraph/14AA.md)
+      - [Sch. 1 para. 14B](schedule/1/paragraph/14B.md)
+    - Existing exemptions
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Articles manufactured before a given date
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Part III Use of the Words “Carats”, “Sterling” and “Britannia”
+    - [Sch. 1 Pt. III para. 1](schedule/1/part/III/paragraph/1.md)
+    - [Sch. 1 Pt. III para. 2](schedule/1/part/III/paragraph/2.md)
+    - [Sch. 1 Pt. III para. 3](schedule/1/part/III/paragraph/3.md)
+  - Part IV Power to Amend
+    - [Sch. 1 Pt. IV para. 1](schedule/1/part/IV/paragraph/1.md)
+- SCHEDULE 2 Approved Hallmarks
+  - PART I ARTICLES COMPRISED OF A SINGLE PRECIOUS METAL
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 2 ARTICLES COMPRISED OF TWO OR MORE PRECIOUS METALS
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - PART 3 ARTICLES COMPRISED OF PRECIOUS METAL PARTS AND OTHER MATERIALS
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Part IV General
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+- SCHEDULE 3 Provisions as to Offences
+  - Penalties for offences
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Time limit for prosecutions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Offences by corporations
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Offences due to fault of other person
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Innocent publication of advertisement
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Defence in proceedings under section 1
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 The British Hallmarking Council
+  - Constitution
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Committees
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Standing Orders
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Incorporation, etc.
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Expenses and Accounts
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Officers and Servants
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+- SCHEDULE 5 Powers and Duties of Assay Offices
+  - Submission of new wares for assaying and hallmarking
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Assaying and hallmarking
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Inspections by H.M. Mint
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Safe custody of marks
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Procedures for Orders
+  - Part I Orders Under Section 16(1) on Application
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Part II Modifications of Part I of this Schedule for Purposes of Orders Under Section 16(2) Where no Application
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Enactments Repealed
+  - Part I—Public General Acts
+    - Acts of Parliament of Ireland
+  - Part II—Local Acts
