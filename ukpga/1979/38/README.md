@@ -1,0 +1,131 @@
+# Estate Agents Act 1979
+
+1979 c. 38. Enacted 1979-04-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1979/38
+
+Source: https://www.legislation.gov.uk/ukpga/1979/38/2025-04-06
+
+## Contents
+
+- Application of Act
+  - [s. 1 Estate agency work.](section/1.md)
+  - [s. 2 Interests in land.](section/2.md)
+- Orders by the lead enforcement authority
+  - [s. 3 Orders prohibiting unfit persons from doing estate agency work.](section/3.md)
+  - [s. 4 Warning orders.](section/4.md)
+  - [s. 5 Supplementary provisions as to orders under sections 3 and 4.](section/5.md)
+  - [s. 6 Revocation and variation of orders under sections 3 and 4.](section/6.md)
+  - [s. 7 Appeals.](section/7.md)
+  - [s. 8 Register of orders etc.](section/8.md)
+- Information, entry and inspection
+  - [s. 9 Information for the lead enforcement authority](section/9.md)
+  - [s. 9A Notice of convictions and judgments](section/9A.md)
+  - [s. 10 Restriction on disclosure of information.](section/10.md)
+  - [s. 11 Powers of entry and inspection.](section/11.md)
+  - [s. 11A Failure to produce information](section/11A.md)
+- Clients’ money and accounts
+  - [s. 12 Meaning of “clients’ money” etc.](section/12.md)
+  - [s. 13 Clients’ money held on trust or as agent.](section/13.md)
+  - [s. 14 Keeping of client accounts.](section/14.md)
+  - [s. 15 Interest on clients’ money.](section/15.md)
+  - [s. 16 Insurance cover for clients’ money.](section/16.md)
+  - [s. 17 Exemptions from section 16.](section/17.md)
+- Regulation of other aspects of estate agency work
+  - [s. 18 Information to clients of prospective liabilities.](section/18.md)
+  - [s. 19 Regulation of pre-contract deposits outside Scotland.](section/19.md)
+- Supervision, enforcement, publicity, etc.
+  - [s. 20 Prohibition of pre-contract deposits in Scotland.](section/20.md)
+  - [s. 21 Transactions in which an estate agent has a personal interest.](section/21.md)
+  - [s. 22 Standards of competence.](section/22.md)
+  - [s. 23 Bankrupts not to engage in estate agency work.](section/23.md)
+- Redress schemes
+  - [s. 23A Redress schemes](section/23A.md)
+  - [s. 23B Enforcement](section/23B.md)
+  - [s. 23C Meaning of residential property](section/23C.md)
+- Supervision, enforcement, publicity etc.
+  - [s. 24 Supervision by Council on Tribunals.](section/24.md)
+  - [s. 24A Lead enforcement authority](section/24A.md)
+  - [s. 25 General duties of the lead enforcement authority](section/25.md)
+  - [s. 26 Enforcement authorities.](section/26.md)
+  - [s. 27 Obstruction and personation of authorised officers.](section/27.md)
+- Supplementary
+  - [s. 28 General provisions as to offences.](section/28.md)
+  - [s. 29 Service of notices etc.](section/29.md)
+  - [s. 30 Orders and regulations.](section/30.md)
+  - [s. 31 Meaning of “business associate” and “controller”.](section/31.md)
+  - [s. 32 Meaning of “associate”.](section/32.md)
+  - [s. 33 General interpretation provisions.](section/33.md)
+  - [s. 34 Financial provisions.](section/34.md)
+  - [s. 35 Scotland.](section/35.md)
+  - [s. 36 Short title, commencement and extent.](section/36.md)
+- SCHEDULE 1 Provisions Supplementary to Section 3(1)
+  - Spent convictions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Discrimination
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Procedure etc.
+  - Part I Orders and Decisions Under Sections 3, 4 and 6
+    - Introductory
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Notice of proposal
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Hearing of representations
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Decision
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Notification of decision
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part II Applications Under Sections 6(1) and 8(3)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+- SCHEDULE 3 Redress Schemes
+  - Approval of redress schemes
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Applications for approval to the lead enforcement authority
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Notification of changes to an approved scheme
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Withdrawal of approval by the lead enforcement authority
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Revocation of designation by the Secretary of State
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Defamation proceedings
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Interpretation
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Penalty notices under section 23B(1)
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
