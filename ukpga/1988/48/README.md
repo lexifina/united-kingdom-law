@@ -1,0 +1,1176 @@
+# Copyright, Designs and Patents Act 1988
+
+1988 c. 48. Enacted 1988-11-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 18 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
+
+Source: https://www.legislation.gov.uk/ukpga/1988/48/2025-04-06
+
+## Contents
+
+- Part I Copyright
+  - Chapter I Subsistence, ownership and duration of copyright
+    - Introductory
+      - [s. 1 Copyright and copyright works.](section/1.md)
+      - [s. 2 Rights subsisting in copyright works.](section/2.md)
+    - Descriptions of work and related provisions
+      - [s. 3 Literary, dramatic and musical works.](section/3.md)
+      - [s. 3A Databases](section/3A.md)
+      - [s. 4 Artistic works.](section/4.md)
+      - [s. 5 Sound recordings and films.](section/5.md)
+      - [s. 5A Sound recordings.](section/5A.md)
+      - [s. 5B Films.](section/5B.md)
+      - [s. 6 Broadcasts.](section/6.md)
+      - [s. 6A Safeguards in case of certain satellite broadcasts.](section/6A.md)
+      - [s. 7 Cable programmes.](section/7.md)
+      - [s. 8 Published editions.](section/8.md)
+    - Authorship and ownership of copyright
+      - [s. 9 Authorship of work.](section/9.md)
+      - [s. 10 Works of joint authorship.](section/10.md)
+      - [s. 10A Works of co-authorship](section/10A.md)
+      - [s. 11 First ownership of copyright.](section/11.md)
+    - Duration of copyright
+      - [s. 12 Duration of copyright in literary, dramatic, musical or artistic works.](section/12.md)
+      - [s. 13 Duration of copyright in sound recordings and films.](section/13.md)
+      - [s. 13A Duration of copyright in sound recordings.](section/13A.md)
+      - [s. 13B Duration of copyright in films.](section/13B.md)
+      - [s. 14 Duration of copyright in broadcasts....](section/14.md)
+      - [s. 15 Duration of copyright in typographical arrangement of published editions.](section/15.md)
+      - [s. 15A Meaning of country of origin.](section/15A.md)
+  - Chapter II Rights of Copyright Owner
+    - The acts restricted by copyright
+      - [s. 16 The acts restricted by copyright in a work.](section/16.md)
+      - [s. 17 Infringement of copyright by copying.](section/17.md)
+      - [s. 18 Infringement by issue of copies to the public.](section/18.md)
+      - [s. 18A Infringement by rental or lending of work to the public.](section/18A.md)
+      - [s. 19 Infringement by performance, showing or playing of work in public.](section/19.md)
+      - [s. 20 Infringement by communication to the public](section/20.md)
+      - [s. 21 Infringement by making adaptation or act done in relation to adaptation.](section/21.md)
+    - Secondary infringement of copyright
+      - [s. 22 Secondary infringement: importing infringing copy.](section/22.md)
+      - [s. 23 Secondary infringement: possessing or dealing with infringing copy.](section/23.md)
+      - [s. 24 Secondary infringement: providing means for making infringing copies.](section/24.md)
+      - [s. 25 Secondary infringement: permitting use of premises for infringing performance.](section/25.md)
+      - [s. 26 Secondary infringement: provision of apparatus for infringing performance, &c.](section/26.md)
+    - Infringing copies
+      - [s. 27 Meaning of “infringing copy”.](section/27.md)
+  - Chapter III Acts Permitted in relation to Copyright Works
+    - Introductory
+      - [s. 28 Introductory provisions.](section/28.md)
+    - General
+      - [s. 28A Making of temporary copies](section/28A.md)
+      - [s. 28B Personal copies for private use](section/28B.md)
+      - [s. 29 Research and private study.](section/29.md)
+      - [s. 29A Copies for text and data analysis for non-commercial research](section/29A.md)
+      - [s. 30 Criticism, review, quotation and news reporting.](section/30.md)
+      - [s. 30A Caricature, parody or pastiche](section/30A.md)
+      - [s. 31 Incidental inclusion of copyright material.](section/31.md)
+    - Disability
+      - [s. 31A Disabled persons: copies of works for personal use](section/31A.md)
+      - [s. 31B Making, communicating, making available, distributing or lending of accessible copies by authorised bodies](section/31B.md)
+      - [s. 31BA Making, communicating, making available, distributing or lending of intermediate copies by authorised bodies](section/31BA.md)
+      - [s. 31BB Accessible and intermediate copies: records and notification](section/31BB.md)
+      - [s. 31C](section/31C.md)
+      - [s. 31D](section/31D.md)
+      - [s. 31E](section/31E.md)
+      - [s. 31F Sections 31A to 31BB: interpretation and general](section/31F.md)
+    - Education
+      - [s. 32 Illustration for instruction](section/32.md)
+      - [s. 33 Anthologies for educational use.](section/33.md)
+      - [s. 34 Performing, playing or showing work in course of activities of educational establishment.](section/34.md)
+      - [s. 35 Recording by educational establishments of broadcasts](section/35.md)
+      - [s. 36 Copying and use of extracts of works by educational establishments](section/36.md)
+      - [s. 36A Lending of copies by educational establishments](section/36A.md)
+    - Libraries and archives
+      - [s. 37 Libraries and archives: introductory.](section/37.md)
+      - [s. 38 Copying by librarians: articles in periodicals.](section/38.md)
+      - [s. 39 Copying by librarians: parts of published works.](section/39.md)
+      - [s. 40 Restriction on production of multiple copies of the same material.](section/40.md)
+      - [s. 40A Lending of copies by libraries or archives.](section/40A.md)
+      - [s. 40B Libraries and educational establishments etc: making works available through dedicated terminals](section/40B.md)
+      - [s. 41 Copying by librarians: supply of single copies to other libraries](section/41.md)
+      - [s. 42 Copying by librarians etc: replacement copies of works](section/42.md)
+      - [s. 42n1 Copying by librarians: single copies of published works](section/42n1.md)
+      - [s. 43 Copying by librarians or archivists: single copies of unpublished works](section/43.md)
+      - [s. 43n1 Sections 40A to 43: interpretation](section/43n1.md)
+      - [s. 44 Copy of work required to be made as condition of export.](section/44.md)
+      - [s. 44A Legal deposit libraries](section/44A.md)
+    - Orphan works
+      - [s. 44B Permitted uses of orphan works](section/44B.md)
+    - Public administration
+      - [s. 45 Parliamentary and judicial proceedings.](section/45.md)
+      - [s. 46 Royal Commissions and statutory inquiries.](section/46.md)
+      - [s. 47 Material open to public inspection or on official register.](section/47.md)
+      - [s. 48 Material communicated to the Crown in the course of public business.](section/48.md)
+      - [s. 49 Public records.](section/49.md)
+      - [s. 50 Acts done under statutory authority.](section/50.md)
+    - Computer programs: lawful users
+      - [s. 50A Back up copies.](section/50A.md)
+      - [s. 50B Decompilation.](section/50B.md)
+      - [s. 50BA Observing, studying and testing of computer programs](section/50BA.md)
+      - [s. 50C Other acts permitted to lawful users.](section/50C.md)
+    - Databases: permitted acts
+      - [s. 50D Acts permitted in relation to databases.](section/50D.md)
+    - Designs
+      - [s. 51 Design documents and models.](section/51.md)
+      - [s. 52 Effect of exploitation of design derived from artistic work.](section/52.md)
+      - [s. 53 Things done in reliance on registration of design.](section/53.md)
+    - Typefaces
+      - [s. 54 Use of typeface in ordinary course of printing.](section/54.md)
+      - [s. 55 Articles for producing material in particular typeface.](section/55.md)
+    - Works in electronic form
+      - [s. 56 Transfers of copies of works in electronic form.](section/56.md)
+    - Miscellaneous: literary, dramatic, musical and artistic works
+      - [s. 57 Anonymous or pseudonymous works: acts permitted on assumptions as to expiry of copyright or death of author.](section/57.md)
+      - [s. 58 Use of notes or recordings of spoken words in certain cases.](section/58.md)
+      - [s. 59 Public reading or recitation.](section/59.md)
+      - [s. 60 Abstracts of scientific or technical articles.](section/60.md)
+      - [s. 61 Recordings of folksongs.](section/61.md)
+      - [s. 62 Representation of certain artistic works on public display.](section/62.md)
+      - [s. 63 Advertisement of sale of artistic work.](section/63.md)
+      - [s. 64 Making of subsequent works by same artist.](section/64.md)
+      - [s. 65 Reconstruction of buildings.](section/65.md)
+    - Miscellaneous: lending of works and playing of sound recordings
+      - [s. 66 Lending to public of copies of certain works.](section/66.md)
+    - MISCellaneous: films and sound recordings
+      - [s. 66A Films: acts permitted on assumptions as to expiry of copyright, &c.](section/66A.md)
+      - [s. 67 Playing of sound recordings for purposes of club, society, &c.](section/67.md)
+    - Miscellaneous: broadcasts...
+      - [s. 68 Incidental recording for purposes of broadcast....](section/68.md)
+      - [s. 69 Recording for purposes of supervision and control of broadcasts and other services.](section/69.md)
+      - [s. 70 Recording for purposes of time-shifting.](section/70.md)
+      - [s. 71 Photographs of broadcasts](section/71.md)
+      - [s. 72 Free public showing or playing of broadcast....](section/72.md)
+      - [s. 73 Reception and re-transmission of wireless broadcast by cable.](section/73.md)
+      - [s. 73A Royalty or other sum payable in pursuance of section 73(4).](section/73A.md)
+      - [s. 74](section/74.md)
+      - [s. 75 Recording of broadcast for archival purposes](section/75.md)
+    - Adaptations
+      - [s. 76 Adaptations.](section/76.md)
+  - CHAPTER 3A CERTAIN PERMITTED USES OF ORPHAN WORKS
+    - [s. 76A Certain permitted uses of orphan works](section/76A.md)
+  - Chapter IV Moral Rights
+    - Right to be identified as author or director
+      - [s. 77 Right to be identified as author or director.](section/77.md)
+      - [s. 78 Requirement that right be asserted.](section/78.md)
+      - [s. 79 Exceptions to right.](section/79.md)
+    - Right to object to derogatory treatment of work
+      - [s. 80 Right to object to derogatory treatment of work.](section/80.md)
+      - [s. 81 Exceptions to right.](section/81.md)
+      - [s. 82 Qualification of right in certain cases.](section/82.md)
+      - [s. 83 Infringement of right by possessing or dealing with infringing article.](section/83.md)
+    - False attribution of work
+      - [s. 84 False attribution of work.](section/84.md)
+    - Right to privacy of certain photographs and films
+      - [s. 85 Right to privacy of certain photographs and films.](section/85.md)
+    - Supplementary
+      - [s. 86 Duration of rights.](section/86.md)
+      - [s. 87 Consent and waiver of rights.](section/87.md)
+      - [s. 88 Application of provisions to joint works.](section/88.md)
+      - [s. 89 Application of provisions to parts of works.](section/89.md)
+  - Chapter V Dealings with Rights in Copyright Works
+    - Copyright
+      - [s. 90 Assignment and licences.](section/90.md)
+      - [s. 91 Prospective ownership of copyright.](section/91.md)
+      - [s. 92 Exclusive licences.](section/92.md)
+      - [s. 93 Copyright to pass under will with unpublished work.](section/93.md)
+      - [s. 93A Presumption of transfer of rental right in case of film production agreement.](section/93A.md)
+    - Right to equitable remuneration where rental right transferred
+      - [s. 93B Right to equitable remuneration where rental right transferred.](section/93B.md)
+      - [s. 93C Equitable remuneration: reference of amount to Copyright Tribunal.](section/93C.md)
+    - Moral rights
+      - [s. 94 Moral rights not assignable.](section/94.md)
+      - [s. 95 Transmission of moral rights on death.](section/95.md)
+  - Chapter VI Remedies for Infringement
+    - Rights and remedies of copyright owner
+      - [s. 96 Infringement actionable by copyright owner.](section/96.md)
+      - [s. 97 Provisions as to damages in infringement action.](section/97.md)
+      - [s. 97A Injunctions against service providers](section/97A.md)
+      - [s. 98 Undertaking to take licence of right in infringement proceedings.](section/98.md)
+      - [s. 99 Order for delivery up.](section/99.md)
+      - [s. 100 Right to seize infringing copies and other articles.](section/100.md)
+    - Rights and remedies of exclusive licensee
+      - [s. 101 Rights and remedies of exclusive licensee.](section/101.md)
+      - [s. 101A Certain infringements actionable by a non-exclusive licensee](section/101A.md)
+      - [s. 102 Exercise of concurrent rights.](section/102.md)
+    - Remedies for infringement of moral rights
+      - [s. 103 Remedies for infringement of moral rights.](section/103.md)
+    - Presumptions
+      - [s. 104 Presumptions relevant to literary, dramatic, musical and artistic works.](section/104.md)
+      - [s. 105 Presumptions relevant to sound recordings and films.](section/105.md)
+      - [s. 106 Presumptions relevant to works subject to Crown copyright.](section/106.md)
+    - Offences
+      - [s. 107 Criminal liability for making or dealing with infringing articles, &c.](section/107.md)
+      - [s. 107A Enforcement by local weights and measures authority.](section/107A.md)
+      - [s. 108 Order for delivery up in criminal proceedings.](section/108.md)
+      - [s. 109 Search warrants.](section/109.md)
+      - [s. 110 Offence by body corporate: liability of officers.](section/110.md)
+    - Provision for preventing importation of infringing copies
+      - [s. 111 Infringing copies may be treated as prohibited goods.](section/111.md)
+      - [s. 112 Power of Commissioners of Customs and Excise to make regulations.](section/112.md)
+    - Supplementary
+      - [s. 113 Period after which remedy of delivery up not available.](section/113.md)
+      - [s. 114 Order as to disposal of infringing copy or other article.](section/114.md)
+      - [s. 114A Forfeiture of infringing copies, etc.: England and Wales or Northern Ireland](section/114A.md)
+      - [s. 114B Forfeiture of infringing copies, etc.: Scotland](section/114B.md)
+      - [s. 115 Jurisdiction of county court and sheriff court.](section/115.md)
+  - Chapter VII Copyright Licensing
+    - Licensing schemes and licensing bodies
+      - [s. 116 Licensing schemes and licensing bodies.](section/116.md)
+    - Orphan works licensing and extended collective licensing
+      - [s. 116A Power to provide for licensing of orphan works](section/116A.md)
+      - [s. 116B Extended collective licensing](section/116B.md)
+      - [s. 116C General provision about licensing under sections 116A and 116B](section/116C.md)
+      - [s. 116D Regulations under sections 116A and 116B](section/116D.md)
+    - References and applications with respect to licensing schemes
+      - [s. 117 Licensing schemes to which following sections apply.](section/117.md)
+      - [s. 118 Reference of proposed licensing scheme to tribunal.](section/118.md)
+      - [s. 119 Reference of licensing scheme to tribunal.](section/119.md)
+      - [s. 120 Further reference of scheme to tribunal.](section/120.md)
+      - [s. 121 Application for grant of licence in connection with licensing scheme.](section/121.md)
+      - [s. 122 Application for review of order as to entitlement to licence.](section/122.md)
+      - [s. 123 Effect of order of tribunal as to licensing scheme.](section/123.md)
+    - References and applications with respect to licensing by licensing bodies
+      - [s. 124 Licences to which following sections apply.](section/124.md)
+      - [s. 125 Reference to tribunal of proposed licence.](section/125.md)
+      - [s. 126 Reference to tribunal of expiring licence.](section/126.md)
+      - [s. 127 Application for review of order as to licence.](section/127.md)
+      - [s. 128 Effect of order of tribunal as to licence.](section/128.md)
+      - [s. 128A Notification of licence or licensing scheme for excepted sound recordings](section/128A.md)
+      - [s. 128B References to the Tribunal by the Secretary of State under section 128A](section/128B.md)
+    - Factors to be taken into account in certain classes of case
+      - [s. 129 General considerations: unreasonable discrimination.](section/129.md)
+      - [s. 130 Licences for reprographic copying.](section/130.md)
+      - [s. 131 Licences for educational establishments in respect of works included in broadcasts....](section/131.md)
+      - [s. 132 Licences to reflect conditions imposed by promoters of events.](section/132.md)
+      - [s. 133 Licences to reflect payments in respect of underlying rights.](section/133.md)
+      - [s. 134 Licences in respect of works included in re-transmissions.](section/134.md)
+      - [s. 135 Mention of specific matters not to exclude other relevant considerations.](section/135.md)
+    - Use as of right of sound recordings in broadcasts...
+      - [s. 135A Circumstances in which right available.](section/135A.md)
+      - [s. 135B Notice of intention to exercise right.](section/135B.md)
+      - [s. 135C Conditions for exercise of right.](section/135C.md)
+      - [s. 135D Applications to settle payments.](section/135D.md)
+      - [s. 135E References etc. about conditions, information and other terms.](section/135E.md)
+      - [s. 135F Application for review of order.](section/135F.md)
+      - [s. 135G Factors to be taken into account.](section/135G.md)
+      - [s. 135H Power to amend sections 135A to 135G.](section/135H.md)
+    - Implied indemnity in schemes or licences for reprographic copying
+      - [s. 136 Implied indemnity in certain schemes and licences for reprographic copying.](section/136.md)
+    - Reprographic copying by educational establishments
+      - [s. 137 Power to extend coverage of scheme or licence.](section/137.md)
+      - [s. 138 Variation or discharge of order extending scheme or licence.](section/138.md)
+      - [s. 139 Appeals against orders.](section/139.md)
+      - [s. 140 Inquiry whether new scheme or general licence required.](section/140.md)
+      - [s. 141 Statutory licence where recommendation not implemented.](section/141.md)
+    - Royalty or other sum payable for lending of certain works
+      - [s. 142 Royalty or other sum payable for lending of certain works.](section/142.md)
+    - Certification of licensing schemes
+      - [s. 143 Certification of licensing schemes.](section/143.md)
+    - Powers exercisable in consequence of competition report
+      - [s. 144 Powers exercisable in consequence of report of Competition and Markets Authority.](section/144.md)
+    - Compulsory collective administration of certain rights
+      - [s. 144A Collective exercise of certain rights in relation to cable re-transmission.](section/144A.md)
+  - Chapter VIII The Copyright Tribunal
+    - The Tribunal
+      - [s. 145 The Copyright Tribunal.](section/145.md)
+      - [s. 146 Membership of the Tribunal.](section/146.md)
+      - [s. 147 Financial provisions.](section/147.md)
+      - [s. 148 Constitution for purposes of proceedings.](section/148.md)
+    - Jurisdiction and procedure
+      - [s. 149 Jurisdiction of the Tribunal.](section/149.md)
+      - [s. 150 General power to make rules.](section/150.md)
+      - [s. 151 Costs, proof of orders, &c.](section/151.md)
+      - [s. 151A Award of interest.](section/151A.md)
+    - Appeals
+      - [s. 152 Appeal to the court on point of law.](section/152.md)
+  - Chapter IX Qualification for and Extent of Copyright Protection
+    - Qualification for copyright protection
+      - [s. 153 Qualification for copyright protection.](section/153.md)
+      - [s. 154 Qualification by reference to author.](section/154.md)
+      - [s. 155 Qualification by reference to country of first publication.](section/155.md)
+      - [s. 156 Qualification by reference to place of transmission.](section/156.md)
+    - Extent and application of this Part
+      - [s. 157 Countries to which this Part extends.](section/157.md)
+      - [s. 158 Countries ceasing to be colonies.](section/158.md)
+      - [s. 159 Application of this Part to countries to which it does not extend](section/159.md)
+      - [s. 160 Denial of copyright protection to citizens of countries not giving adequate protection to British works.](section/160.md)
+    - Supplementary
+      - [s. 161 Territorial waters and the continental shelf.](section/161.md)
+      - [s. 162 British ships, aircraft and hovercraft.](section/162.md)
+  - Chapter X Miscellaneous and General
+    - Crown and Parliamentary copyright
+      - [s. 163 Crown copyright.](section/163.md)
+      - [s. 164 Copyright in Acts and Measures.](section/164.md)
+      - [s. 165 Parliamentary copyright.](section/165.md)
+      - [s. 166 Copyright in Parliamentary Bills.](section/166.md)
+      - [s. 166A Copyright in Bills of the Scottish Parliament.](section/166A.md)
+      - [s. 166B Copyright in Bills of the Northern Ireland Assembly.](section/166B.md)
+      - [s. 166C Copyright in proposed Measures of the National Assembly for Wales](section/166C.md)
+      - [s. 166D Copyright in Bills of the National Assembly for Wales](section/166D.md)
+      - [s. 167 Houses of Parliament: supplementary provisions with respect to copyright.](section/167.md)
+    - Other miscellaneous provisions
+      - [s. 168 Copyright vesting in certain international organisations.](section/168.md)
+      - [s. 169 Folklore, &c.: anonymous unpublished works.](section/169.md)
+    - Transitional provisions and savings
+      - [s. 170 Transitional provisions and savings.](section/170.md)
+      - [s. 171 Rights and privileges under other enactments or the common law.](section/171.md)
+    - Interpretation
+      - [s. 172 General provisions as to construction.](section/172.md)
+      - [s. 172A Meaning of EEA and related expressions.](section/172A.md)
+      - [s. 173 Construction of references to copyright owner.](section/173.md)
+      - [s. 174 Meaning of “educational establishment” and related expressions.](section/174.md)
+      - [s. 175 Meaning of publication and commercial publication.](section/175.md)
+      - [s. 176 Requirement of signature: application in relation to body corporate.](section/176.md)
+      - [s. 177 Adaptation of expressions for Scotland.](section/177.md)
+      - [s. 178 Minor definitions.](section/178.md)
+      - [s. 179 Index of defined expressions.](section/179.md)
+- Part II Rights in performances
+  - Chapter 1 INTRODUCTORY
+    - [s. 180 Rights conferred on performers and persons having recording rights.](section/180.md)
+    - [s. 181 Qualifying performances.](section/181.md)
+  - Chapter 2 ECONOMIC RIGHTS
+    - Performers’ rights
+      - [s. 182 Consent required for recording, &c. of live performance.](section/182.md)
+      - [s. 182A Consent required for copying of recording.](section/182A.md)
+      - [s. 182B Consent required for issue of copies to public.](section/182B.md)
+      - [s. 182C Consent required for rental or lending of copies to public.](section/182C.md)
+      - [s. 182CA Consent required for making available to the public](section/182CA.md)
+      - [s. 182D Right to equitable remuneration for exploitation of sound recording.](section/182D.md)
+      - [s. 183 Infringement of performer’s rights by use of recording made without consent.](section/183.md)
+      - [s. 184 Infringement of performer’s rights by importing, possessing or dealing with illicit recording.](section/184.md)
+    - Rights of person having recording rights
+      - [s. 185 Exclusive recording contracts and persons having recording rights.](section/185.md)
+      - [s. 186 Consent required for recording of performance subject to exclusive contract.](section/186.md)
+      - [s. 187 Infringement of recording rights by use of recording made without consent.](section/187.md)
+      - [s. 188 Infringement of recording rights by importing, possessing or dealing with illicit recording.](section/188.md)
+    - Exceptions to rights conferred
+      - [s. 189 Acts permitted notwithstanding rights conferred by this Chapter.](section/189.md)
+      - [s. 190 Power of tribunal to give consent on behalf of performer in certain cases.](section/190.md)
+    - Duration of rights
+      - [s. 191 Duration of rights.](section/191.md)
+    - Performers’ property rights
+      - [s. 191A Performers’ property rights.](section/191A.md)
+      - [s. 191B Assignment and licences.](section/191B.md)
+      - [s. 191C Prospective ownership of a performer’s property rights.](section/191C.md)
+      - [s. 191D Exclusive licences.](section/191D.md)
+      - [s. 191E Performer’s property right to pass under will with unpublished original recording.](section/191E.md)
+      - [s. 191F Presumption of transfer of rental right in case of film production agreement.](section/191F.md)
+      - [s. 191G Right to equitable remuneration where rental right transferred.](section/191G.md)
+      - [s. 191H Equitable remuneration: reference of amount to Copyright Tribunal.](section/191H.md)
+      - [s. 191HA Assignment of performer’s property rights in a sound recording](section/191HA.md)
+      - [s. 191HB Payment in consideration of assignment](section/191HB.md)
+      - [s. 191I Infringement actionable by rights owner.](section/191I.md)
+      - [s. 191J Provisions as to damages in infringement action.](section/191J.md)
+      - [s. 191JA Injunctions against service providers](section/191JA.md)
+      - [s. 191K Undertaking to take licence of right in infringement proceedings.](section/191K.md)
+      - [s. 191L Rights and remedies for exclusive licensee.](section/191L.md)
+      - [s. 191M Exercise of concurrent rights.](section/191M.md)
+    - Non-property rights
+      - [s. 192A Performers’ non-property rights.](section/192A.md)
+      - [s. 192B Transmissibility of rights of person having recording rights.](section/192B.md)
+      - [s. 193 Consent.](section/193.md)
+    - ...
+      - [s. 194 Infringement actionable as breach of statutory duty.](section/194.md)
+    - Delivery up or seizure of illicit recordings
+      - [s. 195 Order for delivery up.](section/195.md)
+      - [s. 196 Right to seize illicit recordings.](section/196.md)
+      - [s. 197 Meaning of “illicit recording”.](section/197.md)
+      - [s. 197A Presumptions relevant to recordings of performances](section/197A.md)
+    - Offences
+      - [s. 198 Criminal liability for making, dealing with or using illicit recordings.](section/198.md)
+      - [s. 198A Enforcement by local weights and measures authority.](section/198A.md)
+      - [s. 199 Order for delivery up in criminal proceedings.](section/199.md)
+      - [s. 200 Search warrants.](section/200.md)
+      - [s. 201 False representation of authority to give consent.](section/201.md)
+      - [s. 202 Offence by body corporate: liability of officers.](section/202.md)
+    - Supplementary provisions with respect to delivery up and seizure
+      - [s. 203 Period after which remedy of delivery up not available.](section/203.md)
+      - [s. 204 Order as to disposal of illicit recording.](section/204.md)
+      - [s. 204A Forfeiture of illicit recordings: England and Wales or Northern Ireland](section/204A.md)
+      - [s. 204B Forfeiture: Scotland](section/204B.md)
+      - [s. 205 Jurisdiction of county court and sheriff court.](section/205.md)
+    - Licensing of performers’ ... rights
+      - [s. 205A Licensing of performers’ ... rights.](section/205A.md)
+    - Jurisdiction of Copyright Tribunal
+      - [s. 205B Jurisdiction of Copyright Tribunal.](section/205B.md)
+  - Chapter 3 MORAL RIGHTS
+    - Right to be identified as performer
+      - [s. 205C Right to be identified as performer](section/205C.md)
+      - [s. 205D Requirement that right be asserted](section/205D.md)
+      - [s. 205E Exceptions to right](section/205E.md)
+    - Right to object to derogatory treatment
+      - [s. 205F Right to object to derogatory treatment of performance](section/205F.md)
+      - [s. 205G Exceptions to right](section/205G.md)
+      - [s. 205H Infringement of right by possessing or dealing with infringing article](section/205H.md)
+    - Supplementary
+      - [s. 205I Duration of rights](section/205I.md)
+      - [s. 205J Consent and waiver of rights](section/205J.md)
+      - [s. 205K Application of provisions to parts of performances](section/205K.md)
+      - [s. 205L Moral rights not assignable](section/205L.md)
+      - [s. 205M Transmission of moral rights on death](section/205M.md)
+      - [s. 205N Remedies for infringement of moral rights](section/205N.md)
+  - Chapter 4 QUALIFICATION FOR PROTECTION, EXTENT AND INTERPRETATION
+    - Qualification for protection and extent
+      - [s. 206 Qualifying countries, individuals and persons.](section/206.md)
+      - [s. 207 Countries to which this Part extends.](section/207.md)
+      - [s. 208 Countries enjoying reciprocal protection.](section/208.md)
+      - [s. 209 Territorial waters and the continental shelf.](section/209.md)
+      - [s. 210 British ships, aircraft and hovercraft.](section/210.md)
+      - [s. 210A](section/210A.md)
+    - Interpretation
+      - [s. 211 Expressions having same meaning as in copyright provisions.](section/211.md)
+      - [s. 212 Index of defined expressions.](section/212.md)
+    - Supplementary
+      - [s. 212A Power to amend in consequence of changes to international law](section/212A.md)
+- Part III Design Right
+  - Chapter I Design right in original designs
+    - Introductory
+      - [s. 213 Design right.](section/213.md)
+      - [s. 214 The designer.](section/214.md)
+      - [s. 215 Ownership of design right.](section/215.md)
+      - [s. 216 Duration of design right.](section/216.md)
+    - Qualification for design right protection
+      - [s. 217 Qualifying individuals and qualifying persons.](section/217.md)
+      - [s. 218 Qualification by reference to designer.](section/218.md)
+      - [s. 219 Qualification by reference to employer.](section/219.md)
+      - [s. 220 Qualification by reference to first marketing.](section/220.md)
+      - [s. 221 Power to make further provision as to qualification.](section/221.md)
+    - Dealings with design right
+      - [s. 222 Assignment and licences.](section/222.md)
+      - [s. 223 Prospective ownership of design right.](section/223.md)
+      - [s. 224 Assignment of right in registered design presumed to carry with it design right.](section/224.md)
+      - [s. 225 Exclusive licences.](section/225.md)
+  - Chapter II Rights of Design Right Owner and Remedies
+    - Infringement of design right
+      - [s. 226 Primary infringement of design right.](section/226.md)
+      - [s. 227 Secondary infringement: importing or dealing with infringing article.](section/227.md)
+      - [s. 228 Meaning of “infringing article”.](section/228.md)
+    - Remedies for infringement
+      - [s. 229 Rights and remedies of design right owner.](section/229.md)
+      - [s. 230 Order for delivery up.](section/230.md)
+      - [s. 231 Order as to disposal of infringing articles, &c.](section/231.md)
+      - [s. 232 Jurisdiction of county court and sheriff court.](section/232.md)
+      - [s. 233 Innocent infringement.](section/233.md)
+      - [s. 234 Rights and remedies of exclusive licensee.](section/234.md)
+      - [s. 235 Exercise of concurrent rights.](section/235.md)
+  - Chapter III Exceptions to Rights of Design Right Owners
+    - Infringement of copyright
+      - [s. 236 Infringement of copyright.](section/236.md)
+    - Availability of licences of right
+      - [s. 237 Licences available in last five years of design right.](section/237.md)
+      - [s. 238 Powers exercisable for protection of the public interest.](section/238.md)
+      - [s. 239 Undertaking to take licence of right in infringement proceedings.](section/239.md)
+    - Crown use of designs
+      - [s. 240 Crown use of designs.](section/240.md)
+      - [s. 241 Settlement of terms for Crown use.](section/241.md)
+      - [s. 242 Rights of third parties in case of Crown use.](section/242.md)
+      - [s. 243 Crown use: compensation for loss of profit.](section/243.md)
+      - [s. 244 Special provision for Crown use during emergency.](section/244.md)
+    - Miscellaneous
+      - [s. 244A Exception for private acts, experiments and teaching](section/244A.md)
+      - [s. 244B Exception for overseas ships and aircraft](section/244B.md)
+    - General
+      - [s. 245 Power to provide for further exceptions.](section/245.md)
+  - Chapter IV Jurisdiction of the Comptroller and the Court
+    - Jurisdiction of the comptroller
+      - [s. 246 Jurisdiction to decide matters relating to design right.](section/246.md)
+      - [s. 247 Application to settle terms of licence of right.](section/247.md)
+      - [s. 248 Settlement of terms where design right owner unknown.](section/248.md)
+      - [s. 249 Appeals as to terms of licence of right.](section/249.md)
+      - [s. 249A Opinions service](section/249A.md)
+      - [s. 250 Rules.](section/250.md)
+    - Jurisdiction of the court
+      - [s. 251 References and appeals on design right matters.](section/251.md)
+      - [s. 252 Reference of disputes relating to Crown use.](section/252.md)
+  - Chapter V Miscellaneous and General
+    - Unjustified threats
+      - [s. 253 Threats of infringement proceedings](section/253.md)
+      - [s. 253A Actionable threats](section/253A.md)
+      - [s. 253B Permitted communications](section/253B.md)
+      - [s. 253C Remedies and defences](section/253C.md)
+      - [s. 253D Professional advisers](section/253D.md)
+      - [s. 253E Supplementary: proceedings for delivery up etc.](section/253E.md)
+    - Licensee under licence of right not to claim connection with design right owner
+      - [s. 254 Licensee under licence of right not to claim connection with design right owner.](section/254.md)
+    - Extent of operation of this Part
+      - [s. 255 Countries to which this Part extends.](section/255.md)
+      - [s. 256 Countries enjoying reciprocal protection.](section/256.md)
+      - [s. 257 Territorial waters and the continental shelf.](section/257.md)
+    - Interpretation
+      - [s. 258 Construction of references to design right owner.](section/258.md)
+      - [s. 259 Joint designs.](section/259.md)
+      - [s. 260 Application of provisions to articles in kit form.](section/260.md)
+      - [s. 261 Requirement of signature: application in relation to body corporate.](section/261.md)
+      - [s. 262 Adaptation of expressions in relation to Scotland.](section/262.md)
+      - [s. 263 Minor definitions.](section/263.md)
+      - [s. 264 Index of defined expressions.](section/264.md)
+- Part IV Registered Designs
+  - Amendments of the Registered Designs Act 1949
+    - [s. 265 ................................](section/265.md)
+    - [s. 266 Provisions with respect to certain designs registered in pursuance of application made before commencement.](section/266.md)
+    - [s. 267 Authorship and first ownership of designs.](section/267.md)
+    - [s. 268 ................................](section/268.md)
+    - [s. 269 Duration of right in registered design.](section/269.md)
+    - [s. 270 Powers exercisable for protection of the public interest.](section/270.md)
+    - [s. 271 Crown use: compensation for loss of profit.](section/271.md)
+    - [s. 272 Minor and consequential amendments.](section/272.md)
+  - Supplementary
+    - [s. 273 Text of Registered Designs Act 1949 as amended.](section/273.md)
+- Part V Patent Agents and Trade Mark Agents
+  - Patent agents
+    - [s. 274 Persons permitted to carry on business of a patent agent.](section/274.md)
+    - [s. 275 The register of patent attorneys](section/275.md)
+    - [s. 275A Regulation of patent attorneys](section/275A.md)
+    - [s. 276 Persons entitled to describe themselves as patent agents.](section/276.md)
+    - [s. 277 Persons entitled to describe themselves as European patent attorneys, &c.](section/277.md)
+    - [s. 278 Use of the term “patent attorney”: supplementary provisions.](section/278.md)
+    - [s. 279 Power to prescribe conditions, &c. for mixed partnerships and bodies corporate.](section/279.md)
+    - [s. 280 Privilege for communications with patent agents.](section/280.md)
+    - [s. 281 Power of comptroller to refuse to deal with certain agents.](section/281.md)
+  - Trade mark agents
+    - [s. 282 ................................](section/282.md)
+    - [s. 283 ................................](section/283.md)
+    - [s. 284 ................................](section/284.md)
+  - Supplementary
+    - [s. 285 Offences committed by partnerships and bodies corporate.](section/285.md)
+    - [s. 286 Interpretation.](section/286.md)
+- Part VI Patents
+  - Patents county courts
+    - [s. 287 Patents county courts: special jurisdiction.](section/287.md)
+    - [s. 288 Financial limits in relation to proceedings within special jurisdiction of patents county court.](section/288.md)
+    - [s. 289 Transfer of proceedings between High Court and patents county court.](section/289.md)
+    - [s. 290 Limitation of costs where pecuniary claim could have been brought in patents county court.](section/290.md)
+    - [s. 291 Proceedings in patents county court.](section/291.md)
+    - [s. 292 Rights and duties of registered patent agents in relation to proceedings in patents county court.](section/292.md)
+  - Licences of right in respect of certain patents
+    - [s. 293 Restriction of acts authorised by certain licences.](section/293.md)
+    - [s. 294 When application may be made for settlement of terms of licence.](section/294.md)
+  - Patents: miscellaneous amendments
+    - [s. 295 Patents: miscellaneous amendments.](section/295.md)
+- Part VII Miscellaneous and General
+  - Circumvention of protection measures
+    - [s. 296 Devices designed to circumvent copy-protection.](section/296.md)
+    - [s. 296ZA Circumvention of technological measures](section/296ZA.md)
+    - [s. 296ZB Devices and services designed to circumvent technological measures](section/296ZB.md)
+    - [s. 296ZC Devices and services designed to circumvent technological measures: search warrants and forfeiture](section/296ZC.md)
+    - [s. 296ZD Rights and remedies in respect of devices and services designed to circumvent technological measures](section/296ZD.md)
+    - [s. 296ZE Remedy where effective technological measures prevent permitted acts](section/296ZE.md)
+    - [s. 296ZEA Remedy where restrictive measures prevent or restrict personal copying](section/296ZEA.md)
+    - [s. 296ZF Interpretation of sections 296ZA to 296ZEA](section/296ZF.md)
+  - Rights management information
+    - [s. 296ZG Electronic rights management information](section/296ZG.md)
+  - Computer programs
+    - [s. 296A Avoidance of certain terms.](section/296A.md)
+  - Databases
+    - [s. 296B Avoidance of certain terms relating to databases](section/296B.md)
+  - Fraudulent reception of transmissions
+    - [s. 297 Offence of fraudulently receiving programmes.](section/297.md)
+    - [s. 297A Unauthorised decoders.](section/297A.md)
+    - [s. 297B Search warrants](section/297B.md)
+    - [s. 297C Forfeiture of unauthorised decoders: England and Wales or Northern Ireland](section/297C.md)
+    - [s. 297D Forfeiture of unauthorised decoders: Scotland](section/297D.md)
+    - [s. 298 Rights and remedies in respect of apparatus, &c. for unauthorised reception of transmissions.](section/298.md)
+    - [s. 299 Supplementary provisions as to fraudulent reception.](section/299.md)
+  - Fraudulent application or use of trade mark
+    - [s. 300 ................................](section/300.md)
+  - Provisions for the benefit of Great Ormond Street Hospital for Children
+    - [s. 301 Provisions for the benefit of Great Ormond Street Hospital for Children.](section/301.md)
+  - Financial assistance for certain international bodies
+    - [s. 302 Financial assistance for certain international bodies.](section/302.md)
+  - General
+    - [s. 303 Consequential amendments and repeals.](section/303.md)
+    - [s. 304 Extent.](section/304.md)
+    - [s. 305 Commencement.](section/305.md)
+    - [s. 306 Short title.](section/306.md)
+- SCHEDULE ZA1 CERTAIN PERMITTED USES OF ORPHAN WORKS
+  - PART 1 GENERAL PROVISIONS
+    - Certain permitted uses of orphan works by relevant bodies
+      - [Sch. ZA1 para. 1](schedule/ZA1/paragraph/1.md)
+    - Meaning of “relevant body”, “relevant work” and “rightholder”
+      - [Sch. ZA1 para. 2](schedule/ZA1/paragraph/2.md)
+    - Meaning of “orphan work”
+      - [Sch. ZA1 para. 3](schedule/ZA1/paragraph/3.md)
+    - Mutual recognition of orphan work status
+      - [Sch. ZA1 para. 4](schedule/ZA1/paragraph/4.md)
+    - Diligent searches
+      - [Sch. ZA1 para. 5](schedule/ZA1/paragraph/5.md)
+    - Further requirements for use of orphan works
+      - [Sch. ZA1 para. 6](schedule/ZA1/paragraph/6.md)
+    - End of orphan work status
+      - [Sch. ZA1 para. 7](schedule/ZA1/paragraph/7.md)
+  - PART 2 SOURCES TO BE SEARCHED DURING DILIGENT SEARCH
+- SCHEDULE A1 Regulation of licensing bodies
+  - Codes of practice
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Licensing code ombudsman
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Code reviewer
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Sanctions
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Fees
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - General
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+- SCHEDULE 1 Copyright: transitional provisions and savings
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - General principles: continuity of the law
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Subsistence of copyright
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Authorship of work
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - First ownership of copyright
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Duration of copyright in existing works
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Perpetual copyright under the Copyright Act 1775
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Acts infringing copyright
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Designs
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Abolition of statutory recording licence
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Moral rights
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Assignments and licences
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Bequests
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - Remedies for infringement
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - Copyright Tribunal: proceedings pending on commencement
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - Qualification for copyright protection
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - Dependent territories
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - Territorial waters and the continental shelf
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - British ships, aircraft and hovercraft
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - Crown copyright
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - Parliamentary copyright
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+  - Copyright vesting in certain international organisations
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+  - Meaning of “publication”
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+  - Meaning of “unauthorised”
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+- SCHEDULE 2 Rights in performances: permitted acts
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Making of temporary copies
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Personal copies of recordings for private use
+    - [Sch. 2 para. 1B](schedule/2/paragraph/1B.md)
+  - Research and private study
+    - [Sch. 2 para. 1C](schedule/2/paragraph/1C.md)
+  - Copies for text and data analysis for non-commercial research
+    - [Sch. 2 para. 1D](schedule/2/paragraph/1D.md)
+  - Criticism, reviews, quotation and news reporting
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Caricature, parody or pastiche
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+  - Incidental inclusion of performance or recording
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Disabled persons: copies of recordings for personal use
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - Making communicating, making available, distributing or lending of accessible copies by authorised bodies
+    - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+  - Making communicating, making available, distributing or lending of intermediate copies by authorised bodies
+    - [Sch. 2 para. 3C](schedule/2/paragraph/3C.md)
+  - Accessible and intermediate copies: records
+    - [Sch. 2 para. 3D](schedule/2/paragraph/3D.md)
+  - Paragraphs 3A to 3D: interpretation and general
+    - [Sch. 2 para. 3E](schedule/2/paragraph/3E.md)
+  - Illustration for instruction
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Playing or showing sound recording, film, or broadcastat educational establishment
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Recording by educational establishments of broadcasts
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Copying and use of extracts of recordings by educational establishments
+    - [Sch. 2 para. 6ZA](schedule/2/paragraph/6ZA.md)
+  - Lending of copies by educational establishments
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+  - Lending of copies by libraries or archives
+    - [Sch. 2 para. 6B](schedule/2/paragraph/6B.md)
+  - Libraries and educational establishments etc: making recordings of performances available through dedicated terminals
+    - [Sch. 2 para. 6C](schedule/2/paragraph/6C.md)
+  - Copying by librarians: supply of single copies to other libraries
+    - [Sch. 2 para. 6D](schedule/2/paragraph/6D.md)
+  - Copying by librarians etc: replacement copies of recordings
+    - [Sch. 2 para. 6E](schedule/2/paragraph/6E.md)
+  - Copying by librarians: single copies of published recordings
+    - [Sch. 2 para. 6F](schedule/2/paragraph/6F.md)
+  - Copying by librarians or archivists: single copies of unpublished recordings
+    - [Sch. 2 para. 6G](schedule/2/paragraph/6G.md)
+  - Paragraphs 6B to 6G: interpretation
+    - [Sch. 2 para. 6H](schedule/2/paragraph/6H.md)
+  - Certain permitted uses of orphan works
+    - [Sch. 2 para. 6I](schedule/2/paragraph/6I.md)
+  - Copy of work required to be made as condition of export
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Parliamentary and judicial proceedings
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Royal Commissions and statutory inquiries
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Public records
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Acts done under statutory authority
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Transfer of copies of works in electronic form
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Use of recordings of spoken works in certain cases
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Recordings of folksongs
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Lending of certain recordings
+    - [Sch. 2 para. 14A](schedule/2/paragraph/14A.md)
+  - Playing of sound recordings for purposes of club, society, &c
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Incidental recording for purposes of broadcast...
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Recordings for purposes of supervision and control of broadcasts and other services
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Recording for the purposes of time-shifting
+    - [Sch. 2 para. 17A](schedule/2/paragraph/17A.md)
+  - Photographs of broadcasts
+    - [Sch. 2 para. 17B](schedule/2/paragraph/17B.md)
+  - Free public showing or playing of broadcast...
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Reception and re-transmission of wireless broadcast by cable
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 19A](schedule/2/paragraph/19A.md)
+  - Provision of sub-titled copies of broadcast...
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Recording of broadcast for archival purposes
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- SCHEDULE 2A LICENSING OF PERFORMERS’ ... RIGHTS
+  - Licensing schemes and licensing bodies
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Power to provide for licensing of orphan rights
+    - [Sch. 2A para. 1A](schedule/2A/paragraph/1A.md)
+  - Extended collective licensing
+    - [Sch. 2A para. 1B](schedule/2A/paragraph/1B.md)
+  - General provision about licensing
+    - [Sch. 2A para. 1C](schedule/2A/paragraph/1C.md)
+    - [Sch. 2A para. 1D](schedule/2A/paragraph/1D.md)
+  - References and applications with respect to licensing schemes
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Reference of proposed licensing scheme to tribunal
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Reference of licensing scheme to tribunal
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Further reference of scheme to tribunal
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Application for grant of licence in connection with licensing scheme
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Application for review of order as to entitlement to licence
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Effect of order of tribunal as to licensing scheme
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - References and applications with respect to licensing by licensing bodies
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Reference to tribunal of proposed licence
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Reference to tribunal of expiring licence
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+  - Application for review of order as to licence
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+  - Effect of order of tribunal as to licence
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+  - General considerations: unreasonable discrimination
+    - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+  - Application to settle royalty or other sum payable for lending
+    - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - Certification of licensing schemes
+    - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+  - Powers exercisable in consequence of competition report
+    - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+- SCHEDULE 3 Registered designs: minor and consequential amendments of 1949 Act
+  - Section 3: proceedings for registration
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Section 4: registration of same design in respect of other articles, etc.
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Section 5: provisions for secrecy of certain designs
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Section 6: provisions as to confidential disclosure, etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Section 9: exemption of innocent infringer from liability for damages
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Section 11: cancellation of registration
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Section 14: registration where application has been made in convention country
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Section 15: extension of time for application under s.14 in certain cases
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Section 16: protection of designs communicated under international agreements
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Section 19: registration of assignments, &c.
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Section 20: rectification of the register
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Section 22: inspection of registered designs
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Section 23: information as to existence of right in registered design
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Section 25: certificate of contested validity of registration
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Section 26: remedy for groundless threats of infringement proceedings
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Section 27: the court
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Section 28: the Appeal Tribunal
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Section 29: exercise of discretionary powers of registrar
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Section 30: costs and security for costs
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Section 31: evidence before registrar
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Section 32: power of registrar to refuse to deal with certain agents
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Section 33: offences under s.5 (secrecy of certain designs)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Section 34: falsification of register, &c.
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Section 35: fine for falsely representing a design as registered
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Section 35A: offence by body corporate - liability of officers
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Section 36: general power to make rules, &c.
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Section 37: provisions as to rules and Orders
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Section 38: proceedings of the Board of Trade
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Section 39: hours of business and excluded days
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - Section 40: fees
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - Section 44: interpretation
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Section 45: application to Scotland
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - Section 46: application to Northern Ireland
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - Section 47: application to Isle of Man
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - Section 47A: territorial waters and the continental shelf
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - Section 48: repeals, savings and transitional provisions
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - Schedule 1: provisions as to Crown use of registered designs
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - Schedule 2: enactments repealed
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+- SCHEDULE 4 The Registered Designs Act 1949 as amended Arrangement of Sections
+  - Registrable designs and proceedings for registration
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn1 para. 1](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn1/paragraph/1.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn1 para. 2](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn1/paragraph/2.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn1 para. 3](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn1/paragraph/3.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn1 para. 4](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn1/paragraph/4.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn1 para. 5](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn1/paragraph/5.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn1 para. 6](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn1/paragraph/6.md)
+  - Effect of registration, &c.
+    - [Sch. 4 heading effect-of-registration-cn1 para. 7](schedule/4/crossheading/effect-of-registration-cn1/paragraph/7.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 8](schedule/4/crossheading/effect-of-registration-cn1/paragraph/8.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 8A](schedule/4/crossheading/effect-of-registration-cn1/paragraph/8A.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 8B](schedule/4/crossheading/effect-of-registration-cn1/paragraph/8B.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 9](schedule/4/crossheading/effect-of-registration-cn1/paragraph/9.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 10](schedule/4/crossheading/effect-of-registration-cn1/paragraph/10.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 11](schedule/4/crossheading/effect-of-registration-cn1/paragraph/11.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 11A](schedule/4/crossheading/effect-of-registration-cn1/paragraph/11A.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 11B](schedule/4/crossheading/effect-of-registration-cn1/paragraph/11B.md)
+    - [Sch. 4 heading effect-of-registration-cn1 para. 12](schedule/4/crossheading/effect-of-registration-cn1/paragraph/12.md)
+  - International arrangements
+    - [Sch. 4 heading international-arrangementsn1 para. 13](schedule/4/crossheading/international-arrangementsn1/paragraph/13.md)
+    - [Sch. 4 heading international-arrangementsn1 para. 14](schedule/4/crossheading/international-arrangementsn1/paragraph/14.md)
+    - [Sch. 4 heading international-arrangementsn1 para. 15](schedule/4/crossheading/international-arrangementsn1/paragraph/15.md)
+    - [Sch. 4 heading international-arrangementsn1 para. 16](schedule/4/crossheading/international-arrangementsn1/paragraph/16.md)
+  - Register of designs, &c.
+    - [Sch. 4 heading register-of-designs-c para. 17](schedule/4/crossheading/register-of-designs-c/paragraph/17.md)
+    - [Sch. 4 heading register-of-designs-c para. 18](schedule/4/crossheading/register-of-designs-c/paragraph/18.md)
+    - [Sch. 4 heading register-of-designs-c para. 19](schedule/4/crossheading/register-of-designs-c/paragraph/19.md)
+    - [Sch. 4 heading register-of-designs-c para. 20](schedule/4/crossheading/register-of-designs-c/paragraph/20.md)
+    - [Sch. 4 heading register-of-designs-c para. 21](schedule/4/crossheading/register-of-designs-c/paragraph/21.md)
+    - [Sch. 4 heading register-of-designs-c para. 22](schedule/4/crossheading/register-of-designs-c/paragraph/22.md)
+    - [Sch. 4 heading register-of-designs-c para. 23](schedule/4/crossheading/register-of-designs-c/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Legal proceedings and appeals
+    - [Sch. 4 heading legal-proceedings-and-appealsn1 para. 25](schedule/4/crossheading/legal-proceedings-and-appealsn1/paragraph/25.md)
+    - [Sch. 4 heading legal-proceedings-and-appealsn1 para. 26](schedule/4/crossheading/legal-proceedings-and-appealsn1/paragraph/26.md)
+    - [Sch. 4 heading legal-proceedings-and-appealsn1 para. 27](schedule/4/crossheading/legal-proceedings-and-appealsn1/paragraph/27.md)
+    - [Sch. 4 heading legal-proceedings-and-appealsn1 para. 28](schedule/4/crossheading/legal-proceedings-and-appealsn1/paragraph/28.md)
+  - Powers and duties of registrar
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 29](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/29.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 30](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/30.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 31](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 33](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/33.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 34](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/34.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 35](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/35.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn1 para. 35A](schedule/4/crossheading/powers-and-duties-of-registrarn1/paragraph/35A.md)
+  - Rules, &c.
+    - [Sch. 4 heading rules-c para. 36](schedule/4/crossheading/rules-c/paragraph/36.md)
+    - [Sch. 4 heading rules-c para. 37](schedule/4/crossheading/rules-c/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+  - Supplemental
+    - [Sch. 4 heading supplementaln1 para. 39](schedule/4/crossheading/supplementaln1/paragraph/39.md)
+    - [Sch. 4 heading supplementaln1 para. 40](schedule/4/crossheading/supplementaln1/paragraph/40.md)
+    - [Sch. 4 heading supplementaln1 para. 41](schedule/4/crossheading/supplementaln1/paragraph/41.md)
+    - [Sch. 4 heading supplementaln1 para. 42](schedule/4/crossheading/supplementaln1/paragraph/42.md)
+    - [Sch. 4 heading supplementaln1 para. 43](schedule/4/crossheading/supplementaln1/paragraph/43.md)
+    - [Sch. 4 heading supplementaln1 para. 44](schedule/4/crossheading/supplementaln1/paragraph/44.md)
+    - [Sch. 4 heading supplementaln1 para. 45](schedule/4/crossheading/supplementaln1/paragraph/45.md)
+    - [Sch. 4 heading supplementaln1 para. 46](schedule/4/crossheading/supplementaln1/paragraph/46.md)
+    - [Sch. 4 heading supplementaln1 para. 47](schedule/4/crossheading/supplementaln1/paragraph/47.md)
+    - [Sch. 4 heading supplementaln1 para. 47A](schedule/4/crossheading/supplementaln1/paragraph/47A.md)
+    - [Sch. 4 heading supplementaln1 para. 48](schedule/4/crossheading/supplementaln1/paragraph/48.md)
+    - [Sch. 4 heading supplementaln1 para. 49](schedule/4/crossheading/supplementaln1/paragraph/49.md)
+  - Registrable designs and proceedings for registration
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn2 para. 1 Designs registrable under Act.](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn2/paragraph/1.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn2 para. 2 Proprietorship of designs.](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn2/paragraph/2.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn2 para. 3 Proceedings for registration.](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn2/paragraph/3.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn2 para. 4 Registration of same design in respect of other articles, etc.](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn2/paragraph/4.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn2 para. 5 Provisions for secrecy of certain designs.](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn2/paragraph/5.md)
+    - [Sch. 4 heading registrable-designs-and-proceedings-for-registrationn2 para. 6 Provisions as to confidential disclosure, etc.](schedule/4/crossheading/registrable-designs-and-proceedings-for-registrationn2/paragraph/6.md)
+  - Effect of registration, &c.
+    - [Sch. 4 heading effect-of-registration-cn2 para. 7 Right given by registration.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/7.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 8 Duration of right in registered design.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/8.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 8A Restoration of lapsed right in design.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/8A.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 8B Effect of order for restoration of right.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/8B.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 9 Exemption of innocent infringer from liability for damages.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/9.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 10 Compulsory licence in respect of registered design.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/10.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 11 Cancellation of registration.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/11.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 11A Powers exercisable for protection of the public interest.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/11A.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 11B Undertaking to take licence of right in infringement proceedings.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/11B.md)
+    - [Sch. 4 heading effect-of-registration-cn2 para. 12 Use for services of the Crown.](schedule/4/crossheading/effect-of-registration-cn2/paragraph/12.md)
+  - International Arrangements
+    - [Sch. 4 heading international-arrangementsn2 para. 13 Orders in Council as to convention countries.](schedule/4/crossheading/international-arrangementsn2/paragraph/13.md)
+    - [Sch. 4 heading international-arrangementsn2 para. 14 Registration of design where application for protection in convention country has been made.](schedule/4/crossheading/international-arrangementsn2/paragraph/14.md)
+    - [Sch. 4 heading international-arrangementsn2 para. 15 Extension of time for applications under s.14 in certain cases.](schedule/4/crossheading/international-arrangementsn2/paragraph/15.md)
+    - [Sch. 4 heading international-arrangementsn2 para. 16 Protection of designs communicated under international agreements.](schedule/4/crossheading/international-arrangementsn2/paragraph/16.md)
+  - Register of designs, etc.
+    - [Sch. 4 heading register-of-designs-etc para. 17 Register of designs.](schedule/4/crossheading/register-of-designs-etc/paragraph/17.md)
+    - [Sch. 4 heading register-of-designs-etc para. 18 Certificate of registration.](schedule/4/crossheading/register-of-designs-etc/paragraph/18.md)
+    - [Sch. 4 heading register-of-designs-etc para. 19 Registration of assignments, etc.](schedule/4/crossheading/register-of-designs-etc/paragraph/19.md)
+    - [Sch. 4 heading register-of-designs-etc para. 20 Rectification of register.](schedule/4/crossheading/register-of-designs-etc/paragraph/20.md)
+    - [Sch. 4 heading register-of-designs-etc para. 21 Power to correct clerical errors.](schedule/4/crossheading/register-of-designs-etc/paragraph/21.md)
+    - [Sch. 4 heading register-of-designs-etc para. 22 Inspection of registered designs.](schedule/4/crossheading/register-of-designs-etc/paragraph/22.md)
+    - [Sch. 4 heading register-of-designs-etc para. 23 Information as to existence of right in registered design.](schedule/4/crossheading/register-of-designs-etc/paragraph/23.md)
+  - Legal proceedings and appeals
+    - [Sch. 4 heading legal-proceedings-and-appealsn2 para. 25 Certificate of contested validity of registration.](schedule/4/crossheading/legal-proceedings-and-appealsn2/paragraph/25.md)
+    - [Sch. 4 heading legal-proceedings-and-appealsn2 para. 26 Remedy for groundless threats of infringement proceedings.](schedule/4/crossheading/legal-proceedings-and-appealsn2/paragraph/26.md)
+    - [Sch. 4 heading legal-proceedings-and-appealsn2 para. 27 The court.](schedule/4/crossheading/legal-proceedings-and-appealsn2/paragraph/27.md)
+    - [Sch. 4 heading legal-proceedings-and-appealsn2 para. 28 The Appeal Tribunal.](schedule/4/crossheading/legal-proceedings-and-appealsn2/paragraph/28.md)
+  - Powers and duties of Registrar
+    - [Sch. 4 heading powers-and-duties-of-registrarn2 para. 29 Exercise of discretionary powers of registrar.](schedule/4/crossheading/powers-and-duties-of-registrarn2/paragraph/29.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn2 para. 30 Costs and security for costs.](schedule/4/crossheading/powers-and-duties-of-registrarn2/paragraph/30.md)
+    - [Sch. 4 heading powers-and-duties-of-registrarn2 para. 31 Evidence before registrar.](schedule/4/crossheading/powers-and-duties-of-registrarn2/paragraph/31.md)
+  - Offences
+    - [Sch. 4 heading offences para. 33 Offences under s.5.](schedule/4/crossheading/offences/paragraph/33.md)
+    - [Sch. 4 heading offences para. 34 Falsification of register, etc.](schedule/4/crossheading/offences/paragraph/34.md)
+    - [Sch. 4 heading offences para. 35 Fine for falsely representing a design as registered.](schedule/4/crossheading/offences/paragraph/35.md)
+    - [Sch. 4 heading offences para. 35A Offence by body corporate: liability of officers.](schedule/4/crossheading/offences/paragraph/35A.md)
+  - Rules, etc.
+    - [Sch. 4 heading rules-etc para. 36 General power of Secretary of State to make rules, etc.](schedule/4/crossheading/rules-etc/paragraph/36.md)
+    - [Sch. 4 heading rules-etc para. 37 Provisions as to rules and Orders.](schedule/4/crossheading/rules-etc/paragraph/37.md)
+  - Supplemental
+    - [Sch. 4 heading supplementaln2 para. 39 Hours of business and excluded days.](schedule/4/crossheading/supplementaln2/paragraph/39.md)
+    - [Sch. 4 heading supplementaln2 para. 40 Fees.](schedule/4/crossheading/supplementaln2/paragraph/40.md)
+    - [Sch. 4 heading supplementaln2 para. 41 Service of notices, &c., by post.](schedule/4/crossheading/supplementaln2/paragraph/41.md)
+    - [Sch. 4 heading supplementaln2 para. 42 Annual report of registrar.](schedule/4/crossheading/supplementaln2/paragraph/42.md)
+    - [Sch. 4 heading supplementaln2 para. 43 Savings.](schedule/4/crossheading/supplementaln2/paragraph/43.md)
+    - [Sch. 4 heading supplementaln2 para. 44 Interpretation.](schedule/4/crossheading/supplementaln2/paragraph/44.md)
+    - [Sch. 4 heading supplementaln2 para. 45 Application to Scotland.](schedule/4/crossheading/supplementaln2/paragraph/45.md)
+    - [Sch. 4 heading supplementaln2 para. 46 Application to Northern Ireland.](schedule/4/crossheading/supplementaln2/paragraph/46.md)
+    - [Sch. 4 heading supplementaln2 para. 47 Application to Isle of Man.](schedule/4/crossheading/supplementaln2/paragraph/47.md)
+    - [Sch. 4 heading supplementaln2 para. 47A Territorial waters and the continental shelf.](schedule/4/crossheading/supplementaln2/paragraph/47A.md)
+    - [Sch. 4 heading supplementaln2 para. 48 Repeals, savings, and transitional provisions.](schedule/4/crossheading/supplementaln2/paragraph/48.md)
+    - [Sch. 4 heading supplementaln2 para. 49 Short title and commencement.](schedule/4/crossheading/supplementaln2/paragraph/49.md)
+  - FIRST SCHEDULE
+  - Use of registered designs for services of the Crown
+    - [Sch. 4 heading use-of-registered-designs-for-services-of-the-crown para. 1](schedule/4/crossheading/use-of-registered-designs-for-services-of-the-crown/paragraph/1.md)
+  - Rights of third parties in respect of Crown use
+    - [Sch. 4 heading rights-of-third-parties-in-respect-of-crown-use para. 2](schedule/4/crossheading/rights-of-third-parties-in-respect-of-crown-use/paragraph/2.md)
+  - Compensation for loss of profit
+    - [Sch. 4 para. 2A](schedule/4/paragraph/2A.md)
+  - Reference of disputes as to Crown use
+    - [Sch. 4 heading reference-of-disputes-as-to-crown-use para. 3](schedule/4/crossheading/reference-of-disputes-as-to-crown-use/paragraph/3.md)
+  - Special provisions as to Crown use during emergency
+    - [Sch. 4 heading special-provisions-as-to-crown-use-during-emergency para. 4](schedule/4/crossheading/special-provisions-as-to-crown-use-during-emergency/paragraph/4.md)
+- SCHEDULE 5 Patents: miscellaneous amendments
+  - Withdrawal of application before publication of specification
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Correction of clerical errors
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Supplementary searches
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Application for restoration of lapsed patent
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Determination of right to patent after grant
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Employees’ inventions
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Undertaking to take licence in infringement proceedings
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Power of comptroller on grant of compulsory licence
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Powers exercisable in consequence of report of Monopolies and Mergers Commission
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Compulsory licensing: reliance on statements in competition report
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Crown use: compensation for loss of profit
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Right to continue use begun before priority date
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Revocation on grounds of grant to wrong person
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Revocation where two patents granted for same invention
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Applications and amendments not to include additional matter
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - Effect of European patent (UK)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - The state of the art: material contained in patent applications
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - Jurisdiction in certain proceedings
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - Effect of filing international application for patent
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - Proceedings before the court or the comptroller
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - Provision of information
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - Power to extend time limits
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - Availability of samples of micro-organisms
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+- SCHEDULE 5A PERMITTED ACTS TO WHICH SECTION 296ZE APPLIES
+  - PART 1 Copyright exceptions
+  - PART 2 Rights in performances exceptions
+  - PART 3 Database right exceptions
+- SCHEDULE 6 Provisions for the Benefit of Great Ormond Street Hospital for Children
+  - Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Entitlement to royalty
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Exceptions
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Saving
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Procedure for determining amount payable
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Sums received to be held for the benefit of the Hospital
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Right only for the benefit of the Hospital
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 Consequential amendments: general
+  - British Mercantile Marine Uniform Act 1919 (c.62)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Chartered Associations (Protection of Names and Uniforms) Act 1926 (c.26)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Patents, Designs, Copyright and Trade Marks (Emergency) Act 1939 (c.107)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Crown Proceedings Act 1947 (c.44)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Patents Act 1949 (c.87)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Public Libraries (Scotland) Act 1955 (c.27)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - London County Council (General Powers) Act 1958 (c.xxi)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Public Libraries and Museums Act 1964 (c.75)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Marine, &c., Broadcasting (Offences) Act 1967 (c.41)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Medicines Act 1968 (c.67)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Post Office Act 1969 (c.48)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Merchant Shipping Act 1970 (c.36)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Taxes Management Act 1970 (c.9)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Tribunals and Inquiries Act 1971 (c.62)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Fair Trading Act 1973 (c.41)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c.25)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Restrictive Trade Practices Act 1976 (c.34)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Resale Prices Act 1976 (c. 53)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Patents Act 1977 (c. 37)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Unfair Contract Terms Act 1977 (c. 50)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Judicature (Northern Ireland) Act 1978 (c. 23)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Capital Gains Tax Act 1979 (c. 14)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - British Telecommunications Act 1981 (c. 38)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Senior Courts Act 1981 (c. 54)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Companies Act 1985 (c. 6)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+  - Atomic Energy Authority Act 1986 (c. 3)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+  - Education and Libraries (Northern Ireland) Order 1986 ( S.I. 1986/594 (N.I.3))
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+  - Companies (Northern Ireland) Order 1986 ( S.I. 1986/1032 (N.I.6))
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+- SCHEDULE 8 Repeals
