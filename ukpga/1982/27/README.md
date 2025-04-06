@@ -1,0 +1,945 @@
+# Civil Jurisdiction and Judgments Act 1982
+
+1982 c. 27. Enacted 1982-07-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/27
+
+Source: https://www.legislation.gov.uk/ukpga/1982/27/2025-04-06
+
+## Contents
+
+- Part I Implementation of the Conventions
+  - Main implementing provisions
+    - [s. 1 Interpretation of references to the Conventions and Contracting States.](section/1.md)
+    - [s. 2 The Brussels Conventions to have the force of law.](section/2.md)
+    - [s. 3 Interpretation of the Brussels Conventions.](section/3.md)
+    - [s. 3A The Lugano Convention to have the force of law.](section/3A.md)
+    - [s. 3B Interpretation of the Lugano Convention.](section/3B.md)
+    - [s. 3C The 1996 Hague Convention to have the force of law](section/3C.md)
+    - [s. 3D The 2005 Hague Convention to have the force of law](section/3D.md)
+    - [s. 3E The 2007 Hague Convention to have the force of law](section/3E.md)
+    - [s. 3F The 2019 Hague Convention to have the force of law](section/3F.md)
+  - Supplementary provisions as to recognition and enforcement of judgments
+    - [s. 4 Enforcement of judgments other than maintenance orders.](section/4.md)
+    - [s. 4A Enforcement of judgments, other than maintenance orders, under the Lugano Convention](section/4A.md)
+    - [s. 4B Registration and enforcement of judgments under the 2005 Hague Convention](section/4B.md)
+    - [s. 4C Registration and enforcement of judgments under the 2019 Hague Convention](section/4C.md)
+    - [s. 5 Recognition and enforcement of maintenance orders.](section/5.md)
+    - [s. 5A Recognition and enforcement of maintenance orders under the Lugano Convention](section/5A.md)
+    - [s. 6 Appeals under Article 37, second paragraph and Article 41.](section/6.md)
+    - [s. 6A Appeals under Article 44 and Annex IV of the Lugano Convention](section/6A.md)
+    - [s. 6B Applications to set aside decisions on registration of judgments under the 2005 Hague Convention](section/6B.md)
+    - [s. 6C Applications to set aside decisions on registration of judgments under the 2019 Hague Convention](section/6C.md)
+    - [s. 7 Interest on registered judgments.](section/7.md)
+    - [s. 8 Currency of payment under registered maintenance orders.](section/8.md)
+  - Other supplementary provisions
+    - [s. 9 Provisions supplementary to Article 26 of the 2005 Hague Convention and Article 23 of the 2019 Hague Convention.](section/9.md)
+    - [s. 10 Allocation within U.K. of jurisdiction with respect to trusts and consumer contracts.](section/10.md)
+    - [s. 11 Proof and admissibility of certain judgments and related documents.](section/11.md)
+    - [s. 11A Proof and admissibility of certain judgments and related documents for the purposes of the Lugano Convention](section/11A.md)
+    - [s. 11B Proof and admissibility of certain judgments and related documents for the purposes of the 2005 Hague Convention](section/11B.md)
+    - [s. 11C Proof and admissibility of certain judgments and related documents for the purposes of the 2019 Hague Convention](section/11C.md)
+    - [s. 12 Provision for issue of copies of, and certificates in connection with, U.K. judgments.](section/12.md)
+    - [s. 13 Modifications to cover authentic instruments and court settlements.](section/13.md)
+    - [s. 14 Modifications consequential on revision of the Conventions.](section/14.md)
+    - [s. 15 Interpretation of Part I and consequential amendments.](section/15.md)
+- Part II Jurisdiction, and Recognition and Enforcement of Judgments, within United Kingdom
+  - Jurisdiction in consumer and employment matters
+    - [s. 15A Scope of sections 15B to 15E](section/15A.md)
+    - [s. 15B Jurisdiction in relation to consumer contracts](section/15B.md)
+    - [s. 15C Jurisdiction in relation to individual contracts of employment](section/15C.md)
+    - [s. 15D Further provision as to jurisdiction](section/15D.md)
+    - [s. 15E Interpretation](section/15E.md)
+  - Jurisdiction in other civil proceedings
+    - [s. 16 Allocation within U.K. of jurisdiction in certain civil proceedings.](section/16.md)
+    - [s. 17 Exclusion of certain proceedings from Schedule 4.](section/17.md)
+  - Recognition of judgments
+    - [s. 18 Enforcement of U.K. judgments in other parts of U.K.](section/18.md)
+    - [s. 19 Recognition of U.K. judgments in other parts of U.K.](section/19.md)
+- Part III Jurisdiction in Scotland
+  - [s. 20 Rules as to jurisdiction in Scotland.](section/20.md)
+  - [s. 21 Continuance of certain existing jurisdictions.](section/21.md)
+  - [s. 22 Supplementary provisions.](section/22.md)
+  - [s. 23 Savings and consequential amendments.](section/23.md)
+- Part IV Miscellaneous Provisions
+  - Provisions relating to jurisdiction
+    - [s. 24 Interim relief and protective measures in cases of doubtful jurisdiction.](section/24.md)
+    - [s. 25 Interim relief in England and Wales and Northern Ireland in the absence of substantive proceedings.](section/25.md)
+    - [s. 26 Security in Admiralty proceedings in England and Wales or Northern Ireland in case of stay, etc.](section/26.md)
+    - [s. 27 Provisional and protective measures in Scotland in the absence of substantive proceedings.](section/27.md)
+    - [s. 28 Application of s. 1 of Administration of Justice (Scotland) Act 1972.](section/28.md)
+    - [s. 29 Service of county court process outside Northern Ireland.](section/29.md)
+    - [s. 30 Proceedings in England and Wales or Northern Ireland for torts to immovable property.](section/30.md)
+  - Provisions relating to recognition and enforcement of judgments
+    - [s. 31 Overseas judgments given against states, etc.](section/31.md)
+    - [s. 32 Overseas judgments given in proceedings brought in breach of agreement for settlement of disputes.](section/32.md)
+    - [s. 33 Certain steps not to amount to submission to jurisdiction of overseas court.](section/33.md)
+    - [s. 34 Certain judgments a bar to further proceedings on the same cause of action.](section/34.md)
+    - [s. 35 Minor amendments relating to overseas judgments.](section/35.md)
+    - [s. 36 Registration of maintenance orders in Northern Ireland.](section/36.md)
+    - [s. 37 Minor amendments relating to maintenance orders.](section/37.md)
+    - [s. 38 Overseas judgments counteracting an award of multiple damages.](section/38.md)
+  - Jurisdiction, and recognition and enforcement of judgments, as between United Kingdom and certain territories
+    - [s. 39 Application of provisions corresponding to 1968 Convention in relation to certain territories.](section/39.md)
+  - Legal aid
+    - [s. 40 Power to modify enactments relating to legal aid etc.](section/40.md)
+- Part V Supplementary and General Provisions
+  - Domicile
+    - [s. 41 Domicile of individuals.](section/41.md)
+    - [s. 41A](section/41A.md)
+    - [s. 42 Domicile and seat of corporation or association.](section/42.md)
+    - [s. 42A Domicile of corporation or association for purposes of certain civil proceedings](section/42A.md)
+    - [s. 43 Seat of corporation or association for purposes of certain provisions.](section/43.md)
+    - [s. 43A Seat of companies or other legal persons, or of associations, for the purposes of Article 22(2) of the Lugano Convention](section/43A.md)
+    - [s. 44 Persons deemed to be domiciled in the United Kingdom for certain purposes.](section/44.md)
+    - [s. 44A Persons deemed to be domiciled in the United Kingdom for certain purposes of the Lugano Convention](section/44A.md)
+    - [s. 45 Domicile of trusts.](section/45.md)
+    - [s. 46 Domicile and seat of the Crown.](section/46.md)
+  - Other supplementary provisions
+    - [s. 47 Modifications occasioned by decisions of European Court as to meaning or effect of Conventions.](section/47.md)
+    - [s. 48 Matters for which rules of court may provide.](section/48.md)
+    - [s. 49 Saving for powers to stay, sist, strike out or dismiss proceedings.](section/49.md)
+  - General
+    - [s. 50 Interpretation: general.](section/50.md)
+    - [s. 51 Application to Crown.](section/51.md)
+    - [s. 52 Extent.](section/52.md)
+    - [s. 53 Commencement, transitional provisions and savings.](section/53.md)
+    - [s. 54 Repeals.](section/54.md)
+    - [s. 55 Short title.](section/55.md)
+- SCHEDULE 1 TEXT OF 1968 CONVENTION, AS AMENDED
+  - CONVENTION ON JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS IN CIVIL AND COMMERCIAL MATTERS
+  - TITLE 1 SCOPE
+    - Article 1
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - TITLE II JURISDICTION
+    - SECTION 1 GENERAL PROVISIONS
+      - Article 2
+      - Article 3
+      - Article 4
+    - SECTION 2 SPECIAL JURISDICTION
+      - Article 5
+      - Article 6
+      - Article 6a
+    - SECTION 3 JURISDICTION IN MATTERS RELATING TO INSURANCE
+      - Article 7
+      - Article 8
+      - Article 9
+      - Article 10
+      - Article 11
+      - Article 12
+      - Article 12a
+    - SECTION 4 JURISDICTION OVER CONSUMER CONTRACTS
+      - Article 13
+      - Article 14
+      - Article 15
+    - SECTION 5 EXCLUSIVE JURISDICTION
+      - Article 16
+    - SECTION 6 PROROGATION OF JURISDICTION
+      - Article 17
+      - Article 18
+    - SECTION 7 EXAMINATION AS TO JURISDICTION AND ADMISSABILITY
+      - Article 19
+      - Article 20
+    - SECTION 8 LIS PENDENS—RELATED ACTIONS
+      - Article 21
+      - Article 22
+      - Article 23
+    - SECTION 9 PROVISIONAL, INCLUDING PROTECTIVE, MEASURES
+      - Article 24
+  - TITLE III RECOGNITION AND ENFORCEMENT
+    - Article 25
+    - SECTION 1 RECOGNITION
+      - Article 26
+      - Article 27
+        - [Sch. 1 para. 1n1](schedule/1/paragraph/1n1.md)
+        - [Sch. 1 para. 2n1](schedule/1/paragraph/2n1.md)
+        - [Sch. 1 para. 3n1](schedule/1/paragraph/3n1.md)
+        - [Sch. 1 para. 4n1](schedule/1/paragraph/4n1.md)
+        - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - Article 28
+      - Article 29
+      - Article 30
+    - SECTION 2 ENFORCEMENT
+      - Article 31
+      - Article 32
+        - [Sch. 1 para. 1n2](schedule/1/paragraph/1n2.md)
+        - [Sch. 1 para. 2n2](schedule/1/paragraph/2n2.md)
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 36
+      - Article 37
+        - [Sch. 1 para. 1n3](schedule/1/paragraph/1n3.md)
+        - [Sch. 1 para. 2n3](schedule/1/paragraph/2n3.md)
+      - Article 38
+      - Article 39
+      - Article 40
+        - [Sch. 1 para. 1n4](schedule/1/paragraph/1n4.md)
+        - [Sch. 1 para. 2n4](schedule/1/paragraph/2n4.md)
+      - Article 41
+      - Article 42
+      - Article 43
+      - Article 44
+      - Article 45
+    - SECTION 3 COMMON PROVISIONS
+      - Article 46
+        - [Sch. 1 para. 1n5](schedule/1/paragraph/1n5.md)
+        - [Sch. 1 para. 2n5](schedule/1/paragraph/2n5.md)
+      - Article 47
+        - [Sch. 1 para. 1n6](schedule/1/paragraph/1n6.md)
+        - [Sch. 1 para. 2n6](schedule/1/paragraph/2n6.md)
+      - Article 48
+      - Article 49
+  - TITLE IV AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
+    - Article 50
+    - Article 51
+  - TITLE V GENERAL PROVISIONS
+    - Article 52
+    - Article 53
+  - TITLE VI TRANSITIONAL PROVISIONS
+    - Article 54
+    - Article 54a
+      - [Sch. 1 para. 1n7](schedule/1/paragraph/1n7.md)
+      - [Sch. 1 para. 2n7](schedule/1/paragraph/2n7.md)
+      - [Sch. 1 para. 3n2](schedule/1/paragraph/3n2.md)
+      - [Sch. 1 para. 4n2](schedule/1/paragraph/4n2.md)
+      - [Sch. 1 para. 5n1](schedule/1/paragraph/5n1.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - TITLE VII RELATIONSHIP TO OTHER CONVENTIONS
+    - Article 55
+    - Article 56
+    - Article 57
+      - [Sch. 1 para. 1n8](schedule/1/paragraph/1n8.md)
+      - [Sch. 1 para. 2n8](schedule/1/paragraph/2n8.md)
+      - [Sch. 1 para. 3n3](schedule/1/paragraph/3n3.md)
+    - Article 58
+    - Article 59
+      - [Sch. 1 para. 1n9](schedule/1/paragraph/1n9.md)
+      - [Sch. 1 para. 2n9](schedule/1/paragraph/2n9.md)
+  - TITLE VIII FINAL PROVISIONS
+    - Article 60
+    - Article 61
+    - Article 62
+    - Article 63
+    - Article 64
+    - Article 65
+    - Article 66
+    - Article 67
+    - Article 68
+  - ANNEXED PROTOCOL
+    - Article I
+    - Article II
+    - Article III
+    - Article IV
+    - Article V
+    - Article Va
+    - Article Vb
+    - Article Vc
+    - Article Vd
+    - Article Ve
+    - Article VI
+- SCHEDULE 2 TEXT OF 1971 PROTOCOL, AS AMENDED
+  - [Sch. 2 Pt. chapter 2 paragraph 1](schedule/2/part/chapter/2/paragraph/1.md)
+  - [Sch. 2 Pt. chapter 2 paragraph 2](schedule/2/part/chapter/2/paragraph/2.md)
+  - [Sch. 2 Pt. chapter 2 paragraph 3](schedule/2/part/chapter/2/paragraph/3.md)
+  - [Sch. 2 Pt. chapter 3 paragraph 1](schedule/2/part/chapter/3/paragraph/1.md)
+  - [Sch. 2 Pt. chapter 3 paragraph 2](schedule/2/part/chapter/3/paragraph/2.md)
+  - [Sch. 2 Pt. chapter 4 paragraph 1](schedule/2/part/chapter/4/paragraph/1.md)
+  - [Sch. 2 Pt. chapter 4 paragraph 2](schedule/2/part/chapter/4/paragraph/2.md)
+  - [Sch. 2 Pt. chapter 4 paragraph 3](schedule/2/part/chapter/4/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 Pt. chapter 5 paragraph 1](schedule/2/part/chapter/5/paragraph/1.md)
+  - [Sch. 2 Pt. chapter 5 paragraph 2](schedule/2/part/chapter/5/paragraph/2.md)
+- SCHEDULE 3 TEXT OF TITLES V AND VI OF THE ACCESSION CONVENTION, AS AMENDED
+  - TITLE V TRANSITIONAL PROVISIONS
+    - Article 34
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Article 35
+    - Article 36
+  - TITLE VI FINAL PROVISIONS
+    - Article 37
+    - Article 38
+    - Article 39
+    - Article 40
+    - Article 41
+- SCHEDULE 3A TEXT OF TITLES V AND VI OF 1982 ACCESSION CONVENTION
+  - TITLE V Transitional provisions
+    - Article 12
+      - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+      - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - TITLE VI Final Provisions
+    - Article 13
+    - Article 14
+    - Article 15
+    - Article 16
+    - Article 17
+- SCHEDULE 3B TEXT OF TITLES VI AND VII OF 1989 ACCESSION CONVENTION
+  - TITLE VI TRANSITIONAL PROVISIONS
+    - Article 29
+      - [Sch. 3B Pt. 1 heading article-29 para. 1](schedule/3B/part/1/crossheading/article-29/paragraph/1.md)
+      - [Sch. 3B Pt. 1 heading article-29 para. 2](schedule/3B/part/1/crossheading/article-29/paragraph/2.md)
+  - TITLE VII FINAL PROVISIONS
+    - Article 30
+      - [Sch. 3B Pt. 2 heading article-30 para. 1](schedule/3B/part/2/crossheading/article-30/paragraph/1.md)
+      - [Sch. 3B Pt. 2 heading article-30 para. 2](schedule/3B/part/2/crossheading/article-30/paragraph/2.md)
+    - Article 31
+    - Article 32
+      - [Sch. 3B Pt. 2 heading article-32 para. 1](schedule/3B/part/2/crossheading/article-32/paragraph/1.md)
+      - [Sch. 3B Pt. 2 heading article-32 para. 2](schedule/3B/part/2/crossheading/article-32/paragraph/2.md)
+    - Article 33
+    - Article 34
+- SCHEDULE 3BB TEXT OF TITLES V AND VI OF 1996 ACCESSION CONVENTION
+  - TITLE V TRANSITIONAL PROVISIONS
+    - Article 13
+      - [Sch. 3BB Pt. 1 Ch.  para. 1](schedule/3BB/part/1/chapter/x/paragraph/1.md)
+      - [Sch. 3BB Pt. 1 Ch.  para. 2](schedule/3BB/part/1/chapter/x/paragraph/2.md)
+  - TITLE VI FINAL PROVISIONS
+    - Article 14
+      - [Sch. 3BB Pt. 2 Ch.  para. 1](schedule/3BB/part/2/chapter/x/paragraph/1.md)
+      - [Sch. 3BB Pt. 2 Ch.  para. 2](schedule/3BB/part/2/chapter/x/paragraph/2.md)
+      - [Sch. 3BB Pt. 2 Ch.  heading 1 heading 1 2_paragraph 1](schedule/3BB/part/2/chapter/x/crossheading/1/crossheading/1/2_paragraph/1.md)
+      - [Sch. 3BB Pt. 2 Ch.  heading 1 heading 1 2_paragraph 2](schedule/3BB/part/2/chapter/x/crossheading/1/crossheading/1/2_paragraph/2.md)
+- Schedule 3C
+  - Arrangement of Provisions
+  - CONVENTION
+    - ON JURISDICTION AND THE ENFORCEMENT OF JUDGMENTS IN CIVIL AND COMMERCIAL MATTERS
+      - Preamble
+  - TITLE I SCOPE
+    - Article 1
+  - TITLE II JURISDICTION
+    - Section 1 General Provisions
+      - Article 2
+      - Article 3
+      - Article 4
+    - Section 2 Special Jurisdiction
+      - Article 5
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-5 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-5/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-5 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-5/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-5 paragraph 4](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-5/paragraph/4.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-5 paragraph 5](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-5/paragraph/5.md)
+        - [Sch. 3C para. 6](schedule/3C/paragraph/6.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-5 paragraph 7](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-5/paragraph/7.md)
+      - Article 6
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-6 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-6/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-6 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-6/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 2 crossheading article-6 paragraph 4](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/2/crossheading/article-6/paragraph/4.md)
+      - Article 6A
+    - Section 3 Jurisdiction in Matters Relating to Insurance
+      - Article 7
+      - Article 8
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-8 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-8/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-8 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-8/paragraph/3.md)
+      - Article 9
+      - Article 10
+      - Article 11
+      - Article 12
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12 paragraph 4](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12/paragraph/4.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12 paragraph 5](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12/paragraph/5.md)
+      - Article 12A
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12a paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12a/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12a paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12a/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 3 crossheading article-12a paragraph 4](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/3/crossheading/article-12a/paragraph/4.md)
+    - Section 4 Jurisdiction Over Consumer Contracts
+      - Article 13
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 4 crossheading article-13 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/4/crossheading/article-13/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 4 crossheading article-13 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/4/crossheading/article-13/paragraph/3.md)
+      - Article 14
+      - Article 15
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 4 crossheading article-15 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/4/crossheading/article-15/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 4 crossheading article-15 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/4/crossheading/article-15/paragraph/3.md)
+    - Section 5 Exclusive Jurisdiction
+      - Article 16
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 5 crossheading article-16 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/5/crossheading/article-16/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 5 crossheading article-16 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/5/crossheading/article-16/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 5 crossheading article-16 paragraph 4](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/5/crossheading/article-16/paragraph/4.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 5 crossheading article-16 paragraph 5](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/5/crossheading/article-16/paragraph/5.md)
+    - Section 6 Prorogation of Jurisdiction
+      - Article 17
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 6 crossheading article-17 paragraph 2](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/6/crossheading/article-17/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 6 crossheading article-17 paragraph 3](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/6/crossheading/article-17/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 6 crossheading article-17 paragraph 4](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/6/crossheading/article-17/paragraph/4.md)
+        - [Sch. 3C Pt. TITLE II part TITLE II Ch. Section 6 crossheading article-17 paragraph 5](schedule/3C/part/TITLE/II/part/TITLE/II/chapter/Section/6/crossheading/article-17/paragraph/5.md)
+      - Article 18
+    - Section 7 Examination as to Jurisdiction and Admissibility
+      - Article 19
+      - Article 20
+    - Section 8 LIS PENDENS— Related Actions
+      - Article 21
+      - Article 22
+      - Article 23
+    - Section 9 Provisional, Including Protective, Measures
+      - Article 24
+  - TITLE III RECOGNITION AND ENFORCEMENT
+    - Article 25
+    - Section 1 Recognition
+      - Article 26
+      - Article 27
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 1 crossheading article-27 paragraph 2](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/1/crossheading/article-27/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 1 crossheading article-27 paragraph 3](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/1/crossheading/article-27/paragraph/3.md)
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 1 crossheading article-27 paragraph 4](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/1/crossheading/article-27/paragraph/4.md)
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 1 crossheading article-27 paragraph 5](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/1/crossheading/article-27/paragraph/5.md)
+      - Article 28
+      - Article 29
+      - Article 30
+    - Section 2 Enforcement
+      - Article 31
+      - Article 32
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 2 crossheading article-32 paragraph 1](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/2/crossheading/article-32/paragraph/1.md)
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 2 crossheading article-32 paragraph 2](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/2/crossheading/article-32/paragraph/2.md)
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 36
+      - Article 37
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 2 crossheading article-37 paragraph 1](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/2/crossheading/article-37/paragraph/1.md)
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 2 crossheading article-37 paragraph 2](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/2/crossheading/article-37/paragraph/2.md)
+      - Article 38
+      - Article 39
+      - Article 40
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 2 crossheading article-40 paragraph 1](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/2/crossheading/article-40/paragraph/1.md)
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 2 crossheading article-40 paragraph 2](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/2/crossheading/article-40/paragraph/2.md)
+      - Article 41
+      - Article 42
+      - Article 43
+      - Article 44
+      - Article 45
+    - Section 3 Common Provisions
+      - Article 46
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 3 crossheading article-46 paragraph 2](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/3/crossheading/article-46/paragraph/2.md)
+      - Article 47
+        - [Sch. 3C Pt. TITLE III part TITLE III Ch. Section 3 crossheading article-47 paragraph 2](schedule/3C/part/TITLE/III/part/TITLE/III/chapter/Section/3/crossheading/article-47/paragraph/2.md)
+      - Article 48
+      - Article 49
+  - TITLE IV AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
+    - Article 50
+    - Article 51
+  - TITLE V GENERAL PROVISIONS
+    - Article 52
+    - Article 53
+  - TITLE VI TRANSITIONAL PROVISIONS
+    - Article 54
+    - Article 54A
+      - [Sch. 3C Pt. TITLE VI crossheading article-54a paragraph 2](schedule/3C/part/TITLE/VI/crossheading/article-54a/paragraph/2.md)
+      - [Sch. 3C Pt. TITLE VI crossheading article-54a paragraph 3](schedule/3C/part/TITLE/VI/crossheading/article-54a/paragraph/3.md)
+      - [Sch. 3C Pt. TITLE VI crossheading article-54a paragraph 4](schedule/3C/part/TITLE/VI/crossheading/article-54a/paragraph/4.md)
+      - [Sch. 3C Pt. TITLE VI crossheading article-54a paragraph 5](schedule/3C/part/TITLE/VI/crossheading/article-54a/paragraph/5.md)
+      - [Sch. 3C Pt. TITLE VI crossheading article-54a paragraph 7](schedule/3C/part/TITLE/VI/crossheading/article-54a/paragraph/7.md)
+  - TITLE VII RELATIONSHIP TO THE BRUSSELS CONVENTION AND TO OTHER CONVENTIONS
+    - Article 54B
+      - [Sch. 3C Pt. TITLE VII crossheading article-54b paragraph 2](schedule/3C/part/TITLE/VII/crossheading/article-54b/paragraph/2.md)
+      - [Sch. 3C Pt. TITLE VII crossheading article-54b paragraph 3](schedule/3C/part/TITLE/VII/crossheading/article-54b/paragraph/3.md)
+    - Article 55
+    - Article 56
+    - Article 57
+      - [Sch. 3C Pt. TITLE VII crossheading article-57 paragraph 2](schedule/3C/part/TITLE/VII/crossheading/article-57/paragraph/2.md)
+      - [Sch. 3C Pt. TITLE VII crossheading article-57 paragraph 3](schedule/3C/part/TITLE/VII/crossheading/article-57/paragraph/3.md)
+      - [Sch. 3C Pt. TITLE VII crossheading article-57 paragraph 4](schedule/3C/part/TITLE/VII/crossheading/article-57/paragraph/4.md)
+      - [Sch. 3C Pt. TITLE VII crossheading article-57 paragraph 5](schedule/3C/part/TITLE/VII/crossheading/article-57/paragraph/5.md)
+    - Article 58
+    - (None)
+    - Article 59
+  - TITLE VIII FINAL PROVISIONS
+    - Article 60
+    - Article 61
+      - [Sch. 3C Pt. TITLE VIII crossheading article-61 paragraph 2](schedule/3C/part/TITLE/VIII/crossheading/article-61/paragraph/2.md)
+      - [Sch. 3C Pt. TITLE VIII crossheading article-61 paragraph 3](schedule/3C/part/TITLE/VIII/crossheading/article-61/paragraph/3.md)
+      - [Sch. 3C Pt. TITLE VIII crossheading article-61 paragraph 4](schedule/3C/part/TITLE/VIII/crossheading/article-61/paragraph/4.md)
+    - Article 62
+      - [Sch. 3C Pt. TITLE VIII crossheading article-62 paragraph 2](schedule/3C/part/TITLE/VIII/crossheading/article-62/paragraph/2.md)
+      - [Sch. 3C Pt. TITLE VIII crossheading article-62 paragraph 3](schedule/3C/part/TITLE/VIII/crossheading/article-62/paragraph/3.md)
+      - [Sch. 3C Pt. TITLE VIII crossheading article-62 paragraph 4](schedule/3C/part/TITLE/VIII/crossheading/article-62/paragraph/4.md)
+    - Article 63
+    - Article 64
+      - [Sch. 3C Pt. TITLE VIII crossheading article-64 paragraph 2](schedule/3C/part/TITLE/VIII/crossheading/article-64/paragraph/2.md)
+      - [Sch. 3C Pt. TITLE VIII crossheading article-64 paragraph 3](schedule/3C/part/TITLE/VIII/crossheading/article-64/paragraph/3.md)
+      - [Sch. 3C Pt. TITLE VIII crossheading article-64 paragraph 4](schedule/3C/part/TITLE/VIII/crossheading/article-64/paragraph/4.md)
+    - Article 65
+    - Article 66
+    - Article 67
+    - Article 68
+    - Protocol No. 1 ON CERTAIN QUESTIONS OF JURISDICTION, PROCEDURE AND ENFORCEMENT
+      - Article I
+      - Article Ia
+        - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 1 heading article-ia para. 2](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/1/crossheading/article-ia/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 1 heading article-ia para. 3](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/1/crossheading/article-ia/paragraph/3.md)
+      - Article Ib
+      - Article II
+      - Article III
+      - Article IV
+      - Article V
+      - Article Va
+      - Article Vb
+      - Article Vc
+      - (None)
+      - Article Vd
+      - Article VI
+    - Protocol No. 2 ON THE UNIFORM INTERPRETATION OF THE CONVENTION
+      - Preamble
+      - Article 1
+      - Article 2
+        - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 2 heading article-2 para. 2](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/2/crossheading/article-2/paragraph/2.md)
+      - Article 3
+        - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 2 heading article-3 para. 2](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/2/crossheading/article-3/paragraph/2.md)
+        - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 2 heading article-3 para. 3](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/2/crossheading/article-3/paragraph/3.md)
+      - Article 4
+        - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 2 heading article-4 para. 2](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/2/crossheading/article-4/paragraph/2.md)
+    - Protocol No. 3 ON THE APPLICATION OF ARTICLE 57
+      - [Sch. 3C Pt. TITLE VIII part TITLE VIII Ch. Protocol No. 3 para. 2](schedule/3C/part/TITLE/VIII/part/TITLE/VIII/chapter/Protocol/No/3/paragraph/2.md)
+- SCHEDULE 3D Text of the 1996 Hague Convention
+  - Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children
+    - CHAPTER I SCOPE OF THE CONVENTION
+      - Article 1
+      - Article 2
+      - Article 3
+      - Article 4
+    - CHAPTER II JURISDICTION
+      - Article 5
+      - Article 6
+      - Article 7
+      - Article 8
+      - Article 9
+      - Article 10
+      - Article 11
+      - Article 12
+      - Article 13
+      - Article 14
+    - CHAPTER III APPLICABLE LAW
+      - Article 15
+      - Article 16
+      - Article 17
+      - Article 18
+      - Article 19
+      - Article 20
+      - Article 21
+      - Article 22
+    - CHAPTER IV RECOGNITION AND ENFORCEMENT
+      - Article 23
+      - Article 24
+      - Article 25
+      - Article 26
+      - Article 27
+      - Article 28
+    - CHAPTER V CO-OPERATION
+      - Article 29
+      - Article 30
+      - Article 31
+      - Article 32
+      - Article 33
+      - Article 34
+      - Article 35
+      - Article 36
+      - Article 37
+      - Article 38
+      - Article 39
+    - CHAPTER VI GENERAL PROVISIONS
+      - Article 40
+      - Article 41
+      - Article 42
+      - Article 43
+      - Article 44
+      - Article 45
+      - Article 46
+      - Article 47
+      - Article 48
+      - Article 49
+      - Article 50
+      - Article 51
+      - Article 52
+      - Article 53
+      - Article 54
+      - Article 55
+      - Article 56
+    - CHAPTER VII FINAL CLAUSES
+      - Article 57
+      - Article 58
+      - Article 59
+      - Article 60
+      - Article 61
+      - Article 62
+      - Article 63
+- SCHEDULE 3E Declarations made by the United Kingdom in relation to the 1996 Hague Convention
+  - PART 1 Declaration concerning applicable territorial units
+  - PART 2 Declaration concerning communication of requests under paragraph 1 of Article 34
+  - PART 3 Declaration concerning the use of French
+- SCHEDULE 3F Text of the 2005 Hague Convention
+  - Convention on Choice of Court Agreements
+    - CHAPTER I SCOPE AND DEFINITIONS
+      - ARTICLE 1 Scope
+      - Article 2 Exclusions from scope
+      - Article 3 Exclusive choice of court agreements
+      - Article 4 Other definitions
+    - CHAPTER II JURISDICTION
+      - Article 5 Jurisdiction of the chosen court
+      - Article 6 Obligations of a court not chosen
+      - Article 7 Interim measures of protection
+    - CHAPTER III RECOGNITION AND ENFORCEMENT
+      - Article 8 Registration and enforcement
+      - Article 9 Refusal of recognition or enforcement
+      - Article 10 Preliminary questions
+      - Article 11 Damages
+      - Article 12 Judicial settlements (transactions judiciaires)
+      - Article 13 Documents to be produced
+      - Article 14 Procedure
+      - Article 15 Severability
+    - CHAPTER IV GENERAL CLAUSES
+      - Article 16 Transitional provisions
+      - Article 17 Contracts of insurance and reinsurance
+      - Article 18 No legalisation
+      - Article 19 Declarations limiting jurisdiction
+      - Article 20 Declarations limiting recognition and enforcement
+      - Article 21 Declarations with respect to specific matters
+      - Article 22 Reciprocal declarations on non-exclusive choice of court agreements
+      - Article 23 Uniform interpretation
+      - Article 24 Review of operation of the Convention
+      - Article 25 Non-unified legal systems
+      - Article 26 Relationship with other international instruments
+    - CHAPTER V FINAL CLAUSES
+      - Article 27 Signature, ratification, acceptance, approval or accession
+      - Article 28 Declarations with respect to non-unified legal systems
+      - Article 29 Regional Economic Integration Organisations
+      - Article 30 Accession by a Regional Economic Integration Organisation without its Member States
+      - Article 31 Entry into force
+      - Article 32 Declarations
+      - Article 33 Denunciation
+      - Article 34 Notifications by the depositary
+- SCHEDULE 3FA DECLARATIONS MADE BY THE UNITED KINGDOM IN RELATION TO THE 2005 HAGUE CONVENTION
+- SCHEDULE 3G Text of the 2007 Hague Convention
+  - Convention on the International Recovery of Child Support and Other Forms of Family Maintenance
+    - CHAPTER I OBJECT, SCOPE AND DEFINITIONS
+      - Article 1 Object
+      - Article 2 Scope
+      - Article 3 Definitions
+    - CHAPTER II ADMINISTRATIVE CO-OPERATION
+      - Article 4 Designation of Central Authorities
+      - Article 5 General functions of Central Authorities
+      - Article 6 Specific functions of Central Authorities
+      - Article 7 Requests for specific measures
+      - Article 8 Central Authority costs
+    - CHAPTER III APPLICATIONS THROUGH CENTRAL AUTHORITIES
+      - Article 9 Application through Central Authorities
+      - Article 10 Available applications
+      - Article 11 Application contents
+      - Article 12 Transmission, receipt and processing of applications and cases through Central Authorities
+      - Article 13 Means of communication
+      - Article 14 Effective access to procedures
+      - Article 15 Free legal assistance for child support applications
+      - Article 16 Declaration to permit use of child-centred means test
+      - Article 17 Applications not qualifying under Article 15 or Article 16
+    - CHAPTER IV RESTRICTIONS ON BRINGING PROCEEDINGS
+      - Article 18 Limit on proceedings
+    - CHAPTER V RECOGNITION AND ENFORCEMENT
+      - Article 19 Scope of the Chapter
+      - Article 20 Bases for recognition and enforcement
+      - Article 21 Severability and partial recognition and enforcement
+      - Article 22 Grounds for refusing recognition and enforcement
+      - Article 23 Procedure on an application for recognition and enforcement
+      - Article 24 Alternative procedure on an application for recognition and enforcement
+      - Article 25 Documents
+      - Article 26 Procedure on an application for recognition
+      - Article 27 Findings of fact
+      - Article 28 No review of the merits
+      - Article 29 Physical presence of the child or the applicant not required
+      - Article 30 Maintenance arrangements
+      - Article 31 Decisions produced by the combined effect of provisional and confirmation orders
+    - CHAPTER VI ENFORCEMENT BY THE STATE ADDRESSED
+      - Article 32 Enforcement under internal law
+      - Article 33 Non-discrimination
+      - Article 34 Enforcement measures
+      - Article 35 Transfer of funds
+    - CHAPTER VII PUBLIC BODIES
+      - Article 36 Public bodies as applicants
+    - CHAPTER VIII GENERAL PROVISIONS
+      - Article 37 Direct requests to competent authorities
+      - Article 38 Protection of personal data
+      - Article 39 Confidentiality
+      - Article 40 Non-disclosure of information
+      - Article 41 No legalisation
+      - Article 42 Power of attorney
+      - Article 43 Recovery of costs
+      - Article 44 Language requirements
+      - Article 45 Means and costs of translation
+      - Article 46 Non-unified legal systems—interpretation
+      - Article 47 Non-unified legal systems—substantive rules
+      - Article 48 Co-ordination with prior Hague Maintenance Conventions
+      - Article 49 Co-ordination with the 1956 New York Convention
+      - Article 50 Relationship with prior Hague Conventions on service of documents and taking of evidence
+      - Article 51 Co-ordination of instruments and supplementary agreements
+      - Article 52 Most effective rule
+      - Article 53 Uniform interpretation
+      - Article 54 Review of practical operation of the Convention
+      - Article 55 Amendment of forms
+      - Article 56 Transitional provisions
+      - Article 57 Provision of information concerning laws, procedures and services
+    - CHAPTER IX FINAL PROVISIONS
+      - Article 58 Signature, ratification and accession
+      - Article 59 Regional Economic Integration Organisations
+      - Article 60 Entry into force
+      - Article 61 Declarations with respect to non-unified legal systems
+      - Article 62 Reservations
+      - Article 63 Declarations
+      - Article 64 Denunciation
+      - Article 65 Notification
+- SCHEDULE 3GA RESERVATIONS AND DECLARATIONS MADE BY THE UNITED KINGDOM IN RELATION TO THE 2007 HAGUE CONVENTION
+  - PART 1 DECLARATION CONCERNING SPOUSAL SUPPORT
+    - [Sch. 3GA para. 1](schedule/3GA/paragraph/1.md)
+  - PART 2 RESERVATION CONCERNING USE OF FRENCH
+    - [Sch. 3GA para. 2](schedule/3GA/paragraph/2.md)
+  - PART 3 DECLARATION CONCERNING APPLICATION CONTENTS
+    - [Sch. 3GA para. 3](schedule/3GA/paragraph/3.md)
+  - PART 4 UNILATERAL DECLARATION CONCERNING THE APPLICATION OF THE CONVENTION
+    - [Sch. 3GA para. 4](schedule/3GA/paragraph/4.md)
+- Schedule 3H Text of the 2019 Hague Convention
+- SCHEDULE 4 CHAPTER II OF THE REGULATION AS MODIFIED: RULES FOR ALLOCATION OF JURISDICTION WITHIN UK
+  - General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Special jurisdiction
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Jurisdiction over consumer contracts
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Jurisdiction over individual contracts of employment
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Exclusive jurisdiction
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Prorogation of jurisdiction
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Examination as to jurisdiction and admissibility
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Provisional, including protective, measures
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - TITLE II JURISDICTION
+    - Section 1 General Provisions
+      - Article 2
+      - Article 3
+    - Section 2 Special jurisdiction
+      - Article 5
+      - Article 5A
+      - Article 6
+      - Article 6A
+    - Section 4 Jurisdiction over consumer contracts
+      - Article 13
+      - Article 14
+      - Article 15
+    - Section 5 Exclusive jurisdiction
+      - Article 16
+    - Section 6 Prorogation of jurisdiction
+      - Article 17
+      - Article 18
+    - Section 7 Examination as to jurisdiction and admissibility
+      - Article 19
+      - Article 20
+    - Section 9 Provisional, including protective, measures
+      - Article 24
+- SCHEDULE 5 PROCEEDINGS EXCLUDED FROM SECTION 4
+  - Proceedings under the Companies Acts
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Patents, trade marks, designs and similar rights
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Protection of Trading Interests Act 1980
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Appeals etc. from tribunals
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Maintenance and similar payments to local and other public authorities
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Proceedings under certain conventions, etc.
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Certain Admiralty proceedings in Scotland
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Register of aircraft mortgages
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Continental Shelf Act 1964
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Financial Services Act 1986
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Proceedings by third parties against insurers
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 ENFORCEMENT OF U.K. JUDGMENTS (MONEY PROVISIONS)
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Certificates in respect of judgments
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Registration of certificates
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - General effect of registration
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Costs or expenses
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Interest
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Stay or sisting of enforcement in certain cases
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Cases in which registration of a certificate must or may be set aside
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 ENFORCEMENT OF U.K. JUDGMENTS (NON-MONEY PROVISIONS)
+  - Preliminary
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Certified copies of judgments
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Registration of judgments
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - General effect of registration
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Costs or expenses
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Stay or sisting of enforcement in certain cases
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Cases in which registered judgment must or may be set aside
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 RULES AS TO JURISDICTION IN SCOTLAND
+  - General
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Special jurisdiction
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Jurisdiction over consumer contracts
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Jurisdiction over individual contracts of employment
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Exclusive jurisdiction
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Prorogation of jurisdiction
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Examination as to jurisdiction and admissibility
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+- SCHEDULE 9 PROCEEDINGS EXCLUDED FROM SCHEDULE 8
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 2A](schedule/9/paragraph/2A.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+- SCHEDULE 10 AMENDMENTS OF FOREIGN JUDGMENTS (RECIPROCAL ENFORCEMENT) ACT 1933
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 MINOR AMENDMENTS RELATING TO MAINTENANCE ORDERS
+  - PART I ENFORCEMENT OF LUMP SUM ORDERS
+    - Maintenance Orders Act 1950 (c. 37)
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Maintenance Orders Act 1958 (c.39)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35) (N.I.)
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - PART II RECOVERY OF INTERESTS ON ARREARS
+    - Maintenance Orders Act 1950 (c. 37)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Maintenance Orders Act 1958 (c.39)
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35) (N.I.)
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - PART III RECIPROCAL ENFORCEMENT FOUNDED ON PRESENCE OF ASSETS
+    - Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+- SCHEDULE 12 CONSEQUENTIAL AMENDMENTS
+  - PART I AMENDMENTS CONSEQUENTIAL ON PART I OF THIS ACT
+    - Army Act 1955 (c. 18) and Air Force Act 1955 (c. 19)
+      - [Sch. 12 Pt. I heading army-act-1955-c-18-and-air-force-act-1955-c-19 para. 1](schedule/12/part/I/crossheading/army-act-1955-c-18-and-air-force-act-1955-c-19/paragraph/1.md)
+    - Naval Discipline Act 1957 (c. 53)
+      - [Sch. 12 Pt. I heading naval-discipline-act-1957-c-53 para. 2](schedule/12/part/I/crossheading/naval-discipline-act-1957-c-53/paragraph/2.md)
+    - Maintenance Orders Act 1958 (c. 39)
+      - [Sch. 12 Pt. I heading maintenance-orders-act-1958-c-39 para. 3](schedule/12/part/I/crossheading/maintenance-orders-act-1958-c-39/paragraph/3.md)
+    - Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35) (N.I.)
+      - [Sch. 12 Pt. I heading maintenance-and-affiliation-orders-act-northern-ireland-1966-c-35-ni para. 4](schedule/12/part/I/crossheading/maintenance-and-affiliation-orders-act-northern-ireland-1966-c-35-ni/paragraph/4.md)
+    - Administration of Justice Act 1970 (c. 31)
+      - [Sch. 12 Pt. I heading administration-of-justice-act-1970-c-31 para. 5](schedule/12/part/I/crossheading/administration-of-justice-act-1970-c-31/paragraph/5.md)
+    - Attachment of Earnings Act 1971 (c. 32)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26))
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - PART II AMENDMENTS CONSEQUENTIAL ON SCHEDULE 8
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1940 (c. 42)
+      - [Sch. 12 Pt. II heading law-reform-miscellaneous-provisions-scotland-act-1940-c-42 para. 1](schedule/12/part/II/crossheading/law-reform-miscellaneous-provisions-scotland-act-1940-c-42/paragraph/1.md)
+    - Maintenance Orders Act 1950 (c. 37)
+      - [Sch. 12 Pt. II heading maintenance-orders-act-1950-c-37 para. 2](schedule/12/part/II/crossheading/maintenance-orders-act-1950-c-37/paragraph/2.md)
+    - Maintenance Orders (Reciprocal Enforcement) Act 1972 (c. 18)
+      - [Sch. 12 Pt. II heading maintenance-orders-reciprocal-enforcement-act-1972-c-18 para. 3](schedule/12/part/II/crossheading/maintenance-orders-reciprocal-enforcement-act-1972-c-18/paragraph/3.md)
+    - Consumer Credit Act 1974 (c. 39)
+      - [Sch. 12 Pt. II heading consumer-credit-act-1974-c-39 para. 4](schedule/12/part/II/crossheading/consumer-credit-act-1974-c-39/paragraph/4.md)
+  - PART III AMENDMENTS CONSEQUENTIAL ON SECTION 36
+    - Maintenance Orders Act 1950 (c.37)
+      - [Sch. 12 Pt. III heading maintenance-orders-act-1950-c37 para. 1](schedule/12/part/III/crossheading/maintenance-orders-act-1950-c37/paragraph/1.md)
+    - Maintenance Orders Act 1958 (c. 39)
+      - [Sch. 12 Pt. III heading maintenance-orders-act-1958-c-39 para. 2](schedule/12/part/III/crossheading/maintenance-orders-act-1958-c-39/paragraph/2.md)
+    - Maintenance and Affiliation Orders Act (Northern Ireland) 1966 (c. 35) (N.I.)
+      - [Sch. 12 Pt. III heading maintenance-and-affiliation-orders-act-northern-ireland-1966-c-35-ni para. 3](schedule/12/part/III/crossheading/maintenance-and-affiliation-orders-act-northern-ireland-1966-c-35-ni/paragraph/3.md)
+    - Judgments Enforcement (Northern Ireland) Order 1981 (S.I. 1981/266 (N.I.))
+      - [Sch. 12 Pt. III heading judgments-enforcement-northern-ireland-order-1981-si-1981266-ni para. 4](schedule/12/part/III/crossheading/judgments-enforcement-northern-ireland-order-1981-si-1981266-ni/paragraph/4.md)
+    - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I.))
+      - [Sch. 12 Pt. III heading magistrates-courts-northern-ireland-order-1981-si-19811675-ni para. 5](schedule/12/part/III/crossheading/magistrates-courts-northern-ireland-order-1981-si-19811675-ni/paragraph/5.md)
+- SCHEDULE 13 Commencement, Transitional Provisions and Savings
+  - Part I Commencement
+    - Provisions coming into force on Royal Assent
+      - [Sch. 13 Pt. I heading provisions-coming-into-force-on-royal-assent para. 1](schedule/13/part/I/crossheading/provisions-coming-into-force-on-royal-assent/paragraph/1.md)
+    - Provisions coming into force six weeks after Royal Assent
+      - [Sch. 13 Pt. I heading provisions-coming-into-force-six-weeks-after-royal-assent para. 2](schedule/13/part/I/crossheading/provisions-coming-into-force-six-weeks-after-royal-assent/paragraph/2.md)
+    - Provisions coming into force on a day to be appointed
+      - [Sch. 13 Pt. I heading provisions-coming-into-force-on-a-day-to-be-appointed para. 3](schedule/13/part/I/crossheading/provisions-coming-into-force-on-a-day-to-be-appointed/paragraph/3.md)
+  - Part II Transitional Provisions and Savings
+    - Section 16 and Schedule 4
+      - [Sch. 13 Pt. II heading section-16-and-schedule-4 para. 1](schedule/13/part/II/crossheading/section-16-and-schedule-4/paragraph/1.md)
+    - Section 18 and Schedule 6 and associated repeals
+      - [Sch. 13 Pt. II heading section-18-and-schedule-6-and-associated-repeals para. 2](schedule/13/part/II/crossheading/section-18-and-schedule-6-and-associated-repeals/paragraph/2.md)
+    - Section 18 and Schedule 7
+      - [Sch. 13 Pt. II heading section-18-and-schedule-7 para. 3](schedule/13/part/II/crossheading/section-18-and-schedule-7/paragraph/3.md)
+    - Section 19
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Section 20 and Schedule 8
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Section 26
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Section 31
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Section 32 and associated repeal
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Section 33 and associated repeal
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Section 34
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 Repeals
