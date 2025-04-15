@@ -1,0 +1,242 @@
+# Energy Act 2016
+
+2016 c. 20. Enacted 2016-05-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-04-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2016/20/2025-04-15
+
+## Contents
+
+- PART 1 The OGA
+  - The OGA and its core functions
+    - [s. 1 The OGA](section/1.md)
+    - [s. 2 Transfer of functions to the OGA](section/2.md)
+    - [s. 3 Transfer of property, rights and liabilities to the OGA](section/3.md)
+    - [s. 4 Transfer of staff to the OGA](section/4.md)
+    - [s. 5 Transfer schemes: supplementary](section/5.md)
+    - [s. 6 Pensions](section/6.md)
+    - [s. 7 Contracting out of functions to the OGA](section/7.md)
+  - Exercise of functions
+    - [s. 8 Matters to which the OGA must have regard](section/8.md)
+    - [s. 9 Directions: national security and public interest](section/9.md)
+    - [s. 10 Directions: requirements to notify Secretary of State](section/10.md)
+  - Information and samples
+    - [s. 11 Power of Secretary of State to require information and samples](section/11.md)
+  - Funding
+    - [s. 12 Powers of the OGA to charge fees](section/12.md)
+    - [s. 13 Levy on licence holders](section/13.md)
+    - [s. 14 The licensing levy: regulations](section/14.md)
+    - [s. 15 Payments and financial assistance](section/15.md)
+  - Review
+    - [s. 16 Review of OGA and guidance from Secretary of State](section/16.md)
+- PART 2 Further functions of the OGA relating to offshore petroleum
+  - CHAPTER 1 Introduction
+    - [s. 17 Overview of Part 2](section/17.md)
+    - [s. 18 Interpretation of Part 2](section/18.md)
+  - CHAPTER 2 Disputes
+    - [s. 19 Qualifying disputes and relevant parties](section/19.md)
+    - [s. 20 Reference of disputes to the OGA](section/20.md)
+    - [s. 21 Action by the OGA on a dispute reference](section/21.md)
+    - [s. 22 Power of the OGA to consider disputes on its own initiative](section/22.md)
+    - [s. 23 Procedure for consideration of disputes](section/23.md)
+    - [s. 24 Power of the OGA to acquire information](section/24.md)
+    - [s. 25 Power of the OGA to require attendance at meetings](section/25.md)
+    - [s. 26 Appeals against decisions of the OGA: disputes](section/26.md)
+  - CHAPTER 3 Information and samples
+    - Interpretation
+      - [s. 27 Petroleum-related information and samples](section/27.md)
+    - Retention
+      - [s. 28 Retention of information and samples](section/28.md)
+      - [s. 29 Retention: supplementary](section/29.md)
+    - Information and samples plans
+      - [s. 30 Information and samples plans: termination of rights under offshore licences](section/30.md)
+      - [s. 31 Preparation and agreement of information and samples plans](section/31.md)
+      - [s. 32 Changes to information and samples plans](section/32.md)
+      - [s. 33 Information and samples plans: supplementary](section/33.md)
+    - Power to require information and samples
+      - [s. 34 Power of the OGA to require information and samples](section/34.md)
+    - Coordinators
+      - [s. 35 Information and samples coordinators](section/35.md)
+    - Appeals
+      - [s. 36 Appeals against decisions of the OGA: information and samples plans](section/36.md)
+  - CHAPTER 4 Meetings
+    - [s. 37 Meetings: interpretation](section/37.md)
+    - [s. 38 Duty to inform the OGA of meetings](section/38.md)
+    - [s. 39 Participation by the OGA in meetings](section/39.md)
+    - [s. 40 Provision of information to the OGA after meetings](section/40.md)
+    - [s. 41 Notices](section/41.md)
+  - CHAPTER 5 Sanctions
+    - Power to give sanction notices
+      - [s. 42 Power of OGA to give sanction notices](section/42.md)
+    - Sanction notices
+      - [s. 43 Enforcement notices](section/43.md)
+      - [s. 44 Financial penalty notices](section/44.md)
+      - [s. 45 Amount of financial penalty](section/45.md)
+      - [s. 46 Payment of financial penalty](section/46.md)
+      - [s. 47 Revocation notices](section/47.md)
+      - [s. 48 Operator removal notices](section/48.md)
+    - Sanction warning notices
+      - [s. 49 Duty of OGA to give sanction warning notices](section/49.md)
+    - Appeals
+      - [s. 50 Appeals in relation to sanction notices](section/50.md)
+      - [s. 51 Appeals against finding of failure to comply](section/51.md)
+      - [s. 52 Appeals against sanction imposed](section/52.md)
+    - Supplementary
+      - [s. 53 Publication of details of sanctions](section/53.md)
+      - [s. 54 Subsequent sanction notices](section/54.md)
+      - [s. 55 Withdrawal of sanction notices](section/55.md)
+      - [s. 56 Alternative means of enforcement](section/56.md)
+    - Information
+      - [s. 57 Sanctions: information powers](section/57.md)
+      - [s. 58 Appeals against information requests](section/58.md)
+    - The OGA’s procedures
+      - [s. 59 Procedure for enforcement decisions](section/59.md)
+    - Interpretation
+      - [s. 60 Sanctions: interpretation](section/60.md)
+  - CHAPTER 6 Disclosure
+    - General prohibition
+      - [s. 61 Prohibition on disclosure](section/61.md)
+      - [s. 62 Meaning of “protected material” and related terms](section/62.md)
+    - Permitted disclosures
+      - [s. 63 Disclosure by OGA to certain persons](section/63.md)
+      - [s. 64 Disclosure required for returns and reports prepared by OGA](section/64.md)
+      - [s. 65 Disclosure in exercise of certain OGA powers](section/65.md)
+      - [s. 66 Disclosure after specified period](section/66.md)
+      - [s. 67 Disclosure with appropriate consent](section/67.md)
+      - [s. 68 Disclosure required by legislation](section/68.md)
+      - [s. 69 Disclosure for purpose of proceedings](section/69.md)
+- PART 3 Infrastructure and Information
+  - Rights to use upstream petroleum infrastructure
+    - [s. 70 Requirements to provide information](section/70.md)
+    - [s. 71 Applications to use infrastructure: changes of applicant and owner](section/71.md)
+  - Decommissioning
+    - [s. 72 Abandonment of offshore installations](section/72.md)
+    - [s. 73 Duty to act in accordance with strategy: decommissioning and alternatives](section/73.md)
+  - Northern Ireland
+    - [s. 74 Part 1A of the Petroleum Act 1998: Northern Ireland](section/74.md)
+  - International agreements
+    - [s. 75 International oil and gas agreements: information exchange](section/75.md)
+- PART 4 Fees
+  - [s. 76 Powers to charge fees](section/76.md)
+  - [s. 77 Validation of fees charged](section/77.md)
+- PART 5 Wind power
+  - Consent under Electricity Act 1989
+    - [s. 78 Onshore wind generating stations in England and Wales](section/78.md)
+  - Renewables obligation
+    - [s. 79 Onshore wind power: closure of renewables obligation](section/79.md)
+    - [s. 80 Onshore wind power: circumstances in which certificates may be issued after the onshore wind closure date](section/80.md)
+    - [s. 81 Onshore wind power: use of Northern Ireland certificates](section/81.md)
+- PART 6 Final Provisions
+  - [s. 82 Regulations](section/82.md)
+  - [s. 83 Regulations and orders: disapplication of requirements to consult the OGA](section/83.md)
+  - [s. 84 Commencement](section/84.md)
+  - [s. 85 Short title and extent](section/85.md)
+- SCHEDULE 1 TRANSFER OF FUNCTIONS TO THE OGA
+  - PART 1 Primary legislation
+    - Energy Act 1976
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Petroleum Act 1998
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Energy Act 2004
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - Energy Act 2008
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - Energy Act 2011
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+    - Infrastructure Act 2015
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+  - PART 2 Secondary legislation
+    - Storage of Carbon Dioxide (Licensing etc) Regulations 2010
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+- SCHEDULE 2 ABANDONMENT OF OFFSHORE INSTALLATIONS
+  - Petroleum Act 1998
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Energy Act 2008
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
