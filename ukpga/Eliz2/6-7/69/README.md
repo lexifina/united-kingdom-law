@@ -1,0 +1,353 @@
+# Opencast Coal Act 1958
+
+1958 c. 69. Enacted 1958-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/6-7/69
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/6-7/69/2025-05-01
+
+## Contents
+
+- Part I Authorisation of, and Facilities for, Opencast Working of Coal
+  - [s. 1 Authorisation of opencast working of coal.](section/1.md)
+  - [s. 2 Planning permission for authorised operations.](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 Compulsory rights orders.](section/4.md)
+  - [s. 5 Effect of opencast site orders.](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7 General limitations on effect of compulsory rights orders.](section/7.md)
+  - [s. 8 Limited compulsory rights orders.](section/8.md)
+  - [s. 9 Property exempt from inclusion in compulsory rights orders.](section/9.md)
+  - [s. 10 Provisions as to minerals other than coal, and as to timber, crops etc.](section/10.md)
+  - [s. 11 Registration of compulsory rights orders.](section/11.md)
+  - [s. 12 Removal and disposal of chattels from land comprised in compulsory rights order.](section/12.md)
+  - [s. 13 ................................](section/13.md)
+  - [s. 14 Provisions as to agricultural tenancies in England and Wales.](section/14.md)
+  - [s. 14A Provisions as to agricultural tenancies in Scotland.](section/14A.md)
+  - [s. 14B Provisions as to farm business tenancies.](section/14B.md)
+  - [s. 15 Suspension of certain public rights of way.](section/15.md)
+  - [s. 15A Supension of public rights of way—supplementary.](section/15A.md)
+  - [s. 16 Acquisition of rights for purposes of drainage or water supply.](section/16.md)
+- Part II Compensation for Compulsory Rights Orders
+  - Compensation in respect of agricultural land
+    - [s. 17 General provisions as to annual compensation.](section/17.md)
+    - [s. 18 Calculation of compensation undersection 17.](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 Terminal compensation.](section/21.md)
+    - [s. 22 Compensation by way of payment of cost of works.](section/22.md)
+    - [s. 23 Compensation by reference to the diminution in value of the holding.](section/23.md)
+    - [s. 23A Additional compensation on re-occupation.](section/23A.md)
+    - [s. 24 Tenant’s right to compensation for improvements and other matters.](section/24.md)
+    - [s. 25 Deductions from tenant’s compensation.](section/25.md)
+    - [s. 25A Tenant’s right to compensation for improvements etc.: farm business tenancies.](section/25A.md)
+    - [s. 26 Compensation for short-term improvements and related matters.](section/26.md)
+    - [s. 27 Compensation in respect of forced sales.](section/27.md)
+    - [s. 28 Special provisions as to market gardens.](section/28.md)
+  - Compensation in respect of non-agricultural land
+    - [s. 29 Annual and terminal compensation, and compensation in respect of forced sales.](section/29.md)
+    - [s. 30 Non-agricultural tenant’s improvements.](section/30.md)
+  - Compensation in respect of other matters
+    - [s. 31 Compensation in respect of easements and other rights.](section/31.md)
+    - [s. 31A Compensation in respect of disposable minerals.](section/31A.md)
+    - [s. 32 Compensation for depreciation of other land in same ownership.](section/32.md)
+    - [s. 33 Compensation in respect of minerals.](section/33.md)
+  - Supplementary provisions as to compensation
+    - [s. 34 Provisions as to compensation in special cases.](section/34.md)
+    - [s. 35 Time when compensation accrues due.](section/35.md)
+    - [s. 36 Record of condition of land.](section/36.md)
+- Part III Miscellaneous and Supplementary Provisions
+  - [s. 37 Consequential adjustments between landlords and tenants and in respect of mortgages and mining leases and orders.](section/37.md)
+  - [s. 38 Protection from compulsory purchase of land occupied for authorised purposes.](section/38.md)
+  - [s. 39 Entry on land.](section/39.md)
+  - [s. 40 Claims for compensation payable by Corporation](section/40.md)
+  - [s. 41 Provisions as to allotment gardens and other allotments.](section/41.md)
+  - [s. 42 Special provisions as to property held for religious purposes.](section/42.md)
+  - [s. 43 Provisions as to mortgaged land and other special cases.](section/43.md)
+  - [s. 44 Crown land.](section/44.md)
+  - [s. 45 Provisions as to telegraphic lines.](section/45.md)
+  - [s. 46](section/46.md)
+  - [s. 47 Provisions as to notices and public inquiries.](section/47.md)
+  - [s. 48 Transitional provisions.](section/48.md)
+  - [s. 49 Provisions as to regulations and orders.](section/49.md)
+  - [s. 50 Expenses.](section/50.md)
+  - [s. 51 Interpretation.](section/51.md)
+  - [s. 52 General application to Scotland.](section/52.md)
+  - [s. 53 Short title, commencement and extent.](section/53.md)
+- FIRST SCHEDULE
+  - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+  - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+  - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+  - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+  - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+  - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+  - [Sch. FIRST para. 7](schedule/FIRST/paragraph/7.md)
+  - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+  - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+  - [Sch. FIRST para. 10](schedule/FIRST/paragraph/10.md)
+  - [Sch. FIRST para. 11](schedule/FIRST/paragraph/11.md)
+- SECOND SCHEDULE Procedure relating to compulsory rights orders
+  - Part I
+    - Making, confirmation, validity and date of operation of orders
+      - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+      - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+      - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+      - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+      - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+      - [Sch. SECOND para. 6](schedule/SECOND/paragraph/6.md)
+      - [Sch. SECOND para. 7](schedule/SECOND/paragraph/7.md)
+      - [Sch. SECOND para. 8](schedule/SECOND/paragraph/8.md)
+      - [Sch. SECOND para. 9](schedule/SECOND/paragraph/9.md)
+      - [Sch. SECOND para. 10](schedule/SECOND/paragraph/10.md)
+      - [Sch. SECOND para. 11](schedule/SECOND/paragraph/11.md)
+      - [Sch. SECOND para. 12](schedule/SECOND/paragraph/12.md)
+  - Part II
+    - Notification of date of entry
+      - [Sch. SECOND para. 13](schedule/SECOND/paragraph/13.md)
+      - [Sch. SECOND para. 14](schedule/SECOND/paragraph/14.md)
+      - [Sch. SECOND para. 15](schedule/SECOND/paragraph/15.md)
+      - [Sch. SECOND para. 16](schedule/SECOND/paragraph/16.md)
+      - [Sch. SECOND para. 17](schedule/SECOND/paragraph/17.md)
+- THIRD SCHEDULE Provisions as to compensation by way of payment of cost of works
+  - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+  - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+  - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+  - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+  - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+  - [Sch. THIRD para. 6](schedule/THIRD/paragraph/6.md)
+  - [Sch. THIRD para. 7](schedule/THIRD/paragraph/7.md)
+  - [Sch. THIRD para. 8](schedule/THIRD/paragraph/8.md)
+  - [Sch. THIRD para. 9](schedule/THIRD/paragraph/9.md)
+  - [Sch. THIRD para. 10](schedule/THIRD/paragraph/10.md)
+  - [Sch. THIRD para. 11](schedule/THIRD/paragraph/11.md)
+  - [Sch. THIRD para. 12](schedule/THIRD/paragraph/12.md)
+  - [Sch. THIRD para. 13](schedule/THIRD/paragraph/13.md)
+- FOURTH SCHEDULE Short-term improvements and related matters for which compensation is payable
+  - Part I Improvements
+    - [Sch. FOURTH para. 1](schedule/FOURTH/paragraph/1.md)
+    - [Sch. FOURTH para. 2](schedule/FOURTH/paragraph/2.md)
+    - [Sch. FOURTH para. 3](schedule/FOURTH/paragraph/3.md)
+    - [Sch. FOURTH para. 4](schedule/FOURTH/paragraph/4.md)
+    - [Sch. FOURTH para. 5](schedule/FOURTH/paragraph/5.md)
+    - [Sch. FOURTH para. 6](schedule/FOURTH/paragraph/6.md)
+    - [Sch. FOURTH para. 7](schedule/FOURTH/paragraph/7.md)
+  - Part II Other matters
+    - [Sch. FOURTH para. 8](schedule/FOURTH/paragraph/8.md)
+    - [Sch. FOURTH para. 9](schedule/FOURTH/paragraph/9.md)
+    - [Sch. FOURTH para. 10](schedule/FOURTH/paragraph/10.md)
+    - [Sch. FOURTH para. 11](schedule/FOURTH/paragraph/11.md)
+  - Part III Modifications of Part II of this Schedule in relation to land not occupied by a tenant
+  - Part IV Improvements (Scotland)
+    - [Sch. FOURTH para. 12](schedule/FOURTH/paragraph/12.md)
+    - [Sch. FOURTH para. 13](schedule/FOURTH/paragraph/13.md)
+    - [Sch. FOURTH para. 14](schedule/FOURTH/paragraph/14.md)
+    - [Sch. FOURTH para. 15](schedule/FOURTH/paragraph/15.md)
+    - [Sch. FOURTH para. 16](schedule/FOURTH/paragraph/16.md)
+    - [Sch. FOURTH para. 17](schedule/FOURTH/paragraph/17.md)
+    - [Sch. FOURTH para. 18](schedule/FOURTH/paragraph/18.md)
+    - [Sch. FOURTH para. 19](schedule/FOURTH/paragraph/19.md)
+    - [Sch. FOURTH para. 20](schedule/FOURTH/paragraph/20.md)
+    - [Sch. FOURTH para. 21](schedule/FOURTH/paragraph/21.md)
+  - Part V Modifications of Part IV of this Schedule in relation to land not occupied by a tenant
+  - Part VI Market garden improvements
+    - [Sch. FOURTH para. 22](schedule/FOURTH/paragraph/22.md)
+    - [Sch. FOURTH para. 23](schedule/FOURTH/paragraph/23.md)
+    - [Sch. FOURTH para. 24](schedule/FOURTH/paragraph/24.md)
+    - [Sch. FOURTH para. 25](schedule/FOURTH/paragraph/25.md)
+    - [Sch. FOURTH para. 26](schedule/FOURTH/paragraph/26.md)
+- FIFTH SCHEDULE Compensation in respect of minerals
+  - General provisions
+    - [Sch. FIFTH para. 1](schedule/FIFTH/paragraph/1.md)
+    - [Sch. FIFTH para. 2](schedule/FIFTH/paragraph/2.md)
+  - Annual and initial compensation payable to mineral operator
+    - [Sch. FIFTH para. 3](schedule/FIFTH/paragraph/3.md)
+    - [Sch. FIFTH para. 4](schedule/FIFTH/paragraph/4.md)
+    - [Sch. FIFTH para. 5](schedule/FIFTH/paragraph/5.md)
+    - [Sch. FIFTH para. 6](schedule/FIFTH/paragraph/6.md)
+  - Terminal compensation payable to mineral operator
+    - [Sch. FIFTH para. 7](schedule/FIFTH/paragraph/7.md)
+    - [Sch. FIFTH para. 8](schedule/FIFTH/paragraph/8.md)
+    - [Sch. FIFTH para. 9](schedule/FIFTH/paragraph/9.md)
+    - [Sch. FIFTH para. 10](schedule/FIFTH/paragraph/10.md)
+  - Compensation payable to owner other than mineral operator
+    - [Sch. FIFTH para. 11](schedule/FIFTH/paragraph/11.md)
+    - [Sch. FIFTH para. 12](schedule/FIFTH/paragraph/12.md)
+    - [Sch. FIFTH para. 13](schedule/FIFTH/paragraph/13.md)
+  - Provisions as to compensation under other provisions of Part II
+    - [Sch. FIFTH para. 14](schedule/FIFTH/paragraph/14.md)
+    - [Sch. FIFTH para. 15](schedule/FIFTH/paragraph/15.md)
+- SIXTH SCHEDULE Application of compensation provisions to special cases
+  - Changes in right of occupation, or division of ownership of holding
+    - [Sch. SIXTH para. 1](schedule/SIXTH/paragraph/1.md)
+    - [Sch. SIXTH para. 2](schedule/SIXTH/paragraph/2.md)
+    - [Sch. SIXTH para. 3](schedule/SIXTH/paragraph/3.md)
+    - [Sch. SIXTH para. 4](schedule/SIXTH/paragraph/4.md)
+    - [Sch. SIXTH para. 4A](schedule/SIXTH/paragraph/4A.md)
+    - [Sch. SIXTH para. 5](schedule/SIXTH/paragraph/5.md)
+    - [Sch. SIXTH para. 6](schedule/SIXTH/paragraph/6.md)
+  - Provisions as to assessment of profit or loss under s. 19
+    - [Sch. SIXTH para. 7](schedule/SIXTH/paragraph/7.md)
+    - [Sch. SIXTH para. 8](schedule/SIXTH/paragraph/8.md)
+    - [Sch. SIXTH para. 9](schedule/SIXTH/paragraph/9.md)
+    - [Sch. SIXTH para. 10](schedule/SIXTH/paragraph/10.md)
+    - [Sch. SIXTH para. 11](schedule/SIXTH/paragraph/11.md)
+  - Assessment of annual compensation otherwise than by reference to letting from year to year
+    - [Sch. SIXTH para. 12](schedule/SIXTH/paragraph/12.md)
+    - [Sch. SIXTH para. 13](schedule/SIXTH/paragraph/13.md)
+  - Valuation of property otherwise than by reference to sale in open market
+    - [Sch. SIXTH para. 14](schedule/SIXTH/paragraph/14.md)
+  - Woodlands
+    - [Sch. SIXTH para. 15](schedule/SIXTH/paragraph/15.md)
+  - Terminal compensation in respect of agricultural land qualifying for compensation under s. 26
+    - [Sch. SIXTH para. 16](schedule/SIXTH/paragraph/16.md)
+  - Provisions as to compensation under s. 32
+    - [Sch. SIXTH para. 17](schedule/SIXTH/paragraph/17.md)
+    - [Sch. SIXTH para. 18](schedule/SIXTH/paragraph/18.md)
+    - [Sch. SIXTH para. 19](schedule/SIXTH/paragraph/19.md)
+  - Restricted lettings, and easements and similar rights
+    - [Sch. SIXTH para. 20](schedule/SIXTH/paragraph/20.md)
+    - [Sch. SIXTH para. 21](schedule/SIXTH/paragraph/21.md)
+    - [Sch. SIXTH para. 22](schedule/SIXTH/paragraph/22.md)
+    - [Sch. SIXTH para. 23](schedule/SIXTH/paragraph/23.md)
+    - [Sch. SIXTH para. 24](schedule/SIXTH/paragraph/24.md)
+    - [Sch. SIXTH para. 25](schedule/SIXTH/paragraph/25.md)
+  - Apportionment of annual compensation in respect of parts of a year
+    - [Sch. SIXTH para. 26](schedule/SIXTH/paragraph/26.md)
+    - [Sch. SIXTH para. 27](schedule/SIXTH/paragraph/27.md)
+    - [Sch. SIXTH para. 28](schedule/SIXTH/paragraph/28.md)
+  - Concurrent compulsory rights orders
+    - [Sch. SIXTH para. 29](schedule/SIXTH/paragraph/29.md)
+  - Compensation in respect of limited compulsory rights orders
+    - [Sch. SIXTH para. 30](schedule/SIXTH/paragraph/30.md)
+  - Application to Scotland
+    - [Sch. SIXTH para. 31](schedule/SIXTH/paragraph/31.md)
+- SEVENTH SCHEDULE Adustments between landlords and tenants and in respect of mortgages and mining leases and orders
+  - Part I Agricultural holdings
+    - [Sch. SEVENTH para. 1](schedule/SEVENTH/paragraph/1.md)
+    - [Sch. SEVENTH para. 1A](schedule/SEVENTH/paragraph/1A.md)
+    - [Sch. SEVENTH para. 2](schedule/SEVENTH/paragraph/2.md)
+    - [Sch. SEVENTH para. 2A](schedule/SEVENTH/paragraph/2A.md)
+    - [Sch. SEVENTH para. 3](schedule/SEVENTH/paragraph/3.md)
+    - [Sch. SEVENTH para. 3A](schedule/SEVENTH/paragraph/3A.md)
+    - [Sch. SEVENTH para. 4](schedule/SEVENTH/paragraph/4.md)
+    - [Sch. SEVENTH para. 4A](schedule/SEVENTH/paragraph/4A.md)
+    - [Sch. SEVENTH para. 5](schedule/SEVENTH/paragraph/5.md)
+    - [Sch. SEVENTH para. 6](schedule/SEVENTH/paragraph/6.md)
+    - [Sch. SEVENTH para. 7](schedule/SEVENTH/paragraph/7.md)
+    - [Sch. SEVENTH para. 7A](schedule/SEVENTH/paragraph/7A.md)
+  - Part II Other land
+    - [Sch. SEVENTH para. 8](schedule/SEVENTH/paragraph/8.md)
+    - [Sch. SEVENTH para. 9](schedule/SEVENTH/paragraph/9.md)
+    - [Sch. SEVENTH para. 10](schedule/SEVENTH/paragraph/10.md)
+    - [Sch. SEVENTH para. 11](schedule/SEVENTH/paragraph/11.md)
+    - [Sch. SEVENTH para. 12](schedule/SEVENTH/paragraph/12.md)
+    - [Sch. SEVENTH para. 13](schedule/SEVENTH/paragraph/13.md)
+  - Part III General provisions for protection in respect of tenancies and mortgages
+    - [Sch. SEVENTH para. 14](schedule/SEVENTH/paragraph/14.md)
+    - [Sch. SEVENTH para. 15](schedule/SEVENTH/paragraph/15.md)
+    - [Sch. SEVENTH para. 16](schedule/SEVENTH/paragraph/16.md)
+  - Part IV Provisions as to mining leases and orders
+    - [Sch. SEVENTH para. 17](schedule/SEVENTH/paragraph/17.md)
+    - [Sch. SEVENTH para. 18](schedule/SEVENTH/paragraph/18.md)
+  - Part V Special provisions as to business, professional and other tenants
+    - [Sch. SEVENTH para. 19](schedule/SEVENTH/paragraph/19.md)
+    - [Sch. SEVENTH para. 20](schedule/SEVENTH/paragraph/20.md)
+    - [Sch. SEVENTH para. 21](schedule/SEVENTH/paragraph/21.md)
+    - [Sch. SEVENTH para. 22](schedule/SEVENTH/paragraph/22.md)
+    - [Sch. SEVENTH para. 23](schedule/SEVENTH/paragraph/23.md)
+    - [Sch. SEVENTH para. 24](schedule/SEVENTH/paragraph/24.md)
+  - Part VI Application to Scotland
+    - [Sch. SEVENTH para. 25](schedule/SEVENTH/paragraph/25.md)
+- EIGHTH SCHEDULE Tenancies of allotment gardens and other allotments
+  - [Sch. EIGHTH para. 1](schedule/EIGHTH/paragraph/1.md)
+  - [Sch. EIGHTH para. 2](schedule/EIGHTH/paragraph/2.md)
+  - [Sch. EIGHTH para. 3](schedule/EIGHTH/paragraph/3.md)
+  - [Sch. EIGHTH para. 4](schedule/EIGHTH/paragraph/4.md)
+  - [Sch. EIGHTH para. 5](schedule/EIGHTH/paragraph/5.md)
+  - [Sch. EIGHTH para. 6](schedule/EIGHTH/paragraph/6.md)
+  - [Sch. EIGHTH para. 7](schedule/EIGHTH/paragraph/7.md)
+  - [Sch. EIGHTH para. 8](schedule/EIGHTH/paragraph/8.md)
+  - [Sch. EIGHTH para. 9](schedule/EIGHTH/paragraph/9.md)
+  - [Sch. EIGHTH para. 10](schedule/EIGHTH/paragraph/10.md)
+- NINTH SCHEDULE Provisions as to notices
+  - [Sch. NINTH para. 1](schedule/NINTH/paragraph/1.md)
+  - [Sch. NINTH para. 2](schedule/NINTH/paragraph/2.md)
+  - [Sch. NINTH para. 3](schedule/NINTH/paragraph/3.md)
+  - [Sch. NINTH para. 4](schedule/NINTH/paragraph/4.md)
+- TENTH SCHEDULE TRANSITIONAL PROVISIONS
+  - Part I General
+    - [Sch. TENTH para. 1](schedule/TENTH/paragraph/1.md)
+  - Part II Opencast Sites
+    - Authorisations
+      - [Sch. TENTH para. 2](schedule/TENTH/paragraph/2.md)
+      - [Sch. TENTH para. 3](schedule/TENTH/paragraph/3.md)
+      - [Sch. TENTH para. 4](schedule/TENTH/paragraph/4.md)
+    - Termination of emergency powers
+      - [Sch. TENTH para. 5](schedule/TENTH/paragraph/5.md)
+    - Compulsory rights orders in respect of requisitioned opencast sites
+      - [Sch. TENTH para. 6](schedule/TENTH/paragraph/6.md)
+      - [Sch. TENTH para. 7](schedule/TENTH/paragraph/7.md)
+      - [Sch. TENTH para. 8](schedule/TENTH/paragraph/8.md)
+      - [Sch. TENTH para. 9](schedule/TENTH/paragraph/9.md)
+      - [Sch. TENTH para. 10](schedule/TENTH/paragraph/10.md)
+      - [Sch. TENTH para. 11](schedule/TENTH/paragraph/11.md)
+      - [Sch. TENTH para. 12](schedule/TENTH/paragraph/12.md)
+    - Certification of payments under existing arrangements
+      - [Sch. TENTH para. 13](schedule/TENTH/paragraph/13.md)
+      - [Sch. TENTH para. 14](schedule/TENTH/paragraph/14.md)
+      - [Sch. TENTH para. 15](schedule/TENTH/paragraph/15.md)
+      - [Sch. TENTH para. 16](schedule/TENTH/paragraph/16.md)
+    - Annual and initial compensation
+      - [Sch. TENTH para. 17](schedule/TENTH/paragraph/17.md)
+      - [Sch. TENTH para. 18](schedule/TENTH/paragraph/18.md)
+      - [Sch. TENTH para. 19](schedule/TENTH/paragraph/19.md)
+      - [Sch. TENTH para. 20](schedule/TENTH/paragraph/20.md)
+      - [Sch. TENTH para. 21](schedule/TENTH/paragraph/21.md)
+      - [Sch. TENTH para. 22](schedule/TENTH/paragraph/22.md)
+      - [Sch. TENTH para. 23](schedule/TENTH/paragraph/23.md)
+    - Terminal compensation
+      - [Sch. TENTH para. 24](schedule/TENTH/paragraph/24.md)
+      - [Sch. TENTH para. 25](schedule/TENTH/paragraph/25.md)
+      - [Sch. TENTH para. 26](schedule/TENTH/paragraph/26.md)
+      - [Sch. TENTH para. 27](schedule/TENTH/paragraph/27.md)
+      - [Sch. TENTH para. 28](schedule/TENTH/paragraph/28.md)
+    - Tenant’s improvements
+      - [Sch. TENTH para. 29](schedule/TENTH/paragraph/29.md)
+      - [Sch. TENTH para. 30](schedule/TENTH/paragraph/30.md)
+      - [Sch. TENTH para. 31](schedule/TENTH/paragraph/31.md)
+    - Depreciation of other land in same ownership
+      - [Sch. TENTH para. 32](schedule/TENTH/paragraph/32.md)
+    - Provisions as to minerals
+      - [Sch. TENTH para. 33](schedule/TENTH/paragraph/33.md)
+      - [Sch. TENTH para. 34](schedule/TENTH/paragraph/34.md)
+      - [Sch. TENTH para. 35](schedule/TENTH/paragraph/35.md)
+      - [Sch. TENTH para. 36](schedule/TENTH/paragraph/36.md)
+      - [Sch. TENTH para. 37](schedule/TENTH/paragraph/37.md)
+      - [Sch. TENTH para. 38](schedule/TENTH/paragraph/38.md)
+    - Provisions as to allotment gardens and other allotments
+      - [Sch. TENTH para. 39](schedule/TENTH/paragraph/39.md)
+      - [Sch. TENTH para. 40](schedule/TENTH/paragraph/40.md)
+    - Concurrent requisitions
+      - [Sch. TENTH para. 41](schedule/TENTH/paragraph/41.md)
+  - Part III Storage Sites
+    - Termination of emergency powers
+      - [Sch. TENTH para. 42](schedule/TENTH/paragraph/42.md)
+    - Certification of payments under existing arrangements
+      - [Sch. TENTH para. 43](schedule/TENTH/paragraph/43.md)
+    - Annual compensation
+      - [Sch. TENTH para. 44](schedule/TENTH/paragraph/44.md)
+    - Terminal compensation and tenant’s improvements
+      - [Sch. TENTH para. 45](schedule/TENTH/paragraph/45.md)
+    - Depreciation of other land in same ownership
+      - [Sch. TENTH para. 46](schedule/TENTH/paragraph/46.md)
+    - Concurrent requisitions
+      - [Sch. TENTH para. 47](schedule/TENTH/paragraph/47.md)
+  - Part IV Temporary stopping up of highways
+    - [Sch. TENTH para. 48](schedule/TENTH/paragraph/48.md)
+    - [Sch. TENTH para. 49](schedule/TENTH/paragraph/49.md)
+  - Part V Provisions as to Woodlands
+    - [Sch. TENTH para. 50](schedule/TENTH/paragraph/50.md)
+  - Part VI Application to Scotland
+    - [Sch. TENTH para. 51](schedule/TENTH/paragraph/51.md)
