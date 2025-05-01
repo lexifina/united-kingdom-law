@@ -2,9 +2,9 @@
 
 2023 c. 55. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-02-06, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-01, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/55/2025-02-06
+Source: https://www.legislation.gov.uk/ukpga/2023/55/2025-05-01
 
 ## Contents
 
@@ -669,15 +669,15 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2025-02-06
   - [Sch. 9 para. 4 The Conservation of Habitats and Species Regulations 2017](schedule/9/paragraph/4.md)
 - Schedule 10 Crown development: consequential amendments
   - [Sch. 10 para. 1 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/1.md)
-  - [Sch. 10 para. 2 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/2.md)
-  - [Sch. 10 para. 3 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/3.md)
-  - [Sch. 10 para. 4 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/4.md)
-  - [Sch. 10 para. 5 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/5.md)
-  - [Sch. 10 para. 6 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/6.md)
-  - [Sch. 10 para. 7 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/7.md)
-  - [Sch. 10 para. 8 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/8.md)
-  - [Sch. 10 para. 9 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/9.md)
-  - [Sch. 10 para. 10 Town and Country Planning Act 1990 (c. 8)](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
   - [Sch. 10 para. 11 Housing and Planning Act 2016 (c. 22)](schedule/10/paragraph/11.md)
 - Schedule 11 Completion notices: consequential amendments
   - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
