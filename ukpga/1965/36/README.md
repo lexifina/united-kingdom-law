@@ -1,0 +1,132 @@
+# Gas Act 1965
+
+1965 c. 36. Enacted 1965-08-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1965/36
+
+Source: https://www.legislation.gov.uk/ukpga/1965/36/2025-05-01
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II Underground Storage of Gas by Gas Authorities
+  - [s. 4 Storage authorisation orders.](section/4.md)
+  - [s. 5 Control of mining and other operations in storage area and protective area.](section/5.md)
+  - [s. 6 Controlled operations: carrying out of works to remedy a default.](section/6.md)
+  - [s. 7 Compensation for general effect of storage authorisation order.](section/7.md)
+  - [s. 8 Compensation for refusal of consent to controlled operations, or consent granted subject to conditions.](section/8.md)
+  - [s. 9 Compensation for withdrawal of consent or variation of conditions.](section/9.md)
+  - [s. 10 Exclusion of double compensation.](section/10.md)
+  - [s. 11 Compensation under ss. 8 and 9 to be repayable in certain circumstances.](section/11.md)
+  - [s. 12 The right to store gas underground and related rights.](section/12.md)
+  - [s. 13 Compulsory purchase of rights as respects wells, boreholes and shafts in storage area and protective area.](section/13.md)
+  - [s. 14 Gas authority’s liability for underground gas storage.](section/14.md)
+  - [s. 15 Responsibility of public gas transporter for interference with supplies of water.](section/15.md)
+  - [s. 16 Safety conditions.](section/16.md)
+  - [s. 17 Accidents.](section/17.md)
+  - [s. 18 Discontinuance of an underground gas storage.](section/18.md)
+  - [s. 19 Appointment of inspectors.](section/19.md)
+  - [s. 20 Powers of entry.](section/20.md)
+  - [s. 21 General provisions as to offences under Part II.](section/21.md)
+  - [s. 22 Application of provisions of principal Act.](section/22.md)
+  - [s. 23 Assessment of compensation.](section/23.md)
+  - [s. 24 Special provisions as to payment of compensation.](section/24.md)
+  - [s. 25 Application to the Crown.](section/25.md)
+  - [s. 26 Ecclesiastical property.](section/26.md)
+  - [s. 27 Registration in register of local land charges and General Register of Sasines.](section/27.md)
+  - [s. 28 Interpretation of Part II.](section/28.md)
+- Part III General
+  - [s. 29 ................................](section/29.md)
+  - [s. 31 Financial provisions.](section/31.md)
+  - [s. 32 Short title, interpretation, extent and commencement.](section/32.md)
+- SCHEDULE 1
+- SCHEDULE 2 Storage Authorisation Orders
+  - Part I Form of Order
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II Procedure for making Orders
+    - Preliminary submission of proposals
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Formal application for order
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Making of order
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Making of order which enlarges the protective area
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Approval for planning purposes of works associated with storage
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Part III Cases where Procedure under Part II need not be followed
+    - Orders transferring functions from one public gas supplierto another
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Orders varying nature of gas stored
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Part IV General Application of Schedule to Scotland
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Certificates as Respects Planning Permission and Grant of Statutory Licences to Abstract Water
+  - Certificates as respects planning permission
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Certificates as respects statutory licences to abstract water
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Procedure on application for certificate
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Interpretation
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4
+  - Part I Application of Acquisition of Land Act and Lands Clauses Acts to Compulsory Purchase of Certain Rights
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part II Compulsory Purchases Affecting Supplies of Water
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Inquiries into Accidents
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Power to Enter on Land and to Prospect and Survey Land
+  - Search for underground storage sites
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Entry for purposes of survey
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Detection and supervision of controlled operations in storage area and protective area
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Warrants to authorise entry
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Compensation
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Duty to reinstate land
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Obstruction
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Restriction on disclosure of information
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Supplemental
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
