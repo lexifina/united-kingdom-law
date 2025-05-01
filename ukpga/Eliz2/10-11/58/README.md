@@ -1,0 +1,151 @@
+# Pipe-Lines Act 1962
+
+1962 c. 58. Enacted 1962-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/10-11/58
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/10-11/58/2025-05-01
+
+## Contents
+
+- Control of Construction of Pipe-lines
+  - [s. 1 Cross-country pipe-lines not to be constructed without the Minister’s authority.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 Power of the Minister to secure the removal of works executed in contravention of section 1.](section/4.md)
+  - [s. 5 Provisions with respect to planning permission concerning pipe-lines.](section/5.md)
+  - [s. 6 Power of the Minister to direct that section 1, instead of section 2, shall apply to local pipe-lines.](section/6.md)
+  - [s. 7 ................................](section/7.md)
+  - [s. 8 ................................](section/8.md)
+- Avoidance of Construction of superfluous Pipe-lines
+  - [s. 9 Provisions for securing that a pipe-line is so constructed as to reduce necessity for construction of others.](section/9.md)
+  - [s. 9A Provisions for securing that an additional pipe-line is so constructed as to reduce necessity for construction of other pipe-lines—.](section/9A.md)
+  - [s. 10 Provisions for securing that a pipe-line is so used as to reduce necessity for construction of others.](section/10.md)
+  - [s. 10A Diversions of pipe-lines subject to requirements under section 9 or 10](section/10A.md)
+  - [s. 10B Application of section 10C to certain gas pipe-lines.](section/10B.md)
+  - [s. 10C Additional provisions relating to certain gas pipe-lines.](section/10C.md)
+  - [s. 10D Enforcement of certain duties in section 10C.](section/10D.md)
+  - [s. 10E Provisions for securing that upstream petroleum pipe-lines are so used as to reduce necessity for construction of others.](section/10E.md)
+  - [s. 10F Section 10E: supplemental.](section/10F.md)
+  - [s. 10G Compulsory modifications of pipe-lines](section/10G.md)
+  - [s. 10H Enforcement](section/10H.md)
+- Compulsory Acquisition of Land for Construction of Pipe-lines
+  - [s. 11 Orders for compulsory acquisition of land for pipe-line construction.](section/11.md)
+- Compulsory Acquisition of Rights over Land for Construction of Pipe-lines
+  - [s. 12 Orders for compulsory acquisition of rights over land for pipe-line construction.](section/12.md)
+- Pipe-lines for Conveying Carbon Dioxide: Compulsory Acquisition of Rights over Land
+  - [s. 12A Orders for compulsory acquisition of rights over land: pipe-lines for conveying carbon dioxide](section/12A.md)
+  - [s. 13 Power of Minister to attach conditions to compulsory rights orders.](section/13.md)
+  - [s. 14 Compensation in respect of compulsory rights orders.](section/14.md)
+- Pipe-lines in Streets
+  - [s. 15 Power to place pipe-lines in streets.](section/15.md)
+  - [s. 16 Modification of street works or road works provisions.](section/16.md)
+  - [s. 17 Modification of the code in Part II of the Public Utilities Street Works Act 1950, in its application to pipe-line works in streets.](section/17.md)
+  - [s. 18 Restriction on breaking up, for execution of pipe-line works, highways in London Traffic Area recently closed for repair.](section/18.md)
+  - [s. 19 ................................](section/19.md)
+- Safety of Pipe-lines
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 26A Availability of funds.](section/26A.md)
+- Avoidance of Damage to Pipe-lines by Buildings, &c.
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+- Notification and Investigation of Accidents
+  - [s. 33 Notification of certain accidents.](section/33.md)
+  - [s. 34 ................................](section/34.md)
+- Information
+  - [s. 35 Deposit of maps of pipe-lines with local authorities.](section/35.md)
+  - [s. 36 Notification of abandonment, cesser of use and resumption of use of pipe-lines or lengths thereof.](section/36.md)
+  - [s. 37 Fire-brigades, police, &c., to be notified of certain pipe-line accidents and to be furnished with information.](section/37.md)
+  - [s. 38 Notification of change of ownership of pipe-line.](section/38.md)
+- Provisions for avoiding Obstructions to Navigation and Interference with telegraphic, &c., Lines
+  - [s. 39 Avoidance of obstruction or danger to navigation by pipe-lines over or under harbour waters.](section/39.md)
+  - [s. 40 Avoidance of interference with telegraphic, &c., lines.](section/40.md)
+  - [s. 41 ................................](section/41.md)
+- Supplementary Provisions
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 Preservation of amenity.](section/43.md)
+  - [s. 44 Protection of water against pollution.](section/44.md)
+  - [s. 45 Obligation to restore agricultural land.](section/45.md)
+  - [s. 46 Penalties for uttering false documents and giving false information.](section/46.md)
+  - [s. 47 Provisions as to inquiries and hearings.](section/47.md)
+  - [s. 48 Determination by tribunal of questions as to compensation.](section/48.md)
+  - [s. 49 Service of documents.](section/49.md)
+  - [s. 50 Provisions as to requirements and prohibitions imposed under this Act.](section/50.md)
+  - [s. 51 Provisions as to ecclesiastical property.](section/51.md)
+  - [s. 52 Reckoning of periods.](section/52.md)
+  - [s. 53 Regulations.](section/53.md)
+  - [s. 54 Offences by corporations.](section/54.md)
+  - [s. 55 ................................](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 ................................](section/57.md)
+- Exclusion of certain Pipe-lines and Works from Scope of Act
+  - [s. 58 Exclusion of application of Act to, and in relation to, pipe-lines of certain statutory bodies.](section/58.md)
+  - [s. 58A Avoidance of damage by buildings etc to pipe-lines of a public gas transporter.](section/58A.md)
+  - [s. 58B Exclusion of application of Act to construction of small pipes.](section/58B.md)
+  - [s. 59 Exclusion of application of Act to, and in relation to, certain pipe-lines of railway undertakers, &c.](section/59.md)
+  - [s. 60 Exclusion of application of Act to, and in relation to pipe-lines in factories, mine or quarry premises or petroleum depots.](section/60.md)
+  - [s. 61 Exclusion of application of Act to, and in relation to, dock, &c., pipe-lines.](section/61.md)
+  - [s. 62](section/62.md)
+  - [s. 63 Exclusion of application of certain provisions of Act to pipe-lines whose construction has been begun or authorised by Act.](section/63.md)
+  - [s. 64 Power of Minister to exclude application ofsection one in relation to certain pipe-lines in particular localities.](section/64.md)
+- Interpretation
+  - [s. 65 Meaning of “pipe-line”.](section/65.md)
+  - [s. 66 General interpretation provisions.](section/66.md)
+- General Application to Scotland
+  - [s. 67 General application to Scotland.](section/67.md)
+- Expenses, Saving, Short Title, &c.
+  - [s. 68 Expenses and receipts.](section/68.md)
+  - [s. 69 Saving for law of nuisance.](section/69.md)
+  - [s. 70 Short title, extent and commencement.](section/70.md)
+- FIRST SCHEDULE Applications for Grant of Pipe-line Construction and Diversion Authorisations
+  - Part I Applications for Grant of Pipe-line Construction Authorisations
+    - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+    - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+    - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+    - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+    - [Sch. FIRST para. 4A](schedule/FIRST/paragraph/4A.md)
+    - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+    - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+    - [Sch. FIRST para. 6A](schedule/FIRST/paragraph/6A.md)
+    - [Sch. FIRST para. 6B](schedule/FIRST/paragraph/6B.md)
+    - [Sch. FIRST para. 7](schedule/FIRST/paragraph/7.md)
+    - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+    - [Sch. FIRST para. 8A](schedule/FIRST/paragraph/8A.md)
+  - Part II Modifications subject to which Part I has Effect in its Application to Applications for Pipe-line Diversion Authorisations
+    - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+- SECOND SCHEDULE Applications for Grant of Compulsory Purchase Orders and Compulsory Rights Orders
+  - Part I Applications for Grant of Compulsory Purchase Orders
+    - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+    - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+    - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+    - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+    - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+    - [Sch. SECOND para. 6](schedule/SECOND/paragraph/6.md)
+    - [Sch. SECOND para. 7](schedule/SECOND/paragraph/7.md)
+    - [Sch. SECOND para. 8](schedule/SECOND/paragraph/8.md)
+    - [Sch. SECOND para. 9](schedule/SECOND/paragraph/9.md)
+  - Part II Modifications subject to which Part I has Effect in its Application to Applications for Grant of Compulsory Rights Orders
+    - [Sch. SECOND para. 10](schedule/SECOND/paragraph/10.md)
+- THIRD SCHEDULE Provisions for rendering Compulsory Purchase Orders effectual. &c.
+  - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+  - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+  - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+- FOURTH SCHEDULE Ancillary Rights that may be conferred by a Compulsory Rights Order
+  - [Sch. FOURTH para. 1](schedule/FOURTH/paragraph/1.md)
+  - [Sch. FOURTH para. 2](schedule/FOURTH/paragraph/2.md)
+  - [Sch. FOURTH para. 3](schedule/FOURTH/paragraph/3.md)
+  - [Sch. FOURTH para. 4](schedule/FOURTH/paragraph/4.md)
+  - [Sch. FOURTH para. 5](schedule/FOURTH/paragraph/5.md)
+- FIFTH SCHEDULE
