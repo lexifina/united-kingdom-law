@@ -1,0 +1,467 @@
+# Railways Act 2005
+
+2005 c. 14. Enacted 2005-04-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2005/14
+
+Source: https://www.legislation.gov.uk/ukpga/2005/14/2025-05-18
+
+## Contents
+
+- Part 1 Transfer of functions and railway strategy
+  - Transfer of functions
+    - [s. 1 Transfer etc. of SRA functions and abolition](section/1.md)
+    - [s. 2 Transfer of safety functions to ORR](section/2.md)
+  - Railway strategy
+    - [s. 3 General duties under s. 4 of the 1993 Act](section/3.md)
+    - [s. 4 Use of access charges reviews for application of strategy](section/4.md)
+    - [s. 5 Railway strategy for Scotland](section/5.md)
+- Part 2 Public sector funding authorities for railways
+  - Assisting and securing the provision of services
+    - [s. 6 Financial assistance etc. from the Secretary of State](section/6.md)
+    - [s. 7 Notification of assistance from Secretary of State for freight services](section/7.md)
+    - [s. 8 Franchising and financial assistance in relation to Scotland](section/8.md)
+    - [s. 9 Notification of assistance from Scottish Ministers for freight services](section/9.md)
+    - [s. 10 Franchising and financial assistance in relation to Wales](section/10.md)
+    - [s. 11 Notification of assistance from Welsh Ministers for freight services](section/11.md)
+    - [s. 12 Transfer schemes at end of franchising agreements](section/12.md)
+  - Passenger Transport Executives
+    - [s. 13 Railway functions of Passenger Transport Executives](section/13.md)
+    - [s. 14 Repeals and savings relating to Passenger Transport Executives](section/14.md)
+  - London
+    - [s. 15 Duty of Secretary of State and Transport for London to co-operate](section/15.md)
+    - [s. 16 Relaxation of contractual restrictions on Transport for London](section/16.md)
+    - [s. 17 Membership of Transport for London](section/17.md)
+  - Provision of service by provider of last resort
+    - [s. 18 Qualification of duty in respect of services funded by others](section/18.md)
+- Part 3 Passengers’ Council and Rail Passengers’ Committees
+  - [s. 19 The Passengers’ Council](section/19.md)
+  - [s. 19A Power to confer non-rail functions on the Passengers’ Council](section/19A.md)
+  - [s. 20 Delegation of functions by Council](section/20.md)
+  - [s. 21 Rail Passengers’ Committees](section/21.md)
+- Part 4 Network modifications etc.
+  - Discontinuance of railway passenger services
+    - [s. 22 Proposal by service operator to discontinue non-franchised services](section/22.md)
+    - [s. 23 Proposal by funding authority to discontinue non-franchised services](section/23.md)
+    - [s. 24 Proposals to discontinue franchised or secured services](section/24.md)
+    - [s. 25 Proposal to discontinue excluded services](section/25.md)
+  - Discontinuance of operation of passenger networks
+    - [s. 26 Proposal by operator to close passenger network](section/26.md)
+    - [s. 27 Proposal by funding authority to close passenger network](section/27.md)
+    - [s. 28 Proposal to discontinue operation of secured network](section/28.md)
+  - Discontinuance of use or operation of stations
+    - [s. 29 Proposal by operator to close station](section/29.md)
+    - [s. 30 Proposal by funding authority to close station](section/30.md)
+    - [s. 31 Proposal to discontinue operation of secured station](section/31.md)
+  - References to the ORR
+    - [s. 32 References to the ORR](section/32.md)
+    - [s. 33 Closure requirements](section/33.md)
+  - Excluded proposals
+    - [s. 34 Minor modifications](section/34.md)
+    - [s. 35 Closures eligible to be treated as minor modifications](section/35.md)
+    - [s. 36 Designation of experimental passenger services](section/36.md)
+    - [s. 37 Discontinuance of experimental passenger services](section/37.md)
+    - [s. 38 Services, networks and stations excluded by order](section/38.md)
+  - Substitution services
+    - [s. 39 Quality contracts schemes in connection with service modifications](section/39.md)
+    - [s. 40 Substitute road services](section/40.md)
+  - Supplemental provisions of Part
+    - [s. 41 Proposals by funding authorities](section/41.md)
+    - [s. 42 Closures guidance](section/42.md)
+    - [s. 43 Procedure relating to publication and modification of closures guidance](section/43.md)
+    - [s. 44 Exclusion of liability for breach of statutory duty](section/44.md)
+    - [s. 45 Interpretation of Part 4](section/45.md)
+- Part 5 Further miscellaneous provisions
+  - Conduct and accessibility on railways
+    - [s. 46 Bye-laws](section/46.md)
+    - [s. 47 Power of Scottish Ministers to make penalty fare regulations](section/47.md)
+    - [s. 48 Code of practice for disabled rail users in Scotland](section/48.md)
+    - [s. 48A Code of practice for disabled rail users in Wales](section/48A.md)
+  - Railway administration orders for companies providing Scottish services
+    - [s. 49 Functions of Scottish Ministers in relation to railway administration](section/49.md)
+    - [s. 50 Assistance by Scottish Ministers for companies in railway administration](section/50.md)
+  - Duties of co-operation
+    - [s. 51 ORR to assist and advise national authorities](section/51.md)
+    - [s. 52 Duty of Passenger Transport Executives to advise Secretary of State](section/52.md)
+- Part 6 General and supplemental
+  - General
+    - [s. 53 Taxation](section/53.md)
+    - [s. 54 Further amendments of the 1993 Act](section/54.md)
+  - Supplemental
+    - [s. 55 Expenses etc.](section/55.md)
+    - [s. 56 Powers exercisable by statutory instrument](section/56.md)
+    - [s. 57 Meaning of “Wales-only service” and “Welsh service”](section/57.md)
+    - [s. 58 General interpretation](section/58.md)
+    - [s. 59 Consequential amendments, transitional provisions and repeals](section/59.md)
+    - [s. 60 Short title, commencement and extent](section/60.md)
+- SCHEDULE 1 Transfer etc. of functions of the Strategic Rail Authority
+  - Part 1 Transfer and abolition of functions
+    - Transfer to ORR of consumer protection and other functions relating to licensing
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Transfers relating to the provision, improvement or development of railway facilities
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Transfer of functions relating to access agreements
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Transfer of functions relating to franchise agreements
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Transfer of functions as operator of last resort
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Transfer etc. of functions relating to enforcement
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Abolition of functions relating to railway administration orders
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Abolition of duty to investigate contravention of consumer protection conditions
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Transfer of function of maintaining code of practice for protection of disabled rail users
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Transfer of functions relating to maintenance of register
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Transfer of functions relating to the Passengers’ Council
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Transfer of power to require information from licence holders
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Abolition of functions relating to penalty fares
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Transfer of functions relating to concessionary travel
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Abolition of certain functions under the 2000 Act
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - Part 2 Definitions for purposes of transfers to Scottish Ministers
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+- SCHEDULE 2 Transfer schemes
+  - Application and commencement of scheme
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Property, rights and liabilities that may be transferred
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Dividing and modifying transferor’s property, rights and liabilities
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Obligation to effect transfers etc. under a scheme
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Effect of scheme
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Powers and duties under statutory provisions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Supplementary provisions of schemes
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Modification of scheme by agreement
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Continuity of employment etc.
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Compensation for third parties
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Provision of information to person making scheme
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Interpretation
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 Transfer of safety functions
+  - Railway safety purposes
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - ORR’s principal railway safety functions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Removal of corresponding functions from HSC
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Reports and investigations
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - ORR acting as agent of government departments and other public authorities
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Government departments and other public authorities acting as agent of ORR
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Restrictions on codes of practice by HSC
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Co-operation with the HSC
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Information powers corresponding to section 27 of the 1974 Act
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Railway safety levy
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Removal of requirement of consultation with HSC for railway safety regulations
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Regulatory Reform Act 2001
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Interpretation
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Reviews by ORR of access charges and licence conditions
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Conduct of access charges reviews
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Repeal of paragraph 3
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Implementation notice
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Termination notice
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - New review notice following objections
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Information to be provided to Competition Commission in connection with reference
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Noticed of proposed relevant changes following Competition Commission report
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Notice of decisions by Competition Commission
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Information to be provided to Competition Commission with proposal for relevant changes
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Commencement of Schedule
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Passengers’ Council established by s. 19(1)
+  - Part 1 Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Part 2 Members and staff
+    - Remuneration etc. of members
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Staff
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part 3 Finance
+    - Government grants
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Direction requiring payment to the Secretary of State
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Accounts and audit
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part 4 Financial framework and information
+    - Financial framework
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Annual reports
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Information
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Part 5 Status and supplementary powers
+    - Status
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Supplementary powers
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Part 6 Procedure
+    - Regulation of procedure
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Admission of the public to meetings
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Local committees
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Execution of documents
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6 Functions retained by London Transport Users’ Committee
+  - Members of LTUC to represent users of services in London railway area
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - General duty of LTUC to keep railway matters under review
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Duty of LTUC to investigate matters
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Power of Secretary of State to exclude matters from duties of LTUC
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Duty of Rail Passengers’ Council to refer matters to the LTUC
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Consultations under Part 4
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Newspaper notification
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Specific notification to particular persons
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Interpretation of Schedule
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+- SCHEDULE 8 Proposals to discontinue excluded London services
+  - Introductory
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Notice of proposal
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Objections etc.
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Consideration of objections and report to Mayor of London
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Consent of Mayor to closure
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 Bye-laws by railway operators
+  - Introductory
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Penalties
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Confirmation
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Publicity for confirmed bye-laws
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Evidence
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Power to amend or vary
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 Taxation provisions relating to transfer schemes
+  - Part 1 Transfers to a national authority under section 1(2) schemes
+    - Meaning of “relevant transfer” in Part 1 of Schedule
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Capital allowances: determination of disposal value of plant or machinery
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Capital allowances: determination of disposal value of fixtures
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Capital allowances: determination of capital value of industrial buildings etc.
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Chargeable gains: assets to be treated as disposed without a gain or a loss
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Continuity in relation to transfer of intangible assets
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Neutral effect of transfer for loan relationships and derivative contracts
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Leased assets
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Part 2 Other transfers under section 1(2) schemes
+    - Meaning of “relevant transfer” in Part 2 of Schedule
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Computation of profits and losses in respect of transfer of trade
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Trading losses: change in ownership
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Capital allowances: transfer of whole trade
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Capital allowances: transfer of part of a trade
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Capital allowances: transfer of plant or machinery
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Capital allowances: determination of capital value of industrial buildings etc.
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Chargeable gains: assets to be treated as disposed of without a gain or a loss
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Continuity in relation to transfer of intangible assets
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Continuity in relation to loan relationships
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - Continuity in relation to derivative contracts
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Leased assets
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Part 3 Transfers under section 12 schemes
+    - Meaning of “relevant transfer” in Part 3 of Schedule
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Capital allowances: determination of disposal value of plant or machinery
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Capital allowances: determination of disposal value of fixtures
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - Capital allowances: determination of capital value of industrial buildings etc.
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - Chargeable gains: disposals not be treated as made at market value
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Chargeable gains: degrouping charges
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - Loan relationships
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+  - Part 4 Other provisions concerning transfers
+    - Stamp duty
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - Stamp duty land tax
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - Chargeable gains: value shifting
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - Group relief
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - Consequential amendment
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Part 5 Interpretation of Schedule
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+- SCHEDULE 11 Miscellaneous amendments of 1993 Act
+  - Introductory provision
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Licence conditions
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Access agreements
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Duties of provider of last resort
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Exclusion for liability for breach of statutory duty
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Purposes for which franchising functions may be exercised
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Orders for securing compliance
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Financial assistance from the Secretary of State to companies in railway administration
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Register kept by ORR
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Register kept by Secretary of State
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Purposes for which the Secretary of State may require information from licence holders
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - General interpretation
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Competent authority status for the purposes of grants and loans under EU regulations
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Powers to make statutory instruments
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Restrictions on disclosure of information
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+- SCHEDULE 12 Other minor and consequential amendments
+  - Transport Act 1962 (c. 46)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Transport Act 1968 (c. 73)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Chronically Sick and Disabled Persons Act 1970 (c. 44)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Fire Precautions Act 1971 (c. 40)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Level Crossings Act 1983 (c. 16)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Telecommunications Act 1984 (c. 12)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Airports Act 1986 (c. 31)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Deregulation and Contracting Out Act 1994 (c. 40)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Railway Heritage Act 1996 (c. 42)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - Utilities Act 2000 (c. 27)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+- SCHEDULE 13 Repeals
+  - Part 1 Repealed enactments
+  - Part 2 Savings
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
