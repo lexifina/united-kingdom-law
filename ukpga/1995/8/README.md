@@ -1,0 +1,130 @@
+# Agricultural Tenancies Act 1995
+
+1995 c. 8. Enacted 1995-05-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/8
+
+Source: https://www.legislation.gov.uk/ukpga/1995/8/2025-05-19
+
+## Contents
+
+- Part I GENERAL PROVISIONS
+  - Farm business tenancies
+    - [s. 1 Meaning of “farm business tenancy”.](section/1.md)
+    - [s. 2 Tenancies which cannot be farm business tenancies.](section/2.md)
+    - [s. 3 Compliance with notice conditions in cases of surrender and re-grant.](section/3.md)
+  - Exclusion of Agricultural Holdings Act 1986
+    - [s. 4 Agricultural Holdings Act 1986 not to apply in relation to new tenancies except in special cases.](section/4.md)
+  - Termination of the tenancy
+    - [s. 5 Tenancies for more than two years to continue from year to year unless terminated by notice.](section/5.md)
+    - [s. 6 Length of notice to quit.](section/6.md)
+    - [s. 7 Notice required for exercise of option to terminate tenancy or resume possession of part.](section/7.md)
+  - Tenant’s right to remove fixtures and buildings
+    - [s. 8 Tenant’s right to remove fixtures and buildings.](section/8.md)
+    - [s. 8A Reference of certain requests for consent or variation to arbitration: Wales](section/8A.md)
+- Part II RENT REVIEW UNDER FARM BUSINESS TENANCY
+  - [s. 9 Application of Part II.](section/9.md)
+  - [s. 10 Notice requiring statutory rent review.](section/10.md)
+  - [s. 11 Review date where new tenancy of severed part of reversion.](section/11.md)
+  - [s. 12 Appointment of arbitrator.](section/12.md)
+  - [s. 13 Amount of rent.](section/13.md)
+  - [s. 14 Interpretation of Part II.](section/14.md)
+- Part III COMPENSATION ON TERMINATION OF FARM BUSINESS TENANCY
+  - Tenant’s entitlement to compensation
+    - [s. 15 Meaning of “tenant’s improvement”.](section/15.md)
+    - [s. 16 Tenant’s right to compensation for tenant’s improvement.](section/16.md)
+  - Conditions of eligibility
+    - [s. 17 Consent of landlord as condition of compensation for tenant’s improvement.](section/17.md)
+    - [s. 18 Conditions in relation to compensation for planning permission.](section/18.md)
+    - [s. 19 Reference to arbitration of refusal or failure to give consent or of condition attached to consent.](section/19.md)
+  - Amount of compensation
+    - [s. 20 Amount of compensation for tenant’s improvement not consisting of planning permission.](section/20.md)
+    - [s. 21 Amount of compensation for planning permission.](section/21.md)
+    - [s. 22 Settlement of claims for compensation.](section/22.md)
+  - Supplementary provisions with respect to compensation
+    - [s. 23 Successive tenancies.](section/23.md)
+    - [s. 24 Resumption of possession of part of holding.](section/24.md)
+    - [s. 25 Compensation where reversionary estate in holding is severed.](section/25.md)
+    - [s. 26 Extent to which compensation recoverable under agreements.](section/26.md)
+    - [s. 27 Interpretation of Part III.](section/27.md)
+- Part IV MISCELLANEOUS AND SUPPLEMENTAL
+  - Resolution of disputes
+    - [s. 28 Resolution of disputes.](section/28.md)
+    - [s. 29 Cases where right to refer claim to arbitration under section 28 does not apply.](section/29.md)
+    - [s. 30 General provisions applying to arbitrations under Act.](section/30.md)
+  - Miscellaneous
+    - [s. 31 Mortgages of agricultural land.](section/31.md)
+    - [s. 32 Power of limited owners to give consents etc.](section/32.md)
+    - [s. 33 Power to apply and raise capital money.](section/33.md)
+    - [s. 34 Estimation of best rent for purposes of Acts and other instruments.](section/34.md)
+    - [s. 35 Preparation of documents etc. by valuers and surveyors.](section/35.md)
+  - Supplemental
+    - [s. 36 Service of notices.](section/36.md)
+    - [s. 36A Regulations](section/36A.md)
+    - [s. 37 Crown land.](section/37.md)
+    - [s. 38 Interpretation.](section/38.md)
+    - [s. 39 Index of defined expressions.](section/39.md)
+    - [s. 40 Consequential amendments.](section/40.md)
+    - [s. 41 Short title, commencement and extent.](section/41.md)
+- Schedule CONSEQUENTIAL AMENDMENTS
+  - The Small Holdings and Allotments Act 1908 (c. 36)
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - The Law of Distress Amendment Act 1908 (c. 53)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - The Allotments Act 1922 (c. 51)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - The Landlord and Tenant Act 1927 (c. 36)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - The Agricultural Credits Act 1928 (c. 43)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+  - The Leasehold Property (Repairs) Act 1938 (c. 34)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+  - The Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951 (c. 65)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+  - The Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+  - The Opencast Coal Act 1958 (c. 69)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+  - The Agriculture (Miscellaneous Provisions) Act 1963 (c. 11)
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+  - The Leasehold Reform Act 1967 (c. 88)
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
+  - The Agriculture (Miscellaneous Provisions) Act 1968 (c. 34)
+    - [Sch. paragraph 23](schedule/paragraph/23.md)
+  - The Land Compensation Act 1973 (c. 26)
+    - [Sch. paragraph 24](schedule/paragraph/24.md)
+  - The Rent (Agriculture) Act 1976 (c. 80)
+    - [Sch. paragraph 25](schedule/paragraph/25.md)
+    - [Sch. paragraph 26](schedule/paragraph/26.md)
+  - The Rent Act 1977 (c. 42)
+    - [Sch. paragraph 27](schedule/paragraph/27.md)
+    - [Sch. paragraph 28](schedule/paragraph/28.md)
+  - The Protection from Eviction Act 1977 (c. 43)
+    - [Sch. paragraph 29](schedule/paragraph/29.md)
+  - The Housing Act 1985 (c. 68)
+    - [Sch. paragraph 30](schedule/paragraph/30.md)
+  - The Landlord and Tenant Act 1985 (c. 70)
+    - [Sch. paragraph 31](schedule/paragraph/31.md)
+  - The Agricultural Holdings Act 1986 (c. 5)
+    - [Sch. paragraph 32](schedule/paragraph/32.md)
+  - The Housing Act 1988 (c. 50)
+    - [Sch. paragraph 33](schedule/paragraph/33.md)
+    - [Sch. paragraph 34](schedule/paragraph/34.md)
+  - The Town and Country Planning Act 1990 (c. 8)
+    - [Sch. paragraph 35](schedule/paragraph/35.md)
+  - The Coal Mining Subsidence Act 1991 (c. 45)
+    - [Sch. paragraph 36](schedule/paragraph/36.md)
+    - [Sch. paragraph 37](schedule/paragraph/37.md)
