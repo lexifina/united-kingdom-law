@@ -1,0 +1,189 @@
+# Trustee Act 2000
+
+2000 c. 29. Enacted 2000-11-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/29
+
+Source: https://www.legislation.gov.uk/ukpga/2000/29/2025-05-19
+
+## Contents
+
+- Part I The Duty of Care
+  - [s. 1 The duty of care.](section/1.md)
+  - [s. 2 Application of duty of care.](section/2.md)
+- Part II Investment
+  - [s. 3 General power of investment.](section/3.md)
+  - [s. 4 Standard investment criteria.](section/4.md)
+  - [s. 5 Advice.](section/5.md)
+  - [s. 6 Restriction or exclusion of this Part etc.](section/6.md)
+  - [s. 7 Existing trusts.](section/7.md)
+- Part III Acquisition of Land
+  - [s. 8 Power to acquire freehold and leasehold land.](section/8.md)
+  - [s. 9 Restriction or exclusion of this Part etc.](section/9.md)
+  - [s. 10 Existing trusts.](section/10.md)
+- Part IV Agents, nominees and custodians
+  - Agents
+    - [s. 11 Power to employ agents.](section/11.md)
+    - [s. 12 Persons who may act as agents.](section/12.md)
+    - [s. 13 Linked functions etc.](section/13.md)
+    - [s. 14 Terms of agency.](section/14.md)
+    - [s. 15 Asset management: special restrictions.](section/15.md)
+  - Nominees and custodians
+    - [s. 16 Power to appoint nominees.](section/16.md)
+    - [s. 17 Power to appoint custodians.](section/17.md)
+    - [s. 18 Investment in bearer securities.](section/18.md)
+    - [s. 19 Persons who may be appointed as nominees or custodians.](section/19.md)
+    - [s. 20 Terms of appointment of nominees and custodians.](section/20.md)
+  - Review of and liability for agents, nominees and custodians etc.
+    - [s. 21 Application of sections 22 and 23.](section/21.md)
+    - [s. 22 Review of agents, nominees and custodians etc.](section/22.md)
+    - [s. 23 Liability for agents, nominees and custodians etc.](section/23.md)
+  - Supplementary
+    - [s. 24 Effect of trustees exceeding their powers.](section/24.md)
+    - [s. 25 Sole trustees.](section/25.md)
+    - [s. 26 Restriction or exclusion of this Part etc.](section/26.md)
+    - [s. 27 Existing trusts.](section/27.md)
+- Part V Remuneration
+  - [s. 28 Trustee’s entitlement to payment under trust instrument.](section/28.md)
+  - [s. 29 Remuneration of certain trustees.](section/29.md)
+  - [s. 30 Remuneration of trustees of charitable trusts.](section/30.md)
+  - [s. 31 Trustees’ expenses.](section/31.md)
+  - [s. 32 Remuneration and expenses of agents, nominees and custodians.](section/32.md)
+  - [s. 33 Application.](section/33.md)
+- Part VI Miscellaneous and Supplementary
+  - [s. 34 Power to insure.](section/34.md)
+  - [s. 35 Personal representatives.](section/35.md)
+  - [s. 36 Pension schemes.](section/36.md)
+  - [s. 37 Authorised unit trusts.](section/37.md)
+  - [s. 38 Common investment schemes for charities etc.](section/38.md)
+  - [s. 39 Interpretation.](section/39.md)
+  - [s. 40 Minor and consequential amendments etc.](section/40.md)
+  - [s. 41 Power to amend other Acts.](section/41.md)
+  - [s. 42 Commencement and extent.](section/42.md)
+  - [s. 43 Short title.](section/43.md)
+- SCHEDULE 1 Application of duty of care
+  - Investment
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Acquisition of land
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Agents, nominees and custodians
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Compounding of liabilities
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Insurance
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Reversionary interests, valuations and audit
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Exclusion of duty of care
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Minor and consequential amendments
+  - Part I The Trustee Investments Act 1961 and the Charities Act 1993
+    - The Trustee Investments Act 1961 (c.62)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - The Charities Act 1993 (c.10)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II Other Public General Acts
+    - The Places of Worship Sites Act 1873 (c.50)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - The Technical and Industrial Institutions Act 1892 (c.29)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - The Duchy of Cornwall Management Act 1893 (c.20)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - The Duchy of Lancaster Act 1920 (c.51)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - The Settled Land Act 1925 (c.18)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - The Trustee Act 1925 (c.19)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - The Land Registration Act 1925 (c.21)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - The Administration of Estates Act 1925 (c.23)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - ...
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - The Regimental Charitable Funds Act 1935 (c.11)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - The Agricultural Marketing Act 1958 (c.47)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - The Horticulture Act 1960 (c.22)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - The House of Commons Members’ Fund Act 1962 (c.53)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - The Betting, Gaming and Lotteries Act 1963 (c.2)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - The Cereals Marketing Act 1965 (c.14)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - The Agriculture Act 1967 (c.22)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - The Solicitors Act 1974 (c.47)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - The Policyholders Protection Act 1975 (c.75)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - The National Heritage Act 1980 (c.17)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - The Licensing (Alcohol Education and Research) Act 1981 (c.28)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - The Fisheries Act 1981 (c.29)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - The Duchy of Cornwall Management Act 1982 (c.47)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - The Administration of Justice Act 1982 (c.53)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - The Trusts of Land and Appointment of Trustees Act 1996 (c.47)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+  - Part III Measures
+    - The Ecclesiastical Dilapidations Measure 1923 (No.3)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - The Diocesan Stipends Funds Measure 1953 (No.2)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - The Church Funds Investment Measure 1958 (No.1)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - ................................
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - The Repair of Benefice Buildings Measure 1972 (No.2)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - The Pastoral Measure 1983 (No.1)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - ................................
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+- SCHEDULE 3 Transitional provisions and savings
+  - The Trustee Act 1925 (c.19)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The Trustee Investments Act 1961 (c.62)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Cathedrals Measure 1963 (No.2)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Repeals
+  - Part I The Trustee Investments Act 1961 and the Charities Act 1993
+  - Part II Other repeals
