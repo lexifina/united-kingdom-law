@@ -1,0 +1,701 @@
+# Leasehold Reform, Housing and Urban Development Act 1993
+
+1993 c. 28. Enacted 1993-07-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 463 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
+
+Source: https://www.legislation.gov.uk/ukpga/1993/28/2025-05-19
+
+## Contents
+
+- Part I LANDLORD AND TENANT
+  - Chapter I COLLECTIVE ENFRANCHISEMENT IN CASE OF TENANTS OF FLATS
+    - Preliminary
+      - [s. 1 The right to collective enfranchisement.](section/1.md)
+      - [s. 2 Acquisition of leasehold interests.](section/2.md)
+      - [s. 3 Premises to which this Chapter applies.](section/3.md)
+      - [s. 4 Premises excluded from right.](section/4.md)
+      - [s. 4A RTE companies](section/4A.md)
+      - [s. 4B RTE companies: membership](section/4B.md)
+      - [s. 4C RTE companies: regulations](section/4C.md)
+      - [s. 5 Qualifying tenants.](section/5.md)
+      - [s. 6 Qualifying tenants satisfying residence condition.](section/6.md)
+      - [s. 7 Meaning of “long lease”.](section/7.md)
+      - [s. 8 Leases at a low rent.](section/8.md)
+      - [s. 8A Meaning of “particularly long term”.](section/8A.md)
+      - [s. 9 The reversioner and other relevant landlords for the purposes of this Chapter.](section/9.md)
+      - [s. 10 Premises with a resident landlord.](section/10.md)
+    - Preliminary inquiries by tenants
+      - [s. 11 Right of qualifying tenant to obtain information about superior interests etc.](section/11.md)
+      - [s. 12 Right of qualifying tenant to obtain information about other matters.](section/12.md)
+    - The initial notice
+      - [s. 13 Notice by qualifying tenants of claim to exercise right.](section/13.md)
+    - Participating tenants and nominee purchaser
+      - [s. 14 The participating tenants.](section/14.md)
+      - [s. 15 The nominee purchaser: appointment and replacement.](section/15.md)
+      - [s. 16 The nominee purchaser: retirement or death.](section/16.md)
+    - Procedure following giving of initial notice
+      - [s. 17 Rights of access.](section/17.md)
+      - [s. 18 Duty of nominee purchaser to disclose existence of agreements affecting specified premises etc.](section/18.md)
+      - [s. 19 Effect of initial notice as respects subsequent transactions by freeholder etc.](section/19.md)
+      - [s. 20 Right of reversioner to require evidence of tenant’s right to participate.](section/20.md)
+      - [s. 21 Reversioner’s counter-notice.](section/21.md)
+    - Applications to court or ... tribunal
+      - [s. 22 Proceedings relating to validity of initial notice.](section/22.md)
+      - [s. 23 Tenants’ claim liable to be defeated where landlord intends to redevelop.](section/23.md)
+      - [s. 24 Applications where terms in dispute or failure to enter contract.](section/24.md)
+      - [s. 25 Applications where reversioner fails to give counter-notice or further counter-notice.](section/25.md)
+      - [s. 26 Applications where relevant landlord cannot be found.](section/26.md)
+      - [s. 27 Supplementary provisions relating to vesting orders under section 26(1).](section/27.md)
+    - Termination of acquisition procedures
+      - [s. 28 Withdrawal from acquisition by participating tenants.](section/28.md)
+      - [s. 29 Deemed withdrawal of initial notice.](section/29.md)
+      - [s. 30 Effect on initial notice or subsequent contract of institution of compulsory acquisition procedures.](section/30.md)
+      - [s. 31 Effect on initial notice of designation for inheritance tax purposes and applications for designation.](section/31.md)
+    - Determination of price and costs of enfranchisement
+      - [s. 32 Determination of price.](section/32.md)
+      - [s. 33 Costs of enfranchisement.](section/33.md)
+    - Completion of acquisition
+      - [s. 34 Conveyance to nominee purchaser.](section/34.md)
+      - [s. 35 Discharge of existing mortgages on transfer to nominee purchaser.](section/35.md)
+      - [s. 36 Nominee purchaser required to grant leases back to former freeholder in certain circumstances.](section/36.md)
+      - [s. 37 Acquisition of interests from local authorities etc.](section/37.md)
+    - Landlord’s right to compensation in relation to ineffective claims
+      - [s. 37A Compensation for postponement of termination in connection with ineffective claims.](section/37A.md)
+      - [s. 37B Modification of section 37A where change in immediate reversion.](section/37B.md)
+    - Supplemental
+      - [s. 38 Interpretation of Chapter I.](section/38.md)
+  - Chapter II INDIVIDUAL RIGHT OF TENANT OF FLAT TO ACQUIRE NEW LEASE
+    - Preliminary
+      - [s. 39 Right of qualifying tenant of flat to acquire new lease.](section/39.md)
+      - [s. 40 The landlord for the purposes of this Chapter.](section/40.md)
+    - Preliminary inquiries by qualifying tenant
+      - [s. 41 Right of qualifying tenant to obtain information about superior interests etc.](section/41.md)
+    - The tenant’s notice
+      - [s. 42 Notice by qualifying tenant of claim to exercise right.](section/42.md)
+      - [s. 43 General provisions as respects effect of tenant’s notice.](section/43.md)
+    - Procedure following giving of tenant’s notice
+      - [s. 44 Access by landlords for valuation purposes.](section/44.md)
+      - [s. 45 Landlord’s counter-notice.](section/45.md)
+    - Applications to court or ... tribunal
+      - [s. 46 Proceedings relating to validity of tenant’s notice.](section/46.md)
+      - [s. 47 Application to defeat tenant’s claim where landlord intends to redevelop.](section/47.md)
+      - [s. 48 Applications where terms in dispute or failure to enter into new lease.](section/48.md)
+      - [s. 49 Applications where landlord fails to give counter-notice or further counter-notice.](section/49.md)
+      - [s. 50 Applications where landlord cannot be found.](section/50.md)
+      - [s. 51 Supplementary provisions relating to vesting orders under section 50(1).](section/51.md)
+    - Termination or suspension of acquisition procedures
+      - [s. 52 Withdrawal by tenant from acquisition of new lease.](section/52.md)
+      - [s. 53 Deemed withdrawal of tenant’s notice.](section/53.md)
+      - [s. 54 Suspension of tenant’s notice during currency of claim under Chapter I.](section/54.md)
+      - [s. 55 Effect on tenant’s notice of institution of compulsory acquisition procedures.](section/55.md)
+    - Grant of new lease
+      - [s. 56 Obligation to grant new lease.](section/56.md)
+      - [s. 57 Terms on which new lease is to be granted.](section/57.md)
+      - [s. 58 Grant of new lease where interest of landlord or tenant is subject to a mortgage.](section/58.md)
+      - [s. 58A Priority of interests on grant of new lease.](section/58A.md)
+      - [s. 59 Further renewal, but no security of tenure, after grant of new lease.](section/59.md)
+    - Costs incurred in connection with new lease
+      - [s. 60 Costs incurred in connection with new lease to be paid by tenant.](section/60.md)
+    - Landlord’s right to terminate new lease
+      - [s. 61 Landlord’s right to terminate new lease on grounds of redevelopment.](section/61.md)
+    - Landlord’s right to compensation in relation to ineffective claims
+      - [s. 61A Compensation for postponement of termination in connection with ineffective claims.](section/61A.md)
+      - [s. 61B Modification of section 61A where change in immediate reversion.](section/61B.md)
+    - Supplemental
+      - [s. 62 Interpretation of Chapter II.](section/62.md)
+  - Chapter III ENFRANCHISEMENT UNDER LEASEHOLD REFORM ACT 1967
+    - Extension of right to enfranchise
+      - [s. 63 Extension of right to enfranchise to houses whose value or rent exceeds applicable limit.](section/63.md)
+      - [s. 64 Tenancies terminable after death or marriage.](section/64.md)
+      - [s. 65 Additional “low rent” test.](section/65.md)
+      - [s. 66 Price payable by tenant on enfranchisement by virtue of section 63 or 64.](section/66.md)
+    - Exceptions to right to enfranchise
+      - [s. 67 Exclusion of right to enfranchise in case of houses let by charitable housing trusts.](section/67.md)
+      - [s. 68 Exclusion of right in case of property transferred for public benefit etc.](section/68.md)
+  - Chapter IV ESTATE MANAGEMENT SCHEMES IN CONNECTION WITH ENFRANCHISEMENT
+    - [s. 69 Estate management schemes.](section/69.md)
+    - [s. 70 Approval by ... tribunal of estate management scheme.](section/70.md)
+    - [s. 71 Applications by two or more landlords or by representative bodies.](section/71.md)
+    - [s. 72 Applications after expiry of two-year period.](section/72.md)
+    - [s. 73 Applications by certain public bodies.](section/73.md)
+    - [s. 74 Effect of application for approval on claim to acquire freehold.](section/74.md)
+    - [s. 75 Variation of existing schemes.](section/75.md)
+  - Chapter V TENANTS’ RIGHT TO MANAGEMENT AUDIT
+    - [s. 76 Right to audit management by landlord.](section/76.md)
+    - [s. 77 Qualifying tenants.](section/77.md)
+    - [s. 78 Management audits.](section/78.md)
+    - [s. 79 Rights exercisable in connection with management audits.](section/79.md)
+    - [s. 80 Exercise of right to have a management audit.](section/80.md)
+    - [s. 81 Procedure following giving of notice under section 80.](section/81.md)
+    - [s. 82 Requirement relating to information etc. held by superior landlord.](section/82.md)
+    - [s. 83 Supplementary provisions.](section/83.md)
+    - [s. 84 Interpretation of Chapter V.](section/84.md)
+  - Chapter VI MISCELLANEOUS
+    - Compulsory acquisition of landlord’s interest
+      - [s. 85 Amendment of Part III of Landlord and Tenant Act 1987.](section/85.md)
+    - Variation of leases
+      - [s. 86 Variation of leases under Part IV of Landlord and Tenant Act 1987.](section/86.md)
+    - Codes of practice
+      - [s. 87 Approval by Secretary of State of codes of management practice.](section/87.md)
+    - Jurisdiction of ... tribunals in relation to enfranchisement etc. of Crown land
+      - [s. 88 Jurisdiction of ... tribunals in relation to enfranchisement etc. of Crown land.](section/88.md)
+    - Provision of accommodation for persons with mental disorders
+      - [s. 89 Avoidance of provisions preventing occupation of leasehold property by persons with mental disorders.](section/89.md)
+  - Chapter VII GENERAL
+    - [s. 90 Jurisdiction of county courts.](section/90.md)
+    - [s. 91 Jurisdiction of ... tribunals.](section/91.md)
+    - [s. 92 Enforcement of obligations under Chapters I and II.](section/92.md)
+    - [s. 93 Agreements excluding or modifying rights of tenant under Chapter I or II.](section/93.md)
+    - [s. 93A Powers of trustees in relation to rights under Chapters I and II.](section/93A.md)
+    - [s. 94 Crown land.](section/94.md)
+    - [s. 95 Saving for National Trust.](section/95.md)
+    - [s. 96 Property within cathedral precinct.](section/96.md)
+    - [s. 97 Registration of notices, applications and orders under Chapters I and II.](section/97.md)
+    - [s. 98 Power to prescribe procedure under Chapters I and II.](section/98.md)
+    - [s. 99 Notices.](section/99.md)
+    - [s. 100 Orders and regulations.](section/100.md)
+    - [s. 101 General interpretation of Part I.](section/101.md)
+    - [s. 102 Term date and other matters relating to periodical tenancies.](section/102.md)
+    - [s. 103 Application of Part I to Isles of Scilly.](section/103.md)
+- Part II PUBLIC SECTOR HOUSING
+  - Chapter I ENGLAND AND WALES
+    - Right to buy
+      - [s. 104 Landlord’s notice of purchase price and other matters.](section/104.md)
+      - [s. 105 Tenant’s notice of intention etc.](section/105.md)
+      - [s. 106 Exceptions to the right to buy.](section/106.md)
+    - Abolition of certain ancillary rights
+      - [s. 107 Abolition of right to a mortgage, right to defer completion and right to be granted a shared ownership lease.](section/107.md)
+    - Right to acquire on rent to mortgage terms
+      - [s. 108 Right to acquire on rent to mortgage terms.](section/108.md)
+      - [s. 109 Tenant’s notice claiming right.](section/109.md)
+      - [s. 110 Landlord’s notice admitting or denying right.](section/110.md)
+      - [s. 111 Tenant’s notice of intention etc.](section/111.md)
+      - [s. 112 Notice of landlord’s share and initial discount.](section/112.md)
+      - [s. 113 Determination of landlord’s share, initial discount etc.](section/113.md)
+      - [s. 114 Change of landlord after notice claiming right.](section/114.md)
+      - [s. 115 Duty of landlord to convey freehold or grant lease.](section/115.md)
+      - [s. 116 Terms and effect of conveyance or grant: general.](section/116.md)
+      - [s. 117 Redemption of landlord’s share.](section/117.md)
+      - [s. 118 Mortgage for securing redemption of landlord’s share.](section/118.md)
+      - [s. 119 Landlord’s notices to complete.](section/119.md)
+      - [s. 120 Repayment of discount on early disposal.](section/120.md)
+    - Other rights of secure tenants
+      - [s. 121 Right to have repairs carried out.](section/121.md)
+      - [s. 122 Right to compensation for improvements.](section/122.md)
+      - [s. 123 Right to information.](section/123.md)
+      - [s. 124 Existing rights with respect to disposals by housing action trusts.](section/124.md)
+      - [s. 125 New rights with respect to such disposals.](section/125.md)
+    - Housing welfare services
+      - [s. 126 Provision of housing welfare services.](section/126.md)
+      - [s. 127 Accounting for housing welfare services.](section/127.md)
+      - [s. 128 Power to repeal provisions made by sections 126 and 127.](section/128.md)
+    - Delegation of housing management
+      - [s. 129 Management agreements.](section/129.md)
+      - [s. 130 ................................](section/130.md)
+      - [s. 131 ................................](section/131.md)
+      - [s. 132 Management agreements with tenant management organisations.](section/132.md)
+    - Priority of charges securing repayment of discount
+      - [s. 133 Voluntary disposals by local authorities.](section/133.md)
+      - [s. 134 ................................](section/134.md)
+    - Disposals of dwelling-houses by local authorities
+      - [s. 135 Programmes for disposals.](section/135.md)
+      - [s. 136 Levy on disposals.](section/136.md)
+      - [s. 137 Disposals: transitional provisions.](section/137.md)
+    - Expenses on defective housing
+      - [s. 138 Contributions in respect of certain post-March 1989 expenses.](section/138.md)
+      - [s. 139 Contributions in respect of certain pre-April 1989 expenses.](section/139.md)
+    - Housing Revenue Account subsidy
+      - [s. 140 Calculation of Housing Revenue Account subsidy.](section/140.md)
+  - Chapter II SCOTLAND
+    - Rent to loan scheme
+      - [s. 141 Eligibility for rent to loan scheme.](section/141.md)
+      - [s. 142 The rent to loan scheme.](section/142.md)
+      - [s. 143 Rent to loan scheme: related amendments.](section/143.md)
+    - Right to purchase
+      - [s. 144 Abatement of purchase price.](section/144.md)
+      - [s. 145 Effect of abatement of purchase price on recovery of discount.](section/145.md)
+    - Other rights of secure tenants
+      - [s. 146 Right to have repairs carried out.](section/146.md)
+      - [s. 147 Right to compensation for improvements.](section/147.md)
+      - [s. 148 Right to information.](section/148.md)
+    - Housing welfare services
+      - [s. 149 Provision of housing welfare services.](section/149.md)
+      - [s. 150 Accounting for housing welfare services.](section/150.md)
+      - [s. 151 Power to repeal provisions relating to housing welfare services.](section/151.md)
+    - Miscellaneous
+      - [s. 152 Management agreements with housing co-operatives.](section/152.md)
+      - [s. 153 Standards and performance in housing management.](section/153.md)
+      - [s. 154 Further provision as to allocation of housing.](section/154.md)
+      - [s. 155 Rules relating to housing list.](section/155.md)
+      - [s. 156 Defective dwellings: damages for landlord’s failure to notify.](section/156.md)
+      - [s. 157 Other amendments of 1987 Act.](section/157.md)
+- Part III DEVELOPMENT OF URBAN AND OTHER AREAS
+  - The Urban Regeneration Agency
+    - [s. 158 The Agency.](section/158.md)
+    - [s. 159 Objects of Agency.](section/159.md)
+    - [s. 160 General powers of Agency.](section/160.md)
+    - [s. 161 Vesting of land by order.](section/161.md)
+    - [s. 162 Acquisition of land.](section/162.md)
+    - [s. 163 Power to enter and survey land.](section/163.md)
+    - [s. 164 Financial assistance.](section/164.md)
+    - [s. 165 Connection of private streets to highway.](section/165.md)
+  - The Agency: supplemental
+    - [s. 166 Consents of Secretary of State.](section/166.md)
+    - [s. 167 Guidance and directions by Secretary of State.](section/167.md)
+    - [s. 168 Validity of transactions.](section/168.md)
+    - [s. 169 Supplementary provisions as to vesting and acquisition of land.](section/169.md)
+  - Designation orders and their effect
+    - [s. 170 Power to make designation orders.](section/170.md)
+    - [s. 171 Agency as local planning authority.](section/171.md)
+    - [s. 172 Adoption of private streets.](section/172.md)
+    - [s. 173 Traffic regulation orders for private streets.](section/173.md)
+  - Other functions of Secretary of State
+    - [s. 174 ................................](section/174.md)
+    - [s. 175 Power to appoint Agency as agent.](section/175.md)
+    - [s. 176 Power to direct disposal of unused etc. land held by public bodies.](section/176.md)
+  - Urban development corporations
+    - [s. 177 Power to act as agents of Agency.](section/177.md)
+    - [s. 178 Powers with respect to private streets.](section/178.md)
+    - [s. 179 Adjustment of areas.](section/179.md)
+    - [s. 180 Transfers of property, rights and liabilities.](section/180.md)
+  - Miscellaneous
+    - [s. 181 No compensation where planning decision made after certain acquisitions.](section/181.md)
+    - [s. 182 Powers of housing action trusts with respect to private streets.](section/182.md)
+  - Supplemental
+    - [s. 183 Notices.](section/183.md)
+    - [s. 184 Dissolution of English Industrial Estates Corporation.](section/184.md)
+    - [s. 185 Interpretation of Part III.](section/185.md)
+- Part IV SUPPLEMENTAL
+  - [s. 186 Financial provisions.](section/186.md)
+  - [s. 187 Amendments and repeals.](section/187.md)
+  - [s. 188 Short title, commencement and extent.](section/188.md)
+- SCHEDULE 1 CONDUCT OF PROCEEDINGS BY THE REVERSIONER ON BEHALF OF OTHER LANDLORDS
+  - Part I THE REVERSIONER
+    - Freeholder to be reversioner
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Replacement of freeholder by other relevant landlord
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part IA The reversioner: premises with multiple freeholders
+    - Initial reversioner
+      - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+    - Change of reversioner
+      - [Sch. 1 para. 5B](schedule/1/paragraph/5B.md)
+      - [Sch. 1 para. 5C](schedule/1/paragraph/5C.md)
+      - [Sch. 1 para. 5D](schedule/1/paragraph/5D.md)
+      - [Sch. 1 para. 5E](schedule/1/paragraph/5E.md)
+  - Part II CONDUCT OF PROCEEDINGS ON BEHALF OF OTHER LANDLORDS
+    - Acts of reversioner binding on other landlords
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Other landlords acting independently
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Obligations of other landlords to reversioner
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Applications made by other landlords under section 23(1)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 SPECIAL CATEGORIES OF LANDLORDS
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Mortgagee in possession of landlord’s interest
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Landlord’s interest vested in custodian trustee
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Landlord under a disability
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Landlord’s interest held in trust
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Landlord’s interest subject to a settlement
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - ...
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Ecclesiastical landlords
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 THE INITIAL NOTICE: SUPPLEMENTARY PROVISIONS
+  - Part I RESTRICTIONS ON PARTICIPATION BY INDIVIDUAL TENANTS, EFFECT OF CLAIMS ON OTHER NOTICES, FORFEITURES ETC.
+    - Prior notice by tenant terminating lease
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Prior notice by landlord terminating lease
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Orders for possession and pending proceedings for forfeiture etc.
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Institution of compulsory purchase procedures
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Notice terminating lease given by tenant or landlord during currency of claim
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Initial notice operates to prevent termination of tenant’s lease by other means
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Restriction on proceedings against participating tenant to enforce right of re-entry or forfeiture
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Restrictions for purposes of s. 14(3) on tenant electing to become participating tenant during currency of claim
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Effect of tenant’s election on certain notices given by landlord
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Interpretation
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Part II PROCEDURE FOR GIVING COPIES TO RELEVANT LANDLORDS
+    - Application of Part II
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Qualifying tenants to give copies of initial notice
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 12A](schedule/3/paragraph/12A.md)
+    - Recipient of notice or copy to give further copies
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Consequences of failure to comply with paragraph 12 or 13
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Part III OTHER PROVISIONS
+    - Inaccuracies or misdescription in initial notice
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Effect on initial notice of tenant’s lack of qualification to participate
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 INFORMATION TO BE FURNISHED BY REVERSIONER ABOUT EXERCISE OF RIGHTS UNDER CHAPTER II
+  - Information to accompany counter-notice
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Continuing duty to furnish information
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Duty of other landlords to furnish copies to reversioner
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+- SCHEDULE 5 VESTING ORDERS UNDER SECTIONS 24 AND 25
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Execution of conveyance
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The appropriate sum
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Effect of payment of appropriate sum into court
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Supplemental
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 PURCHASE PRICE PAYABLE BY NOMINEE PURCHASER
+  - Part I GENERAL
+    - Interpretation and operation of Schedule
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Part II FREEHOLD OF SPECIFIED PREMISES
+    - Price payable for freehold of specified premises
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Value of freeholder’s interest
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Freeholder’s share of marriage value
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Compensation for loss resulting from enfranchisement
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Price payable for freehold of part of specified premises
+      - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+      - [Sch. 6 para. 5B](schedule/6/paragraph/5B.md)
+      - [Sch. 6 para. 5C](schedule/6/paragraph/5C.md)
+  - Part III INTERMEDIATE LEASEHOLD INTERESTS
+    - Price payable for intermediate leasehold interests
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Value of intermediate leasehold interests
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Compensation for loss on acquisition of interest
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Owners of intermediate interests entitled to part of marriage value
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 9A](schedule/6/paragraph/9A.md)
+  - Part IV OTHER INTERESTS TO BE ACQUIRED
+    - Price payable for other interests
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Value of other interests
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Marriage value
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Compensation for loss on acquisition of interest
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Part V VALUATION ETC. OF INTERESTS IN SPECIFIED PREMISES WITH NEGATIVE VALUES
+    - Valuation of freehold and intermediate leasehold interests
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Calculation of marriage value
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Apportionment of marriage value
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Adjustment of compensation
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+  - Part VI VALUATION ETC. OF OTHER INTERESTS WITH NEGATIVE VALUES
+    - Valuation of freehold and leasehold interests
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Calculation of marriage value
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Apportionment of marriage value
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Adjustment of compensation
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+- SCHEDULE 7 CONVEYANCE TO NOMINEE PURCHASER ON ENFRANCHISEMENT
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - General
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Rights of support, passage of water etc.
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Rights of way
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Restrictive covenants
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 DISCHARGE OF MORTGAGES ETC.: SUPPLEMENTARY PROVISIONS
+  - Construction
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Duty of nominee purchaser to redeem mortgages
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Determination of amounts due in respect of mortgages
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Payments into court
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Savings
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+- SCHEDULE 9 GRANT OF LEASES BACK TO FORMER FREEHOLDER
+  - Part I GENERAL
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Part II MANDATORY LEASEBACK
+    - Flats etc. let under secure tenancies or secure contracts
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Flats etc. let by housing associations under tenancies other than secure tenancies or secure contracts
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Provisions as to terms of lease
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 4A](schedule/9/paragraph/4A.md)
+  - Part III RIGHT OF FREEHOLDER TO REQUIRE LEASEBACK OF CERTAIN UNITS
+    - Flats without qualifying tenants and other units
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Flat etc. occupied by resident landlord
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Provisions as to terms of lease
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Part IV TERMS OF LEASE GRANTED TO FREEHOLDER
+    - Duration of lease and rent
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - General rights to be granted
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Covenants for title
+      - [Sch. 9 para. 9A](schedule/9/paragraph/9A.md)
+    - Rights of support, passage of water etc.
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Rights of way
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Common use of premises and facilities
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Covenants affecting demised premises
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Covenants by lessor
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Covenants by lessee
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Contributions by lessee
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Assignment and sub-letting of premises
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Restriction on terminating lease
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+- SCHEDULE 10 ACQUISITION OF INTERESTS FROM LOCAL AUTHORITIES ETC.
+  - Disapplication of provisions relating to disposals by local authorities etc.
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Provisions relating to secure tenants following leaseback
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+- SCHEDULE 11 PROCEDURE WHERE COMPETENT LANDLORD IS NOT TENANT’S IMMEDIATE LANDLORD
+  - Part I PROCEDURE IN RELATION TO TENANT’S NOTICE
+    - Tenant’s notice may be given to any of the other landlords
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Tenant to give copies of notice
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Recipient of notice or copy to give further copies
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Consequences of failure to comply with paragraph 2 or 3
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Part II CONDUCT OF PROCEEDINGS BY COMPETENT LANDLORD ON BEHALF OF OTHER LANDLORDS
+    - Counter-notice to specify other landlords
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Acts of competent landlord binding on other landlords
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Other landlords acting independently
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Obligations of other landlords to competent landlord
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Applications made by other landlords under section 47(1)
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Deemed surrender and re-grant of leases of other landlords
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Discharge of existing mortgages
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 THE TENANT’S NOTICE: SUPPLEMENTARY PROVISIONS
+  - Part I EFFECT OF TENANT’S NOTICE ON OTHER NOTICES, FORFEITURES ETC.
+    - Prior notice by tenant terminating lease
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Prior notice by landlord terminating lease
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Orders for possession and pending proceedings for forfeiture etc.
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Notice terminating lease given by tenant or landlord during currency of claim
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Tenant’s notice operates to prevent termination of lease
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Restriction on proceedings to enforce right of re-entry or forfeiture
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Effect of notice under section 16(2) of Landlord and Tenant Act 1954 on tenant’s notice
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Interpretation
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Part II OTHER PROVISIONS
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13 PREMIUM AND OTHER AMOUNTS PAYABLE BY TENANT ON GRANT OF NEW LEASE
+  - Part I GENERAL
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Part II PREMIUM PAYABLE IN RESPECT OF GRANT OF NEW LEASE
+    - Premium payable by tenant
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Diminution in value of landlord’s interest
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Landlord’s share of marriage value
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 4A](schedule/13/paragraph/4A.md)
+      - [Sch. 13 para. 4B](schedule/13/paragraph/4B.md)
+    - Compensation for loss arising out of grant of new lease
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Part III AMOUNTS PAYABLE TO OWNERS OF INTERMEDIATE LEASEHOLD INTERESTS
+    - Amount payable to owner of intermediate interest
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Diminution in value of intermediate interest
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Value of intermediate interests
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Compensation for loss arising out of grant of new lease
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Owners of intermediate interests entitled to part of marriage value
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 PROVISIONS SUPPLEMENTARY TO SECTION 61
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+- SCHEDULE 15 SECTION 9 OF THE LEASEHOLD REFORM ACT 1967, AS AMENDED
+  - [Sch. 15 para. 9 Purchase price and costs of enfranchisement, and tenant’s right to withdraw.](schedule/15/paragraph/9.md)
+- SCHEDULE 16 SCHEDULE INSERTED AFTER SCHEDULE 6 TO THE HOUSING ACT 1985
+- SCHEDULE 17 Constitution of the agency
+  - ...
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+- SCHEDULE 18 FINANCES OF THE AGENCY
+  - ...
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+- SCHEDULE 19 VESTING OF LAND IN THE AGENCY: MODIFICATIONS OF ENACTMENTS
+  - Land Compensation Act 1961 (c. 33)
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+- SCHEDULE 20 THE AGENCY: LAND
+  - Part I MODIFICATIONS OF ACQUISITION OF LAND ACT 1981
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Part II LAND: SUPPLEMENTARY
+    - Extinguishment of rights over land
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - Power to override easements
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - Consecrated land and burial grounds
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - Open spaces
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - Displacement of persons
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - Extinguishment of public rights of way
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - Telegraphic lines
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - Statutory undertakers
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+      - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+    - Interpretation
+      - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+  - Part III ACQUISITION OF RIGHTS
+    - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+    - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+    - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
+    - [Sch. 20 para. 23](schedule/20/paragraph/23.md)
+- SCHEDULE 21 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Land Registration Act 1925 (c. 21)
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - ...
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - ...
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Land Compensation Act 1973 (c. 26)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Rent Act 1977 (c. 42)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Derelict Land Act 1982 (c. 42)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - National Heritage Act 1983 (c. 47)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+    - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+    - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+    - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+    - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+    - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+    - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+    - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+    - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+    - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+    - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+    - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+  - Landlord and Tenant Act 1987 (c. 31)
+    - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+    - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+    - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+    - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+  - ...
+    - [Sch. 21 para. 32](schedule/21/paragraph/32.md)
+- SCHEDULE 22 REPEALS
