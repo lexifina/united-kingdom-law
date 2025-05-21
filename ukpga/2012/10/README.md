@@ -2,9 +2,9 @@
 
 2012 c. 10. Enacted 2012-05-01.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-04-03, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-21, one file per provision. Earlier versions, from 2012-05-01, are in the history before it: `git log -- ukpga/2012/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/10/2025-04-03
+Source: https://www.legislation.gov.uk/ukpga/2012/10/2025-05-21
 
 ## Contents
 
@@ -235,9 +235,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2025-04-03
       - [Sch. 1 Pt. 1 heading inherent-jurisdiction-of-high-court-in-relation-to-children-and-vulnerable-adults para. 9](schedule/1/part/1/crossheading/inherent-jurisdiction-of-high-court-in-relation-to-children-and-vulnerable-adults/paragraph/9.md)
     - Unlawful removal of children
       - [Sch. 1 Pt. 1 heading unlawful-removal-of-children para. 10](schedule/1/part/1/crossheading/unlawful-removal-of-children/paragraph/10.md)
-    - Family homes and domestic violence
+    - Family homes and domestic abuse
       - [Sch. 1 Pt. 1 heading family-homes-and-domestic-violence para. 11](schedule/1/part/1/crossheading/family-homes-and-domestic-violence/paragraph/11.md)
-    - Victims of domestic violence and family matters
+    - Victims of domestic abuse and family matters
       - [Sch. 1 Pt. 1 heading victims-of-domestic-violence-and-family-matters para. 12](schedule/1/part/1/crossheading/victims-of-domestic-violence-and-family-matters/paragraph/12.md)
     - Protection of children and family matters
       - [Sch. 1 Pt. 1 heading protection-of-children-and-family-matters para. 13](schedule/1/part/1/crossheading/protection-of-children-and-family-matters/paragraph/13.md)
@@ -271,9 +271,9 @@ Source: https://www.legislation.gov.uk/ukpga/2012/10/2025-04-03
       - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
     - Immigration: residence etc restrictions
       - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
-    - Immigration: victims of domestic violence and indefinite leave to remain
+    - Immigration: victims of domestic abuse, leave to enter and indefinite leave to remain
       - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
-    - Immigration: victims of domestic violence and residence cards
+    - Immigration: victims of domestic abuse and residence cards
       - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
     - Immigration: rights to enter and remain
       - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
