@@ -1,0 +1,185 @@
+# Marriage Act 1949
+
+1949 c. 76. Enacted 1949-11-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-05-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/76
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/2025-05-27
+
+## Contents
+
+- Part I Restrictions on Marriage
+  - [s. 1 Marriages within prohibited degrees.](section/1.md)
+  - [s. 2 Marriages of persons under eighteen.](section/2.md)
+  - [s. 2A Marriages of whole life prisoners](section/2A.md)
+  - [s. 3 Marriages of persons under twenty-one.](section/3.md)
+  - [s. 4 Hours for solemnization of marriages.](section/4.md)
+- Part II Marriage according to Rites of the Church of England
+  - Preliminary
+    - [s. 5 Methods of authorising marriages.](section/5.md)
+    - [s. 5A Marriages between certain persons related by affinity.](section/5A.md)
+    - [s. 5B Marriages involving person of acquired gender](section/5B.md)
+  - Marriage by banns
+    - [s. 6 Place of publication of banns.](section/6.md)
+    - [s. 7 Time and manner of publication of banns.](section/7.md)
+    - [s. 8 Notice to clergyman before publication of banns.](section/8.md)
+    - [s. 9 Persons by whom banns may be published.](section/9.md)
+    - [s. 10 Publication of banns commenced in one church and completed in another.](section/10.md)
+    - [s. 11 Certificates of publication of banns.](section/11.md)
+    - [s. 12 Solemnization of marriage after publication of banns.](section/12.md)
+    - [s. 13 Publication of banns in Scotland, Northern Ireland or Republic of Ireland.](section/13.md)
+    - [s. 14 Publication of banns on board His Majesty’s ships.](section/14.md)
+  - Marriage by Common Licence
+    - [s. 15 Places in which marriages may be solemnized by common licence.](section/15.md)
+    - [s. 16 Provisions as to common licences.](section/16.md)
+  - Marriage under marriage schedule
+    - [s. 17 Marriage under marriage schedule.](section/17.md)
+  - Publication of banns and solemnization of marriages during disuse of churches
+    - [s. 18 Publication of banns and solemnization of marriages during repair and rebuilding of churches.](section/18.md)
+    - [s. 19 Publication of banns and solemnization of marriage where church injured by war damage.](section/19.md)
+  - Licensing of chapels for publication of banns and solemnization of marriages
+    - [s. 20 Licensing of chapels for publication of banns and solemnization of marriages for persons residing in specified district.](section/20.md)
+    - [s. 21 Authorising of publication of banns and solemnization of marriages in churches and chapels of extra-parochial places.](section/21.md)
+  - Issue of marriage document after publication of banns or the grant of a special or common licence
+    - [s. 21A Issue of marriage document after publication of banns or the grant of a special or common licence](section/21A.md)
+  - Miscellaneous Provisions
+    - [s. 22 Witnesses.](section/22.md)
+    - [s. 23 Benefices held in plurality.](section/23.md)
+    - [s. 24 Proof of residence not necessary to validity of marriage by banns or common licence.](section/24.md)
+    - [s. 25 Void marriages.](section/25.md)
+- Part III Marriage under marriage schedule
+  - Issue of a marriage schedule
+    - [s. 26 Marriage of a man and a woman; marriage of same sex couples for which no opt-in necessary](section/26.md)
+    - [s. 26A Opt-in to marriage of same sex couples: places of worship](section/26A.md)
+    - [s. 26B Opt-in to marriage of same sex couples: other religious ceremonies](section/26B.md)
+    - [s. 27 Notice of marriage.](section/27.md)
+    - [s. 27ZA Circumstances in which a notice of marriage is not to be recorded in the marriage register](section/27ZA.md)
+    - [s. 27A Additional information required in certain cases.](section/27A.md)
+    - [s. 27B Provisions relating to section 1(3) marriages.](section/27B.md)
+    - [s. 27C Provisions relating to section 1(5) marriages.](section/27C.md)
+    - [s. 27D Additional information required for certain marriages of same sex couples](section/27D.md)
+    - [s. 27E Additional information if party not relevant national](section/27E.md)
+    - [s. 28 Declaration to accompany notice of marriage.](section/28.md)
+    - [s. 28A Power to require evidence of consent to marriages of same sex couples](section/28A.md)
+    - [s. 28B Provision of evidence](section/28B.md)
+    - [s. 28C Additional evidence if party not relevant national](section/28C.md)
+    - [s. 28D Change of usual address or UK contact address](section/28D.md)
+    - [s. 28E Rejection of false information or evidence](section/28E.md)
+    - [s. 28F Amendment of notice and evidence provisions](section/28F.md)
+    - [s. 28G Specified evidence](section/28G.md)
+    - [s. 28H Referral of proposed marriage to Secretary of State](section/28H.md)
+    - [s. 29 Caveat against issue of marriage schedule.](section/29.md)
+    - [s. 30 Forbidding of issue of marriage schedule.](section/30.md)
+    - [s. 31 Marriage under marriage schedule.](section/31.md)
+    - [s. 31ZA Notice of marriage: false information or evidence](section/31ZA.md)
+    - [s. 31A Appeal on refusal under section 31(2)(a) or 31ZA.](section/31A.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Period of validity of marriage schedule.](section/33.md)
+    - [s. 34 Marriages normally to be solemnized in registration district in which one party resides.](section/34.md)
+    - [s. 35 Marriages in registration district in which neither party resides.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 One party resident in Scotland.](section/37.md)
+    - [s. 38 One party resident in Northern Ireland.](section/38.md)
+    - [s. 39 Issue of certificates on board His Majesty’s ships.](section/39.md)
+    - [s. 39A Marriage of former civil partners one of whom has changed sex](section/39A.md)
+    - [s. 40 Forms of certificates to be furnished by Registrar General.](section/40.md)
+  - Marriages in registered buildings
+    - [s. 41 Registration of buildings: marriage of a man and a woman.](section/41.md)
+    - [s. 42 Cancellation of registration under section 41: building no longer used](section/42.md)
+    - [s. 43 Buildings registered under section 41: appointment of authorised persons](section/43.md)
+    - [s. 43A Registration of buildings: marriage of same sex couples](section/43A.md)
+    - [s. 43B Buildings registered under section 43A: appointment of authorised persons](section/43B.md)
+    - [s. 43C Cancellation of registration under section 43A](section/43C.md)
+    - [s. 43D Regulations about sections 41 and 43 and 43A to 43C](section/43D.md)
+    - [s. 44 Solemnization of marriage in registered building.](section/44.md)
+  - Registration of shared buildings for marriage of same sex couples
+    - [s. 44A Building subject to Sharing of Church Buildings Act 1969: registration](section/44A.md)
+    - [s. 44B Building subject to Sharing of Church Buildings Act 1969: cancellation](section/44B.md)
+    - [s. 44C Other shared places of worship: registration and cancellation](section/44C.md)
+    - [s. 44D Sections 44A to 44C: supplementary provision](section/44D.md)
+  - Marriages in register offices
+    - [s. 45 Solemnization of marriage in register office.](section/45.md)
+    - [s. 45A Solemnization of certain marriages.](section/45A.md)
+    - [s. 46 Register office marriage followed by religious ceremony.](section/46.md)
+  - Marriages on approved premises
+    - [s. 46A Approval of premises.](section/46A.md)
+    - [s. 46B Solemnization of marriage on approved premises.](section/46B.md)
+  - Marriages according to usages of Society of Friends
+    - [s. 47 Marriages according to usages of Society of Friends.](section/47.md)
+  - Miscellaneous Provisions
+    - [s. 48 Proof of certain matters not necessary to validity of marriages.](section/48.md)
+    - [s. 49 Void marriages.](section/49.md)
+    - [s. 49A Void marriages: additional provision about same sex couples](section/49A.md)
+    - [s. 50 Person to whom marriage schedule to be delivered.](section/50.md)
+    - [s. 51 Fees of superintendent registrars for attending marriages in approved premises](section/51.md)
+    - [s. 52 Provision for marriages in Welsh language.](section/52.md)
+- Part IV Registration of Marriages
+  - [s. 53 Persons by whom marriages are to be registered.](section/53.md)
+  - [s. 53A Register of marriages](section/53A.md)
+  - [s. 53B Signing of a marriage document](section/53B.md)
+  - [s. 53C Signing of a marriage schedule](section/53C.md)
+  - [s. 53D Registration of marriage](section/53D.md)
+  - [s. 53E Registration of marriage where documentation lost or destroyed](section/53E.md)
+  - [s. 54 Provision of marriage register books by Registrar General.](section/54.md)
+  - [s. 55 Manner of registration of marriages.](section/55.md)
+  - [s. 56 Power to ask for particulars of marriage.](section/56.md)
+  - [s. 57 Quarterly returns to be made to superintendent registrar.](section/57.md)
+  - [s. 58 Quarterly returns to be made by superintendent registrar to Registrar General.](section/58.md)
+  - [s. 59 Custody of register books.](section/59.md)
+  - [s. 60 Filled register books.](section/60.md)
+  - [s. 61 Correction of errors in register book.](section/61.md)
+  - [s. 62 Disposal of register books on church ceasing to be used for solemnization of marriages.](section/62.md)
+  - [s. 63 Searches in register books.](section/63.md)
+  - [s. 64 Searches of indexes kept by superintendent registrars.](section/64.md)
+  - [s. 65 Searches of indexes kept by Registrar General.](section/65.md)
+  - [s. 65A Searches and records of information: additional provision](section/65A.md)
+  - [s. 66 Sending documents by post.](section/66.md)
+  - [s. 67 Interpretation of Part IV.](section/67.md)
+- Part V Marriages in Naval, Military, and Air Force Chapels
+  - [s. 68 Solemnization of marriages in naval, military, and air force chapels.](section/68.md)
+  - [s. 69 Licensing of chapels for marriages according to rites of Church of England.](section/69.md)
+  - [s. 70 Registration of chapels for marriages otherwise than according to rites of Church of England.](section/70.md)
+  - [s. 70A Registration of chapels for marriages of same sex couples otherwise than according to rites of Church of England](section/70A.md)
+  - [s. 71 Evidence of marriages under Part V.](section/71.md)
+- Part VI General
+  - [s. 71A Fees](section/71A.md)
+  - [s. 72 Supplementary provisions as to marriages in usual places of worship.](section/72.md)
+  - [s. 73 Lists of licensed chapels and registered buildings.](section/73.md)
+  - [s. 74 Regulations and approval of electronic forms etc.](section/74.md)
+  - [s. 75 Offences relating to solemnization of marriages.](section/75.md)
+  - [s. 76 Offences relating to registration of marriages.](section/76.md)
+  - [s. 76A Offence of failing to attend premises in compliance with a section 53D(8) or section 53E(10) notice](section/76A.md)
+  - [s. 77 Offences by authorised persons.](section/77.md)
+  - [s. 78 Interpretation.](section/78.md)
+  - [s. 79 Repeals and savings.](section/79.md)
+  - [s. 80 Short title, extent and commencement.](section/80.md)
+- SCHEDULE 1 Kindred and affinity
+  - Part 1 Prohibited degrees: kindred
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part 2 Degrees of affinity referred to in section 1(2) and (3)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part III
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SECOND SCHEDULE
+- THIRD SCHEDULE
+- SCHEDULE 3A Modifications if proposed marriage referred under section 28H
+  - Introduction
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - No marriage schedule to be issued until decision about investigation etc
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Marriage to be investigated: extension of waiting period to 70 days
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Effect of reducing statutory period
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+- FOURTH SCHEDULE Provisions of Act which are excluded or modified in their application to Naval, Military and Air Force Chapels
+  - Part I Exclusion of Provisions relating to Marriages according to the Rites of the Church of England
+  - Part II Modification of Provisions relating to Marriages according to the Rites of the Church of England
+  - Part III Exclusion of Provisions relating to Marriages otherwise than according to the Rites of the Church of England
+  - Part IV Modification of Provisions relating to Marriages otherwise than according to the Rites of the Church of England
+- FIFTH SCHEDULE Enactments repealed
+  - Part I
+    - Acts of Parliament repealed
+  - Part II................................
+- SIXTH SCHEDULE Provisions of Act which do not extend to Wales
