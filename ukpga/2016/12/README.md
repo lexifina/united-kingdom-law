@@ -1,0 +1,164 @@
+# Enterprise Act 2016
+
+2016 c. 12. Enacted 2016-05-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2016/12/2025-06-01
+
+## Contents
+
+- PART 1 The Small Business Commissioner
+  - The Commissioner
+    - [s. 1 Small Business Commissioner](section/1.md)
+  - “Small businesses”
+    - [s. 2 Small businesses in relation to which the Commissioner has functions](section/2.md)
+  - General advice and information
+    - [s. 3 General advice and information](section/3.md)
+  - Complaints scheme
+    - [s. 4 The SBC complaints scheme](section/4.md)
+    - [s. 5 Enquiry into, consideration and determination of complaints](section/5.md)
+    - [s. 6 Reports on complaints](section/6.md)
+    - [s. 7 Scheme regulations](section/7.md)
+    - [s. 8 Confidentiality](section/8.md)
+  - Reports and reviews
+    - [s. 9 Annual report](section/9.md)
+    - [s. 10 Review of Commissioner’s performance](section/10.md)
+  - Power to abolish
+    - [s. 11 Power to abolish the Commissioner](section/11.md)
+    - [s. 12 Regulations under section 11: procedure](section/12.md)
+  - Definitions
+    - [s. 13 Definitions used in Part 1](section/13.md)
+- PART 2 Regulators
+  - ...
+    - [s. 14 Extension of target to provisions made by regulators](section/14.md)
+  - Reporting requirements
+    - [s. 15 Duty to report on effect of regulators’ code](section/15.md)
+    - [s. 16 Duty to report on effect of economic growth duty](section/16.md)
+  - Application of regulators’ principles and code of practice
+    - [s. 17 Power of Welsh Ministers to apply regulators’ principles and code of practice](section/17.md)
+    - [s. 18 Removal of restrictions](section/18.md)
+  - Secondary legislation: duty to review
+    - [s. 19 Secondary legislation: duty to review](section/19.md)
+- PART 3 Regulatory Enforcement and Sanctions Act 2008
+  - [s. 20 Extending the primary authority scheme](section/20.md)
+  - [s. 21 Devolved Welsh matters](section/21.md)
+- PART 4 Apprenticeships
+  - [s. 22 The Institute for Apprenticeships](section/22.md)
+  - [s. 23 The Institute for Apprenticeships: transitional provision](section/23.md)
+  - [s. 24 Public sector apprenticeship targets](section/24.md)
+  - [s. 25 Only statutory apprenticeships to be described as apprenticeships](section/25.md)
+  - [s. 26 Apprenticeships: information sharing](section/26.md)
+  - [s. 27 Apprenticeship funding](section/27.md)
+- PART 5 Late payment of insurance claims
+  - [s. 28 Insurance contracts: implied term about payment of claims](section/28.md)
+  - [s. 29 Contracting out of the implied term about payment of claims](section/29.md)
+  - [s. 30 Additional time limit for actions for damages for late payment of insurance claims](section/30.md)
+- PART 6 Non-domestic rating
+  - [s. 31 Disclosure of HMRC information in connection with non-domestic rating](section/31.md)
+  - [s. 32 Alteration of non-domestic rating lists](section/32.md)
+- PART 7 Sunday working
+  - [s. 33 Sunday working](section/33.md)
+- PART 8 Other enterprise-related provisions
+  - Industrial development
+    - [s. 34 Allowable assistance under Industrial Development Act 1982](section/34.md)
+    - [s. 35 Grants etc towards electronic communications services and networks](section/35.md)
+  - UK Government Investments Limited
+    - [s. 36 UK Government Investments Limited](section/36.md)
+  - UK Green Investment Bank
+    - [s. 37 Disposal of Crown’s shares in UK Green Investment Bank company](section/37.md)
+    - [s. 38 UK Green Investment Bank: transitional provision](section/38.md)
+  - The Pubs Code Adjudicator and the Pubs Code
+    - [s. 39 Market rent only option: rent assessments etc](section/39.md)
+    - [s. 40 Reports on avoidance](section/40.md)
+- PART 9 Public sector employment: restrictions on exit payments
+  - [s. 41 Restriction on public sector exit payments](section/41.md)
+- PART 10 General provisions
+  - [s. 42 Consequential amendments, repeals and revocations](section/42.md)
+  - [s. 43 Transitional, transitory or saving provision](section/43.md)
+  - [s. 44 Commencement](section/44.md)
+  - [s. 45 Extent](section/45.md)
+  - [s. 46 Short title](section/46.md)
+- SCHEDULE 1 The Small Business Commissioner
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Appointment of Commissioner
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Deputy Commissioners
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Term of office etc
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Commissioner and Deputy Commissioners not civil servants
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Acting as Commissioner during vacancy etc
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Conflicts of interest
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Validity of acts
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Financial and other assistance from the Secretary of State
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Application of seal and proof of documents
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Incidental powers
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Exemption from liability for damages
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Parliamentary Commissioner Act 1967
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Freedom of Information Act 2000
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Business impact target: consequential and related amendments
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Primary authority scheme: new Schedule 4A to RESA 2008
+- SCHEDULE 4 The Institute for Apprenticeships
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Sunday working
+  - Employment Rights Act 1996
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Employment Act 2002
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Restriction on public sector exit payments: consequential and related provision
+  - Small Business, Enterprise and Employment Act 2015
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Power to amend public sector schemes
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Local Government Pension Scheme Regulations 2013 (S.I. 2013/2356)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
