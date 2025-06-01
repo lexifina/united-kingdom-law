@@ -1,0 +1,215 @@
+# Technical and Further Education Act 2017
+
+2017 c. 19. Enacted 2017-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2017/19/2025-06-01
+
+## Contents
+
+- Part 1 Technical education
+  - [s. 1 The Institute for Apprenticeships and Technical Education](section/1.md)
+  - [s. 2 Information about technical education: access to English schools](section/2.md)
+- Part 2 Further education bodies: insolvency etc
+  - CHAPTER 1 Introduction
+    - [s. 3 Overview](section/3.md)
+    - [s. 4 “Further education body”](section/4.md)
+    - [s. 5 Other key definitions](section/5.md)
+  - CHAPTER 2 Application of normal insolvency to statutory corporations
+    - [s. 6 Application of normal insolvency procedures](section/6.md)
+    - [s. 7 Application of other insolvency law](section/7.md)
+    - [s. 8 Records etc](section/8.md)
+  - CHAPTER 3 Restrictions on use of normal insolvency procedures
+    - [s. 9 Making of ordinary administration orders](section/9.md)
+    - [s. 10 Administrator appointments by creditors etc](section/10.md)
+    - [s. 11 Winding-up order](section/11.md)
+    - [s. 12 Voluntary winding up](section/12.md)
+    - [s. 13 Enforcement of security](section/13.md)
+    - [s. 14 Interpretation of Chapter](section/14.md)
+  - CHAPTER 4 Further education bodies: special administration
+    - Introduction to education administration
+      - [s. 15 Overview of Chapter](section/15.md)
+      - [s. 16 Objective of education administration](section/16.md)
+    - Process
+      - [s. 17 Education administration order](section/17.md)
+      - [s. 18 Application for education administration order](section/18.md)
+      - [s. 19 Grounds for making an education administration order](section/19.md)
+      - [s. 20 Powers of the court on hearing an application](section/20.md)
+      - [s. 21 Appointment of two or more education administrators](section/21.md)
+      - [s. 22 Duty to dismiss ordinary administration application](section/22.md)
+      - [s. 23 Status of education administrator](section/23.md)
+    - Functions of administrator and conduct of administration
+      - [s. 24 General functions of education administrator](section/24.md)
+      - [s. 25 Transfer schemes](section/25.md)
+      - [s. 26 Conduct of administration](section/26.md)
+    - Financial support for bodies in education administration
+      - [s. 27 Grants and loans where education administration order is made](section/27.md)
+      - [s. 28 Indemnities where education administration order is made](section/28.md)
+      - [s. 29 Indemnities: repayment by further education bodies etc](section/29.md)
+      - [s. 30 Guarantees where education administration order is made](section/30.md)
+      - [s. 31 Guarantees: repayment by further education body etc](section/31.md)
+    - Supplementary
+      - [s. 32 Education administration rules](section/32.md)
+      - [s. 33 Application of other insolvency law](section/33.md)
+      - [s. 34 Modification of this Chapter under the Enterprise Act 2002](section/34.md)
+      - [s. 35 Interpretation of Chapter](section/35.md)
+  - CHAPTER 5 Trust property held by sixth form college corporations
+    - [s. 36 Trust property held by sixth form college corporations](section/36.md)
+  - CHAPTER 6 Restrictions on other dissolution procedures
+    - [s. 37 Restrictions on dissolution of further education corporation](section/37.md)
+    - [s. 38 Restrictions on dissolution of sixth form college corporation](section/38.md)
+  - CHAPTER 7 Disqualification of officers
+    - [s. 39 Disqualification of officers](section/39.md)
+- Part 3 Other provision to do with further education
+  - [s. 40 Information for Secretary of State about further education](section/40.md)
+  - [s. 41 Careers advice in further education institutions: Ofsted inspection](section/41.md)
+- Part 4 General
+  - [s. 42 Power to make transitional provision](section/42.md)
+  - [s. 43 Power to make consequential provision](section/43.md)
+  - [s. 44 Regulations: general](section/44.md)
+  - [s. 45 Affirmative and negative resolution procedures](section/45.md)
+  - [s. 46 Extent](section/46.md)
+  - [s. 47 Commencement](section/47.md)
+  - [s. 48 Short title](section/48.md)
+- SCHEDULE 1 The Institute for Apprenticeships and Technical Education
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+- SCHEDULE 2 Education administration: transfer schemes
+  - Power to make a transfer scheme
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Procedural requirements: consent and approval
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Modifying a scheme after it takes effect
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Property, rights and liabilities that may be transferred
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Proof of title by certificate
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Interpretation
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Conduct of education administration: statutory corporations
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - General modifications
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Specific modifications to Schedule B1 to the Insolvency Act 1986
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - Specific modifications to section 251 of the Insolvency Act 1986
+    - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - Power to add modifications
+    - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+- SCHEDULE 4 Conduct of education administration: companies
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - General modifications
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Specific modifications to Schedule B1 to the Insolvency Act 1986
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 17A](schedule/4/paragraph/17A.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+  - Specific modifications to section 251 of the Insolvency Act 1986
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - Power to add modifications
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
