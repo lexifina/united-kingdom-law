@@ -1,0 +1,133 @@
+# Agriculture Act 1970
+
+1970 c. 40. Enacted 1970-05-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1970/40
+
+Source: https://www.legislation.gov.uk/ukpga/1970/40/2025-06-16
+
+## Contents
+
+- Part I
+  - [s. 1 ................................](section/1.md)
+- Part II Capital and other Grants
+  - [s. 28 Interpretation of Part II.](section/28.md)
+  - [s. 29 Farm capital grants.](section/29.md)
+  - [s. 30 Supplementary provisions as to farm capital grants.](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 Amendments as to grants in connection with alterations of farm structure.](section/32.md)
+  - [s. 33 Miscellaneous amendments relating to amalgamations.](section/33.md)
+  - [s. 34 New provision as to standard costs, etc. for certain grants.](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 ................................](section/36.md)
+- Part III Smallholdings in England and Wales
+  - Preliminary
+    - [s. 37 Interpretation of Part III.](section/37.md)
+  - Reorganisation of smallholdings
+    - [s. 38 Smallholdings authorities.](section/38.md)
+    - [s. 39 General aim of statutory smallholdings.](section/39.md)
+    - [s. 40 Reorganisation of smallholdings estates.](section/40.md)
+    - [s. 41 Approval by Minister of proposals for reorganisation.](section/41.md)
+    - [s. 42 Subsequent reviews and proposals for further reorganisation.](section/42.md)
+    - [s. 43 Submission and approval of proposals otherwise than in connection with reviews.](section/43.md)
+  - Management of smallholdings
+    - [s. 44 Letting of smallholdings.](section/44.md)
+    - [s. 45 Rent to be charged for smallholdings.](section/45.md)
+    - [s. 46 Equipment of smallholdings.](section/46.md)
+    - [s. 47 General powers of management.](section/47.md)
+    - [s. 48 Acquisition of land for purposes of smallholdings.](section/48.md)
+    - [s. 49 Surplus land held for purposes of smallholdings.](section/49.md)
+  - Financial aid for smallholdings
+    - [s. 50 Grants in respect of certain amalgamations, etc.](section/50.md)
+    - [s. 51 Increase of certain capital grants.](section/51.md)
+    - [s. 52 Contributions under previous enactments.](section/52.md)
+    - [s. 53 Loans and guarantees by smallholdings authorities.](section/53.md)
+  - Additional powers of Minister in relation to smallholdings
+    - [s. 54 Land held by Minister for purposes of smallholdings.](section/54.md)
+    - [s. 55 Acquisition of land by Minister for purposes of smallholdings.](section/55.md)
+    - [s. 56 Default powers of Minister.](section/56.md)
+  - General and supplementary provisions
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 Accounts and records of smallholdings authorities.](section/58.md)
+    - [s. 59 Annual reports.](section/59.md)
+    - [s. 60 Cottage holdings.](section/60.md)
+    - [s. 61 Special classes of land.](section/61.md)
+    - [s. 62 Provisions as to Wales (including Monmouth-shire).](section/62.md)
+    - [s. 63 Provisions as to regulations.](section/63.md)
+    - [s. 64 Transitional provisions and amendments.](section/64.md)
+    - [s. 65 Commencement and extent of Part III.](section/65.md)
+- Part IV Fertilisers and Feeding Stuffs
+  - Preliminary
+    - [s. 66 Interpretation of Part IV.](section/66.md)
+    - [s. 67 Enforcement authorities and appointment of inspectors and analysts.](section/67.md)
+    - [s. 67A Enforcement authorities and appointment of inspectors and analysts in Scotland](section/67A.md)
+  - Obligations relating to material sold and prepared for sale.
+    - [s. 68 Duty of seller to give statutory statement.](section/68.md)
+    - [s. 69 Marking of material prepared for sale.](section/69.md)
+    - [s. 70 Use of names or expressions with prescribed meanings.](section/70.md)
+    - [s. 71 Particulars to be given of certain attributes if claimed to be present.](section/71.md)
+    - [s. 72 Warranty of fitness of feeding stuff.](section/72.md)
+    - [s. 72A Delegation by Food Standards Scotland](section/72A.md)
+    - [s. 73 Deleterious ingredients in feeding stuff.](section/73.md)
+    - [s. 73A](section/73A.md)
+    - [s. 74 Limits of variation.](section/74.md)
+    - [s. 74A](section/74A.md)
+  - Sampling and analysis
+    - [s. 75 Purchaser’s right to have sample taken and analysed.](section/75.md)
+    - [s. 76 Inspector’s power to enter premises and take samples.](section/76.md)
+    - [s. 77 Division of samples and analysis by agricultural analyst.](section/77.md)
+    - [s. 78 Further analysis by Government Chemist.](section/78.md)
+    - [s. 79 Supplementary provisions relating to samples and analysis.](section/79.md)
+  - Prosecutions under Part IV
+    - [s. 80 Institution of prosecutions.](section/80.md)
+    - [s. 81 Offences due to fault of other person.](section/81.md)
+    - [s. 82 Defence of mistake, accident, etc.](section/82.md)
+  - Supplementary provisions
+    - [s. 83 Exercise of powers by inspectors.](section/83.md)
+    - [s. 84 Regulations.](section/84.md)
+    - [s. 85 Exemption for certain sales.](section/85.md)
+    - [s. 86 Modifications of Part IV in application to Northern Ireland.](section/86.md)
+    - [s. 87 Commencement of Part IV, savings and amendments.](section/87.md)
+- Part V
+  - [s. 88 ................................](section/88.md)
+- Part VI Flood Warning Systems in Scotland
+  - [s. 92 Provision of flood warning systems.](section/92.md)
+  - [s. 93 ................................](section/93.md)
+  - [s. 94 Arrangements with other bodies.](section/94.md)
+  - [s. 95 ................................](section/95.md)
+  - [s. 97 ................................](section/97.md)
+  - [s. 98 Extent of Part VI.](section/98.md)
+- Part VII Miscellaneous provisions
+  - [s. 99 Agricultural tied cottages.](section/99.md)
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 Registration of notices relating to conditions applied to Scottish cottages under Hill Farming Act 1946 s. 10.](section/102.md)
+  - [s. 103 ................................](section/103.md)
+  - [s. 104 ................................](section/104.md)
+  - [s. 105 Amendments of Diseases of Animals Act 1950.](section/105.md)
+  - [s. 106 Eradication of brucellosis.](section/106.md)
+  - [s. 107 ................................](section/107.md)
+  - [s. 108 Corn returns.](section/108.md)
+  - [s. 109 ................................](section/109.md)
+- Part VIII General
+  - [s. 110 Offences by bodies corporate.](section/110.md)
+  - [s. 111 Expenses and receipts.](section/111.md)
+  - [s. 112 ................................](section/112.md)
+  - [s. 113 Short title, construction of references and repeals.](section/113.md)
+- SCHEDULE 1
+- SCHEDULE 2 S. 26 of Agriculture Act 1967 as amended
+  - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+- SCHEDULE 3 Transitional Provisions for Part III
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Enactments amended
+- SCHEDULE 5
