@@ -1,0 +1,289 @@
+# Abolition of Feudal Tenure etc. (Scotland) Act 2000
+
+asp/2000/5. Enacted 2000-06-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2000/5
+
+Source: https://www.legislation.gov.uk/asp/2000/5/2025-06-16
+
+## Contents
+
+- PART 1 ABOLITION OF FEUDAL TENURE
+  - [s. 1 Abolition on appointed day](section/1.md)
+  - [s. 2 Consequences of abolition](section/2.md)
+  - [s. 3 Amendment of Land Registration (Scotland) Act 1979](section/3.md)
+- PART 2 LAND TRANSFERS ETC. ON AND AFTER APPOINTED DAY
+  - [s. 4 Ownership of land](section/4.md)
+  - [s. 5 Form of application for recording deed in Register of Sasines](section/5.md)
+  - [s. 6 Deduction of title for unregistered land etc.](section/6.md)
+- PART 3 FEUDUTIES
+  - Extinction of feuduties
+    - [s. 7 Extinction on appointed day](section/7.md)
+    - [s. 8 Requiring compensatory payment](section/8.md)
+    - [s. 9 Calculation of amount of compensatory payment](section/9.md)
+    - [s. 10 Making compensatory payment by instalments](section/10.md)
+    - [s. 11 Service under section 8(1)](section/11.md)
+    - [s. 12 Extinction by prescription of requirement to make compensatory payment](section/12.md)
+  - Arrears
+    - [s. 13 Arrears of feuduty etc.](section/13.md)
+  - Disclosure
+    - [s. 14 Duty of collecting third party to disclose information](section/14.md)
+    - [s. 15 Duty to disclose identity etc. of former vassal](section/15.md)
+  - Interpretation
+    - [s. 16 Interpretation of Part 3](section/16.md)
+- PART 4 REAL BURDENS
+  - Extinction of superior’s rights
+    - [s. 17 Extinction of superior’s rights](section/17.md)
+  - Reallotment etc.
+    - [s. 18 Reallotment of real burden by nomination of new dominant tenement](section/18.md)
+    - [s. 18A Personal pre-emption burdens and personal redemption burdens](section/18A.md)
+    - [s. 18B Conversion into economic development burden](section/18B.md)
+    - [s. 18C Conversion into health care burden](section/18C.md)
+    - [s. 19 Reallotment of real burden by agreement](section/19.md)
+    - [s. 20 Reallotment of real burden by order of Lands Tribunal](section/20.md)
+    - [s. 21 Manner of dealing with application under section 20](section/21.md)
+    - [s. 22 Amendment of Tribunals and Inquiries Act 1992](section/22.md)
+    - [s. 23 Reallotment of real burden affecting facility of benefit to other land etc.](section/23.md)
+    - [s. 24 Interest to enforce real burden](section/24.md)
+    - [s. 25 Counter-obligations on reallotment](section/25.md)
+  - Conservation burdens
+    - [s. 26 Conservation bodies](section/26.md)
+    - [s. 27 Notice preserving right to enforce conservation burden](section/27.md)
+    - [s. 27A Nomination of conservation body or Scottish Ministers to have title to enforce conservation burden](section/27A.md)
+    - [s. 28 Enforcement of conservation burden](section/28.md)
+    - [s. 28A Effect of section 27A nomination](section/28A.md)
+    - [s. 29 Assignation of right to conservation burden](section/29.md)
+    - [s. 30 Deduction of title for conservation burden](section/30.md)
+    - [s. 31 Extinction of burden on body ceasing to be conservation body](section/31.md)
+    - [s. 32 No standard security over conservation burden](section/32.md)
+  - Compensation
+    - [s. 33 Notice reserving right to claim compensation where land subject to development value burden](section/33.md)
+    - [s. 34 Transmissibility of right to claim compensation[j074.doc]](section/34.md)
+    - [s. 35 Claiming compensation](section/35.md)
+    - [s. 36 Service under section 35(3)](section/36.md)
+    - [s. 37 Amount of compensation](section/37.md)
+    - [s. 38 Duty to disclose identity of owner](section/38.md)
+    - [s. 39 The expression “owner” for purposes of sections 35 to 38](section/39.md)
+    - [s. 40 Assignation, discharge, or restriction, of reserved right to claim compensation](section/40.md)
+  - Miscellaneous
+    - [s. 41 Notices: pre-registration requirements etc.](section/41.md)
+    - [s. 42 Further provision as respects sections 18 to 20, 27 and 33](section/42.md)
+    - [s. 43 Notices and agreements under certain sections: extent of Keeper’s duty](section/43.md)
+    - [s. 44 Referral to Lands Tribunal of notice dispute](section/44.md)
+    - [s. 45 Circumstances where certain notices may be registered after appointed day](section/45.md)
+    - [s. 46 Duties of Keeper: amendments relating to the extinction of certain real burdens](section/46.md)
+    - [s. 47 Extinction of counter-obligation](section/47.md)
+    - [s. 48 No implication as to dominant tenement where real burden created in grant in feu](section/48.md)
+  - Interpretation
+    - [s. 49 Interpretation of Part 4](section/49.md)
+- PART 5 ENTAILS
+  - [s. 50 Disentailment on appointed day](section/50.md)
+  - [s. 51 Compensation for expectancy or interest of apparent or other nearest heir in an entailed estate](section/51.md)
+  - [s. 52 Closure of Register of Entails](section/52.md)
+- PART 6 MISCELLANEOUS
+  - Discharge of certain rights and extinction of certain obligations and payments
+    - [s. 53 Discharge of rights of irritancy](section/53.md)
+    - [s. 54 Extinction of superior’s rights and obligations qua superior](section/54.md)
+    - [s. 55 Abolition of thirlage](section/55.md)
+    - [s. 56 Extinction etc. of certain payments analogous to feuduty](section/56.md)
+    - [s. 57 Extinction by prescription of obligation to pay redemption money for feuduty, ground annual etc.](section/57.md)
+  - The Crown, the Lord Lyon and Barony
+    - [s. 58 Crown application](section/58.md)
+    - [s. 59 Crown may sell or otherwise dispose of land by disposition](section/59.md)
+    - [s. 60 Preserved right of Crown to maritime burdens](section/60.md)
+    - [s. 61 Mines of gold and silver](section/61.md)
+    - [s. 62 Jurisdiction and prerogative of Lord Lyon](section/62.md)
+    - [s. 63 Baronies and other dignities and offices](section/63.md)
+  - Kindly Tenants of Lochmaben
+    - [s. 64 Abolition of Kindly Tenancies](section/64.md)
+  - Miscellaneous
+    - [s. 65 Creation of proper liferent](section/65.md)
+    - [s. 65A Sporting rights](section/65A.md)
+    - [s. 66 Obligation to make title deeds and searches available](section/66.md)
+    - [s. 67 Prohibition on leases for periods of more than 175 years](section/67.md)
+    - [s. 68 Certain applications to Sheriff of Chancery](section/68.md)
+    - [s. 69 Application of 1970 Act to earlier forms of heritable security](section/69.md)
+    - [s. 70 Ownership of land by a firm](section/70.md)
+- PART 7 GENERAL
+  - [s. 71 The appointed day](section/71.md)
+  - [s. 72 Interpretation](section/72.md)
+  - [s. 73 Feudal terms in enactments and documents: construction after abolition of feudal system](section/73.md)
+  - [s. 74 Orders, regulations and rules](section/74.md)
+  - [s. 75 Saving for contractual rights](section/75.md)
+  - [s. 76 Minor and consequential amendments, repeals and power to amend or repeal enactments](section/76.md)
+  - [s. 77 Short title and commencement](section/77.md)
+- SCHEDULE 1 FORM OF NOTICE REQUIRING COMPENSATORY PAYMENT ETC.:CUMULO FEUDUTY
+- SCHEDULE 2 FORM OF NOTICE REQUIRING COMPENSATORY PAYMENT ETC.: ORDINARY CASE
+- SCHEDULE 3 FORM OF INSTALMENT DOCUMENT
+- SCHEDULE 4 PROCEDURES AS TO SERVICE UNDER SECTION 8(1)
+  - FORM A
+  - FORM B
+- SCHEDULE 5 FORM OF NOTICE PROSPECTIVELY NOMINATING DOMINANT TENEMENT
+  - Notes for completion of the notice
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 5A Form of notice prospectively converting real burden into personal pre-emption burden or personal redemption burden
+  - [Sch. 5A para.](schedule/5A/paragraph.md)
+  - Explanatory Note
+  - Notes for completion of the notice
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+    - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+    - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+    - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+    - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+    - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+- SCHEDULE 5B Form of notice prospectively converting real burden into economic development burden
+  - [Sch. 5B para.](schedule/5B/paragraph.md)
+  - Explanatory Note
+  - Notes for completion of the notice
+    - [Sch. 5B para. 1](schedule/5B/paragraph/1.md)
+    - [Sch. 5B para. 2](schedule/5B/paragraph/2.md)
+    - [Sch. 5B para. 3](schedule/5B/paragraph/3.md)
+    - [Sch. 5B para. 4](schedule/5B/paragraph/4.md)
+    - [Sch. 5B para. 5](schedule/5B/paragraph/5.md)
+- SCHEDULE 5C Form of notice prospectively converting real burden into health care burden
+  - [Sch. 5C para.](schedule/5C/paragraph.md)
+  - Explanatory Note
+  - Notes for completion of the notice
+    - [Sch. 5C para. 1](schedule/5C/paragraph/1.md)
+    - [Sch. 5C para. 2](schedule/5C/paragraph/2.md)
+    - [Sch. 5C para. 3](schedule/5C/paragraph/3.md)
+    - [Sch. 5C para. 4](schedule/5C/paragraph/4.md)
+    - [Sch. 5C para. 5](schedule/5C/paragraph/5.md)
+- SCHEDULE 6 FORM OF NOTICE SEEKING AGREEMENT TO THE PROSPECTIVE NOMINATION OF A DOMINANT TENEMENT
+  - Notes for completion of the notice
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 FORM OF NOTICE INTIMATING APPLICATION TO LANDS TRIBUNAL UNDER SECTION 20(1)
+  - Notes for completion of the notice
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 FORM OF NOTICE PRESERVING CONSERVATION BODY’S OR SCOTTISH MINISTERS’ RIGHT TO REAL BURDEN
+  - Notes for completion of the notice
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+- SCHEDULE 8A Form of notice nominating conservation body or Scottish Ministers to have title to enforce real burden
+  - [Sch. 8A para.](schedule/8A/paragraph.md)
+  - Explanatory note
+  - Notes for completion of the notice
+    - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+    - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+    - [Sch. 8A para. 3](schedule/8A/paragraph/3.md)
+    - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+    - [Sch. 8A para. 5](schedule/8A/paragraph/5.md)
+    - [Sch. 8A para. 6](schedule/8A/paragraph/6.md)
+    - [Sch. 8A para. 7](schedule/8A/paragraph/7.md)
+    - [Sch. 8A para. 8](schedule/8A/paragraph/8.md)
+- SCHEDULE 9 FORM OF NOTICE RESERVING RIGHT TO COMPENSATION IN RESPECT OF EXTINCTION OF DEVELOPMENT VALUE BURDEN
+  - Notes for completion of notice
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+- SCHEDULE 10 PROCEDURES AS TO SERVICE UNDER SECTION 35(3)
+  - FORM A
+  - FORM B
+- SCHEDULE 11 FORM OF ASSIGNATION, DISCHARGE OR RESTRICTION OF RESERVED RIGHT TO CLAIM COMPENSATION
+- SCHEDULE 11A Form of notice prospectively converting sporting rights into tenement in land
+  - [Sch. 11A para.](schedule/11A/paragraph.md)
+  - Explanatory note
+  - Notes for completion of the notice
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+    - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+    - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+    - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+    - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+    - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+- SCHEDULE 12 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 MINOR AND CONSEQUENTIAL AMENDMENTS: GENERAL
+    - [Sch. 12 para. 1 Mines and Metals Act 1592 (c.31) (Act of the Parliaments of Scotland)](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2 Redemptions Act 1661 (c.247) (Act of the Parliaments of Scotland)](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3 Real Rights Act 1693 (c.22) (Act of the Parliaments of Scotland)](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4 Lands Clauses Consolidation (Scotland) Act 1845 (c.19)](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5 Entail Amendment Act 1848 (c.36)](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6 Registration of Leases (Scotland) Act 1857 (c.26)](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7 Land Registers (Scotland) Act 1868 (c.64)](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8 Titles to Land Consolidation (Scotland) Act 1868 (c.101)](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9 Conveyancing (Scotland) Act 1874 (c.94)](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10 Writs Execution (Scotland) Act 1877 (c.40)](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11 Conveyancing (Scotland) Acts (1874 and 1879) Amendment Act 1887 (c.69)](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12 Military Lands Act 1892 (c.43)](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13 Heritable Securities (Scotland) Act 1894 (c.44)](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14 Entail (Scotland) Act 1914 (c.43)](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15 Conveyancing (Scotland) Act 1924 (c.27)](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16 Church of Scotland (Property and Endowments) Act 1925 (c.33)](schedule/12/paragraph/16.md)
+    - [Sch. 12 para. 17 Church of Scotland (Property and Endowments) Amendment Act 1933 (c.44)](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18 Conveyancing Amendment (Scotland) Act 1938 (c.24)](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19 National Parks and Access to the Countryside Act 1949 (c.97)](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20 Town and Country Planning (Scotland) Act 1954 (c.73)](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21 Land Powers (Defence) Act 1958 (c.30)](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22 Opencast Coal Act 1958 (c.69)](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23 Caravan Sites and Control of Development Act 1960 (c.62)](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24 Flood Prevention (Scotland) Act 1961 (c.41)](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25 Land Compensation (Scotland) Act 1963 (c.51)](schedule/12/paragraph/25.md)
+    - [Sch. 12 para. 26 Local Government (Development and Finance)(Scotland) Act 1964 (c.67)](schedule/12/paragraph/26.md)
+    - [Sch. 12 para. 27 Forestry Act 1967 (c.10)](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28 Countryside (Scotland) Act 1967 (c.86)](schedule/12/paragraph/28.md)
+    - [Sch. 12 para. 29 Countryside Act 1968 (c.41)](schedule/12/paragraph/29.md)
+    - [Sch. 12 para. 30 Conveyancing and Feudal Reform (Scotland) Act 1970 (c.35)](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 31 Agriculture Act 1970 (c.40)](schedule/12/paragraph/31.md)
+    - [Sch. 12 para. 32 Housing (Financial Provisions) (Scotland) Act 1972 (c.46)](schedule/12/paragraph/32.md)
+    - [Sch. 12 para. 33 Prescription and Limitation (Scotland) Act 1973 (c.52)](schedule/12/paragraph/33.md)
+    - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - [Sch. 12 para. 35 Land Compensation (Scotland) Act 1973 (c.56)](schedule/12/paragraph/35.md)
+    - [Sch. 12 para. 36 Offshore Petroleum Development (Scotland) Act 1975 (c.8)](schedule/12/paragraph/36.md)
+    - [Sch. 12 para. 37 Scottish Development Agency Act 1975 (c.69)](schedule/12/paragraph/37.md)
+    - [Sch. 12 para. 38 Aircraft and Shipbuilding Industries Act 1977 (c.3)](schedule/12/paragraph/38.md)
+    - [Sch. 12 para. 39 Land Registration (Scotland) Act 1979 (c.33)](schedule/12/paragraph/39.md)
+    - [Sch. 12 para. 40 Ancient Monuments and Archaeological Areas Act 1979 (c.46)](schedule/12/paragraph/40.md)
+    - [Sch. 12 para. 41 Education (Scotland) Act 1980 (c.44)](schedule/12/paragraph/41.md)
+    - [Sch. 12 para. 42 Water (Scotland) Act 1980 (c.45)](schedule/12/paragraph/42.md)
+    - [Sch. 12 para. 43 British Telecommunications Act 1981 (c.38)](schedule/12/paragraph/43.md)
+    - [Sch. 12 para. 44 Mobile Homes Act 1983 (c.34)](schedule/12/paragraph/44.md)
+    - [Sch. 12 para. 45 Roads (Scotland) Act 1984 (c.54)](schedule/12/paragraph/45.md)
+    - [Sch. 12 para. 46 Companies Act 1985 (c.6)](schedule/12/paragraph/46.md)
+    - [Sch. 12 para. 47 Housing Associations Act 1985 (c.69)](schedule/12/paragraph/47.md)
+    - [Sch. 12 para. 48 Housing (Scotland) Act 1987 (c.26)](schedule/12/paragraph/48.md)
+    - [Sch. 12 para. 49 Consumer Protection Act 1987 (c.43)](schedule/12/paragraph/49.md)
+    - [Sch. 12 para. 50 Income and Corporation Taxes Act 1988 (c.1)](schedule/12/paragraph/50.md)
+    - [Sch. 12 para. 51 Capital Allowances Act 1990 (c.1)](schedule/12/paragraph/51.md)
+    - [Sch. 12 para. 52 Enterprise and New Towns (Scotland) Act 1990 (c.35)](schedule/12/paragraph/52.md)
+    - [Sch. 12 para. 53 Natural Heritage (Scotland) Act 1991 (c.28)](schedule/12/paragraph/53.md)
+    - [Sch. 12 para. 54 Coal Mining Subsidence Act 1991 (c.45)](schedule/12/paragraph/54.md)
+    - [Sch. 12 para. 55 Crofters (Scotland) Act 1993 (c.44)](schedule/12/paragraph/55.md)
+    - [Sch. 12 para. 56 Coal Industry Act 1994 (c.21)](schedule/12/paragraph/56.md)
+    - [Sch. 12 para. 57 Value Added Tax Act 1994 (c.23)](schedule/12/paragraph/57.md)
+    - [Sch. 12 para. 58 Requirements of Writing (Scotland) Act 1995 (c.7)](schedule/12/paragraph/58.md)
+    - [Sch. 12 para. 59 Atomic Energy Authority Act 1995 (c.37)](schedule/12/paragraph/59.md)
+    - [Sch. 12 para. 60 Town and Country Planning (Scotland) Act 1997 (c.8)](schedule/12/paragraph/60.md)
+    - [Sch. 12 para. 61 Finance Act 1999 (c.16)](schedule/12/paragraph/61.md)
+  - PART 2 MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO THE NATIONAL TRUST FOR SCOTLAND
+    - [Sch. 12 para. 62 National Trust for Scotland Order Confirmation Act 1935 (c.ii)](schedule/12/paragraph/62.md)
+    - [Sch. 12 para. 63 National Trust for Scotland Order Confirmation Act 1947 (c.xxxviii)](schedule/12/paragraph/63.md)
+- SCHEDULE 13 REPEALS
+  - PART 1 REPEALS: GENERAL
+  - PART 2 REPEALS RELATING TO THE NATIONAL TRUST FOR SCOTLAND
