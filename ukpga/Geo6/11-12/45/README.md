@@ -1,0 +1,142 @@
+# Agriculture (Scotland) Act 1948
+
+1948 c. 45. Enacted 1948-07-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/11-12/45
+
+Source: https://www.legislation.gov.uk/ukpga/Geo6/11-12/45/2025-06-16
+
+## Contents
+
+- Part I Agricultural Holdings
+  - Compensation to tenant for improvements and to landlord for deterioration
+    - [s. 1 ................................](section/1.md)
+  - Compensation for disturbance, and provisions as to notices to quit
+    - [s. 5 ................................](section/5.md)
+    - [s. 8 ................................](section/8.md)
+  - Supplementary provisions as to compensation
+    - [s. 9 ................................](section/9.md)
+  - Variation and ascertainment of terms of leases
+    - [s. 11 ................................](section/11.md)
+  - General
+    - [s. 17 ................................](section/17.md)
+    - [s. 25 ................................](section/25.md)
+- Part II Good Estate Management and Good Husbandry
+  - [s. 26 Duties of good estate management and good husbandry](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - Special directions to secure production
+    - [s. 35 Special directions to secure production.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+- Part III Control of Injurious Animals, Birds and Weeds
+  - Prevention of damage by injurious animals and birds
+    - [s. 39 Control of injurious animals and birds.](section/39.md)
+    - [s. 40 Prevention of escape of captive animals.](section/40.md)
+    - [s. 41 Supplementary Provisions as to s. 39 and s. 40.](section/41.md)
+    - [s. 42 Provision by Secretary of State of equipment and services for pest control.](section/42.md)
+    - [s. 42A Meaning of “animals” for purposes of section 40 to 42.](section/42A.md)
+  - Prevention of Damage by Deer
+    - [s. 43](section/43.md)
+    - [s. 44 ................................](section/44.md)
+  - Amendments of Law relating to Killing of Hares and Rabbits
+    - [s. 48 Amendment of 43 & 44 Vict. c. 47, s. 1.](section/48.md)
+    - [s. 49 Provision as to use of poisonous substances.](section/49.md)
+    - [s. 50 Prohibition of night shooting, and use of spring traps.](section/50.md)
+    - [s. 50A Open trapping of hares and rabbits.](section/50A.md)
+  - Injurious Weeds
+    - [s. 51 ................................](section/51.md)
+  - Supplementary
+    - [s. 52 ................................](section/52.md)
+    - [s. 53 Persons acting under this Part of this Act not required to obtain game licences.](section/53.md)
+    - [s. 54 Interpretation of Part III.](section/54.md)
+- Part IV Acquisition of Land
+  - General powers of acquisition and management of land by the Secretary of State
+    - [s. 55 Powers of Secretary of State to acquire land by agreement.](section/55.md)
+    - [s. 56 Acquisition by Secretary of State of land for research, experiment and demonstration.](section/56.md)
+    - [s. 57 Acquisition of land by Secretary of State to ensure full and efficient use thereof.](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 Transfer to Secretary of State of land vested in other government departments.](section/59.md)
+    - [s. 60 Power of Secretary of State to appropriate land.](section/60.md)
+    - [s. 61 Powers of management etc., of land acquired by Secretary of State.](section/61.md)
+    - [s. 62 Repeal of 21 & 22 Geo. 5. c. 41, ss. 1 to 4.](section/62.md)
+  - Provisions as to compulsory acquisition of land
+    - [s. 63 Procedure for compulsory purchase of land.](section/63.md)
+- Part V Land Settlement
+  - Provision of holdings by the Secretary of State
+    - [s. 64 Power of Secretary of State to provide and equip holdings.](section/64.md)
+  - Provisions as to loans.
+    - [s. 65 Loans to tenants of holdings.](section/65.md)
+    - [s. 66 Recovery of loans in the event of failure of statutory successor.](section/66.md)
+  - Agriculture (Scotland) Fund
+    - [s. 67 Winding-up of Agriculture (Scotland) Fund.](section/67.md)
+- Part VI Administrative
+  - [s. 68 ................................](section/68.md)
+  - The Land Court
+    - [s. 70 Provisions as to the appointment of additional members of the LandCourt.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 Proceedings of the Land Court.](section/72.md)
+  - Agricultural Advisory Committees
+    - [s. 73 Establishment and functions of Agricultural Advisory Committees.](section/73.md)
+- Part VII General
+  - Minor Arterial Drainage
+    - [s. 74 ................................](section/74.md)
+  - Provision of Goods and Services.
+    - [s. 75 Schemes for provision of agricultural goods and services.](section/75.md)
+    - [s. 76 Provision of machinery for agricultural drainage works.](section/76.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 ................................](section/79.md)
+  - Supplementary
+    - [s. 80 Provisions as to representations.](section/80.md)
+    - [s. 81 Expenses and receipts.](section/81.md)
+    - [s. 82 Provisions as to entry and inspection.](section/82.md)
+    - [s. 83 Service of notices.](section/83.md)
+    - [s. 84 Nomination of arbiter in cases to which the Secretary of State is a party.](section/84.md)
+    - [s. 85 Regulations and orders.](section/85.md)
+    - [s. 86 Interpretation.](section/86.md)
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 †Short title, commencement and extent.](section/88.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
+- THIRD SCHEDULE Provisions where permanent pasture directed to be ploughed up or other cultivations to be carried out
+  - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+  - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+  - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+  - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+  - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+- FOURTH SCHEDULE. Matters for which provision is to made in written leases.
+  - [Sch. FOURTH. para. 1](schedule/FOURTH/paragraph/1.md)
+  - [Sch. FOURTH. para. 2](schedule/FOURTH/paragraph/2.md)
+  - [Sch. FOURTH. para. 3](schedule/FOURTH/paragraph/3.md)
+  - [Sch. FOURTH. para. 4](schedule/FOURTH/paragraph/4.md)
+  - [Sch. FOURTH. para. 5](schedule/FOURTH/paragraph/5.md)
+  - [Sch. FOURTH. para. 6](schedule/FOURTH/paragraph/6.md)
+- FIFTH SCHEDULE Rules of Good Estate Management
+  - [Sch. FIFTH para. 1](schedule/FIFTH/paragraph/1.md)
+  - [Sch. FIFTH para. 2](schedule/FIFTH/paragraph/2.md)
+- SIXTH SCHEDULE Rules of Good Husbandry
+  - [Sch. SIXTH para. 1](schedule/SIXTH/paragraph/1.md)
+  - [Sch. SIXTH para. 2](schedule/SIXTH/paragraph/2.md)
+- SEVENTH SCHEDULE................................
+- EIGHTH SCHEDULE
+  - Part I Agricultural Executive Committees and Sub-committees
+    - [Sch. EIGHTH Pt. I para. 1](schedule/EIGHTH/part/I/paragraph/1.md)
+    - Proof of Instruments
+      - [Sch. EIGHTH Pt. I heading proof-of-instruments para. 11](schedule/EIGHTH/part/I/crossheading/proof-of-instruments/paragraph/11.md)
+      - [Sch. EIGHTH Pt. I heading proof-of-instruments para. 12](schedule/EIGHTH/part/I/crossheading/proof-of-instruments/paragraph/12.md)
+  - Part II Agricultural Advisory Committees
+    - [Sch. EIGHTH Pt. II para. 1](schedule/EIGHTH/part/II/paragraph/1.md)
+    - [Sch. EIGHTH para. 2](schedule/EIGHTH/paragraph/2.md)
+    - [Sch. EIGHTH para. 3](schedule/EIGHTH/paragraph/3.md)
+    - [Sch. EIGHTH para. 4](schedule/EIGHTH/paragraph/4.md)
+    - [Sch. EIGHTH para. 5](schedule/EIGHTH/paragraph/5.md)
+    - [Sch. EIGHTH para. 6](schedule/EIGHTH/paragraph/6.md)
+    - [Sch. EIGHTH para. 7](schedule/EIGHTH/paragraph/7.md)
+    - [Sch. EIGHTH para. 8](schedule/EIGHTH/paragraph/8.md)
+    - [Sch. EIGHTH para. 9](schedule/EIGHTH/paragraph/9.md)
+    - [Sch. EIGHTH para. 10](schedule/EIGHTH/paragraph/10.md)
+    - [Sch. EIGHTH Pt. II para. 11](schedule/EIGHTH/part/II/paragraph/11.md)
+    - [Sch. EIGHTH Pt. II para. 12](schedule/EIGHTH/part/II/paragraph/12.md)
+- NINTH SCHEDULE
+- TENTH SCHEDULE
