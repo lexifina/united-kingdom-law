@@ -1,0 +1,121 @@
+# Agriculture Act 1986
+
+1986 c. 49. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/49
+
+Source: https://www.legislation.gov.uk/ukpga/1986/49/2025-06-16
+
+## Contents
+
+- Provision of agricultural services and goods
+  - [s. 1 Provision of services and goods connected with agriculture and countryside.](section/1.md)
+- Fees and charges to meet costs of statutory functions connected with agriculture
+  - [s. 2 Fees under seeds regulations.](section/2.md)
+  - [s. 3 Fees and charges under Plant Health Act 1967.](section/3.md)
+- Agricultural marketing
+  - [s. 4 Constitution and functions of Home-Grown Cereals Authority.](section/4.md)
+  - [s. 5 Levies under Cereals Marketing Act 1965.](section/5.md)
+  - [s. 6 Extension of Cereals Marketing Act 1965 to new cereals and other crops.](section/6.md)
+  - [s. 7 Constitution and levy schemes of Meat and Livestock Commission](section/7.md)
+  - [s. 8 Constitution and funding of Food from Britain](section/8.md)
+  - [s. 9 Abolition of Eggs Authority.](section/9.md)
+  - [s. 10 Repeal of certain ministerial powers concerning eggs.](section/10.md)
+  - [s. 11 Consolidation of agricultural marketing schemes.](section/11.md)
+  - [s. 12 Validation of Apple and Pear Development Council orders.](section/12.md)
+- Compensation to tenants for milk quotas
+  - [s. 13 Compensation to outgoing tenants for milk quota.](section/13.md)
+  - [s. 14 Compensation to outgoing tenants for milk quota: Scotland.](section/14.md)
+  - [s. 15 Rent arbitrations: milk quotas.](section/15.md)
+  - [s. 16 Rent arbitrations: milk quotas, Scotland.](section/16.md)
+- Conservation
+  - [s. 17 Duty to balance interests in exercise of agricultural functions.](section/17.md)
+  - [s. 18 Designation and management of environmentally sensitive areas.](section/18.md)
+  - [s. 19 Supplementary provisions regarding agreements under s.18(3) in Scotland.](section/19.md)
+  - [s. 20 EEC farm grants relating to areas of special scientific interest or National Parks etc.](section/20.md)
+  - [s. 21](section/21.md)
+- Farm grants
+  - [s. 22 Farm capital grants: ancillary businesses etc.](section/22.md)
+- Supplemental
+  - [s. 23 Financial provisions.](section/23.md)
+  - [s. 23A](section/23A.md)
+  - [s. 24 Short title, commencement, consequential amendments, repeals and extent.](section/24.md)
+- SCHEDULE 1 Tenants’ Compensation for Milk Quota
+  - Part I Right to Compensation
+    - Tenants’ rights to compensation
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Succession on death or retirement of tenant
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Assignments
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Sub-tenancies
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part II Amount of Compensation Payable
+    - Calculation of payment
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - “Standard quota”
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - “Tenant’s fraction”
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - “Relevant period”
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Valuation of milk quota
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part III Supplemental Provisions
+    - Determination of standard quota and tenant’s fraction before end of tenancy
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Settlement of tenant’s claim on termination of tenancy
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Enforcement
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Termination of tenancy of part of tenanted land
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Severing of reversionary estate
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Powers of limited owners
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Notices
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Crown land
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Interpretation
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Tenants’ Compensation for Milk Quota: Scotland
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Tenant’s right to compensation
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Succession to lease of tenancy
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Sub-tenants
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Calculation of payment
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Standard quota
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Tenant’s fraction
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Relevant period
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Valuation of milk quota
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Determination of standard quota and tenant’s fraction before end of lease
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Settlement of tenant’s claim on termination of lease
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Enforcement
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Powers of limited owners
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Notices
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Crown land
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+- SCHEDULE 3 Consequential Amendments
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Repeals
