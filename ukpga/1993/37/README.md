@@ -1,0 +1,261 @@
+# Agriculture Act 1993
+
+1993 c. 37. Enacted 1993-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1993/37/2025-06-16
+
+## Contents
+
+- Part I Milk Marketing
+  - Ending of milk marketing schemes
+    - [s. 1 Revocation of schemes.](section/1.md)
+  - Schemes of reorganisation
+    - [s. 2 Applications for approval.](section/2.md)
+    - [s. 3 Determination of applications.](section/3.md)
+    - [s. 4 Procedure where scheme not one which ought to be approved.](section/4.md)
+    - [s. 5 Variation of approved scheme.](section/5.md)
+    - [s. 6 Withdrawal of approval.](section/6.md)
+    - [s. 7 Information.](section/7.md)
+    - [s. 8 Publicity for determinations.](section/8.md)
+  - Carrying out of approved schemes
+    - [s. 9 Functions of the relevant board.](section/9.md)
+    - [s. 10 Functions of the appropriate authority.](section/10.md)
+    - [s. 11 Statutory transfer on vesting day.](section/11.md)
+    - [s. 12 Other provisions.](section/12.md)
+  - Position of milk marketing boards post-revocation
+    - [s. 13 General.](section/13.md)
+    - [s. 14 Position following reorganisation.](section/14.md)
+    - [s. 15 Position in the absence of reorganisation.](section/15.md)
+  - Miscellaneous
+    - [s. 16 Membership of milk marketing board.](section/16.md)
+    - [s. 17 Levies.](section/17.md)
+    - [s. 18 Power to carry out preparatory work.](section/18.md)
+    - [s. 19 Overriding nature of functions under Part I.](section/19.md)
+    - [s. 20 Functions under section 19 of the Agricultural Marketing Act 1958.](section/20.md)
+    - [s. 21 Restriction of Agricultural Marketing Act 1958.](section/21.md)
+  - Supplementary
+    - [s. 22 Service of documents.](section/22.md)
+    - [s. 23 Consequential amendments.](section/23.md)
+    - [s. 24 Interpretation of Part I.](section/24.md)
+- Part II Potato Marketing
+  - Introductory
+    - [s. 25 Activation of Part II.](section/25.md)
+  - Ending of Potato Marketing Scheme
+    - [s. 26 Revocation of Scheme.](section/26.md)
+  - Transfer scheme
+    - [s. 27 Application for approval.](section/27.md)
+    - [s. 28 Determination of application.](section/28.md)
+    - [s. 29 Procedure where scheme fails to meet criteria for approval.](section/29.md)
+    - [s. 30 Variation of approved scheme.](section/30.md)
+    - [s. 31 Information.](section/31.md)
+    - [s. 32 Publicity for determinations.](section/32.md)
+  - Carrying out of approved scheme
+    - [s. 33 Functions of the Board.](section/33.md)
+    - [s. 34 Functions of the Ministers.](section/34.md)
+    - [s. 35 Statutory transfer on vesting day.](section/35.md)
+    - [s. 36 Other provisions.](section/36.md)
+  - Position of Board post-revocation
+    - [s. 37 General.](section/37.md)
+    - [s. 38 Position following transfer under section 35.](section/38.md)
+    - [s. 39 Position in the absence of transfer under section 35.](section/39.md)
+  - Miscellaneous
+    - [s. 40 Power to poll registered producers.](section/40.md)
+    - [s. 41 Voting in poll under section 40.](section/41.md)
+    - [s. 42 Membership of the Board.](section/42.md)
+    - [s. 43 Overriding nature of functions under Part II.](section/43.md)
+    - [s. 44 Functions under section 19 of the Agricultural Marketing Act 1958.](section/44.md)
+    - [s. 45 Quota years.](section/45.md)
+    - [s. 46 Restriction of Agricultural Marketing Act 1958.](section/46.md)
+  - Supplementary
+    - [s. 47 Service of documents.](section/47.md)
+    - [s. 48 Consequential amendments.](section/48.md)
+    - [s. 49 Interpretation of Part II.](section/49.md)
+- Part III Grants for Marketing
+  - [s. 50 Grants.](section/50.md)
+  - [s. 51 False statements to obtain payments.](section/51.md)
+  - [s. 52 Time limit for prosecutions.](section/52.md)
+  - [s. 53 Expenses and receipts under Part III.](section/53.md)
+- Part IV Miscellaneous and Supplementary
+  - Termination of national price support arrangements
+    - [s. 54 Wool guarantee.](section/54.md)
+    - [s. 55 Potato guarantee in Great Britain.](section/55.md)
+  - Other miscellaneous provisions
+    - [s. 56 Commercial activities of milk marketing boards: distribution of profits.](section/56.md)
+    - [s. 57 British Wool Marketing Board: power to grant relief.](section/57.md)
+    - [s. 58 Annual report on matters relevant to price support.](section/58.md)
+    - [s. 59 Quota areas under the Potato Marketing Scheme.](section/59.md)
+    - [s. 60 Agricultural development councils: levies.](section/60.md)
+  - Supplementary
+    - [s. 61 Offences by bodies corporate.](section/61.md)
+    - [s. 62 Orders and regulations.](section/62.md)
+    - [s. 63 Northern Ireland.](section/63.md)
+    - [s. 64 Repeals etc.](section/64.md)
+    - [s. 65 Short title, commencement and extent.](section/65.md)
+- SCHEDULE 1 Qualifying scheme of reorganisation
+  - Introductory
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Form
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Vesting day
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Disposition of property, rights and liabilities
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Transfer of board’s undertaking
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Nature of new successor bodies
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Other disposals
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Rights of existing participants
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Disclosure of information
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Residual functions
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Provisions relating to carrying out of approved scheme of reorganisation
+  - Part I Taxation provisions
+    - Transfer to successor bodies: general
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Chargeable gains
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Roll-over relief
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Unallowed capital losses
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Apportionment of losses and capital allowances
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Distributions
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Disapplication of section 22 of the Taxation of Chargeable Gains Act 1992
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Depreciatory transactions
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Acquisition of assets by registered producers
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Trusts for registered producers
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Reserve funds
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Securities of successor bodies
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Levies under section 17
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Stamp duty
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Stamp duty reserve tax
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Interpretation
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Northern Ireland
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Part II Other provisions
+    - Disclosure of information
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Application of Trustee Investments Act 1961 to allocated shares
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Application of Transfer of Undertakings (Protection of Employment) Regulations 1981
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - Pension schemes
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Statutory accounts
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - Restraints on alienation etc.
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - Restrictions on change of location
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - Transfers relevant to flotation
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - Certificates of vesting
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - Land registration
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - Statutory transfers: transition
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - Provisions of scheme effective on statutory vesting
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+- SCHEDULE 3 Qualifying transfer scheme
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Form
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Vesting day
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Disposition of property, rights and liabilities
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Transfer of Board’s undertaking
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Nature of successor bodies
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Disclosure of information
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Residual functions
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Provisions relating to carrying out of approved transfer scheme
+  - Taxation provisions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Disclosure of information
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Application of Transfer of Undertakings (Protection of Employment) Regulations 1981
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Statutory accounts
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Restraints on alienation etc.
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Certificates of vesting
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Land registration
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Transfers under section 35: transition
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Provisions of scheme effective on statutory vesting
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Repeals and revocation
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
