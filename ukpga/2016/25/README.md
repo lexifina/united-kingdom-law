@@ -2,9 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-04-25, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-19, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2025-04-25
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2025-06-19
 
 ## Contents
 
@@ -284,6 +284,7 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2025-04-25
     - [s. 201 Exceptions to section 200(1) and (2)](section/201.md)
   - Restriction on use of class BPD warrants etc
     - [s. 202 Restriction on use of class BPD warrants](section/202.md)
+    - [s. 202A Further provision about sensitive processing](section/202A.md)
     - [s. 203 Meaning of “protected data”](section/203.md)
   - Issue of warrants
     - [s. 204 Class BPD warrants](section/204.md)
