@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-04-01, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-19, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-06-19
 
 ## Contents
 
@@ -23,6 +23,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
     - Lawfulness of processing
       - [s. 8 Lawfulness of processing: public interest etc](section/8.md)
       - [s. 9 Child’s consent in relation to information society services](section/9.md)
+    - Relevant international law
+      - [s. 9A Processing in reliance on relevant international law](section/9A.md)
     - Special categories of personal data
       - [s. 10 Special categories of personal data and criminal convictions etc data](section/10.md)
       - [s. 11 Special categories of personal data etc: supplementary](section/11.md)
@@ -75,6 +77,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
     - [s. 40 The sixth data protection principle](section/40.md)
     - [s. 41 Safeguards: archiving](section/41.md)
     - [s. 42 Safeguards: sensitive processing](section/42.md)
+    - [s. 42A Further provision about sensitive processing](section/42A.md)
   - CHAPTER 3 Rights of the data subject
     - Overview and scope
       - [s. 43 Overview and scope](section/43.md)
@@ -89,6 +92,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
     - Automated individual decision-making
       - [s. 49 Right not to be subject to automated decision-making](section/49.md)
       - [s. 50 Automated decision-making authorised by law: safeguards](section/50.md)
+      - [s. 50A Automated processing and significant decisions](section/50A.md)
+      - [s. 50B Restrictions on automated decision-making based on sensitive processing](section/50B.md)
+      - [s. 50C Safeguards for automated decision-making](section/50C.md)
+      - [s. 50D Further provision about automated decision-making](section/50D.md)
     - Supplementary
       - [s. 51 Exercise of rights through the Commissioner](section/51.md)
       - [s. 52 Form of provision of information etc](section/52.md)
@@ -124,6 +131,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
       - [s. 73 General principles for transfers of personal data](section/73.md)
       - [s. 74 Transfers on the basis of an adequacy decision](section/74.md)
       - [s. 74A Transfers based on adequacy regulations](section/74A.md)
+      - [s. 74AA Transfers approved by regulations](section/74AA.md)
+      - [s. 74AB The data protection test](section/74AB.md)
       - [s. 74B Transfers based on adequacy regulations: review etc](section/74B.md)
       - [s. 75 Transfers on the basis of appropriate safeguards](section/75.md)
       - [s. 76 Transfers on the basis of special circumstances](section/76.md)
@@ -152,6 +161,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
       - [s. 89 The fourth data protection principle](section/89.md)
       - [s. 90 The fifth data protection principle](section/90.md)
       - [s. 91 The sixth data protection principle](section/91.md)
+      - [s. 91A Further provision about sensitive processing](section/91A.md)
   - CHAPTER 3 Rights of the data subject
     - Overview
       - [s. 92 Overview](section/92.md)
@@ -201,7 +211,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
     - [s. 122 Direct marketing code](section/122.md)
     - [s. 123 Age-appropriate design code](section/123.md)
     - [s. 124 Data protection and journalism code](section/124.md)
-    - [s. 125 Approval of codes prepared under sections 121 to 124](section/125.md)
+    - [s. 124A Other codes of practice](section/124A.md)
+    - [s. 124B Panels to consider codes of practice](section/124B.md)
+    - [s. 124C Impact assessments for codes of practice](section/124C.md)
+    - [s. 125 Approval of codes prepared under sections 121 to 124A](section/125.md)
     - [s. 126 Publication and review of codes issued under section 125(4)](section/126.md)
     - [s. 127 Effect of codes issued under section 125(4)](section/127.md)
     - [s. 128 Other codes of practice](section/128.md)
@@ -257,6 +270,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
     - [s. 163 Determination of appeals](section/163.md)
     - [s. 164 Applications in respect of urgent notices](section/164.md)
   - Complaints
+    - [s. 164A Complaints by data subjects to controllers](section/164A.md)
+    - [s. 164B Controllers to notify the Commissioner of the number of complaints](section/164B.md)
     - [s. 165 Complaints by data subjects](section/165.md)
     - [s. 166 Orders to progress complaints](section/166.md)
   - Remedies in the court
@@ -820,6 +835,33 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-04-01
     - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
   - Scotland
     - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+- Schedule 12A The Information Commission
+  - [Sch. 12A para. 1 Status](schedule/12A/paragraph/1.md)
+  - [Sch. 12A para. 2 Number of members](schedule/12A/paragraph/2.md)
+  - [Sch. 12A para. 3 Membership: general](schedule/12A/paragraph/3.md)
+  - [Sch. 12A para. 4 Membership: non-executive members to outnumber executive members](schedule/12A/paragraph/4.md)
+  - [Sch. 12A para. 5 Membership: selection on merit etc](schedule/12A/paragraph/5.md)
+  - [Sch. 12A para. 6 Membership: conflicts of interests](schedule/12A/paragraph/6.md)
+  - [Sch. 12A para. 7 Tenure of the chair](schedule/12A/paragraph/7.md)
+  - [Sch. 12A para. 8 Tenure of deputy chair](schedule/12A/paragraph/8.md)
+  - [Sch. 12A para. 9 Tenure of the other non-executive members](schedule/12A/paragraph/9.md)
+  - [Sch. 12A para. 10 Remuneration and pensions of non-executive members](schedule/12A/paragraph/10.md)
+  - [Sch. 12A para. 11 Executive members: terms and conditions](schedule/12A/paragraph/11.md)
+  - [Sch. 12A para. 12 Other staff: appointment, terms and conditions](schedule/12A/paragraph/12.md)
+  - [Sch. 12A para. 13 Committees](schedule/12A/paragraph/13.md)
+  - [Sch. 12A para. 14 Delegation of functions](schedule/12A/paragraph/14.md)
+  - [Sch. 12A para. 15 Advice from committees](schedule/12A/paragraph/15.md)
+  - [Sch. 12A para. 16 Proceedings](schedule/12A/paragraph/16.md)
+  - [Sch. 12A para. 17 Records of proceedings](schedule/12A/paragraph/17.md)
+  - [Sch. 12A para. 18 Disqualification for acting in relation to certain matters](schedule/12A/paragraph/18.md)
+  - [Sch. 12A para. 19 Validity of proceedings](schedule/12A/paragraph/19.md)
+  - [Sch. 12A para. 20 Money](schedule/12A/paragraph/20.md)
+  - [Sch. 12A para. 21 Fees etc and other sums](schedule/12A/paragraph/21.md)
+  - [Sch. 12A para. 22 Accounts](schedule/12A/paragraph/22.md)
+  - [Sch. 12A para. 23 Authentication of seal and presumption of authenticity of documents](schedule/12A/paragraph/23.md)
+  - [Sch. 12A para. 24 Supplementary powers](schedule/12A/paragraph/24.md)
+  - [Sch. 12A para. 25 Transitional provision: interim chief executive](schedule/12A/paragraph/25.md)
+  - [Sch. 12A para. 26 Interpretation](schedule/12A/paragraph/26.md)
 - SCHEDULE 13 Other general functions of the Commissioner
   - General tasks
     - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
