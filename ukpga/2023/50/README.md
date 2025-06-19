@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-19, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2025-04-06
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2025-06-19
 
 ## Contents
 
@@ -213,6 +213,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2025-04-06
     - [s. 152 Advisory committee on disinformation and misinformation](section/152.md)
     - [s. 153 Functions of the Content Board](section/153.md)
     - [s. 154 Research about users’ experiences of regulated services](section/154.md)
+    - [s. 154A Information for research about online safety matters](section/154A.md)
     - [s. 155 Consumer consultation](section/155.md)
     - [s. 156 OFCOM’s statement about freedom of expression and privacy](section/156.md)
     - [s. 157 OFCOM’s reports about use of age assurance](section/157.md)
