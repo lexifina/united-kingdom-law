@@ -2,9 +2,9 @@
 
 2016 c. 25. Enacted 2016-11-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-06-19, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-20, one file per provision. Earlier versions, from 2016-11-29, are in the history before it: `git log -- ukpga/2016/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2016/25/2025-06-19
+Source: https://www.legislation.gov.uk/ukpga/2016/25/2025-06-20
 
 ## Contents
 
@@ -406,6 +406,8 @@ Source: https://www.legislation.gov.uk/ukpga/2016/25/2025-06-19
       - [s. 256A Renewal of notices](section/256A.md)
       - [s. 257 Review of notices by the Secretary of State](section/257.md)
       - [s. 258 Approval of notices following review under section 257](section/258.md)
+      - [s. 258A Notification of proposed changes to telecommunications services etc](section/258A.md)
+      - [s. 258B Variation and revocation of notices given under section 258A](section/258B.md)
     - Wireless telegraphy
       - [s. 259 Amendments of the Wireless Telegraphy Act 2006](section/259.md)
   - CHAPTER 2 General
