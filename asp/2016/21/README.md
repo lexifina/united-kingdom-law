@@ -1,0 +1,562 @@
+# Bankruptcy (Scotland) Act 2016
+
+asp/2016/21. Enacted 2016-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2016/21
+
+Source: https://www.legislation.gov.uk/asp/2016/21/2025-06-25
+
+## Contents
+
+- PART 1 Application or petition for sequestration
+  - Applications and petitions
+    - [s. 1 Sequestration](section/1.md)
+    - [s. 2 Sequestration of estate of living debtor](section/2.md)
+    - [s. 3 Debt advice and information package](section/3.md)
+    - [s. 4 Money advice](section/4.md)
+    - [s. 5 Sequestration of estate of deceased debtor](section/5.md)
+    - [s. 6 Sequestration of other estates](section/6.md)
+    - [s. 7 Qualified creditor and qualified creditors](section/7.md)
+    - [s. 8 Debtor applications: general](section/8.md)
+    - [s. 9 Certificate for sequestration](section/9.md)
+    - [s. 10 Death or withdrawal](section/10.md)
+    - [s. 11 Debtor application: provision of information](section/11.md)
+    - [s. 12 Petition for sequestration of estate: provision of information](section/12.md)
+    - [s. 13 Further provisions relating to presentation of petitions](section/13.md)
+    - [s. 14 Further provisions relating to debtor applications](section/14.md)
+    - [s. 14A Main proceedings in Scotland: undertaking by trustee in respect of assets in another EU member State](section/14A.md)
+    - [s. 14B Main proceedings in another member State: approval of undertaking offered by member State insolvency practitioner to local creditors in the UK](section/14B.md)
+  - Jurisdiction
+    - [s. 15 Jurisdiction](section/15.md)
+  - Meaning of “apparent insolvency”
+    - [s. 16 Meaning of “apparent insolvency”](section/16.md)
+  - Concurrent proceedings
+    - [s. 17 Concurrent proceedings for sequestration or analogous remedy](section/17.md)
+    - [s. 18 Powers in relation to concurrent proceedings](section/18.md)
+  - Creditor’s oath
+    - [s. 19 Creditor’s oath](section/19.md)
+- PART 2 Sequestration: award and recall
+  - Incomplete or inappropriate debtor applications
+    - [s. 20 Debtor application: incomplete application](section/20.md)
+    - [s. 21 Refusal of debtor application: inappropriate application](section/21.md)
+  - Award of sequestration
+    - [s. 22 When sequestration is awarded](section/22.md)
+    - [s. 23 Circumstances in which sequestration is not to be awarded in pursuance of section 22(5)](section/23.md)
+    - [s. 23A Effect of sequestration on land attachment](section/23A.md)
+    - [s. 24 Effect of sequestration on diligence generally](section/24.md)
+    - [s. 25 Effect of sequestration on diligence: estate of deceased debtor](section/25.md)
+    - [s. 26 Registration of warrant or determination of debtor application](section/26.md)
+    - [s. 27 Further matters in relation to award of sequestration](section/27.md)
+    - [s. 28 Benefit from another estate](section/28.md)
+  - Recall of sequestration
+    - [s. 29 Petitions for recall of sequestration](section/29.md)
+    - [s. 30 Recall of sequestration by sheriff](section/30.md)
+    - [s. 31 Application to Accountant in Bankruptcy for recall of sequestration](section/31.md)
+    - [s. 32 Application under section 31: further procedure where Accountant in Bankruptcy is not trustee](section/32.md)
+    - [s. 33 Determination where amount of outlays and remuneration not agreed](section/33.md)
+    - [s. 34 Recall of sequestration where Accountant in Bankruptcy is not trustee](section/34.md)
+    - [s. 35 Recall of sequestration where Accountant in Bankruptcy is trustee](section/35.md)
+    - [s. 36 Application for recall: remit to sheriff](section/36.md)
+    - [s. 37 Recall of sequestration by Accountant in Bankruptcy: review and appeal](section/37.md)
+    - [s. 37A Interest](section/37A.md)
+    - [s. 38 Effect of recall of sequestration](section/38.md)
+- PART 3 Initial stages of sequestration, statutory meeting and trustee vote
+  - Initial stages
+    - [s. 39 Interim preservation of estate](section/39.md)
+    - [s. 40 Offences in relation to interim preservation of estate](section/40.md)
+    - [s. 41 Statement of assets and liabilities etc.](section/41.md)
+    - [s. 42 Duties on receipt of list of assets and liabilities](section/42.md)
+  - Statutory meeting
+    - [s. 43 Statutory meeting](section/43.md)
+    - [s. 44 Calling of statutory meeting](section/44.md)
+    - [s. 45 Procedure where no statutory meeting called](section/45.md)
+    - [s. 46 Submission of claims for voting purposes](section/46.md)
+    - [s. 47 Offences in relation to submission of claims for voting purposes](section/47.md)
+    - [s. 48 Proceedings before trustee vote](section/48.md)
+  - Trustee vote
+    - [s. 49 Trustee vote](section/49.md)
+- PART 4 Trustees and commissioners
+  - Trustees
+    - [s. 50 Functions of trustee](section/50.md)
+    - [s. 51 Appointment of trustee](section/51.md)
+    - [s. 52 Application to Accountant in Bankruptcy by trustee for a direction](section/52.md)
+  - Interim trustees
+    - [s. 53 Functions of interim trustee](section/53.md)
+    - [s. 54 Appointment of interim trustee](section/54.md)
+    - [s. 55 Removal, resignation etc. of interim trustee](section/55.md)
+    - [s. 56 Termination of interim trustee’s functions where not appointed trustee](section/56.md)
+    - [s. 57 Appeal or review by virtue of section 56](section/57.md)
+    - [s. 58 Termination of Accountant in Bankruptcy’s functions as interim trustee where not appointed trustee](section/58.md)
+    - [s. 59 Review or appeal by virtue of section 58](section/59.md)
+  - Replacement trustees
+    - [s. 60 Appointment of replacement trustee](section/60.md)
+    - [s. 61 Procedure in application to Accountant in Bankruptcy under section 60](section/61.md)
+    - [s. 62 Procedure in application under section 60, or appeal under section 61, to sheriff](section/62.md)
+    - [s. 63 Termination of original trustee’s functions](section/63.md)
+    - [s. 64 Accountant in Bankruptcy’s intromissions in capacity of original trustee](section/64.md)
+    - [s. 65 Discharge of original trustee](section/65.md)
+    - [s. 66 Replacement of trustee acting in more than one sequestration](section/66.md)
+    - [s. 67 Further provision as regards replacement under section 66](section/67.md)
+    - [s. 68 Review of determination or appointment under section 66](section/68.md)
+  - Resignation or death of trustee
+    - [s. 69 Resignation or death of trustee](section/69.md)
+  - Removal of trustee and appointment of new trustee
+    - [s. 70 Removal of trustee other than where trustee is unable to act or should no longer continue to act: general](section/70.md)
+    - [s. 71 Removal of trustee other than where trustee is unable to act or should no longer continue to act: review, appeal and election of new trustee](section/71.md)
+    - [s. 72 Removal of trustee where trustee is unable to act or should no longer continue to act: general](section/72.md)
+    - [s. 73 Removal of trustee where trustee is unable to act or should no longer continue to act: review, appeal and election of new trustee](section/73.md)
+    - [s. 74 Election or appointment of new trustee by virtue of section 71(6) or 73(1)](section/74.md)
+    - [s. 75 Further provision as regards election or appointment of new trustee](section/75.md)
+  - Commissioners
+    - [s. 76 Commissioners](section/76.md)
+    - [s. 77 Election, resignation and removal of commissioners](section/77.md)
+- PART 5 Vesting etc.
+  - Vesting
+    - [s. 78 Vesting of estate at date of sequestration](section/78.md)
+    - [s. 79 Provision supplementary to section 78 and interpretation of Part 5](section/79.md)
+    - [s. 80 Property subject to restraint order](section/80.md)
+    - [s. 81 Property released from detention](section/81.md)
+    - [s. 82 Property in respect of which receivership or administration order is made](section/82.md)
+    - [s. 83 Property in respect of which realisation order is made](section/83.md)
+    - [s. 84 Property subject to certain orders where confiscation order discharged or quashed](section/84.md)
+    - [s. 85 Vesting of income received by debtor after sequestration](section/85.md)
+    - [s. 86 Further provision as regards vesting of estate](section/86.md)
+    - [s. 87 Dealings and circumstances of debtor after sequestration](section/87.md)
+  - Limitation on vesting
+    - [s. 88 Limitation on vesting](section/88.md)
+- PART 6 Debtor’s contribution
+  - Common financial tool
+    - [s. 89 Assessment of debtor’s contribution](section/89.md)
+  - Payments by debtor following sequestration
+    - [s. 90 Debtor contribution order: general](section/90.md)
+    - [s. 91 Debtor contribution order: payment period and intervals](section/91.md)
+    - [s. 92 Debtor contribution order: review and appeal](section/92.md)
+    - [s. 93 Effect of debtor contribution order](section/93.md)
+    - [s. 94 Deductions from debtor’s earnings and other income](section/94.md)
+    - [s. 95 Variation and removal of debtor contribution order by trustee](section/95.md)
+    - [s. 96 Payment break](section/96.md)
+    - [s. 97 Sections 95 and 96: review and appeal](section/97.md)
+- PART 7 Safeguarding interests of creditors
+  - Gratuitous alienations and unfair preferences
+    - [s. 98 Gratuitous alienations](section/98.md)
+    - [s. 99 Unfair preferences](section/99.md)
+  - Recall of certain orders
+    - [s. 100 Recall of order for payment of capital sum on divorce or on dissolution of civil partnership](section/100.md)
+  - Excessive contributions
+    - [s. 101 Recovery of excessive pension contributions](section/101.md)
+    - [s. 102 Orders under section 101](section/102.md)
+    - [s. 103 Orders under section 101: supplementary](section/103.md)
+    - [s. 104 Excessive contributions in pension-sharing cases: general](section/104.md)
+    - [s. 105 Excessive contributions in pension-sharing cases: recovery orders](section/105.md)
+    - [s. 106 Recovery orders: supplementary](section/106.md)
+    - [s. 107 References in Part 7 to “the 1889 Act” and to “the 1999 Act”](section/107.md)
+- PART 8 Administration of estate by trustee
+  - General
+    - [s. 108 Taking possession of estate by trustee](section/108.md)
+    - [s. 109 Management and realisation of estate](section/109.md)
+  - Contractual powers and money received
+    - [s. 110 Contractual powers of trustee](section/110.md)
+    - [s. 111 Money received by trustee](section/111.md)
+  - Debtor’s home
+    - [s. 112 Debtor’s family home](section/112.md)
+    - [s. 113 Power of trustee in relation to debtor’s family home](section/113.md)
+  - Rights of spouse or civil partner
+    - [s. 114 Protection of rights of spouse against arrangements intended to defeat them](section/114.md)
+    - [s. 115 Protection of rights of civil partner against arrangements intended to defeat them](section/115.md)
+  - Account of state of affairs
+    - [s. 116 Debtor’s account of state of affairs](section/116.md)
+  - Financial education for debtor
+    - [s. 117 Financial education for debtor](section/117.md)
+- PART 9 Examination of debtor
+  - Private and public examination
+    - [s. 118 Private examination](section/118.md)
+    - [s. 119 Public examination](section/119.md)
+    - [s. 120 Provisions ancillary to sections 118 and 119](section/120.md)
+  - Conduct of examination
+    - [s. 121 Conduct of examination](section/121.md)
+- PART 10 Claims, dividends and distribution etc.
+  - Submission and adjudication of claims
+    - [s. 122 Submission of claims to trustee](section/122.md)
+    - [s. 123 Evidence as to validity or amount of claim](section/123.md)
+    - [s. 124 False claims etc.](section/124.md)
+    - [s. 125 Further provision as to claims](section/125.md)
+    - [s. 126 Adjudication of claims: general](section/126.md)
+    - [s. 127 Adjudication of claims: review and appeal](section/127.md)
+  - Entitlement to vote and draw a dividend
+    - [s. 128 Voting and drawing a dividend](section/128.md)
+  - Distribution
+    - [s. 129 Priority in distribution](section/129.md)
+    - [s. 129A Section 129: interpretation](section/129A.md)
+    - [s. 130 Accounting periods](section/130.md)
+    - [s. 131 Distribution in accordance with accounting periods](section/131.md)
+  - Procedure after end of accounting period
+    - [s. 132 Submission of accounts and scheme of division](section/132.md)
+    - [s. 133 Audit of accounts and determination as to outlays and remuneration payable to trustee](section/133.md)
+    - [s. 134 Appeal against determination as to outlays and remuneration payable to trustee](section/134.md)
+    - [s. 135 Further provision as to procedure after end of accounting period](section/135.md)
+    - [s. 136 Procedure after end of accounting period where Accountant in Bankruptcy is trustee](section/136.md)
+- PART 11 Discharge
+  - Discharge of debtor
+    - [s. 137 Discharge of debtor where Accountant in Bankruptcy not trustee](section/137.md)
+    - [s. 138 Discharge of debtor where Accountant in Bankruptcy trustee](section/138.md)
+    - [s. 139 Discharge of debtor: review and appeal](section/139.md)
+    - [s. 140 Discharge of debtor to whom section 2(2) applies](section/140.md)
+    - [s. 141 Deferral of discharge where debtor cannot be traced](section/141.md)
+    - [s. 142 Debtor not traced: new trustee](section/142.md)
+    - [s. 143 Debtor not traced: subsequent debtor contact](section/143.md)
+    - [s. 144 Subsequent debtor contact: review and appeal](section/144.md)
+    - [s. 145 Effect of discharge under section 137, 138 or 140](section/145.md)
+    - [s. 146 Discharge under section 140: conditions](section/146.md)
+    - [s. 147 Section 146: sanctions](section/147.md)
+  - Failure of debtor to co-operate with trustee
+    - [s. 147A Debtor fails to co-operate: Accountant in Bankruptcy appointment as new trustee](section/147A.md)
+    - [s. 147B Accountant in Bankruptcy appointment as new trustee: review and appeal](section/147B.md)
+    - [s. 147C Debtor fails to co-operate with AiB as trustee](section/147C.md)
+  - Discharge of trustee
+    - [s. 148 Discharge of trustee](section/148.md)
+    - [s. 149 Further provision as regards discharge of trustee](section/149.md)
+    - [s. 150 Unclaimed dividends](section/150.md)
+    - [s. 151 Discharge of Accountant in Bankruptcy](section/151.md)
+- PART 12 Assets discovered after discharge of trustee
+  - [s. 152 Assets discovered after discharge of trustee: appointment of trustee](section/152.md)
+  - [s. 153 Assets discovered after discharge of trustee: notice](section/153.md)
+  - [s. 154 Assets discovered after discharge of trustee: appeal](section/154.md)
+- PART 13 Bankruptcy restrictions orders and interim bankruptcy restrictions orders
+  - Bankruptcy restrictions orders
+    - [s. 155 Bankruptcy restrictions order](section/155.md)
+    - [s. 156 Grounds for making bankruptcy restrictions order](section/156.md)
+    - [s. 157 Bankruptcy restrictions order: application of section 218(13)](section/157.md)
+    - [s. 158 Timing for making a bankruptcy restrictions order](section/158.md)
+    - [s. 159 Duration of bankruptcy restrictions order and application for revocation or variation](section/159.md)
+  - Interim bankruptcy restrictions orders
+    - [s. 160 Interim bankruptcy restrictions orders](section/160.md)
+  - Effect of recall of sequestration
+    - [s. 161 Bankruptcy restrictions orders and interim bankruptcy restrictions orders: effect of recall of sequestration](section/161.md)
+- PART 14 Voluntary trust deeds for creditors
+  - General
+    - [s. 162 Voluntary trust deeds for creditors](section/162.md)
+  - Protected trust deeds: protected status
+    - [s. 163 Protected status: general](section/163.md)
+  - Conditions for protected status
+    - [s. 164 Protected status: the debtor](section/164.md)
+    - [s. 165 Protected status: the trustee](section/165.md)
+    - [s. 166 Exclusion of a secured creditor from trust deed](section/166.md)
+    - [s. 167 Statements in and advice regarding trust deed](section/167.md)
+    - [s. 168 Payment of debtor’s contribution](section/168.md)
+    - [s. 169 Notice in register of insolvencies](section/169.md)
+    - [s. 170 Documents to be sent to creditors](section/170.md)
+  - Registration for protected status
+    - [s. 171 Registration for protected status](section/171.md)
+  - Removal of protected status where material error or irregularity
+    - [s. 171A Removal of protected status where material error or irregularity](section/171A.md)
+    - [s. 171B Decision under section 171A: application to review](section/171B.md)
+    - [s. 171C Effect of removal of protected status](section/171C.md)
+  - Effect of protected status etc.
+    - [s. 172 Effect of protected status: general](section/172.md)
+    - [s. 173 Effect of protected status on diligence against earnings](section/173.md)
+    - [s. 173A Effect of protected status on essential supplies](section/173A.md)
+    - [s. 174 Deductions by virtue of protected trust deed from debtor’s earnings](section/174.md)
+    - [s. 175 Agreement in respect of debtor’s heritable property](section/175.md)
+    - [s. 176 Dividend payments](section/176.md)
+    - [s. 177 Sequestration petition by qualified creditor](section/177.md)
+    - [s. 178 Creditor’s application as respects intromissions of trustee](section/178.md)
+  - Administration, accounting and discharge
+    - [s. 179 Directions to trustee under protected trust deed](section/179.md)
+    - [s. 180 Information and notification obligations of trustee under protected trust deed](section/180.md)
+    - [s. 181 Administration of trust under protected trust deed](section/181.md)
+    - [s. 182 Retention of documents by trustee under protected trust deed](section/182.md)
+    - [s. 183 Remuneration payable to trustee under protected trust deed](section/183.md)
+    - [s. 184 Protected trust deed: discharge of debtor](section/184.md)
+    - [s. 184A Protected trust deed: refusal of debtor discharge](section/184A.md)
+    - [s. 184B Protected trust deed: early discharge in extenuating circumstances](section/184B.md)
+    - [s. 184C Early discharge in extenuating circumstances: procedure where creditors object](section/184C.md)
+    - [s. 185 Student loans](section/185.md)
+    - [s. 186 Protected trust deed: discharge of trustee](section/186.md)
+    - [s. 186A Replacement of trustee in a protected trust deed](section/186A.md)
+    - [s. 186B Modification of this Part where Accountant in Bankruptcy becomes trustee in a protected trust deed](section/186B.md)
+    - [s. 187 Electronic delivery of notices etc. under this Part](section/187.md)
+  - Appeals and directions
+    - [s. 188 Protected trust deed: appeal](section/188.md)
+    - [s. 189 Protected trust deed: sheriff’s direction](section/189.md)
+  - Application for conversion to sequestration
+    - [s. 190 Application for conversion to sequestration](section/190.md)
+    - [s. 191 Contents of affidavit required under section 190(2)](section/191.md)
+    - [s. 192 Powers of Accountant in Bankruptcy on application for conversion to sequestration](section/192.md)
+  - Part 14: general
+    - [s. 193 Interpretation of Part 14](section/193.md)
+    - [s. 194 Regulations modifying Part 14](section/194.md)
+- PART 15 Moratorium on diligence
+  - [s. 195 Moratorium on diligence: notice of intention to make debtor application under section 2(1)(a)](section/195.md)
+  - [s. 196 Moratorium on diligence: notice of intention to make debtor application under section 6](section/196.md)
+  - [s. 197 Moratorium on diligence following notice under section 195(1) or 196(1)](section/197.md)
+  - [s. 198 Period of moratorium](section/198.md)
+- PART 16 Accountant in Bankruptcy
+  - Appointment
+    - [s. 199 Accountant in Bankruptcy](section/199.md)
+  - Functions
+    - [s. 200 Supervisory functions of Accountant in Bankruptcy](section/200.md)
+    - [s. 201 Performance of certain functions of Accountant in Bankruptcy](section/201.md)
+    - [s. 202 Further duty of Accountant in Bankruptcy](section/202.md)
+  - Directions to Accountant in Bankruptcy
+    - [s. 203 Directions to Accountant in Bankruptcy](section/203.md)
+  - Conduct of proceedings in the sheriff court
+    - [s. 204 Conduct of proceedings in the sheriff court](section/204.md)
+  - Fees for Accountant in Bankruptcy
+    - [s. 205 Fees for Accountant in Bankruptcy](section/205.md)
+- PART 17 Miscellaneous
+  - [s. 206 Liabilities and rights of co-obligants](section/206.md)
+  - [s. 207 Member State insolvency practitioner deemed creditor](section/207.md)
+  - [s. 208 Trustee’s duty to provide certain notices and copies of documents to member State insolvency practitioner](section/208.md)
+  - [s. 209 Extortionate credit transactions](section/209.md)
+  - [s. 210 Sederunt book and other documents](section/210.md)
+  - [s. 211 Power of court to cure defects in procedure](section/211.md)
+  - [s. 212 Power of Accountant in Bankruptcy to cure defects in procedure](section/212.md)
+  - [s. 213 Decision under section 212(1): review](section/213.md)
+  - [s. 214 Review of decision by Accountant in Bankruptcy: grounds of appeal](section/214.md)
+  - [s. 215 Debtor to co-operate with trustee](section/215.md)
+  - [s. 216 Arbitration and compromise](section/216.md)
+  - [s. 217 Meetings of creditors and commissioners](section/217.md)
+  - [s. 218 General offences by debtor etc.](section/218.md)
+  - [s. 219 General offences: supplementary and penalties](section/219.md)
+  - [s. 220 Summary proceedings](section/220.md)
+  - [s. 221 Outlays of insolvency practitioner in actings as interim trustee or trustee](section/221.md)
+  - [s. 222 Supplies by utilities](section/222.md)
+  - [s. 223 Disqualification provisions: power to make regulations](section/223.md)
+  - [s. 224 Regulations: applications to Accountant in Bankruptcy etc.](section/224.md)
+  - [s. 224A Service of documents](section/224A.md)
+- PART 18 General
+  - [s. 225 Regulations: general](section/225.md)
+  - [s. 226 Modification of regulation making powers](section/226.md)
+  - [s. 227 Variation of references to time, money etc.](section/227.md)
+  - [s. 228 Interpretation](section/228.md)
+  - [s. 229 Meaning of “associate”](section/229.md)
+  - [s. 230 “Associates”: regulations for the purposes of section 229](section/230.md)
+  - [s. 231 Proceedings under EU insolvency proceedings regulation: modified definition of “estate”](section/231.md)
+  - [s. 232 Crown application](section/232.md)
+  - [s. 233 Re-enactment](section/233.md)
+  - [s. 234 Modifications, repeals, savings, revocations and transitional provisions](section/234.md)
+  - [s. 235 Continuity of the law](section/235.md)
+  - [s. 236 Sequestrations to which this Act applies](section/236.md)
+  - [s. 237 Commencement](section/237.md)
+  - [s. 238 Short title](section/238.md)
+- SCHEDULE 1 DEBTOR TO WHOM SECTION 2(2) APPLIES: APPLICATION OF ACT
+  - Modification of certain provisions of Act
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Accountant in Bankruptcy’s duty to consider whether paragraph 1 should cease to have effect
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Procedure where Accountant in Bankruptcy considers paragraph 1 should cease to have effect
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Debtor’s right of appeal against decision under paragraph 3
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Decision that paragraph 1 ceases to have effect: modification of certain provisions of Act
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 DETERMINATION OF AMOUNT OF CREDITOR’S CLAIM
+  - Amount which may be claimed generally
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Claims for aliment and for periodical allowance on divorce or on dissolution of civil partnership
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Debts depending on contingency
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Secured debts
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Valuation of claims against partners for debts of the partnership
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 PREFERRED DEBTS
+  - PART 1 List of preferred debts
+    - Contributions to occupational pension schemes etc.
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Remuneration of employees etc.
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Levies on coal and steel production
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Debts owed to the Financial Services Compensation Scheme
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Deposits covered by Financial Services Compensation Scheme
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Other deposits
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Certain HMRC debts
+      - [Sch. 3 para. 8A](schedule/3/paragraph/8A.md)
+  - PART 2 Interpretation of Part 1
+    - Meaning of “the relevant date”
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Amounts payable by way of remuneration
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Meaning of “prescribed”
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Meaning of “scheme manager”
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Meaning of “eligible deposit”
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Transitional provisions
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 VOLUNTARY TRUST DEEDS FOR CREDITORS
+  - Remuneration of trustee
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Accountant in Bankruptcy’s power to carry out audit
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Registration of notice of inhibition
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Lodging of claim to bar effect of limitation of actions
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Valuation of claims
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 INFORMATION TO BE INCLUDED IN THE SEDERUNT BOOK
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 3A](schedule/5/paragraph/3A.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+  - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+  - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+  - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+  - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+  - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+  - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+  - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+  - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+  - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+  - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+  - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+  - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+  - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+- SCHEDULE 6 MEETINGS OF CREDITORS AND COMMISSIONERS
+  - PART 1 Meetings of creditors other than the statutory meeting
+    - Calling of meeting
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Role of trustee at meeting
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Appeals
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - PART 2 All meetings of creditors
+    - Validity of proceedings
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Holding of meeting
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 13A](schedule/6/paragraph/13A.md)
+    - Mandatories
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Quorum
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Voting at meeting
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Objections by creditors
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Adjournment of meeting
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Minutes of meeting
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - PART 3 Meetings of commissioners
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+- SCHEDULE 7 RE-ENACTMENT OF SECTIONS 10 AND 189 OF THE BANKRUPTCY (SCOTLAND) ACT 1913
+  - Arrestments and attachments
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Exemptions from stamp or other duties for conveyances, deeds etc. relating to sequestrated estates
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+- SCHEDULE 8 MODIFICATION OF ENACTMENTS
+  - Judicial Factors (Scotland) Act 1889
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Sheriff Courts (Scotland) Act 1907
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Conveyancing (Scotland) Act 1924
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Administration of Justice Act 1956
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Conveyancing and Feudal Reform (Scotland) Act 1970
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Prescription and Limitation (Scotland) Act 1973
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Local Government (Scotland) Act 1973
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Education (Scotland) Act 1980
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Family Law (Scotland) Act 1985
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Legal Aid (Scotland) Act 1986
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Debtors (Scotland) Act 1987
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Agricultural Holdings (Scotland) Act 1991
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Crofters (Scotland) Act 1993
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Proceeds of Crime (Scotland) Act 1995
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Education (Scotland) Act 1996
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Adults with Incapacity (Scotland) Act 2000
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - International Criminal Court (Scotland) Act 2001
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Debt Arrangement and Attachment (Scotland) Act 2002
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Agricultural Holdings (Scotland) Act 2003
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Fire (Scotland) Act 2005
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Further and Higher Education (Scotland) Act 2005
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Charities and Trustee Investment (Scotland) Act 2005
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Licensing (Scotland) Act 2005
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Bankruptcy and Diligence etc. (Scotland) Act 2007
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - Criminal Proceedings etc. (Reform) (Scotland) Act 2007
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Legal Services (Scotland) Act 2010
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Housing (Scotland) Act 2010
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - Food (Scotland) Act 2015
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+- SCHEDULE 9 REPEALS AND REVOCATIONS
+  - PART 1 Repeals
+  - PART 2 Revocations
