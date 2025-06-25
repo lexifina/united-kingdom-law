@@ -1,0 +1,234 @@
+# Police, Public Order and Criminal Justice (Scotland) Act 2006
+
+asp/2006/10. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-06-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 33 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2006/10
+
+Source: https://www.legislation.gov.uk/asp/2006/10/2025-06-25
+
+## Contents
+
+- Part 1 Police
+  - Chapter 1 The Scottish Police Services Authority
+    - The Scottish Police Services Authority
+      - [s. 1 Establishment of the Scottish Police Services Authority](section/1.md)
+      - [s. 2 Duty to establish and maintain the Agency](section/2.md)
+      - [s. 3 Duty to provide the police support services](section/3.md)
+      - [s. 4 Strategic priorities of the Authority](section/4.md)
+      - [s. 5 Objectives of the Authority](section/5.md)
+      - [s. 6 Annual plans of the Authority](section/6.md)
+      - [s. 7 Annual reports of the Authority](section/7.md)
+      - [s. 8 Provision of information to the Scottish Ministers](section/8.md)
+      - [s. 9 Liability for wrongful acts of certain persons seconded to the Authority](section/9.md)
+      - [s. 10 Grants](section/10.md)
+      - [s. 11 Charges by the Authority and other receipts](section/11.md)
+    - The Scottish Crime and Drug Enforcement Agency
+      - [s. 12 Members of the Agency](section/12.md)
+      - [s. 13 Strategic priorities of the Agency](section/13.md)
+      - [s. 14 Annual plans of the Agency](section/14.md)
+      - [s. 15 Annual reports of the Agency](section/15.md)
+      - [s. 16 General functions of Director General of the Agency](section/16.md)
+      - [s. 17 Powers of the Agency](section/17.md)
+      - [s. 18 Scottish Ministers’ power to modify section 17](section/18.md)
+      - [s. 19 Disclosure of information by the Agency](section/19.md)
+      - [s. 20 Disclosure of information to the Agency](section/20.md)
+      - [s. 21 Direction by Director General of the Agency](section/21.md)
+      - [s. 22 Liability for wrongful acts of police members of the Agency](section/22.md)
+      - [s. 23 Regulations relating to the Agency](section/23.md)
+    - The police support services
+      - [s. 24 The police support services: modification by order](section/24.md)
+      - [s. 25 Use of the police support services](section/25.md)
+    - Inspections
+      - [s. 26 Inspections of the Authority’s services and the Agency](section/26.md)
+      - [s. 27 Inspections of the Authority at request of the Scottish Ministers](section/27.md)
+      - [s. 28 Reports on inspections: powers of the Scottish Ministers](section/28.md)
+      - [s. 29 Revision of inadequate action plan](section/29.md)
+    - Miscellaneous and general
+      - [s. 30 Directions](section/30.md)
+      - [s. 31 Transfer of staff, property etc.](section/31.md)
+      - [s. 32 Interpretation of Chapter 1](section/32.md)
+  - Chapter 2 Complaints and misconduct
+    - The Police Investigations and Review Commissioner
+      - [s. 33 The Police Investigations and Review Commissioner](section/33.md)
+      - [s. 33A General functions of the Commissioner](section/33A.md)
+    - Supervision of complaints
+      - [s. 34 Meaning of “relevant complaint”](section/34.md)
+      - [s. 35 Examination of manner of handling of complaint](section/35.md)
+      - [s. 36 Duty of Commissioner not to proceed with certain complaint handling reviews](section/36.md)
+      - [s. 37 Appointment of person to reconsider complaint](section/37.md)
+      - [s. 38 Reconsideration of complaint: duties to keep persons informed](section/38.md)
+      - [s. 39 Power of Commissioner to discontinue reconsideration](section/39.md)
+      - [s. 40 Final reports on reconsideration](section/40.md)
+      - [s. 40A Arrangements for handling relevant complaints and investigation of whistleblowing complaints](section/40A.md)
+      - [s. 41 Appropriate authority in relation to a complaint](section/41.md)
+    - Investigations
+      - [s. 41A Investigations under supervision of Lord Advocate or procurator fiscal](section/41A.md)
+      - [s. 41B Serious incidents involving the police](section/41B.md)
+      - [s. 41C Investigation of matters in the public interest](section/41C.md)
+      - [s. 41D Investigations: procedure etc.](section/41D.md)
+      - [s. 41E Reports on investigations](section/41E.md)
+      - [s. 41F Investigations: obstruction and contempt](section/41F.md)
+    - Other functions
+      - [s. 42 General functions of the Commissioner](section/42.md)
+      - [s. 42A Complaints against the Commissioner](section/42A.md)
+      - [s. 43 Reports to the Scottish Ministers](section/43.md)
+      - [s. 44 Provision of information to the Commissioner](section/44.md)
+      - [s. 45 Power of Commissioner to issue guidance](section/45.md)
+      - [s. 46 Disclosure of information by and to the Commissioner](section/46.md)
+      - [s. 46A Protection from actions for defamation](section/46A.md)
+    - Advisory board
+      - [s. 46B Advisory board](section/46B.md)
+    - Supplementary
+      - [s. 47 Interpretation of Chapter 2](section/47.md)
+      - [s. 47A Complaint or investigation relating to Northern Ireland Troubles](section/47A.md)
+  - Chapter 3 Other provisions
+    - [s. 48 Allowances payable to special constables](section/48.md)
+    - [s. 49 Appointments of assistant inspectors of constabulary and staff officers](section/49.md)
+    - [s. 50 Constables engaged on service outside their force](section/50.md)
+- Part 2 Public order etc.
+  - Chapter 1 Football banning orders
+    - Making and content of orders
+      - [s. 51 Making of order on conviction of a football-related offence](section/51.md)
+      - [s. 52 Making of order on application to the sheriff](section/52.md)
+      - [s. 53 Content of order](section/53.md)
+      - [s. 54 Section 53: supplementary](section/54.md)
+      - [s. 55 “Football matches” and “regulated football matches”](section/55.md)
+      - [s. 56 “Violence” and “disorder”](section/56.md)
+    - Variation, termination, information and appeals
+      - [s. 57 Variation of certain requirements of order](section/57.md)
+      - [s. 58 Termination of order](section/58.md)
+      - [s. 59 Information about making, varying or terminating order etc.](section/59.md)
+      - [s. 60 Appeals](section/60.md)
+    - Enforcement of order in relation to foreign matches
+      - [s. 61 Foreign matches: reporting and other requirements](section/61.md)
+      - [s. 62 Notices under section 61(4): further provision](section/62.md)
+      - [s. 63 Sections 61 and 62: guidance](section/63.md)
+      - [s. 64 Exemption from notice served under section 61(4)](section/64.md)
+      - [s. 65 Section 64: supplementary](section/65.md)
+      - [s. 66 Suspension of reporting requirements](section/66.md)
+    - Miscellaneous and general
+      - [s. 67 Service of documents](section/67.md)
+      - [s. 68 Offences under this Chapter](section/68.md)
+      - [s. 69 Interpretation of Chapter 1](section/69.md)
+  - Chapter 2 Public processions
+    - [s. 70 Notification of public processions](section/70.md)
+    - [s. 71 Powers and duties of local authorities](section/71.md)
+    - [s. 72 Minor amendments of 1982 Act](section/72.md)
+  - Chapter 3 Other provisions
+    - Offensive weapons
+      - [s. 73 Increase in maximum term of imprisonment for certain offences](section/73.md)
+      - [s. 74 Amendment of requirements for exercise of certain powers of arrest](section/74.md)
+      - [s. 75 Sale of knives and articles with blade or point to young persons](section/75.md)
+    - Fireworks
+      - [s. 76 Possession of prohibited fireworks: powers of search and arrest](section/76.md)
+    - Control of sex offenders
+      - [s. 77 Powers to take data and samples from persons subject to notification requirements](section/77.md)
+      - [s. 78 Sex offender notification requirements](section/78.md)
+      - [s. 79 Information about release: power to require giving of specified information](section/79.md)
+      - [s. 80 Police powers of entry to and examination of relevant offender’s home address](section/80.md)
+- Part 3 Criminal justice
+  - Powers in relation to suspects and witnesses
+    - [s. 81 Power to require giving of certain information in addition to name and address](section/81.md)
+    - [s. 82 Power to take fingerprints to establish identity of suspect](section/82.md)
+  - Retention of samples etc.: prosecutions for sexual and violent offences
+    - [s. 83 Retention of samples etc.: prosecutions for sexual and violent offences](section/83.md)
+  - Arrested persons: drug testing and reference for assessment
+    - [s. 84 Testing of arrested persons for Class A drugs](section/84.md)
+    - [s. 85 Assessment following positive test under section 20A of the 1995 Act](section/85.md)
+    - [s. 86 Requirements under section 85: supplementary](section/86.md)
+    - [s. 87 Date, time and place of assessment](section/87.md)
+    - [s. 88 Failure to comply with requirements under sections 85 and 86](section/88.md)
+    - [s. 89 Guidance for the purposes of sections 85 to 88](section/89.md)
+    - [s. 90 Interpretation of sections 85 to 88](section/90.md)
+  - Offenders assisting investigations and prosecutions
+    - [s. 91 Assistance by offender: reduction in sentence](section/91.md)
+    - [s. 92 Assistance by offender: review of sentence](section/92.md)
+    - [s. 93 Proceedings under section 92: exclusion of public](section/93.md)
+    - [s. 94 Section 92: further provision](section/94.md)
+    - [s. 95 Sentencing: consideration of undisclosed information](section/95.md)
+    - [s. 96 Appeals etc. in the High Court: undisclosed information](section/96.md)
+    - [s. 96A Appeals etc. in the Sheriff Appeal Court: undisclosed information](section/96A.md)
+  - Conditional immunity from prosecution
+    - [s. 97 Investigation and prosecution of crime: conditional immunity from prosecution](section/97.md)
+  - Enforcement of Sea Fisheries (Shellfish) Act 1967
+    - [s. 98 Enforcement of Sea Fisheries (Shellfish) Act 1967](section/98.md)
+- Part 4 General
+  - [s. 99 Meanings of “the 1967 Act”, “the 1995 Act” and “the 2003 Act”](section/99.md)
+  - [s. 100 Equal opportunities](section/100.md)
+  - [s. 101 Modifications of enactments](section/101.md)
+  - [s. 102 Ancillary provision](section/102.md)
+  - [s. 103 Subordinate legislation](section/103.md)
+  - [s. 104 Commencement](section/104.md)
+  - [s. 105 Short title](section/105.md)
+- SCHEDULE 1 The Scottish Police Services Authority
+  - ...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+- SCHEDULE 2 Membership of the Scottish Crime and Drug Enforcement Agency
+  - ...
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+- SCHEDULE 3 Transfers of staff and property
+  - ...
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+- SCHEDULE 4 The Police Investigations and Review Commissioner
+  - Status
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Limitations on appointment
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Tenure and removal from office
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Remuneration
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Pensions etc.
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Vacancy in office of Commissioner
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Staff
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Staff officers
+    - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+  - Staff involved in investigations
+    - [Sch. 4 para. 7B](schedule/4/paragraph/7B.md)
+  - General powers
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Financial provision
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Accounts
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Provision of information
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Section 53(2)(b): Relevant events etc.
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 Modifications of enactments
+  - Part 1 Acts
+    - The Police (Scotland) Act 1967 (c. 77)
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - The Criminal Justice Act 1988 (c. 33)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - The Criminal Procedure (Scotland) Act 1995 (c. 46)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - The Police Act 1996 (c. 16)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - The Police Act 1997 (c. 50)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - The Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - The Regulation of Investigatory Powers Act 2000 (c. 23)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - The Regulation of Investigatory Powers (Scotland) Act 2000 (asp 11)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - The Scottish Public Services Ombudsman Act 2002 (asp 11)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - The Freedom of Information (Scotland) Act 2002 (asp 13)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - The Serious Organised Crime and Police Act 2005 (c. 15)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Part 2 Subordinate legislation
+    - The Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) (Scotland) Order 2000 (S.S.I. 2000/343)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
