@@ -1,0 +1,331 @@
+# Electoral Administration Act 2006
+
+2006 c. 22. Enacted 2006-07-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-07-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2006/22/2025-07-04
+
+## Contents
+
+- Part 1 Co-ordinated on-line record of electors
+  - [s. 1 Co-ordinated On-line Record of ElectorsCORE schemes: establishment](section/1.md)
+  - [s. 2 Use of Co-ordinated On-line Record of ElectorsCORE information](section/2.md)
+  - [s. 3 Co-ordinated On-line Record of ElectorsCORE scheme grants](section/3.md)
+  - [s. 3A Establishment of corporation sole to be Co-ordinated On-line Record of ElectorsCORE keeper](section/3A.md)
+  - [s. 4 Electoral Commission](section/4.md)
+  - [s. 5 Co-ordinated On-line Record of ElectorsCORE schemes: supplemental](section/5.md)
+  - [s. 6 Co-ordinated On-line Record of ElectorsCORE schemes: procedure](section/6.md)
+  - [s. 7 Amendment of the 1983 Act](section/7.md)
+  - [s. 8 Interpretation of Part](section/8.md)
+- Part 2 Registration of electors
+  - [s. 9 Registration officers: duty to take necessary steps](section/9.md)
+  - [s. 10 Anonymous registration](section/10.md)
+  - [s. 11 Alterations of registers: pending elections](section/11.md)
+  - [s. 12 Determinations by registration officers and objections](section/12.md)
+  - [s. 13 Registration of voters with service qualification](section/13.md)
+- Part 3 Anti-fraud measures
+  - [s. 14 Absent voting: personal identifiers](section/14.md)
+  - [s. 15 Offences as to false registration information](section/15.md)
+- Part 4 Review of polling places
+  - [s. 16 Review of polling places](section/16.md)
+- Part 5 Standing for election
+  - [s. 17 Minimum age](section/17.md)
+  - [s. 18 Certain Commonwealth citizens](section/18.md)
+  - [s. 19 Nomination procedures](section/19.md)
+- Part 6 Conduct of elections etc.
+  - Election timetables
+    - [s. 20 Omission of references to Maundy Thursday](section/20.md)
+  - Nomination
+    - [s. 21 Use of candidates’ common names](section/21.md)
+    - [s. 22 Candidate not to stand in more than one constituency](section/22.md)
+    - [s. 23 Offences as to false statements in nomination papers](section/23.md)
+  - Death of candidate
+    - [s. 24 Death of candidate](section/24.md)
+  - Election expenses
+    - [s. 25 Amount of expenses which may be incurred by third party](section/25.md)
+    - [s. 26 Return as to election expenses](section/26.md)
+    - [s. 27 Meaning of election expenses for purposes of the 1983 Act](section/27.md)
+  - Observation of elections etc.
+    - [s. 28 Discretion to report on certain elections](section/28.md)
+    - [s. 29 Observation of proceedings and working practices](section/29.md)
+  - Ballot papers
+    - [s. 30 Ballot paper design](section/30.md)
+    - [s. 31 Replacement of counterfoils](section/31.md)
+    - [s. 32 Photographs on ballot papers: piloting](section/32.md)
+    - [s. 33 Evaluation of pilots under section 32](section/33.md)
+    - [s. 34 Revision of electoral provisions in the light of pilot schemes](section/34.md)
+  - Voting in person
+    - [s. 35 Certain voters entitled to vote in person](section/35.md)
+  - Certain electoral documents
+    - [s. 36 Translations etc. of certain documents](section/36.md)
+    - [s. 37 Documents relating to postal voting](section/37.md)
+  - Circumstances in which votes may be tendered
+    - [s. 38 Tendered votes](section/38.md)
+  - Offences related to voting
+    - [s. 39 Undue influence](section/39.md)
+    - [s. 40 Offences relating to applications for postal and proxy votes](section/40.md)
+  - Access to election documents
+    - [s. 41 Control of documents after parliamentary election](section/41.md)
+    - [s. 42 Access to other election documents](section/42.md)
+    - [s. 43 Access to other election documents: contravention of regulations](section/43.md)
+    - [s. 44 Access to other election documents: supplementary](section/44.md)
+    - [s. 45 Marked postal voters list](section/45.md)
+  - Correction of procedural errors
+    - [s. 46 Returning officers: correction of procedural errors](section/46.md)
+  - Miscellaneous amendments
+    - [s. 47 Miscellaneous amendments of the 1983 Act](section/47.md)
+- Part 7 Regulation of parties
+  - Registration of parties
+    - [s. 48 Registered names of parties](section/48.md)
+    - [s. 49 Political party descriptions](section/49.md)
+    - [s. 50 Confirmation of registered particulars](section/50.md)
+    - [s. 51 Removal from register of registered parties](section/51.md)
+    - [s. 52 Time for registration of parties fielding candidates](section/52.md)
+  - Accounting requirements
+    - [s. 53 Requirements as to statements of account](section/53.md)
+    - [s. 54 Time for delivery of unaudited accounts to Electoral Commission](section/54.md)
+  - Control of donations
+    - [s. 55 Policy development grants to be donations](section/55.md)
+    - [s. 56 Exemption from requirement to prepare quarterly donation reports](section/56.md)
+    - [s. 57 Repeal of section 68 of the 2000 Act](section/57.md)
+    - [s. 58 Register of donations to include details of nature of donation](section/58.md)
+    - [s. 59 Reporting donations to holders of certain elective offices](section/59.md)
+    - [s. 60 Northern Ireland: disapplication of Part 4 of the 2000 Act](section/60.md)
+  - Regulation of loans etc.
+    - [s. 61 Regulation of loans etc.](section/61.md)
+    - [s. 62 Regulation of loans: power to make provision for candidates, third parties, referendums and recall petitions](section/62.md)
+    - [s. 63 Regulation of loans etc: Northern Ireland](section/63.md)
+  - Campaign expenditure
+    - [s. 64 Campaign expenditure: standing for more than one party](section/64.md)
+    - [s. 65 Time limit for claims in respect of campaign expenditure](section/65.md)
+  - Referendum and election material
+    - [s. 66 Details to appear on referendum and election material](section/66.md)
+- Part 8 Miscellaneous
+  - Election services
+    - [s. 67 Performance of local authorities in relation to elections etc.](section/67.md)
+    - [s. 68 Funding of services and expenses of returning officers](section/68.md)
+  - Encouraging electoral participation
+    - [s. 69 Encouraging electoral participation](section/69.md)
+  - Criminal proceedings
+    - [s. 70 Time limit for prosecutions](section/70.md)
+    - [s. 71 Restriction on powers of arrest by persons other than constables](section/71.md)
+  - Pre-consolidation amendments
+    - [s. 72 Pre-consolidation amendments](section/72.md)
+  - Legal incapacity to vote
+    - [s. 73 Abolition of common law incapacity: mental state](section/73.md)
+- Part 9 General
+  - [s. 74 Miscellaneous amendments and repeals](section/74.md)
+  - [s. 74A Functions of the Minister for the Cabinet Office](section/74A.md)
+  - [s. 75 Financial provision](section/75.md)
+  - [s. 76 Interpretation](section/76.md)
+  - [s. 77 Commencement](section/77.md)
+  - [s. 78 Extent](section/78.md)
+  - [s. 79 Short title](section/79.md)
+- SCHEDULE 1 Amendments
+  - Part 1 Anonymous registration
+    - The Juries Act 1974 (c. 23)
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - The 1983 Act
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - The Representation of the People Act 1985 (c. 50)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - The Greater London Authority Act 1999 (c. 29)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - The Representation of the People Act 2000 (c. 2)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - The 2000 Act
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - Part 2 Alteration of registers: pending elections
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+  - Part 3 Standing for election
+    - European Parliament
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - Greater London Authority
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - Local authorities in England and Wales
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - National Assembly for Wales
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - Scottish Parliament
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - Local authorities in Scotland
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - Councillors in Northern Ireland
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+  - Part 4 Omission of references to Maundy Thursday
+    - The Electoral Law Act (Northern Ireland) 1962 (C. 14)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - The 1983 Act
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - The Representation of the People Act 1985 (c. 50)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - The 2000 Act
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+  - Part 5 Conduct of elections
+    - The Electoral Law Act (Northern Ireland) 1962
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - Attendance at election proceedings
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+    - Identifying marks and security markings on ballot papers etc.
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - Tendered votes in certain circumstances
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+    - Assistance for persons with disabilities
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - The 1983 Act
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - Official poll cards
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - Election expenses
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+    - Postal voting statement
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - Questions to be put to voters
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - Voting procedure
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - Assistance for persons with disabilities
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - Tendered ballot papers
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - Attendance at election proceedings
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - Identifying marks and security markings on ballot papers etc.
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+      - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+      - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+      - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+      - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+      - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+      - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+      - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+    - Cancellation of postal ballot papers
+      - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+    - Control of documents after parliamentary election: Northern Ireland
+      - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+    - Local government elections in Scotland
+      - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+  - Part 6 Control of loans etc. to individuals and members associations
+    - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+    - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+    - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+    - [Sch. 1 para. 100](schedule/1/paragraph/100.md)
+    - [Sch. 1 para. 101](schedule/1/paragraph/101.md)
+    - [Sch. 1 para. 102](schedule/1/paragraph/102.md)
+  - Part 7 Miscellaneous
+    - The Family Law Reform Act 1969 (c. 46)
+      - [Sch. 1 para. 103](schedule/1/paragraph/103.md)
+    - The 1983 Act
+      - [Sch. 1 para. 104](schedule/1/paragraph/104.md)
+      - [Sch. 1 para. 105](schedule/1/paragraph/105.md)
+      - [Sch. 1 para. 106](schedule/1/paragraph/106.md)
+      - [Sch. 1 para. 107](schedule/1/paragraph/107.md)
+      - [Sch. 1 para. 108](schedule/1/paragraph/108.md)
+      - [Sch. 1 para. 109](schedule/1/paragraph/109.md)
+      - [Sch. 1 para. 110](schedule/1/paragraph/110.md)
+      - [Sch. 1 para. 111](schedule/1/paragraph/111.md)
+      - [Sch. 1 para. 112](schedule/1/paragraph/112.md)
+      - [Sch. 1 para. 113](schedule/1/paragraph/113.md)
+      - [Sch. 1 para. 114](schedule/1/paragraph/114.md)
+      - [Sch. 1 para. 115](schedule/1/paragraph/115.md)
+      - [Sch. 1 para. 116](schedule/1/paragraph/116.md)
+      - [Sch. 1 para. 117](schedule/1/paragraph/117.md)
+      - [Sch. 1 para. 118](schedule/1/paragraph/118.md)
+      - [Sch. 1 para. 119](schedule/1/paragraph/119.md)
+      - [Sch. 1 para. 120](schedule/1/paragraph/120.md)
+      - [Sch. 1 para. 121](schedule/1/paragraph/121.md)
+      - [Sch. 1 para. 122](schedule/1/paragraph/122.md)
+      - [Sch. 1 para. 123](schedule/1/paragraph/123.md)
+      - [Sch. 1 para. 124](schedule/1/paragraph/124.md)
+      - [Sch. 1 para. 125](schedule/1/paragraph/125.md)
+      - [Sch. 1 para. 126](schedule/1/paragraph/126.md)
+      - [Sch. 1 para. 127](schedule/1/paragraph/127.md)
+      - [Sch. 1 para. 128](schedule/1/paragraph/128.md)
+      - [Sch. 1 para. 129](schedule/1/paragraph/129.md)
+      - [Sch. 1 para. 130](schedule/1/paragraph/130.md)
+      - [Sch. 1 para. 131](schedule/1/paragraph/131.md)
+      - [Sch. 1 para. 132](schedule/1/paragraph/132.md)
+      - [Sch. 1 para. 133](schedule/1/paragraph/133.md)
+    - The Representation of the People Act 1985 (c. 50)
+      - [Sch. 1 para. 134](schedule/1/paragraph/134.md)
+      - [Sch. 1 para. 135](schedule/1/paragraph/135.md)
+    - The Caldey Island Act 1990 (c. 44)
+      - [Sch. 1 para. 136](schedule/1/paragraph/136.md)
+    - The Representation of the People Act 2000 (c. 2)
+      - [Sch. 1 para. 137](schedule/1/paragraph/137.md)
+    - The 2000 Act
+      - [Sch. 1 para. 138](schedule/1/paragraph/138.md)
+      - [Sch. 1 para. 139](schedule/1/paragraph/139.md)
+      - [Sch. 1 para. 140](schedule/1/paragraph/140.md)
+      - [Sch. 1 para. 141](schedule/1/paragraph/141.md)
+      - [Sch. 1 para. 142](schedule/1/paragraph/142.md)
+      - [Sch. 1 para. 143](schedule/1/paragraph/143.md)
+      - [Sch. 1 para. 144](schedule/1/paragraph/144.md)
+      - [Sch. 1 para. 145](schedule/1/paragraph/145.md)
+      - [Sch. 1 para. 146](schedule/1/paragraph/146.md)
+      - [Sch. 1 para. 147](schedule/1/paragraph/147.md)
+      - [Sch. 1 para. 148](schedule/1/paragraph/148.md)
+      - [Sch. 1 para. 149](schedule/1/paragraph/149.md)
+      - [Sch. 1 para. 150](schedule/1/paragraph/150.md)
+      - [Sch. 1 para. 151](schedule/1/paragraph/151.md)
+      - [Sch. 1 para. 152](schedule/1/paragraph/152.md)
+      - [Sch. 1 para. 153](schedule/1/paragraph/153.md)
+      - [Sch. 1 para. 154](schedule/1/paragraph/154.md)
+      - [Sch. 1 para. 155](schedule/1/paragraph/155.md)
+    - European Parliament (Representation) Act 2003 (c. 7)
+      - [Sch. 1 para. 156](schedule/1/paragraph/156.md)
+- SCHEDULE 2 Repeals
