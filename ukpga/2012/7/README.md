@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-06-19, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-07-07, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2025-06-19
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2025-07-07
 
 ## Contents
 
@@ -332,7 +332,8 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2025-06-19
 - PART 9 Health and adult social care services: information
   - CHAPTER 1 Information standards
     - [s. 250 Powers to publish information standards](section/250.md)
-    - [s. 251 Information standards: supplementary](section/251.md)
+    - [s. 251 Information standards: procedure etc](section/251.md)
+    - [s. 251ZA Information standards: compliance](section/251ZA.md)
     - Compliance with standards
       - [s. 251ZB Notice requesting compliance by relevant IT providers](section/251ZB.md)
       - [s. 251ZC Public censure of relevant IT providers](section/251ZC.md)
