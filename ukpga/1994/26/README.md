@@ -1,0 +1,370 @@
+# Trade Marks Act 1994
+
+1994 c. 26. Enacted 1994-07-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-07-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/26
+
+Source: https://www.legislation.gov.uk/ukpga/1994/26/2025-07-10
+
+## Contents
+
+- Part I Registered trade marks
+  - Introductory
+    - [s. 1 Trade marks.](section/1.md)
+    - [s. 2 Registered trade marks.](section/2.md)
+  - Grounds for refusal of registration
+    - [s. 3 Absolute grounds for refusal of registration.](section/3.md)
+    - [s. 4 Specially protected emblems.](section/4.md)
+    - [s. 5 Relative grounds for refusal of registration.](section/5.md)
+    - [s. 5A Grounds for refusal relating to only some of the goods or services](section/5A.md)
+    - [s. 6 Meaning of “earlier trade mark”.](section/6.md)
+    - [s. 6A Raising of relative grounds in opposition proceedings in case of non-use](section/6A.md)
+    - [s. 7 Raising of relative grounds in case of honest concurrent use.](section/7.md)
+    - [s. 8 Power to require that relative grounds be raised in opposition proceedings.](section/8.md)
+  - Effects of registered trade mark
+    - [s. 9 Rights conferred by registered trade mark.](section/9.md)
+    - [s. 10 Infringement of registered trade mark.](section/10.md)
+    - [s. 10A Right to prevent goods entering the UK without being released for free circulation](section/10A.md)
+    - [s. 10B Prohibition on the use of a trade mark registered in the name of an agent or representative](section/10B.md)
+    - [s. 11 Limits on effect of registered trade mark.](section/11.md)
+    - [s. 11A Non-use as defence in infringement proceedings](section/11A.md)
+    - [s. 12 Exhaustion of rights conferred by registered trade mark.](section/12.md)
+    - [s. 13 Registration subject to disclaimer or limitation.](section/13.md)
+  - Infringement proceedings
+    - [s. 14 Action for infringement.](section/14.md)
+    - [s. 15 Order for erasure, &c. of offending sign.](section/15.md)
+    - [s. 16 Order for delivery up of infringing goods, material or articles.](section/16.md)
+    - [s. 17 Meaning of “infringing goods, material or articles”.](section/17.md)
+    - [s. 18 Period after which remedy of delivery up not available.](section/18.md)
+    - [s. 19 Order as to disposal of infringing goods, material or articles.](section/19.md)
+    - [s. 20 Jurisdiction of sheriff court or county court in Northern Ireland.](section/20.md)
+  - Unjustified threats
+    - [s. 21 Threats of infringement proceedings](section/21.md)
+    - [s. 21A Actionable threats](section/21A.md)
+    - [s. 21B Permitted communications](section/21B.md)
+    - [s. 21C Remedies and defences](section/21C.md)
+    - [s. 21D Professional advisers](section/21D.md)
+    - [s. 21E Supplementary: pending registration](section/21E.md)
+    - [s. 21F Supplementary: proceedings for delivery up etc.](section/21F.md)
+  - Registered trade mark as object of property
+    - [s. 22 Nature of registered trade mark.](section/22.md)
+    - [s. 23 Co-ownership of registered trade mark.](section/23.md)
+    - [s. 24 Assignment, &c. of registered trade mark.](section/24.md)
+    - [s. 25 Registration of transactions affecting registered trade mark.](section/25.md)
+    - [s. 26 Trusts and equities.](section/26.md)
+    - [s. 27 Application for registration of trade mark as an object of property.](section/27.md)
+  - Licensing
+    - [s. 28 Licensing of registered trade mark.](section/28.md)
+    - [s. 29 Exclusive licences.](section/29.md)
+    - [s. 30 General provisions as to rights of licensees in case of infringement.](section/30.md)
+    - [s. 31 Exclusive licensee having rights and remedies of assignee.](section/31.md)
+  - Application for registered trade mark
+    - [s. 32 Application for registration.](section/32.md)
+    - [s. 33 Date of filing.](section/33.md)
+    - [s. 34 Classification of trade marks.](section/34.md)
+  - Priority
+    - [s. 35 Claim to priority of Convention application.](section/35.md)
+    - [s. 36 Claim to priority from other relevant overseas application.](section/36.md)
+  - Registration procedure
+    - [s. 37 Examination of application.](section/37.md)
+    - [s. 38 Publication, opposition proceedings and observations.](section/38.md)
+    - [s. 39 Withdrawal, restriction or amendment of application.](section/39.md)
+    - [s. 40 Registration.](section/40.md)
+    - [s. 41 Registration: supplementary provisions.](section/41.md)
+  - Duration, renewal and alteration of registered trade mark
+    - [s. 42 Duration of registration.](section/42.md)
+    - [s. 43 Renewal of registration.](section/43.md)
+    - [s. 44 Alteration of registered trade mark.](section/44.md)
+  - Surrender, revocation and invalidity
+    - [s. 45 Surrender of registered trade mark.](section/45.md)
+    - [s. 46 Revocation of registration.](section/46.md)
+    - [s. 47 Grounds for invalidity of registration.](section/47.md)
+    - [s. 48 Effect of acquiescence.](section/48.md)
+  - Collective marks
+    - [s. 49 Collective marks.](section/49.md)
+  - Certification marks
+    - [s. 50 Certification marks.](section/50.md)
+- Part II European Union trade marks and international matters
+  - European Union trade marks
+    - [s. 51 Meaning of “European Union trade mark”](section/51.md)
+    - [s. 52 Power to make provision in connection with European Union Trade Mark Regulation.](section/52.md)
+    - [s. 52A Certain trade marks registered as European Union trade marks to be treated as registered trade marks](section/52A.md)
+  - The Madrid Protocol: international registration
+    - [s. 53 The Madrid Protocol.](section/53.md)
+    - [s. 54 Power to make provision giving effect to Madrid Protocol.](section/54.md)
+    - [s. 54A Certain international trade marks protected in the European Union to be treated as registered trade marks](section/54A.md)
+  - The Paris Convention: supplementary provisions
+    - [s. 55 The Paris Convention.](section/55.md)
+    - [s. 56 Protection of well-known trade marks: Article 6bis.](section/56.md)
+    - [s. 57 National emblems, &c. of Convention countries: Article 6ter.](section/57.md)
+    - [s. 58 Emblems, &c. of certain international organisations: Article 6ter.](section/58.md)
+    - [s. 59 Notification under Article 6ter of the Convention.](section/59.md)
+    - [s. 60 Acts of agent or representative: Article 6septies.](section/60.md)
+  - Miscellaneous
+    - [s. 61 ................................](section/61.md)
+  - Nice Classification
+    - [s. 60A Similarity of goods and services](section/60A.md)
+- Part III Administrative and other supplementary provisions
+  - The registrar
+    - [s. 62 The registrar.](section/62.md)
+  - The register
+    - [s. 63 The register.](section/63.md)
+    - [s. 64 Rectification or correction of the register.](section/64.md)
+    - [s. 65 Adaptation of entries to new classification.](section/65.md)
+  - Powers and duties of the registrar
+    - [s. 66 Power to require use of forms.](section/66.md)
+    - [s. 67 Information about applications and registered trade marks.](section/67.md)
+    - [s. 68 Costs and security for costs.](section/68.md)
+    - [s. 69 Evidence before registrar.](section/69.md)
+    - [s. 70 Exclusion of liability in respect of official acts.](section/70.md)
+    - [s. 71 Registrar’s annual report.](section/71.md)
+  - Legal proceedings and appeals
+    - [s. 72 Registration to be prima facie evidence of validity.](section/72.md)
+    - [s. 73 Certificate of validity of contested registration.](section/73.md)
+    - [s. 74 Registrar’s appearance in proceedings involving the register.](section/74.md)
+    - [s. 75 The court.](section/75.md)
+    - [s. 76 Appeals from the registrar.](section/76.md)
+    - [s. 77 Persons appointed to hear and determine appeals.](section/77.md)
+  - Rules, fees, hours of business, &c.
+    - [s. 78 Power of Secretary of State to make rules.](section/78.md)
+    - [s. 79 Fees.](section/79.md)
+    - [s. 80 Hours of business and business days.](section/80.md)
+    - [s. 81 The trade marks journal.](section/81.md)
+  - Trade mark agents
+    - [s. 82 Recognition of agents.](section/82.md)
+    - [s. 83 The register of trade mark attorneys](section/83.md)
+    - [s. 83A Regulation of trade mark attorneys](section/83A.md)
+    - [s. 84 Unregistered persons not to be described as registered trade mark agents.](section/84.md)
+    - [s. 85 Power to prescribe conditions, &c. for mixed partnerships and bodies corporate.](section/85.md)
+    - [s. 86 Use of the term “trade mark attorney”.](section/86.md)
+    - [s. 87 Privilege for communications with registered trade mark agents.](section/87.md)
+    - [s. 88 Power of registrar to refuse to deal with certain agents.](section/88.md)
+  - Importation of infringing goods, material or articles
+    - [s. 89 Infringing goods, material or articles may be treated as prohibited goods.](section/89.md)
+    - [s. 90 Power of Commissioners of Customs and Excise to make regulations.](section/90.md)
+    - [s. 91 Power of Commissioners for Revenue and Customs to disclose information.](section/91.md)
+  - Offences
+    - [s. 92 Unauthorised use of trade mark, &c. in relation to goods.](section/92.md)
+    - [s. 92A Search warrants](section/92A.md)
+    - [s. 93 Enforcement function of local weights and measures authority.](section/93.md)
+    - [s. 94 Falsification of register, &c.](section/94.md)
+    - [s. 95 Falsely representing trade mark as registered.](section/95.md)
+    - [s. 96 Supplementary provisions as to summary proceedings in Scotland.](section/96.md)
+  - Forfeiture of counterfeit goods, &c.
+    - [s. 97 Forfeiture: England and Wales or Northern Ireland.](section/97.md)
+    - [s. 98 Forfeiture: Scotland.](section/98.md)
+- Part IV Miscellaneous and general provisions
+  - Miscellaneous
+    - [s. 99 Unauthorised use of Royal arms, &c.](section/99.md)
+    - [s. 99A Reproduction of trade marks in dictionaries, encyclopaedias etc.](section/99A.md)
+    - [s. 100 Burden of proving use of trade mark.](section/100.md)
+    - [s. 101 Offences committed by partnerships and bodies corporate.](section/101.md)
+  - Interpretation
+    - [s. 102 Adaptation of expressions for Scotland.](section/102.md)
+    - [s. 103 Minor definitions.](section/103.md)
+    - [s. 104 Index of defined expressions.](section/104.md)
+  - Other general provisions
+    - [s. 105 Transitional provisions.](section/105.md)
+    - [s. 106 Consequential amendments and repeals.](section/106.md)
+    - [s. 107 Territorial waters and the continental shelf.](section/107.md)
+    - [s. 108 Extent.](section/108.md)
+    - [s. 109 Commencement.](section/109.md)
+    - [s. 110 Short title.](section/110.md)
+- SCHEDULE 1 Collective marks
+  - General
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Signs of which a collective mark may consist
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Indication of geographical origin
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Mark not to be misleading as to character or significance
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Regulations governing use of collective mark
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Approval of regulations by registrar
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Regulations to be open to inspection
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Amendment of regulations
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Infringement: rights of authorised users
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Grounds for revocation of registration
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Grounds for invalidity of registration
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Certification marks
+  - General
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Signs of which a certification mark may consist
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Indication of geographical origin
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Nature of proprietor’s business
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Mark not to be misleading as to character or significance
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Regulations governing use of certification mark
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Approval of regulations, &c.
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Regulations to be open to inspection
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Amendment of regulations
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Consent to assignment of registered certification mark
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Infringement: rights of authorised users
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Grounds for revocation of registration
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Grounds for invalidity of registration
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 2A EUROPEAN UNION TRADE MARKS
+  - PART 1 Existing European Union trade marks
+    - [Sch. 2A para. 1 A trade mark registered as an existing EUTM to be treated as registered under this Act](schedule/2A/paragraph/1.md)
+    - [Sch. 2A para. 2 Opt out](schedule/2A/paragraph/2.md)
+    - [Sch. 2A para. 3 Entries to be made in the register in relation to a comparable trade mark (EU)](schedule/2A/paragraph/3.md)
+    - [Sch. 2A para. 4 Comparable trade mark (EU) which derives from an EU Collective Mark or EU Certification Mark](schedule/2A/paragraph/4.md)
+    - [Sch. 2A para. 5 Renewal of a comparable trade mark (EU) which expires within six months after IP completion day](schedule/2A/paragraph/5.md)
+    - [Sch. 2A para. 6 Restoration of a comparable trade mark (EU)](schedule/2A/paragraph/6.md)
+    - [Sch. 2A para. 7 Raising of relative grounds in opposition proceedings in case of non-use](schedule/2A/paragraph/7.md)
+    - [Sch. 2A para. 8 Non-use as defence in infringement proceedings and revocation of registration of a comparable trade mark (EU)](schedule/2A/paragraph/8.md)
+    - [Sch. 2A para. 9 Grounds for invalidity of registration of a trade mark based upon an earlier comparable trade mark (EU)](schedule/2A/paragraph/9.md)
+    - [Sch. 2A para. 10 Reputation of a comparable trade mark (EU)](schedule/2A/paragraph/10.md)
+    - [Sch. 2A para. 11 Rights conferred by registered trade mark](schedule/2A/paragraph/11.md)
+    - [Sch. 2A para. 12 Effect of claim of priority](schedule/2A/paragraph/12.md)
+    - [Sch. 2A para. 13 Effect of seniority claim](schedule/2A/paragraph/13.md)
+    - [Sch. 2A para. 14 Determination of invalidity and liability to revocation in relation to claims of seniority](schedule/2A/paragraph/14.md)
+    - [Sch. 2A para. 15 Procedure for declaration that trade mark would have been liable to be revoked or declared invalid](schedule/2A/paragraph/15.md)
+    - [Sch. 2A para. 16 Assignment of an existing EUTM not registered on IP completion day](schedule/2A/paragraph/16.md)
+    - [Sch. 2A para. 17 Effect of a licence of an existing EUTM](schedule/2A/paragraph/17.md)
+    - [Sch. 2A para. 18 Effect of a security interest in an existing EUTM](schedule/2A/paragraph/18.md)
+    - [Sch. 2A para. 19 Continuity of rights in relation to a comparable trade mark (EU)](schedule/2A/paragraph/19.md)
+    - [Sch. 2A para. 20 Existing EUTM: pending proceedings](schedule/2A/paragraph/20.md)
+    - [Sch. 2A para. 21 Existing EUTM: effect of injunction](schedule/2A/paragraph/21.md)
+    - [Sch. 2A para. 21A Existing EUTM: effect of invalidity or revocation](schedule/2A/paragraph/21A.md)
+  - PART 2 Treatment of European Union trade marks which expire during the period of six months ending on IP completion day
+    - [Sch. 2A para. 22 Registration of certain expired European Union trade marks](schedule/2A/paragraph/22.md)
+    - [Sch. 2A para. 23 Renewal of an expired EUTM](schedule/2A/paragraph/23.md)
+  - PART 3 Applications for European Union trade marks which are pending on IP completion day
+    - [Sch. 2A para. 24 Application of Part](schedule/2A/paragraph/24.md)
+    - [Sch. 2A para. 25 Application for registration under this Act based upon an existing EUTM application](schedule/2A/paragraph/25.md)
+    - [Sch. 2A para. 26 Right to claim seniority where seniority has been claimed by an existing EUTM application](schedule/2A/paragraph/26.md)
+    - [Sch. 2A para. 27 Determination of invalidity and liability to revocation in relation to claim of seniority under paragraph 26](schedule/2A/paragraph/27.md)
+  - PART 4 Restoration of European Union trade mark registrations and applications
+    - [Sch. 2A para. 28 Restoration of a European Union trade mark to the EUTM Register](schedule/2A/paragraph/28.md)
+    - [Sch. 2A para. 29 Restoration of an application for a European Union trade mark](schedule/2A/paragraph/29.md)
+  - PART 5 Interpretation
+    - [Sch. 2A para. 30 Interpretation](schedule/2A/paragraph/30.md)
+- SCHEDULE 2B INTERNATIONAL TRADE MARKS PROTECTED IN THE EUROPEAN UNION
+  - PART 1 Existing international trade marks protected in the European Union
+    - [Sch. 2B para. 1 An international trade mark protected in the European Union to be treated as registered under this Act](schedule/2B/paragraph/1.md)
+    - [Sch. 2B para. 2 Opt out](schedule/2B/paragraph/2.md)
+    - [Sch. 2B para. 3 Entries to be made in the register in relation to a comparable trade mark (IR)](schedule/2B/paragraph/3.md)
+    - [Sch. 2B para. 4 Comparable trade mark (IR) which derives from a mark treated as an EU Collective Mark or EU Certification Mark](schedule/2B/paragraph/4.md)
+    - [Sch. 2B para. 5 Renewal of a comparable trade mark (IR) which expires within six months after IP completion day](schedule/2B/paragraph/5.md)
+    - [Sch. 2B para. 6 Restoration of a comparable trade mark (IR)](schedule/2B/paragraph/6.md)
+    - [Sch. 2B para. 7 Raising of relative grounds in opposition proceedings in case of non-use](schedule/2B/paragraph/7.md)
+    - [Sch. 2B para. 8 Non-use as defence in infringement proceedings and revocation of registration of a comparable trade mark (IR)](schedule/2B/paragraph/8.md)
+    - [Sch. 2B para. 9 Grounds for invalidity of registration of a trade mark based upon an earlier comparable trade mark (IR)](schedule/2B/paragraph/9.md)
+    - [Sch. 2B para. 10 Reputation of a comparable trade mark (IR)](schedule/2B/paragraph/10.md)
+    - [Sch. 2B para. 11 Rights conferred by registered trade mark](schedule/2B/paragraph/11.md)
+    - [Sch. 2B para. 12 Effect of disclaimer](schedule/2B/paragraph/12.md)
+    - [Sch. 2B para. 13 Effect of claim of priority](schedule/2B/paragraph/13.md)
+    - [Sch. 2B para. 14 Effect of seniority claim](schedule/2B/paragraph/14.md)
+    - [Sch. 2B para. 15 Determination of invalidity and liability to revocation in relation to claims of seniority](schedule/2B/paragraph/15.md)
+    - [Sch. 2B para. 16 Procedure for declaration that trade mark would have been liable to be revoked or declared invalid](schedule/2B/paragraph/16.md)
+    - [Sch. 2B para. 17 Assignment of an existing IR(EU) not registered on IP completion day](schedule/2B/paragraph/17.md)
+    - [Sch. 2B para. 18 Effect of a licence of an existing IR(EU)](schedule/2B/paragraph/18.md)
+    - [Sch. 2B para. 19 Effect of a security interest in an existing IR(EU)](schedule/2B/paragraph/19.md)
+    - [Sch. 2B para. 20 Continuity of rights in relation to a comparable trade mark (IR)](schedule/2B/paragraph/20.md)
+    - [Sch. 2B para. 21 Existing IR(EU): pending proceedings](schedule/2B/paragraph/21.md)
+    - [Sch. 2B para. 22 Existing IR(EU): effect of injunction](schedule/2B/paragraph/22.md)
+  - PART 2 Treatment of international trade marks protected in the European Union which expire during the period of six months ending on IP completion day
+    - [Sch. 2B para. 23 Registration of certain expired international trade marks](schedule/2B/paragraph/23.md)
+    - [Sch. 2B para. 24 Renewal of an expired IR(EU)](schedule/2B/paragraph/24.md)
+    - [Sch. 2B para. 25 Renewal of an expired IR(EU): territorial extension under Article 3ter(1)](schedule/2B/paragraph/25.md)
+    - [Sch. 2B para. 26 Renewal of an expired IR(EU): territorial extension under Article 3ter(2)](schedule/2B/paragraph/26.md)
+  - PART 3 Applications for the extension of protection of international registrations to the European Union which are pending on IP completion day
+    - [Sch. 2B para. 27 Interpretation](schedule/2B/paragraph/27.md)
+    - [Sch. 2B para. 28 Application for registration under this Act based upon an existing ITM application or an existing request for EU extension recorded in the International Register prior to IP completion day](schedule/2B/paragraph/28.md)
+    - [Sch. 2B para. 29 Application for registration under this Act based upon an existing ITM application or an existing request for EU extension recorded in the International Register on or after IP completion day](schedule/2B/paragraph/29.md)
+    - [Sch. 2B para. 30 Right to claim seniority where seniority has been claimed by an existing ITM application or an existing request for EU extension](schedule/2B/paragraph/30.md)
+    - [Sch. 2B para. 31 Determination of invalidity and liability to revocation in relation to claim of seniority under paragraph 30](schedule/2B/paragraph/31.md)
+  - PART 4 Transformation applications which are pending on IP completion day
+    - [Sch. 2B para. 32 Transformation applications](schedule/2B/paragraph/32.md)
+    - [Sch. 2B para. 33 Application for registration based upon a cancelled international registration](schedule/2B/paragraph/33.md)
+  - PART 5 Interpretation
+    - [Sch. 2B para. 34 Interpretation](schedule/2B/paragraph/34.md)
+- SCHEDULE 3 Transitional provisions
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Existing registered marks
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Effects of registration: infringement
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Infringing goods, material or articles
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Rights and remedies of licensee or authorised user
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Co-ownership of registered mark
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Assignment, &c. of registered mark
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Licensing of registered mark
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Pending applications for registration
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Conversion of pending application
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Trade marks registered according to old classification
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Claim to priority from overseas application
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Duration and renewal of registration
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Pending application for alteration of registered mark
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Revocation for non-use
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Application for rectification, &c.
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Regulations as to use of certification mark
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Sheffield marks
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Certificate of validity of contested registration
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Trade mark agents
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 4 Consequential amendments
+  - General adaptation of existing references
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Patents and Designs Act 1907 (c.29)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Patents, Designs, Copyright and Trade Marks (Emergency) Act 1939(c.107)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Trade Descriptions Act 1968 (c.29)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Solicitors Act 1974 (c.47)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Restrictive Trade Practices Act 1976 (c.34)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Copyright, Designs and Patents Act 1988 (c.48)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Repeals and revocations
