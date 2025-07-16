@@ -2,9 +2,9 @@
 
 2025 c. 15. Enacted 2025-05-15.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-05-15, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2025-07-16, one file per provision. Earlier versions, from 2025-05-15, are in the history before it: `git log -- ukpga/2025/15` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/15/2025-05-15
+Source: https://www.legislation.gov.uk/ukpga/2025/15/2025-07-16
 
 ## Contents
 
