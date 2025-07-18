@@ -1,0 +1,144 @@
+# Elections and Elected Bodies (Wales) Act 2024
+
+asc/2024/5. Enacted 2024-09-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-07-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2024/5
+
+Source: https://www.legislation.gov.uk/asc/2024/5/2025-07-18
+
+## Contents
+
+- PART 1 ELECTORAL ADMINISTRATION AND REGISTRATION
+  - CHAPTER 1 CO-ORDINATION OF ELECTORAL ADMINISTRATION
+    - [s. 1 Electoral Management Board of Democracy and Boundary Commission Cymru](section/1.md)
+    - [s. 2 Minor and consequential amendments](section/2.md)
+  - CHAPTER 2 ELECTORAL REGISTRATION WITHOUT APPLICATIONS
+    - [s. 3 Duty to register local government electors](section/3.md)
+    - [s. 4 Provision connected to the duty to register eligible local government electors](section/4.md)
+  - CHAPTER 3 WELSH ELECTIONS PILOTING AND REFORM
+    - Welsh election pilots
+      - [s. 5 Pilot regulations: powers](section/5.md)
+      - [s. 6 Pilot regulations: requirements](section/6.md)
+      - [s. 7 Pilot regulations: procedure](section/7.md)
+    - Proposals for pilots
+      - [s. 8 Proposals for pilots made by the Welsh Ministers](section/8.md)
+      - [s. 9 Proposals for pilots made by principal councils](section/9.md)
+      - [s. 10 Proposals for pilots made jointly by the Electoral Commission and principal councils](section/10.md)
+      - [s. 11 Proposals for pilots made by electoral registration officers](section/11.md)
+      - [s. 12 Joint proposals for pilots](section/12.md)
+      - [s. 13 Electoral Commission recommendations](section/13.md)
+    - Evaluation of pilot proposals
+      - [s. 14 Evaluation of pilot proposals](section/14.md)
+      - [s. 15 Welsh election pilot forums](section/15.md)
+    - Guidance on pilots
+      - [s. 16 Guidance on pilots](section/16.md)
+    - Evaluation of pilots
+      - [s. 17 Evaluation of pilot regulations](section/17.md)
+    - Reform following pilots
+      - [s. 18 Electoral reform regulations](section/18.md)
+      - [s. 19 Electoral reform regulations: procedure](section/19.md)
+    - General
+      - [s. 20 Publication](section/20.md)
+      - [s. 21 Regulations: ancillary provision](section/21.md)
+      - [s. 22 Interpretation of this Chapter](section/22.md)
+      - [s. 23 Consequential amendments](section/23.md)
+  - CHAPTER 4 ACCESSIBILITY AND DIVERSITY: WELSH ELECTIONS
+    - Reports on assistance for disabled voters
+      - [s. 24 Reports by the Electoral Commission](section/24.md)
+    - Candidate survey: local government elections
+      - [s. 25 Survey of councillors and unsuccessful candidates in local elections](section/25.md)
+    - Welsh elections information platform
+      - [s. 26 Welsh elections information platform](section/26.md)
+    - Diversity in persons seeking elected office
+      - [s. 27 Services to promote diversity in persons seeking elected office](section/27.md)
+      - [s. 28 Financial assistance schemes to promote diversity in persons seeking elected office](section/28.md)
+      - [s. 29 Excluded persons](section/29.md)
+      - [s. 30 Guidance for political parties to promote diversity in persons seeking elected office](section/30.md)
+    - General
+      - [s. 31 Interpretation of this Chapter](section/31.md)
+  - CHAPTER 5 CAMPAIGN FINANCE
+    - Expenditure in respect of local government elections
+      - [s. 32 Notional expenditure: candidates in local government elections](section/32.md)
+    - Expenditure in respect of Senedd Cymru elections
+      - [s. 33 Notional and third party expenditure: Senedd Cymru elections](section/33.md)
+      - [s. 34 Codes of practice on expenses](section/34.md)
+      - [s. 35 Authorised persons not required to pay through election agent](section/35.md)
+      - [s. 36 Restriction on which third parties may incur controlled expenditure](section/36.md)
+      - [s. 37 Third parties capable of giving notification](section/37.md)
+      - [s. 38 Code of practice on controls relating to third parties](section/38.md)
+    - General
+      - [s. 39 Minor and consequential amendments](section/39.md)
+- PART 2 ELECTED BODIES AND THEIR MEMBERS
+  - CHAPTER 1 ARRANGEMENTS FOR LOCAL GOVERNMENT
+    - Electoral arrangements reviews: principal councils
+      - [s. 40 Considerations for a review of principal area electoral arrangements](section/40.md)
+      - [s. 41 Review period for principal area reviews](section/41.md)
+    - Reviews of seaward boundaries
+      - [s. 42 Review of seaward boundaries](section/42.md)
+    - Consultation and consideration of representations
+      - [s. 43 Electoral review recommendations and decisions: duty to have regard to representations](section/43.md)
+      - [s. 44 Names of electoral wards](section/44.md)
+      - [s. 45 Consultation on reviews](section/45.md)
+      - [s. 46 Meaning of “mandatory consultees” in Part 3 of the 2013 Act](section/46.md)
+    - Timing of reviews and implementation
+      - [s. 47 Electoral review recommendations and decisions: period before a local election](section/47.md)
+      - [s. 48 Deadline for completion of reviews](section/48.md)
+      - [s. 49 Deadline for completion of implementation](section/49.md)
+      - [s. 50 Directions to pause reviews](section/50.md)
+    - Community reviews and status as towns
+      - [s. 51 Community reviews and implementation](section/51.md)
+      - [s. 52 Notice of resolutions on status of communities as towns](section/52.md)
+    - Publication of information: arrangements for local government
+      - [s. 53 Publication of orders under Part 3 of the 2013 Act](section/53.md)
+      - [s. 54 Publication of up-to-date lists of communities and community councils](section/54.md)
+    - General
+      - [s. 55 Transitional provision](section/55.md)
+  - CHAPTER 2 REMUNERATION OF ELECTED MEMBERS
+    - Abolition of the Independent Remuneration Panel for Wales
+      - [s. 56 Abolition of Independent Remuneration Panel for Wales](section/56.md)
+    - Functions of the Democracy and Boundary Commission Cymru
+      - [s. 57 Democracy and Boundary Commission Cymru functions relating to remuneration](section/57.md)
+      - [s. 58 Transfer of property, rights and liabilities](section/58.md)
+      - [s. 59 Minor and consequential amendments](section/59.md)
+      - [s. 60 Savings](section/60.md)
+  - CHAPTER 3 DISQUALIFICATION, UNDUE INFLUENCE AND POLITICAL RESTRICTION OF OFFICES
+    - Disqualification
+      - [s. 61 Disqualification from being a Member of the Senedd and a community councillor](section/61.md)
+      - [s. 62 Disqualification for corrupt or illegal practice: local government elections](section/62.md)
+      - [s. 63 Disqualification for corrupt or illegal practice: Senedd Cymru elections](section/63.md)
+    - ‍Undue influence
+      - [s. 64 Undue influence](section/64.md)
+    - Political restriction of offices
+      - [s. 65 Political restriction of officers and staff](section/65.md)
+  - CHAPTER 4 DEMOCRACY AND BOUNDARY COMMISSION CYMRU
+    - [s. 66 Democracy and Boundary Commission Cymru: persons who may not be members etc.](section/66.md)
+    - [s. 67 Democracy and Boundary Commission Cymru: governance and audit committee](section/67.md)
+    - [s. 68 Democracy and Boundary Commission Cymru: power to charge](section/68.md)
+- PART 3 GENERAL PROVISION
+  - [s. 69 Regulations: restrictions](section/69.md)
+  - [s. 70 General interpretation](section/70.md)
+  - [s. 71 Power to make consequential and transitional provision etc.](section/71.md)
+  - [s. 72 Coming into force](section/72.md)
+  - [s. 73 Short title](section/73.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 AMENDMENTS RELATING TO CO-ORDINATION OF ELECTORAL ARRANGEMENTS
+    - [Sch. 1 para. 1 Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Senedd Cymru (Members and Elections) Act 2024 (asc 4)](schedule/1/paragraph/2.md)
+  - PART 2 AMENDMENTS RELATING TO WELSH ELECTIONS PILOTING AND REFORM
+    - [Sch. 1 para. 3 Representation of the People Act 2000 (c. 2)](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Electoral Administration Act 2006 (c. 22)](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Electoral Registration and Administration Act 2013 (c. 6)](schedule/1/paragraph/5.md)
+  - PART 3 AMENDMENTS RELATING TO CAMPAIGN FINANCE
+    - [Sch. 1 para. 6 Political Parties, Elections and Referendums Act 2000 (c. 41)](schedule/1/paragraph/6.md)
+  - PART 4 AMENDMENTS RELATING TO REMUNERATION OF PUBLIC AUTHORITY MEMBERS
+    - [Sch. 1 para. 7 Local Government Act 1972 (c. 70)](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Local Government and Housing Act 1989 (c. 42)](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 School Standards and Framework Act 1998 (c. 31)](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Freedom of Information Act 2000 (c. 36)](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Education Act 2002 (c. 32)](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Government of Wales Act 2006 (c. 32)](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Local Government (Wales) Act 2015 (anaw 6)](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Local Government and Elections (Wales) Act 2021 (asc 1)](schedule/1/paragraph/15.md)
