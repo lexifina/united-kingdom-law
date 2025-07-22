@@ -1,0 +1,971 @@
+# Gambling Act 2005
+
+2005 c. 19. Enacted 2005-04-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-07-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
+
+Source: https://www.legislation.gov.uk/ukpga/2005/19/2025-07-22
+
+## Contents
+
+- Part 1 Interpretation of Key Concepts
+  - Principal concepts
+    - [s. 1 The licensing objectives](section/1.md)
+    - [s. 2 Licensing authorities](section/2.md)
+    - [s. 3 Gambling](section/3.md)
+    - [s. 4 Remote gambling](section/4.md)
+    - [s. 5 Facilities for gambling](section/5.md)
+  - Gaming
+    - [s. 6 Gaming & game of chance](section/6.md)
+    - [s. 7 Casino](section/7.md)
+    - [s. 8 Equal chance gaming](section/8.md)
+  - Betting
+    - [s. 9 Betting: general](section/9.md)
+    - [s. 10 Spread bets, &c.](section/10.md)
+    - [s. 11 Betting: prize competitions](section/11.md)
+    - [s. 12 Pool betting](section/12.md)
+    - [s. 13 Betting intermediary](section/13.md)
+  - Lottery
+    - [s. 14 Lottery](section/14.md)
+    - [s. 15 National Lottery](section/15.md)
+  - Cross-category activities
+    - [s. 16 Betting and gaming](section/16.md)
+    - [s. 17 Lotteries and gaming](section/17.md)
+    - [s. 18 Lotteries and betting](section/18.md)
+  - Miscellaneous
+    - [s. 19 Non-commercial society](section/19.md)
+- Part 2 The Gambling Commission
+  - [s. 20 Establishment of the Commission](section/20.md)
+  - [s. 21 Gaming Board: transfer to Commission](section/21.md)
+  - [s. 22 Duty to promote the licensing objectives](section/22.md)
+  - [s. 23 Statement of principles for licensing and regulation](section/23.md)
+  - [s. 24 Codes of practice](section/24.md)
+  - [s. 25 Guidance to local authorities](section/25.md)
+  - [s. 26 Duty to advise Secretary of State](section/26.md)
+  - [s. 27 Compliance](section/27.md)
+  - [s. 28 Investigation and prosecution of offences](section/28.md)
+  - [s. 29 Licensing authority information](section/29.md)
+  - [s. 30 Other exchange of information](section/30.md)
+  - [s. 31 Consultation with National Lottery Commission](section/31.md)
+  - [s. 32 Consultation with Commissioners of Customs and Excise](section/32.md)
+- Part 3 General offences
+  - Provision of facilities for gambling
+    - [s. 33 Provision of facilities for gambling](section/33.md)
+    - [s. 34 Exception: lotteries](section/34.md)
+    - [s. 35 Exception: gaming machines](section/35.md)
+    - [s. 36 Territorial application](section/36.md)
+  - Use of premises
+    - [s. 37 Use of premises](section/37.md)
+    - [s. 38 Power to amend section 37](section/38.md)
+    - [s. 39 Exception: occasional use notice](section/39.md)
+    - [s. 40 Exception: football pools](section/40.md)
+  - Miscellaneous offences
+    - [s. 41 Gambling software](section/41.md)
+    - [s. 42 Cheating](section/42.md)
+    - [s. 43 Chain-gift schemes](section/43.md)
+    - [s. 44 Provision of unlawful facilities abroad](section/44.md)
+- Part 4 Protection of children and young persons
+  - Interpretation
+    - [s. 45 Meaning of “child” and “young person”](section/45.md)
+  - Principal offences
+    - [s. 46 Invitation to gamble](section/46.md)
+    - [s. 47 Invitation to enter premises](section/47.md)
+    - [s. 48 Gambling](section/48.md)
+    - [s. 49 Entering premises](section/49.md)
+    - [s. 50 Provision of facilities for gambling](section/50.md)
+  - Employment offences
+    - [s. 51 Employment to provide facilities for gambling](section/51.md)
+    - [s. 52 Employment for lottery or football pools](section/52.md)
+    - [s. 53 Employment on bingo and club premises](section/53.md)
+    - [s. 54 Employment on premises with gaming machines](section/54.md)
+    - [s. 55 Employment in casino, &c.](section/55.md)
+  - Miscellaneous offences
+    - [s. 56 Invitation to participate in lottery](section/56.md)
+    - [s. 57 Invitation to participate in football pools](section/57.md)
+    - [s. 58 Return of stake](section/58.md)
+    - [s. 59 Age limit for Category D gaming machines](section/59.md)
+  - General
+    - [s. 60 Temporary use notice](section/60.md)
+    - [s. 61 Employment](section/61.md)
+    - [s. 62 Penalty](section/62.md)
+    - [s. 63 Reasonable belief about person’s age](section/63.md)
+    - [s. 64 Use of children in enforcement operations](section/64.md)
+- Part 5 Operating Licences
+  - Introductory
+    - [s. 65 Nature of licence](section/65.md)
+    - [s. 66 Form of licence](section/66.md)
+    - [s. 67 Remote gambling](section/67.md)
+    - [s. 68 Combined licence](section/68.md)
+  - Issue
+    - [s. 69 Application](section/69.md)
+    - [s. 70 Consideration of application: general principles](section/70.md)
+    - [s. 71 Consideration of application: criminal record](section/71.md)
+    - [s. 72 Consideration of application: demand](section/72.md)
+    - [s. 73 Procedure](section/73.md)
+    - [s. 74 Determination of application](section/74.md)
+  - Conditions
+    - [s. 75 General conditions imposed by Commission](section/75.md)
+    - [s. 76 General conditions: procedure](section/76.md)
+    - [s. 77 Individual condition imposed by Commission](section/77.md)
+    - [s. 78 Condition imposed by Secretary of State](section/78.md)
+    - [s. 79 Scope of powers to attach conditions](section/79.md)
+    - [s. 80 Requirement for personal licence](section/80.md)
+    - [s. 81 Credit and inducements](section/81.md)
+    - [s. 82 Compliance with code of practice](section/82.md)
+    - [s. 83 Return of stakes to children](section/83.md)
+    - [s. 84 Premises](section/84.md)
+    - [s. 85 Equipment](section/85.md)
+    - [s. 86 Gaming machines](section/86.md)
+    - [s. 87 Membership](section/87.md)
+    - [s. 88 Information](section/88.md)
+  - Rules for particular kinds of licence
+    - [s. 89 Remote operating licence](section/89.md)
+    - [s. 90 Casino operating licence](section/90.md)
+    - [s. 91 Bingo operating licence](section/91.md)
+    - [s. 92 General betting operating licence](section/92.md)
+    - [s. 93 Pool betting operating licence](section/93.md)
+    - [s. 94 Horse-race pool betting operating licence](section/94.md)
+    - [s. 95 Betting on the National Lottery](section/95.md)
+    - [s. 96 Gaming machine technical operating licence: standards](section/96.md)
+    - [s. 97 Gambling software operating licence: standards](section/97.md)
+    - [s. 98 Lottery operating licences](section/98.md)
+    - [s. 99 Mandatory conditions of lottery operating licence](section/99.md)
+  - Maintenance
+    - [s. 100 Annual fee](section/100.md)
+    - [s. 101 Change of circumstance](section/101.md)
+    - [s. 102 Change of corporate control](section/102.md)
+    - [s. 103 Section 102: supplemental](section/103.md)
+    - [s. 104 Application to vary licence](section/104.md)
+    - [s. 105 Amendment](section/105.md)
+    - [s. 106 Register of operating licences](section/106.md)
+    - [s. 107 Copy of licence](section/107.md)
+    - [s. 108 Production of licence](section/108.md)
+    - [s. 109 Conviction](section/109.md)
+  - Duration
+    - [s. 110 Indefinite duration](section/110.md)
+    - [s. 111 Power to limit duration](section/111.md)
+    - [s. 112 Renewal of licence](section/112.md)
+    - [s. 113 Surrender](section/113.md)
+    - [s. 114 Lapse](section/114.md)
+    - [s. 115 Forfeiture](section/115.md)
+  - Regulation
+    - [s. 116 Review](section/116.md)
+    - [s. 117 Regulatory powers](section/117.md)
+    - [s. 118 Suspension](section/118.md)
+    - [s. 118A Reinstatement](section/118A.md)
+    - [s. 119 Revocation](section/119.md)
+    - [s. 120 Conditions for suspension or revocation](section/120.md)
+    - [s. 121 Financial penalty](section/121.md)
+    - [s. 122 Information](section/122.md)
+  - General
+    - [s. 123 Levy](section/123.md)
+    - [s. 124 Directions and requirements](section/124.md)
+    - [s. 125 Relevant offence: disapplication of rehabilitation](section/125.md)
+    - [s. 126 Interpretation](section/126.md)
+- Part 6 Personal Licences
+  - [s. 127 Nature of personal licence](section/127.md)
+  - [s. 128 Application of provisions of Part 5](section/128.md)
+  - [s. 129 Exemption for small-scale operators](section/129.md)
+  - [s. 130 Application](section/130.md)
+  - [s. 131 Duration](section/131.md)
+  - [s. 132 Fees](section/132.md)
+  - [s. 133 Multiple licences](section/133.md)
+  - [s. 134 Production of licence](section/134.md)
+  - [s. 135 Review](section/135.md)
+  - [s. 136 Disqualification](section/136.md)
+  - [s. 137 Notification of operating licensee](section/137.md)
+  - [s. 138 Conviction](section/138.md)
+  - [s. 139 Breach of personal licence condition](section/139.md)
+- Part 7 Operating and Personal Licences: Appeals
+  - [s. 140 Definition of “the Tribunal”](section/140.md)
+  - [s. 141 Appeal to Tribunal](section/141.md)
+  - [s. 142 Timing](section/142.md)
+  - [s. 143 Appeal from Tribunal](section/143.md)
+  - [s. 144 Powers of Tribunal](section/144.md)
+  - [s. 145 Stay pending appeal](section/145.md)
+  - [s. 146 Tribunal Procedure Rules](section/146.md)
+  - [s. 147 Fees](section/147.md)
+  - [s. 148 Legal assistance](section/148.md)
+  - [s. 149 Enforcement of costs orders](section/149.md)
+- Part 8 Premises Licences
+  - The licence
+    - [s. 150 Nature of licence](section/150.md)
+    - [s. 151 Form of licence](section/151.md)
+    - [s. 152 Combined licence, &c.](section/152.md)
+  - Licensing authorities’ functions
+    - [s. 153 Principles to be applied](section/153.md)
+    - [s. 154 Delegation of licensing authority functions: England and Wales](section/154.md)
+    - [s. 155 Delegation of functions under Part 8: Scotland](section/155.md)
+    - [s. 156 Register](section/156.md)
+  - Other relevant persons
+    - [s. 157 Responsible authorities](section/157.md)
+    - [s. 158 Interested party](section/158.md)
+  - Application for licence
+    - [s. 159 Making of application](section/159.md)
+    - [s. 160 Notice of application](section/160.md)
+    - [s. 161 Representations](section/161.md)
+  - Determination of application
+    - [s. 162 Requirement for hearing](section/162.md)
+    - [s. 163 Determination of application](section/163.md)
+    - [s. 164 Grant of application](section/164.md)
+    - [s. 165 Rejection of application](section/165.md)
+    - [s. 166 Resolution not to issue casino licences](section/166.md)
+  - Conditions
+    - [s. 167 Mandatory conditions](section/167.md)
+    - [s. 168 Default conditions](section/168.md)
+    - [s. 169 Conditions imposed or excluded by licensing authority](section/169.md)
+    - [s. 170 Membership](section/170.md)
+    - [s. 171 Stakes, &c.](section/171.md)
+  - Specific cases
+    - [s. 172 Gaming machines](section/172.md)
+    - [s. 173 Virtual gaming](section/173.md)
+    - [s. 174 Casino premises licence](section/174.md)
+    - [s. 175 Casino premises licence: overall limits](section/175.md)
+    - [s. 176 Casino premises licence: access by children](section/176.md)
+    - [s. 177 Credit](section/177.md)
+    - [s. 178 Door supervision](section/178.md)
+    - [s. 179 Pool betting on track](section/179.md)
+    - [s. 180 Pool betting on dog races](section/180.md)
+    - [s. 181 Betting machines](section/181.md)
+    - [s. 182 Exclusion of children from track areas](section/182.md)
+    - [s. 183 Christmas Day](section/183.md)
+  - Maintenance
+    - [s. 184 Annual fee](section/184.md)
+    - [s. 185 Availability of licence](section/185.md)
+    - [s. 186 Change of circumstance](section/186.md)
+    - [s. 187 Application to vary licence](section/187.md)
+    - [s. 188 Transfer](section/188.md)
+    - [s. 189 Transfer: supplemental](section/189.md)
+    - [s. 190 Copy of licence](section/190.md)
+  - Duration
+    - [s. 191 Initial duration](section/191.md)
+    - [s. 192 Surrender](section/192.md)
+    - [s. 193 Revocation for failure to pay fee](section/193.md)
+    - [s. 194 Lapse](section/194.md)
+    - [s. 195 Reinstatement](section/195.md)
+    - [s. 196 Reinstatement: supplemental](section/196.md)
+  - Review
+    - [s. 197 Application for review](section/197.md)
+    - [s. 198 Rejection of application](section/198.md)
+    - [s. 199 Grant of application](section/199.md)
+    - [s. 200 Initiation of review by licensing authority](section/200.md)
+    - [s. 201 Review](section/201.md)
+    - [s. 202 Action following review](section/202.md)
+    - [s. 203 Determination](section/203.md)
+  - Provisional statement
+    - [s. 204 Application](section/204.md)
+    - [s. 205 Effect](section/205.md)
+  - Appeals
+    - [s. 206 Rights of appeal](section/206.md)
+    - [s. 207 Process](section/207.md)
+    - [s. 208 Stay pending appeal](section/208.md)
+    - [s. 209 Further appeal](section/209.md)
+  - General
+    - [s. 210 Planning permission](section/210.md)
+    - [s. 211 Vehicles and vessels](section/211.md)
+    - [s. 212 Fees](section/212.md)
+    - [s. 213 Interpretation](section/213.md)
+- Part 9 Temporary Use of Premises
+  - Temporary use notice
+    - [s. 214 Exception to offence of using premises for gambling](section/214.md)
+    - [s. 215 Nature of notice](section/215.md)
+    - [s. 216 Form of notice](section/216.md)
+    - [s. 217 Effect of notice](section/217.md)
+    - [s. 218 Maximum permitted period](section/218.md)
+  - Procedure
+    - [s. 219 Giving notice](section/219.md)
+    - [s. 220 Acknowledgment of notice](section/220.md)
+    - [s. 221 Objections](section/221.md)
+    - [s. 222 Hearing of objections](section/222.md)
+    - [s. 223 Modification by agreement](section/223.md)
+    - [s. 224 Counter-notice](section/224.md)
+    - [s. 225 Dismissal of objection](section/225.md)
+    - [s. 226 Appeal](section/226.md)
+    - [s. 227 Endorsement of notice](section/227.md)
+    - [s. 228 Consideration by licensing authority: timing](section/228.md)
+  - Miscellaneous
+    - [s. 229 Availability of notice](section/229.md)
+    - [s. 230 Withdrawal of notice](section/230.md)
+    - [s. 231 Vehicles and vessels](section/231.md)
+    - [s. 232 Delegation of licensing authority functions: England and Wales](section/232.md)
+    - [s. 233 Delegation of functions under Part 9: Scotland](section/233.md)
+    - [s. 234 Register](section/234.md)
+- Part 10 Gaming Machines
+  - Definitions
+    - [s. 235 Gaming machine](section/235.md)
+    - [s. 236 Gaming machines: Categories A to D](section/236.md)
+    - [s. 237 Adult gaming centre](section/237.md)
+    - [s. 238 Family entertainment centre](section/238.md)
+    - [s. 239 Prize](section/239.md)
+  - Regulations
+    - [s. 240 Use of machine](section/240.md)
+    - [s. 241 Supply, &c.](section/241.md)
+  - Offences
+    - [s. 242 Making machine available for use](section/242.md)
+    - [s. 243 Manufacture, supply, &c.](section/243.md)
+    - [s. 244 Linked machines](section/244.md)
+    - [s. 245 Credit](section/245.md)
+    - [s. 246 Penalty](section/246.md)
+  - Exceptions
+    - [s. 247 Family entertainment centre gaming machine permit](section/247.md)
+    - [s. 248 No prize](section/248.md)
+    - [s. 249 Limited prize](section/249.md)
+    - [s. 250 Single-machine supply and maintenance permits](section/250.md)
+  - General
+    - [s. 251 Territorial application](section/251.md)
+- Part 11 Lotteries
+  - Interpretation
+    - [s. 252 Promoting a lottery](section/252.md)
+    - [s. 253 Lottery ticket](section/253.md)
+    - [s. 254 Proceeds and profits](section/254.md)
+    - [s. 255 Draw](section/255.md)
+    - [s. 256 Rollover](section/256.md)
+    - [s. 257 External lottery manager](section/257.md)
+  - Offences
+    - [s. 258 Promotion of lottery](section/258.md)
+    - [s. 259 Facilitating a lottery](section/259.md)
+    - [s. 260 Misusing profits of lottery](section/260.md)
+    - [s. 261 Misusing profits of exempt lottery](section/261.md)
+    - [s. 262 Small society lottery: breach of condition](section/262.md)
+    - [s. 263 Penalty](section/263.md)
+  - Miscellaneous
+    - [s. 264 Exclusion of the National Lottery](section/264.md)
+  - General
+    - [s. 265 Territorial application](section/265.md)
+- Part 12 Clubs, pubs, fairs, &c.
+  - Clubs
+    - [s. 266 Members’ club](section/266.md)
+    - [s. 267 Commercial club](section/267.md)
+    - [s. 268 Miners’ welfare institute](section/268.md)
+    - [s. 269 Exempt gaming](section/269.md)
+    - [s. 270 Section 269: supplementary](section/270.md)
+    - [s. 271 Club gaming permit](section/271.md)
+    - [s. 272 Section 271: supplementary](section/272.md)
+    - [s. 273 Club machine permit](section/273.md)
+    - [s. 274 Procedure, &c.](section/274.md)
+    - [s. 275 Bingo](section/275.md)
+    - [s. 276 Interpretation](section/276.md)
+  - Pubs, &c.
+    - [s. 277 Alcohol licence](section/277.md)
+    - [s. 278 Application of sections 279 to 284](section/278.md)
+    - [s. 279 Exempt gaming](section/279.md)
+    - [s. 280 Section 279: supplementary](section/280.md)
+    - [s. 281 Bingo](section/281.md)
+    - [s. 282 Gaming machines: automatic entitlement](section/282.md)
+    - [s. 283 Licensed premises gaming machine permits](section/283.md)
+    - [s. 284 Removal of exemption](section/284.md)
+  - Clubs, pubs &c: special provision for Scotland
+    - [s. 285 Permits](section/285.md)
+  - Fairs
+    - [s. 286 Interpretation: travelling fair](section/286.md)
+    - [s. 287 Gaming machines](section/287.md)
+- Part 13 Prize Gaming
+  - [s. 288 Meaning of “prize gaming”](section/288.md)
+  - [s. 289 Prize gaming permits](section/289.md)
+  - [s. 290 Gaming and entertainment centres](section/290.md)
+  - [s. 291 Bingo halls](section/291.md)
+  - [s. 292 Fairs](section/292.md)
+  - [s. 293 Conditions for prize gaming](section/293.md)
+  - [s. 294 Power to restrict exemptions](section/294.md)
+- Part 14 Private and Non-Commercial Gaming and Betting
+  - Private gaming and betting
+    - [s. 295 Interpretation](section/295.md)
+    - [s. 296 Exceptions to offences](section/296.md)
+  - Non-commercial gaming and betting
+    - [s. 297 Interpretation](section/297.md)
+    - [s. 298 Exceptions to offences](section/298.md)
+    - [s. 299 Conditions for non-commercial prize gaming](section/299.md)
+    - [s. 300 Conditions for non-commercial equal-chance gaming](section/300.md)
+    - [s. 301 Misusing profits of non-commercial prize gaming](section/301.md)
+    - [s. 302 Non-commercial betting](section/302.md)
+- Part 15 Inspection
+  - Inspectors
+    - [s. 303 Enforcement officers](section/303.md)
+    - [s. 304 Authorised persons](section/304.md)
+  - Kinds of inspection
+    - [s. 305 Compliance](section/305.md)
+    - [s. 306 Suspected offence](section/306.md)
+    - [s. 307 Inspection of gambling](section/307.md)
+    - [s. 308 Operating licence holders](section/308.md)
+    - [s. 309 Family entertainment centres](section/309.md)
+    - [s. 310 Premises licensed for alcohol](section/310.md)
+    - [s. 311 Prize gaming permit](section/311.md)
+    - [s. 312 Clubs](section/312.md)
+    - [s. 313 Licensed premises](section/313.md)
+    - [s. 314 Lotteries: registered societies](section/314.md)
+    - [s. 315 Temporary use notice](section/315.md)
+    - [s. 316 Authorisations: production on demand](section/316.md)
+  - Powers and procedure
+    - [s. 317 Powers](section/317.md)
+    - [s. 318 Dwellings](section/318.md)
+    - [s. 319 Records](section/319.md)
+    - [s. 320 Timing](section/320.md)
+    - [s. 321 Evidence of authorisation](section/321.md)
+    - [s. 322 Information](section/322.md)
+    - [s. 323 Use of force](section/323.md)
+    - [s. 324 Person accompanying inspector, &c.](section/324.md)
+    - [s. 325 Securing premises after entry](section/325.md)
+    - [s. 326 Obstruction](section/326.md)
+- Part 16 Advertising
+  - [s. 327 Meaning of “advertising”](section/327.md)
+  - [s. 328 Regulations](section/328.md)
+  - [s. 329 Broadcasting](section/329.md)
+  - [s. 330 Unlawful gambling](section/330.md)
+  - [s. 331 Foreign gambling](section/331.md)
+  - [s. 332 Territorial application: non-remote advertising](section/332.md)
+  - [s. 333 Territorial application: remote advertising](section/333.md)
+- Part 17 Legality and Enforceability of Gambling Contracts
+  - [s. 334 Repeal of provisions preventing enforcement](section/334.md)
+  - [s. 335 Enforceability of gambling contracts](section/335.md)
+  - [s. 336 Power of Gambling Commission to void bet](section/336.md)
+  - [s. 337 Section 336: supplementary](section/337.md)
+  - [s. 338 Interim moratorium](section/338.md)
+- Part 18 Miscellaneous and General
+  - Miscellaneous
+    - [s. 339 Prize competitions](section/339.md)
+    - [s. 340 Foreign betting](section/340.md)
+    - [s. 341 Offence committed by body](section/341.md)
+    - [s. 342 False information](section/342.md)
+    - [s. 343 Value of prize](section/343.md)
+    - [s. 344 Participation fees](section/344.md)
+    - [s. 345 Forfeiture](section/345.md)
+    - [s. 346 Prosecution by licensing authority](section/346.md)
+    - [s. 347 Prosecution: time limit](section/347.md)
+    - [s. 348 Excluded premises](section/348.md)
+    - [s. 349 Three-year licensing policy](section/349.md)
+    - [s. 350 Exchange of information](section/350.md)
+    - [s. 351 Power to amend Schedule 6](section/351.md)
+    - [s. 352 Data protection](section/352.md)
+    - [s. 352A Wrongful disclosure](section/352A.md)
+  - General
+    - [s. 353 Interpretation](section/353.md)
+    - [s. 354 Crown application](section/354.md)
+    - [s. 355 Regulations, orders and rules](section/355.md)
+    - [s. 356 Amendments and repeals](section/356.md)
+    - [s. 357 Money](section/357.md)
+    - [s. 358 Commencement](section/358.md)
+    - [s. 359 Vessels: territorial limitations](section/359.md)
+    - [s. 360 Aircraft: territorial limitations](section/360.md)
+    - [s. 361 Extent](section/361.md)
+    - [s. 362 Short title](section/362.md)
+- SCHEDULE 1 Betting: Prize Competitions: Definition of Payment to Enter
+  - Introduction
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Meaning of payment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Stamps, telephone calls, &c.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Payment to discover whether prize won
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Payment to claim prize
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Choice of free entry
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Power to make regulations
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Lotteries: Definition of Payment to Enter
+  - Introduction
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Meaning of payment
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Stamps, telephone calls, &c.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Payment to discover whether prize won
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Payment to claim prize
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Choice of free entry
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Power to make regulations
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Amendment of National Lottery etc. Act 1993 (c. 39)
+  - Annual levy
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Consultation with Gambling Commission
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Definition of “lottery”
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 The Gambling Commission
+  - Constitution
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Tenure
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Staff
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Proceedings
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Money
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Annual report
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - Status
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Consent
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Transfer from Gaming Board to Gambling Commission: Supplementary Provision
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Exchange of Information: Persons and Bodies
+  - Part 1 Persons and Bodies with Functions under this Act
+  - Part 2 Enforcement and Regulatory Bodies
+  - Part 3 Sport Governing Bodies
+  - Part 4 Notes
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Relevant Offences
+  - Part 1 The Offences
+    - Gambling offences
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Theft, &c.
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 3A](schedule/7/paragraph/3A.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Miscellaneous
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 8A](schedule/7/paragraph/8A.md)
+      - [Sch. 7 para. 8B](schedule/7/paragraph/8B.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 9A](schedule/7/paragraph/9A.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 11A](schedule/7/paragraph/11A.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 14A](schedule/7/paragraph/14A.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+      - [Sch. 7 para. 18A](schedule/7/paragraph/18A.md)
+      - [Sch. 7 para. 18B](schedule/7/paragraph/18B.md)
+      - [Sch. 7 para. 18C](schedule/7/paragraph/18C.md)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+      - [Sch. 7 para. 22A](schedule/7/paragraph/22A.md)
+  - Part 2 Power to Amend Part 1
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+- SCHEDULE 8 Gambling Appeals Tribunal
+  - President, deputy and members
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Tenure
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Staff
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Money
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Sittings
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Procedure
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Council on Tribunals
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Disqualification, &c.
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+- SCHEDULE 9 Applications for Casino Premises Licences
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Competition for licences
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Two-stage consideration
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Provisional statements
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Family Entertainment Centre Gaming Machine Permits
+  - Interpretation
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Making of application
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Consideration of application
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Determination of application
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Form of permit
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Duration
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Renewal
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Maintenance
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Appeal
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - Register
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - Vehicles and vessels
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+- SCHEDULE 11 Exempt Lotteries
+  - Part 1 Incidental ... Lotteries
+    - The exemption
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Deductions from proceeds
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Purpose of lottery
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - No rollover
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Connection between lottery and event
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Interpretation: “prescribed”
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Part 2 Private Lotteries
+    - The exemption
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Private society lottery
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Work lottery
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Residents’ lottery
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Purpose of lottery
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Advertising
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Lottery tickets
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - Price
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - No rollover
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Part 3 Customer lottery
+    - The exemption
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - No profits
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - Advertising
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - Lottery tickets
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+    - Price
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - Maximum prize
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+    - No rollover
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - Frequency
+      - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+  - Part 4 Small Society Lotteries
+    - The exemption
+      - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+      - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+    - Purpose of lottery
+      - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+    - Minimum distribution for fund-raising purpose
+      - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+    - Maximum prize
+      - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+    - Rollover
+      - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+    - Tickets
+      - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+    - Price
+      - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+    - Registration
+      - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+    - Filing of records
+      - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+      - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+  - Part 5 Registration With Local Authority
+    - Local authority
+      - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+    - Application
+      - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+      - [Sch. 11 para. 43](schedule/11/paragraph/43.md)
+    - Registration
+      - [Sch. 11 para. 44](schedule/11/paragraph/44.md)
+    - Gambling Commission
+      - [Sch. 11 para. 45](schedule/11/paragraph/45.md)
+      - [Sch. 11 para. 46](schedule/11/paragraph/46.md)
+    - Refusal of registration
+      - [Sch. 11 para. 47](schedule/11/paragraph/47.md)
+      - [Sch. 11 para. 48](schedule/11/paragraph/48.md)
+      - [Sch. 11 para. 49](schedule/11/paragraph/49.md)
+    - Revocation
+      - [Sch. 11 para. 50](schedule/11/paragraph/50.md)
+    - Appeal
+      - [Sch. 11 para. 51](schedule/11/paragraph/51.md)
+    - Cancellation
+      - [Sch. 11 para. 52](schedule/11/paragraph/52.md)
+      - [Sch. 11 para. 53](schedule/11/paragraph/53.md)
+    - Annual fee
+      - [Sch. 11 para. 54](schedule/11/paragraph/54.md)
+    - Retention of records
+      - [Sch. 11 para. 55](schedule/11/paragraph/55.md)
+    - Interpretation: “prescribed”
+      - [Sch. 11 para. 56](schedule/11/paragraph/56.md)
+  - Part 6 Powers to Impose Additional Restrictions, &c.
+    - Distributing lottery tickets by post
+      - [Sch. 11 para. 57](schedule/11/paragraph/57.md)
+    - Rollover
+      - [Sch. 11 para. 58](schedule/11/paragraph/58.md)
+    - Other additional provision
+      - [Sch. 11 para. 59](schedule/11/paragraph/59.md)
+    - Variation of monetary limits and percentages
+      - [Sch. 11 para. 60](schedule/11/paragraph/60.md)
+  - Part 7 General
+    - Interpretation: advertisement
+      - [Sch. 11 para. 61](schedule/11/paragraph/61.md)
+    - Interpretation: business
+      - [Sch. 11 para. 62](schedule/11/paragraph/62.md)
+    - Vessels
+      - [Sch. 11 para. 63](schedule/11/paragraph/63.md)
+- SCHEDULE 12 Club Gaming Permits and Club Machine Permits
+  - Application
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Consideration of application
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Fast-track procedure for holder of club premises certificate
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Form of permit
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Maintenance
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - Duration
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+  - Cancellation and forfeiture
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+  - Renewal
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+  - Appeal
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+  - Register
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+  - Exercise of functions by licensing authority: general
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+  - Vehicles and vessels
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+  - Interpretation
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+- SCHEDULE 13 Licensed Premises Gaming Machine Permits
+  - Making of application
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Form of permit
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Maintenance
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Variation
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Cancellation and forfeiture
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Transfer of permit
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+  - Appeal
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+  - Register
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+  - Interpretation
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+- SCHEDULE 14 Prize Gaming Permits
+  - Interpretation
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Making of application
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Consideration of application
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Determination of application
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Form of permit
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Duration
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Renewal
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Maintenance
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+  - Appeal
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+  - Register
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+  - Vehicles and vessels
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+- SCHEDULE 15 Private Gaming and Betting
+  - Part 1 Gaming
+    - Introduction
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - No charge for participation
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Equal chance gaming
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Privacy
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Part 2 Betting
+    - Introduction
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Domestic betting
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Workers’ betting
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+- SCHEDULE 16 Minor and Consequential Amendments
+  - Part 1 Minor Amendments
+    - Metropolitan Police Act 1839 (c. 47)
+      - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - Libraries Offences Act 1898 (c. 53)
+      - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - Gaming Act 1968 (c. 65)
+      - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - Chronically Sick and Disabled Persons Act 1970 (c. 44)
+      - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Part 2 Consequential Amendments
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - Local Government (Miscellaneous Provisions) Act 1976 (c. 57)
+      - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - Race Relations Act 1976 (c. 74)
+      - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - London Local Authorities Act 1995 (c. x)
+      - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - Employment Rights Act 1996 (c. 18)
+      - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - Police Act 1997 (c. 50)
+      - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - ...
+      - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - Postal Services Act 2000 (c. 26)
+      - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - Private Security Industry Act 2001 (c. 12)
+      - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - Criminal Justice and Police Act 2001 (c. 16)
+      - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - Licensing Act 2003 (c. 17)
+      - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - Note
+      - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+- SCHEDULE 17 Repeals
+- SCHEDULE 18 Transitional
+  - Part 1 Transitional Continuation of Old Licences, &c.
+    - Introduction
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - Transitional continuation of licences, &c.
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - Transitional protection for casinos below minimum licensable size
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - References to procedures under this Act
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Part 2 Advance and Interim Applications, and Conversion
+    - Advance applications
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - Interim applications
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - Conversion of existing licences, &c.
+      - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+      - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - Orders: general
+      - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
