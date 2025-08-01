@@ -1,0 +1,1281 @@
+# Local Government (Scotland) Act 1973
+
+1973 c. 65. Enacted 1973-10-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 11 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
+
+Source: https://www.legislation.gov.uk/ukpga/1973/65/2025-08-01
+
+## Contents
+
+- Part I Local Government Areas, Authorities and Elections
+  - New areas and councils
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 3A ................................](section/3A.md)
+  - Election of Councillors
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 11 ................................](section/11.md)
+- Part II Changes in Local Government Areas
+  - Proposals by Boundaries Scotland
+    - [s. 12 Boundaries Scotland](section/12.md)
+    - [s. 13 Proposals for changes in local government areas.](section/13.md)
+    - [s. 14 Duty and power to review local government areas.](section/14.md)
+    - [s. 15 Powers of Secretary of State in relation to reviews.](section/15.md)
+    - [s. 16 Wards and councillors: substantive changes in electoral arrangements](section/16.md)
+    - [s. 17 Boundaries Scotland’s reports and implementation](section/17.md)
+    - [s. 17A Further reviews and reports by Boundaries Scotland](section/17A.md)
+  - Conduct of Reviews
+    - [s. 18 Procedure for reviews.](section/18.md)
+    - [s. 19 Local inquiries.](section/19.md)
+  - Supplementary Provisions
+    - [s. 20 First review of electoral arrangements.](section/20.md)
+    - [s. 21 Delegation of Boundaries Scotland’s functions](section/21.md)
+    - [s. 22 Restriction on promotion of private legislation for changing local government areas, etc.](section/22.md)
+    - [s. 23 Change of name of local government area.](section/23.md)
+    - [s. 24 Consequential and transitional arrangements relating to Part II.](section/24.md)
+    - [s. 25 Transitional agreements as to property and finance.](section/25.md)
+    - [s. 26 Variation and revocation of regulations under Part 2](section/26.md)
+    - [s. 27 Consultation with Boundaries Scotland on schemes for community councils](section/27.md)
+    - [s. 28 Supplementary.](section/28.md)
+- Part III General Provisions as to Members of Local Authorities and Proceedings
+  - Qualifications and disqualifications
+    - [s. 29 Qualifications for nomination, election and holding office as member of local authority.](section/29.md)
+    - [s. 30 Re-election.](section/30.md)
+    - [s. 31 Disqualifications for nomination, election and holding office as member of local authority.](section/31.md)
+    - [s. 31A Disqualification of officers, employees etc. from remaining members of local authority](section/31A.md)
+    - [s. 32 Proceedings for disqualification.](section/32.md)
+    - [s. 33 Validity of acts done by unqualified persons.](section/33.md)
+  - Acceptance of Office
+    - [s. 33A Declaration of acceptance of office of councillor.](section/33A.md)
+  - Resignation and Vacation of Office
+    - [s. 34 Resignation.](section/34.md)
+    - [s. 35 Vacation of office by failure to attend meetings.](section/35.md)
+    - [s. 36 Casual vacancies.](section/36.md)
+    - [s. 37 Filling of casual vacancies.](section/37.md)
+    - [s. 37A Power of returning officer to postpone election for casual vacancy](section/37A.md)
+    - [s. 37B Further power of returning officer to postpone election for casual vacancy where large number of unfilled vacancies](section/37B.md)
+    - [s. 37C Power of returning officer to cancel election for casual vacancy](section/37C.md)
+  - Restrictions on voting
+    - [s. 38 Disability of members of authorities for voting on account of interest in contracts, etc.](section/38.md)
+    - [s. 39 Pecuniary interests for purposes of section 38.](section/39.md)
+    - [s. 40 General notices and recording of disclosures for purposes of section 38.](section/40.md)
+    - [s. 41 Removal or exclusion of disability, etc.](section/41.md)
+    - [s. 42 Interpretation of sections 39 and 41.](section/42.md)
+  - Meetings and proceedings
+    - [s. 43 Meetings and proceedings of local authorities.](section/43.md)
+    - [s. 44 ................................](section/44.md)
+  - Allowances to members of local authorities and other bodies
+    - [s. 45 ................................](section/45.md)
+    - [s. 45A ................................](section/45A.md)
+    - [s. 46 Travelling allowance and subsistence allowance.](section/46.md)
+    - [s. 47 Allowances for attending conferences and meetings.](section/47.md)
+    - [s. 48 Payment of expenses of official and courtesy visits, etc.](section/48.md)
+    - [s. 49 Provisions supplementary to sections 45 to 48.](section/49.md)
+    - [s. 49A ................................](section/49A.md)
+    - [s. 50 Regulations as to allowances.](section/50.md)
+- Part IIIA Access to Meetings and Documents of Local Authorities, Committees and Sub-Committees
+  - [s. 50A Admission to meetings of local authorities.](section/50A.md)
+  - [s. 50B Access to agenda and connected reports.](section/50B.md)
+  - [s. 50C Inspection of minutes and other documents after meetings.](section/50C.md)
+  - [s. 50D Inspection of background papers.](section/50D.md)
+  - [s. 50E Application to committees and sub-committees.](section/50E.md)
+  - [s. 50F Additional rights of access to documents for members of local authorities.](section/50F.md)
+  - [s. 50G Local authorities to publish additional information.](section/50G.md)
+  - [s. 50H Supplemental provisions and offences.](section/50H.md)
+  - [s. 50J Exempt information.](section/50J.md)
+  - [s. 50K Interpretation and application of Part IIIA.](section/50K.md)
+- Part IV Community Councils
+  - [s. 51 Establishment and general purpose of community councils.](section/51.md)
+  - [s. 52 Schemes.](section/52.md)
+  - [s. 53 Amendment of schemes.](section/53.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 Assistance to community councils.](section/55.md)
+- Part V Internal Organisation
+  - Discharge of functions
+    - [s. 56 Arrangements for discharge of functions by local authorities.](section/56.md)
+    - [s. 57 Appointment of committees.](section/57.md)
+    - [s. 58 Expenses of joint committees.](section/58.md)
+    - [s. 59 Disqualification for membership of committees and joint committees.](section/59.md)
+    - [s. 60 Disability for voting on account of interests in contracts, etc.](section/60.md)
+    - [s. 61 Membership of bodies to cease on ceasing to be member of authority.](section/61.md)
+    - [s. 62 Standing orders, etc.](section/62.md)
+    - [s. 62A Incorporation of joint committees.](section/62A.md)
+    - [s. 62B Power of Secretary of State to establish joint boards.](section/62B.md)
+    - [s. 62C Further provisions relating to joint boards.](section/62C.md)
+    - [s. 63 Application of foregoing provisions of Part V to police authorities and joint police committees.](section/63.md)
+    - [s. 63A Sections 62A to 62C not to apply to fire authority.](section/63A.md)
+  - Staff
+    - [s. 64 Appointment etc. of staff.](section/64.md)
+    - [s. 65 Placing of staff of local authorities at disposal of other local authorities.](section/65.md)
+    - [s. 66 Security to be taken in relation to officers.](section/66.md)
+    - [s. 67 Members of local authorities not to be appointed as officers etc.](section/67.md)
+    - [s. 68 Disclosure by officers of interest in contracts.](section/68.md)
+- Part VI Miscellaneous Powers of Local Authorities
+  - Subsidiary powers
+    - [s. 69 Subsidiary powers of local authorities.](section/69.md)
+  - Land transactions
+    - [s. 70 Acquisition of land by agreement.](section/70.md)
+    - [s. 71 Acquisition of land compulsorily.](section/71.md)
+    - [s. 72 Title to land.](section/72.md)
+    - [s. 73 Appropriation of land.](section/73.md)
+    - [s. 74 Disposal of land.](section/74.md)
+    - [s. 74A ................................](section/74A.md)
+    - [s. 75 Disposal, etc., of land forming part of the common good.](section/75.md)
+    - [s. 76 Special provisions as to land acquired for public recreation from heir of entail.](section/76.md)
+    - [s. 77 Payment of purchase or compensation money by one local authority to another.](section/77.md)
+  - Buildings, contracts, etc.
+    - [s. 78 Power to erect buildings, etc.](section/78.md)
+    - [s. 79 Provision of offices, etc.](section/79.md)
+    - [s. 80 Interpretation of “functions”.](section/80.md)
+    - [s. 81 Contracts of local authorities.](section/81.md)
+  - Private legislation
+    - [s. 82 Power of local authority to promote or oppose private legislation.](section/82.md)
+  - Miscellaneous
+    - [s. 83 Power of local authorities to incur expenditure for certain purposes not otherwise authorised.](section/83.md)
+    - [s. 84 Powers of local authorities with respect to emergencies or disasters.](section/84.md)
+    - [s. 85 Acceptance of gifts of property.](section/85.md)
+    - [s. 86 Insurance by local authorities against accidents to members.](section/86.md)
+    - [s. 87 Research and the collection of information.](section/87.md)
+    - [s. 88 Provision of information, etc., relating to matters affecting local government.](section/88.md)
+    - [s. 89 Subscriptions to local government associations.](section/89.md)
+    - [s. 90 Powers of local authority to carry on tourism-related activities.](section/90.md)
+    - [s. 90A ................................](section/90A.md)
+    - [s. 91 ................................](section/91.md)
+    - [s. 92 Transfer of securities on alteration of area, etc.](section/92.md)
+- Part VII Finance
+  - Funds, revenue and expenses
+    - [s. 93 General fund.](section/93.md)
+    - [s. 94 Capital expenses.](section/94.md)
+    - [s. 95 Financial administration.](section/95.md)
+  - Accounts and audit
+    - [s. 96 Accounts and audit.](section/96.md)
+    - [s. 97 Establishment of Commission for Local Authority Accounts in Scotland.](section/97.md)
+    - [s. 97A Studies for improving economy etc. in services.](section/97A.md)
+    - [s. 97B Furnishing of information and documents to Commission.](section/97B.md)
+    - [s. 98 Expenses and accounts of Commission.](section/98.md)
+    - [s. 99 General duties of auditors.](section/99.md)
+    - [s. 100 Auditor’s right of access to documents.](section/100.md)
+    - [s. 101 Right of interested person to inspect and object to accounts: completion of audit.](section/101.md)
+    - [s. 101A Reference of social security matters to Secretary of State.](section/101A.md)
+    - [s. 102 Reports to Commission by Controller of Audit.](section/102.md)
+    - [s. 103 Action by Commission on reports by Controller of Audit.](section/103.md)
+    - [s. 103A Publication of special reports](section/103A.md)
+    - [s. 103B Action by Commission on receipt of special reports](section/103B.md)
+    - [s. 103C Hearings on special reports](section/103C.md)
+    - [s. 103D Findings of hearings](section/103D.md)
+    - [s. 103E Action by local authorities on receipt of findings under section 103D](section/103E.md)
+    - [s. 103F Action on finding of failure, negligence or misconduct](section/103F.md)
+    - [s. 103G Interim reports on investigations and action thereon](section/103G.md)
+    - [s. 103H Protection from actions of defamation](section/103H.md)
+    - [s. 103J Appeals from Commission](section/103J.md)
+    - [s. 104 ................................](section/104.md)
+    - [s. 104A ................................](section/104A.md)
+    - [s. 105 Regulations as to accounts.](section/105.md)
+    - [s. 105A Studies of benefit administration at request of Secretary of State.](section/105A.md)
+    - [s. 106 Application of ss. 93 to 105 to bodies other than local authorities and to officers.](section/106.md)
+  - Rating
+    - [s. 107 ................................](section/107.md)
+    - [s. 108 ................................](section/108.md)
+    - [s. 109 ................................](section/109.md)
+    - [s. 110 ................................](section/110.md)
+    - [s. 110A ................................](section/110A.md)
+    - [s. 111 Secretary of State may make regulations with respect to rates.](section/111.md)
+    - [s. 112 ................................](section/112.md)
+    - [s. 115 ................................](section/115.md)
+  - Valuation
+    - [s. 116](section/116.md)
+    - [s. 117 ................................](section/117.md)
+  - Miscellaneous
+    - [s. 118 Local financial returns.](section/118.md)
+    - [s. 119 ................................](section/119.md)
+    - [s. 120 Rate support grant.](section/120.md)
+    - [s. 121 ................................](section/121.md)
+    - [s. 122 Miscellaneous amendments of enactments relating to finance.](section/122.md)
+    - [s. 122A Duty of local authority to use resources efficiently.](section/122A.md)
+- Part VIII Functions
+  - Education
+    - [s. 123 Education authorities.](section/123.md)
+    - [s. 124 Membership of committees appointed by education authorities.](section/124.md)
+    - [s. 125 ................................](section/125.md)
+    - [s. 126 Disqualification for membership of committees appointed by education authorities.](section/126.md)
+    - [s. 127 ................................](section/127.md)
+    - [s. 128 Educational endowments.](section/128.md)
+    - [s. 129 ................................](section/129.md)
+  - Housing
+    - [s. 130 Housing.](section/130.md)
+    - [s. 131 ................................](section/131.md)
+    - [s. 132 ................................](section/132.md)
+  - The environment
+    - [s. 133 Roads.](section/133.md)
+    - [s. 134 Building.](section/134.md)
+    - [s. 135 ................................](section/135.md)
+    - [s. 135A ................................](section/135A.md)
+    - [s. 136 Deposit of poisonous waste.](section/136.md)
+    - [s. 137 Flood prevention and flood warning systems.](section/137.md)
+    - [s. 138 Coast protection.](section/138.md)
+    - [s. 139 ................................](section/139.md)
+    - [s. 140 ................................](section/140.md)
+    - [s. 141 Public conveniences.](section/141.md)
+    - [s. 142 ................................](section/142.md)
+    - [s. 143 ................................](section/143.md)
+    - [s. 144 †Diseases of animals, and plant health.](section/144.md)
+    - [s. 145 Ordnance Survey.](section/145.md)
+  - Miscellaneous functions
+    - [s. 146 Police.](section/146.md)
+    - [s. 147 Fire services.](section/147.md)
+    - [s. 148 Water.](section/148.md)
+    - [s. 149 ................................](section/149.md)
+    - [s. 150 Schedule 18 to continue to have effect.](section/150.md)
+    - [s. 151 ................................](section/151.md)
+    - [s. 152 ................................](section/152.md)
+    - [s. 153 Ferries.](section/153.md)
+    - [s. 154 Piers and Harbours.](section/154.md)
+    - [s. 154A ................................](section/154A.md)
+    - [s. 154B ................................](section/154B.md)
+    - [s. 155 Factories.](section/155.md)
+    - [s. 156 Offices, shops and railway premises.](section/156.md)
+    - [s. 157 ................................](section/157.md)
+    - [s. 158 ................................](section/158.md)
+    - [s. 159 ................................](section/159.md)
+    - [s. 160 ................................](section/160.md)
+    - [s. 161 ................................](section/161.md)
+    - [s. 162 ................................](section/162.md)
+    - [s. 163 Public libraries, museums and art galleries.](section/163.md)
+    - [s. 164 ................................](section/164.md)
+    - [s. 165 Spray irrigation.](section/165.md)
+    - [s. 166 Registration of births, deaths and marriages.](section/166.md)
+    - [s. 167 ................................](section/167.md)
+    - [s. 168 ................................](section/168.md)
+    - [s. 169 Burial grounds, churchyards etc.](section/169.md)
+    - [s. 170 War memorials.](section/170.md)
+  - Heating and electricity
+    - [s. 170A Production and supply of heat and electricity etc. by local authorities.](section/170A.md)
+    - [s. 170B Provisions supplementary to s. 170A.](section/170B.md)
+    - [s. 171 Miscellaneous functions, etc.](section/171.md)
+- Part XVIIIA Economic Development
+  - [s. 171A Functions to include promotion of economic development.](section/171A.md)
+  - [s. 171B Restrictions on promotion of economic development.](section/171B.md)
+  - [s. 171C Exercise of certain powers to be subject to provisions of sections 171A and 171B.](section/171C.md)
+- Part IX Planning
+  - Planning authorities and plans
+    - [s. 172 Planning authorities.](section/172.md)
+    - [s. 173 ................................](section/173.md)
+    - [s. 174 ................................](section/174.md)
+    - [s. 175 ................................](section/175.md)
+    - [s. 176 ................................](section/176.md)
+    - [s. 177 ................................](section/177.md)
+    - [s. 178 ................................](section/178.md)
+  - Development control
+    - [s. 179 ................................](section/179.md)
+    - [s. 180 ................................](section/180.md)
+    - [s. 181 ................................](section/181.md)
+  - Miscellaneous
+    - [s. 182 ................................](section/182.md)
+    - [s. 183 ................................](section/183.md)
+    - [s. 184 Amendment of enactments relating to planning etc](section/184.md)
+- Part X Licensing, etc.
+  - [s. 185 ................................](section/185.md)
+  - Betting, Gaming and Lotteries
+    - [s. 187 Authorities for purposes of betting, gaming and lotteries, etc.](section/187.md)
+  - Miscellaneous licensing, registration and related matters
+    - [s. 188 Part III of Schedule 24 to continue to have effect.](section/188.md)
+- Part XI General Provisions as to Local Authorities
+  - Legal Proceedings, Notices, etc.
+    - [s. 189 Legal proceedings.](section/189.md)
+    - [s. 190 Service of legal proceedings, notices, etc., on local authorities.](section/190.md)
+    - [s. 191 Claims in sequestrations and liquidations.](section/191.md)
+    - [s. 192 Service of notices, etc., by local authority.](section/192.md)
+    - [s. 193 Authentication of documents.](section/193.md)
+    - [s. 194 Execution of deeds by local authority and use of seal.](section/194.md)
+    - [s. 195 Public notices.](section/195.md)
+    - [s. 196 Misnomers, etc., not to affect validity of notices, etc.](section/196.md)
+    - [s. 197 Inspection and deposit of documents.](section/197.md)
+    - [s. 198 Photographic copies of documents.](section/198.md)
+    - [s. 199 Reports and returns.](section/199.md)
+    - [s. 200 ................................](section/200.md)
+  - Byelaws
+    - [s. 201 Byelaws for good rule and government.](section/201.md)
+    - [s. 202 Procedure, etc., for byelaws.](section/202.md)
+    - [s. 202A Review of byelaws.](section/202A.md)
+    - [s. 202B Register of byelaws.](section/202B.md)
+    - [s. 202C Revocation of byelaws by resolution.](section/202C.md)
+    - [s. 203 Offences against byelaws.](section/203.md)
+    - [s. 204 Evidence of byelaws.](section/204.md)
+  - Miscellaneous provisions
+    - [s. 205 ................................](section/205.md)
+    - [s. 206 Admission of honorary freemen.](section/206.md)
+    - [s. 207 Limitation of rights of freemen.](section/207.md)
+    - [s. 208 Provisions as to Sundays etc.](section/208.md)
+- Part XII Miscellaneous, General and Transitional
+  - Miscellaneous
+    - [s. 209 Removal or relaxation of controls affecting certain local authority functions.](section/209.md)
+    - [s. 210 Power to direct inquiries.](section/210.md)
+    - [s. 210A Recovery of expenses of local inquiry.](section/210A.md)
+    - [s. 211 Provision for default of local authority.](section/211.md)
+    - [s. 212 Limitation of liability of certain owners.](section/212.md)
+    - [s. 213 Tweed Fisheries Commissioners.](section/213.md)
+  - General
+    - [s. 214 Consequential and minor modifications and amendments.](section/214.md)
+    - [s. 215 Consequential and supplementary provisions.](section/215.md)
+    - [s. 216 Transfer of officers.](section/216.md)
+    - [s. 217 Continuity of employment in cases of voluntary transfer.](section/217.md)
+    - [s. 218 ................................](section/218.md)
+    - [s. 222 ................................](section/222.md)
+    - [s. 223 ................................](section/223.md)
+    - [s. 224 ................................](section/224.md)
+    - [s. 225 Local Acts and instruments.](section/225.md)
+    - [s. 226 ................................](section/226.md)
+    - [s. 227 Abolition of Dean of Guild Court.](section/227.md)
+    - [s. 228 Abolition of fiars courts for counties, etc.](section/228.md)
+    - [s. 229 ................................](section/229.md)
+    - [s. 230 ................................](section/230.md)
+    - [s. 231 Application to sheriff in cases of difficulty.](section/231.md)
+    - [s. 232 Provisions regarding applications to court.](section/232.md)
+    - [s. 233 Orders, rules and regulations.](section/233.md)
+    - [s. 234 Expenses.](section/234.md)
+    - [s. 235 General provisions as to interpretation.](section/235.md)
+    - [s. 236 Savings.](section/236.md)
+    - [s. 237 Repeals.](section/237.md)
+    - [s. 238 Short title, commencement and extent.](section/238.md)
+- SCHEDULE 1
+  - Part I
+  - Part II
+  - Part III
+  - Part IV
+    - Provisions as to boundaries
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2
+  - First elections of councillors
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Qualification for membership
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - First meetings of new councils
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Suspension of elections
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+- SCHEDULE 4 Constitution and proceedings of Boundaries Scotland
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Officers and servants, remuneration and expenses
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Proof of documents
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+- SCHEDULE 6 Rules to be Observed in Considering Electoral Arrangements
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+- SCHEDULE 6A Candidacy Rights of Foreign Nationals
+  - [Sch. 6A para. 1 List of countries for the purposes of section 29(8)](schedule/6A/paragraph/1.md)
+  - [Sch. 6A para. 2 Amendment of list of countries](schedule/6A/paragraph/2.md)
+  - [Sch. 6A para. 3 Amendment of list of countries](schedule/6A/paragraph/3.md)
+  - [Sch. 6A para. 4 Amendment of list of countries](schedule/6A/paragraph/4.md)
+  - [Sch. 6A para. 5 Amendment of list of countries](schedule/6A/paragraph/5.md)
+- SCHEDULE 7 Meetings and Proceedings of Local Authorities
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 7A Access to Information: Exempt Information
+  - Part I Descriptions of Exempt Information
+    - [Sch. 7A Pt. I para. 1](schedule/7A/part/I/paragraph/1.md)
+    - [Sch. 7A Pt. I para. 2](schedule/7A/part/I/paragraph/2.md)
+    - [Sch. 7A Pt. I para. 3](schedule/7A/part/I/paragraph/3.md)
+    - [Sch. 7A Pt. I para. 4](schedule/7A/part/I/paragraph/4.md)
+    - [Sch. 7A Pt. I para. 5](schedule/7A/part/I/paragraph/5.md)
+    - [Sch. 7A Pt. I para. 6](schedule/7A/part/I/paragraph/6.md)
+    - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+    - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+    - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+    - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+    - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+    - [Sch. 7A para. 12](schedule/7A/paragraph/12.md)
+    - [Sch. 7A para. 13](schedule/7A/paragraph/13.md)
+    - [Sch. 7A para. 14](schedule/7A/paragraph/14.md)
+    - [Sch. 7A para. 15](schedule/7A/paragraph/15.md)
+  - Part II Qualifications
+    - [Sch. 7A Pt. II para. 1](schedule/7A/part/II/paragraph/1.md)
+    - [Sch. 7A Pt. II para. 2](schedule/7A/part/II/paragraph/2.md)
+    - [Sch. 7A Pt. II para. 3](schedule/7A/part/II/paragraph/3.md)
+    - [Sch. 7A Pt. II para. 4](schedule/7A/part/II/paragraph/4.md)
+    - [Sch. 7A Pt. II para. 5](schedule/7A/part/II/paragraph/5.md)
+    - [Sch. 7A Pt. II para. 6](schedule/7A/part/II/paragraph/6.md)
+  - Part III Interpretation
+    - [Sch. 7A Pt. III para. 1](schedule/7A/part/III/paragraph/1.md)
+- SCHEDULE 8 Provisions as to the Accounts Commission for Scotland
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 Amendments with respect to Finance
+  - The Local Government (Scotland) Act 1947
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - The Local Government Act 1948
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+  - The Rating and Valuation (Scotland) Act 1952
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+  - The Valuation and Rating (Scotland) Act 1956
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+    - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+    - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+    - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+    - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+    - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+  - The Local Government and Miscellaneous Financial Provisions (Scotland) Act 1958
+    - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+  - The Local Government (Financial Provisions) (Scotland) Act 1963
+    - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+    - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+    - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+    - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+    - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+    - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+  - The Local Government (Development and Finance) (Scotland) Act 1964
+    - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+    - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+    - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+  - The Rating Act 1966
+    - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+    - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+    - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+  - The Local Government (Scotland) Act 1966
+    - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+    - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+    - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+    - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+    - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+    - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+    - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+    - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+    - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+  - The Post Office Act 1969
+    - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+- SCHEDULE 10
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+- SCHEDULE 11
+- SCHEDULE 12 Amendment of Enactments Relating to Housing
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - The Housing and Town Development (Scotland) Act 1957
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - The Housing Subsidies Act 1967
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+- Schedule 13
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4 ................................](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7 ................................](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+- Schedule 14
+  - [Sch. 14 para. 1 ................................](schedule/14/paragraph/1.md)
+  - The Road Traffic Act 1930
+    - [Sch. 14 para. 30 ................................](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - [Sch. 14 para. 32 ................................](schedule/14/paragraph/32.md)
+  - The Aquisition of Land (Authorisation Procedure) (Scotland) Act 1947
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43 ................................](schedule/14/paragraph/43.md)
+  - The Public Utilities Street Works Act 1950
+    - [Sch. 14 para. 51 ................................](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52 ................................](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 55 ................................](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 57 ................................](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 59 ................................](schedule/14/paragraph/59.md)
+    - [Sch. 14 para. 63 ................................](schedule/14/paragraph/63.md)
+    - [Sch. 14 para. 64 ................................](schedule/14/paragraph/64.md)
+    - [Sch. 14 para. 68 ................................](schedule/14/paragraph/68.md)
+    - [Sch. 14 para. 69 ................................](schedule/14/paragraph/69.md)
+  - The Transport Act 1968
+    - [Sch. 14 para. 74 ................................](schedule/14/paragraph/74.md)
+    - [Sch. 14 para. 75](schedule/14/paragraph/75.md)
+    - [Sch. 14 para. 76 ................................](schedule/14/paragraph/76.md)
+    - [Sch. 14 para. 80 ................................](schedule/14/paragraph/80.md)
+  - The Chronically Sick and Disabled Persons Act 1970
+    - [Sch. 14 para. 81](schedule/14/paragraph/81.md)
+  - The Road Traffic Act 1972
+    - [Sch. 14 para. 82 ................................](schedule/14/paragraph/82.md)
+    - [Sch. 14 para. 83](schedule/14/paragraph/83.md)
+    - [Sch. 14 para. 84](schedule/14/paragraph/84.md)
+    - [Sch. 14 para. 85](schedule/14/paragraph/85.md)
+    - [Sch. 14 para. 86 ................................](schedule/14/paragraph/86.md)
+    - [Sch. 14 para. 87 ................................](schedule/14/paragraph/87.md)
+  - The Town and Country Planning (Scotland) Act 1972
+    - [Sch. 14 para. 89](schedule/14/paragraph/89.md)
+- SCHEDULE 15 Amendment of Enactments Relating to Building
+  - Part I The Building (Scotland) Act 1959
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - Part II Other Enactments
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+    - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+- Schedule 16 Amendment of Enactments Relating to River Purification
+  - Rivers (Prevention of Pollution) (Scotland) Act 1951
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+- SCHEDULE 17 Amendment of Enactments relating to Water
+  - General
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - The Rural Water Supplies and Sewerage Act 1944
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - The Water Act 1973
+    - [Sch. 17 para. 64](schedule/17/paragraph/64.md)
+- SCHEDULE 18 Amendment of certain Enactments Relating to Transport
+  - Part I Amendment of the Transport Act 1968
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+  - Part II Amendment of Miscellaneous enactments Relating to Transport
+    - The Light Railways Act 1896
+      - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+    - The Road Traffic Act 1930
+      - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+      - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+    - The Transport Charges Etc. (Miscellaneous Provisions) Act 1954
+      - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+      - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+      - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
+      - [Sch. 18 para. 29 The Local Government (Omnibus Shelters and Queue Barriers) (Scotland) Act 1958](schedule/18/paragraph/29.md)
+      - [Sch. 18 para. 30](schedule/18/paragraph/30.md)
+      - [Sch. 18 para. 36](schedule/18/paragraph/36.md)
+- Schedule 19 Amendment of Enactments Relating to Piers, Harbours, Etc.
+  - The Harbours, Docks and Piers Clauses Act 1847
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - The General Pier and Harbour Act 1861, Amendment Act 1862
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - The Congested Districts (Scotland) Act 1897
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - The Harbours, Piers and Ferries (Scotland) Act 1937
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - The Highlands and Islands Shipping Services Act 1960
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+  - The Harbours Act 1964
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+- SCHEDULE 20
+  - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+  - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+- SCHEDULE 21 Amendment of Enactments Relating to Public Libraries, Museums and Art Galleries
+  - The Public Libraries Consolidation (Scotland) Act 1887
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - The Public Libraries (Scotland) Act 1920
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - The Public Libraries (Scotland) Act 1955
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - The Education (Scotland) Act 1962
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - The Education (Scotland) Act 1969
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+- SCHEDULE 22
+  - Part I Regional Planning Functions
+  - Part II District Planning Functions
+- Schedule 23 Amendment of Enactments Relating to Planning
+  - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - The Caravan Sites and Control of Development Act 1960
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - The Town and Country Planning (Scotland) Act 1947
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - The Town and Country Planning (Scotland) Act 1959
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - The Civic Amenities Act 1967
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - The New Towns (Scotland) Act 1968
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+  - The Town and Country Planning (Scotland) Act 1972
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+    - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+    - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+    - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+    - [Sch. 23 para. 25](schedule/23/paragraph/25.md)
+    - [Sch. 23 para. 26](schedule/23/paragraph/26.md)
+    - [Sch. 23 para. 27](schedule/23/paragraph/27.md)
+    - [Sch. 23 para. 28](schedule/23/paragraph/28.md)
+    - [Sch. 23 para. 29](schedule/23/paragraph/29.md)
+    - [Sch. 23 para. 30](schedule/23/paragraph/30.md)
+    - [Sch. 23 para. 31](schedule/23/paragraph/31.md)
+    - [Sch. 23 para. 32](schedule/23/paragraph/32.md)
+    - [Sch. 23 para. 33](schedule/23/paragraph/33.md)
+    - [Sch. 23 para. 34](schedule/23/paragraph/34.md)
+- Schedule 24 Amendment of Enactments Relating to Licensing, etc.
+  - Part I
+    - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - Part II Betting, Gaming and Lotteries
+    - The Betting, Gaming and Lotteries Act 1963
+      - [Sch. 24 para. 25](schedule/24/paragraph/25.md)
+      - [Sch. 24 para. 26](schedule/24/paragraph/26.md)
+      - [Sch. 24 para. 27](schedule/24/paragraph/27.md)
+      - [Sch. 24 para. 28](schedule/24/paragraph/28.md)
+    - The Gaming Act 1968
+      - [Sch. 24 para. 30](schedule/24/paragraph/30.md)
+      - [Sch. 24 para. 31](schedule/24/paragraph/31.md)
+      - [Sch. 24 para. 32](schedule/24/paragraph/32.md)
+  - Part III Miscellaneous Licensing, Registration and Related Matters
+    - [Sch. 24 para. 33](schedule/24/paragraph/33.md)
+    - The Performing Animals (Regulation) Act 1925
+      - [Sch. 24 para. 34](schedule/24/paragraph/34.md)
+      - [Sch. 24 para. 35](schedule/24/paragraph/35.md)
+    - The Methylated Spirits (Sale by Retail) (Scotland) Act 1937
+      - [Sch. 24 para. 36](schedule/24/paragraph/36.md)
+    - The House to House Collections Act 1939
+      - [Sch. 24 para. 37](schedule/24/paragraph/37.md)
+    - The War Charities Act 1940
+      - [Sch. 24 para. 38](schedule/24/paragraph/38.md)
+    - The Pet Animals Act 1951
+      - [Sch. 24 para. 39](schedule/24/paragraph/39.md)
+    - The Hypnotism Act 1952
+      - [Sch. 24 para. 40](schedule/24/paragraph/40.md)
+    - The Animal Boarding Establishments Act 1963
+      - [Sch. 24 para. 41](schedule/24/paragraph/41.md)
+    - The Riding Establishments Act 1964
+      - [Sch. 24 para. 42](schedule/24/paragraph/42.md)
+    - The Local Government (Scotland) Act 1966
+      - [Sch. 24 para. 43](schedule/24/paragraph/43.md)
+    - Sale of Venison (Scotland) Act 1968
+      - [Sch. 24 para. 44](schedule/24/paragraph/44.md)
+    - The Theatres Act 1968
+      - [Sch. 24 para. 45](schedule/24/paragraph/45.md)
+    - The Vehicle and Driving Licences Act 1969
+      - [Sch. 24 para. 46](schedule/24/paragraph/46.md)
+    - The Poisons Act 1972
+      - [Sch. 24 para. 47](schedule/24/paragraph/47.md)
+- Schedule 25 Relaxation of Controls
+  - The Roads and Bridges (Scotland) Amendment Act 1892
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - The Burgh Police (Scotland) Act 1892
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+  - The Burgh Police (Scotland) Act 1903
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - The Milk and Dairies (Scotland) Act 1914
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+  - The Performing Animals (Regulation) Act 1925
+    - [Sch. 25 para. 7](schedule/25/paragraph/7.md)
+    - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+  - The Roads Improvement Act 1925
+    - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+  - The Slaughter of Animals (Scotland) Act 1928
+    - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+  - The Bridges Act 1929
+    - [Sch. 25 para. 11](schedule/25/paragraph/11.md)
+    - [Sch. 25 para. 12](schedule/25/paragraph/12.md)
+  - The Road Traffic Act 1930
+    - [Sch. 25 para. 13](schedule/25/paragraph/13.md)
+    - [Sch. 25 para. 14](schedule/25/paragraph/14.md)
+    - [Sch. 25 para. 15](schedule/25/paragraph/15.md)
+  - The Harbours, Piers and Ferries (Scotland) Act 1937
+    - [Sch. 25 para. 16](schedule/25/paragraph/16.md)
+  - The Methylated Spirits (Sale by Retail) (Scotland) Act 1937
+    - [Sch. 25 para. 17](schedule/25/paragraph/17.md)
+    - [Sch. 25 para. 18](schedule/25/paragraph/18.md)
+    - [Sch. 25 para. 24](schedule/25/paragraph/24.md)
+  - The Highways (Provision of Cattle-Grids) Act 1950
+    - [Sch. 25 para. 25](schedule/25/paragraph/25.md)
+  - The Pet Animals Act 1951
+    - [Sch. 25 para. 26](schedule/25/paragraph/26.md)
+  - The Food and Drugs (Scotland) Act 1956
+    - [Sch. 25 para. 27](schedule/25/paragraph/27.md)
+    - [Sch. 25 para. 28](schedule/25/paragraph/28.md)
+    - [Sch. 25 para. 29](schedule/25/paragraph/29.md)
+  - The Animal Boarding Establishments Act 1963
+    - [Sch. 25 para. 32](schedule/25/paragraph/32.md)
+  - The Riding Establishments Act 1964
+    - [Sch. 25 para. 33](schedule/25/paragraph/33.md)
+    - [Sch. 25 para. 34](schedule/25/paragraph/34.md)
+    - [Sch. 25 para. 39](schedule/25/paragraph/39.md)
+  - The Countryside (Scotland) Act 1967
+    - [Sch. 25 para. 40](schedule/25/paragraph/40.md)
+  - The Social Work (Scotland) Act 1968
+    - [Sch. 25 para. 41](schedule/25/paragraph/41.md)
+  - The Transport Act 1968
+    - [Sch. 25 para. 42](schedule/25/paragraph/42.md)
+    - [Sch. 25 para. 43](schedule/25/paragraph/43.md)
+    - [Sch. 25 para. 44](schedule/25/paragraph/44.md)
+    - [Sch. 25 para. 45](schedule/25/paragraph/45.md)
+  - The Town and Country Planning (Scotland) Act 1972.
+    - [Sch. 25 para. 46](schedule/25/paragraph/46.md)
+    - [Sch. 25 para. 47](schedule/25/paragraph/47.md)
+    - [Sch. 25 para. 48](schedule/25/paragraph/48.md)
+- Schedule 26 Amendments of the Tweed Fisheries Act 1969
+  - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+  - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+  - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+  - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+  - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+- SCHEDULE 27 Adaptation and Amendment of Enactments
+  - Part I General Adaptation of Enactments
+    - [Sch. 27 Pt. I para. 1](schedule/27/part/I/paragraph/1.md)
+    - [Sch. 27 Pt. I para. 2](schedule/27/part/I/paragraph/2.md)
+  - Part II Minor and Consequential Amendments
+    - The Jury Trials (Scotland) Act 1815
+      - [Sch. 27 Pt. II heading the-jury-trials-scotland-act-1815 para. 1](schedule/27/part/II/crossheading/the-jury-trials-scotland-act-1815/paragraph/1.md)
+    - The Riotous Assemblies (Scotland) Act 1822
+      - [Sch. 27 Pt. II heading the-riotous-assemblies-scotland-act-1822 para. 2](schedule/27/part/II/crossheading/the-riotous-assemblies-scotland-act-1822/paragraph/2.md)
+    - The Jurors (Scotland) Act 1825
+      - [Sch. 27 para. 3](schedule/27/paragraph/3.md)
+      - [Sch. 27 para. 4](schedule/27/paragraph/4.md)
+      - [Sch. 27 para. 5](schedule/27/paragraph/5.md)
+      - [Sch. 27 para. 6](schedule/27/paragraph/6.md)
+      - [Sch. 27 para. 8](schedule/27/paragraph/8.md)
+    - The Court of Session Act 1868
+      - [Sch. 27 para. 9](schedule/27/paragraph/9.md)
+    - The Explosives Act 1875
+      - [Sch. 27 para. 10](schedule/27/paragraph/10.md)
+      - [Sch. 27 para. 11](schedule/27/paragraph/11.md)
+    - The Militia Act 1882
+      - [Sch. 27 para. 12](schedule/27/paragraph/12.md)
+      - [Sch. 27 para. 13](schedule/27/paragraph/13.md)
+      - [Sch. 27 para. 15](schedule/27/paragraph/15.md)
+    - The Allotments (Scotland) Act 1892
+      - [Sch. 27 para. 16](schedule/27/paragraph/16.md)
+      - [Sch. 27 para. 17](schedule/27/paragraph/17.md)
+      - [Sch. 27 para. 18](schedule/27/paragraph/18.md)
+      - [Sch. 27 para. 19](schedule/27/paragraph/19.md)
+      - [Sch. 27 para. 20](schedule/27/paragraph/20.md)
+    - The Local Government (Scotland) Act 1894
+      - [Sch. 27 para. 21](schedule/27/paragraph/21.md)
+      - [Sch. 27 para. 22](schedule/27/paragraph/22.md)
+      - [Sch. 27 para. 23](schedule/27/paragraph/23.md)
+    - The Merchant Shipping Act 1894
+      - [Sch. 27 para. 24](schedule/27/paragraph/24.md)
+      - [Sch. 27 para. 25](schedule/27/paragraph/25.md)
+    - The Public Health (Scotland) Act 1897
+      - [Sch. 27 para. 26](schedule/27/paragraph/26.md)
+      - [Sch. 27 para. 27](schedule/27/paragraph/27.md)
+      - [Sch. 27 para. 28](schedule/27/paragraph/28.md)
+      - [Sch. 27 para. 29](schedule/27/paragraph/29.md)
+      - [Sch. 27 para. 30](schedule/27/paragraph/30.md)
+      - [Sch. 27 para. 31](schedule/27/paragraph/31.md)
+      - [Sch. 27 para. 32](schedule/27/paragraph/32.md)
+      - [Sch. 27 para. 33](schedule/27/paragraph/33.md)
+      - [Sch. 27 para. 34](schedule/27/paragraph/34.md)
+      - [Sch. 27 para. 35](schedule/27/paragraph/35.md)
+      - [Sch. 27 para. 36](schedule/27/paragraph/36.md)
+      - [Sch. 27 para. 37](schedule/27/paragraph/37.md)
+      - [Sch. 27 para. 38](schedule/27/paragraph/38.md)
+      - [Sch. 27 para. 39](schedule/27/paragraph/39.md)
+      - [Sch. 27 para. 40](schedule/27/paragraph/40.md)
+      - [Sch. 27 para. 41](schedule/27/paragraph/41.md)
+      - [Sch. 27 para. 42](schedule/27/paragraph/42.md)
+      - [Sch. 27 para. 43](schedule/27/paragraph/43.md)
+      - [Sch. 27 para. 44](schedule/27/paragraph/44.md)
+      - [Sch. 27 para. 45](schedule/27/paragraph/45.md)
+      - [Sch. 27 para. 46](schedule/27/paragraph/46.md)
+      - [Sch. 27 para. 47](schedule/27/paragraph/47.md)
+      - [Sch. 27 para. 48](schedule/27/paragraph/48.md)
+      - [Sch. 27 para. 49](schedule/27/paragraph/49.md)
+      - [Sch. 27 para. 50](schedule/27/paragraph/50.md)
+    - The Milk and Dairies (Scotland) Act 1914
+      - [Sch. 27 para. 51](schedule/27/paragraph/51.md)
+      - [Sch. 27 para. 52](schedule/27/paragraph/52.md)
+    - The Police, Factories &c. (Miscellaneous Provisions) Act 1916
+      - [Sch. 27 para. 53](schedule/27/paragraph/53.md)
+    - The Land Settlement (Scotland) Act 1919
+      - [Sch. 27 para. 54](schedule/27/paragraph/54.md)
+      - [Sch. 27 para. 55](schedule/27/paragraph/55.md)
+    - The Celluloid and Cinematograph Film Act 1922
+      - [Sch. 27 para. 56](schedule/27/paragraph/56.md)
+      - [Sch. 27 para. 57](schedule/27/paragraph/57.md)
+    - The Allotments (Scotland) Act 1922
+      - [Sch. 27 para. 58](schedule/27/paragraph/58.md)
+      - [Sch. 27 para. 59](schedule/27/paragraph/59.md)
+      - [Sch. 27 para. 60](schedule/27/paragraph/60.md)
+    - The Milk and Dairies (Amendment) Act 1922
+      - [Sch. 27 para. 61](schedule/27/paragraph/61.md)
+      - [Sch. 27 para. 62](schedule/27/paragraph/62.md)
+    - The Church of Scotland (Properly and Endowments) Act 1925
+      - [Sch. 27 para. 63](schedule/27/paragraph/63.md)
+      - [Sch. 27 para. 64](schedule/27/paragraph/64.md)
+      - [Sch. 27 para. 65](schedule/27/paragraph/65.md)
+      - [Sch. 27 para. 66](schedule/27/paragraph/66.md)
+      - [Sch. 27 para. 67](schedule/27/paragraph/67.md)
+      - [Sch. 27 para. 68](schedule/27/paragraph/68.md)
+    - The Agricultural Produce (Grading and Marking) Act 1928
+      - [Sch. 27 para. 69](schedule/27/paragraph/69.md)
+    - The Slaughter of Animals (Scotland) Act 1928
+      - [Sch. 27 para. 70](schedule/27/paragraph/70.md)
+    - The Petroleum (Consolidation) Act 1928
+      - [Sch. 27 para. 71](schedule/27/paragraph/71.md)
+    - The Local Government (Scotland) Act 1929
+      - [Sch. 27 para. 72](schedule/27/paragraph/72.md)
+      - [Sch. 27 para. 73](schedule/27/paragraph/73.md)
+      - [Sch. 27 para. 74](schedule/27/paragraph/74.md)
+      - [Sch. 27 para. 75](schedule/27/paragraph/75.md)
+      - [Sch. 27 para. 76](schedule/27/paragraph/76.md)
+    - The Reservoirs (Safety Provisions) Act 1930
+      - [Sch. 27 para. 77](schedule/27/paragraph/77.md)
+    - The Agricultural Land (Utilisation) Act 1931
+      - [Sch. 27 para. 78](schedule/27/paragraph/78.md)
+    - The Church of Scotland (Property and Endowments) Amendment Act 1933
+      - [Sch. 27 para. 79](schedule/27/paragraph/79.md)
+    - The Private Legislation Procedure (Scotland) Act 1936
+      - [Sch. 27 para. 80](schedule/27/paragraph/80.md)
+    - The Children and Young Persons (Scotland) Act 1937
+      - [Sch. 27 para. 81](schedule/27/paragraph/81.md)
+    - The Air-Raid Precautions Act 1937
+      - [Sch. 27 para. 82](schedule/27/paragraph/82.md)
+    - The Civil Defence Act 1939
+      - [Sch. 27 para. 83](schedule/27/paragraph/83.md)
+    - The Public Health (Scotland) Act 1945
+      - [Sch. 27 para. 84](schedule/27/paragraph/84.md)
+    - The Civic Restaurants Act 1947
+      - [Sch. 27 para. 85](schedule/27/paragraph/85.md)
+      - [Sch. 27 para. 86](schedule/27/paragraph/86.md)
+      - [Sch. 27 para. 87](schedule/27/paragraph/87.md)
+    - The Local Government Act 1948
+      - [Sch. 27 para. 88](schedule/27/paragraph/88.md)
+    - The National Assistance Act 1948
+      - [Sch. 27 para. 89](schedule/27/paragraph/89.md)
+      - [Sch. 27 para. 90](schedule/27/paragraph/90.md)
+      - [Sch. 27 para. 91](schedule/27/paragraph/91.md)
+      - [Sch. 27 para. 92](schedule/27/paragraph/92.md)
+      - [Sch. 27 para. 93](schedule/27/paragraph/93.md)
+      - [Sch. 27 para. 94](schedule/27/paragraph/94.md)
+    - The Civil Defence Act 1948
+      - [Sch. 27 para. 95](schedule/27/paragraph/95.md)
+    - The Finance Act 1949
+      - [Sch. 27 para. 96](schedule/27/paragraph/96.md)
+      - [Sch. 27 para. 97](schedule/27/paragraph/97.md)
+    - The Criminal Justice (Scotland) Act 1949
+      - [Sch. 27 para. 99](schedule/27/paragraph/99.md)
+    - The National Parks and Access to the Countryside Act 1949
+      - [Sch. 27 para. 100](schedule/27/paragraph/100.md)
+      - [Sch. 27 para. 101](schedule/27/paragraph/101.md)
+      - [Sch. 27 para. 102](schedule/27/paragraph/102.md)
+      - [Sch. 27 para. 103](schedule/27/paragraph/103.md)
+      - [Sch. 27 para. 104](schedule/27/paragraph/104.md)
+      - [Sch. 27 para. 105](schedule/27/paragraph/105.md)
+    - The Allotments (Scotland) Act 1950
+      - [Sch. 27 para. 106](schedule/27/paragraph/106.md)
+      - [Sch. 27 para. 107](schedule/27/paragraph/107.md)
+    - The Rag Flock and Other Filling Materials Act 1951
+      - [Sch. 27 para. 108](schedule/27/paragraph/108.md)
+    - The Prisons (Scotland) Act 1952
+      - [Sch. 27 para. 109](schedule/27/paragraph/109.md)
+      - [Sch. 27 para. 110](schedule/27/paragraph/110.md)
+      - [Sch. 27 para. 111](schedule/27/paragraph/111.md)
+    - The Post Office Act 1953
+      - [Sch. 27 para. 112](schedule/27/paragraph/112.md)
+    - The Emergency Laws (Miscellaneous Provisions) Act 1953
+      - [Sch. 27 para. 113](schedule/27/paragraph/113.md)
+      - [Sch. 27 para. 114](schedule/27/paragraph/114.md)
+      - [Sch. 27 para. 115](schedule/27/paragraph/115.md)
+    - The Slaughterhouses Act 1954
+      - [Sch. 27 para. 116](schedule/27/paragraph/116.md)
+    - The Long Leases (Scotland) Act 1954
+      - [Sch. 27 para. 117](schedule/27/paragraph/117.md)
+    - The Army Act 1955
+      - [Sch. 27 para. 118](schedule/27/paragraph/118.md)
+    - The Air Force Act 1955
+      - [Sch. 27 para. 119](schedule/27/paragraph/119.md)
+    - The Crofters (Scotland) Act 1955
+      - [Sch. 27 para. 120](schedule/27/paragraph/120.md)
+    - The Food and Drugs (Scotland) Act 1956
+      - [Sch. 27 para. 121](schedule/27/paragraph/121.md)
+      - [Sch. 27 para. 122](schedule/27/paragraph/122.md)
+      - [Sch. 27 para. 123](schedule/27/paragraph/123.md)
+      - [Sch. 27 para. 124](schedule/27/paragraph/124.md)
+      - [Sch. 27 para. 125](schedule/27/paragraph/125.md)
+      - [Sch. 27 para. 126](schedule/27/paragraph/126.md)
+    - The Agriculture (Safety, Health and Welfare Provisions) Act 1956
+      - [Sch. 27 para. 127](schedule/27/paragraph/127.md)
+    - The Clean Air Act 1956
+      - [Sch. 27 para. 128](schedule/27/paragraph/128.md)
+      - [Sch. 27 para. 129](schedule/27/paragraph/129.md)
+    - The Coal-Mining (Subsidence) Act 1957
+      - [Sch. 27 para. 132](schedule/27/paragraph/132.md)
+    - The Land Drainage (Scotland) Act 1958
+      - [Sch. 27 para. 133](schedule/27/paragraph/133.md)
+    - The Disabled Persons (Employment) Act 1958
+      - [Sch. 27 para. 134](schedule/27/paragraph/134.md)
+      - [Sch. 27 para. 135](schedule/27/paragraph/135.md)
+    - The Matrimonial Proceedings (Children) Act 1958
+      - [Sch. 27 para. 136](schedule/27/paragraph/136.md)
+      - [Sch. 27 para. 137](schedule/27/paragraph/137.md)
+      - [Sch. 27 para. 138](schedule/27/paragraph/138.md)
+    - The Trading Representations (Disabled Persons) Act 1958
+      - [Sch. 27 para. 139](schedule/27/paragraph/139.md)
+      - [Sch. 27 para. 140](schedule/27/paragraph/140.md)
+    - The Opencast Coal Act 1958
+      - [Sch. 27 para. 141](schedule/27/paragraph/141.md)
+    - The Adoption Act 1958
+      - [Sch. 27 para. 142](schedule/27/paragraph/142.md)
+    - The Deer (Scotland) Act 1959
+      - [Sch. 27 para. 143](schedule/27/paragraph/143.md)
+    - The Radioactive Substances Act 1960
+      - [Sch. 27 para. 144](schedule/27/paragraph/144.md)
+    - The Public Bodies (Admission to Meetings) Act 1960
+      - [Sch. 27 para. 145](schedule/27/paragraph/145.md)
+    - The Noise Abatement Act 1960
+      - [Sch. 27 para. 146](schedule/27/paragraph/146.md)
+      - [Sch. 27 para. 147](schedule/27/paragraph/147.md)
+      - [Sch. 27 para. 148](schedule/27/paragraph/148.md)
+      - [Sch. 27 para. 149](schedule/27/paragraph/149.md)
+    - The Flood Prevention (Scotland) Act 1961
+      - [Sch. 27 para. 151](schedule/27/paragraph/151.md)
+    - The Building Societies Act 1962
+      - [Sch. 27 para. 152](schedule/27/paragraph/152.md)
+    - The Local Government (Development and Finance) (Scotland) Act 1964
+      - [Sch. 27 para. 153](schedule/27/paragraph/153.md)
+      - [Sch. 27 para. 154](schedule/27/paragraph/154.md)
+      - [Sch. 27 para. 155](schedule/27/paragraph/155.md)
+      - [Sch. 27 para. 156](schedule/27/paragraph/156.md)
+    - The Gas Act 1965
+      - [Sch. 27 para. 158](schedule/27/paragraph/158.md)
+      - [Sch. 27 para. 159](schedule/27/paragraph/159.md)
+    - The Highlands and Islands Development (Scotland) Act 1965
+      - [Sch. 27 para. 160](schedule/27/paragraph/160.md)
+      - [Sch. 27 para. 161](schedule/27/paragraph/161.md)
+      - [Sch. 27 para. 162](schedule/27/paragraph/162.md)
+      - [Sch. 27 para. 163](schedule/27/paragraph/163.md)
+    - The Local Government (Scotland) Act 1966
+      - [Sch. 27 para. 164](schedule/27/paragraph/164.md)
+      - [Sch. 27 para. 165](schedule/27/paragraph/165.md)
+    - The Forestry Act 1967
+      - [Sch. 27 para. 166](schedule/27/paragraph/166.md)
+    - The Slaughter of Poultry Act 1967
+      - [Sch. 27 para. 167](schedule/27/paragraph/167.md)
+      - [Sch. 27 para. 168](schedule/27/paragraph/168.md)
+      - [Sch. 27 para. 169](schedule/27/paragraph/169.md)
+    - The Countryside (Scotland) Act 1967
+      - [Sch. 27 para. 171](schedule/27/paragraph/171.md)
+      - [Sch. 27 para. 172](schedule/27/paragraph/172.md)
+    - The Capital Allowances Act 1968
+      - [Sch. 27 para. 173](schedule/27/paragraph/173.md)
+    - The Trade Descriptions Act 1968
+      - [Sch. 27 para. 174](schedule/27/paragraph/174.md)
+    - The Health Services and Public Health Act 1968
+      - [Sch. 27 para. 175](schedule/27/paragraph/175.md)
+      - [Sch. 27 para. 176](schedule/27/paragraph/176.md)
+      - [Sch. 27 para. 177](schedule/27/paragraph/177.md)
+      - [Sch. 27 para. 178](schedule/27/paragraph/178.md)
+    - The Sewerage (Scotland) Act 1968
+      - [Sch. 27 para. 179](schedule/27/paragraph/179.md)
+      - [Sch. 27 para. 180](schedule/27/paragraph/180.md)
+      - [Sch. 27 para. 181](schedule/27/paragraph/181.md)
+      - [Sch. 27 para. 182](schedule/27/paragraph/182.md)
+    - The Social Work (Scotland) Act 1968
+      - [Sch. 27 para. 183](schedule/27/paragraph/183.md)
+      - [Sch. 27 para. 184](schedule/27/paragraph/184.md)
+      - [Sch. 27 para. 185](schedule/27/paragraph/185.md)
+      - [Sch. 27 para. 186](schedule/27/paragraph/186.md)
+      - [Sch. 27 para. 187](schedule/27/paragraph/187.md)
+      - [Sch. 27 para. 188](schedule/27/paragraph/188.md)
+    - The Medicines Act 1968
+      - [Sch. 27 para. 191](schedule/27/paragraph/191.md)
+    - The Mines and Quarries (Tips) Act 1969
+      - [Sch. 27 para. 192](schedule/27/paragraph/192.md)
+    - The Post Office Act 1969
+      - [Sch. 27 para. 193](schedule/27/paragraph/193.md)
+    - The Development of Tourism Act 1969
+      - [Sch. 27 para. 194](schedule/27/paragraph/194.md)
+    - The Local Authorities (Goods and Services) Act 1970
+      - [Sch. 27 para. 195](schedule/27/paragraph/195.md)
+      - [Sch. 27 para. 196](schedule/27/paragraph/196.md)
+    - The Agriculture Act 1970
+      - [Sch. 27 para. 197](schedule/27/paragraph/197.md)
+      - [Sch. 27 para. 198](schedule/27/paragraph/198.md)
+      - [Sch. 27 para. 199](schedule/27/paragraph/199.md)
+    - The Fire Precautions Act 1971
+      - [Sch. 27 para. 200](schedule/27/paragraph/200.md)
+      - [Sch. 27 para. 201](schedule/27/paragraph/201.md)
+    - The Island of Rockall Act 1972
+      - [Sch. 27 para. 202](schedule/27/paragraph/202.md)
+    - The National Health Service (Scotland) Act 1972
+      - [Sch. 27 para. 203](schedule/27/paragraph/203.md)
+    - The Gas Act 1972
+      - [Sch. 27 para. 204](schedule/27/paragraph/204.md)
+    - The Agriculture (Miscellaneous Provisions) Act 1972
+      - [Sch. 27 para. 205](schedule/27/paragraph/205.md)
+      - [Sch. 27 para. 206](schedule/27/paragraph/206.md)
+      - [Sch. 27 para. 207](schedule/27/paragraph/207.md)
+    - The Employment Agencies Act 1973
+      - [Sch. 27 para. 208](schedule/27/paragraph/208.md)
+    - The Hallmarking Act 1973
+      - [Sch. 27 para. 209](schedule/27/paragraph/209.md)
+    - The Badgers Act 1973
+      - [Sch. 27 para. 210](schedule/27/paragraph/210.md)
+    - The Breeding of Dogs Act 1973
+      - [Sch. 27 para. 211](schedule/27/paragraph/211.md)
+- Schedule 28
+  - Part I The Burgh Police (Scotland) Act 1892
+    - [Sch. 28 para. 1](schedule/28/paragraph/1.md)
+    - [Sch. 28 para. 2](schedule/28/paragraph/2.md)
+    - [Sch. 28 para. 3](schedule/28/paragraph/3.md)
+    - [Sch. 28 para. 4](schedule/28/paragraph/4.md)
+    - [Sch. 28 para. 5](schedule/28/paragraph/5.md)
+    - [Sch. 28 para. 6](schedule/28/paragraph/6.md)
+    - [Sch. 28 para. 7](schedule/28/paragraph/7.md)
+    - [Sch. 28 para. 8](schedule/28/paragraph/8.md)
+    - [Sch. 28 para. 9](schedule/28/paragraph/9.md)
+    - [Sch. 28 para. 10](schedule/28/paragraph/10.md)
+    - [Sch. 28 para. 11](schedule/28/paragraph/11.md)
+    - [Sch. 28 para. 12](schedule/28/paragraph/12.md)
+    - [Sch. 28 para. 13](schedule/28/paragraph/13.md)
+    - [Sch. 28 para. 14](schedule/28/paragraph/14.md)
+    - [Sch. 28 para. 15](schedule/28/paragraph/15.md)
+    - [Sch. 28 para. 16](schedule/28/paragraph/16.md)
+    - [Sch. 28 para. 17](schedule/28/paragraph/17.md)
+    - [Sch. 28 para. 18](schedule/28/paragraph/18.md)
+    - [Sch. 28 para. 19](schedule/28/paragraph/19.md)
+    - [Sch. 28 para. 20](schedule/28/paragraph/20.md)
+    - [Sch. 28 para. 21](schedule/28/paragraph/21.md)
+    - [Sch. 28 para. 22](schedule/28/paragraph/22.md)
+    - [Sch. 28 para. 23](schedule/28/paragraph/23.md)
+    - [Sch. 28 para. 24](schedule/28/paragraph/24.md)
+    - [Sch. 28 para. 25](schedule/28/paragraph/25.md)
+    - [Sch. 28 para. 26](schedule/28/paragraph/26.md)
+    - [Sch. 28 para. 27](schedule/28/paragraph/27.md)
+    - [Sch. 28 para. 28](schedule/28/paragraph/28.md)
+    - [Sch. 28 para. 29](schedule/28/paragraph/29.md)
+    - [Sch. 28 para. 30](schedule/28/paragraph/30.md)
+    - [Sch. 28 para. 31](schedule/28/paragraph/31.md)
+    - [Sch. 28 para. 32](schedule/28/paragraph/32.md)
+    - [Sch. 28 para. 33](schedule/28/paragraph/33.md)
+    - [Sch. 28 para. 34](schedule/28/paragraph/34.md)
+    - [Sch. 28 para. 35](schedule/28/paragraph/35.md)
+    - [Sch. 28 para. 36](schedule/28/paragraph/36.md)
+    - [Sch. 28 para. 37](schedule/28/paragraph/37.md)
+    - [Sch. 28 para. 38](schedule/28/paragraph/38.md)
+    - [Sch. 28 para. 39 ................................](schedule/28/paragraph/39.md)
+    - [Sch. 28 para. 40](schedule/28/paragraph/40.md)
+    - [Sch. 28 para. 41](schedule/28/paragraph/41.md)
+    - [Sch. 28 para. 42](schedule/28/paragraph/42.md)
+    - [Sch. 28 para. 43](schedule/28/paragraph/43.md)
+    - [Sch. 28 para. 44](schedule/28/paragraph/44.md)
+    - [Sch. 28 para. 45](schedule/28/paragraph/45.md)
+    - [Sch. 28 para. 46](schedule/28/paragraph/46.md)
+    - [Sch. 28 para. 47](schedule/28/paragraph/47.md)
+    - [Sch. 28 para. 48](schedule/28/paragraph/48.md)
+    - [Sch. 28 para. 49](schedule/28/paragraph/49.md)
+    - [Sch. 28 para. 50](schedule/28/paragraph/50.md)
+    - [Sch. 28 para. 51](schedule/28/paragraph/51.md)
+    - [Sch. 28 para. 52](schedule/28/paragraph/52.md)
+    - [Sch. 28 para. 53](schedule/28/paragraph/53.md)
+    - [Sch. 28 para. 54](schedule/28/paragraph/54.md)
+    - [Sch. 28 para. 55](schedule/28/paragraph/55.md)
+    - [Sch. 28 para. 56](schedule/28/paragraph/56.md)
+    - [Sch. 28 para. 57](schedule/28/paragraph/57.md)
+    - [Sch. 28 para. 58](schedule/28/paragraph/58.md)
+    - [Sch. 28 para. 59](schedule/28/paragraph/59.md)
+    - [Sch. 28 para. 60](schedule/28/paragraph/60.md)
+  - Part II The Burgh Police (Scotland) Act 1903
+    - [Sch. 28 para. 61](schedule/28/paragraph/61.md)
+    - [Sch. 28 para. 62](schedule/28/paragraph/62.md)
+    - [Sch. 28 para. 63](schedule/28/paragraph/63.md)
+    - [Sch. 28 para. 64](schedule/28/paragraph/64.md)
+    - [Sch. 28 para. 65](schedule/28/paragraph/65.md)
+    - [Sch. 28 para. 66](schedule/28/paragraph/66.md)
+    - [Sch. 28 para. 67](schedule/28/paragraph/67.md)
+    - [Sch. 28 para. 68](schedule/28/paragraph/68.md)
+    - [Sch. 28 para. 69](schedule/28/paragraph/69.md)
+    - [Sch. 28 para. 70](schedule/28/paragraph/70.md)
+    - [Sch. 28 para. 71](schedule/28/paragraph/71.md)
+    - [Sch. 28 para. 72](schedule/28/paragraph/72.md)
+    - [Sch. 28 para. 73](schedule/28/paragraph/73.md)
+    - [Sch. 28 para. 74](schedule/28/paragraph/74.md)
+    - [Sch. 28 para. 75](schedule/28/paragraph/75.md)
+    - [Sch. 28 para. 76](schedule/28/paragraph/76.md)
+    - [Sch. 28 para. 77](schedule/28/paragraph/77.md)
+    - [Sch. 28 para. 78](schedule/28/paragraph/78.md)
+    - [Sch. 28 para. 79](schedule/28/paragraph/79.md)
+    - [Sch. 28 para. 80](schedule/28/paragraph/80.md)
+    - [Sch. 28 para. 81](schedule/28/paragraph/81.md)
+    - [Sch. 28 para. 82](schedule/28/paragraph/82.md)
+    - [Sch. 28 para. 83](schedule/28/paragraph/83.md)
+    - [Sch. 28 para. 84](schedule/28/paragraph/84.md)
+    - [Sch. 28 para. 85](schedule/28/paragraph/85.md)
+    - [Sch. 28 para. 86](schedule/28/paragraph/86.md)
+    - [Sch. 28 para. 87](schedule/28/paragraph/87.md)
+    - [Sch. 28 para. 88](schedule/28/paragraph/88.md)
+    - [Sch. 28 para. 89](schedule/28/paragraph/89.md)
+    - [Sch. 28 para. 90](schedule/28/paragraph/90.md)
+    - [Sch. 28 para. 91](schedule/28/paragraph/91.md)
+  - Part III The Burgh Ploice (Scotland) Amendment Act 1911
+    - [Sch. 28 para. 92](schedule/28/paragraph/92.md)
+    - [Sch. 28 para. 93](schedule/28/paragraph/93.md)
+    - [Sch. 28 para. 94](schedule/28/paragraph/94.md)
+- Schedule 29 Repeals
