@@ -2,12 +2,22 @@
 
 2017 c. 29. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-08-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-01, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/29` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/29/2024-08-01
+Source: https://www.legislation.gov.uk/ukpga/2017/29/2025-08-01
 
 ## Contents
 
+- PART A1 Protection of Freedom of Speech
+  - Duties of registered higher education providers
+    - [s. A1 Duty to take steps to secure freedom of speech](section/A1.md)
+    - [s. A2 Code of practice](section/A2.md)
+    - [s. A3 Duty to promote the importance of freedom of speech and academic freedom](section/A3.md)
+  - Duties of constituent institutions
+    - [s. A4 Duties of constituent institutions](section/A4.md)
+  - Duties of students’ unions
+    - [s. A5 Duty to take steps to secure freedom of speech](section/A5.md)
+    - [s. A6 Code of practice](section/A6.md)
 - Part 1 The Office for Students
   - Establishment of the Office for Students
     - [s. 1 The Office for Students](section/1.md)
@@ -53,7 +63,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2024-08-01
     - [s. 33 Variation of a plan](section/33.md)
     - [s. 34 Review of decisions on approval or variation](section/34.md)
     - [s. 35 Advice on good practice](section/35.md)
-    - [s. 36 Duty to protect academic freedom](section/36.md)
+    - [s. 36 Duty to protect institutional autonomy](section/36.md)
     - [s. 37 Power of Secretary of State to require a report](section/37.md)
   - Student transfers
     - [s. 38 Duty to monitor etc the provision of arrangements for student transfers](section/38.md)
@@ -101,6 +111,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/29/2024-08-01
     - [s. 68 Duty to monitor and report on financial sustainability](section/68.md)
   - Efficiency studies etc
     - [s. 69 Studies for improving economy, efficiency and effectiveness](section/69.md)
+  - Freedom of speech
+    - [s. 69A General functions relating to freedom of speech and academic freedom](section/69A.md)
     - [s. 69B Functions of the OfS in relation to students’ unions](section/69B.md)
     - [s. 69D Overseas funding: registered higher education providers](section/69D.md)
     - [s. 69E Overseas funding: students’ unions](section/69E.md)
