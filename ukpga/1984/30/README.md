@@ -1,0 +1,239 @@
+# Food Act 1984
+
+1984 c. 30. Enacted 1984-06-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1984/30/2025-08-18
+
+## Contents
+
+- Part I Food Generally
+  - Composition and labelling of food
+    - [s. 1 Offences as to preparation and sale of injurious foods.](section/1.md)
+    - [s. 2 General protection for purchasers of food.](section/2.md)
+    - [s. 3 Defences in proceedings under s. 2.](section/3.md)
+    - [s. 4 Regulations as to composition of food etc.](section/4.md)
+    - [s. 5 Ministers’ power to obtain particulars of ingredients.](section/5.md)
+    - [s. 6 Food falsely described.](section/6.md)
+    - [s. 7 Regulations as to describing food.](section/7.md)
+  - Food unfit for human consumption
+    - [s. 8 Sale etc. of unfit food.](section/8.md)
+    - [s. 9 Examination and seizure of suspected food.](section/9.md)
+    - [s. 10 Food as prizes etc.](section/10.md)
+    - [s. 11 Food in transit.](section/11.md)
+    - [s. 12 Products of knackers’ yards.](section/12.md)
+  - Hygiene
+    - [s. 13 Regulations as to food hygiene.](section/13.md)
+    - [s. 14 Court’s power to disqualify caterer.](section/14.md)
+    - [s. 15 Byelaws as to food.](section/15.md)
+  - Registration of premises and licensing of vehicles
+    - [s. 16 Registration: ice-cream, sausages etc.](section/16.md)
+    - [s. 17 Extension of s. 16 to other businesses.](section/17.md)
+    - [s. 18 Application for registration.](section/18.md)
+    - [s. 19 Refusal or cancellation of registration.](section/19.md)
+    - [s. 20 Regulations for licensing vehicles, stalls etc.](section/20.md)
+  - Control of food premises
+    - [s. 21 Closure order.](section/21.md)
+    - [s. 22 Emergency order.](section/22.md)
+    - [s. 23 Compensation.](section/23.md)
+    - [s. 24 Appeals.](section/24.md)
+    - [s. 25 Offences against food premises control.](section/25.md)
+    - [s. 26 Ships.](section/26.md)
+  - Ice-cream, horseflesh and shellfish
+    - [s. 27 Sale of ice-cream from stalls etc.](section/27.md)
+    - [s. 28 Prevention of spread of disease by ice-cream.](section/28.md)
+    - [s. 29 Sale of horseflesh.](section/29.md)
+    - [s. 30 Cleansing of shellfish.](section/30.md)
+  - Food poisoning
+    - [s. 31 Inspection and control of infected food.](section/31.md)
+- Part II Milk, Dairies and Cream Substitutes
+  - Milk and dairies
+    - [s. 32 Meaning of “dairy”, “dairy farm” etc.](section/32.md)
+    - [s. 33 Milk and Dairies Regulations.](section/33.md)
+    - [s. 34 Registration.](section/34.md)
+    - [s. 35 Sale of milk from diseased cows.](section/35.md)
+    - [s. 36 Adulteration.](section/36.md)
+    - [s. 37 Appointment of veterinary inspectors.](section/37.md)
+  - Special designations of milk, and their use
+    - [s. 38 Milk (Special Designation) Regulations.](section/38.md)
+    - [s. 39 Restrictions.](section/39.md)
+  - Compulsory use of special designations in specified areas, and licences for specified areas
+    - [s. 40 Special designations: retail sales.](section/40.md)
+    - [s. 41 Special designations: catering.](section/41.md)
+    - [s. 42 Special designations: exemption.](section/42.md)
+    - [s. 43 Specified areas.](section/43.md)
+    - [s. 44 Milk processing facilities.](section/44.md)
+    - [s. 45 Breach of retailer’s licence.](section/45.md)
+    - [s. 46 Restriction on liability under s. 45.](section/46.md)
+    - [s. 47 Interpretation of ss. 39 to 46.](section/47.md)
+  - Cream substitutes
+    - [s. 48 Misuse of designation “cream”.](section/48.md)
+    - [s. 49 Reconstituted cream.](section/49.md)
+- Part III Markets
+  - [s. 50 Establishment or acquisition.](section/50.md)
+  - [s. 51 Power to sell to local authority.](section/51.md)
+  - [s. 52 Market days and hours.](section/52.md)
+  - [s. 53 Charges.](section/53.md)
+  - [s. 54 Time for payment of charges.](section/54.md)
+  - [s. 55 Recovery of charges.](section/55.md)
+  - [s. 56 Prohibited sales in market hours.](section/56.md)
+  - [s. 57 Weighing machines and scales.](section/57.md)
+  - [s. 57A Provision of cold stores.](section/57A.md)
+  - [s. 58](section/58.md)
+  - [s. 59 Information for market officer.](section/59.md)
+  - [s. 60 Market byelaws.](section/60.md)
+  - [s. 61 Interpretation of Part III, and exclusion of City of London.](section/61.md)
+- Part IV
+  - [s. 62 ................................](section/62.md)
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 ................................](section/64.md)
+  - [s. 65 ................................](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 ................................](section/67.md)
+- Part V Sugar Beet and Cold Storage
+  - Ministerial functions as to sugar beet
+    - [s. 68 Research and education.](section/68.md)
+    - [s. 69 Crop price.](section/69.md)
+    - [s. 69A Information.](section/69A.md)
+  - Cold storage
+    - [s. 70 Provision of cold storage.](section/70.md)
+- Part VI Administration, Enforcement and Legal Proceedings
+  - Administration
+    - [s. 71 Food and drugs authorities.](section/71.md)
+    - [s. 72 Local authorities for purposes of this Act.](section/72.md)
+    - [s. 73 Meaning of “authorised officer”.](section/73.md)
+    - [s. 74 Duty to enforce.](section/74.md)
+    - [s. 75 Joint boards.](section/75.md)
+  - Sampling and analysis
+    - [s. 76 Public analysts.](section/76.md)
+    - [s. 77 Facilities for examination.](section/77.md)
+    - [s. 78 Powers of sampling.](section/78.md)
+    - [s. 79 Right to have samples analysed.](section/79.md)
+    - [s. 80 Samples taken for analysis.](section/80.md)
+    - [s. 81 Sampling of milk.](section/81.md)
+    - [s. 82 Sampling powers of Minister’s inspectors.](section/82.md)
+    - [s. 83 Minister’s power of direction.](section/83.md)
+    - [s. 84 Where division not practicable.](section/84.md)
+    - [s. 85 Examination of food not for sale.](section/85.md)
+    - [s. 86 Quarterly reports of analysts.](section/86.md)
+  - Enforcement
+    - [s. 87 Power to enter premises.](section/87.md)
+    - [s. 88 Additional power of entry.](section/88.md)
+    - [s. 89 Powers of entry of Ministers’ officers.](section/89.md)
+    - [s. 90 Movement of imported food.](section/90.md)
+    - [s. 91 Obstruction.](section/91.md)
+  - Legal proceedings
+    - [s. 92 Offences triable either way.](section/92.md)
+    - [s. 93 Summary offences.](section/93.md)
+    - [s. 94 Offences by corporations.](section/94.md)
+    - [s. 95 Prosecutions.](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 Evidence of analysis.](section/97.md)
+    - [s. 98 ................................](section/98.md)
+- Part VII General and Supplemental
+  - Acquisition of land, and order to permit works
+    - [s. 110 Compulsory purchase of land.](section/110.md)
+    - [s. 111 Order to occupier to permit works.](section/111.md)
+  - Inquiries, and default
+    - [s. 112 Local Inquiries.](section/112.md)
+    - [s. 113 Default: local authorities etc.](section/113.md)
+    - [s. 114 Default: food and drugs authorities.](section/114.md)
+    - [s. 115 Expenses under ss. 113 and 114.](section/115.md)
+  - Protection
+    - [s. 116 Officer acting in good faith.](section/116.md)
+    - [s. 117 Liability to rates no disqualification.](section/117.md)
+  - Subordinate legislation
+    - [s. 118 Certain regulations and orders.](section/118.md)
+    - [s. 119 Community provisions.](section/119.md)
+    - [s. 120 Statutory instruments.](section/120.md)
+    - [s. 121 Byelaws.](section/121.md)
+    - [s. 122 ................................](section/122.md)
+  - Interpretation and operation
+    - [s. 131 ................................](section/131.md)
+    - [s. 132 Interpretation: further provision.](section/132.md)
+    - [s. 133 Application to Crown.](section/133.md)
+    - [s. 134 ................................](section/134.md)
+    - [s. 135 Northern Ireland.](section/135.md)
+    - [s. 136 Citation, extent and commencement.](section/136.md)
+- SCHEDULES 1–8
+- SCHEDULE 9 Transitional and Saving Provisions
+  - Time running
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Section 41(1) Food and Drugs Act1955 c. 16. (4 & 5 Eliz. 2)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Local Acts
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Public Health (Shell-Fish) Regulations S.R. & O. 1934/1342
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Orders under Defence (Sale of Food) Regulations S.R. & O. 1943/1553
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Sugar Act 1956
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Sections 252 and 254 Local Government Act 1972
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Consequential Amendments
+  - City of London (Various Powers) Act 1959
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - London County Council (General Powers) Act 1959
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Public Health Act 1961
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Weights and Measures Act 1963
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - London Government Act 1963
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Agriculture Act 1967
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Farm and Garden Chemicals Act 1967
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Trade Descriptions Act 1968
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Health Services and Public Health Act 1968
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Medicines Act 1968
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Transport Act 1968
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Tribunals and Inquiries Act 1971
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Road Traffic Act 1972
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Greater London Council (General Powers) Act 1972
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Poisons Act 1972
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Local Government Act 1972
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - Greater London Council (General Powers) Act 1973
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+  - National Health Service Reorganisation Act 1973
+    - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+  - Slaughterhouses Act 1974
+    - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+  - Weights and Measures etc. Act 1976
+    - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+  - City of London (Various Powers) Act 1977
+    - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - Consumer Safety Act 1978
+    - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+  - Hydrocarbon Oil Duties Act 1979
+    - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+  - Local Government (Miscellaneous Provisions) Act 1982
+    - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+  - Public Health (Control of Disease) Act 1984
+    - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+- SCHEDULE 11 Repeals and Revocations
+- TABLE OF DERIVATIONS
