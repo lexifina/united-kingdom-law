@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-06-19, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-19, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-06-19
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
 
 ## Contents
 
@@ -75,6 +75,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-06-19
     - [s. 38 The fourth data protection principle](section/38.md)
     - [s. 39 The fifth data protection principle](section/39.md)
     - [s. 40 The sixth data protection principle](section/40.md)
+    - [s. 40A Conditions for consent](section/40A.md)
     - [s. 41 Safeguards: archiving](section/41.md)
     - [s. 42 Safeguards: sensitive processing](section/42.md)
     - [s. 42A Further provision about sensitive processing](section/42A.md)
@@ -237,6 +238,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-06-19
     - [s. 139 Reporting to Parliament](section/139.md)
     - [s. 140 Publication by the Commissioner](section/140.md)
     - [s. 141 Notices from the Commissioner](section/141.md)
+    - [s. 141A Notices from the Commissioner](section/141A.md)
 - PART 6 Enforcement
   - Information notices
     - [s. 142 Information notices](section/142.md)
