@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-19, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-20
 
 ## Contents
 
@@ -125,6 +125,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
       - [s. 69 Designation of a data protection officer](section/69.md)
       - [s. 70 Position of data protection officer](section/70.md)
       - [s. 71 Tasks of data protection officer](section/71.md)
+    - Codes of conduct
+      - [s. 71A Codes of conduct](section/71A.md)
   - CHAPTER 5 Transfers of personal data to third countries etc
     - Overview and interpretation
       - [s. 72 Overview and interpretation](section/72.md)
@@ -198,6 +200,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
 - PART 5 The Information Commissioner
   - The Commissioner
     - [s. 114 The Information Commissioner](section/114.md)
+  - The Information Commission
+    - [s. 114A The Information Commission](section/114A.md)
   - General functions
     - [s. 115 General functions under the UK GDPR and safeguards](section/115.md)
     - [s. 116 Other general functions](section/116.md)
@@ -207,6 +211,11 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
     - [s. 119 Inspection of personal data in accordance with international obligations](section/119.md)
     - [s. 119A Standard clauses for transfers to third countries etc](section/119A.md)
     - [s. 120 Further international role](section/120.md)
+  - Duties in carrying out functions
+    - [s. 120A Principal objective](section/120A.md)
+    - [s. 120B Duties in relation to functions under the data protection legislation](section/120B.md)
+    - [s. 120C Strategy](section/120C.md)
+    - [s. 120D Duty to consult other regulators](section/120D.md)
   - Codes of practice
     - [s. 121 Data-sharing code](section/121.md)
     - [s. 122 Direct marketing code](section/122.md)
@@ -236,9 +245,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
     - [s. 138 Regulations under section 137: supplementary](section/138.md)
   - Reports etc
     - [s. 139 Reporting to Parliament](section/139.md)
+    - [s. 139A Analysis of performance](section/139A.md)
+  - Documents and notices
     - [s. 140 Publication by the Commissioner](section/140.md)
     - [s. 141 Notices from the Commissioner](section/141.md)
-    - [s. 141A Notices from the Commissioner](section/141A.md)
 - PART 6 Enforcement
   - Information notices
     - [s. 142 Information notices](section/142.md)
@@ -264,9 +274,10 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
     - [s. 157 Maximum amount of penalty](section/157.md)
     - [s. 158 Fixed penalties for non-compliance with charges regulations](section/158.md)
     - [s. 159 Amount of penalties: supplementary](section/159.md)
-  - Guidance
+  - Guidance and report
     - [s. 160 Guidance about regulatory action](section/160.md)
     - [s. 161 Approval of first guidance about regulatory action](section/161.md)
+    - [s. 161A Annual report on regulatory action](section/161A.md)
   - Appeals etc
     - [s. 162 Rights of appeal](section/162.md)
     - [s. 163 Determination of appeals](section/163.md)
@@ -292,8 +303,9 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
     - [s. 177 Guidance about how to seek redress against media organisations](section/177.md)
     - [s. 178 Review of processing of personal data for the purposes of journalism](section/178.md)
     - [s. 179 Effectiveness of the media’s dispute resolution procedures](section/179.md)
-  - Jurisdiction of courts
+  - Jurisdiction and court procedure
     - [s. 180 Jurisdiction](section/180.md)
+    - [s. 180A Procedure in connection with subject access requests](section/180A.md)
   - Definitions
     - [s. 181 Interpretation of Part 6](section/181.md)
 - PART 7 Supplementary and final provision
@@ -301,11 +313,13 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
     - [s. 182 Regulations and consultation](section/182.md)
   - Changes to the Data Protection Convention
     - [s. 183 Power to reflect changes to the Data Protection Convention](section/183.md)
+  - Prohibitions and restrictions etc on processing
+    - [s. 183A Protection of prohibitions and restrictions etc on processing: relevant enactments](section/183A.md)
     - [s. 183B Protection of prohibitions and restrictions etc on processing: other enactments](section/183B.md)
   - Rights of the data subject
     - [s. 184 Prohibition of requirement to produce relevant records](section/184.md)
     - [s. 185 Avoidance of certain contractual terms relating to health records](section/185.md)
-    - [s. 186 Data subject’s rights and other prohibitions and restrictions](section/186.md)
+    - [s. 186 Protection of data subject’s rights](section/186.md)
     - [s. 186A Protection of data subject’s rights: further provision](section/186A.md)
   - Representation of data subjects
     - [s. 187 Representation of data subjects with their authority](section/187.md)
@@ -345,6 +359,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-19
     - [s. 213 Transitional provision](section/213.md)
     - [s. 214 Extent](section/214.md)
     - [s. 215 Short title](section/215.md)
+- Schedule A1 Processing in reliance on relevant international law
 - SCHEDULE 1 Special categories of personal data and criminal convictions etc data
   - PART 1 Conditions relating to employment, health and research etc
     - Employment, social security and social protection
