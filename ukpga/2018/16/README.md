@@ -1,0 +1,413 @@
+# European Union (Withdrawal) Act 2018
+
+2018 c. 16. Enacted 2018-06-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
+
+## Contents
+
+- Repeal of the ECA
+  - [s. 1 Repeal of the European Communities Act 1972](section/1.md)
+- Savings for implementation period
+  - [s. 1A Saving for ECA for implementation period](section/1A.md)
+  - [s. 1B Saving for EU-derived domestic legislation for implementation period](section/1B.md)
+- Retention of saved EU law at end of implementation period
+  - [s. 2 Saving for EU-derived domestic legislation](section/2.md)
+  - [s. 3 Incorporation of direct EU legislation](section/3.md)
+  - [s. 4 Saving for rights etc. under section 2(1) of the ECA](section/4.md)
+  - [s. 5 Exceptions to savings and incorporation](section/5.md)
+  - [s. 5A Savings and incorporation: supplementary](section/5A.md)
+  - [s. 6 Interpretation of assimilated law](section/6.md)
+  - [s. 6D Incompatibility orders](section/6D.md)
+  - [s. 7 Status of assimilated law](section/7.md)
+- Further aspects of withdrawal
+  - [s. 7A General implementation of remainder of withdrawal agreement](section/7A.md)
+  - [s. 7B General implementation of EEA EFTA and Swiss agreements](section/7B.md)
+  - [s. 7C Interpretation of relevant separation agreement law](section/7C.md)
+- Main powers in connection with withdrawal
+  - [s. 8 Dealing with deficiencies arising from withdrawal](section/8.md)
+  - [s. 8A Supplementary power in connection with implementation period](section/8A.md)
+  - [s. 8B Power in connection with certain other separation issues](section/8B.md)
+  - [s. 8C Power in connection with Ireland/Northern Ireland Protocol in withdrawal agreement](section/8C.md)
+  - [s. 9 Implementing the withdrawal agreement](section/9.md)
+- Devolution
+  - [s. 10 Protection for North-South co-operation and ... prevention of new border arrangements](section/10.md)
+  - [s. 11 Powers involving devolved authorities corresponding to sections 8 to 8C](section/11.md)
+  - [s. 12 Retaining EU restrictions in devolution legislation etc.](section/12.md)
+- Parliamentary oversight of withdrawal
+  - [s. 13 Parliamentary approval of the outcome of negotiations with the EU](section/13.md)
+  - [s. 13A Review of EU legislation during implementation period](section/13A.md)
+  - [s. 13B Certain dispute procedures under withdrawal agreement](section/13B.md)
+  - [s. 13C Bills affecting trade between Northern Ireland and other parts of the United Kingdom](section/13C.md)
+- Financial and other matters
+  - [s. 14 Financial provision](section/14.md)
+  - [s. 15 Publication and rules of evidence](section/15.md)
+  - [s. 15A Prohibition on extending implementation period](section/15A.md)
+  - [s. 15B Ministerial co-chairs of the Joint Committee](section/15B.md)
+  - [s. 15C No use of written procedure in the Joint Committee](section/15C.md)
+  - [s. 16 Maintenance of environmental principles etc.](section/16.md)
+  - [s. 17 Family unity for those seeking asylum or other protection in Europe](section/17.md)
+  - [s. 18 Customs arrangement as part of the framework for the future relationship](section/18.md)
+  - [s. 19 Future interaction with the law and agencies of the EU](section/19.md)
+- General and final provision
+  - [s. 20 Interpretation](section/20.md)
+  - [s. 21 Index of defined expressions](section/21.md)
+  - [s. 22 Regulations](section/22.md)
+  - [s. 23 Consequential and transitional provision](section/23.md)
+  - [s. 24 Extent](section/24.md)
+  - [s. 25 Commencement and short title](section/25.md)
+- SCHEDULE 1 Further provision about exceptions to savings and incorporation
+  - Challenges to validity of assimilated law
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - ...
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Rule in Francovich
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Interpretation
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Corresponding powers involving devolved authorities
+  - Part 1 Dealing with deficiencies arising from withdrawal
+    - Power to deal with deficiencies
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - No power to make provision outside devolved competence
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - ...
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Requirement for consultation in certain circumstances
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Requirement for consent where it would otherwise be required
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Requirement for joint exercise where it would otherwise be required
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Requirement for consultation where it would otherwise be required
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Meaning of devolved competence: Part 1
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - PART 1A Provision in connection with implementation period
+    - [Sch. 2 para. 11A Supplementary power in connection with implementation period](schedule/2/paragraph/11A.md)
+    - [Sch. 2 para. 11B No power to make provision outside devolved competence](schedule/2/paragraph/11B.md)
+    - [Sch. 2 para. 11C Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11C.md)
+    - [Sch. 2 para. 11D Meaning of devolved competence: Part 1A](schedule/2/paragraph/11D.md)
+    - [Sch. 2 para. 11E Meaning of devolved competence: Part 1A](schedule/2/paragraph/11E.md)
+    - [Sch. 2 para. 11F Meaning of devolved competence: Part 1A](schedule/2/paragraph/11F.md)
+  - PART 1B Provision in connection with certain other separation issues
+    - [Sch. 2 para. 11G Powers in connection with Part 3 of withdrawal agreement and EEA EFTA separation agreement](schedule/2/paragraph/11G.md)
+    - [Sch. 2 para. 11H No power to make provision outside devolved competence](schedule/2/paragraph/11H.md)
+    - [Sch. 2 para. 11I Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11I.md)
+    - [Sch. 2 para. 11J Meaning of devolved competence: Part 1B](schedule/2/paragraph/11J.md)
+    - [Sch. 2 para. 11K Meaning of devolved competence: Part 1B](schedule/2/paragraph/11K.md)
+    - [Sch. 2 para. 11L Meaning of devolved competence: Part 1B](schedule/2/paragraph/11L.md)
+  - PART 1C Provision in connection with Protocol on Ireland/Northern Ireland
+    - [Sch. 2 para. 11M Power in connection with Protocol on Ireland/Northern Ireland](schedule/2/paragraph/11M.md)
+    - [Sch. 2 para. 11N No power to make provision outside devolved competence](schedule/2/paragraph/11N.md)
+    - [Sch. 2 para. 11O Certain requirements for consent, joint exercise or consultation](schedule/2/paragraph/11O.md)
+    - [Sch. 2 para. 11P Meaning of devolved competence: Part 1C](schedule/2/paragraph/11P.md)
+    - [Sch. 2 para. 11Q Meaning of devolved competence: Part 1C](schedule/2/paragraph/11Q.md)
+    - [Sch. 2 para. 11R Meaning of devolved competence: Part 1C](schedule/2/paragraph/11R.md)
+  - Part 2 Implementing the withdrawal agreement
+    - Power to implement withdrawal agreement
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - No power to make provision outside devolved competence
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - No power to modify retained direct EU legislation etc.
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Requirement for consultation in certain circumstances
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Certain requirements for consent, joint exercise or consultation
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Meaning of devolved competence: Part 2
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Further amendments of devolution legislation and reporting requirement
+  - Part 1 Corresponding provision in relation to executive competence
+    - Scotland Act 1998
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - ...
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Northern Ireland Act 1998
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part 2 Reports in connection with retained EU law restrictions
+    - Reports on progress towards removing retained EU law restrictions
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Interpretation
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part 3 Other amendments of devolution legislation
+    - Scotland Act 1998
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Government of Wales Act 2006
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+    - Northern Ireland Act 1998
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+      - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+      - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+      - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+      - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+      - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+      - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+      - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+      - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+      - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+- SCHEDULE 4 Powers in connection with fees and charges
+  - Part 1 Charging in connection with certain new functions
+    - Power to provide for fees or charges
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Meaning of “appropriate authority”
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Requirements for consent
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Minister of the Crown power in relation to devolved authorities
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Time limit for making certain provision
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Relationship to other powers
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 Modifying pre-exit fees or charges
+    - Power to modify pre-exit fees or charges
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Meaning of “appropriate authority”
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Restriction on exercise of power
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Requirement for consent
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Relationship to other powers
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Publication and rules of evidence
+  - Part 1 Publication of retained direct EU legislation etc.
+    - Things that must or may be published
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Exceptions from duty to publish
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Rules of evidence
+    - Questions as to meaning of EU law
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Power to make provision about judicial notice and admissibility
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Instruments which are exempt EU instruments
+  - EU decisions
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - EU regulations
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - EU tertiary legislation
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Interpretation
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Regulations
+  - Part 1 Scrutiny of powers to deal with deficiencies
+    - Scrutiny of regulations made by Minister of the Crown or devolved authority acting alone
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Scrutiny of regulations made by Minister of the Crown and devolved authority acting jointly
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Parliamentary committee to sift certain deficiencies regulations of a Minister of the Crown
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Committee of the National Assembly for Wales to sift certain deficiencies regulations of Welsh Ministers
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Scrutiny procedure in certain urgent deficiencies cases: Ministers of the Crown
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Scrutiny procedure in certain urgent deficiencies cases: devolved authorities
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - PART 1A Scrutiny of Specific Powers Relating to Withdrawal Agreement Etc.
+    - [Sch. 7 para. 8A Powers in connection with Part 4 of the withdrawal agreement](schedule/7/paragraph/8A.md)
+    - [Sch. 7 para. 8B Powers in connection with Part 4 of the withdrawal agreement](schedule/7/paragraph/8B.md)
+    - [Sch. 7 para. 8C Powers in connection with Part 4 of the withdrawal agreement](schedule/7/paragraph/8C.md)
+    - [Sch. 7 para. 8D Powers in connection with other separation issues in the withdrawal agreement etc.](schedule/7/paragraph/8D.md)
+    - [Sch. 7 para. 8E Powers in connection with other separation issues in the withdrawal agreement etc.](schedule/7/paragraph/8E.md)
+    - [Sch. 7 para. 8F Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement](schedule/7/paragraph/8F.md)
+    - [Sch. 7 para. 8G Powers in connection with the Ireland/Northern Ireland Protocol in the withdrawal agreement](schedule/7/paragraph/8G.md)
+  - Part 2 Scrutiny of other powers under Act
+    - Power to enable challenges to validity of assimilated law
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Power in relation to interpretation of retained EU law
+      - [Sch. 7 para. 9A](schedule/7/paragraph/9A.md)
+    - ...
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Power to repeal provisions relating to retained EU law restrictions
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Powers in connection with fees and charges
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Power to make provision about judicial notice and admissibility
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Power to amend the definition of “exit day”
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Power to make consequential provision
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Power to make transitional, transitory or saving provision
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Parliamentary committee to sift ... consequential regulations of a Minister of the Crown
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - ...
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Scrutiny procedure for certain powers to which this Part applies in urgent cases
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Part 3 General provision about powers under Act
+    - Scope and nature of powers: general
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Scope of consequential and transitional powers
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Anticipatory exercise of powers in relation to section 1B(2) saved law
+      - [Sch. 7 para. 23A](schedule/7/paragraph/23A.md)
+    - Anticipatory exercise of powers in relation to retained EU law
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Anticipatory exercise of powers in relation to the withdrawal agreement etc.
+      - [Sch. 7 para. 24A](schedule/7/paragraph/24A.md)
+    - Scope of appointed day powers
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Effect of certain provisions in Schedule 8 on scope of powers
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Disapplication of certain review provisions
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Explanatory statements for certain powers: appropriateness, equalities etc.
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - Further explanatory statements in certain sub-delegation cases
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Annual reports in certain sub-delegation cases
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Further explanatory statements in urgency cases
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Hybrid instruments
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - Procedure on re-exercise of certain powers
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - Combinations of instruments
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+- SCHEDULE 8 Consequential, transitional, transitory and saving provision
+  - Part 1 General consequential provision
+    - Existing ambulatory references to assimilated direct legislation
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Existing ambulatory references to relevant separation agreement law
+      - [Sch. 8 para. 1A](schedule/8/paragraph/1A.md)
+    - Other existing ambulatory references
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Existing non-ambulatory references
+      - [Sch. 8 para. 2A](schedule/8/paragraph/2A.md)
+    - Existing powers to make subordinate legislation etc.
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Review provisions in existing subordinate legislation
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Future powers to make subordinate legislation
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 11A](schedule/8/paragraph/11A.md)
+      - [Sch. 8 para. 11B](schedule/8/paragraph/11B.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - ...
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - ...
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Explanatory statements for instruments amending or revoking regulations etc. under section 2(2) of the ECA
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Part 2 Specific consequential provision
+    - Finance Act 1973
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Interpretation Act 1978
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - European Economic Area Act 1993
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Human Rights Act 1998
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - Small Business, Enterprise and Employment Act 2015
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - Part 3 General transitional, transitory or saving provision
+    - Continuation of existing acts etc.
+      - [Sch. 8 para. 36A](schedule/8/paragraph/36A.md)
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - Part 4 Specific transitional, transitory and saving provision
+    - Retention of saved EU law at end of implementation period
+      - [Sch. 8 para. 37A](schedule/8/paragraph/37A.md)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - Main powers in connection with withdrawal
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - Devolution
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - Other provision
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+- SCHEDULE 9 Additional repeals
