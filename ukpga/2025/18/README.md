@@ -2,9 +2,9 @@
 
 2025 c. 18. Enacted 2025-06-19.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-19, one file per provision. Earlier versions, from 2025-06-19, are in the history before it: `git log -- ukpga/2025/18` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. Earlier versions, from 2025-06-19, are in the history before it: `git log -- ukpga/2025/18` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/18/2025-08-19
+Source: https://www.legislation.gov.uk/ukpga/2025/18/2025-08-20
 
 ## Contents
 
@@ -346,24 +346,24 @@ Source: https://www.legislation.gov.uk/ukpga/2025/18/2025-08-19
   - [Sch. 11 para. 11 The UK GDPR](schedule/11/paragraph/11.md)
   - [Sch. 11 para. 12 The UK GDPR](schedule/11/paragraph/12.md)
   - [Sch. 11 para. 13 The 2018 Act](schedule/11/paragraph/13.md)
-  - [Sch. 11 para. 14 The 2018 Act](schedule/11/paragraph/14.md)
-  - [Sch. 11 para. 15 The 2018 Act](schedule/11/paragraph/15.md)
-  - [Sch. 11 para. 16 The 2018 Act](schedule/11/paragraph/16.md)
-  - [Sch. 11 para. 17 The 2018 Act](schedule/11/paragraph/17.md)
-  - [Sch. 11 para. 18 The 2018 Act](schedule/11/paragraph/18.md)
-  - [Sch. 11 para. 19 The 2018 Act](schedule/11/paragraph/19.md)
-  - [Sch. 11 para. 20 The 2018 Act](schedule/11/paragraph/20.md)
-  - [Sch. 11 para. 21 The 2018 Act](schedule/11/paragraph/21.md)
-  - [Sch. 11 para. 22 The 2018 Act](schedule/11/paragraph/22.md)
-  - [Sch. 11 para. 23 The 2018 Act](schedule/11/paragraph/23.md)
-  - [Sch. 11 para. 24 The 2018 Act](schedule/11/paragraph/24.md)
-  - [Sch. 11 para. 25 The 2018 Act](schedule/11/paragraph/25.md)
-  - [Sch. 11 para. 26 The 2018 Act](schedule/11/paragraph/26.md)
-  - [Sch. 11 para. 27 The 2018 Act](schedule/11/paragraph/27.md)
-  - [Sch. 11 para. 28 The 2018 Act](schedule/11/paragraph/28.md)
-  - [Sch. 11 para. 29 The 2018 Act](schedule/11/paragraph/29.md)
-  - [Sch. 11 para. 30 The 2018 Act](schedule/11/paragraph/30.md)
-  - [Sch. 11 para. 31 The 2018 Act](schedule/11/paragraph/31.md)
+  - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+  - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+  - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+  - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+  - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+  - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+  - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
   - [Sch. 11 para. 32 Victims and Prisoners Act 2024](schedule/11/paragraph/32.md)
 - Schedule 12 Storing information in the terminal equipment of a subscriber or user
 - Schedule 13 Privacy and electronic communications: Commissioner’s enforcement powers
