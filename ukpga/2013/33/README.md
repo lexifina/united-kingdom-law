@@ -1,0 +1,468 @@
+# Financial Services (Banking Reform) Act 2013
+
+2013 c. 33. Enacted 2013-12-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2013/33/2025-08-20
+
+## Contents
+
+- PART 1 Ring-fencing
+  - Ring-fencing
+    - [s. 1 Objectives of Prudential Regulation Authority](section/1.md)
+    - [s. 2 Modification of objectives of Financial Conduct Authority](section/2.md)
+    - [s. 3 Amendment of PRA power of direction](section/3.md)
+    - [s. 4 Ring-fencing of certain activities](section/4.md)
+    - [s. 5 PRA annual report](section/5.md)
+    - [s. 6 Ring-fencing transfer schemes](section/6.md)
+    - [s. 7 Building societies: power to make provision about ring-fencing](section/7.md)
+  - Reviews
+    - [s. 8 Independent review of operation of legislation relating to ring-fencing](section/8.md)
+    - [s. 9 PRA review of proprietary trading](section/9.md)
+    - [s. 10 Independent review of proprietary trading](section/10.md)
+    - [s. 11 Reviews of proprietary trading: interpretation](section/11.md)
+    - [s. 12 Right to obtain documents and information](section/12.md)
+- PART 2 Depositor preference and the Financial Services Compensation Scheme
+  - Depositor preference
+    - [s. 13 Preferential debts: Great Britain](section/13.md)
+  - Financial Services Compensation Scheme
+    - [s. 14 Discharge of functions by the scheme manager](section/14.md)
+    - [s. 15 Power to require information from scheme manager](section/15.md)
+    - [s. 16 Scheme manager: appointment of accounting officer](section/16.md)
+- PART 3 Bail-in stabilisation option
+  - [s. 17 Bail-in stabilisation option](section/17.md)
+- PART 4 Conduct of persons working in financial services sector
+  - Amendments of FSMA 2000
+    - [s. 18 Functions for which approval is required](section/18.md)
+    - [s. 19 Senior management functions](section/19.md)
+    - [s. 20 Statements of responsibilities](section/20.md)
+    - [s. 21 Vetting by relevant authorised persons of candidates for approval](section/21.md)
+    - [s. 22 Determination of applications for approval](section/22.md)
+    - [s. 23 Power to give approval subject to conditions or for limited period](section/23.md)
+    - [s. 24 Changes in responsibilities of senior managers](section/24.md)
+    - [s. 25 Duty to notify regulator of grounds for withdrawal of approval](section/25.md)
+    - [s. 26 Variation of approval](section/26.md)
+    - [s. 27 Statement of policy](section/27.md)
+    - [s. 28 Extension of limitation periods for imposing sanctions](section/28.md)
+    - [s. 29 Certification of employees by relevant authorised persons](section/29.md)
+    - [s. 30 Rules of conduct](section/30.md)
+    - [s. 31 Requirement to notify regulator of disciplinary action](section/31.md)
+    - [s. 32 Definition of “misconduct”](section/32.md)
+    - [s. 33 Meaning of “relevant authorised person”](section/33.md)
+    - [s. 34 Recording information about senior managers](section/34.md)
+    - [s. 35 Consequential amendments relating to Part 4](section/35.md)
+  - Offence
+    - [s. 36 Offence relating to a decision causing a financial institution to fail](section/36.md)
+    - [s. 37 Section 36: interpretation](section/37.md)
+    - [s. 38 Institution of proceedings](section/38.md)
+- PART 5 Regulation of payment systems
+  - Overview
+    - [s. 39 Overview](section/39.md)
+  - The Payment Systems Regulator
+    - [s. 40 The Payment Systems Regulator](section/40.md)
+  - “Payment system” etc
+    - [s. 41 Meaning of “payment system”](section/41.md)
+    - [s. 42 Participants in payment systems etc](section/42.md)
+  - Designation as a regulated payment system
+    - [s. 43 Designation orders](section/43.md)
+    - [s. 44 Designation criteria](section/44.md)
+    - [s. 45 Procedure](section/45.md)
+    - [s. 46 Amendment of designation order](section/46.md)
+    - [s. 47 Revocation of designation orders](section/47.md)
+    - [s. 48 Publication](section/48.md)
+  - General duties of Regulator
+    - [s. 49 Regulator’s general duties in relation to payment systems](section/49.md)
+    - [s. 50 The competition objective](section/50.md)
+    - [s. 51 The innovation objective](section/51.md)
+    - [s. 52 The service-user objective](section/52.md)
+    - [s. 53 Regulatory principles](section/53.md)
+  - Regulatory and competition functions
+    - [s. 54 Directions](section/54.md)
+    - [s. 55 System rules](section/55.md)
+    - [s. 56 Power to require granting of access to payment systems](section/56.md)
+    - [s. 57 Variation of agreements relating to payment systems](section/57.md)
+    - [s. 58 Power to require disposal of interest in payment system](section/58.md)
+    - [s. 59 The Regulator’s functions under Part 4 of the Enterprise Act 2002](section/59.md)
+    - [s. 60 Restrictions on exercise of functions under Part 4 of the Enterprise Act 2002](section/60.md)
+    - [s. 61 The Regulator’s functions under the Competition Act 1998](section/61.md)
+    - [s. 62 Duty to consider exercise of powers under Competition Act 1998](section/62.md)
+    - [s. 63 Provision of information and assistance to a CMA group](section/63.md)
+    - [s. 64 Function of keeping markets under review](section/64.md)
+    - [s. 65 Exclusion of general duties](section/65.md)
+    - [s. 66 Concurrent competition powers: supplementary provision](section/66.md)
+    - [s. 67 Amendments relating to Regulator’s competition powers](section/67.md)
+  - Complaints
+    - [s. 68 Complaints by representative bodies](section/68.md)
+    - [s. 69 Response by Regulator](section/69.md)
+    - [s. 70 Complaints: guidance](section/70.md)
+  - Enforcement and appeals
+    - [s. 71 Meaning of “compliance failure”](section/71.md)
+    - [s. 72 Publication of compliance failures etc](section/72.md)
+    - [s. 73 Penalties](section/73.md)
+    - [s. 74 Warning notices](section/74.md)
+    - [s. 75 Injunctions](section/75.md)
+    - [s. 76 Appeals: general](section/76.md)
+    - [s. 77 Appeals to Competition Appeal Tribunal](section/77.md)
+    - [s. 78 Appeals in relation to penalties](section/78.md)
+    - [s. 79 Appeals to Competition and Markets Authority](section/79.md)
+    - [s. 80 Enforcement of requirement to dispose of interest in payment system](section/80.md)
+  - Information and investigation powers
+    - [s. 81 Power to obtain information or documents](section/81.md)
+    - [s. 82 Reports by skilled persons](section/82.md)
+    - [s. 83 Appointment of persons to conduct investigations](section/83.md)
+    - [s. 84 Investigations: general](section/84.md)
+    - [s. 85 Powers of persons appointed under section 83](section/85.md)
+    - [s. 86 Information and documents: supplemental provisions](section/86.md)
+    - [s. 87 Admissibility of statements made to investigators](section/87.md)
+    - [s. 88 Entry of premises under warrant](section/88.md)
+    - [s. 89 Retention of documents taken under section 88](section/89.md)
+    - [s. 90 Enforcement of information and investigation powers](section/90.md)
+  - Disclosure of information
+    - [s. 91 Restrictions on disclosure of confidential information](section/91.md)
+    - [s. 92 Exemptions from section 91](section/92.md)
+    - [s. 93 Offences relating to disclosure of confidential information](section/93.md)
+    - [s. 94 Information received from Bank of England](section/94.md)
+    - [s. 95 Disclosure of information by Bank to Regulator](section/95.md)
+  - Guidance
+    - [s. 96 Guidance](section/96.md)
+  - Reports
+    - [s. 97 Reports](section/97.md)
+  - Technical Standards
+    - [s. 97A Technical standards](section/97A.md)
+    - [s. 97B Standards instruments](section/97B.md)
+    - [s. 97C Treasury approval](section/97C.md)
+    - [s. 97D Application of section 104 of this Act and Part 9A of the Financial Services and Markets Act 2000](section/97D.md)
+  - Relationship with other regulators
+    - [s. 98 Duty of regulators to ensure co-ordinated exercise of functions](section/98.md)
+    - [s. 99 Memorandum of understanding](section/99.md)
+    - [s. 100 Power of Bank to require Regulator to refrain from specified action](section/100.md)
+    - [s. 101 Power of FCA to require Regulator to refrain from specified action](section/101.md)
+    - [s. 102 Power of PRA to require Regulator to refrain from specified action](section/102.md)
+  - Recommendations
+    - [s. 102A Recommendations by Treasury in connection with general duties](section/102A.md)
+  - Consultation, accountability and oversight
+    - [s. 102B Matters to consider when imposing generally applicable requirements](section/102B.md)
+    - [s. 103 Regulator’s general duty to consult](section/103.md)
+    - [s. 104 Consultation in relation to generally applicable requirements](section/104.md)
+    - [s. 104A Requirements in connection with public consultations](section/104A.md)
+    - [s. 104B Duty of Regulator to review generally applicable requirements](section/104B.md)
+    - [s. 104C Statement of policy relating to review of requirements](section/104C.md)
+    - [s. 104D Requirement to review specified requirements](section/104D.md)
+    - [s. 104E Report on certain reviews](section/104E.md)
+    - [s. 104F Power of Treasury to require the imposition of generally applicable requirements](section/104F.md)
+    - [s. 104G Consultation with the FCA Cost Benefit Analysis Panel](section/104G.md)
+    - [s. 104H Statement of policy in relation to cost benefit analyses](section/104H.md)
+    - [s. 104I Statement of policy on panel appointments](section/104I.md)
+    - [s. 105 Independent inquiries](section/105.md)
+    - [s. 106 Investigations into regulatory failure](section/106.md)
+    - [s. 107 Competition scrutiny](section/107.md)
+    - [s. 107A International trade obligations](section/107A.md)
+  - Miscellaneous and supplemental
+    - [s. 108 Relationship with Part 8 of the Payment Services Regulations 2017](section/108.md)
+    - [s. 109 Exemption from liability in damages for FCA and PRA](section/109.md)
+    - [s. 110 Interpretation of Part](section/110.md)
+- PART 6 Special administration for operators of certain infrastructure systems
+  - Introductory
+    - [s. 111 Financial market and cash infrastructure administration](section/111.md)
+    - [s. 112 Interpretation: infrastructure companies](section/112.md)
+    - [s. 113 Interpretation: other expressions](section/113.md)
+  - FMI administration orders
+    - [s. 114 FMI administration orders](section/114.md)
+    - [s. 115 Objective of FMI administration](section/115.md)
+    - [s. 116 Application for FMI administration order](section/116.md)
+    - [s. 117 Powers of court](section/117.md)
+    - [s. 118 FMI administrators](section/118.md)
+    - [s. 119 Continuity of supply](section/119.md)
+    - [s. 120 Power to direct FMI administrator](section/120.md)
+    - [s. 121 Conduct of administration, transfer schemes etc.](section/121.md)
+  - Restrictions on other insolvency procedures
+    - [s. 122 Restriction on winding-up orders and voluntary winding up](section/122.md)
+    - [s. 123 Restriction on making of ordinary administration orders](section/123.md)
+    - [s. 124 Restriction on enforcement of security](section/124.md)
+  - Powers to participate in Part 26A proceedings
+    - [s. 124A Powers of Bank to participate in Part 26A proceedings](section/124A.md)
+  - Financial support for companies in FMI administration
+    - [s. 125 Loans](section/125.md)
+    - [s. 126 Indemnities](section/126.md)
+  - Interpretation
+    - [s. 127 Interpretation of Part](section/127.md)
+  - Application of Part to Northern Ireland
+    - [s. 128 Northern Ireland](section/128.md)
+- PART 7 Miscellaneous
+  - Competition
+    - [s. 129 Functions of FCA under competition legislation](section/129.md)
+    - [s. 130 Competition as a secondary objective of the PRA](section/130.md)
+  - Consumers
+    - [s. 131 Duty of FCA to make rules restricting charges for high-cost short-term credit](section/131.md)
+    - [s. 132 Role of FCA Consumer Panel in relation to PRA](section/132.md)
+  - Parent undertakings
+    - [s. 133 Power of FCA and PRA to make rules applying to parent undertakings](section/133.md)
+  - Meetings with auditors
+    - [s. 134 Duty to meet auditors of certain institutions](section/134.md)
+  - Fees to meet Treasury expenditure
+    - [s. 135 Fees to meet Treasury expenditure relating to international organisations](section/135.md)
+  - Parliamentary control of statutory instruments under FSMA 2000
+    - [s. 136 Amendments of section 429 of FSMA 2000](section/136.md)
+  - Bank of England
+    - [s. 137 Accounts of Bank of England and its wholly-owned subsidiaries](section/137.md)
+  - Building societies
+    - [s. 138 Building societies](section/138.md)
+  - Claims management services
+    - [s. 139 Power to impose penalties on persons providing claims management services](section/139.md)
+    - [s. 140 Recovery of expenditure incurred by Office for Legal Complaints](section/140.md)
+  - Minor amendments
+    - [s. 141 Minor amendments](section/141.md)
+- PART 8 Final provisions
+  - [s. 142 Orders and regulations: general](section/142.md)
+  - [s. 143 Orders and regulations: Parliamentary control](section/143.md)
+  - [s. 144 Interpretation](section/144.md)
+  - [s. 145 Power to make further consequential amendments](section/145.md)
+  - [s. 146 Transitional provisions and savings](section/146.md)
+  - [s. 147 Extent](section/147.md)
+  - [s. 148 Commencement and short title](section/148.md)
+- SCHEDULE 1 Ring-fencing transfer schemes
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Bail-in stabilisation option
+  - PART 1 Amendments of Banking Act 2009
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - New stabilisation option: bail-in
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Further provision about the bail-in option
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Transfers of property
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Compensation
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Groups
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Banks regulated by the Financial Conduct Authority
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Recognised central counterparties
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Insolvency proceedings
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - State aid
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Other amendments of the Act
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - PART 2 Modification of Investment Bank Special Administration Regulations 2011
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+- SCHEDULE 3 Consequential amendments relating to Part 4
+  - Financial Services and Markets Act 2000
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Financial Services Act 2012
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- SCHEDULE 4 The Payment Systems Regulator
+  - Introductory
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Constitution
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Status
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Budget
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Arrangements for discharging functions
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Annual plan
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Annual report
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Other reports
+    - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+  - Audit of accounts
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Funding (participants in regulated payment systems)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Funding (regulated persons)
+    - [Sch. 4 para. 9A](schedule/4/paragraph/9A.md)
+  - Penalty receipts
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Records
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Exemption from liability in damages
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Engagement with Parliamentary Committees
+    - [Sch. 4 para. 14A](schedule/4/paragraph/14A.md)
+    - [Sch. 4 para. 14B](schedule/4/paragraph/14B.md)
+  - Freedom of information
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Equality
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Procedure for appeals to the CMA
+  - Functions of CMA to be discharged by group
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Application for permission to bring appeal
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Suspension of decision
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Time limit for representations and observations by the Regulator
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Consideration and determination of appeal by group
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Time limits for determining appeal
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Matters to be considered on appeal
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Production of documents etc
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Oral hearings
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Written statements
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Expert advice
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Defaults in relation to evidence
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Determination of appeal by CMA
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Appeal rules
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Costs
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Interpretation
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+- SCHEDULE 6 Conduct of FMI administration
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Financial market infrastructure transfer schemes
+  - Application of Schedule
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Interpretation of Schedule
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - FMI administrator to act on behalf of old company
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Making of FMI transfer schemes
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Provision that may be made by a scheme
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Further provision about transfers
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Effect of scheme
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Subsequent modification of scheme
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Provision relating to foreign property
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Application of Schedule to transfers to subsidiaries
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 Functions of FCA under competition legislation
+  - PART 1 Amendments of Financial Services and Markets Act 2000
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - PART 2 Amendments of other legislation
+    - Company Directors Disqualification Act 1986
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Competition Act 1998
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Enterprise Act 2002
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Enterprise and Regulatory Reform Act 2013
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Building societies
+  - Introductory
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Exclusion of small business deposits from funding limit
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Ability to create floating charges
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Annual business statements
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Summary financial statements
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Transfers of business: distributions and share rights
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Methods of communicating with members etc
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - Financial year
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+- SCHEDULE 10 Minor amendments
+  - Companies Act 1985
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Financial Services and Markets Act 2000
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Income Tax Act 2007
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Banking Act 2009
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Financial Services Act 2012
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
