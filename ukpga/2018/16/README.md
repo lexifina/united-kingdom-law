@@ -2,9 +2,11 @@
 
 2018 c. 16. Enacted 2018-06-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-06-04, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. Earlier versions, from 2018-06-26, are in the history before it: `git log -- ukpga/2018/16` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-06-04
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/16
+
+Source: https://www.legislation.gov.uk/ukpga/2018/16/2025-08-20
 
 ## Contents
 
