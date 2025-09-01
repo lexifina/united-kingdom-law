@@ -2,9 +2,9 @@
 
 2023 c. 56. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-06-18, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/56` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-01, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/56` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/56/2025-06-18
+Source: https://www.legislation.gov.uk/ukpga/2023/56/2025-09-01
 
 ## Contents
 
@@ -523,8 +523,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/56/2025-06-18
   - [Sch. 12 para. 20 Statutory offences](schedule/12/paragraph/20.md)
 - SCHEDULE 13 Failure to prevent fraud: fraud offences
   - [Sch. 13 para. 1 Common law offences](schedule/13/paragraph/1.md)
-  - [Sch. 13 para. 2 Common law offences](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
   - [Sch. 13 para. 3 Statutory offences](schedule/13/paragraph/3.md)
-  - [Sch. 13 para. 4 Statutory offences](schedule/13/paragraph/4.md)
-  - [Sch. 13 para. 5 Statutory offences](schedule/13/paragraph/5.md)
-  - [Sch. 13 para. 6 Statutory offences](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
