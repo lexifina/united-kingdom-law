@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-05, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-20
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-09-05
 
 ## Contents
 
@@ -82,10 +82,11 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-20
   - CHAPTER 3 Rights of the data subject
     - Overview and scope
       - [s. 43 Overview and scope](section/43.md)
-    - Information: controller’s general duties
-      - [s. 44 Information: controller’s general duties](section/44.md)
-    - Data subject’s right of access
+    - Data subject’s rights to information
+      - [s. 44 ... Controller’s general duties](section/44.md)
+    - ...
       - [s. 45 Right of access by the data subject](section/45.md)
+      - [s. 45A Exemption from sections 44 and 45: legal professional privilege](section/45A.md)
     - Data subject’s rights to rectification or erasure etc
       - [s. 46 Right to rectification](section/46.md)
       - [s. 47 Right to erasure or restriction of processing](section/47.md)
@@ -144,6 +145,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-08-20
     - Subsequent transfers
       - [s. 78 Subsequent transfers](section/78.md)
   - CHAPTER 6 Supplementary
+    - [s. 78A National security exemption](section/78A.md)
     - [s. 79 National security: certificate](section/79.md)
     - [s. 80 Special processing restrictions](section/80.md)
     - [s. 81 Reporting of infringements](section/81.md)
