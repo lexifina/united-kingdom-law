@@ -1,0 +1,502 @@
+# Police and Justice Act 2006
+
+2006 c. 48. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
+
+Source: https://www.legislation.gov.uk/ukpga/2006/48/2025-09-10
+
+## Contents
+
+- Part 1 Police reform
+  - National Policing Improvement Agency
+    - [s. 1 National Policing Improvement Agency](section/1.md)
+  - Police forces and police authorities
+    - [s. 2 Amendments to the Police Act 1996](section/2.md)
+    - [s. 3 Delegation of police authority functions](section/3.md)
+    - [s. 4 Police authorities as best value authorities](section/4.md)
+  - Police pension schemes
+    - [s. 5 Power to merge schemes](section/5.md)
+  - Statutory consultation requirements
+    - [s. 6 Consultation with APA and body representing chief officers of police](section/6.md)
+  - Community support officers etc
+    - [s. 7 Standard powers and duties of community support officers](section/7.md)
+    - [s. 8 Community support officers: power to deal with truants](section/8.md)
+    - [s. 9 Exercise of police powers by civilians](section/9.md)
+- Part 2 Powers of police etc
+  - Police powers
+    - [s. 10 Police bail](section/10.md)
+    - [s. 11 Power to detain pending DPP’s decision about charging](section/11.md)
+    - [s. 12 Power to stop and search at aerodromes](section/12.md)
+  - Information from registers of death
+    - [s. 13 Supply of information to police etc by Registrar General](section/13.md)
+  - Travel and freight information
+    - [s. 14 Information-gathering powers: extension to domestic flights and voyages](section/14.md)
+  - Fixed penalty notices
+    - [s. 15 Accreditation of weights and measures inspectors](section/15.md)
+    - [s. 16 Power to apply accreditation provisions](section/16.md)
+  - Conditional cautions
+    - [s. 17 Conditional cautions: types of condition](section/17.md)
+    - [s. 18 Arrest for failing to comply with conditional caution](section/18.md)
+- Part 3 Crime and anti-social behaviour
+  - Crime and disorder
+    - [s. 19 Local authority scrutiny of crime and disorder matters](section/19.md)
+    - [s. 20 Guidance and regulations regarding crime and disorder matters](section/20.md)
+    - [s. 21 Joint crime and disorder committees](section/21.md)
+    - [s. 22 Amendments to the Crime and Disorder Act 1998](section/22.md)
+  - Parenting contracts and parenting orders
+    - [s. 23 Parenting contracts: local authorities and registered social landlords](section/23.md)
+    - [s. 24 Parenting orders: local authorities and registered social landlords](section/24.md)
+    - [s. 25 Contracting out of local authority functions with regard to parenting contracts and parenting orders](section/25.md)
+  - Injunctions
+    - [s. 26 Anti-social behaviour injunctions](section/26.md)
+    - [s. 27 Injunctions in local authority proceedings: power of arrest and remand](section/27.md)
+- Part 4 Inspectorates
+  - [s. 28 Her Majesty’s Chief Inspector of Prisons](section/28.md)
+  - [s. 29 Her Majesty’s Inspectors of Constabulary](section/29.md)
+  - [s. 30 Her Majesty’s Chief Inspector of the Crown Prosecution Service](section/30.md)
+  - [s. 31 Her Majesty’s Inspectorate of the National Probation Service for England and Wales](section/31.md)
+  - [s. 32 Her Majesty’s Inspectorate of Court Administration](section/32.md)
+  - [s. 33 Transitional provision](section/33.md)
+- Part 5 Miscellaneous
+  - Bail offences
+    - [s. 34 Sentences of imprisonment for bail offences](section/34.md)
+  - Computer misuse
+    - [s. 35 Unauthorised access to computer material](section/35.md)
+    - [s. 36 Unauthorised acts with intent to impair operation of computer, etc](section/36.md)
+    - [s. 37 Making, supplying or obtaining articles for use in computer misuse offences](section/37.md)
+    - [s. 38 Transitional and saving provision](section/38.md)
+  - Forfeiture of indecent photographs of children
+    - [s. 39 Forfeiture of indecent photographs of children: England and Wales](section/39.md)
+    - [s. 40 Forfeiture of indecent photographs of children: Northern Ireland](section/40.md)
+  - Director General of the Independent Office for Police Conduct
+    - [s. 41 Immigration and asylum enforcement functions and customs functions: complaints and misconduct](section/41.md)
+  - Extradition
+    - [s. 42 Amendments to the Extradition Act 2003 etc](section/42.md)
+    - [s. 43 Designation of United States of America](section/43.md)
+  - Repatriation of prisoners
+    - [s. 44 Transfer of prisoner under international arrangements not requiring his consent](section/44.md)
+  - Live links
+    - [s. 45 Attendance by accused at certain preliminary or sentencing hearings](section/45.md)
+    - [s. 46 Live link bail](section/46.md)
+    - [s. 47 Evidence of vulnerable accused](section/47.md)
+    - [s. 48 Appeals under Part 1 of the Criminal Appeal Act 1968](section/48.md)
+- Part 6 Supplemental
+  - [s. 49 Orders and regulations](section/49.md)
+  - [s. 50 Money](section/50.md)
+  - [s. 51 Power to make consequential and transitional provision etc](section/51.md)
+  - [s. 52 Amendments and repeals](section/52.md)
+  - [s. 53 Commencement](section/53.md)
+  - [s. 54 Extent](section/54.md)
+  - [s. 55 Short title](section/55.md)
+- SCHEDULE 1 National Policing Improvement Agency
+  - ...
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+    - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+    - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+    - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+    - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+    - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+    - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+    - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+    - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+    - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+    - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+    - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+    - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+    - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+    - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+    - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+    - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+    - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+    - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+    - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+    - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+    - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+- SCHEDULE 2 Amendments to the Police Act 1996
+  - Membership etc of police authorities
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Functions of police authorities
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Police authorities: objectives, plans and reports
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Appointment of deputy chief constables etc
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Civilian employees of police authorities
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Clerks to police authorities renamed chief executives
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Jurisdiction of special constables
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Secretary of State’s strategic functions in relation to police authorities
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Power to give directions to police authority or chief officer of police
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Power to give directions as to action plans
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - Arrangements for obtaining the views of the community on policing
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+- SCHEDULE 3 Power to merge police pension schemes
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Power to merge police pension schemes
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Exercise of power to establish merged scheme
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Exercise of power to amend merged scheme
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Application of provisions of other Acts
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Transitional provision
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Continuity of schemes for tax purposes
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Consultation with APA and ACPO
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Criminal Procedure and Investigations Act 1996 (c. 25)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Police Reform Act 2002 (c. 30)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Exercise of police powers by civilians
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Police bail
+  - Part 1 Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Part 2 Police bail granted elsewhere than at police station
+    - Power to impose conditions on granting bail
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Contents of notice given to person released on bail
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Variation of bail conditions
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Power of arrest for breach of bail conditions
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Part 3 Police bail granted at police station before charge
+    - Power to impose conditions on bail granted under section 37(2) or (7)(b)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Power of arrest for breach of conditions of bail granted under section 37(2) or (7)(b)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Dealing with person arrested for breach of conditions of bail granted under section 37(7)(b)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Time for person to answer bail granted under section 37(2) or (7)(b) or 37CA(2)(b)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Dealing with person released on bail under section 37(7)(b) or 37CA(2)(b)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Applications to court where person released on bail under section 37(2) or (7)(b) or 37CA(2)(b)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Schedule to be inserted into the Police Reform Act 2002
+- SCHEDULE 8 Further provision about crime and disorder committees of certain local authorities
+  - Introductory
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Functions of crime and disorder committees
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Appointment of sub-committees
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Meetings etc
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Power to compel attendance etc
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Miscellaneous and supplemental
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Application to the City of London
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Amendments to the Crime and Disorder Act 1998
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Injunctions in local authority proceedings: powers to remand
+  - Introductory
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Remand in custody or on bail
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Further remand
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Postponement of taking recognizance
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Requirements imposed on remand on bail
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+- SCHEDULE 11 Schedule to be inserted into the Protection of Children Act 1978
+- SCHEDULE 12 Schedule to be inserted into the Protection of Children (Northern Ireland) Order 1978
+- SCHEDULE 13 Extradition
+  - Part 1 Amendments to the Extradition Act 2003
+    - Requests for extradition of persons unlawfully at large
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Restriction on extradition following transfer from International Criminal Court
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - ................................
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Remand of person serving sentence in United Kingdom
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Remands in connection with appeal proceedings
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Time for extradition
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Extradition of person serving sentence in United Kingdom
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - “The appropriate judge”
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - Extradition to category 2 territories: requests and certificates
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - Time for representations and consideration of case under Part 2
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - Applications for discharge or for extension of time limit
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - Scotland: references to Secretary of State
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - Issue of Part 3 warrant: persons unlawfully at large who may be arrested without domestic warrant
+      - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - Issue of Part 3 warrant: domestic warrant issued at common law by judge in Northern Ireland
+      - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - Dealing with person for pre-extradition offences following extradition to UK
+      - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - Extradition requests to territories not applying European framework decision to old cases
+      - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - Extradition of serving prisoner
+      - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - Authentication of receivable documents
+      - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+  - Part 2 Amendments to other Acts
+    - Powers of High Court in relation to bail decisions by magistrates’ court etc
+      - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+      - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+      - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+      - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - Credit against sentence for periods of remand in custody of persons extradited to UK
+      - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+      - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+      - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - Amendments consequential on amendments in Part 1
+      - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+      - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+- SCHEDULE 14 Minor and consequential amendments
+  - Prison Act 1952 (c. 52)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Criminal Damage Act 1971 (c. 48)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Superannuation Act 1972 (c. 11)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Police Pensions Act 1976 (c. 35)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Bail Act 1976 (c. 63)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Criminal Damage (Northern Ireland) Order 1977 (S.I. 1977/426 (N.I. 4))
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Aviation Security Act 1982 (c. 36)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Criminal Justice Act 1988 (c. 33)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Housing Act 1988 (c. 50)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Computer Misuse Act 1990 (c. 18)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+  - Police Act 1996 (c. 16)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+  - Employment Rights Act 1996 (c. 18)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+  - Housing Act 1996 (c. 52)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+  - Audit Commission Act 1998 (c. 18)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+  - Crime and Disorder Act 1998 (c. 37)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+  - Youth Justice and Criminal Evidence Act 1999 (c. 23)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+  - Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+  - Police Reform Act 2002 (c. 30)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+  - Railways and Transport Safety Act 2003 (c. 20)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+  - Anti-social Behaviour Act 2003 (c. 38)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+  - Energy Act 2004 (c. 20)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+  - Public Audit (Wales) Act 2004 (c. 23)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 14 para. 61](schedule/14/paragraph/61.md)
+  - Serious Organised Crime and Police Act 2005 (c. 15)
+    - [Sch. 14 para. 62](schedule/14/paragraph/62.md)
+- SCHEDULE 15 Repeals and revocations
+  - Part 1 Police reform
+  - Part 2 Powers of police etc
+  - Part 3 Crime and anti-social behaviour
+  - Part 4 Miscellaneous
