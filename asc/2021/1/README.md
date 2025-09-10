@@ -1,0 +1,680 @@
+# Local Government and Elections (Wales) Act 2021
+
+asc/2021/1. Enacted 2021-01-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2021/1
+
+Source: https://www.legislation.gov.uk/asc/2021/1/2025-09-10
+
+## Contents
+
+- PART 1 ELECTIONS
+  - Overview of Part
+    - [s. 1 Overview](section/1.md)
+  - Right to vote in local government elections
+    - [s. 2 Extension of right to vote in local government elections](section/2.md)
+    - [s. 3 Transitional provision](section/3.md)
+    - [s. 4 Duty to promote awareness and provide assistance](section/4.md)
+  - Voting systems for elections to principal councils
+    - [s. 5 Two voting systems](section/5.md)
+    - [s. 6 Key definitions](section/6.md)
+    - [s. 7 The voting system that applies](section/7.md)
+    - [s. 8 Power to change the voting system](section/8.md)
+    - [s. 9 Resolutions to exercise the power to change the voting system](section/9.md)
+    - [s. 10 Duty to notify when resolution passed](section/10.md)
+    - [s. 11 Initial review by the Democracy and Boundary Commission Cymru](section/11.md)
+    - [s. 12 Restriction on number of councillors if single transferable vote system applies](section/12.md)
+    - [s. 13 Rules about the conduct of local elections in Wales](section/13.md)
+  - Electoral cycles
+    - [s. 14 Change of electoral cycle for principal councils from four years to five years](section/14.md)
+    - [s. 15 Change of electoral cycle for community councils from four years to five years](section/15.md)
+    - [s. 16 Change of electoral cycle for elected mayors from four years to five years](section/16.md)
+    - [s. 17 Extension of power to change ordinary day of local elections in Wales](section/17.md)
+  - Registration of local government electors
+    - [s. 18 Registration of local government electors without application](section/18.md)
+  - Qualification for membership of a local authority
+    - [s. 19 Qualification for election and holding office as a member of a local authority in Wales](section/19.md)
+  - Disqualification of members of local authorities
+    - [s. 20 Disqualification for election and being a member of a local authority](section/20.md)
+    - [s. 21 Disqualification of member of a local authority in Wales for appointment to paid office](section/21.md)
+  - Documents at local government elections
+    - [s. 22 Translations etc. of documents at local government elections in Wales](section/22.md)
+  - General
+    - [s. 23 Minor and consequential amendments](section/23.md)
+- PART 2 GENERAL POWER OF COMPETENCE
+  - CHAPTER 1 THE GENERAL POWER
+    - [s. 24 Local authority’s general power of competence](section/24.md)
+    - [s. 25 Boundaries of the general power](section/25.md)
+    - [s. 26 Limits on charging in exercise of general power](section/26.md)
+    - [s. 27 Limits on doing things for commercial purpose in exercise of general power](section/27.md)
+    - [s. 28 Powers to make supplementary provision](section/28.md)
+    - [s. 29 Amendments relating to this Chapter](section/29.md)
+  - CHAPTER 2 ELIGIBLE COMMUNITY COUNCILS
+    - [s. 30 Becoming an eligible community council](section/30.md)
+    - [s. 31 Continuing to be an eligible community council](section/31.md)
+    - [s. 32 Ceasing to be an eligible community council](section/32.md)
+    - [s. 33 Community councils that cease to be eligible: exercise of general power of competence](section/33.md)
+    - [s. 34 Common community councils established after this Act is passed](section/34.md)
+    - [s. 35 Power to amend or modify this Chapter](section/35.md)
+    - [s. 36 Guidance on exercise of functions under this Chapter](section/36.md)
+    - [s. 37 Amendments relating to this Chapter](section/37.md)
+- PART 3 PROMOTING ACCESS TO LOCAL GOVERNMENT
+  - CHAPTER 1 OVERVIEW OF PART
+    - [s. 38 Overview](section/38.md)
+  - CHAPTER 2 PUBLIC PARTICIPATION IN DECISION-MAKING BY PRINCIPAL COUNCILS
+    - Principal councils’ duty to encourage participation in local government
+      - [s. 39 Duty to encourage local people to participate in decision-making by principal councils](section/39.md)
+      - [s. 40 Strategy on encouraging participation](section/40.md)
+      - [s. 41 Public participation strategy: consultation and review](section/41.md)
+    - Principal council’s petition scheme
+      - [s. 42 Duty to make petition scheme](section/42.md)
+    - Addresses of members of principal councils
+      - [s. 43 Duty on principal councils to publish official addresses](section/43.md)
+    - Guidance
+      - [s. 44 Guidance on exercise of functions under this Chapter](section/44.md)
+  - CHAPTER 3 CONSTITUTION GUIDES
+    - [s. 45 Principal councils’ duty to publish constitution and constitution guide](section/45.md)
+  - CHAPTER 4 LOCAL GOVERNMENT MEETINGS
+    - [s. 46 Electronic broadcasts of meetings of certain local authorities](section/46.md)
+    - [s. 47 Attendance at local authority meetings](section/47.md)
+    - [s. 48 Participation at meetings of community councils](section/48.md)
+    - [s. 49 Notices etc. of local authority meetings](section/49.md)
+    - [s. 50 Regulations about conduct of local authority meetings, documents relating to meetings and publication of information](section/50.md)
+    - [s. 51 Regulations about community meetings](section/51.md)
+  - CHAPTER 5 ANNUAL REPORTS BY COMMUNITY COUNCILS
+    - [s. 52 Annual reports by community councils](section/52.md)
+- PART 4 LOCAL AUTHORITY EXECUTIVES, MEMBERS, OFFICERS AND COMMITTEES
+  - Overview of Part
+    - [s. 53 Overview](section/53.md)
+  - Chief executives
+    - [s. 54 Chief executives](section/54.md)
+    - [s. 55 Replacement of references to “salary” in section 143A of the 2011 Measure](section/55.md)
+    - [s. 56 Reconsideration of remuneration following direction by the Welsh Ministers](section/56.md)
+  - Executives of principal councils
+    - [s. 57 Appointment of assistants to executive](section/57.md)
+    - [s. 58 Job-sharing: executive leaders and executive members](section/58.md)
+    - [s. 59 Content of, and duty to have regard to, guidance under section 38 of the 2000 Act](section/59.md)
+  - Entitlement of members to job-share and to family absence
+    - [s. 60 Job-sharing: non-executive offices in principal councils](section/60.md)
+    - [s. 61 Family absence for members of local authorities](section/61.md)
+  - Conduct of members
+    - [s. 62 Duties of leaders of political groups in relation to standards of conduct](section/62.md)
+    - [s. 63 Duty of standards committee to make annual report](section/63.md)
+    - [s. 64 Certain investigations by the Public Services Ombudsman for Wales](section/64.md)
+  - Overview and scrutiny committees
+    - [s. 65 Making information available to overview and scrutiny committees](section/65.md)
+    - [s. 66 Power to require authorities to appoint joint overview and scrutiny committees](section/66.md)
+  - Training of members and staff of community councils
+    - [s. 67 Community council training plans](section/67.md)
+- PART 5 COLLABORATIVE WORKING BY PRINCIPAL COUNCILS
+  - CHAPTER 1 TERMS USED IN PART
+    - [s. 68 Terms used in Part](section/68.md)
+  - CHAPTER 2 GUIDANCE ABOUT COLLABORATIVE WORKING
+    - [s. 69 Guidance about collaborative working](section/69.md)
+  - CHAPTER 3 ESTABLISHING CORPORATE JOINT COMMITTEES where request has been made
+    - Applications to establish a corporate joint committee
+      - [s. 70 Application by principal councils to establish a corporate joint committee](section/70.md)
+      - [s. 71 Consultation before making joint committee application](section/71.md)
+    - Requested joint committee regulations
+      - [s. 72 Requested joint committee regulations](section/72.md)
+      - [s. 73 Conditions to be met before making requested joint committee regulations](section/73.md)
+  - CHAPTER 4 ESTABLISHING CORPORATE JOINT COMMITTEES WHERE NO REQUEST HAS BEEN MADE
+    - [s. 74 Joint committee regulations where no request has been made](section/74.md)
+    - [s. 75 Conditions to be met before making regulations under section 74](section/75.md)
+  - CHAPTER 5 FURTHER PROVISION RELATING TO CORPORATE JOINT COMMITTEES AND JOINT COMMITTEE REGULATIONS
+    - Promotion and improvement of economic well-being
+      - [s. 76 Economic well-being function](section/76.md)
+    - Provision in joint committee regulations
+      - [s. 77 Provision that may or must be included in joint committee regulations](section/77.md)
+    - Amendment and revocation of joint committee regulations
+      - [s. 78 Application by principal councils to amend or revoke joint committee regulations](section/78.md)
+      - [s. 79 Further provision in relation to applications](section/79.md)
+      - [s. 80 Amendment and revocation of joint committee regulations](section/80.md)
+      - [s. 81 Conditions to be met before amending joint committee regulations: application required from principal councils](section/81.md)
+      - [s. 82 Conditions to be met before amending or revoking joint committee regulations: no application required from principal councils](section/82.md)
+    - Supplementary etc. provision in and in relation to joint committee regulations
+      - [s. 83 Supplementary etc. provision in certain regulations under this Part](section/83.md)
+      - [s. 84 Power of the Welsh Ministers to amend, repeal etc. enactments](section/84.md)
+    - Functions of and relating to corporate joint committees and principal councils
+      - [s. 85 Requirement to provide information etc.](section/85.md)
+      - [s. 86 Guidance](section/86.md)
+      - [s. 87 Exercise by principal councils of functions under this Part](section/87.md)
+    - Amendments of other enactments
+      - [s. 88 Amendments relating to strategic planning and joint transport authorities](section/88.md)
+- PART 6 PERFORMANCE AND GOVERNANCE OF PRINCIPAL COUNCILS AND CORPORATE JOINT COMMITTEES
+  - CHAPTER 1 PERFORMANCE, PERFORMANCE ASSESSMENTS AND INTERVENTION: PRINCIPAL COUNCILS
+    - Performance
+      - [s. 89 Duty of principal council to keep its performance under review](section/89.md)
+      - [s. 90 Duty to consult local people etc. on performance](section/90.md)
+    - Self-assessments of performance
+      - [s. 91 Duty of principal council to report on its performance](section/91.md)
+    - Panel assessments of performance
+      - [s. 92 Duty of principal council to arrange panel performance assessment](section/92.md)
+      - [s. 93 Duty of principal council to respond to report of panel performance assessment](section/93.md)
+      - [s. 94 Panel performance assessments: supplementary regulations](section/94.md)
+    - Special inspections by Auditor General for Wales
+      - [s. 95 Power of Auditor General to carry out a special inspection](section/95.md)
+      - [s. 96 Duty of principal council to respond to Auditor General’s recommendations](section/96.md)
+      - [s. 97 Duty of the Welsh Ministers to respond to Auditor General’s recommendations](section/97.md)
+      - [s. 98 Auditor General’s powers of entry and inspection etc.](section/98.md)
+      - [s. 99 Auditor General’s powers of entry and inspection etc.: notice and evidence of identity](section/99.md)
+      - [s. 100 Auditor General’s powers of entry and inspection etc.: offences](section/100.md)
+      - [s. 101 Auditor General’s fees](section/101.md)
+    - Support and assistance with improving performance
+      - [s. 102 Support and assistance by the Welsh Ministers](section/102.md)
+      - [s. 103 Direction to a principal council to provide support and assistance](section/103.md)
+    - Intervention by the Welsh Ministers
+      - [s. 104 Powers of the Welsh Ministers to intervene](section/104.md)
+      - [s. 105 Direction to co-operate with provision of support and assistance](section/105.md)
+      - [s. 106 Direction to take or not to take etc. a specified step](section/106.md)
+      - [s. 107 Direction that a function be performed by the Welsh Ministers or their nominee](section/107.md)
+    - Supplementary
+      - [s. 108 Exercise of functions under this Chapter](section/108.md)
+      - [s. 109 Power of the Welsh Ministers to add to list of persons to whom reports etc. must be sent](section/109.md)
+      - [s. 110 Power of the Welsh Ministers to amend etc. enactments and confer new powers](section/110.md)
+      - [s. 111 Guidance](section/111.md)
+      - [s. 112 Interpretation](section/112.md)
+    - Amendment of other enactments
+      - [s. 113 Disapplication of the 2009 Measure in relation to principal councils and repeal of provisions about coordination of audit](section/113.md)
+      - [s. 114 Amendment of the Well-being of Future Generations (Wales) Act 2015](section/114.md)
+    - Governance and audit committees of principal councils
+      - [s. 115 New name and functions of audit committees](section/115.md)
+  - CHAPTER1A PERFORMANCE, PERFORMANCE ASSESSMENTS AND INTERVENTION: CORPORATE JOINT COMMITTEES
+    - [s. 115A Application of Chapter 1 to corporate joint committees](section/115A.md)
+  - CHAPTER 2 GOVERNANCE AND AUDIT COMMITTEES: MEMBERSHIP AND PROCEEDINGS
+    - [s. 116 Membership of governance and audit committee](section/116.md)
+    - [s. 117 Meaning of lay person](section/117.md)
+    - [s. 118 Proceedings etc.](section/118.md)
+  - CHAPTER 3 COORDINATION BETWEEN REGULATORS
+    - [s. 119 Coordination between regulators](section/119.md)
+    - [s. 120 “Relevant regulators” and “relevant functions”](section/120.md)
+- PART 7 MERGERS AND RESTRUCTURING OF PRINCIPAL AREAS
+  - CHAPTER 1 VOLUNTARY MERGERS OF PRINCIPAL AREAS
+    - Applications for mergers
+      - [s. 121 Merger applications](section/121.md)
+      - [s. 122 Consultation before making merger application](section/122.md)
+      - [s. 123 Guidance about merger applications](section/123.md)
+    - Merger regulations
+      - [s. 124 Merger regulations](section/124.md)
+      - [s. 125 Shadow councils and shadow executives](section/125.md)
+      - [s. 126 Voting system](section/126.md)
+      - [s. 127 Elections](section/127.md)
+    - Facilitating mergers
+      - [s. 128 Duties of merging councils to facilitate transfer](section/128.md)
+  - CHAPTER 2 RESTRUCTURING OF PRINCIPAL AREAS
+    - Conditions to be met
+      - [s. 129 Conditions to be met before making restructuring regulations](section/129.md)
+    - Abolition requests
+      - [s. 130 Abolition requests](section/130.md)
+    - Restructuring regulations
+      - [s. 131 Restructuring regulations](section/131.md)
+      - [s. 132 Restructuring regulations which provide for part of a principal area to become part of another existing principal area](section/132.md)
+      - [s. 133 Restructuring regulations which constitute a new principal area](section/133.md)
+      - [s. 134 Restructuring regulations: supplementary](section/134.md)
+    - Facilitating restructuring
+      - [s. 135 Duties of restructuring councils to facilitate transfer](section/135.md)
+  - CHAPTER 3 FUNCTIONS RELATING TO MERGERS AND RESTRUCTURING
+    - [s. 136 Transition committees](section/136.md)
+    - [s. 137 Restraint of transactions and recruitment](section/137.md)
+    - [s. 138 Reviews of electoral arrangements](section/138.md)
+    - [s. 139 Prohibition of changes to executive arrangements](section/139.md)
+    - [s. 140 Requirement on principal councils to provide information etc. to the Welsh Ministers](section/140.md)
+    - [s. 141 Requirement on principal councils to provide information etc. to other bodies](section/141.md)
+  - CHAPTER 4 REMUNERATION ARRANGEMENTS FOR NEW PRINCIPAL COUNCILS
+    - [s. 142 Directions to Democracy and Boundary Commission Cymru](section/142.md)
+    - [s. 143 Reports of Commission relating to shadow councils and new principal councils](section/143.md)
+    - [s. 144 Guidance to Commission](section/144.md)
+    - [s. 145 Pay policy statements](section/145.md)
+  - CHAPTER 5 SUPPLEMENTARY
+    - [s. 146 Guidance](section/146.md)
+    - [s. 147 Other consequential etc. provision](section/147.md)
+    - [s. 148 Initial procedure for restructuring regulations](section/148.md)
+    - [s. 149 Terms used in this Part](section/149.md)
+    - [s. 150 Repeals of other enactments](section/150.md)
+- PART 8 LOCAL GOVERNMENT FINANCE
+  - Non-domestic rating
+    - [s. 151 Powers of billing authorities to require the supply of information relating to hereditaments](section/151.md)
+    - [s. 152 Requirement to supply to billing authorities information relevant to determining liability to non-domestic rates](section/152.md)
+    - [s. 153 Powers of billing authorities to inspect properties](section/153.md)
+    - [s. 154 Multipliers](section/154.md)
+    - [s. 155 Amendment of Chapter 3 of Part 5 of the Local Government Finance Act 1988](section/155.md)
+  - Council tax
+    - [s. 156 Joint and several liability to pay council tax](section/156.md)
+    - [s. 157 Removal of power to provide for imprisonment of council tax debtors](section/157.md)
+    - [s. 158 Procedure for certain regulations and orders made under the Local Government Finance Act 1992](section/158.md)
+- PART 9 MISCELLANEOUS
+  - Information sharing
+    - [s. 159 Information sharing between regulators, the Auditor General for Wales and the Welsh Ministers](section/159.md)
+    - [s. 160 Amendment of the Public Audit (Wales) Act 2004 consequential on section 159](section/160.md)
+  - Head of democratic services
+    - [s. 161 Head of democratic services](section/161.md)
+  - Polls consequent on community meetings
+    - [s. 162 Abolition of polls consequent on a community meeting](section/162.md)
+  - Local Democracy and Boundary Commission
+    - [s. 163 Appointment by Local Democracy and Boundary Commission of its chief executive](section/163.md)
+    - [s. 164 Directions under section 48 of the 2013 Act](section/164.md)
+  - Public services boards
+    - [s. 165 Merging and demerging public services boards under the Well-being of Future Generations (Wales) Act 2015](section/165.md)
+  - Fire and rescue authorities
+    - [s. 166 Combined fire and rescue authorities: inquiries](section/166.md)
+    - [s. 167 Performance and governance of fire and rescue authorities](section/167.md)
+    - [s. 168 Fire and rescue authorities: disapplication of the 2009 Measure](section/168.md)
+  - National Park authorities
+    - [s. 169 National Park authorities: disapplication of the 2009 Measure](section/169.md)
+  - Local Government (Wales) Measure 2009
+    - [s. 170 Repeal of the 2009 Measure](section/170.md)
+- PART 10 GENERAL
+  - [s. 171 Interpretation](section/171.md)
+  - [s. 172 Directions](section/172.md)
+  - [s. 173 Power to make consequential and transitional provision etc.](section/173.md)
+  - [s. 174 Regulations under this Act](section/174.md)
+  - [s. 175 Coming into force](section/175.md)
+  - [s. 176 Short title](section/176.md)
+- SCHEDULE 1 Initial reviews of electoral arrangements etc.
+  - Initial reviews
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - “Area under review”
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Other terms used in this Schedule
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Directions and guidance to Commission
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Conduct of initial review
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Pre-review procedure
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Investigation and interim report
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Final report
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Power to make regulations where recommendations are made
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Power to make regulations where no recommendations are made
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Regulations under paragraph 9 or 10: supplementary
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Subsequent reviews by the Commission where regulations are made under paragraph 9(1)(b) or 10(2)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Delegation by the Commission of functions under this Schedule
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Orders under Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013 (anaw 4)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- .SCHEDULE 2 Minor and consequential amendments relating to Part 1: elections
+  - PART 1 Primary legislation
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Representation of the People Act 1983 (c. 2)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Representation of the People Act 1985 (c. 50)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Parliamentary Constituencies Act 1986 (c. 56)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Local Government and Housing Act 1989 (c. 42)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Local Government (Wales) Act 1994 (c. 19)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Representation of the People Act 2000 (c. 2)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Countryside and Rights of Way Act 2000 (c. 37)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Political Parties, Elections and Referendums Act 2000 (c. 41)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Local Government and Public Involvement in Health Act 2007 (c. 28)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Local Government (Wales) Measure 2011 (nawm 4)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Senedd and Elections (Wales) Act 2020 (anaw 1)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - PART 2 Subordinate legislation
+    - Representation of the People (England and Wales) Regulations 2001 (S.I. 2001/341)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Representation of the People (Combination of Polls) (England and Wales) Regulations 2004 (S.I. 2004/294)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Business Improvement Districts (Wales) Regulations 2005 (S.I. 2005/1312)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Local Elections (Principal Areas) (England and Wales) Rules 2006 (S.I. 2006/3304)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Amendments relating to Part 2: general power of competence
+  - PART 1 Amendments relating to Chapter 1 of Part 2: the general power
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Local Government Act 2003 (c. 26)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Local Government and Public Involvement in Health Act 2007 (c. 28)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Local Government (Wales) Measure 2009 (nawm 2)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Local Government (Wales) Measure 2011 (nawm 4)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Localism Act 2011 (c. 20)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - This Act
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - PART 2 Amendments relating to Chapter 2 of Part 2: eligible community councils
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Nationality, Immigration and Asylum Act 2002 (c. 41)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Local Government Act 2003 (c. 26)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Local Government (Wales) Measure 2011 (nawm 4)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Localism Act 2011 (c. 20)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - This Act
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Notice of local authority meetings, access to documents and attendance at meetings
+  - PART 1 Notice of local authority meetings and access to documents
+    - Notices of local authority meetings
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Copies and publication of documents relating to meetings of local authorities
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Application to committees and sub-committees
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Application and interpretation
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Publication of public notices given by local authorities
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Electronic service of summonses on members to attend local authority meetings
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Venue for community council meetings
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Notices of community council committee and sub-committee meetings to be published
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Saving provision
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - PART 2 Attendance at local authority meetings: consequential amendments
+    - Attendance at local authority meetings: amendments consequential on section 47
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 Consequential amendments relating to chief executives
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Local Government (Wales) Measure 2011 (nawm 4)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Police Reform and Social Responsibility Act 2011 (c. 13)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Localism Act 2011 (c. 20)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - This Act
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 Consequential amendments etc. relating to assistants to local authority executives
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Pilotage Act 1987 (c. 21)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Local Government Finance Act 1992 (c. 14)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Local Government (Wales) Measure 2011 (nawm 4)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Job-sharing by executive leaders and executive members
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Local Government and Public Involvement in Health Act 2007 (c. 28)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Localism Act 2011 (c. 20)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Conduct of local government members: investigations by the Public Services Ombudsman for Wales
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Government of Wales Act 2006 (c. 32)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Localism Act 2011 (c. 20)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Public Services Ombudsman (Wales) Act 2019 (anaw 3)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Amendments related to Corporate Joint Committees
+  - PART 1 Creation of strategic planning functions for certain corporate joint committees and repeal of powers to establish strategic planning panels etc.
+    - Planning and Compulsory Purchase Act 2004 (c. 5)
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Planning (Wales) Act 2015 (anaw 4)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Local Authorities (Goods and Services) Act 1970 (c. 39)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Welsh Development Agency Act 1975 (c. 70)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Wildlife and Countryside Act 1981 (c. 69)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Town and Country Planning Act 1990 (c. 8)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - Water Resources Act 1991 (c. 57)
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+    - Coal Industry Act 1994 (c. 21)
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+    - Countryside and Rights of Way Act 2000 (c. 37)
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - Finance Act 2003 (c. 14)
+      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - Planning and Energy Act 2008 (c. 21)
+      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+    - Marine and Coastal Access Act 2009 (c. 23)
+      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+    - Welsh Language (Wales) Measure 2011 (nawm 1)
+      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+    - Local Government (Wales) Measure 2011 (nawm 4)
+      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+    - Environment (Wales) Act 2016 (anaw 3)
+      - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+    - Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)
+      - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+    - Public Services Ombudsman (Wales) Act 2019 (anaw 3)
+      - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+  - PART 2 Repeal of power to establish joint transport authorities
+    - Transport (Wales) Act 2006 (c. 5)
+      - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+- SCHEDULE 10 Consequential amendments relating to renaming of principal council audit committees
+  - Local Government (Wales) Measure 2011 (nawm 4)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - This Act
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 10A (introduced by section 115A)
+  - APPLICATION OF CHAPTER 1 OF PART 6 TO CORPORATE JOINT COMMITTEES
+    - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+    - General modification of references
+      - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+    - Corporate joint committee to consult local people etc. on performance
+      - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+    - Self-assessment report by corporate joint committee
+      - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+    - Panel assessment of performance
+      - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+    - Response by corporate joint committee to report by panel
+      - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+    - Special inspection by Auditor General for Wales
+      - [Sch. 10A para. 7](schedule/10A/paragraph/7.md)
+    - Response by corporate joint committee to Auditor General’s recommendations
+      - [Sch. 10A para. 8](schedule/10A/paragraph/8.md)
+    - Response by the Welsh Ministers to Auditor General’s recommendations
+      - [Sch. 10A para. 9](schedule/10A/paragraph/9.md)
+    - Auditor General’s powers of entry and inspection etc.
+      - [Sch. 10A para. 10](schedule/10A/paragraph/10.md)
+    - Auditor General’s powers of entry and inspection etc.: notice and evidence of identity
+      - [Sch. 10A para. 11](schedule/10A/paragraph/11.md)
+    - Consultation on Auditor General’s fees
+      - [Sch. 10A para. 12](schedule/10A/paragraph/12.md)
+    - Direction to provide support and assistance
+      - [Sch. 10A para. 13](schedule/10A/paragraph/13.md)
+    - Powers of the Welsh Ministers to intervene
+      - [Sch. 10A para. 14](schedule/10A/paragraph/14.md)
+    - Direction to co-operate with provision of support and assistance
+      - [Sch. 10A para. 15](schedule/10A/paragraph/15.md)
+    - Exercise of functions
+      - [Sch. 10A para. 16](schedule/10A/paragraph/16.md)
+    - Interpretation
+      - [Sch. 10A para. 17](schedule/10A/paragraph/17.md)
+- SCHEDULE 11 Transition committees of merging councils and restructuring councils
+  - PART 1 Merging councils
+    - Transition committees for merging councils
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Membership of transition committees for merging councils
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Functions of transition committees for merging councils
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - PART 2 Restructuring councils
+    - Transition committees for restructuring councils
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - PART 3 Transition committees of merging councils and restructuring councils
+    - Sub-committees of transition committees for merging councils or restructuring councils
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Provision of funding, facilities and information etc. to transition committees for merging councils or restructuring councils
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Transition committees for merging councils or restructuring councils: further provision
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12 Restraints on transactions and recruitment etc. by merging councils and restructuring councils
+  - Restraining transactions and recruitment etc. by direction
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Directions under paragraph 1: supplementary
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Directions under paragraph 1: further provision about reserves
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Directions under paragraph 1(3): supplementary
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Directions: consequences of contravention
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Interpretation of paragraphs 1 and 7
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Determining whether financial limits have been exceeded
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Financial limits: further provision
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Guidance in relation to transactions, recruitment etc.
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13 Abolition of polls consequent on community meetings under the 1972 Act
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Local Government and Housing Act 1989 (c. 42)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Local Government (Wales) Measure 2011 (nawm 4)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - This Act
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+- SCHEDULE 14 Consequential amendments relating to merger and demerger of public services boards
+  - Well-being of Future Generations (Wales) Act 2015 (anaw 2)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Local Government Act 2000 (c. 22)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Children and Families (Wales) Measure 2010 (nawm 1)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Mental Health (Wales) Measure 2010 (nawm 7)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Violence Against Women, Domestic Abuse and Sexual Violence (Wales) Act 2015 (anaw 3)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
