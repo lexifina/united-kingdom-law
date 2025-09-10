@@ -2,9 +2,9 @@
 
 2015 c. 20. Enacted 2015-03-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2020-12-01, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/20` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. Earlier versions, from 2015-03-26, are in the history before it: `git log -- ukpga/2015/20` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2015/20/2020-12-01
+Source: https://www.legislation.gov.uk/ukpga/2015/20/2025-09-10
 
 ## Contents
 
@@ -691,7 +691,7 @@ Source: https://www.legislation.gov.uk/ukpga/2015/20/2020-12-01
       - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
     - Horticultural Produce Act 1986: movement of horticultural produce
       - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
-    - Housing Act 1988: designation of Housing Action Trust Areas
+    - ...
       - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
     - Land Drainage Act 1991: codes of practice
       - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
