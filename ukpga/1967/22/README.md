@@ -1,0 +1,191 @@
+# Agriculture Act 1967
+
+1967 c. 22. Enacted 1967-05-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1967/22
+
+Source: https://www.legislation.gov.uk/ukpga/1967/22/2025-09-10
+
+## Contents
+
+- Part I Livestock and Meat Marketing
+  - The Meat and Livestock Commission
+    - [s. 1 The Meat and Livestock Commission.](section/1.md)
+    - [s. 1A Commission’s duty to consult representative organisations.](section/1A.md)
+    - [s. 2 The Consumers Committee, and other committees of the Commission.](section/2.md)
+    - [s. 3 Commission’s duties in connection with fatstock guaranteed prices and calf subsidies.](section/3.md)
+    - [s. 4 Commission’s functions in connection with Markets and Fairs (Weighing of Cattle) Acts.](section/4.md)
+    - [s. 5 Systems for classification of carcases.](section/5.md)
+    - [s. 6 Compulsory use of systems of classification of carcases.](section/6.md)
+    - [s. 7 Systems of classifying meat, and codes of practice for butchers.](section/7.md)
+    - [s. 8 Information as to retail meat prices.](section/8.md)
+    - [s. 9 Powers to meet future developments in livestock and livestock products industries.](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 12 ................................](section/12.md)
+  - Financial
+    - [s. 13 Levy on industries to meet Commission’s expenses.](section/13.md)
+    - [s. 14 Levy: registration, returns and records.](section/14.md)
+    - [s. 15 Ministers’ contributions to Commission’s expenses.](section/15.md)
+    - [s. 16 Payments for scientific research.](section/16.md)
+    - [s. 17 Collection of statutory levies by Commission.](section/17.md)
+    - [s. 18 Commission’s reserve fund.](section/18.md)
+    - [s. 19 Commission’s annual report and accounts.](section/19.md)
+  - Supplemental
+    - [s. 20 Directions to Commission by Ministers.](section/20.md)
+    - [s. 21 Inquiries by Commission.](section/21.md)
+    - [s. 22 Dissolution of Pig Industry Development Authority.](section/22.md)
+    - [s. 23 Power of entry.](section/23.md)
+    - [s. 24 Disclosure of information.](section/24.md)
+    - [s. 25 Interpretation of Part I.](section/25.md)
+- PART II FARM STRUCTURE AND FARM IMPROVEMENTS, AND PROMOTION OF AGRICULTURAL INVESTMENT
+  - Farm Structure
+    - [s. 26](section/26.md)
+    - [s. 27](section/27.md)
+    - [s. 28](section/28.md)
+    - [s. 29](section/29.md)
+    - [s. 30 ................................](section/30.md)
+  - Promotion of agricultural investment
+    - [s. 31 ................................](section/31.md)
+    - [s. 33 Supplements to improvement and water supply grants.](section/33.md)
+    - [s. 34 Power to vary rates, and extend scope, of grants for agricultural investment.](section/34.md)
+  - Supplemental
+    - [s. 35 General provisions for schemes under Part II.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 Recovery of grant and revocation of approval.](section/37.md)
+    - [s. 38 ................................](section/38.md)
+    - [s. 39 Provisions relating to Northern Ireland.](section/39.md)
+    - [s. 40 Interpretation of Part II.](section/40.md)
+- Part III Hill Land
+  - General
+    - [s. 41 ................................](section/41.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 ................................](section/44.md)
+  - Special measures for certain areas
+    - [s. 45 Rural Development Boards.](section/45.md)
+    - [s. 46 Functions of Rural Development Boards.](section/46.md)
+    - [s. 47 Boards’ powers of giving financial assistance.](section/47.md)
+    - [s. 48 Promotion of amalgamations and boundary adjustments by Rural Development Boards.](section/48.md)
+    - [s. 49 Control of sale of certain land.](section/49.md)
+    - [s. 50 Control of sale of certain land: exceptions and supplemental provisions.](section/50.md)
+    - [s. 51 Schemes for co-ordinated amalgamations and reshaping of agricultural units.](section/51.md)
+    - [s. 52 Control of afforestation.](section/52.md)
+    - [s. 53 Boards’ annual reports and accounts.](section/53.md)
+    - [s. 54 Directions to Boards by appropriate Minister.](section/54.md)
+    - [s. 55 Powers of entry and of obtaining information.](section/55.md)
+    - [s. 56 Application of Part III to Highlands and Islands of Scotland.](section/56.md)
+  - Supplemental
+    - [s. 57 Interpretation of Part III.](section/57.md)
+- Part IV Co-operative Activities
+  - [s. 58 The Central Council for Agricultural and Horticultural Co-operation.](section/58.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 60 Directions to Council by Ministers.](section/60.md)
+  - [s. 61 Grants for purposes connected with co-operative activities.](section/61.md)
+  - [s. 62 Supplemental.](section/62.md)
+- Part V Miscellaneous
+  - [s. 63 Financial assistance for certain bodies making agricultural loans](section/63.md)
+  - [s. 64 Grants towards fulfilling guarantees of bank loans to agriculture or horticulture businesses.](section/64.md)
+  - [s. 65 Grants for keeping farm business records.](section/65.md)
+  - [s. 66 ................................](section/66.md)
+  - [s. 67 Sick pay for agricultural workers.](section/67.md)
+  - [s. 68 Application of capital money in payment of improvement rentcharges.](section/68.md)
+  - [s. 69 False statements to obtain grants, etc.](section/69.md)
+  - [s. 70 Guaranteed prices: minor amendments as respects powers of entry and offences.](section/70.md)
+- Part VI Supplemental and General
+  - [s. 71 Offences by bodies corporate.](section/71.md)
+  - [s. 72 Application to Northern Ireland.](section/72.md)
+  - [s. 73 ................................](section/73.md)
+  - [s. 74 Expenses and receipts of Ministers.](section/74.md)
+  - [s. 75 Short title, interpretation, repeals and commencement.](section/75.md)
+- SCHEDULE 1 The Meat and Livestock Commission
+  - Part I Functions
+    - [Sch. 1 Pt. I para. 1](schedule/1/part/I/paragraph/1.md)
+    - [Sch. 1 Pt. I para. 2](schedule/1/part/I/paragraph/2.md)
+    - [Sch. 1 Pt. I para. 3](schedule/1/part/I/paragraph/3.md)
+    - [Sch. 1 Pt. I para. 4](schedule/1/part/I/paragraph/4.md)
+    - [Sch. 1 Pt. I para. 5](schedule/1/part/I/paragraph/5.md)
+    - [Sch. 1 Pt. I para. 6](schedule/1/part/I/paragraph/6.md)
+    - [Sch. 1 Pt. I para. 7](schedule/1/part/I/paragraph/7.md)
+    - [Sch. 1 Pt. I para. 8](schedule/1/part/I/paragraph/8.md)
+    - [Sch. 1 Pt. I para. 9](schedule/1/part/I/paragraph/9.md)
+    - [Sch. 1 Pt. I para. 10](schedule/1/part/I/paragraph/10.md)
+    - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Part II The Commission
+    - [Sch. 1 Pt. 2 para. 1](schedule/1/part/2/paragraph/1.md)
+    - [Sch. 1 Pt. 2 para. 2](schedule/1/part/2/paragraph/2.md)
+    - [Sch. 1 Pt. 2 para. 3](schedule/1/part/2/paragraph/3.md)
+    - [Sch. 1 Pt. 2 para. 4](schedule/1/part/2/paragraph/4.md)
+    - [Sch. 1 Pt. 2 para. 5](schedule/1/part/2/paragraph/5.md)
+    - [Sch. 1 Pt. 2 para. 6](schedule/1/part/2/paragraph/6.md)
+    - [Sch. 1 Pt. 2 para. 7](schedule/1/part/2/paragraph/7.md)
+    - [Sch. 1 Pt. 2 para. 8](schedule/1/part/2/paragraph/8.md)
+    - [Sch. 1 Pt. 2 para. 9](schedule/1/part/2/paragraph/9.md)
+    - [Sch. 1 Pt. 2 para. 10](schedule/1/part/2/paragraph/10.md)
+  - Part IIA Classes of Persons for Purposes of Section 1A
+  - Part III The Commission’s Committees
+    - The Consumers Committee
+      - [Sch. 1 Pt. III heading the-consumers-committee para. 1](schedule/1/part/III/crossheading/the-consumers-committee/paragraph/1.md)
+    - Payment of members of committees
+      - [Sch. 1 Pt. III heading payment-of-members-of-committees para. 2](schedule/1/part/III/crossheading/payment-of-members-of-committees/paragraph/2.md)
+    - Procedure
+      - [Sch. 1 Pt. III heading procedure para. 3](schedule/1/part/III/crossheading/procedure/paragraph/3.md)
+- SCHEDULE 2 Supplementary provisions with respect to Development Schemes
+  - Procedure for making development schemes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Confirmation of development scheme by order
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Coming into force of development scheme
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Proceedings questioning validity of a development scheme
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Ministers’ powers to revoke or direct variation of a development scheme
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4
+- SCHEDULE 5 Rural Development Boards
+  - [Sch. 5 Pt. I heading procedure-for-making-order para. 2](schedule/5/part/I/crossheading/procedure-for-making-order/paragraph/2.md)
+  - [Sch. 5 Pt. I heading procedure-for-making-order para. 3](schedule/5/part/I/crossheading/procedure-for-making-order/paragraph/3.md)
+  - [Sch. 5 Pt. I heading procedure-for-making-order para. 4](schedule/5/part/I/crossheading/procedure-for-making-order/paragraph/4.md)
+  - [Sch. 5 Pt. I heading procedure-for-making-order para. 5](schedule/5/part/I/crossheading/procedure-for-making-order/paragraph/5.md)
+  - [Sch. 5 Pt. I heading orders-varying-boards-area-or-dissolving-a-board para. 6](schedule/5/part/I/crossheading/orders-varying-boards-area-or-dissolving-a-board/paragraph/6.md)
+  - [Sch. 5 para. 6A](schedule/5/paragraph/6A.md)
+  - [Sch. 5 Pt. I heading supplemental para. 7](schedule/5/part/I/crossheading/supplemental/paragraph/7.md)
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 Pt. II para. 2](schedule/5/part/II/paragraph/2.md)
+  - [Sch. 5 Pt. II para. 3](schedule/5/part/II/paragraph/3.md)
+  - [Sch. 5 Pt. II para. 4](schedule/5/part/II/paragraph/4.md)
+  - [Sch. 5 Pt. II para. 5](schedule/5/part/II/paragraph/5.md)
+  - [Sch. 5 Pt. II para. 6](schedule/5/part/II/paragraph/6.md)
+  - [Sch. 5 Pt. II para. 7](schedule/5/part/II/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 ...
