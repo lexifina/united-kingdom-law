@@ -1,0 +1,267 @@
+# Mobile Homes (Wales) Act 2013
+
+anaw/2013/6. Enacted 2013-11-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 9 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2013/6
+
+Source: https://www.legislation.gov.uk/anaw/2013/6/2025-09-10
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview of Act](section/1.md)
+  - [s. 2 Mobile home sites subject to Act](section/2.md)
+  - [s. 3 Owners of sites](section/3.md)
+- PART 2 LICENSING OF MOBILE HOME SITES ETC.
+  - Introduction
+    - [s. 4 Overview of Part](section/4.md)
+  - Site licences
+    - [s. 5 Prohibition on use of land as regulated site without site licence](section/5.md)
+    - [s. 6 Application for site licence](section/6.md)
+    - [s. 7 Issue of site licence](section/7.md)
+    - [s. 8 Duration of site licence](section/8.md)
+  - Conditions of site licences
+    - [s. 9 Power to attach conditions to site licence](section/9.md)
+    - [s. 10 Model standards](section/10.md)
+    - [s. 11 Fire precautions](section/11.md)
+    - [s. 12 Appeal against conditions of site licence](section/12.md)
+    - [s. 13 Power of local authority to vary conditions of site licence](section/13.md)
+    - [s. 14 Appeal against variation of conditions of site licence](section/14.md)
+  - Breach of condition
+    - [s. 15 Breach of condition](section/15.md)
+    - [s. 16 Fixed penalty notice](section/16.md)
+    - [s. 17 Compliance notices](section/17.md)
+    - [s. 18 Compliance notice: offence and multiple convictions](section/18.md)
+    - [s. 19 Compliance notice: power to demand expenses](section/19.md)
+    - [s. 20 Power to take action following conviction of owner](section/20.md)
+    - [s. 21 Power to take emergency action](section/21.md)
+    - [s. 22 Action under section 20 or 21: power to demand expenses](section/22.md)
+    - [s. 23 Appeals under section 17, 21 or 22](section/23.md)
+    - [s. 24 When compliance notice or expenses demand becomes operative](section/24.md)
+    - [s. 25 Recovery of expenses demanded under section 19 or 22](section/25.md)
+  - Revocation and surrender of site licences
+    - [s. 26 Revocation on death, change of ownership or cessation of use](section/26.md)
+    - [s. 27 Duty of licence holder to allow site licence to be altered](section/27.md)
+  - Site managers to be fit and proper persons
+    - [s. 28 Requirement for manager of site to be fit and proper person](section/28.md)
+    - [s. 29 Decision whether person is fit and proper](section/29.md)
+  - Interim managers
+    - [s. 30 Appointment of interim manager](section/30.md)
+    - [s. 31 Terms of appointment and powers of interim manager](section/31.md)
+  - Other enforcement provisions
+    - [s. 32 Power of entry of officers of local authorities](section/32.md)
+    - [s. 33 Repayment orders](section/33.md)
+  - Miscellaneous and supplementary
+    - [s. 34 False or misleading statements or information](section/34.md)
+    - [s. 35 Guidance by Welsh Ministers](section/35.md)
+    - [s. 36 Powers to charge fees: supplementary](section/36.md)
+    - [s. 37 Registers of site licences](section/37.md)
+    - [s. 38 Crown land](section/38.md)
+    - [s. 39 Interpretation](section/39.md)
+- PART 3 PROTECTION FROM EVICTION
+  - [s. 40 Application of Part](section/40.md)
+  - [s. 41 Minimum length of notice](section/41.md)
+  - [s. 42 Protection of occupiers against eviction and harassment, false information etc.](section/42.md)
+  - [s. 43 Offences under section 42: supplementary](section/43.md)
+  - [s. 44 Provision for suspension of eviction orders](section/44.md)
+  - [s. 45 Supplementary](section/45.md)
+  - [s. 46 Offences](section/46.md)
+  - [s. 47 Interpretation](section/47.md)
+- PART 4 MOBILE HOME AGREEMENTS
+  - [s. 48 Agreements to which Part applies](section/48.md)
+  - [s. 49 Particulars of agreements](section/49.md)
+  - [s. 50 Terms of agreements](section/50.md)
+  - [s. 51 Power to amend implied terms](section/51.md)
+  - [s. 52 Site rules](section/52.md)
+  - [s. 53 Successors in title](section/53.md)
+  - [s. 54 Jurisdiction of a tribunal or the court](section/54.md)
+  - [s. 55 Interpretation](section/55.md)
+- PART 5 POWERS OF LOCAL AUTHORITIES
+  - [s. 56 Power to provide sites for mobile homes](section/56.md)
+  - [s. 57 Power to prohibit mobile homes on commons](section/57.md)
+- PART 6 SUPPLEMENTARY AND GENERAL
+  - [s. 58 Consequential amendments and transitionals etc.](section/58.md)
+  - [s. 59 Liability of officers of bodies corporate](section/59.md)
+  - [s. 60 Meaning of “mobile home”](section/60.md)
+  - [s. 61 Meaning of “qualifying residents’ association”](section/61.md)
+  - [s. 62 Other interpretation](section/62.md)
+  - [s. 63 Orders and regulations etc.](section/63.md)
+  - [s. 64 Commencement](section/64.md)
+  - [s. 65 Short title](section/65.md)
+- SCHEDULE 1 SITES WHICH ARE NOT REGULATED SITES
+  - Use within curtilage of dwelling house
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Use by a person travelling with a mobile home for 1 or 2 nights
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Use of holdings of 20,000 m² or more in certain circumstances
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Sites owned and supervised by exempted organisations
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Sites approved by exempted organisations
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Meetings organised by exempted organisations
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Agricultural and forestry workers
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Building and engineering sites
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Travelling showmen
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Sites owned by local authority
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Temporary exemption after death of, or other change in, owner
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Certification of exempted organisations
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Power to withdraw exceptions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 TERMS OF MOBILE HOME AGREEMENTS
+  - PART 1 TERMS IMPLIED BY ACT
+    - CHAPTER 1 APPLICATION
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - CHAPTER 2 AGREEMENTS RELATING TO PITCHES EXCEPT THOSE ON LOCAL AUTHORITY GYPSY AND TRAVELLER SITES
+      - Duration of agreement
+        - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+        - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - Termination
+        - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+        - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+        - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+        - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - Recovery of overpayments by occupier
+        - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - Sale of mobile home
+        - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+        - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+        - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - Gift of mobile home
+        - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+        - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - Re-siting of mobile home
+        - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - Quiet enjoyment of the mobile home
+        - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - Owner’s right of entry to the pitch
+        - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - The pitch fee
+        - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+        - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+        - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+        - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - Occupier’s obligations and owner’s corresponding obligations
+        - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - Owner’s other obligations
+        - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+        - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - Owner’s name and address
+        - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+        - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - CHAPTER 3 AGREEMENTS RELATING TO TRANSIT PITCHES ON LOCAL AUTHORITY GYPSY AND TRAVELLER SITES
+      - Duration of agreement
+        - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+        - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - Termination
+        - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+        - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - Recovery of overpayments by occupier
+        - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - Quiet enjoyment of the mobile home
+        - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - Owner’s right of entry to the pitch
+        - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - Owner’s name and address
+        - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+        - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - CHAPTER 4 AGREEMENTS RELATING TO PERMANENT PITCHES ON LOCAL AUTHORITY GYPSY AND TRAVELLER SITES
+      - Duration of agreement
+        - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+        - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - Termination
+        - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+        - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+        - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+        - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - Assignment of agreement
+        - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+        - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - Recovery of overpayments by occupier
+        - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+      - Re-siting of mobile home
+        - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - Quiet enjoyment of the mobile home
+        - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+      - Owner’s right of entry to the pitch
+        - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - The pitch fee
+        - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+        - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+        - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+        - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - Occupier’s obligations and owner’s corresponding obligations
+        - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - Owner’s other obligations
+        - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - Owner’s name and address
+        - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+        - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+  - PART 2 MATTERS CONCERNING WHICH TERMS MAY BE IMPLIED BY THE APPROPRIATE JUDICIAL BODY
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+- SCHEDULE 3 FURTHER PROVISIONS ABOUT ORDERS RELATING TO COMMONS
+  - Duty to consult conservators
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Procedure for making orders imposing prohibitions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Notice to lord of manor of other orders
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Crown land
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 CONSEQUENTIAL AMENDMENTS
+  - Caravan Sites and Control of Development Act 1960 (c. 62)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Caravan Sites Act 1968 (c. 52)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Rating (Caravan Sites) Act 1976 (c. 15)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Mobile Homes Act 1983 (c. 34)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Local Government Finance Act 1988 (c. 41)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Local Government (Wales) Act 1994 (c. 19)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Environment Act 1995 (c.25)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Housing Act 2004 (c. 34)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 TRANSITIONAL AND TRANSITORY PROVISIONS AND SAVINGS
+  - Pending applications for site licences
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Temporary continuation of existing site licences
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Time for determining site licence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Continuation of existing model standards
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Pre-commencement revocations
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Pre-commencement offences to count for certain purposes
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Prosecution of pre-commencement offences
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Old transitionals and savings
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Temporary reduction of maximum penalty for either way offence tried summarily
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
