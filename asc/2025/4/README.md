@@ -1,0 +1,179 @@
+# Disused Mine and Quarry Tips (Wales) Act 2025
+
+asc/2025/4. Enacted 2025-09-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asc/2025/4/2025-09-12
+
+## Contents
+
+- PART 1 THE DISUSED TIPS AUTHORITY FOR WALES
+  - Establishment and exercise of functions
+    - [s. 1 The Disused Tips Authority for Wales](section/1.md)
+    - [s. 2 The Authority’s exercise of its functions](section/2.md)
+  - General functions
+    - [s. 3 Information, advice and assistance](section/3.md)
+    - [s. 4 Financial assistance](section/4.md)
+    - [s. 5 Ancillary powers](section/5.md)
+- PART 2 ASSESSMENT, REGISTRATION AND MONITORING OF DISUSED TIPS
+  - CHAPTER 1 REGISTER OF DISUSED TIPS
+    - The register
+      - [s. 6 Duty to compile and maintain register](section/6.md)
+      - [s. 7 The criteria for registration](section/7.md)
+      - [s. 8 Content of the register](section/8.md)
+      - [s. 9 Public access to the register](section/9.md)
+    - Monitoring registered tips
+      - [s. 10 Duty to monitor registered tips](section/10.md)
+  - CHAPTER 2 ASSESSMENT OF DISUSED TIPS
+    - General
+      - [s. 11 Overview](section/11.md)
+    - Preliminary assessment
+      - [s. 12 Meaning of “preliminary assessment”](section/12.md)
+      - [s. 13 Preliminary assessments of all disused tips](section/13.md)
+      - [s. 14 Additional preliminary assessments](section/14.md)
+    - Full assessment
+      - [s. 15 Meaning of “full assessment”](section/15.md)
+      - [s. 16 Full assessment of unregistered tip](section/16.md)
+      - [s. 17 Full assessment of registered tip](section/17.md)
+      - [s. 18 Notice of intention to carry out full assessment](section/18.md)
+      - [s. 19 Notice of conclusions of full assessment](section/19.md)
+  - CHAPTER 3 REGISTERING AND DEREGISTERING DISUSED TIPS
+    - [s. 20 Proposal to register tip](section/20.md)
+    - [s. 21 Decision on registration](section/21.md)
+    - [s. 22 Proposal to remove tip from register](section/22.md)
+    - [s. 23 Decision on removal of tip from register](section/23.md)
+  - CHAPTER 4 THE CATEGORIES OF DISUSED TIP ETC.
+    - [s. 24 Categories of disused tip](section/24.md)
+    - [s. 25 Statement of policy on categorisation](section/25.md)
+    - [s. 26 Initial categorisation of a disused tip](section/26.md)
+    - [s. 27 Reviews of categorisation](section/27.md)
+  - CHAPTER 5 NOTIFIABLE CHANGES TO THE REGISTER
+    - [s. 28 Meaning of “notifiable change”](section/28.md)
+    - [s. 29 Proposal to make notifiable change](section/29.md)
+    - [s. 30 Decision on notifiable change](section/30.md)
+  - CHAPTER 6 SUPPLEMENTARY PROVISION
+    - [s. 31 Duty to compile and maintain list of all disused tips](section/31.md)
+    - [s. 32 Duty to publish notices](section/32.md)
+    - [s. 33 Compensation for damage or disturbance](section/33.md)
+    - [s. 34 Penalty for obstructing monitoring activities or assessments](section/34.md)
+- PART 3 DEALING WITH TIP INSTABILITY AND THREATS TO TIP STABILITY
+  - CHAPTER 1 REQUIRING AN OWNER OF LAND TO CARRY OUT OPERATIONS
+    - [s. 35 Notice requiring owner of land to carry out operations](section/35.md)
+    - [s. 36 Owner’s right of entry onto land etc.](section/36.md)
+    - [s. 37 Duty to give interested parties copies of notice](section/37.md)
+    - [s. 38 Right of owner and interested parties to appeal against notice](section/38.md)
+    - [s. 39 Determination of appeals](section/39.md)
+    - [s. 40 Supplementary provision about appeals](section/40.md)
+    - [s. 41 Penalty for failure to comply with notice](section/41.md)
+    - [s. 42 Power to cancel notice](section/42.md)
+    - [s. 43 Reimbursement of owner’s expenses on cancellation of notice](section/43.md)
+  - CHAPTER 2 OPERATIONS CARRIED OUT BY THE AUTHORITY
+    - [s. 44 Authority’s power to carry out operations](section/44.md)
+    - [s. 45 Authority’s right to remove and dispose of property](section/45.md)
+    - [s. 46 Duty to give notice to owners](section/46.md)
+    - [s. 47 Duty to give interested parties copies of notice](section/47.md)
+  - CHAPTER 3 PAYMENTS IN CONNECTION WITH OPERATIONS
+    - [s. 48 Contribution orders](section/48.md)
+    - [s. 49 Meaning of “contribution order”, “contributory” and “the specified percentage”](section/49.md)
+    - [s. 50 Compensation for damage, loss or disturbance etc.](section/50.md)
+    - [s. 51 Owner’s right to recover expenses from contributory](section/51.md)
+    - [s. 52 Right of contributory to appeal against owner’s demand](section/52.md)
+    - [s. 53 Authority’s right to recover certain expenses](section/53.md)
+    - [s. 54 Right to appeal against Authority’s demand](section/54.md)
+  - CHAPTER 4 SUPPLEMENTARY PROVISION
+    - [s. 55 Power to carry out investigations](section/55.md)
+    - [s. 56 Penalty for obstructing operations etc.](section/56.md)
+- PART 4 SUPPLEMENTARY
+  - Management plans for registered tips
+    - [s. 57 Management plans](section/57.md)
+  - Information sharing
+    - [s. 58 Meaning of “relevant public authority”](section/58.md)
+    - [s. 59 Authority’s power to require relevant public authorities to give information](section/59.md)
+    - [s. 60 Duties of Authority and relevant public authorities to share information](section/60.md)
+    - [s. 61 Information about estates or interests in land](section/61.md)
+    - [s. 62 Information about estates or interests in Crown land](section/62.md)
+    - [s. 63 Information to identify or assess threats to stability of a disused tip etc.](section/63.md)
+    - [s. 64 Penalties in connection with notices requiring information](section/64.md)
+  - Powers of entry
+    - [s. 65 Power to enter land](section/65.md)
+    - [s. 66 Entry to land without a warrant](section/66.md)
+    - [s. 67 Warrant to enter land](section/67.md)
+    - [s. 68 Entry to land with a warrant](section/68.md)
+    - [s. 69 Penalty for obstructing entry to land](section/69.md)
+    - [s. 70 Entry to Crown land](section/70.md)
+  - Miscellaneous
+    - [s. 71 Duty to establish and maintain a website or other electronic facility](section/71.md)
+    - [s. 72 Publication](section/72.md)
+    - [s. 73 Provision of administrative, technical or professional services](section/73.md)
+    - [s. 74 Guidance‍](section/74.md)
+    - [s. 75 Amendments to the Mines and Quarries (Tips) Act 1969](section/75.md)
+- PART 5 GENERAL
+  - Offences
+    - [s. 76 Offences by bodies corporate](section/76.md)
+    - [s. 77 Bringing proceedings](section/77.md)
+  - Regulations
+    - [s. 78 Power to make consequential, transitional etc. provision](section/78.md)
+    - [s. 79 Regulations under this Act](section/79.md)
+  - Giving notices and other documents
+    - [s. 80 General provision about giving notices etc.](section/80.md)
+    - [s. 81 Additional provision about giving notices etc. to persons occupying or interested in land](section/81.md)
+    - [s. 82 Giving notices etc. to the Crown](section/82.md)
+  - Special cases
+    - [s. 83 Raising of money in particular cases to meet expenditure](section/83.md)
+    - [s. 84 Church of England land](section/84.md)
+    - [s. 85 Power to modify application of Act to Authority land](section/85.md)
+  - Interpretation
+    - [s. 86 Meaning of “tip” and “disused tip”](section/86.md)
+    - [s. 87 Meaning of “threat to human welfare”](section/87.md)
+    - [s. 88 Meaning of “owner”](section/88.md)
+    - [s. 89 Definitions relating to the Crown](section/89.md)
+    - [s. 90 General interpretation](section/90.md)
+    - [s. 91 Index of defined terms](section/91.md)
+  - Miscellaneous
+    - [s. 92 Coming into force](section/92.md)
+    - [s. 93 Short title](section/93.md)
+- SCHEDULE 1 THE DISUSED TIPS AUTHORITY FOR WALES
+  - PART 1 STATUS
+    - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+  - PART 2 MEMBERS
+    - [Sch. 1 para. 2 Members](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Disqualification from being a non-executive member](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4 Terms of non-executive membership](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Removal etc. of members](schedule/1/paragraph/5.md)
+  - PART 3 STAFF
+    - [Sch. 1 para. 6 Chief executive](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7 Other staff](schedule/1/paragraph/7.md)
+  - PART 4 DELEGATION
+    - [Sch. 1 para. 8 Committees and sub-committees](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Delegation](schedule/1/paragraph/9.md)
+  - PART 5 PROCEDURE ETC.
+    - [Sch. 1 para. 10 Procedure](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Validity of proceedings and acts](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Seal](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Evidence](schedule/1/paragraph/13.md)
+  - PART 6 FINANCIAL MATTERS
+    - [Sch. 1 para. 14 Funding](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Accounting officer](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Accounts](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Audit](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18 Examination into use of resources](schedule/1/paragraph/18.md)
+  - PART 7 REPORTING REQUIREMENTS ETC.
+    - [Sch. 1 para. 19 Corporate plan](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Annual report](schedule/1/paragraph/20.md)
+  - PART 8 MINOR AND CONSEQUENTIAL AMENDMENTS
+    - [Sch. 1 para. 21 Coal Industry Act 1994 (c. 21)](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22 Government of Wales Act 2006 (c. 32)](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Welsh Language (Wales) Measure 2011 (nawm 1)](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 Well-being of Future Generations (Wales) Act 2015 (anaw 2)](schedule/1/paragraph/24.md)
+- SCHEDULE 2 CLAIMS FOR COMPENSATION BY OWNERS AND CONTRIBUTORIES
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 MODIFICATIONS OF SECTIONS 51 AND 52 WHERE A NOTICE UNDER SECTION 35 IS CANCELLED
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
