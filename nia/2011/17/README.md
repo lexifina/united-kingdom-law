@@ -1,0 +1,109 @@
+# Assembly Members (Independent Financial Review and Standards) Act (Northern Ireland) 2011
+
+nia/2011/17. Enacted 2011-03-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2011/17/2025-09-17
+
+## Contents
+
+- PART 1 THE INDEPENDENT REMUNERATION BOARD
+  - Establishment and functions
+    - [s. 1 Establishment and membership of the Board](section/1.md)
+    - [s. 2 Functions of the Board](section/2.md)
+  - Independent status
+    - [s. 3 Independence and openness](section/3.md)
+  - Appointments, etc.
+    - [s. 4 Appointments to the Board](section/4.md)
+    - [s. 5 Disqualification from membership of the Board](section/5.md)
+    - [s. 6 Termination of membership of the Board](section/6.md)
+    - [s. 6A Temporary appointments](section/6A.md)
+    - [s. 7 Code of conduct for Board members](section/7.md)
+    - [s. 8 Administration and finance](section/8.md)
+    - [s. 9 Annual report](section/9.md)
+  - Procedure
+    - [s. 10 Meetings of the Board](section/10.md)
+  - Determinations
+    - [s. 11 Exercise of functions](section/11.md)
+    - [s. 12 Contents of determinations: salaries ...](section/12.md)
+    - [s. 13 Contents of determinations: pensions and gratuities](section/13.md)
+    - [s. 14 Availability of determinations](section/14.md)
+  - Miscellaneous
+    - [s. 15 Meaning of “the Board”](section/15.md)
+- PART 2 THE NORTHERN IRELAND ASSEMBLY COMMISSIONER FOR STANDARDS
+  - Establishment and functions
+    - [s. 16 Establishment of the Commissioner](section/16.md)
+    - [s. 17 Functions of the Commissioner](section/17.md)
+  - Independent status
+    - [s. 18 Independence of the Commissioner](section/18.md)
+  - Appointment, etc.
+    - [s. 19 Appointment of the Commissioner](section/19.md)
+    - [s. 20 Disqualification from being appointed or serving as the Commissioner](section/20.md)
+    - [s. 21 Termination of the Commissioner’s appointment](section/21.md)
+    - [s. 22 Further provision about the Commissioner](section/22.md)
+    - [s. 23 Appointment of an Acting Commissioner](section/23.md)
+  - Procedure, etc.
+    - [s. 24 Directions to the Commissioner](section/24.md)
+  - Investigations
+    - [s. 25 Investigations by the Commissioner](section/25.md)
+    - [s. 26 Further investigations](section/26.md)
+    - [s. 27 Reports](section/27.md)
+  - Investigatory powers of the Commissioner
+    - [s. 28 Power to call for witnesses and documents](section/28.md)
+    - [s. 29 Witnesses and documents: notice](section/29.md)
+    - [s. 30 Witnesses: oaths](section/30.md)
+    - [s. 31 Offences](section/31.md)
+    - [s. 32 Protection from defamation actions](section/32.md)
+    - [s. 33 Restriction on disclosure of information](section/33.md)
+- PART 3 SUPPLEMENTARY PROVISIONS
+  - Miscellaneous
+    - [s. 34 Transitional provisions](section/34.md)
+    - [s. 35 Orders](section/35.md)
+    - [s. 36 Consequential amendments](section/36.md)
+    - [s. 37 Interpretation: general](section/37.md)
+    - [s. 38 Commencement](section/38.md)
+    - [s. 39 Short title](section/39.md)
+- SCHEDULE 1 DISQUALIFICATION FROM MEMBERSHIP OF THE BOARD
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 BOARD: ADMINISTRATIVE AND FINANCIAL ARRANGEMENTS
+  - Terms and conditions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Administrative support and accommodation
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Funding
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 DISQUALIFICATION FROM BEING APPOINTED OR SERVING AS THE COMMISSIONER
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 COMMISSIONER: FURTHER PROVISION
+  - Terms and conditions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Documents
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Support and accommodation
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Goods and services
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - General Powers
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Financial Prudence
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Annual Report
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Financial Information
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Funding
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Validity of actions
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 CONSEQUENTIAL AMENDMENTS
+  - The Statutory Rules (Northern Ireland) Order 1979 (NI 12)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Freedom of Information Act 2000 (c. 36)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
