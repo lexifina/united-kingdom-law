@@ -1,0 +1,878 @@
+# Energy Act 2004
+
+2004 c. 20. Enacted 2004-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-09-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
+
+Source: https://www.legislation.gov.uk/ukpga/2004/20/2025-09-18
+
+## Contents
+
+- Part 1 The Civil Nuclear Industry
+  - Chapter 1 Nuclear decommissioning
+    - Establishment of NDA
+      - [s. 1 The Nuclear Decommissioning Authority](section/1.md)
+      - [s. 2 Constitution of NDA](section/2.md)
+    - Principal function of NDA
+      - [s. 3 Designated responsibilities](section/3.md)
+      - [s. 4 Additional responsibilities under designating directions](section/4.md)
+      - [s. 5 Supplemental provisions of designating directions](section/5.md)
+      - [s. 6 Designations relating to Scotland](section/6.md)
+    - Other functions of NDA
+      - [s. 7 Supplemental functions](section/7.md)
+      - [s. 8 Special functions in relation to pensions etc.](section/8.md)
+    - General duties and powers of NDA
+      - [s. 9 General duties when carrying out functions](section/9.md)
+      - [s. 10 Powers for carrying out functions](section/10.md)
+    - Strategies, plans and reports
+      - [s. 11 Strategy for carrying out functions](section/11.md)
+      - [s. 12 Contents of strategy](section/12.md)
+      - [s. 13 Annual plans](section/13.md)
+      - [s. 14 Annual reports](section/14.md)
+    - Implementation of strategies and plans
+      - [s. 15 Duty to decommission and clean up installations and sites](section/15.md)
+      - [s. 16 Duties to operate installations and to provide treatment etc.](section/16.md)
+      - [s. 17 Duty to use installations etc. for purposes of NDA](section/17.md)
+      - [s. 18 Directions by NDA to the person with control](section/18.md)
+      - [s. 19 Designation as a related site for the purposes of s. 18](section/19.md)
+      - [s. 20 Duty to comply with directions under s. 18](section/20.md)
+    - Financial provisions
+      - [s. 21 Financial responsibilities of NDA](section/21.md)
+      - [s. 22 Expenditure and receipts of NDA](section/22.md)
+      - [s. 23 Borrowing by the NDA](section/23.md)
+      - [s. 24 Limit on NDA borrowing](section/24.md)
+      - [s. 25 Government guarantees for NDA borrowing](section/25.md)
+      - [s. 26 Accounts of NDA](section/26.md)
+      - [s. 27 Tax exemption for NDA activities](section/27.md)
+      - [s. 28 Taxation of NDA activities chargeable under miscellaneous provisions](section/28.md)
+      - [s. 29 Disregard for tax purposes of cancellation etc. of provisions](section/29.md)
+      - [s. 30 Disregard for tax purposes of provisions recognised by NDA](section/30.md)
+    - Nuclear Decommissioning Funding Account
+      - [s. 31 Establishment and maintenance of the Account](section/31.md)
+      - [s. 32 Examination of the Account](section/32.md)
+    - Supplementary provisions of Chapter 1 of Part 1
+      - [s. 33 Validity of transactions](section/33.md)
+      - [s. 34 Amendment of Schedule 12 to the 1989 Act](section/34.md)
+      - [s. 35 Power to modify Chapter 1 of Part 1](section/35.md)
+      - [s. 36 Meaning of “nuclear site” etc. and “person with control”](section/36.md)
+      - [s. 37 General interpretation of Chapter 1 of Part 1](section/37.md)
+  - Chapter 2 Transfers relating to nuclear undertakings
+    - Transfer by scheme of property etc.
+      - [s. 38 Nuclear transfer schemes](section/38.md)
+      - [s. 39 Transfers of publicly owned assets](section/39.md)
+      - [s. 40 Transfers with the consent of the transferor](section/40.md)
+      - [s. 41 Recovery of property from private ownership](section/41.md)
+      - [s. 42 Transfer of Nuclear Liabilities Investment Portfolio](section/42.md)
+    - Extinguishment of undertakings and tax losses
+      - [s. 43 Undertakings given by the Secretary of State](section/43.md)
+      - [s. 44 Extinguishment of BNFL losses for tax purposes](section/44.md)
+    - Provisions relating to transfers
+      - [s. 45 Further provision applying to transferee companies](section/45.md)
+      - [s. 46 Pensions](section/46.md)
+      - [s. 47 Taxation](section/47.md)
+      - [s. 48 Supplementary powers of the Secretary of State, the NDA and the UKAEA](section/48.md)
+    - Supplementary provisions of Chapter 2 of Part 1
+      - [s. 49 Duty to assist the Secretary of State](section/49.md)
+      - [s. 50 Interpretation of Chapter 2 of Part 1](section/50.md)
+  - Chapter 3 Civil Nuclear Constabulary
+    - Civil Nuclear Police Authority
+      - [s. 51 The Civil Nuclear Police Authority](section/51.md)
+    - Civil Nuclear Constabulary
+      - [s. 52 The Civil Nuclear Constabulary](section/52.md)
+      - [s. 53 Chief constable and other senior officers](section/53.md)
+      - [s. 54 Functions of senior officers](section/54.md)
+      - [s. 55 Members of the Constabulary](section/55.md)
+    - Additional services
+      - [s. 55A Provision of additional police services](section/55A.md)
+      - [s. 55B Provision of assistance to other forces](section/55B.md)
+    - Jurisdiction and powers of Constabulary
+      - [s. 56 Jurisdiction of Constabulary](section/56.md)
+      - [s. 56A Exercise of powers and privileges in Scotland](section/56A.md)
+      - [s. 56B Exercise of functions in relation to children under the Scottish age of criminal responsibility](section/56B.md)
+      - [s. 57 Stop and search under Terrorism Act 2000](section/57.md)
+    - Administration of Constabulary
+      - [s. 58 Government, administration and conditions of service](section/58.md)
+      - [s. 59 Members of Constabulary serving with other forces](section/59.md)
+      - [s. 59A Constables serving with National Crime Agency](section/59A.md)
+      - [s. 60 Charges](section/60.md)
+    - Supervision and inspection etc.
+      - [s. 61 Planning and reports](section/61.md)
+      - [s. 62 Inspection](section/62.md)
+      - [s. 63 Supervision by Secretary of State](section/63.md)
+    - Rights etc. of members of the Constabulary
+      - [s. 64 Civil Nuclear Police Federation](section/64.md)
+      - [s. 65 Rank-related associations](section/65.md)
+      - [s. 66 Representation at certain disciplinary proceedings](section/66.md)
+      - [s. 67 Trade union membership](section/67.md)
+    - Supplementary provisions of Chapter 3 of Part 1
+      - [s. 68 Application of offences etc. applying to constables](section/68.md)
+      - [s. 69 Minor amendments relating to the Constabulary](section/69.md)
+      - [s. 70 Nuclear transfer scheme for UKAEA Constabulary](section/70.md)
+      - [s. 71 Interpretation of Chapter 3 of Part 1](section/71.md)
+  - Chapter 4 Authorisations relating to radioactive waste
+    - [s. 72 Transfer of authorisations](section/72.md)
+    - [s. 73 Applications for variation of authorisations](section/73.md)
+    - [s. 74 Periodic reviews of authorisations](section/74.md)
+    - [s. 75 Consequential amendments of the 1993 Act](section/75.md)
+  - Chapter 5 Miscellaneous provisions relating to nuclear industry
+    - [s. 76 Amendments for giving effect to international obligations](section/76.md)
+    - [s. 77 Regulation of equipment, software and information](section/77.md)
+    - [s. 78 Application of the 1965 Act to Northern Ireland](section/78.md)
+    - [s. 79 Expenditure on nuclear related matters](section/79.md)
+    - [s. 80 Additional functions of UKAEA](section/80.md)
+- Part 2 Sustainability and Renewable Energy Sources
+  - Chapter 1 Sustainable energy
+    - [s. 81 Reports under section 1 of Sustainable Energy Act 2003](section/81.md)
+    - [s. 82 Microgeneration](section/82.md)
+    - [s. 83 Sustainable development](section/83.md)
+  - Chapter 2 Offshore production of energy
+    - Renewable Energy Zones
+      - [s. 84 Exploitation of areas outside the territorial sea for energy production](section/84.md)
+      - [s. 85 Application of criminal law to renewable energy installations etc.](section/85.md)
+      - [s. 86 Prosecutions](section/86.md)
+      - [s. 87 Application of civil law to renewable energy installations etc.](section/87.md)
+      - [s. 88 Orders in Council under ss. 85 and 87](section/88.md)
+    - Application of 1989 Act offshore
+      - [s. 89 Activities offshore requiring 1989 Act licences](section/89.md)
+      - [s. 90 Modification of licence conditions for offshore transmission and distribution](section/90.md)
+      - [s. 91 Extension of transmission licences offshore](section/91.md)
+      - [s. 92 Competitive tenders for offshore transmission licences](section/92.md)
+      - [s. 93 Consents for generating stations offshore](section/93.md)
+      - [s. 94 Application of regulations under 1989 Act offshore](section/94.md)
+    - Safety zones for installations
+      - [s. 95 Safety zones around renewable energy installations](section/95.md)
+      - [s. 96 Prohibited activities in safety zones](section/96.md)
+      - [s. 97 Offences relating to safety zones](section/97.md)
+      - [s. 98 Supplementary provisions relating to offences under s. 97](section/98.md)
+    - Navigation and civil aviation
+      - [s. 99 Navigation](section/99.md)
+      - [s. 100 Further provision relating to public rights of navigation](section/100.md)
+      - [s. 101 Application of civil aviation regulations to renewable energy installations](section/101.md)
+    - Supplementary provisions of Chapter 2 of Part 2
+      - [s. 102 Amendments of 1989 Act consequential on Chapter 2 of Part 2](section/102.md)
+      - [s. 103 Other amendments consequential on Chapter 2 of Part 2](section/103.md)
+      - [s. 104 Interpretation of Chapter 2 of Part 2](section/104.md)
+  - Chapter 3 Decommissioning of offshore installations
+    - Decommissioning programmes
+      - [s. 105 Requirement to prepare decommissioning programmes](section/105.md)
+      - [s. 105A Section 105 notices: supplemental](section/105A.md)
+      - [s. 106 Approval of decommissioning programmes](section/106.md)
+      - [s. 107 Failure to submit or rejection of decommissioning programmes](section/107.md)
+      - [s. 108 Reviews and revisions of decommissioning programmes](section/108.md)
+    - Implementation of decommissioning programmes
+      - [s. 109 Carrying out of decommissioning programmes](section/109.md)
+      - [s. 110 Default in carrying out decommissioning programmes](section/110.md)
+      - [s. 110A Protection of funds held for purposes of decommissioning](section/110A.md)
+      - [s. 110B Section 110A: supplemental](section/110B.md)
+    - Decommissioning regulations
+      - [s. 111 Regulations about decommissioning](section/111.md)
+    - Supplementary provisions of Chapter 3 of Part 2
+      - [s. 112 Duty to inform appropriate Minister](section/112.md)
+      - [s. 112A Power of appropriate Minister to require information and documents](section/112A.md)
+      - [s. 113 Offences relating to decommissioning programmes](section/113.md)
+      - [s. 114 Interpretation of Chapter 3 of Part 2](section/114.md)
+  - Chapter 4 Renewables obligations relating to electricity
+    - [s. 115 Discharge of renewables obligation in Great Britain by payment](section/115.md)
+    - [s. 116 Issue of green certificates in Great Britain](section/116.md)
+    - [s. 117 Use of green certificates issued in Northern Ireland](section/117.md)
+    - [s. 118 Distributions to Northern Ireland suppliers](section/118.md)
+    - [s. 119 Supplementary provision relating to renewables obligation in Great Britain](section/119.md)
+    - [s. 120 Issue of green certificates in Northern Ireland](section/120.md)
+    - [s. 121 GEMA’s power to act on behalf of Northern Ireland regulator](section/121.md)
+    - [s. 121A GEMA’s power to act on behalf of Northern Ireland regulator in issuing guarantees of origin of renewables electricity](section/121A.md)
+    - [s. 122 Consultation in relation to Northern Ireland renewables orders](section/122.md)
+    - [s. 123 Modification of conditions of Northern Ireland electricity licences](section/123.md)
+  - Chapter 5 Renewable transport fuel obligations
+    - [s. 124 Imposition of renewable transport fuel obligations](section/124.md)
+    - [s. 125 Appointment of the Administrator](section/125.md)
+    - [s. 125A General functions of the Administrator](section/125A.md)
+    - [s. 125B Functions of the Administrator: supplementary](section/125B.md)
+    - [s. 125C Transfer of functions to new Administrator](section/125C.md)
+    - [s. 126 Determinations of amounts of transport fuel](section/126.md)
+    - [s. 127 Renewable transport fuel certificates](section/127.md)
+    - [s. 128 Discharge of obligation by payment](section/128.md)
+    - [s. 129 Imposition of civil penalties](section/129.md)
+    - [s. 130 Objections to civil penalties](section/130.md)
+    - [s. 131 Appeals against civil penalties](section/131.md)
+    - [s. 131A Disclosure of information held by Revenue and Customs](section/131A.md)
+    - [s. 131B Further disclosure of information](section/131B.md)
+    - [s. 131C Wrongful disclosure](section/131C.md)
+    - [s. 131D Recycled carbon fuel and nuclear-derived fuel](section/131D.md)
+    - [s. 132 Interpretation of Chapter 5 of Part 2](section/132.md)
+- Part 3 Energy Regulation
+  - Chapter 1 Electricity trading and transmission
+    - [s. 133 “New trading and transmission arrangements”](section/133.md)
+    - [s. 134 Power to modify licence conditions](section/134.md)
+    - [s. 135 Alteration of transmission activities requiring licence](section/135.md)
+    - [s. 136 Transmission licences](section/136.md)
+    - [s. 137 New standard conditions for transmission licences](section/137.md)
+    - [s. 138 Conversion of existing transmission licences](section/138.md)
+    - [s. 139 Grant of transmission licences](section/139.md)
+    - [s. 140 Duties to provide information etc. to Secretary of State](section/140.md)
+    - [s. 141 Property arrangements schemes](section/141.md)
+    - [s. 142 Interpretation of Chapter 1 of Part 3](section/142.md)
+    - [s. 143 Amendments consequential on Chapter 1 of Part 3](section/143.md)
+    - [s. 144 Transition](section/144.md)
+  - Chapter 2 Interconnectors for electricity and gas
+    - Electricity interconnectors
+      - [s. 145 Operators of electricity interconnectors to be licensed](section/145.md)
+      - [s. 146 Standard conditions for electricity interconnectors](section/146.md)
+      - [s. 147 Consequential amendments of the 1989 Act](section/147.md)
+      - [s. 148 Grant of electricity interconnector licences to existing operators](section/148.md)
+    - Gas interconnectors
+      - [s. 149 Operators of gas interconnectors to be licensed](section/149.md)
+      - [s. 150 Standard conditions for gas interconnectors](section/150.md)
+      - [s. 151 Disapplication of existing regimes](section/151.md)
+      - [s. 152 Grant of gas interconnector licences to existing operators](section/152.md)
+      - [s. 153 Extraterritorial application of Gas Act 1986](section/153.md)
+  - Chapter 3 Special administration regime for energy licensees
+    - Energy administration orders
+      - [s. 154 Energy administration orders](section/154.md)
+      - [s. 155 Objective of an energy administration](section/155.md)
+      - [s. 156 Applications for energy administration orders](section/156.md)
+      - [s. 157 Powers of court](section/157.md)
+      - [s. 158 Energy administrators](section/158.md)
+      - [s. 159 Conduct of administration, transfer schemes etc.](section/159.md)
+    - Restrictions on other insolvency procedures
+      - [s. 160 Restrictions on winding-up orders](section/160.md)
+      - [s. 161 Restrictions on voluntary winding up](section/161.md)
+      - [s. 162 Restrictions on making of ordinary administration orders](section/162.md)
+      - [s. 163 Restrictions on administrator appointments by creditors etc.](section/163.md)
+      - [s. 164 Restrictions on enforcement of security](section/164.md)
+    - Financial support for companies in administration
+      - [s. 165 Grants and loans](section/165.md)
+      - [s. 166 Indemnities](section/166.md)
+      - [s. 167 Guarantees where energy administration order is made](section/167.md)
+    - Licence modifications relating to energy administration
+      - [s. 168 Modifications of particular or standard conditions](section/168.md)
+      - [s. 169 Licence conditions to secure funding of energy administration](section/169.md)
+    - Supplemental provision of Chapter 3 of Part 3
+      - [s. 170 Modification of Chapter 3 of Part 3 under Enterprise Act 2002](section/170.md)
+      - [s. 171 Interpretation of Chapter 3 of Part 3](section/171.md)
+  - Chapter 4 Further provisions about regulation
+    - Security of supply
+      - [s. 172 Annual report on security of energy supplies](section/172.md)
+    - Appeals from GEMA decisions
+      - [s. 173 Appeals to the CMA](section/173.md)
+      - [s. 174 Procedure on appeals](section/174.md)
+      - [s. 175 Determination of appeals](section/175.md)
+      - [s. 176 Specialist members of Competition Commission](section/176.md)
+    - Funding of appeals and references
+      - [s. 177 Modifications of standard conditions for funding appeals and references](section/177.md)
+    - Best practice
+      - [s. 178 Duty to have regard to best regulatory practice](section/178.md)
+    - Meaning of electricity supply and high voltage lines
+      - [s. 179 Meaning of electricity supply](section/179.md)
+      - [s. 180 Meaning of “high voltage line”](section/180.md)
+    - Metering
+      - [s. 181 Prepayment meters](section/181.md)
+    - Inquiries under ss. 36 and 37 of the 1989 Act
+      - [s. 182 Additional inspectors](section/182.md)
+    - Confidential information
+      - [s. 183 Exclusion of confidential information from registers](section/183.md)
+    - Areas with high distribution or transmission costs
+      - [s. 184 Assistance for areas with high distribution costs](section/184.md)
+      - [s. 185 Adjustment of transmission charges](section/185.md)
+      - [s. 186 Restrictions on disclosure of information](section/186.md)
+    - Payments into Scottish Consolidated Fund
+      - [s. 187 Payments of sums raised by fossil fuel levy](section/187.md)
+- Part 4 Miscellaneous and Supplemental
+  - Imposition of charges
+    - [s. 188 Power to impose charges to fund energy functions](section/188.md)
+  - International agreements relating to pipelines and offshore installations
+    - [s. 189 Power to modify Petroleum Act 1998](section/189.md)
+  - Supplementary provision relating to functions of Secretary of State and GEMA
+    - [s. 190 Application of general duties to Part 3 functions etc.](section/190.md)
+    - [s. 191 Supplementary provision about licence condition powers](section/191.md)
+  - Supplemental
+    - [s. 192 Powers exercisable by statutory instrument](section/192.md)
+    - [s. 193 Service of notifications and other documents](section/193.md)
+    - [s. 194 Notifications and documents in electronic form](section/194.md)
+    - [s. 195 Timing and location of things done electronically](section/195.md)
+    - [s. 196 General interpretation](section/196.md)
+    - [s. 197 Repeals etc.](section/197.md)
+    - [s. 198 Short title, commencement and extent](section/198.md)
+- SCHEDULE 1 The Nuclear Decommissioning Authority
+  - Part 1 Members and staff of NDA
+    - Tenure of office by non-executive members
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Remuneration and pensions of non-executive members
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Terms and conditions of executive members of the NDA
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Constitution of NDA for initial period
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Staffing of the NDA
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - UKAEA pensions for NDA staff
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part 2 Proceedings of NDA
+    - Committees of the NDA and advisory committees
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Delegation of functions
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Quorums
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Proceedings of the NDA and of their committees etc.
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Authentication of NDA’s seal
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Records of proceedings
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Validity of proceedings
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Part 3 Supplemental
+    - Public records
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Parliamentary Commissioner Act 1967
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Disqualification for House of Commons and Northern Ireland Assembly
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Scottish devolution
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Freedom of information
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Interpretation of Schedule
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Procedural requirements applicable to NDA’s strategy
+  - Approval required for strategy
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Initial strategy
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Strategy reviews and revisions
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Consultation by NDA
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Approval of strategy
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Publication of strategy
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Procedural requirements applicable to NDA’s annual plans
+  - Preparation and revision of plan
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Consultation by NDA
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Approval of annual plan
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Publication of plan
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Supplemental taxation provisions for exempt activities
+  - Exempt activities to be separate trade
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Accounting periods of companies carrying on exempt activities
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Charges on income in connection with exempt activities
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Finance leasing of plant and machinery
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Mixed use of industrial buildings
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Residue of qualifying expenditure on industrial buildings
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Supplementary provisions about nuclear transfer schemes
+  - Identification of property to which scheme applies
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Property, rights and liabilities that may be transferred
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Dividing and modifying transferor’s property, rights and liabilities
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Obligation to effect transfers etc. under a nuclear transfer scheme
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Effect of nuclear transfer schemes
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Supplementary provisions of schemes
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Proof of title by certificate
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Duties in relation to foreign property
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Modification of scheme by agreement
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - The Transfer of Undertakings (Protection of Employment) Regulations 1981
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Compensation for third parties
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Compensation for transferor in case of a recovery scheme
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Interpretation
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 Structure etc. of transferee companies
+  - Application and interpretation of Schedule
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Initial Government holding in the transferee company
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Government investment in securities of transferee company
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Exercise of functions through nominees
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Payment of dividends etc. into Consolidated Fund
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Distributable reserves of transferee companies
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Dividends
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Saving for inherent powers of Ministers
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Finances and accounts of transferee companies
+  - Interpretation of Schedule
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Government lending to transferee companies
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Guarantees for designated BNFL companies
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Government guarantees for loans of undesignated publicly controlled transferee companies
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Financial limits of BNFL and publicly controlled companies that are designated
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Financial limits for publicly controlled transferees that are not designated
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Temporary restrictions on borrowing of transferee companies
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Statutory accounts of transferee companies
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Accounts of Crown owned transferee companies to be laid before Parliament
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Pensions
+  - Part 1 Preliminary
+    - Interpretation
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Part 2 Extensions of certain pension schemes
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Part 3 Public sector transfers of UKAEA pension scheme members
+    - Transfers of employment for NDA purposes
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Application of UKAEA pension scheme
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Modification of UKAEA pension scheme
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Transfer of funds from UKAEA pension scheme
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Exercise of powers of Secretary of State
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Payments to UKAEA by relevant public sector employer
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Part 4 Other transfers
+    - Persons entitled to pension protection under paragraphs 10 and 11
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Persons entitled to reformed protection under paragraphs 10 and 11
+      - [Sch. 8 para. 9A](schedule/8/paragraph/9A.md)
+    - Protection on transfer in accordance with a nuclear transfer scheme
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Protection on a transfer in accordance with transfer arrangements
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Modification of NDA schemes
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Part 5 UKAEA pensions for employees of designated BNFL companies
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+- SCHEDULE 9 Taxation provisions relating to nuclear transfer schemes
+  - Part 1 Transfers to the NDA or a subsidiary of the NDA
+    - Trading losses: transfer of company carrying on exempt activities
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Trading losses: transfer of undertaking carrying on exempt activities
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Chargeable gains: assets to be treated as disposed without a gain or a loss
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Chargeable gains: assets treated as acquired at nil cost
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Chargeable gains: degrouping charges
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Capital allowances: transfer of whole trade
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Capital allowances: transfer of part of a trade
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Capital allowances: transfer of plant or machinery
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Capital allowances: transfer not to be transaction between connected persons
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Continuity in relation to loan relationships
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Continuity in relation to derivative contracts
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Continuity in relation to transfer of intangible assets
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Chargeable intangible assets: degrouping charges
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Computation of profits and losses in respect of transfer of trade
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Part 2 Transfers relating to BNFL or the UKAEA etc.
+    - Application of Part 2 of Schedule
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Application of rules for reorganisations under same ownership
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Chargeable gains: assets to be treated as disposed without a gain or a loss
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Chargeable gains: degrouping charges
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - Capital allowances: transfer of plant or machinery
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - Capital allowances: transfer not to be transaction between connected persons
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Continuity in relation to loan relationships
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Continuity in relation to derivative contracts
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - Continuity in relation to transfer of intangible assets
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - Chargeable intangible assets: degrouping charges
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - Computation of profits and losses: transfer of trade
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - Part 3 Transfers relating to relevant site licensees
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - Part 4 Transfer of Nuclear Liabilities Investment Portfolio
+    - Application of Part 4 of Schedule
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - Chargeable gains: assets to be treated as disposed without a gain or a loss
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+    - Neutral effect of transfer for loan relationships and derivative contracts
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - Part 5 Stamp duty etc.
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - Part 6 Supplemental provisions of Schedule
+    - Groups of companies
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - Consequential amendment
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+    - Interpretation of Schedule
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+- SCHEDULE 10 The Civil Nuclear Police Authority
+  - Part 1 Membership
+    - Appointment
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Terms of appointment
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Remuneration
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Part 2 Proceedings
+    - Police Authority to regulate procedure
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Validity etc.
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Part 3 Employees
+    - Employees of the Police Authority
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - UKAEA pensions for employees of the Police Authority
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Part 4 Finances
+    - Borrowing by the Police Authority
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Guarantees for borrowing by the Police Authority
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Grants and loans to the Police Authority
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Financial duties
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Accounts and audit
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Receipts and surpluses
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Destination of receipts
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - Part 5 Miscellaneous
+    - Authentication of Police Authority’s seal
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - Status
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - Disqualification for House of Commons
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Freedom of information
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+- SCHEDULE 11 Removal and suspension of senior officers of Constabulary
+  - Removal of senior officers by Police Authority
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Power of Secretary of State to require removal of chief constable
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Suspension of senior officers by Police Authority pending removal
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Power of Secretary of State to require suspension of chief constable
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+- SCHEDULE 12 Planning and reports about Constabulary
+  - Part 1 Planning
+    - Determination of annual objectives for Constabulary
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Annual policing plan
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Three-year strategy plan
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Initial objectives and plans
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Part 2 Reports
+    - Annual report by chief constable
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Power of Police Authority to require reports
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Annual report by Police Authority
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Power of Secretary of State to require reports
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - Meaning of “reporting year”
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13 Directions by Secretary of State about Constabulary
+  - Objectives
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Directions with respect to the Constabulary
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Government, administration and conditions of service
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Remedial action
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+- SCHEDULE 14 Minor amendments relating to Constabulary
+  - Public Records Act 1958
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Police (Scotland) Act 1967
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Firearms Act 1968
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Race Relations Act 1976
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Ministry of Defence Police Act 1987
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Official Secrets Act 1989
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Police Act 1996
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Regulation of Investigatory Powers Act 2000
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Criminal Justice and Police Act 2001
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Anti-terrorism, Crime and Security Act 2001
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Police Reform Act 2002
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+- SCHEDULE 15 Amendments of 1993 Act
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+- SCHEDULE 16 Applications and proposals for notices under section 95
+  - Interpretation
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Requirements for applications
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Objections to an application
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Objections in other cases
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Public inquiries
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Use of additional inspectors for an inquiry
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Combined notices
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Parliamentary control of regulations
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+- SCHEDULE 17 Conversion of existing transmission licences: licensing scheme
+  - Licensing scheme
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Consequential amendment of related codes and agreements
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Effect of licensing scheme
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Modification of licensing scheme
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - Consultation by the Secretary of State
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - “Existing transmission licence”
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+- SCHEDULE 18 Property arrangements schemes
+  - Scheme-making power
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Applications for schemes
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - GEMA’s functions in relation to applications
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Effect of property arrangements scheme
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Review of determinations
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+  - Interim arrangements pending review of determination
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+  - Supplementary
+    - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+    - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+    - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+- SCHEDULE 19 Consequential amendments relating to Chapter 1 of Part 3
+  - Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Telecommunications Act 1984 (c. 38)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+  - Land Drainage Act 1991 (c. 59)
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+  - Utilities Act 2000 (c. 27)
+    - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+- SCHEDULE 20 Conduct of energy administration
+  - Part 1 Application of Schedule B1 to the 1986 Act
+    - Application of Schedule B1 provisions
+      - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+      - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Part 2 Modifications of Schedule B1
+    - Introductory
+      - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - General modifications of the applicable provisions
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - Specific modifications
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+      - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+      - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+      - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+      - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+      - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
+      - [Sch. 20 para. 23](schedule/20/paragraph/23.md)
+      - [Sch. 20 para. 24](schedule/20/paragraph/24.md)
+      - [Sch. 20 para. 25](schedule/20/paragraph/25.md)
+      - [Sch. 20 para. 26](schedule/20/paragraph/26.md)
+      - [Sch. 20 para. 27](schedule/20/paragraph/27.md)
+      - [Sch. 20 para. 28](schedule/20/paragraph/28.md)
+      - [Sch. 20 para. 29](schedule/20/paragraph/29.md)
+      - [Sch. 20 para. 30](schedule/20/paragraph/30.md)
+      - [Sch. 20 para. 31](schedule/20/paragraph/31.md)
+      - [Sch. 20 para. 32](schedule/20/paragraph/32.md)
+  - Part 3 Further Schedule B1 modifications for non-GB companies
+    - Introductory
+      - [Sch. 20 para. 33](schedule/20/paragraph/33.md)
+      - [Sch. 20 para. 34](schedule/20/paragraph/34.md)
+    - Modifications
+      - [Sch. 20 para. 35](schedule/20/paragraph/35.md)
+      - [Sch. 20 para. 36](schedule/20/paragraph/36.md)
+      - [Sch. 20 para. 37](schedule/20/paragraph/37.md)
+      - [Sch. 20 para. 38](schedule/20/paragraph/38.md)
+      - [Sch. 20 para. 39](schedule/20/paragraph/39.md)
+      - [Sch. 20 para. 40](schedule/20/paragraph/40.md)
+  - Part 4 Other modifications
+    - General modifications
+      - [Sch. 20 para. 41](schedule/20/paragraph/41.md)
+      - [Sch. 20 para. 42](schedule/20/paragraph/42.md)
+    - Modifications of 1986 Act
+      - [Sch. 20 para. 43](schedule/20/paragraph/43.md)
+      - [Sch. 20 para. 44](schedule/20/paragraph/44.md)
+      - [Sch. 20 para. 45](schedule/20/paragraph/45.md)
+    - Power to make further modifications
+      - [Sch. 20 para. 46](schedule/20/paragraph/46.md)
+    - Interpretation of Part 4 of Schedule
+      - [Sch. 20 para. 47](schedule/20/paragraph/47.md)
+- SCHEDULE 21 Energy transfer schemes
+  - Application of Schedule
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - Making of energy transfer schemes
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Provision that may be made by a scheme
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - Transfer of licences
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Powers and duties under statutory provisions
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Supplemental provisions relating to transfers
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Effect of scheme
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - Subsequent modification of scheme
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+  - Transfers in the case of non-GB companies
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - Provision relating to foreign property etc.
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - Application of Schedule to transfers to subsidiaries
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - Interpretation
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+- SCHEDULE 22 Procedure for appeals under section 173
+  - Application for permission to bring appeal
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+  - Addition of parties to appeal
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+  - Suspension of decision
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+  - Time limit for representations and observations by GEMA
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - Consideration and determination of appeal by group
+    - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+  - Timetable for determination of appeal
+    - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Matters to be considered on appeal
+    - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - Production of documents
+    - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+  - Oral hearings
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+  - Written statements
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+  - Defaults in relation to evidence
+    - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+  - Appeal rules
+    - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+  - Costs
+    - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+  - The Secretary of State’s power to modify time limits
+    - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+  - Interpretation of Schedule
+    - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+- SCHEDULE 23 Repeals
+  - Part 1 Repealed provisions
+  - Part 2 Savings etc.
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
