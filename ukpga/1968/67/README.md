@@ -1,0 +1,305 @@
+# Medicines Act 1968
+
+1968 c. 67. Enacted 1968-10-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-10-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1968/67
+
+Source: https://www.legislation.gov.uk/ukpga/1968/67/2025-10-01
+
+## Contents
+
+- Part I Administration
+  - [s. 1 Ministers responsible for administration of Act.](section/1.md)
+  - [s. 2 Establishment of Medicines Commission.](section/2.md)
+  - [s. 2A Establishment of the Commission on Human Medicines](section/2A.md)
+  - [s. 3 Functions of the Commission](section/3.md)
+  - [s. 4 Establishment of committees.](section/4.md)
+  - [s. 5 Supplementary provisions as to Commission and committees.](section/5.md)
+- Part II Licences and Certificates Relating to Medicinal Products
+  - General provisions and exemptions
+    - [s. 6 The licensing authority.](section/6.md)
+    - [s. 7 General provisions as to dealing with medicinal products.](section/7.md)
+    - [s. 8 Provisions as to manufacture and wholesale dealing.](section/8.md)
+    - [s. 9 Exemptions for doctors and dentists](section/9.md)
+    - [s. 10 Exemptions for pharmacists.](section/10.md)
+    - [s. 11 Exemption for nurses and midwives.](section/11.md)
+    - [s. 12 Exemptions in respect of herbal remedies.](section/12.md)
+    - [s. 13 Exemptions for imports.](section/13.md)
+    - [s. 14 Exemption for re-exports.](section/14.md)
+    - [s. 15 Provision for extending or modifying exemptions.](section/15.md)
+    - [s. 16 Transitional exemptions.](section/16.md)
+    - [s. 17 Termination of transitional exemptions.](section/17.md)
+  - Applications for, and grant and renewal of, licences
+    - [s. 18 Application for licence.](section/18.md)
+    - [s. 19 Factors relevant to determination of application for licence.](section/19.md)
+    - [s. 20 Grant or refusal of licence.](section/20.md)
+    - [s. 21 Procedure on reference to appropriate committee](section/21.md)
+    - [s. 22 Procedure in other cases.](section/22.md)
+    - [s. 22A Hearing before person appointed](section/22A.md)
+    - [s. 23 Special provisions as to effect of manufacturer’s licence.](section/23.md)
+    - [s. 24 Duration and renewal of licence.](section/24.md)
+  - Licences of right
+    - [s. 25 Entitlement to licence of right.](section/25.md)
+    - [s. 26 Scope of licence of right in different cases.](section/26.md)
+    - [s. 27 Proceedings on application for licence of right.](section/27.md)
+  - Suspension, revocation and variation of licences
+    - [s. 28 General power to suspend, revoke or vary licences.](section/28.md)
+    - [s. 29 Procedure where licensing authority propose to suspend, revoke or vary licence under s. 28.](section/29.md)
+    - [s. 30 Variation of licence on application of holder.](section/30.md)
+  - Clinical trials and medicinal tests on animals
+    - [s. 31 Clinical trials.](section/31.md)
+    - [s. 32 Medicinal tests on animals.](section/32.md)
+    - [s. 33 Exemptions in respect of medicinal tests on animals.](section/33.md)
+    - [s. 34 Restrictions as to animals on which medicinal tests have been carried out.](section/34.md)
+    - [s. 35 Supplementary provisions as to clinical trials and medicinal tests on animals.](section/35.md)
+    - [s. 36 Application for, and issue of, certificate.](section/36.md)
+    - [s. 37 Transitional provisions as to clinical trials and medicinal tests on animals.](section/37.md)
+    - [s. 38 Duration and renewal of certificate.](section/38.md)
+    - [s. 39 Suspension, revocation or variation of certificate.](section/39.md)
+  - Medicated animal feeding stuffs
+    - [s. 40 Medicated animal feeding stuffs.](section/40.md)
+    - [s. 4142 ................................](section/4142.md)
+  - Supplementary provisions
+    - [s. 43 Extension of s. 7 to certain special circumstances.](section/43.md)
+    - [s. 44 Provision of information to licensing authority.](section/44.md)
+    - [s. 45 Offences under Part II.](section/45.md)
+    - [s. 46 Special defences under s. 45.](section/46.md)
+    - [s. 47 Standard provisions for licences](section/47.md)
+    - [s. 48 Postponement of restrictions in relation to exports.](section/48.md)
+    - [s. 49 Special provisions in respect of exporting certain products.](section/49.md)
+    - [s. 49A Special provisions in respect of exporting certain products to member States](section/49A.md)
+    - [s. 49B Special provisions in respect of exporting certain products to EEA State s](section/49B.md)
+    - [s. 50 Certificates for exporters of medicinal products.](section/50.md)
+- Part III Further Provisions relating to Dealings with Medicinal Products
+  - Provisions as to sale or supply of medicinal products
+    - [s. 51 General sale lists.](section/51.md)
+    - [s. 52 Sale or supply of medicinal products not on general sale list.](section/52.md)
+    - [s. 53 Sale or supply of medicinal products on general sale list.](section/53.md)
+    - [s. 54 Sale of medicinal products from automatic machines.](section/54.md)
+  - Exemptions from sections 52 and 53
+    - [s. 55 Exemptions for doctors and dentists etc](section/55.md)
+    - [s. 56 Exemptions in respect of herbal remedies.](section/56.md)
+    - [s. 57 Power to extend or modify exemptions.](section/57.md)
+  - Additional provisions
+    - [s. 58 Medicinal products on prescription only.](section/58.md)
+    - [s. 58A Requirement to specify certain products as prescription-only products](section/58A.md)
+    - [s. 58B Requirement to specify certain products for veterinary use as prescription-only products.](section/58B.md)
+    - [s. 59 Special provisions in relation to new medicinal products.](section/59.md)
+    - [s. 60 Restricted sale, supply and administration of certain medicinal products.](section/60.md)
+    - [s. 61 Special restrictions on persons to be supplied with medicinal products.](section/61.md)
+    - [s. 62 Prohibition of sale or supply, or importation, of medicinal products of specified description ....](section/62.md)
+    - [s. 63 Adulteration of medicinal products.](section/63.md)
+    - [s. 64 Protection of purchasers of medicinal products.](section/64.md)
+    - [s. 65 Compliance with standards specified in monographs in certain publications.](section/65.md)
+    - [s. 66 Further powers to regulate dealings with medicinal products.](section/66.md)
+  - Offences, and provision for disqualification
+    - [s. 67 Offences under Part III.](section/67.md)
+    - [s. 67A Defence to offence of contravening section 63(a) or (b): product not sold or supplied](section/67A.md)
+    - [s. 67B Defence to offence of contravening section 63(a) or (b): product sold or supplied](section/67B.md)
+    - [s. 67C Defence to offence of contravening section 64](section/67C.md)
+    - [s. 67D Defences under sections 67A, 67B and 67C: evidence etc.](section/67D.md)
+    - [s. 67E Sections 67A to 67D: “adulteration” and “registrant”](section/67E.md)
+    - [s. 67F Sections 67A to 67D: “relevant pharmacy service”](section/67F.md)
+    - [s. 68 Disqualification on conviction of certain offences.](section/68.md)
+- Part IV Pharmacies
+  - Persons lawfully conducting retail pharmacy business
+    - [s. 69 General provisions.](section/69.md)
+    - [s. 70 Business carried on by individual pharmacist or by partners.](section/70.md)
+    - [s. 71 Business carried on by body corporate](section/71.md)
+    - [s. 72 Representative of pharmacist in case of death or disability.](section/72.md)
+    - [s. 72A The responsible pharmacist](section/72A.md)
+    - [s. 72AA The superintendent](section/72AA.md)
+    - [s. 72B Sections 72A and 72AA: supplementary](section/72B.md)
+    - [s. 73 Power to extend or modify conditions.](section/73.md)
+  - Registration of pharmacies
+    - [s. 74 Meaning of “registered pharmacy".](section/74.md)
+    - [s. 74A Registration of premises: Great Britain](section/74A.md)
+    - [s. 74B Conditions for registration: Great Britain](section/74B.md)
+    - [s. 74C Supplementary provision in respect of registration of premises: Great Britain](section/74C.md)
+    - [s. 74D Conditional registration: Great Britain](section/74D.md)
+    - [s. 74E Supplementary provision in respect of conditional registration: Great Britain](section/74E.md)
+    - [s. 74F Giving of notice by registrar: Great Britain](section/74F.md)
+    - [s. 74G Voluntary removal from the register: Great Britain](section/74G.md)
+    - [s. 74H](section/74H.md)
+    - [s. 74I Supplementary provision in respect of change of ownership of retail pharmacy business: Great Britain](section/74I.md)
+    - [s. 74J Temporary registration with regard to emergencies involving loss of human life or human illness etc.](section/74J.md)
+    - [s. 74K Temporary annotations with regard to emergencies involving loss of human life or human illness etc.](section/74K.md)
+    - [s. 74L Evidence of registration: Great Britain](section/74L.md)
+    - [s. 75 Registration of premises: Northern Ireland.](section/75.md)
+    - [s. 76 Supplementary provisions as to registration of premises: Northern Ireland.](section/76.md)
+    - [s. 77 Annual return of premises to registrar.](section/77.md)
+  - Provisions as to use of certain titles, descriptions and emblems
+    - [s. 78 Restrictions on use of titles, descriptions and emblems.](section/78.md)
+    - [s. 79 Provision for modifying or extending restrictions under s. 78.](section/79.md)
+  - Disqualification, and removal of premises from register
+    - [s. 80 Power for relevant disciplinary committee to disqualify and direct removal from register.](section/80.md)
+    - [s. 81 Grounds for disqualification in certain cases.](section/81.md)
+    - [s. 82 Procedure relating to disqualification.](section/82.md)
+    - [s. 82A Interim measures](section/82A.md)
+    - [s. 83 Revocation of disqualification.](section/83.md)
+  - Supplementary provisions
+    - [s. 84 Offences under Part IV.](section/84.md)
+    - [s. 84A Rules by the General Pharmaceutical Council](section/84A.md)
+- Part V Containers, Packages and Identification of Medicinal Products
+  - [s. 85 Labelling and marking of containers and packages.](section/85.md)
+  - [s. 86 Leaflets.](section/86.md)
+  - [s. 87 Requirements as to containers.](section/87.md)
+  - [s. 88 Distinctive colours, shapes and markings of medicinal products.](section/88.md)
+  - [s. 89 Display of information on automatic machines.](section/89.md)
+  - [s. 90 Provisions as to medicated animal feeding stuffs.](section/90.md)
+  - [s. 91 Offences under Part V, and supplementary provisions.](section/91.md)
+- Part VI Promotion of Sales of Medicinal Products
+  - [s. 92 Scope of Part VI.](section/92.md)
+  - [s. 93 False or misleading advertisements and representations.](section/93.md)
+  - [s. 94 Advertisements requiring consent of holder of product licence.](section/94.md)
+  - [s. 95 Powers to regulate advertisements and representations.](section/95.md)
+  - [s. 96 Advertisements and representations directed to practitioners.](section/96.md)
+  - [s. 97 Power for licensing authority to require copies of advertisements.](section/97.md)
+- Part VII British Pharmacopoeia and Other Publications
+  - [s. 98 ................................](section/98.md)
+  - [s. 99 New editions of British Pharmacopoeia, and other compendia.](section/99.md)
+  - [s. 100 Lists of names.](section/100.md)
+  - [s. 101 Other publications.](section/101.md)
+  - [s. 102 Supplementary provisions.](section/102.md)
+  - [s. 103 Construction of references to specified publications.](section/103.md)
+- Part VIII Miscellaneous and Supplementary Provisions
+  - [s. 104 Application of the 2012 Regulations to certain articles and substances.](section/104.md)
+  - [s. 105 Application of the 2012 Regulations to certain other substances which are not medicinal products.](section/105.md)
+  - [s. 106 Extension of references to carrying on business.](section/106.md)
+  - [s. 107 Validity of decisions and proceedings relating thereto.](section/107.md)
+  - [s. 108 Enforcement in England and Wales.](section/108.md)
+  - [s. 109 Enforcement in Scotland.](section/109.md)
+  - [s. 110 Enforcement in Northern Ireland.](section/110.md)
+  - [s. 111 Rights of entry.](section/111.md)
+  - [s. 112 Power to inspect, take samples and seize goods and documents.](section/112.md)
+  - [s. 113 Application of sampling procedure to substance or article seized under s. 112.](section/113.md)
+  - [s. 114 Supplementary provisions as to rights of entry and related rights.](section/114.md)
+  - [s. 115 Analysis of samples in other cases.](section/115.md)
+  - [s. 115A Facilities for microbiological examinations.](section/115A.md)
+  - [s. 116 Liability to forfeiture under Customs and Excise Act 1952.](section/116.md)
+  - [s. 117 Special enforcement and sampling provisions relating to animal feeding stuffs.](section/117.md)
+  - [s. 118 Restrictions on disclosure of information.](section/118.md)
+  - [s. 119 Protection for officers of enforcement authorities.](section/119.md)
+  - [s. 120 Compensation for loss of employment or loss or diminution of emoluments.](section/120.md)
+  - [s. 121 Contravention due to default of other person.](section/121.md)
+  - [s. 122 Warranty as defence.](section/122.md)
+  - [s. 123 Offences in relation to warranties and certificates of analysis.](section/123.md)
+  - [s. 124 Offences by bodies corporate.](section/124.md)
+  - [s. 125 Prosecutions.](section/125.md)
+  - [s. 126 Presumptions.](section/126.md)
+  - [s. 127 Service of documents.](section/127.md)
+  - [s. 128 Financial provisions.](section/128.md)
+  - [s. 129 Orders and regulations.](section/129.md)
+  - [s. 130 Meaning of “medicinal product" and related expressions.](section/130.md)
+  - [s. 131 Meaning of “wholesale dealing", “retail sale" and related expressions.](section/131.md)
+  - [s. 132 General interpretation provisions.](section/132.md)
+  - [s. 133 General provisions as to operation of Act.](section/133.md)
+  - [s. 134 Special provisions as to Northern Ireland.](section/134.md)
+  - [s. 135 Minor and consequential amendments and repeals.](section/135.md)
+  - [s. 136 Short title, extent and commencement.](section/136.md)
+- SCHEDULE 1 Provisions Relating to Medicines Commission and Committees
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 1A PROVISIONS RELATING TO COMMISSION AND COMMITTEES
+  - [Sch. 1A para. 1 Interpretation](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Co-opted members](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Expert Advisory Groups](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Appointment by the Commission of Expert Advisory Groups](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Delegation of functions by Advisory Bodies](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Terms of office of members](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Staff, premises and facilities](schedule/1A/paragraph/7.md)
+  - [Sch. 1A para. 8 Validity of proceedings](schedule/1A/paragraph/8.md)
+  - [Sch. 1A para. 9 Proceedings](schedule/1A/paragraph/9.md)
+  - [Sch. 1A para. 10 Remuneration and expenses of members](schedule/1A/paragraph/10.md)
+  - [Sch. 1A para. 11 Expenses of Advisory Bodies and Expert Advisory Groups](schedule/1A/paragraph/11.md)
+  - [Sch. 1A para. 12 Status](schedule/1A/paragraph/12.md)
+- SCHEDULE 2 SUSPENSION, REVOCATION OR VARIATION OF LICENCE
+  - Procedure on consultation with appropriate committee
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Procedure in other cases
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Hearing before person appointed
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Procedure in cases of urgency
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Interpretation
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+- SCHEDULE 3 SAMPLING
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Division of sample
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Notice to person named on container
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Analysis or other examination of sample
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Provisions as to evidence
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Analysis under direction of court
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Proof by written statement
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - Power to modify sampling provisions
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Payment for sample taken under compulsory powers
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - Application of s. 64 to samples
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Provisions relating to Northern Ireland
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 Amendments of Enactments of Parliament of United Kingdom.
+  - [Sch. 5 para. 1 The Venereal Disease Act 1917 (c. 21).](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 29.](schedule/5/paragraph/29.md)
+  - [Sch. 5 para. 10 The Cancer Act 1939 (c. 13.)](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - [Sch. 5 para. 1415.](schedule/5/paragraph/1415.md)
+  - [Sch. 5 para. 16 The Trade Descriptions Act 1968 (c. 29).](schedule/5/paragraph/16.md)
+  - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Enactments of Parliament of United Kingdom Repealed.
+- SCHEDULE 7
+- SCHEDULE 8 Enactments of Parliament of Northern Ireland Repealed.
