@@ -1,0 +1,253 @@
+# Criminal Procedure and Investigations Act 1996
+
+1996 c. 25. Enacted 1996-07-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-10-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/25
+
+Source: https://www.legislation.gov.uk/ukpga/1996/25/2025-10-06
+
+## Contents
+
+- Part I Disclosure
+  - Introduction
+    - [s. 1 Application of this Part.](section/1.md)
+    - [s. 2 General interpretation.](section/2.md)
+  - The main provisions
+    - [s. 3 Initial duty of prosecutor to disclose.](section/3.md)
+    - [s. 4 Initial duty to disclose: further provisions.](section/4.md)
+    - [s. 5 Compulsory disclosure by accused.](section/5.md)
+    - [s. 6 Voluntary disclosure by accused.](section/6.md)
+    - [s. 6A Contents of defence statement](section/6A.md)
+    - [s. 6B Updated disclosure by accused](section/6B.md)
+    - [s. 6C Notification of intention to call defence witnesses](section/6C.md)
+    - [s. 6D Notification of names of experts instructed by accused](section/6D.md)
+    - [s. 6E Disclosure by accused: further provisions](section/6E.md)
+    - [s. 7 Secondary disclosure by prosecutor.](section/7.md)
+    - [s. 7A Continuing duty of prosecutor to disclose](section/7A.md)
+    - [s. 8 Application by accused for disclosure.](section/8.md)
+    - [s. 9 Continuing duty of prosecutor to disclose.](section/9.md)
+    - [s. 10 Prosecutor’s failure to observe time limits.](section/10.md)
+    - [s. 11 Faults in disclosure by accused.](section/11.md)
+  - Time limits
+    - [s. 12 Time limits.](section/12.md)
+    - [s. 13 Time limits: transitional.](section/13.md)
+  - Public interest
+    - [s. 14 Public interest: review for summary trials.](section/14.md)
+    - [s. 15 Public interest: review in other cases.](section/15.md)
+    - [s. 16 Applications: opportunity to be heard.](section/16.md)
+  - Confidentiality
+    - [s. 17 Confidentiality of disclosed information.](section/17.md)
+    - [s. 18 Confidentiality: contravention.](section/18.md)
+  - Other provisions
+    - [s. 19 Rules of court.](section/19.md)
+    - [s. 20 Other statutory rules as to disclosure.](section/20.md)
+    - [s. 21 Common law rules as to disclosure.](section/21.md)
+    - [s. 21A Code of practice for police interviews of witnesses notified by accused](section/21A.md)
+- Part II Criminal Investigations
+  - [s. 22 Introduction.](section/22.md)
+  - [s. 23 Code of practice.](section/23.md)
+  - [s. 24 Examples of disclosure provisions.](section/24.md)
+  - [s. 25 Operation and revision of code.](section/25.md)
+  - [s. 26 Effect of code.](section/26.md)
+  - [s. 27 Common law rules as to criminal investigations.](section/27.md)
+- Part III Preparatory Hearings
+  - Introduction
+    - [s. 28 Introduction.](section/28.md)
+  - Preparatory hearings
+    - [s. 29 Power to order preparatory hearing.](section/29.md)
+    - [s. 30 Start of trial and arraignment.](section/30.md)
+    - [s. 31 The preparatory hearing.](section/31.md)
+    - [s. 32 Orders before preparatory hearing.](section/32.md)
+    - [s. 33 Criminal Procedure Rules.](section/33.md)
+    - [s. 34 Later stages of trial.](section/34.md)
+  - Appeals
+    - [s. 35 Appeals to Court of Appeal.](section/35.md)
+    - [s. 36 Appeals to Supreme Court.](section/36.md)
+  - Reporting restrictions
+    - [s. 37 Restrictions on reporting.](section/37.md)
+    - [s. 38 Offences in connection with reporting.](section/38.md)
+- Part IV Rulings
+  - [s. 39 Meaning of pre-trial hearing.](section/39.md)
+  - [s. 40 Power to make rulings.](section/40.md)
+  - [s. 41 Restrictions on reporting.](section/41.md)
+  - [s. 42 Offences in connection with reporting.](section/42.md)
+  - [s. 43 Application of this Part.](section/43.md)
+- Part V Committal, Transfer, Etc.
+  - [s. 44 Reinstatement of certain provisions.](section/44.md)
+  - [s. 45 Notices of transfer.](section/45.md)
+  - [s. 46 War crimes: abolition of transfer procedure.](section/46.md)
+  - [s. 47 Committal proceedings.](section/47.md)
+- Part VI Magistrates’ Courts
+  - [s. 48 Non-appearance of accused: issue of warrant.](section/48.md)
+  - [s. 49 Either way offences: accused’s intention as to plea.](section/49.md)
+  - [s. 50 Enforcement of payment of fines.](section/50.md)
+  - [s. 51 Summons to witness and warrant for his arrest.](section/51.md)
+  - [s. 52 Remand.](section/52.md)
+  - [s. 53 Attachment of earnings.](section/53.md)
+- Part VII Miscellaneous and General
+  - Tainted acquittals
+    - [s. 54 Acquittals tainted by intimidation etc.](section/54.md)
+    - [s. 55 Conditions for making order.](section/55.md)
+    - [s. 56 Time limits for proceedings.](section/56.md)
+    - [s. 57 Tainted acquittals: supplementary.](section/57.md)
+  - Derogatory assertions (Northern Ireland)
+    - [s. 58 Orders in respect of certain assertions.](section/58.md)
+    - [s. 59 Restriction on reporting of assertions.](section/59.md)
+    - [s. 60 Reporting of assertions: offences.](section/60.md)
+    - [s. 61 Reporting of assertions: commencement and supplementary.](section/61.md)
+  - Evidence: special provisions
+    - [s. 62 Television links and video recordings.](section/62.md)
+    - [s. 63 Road traffic and transport: provision of specimens.](section/63.md)
+    - [s. 64 Checks against fingerprints etc.](section/64.md)
+  - Witness orders and summonses
+    - [s. 65 Abolition of witness orders.](section/65.md)
+    - [s. 66 Summons to witness to attend Crown Court.](section/66.md)
+    - [s. 67 Witness summons: securing attendance of witness.](section/67.md)
+  - Other miscellaneous provisions
+    - [s. 68 Use of written statements and depositions at trial.](section/68.md)
+    - [s. 69 Proof by written statement.](section/69.md)
+    - [s. 70 Indemnification of justices and justices’ clerks.](section/70.md)
+    - [s. 71 Meaning of preliminary stage of criminal proceedings.](section/71.md)
+    - [s. 72 Fraud.](section/72.md)
+    - [s. 73 Amendments to the Criminal Procedure (Scotland) Act 1995.](section/73.md)
+    - [s. 74 Alibi.](section/74.md)
+  - General
+    - [s. 75 Time when alleged offence committed.](section/75.md)
+    - [s. 76 Power of magistrates’ courts.](section/76.md)
+    - [s. 77 Orders and regulations.](section/77.md)
+    - [s. 78 Application to armed forces.](section/78.md)
+    - [s. 79 Extent.](section/79.md)
+    - [s. 80 Repeals.](section/80.md)
+    - [s. 81 Citation.](section/81.md)
+- SCHEDULE 1 Committal Proceedings
+  - Part I Magistrates’ Courts Act 1980
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Amendments
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Part II Other Provisions
+    - Criminal Law Amendment Act 1867
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Bankers’ Books Evidence Act 1879
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Administration of Justice (Miscellaneous Provisions) Act 1933
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Criminal Justice Act 1948
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Theft Act 1968
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Children and Young Persons Act 1969
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Criminal Justice Act 1972
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Sexual Offences (Amendment) Act 1976
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Police and Criminal Evidence Act 1984
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Criminal Justice Act 1988
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Road Traffic Offenders Act 1988
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - Part III Commencement
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Fraud
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Preparatory hearings
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Reporting restrictions
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - General
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Modifications for Northern Ireland
+  - General
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Part I of this Act
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 4A](schedule/4/paragraph/4A.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 5A](schedule/4/paragraph/5A.md)
+    - [Sch. 4 para. 5B](schedule/4/paragraph/5B.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 14A](schedule/4/paragraph/14A.md)
+  - Part 2 of this Act
+    - [Sch. 4 para. 14B](schedule/4/paragraph/14B.md)
+    - [Sch. 4 para. 14C](schedule/4/paragraph/14C.md)
+  - Part IV of this Act
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 15A](schedule/4/paragraph/15A.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Part V of this Act
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Part VII of this Act
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 33A](schedule/4/paragraph/33A.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+- SCHEDULE 5 Repeals
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
