@@ -1,0 +1,233 @@
+# Transport (Scotland) Act 2001
+
+asp/2001/2. Enacted 2001-01-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-10-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 31 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2001/2
+
+Source: https://www.legislation.gov.uk/asp/2001/2/2025-10-27
+
+## Contents
+
+- Part 1 Joint transport strategies
+  - [s. 1 Joint transport strategies](section/1.md)
+  - [s. 2 Directions](section/2.md)
+- Part 2 Bus services
+  - CHAPTER A1
+    - Provision of bus services etc. by local transport authorities
+      - [s. 2A Provision of bus services etc. by local transport authorities](section/2A.md)
+  - CHAPTER 1 Bus services improvement partnerships
+    - Partnership plans and schemes
+      - [s. 3 Quality partnership schemes](section/3.md)
+      - [s. 3A Bus services improvement partnership plans](section/3A.md)
+      - [s. 3B Schemes to implement bus services partnership plans](section/3B.md)
+      - [s. 3C Partnership schemes: service standards](section/3C.md)
+      - [s. 3D Route service standards: modification for overprovision](section/3D.md)
+      - [s. 3E Partnership schemes: Scottish Ministers’ traffic regulation orders](section/3E.md)
+      - [s. 3F Effect of partnership plans and schemes](section/3F.md)
+      - [s. 3G Postponement of partnership scheme coming into operation](section/3G.md)
+      - [s. 3H Variation of a partnership plan or scheme](section/3H.md)
+      - [s. 3I Revocation of a partnership plan or scheme](section/3I.md)
+      - [s. 3J Reports on partnership schemes](section/3J.md)
+      - [s. 3K Provision of information: bus services improvement partnerships](section/3K.md)
+      - [s. 3L Multi-authority bus services improvement partnerships](section/3L.md)
+      - [s. 3M Further provision](section/3M.md)
+      - [s. 4 Regulations as respects specifying existing facilities in quality partnership schemes](section/4.md)
+      - [s. 5 Consultation as to proposed quality partnership scheme](section/5.md)
+      - [s. 6 Making of quality partnership scheme](section/6.md)
+      - [s. 7 Postponement of quality partnership scheme](section/7.md)
+      - [s. 8 Effect of quality partnership scheme](section/8.md)
+      - [s. 9 Variation or revocation of quality partnership scheme](section/9.md)
+      - [s. 10 Reports on quality partnership schemes](section/10.md)
+      - [s. 11 Regulations as respects quality partnership schemes](section/11.md)
+      - [s. 12 Eligibility for service subsidies](section/12.md)
+  - CHAPTER 2 Local services franchises
+    - Franchising frameworks and franchise agreements
+      - [s. 13 Quality contract schemes](section/13.md)
+      - [s. 13A Franchising frameworks and franchise agreements](section/13A.md)
+      - [s. 13B Effects of franchising framework](section/13B.md)
+    - Process for making franchising frameworks
+      - [s. 13C Overview of process](section/13C.md)
+      - [s. 13D Proposed franchising frameworks](section/13D.md)
+      - [s. 13E Assessment of proposed franchising framework](section/13E.md)
+      - [s. 13F Audit of proposed franchising framework](section/13F.md)
+      - [s. 13G Consultation on proposed franchising framework](section/13G.md)
+      - [s. 13H Modification of proposed franchising framework](section/13H.md)
+      - [s. 13I Application for approval of the proposed franchising framework](section/13I.md)
+      - [s. 13J Approval of proposed franchising frameworks](section/13J.md)
+      - [s. 13K Making of franchising framework](section/13K.md)
+    - Entering into franchise agreements
+      - [s. 13L Entering into franchise agreements](section/13L.md)
+    - Postponement, variation and revocation of franchise frameworks
+      - [s. 13M Postponing commencement of franchising frameworks or variations](section/13M.md)
+      - [s. 13N Applications for approval to vary or revoke franchising frameworks](section/13N.md)
+      - [s. 13O Approval to vary or revoke franchising frameworks](section/13O.md)
+      - [s. 13P Reports on franchising frameworks](section/13P.md)
+      - [s. 13Q Non-implementation of franchising frameworks](section/13Q.md)
+      - [s. 13R Provision of information: local services franchises](section/13R.md)
+      - [s. 13S Multi-authority franchising](section/13S.md)
+      - [s. 13T Further provision about franchising arrangements](section/13T.md)
+      - [s. 14 Proposed quality contract scheme](section/14.md)
+      - [s. 15 Consultation as to proposed quality contract scheme](section/15.md)
+      - [s. 16 Approval of proposed quality contract scheme](section/16.md)
+      - [s. 17 Making of quality contract scheme](section/17.md)
+      - [s. 18 Tendering for quality contracts](section/18.md)
+      - [s. 19 Exceptions from section 18(1)](section/19.md)
+      - [s. 20 Commencement of quality contract scheme](section/20.md)
+      - [s. 21 Postponement of quality contract scheme](section/21.md)
+      - [s. 22 Effect of quality contract scheme](section/22.md)
+      - [s. 23 Variation or revocation of quality contract scheme](section/23.md)
+      - [s. 24 Reports on quality contract schemes](section/24.md)
+      - [s. 25 Non-implementation of quality contract scheme](section/25.md)
+      - [s. 26 Regulations as respects quality contract schemes](section/26.md)
+      - [s. 27 Transitional provision as respects quality contract schemes](section/27.md)
+      - [s. 27C National Smart Ticketing Advisory Board](section/27C.md)
+    - Ticketing arrangements and ticketing schemes
+      - [s. 28 Ticketing arrangements](section/28.md)
+      - [s. 29 Ticketing schemes](section/29.md)
+      - [s. 30 Consultation as to proposed ticketing scheme](section/30.md)
+      - [s. 31 Making of ticketing scheme](section/31.md)
+      - [s. 32 Effect of ticketing scheme](section/32.md)
+    - Provision of information
+      - [s. 33 Information about bus services](section/33.md)
+      - [s. 34 Duty of authority to make information available](section/34.md)
+      - [s. 35 Bus information: supplementary](section/35.md)
+    - Zero-emission vehicles
+      - [s. 35B Use of zero-emission vehicles for local services](section/35B.md)
+    - Financial and competition provisions
+      - [s. 36 Agreements providing for service subsidies](section/36.md)
+      - [s. 37 Competition test for exercise of bus functions](section/37.md)
+      - [s. 38 Grants to bus service operators](section/38.md)
+      - [s. 39 Penalties](section/39.md)
+      - [s. 40 Repayment of grants towards bus fuel duty](section/40.md)
+    - Miscellaneous
+      - [s. 41 Bus User Complaints Tribunal](section/41.md)
+      - [s. 42 Traffic regulation conditions to reduce or limit noise or air pollution](section/42.md)
+      - [s. 43 Power to obtain information about local services](section/43.md)
+      - [s. 44 Civil penalties for bus lane contraventions](section/44.md)
+      - [s. 45 Registered services: minimum period of operation](section/45.md)
+      - [s. 46 Power to restrict dates on which scheduled timings of local services may be varied](section/46.md)
+      - [s. 47 Co-operation](section/47.md)
+    - Interpretation of Part
+      - [s. 48 Interpretation of Part 2](section/48.md)
+- Part 3 Road user charging
+  - Road user charging schemes
+    - [s. 49 Charging schemes](section/49.md)
+    - [s. 50 Charging schemes to be made, varied and revoked by order](section/50.md)
+    - [s. 51 Confirmation of orders](section/51.md)
+    - [s. 52 Charging schemes: consultation and inquiries](section/52.md)
+    - [s. 53 Matters to be dealt with in charging schemes](section/53.md)
+    - [s. 54 Charging schemes: exemptions etc.](section/54.md)
+    - [s. 55 Penalties and liability for charges](section/55.md)
+    - [s. 56 Examination, immobilisation and removal of vehicles etc.](section/56.md)
+    - [s. 57 Equipment etc.](section/57.md)
+    - [s. 58 Traffic signs](section/58.md)
+    - [s. 59 Non-domestic rating exemption](section/59.md)
+  - Supplementary
+    - [s. 60 Financial provisions about charging schemes](section/60.md)
+    - [s. 61 Powers of charging authorities](section/61.md)
+    - [s. 62 Grants to charging authorities](section/62.md)
+    - [s. 63 Information](section/63.md)
+    - [s. 64 Determination of disputes, appeals and evidence](section/64.md)
+    - [s. 65 Offences by bodies corporate and partnerships](section/65.md)
+    - [s. 66 Crown application](section/66.md)
+  - Interpretation of Part
+    - [s. 67 Interpretation of Part 3](section/67.md)
+- Part 4 Miscellaneous
+  - Travel concession schemes
+    - [s. 68 Travel concession schemes](section/68.md)
+  - Bridges
+    - [s. 69 Joint boards for management, maintenance etc. of certain bridges](section/69.md)
+  - Grants for transport-related purposes
+    - [s. 70 Grants for transport-related purposes](section/70.md)
+  - Financial assistance: inland waterway and sea freight
+    - [s. 71 Financial assistance for inland waterway and sea freight](section/71.md)
+  - Disabled persons’ transport needs: power to establish committee
+    - [s. 72 Disabled persons’ transport needs: power to establish committee](section/72.md)
+  - Motor vehicles used by disabled persons
+    - [s. 73 Badges for display on motor vehicles used by disabled persons: enforcement](section/73.md)
+  - Home zones
+    - [s. 74 Home zones](section/74.md)
+  - Public rights of passage: redetermination orders
+    - [s. 75 Amendment of Roads (Scotland) Act 1984](section/75.md)
+  - Road safety information and training: subsidies
+    - [s. 76 Amendment of Road Traffic Act 1988](section/76.md)
+  - School crossing patrols
+    - [s. 77 Patrolling school crossings](section/77.md)
+  - Bicycle and motor cycle stands
+    - [s. 78 Stands etc. for bicycles and motor cycles](section/78.md)
+- Part 5 General
+  - [s. 79 Guidance](section/79.md)
+  - [s. 80 Civil penalties: bodies corporate and partnerships](section/80.md)
+  - [s. 81 Regulations and orders](section/81.md)
+  - [s. 82 Interpretation](section/82.md)
+  - [s. 83 Minor and consequential amendments and repeals](section/83.md)
+  - [s. 84 Short title and commencement](section/84.md)
+- SCHEDULE A1 Bus services improvement partnership plans and schemes: procedures
+  - PART 1 Making
+    - Meaning of partnership proposal
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Preliminary notice
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Preparation
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - Notice of proposal and period for objections
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - Effect of objections
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - Notice of, and consultation on, partnership proposal
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - Modifications of partnership proposal
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - Making of partnership plan or scheme and giving notice to that effect
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - Consulting on postponing the coming into operation of partnership scheme
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Postponing the coming into operation of partnership scheme and giving notice
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+  - PART 2 Variation
+    - Meaning of local transport authority for the purposes of this Part
+      - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - Preliminary notice
+      - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - Preparation
+      - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+    - Notice of draft changes and period for objections
+      - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+    - Effect of objections
+      - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+    - Notice and consultation on changes
+      - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+    - Modifications of changes
+      - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - Making the variation and giving notice to that effect
+      - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+    - Consulting on postponing the coming into operation of variation
+      - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+    - Postponing the coming into operation of variation and giving notice to that effect
+      - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+  - PART 3 Revocation
+    - Notice of proposal to revoke
+      - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+    - Consultation on proposal
+      - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+    - Notice of intention to revoke and period for objections
+      - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+    - Effect of objections
+      - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+    - Revoking the plan or scheme and giving notice to that effect
+      - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+  - PART 4 Powers of Scottish Ministers in relation to certain expressions used in this schedule
+    - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+- SCHEDULE 1 Road user charging: financial provisions
+  - [Sch. 1 para. 1 Interpretation](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Apportionment](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Accounts and funds](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Application of proceeds by charging authorities](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Minor and consequential amendments and repeals
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Local Government (Scotland) Act 1973 (c.65)](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Road Traffic Regulation Act 1984 (c.27)](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Transport Act 1985 (c.67)](schedule/2/paragraph/4.md)
