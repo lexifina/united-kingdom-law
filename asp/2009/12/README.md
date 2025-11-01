@@ -1,0 +1,262 @@
+# Climate Change (Scotland) Act 2009
+
+asp/2009/12. Enacted 2009-08-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2009/12/2025-11-01
+
+## Contents
+
+- Part 1 Emissions reduction targets
+  - The net-zero emissions target
+    - [s. A1 The net-zero emissions target](section/A1.md)
+  - Scottish carbon budgets
+    - [s. A2 Scottish carbon budgets and associated concepts](section/A2.md)
+    - [s. A2A Scottish carbon budgets: 2026 to 2045](section/A2A.md)
+    - [s. A3 Duty of Scottish Ministers in relation to budgets](section/A3.md)
+    - [s. A4 Budget-setting regulations](section/A4.md)
+    - [s. A5 Alteration of budget periods](section/A5.md)
+  - ...
+    - [s. 1 The 2050 target](section/1.md)
+  - ...
+    - [s. 2 The interim targets](section/2.md)
+    - [s. 2A Modification of the interim targets](section/2A.md)
+  - The target-setting criteria
+    - [s. 2B The target-setting criteria](section/2B.md)
+  - Advice about targets
+    - [s. 2C Duty to seek advice from the relevant body](section/2C.md)
+    - [s. 2D Power to seek additional advice](section/2D.md)
+    - [s. 2E Ministerial duties following request for advice](section/2E.md)
+  - ...
+    - [s. 3 Annual targets: 2021 to year before net-zero year](section/3.md)
+    - [s. 3A Annual targets: recalculation if net-zero emissions target year is in certain periods](section/3A.md)
+    - [s. 3B Annual targets: further rules on recalculation](section/3B.md)
+  - Information about targets
+    - [s. 3C Publication of targets](section/3C.md)
+    - [s. 4 Setting annual targets](section/4.md)
+    - [s. 5 Advice before setting annual targets](section/5.md)
+    - [s. 6 Modifying annual targets etc.](section/6.md)
+    - [s. 7 Advice before modifying annual targets etc.](section/7.md)
+  - ...
+    - [s. 8 The domestic effort target](section/8.md)
+  - Nitrogen balance sheet
+    - [s. 8A Nitrogen balance sheet](section/8A.md)
+  - Advice on progress
+    - [s. 9 Progress towards targets](section/9.md)
+  - Greenhouse gases
+    - [s. 10 Greenhouse gases](section/10.md)
+  - Baseline
+    - [s. 11 The baseline](section/11.md)
+    - [s. 12 Baselines for additional greenhouses gases](section/12.md)
+  - Supplementary
+    - [s. 13 The net Scottish emissions account](section/13.md)
+    - [s. 13A Permitted use of carbon units purchased by the Scottish Ministers](section/13A.md)
+    - [s. 14 Restriction on use in 2010–2017 of carbon units purchased by Scottish Ministers](section/14.md)
+    - [s. 15 Attribution of emissions to Scotland](section/15.md)
+    - [s. 16 Scottish share of emissions from international aviation and international shipping](section/16.md)
+    - [s. 17 Scottish emissions and removals](section/17.md)
+    - [s. 18 Measurement of emissions etc.](section/18.md)
+    - [s. 19 International carbon reporting practice](section/19.md)
+    - [s. 20 Carbon units and carbon accounting](section/20.md)
+    - [s. 20A The relevant body](section/20A.md)
+    - [s. 21 Limits on use of carbon units](section/21.md)
+    - [s. 22 Modifying limits on use of carbon units etc.](section/22.md)
+    - [s. 23 Advice before setting or modifying limits on use of carbon units etc.](section/23.md)
+- Part 2 Advisory functions
+  - Advisory body
+    - [s. 24 Meaning of advisory body](section/24.md)
+  - Scottish Committee on Climate Change
+    - [s. 25 Scottish Committee on Climate Change](section/25.md)
+    - [s. 26 Application of sections 30 to 32 and 56](section/26.md)
+    - [s. 27 Advice on annual targets etc.](section/27.md)
+    - [s. 28 Reporting on progress towards targets](section/28.md)
+    - [s. 29 Scottish Ministers’ response to reports on progress](section/29.md)
+    - [s. 30 Duty of advisory body to provide advice or other assistance](section/30.md)
+    - [s. 31 Guidance to advisory body](section/31.md)
+    - [s. 32 Power to give directions to advisory body](section/32.md)
+- PART 2A Citizens Assembly
+  - [s. 32A Citizens assembly](section/32A.md)
+- Part 3 Reporting and planning duties
+  - Reporting
+    - [s. 33 Reports on emissions reduction targets](section/33.md)
+    - [s. 34 Reports on emissions reduction targets: further content](section/34.md)
+    - [s. 34A Annual report on emissions reduction](section/34A.md)
+  - Climate change plan
+    - [s. 35 Climate change plan](section/35.md)
+    - [s. 35ZA Preparation of climate change plan: public consultation](section/35ZA.md)
+    - [s. 35A Climate change plan: further procedure](section/35A.md)
+    - [s. 35B Climate change plan: annual progress reports](section/35B.md)
+    - [s. 35C Just transition principles](section/35C.md)
+    - [s. 36 Reports on proposals and policies where emissions reduction targets not met](section/36.md)
+  - Other reporting provisions
+    - [s. 37 Reports on emissions attributable to Scottish consumption of goods and services](section/37.md)
+    - [s. 37A Reports on land use strategy](section/37A.md)
+    - [s. 38 Reports on impact on emissions of exercise of electricity generation related functions](section/38.md)
+    - [s. 39 Report on progress towards meeting the interim target](section/39.md)
+    - [s. 40 Report on the interim target](section/40.md)
+    - [s. 41 Report on the 2050 target](section/41.md)
+    - [s. 42 Reports: provision of further information to the Scottish Parliament](section/42.md)
+    - [s. 43 Further provision about reporting duties](section/43.md)
+- Part 4 Duties of public bodies relating to climate change
+  - Duties of public bodies
+    - [s. 44 Duties of public bodies relating to climate change](section/44.md)
+    - [s. 45 Guidance to relevant public bodies](section/45.md)
+    - [s. 46 Reporting on climate change duties](section/46.md)
+  - Monitoring body
+    - [s. 47 Appointment of monitoring body](section/47.md)
+  - Investigations
+    - [s. 48 Investigations](section/48.md)
+    - [s. 49 Investigations: investigators’ powers](section/49.md)
+    - [s. 50 Reporting by monitoring body](section/50.md)
+    - [s. 51 Guidance to monitoring body](section/51.md)
+    - [s. 52 Power to direct monitoring body](section/52.md)
+- Part 5 Other climate change provisions
+  - Chapter 1 Adaptation
+    - Adaptation programmes
+      - [s. 53 Programmes for adaptation to climate change](section/53.md)
+      - [s. 54 Reports on progress towards implementation of programmes for adaptation](section/54.md)
+      - [s. 55 Progress towards implementation of programmes for adaptation](section/55.md)
+      - [s. 56 Reports on programmes for adaptation](section/56.md)
+  - Chapter 2 Land use
+    - Land use strategy
+      - [s. 57 Duty to produce a land use strategy](section/57.md)
+    - Muirburn
+      - [s. 58 Variation of permitted times for making muirburn](section/58.md)
+    - Forestry
+      - [s. 59 Power to modify functions of Forestry Commissioners](section/59.md)
+  - Chapter 3 Energy efficiency
+    - Promotion of energy efficiency and renewable heat
+      - [s. 60 Duty of Scottish Ministers to promote energy efficiency](section/60.md)
+      - [s. 61 Duty of Scottish Ministers to promote renewable heat](section/61.md)
+      - [s. 62 Laying of plans and reports](section/62.md)
+    - Energy performance of non-domestic buildings
+      - [s. 63 Non-domestic buildings: assessment of energy performance and emissions](section/63.md)
+    - Energy performance of living accommodation
+      - [s. 64 Living accommodation: assessment of energy performance and emissions](section/64.md)
+    - Energy efficiency discount schemes
+      - [s. 65 Duty of local authorities to establish energy efficiency discount schemes](section/65.md)
+      - [s. 66 Review of energy efficiency discount schemes](section/66.md)
+      - [s. 67 Non-domestic rates: discounts for energy efficiency etc.](section/67.md)
+    - Climate change burdens
+      - [s. 68 Climate change burdens](section/68.md)
+    - Tenement Management Scheme
+      - [s. 69 Tenement Management Scheme: definition of “maintenance”](section/69.md)
+    - Permitted development rights
+      - [s. 70 Air source heat pumps and micro wind turbines in domestic properties](section/70.md)
+      - [s. 71 Microgeneration in non-domestic buildings](section/71.md)
+    - Development plans
+      - [s. 72 Development plans: inclusion of greenhouse gas emissions policies](section/72.md)
+      - [s. 73 Annual report on operation of section 72](section/73.md)
+    - Promotion of water conservation and water-use efficiency
+      - [s. 74 Duty of Scottish Water to promote water conservation and water-use efficiency](section/74.md)
+  - Chapter 4 The Scottish civil estate
+    - [s. 75 Energy performance of buildings procured for the Scottish civil estate](section/75.md)
+    - [s. 76 Report on the Scottish civil estate](section/76.md)
+    - [s. 77 Scottish civil estate: supplementary](section/77.md)
+  - Chapter 5 Waste reduction and recycling
+    - Waste prevention and management plans
+      - [s. 78 Waste prevention and management plans](section/78.md)
+    - Restrictions on the disposal of unsold consumer goods
+      - [s. 78A Restrictions on the disposal of unsold consumer goods](section/78A.md)
+    - Waste data
+      - [s. 79 Information on waste](section/79.md)
+    - Deposit of recyclable waste etc.
+      - [s. 80 Recyclable waste: facilities for deposit etc.](section/80.md)
+      - [s. 81 Recyclable waste: facilities for deposit at events etc.](section/81.md)
+    - Procurement of recyclate
+      - [s. 82 Procurement of recyclate](section/82.md)
+      - [s. 82A Procurement of recycled and recyclable products etc.](section/82A.md)
+    - Reduction of packaging
+      - [s. 83 Targets for reduction of packaging etc.](section/83.md)
+    - Deposit and return
+      - [s. 84 Deposit and return schemes](section/84.md)
+      - [s. 85 Deposit and return schemes: designation of scheme administrator](section/85.md)
+      - [s. 86 Power to establish scheme administrator](section/86.md)
+      - [s. 87 Finance of scheme administrator](section/87.md)
+    - Chargeable items
+      - [s. 87A Charges for supply of single-use items](section/87A.md)
+    - ...
+      - [s. 88 Charges for supply of carrier bags](section/88.md)
+    - ...
+      - [s. 88A Offences relating to supply of chargeable items: fixed penalty notices](section/88A.md)
+    - General provision
+      - [s. 89 Enforcement authorities](section/89.md)
+      - [s. 90 Penalties](section/90.md)
+- Part 6 General and miscellaneous
+  - [s. 91 Public engagement](section/91.md)
+  - [s. 92 Sustainable development](section/92.md)
+  - [s. 93 Equal opportunities](section/93.md)
+  - [s. 94 Impact of budget proposals on emissions](section/94.md)
+  - [s. 94A Impact of infrastructure investment on emissions](section/94A.md)
+  - [s. 95 Crown application](section/95.md)
+  - [s. 96 Subordinate legislation](section/96.md)
+  - [s. 97 Subordinate legislation: pre-laying procedure](section/97.md)
+  - [s. 98 Interpretation](section/98.md)
+  - [s. 99 Minor and consequential modifications](section/99.md)
+  - [s. 100 Short title and commencement](section/100.md)
+- SCHEDULE 1 The Scottish Committee on Climate Change
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership of the Committee
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Period, and conditions, of appointment of members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Persons not eligible for appointment
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Removal of members of Committee
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration, allowances and pensions of members
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Chief executive and other employees
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Accounts
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Reports
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Sub-committees
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Proceedings
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Delegation of functions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - General powers
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 1A FIXED PENALTIES
+  - Preliminary
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Content of fixed penalty notice
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Period in which notice can be given
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Amount of penalty
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Deadlines for payment
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Method of payment
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Restriction on proceedings and effect of payment
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Withdrawal of fixed penalty notice
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Effect of prosecution on fixed penalty notice
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - General and supplemental
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+- SCHEDULE 2 Minor and consequential modifications
+  - Hill Farming Act 1946 (c. 73)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Housing (Scotland) Act 2006 (asp 1)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
