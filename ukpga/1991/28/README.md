@@ -1,0 +1,213 @@
+# Natural Heritage (Scotland) Act 1991
+
+1991 c. 28. Enacted 1991-06-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
+
+Source: https://www.legislation.gov.uk/ukpga/1991/28/2025-11-01
+
+## Contents
+
+- Part I Scottish Natural Heritage
+  - Establishment of SNH
+    - [s. 1 Scottish Natural Heritage.](section/1.md)
+  - Functions of SNH
+    - [s. 2 General functions of Scottish Natural Heritage](section/2.md)
+    - [s. 3 Duty to take account of certain matters.](section/3.md)
+    - [s. 4 Nature conservation functions.](section/4.md)
+    - [s. 5 Development projects or schemes.](section/5.md)
+    - [s. 6 Natural Heritage Areas.](section/6.md)
+    - [s. 7 Powers of entry.](section/7.md)
+  - Grants and loans
+    - [s. 8 Government grants to Scottish Natural Heritage.](section/8.md)
+    - [s. 9 Grants and loans.](section/9.md)
+  - Miscellaneous
+    - [s. 10 Reports, accounts etc.](section/10.md)
+    - [s. 11 Directions by Secretary of State.](section/11.md)
+    - [s. 12 Advisory Committee on SIs.](section/12.md)
+    - [s. 13 Access to open country.](section/13.md)
+    - [s. 14 Dissolution of bodies.](section/14.md)
+- Part II Irrigation
+  - [s. 15 Power to control abstraction of water for irrigation.](section/15.md)
+  - [s. 16 Offence of unlicensed abstraction of water for irrigation.](section/16.md)
+  - [s. 17 Licences.](section/17.md)
+  - [s. 18 Special provisions for shortage or abundance of water.](section/18.md)
+  - [s. 19 Transitional provisions.](section/19.md)
+- Part III Drought
+  - [s. 20 Drought orders.](section/20.md)
+  - [s. 21 Offences against drought orders.](section/21.md)
+  - [s. 22 Interpretation, transitional provisions and savings.](section/22.md)
+- Part IV General
+  - [s. 23 Finance.](section/23.md)
+  - [s. 24 Rights of entry and inspection under Parts II and III.](section/24.md)
+  - [s. 25 Service of documents.](section/25.md)
+  - [s. 26 Offences by persons other than natural persons.](section/26.md)
+  - [s. 26A Meaning of SEPA.](section/26A.md)
+  - [s. 27 Consequential and miscellaneous amendments and repeals.](section/27.md)
+  - [s. 28 Short title, commencement and extent.](section/28.md)
+- SCHEDULE 1 Constitution and proceedings of Scottish Natural Heritage
+  - Incorporation and status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Chairman and Deputy Chairman
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Remuneration and allowances
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Staff
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Proceedings
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Committees
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Delegation of powers
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Documents
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Land
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Amendment of Enactments conferring nature conservation functions
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Deer (Scotland) Act 1959 (c. 40)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Conservation of Seals Act 1970 (c. 30)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Badgers Act 1973 (c. 57)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Import of Live Fish (Scotland) Act 1978 (c. 35)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Animal Health Act 1981 (c. 22)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Environmental Protection Act 1990 (c. 43)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Access to Open Country
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Transitional arrangements on the dissolution of existing bodies
+  - Preliminary
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Preparation of accounts and reports
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Offers of employment
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Continuity of employment, redundancy etc.
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Disputes
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Continuity of exercise of functions
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Construction of references to the Council and the Commission
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Supplementary
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Provisions as to applications for, making, coming into operation, and validity of, control orders
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Provisions as to applications for, variation, revocation and transfer of licences under Part II
+  - Applications for Licences under Part II
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Appeal against refusal to grant licence
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Variation of licence and late application for licence
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Revocation of licences
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Transfer of licences
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Further provisions regarding drought orders
+  - Duration of drought orders
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Exercise of power to make a drought order
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Prohibition or limitation of use of water
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Abstractions and discharges of water
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Works under drought orders
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Miscellaneous
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Procedure for making drought orders
+  - Application for orders
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Objections to and making of orders
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9 Compensation in respect of drought orders
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Miscellaneous Amendments
+  - Rivers (Prevention of Pollution) (Scotland) Act 1951 (c. 66)
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Superannuation Act 1965 (c. 74)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Parliamentary Commissioner Act 1967 (c. 13)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Countryside (Scotland) Act 1967 (c. 86)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Sewerage (Scotland) Act 1968 (c.47)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Local Government (Scotland) Act 1973 (c. 65)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Control of Pollution Act 1974 (c. 40)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Roads (Scotland) Act 1984 (c. 54)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Agriculture Act 1986 (c. 49)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Repeals
