@@ -1,0 +1,267 @@
+# Regulatory Reform (Scotland) Act 2014
+
+asp/2014/3. Enacted 2014-02-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2014/3/2025-11-01
+
+## Contents
+
+- PART 1 REGULATORY FUNCTIONS
+  - Regulations to encourage or improve regulatory consistency
+    - [s. 1 Power as respects consistency in regulatory functions](section/1.md)
+    - [s. 2 Regulations under section 1: further provision](section/2.md)
+  - Compliance and enforcement
+    - [s. 3 Regulations under section 1: compliance and enforcement](section/3.md)
+  - Exercise of regulatory functions: economic duty and code of practice
+    - [s. 4 Regulators’ duty in respect of sustainable economic growth](section/4.md)
+    - [s. 5 Code of practice](section/5.md)
+    - [s. 6 Code of practice: procedure](section/6.md)
+  - Power to modify list of regulators
+    - [s. 7 Power to modify schedule 1](section/7.md)
+- PART 2 PRIMARY AUTHORITIES
+  - [s. 8 Scope of Part 2](section/8.md)
+  - [s. 9 Meaning of “relevant function”](section/9.md)
+  - [s. 10 Nomination of primary authorities](section/10.md)
+  - [s. 11 Nomination of primary authorities: conditions and registers](section/11.md)
+  - [s. 12 Primary authorities: power to make further provision](section/12.md)
+  - [s. 13 Advice and guidance](section/13.md)
+  - [s. 14 Power to charge](section/14.md)
+  - [s. 15 Guidance](section/15.md)
+- PART 3 ENVIRONMENTAL REGULATION
+  - CHAPTER 1 REGULATIONS FOR PROTECTING AND IMPROVING THE ENVIRONMENT
+    - [s. 16 General purpose: protecting and improving the environment](section/16.md)
+    - [s. 17 Meaning of expressions used in section 16 and schedule 2](section/17.md)
+    - [s. 18 Regulations relating to protecting and improving the environment](section/18.md)
+    - [s. 19 Regulations relating to protecting and improving the environment: consultation](section/19.md)
+  - CHAPTER 2 SEPA’S POWERS OF ENFORCEMENT
+    - Fixed monetary penalties
+      - [s. 20 Fixed monetary penalties](section/20.md)
+      - [s. 21 Fixed monetary penalties: procedure](section/21.md)
+      - [s. 22 Fixed monetary penalties: effect on criminal proceedings etc.](section/22.md)
+    - Variable monetary penalties
+      - [s. 23 Variable monetary penalties](section/23.md)
+      - [s. 24 Variable monetary penalties: procedure](section/24.md)
+      - [s. 25 Variable monetary penalties: effect on criminal proceedings etc.](section/25.md)
+    - Non-compliance penalties
+      - [s. 26 Undertakings under section 24: non-compliance penalties](section/26.md)
+    - Enforcement undertakings
+      - [s. 27 Enforcement undertakings](section/27.md)
+    - Operation of penalties and cost recovery
+      - [s. 28 Combination of sanctions](section/28.md)
+      - [s. 29 Monetary penalties](section/29.md)
+      - [s. 30 Costs recovery](section/30.md)
+    - Guidance
+      - [s. 31 Guidance as to use of enforcement measures](section/31.md)
+    - Publication of enforcement action
+      - [s. 32 Publication of enforcement action](section/32.md)
+    - Interpretation of Chapter 2
+      - [s. 33 Interpretation of Chapter 2](section/33.md)
+  - CHAPTER 3 COURT POWERS
+    - Compensation orders
+      - [s. 34 Compensation orders against persons convicted of relevant offences](section/34.md)
+    - Fines
+      - [s. 35 Fines for relevant offences: court to consider financial benefits](section/35.md)
+    - Publicity orders
+      - [s. 36 Power to order conviction etc. for offence to be publicised](section/36.md)
+      - [s. 37 Corporate offending](section/37.md)
+  - CHAPTER 4 MISCELLANEOUS
+    - Vicarious liability
+      - [s. 38 Vicarious liability for certain offences by employees and agents](section/38.md)
+      - [s. 39 Liability where activity carried out by arrangement with another](section/39.md)
+    - Offence relating to significant environmental harm
+      - [s. 40 Significant environmental harm: offence](section/40.md)
+      - [s. 41 Power of court to order offence to be remedied](section/41.md)
+      - [s. 42 Corporate offending](section/42.md)
+    - Offences relating to supply of carrier bags: fixed penalty notices
+      - [s. 43 Offences relating to supply of carrier bags: fixed penalty notices](section/43.md)
+    - Publicity and remediation orders: appeals by prosecutor
+      - [s. 44 Orders under sections 36 and 41: prosecutor’s right of appeal](section/44.md)
+    - Contaminated land and special sites
+      - [s. 45 Contaminated land and special sites](section/45.md)
+    - Amendment of powers under section 108 of Environment Act 1995
+      - [s. 46 Amendment of powers under section 108 of Environment Act 1995](section/46.md)
+    - Authorisations relating to waste management: offences by partnerships
+      - [s. 47 Carriers of controlled waste: offences by partnerships affecting registration](section/47.md)
+      - [s. 48 Waste management licences: offences by partnerships](section/48.md)
+    - Air quality assessments
+      - [s. 49 Duty of local authorities in relation to air quality assessments etc.](section/49.md)
+    - Smoke control areas: fuels and fireplaces
+      - [s. 50 Smoke control areas: authorised fuels and exempt fireplaces](section/50.md)
+  - CHAPTER 5 GENERAL PURPOSE OF SEPA
+    - [s. 51 General purpose of SEPA](section/51.md)
+  - CHAPTER 6 REPORTING AND INTERPRETATION: PART 3
+    - [s. 52 Annual report on operation of Part 3](section/52.md)
+    - [s. 53 Meaning of “relevant offence” and “SEPA” in Part 3](section/53.md)
+- PART 4 MISCELLANEOUS
+  - Marine licensing decisions
+    - [s. 54 Marine licence applications etc.: proceedings to question validity of decisions](section/54.md)
+  - Planning authorities’ functions: charges and fees
+    - [s. 55 Planning authorities’ functions: charges and fees](section/55.md)
+  - Street traders’ licences
+    - [s. 56 Application for street trader’s licence: food businesses](section/56.md)
+- PART 5 GENERAL
+  - [s. 57 Consequential modifications and repeals](section/57.md)
+  - [s. 58 Subordinate legislation](section/58.md)
+  - [s. 59 Ancillary provision](section/59.md)
+  - [s. 60 Crown application](section/60.md)
+  - [s. 61 Commencement](section/61.md)
+  - [s. 62 Short title](section/62.md)
+- SCHEDULE 1 REGULATORS FOR THE PURPOSES OF PART 1
+- SCHEDULE 2 PARTICULAR PURPOSES FOR WHICH PROVISION MAY BE MADE UNDER SECTION 18
+  - PART 1 LIST OF PURPOSES
+    - Environmental activities
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Emissions
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Regulators
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Regulation of activities
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Permits
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Registration
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Provisions common to permits and registration
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Notification of regulated activities
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Charging schemes
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Information, publicity and consultation
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 14A](schedule/2/paragraph/14A.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Enforcement and offences
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Appeals
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - General
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - PART 2 SUPPLEMENTARY PROVISIONS
+    - Particular types of regulated activity
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Emissions trading scheme
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - General binding rules
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Determination of matters by regulators
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Determination of rules and imposition of conditions
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Charging schemes
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Fit and proper persons
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - ...
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Offences
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Service of notices
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Powers exercisable in the regulations
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Interpretation
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL MODIFICATIONS
+  - PART 1 REGULATION OF ENVIRONMENTAL ACTIVITIES ETC.
+    - Sewerage (Scotland) Act 1968
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Prevention of Oil Pollution Act 1971
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Environmental Protection Act 1990
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Clean Air Act 1993
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Environment Act 1995
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Merchant Shipping Act 1995
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Pollution Prevention and Control Act 1999
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Water Environment and Water Services (Scotland) Act 2003
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Water Services etc. (Scotland) Act 2005
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Water Resources (Scotland) Act 2013
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - PART 2 ENFORCEMENT OF REGULATIONS ON ENVIRONMENTAL ACTIVITIES ETC.
+    - Environmental Protection Act 1990
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Reservoirs (Scotland) Act 2011
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - PART 3 PURPOSES OF SEPA
+    - Environment Act 1995
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Water Industry (Scotland) Act 2002
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - PART 4 CONTROL OF POLLUTION ACT 1974
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - PART 5 MISCELLANEOUS ENACTMENTS
+    - Scottish Board of Health Act 1919
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Local Government (Scotland) Act 1973
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Local Government, Planning and Land Act 1980
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Litter Act 1983
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Water Act 1989
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Planning (Consequential Provisions) Act 1990
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Environmental Protection Act 1990
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Natural Heritage (Scotland) Act 1991
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Agricultural Holdings (Scotland) Act 1991
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Clean Air Act 1993
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Radioactive Substances Act 1993
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Local Government etc. (Scotland) Act 1994
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Environment Act 1995
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - Town and Country Planning (Scotland) Act 1997
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - Planning (Consequential Provisions) (Scotland) Act 1997
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Crime and Punishment (Scotland) Act 1997
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - City of Edinburgh (Guided Busways) Order Confirmation Act 1998
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - Pollution Prevention and Control Act 1999
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+    - Antisocial Behaviour etc. (Scotland) Act 2004
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+    - Forth Crossing Act 2011
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - PART 6 MODIFICATIONS OF REFERENCES TO “ENACTMENT” ETC.
+    - Control of Pollution Act 1974
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - Environmental Protection Act 1990
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+    - Natural Heritage (Scotland) Act 1991
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+    - Radioactive Substances Act 1993
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+    - Environment Act 1995
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+    - Flood Risk Management (Scotland) Act 2009
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
