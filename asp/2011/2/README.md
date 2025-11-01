@@ -1,0 +1,131 @@
+# Forth Crossing Act 2011
+
+asp/2011/2. Enacted 2011-01-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2011/2/2025-11-01
+
+## Contents
+
+- Part 1 Works
+  - [s. 1 Power to construct Forth Crossing etc.](section/1.md)
+  - [s. 2 Bridge proportions](section/2.md)
+  - [s. 3 Maximum construction height](section/3.md)
+  - [s. 4 Limits of deviation etc.](section/4.md)
+  - [s. 5 Bridge marking and lighting](section/5.md)
+  - [s. 6 Interference with navigation](section/6.md)
+  - [s. 7 Dredging etc.](section/7.md)
+  - [s. 8 Marine (Scotland) Act 2010](section/8.md)
+  - [s. 9 Interference with railways](section/9.md)
+  - [s. 10 Trees and shrubs](section/10.md)
+- Part 2 Roads
+  - [s. 11 Special roads](section/11.md)
+  - [s. 12 Trunk roads](section/12.md)
+  - [s. 13 Roads to be transferred to local roads authorities](section/13.md)
+  - [s. 14 Stopping up of roads](section/14.md)
+  - [s. 15 Stopping up of means of access](section/15.md)
+  - [s. 16 Extinction of rights of way](section/16.md)
+  - [s. 17 Solum of stopped up road](section/17.md)
+  - [s. 18 Works in roads where Ministers are not the roads authority](section/18.md)
+  - [s. 19 Access to public roads](section/19.md)
+  - [s. 20 Application of the Roads (Scotland) Act 1984](section/20.md)
+- Part 3 Land
+  - [s. 21 Incorporation of enactments](section/21.md)
+  - [s. 22 Compulsory acquisition of land](section/22.md)
+  - [s. 23 Acquisition of land by agreement](section/23.md)
+  - [s. 24 Acquisition of servitudes and other rights](section/24.md)
+  - [s. 25 Extinction of real burdens and servitudes etc.](section/25.md)
+  - [s. 26 Persons under a disability may grant servitudes, etc.](section/26.md)
+  - [s. 27 Registration of servitudes and other rights](section/27.md)
+  - [s. 28 Minerals](section/28.md)
+  - [s. 29 Time limit for compulsory acquisition](section/29.md)
+- Part 4 Taking title to land
+  - Notice to treat procedure
+    - [s. 30 Service of a notice to treat](section/30.md)
+    - [s. 31 Partial acquisitions using notice to treat procedure](section/31.md)
+    - [s. 32 Severance disputes (notice to treat procedure): Lands Tribunal](section/32.md)
+    - [s. 33 Severance of agricultural land](section/33.md)
+    - [s. 34 Notice to treat: time limit](section/34.md)
+  - General vesting declarations
+    - [s. 35 General vesting declarations](section/35.md)
+    - [s. 36 Duty to publicise general vesting declarations](section/36.md)
+- Part 5 Powers to enter and use land
+  - [s. 37 Temporary possession of land](section/37.md)
+  - [s. 38 Power to enter land for other purposes](section/38.md)
+  - [s. 39 Advance entry on land to be acquired](section/39.md)
+  - [s. 40 Notice of entry](section/40.md)
+  - [s. 41 Use of land](section/41.md)
+  - [s. 42 Duty to remedy damage etc.](section/42.md)
+  - [s. 43 No power to enter homes](section/43.md)
+  - [s. 44 Warrants authorising entry](section/44.md)
+  - [s. 45 Obstruction](section/45.md)
+  - [s. 46 Suspension of real burdens and servitudes etc.](section/46.md)
+- Part 6 Compensation
+  - [s. 47 Land Compensation (Scotland) Act 1963](section/47.md)
+  - [s. 48 Matters to be considered when assessing compensation](section/48.md)
+  - [s. 49 Matters to be ignored when assessing compensation](section/49.md)
+  - [s. 50 Compensation: partial acquisition etc.](section/50.md)
+  - [s. 51 Compensation: servitudes and other rights](section/51.md)
+  - [s. 52 Compensation: cutting down or lopping, or cutting back roots of, trees or shrubs](section/52.md)
+  - [s. 53 Compensation: stopping up](section/53.md)
+  - [s. 54 Compensation: entering and using land temporarily](section/54.md)
+  - [s. 55 Compensation: advance entry](section/55.md)
+  - [s. 56 Compensation where notice to treat becomes invalid](section/56.md)
+- Part 7 Statutory undertakers
+  - [s. 57 Apparatus affected by works](section/57.md)
+  - [s. 58 Works for roads purposes](section/58.md)
+  - [s. 59 Compensation for removal of water, gas, electricity or communications apparatus](section/59.md)
+  - [s. 60 Compensation for removal of public sewer](section/60.md)
+  - [s. 61 Apparatus in stopped up roads](section/61.md)
+- Part 8 Planning permission, listed buildings and conservation areas
+  - [s. 62 Planning permission](section/62.md)
+  - [s. 63 Relaxation of listed building controls](section/63.md)
+  - [s. 64 Demolition in conservation areas](section/64.md)
+  - [s. 65 Interpretation of Part 8](section/65.md)
+- Part 9 Environmental matters
+  - [s. 66 Mitigation of environmental impact](section/66.md)
+  - [s. 67 Compliance with code of construction practice and noise and vibration policy](section/67.md)
+  - [s. 68 Amendment of code of construction practice and noise and vibration policy](section/68.md)
+  - [s. 69 Protection of water environment](section/69.md)
+  - [s. 70 Control of noise: Control of Pollution Act 1974](section/70.md)
+  - [s. 71 Statutory nuisance: noise under the Environmental Protection Act 1990](section/71.md)
+- Part 10 Miscellaneous
+  - [s. 72 Blighted land](section/72.md)
+  - [s. 73 Certification of Parliamentary plans, etc.](section/73.md)
+  - [s. 74 Changes to Parliamentary plans or book of reference](section/74.md)
+  - [s. 75 Provision of information on the progress of the Forth Crossing works](section/75.md)
+  - [s. 76 Formal communications](section/76.md)
+  - [s. 77 Ancillary provision](section/77.md)
+  - [s. 78 Crown application](section/78.md)
+  - [s. 79 Interpretation](section/79.md)
+  - [s. 80 Commencement](section/80.md)
+  - [s. 81 Short title](section/81.md)
+- SCHEDULE 1 Principal works
+- SCHEDULE 2 Ancillary works
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Special roads
+- SCHEDULE 4 Proposed trunk roads
+- SCHEDULE 5 Existing roads to become trunk roads on date determined by Ministers
+- SCHEDULE 6 Roads to be transferred to local roads authorities
+- SCHEDULE 7 Roads to be stopped up
+  - Part 1 Stopped up roads for which no substitute is listed
+  - Part 2 Stopped up roads for which substitute roads are listed
+- SCHEDULE 8 Means of access to be stopped up
+  - Part 1 Means of access for which no substitute is listed
+  - Part 2 Means of access for which a substitute is listed
+- SCHEDULE 9 Land which may be acquired
+  - Part 1 Acquisition of land
+  - Part 2 Acquisition of rights
+- SCHEDULE 10 Temporary possession of land
+- SCHEDULE 11 Listed buildings: authorised works
