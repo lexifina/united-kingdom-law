@@ -1,0 +1,256 @@
+# Goods Vehicles (Licensing of Operators) Act 1995
+
+1995 c. 23. Enacted 1995-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 10 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1995/23
+
+Source: https://www.legislation.gov.uk/ukpga/1995/23/2025-11-01
+
+## Contents
+
+- Functions of traffic commissioners
+  - [s. 1 Functions of traffic commissioners.](section/1.md)
+- Operators’ licences
+  - [s. 2 Obligation to hold operator’s licence.](section/2.md)
+  - [s. 2A Detention of vehicle used without operator’s licence.](section/2A.md)
+  - [s. 2B Power to stop](section/2B.md)
+  - [s. 3 “Standard” and “restricted” licences.](section/3.md)
+  - [s. 3A Temporary exemptions for international operators](section/3A.md)
+  - [s. 4 Other Temporary exemptions.](section/4.md)
+- Vehicles authorised to be used under a licence
+  - [s. 5 Vehicles authorised to be used under operator’s licence.](section/5.md)
+  - [s. 6 Maximum numbers of vehicles.](section/6.md)
+- Operating centres
+  - [s. 7 Operating centres to be specified in heavy goods vehicle licences.](section/7.md)
+- Applications for licences
+  - [s. 8 Applications for operators’ licences.](section/8.md)
+  - [s. 9 Convictions etc. subsequent to the making of an application.](section/9.md)
+  - [s. 10 Publication by traffic commissioner of notice of application for licence.](section/10.md)
+  - [s. 11 Publication in locality affected of notice of application for heavy goods vehicle licence.](section/11.md)
+  - [s. 12 Objections to, and representations against, issue of operators’ licences.](section/12.md)
+- Determination of applications
+  - [s. 13 Determination of applications for operators’ licences](section/13.md)
+  - [s. 13A Requirements for standard licences](section/13A.md)
+  - [s. 13B Requirements for restricted licences](section/13B.md)
+  - [s. 13C Requirements for standard and restricted licences](section/13C.md)
+  - [s. 13D Further requirement for standard and restricted licences](section/13D.md)
+  - [s. 14 Determinations where objections etc are made on environmental grounds.](section/14.md)
+  - [s. 15 Issue of operators’ licences.](section/15.md)
+  - [s. 16 Duration of operators’ licences.](section/16.md)
+- Variation of licences
+  - [s. 17 Variation of operators’ licences.](section/17.md)
+  - [s. 18 Publication of notice of applications for variation of heavy goods vehicle licences in any locality affected.](section/18.md)
+  - [s. 19 Objection to, and refusal of, applications to vary heavy goods vehicle licences on environmental grounds.](section/19.md)
+  - [s. 20 Variation of licences: further provisions.](section/20.md)
+- Conditions attached to licences
+  - [s. 21 Conditions attached to heavy goods vehicle licences for securing road safety.](section/21.md)
+  - [s. 22 Conditions attached to operators’ licences as to matters required to be notified to traffic commissioner.](section/22.md)
+  - [s. 23 Conditions attached to heavy goods vehicle licences as to use of operating centres.](section/23.md)
+- Interim licences and interim variations
+  - [s. 24 Interim operators’ licences.](section/24.md)
+  - [s. 25 Interim variations.](section/25.md)
+- Revocation etc. of operators’ licences
+  - [s. 26 Revocation, suspension and curtailment of operators’ licences.](section/26.md)
+  - [s. 27 Revocation of standard licences.](section/27.md)
+  - [s. 28 Disqualification.](section/28.md)
+  - [s. 29 Revocation and disqualification etc: supplementary provisions.](section/29.md)
+- Review of operating centres
+  - [s. 30 Periods of review for operating centres.](section/30.md)
+  - [s. 31 Power to remove operating centres on review.](section/31.md)
+  - [s. 32 Power to attach conditions on review.](section/32.md)
+- Transfer of operating centres
+  - [s. 33 Transfer of operating centres.](section/33.md)
+- Environmental matters
+  - [s. 34 Determinations as to environmental matters.](section/34.md)
+- Inquiries
+  - [s. 35 Power of traffic commissioners to hold inquiries.](section/35.md)
+- Review of decisions and appeals
+  - [s. 36 Review of decisions.](section/36.md)
+  - [s. 37 Rights of appeal in connection with operators’ licences.](section/37.md)
+- Forgery, false statements, etc.
+  - [s. 38 Forgery of documents, etc.](section/38.md)
+  - [s. 39 False statements.](section/39.md)
+- Enforcement etc.
+  - [s. 40 Inspection of maintenance facilities.](section/40.md)
+  - [s. 41 Power to seize documents etc.](section/41.md)
+  - [s. 42 Meaning of “officer” and powers of police constables.](section/42.md)
+  - [s. 43 Evidence by certificate.](section/43.md)
+- Miscellaneous
+  - [s. 44 Assessors.](section/44.md)
+  - [s. 45 Fees.](section/45.md)
+  - [s. 46 Holding companies and subsidiaries.](section/46.md)
+  - [s. 47 Partnerships.](section/47.md)
+  - [s. 48 Operators’ licences not to be transferable etc.](section/48.md)
+  - [s. 49 Certificates of qualification.](section/49.md)
+- Large goods vehicles
+  - [s. 50 Large goods vehicles.](section/50.md)
+- General provisions
+  - [s. 51 Time for bringing proceedings.](section/51.md)
+  - [s. 52 Destination of fines: Scotland.](section/52.md)
+  - [s. 53 Method of calculating weight of motor vehicles.](section/53.md)
+  - [s. 54 Saving for law of nuisance.](section/54.md)
+  - [s. 55 Protection of public interests.](section/55.md)
+  - [s. 56 Secretary of State’s power to hold inquiries.](section/56.md)
+  - [s. 56A Traffic commissioner may have regard to international obligations](section/56A.md)
+- Regulations and orders
+  - [s. 57 Regulations and orders.](section/57.md)
+- Interpretation
+  - [s. 58 General interpretation.](section/58.md)
+- Supplementary provisions
+  - [s. 59 Transitional provision etc.](section/59.md)
+  - [s. 60 Consequential amendments and repeals.](section/60.md)
+  - [s. 61 Commencement.](section/61.md)
+  - [s. 62 Short title and extent.](section/62.md)
+- SCHEDULE 1 Meaning of “small goods vehicle”
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+  - [Sch. 1A para. 1B](schedule/1A/paragraph/1B.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 1A Detention of vehicles used without operator’s licence
+  - Interpretation
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Detention of property
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Immobilisation and removal
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Return or disposal of vehicle
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+    - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Return or disposal of contents of vehicle
+    - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+  - Custody of property
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+  - Proceeds of sale
+    - [Sch. 1A para. 15](schedule/1A/paragraph/15.md)
+  - Disputes
+    - [Sch. 1A para. 16](schedule/1A/paragraph/16.md)
+  - Obstruction of authorised person
+    - [Sch. 1A para. 17](schedule/1A/paragraph/17.md)
+  - Offences as to securing possession of property
+    - [Sch. 1A para. 18](schedule/1A/paragraph/18.md)
+- SCHEDULE 2 Information about, and convictions of, applicants for and holders of operators’ licences
+  - Information to be given under section 8
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Offences
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Repealed enactments
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Notifiable fixed penalty notices](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Qualifications for standard licence
+  - Effective and stable establishment
+    - [Sch. 3 para. A1](schedule/3/paragraph/A1.md)
+  - Good repute
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Appropriate financial standing
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+  - Professional competence
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Requirements for a transport manager
+    - [Sch. 3 para. 14A](schedule/3/paragraph/14A.md)
+  - Transport manager to be notified of proceedings
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Determinations in respect of transport managers
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Transport managers: cancellation or variation of disqualification order
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 Transfer of operating centres
+  - Transfers in connection with new licences
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Transfers in connection with the variation of licences
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Large Goods Vehicles
+  - Meaning of “large goods vehicle”
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Consignment notes
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Powers of entry and inspection
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Falsification of consignment notes and records
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Amendment of sections 38, 41 and 42 of this Act
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Transitional provisions, transitory modifications and savings
+  - General transitional provisions
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Meaning of “local authority” in relation to Scotland or Wales
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Meaning of “holding company” and “subsidiary”
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Provisions relating to the Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+- SCHEDULE 7 Consequential amendments
+  - The Road Traffic Act 1960 (c. 16)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - The Transport Act 1968 (c. 73)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Road Traffic (Foreign Vehicles) Act 1972 (c. 27)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - International Road Haulage Permits Act 1975 (c. 46)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Transport Act 1982 (c. 49)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - London Regional Transport Act 1984 (c. 32)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Transport Act 1985 (c. 67)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+- SCHEDULE 8 Repeals and revocations
+  - Part I Enactments repealed
+  - Part II Subordinate legislation revoked
+  - TABLE OF DERIVATIONS
+    - [Sch. 8 para. 1 Notes:](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
