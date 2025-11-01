@@ -1,0 +1,138 @@
+# Water Resources (Scotland) Act 2013
+
+asp/2013/5. Enacted 2013-04-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2013/5
+
+Source: https://www.legislation.gov.uk/asp/2013/5/2025-11-01
+
+## Contents
+
+- PART 1 Development of water resources
+  - [s. 1 Duty of the Scottish Ministers](section/1.md)
+  - [s. 2 Involvement of public bodies](section/2.md)
+  - [s. 3 Designation of bodies](section/3.md)
+  - [s. 4 Reports on steps taken](section/4.md)
+- PART 2 Control of water abstraction
+  - Introduction
+    - [s. 5 Qualifying abstraction](section/5.md)
+    - [s. 6 Prohibition arising](section/6.md)
+    - [s. 7 Exemption from approval](section/7.md)
+    - [s. 8 The relevant threshold](section/8.md)
+    - [s. 9 Consultation on changes](section/9.md)
+  - Role of Ministers
+    - [s. 10 Application for approval](section/10.md)
+    - [s. 11 Factors as to approval](section/11.md)
+    - [s. 12 Conditions of approval](section/12.md)
+    - [s. 13 Additional requirements](section/13.md)
+    - [s. 14 Advice from other bodies](section/14.md)
+    - [s. 15 Suspension and revocation](section/15.md)
+  - Appeal, monitoring and offence
+    - [s. 16 Appeal against decision](section/16.md)
+    - [s. 17 Monitoring and records](section/17.md)
+    - [s. 18 Abstraction-related offence](section/18.md)
+    - [s. 19 Corporate offending](section/19.md)
+  - Regulations etc.
+    - [s. 20 Procedure for regulations](section/20.md)
+    - [s. 21 2018 Regulations](section/21.md)
+    - [s. 22 Other definitions for Part](section/22.md)
+- PART 3 Scottish Water’s functions
+  - Exercise of functions
+    - [s. 23 Value of water resources](section/23.md)
+    - [s. 24 Development of assets](section/24.md)
+    - [s. 25 Supporting renewable energy](section/25.md)
+    - [s. 26 Meaning of core functions](section/26.md)
+  - Financing and borrowing
+    - [s. 27 Subsidiaries of Scottish Water](section/27.md)
+    - [s. 28 Water and sewerage undertaking](section/28.md)
+  - Other matters
+    - [s. 29 Errors in metering](section/29.md)
+- PART 4 Raw water quality
+  - [s. 30 Steps for sake of quality](section/30.md)
+  - [s. 31 Agreements about activities](section/31.md)
+- PART 5 Non-domestic services
+  - [s. 32 Deemed contracts](section/32.md)
+  - [s. 33 Notification of occupancy](section/33.md)
+- PART 6 Sewerage network
+  - Discharge into public sewer
+    - [s. 34 Priority substances etc.](section/34.md)
+    - [s. 35 Substances generally](section/35.md)
+    - [s. 36 Powers of entry](section/36.md)
+  - Private sewage works
+    - [s. 37 Common maintenance](section/37.md)
+- PART 7 Water shortage orders
+  - Main provisions
+    - [s. 38 Proposal for order](section/38.md)
+    - [s. 39 Making of order](section/39.md)
+    - [s. 40 Content of order](section/40.md)
+    - [s. 41 Abstraction and discharge](section/41.md)
+    - [s. 42 Scheduled provision](section/42.md)
+  - Appeal and offence
+    - [s. 43 Appeal against order](section/43.md)
+    - [s. 44 Non-compliance offence](section/44.md)
+    - [s. 45 Corporate offending](section/45.md)
+  - Recommendations and directions
+    - [s. 46 Recommendations issuable](section/46.md)
+    - [s. 47 Directions on functions](section/47.md)
+  - Definitions etc.
+    - [s. 48 Water saving measures](section/48.md)
+    - [s. 49 Serious deficiencies](section/49.md)
+    - [s. 50 2018 Regulations](section/50.md)
+    - [s. 51 Other expressions in Part](section/51.md)
+- PART 8 General provisions
+  - Miscellaneous
+    - [s. 52 Crown application](section/52.md)
+    - [s. 53 Repeal of enactments](section/53.md)
+    - [s. 54 Ancillary power](section/54.md)
+    - [s. 55 Key definitions](section/55.md)
+  - Commencement and short title
+    - [s. 56 Commencement](section/56.md)
+    - [s. 57 Short title](section/57.md)
+- SCHEDULE 1 Water shortage orders
+  - Notice of proposal
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Notifying owners etc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Additional notice
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - SEPA’s advice
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Representations and decision
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Publication of order
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Notice regarding abstraction
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Effect of order
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Notice of extension
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Appeal against extension
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Review and revocation of order
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Power to enter
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Entry warrants
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Approved persons
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Taking steps
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Obstruction offence
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Compensation
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - References to publication etc.
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Water saving measures
+- SCHEDULE 3 Crown land
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Repeal of enactments
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
