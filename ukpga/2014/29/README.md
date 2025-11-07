@@ -1,0 +1,105 @@
+# Wales Act 2014
+
+2014 c. 29. Enacted 2014-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2014/29/2025-11-07
+
+## Contents
+
+- PART 1 The Assembly and Welsh Government
+  - National Assembly for Wales
+    - [s. 1 Frequency of Assembly ordinary general elections](section/1.md)
+    - [s. 2 Removal of restriction on standing for election for both constituency and electoral region](section/2.md)
+    - [s. 3 MPs to be disqualified from membership of Assembly](section/3.md)
+  - Welsh Government
+    - [s. 4 The Welsh Government](section/4.md)
+    - [s. 5 First Minister: removal of power to designate after dissolution of Assembly](section/5.md)
+- PART 2 Finance
+  - Introductory
+    - [s. 6 Taxation: introductory](section/6.md)
+    - [s. 7 Amendments relating to the Commissioners for Revenue and Customs](section/7.md)
+  - Welsh rates of income tax
+    - [s. 8 Welsh rates of income tax](section/8.md)
+    - [s. 9 Welsh basic, higher and additional rates of income tax](section/9.md)
+    - [s. 10 Welsh taxpayers for social security or child support purposes](section/10.md)
+    - [s. 11 Amendments to the definition of a Scottish taxpayer](section/11.md)
+  - ...
+    - [s. 12 Referendum about commencement of income tax provisions](section/12.md)
+    - [s. 13 Proposal for referendum by Assembly](section/13.md)
+    - [s. 14 Commencement of income tax provisions ...](section/14.md)
+  - Welsh tax on land transactions
+    - [s. 15 Welsh tax on transactions involving interests in land](section/15.md)
+    - [s. 16 Disapplication of UK stamp duty land tax](section/16.md)
+    - [s. 17 Information on Welsh land transactions](section/17.md)
+  - Welsh tax on disposals to landfill
+    - [s. 18 Welsh tax on disposals to landfill](section/18.md)
+    - [s. 19 Disapplication of UK landfill tax](section/19.md)
+  - Borrowing
+    - [s. 20 Borrowing by the Welsh Ministers](section/20.md)
+    - [s. 21 Repeal of existing borrowing power](section/21.md)
+  - Budgetary procedures
+    - [s. 22 Budgetary procedures](section/22.md)
+  - Reports
+    - [s. 23 Reports on the implementation and operation of this Part](section/23.md)
+- PART 3 Miscellaneous
+  - [s. 24 Local housing authorities: limits on housing revenue account debt](section/24.md)
+  - [s. 25 The work of the Law Commission so far as relating to Wales](section/25.md)
+- PART 4 General
+  - [s. 26 Orders](section/26.md)
+  - [s. 27 Interpretation](section/27.md)
+  - [s. 28 Power to make supplementary, consequential, etc provision](section/28.md)
+  - [s. 29 Commencement](section/29.md)
+  - [s. 30 Extent and short title](section/30.md)
+- SCHEDULE 1 Referendum about commencement of income tax provisions
+  - Entitlement to vote
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Conduct etc of referendum
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Referendum question and statement
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Date of referendum
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Referendum period
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Combination of polls
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Assistance for designated organisations
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Information and encouraging participation
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Referendum material
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Funding and accounts
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - No legal challenge to referendum result
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Supplementary
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Interpretation
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Welsh tax on land transactions: consequential amendments
+  - Finance Act 1931
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Finance Act 2003
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Finance Act 2009
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Scotland Act 2012
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
