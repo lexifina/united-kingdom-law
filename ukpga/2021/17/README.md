@@ -2,9 +2,9 @@
 
 2021 c. 17. Enacted 2021-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-04-28, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-07, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/17/2025-04-28
+Source: https://www.legislation.gov.uk/ukpga/2021/17/2025-11-07
 
 ## Contents
 
@@ -70,6 +70,9 @@ Source: https://www.legislation.gov.uk/ukpga/2021/17/2025-04-28
     - [s. 47 Further provision about appeals](section/47.md)
     - [s. 48 Nature of certain proceedings under this Part](section/48.md)
     - [s. 49 Special measures for witnesses](section/49.md)
+  - Notifying schools etc if child is suspected victim of domestic abuse
+    - [s. 49A Arrangements to notify schools etc](section/49A.md)
+    - [s. 49B Power to extend section 49A to childcare providers](section/49B.md)
   - Notices and orders: supplementary
     - [s. 50 Guidance](section/50.md)
     - [s. 51 Data from electronic monitoring: code of practice](section/51.md)
