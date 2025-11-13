@@ -1,0 +1,607 @@
+# Gas Act 1986
+
+1986 c. 44. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-13, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 39 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
+
+Source: https://www.legislation.gov.uk/ukpga/1986/44/2025-11-13
+
+## Contents
+
+- Part I Gas Supply
+  - Introductory
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4AA The principal objective and general duties of the Secretary of State and the Authority.](section/4AA.md)
+    - [s. 4AB Guidance on social and environmental matters.](section/4AB.md)
+    - [s. 4A Health and safety.](section/4A.md)
+    - [s. 4B Exceptions from sections 4AA to 4A.](section/4B.md)
+    - [s. 4C Binding decisions of the Agency for the Cooperation of Energy Regulators and of the European Commission](section/4C.md)
+    - [s. 4D Authority to consult and cooperate with other authorities](section/4D.md)
+    - [s. 4E Duty to notify etc. the European Commission: agreements with third countries](section/4E.md)
+  - Licensing of activities relating to gas
+    - [s. 5 Prohibition on unlicensed activities](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 6A Exemptions from prohibition.](section/6A.md)
+    - [s. 6B Duties of distribution exemption holders](section/6B.md)
+    - [s. 6C Duties of supply exemption holders](section/6C.md)
+    - [s. 7 Licensing of public gas transporters.](section/7.md)
+    - [s. 7ZA Licences for operation of gas interconnectors](section/7ZA.md)
+    - [s. 7A Licensing of gas suppliers and gas shippers.](section/7A.md)
+    - [s. 7AA Licensing of a person carrying out gas system planner functions](section/7AA.md)
+    - [s. 7AB Licensing of a person providing a smart meter communication service](section/7AB.md)
+    - [s. 7AC Licensing of a person performing code manager function](section/7AC.md)
+    - [s. 7B Licences: general.](section/7B.md)
+    - [s. 8 Standard conditions of licences.](section/8.md)
+    - [s. 8AA Transfer of licences.](section/8AA.md)
+    - [s. 8A Modification or removal of the 25,000 therm limits.](section/8A.md)
+  - The gas code
+    - [s. 8B The gas code.](section/8B.md)
+  - Gas transmission and the operation of gas interconnectors: independence
+    - [s. 8C Requirement for certain gas transporters and operators of gas interconnectors to be certified as independent](section/8C.md)
+    - [s. 8D Application for certification](section/8D.md)
+    - [s. 8E Report where applicant connected with a country outside the United Kingdom](section/8E.md)
+    - [s. 8F Certification](section/8F.md)
+    - [s. 8G Grounds for certification](section/8G.md)
+    - [s. 8H The ownership unbundling requirement](section/8H.md)
+    - [s. 8I The ownership unbundling requirement: supplementary](section/8I.md)
+    - [s. 8J Designation for the purposes of the Gas Regulation](section/8J.md)
+    - [s. 8K Monitoring and review of certification](section/8K.md)
+    - [s. 8L Review of certification: requirement to provide information etc](section/8L.md)
+    - [s. 8M Report as to any connection of certified person with a country outside the United Kingdom](section/8M.md)
+    - [s. 8N Continuation or withdrawal of certification](section/8N.md)
+    - [s. 8O Prohibition on the exercise of certain shareholder rights and rights of appointment](section/8O.md)
+    - [s. 8P Validity of acts infringing section 8O](section/8P.md)
+    - [s. 8Q Interpretation](section/8Q.md)
+  - Storage facilities: independence
+    - [s. 8R Independence of storage facilities](section/8R.md)
+    - [s. 8S Independence of storage facilities and duty to allow others to use them: exemptions for minor facilities](section/8S.md)
+  - Powers and duties of public gas transporters
+    - [s. 9 General powers and duties.](section/9.md)
+    - [s. 10 Duty to connect certain premises.](section/10.md)
+    - [s. 10A Restriction on use of certain pipe-lines for providing a supply.](section/10A.md)
+    - [s. 11 Power to require security.](section/11.md)
+  - Duties of facility owners and prospective facility owners
+    - [s. 11A General duties of facility owners](section/11A.md)
+    - [s. 11B Duty of current and prospective LNG import or export facility owners to provide information](section/11B.md)
+    - [s. 11C Restrictions on disclosure of information by facility owners](section/11C.md)
+  - Gas conveyed by Public Gas Transporters
+    - [s. 12 Methods of calculating therms.](section/12.md)
+    - [s. 13 Calorific values: tests of apparatus etc.](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 14A ................................](section/14A.md)
+    - [s. 15 ................................](section/15.md)
+    - [Pt. I heading gas-conveyed-by-public-gas-transporters s. 16 Standards of gas quality.](part/I/crossheading/gas-conveyed-by-public-gas-transporters/section/16.md)
+    - [s. 15B ................................](section/15B.md)
+  - Gas conveyed by public gas transporters and others
+    - [Pt. I heading supply-of-gas-by-public-gas-suppliers-and-others s. 16 ................................](part/I/crossheading/supply-of-gas-by-public-gas-suppliers-and-others/section/16.md)
+    - [s. 17 Meter testing and stamping.](section/17.md)
+    - [s. 18 Safety regulations.](section/18.md)
+    - [s. 18A Gas escape regulations.](section/18A.md)
+  - Pipe-line systems, storage facilities and LNG import or export facilities: rights of use etc
+    - [s. 19 Acquisition of rights to use pipe-line systems.](section/19.md)
+    - [s. 19A Application of section 19B to storage facilities.](section/19A.md)
+    - [s. 19AA ... Revocation of exemptions under section 19A](section/19AA.md)
+    - [s. 19B Acquisition of rights to use storage facilities.](section/19B.md)
+    - [s. 19C Application of section 19D to LNG facilities.](section/19C.md)
+    - [s. 19CA ... Revocation of exemptions under section 19C](section/19CA.md)
+    - [s. 19D Acquisition of rights to use LNG facilities.](section/19D.md)
+    - [s. 19DZA Duty to allow others to use LNG import or export facilities: exemptions in relation to take-or-pay commitments](section/19DZA.md)
+    - [s. 19DA Provision of information](section/19DA.md)
+    - [s. 19DB Allocation of capacity in exempt new and modified facilities](section/19DB.md)
+    - [s. 19E Sections 19A to 19D: supplemental.](section/19E.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 Increase of capacity etc. of pipelines.](section/21.md)
+    - [s. 22 Effect of directions.](section/22.md)
+    - [s. 22A Construction of pipe-lines.](section/22A.md)
+  - Modification of licences
+    - [s. 23 Modification of conditions of licences](section/23.md)
+    - [s. 23A Modification of conditions under section 23: supplementary](section/23A.md)
+  - Appeal from decisions of the Authority
+    - [s. 23B Appeal to the CMA](section/23B.md)
+    - [s. 23C Procedure on appeal to CMA](section/23C.md)
+    - [s. 23D Determination by CMA of appeal](section/23D.md)
+    - [s. 23E CMA’s powers on allowing appeal](section/23E.md)
+    - [s. 23F Time limits for CMA to determine an appeal](section/23F.md)
+    - [s. 23G Determination of appeal by CMA: supplementary](section/23G.md)
+    - [s. 24 Modification references to Monopolies Commission.](section/24.md)
+    - [s. 24A References under section 24: time limits](section/24A.md)
+    - [s. 24B References under section 24: powers of investigation](section/24B.md)
+    - [s. 25 Reports on modification references.](section/25.md)
+    - [s. 26 Modification following report.](section/26.md)
+    - [s. 26A Competition Commission’s power to veto modifications following report.](section/26A.md)
+    - [s. 27 Modification by order under other enactments.](section/27.md)
+  - Determination of disputes
+    - [s. 27A Determination of certain disputes.](section/27A.md)
+  - Section 27B disputes
+    - [s. 27B Meaning of “section 27B dispute”](section/27B.md)
+    - [s. 27C Determination of disputes](section/27C.md)
+    - [s. 27D Time limit for determinations](section/27D.md)
+  - Enforcement of obligations of regulated persons
+    - [s. 28 Orders for securing compliance with certain provisions.](section/28.md)
+    - [s. 29 Procedural requirements.](section/29.md)
+    - [s. 30 Validity and effect of orders.](section/30.md)
+    - [s. 30A Penalties.](section/30A.md)
+    - [s. 30B Statement of policy with respect to penalties.](section/30B.md)
+    - [s. 30C Time limits on the imposition of penalties.](section/30C.md)
+    - [s. 30D Interest and payment of instalments.](section/30D.md)
+    - [s. 30E Appeals against penalties.](section/30E.md)
+    - [s. 30F Recovery of penalties.](section/30F.md)
+    - [s. 30G Consumer redress orders](section/30G.md)
+    - [s. 30H Remedial action under a consumer redress order](section/30H.md)
+    - [s. 30I Other procedural requirements in relation to consumer redress orders](section/30I.md)
+    - [s. 30J Statement of policy with respect to consumer redress orders](section/30J.md)
+    - [s. 30K Time limits for making consumer redress orders](section/30K.md)
+    - [s. 30L Enforcement of consumer redress orders](section/30L.md)
+    - [s. 30M Appeals against consumer redress orders](section/30M.md)
+    - [s. 30N Consumer redress orders: miscellaneous](section/30N.md)
+    - [s. 30O Maximum amount of penalty or compensation](section/30O.md)
+  - Investigation of complaints etc.
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Consumer complaints.](section/32.md)
+    - [s. 32A ................................](section/32A.md)
+    - [s. 33 Power of Council to investigate other matters.](section/33.md)
+  - Standards of performance
+    - [s. 33A Standards of performance in individual cases.](section/33A.md)
+    - [s. 33AA Standards of performance in individual cases: gas transporters.](section/33AA.md)
+    - [s. 33AB Standards of performance in individual cases: disputes.](section/33AB.md)
+    - [s. 33B Overall standards of performance.](section/33B.md)
+    - [s. 33BA Overall standards of performance: gas transporters.](section/33BA.md)
+    - [s. 33BAA Procedures for prescribing or determining standards of performance.](section/33BAA.md)
+    - [s. 33BC Promotion of reductions in carbon emissions: gas transporters and gas suppliers](section/33BC.md)
+    - [s. 33BCA Scottish Ministers’ promotion of reductions in carbon emissions: gas suppliers](section/33BCA.md)
+    - [s. 33BD Promotion of reductions in home-heating costs: gas transporters and gas suppliers](section/33BD.md)
+    - [s. 33BDA Scottish Ministers’ promotion of reductions in home-heating costs: gas suppliers](section/33BDA.md)
+    - [s. 33BB Standards for promoting efficient use of gas.](section/33BB.md)
+    - [s. 33C Information with respect to levels of performance.](section/33C.md)
+    - [s. 33D Information to be given to customers about overall performance.](section/33D.md)
+    - [s. 33DA Publication of statistical information about standards of performance.](section/33DA.md)
+    - [s. 33DB Information relating to complaints handling standards](section/33DB.md)
+    - [s. 33E ................................](section/33E.md)
+  - Service standards and remuneration
+    - [s. 33F Remuneration and service standards.](section/33F.md)
+  - Other functions of Director
+    - [s. 34 General functions.](section/34.md)
+    - [s. 34A Power to require information etc for the purpose of monitoring](section/34A.md)
+    - [s. 35 Publication of advice and information about consumer matters.](section/35.md)
+    - [s. 36 Keeping of register.](section/36.md)
+    - [s. 36A Functions with respect to competition.](section/36A.md)
+    - [s. 36B Functions with respect to gas measuring equipment etc.](section/36B.md)
+    - [s. 36C Power to direct a modification of the UNC](section/36C.md)
+    - [s. 37 Maximum prices for reselling gas.](section/37.md)
+    - [s. 38 Power to require information etc.](section/38.md)
+    - [s. 38A Reasons for decisions.](section/38A.md)
+    - [s. 39 ................................](section/39.md)
+  - Other functions of Council
+    - [s. 40 ................................](section/40.md)
+    - [s. 41 ................................](section/41.md)
+  - Adjustment of charges
+    - [s. 41A Adjustment of charges to help disadvantaged groups of customers.](section/41A.md)
+    - [s. 41B Orders: supplementary.](section/41B.md)
+  - Alteration of activities requiring licence
+    - [s. 41C Power to alter activities requiring licence.](section/41C.md)
+    - [s. 41D Application by Authority for order including new activities.](section/41D.md)
+    - [s. 41E References to CMA.](section/41E.md)
+    - [s. 41EA References under section 41E: time limits](section/41EA.md)
+    - [s. 41EB References under section 41E: application of Enterprise Act 2002](section/41EB.md)
+    - [s. 41F Reports on references.](section/41F.md)
+    - [s. 41G Application by Authority for order excluding activities.](section/41G.md)
+    - [s. 41H Consultation by Secretary of State about order excluding activities.](section/41H.md)
+    - [s. 41HA New licensable activities: smart meters](section/41HA.md)
+    - [s. 41HB Section 41HA: supplemental](section/41HB.md)
+    - [s. 41HC Competitive tenders for licences for new licensable activities](section/41HC.md)
+    - [s. 41I Service by Authority of certain notices on Citizens Advice and Consumer Scotland.](section/41I.md)
+  - Miscellaneous
+    - [s. 42 ................................](section/42.md)
+    - [s. 43 Making of false statements etc.](section/43.md)
+    - [s. 44 Compensation to chairmen and officers of Consumers’ Councils.](section/44.md)
+  - Supplemental
+    - [s. 45 Offences by bodies corporate.](section/45.md)
+    - [s. 46 Service of notices etc.](section/46.md)
+    - [s. 47 Provisions as to regulations.](section/47.md)
+    - [s. 48 Interpretation of Part I and savings.](section/48.md)
+- Part II Transfer of Undertaking of Corporation
+  - [s. 49 Vesting of property etc. of Corporation in a company nominated by the Secretary of State.](section/49.md)
+  - [s. 50 British Gas Stock.](section/50.md)
+  - [s. 51 Initial Government holding in the successor company.](section/51.md)
+  - [s. 52 Government investment in securities of the successor company.](section/52.md)
+  - [s. 53 Exercise of functions through nominees.](section/53.md)
+  - [s. 54 Target investment limit for Government shareholding.](section/54.md)
+  - [s. 55 Financial structure of the successor company.](section/55.md)
+  - [s. 56 Temporary restrictions on successor company’s borrowings etc.](section/56.md)
+  - [s. 57 Dissolution of the Corporation.](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 59 Application of Trustee Investments Act 1961 in relation to investment in the successor company.](section/59.md)
+  - [s. 60 Tax provisions.](section/60.md)
+  - [s. 61 Interpretation etc. of Part II.](section/61.md)
+- Part III Miscellaneous and General
+  - [s. 62 Exclusion of certain agreements from Restrictive Trade Practices Act 1976.](section/62.md)
+  - [s. 63 ................................](section/63.md)
+  - [s. 64 Provisions as to orders.](section/64.md)
+  - [s. 64A Extraterritorial operation of Act](section/64A.md)
+  - [s. 65 Financial provisions.](section/65.md)
+  - [s. 66 General interpretation.](section/66.md)
+  - [s. 67 Amendments, transitional provisions, savings and repeals.](section/67.md)
+  - [s. 68 Short title, commencement and extent.](section/68.md)
+- SCHEDULE 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 ................................](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 2A Exceptions to prohibition on unlicensed activities
+  - Conveyance or supply by landlords etc.
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Conveyance or supply to associated companies
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Conveyance or supply of propane or butane
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Conveyance for supply to large consumers
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Supply to very large consumers
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+- SCHEDULE 2AA Duties of distribution exemption holders
+  - Third party access
+    - [Sch. 2AA para. 1](schedule/2AA/paragraph/1.md)
+    - [Sch. 2AA para. 2](schedule/2AA/paragraph/2.md)
+    - [Sch. 2AA para. 3](schedule/2AA/paragraph/3.md)
+    - [Sch. 2AA para. 4](schedule/2AA/paragraph/4.md)
+  - Charges for use of system
+    - [Sch. 2AA para. 5](schedule/2AA/paragraph/5.md)
+    - [Sch. 2AA para. 6](schedule/2AA/paragraph/6.md)
+  - Connection
+    - [Sch. 2AA para. 7](schedule/2AA/paragraph/7.md)
+    - [Sch. 2AA para. 8](schedule/2AA/paragraph/8.md)
+    - [Sch. 2AA para. 9](schedule/2AA/paragraph/9.md)
+    - [Sch. 2AA para. 10](schedule/2AA/paragraph/10.md)
+    - [Sch. 2AA para. 11](schedule/2AA/paragraph/11.md)
+  - Closed distribution systems
+    - [Sch. 2AA para. 12](schedule/2AA/paragraph/12.md)
+    - [Sch. 2AA para. 13](schedule/2AA/paragraph/13.md)
+    - [Sch. 2AA para. 14](schedule/2AA/paragraph/14.md)
+  - Change of circumstance in respect of a closed distribution system
+    - [Sch. 2AA para. 15](schedule/2AA/paragraph/15.md)
+  - Interpretation
+    - [Sch. 2AA para. 16](schedule/2AA/paragraph/16.md)
+- SCHEDULE 2AB Duties of supply exemption holders
+  - Change of supplier
+    - [Sch. 2AB para. 1](schedule/2AB/paragraph/1.md)
+    - [Sch. 2AB para. 2](schedule/2AB/paragraph/2.md)
+    - [Sch. 2AB para. 3](schedule/2AB/paragraph/3.md)
+  - Customer contracts
+    - [Sch. 2AB para. 4](schedule/2AB/paragraph/4.md)
+  - Customer information
+    - [Sch. 2AB para. 5](schedule/2AB/paragraph/5.md)
+    - [Sch. 2AB para. 6](schedule/2AB/paragraph/6.md)
+  - Determination of disputes
+    - [Sch. 2AB para. 7](schedule/2AB/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2AB para. 8](schedule/2AB/paragraph/8.md)
+- SCHEDULE 2B The gas code
+  - Preliminary
+    - [Sch. 2B para. 1](schedule/2B/paragraph/1.md)
+  - Consumption of gas to be ascertained by meter
+    - [Sch. 2B para. 2](schedule/2B/paragraph/2.md)
+  - Meters to be kept in proper order
+    - [Sch. 2B para. 3](schedule/2B/paragraph/3.md)
+  - Meter as evidence of quantity of gas supplied
+    - [Sch. 2B para. 4](schedule/2B/paragraph/4.md)
+  - Installation of meters in new premises etc.
+    - [Sch. 2B para. 5](schedule/2B/paragraph/5.md)
+  - Meters for disabled persons
+    - [Sch. 2B para. 6](schedule/2B/paragraph/6.md)
+  - Use of pre-payment meters
+    - [Sch. 2B para. 6A](schedule/2B/paragraph/6A.md)
+  - Recovery of gas charges etc.
+    - [Sch. 2B para. 7](schedule/2B/paragraph/7.md)
+  - Deemed contracts in certain cases
+    - [Sch. 2B para. 8](schedule/2B/paragraph/8.md)
+  - Supplies of gas illegally taken
+    - [Sch. 2B para. 9](schedule/2B/paragraph/9.md)
+  - Injury to gas fittings and interference with meters
+    - [Sch. 2B para. 10](schedule/2B/paragraph/10.md)
+  - Restoration of supply without consent
+    - [Sch. 2B para. 11](schedule/2B/paragraph/11.md)
+  - Failure to notify connection or disconnection of service pipe
+    - [Sch. 2B para. 12](schedule/2B/paragraph/12.md)
+  - Failure to notify disconnection of meter
+    - [Sch. 2B para. 13](schedule/2B/paragraph/13.md)
+  - Failure to maintain shipping arrangements
+    - [Sch. 2B para. 14](schedule/2B/paragraph/14.md)
+  - Maintenance etc. of service pipes
+    - [Sch. 2B para. 15](schedule/2B/paragraph/15.md)
+  - Alterations etc. of burners on change of calorific value
+    - [Sch. 2B para. 16](schedule/2B/paragraph/16.md)
+  - Use of antifluctuators and valves
+    - [Sch. 2B para. 17](schedule/2B/paragraph/17.md)
+  - Improper use of gas
+    - [Sch. 2B para. 18](schedule/2B/paragraph/18.md)
+  - No obligation to restore supply where consumer in default
+    - [Sch. 2B para. 19](schedule/2B/paragraph/19.md)
+  - Notified escapes of gas
+    - [Sch. 2B para. 20](schedule/2B/paragraph/20.md)
+  - Suspected escapes of gas
+    - [Sch. 2B para. 21](schedule/2B/paragraph/21.md)
+  - Entry for preventing escapes of gas etc.
+    - [Sch. 2B para. 22](schedule/2B/paragraph/22.md)
+  - Entry during continuance of supply
+    - [Sch. 2B para. 23](schedule/2B/paragraph/23.md)
+  - Entry on discontinuance of supply
+    - [Sch. 2B para. 24](schedule/2B/paragraph/24.md)
+  - Entry following discontinuance of supply
+    - [Sch. 2B para. 25](schedule/2B/paragraph/25.md)
+  - Entry for removing fittings and meters
+    - [Sch. 2B para. 26](schedule/2B/paragraph/26.md)
+  - Entry for replacing, repairing or altering pipes
+    - [Sch. 2B para. 27](schedule/2B/paragraph/27.md)
+  - Provisions as to powers of entry
+    - [Sch. 2B para. 28](schedule/2B/paragraph/28.md)
+  - Gas meters and fittings not to be subject to distress
+    - [Sch. 2B para. 29](schedule/2B/paragraph/29.md)
+- SCHEDULE 3 Acquisition of Land by Public Gas Suppliers
+  - Part I Powers of Acquisition Etc.
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part II Procedure, Compensation Etc. (England and Wales)
+    - Application of Acquisition of Land Act 1981 generally
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - New rights: general adaptation of Compulsory Purchase Act 1965
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - New rights: specific adaptations of Act of 1965
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - New rights: compensation
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part III Procedure, Compensation Etc. (Scotland)
+    - Application of Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 generally
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - New rights: general application of Act of 1947 and incorporated enactments
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - New rights: specific adaptations of Act of 1947
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Restrictions on application of paragraphs 15 to 20 above
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - New Rights: specific adaptions of Lands Clauses Consolidation (Scotland) Act 1845
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - New rights: compensation
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+- SCHEDULE 4 Power of Gas Transporters to Break Up Streets, Bridges Etc.
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 4A Procedure for appeals under section 23B
+  - Application for permission to bring appeal
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Suspension of decision
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Time limit for representations and observations by the Authority
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Consideration and determination of appeal by group
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - Matters to be considered on appeal
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Production of documents etc.
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - Oral hearings
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - Written statements
+    - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - Expert advice
+    - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+  - Defaults in relation to evidence
+    - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+  - Appeal rules
+    - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+  - Costs
+    - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+  - Interpretation of Schedule
+    - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+- SCHEDULE 4B Provisions imposing obligations enforceable as relevant requirements
+  - [Sch. 4B para. 1 All licence holders](schedule/4B/paragraph/1.md)
+  - [Sch. 4B para. 2 Gas transporters](schedule/4B/paragraph/2.md)
+  - [Sch. 4B para. 3 Persons required to be certified as to independence](schedule/4B/paragraph/3.md)
+  - [Sch. 4B para. 3A Gas system planner](schedule/4B/paragraph/3A.md)
+  - [Sch. 4B para. 4 Gas suppliers and gas shippers](schedule/4B/paragraph/4.md)
+  - [Sch. 4B para. 5 Distribution exemption holders](schedule/4B/paragraph/5.md)
+  - [Sch. 4B para. 6 Supply exemption holders](schedule/4B/paragraph/6.md)
+  - [Sch. 4B para. 7 Owners of storage facilities](schedule/4B/paragraph/7.md)
+  - [Sch. 4B para. 8 Owners of LNG import or export facilities](schedule/4B/paragraph/8.md)
+  - [Sch. 4B para. 9 Gas undertakings which are relevant producers or suppliers](schedule/4B/paragraph/9.md)
+  - [Sch. 4B para. 9A Holders of smart meter communication licences or code manager licences](schedule/4B/paragraph/9A.md)
+  - [Sch. 4B para. 9B Responsible bodies for central systems](schedule/4B/paragraph/9B.md)
+  - [Sch. 4B para. 10 Interpretation](schedule/4B/paragraph/10.md)
+- SCHEDULE 5
+  - Part I Supply of Gas to Tariff Customers
+    - Maintenance etc. of service pipes
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Alterations etc. of burners on change of calorific value
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Consumption of gas to be ascertained by meter
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Meters to be kept in proper order
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Meter as evidence of quantity of gas supplied
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Installation of meters in new premises
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Recovery of gas charges etc.
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Part II Supply of Gas to Tariff Customers and Others
+    - Use of antifluctuators and valves
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Improper use of gas
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Injury to gas fittings and interference with meters
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Restoration of supply without consent
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Failure to notify connection or disconnection of service pipe
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Prevention of escapes of gas
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Information as to escapes of gas
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Entry during continuance of supply
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Entry on discontinuance of supply
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Entry for replacing, repairing or altering pipes
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Provisions as to powers of entry
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Gas fittings not to be subject to distress
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+- SCHEDULE 6
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Minor And Consequential Amendments
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Enactments relating to statutory undertakers etc.
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - The Rights of Entry (Gas and Electricity Boards) Act 1954
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - The Pipe-lines Act 1962
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - The Local Government (Scotland) Act 1966
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - The Transport Act 1968
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - The Post Office Act 1969
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - The Chronically Sick and Disabled Persons Act 1970
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - The Town and Country Planning (Scotland) Act 1972
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - The Land Compensation Act 1973
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - The Fair Trading Act 1973
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - The Land Compensation (Scotland) Act 1973
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - The Local Government Act 1974
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - The Health and Safety at Work etc. Act 1974
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - The Consumer Credit Act 1974
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - The Oil Taxation Act 1975
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - The Local Government (Scotland) Act 1975
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - The Coal Industry Act 1975
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - The Restrictive Trade Practices Act 1976
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - The Land Drainage Act 1976
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - The Energy Act 1976
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - The Estate Agents Act 1979
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - The Competition Act 1980
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+  - The Acquisition of Land Act 1981
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - The Building Act 1984
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+  - The Bankruptcy (Scotland) Act 1985
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+- SCHEDULE 8 Transitional Provisions and Savings
+  - Part I Provisions and Savings Coming into Force on Appointed Day
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Part II Provisions and Savings Coming into Force on Transfer Date
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+- SCHEDULE 9 Repeals
+  - Part I Repeals Coming into Force on Appointed Day
+  - Part II Repeals Coming into Force on Transfer Date
+  - Part III Repeals Coming into Force on Dissolution of British Gas Corporation
