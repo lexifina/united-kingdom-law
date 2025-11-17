@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-09-05, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-17, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-09-05
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-11-17
 
 ## Contents
 
@@ -153,6 +153,11 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-09-05
   - CHAPTER 1 Scope and definitions
     - Scope
       - [s. 82 Processing to which this Part applies](section/82.md)
+      - [s. 82A Designation of processing by a qualifying competent authority](section/82A.md)
+      - [s. 82B Duration of designation notice](section/82B.md)
+      - [s. 82C Review and withdrawal of designation notice](section/82C.md)
+      - [s. 82D Records of designation notices](section/82D.md)
+      - [s. 82E Appeal against designation notice](section/82E.md)
     - Definitions
       - [s. 83 Meaning of “controller” and “processor”](section/83.md)
       - [s. 84 Other definitions](section/84.md)
