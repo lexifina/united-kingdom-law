@@ -1,0 +1,232 @@
+# Companies (Audit, Investigations and Community Enterprise) Act 2004
+
+2004 c. 27. Enacted 2004-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
+
+Source: https://www.legislation.gov.uk/ukpga/2004/27/2025-11-18
+
+## Contents
+
+- Part 1 Auditors, accounts, directors’ liabilities and investigations
+  - Chapter 1 Auditors
+    - Recognised supervisory bodies
+      - [s. 1 Additional requirements for recognition of supervisory bodies](section/1.md)
+      - [s. 2 Arrangements to which additional requirements for recognition relate](section/2.md)
+    - Delegation of Secretary of State’s functions in relation to auditors
+      - [s. 3 Delegation of functions by Secretary of State to new or existing body](section/3.md)
+      - [s. 4 Circumstances in which Secretary of State may delegate functions to existing body](section/4.md)
+      - [s. 5 Supplementary provisions about delegation orders](section/5.md)
+    - Auditors’ qualifications
+      - [s. 6 Approval of overseas qualifications for auditors](section/6.md)
+    - Services provided by auditors
+      - [s. 7 Disclosure of services provided by auditors and related remuneration](section/7.md)
+  - Chapter 2 Accounts and reports
+    - Auditing of accounts
+      - [s. 8 Auditors’ rights to information](section/8.md)
+      - [s. 9 Statement in directors’ report as to disclosure of information to auditors](section/9.md)
+    - Defective accounts
+      - [s. 10 Persons authorised to apply to court in connection with defective accounts](section/10.md)
+      - [s. 11 Disclosure of tax information by Inland Revenue to facilitate application for declaration that accounts are defective](section/11.md)
+      - [s. 12 Power of person authorised to require documents, information and explanations](section/12.md)
+    - Directors’ reports
+      - [s. 13 Power to specify bodies who may issue reporting standards](section/13.md)
+    - Supervision of accounts and reports
+      - [s. 14 Supervision of periodic accounts and reports of issuers of listed securities](section/14.md)
+      - [s. 15 Application of sections 15A to 15E](section/15.md)
+      - [s. 15A Disclosure of information by tax authorities](section/15A.md)
+      - [s. 15B Power of prescribed body to require documents, information and explanations](section/15B.md)
+      - [s. 15C Restrictions on disclosure of information obtained under compulsory powers](section/15C.md)
+      - [s. 15D Permitted disclosure of information obtained under compulsory powers](section/15D.md)
+      - [s. 15E Power to amend categories of permitted disclosure](section/15E.md)
+    - Bodies concerned with accounting standards etc.
+      - [s. 16 Grants to bodies concerned with accounting standards etc.](section/16.md)
+      - [s. 17 Levy to pay expenses of bodies concerned with accounting standards etc.](section/17.md)
+      - [s. 18 Exemption from liability](section/18.md)
+      - [s. 18A Power to confer exemption from liability](section/18A.md)
+  - Chapter 3 Directors’ liabilities
+    - [s. 19 Relaxation of prohibition on provisions protecting directors etc. from liability](section/19.md)
+    - [s. 20 Funding of director’s expenditure on defending proceedings](section/20.md)
+  - Chapter 4 Investigations
+    - [s. 21 Power to require documents and information](section/21.md)
+    - [s. 22 Protection in relation to certain disclosures](section/22.md)
+    - [s. 23 Power to enter and remain on premises](section/23.md)
+    - [s. 24 Failure to comply with certain requirements](section/24.md)
+  - Chapter 5 Supplementary
+    - [s. 25 Minor and consequential amendments](section/25.md)
+- Part 2 Community interest companies
+  - Introductory
+    - [s. 26 Community interest companies](section/26.md)
+    - [s. 27 Regulator](section/27.md)
+    - [s. 28 Appeal Officer](section/28.md)
+    - [s. 29 Official Property Holder](section/29.md)
+  - Requirements
+    - [s. 30 Cap on distributions and interest](section/30.md)
+    - [s. 31 Distribution of assets on winding up](section/31.md)
+    - [s. 32 Articles of association](section/32.md)
+    - [s. 33 Names](section/33.md)
+    - [s. 34 Community interest company reports](section/34.md)
+    - [s. 35 Community interest test and excluded companies](section/35.md)
+  - Becoming a community interest company
+    - [s. 36 Formation of company as a community interest company](section/36.md)
+    - [s. 36A Formation as community interest company: decision on eligibility](section/36A.md)
+    - [s. 36B Formation as community interest company: implementation of decision on eligibility](section/36B.md)
+    - [s. 37 Company becoming a community interest company](section/37.md)
+    - [s. 37A Becoming a community interest company: application to court to cancel resolutions](section/37A.md)
+    - [s. 37B Becoming a community interest company: notice to registrar of court application or order](section/37B.md)
+    - [s. 37C Becoming a community interest company: application and accompanying documents](section/37C.md)
+    - [s. 38 Becoming a community interest company: decision by Regulator](section/38.md)
+    - [s. 38A Becoming a community interest company: implementation of decision on eligibility](section/38A.md)
+    - [s. 39 Becoming a community interest company: English charities](section/39.md)
+    - [s. 40 Becoming a community interest company: Scottish charities](section/40.md)
+    - [s. 40A Becoming a community interest company: Northern Ireland charities](section/40A.md)
+  - Supervision by Regulator
+    - [s. 41 Conditions for exercise of supervisory powers](section/41.md)
+    - [s. 42 Investigation](section/42.md)
+    - [s. 43 Audit](section/43.md)
+    - [s. 44 Civil proceedings](section/44.md)
+    - [s. 45 Appointment of director](section/45.md)
+    - [s. 46 Removal of director](section/46.md)
+    - [s. 47 Appointment of manager](section/47.md)
+    - [s. 48 Property](section/48.md)
+    - [s. 49 Transfer of shares etc.](section/49.md)
+    - [s. 50 Petition for winding up](section/50.md)
+    - [s. 51 Dissolution and striking off](section/51.md)
+  - Change of status
+    - [s. 52 Re-registration](section/52.md)
+    - [s. 53 Ceasing to be a community interest company](section/53.md)
+    - [s. 54 Ceasing to be a community interest company and becoming a charity](section/54.md)
+    - [s. 54A Ceasing to be a community interest company and becoming a charity: application to court to cancel resolutions](section/54A.md)
+    - [s. 54B Ceasing to be a community interest company and becoming a charity: notice to registrar of court application or order](section/54B.md)
+    - [s. 54C Ceasing to be a community interest company and becoming a charity: application and accompanying documents](section/54C.md)
+    - [s. 55 Ceasing to be a community interest company and becoming a charity: decision by Regulator](section/55.md)
+    - [s. 55A Ceasing to be a community interest company and becoming a charity: consequences of Regulator’s decision](section/55A.md)
+    - [s. 56 Becoming a registered society](section/56.md)
+  - Supplementary
+    - [s. 57 Fees](section/57.md)
+    - [s. 58 Extension of provisions about registrar etc.](section/58.md)
+    - [s. 59 Information](section/59.md)
+    - [s. 60 Offences](section/60.md)
+    - [s. 61 Orders made by Regulator](section/61.md)
+    - [s. 62 Regulations](section/62.md)
+    - [s. 63 Interpretation](section/63.md)
+- Part 3 Supplementary
+  - [s. 64 Repeals and revocations](section/64.md)
+  - [s. 65 Commencement etc.](section/65.md)
+  - [s. 66 Extent](section/66.md)
+  - [s. 67 Short title](section/67.md)
+- SCHEDULE 1 New Schedule 7B to the Companies Act 1985
+- SCHEDULE 2 Minor and consequential amendments relating to Part 1
+  - Part 1 Amendments relating to auditors
+    - Companies Act 1989 (c. 40)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Companies (Northern Ireland) Order 1990 (S.I. 1990/593(N.I. 5))
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part 2 Amendments relating to accounts and reports
+    - Companies Act 1985 (c. 6)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part 3 Amendments relating to investigations
+    - Companies Act 1985 (c. 6)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Insolvency Act 1986 (c. 45)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Company Directors Disqualification Act 1986 (c. 46)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Companies Act 1989 (c. 40)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Criminal Justice and Police Act 2001 (c. 16)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+- SCHEDULE 3 Regulator of Community Interest Companies
+  - Regulator’s terms of appointment
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Remuneration and pensions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Staff
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Delegation of functions
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Finance
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Reports and other information
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Amendments
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Appeal Officer for Community Interest Companies
+  - Appeal Officer’s terms of appointment
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Remuneration and pensions
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Finance
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Procedure
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Amendments
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Official Property Holder for Community Interest Companies
+  - Status
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Relationship with Regulator
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Effect of vacancy
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Property
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Finance
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Reports
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Community interest companies: names
+  - Companies Act 1985 (c. 6)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Limited Liability Partnerships Act 2000 (c. 12)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Community interest companies: investigations
+  - Power to require documents and information
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Privileged information
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Use of information as evidence
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Failure to comply with requirement
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - False information
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Repeals and revocations
