@@ -1,0 +1,164 @@
+# Children and Families (Wales) Measure 2010
+
+mwa/2010/1. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/mwa/2010/1/2025-11-19
+
+## Contents
+
+- PART 1 CHILD POVERTY, PLAY AND PARTICIPATION
+  - CHAPTER 1 ERADICATING CHILD POVERTY
+    - Broad aims
+      - [s. 1 Broad aims for contributing to the eradication of child poverty](section/1.md)
+    - Strategies
+      - [s. 2 Strategies for contributing to the eradication of child poverty](section/2.md)
+      - [s. 3 Strategies prepared by the Welsh Ministers](section/3.md)
+      - [s. 4 Strategies prepared by local authorities ...](section/4.md)
+      - [s. 5 Strategies prepared by other Welsh authorities](section/5.md)
+    - The Welsh authorities
+      - [s. 6 The Welsh authorities](section/6.md)
+    - Services to tackle child poverty
+      - [s. 7 Local authority duty to secure the availability of free childcare](section/7.md)
+      - [s. 8 Parental support services: powers of a local authority](section/8.md)
+      - [s. 9 Health support services: powers of a local authority](section/9.md)
+      - [s. 10 Regulations about services to tackle child poverty](section/10.md)
+  - CHAPTER 2 PLAY AND PARTICIPATION
+    - Play opportunities
+      - [s. 11 Local authority duties in respect of play opportunities for children](section/11.md)
+    - Participation
+      - [s. 12 Participation of children in local authority decision making](section/12.md)
+  - CHAPTER 3 INSPECTION, GUIDANCE AND DIRECTIONS
+    - Inspection
+      - [s. 13 Inspection](section/13.md)
+      - [s. 14 Powers of entry](section/14.md)
+      - [s. 15 Powers of inspection](section/15.md)
+      - [s. 16 Power to require information](section/16.md)
+    - Guidance and directions
+      - [s. 17 Guidance](section/17.md)
+      - [s. 18 Directions](section/18.md)
+- PART 2 CHILD MINDING AND DAY CARE FOR CHILDREN
+  - Main terms
+    - [s. 19 Meaning of “child minding” and “day care for children”](section/19.md)
+  - Registration of child minding
+    - [s. 20 Register of child minders](section/20.md)
+    - [s. 21 Duty of child minders to register](section/21.md)
+  - Registration of day care for children
+    - [s. 22 Register of providers of day care for children](section/22.md)
+    - [s. 23 Duty of day care providers to register](section/23.md)
+  - Process and requirements of registration
+    - [s. 24 Applications for registration: child minding](section/24.md)
+    - [s. 25 Prescribed requirements for registration as a child minder](section/25.md)
+    - [s. 26 Applications for registration: day care for children](section/26.md)
+    - [s. 27 Prescribed requirements for registration of providers of day care for children](section/27.md)
+    - [s. 28 Entry on the register and certificates](section/28.md)
+    - [s. 29 Conditions on registration](section/29.md)
+    - [s. 30 Regulations governing activities](section/30.md)
+  - Cancellation and suspension of registration
+    - [s. 31 Cancellation of registration](section/31.md)
+    - [s. 32 Suspension of registration](section/32.md)
+    - [s. 33 Voluntary removal from the register](section/33.md)
+  - Emergency protection
+    - [s. 34 Protection of children in an emergency: cancellation of registration](section/34.md)
+    - [s. 35 Protection of children in an emergency: changes to conditions](section/35.md)
+  - Procedural safeguards
+    - [s. 36 Procedure for taking certain steps](section/36.md)
+    - [s. 37 Appeals](section/37.md)
+  - Disqualification from registration
+    - [s. 38 Disqualification from registration](section/38.md)
+    - [s. 39 Consequences of disqualification](section/39.md)
+  - Inspection
+    - [s. 40 Inspection](section/40.md)
+    - [s. 41 Powers of entry](section/41.md)
+    - [s. 42 Powers of inspection](section/42.md)
+    - [s. 43 Power of constable to assist in exercising powers of entry](section/43.md)
+  - Information
+    - [s. 44 Supply of information to the Welsh Ministers](section/44.md)
+    - [s. 45 Supply of information to local authorities](section/45.md)
+  - Offences, criminal proceedings and fixed penalties
+    - [s. 46 Offence of making false or misleading statement](section/46.md)
+    - [s. 47 Penalty notices](section/47.md)
+    - [s. 48 Penalty notices: supplementary provisions](section/48.md)
+    - [s. 49 Time limit for proceedings](section/49.md)
+    - [s. 50 Offences by bodies corporate](section/50.md)
+    - [s. 51 Unincorporated associations](section/51.md)
+  - Miscellaneous
+    - [s. 52 Functions of local authorities](section/52.md)
+    - [s. 53 Fees](section/53.md)
+    - [s. 54 Co-operation between authorities](section/54.md)
+    - [s. 55 Notices](section/55.md)
+    - [s. 56 Death of registered person](section/56.md)
+- PART 3 INTEGRATED FAMILY SUPPORT TEAMS
+  - Teams
+    - [s. 57 Establishment of integrated family support teams](section/57.md)
+    - [s. 58 Functions of integrated family support teams](section/58.md)
+    - [s. 59 Resources for integrated family support teams](section/59.md)
+    - [s. 60 Composition of integrated family support teams](section/60.md)
+  - Boards
+    - [s. 61 Establishment of integrated family support boards](section/61.md)
+    - [s. 62 Functions of integrated family support boards](section/62.md)
+  - Regulations
+    - [s. 63 Regulations about integrated family support teams and boards](section/63.md)
+  - Reports
+    - [s. 64 Annual reports on integrated family support teams](section/64.md)
+  - Guidance
+    - [s. 65 Guidance about integrated family support teams](section/65.md)
+- PART 4 MISCELLANEOUS AND GENERAL
+  - Family social work standards officers
+    - [s. 66 Family social work standards officers](section/66.md)
+  - Children’s needs arising from community care and health needs of their parents
+    - [s. 67 Children’s needs arising from community care needs of their parents](section/67.md)
+    - [s. 68 Children’s needs arising from the health conditions of their parents](section/68.md)
+  - Social services functions
+    - [s. 69 Social services functions](section/69.md)
+  - General
+    - [s. 70 Guidance](section/70.md)
+    - [s. 71 General interpretation](section/71.md)
+    - [s. 72 Minor and consequential amendments](section/72.md)
+    - [s. 73 Repeals](section/73.md)
+    - [s. 74 Orders and regulations](section/74.md)
+    - [s. 75 Commencement](section/75.md)
+    - [s. 76 Short title](section/76.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Senior Courts Act 1981 (c. 54)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Protection of Children Act 1999 (c. 14)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Care Standards Act 2000 (c. 14)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Children Act 2004 (c. 31)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Education Act 2005 (c.18)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Education and Inspections Act 2006 (c. 40)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Childcare Act 2006 (c. 21)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - National Health Service (Wales) Act 2006 (c. 42)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+- SCHEDULE 2 REPEALS
