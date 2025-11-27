@@ -2,9 +2,9 @@
 
 2011 c. 25. Enacted 2011-12-14.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-05-19, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-27, one file per provision. Earlier versions, from 2011-12-14, are in the history before it: `git log -- ukpga/2011/25` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2011/25/2025-05-19
+Source: https://www.legislation.gov.uk/ukpga/2011/25/2025-11-27
 
 ## Contents
 
@@ -487,6 +487,9 @@ Source: https://www.legislation.gov.uk/ukpga/2011/25/2025-05-19
     - [s. 330 Appeals and applications in respect of matters determined on references](section/330.md)
     - [s. 331 Interpretation](section/331.md)
 - Part 18 Miscellaneous and supplementary
+  - Limited power to make ex gratia payments
+    - [s. 331A Limited power for charity trustees to make ex gratia payments etc](section/331A.md)
+    - [s. 331B Power to alter sums specified in s.331A](section/331B.md)
   - Administrative provisions about charities
     - [s. 332 Manner of giving notice of charity meetings, etc.](section/332.md)
     - [s. 333 Conferral of authority to execute documents](section/333.md)
