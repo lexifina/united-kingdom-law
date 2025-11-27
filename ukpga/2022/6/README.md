@@ -1,0 +1,147 @@
+# Charities Act 2022
+
+2022 c. 6. Enacted 2022-02-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2022/6/2025-11-27
+
+## Contents
+
+- PART 1 Purposes, powers and governing documents
+  - Charitable companies
+    - [s. 1 Alteration of charitable company’s purposes](section/1.md)
+  - Charitable incorporated organisations
+    - [s. 2 Amendments to constitution of CIOs](section/2.md)
+  - Unincorporated charities
+    - [s. 3 Powers of unincorporated charities](section/3.md)
+  - Charities established etc by Royal charter or Act
+    - [s. 4 Power to amend Royal charter](section/4.md)
+    - [s. 5 Orders under section 73 of the Charities Act 2011: parliamentary procedure](section/5.md)
+  - Cy-près and schemes
+    - [s. 6 Cy-près powers](section/6.md)
+    - [s. 7 Proceeds of fund-raising: power of charity trustees to apply cy-près](section/7.md)
+    - [s. 8 Power of the court and the Commission to make schemes](section/8.md)
+  - Permanent endowment
+    - [s. 9 Definition of “permanent endowment”](section/9.md)
+    - [s. 10 Amendment of powers to release restrictions on spending capital](section/10.md)
+    - [s. 11 Taking effect of resolution under section 282 of the Charities Act 2011](section/11.md)
+    - [s. 12 Power to borrow from permanent endowment](section/12.md)
+    - [s. 13 Total return investment](section/13.md)
+  - Special trusts
+    - [s. 14 Special trusts](section/14.md)
+  - Ex gratia payments etc
+    - [s. 15 Small ex gratia payments](section/15.md)
+    - [s. 16 Power of Commission etc to authorise ex gratia payments etc](section/16.md)
+- PART 2 Charity land
+  - Dispositions and mortgages
+    - [s. 17 Scope of Part 7 of the Charities Act 2011](section/17.md)
+    - [s. 18 Exceptions to restrictions on dispositions or mortgages of charity land](section/18.md)
+    - [s. 19 Advertising and report requirements for disposition of charity land](section/19.md)
+    - [s. 20 Advice relating to the disposition of charity land](section/20.md)
+    - [s. 21 Advice etc from charity trustees, officers and employees](section/21.md)
+    - [s. 22 Residential tenancies granted to employees](section/22.md)
+    - [s. 23 Information to be included in certain instruments](section/23.md)
+  - Universities and College Estates Act 1925
+    - [s. 24 Amendments of the Universities and College Estates Act 1925](section/24.md)
+- PART 3 Charity names
+  - [s. 25 Working names etc](section/25.md)
+  - [s. 26 Power to delay registration of unsuitably named charity](section/26.md)
+  - [s. 27 Power to delay entry of unsuitable name in register](section/27.md)
+  - [s. 28 Power to direct change of name of exempt charity](section/28.md)
+- PART 4 Charity trustees
+  - [s. 29 Powers relating to appointments of trustees](section/29.md)
+  - [s. 30 Remuneration of charity trustees etc providing goods or services to charity](section/30.md)
+  - [s. 31 Remuneration etc of charity trustees etc](section/31.md)
+  - [s. 32 Trustee of charitable trust: status as trust corporation](section/32.md)
+- PART 5 Charity mergers
+  - Gifts to merged charity
+    - [s. 33 Gifts to merged charity](section/33.md)
+  - Vesting declarations
+    - [s. 34 Vesting declarations: exclusions](section/34.md)
+    - [s. 35 Vesting permanent endowment following a merger](section/35.md)
+- PART 6 Legal proceedings
+  - [s. 36 Costs incurred in relation to Tribunal proceedings etc](section/36.md)
+- PART 7 General
+  - [s. 37 Public notice as regards Commission orders etc](section/37.md)
+  - [s. 38 “Connected person”: illegitimate children](section/38.md)
+  - [s. 39 “Connected person”: power to amend](section/39.md)
+  - [s. 40 Minor and consequential provision](section/40.md)
+  - [s. 41 Extent, commencement and short title](section/41.md)
+- SCHEDULE 1 Amendments of the Universities and College Estates Act 1925: consequential amendments
+  - [Sch. 1 para. 1 Law of Property (Amendment) Act 1926 (c. 11)](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Landlord and Tenant Act 1927 (c. 36)](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Landlord and Tenant (War Damage) Act 1939 (c. 72)](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Universities and Colleges (Trusts) Act 1943 (c. 9)](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Coast Protection Act 1949 (c. 74)](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Landlord and Tenant Act 1954 (c. 56)](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Universities and College Estates Act 1964 (c. 51)](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Forestry Act 1967 (c. 10)](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Leasehold Reform Act 1967 (c. 88)](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Mines and Quarries (Tips) Act 1969 (c. 10)](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Agriculture Act 1970 (c. 40)](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Agriculture (Miscellaneous Provisions) Act 1976 (c. 55)](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Universities and College Estates Act 1925 (Amendment) Regulations 1978 (S.I. 1978/443)](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Highways Act 1980 (c. 66)](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Agricultural Holdings Act 1986 (c. 5)](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Town and Country Planning Act 1990 (c. 8)](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Solicitors’ Recognised Bodies Order 1991 (S.I. 1991/2684)](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19 Agricultural Tenancies Act 1995 (c. 8)](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20 Housing Grants, Construction and Regeneration Act 1996 (c. 53)](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21 Cathedrals Measure 1999 (No. 1)](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22 Trustee Act 2000 (c. 29)](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23 Constitutional Reform Act 2005 (c. 4)](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24 Cathedrals Measure 2021 (No. 2)](schedule/1/paragraph/24.md)
+- SCHEDULE 2 Minor and consequential amendments
+  - PART 1 Amendments relating to Part 1
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Amendment relating to section 2 of this Act](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Amendments relating to section 3 of this Act](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Amendments relating to section 3 of this Act](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Amendments relating to section 3 of this Act](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6 Amendments relating to section 3 of this Act](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Amendments relating to section 3 of this Act](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Amendments relating to section 3 of this Act](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Amendments relating to section 3 of this Act](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Amendments relating to section 3 of this Act](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Amendments relating to section 5 of this Act](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Amendments relating to section 5 of this Act](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Amendments relating to section 6 of this Act](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Amendments relating to section 6 of this Act](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Amendments relating to section 6 of this Act](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 Amendments relating to sections 10 and 11 of this Act](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Amendments relating to sections 10 and 11 of this Act](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Amendments relating to sections 10 and 11 of this Act](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Amendments relating to sections 10 and 11 of this Act](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Amendment relating to sections 10 and 12 of this Act](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Amendments relating to section 12 of this Act](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Amendments relating to section 12 of this Act](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23 Amendment relating to section 13 of this Act](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Amendments relating to section 14 of this Act](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25 Amendments relating to section 14 of this Act](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26 Amendments relating to section 16 of this Act](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27 Amendments relating to section 16 of this Act](schedule/2/paragraph/27.md)
+  - PART 2 Amendments relating to Part 2
+    - [Sch. 2 para. 28 Amendment relating to section 22 of this Act](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29 Amendment relating to section 23 of this Act](schedule/2/paragraph/29.md)
+  - PART 3 Amendments relating to Part 3
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31 Amendments relating to section 25 of this Act](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32 Amendments relating to section 25 of this Act](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33 Amendments relating to section 25 of this Act](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34 Amendments relating to section 25 of this Act](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35 Amendments relating to section 25 of this Act](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36 Amendments relating to section 25 of this Act](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37 Amendments relating to section 25 of this Act](schedule/2/paragraph/37.md)
+  - PART 4 Amendments relating to Part 4
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39 Amendments relating to section 30 of this Act](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40 Amendments relating to section 30 of this Act](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41 Amendments relating to section 30 of this Act](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42 Amendment relating to section 31 of this Act](schedule/2/paragraph/42.md)
+  - PART 5 Other minor amendments
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
