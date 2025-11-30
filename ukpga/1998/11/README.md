@@ -1,0 +1,447 @@
+# Bank of England Act 1998
+
+1998 c. 11. Enacted 1998-04-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-11-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 43 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/11
+
+Source: https://www.legislation.gov.uk/ukpga/1998/11/2025-11-30
+
+## Contents
+
+- Part I Constitution, regulation and financial arrangements
+  - Constitution and regulation
+    - [s. 1 Court of directors.](section/1.md)
+    - [s. 1A Power to alter membership of court of directors](section/1A.md)
+    - [s. 2 Functions of court of directors.](section/2.md)
+    - [s. 2A Financial Stability Objective](section/2A.md)
+    - [s. 2AA Macro-prudential measures: Article 458 of the capital requirements regulation](section/2AA.md)
+    - [s. 2B Financial Stability Committee](section/2B.md)
+    - [s. 2C Financial Stability Committee: supplemental](section/2C.md)
+    - [s. 3 Functions to be carried out by non-executive members.](section/3.md)
+    - [s. 3A Oversight functions of court of directors](section/3A.md)
+    - [s. 3B Oversight Committee: procedure](section/3B.md)
+    - [s. 3C Reviews](section/3C.md)
+    - [s. 3D Publication of reports of performance reviews](section/3D.md)
+    - [s. 3E Recommendations resulting from review](section/3E.md)
+    - [s. 3F Oversight functions: further provisions](section/3F.md)
+    - [s. 4 Annual report by the Bank.](section/4.md)
+    - [s. 5 Custody and use of the seal.](section/5.md)
+  - Financial arrangements
+    - [s. 6 Cash ratio deposits.](section/6.md)
+    - [s. 6A Bank of England levy](section/6A.md)
+    - [s. 7 Accounts.](section/7.md)
+    - [s. 7ZA Audit: role of Comptroller and Auditor General](section/7ZA.md)
+    - [s. 7A Accounts of companies wholly owned by the Bank](section/7A.md)
+    - [s. 7B Reports on Bank activities indemnified by Treasury](section/7B.md)
+    - [s. 7C Accounts of Bank companies carrying on activities indemnified by Treasury](section/7C.md)
+    - [s. 7D Examination by Comptroller and Auditor General](section/7D.md)
+    - [s. 7E Memorandum of understanding](section/7E.md)
+    - [s. 7F Review by the Treasury](section/7F.md)
+    - [s. 7G Right to obtain documents and information](section/7G.md)
+    - [s. 7H Restriction on disclosing information](section/7H.md)
+    - [s. 8 Payments in lieu of dividends.](section/8.md)
+  - Supplementary
+    - [s. 9 Consequential amendments.](section/9.md)
+- PART 1A Financial Stability
+  - Financial stability strategy of the Bank
+    - [s. 9A Financial stability strategy](section/9A.md)
+  - Financial Policy Committee of the Bank
+    - [s. 9B Financial Policy Committee](section/9B.md)
+    - [s. 9C Objectives of the Financial Policy Committee](section/9C.md)
+    - [s. 9D Specification of matters relevant to economic policy](section/9D.md)
+    - [s. 9E Recommendations by Treasury](section/9E.md)
+    - [s. 9F Other general duties](section/9F.md)
+    - [s. 9G Functions of the Financial Policy Committee](section/9G.md)
+  - Directions by Financial Policy Committee
+    - [s. 9H Directions to FCA or PRA requiring macro-prudential measures](section/9H.md)
+    - [s. 9I Compliance with directions under section 9H](section/9I.md)
+    - [s. 9J Revocation of directions under section 9H](section/9J.md)
+    - [s. 9K Further provisions about directions under section 9H](section/9K.md)
+    - [s. 9L Macro-prudential measures](section/9L.md)
+    - [s. 9M Statements of policy by Financial Policy Committee](section/9M.md)
+    - [s. 9N Parliamentary control of orders under section 9L](section/9N.md)
+  - Recommendations by Financial Policy Committee
+    - [s. 9O Making of recommendations within the Bank](section/9O.md)
+    - [s. 9P Recommendations to Treasury](section/9P.md)
+    - [s. 9Q Recommendations to FCA and PRA](section/9Q.md)
+    - [s. 9R Recommendations to other persons](section/9R.md)
+  - Explanation
+    - [s. 9S Duty to prepare explanation](section/9S.md)
+  - Review
+    - [s. 9T Duty to review directions and recommendations](section/9T.md)
+  - Publication of record of meetings
+    - [s. 9U Publication of record of meetings](section/9U.md)
+    - [s. 9V Deferred publication](section/9V.md)
+  - Financial stability reports by Financial Policy Committee
+    - [s. 9W Financial stability reports by Financial Policy Committee](section/9W.md)
+  - Meetings between Governor and Chancellor of the Exchequer
+    - [s. 9X Meetings between Governor and Chancellor of the Exchequer](section/9X.md)
+  - Power of Bank to require FCA ... to provide information
+    - [s. 9Y Directions requiring information or documents](section/9Y.md)
+    - [s. 9Z Further provisions about directions under section 9Y](section/9Z.md)
+  - Supplementary
+    - [s. 9ZA Interpretation of Part 1A](section/9ZA.md)
+- Part II Monetary Policy
+  - Role of the Bank
+    - [s. 10 Operational responsibility.](section/10.md)
+    - [s. 11 Objectives.](section/11.md)
+    - [s. 12 Specification of matters relevant to objectives.](section/12.md)
+  - Monetary Policy Committee of the Bank
+    - [s. 13 Monetary Policy Committee.](section/13.md)
+    - [s. 14 Publication of statements about decisions.](section/14.md)
+    - [s. 15 Publication of minutes of meetings.](section/15.md)
+    - [s. 16 Functions of court of directors.](section/16.md)
+  - Information and reports
+    - [s. 17 Power to obtain information.](section/17.md)
+    - [s. 18 Reports.](section/18.md)
+  - Treasury’s reserve powers
+    - [s. 19 Reserve powers.](section/19.md)
+  - Supplementary
+    - [s. 20 Interpretation of Part II.](section/20.md)
+- Part III Transfer of supervisory functions of the Bank to the Financial Services Authority
+  - ...
+    - [s. 21 Transfer.](section/21.md)
+    - [s. 22 Supplementary provisions.](section/22.md)
+    - [s. 23 Consequential amendments.](section/23.md)
+  - ...
+    - [s. 24 Status.](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+  - Consequential changes to banking bodies
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+  - Supplementary
+    - [s. 30 Interpretation of Part III.](section/30.md)
+- PART 3A Prudential regulation
+  - [s. 30A Prudential Regulation Committee](section/30A.md)
+  - [s. 30B Recommendations by Treasury](section/30B.md)
+  - [s. 30C Operational independence](section/30C.md)
+- PART 3B Central counterparties and central securities depositories
+  - [s. 30D Exercise of functions relating to CCPs and CSDs](section/30D.md)
+  - [s. 30E Regulatory principles](section/30E.md)
+  - [s. 30F Financial Market Infrastructure Committee](section/30F.md)
+  - [s. 30G Functions of the Financial Market Infrastructure Committee](section/30G.md)
+  - [s. 30H Information](section/30H.md)
+  - [s. 30I Recommendations by Treasury](section/30I.md)
+- Part IV Miscellaneous and general
+  - Miscellaneous
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Closure of National Savings Stock Register to gilts.](section/33.md)
+    - [s. 34 Provision of brokerage service in connection with gilt registration.](section/34.md)
+    - [s. 35 Section 207 of the Companies Act 1989: bearer securities.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+  - General
+    - [s. 37 Restriction on disclosure of information.](section/37.md)
+    - [s. 38 Offences in relation to supplying information to the Bank.](section/38.md)
+    - [s. 39 Offences by bodies corporate.](section/39.md)
+    - [s. 40 Orders.](section/40.md)
+    - [s. 41 General interpretation.](section/41.md)
+    - [s. 42 Transitional provisions and savings.](section/42.md)
+    - [s. 43 Repeals.](section/43.md)
+  - Final provisions
+    - [s. 44 Extent.](section/44.md)
+    - [s. 45 Commencement.](section/45.md)
+    - [s. 46 Short title.](section/46.md)
+- SCHEDULE 1 Court of directors
+  - Terms of office
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Qualification for appointment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Removal from office
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Powers
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Meetings
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Publication of record of meetings
+    - [Sch. 1 para. 12A](schedule/1/paragraph/12A.md)
+  - Proceedings
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Remuneration
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Cash ratio deposits
+  - Eligible institutions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Liability base
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Call notices
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Calculation of depositable amount
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Value bands and applicable ratios
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Effect of call notice
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Benchmark rate of interest
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Power to obtain information
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Orders
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Interpretation
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Modifications for new entrants
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 2ZA Bank of England levy
+  - [Sch. 2ZA para. 1 “The levy”](schedule/2ZA/paragraph/1.md)
+  - [Sch. 2ZA para. 2 “Eligible institutions”](schedule/2ZA/paragraph/2.md)
+  - [Sch. 2ZA para. 3 “Levy year”](schedule/2ZA/paragraph/3.md)
+  - [Sch. 2ZA para. 4 “Anticipated levy requirement”](schedule/2ZA/paragraph/4.md)
+  - [Sch. 2ZA para. 5 Liability to pay the levy](schedule/2ZA/paragraph/5.md)
+  - [Sch. 2ZA para. 6 Payment of the levy](schedule/2ZA/paragraph/6.md)
+  - [Sch. 2ZA para. 7 Recovery of the levy](schedule/2ZA/paragraph/7.md)
+  - [Sch. 2ZA para. 8 Interest](schedule/2ZA/paragraph/8.md)
+  - [Sch. 2ZA para. 9 Power to obtain information](schedule/2ZA/paragraph/9.md)
+  - [Sch. 2ZA para. 10 Regulations](schedule/2ZA/paragraph/10.md)
+- SCHEDULE 2A Financial Policy Committee
+  - Terms of office of appointed members
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Qualification for appointment
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Removal of appointed members
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+  - Meetings
+    - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - Proceedings
+    - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+    - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+    - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+  - Decisions otherwise than at meetings
+    - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+  - Power to determine own procedure
+    - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+- SCHEDULE 3 Monetary Policy Committee
+  - Terms of office of appointed members
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+    - [Sch. 3 para. 2B](schedule/3/paragraph/2B.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Qualification for appointment
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 5A](schedule/3/paragraph/5A.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Removal of appointed members
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Meetings
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Proceedings
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 13A](schedule/3/paragraph/13A.md)
+    - [Sch. 3 para. 13B](schedule/3/paragraph/13B.md)
+  - Report to court of directors of the Bank
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Parliamentary disqualification
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Transfer of functions: supplementary provisions
+  - Continuity of exercise of functions
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Transfer of staff
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Transfer of property, rights and liabilities
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Transfer of functions: consequential amendments
+  - Part I Banking supervision
+    - Chapter I Banking Act 1987
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Chapter II Banking Coordination (Second Council Directive) Regulations 1992
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - Chapter III Other Enactments
+      - Consumer Credit Act 1974 (c. 39)
+        - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+      - Insolvency Act 1986 (c. 45)
+        - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+      - Building Societies Act 1986 (c. 53)
+        - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+      - Financial Services Act 1986 (c. 60)
+        - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+      - Insolvency (Northern Ireland) Order 1989 S.I. 1989/2405 (N.I. 19)
+        - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+      - Courts and Legal Services Act 1990 (c. 41)
+        - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+      - Charities Act 1993 (c. 10)
+        - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+      - Building Societies Act 1997 (c. 32)
+        - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+  - Part II Supervision under section 43 of the Financial Services Act 1986
+    - Financial Services Act 1986 (c. 60)
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - Investment Services Regulations 1995 (S.I. 1995/3275)
+      - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+  - Part III Supervision under section 171 of the Companies Act 1989
+    - Companies Act 1989 (c. 40)
+      - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+      - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+      - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+    - Companies (No. 2) (Northern Ireland) Order 1990 (S.I. 1990/1504 (N.I. 10))
+      - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+      - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+      - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+  - Part IV General: disclosure of information
+    - Chapter I Banking Act 1987
+      - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
+      - [Sch. 5 para. 53](schedule/5/paragraph/53.md)
+      - [Sch. 5 para. 54](schedule/5/paragraph/54.md)
+      - [Sch. 5 para. 55](schedule/5/paragraph/55.md)
+      - [Sch. 5 para. 56](schedule/5/paragraph/56.md)
+      - [Sch. 5 para. 57](schedule/5/paragraph/57.md)
+      - [Sch. 5 para. 58](schedule/5/paragraph/58.md)
+      - [Sch. 5 para. 59](schedule/5/paragraph/59.md)
+    - Chapter II Other Enactments
+      - Consumer Credit Act 1974 (c. 39)
+        - [Sch. 5 para. 60](schedule/5/paragraph/60.md)
+      - Insurance Companies Act 1982 (c. 50)
+        - [Sch. 5 para. 61](schedule/5/paragraph/61.md)
+      - Companies Act 1985 (c. 6)
+        - [Sch. 5 para. 62](schedule/5/paragraph/62.md)
+      - Companies (Northern Ireland) Order 1986 (S.I. 1986/1032 (N.I. 6))
+        - [Sch. 5 para. 63](schedule/5/paragraph/63.md)
+      - Building Societies Act 1986 (c. 53)
+        - [Sch. 5 para. 64](schedule/5/paragraph/64.md)
+      - Financial Services Act 1986 (c. 60)
+        - [Sch. 5 para. 65](schedule/5/paragraph/65.md)
+      - Companies Act 1989 (c. 40)
+        - [Sch. 5 para. 66](schedule/5/paragraph/66.md)
+      - Courts and Legal Services Act 1990 (c. 41)
+        - [Sch. 5 para. 67](schedule/5/paragraph/67.md)
+      - Friendly Societies Act 1992 (c. 40)
+        - [Sch. 5 para. 68](schedule/5/paragraph/68.md)
+      - Pension Schemes Act 1993 (c. 48)
+        - [Sch. 5 para. 69](schedule/5/paragraph/69.md)
+      - Pension Schemes (Northern Ireland) Act 1993 (c.49)
+        - [Sch. 5 para. 70](schedule/5/paragraph/70.md)
+      - Pensions Act 1995 (c. 26)
+        - [Sch. 5 para. 71](schedule/5/paragraph/71.md)
+      - Pensions (Northern Ireland) Order 1995 (S.I. 1995/3213 (N.I. 22))
+        - [Sch. 5 para. 72](schedule/5/paragraph/72.md)
+- SCHEDULE 6
+  - Powers
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Consultation
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Mode of exercise
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Publication
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Proof of regulations
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 6A Prudential Regulation Committee
+  - Interpretation
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Appointment of members by Chancellor
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - Term of office of appointed members
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+  - Terms and conditions of appointment
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+  - Qualification for appointment
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+  - Removal of appointed members
+    - [Sch. 6A para. 9](schedule/6A/paragraph/9.md)
+  - Decision making
+    - [Sch. 6A para. 10](schedule/6A/paragraph/10.md)
+  - Meetings
+    - [Sch. 6A para. 11](schedule/6A/paragraph/11.md)
+    - [Sch. 6A para. 12](schedule/6A/paragraph/12.md)
+    - [Sch. 6A para. 13](schedule/6A/paragraph/13.md)
+    - [Sch. 6A para. 14](schedule/6A/paragraph/14.md)
+    - [Sch. 6A para. 15](schedule/6A/paragraph/15.md)
+  - Decisions otherwise than at meetings
+    - [Sch. 6A para. 16](schedule/6A/paragraph/16.md)
+  - Delegation of functions
+    - [Sch. 6A para. 17](schedule/6A/paragraph/17.md)
+  - Prudential regulation budget
+    - [Sch. 6A para. 18](schedule/6A/paragraph/18.md)
+  - Annual reports
+    - [Sch. 6A para. 19](schedule/6A/paragraph/19.md)
+- SCHEDULE 7 Restriction on disclosure of information
+  - Restricted information
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Disclosure for the purposes of the Bank’s functions
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Disclosure by the Bank to other authorities
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Onward disclosure
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Other permitted disclosures
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Transitional provisions and savings
+  - Bank’s immunity from suit
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Disclosure of information
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Pre-commencement consultation
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Membership of the Deposit Protection Board
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 Repeals and revocations
+  - Part I Repeals
+  - Part II
