@@ -1,0 +1,224 @@
+# British Nationality Act 1981
+
+1981 c. 61. Enacted 1981-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-12-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/61
+
+Source: https://www.legislation.gov.uk/ukpga/1981/61/2025-12-02
+
+## Contents
+
+- Part I British Citizenship
+  - Acquisition after commencement
+    - [s. 1 Acquisition by birth or adoption.](section/1.md)
+    - [s. 2 Acquisition by descent.](section/2.md)
+    - [s. 3 Acquisition by registration: minors.](section/3.md)
+    - [s. 4 Acquisition by registration: British overseas territories citizensetc.](section/4.md)
+    - [s. 4A Acquisition by registration: further provision for British overseas territories citizens](section/4A.md)
+    - [s. 4AA Acquisition by registration: Irish citizens](section/4AA.md)
+    - [s. 4B Acquisition by registration: certain persons without other citizenship](section/4B.md)
+    - [s. 4C Acquisition by registration: certain persons born before 1983](section/4C.md)
+    - [s. 4D Acquisition by registration: children of members of the armed forces](section/4D.md)
+    - [s. 4E The general conditions](section/4E.md)
+    - [s. 4F Person unable to be registered under other provisions of this Act](section/4F.md)
+    - [s. 4G Person unable to become citizen automatically after commencement](section/4G.md)
+    - [s. 4H Citizen of UK and colonies unable to become citizen at commencement](section/4H.md)
+    - [s. 4I Other person unable to become citizen at commencement](section/4I.md)
+    - [s. 4J Sections 4E to 4I: supplementary provision](section/4J.md)
+    - [s. 4K Acquisition by registration: certain British overseas territories citizens](section/4K.md)
+    - [s. 4L Acquisition by registration: special circumstances](section/4L.md)
+    - [s. 5 Acquisition by registration: British overseas territories citizens having connection with Gibraltar](section/5.md)
+    - [s. 6 Acquisition by naturalisation.](section/6.md)
+  - Acquisition after commencement: special cases
+    - [s. 7 Right to registration by virtue of residence in U.K. or relevant employment.](section/7.md)
+    - [s. 8 Registration by virtue of marriage.](section/8.md)
+    - [s. 9 Right to registration by virtue of father’s citizenship etc.](section/9.md)
+    - [s. 10 Registration following renunciation of citizenship of U.K. and Colonies.](section/10.md)
+    - [s. 10A Acquisition in connection with immigration rules Appendix EU](section/10A.md)
+  - Acquisition at commencement
+    - [s. 11 Citizens of U.K. and Colonies who are to become British citizens at commencement.](section/11.md)
+  - Renunciation and resumption
+    - [s. 12 Renunciation.](section/12.md)
+    - [s. 13 Resumption.](section/13.md)
+  - Supplementary
+    - [s. 14 Meaning of British citizen (by descent).](section/14.md)
+- Part II British overseas territories citizenship
+  - Acquisition after commencement
+    - [s. 15 Acquisition by birth or adoption.](section/15.md)
+    - [s. 16 Acquisition by descent.](section/16.md)
+    - [s. 17 Acquisition by registration: minors.](section/17.md)
+    - [s. 17A Registration: remedying inability of mothers to transmit citizenship](section/17A.md)
+    - [s. 17B Registration: unmarried fathers; the general conditions](section/17B.md)
+    - [s. 17C Person unable to be registered under other provisions of this Act](section/17C.md)
+    - [s. 17D Person unable to become citizen automatically after commencement](section/17D.md)
+    - [s. 17E Citizen of UK and Colonies unable to become citizen at commencement](section/17E.md)
+    - [s. 17F Other person unable to become citizen at commencement](section/17F.md)
+    - [s. 17G Sections 17B to 17F: supplementary provision](section/17G.md)
+    - [s. 17H Acquisition by registration: descendants of those born in British Indian Ocean Territory](section/17H.md)
+    - [s. 17I Acquisition by registration: special circumstances](section/17I.md)
+    - [s. 18 Acquisition by naturalisation.](section/18.md)
+  - Acquisition after commencement: special cases
+    - [s. 19 Right to registration by virtue of residence in British overseas territory.](section/19.md)
+    - [s. 20 Registration by virtue of marriage.](section/20.md)
+    - [s. 21 Right to registration by virtue of father’s citizenship etc.](section/21.md)
+    - [s. 22 Right to registration replacing right to resume citizenship of U.K. and Colonies.](section/22.md)
+  - Acquisition at commencement
+    - [s. 23 Citizens of U.K. and Colonies who are to become British overseas territories citizens at commencement.](section/23.md)
+  - Renunciation and resumption
+    - [s. 24 Renunciation and resumption.](section/24.md)
+  - Supplementary
+    - [s. 25 Meaning of British overseas territories citizen“by descent”.](section/25.md)
+- Part III British Overseas Citizenship
+  - [s. 26 Citizens of U.K. and Colonies who are to become British Overseas citizens at commencement.](section/26.md)
+  - [s. 27 Registration of minors.](section/27.md)
+  - [s. 28 Registration by virtue of marriage.](section/28.md)
+  - [s. 29 Renunciation.](section/29.md)
+- Part IV British Subjects
+  - [s. 30 Continuance as British subjects of existing British subjects of certain descriptions.](section/30.md)
+  - [s. 31 Continuance as British subjects of certain former citizens of Eire.](section/31.md)
+  - [s. 32 Registration of minors.](section/32.md)
+  - [s. 33 Registration of certain alien women entitled to registration as British subjects immediately before commencement.](section/33.md)
+  - [s. 34 Renunciation.](section/34.md)
+  - [s. 35 Circumstances in which British subjects are to lose that status.](section/35.md)
+- Part V Miscellaneous and Supplementary
+  - [s. 36 Provisions for reducing statelessness.](section/36.md)
+  - [s. 37 Commonwealth citizenship.](section/37.md)
+  - [s. 38 British protected persons.](section/38.md)
+  - [s. 39 Amendment of Immigration Act 1971.](section/39.md)
+  - [s. 40 Deprivation of citizenship.](section/40.md)
+  - [s. 40A Deprivation of citizenship: appeal](section/40A.md)
+  - [s. 40B Review of power under section 40(4A)](section/40B.md)
+  - [s. 41 Regulations and Orders in Council.](section/41.md)
+  - [s. 41A Registration: requirement to be of good character](section/41A.md)
+  - [s. 42 Registration and naturalisation: citizenship ceremony, oath and pledge](section/42.md)
+  - [s. 42A Registration and naturalisation: fee](section/42A.md)
+  - [s. 42B Registration and naturalisation: timing](section/42B.md)
+  - [s. 43 Exercise of functions of Secretary of State by Governors and others.](section/43.md)
+  - [s. 44 Decisions involving exercise of discretion.](section/44.md)
+  - [s. 44A Waiver of requirement for full capacity](section/44A.md)
+  - [s. 45 Evidence.](section/45.md)
+  - [s. 46 Offences and proceedings.](section/46.md)
+  - [s. 47 Legitimated children.](section/47.md)
+  - [s. 48 Posthumous children.](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 Interpretation.](section/50.md)
+  - [s. 50A Meaning of references to being in breach of immigration laws](section/50A.md)
+  - [s. 50B Immigration restrictions to be disregarded in certain cases](section/50B.md)
+  - [s. 51 Meaning of certain expressions relating to nationality in other Acts and instruments.](section/51.md)
+  - [s. 52 Consequential amendments, transitional provisions, repeals and savings.](section/52.md)
+  - [s. 53 Citation, commencement and extent.](section/53.md)
+- SCHEDULE 1 Requirements for Naturalisation
+  - Naturalisation as a British citizen under section 6(1)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - Naturalisation as a British citizen under section 6(2)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 4A](schedule/1/paragraph/4A.md)
+  - The qualifying period for naturalisation as a British citizen under section 6
+    - [Sch. 1 para. 4B](schedule/1/paragraph/4B.md)
+  - Naturalisation as a British overseas territories citizen under section 18(1)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Naturalisation as a British overseas territories citizen under section 18(2)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Periods to be treated as periods of absence from U.K. or a British overseas territory
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Interpretation
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Provisions for Reducing Statelessness
+  - Persons born in the United Kingdom after commencement
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Persons born in a British overseas territory after commencement
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Persons aged 18 to 22 born in the United Kingdom or a British overseas territory after commencement
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Minors aged 5 to 17 born in the United Kingdom or a British overseas territory after commencement
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+  - Persons born outside the United Kingdom and the British overseas territories after commencement
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Persons born stateless before commencement
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Supplementary
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Countries Whose Citizens are Commonwealth Citizens
+- SCHEDULE 4 Amendments of Immigration Act 1971
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 4A Deprivation of Citizenship without notice: judicial oversight
+  - [Sch. 4A para. 1 Deprivation without notice: application to Special Immigration Appeals Commission](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2 Deprivation of citizenship without notice: review](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3 Interpretation](schedule/4A/paragraph/3.md)
+- SCHEDULE 5 Citizenship Oath and Pledge
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Oath
+  - Pledge
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Oath
+  - Pledge
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 British Overseas Territories
+- SCHEDULE 7 Consequential Amendments
+  - ACT OF SETTLEMENT (12 & 13 Will. 3. c. 2.)
+  - LEGITIMACY DECLARATION ACT 1858 (c. 93)
+  - SUBMARINE TELEGRAPH ACT 1885 (c. 49)
+  - BRITISH NATIONALITY ACT 1948 (c. 56)
+  - IRELAND ACT 1949 (c. 41)
+    - [Sch. 7 heading ireland-act-1949-c-41 para. 1](schedule/7/crossheading/ireland-act-1949-c-41/paragraph/1.md)
+    - [Sch. 7 heading ireland-act-1949-c-41 para. 2](schedule/7/crossheading/ireland-act-1949-c-41/paragraph/2.md)
+  - DEFAMATION ACT 1952 (c. 66)
+  - DEFAMATION ACT (NORTHERN IRELAND) 1955 (c. 11) (N.I.)
+  - CYPRUS ACT 1960 (c. 52)
+  - EMERGENCY LAWS (RE-ENACTMENTS AND REPEALS) ACT 1964 (c. 60)
+  - DIPLOMATIC PRIVILEGES ACT 1964 (c. 81)
+  - COMMONWEALTH SECRETARIAT ACT 1966 (c. 10)
+  - WEST INDIES ACT 1967 (c. 4)
+    - [Sch. 7 heading west-indies-act-1967-c-4 para. 1](schedule/7/crossheading/west-indies-act-1967-c-4/paragraph/1.md)
+    - [Sch. 7 heading west-indies-act-1967-c-4 para. 2](schedule/7/crossheading/west-indies-act-1967-c-4/paragraph/2.md)
+  - MARINE BROADCASTING (OFFENCES) ACT 1967 (c. 41)
+  - ANTARCTIC TREATY ACT 1967 (C. 65)
+  - FUGITIVE OFFENDERS ACT 1967 (c. 68)
+  - CONSULAR RELATIONS ACT 1968 (c. 18)
+  - TANZANIA ACT 1969 (c. 29)
+  - INCOME AND CORPORATION TAXES ACT 1970 (c. 10)
+  - MERCHANT SHIPPING ACT 1970 (c. 36)
+    - [Sch. 7 heading merchant-shipping-act-1970-c-36 para. 1](schedule/7/crossheading/merchant-shipping-act-1970-c-36/paragraph/1.md)
+    - [Sch. 7 heading merchant-shipping-act-1970-c-36 para. 2](schedule/7/crossheading/merchant-shipping-act-1970-c-36/paragraph/2.md)
+  - CHILDREN ACT 1975 (c. 72)
+    - [Sch. 7 heading children-act-1975-c-72 para. 1](schedule/7/crossheading/children-act-1975-c-72/paragraph/1.md)
+    - [Sch. 7 heading children-act-1975-c-72 para. 2](schedule/7/crossheading/children-act-1975-c-72/paragraph/2.md)
+  - ADOPTION ACT 1976 (c. 36)
+  - NATIONAL HEALTH SERVICE ACT 1977 (c. 49)
+  - SOLOMON ISLANDS ACT 1978 (c. 15)
+  - ADOPTION (SCOTLAND) ACT 1978 (c. 28)
+  - NATIONAL HEALTH SERVICE (SCOTLAND) ACT 1978 (c. 29)
+  - STATE IMMUNITY ACT 1978 (c. 33)
+  - DEEP SEA MINING (TEMPORARY PROVISIONS) ACT 1981 (c. 53)
+    - [Sch. 7 heading deep-sea-mining-temporary-provisions-act-1981-c-53 para. 1](schedule/7/crossheading/deep-sea-mining-temporary-provisions-act-1981-c-53/paragraph/1.md)
+    - [Sch. 7 heading deep-sea-mining-temporary-provisions-act-1981-c-53 para. 2](schedule/7/crossheading/deep-sea-mining-temporary-provisions-act-1981-c-53/paragraph/2.md)
+- SCHEDULE 8 Transitional Provisions
+  - Applications for naturalisation or registration pending at commencement
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Registration at U.K. consulate, after commencement, of certain births occurring in foreign countries less than a year before commencement
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Declarations by certain persons who by virtue of an Order in Council under section 4 of the Cyprus Act 1960 have ceased to be citizens of the United Kingdom and Colonies
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Applications for certificates of patriality pending at commencement
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Appeals under Part II of Immigration Act 1971
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 REPEALS
