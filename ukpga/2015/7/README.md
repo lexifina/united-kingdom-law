@@ -1,0 +1,474 @@
+# Infrastructure Act 2015
+
+2015 c. 7. Enacted 2015-02-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-12-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
+
+Source: https://www.legislation.gov.uk/ukpga/2015/7/2025-12-15
+
+## Contents
+
+- PART 1 Strategic highways companies
+  - Appointment as highway authorities
+    - [s. 1 Appointment of strategic highways companies](section/1.md)
+    - [s. 2 Areas and highways in an appointment](section/2.md)
+  - Functions
+    - [s. 3 Road Investment Strategy](section/3.md)
+    - [s. 4 Route strategies](section/4.md)
+  - Exercise of functions
+    - [s. 5 General duties](section/5.md)
+    - [s. 6 Directions and guidance](section/6.md)
+    - [s. 7 Delegation of functions](section/7.md)
+    - [s. 8 Exercise of delegated functions](section/8.md)
+  - Oversight
+    - [s. 9 Watchdog](section/9.md)
+    - [s. 10 Monitor](section/10.md)
+    - [s. 11 Monitor: compliance and fines](section/11.md)
+    - [s. 12 Monitor: general duties](section/12.md)
+    - [s. 13 Monitor: guidance](section/13.md)
+    - [s. 14 Periodic reports by the Secretary of State](section/14.md)
+  - Transfers of property etc
+    - [s. 15 Transfer schemes](section/15.md)
+    - [s. 16 Tax consequences of transfers](section/16.md)
+  - Finance
+    - [s. 17 Financial assistance](section/17.md)
+  - Supplemental and general
+    - [s. 18 Transfer of additional functions](section/18.md)
+    - [s. 19 Consequential and transitional provision etc](section/19.md)
+    - [s. 20 Interpretation of Part 1](section/20.md)
+- PART 2 Cycling and Walking Investment Strategies
+  - [s. 21 Cycling and Walking Investment Strategies](section/21.md)
+- PART 3 Powers of British Transport Police Force
+  - [s. 22 Powers of British Transport Police Force](section/22.md)
+- PART 4 Environmental control of animal and plant species
+  - [s. 23 Environmental control of animal and plant species](section/23.md)
+  - [s. 24 Native and non-native species etc](section/24.md)
+  - [s. 25 Part 4: supplementary](section/25.md)
+- PART 5 Planning, land and buildings
+  - Nationally significant infrastructure projects
+    - [s. 26 Timing of appointment of examining authority](section/26.md)
+    - [s. 27 Two-person Panels](section/27.md)
+    - [s. 28 Changes to, and revocation of, development consent orders](section/28.md)
+  - Deemed discharge of planning conditions
+    - [s. 29 Deemed discharge of planning conditions](section/29.md)
+  - Mayoral development orders
+    - [s. 30 Mayoral development orders](section/30.md)
+  - The Homes and Communities Agency and other bodies
+    - [s. 31 Property etc transfers to the HCA and the GLA](section/31.md)
+    - [s. 32 Easements etc affecting land](section/32.md)
+    - [s. 33 Expenditure of Greater London Authority on housing or regeneration](section/33.md)
+  - Her Majesty’s Land Registry
+    - [s. 34 Transfer of responsibility for local land charges to Land Registry](section/34.md)
+    - [s. 35 Conferral of additional powers on Land Registry](section/35.md)
+    - [s. 36 Transfer of power to nominate member of Rule Committee](section/36.md)
+  - Off-site carbon abatement measures
+    - [s. 37 Provision in building regulations for off-site carbon abatement measures](section/37.md)
+- PART 6 Energy
+  - The community electricity right
+    - [s. 38 The community electricity right](section/38.md)
+    - [s. 39 Supplementary provision](section/39.md)
+  - The Extractive Industries Transparency Initiative
+    - [s. 40 The Extractive Industries Transparency Initiative](section/40.md)
+  - Recovery of UK petroleum
+    - [s. 41 Maximising economic recovery of UK petroleum](section/41.md)
+    - [s. 42 Levy on holders of certain energy industry licences](section/42.md)
+  - Petroleum and geothermal energy in deep-level land
+    - [s. 43 Petroleum and geothermal energy: right to use deep-level land](section/43.md)
+    - [s. 44 Further provision about the right of use](section/44.md)
+    - [s. 45 Payment scheme](section/45.md)
+    - [s. 46 Notice scheme](section/46.md)
+    - [s. 47 Payment and notice schemes: supplementary provision](section/47.md)
+    - [s. 48 Interpretation](section/48.md)
+  - Other provision about onshore petroleum
+    - [s. 49 Advice on likely impact of onshore petroleum on the carbon budget](section/49.md)
+    - [s. 50 Onshore hydraulic fracturing: safeguards](section/50.md)
+  - Renewable heat incentives
+    - [s. 51 Renewable heat incentives](section/51.md)
+  - Reimbursement of persons who have met expenses
+    - [s. 52 Reimbursement of persons who have met expenses of making electrical connections](section/52.md)
+  - Consequential provision
+    - [s. 53 Consequential provision](section/53.md)
+- PART 7 Public Works Loan Commissioners
+  - [s. 54 Power to abolish Public Works Loan Commissioners](section/54.md)
+- PART 8 General provisions
+  - [s. 55 Regulations and orders](section/55.md)
+  - [s. 56 Extent](section/56.md)
+  - [s. 57 Commencement](section/57.md)
+  - [s. 58 Short title](section/58.md)
+- SCHEDULE 1 Strategic highways companies: consequential and supplemental amendments
+  - PART 1 Highways Act 1980
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+    - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+    - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+    - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+    - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+    - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+    - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+    - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+  - PART 2 Other enactments
+    - Public Records Act 1958 (c. 51)
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+      - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+      - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+      - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+      - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+      - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+      - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+      - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+      - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+      - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+      - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+      - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+      - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+      - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+      - [Sch. 1 para. 100](schedule/1/paragraph/100.md)
+    - Transport Act 1985 (c. 67)
+      - [Sch. 1 para. 101](schedule/1/paragraph/101.md)
+    - Dartford-Thurrock Crossing Act 1988 (c. 20)
+      - [Sch. 1 para. 102](schedule/1/paragraph/102.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 1 para. 103](schedule/1/paragraph/103.md)
+    - Town and Country Planning Act 1990 (c. 8)
+      - [Sch. 1 para. 104](schedule/1/paragraph/104.md)
+      - [Sch. 1 para. 105](schedule/1/paragraph/105.md)
+      - [Sch. 1 para. 106](schedule/1/paragraph/106.md)
+      - [Sch. 1 para. 107](schedule/1/paragraph/107.md)
+      - [Sch. 1 para. 108](schedule/1/paragraph/108.md)
+      - [Sch. 1 para. 109](schedule/1/paragraph/109.md)
+    - Environmental Protection Act 1990 (c. 43)
+      - [Sch. 1 para. 110](schedule/1/paragraph/110.md)
+      - [Sch. 1 para. 111](schedule/1/paragraph/111.md)
+      - [Sch. 1 para. 112](schedule/1/paragraph/112.md)
+    - New Roads and Street Works Act 1991 (c. 22)
+      - [Sch. 1 para. 113](schedule/1/paragraph/113.md)
+      - [Sch. 1 para. 114](schedule/1/paragraph/114.md)
+      - [Sch. 1 para. 115](schedule/1/paragraph/115.md)
+      - [Sch. 1 para. 116](schedule/1/paragraph/116.md)
+      - [Sch. 1 para. 117](schedule/1/paragraph/117.md)
+      - [Sch. 1 para. 118](schedule/1/paragraph/118.md)
+      - [Sch. 1 para. 119](schedule/1/paragraph/119.md)
+      - [Sch. 1 para. 120](schedule/1/paragraph/120.md)
+      - [Sch. 1 para. 121](schedule/1/paragraph/121.md)
+      - [Sch. 1 para. 122](schedule/1/paragraph/122.md)
+      - [Sch. 1 para. 123](schedule/1/paragraph/123.md)
+      - [Sch. 1 para. 124](schedule/1/paragraph/124.md)
+    - Transport Act 2000 (c. 38)
+      - [Sch. 1 para. 125](schedule/1/paragraph/125.md)
+      - [Sch. 1 para. 126](schedule/1/paragraph/126.md)
+      - [Sch. 1 para. 127](schedule/1/paragraph/127.md)
+      - [Sch. 1 para. 128](schedule/1/paragraph/128.md)
+    - Traffic Management Act 2004 (c. 18)
+      - [Sch. 1 para. 129](schedule/1/paragraph/129.md)
+      - [Sch. 1 para. 130](schedule/1/paragraph/130.md)
+      - [Sch. 1 para. 131](schedule/1/paragraph/131.md)
+      - [Sch. 1 para. 132](schedule/1/paragraph/132.md)
+      - [Sch. 1 para. 133](schedule/1/paragraph/133.md)
+      - [Sch. 1 para. 134](schedule/1/paragraph/134.md)
+      - [Sch. 1 para. 135](schedule/1/paragraph/135.md)
+      - [Sch. 1 para. 136](schedule/1/paragraph/136.md)
+      - [Sch. 1 para. 137](schedule/1/paragraph/137.md)
+      - [Sch. 1 para. 138](schedule/1/paragraph/138.md)
+      - [Sch. 1 para. 139](schedule/1/paragraph/139.md)
+      - [Sch. 1 para. 140](schedule/1/paragraph/140.md)
+      - [Sch. 1 para. 141](schedule/1/paragraph/141.md)
+      - [Sch. 1 para. 142](schedule/1/paragraph/142.md)
+      - [Sch. 1 para. 143](schedule/1/paragraph/143.md)
+      - [Sch. 1 para. 144](schedule/1/paragraph/144.md)
+      - [Sch. 1 para. 145](schedule/1/paragraph/145.md)
+      - [Sch. 1 para. 146](schedule/1/paragraph/146.md)
+      - [Sch. 1 para. 147](schedule/1/paragraph/147.md)
+      - [Sch. 1 para. 148](schedule/1/paragraph/148.md)
+      - [Sch. 1 para. 149](schedule/1/paragraph/149.md)
+      - [Sch. 1 para. 150](schedule/1/paragraph/150.md)
+      - [Sch. 1 para. 151](schedule/1/paragraph/151.md)
+    - Civil Contingencies Act 2004 (c. 36)
+      - [Sch. 1 para. 152](schedule/1/paragraph/152.md)
+    - Planning Act 2008 (c. 29)
+      - [Sch. 1 para. 153](schedule/1/paragraph/153.md)
+- SCHEDULE 2 Road Investment Strategy: procedure
+  - PART 1 Setting a Road Investment Strategy
+    - Introductory
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Step 1: the Secretary of State’s proposals
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Step 2: the strategic highways company’s response
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Step 3: where the strategic highways company has agreed to the proposals
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Step 4: where the strategic highways company has made counter-proposals or failed to respond
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 2 Varying a Road Investment Strategy
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Transfer schemes
+  - Application and commencement of scheme
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Property, rights and liabilities that may be transferred
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Dividing and modifying transferor’s property, rights and liabilities
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Obligation to effect transfers etc under a scheme
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Effect of scheme
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Powers and duties under statutory provisions
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Supplementary provisions of schemes
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Modification of a scheme by agreement
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Continuity of employment etc
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Compensation for third parties
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Provision of information to Secretary of State for the purposes of making a scheme
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Interpretation
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULE 4 Mayoral development orders
+  - PART 1 Main amendments
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Consequential amendments
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 Transfer of responsibility for local land charges to Land Registry
+  - PART 1 Amendments to the Local Land Charges Act 1975
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - PART 2 Amendments to the Land Registration Act 2002
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+  - PART 3 Amendments to other Acts
+    - Law of Property Act 1925 (c. 20)
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Requisitioned Land and War Works Act 1948 (c. 17)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Cheshire County Council Act 1953 (c. xl)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Land Powers (Defence) Act 1958 (c. 30)
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Rights of Light Act 1959 (c. 56)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Leasehold Reform Act 1967 (c. 88)
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Land Compensation Act 1973 (c. 26)
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Interpretation Act 1978 (c. 30)
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - Highways Act 1980 (c. 66)
+      - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - Disused Burial Grounds (Amendment) Act 1981 (c. 18)
+      - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - Compulsory Purchase (Vesting Declarations) Act 1981 (c. 66)
+      - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+      - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - Local Government (Wales) Act 1994 (c. 19)
+      - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+  - PART 4 Transitional provision
+    - Power for Parts 1 and 3 to be applied gradually to local authority areas
+      - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - Duty of local authorities to assist Chief Land Registrar
+      - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - Continuity of functions
+      - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - Compensation
+      - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - Interpretation
+      - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+- SCHEDULE 6 Community electricity right regulations
+  - PART 1 The right to buy
+    - “Right to buy regulations”
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Kinds of facilities in relation to which right to buy exercisable
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Identification of qualifying facilities
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - The promoter
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - The community
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - The members of the community
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Kinds of stake which may be bought through the right to buy
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Particular kind of stake which may be bought in particular facility
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - The price of the stakes
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Total value of the offer
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - Buying a stake
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - Excessive or insufficient take-up
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - Subsequent disposal of a stake
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - PART 2 Operators, ownership & related matters
+    - “Operator and ownership regulations”
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Bodies that may be facility operators
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Constitutions of facility operators
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - Ownership of facility operators
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Conduct of owners of facility operators
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Revenues
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+  - PART 3 Information
+    - “Information regulations”
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Particular kinds of information
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Possible buyers of stakes
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Prospective buyers of stakes
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Applicants for stakes
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Owners of stakes
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+  - PART 4 Supplementary
+    - Interpretation
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+- SCHEDULE 7 The licensing levy
+  - The amount of the levy
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Basis of amount
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Amounts payable by different categories of licence holders
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Exemptions
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Unpaid levy
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Conferral of functions
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Categories of licence holders
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Interpretation
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
