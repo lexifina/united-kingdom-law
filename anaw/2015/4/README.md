@@ -1,0 +1,246 @@
+# Planning (Wales) Act 2015
+
+anaw/2015/4. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-12-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 36 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2015/4
+
+Source: https://www.legislation.gov.uk/anaw/2015/4/2025-12-15
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview of this Act](section/1.md)
+- PART 2 SUSTAINABLE DEVELOPMENT
+  - [s. 2 Sustainable development](section/2.md)
+- PART 3 DEVELOPMENT PLANNING
+  - National Development Framework for Wales
+    - [s. 3 Preparing and revising the National Development Framework for Wales](section/3.md)
+  - ...
+    - [s. 4 Designating strategic planning areas and establishing strategic planning panels](section/4.md)
+    - [s. 5 Strategic planning areas: survey](section/5.md)
+    - [s. 6 Preparing and revising strategic development plans](section/6.md)
+  - Status of National Development Framework and strategic development plans
+    - [s. 7 Conformity of certain plans and schemes with National Development Framework and strategic development plan](section/7.md)
+    - [s. 8 Duty to consider whether to review local development plan](section/8.md)
+    - [s. 9 National Development Framework and strategic development plan to form part of development plan](section/9.md)
+  - Blighted land
+    - [s. 10 Land affected by National Development Framework or strategic development plan](section/10.md)
+  - Local development plans
+    - [s. 11 Welsh language](section/11.md)
+    - [s. 12 Period for which local development plan has effect](section/12.md)
+    - [s. 13 Withdrawal of local development plan](section/13.md)
+    - [s. 14 Welsh Ministers’ power to direct preparation of joint local development plan](section/14.md)
+    - [s. 15 Joint planning boards: functions relating to surveys and local development plans](section/15.md)
+  - General
+    - [s. 16 Development planning: further amendments](section/16.md)
+- PART 4 PRE-APPLICATION PROCEDURE
+  - [s. 17 Requirement to carry out pre-application consultation](section/17.md)
+  - [s. 18 Requirement to provide pre-application services](section/18.md)
+- PART 5 APPLICATIONS TO WELSH MINISTERS
+  - Developments of national significance
+    - [s. 19 Developments of national significance: applications for planning permission](section/19.md)
+    - [s. 20 Developments of national significance: secondary consents](section/20.md)
+    - [s. 21 Developments of national significance: local impact reports](section/21.md)
+    - [s. 22 Timetable for determining applications](section/22.md)
+  - Option to make application to Welsh Ministers
+    - [s. 23 Option to make application to Welsh Ministers](section/23.md)
+  - General
+    - [s. 24 Further provision about applications made to Welsh Ministers](section/24.md)
+    - [s. 25 Power to make provision by development order in respect of applications to Welsh Ministers](section/25.md)
+    - [s. 26 Developments of national significance and applications made to Welsh Ministers: exercise of functions by appointed person](section/26.md)
+    - [s. 27 Applications to Welsh Ministers: further amendments](section/27.md)
+- PART 6 DEVELOPMENT MANAGEMENT ETC
+  - Requirements for applications to local planning authorities
+    - [s. 28 Power of local planning authority to require information with application](section/28.md)
+    - [s. 29 Invalid applications: notice and appeal](section/29.md)
+    - [s. 30 Revocation of saving of Town and Country Planning (Applications) Regulations 1988](section/30.md)
+  - Determination of applications for planning permission
+    - [s. 31 Welsh language](section/31.md)
+    - [s. 32 Power to decline to determine retrospective application](section/32.md)
+  - Decision notices and notification of development
+    - [s. 33 Decision notices](section/33.md)
+    - [s. 34 Notification of development](section/34.md)
+  - Duration of planning permission
+    - [s. 35 Duration of planning permission: general](section/35.md)
+    - [s. 36 Duration of outline planning permission](section/36.md)
+  - Consultation etc in respect of certain applications relating to planning permission
+    - [s. 37 Consultation etc in respect of certain applications relating to planning permission](section/37.md)
+  - Stopping up or diversion of public paths
+    - [s. 38 Stopping up or diversion of public paths where application for planning permission made](section/38.md)
+  - Exercise of functions of local planning authority relating to applications
+    - [s. 39 Exercise of functions of local planning authority relating to applications](section/39.md)
+  - Joint planning boards and National Parks
+    - [s. 40 Joint planning boards to be hazardous substances authorities](section/40.md)
+    - [s. 41 Power to make provision enabling joint planning boards to exercise development management functions in National Parks](section/41.md)
+    - [s. 42 Joint planning boards: power to make consequential and supplementary provision](section/42.md)
+- PART 7 ENFORCEMENT, APPEALS ETC
+  - Enforcement
+    - [s. 43 Breach of planning control: enforcement warning notice](section/43.md)
+    - [s. 44 Appeal against enforcement notice: deemed application for planning permission](section/44.md)
+  - Appeals
+    - [s. 45 Restrictions on right to appeal against planning decisions](section/45.md)
+    - [s. 46 Restrictions on right to appeal against enforcement notice](section/46.md)
+    - [s. 47 No variation of application after service of notice of appeal against planning decision etc](section/47.md)
+    - [s. 48 Appeal against notice in respect of land adversely affecting amenity](section/48.md)
+  - Appeals etc: costs and procedure
+    - [s. 49 Costs on applications, appeals and references](section/49.md)
+    - [s. 50 Procedure for certain proceedings](section/50.md)
+    - [s. 51 Costs and procedure on appeals etc: further amendments](section/51.md)
+- PART 8 TOWN AND VILLAGE GREENS
+  - [s. 52 Statement by owner to end use of land as of right](section/52.md)
+  - [s. 53 Exclusion of right to apply for registration](section/53.md)
+  - [s. 54 Applications to amend registers: power to make provision about fees](section/54.md)
+- PART 9 GENERAL PROVISIONS
+  - [s. 55 Regulations and orders made by Welsh Ministers](section/55.md)
+  - [s. 56 Interpretation](section/56.md)
+  - [s. 57 Power to make consequential etc provision](section/57.md)
+  - [s. 58 Coming into force](section/58.md)
+  - [s. 59 Short title](section/59.md)
+- SCHEDULE 1 STRATEGIC PLANNING PANELS
+  - PART 1 CONSTITUTION AND FINANCIAL ARRANGEMENTS OF PANELS
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - PART 2 FURTHER AMENDMENTS
+    - Local Authorities (Goods and Services) Act 1970 (c. 39)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Local Government Act 1972 (c. 70)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Welsh Language (Wales) Measure 2011 (nawm 1)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Local Government (Wales) Measure 2011 (nawm 4)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 DEVELOPMENT PLANNING: FURTHER AMENDMENTS
+  - Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - ...
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - ...
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - ...
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - ...
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Natural Environment and Rural Communities Act 2006 (c. 16)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Government of Wales Act 2006 (c. 32)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - ...
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - Marine and Coastal Access Act 2009 (c. 23)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+- SCHEDULE 3 DEVELOPMENTS OF NATIONAL SIGNIFICANCE AND APPLICATIONS MADE TO WELSH MINISTERS: EXERCISE OF FUNCTIONS BY APPOINTED PERSON
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 APPLICATIONS TO WELSH MINISTERS: FURTHER AMENDMENTS
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+- SCHEDULE 5 COSTS AND PROCEDURE ON APPEALS ETC: FURTHER AMENDMENTS
+  - Highways Act 1980 (c. 66)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - ...
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+  - Planning (Hazardous Substances) Act 1990 (c. 10)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+- SCHEDULE 6 TOWN AND VILLAGE GREENS: NEW SCHEDULE 1B TO THE COMMONS ACT 2006
+- SCHEDULE 7 REGULATIONS AND ORDERS MADE BY WELSH MINISTERS
+  - Regulations under PCPA 2004
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Regulations under TCPA 1990
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Orders under TCPA 1990
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Regulations and orders under the Commons Act 2006
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
