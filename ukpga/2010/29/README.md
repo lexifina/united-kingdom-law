@@ -1,0 +1,311 @@
+# Flood and Water Management Act 2010
+
+2010 c. 29. Enacted 2010-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-12-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
+
+Source: https://www.legislation.gov.uk/ukpga/2010/29/2025-12-15
+
+## Contents
+
+- Part 1 Flood and Coastal Erosion Risk Management
+  - 1. Key concepts and definitions
+    - [s. 1 “Flood” and “coastal erosion”](section/1.md)
+    - [s. 2 “Risk”](section/2.md)
+    - [s. 3 “Risk management”](section/3.md)
+    - [s. 4 “Flood risk management function”](section/4.md)
+    - [s. 5 “Coastal erosion risk management function”](section/5.md)
+    - [s. 6 Other definitions](section/6.md)
+  - 2. Strategies, co-operation and funding
+    - [s. 7 National flood and coastal erosion risk management strategy: England](section/7.md)
+    - [s. 8 National flood and coastal erosion risk management strategy: Wales](section/8.md)
+    - [s. 9 Local flood risk management strategies: England](section/9.md)
+    - [s. 10 Local flood risk management strategies: Wales](section/10.md)
+    - [s. 11 Effect of national and local strategies: England](section/11.md)
+    - [s. 12 Effect of national and local strategies: Wales](section/12.md)
+    - [s. 13 Co-operation and arrangements](section/13.md)
+    - [s. 14 Power to request information](section/14.md)
+    - [s. 15 Civil sanctions](section/15.md)
+    - [s. 16 Funding](section/16.md)
+    - [s. 17 Levies](section/17.md)
+  - 3. Supplemental powers and duties
+    - [s. 18 Reports about flood and coastal erosion risk management](section/18.md)
+    - [s. 19 Local authorities: investigations](section/19.md)
+    - [s. 20 Ministerial directions](section/20.md)
+    - [s. 21 Lead local authorities: duty to maintain a register](section/21.md)
+  - 4. Regional Flood and Coastal Committees for regions in England
+    - [s. 22 Establishment](section/22.md)
+    - [s. 23 Consultation and consent](section/23.md)
+    - [s. 24 Membership](section/24.md)
+    - [s. 25 Money](section/25.md)
+    - [s. 26 “The Minister”](section/26.md)
+    - [s. 26A “The appropriate agency”](section/26A.md)
+  - 4A. Flood and Coastal Erosion Committee for Wales
+    - [s. 26B Establishment and functions](section/26B.md)
+    - [s. 26C Constitution](section/26C.md)
+    - [s. 26D Payments relating to members](section/26D.md)
+  - 5. General
+    - [s. 27 Sustainable development](section/27.md)
+    - [s. 28 Power to make further amendments](section/28.md)
+    - [s. 29 Restructuring](section/29.md)
+    - [s. 30 Designation of features](section/30.md)
+    - [s. 31 Amendment of other Acts](section/31.md)
+- Part 2 Miscellaneous
+  - [s. 32 Sustainable drainage](section/32.md)
+  - [s. 33 Reservoirs](section/33.md)
+  - [s. 34 Special administration](section/34.md)
+  - [s. 35 Provision of infrastructure](section/35.md)
+  - [s. 36 Water use: temporary bans](section/36.md)
+  - [s. 37 Civil sanctions](section/37.md)
+  - [s. 38 Incidental flooding or coastal erosion: appropriate agency](section/38.md)
+  - [s. 39 Incidental flooding or coastal erosion: local authorities](section/39.md)
+  - [s. 40 Building regulations: flood resistance](section/40.md)
+  - [s. 41 Compulsory works orders](section/41.md)
+  - [s. 42 Agreements on new drainage systems](section/42.md)
+  - [s. 43 Drainage: concessionary charges for community groups](section/43.md)
+  - [s. 44 Social tariffs](section/44.md)
+  - [s. 45 Water and sewerage charges: non-owner occupiers](section/45.md)
+  - [s. 46 Abolition of Fisheries Committee (Scotland)](section/46.md)
+- Part 3 General
+  - [s. 47 Pre-consolidation amendments](section/47.md)
+  - [s. 48 Subordinate legislation](section/48.md)
+  - [s. 49 Technical provision](section/49.md)
+- SCHEDULE 1 Risk Management: Designation of Features
+  - “Designating authority”
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - “Responsible authority”
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - “Owner”
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Designation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Effect of designation
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Consent to alteration, removal or replacement
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Provisional designation notice: procedure
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Designation notice: procedure
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Cancellation
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Notice to other authorities
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Enforcement notice
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Emergency powers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Powers of entry
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Compensation for owners and third parties
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Appeals
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Notices and applications
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - “The Minister”
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Risk Management: Amendment of Other Acts
+  - Coast Protection Act 1949
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Land Drainage Act 1991
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+  - Water Resources Act 1991
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+  - Water Industry Act 1991
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+  - Environment Act 1995
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+  - ...
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+- SCHEDULE 3 Sustainable Drainage
+  - “Drainage system”
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - “Sustainable drainage”
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Cross-border systems
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - “The Minister”
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - National standards
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Approving body
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Requirement for approval
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Applications for approval
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Free-standing application for approval
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Combined applications
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Determination of application for approval
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Non-performance bonds
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Fees
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Enforcement
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Guidance
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Sewers and roads
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Duty to adopt
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Exception 1: single-property systems
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Exception 2: roads
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Exception 3: systems under section 114A Water Industry Act 1991
+    - [Sch. 3 para. 19A](schedule/3/paragraph/19A.md)
+  - Additional exceptions
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Power to adopt
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Effect of adoption
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Process of adoption in pursuance of duty to adopt
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - Process of voluntary adoption
+    - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - Appeals
+    - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - Building Act 1984
+    - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - New Roads and Street Works Act 1991
+    - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Works on public land
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+- SCHEDULE 4 Reservoirs
+  - Introduction
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - “Large raised reservoir”
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Registration
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - High-risk reservoirs
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Panels of engineers
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Construction and alteration
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - High-risk reservoirs: inspections
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - High-risk reservoirs: monitoring and supervision
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - Flood plans
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - Discontinuance
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - Abandonment
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - Powers of entry
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+  - Appeals
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - Directions of engineers
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+  - Assessment of reports and statements
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - Information and reports
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+  - Enforcement: supplementary
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - Arrangements for civil protection: charges
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+  - Regulations and orders
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+  - Charges
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+  - Power to make further provision
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+  - Regulatory impact assessment
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - Ministerial responsibility
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+  - Cross-border England-Scotland reservoirs
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+- SCHEDULE 5 Special Administration
+  - Transfer schemes
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Objectives
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Financial assistance
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Hive down
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Application of general administration law
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Strategic supplies
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
