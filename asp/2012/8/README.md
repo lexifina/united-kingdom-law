@@ -1,0 +1,493 @@
+# Police and Fire Reform (Scotland) Act 2012
+
+asp/2012/8. Enacted 2012-08-07.
+
+The files here are the text legislation.gov.uk publishes as in force from 2025-12-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2012/8
+
+Source: https://www.legislation.gov.uk/asp/2012/8/2025-12-29
+
+## Contents
+
+- PART 1 Police reform
+  - CHAPTER 1 The Scottish Police Authority
+    - [s. 1 The Scottish Police Authority](section/1.md)
+    - [s. 2 Functions of the Authority](section/2.md)
+    - [s. 3 Maintenance of the police](section/3.md)
+    - [s. 4 General powers of the Authority](section/4.md)
+    - [s. 5 Directions](section/5.md)
+  - CHAPTER 2 The Police Service of Scotland
+    - The Police Service of Scotland
+      - [s. 6 The Police Service of Scotland](section/6.md)
+    - Constables: appointment, ranks and terms of office
+      - [s. 7 Senior officers](section/7.md)
+      - [s. 8 Regular constables](section/8.md)
+      - [s. 9 Special constables](section/9.md)
+      - [s. 10 Constable’s declaration](section/10.md)
+      - [s. 11 Ranks](section/11.md)
+      - [s. 12 Constables: terms of office](section/12.md)
+      - [s. 13 Rewards](section/13.md)
+      - [s. 14 Senior officers: resignation or retirement for efficiency or effectiveness](section/14.md)
+      - [s. 15 Temporary service outwith the Police Service of Scotland](section/15.md)
+      - [s. 16 Temporary service as constable of the Police Service of Scotland](section/16.md)
+    - Chief constable
+      - [s. 17 Chief constable’s responsibility for the policing of Scotland](section/17.md)
+      - [s. 18 Delegation of chief constable’s functions](section/18.md)
+    - Functions of constables
+      - [s. 19 Constables: functions and jurisdiction](section/19.md)
+      - [s. 20 Constables: general duties](section/20.md)
+      - [s. 21 Direction and control of the Police Service](section/21.md)
+      - [s. 22 Failure to perform duty](section/22.md)
+      - [s. 23 Failure to return equipment](section/23.md)
+      - [s. 24 Liability for unlawful conduct](section/24.md)
+    - Police cadets
+      - [s. 25 Police cadets](section/25.md)
+    - Police staff
+      - [s. 26 Police staff](section/26.md)
+      - [s. 27 Terms and conditions of police staff](section/27.md)
+      - [s. 28 Police custody and security officers](section/28.md)
+      - [s. 29 Certification of police custody and security officers](section/29.md)
+      - [s. 30 False statements in relation to certification](section/30.md)
+  - CHAPTER 3 Forensic services
+    - [s. 31 Forensic services](section/31.md)
+  - CHAPTER 4 Principles, priorities, objectives and plans
+    - [s. 32 Policing principles](section/32.md)
+    - [s. 33 Strategic police priorities](section/33.md)
+    - [s. 34 Strategic police plan](section/34.md)
+    - [s. 35 Annual police plans](section/35.md)
+    - [s. 36 Planning functions: considerations](section/36.md)
+  - CHAPTER 4A Code of ethics
+    - [s. 36A Code of ethics](section/36A.md)
+    - [s. 36B Preparation and revision of the code of ethics](section/36B.md)
+  - CHAPTER 4B Vetting code of practice
+    - [s. 36C Vetting code of practice](section/36C.md)
+    - [s. 36D Preparation and revision of the code of vetting practice](section/36D.md)
+  - CHAPTER 5 Best value
+    - [s. 37 Best value](section/37.md)
+    - [s. 38 Best value: further provision](section/38.md)
+  - CHAPTER 6 Annual reports, accounts, audit and examination
+    - [s. 39 The Scottish Police Authority’s annual report](section/39.md)
+    - [s. 40 Accounts](section/40.md)
+    - [s. 41 Audit](section/41.md)
+    - [s. 42 Examination of Police Service by Auditor General](section/42.md)
+    - [s. 43 Examinations of Scottish Police Authority by Auditor General](section/43.md)
+  - CHAPTER 7 Local policing
+    - [s. 44 Local policing](section/44.md)
+    - [s. 45 Local authority role in policing](section/45.md)
+    - [s. 46 Duty to participate in community planning](section/46.md)
+    - [s. 47 Local police plans](section/47.md)
+  - CHAPTER 8 Governance and administration of police
+    - [s. 48 Governance and administration of police](section/48.md)
+    - [s. 49 Appointments, promotions etc.](section/49.md)
+    - [s. 50 Conditions of service](section/50.md)
+    - [s. 50A Ongoing vetting](section/50A.md)
+    - [s. 51 Regulations: duties](section/51.md)
+    - [s. 52 Disciplinary procedures: conduct and performance](section/52.md)
+    - [s. 53 Personal records](section/53.md)
+    - [s. 54 Consultation on regulations](section/54.md)
+    - [s. 55 Regulations: supplementary](section/55.md)
+  - CHAPTER 8A POLICE NEGOTIATING BOARD FOR SCOTLAND
+    - [s. 55A Establishment of the PNBS](section/55A.md)
+    - [s. 55B Representations about pay etc.](section/55B.md)
+    - [s. 55C Representations on other matters](section/55C.md)
+    - [s. 55D Steps following arbitration](section/55D.md)
+    - [s. 55E Reporting by the PNBS](section/55E.md)
+  - CHAPTER 9 APPEALS TO THE FIRST-TIER TRIBUNAL
+    - [s. 56 Right to appeal to the First-tier Tribunal](section/56.md)
+    - [s. 57 Representation](section/57.md)
+    - [s. 58 Determinations by tribunal](section/58.md)
+    - [s. 59 Powers to obtain information](section/59.md)
+  - CHAPTER 9A Advisory list and barred list
+    - [s. 59A Scottish police advisory list and Scottish police barred list](section/59A.md)
+  - CHAPTER 10 Complaints and investigations
+    - [s. 60 Complaints handling](section/60.md)
+    - [s. 61 The Police Investigations and Review Commissioner](section/61.md)
+    - [s. 62 General functions of the Police Investigations and Review Commissioner](section/62.md)
+    - [s. 63 Investigations under supervision of Lord Advocate or procurator fiscal](section/63.md)
+    - [s. 64 Serious incidents involving the police](section/64.md)
+    - [s. 65 Investigations of other matters in the public interest](section/65.md)
+    - [s. 66 Investigations: procedure etc.](section/66.md)
+    - [s. 67 Reports on investigations](section/67.md)
+    - [s. 68 Investigations: obstruction and contempt](section/68.md)
+    - [s. 69 Complaints against the Commissioner](section/69.md)
+    - [s. 70 Protection from actions for defamation](section/70.md)
+  - CHAPTER 11 Her Majesty’s inspectors of constabulary in Scotland
+    - [s. 71 Her Majesty’s inspectors of constabulary in Scotland](section/71.md)
+    - [s. 72 Assistant inspectors of constabulary](section/72.md)
+    - [s. 73 Staff officers](section/73.md)
+    - [s. 74 Functions of inspectors](section/74.md)
+    - [s. 75 HMICS plan](section/75.md)
+    - [s. 76 HMICS powers](section/76.md)
+    - [s. 77 Duty to assist and co-operate with HMICS](section/77.md)
+    - [s. 78 HMICS reports: inquiries directed by Scottish Ministers](section/78.md)
+    - [s. 79 HMICS reports: other inquiries](section/79.md)
+    - [s. 80 Inquiry reports: consideration and action](section/80.md)
+    - [s. 81 Power to give directions after adverse HMICS report](section/81.md)
+    - [s. 82 HMICS annual report](section/82.md)
+  - CHAPTER 12 Co-operation, exchange of information etc.
+    - [s. 83 Co-operation between Scottish Police Authority and Police Service](section/83.md)
+    - [s. 84 Police information](section/84.md)
+    - [s. 85 Scrutiny and investigations: co-operation and information sharing](section/85.md)
+  - CHAPTER 13 Provision of goods and services
+    - [s. 86 Provision of police services](section/86.md)
+    - [s. 87 Provision of other goods and services](section/87.md)
+  - CHAPTER 14 Grants
+    - [s. 88 Police grants](section/88.md)
+    - [s. 89 Grants to other persons](section/89.md)
+  - CHAPTER 15 Offences
+    - [s. 90 Assaulting or impeding police](section/90.md)
+    - [s. 91 Escape from custody](section/91.md)
+    - [s. 92 Impersonation etc.](section/92.md)
+  - CHAPTER 16 Independent custody visiting
+    - [s. 93 Purpose of custody visiting](section/93.md)
+    - [s. 94 Independent custody visiting](section/94.md)
+    - [s. 95 SPT visits](section/95.md)
+    - [s. 96 Interpretation of Chapter 16](section/96.md)
+  - CHAPTER 17 Miscellaneous and general
+    - [s. 97 Dissolution of the Police Advisory Board for Scotland](section/97.md)
+    - [s. 98 Transitional and transitory provision](section/98.md)
+    - [s. 99 Interpretation of Part 1](section/99.md)
+    - [s. 100 Crown application](section/100.md)
+- PART 2 Fire reform
+  - The Scottish Fire and Rescue Service
+    - [s. 101 The Scottish Fire and Rescue Service](section/101.md)
+  - Functions
+    - [s. 102 Promotion of fire safety](section/102.md)
+    - [s. 103 Fire safety: enforcement](section/103.md)
+    - [s. 104 Fire-fighting](section/104.md)
+    - [s. 105 Road traffic accidents](section/105.md)
+    - [s. 106 Conferral of functions in relation to other emergencies](section/106.md)
+    - [s. 107 Power to respond to other eventualities](section/107.md)
+    - [s. 108 Provision of other services](section/108.md)
+    - [s. 109 Provision of centres for education and training](section/109.md)
+    - [s. 110 Charging](section/110.md)
+  - Further amendments of 2005 Act
+    - [s. 111 Assistance](section/111.md)
+    - [s. 112 Delegation](section/112.md)
+    - [s. 113 Best value](section/113.md)
+    - [s. 114 Strategic plan](section/114.md)
+    - [s. 115 Local fire and rescue plans](section/115.md)
+    - [s. 116 Annual report](section/116.md)
+    - [s. 117 Provision of information](section/117.md)
+    - [s. 118 Directions by Scottish Ministers](section/118.md)
+    - [s. 119 Inspectors of SFRS](section/119.md)
+    - [s. 120 Prohibition on employment of police](section/120.md)
+  - General
+    - [s. 121 Transfer of staff, property etc.](section/121.md)
+    - [s. 122 SFRS: transitory provision](section/122.md)
+    - [s. 123 Meaning of “the 2005 Act”](section/123.md)
+- PART 3 GENERAL
+  - [s. 124 Parliamentary scrutiny of operation of Act](section/124.md)
+  - [s. 125 Subordinate legislation](section/125.md)
+  - [s. 126 Ancillary provision](section/126.md)
+  - [s. 127 Transitional provision etc.](section/127.md)
+  - [s. 128 Minor and consequential amendments and repeals](section/128.md)
+  - [s. 129 Commencement](section/129.md)
+  - [s. 130 Short title](section/130.md)
+- SCHEDULE 1 The Scottish Police Authority
+  - PART 1 Status, structure and governance
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Membership
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Disqualification
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Tenure
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Removal from office
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Staff of the Authority
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Constables: temporary service with the Scottish Police Authority
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Terms and conditions of the Authority’s staff
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Committees and sub-committees
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Procedure
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Public access
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Delegation of functions
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Location of principal offices
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - PART 2 Consequential modifications
+    - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Freedom of Information (Scotland) Act 2002 (asp 13)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Public Services Reform (Scotland) Act 2010 (asp 8)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Public Records (Scotland) Act 2011 (asp 12)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+- SCHEDULE 2 Police custody and security officers: powers and duties
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 2ZA Persons to be consulted in respect of the Code of Ethics for Policing in Scotland
+  - [Sch. 2ZA para. 1](schedule/2ZA/paragraph/1.md)
+  - [Sch. 2ZA para. 2](schedule/2ZA/paragraph/2.md)
+  - [Sch. 2ZA para. 3](schedule/2ZA/paragraph/3.md)
+  - [Sch. 2ZA para. 4](schedule/2ZA/paragraph/4.md)
+  - [Sch. 2ZA para. 5](schedule/2ZA/paragraph/5.md)
+  - [Sch. 2ZA para. 6](schedule/2ZA/paragraph/6.md)
+  - [Sch. 2ZA para. 7](schedule/2ZA/paragraph/7.md)
+  - [Sch. 2ZA para. 8](schedule/2ZA/paragraph/8.md)
+  - [Sch. 2ZA para. 9](schedule/2ZA/paragraph/9.md)
+  - [Sch. 2ZA para. 10](schedule/2ZA/paragraph/10.md)
+  - [Sch. 2ZA para. 11](schedule/2ZA/paragraph/11.md)
+  - [Sch. 2ZA para. 12](schedule/2ZA/paragraph/12.md)
+- SCHEDULE 2A POLICE NEGOTIATING BOARD FOR SCOTLAND
+  - Status of the PNBS
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Chairing and membership
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Temporary chairperson
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Disqualification from chairing
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Constitution and procedure etc.
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+  - Process of arbitration
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+  - Remuneration and expenses
+    - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+- SCHEDULE 3 Police appeals tribunals
+  - Constitution and membership
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Member remuneration, allowances and expenses
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Expenses of proceedings
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Police appeals tribunal rules
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Period before establishment of Police Service
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Transfer of constables, staff and property etc.
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Appointed day
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Constables to continue to hold office and rank
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Senior officers appointed under section 7
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Senior officers
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Constables serving in police forces
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Constables serving in SPSA or SCDEA
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Constables – temporary service arrangements
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Acts done before transfer
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Limitation on mobility of transferred constables
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Transfer of police staff
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Staff transfer scheme
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Police staff appointed under contract for services
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Police cadets
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Police custody and security officers
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Her Majesty’s inspectorate of constabulary in Scotland
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Police property transfer scheme: transfers to Scottish Police Authority
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Property transfer scheme: transfers to local authorities
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Property transfer schemes: general
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Transfer of liabilities of chief constables etc.
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 Transfer of staff, property etc.
+  - Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Joint board staff
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Local authority staff and civil servants
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Transfers under paragraph 3: effect on contract of employment
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Property transfer scheme: transfers to SFRS
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Property transfer scheme: transfers to local authorities
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Property transfer schemes: general
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Transfer schemes: additional provision
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - PART 1 Amendments relating to Part 1
+    - Police (Scotland) Act 1967 (c.77)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Health and Safety at Work etc. Act 1974 (c.37)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Rehabilitation of Offenders Act 1974 (c.53)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Slaughter of Animals (Scotland) Act 1980 (c.13)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1980 (c.55)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Civic Government (Scotland) Act 1982 (c.45)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Roads (Scotland) Act 1984 (c.54)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Prisons (Scotland) Act 1989 (c.45)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Criminal Justice and Public Order Act 1994 (c.33)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Local Government etc. (Scotland) Act 1994 (c.39)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Children (Scotland) Act 1995 (c.36)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Criminal Procedure (Scotland) Act 1995 (c.46)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Police Act 1996 (c.16)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Police Act 1997 (c.50)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Regulation of Investigatory Powers (Scotland) Act 2000 (asp 11)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Transport (Scotland) Act 2001 (asp 2)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - International Criminal Court (Scotland) Act 2001 (asp 13)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Protection from Abuse (Scotland) Act 2001 (asp 14)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Scottish Public Services Ombudsman Act 2002 (asp 11)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Freedom of Information (Scotland) Act 2002 (asp 13)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Criminal Justice (Scotland) Act 2003 (asp 7)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Dog Fouling (Scotland) Act 2003 (asp 12)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Emergency Workers (Scotland) Act 2005 (asp 2)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Protection of Children and Prevention of Sexual Offences (Scotland) Act 2005 (asp 9)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Charities and Trustee Investment (Scotland) Act 2005 (asp 10)
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - Management of Offenders etc. (Scotland) Act 2005 (asp 14)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Licensing (Scotland) Act 2005 (asp 16)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - Housing (Scotland) Act 2006 (asp 1)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Edinburgh Tram (Line Two) Act 2006 (asp 6)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Edinburgh Tram (Line One) Act 2006 (asp 7)
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Animal Health and Welfare (Scotland) Act 2006 (asp 11)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - Adult Support and Protection (Scotland) Act 2007 (asp 10)
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Protection of Vulnerable Groups (Scotland) Act 2007 (asp 14)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - Edinburgh Airport Rail Link Act 2007 (asp 16)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - Glasgow Commonwealth Games Act 2008 (asp 4)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - Marine (Scotland) Act 2010 (asp 5)
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - Public Services Reform (Scotland) Act 2010 (asp 8)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - Control of Dogs (Scotland) Act 2010 (asp 9)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - Alcohol etc. (Scotland) Act 2010 (asp 18)
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - Children’s Hearings (Scotland) Act 2011 (asp 1)
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - Public Records (Scotland) Act 2011 (asp 12)
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+  - PART 2 AMENDMENTS RELATING TO PART 2
+    - Gas Act 1965 (c.36)
+      - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - Transport Act 1968 (c.73)
+      - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - Pensions (Increase) Act 1971 (c.56)
+      - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - Health and Safety at Work etc. Act 1974 (c.37)
+      - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - Control of Pollution Act 1974 (c.40)
+      - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - Water (Scotland) Act 1980 (c.45)
+      - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - Zoo Licensing Act 1981 (c.37)
+      - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - Civic Government (Scotland) Act 1982 (c.45)
+      - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - Road Traffic Regulation Act 1984 (c.27)
+      - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - Cinemas Act 1985 (c.13)
+      - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+    - Housing (Scotland) Act 1987 (c.26)
+      - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - Strathclyde Regional Council Order Confirmation Act 1991 (c.xx)
+      - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+    - Vehicle Excise and Registration Act 1994 (c.22)
+      - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+    - Merchant Shipping Act 1995 (c.21)
+      - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+    - Scottish Borders Council (Jim Clark Memorial Rally) Order Confirmation Act 1996 (c.xii)
+      - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+    - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+      - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+    - Scottish Public Services Ombudsman Act 2002 (asp 11)
+      - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+    - Freedom of Information (Scotland) Act 2002 (asp 13)
+      - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+    - Local Government in Scotland Act 2003 (asp 1)
+      - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+    - Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)
+      - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - Fire and Rescue Services Act 2004 (c.21)
+      - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+    - Emergency Workers (Scotland) Act 2005 (asp 2)
+      - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - Fire (Scotland) Act 2005 (asp 5)
+      - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+    - Gambling Act 2005 (c.19)
+      - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+    - Housing (Scotland) Act 2006 (asp 1)
+      - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+    - Corporate Manslaughter and Corporate Homicide Act 2007 (c.19)
+      - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+    - Public Services Reform (Scotland) Act 2010 (asp 8)
+      - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+    - Public Records (Scotland) Act 2011 (asp 12)
+      - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+  - PART 3 AMENDMENTS RELATING TO BOTH PARTS
+    - Pipe-lines Act 1962 (c.58)
+      - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - Local Government etc. (Scotland) Act 1994 (c.39)
+      - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+- SCHEDULE 8 Repeals
+  - PART 1 Repeals relating to Part 1
+  - PART 2 Repeals relating to Part 2
+  - PART 3 Repeals relating to both Parts
