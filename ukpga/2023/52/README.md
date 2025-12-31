@@ -2,9 +2,9 @@
 
 2023 c. 52. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-12-02, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/52` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2025-12-31, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/52` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/52/2025-12-02
+Source: https://www.legislation.gov.uk/ukpga/2023/52/2025-12-31
 
 ## Contents
 
@@ -246,6 +246,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/52/2025-12-02
     - [s. 163 Duty to promote particular objectives](section/163.md)
     - [s. 164 Duty to have regard to particular matters](section/164.md)
     - [s. 165 Duty to have regard to strategy and policy statement](section/165.md)
+    - [s. 165A Functions relating to network connections: duty to have regard to designated plans](section/165A.md)
   - Licences
     - [s. 166 Licensing of electricity system operator activity](section/166.md)
     - [s. 167 Direction for transmission licence to have effect as electricity system operator licence](section/167.md)
