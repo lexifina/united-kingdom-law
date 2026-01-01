@@ -1,0 +1,174 @@
+# Legislation (Wales) Act 2019
+
+anaw/2019/4. Enacted 2019-09-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 27 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2019/4
+
+Source: https://www.legislation.gov.uk/anaw/2019/4/2026-01-01
+
+## Contents
+
+- PART 1 ACCESSIBILITY OF WELSH LAW
+  - [s. 1 Duty to keep accessibility of Welsh law under review](section/1.md)
+  - [s. 2 Programme to improve accessibility of Welsh law](section/2.md)
+- PART 2 INTERPRETATION AND OPERATION OF WELSH LEGISLATION
+  - Application and effect of Part
+    - [s. 3 Legislation to which this Part applies](section/3.md)
+    - [s. 4 Effect of provisions in this Part](section/4.md)
+  - Bilingual Welsh legislation
+    - [s. 5 Equal status of Welsh and English language texts](section/5.md)
+  - Meaning of words and expressions used in Welsh legislation
+    - [s. 6 Definitions of words and expressions](section/6.md)
+    - [s. 7 Words in the singular include the plural and vice versa](section/7.md)
+    - [s. 8 Words denoting a gender are not limited to that gender](section/8.md)
+    - [s. 9 Variations of a word or expression due to grammar etc.](section/9.md)
+    - [s. 10 References to time of day](section/10.md)
+    - [s. 11 References to the Sovereign](section/11.md)
+    - [s. 12 Measurement of distance](section/12.md)
+  - Laying documents before Senedd Cymru
+    - [s. 12A Meaning of references to laying documents before Senedd Cymru](section/12A.md)
+  - Service of documents by post or electronically
+    - [s. 13 Service of documents by post or electronically](section/13.md)
+    - [s. 14 Day on which service is deemed to be effected](section/14.md)
+  - Powers and duties
+    - [s. 15 Continuity of powers and duties](section/15.md)
+    - [s. 16 Exercise of a power or duty that is not in force](section/16.md)
+    - [s. 17 Inclusion of sunset provisions and review provisions in subordinate legislation](section/17.md)
+    - [s. 18 Revoking, amending and re-enacting subordinate legislation](section/18.md)
+    - [s. 19 Amendment of subordinate legislation by an Act of Senedd Cymru](section/19.md)
+    - [s. 20 Varying and withdrawing directions](section/20.md)
+  - References in Welsh legislation to legislation and other documents
+    - [s. 21 References to portions of enactments, instruments and documents](section/21.md)
+    - [s. 22 Edition of Act of Senedd Cymru or Assembly Measure referred to](section/22.md)
+    - [s. 23 Edition of Act of the Parliament of the United Kingdom referred to](section/23.md)
+    - [s. 24 References to direct EU legislation retained in domestic law after EU exit](section/24.md)
+    - [s. 25 References to enactments are to enactments as amended](section/25.md)
+    - [s. 25A References to relevant separation agreement law](section/25A.md)
+    - [s. 26 References to certain EU instruments](section/26.md)
+  - Duplication of criminal offences
+    - [s. 27 Duplicated offences](section/27.md)
+  - Application to the Crown
+    - [s. 28 Application of Welsh legislation to the Crown](section/28.md)
+  - Coming into force of legislation
+    - [s. 29 Time when Welsh legislation comes into force](section/29.md)
+    - [s. 30 Day on which an Act of Senedd Cymru comes into force](section/30.md)
+    - [s. 31 Orders and regulations bringing Acts of Senedd Cymru into force](section/31.md)
+  - Amendment, repeal and revocation of legislation
+    - [s. 32 Amendments made to or by Welsh legislation](section/32.md)
+    - [s. 33 Repeals and revocations do not revive law previously repealed, revoked or abolished](section/33.md)
+    - [s. 34 General savings in connection with repeals and revocations](section/34.md)
+    - [s. 35 Effect of re-enactment](section/35.md)
+    - [s. 36 Referring to an Act of Senedd Cymru or Welsh subordinate instrument after repeal or revocation](section/36.md)
+    - [s. 37 Interpretation of provisions about amendment, repeal and revocation in this Part](section/37.md)
+- PART 2A PROCEDURE FOR MAKING WELSH SUBORDINATE LEGISLATION
+  - Introduction
+    - [s. 37A Welsh statutory instruments](section/37A.md)
+    - [s. 37B Interpretation](section/37B.md)
+  - Senedd subordinate legislation procedures
+    - [s. 37C Senedd approval procedure](section/37C.md)
+    - [s. 37D Senedd confirmation procedure](section/37D.md)
+    - [s. 37E Senedd annulment procedure](section/37E.md)
+    - [s. 37F Other Welsh statutory instruments to be laid before Senedd Cymru](section/37F.md)
+    - [s. 37G Combining subordinate legislation subject to different Senedd procedures](section/37G.md)
+  - Existing powers to make subordinate legislation subject to parliamentary procedure
+    - [s. 37H Application of this Part in different circumstances](section/37H.md)
+- PART 2B PUBLICATION ETC. OF WELSH LEGISLATION
+  - Introduction
+    - [s. 37I The King’s Printer for Wales](section/37I.md)
+  - Preservation and publication of Acts of Senedd Cymru
+    - [s. 37J Numbering of Acts of Senedd Cymru](section/37J.md)
+    - [s. 37K Official prints and certified copies of Acts of Senedd Cymru](section/37K.md)
+    - [s. 37L Preservation of Acts of Senedd Cymru](section/37L.md)
+    - [s. 37M Publication of Acts of Senedd Cymru](section/37M.md)
+  - Preservation and publication of Welsh statutory instruments
+    - [s. 37N Official versions and certified copies of Welsh statutory instruments](section/37N.md)
+    - [s. 37O Preservation of Welsh statutory instruments](section/37O.md)
+    - [s. 37P Numbering and classification of Welsh statutory instruments](section/37P.md)
+    - [s. 37Q Publication of Welsh statutory instruments](section/37Q.md)
+    - [s. 37R Publication of Welsh statutory instruments subject to Senedd confirmation procedure](section/37R.md)
+    - [s. 37S Proceedings for offence under unpublished Welsh statutory instrument: defence](section/37S.md)
+    - [s. 37T Draft Welsh statutory instruments](section/37T.md)
+  - Publication of Welsh legislation in up-to-date form
+    - [s. 37U Publication of effects of legislation](section/37U.md)
+    - [s. 37V Publication of Welsh legislation as amended](section/37V.md)
+  - Legislation record
+    - [s. 37W Record of Welsh legislation](section/37W.md)
+    - [s. 37X Evidential status of record](section/37X.md)
+  - King’s Printer for Wales: printing and selling
+    - [s. 37Y Printing and selling Welsh legislation and related documents](section/37Y.md)
+  - Publication of subordinate legislation not made by Welsh statutory instrument
+    - [s. 37Z Welsh Ministers to publish subordinate legislation not made by statutory instrument](section/37Z.md)
+  - General
+    - [s. 37Z1 References to Welsh statutory instruments](section/37Z1.md)
+    - [s. 37Z2 The King’s Printer for Wales: delegation of functions](section/37Z2.md)
+- PART 3 MISCELLANEOUS
+  - [s. 38 Power to replace descriptions of dates and times in Welsh legislation](section/38.md)
+  - [s. 39 Power to make subordinate legislation in different forms](section/39.md)
+  - [s. 40 Combining subordinate legislation subject to different Senedd procedures](section/40.md)
+  - [s. 40A Application of this Part in relation to the Welsh zone](section/40A.md)
+- PART 4 GENERAL
+  - [s. 41 Consequential amendments and repeals](section/41.md)
+  - [s. 42 Power to make additional provision to give full effect to this Act](section/42.md)
+  - [s. 42A Review of Parts 2A and 2B of this Act](section/42A.md)
+  - [s. 43 Regulations made under this Act](section/43.md)
+  - [s. 44 Coming into force of this Act](section/44.md)
+  - [s. 45 Short title](section/45.md)
+- SCHEDULE 1 DEFINITIONS OF WORDS AND EXPRESSIONS
+- SCHEDULE 1A APPLICATION OF PART 2A TO PRE-COMMENCEMENT ENACTMENTS
+  - [Sch. 1A para. 1 Interpretation](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Application of Schedule](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Instruments that may not be made or may not come into force unless a draft is laid before and approved by resolution of Senedd Cymru](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Instruments that may be made but must be confirmed by resolution of Senedd Cymru](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Instruments that may be made but are subject to annulment by resolution of Senedd Cymru](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6 Other instruments to be laid before Senedd Cymru](schedule/1A/paragraph/6.md)
+  - [Sch. 1A para. 7 Power to make amendments consequential upon this Schedule](schedule/1A/paragraph/7.md)
+- SCHEDULE 1B APPLICATION OF PART 2A TO JOINT OR COMPOSITE LEGISLATION
+  - PART 1 INTERPRETATION
+    - [Sch. 1B para. 1 Interpretation](schedule/1B/paragraph/1.md)
+  - PART 2 JOINT OR COMPOSITE INSTRUMENTS MADE UNDER PRE-COMMENCEMENT ENACTMENTS
+    - [Sch. 1B para. 2 Application of Part](schedule/1B/paragraph/2.md)
+    - [Sch. 1B para. 3 Instruments that may not be made or may not come into force unless a draft is laid before and approved by resolution of Senedd Cymru](schedule/1B/paragraph/3.md)
+    - [Sch. 1B para. 4 Instruments that may be made but must be confirmed by resolution of Senedd Cymru](schedule/1B/paragraph/4.md)
+    - [Sch. 1B para. 5 Instruments that may be made but are subject to annulment by resolution of Senedd Cymru](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6 Other instruments to be laid before Senedd Cymru](schedule/1B/paragraph/6.md)
+  - PART 3 JOINT OR COMPOSITE INSTRUMENTS MADE UNDER POST-COMMENCEMENT ENACTMENTS
+    - [Sch. 1B para. 7 Application of Part](schedule/1B/paragraph/7.md)
+    - [Sch. 1B para. 8 Application of Senedd approval procedure](schedule/1B/paragraph/8.md)
+    - [Sch. 1B para. 9 Application of Senedd confirmation procedure](schedule/1B/paragraph/9.md)
+    - [Sch. 1B para. 10 Application of Senedd annulment procedure](schedule/1B/paragraph/10.md)
+    - [Sch. 1B para. 11 Application of requirement to lay statutory instrument before Senedd Cymru](schedule/1B/paragraph/11.md)
+  - PART 4 MODIFIED SENEDD PROCEDURES FOR JOINT OR COMPOSITE INSTRUMENTS
+    - [Sch. 1B para. 12 Modified Senedd approval procedure](schedule/1B/paragraph/12.md)
+    - [Sch. 1B para. 13 Modified Senedd confirmation procedure](schedule/1B/paragraph/13.md)
+    - [Sch. 1B para. 14 Modified Senedd annulment procedure](schedule/1B/paragraph/14.md)
+    - [Sch. 1B para. 15 Modified procedure for laying statutory instrument before Senedd Cymru](schedule/1B/paragraph/15.md)
+  - PART 5 CONSEQUENTIAL AMENDMENTS
+    - [Sch. 1B para. 16 Power to make amendments consequential upon this Schedule](schedule/1B/paragraph/16.md)
+- SCHEDULE 1C APPLICATION OF PART 2A TO ORDERS IN COUNCIL
+  - PART 1 INTERPRETATION
+    - [Sch. 1C para. 1 Interpretation](schedule/1C/paragraph/1.md)
+  - PART 2 ORDERS IN COUNCIL MADE UNDER PRE-COMMENCEMENT ENACTMENTS
+    - [Sch. 1C para. 2 Application of Part](schedule/1C/paragraph/2.md)
+    - [Sch. 1C para. 3 Orders in Council that may not be made or may not come into force unless a draft is laid before and approved by resolution of Senedd Cymru](schedule/1C/paragraph/3.md)
+    - [Sch. 1C para. 4 Orders in Council that may be made but are subject to annulment by resolution of Senedd Cymru](schedule/1C/paragraph/4.md)
+    - [Sch. 1C para. 5 Other Orders in Council to be laid before Senedd Cymru](schedule/1C/paragraph/5.md)
+  - PART 3 ORDERS IN COUNCIL MADE UNDER POST-COMMENCEMENT ENACTMENTS
+    - [Sch. 1C para. 6 Application of Part](schedule/1C/paragraph/6.md)
+    - [Sch. 1C para. 7 Application of Senedd approval procedure](schedule/1C/paragraph/7.md)
+    - [Sch. 1C para. 8 Application of Senedd annulment procedure](schedule/1C/paragraph/8.md)
+    - [Sch. 1C para. 9 Application of requirement to lay statutory instrument before Senedd Cymru](schedule/1C/paragraph/9.md)
+  - PART 4 MODIFIED SENEDD PROCEDURES FOR ORDERS IN COUNCIL
+    - [Sch. 1C para. 10 Modified Senedd approval procedure](schedule/1C/paragraph/10.md)
+    - [Sch. 1C para. 11 Modified Senedd annulment procedure](schedule/1C/paragraph/11.md)
+    - [Sch. 1C para. 12 Modified procedure for laying statutory instrument before Senedd Cymru](schedule/1C/paragraph/12.md)
+  - PART 5 CONSEQUENTIAL AMENDMENTS
+    - [Sch. 1C para. 13 Power to make amendments consequential upon this Schedule](schedule/1C/paragraph/13.md)
+- SCHEDULE 2 CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - Interpretation Act 1978 (c. 30)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Government of Wales Act 2006 (c. 32)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Waste (Wales) Measure 2010 (nawm 8)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
