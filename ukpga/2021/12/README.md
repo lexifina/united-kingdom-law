@@ -2,9 +2,9 @@
 
 2021 c. 12. Enacted 2021-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-01-01, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. Earlier versions, from 2021-04-29, are in the history before it: `git log -- ukpga/2021/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/12/2024-01-01
+Source: https://www.legislation.gov.uk/ukpga/2021/12/2026-01-01
 
 ## Contents
 
@@ -24,7 +24,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/12/2024-01-01
   - [s. 12 Airport slot allocation](section/12.md)
 - PART 3 Unmanned aircraft
   - [s. 13 Powers of police officers and prison authorities](section/13.md)
-  - [s. 14 Powers of police officers relating to ANO 2016](section/14.md)
+  - [s. 14 Powers of police officers relating to ANO 2016 and the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025](section/14.md)
   - [s. 15 Fixed penalties for certain offences relating to unmanned aircraft](section/15.md)
   - [s. 16 Amendment and enforcement regulations](section/16.md)
   - [s. 17 Disclosures of information](section/17.md)
@@ -111,7 +111,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/12/2024-01-01
       - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
     - Meaning of “relevant unmanned aircraft offence”
       - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
-    - Meaning of “relevant offence under article 265B(3) of the ANO 2016”
+    - Meaning of “relevant offence under regulation 3(3) of the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025”
       - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
     - Meaning of “relevant offence under article 265E(7) of the ANO 2016”
       - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
@@ -125,7 +125,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/12/2024-01-01
     - Authorisations to interfere with property etc
       - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
       - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
-- SCHEDULE 9 Unmanned aircraft: powers of police officers relating to ANO 2016
+- SCHEDULE 9 Unmanned aircraft: powers of police officers relating to ANO 2016 and the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025
   - Provision by remote pilots of evidence of competency
     - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
   - Provision by remote pilots of information about UAS operators
