@@ -1,0 +1,130 @@
+# Agricultural Marketing Act 1958
+
+1958 c. 47. Enacted 1958-07-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/6-7/47
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/6-7/47/2026-01-01
+
+## Contents
+
+- Part I Agricultural Marketing Schemes
+  - Submission and approval of schemes and procedure for determining whether scheme to remain in force
+    - [s. 1 Submission of schemes.](section/1.md)
+    - [s. 2 Approval of schemes.](section/2.md)
+    - [s. 3 Constitution of boards to administer schemes and appointment of executive committees.](section/3.md)
+    - [s. 4 Registration of producers and taking of poll of registered producers on question whether scheme to remain in force.](section/4.md)
+    - [s. 5 Information to be furnished for purposes of register, etc.](section/5.md)
+  - Provisions as to regulation of marketing and other matters which must or may be included in schemes
+    - [s. 6 Regulation of sales of regulated products.](section/6.md)
+    - [s. 7 Further provisions as to marketing of regulated product and provisions for encouragement of co-operation, education and research.](section/7.md)
+    - [s. 8 Miscellaneous provisions of schemes.](section/8.md)
+  - Imposition of penalties, etc.
+    - [s. 9 Disciplinary provisions of schemes.](section/9.md)
+    - [s. 10 Losses sustained by boards to be recoverable in the same way as penalties.](section/10.md)
+    - [s. 11 Power to postpone imposition of penalty.](section/11.md)
+    - [s. 12 Enforcement of decisions of disciplinary committee and power to state cases.](section/12.md)
+  - Financial powers and duties of boards
+    - [s. 13 Schemes to provide for establishment of a fund, payment of contributions, etc.](section/13.md)
+    - [s. 14 Power of boards to make loans and grants and to enter into guarantees.](section/14.md)
+    - [s. 15 Borrowing power of boards and provisions as to loans and grants made to boards.](section/15.md)
+    - [s. 16 Investment of surplus funds of boards.](section/16.md)
+  - Effect of schemes on contracts
+    - [s. 17 Effect of schemes on contracts.](section/17.md)
+    - [s. 18 Registration of certain contracts.](section/18.md)
+  - Relations of Boards with Ministers, etc.
+    - [s. 19 Consumers’ committees and committees of investigation.](section/19.md)
+    - [s. 19A](section/19A.md)
+    - [s. 20 Directions by Ministers to boards as respects certain matters.](section/20.md)
+    - [s. 21 Temporary directions by Ministers.](section/21.md)
+  - Agricultural Marketing Funds
+    - [s. 22 Agricultural Marketing Funds.](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 Short-term loans.](section/24.md)
+    - [s. 25 Long-term loans.](section/25.md)
+  - Agricultural Marketing Reorganisation Commissions
+    - [s. 26 Constitution and functions of Agricultural Marketing Reorganisation Commissions.](section/26.md)
+    - [s. 27 Functions of Agricultural Marketing Reorganisation Commission for Scotland may be discharged by other bodies.](section/27.md)
+  - Payment of certain expenses incurred in connection with the preparation of schemes, etc.
+    - [s. 28 Payment of certain expenses by boards.](section/28.md)
+    - [s. 29 Payment of certain expenses out of agricultural marketing funds.](section/29.md)
+  - Supplementary
+    - [s. 30 Report to be laid before Parliament.](section/30.md)
+    - [s. 31 Consultation between boards and other persons.](section/31.md)
+    - [s. 32 General provisions as to commissions and committees.](section/32.md)
+    - [s. 33 Benefit accruing from Part I to be disregarded in fixing rent under Small Landholders (Scotland) Acts, etc.](section/33.md)
+- Part II Provisions as to Milk Marketing Boards and Milk Marketing Schemes
+  - [s. 34 Powers of milk marketing boards to make payments to registered producers and other persons in certain cases.](section/34.md)
+  - [s. 35 Powers of milk marketing boards to determine places, etc., where milk may be sold by registered producers.](section/35.md)
+  - [s. 36 Powers of milk marketing boards to provide artificial insemination services.](section/36.md)
+  - [s. 37 Powers of milk marketing boards to conserve grass and forage crops.](section/37.md)
+  - [s. 38 Powers of milk marketing boards to recover damages from purchaser of milk in certain cases.](section/38.md)
+  - [s. 39 Powers of milk marketing boards to enter into certain agreements with each other.](section/39.md)
+  - [s. 39A](section/39A.md)
+  - [s. 40 Extension of functions of consumers’ committees in connection with milk marketing schemes.](section/40.md)
+  - [s. 41 Extension of application of certain schemes for regulation of marketing of milk in Scotland.](section/41.md)
+  - [s. 41A Polls under Article 3(1) of Council Regulation (EEC) No. 1422/78.](section/41A.md)
+  - [s. 42 Interpretation and extent of Part II.](section/42.md)
+- Part III Regulation of Importation of Agricultural Products and Sales of Home-Produced Agricultural Products
+  - [s. 43 Regulation of importation of agricultural products.](section/43.md)
+  - [s. 44 Regulation of sales of home-produced agricultural products.](section/44.md)
+  - [s. 45 Extension by order of powers of boards to enable effect to be given to certain orders under Part III, etc.](section/45.md)
+  - [s. 46 Provisions as to orders under Part III.](section/46.md)
+- Part IV General and Supplementary
+  - [s. 47 Restrictions on disclosing certain information obtained under Act.](section/47.md)
+  - [s. 48 Offences committed by bodies corporate.](section/48.md)
+  - [s. 49 Power to make rules, etc., exercisable by statutory instrument.](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 Saving for Part I of the Agriculture Act, 1957.](section/51.md)
+  - [s. 52 Interpretation.](section/52.md)
+  - [s. 53 Provisions as to Northern Ireland.](section/53.md)
+  - [s. 54 Repeals and savings.](section/54.md)
+  - [s. 55 Short title and commencement.](section/55.md)
+- FIRST SCHEDULE Amendment and revocation of schemes
+  - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+  - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+  - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+  - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+  - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+  - [Sch. FIRST para. 5A](schedule/FIRST/paragraph/5A.md)
+  - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+- SECOND SCHEDULE Provisions as to the incorporation, composition and winding up of boards and as to the composition of executive committees
+  - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+  - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+  - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+  - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+  - [Sch. SECOND para. 6](schedule/SECOND/paragraph/6.md)
+- THIRD SCHEDULE Matters referred to in the definition of “the Minister”
+  - Part I
+    - [Sch. THIRD Pt. I para. 1](schedule/THIRD/part/I/paragraph/1.md)
+    - [Sch. THIRD Pt. I para. 2](schedule/THIRD/part/I/paragraph/2.md)
+  - Part II
+    - [Sch. THIRD Pt. II para. 1](schedule/THIRD/part/II/paragraph/1.md)
+    - [Sch. THIRD Pt. II para. 2](schedule/THIRD/part/II/paragraph/2.md)
+    - [Sch. THIRD Pt. II para. 3](schedule/THIRD/part/II/paragraph/3.md)
+    - [Sch. THIRD Pt. II para. 4](schedule/THIRD/part/II/paragraph/4.md)
+    - [Sch. THIRD Pt. II para. 5](schedule/THIRD/part/II/paragraph/5.md)
+  - Part III
+    - [Sch. THIRD Pt. III para. 1](schedule/THIRD/part/III/paragraph/1.md)
+    - [Sch. THIRD Pt. III para. 2](schedule/THIRD/part/III/paragraph/2.md)
+  - Part IV
+    - [Sch. THIRD Pt. IV para. 1](schedule/THIRD/part/IV/paragraph/1.md)
+    - [Sch. THIRD Pt. IV para. 2](schedule/THIRD/part/IV/paragraph/2.md)
+  - Part V
+    - [Sch. THIRD Pt. V para. 1](schedule/THIRD/part/V/paragraph/1.md)
+    - [Sch. THIRD Pt. V para. 2](schedule/THIRD/part/V/paragraph/2.md)
+    - [Sch. THIRD Pt. V para. 3](schedule/THIRD/part/V/paragraph/3.md)
+    - [Sch. THIRD Pt. V para. 4](schedule/THIRD/part/V/paragraph/4.md)
+    - [Sch. THIRD Pt. V para. 5](schedule/THIRD/part/V/paragraph/5.md)
+    - [Sch. THIRD Pt. V para. 6](schedule/THIRD/part/V/paragraph/6.md)
+  - Part VI
+    - [Sch. THIRD Pt. VI para. 1](schedule/THIRD/part/VI/paragraph/1.md)
+    - [Sch. THIRD Pt. VI para. 2](schedule/THIRD/part/VI/paragraph/2.md)
+    - [Sch. THIRD Pt. VI para. 3](schedule/THIRD/part/VI/paragraph/3.md)
+    - [Sch. THIRD Pt. VI para. 4](schedule/THIRD/part/VI/paragraph/4.md)
+    - [Sch. THIRD Pt. VI para. 5](schedule/THIRD/part/VI/paragraph/5.md)
+    - [Sch. THIRD Pt. VI para. 6](schedule/THIRD/part/VI/paragraph/6.md)
+- FOURTH SCHEDULE
