@@ -2,9 +2,9 @@
 
 2024 c. 10. Enacted 2024-05-20.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-05-20, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. Earlier versions, from 2024-05-20, are in the history before it: `git log -- ukpga/2024/10` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/10/2024-05-20
+Source: https://www.legislation.gov.uk/ukpga/2024/10/2026-01-01
 
 ## Contents
 
