@@ -1,0 +1,430 @@
+# Broadcasting Act 1996
+
+1996 c. 55. Enacted 1996-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/55
+
+Source: https://www.legislation.gov.uk/ukpga/1996/55/2026-01-01
+
+## Contents
+
+- Part I Digital terrestrial television broadcasting
+  - Introductory
+    - [s. 1 Multiplex services and digital programme services.](section/1.md)
+    - [s. 2 Meaning of “independent analogue broadcaster” and “qualifying service”.](section/2.md)
+    - [s. 2A Meaning of “independent analogue broadcaster” and “qualifying service”.](section/2A.md)
+  - General provisions about licences
+    - [s. 3 Licences under Part I.](section/3.md)
+    - [s. 4 General licence conditions.](section/4.md)
+    - [s. 5 Restrictions on holding of licences under Part I.](section/5.md)
+  - Multiplex services
+    - [s. 6 Assignment of frequencies by Secretary of State.](section/6.md)
+    - [s. 7 Multiplex licences.](section/7.md)
+    - [s. 8 Award of multiplex licences.](section/8.md)
+    - [s. 9 Power to require two or more multiplex licences to be granted to one person.](section/9.md)
+    - [s. 10 Award of multiplex licence subject to conditions.](section/10.md)
+    - [s. 11 Failure to begin providing licensed service and financial penalties on revocation of licence.](section/11.md)
+    - [s. 12 Conditions attached to multiplex licence.](section/12.md)
+    - [s. 13 Additional payments to be made in respect of multiplex licences.](section/13.md)
+    - [s. 14 Multiplex revenue.](section/14.md)
+    - [s. 15 Attribution of multiplex revenue to licence holder and others.](section/15.md)
+    - [s. 16 Duration and renewal of multiplex licences.](section/16.md)
+    - [s. 17 Enforcement of multiplex licences.](section/17.md)
+  - Digital programme services
+    - [s. 18 Licensing of digital programme services.](section/18.md)
+    - [s. 19 Duration and conditions of digital programme licence.](section/19.md)
+    - [s. 20 Code relating to provision for deaf and visually impaired.](section/20.md)
+    - [s. 21 Powers of Secretary of State in relation to code under section 20.](section/21.md)
+    - [s. 22 Compliance with code under section 20.](section/22.md)
+    - [s. 23 Enforcement of digital programme licences.](section/23.md)
+  - Digital additional services provided on television broadcasting frequencies
+    - [s. 24 Digital additional services.](section/24.md)
+    - [s. 24A Duty to prevent access to seriously harmful extrinsic material](section/24A.md)
+    - [s. 25 Licensing of digital additional services.](section/25.md)
+    - [s. 26 Duration and conditions of digital additional services licence.](section/26.md)
+    - [s. 27 Enforcement of digital additional services licences.](section/27.md)
+  - Digital broadcasting of services provided by independent analogue broadcasters
+    - [s. 28 Provision for broadcasting of services provided by independent analogue broadcasters.](section/28.md)
+    - [s. 29 The S4C digital service.](section/29.md)
+    - [s. 30 The qualifying teletext service.](section/30.md)
+    - [s. 31 Advertisements included in qualifying services.](section/31.md)
+  - Miscellaneous and supplemental
+    - [s. 32 Digital broadcasting of Gaelic programmes.](section/32.md)
+    - [s. 33 Review of digital television broadcasting.](section/33.md)
+    - [s. 34 Promotion of equal opportunities and fair treatment.](section/34.md)
+    - [s. 35 Enforcement of licences held by BBC companies.](section/35.md)
+    - [s. 36 Power to vary amount of financial penalties.](section/36.md)
+    - [s. 37 Computation of multiplex revenue.](section/37.md)
+    - [s. 38 Certain receipts of Commission to be paid into Consolidated Fund.](section/38.md)
+    - [s. 39 Interpretation of Part I.](section/39.md)
+- Part II Digital terrestrial sound broadcasting
+  - Introductory
+    - [s. 40 Radio multiplex services.](section/40.md)
+    - [s. 41 Meaning of “independent national broadcaster” and “simulcast radio service”.](section/41.md)
+  - General provisions about licences
+    - [s. 42 Licences under Part II.](section/42.md)
+    - [s. 43 General licence conditions.](section/43.md)
+    - [s. 44 Restrictions on holding of licences under Part II.](section/44.md)
+  - Radio multiplex services
+    - [s. 45 Assignment of frequencies by Secretary of State.](section/45.md)
+    - [s. 46 National radio multiplex licences.](section/46.md)
+    - [s. 47 Award of national radio multiplex licences.](section/47.md)
+    - [s. 48 Reservation of capacity for independent national broadcasters.](section/48.md)
+    - [s. 49 Duty of Authority to reserve digital capacity for certain purposes of BBC.](section/49.md)
+    - [s. 50 Local radio multiplex licences.](section/50.md)
+    - [s. 51 Award of local radio multiplex licences.](section/51.md)
+    - [s. 52 Power to require two or more local radio multiplex licences to be granted to one person.](section/52.md)
+    - [s. 53 Failure to begin providing licensed service and financial penalties on revocation of licence.](section/53.md)
+    - [s. 54 Conditions attached to national or local radio multiplex licence.](section/54.md)
+    - [s. 54A Variation of radio multiplex licences: frequency or licensed area](section/54A.md)
+    - [s. 55 Additional payments to be made in respect of national radio multiplex licences.](section/55.md)
+    - [s. 56 Multiplex revenue.](section/56.md)
+    - [s. 57 Attribution of multiplex revenue to licence holder and others.](section/57.md)
+    - [s. 58 Duration and renewal of national or local radio multiplex licences.](section/58.md)
+    - [s. 58ZA Renewal of local radio multiplex licences](section/58ZA.md)
+    - [s. 58A Renewal of radio multiplex licences: supplementary](section/58A.md)
+    - [s. 59 Enforcement of national or local radio multiplex licences.](section/59.md)
+  - Digital sound programme services
+    - [s. 60 Licensing of digital sound programme services.](section/60.md)
+    - [s. 61 Duration and conditions of digital sound programme licence.](section/61.md)
+    - [s. 62 Enforcement of digital sound programme licences.](section/62.md)
+  - Digital additional services provided on sound broadcasting frequencies
+    - [s. 63 Digital additional services.](section/63.md)
+    - [s. 64 Licensing of digital additional services.](section/64.md)
+    - [s. 65 Duration and conditions of digital additional services licence.](section/65.md)
+    - [s. 66 Enforcement of digital additional services licences.](section/66.md)
+  - Miscellaneous and supplemental
+    - [s. 67 Review of digital radio broadcasting.](section/67.md)
+    - [s. 68 Promotion of equal opportunities and fair treatment.](section/68.md)
+    - [s. 69 Power to vary amount of financial penalties.](section/69.md)
+    - [s. 70 Computation of multiplex revenue.](section/70.md)
+    - [s. 71 Certain receipts of Authority to be paid into Consolidated Fund.](section/71.md)
+    - [s. 72 Interpretation of Part II.](section/72.md)
+- Part III Amendments of the Broadcasting Act 1990
+  - Restrictions on holding of licences
+    - [s. 73 Restrictions on holding of licences.](section/73.md)
+  - Regional Channel 3 services
+    - [s. 74 Provision of news programmes by holders of regional Channel 3 licences.](section/74.md)
+    - [s. 75 Appointment of news provider by holders of regional Channel 3 licences.](section/75.md)
+    - [s. 76 Nomination by Commission for purposes of section 31(2) of Broadcasting Act 1990.](section/76.md)
+    - [s. 77 Modification of Restrictive Trade Practices Act 1976 in its application to agreements relating to Channel 3 news provision.](section/77.md)
+    - [s. 78 Variation of regional Channel 3 licence following change of control.](section/78.md)
+    - [s. 79 Powers of Commission in relation to modification or replacement of networking arrangements.](section/79.md)
+  - Channel 4 and S4C
+    - [s. 80 Funding of Sianel Pedwar Cymru.](section/80.md)
+    - [s. 81 Public service fund of Sianel Pedwar Cymru.](section/81.md)
+    - [s. 82 Multiplex revenue to be taken into account in connection with funding of Channel Four Television Corporation.](section/82.md)
+    - [s. 83 Application of excess revenues of Channel Four Television Corporation.](section/83.md)
+    - [s. 84 Extension of powers of Channel Four Television Corporation and Sianel Pedwar Cymru.](section/84.md)
+  - Miscellaneous amendments relating to television broadcasting
+    - [s. 85 Restricted television services.](section/85.md)
+    - [s. 86 Award of certain licences subject to conditions.](section/86.md)
+    - [s. 87 Ancillary services.](section/87.md)
+    - [s. 88 Enforcement of licences to provide non-domestic satellite services.](section/88.md)
+    - [s. 89 Power of Independent Television Commission to suspend licence to provide non-domestic satellite service.](section/89.md)
+    - [s. 90 Enforcement of licences to provide licensable programme services.](section/90.md)
+    - [s. 91 Certain delivery services to carry certain broadcasts.](section/91.md)
+  - Sound broadcasting
+    - [s. 92 Renewal of licences to provide national radio services.](section/92.md)
+    - [s. 93 Variation of local radio licence following change of control.](section/93.md)
+    - [s. 94 Renewal of licences to provide local radio services.](section/94.md)
+    - [s. 95 Financing of Gaelic sound programmes.](section/95.md)
+    - [s. 96 Power of Radio Authority to suspend licence to provide satellite service.](section/96.md)
+- Part IV Sporting and other events of national interest
+  - [s. 97 Listed events.](section/97.md)
+  - [s. 98 Categories of service.](section/98.md)
+  - [s. 99 Contract for exclusive coverage of listed event to be void.](section/99.md)
+  - [s. 100 Contract for showing coverage of listed event must specify category of service.](section/100.md)
+  - [s. 101 Restriction on showing live coverage.](section/101.md)
+  - [s. 101A Designated events in relation to EEA States or other CTT States.](section/101A.md)
+  - [s. 101B Restriction on televising of an event designated by EEA State or other CTT State.](section/101B.md)
+  - [s. 102 Power of OFCOM to impose penalty.](section/102.md)
+  - [s. 103 Report to Secretary of State.](section/103.md)
+  - [s. 104 Code of guidance.](section/104.md)
+  - [s. 104ZA Regulations about coverage of listed events](section/104ZA.md)
+  - [s. 104A Provision of information.](section/104A.md)
+  - [s. 104B Penalties for failure to provide information](section/104B.md)
+  - [s. 105 Interpretation of Part IV and supplementary provisions.](section/105.md)
+- Part V The Broadcasting Standards Commission
+  - Establishment of Broadcasting Standards Commission
+    - [s. 106 The Broadcasting Standards Commission.](section/106.md)
+  - Unjust or unfair treatment or unwarranted infringement of privacy
+    - [s. 107 Preparation by OFCOM of code relating to avoidance of unjust or unfair treatment or interference with privacy.](section/107.md)
+  - Portrayal of violence or sexual conduct etc.
+    - [s. 108 Preparation by BSC of code relating to broadcasting standards generally.](section/108.md)
+    - [s. 109 Monitoring by BSC of broadcasting standards.](section/109.md)
+  - Complaints
+    - [s. 110 General functions of OFCOM in relation to complaints.](section/110.md)
+    - [s. 111 Complaints of unfair treatment etc.](section/111.md)
+    - [s. 112 Committee to consider fairness complaints.](section/112.md)
+    - [s. 113 Complaints relating to taste and decency, etc.](section/113.md)
+    - [s. 114 Supplementary provisions as to making of complaints of either kind.](section/114.md)
+    - [s. 115 Consideration of fairness complaints.](section/115.md)
+    - [s. 116 Consideration of standards complaints.](section/116.md)
+    - [s. 117 Duty to retain recordings.](section/117.md)
+    - [s. 118 Power to pay allowances to persons attending hearings.](section/118.md)
+    - [s. 119 Publication of OFCOM’s findings.](section/119.md)
+    - [s. 120 Reports on action taken voluntarily in response to findings on complaints.](section/120.md)
+    - [s. 121 Certain statements etc. protected by qualified privilege for purposes of defamation.](section/121.md)
+  - Miscellaneous and general
+    - [s. 122 Power of BSC to commission research.](section/122.md)
+    - [s. 123 International representation by BSC of Government interests.](section/123.md)
+    - [s. 124 Duty to publicise BSC.](section/124.md)
+    - [s. 125 Annual reports.](section/125.md)
+    - [s. 126 Reports to Secretary of State.](section/126.md)
+    - [s. 127 Contributions towards cost of BSC.](section/127.md)
+    - [s. 128 Transfer of assets of Broadcasting Complaints Commission and Broadcasting Standards Council to BSC and dissolution of those bodies.](section/128.md)
+    - [s. 129 Transitional provisions relating to complaints.](section/129.md)
+    - [s. 130 Interpretation of Part V.](section/130.md)
+- Part VI The British Broadcasting Corporation
+  - Transfer of property, rights and liabilities relating to BBC transmission network
+    - [s. 131 Power of BBC to make transfer schemes relating to its transmission network.](section/131.md)
+    - [s. 132 Powers of Secretary of State in relation to transfer schemes.](section/132.md)
+    - [s. 133 Agreements with respect to transfer schemes.](section/133.md)
+    - [s. 134 Transfer schemes: successor companies.](section/134.md)
+    - [s. 135 Taxation provisions with respect to transfer schemes.](section/135.md)
+  - Services provided by BBC companies
+    - [s. 136 Services provided by BBC companies.](section/136.md)
+- Part VII Copyright and related matters
+  - [s. 137 Avoidance of certain terms relating to use for purpose of news reporting of visual images from broadcast or cable programme.](section/137.md)
+  - [s. 138 Amendments of Copyright, Designs and Patents Act 1988 relating to cable programme services.](section/138.md)
+  - [s. 139 Copyright licensing.](section/139.md)
+  - [s. 140 ................................](section/140.md)
+  - [s. 141 ................................](section/141.md)
+- Part VIII Miscellaneous and general
+  - Standards for transmission systems
+    - [s. 142 Standards for transmission systems.](section/142.md)
+  - Disqualification on grounds relating to political objects
+    - [s. 143 Duties of Independent Television Commission and Radio Authority in cases involving disqualification on grounds related to political objects.](section/143.md)
+  - Provision of false information, etc.
+    - [s. 144 Offence of providing false information in certain circumstances.](section/144.md)
+    - [s. 145 Disqualification for offence of supplying false information, etc.](section/145.md)
+    - [s. 146 Supplementary provisions as to disqualification orders.](section/146.md)
+  - General
+    - [s. 147 General interpretation.](section/147.md)
+    - [s. 148 Minor and consequential amendments, repeals and revocations.](section/148.md)
+    - [s. 149 Commencement and transitional provisions.](section/149.md)
+    - [s. 150 Short title and extent.](section/150.md)
+- SCHEDULE 1 Multiplex revenue: supplementary provisions
+  - Part I Multiplex revenue for purposes of Part I of this Act
+    - Computation of multiplex revenue
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Disputes
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Part II Multiplex revenue for purposes of Part II of this Act
+    - Computation of multiplex revenue
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Disputes
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Amendments of Broadcasting Act 1990 relating to restrictions on holding of licences
+  - Part I Amendments of Part I of Schedule 2
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part II Amendments of Part II of Schedule 2
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part III Provisions substituted for Part III of Schedule 2
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part IV Provisions substituted for Part IV of Schedule 2
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part V Amendments of other provisions of 1990 Act
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Broadcasting Standards Commission: supplementary provisions
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Status and capacity
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appointment of members
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Tenure of office
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Remuneration and pensions of members
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Disqualification of members of BSC for House of Commons and Northern Ireland Assembly
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Proceedings
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Employees of the BSC
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Financial provisions
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Authentication of seal of BSC
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Presumption of authenticity of documents issued by BSC
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Accounts and audit
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Supplementary provisions relating to dissolution of Broadcasting Complaints Commission and Broadcasting Standards Council
+  - Meaning of “the existing boards”
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Provisions as to vesting of property et ceteralaetc. of existing boards
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Pensions
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Final accounts and annual report of existing bodies
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Final contributions towards cost of Broadcasting Complaints Commission
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Transfer schemes relating to BBC transmission network: supplementary provisions
+  - Contents and effect of scheme
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Division of BBC’s undertaking by scheme
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Property to which a scheme may relate
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Supplemental provisions of schemes
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Certificate of Secretary of State as to vesting of property etc.
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Duties in relation to foreign property etc.
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Modification of scheme by agreement
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Compensation
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Notice to persons affected by scheme
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Consideration for transfer etc.
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Transfer schemes relating to BBC transmission network: successor companies
+  - Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Statutory accounts
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Distributable reserves
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Dividends
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Application of the Trustee Investments Act 1961
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Transfer schemes relating to BBC transmission network: taxation provisions
+  - Interpretation
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Chargeable gains: preparatory transfers etc to be without gain or loss
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Chargeable gains: amendment of section 35(3)(d) of the Gains Act
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Chargeable gains: section 41 of the Gains Act
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Chargeable gains: assets held before 6th April 1965
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Chargeable gains: sale of successor company: group transactions
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Chargeable gains: sale or exchange of shares or securities of successor company
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - No chargeable gain or allowable loss to arise on any disposal constituted by a direct disposal transfer
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Chargeable gains: value shifting
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Chargeable gains: receipt of compensation or insurance money
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Loan relationships: disposal of securities by BBC
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Transfer of trade: loss relief and capital allowances
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Capital allowances: industrial buildings...
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Capital allowances: plant and machinery
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Capital allowances: leased fixtures
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Capital allowances: connected persons
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Capital allowances: agricultural buildings allowances
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Corporation tax: BBC and successor company to be treated as one for certain purposes
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Corporation tax: no profit or loss under Part 3 of the Corporation Tax Act 2009 by reason of a direct disposal transfer
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Corporation tax: group relief
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Corporation tax: leases at an undervalue
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Corporation tax: sale and lease-back
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Corporation tax: sale of lease of land
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Corporation tax: leased assets
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Stamp duty and stamp duty land tax
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+  - Stamp duty reserve tax
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+  - Modifications of transfer schemes
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Orders
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+- SCHEDULE 8 Amendments of Broadcasting Act 1990 relating to services provided by BBC companies
+  - Television services
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Radio services
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Meaning of “BBC company” for purposes of Broadcasting Act 1990
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 Amendments of Copyright, Designs and Patents Act 1988 relating to cable programme services
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Minor and consequential amendments
+  - Part I Amendments of Broadcasting Act 1990 relating to digital terrestrial broadcasting
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Part II Other amendments of Broadcasting Act 1990
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+  - Part III Amendments of other enactments
+    - The Welsh Development Agency Act 1975 (c. 70)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - The Representation of the People Act 1983 (c. 2)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+    - The Copyright, Designs and Patents Act 1988 (c. 48)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+- SCHEDULE 11 Repeals and revocations
+  - Part I Enactments repealed
+  - Part II Subordinate legislation revoked
