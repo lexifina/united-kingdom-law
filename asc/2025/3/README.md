@@ -1,0 +1,136 @@
+# Legislation (Procedure, Publication and Repeals) (Wales) Act 2025
+
+asc/2025/3. Enacted 2025-07-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2025/3
+
+Source: https://www.legislation.gov.uk/asc/2025/3/2026-01-01
+
+## Contents
+
+- PART 1 PROCEDURE FOR MAKING WELSH SUBORDINATE LEGISLATION
+  - [s. 1 New Part 2A of the Legislation (Wales) Act 2019](section/1.md)
+  - [s. 2 Road traffic orders not required to be made by Welsh statutory instrument](section/2.md)
+- PART 2 PUBLICATION ETC. OF WELSH LEGISLATION
+  - [s. 3 New Part 2B of the Legislation (Wales) Act 2019](section/3.md)
+- PART 3 REPEALS OF WELSH LEGISLATION
+  - [s. 4 Repeals and connected amendments](section/4.md)
+- PART 4 GENERAL
+  - [s. 5 Post-legislative scrutiny](section/5.md)
+  - [s. 6 Activities to improve accessibility of Welsh law](section/6.md)
+  - [s. 7 Minor amendments to the Legislation (Wales) Act 2019](section/7.md)
+  - [s. 8 Consequential amendments](section/8.md)
+  - [s. 9 Coming into force](section/9.md)
+  - [s. 10 Short title](section/10.md)
+- SCHEDULE 1 REPEALS AND CONNECTED AMENDMENTS
+  - PART 1 RURAL DEVELOPMENT BOARDS
+    - [Sch. 1 para. 1 Agriculture Act 1967 (c. 22)](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2 Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3 Government of Wales Act 2006 (c. 32)](schedule/1/paragraph/3.md)
+  - PART 2 ENTERPRISE ZONE AREAS
+    - [Sch. 1 para. 4 Local Government, Planning and Land Act 1980 (c. 65)](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5 Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6 Mobile Homes (Wales) Act 2013 (anaw 6)](schedule/1/paragraph/6.md)
+  - PART 3 HOUSING ACTION TRUSTS
+    - [Sch. 1 para. 7 Housing Act 1988 (c. 50)](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8 Planning (Hazardous Substances) Act 1990 (c. 10)](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Housing Act 1996 (c. 52)](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Government of Wales Act 1998 (c. 38)](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Government of Wales Act 2006 (c. 32)](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13 Police and Justice Act 2006 (c. 48)](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14 Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15 Deregulation Act 2015 (c. 20)](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16 Renting Homes (Wales) Act 2016 (anaw 1)](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17 Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](schedule/1/paragraph/17.md)
+  - PART 4 LOCAL PLANS, STRUCTURE PLANS AND UNITARY DEVELOPMENT PLANS
+    - [Sch. 1 para. 18 Town and Country Planning Act 1990 (c. 8)](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19 Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20 Planning Act 2008 (c. 29)](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21 Planning and Compulsory Purchase Act 2004 (Commencement No. 6, Transitional Provisions and Savings) Order 2005 (S.I. 2005/2847)](schedule/1/paragraph/21.md)
+  - PART 5 ENERGY POLICIES IN DEVELOPMENT PLANS
+    - [Sch. 1 para. 22 Planning and Energy Act 2008 (c. 21)](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23 Planning (Wales) Act 2015 (anaw 4)](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24 Local Government and Elections (Wales) Act 2021 (asc 1)](schedule/1/paragraph/24.md)
+  - PART 6 OFFENCE OF REMOVAL OF SOIL WITHOUT CONSENT
+    - [Sch. 1 para. 25 Agricultural Land (Removal of Surface Soil) Act 1953 (c. 10)](schedule/1/paragraph/25.md)
+  - PART 7 DOMESTIC FIRE SAFETY (WALES) MEASURE 2011
+    - [Sch. 1 para. 26 Domestic Fire Safety (Wales) Measure 2011 (nawm 3)](schedule/1/paragraph/26.md)
+  - PART 8 REORGANISATION OF LOCAL GOVERNMENT
+    - [Sch. 1 para. 27 Social services committees](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28 Social services committees](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37 The Residuary Body established under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38 Transitional provision under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39 Transitional provision under the Local Government (Wales) Act 1994 (c. 19)](schedule/1/paragraph/39.md)
+    - [Sch. 1 para. 40 Decentralisation schemes and joint working under the Local Government (Wales) Act 1994](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41 Decentralisation schemes and joint working under the Local Government (Wales) Act 1994](schedule/1/paragraph/41.md)
+  - PART 9 STATEMENTS OF SPECIAL EDUCATIONAL NEEDS
+    - [Sch. 1 para. 42 Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)](schedule/1/paragraph/42.md)
+    - [Sch. 1 para. 43 Education Act 1996 (c. 56)](schedule/1/paragraph/43.md)
+    - [Sch. 1 para. 44 Social Services and Well-being (Wales) Act 2014 (anaw 4)](schedule/1/paragraph/44.md)
+  - PART 10 NATIONAL PARK PLANNING BOARDS
+    - [Sch. 1 para. 45 Environment Act 1995 (c. 25)](schedule/1/paragraph/45.md)
+  - PART 11 WELSH DEVELOPMENT AGENCY
+    - [Sch. 1 para. 46 Industry Act 1979 (c. 32)](schedule/1/paragraph/46.md)
+    - [Sch. 1 para. 47 Industry Act 1980 (c. 33)](schedule/1/paragraph/47.md)
+    - [Sch. 1 para. 48 Welsh Development Agency Act 1997 (c. 37)](schedule/1/paragraph/48.md)
+    - [Sch. 1 para. 49 Government of Wales Act 1998 (c. 38)](schedule/1/paragraph/49.md)
+  - PART 12 DEVELOPMENT BOARD FOR RURAL WALES
+    - [Sch. 1 para. 50 Development of Rural Wales Act 1976 (c. 75)](schedule/1/paragraph/50.md)
+    - [Sch. 1 para. 51 Government of Wales Act 1998 (c. 38)](schedule/1/paragraph/51.md)
+  - PART 13 LAND AUTHORITY FOR WALES
+    - [Sch. 1 para. 52 Government of Wales Act 1998 (c. 38)](schedule/1/paragraph/52.md)
+  - PART 14 AMENDMENT OF SCHEDULE 9 TO THE WILDLIFE AND COUNTRYSIDE ACT 1981
+    - [Sch. 1 para. 53 Wildlife and Countryside Act 1981 (c. 69)](schedule/1/paragraph/53.md)
+  - PART 15 UNRECORDED PUBLIC RIGHTS OF WAY
+    - [Sch. 1 para. 54 Countryside and Rights of Way Act 2000 (c. 37)](schedule/1/paragraph/54.md)
+    - [Sch. 1 para. 55 Countryside and Rights of Way Act 2000 (c. 37)](schedule/1/paragraph/55.md)
+  - PART 16 MISCELLANEOUS AMENDMENTS RELATING TO THE GOVERNMENT OF WALES ACT 1998
+    - [Sch. 1 para. 56 Government of Wales Act 1998 (c. 38)](schedule/1/paragraph/56.md)
+    - [Sch. 1 para. 57 Government of Wales Act 2006 (c. 32)](schedule/1/paragraph/57.md)
+  - PART 17 TRANSITIONAL PROVISION RELATING TO THE GOVERNMENT OF WALES ACT 2006
+    - [Sch. 1 para. 58 Government of Wales Act 2006 (c. 32)](schedule/1/paragraph/58.md)
+    - [Sch. 1 para. 59 National Health Service (Consequential Provisions) Act 2006 (c. 43)](schedule/1/paragraph/59.md)
+    - [Sch. 1 para. 60 Learning and Skills (Wales) Measure 2009 (nawm 1)](schedule/1/paragraph/60.md)
+  - PART 18 WELSH ELECTIONS (CORONAVIRUS) ACT 2021
+    - [Sch. 1 para. 61 Welsh Elections (Coronavirus) Act 2021 (asc 2)](schedule/1/paragraph/61.md)
+  - PART 19 LOCAL GOVERNMENT FINANCE
+    - [Sch. 1 para. 62 Local Government Finance (Wales) Act 2024 (asc 5)](schedule/1/paragraph/62.md)
+- SCHEDULE 2 MINOR AMENDMENTS TO THE LEGISLATION (WALES) ACT 2019
+  - [Sch. 2 para. 1 Introduction](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 References to “Welsh subordinate instrument”](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Laying documents before Senedd Cymru](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Exercise of a power or duty that is not in force](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Church Measures: effect of references and amendments](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Church Measures: effect of references and amendments](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Church Measures: effect of references and amendments](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Continuity of subordinate legislation: no effect on Crown application](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Referring to Welsh subordinate instruments](schedule/2/paragraph/9.md)
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS
+  - [Sch. 3 para. 1 Statutory Instruments Act 1946 (c. 36)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Laying of Documents before Parliament (Interpretation) Act 1948 (c. 59)](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Agricultural Marketing Act 1958 (c. 47)](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Interpretation Act 1978 (c. 30)](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Government of Wales Act 2006 (c. 32)](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Welsh Language (Wales) Measure 2011 (nawm 1)](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Legislation (Wales) Act 2019 (anaw 4)](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16 Senedd and Elections (Wales) Act 2020 (anaw 1)](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17 Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](schedule/3/paragraph/17.md)
