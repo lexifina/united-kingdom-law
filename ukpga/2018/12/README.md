@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-11-17, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-05, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-11-17
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-05
 
 ## Contents
 
@@ -760,6 +760,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2025-11-17
     - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
     - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
     - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
 - SCHEDULE 8 Conditions for sensitive processing under Part 3
   - Statutory etc purposes
     - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
