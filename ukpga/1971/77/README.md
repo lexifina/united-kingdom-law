@@ -1,0 +1,335 @@
+# Immigration Act 1971
+
+1971 c. 77. Enacted 1971-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 34 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1971/77
+
+Source: https://www.legislation.gov.uk/ukpga/1971/77/2026-01-05
+
+## Contents
+
+- Part I Regulation of Entry into and Stay in United Kingdom
+  - [s. 1 General principles.](section/1.md)
+  - [s. 2 Statement of right of abode in United Kingdom.](section/2.md)
+  - [s. 2A Deprivation of right of abode](section/2A.md)
+  - [s. 3 General provisions for regulation and control.](section/3.md)
+  - [s. 3ZA Irish citizens](section/3ZA.md)
+  - [s. 3A Further provision as to leave to enter.](section/3A.md)
+  - [s. 3B Further provision as to leave to remain.](section/3B.md)
+  - [s. 3C Continuation of leave pending variation decision](section/3C.md)
+  - [s. 3D Continuation of leave following revocation](section/3D.md)
+  - [s. 4 Administration of control.](section/4.md)
+  - [s. 5 Procedure for, and further provisions as to, deportation.](section/5.md)
+  - [s. 6 Recommendations by court for deportation.](section/6.md)
+  - [s. 7 Exemption from deportation for certain existing residents.](section/7.md)
+  - [s. 8 Exceptions for seamen, aircrews and other special cases.](section/8.md)
+  - [s. 8A Persons ceasing to be exempt.](section/8A.md)
+  - [s. 8AA Persons ineligible for leave to enter and remain, entry clearance and ETA](section/8AA.md)
+  - [s. 8B Persons excluded from the United Kingdom under certain instruments.](section/8B.md)
+  - [s. 9 Further provisions as to common travel area.](section/9.md)
+  - [s. 10 Entry otherwise than by sea or air.](section/10.md)
+  - [s. 11 Construction of references to entry, and other phrases relating to travel.](section/11.md)
+  - [s. 11A Working in United Kingdom waters](section/11A.md)
+  - [s. 11B Offshore workers: requirements to notify arrival and entry dates etc](section/11B.md)
+- PART 1A Electronic travel authorisations
+  - [s. 11C Electronic travel authorisations](section/11C.md)
+  - [s. 11D Electronic travel authorisations and the Islands](section/11D.md)
+- Part II Appeals
+  - The appellate authorities
+    - [s. 12 Immigration Appeal Tribunal and adjudicators.](section/12.md)
+  - Appeals to adjudicator or Tribunal in first instance
+    - [s. 13 Appeals against exclusion from United Kingdom.](section/13.md)
+    - [s. 14 Appeals against conditions.](section/14.md)
+    - [s. 15 Appeals in respect of deportation orders.](section/15.md)
+    - [s. 16 Appeals against validity of directions for removal.](section/16.md)
+    - [s. 17 Appeals against removal on objection to destination.](section/17.md)
+    - [s. 18 Notice of matters in respect of which there are rights of appeal.](section/18.md)
+    - [s. 19 Determination of appeals by adjudicators.](section/19.md)
+  - Appeals from adjudicator to Tribunal, and review of decisions
+    - [s. 20 Appeal to Tribunal from determination of adjudicator.](section/20.md)
+    - [s. 21 Reference of cases for further consideration.](section/21.md)
+  - Supplementary
+    - [s. 22 Procedure.](section/22.md)
+    - [s. 23 Financial support for organisations helping persons with rights of appeal.](section/23.md)
+- Part III Criminal Proceedings
+  - [s. 24 Illegal entry and similar offences.](section/24.md)
+  - [s. 24A Deception.](section/24A.md)
+  - [s. 24B Illegal working](section/24B.md)
+  - [s. 25 Assisting unlawful immigration to member State or the United Kingdom](section/25.md)
+  - [s. 25A Helping asylum-seeker to enter United Kingdom](section/25A.md)
+  - [s. 25B Assisting entry to United Kingdom in breach of deportation or exclusion order](section/25B.md)
+  - [s. 25BA Facilitation offences: application to rescuers](section/25BA.md)
+  - [s. 25BB Facilitation offences: defences relating to stowaways](section/25BB.md)
+  - [s. 25C Forfeiture of vehicle, ship or aircraft](section/25C.md)
+  - [s. 25D Detention of ship, aircraft or vehicle](section/25D.md)
+  - [s. 26 General offences in connection with administration of Act.](section/26.md)
+  - [s. 26A Registration card](section/26A.md)
+  - [s. 26B Possession of immigration stamp](section/26B.md)
+  - [s. 27 Offences by persons connected with ships or aircraft or with ports.](section/27.md)
+  - [s. 28 Proceedings.](section/28.md)
+  - [s. 28A Arrest without warrant.](section/28A.md)
+  - [s. 28AA Arrest with warrant](section/28AA.md)
+  - [s. 28B Search and arrest by warrant.](section/28B.md)
+  - [s. 28C Search and arrest without warrant.](section/28C.md)
+  - [s. 28CA Business premises: entry to arrest](section/28CA.md)
+  - [s. 28D Entry and search of premises.](section/28D.md)
+  - [s. 28E Entry and search of premises following arrest.](section/28E.md)
+  - [s. 28F Entry and search of premises following arrest under section 25, 25A, or 25B.](section/28F.md)
+  - [s. 28FA Search for personnel records: warrant unnecessary](section/28FA.md)
+  - [s. 28FB Search for personnel records: with warrant](section/28FB.md)
+  - [s. 28G Searching arrested persons.](section/28G.md)
+  - [s. 28H Searching persons in police custody.](section/28H.md)
+  - [s. 28ZI Retention of seized material](section/28ZI.md)
+  - [s. 28I Seized material: access and copying.](section/28I.md)
+  - [s. 28J Search warrants: safeguards.](section/28J.md)
+  - [s. 28K Execution of warrants.](section/28K.md)
+  - [s. 28L Interpretation of Part III.](section/28L.md)
+- PART 3A Maritime enforcement
+  - [s. 28LA Enforcement powers in relation to ships: United Kingdom](section/28LA.md)
+  - [s. 28M Enforcement powers in relation to ships: England and Wales](section/28M.md)
+  - [s. 28N Enforcement powers in relation to ships: Scotland](section/28N.md)
+  - [s. 28O Enforcement powers in relation to ships: Northern Ireland](section/28O.md)
+  - [s. 28P Hot pursuit of ships in United Kingdom waters](section/28P.md)
+  - [s. 28PA Power to seize and dispose of ships etc.](section/28PA.md)
+  - [s. 28Q Interpretation of Part 3A](section/28Q.md)
+- Part IV Supplementary
+  - [s. 29 Contributions for expenses of persons returning abroad.](section/29.md)
+  - [s. 30 Return of mental patients.](section/30.md)
+  - [s. 31 Expenses.](section/31.md)
+  - [s. 31A Procedural requirements as to applications.](section/31A.md)
+  - [s. 32 General provisions as to Orders in Council, etc.](section/32.md)
+  - [s. 33 Interpretation.](section/33.md)
+  - [s. 34 Repeal, transitional and temporary.](section/34.md)
+  - [s. 35 Commencement, and interim provisions.](section/35.md)
+  - [s. 36 Power to extend to Islands.](section/36.md)
+  - [s. 37 Short title and extent.](section/37.md)
+- SCHEDULE 1
+- Schedule 1A Electronic monitoring conditions
+  - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+- SCHEDULE 2 Administrative Provisions as to Control on Entry etc.
+  - Part I General Provisions
+    - Immigration officers and medical inspectors
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Examination by immigration officers, and medical examination
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Examination of persons who arrive with continuing leave
+      - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Information and documents
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Designated persons
+      - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+    - Directions to carriers and operators of ports etc
+      - [Sch. 2 para. 5B](schedule/2/paragraph/5B.md)
+    - Notice of leave to enter or of refusal of leave
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Power to require medical examination after entry
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Removal of persons refused leave to enter and illegal entrants
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Seamen and aircrews
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Search of premises in connection with removal
+      - [Sch. 2 para. 15A](schedule/2/paragraph/15A.md)
+    - Detention of persons liable to examination or removal
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 17A](schedule/2/paragraph/17A.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 18A](schedule/2/paragraph/18A.md)
+      - [Sch. 2 para. 18B](schedule/2/paragraph/18B.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Temporary admission or release of persons liable to detention
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Entry and search of premises
+      - [Sch. 2 para. 25A](schedule/2/paragraph/25A.md)
+    - Searching persons arrested by immigration officers
+      - [Sch. 2 para. 25B](schedule/2/paragraph/25B.md)
+    - Searching persons in police custody
+      - [Sch. 2 para. 25C](schedule/2/paragraph/25C.md)
+    - Entry of premises to search for driving licence
+      - [Sch. 2 para. 25CA](schedule/2/paragraph/25CA.md)
+    - Searching persons for driving licences
+      - [Sch. 2 para. 25CB](schedule/2/paragraph/25CB.md)
+    - Seizure and retention of driving licence
+      - [Sch. 2 para. 25CC](schedule/2/paragraph/25CC.md)
+    - Access and copying
+      - [Sch. 2 para. 25D](schedule/2/paragraph/25D.md)
+      - [Sch. 2 para. 25E](schedule/2/paragraph/25E.md)
+    - Supplementary duties of those connected with ships or aircraft or with ports
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Supplementary duties of the Concessionaires
+      - [Sch. 2 para. 27A](schedule/2/paragraph/27A.md)
+    - Passenger information
+      - [Sch. 2 para. 27B](schedule/2/paragraph/27B.md)
+      - [Sch. 2 para. 27BA](schedule/2/paragraph/27BA.md)
+      - [Sch. 2 para. 27BB](schedule/2/paragraph/27BB.md)
+    - Notification of non-EEA arrivals
+      - [Sch. 2 para. 27C](schedule/2/paragraph/27C.md)
+  - Part II Effect of Appeals
+    - Stay on directions for removal
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Grant of bail pending appeal
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Restrictions on grant of bail
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Forfeiture of recognizances
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Arrest of appellants released on bail
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 33A](schedule/2/paragraph/33A.md)
+    - Grant of bail pending removal
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+- SCHEDULE 3 Supplementary Provisions as to Deportation
+  - Removal of persons liable to deportation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Detention or control pending deportation
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Effect of appeals
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Powers of courts pending deportation
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Integration with United Kingdom Law of Immigration Law of Islands
+  - Leave to enter
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Deportation
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Relevant person for purposes of paragraph 3
+    - [Sch. 4 para. 3A](schedule/4/paragraph/3A.md)
+  - Illegal entrants
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 4A Enforcement powers in relation to ships
+  - PART A1 United Kingdom
+    - [Sch. 4A para. A1 Introductory](schedule/4A/paragraph/A1.md)
+    - [Sch. 4A para. B1 Power to stop, board, divert and detain](schedule/4A/paragraph/B1.md)
+    - [Sch. 4A para. C1 Power to search and obtain information](schedule/4A/paragraph/C1.md)
+    - [Sch. 4A para. D1 Power of arrest and seizure](schedule/4A/paragraph/D1.md)
+    - [Sch. 4A para. E1 Protective searches of persons](schedule/4A/paragraph/E1.md)
+    - [Sch. 4A para. F1 Search for nationality documents](schedule/4A/paragraph/F1.md)
+    - [Sch. 4A para. G1 Assistants](schedule/4A/paragraph/G1.md)
+    - [Sch. 4A para. H1 Reasonable force](schedule/4A/paragraph/H1.md)
+    - [Sch. 4A para. I1 Evidence of authority](schedule/4A/paragraph/I1.md)
+    - [Sch. 4A para. J1 Protection of relevant officers](schedule/4A/paragraph/J1.md)
+    - [Sch. 4A para. K1 Offences under the law of England and Wales](schedule/4A/paragraph/K1.md)
+    - [Sch. 4A para. L1 Offences under the law of Scotland](schedule/4A/paragraph/L1.md)
+    - [Sch. 4A para. M1 Offences under the law of Northern Ireland](schedule/4A/paragraph/M1.md)
+  - PART 1 England and Wales
+    - Introductory
+      - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+    - Power to stop, board, divert and detain
+      - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+    - Power to search and obtain information
+      - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+    - Power of arrest and seizure
+      - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+    - Protective searches of persons
+      - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - Search for nationality documents
+      - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - Assistants
+      - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+    - Reasonable force
+      - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+    - Evidence of authority
+      - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - Protection of relevant officers
+      - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+    - Offences
+      - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+  - PART 2 Scotland
+    - Introductory
+      - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+    - Power to stop, board, divert and detain
+      - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+    - Power to search and obtain information
+      - [Sch. 4A para. 14](schedule/4A/paragraph/14.md)
+    - Power of arrest and seizure
+      - [Sch. 4A para. 15](schedule/4A/paragraph/15.md)
+    - Protective searches of persons
+      - [Sch. 4A para. 16](schedule/4A/paragraph/16.md)
+    - Search for nationality documents
+      - [Sch. 4A para. 17](schedule/4A/paragraph/17.md)
+    - Assistants
+      - [Sch. 4A para. 18](schedule/4A/paragraph/18.md)
+    - Reasonable force
+      - [Sch. 4A para. 19](schedule/4A/paragraph/19.md)
+    - Evidence of authority
+      - [Sch. 4A para. 20](schedule/4A/paragraph/20.md)
+    - Protection of relevant officers
+      - [Sch. 4A para. 21](schedule/4A/paragraph/21.md)
+    - Offences
+      - [Sch. 4A para. 22](schedule/4A/paragraph/22.md)
+  - PART 3 Northern Ireland
+    - Introductory
+      - [Sch. 4A para. 23](schedule/4A/paragraph/23.md)
+    - Power to stop, board, divert and detain
+      - [Sch. 4A para. 24](schedule/4A/paragraph/24.md)
+    - Power to search and obtain information
+      - [Sch. 4A para. 25](schedule/4A/paragraph/25.md)
+    - Power of arrest and seizure
+      - [Sch. 4A para. 26](schedule/4A/paragraph/26.md)
+    - Protective searches of persons
+      - [Sch. 4A para. 27](schedule/4A/paragraph/27.md)
+    - Search for nationality documents
+      - [Sch. 4A para. 28](schedule/4A/paragraph/28.md)
+    - Assistants
+      - [Sch. 4A para. 29](schedule/4A/paragraph/29.md)
+    - Reasonable force
+      - [Sch. 4A para. 30](schedule/4A/paragraph/30.md)
+    - Evidence of authority
+      - [Sch. 4A para. 31](schedule/4A/paragraph/31.md)
+    - Protection of relevant officers
+      - [Sch. 4A para. 32](schedule/4A/paragraph/32.md)
+    - Offences
+      - [Sch. 4A para. 33](schedule/4A/paragraph/33.md)
+- SCHEDULE 5 The Adjudicators and the Tribunal
+  - Part I The Adjudicators
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 ................................](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Part II The Tribunal
+    - Members
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - [Sch. 5 para. 10 ................................](schedule/5/paragraph/10.md)
+    - Proceedings
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Part III Staff and Expenses
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+- SCHEDULE 6 Repeals
