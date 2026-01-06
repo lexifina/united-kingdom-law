@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-01-01, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-06, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-01-01
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-01-06
 
 ## Contents
 
@@ -115,6 +115,13 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-01-01
   - [s. 81 Conflicts of interest: duty to identify](section/81.md)
   - [s. 82 Conflicts of interest: duty to mitigate](section/82.md)
   - [s. 83 Conflicts assessments](section/83.md)
+- Part 5A Outsourcing: protection of workers
+  - [s. 83A Application of this Part](section/83A.md)
+  - [s. 83B Relevant outsourcing contracts](section/83B.md)
+  - [s. 83C Power to specify provision for inclusion in relevant outsourcing contracts](section/83C.md)
+  - [s. 83D Code of practice on relevant outsourcing contracts](section/83D.md)
+  - [s. 83E Interpretation of this Part](section/83E.md)
+  - [s. 83F Power of Scottish Ministers to amend this Part](section/83F.md)
 - PART 6 Below-threshold contracts
   - [s. 84 Regulated below-threshold contracts](section/84.md)
   - [s. 85 Regulated below-threshold contracts: procedure](section/85.md)
