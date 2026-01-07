@@ -1,0 +1,186 @@
+# Regulation of Care (Scotland) Act 2001
+
+asp/2001/8. Enacted 2001-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2001/8
+
+Source: https://www.legislation.gov.uk/asp/2001/8/2026-01-07
+
+## Contents
+
+- PART 1 THE COMMISSION AND CARE SERVICES
+  - Constitution of Commission
+    - [s. 1 Constitution of Scottish Commission for the Regulation of Care](section/1.md)
+  - Care services
+    - [s. 2 Care services](section/2.md)
+    - [s. 3 Power to amend the definition of “care service"](section/3.md)
+    - [s. 4 Information and advice](section/4.md)
+  - National care standards
+    - [s. 5 National care standards](section/5.md)
+  - Complaints
+    - [s. 6 Complaints about care services](section/6.md)
+  - Registration
+    - [s. 7 Applications for registration under Part 1](section/7.md)
+    - [s. 8 Limited registration](section/8.md)
+    - [s. 9 Grant or refusal of registration under Part 1](section/9.md)
+  - Improvement notices
+    - [s. 10 Improvement notices](section/10.md)
+    - [s. 11 Special provision for certain care services provided by local authorities](section/11.md)
+  - Proposals and applications in relation to registered care services
+    - [s. 12 Cancellation of registration](section/12.md)
+    - [s. 13 Condition notices](section/13.md)
+    - [s. 14 Applications under Part 1 in respect of conditions](section/14.md)
+    - [s. 15 Further provision as respects notice of proposals](section/15.md)
+    - [s. 16 Right to make representations to Commission as respects proposals under Part 1](section/16.md)
+    - [s. 17 Notice of Commission’s decision under Part 1](section/17.md)
+    - [s. 18 Urgent procedures for cancellation of registration etc.](section/18.md)
+    - [s. 19 Conditions as to numbers](section/19.md)
+    - [s. 20 Appeal against decision to implement proposal](section/20.md)
+  - Offences
+    - [s. 21 Offences in relation to registration under Part 1](section/21.md)
+    - [s. 22 False statements in applications under Part 1](section/22.md)
+    - [s. 23 Offences by bodies corporate etc.](section/23.md)
+  - Fees
+    - [s. 24 Registration fees](section/24.md)
+  - Inspections
+    - [s. 25 Inspections](section/25.md)
+    - [s. 26 Integrated inspections](section/26.md)
+    - [s. 27 Further provision as regards inspections](section/27.md)
+  - Regulations
+    - [s. 28 Regulations relating to the Commission, to registration and to registers](section/28.md)
+    - [s. 29 Regulations relating to care services](section/29.md)
+  - Transfer of staff
+    - [s. 30 Transfer of staff](section/30.md)
+  - Miscellaneous
+    - [s. 31 Arrangements entered into by local authority or health body: services to be registered](section/31.md)
+    - [s. 32 Giving of notice](section/32.md)
+- PART 2 LOCAL AUTHORITY ADOPTION AND FOSTERING SERVICES ETC.
+  - [s. 33 Local authority applications for registration under Part 2](section/33.md)
+  - [s. 34 Grant of local authority application under Part 2](section/34.md)
+  - [s. 35 Condition notices: services registered under Part 2](section/35.md)
+  - [s. 36 Applications under Part 2 in respect of conditions](section/36.md)
+  - [s. 37 Right to make representations to Commission under Part 2 as respects conditions](section/37.md)
+  - [s. 38 Notice of Commission’s decision under Part 2](section/38.md)
+  - [s. 39 Appeal against decision under Part 2](section/39.md)
+  - [s. 40 Offences under Part 2](section/40.md)
+  - [s. 41 Report to Scottish Ministers](section/41.md)
+  - [s. 42 Default powers of Scottish Ministers](section/42.md)
+- PART 3 THE COUNCIL
+  - Constitution
+    - [s. 43 Constitution of Scottish Social Services Council](section/43.md)
+  - Registration
+    - [s. 44 Register of social workers and of other social service workers](section/44.md)
+    - [s. 45 Applications for registration under Part 3](section/45.md)
+    - [s. 46 Grant or refusal of registration under Part 3](section/46.md)
+    - [s. 46A Visiting social workers from relevant European States](section/46A.md)
+    - [s. 46B Qualifications gained outside Scotland](section/46B.md)
+    - [s. 47 Variation etc. of conditions in relation to registration under Part 3](section/47.md)
+    - [s. 48 Right to make representations to Council as respects decision under section 47](section/48.md)
+    - [s. 49 Removal etc. from the Council’s register](section/49.md)
+    - [s. 50 Notice of Council’s decision under rules under section 49](section/50.md)
+  - Information from third parties
+    - [s. 50A Council’s power to require information](section/50A.md)
+  - Appeal
+    - [s. 51 Appeal against decision of Council](section/51.md)
+  - Offence
+    - [s. 52 Use of title “social worker" etc.](section/52.md)
+  - Codes of practice
+    - [s. 53 Codes of practice](section/53.md)
+  - Training
+    - [s. 54 Approval of courses etc.](section/54.md)
+    - [s. 55 Grants and allowances for social service workers’ training](section/55.md)
+  - Regulations and rules
+    - [s. 56 Regulations relating to the Council](section/56.md)
+    - [s. 57 Power of Council to make rules](section/57.md)
+  - Notification of dismissal etc. for misconduct
+    - [s. 57A Notification of dismissal etc. to Council](section/57A.md)
+    - [s. 57B Provision of other information to Council by employer](section/57B.md)
+  - Functions of the Scottish Ministers
+    - [s. 58 Functions of the Scottish Ministers under this Part](section/58.md)
+- PART 4 GENERAL PRINCIPLES
+  - [s. 59 General principles](section/59.md)
+- PART 5 PROVISIONS COMMON TO COMMISSION AND COUNCIL
+  - Grants and guarantees
+    - [s. 60 Grants](section/60.md)
+    - [s. 61 Guarantees](section/61.md)
+  - Duty to consult
+    - [s. 62 Duty of Commission and Council to consult each other](section/62.md)
+    - [s. 63 Guidance as to consultation](section/63.md)
+  - Complaints, inquiries and maladministration
+    - [s. 64 Complaints procedure](section/64.md)
+    - [s. 65 Inquiries](section/65.md)
+    - [s. 66 ................................](section/66.md)
+- PART 6 MISCELLANEOUS
+  - Central Council for Education and Training in Social Work: cessation of Scottish functions
+    - [s. 67 Cessation of exercise of certain functions by Central Council for Education and Training in Social Work](section/67.md)
+  - Grants, loans and other payments
+    - [s. 68 Grants in respect of activities relating to child care and family support](section/68.md)
+    - [s. 69 Amendment of Social Work (Scotland) Act 1968: delegation of power to make grants and loans to certain voluntary organisations etc.](section/69.md)
+    - [s. 70 Amendment of Social Work (Scotland) Act 1968: direct payments to children for care services](section/70.md)
+    - [s. 71 Amendment of Children Act 1975: maintenance payments to children](section/71.md)
+  - Nursing in local authority residential accommodation
+    - [s. 72 Provision by local authorities of residential accommodation in which nursing is provided](section/72.md)
+  - After-care
+    - [s. 73 Amendment of Children (Scotland) Act 1995: after-care](section/73.md)
+  - Place of safety
+    - [s. 74 Amendment of Children (Scotland) Act 1995: “place of safety"](section/74.md)
+  - Panels
+    - [s. 75 Panels for curators ad litem, reporting officers and safeguarders](section/75.md)
+    - [s. 76 Amendment of Children (Scotland) Act 1995: Children’s Panel Advisory Committees](section/76.md)
+- PART 7 GENERAL
+  - [s. 77 Interpretation](section/77.md)
+  - [s. 78 Orders and regulations](section/78.md)
+  - [s. 79 Minor and consequential amendments](section/79.md)
+  - [s. 80 Repeals and transitional provisions etc.](section/80.md)
+  - [s. 81 Short title and commencement](section/81.md)
+- SCHEDULE 1 THE SCOTTISH COMMISSION FOR THE REGULATION OF CARE
+  - [Sch. 1 para. 1 Status](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Membership](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 General powers](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Regulations as to appointments, procedure etc.](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Staff](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Accounts](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Reports](schedule/1/paragraph/10.md)
+- SCHEDULE 2 THE SCOTTISH SOCIAL SERVICES COUNCIL
+  - [Sch. 2 para. 1 Status](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Membership](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 General powers](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Regulations as to appointments, procedure etc.](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Staff](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Accounts](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Reports](schedule/2/paragraph/10.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - [Sch. 3 para. 1 Human Tissue Act 1961 (c.54)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c.49)](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Sewerage (Scotland) Act 1968 (c.47)](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Social Work (Scotland) Act 1968 (c.49)](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Medicines Act 1968 (c.67)](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Employment Agencies Act 1973 (c.35)](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Adoption (Scotland) Act 1978 (c.28)](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Water (Scotland) Act 1980 (c.45)](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Administration of Justice Act 1982 (c.53)](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Anatomy Act 1984 (c.14)](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Mental Health (Scotland) Act 1984 (c.36)](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Foster Children (Scotland) Act 1984 (c.56)](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13 Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14 Income and Corporation Taxes Act 1988 (c.1)](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15 Children Act 1989 (c.41)](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 16 Opticians Act 1989 (c.44)](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17 Environmental Protection Act 1990 (c.43)](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18 Local Government Finance Act 1992 (c.14)](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19 Children (Scotland) Act 1995 (c.36)](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20 Criminal Procedure (Scotland) Act 1995 (c.46)](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21 Police Act 1997 (c.50)](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22 Adoption (Intercountry Aspects) Act 1999 (c.18)](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23 Adults with Incapacity (Scotland) Act 2000 (asp 4)](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25 Sexual Offences (Amendment) Act 2000 (c.44)](schedule/3/paragraph/25.md)
+- SCHEDULE 4 REPEALS
