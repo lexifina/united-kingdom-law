@@ -1,0 +1,294 @@
+# Social Work (Scotland) Act 1968
+
+1968 c. 49. Enacted 1968-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 22 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1968/49
+
+Source: https://www.legislation.gov.uk/ukpga/1968/49/2026-01-07
+
+## Contents
+
+- Part I Administration
+  - Performance of their duties by local authorities
+    - [s. 1 Local authorities for the administration of the Act.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 Chief social work officer.](section/3.md)
+    - [s. 4 Provisions relating to performance of functions by local authorities.](section/4.md)
+  - Central Authority
+    - [s. 5 Powers of Secretary of State.](section/5.md)
+    - [s. 5ZA National Chief Social Work Adviser and National Social Work Agency](section/5ZA.md)
+    - [s. 5A Local authority plans for community care services.](section/5A.md)
+    - [s. 5B Complaints procedure.](section/5B.md)
+    - [s. 6 Supervision of establishments providing accommodation for persons and inspection of records etc.](section/6.md)
+    - [s. 6A Inquiries.](section/6A.md)
+    - [s. 6B Local authority inquiries into matters affecting children.](section/6B.md)
+    - [s. 7 ................................](section/7.md)
+  - Research, training courses and financial and other assistance
+    - [s. 8 Research.](section/8.md)
+    - [s. 9 Training courses and grants for training in social work.](section/9.md)
+    - [s. 10 Financial and other assistance to voluntary organisations etc., for social work.](section/10.md)
+  - Acquisition of land
+    - [s. 11 Acquisition of land.](section/11.md)
+- Part II Promotion of Social Welfare by Local Authorities
+  - General
+    - [s. 12 General social welfare services of local authorities.](section/12.md)
+    - [s. 12A Duty of local authority to assess needs.](section/12A.md)
+    - [s. 12AZA Assessments under section 12A: assistance](section/12AZA.md)
+    - [s. 12AA Assessment of ability to provide care](section/12AA.md)
+    - [s. 12AB Duty of local authority to provide information to carer](section/12AB.md)
+    - [s. 12B Direct payments in respect of community care services.](section/12B.md)
+    - [s. 12C Further provisions relating to direct payments.](section/12C.md)
+    - [s. 13 Power of local authorities to assist persons in need in disposal of produce of their work.](section/13.md)
+    - [s. 13ZA Provision of services to incapable adults](section/13ZA.md)
+  - Residential accommodation with nursing.
+    - [s. 13A Residential accommodation with nursing.](section/13A.md)
+  - Provision of care and after-care
+    - [s. 13B Provision of care and after-care](section/13B.md)
+  - Home help
+    - [s. 14 Home help and laundry facilities.](section/14.md)
+  - Special provisions as to the care of children in need
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 16A ................................](section/16A.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 17A ................................](section/17A.md)
+    - [s. 17B ................................](section/17B.md)
+    - [s. 17C ................................](section/17C.md)
+    - [s. 17D ................................](section/17D.md)
+    - [s. 17E ................................](section/17E.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 18A ................................](section/18A.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 20A ................................](section/20A.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 23 ................................](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 25A ................................](section/25A.md)
+    - [s. 26 ................................](section/26.md)
+  - Supervision and care of persons put on probation or released from prisons etc.
+    - [s. 27 Supervision and care of persons put on probation or released from prisons etc.](section/27.md)
+    - [s. 27ZA Advice, guidance and assistance to persons arrested or on whom sentence deferred](section/27ZA.md)
+    - [s. 27A Grants in respect of community service facilities](section/27A.md)
+    - [s. 27B Grants in respect of hostel accommodation for persons under supervision.](section/27B.md)
+  - Ancillary
+    - [s. 28 Burial or cremation of the dead.](section/28.md)
+    - [s. 29 Power of local authority to defray certain travelling expenses.](section/29.md)
+- Part III Children in need of Compulsory Measures of Care
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 Restriction on prosecution of children for offences.](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 ................................](section/33.md)
+  - [s. 34 ................................](section/34.md)
+  - [s. 34A ................................](section/34A.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 ................................](section/36.md)
+  - [s. 36A ................................](section/36A.md)
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 ................................](section/41.md)
+  - [s. 42 ................................](section/42.md)
+  - [s. 43 ................................](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 ................................](section/46.md)
+  - [s. 47 ................................](section/47.md)
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 ................................](section/49.md)
+  - [s. 50 ................................](section/50.md)
+  - [s. 51 ................................](section/51.md)
+  - [s. 52 ................................](section/52.md)
+  - [s. 53 ................................](section/53.md)
+  - [s. 54 ................................](section/54.md)
+  - [s. 55 ................................](section/55.md)
+  - [s. 56 ................................](section/56.md)
+  - [s. 57 ................................](section/57.md)
+  - [s. 58 ................................](section/58.md)
+  - [s. 58A ................................](section/58A.md)
+  - [s. 58B ................................](section/58B.md)
+  - [s. 58C ................................](section/58C.md)
+  - [s. 58D ................................](section/58D.md)
+  - [s. 58E ................................](section/58E.md)
+  - [s. 58F ................................](section/58F.md)
+  - [s. 58G ................................](section/58G.md)
+- Part IV Residential and other Establishments
+  - Provision of residential and other establishments
+    - [s. 59 Provision of residential and other establishments by local authorities, and maximum period for repayment of sums borrowed for such provision.](section/59.md)
+    - [s. 59A Grants in respect of secure accommodation for children.](section/59A.md)
+    - [s. 60 Control of residential and other establishments.](section/60.md)
+  - Registration of certain residential and other establishments
+    - [s. 61 Restriction on carrying on of establishments.](section/61.md)
+    - [s. 61A Voluntary registration.](section/61A.md)
+    - [s. 62 Registration.](section/62.md)
+    - [s. 62A Certificate of registration as respects grant-aided or independent school.](section/62A.md)
+    - [s. 63 Special provisions for registration by Secretary of State.](section/63.md)
+    - [s. 63A Appeals against conditions imposed on registration or subsequently.](section/63A.md)
+    - [s. 63B Special provisions for jointly registrable establishments.](section/63B.md)
+    - [s. 64 Appeals against refusal or cancellation of registration.](section/64.md)
+    - [s. 64A Registration fees.](section/64A.md)
+    - [s. 65 Removal of persons from establishments.](section/65.md)
+    - [s. 66 Duty to furnish particulars of establishments.](section/66.md)
+    - [s. 67 Entry to examine state and management of establishments etc.](section/67.md)
+    - [s. 68 Visiting of persons in establishments on behalf of local authorities.](section/68.md)
+- Part V
+  - Absence without leave
+    - [s. 69 Abscondment from a place of safety, or from the control of a person imposed by a supervision requirement.](section/69.md)
+    - [s. 70 Abscondment from residential establishments.](section/70.md)
+    - [s. 71 Harbouring.](section/71.md)
+  - Transfer
+    - [s. 72 Supervision of children moving to England or Wales or Northern Ireland.](section/72.md)
+    - [s. 73 Supervision of children moving to Scotland.](section/73.md)
+    - [s. 74 Parent of a child in a residential establishment under a supervision requirement moving to England or Wales or Northern Ireland.](section/74.md)
+    - [s. 75 Parent of a child subject to an approved school order or a committal order moving to Scotland.](section/75.md)
+    - [s. 76 Procedure.](section/76.md)
+    - [s. 77 Meaning of child for the purposes of this Part of this Act.](section/77.md)
+- Part VI Contributions in respect of Children in Care etc.
+  - [s. 78 Duty to make contributions in respect of children in care etc.](section/78.md)
+  - [s. 78A Recovery of contributions.](section/78A.md)
+  - [s. 79 Recipients of contributions.](section/79.md)
+  - [s. 80 Enforcement of duty to make contributions.](section/80.md)
+  - [s. 81 Provisions as to decrees for aliment.](section/81.md)
+  - [s. 82 Recovery of arrears of contributions.](section/82.md)
+  - [s. 83 Variation of trusts.](section/83.md)
+  - [s. 83A References in this Part of this Act to child being looked after.](section/83A.md)
+- Part VII Miscellaneous and General
+  - General
+    - [s. 84 Transfer of assets and liabilities.](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 Adjustments between authority providing accommodation etc., and authority of area of residence.](section/86.md)
+    - [s. 86A ................................](section/86A.md)
+    - [s. 87 Charges that may be made for services and accommodation.](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+    - [s. 90 Orders, regulations etc.](section/90.md)
+    - [s. 91 Expenses.](section/91.md)
+    - [s. 92 Effect of Act on rate support grant.](section/92.md)
+    - [s. 92A Powers of the Secretary of State to make grants.](section/92A.md)
+  - Supplementary
+    - [s. 93 Transitional provisions.](section/93.md)
+    - [s. 94 Interpretation.](section/94.md)
+    - [s. 95 Minor and consequential amendments, repeals and savings.](section/95.md)
+    - [s. 96 ................................](section/96.md)
+    - [s. 97 Extension of certain provisions of Act to England and Wales, Northern Ireland and the Channel Islands.](section/97.md)
+    - [s. 98 Commencement.](section/98.md)
+    - [s. 99 Short title.](section/99.md)
+- SCHEDULE 1
+- SCHEDULE 2 Amendment of Part IV of the Children and Young Persons (Scotland) Act 1937
+  - Part I
+    - General Adaptations
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part II Specific Adaptations
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Children’s Panels
+  - Appointment
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Children’s Panel Advisory Committee
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 3A](schedule/3/paragraph/3A.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 5A](schedule/3/paragraph/5A.md)
+    - [Sch. 3 para. 5B](schedule/3/paragraph/5B.md)
+  - Recruitment and Training of Panel Members
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Expenses of Panel Members
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4
+- SCHEDULE 5
+- SCHEDULE 6 Transfer of Assets and Liabilities
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Transitional Provisions
+  - Registration of existing establishments
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Approved schools
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Contributions in respect of children taken into care
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Approved school orders, fit person orders, and supervision orders
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Jurisdiction of courts
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Remand Home Grant
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Probation Grant
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Interpretation
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Minor and Consequential Amendments
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Children and Young Persons (Scotland) Act 1937
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - National Health Service (Scotland) Act 1947
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - National Assistance Act 1948
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Nurseries and Child-Minders Regulation Act 1948
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Maintenance Orders Act 1950
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - Valuation and Rating (Scotland) Act 1956
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - Adoption Act 1958
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+  - Matrimonial Proceedings (Children) Act 1958
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - Health Visiting and Social Work (Training) Act 1962
+    - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+    - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+    - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+  - Children and Young Persons Act 1963
+    - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+    - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+  - Registration of Births, Deaths and Marriages (Scotland) Act 1965
+    - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+    - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+- SCHEDULE 9 Enactments Repealed
+  - Part I Repeals Extending to Scotland Only
+  - Part II Repeals Extending to England and Wales
