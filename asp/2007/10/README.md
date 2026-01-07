@@ -1,0 +1,122 @@
+# Adult Support and Protection (Scotland) Act 2007
+
+asp/2007/10. Enacted 2007-03-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/10
+
+Source: https://www.legislation.gov.uk/asp/2007/10/2026-01-07
+
+## Contents
+
+- Part 1 Protection of adults at risk of harm
+  - Introductory
+    - [s. 1 General principle on intervention in an adult’s affairs](section/1.md)
+    - [s. 2 Principles for performing Part 1 functions](section/2.md)
+    - [s. 3 Adults at risk](section/3.md)
+  - Inquiries
+    - [s. 4 Council’s duty to make inquiries](section/4.md)
+    - [s. 5 Co-operation](section/5.md)
+    - [s. 5A Disclosure of information by and to certain health care services](section/5A.md)
+    - [s. 6 Duty to consider importance of providing advocacy and other services](section/6.md)
+  - Investigations
+    - [s. 7 Visits](section/7.md)
+    - [s. 8 Interviews](section/8.md)
+    - [s. 9 Medical examinations](section/9.md)
+    - [s. 10 Examination of records etc.](section/10.md)
+  - Assessment orders
+    - [s. 11 Assessment orders](section/11.md)
+    - [s. 12 Criteria for granting assessment order](section/12.md)
+    - [s. 13 Restriction on exercise of assessment order](section/13.md)
+  - Removal orders
+    - [s. 14 Removal orders](section/14.md)
+    - [s. 15 Criteria for granting removal order](section/15.md)
+    - [s. 16 Right to move adult at risk](section/16.md)
+    - [s. 17 Variation or recall of removal order](section/17.md)
+    - [s. 18 Protection of moved person’s property](section/18.md)
+  - Banning orders
+    - [s. 19 Banning orders](section/19.md)
+    - [s. 20 Criteria for granting banning order](section/20.md)
+    - [s. 21 Temporary banning orders](section/21.md)
+    - [s. 22 Right to apply for banning order](section/22.md)
+    - [s. 23 Banning orders: occupancy rights of adult at risk](section/23.md)
+    - [s. 24 Variation or recall of banning order](section/24.md)
+    - [s. 25 Powers of arrest](section/25.md)
+    - [s. 26 Notification to adult at risk etc.](section/26.md)
+    - [s. 27 Notification to police](section/27.md)
+    - [s. 28 Arrest for breach of banning order](section/28.md)
+    - [s. 29 Police duties after arrest](section/29.md)
+    - [s. 30 Notification of detention](section/30.md)
+    - [s. 31 Duty to keep record of detention](section/31.md)
+    - [s. 32 Duty to bring detained person before sheriff](section/32.md)
+    - [s. 33 Information to be presented to sheriff](section/33.md)
+    - [s. 34 Criteria for authorising longer detention](section/34.md)
+  - Protection orders and visits: supplementary
+    - [s. 35 Consent of adult at risk](section/35.md)
+    - [s. 36 Visits: supplementary provisions](section/36.md)
+    - [s. 37 Warrants for entry](section/37.md)
+    - [s. 38 Criteria for granting warrants for entry: section 7 visits](section/38.md)
+    - [s. 39 Duty to grant warrants for entry: removal orders](section/39.md)
+    - [s. 40 Urgent cases](section/40.md)
+    - [s. 41 Applications: procedure](section/41.md)
+  - Adult Protection Committees
+    - [s. 42 Adult Protection Committees](section/42.md)
+    - [s. 43 Membership](section/43.md)
+    - [s. 44 Committee procedure](section/44.md)
+    - [s. 45 Duty to provide information to the Committee](section/45.md)
+    - [s. 45A Disclosure of information to the Committee by certain health care services](section/45A.md)
+    - [s. 46 Biennial Report](section/46.md)
+    - [s. 47 Guidance](section/47.md)
+  - Other provisions
+    - [s. 48 Code of practice](section/48.md)
+    - [s. 49 Obstruction](section/49.md)
+    - [s. 50 Offences by bodies corporate etc.](section/50.md)
+    - [s. 51 Appeals](section/51.md)
+    - [s. 52 Persons authorised to perform functions under this Part](section/52.md)
+    - [s. 53 Interpretation of Part 1](section/53.md)
+- Part 2 Adults with incapacity
+  - [s. 54 Preliminary](section/54.md)
+  - [s. 55 Applications and proceedings: sheriff to consider adult’s wishes and feelings](section/55.md)
+  - [s. 56 Orders about incapable adults’ nearest relatives](section/56.md)
+  - [s. 57 Powers of attorney](section/57.md)
+  - [s. 58 Accounts and funds](section/58.md)
+  - [s. 59 Intervention orders](section/59.md)
+  - [s. 60 Guardianship orders](section/60.md)
+  - [s. 61 Power to obtain records](section/61.md)
+- Part 3 Adult support etc.: miscellaneous amendments and repeals
+  - [s. 62 Accommodation charges: removal of liability to maintain spouse and child etc.](section/62.md)
+  - [s. 63 Direct payments: sub-delegation to councils](section/63.md)
+  - [s. 64 Power to help incapable adults to benefit from social services etc.](section/64.md)
+  - [s. 65 Adjustments between councils in relation to social services etc.](section/65.md)
+  - [s. 66 Application of Social Work (Scotland) Act 1968: persons outwith Scotland](section/66.md)
+  - [s. 67 Public Guardian: interaction with courts](section/67.md)
+- Part 4 Mental health: miscellaneous amendments and repeals
+  - [s. 68 Review of determination extending compulsory treatment order](section/68.md)
+  - [s. 69 Compulsion orders: revocation](section/69.md)
+  - [s. 70 Hospital directions and transfer for treatment directions: revocation](section/70.md)
+  - [s. 71 Compulsory treatment orders and compulsion orders: cross-border transfer of patients etc.](section/71.md)
+  - [s. 72 Cross-border visits: leave of absence](section/72.md)
+  - [s. 73 Applications to the Mental Health Tribunal for Scotland](section/73.md)
+  - [s. 74 Mental Health Act 1983: repeal of power to return patients absent from hospital etc.](section/74.md)
+  - [s. 75 Assessment orders: amendment of Criminal Procedure (Scotland) Act 1995](section/75.md)
+- Part 5 Final provisions
+  - [s. 76 Ancillary provision](section/76.md)
+  - [s. 77 Minor and consequential amendments and repeals](section/77.md)
+  - [s. 78 Orders](section/78.md)
+  - [s. 79 Commencement](section/79.md)
+  - [s. 80 Short title](section/80.md)
+- SCHEDULE 1 Minor and consequential amendments
+  - National Assistance Act 1948 (c. 29)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Legal Aid (Scotland) Act 1986 (c. 47)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Adults with Incapacity (Scotland) Act 2000 (asp 4)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Repeals
