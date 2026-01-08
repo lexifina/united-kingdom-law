@@ -1,0 +1,146 @@
+# Local Government (Scotland) Act 1966
+
+1966 c. 51. Enacted 1966-12-21.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1966/51/2026-01-08
+
+## Contents
+
+- Part I Grants
+  - [s. 1 ................................](section/1.md)
+  - Rate support grants for local authorities
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Specific grants
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 Grants for certain expenditure in relation to ethnic minorities.](section/11.md)
+- Part II Rates
+  - Local authority apportionments etc.
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 Amendment of the Act of 1963.](section/13.md)
+    - [s. 14 ................................](section/14.md)
+  - Valuation and Rating
+    - [s. 15 Valuation according to tone of roll.](section/15.md)
+    - [s. 16 Determination of cumulo rateable value and rateable value pertaining to water undertakings.](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 Gas and Electricity Boards: rating of showrooms.](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 Amendment of section 22 of the Valuation and Rating (Scotland) Act 1956.](section/21.md)
+    - [s. 22 Complaints regarding omissions from the valuation roll.](section/22.md)
+    - [s. 23 Amendment of section 7 of the Valuation of Lands (Scotland) Amendment Act 1879.](section/23.md)
+  - Rating of unoccupied property
+    - [s. 24 Unoccupied lands and heritages.](section/24.md)
+    - [s. 24ZA Liability of owners of unoccupied lands and heritages](section/24ZA.md)
+    - [s. 24A Lands and heritages partly unoccupied for a short time.](section/24A.md)
+    - [s. 24B Certain lands and heritages to be treated as unoccupied.](section/24B.md)
+    - [s. 25 Newly erected, altered etc. buildings: completion notices.](section/25.md)
+  - Exemption from payment of rates
+    - [s. 25A Remission of rates on account of hardship.](section/25A.md)
+    - [s. 26 ................................](section/26.md)
+- Part III Roads
+  - [s. 28 ................................](section/28.md)
+- Part IV
+  - Miscellaneous and General
+    - [s. 35 Placing of staff etc. of local authority at disposal of Secretary of State or of another local authority.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 38 Amendment of section 187 of the Local Government (Scotland) Act 1947.](section/38.md)
+    - [s. 39 ................................](section/39.md)
+    - [s. 40 Interpretation of “public utility undertaking” in section 379(1) of Local Government (Scotland) Act 1947.](section/40.md)
+    - [s. 41 Payments by local authorities to offset effect of selective employment tax.](section/41.md)
+    - [s. 42 Amendment of certain enactments relating to licences.](section/42.md)
+    - [s. 43 ................................](section/43.md)
+    - [s. 44 Game Licences.](section/44.md)
+    - [s. 45 Orders and regulations.](section/45.md)
+    - [s. 46 General interpretation.](section/46.md)
+    - [s. 47 Expenses.](section/47.md)
+    - [s. 48 Amendments and repeals.](section/48.md)
+    - [s. 49 Short title and extent.](section/49.md)
+- SCHEDULE 1...
+  - Part I The Needs Element
+    - Apportionment
+      - [Sch. 1 Pt. I heading apportionment para. 1](schedule/1/part/I/crossheading/apportionment/paragraph/1.md)
+      - [Sch. 1 Pt. I heading apportionment para. 2](schedule/1/part/I/crossheading/apportionment/paragraph/2.md)
+      - [Sch. 1 para. 2A ................................](schedule/1/paragraph/2A.md)
+      - [Sch. 1 Pt. I heading apportionment para. 3](schedule/1/part/I/crossheading/apportionment/paragraph/3.md)
+      - [Sch. 1 para. 3A](schedule/1/paragraph/3A.md)
+    - Adjustment of the needs element payable to local authorities
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part II The Resources Element
+    - [Sch. 1 Pt. II para. 1](schedule/1/part/II/paragraph/1.md)
+    - [Sch. 1 Pt. II para. 2](schedule/1/part/II/paragraph/2.md)
+    - [Sch. 1 Pt. II para. 3](schedule/1/part/II/paragraph/3.md)
+  - Part III The Domestic Element
+    - [Sch. 1 Pt. III para. 1](schedule/1/part/III/paragraph/1.md)
+    - [Sch. 1 Pt. III para. 2](schedule/1/part/III/paragraph/2.md)
+    - [Sch. 1 Pt. III para. 3](schedule/1/part/III/paragraph/3.md)
+- SCHEDULE 2 Valuation of Water Undertakings
+  - Part I Determination of Cumulo Rateable Value
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Part II Determination of Cumulo Rateable Value in Respect of Amalgamated Undertakings and of New Undertakings
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part III Determination of Rateable Value
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Part IV Miscellaneous
+    - Transitional Provisions
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Orders
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Interpretation
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+- SCHEDULE 3 Rating of Unoccupied Property
+  - Determination of rateable values
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Completion of newly erected or constructed buildings
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Supplemental
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Licences etc.
+  - Part I ...
+  - Part II Variation of Fees for Licences, Registration, etc.
+- SCHEDULE 5 Consequential Amendments
+  - The Local Government Act 1948
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - The Local Government (Scotland) Act 1947
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - The Town and Country Planning (Scotland) Act 1959
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6
