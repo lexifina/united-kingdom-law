@@ -1,0 +1,106 @@
+# Valuation and Rating (Scotland) Act 1956
+
+1956 c. 60. Enacted 1956-08-02.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-08, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/4-5/60/2026-01-08
+
+## Contents
+
+- Part I Valuation
+  - [s. 1 ................................](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 ................................](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 ................................](section/5.md)
+  - [s. 6 Ascertainment of gross annual value, net annual value and rateable value of lands and heritages.](section/6.md)
+  - [s. 6A Power of Secretary of State to combine and divide lands and heritages.](section/6A.md)
+  - [s. 7 Ascertainment of gross annual value, net annual value and rateable value of lands and heritages.](section/7.md)
+  - [s. 7A Provisions relating to lands and heritages used for fish farming and dwelling houses occupied in connection therewith.](section/7A.md)
+  - [s. 7B Rateable value of certain buildings used for breeding or rearing horses.](section/7B.md)
+  - [s. 8 Subjects to be excluded from valuation roll.](section/8.md)
+  - [s. 8A Common parts of shopping malls not to be entered separately in valuation roll.](section/8A.md)
+  - [s. 8AA Exemption from valuation and rating of certain moorings.](section/8AA.md)
+  - [s. 8B Property used for road user charging scheme to be excluded from valuation roll](section/8B.md)
+  - [s. 8C Exclusion of automatic telling machine sites from valuation roll](section/8C.md)
+  - [s. 8D Power of Scottish Ministers to remove exempt status of lands and heritages](section/8D.md)
+  - [s. 9 Duties of assessors.](section/9.md)
+  - [s. 10 ................................](section/10.md)
+  - [s. 11 ................................](section/11.md)
+  - [s. 12 ................................](section/12.md)
+  - [s. 13 Times for giving notices. etc.](section/13.md)
+  - [s. 14 Stated case to Lands Valuation Appeal Court to set forth reasons for decision.](section/14.md)
+  - [s. 15 ................................](section/15.md)
+- Part II Rating
+  - [s. 16 Transference of liability for owners’ rates and consequential reduction of rents.](section/16.md)
+  - [s. 17 ................................](section/17.md)
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 20A Contributions by police authorities.](section/20A.md)
+  - [s. 21 Contributions in aid of rates by Commissioners of Northern Lighthouses.](section/21.md)
+  - [s. 22 Exemption of churches, etc. from rates.](section/22.md)
+  - [s. 22A ................................](section/22A.md)
+  - [s. 23 Provisions as to the rates payable by charitable and other organisations.](section/23.md)
+- Part III Valuation and Rating of Gas Boards
+  - [s. 24 Valuation and rating of Gas Boards.](section/24.md)
+  - [s. 25 ................................](section/25.md)
+- Part IV Exchequer Grants
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 Amendment of s. 11 (1) of Act of 1954.](section/28.md)
+  - [s. 29 Duration of Part IV.](section/29.md)
+- Part V Miscellaneous and Consequential Provisions
+  - [s. 30 Calculation or apportionment of sums to be according to net annual valuation.](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+  - [s. 33 Amendment of ss. 239 to 241 of Act of 1947.](section/33.md)
+  - [s. 34 Amendment of s. 248 of Act of 1947.](section/34.md)
+  - [s. 35 ................................](section/35.md)
+  - [s. 36 Amendment of Seventh Schedule to Housing (Scotland) Act, 1950.](section/36.md)
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 Amendment of s. 1 (9) of Land Drainage (Scotland) Act, 1941.](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 ................................](section/40.md)
+  - [s. 41 Financial Provisions.](section/41.md)
+  - [s. 42 Provisions as to orders.](section/42.md)
+  - [s. 43 Interpretation.](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 Short title and extent.](section/45.md)
+- FIRST SCHEDULE ...
+- SECOND SCHEDULE ...
+- THIRD SCHEDULE Reduction of Rents
+  - [Sch. THIRD para. 1](schedule/THIRD/paragraph/1.md)
+  - [Sch. THIRD para. 2](schedule/THIRD/paragraph/2.md)
+  - [Sch. THIRD para. 3](schedule/THIRD/paragraph/3.md)
+  - [Sch. THIRD para. 4](schedule/THIRD/paragraph/4.md)
+  - [Sch. THIRD para. 5](schedule/THIRD/paragraph/5.md)
+  - [Sch. THIRD para. 68.](schedule/THIRD/paragraph/68.md)
+  - [Sch. THIRD para. 9](schedule/THIRD/paragraph/9.md)
+  - [Sch. THIRD para. 10](schedule/THIRD/paragraph/10.md)
+  - [Sch. THIRD para. 11](schedule/THIRD/paragraph/11.md)
+  - [Sch. THIRD para. 12](schedule/THIRD/paragraph/12.md)
+  - [Sch. THIRD para. 13](schedule/THIRD/paragraph/13.md)
+  - [Sch. THIRD para. 14](schedule/THIRD/paragraph/14.md)
+  - [Sch. THIRD para. 15](schedule/THIRD/paragraph/15.md)
+- FOURTH SCHEDULE New Provisions for Rating Gas Boards
+  - Part I
+    - Calculation of rateable value on which rates are to be assessed
+      - [Sch. FOURTH para. 1](schedule/FOURTH/paragraph/1.md)
+      - [Sch. FOURTH para. 2](schedule/FOURTH/paragraph/2.md)
+      - [Sch. FOURTH para. 3](schedule/FOURTH/paragraph/3.md)
+      - [Sch. FOURTH para. 4](schedule/FOURTH/paragraph/4.md)
+      - [Sch. FOURTH para. 5](schedule/FOURTH/paragraph/5.md)
+      - [Sch. FOURTH para. 6](schedule/FOURTH/paragraph/6.md)
+      - [Sch. FOURTH para. 7](schedule/FOURTH/paragraph/7.md)
+      - [Sch. FOURTH para. 8](schedule/FOURTH/paragraph/8.md)
+  - Part II
+    - Supplementary Provisions
+      - [Sch. FOURTH para. 9](schedule/FOURTH/paragraph/9.md)
+      - [Sch. FOURTH para. 10](schedule/FOURTH/paragraph/10.md)
+      - [Sch. FOURTH para. 11](schedule/FOURTH/paragraph/11.md)
+      - [Sch. FOURTH para. 12](schedule/FOURTH/paragraph/12.md)
+- FIFTH SCHEDULE
+- SIXTH SCHEDULE
+- SEVENTH SCHEDULE
