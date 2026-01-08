@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-09-30, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-08, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2025-09-30
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-01-08
 
 ## Contents
 
@@ -472,6 +472,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2025-09-30
 - SCHEDULE 7 Priority offences
   - [Sch. 7 para. 1 Assisting suicide](schedule/7/paragraph/1.md)
   - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 2A Encouraging or assisting serious self-harm](schedule/7/paragraph/2A.md)
   - [Sch. 7 para. 3 Threats to kill](schedule/7/paragraph/3.md)
   - [Sch. 7 para. 4 Public order offences, harassment, stalking and fear or provocation of violence](schedule/7/paragraph/4.md)
   - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
