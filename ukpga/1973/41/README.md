@@ -1,0 +1,327 @@
+# Fair Trading Act 1973
+
+1973 c. 41. Enacted 1973-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1973/41
+
+Source: https://www.legislation.gov.uk/ukpga/1973/41/2026-01-19
+
+## Contents
+
+- Part I Introductory
+  - [s. 1 Director General of Fair Trading.](section/1.md)
+  - [s. 2 General functions of Director.](section/2.md)
+  - [s. 3 Consumer Protection Advisory Committee.](section/3.md)
+  - [s. 4 ................................](section/4.md)
+  - [s. 5 Principal functions of Commission.](section/5.md)
+  - [s. 6 Monopoly situation in relation to supply of goods.](section/6.md)
+  - [s. 7 Monopoly situation in relation to supply of services.](section/7.md)
+  - [s. 8 Monopoly situation in relation to exports.](section/8.md)
+  - [s. 9 Monopoly situation limited to part of United Kingdom.](section/9.md)
+  - [s. 10 Supplementary provisions relating to ss. 6 to 9.](section/10.md)
+  - [s. 11 Meaning of “complex monopoly situation”.](section/11.md)
+  - [s. 12 Powers of Secretary of State in relation to functions of Director.](section/12.md)
+- Part II References to Consumer Protection Advisory Committee
+  - General provisions
+    - [s. 13 Meaning of “consumer trade practice”.](section/13.md)
+    - [s. 14 General provisions as to references to Advisory Committee.](section/14.md)
+    - [s. 15 Exclusion from s. 14 in respect of certain services.](section/15.md)
+    - [s. 16 Restriction on references under s. 14 in respect of certain goods and services.](section/16.md)
+    - [s. 17 Reference to Advisory Committee proposing recommendation to Secretary of State to make an order.](section/17.md)
+    - [s. 18 No such recommendation to be made except in pursuance of reference to which s. 17 applies.](section/18.md)
+    - [s. 19 Scope of recommendation proposed in reference to which s. 17 applies.](section/19.md)
+    - [s. 20 Time-limit and quorum for report on reference to which s. 17 applies.](section/20.md)
+    - [s. 21 Report of Advisory Committee on reference to which s. 17 applies.](section/21.md)
+  - Order in pursuance of report of Advisory Committee
+    - [s. 22 Order of Secretary of State in pursuance of report on reference to which s. 17 applies.](section/22.md)
+    - [s. 23 Penalties for contravention of order under s. 22.](section/23.md)
+    - [s. 24 Offences due to default of other person.](section/24.md)
+    - [s. 25 Defences in proceedings under s. 23.](section/25.md)
+    - [s. 26 Limitation of effect of orders under s. 22.](section/26.md)
+  - Enforcement of orders
+    - [s. 27 Enforcing authorities.](section/27.md)
+    - [s. 28 Power to make test purchases.](section/28.md)
+    - [s. 29 Power to enter premises and inspect and seize goods and documents.](section/29.md)
+    - [s. 30 Offences in connection with exercise of powers under s. 29.](section/30.md)
+    - [s. 31 Notice of test.](section/31.md)
+    - [s. 32 Compensation for loss in respect of goods seized under s. 29.](section/32.md)
+    - [s. 33 Application of Part II to Northern Ireland.](section/33.md)
+- Part III Additional Functions of Director for Protection of Consumers
+  - [s. 34 Action by Director with respect to course of conduct detrimental to interests of consumers.](section/34.md)
+  - [s. 35 Proceedings before Restrictive Practices Court.](section/35.md)
+  - [s. 36 Evidence in proceedings under s. 35.](section/36.md)
+  - [s. 37 Order of, or undertaking given to, Court in proceedings under s. 35.](section/37.md)
+  - [s. 38 Provisions as to persons consenting to or conniving at courses of conduct detrimental to interests of consumers.](section/38.md)
+  - [s. 39 Order of, or undertaking given to, Court in proceedings under s. 38.](section/39.md)
+  - [s. 40 Provisions as to interconnected bodies corporate.](section/40.md)
+  - [s. 41 Concurrent Jurisdiction of other courts in certain cases.](section/41.md)
+  - [s. 41A Meaning of “relevant Court”.](section/41A.md)
+  - [s. 42 Appeals from decisions or orders of courts under Part III.](section/42.md)
+  - [s. 43 Legal aid in proceedings under Part III in Restrictive Practices Court.](section/43.md)
+- Part IV Functions of Director and Commission in Relation to Monopoly Situations and Uncompetitive Practices
+  - Powers for Director to require information
+    - [s. 44 General power for Director to require information.](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 Supplementary provisions as to requirements to furnish information.](section/46.md)
+  - Monopoly references
+    - [s. 47 General provisions as to monopoly references](section/47.md)
+    - [s. 48 Monopoly reference limited to the facts.](section/48.md)
+    - [s. 49 Monopoly reference not limited to the facts.](section/49.md)
+    - [s. 50 Monopoly references by Director.](section/50.md)
+    - [s. 51 Monopoly references by Ministers.](section/51.md)
+    - [s. 52 Variation of monopoly reference.](section/52.md)
+    - [s. 53 Publication of monopoly references and variations, and of directions relating to them.](section/53.md)
+    - [s. 54 Report of Commission on monopoly reference.](section/54.md)
+    - [s. 55 Time-limit for report on monopoly reference.](section/55.md)
+    - [s. 56 Order of appropriate Minister on report on monopoly reference.](section/56.md)
+  - Undertakings as alternative to monopoly reference by Director
+    - [s. 56A Proposals by Director.](section/56A.md)
+    - [s. 56B Proposals under section 56A: preparatory steps.](section/56B.md)
+    - [s. 56C Proposals under section 56A: exclusion of sensitive information.](section/56C.md)
+    - [s. 56D Acceptance by Secretary of State of proposals under section 56A.](section/56D.md)
+    - [s. 56E Review of undertakings.](section/56E.md)
+    - [s. 56F Release, variation and replacement of undertakings.](section/56F.md)
+    - [s. 56G Publication of undertakings etc.](section/56G.md)
+- Part V Mergers
+  - Newspaper merger references
+    - [s. 57 Meaning of “newspaper”, “transfer of newspaper or of newspaper assets” and related expressions.](section/57.md)
+    - [s. 58 Prohibition of certain newspaper mergers.](section/58.md)
+    - [s. 59 Newspaper merger reference.](section/59.md)
+    - [s. 60 Time-limit for report on newspaper merger reference.](section/60.md)
+    - [s. 61 Report on newspaper merger reference.](section/61.md)
+    - [s. 62 Enforcement provisions relating to newspaper mergers.](section/62.md)
+  - Other merger references
+    - [s. 63 Mergers references to which ss. 64 to 75 apply.](section/63.md)
+    - [s. 64 Merger situation qualifying for investigation.](section/64.md)
+    - [s. 65 Enterprises ceasing to be distinct enterprises.](section/65.md)
+    - [s. 66 Time when enterprises cease to be distinct.](section/66.md)
+    - [s. 66A Obtaining control by stages.](section/66A.md)
+    - [s. 67 Valuation of assets taken over.](section/67.md)
+    - [s. 68 Supplementary provisions as to merger situations qualifying for investigation.](section/68.md)
+    - [s. 69 Different kinds of merger references.](section/69.md)
+    - [s. 70 Time-limit for report on merger reference.](section/70.md)
+    - [s. 71 Variation of certain merger references.](section/71.md)
+    - [s. 72 Report of Commission on merger reference.](section/72.md)
+    - [s. 73 Order of Secretary of State on report on merger reference.](section/73.md)
+    - [s. 74 Interim order in respect of merger reference.](section/74.md)
+    - [s. 75 Reference in anticipation of merger.](section/75.md)
+  - Restriction on power to make merger reference where prior notice has been given
+    - [s. 75A General rule where notice given by acquirer and no reference made within period for considering notice.](section/75A.md)
+    - [s. 75B The role of the Director.](section/75B.md)
+    - [s. 75C Cases where power to refer unaffected.](section/75C.md)
+    - [s. 75D Regulations](section/75D.md)
+    - [s. 75E Interpretation of sections 75A to 75D.](section/75E.md)
+    - [s. 75F Power to amend sections 75B to 75D.](section/75F.md)
+  - Undertakings as alternative to merger reference
+    - [s. 75G Acceptance of undertakings.](section/75G.md)
+    - [s. 75H Publication of undertakings.](section/75H.md)
+    - [s. 75J Review of undertakings.](section/75J.md)
+    - [s. 75K Order of Secretary of State where undertaking not fulfilled.](section/75K.md)
+  - Supplementary
+    - [s. 76 Functions of Director in relation to merger situations.](section/76.md)
+    - [s. 77 Associated persons.](section/77.md)
+- Part VI References to Commission other than Monopoly and Merger References
+  - [s. 78 General references.](section/78.md)
+  - [s. 79 References as to restrictive labour practices.](section/79.md)
+  - [s. 80 Variation of reference under Part VI.](section/80.md)
+- Part VII Provisions Relating to References to Advisory Committee or to Commission
+  - [s. 81 Procedure in carrying out investigations](section/81.md)
+  - [s. 82 General provisions as to reports.](section/82.md)
+  - [s. 83 Laying before Parliament and publication of reports.](section/83.md)
+- Part VIII Additional Provisions relating to References to Commission
+  - [s. 84 Public interest.](section/84.md)
+  - [s. 85 Attendance of witnesses and production of documents.](section/85.md)
+  - [s. 86 Director to receive copies of reports.](section/86.md)
+  - [s. 87 Supplementary provisions as to laying reports before Parliament.](section/87.md)
+  - [s. 88 Action by Director in consequence of report of Commission on monopoly or merger reference.](section/88.md)
+  - [s. 89 Interim order after report of Commission under s. 54 or s. 72.](section/89.md)
+  - [s. 90 General provisions as to orders under ss. 56, 73, 74 and 89.](section/90.md)
+  - [s. 91 Procedure relating to orders to which s. 90 applies.](section/91.md)
+  - [s. 92 Investigation of company or association with reference to order to which s. 90 applies.](section/92.md)
+  - [s. 93 Enforcement of orders to which s. 90 applies.](section/93.md)
+  - [s. 93A Enforcement of undertakings.](section/93A.md)
+  - [s. 93B False or misleading information.](section/93B.md)
+- Part IX Amendments of Restrictive Trade Practices Acts
+  - [s. 94 Transfer of functions of Registrar to Director.](section/94.md)
+  - [s. 95 ................................](section/95.md)
+- Part X
+  - [s. 107 ................................](section/107.md)
+- Part XI Pyramid Selling and Similar Trading Schemes
+  - [s. 118 Trading schemes to which Part XI applies.](section/118.md)
+  - [s. 119 Regulations relating to such trading schemes.](section/119.md)
+  - [s. 120 Offences under Part XI.](section/120.md)
+  - [s. 121 Defences in certain proceedings under Part XI.](section/121.md)
+  - [s. 122 Penalties for offences under Part XI.](section/122.md)
+  - [s. 123 Enforcement provisions.](section/123.md)
+- Part XII Miscellaneous and Supplementary Provisions
+  - [s. 124 Publication of information and advice.](section/124.md)
+  - [s. 125 Annual and other reports of Director.](section/125.md)
+  - [s. 126 ................................](section/126.md)
+  - [s. 127 Additional power to make orders under Agricultural Marketing Act 1958.](section/127.md)
+  - [s. 128 ................................](section/128.md)
+  - [s. 129 Time-limit for prosecutions.](section/129.md)
+  - [s. 130 Notice to Director of intended prosecution.](section/130.md)
+  - [s. 131 Notification of convictions and judgments to Director.](section/131.md)
+  - [s. 132 Offences by bodies corporate.](section/132.md)
+  - [s. 133 General restrictions on disclosure of information.](section/133.md)
+  - [s. 134 Provisions as to orders.](section/134.md)
+  - [s. 135 Financial provisions.](section/135.md)
+  - [s. 136 ................................](section/136.md)
+  - [s. 137 General interpretation provisions.](section/137.md)
+  - [s. 138 Supplementary interpretation provisions.](section/138.md)
+  - [s. 139 Amendments, repeals and transitional provisions.](section/139.md)
+  - [s. 140 †Short title, citation, commencement and extent.](section/140.md)
+- SCHEDULE 1 Director General of Fair Trading
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Consumer Protection Advisory Committee
+  - Status of Committee
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Tenure of office of members
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Tenure of office of chairman and deputy chairman
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - General provisions as to sums payable on retirement or death of members
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Procedure of Committee
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3
+  - Part I
+    - Status of Commission
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Tenure of office of regular members
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Appointment and tenure of office of chairman and deputy chairmen
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Staff
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Remuneration and allowances
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - General provisions as to sums payable on retirement or death of members
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Part II Performance of Functions of Commission
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+- SCHEDULE 4 Services Excluded from Sections 14 and 109
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 10A](schedule/4/paragraph/10A.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Goods and Services Referred to in Section 16
+  - Part I General Restriction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Part II Limited Restriction...
+- SCHEDULE 6 Matters Falling Within Scope of Proposals Under Section 17
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 Goods and Services (in addition to those in Schedule 5) Wholly or Partly Excluded from Section 50
+  - Part I Goods and Services Wholly Excluded
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part II Goods and Services Partly Excluded
+  - Part III Goods Partly Excluded in Relation to Northern Ireland Only
+- SCHEDULE 8 Powers Exercisable by Orders Under Sections 56 and 73
+  - Part I Powers Exercisable in all Cases
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 9A](schedule/8/paragraph/9A.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Part II Powers Exercisable Except in Cases Falling within Section 56(6)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+- SCHEDULE 9 Procedure Preliminary to Laying Draft of Order to which Section 91(1) Applies
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10
+- SCHEDULE 11 Transitional Provisions and Savings
+  - General provisions
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Reference made to Commission before commencement of Act
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Report of Commission made before 5th August 1965
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Undertaking given in consequence of report on reference made under repealed enactments
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Functions of Director in relation to orders made under Acts of 1948 and 1965
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Provisions consequential upon transfer of functions from Registrar to Director
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Pension benefits
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Trade Descriptions Act 1968, s. 30
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+- SCHEDULE 12 ENACTMENTS AMENDED
+- SCHEDULE 13 ENACTMENTS REPEALED
