@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-11-21, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-22, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2025-11-21
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-01-22
 
 ## Contents
 
@@ -231,6 +231,14 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2025-11-21
       - [s. 159 Application of proceeds of property subject to deprivation order](section/159.md)
       - [s. 160 Orders for forfeiture etc under other Acts](section/160.md)
       - [s. 161 Confiscation orders under other Acts](section/161.md)
+    - Chapter 5 Income reduction orders
+      - [s. 161A Income reduction order](section/161A.md)
+      - [s. 161B Determining the amount payable under an income reduction order](section/161B.md)
+      - [s. 161C Further provision about income reduction orders](section/161C.md)
+      - [s. 161D Income reduction order: availability](section/161D.md)
+      - [s. 161E Making an income reduction order](section/161E.md)
+      - [s. 161F Variation or discharge of income reduction order](section/161F.md)
+      - [s. 161G Income reduction orders: supplementary](section/161G.md)
   - PART 8 Disqualification
     - CHAPTER 1 Driving disqualification
       - [s. 162 Driving disqualification order](section/162.md)
@@ -968,6 +976,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2025-11-21
       - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
     - Restriction on imposing unpaid work requirement
       - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Reduction in number of hours of work required by unpaid work requirement
+      - [Sch. 9 para. 3A](schedule/9/paragraph/3A.md)
   - PART 2 Rehabilitation activity requirement
     - Requirement
       - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
@@ -1828,6 +1838,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2025-11-21
   - PART 6 Community requirements
     - Power to amend limits
       - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+    - Power to add or alter requirements
+      - [Sch. 23 para. 13A](schedule/23/paragraph/13A.md)
   - PART 7 Community orders
     - Breach of community order: power to amend amounts of fines
       - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
