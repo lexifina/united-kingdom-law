@@ -1,0 +1,116 @@
+# Bus Services Act 2017
+
+2017 c. 21. Enacted 2017-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2017/21/2026-01-26
+
+## Contents
+
+- Advanced quality partnership schemes
+  - [s. 1 Advanced quality partnership schemes](section/1.md)
+  - [s. 2 Further amendments](section/2.md)
+  - [s. 3 Transitional provision](section/3.md)
+- Franchising schemes
+  - [s. 4 Franchising schemes](section/4.md)
+  - [s. 5 Power to obtain information about local services](section/5.md)
+  - [s. 6 Further amendments](section/6.md)
+- Advanced ticketing schemes
+  - [s. 7 Advanced ticketing schemes](section/7.md)
+  - [s. 8 Further amendments](section/8.md)
+- Enhanced partnership plans and schemes
+  - [s. 9 Enhanced partnership plans and schemes](section/9.md)
+  - [s. 10 Information about local services](section/10.md)
+  - [s. 11 Registration of local services](section/11.md)
+  - [s. 12 Cancellation of registration etc](section/12.md)
+  - [s. 13 Appeals](section/13.md)
+  - [s. 14 Traffic commissioner functions](section/14.md)
+  - [s. 15 Further amendments](section/15.md)
+- Powers to make traffic regulation orders
+  - [s. 16 Powers to make traffic regulation orders](section/16.md)
+- Information for bus passengers
+  - [s. 17 Information for bus passengers](section/17.md)
+- Information about English bus services
+  - [s. 18 Power to require provision of information about English bus services](section/18.md)
+- Registration of bus services
+  - [s. 19 Variation or cancellation of registration: service information](section/19.md)
+  - [s. 20 Rail replacement bus services](section/20.md)
+  - [s. 21 Registration of English local services: fees where functions contracted out](section/21.md)
+- Bus companies: authorities in England
+  - [s. 22 Bus companies: limitation of powers of authorities in England](section/22.md)
+- General
+  - [s. 23 Power to make consequential provision](section/23.md)
+  - [s. 24 Power to make transitional, transitory or saving provision](section/24.md)
+  - [s. 25 Extent](section/25.md)
+  - [s. 26 Commencement](section/26.md)
+  - [s. 27 Short title](section/27.md)
+- SCHEDULE 1 Further amendments: advanced quality partnership schemes
+  - Transport Act 1985 (c. 67)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Further amendments: franchising schemes
+  - Transport Act 1985 (c. 67)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Local Transport Act 2008 (c. 26)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+- SCHEDULE 3 Further amendments: advanced ticketing schemes
+  - Transport Act 1985 (c. 67)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Further amendments: enhanced partnership plans and schemes
+  - Transport Act 1985 (c. 67)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
