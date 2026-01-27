@@ -1,0 +1,155 @@
+# Heat Networks (Scotland) Act 2021
+
+asp/2021/9. Enacted 2021-03-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2021/9/2026-01-27
+
+## Contents
+
+- PART 1 Heat networks licences
+  - Introductory
+    - [s. 1 Meaning of “heat network”](section/1.md)
+    - [s. 2 Requirement for heat networks licence](section/2.md)
+    - [s. 3 Exemptions from requirement for heat networks licence](section/3.md)
+    - [s. 4 Meaning of “licensing authority”](section/4.md)
+  - Heat networks licence applications
+    - [s. 5 Heat networks licence applications](section/5.md)
+  - Conditions of heat networks licence
+    - [s. 6 Heat networks licence standard conditions](section/6.md)
+    - [s. 7 Heat networks licence standard conditions: supplementary](section/7.md)
+    - [s. 8 Heat networks licence special conditions](section/8.md)
+  - Duration of heat networks licence
+    - [s. 9 Period of effect of heat networks licence](section/9.md)
+  - Modification of heat networks licence
+    - [s. 10 Modification of heat networks licence](section/10.md)
+  - Revocation of heat networks licence
+    - [s. 11 Revocation of heat networks licence](section/11.md)
+    - [s. 12 Appeals against revocation of heat networks licence](section/12.md)
+  - Enforcement
+    - [s. 12A Enforcement provisions under Part 8 of the Energy Act 2023 applied](section/12A.md)
+  - Miscellaneous
+    - [s. 13 Form and manner etc. of applications under Part 1](section/13.md)
+    - [s. 14 Regulations about determining applications under Part 1](section/14.md)
+    - [s. 15 Guidance for licensing authority](section/15.md)
+    - [s. 16 Register of heat networks licences](section/16.md)
+    - [s. 16A Monitoring and review](section/16A.md)
+    - [s. 16B Collecting information](section/16B.md)
+    - [s. 16C Records](section/16C.md)
+    - [s. 17 Interpretation of Part 1](section/17.md)
+- PART 2 Heat network consent
+  - Introductory
+    - [s. 18 Requirement for heat network consent](section/18.md)
+    - [s. 19 Exemptions from requirement for heat network consent](section/19.md)
+    - [s. 20 Designation of local authority as consent authority for the area of the local authority](section/20.md)
+    - [s. 21 Meaning of “appropriate consent authority”](section/21.md)
+  - Heat network consent applications
+    - [s. 22 Heat network consent applications](section/22.md)
+    - [s. 23 Determining heat network consent applications](section/23.md)
+  - Heat network consent conditions or limitations
+    - [s. 24 Heat network consent conditions or limitations](section/24.md)
+  - Transfer, modification and revocation of heat network consent
+    - [s. 25 Transfer of heat network consent](section/25.md)
+    - [s. 26 Modification of heat network consent](section/26.md)
+    - [s. 27 Revocation of heat network consent](section/27.md)
+    - [s. 28 Appeals against notice of revocation given by local authority](section/28.md)
+  - Applications to local authorities: Ministerial powers of call-in, direction and appeal
+    - [s. 29 Call-in of heat network consent applications etc. by the Scottish Ministers](section/29.md)
+    - [s. 30 Directions as to method of dealing with heat network consent applications etc. by local authorities](section/30.md)
+    - [s. 31 Appeals regarding applications for heat network consent etc. to local authorities](section/31.md)
+  - Compensation
+    - [s. 32 Compensation on modification or revocation of heat network consent](section/32.md)
+  - Miscellaneous
+    - [s. 33 Form and manner etc. of applications under Part 2](section/33.md)
+    - [s. 34 Effective community engagement: guidance](section/34.md)
+    - [s. 35 Regulations about decisions under Part 2](section/35.md)
+    - [s. 36 Applications and decisions under Part 2 where there is more than one appropriate consent authority](section/36.md)
+  - Enforcement of requirement for heat network consent
+    - [s. 37 Meaning of “enforcement authority”](section/37.md)
+    - [s. 38 Power to require information about activities on land](section/38.md)
+    - [s. 39 Enforcement notice](section/39.md)
+    - [s. 40 Withdrawal or variation of enforcement notice](section/40.md)
+    - [s. 41 Appeals against enforcement notice](section/41.md)
+    - [s. 42 Offence of failing to comply with enforcement notice](section/42.md)
+    - [s. 43 Execution and cost of works required by enforcement notice](section/43.md)
+  - Heat network consent and planning permission
+    - [s. 44 Deemed planning permission on Scottish Ministers granting or modifying heat network consent](section/44.md)
+    - [s. 45 Combining applications to local authorities for heat network consent and planning permission](section/45.md)
+- PART 3 Heat network zones
+  - Designation of heat network zone
+    - [s. 46 Power to designate heat network zone](section/46.md)
+    - [s. 47 Duty on local authority to review heat network zoning in area](section/47.md)
+    - [s. 48 Designation of heat network zone by local authority](section/48.md)
+    - [s. 49 Designation of heat network zone by Scottish Ministers](section/49.md)
+  - Variation of heat network zone
+    - [s. 50 Variation of heat network zone by local authority](section/50.md)
+    - [s. 51 Variation of heat network zone by Scottish Ministers](section/51.md)
+  - Local authorities acting jointly
+    - [s. 52 Two or more local authorities acting jointly in relation to heat network zone](section/52.md)
+  - Ministerial direction and guidance
+    - [s. 53 Ministerial power of direction to designate or vary heat network zone](section/53.md)
+    - [s. 54 Guidance](section/54.md)
+- PART 4 Heat network zone permits
+  - [s. 55 Meaning of “permit authority”](section/55.md)
+  - [s. 56 Requirement for heat network zone permit](section/56.md)
+  - [s. 57 Applications for heat network zone permit](section/57.md)
+  - [s. 58 Heat network zone permit: duration](section/58.md)
+  - [s. 59 Heat network zone permit: revocation](section/59.md)
+  - [s. 60 Appeals against revocation of heat network zone permit](section/60.md)
+  - [s. 61 Compensation on revocation of heat network zone permit](section/61.md)
+  - [s. 62 Enforcement of requirement for heat network zone permit](section/62.md)
+- PART 5 Building assessment reports
+  - [s. 63 Building assessment reports](section/63.md)
+  - [s. 64 Exemptions from duty to prepare building assessment reports](section/64.md)
+  - [s. 65 Notification of building assessment reports](section/65.md)
+  - [s. 66 Guidance about building assessment reports](section/66.md)
+  - [s. 67 Interpretation of Part 5](section/67.md)
+- PART 6 Powers of licence holders
+  - Compulsory acquisition of land
+    - [s. 68 Compulsory acquisition of land by licence holder](section/68.md)
+  - Wayleave rights
+    - [s. 69 Network wayleave right](section/69.md)
+    - [s. 70 Acquisition of necessary wayleave](section/70.md)
+    - [s. 71 Assignation of network wayleave rights](section/71.md)
+    - [s. 72 Variation of network wayleave right](section/72.md)
+    - [s. 73 Compensation on variation of a network wayleave right](section/73.md)
+    - [s. 74 Discharge of network wayleave right](section/74.md)
+    - [s. 75 Registration of network wayleave rights](section/75.md)
+    - [s. 76 Requirement to remove apparatus when notified](section/76.md)
+    - [s. 77 Compensation in connection with network wayleave rights](section/77.md)
+  - Other powers over land
+    - [s. 78 Power to carry out survey](section/78.md)
+    - [s. 79 Power to enter land to replace or repair apparatus](section/79.md)
+    - [s. 80 Restrictions on powers of licence holders](section/80.md)
+    - [s. 81 Compensation for damage or disturbance](section/81.md)
+  - Road works
+    - [s. 82 Power to carry out road works](section/82.md)
+  - Interpretation
+    - [s. 83 Interpretation of Part 6](section/83.md)
+- PART 7 Key heat network assets
+  - [s. 84 Identifying key heat network assets](section/84.md)
+  - [s. 85 Preparing schedule of key heat network assets](section/85.md)
+  - [s. 86 Notifying Scottish Ministers of changes in key network assets](section/86.md)
+  - [s. 87 Modifying schedule of key heat network assets](section/87.md)
+  - [s. 88 Preparation and maintenance of schedule of key network assets: further provision](section/88.md)
+  - [s. 89 Transfer schemes](section/89.md)
+  - [s. 90 Compensation in connection with transfer schemes](section/90.md)
+  - [s. 91 Interpretation of Part 7](section/91.md)
+- PART 8 Heat networks targets and delivery plans
+  - [s. 92 Heat network supply targets](section/92.md)
+  - [s. 93 Heat networks delivery plan](section/93.md)
+- PART 9 Miscellaneous and general
+  - Fees
+    - [s. 94 Fees for applications etc.](section/94.md)
+  - Local authority costs
+    - [s. 95 Strategy: local authority costs](section/95.md)
+  - General
+    - [s. 96 Individual culpability where organisation commits offence](section/96.md)
+    - [s. 97 Crown application: general](section/97.md)
+    - [s. 98 Crown application: powers of entry](section/98.md)
+    - [s. 99 Regulations](section/99.md)
+    - [s. 100 Ancillary provision](section/100.md)
+    - [s. 101 General interpretation](section/101.md)
+    - [s. 102 Commencement](section/102.md)
+    - [s. 103 Short title](section/103.md)
