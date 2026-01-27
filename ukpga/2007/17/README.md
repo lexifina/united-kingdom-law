@@ -1,0 +1,265 @@
+# Consumers, Estate Agents and Redress Act 2007
+
+2007 c. 17. Enacted 2007-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2007/17
+
+Source: https://www.legislation.gov.uk/ukpga/2007/17/2026-01-27
+
+## Contents
+
+- Part 1 THE CONSUMER ADVOCACY BODIES
+  - The consumer advocacy bodies
+    - [s. 1 The consumer advocacy bodies](section/1.md)
+    - [s. 2 The territorial committees](section/2.md)
+  - “Consumer”, “consumer matters” and “designated consumers”
+    - [s. 3 “Consumer” and “consumer matters”](section/3.md)
+    - [s. 4 “Designated consumers”](section/4.md)
+  - Determining priorities
+    - [s. 5 Forward work programmes of the GCCNI](section/5.md)
+    - [s. 6 General provision about functions of the GCCNI](section/6.md)
+    - [s. 6A Exercise of functions of consumer advocacy bodies](section/6A.md)
+  - Annual report
+    - [s. 7 Annual report](section/7.md)
+    - [s. 7A Annual report on Scottish Water related activities](section/7A.md)
+  - The core functions
+    - [s. 8 The representative function](section/8.md)
+    - [s. 9 The research function](section/9.md)
+    - [s. 10 The information function](section/10.md)
+  - Powers of investigation
+    - [s. 11 General powers of investigation](section/11.md)
+    - [s. 12 Investigation of complaints made by vulnerable designated consumers](section/12.md)
+    - [s. 13 Investigation of complaints relating to disconnection of gas or electricity](section/13.md)
+    - [s. 14 Reference of matters to the Gas and Electricity Markets Authority](section/14.md)
+    - [s. 15 Reference of postal matters to OFCOM](section/15.md)
+    - [s. 16 Investigations relating to public post offices](section/16.md)
+  - Other functions of the consumer advocacy bodies
+    - [s. 17 Reports by the GCCNI](section/17.md)
+    - [s. 18 Secretary of State’s power to require reports](section/18.md)
+    - [s. 19 Advice, information and guidance](section/19.md)
+    - [s. 19A Guidance for energy consumers](section/19A.md)
+    - [s. 20 Duty to enter into co-operation arrangements](section/20.md)
+    - [s. 20A Duty to enter into co-operation arrangements about Scottish Water](section/20A.md)
+    - [s. 21 Power to co-operate and give assistance](section/21.md)
+    - [s. 22 Voluntary activities](section/22.md)
+    - [s. 23 Supplementary powers etc](section/23.md)
+  - Information
+    - [s. 24 Provision of information to the consumer advocacy bodies](section/24.md)
+    - [s. 25 Enforcement by regulator of section 24 notice](section/25.md)
+    - [s. 26 Enforcement by court of section 24 notice](section/26.md)
+    - [s. 27 Provision of information by a consumer advocacy body](section/27.md)
+    - [s. 28 Exemptions from requirements to provide information](section/28.md)
+    - [s. 29 Disclosure of information](section/29.md)
+  - Abolition of consumer bodies
+    - [s. 30 Abolition of “Energywatch” and “Postwatch”](section/30.md)
+    - [s. 31 Designation of the Consumer Council for Water for abolition](section/31.md)
+    - [s. 32 Transfer orders and abolition orders](section/32.md)
+    - [s. 33 Supplementary provision about transfer and abolition orders](section/33.md)
+  - Abolition: supplementary provision
+    - [s. 34 Compensation for loss of office](section/34.md)
+    - [s. 35 Transfer of property etc](section/35.md)
+    - [s. 36 Directions](section/36.md)
+  - Alteration of the functions of Citizens Advice and Citizens Advice Scotland
+    - [s. 37 Extension of the functions of Citizens Advice and Citizens Advice Scotland](section/37.md)
+    - [s. 38 Removal of the Council’s functions in relation to Northern Ireland](section/38.md)
+  - Representation on other consumer panels
+    - [s. 39 The Financial Services Consumer Panel](section/39.md)
+    - [s. 40 The OFCOM Consumer Panel](section/40.md)
+  - Provision about consumer advocacy bodies
+    - [s. 40A Grants to consumer advocacy bodies](section/40A.md)
+    - [s. 40B Exemption from liability in damages](section/40B.md)
+  - Interpretation
+    - [s. 41 Interpretation of Part 1](section/41.md)
+- Part 2 Complaints handling and redress schemes
+  - Introductory
+    - [s. 42 Interpretation of Part 2](section/42.md)
+  - Standards for handling complaints
+    - [s. 43 Standards for handling complaints](section/43.md)
+    - [s. 44 Requirements for making regulations under section 43](section/44.md)
+    - [s. 45 Information with respect to compliance with complaints handling standards](section/45.md)
+    - [s. 46 Supply of information to consumers](section/46.md)
+  - Requirements relating to redress schemes
+    - [s. 47 Membership of redress scheme](section/47.md)
+    - [s. 48 Membership of redress schemes: supplementary](section/48.md)
+    - [s. 49 Approval of redress schemes](section/49.md)
+    - [s. 50 Approval of redress schemes: supplementary](section/50.md)
+    - [s. 51 Procedure for refusing or withdrawing approval](section/51.md)
+  - Enforcement
+    - [s. 52 Enforcement of requirements imposed under Part 2](section/52.md)
+- Part 3 Amendment of the Estate Agents Act 1979
+  - Estate agents’ duties
+    - [s. 53 Membership of redress schemes](section/53.md)
+    - [s. 54 Duty to keep records](section/54.md)
+  - Prohibition and warning orders
+    - [s. 55 Grounds for prohibition orders](section/55.md)
+    - [s. 56 Grounds for warning orders](section/56.md)
+  - Investigatory powers
+    - [s. 57 Powers of entry and inspection](section/57.md)
+    - [s. 58 Failure to produce information](section/58.md)
+- Part 4 Miscellaneous and general
+  - Contracts concluded away from business premises
+    - [s. 59 Contracts concluded away from business premises](section/59.md)
+  - Subordinate legislation
+    - [s. 60 Orders and regulations](section/60.md)
+    - [s. 61 Directions](section/61.md)
+    - [s. 62 Parliamentary control of orders and regulations](section/62.md)
+  - Amendments, transitional provision and repeals
+    - [s. 63 Minor, consequential and transitional provision](section/63.md)
+    - [s. 64 Repeals](section/64.md)
+  - General
+    - [s. 65 Extent](section/65.md)
+    - [s. 66 Commencement](section/66.md)
+    - [s. 67 Short title](section/67.md)
+- SCHEDULE 1 The National Consumer Council
+  - Part 1 THE CONSUMER ADVOCACY BODIES
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Terms of appointment and tenure of members
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part 2 Staff of the Council
+    - The Chief Executive
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Other staff
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - The Superannuation Act 1972
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Arrangements for assistance
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part 3 Territorial, regional and other committees
+    - Constitution of territorial committees
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Regional committees
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Constitution of regional committees
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Other committees
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - General provision about committees
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Terms of appointment etc
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Part 4 Procedure etc
+    - Procedure
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Delegation
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Application of seal and proof of instruments
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - Offices
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Part 5 Funding and accounts
+    - Funding
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Accounts
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Part 6 Status etc
+    - Status
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Disqualification
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Freedom of information
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Public records
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Parliamentary Commissioner Act 1967
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Exemption from liability in damages
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+- SCHEDULE 2 Enforcement of information requirements
+  - Gas Act 1986 (c. 44)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 Abolition of consumer bodies: transitional provision
+  - Complaints and investigations functions of Gas and Electricity Consumer Council
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Annual reports of the Gas and Electricity Consumer Council
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Complaints and investigations functions of Consumer Council for Postal Services
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Annual reports of the Consumer Council for Postal Services
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Transfer of property etc to Council
+  - Preliminary
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Contents of transfer schemes
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Effect of transfers
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Staff
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Chargeable gains: asset to be treated as disposed of without a gain or loss
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Continuity in relation to transfer of intangible assets
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Corporation Tax Acts
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Modification of transfer schemes after appointed day
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Information relating to compliance with complaints handling standards
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Estate Agents’ Redress Schemes
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 Minor and consequential amendments
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Gas Act 1986 (c. 44)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Taxation of Chargeable Gains Act 1992 (c. 12)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Utilities Act 2000 (c. 27)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Warm Homes and Energy Conservation Act 2000 (c. 31)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Housing Act 2004 (c. 34)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+- SCHEDULE 8 Repeals
