@@ -1,0 +1,725 @@
+# Competition Act 1998
+
+1998 c. 41. Enacted 1998-11-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-27, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 28 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/41
+
+Source: https://www.legislation.gov.uk/ukpga/1998/41/2026-01-27
+
+## Contents
+
+- Part I Competition
+  - Chapter I Agreements
+    - Introduction
+      - [s. 1 Enactments replaced.](section/1.md)
+    - The prohibition
+      - [s. 2 Agreements etc. preventing, restricting or distorting competition.](section/2.md)
+    - Excluded agreements
+      - [s. 3 Excluded agreements.](section/3.md)
+    - Exemptions
+      - [s. 4 Individual exemptions.](section/4.md)
+      - [s. 5 Cancellation etc. of individual exemptions.](section/5.md)
+      - [s. 6 Block exemptions.](section/6.md)
+      - [s. 7 Block exemptions: opposition.](section/7.md)
+      - [s. 8 Block exemptions: procedure.](section/8.md)
+      - [s. 9 Exempt agreements.](section/9.md)
+      - [s. 10 Assimilated exemptions.](section/10.md)
+      - [s. 10A Power to vary etc assimilated block exemption regulations](section/10A.md)
+      - [s. 11 Exemption for certain other agreements.](section/11.md)
+    - Notification
+      - [s. 12 Requests for OFT to examine agreements.](section/12.md)
+      - [s. 13 Notification for guidance.](section/13.md)
+      - [s. 14 Notification for a decision.](section/14.md)
+      - [s. 15 Effect of guidance.](section/15.md)
+      - [s. 16 Effect of a decision that the Chapter I prohibition has not been infringed.](section/16.md)
+  - Chapter II Abuse of Dominant Position
+    - Introduction
+      - [s. 17 Enactments replaced.](section/17.md)
+    - The prohibition
+      - [s. 18 Abuse of dominant position.](section/18.md)
+    - Excluded cases
+      - [s. 19 Excluded cases.](section/19.md)
+    - Notification
+      - [s. 20 Requests for OFT to consider conduct.](section/20.md)
+      - [s. 21 Notification for guidance.](section/21.md)
+      - [s. 22 Notification for a decision.](section/22.md)
+      - [s. 23 Effect of guidance.](section/23.md)
+      - [s. 24 Effect of a decision that the Chapter II prohibition has not been infringed.](section/24.md)
+  - Chapter III Investigation and Enforcement
+    - Investigations
+      - [s. 25 Power of CMA to investigate](section/25.md)
+      - [s. 25A Power of CMA to publish notice of investigation etc](section/25A.md)
+      - [s. 25B Duty to preserve documents relevant to investigations](section/25B.md)
+      - [s. 26 Investigations: powers to require documents and information](section/26.md)
+      - [s. 26A Investigations: power to ask questions](section/26A.md)
+      - [s. 27 Power to enter business premises without a warrant](section/27.md)
+      - [s. 28 Power to enter business premises under a warrant.](section/28.md)
+      - [s. 28A Power to enter domestic premises under a warrant](section/28A.md)
+      - [s. 29 Entry of premises under warrant: supplementary.](section/29.md)
+      - [s. 30 Privileged communications.](section/30.md)
+      - [s. 30A Use of statements in prosecution](section/30A.md)
+      - [s. 31 Decisions following an investigation.](section/31.md)
+      - [s. 31A Commitments](section/31A.md)
+      - [s. 31B Effect of commitments under section 31A](section/31B.md)
+      - [s. 31C Review of commitments](section/31C.md)
+      - [s. 31D Guidance](section/31D.md)
+      - [s. 31E Enforcement of commitments](section/31E.md)
+      - [s. 31F Power for Secretary of State to impose time-limits on investigations etc.](section/31F.md)
+    - Enforcement: directions and interim measures
+      - [s. 32 Directions in relation to agreements.](section/32.md)
+      - [s. 33 Directions in relation to conduct.](section/33.md)
+      - [s. 34 Enforcement of directions.](section/34.md)
+      - [s. 35 Interim measures.](section/35.md)
+    - Civil sanctions: breaches of commitments, directions and interim measures
+      - [s. 35A Enforcement of powers under sections 31A, 32, 33 and 35: imposition of penalties](section/35A.md)
+      - [s. 35B Penalties under section 35A: amount](section/35B.md)
+    - Statement of policy in relation to functions under sections 31E, 34 and 35A
+      - [s. 35C Statement of policy in relation to functions under sections 31E, 34 and 35A](section/35C.md)
+    - Civil sanctions: infringements of the Chapter I or II prohibitions
+      - [s. 36 Penalties.](section/36.md)
+      - [s. 37 Recovery of penalties.](section/37.md)
+      - [s. 38 The appropriate level of a penalty.](section/38.md)
+      - [s. 39 Limited immunity in relation to the Chapter I prohibition.](section/39.md)
+      - [s. 40 Limited immunity in relation to the Chapter II prohibition.](section/40.md)
+    - Transferred EU anti-trust commitments and transferred EU anti-trust directions
+      - [s. 40ZA Interpretation](section/40ZA.md)
+      - [s. 40ZB Transferred EU anti-trust commitments](section/40ZB.md)
+      - [s. 40ZC Transferred EU anti-trust directions](section/40ZC.md)
+      - [s. 40ZD Information relating to transferred EU anti-trust commitments and transferred EU anti-trust directions](section/40ZD.md)
+    - Civil sanctions: failure to comply with investigative requirements
+      - [s. 40ZE Enforcement of requirements: imposition of penalties](section/40ZE.md)
+      - [s. 40A Penalties: amount](section/40A.md)
+      - [s. 40B Statement of policy on penalties](section/40B.md)
+      - [s. 41 Agreements notified to the Commission.](section/41.md)
+    - Offences
+      - [s. 42 Obstruction.](section/42.md)
+      - [s. 43 Destroying or falsifying documents.](section/43.md)
+      - [s. 44 False or misleading information.](section/44.md)
+    - Supplementary
+      - [s. 44A Giving of notices under Chapter 3](section/44A.md)
+      - [s. 44B Extra-territorial application of notices under sections 26 and 40ZD](section/44B.md)
+  - Chapter IV Appeals before the Tribunal and proceedings and settlements relating to infringements of competition law
+    - ...
+      - [s. 45 The Competition Commission.](section/45.md)
+    - Appeals before the Tribunal
+      - [s. 46 Appealable decisions.](section/46.md)
+      - [s. 47 Third party appeals](section/47.md)
+    - Claims for loss or damage, or for declaratory relief: proceedings before the Tribunal
+      - [s. 47A Proceedings before the Tribunal: claims for damages etc.](section/47A.md)
+      - [s. 47B Collective proceedings before the Tribunal](section/47B.md)
+      - [s. 47C Collective proceedings: damages and costs](section/47C.md)
+      - [s. 47D Proceedings under section 47A or collective proceedings: injunctions etc.](section/47D.md)
+      - [s. 47DA Proceedings under section 47A or collective proceedings: declaratory relief](section/47DA.md)
+      - [s. 47E Limitation or prescriptive periods for proceedings under section 47A and collective proceedings](section/47E.md)
+    - Further provision about claims in respect of loss or damage, or for declaratory relief, before a court or the Tribunal
+      - [s. 47F Further provision about claims in respect of loss or damage, or for declaratory relief, before a court or the Tribunal](section/47F.md)
+    - Further appeals from the Tribunal
+      - [s. 48 Appeal tribunals.](section/48.md)
+      - [s. 49 Further appeals from the Tribunal](section/49.md)
+    - Settlements relating to infringements of competition law
+      - [s. 49A Collective settlements: where a collective proceedings order has been made](section/49A.md)
+      - [s. 49B Collective settlements: where a collective proceedings order has not been made](section/49B.md)
+      - [s. 49C Approval of redress schemes by the CMA](section/49C.md)
+      - [s. 49D Redress schemes: recovery of costs](section/49D.md)
+      - [s. 49E Enforcement of approved schemes](section/49E.md)
+  - Chapter V Miscellaneous
+    - Vertical agreements and land agreements
+      - [s. 50 Vertical agreements and land agreements.](section/50.md)
+    - CMA’s rules, guidance and fees
+      - [s. 51 Rules.](section/51.md)
+      - [s. 52 Advice and information.](section/52.md)
+      - [s. 53 Fees.](section/53.md)
+    - Regulators
+      - [s. 54 Regulators.](section/54.md)
+    - Confidentiality and immunity from defamation
+      - [s. 55 General restrictions on disclosure of information.](section/55.md)
+      - [s. 56 Director and Secretary of State to have regard to certain matters in relation to the disclosure of information.](section/56.md)
+      - [s. 57 Defamation.](section/57.md)
+    - Findings of fact by CMA
+      - [s. 58 Findings of fact by CMA.](section/58.md)
+    - Findings of infringements
+      - [s. 58A Infringement decisions](section/58A.md)
+    - Interpretation and governing principles
+      - [s. 59 Interpretation of Part 1.](section/59.md)
+      - [s. 60 Principles to be applied in determining questions.](section/60.md)
+      - [s. 60A Certain principles etc to be considered or applied from IP completion day](section/60A.md)
+- Part II Inspections under Articles 20, 21 and 22(2)
+  - [s. 61 Interpretation of Part 2](section/61.md)
+  - [s. 62 Power to enter business premises under a warrant: Article 20 inspections](section/62.md)
+  - [s. 62A Power to enter non-business premises under a warrant: Article 21 inspections](section/62A.md)
+  - [s. 62B Powers when conducting an Article 22(2) inspection](section/62B.md)
+  - [s. 63 Power to enter business premises under a warrant: Article 22(2) inspections](section/63.md)
+  - [s. 64 Entry of premises under sections 62, 60, 62A and 63: supplementary.](section/64.md)
+  - [s. 65 Offences.](section/65.md)
+  - [s. 65A Privileged communications: Article 22(2) inspections](section/65A.md)
+  - [s. 65B Use of statements in prosecution: Article 22(2) inspections](section/65B.md)
+- PART 2A Article 22(1) investigations
+  - [s. 65C Interpretation of Part 2A](section/65C.md)
+  - [s. 65D Power to conduct an Article 22(1) investigation](section/65D.md)
+  - [s. 65E Powers when conducting Article 22(1) investigations](section/65E.md)
+  - [s. 65F Power to enter business premises without a warrant](section/65F.md)
+  - [s. 65G Power to enter business premises under a warrant](section/65G.md)
+  - [s. 65H Power to enter domestic premises under a warrant](section/65H.md)
+  - [s. 65I Entry of premises under a warrant: supplementary](section/65I.md)
+  - [s. 65J Privileged communications](section/65J.md)
+  - [s. 65K Use of statements in prosecution](section/65K.md)
+  - [s. 65L Offences](section/65L.md)
+  - [s. 65M Destroying or falsifying documents](section/65M.md)
+  - [s. 65N False or misleading information](section/65N.md)
+- Part III Monopolies
+  - [s. 66 Monopoly investigations: general.](section/66.md)
+  - [s. 67 Offences.](section/67.md)
+  - [s. 68 Services relating to use of land.](section/68.md)
+  - [s. 69 Reports: monopoly references.](section/69.md)
+- Part IV Supplemental and Transitional
+  - [s. 70 Contracts as to patented products etc.](section/70.md)
+  - [s. 71 Regulations, orders and rules.](section/71.md)
+  - [s. 72 Offences by bodies corporate etc.](section/72.md)
+  - [s. 73 Crown application.](section/73.md)
+  - [s. 74 Amendments, transitional provisions, savings and repeals.](section/74.md)
+  - [s. 75 Consequential and supplementary provision.](section/75.md)
+  - [s. 75A Rules in relation to Part 2 and Part 2A](section/75A.md)
+  - [s. 76 Short title, commencement and extent.](section/76.md)
+- SCHEDULE 1 Exclusions: Mergers and Concentrations
+  - Part I Mergers
+    - Enterprises ceasing to be distinct: the Chapter I prohibition
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Enterprises ceasing to be distinct: the Chapter II prohibition
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Transfer of a newspaper or of newspaper assets
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Withdrawal of the paragraph 1 exclusion
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Protected agreements
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Part II Concentrations subject to EC controls
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Exclusions: Other Competition Scrutiny
+  - Part I Financial Services
+    - ...
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part III Broadcasting
+    - The Broadcasting Act 1990 (c.42)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Networking arrangements under the Broadcasting Act 1990 (c.42)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 General Exclusions
+  - Planning obligations
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Section 21(2) agreements
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - ...
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Services of general economic interest etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Compliance with legal requirements
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Avoidance of conflict with international obligations
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Public policy
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Coal and steel
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Agricultural products
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Professional Rules
+  - Part I Exclusion
+    - General
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Designated rules
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Application for designation
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Alterations
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Reviewing the list
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Removal from the list
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Inspection
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Part II Professional Services
+    - Legal
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Medical
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Dental
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Ophthalmic
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Veterinary
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Nursing
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Midwifery
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Physiotherapy
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Chiropody
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Architectural
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Accounting and auditing
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Insolvency
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Patent agency
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Parliamentary agency
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Surveying
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Engineering and technology etc.
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Educational
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Religious
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 6A COMMITMENTS
+  - PART 1 PROCEDURAL REQUIREMENTS FOR THE ACCEPTANCE AND VARIATION OF COMMITMENTS
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+  - PART 2 PROCEDURAL REQUIREMENTS FOR THE RELEASE OF COMMITMENTS
+    - [Sch. 6A para. 10](schedule/6A/paragraph/10.md)
+    - [Sch. 6A para. 11](schedule/6A/paragraph/11.md)
+    - [Sch. 6A para. 12](schedule/6A/paragraph/12.md)
+    - [Sch. 6A para. 13](schedule/6A/paragraph/13.md)
+    - [Sch. 6A para. 14](schedule/6A/paragraph/14.md)
+- SCHEDULE 7 The Competition Commission
+  - Part I General
+    - Interpretation
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Membership of the Commission
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Chairman and deputy chairmen
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - President
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - The Council
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Term of office
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Expenses, remuneration and pensions
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - The Commission’s powers
+      - [Sch. 7 para. 7A](schedule/7/paragraph/7A.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Staff
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Procedure
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Application of seal and proof of instruments
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Accounts
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Annual reports
+      - [Sch. 7 para. 12A](schedule/7/paragraph/12A.md)
+    - Status
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Part II Performance of the Commission’s General Functions
+    - Interpretation
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Discharge of certain functions by groups
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Chairmen of groups
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - Replacement of member of group
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Attendance of other members
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Procedure
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 19A](schedule/7/paragraph/19A.md)
+    - Effect of exercise of functions by group
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Casting votes
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Newspaper merger references
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Part III Appeals
+    - Interpretation
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - Training of appeal panel members
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Acting President
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - Panel of tribunal chairmen
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Constitution of tribunals
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+  - Part IV Miscellaneous
+    - Disqualification of members for House of Commons
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Disqualification of members for Northern Ireland Assembly
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Part V Transitional provisions
+    - Interpretation
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Chairman
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Deputy chairmen
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Reporting panel members
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - Specialist panel members
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - Secretary
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - Council
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+- SCHEDULE 7A the competition commission: procedural rules for mergers and market references etc.
+  - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+  - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+  - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+  - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+  - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+  - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+  - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+- SCHEDULE 8 Appeals
+  - Part I General
+    - Interpretation
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - General procedure
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Decisions of the tribunal
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
+      - [Sch. 8 para. 3B](schedule/8/paragraph/3B.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part II Rules
+    - Registrar of Appeal Tribunals
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Notice of appeal
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Response to the appeal
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Pre-hearing reviews and preliminary matters
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Conduct of the hearing
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Interest
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Fees
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Withdrawing an appeal
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Interim orders
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Miscellaneous
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+- SCHEDULE 8A Further Provision about Claims in Respect of Loss or Damage, or for Declaratory Relief, Before a Court or the Tribunal
+  - Part 1 Interpretation
+    - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+    - [Sch. 8A para. 2 Competition law etc](schedule/8A/paragraph/2.md)
+    - [Sch. 8A para. 3 Competition authority etc](schedule/8A/paragraph/3.md)
+    - [Sch. 8A para. 4 Cartels](schedule/8A/paragraph/4.md)
+    - [Sch. 8A para. 5 Settlement submission to a competition authority](schedule/8A/paragraph/5.md)
+    - [Sch. 8A para. 6 Consensual dispute resolution process](schedule/8A/paragraph/6.md)
+    - [Sch. 8A para. 7 Other definitions](schedule/8A/paragraph/7.md)
+  - Part 2 Passing On
+    - [Sch. 8A para. 8 Overcharges and underpayments](schedule/8A/paragraph/8.md)
+    - [Sch. 8A para. 9 Burden of proof where an overcharge is passed on to an indirect purchaser](schedule/8A/paragraph/9.md)
+    - [Sch. 8A para. 10 Burden of proof where an underpayment is passed on to an indirect provider](schedule/8A/paragraph/10.md)
+    - [Sch. 8A para. 11 Burden of proof where an overcharge or underpayment is passed on by the claimant](schedule/8A/paragraph/11.md)
+  - Part 3 Small and Medium-Sized Enterprises
+    - [Sch. 8A para. 12 Liability of small and medium-sized enterprises](schedule/8A/paragraph/12.md)
+  - Part 4 Cartels
+    - [Sch. 8A para. 13 Presumption that cartels cause harm](schedule/8A/paragraph/13.md)
+    - [Sch. 8A para. 14 Immunity recipients](schedule/8A/paragraph/14.md)
+    - [Sch. 8A para. 15 Liability of immunity recipients](schedule/8A/paragraph/15.md)
+    - [Sch. 8A para. 16 Contribution between participants in cartels](schedule/8A/paragraph/16.md)
+  - Part 5 Limitation and Prescriptive Periods
+    - [Sch. 8A para. 17 Time limits for bringing competition proceedings](schedule/8A/paragraph/17.md)
+    - [Sch. 8A para. 18 Length of limitation or prescriptive period](schedule/8A/paragraph/18.md)
+    - [Sch. 8A para. 19 Beginning of limitation or prescriptive period](schedule/8A/paragraph/19.md)
+    - [Sch. 8A para. 20 Effect of disability on beginning of limitation period: England and Wales and Northern Ireland](schedule/8A/paragraph/20.md)
+    - [Sch. 8A para. 21 Suspension during investigation by competition authority](schedule/8A/paragraph/21.md)
+    - [Sch. 8A para. 22 Suspension during consensual dispute resolution process](schedule/8A/paragraph/22.md)
+    - [Sch. 8A para. 23 Suspension during collective proceedings](schedule/8A/paragraph/23.md)
+    - [Sch. 8A para. 24 Suspension of prescriptive period during period of disability: Scotland](schedule/8A/paragraph/24.md)
+    - [Sch. 8A para. 25 Continuity of limitation or prescriptive period](schedule/8A/paragraph/25.md)
+    - [Sch. 8A para. 26 New claims in pending actions: England and Wales and Northern Ireland](schedule/8A/paragraph/26.md)
+  - Part 6 Disclosure etc
+    - [Sch. 8A para. 27 Disclosure orders](schedule/8A/paragraph/27.md)
+    - [Sch. 8A para. 28 Restriction in relation to settlement submissions and cartel leniency statements](schedule/8A/paragraph/28.md)
+    - [Sch. 8A para. 29 Restriction in relation to investigation materials](schedule/8A/paragraph/29.md)
+    - [Sch. 8A para. 30 Restriction in relation to material in a competition authority’s file](schedule/8A/paragraph/30.md)
+    - [Sch. 8A para. 31 Power of High Court in Northern Ireland to order disclosure etc by non-parties](schedule/8A/paragraph/31.md)
+  - Part 7 Use of Evidence
+    - [Sch. 8A para. 32 Cartel leniency statements and settlement submissions](schedule/8A/paragraph/32.md)
+    - [Sch. 8A para. 33 Investigation materials](schedule/8A/paragraph/33.md)
+    - [Sch. 8A para. 34 Material obtained from a competition authority’s file](schedule/8A/paragraph/34.md)
+    - [Sch. 8A para. 35 Decisions of member State competition authorities](schedule/8A/paragraph/35.md)
+  - Part 8 Exemplary Damages
+    - [Sch. 8A para. 36 Exemplary damages](schedule/8A/paragraph/36.md)
+  - Part 9
+    - Contribution and Consensual Settlements
+      - [Sch. 8A para. 37 Consensual settlement](schedule/8A/paragraph/37.md)
+      - [Sch. 8A para. 38 Assessment of contribution](schedule/8A/paragraph/38.md)
+      - [Sch. 8A para. 39 Effect of consensual settlement on the amount of a claim](schedule/8A/paragraph/39.md)
+      - [Sch. 8A para. 40 Effect of consensual settlement for the settling infringer](schedule/8A/paragraph/40.md)
+      - [Sch. 8A para. 41 Effect of consensual settlement on contribution between defendants](schedule/8A/paragraph/41.md)
+  - Part 10 Application
+    - [Sch. 8A para. 42](schedule/8A/paragraph/42.md)
+    - [Sch. 8A para. 43](schedule/8A/paragraph/43.md)
+    - [Sch. 8A para. 44](schedule/8A/paragraph/44.md)
+- SCHEDULE 9 CMA’s Rules
+  - General
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Delegation of functions
+    - [Sch. 9 para. 1A](schedule/9/paragraph/1A.md)
+  - Applications
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Provisional decisions
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Guidance
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Decisions
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Individual exemptions
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Block exemptions
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Assimilated exemptions
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - ...
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Directions withdrawing exclusions
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Disclosure of information
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Applications under section 47
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - Oral hearings: procedure
+    - [Sch. 9 para. 13A](schedule/9/paragraph/13A.md)
+  - Procedural complaints
+    - [Sch. 9 para. 13B](schedule/9/paragraph/13B.md)
+  - Settling cases
+    - [Sch. 9 para. 13C](schedule/9/paragraph/13C.md)
+  - Enforcement
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+- SCHEDULE 10 Regulators
+  - Part I Monopolies
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Part II The Prohibitions
+    - Telecommunications
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Gas
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Electricity
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Water
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Railways
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Part III The Prohibitions: Northern Ireland
+    - Electricity
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Gas
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Part IV Utilities: Minor and Consequential Amendments
+    - The Telecommunications Act 1984 (c.12)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - The Gas Act 1986 (c.44)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - The Water Act 1989 (c.15)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - The Electricity Act 1989 (c.29)
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - The Water Industry Act 1991 (c.56)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - The Water Resources Act 1991 (c.57)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - The Railways Act 1993 (c.43)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+    - The Channel Tunnel Rail Link Act 1996 (c.61)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Part V Minor and Consequential Amendments: Northern Ireland
+    - The Electricity (Northern Ireland) Order 1992
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - The Gas (Northern Ireland) Order 1996
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+- SCHEDULE 11 Interpretation of Section 55
+  - Relevant functions
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Designated persons
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+- SCHEDULE 12 Minor and Consequential Amendments
+  - The Fair Trading Act 1973 (c.41)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - The Energy Act 1976 (c.76)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - The Estate Agents Act 1979 (c.38)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - The Competition Act 1980 (c.21)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26))
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Agricultural Marketing (Northern Ireland) Order 1982 (S.I. 1982/1080 (N.I. 12))
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - The Airports Act 1986 (c.31)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - ...
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - The Companies Consolidation (Consequential Provisions)(Northern Ireland) Order 1986 (S.I. 1986/1035 (N.I. 9))
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - The Consumer Protection Act 1987 (c.43)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - The Channel Tunnel Act 1987 (c.53)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - The Road Traffic (Consequential Provisions) Act 1988 (c.54)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - The Companies Act 1989 (c.40)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+  - The Broadcasting Act 1990 (c.42)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - The Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - The Osteopaths Act 1993 (c.21)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - The Chiropractors Act 1994 (c.17)
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - The Coal Industry Act 1994 (c.21)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - The Deregulation and Contracting Out Act 1994 (c.40)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+  - The Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+  - The Broadcasting Act 1996 (c.55)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+- SCHEDULE 13 Transitional Provisions and Savings
+  - Part I General
+    - Interpretation
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - General power to make transitional provision and savings
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Advice and information
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Part II During the Interim Period
+    - Block exemptions
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Certain agreements to be non-notifiable agreements
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Application of RTPA during the interim period
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Guidance
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Part III On the Starting Date
+    - Applications which fall
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Orders and approvals which fall
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Part IV On and After the Starting Date
+    - Chapter I General
+      - Duty of Director to maintain register etc.
+        - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+      - RTPA section 3 applications
+        - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+      - RTPA section 26 applications
+        - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+      - Right to bring civil proceedings
+        - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - Chapter II Continuing Proceedings
+      - The general rule
+        - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+      - Meaning of “continuing proceedings”
+        - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+      - RTPA section 4 proceedings
+        - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+      - RPA section 16 or 17 proceedings
+        - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+      - Continuing proceedings which are discontinued
+        - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - Chapter III The Transitional Period
+      - The general rule
+        - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+      - Cases for which there is no transitional period
+        - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+      - Continuing proceedings under the RTPA
+        - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+      - Continuing proceedings under the RPA
+        - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+      - Provisions not contrary to public interest
+        - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+      - Goods
+        - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+      - Transitional period for certain agreements
+        - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+      - Special cases
+        - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - Chapter IV The Utilities
+      - General
+        - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+      - Electricity
+        - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+      - Electricity: power to make transitional orders
+        - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+      - Gas
+        - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+      - Gas: power to make transitional orders
+        - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+      - Gas: Northern Ireland
+        - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+      - Gas: Northern Ireland – power to make transitional orders
+        - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+      - Railways
+        - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+      - The regulators
+        - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - Chapter V Extending the transitional period
+      - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - Chapter VI Terminating the Transitional Period
+      - General
+        - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+      - Circumstances in which the Director may terminate the transitional period
+        - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+      - Procedural requirements on giving a paragraph 37 direction
+        - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+  - Part V The Fair Trading Act 1973
+    - References to the Monopolies and Mergers Commission
+      - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - Orders under Schedule 8
+      - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - Part III of the Act
+      - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+  - Part VI The Competition Act 1980
+    - Undertakings
+      - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+    - Application of sections 25 and 26
+      - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+  - Part VII Miscellaneous
+    - Disclosure of information
+      - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - The Court
+      - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+- SCHEDULE 14 Repeals and Revocations
+  - Part I Repeals
+  - Part II Revocations
