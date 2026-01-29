@@ -1,0 +1,758 @@
+# Northern Ireland Act 1998
+
+1998 c. 47. Enacted 1998-11-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-01-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 20 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/47
+
+Source: https://www.legislation.gov.uk/ukpga/1998/47/2026-01-29
+
+## Contents
+
+- Part I Preliminary
+  - [s. 1 Status of Northern Ireland.](section/1.md)
+  - [s. 2 Previous enactments.](section/2.md)
+  - [s. 3 Devolution order.](section/3.md)
+  - [s. 4 Transferred, excepted and reserved matters.](section/4.md)
+- Part II Legislative Powers
+  - General
+    - [s. 5 Acts of the Northern Ireland Assembly.](section/5.md)
+    - [s. 6 Legislative competence.](section/6.md)
+    - [s. 6A Restriction relating to retained EU law](section/6A.md)
+    - [s. 7 Entrenched enactments.](section/7.md)
+    - [s. 7A Cross-community support required for Bill altering size of Assembly](section/7A.md)
+    - [s. 8 Consent of Secretary of State required in certain cases.](section/8.md)
+  - Scrutiny and stages of Bills
+    - [s. 9 Scrutiny by Ministers.](section/9.md)
+    - [s. 10 Scrutiny by Presiding Officer.](section/10.md)
+    - [s. 11 Scrutiny by the Supreme Court.](section/11.md)
+    - [s. 12 Reconsideration where reference made to ECJ.](section/12.md)
+    - [s. 13 Stages of Bills.](section/13.md)
+  - Royal Assent
+    - [s. 14 Submission by Secretary of State.](section/14.md)
+    - [s. 15 Parliamentary control where consent given.](section/15.md)
+- Part III Executive Authorities
+  - Authorities
+    - [s. 16 First Minister and deputy First Minister.](section/16.md)
+    - [s. 16A Appointment of First Minister, deputy First Minister and Northern Ireland Ministers following Assembly election](section/16A.md)
+    - [s. 16B Vacancies in the office of First Minister or deputy First Minister](section/16B.md)
+    - [s. 16C Sections 16A and 16B: supplementary](section/16C.md)
+    - [s. 17 Ministerial offices.](section/17.md)
+    - [s. 18 Northern Ireland Ministers.](section/18.md)
+    - [s. 19 Junior Ministers.](section/19.md)
+    - [s. 19A Disqualification for certain offices which may be held by members of the Assembly.](section/19A.md)
+    - [s. 20 The Executive Committee.](section/20.md)
+    - [s. 21 Northern Ireland departments.](section/21.md)
+    - [s. 21A Northern Ireland department with policing and justice functions](section/21A.md)
+    - [s. 21B Section 21A(5A) and (7C): transitional provision](section/21B.md)
+    - [s. 21C Section 21A(5A) and (7C): power of Assembly to secure retention or abolition of deputy Ministerial office](section/21C.md)
+  - Functions
+    - [s. 22 Statutory functions.](section/22.md)
+    - [s. 23 Prerogative and executive powers.](section/23.md)
+    - [s. 24 ... Convention rights ... etc.](section/24.md)
+    - [s. 25 Excepted and reserved matters.](section/25.md)
+    - [s. 26 International obligations.](section/26.md)
+    - [s. 27 Quotas for purposes of international etc obligations.](section/27.md)
+    - [s. 28 Agency arrangements between UK and NI departments.](section/28.md)
+  - Ministerial Code
+    - [s. 28A Ministerial Code](section/28A.md)
+  - Power to refer Ministerial decision to Executive Committee
+    - [s. 28B Power to refer Ministerial decision to Executive Committee](section/28B.md)
+  - Executive Committee: further provisions
+    - [s. 28C Power of Executive Committee to call for witnesses and documents](section/28C.md)
+    - [s. 28D Strategies relating to Irish language and Ulster Scots language etc](section/28D.md)
+    - [s. 28E Strategy relating to poverty, social exclusion etc](section/28E.md)
+  - Miscellaneous
+    - [s. 29 Statutory committees.](section/29.md)
+    - [s. 29A Committee to review functioning of Assembly and Executive Committee](section/29A.md)
+    - [s. 29B Review of operation of sections 16A to 16C](section/29B.md)
+    - [s. 29C Review of functions relating to judicial appointments and removals](section/29C.md)
+    - [s. 30 Exclusion of Ministers from office.](section/30.md)
+    - [s. 30A Secretary of State’s powers in relation to exclusion](section/30A.md)
+    - [s. 30B Secretary of State’s powers in exceptional circumstances](section/30B.md)
+- Part IV The Northern Ireland Assembly
+  - Elections etc
+    - [s. 31 Dates of elections and dissolutions.](section/31.md)
+    - [s. 32 Extraordinary elections.](section/32.md)
+    - [s. 33 Constituencies and numbers of members.](section/33.md)
+    - [s. 34 Elections and franchise.](section/34.md)
+    - [s. 35 Vacancies.](section/35.md)
+  - Disqualification
+    - [s. 36 Disqualification.](section/36.md)
+    - [s. 37 Effect of disqualification and provision for relief.](section/37.md)
+    - [s. 38 Disqualification: judicial proceedings.](section/38.md)
+  - Presiding Officer and Commission
+    - [s. 39 Presiding Officer.](section/39.md)
+    - [s. 40 Commission.](section/40.md)
+  - Proceedings etc.
+    - [s. 40A Undertaking by members](section/40A.md)
+    - [s. 41 Standing orders.](section/41.md)
+    - [s. 42 Petitions of concern.](section/42.md)
+    - [s. 43 Members’ interests.](section/43.md)
+    - [s. 44 Power to call for witnesses and documents.](section/44.md)
+    - [s. 45 Witnesses and documents: offences.](section/45.md)
+    - [s. 46 Witnesses: oaths.](section/46.md)
+  - Remuneration and pensions
+    - [s. 47 Remuneration of members.](section/47.md)
+    - [s. 47A Resolutions about reduction of remuneration](section/47A.md)
+    - [s. 47B Secretary of State’s powers in relation to reduction of remuneration](section/47B.md)
+    - [s. 47C Section 47A: specified periods and extensions](section/47C.md)
+    - [s. 48 Pensions of members.](section/48.md)
+  - Miscellaneous
+    - [s. 49 Letters Patent etc.](section/49.md)
+    - [s. 50 Privilege.](section/50.md)
+    - [s. 51 Resignation of members.](section/51.md)
+    - [s. 51A Resolutions about reduction of financial assistance](section/51A.md)
+    - [s. 51B Secretary of State’s powers in relation to reduction of financial assistance](section/51B.md)
+    - [s. 51C Section 51A: specified periods and extensions](section/51C.md)
+    - [s. 51D Censure resolutions](section/51D.md)
+- Part V NSMC, BIC, BIIC etc.
+  - [s. 52 North-South Ministerial Council and British-Irish Council.](section/52.md)
+  - [s. 52A North-South Ministerial Council and British-Irish Council](section/52A.md)
+  - [s. 52B Section 52A: duty to attend Council meetings etc](section/52B.md)
+  - [s. 52C Sections 52A and 52B: supplementary](section/52C.md)
+  - [s. 53 Agreements etc. by persons participating in Councils.](section/53.md)
+  - [s. 54 British-Irish Intergovernmental Conference.](section/54.md)
+  - [s. 55 Implementation bodies.](section/55.md)
+  - [s. 56 Civic Forum.](section/56.md)
+- PART 5A EU WITHDRAWAL: Democratic Consent and Scrutiny
+  - [s. 56A Democratic consent process](section/56A.md)
+  - [s. 56B Application of EU acts](section/56B.md)
+- Part VI Financial Provisions
+  - Consolidated Fund
+    - [s. 57 Consolidated Fund of Northern Ireland.](section/57.md)
+    - [s. 58 Payments into the Fund.](section/58.md)
+    - [s. 59 Payments out of Fund without appropriation Act.](section/59.md)
+    - [s. 60 Financial control, accounts and audit.](section/60.md)
+  - Advances
+    - [s. 61 Advances by Secretary of State.](section/61.md)
+    - [s. 62 Accounts.](section/62.md)
+  - Miscellaneous
+    - [s. 63 Financial acts of the Assembly.](section/63.md)
+    - [s. 64 Draft budgets.](section/64.md)
+    - [s. 65 Audit.](section/65.md)
+    - [s. 66 Expenses of Northern Ireland Audit Office.](section/66.md)
+    - [s. 67 Provision of information to Treasury.](section/67.md)
+    - [s. 67A Accounts etc to be laid before House of Commons if no functioning Assembly](section/67A.md)
+- Part VII Human Rights and Equal Opportunities
+  - Human rights
+    - [s. 68 The Northern Ireland Human Rights Commission.](section/68.md)
+    - [s. 69 The Commission’s functions.](section/69.md)
+    - [s. 69A Investigations: evidence](section/69A.md)
+    - [s. 69B Investigations: national security](section/69B.md)
+    - [s. 69C Investigations: places of detention](section/69C.md)
+    - [s. 69D Investigations: terms of reference](section/69D.md)
+    - [s. 70 Assistance by Commission.](section/70.md)
+    - [s. 71 Restrictions on application of rights.](section/71.md)
+    - [s. 72 Standing Advisory Commission on Human Rights: dissolution.](section/72.md)
+  - Equality of opportunity
+    - [s. 73 The Equality Commission for Northern Ireland.](section/73.md)
+    - [s. 74 The Commission’s principal functions.](section/74.md)
+    - [s. 75 Statutory duty on public authorities.](section/75.md)
+    - [s. 76 Discrimination by public authorities.](section/76.md)
+    - [s. 77 Unlawful oaths etc.](section/77.md)
+    - [s. 78 Removal of restrictions on investigation into maladministration.](section/78.md)
+  - Protections deriving from EU withdrawal agreement
+    - [s. 78A NIHRC functions in relation to EU withdrawal agreement](section/78A.md)
+    - [s. 78B ECNI functions in relation to EU withdrawal agreement](section/78B.md)
+    - [s. 78C Power of Commissions to bring, or intervene in, legal proceedings](section/78C.md)
+    - [s. 78D Power of Commissions to assist persons in legal proceedings](section/78D.md)
+    - [s. 78E Collaborative working](section/78E.md)
+- Part 7A National and Cultural Identity
+  - [s. 78F National and cultural identity principles](section/78F.md)
+  - [s. 78G The Office of Identity and Cultural Expression](section/78G.md)
+  - [s. 78H Functions of the Office of Identity and Cultural Expression](section/78H.md)
+  - [s. 78I Further functions: establishing the Castlereagh Foundation](section/78I.md)
+- Part 7B The Irish Language
+  - [s. 78J Recognition of the status of the Irish language](section/78J.md)
+  - [s. 78K The Irish Language Commissioner](section/78K.md)
+  - [s. 78L Functions of the Commissioner](section/78L.md)
+  - [s. 78M Irish language best practice standards](section/78M.md)
+  - [s. 78N Review and revision of best practice standards](section/78N.md)
+  - [s. 78O Duty to have regard to best practice standards](section/78O.md)
+  - [s. 78P Complaints](section/78P.md)
+  - [s. 78Q Meaning of “public authority”](section/78Q.md)
+- Part 7C The Ulster Scots and the Ulster British tradition
+  - [s. 78R The Commissioner](section/78R.md)
+  - [s. 78S Functions of the Commissioner](section/78S.md)
+  - [s. 78T Complaints](section/78T.md)
+  - [s. 78U Meaning of “public authority”](section/78U.md)
+- Part VIII Miscellaneous
+  - Judicial scrutiny
+    - [s. 79 Devolution issues.](section/79.md)
+    - [s. 80 Legislative power to remedy ultra vires acts.](section/80.md)
+    - [s. 81 Powers of courts or tribunals to vary retrospective decisions.](section/81.md)
+    - [s. 82 The Judicial Committee.](section/82.md)
+    - [s. 83 Interpretation of Acts of the Assembly etc.](section/83.md)
+  - Power to make provision by Order in Council
+    - [s. 84 Provision with respect to certain matters relating to Northern Ireland.](section/84.md)
+    - [s. 85 Provision dealing with certain reserved matters.](section/85.md)
+    - [s. 86 Provision for purposes consequential on Act etc.](section/86.md)
+    - [s. 86A Provision for transfer of functions relating to extradition etc.](section/86A.md)
+    - [s. 86B Provision for entrenching enactments](section/86B.md)
+  - Social security, child support and pensions
+    - [s. 87 Consultation and co-ordination.](section/87.md)
+    - [s. 88 The Joint Authority.](section/88.md)
+    - [s. 89 Industrial Injuries Advisory Council.](section/89.md)
+  - Discrimination: certificates by Secretary of State
+    - [s. 90 Effect of certificates.](section/90.md)
+    - [s. 91 The Tribunal.](section/91.md)
+    - [s. 92 Appeals from the Tribunal.](section/92.md)
+  - Miscellaneous
+    - [s. 93 Parliament Buildings etc.](section/93.md)
+    - [s. 94 Land purchase annuities etc.](section/94.md)
+- Part IX Supplemental
+  - [s. 95 Savings for existing laws.](section/95.md)
+  - [s. 95A Directions under sections 30A, 47B and 51B](section/95A.md)
+  - [s. 96 Orders and regulations.](section/96.md)
+  - [s. 96A Explanatory statements in relation to certain regulations](section/96A.md)
+  - [s. 97 Financial provision.](section/97.md)
+  - [s. 98 Interpretation.](section/98.md)
+  - [s. 99 Minor and consequential amendments.](section/99.md)
+  - [s. 100 Transitional provisions, savings and repeals.](section/100.md)
+  - [s. 101 Short title and commencement.](section/101.md)
+- SCHEDULE 1 Polls for the purposes of section 1
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Excepted matters
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+  - [Sch. 2 para. 9C](schedule/2/paragraph/9C.md)
+  - [Sch. 2 para. 9D](schedule/2/paragraph/9D.md)
+  - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 10A](schedule/2/paragraph/10A.md)
+  - [Sch. 2 para. 10B](schedule/2/paragraph/10B.md)
+  - [Sch. 2 para. 10C](schedule/2/paragraph/10C.md)
+  - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 11A](schedule/2/paragraph/11A.md)
+  - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - [Sch. 2 para. 16A](schedule/2/paragraph/16A.md)
+  - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - [Sch. 2 para. 20A](schedule/2/paragraph/20A.md)
+  - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - [Sch. 2 para. 21A](schedule/2/paragraph/21A.md)
+  - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+- SCHEDULE 3 Reserved matters
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 9A](schedule/3/paragraph/9A.md)
+  - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 11A](schedule/3/paragraph/11A.md)
+  - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 14A](schedule/3/paragraph/14A.md)
+  - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - [Sch. 3 para. 15A](schedule/3/paragraph/15A.md)
+  - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+  - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+  - [Sch. 3 para. 25A](schedule/3/paragraph/25A.md)
+  - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+  - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+  - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+  - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+  - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+  - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+  - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+  - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+  - [Sch. 3 para. 35A](schedule/3/paragraph/35A.md)
+  - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+  - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+  - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+  - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+  - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+  - [Sch. 3 para. 41A](schedule/3/paragraph/41A.md)
+  - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+- SCHEDULE 4 Annex A to Strand One of Belfast Agreement
+  - Pledge of Office
+  - Code of Conduct
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+- SCHEDULE 4A Department with policing and justice functions
+  - Part 1 Department in the charge of Minister approved by resolution of Assembly by virtue of section 21A(3)
+    - Introduction
+      - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+    - Modification of section 16A
+      - [Sch. 4A para. 1A](schedule/4A/paragraph/1A.md)
+    - Section 18 not to apply to relevant Minister
+      - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+    - Provisions relating to relevant Minister
+      - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Part 1A Department in the charge of Minister approved by resolution of the Assembly by virtue of section 21A(3A)
+    - [Sch. 4A para. 3A Introduction](schedule/4A/paragraph/3A.md)
+    - [Sch. 4A para. 3B Modification of section 16A](schedule/4A/paragraph/3B.md)
+    - [Sch. 4A para. 3C Section 18 not to apply to relevant Minister](schedule/4A/paragraph/3C.md)
+    - [Sch. 4A para. 3D Provisions relating to relevant Minister](schedule/4A/paragraph/3D.md)
+    - [Sch. 4A para. 3E Reappointment of other Northern Ireland Ministers in certain cases](schedule/4A/paragraph/3E.md)
+  - Part 2 Department in the charge of two Ministers
+    - Introduction
+      - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+    - Modification of section 16A
+      - [Sch. 4A para. 4A](schedule/4A/paragraph/4A.md)
+    - Modifications of section 17
+      - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+    - Section 18 not to apply to relevant Ministers
+      - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+    - Provisions relating to relevant Ministers
+      - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - Part 3 Department with rotation between Minister and junior Minister
+    - Introduction
+      - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+    - Modification of section 16A
+      - [Sch. 4A para. 8A](schedule/4A/paragraph/8A.md)
+    - Section 18 not to apply to relevant Minister
+      - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+    - Certain provisions of section 19 not to apply to relevant junior Minister
+      - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+    - Provisions relating to relevant Minister and relevant junior Minister
+      - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+  - Part 3A Department in the charge of Minister and deputy Minister
+    - [Sch. 4A para. 11A Introduction](schedule/4A/paragraph/11A.md)
+    - [Sch. 4A para. 11B Modification of section 16A](schedule/4A/paragraph/11B.md)
+    - [Sch. 4A para. 11C Section 18 not to apply to relevant Minister](schedule/4A/paragraph/11C.md)
+    - [Sch. 4A para. 11D Section 19 not to apply to deputy Minister](schedule/4A/paragraph/11D.md)
+    - [Sch. 4A para. 11E Provisions relating to relevant Minister and deputy Minister](schedule/4A/paragraph/11E.md)
+    - [Sch. 4A para. 11F Eligibility to become relevant Minister or deputy Minister](schedule/4A/paragraph/11F.md)
+    - [Sch. 4A para. 11G Change in number of Ministerial offices held by members of a political party](schedule/4A/paragraph/11G.md)
+    - [Sch. 4A para. 11H Interpretation](schedule/4A/paragraph/11H.md)
+  - Part 4 Power to make further modifications
+    - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+    - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+- SCHEDULE 5 Northern Ireland Assembly Commission
+  - Membership
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Staff
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Powers
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Delegation
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Proceedings and business
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Crown status
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Standing orders: further provision
+  - Preservation of order
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Proceedings to be in public
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Reporting and publishing proceedings
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Committees
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Votes in vacancy
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 6A EU WITHDRAWAL: DEMOCRATIC CONSENT PROCESS
+  - PART 1 General
+    - [Sch. 6A para. 1 Introduction](schedule/6A/paragraph/1.md)
+    - [Sch. 6A para. 2 Meaning of “consent resolution” and effect if consent resolution rejected](schedule/6A/paragraph/2.md)
+    - [Sch. 6A para. 3 Meaning of “continuation period”, “current period” etc](schedule/6A/paragraph/3.md)
+  - PART 2 Duty of Secretary of State to initiate the democratic consent process
+    - [Sch. 6A para. 4 Duty to give notification of the start of the democratic consent process](schedule/6A/paragraph/4.md)
+  - PART 3 Default Democratic Consent Process
+    - [Sch. 6A para. 5 Application](schedule/6A/paragraph/5.md)
+    - [Sch. 6A para. 6 Giving the notification of the start of the democratic consent process](schedule/6A/paragraph/6.md)
+    - [Sch. 6A para. 7 Presiding Officer to inform members of the Assembly](schedule/6A/paragraph/7.md)
+    - [Sch. 6A para. 8 Consent resolution: motion by First Minister and deputy First Minister](schedule/6A/paragraph/8.md)
+    - [Sch. 6A para. 9 Consent resolution: motion by any member of the Assembly](schedule/6A/paragraph/9.md)
+    - [Sch. 6A para. 10 Consent resolution: consideration of motion](schedule/6A/paragraph/10.md)
+  - PART 4 Alternative democratic consent process
+    - [Sch. 6A para. 11 Application](schedule/6A/paragraph/11.md)
+    - [Sch. 6A para. 12 Giving the notification of the start of the democratic consent process](schedule/6A/paragraph/12.md)
+    - [Sch. 6A para. 13 Presiding Officer to inform members of the Assembly](schedule/6A/paragraph/13.md)
+    - [Sch. 6A para. 14 Consent resolution: motion by a member of the Assembly](schedule/6A/paragraph/14.md)
+    - [Sch. 6A para. 15 Consent resolution: requirement to consider motion](schedule/6A/paragraph/15.md)
+    - [Sch. 6A para. 16 Election of an interim Presiding Officer](schedule/6A/paragraph/16.md)
+  - PART 5 Procedural Matters and Outcome
+    - [Sch. 6A para. 17 Application](schedule/6A/paragraph/17.md)
+    - [Sch. 6A para. 18 Procedural matters relating to motions for consent resolutions](schedule/6A/paragraph/18.md)
+    - [Sch. 6A para. 19 Outcome of process: Presiding Officer to notify Secretary of State](schedule/6A/paragraph/19.md)
+    - [Sch. 6A para. 20 Outcome of process: Secretary of State to notify European Commission](schedule/6A/paragraph/20.md)
+  - PART 6 Independent Review
+    - [Sch. 6A para. 21 Independent review into the functioning of the Protocol](schedule/6A/paragraph/21.md)
+- SCHEDULE 6B EU WITHDRAWAL: WINDSOR FRAMEWORK DEMOCRATIC SCRUTINY
+  - PART 1 General
+    - [Sch. 6B para. 1 Introduction and Interpretation](schedule/6B/paragraph/1.md)
+  - PART 2 Windsor Framework Democratic Scrutiny Committee
+    - [Sch. 6B para. 2 Windsor Framework Democratic Scrutiny Committee](schedule/6B/paragraph/2.md)
+    - [Sch. 6B para. 3 Purpose and functions of the Committee](schedule/6B/paragraph/3.md)
+    - [Sch. 6B para. 4 Membership of the Committee](schedule/6B/paragraph/4.md)
+    - [Sch. 6B para. 5 Powers of the Committee](schedule/6B/paragraph/5.md)
+    - [Sch. 6B para. 6 Notification of the Committee](schedule/6B/paragraph/6.md)
+    - [Sch. 6B para. 7 Committee Monitoring](schedule/6B/paragraph/7.md)
+    - [Sch. 6B para. 8 Committee Inquiries: Initiation](schedule/6B/paragraph/8.md)
+    - [Sch. 6B para. 9 Committee Inquiries: Procedure](schedule/6B/paragraph/9.md)
+    - [Sch. 6B para. 10 Committee Inquiries: Reports](schedule/6B/paragraph/10.md)
+  - PART3 Procedure by which members of the Assembly may seek to prevent the application of a replacement EU act
+    - [Sch. 6B para. 11 Initiating the procedure to prevent the application of a replacement EU act](schedule/6B/paragraph/11.md)
+    - [Sch. 6B para. 12 Time period for making the notification](schedule/6B/paragraph/12.md)
+    - [Sch. 6B para. 13 Duty to publish the notification](schedule/6B/paragraph/13.md)
+    - [Sch. 6B para. 14 Consideration of the validity of the notification](schedule/6B/paragraph/14.md)
+    - [Sch. 6B para. 15 Duty to notify accepted notifications](schedule/6B/paragraph/15.md)
+    - [Sch. 6B para. 16 Duty to give reasons for a decision not to accept a notification](schedule/6B/paragraph/16.md)
+  - PART 4 Ministerial consideration of new EU acts in the Joint Committee
+    - [Sch. 6B para. 17 Meaning of “applicability motion”](schedule/6B/paragraph/17.md)
+    - [Sch. 6B para. 18 Restrictions relating to a decision to add new EU acts](schedule/6B/paragraph/18.md)
+    - [Sch. 6B para. 19 Requirements relating to the applicability motion](schedule/6B/paragraph/19.md)
+- SCHEDULE 7 The Northern Ireland Human Rights Commission
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Commissioners’ tenure
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Commissioners’ salary etc.
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Staff
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Annual report
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Money
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Procedure
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Disqualification
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Status
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+- SCHEDULE 8 The Equality Commission for Northern Ireland
+  - Introductory
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Commissioners’ tenure
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Commissioners’ salary etc.
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Additional Commissioners
+    - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
+  - Staff
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Annual report
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Money
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Procedure
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Disqualification
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - The Northern Ireland Commissioner for Complaints
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Status
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Equality: enforcement of duties
+  - The Equality Commission
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Equality schemes
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Duties arising out of equality schemes
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Complaints
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Investigations
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Government departments
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+- Schedule 9A The Office of Identity and Cultural Expression
+  - [Sch. 9A para. 1 Status](schedule/9A/paragraph/1.md)
+  - [Sch. 9A para. 2 Membership](schedule/9A/paragraph/2.md)
+  - [Sch. 9A para. 3 Tenure of members](schedule/9A/paragraph/3.md)
+  - [Sch. 9A para. 4 Members’ salary etc.](schedule/9A/paragraph/4.md)
+  - [Sch. 9A para. 5 Staff](schedule/9A/paragraph/5.md)
+  - [Sch. 9A para. 6 Assistance](schedule/9A/paragraph/6.md)
+  - [Sch. 9A para. 7 Exercise of functions](schedule/9A/paragraph/7.md)
+  - [Sch. 9A para. 8 General powers](schedule/9A/paragraph/8.md)
+  - [Sch. 9A para. 9 Proceedings](schedule/9A/paragraph/9.md)
+  - [Sch. 9A para. 10 Funding](schedule/9A/paragraph/10.md)
+  - [Sch. 9A para. 11 Accounts](schedule/9A/paragraph/11.md)
+  - [Sch. 9A para. 12 Annual report](schedule/9A/paragraph/12.md)
+  - [Sch. 9A para. 13 Seal and evidence](schedule/9A/paragraph/13.md)
+- Schedule 9B The Irish Language Commissioner
+  - [Sch. 9B para. 1 Status](schedule/9B/paragraph/1.md)
+  - [Sch. 9B para. 2 Tenure of office](schedule/9B/paragraph/2.md)
+  - [Sch. 9B para. 3 Commissioner’s salary, etc](schedule/9B/paragraph/3.md)
+  - [Sch. 9B para. 4 Staff](schedule/9B/paragraph/4.md)
+  - [Sch. 9B para. 5 Assistance](schedule/9B/paragraph/5.md)
+  - [Sch. 9B para. 6 Exercise of functions](schedule/9B/paragraph/6.md)
+  - [Sch. 9B para. 7 General powers](schedule/9B/paragraph/7.md)
+  - [Sch. 9B para. 8 Funding](schedule/9B/paragraph/8.md)
+  - [Sch. 9B para. 9 Accounts](schedule/9B/paragraph/9.md)
+  - [Sch. 9B para. 10 Annual report](schedule/9B/paragraph/10.md)
+  - [Sch. 9B para. 11 Seal and evidence](schedule/9B/paragraph/11.md)
+  - [Sch. 9B para. 12 Property](schedule/9B/paragraph/12.md)
+- Schedule 9C Commissioner for the Ulster Scots and the Ulster British tradition
+  - [Sch. 9C para. 1 Status](schedule/9C/paragraph/1.md)
+  - [Sch. 9C para. 2 Tenure of office](schedule/9C/paragraph/2.md)
+  - [Sch. 9C para. 3 Commissioner’s salary, etc](schedule/9C/paragraph/3.md)
+  - [Sch. 9C para. 4 Staff](schedule/9C/paragraph/4.md)
+  - [Sch. 9C para. 5 Assistance](schedule/9C/paragraph/5.md)
+  - [Sch. 9C para. 6 Exercise of functions](schedule/9C/paragraph/6.md)
+  - [Sch. 9C para. 7 General powers](schedule/9C/paragraph/7.md)
+  - [Sch. 9C para. 8 Funding](schedule/9C/paragraph/8.md)
+  - [Sch. 9C para. 9 Accounts](schedule/9C/paragraph/9.md)
+  - [Sch. 9C para. 10 Annual report](schedule/9C/paragraph/10.md)
+  - [Sch. 9C para. 11 Seal and evidence](schedule/9C/paragraph/11.md)
+  - [Sch. 9C para. 12 Property](schedule/9C/paragraph/12.md)
+- SCHEDULE 10 Devolution issues
+  - Part I Preliminary
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Part II Proceedings in Northern Ireland
+    - Application of Part II
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Institution of proceedings
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Notice of devolution issue
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Reference of devolution issue to Court of Appeal
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - References from Court of Appeal to Supreme Court
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Appeals from Court of Appeal to Supreme Court
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Part III Proceedings in England and Wales
+    - Application of Part III
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Institution of proceedings
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Notice of devolution issue
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Reference of devolution issue to High Court or Court of Appeal
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+    - References from Court of Appeal to Supreme Court
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Appeals from superior courts to Supreme Court
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Part IV Proceedings in Scotland
+    - Application of Part IV
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+    - Institution of proceedings
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+    - Intimation of devolution issue
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+    - Reference of devolution issue to higher court
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+    - References from superior courts to Supreme Court
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+    - Appeals from superior courts to Supreme Court
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+  - Part V General
+    - ...
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+    - Direct references to Supreme Court
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+    - Delegation by First Ministers
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+    - Expenses
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+    - Procedure of courts and tribunals
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+    - Bail and legal aid in criminal proceedings
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+      - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - Interpretation
+      - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+- SCHEDULE 11 Tribunal established under section 91
+  - Introductory
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Members
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 2A](schedule/11/paragraph/2A.md)
+  - Chairman
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Payments to members
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Proceedings
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Staff
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Expenses
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Disqualification of Tribunal Members
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 Construction of references in existing laws
+  - Preliminary
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - The Parliament and the old Assembly
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Legislation etc of the Parliament or the old Assembly
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Money
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Office-holders and Ministers
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - Courts
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - Equal opportunity bodies
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+- SCHEDULE 12A Effect of application of section 95A(6) or (7)
+  - Directions under section 30A(5): Northern Ireland Ministers and junior Ministers
+    - [Sch. 12A para. 1](schedule/12A/paragraph/1.md)
+    - [Sch. 12A para. 2](schedule/12A/paragraph/2.md)
+    - [Sch. 12A para. 3](schedule/12A/paragraph/3.md)
+    - [Sch. 12A para. 4](schedule/12A/paragraph/4.md)
+  - Directions under section 30A(2) or (5): the First Minister and deputy First Minister
+    - [Sch. 12A para. 5](schedule/12A/paragraph/5.md)
+    - [Sch. 12A para. 6](schedule/12A/paragraph/6.md)
+    - [Sch. 12A para. 7](schedule/12A/paragraph/7.md)
+    - [Sch. 12A para. 8](schedule/12A/paragraph/8.md)
+  - Directions under section 47B or 51B
+    - [Sch. 12A para. 9](schedule/12A/paragraph/9.md)
+  - General
+    - [Sch. 12A para. 10](schedule/12A/paragraph/10.md)
+- SCHEDULE 13 Minor and consequential amendments
+  - Fair Employment (Northern Ireland) Act 1976 (c.25)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Sex Discrimination (Northern Ireland) Order 1976 (S.I. 1976/1042 (N.I. 15))
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Interpretation Act 1978 (c.30)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Statutory Rules (Northern Ireland) Order 1979 (S.I. 1979/1573 (N.I.12))
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Mental Health Act 1983 (c.20)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Insolvency Act 1986 (c.45)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Audit (Northern Ireland) Order 1987 (S.I. 1987/460 (N.I.5))
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Copyright, Designs and Patents Act 1988 (c.48)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Official Secrets Act 1989 (c.6)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Fair Employment (Northern Ireland) Act 1989 (c.32)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Social Security Administration Act 1992 (c.5)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Social Security Administration (Northern Ireland) Act 1992 (c.8)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Environment and Safety Information (Northern Ireland) Order 1993 (S.I. 1993/3159 (N.I.14))
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Civil Service (Management Functions) (Northern Ireland) Order 1994 (S.I. 1994/1894 (N.I.9))
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Olympic Symbol etc. Protection Act 1995 (c.32)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Disability Discrimination Act 1995 (c.50)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - Commissioner for Complaints (Northern Ireland) Order 1996 (S.I. 1996/1297 (N.I.7))
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+  - Ombudsman (Northern Ireland) Order 1996 (S.I. 1996/1298 (N.I.8))
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Race Relations (Northern Ireland) Order 1997 (S.I. 1997/869 (N.I.6))
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+  - Northern Ireland (Elections) Act 1998 (c.12)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+  - Data Protection Act 1998 (c.29)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+- SCHEDULE 14 Transitional provisions and savings
+  - Human rights
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - First Minister and deputy First Minister
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Ministerial offices
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Northern Ireland Ministers
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Junior Ministers
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Department of First Minister and deputy First Minister
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Prerogative orders
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Agency arrangements
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Statutory committees
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Elections of members
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Vacancies
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Disqualification
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - Presiding Officer and deputy
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Standing orders
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Civic Forum
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+  - Comptroller and Auditor General for Northern Ireland
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Social security and child support
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+  - Certificates by Secretary of State
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+  - Devolution issues
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+  - Relations with Republic of Ireland
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+  - Discrimination in legislation
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+  - Discrimination by public bodies
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+  - Members’ Pensions
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+- SCHEDULE 15 Repeals
