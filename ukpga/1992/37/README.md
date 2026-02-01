@@ -1,0 +1,285 @@
+# Further and Higher Education (Scotland) Act 1992
+
+1992 c. 37. Enacted 1992-03-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1992/37/2026-02-01
+
+## Contents
+
+- Part I Further Education
+  - Chapter I Duties in relation to further education
+    - [s. 1 Duty of Secretary of State to secure provision of further education.](section/1.md)
+    - [s. 2 Function of education authorities.](section/2.md)
+    - [s. 3 Powers of Secretary of State.](section/3.md)
+    - [s. 4 Funding of further education.](section/4.md)
+    - [s. 5 Requirement on Secretary of State to consult.](section/5.md)
+    - [s. 6 Further education to which section 1 applies.](section/6.md)
+  - Chapter II Scottish Further Education Funding Council
+    - [s. 7 Scottish Further Education Funding Council.](section/7.md)
+    - [s. 8 Advisory functions of the Funding Council.](section/8.md)
+    - [s. 9 Power of Secretary of State as regards functions of the Funding Council.](section/9.md)
+    - [s. 10 Payment of grants etc., to the Funding Council.](section/10.md)
+  - Chapter III Colleges of Further Education
+    - Management of colleges
+      - [s. 11 First transfer of colleges.](section/11.md)
+      - [s. 12 Boards of management.](section/12.md)
+      - [s. 13 Subsequent transfers of colleges.](section/13.md)
+      - [s. 14 Transfer of colleges of further education not under local authority management.](section/14.md)
+    - Staff
+      - [s. 15 Transfer of staff.](section/15.md)
+      - [s. 15A Collective bargaining framework for college staff](section/15A.md)
+    - Property
+      - [s. 16 Transfer of property etc. to boards of management.](section/16.md)
+      - [s. 17 Surpluses and deficits.](section/17.md)
+      - [s. 18 Disposal of certain property.](section/18.md)
+    - Educational endowments and trusts
+      - [s. 19 Educational endowments.](section/19.md)
+      - [s. 20 Variation of trust deeds.](section/20.md)
+    - Miscellaneous
+      - [s. 21 Directions by Secretary of State.](section/21.md)
+      - [s. 22 College development plans.](section/22.md)
+      - [s. 23 Duty of boards of management as regards recorded children.](section/23.md)
+      - [s. 24 Mismanagement by boards.](section/24.md)
+      - [s. 25 Closure of colleges and dissolution of boards of management.](section/25.md)
+      - [s. 26 Abolition of college councils.](section/26.md)
+      - [s. 27 Information as to provision of further education.](section/27.md)
+  - Chapter IV Transitory and transitional provisions
+    - Property and contracts
+      - [s. 28 Control of disposal of certain land etc.](section/28.md)
+      - [s. 29 Control of disposal and removal of other property.](section/29.md)
+      - [s. 30 Restriction on education authority entering into certain contracts.](section/30.md)
+    - Enforcement of sections 28 to 30
+      - [s. 31 Disposals and contracts without consent.](section/31.md)
+      - [s. 32 Recovery of loss and damages.](section/32.md)
+      - [s. 33 Avoidance of certain contractual terms.](section/33.md)
+    - Transitional
+      - [s. 34 Transitional provisions as regards college councils.](section/34.md)
+  - Chapter V General
+    - [s. 35 Service of documents etc.](section/35.md)
+    - [s. 36 Interpretation of Part I.](section/36.md)
+- Part II Higher education
+  - The funding council
+    - [s. 37 Scottish Higher Education Funding Council.](section/37.md)
+    - [s. 38 Meaning of higher education.](section/38.md)
+    - [s. 39 Assessment of quality of education provided by institutions.](section/39.md)
+  - Funds
+    - [s. 40 Administration of funds.](section/40.md)
+    - [s. 41 Administration of funds: supplementary.](section/41.md)
+    - [s. 42 Grants.](section/42.md)
+  - Further functions
+    - [s. 43 Further functions.](section/43.md)
+  - Designated institutions
+    - [s. 44 Designation of institutions.](section/44.md)
+    - [s. 45 Power of Privy Council in relation to designated institutions.](section/45.md)
+    - [s. 46 Establishment of new institutions by the Secretary of State.](section/46.md)
+    - [s. 47 Closure of institutions.](section/47.md)
+    - [s. 48 Power to award degrees etc.](section/48.md)
+    - [s. 49 Change of name by institutions.](section/49.md)
+  - General
+    - [s. 50 Duty to give information to the Council.](section/50.md)
+    - [s. 51 Efficiency studies.](section/51.md)
+    - [s. 52 Exercise of powers of Privy Council.](section/52.md)
+    - [s. 53 Inspection of accounts.](section/53.md)
+    - [s. 54 Directions.](section/54.md)
+    - [s. 55 Amendment of section 7 of the Teaching Council (Scotland) Act 1965.](section/55.md)
+    - [s. 56 Interpretation of Part II.](section/56.md)
+- Part III Miscellaneous
+  - [s. 57 Finance.](section/57.md)
+  - [s. 58 Stamp duty.](section/58.md)
+  - [s. 58A Stamp duty land tax](section/58A.md)
+  - [s. 59 ................................](section/59.md)
+  - [s. 59A Joint exercise of certain functions.](section/59A.md)
+  - [s. 60 Regulations and orders.](section/60.md)
+  - [s. 61 Interpretation.](section/61.md)
+  - [s. 62 Transitional provisions, miscellaneous amendments and repeals.](section/62.md)
+  - [s. 63 Short title, commencement and extent.](section/63.md)
+- SCHEDULE 1 The Scottish Further Education Funding Council
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Tenure of office
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - House of Commons disqualification
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Property and contracts
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Execution of documents
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Reports and accounts
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Additional provisions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Constitution and proceedings of boards of management
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Membership
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 3A](schedule/2/paragraph/3A.md)
+    - [Sch. 2 para. 3B](schedule/2/paragraph/3B.md)
+    - [Sch. 2 para. 3C](schedule/2/paragraph/3C.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Qualifications and tenure of office
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+    - [Sch. 2 para. 5B](schedule/2/paragraph/5B.md)
+    - [Sch. 2 para. 5C](schedule/2/paragraph/5C.md)
+    - [Sch. 2 para. 5Cn1](schedule/2/paragraph/5Cn1.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Proceedings
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Chairman
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Committees
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Conflict of interest
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Confidentiality of information
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Staff
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 16A](schedule/2/paragraph/16A.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Accounts
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Execution of documents
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Provision of services
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+- SCHEDULE 3 Transfer and apportionment of property
+  - Identification of land, other property, rights, liabilities and obligations
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Status of agreements etc. under paragraph 1
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Resolution of disputes
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Right to production of documents of title
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Third parties affected by vesting
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Failure to agree or to apply to Secretary of State under paragraph 4 above
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Commissioners for further education assets
+  - Appointment and tenure
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Functions
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Status
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Transitional provisions for college councils
+  - Contracts of employment
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Information
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Payment of grants by Secretary of State
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Directions
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Allowances
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - College development plans
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Accounts
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Continuity of exercise of functions
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Establishment of students’ associations
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Status
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Transitional composition of college councils
+  - Membership of college councils
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Terms of appointment
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Eligibility for appointment
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Disqualification from appointment
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Casual vacancy
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 The Scottish Higher Education Funding Council
+  - Supplementary powers
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Chief officer
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Tenure of members of the Council
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Salaries, allowances and pensions for members
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - House of Commons disqualification
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Staff
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Committees
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Delegation of functions
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Proceedings
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Execution of documents
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Accounts
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Status of the Council
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Transitional, consequential and saving provisions
+  - Part I Provisions relating to Part I of this Act
+    - Supply of services
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Appointment of staff by education authority
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - General
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Part II Provisions relating to Part II of this Act
+    - Saving for regulations under section 77 of the 1980 Act
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Miscellaneous and consequential amendments
+  - Teaching Council (Scotland) Act 1965 (c. 19)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Veterinary Surgeons Act 1966 (c. 36)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Chronically Sick and Disabled Persons Act 1970 (c. 44)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Race Relations Act 1976 (c. 74)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Education (Fees and Awards) Act 1983 (c. 40)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Mental Health (Scotland) Act 1984 (c. 36)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Education Reform Act 1988 (c. 40)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Self-Governing Schools etc. (Scotland) Act 1989 (c. 39)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Education (Student Loans) Act 1990 (c. 6)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Environmental Protection Act 1990 (c. 43)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+- SCHEDULE 10 Repeals
