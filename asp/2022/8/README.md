@@ -1,0 +1,167 @@
+# Coronavirus (Recovery and Reform) (Scotland) Act 2022
+
+asp/2022/8. Enacted 2022-08-10.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2022/8/2026-02-01
+
+## Contents
+
+- Part 1 Public health protection
+  - Chapter 1 Modifications of the Public Health etc. (Scotland) Act 2008
+    - [s. 1 Public health protection measures](section/1.md)
+    - [s. 2 International travel regulations](section/2.md)
+    - [s. 3 Meaning of “premises”](section/3.md)
+  - Chapter 2 Arrangements for vaccination and immunisation
+    - [s. 4 Arrangements for vaccination and immunisation](section/4.md)
+- Part 2 Education
+  - Chapter 1 Educational establishments etc.
+    - [s. 5 Interpretation of Chapter](section/5.md)
+    - [s. 6 Duty to have regard to public health advice](section/6.md)
+    - [s. 7 Guidance on public health measures](section/7.md)
+    - [s. 8 Regulations on continuing operation of educational establishments](section/8.md)
+    - [s. 9 Regulations on school boarding accommodation](section/9.md)
+    - [s. 10 Regulations on student accommodation](section/10.md)
+    - [s. 11 Compliance and enforcement](section/11.md)
+    - [s. 12 Procedure for regulations](section/12.md)
+    - [s. 13 Regulations: public health declarations](section/13.md)
+    - [s. 14 Regulations: further provision about public health declarations](section/14.md)
+    - [s. 15 Review of regulations](section/15.md)
+    - [s. 16 Duty to seek views about regulations](section/16.md)
+    - [s. 17 Report on public schools’ readiness for remote learning](section/17.md)
+  - Chapter 2 School consultations
+    - [s. 18 School consultations: meetings and documents](section/18.md)
+- Part 3 Public service reform
+  - Bankruptcy
+    - [s. 19 Bankruptcy: service of documents](section/19.md)
+    - [s. 20 Bankruptcy: meaning of “qualified creditor” and “qualified creditors”](section/20.md)
+    - [s. 21 Bankruptcy: remote meetings of creditors](section/21.md)
+  - Diligence
+    - [s. 22 Bank arrestments: protected minimum balance](section/22.md)
+    - [s. 23 Period of moratorium on diligence](section/23.md)
+    - [s. 24 Power to amend period of moratorium on diligence](section/24.md)
+  - Registration of births
+    - [s. 25 Giving information of particulars of birth remotely](section/25.md)
+  - Registration of deaths
+    - [s. 26 Funeral director giving information of particulars of death](section/26.md)
+    - [s. 27 Giving information of particulars of death remotely](section/27.md)
+  - Further modification of the Registration of Births, Deaths and Marriages (Scotland) Act 1965
+    - [s. 28 Regulations under the 1965 Act](section/28.md)
+  - Civil Partnership Register
+    - [s. 29 Power to make a register electronic](section/29.md)
+  - Civic licensing
+    - [s. 30 Civic licensing: how hearings may be held](section/30.md)
+    - [s. 31 Civic licensing: how notices may be published](section/31.md)
+  - Alcohol licensing
+    - [s. 32 Alcohol licensing: how hearings may be held](section/32.md)
+  - Land registration
+    - [s. 33 Electronic submission of copies of deeds and writs to Registers of Scotland](section/33.md)
+    - [s. 34 Register of Inhibitions: electronic signature of documents](section/34.md)
+  - Legal aid and advice
+    - [s. 35 Claim for interim payment of fees and outlays](section/35.md)
+  - Freedom of information
+    - [s. 36 Freedom of information: giving notice electronically](section/36.md)
+  - Mental health
+    - [s. 37 Mental health: removal of need for witnessing of signature of nominated person](section/37.md)
+  - Care services
+    - [s. 38 Care services: giving of notices by SCSWIS](section/38.md)
+  - Requirements of writing
+    - [s. 39 Disapplication of physical presence requirements](section/39.md)
+  - Custody at police stations
+    - [s. 40 Custody officers’ functions](section/40.md)
+  - Parole Board for Scotland
+    - [s. 41 Chairperson’s functions](section/41.md)
+  - Children’s hearings
+    - [s. 42 Members of children’s hearings](section/42.md)
+- Part 4 Tenancies
+  - Removal of mandatory eviction grounds
+    - [s. 43 Private residential tenancies: discretionary eviction grounds](section/43.md)
+    - [s. 44 Assured tenancies: discretionary eviction grounds](section/44.md)
+    - [s. 45 Tenancies under the Rent (Scotland) Act 1984: discretionary eviction grounds](section/45.md)
+  - Pre-action protocol in respect of evictions relating to rent arrears
+    - [s. 46 Private residential tenancies: pre-action protocol](section/46.md)
+    - [s. 47 Assured tenancies: pre-action protocol](section/47.md)
+  - Saving and transitional provision
+    - [s. 48 Tenancies: saving provision](section/48.md)
+    - [s. 49 Tenancies: transitional provision](section/49.md)
+- Part 5 Temporary justice measures
+  - Temporary provisions
+    - [s. 50 The measures](section/50.md)
+    - [s. 51 Power to suspend and revive](section/51.md)
+    - [s. 52 Expiry](section/52.md)
+    - [s. 53 Power to bring expiry forward](section/53.md)
+    - [s. 54 Regulations under this Part](section/54.md)
+  - Supporting provisions
+    - [s. 55 Criminal procedure time limits: consequential modifications](section/55.md)
+    - [s. 56 Criminal procedure time limits: transitional and saving provision](section/56.md)
+    - [s. 57 Effect of early release from prison or young offenders institution by virtue of regulations](section/57.md)
+- Part 6 Final provisions
+  - [s. 58 Ancillary provision](section/58.md)
+  - [s. 59 Commencement](section/59.md)
+  - [s. 60 Short title](section/60.md)
+- Schedule Temporary justice measures
+  - Part 1 Courts and tribunals: conduct of business by electronic means etc.
+    - Chapter 1 Documents
+      - Electronic signing
+        - [Sch. paragraph 1](schedule/paragraph/1.md)
+      - Sending electronically and to a solicitor
+        - [Sch. paragraph 2](schedule/paragraph/2.md)
+      - Documents to which paragraphs 1 and 2 apply
+        - [Sch. paragraph 3](schedule/paragraph/3.md)
+      - Intimation etc. on Scottish Courts and Tribunals Service website
+        - [Sch. paragraph 4](schedule/paragraph/4.md)
+      - Interpretation of Chapter
+        - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - Chapter 2 Attending a court or tribunal
+      - Suspension of requirement for physical attendance in non-criminal proceedings, criminal trials and certain processes
+        - [Sch. paragraph 6](schedule/paragraph/6.md)
+      - Suspension of requirement for physical attendance in criminal proceedings, excluding trials and certain processes
+        - [Sch. paragraph 7](schedule/paragraph/7.md)
+      - Attending by electronic means
+        - [Sch. paragraph 8](schedule/paragraph/8.md)
+      - General directions under paragraph 8
+        - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - Chapter 3 Further provision
+      - Publication of directions and guidance
+        - [Sch. paragraph 10](schedule/paragraph/10.md)
+      - Transitional provision for directions under earlier enactment
+        - [Sch. paragraph 11](schedule/paragraph/11.md)
+      - Interpretation of Part
+        - [Sch. paragraph 12](schedule/paragraph/12.md)
+  - Part 2 Fiscal fines
+    - Increase of maximum penalty
+      - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - New scale
+      - [Sch. paragraph 14](schedule/paragraph/14.md)
+  - Part 3 Failure to appear before court following police liberation
+    - Power for court to reschedule due to coronavirus
+      - [Sch. paragraph 15](schedule/paragraph/15.md)
+  - Part 4 National jurisdiction for callings from custody etc.
+    - Ability to take calling in any sheriff court and then maintain proceedings
+      - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - Ability of any sheriff court to deal with proceedings following failure to appear
+      - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - Further provision about extra-territorial jurisdiction
+      - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - Interpretation of Part
+      - [Sch. paragraph 19](schedule/paragraph/19.md)
+  - Part 5 Criminal procedure time limits
+    - Chapter 1 Extension of periods
+      - Solemn proceedings: periods within which procedural hearings and trial must commence
+        - [Sch. paragraph 20](schedule/paragraph/20.md)
+      - Summary proceedings: period within which prosecution for statutory offence must commence
+        - [Sch. paragraph 21](schedule/paragraph/21.md)
+      - Pre-trial and pre-sentence remand period
+        - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - Chapter 2 Adjournment periods
+      - Power of court to adjourn cases
+        - [Sch. paragraph 23](schedule/paragraph/23.md)
+  - Part 6 Proceeds of crime
+    - Making of confiscation order: postponement due to coronavirus
+      - [Sch. paragraph 24](schedule/paragraph/24.md)
+  - Part 7 Prisons and young offenders institutions
+    - Power to release early
+      - [Sch. paragraph 25](schedule/paragraph/25.md)
+    - Parliamentary scrutiny of regulations under paragraph 25
+      - [Sch. paragraph 26](schedule/paragraph/26.md)
