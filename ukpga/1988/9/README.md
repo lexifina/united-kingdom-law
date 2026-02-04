@@ -1,0 +1,149 @@
+# Local Government Act 1988
+
+1988 c. 9. Enacted 1988-03-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/9
+
+Source: https://www.legislation.gov.uk/ukpga/1988/9/2026-02-04
+
+## Contents
+
+- Part I Competition
+  - Preliminary
+    - [s. 1 Defined authorities.](section/1.md)
+    - [s. 2 Defined activities.](section/2.md)
+    - [s. 3 Other definitions.](section/3.md)
+  - Works contracts: restrictions
+    - [s. 4 Works contracts: restrictions.](section/4.md)
+    - [s. 5 Works contracts: transitional.](section/5.md)
+  - Functional work: restrictions
+    - [s. 6 Functional work: restrictions.](section/6.md)
+    - [s. 7 The conditions.](section/7.md)
+    - [s. 8 The conditions: further provisions.](section/8.md)
+  - Accounts, reports and information
+    - [s. 9 Accounts to be kept.](section/9.md)
+    - [s. 10 Financial objectives to be met.](section/10.md)
+    - [s. 11 Report for financial year.](section/11.md)
+    - [s. 12 Information.](section/12.md)
+  - Sanctions
+    - [s. 13 Notice for purpose of getting information.](section/13.md)
+    - [s. 14 Power to give directions.](section/14.md)
+  - Miscellaneous
+    - [s. 15 Orders, regulations, specifications and directions.](section/15.md)
+    - [s. 16 Supplementary.](section/16.md)
+- Part II Public Supply or Works Contracts
+  - [s. 17 Local and other public authority contracts: exclusion of non-commercial considerations.](section/17.md)
+  - [s. 18 Race relations matters.](section/18.md)
+  - [s. 19 Provisions supplementary to or consequential on section 17.](section/19.md)
+  - [s. 20 Duty of public authorities to give reasons for certain decisions within section 17.](section/20.md)
+  - [s. 21 Transitional duty of public authorities as regards existing lists.](section/21.md)
+  - [s. 22 Exclusion of charges for inclusion in approved list.](section/22.md)
+  - [s. 23 Commencement.](section/23.md)
+- Part III Privately Let Housing Accommodation
+  - [s. 24 Power to provide financial assistance for privately let housing accommodation.](section/24.md)
+  - [s. 25 Consent required for provision of financial assistance etc.](section/25.md)
+  - [s. 26 Consents under section 25.](section/26.md)
+- Part IV Miscellaneous and General
+  - Miscellaneous
+    - [s. 27 Local authority publicity.](section/27.md)
+    - [s. 28 Prohibition on promoting homosexuality by teaching or by publishing material.](section/28.md)
+    - [s. 29 Local government administration.](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 Land held by public bodies.](section/31.md)
+    - [s. 32 Direct labour organisations.](section/32.md)
+    - [s. 33 Local authority companies.](section/33.md)
+    - [s. 34 Arrangements under Employment and Training Act 1973.](section/34.md)
+    - [s. 35 Amendment of Local Government (Scotland) Act 1973.](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 37 Dog registration scheme.](section/37.md)
+    - [s. 38 Abolition of duty on dog licences.](section/38.md)
+    - [s. 39 Control of stray dogs.](section/39.md)
+  - General
+    - [s. 40 Finance.](section/40.md)
+    - [s. 41 Repeals.](section/41.md)
+    - [s. 42 Citation and extent.](section/42.md)
+- SCHEDULE 1 Competition
+  - Collection of refuse
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Cleaning of buildings
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Other cleaning
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Catering: schools and welfare
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Other catering
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Maintenance of ground
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A Supervision of parking](schedule/1/paragraph/6A.md)
+  - Repair and maintenance of vehicles
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 7A Management of vehicles](schedule/1/paragraph/7A.md)
+  - Managing sports and leisure facilities
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9 Housing management](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10 Security work](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11 Legal services](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12 Construction and property services](schedule/1/paragraph/12.md)
+  - FINANCIAL SERVICES
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - INFORMATION TECHNOLOGY SERVICES
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - PERSONNEL SERVICES
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Public Supply or Works Contracts: The Public Authorities
+  - Public authorities
+  - Interpretation
+- SCHEDULE 3 Local Government Administration
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Local Government (Scotland) Act 1975 (c. 30)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 Sections to be Inserted in Part III of Local Government Finance Act 1982
+  - [Sch. 4 para. 25A Power of auditor to issue prohibition order.](schedule/4/paragraph/25A.md)
+  - [Sch. 4 para. 25B Effect of and appeals against prohibition orders.](schedule/4/paragraph/25B.md)
+  - [Sch. 4 para. 25C Supplementary provisions as to prohibition orders.](schedule/4/paragraph/25C.md)
+  - [Sch. 4 para. 25D Power of auditor to apply for judicial review.](schedule/4/paragraph/25D.md)
+- SCHEDULE 5 Land Held by Public Bodies
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Direct Labour Organisations
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Local Government (Scotland) Act 1975 (c. 30)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Repeals
+  - Part I Public Supply or Works Contracts
+  - Part II Local Government Administration
+  - Part III Direct Labour Organisations
+  - Part IV Dog Licences
