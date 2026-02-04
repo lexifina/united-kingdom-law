@@ -1,0 +1,440 @@
+# Immigration Act 2014
+
+2014 c. 22. Enacted 2014-05-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-04, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2014/22
+
+Source: https://www.legislation.gov.uk/ukpga/2014/22/2026-02-04
+
+## Contents
+
+- PART 1 Removal and other powers
+  - Removal
+    - [s. 1 Removal of persons unlawfully in the United Kingdom](section/1.md)
+    - [s. 2 Restriction on removal of children and their parents etc](section/2.md)
+    - [s. 3 Independent Family Returns Panel](section/3.md)
+  - Powers of immigration officers
+    - [s. 4 Enforcement powers](section/4.md)
+  - Detention and bail
+    - [s. 5 Restrictions on detention of unaccompanied children](section/5.md)
+    - [s. 6 Pre-departure accommodation for families](section/6.md)
+    - [s. 7 Immigration bail: repeat applications and effect of removal directions](section/7.md)
+  - Biometrics
+    - [s. 8 Provision of biometric information with immigration applications](section/8.md)
+    - [s. 9 Identifying persons liable to detention](section/9.md)
+    - [s. 10 Provision of biometric information with citizenship applications](section/10.md)
+    - [s. 11 Biometric immigration documents](section/11.md)
+    - [s. 12 Meaning of “biometric information”](section/12.md)
+    - [s. 13 Safeguards for children](section/13.md)
+    - [s. 14 Use and retention of biometric information](section/14.md)
+- PART 2 Appeals etc
+  - [s. 15 Right of appeal to First-tier Tribunal](section/15.md)
+  - [s. 16 Report by Chief Inspector on administrative review](section/16.md)
+  - [s. 17 Place from which appeal may be brought or continued](section/17.md)
+  - [s. 18 Review of certain deportation decisions by Special Immigration Appeals Commission](section/18.md)
+  - [s. 19 Article 8 of the ECHR: public interest considerations](section/19.md)
+- PART 3 Access to services etc
+  - CHAPTER 1 Residential tenancies
+    - Key interpretation
+      - [s. 20 Residential tenancy agreement](section/20.md)
+      - [s. 21 Persons disqualified by immigration status or with limited right to rent](section/21.md)
+    - Penalty notices
+      - [s. 22 Persons disqualified by immigration status not to be leased premises](section/22.md)
+      - [s. 23 Penalty notices: landlords](section/23.md)
+      - [s. 24 Excuses available to landlords](section/24.md)
+      - [s. 25 Penalty notices: agents](section/25.md)
+      - [s. 26 Excuses available to agents](section/26.md)
+      - [s. 27 Eligibility period](section/27.md)
+      - [s. 28 Penalty notices: general](section/28.md)
+    - Objections, appeals and enforcement
+      - [s. 29 Objection](section/29.md)
+      - [s. 30 Appeals](section/30.md)
+      - [s. 31 Enforcement](section/31.md)
+    - Codes of practice
+      - [s. 32 General matters](section/32.md)
+      - [s. 33 Discrimination](section/33.md)
+    - Offences
+      - [s. 33A Offences: landlords](section/33A.md)
+      - [s. 33B Offences: agents](section/33B.md)
+      - [s. 33C Offences: penalties etc](section/33C.md)
+    - Eviction
+      - [s. 33D Termination of agreement where all occupiers disqualified](section/33D.md)
+      - [s. 33E Other procedures for ending agreement](section/33E.md)
+    - General
+      - [s. 34 Orders](section/34.md)
+      - [s. 35 Transitional provision](section/35.md)
+      - [s. 36 Crown application](section/36.md)
+      - [s. 37 Interpretation](section/37.md)
+  - CHAPTER 2 Other services etc
+    - National Health Service
+      - [s. 38 Immigration health charge](section/38.md)
+      - [s. 39 Related provision: charges for health services](section/39.md)
+    - Bank accounts
+      - [s. 40 Prohibition on opening current accounts for disqualified persons](section/40.md)
+      - [s. 40A Requirement to carry out immigration checks in relation to current accounts](section/40A.md)
+      - [s. 40B Requirement to notify existence of current accounts for disqualified persons](section/40B.md)
+      - [s. 40C Action to be taken by Secretary of State following section 40B notification](section/40C.md)
+      - [s. 40D Freezing orders](section/40D.md)
+      - [s. 40E Freezing orders: appeals](section/40E.md)
+      - [s. 40F Freezing orders: code of practice](section/40F.md)
+      - [s. 40G Closure of accounts not subject to freezing order](section/40G.md)
+      - [s. 40H Sections 40A to 40G: interpretation](section/40H.md)
+      - [s. 41 Regulation by Financial Conduct Authority](section/41.md)
+      - [s. 42 “Bank” and “building society”](section/42.md)
+      - [s. 43 Power to amend](section/43.md)
+    - Work
+      - [s. 44 Appeals against penalty notices](section/44.md)
+      - [s. 45 Recovery of sums payable under penalty notices](section/45.md)
+    - Driving licences
+      - [s. 46 Grant of driving licences: residence requirement](section/46.md)
+      - [s. 47 Revocation of driving licences on grounds of immigration status](section/47.md)
+- PART 4 Marriage and civil partnership
+  - CHAPTER 1 Referral and investigation of proposed marriages and civil partnerships
+    - Investigation
+      - [s. 48 Decision whether to investigate](section/48.md)
+      - [s. 49 Exempt persons](section/49.md)
+      - [s. 50 Conduct of investigation](section/50.md)
+      - [s. 51 Investigations: supplementary](section/51.md)
+    - Referral
+      - [s. 52 Referral of proposed marriages and civil partnerships in England and Wales](section/52.md)
+    - Scotland and Northern Ireland
+      - [s. 53 Extension of scheme to Scotland and Northern Ireland](section/53.md)
+      - [s. 54 Supplementary provision](section/54.md)
+  - CHAPTER 2 Sham marriage and civil partnership
+    - [s. 55 Meaning of “sham marriage” and “sham civil partnership”](section/55.md)
+    - [s. 56 Duty to report suspicious marriages and civil partnerships](section/56.md)
+  - CHAPTER 3 Other provisions
+    - Persons not relevant nationals etc: marriage on superintendent registrar’s certificates
+      - [s. 57 Solemnization of marriage according to rites of Church of England](section/57.md)
+      - [s. 58 Requirement as to giving of notice of marriage or civil partnership](section/58.md)
+    - Information
+      - [s. 59 Information](section/59.md)
+    - Miscellaneous
+      - [s. 60 Regulations about evidence](section/60.md)
+      - [s. 61 Notices](section/61.md)
+      - [s. 62 Interpretation of this Part](section/62.md)
+- PART 5 Oversight
+  - Office of the Immigration Services Commissioner
+    - [s. 63 Immigration advisers and immigration service providers](section/63.md)
+  - Police Ombudsman for Northern Ireland
+    - [s. 64 Police Ombudsman for Northern Ireland](section/64.md)
+- PART 6 Miscellaneous
+  - Citizenship
+    - [s. 65 Persons unable to acquire citizenship: natural father not married to mother](section/65.md)
+    - [s. 66 Deprivation if conduct seriously prejudicial to vital interests of the UK](section/66.md)
+  - Embarkation checks
+    - [s. 67 Embarkation checks](section/67.md)
+  - Fees
+    - [s. 68 Fees](section/68.md)
+    - [s. 69 Fees orders and fees regulations: supplemental](section/69.md)
+    - [s. 70 Power to charge fees for attendance services in particular cases](section/70.md)
+    - [s. 70A Immigration skills charge](section/70A.md)
+  - Welfare of children
+    - [s. 71 Duty regarding the welfare of children](section/71.md)
+- PART 7 Final provisions
+  - [s. 72 Financial provision](section/72.md)
+  - [s. 73 Transitional and consequential provision](section/73.md)
+  - [s. 74 Orders and regulations](section/74.md)
+  - [s. 75 Commencement](section/75.md)
+  - [s. 76 Extent](section/76.md)
+  - [s. 77 Short title](section/77.md)
+- SCHEDULE 1 Enforcement powers
+  - Power to escort detained persons
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Power to search detained persons
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Entry and search of premises
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - General power to use reasonable force
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Meaning of biometric information
+  - Immigration Act 1971 (c. 77)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Immigration and Asylum Act 1999 (c. 33)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Nationality, Immigration and Asylum Act 2002 (c. 41)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Excluded residential tenancy agreements
+  - Social housing
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Care homes
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Hospitals and hospices
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Other accommodation relating to healthcare provision
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Hostels and refuges
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Accommodation from or involving local authorities
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Accommodation provided by virtue of immigration provisions
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Mobile homes
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Tied accommodation
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Student accommodation
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Long leases
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Interpretation
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Referral of proposed marriages and civil partnerships in England and Wales
+  - PART 1 Marriage
+    - Introduction
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Supply of additional information and evidence
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Referral to Secretary of State
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Notice period
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Marriage referred to Secretary of State: issue of certificates
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Certificates
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - One party resident in Scotland
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Proof of certain matters not necessary to validity of marriages
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Regulations etc
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Offences
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Relevant nationals
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - PART 2 Civil partnership
+    - Introduction
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Supply of additional information and evidence
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Notice period
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Referral to Secretary of State
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Civil partnership referred to Secretary of State: issue of civil partnership schedule
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Relevant nationals
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Regulations and orders
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Proof of certain matters not necessary to validity of civil partnership
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+- SCHEDULE 5 Sham marriage and civil partnership: administrative regulations
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Notices
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Evidence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Change of address
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Referral
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Applications for shortening of waiting period
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Information
+  - PART 1 Disclosure of information etc where proposed marriage or civil partnership referred to Secretary of State
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - PART 2 Disclosure of information etc for immigration purposes etc
+    - Disclosures by registration officials
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Disclosures by the Secretary of State
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - PART 3 Disclosure of information etc for prevention of crime etc
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - PART 4 General provisions
+    - Limitations on powers
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - No breach of confidentiality etc
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Retention, copying and disposal of documents
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Saving for existing powers
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - Meaning of “registration official”
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 Immigration advisers and immigration service providers
+  - Introductory
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Removal of Commissioner’s power of exemption from registration
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Waiver of fees for registration
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Cancellation of registration by Commissioner
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Suspension of registration
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Inspections
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Complaints and investigations
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Power of entry and inspection
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 8 Embarkation checks
+  - PART 1 Functions exercisable by designated persons
+    - Introduction
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Examinations by designated person
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Information and documents
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Embarkation cards
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Designations
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Directions to carriers and operators of ports
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - PART 2 Other provision
+    - Offences
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 9 Transitional and consequential provision
+  - PART 1 Provision relating to removal
+    - Immigration Act 1971 (c. 77)
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Special Immigration Appeals Commission Act 1997 (c. 68)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Nationality, Immigration and Asylum Act 2002 (c. 41)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c.19)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Immigration, Asylum and Nationality Act 2006 (c. 13)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Consequential repeals
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - PART 2 Provision relating to detention and bail
+    - Prison Act 1952 (c. 52)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Immigration Act 1971 (c. 77)
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Special Immigration Appeals Commission Act 1997 (c. 68)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Northern Ireland Act 1998 (c. 47)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Nationality, Immigration and Asylum Act 2002 (c. 41)
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Safeguarding Vulnerable Groups Act 2006 (c. 47)
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Corporate Manslaughter and Corporate Homicide Act 2007 (c. 19)
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - UK Borders Act 2007 (c. 30)
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - PART 3 Provision relating to biometrics
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Anti-terrorism, Crime and Security Act 2001 (c. 24)
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Nationality, Immigration and Asylum Act 2002 (c. 41)
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - PART 4 Provision relating to appeals
+    - Immigration Act 1971 (c. 77)
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - British Nationality Act 1981 (c. 61)
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - Special Immigration Appeals Commission Act 1997 (c. 68)
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - Immigration and Asylum Act 1999 (c. 33)
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+      - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+    - Nationality, Immigration and Asylum Act 2002 (c. 41)
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+      - [Sch. 9 para. 46](schedule/9/paragraph/46.md)
+      - [Sch. 9 para. 47](schedule/9/paragraph/47.md)
+      - [Sch. 9 para. 48](schedule/9/paragraph/48.md)
+      - [Sch. 9 para. 49](schedule/9/paragraph/49.md)
+      - [Sch. 9 para. 50](schedule/9/paragraph/50.md)
+      - [Sch. 9 para. 51](schedule/9/paragraph/51.md)
+      - [Sch. 9 para. 52](schedule/9/paragraph/52.md)
+      - [Sch. 9 para. 53](schedule/9/paragraph/53.md)
+      - [Sch. 9 para. 54](schedule/9/paragraph/54.md)
+      - [Sch. 9 para. 55](schedule/9/paragraph/55.md)
+    - Asylum and Immigration (Treatment of Claimants, etc) Act 2004 (c. 19)
+      - [Sch. 9 para. 56](schedule/9/paragraph/56.md)
+    - Immigration, Asylum and Nationality Act 2006 (c. 13)
+      - [Sch. 9 para. 57](schedule/9/paragraph/57.md)
+    - UK Borders Act 2007 (c. 30)
+      - [Sch. 9 para. 58](schedule/9/paragraph/58.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 9 para. 59](schedule/9/paragraph/59.md)
+    - Consequential repeals
+      - [Sch. 9 para. 60](schedule/9/paragraph/60.md)
+  - PART 5 Provision relating to employment
+    - Immigration, Asylum and Nationality Act 2006 (c. 13)
+      - [Sch. 9 para. 61](schedule/9/paragraph/61.md)
+  - PART 6 Provision relating to driving licences
+    - Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1))
+      - [Sch. 9 para. 62](schedule/9/paragraph/62.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 9 para. 63](schedule/9/paragraph/63.md)
+    - Road Safety Act 2006 (c. 49)
+      - [Sch. 9 para. 64](schedule/9/paragraph/64.md)
+    - Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))
+      - [Sch. 9 para. 65](schedule/9/paragraph/65.md)
+  - PART 7 Provision relating to marriage and civil partnership
+    - Transitional provision
+      - [Sch. 9 para. 66](schedule/9/paragraph/66.md)
+  - PART 8 Provision relating to immigration advisers and immigration service providers
+    - Transitional provision
+      - [Sch. 9 para. 67](schedule/9/paragraph/67.md)
+      - [Sch. 9 para. 68](schedule/9/paragraph/68.md)
+      - [Sch. 9 para. 69](schedule/9/paragraph/69.md)
+  - PART 9 Provision relating to persons unable to acquire nationality because natural father not married to mother
+    - British Nationality Act 1981
+      - [Sch. 9 para. 70](schedule/9/paragraph/70.md)
+    - British Nationality (General) Regulations 2003
+      - [Sch. 9 para. 71](schedule/9/paragraph/71.md)
+  - PART 10 Provision relating to embarkation checks
+    - Transitional provision
+      - [Sch. 9 para. 72](schedule/9/paragraph/72.md)
+  - PART 11 Provision relating to fees
+    - Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+      - [Sch. 9 para. 73](schedule/9/paragraph/73.md)
+    - Immigration, Asylum and Nationality Act 2006 (c. 13)
+      - [Sch. 9 para. 74](schedule/9/paragraph/74.md)
+    - UK Borders Act 2007 (c. 30)
+      - [Sch. 9 para. 75](schedule/9/paragraph/75.md)
+    - Consequential repeals
+      - [Sch. 9 para. 76](schedule/9/paragraph/76.md)
