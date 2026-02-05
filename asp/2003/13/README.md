@@ -1,0 +1,719 @@
+# Mental Health (Care and Treatment) (Scotland) Act 2003
+
+asp/2003/13. Enacted 2003-04-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/13
+
+Source: https://www.legislation.gov.uk/asp/2003/13/2026-02-05
+
+## Contents
+
+- Part 1 Introductory
+  - [s. 1 Principles for discharging certain functions](section/1.md)
+  - [s. 2 Welfare of the child](section/2.md)
+  - [s. 3 Equal opportunities](section/3.md)
+- Part 2 The Mental Welfare Commission for Scotland
+  - Continued existence of Commission
+    - [s. 4 The Mental Welfare Commission for Scotland](section/4.md)
+    - [s. 4ZA National Confidential Forum](section/4ZA.md)
+    - [s. 4ZB General functions of NCF](section/4ZB.md)
+    - [s. 4ZC Carrying out NCF functions](section/4ZC.md)
+    - [s. 4ZD Modifications in relation to NCF](section/4ZD.md)
+  - Commission Visitors
+    - [s. 4A Commission Visitors](section/4A.md)
+  - General duties
+    - [s. 5 Duty to monitor operation of Act and promote best practice](section/5.md)
+    - [s. 6 Reporting on operation of Act](section/6.md)
+  - Particular functions
+    - [s. 7 Duty to bring matters generally to attention of Scottish Ministers and others](section/7.md)
+    - [s. 8 Duty to bring specific matters to attention of Scottish Ministers and others etc.](section/8.md)
+    - [s. 8A Duty to raise service concerns with certain bodies](section/8A.md)
+    - [s. 9 Duty to give advice](section/9.md)
+    - [s. 9A Duty to give advice: further provision](section/9A.md)
+    - [s. 10 Publishing information, guidance etc.](section/10.md)
+    - [s. 11 Investigations](section/11.md)
+    - [s. 12 Investigations: further provision](section/12.md)
+    - [s. 13 Visits in relation to patients](section/13.md)
+    - [s. 14 Interviews](section/14.md)
+    - [s. 15 Medical examination](section/15.md)
+    - [s. 16 Inspection etc. of records](section/16.md)
+    - [s. 17 Duties of Scottish Ministers, local authorities and others as respects Commission](section/17.md)
+    - [s. 18 Annual Report](section/18.md)
+    - [s. 19 Statistical information](section/19.md)
+    - [s. 20 Protection from actions of defamation](section/20.md)
+- Part 3 The Mental Health Tribunal for Scotland
+  - [s. 21 The Mental Health Tribunal for Scotland](section/21.md)
+- Part 4 Health Board and local authority functions
+  - Chapter 1 Health Board duties
+    - Approved medical practitioners
+      - [s. 22 Approved medical practitioners](section/22.md)
+    - Services and accommodation: particular cases
+      - [s. 23 Provision of services and accommodation for certain patients under 18](section/23.md)
+      - [s. 24 Services and accommodation for mothers](section/24.md)
+  - Chapter 2 Local authority functions
+    - Provision of services
+      - [s. 25 Care and support services etc.](section/25.md)
+      - [s. 26 Services designed to promote well-being and social development](section/26.md)
+      - [s. 27 Assistance with travel](section/27.md)
+    - Charging for services
+      - [s. 28 Services under sections 25 to 27: charging](section/28.md)
+    - Relationship with general duties
+      - [s. 29 Relationship between duties under sections 25 to 27 and duties under Social Work (Scotland) Act 1968 and Children (Scotland) Act 1995](section/29.md)
+    - Co-operation and assistance
+      - [s. 30 Co-operation with Health Boards and others](section/30.md)
+      - [s. 31 Assistance from Health Boards and others](section/31.md)
+    - Appointment of mental health officers
+      - [s. 32 Appointment of mental health officers](section/32.md)
+    - Duty to inquire into individual cases
+      - [s. 33 Duty to inquire](section/33.md)
+      - [s. 34 Inquiries under section 33: co-operation](section/34.md)
+      - [s. 35 Inquiries under section 33: warrants](section/35.md)
+- Part 5 Emergency detention
+  - Emergency detention certificate
+    - [s. 36 Emergency detention in hospital](section/36.md)
+    - [s. 37 Notification by medical practitioner](section/37.md)
+  - Duties on hospital managers
+    - [s. 38 Duties on hospital managers: examination, notification etc.](section/38.md)
+  - Revocation of certificate
+    - [s. 39 Approved medical practitioner’s duty to revoke emergency detention certificate](section/39.md)
+    - [s. 40 Revocation of emergency detention certificate: notification](section/40.md)
+  - Suspension of authority to detain
+    - [s. 41 Suspension of authority to detain](section/41.md)
+    - [s. 42 Certificate under section 41: revocation](section/42.md)
+  - Effect of emergency detention certificate on certain orders
+    - [s. 43 Effect of emergency detention certificate on certain orders](section/43.md)
+- Part 6 Short-term detention
+  - Short-term detention certificate
+    - [s. 44 Short-term detention in hospital](section/44.md)
+    - [s. 45 Mental health officer’s duty to interview patient etc.](section/45.md)
+  - Duties on hospital managers
+    - [s. 46 Hospital managers’ duties: notification](section/46.md)
+  - Extension certificate
+    - [s. 47 Extension of detention pending application for compulsory treatment order](section/47.md)
+    - [s. 48 Extension certificate: notification](section/48.md)
+  - Revocation of certificates
+    - [s. 49 Responsible medical officer’s duty to review continuing need for detention](section/49.md)
+    - [s. 50 Patient’s right to apply for revocation of short-term detention certificate or extension certificate etc.](section/50.md)
+    - [s. 51 Commission’s power to revoke short-term detention certificate or extension certificate](section/51.md)
+    - [s. 52 Revocation of short-term detention certificate or extension certificate: notification](section/52.md)
+  - Suspension of detention
+    - [s. 53 Suspension of measure authorising detention](section/53.md)
+    - [s. 54 Certificate under section 53: revocation](section/54.md)
+  - Effect of short-term detention certificate on emergency detention certificate
+    - [s. 55 Effect of subsequent short-term detention certificate on emergency detention certificate](section/55.md)
+  - Effect of short-term detention certificate etc. on certain orders
+    - [s. 56 Effect of short-term detention certificate etc. on certain orders](section/56.md)
+- Part 7 Compulsory treatment orders
+  - Chapter 1 Application for, and making of, orders
+    - Pre-application procedures
+      - [s. 57 Mental health officer’s duty to apply for compulsory treatment order](section/57.md)
+      - [s. 58 Medical examination: requirements](section/58.md)
+      - [s. 59 Mental health officer’s duty to identify named person](section/59.md)
+      - [s. 60 Application for compulsory treatment order: notification](section/60.md)
+      - [s. 61 Mental health officer’s duty to prepare report](section/61.md)
+      - [s. 62 Mental health officer’s duty to prepare proposed care plan](section/62.md)
+    - Application for order
+      - [s. 63 Application for compulsory treatment order](section/63.md)
+    - Making of order etc.
+      - [s. 64 Powers of Tribunal on application under section 63: compulsory treatment order](section/64.md)
+      - [s. 65 Powers of Tribunal on application under section 63: interim compulsory treatment order](section/65.md)
+      - [s. 66 Measures that may be authorised](section/66.md)
+      - [s. 67 Order authorising detention: ancillary authorisation](section/67.md)
+    - Extension of short-term detention: special case
+      - [s. 68 Extension of short-term detention pending determination of application](section/68.md)
+    - Time limit for Tribunal’s determination: special case
+      - [s. 69 Time limit for determining application etc. where section 68 applies](section/69.md)
+    - Effect of making of orders on short-term detention
+      - [s. 70 Effect of subsequent order on short-term detention certificate](section/70.md)
+    - Application of Chapter where patient subject to hospital direction or transfer for treatment direction
+      - [s. 71 Application of Chapter where patient subject to hospital direction or transfer for treatment direction](section/71.md)
+      - [s. 71A Compulsory treatment in hospital unit](section/71A.md)
+  - Chapter 2 Interim compulsory treatment orders: review and revocation
+    - [s. 72 Interim compulsory treatment order: responsible medical officer’s duty to keep under review](section/72.md)
+    - [s. 73 Commission’s power to revoke interim compulsory treatment order](section/73.md)
+    - [s. 74 Revocation under section 72 or 73: notification](section/74.md)
+    - [s. 75 Effect of subsequent compulsory treatment order on interim compulsory treatment order](section/75.md)
+  - Chapter 3 Compulsory treatment orders: care plan
+    - [s. 76 Care plan: preparation, placing in medical records etc.](section/76.md)
+  - Chapter 4 Review of orders
+    - Mandatory reviews by responsible medical officer
+      - [s. 77 First mandatory review](section/77.md)
+      - [s. 78 Further mandatory reviews](section/78.md)
+    - Revocation of order by responsible medical officer or Commission
+      - [s. 79 Responsible medical officer’s duty to revoke order: mandatory reviews](section/79.md)
+      - [s. 80 Revocation of order: responsible medical officer’s duty to keep under review](section/80.md)
+      - [s. 81 Commission’s power to revoke order](section/81.md)
+      - [s. 82 Revocation of order: notification](section/82.md)
+    - Further steps to be taken where order not revoked
+      - [s. 83 Mandatory reviews: further steps to be taken where order not revoked](section/83.md)
+    - Extension of order by responsible medical officer
+      - [s. 84 Responsible medical officer’s duty where extension of order appears appropriate](section/84.md)
+      - [s. 85 Mental health officer’s duties: extension of order](section/85.md)
+      - [s. 86 Responsible medical officer’s duty to extend order](section/86.md)
+      - [s. 87 Determination extending order: notification etc.](section/87.md)
+      - [s. 87A Further information where order extended](section/87A.md)
+    - Extension and variation of order: application by responsible medical officer
+      - [s. 88 Responsible medical officer’s duty where extension and variation of order appear appropriate](section/88.md)
+      - [s. 89 Mental health officer’s duties: extension and variation of order](section/89.md)
+      - [s. 90 Responsible medical officer’s duty to apply for extension and variation of order](section/90.md)
+      - [s. 91 Application for extension and variation of order: notification](section/91.md)
+      - [s. 92 Application to Tribunal](section/92.md)
+    - Variation of order: application by responsible medical officer
+      - [s. 93 Responsible medical officer’s duties: variation of order](section/93.md)
+      - [s. 94 Application by responsible medical officer for variation of order: notification](section/94.md)
+      - [s. 95 Application to Tribunal by responsible medical officer](section/95.md)
+    - Recorded matters: reference to Tribunal by responsible medical officer
+      - [s. 96 Recorded matters: reference to Tribunal by responsible medical officer](section/96.md)
+      - [s. 97 Reference to Tribunal under section 96(3): notification](section/97.md)
+    - Reference to Tribunal by Commission
+      - [s. 98 Reference to Tribunal by Commission](section/98.md)
+    - Applications by patient etc.
+      - [s. 99 Application by patient etc. for revocation of determination extending order](section/99.md)
+      - [s. 100 Application by patient etc. for revocation or variation of order](section/100.md)
+    - Review by Tribunal of determination extending order
+      - [s. 101 Tribunal’s duty to review determination under section 86](section/101.md)
+    - Powers of Tribunal
+      - [s. 102 Powers of Tribunal on review under section 101](section/102.md)
+      - [s. 103 Powers of Tribunal on application under section 92, 95, 99 or 100](section/103.md)
+      - [s. 104 Powers of Tribunal on reference under section 96 or 98](section/104.md)
+      - [s. 105 Interim extension etc. of order: application under section 92](section/105.md)
+      - [s. 106 Interim variation of order: application, reference or review under Chapter](section/106.md)
+      - [s. 107 Limit on Tribunal’s power to make interim orders](section/107.md)
+      - [s. 108 Tribunal’s order varying compulsory treatment order](section/108.md)
+      - [s. 109 Ancillary powers of Tribunal](section/109.md)
+    - Effect of interim orders on calculation of time periods in Chapter
+      - [s. 110 Effect of interim orders on calculation of time periods in Chapter](section/110.md)
+    - Meaning of “modify”
+      - [s. 111 Meaning of “modify”](section/111.md)
+  - Chapter 5 Breach of orders
+    - Failure to attend for medical treatment
+      - [s. 112 Failure to attend for medical treatment](section/112.md)
+    - Non-compliance generally with order
+      - [s. 113 Non-compliance generally with order](section/113.md)
+      - [s. 114 Compulsory treatment order: detention pending review or application for variation](section/114.md)
+      - [s. 115 Interim compulsory treatment order: detention pending further procedure](section/115.md)
+      - [s. 116 Certificate under section 114(2) or 115(2): notification](section/116.md)
+    - Revocation of certificates
+      - [s. 117 Certificate under section 114(2): responsible medical officer’s duty to revoke](section/117.md)
+      - [s. 118 Certificate under section 115(2): responsible medical officer’s duty to revoke](section/118.md)
+      - [s. 119 Revocation of certificate granted under section 114(2) or 115(2): notification](section/119.md)
+      - [s. 120 Certificates under sections 114(2) and 115(2): patient’s right to apply to Tribunal](section/120.md)
+    - Effect of section 113(5) on order
+      - [s. 121 Effect of section 113(5) on order](section/121.md)
+    - Effect of certificate under section 114(2) on order
+      - [s. 122 Effect of certificate under section 114(2) on order](section/122.md)
+    - Effect of certificate under section 115(2) on order
+      - [s. 123 Effect of certificate under section 115(2) on order](section/123.md)
+  - Chapter 6 Transfers
+    - [s. 124 Transfer to other hospital](section/124.md)
+    - [s. 124A Transfer to other hospital unit](section/124A.md)
+    - [s. 125 Transfer to hospital other than state hospital: appeal to Tribunal](section/125.md)
+    - [s. 126 Transfer to state hospital: appeal to Tribunal](section/126.md)
+  - Chapter 7 Suspension
+    - [s. 127 Suspension of measure authorising detention](section/127.md)
+    - [s. 128 Suspension of other measures](section/128.md)
+    - [s. 129 Certificates under sections 127 and 128: revocation](section/129.md)
+- Part 8 Mentally disordered persons: criminal proceedings
+  - Chapter 1 Pre-sentence orders
+    - Assessment orders and treatment orders
+      - [s. 130 Mentally disordered persons subject to criminal proceedings: assessment and treatment](section/130.md)
+    - Interim compulsion orders
+      - [s. 131 Mentally disordered offenders: interim compulsion orders](section/131.md)
+    - Remand for inquiry into mental condition
+      - [s. 132 Remand for inquiry into mental condition: time-limit for appeals](section/132.md)
+  - Chapter 2 Disposals on conviction and acquittal
+    - Compulsion orders
+      - [s. 133 Mentally disordered offenders: compulsion orders](section/133.md)
+    - Urgent detention of acquitted persons
+      - [s. 134 Power of court to detain acquitted persons](section/134.md)
+    - Probation with a requirement of treatment
+      - [s. 135 Amendment of 1995 Act: probation for treatment of mental disorder](section/135.md)
+  - Chapter 3 Mentally disordered prisoners
+    - [s. 136 Transfer of prisoners for treatment for mental disorder](section/136.md)
+- Part 9 Compulsion orders
+  - Chapter 1 Duties following making of order
+    - [s. 137 Part 9 care plan](section/137.md)
+    - [s. 138 Mental health officer’s duty to identify named person](section/138.md)
+  - Chapter 2 Review of compulsion orders
+    - Mandatory reviews by responsible medical officer
+      - [s. 139 First review of compulsion order](section/139.md)
+      - [s. 140 Further reviews of compulsion order](section/140.md)
+    - Revocation of order by responsible medical officer or Commission
+      - [s. 141 Responsible medical officer’s duty to revoke compulsion order: mandatory reviews](section/141.md)
+      - [s. 142 Revocation of compulsion order: responsible medical officer’s duty to keep under review](section/142.md)
+      - [s. 143 Commission’s power to revoke compulsion order](section/143.md)
+      - [s. 144 Revocation of compulsion order: notification](section/144.md)
+    - Further steps to be taken where order not revoked
+      - [s. 145 Mandatory reviews: further steps to be taken where compulsion order not revoked](section/145.md)
+    - Extension of order following first review
+      - [s. 146 First review: responsible medical officer’s duty where extension proposed](section/146.md)
+      - [s. 147 Proposed extension on first review: mental health officer’s duties](section/147.md)
+      - [s. 148 First review: responsible medical officer’s duty to apply for extension of compulsion order](section/148.md)
+      - [s. 149 Application to Tribunal for extension of order following first review](section/149.md)
+    - Extension of order following further review
+      - [s. 150 Further review: responsible medical officer’s duty where extension proposed](section/150.md)
+      - [s. 151 Proposed extension of order on further review: mental health officer’s duties](section/151.md)
+      - [s. 152 Further review: responsible medical officer’s duty to extend compulsion order](section/152.md)
+      - [s. 153 Determination extending compulsion order: notification](section/153.md)
+      - [s. 153A Further information on extension of compulsion order](section/153A.md)
+    - Extension and variation of order
+      - [s. 154 Responsible medical officer’s duty where extension and variation proposed](section/154.md)
+      - [s. 155 Mental health officer’s duties: extension and variation of compulsion order](section/155.md)
+      - [s. 156 Responsible medical officer’s duty to apply for extension and variation of compulsion order](section/156.md)
+      - [s. 157 Application for extension and variation of compulsion order: notification](section/157.md)
+      - [s. 158 Application to Tribunal for extension and variation of compulsion order](section/158.md)
+    - Variation of order
+      - [s. 159 Responsible medical officer’s duties: variation of compulsion order](section/159.md)
+      - [s. 160 Application for variation of compulsion order: notification](section/160.md)
+      - [s. 161 Application to Tribunal by responsible medical officer](section/161.md)
+    - Reference to Tribunal by Commission
+      - [s. 162 Commission’s power to make reference to Tribunal](section/162.md)
+    - Applications to Tribunal by patient etc.
+      - [s. 163 Application to Tribunal by patient etc. for revocation of determination extending compulsion order](section/163.md)
+      - [s. 164 Application to Tribunal by patient etc. for revocation or variation of compulsion order](section/164.md)
+      - [s. 164A Application to end disclosure period for compulsion order](section/164A.md)
+    - Review by Tribunal of determination extending order
+      - [s. 165 Tribunal’s duty to review determination under section 152](section/165.md)
+    - Powers of Tribunal
+      - [s. 166 Powers of Tribunal on review under section 165](section/166.md)
+      - [s. 167 Powers of Tribunal on application under section 149, 158, 161, 163 or 164](section/167.md)
+      - [s. 167A Duties of Tribunal on application under section 164A](section/167A.md)
+      - [s. 167B Duty to notify outcome of applications under section 164A](section/167B.md)
+      - [s. 168 Interim extension etc. of order: application under section 149or 158](section/168.md)
+      - [s. 169 Interim variation of order following application, reference or review under Chapter](section/169.md)
+      - [s. 170 Limit on power of Tribunal to make interim order](section/170.md)
+      - [s. 171 Powers of Tribunal on reference under section 162](section/171.md)
+      - [s. 172 Tribunal’s order varying compulsion order](section/172.md)
+      - [s. 173 Applications to Tribunal: ancillary powers](section/173.md)
+    - Effect of interim orders: calculation of time periods in Chapter
+      - [s. 174 Effect of interim orders: calculation of time periods in Chapter](section/174.md)
+    - Meaning of “modify”
+      - [s. 175 Meaning of “modify”](section/175.md)
+  - Chapter 3 Application of Chapters 5 to 7 of Part 7
+    - Breach of order
+      - [s. 176 Medical treatment: failure to attend](section/176.md)
+      - [s. 177 Non-compliance generally with compulsion order](section/177.md)
+    - Transfers
+      - [s. 178 Transfers](section/178.md)
+    - Suspension of measures
+      - [s. 179 Suspension of measures](section/179.md)
+  - Chapter 4 Interpretation of Part
+    - [s. 180 Interpretation of Part](section/180.md)
+- Part 10 Compulsion orders and restriction orders
+  - Chapter 1 Preliminary
+    - [s. 181 Mental health officer’s duty to identify named person](section/181.md)
+  - Chapter 2 Review of orders
+    - Annual review of orders
+      - [s. 182 Review of compulsion order and restriction order](section/182.md)
+    - Consequences of annual review
+      - [s. 183 Responsible medical officer’s report and recommendation following review of compulsion order and restriction order](section/183.md)
+    - Responsible medical officer’s duty to keep orders under review
+      - [s. 184 Responsible medical officer’s duty to keep compulsion order and restriction order under review](section/184.md)
+    - Reference to Tribunal by Scottish Ministers
+      - [s. 185 Duty of Scottish Ministers on receiving report from responsible medical officer](section/185.md)
+      - [s. 186 Commission’s power to require Scottish Ministers to make reference to Tribunal](section/186.md)
+      - [s. 187 Notice under section 186(2): reference to Tribunal](section/187.md)
+    - Scottish Ministers’ duty to keep orders under review
+      - [s. 188 Duty of Scottish Ministers to keep compulsion order and restriction order under review](section/188.md)
+      - [s. 189 Reference to Tribunal by Scottish Ministers](section/189.md)
+      - [s. 190 Application by Scottish Ministers: notification](section/190.md)
+      - [s. 191 Application to Tribunal](section/191.md)
+    - Application by patient etc.
+      - [s. 192 Application to Tribunal by patient and named person](section/192.md)
+    - Proceedings before Tribunal
+      - [s. 193 Powers of Tribunal on reference under section 185(1), 187(2) or 189(2) or application under section 191 or 192(2)](section/193.md)
+      - [s. 194 Tribunal’s powers etc. when varying compulsion order](section/194.md)
+      - [s. 195 Deferral of conditional discharge](section/195.md)
+    - Effect of modification or revocation of orders
+      - [s. 196 General effect of orders under section 193](section/196.md)
+      - [s. 197 Effect of revocation of compulsion order](section/197.md)
+      - [s. 198 Effect of revocation of restriction order](section/198.md)
+    - Meaning of “modify”
+      - [s. 199 Meaning of “modify”](section/199.md)
+  - Chapter 3 Conditional discharge
+    - [s. 200 Variation of conditions imposed on conditional discharge](section/200.md)
+    - [s. 201 Appeal to Tribunal against variation of conditions imposed on conditional discharge](section/201.md)
+    - [s. 202 Recall of patients from conditional discharge](section/202.md)
+    - [s. 203 Effect of recall from conditional discharge](section/203.md)
+    - [s. 204 Appeal to Tribunal against recall from conditional discharge](section/204.md)
+- Part 11 Hospital directions and transfer for treatment directions
+  - Preliminary
+    - [s. 205 Mental health officer’s duty to identify named person](section/205.md)
+  - Review of directions
+    - [s. 206 Review of hospital direction and transfer for treatment direction](section/206.md)
+  - Consequences of review
+    - [s. 207 Responsible medical officer’s report following review of direction](section/207.md)
+  - Responsible medical officer’s duty to keep directions under review
+    - [s. 208 Responsible medical officer’s duty to keep directions under review](section/208.md)
+  - Reference to Tribunal by Scottish Ministers
+    - [s. 209 Commission’s power to require Scottish Ministers to make reference to Tribunal](section/209.md)
+    - [s. 210 Duty of Scottish Ministers on receiving report from responsible medical officer](section/210.md)
+    - [s. 211 Notice under section 209(2): reference to Tribunal](section/211.md)
+  - Scottish Ministers’ duty to keep directions under review
+    - [s. 212 Duty of Scottish Ministers to keep directions under review](section/212.md)
+    - [s. 213 Reference to Tribunal by Scottish Ministers](section/213.md)
+  - Application by patient etc.
+    - [s. 214 Application to Tribunal by patient and named person](section/214.md)
+  - Proceedings before Tribunal
+    - [s. 215 Powers of Tribunal on reference under section 210(3), 211(2) or 213(2) or on application under section 214(2)](section/215.md)
+  - Effect of revocation of direction
+    - [s. 216 Effect of revocation of direction](section/216.md)
+  - Termination of direction on release of patient
+    - [s. 217 Termination of hospital direction on release of patient](section/217.md)
+- Part 12 Parts 10 and 11: transfers
+  - [s. 218 Transfer of patients between hospitals](section/218.md)
+  - [s. 218A Transfer of patient from specified hospital unit](section/218A.md)
+  - [s. 219 Appeal to Tribunal against transfer under section 218 to hospital other than state hospital](section/219.md)
+  - [s. 220 Appeal to Tribunal against transfer under section 218 to state hospital](section/220.md)
+- Part 13 Parts 8, 10 and 11: suspension
+  - Assessment orders
+    - [s. 221 Assessment order: suspension of measure authorising detention](section/221.md)
+    - [s. 222 Certificate under section 221: revocation by responsible medical officer](section/222.md)
+    - [s. 223 Certificate under section 221: revocation by Scottish Ministers](section/223.md)
+  - Certain other orders and directions
+    - [s. 224 Patients subject to certain other orders and directions: suspension of measure authorising detention](section/224.md)
+    - [s. 225 Certificate under section 224: revocation by responsible medical officer](section/225.md)
+    - [s. 226 Certificate under section 224: revocation by Scottish Ministers](section/226.md)
+- Part 14 Assessment of needs
+  - [s. 227 Assessment of needs for community care services etc.](section/227.md)
+  - [s. 228 Request for assessment of needs: duty on local authorities and Health Boards](section/228.md)
+- Part 15 Preliminary duties on making of orders etc.
+  - Designation of mental health officer
+    - [s. 229 Designation of mental health officer responsible for patient’s case](section/229.md)
+  - Patient’s responsible medical officer
+    - [s. 230 Appointment of patient’s responsible medical officer](section/230.md)
+  - Social circumstances reports
+    - [s. 231 Social circumstances report: mental health officer’s duties](section/231.md)
+  - Meaning of “relevant event”
+    - [s. 232 Meaning of “relevant event”](section/232.md)
+- Part 16 Medical treatment
+  - Designated medical practitioners
+    - [s. 233 Designated medical practitioners](section/233.md)
+  - Safeguards for certain surgical operations etc.
+    - [s. 234 Certain surgical operations etc.](section/234.md)
+    - [s. 235 Treatment mentioned in section 234(2): patients capable of consenting](section/235.md)
+    - [s. 236 Treatment mentioned in section 234(2): patients incapable of consenting](section/236.md)
+  - Safeguards for other medical treatment
+    - [s. 237 Electro-convulsive therapy etc.](section/237.md)
+    - [s. 238 Treatment mentioned in sections 237(3) and 240(3): patients capable of consenting and not refusing consent](section/238.md)
+    - [s. 239 Treatment mentioned in section 237(3): patients incapable of consenting](section/239.md)
+    - [s. 240 Treatments given over period of time etc.](section/240.md)
+    - [s. 241 Treatment mentioned in section 240(3): patients refusing consent or incapable of consenting](section/241.md)
+    - [s. 242 Treatment not mentioned in section 234(2), 237(3) or 240(3)](section/242.md)
+  - Urgent medical treatment where patient detained in hospital
+    - [s. 243 Urgent medical treatment](section/243.md)
+  - Additional safeguards for certain informal patients
+    - [s. 244 Scottish Ministers’ power to make provision in relation to treatment for certain informal patients](section/244.md)
+  - Supplementary
+    - [s. 245 Certificates under sections 235, 236, 239 and 241](section/245.md)
+    - [s. 246 Certificates under section 238](section/246.md)
+    - [s. 247 Scope of consent or certificate under sections 235, 236, 238, 239 and 241](section/247.md)
+    - [s. 248 Sections 235, 236, 238, 239 and 241: review of treatment etc.](section/248.md)
+  - Interpretation of Part
+    - [s. 249 Interpretation of Part](section/249.md)
+- Part 17 Patient representation etc.
+  - Chapter 1 Named person
+    - Meaning of “named person”
+      - [s. 250 Nomination of named person](section/250.md)
+      - [s. 251 Named person where no person nominated or nominated person declines to act](section/251.md)
+      - [s. 252 Named person in relation to child](section/252.md)
+      - [s. 253 Declaration in relation to named person](section/253.md)
+      - [s. 254 Meaning of “nearest relative”](section/254.md)
+    - Mental health officer’s duties etc.
+      - [s. 255 Named person: mental health officer’s duties etc.](section/255.md)
+    - Applications to Tribunal by patient etc.
+      - [s. 256 Named person: application by patient etc.](section/256.md)
+    - Tribunal’s powers
+      - [s. 257 Named person: Tribunal’s powers](section/257.md)
+    - Ability to act if no named person
+      - [s. 257A Ability to act if no named person](section/257A.md)
+    - Interpretation of Chapter
+      - [s. 258 Interpretation of Chapter](section/258.md)
+  - Chapter 2 Advocacy etc.
+    - Advocacy
+      - [s. 259 Advocacy](section/259.md)
+      - [s. 259A Information gathering](section/259A.md)
+    - Information
+      - [s. 260 Provision of information to patient](section/260.md)
+      - [s. 261 Provision of assistance to patient with communication difficulties](section/261.md)
+      - [s. 261A Help with communication at medical examination etc.](section/261A.md)
+    - Access to medical practitioner
+      - [s. 262 Access to medical practitioner for purposes of medical examination](section/262.md)
+      - [s. 263 Inspection of records by medical practitioner](section/263.md)
+  - Chapter 3 Detention in conditions of excessive security
+    - State hospitals
+      - [s. 264 Detention in conditions of excessive security: state hospitals](section/264.md)
+      - [s. 265 Order under section 264: further provision](section/265.md)
+      - [s. 266 Order under section 265: further provision](section/266.md)
+      - [s. 267 Order under section 264 or 265: recall](section/267.md)
+    - Other hospitals
+      - [s. 268 Detention in conditions of excessive security: hospitals other than state hospitals](section/268.md)
+      - [s. 269 Order under section 268: further provision](section/269.md)
+      - [s. 270 Order under section 269: further provision](section/270.md)
+      - [s. 271 Order under section 268 or 269: recall](section/271.md)
+    - Process for orders: further provision
+      - [s. 271A Regulation-making powers](section/271A.md)
+    - Enforcement: civil proceedings
+      - [s. 272 Proceedings for specific performance of statutory duty](section/272.md)
+    - Interpretation of Chapter
+      - [s. 273 Interpretation of Chapter](section/273.md)
+- Part 18 Miscellaneous
+  - Code of practice
+    - [s. 274 Code of practice](section/274.md)
+  - Advance statements
+    - [s. 275 Advance statements: making and withdrawal](section/275.md)
+    - [s. 276 Advance statements: effect](section/276.md)
+    - [s. 276A Advance statements to be put with medical records](section/276A.md)
+    - [s. 276B Advance statements to be registered by the Commission](section/276B.md)
+    - [s. 276C Publicising support for making advance statements](section/276C.md)
+  - Education
+    - [s. 277 Education of persons who have mental disorder](section/277.md)
+  - Parental relations
+    - [s. 278 Duty to mitigate adverse effect of compulsory measures on parental relations](section/278.md)
+  - Research
+    - [s. 279 Information for research](section/279.md)
+  - State hospitals
+    - [s. 280 Restriction of Scottish Ministers’ power to delegate management of state hospitals](section/280.md)
+  - Communications, security etc.
+    - [s. 281 Correspondence of certain persons detained in hospital](section/281.md)
+    - [s. 282 Correspondence: supplementary](section/282.md)
+    - [s. 283 Review of decision to withhold postal packet](section/283.md)
+    - [s. 284 Certain persons detained in hospital: use of telephones](section/284.md)
+    - [s. 285 Directions as to implementation of regulations under section 284(1)](section/285.md)
+    - [s. 286 Safety and security in hospitals](section/286.md)
+  - Information
+    - [s. 287 Scottish Ministers’ power to require responsible medical officer to provide certain information](section/287.md)
+  - Payments for expenses
+    - [s. 288 Payments to persons in hospital to meet personal expenses](section/288.md)
+  - Cross-border transfer of patients
+    - [s. 289 Cross-border transfer: patients subject to requirement other than detention](section/289.md)
+    - [s. 290 Cross-border transfer: patients subject to detention requirement or otherwise in hospital](section/290.md)
+  - Informal patients
+    - [s. 291 Application to Tribunal in relation to unlawful detention](section/291.md)
+  - Conflicts of interest to be avoided
+    - [s. 291A Conflicts of interest to be avoided](section/291A.md)
+- Part 19 Entry, removal and detention powers
+  - Entry to premises
+    - [s. 292 Warrant to enter premises for purposes of taking patient](section/292.md)
+  - Removal to place of safety
+    - [s. 293 Removal order](section/293.md)
+    - [s. 294 Removal order: urgent application to justice of the peace](section/294.md)
+    - [s. 295 Recall or variation of removal order](section/295.md)
+    - [s. 295A Notification of decision under section 293 or 295](section/295A.md)
+    - [s. 296 No appeal against decision under section 293 or 295](section/296.md)
+    - [s. 297 Removal from public place](section/297.md)
+    - [s. 298 Removal under section 297: further provision](section/298.md)
+  - Detention pending medical examination
+    - [s. 299 Nurse’s power to detain pending medical examination](section/299.md)
+  - Meaning of “place of safety”
+    - [s. 300 Meaning of “place of safety”](section/300.md)
+- Part 20 Absconding
+  - Absconding
+    - [s. 301 Absconding etc. by patients subject to compulsory treatment order](section/301.md)
+    - [s. 302 Absconding etc. by other patients](section/302.md)
+    - [s. 303 Taking into custody and return of absconding patients](section/303.md)
+  - Effect of unauthorised absence
+    - [s. 304 Effect of unauthorised absence](section/304.md)
+    - [s. 305 Effect of long unauthorised absence ending more than 14 days before expiry of compulsory treatment order](section/305.md)
+    - [s. 306 Effect of unauthorised absence ending simultaneously with or within 14 days before expiry of compulsory treatment order](section/306.md)
+    - [s. 307 Effect of unauthorised absence ending after expiry of compulsory treatment order](section/307.md)
+    - [s. 308 Effect of unauthorised absence of patient subject to short-term detention certificate or certificate under section 114(2) or 115(2)](section/308.md)
+  - Patients from other jurisdictions
+    - [s. 309 Patients from other jurisdictions](section/309.md)
+    - [s. 309A Cross-border visits: leave of absence](section/309A.md)
+  - Absconding by certain other patients
+    - [s. 310 Regulations as to absconding by other patients](section/310.md)
+- Part 21 Offences
+  - [s. 311 Non-consensual sexual acts](section/311.md)
+  - [s. 312 Offences under section 311: extended sentences](section/312.md)
+  - [s. 313 Persons providing care services: sexual offences](section/313.md)
+  - [s. 314 Notification requirements for offenders under sections 311 and 313](section/314.md)
+  - [s. 315 Ill-treatment and wilful neglect of mentally disordered person](section/315.md)
+  - [s. 316 Inducing and assisting absconding etc.](section/316.md)
+  - [s. 317 Obstruction](section/317.md)
+  - [s. 318 False statements](section/318.md)
+  - [s. 319 Time limit for summary proceedings for offences under sections 311 and 313](section/319.md)
+- Part 22 Appeals
+  - [s. 320 Appeal to sheriff principal against certain decisions of the Tribunal](section/320.md)
+  - [s. 321 Appeal to Court of Session against decisions of sheriff principal](section/321.md)
+  - [s. 322 Appeal to Court of Session against certain decisions of the Tribunal](section/322.md)
+  - [s. 323 Suspension of decision of Tribunal pending determination of certain appeals](section/323.md)
+  - [s. 324 Appeals: general provisions](section/324.md)
+- Part 23 General
+  - [s. 325 Power to prescribe forms](section/325.md)
+  - [s. 326 Orders, regulations and rules](section/326.md)
+  - [s. 327 Directions](section/327.md)
+  - [s. 328 Meaning of “mental disorder”](section/328.md)
+  - [s. 329 Interpretation](section/329.md)
+  - [s. 330 Supplementary provisions etc.](section/330.md)
+  - [s. 331 Minor and consequential amendments, repeals and revocations](section/331.md)
+  - [s. 332 Transitional provisions etc.](section/332.md)
+  - [s. 333 Short title and commencement](section/333.md)
+- SCHEDULE 1 The Mental Welfare Commission for Scotland
+  - Part 1 Membership, proceedings etc.
+    - Status
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - General powers
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Membership
+      - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+      - [Sch. 1 para. 2B](schedule/1/paragraph/2B.md)
+    - Terms of appointment etc.
+      - [Sch. 1 para. 2C](schedule/1/paragraph/2C.md)
+    - Removal of members
+      - [Sch. 1 para. 2D](schedule/1/paragraph/2D.md)
+    - Disqualification from membership
+      - [Sch. 1 para. 2E](schedule/1/paragraph/2E.md)
+    - Membership
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Terms of office etc.
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Eligibility for reappointment
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Remuneration, pensions, allowances etc.
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Appointment etc. of chief executive and other staff
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Commission Visitors
+      - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+    - Commission Visitors: further provision
+      - [Sch. 1 para. 7B](schedule/1/paragraph/7B.md)
+    - Medical Visitors
+      - [Sch. 1 para. 7C](schedule/1/paragraph/7C.md)
+    - Committees
+      - [Sch. 1 para. 7D](schedule/1/paragraph/7D.md)
+    - Procedure and meetings
+      - [Sch. 1 para. 7E](schedule/1/paragraph/7E.md)
+    - Exercise of certain functions etc.
+      - [Sch. 1 para. 7F](schedule/1/paragraph/7F.md)
+    - Delegation of functions
+      - [Sch. 1 para. 7G](schedule/1/paragraph/7G.md)
+    - Mandatory delegation of functions to chief executive
+      - [Sch. 1 para. 7H](schedule/1/paragraph/7H.md)
+    - Location of office
+      - [Sch. 1 para. 7I](schedule/1/paragraph/7I.md)
+    - Regulations as to proceedings and delegation of functions
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Accounts
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part 2 Transitional provision
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Transitional provision: first chief executive
+      - [Sch. 1 para. 10A](schedule/1/paragraph/10A.md)
+    - Transitional provision: Commissioners
+      - [Sch. 1 para. 10B](schedule/1/paragraph/10B.md)
+- SCHEDULE 1A National Confidential Forum
+  - Part 1 Members of NCF etc.
+    - Membership
+      - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - Membership selection panel
+      - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - NCF staff
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - NCF powers and procedure
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - Application of schedule 1 to NCF
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Part 2 Delegation of functions
+    - Delegation by NCF
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Part 3 Eligibility to participate in forum
+    - Eligibility
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Part 4 Conduct of hearings etc.
+    - Testimony given to NCF
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Recording of testimony
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - Payment of expenses
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - Part 5 Reporting
+    - Reports by NCF
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+    - Annual NCF reports
+      - [Sch. 1A para. 12](schedule/1A/paragraph/12.md)
+  - Confidentiality
+    - Disclosure of information
+      - [Sch. 1A para. 13](schedule/1A/paragraph/13.md)
+  - Part 7 General
+    - [Sch. 1A para. 14](schedule/1A/paragraph/14.md)
+- SCHEDULE 2 The Mental Health Tribunal for Scotland
+  - Part 1 Members of the Tribunal etc.
+    - Members
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Shrieval panel
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - The President
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Terms of office etc.
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Remuneration and pensions etc.
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 2 Organisation and administration of the Tribunal
+    - Organisation and administration of the functions of the Tribunal
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Staff and accommodation
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Finance
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Part 3 Tribunal procedure
+    - Rules
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Practice directions
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Evidence
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Decisions of the Tribunal
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Withdrawn applications to be disregarded for certain purposes
+      - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
+  - Part 4 Reports, information etc.
+    - Annual report
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Disclosure of information
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Allowances etc. for attendance at hearings of the Tribunal and preparation of reports
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 Application of Chapter 1 of Part 7 to certain patients
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - The Social Work (Scotland) Act 1968 (c.49)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Local Government (Scotland) Act 1973 (c.65)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The National Health Service (Scotland) Act 1978 (c.29)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Disabled Persons (Services, Consultation and Representation) Act 1986 (c.33)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Prisoners and Criminal Proceedings (Scotland) Act 1993 (c.9)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Children (Scotland) Act 1995 (c.36)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - The Criminal Procedure (Scotland) Act 1995 (c.46)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - The Adults with Incapacity (Scotland) Act 2000 (asp 4)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Regulation of Care (Scotland) Act 2001 (asp 8)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - The Housing (Scotland) Act 2001 (asp 10)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - The Community Care and Health (Scotland) Act 2002 (asp 5)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - The Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
+- SCHEDULE 6 Transitory amendments of the Mental Health (Scotland) Act 1984
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
