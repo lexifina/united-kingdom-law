@@ -2,9 +2,9 @@
 
 2012 c. 7. Enacted 2012-03-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-07-07, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-05, one file per provision. Earlier versions, from 2012-03-27, are in the history before it: `git log -- ukpga/2012/7` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/7/2025-07-07
+Source: https://www.legislation.gov.uk/ukpga/2012/7/2026-02-05
 
 ## Contents
 
@@ -331,10 +331,12 @@ Source: https://www.legislation.gov.uk/ukpga/2012/7/2025-07-07
     - [s. 249 Consequential and transitional provision](section/249.md)
 - PART 9 Health and adult social care services: information
   - CHAPTER 1 Information standards
-    - [s. 250 Powers to publish information standards](section/250.md)
-    - [s. 251 Information standards: procedure etc](section/251.md)
-    - [s. 251ZA Information standards: compliance](section/251ZA.md)
+    - Powers to publish standards
+      - [s. 250 Powers to publish information standards](section/250.md)
+      - [s. 250A Standards relating to information technology](section/250A.md)
+      - [s. 251 ... Procedure etc](section/251.md)
     - Compliance with standards
+      - [s. 251ZA Monitoring compliance](section/251ZA.md)
       - [s. 251ZB Notice requesting compliance by relevant IT providers](section/251ZB.md)
       - [s. 251ZC Public censure of relevant IT providers](section/251ZC.md)
       - [s. 251ZD Exercise of functions of Secretary of State by other persons](section/251ZD.md)
