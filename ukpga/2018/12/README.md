@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-01-29, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-05, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-02-05
 
 ## Contents
 
@@ -37,12 +37,12 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
       - [s. 16 Power to make further exemptions etc by regulations](section/16.md)
     - Certification
       - [s. 17 Accreditation of certification providers](section/17.md)
-    - Transfers of personal data to third countries etc
+    - ...
       - [s. 17A Transfers based on adequacy regulations](section/17A.md)
       - [s. 17B Transfers based on adequacy regulations: review etc](section/17B.md)
       - [s. 17C Standard data protection clauses](section/17C.md)
       - [s. 18 Transfers of personal data to third countries etc: public interest](section/18.md)
-    - Specific processing situations
+    - ...
       - [s. 19 Processing for archiving, research and statistical purposes: safeguards](section/19.md)
     - Minor definition
       - [s. 20 Meaning of “court”](section/20.md)
@@ -137,11 +137,11 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
       - [s. 74A Transfers based on adequacy regulations](section/74A.md)
       - [s. 74AA Transfers approved by regulations](section/74AA.md)
       - [s. 74AB The data protection test](section/74AB.md)
-      - [s. 74B Transfers based on adequacy regulations: review etc](section/74B.md)
-      - [s. 75 Transfers on the basis of appropriate safeguards](section/75.md)
-      - [s. 76 Transfers on the basis of special circumstances](section/76.md)
-    - Transfers to particular recipients
-      - [s. 77 Transfers of personal data to persons other than relevant authorities](section/77.md)
+      - [s. 74B Transfers approved by regulations: monitoring](section/74B.md)
+      - [s. 75 Transfers subject to appropriate safeguards](section/75.md)
+      - [s. 76 Transfers based on special circumstances](section/76.md)
+    - Additional conditions
+      - [s. 77 Additional conditions for transfers in reliance on section 73(4)(b)](section/77.md)
     - Subsequent transfers
       - [s. 78 Subsequent transfers](section/78.md)
   - CHAPTER 6 Supplementary
@@ -264,9 +264,14 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
     - [s. 145 Information orders](section/145.md)
   - Assessment notices
     - [s. 146 Assessment notices](section/146.md)
+    - [s. 146A Assessment notices: approval of person to prepare report etc](section/146A.md)
     - [s. 147 Assessment notices: restrictions](section/147.md)
   - Information notices and assessment notices: destruction of documents etc
     - [s. 148 Destroying or falsifying information and documents etc](section/148.md)
+  - Interview notices
+    - [s. 148A Interview notices](section/148A.md)
+    - [s. 148B Interview notices: restrictions](section/148B.md)
+    - [s. 148C False statements made in response to interview notices](section/148C.md)
   - Enforcement notices
     - [s. 149 Enforcement notices](section/149.md)
     - [s. 150 Enforcement notices: supplementary](section/150.md)
@@ -388,7 +393,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
       - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
     - Racial and ethnic diversity at senior levels of organisations
       - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
-    - Preventing or detecting unlawful acts
+    - Preventing etc unlawful acts
       - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
     - Protecting the public against dishonesty etc
       - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
@@ -982,6 +987,8 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
     - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
   - Assessment notices
     - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Interview notices
+    - [Sch. 17 para. 3A](schedule/17/paragraph/3A.md)
   - Applications in respect of urgent notices
     - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
 - SCHEDULE 18 Relevant records
@@ -1763,13 +1770,13 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-01-29
     - [Sch. 21 para. 2 Merger of the directly applicable GDPR and the applied GDPR](schedule/21/paragraph/2.md)
     - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
   - Part 3 Transfers to third countries and international organisations
-    - [Sch. 21 para. 4 UK GDPR: adequacy decisions and adequacy regulations](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 4 UK GDPR: transfers approved by regulations](schedule/21/paragraph/4.md)
     - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
     - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
     - [Sch. 21 para. 7 UK GDPR: transfers subject to appropriate safeguards provided by standard data protection clauses](schedule/21/paragraph/7.md)
     - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
     - [Sch. 21 para. 9 UK GDPR: transfers subject to appropriate safeguards provided by binding corporate rules](schedule/21/paragraph/9.md)
-    - [Sch. 21 para. 10 Part 3 (law enforcement processing): adequacy decisions and adequacy regulations](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 10 Part 3 (law enforcement processing): transfers approved by regulations](schedule/21/paragraph/10.md)
     - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
     - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
   - Part 4 Repeal of provisions in Chapter 3 of Part 2
