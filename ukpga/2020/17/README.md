@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-01-22, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-06, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-01-22
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
 
 ## Contents
 
@@ -224,6 +224,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-01-22
       - [s. 152 Deprivation order](section/152.md)
       - [s. 153 Deprivation order: availability](section/153.md)
       - [s. 154 Vehicle to be treated as used for purpose of certain offences](section/154.md)
+      - [s. 154A Purported intimate images to be treated as used for purpose of certain offences](section/154A.md)
       - [s. 155 Exercise of power to make deprivation order](section/155.md)
       - [s. 156 Deprivation order: property to be taken into possession of police or Secretary of State](section/156.md)
       - [s. 157 Property to which a deprivation order applies: orders by magistrates’ court](section/157.md)
