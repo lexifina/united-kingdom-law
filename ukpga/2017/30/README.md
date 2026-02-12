@@ -2,9 +2,9 @@
 
 2017 c. 30. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-08-20, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-12, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/30/2025-08-20
+Source: https://www.legislation.gov.uk/ukpga/2017/30/2026-02-12
 
 ## Contents
 
@@ -435,7 +435,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2025-08-20
     - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
     - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
 - SCHEDULE 7 Specified persons for the purposes of the debt provisions
-  - PART1 UK AND ENGLISH BODIES
+  - PART 1 UK AND ENGLISH BODIES
     - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
     - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
     - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
@@ -464,7 +464,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2025-08-20
     - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
     - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
     - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
-  - PART3 SCOTTISH BODIES
+  - PART 3 SCOTTISH BODIES
     - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
     - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
     - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
@@ -543,7 +543,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/30/2025-08-20
     - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
     - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
     - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
-  - PART3 SCOTTISH BODIES
+  - PART 3 SCOTTISH BODIES
     - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
     - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
     - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
