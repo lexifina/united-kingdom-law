@@ -1,0 +1,329 @@
+# Wales Act 2017
+
+2017 c. 4. Enacted 2017-01-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-12, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2017/4
+
+Source: https://www.legislation.gov.uk/ukpga/2017/4/2026-02-12
+
+## Contents
+
+- Part 1 Constitutional arrangements
+  - Permanence of the National Assembly for Wales and Welsh Government
+    - [s. 1 Permanence of the National Assembly for Wales and Welsh Government](section/1.md)
+  - Convention about Parliament legislating on devolved matters
+    - [s. 2 Convention about Parliament legislating on devolved matters](section/2.md)
+  - Legislative competence
+    - [s. 3 Legislative competence](section/3.md)
+    - [s. 4 Devolved Welsh authorities](section/4.md)
+  - Elections
+    - [s. 5 Power to make provision about elections](section/5.md)
+    - [s. 6 Timing of elections](section/6.md)
+    - [s. 7 Electoral registration: the digital service](section/7.md)
+    - [s. 8 Elections of police and crime commissioners](section/8.md)
+  - Other provision about legislation by the Assembly
+    - [s. 9 Super-majority requirement for certain legislation](section/9.md)
+    - [s. 10 Super-majority requirement: amendments relating to procedure etc](section/10.md)
+    - [s. 11 Introduction of Bills: justice impact assessment](section/11.md)
+    - [s. 12 Submission of Bills for Royal Assent: role of Presiding Officer](section/12.md)
+  - Other provision about the Assembly
+    - [s. 13 Financial control, accounts and audit](section/13.md)
+    - [s. 14 Composition of Assembly committees](section/14.md)
+    - [s. 15 Assembly proceedings: participation by UK Ministers etc](section/15.md)
+    - [s. 16 Change of name of the Assembly etc: translation of references](section/16.md)
+  - Taxation and borrowing
+    - [s. 17 Welsh rates of income tax: removal of referendum requirement](section/17.md)
+    - [s. 18 Lending for capital expenditure](section/18.md)
+  - Executive competence etc
+    - [s. 19 Functions of Welsh Ministers](section/19.md)
+    - [s. 20 Implementation of EU law](section/20.md)
+    - [s. 21 Transfer of Ministerial functions](section/21.md)
+    - [s. 22 Consultation about cross-border bodies](section/22.md)
+- Part 2 Legislative and executive competence: further provision
+  - Onshore petroleum
+    - [s. 23 Onshore petroleum licensing](section/23.md)
+    - [s. 24 Onshore petroleum: existing licences](section/24.md)
+    - [s. 25 Onshore petroleum: right to use deep-level land in Wales](section/25.md)
+  - Road transport
+    - [s. 26 Roads: speed limits, pedestrian crossings and traffic signs](section/26.md)
+    - [s. 27 Bus service registration and traffic commissioners](section/27.md)
+    - [s. 28 Taxis: transfer of functions to Welsh Ministers](section/28.md)
+  - Harbours: transfer of executive functions
+    - [s. 29 Welsh harbours](section/29.md)
+    - [s. 30 Amendments of Harbours Act 1964](section/30.md)
+    - [s. 31 Application of general provisions to transfer of functions in sections 29 and 30](section/31.md)
+    - [s. 32 Reserved trust ports](section/32.md)
+    - [s. 33 Development consent](section/33.md)
+  - Harbours: consultation and consent requirements
+    - [s. 34 Exercise of functions in relation to cross-border harbours](section/34.md)
+    - [s. 35 Cross-border exercise of pilotage functions](section/35.md)
+    - [s. 36 Exercise of functions in relation to two or more harbours](section/36.md)
+    - [s. 37 Consequential amendments to consent requirements in Harbours Act 1964](section/37.md)
+    - [s. 38 Sections 34 to 37: supplementary](section/38.md)
+  - Planning for electricity generating stations
+    - [s. 39 Development consent for generating stations with 350MW capacity or less](section/39.md)
+    - [s. 40 Generating stations and public rights of navigation](section/40.md)
+    - [s. 41 Safety zones around renewable energy installations](section/41.md)
+    - [s. 42 Overhead lines associated with devolved Welsh generating stations](section/42.md)
+    - [s. 43 Alignment of associated development consent](section/43.md)
+  - Equal opportunities
+    - [s. 44 Equal opportunities: public sector equality duty](section/44.md)
+    - [s. 45 Public sector duty regarding socio-economic inequalities](section/45.md)
+  - Marine licensing and conservation
+    - [s. 46 Marine licensing in the Welsh offshore region](section/46.md)
+    - [s. 47 Marine conservation zones](section/47.md)
+  - Water etc
+    - [s. 48 Water and sewerage](section/48.md)
+    - [s. 49 Modification of water-related functions](section/49.md)
+    - [s. 50 Water protocol](section/50.md)
+    - [s. 51 Reciprocal cross-border duties in relation to water](section/51.md)
+    - [s. 52 Repeal of intervention powers relating to water](section/52.md)
+  - Miscellaneous
+    - [s. 53 Transfer of functions in relation to fishing vessels](section/53.md)
+    - [s. 54 Transfer of functions in relation to excepted energy buildings](section/54.md)
+    - [s. 55 Renewable energy incentive schemes](section/55.md)
+    - [s. 56 Financial assistance for inland waterway and sea freight](section/56.md)
+    - [s. 57 Maritime and Coastguard Agency](section/57.md)
+    - [s. 58 Gaming machines on licensed betting premises](section/58.md)
+- Part 3 Welsh tribunals
+  - [s. 59 The Welsh tribunals](section/59.md)
+  - [s. 60 President of Welsh Tribunals](section/60.md)
+  - [s. 61 Directions as to practice and procedure](section/61.md)
+  - [s. 62 Cross-deployment of members of the Welsh tribunals](section/62.md)
+  - [s. 63 Cross-deployment of tribunal members and judges](section/63.md)
+  - [s. 64 Power to amend section 63](section/64.md)
+- Part 4 Miscellaneous
+  - [s. 65 Provision of information to the Office for Budget Responsibility](section/65.md)
+  - [s. 66 Gas and Electricity Markets Authority](section/66.md)
+  - [s. 67 Licensing of coal-mining operations: approval by Welsh Ministers](section/67.md)
+  - [s. 68 Office of Communications](section/68.md)
+- Part 5 General
+  - [s. 69 Consequential provision](section/69.md)
+  - [s. 70 Transitional provision and savings](section/70.md)
+  - [s. 71 Commencement](section/71.md)
+  - [s. 72 Short title](section/72.md)
+- SCHEDULE 1 New Schedule 7A to the Government of Wales Act 2006
+- SCHEDULE 2 New Schedule 7B to the Government of Wales Act 2006
+- SCHEDULE 3 New Schedule 9A to the Government of Wales Act 2006
+- SCHEDULE 4 New Schedule 3A to the Government of Wales Act 2006
+- SCHEDULE 5 President of Welsh Tribunals
+  - Part 1 Appointment
+    - Duty to fill vacancies
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - The two routes to appointment: agreement under this paragraph or selection under Part 2
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Selection by the Judicial Appointments Commission
+    - Eligibility for selection
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - The selection process
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Merit and good character
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Encouragement of diversity
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Regulations about selection
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Withdrawal and modification of requests
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Effect of acceptance of selection
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Part 3 Terms of office
+    - Tenure, removal, resignation etc
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Remuneration, allowances and expenses
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Oaths
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Minor and consequential amendments
+  - Part 1 Amendments of the Government of Wales Act 2006
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+  - Part 2 Amendments relating to onshore petroleum
+    - Petroleum Act 1998 (c. 17)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Oil Taxation Act 1975 (c. 22)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - Finance Act 1993 (c. 34)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Capital Allowances Act 2001 (c. 2)
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Energy Act 2004 (c. 20)
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Corporation Tax Act 2010 (c. 4)
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Infrastructure Act 2015 (c. 7)
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+  - Part 3 Other amendments
+    - National Audit Act 1983 (c. 44)
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+      - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+      - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+      - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - Transport Act 1985 (c. 67)
+      - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - Electricity Act 1989 (c. 29)
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+      - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+      - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+      - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+      - [Sch. 6 para. 51](schedule/6/paragraph/51.md)
+    - Human Fertilisation and Embryology Act 1990 (c. 37)
+      - [Sch. 6 para. 52](schedule/6/paragraph/52.md)
+    - Judicial Pensions and Retirement Act 1993 (c. 8)
+      - [Sch. 6 para. 53](schedule/6/paragraph/53.md)
+    - Government of Wales Act 1998 (c. 38)
+      - [Sch. 6 para. 54](schedule/6/paragraph/54.md)
+      - [Sch. 6 para. 55](schedule/6/paragraph/55.md)
+    - Care Standards Act 2000 (c. 14)
+      - [Sch. 6 para. 56](schedule/6/paragraph/56.md)
+    - Local Government Act 2000 (c. 22)
+      - [Sch. 6 para. 57](schedule/6/paragraph/57.md)
+      - [Sch. 6 para. 58](schedule/6/paragraph/58.md)
+    - Female Genital Mutilation Act 2003 (c. 31)
+      - [Sch. 6 para. 59](schedule/6/paragraph/59.md)
+    - Energy Act 2004 (c. 20)
+      - [Sch. 6 para. 60](schedule/6/paragraph/60.md)
+      - [Sch. 6 para. 61](schedule/6/paragraph/61.md)
+    - Constitutional Reform Act 2005 (c. 4)
+      - [Sch. 6 para. 62](schedule/6/paragraph/62.md)
+    - Public Services Ombudsman (Wales) Act 2005 (c. 10)
+      - [Sch. 6 para. 63](schedule/6/paragraph/63.md)
+    - Commissioners for Revenue and Customs Act 2005 (c. 11)
+      - [Sch. 6 para. 64](schedule/6/paragraph/64.md)
+    - Commissioner for Older People (Wales) Act 2006 (c. 30)
+      - [Sch. 6 para. 65](schedule/6/paragraph/65.md)
+    - Legislative and Regulatory Reform Act 2006 (c. 51)
+      - [Sch. 6 para. 66](schedule/6/paragraph/66.md)
+      - [Sch. 6 para. 67](schedule/6/paragraph/67.md)
+    - Tribunals, Courts and Enforcement Act 2007 (c. 15)
+      - [Sch. 6 para. 68](schedule/6/paragraph/68.md)
+    - Statistics and Registration Service Act 2007 (c. 18)
+      - [Sch. 6 para. 69](schedule/6/paragraph/69.md)
+    - Consumers, Estate Agents and Redress Act 2007 (c. 17)
+      - [Sch. 6 para. 70](schedule/6/paragraph/70.md)
+    - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+      - [Sch. 6 para. 71](schedule/6/paragraph/71.md)
+    - Human Fertilisation and Embryology Act 2008 (c. 22)
+      - [Sch. 6 para. 72](schedule/6/paragraph/72.md)
+    - Climate Change Act 2008 (c. 27)
+      - [Sch. 6 para. 73](schedule/6/paragraph/73.md)
+    - Planning Act 2008 (c. 29)
+      - [Sch. 6 para. 74](schedule/6/paragraph/74.md)
+      - [Sch. 6 para. 75](schedule/6/paragraph/75.md)
+      - [Sch. 6 para. 76](schedule/6/paragraph/76.md)
+    - Marine and Coastal Access Act 2009 (c. 23)
+      - [Sch. 6 para. 77](schedule/6/paragraph/77.md)
+      - [Sch. 6 para. 78](schedule/6/paragraph/78.md)
+      - [Sch. 6 para. 79](schedule/6/paragraph/79.md)
+      - [Sch. 6 para. 80](schedule/6/paragraph/80.md)
+      - [Sch. 6 para. 81](schedule/6/paragraph/81.md)
+    - Welfare Reform Act 2009 (c. 24)
+      - [Sch. 6 para. 82](schedule/6/paragraph/82.md)
+    - Equality Act 2010 (c. 15)
+      - [Sch. 6 para. 83](schedule/6/paragraph/83.md)
+      - [Sch. 6 para. 84](schedule/6/paragraph/84.md)
+    - Flood and Water Management Act 2010 (c. 29)
+      - [Sch. 6 para. 85](schedule/6/paragraph/85.md)
+    - Budget Responsibility and National Audit Act 2011 (c. 4)
+      - [Sch. 6 para. 86](schedule/6/paragraph/86.md)
+      - [Sch. 6 para. 87](schedule/6/paragraph/87.md)
+    - Police Reform and Social Responsibility Act 2011 (c. 13)
+      - [Sch. 6 para. 88](schedule/6/paragraph/88.md)
+    - Localism Act 2011 (c. 20)
+      - [Sch. 6 para. 89](schedule/6/paragraph/89.md)
+      - [Sch. 6 para. 90](schedule/6/paragraph/90.md)
+      - [Sch. 6 para. 91](schedule/6/paragraph/91.md)
+    - Welsh Language (Wales) Measure 2011 (nawm 1)
+      - [Sch. 6 para. 92](schedule/6/paragraph/92.md)
+    - Protection of Freedoms Act 2012 (c. 9)
+      - [Sch. 6 para. 93](schedule/6/paragraph/93.md)
+    - The Special Educational Needs Tribunal for Wales Regulations 2012 (S.I. 2012/ 322 (W.53))
+      - [Sch. 6 para. 94](schedule/6/paragraph/94.md)
+    - Energy Act 2013 (c. 32)
+      - [Sch. 6 para. 95](schedule/6/paragraph/95.md)
+    - Public Audit (Wales) Act 2013 (anaw 3)
+      - [Sch. 6 para. 96](schedule/6/paragraph/96.md)
+    - Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)
+      - [Sch. 6 para. 97](schedule/6/paragraph/97.md)
+    - Water Act 2014 (c. 21)
+      - [Sch. 6 para. 98](schedule/6/paragraph/98.md)
+    - Wales Act 2014 (c. 29)
+      - [Sch. 6 para. 99](schedule/6/paragraph/99.md)
+      - [Sch. 6 para. 100](schedule/6/paragraph/100.md)
+      - [Sch. 6 para. 101](schedule/6/paragraph/101.md)
+    - Counter-Terrorism and Security Act 2015 (c. 6)
+      - [Sch. 6 para. 102](schedule/6/paragraph/102.md)
+      - [Sch. 6 para. 103](schedule/6/paragraph/103.md)
+      - [Sch. 6 para. 104](schedule/6/paragraph/104.md)
+    - Deregulation Act 2015 (c. 20)
+      - [Sch. 6 para. 105](schedule/6/paragraph/105.md)
+    - Small Business, Enterprise and Employment Act 2015 (c. 26)
+      - [Sch. 6 para. 106](schedule/6/paragraph/106.md)
+      - [Sch. 6 para. 107](schedule/6/paragraph/107.md)
+      - [Sch. 6 para. 108](schedule/6/paragraph/108.md)
+      - [Sch. 6 para. 109](schedule/6/paragraph/109.md)
+      - [Sch. 6 para. 110](schedule/6/paragraph/110.md)
+    - Housing and Planning Act 2016 (c. 22)
+      - [Sch. 6 para. 111](schedule/6/paragraph/111.md)
+      - [Sch. 6 para. 112](schedule/6/paragraph/112.md)
+    - Immigration Act 2016 (c. 19)
+      - [Sch. 6 para. 113](schedule/6/paragraph/113.md)
+- SCHEDULE 7 Transitional provisions
+  - Main transitional provisions about the Assembly’s legislative competence
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Power to alter name of the Assembly etc; financial control, accounts and audit
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Repeals of sections 105 and 106 of the 2006 Act
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Transfer of functions
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Water Act 2014
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Development consent for generating stations
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Marine licensing in the Welsh offshore region
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Safety zones around renewable energy installations
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
