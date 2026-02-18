@@ -1,0 +1,353 @@
+# Space Industry Act 2018
+
+2018 c. 5. Enacted 2018-03-15.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 13 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/5
+
+Source: https://www.legislation.gov.uk/ukpga/2018/5/2026-02-18
+
+## Contents
+
+- Regulation of spaceflight etc
+  - [s. 1 Introduction](section/1.md)
+  - [s. 2 Duties and supplementary powers of the regulator](section/2.md)
+  - [s. 3 Prohibition of unlicensed spaceflight etc](section/3.md)
+  - [s. 4 Exemptions from licence requirement](section/4.md)
+- Range control
+  - [s. 5 Range](section/5.md)
+  - [s. 6 Range control services](section/6.md)
+  - [s. 7 Provision of range control services](section/7.md)
+- Licences
+  - [s. 8 Grant of licences: general](section/8.md)
+  - [s. 9 Grant of operator licences: safety](section/9.md)
+  - [s. 10 Grant of spaceport licence](section/10.md)
+  - [s. 11 Grant of licences: assessments of environmental effects](section/11.md)
+  - [s. 12 Terms of licences](section/12.md)
+  - [s. 13 Conditions of licences](section/13.md)
+  - [s. 14 Licences granted for specified periods](section/14.md)
+  - [s. 15 Transfer, variation, suspension or termination of licence](section/15.md)
+- Exercise of regulatory functions by bodies other than Secretary of State
+  - [s. 16 Power of Secretary of State to appoint person to exercise functions](section/16.md)
+- Individuals taking part in spaceflight activities etc
+  - [s. 17 Informed consent](section/17.md)
+  - [s. 18 Training, qualifications and medical fitness](section/18.md)
+- Safety
+  - [s. 19 Safety regulations](section/19.md)
+  - [s. 20 Investigation of accidents](section/20.md)
+  - [s. 21 Assistance etc with performance of regulator’s safety functions](section/21.md)
+- Security
+  - [s. 22 Offences against the safety of spacecraft etc](section/22.md)
+  - [s. 23 Security regulations](section/23.md)
+  - [s. 24 Spaceport byelaws](section/24.md)
+  - [s. 25 Provision of advice and assistance on security matters](section/25.md)
+- Enforcement etc
+  - [s. 26 Monitoring and enforcement by regulator](section/26.md)
+  - [s. 27 Power to give directions: breach of licence condition etc](section/27.md)
+  - [s. 28 Power to give directions: safety, security etc](section/28.md)
+  - [s. 29 Power to give directions: international obligations of the UK](section/29.md)
+  - [s. 30 Consultation about directions](section/30.md)
+  - [s. 31 Further provision about directions](section/31.md)
+  - [s. 32 Warrants authorising entry or direct action](section/32.md)
+  - [s. 33 Power to authorise entry etc in emergencies](section/33.md)
+- Liabilities, indemnities and insurance
+  - [s. 34 Liability of operator for injury or damage etc](section/34.md)
+  - [s. 35 Power or duty of Secretary of State to indemnify](section/35.md)
+  - [s. 36 Obligation to indemnify government etc against claims](section/36.md)
+  - [s. 37 Regulator etc not liable in respect of spaceflight-related actions](section/37.md)
+  - [s. 38 Insurance](section/38.md)
+- Powers in relation to land
+  - [s. 39 Powers to obtain rights over land](section/39.md)
+  - [s. 40 Orders under section 39: offences](section/40.md)
+  - [s. 41 Power to restrict use of land temporarily](section/41.md)
+  - [s. 42 Power of entry for purposes of survey](section/42.md)
+  - [s. 43 Challenges to and commencement of orders](section/43.md)
+  - [s. 44 Powers in relation to land: compensation](section/44.md)
+  - [s. 45 Registration of orders](section/45.md)
+- Powers in relation to land: supplementary
+  - [s. 46 Special provisions relating to statutory undertakers](section/46.md)
+  - [s. 47 Compensation in respect of planning decisions relating to spaceport safety etc: England and Wales and Scotland](section/47.md)
+  - [s. 48 Compensation in respect of planning decisions relating to spaceport safety etc: Northern Ireland](section/48.md)
+  - [s. 49 Amendment and revocation of orders](section/49.md)
+  - [s. 50 Powers in relation to land: notices](section/50.md)
+- Offences and civil sanctions
+  - [s. 51 Application of criminal law to spacecraft etc](section/51.md)
+  - [s. 52 Offences on board spacecraft: supplementary](section/52.md)
+  - [s. 53 Penalties for offences under this Act](section/53.md)
+  - [s. 54 Offences under regulations](section/54.md)
+  - [s. 55 Offences under regulations: extended time limit in case of accident investigation etc](section/55.md)
+  - [s. 56 Defences](section/56.md)
+  - [s. 57 Offences by bodies corporate](section/57.md)
+  - [s. 58 Offences by partnerships](section/58.md)
+  - [s. 59 Civil sanctions](section/59.md)
+- Appeals
+  - [s. 60 Appeals](section/60.md)
+- Miscellaneous
+  - [s. 61 Register of launches](section/61.md)
+  - [s. 62 Charging schemes](section/62.md)
+  - [s. 63 Provision of advice and assistance by or to an appointed person](section/63.md)
+  - [s. 64 Co-operation between Secretary of State and other public authorities](section/64.md)
+  - [s. 65 Agreements with other countries: compliance with requirements etc](section/65.md)
+  - [s. 66 Use of records and documentary evidence](section/66.md)
+- General
+  - [s. 67 Minor and consequential amendments](section/67.md)
+  - [s. 68 Regulations: general](section/68.md)
+  - [s. 69 Interpretation](section/69.md)
+  - [s. 70 Commencement](section/70.md)
+  - [s. 71 Extent](section/71.md)
+  - [s. 72 Short title](section/72.md)
+- SCHEDULE 1 Particular conditions that may be included in licences
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+  - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+  - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+  - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+  - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+  - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+  - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+- SCHEDULE 2 Training regulations: further provision
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Safety regulations: further provision
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Offences against the safety of spacecraft etc
+  - Hijacking of spacecraft
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Destroying, damaging or endangering safety of spacecraft
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Other acts endangering or likely to endanger safety of spacecraft
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Endangering safety at spaceports
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Offences in relation to certain dangerous articles
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Powers exercisable on suspicion of intended offence under this Schedule
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Prosecution of offences
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Interpretation
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+- SCHEDULE 5 Security regulations: further provision
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Orders under sections 39 and 41
+  - Part 1 Orders under section 39 and land orders
+    - Procedure where it is proposed to make, or apply for, an order under section 39 or a land order
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Objections to a proposed order
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Procedure after making an order
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Part 2 Orders under section 41 that are not land orders
+    - Procedure where it is proposed to make an order under section 41 that is not a land order
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - Procedure after making an order
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Powers in relation to land: quashing of orders
+  - Application to quash an order
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Time limit
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Determination of application
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - “The appropriate court”
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Powers in relation to land: compensation
+  - Part 1 Compensation in connection with diminution in value of interest in land
+    - Compensation for diminution in the value of interest in land
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Assessing compensation
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Interest subject to mortgage or heritable security
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Part 2 Compensation in connection with damage to land or interference with use etc of land
+    - Damage to land
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Disturbance in enjoyment of right in or over land etc
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part 3 General
+    - Disputes
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Statutory undertakers
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Interpretation
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 9 Powers in relation to land: special provisions relating to statutory undertakers
+  - Part 1 Compensation
+    - Application of this Part
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Assessment of compensation
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Amount of compensation
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Part 2 Adjustment of the functions of statutory undertakers
+    - Modification of powers and duties of statutory undertakers
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - Relief of statutory undertakers from obligations
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Procedure before making an order under paragraph 4 or 5
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Objections to order under paragraph 4
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Special parliamentary procedure
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Power of entry for purposes of survey
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Compensation for damage to land
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Appeals in connection with spaceflight activities
+  - Part 1 Appeal panels
+    - Appeal panels
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Part 2 Rights of appeal
+    - Appeals: refusal to grant licence
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Appeals: decisions in connection with licences
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Appeals: other decisions
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Part 3 Determination of appeal
+    - Permission to appeal
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Circumstances in which panel may not accept an application
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Determination of application for permission to appeal
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - When appeals may be allowed
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Determination of appeal
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Determination of appeal: further provision
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Determination of appeal: time limit
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Part 4 Procedure
+    - Representations in relation to an application for permission to appeal
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Intervention in an appeal
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Determination of application for permission to intervene
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - Procedure regulations
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Part 5 Fees
+    - Fees
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+- SCHEDULE 11 Charging schemes
+  - Definitions
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Charging by the CAA
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Charging by persons other than the CAA
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Content of charging schemes
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Consultation
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Effect of licence conditions
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Duty to charge
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12 Minor and consequential amendments
+  - Land Registration Act (Northern Ireland) 1970 (c. 18)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Civil Aviation Act 1982 (c. 16)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Aviation Security Act 1982 (c. 36)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Criminal Justice Act 1982 (c. 48)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Police and Criminal Evidence Act 1984 (c. 60)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Airports Act 1986 (c. 31)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Outer Space Act 1986 (c. 38)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+  - Aviation and Maritime Security Act 1990 (c. 31)
+    - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+  - Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
+    - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+  - Sexual Offences 2003 (c. 42)
+    - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+  - Criminal Justice Act 2003 (c. 44)
+    - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+  - Criminal Justice (Northern Ireland) Order 2004 (S.I. 2004/1500 (N.I. 9))
+    - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+  - Terrorism Act 2006 (c. 11)
+    - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+  - Armed Forces Act 2006 (c. 52)
+    - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+  - Counter-Terrorism Act 2008 (c. 28)
+    - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+  - Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+    - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+    - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+  - Energy Act 2013 (c. 32)
+    - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+  - Modern Slavery Act 2015 (c. 30)
+    - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
