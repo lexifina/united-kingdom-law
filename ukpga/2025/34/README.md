@@ -2,9 +2,9 @@
 
 2025 c. 34. Enacted 2025-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-12-19, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/34` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-18, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/34` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/34/2025-12-19
+Source: https://www.legislation.gov.uk/ukpga/2025/34/2026-02-18
 
 ## Contents
 
@@ -194,23 +194,23 @@ Source: https://www.legislation.gov.uk/ukpga/2025/34/2025-12-19
   - [Sch. 3 para. 6 Protected species: licences under the Protection of Badgers Act 1992](schedule/3/paragraph/6.md)
 - Schedule 4 Compulsory acquisition of land under Part 3: supplementary provisions
   - [Sch. 4 para. 1 Application of Acquisition of Land Act 1981](schedule/4/paragraph/1.md)
-  - [Sch. 4 para. 2 Application of Acquisition of Land Act 1981](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
   - [Sch. 4 para. 3 Extinguishment of private rights of way etc](schedule/4/paragraph/3.md)
-  - [Sch. 4 para. 4 Extinguishment of private rights of way etc](schedule/4/paragraph/4.md)
-  - [Sch. 4 para. 5 Extinguishment of private rights of way etc](schedule/4/paragraph/5.md)
-  - [Sch. 4 para. 6 Extinguishment of private rights of way etc](schedule/4/paragraph/6.md)
-  - [Sch. 4 para. 7 Extinguishment of private rights of way etc](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
   - [Sch. 4 para. 8 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/8.md)
-  - [Sch. 4 para. 9 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/9.md)
-  - [Sch. 4 para. 10 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/10.md)
-  - [Sch. 4 para. 11 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/11.md)
-  - [Sch. 4 para. 12 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/12.md)
-  - [Sch. 4 para. 13 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/13.md)
-  - [Sch. 4 para. 14 New rights: application of Compulsory Purchase Act 1965](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
   - [Sch. 4 para. 15 New rights: application of the Compulsory Purchase (Vesting Declarations) Act 1981](schedule/4/paragraph/15.md)
-  - [Sch. 4 para. 16 New rights: application of the Compulsory Purchase (Vesting Declarations) Act 1981](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
   - [Sch. 4 para. 17 New rights: compensation](schedule/4/paragraph/17.md)
-  - [Sch. 4 para. 18 New rights: compensation](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
 - Schedule 5 Amendments relating to Part 3
   - Part 1 Ramsar sites: amendments to the Habitats Regulations 2017
     - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
@@ -255,14 +255,14 @@ Source: https://www.legislation.gov.uk/ukpga/2025/34/2025-12-19
   - Part 2 Minor and consequential amendments related to Part 3
     - [Sch. 5 para. 40 Wildlife and Countryside Act 1981](schedule/5/paragraph/40.md)
     - [Sch. 5 para. 41 Town and Country Planning Act 1990](schedule/5/paragraph/41.md)
-    - [Sch. 5 para. 42 Town and Country Planning Act 1990](schedule/5/paragraph/42.md)
-    - [Sch. 5 para. 43 Town and Country Planning Act 1990](schedule/5/paragraph/43.md)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
     - [Sch. 5 para. 44 Protection of Badgers Act 1992](schedule/5/paragraph/44.md)
     - [Sch. 5 para. 45 Marine and Coastal Access Act 2009](schedule/5/paragraph/45.md)
     - [Sch. 5 para. 46 Environmental Assessment of Plans and Programmes Regulations 2004](schedule/5/paragraph/46.md)
     - [Sch. 5 para. 47 Conservation of Habitats and Species Regulations 2017](schedule/5/paragraph/47.md)
-    - [Sch. 5 para. 48 Conservation of Habitats and Species Regulations 2017](schedule/5/paragraph/48.md)
-    - [Sch. 5 para. 49 Conservation of Habitats and Species Regulations 2017](schedule/5/paragraph/49.md)
-    - [Sch. 5 para. 50 Conservation of Habitats and Species Regulations 2017](schedule/5/paragraph/50.md)
-    - [Sch. 5 para. 51 Conservation of Habitats and Species Regulations 2017](schedule/5/paragraph/51.md)
-    - [Sch. 5 para. 52 Conservation of Habitats and Species Regulations 2017](schedule/5/paragraph/52.md)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+    - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+    - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+    - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+    - [Sch. 5 para. 52](schedule/5/paragraph/52.md)
