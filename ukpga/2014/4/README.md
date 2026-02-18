@@ -1,0 +1,112 @@
+# Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014
+
+2014 c. 4. Enacted 2014-01-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2014/4/2026-02-18
+
+## Contents
+
+- Part 1 Registration of consultant lobbyists
+  - Requirement to register
+    - [s. 1 Prohibition on consultant lobbying unless registered](section/1.md)
+    - [s. 2 Meaning of consultant lobbying](section/2.md)
+  - Keeping the register
+    - [s. 3 The Registrar of Consultant Lobbyists](section/3.md)
+    - [s. 4 The register](section/4.md)
+    - [s. 5 Notification of client information and changes](section/5.md)
+    - [s. 6 Duty to update register](section/6.md)
+    - [s. 7 Publication of register](section/7.md)
+  - Compliance
+    - [s. 8 Duty to monitor](section/8.md)
+    - [s. 9 Notice to supply information](section/9.md)
+    - [s. 10 Limitations on duty to supply information and use of information supplied](section/10.md)
+    - [s. 11 Right to appeal against information notice](section/11.md)
+  - Offences
+    - [s. 12 Offences](section/12.md)
+    - [s. 13 Bodies corporate and Scottish partnerships](section/13.md)
+  - Civil penalties
+    - [s. 14 Civil penalties](section/14.md)
+    - [s. 15 Notice of intention to impose civil penalty](section/15.md)
+    - [s. 16 Imposition of penalty](section/16.md)
+    - [s. 17 Right to appeal against imposition of civil penalty](section/17.md)
+    - [s. 18 Civil penalties and criminal proceedings](section/18.md)
+    - [s. 19 Enforcement](section/19.md)
+    - [s. 20 Further provision about civil penalties](section/20.md)
+  - Supplementary
+    - [s. 21 Guidance](section/21.md)
+    - [s. 22 Charges](section/22.md)
+    - [s. 23 Power to make further provision](section/23.md)
+    - [s. 24 Regulations](section/24.md)
+    - [s. 25 Interpretation](section/25.md)
+- Part 2 Non-party campaigning etc
+  - Controlled expenditure
+    - [s. 26 Meaning of “controlled expenditure”](section/26.md)
+    - [s. 27 Arrangements between third parties notified to the Electoral Commission](section/27.md)
+    - [s. 28 Changes to existing limits](section/28.md)
+    - [s. 29 Constituency limits](section/29.md)
+    - [s. 30 Targeted expenditure limits](section/30.md)
+    - [s. 31 Extension of power to vary specified sums](section/31.md)
+  - Recognised third parties, information and reports
+    - [s. 32 Recognised third parties](section/32.md)
+    - [s. 33 Reporting of donations to recognised third parties](section/33.md)
+    - [s. 34 Returns as to controlled expenditure](section/34.md)
+    - [s. 35 Statements of accounts by recognised third parties](section/35.md)
+  - Miscellaneous
+    - [s. 36 Third party expenditure in respect of candidates](section/36.md)
+    - [s. 37 Candidate’s personal expenses not to count for local election expenses limit in England and Wales](section/37.md)
+    - [s. 38 Functions of Electoral Commission with respect to compliance](section/38.md)
+    - [s. 39 Post-election review](section/39.md)
+- Part 3 Trade unions’ registers of members
+  - [s. 40 Duty to provide membership audit certificate](section/40.md)
+  - [s. 41 Duty to appoint an assurer etc](section/41.md)
+  - [s. 42 Investigatory powers](section/42.md)
+  - [s. 43 Enforcement](section/43.md)
+- Part 4 Supplementary
+  - [s. 44 Financial provision](section/44.md)
+  - [s. 45 Commencement](section/45.md)
+  - [s. 46 Transitional provision](section/46.md)
+  - [s. 47 Power to make consequential provision](section/47.md)
+  - [s. 48 Extent](section/48.md)
+  - [s. 49 Short title](section/49.md)
+- SCHEDULE 1 Carrying on the business of consultant lobbying
+  - Part 1 Exceptions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Part 2 Meaning of terms used in section 2(1)
+    - In return for payment
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Communications
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Made on behalf of another
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Part 3 Positions equivalent to permanent secretary
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 The Registrar of Consultant Lobbyists
+  - Status
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Appointment
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Remuneration and staffing
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Accounts
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Funding
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Amendment of other enactments
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 Controlled expenditure: qualifying expenses
+- SCHEDULE 4 Requirements of quarterly and weekly donation reports
