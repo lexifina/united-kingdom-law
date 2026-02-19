@@ -2,9 +2,11 @@
 
 2020 c. 27. Enacted 2020-12-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-02-20, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-19, one file per provision. Earlier versions, from 2020-12-17, are in the history before it: `git log -- ukpga/2020/27` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/27/2024-02-20
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/27
+
+Source: https://www.legislation.gov.uk/ukpga/2020/27/2026-02-19
 
 ## Contents
 
@@ -112,6 +114,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/27/2024-02-20
     - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
   - Single-use plastic items
     - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Glue traps
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
 - SCHEDULE 2 Services exclusions
   - PART1 SERVICES TO WHICH SECTION 19 (MUTUAL RECOGNITION) DOES NOT APPLY
   - PART2 SERVICES TO WHICH SECTIONS 20 AND 21 (NON-DISCRIMINATION) DO NOT APPLY
