@@ -1,0 +1,132 @@
+# United Kingdom Internal Market Act 2020
+
+2020 c. 27. Enacted 2020-12-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2020/27
+
+Source: https://www.legislation.gov.uk/ukpga/2020/27/2026-02-19
+
+## Contents
+
+- PART 1 UK market access: goods
+  - Introductory
+    - [s. 1 Purpose of Part 1](section/1.md)
+  - Mutual recognition: goods
+    - [s. 2 The mutual recognition principle for goods](section/2.md)
+    - [s. 3 Relevant requirements for the purposes of section 2](section/3.md)
+    - [s. 4 Exclusion of certain requirements existing before commencement](section/4.md)
+  - Non-discrimination: goods
+    - [s. 5 The non-discrimination principle for goods](section/5.md)
+    - [s. 6 Relevant requirements for the purposes of the non-discrimination principle](section/6.md)
+    - [s. 7 The non-discrimination principle: direct discrimination](section/7.md)
+    - [s. 8 The non-discrimination principle: indirect discrimination](section/8.md)
+    - [s. 9 Exclusion of certain provision existing before commencement](section/9.md)
+  - Exclusions from market access principles
+    - [s. 10 Further exclusions from market access principles](section/10.md)
+  - Supplementary
+    - [s. 11 Modifications in connection with the Northern Ireland Protocol](section/11.md)
+    - [s. 12 Guidance relating to Part 1](section/12.md)
+    - [s. 13 Duty to review the use of Part 1 amendment powers](section/13.md)
+    - [s. 14 Sale of goods complying with local law](section/14.md)
+    - [s. 15 Interpretation of references to “sale” in Part 1](section/15.md)
+    - [s. 16 Interpretation of other expressions used in Part 1](section/16.md)
+- PART 2 UK market access: services
+  - [s. 17 Services: overview](section/17.md)
+  - [s. 18 Services: exclusions](section/18.md)
+  - [s. 19 Services: mutual recognition of authorisation requirements](section/19.md)
+  - [s. 20 Direct discrimination in the regulation of services](section/20.md)
+  - [s. 21 Indirect discrimination in the regulation of services](section/21.md)
+  - [s. 22 Duty to review the use of Part 2 amendment powers](section/22.md)
+  - [s. 23 Interpretation of Part 2](section/23.md)
+- PART 3 UK market access: professional qualifications and regulation
+  - [s. 24 Access to professions on grounds of qualifications or experience](section/24.md)
+  - [s. 25 Meaning of “qualified” UK resident](section/25.md)
+  - [s. 26 Exception from section 24 where individual assessment offered](section/26.md)
+  - [s. 27 Other exceptions from section 24](section/27.md)
+  - [s. 28 Professional regulation not within section 24: equal treatment](section/28.md)
+  - [s. 29 Interpretation of Part 3](section/29.md)
+- PART 4 Independent advice on and monitoring of UK internal market
+  - General provision about functions under Part 4
+    - [s. 30 Functions of the CMA under Part 4: general provisions](section/30.md)
+    - [s. 31 Objective and general functions](section/31.md)
+    - [s. 32 Office for the Internal Market panel and task groups](section/32.md)
+  - Reporting, advisory and monitoring functions
+    - [s. 33 Monitoring and reporting on the operation of the UK internal market](section/33.md)
+    - [s. 34 Advising etc on proposed regulatory provisions on request](section/34.md)
+    - [s. 35 Provision of report on request after regulatory provision is passed or made](section/35.md)
+    - [s. 36 Report on request on provision considered to have detrimental effects](section/36.md)
+    - [s. 37 Statements on reports under section 36](section/37.md)
+    - [s. 38 Reports under Part 4](section/38.md)
+    - [s. 39 General advice and information with regard to exercise of functions](section/39.md)
+    - [s. 40 Laying of annual documents before devolved legislatures](section/40.md)
+  - Information-gathering powers
+    - [s. 41 Information-gathering powers](section/41.md)
+    - [s. 42 Enforcement](section/42.md)
+    - [s. 43 Penalties](section/43.md)
+  - Review
+    - [s. 44 Duty to review arrangements for carrying out Part 4 functions](section/44.md)
+  - Interpretation
+    - [s. 45 Interpretation of Part 4](section/45.md)
+- PART 5 Northern Ireland Protocol
+  - Northern Ireland’s place in the UK internal market and customs territory
+    - [s. 45A Ongoing guarantee of UK internal market access for qualifying Northern Ireland goods](section/45A.md)
+    - [s. 45B Goods moved from Northern Ireland: position in relation to export procedures](section/45B.md)
+    - [s. 45C Further protections in respect of Northern Ireland’s place in the UK internal market](section/45C.md)
+    - [s. 46 Northern Ireland’s place in the UK internal market and customs territory](section/46.md)
+    - [s. 46A Guidance relating to section 46](section/46A.md)
+  - Unfettered access
+    - [s. 47 Unfettered access to UK internal market for Northern Ireland goods](section/47.md)
+  - State aid
+    - [s. 48 Guidance on Article 10 of the Northern Ireland Protocol](section/48.md)
+    - [s. 49 Notification of state aid for the purposes of the Northern Ireland Protocol](section/49.md)
+- PART 6 Financial assistance
+  - [s. 50 Power to provide financial assistance for economic development etc](section/50.md)
+  - [s. 51 Financial assistance: supplementary](section/51.md)
+- PART 7 Subsidy control
+  - [s. 52 Regulation of distortive or harmful subsidies](section/52.md)
+  - [s. 53 UK subsidy control consultation: engagement with the devolved authorities on the Government response](section/53.md)
+- PART 8 Final provisions
+  - [s. 54 Protection of Act against modification](section/54.md)
+  - [s. 55 Further provision in connection with the Northern Ireland Protocol](section/55.md)
+  - [s. 56 Regulations: general](section/56.md)
+  - [s. 57 Regulations: references to parliamentary procedures](section/57.md)
+  - [s. 58 Interpretation: general](section/58.md)
+  - [s. 59 Extent, commencement and short title](section/59.md)
+- SCHEDULE 1 Exclusions from market access principles
+  - Threats to human, animal or plant health
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Chemicals
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Fertilisers and pesticides
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Taxation
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Provision having effect in more than one part of the United Kingdom
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Single-use plastic items
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Glue traps
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Services exclusions
+  - PART1 SERVICES TO WHICH SECTION 19 (MUTUAL RECOGNITION) DOES NOT APPLY
+  - PART2 SERVICES TO WHICH SECTIONS 20 AND 21 (NON-DISCRIMINATION) DO NOT APPLY
+  - PART 3 Authorisation requirements to which section 19 (mutual recognition) does not apply
+  - PART 4 Regulatory requirements to which sections 20 and 21 (non-discrimination) do not apply
+- SCHEDULE 3 Constitution etc of Office for the Internal Market panel and task groups
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
