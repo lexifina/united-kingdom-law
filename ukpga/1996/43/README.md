@@ -1,0 +1,136 @@
+# Education (Scotland) Act 1996
+
+1996 c. 43. Enacted 1996-07-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-02-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/43
+
+Source: https://www.legislation.gov.uk/ukpga/1996/43/2026-02-26
+
+## Contents
+
+- Part I The Scottish Qualifications Authority
+  - Establishment
+    - [s. 1 The Scottish Qualifications Authority.](section/1.md)
+  - Functions
+    - [s. 2 General functions of SQA.](section/2.md)
+    - [s. 3 Accreditation function.](section/3.md)
+    - [s. 4 Quality assurance.](section/4.md)
+    - [s. 5 Advisory function.](section/5.md)
+    - [s. 6 Incidental functions.](section/6.md)
+    - [s. 7 Regard to certain considerations.](section/7.md)
+    - [s. 8 Services to others, collaboration, agency etc.](section/8.md)
+    - [s. 9 Secretary of State’s directions to SQA.](section/9.md)
+  - Information
+    - [s. 10 Provision of information by SQA.](section/10.md)
+    - [s. 11 Annual report.](section/11.md)
+  - Financial provisions
+    - [s. 12 Financial duties of SQA.](section/12.md)
+    - [s. 13 Payment of grants etc. to SQA.](section/13.md)
+    - [s. 14 Secretary of State’s power to make loans.](section/14.md)
+    - [s. 15 Secretary of State’s guarantees of SQA’s borrowing.](section/15.md)
+    - [s. 16 Accounts, records and audit.](section/16.md)
+  - Property
+    - [s. 17 Transfer of property etc. to SQA.](section/17.md)
+  - Staff
+    - [s. 18 Transfer of staff to SQA.](section/18.md)
+  - Dissolution of the Scottish Examination Board and of the Scottish Vocational Education Council: the Winding Down Period
+    - [s. 19 Dissolution of the Scottish Examination Board and of the Scottish Vocational Education Council.](section/19.md)
+  - Transitional
+    - [s. 20 Transitional provisions as regards SQA.](section/20.md)
+  - Interpretation of Part I
+    - [s. 21 Interpretation of Part I.](section/21.md)
+  - Service of documents
+    - [s. 22 Service of documents.](section/22.md)
+- Part II Education for Children Under School Age
+  - [s. 23 Grants for education of children under school age.](section/23.md)
+  - [s. 24 Grants: requirements.](section/24.md)
+  - [s. 25 Delegation of functions.](section/25.md)
+  - [s. 26 Disclosure of information.](section/26.md)
+  - [s. 27 Interpretation of Part II.](section/27.md)
+- Part III School Boards
+  - [s. 28 School Boards: elections.](section/28.md)
+  - [s. 29 School Boards: terms of office.](section/29.md)
+  - [s. 30 School Boards: conflict of interest.](section/30.md)
+  - [s. 31 School Boards: miscellaneous.](section/31.md)
+- Part IV Miscellaneous
+  - [s. 32 Assessment of secondary school pupils.](section/32.md)
+  - [s. 33 Placing requests.](section/33.md)
+  - [s. 34 Stamp duty.](section/34.md)
+  - [s. 35 Regulations and orders.](section/35.md)
+  - [s. 36 Transitional provisions, miscellaneous amendments and repeals.](section/36.md)
+  - [s. 37 Short title, commencement and extent.](section/37.md)
+- SCHEDULE 1 The Scottish Qualifications Authority
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Qualifications and tenure of office
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Chairman
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Remuneration, pensions, etc.
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Proceedings
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Conflict of interest
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Confidentiality of information
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Committees
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Delegation of powers
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Staff
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Disposal of property
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Interpretation
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Further Provisions and Savings relating to the Winding Down Period
+  - Vesting of existing bodies’ foreign property in the Scottish Qualifications Authority
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Final reports and accounts of existing bodies etc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+- SCHEDULE 3 Transitional Provisions for SQA
+  - Continuity of exercise of functions
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Payment of grants by Secretary of State
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Information
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Application of Part I
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Amendment of the School Boards (Scotland) Act 1988
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Miscellaneous and Consequential Amendments
+  - The House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - The Education (Scotland) Act 1980 (c. 44.)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - The Self-Governing Schools etc. (Scotland) Act 1989 (c.39.)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - The Education (Student Loans) Act 1990 (c.6)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - The Finance Act 1991 (c.31)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - The Further and Higher Education (Scotland) Act 1992 (c.37)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Repeals
