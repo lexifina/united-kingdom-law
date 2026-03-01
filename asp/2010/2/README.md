@@ -1,0 +1,119 @@
+# Schools (Consultation) (Scotland) Act 2010
+
+asp/2010/2. Enacted 2010-01-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2010/2/2026-03-01
+
+## Contents
+
+- Process for all schools
+  - [s. 1 Overview of key requirements](section/1.md)
+  - [s. 2 Relevant proposals and consultees](section/2.md)
+  - [s. 2A Restriction on closure proposals](section/2A.md)
+  - [s. 3 Educational benefits statement](section/3.md)
+  - [s. 4 Proposal paper](section/4.md)
+  - [s. 5 Correction of the paper](section/5.md)
+  - [s. 6 Notice and consultation period](section/6.md)
+  - [s. 7 Public meeting](section/7.md)
+  - [s. 8 Involvement of the Chief Inspector](section/8.md)
+  - [s. 9 Consultation report](section/9.md)
+  - [s. 10 Content of the report](section/10.md)
+  - [s. 11 Time for further consideration](section/11.md)
+  - [s. 11ZA Directions relating to making documents available and holding public meetings](section/11ZA.md)
+- Special provision for rural schools
+  - [s. 11A Presumption against rural school closure](section/11A.md)
+  - [s. 12 Factors for rural closure proposals](section/12.md)
+  - [s. 12A Preliminary requirements in relation to rural school closure](section/12A.md)
+  - [s. 13 Additional consultation requirements](section/13.md)
+  - [s. 14 Designation of rural schools](section/14.md)
+- Call-in by the Scottish Ministers
+  - [s. 15 Call-in of closure proposals](section/15.md)
+  - [s. 16 Determination of case](section/16.md)
+  - [s. 17 Grounds for call-in etc.](section/17.md)
+  - [s. 17A Referral to the Convener of the School Closure Review Panels](section/17A.md)
+  - [s. 17B Review by Panel](section/17B.md)
+  - [s. 17C Decision following review](section/17C.md)
+  - [s. 17D Appeal against decision of the Panel](section/17D.md)
+- General
+  - [s. 18 Ancillary provision](section/18.md)
+  - [s. 19 Guidance](section/19.md)
+  - [s. 20 Regulations](section/20.md)
+  - [s. 21 Definitions](section/21.md)
+  - [s. 22 Commencement and short title](section/22.md)
+- SCHEDULE 1 Relevant proposals
+  - Closure
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Establishment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Relocation
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Admission arrangements
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Transfer from primary to secondary school
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Primary school commencement date
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Special class outwith a special school
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Transport to school that provides Gaelic medium education
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+  - Transport to denominational school
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Changing from denominational to non-denominational school
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Discontinuance of a further education centre
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Meaning of expressions used in this schedule
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+- SCHEDULE 2 Relevant consultees
+  - Closure
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Establishment
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Relocation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Admission arrangements
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Transfer from primary to secondary school
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Primary school commencement date
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Special class outwith a special school
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Transport to school that provides Gaelic medium education
+    - [Sch. 2 para. 7A](schedule/2/paragraph/7A.md)
+  - Transport to denominational school
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Changing from denominational to non-denominational school
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Discontinuance of a further education centre
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Gaelic consultee
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Denominational consultee
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Meaning of expressions used in this schedule
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 2A School Closure Review Panels
+  - Convener of the School Closure Review Panels
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Panel members
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Property, staff and services
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Directions
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - Reports
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+- SCHEDULE 3 Ancillary provision
+  - Modification of enactments
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Transitional, transitory and saving provision
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
