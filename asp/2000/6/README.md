@@ -1,0 +1,118 @@
+# Standards in Scotland’s Schools etc. Act 2000
+
+asp/2000/6. Enacted 2000-07-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2000/6/2026-03-01
+
+## Contents
+
+- Provision of school education: right of child and duty of education authority
+  - [s. 1 Right of child to school education](section/1.md)
+  - [s. 2 Duty of education authority in providing school education](section/2.md)
+- Health promotion
+  - [s. 2A Duties in relation to promotion of health](section/2A.md)
+- Raising standards
+  - [s. 3 Raising standards](section/3.md)
+  - [s. 3A Pupils experiencing inequalities of outcome: Scottish Ministers’ duty](section/3A.md)
+  - [s. 3B Pupils experiencing inequalities of outcome: education authority’s duties](section/3B.md)
+  - [s. 3C National Improvement Framework](section/3C.md)
+  - [s. 3D Carrying out of education authority’s duty under section 3(2)](section/3D.md)
+  - [s. 3E Annual plan: Scottish Ministers](section/3E.md)
+  - [s. 3F Annual plan: education authority](section/3F.md)
+  - [s. 3G Annual report: Scottish Ministers](section/3G.md)
+  - [s. 3H Annual report: education authority](section/3H.md)
+  - [s. 3I Equal opportunities](section/3I.md)
+  - [s. 4 National priorities in education](section/4.md)
+  - [s. 5 Education authority’s annual statement of improvement objectives](section/5.md)
+  - [s. 6 School improvement plans](section/6.md)
+  - [s. 7 Review of school performance](section/7.md)
+- Delegation schemes
+  - [s. 8 Delegation schemes](section/8.md)
+- ...
+  - [s. 9 Inspection of education authority](section/9.md)
+  - [s. 10 Code of practice as regards inspection of education authority](section/10.md)
+  - [s. 10A Duty of Her Majesty’s Inspectors to make reference to Scottish Ministers](section/10A.md)
+  - [s. 10B Preliminary notice](section/10B.md)
+  - [s. 10C Enforcement direction](section/10C.md)
+  - [s. 11 Inspection of educational establishment](section/11.md)
+  - [s. 12 Code of practice as regards inspection of educational establishment](section/12.md)
+- Guidance
+  - [s. 13 Guidance to education authorities: raising standards and delegation schemes](section/13.md)
+  - [s. 14 Guidance to education authorities as to home education](section/14.md)
+- Requirement for mainstream education
+  - [s. 15 Requirement that education be provided in mainstream schools](section/15.md)
+- Ending of corporal punishment in schools
+  - [s. 16 No justification for corporal punishment](section/16.md)
+- Ending of self-governing status of schools
+  - [s. 17 Ending of self-governing status of school](section/17.md)
+  - [s. 18 Order supplementary to ending of self-governing status](section/18.md)
+  - [s. 19 Transfer of staff of self-governing school](section/19.md)
+  - [s. 20 Provision of information in relation to self-governing school](section/20.md)
+  - [s. 21 Educational endowments in relation to self-governing school](section/21.md)
+  - [s. 22 Interruption of process of transition to self-governing status](section/22.md)
+  - [s. 23 Purported disposal of property of self-governing school](section/23.md)
+- Independent schools
+  - [s. 24 Registration of independent school](section/24.md)
+  - [s. 25 Welfare of pupil attending independent school](section/25.md)
+- School Boards
+  - [s. 26 Role of School Board in raising standards and improving quality of education](section/26.md)
+  - [s. 27 Election to School Board after school ceases to be self-governing](section/27.md)
+  - [s. 28 Vacancies for parent members of School Board](section/28.md)
+  - [s. 29 Restriction on councillor’s membership of School Board](section/29.md)
+  - [s. 30 Involvement of School Board in preparing short leet for appointment of headteacher etc.](section/30.md)
+  - [s. 31 Delegation of education authority’s functions to School Board](section/31.md)
+- Pre-school children
+  - [s. 32 Provision of education for pre-school children etc.](section/32.md)
+  - [s. 33 Fees](section/33.md)
+  - [s. 34 Guidance to education authorities as respects discharge of certain functions](section/34.md)
+  - [s. 35 Provision of school education by persons other than education authorities](section/35.md)
+  - [s. 36 Inspection of establishments other than schools](section/36.md)
+  - [s. 37 Provision of transport etc. by education authority](section/37.md)
+  - [s. 38 Admission of children under school age to primary school](section/38.md)
+  - [s. 39 Repeal of Part II of Education (Scotland) Act 1996](section/39.md)
+- Education outwith school
+  - [s. 40 Education outwith school](section/40.md)
+- Exclusion from school
+  - [s. 41 Rights of appeal against exclusion from school](section/41.md)
+- Grants
+  - [s. 42 Grants in respect of activities relating to school education](section/42.md)
+- Placing requests
+  - [s. 43 Placing requests: extent of education authority’s duty](section/43.md)
+  - [s. 44 Further provision as respects placing requests](section/44.md)
+- The General Teaching Council
+  - [s. 45 Functions of the Council](section/45.md)
+  - [s. 46 Constitution of the Council](section/46.md)
+  - [s. 47 Further provision as to keeping of register of teachers](section/47.md)
+  - [s. 48 Provision of information by Council](section/48.md)
+  - [s. 49 Provision of information to Council](section/49.md)
+  - [s. 50 Professional Conduct Committee and Investigating and Disciplinary Sub-committees](section/50.md)
+  - [s. 51 Appeals](section/51.md)
+  - [s. 52 Amendment of section 17 of 1965 Act](section/52.md)
+  - [s. 53 Power of Council to borrow money](section/53.md)
+  - [s. 54 Power of Scottish Ministers to require Council to establish committees](section/54.md)
+- Abolition of SJNC
+  - [s. 55 Abolition of Scottish Joint Negotiating Committee for School Education](section/55.md)
+- Sex education and medical matters
+  - [s. 56 Guidance to education authorities as to manner of conducting sex education](section/56.md)
+  - [s. 57 Consent of child to medical procedures](section/57.md)
+- General
+  - [s. 58 Interpretation](section/58.md)
+  - [s. 59 Regulations](section/59.md)
+  - [s. 60 Amendments and repeals](section/60.md)
+  - [s. 61 Short title, commencement, transitional provisions and savings](section/61.md)
+- SCHEDULE 1 AMENDMENTS OF 1988 ACT CONSEQUENTIAL ON RESTRICTING BY-ELECTIONS FOR PARENT MEMBERS OF SCHOOL BOARDS
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - [Sch. 2 para. 1 Teaching Council (Scotland) Act 1965 (c.19)](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Sex Discrimination Act 1975 (c.65)](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Education (Scotland) Act 1980 (c.44)](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 School Boards (Scotland) Act 1988 (c.47)](schedule/2/paragraph/4.md)
+- SCHEDULE 3 FURTHER REPEALS
