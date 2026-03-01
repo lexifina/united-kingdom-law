@@ -1,0 +1,168 @@
+# Procurement Reform (Scotland) Act 2014
+
+asp/2014/12. Enacted 2014-06-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 20 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2014/12
+
+Source: https://www.legislation.gov.uk/asp/2014/12/2026-03-01
+
+## Contents
+
+- Part 1 Key concepts and application
+  - Contracting authorities
+    - [s. 1 Contracting authorities](section/1.md)
+  - Regulated procurements
+    - [s. 2 Regulated procurements](section/2.md)
+  - Regulated contracts
+    - [s. 3 Regulated contracts](section/3.md)
+    - [s. 3A Regulation of procurement under cross-border arrangements](section/3A.md)
+    - [s. 4 Excluded contracts](section/4.md)
+    - [s. 5 Estimated value of contract](section/5.md)
+  - Framework agreements and dynamic purchasing systems
+    - [s. 6 Framework agreements and call-off contracts](section/6.md)
+    - [s. 7 Dynamic purchasing systems](section/7.md)
+- Part 2 General duties and procurement strategies
+  - General duties
+    - [s. 8 General duties](section/8.md)
+    - [s. 9 Sustainable procurement duty](section/9.md)
+    - [s. 10 Guidance on sustainable procurement duty](section/10.md)
+    - [s. 11 Supported businesses](section/11.md)
+    - [s. 12 Contracts for health or social care services](section/12.md)
+    - [s. 13 Guidance on procurements for health or social care services](section/13.md)
+    - [s. 14 Other circumstances in which contract can be awarded without competition](section/14.md)
+  - Procurement strategy and annual report
+    - [s. 15 Procurement strategy](section/15.md)
+    - [s. 16 Joint strategies](section/16.md)
+    - [s. 17 Compliance with strategy](section/17.md)
+    - [s. 18 Annual procurement reports](section/18.md)
+    - [s. 19 Publication etc.](section/19.md)
+    - [s. 20 Guidance](section/20.md)
+    - [s. 21 Annual report on procurement activity in Scotland](section/21.md)
+- Part 3 Specific duties
+  - Publication of notices on Public Contracts website
+    - [s. 22 Public Contracts website](section/22.md)
+    - [s. 23 Publication of contract notices and award notices](section/23.md)
+  - Community benefit requirements
+    - [s. 24 Community benefit requirements](section/24.md)
+    - [s. 25 Community benefit requirements in major contracts](section/25.md)
+    - [s. 26 Guidance on community benefit requirements](section/26.md)
+  - Selection of tenderers and award of contracts
+    - [s. 27 Exclusion of economic operators on grounds of criminal activity](section/27.md)
+    - [s. 28 Selection of tenderers](section/28.md)
+    - [s. 29 Guidance on selection of tenderers and award of contracts](section/29.md)
+  - Technical specifications
+    - [s. 30 Technical specifications](section/30.md)
+  - Charges for participation in procurement process
+    - [s. 31 Charges for participation in procurement process](section/31.md)
+  - Giving of reasons
+    - [s. 32 Giving of reasons to unsuccessful participants](section/32.md)
+    - [s. 33 Request for further information](section/33.md)
+    - [s. 34 Withholding information](section/34.md)
+  - Contracts register
+    - [s. 35 Contracts register](section/35.md)
+  - Procurement of recycled and recyclable products etc.
+    - [s. 36 Amendment of Climate Change (Scotland) Act 2009](section/36.md)
+- Part 4 Remedies
+  - [s. 37 Actionable duties](section/37.md)
+  - [s. 38 Procedure and time limits](section/38.md)
+  - [s. 39 Determination by the court](section/39.md)
+  - [s. 40 Transfer of forum for proceedings to First-tier Tribunal](section/40.md)
+- Part 5 General
+  - Interpretation
+    - [s. 41 Public Contracts Regulations and Higher Value Regulated Procurements](section/41.md)
+    - [s. 42 General interpretation](section/42.md)
+  - Final provisions
+    - [s. 43 Ancillary provision](section/43.md)
+    - [s. 44 Subordinate legislation](section/44.md)
+    - [s. 45 Commencement](section/45.md)
+    - [s. 46 Short title](section/46.md)
+- SCHEDULE 1 Contracting authorities
+  - Part 1 Scottish Administration and Scottish Parliament
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+    - [Sch. paragraph 13A](schedule/paragraph/13A.md)
+    - [Sch. paragraph 13B](schedule/paragraph/13B.md)
+    - [Sch. paragraph 13C](schedule/paragraph/13C.md)
+    - [Sch. paragraph 13D](schedule/paragraph/13D.md)
+    - [Sch. paragraph 13E](schedule/paragraph/13E.md)
+  - Part 2 Local government
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+  - Part 3 Others
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - [Sch. paragraph 23](schedule/paragraph/23.md)
+    - [Sch. paragraph 23A](schedule/paragraph/23A.md)
+    - [Sch. paragraph 24](schedule/paragraph/24.md)
+    - [Sch. paragraph 25](schedule/paragraph/25.md)
+    - [Sch. paragraph 26](schedule/paragraph/26.md)
+    - [Sch. paragraph 27](schedule/paragraph/27.md)
+    - [Sch. paragraph 28](schedule/paragraph/28.md)
+    - [Sch. paragraph 28A](schedule/paragraph/28A.md)
+    - [Sch. paragraph 29](schedule/paragraph/29.md)
+    - [Sch. paragraph 30](schedule/paragraph/30.md)
+    - [Sch. paragraph 31](schedule/paragraph/31.md)
+    - [Sch. paragraph 32](schedule/paragraph/32.md)
+    - [Sch. paragraph 33](schedule/paragraph/33.md)
+    - [Sch. paragraph 34](schedule/paragraph/34.md)
+    - [Sch. paragraph 34A](schedule/paragraph/34A.md)
+    - [Sch. paragraph 35](schedule/paragraph/35.md)
+    - [Sch. paragraph 36](schedule/paragraph/36.md)
+    - [Sch. paragraph 37](schedule/paragraph/37.md)
+    - [Sch. paragraph 38](schedule/paragraph/38.md)
+    - [Sch. paragraph 39](schedule/paragraph/39.md)
+    - [Sch. paragraph 40](schedule/paragraph/40.md)
+    - [Sch. paragraph 40A](schedule/paragraph/40A.md)
+    - [Sch. paragraph 41](schedule/paragraph/41.md)
+    - [Sch. paragraph 42](schedule/paragraph/42.md)
+    - [Sch. paragraph 42ZA](schedule/paragraph/42ZA.md)
+    - [Sch. paragraph 42A](schedule/paragraph/42A.md)
+    - [Sch. paragraph 43](schedule/paragraph/43.md)
+    - [Sch. paragraph 43A](schedule/paragraph/43A.md)
+    - [Sch. paragraph 44](schedule/paragraph/44.md)
+    - [Sch. paragraph 45](schedule/paragraph/45.md)
+    - [Sch. paragraph 46](schedule/paragraph/46.md)
+    - [Sch. paragraph 47](schedule/paragraph/47.md)
+    - [Sch. paragraph 48](schedule/paragraph/48.md)
+    - [Sch. paragraph 49](schedule/paragraph/49.md)
+    - [Sch. paragraph 50](schedule/paragraph/50.md)
+    - [Sch. paragraph 50A](schedule/paragraph/50A.md)
+    - [Sch. paragraph 51](schedule/paragraph/51.md)
+    - [Sch. paragraph 52](schedule/paragraph/52.md)
+    - [Sch. paragraph 53](schedule/paragraph/53.md)
+    - [Sch. paragraph 54](schedule/paragraph/54.md)
+    - [Sch. paragraph 55](schedule/paragraph/55.md)
+    - [Sch. paragraph 56](schedule/paragraph/56.md)
+    - [Sch. paragraph 57](schedule/paragraph/57.md)
+    - [Sch. paragraph 58](schedule/paragraph/58.md)
+    - [Sch. paragraph 59](schedule/paragraph/59.md)
+    - [Sch. paragraph 60](schedule/paragraph/60.md)
+    - [Sch. paragraph 61](schedule/paragraph/61.md)
+    - [Sch. paragraph 62](schedule/paragraph/62.md)
+    - [Sch. paragraph 63](schedule/paragraph/63.md)
+    - [Sch. paragraph 64](schedule/paragraph/64.md)
+    - [Sch. paragraph 65](schedule/paragraph/65.md)
+    - [Sch. paragraph 66](schedule/paragraph/66.md)
+    - [Sch. paragraph 67](schedule/paragraph/67.md)
+    - [Sch. paragraph 68](schedule/paragraph/68.md)
+    - [Sch. paragraph 69](schedule/paragraph/69.md)
+    - [Sch. paragraph 70](schedule/paragraph/70.md)
+- Schedule 2 Procurement under cross-border arrangements
