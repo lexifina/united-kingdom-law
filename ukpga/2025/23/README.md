@@ -2,9 +2,9 @@
 
 2025 c. 23. Enacted 2025-09-03.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-09-03, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-02, one file per provision. Earlier versions, from 2025-09-03, are in the history before it: `git log -- ukpga/2025/23` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/23/2025-09-03
+Source: https://www.legislation.gov.uk/ukpga/2025/23/2026-03-02
 
 ## Contents
 
@@ -23,10 +23,10 @@ Source: https://www.legislation.gov.uk/ukpga/2025/23/2025-09-03
 - Schedule 1 Armed Forces Commissioner
   - [Sch. 1 para. 1 Armed Forces Commissioner](schedule/1/paragraph/1.md)
   - [Sch. 1 para. 2 Other amendments](schedule/1/paragraph/2.md)
-  - [Sch. 1 para. 3 Other amendments](schedule/1/paragraph/3.md)
-  - [Sch. 1 para. 4 Other amendments](schedule/1/paragraph/4.md)
-  - [Sch. 1 para. 5 Other amendments](schedule/1/paragraph/5.md)
-  - [Sch. 1 para. 6 Other amendments](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
 - Schedule 2 Consequential amendments
   - [Sch. 2 para. 1 Equal Pay Act (Northern Ireland) 1970](schedule/2/paragraph/1.md)
   - [Sch. 2 para. 2 House of Commons Disqualification Act 1975](schedule/2/paragraph/2.md)
