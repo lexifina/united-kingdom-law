@@ -1,0 +1,219 @@
+# Public Health etc. (Scotland) Act 2008
+
+asp/2008/5. Enacted 2008-07-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2008/5/2026-03-02
+
+## Contents
+
+- Part 1 Public health responsibilities
+  - The Scottish Ministers
+    - [s. 1 Duty of Scottish Ministers to protect public health](section/1.md)
+  - Health boards
+    - [s. 2 Duty of health boards to protect public health](section/2.md)
+    - [s. 3 Designation of competent persons by health boards](section/3.md)
+  - Local authorities
+    - [s. 4 Duty of local authorities to protect public health](section/4.md)
+    - [s. 5 Designation of competent persons by local authorities](section/5.md)
+  - Co-operation and planning
+    - [s. 6 Duty of health boards and local authorities to co-operate](section/6.md)
+    - [s. 7 Joint public health protection plans](section/7.md)
+  - Power of Scottish Ministers to intervene
+    - [s. 8 Power to direct health boards and local authorities](section/8.md)
+    - [s. 9 Power to direct that functions be exercised by other persons](section/9.md)
+    - [s. 10 Directions under section 9(1): supplementary](section/10.md)
+    - [s. 11 Power to direct allocation of resources](section/11.md)
+- Part 2 Notifiable diseases, notifiable organisms and health risk states
+  - Notifiable diseases and organisms
+    - [s. 12 Lists of notifiable diseases and notifiable organisms](section/12.md)
+  - Duties to notify
+    - [s. 13 Notifiable diseases: duties on registered medical practitioners](section/13.md)
+    - [s. 14 Health risk states: duties on registered medical practitioners](section/14.md)
+    - [s. 15 Notifiable diseases and health risk states: duties on health boards](section/15.md)
+    - [s. 16 Notifiable organisms: duties on directors of diagnostic laboratories](section/16.md)
+  - Offences
+    - [s. 17 Notifiable organisms: offences](section/17.md)
+  - Supplementary provision
+    - [s. 18 Electronic notification](section/18.md)
+    - [s. 19 Notifiable diseases etc.: further provision](section/19.md)
+- Part 3 Public health investigations
+  - Public health investigations
+    - [s. 20 Public health incidents](section/20.md)
+    - [s. 21 Public health investigations](section/21.md)
+  - Investigators’ powers
+    - [s. 22 Powers relating to entry to premises](section/22.md)
+    - [s. 23 Other investigatory powers](section/23.md)
+    - [s. 24 Power to ask questions](section/24.md)
+    - [s. 25 Supplementary](section/25.md)
+    - [s. 26 Entry to dwellinghouses](section/26.md)
+    - [s. 27 Public health investigation warrants](section/27.md)
+    - [s. 28 Use of powers in emergencies](section/28.md)
+  - Offences
+    - [s. 29 Public health investigation offences](section/29.md)
+  - Compensation
+    - [s. 30 Public health investigations: compensation](section/30.md)
+- Part 4 Public health functions of health boards
+  - Duty to give explanation
+    - [s. 31 Duty of health boards to give explanation of need for action](section/31.md)
+    - [s. 32 Relevant actions](section/32.md)
+  - Medical examinations
+    - [s. 33 Application to have person medically examined](section/33.md)
+    - [s. 34 Order for medical examination](section/34.md)
+    - [s. 35 Medical examination: least invasive and least intrusive procedures](section/35.md)
+    - [s. 36 Medical examination of groups](section/36.md)
+  - Exclusion orders and restriction orders
+    - [s. 37 Exclusion orders](section/37.md)
+    - [s. 38 Restriction orders](section/38.md)
+  - Quarantine
+    - [s. 39 Application to have person quarantined](section/39.md)
+    - [s. 40 Quarantine orders](section/40.md)
+  - Removal to and detention in hospital
+    - [s. 41 Application to have person detained in hospital](section/41.md)
+    - [s. 42 Order for removal to and detention in hospital](section/42.md)
+    - [s. 43 Order for detention in hospital](section/43.md)
+    - [s. 44 Application where long term detention in hospital necessary](section/44.md)
+    - [s. 45 Exceptional detention order](section/45.md)
+  - Quarantine and detention: steps that may be taken
+    - [s. 46 Authorised steps](section/46.md)
+    - [s. 47 Authorised steps: least invasive and least intrusive procedures](section/47.md)
+  - Variation and extension of orders
+    - [s. 48 Variation of exclusion and restriction orders](section/48.md)
+    - [s. 49 Extension of quarantine and hospital detention orders](section/49.md)
+    - [s. 50 Application for variation of quarantine and hospital detention orders](section/50.md)
+    - [s. 51 Variation of quarantine and hospital detention orders](section/51.md)
+  - Review of orders
+    - [s. 52 Duty to review exclusion and restriction orders](section/52.md)
+    - [s. 53 Duty to keep exclusion and restriction orders under review](section/53.md)
+    - [s. 54 Duty to keep quarantine orders under review](section/54.md)
+    - [s. 55 Duty to keep hospital detention orders under review](section/55.md)
+  - Compensation
+    - [s. 56 Compensation for voluntary compliance with request](section/56.md)
+    - [s. 57 Compensation for persons subject to certain orders](section/57.md)
+    - [s. 58 Compensation for carers](section/58.md)
+  - Recall of orders granted in absence
+    - [s. 59 Recall of orders granted in absence of person to whom application relates](section/59.md)
+  - Appeals
+    - [s. 60 Appeal against orders for medical examination](section/60.md)
+    - [s. 61 Appeal against exclusion orders and restriction orders](section/61.md)
+    - [s. 62 Appeal against quarantine and hospital detention orders](section/62.md)
+    - [s. 63 Exclusion orders and restriction orders: further appeal to sheriff principal](section/63.md)
+    - [s. 64 Appeal to Court of Session](section/64.md)
+    - [s. 65 Effect of appeal under section 61, 62, 63 or 64](section/65.md)
+  - Breach of orders and offences
+    - [s. 66 Absconding from quarantine](section/66.md)
+    - [s. 67 Absconding from hospital](section/67.md)
+    - [s. 68 Obstruction](section/68.md)
+    - [s. 69 Offences arising from breach of orders under this Part](section/69.md)
+    - [s. 70 Failure to ensure child’s compliance with order](section/70.md)
+  - Procedure
+    - [s. 71 Applications and appeals](section/71.md)
+- Part 5 Public health functions of local authorities
+  - Facilities for disinfection etc.
+    - [s. 72 Provision of facilities for disinfection etc.](section/72.md)
+  - Disinfection etc. of premises and things
+    - [s. 73 Notice on occupier or owner of infected etc. premises or things](section/73.md)
+    - [s. 74 Inspection of premises in relation to which notice served](section/74.md)
+    - [s. 75 Failure to comply with notice](section/75.md)
+    - [s. 76 Power of local authority to disinfect etc. premises or things](section/76.md)
+    - [s. 77 Entry to dwellinghouses](section/77.md)
+    - [s. 78 Warrant to enter and take steps](section/78.md)
+    - [s. 79 Use of powers in emergencies](section/79.md)
+  - Offences
+    - [s. 80 Obstruction](section/80.md)
+  - Recovery of expenses
+    - [s. 81 Recovery of expenses](section/81.md)
+  - Compensation
+    - [s. 82 Compensation](section/82.md)
+  - Appeals
+    - [s. 83 Appeals against notices under this Part](section/83.md)
+    - [s. 84 Appeal to sheriff principal](section/84.md)
+    - [s. 85 Appeal to Court of Session](section/85.md)
+  - Existing functions
+    - [s. 86 Application of this Part where other functions being exercised](section/86.md)
+- Part 5A Public health protection measures
+  - Public health protection regulations
+    - [s. 86A Public health protection regulations](section/86A.md)
+    - [s. 86B Public health protection regulations: public health declarations](section/86B.md)
+    - [s. 86C Public health protection regulations: further provision about public health declarations](section/86C.md)
+    - [s. 86D Limits on use of power: regulations directly imposing restrictions or requirements](section/86D.md)
+    - [s. 86E Limits on use of power: regulations indirectly imposing restrictions or requirements](section/86E.md)
+    - [s. 86F Exclusion of requirement to undergo medical treatment](section/86F.md)
+    - [s. 86G Special restrictions and requirements](section/86G.md)
+    - [s. 86H Further provision on content of regulations](section/86H.md)
+    - [s. 86I Review of regulations](section/86I.md)
+  - Public health monitoring measures
+    - [s. 86J Public health monitoring measures](section/86J.md)
+- Part 6 Mortuaries etc.
+  - Provision of mortuaries
+    - [s. 87 Provision of mortuaries by local authorities](section/87.md)
+    - [s. 88 Provision of mortuaries by health boards](section/88.md)
+    - [s. 89 Co-operation by local authorities and health boards](section/89.md)
+  - Protection of public from risks arising from bodies
+    - [s. 90 Restriction on release of infected etc. bodies from hospital](section/90.md)
+    - [s. 91 Duty of health board where infected etc. person dies](section/91.md)
+    - [s. 92 Application for order in relation to bodies retained in premises](section/92.md)
+    - [s. 93 Power of sheriff to order removal to mortuary and disposal](section/93.md)
+- Part 7 International travel
+  - [s. 94 International travel](section/94.md)
+- Part 8 Regulation of provision of sunbeds
+  - Offences
+    - [s. 95 Prohibition on allowing use of sunbeds by persons under 18](section/95.md)
+    - [s. 96 Prohibition on sale or hire of sunbeds to persons under 18](section/96.md)
+    - [s. 97 Remote sale or hire of sunbeds](section/97.md)
+    - [s. 98 Prohibition on allowing unsupervised use of sunbeds](section/98.md)
+    - [s. 99 Medical use of sunbeds](section/99.md)
+    - [s. 100 Duty to provide information to sunbed users](section/100.md)
+    - [s. 101 Duty to display information notice](section/101.md)
+  - Enforcement
+    - [s. 102 Power to enter premises](section/102.md)
+    - [s. 103 Power to enter premises: entry to dwellinghouses](section/103.md)
+    - [s. 104 Power to require identification of operator](section/104.md)
+    - [s. 105 Fixed penalties for offences under section 95, 98, 100 or 101](section/105.md)
+    - [s. 106 Withdrawal of notices](section/106.md)
+    - [s. 107 Penalties for offences under Part 8](section/107.md)
+  - Interpretation
+    - [s. 108 Interpretation of Part 8](section/108.md)
+- Part 9 Statutory nuisances
+  - [s. 109 Insect nuisance](section/109.md)
+  - [s. 110 Artificial light nuisance](section/110.md)
+  - [s. 111 Statutory nuisance: land covered with water](section/111.md)
+  - [s. 112 Power to make further provision regarding statutory nuisances](section/112.md)
+  - [s. 113 Enforcement of statutory nuisances: fixed penalty notice](section/113.md)
+  - [s. 114 Procedure for regulations](section/114.md)
+  - [s. 115 Sewerage nuisance: local authority powers](section/115.md)
+- Part 10 General and miscellaneous
+  - General and miscellaneous
+    - [s. 116 Equal opportunities](section/116.md)
+    - [s. 117 Disclosure of information](section/117.md)
+    - [s. 118 Liability of persons exercising functions](section/118.md)
+    - [s. 119 Offences by bodies corporate etc.](section/119.md)
+    - [s. 120 Penalties for offences under this Act](section/120.md)
+    - [s. 121 Form of applications etc.](section/121.md)
+    - [s. 122 Regulations and orders](section/122.md)
+    - [s. 123 Meaning of “premises”](section/123.md)
+    - [s. 124 Interpretation](section/124.md)
+    - [s. 125 Minor and consequential amendments](section/125.md)
+    - [s. 126 Repeals, revocations and saving](section/126.md)
+    - [s. 127 Crown application](section/127.md)
+    - [s. 128 Short title and commencement](section/128.md)
+- SCHEDULE 1 Lists of notifiable diseases and notifiable organisms
+  - Part 1 Notifiable diseases
+  - Part 2 Notifiable organisms
+- SCHEDULE 2 Minor and consequential amendments
+  - The Public Works Loans Act 1887 (c. 37)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The Children and Young Persons (Scotland) Act 1937 (c. 37)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - The Prevention of Damage by Pests Act 1949 (c. 55)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - The Pests Act 1954 (c. 68)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - The Offices, Shops and Railway Premises Act 1963 (c. 41)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Statutory Nuisance (Appeals) (Scotland) Regulations 1996 (S.I. 1996/1076)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
