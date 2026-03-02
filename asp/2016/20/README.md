@@ -1,0 +1,156 @@
+# Burial and Cremation (Scotland) Act 2016
+
+asp/2016/20. Enacted 2016-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-02, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2016/20/2026-03-02
+
+## Contents
+
+- PART 1 Burial
+  - Burial grounds
+    - [s. 1 Meaning of “burial ground”](section/1.md)
+    - [s. 2 Meaning of “burial authority”](section/2.md)
+    - [s. 3 Provision of burial ground: local authority](section/3.md)
+    - [s. 4 Provision of burial ground outwith local authority area](section/4.md)
+    - [s. 5 Joint provision of burial ground](section/5.md)
+    - [s. 6 Management of burial ground](section/6.md)
+    - [s. 7 Right to erect building](section/7.md)
+  - Burial in burial ground
+    - [s. 8 Application to carry out burial](section/8.md)
+    - [s. 9 Unauthorised burial: offences](section/9.md)
+    - [s. 10 Burial register](section/10.md)
+    - [s. 11 Burial register: offence](section/11.md)
+    - [s. 12 Right of burial](section/12.md)
+    - [s. 13 Duty to sell right of burial](section/13.md)
+    - [s. 14 Duration and extension of right of burial](section/14.md)
+    - [s. 15 Commonwealth War Graves Commission: right of burial](section/15.md)
+    - [s. 16 Right of burial: notification of pending extinguishment](section/16.md)
+    - [s. 17 Register of rights of burial](section/17.md)
+    - [s. 18 Registers under section 17: offence](section/18.md)
+    - [s. 19 Right to erect headstone](section/19.md)
+    - [s. 20 Fees for burials](section/20.md)
+    - [s. 21 Burial authority: code of practice](section/21.md)
+  - Private burial
+    - [s. 22 Private burial](section/22.md)
+    - [s. 23 Private burial register](section/23.md)
+    - [s. 24 Private burial: offences](section/24.md)
+    - [s. 25 Private burial register: offence](section/25.md)
+  - Offence
+    - [s. 26 Burial other than in burial ground: offence](section/26.md)
+  - Exhumation
+    - [s. 27 Exhumation of human remains](section/27.md)
+    - [s. 28 Exhumation application: offences](section/28.md)
+    - [s. 29 Appeal to sheriff](section/29.md)
+    - [s. 30 Exhumation register](section/30.md)
+    - [s. 31 Exhumation register: offence](section/31.md)
+  - Lair: restoration to use
+    - [s. 32 Restoration to use of lair: consultation](section/32.md)
+    - [s. 33 Notification: right-holder](section/33.md)
+    - [s. 34 Notification where right-holder cannot be found](section/34.md)
+    - [s. 35 Section 34: effect of objection](section/35.md)
+    - [s. 36 Extinguishment of right](section/36.md)
+    - [s. 37 Restoration to use](section/37.md)
+    - [s. 38 Restoration to use without extinguishment of right](section/38.md)
+    - [s. 39 Right-holder’s right to object](section/39.md)
+    - [s. 40 Restoration to use on request of right-holder](section/40.md)
+    - [s. 41 Headstones](section/41.md)
+    - [s. 42 Register of restored lairs](section/42.md)
+    - [s. 43 Register of restored lairs: offence](section/43.md)
+    - [s. 44 Guidance](section/44.md)
+- PART 2 Cremation
+  - Cremation
+    - [s. 45 Meaning of “cremation” and “ashes”](section/45.md)
+    - [s. 46 Provision of crematorium: local authority](section/46.md)
+    - [s. 47 Cremation authority: duties](section/47.md)
+    - [s. 48 Application for cremation](section/48.md)
+    - [s. 49 Section 48: offences](section/49.md)
+    - [s. 50 Requirements for carrying out cremation](section/50.md)
+  - Handling of ashes
+    - [s. 51 Duty of cremation authority before carrying out cremation](section/51.md)
+    - [s. 52 Duty of cremation authority following cremation](section/52.md)
+    - [s. 53 Failure to collect ashes](section/53.md)
+    - [s. 54 Power of funeral director in relation to ashes](section/54.md)
+    - [s. 55 Duties of cremation authority where ashes returned](section/55.md)
+    - [s. 56 Handling of ashes: regulations](section/56.md)
+  - Register
+    - [s. 57 Cremation register](section/57.md)
+    - [s. 58 Cremation register: offence](section/58.md)
+  - Crematorium: further requirements
+    - [s. 59 New crematorium: notice](section/59.md)
+    - [s. 60 Section 59: offences](section/60.md)
+    - [s. 61 Closure of crematorium](section/61.md)
+    - [s. 62 Section 61: offence](section/62.md)
+  - Fees
+    - [s. 63 Fees for cremation and other services](section/63.md)
+  - Code of practice
+    - [s. 64 Cremation authority: code of practice](section/64.md)
+- PART 3 Arrangements
+  - Adults and children
+    - [s. 65 Arrangements on death of adult](section/65.md)
+    - [s. 66 Arrangements on death of child](section/66.md)
+    - [s. 67 Arrangements under sections 65 and 66](section/67.md)
+    - [s. 68 Sections 65 and 66: application to sheriff](section/68.md)
+  - Pregnancy loss after 24 weeks
+    - [s. 69 Arrangements on termination of pregnancy after 24 weeks](section/69.md)
+    - [s. 70 Section 69: health body authorised to make arrangements](section/70.md)
+    - [s. 71 Section 69: no arrangements](section/71.md)
+    - [s. 72 Duty of health body where still-birth likely to occur](section/72.md)
+    - [s. 73 Section 72: health body authorised to make arrangements](section/73.md)
+    - [s. 74 Arrangements on still-birth](section/74.md)
+    - [s. 75 Section 74: power of appropriate health body](section/75.md)
+    - [s. 76 Section 74: general power of appropriate health body](section/76.md)
+  - Pregnancy loss on or before 24 weeks
+    - [s. 77 Duty of health body where pregnancy loss likely to occur](section/77.md)
+    - [s. 78 Section 77: health body authorised to make arrangements](section/78.md)
+    - [s. 79 Arrangements on pregnancy loss on or before 24 weeks](section/79.md)
+    - [s. 80 Change in arrangements](section/80.md)
+    - [s. 81 Individual authorised to make arrangements](section/81.md)
+    - [s. 82 Duty to transfer remains](section/82.md)
+    - [s. 83 Appropriate health authority authorised to make arrangements](section/83.md)
+    - [s. 84 Duty of appropriate health authority](section/84.md)
+  - Pregnancy losses: general
+    - [s. 85 Duty to keep register](section/85.md)
+    - [s. 86 Register under section 85: offence](section/86.md)
+  - Local authority functions
+    - [s. 87 Burial, cremation or hydrolysis: duty of local authority](section/87.md)
+    - [s. 88 Expenses of attending funeral](section/88.md)
+- PART 4 Inspection
+  - [s. 89 Appointment of inspectors](section/89.md)
+  - [s. 90 Inspections: regulations](section/90.md)
+  - [s. 91 Powers of entry and inspection](section/91.md)
+  - [s. 92 Section 91: offences](section/92.md)
+  - [s. 93 Reports](section/93.md)
+- PART 5 Funeral directors
+  - [s. 94 Funeral directors’ businesses: licensing](section/94.md)
+  - [s. 95 Licensing scheme: regulations](section/95.md)
+  - [s. 96 Licence for funeral director’s business: offences](section/96.md)
+  - [s. 97 Funeral director: code of practice](section/97.md)
+- PART 6 Miscellaneous
+  - Guidance on funeral costs
+    - [s. 98 Guidance on funeral costs](section/98.md)
+  - Powers to modify enactments
+    - [s. 99 Power to extend application of Act](section/99.md)
+    - [s. 100 Power to suspend or modify certain enactments](section/100.md)
+  - Acquisition of land
+    - [s. 101 Acquisition of land](section/101.md)
+- PART 7 General
+  - [s. 102 Information and registers to be kept in electronic form](section/102.md)
+  - [s. 103 Offences by bodies corporate etc.](section/103.md)
+  - [s. 104 Regulations: consultation requirements](section/104.md)
+  - [s. 105 Regulations under section 95(1): requirements](section/105.md)
+  - [s. 106 Regulations: parliamentary procedure](section/106.md)
+  - [s. 107 Interpretation](section/107.md)
+  - [s. 108 Ancillary provision](section/108.md)
+  - [s. 109 Minor and consequential amendments](section/109.md)
+  - [s. 110 Repeals](section/110.md)
+  - [s. 111 Crown application](section/111.md)
+  - [s. 112 Commencement](section/112.md)
+  - [s. 113 Short title](section/113.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - Social Work (Scotland) Act 1968
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Public Health etc. (Scotland) Act 2008
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 REPEALS
