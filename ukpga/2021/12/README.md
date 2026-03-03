@@ -1,0 +1,189 @@
+# Air Traffic Management and Unmanned Aircraft Act 2021
+
+2021 c. 12. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-03, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/12/2026-03-03
+
+## Contents
+
+- PART 1 Airspace change proposals
+  - [s. 1 Meaning of “airspace change proposal”](section/1.md)
+  - [s. 2 Direction to progress airspace change proposal](section/2.md)
+  - [s. 3 Direction to co-operate in airspace change proposal](section/3.md)
+  - [s. 4 Directions under sections 2 and 3: supplemental](section/4.md)
+  - [s. 5 Delegation of functions to CAA](section/5.md)
+  - [s. 6 Provision of information](section/6.md)
+  - [s. 7 Appeals and enforcement](section/7.md)
+  - [s. 8 Part 1: interpretation](section/8.md)
+- PART 2 Air traffic
+  - [s. 9 Licensed air traffic services: modifying the licence and related appeals](section/9.md)
+  - [s. 10 Air traffic services licensed under Part 1 of the Transport Act 2000: enforcement](section/10.md)
+  - [s. 11 Air traffic services: consequential amendments](section/11.md)
+  - [s. 12 Airport slot allocation](section/12.md)
+- PART 3 Unmanned aircraft
+  - [s. 13 Powers of police officers and prison authorities](section/13.md)
+  - [s. 14 Powers of police officers relating to ANO 2016 and the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025](section/14.md)
+  - [s. 15 Fixed penalties for certain offences relating to unmanned aircraft](section/15.md)
+  - [s. 16 Amendment and enforcement regulations](section/16.md)
+  - [s. 17 Disclosures of information](section/17.md)
+  - [s. 18 Part 3: interpretation](section/18.md)
+- PART 4 General
+  - [s. 19 Regulations](section/19.md)
+  - [s. 20 Extent](section/20.md)
+  - [s. 21 Commencement](section/21.md)
+  - [s. 22 Short title](section/22.md)
+- SCHEDULE 1 Appeals against decisions to give or vary airspace change directions
+  - Appeals against decisions to give or vary directions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Decisions on appeal
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Further appeals
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Interpretation
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Enforcement of airspace change directions and connected appeals
+  - PART 1 Enforcement of directions
+    - Contravention notices
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Enforcement orders
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Enforcement orders: modification and revocation
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Penalty for contravention of enforcement order
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Procedure after imposing a penalty
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Amount of penalty
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Amount of penalty: fixed amount
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Amount of penalty: daily amounts
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Withdrawal of penalties
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Recovering penalties
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Statement of policy on penalties
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Turnover
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - PART 2 Appeals
+    - Appeals against enforcement orders
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Appeals against penalties
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Decisions on appeal
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Further appeals
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - PART 3 Interpretation
+    - Definitions
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Modification of licence conditions under section 11 of the Transport Act 2000: appeals
+- SCHEDULE 4 New Schedule A1 to the Transport Act 2000
+- SCHEDULE 5 New Schedule B1 to the Transport Act 2000
+- SCHEDULE 6 New Schedule C1 to the Transport Act 2000
+- SCHEDULE 7 Air traffic services: consequential amendments
+  - Transport Act 2000 (c.38)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Enterprise and Regulatory Reform Act 2013 (c. 24)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+- SCHEDULE 8 Unmanned aircraft: powers of police officers and prison authorities
+  - PART 1 General powers of police officers
+    - Power of constable to require an unmanned aircraft to be grounded
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Power of constable to stop and search persons or vehicles
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Power to enter and search premises under warrant
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Supplementary powers
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Meaning of “relevant unmanned aircraft offence”
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Meaning of “relevant offence under regulation 3(3) of the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025”
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Meaning of “relevant offence under article 265E(7) of the ANO 2016”
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Meaning of “relevant prison offence”
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Meaning of “Scottish common law prison offence”
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Other interpretation
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - PART 2 Powers of police officers and prison authorities under Police Act 1997
+    - Authorisations to interfere with property etc
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Unmanned aircraft: powers of police officers relating to ANO 2016 and the Unmanned Aircraft (Offences and Consequential Amendments) Regulations 2025
+  - Provision by remote pilots of evidence of competency
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Provision by remote pilots of information about UAS operators
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Provision by UAS operators of evidence of registration
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Provision by UAS operators of information about remote pilots
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Provision by remote pilots or UAS operators of other information etc
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Provision of evidence of consents for certain flights
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Provision of evidence of exemptions for certain flights
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Power to inspect unmanned aircraft in connection with other powers
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Offence of providing false or misleading information etc
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Provision of information etc at a police station
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Interpretation
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Fixed penalties for certain offences relating to unmanned aircraft
+  - Power to issue fixed penalty notices
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Fixed penalty offences
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Fixed penalty notices
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Effect of fixed penalty notice
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Amount of fixed penalty
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Supplementary provision
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Issuing of registration documents
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Sending of registration documents
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Registration of fixed penalty: document sent to designated officer in England and Wales
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Registration of fixed penalty: document sent to clerk in Scotland
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Registration of fixed penalty: document sent to clerk of petty sessions in Northern Ireland
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Bodies corporate & the Crown
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Interpretation
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Amendment and enforcement regulations
+  - PART 1 Amendment of provisions that relate to offences
+    - Amendments in consequence of relevant subordinate legislation
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Parliamentary procedure
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - PART 2 Enforcement of particular EU-derived legislation
+    - Regulations providing for criminal offences or civil penalties
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - PART 3 Interpretation
+    - Interpretation
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
