@@ -1,0 +1,245 @@
+# Law Reform (Miscellaneous Provisions) (Scotland) Act 1990
+
+1990 c. 40. Enacted 1990-11-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 74 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
+
+Source: https://www.legislation.gov.uk/ukpga/1990/40/2026-03-05
+
+## Contents
+
+- Part I Charities
+  - Recognition of charities
+    - [s. 1 Information as to recognised charities.](section/1.md)
+    - [s. 2 Non-recognised bodies.](section/2.md)
+    - [s. 3 Designated religious bodies.](section/3.md)
+  - Charities accounts
+    - [s. 4 Duty to keep accounting records.](section/4.md)
+    - [s. 5 Annual accounts and report.](section/5.md)
+  - Supervision of charities
+    - [s. 6 Powers of Lord Advocate to investigate charities and to suspend trustees.](section/6.md)
+    - [s. 7 Powers of Court of Session to deal with management of charities.](section/7.md)
+    - [s. 8 Disqualification of persons concerned in the management or control of recognised bodies.](section/8.md)
+  - Reorganisation of public trusts
+    - [s. 9 Reorganisation of public trusts by the court.](section/9.md)
+    - [s. 10 Small trusts.](section/10.md)
+    - [s. 11 Expenditure of capital.](section/11.md)
+  - Dormant charities
+    - [s. 12 Dormant accounts of charities in banks, etc.](section/12.md)
+  - Miscellaneous
+    - [s. 13 Appointment of trustees.](section/13.md)
+    - [s. 14 Alteration of purposes and winding-up of charitable companies.](section/14.md)
+  - Interpretation
+    - [s. 15 Interpretation of Part I, regulations and orders.](section/15.md)
+- Part II Legal Services
+  - Conveyancing and executry services
+    - [s. 16 Regulation by the Law Society of conveyancing and executry services](section/16.md)
+    - [s. 17 Conveyancing practitioners.](section/17.md)
+    - [s. 18 Executry practitioners.](section/18.md)
+    - [s. 19 Executry services by recognised financial institutions.](section/19.md)
+    - [s. 20 Professional misconduct, ... etc.](section/20.md)
+    - [s. 20ZA Remission of complaint by Tribunal to Council](section/20ZA.md)
+    - [s. 20ZB Unsatisfactory professional conduct](section/20ZB.md)
+    - [s. 20ZC Unsatisfactory professional conduct: Council’s powers to monitor compliance with direction under section 20ZB(4)](section/20ZC.md)
+    - [s. 20ZD Report by Commission to Council under section 10(2)(e) of the 2007 Act: Council’s powers](section/20ZD.md)
+    - [s. 20ZE Direction under section 20ZD(1): appeal by practitioner](section/20ZE.md)
+    - [s. 20A Review of decisions](section/20A.md)
+    - [s. 20B Unsatisfactory professional conduct: powers of Tribunal on appeal](section/20B.md)
+    - [s. 20C Unsatisfactory professional conduct: enforcement of Council direction](section/20C.md)
+    - [s. 20D Unsatisfactory professional conduct: appeal from decisions of Tribunal](section/20D.md)
+    - [s. 20E Unsatisfactory professional conduct: powers of court on appeal](section/20E.md)
+    - [s. 21 Council’s intervention powers.](section/21.md)
+    - [s. 21A Powers of investigation](section/21A.md)
+    - [s. 21B Procedures of the Tribunal etc.](section/21B.md)
+    - [s. 21C Compensation fund](section/21C.md)
+    - [s. 22 Disclosure of documents etc.](section/22.md)
+    - [s. 23 Interpretation of sections 16 to 22.](section/23.md)
+  - Rights of audience
+    - [s. 24 Rights of audience in the Court of Session, the House of Lords, the Judicial Committee of the Privy Council and the High Court of Justiciary.](section/24.md)
+    - [s. 25](section/25.md)
+    - [s. 26](section/26.md)
+    - [s. 27](section/27.md)
+    - [s. 28](section/28.md)
+    - [s. 29](section/29.md)
+    - [s. 30 Regulation of right of English, Welsh and Northern Irish practitioners to practise in Scotland.](section/30.md)
+  - Rules of conduct
+    - [s. 31 Rules of conduct etc.](section/31.md)
+  - Multi-national practices
+    - [s. 32 Multi-national practices.](section/32.md)
+  - Complaints in relation to legal services
+    - [s. 33 Complaints in relation to legal services.](section/33.md)
+  - Scottish legal services ombudsman
+    - [s. 34 Scottish legal services ombudsman.](section/34.md)
+    - [s. 34A Ombudsman’s final report and recommendations.](section/34A.md)
+    - [s. 34B Advisory functions of ombudsman.](section/34B.md)
+  - Judicial appointments
+    - [s. 35 Judicial appointments.](section/35.md)
+  - Solicitors’ and counsel’s fees
+    - [s. 36 Solicitors’ and counsel’s fees.](section/36.md)
+  - Miscellaneous and supplementary
+    - [s. 37 Admission of solicitors and notaries public.](section/37.md)
+    - [s. 38 Availability of legal aid in relation to services provided under this Act.](section/38.md)
+    - [s. 39 Removal of certain restrictions on the borrowing of the court process.](section/39.md)
+    - [s. 40 Advisory and supervisory functions of the CMA](section/40.md)
+    - [s. 41 Investigatory powers of the CMA](section/41.md)
+    - [s. 41A Enforcement of notices under section 41](section/41A.md)
+    - [s. 41B Altering, etc. documents required to be produced under section 41](section/41B.md)
+    - [s. 42 Review of rules approved by the Secretary of State.](section/42.md)
+    - [s. 43 Functions of Director in relation to certain rules made under the 1980 Act.](section/43.md)
+    - [s. 44 Interpretation of Part II.](section/44.md)
+- Part III The Licensing (Scotland) Act 1976
+  - [s. 45](section/45.md)
+- Part IV Miscellaneous Reforms
+  - Evidence by children in criminal trials
+    - [s. 56 ................................](section/56.md)
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 Identification of accused by child.](section/58.md)
+    - [s. 59 Interpretation of sections 56, 57 and 58.](section/59.md)
+  - Sheriff court jurisdiction
+    - [s. 60 Criminal jurisdiction of sheriff court.](section/60.md)
+  - Treatment of offenders
+    - [s. 61 Probation and community service orders and supervision and care of persons on probation or released from prison etc.](section/61.md)
+    - [s. 62 ................................](section/62.md)
+  - Drug trafficking confiscation orders
+    - [s. 63 Registration and enforcement of external confiscation orders.](section/63.md)
+  - Matrimonial interdicts
+    - [s. 64 Matrimonial interdicts.](section/64.md)
+  - Homelessness
+    - [s. 65 Homelessness.](section/65.md)
+  - Arbitration
+    - [s. 66 UNCITRAL Model Law on International Commercial Arbitration.](section/66.md)
+  - Judicial factors
+    - [s. 67 Further provision as to discharge of judicial factors.](section/67.md)
+  - Avoidance of civil liability by non-contractual notice
+    - [s. 68 Amendment of Unfair Contract Terms Act 1977.](section/68.md)
+  - Liability in respect of services to injured persons
+    - [s. 69 Future services to injured person.](section/69.md)
+  - Blood and other samples in civil proceedings
+    - [s. 70 Blood and other samples in civil proceedings.](section/70.md)
+  - Powers of attorney
+    - [s. 71 ................................](section/71.md)
+  - Execution of documents by companies
+    - [s. 72 ................................](section/72.md)
+- Part V General
+  - [s. 73 Finance.](section/73.md)
+  - [s. 74 Amendments and repeals.](section/74.md)
+  - [s. 75 Citation, commencement and extent.](section/75.md)
+- SCHEDULE 1 Scottish Conveyancing and Executry Services Board
+  - Part I Constitution, Duties, Powers and Status
+    - Constitution
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Remuneration
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Staff
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Proceedings
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Performance of functions
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Accounts
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Annual report
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Appeals
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Compensation
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Parliamentary disqualification
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part II Powers of Investigation
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Scottish Legal Services Ombudsman
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+- SCHEDULE 4 Judicial Appointments
+  - Appointments of sheriffs principal, sheriffs and solicitors as judges of the Court of Session
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Further provision as to Inner House and exchequer causes
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Temporary judges
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Amendments to the Small Landholders (Scotland) Act 1911 (c.49)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Applications for Children’s Certificates
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+- SCHEDULE 6
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 UNCITRAL
+  - ...
+- SCHEDULE 8 Amendment of Enactments
+  - Part I Amendments to the Licensing (Scotland) Act 1976
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Part II Miscellaneous
+    - The Probate and Legacy Duties Act 1808 (c. 149)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - The Confirmation of Executors (Scotland) Act 1823 (c. 98)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - The Judicial Factors Act 1849 (c. 51)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - The Confirmation of Executors (Scotland) Act 1858 (c. 56)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - The Promissory Oaths Act 1868 (c. 72)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - The Intestates Widows and Children (Scotland) Act 1875 (c. 41)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - The Small Testate Estates (Scotland) Act 1876 (c. 24)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - The Sheriff Courts (Scotland) Act 1971 (c.58)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - The Criminal Procedure (Scotland) Act 1975 (c. 21)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - The Community Service by Offenders (Scotland) Act 1978 (c. 49)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - The Solicitors (Scotland) Act 1980 (c. 46)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - The Criminal Justice (Scotland) Act 1980 (c. 62)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - The Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c. 59)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - The Representation of the People Act 1983 (c. 2)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - The Companies Act 1985 (c. 6)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - The Family Law (Scotland) Act 1985 (c.37)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - The Insolvency Act 1986 (c. 45)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - The Legal Aid (Scotland) Act 1986 (c. 47)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - The Criminal Justice (Scotland) Act 1987 (c. 41)
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - The Court of Session Act 1988 (c. 36)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - The Antarctic Minerals Act 1989 (c. 21)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+- SCHEDULE 9 Repeals
