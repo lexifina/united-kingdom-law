@@ -1,0 +1,237 @@
+# Charities and Trustee Investment (Scotland) Act 2005
+
+asp/2005/10. Enacted 2005-07-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-05, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2005/10
+
+Source: https://www.legislation.gov.uk/asp/2005/10/2026-03-05
+
+## Contents
+
+- Part 1 Charities
+  - Chapter 1 Office of the Scottish Charity Regulator
+    - [s. 1 Office of the Scottish Charity Regulator](section/1.md)
+    - [s. 2 Annual reports](section/2.md)
+  - Chapter 2 Scottish Charity Register
+    - The Register
+      - [s. 3 Scottish Charity Register](section/3.md)
+    - Applications
+      - [s. 4 Application for entry in Register](section/4.md)
+      - [s. 5 Determination of applications](section/5.md)
+      - [s. 6 Applications: further procedure](section/6.md)
+    - The charity test
+      - [s. 7 The charity test](section/7.md)
+      - [s. 8 Public benefit](section/8.md)
+      - [s. 9 Guidance on charity test](section/9.md)
+    - Charity names
+      - [s. 10 Objectionable names](section/10.md)
+      - [s. 11 Change of name](section/11.md)
+      - [s. 12 Power of OSCR in relation to charity names and working names](section/12.md)
+    - References to charitable status
+      - [s. 13 References to charitable status](section/13.md)
+      - [s. 14 Exception for certain bodies not in Register](section/14.md)
+      - [s. 15 References in documents](section/15.md)
+    - Changes
+      - [s. 16 Changes which require OSCR’s consent](section/16.md)
+      - [s. 17 Notification of changes](section/17.md)
+    - Removal from Register
+      - [s. 18 Removal from Register](section/18.md)
+      - [s. 19 Removal from Register: protection of assets](section/19.md)
+  - Chapter 3 Co-operation and information
+    - Co-operation
+      - [s. 20 Co-operation](section/20.md)
+    - Information about charities
+      - [s. 21 Public access to Register](section/21.md)
+      - [s. 22 Power of OSCR to obtain information from charities](section/22.md)
+      - [s. 23 Entitlement to information about charities](section/23.md)
+    - Sharing information
+      - [s. 24 Disclosure of information by and to OSCR: public bodies or office-holders](section/24.md)
+      - [s. 24A Disclosure of information by and to OSCR: designated religious charities](section/24A.md)
+      - [s. 25 Removal of restrictions on disclosure of certain information](section/25.md)
+    - Supplemental
+      - [s. 26 False or misleading information etc.](section/26.md)
+      - [s. 27 Disclosure of information: entitlement under other enactments etc.](section/27.md)
+  - Chapter 4 Supervision of charities etc.
+    - Inquiries
+      - [s. 28 Inquiries about charities etc.](section/28.md)
+      - [s. 29 Power of OSCR to obtain information for inquiries](section/29.md)
+      - [s. 30 Removal from Register of charity which no longer meets charity test](section/30.md)
+      - [s. 30A Removal from Register where charity no longer has connection to Scotland](section/30A.md)
+      - [s. 30B Powers of OSCR following inquiries: direction to take specified steps](section/30B.md)
+      - [s. 31 Powers of OSCR following inquiries: temporary suspension or restriction of conduct](section/31.md)
+      - [s. 32 Suspensions and directions under section 31: procedure](section/32.md)
+      - [s. 33 Reports on inquiries](section/33.md)
+    - Powers of Court of Session
+      - [s. 34 Powers of Court of Session](section/34.md)
+      - [s. 35 Transfer schemes](section/35.md)
+      - [s. 36 Powers in relation to English and Welsh charities](section/36.md)
+      - [s. 37 Expenses](section/37.md)
+    - Supplemental
+      - [s. 38 Delegation of functions](section/38.md)
+  - Chapter 5 Reorganisation of charities
+    - [s. 39 Reorganisation of charities: applications by charity](section/39.md)
+    - [s. 40 Reorganisation of charities: applications by OSCR](section/40.md)
+    - [s. 41 Approved schemes](section/41.md)
+    - [s. 42 Reorganisation: supplementary](section/42.md)
+    - [s. 43 Endowments](section/43.md)
+  - Chapter 5A Reorganisation of restricted funds
+    - [s. 43A Reorganisation of restricted funds: applications by charity](section/43A.md)
+    - [s. 43B Reorganisations of restricted funds: applications by OSCR](section/43B.md)
+    - [s. 43C Approved restricted funds reorganisation schemes](section/43C.md)
+    - [s. 43D Restricted funds reorganisations: supplementary](section/43D.md)
+  - Chapter 6 Charity accounts
+    - Duty to keep accounts etc.
+      - [s. 44 Accounts](section/44.md)
+      - [s. 45 Failure to provide statement of account: preparation by appointed person](section/45.md)
+      - [s. 45A Failure to provide statement of account: removal from Register](section/45A.md)
+    - Access to charity accounts
+      - [s. 45B Public access to charity accounts kept by OSCR](section/45B.md)
+    - Duty to report matters to OSCR
+      - [s. 46 Duty of auditors etc. to report matters to OSCR](section/46.md)
+    - Dormant charity accounts
+      - [s. 47 Dormant accounts of charities](section/47.md)
+      - [s. 48 Dormant accounts of charities: procedure and interpretation](section/48.md)
+    - Duty to submit annual return
+      - [s. 48A Annual returns](section/48A.md)
+  - Chapter 7 Scottish charitable incorporated organisations
+    - Nature and constitution
+      - [s. 49 Scottish charitable incorporated organisations](section/49.md)
+      - [s. 50 Constitution and powers](section/50.md)
+      - [s. 51 General duty of members of SCIO](section/51.md)
+      - [s. 52 References in SCIO documents](section/52.md)
+      - [s. 53 Offences etc.](section/53.md)
+    - Creation of SCIO and entry in Register
+      - [s. 54 Application for creation of SCIO](section/54.md)
+      - [s. 55 Entry in Register](section/55.md)
+    - Conversion, amalgamation and transfer
+      - [s. 56 Conversion of charity which is a company or registered society: applications](section/56.md)
+      - [s. 57 Determination of application for conversion](section/57.md)
+      - [s. 58 Conversion: supplementary](section/58.md)
+      - [s. 59 Amalgamation of SCIOs](section/59.md)
+      - [s. 60 Amalgamation: supplementary](section/60.md)
+      - [s. 61 Transfer of SCIO’s undertaking](section/61.md)
+    - General
+      - [s. 62 Third parties](section/62.md)
+      - [s. 63 Amendment of constitution](section/63.md)
+      - [s. 64 Regulations relating to SCIOs](section/64.md)
+  - Chapter 7A Charity mergers
+    - [s. 64A Meaning of “charity merger” etc.](section/64A.md)
+    - [s. 64B Notification of charity mergers](section/64B.md)
+    - [s. 64C Record of charity mergers](section/64C.md)
+    - [s. 64D Legacies: effect of charity merger being notified](section/64D.md)
+    - [s. 64E Public access to the record of charity mergers](section/64E.md)
+  - Chapter 8 Religious charities
+    - [s. 65 Designated religious charities](section/65.md)
+  - Chapter 9 Charity trustees and senior managers
+    - General duties
+      - [s. 66 Charity trustees: general duties](section/66.md)
+    - Information about charity trustees
+      - [s. 66A Schedule of charity trustees](section/66A.md)
+    - Remuneration
+      - [s. 67 Remuneration for services](section/67.md)
+      - [s. 68 Remuneration: supplementary](section/68.md)
+      - [s. 68A Charity trustees’ indemnity insurance](section/68A.md)
+    - Disqualification
+      - [s. 69 Disqualification from being charity trustee](section/69.md)
+      - [s. 69A Disqualification: specified offences](section/69A.md)
+      - [s. 69B Disqualification from holding office with senior management functions](section/69B.md)
+      - [s. 70 Disqualification: supplementary](section/70.md)
+      - [s. 70ZA Record of persons removed from office](section/70ZA.md)
+      - [s. 70ZB Searching the record of removed persons](section/70ZB.md)
+    - Appointment
+      - [s. 70A Appointment of charity trustees](section/70A.md)
+  - Chapter 10 Decisions: notices, reviews and appeals
+    - Preliminary
+      - [s. 71 Decisions](section/71.md)
+    - Notice and effect of decisions
+      - [s. 72 Notice of decisions](section/72.md)
+      - [s. 73 Effect of decisions](section/73.md)
+    - Reviews
+      - [s. 74 Review of decisions](section/74.md)
+    - Appeals
+      - [s. 75 Scottish Charity Appeals Panel](section/75.md)
+      - [s. 76 Appeals to the First-tier Tribunal](section/76.md)
+      - [s. 77 Reconsideration of decision remitted to OSCR](section/77.md)
+      - [s. 78 Appeals to Court of Session](section/78.md)
+- Part 2 Fundraising for benevolent bodies
+  - Preliminary
+    - [s. 79 Interpretation of Part 2](section/79.md)
+    - [s. 80 Representation and solicitation](section/80.md)
+  - Control of fundraising
+    - [s. 81 Prohibition on professional fundraising without formal agreement](section/81.md)
+    - [s. 82 Prevention of unauthorised fundraising](section/82.md)
+    - [s. 83 Regulations about fundraising](section/83.md)
+  - Public benevolent collections
+    - [s. 84 Meaning of “public benevolent collection”](section/84.md)
+    - [s. 85 Regulation of public benevolent collections](section/85.md)
+    - [s. 86 Local authority consents](section/86.md)
+    - [s. 87 Designated national collectors](section/87.md)
+    - [s. 88 Appeals](section/88.md)
+    - [s. 89 Application of funds](section/89.md)
+    - [s. 90 Regulations relating to public benevolent collections](section/90.md)
+    - [s. 91 Collection of goods](section/91.md)
+    - [s. 92 Guidance on collections](section/92.md)
+- Part 3 Investment powers of trustees
+  - [s. 93 Extension of general powers of trustees](section/93.md)
+  - [s. 94 Exercise of power of investment](section/94.md)
+  - [s. 95 Amendments consequential on Part 3](section/95.md)
+- Part 4 General and supplementary
+  - [s. 96 Power of charity to participate in certain financial schemes](section/96.md)
+  - [s. 97 Financial assistance for benevolent bodies](section/97.md)
+  - [s. 98 Rate relief for registered community amateur sports clubs](section/98.md)
+  - [s. 99 Population of Register etc.](section/99.md)
+  - [s. 100 Notices, applications etc.](section/100.md)
+  - [s. 101 Offences by bodies corporate etc.](section/101.md)
+  - [s. 102 Ancillary provision](section/102.md)
+  - [s. 103 Orders, regulations and rules](section/103.md)
+  - [s. 104 Minor and consequential amendments and repeals](section/104.md)
+  - [s. 105 Meaning of “control” etc.](section/105.md)
+  - [s. 106 General interpretation](section/106.md)
+  - [s. 107 Short title and commencement](section/107.md)
+- SCHEDULE 1 The Scottish Charity Regulator
+  - [Sch. 1 para. 1 Membership](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Tenure and removal from office](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Chairing](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Chief executive and other staff](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Proceedings](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Delegation of powers](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Validity of proceedings and acts](schedule/1/paragraph/7.md)
+- SCHEDULE 2 Scottish Charity Appeals Panel
+  - [Sch. 2 para. 1 Panel members](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Tenure and removal from office](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Staff, property and services](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Rules of procedure](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Powers of trustees: consequential amendments
+  - [Sch. 3 para. 1 Judicial Factors Act 1849 (c. 51)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Trusts (Scotland) Act 1921 (c. 58)](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Trusts (Scotland) Act 1961 (c. 57)](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Trustee Investments Act 1961 (c. 62)](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 National Health Service (Scotland) Act 1978 (c. 29)](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Education (Scotland) Act 1980 (c. 44)](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73)](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40)](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Charities Act 1993 (c. 10)](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Minor and consequential amendments and repeals
+  - Part 1 Acts
+    - [Sch. 4 para. 1 Recreational Charities Act 1958 (c. 17)](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Local Government (Financial Provisions etc.) (Scotland) Act 1962 (c. 9)](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Sex Discrimination Act 1975 (c. 65)](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Education (Scotland) Act 1980 (c. 44)](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Civic Government (Scotland) Act 1982 (c. 45)](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Companies Act 1985 (c. 6)](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40)](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Charities Act 1992 (c. 41)](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Further and Higher Education (Scotland) Act 1992 (c. 37)](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10 Tribunals and Inquiries Act 1992 (c. 53)](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11 Local Government etc. (Scotland) Act 1994 (c. 39)](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12 Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13 Land Reform (Scotland) Act 2003 (asp 2)](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14 Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15 Protection of Children (Scotland) Act 2003 (asp 5)](schedule/4/paragraph/15.md)
+  - Part 2 Subordinate legislation
+    - [Sch. 4 para. 16 Arable Area Payments Regulations 1996 (S.I. 1996/3142)](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17 Water and Sewerage Charges (Exemption) (Scotland) Regulations 2002 (S.S.I 2002/167)](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18 National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004 (S.S.I. 2004/115)](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19 National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004 (S.S.I. 2004/116)](schedule/4/paragraph/19.md)
