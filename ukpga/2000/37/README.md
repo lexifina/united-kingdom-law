@@ -1,0 +1,441 @@
+# Countryside and Rights of Way Act 2000
+
+2000 c. 37. Enacted 2000-11-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
+
+Source: https://www.legislation.gov.uk/ukpga/2000/37/2026-03-06
+
+## Contents
+
+- Part I Access to the countryside
+  - Chapter I Right of access
+    - General
+      - [s. 1 Principal definitions for Part I.](section/1.md)
+      - [s. 2 Rights of public in relation to access land.](section/2.md)
+      - [s. 3 Power to extend to coastal land: Wales.](section/3.md)
+      - [s. 3A Power to extend to coastal land etc: England](section/3A.md)
+    - Maps
+      - [s. 4 Duty to prepare maps.](section/4.md)
+      - [s. 5 Publication of draft maps.](section/5.md)
+      - [s. 6 Appeal against map after confirmation.](section/6.md)
+      - [s. 7 Appeal procedure.](section/7.md)
+      - [s. 8 Power of Secretary of State or Assembly to delegate functions relating to appeals.](section/8.md)
+      - [s. 9 Maps in conclusive form.](section/9.md)
+      - [s. 9A Review of maps (England)](section/9A.md)
+      - [s. 10 Review of maps (Wales).](section/10.md)
+      - [s. 11 Regulations relating to maps.](section/11.md)
+    - Rights and liabilities of owners and occupiers
+      - [s. 12 Effect of right of access on rights and liabilities of owners.](section/12.md)
+      - [s. 13 Occupiers’ liability.](section/13.md)
+      - [s. 14 Offence of displaying on access land notices deterring public use.](section/14.md)
+    - Access under other enactments or by dedication
+      - [s. 15 Rights of access under other enactments.](section/15.md)
+      - [s. 16 Dedication of land as access land.](section/16.md)
+    - Miscellaneous provisions relating to right of access
+      - [s. 17 Byelaws.](section/17.md)
+      - [s. 18 Wardens.](section/18.md)
+      - [s. 19 Notices indicating boundaries, etc.](section/19.md)
+      - [s. 20 Codes of conduct and other information.](section/20.md)
+  - Chapter II Exclusion or restriction of access
+    - [s. 21 Interpretation of Chapter II.](section/21.md)
+    - [s. 22 Exclusion or restriction at discretion of owner and others.](section/22.md)
+    - [s. 23 Restrictions on dogs at discretion of owner.](section/23.md)
+    - [s. 24 Land management.](section/24.md)
+    - [s. 25 Avoidance of risk of fire or of danger to the public.](section/25.md)
+    - [s. 25A Salt marshes and flats](section/25A.md)
+    - [s. 26 Nature conservation and heritage preservation.](section/26.md)
+    - [s. 27 Directions by relevant authority: general.](section/27.md)
+    - [s. 28 Defence or national security.](section/28.md)
+    - [s. 29 Reference by relevant advisory body.](section/29.md)
+    - [s. 30 Appeal by person interested in land.](section/30.md)
+    - [s. 31 Exclusion or restriction of access in case of emergency.](section/31.md)
+    - [s. 32 Regulations relating to exclusion or restriction of access.](section/32.md)
+    - [s. 33 Guidance by countryside bodies to National Park authorities.](section/33.md)
+  - Chapter III Means of access
+    - [s. 34 Interpretation of Chapter III.](section/34.md)
+    - [s. 35 Agreements with respect to means of access.](section/35.md)
+    - [s. 36 Failure to comply with agreement.](section/36.md)
+    - [s. 37 Provision of access by access authority in absence of agreement.](section/37.md)
+    - [s. 38 Appeals relating to notices.](section/38.md)
+    - [s. 39 Order to remove obstruction.](section/39.md)
+  - Chapter IV General
+    - [s. 40 Powers of entry for purposes of Part I.](section/40.md)
+    - [s. 41 Compensation relating to powers under s. 40.](section/41.md)
+    - [s. 42 References to public places in existing enactments.](section/42.md)
+    - [s. 43 Crown application of Part I.](section/43.md)
+    - [s. 44 Orders and regulations under Part I.](section/44.md)
+    - [s. 45 Interpretation of Part I.](section/45.md)
+    - [s. 46 Repeal of previous legislation, and amendments relating to Part I.](section/46.md)
+- Part II Public rights of way and road traffic
+  - Public rights of way and definitive maps and statements
+    - [s. 47 Redesignation of roads used as public paths.](section/47.md)
+    - [s. 48 Restricted byway rights.](section/48.md)
+    - [s. 49 Provisions supplementary to ss. 47 and 48.](section/49.md)
+    - [s. 50 Private rights over restricted byways.](section/50.md)
+    - [s. 51 Amendments relating to definitive maps and statements and restricted byways.](section/51.md)
+    - [s. 52 Restricted byways: power to amend existing legislation.](section/52.md)
+    - [s. 53 Extinguishment of unrecorded rights of way: England.](section/53.md)
+    - [s. 54 Excepted highways and rights of way: England.](section/54.md)
+    - [s. 55 Bridleway rights over ways shown as bridleways: England.](section/55.md)
+    - [s. 56 Cut-off date for extinguishment etc: England.](section/56.md)
+  - Creation, stopping up and diversion of highways
+    - [s. 57 Creation, stopping up and diversion of highways.](section/57.md)
+    - [s. 58 Application for path creation order for purposes of Part I.](section/58.md)
+    - [s. 59 Effect of Part I on powers to stop up or divert highways.](section/59.md)
+  - Rights of way improvement plans
+    - [s. 60 Rights of way improvement plans.](section/60.md)
+    - [s. 61 Rights of way improvement plans: supplemental.](section/61.md)
+    - [s. 62 Application of ss. 60 and 61 to inner London.](section/62.md)
+  - Removal of obstructions from highways
+    - [s. 63 Enforcement of duty to prevent obstructions.](section/63.md)
+    - [s. 64 Power to order offender to remove obstruction.](section/64.md)
+    - [s. 65 Overhanging vegetation obstructing horse-riders.](section/65.md)
+  - Miscellaneous
+    - [s. 66 Making of traffic regulation orders for purposes of conserving natural beauty, etc.](section/66.md)
+    - [s. 67 Prohibition on driving mechanically propelled vehicles elsewhere than on roads.](section/67.md)
+    - [s. 68 Vehicular access across common land etc.](section/68.md)
+    - [s. 69 Erection or improvement of stiles, etc.](section/69.md)
+    - [s. 70 Minor amendments.](section/70.md)
+    - [s. 71 Reports on functions relating to rights of way.](section/71.md)
+    - [s. 72 Interpretation of Part II.](section/72.md)
+- Part III Nature conservation and wildlife protection
+  - The Nature Conservancy Council for England
+    - [s. 73 The Nature Conservancy Council for England: change of name.](section/73.md)
+  - Biological diversity
+    - [s. 74 Conservation of biological diversity.](section/74.md)
+  - Sites of special scientific interest
+    - [s. 75 Sites of special scientific interest.](section/75.md)
+    - [s. 76 Consequential amendments, transitional provisions and savings relating to s. 75.](section/76.md)
+  - Ramsar sites
+    - [s. 77 Ramsar sites.](section/77.md)
+  - Limestone pavement orders
+    - [s. 78 Limestone pavement orders: offence.](section/78.md)
+  - Payments under certain agreements
+    - [s. 79 Payments under agreements under s.16 of 1949 Act or s.15 of 1968 Act.](section/79.md)
+  - Powers of entry
+    - [s. 80 Powers of entry.](section/80.md)
+  - Enforcement of wildlife legislation
+    - [s. 81 Enforcement of wildlife legislation.](section/81.md)
+- Part IV Areas of outstanding natural beauty
+  - [s. 82 Designation of areas.](section/82.md)
+  - [s. 83 Procedure for designation orders.](section/83.md)
+  - [s. 84 Functions of certain bodies in relation to areas of outstanding natural beauty.](section/84.md)
+  - [s. 85 General duty of public bodies etc.](section/85.md)
+  - [s. 86 Establishment of conservation boards.](section/86.md)
+  - [s. 87 General purposes and powers.](section/87.md)
+  - [s. 88 Orders establishing conservation boards.](section/88.md)
+  - [s. 89 Management plans.](section/89.md)
+  - [s. 90 Supplementary provisions relating to management plans.](section/90.md)
+  - [s. 90A Duty of public bodies etc in relation to management plans](section/90A.md)
+  - [s. 91 Grants to conservation boards.](section/91.md)
+  - [s. 91A Regulations under Part 4](section/91A.md)
+  - [s. 92 Interpretation of Part IV and supplementary provision.](section/92.md)
+  - [s. 93 Consequential amendments and transitional provisions.](section/93.md)
+- Part V Miscellaneous and supplementary
+  - Local access forums
+    - [s. 94 Local access forums.](section/94.md)
+    - [s. 95 Local access forums: supplementary.](section/95.md)
+  - Management agreements
+    - [s. 96 Management agreements.](section/96.md)
+  - Norfolk and Suffolk Broads
+    - [s. 97 Duty of public bodies etc. regarding the Broads.](section/97.md)
+  - Town and village greens
+    - [s. 98 Registration of town and village greens.](section/98.md)
+  - Supplementary
+    - [s. 99 Wales.](section/99.md)
+    - [s. 100 Isles of Scilly.](section/100.md)
+    - [s. 101 Expenses.](section/101.md)
+    - [s. 102 Repeals.](section/102.md)
+    - [s. 103 Commencement.](section/103.md)
+    - [s. 104 Interpretation, short title and extent.](section/104.md)
+- SCHEDULE 1 Excepted land for purposes of Part I
+  - Part I Excepted land
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 13A](schedule/1/paragraph/13A.md)
+    - [Sch. 1 para. 13B](schedule/1/paragraph/13B.md)
+    - [Sch. 1 para. 13C](schedule/1/paragraph/13C.md)
+    - [Sch. 1 para. 13D](schedule/1/paragraph/13D.md)
+  - Part II Supplementary provisions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 14A](schedule/1/paragraph/14A.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Restrictions to be observed by persons exercising right of access
+  - General restrictions
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+    - [Sch. 2 para. 6B](schedule/2/paragraph/6B.md)
+  - Removal or relaxation of restrictions
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Dedicated land
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Delegation of appellate functions
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appointments
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Powers of appointed person
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Holding of local inquiries and other hearings by appointed persons
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Local inquiries under this Schedule: evidence and costs
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Revocation of appointments and making of new appointments
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Certain acts and omissions of appointed person to be treated as those of appointing authority
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Minor and consequential amendments relating to Part I
+  - Law of Property Act 1925 (c. 20)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Forestry Act 1967 (c. 10)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Agriculture Act 1967 (c. 22)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Local Government Act 1974 (c. 7)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Definitive maps and statements and restricted byways
+  - Part I Amendments of Part III of Wildlife and Countryside Act 1981
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Part II Amendments of other Acts
+    - National Parks and Access to the Countryside Act 1949 (c. 97)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Countryside Act 1968 (c. 41)
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Highways Act 1980 (c. 66)
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Criminal Justice and Public Order Act 1994 (c. 33)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+- SCHEDULE 6 Amendments relating to creation, stopping up and diversion of highways
+  - Part I Amendments of Highways Act 1980
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+  - Part II Consequential amendments of other Acts
+    - Norfolk and Suffolk Broads Act 1988 (c. 4)
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+- SCHEDULE 7 Driving of mechanically propelled vehicles elsewhere than on roads
+  - National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Chronically Sick and Disabled Persons Act 1970 (c. 44)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Road Traffic Act 1988 (c. 52)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Amendments consequential on change of name of Nature Conservancy Council for England
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+- SCHEDULE 9 Sites of special scientific interest
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Consequential amendments relating to sites of special scientific interest
+  - Part I Amendments of Wildlife and Countryside Act 1981
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Part II Other amendments
+    - Harbours Act 1964 (c. 40)
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Conservation of Seals Act 1970 (c. 30)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Highways Act 1980 (c. 66)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Channel Tunnel Act 1987 (c. 53)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Town and Country Planning Act 1990 (c. 8)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Environmental Protection Act 1990 (c. 43)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Channel Tunnel Rail Link Act 1996 (c. 61)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 Transitional provisions and savings relating to sites of special scientific interest
+  - Interpretation
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Notifications given under old section 28
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Modification of operation of new section 28
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Modification of operation of sections 28A to 28C
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Modification of operation of section 28E
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Modification of operation of section 28F
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Modification of operation of section 28H
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Section 29
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - Compensation and grants
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Offences and restoration orders
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Powers of entry
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+  - Service of notices
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+- SCHEDULE 12 Amendments relating to Part I of Wildlife and Countryside Act 1981
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+  - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+  - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+- SCHEDULE 13 Areas of outstanding natural beauty: conservation boards
+  - Interpretation
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Status and constitution of conservation boards
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Local authority members
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Parish members
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Members appointed by the Secretary of State or the National Assembly for Wales
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Chairman and deputy chairman
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Audit
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+- SCHEDULE 14 Supplemental powers of conservation boards
+  - Interpretation
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Power to acquire land
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Power to dispose of land
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Provisions as to charges
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+- SCHEDULE 15 Areas of outstanding natural beauty: consequential amendments and transitional provisions
+  - Part I Consequential amendments
+    - National Parks and Access to the Countryside Act 1949 (c. 97)
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Harbours Act 1964 (c. 40)
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Highways Act 1980 (c. 66)
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Derelict Land Act 1982 (c. 42)
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Road Traffic Regulation Act 1984 (c. 27)
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Housing Act 1985 (c. 68)
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - Town and Country Planning Act 1990 (c. 8)
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - Environmental Protection Act 1990 (c. 43)
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - Water Industry Act 1991 (c. 56)
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - Environment Act 1995 (c. 25)
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - Housing Act 1996 (c. 52)
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - Part II Transitional provisions
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+- SCHEDULE 16 Repeals
+  - Part I Access to the countryside
+  - Part II Public rights of way and road traffic
+  - Part III Sites of special scientific interest
+  - Part IV Wildlife
+  - Part V Areas of outstanding natural beauty
+  - Part VI Other
