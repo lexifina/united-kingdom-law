@@ -1,0 +1,520 @@
+# Social Security (Scotland) Act 2018
+
+asp/2018/9. Enacted 2018-06-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-15, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 97 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2018/9
+
+Source: https://www.legislation.gov.uk/asp/2018/9/2026-03-15
+
+## Contents
+
+- PART 1 TENETS AND OVERSIGHT
+  - Principles
+    - [s. 1 The Scottish social security principles](section/1.md)
+    - [s. 2 Effect of the principles](section/2.md)
+  - Promotion of take-up
+    - [s. 3 Scottish Ministers’ duty to promote take-up](section/3.md)
+    - [s. 4 Recognition of importance of inclusive communication](section/4.md)
+    - [s. 5 Recognition of importance of accessible information](section/5.md)
+    - [s. 6 Recognition of importance of independent information, advice and advocacy](section/6.md)
+    - [s. 7 Recognition of importance of available data](section/7.md)
+    - [s. 8 Strategy to promote take-up](section/8.md)
+    - [s. 9 Further provision about preparing strategies to promote take-up](section/9.md)
+  - Advocacy
+    - [s. 10 Right to advocacy](section/10.md)
+    - [s. 11 Advocacy service standards](section/11.md)
+  - Assessments
+    - [s. 12 Restriction on private-sector involvement in assessments](section/12.md)
+    - [s. 13 Assessors to be suitably qualified](section/13.md)
+    - [s. 14 Assessments only to be required where necessary](section/14.md)
+  - Charter
+    - [s. 15 The Scottish social security charter](section/15.md)
+    - [s. 16 Preparing the first charter](section/16.md)
+    - [s. 17 Publication of the charter](section/17.md)
+    - [s. 18 Reviewing the charter](section/18.md)
+    - [s. 19 Effect of the charter](section/19.md)
+  - Accountability
+    - [s. 20 Annual report](section/20.md)
+    - [s. 21 Scottish Commission on Social Security](section/21.md)
+    - [s. 22 Commission functions](section/22.md)
+  - Interpretation
+    - [s. 23 Meaning of “Scottish social security system”](section/23.md)
+- PART 2 GIVING OF ASSISTANCE BY SCOTTISH MINISTERS
+  - CHAPTER 1 ASSISTANCE TO BE GIVEN ACCORDING TO DETERMINATION OF ENTITLEMENT
+    - [s. 24 Duty to give assistance](section/24.md)
+    - [s. 25 Meaning of “determination of entitlement”](section/25.md)
+    - [s. 26 Individual’s right to stop receiving assistance](section/26.md)
+    - [s. 27 Later determination supersedes earlier](section/27.md)
+  - CHAPTER 2 TYPES OF ASSISTANCE TO BE GIVEN
+    - [s. 28 Carer’s assistance](section/28.md)
+    - [s. 29 Cold-spell heating assistance](section/29.md)
+    - [s. 30 Winter heating assistance](section/30.md)
+    - [s. 31 Disability assistance](section/31.md)
+    - [s. 32 Early years assistance](section/32.md)
+    - [s. 33 Employment-injury assistance](section/33.md)
+    - [s. 34 Funeral expense assistance](section/34.md)
+    - [s. 35 Housing assistance](section/35.md)
+    - [s. 36 Short-term assistance](section/36.md)
+  - CHAPTER 3 DETERMINING ENTITLEMENT
+    - Determination by the Scottish Ministers
+      - [s. 37 Duty to make determination](section/37.md)
+      - [s. 38 Application for assistance](section/38.md)
+      - [s. 39 Withdrawal of application](section/39.md)
+      - [s. 40 Notice of determination](section/40.md)
+    - Re-determination by the Scottish Ministers
+      - [s. 41 Right to request re-determination](section/41.md)
+      - [s. 42 Late request for re-determination](section/42.md)
+      - [s. 43 Duty to re-determine](section/43.md)
+      - [s. 44 Notice of re-determination](section/44.md)
+      - [s. 45 Notice where re-determination not made timeously](section/45.md)
+    - Appeal against the Scottish Ministers’ determination
+      - [s. 46 Right to appeal to First-tier Tribunal against determination](section/46.md)
+      - [s. 47 Initiating an appeal](section/47.md)
+      - [s. 48 Deadline for appealing](section/48.md)
+      - [s. 49 First-tier Tribunal’s power to determine entitlement](section/49.md)
+    - The determination of entitlement
+      - [s. 50 Decisions comprising determination](section/50.md)
+      - [s. 51 Determination on basis of ongoing entitlement](section/51.md)
+      - [s. 52 Determination without application](section/52.md)
+    - Coronavirus: relaxation of deadlines
+      - [s. 52A Re-determination and appeal deadlines](section/52A.md)
+      - [s. 52B Applications for assistance](section/52B.md)
+  - CHAPTER 4 FURTHER PROVISION ABOUT DETERMINING ENTITLEMENT
+    - ...
+      - [s. 53 Duty to inform about possible eligibility](section/53.md)
+    - Obtaining information to make determination
+      - [s. 54 Obligation to provide information on request](section/54.md)
+      - [s. 55 Requirement to justify assessment requests](section/55.md)
+      - [s. 56 Duty to notify change of circumstances](section/56.md)
+      - [s. 57 Lifting of duty to notify change of circumstances](section/57.md)
+    - Appointees
+      - [s. 58 Appointment of person to act on behalf of individual](section/58.md)
+    - Support during discussions and assessments
+      - [s. 59 Right to support](section/59.md)
+    - Access to reports
+      - [s. 60 Right to reports used in determining entitlement](section/60.md)
+    - Right to appeal Scottish Ministers’ process decisions
+      - [s. 61 Appeal to First-tier Tribunal against process decisions](section/61.md)
+    - Presumption about when information is received
+      - [s. 62 Presumption for purposes of sections 41, 48 and 61](section/62.md)
+    - Non-disclosure of health information
+      - [s. 62A Non-disclosure of information about individual’s health](section/62A.md)
+  - CHAPTER 5 RECOVERY OF VALUE OF ASSISTANCE
+    - Assistance given in error
+      - [s. 63 Liability for assistance given in error](section/63.md)
+      - [s. 64 Exclusion from liability](section/64.md)
+      - [s. 65 Consideration for debtor’s circumstances](section/65.md)
+      - [s. 66 Prescription of liability](section/66.md)
+      - [s. 67 Exclusion of other rights of recovery](section/67.md)
+      - [s. 68 First-tier Tribunal’s jurisdiction](section/68.md)
+      - [s. 69 Liability where assistance given for period after death](section/69.md)
+    - Funeral expense assistance
+      - [s. 70 Liability of deceased’s estate](section/70.md)
+  - CHAPTER 6 OFFENCES
+    - ...
+      - [s. 71 Offence of trying to obtain assistance by deceit](section/71.md)
+      - [s. 72 Offence of failing to notify](section/72.md)
+      - [s. 73 Offence of causing a failure to notify](section/73.md)
+      - [s. 74 Individual culpability for offending by an organisation](section/74.md)
+    - ...
+      - [s. 75 Power to make provision about investigations](section/75.md)
+      - [s. 76 Code of practice on investigations](section/76.md)
+  - ...
+    - [s. 77 Duty to consider effects of inflation](section/77.md)
+    - [s. 78 Duty to uprate carer’s, disability, employment-injury and funeral expense assistance](section/78.md)
+- PART 3 SUPPLEMENTING ASSISTANCE UNDER OTHER ENACTMENTS
+  - Top up of reserved benefits
+    - [s. 79 Power to provide for top up](section/79.md)
+    - [s. 80 Restrictions on power](section/80.md)
+    - [s. 80A Default provision in respect of offences](section/80A.md)
+  - Carer’s allowance: temporary provision
+    - [s. 81 Carer’s allowance supplement](section/81.md)
+    - [s. 82 Power to repeal temporary provision](section/82.md)
+- PART 4 FURTHER PROVISION IN CONNECTION WITH PARTS 2 AND 3
+  - Inalienability of assistance
+    - [s. 83 No assignation or charge](section/83.md)
+    - [s. 84 Retention of right to assistance on bankruptcy etc.](section/84.md)
+  - Investigations
+    - [s. 84A Power to make provision about investigations](section/84A.md)
+    - [s. 84B Code of practice on investigations](section/84B.md)
+  - Identifying possible eligibility
+    - [s. 84C Duty to inform about possible eligibility](section/84C.md)
+  - Information-sharing
+    - [s. 85 Information-sharing](section/85.md)
+  - Appointees
+    - [s. 85A Appointment of person to act on behalf of child](section/85A.md)
+    - [s. 85B Appointment of person to act in other circumstances](section/85B.md)
+    - [s. 85Cn1 Guidelines for decisions about appointees](section/85Cn1.md)
+    - [s. 85E Guidance for appointees](section/85E.md)
+  - Agency arrangements
+    - [s. 86 Agency arrangements for housing assistance](section/86.md)
+  - Uprating for inflation
+    - [s. 86A Duty to consider effects of inflation](section/86A.md)
+    - [s. 86B Duty to uprate assistance](section/86B.md)
+  - Monitoring of appeal process
+    - [s. 87 Report to the Scottish Parliament on exercise of right to appeal](section/87.md)
+  - Assistance given in error: First-tier Tribunal’s jurisdiction
+    - [s. 87A Power to transfer jurisdiction from sheriff to tribunal](section/87A.md)
+  - Information for audit of social security system
+    - [s. 87B Obtaining information for audit](section/87B.md)
+    - [s. 87C Right to seek withdrawal of information request](section/87C.md)
+    - [s. 87D Right to support for response to request](section/87D.md)
+    - [s. 87E Right to advocacy](section/87E.md)
+- PART 5 DISCRETIONARY HOUSING PAYMENTS
+  - [s. 88 Local authorities’ power to make payments](section/88.md)
+  - [s. 89 Restrictions on power to make payments](section/89.md)
+  - [s. 90 Local authorities’ duty to provide information about payments](section/90.md)
+  - [s. 91 Guidance](section/91.md)
+  - [s. 92 Local authorities need not make payments if not funded](section/92.md)
+  - [s. 93 Power to modify section 88](section/93.md)
+- Part 5A Care experience assistance
+  - [s. 93A Scheme to provide care experience assistance](section/93A.md)
+- PART 6 UNIVERSAL CREDIT: PAYMENT TO JOINT CLAIMANTS
+  - [s. 94 Universal credit: payment to joint claimants](section/94.md)
+- PART 7 FINAL PROVISIONS
+  - [s. 95 Ancillary provision](section/95.md)
+  - [s. 96 Regulation-making powers](section/96.md)
+  - [s. 97 Further procedure for regulations](section/97.md)
+  - [s. 98 Temporary disapplication of section 97](section/98.md)
+  - [s. 99 Commencement](section/99.md)
+  - [s. 100 Short title](section/100.md)
+- SCHEDULE 1 SCOTTISH COMMISSION ON SOCIAL SECURITY
+  - PART 1 OPERATION AND COMPOSITION OF THE COMMISSION
+    - CHAPTER 1 STATUS
+      - Independence
+        - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - Exclusion of Crown status
+        - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - CHAPTER 2 POWERS
+      - General powers
+        - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - Access to information
+        - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - CHAPTER 3 PROCEDURE
+      - Committees
+        - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - Regulation of procedure
+        - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - Authority to perform functions
+        - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - Validity of things done
+        - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - CHAPTER 4 FINANCE
+      - Remuneration and expenses of members
+        - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - Expenses of non-members
+        - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - Resources
+        - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - ...
+        - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - CHAPTER 5 MEMBERSHIP
+      - Number of members
+        - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - Appointment of members
+        - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - Tenure and other terms and conditions
+        - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - Early termination
+        - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - Disqualification grounds
+        - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - PART 2 APPLICATION OF LEGISLATION RELATING TO PUBLIC BODIES
+    - Ethical Standards in Public Life etc. (Scotland) Act 2000
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Freedom of Information (Scotland) Act 2002
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Public Appointments and Public Bodies etc. (Scotland) Act 2003
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Public Services Reform (Scotland) Act 2010
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 CARER’S ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON BEING OR HAVING BEEN A CARER
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Carer’s other activities
+        - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - Multiple carers
+        - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - Residence and presence
+        - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - Age
+        - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - Financial circumstances
+        - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - Application within specified period
+        - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - Meeting liabilities
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Restriction on giving assistance in a form other than money
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Power to set value of assistance as nil
+      - [Sch. 2 para. 11A](schedule/2/paragraph/11A.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Interpretation
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+- SCHEDULE 3 COLD-SPELL HEATING ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON LIVING IN AN AREA DURING A COLD SPELL
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Age
+        - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - Financial circumstances
+        - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - Application within specified period
+        - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - Domestic circumstances and age
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Restriction on giving assistance in a form other than money
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Interpretation
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 WINTER HEATING ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - Residence and presence
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Age
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Financial circumstances
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Receipt of, or eligibility for, other types of State assistance
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Application within specified period
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - Domestic circumstances and age
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Financial circumstances
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Receipt of, or eligibility for, other types of State assistance
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Restriction on giving assistance in a form other than money
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Interpretation
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+- SCHEDULE 5 DISABILITY ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON HAVING, OR HAVING HAD, A DISABILITY
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Nature and extent of disability and needs
+        - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+      - Residence and presence
+        - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+      - Age
+        - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - Financial circumstances
+        - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+      - Application within specified period
+        - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - CHAPTER 3 SPECIAL RULES FOR TERMINAL ILLNESS CASES
+      - No minimum period
+        - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+      - No requirement for assessment
+        - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - Eligibility from date of application
+        - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - Entitlement to maximum amount
+        - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - CHAPTER 1 VALUE
+      - Nature and extent of disability
+        - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+      - Age
+        - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+      - Power to set value of assistance as nil
+        - [Sch. 5 para. 14A](schedule/5/paragraph/14A.md)
+    - CHAPTER 2 FORM
+      - Meeting liabilities
+        - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+      - Payment to someone else
+        - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - Restriction on giving assistance in a form other than money
+        - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+      - Restriction on lump sums
+        - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Interpretation
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+- SCHEDULE 6 EARLY YEARS ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON HAVING, OR EXPECTING TO HAVE, RESPONSIBILITY FOR A CHILD
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Limit to number of people entitled
+        - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - Residence and presence
+        - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - Financial circumstances
+        - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - Application within specified period
+        - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - Restriction on giving assistance in a form other than money
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - Interpretation
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 EMPLOYMENT-INJURY ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON BEING INJURED OR CONTRACTING A DISEASE AT WORK
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Place where injury suffered or disease contracted
+        - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - Residence and presence
+        - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - Age
+        - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - Financial circumstances
+        - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - Application within specified period
+        - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - CHAPTER 1 VALUE
+      - Nature of injury or disease
+        - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - Age
+        - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - Power to set value of assistance as nil
+        - [Sch. 7 para. 11A](schedule/7/paragraph/11A.md)
+    - CHAPTER 2 FORM
+      - Meeting liabilities
+        - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - Restriction on giving assistance in a form other than money
+        - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - Restriction on lump sums
+        - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Interpretation
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+- SCHEDULE 8 FUNERAL EXPENSE ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON BEING RESPONSIBLE FOR FUNERAL EXPENSES
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Location of the funeral
+        - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - Relationship with the deceased
+        - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - Value of deceased’s estate
+        - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - Residence and presence
+        - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - Financial circumstances
+        - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - Application within specified period
+        - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Restriction on giving assistance in a form other than money
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Interpretation
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+- SCHEDULE 9 HOUSING ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - CHAPTER 1 ELIGIBILITY IS TO DEPEND ON BEING TREATED IN CERTAIN WAYS UNDER THE WELFARE REFORM ACT 2012 OR OTHERWISE NEEDING ASSISTANCE WITH HOUSING COSTS
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - CHAPTER 2 FURTHER CRITERIA
+      - Participation in education
+        - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - Residence and presence
+        - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - Age
+        - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+      - Financial circumstances
+        - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - Receipt of, or eligibility for, other types of State assistance
+        - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - Application within specified period
+        - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - CHAPTER 1 VALUE
+      - Cases where paragraph 1(3) conditions met
+        - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - Cases where paragraph 1(3) conditions not met
+        - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - Power to set value of assistance as nil
+        - [Sch. 9 para. 10A](schedule/9/paragraph/10A.md)
+    - CHAPTER 2 FORM
+      - Meeting liabilities
+        - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+      - Restriction on giving assistance in a form other than money
+        - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Interpretation
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+- SCHEDULE 10 SHORT-TERM ASSISTANCE REGULATIONS
+  - PART 1 ELIGIBILITY
+    - Entitlement to other assistance being reviewed
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - PART 2 ASSISTANCE TO BE GIVEN
+    - Value and form of assistance where entitlement to other assistance under review
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - PART 3 FINAL PROVISIONS
+    - Generality of enabling power unaffected
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Interpretation
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+- SCHEDULE 11 Suspension of assistance
+  - Circumstances in which assistance may be suspended
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Safeguards: requirement to consider financial circumstances before suspension
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Safeguards: right to review suspension
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Safeguards: information to be given following suspension
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Safeguards: effect of suspension ending
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Generality of enabling power unaffected
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Interpretation
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
