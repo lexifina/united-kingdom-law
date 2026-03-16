@@ -1,0 +1,188 @@
+# Land Reform (Scotland) Act 2025
+
+asp/2025/15. Enacted 2025-12-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2025/15
+
+Source: https://www.legislation.gov.uk/asp/2025/15/2026-03-16
+
+## Contents
+
+- Part 1 Land reform
+  - Chapter 1 Large land holdings: Management and transfer of ownership
+    - [s. 1 Community-engagement obligations in relation to large land holding](section/1.md)
+    - [s. 2 Community right to buy: registration of interest in large land holding](section/2.md)
+    - [s. 3 Modifications in connection with section 2](section/3.md)
+    - [s. 4 Lotting of large land holding](section/4.md)
+    - [s. 5 Modifications in connection with section 4](section/5.md)
+    - [s. 6 Modifications in connection with sections 2 and 4](section/6.md)
+    - [s. 7 Establishment of the Land and Communities Commissioner](section/7.md)
+  - Chapter 2 Functions of the Land Commissioners
+    - [s. 8 Functions of the Land Commissioners: natural capital markets](section/8.md)
+    - [s. 9 Functions of the Land Commissioners: further provisions](section/9.md)
+  - Chapter 3 Review of part
+    - [s. 10 Review of Part 1](section/10.md)
+- Part 2 Leasing land
+  - Chapter 1 Model leases
+    - [s. 11 Duty to publish model lease for environmental purposes](section/11.md)
+    - [s. 12 Duty to publish model lease for hutting](section/12.md)
+  - Chapter 2 Small landholdings
+    - [s. 13 Small landholdings](section/13.md)
+    - [s. 14 Extension of Tenant Farming Commissioner’s functions](section/14.md)
+  - Chapter 3 Agricultural holdings
+    - Tenant’s right to buy
+      - [s. 15 Registration of interest and right to buy](section/15.md)
+    - Assignation in relation to 1991 Act tenancies
+      - [s. 16 Assignation of tenancy](section/16.md)
+    - Assignation in relation to 2003 Act tenancies
+      - [s. 17 Assignation of limited duration tenancy](section/17.md)
+      - [s. 18 Assignation of modern limited duration tenancy](section/18.md)
+      - [s. 19 Assignation of repairing tenancy](section/19.md)
+    - Resumption
+      - [s. 20 Resumption in relation to 1991 Act tenancies](section/20.md)
+      - [s. 21 Resumption in respect of limited duration tenancies and repairing tenancies](section/21.md)
+      - [s. 22 Compensation for disturbance on resumption](section/22.md)
+    - Compensation on termination and resumption
+      - [s. 23 Power to make provision about compensation on termination](section/23.md)
+      - [s. 24 Power to make provision about compensation on resumption](section/24.md)
+    - Compensation for improvements
+      - [s. 25 Compensation for improvements](section/25.md)
+    - Use of agricultural land: diversification
+      - [s. 26 Notice of and objection to diversification](section/26.md)
+      - [s. 27 Tenant extension notice](section/27.md)
+      - [s. 28 Determinations by Land Court](section/28.md)
+      - [s. 29 Compensation arising as a result of diversification](section/29.md)
+    - Tenant Farming Commissioner: codes of practice
+      - [s. 30 Resumption and termination of relevant tenancies and small landholdings](section/30.md)
+      - [s. 31 Use of land for non-agricultural purposes](section/31.md)
+    - Game damage etc.
+      - [s. 32 Compensation for damage by game etc.](section/32.md)
+    - Introduction of standard procedure for claiming compensation
+      - [s. 33 Standard claim procedure](section/33.md)
+      - [s. 34 Interest payable on compensation](section/34.md)
+    - Rent review
+      - [s. 35 Rent review: 1991 Act tenancies](section/35.md)
+      - [s. 36 Rent review: limited duration tenancies](section/36.md)
+      - [s. 37 Rent review: repairing tenancies](section/37.md)
+    - Rules of good estate management and husbandry
+      - [s. 38 Rules of good estate management](section/38.md)
+      - [s. 39 Rules of good husbandry](section/39.md)
+    - Succession in relation to 1991 Act tenancies
+      - [s. 40 Notice requirements: lease of 1991 Act holding](section/40.md)
+      - [s. 41 Landlord’s objection to legatee or acquirer on intestacy: near relatives and other persons](section/41.md)
+      - [s. 42 Legatee or acquirer on intestacy: supplementary provision](section/42.md)
+    - Succession in relation to 2003 Act tenancies
+      - [s. 43 Succession to tenancy](section/43.md)
+- Part 3 Final provisions
+  - [s. 44 Ancillary provision](section/44.md)
+  - [s. 45 Regulation-making powers](section/45.md)
+  - [s. 46 Further procedure for regulations under sections 23 and 24](section/46.md)
+  - [s. 47 Commencement](section/47.md)
+  - [s. 48 Short title](section/48.md)
+- Schedule 1 Meaning of connected person
+- Schedule 2 Small landholdings
+  - Part 1 Small landholdings and small landholders
+    - [Sch. 2 para. 1 Leases of small landholdings](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Persons who may be small landholders](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Land which may not be, or be part of, a small landholding](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Size of small landholding](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Duration of lease of small landholding](schedule/2/paragraph/5.md)
+  - Part 2 Rent
+    - [Sch. 2 para. 6 Rent](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Alteration of rent by agreement](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Application to Land Court to fix the rent](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Land Court’s power to fix the rent in connection with a ruling on diversification](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Land Court’s powers in respect of rent arrears](schedule/2/paragraph/10.md)
+  - Part 3 Use of small landholding
+    - [Sch. 2 para. 11 Conditions of let](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Dwelling-houses](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Landlord’s right of access](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14 Landlord’s right to use water rising on holding](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Compensation for damage caused by game or game management](schedule/2/paragraph/15.md)
+  - Part 4 Diversification
+    - [Sch. 2 para. 16 Diversification agreement](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Notice of diversification](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Request by landlord for information about proposed diversification](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19 Landlord’s agreement or objection to notice of diversification](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Negotiation of diversification agreement](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Withdrawal of objection](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22 Withdrawal or modification of conditions](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23 Determination of Land Court in relation to objection to diversification](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24 Diversification agreement entered into during proceedings under paragraph 23](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25 Application by landholder to Land Court to remove conditions](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26 Use of land other than for cultivation](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27 Interpretation of Part](schedule/2/paragraph/27.md)
+  - Part 5 Disposal of holding by small landholder
+    - Chapter 1 Renunciation
+      - [Sch. 2 para. 28 Renunciation of tenancy by small landholder](schedule/2/paragraph/28.md)
+    - Chapter 2 Assignation
+      - [Sch. 2 para. 29 Ability to assign](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30 Landlord’s objection to assignation](schedule/2/paragraph/30.md)
+    - Chapter 3 Succession
+      - [Sch. 2 para. 31 Bequest of holding](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32 Intestate succession to holding](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33 Landlord’s objection to successor: near relatives](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34 Landlord’s objection to successor: other persons](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35 Landlord’s objection to successor: right to temporary occupation](schedule/2/paragraph/35.md)
+  - Part 6 Removal of small landholder
+    - [Sch. 2 para. 36 Security of tenure](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37 Removal for breach of conditions](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38 Resumption by landlord](schedule/2/paragraph/38.md)
+  - Part 7 Compensation
+    - Chapter 1 Right to compensation
+      - [Sch. 2 para. 39 Small landholder’s right to compensation](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40 Small landholder’s right to compensation: improvements](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41 Small landholder’s right to compensation: increase in value due to diversification](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42 Landlord’s right to compensation](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43 Landlord’s right to compensation: deterioration etc. of holding.](schedule/2/paragraph/43.md)
+      - [Sch. 2 para. 44 Landlord’s right to compensation: decrease in value due to diversification](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 45 Recovery of compensation: further provision](schedule/2/paragraph/45.md)
+    - Chapter 2 Compensation: ancillary provision
+      - [Sch. 2 para. 46 Outstanding rent](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47 Compensation to outgoing landholder by incoming landholder](schedule/2/paragraph/47.md)
+      - [Sch. 2 para. 48 Record of condition](schedule/2/paragraph/48.md)
+    - Chapter 3 Process for determination of compensation amount
+      - [Sch. 2 para. 49 Application to Tenant Farming Commissioner](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50 Appointment of valuer by Tenant Farming Commissioner](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51 Objection to valuer appointed by Tenant Farming Commissioner](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52 Valuer’s expenses](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53 Assessment of compensation](schedule/2/paragraph/53.md)
+      - [Sch. 2 para. 54 Notice of assessment](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55 Appeal against valuer’s assessment](schedule/2/paragraph/55.md)
+      - [Sch. 2 para. 56 Referral of certain matters by Lands Tribunal to Land Court](schedule/2/paragraph/56.md)
+  - Part 8 Right to buy
+    - [Sch. 2 para. 57 Register of Community Interests in Land: small landholders’ interests in buying land](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58 Registration of small landholder’s interest in buying land](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59 Owner’s challenge to registration](schedule/2/paragraph/59.md)
+    - [Sch. 2 para. 60 Duration of registration](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61 Notice of proposal to transfer land](schedule/2/paragraph/61.md)
+    - [Sch. 2 para. 62 Transfers not requiring notice](schedule/2/paragraph/62.md)
+    - [Sch. 2 para. 63 Right to buy](schedule/2/paragraph/63.md)
+    - [Sch. 2 para. 64 Exercise of right to buy](schedule/2/paragraph/64.md)
+    - [Sch. 2 para. 65 Effect of extinguishing right to buy](schedule/2/paragraph/65.md)
+    - [Sch. 2 para. 66 Procedure for buying](schedule/2/paragraph/66.md)
+    - [Sch. 2 para. 67 Appointment of valuer](schedule/2/paragraph/67.md)
+    - [Sch. 2 para. 68 Valuation of the land](schedule/2/paragraph/68.md)
+    - [Sch. 2 para. 69 Valuation etc.: further provision](schedule/2/paragraph/69.md)
+    - [Sch. 2 para. 70 Appeal to Lands Tribunal against valuation](schedule/2/paragraph/70.md)
+    - [Sch. 2 para. 71 Referral of certain matters by Lands Tribunal to Land Court](schedule/2/paragraph/71.md)
+    - [Sch. 2 para. 72 Registration of small landholder’s interest: power to modify provisions](schedule/2/paragraph/72.md)
+    - [Sch. 2 para. 73 Interpretation of Part](schedule/2/paragraph/73.md)
+  - Part 9 Alternative dispute resolution
+    - [Sch. 2 para. 74 Agreement to resolve matters other than by application to Land Court](schedule/2/paragraph/74.md)
+    - [Sch. 2 para. 75 Arbitration: procedure etc.](schedule/2/paragraph/75.md)
+    - [Sch. 2 para. 76 Conduct of arbitrator and setting aside of arbitrator’s award](schedule/2/paragraph/76.md)
+  - Part 10 Consequential modifications
+    - [Sch. 2 para. 77 Repeal and disapplication of existing law](schedule/2/paragraph/77.md)
+    - [Sch. 2 para. 78 Crofters Holdings (Scotland) Act 1887](schedule/2/paragraph/78.md)
+    - [Sch. 2 para. 79 Small Landholders (Scotland) Act 1911](schedule/2/paragraph/79.md)
+    - [Sch. 2 para. 80 Small Landholders and Agricultural Holdings (Scotland) Act 1931](schedule/2/paragraph/80.md)
+    - [Sch. 2 para. 81 Succession (Scotland) Act 1964](schedule/2/paragraph/81.md)
+    - [Sch. 2 para. 82 Crofters (Scotland) Act 1993](schedule/2/paragraph/82.md)
+    - [Sch. 2 para. 83 Scottish Land Court Act 1993](schedule/2/paragraph/83.md)
+  - Part 11 General and interpretation
+    - [Sch. 2 para. 84 Restriction on contracting out of small landholders’ statutory rights](schedule/2/paragraph/84.md)
+    - [Sch. 2 para. 85 Restriction on contracting out of rights to apply to Land Court](schedule/2/paragraph/85.md)
+    - [Sch. 2 para. 86 Interpretation](schedule/2/paragraph/86.md)
