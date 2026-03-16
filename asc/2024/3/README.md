@@ -1,0 +1,280 @@
+# Infrastructure (Wales) Act 2024
+
+asc/2024/3. Enacted 2024-06-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2024/3
+
+Source: https://www.legislation.gov.uk/asc/2024/3/2026-03-16
+
+## Contents
+
+- PART 1 SIGNIFICANT INFRASTRUCTURE PROJECTS
+  - Key term
+    - [s. 1 Meaning of “significant infrastructure project”](section/1.md)
+  - Energy
+    - [s. 2 Electricity infrastructure](section/2.md)
+    - [s. 3 Liquified natural gas facilities](section/3.md)
+    - [s. 4 Gas reception facilities](section/4.md)
+    - [s. 5 Hydraulic fracturing for oil and gas and coal gasification](section/5.md)
+    - [s. 6 Open cast coal mining](section/6.md)
+  - Transport
+    - [s. 7 Highways](section/7.md)
+    - [s. 8 Railways](section/8.md)
+    - [s. 9 Rail freight interchanges](section/9.md)
+    - [s. 10 Harbour facilities](section/10.md)
+    - [s. 11 Airports](section/11.md)
+  - Water
+    - [s. 12 Dams and reservoirs](section/12.md)
+    - [s. 13 Transfer of water resources](section/13.md)
+  - Waste water
+    - [s. 14 Waste water treatment plants](section/14.md)
+  - Waste
+    - [s. 15 Hazardous waste facilities](section/15.md)
+    - [s. 16 Radioactive waste geological disposal facilities](section/16.md)
+  - Power to amend
+    - [s. 17 Power to add, vary or remove projects](section/17.md)
+  - Interpretation
+    - [s. 18 Cross-border projects](section/18.md)
+- PART 2 REQUIREMENT FOR INFRASTRUCTURE CONSENT
+  - The requirement
+    - [s. 19 Requirement for infrastructure consent](section/19.md)
+    - [s. 20 Effect of requirement for infrastructure consent](section/20.md)
+  - Powers to change the requirement or its effect
+    - [s. 21 Power to add or remove types of consent](section/21.md)
+    - [s. 22 Directions specifying development as a significant infrastructure project](section/22.md)
+    - [s. 23 Directions for applications to be treated as applications for infrastructure consent](section/23.md)
+    - [s. 24 Directions specifying that development is not a significant infrastructure project](section/24.md)
+    - [s. 25 Directions under section 22 to 24: general provision](section/25.md)
+    - [s. 26 Directions under section 22: regulations about procedure](section/26.md)
+- PART 3 APPLYING FOR INFRASTRUCTURE CONSENT
+  - Assistance for applicants
+    - [s. 27 Provision of pre-application services](section/27.md)
+    - [s. 28 Obtaining information about interests in land](section/28.md)
+  - Pre-application procedure
+    - [s. 29 Notice of proposed application](section/29.md)
+    - [s. 30 Pre-application consultation and publicity](section/30.md)
+    - [s. 31 Change in the person who proposes to apply for infrastructure consent](section/31.md)
+  - Application procedure
+    - [s. 32 Applying for infrastructure consent](section/32.md)
+    - [s. 33 Deciding on the validity of an application and notifying the applicant](section/33.md)
+    - [s. 34 Notice of accepted applications and publicity](section/34.md)
+    - [s. 35 Regulations about notices and publicity](section/35.md)
+    - [s. 36 Local impact reports](section/36.md)
+    - [s. 37 Marine impact reports](section/37.md)
+    - [s. 38 Notice of persons interested in land to which compulsory acquisition request relates](section/38.md)
+    - [s. 39 Consultation post-application in relation to compulsory acquisition](section/39.md)
+- PART 4 EXAMINING APPLICATIONS
+  - Appointing an examining authority
+    - [s. 40 Appointing an examining authority](section/40.md)
+  - Examining applications
+    - [s. 41 Examining authority to examine applications](section/41.md)
+    - [s. 42 Choice of inquiry, hearing or written procedure](section/42.md)
+    - [s. 43 Open-floor hearings](section/43.md)
+    - [s. 44 Examination procedure](section/44.md)
+    - [s. 45 Power to enter land in connection with examination](section/45.md)
+    - [s. 46 Power to enter Crown land in connection with examination](section/46.md)
+    - [s. 47 Power of examining authority to hold local inquiry](section/47.md)
+    - [s. 48 Access to evidence at inquiry](section/48.md)
+    - [s. 49 Payment of appointed representative where access to evidence restricted](section/49.md)
+    - [s. 50 Assessors](section/50.md)
+    - [s. 51 Legal assistance](section/51.md)
+    - [s. 52 Reports by examining authority](section/52.md)
+    - [s. 53 Power to direct further examination](section/53.md)
+    - [s. 54 Orders relating to costs of parties on examination proceedings](section/54.md)
+- PART 5 DECIDING APPLICATIONS FOR INFRASTRUCTURE CONSENT
+  - Decision maker
+    - [s. 55 Function of deciding applications](section/55.md)
+  - Statutory policies and other relevant matters‍‍
+    - [s. 56 Deciding applications: general considerations](section/56.md)
+    - [s. 57 Duty to have regard to specific matters when making decisions on applications](section/57.md)
+    - [s. 58 Matters that may be disregarded when making decisions on applications](section/58.md)
+  - Timetable
+    - [s. 59 Timetable for deciding application for infrastructure consent](section/59.md)
+  - The decision
+    - [s. 60 Grant or refusal of infrastructure consent](section/60.md)
+    - [s. 61 Development for which infrastructure consent may be granted](section/61.md)
+    - [s. 62 Reasons for decision to grant or refuse infrastructure consent](section/62.md)
+- PART 6 INFRASTRUCTURE CONSENT ORDERS
+  - Provision in orders: general
+    - [s. 63 What may be included in an infrastructure consent order](section/63.md)
+  - Provision in orders authorising compulsory acquisition
+    - [s. 64 Purpose for which compulsory acquisition may be authorised](section/64.md)
+    - [s. 65 Land to which authorisation of compulsory acquisition can relate](section/65.md)
+    - [s. 66 Application of compulsory acquisition provisions](section/66.md)
+    - [s. 67 Compensation for compulsory acquisition](section/67.md)
+    - [s. 68 Statutory undertakers’ land](section/68.md)
+    - [s. 69 National Trust land](section/69.md)
+    - [s. 70 Commons, open spaces etc: compulsory acquisition of land](section/70.md)
+    - [s. 71 Commons, open spaces etc: compulsory acquisition of rights over land](section/71.md)
+    - [s. 72 Notice of authorisation of compulsory acquisition](section/72.md)
+  - Provision in orders: specific limitations and powers
+    - [s. 73 Public rights of way](section/73.md)
+    - [s. 74 Power to override easements and other rights](section/74.md)
+    - [s. 75 Extinguishment of rights, and removal of apparatus, of statutory undertakers etc.](section/75.md)
+    - [s. 76 Crown land](section/76.md)
+    - [s. 77 Operation of generating stations](section/77.md)
+    - [s. 78 Keeping electric lines installed above ground](section/78.md)
+    - [s. 79 Diversion of watercourses](section/79.md)
+    - [s. 80 Highways](section/80.md)
+    - [s. 81 Harbours](section/81.md)
+    - [s. 82 Discharge of water](section/82.md)
+    - [s. 83 Deemed consent under a marine licence](section/83.md)
+    - [s. 84 Removing consent requirements and deeming consents](section/84.md)
+  - Procedure for infrastructure consent orders
+    - [s. 85 Infrastructure consent orders: publication and procedure](section/85.md)
+  - Changing and revoking infrastructure consent orders etc.
+    - [s. 86 Meaning of “decision documents” and “error”](section/86.md)
+    - [s. 87 Power to correct errors in decision documents](section/87.md)
+    - [s. 88 Correcting errors: regulations](section/88.md)
+  - Making changes to, and revoking, infrastructure consent orders
+    - [s. 89 Definitions](section/89.md)
+    - [s. 90 Power to change or revoke infrastructure consent orders](section/90.md)
+    - [s. 91 Procedure: changing and revoking infrastructure consent orders](section/91.md)
+    - [s. 92 Changing and revoking infrastructure consent orders: formalities](section/92.md)
+    - [s. 93 Changing or revoking an infrastructure consent order: compensation](section/93.md)
+  - Effect of infrastructure consent orders
+    - [s. 94 Duration of infrastructure consent order](section/94.md)
+    - [s. 95 When development begins](section/95.md)
+    - [s. 96 Legal challenges](section/96.md)
+    - [s. 97 Benefit of infrastructure consent order](section/97.md)
+    - [s. 98 Planning obligations](section/98.md)
+    - [s. 99 Blighted land](section/99.md)
+    - [s. 100 Nuisance: statutory authority](section/100.md)
+    - [s. 101 Compensation in case where defence of statutory authority applies](section/101.md)
+  - Interpretation
+    - [s. 102 Meaning of “land”](section/102.md)
+- PART 7 ENFORCEMENT
+  - Offences
+    - [s. 103 Development without infrastructure consent](section/103.md)
+    - [s. 104 Breach of terms of infrastructure consent order](section/104.md)
+    - [s. 105 Time limits](section/105.md)
+    - [s. 106 Powers to enter land for enforcement purposes](section/106.md)
+    - [s. 107 Warrant to enter land](section/107.md)
+    - [s. 108 Rights of entry: supplementary provisions](section/108.md)
+    - [s. 109 Rights of entry: Crown land](section/109.md)
+    - [s. 110 Marine enforcement powers](section/110.md)
+  - Information notices
+    - [s. 111 Power to require information](section/111.md)
+    - [s. 112 Offences of failing to comply with information notices](section/112.md)
+  - Notices of unauthorised development
+    - [s. 113 Notice of unauthorised development](section/113.md)
+  - Compliance with notices of unauthorised development
+    - [s. 114 Order to permit steps required by notice of unauthorised development](section/114.md)
+    - [s. 115 Power to enter land and take steps required by notice of unauthorised development](section/115.md)
+    - [s. 116 Recovery of costs of compliance with notice of unauthorised development](section/116.md)
+  - Temporary stop notices
+    - [s. 117 Power to issue temporary stop notice](section/117.md)
+    - [s. 118 Restrictions on power to issue temporary stop notice](section/118.md)
+    - [s. 119 Duration etc. of temporary stop notice](section/119.md)
+    - [s. 120 Offence of breaching temporary stop notice](section/120.md)
+    - [s. 121 Compensation for loss due to notice](section/121.md)
+    - [s. 122 Injunction to restrain prohibited activity](section/122.md)
+  - General
+    - [s. 123 Meaning of “relevant planning authority”](section/123.md)
+- PART 8 SUPPLEMENTARY FUNCTIONS
+  - Fees
+    - [s. 124 Fees for performance of infrastructure consent functions and services](section/124.md)
+  - Right of entry
+    - [s. 125 Powers of entry to survey land](section/125.md)
+    - [s. 126 Powers of entry to survey land: Crown land](section/126.md)
+  - Infrastructure policy statements
+    - [s. 127 Infrastructure policy statements](section/127.md)
+  - Register of applications and pre-application services
+    - [s. 128 Register of applications and pre-application services](section/128.md)
+  - Statutory consultees
+    - [s. 129 Power to consult and duty to respond to consultation](section/129.md)
+  - Welsh Ministers’ directions
+    - [s. 130 Directions to public authorities](section/130.md)
+    - [s. 131 Power to disapply requirements](section/131.md)
+  - Regulations about Crown applications
+    - [s. 132 Applications by the Crown](section/132.md)
+- PART 9 GENERAL PROVISIONS
+  - Development
+    - [s. 133 Meaning of “development”](section/133.md)
+  - Crown land
+    - [s. 134 Crown land and “the appropriate Crown authority”](section/134.md)
+  - Offences
+    - [s. 135 Offences by bodies corporate](section/135.md)
+  - Giving notices and other documents
+    - [s. 136 Giving notices and other documents](section/136.md)
+    - [s. 137 Giving notices etc. to persons occupying or with an interest in land](section/137.md)
+    - [s. 138 Giving documents to the Crown](section/138.md)
+  - General
+    - [s. 139 Duties to publish](section/139.md)
+    - [s. 140 Regulations and orders: restrictions](section/140.md)
+    - [s. 141 Regulations: procedure](section/141.md)
+    - [s. 142 Directions: general](section/142.md)
+    - [s. 143 General interpretation](section/143.md)
+    - [s. 144 Power to make consequential and transitional provision etc.](section/144.md)
+    - [s. 145 Consequential amendments and repeals](section/145.md)
+    - [s. 146 Transitional and saving provision](section/146.md)
+    - [s. 147 Coming into force](section/147.md)
+    - [s. 148 Short title](section/148.md)
+- SCHEDULE 1 PROVISION RELATING TO, OR TO MATTERS ANCILLARY TO, DEVELOPMENT
+  - PART 1 THE MATTERS
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - PART 2 INTERPRETATION
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+- SCHEDULE 2 COMPENSATION FOR CHANGING OR REVOKING INFRASTRUCTURE CONSENT ORDERS
+  - [Sch. 2 para. 1 Changing or revoking an infrastructure consent order: compensation](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Compensation for depreciation: introduction and key terms](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Apportionment of compensation for depreciation and determination of disputes](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Notice of compensation for depreciation](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Development not to be carried out until compensation paid or secured](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Amount recoverable by Welsh Ministers in respect of compensation](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Payment etc. of amount recoverable](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Recovery of compensation from acquiring authority on compulsory acquisition or sale](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 General provisions about compensation for depreciation](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Determination of claims for compensation](schedule/2/paragraph/10.md)
+- SCHEDULE 3 CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - [Sch. 3 para. 1 Harbours Act 1964 (c. 40)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Highways Act 1980 (c. 66)](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Electricity Act 1989 (c. 29)](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Town and Country Planning Act 1990 (c. 8)](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Planning (Hazardous Substances) Act 1990 (c. 10)](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 New Roads and Street Works Act 1991 (c. 22)](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Transport and Works Act 1992 (c. 42)](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Coal Industry Act 1994 (c. 21)](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Planning and Compulsory Purchase Act 2004 (c. 5)](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Marine and Coastal Access Act 2009 (c. 23)](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Flood and Water Management Act 2010 (c. 29)](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Planning (Wales) Act 2015 (anaw 4)](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13 Infrastructure Act 2015 (c. 7)](schedule/3/paragraph/13.md)
+  - [Sch. 3 para. 14 Housing and Planning Act 2016 (c. 22)](schedule/3/paragraph/14.md)
+  - [Sch. 3 para. 15 Historic Environment (Wales) Act 2023 (asc 3)](schedule/3/paragraph/15.md)
