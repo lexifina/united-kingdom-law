@@ -1,0 +1,256 @@
+# Land Reform (Scotland) Act 2016
+
+asp/2016/18. Enacted 2016-04-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-16, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 63 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2016/18
+
+Source: https://www.legislation.gov.uk/asp/2016/18/2026-03-16
+
+## Contents
+
+- PART 1 Land rights and responsibilities statement
+  - [s. 1 Land rights and responsibilities statement](section/1.md)
+  - [s. 2 Publication and review of land rights and responsibilities statement](section/2.md)
+  - [s. 3 Duty to promote land rights and responsibilities statement](section/3.md)
+- PART 2 The Scottish Land Commission
+  - CHAPTER 1 The Commission
+    - Establishment
+      - [s. 4 The Scottish Land Commission](section/4.md)
+      - [s. 5 Status](section/5.md)
+    - Functions of the Commission
+      - [s. 6 Functions of the Commission](section/6.md)
+      - [s. 7 General powers](section/7.md)
+    - Strategic plan and programme of work
+      - [s. 8 Strategic plan](section/8.md)
+      - [s. 9 Programme of work](section/9.md)
+    - Membership
+      - [s. 10 Membership](section/10.md)
+      - [s. 11 Eligibility for appointment](section/11.md)
+      - [s. 12 Disqualification from membership](section/12.md)
+      - [s. 13 Resignation and removal](section/13.md)
+    - Remuneration and staff
+      - [s. 14 Remuneration, allowances and pensions](section/14.md)
+      - [s. 15 Staff](section/15.md)
+    - Operational matters
+      - [s. 16 Validity of things done](section/16.md)
+      - [s. 17 Committees](section/17.md)
+      - [s. 18 Regulation of procedure](section/18.md)
+    - Accounts and annual report
+      - [s. 19 Accounts](section/19.md)
+      - [s. 20 Annual report](section/20.md)
+    - Application of public bodies legislation
+      - [s. 21 Application of legislation relating to public bodies](section/21.md)
+  - CHAPTER 2 The Land Commissioners
+    - Functions of the Land Commissioners
+      - [s. 22 Functions of the Land Commissioners](section/22.md)
+    - Land Commissioners: delegation of functions
+      - [s. 23 Land Commissioners: delegation of functions](section/23.md)
+  - CHAPTER 3 The Tenant Farming Commissioner
+    - Functions of the Tenant Farming Commissioner
+      - [s. 24 Functions of the Tenant Farming Commissioner](section/24.md)
+      - [s. 25 Tenant Farming Commissioner: delegation of functions](section/25.md)
+      - [s. 26 Acting Tenant Farming Commissioner](section/26.md)
+    - Tenant Farming Commissioner: codes of practice
+      - [s. 27 Tenant Farming Commissioner: codes of practice](section/27.md)
+      - [s. 28 Tenant Farming Commissioner: promotion of codes of practice](section/28.md)
+    - Tenant Farming Commissioner: inquiry function
+      - [s. 29 Application to inquire into breach of code of practice](section/29.md)
+      - [s. 30 Procedure for inquiry](section/30.md)
+      - [s. 31 Enforcement powers](section/31.md)
+      - [s. 32 Notice of non-compliance penalty](section/32.md)
+      - [s. 33 Report on inquiry](section/33.md)
+      - [s. 34 Tenant Farming Commissioner: confidentiality of information](section/34.md)
+      - [s. 35 Protection from actions for defamation](section/35.md)
+    - Tenant Farming Commissioner: review of operation of agents
+      - [s. 36 Report on operation of agents of landlords and tenants](section/36.md)
+    - Tenant Farming Commissioner: modern list of improvements
+      - [s. 37 Recommendations by Tenant Farming Commissioner for modern list of improvements](section/37.md)
+    - Tenant Farming Commissioner: power to refer questions of law to Land Court
+      - [s. 38 Referral of questions of law by Tenant Farming Commissioner to Land Court](section/38.md)
+- PART 3 Information about control of land etc.
+  - Information about persons with controlling interests in relation to land
+    - [s. 39 Information about persons with controlling interests in owners and tenants of land](section/39.md)
+  - Procedure for first regulations under section 39
+    - [s. 40 Procedure for first regulations under section 39](section/40.md)
+    - [s. 41 Procedure for first regulations under section 39: consultation](section/41.md)
+    - [s. 42 Procedure for first regulations under section 39: explanatory document](section/42.md)
+  - Information relating to proprietors of land etc.
+    - [s. 43 Power of Keeper to request or require information relating to proprietors of land etc.](section/43.md)
+- PART 4 Engaging communities in decisions relating to land
+  - [s. 44 Guidance on engaging communities in decisions relating to land](section/44.md)
+- PART 5 Right to buy land to further sustainable development
+  - Key terms
+    - [s. 45 Meaning of “land”](section/45.md)
+    - [s. 46 Eligible land](section/46.md)
+    - [s. 47 Eligible land: salmon fishings and mineral rights](section/47.md)
+    - [s. 48 Eligible land: tenant’s interests](section/48.md)
+    - [s. 49 Part 5 community bodies](section/49.md)
+    - [s. 50 Provisions supplementary to section 49](section/50.md)
+    - [s. 51 Interpretation of Part](section/51.md)
+  - Register of Applications by Community Bodies to Buy Land
+    - [s. 52 Register of Applications by Community Bodies to Buy Land](section/52.md)
+    - [s. 53 Inclusion in New Register of applications for right to buy abandoned, neglected or detrimental land](section/53.md)
+  - Applications for consent
+    - [s. 54 Right to buy: application for consent](section/54.md)
+    - [s. 55 Right to buy: application procedure](section/55.md)
+    - [s. 56 Right to buy: Ministers’ decision on application](section/56.md)
+    - [s. 57 Ballot to indicate approval for purposes of section 56](section/57.md)
+    - [s. 58 Right to buy same land exercisable by only one Part 5 community body](section/58.md)
+    - [s. 59 Consent conditions](section/59.md)
+    - [s. 60 Notification of Ministers’ decision on application](section/60.md)
+  - Procedure following consent
+    - [s. 61 Effect of Ministers’ decision on right to buy](section/61.md)
+    - [s. 62 Confirmation of intention to proceed with purchase and withdrawal](section/62.md)
+    - [s. 63 Completion of purchase](section/63.md)
+    - [s. 64 Completion of transfer](section/64.md)
+    - [s. 65 Assessment of value of land etc.](section/65.md)
+    - [s. 66 Acquisition of interest of tenant over land: allocation of rents etc.](section/66.md)
+  - Compensation
+    - [s. 67 Compensation](section/67.md)
+    - [s. 68 Grants towards liabilities to pay compensation](section/68.md)
+  - Appeals and references
+    - [s. 69 Appeals to sheriff](section/69.md)
+    - [s. 70 Appeals to Lands Tribunal: valuation](section/70.md)
+    - [s. 71 Reference to Lands Tribunal of questions on applications](section/71.md)
+    - [s. 72 Agreement as to matters appealed](section/72.md)
+  - Mediation
+    - [s. 73 Mediation](section/73.md)
+- PART 6 Entry in valuation roll of shootings and deer forests
+  - [s. 74 Repeal of exclusion of shootings and deer forests from valuation roll](section/74.md)
+  - [s. 75 Valuation of shootings and deer forests](section/75.md)
+  - [s. 76 Net annual value of deer forests](section/76.md)
+- PART 7 Common good land
+  - [s. 77 Change of use of land forming part of the common good](section/77.md)
+- PART 8 Deer management
+  - [s. 78 Functions of deer panels](section/78.md)
+  - [s. 79 Review of compliance with code of practice on deer management](section/79.md)
+  - [s. 80 Deer management plans](section/80.md)
+  - [s. 81 Power to require return on number of deer planned to be killed](section/81.md)
+  - [s. 82 Increase in penalty for failure to comply with control scheme](section/82.md)
+- PART 9 Access rights
+  - Core paths
+    - [s. 83 Core paths plans](section/83.md)
+  - Court applications
+    - [s. 84 Access rights: service of court applications](section/84.md)
+- PART 10 Agricultural holdings
+  - CHAPTER 1 Modern limited duration tenancies
+    - Modern limited duration tenancies
+      - [s. 85 Modern limited duration tenancies: creation](section/85.md)
+      - [s. 86 Modern limited duration tenancies: subletting](section/86.md)
+      - [s. 87 Modern limited duration tenancies: termination and continuation](section/87.md)
+      - [s. 88 Modern limited duration tenancies: fixed equipment](section/88.md)
+      - [s. 89 Modern limited duration tenancies: irritancy](section/89.md)
+    - Conversion of 1991 Act tenancies
+      - [s. 90 Conversion of 1991 Act tenancies into modern limited duration tenancies](section/90.md)
+    - Conversion of limited duration tenancies
+      - [s. 91 Conversion of limited duration tenancies into modern limited duration tenancies](section/91.md)
+  - CHAPTER 2 Repairing tenancies
+    - [s. 92 Repairing tenancies: creation](section/92.md)
+    - [s. 93 Repairing tenancies: subletting](section/93.md)
+    - [s. 94 Repairing tenancies: termination, continuation and extension](section/94.md)
+    - [s. 95 Repairing tenancies: fixed equipment](section/95.md)
+    - [s. 96 Repairing tenancies: resumption of land by landlord](section/96.md)
+    - [s. 97 Repairing tenancies: irritancy](section/97.md)
+    - [s. 98 Repairing tenancies: compensation](section/98.md)
+  - CHAPTER 3 Tenant’s right to buy
+    - [s. 99 Tenant’s right to buy: removal of requirement to register](section/99.md)
+  - CHAPTER 4 Sale where landlord in breach
+    - [s. 100 Sale to tenant or third party where landlord in breach of order or award](section/100.md)
+  - CHAPTER 5 Rent review
+    - 1991 Act tenancies: rent review
+      - [s. 101 1991 Act tenancies: rent review](section/101.md)
+    - Limited duration tenancies, modern limited duration tenancies and repairing tenancies: rent review
+      - [s. 102 Limited duration tenancies, modern limited duration tenancies and repairing tenancies: rent review](section/102.md)
+  - CHAPTER 6 Assignation of and succession to agricultural tenancies
+    - Assignation
+      - [s. 103 Assignation of 1991 Act tenancies](section/103.md)
+      - [s. 104 Assignation of limited duration tenancies](section/104.md)
+      - [s. 105 Assignation of modern limited duration tenancies](section/105.md)
+      - [s. 106 Assignation of repairing tenancies](section/106.md)
+    - Succession
+      - [s. 107 Bequest of 1991 Act tenancies](section/107.md)
+      - [s. 108 Limited duration tenancies, modern limited duration tenancies and repairing tenancies: succession](section/108.md)
+    - Landlord’s objection to tenant’s successor
+      - [s. 109 Objection by landlord to legatee or acquirer on intestacy](section/109.md)
+  - CHAPTER 7 Relinquishing and assignation of 1991 Act tenancies
+    - [s. 110 Tenant’s offer to relinquish 1991 Act tenancy](section/110.md)
+    - [s. 111 Tenant’s offer to relinquish 1991 Act tenancy: consequential modifications](section/111.md)
+  - CHAPTER 8 Compensation for tenant’s improvements
+    - Amnesty for tenant’s improvements
+      - [s. 112 Amnesty for certain improvements by tenant](section/112.md)
+      - [s. 113 Amendment of the Agricultural Holdings (Scotland) Acts](section/113.md)
+      - [s. 114 Amnesty notice](section/114.md)
+    - Objection to amnesty notice and referral to Land Court
+      - [s. 115 Objection by landlord](section/115.md)
+      - [s. 116 Referral to Land Court](section/116.md)
+    - Agreements made during amnesty period
+      - [s. 117 Amnesty agreements](section/117.md)
+    - Resolution of disputes
+      - [s. 118 Arbitration and other dispute resolution](section/118.md)
+  - CHAPTER 9 Improvements by landlord
+    - [s. 119 Notice required for certain improvements by landlord](section/119.md)
+    - [s. 120 Rent increase for certain improvements by landlord](section/120.md)
+  - CHAPTER 10 Diversification
+    - [s. 121 Use of land for non-agricultural purposes: objection to notice of diversification](section/121.md)
+    - [s. 122 Use of land for non-agricultural purposes: requests for information](section/122.md)
+  - CHAPTER 11 Irritancy for non-payment of rent
+    - [s. 123 Irritancy for non-payment of rent](section/123.md)
+- PART 11 Small landholdings
+  - [s. 124 Review of small landholdings legislation](section/124.md)
+- PART 12 General and miscellaneous
+  - [s. 125 General interpretation](section/125.md)
+  - [s. 126 Subordinate legislation](section/126.md)
+  - [s. 127 Ancillary provision](section/127.md)
+  - [s. 128 Crown application](section/128.md)
+  - [s. 129 Minor and consequential modifications](section/129.md)
+  - [s. 130 Commencement](section/130.md)
+  - [s. 131 Short title](section/131.md)
+- SCHEDULE 1 RIGHT TO BUY LAND TO FURTHER SUSTAINABLE DEVELOPMENT: MINOR AND CONSEQUENTIAL MODIFICATIONS
+  - Land Reform (Scotland) Act 2003
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+- SCHEDULE 2 AGRICULTURAL HOLDINGS: MINOR AND CONSEQUENTIAL MODIFICATIONS
+  - PART 1 Modern limited duration tenancies and repairing tenancies
+    - Sheriff Courts (Scotland) Act 1907
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Law Reform (Miscellaneous Provisions) (Scotland) Act 1985
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - 1991 Act
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Crofters (Scotland) Act 1993
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Children (Scotland) Act 1995
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Town and Country Planning (Scotland) Act 1997
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - 2003 Act
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Antisocial Behaviour etc. (Scotland) Act 2004
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Housing (Scotland) Act 2006
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - PART 2 Sale where landlord in breach
+    - 2003 Act
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - PART 3 Rent reviews
+    - 1991 Act
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - 2003 Act
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Agricultural Holdings (Amendment) (Scotland) Act 2012
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - PART 4 Assignation and succession
+    - Succession (Scotland) Act 1964
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - 1991 Act
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - 2003 Act
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Agricultural Holdings (Amendment) (Scotland) Act 2012
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - PART 5 General modifications
+    - 1991 Act
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - 2003 Act
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
