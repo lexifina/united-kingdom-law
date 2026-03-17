@@ -1,0 +1,139 @@
+# Plant Varieties Act 1997
+
+1997 c. 66. Enacted 1997-11-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-17, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1997/66
+
+Source: https://www.legislation.gov.uk/ukpga/1997/66/2026-03-17
+
+## Contents
+
+- Part I Plant Varieties
+  - Preliminary
+    - [s. 1 Plant breeders’ rights.](section/1.md)
+    - [s. 2 The Plant Variety Rights Office.](section/2.md)
+  - Grant of plant breeders’ rights
+    - [s. 3 Grant on application.](section/3.md)
+    - [s. 4 Conditions for the grant of rights.](section/4.md)
+    - [s. 5 Rights in relation to application period.](section/5.md)
+  - Scope of plant breeders’ rights
+    - [s. 6 Protected variety.](section/6.md)
+    - [s. 7 Dependent varieties.](section/7.md)
+  - Exceptions
+    - [s. 8 General exceptions.](section/8.md)
+    - [s. 9 Farm saved seed.](section/9.md)
+    - [s. 10 Exhaustion of rights.](section/10.md)
+  - Duration and transmission of plant breeders’ rights
+    - [s. 11 Duration.](section/11.md)
+    - [s. 12 Transmission.](section/12.md)
+  - Remedies for infringement
+    - [s. 13 Remedies for infringement.](section/13.md)
+    - [s. 14 Presumptions in proceedings relating to harvested material.](section/14.md)
+    - [s. 15 Presumptions in proceedings relating to products made from harvested material.](section/15.md)
+  - Duties of holder of plant breeders’ rights
+    - [s. 16 Maintenance of protected variety.](section/16.md)
+    - [s. 17 Compulsory licences.](section/17.md)
+  - Naming of protected varieties
+    - [s. 18 Selection and registration of names.](section/18.md)
+    - [s. 19 Duty to use registered name.](section/19.md)
+    - [s. 20 Improper use of registered name.](section/20.md)
+  - Termination and suspension of plant breeders’ rights
+    - [s. 21 Nullity.](section/21.md)
+    - [s. 22 Cancellation.](section/22.md)
+    - [s. 23 Suspension.](section/23.md)
+  - Proceedings before the Controller
+    - [s. 24 Right to be heard: general.](section/24.md)
+    - [s. 25 Right to be heard: applications for compulsory licences.](section/25.md)
+    - [s. 26 Appeals to the Tribunal.](section/26.md)
+  - Discharge of the Controller’s functions
+    - [s. 27 Ministerial guidance.](section/27.md)
+    - [s. 28 Regulations.](section/28.md)
+    - [s. 29 Fees.](section/29.md)
+    - [s. 30 Use of outsiders.](section/30.md)
+  - False information and representations as to rights
+    - [s. 31 False information.](section/31.md)
+    - [s. 32 False representations as to rights.](section/32.md)
+  - Miscellaneous
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Disclosure of information obtained under section 14 or 15.](section/34.md)
+    - [s. 35 Reference collections of plant material.](section/35.md)
+  - General
+    - [s. 36 Offences by bodies corporate, etc.](section/36.md)
+    - [s. 37 Jurisdiction in relation to offences.](section/37.md)
+    - [s. 38 Interpretation of Part I.](section/38.md)
+    - [s. 39 Application of Part I to the Crown.](section/39.md)
+    - [s. 40 Application of Part I to existing rights.](section/40.md)
+  - Transition
+    - [s. 41 Varieties of recent creation.](section/41.md)
+- Part II The Plant Varieties and Seeds Tribunal
+  - [s. 42 The Tribunal.](section/42.md)
+  - [s. 43 Jurisdiction under arbitration agreements.](section/43.md)
+  - [s. 44 Statutory jurisdiction: regulations.](section/44.md)
+  - [s. 45 Appeals from the Tribunal.](section/45.md)
+  - [s. 46 Interpretation of Part II.](section/46.md)
+- Part III Miscellaneous and general
+  - Miscellaneous
+    - [s. 47 Extension of time limit for institution of proceedings for contravention of seeds regulations.](section/47.md)
+  - General
+    - [s. 48 Regulations and orders.](section/48.md)
+    - [s. 49 General interpretation.](section/49.md)
+    - [s. 50 Receipts.](section/50.md)
+    - [s. 51 Consequential amendments.](section/51.md)
+    - [s. 52 Repeals.](section/52.md)
+    - [s. 53 Extent.](section/53.md)
+    - [s. 54 Short title and commencement.](section/54.md)
+- SCHEDULE 1 The Plant Variety Rights Office
+  - Staff
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Remuneration
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Authority of officers
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proof of documents
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 Conditions for the grant of plant breeders’ rights
+  - Part I Criteria for grant of rights
+    - Distinctness
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Uniformity
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Stability
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Novelty
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Part II Priorities between applicants for rights
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 The Plant Varieties and Seeds Tribunal
+  - Constitution of the Tribunal
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Chairman
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - The two panels
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Selection from the panels
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Sittings of the Tribunal
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Decisions of the Tribunal
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Costs
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Rules
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Remuneration of Tribunal members
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Officers and servants
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Interpretation
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+- SCHEDULE 4 Repeals
