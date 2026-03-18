@@ -1,0 +1,276 @@
+# Budget Responsibility and National Audit Act 2011
+
+2011 c. 4. Enacted 2011-03-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2011/4/2026-03-18
+
+## Contents
+
+- Part 1 Budget responsibility
+  - [s. 1 Charter for Budget Responsibility](section/1.md)
+  - [s. 2 Annual Budget documents](section/2.md)
+  - [s. 3 Office for Budget Responsibility](section/3.md)
+  - [s. 4 Main duty of Office](section/4.md)
+  - [s. 4A Announcement of fiscally significant measures](section/4A.md)
+  - [s. 5 How main duty is to be performed](section/5.md)
+  - [s. 6 Guidance as to how main duty is to be performed](section/6.md)
+  - [s. 7 Efficiency etc](section/7.md)
+  - [s. 7A Duty to co-operate with the Scottish Fiscal Commission](section/7A.md)
+  - [s. 8 Reports](section/8.md)
+  - [s. 9 Right to information](section/9.md)
+  - [s. 10 Superseded statutory provisions](section/10.md)
+- Part 2 National audit
+  - Comptroller and Auditor General
+    - [s. 11 Office of Comptroller and Auditor General](section/11.md)
+    - [s. 12 Status etc](section/12.md)
+    - [s. 13 Remuneration arrangements](section/13.md)
+    - [s. 14 Resignation or removal](section/14.md)
+    - [s. 15 Employment etc of former Comptroller and Auditor General](section/15.md)
+    - [s. 16 Provision of services](section/16.md)
+    - [s. 17 How functions are to be exercised](section/17.md)
+    - [s. 18 Economy, efficiency and effectiveness examinations](section/18.md)
+    - [s. 19 Auditing of companies](section/19.md)
+  - National Audit Office
+    - [s. 20 Incorporation of NAO](section/20.md)
+    - [s. 21 Efficiency etc](section/21.md)
+    - [s. 22 Relationship with Comptroller and Auditor General](section/22.md)
+    - [s. 23 NAO’s expenditure](section/23.md)
+  - Miscellaneous and supplementary
+    - [s. 24 Indemnification](section/24.md)
+    - [s. 25 Interpretation](section/25.md)
+    - [s. 26 Transitional provision and consequential amendments](section/26.md)
+  - Auditor General for Wales
+    - [s. 27 Powers of National Assembly for Wales](section/27.md)
+- Part 3 Final provisions
+  - [s. 28 Power to make consequential provision](section/28.md)
+  - [s. 29 Commencement](section/29.md)
+  - [s. 30 Extent](section/30.md)
+  - [s. 31 Short title](section/31.md)
+- SCHEDULE 1 Office for Budget Responsibility
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Period of appointment and re-appointment
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Appointment of initial members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Other terms of appointment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Termination of appointments
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Status of Office
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Employees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Procedure
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Delegation of functions
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Review by Non-executive Committee
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Documentary evidence
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Annual report
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - External review
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Finance
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Accounts and audit
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Powers
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Validity
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Public records
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Parliamentary Commissioner
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Disqualification
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+  - Race relations
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Freedom of information
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Equality
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+  - References to Treasury Committee
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+- SCHEDULE 2 National Audit Office
+  - Part 1 Membership and status
+    - Membership
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Status
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Part 2 Non-executive members
+    - Member to chair NAO
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Appointment of other non-executive members
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Period of appointment and re-appointment
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Remuneration arrangements
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Other terms of appointment
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Consultation
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Termination of appointments
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part 3 Chief executive
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Part 4 Employee members
+    - Appointment
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Terms of appointment
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Termination of appointments
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Part 5 Employees
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Part 6 Procedural rules
+    - General
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Quorum for NAO meetings
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Committees
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Part 7 Other matters
+    - Powers
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Validity
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Delegation of functions
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - NAO resource accounts
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Audit of NAO
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Documentary evidence
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+- SCHEDULE 3 Relationship between NAO and Comptroller and Auditor General
+  - Strategy
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - NAO to provide resources for the Comptroller and Auditor General’s functions
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Provision of certain services by Comptroller and Auditor General to require NAO’s approval
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - NAO to monitor and provide advice
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Delegation of Comptroller and Auditor General’s functions
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Comptroller and Auditor General: vacancy or incapacity
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Audit fees etc
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Reports
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Code of practice
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Documents and information
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Transitional provision relating to Part 2
+  - Transfer of property etc
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Tax consequences of transfers by virtue of paragraph 1(3)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Old Comptroller and Auditor General to continue to be Comptroller and Auditor General
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Provision of services
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Indemnification
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - NAO’s procedural rules before rules made under paragraph 18 of Schedule 2
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Consequential amendments relating to Part 2
+  - Part 1 Meaning of “old NAO”
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Part 2 Amendments
+    - Exchequer and Audit Departments Act 1866
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Exchequer and Audit Departments Act 1957
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Public Records Act 1958
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Superannuation Act 1972
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - House of Commons Disqualification Act 1975
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Northern Ireland Assembly Disqualification Act 1975
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Parliamentary and other Pensions and Salaries Act 1976
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Race Relations Act 1976
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Interpretation Act 1978
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - National Audit Act 1983
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Finance Act 1989
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Social Security Administration Act 1992
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Taxation of Chargeable Gains Act 1992
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - National Lottery etc. Act 1993
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Employment Rights Act 1996
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Government of Wales Act 1998
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Government Resources and Accounts Act 2000
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Freedom of Information Act 2000
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Public Finance and Accountability (Scotland) Act 2000
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Constitutional Reform Act 2005
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Government of Wales Act 2006
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Companies Act 2006
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - Corporate Manslaughter and Corporate Homicide Act 2007
+      - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - Parliamentary Standards Act 2009
+      - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - Equality Act 2010
+      - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+- SCHEDULE 6 Powers of National Assembly for Wales: Auditor General for Wales
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Assembly Measures
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Acts of the Assembly
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
