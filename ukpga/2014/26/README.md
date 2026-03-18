@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2024-11-18, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2024-11-18
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-03-18
 
 ## Contents
 
@@ -176,9 +176,10 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2024-11-18
   - CHAPTER 1 General betting duty
     - The duty
       - [s. 125 General betting duty](section/125.md)
-    - General and spread bets
+    - General, remote and spread bets
       - [s. 126 General bets](section/126.md)
       - [s. 127 General betting duty charge on general bets](section/127.md)
+      - [s. 127A General betting duty charge on remote bets](section/127A.md)
       - [s. 128 Spread bets](section/128.md)
       - [s. 129 General betting duty charge on financial spread bets](section/129.md)
       - [s. 130 General betting duty charge on non-financial spread bets](section/130.md)
