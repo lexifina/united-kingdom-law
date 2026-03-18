@@ -1,0 +1,727 @@
+# Taxation (Cross-border Trade) Act 2018
+
+2018 c. 22. Enacted 2018-09-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2018/22
+
+Source: https://www.legislation.gov.uk/ukpga/2018/22/2026-03-18
+
+## Contents
+
+- PART 1 Import duty
+  - The charge to tax
+    - [s. 1 Charge to import duty](section/1.md)
+    - [s. 2 Chargeable goods](section/2.md)
+  - Incurring of liability to import duty
+    - [s. 3 Obligation to declare goods for a Customs procedure on import](section/3.md)
+    - [s. 4 When liability to import duty incurred](section/4.md)
+    - [s. 5 Goods not presented to Customs or Customs declaration not made](section/5.md)
+  - Person liable to import duty
+    - [s. 6 Person liable to import duty](section/6.md)
+  - Amount of import duty: the customs tariff, preferences, safeguarding etc
+    - [s. 7 Amount of duty: introduction](section/7.md)
+    - [s. 8 The customs tariff](section/8.md)
+    - [s. 9 Preferential rates: arrangements with countries or territories outside UK](section/9.md)
+    - [s. 10 Preferential rates given unilaterally](section/10.md)
+    - [s. 11 Quotas](section/11.md)
+    - [s. 12 Tariff suspension](section/12.md)
+    - [s. 13 Dumping of goods, foreign subsidies and increases in imports](section/13.md)
+    - [s. 14 Increases in imports or changes in price of agricultural goods](section/14.md)
+    - [s. 15 International disputes etc](section/15.md)
+  - Amount of import duty: supplementary
+    - [s. 16 Value of chargeable goods](section/16.md)
+    - [s. 17 Place of origin of chargeable goods](section/17.md)
+    - [s. 18 Currency](section/18.md)
+  - Reliefs
+    - [s. 19 Reliefs](section/19.md)
+  - Administration etc
+    - [s. 20 Notification and payment of import duty, etc](section/20.md)
+    - [s. 21 Customs agents](section/21.md)
+    - [s. 22 Authorised economic operators](section/22.md)
+    - [s. 23 Approvals and authorisations granted under regulations](section/23.md)
+    - [s. 24 Rulings as to application of customs tariff, valuation method or place of origin](section/24.md)
+  - Supplementary
+    - [s. 25 Disclosure of information](section/25.md)
+    - [s. 26 Co-operation with other customs services](section/26.md)
+    - [s. 27 Fees for exercise of functions in connection with import duty](section/27.md)
+    - [s. 28 Requirement to have regard to international obligations](section/28.md)
+    - [s. 29 Consequential amendments](section/29.md)
+    - [s. 30 General provision for the purposes of import duty](section/30.md)
+  - Northern Ireland
+    - [s. 30A Importation of goods: Northern Ireland](section/30A.md)
+    - [s. 30B Duty under section 30A(3): supplementary](section/30B.md)
+    - [s. 30C Duty on potentially imported goods](section/30C.md)
+  - UK’s customs union
+    - [s. 31 Territories forming part of a customs union with UK](section/31.md)
+  - Regulations etc
+    - [s. 32 Regulations etc](section/32.md)
+    - [s. 32A Reference documents](section/32A.md)
+  - Interpretation etc
+    - [s. 33 Meaning of “domestic goods”](section/33.md)
+    - [s. 34 Presentation of goods to Customs on import or export](section/34.md)
+    - [s. 35 Exports made in accordance with applicable export provisions](section/35.md)
+    - [s. 36 Outward processing procedure](section/36.md)
+    - [s. 37 Minor definitions](section/37.md)
+    - [s. 38 Table of definitions](section/38.md)
+- PART 2 Export duty
+  - [s. 39 Charge to export duty](section/39.md)
+  - [s. 40 Regulations under section 39: supplementary](section/40.md)
+  - [s. 40A Removal to Northern Ireland of at risk goods etc](section/40A.md)
+  - [s. 40B Duty under section 40A: supplementary](section/40B.md)
+- PART 3 Value added tax
+  - [s. 41 Abolition of acquisition VAT and extension of import VAT](section/41.md)
+  - [s. 42 EU law relating to VAT](section/42.md)
+  - [s. 43 Other VAT amendments connected with withdrawal from EU](section/43.md)
+- PART 4 Excise duties
+  - [s. 44 Excise duties: postal packets sent from overseas](section/44.md)
+  - [s. 45 General regulation making power for excise duty purposes etc](section/45.md)
+  - [s. 46 Exercise of information powers in connection with excise duty](section/46.md)
+  - [s. 47 EU law relating to excise duty](section/47.md)
+  - [s. 48 Regulations under ss. 44 to 47](section/48.md)
+  - [s. 49 Sections 44 to 48: interpretation](section/49.md)
+  - [s. 50 Excise duty amendments connected with withdrawal from EU](section/50.md)
+- PART 5 Other provision connected with withdrawal from EU
+  - [s. 51 Power to make provision in relation to VAT or duties of customs or excise](section/51.md)
+  - [s. 52 Subordinate legislation relating to VAT or duties of customs or excise](section/52.md)
+  - [s. 53 Meaning of “excise duty”](section/53.md)
+- PART 6 Final provisions
+  - [s. 54 Prohibition on collection of certain taxes or duties on behalf of country or territory without reciprocity](section/54.md)
+  - [s. 55 Single United Kingdom customs territory](section/55.md)
+  - [s. 56 Consequential and transitional provision](section/56.md)
+  - [s. 57 Commencement](section/57.md)
+  - [s. 58 Short title](section/58.md)
+- SCHEDULE 1 Customs declarations
+  - Presentation of goods to Customs and period for making Customs declaration etc
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Eligibility of persons to make Customs declarations
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Time at which Customs declarations required or authorised to be made
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Form of Customs declarations and how they are made
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Contents of Customs declarations
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Simplified Customs declarations etc
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Acceptance of Customs declarations
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Verification of Customs declarations
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Amendment or withdrawal of Customs declarations
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
+  - Releasing and discharging goods to and from Customs procedures
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Declarations for different Customs procedures
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Notifications given by HMRC or HMRC officers
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Special Customs procedures
+  - PART 1 Entitlement to declare goods for special customs procedures
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PART 2 Storage procedure
+    - Meaning of goods declared for “a storage procedure”
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Keeping of goods in premises approved by HMRC
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Keeping of goods in free zones
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - PART 3 Transit procedure
+    - Meaning of goods declared for “a transit procedure”
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Other requirements in relation to transit procedure
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Deeming a declaration for a transit procedure to be made
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - PART 4 Inward processing procedure
+    - Introduction
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Meaning of goods declared for “an inward processing procedure” in the standard form
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Other requirements in relation to inward processing procedure in the standard form
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Meaning of goods declared for “an inward processing procedure” in the supplementary form
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Requirements in relation to inward processing procedure in the supplementary form
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - PART 5 Authorised use procedure
+    - Meaning of goods declared for “an authorised use procedure”
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Other requirements in relation to authorised use procedure
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - PART 6 Temporary admission procedure
+    - Meaning of goods declared for “a temporary admission procedure”
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Other requirements in relation to temporary admission procedure
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - PART 7 Supplementary provisions
+    - Records
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Discharge of special Customs procedures: rules applicable to all procedures
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Discharge of special Customs procedures: rules applicable to particular procedures
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Discharge of special Customs procedures: other provision
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Liability to import duty imposed on persons other than declarant etc
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Changes in nature of goods while subject to a special Customs procedure etc
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Use of equivalent domestic goods
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Directions
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+- SCHEDULE 3 Eligible developing countries
+  - PART 1 Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - PART 2 Least developed countries
+  - PART 3 Other eligible developing countries
+  - PART 4 Power to amend Parts 2 and 3
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+- SCHEDULE 4 Dumping of goods or foreign subsidies causing injury to UK industry
+  - PART 1 Key definitions
+    - Meaning of “dumped”
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Meaning of “the margin of dumping”
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Meaning of “subsidised”, “countervailable subsidy” and related terms
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Meaning of “the amount of the subsidy”
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Meaning of “injury”
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Meaning of “UK industry”
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Meaning of “like goods”
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - PART 2 Dumping and subsidisation investigations
+    - Dumping and subsidisation investigations
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Initiation of a dumping or a subsidisation investigation
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Conduct of a dumping or a subsidisation investigation
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Provisional affirmative determinations and final affirmative or negative determinations
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Termination of a dumping or a subsidisation investigation
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Requirement to give notice to the Secretary of State in certain cases
+      - [Sch. 4 para. 12A](schedule/4/paragraph/12A.md)
+  - PART 3 Provisional remedy: requiring a guarantee
+    - TRA’s duty to recommend requiring guarantees
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - TRA’s recommendations regarding requiring a guarantee
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Secretary of State’s power to require a guarantee
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Extension of the period of a provisional remedy in a dumping investigation
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - PART 4 Definitive remedies: anti-dumping amount or countervailing amount
+    - TRA’s duty to recommend an anti-dumping amount or countervailing amount
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - TRA’s recommendations about an anti-dumping amount or a countervailing amount
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Secretary of State’s powers in relation to a recommendation
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Secretary of State’s power to apply an alternative remedy
+      - [Sch. 4 para. 20A](schedule/4/paragraph/20A.md)
+    - Reviews of continuing application of an anti-dumping amount or a countervailing amount
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Variation or revocation following an international dispute decision
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Revocation in the public interest
+      - [Sch. 4 para. 22A](schedule/4/paragraph/22A.md)
+    - Power to request assistance etc
+      - [Sch. 4 para. 22B](schedule/4/paragraph/22B.md)
+  - PART 5 Undertakings
+    - Acceptance of undertakings
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Reviews of undertakings etc
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - PART 6 Supplementary
+    - The economic interest test
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - Suspension of anti-dumping or anti-subsidy remedies
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Not subject to both application of an anti-dumping amount and a countervailing amount
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Investigations regarding repayments and discharge of a guarantee
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - Registration
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - Reconsideration, reviews and appeals
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - Notices
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - Interpretation
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+- SCHEDULE 5 Increase in imports causing serious injury to UK producers
+  - PART 1 Key definitions
+    - Meaning of importation in “increased quantities”
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Meaning of “serious injury”
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Meaning of “UK producers”
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Meaning of “like goods”
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Meaning of “directly competitive goods”
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - PART 2 Safeguarding investigations
+    - Safeguarding investigation
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Initiation of a safeguarding investigation
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Conduct of a safeguarding investigation
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Provisional affirmative determinations and final affirmative or negative determinations
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Termination of a safeguarding investigation
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Requirement to give notice to the Secretary of State in certain cases
+      - [Sch. 5 para. 10A](schedule/5/paragraph/10A.md)
+  - PART 3 Provisional remedies: provisional safeguarding amount & provisional tariff rate quotas
+    - TRA’s duty to recommend a provisional safeguarding amount or provisional tariff rate quota
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - TRA’s recommendations about a provisional safeguarding amount
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - TRA’s recommendations regarding provisional tariff rate quotas
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Secretary of State’s power to apply a provisional safeguarding amount
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Secretary of State’s power to subject goods to a provisional tariff rate quota
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - PART 4 Definitive remedies: definitive safeguarding amount & tariff rate quotas
+    - TRA’s duty to recommend a definitive safeguarding amount or tariff rate quota
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - TRA’s recommendations about a definitive safeguarding amount
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - TRA’s recommendations regarding tariff rate quotas
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Secretary of State’s powers in relation to a recommendation to apply a definitive safeguarding amount
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Secretary of State’s powers in relation to a recommendation to subject goods to a tariff rate quota
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Reviews
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Variation or revocation following an international dispute decision
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Revocation in the public interest
+      - [Sch. 5 para. 22A](schedule/5/paragraph/22A.md)
+    - Power to request assistance etc
+      - [Sch. 5 para. 22B](schedule/5/paragraph/22B.md)
+  - PART 5 Supplementary
+    - The economic interest test
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Suspension of safeguarding remedies
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - Exceptions
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - Restrictions on successive safeguarding remedies
+      - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - Interaction with anti-dumping remedies and anti-subsidy remedies
+      - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - Investigations regarding repayments
+      - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - Reconsideration, reviews and appeals
+      - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - Notices
+      - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - Interpretation
+      - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+- Schedule 5A Increase in imports as a result of free trade agreement causing serious injury to UK producers
+  - [Sch. 5A para. 1 Application of this Schedule](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2 TRA and Secretary of State required to have regard to relevant free trade agreement](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3 Meaning of importation in “increased quantities”](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4 Bilateral safeguarding investigation](schedule/5A/paragraph/4.md)
+  - [Sch. 5A para. 5 Initiation of a bilateral safeguarding investigation](schedule/5A/paragraph/5.md)
+  - [Sch. 5A para. 6 Provisional affirmative determinations and final affirmative or negative determinations](schedule/5A/paragraph/6.md)
+  - [Sch. 5A para. 7 Termination of a bilateral safeguarding investigation](schedule/5A/paragraph/7.md)
+  - [Sch. 5A para. 8 TRA’s duty to recommend provisional measures](schedule/5A/paragraph/8.md)
+  - [Sch. 5A para. 9 TRA’s recommendations about provisional measures](schedule/5A/paragraph/9.md)
+  - [Sch. 5A para. 10 TRA’s recommendations about provisional measures](schedule/5A/paragraph/10.md)
+  - [Sch. 5A para. 11 TRA’s duty to recommend a definitive measure](schedule/5A/paragraph/11.md)
+  - [Sch. 5A para. 12 TRA’s recommendations about definitive measures](schedule/5A/paragraph/12.md)
+  - [Sch. 5A para. 13 TRA’s recommendations about definitive measures](schedule/5A/paragraph/13.md)
+  - [Sch. 5A para. 14 Meaning of “international dispute decision”](schedule/5A/paragraph/14.md)
+  - [Sch. 5A para. 15 No suspension of bilateral safeguarding remedies](schedule/5A/paragraph/15.md)
+  - [Sch. 5A para. 16 Exceptions](schedule/5A/paragraph/16.md)
+  - [Sch. 5A para. 17 No restriction on successive safeguarding remedies](schedule/5A/paragraph/17.md)
+  - [Sch. 5A para. 18 No interaction with anti-dumping remedies and anti-subsidy remedies](schedule/5A/paragraph/18.md)
+  - [Sch. 5A para. 19 Registration](schedule/5A/paragraph/19.md)
+  - [Sch. 5A para. 20 Reports and updates by the TRA and Secretary of State](schedule/5A/paragraph/20.md)
+  - [Sch. 5A para. 21 Secretary of State required to publish notice of decision about whether to apply remedy](schedule/5A/paragraph/21.md)
+  - [Sch. 5A para. 22 Secretary of State not required to lay statements before the House of Commons](schedule/5A/paragraph/22.md)
+  - [Sch. 5A para. 23 Interpretation](schedule/5A/paragraph/23.md)
+  - [Sch. 5A para. 24 Interpretation](schedule/5A/paragraph/24.md)
+- SCHEDULE 6 Import duty: notification of liability, payment etc
+  - Notification of liability to pay import duty
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Payment of import duty
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Guarantees
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Repayment of import duty
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Remission of import duty
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Recovery of import duty
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+- SCHEDULE 7 Import duty: consequential amendments
+  - PART 1 Replacement of EU customs duties
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - PART 2 Amendments of CEMA 1979
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+    - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+    - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+    - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+    - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+    - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+    - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+    - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+    - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+    - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+    - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+    - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+    - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+    - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+    - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+    - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+    - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+    - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+    - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+    - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+    - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+    - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+    - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+    - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+    - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+    - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+    - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+    - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+    - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+    - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+    - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+    - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+    - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+    - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+    - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+    - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+    - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+    - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+    - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+    - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+    - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+    - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+    - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
+    - [Sch. 7 para. 88](schedule/7/paragraph/88.md)
+    - [Sch. 7 para. 89](schedule/7/paragraph/89.md)
+    - [Sch. 7 para. 90](schedule/7/paragraph/90.md)
+    - [Sch. 7 para. 91](schedule/7/paragraph/91.md)
+    - [Sch. 7 para. 92](schedule/7/paragraph/92.md)
+    - [Sch. 7 para. 93](schedule/7/paragraph/93.md)
+    - [Sch. 7 para. 94](schedule/7/paragraph/94.md)
+    - [Sch. 7 para. 95](schedule/7/paragraph/95.md)
+    - [Sch. 7 para. 96](schedule/7/paragraph/96.md)
+    - [Sch. 7 para. 97](schedule/7/paragraph/97.md)
+    - [Sch. 7 para. 98](schedule/7/paragraph/98.md)
+    - [Sch. 7 para. 99](schedule/7/paragraph/99.md)
+    - [Sch. 7 para. 100](schedule/7/paragraph/100.md)
+    - [Sch. 7 para. 101](schedule/7/paragraph/101.md)
+    - [Sch. 7 para. 102](schedule/7/paragraph/102.md)
+    - [Sch. 7 para. 103](schedule/7/paragraph/103.md)
+    - [Sch. 7 para. 104](schedule/7/paragraph/104.md)
+    - [Sch. 7 para. 105](schedule/7/paragraph/105.md)
+    - [Sch. 7 para. 106](schedule/7/paragraph/106.md)
+    - [Sch. 7 para. 107](schedule/7/paragraph/107.md)
+    - [Sch. 7 para. 108](schedule/7/paragraph/108.md)
+    - [Sch. 7 para. 109](schedule/7/paragraph/109.md)
+    - [Sch. 7 para. 110](schedule/7/paragraph/110.md)
+    - [Sch. 7 para. 111](schedule/7/paragraph/111.md)
+    - [Sch. 7 para. 112](schedule/7/paragraph/112.md)
+    - [Sch. 7 para. 113](schedule/7/paragraph/113.md)
+    - [Sch. 7 para. 114](schedule/7/paragraph/114.md)
+    - [Sch. 7 para. 115](schedule/7/paragraph/115.md)
+    - [Sch. 7 para. 116](schedule/7/paragraph/116.md)
+    - [Sch. 7 para. 117](schedule/7/paragraph/117.md)
+  - PART 3 Amendments of other enactments
+    - Customs and Excise Duties (General Reliefs) Act 1979
+      - [Sch. 7 para. 118](schedule/7/paragraph/118.md)
+      - [Sch. 7 para. 119](schedule/7/paragraph/119.md)
+      - [Sch. 7 para. 120](schedule/7/paragraph/120.md)
+      - [Sch. 7 para. 121](schedule/7/paragraph/121.md)
+      - [Sch. 7 para. 122](schedule/7/paragraph/122.md)
+      - [Sch. 7 para. 123](schedule/7/paragraph/123.md)
+      - [Sch. 7 para. 124](schedule/7/paragraph/124.md)
+      - [Sch. 7 para. 125](schedule/7/paragraph/125.md)
+      - [Sch. 7 para. 126](schedule/7/paragraph/126.md)
+      - [Sch. 7 para. 127](schedule/7/paragraph/127.md)
+      - [Sch. 7 para. 128](schedule/7/paragraph/128.md)
+      - [Sch. 7 para. 129](schedule/7/paragraph/129.md)
+      - [Sch. 7 para. 130](schedule/7/paragraph/130.md)
+      - [Sch. 7 para. 131](schedule/7/paragraph/131.md)
+      - [Sch. 7 para. 132](schedule/7/paragraph/132.md)
+      - [Sch. 7 para. 133](schedule/7/paragraph/133.md)
+      - [Sch. 7 para. 134](schedule/7/paragraph/134.md)
+      - [Sch. 7 para. 135](schedule/7/paragraph/135.md)
+      - [Sch. 7 para. 136](schedule/7/paragraph/136.md)
+      - [Sch. 7 para. 137](schedule/7/paragraph/137.md)
+      - [Sch. 7 para. 138](schedule/7/paragraph/138.md)
+    - Isle of Man Act 1979
+      - [Sch. 7 para. 139](schedule/7/paragraph/139.md)
+      - [Sch. 7 para. 140](schedule/7/paragraph/140.md)
+      - [Sch. 7 para. 141](schedule/7/paragraph/141.md)
+    - Finance Act 1994
+      - [Sch. 7 para. 142](schedule/7/paragraph/142.md)
+      - [Sch. 7 para. 143](schedule/7/paragraph/143.md)
+      - [Sch. 7 para. 144](schedule/7/paragraph/144.md)
+      - [Sch. 7 para. 145](schedule/7/paragraph/145.md)
+    - Terrorism Act 2000
+      - [Sch. 7 para. 146](schedule/7/paragraph/146.md)
+    - Finance Act 2003
+      - [Sch. 7 para. 147](schedule/7/paragraph/147.md)
+      - [Sch. 7 para. 148](schedule/7/paragraph/148.md)
+      - [Sch. 7 para. 149](schedule/7/paragraph/149.md)
+      - [Sch. 7 para. 150](schedule/7/paragraph/150.md)
+      - [Sch. 7 para. 151](schedule/7/paragraph/151.md)
+      - [Sch. 7 para. 152](schedule/7/paragraph/152.md)
+    - Income Tax (Trading and Other Income) Act 2005
+      - [Sch. 7 para. 153](schedule/7/paragraph/153.md)
+      - [Sch. 7 para. 154](schedule/7/paragraph/154.md)
+      - [Sch. 7 para. 155](schedule/7/paragraph/155.md)
+    - Borders, Citizenship and Immigration Act 2009
+      - [Sch. 7 para. 156](schedule/7/paragraph/156.md)
+    - Corporation Tax Act 2009
+      - [Sch. 7 para. 157](schedule/7/paragraph/157.md)
+  - PART 4 Savings and modifications in relation to Northern Ireland
+    - Application of CEMA 1979 etc
+      - [Sch. 7 para. 158](schedule/7/paragraph/158.md)
+- SCHEDULE 8 VAT amendments connected with withdrawal from EU
+  - PART 1 Amendments of Value Added Tax Act 1994
+    - Amendment of the Value Added Tax Act 1994
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+      - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+      - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+      - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+      - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+      - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+      - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+      - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+      - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+      - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+      - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+      - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+      - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+      - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+      - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+      - [Sch. 8 para. 75](schedule/8/paragraph/75.md)
+      - [Sch. 8 para. 76](schedule/8/paragraph/76.md)
+      - [Sch. 8 para. 77](schedule/8/paragraph/77.md)
+      - [Sch. 8 para. 78](schedule/8/paragraph/78.md)
+      - [Sch. 8 para. 79](schedule/8/paragraph/79.md)
+      - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+      - [Sch. 8 para. 81](schedule/8/paragraph/81.md)
+      - [Sch. 8 para. 82](schedule/8/paragraph/82.md)
+      - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+      - [Sch. 8 para. 84](schedule/8/paragraph/84.md)
+      - [Sch. 8 para. 85](schedule/8/paragraph/85.md)
+      - [Sch. 8 para. 86](schedule/8/paragraph/86.md)
+      - [Sch. 8 para. 87](schedule/8/paragraph/87.md)
+      - [Sch. 8 para. 88](schedule/8/paragraph/88.md)
+      - [Sch. 8 para. 89](schedule/8/paragraph/89.md)
+      - [Sch. 8 para. 90](schedule/8/paragraph/90.md)
+      - [Sch. 8 para. 91](schedule/8/paragraph/91.md)
+      - [Sch. 8 para. 92](schedule/8/paragraph/92.md)
+      - [Sch. 8 para. 93](schedule/8/paragraph/93.md)
+      - [Sch. 8 para. 94](schedule/8/paragraph/94.md)
+      - [Sch. 8 para. 95](schedule/8/paragraph/95.md)
+      - [Sch. 8 para. 96](schedule/8/paragraph/96.md)
+      - [Sch. 8 para. 97](schedule/8/paragraph/97.md)
+      - [Sch. 8 para. 98](schedule/8/paragraph/98.md)
+    - Effect of amendments made by this Part of this Schedule
+      - [Sch. 8 para. 99](schedule/8/paragraph/99.md)
+  - PART 2 Amendments of other enactments
+    - Diplomatic Privileges Act 1964
+      - [Sch. 8 para. 100](schedule/8/paragraph/100.md)
+    - Commonwealth Secretariat Act 1966
+      - [Sch. 8 para. 101](schedule/8/paragraph/101.md)
+    - Consular Relations Act 1968
+      - [Sch. 8 para. 102](schedule/8/paragraph/102.md)
+    - International Organisations Act 1968
+      - [Sch. 8 para. 103](schedule/8/paragraph/103.md)
+    - Diplomatic and other Privileges Act 1971
+      - [Sch. 8 para. 104](schedule/8/paragraph/104.md)
+    - Customs and Excise Duties (General Reliefs) Act 1979
+      - [Sch. 8 para. 105](schedule/8/paragraph/105.md)
+    - Finance Act 1994
+      - [Sch. 8 para. 106](schedule/8/paragraph/106.md)
+    - Vehicle Excise and Registration Act 1994
+      - [Sch. 8 para. 107](schedule/8/paragraph/107.md)
+    - Finance Act 2003
+      - [Sch. 8 para. 108](schedule/8/paragraph/108.md)
+      - [Sch. 8 para. 109](schedule/8/paragraph/109.md)
+      - [Sch. 8 para. 110](schedule/8/paragraph/110.md)
+    - Finance Act 2007
+      - [Sch. 8 para. 111](schedule/8/paragraph/111.md)
+    - Finance Act 2008
+      - [Sch. 8 para. 112](schedule/8/paragraph/112.md)
+      - [Sch. 8 para. 113](schedule/8/paragraph/113.md)
+      - [Sch. 8 para. 114](schedule/8/paragraph/114.md)
+    - Finance Act 2009
+      - [Sch. 8 para. 115](schedule/8/paragraph/115.md)
+      - [Sch. 8 para. 116](schedule/8/paragraph/116.md)
+      - [Sch. 8 para. 117](schedule/8/paragraph/117.md)
+      - [Sch. 8 para. 118](schedule/8/paragraph/118.md)
+      - [Sch. 8 para. 119](schedule/8/paragraph/119.md)
+    - Finance Act 2011
+      - [Sch. 8 para. 120](schedule/8/paragraph/120.md)
+    - Finance Act 2016
+      - [Sch. 8 para. 121](schedule/8/paragraph/121.md)
+    - Finance (No. 2) Act 2017
+      - [Sch. 8 para. 122](schedule/8/paragraph/122.md)
+      - [Sch. 8 para. 123](schedule/8/paragraph/123.md)
+      - [Sch. 8 para. 124](schedule/8/paragraph/124.md)
+      - [Sch. 8 para. 125](schedule/8/paragraph/125.md)
+      - [Sch. 8 para. 126](schedule/8/paragraph/126.md)
+      - [Sch. 8 para. 127](schedule/8/paragraph/127.md)
+      - [Sch. 8 para. 128](schedule/8/paragraph/128.md)
+      - [Sch. 8 para. 129](schedule/8/paragraph/129.md)
+      - [Sch. 8 para. 130](schedule/8/paragraph/130.md)
+      - [Sch. 8 para. 131](schedule/8/paragraph/131.md)
+    - Consequential repeals
+      - [Sch. 8 para. 132](schedule/8/paragraph/132.md)
+- SCHEDULE 9 Excise duty amendments connected with withdrawal from EU
+  - Customs and Excise Management Act 1979
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Hydrocarbon Oil Duties Act 1979
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Tobacco Products Duty Act 1979
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Finance Act 1994
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Finance Act 2008
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Savings in relation to Northern Ireland
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
