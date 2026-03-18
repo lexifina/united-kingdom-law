@@ -2,9 +2,9 @@
 
 2021 c. 26. Enacted 2021-06-10.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-05-31, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/26/2025-05-31
+Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-03-18
 
 ## Contents
 
@@ -74,7 +74,9 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2025-05-31
   - Interpretation of main terms etc
     - [s. 47 Chargeable plastic packaging components](section/47.md)
     - [s. 48 Meaning of “plastic packaging component”](section/48.md)
-    - [s. 49 Meaning of “plastic” and “recycled plastic”](section/49.md)
+    - [s. 49 Meaning of “plastic”, “recycled plastic” and “attributed recycled plastic”](section/49.md)
+    - [s. 49A Meaning of “chemical recycling certification scheme”](section/49A.md)
+    - [s. 49B Chemical recycling certification schemes: further conditions](section/49B.md)
     - [s. 50 Time of importation](section/50.md)
   - Deferrals, exemptions and credits
     - [s. 51 Plastic packaging components intended for export](section/51.md)
@@ -120,7 +122,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2025-05-31
     - [s. 85 Commencement etc](section/85.md)
 - PART 3 Other taxes
   - Inheritance tax
-    - [s. 86 Rate bands etc for tax years 2021-22 to 2029-30](section/86.md)
+    - [s. 86 Rate bands etc for tax years 2021-22 to 2030-31](section/86.md)
   - Stamp duty land tax
     - [s. 87 Temporary period for reduced rates on residential property](section/87.md)
     - [s. 88 Increased rates for non-resident transactions](section/88.md)
