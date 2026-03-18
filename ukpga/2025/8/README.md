@@ -2,9 +2,9 @@
 
 2025 c. 8. Enacted 2025-03-20.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-04-06, one file per provision. Earlier versions, from 2025-03-20, are in the history before it: `git log -- ukpga/2025/8` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2025-03-20, are in the history before it: `git log -- ukpga/2025/8` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/8/2025-04-06
+Source: https://www.legislation.gov.uk/ukpga/2025/8/2026-03-18
 
 ## Contents
 
@@ -348,6 +348,8 @@ Source: https://www.legislation.gov.uk/ukpga/2025/8/2025-04-06
     - [Sch. 10 para. 11 Income tax exemptions: application of transfer of assets abroad rules in future years](schedule/10/paragraph/11.md)
     - [Sch. 10 para. 12 Capital gains tax: main exemption](schedule/10/paragraph/12.md)
     - [Sch. 10 para. 13 Capital gains tax: reliefs in respect of matched capital payments](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 13A Amounts derived from designated qualifying overseas capital](schedule/10/paragraph/13A.md)
+    - [Sch. 10 para. 13B Effect of this Schedule on section 65(5) IHTA 1984 and section 260(2) of TCGA 1992](schedule/10/paragraph/13B.md)
   - Part 3 Effect of designation on when amounts remitted etc
     - [Sch. 10 para. 14 Temporary disapplication of nominated income ordering rules](schedule/10/paragraph/14.md)
     - [Sch. 10 para. 15 Mixed funds: section 809Q of ITA 2007](schedule/10/paragraph/15.md)
