@@ -2,9 +2,9 @@
 
 2019 c. 1. Enacted 2019-02-12.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2019-02-12, are in the history before it: `git log -- ukpga/2019/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2019/1/2025-03-20
+Source: https://www.legislation.gov.uk/ukpga/2019/1/2026-03-18
 
 ## Contents
 
@@ -301,7 +301,7 @@ Source: https://www.legislation.gov.uk/ukpga/2019/1/2025-03-20
     - Repayments of amounts previously paid on account of capital gains tax
       - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
       - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
-    - Collective investment schemes to which Sch.5AAA to TCGA 1992 applies
+    - Collective investment vehicles to which Sch.5AAA to TCGA 1992 applies
       - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
       - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
       - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
