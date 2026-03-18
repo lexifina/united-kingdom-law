@@ -1,0 +1,236 @@
+# Police (Northern Ireland) Act 1998
+
+1998 c. 32. Enacted 1998-07-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
+
+Source: https://www.legislation.gov.uk/ukpga/1998/32/2026-03-18
+
+## Contents
+
+- Part I
+  - [s. 1 The Police Authority for Northern Ireland.](section/1.md)
+  - [s. 2 General functions of the Police Authority.](section/2.md)
+  - [s. 3 Staff of the Police Authority.](section/3.md)
+  - [s. 4 Power to transfer staff to employment of Police Authority.](section/4.md)
+  - [s. 5 Provision and maintenance of buildings and equipment.](section/5.md)
+  - [s. 6 Acquisition and disposal of land by Police Authority.](section/6.md)
+  - [s. 7 Arrangements for obtaining the views of the public on policing.](section/7.md)
+  - [s. 8 Provision of advice and assistance to international organisations, etc.](section/8.md)
+  - [s. 9 Grants to, and borrowing by, the Police Authority.](section/9.md)
+  - [s. 10 Funding of Police Authority – ancillary provisions.](section/10.md)
+  - [s. 11 Charges for special services.](section/11.md)
+  - [s. 12 Accounts and audit.](section/12.md)
+  - [s. 13 Rewards for diligence.](section/13.md)
+- Part II
+  - [s. 14 Setting of policing objectives by Secretary of State.](section/14.md)
+  - [s. 15 Setting of policing objectives and performance targets by Police Authority.](section/15.md)
+  - [s. 16 The Chief Constable’s strategic policing plan.](section/16.md)
+  - [s. 17 The Police Authority’s annual policing plan.](section/17.md)
+- Part III The police force
+  - [s. 18 ................................](section/18.md)
+  - [s. 19 ................................](section/19.md)
+  - [s. 20 ................................](section/20.md)
+  - [s. 21 ................................](section/21.md)
+  - [s. 22 ................................](section/22.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 Regulations for Police Service of Northern Ireland.](section/25.md)
+  - [s. 25A Regulations about hours, leave, pay or equipment: consultation etc](section/25A.md)
+  - [s. 26 Regulations for Police Service of Northern Ireland Reserve.](section/26.md)
+  - [s. 27 Members of Police Service of Northern Ireland engaged on other police service.](section/27.md)
+  - [s. 28 The Police Fund.](section/28.md)
+  - [s. 29 Liability for wrongful acts of constables.](section/29.md)
+  - [s. 30 Protection of members of the police force in executing warrants.](section/30.md)
+  - [s. 31 Property coming into the possession of the police.](section/31.md)
+- Part IV Police representative institutions
+  - [s. 32 Police Association for Northern Ireland.](section/32.md)
+  - [s. 33 Regulations for Police Association.](section/33.md)
+  - [s. 34 The Police Negotiating Board for the United Kingdom.](section/34.md)
+  - [s. 35 Membership of trade unions.](section/35.md)
+- Part V Functions of Secretary of State and Department of Justice
+  - [s. 36 ................................](section/36.md)
+  - [s. 37 ................................](section/37.md)
+  - [s. 38 ................................](section/38.md)
+  - [s. 39 ................................](section/39.md)
+  - [s. 40 Power to require use by police of specified facilities, equipment or services.](section/40.md)
+  - [s. 41 Appointment of inspectors of constabulary.](section/41.md)
+  - [s. 41A Powers of Secretary of State in relation to reports and other duties of inspectors of constabulary](section/41A.md)
+  - [s. 42 Publication of reports of inspectors of constabulary.](section/42.md)
+  - [s. 43 Criminal statistics.](section/43.md)
+  - [s. 44 Inquiries.](section/44.md)
+  - [s. 45 Research and advice.](section/45.md)
+  - [s. 46 Expenditure by Department of Justice for police purposes.](section/46.md)
+- Part VI
+  - [s. 47 Annual and other reports by Police Authority to Secretary of State.](section/47.md)
+  - [s. 48 Annual and other reports by Chief Constable to Police Authority.](section/48.md)
+  - [s. 49 Reports by Chief Constable to Secretary of State.](section/49.md)
+- Part VII Police complaints and disciplinary proceedings
+  - [s. 50 Interpretation of this Part.](section/50.md)
+  - [s. 50A Complaints relating to conduct forming part of the Troubles](section/50A.md)
+  - [s. 51 The Police Ombudsman for Northern Ireland.](section/51.md)
+  - [s. 52 Complaints – receipt and initial classification of complaints.](section/52.md)
+  - [s. 53 Complaints – informal resolution.](section/53.md)
+  - [s. 54 Complaints – formal investigation.](section/54.md)
+  - [s. 55 Consideration of other matters by the Ombudsman.](section/55.md)
+  - [s. 56 Formal investigation by the Ombudsman.](section/56.md)
+  - [s. 57 Formal investigation by a police officer.](section/57.md)
+  - [s. 58 Steps to be taken after investigation – criminal proceedings.](section/58.md)
+  - [s. 58A Steps to be taken after investigation – mediation.](section/58A.md)
+  - [s. 59 Steps to be taken after investigation – disciplinary proceedings.](section/59.md)
+  - [s. 60 Constabularies not maintained by Board.](section/60.md)
+  - [s. 60ZA The National Crime Agency](section/60ZA.md)
+  - [s. 60ZB Immigration and customs enforcement functions](section/60ZB.md)
+  - [s. 60ZC Section 60ZB: supplementary](section/60ZC.md)
+  - [s. 60ZD The Independent Commission for Reconciliation and Information Recovery](section/60ZD.md)
+  - [s. 60A Investigations into current police practices and policies](section/60A.md)
+  - [s. 61 Reports.](section/61.md)
+  - [s. 61A Reports to Chief Constable and Board.](section/61A.md)
+  - [s. 61AA Supply of information by Ombudsman to Board.](section/61AA.md)
+  - [s. 62 Statements by Ombudsman about exercise of his functions.](section/62.md)
+  - [s. 63 Restriction on disclosure of information.](section/63.md)
+  - [s. 64 Regulations.](section/64.md)
+  - [s. 64A Secretary of State’s power to make regulations](section/64A.md)
+  - [s. 65 Guidance concerning discipline, complaints, etc.](section/65.md)
+- Part VIII Miscellaneous and general
+  - Offences
+    - [s. 66 Assaults on, and obstruction of, constables, etc.](section/66.md)
+    - [s. 67 Impersonation, etc.](section/67.md)
+    - [s. 68 Causing disaffection.](section/68.md)
+    - [s. 69 Obtaining pension by self-inflicted injury, etc.](section/69.md)
+  - Traffic wardens
+    - [s. 70 ................................](section/70.md)
+  - Supplementary
+    - [s. 71 Expenses of Secretary of State.](section/71.md)
+    - [s. 72 Orders and regulations.](section/72.md)
+    - [s. 73 Interpretation.](section/73.md)
+    - [s. 74 Amendments, transitional provisions, repeals, etc.](section/74.md)
+    - [s. 75 Commencement.](section/75.md)
+    - [s. 76 Extent.](section/76.md)
+    - [s. 77 Short title.](section/77.md)
+- SCHEDULE 1
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Constitution
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Term of office
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration and allowances
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Procedure
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Validity of proceedings
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Seal
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Contracts, etc.
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Evidence
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Disclosure of pecuniary interests, family connections, etc.
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Committees
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2
+- SCHEDULE 3 The Police Ombudsman for Northern Ireland
+  - The Ombudsman
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Remuneration, pensions, allowances, etc.
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Staff
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Assistance by members of the police force
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Assistance by members of a police force in Great Britain
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Exercise of functions
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Evidence
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Finance
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Property
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Amendments
+  - The Incitement to Disaffection Act 1934 (c. 56)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - The Police (Overseas Service) Act 1945 (c. 17)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Interpretation Act (Northern Ireland) 1954 (c. 33 (N.I.))
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Police (Scotland) Act 1967 (c. 77)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Local Government Act (Northern Ireland) 1972 (c. 9 (N.I.))
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Superannuation (Northern Ireland) Order 1972 (NI 10)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Overseas Pensions Act 1973 (c. 21)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - The House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Fair Employment (Northern Ireland) Act 1976 (c. 25)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - The Animals (Northern Ireland) Order 1976 (NI 13)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - The Sex Discrimination (Northern Ireland) Order 1976 (NI 15)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - The Criminal Damage (Northern Ireland) Order 1977 (NI 4)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - The Customs and Excise Act 1979 (c. 2)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - The Firearms (Northern Ireland) Order 1981 (NI 2)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - The Ministry of Defence Police Act 1987 (c. 4)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - The Official Secrets Act 1989 (c. 6)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - The Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - The Criminal Justice (Northern Ireland) Order 1994 (NI 15)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+  - The Police Act 1996 (c. 16)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - The Juries (Northern Ireland) Order 1996 (NI 6)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - The Police Act 1997 (c. 50)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+  - The Race Relations (Northern Ireland) Order 1997 (NI 6)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - The Police (Health and Safety)(Northern Ireland) Order 1997 (NI 16)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+- SCHEDULE 5 Transitional provisions and savings
+  - Part I General
+    - Saving for pensions, etc. under repealed provisions
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Statutory references to Royal Irish Constabulary, etc.
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Power to make other transitional or saving provisions
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part II The Police Ombudsman for Northern Ireland
+    - Interpretation
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Transfer of property, rights and liabilities of Commission
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Transfer of staff
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Legal proceedings
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Payments to former members of the Commission
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Information received by Commission
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Financial year
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Stamp duty
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+- SCHEDULE 6 Repeals
