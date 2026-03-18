@@ -2,9 +2,9 @@
 
 2017 c. 32. Enacted 2017-11-16.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2017-11-16, are in the history before it: `git log -- ukpga/2017/32` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/32/2025-03-20
+Source: https://www.legislation.gov.uk/ukpga/2017/32/2026-03-18
 
 ## Contents
 
@@ -1155,7 +1155,7 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2025-03-20
     - Power to vary certain relevant periods
       - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
   - PART 2 Penalties
-    - Penalty for failure to comply with duties under Part 1 (apart from paragraph 26)
+    - Penalty for failure to comply with duties under Part 1 ...
       - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
       - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
       - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
@@ -1163,9 +1163,9 @@ Source: https://www.legislation.gov.uk/ukpga/2017/32/2025-03-20
       - [Sch. 17 para. 43](schedule/17/paragraph/43.md)
     - Penalty for failure to comply with duties under paragraph 26
       - [Sch. 17 para. 44](schedule/17/paragraph/44.md)
-    - Penalty proceedings before First-tier tribunal
+    - ...
       - [Sch. 17 para. 45](schedule/17/paragraph/45.md)
-    - Assessment of penalties under paragraph 39(1)(b) or 44
+    - Assessment of penalties ...
       - [Sch. 17 para. 46](schedule/17/paragraph/46.md)
       - [Sch. 17 para. 47](schedule/17/paragraph/47.md)
     - Reasonable excuse
