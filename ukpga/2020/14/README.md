@@ -1,0 +1,683 @@
+# Finance Act 2020
+
+2020 c. 14. Enacted 2020-07-22.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2020/14/2026-03-18
+
+## Contents
+
+- PART 1 Income tax, corporation tax and capital gains tax
+  - Income tax charge, rates etc
+    - [s. 1 Income tax charge for tax year 2020-21](section/1.md)
+    - [s. 2 Main rates of income tax for tax year 2020-21](section/2.md)
+    - [s. 3 Default and savings rates of income tax for tax year 2020-21](section/3.md)
+    - [s. 4 Starting rate limit for savings for tax year 2020-21](section/4.md)
+  - Corporation tax charge and rates
+    - [s. 5 Main rate of corporation tax for financial year 2020](section/5.md)
+    - [s. 6 Corporation tax: charge and main rate for financial year 2021](section/6.md)
+  - Employment income and social security income
+    - [s. 7 Workers’ services provided through intermediaries](section/7.md)
+    - [s. 8 Determining the appropriate percentage for a car: tax year 2020-21 onwards](section/8.md)
+    - [s. 9 Determining the appropriate percentage for a car: tax year 2020-21 only](section/9.md)
+    - [s. 10 Determining the appropriate percentage for a car: tax year 2021-22 only](section/10.md)
+    - [s. 11 Apprenticeship bursaries paid to persons leaving local authority care](section/11.md)
+    - [s. 12 Tax treatment of certain Scottish social security benefits](section/12.md)
+    - [s. 13 Power to exempt social security benefits from income tax](section/13.md)
+    - [s. 14 Voluntary office-holders: payments in respect of expenses](section/14.md)
+  - Loan charge
+    - [s. 15 Loan charge not to apply to loans or quasi-loans made before 9 December 2010](section/15.md)
+    - [s. 16 Election for loan charge to be split over three tax years](section/16.md)
+    - [s. 17 Loan charge reduced where underlying liability disclosed but unenforceable](section/17.md)
+    - [s. 18 Relief from interest on tax payable by a person subject to the loan charge](section/18.md)
+    - [s. 19 Minor amendments relating to the loan charge](section/19.md)
+    - [s. 20 Repaying sums paid to HMRC under agreements relating to certain loans etc](section/20.md)
+    - [s. 21 Operation of the scheme](section/21.md)
+  - Pensions
+    - [s. 22 Annual allowance: tapered reduction](section/22.md)
+  - Chargeable gains
+    - [s. 23 Entrepreneurs’ relief](section/23.md)
+    - [s. 24 Relief on disposal of private residence](section/24.md)
+    - [s. 25 Corporate capital losses](section/25.md)
+    - [s. 26 Quarterly instalment payments](section/26.md)
+    - [s. 27 Relief from CGT for loans to traders](section/27.md)
+  - Reliefs for business
+    - [s. 28 Research and development expenditure credit](section/28.md)
+    - [s. 29 Structures and buildings allowances: rate of relief](section/29.md)
+    - [s. 30 Structures and buildings allowances: miscellaneous amendments](section/30.md)
+    - [s. 31 Intangible fixed assets: pre-FA 2002 assets etc](section/31.md)
+  - Miscellaneous measures affecting companies
+    - [s. 32 Non-UK resident companies carrying on UK property businesses etc](section/32.md)
+    - [s. 33 Surcharge on banking companies: transferred-in losses](section/33.md)
+    - [s. 34 CT payment plans for tax on certain transactions with EEA residents](section/34.md)
+    - [s. 35 Changes to accounting standards affecting leases](section/35.md)
+  - Investments
+    - [s. 36 Enterprise investment scheme: approved investment fund as nominee](section/36.md)
+    - [s. 37 Gains from contracts for life insurance etc: top slicing relief](section/37.md)
+    - [s. 38 Losses on disposal of shares: abolition of requirement to be UK business](section/38.md)
+- PART 2 Digital services tax
+  - Introduction
+    - [s. 39 Digital services tax: introduction](section/39.md)
+  - Digital services revenues, UK digital services revenues etc
+    - [s. 40 Meaning of “digital services revenues”](section/40.md)
+    - [s. 41 Meaning of “UK digital services revenues”](section/41.md)
+    - [s. 42 UK digital services revenues: accommodation and land](section/42.md)
+    - [s. 43 Meaning of “digital services activity” etc](section/43.md)
+    - [s. 44 Meaning of “user” and “UK user”](section/44.md)
+    - [s. 45 Exclusion for online financial marketplaces](section/45.md)
+  - Charge to tax
+    - [s. 46 Meaning of “the threshold conditions”](section/46.md)
+    - [s. 47 Charge to DST](section/47.md)
+    - [s. 48 Alternative basis of charge](section/48.md)
+    - [s. 49 Section 48: meaning of “relevant operating expenses”](section/49.md)
+    - [s. 50 Relief for certain cross-border transactions](section/50.md)
+    - [s. 51 When DST is due and payable](section/51.md)
+  - Duty to submit returns etc
+    - [s. 52 Meaning of “the responsible member”](section/52.md)
+    - [s. 53 Continuity of obligations etc where change in the responsible member](section/53.md)
+    - [s. 54 Duty to notify HMRC when threshold conditions are met](section/54.md)
+    - [s. 55 Duty to notify HMRC of change in relevant information](section/55.md)
+    - [s. 56 Duty to file returns](section/56.md)
+  - Groups, parents and members
+    - [s. 57 Meaning of “group”, “parent” etc](section/57.md)
+    - [s. 58 Section 57: meaning of “relevant entity”](section/58.md)
+    - [s. 59 Continuity of a group over time](section/59.md)
+    - [s. 60 Treatment of stapled entities](section/60.md)
+  - Accounting periods, accounts etc
+    - [s. 61 Accounting periods and meaning of “a group’s accounts”](section/61.md)
+    - [s. 62 Apportionment of revenues or expenses to accounting period](section/62.md)
+    - [s. 63 Meaning of revenues arising, or expenses recognised, in a period](section/63.md)
+    - [s. 64 Meaning of “the applicable accounting standards” etc](section/64.md)
+  - Supplementary
+    - [s. 65 Anti-avoidance](section/65.md)
+    - [s. 66 Notice requiring payment from other group members](section/66.md)
+    - [s. 67 Interest on overdue DST](section/67.md)
+    - [s. 68 Interest on overpaid DST etc](section/68.md)
+    - [s. 69 Recovery of DST liability](section/69.md)
+    - [s. 70 Minor and consequential amendments](section/70.md)
+    - [s. 71 Review of DST](section/71.md)
+  - General
+    - [s. 72 Interpretation of Part](section/72.md)
+- PART 3 Other taxes
+  - Inheritance tax
+    - [s. 73 Excluded property etc](section/73.md)
+    - [s. 74 Transfers between settlements etc](section/74.md)
+    - [s. 75 Relief for payments to victims of persecution during Second World War era](section/75.md)
+  - Stamp duty land tax
+    - [s. 76 Exceptional circumstances preventing disposal of interest in three year period](section/76.md)
+  - Stamp duty and stamp duty reserve tax
+    - [s. 77 Stamp duty: transfers of unlisted securities and connected persons](section/77.md)
+    - [s. 78 SDRT: unlisted securities and connected persons](section/78.md)
+    - [s. 79 Stamp duty: acquisition of target company’s share capital](section/79.md)
+  - Value added tax
+    - [s. 80 Call-off stock arrangements](section/80.md)
+  - Alcohol liquor duties
+    - [s. 81 Post-duty point dilution of wine or made-wine](section/81.md)
+  - Tobacco products duty
+    - [s. 82 Rates of tobacco products duty](section/82.md)
+  - Vehicle taxes
+    - [s. 83 Rates for light passenger or light goods vehicles, motorcycles etc](section/83.md)
+    - [s. 84 Applicable CO2 emissions figure determined using WLTP values](section/84.md)
+    - [s. 85 Electric vehicles: extension of exemption](section/85.md)
+    - [s. 86 Motor caravans](section/86.md)
+    - [s. 87 Exemption in respect of medical courier vehicles](section/87.md)
+    - [s. 88 HGV road user levy: exempt period](section/88.md)
+    - [s. 88A HGV road user levy: transitional provision for end of exempt period](section/88A.md)
+  - Hydrocarbon oil duties
+    - [s. 89 Rebated fuel: private pleasure craft](section/89.md)
+  - Air passenger duty
+    - [s. 90 Rates of air passenger duty from 1 April 2021](section/90.md)
+  - Gaming duty
+    - [s. 91 Amounts of gross gaming yield charged to gaming duty](section/91.md)
+  - Environmental taxes
+    - [s. 92 Rates of climate change levy until 1 April 2021](section/92.md)
+    - [s. 93 Rates of climate change levy from 1 April 2021](section/93.md)
+    - [s. 94 Rates of landfill tax](section/94.md)
+    - [s. 95 Carbon emissions tax](section/95.md)
+    - [s. 96 Charge for allocating allowances under emissions reduction trading scheme](section/96.md)
+  - Import duty
+    - [s. 97 International trade disputes](section/97.md)
+- PART 4 Miscellaneous and final
+  - Insolvency
+    - [s. 98 HMRC debts: priority on insolvency](section/98.md)
+    - [s. 99 HMRC debts: regulations](section/99.md)
+  - Joint and several liability
+    - [s. 100 Joint and several liability of company directors etc](section/100.md)
+  - General anti-abuse rule
+    - [s. 101 Amendments relating to the operation of the GAAR](section/101.md)
+  - Compensation schemes etc
+    - [s. 102 Tax relief for scheme payments etc](section/102.md)
+  - Administration
+    - [s. 103 HMRC: exercise of officer functions](section/103.md)
+    - [s. 104 Returns relating to LLP not carrying on business etc with view to profit](section/104.md)
+    - [s. 105 Interest on unpaid tax in case of disaster etc of national significance](section/105.md)
+  - Coronavirus
+    - [s. 106 Taxation of coronavirus support payments](section/106.md)
+    - [s. 107 Enterprise management incentives](section/107.md)
+    - [s. 108 Protected pension age of members re-employed as a result of coronavirus](section/108.md)
+    - [s. 109 Modifications of the statutory residence test in connection with coronavirus](section/109.md)
+    - [s. 110 Future Fund: EIS and SEIS relief](section/110.md)
+  - Preparing for new tax
+    - [s. 111 Preparing for a new tax in respect of certain plastic packaging](section/111.md)
+  - Local loans
+    - [s. 112 Limits on local loans](section/112.md)
+  - Other
+    - [s. 113 Interpretation](section/113.md)
+    - [s. 114 Short title](section/114.md)
+- SCHEDULE 1 Workers’ services provided through intermediaries
+  - PART 1 Amendments to Chapter 8 of Part 2 of ITEPA 2003
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - PART 2 Amendments to Chapter 10 of Part 2 of ITEPA 2003
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - PART 3 Consequential and miscellaneous amendments
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - PART 4 Commencement and transitional provisions
+    - Commencement
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Transitional provisions
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+- SCHEDULE 2 The loan charge: consequential amendments
+  - PART 1 Amendments to F(No.2)A 2017 in consequence of section 15
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - PART 2 Amendments in consequence of section 16
+    - ITEPA 2003
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - F(No.2)A 2017
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Social Security (Contributions) Regulations 2001
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+- SCHEDULE 3 Entrepreneurs’ relief
+  - PART 1 Reduction in lifetime limit
+    - Reduction in lifetime limit
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Commencement
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Anti-forestalling: unconditional contracts
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Anti-forestalling: reorganisations of share capital
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Anti-forestalling: exchanges of securities etc
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Interpretation
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - PART 2 Re-naming the relief
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Corporate capital losses
+  - PART 1 Corporate capital loss restriction
+    - Restriction on deduction from chargeable gains: main provisions
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Insolvent companies
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Companies without a source of chargeable income
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Offshore collective investment vehicles
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Insurance companies: ring fence
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Oil activities: ring fence
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Clogged losses
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Pre-entry losses
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Real estate investment trusts
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Counteraction of avoidance arrangements
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Minor and consequential amendments to Part 7ZA of CTA 2010
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+      - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+      - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+      - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+      - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+      - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+      - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+      - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - Minor and consequential amendments to Part 7A of CTA 2010
+      - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+      - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+      - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+  - PART 2 Corporate capital loss deductions: miscellaneous provision
+    - Companies without a source of chargeable income: carry back of losses
+      - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - Insurance companies: minor amendments to TCGA 1992 and FA 2012
+      - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+      - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - PART 3 Commencement and anti-forestalling provision
+    - Commencement
+      - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+      - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+      - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+      - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - Anti-forestalling provision
+      - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+- SCHEDULE 5 Structures and buildings allowances
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Research and development allowances
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Contribution allowances
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Minor amendments
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Commencement
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+- SCHEDULE 6 Non-UK resident companies carrying on UK property businesses etc
+  - Calculation of non-trading profits and deficits from loan relationships or derivative contracts
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Debits referable to times before UK property business etc is carried on
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Duty to notify chargeability to corporation tax: exceptions
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Period for making election under regulation 6A of the Disregard Regulations
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Commencement
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 CT payment plans for tax on certain transactions with EEA residents
+  - CT payment plans
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Penalties
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Commencement
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Power of repeal
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+- SCHEDULE 8 Digital services tax: returns, enquiries, assessments and appeals
+  - PART 1 Introduction
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - PART 2 DST returns
+    - DST returns
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Amendment of return by responsible member
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - PART 3 Duty to keep and preserve records
+    - Duty to keep and preserve records
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Preservation of information etc
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - PART 4 Enquiry into return
+    - Notice of enquiry
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Scope of enquiry
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Amendment of self-assessment during enquiry to prevent loss of tax
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Amendment of return by responsible member during enquiry
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Referral of questions to the tribunal during enquiry
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Withdrawal of notice of referral
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Effect of referral on enquiry
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Effect of determination
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Completion of enquiry
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Direction to complete enquiry
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - PART 5 HMRC determinations
+    - Determination of tax chargeable if no return delivered
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Determination to have effect as a self-assessment
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - Determination superseded by actual self-assessment
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - PART 6 HMRC assessments
+    - Assessments where loss of tax discovered
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Restrictions on assessments
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Time limits for discovery assessments
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Assessment procedure etc
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Liability to amounts charged by way of discovery assessment
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - PART 7 Relief in case of overpaid tax
+    - Claim for relief for overpaid tax
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - Making a claim
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Cases in which Commissioners not liable to give effect to claim
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Power to enquire into claims
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Completion of enquiry into claim etc
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Assessment for excessive repayment etc
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Supplementary assessments
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - Further provision about assessments under paragraphs 29 and 30
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - Time limits for assessments
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - PART 8 Appeals against HMRC decisions on tax
+    - Right of appeal
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - Notice of appeal
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - Late notice of appeal
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - Steps that may be taken following notice of appeal
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - Right of appellant to require review
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - Offer of review by HMRC
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - Nature of review
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - Effect of conclusions of review
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - Notifying appeal to tribunal after appellant has required review
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - Notifying appeal to tribunal after HMRC have offered review
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - Interpretation of paragraphs 36 to 42
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - Settling of appeals by agreement
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - Appeal does not postpone recovery of tax
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - Application for payment of tax to be postponed
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+    - Agreement to postpone payment of tax
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - Assessments and self-assessments
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - Payment of tax where appeal has been determined
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - Payment of tax where there is a further appeal
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - Tribunal determinations
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+  - PART 9 Penalties
+    - Failure to deliver return: flat-rate penalty
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+    - Failure to deliver return: tax-related penalty
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+    - Failure to deliver a return: reasonable excuse
+      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - Failure to keep and preserve records: penalty
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+    - Assessment of penalty, etc
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - Special reduction
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+    - Right to appeal against penalty
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - Procedure on appeal against penalty
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+    - Payments in respect of penalties
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+- SCHEDULE 9 DST payment notices
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Payment notice: effect
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Payment notice: appeals
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Payment notices: effect of making payment etc
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10 Digital services tax: minor and consequential amendments
+  - Provisional Collection of Taxes Act 1968
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - FA 1989
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - FA 2007
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - FA 2008
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11 Private pleasure craft
+  - Amendments of HODA 1979
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Other amendments
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - General
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+- SCHEDULE 12 Carbon emissions tax
+  - Introduction
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Power to set emissions allowance
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Power to make further provision by regulations
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Interpretation
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Commencement and transitional provision
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Penalty for failure to make payments on time
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - Commencement
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+- SCHEDULE 13 Joint and several liability of company directors etc
+  - Introduction
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Tax avoidance and tax evasion cases
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Repeated insolvency and non-payment cases
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Cases involving penalty for facilitating avoidance or evasion
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - “Tax-avoidance arrangements”
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - “Tax-evasive conduct”
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - “Insolvency procedure” etc
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Interaction with penalties
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Withdrawal or modification of notice
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Right of review
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Reviews under paragraph 11
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Right of appeal
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - Appeals under paragraph 13
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Appeal in respect of liability of company
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Proceedings for determination of penalty to be imposed on company
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - Cases where company has ceased to exist
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+  - Application to limited liability partnerships
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Interpretation
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+- SCHEDULE 14 Amendments relating to the operation of the GAAR
+  - Introduction
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Protecting adjustments under the GAAR before time limits expire
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Minor amendments
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Commencement
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+- SCHEDULE 15 Tax relief for scheme payments etc
+  - Part 1 Income tax and other related relief
+    - Introductory
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Qualifying payments
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Exemption from income tax
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Exemptions from capital gains tax
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Relief from inheritance tax
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Part 2 Corporation tax and other related relief
+    - [Sch. 15 para. 6 Introductory](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7 Relevant compensation payments](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8 Relevant onward payments](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9 Exemption from corporation tax](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10 Exemption from income tax and capital gains tax](schedule/15/paragraph/10.md)
+    - [Sch. 15 para. 11 Power to make further provision](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12 Regulations: general](schedule/15/paragraph/12.md)
+    - [Sch. 15 para. 13 Interpretation](schedule/15/paragraph/13.md)
+- SCHEDULE 16 Taxation of coronavirus support payments
+  - Accounting for coronavirus support payments referable to a business
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Amounts not referable to activities of a business which is being carried on
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Amounts referable to businesses in certain cases
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Exemptions, reliefs and deductions
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Charge where employment costs deductible by another
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Charge where no business carried on
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Modification of the Tax Acts
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Charge if person not entitled to coronavirus support payment
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - Assessments of income tax chargeable under paragraph 8
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Calculation of income tax liability
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Calculation of tax liability: companies chargeable to corporation tax
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - Notification of liability under paragraph 8
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+  - Penalty for failure to notify: knowledge of non-entitlement to payment
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+  - Penalties: partnerships
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+  - Liability of officers of insolvent companies
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
