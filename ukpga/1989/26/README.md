@@ -1,0 +1,623 @@
+# Finance Act 1989
+
+1989 c. 26. Enacted 1989-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1989/26/2026-03-18
+
+## Contents
+
+- Part I Customs and Excise, Value Added Tax and Car Tax
+  - CHAPTER I Customs and Excise
+    - Hydrocarbon oil duties
+      - [s. 1 Rates.](section/1.md)
+      - [s. 2 Reliefs.](section/2.md)
+    - Alcoholic liquor duties
+      - [s. 3 Original gravity of beer.](section/3.md)
+      - [s. 4 Blending made-wines etc.](section/4.md)
+      - [s. 5 Description as beer.](section/5.md)
+    - Vehicles excise duty
+      - [s. 6 Rates.](section/6.md)
+      - [s. 7 ................................](section/7.md)
+      - [s. 8 ................................](section/8.md)
+      - [s. 9 ................................](section/9.md)
+      - [s. 10 ................................](section/10.md)
+      - [s. 11 ................................](section/11.md)
+      - [s. 12 ................................](section/12.md)
+      - [s. 13 ................................](section/13.md)
+      - [s. 14 Dishonoured cheques.](section/14.md)
+    - General
+      - [s. 15 ................................](section/15.md)
+      - [s. 16 Time limits for proceedings.](section/16.md)
+      - [s. 17 Disbursements in Port of London.](section/17.md)
+  - CHAPTER II Value Added Tax
+    - Zero-rating etc.
+      - [s. 18 ................................](section/18.md)
+      - [s. 19 ................................](section/19.md)
+      - [s. 20 ................................](section/20.md)
+      - [s. 21 ................................](section/21.md)
+      - [s. 22 ................................](section/22.md)
+      - [s. 23 ................................](section/23.md)
+    - Other provisions
+      - [s. 24 ................................](section/24.md)
+      - [s. 25 ................................](section/25.md)
+      - [s. 26 ................................](section/26.md)
+  - Chapter III Miscellaneous
+    - [s. 27 Relief from car tax where vehicle leased to the handicapped.](section/27.md)
+    - [s. 28 Reliefs from duties and taxes for persons enjoying certain immunities and privileges.](section/28.md)
+    - [s. 29 Recovery of overpaid excise duty and car tax.](section/29.md)
+- Part II Income Tax, Corporation Tax and Capital Gains Tax
+  - CHAPTER I General
+    - Income tax rates and allowances
+      - [s. 30 Charge and rates of income tax for 1989-90.](section/30.md)
+      - [s. 31 Age allowance.](section/31.md)
+      - [s. 32 Operative date for PAYE.](section/32.md)
+      - [s. 33 Married couples.](section/33.md)
+    - Corporation tax rates etc.
+      - [s. 34 Charge and rate of corporation tax for financial year 1989.](section/34.md)
+      - [s. 35 Corporation tax: small companies.](section/35.md)
+    - Receipts basis etc.
+      - [s. 36 Schedule E: revised Cases.](section/36.md)
+      - [s. 37 Schedule E: assessment on receipts basis.](section/37.md)
+      - [s. 38 Schedule E: unpaid emoluments.](section/38.md)
+      - [s. 39 Schedule E: unremitted emoluments.](section/39.md)
+      - [s. 40 Schedule E: emoluments already paid.](section/40.md)
+      - [s. 41 Schedule E: pensions etc.](section/41.md)
+      - [s. 42 Schedule E: supplementary.](section/42.md)
+      - [s. 43 Schedule D: computation](section/43.md)
+      - [s. 44 Companies with investment business and insurance companies: computation](section/44.md)
+      - [s. 45 PAYE: meaning of payment.](section/45.md)
+    - Interest
+      - [s. 46 Relief for interest.](section/46.md)
+      - [s. 47 Close company loans: business expansion scheme.](section/47.md)
+      - [s. 48 Close company loans: material interest.](section/48.md)
+    - Benefits in kind
+      - [s. 49 Car benefits.](section/49.md)
+      - [s. 50 Security assets and services.](section/50.md)
+      - [s. 51 Assets used partly for security.](section/51.md)
+      - [s. 52 Security: supplementary.](section/52.md)
+      - [s. 53 Employees earning £8,500 or more and directors.](section/53.md)
+    - Medical insurance
+      - [s. 54 Relief.](section/54.md)
+      - [s. 55 Eligible contracts.](section/55.md)
+      - [s. 56 Certification of contracts.](section/56.md)
+      - [s. 57 Medical insurance: supplementary.](section/57.md)
+    - Charities
+      - [s. 58 Payroll deduction scheme.](section/58.md)
+      - [s. 59 ................................](section/59.md)
+      - [s. 60 British Museum and Natural History Museum.](section/60.md)
+    - Profit-related pay, share schemes etc.
+      - [s. 61 Profit-related pay.](section/61.md)
+      - [s. 62 Savings-related share option schemes.](section/62.md)
+      - [s. 63 Profit sharing schemes.](section/63.md)
+      - [s. 64 Share option and profit sharing schemes: shares of consortium member.](section/64.md)
+      - [s. 65 Employee share schemes: material interest.](section/65.md)
+      - [s. 66 Priority share allocations for employees etc.](section/66.md)
+    - Employee share ownership trusts
+      - [s. 67 Tax relief.](section/67.md)
+      - [s. 68 Principal charges to tax.](section/68.md)
+      - [s. 69 Chargeable events.](section/69.md)
+      - [s. 70 Chargeable amounts.](section/70.md)
+      - [s. 71 Further charges to tax: borrowing.](section/71.md)
+      - [s. 72 Limit on chargeable amount.](section/72.md)
+      - [s. 73 Information.](section/73.md)
+      - [s. 74 Interpretation.](section/74.md)
+    - Pensions etc.
+      - [s. 75 Retirement benefits schemes.](section/75.md)
+      - [s. 76 Non-approved retirement benefits schemes.](section/76.md)
+      - [s. 77 Personal pension schemes.](section/77.md)
+    - Unit trusts etc.
+      - [s. 78 ................................](section/78.md)
+      - [s. 80 ................................](section/80.md)
+      - [s. 81 Offshore funds operating equalisation arrangements.](section/81.md)
+    - Life assurance
+      - [s. 82 Calculation of profits: bonuses etc](section/82.md)
+      - [s. 82A Calculation of profits: policy holders’ tax](section/82A.md)
+      - [s. 82B Unappropriated surplus on valuation](section/82B.md)
+      - [s. 82C Relevant financial reinsurance contracts](section/82C.md)
+      - [s. 82D Treatment of profits: life assurance — adjustment consequent on change in Insurance Prudential Sourcebook](section/82D.md)
+      - [s. 82E Section 82D: treatment of transferors under insurance business transfer schemes](section/82E.md)
+      - [s. 82F Section 82D: treatment of transferees under insurance business transfer schemes](section/82F.md)
+      - [s. 83 Receipts to be taken into account.](section/83.md)
+      - [s. 83XA Structural assets](section/83XA.md)
+      - [s. 83YA Changes in value of assets brought into account: non-profit companies](section/83YA.md)
+      - [s. 83YB Meaning of “appropriate line 51 amount” for purposes of s.83YA](section/83YB.md)
+      - [s. 83YC FAFTS: charge in relevant period of account](section/83YC.md)
+      - [s. 83YD FAFTS: deduction in subsequent periods of account](section/83YD.md)
+      - [s. 83YE Regulations: apportionment and redefining “financial reinsurance arrangement”](section/83YE.md)
+      - [s. 83YF Financial reinsurance arrangements: further provision](section/83YF.md)
+      - [s. 83ZA Contingent loans](section/83ZA.md)
+      - [s. 83A Meaning of “brought into account”.](section/83A.md)
+      - [s. 83B Changes in recognised accounts: attribution of amounts carried forward under s.432F of Taxes Act 1988](section/83B.md)
+      - [s. 83AA Amounts added to long term insurance fund of a company in excess of that company’s loss.](section/83AA.md)
+      - [s. 83AB Treatment of surplus where there is a subsequent transfer of business from the company etc.](section/83AB.md)
+      - [s. 84 Interpretation of sections 85 to 89 and further provisions about insurance companies.](section/84.md)
+      - [s. 85 Charge of certain receipts of basic life assurance business.](section/85.md)
+      - [s. 85A Excess adjusted life assurance trade profits](section/85A.md)
+      - [s. 86 Spreading of relief for acquisition expenses.](section/86.md)
+      - [s. 87 Management expenses.](section/87.md)
+      - [s. 88 Corporation tax: policy holders’ share of profits.](section/88.md)
+      - [s. 88A Lower corporation tax rate on certain insurance company profits.](section/88A.md)
+      - [s. 89 Policy holders’ share of profits.](section/89.md)
+      - [s. 89A Modification of sections 82 to 83A, 88 and 89 in relation to overseas life insurance companies.](section/89A.md)
+      - [s. 90 Life policies etc. held by companies.](section/90.md)
+      - [s. 90A Interpretation](section/90A.md)
+    - Underwriters
+      - [s. 91 Premiums trust funds: stock lending.](section/91.md)
+      - [s. 92 Regulations about underwriters etc.](section/92.md)
+    - Securities
+      - [s. 93 ................................](section/93.md)
+      - [s. 94 ................................](section/94.md)
+      - [s. 95 ................................](section/95.md)
+      - [s. 96 Securities: miscellaneous.](section/96.md)
+    - Groups of companies
+      - [s. 97 Set-off of ACT where companies remain in the same group.](section/97.md)
+      - [s. 98 Restriction on set-off of ACT.](section/98.md)
+      - [s. 99 ................................](section/99.md)
+      - [s. 100 Change in ownership of company.](section/100.md)
+      - [s. 101 Treatment of convertible shares or securities for purposes relating togroup relief etc.](section/101.md)
+      - [s. 102 Surrender of company tax refund etc. within group.](section/102.md)
+    - Close companies
+      - [s. 103 Repeal of apportionment provisions.](section/103.md)
+      - [s. 104 Meaning of “close company”.](section/104.md)
+      - [s. 105 Small companies’ rate not available to certain close companies.](section/105.md)
+      - [s. 106 Restriction on payment of tax credits.](section/106.md)
+      - [s. 107 Close companies: consequential amendments.](section/107.md)
+    - Settlements etc.
+      - [s. 108 ................................](section/108.md)
+      - [s. 109 Settlements where settlor retains interest in settled property.](section/109.md)
+      - [s. 110 Residence of trustees.](section/110.md)
+      - [s. 111 Residence of personal representatives.](section/111.md)
+    - Miscellaneous
+      - [s. 112 Security: trades etc.](section/112.md)
+      - [s. 113 Security: trades etc. (supplementary).](section/113.md)
+      - [s. 114 Relief for pre-trading expenditure.](section/114.md)
+      - [s. 115 Double taxation: tax credits.](section/115.md)
+      - [s. 116 ................................](section/116.md)
+  - Chapter II Capital Allowances
+    - [s. 117 ................................](section/117.md)
+    - [s. 121 ................................](section/121.md)
+  - CHAPTER III Capital Gains
+    - Exemptions
+      - [s. 122 ................................](section/122.md)
+      - [s. 123 Increase of chattel exemption.](section/123.md)
+    - Gifts
+      - [s. 124 ................................](section/124.md)
+      - [s. 125 ................................](section/125.md)
+    - Non-residents etc.
+      - [s. 126 ................................](section/126.md)
+      - [s. 127 ................................](section/127.md)
+      - [s. 128 ................................](section/128.md)
+      - [s. 129 ................................](section/129.md)
+      - [s. 130 ................................](section/130.md)
+      - [s. 131 ................................](section/131.md)
+      - [s. 132 ................................](section/132.md)
+      - [s. 133 ................................](section/133.md)
+      - [s. 134 ................................](section/134.md)
+    - Value shifting and groups of companies
+      - [s. 135 ................................](section/135.md)
+      - [s. 136 ................................](section/136.md)
+      - [s. 137 ................................](section/137.md)
+      - [s. 138 ................................](section/138.md)
+    - Miscellaneous
+      - [s. 139 ................................](section/139.md)
+      - [s. 140 ................................](section/140.md)
+      - [s. 141 ................................](section/141.md)
+  - CHAPTER IV Management
+    - Information
+      - [s. 142 Power to call for documents and information.](section/142.md)
+      - [s. 143 Power to call for papers of tax accountant.](section/143.md)
+      - [s. 144 Restrictions on powers under TMA ss.20 and 20A.](section/144.md)
+      - [s. 145 Falsification etc. of documents.](section/145.md)
+      - [s. 146 Entry with warrant to obtain documents.](section/146.md)
+      - [s. 147 Procedure where documents etc. are removed.](section/147.md)
+      - [s. 148 Interpretation.](section/148.md)
+    - Assessments, claims etc.
+      - [s. 149 Assessments founded on fraudulent or negligent conduct.](section/149.md)
+      - [s. 150 Further assessments: claims etc.](section/150.md)
+      - [s. 151 Assessment of trustees etc.](section/151.md)
+    - Distress and poinding etc.
+      - [s. 152 Distress for non-payment of tax.](section/152.md)
+      - [s. 153 Priority in cases of distraint by others.](section/153.md)
+      - [s. 154 Recovery of tax from debtor in Scotland.](section/154.md)
+      - [s. 155 Priority in cases of poinding etc. by others in Scotland.](section/155.md)
+    - Interest etc.
+      - [s. 156 Interest on overdue tax.](section/156.md)
+      - [s. 157 Effect of certain claims on interest.](section/157.md)
+      - [s. 158 Small amounts of interest.](section/158.md)
+      - [s. 159 Interest on tax in case of failure or error.](section/159.md)
+      - [s. 160 Determinations under TMA s. 88.](section/160.md)
+      - [s. 161 Tax carrying interest under TMA ss. 86 and 88.](section/161.md)
+    - Penalties
+      - [s. 162 Failure to make return.](section/162.md)
+      - [s. 163 Incorrect return, accounts etc.](section/163.md)
+      - [s. 164 Special returns, information etc.](section/164.md)
+      - [s. 165 Special penalties in the case of certain returns.](section/165.md)
+      - [s. 166 Assisting in preparation of incorrect return etc.](section/166.md)
+      - [s. 167 Determination of penalties.](section/167.md)
+      - [s. 168 Amendments consequential on section 167.](section/168.md)
+      - [s. 169 Time limits.](section/169.md)
+      - [s. 170 Up-rating of certain penalties.](section/170.md)
+- Part III Miscellaneous and General
+  - Inheritance tax
+    - [s. 171 Gifts to housing associations.](section/171.md)
+    - [s. 172 Abatement of exemption where claim settled out of beneficiary’s ownresources.](section/172.md)
+  - Stamp duty etc.
+    - [s. 173 Insurance: abolition of certain duties.](section/173.md)
+    - [s. 174 Unit trusts.](section/174.md)
+    - [s. 175 Stamp duty: stock exchange nominees](section/175.md)
+    - [s. 176 Stamp duty reserve tax: stock exchange nominees](section/176.md)
+    - [s. 177 Stamp duty reserve tax: information.](section/177.md)
+  - Interest etc.
+    - [s. 178 Setting of rates of interest.](section/178.md)
+    - [s. 179 Provisions consequential on section 178.](section/179.md)
+    - [s. 180 Repayment interest: period of accrual.](section/180.md)
+  - Miscellaneous
+    - [s. 181 Broadcasting: additional payments by programme contractors.](section/181.md)
+    - [s. 182 Disclosure of information.](section/182.md)
+    - [s. 182A Double taxation: disclosure of information.](section/182A.md)
+    - [s. 183 Government securities: redemption and transfer.](section/183.md)
+    - [s. 184 National savings accounts.](section/184.md)
+    - [s. 185 Winding up of Redemption Annuities Account.](section/185.md)
+  - General
+    - [s. 186 Interpretation etc.](section/186.md)
+    - [s. 187 Repeals.](section/187.md)
+    - [s. 188 Short title.](section/188.md)
+- SCHEDULE 1 Vehicles Excise Duty: Rates
+  - Part I
+  - Part II
+- SCHEDULE 2 Vehicles Excise Duty: Special Machines
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3
+  - Zero-rating
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Exemptions
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Other provisions
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Commencement
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+- SCHEDULE 5 Employee Share Ownership Trusts
+  - Qualifying trusts
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - General
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Trustees
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 3A](schedule/5/paragraph/3A.md)
+    - [Sch. 5 para. 3B](schedule/5/paragraph/3B.md)
+    - [Sch. 5 para. 3C](schedule/5/paragraph/3C.md)
+  - Beneficiaries
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Trustees’ functions
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Sums
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Securities
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Other features
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Rules about acquisition etc.
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Position after trust’s establishment
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 12A](schedule/5/paragraph/12A.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Interpretation
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+- SCHEDULE 6 Retirement Benefits Schemes
+  - Part I Amendments of Taxes Act
+    - Preliminary
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Amendments
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - Effect of amendments
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+  - Part II Approved Schemes: General
+    - Preliminary
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - Remuneration
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - Accelerated accrual
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Associated employments
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Connected schemes
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - Augmentation
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Centralised schemes
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Election
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - Supplementary
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+  - Part III Approved Schemes: Additional Voluntary Contributions
+    - Preliminary
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - Abatement of benefits
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Return of surplus funds
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - Supplementary
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+- SCHEDULE 7 Personal Pension Schemes
+  - Part I Amendments of Taxes Act
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part II Schemes Approved Before Passing of This Act
+    - Interpretation
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Lump sum to member
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Amendments of Chapter I of Part XII of Taxes Act 1988 (InsuranceCompanies)
+  - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULE 8A Modification of sections 82 TO 83A, 88 and 89 in relation to overseas life insurance companies
+  - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+  - [Sch. 8A para. 1ZA](schedule/8A/paragraph/1ZA.md)
+  - [Sch. 8A para. 1ZB](schedule/8A/paragraph/1ZB.md)
+  - [Sch. 8A para. 1A](schedule/8A/paragraph/1A.md)
+  - [Sch. 8A para. 1AA](schedule/8A/paragraph/1AA.md)
+  - [Sch. 8A para. 1B](schedule/8A/paragraph/1B.md)
+  - [Sch. 8A para. 1C](schedule/8A/paragraph/1C.md)
+  - [Sch. 8A para. 1D](schedule/8A/paragraph/1D.md)
+  - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+- SCHEDULE 9 Life Policies Etc. Held by Companies
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+- SCHEDULE 11
+  - Deep gain securities
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Qualifying indexed securities
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Convertible securities
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Issue price
+    - [Sch. 11 para. 3A](schedule/11/paragraph/3A.md)
+  - Meaning of transfer etc.
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Charge to tax on transfer
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Exchange gains and losses
+    - [Sch. 11 para. 5A](schedule/11/paragraph/5A.md)
+  - Redemption
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Death
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Connected persons
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Market value
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Underwriters
+    - [Sch. 11 para. 10 ................................](schedule/11/paragraph/10.md)
+  - Trustees
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Foreign currency
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Receipts in United Kingdom
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Retirement benefit schemes
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Charities
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Stock lending
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+  - Accrued income scheme
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Other provisions excluded
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+  - Identification of securities
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Early redemption: special rules
+    - [Sch. 11 para. 19A](schedule/11/paragraph/19A.md)
+  - Gilts: special rules
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+  - Non-gilts: special rules
+    - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - [Sch. 11 para. 21A](schedule/11/paragraph/21A.md)
+  - Indexed securities: special rules
+    - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+  - Convertible securities: special rules (1)
+    - [Sch. 11 para. 22A](schedule/11/paragraph/22A.md)
+  - Convertible securities: special rules (2)
+    - [Sch. 11 para. 22B](schedule/11/paragraph/22B.md)
+  - No particular redemption date: special rule
+    - [Sch. 11 para. 22C](schedule/11/paragraph/22C.md)
+  - Power to modify
+    - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+- SCHEDULE 12 Close Companies
+  - Part I Administrative Provisions
+    - Interpretation
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Provision of information by company
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Provision of information by shareholders
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Information about bearer securities
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Part II Amendments Connected with Repeal of Chapter III of Part XI of Taxes Act1988
+    - The Taxes Management Act 1970 (c.9)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - The Capital Gains Tax Act 1979 (c.14)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - The Income and Corporation Taxes Act 1988 (c.1)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+- SCHEDULE 13 Capital Allowances: Miscellaneous Amendments
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Patent rights
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+- SCHEDULE 14
+  - Gifts of business assets
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Gifts on which inheritance tax is chargeable etc.
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Payment of tax by instalments
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Minor and consequential amendments
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+- SCHEDULE 15
+  - Postponed charges etc.: pre-1st April 1982 events
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Reduction of 1982 value in certain cases
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - No gain/no loss disposals
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Elections
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+- SCHEDULE 16 Broadcasting: Additional Payments by Programme Contractors
+  - Part I Amendments of the Principal Sections
+    - [Sch. 16 Pt. I para. 1](schedule/16/part/I/paragraph/1.md)
+    - [Sch. 16 Pt. I para. 2](schedule/16/part/I/paragraph/2.md)
+    - [Sch. 16 Pt. I para. 3](schedule/16/part/I/paragraph/3.md)
+    - [Sch. 16 Pt. I para. 4](schedule/16/part/I/paragraph/4.md)
+  - Part II Provisions Inserted as Schedule 4 to the Broadcasting Act 1981
+  - Part III Transitional Provisions
+    - [Sch. 16 Pt. III para. 1](schedule/16/part/III/paragraph/1.md)
+    - [Sch. 16 Pt. III para. 2](schedule/16/part/III/paragraph/2.md)
+    - [Sch. 16 Pt. III para. 3](schedule/16/part/III/paragraph/3.md)
+    - [Sch. 16 Pt. III para. 4](schedule/16/part/III/paragraph/4.md)
+- SCHEDULE 17 Repeals
+  - Part I Customs and Excise
+  - Part II
+  - Part III Value Added Tax
+    - [Sch. 17 Pt. III para. 1](schedule/17/part/III/paragraph/1.md)
+    - [Sch. 17 Pt. III para. 2](schedule/17/part/III/paragraph/2.md)
+  - Part IV Income and Corporation Tax: General
+    - [Sch. 17 Pt. IV para. 1](schedule/17/part/IV/paragraph/1.md)
+    - [Sch. 17 Pt. IV para. 2](schedule/17/part/IV/paragraph/2.md)
+    - [Sch. 17 Pt. IV para. 3](schedule/17/part/IV/paragraph/3.md)
+    - [Sch. 17 Pt. IV para. 4](schedule/17/part/IV/paragraph/4.md)
+    - [Sch. 17 Pt. IV para. 5](schedule/17/part/IV/paragraph/5.md)
+    - [Sch. 17 Pt. IV para. 6](schedule/17/part/IV/paragraph/6.md)
+    - [Sch. 17 Pt. IV para. 7](schedule/17/part/IV/paragraph/7.md)
+  - Part V Close Companies
+    - [Sch. 17 Pt. V para. 1](schedule/17/part/V/paragraph/1.md)
+    - [Sch. 17 Pt. V para. 2](schedule/17/part/V/paragraph/2.md)
+    - [Sch. 17 Pt. V para. 3](schedule/17/part/V/paragraph/3.md)
+    - [Sch. 17 Pt. V para. 4](schedule/17/part/V/paragraph/4.md)
+    - [Sch. 17 Pt. V para. 5](schedule/17/part/V/paragraph/5.md)
+    - [Sch. 17 Pt. V para. 6](schedule/17/part/V/paragraph/6.md)
+  - Part VI Capital Allowances
+    - [Sch. 17 Pt. VI para. 1](schedule/17/part/VI/paragraph/1.md)
+    - [Sch. 17 Pt. VI para. 2](schedule/17/part/VI/paragraph/2.md)
+    - [Sch. 17 Pt. VI para. 3](schedule/17/part/VI/paragraph/3.md)
+    - [Sch. 17 Pt. VI para. 4](schedule/17/part/VI/paragraph/4.md)
+  - Part VII Capital Gains
+    - [Sch. 17 Pt. VII para. 1](schedule/17/part/VII/paragraph/1.md)
+    - [Sch. 17 Pt. VII para. 2](schedule/17/part/VII/paragraph/2.md)
+    - [Sch. 17 Pt. VII para. 3](schedule/17/part/VII/paragraph/3.md)
+    - [Sch. 17 Pt. VII para. 4](schedule/17/part/VII/paragraph/4.md)
+    - [Sch. 17 Pt. VII para. 5](schedule/17/part/VII/paragraph/5.md)
+    - [Sch. 17 Pt. VII para. 6](schedule/17/part/VII/paragraph/6.md)
+    - [Sch. 17 Pt. VII para. 7](schedule/17/part/VII/paragraph/7.md)
+  - Part VIII Management
+    - [Sch. 17 Pt. VIII para. 1](schedule/17/part/VIII/paragraph/1.md)
+    - [Sch. 17 Pt. VIII para. 2](schedule/17/part/VIII/paragraph/2.md)
+    - [Sch. 17 Pt. VIII para. 3](schedule/17/part/VIII/paragraph/3.md)
+    - [Sch. 17 Pt. VIII para. 4](schedule/17/part/VIII/paragraph/4.md)
+    - [Sch. 17 Pt. VIII para. 5](schedule/17/part/VIII/paragraph/5.md)
+    - [Sch. 17 Pt. VIII para. 6](schedule/17/part/VIII/paragraph/6.md)
+    - [Sch. 17 Pt. VIII para. 7](schedule/17/part/VIII/paragraph/7.md)
+  - Part IX Stamp Duty: Insurance
+  - Part X Rates of Interest
+  - Part XI Broadcasting
+  - Part XII Government Stock: Redemption
+  - Part XIII National Savings
+  - Part XIV Tithe Redemption
