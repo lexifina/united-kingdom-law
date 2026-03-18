@@ -2,9 +2,9 @@
 
 2023 c. 30. Enacted 2023-07-11.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-02-01, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/30` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2023-07-11, are in the history before it: `git log -- ukpga/2023/30` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
+Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-03-18
 
 ## Contents
 
@@ -208,6 +208,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
       - [s. 148C Value of marketable transferable tax credits: purchaser](section/148C.md)
       - [s. 149 Arm’s length requirement for certain transactions](section/149.md)
       - [s. 150 Transactions between members of a multinational group: differences with accounting for tax](section/150.md)
+      - [s. 150A Instruments held intragroup: issuer’s accounting treatment to prevail](section/150A.md)
       - [s. 151 Adjustments for companies in distress](section/151.md)
       - [s. 152 Adjustments where life assurance business carried on](section/152.md)
       - [s. 153 Exclusion of certain insurance reserve movement expense](section/153.md)
@@ -348,7 +349,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
       - [s. 230 Meaning of terms and concepts used in this Part](section/230.md)
     - Meaning of “entity” etc
       - [s. 231 Meaning of entity](section/231.md)
-      - [s. 232 Permanent establishments treated as entities](section/232.md)
+      - [s. 232 Permanent establishments ...](section/232.md)
+      - [s. 232ZA Legal main entity distinct from main entity](section/232ZA.md)
       - [s. 232A Partnerships](section/232A.md)
       - [s. 233 Treatment of protected cell companies](section/233.md)
       - [s. 234 Governmental, international and non-profit entities](section/234.md)
@@ -790,7 +792,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
     - [Sch. 14 para. 47 Penalties under paragraphs 42, 43 and 46: administration and supplemental provision](schedule/14/paragraph/47.md)
     - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
     - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
-    - [Sch. 14 para. 50 Multiple penalties in respect of same accounting period](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 50 Multiple tax-geared penalties in respect of same accounting period](schedule/14/paragraph/50.md)
   - Part 12 Appeals and claims
     - [Sch. 14 para. 51 Claims in relation to overpaid tax](schedule/14/paragraph/51.md)
     - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
@@ -818,6 +820,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
   - Part 1 General transitional measures
     - [Sch. 16 para. 1 Transitional relief for substance-based income exclusion](schedule/16/paragraph/1.md)
     - [Sch. 16 para. 2 Intra-group transfers before entry into regime](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 2A Transitional extension to deadline for elections](schedule/16/paragraph/2A.md)
   - Part 2 Transitional safe harbour
     - Chapter 1 General transitional safe harbour election
       - [Sch. 16 para. 3 Election](schedule/16/paragraph/3.md)
@@ -838,6 +841,10 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
     - [Sch. 16 para. 12A Election](schedule/16/paragraph/12A.md)
   - Part 3 Transitional reporting election
     - [Sch. 16 para. 13 Transitional reporting election](schedule/16/paragraph/13.md)
+  - Part 4 Pre-entry deferred tax assets and liabilities
+    - [Sch. 16 para. 14 Straddle periods](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15 Grace period](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16 General](schedule/16/paragraph/16.md)
 - Schedule 16A Multinational top-up tax: safe harbours
   - Part 1 Qualifying domestic top-up tax safe harbour
     - Chapter 1 Qualifying domestic top-up tax safe harbour election
@@ -850,6 +857,15 @@ Source: https://www.legislation.gov.uk/ukpga/2023/30/2026-02-01
       - [Sch. 16A para. 6 Application in the case of minority owned members](schedule/16A/paragraph/6.md)
   - Part 2 Untaxed amounts: international expansion of groups
     - [Sch. 16A para. 7 No untaxed amounts for groups in initial phase of international expansion](schedule/16A/paragraph/7.md)
+  - Part 3 Simplified calculations for non-material members of group
+    - [Sch. 16A para. 8 Election in respect of non-material members](schedule/16A/paragraph/8.md)
+    - [Sch. 16A para. 9 “Non-material member”](schedule/16A/paragraph/9.md)
+    - [Sch. 16A para. 10 Accounting conditions](schedule/16A/paragraph/10.md)
+    - [Sch. 16A para. 11 Routine profits test](schedule/16A/paragraph/11.md)
+    - [Sch. 16A para. 12 De minimis test](schedule/16A/paragraph/12.md)
+    - [Sch. 16A para. 13 Effective tax rate test](schedule/16A/paragraph/13.md)
+    - [Sch. 16A para. 14 Interpretation etc](schedule/16A/paragraph/14.md)
+    - [Sch. 16A para. 15 Interpretation etc](schedule/16A/paragraph/15.md)
 - Schedule 17 Index of expressions defined or explained in Parts 3 and 4
 - Schedule 18 Administration of domestic top-up tax
   - [Sch. 18 para. 1 Introduction](schedule/18/paragraph/1.md)
