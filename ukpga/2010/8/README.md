@@ -1,0 +1,2117 @@
+# Taxation (International and Other Provisions) Act 2010
+
+2010 c. 8. Enacted 2010-03-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2010/8
+
+Source: https://www.legislation.gov.uk/ukpga/2010/8/2026-03-18
+
+## Contents
+
+- Part 1 Overview
+  - [s. 1 Overview of Act](section/1.md)
+- Part 2 Double taxation relief
+  - CHAPTER 1 Double taxation arrangements and unilateral relief arrangements
+    - Double taxation arrangements
+      - [s. 2 Giving effect to arrangements made in relation to other territories](section/2.md)
+      - [s. 3 Arrangements may include retrospective or supplementary provision](section/3.md)
+      - [s. 4 Meaning of “double taxation” in sections 2 and 3](section/4.md)
+      - [s. 5 Orders under section 2: contents and procedure](section/5.md)
+      - [s. 6 The effect given by section 2 to double taxation arrangements](section/6.md)
+      - [s. 7 General regulations](section/7.md)
+    - Unilateral relief arrangements
+      - [s. 8 Interpretation: “unilateral relief arrangements” means rules 1 to 9, etc](section/8.md)
+      - [s. 9 Rule 1: the unilateral entitlement to credit for non-UK tax](section/9.md)
+      - [s. 10 Rule 2: accrued income profits](section/10.md)
+      - [s. 11 Rule 3: interaction between double taxation arrangements and rules 1 and 2](section/11.md)
+      - [s. 12 Rule 4: cases in which, and calculation of, credit allowed for tax on dividends](section/12.md)
+      - [s. 13 Rule 5: credit for tax charged directly on dividend](section/13.md)
+      - [s. 14 Rule 6: credit for underlying tax on dividend paid to 10% associate of payer](section/14.md)
+      - [s. 15 Rule 7: credit for underlying tax on dividend paid to sub-10% associate](section/15.md)
+      - [s. 16 Rule 8: credit for underlying tax on dividend paid by exchanged associate](section/16.md)
+      - [s. 17 Rule 9: credit in relation to dividends for spared tax](section/17.md)
+  - CHAPTER 2 Double taxation relief by way of credit
+    - Effect to be given to credit for foreign tax allowed against UK tax
+      - [s. 18 Entitlement to credit for foreign tax reduces UK tax by amount of the credit](section/18.md)
+      - [s. 19 Time limits for claims for relief under section 18(2)](section/19.md)
+      - [s. 20 Foreign tax includes tax spared because of international development relief](section/20.md)
+    - Interpretation of Chapter
+      - [s. 21 Meaning of “the arrangements”, “the non-UK territory”, “foreign tax” etc](section/21.md)
+    - Credits where same income charged to income tax in more than one tax year
+      - [s. 22 Credit for foreign tax on overlap profit if credit for that tax already allowed](section/22.md)
+      - [s. 23 Time limits for claims for relief under section 22(2)](section/23.md)
+      - [s. 24 Claw-back of relief under section 22(2)](section/24.md)
+    - Cases in which credit not allowed
+      - [s. 25 Credit not allowed if relief allowed against overseas tax](section/25.md)
+      - [s. 26 Credit not allowed under arrangements unless taxpayer is UK resident](section/26.md)
+      - [s. 27 Credit not allowed if person elects against credit](section/27.md)
+    - Exceptions to requirement to be UK resident
+      - [s. 28 Unilateral relief for Isle of Man or Channel Islands tax](section/28.md)
+      - [s. 29 Unilateral relief for tax on income from employment or office](section/29.md)
+      - [s. 30 Unilateral relief for non-UK tax on non-resident’s UK branch or agency etc](section/30.md)
+    - Calculating income or gains in respect of which credit is allowed
+      - [s. 31 Calculation of income or gain where remittance basis does not apply](section/31.md)
+      - [s. 32 Calculation of amount received where UK tax charged on remittance basis](section/32.md)
+    - Limits on credit: general rules
+      - [s. 33 Limit on credit: minimisation of the foreign tax](section/33.md)
+      - [s. 34 Reduction in credit: payment by reference to foreign tax](section/34.md)
+      - [s. 35 Disallowed credit: use as a deduction](section/35.md)
+    - Limit on, and reduction of, credit against income tax
+      - [s. 36 Amount of limit](section/36.md)
+      - [s. 37 Credit against tax on trade income: further rules](section/37.md)
+      - [s. 38 Credit against tax on royalties: further rules](section/38.md)
+      - [s. 39 Credit reduced by reference to accrued income losses](section/39.md)
+    - Limit on credit against capital gains tax
+      - [s. 40 Amount of limit](section/40.md)
+    - Limit on total credit against income tax and capital gains tax
+      - [s. 41 Amount of limit](section/41.md)
+    - Limit on credit against corporation tax
+      - [s. 42 Amount of limit](section/42.md)
+      - [s. 43 Profits attributable to permanent establishments for purposes of section 42(2)](section/43.md)
+      - [s. 44 Credit against tax on trade income](section/44.md)
+      - [s. 45 Credit against tax on trade income: anti-avoidance rules](section/45.md)
+      - [s. 46 Applying section 44(2): asset in hedging relationship with derivative contract](section/46.md)
+      - [s. 47 Applying section 44(2): royalty income](section/47.md)
+      - [s. 48 Applying section 44(2): “portfolio” of transactions, arrangements or assets](section/48.md)
+      - [s. 49 Restricting section 44(3) if company is a bank or connected with a bank](section/49.md)
+      - [s. 49A Limit on credit in cases involving qualifying loan relationships of CFCs](section/49A.md)
+      - [s. 49B Applying section 42(2) to non-trading credits from loan relationships etc](section/49B.md)
+    - Calculating tax for purposes of section 42(2)
+      - [s. 50 Tax for period on loan relationships](section/50.md)
+      - [s. 51 Tax for period on intangible fixed assets](section/51.md)
+    - Allocation of deductions etc to profits for purposes of section 42
+      - [s. 52 General deductions](section/52.md)
+      - [s. 53 Earlier years’ non-trading deficits on loan relationships](section/53.md)
+      - [s. 54 Non-trading debits on loan relationships](section/54.md)
+      - [s. 55 Current year’s non-trading deficits on loan relationships](section/55.md)
+      - [s. 56 Non-trading debits on intangible fixed assets](section/56.md)
+    - Taking account of foreign tax underlying dividends
+      - [s. 57 Credit in respect of dividend: taking account of underlying tax](section/57.md)
+      - [s. 58 Calculation if dividend paid by non-resident company to resident company](section/58.md)
+      - [s. 59 Meaning of “relevant profits” in section 58](section/59.md)
+      - [s. 60 Underlying tax to be left out of account on claim to that effect](section/60.md)
+      - [s. 61 Calculation if section 58 does not apply](section/61.md)
+      - [s. 62 Meaning of “relevant profits” in section 61](section/62.md)
+    - Taking account of tax underlying dividends that is not foreign tax
+      - [s. 63 Non-UK company dividend paid to 10% investor: relief for UK and other tax](section/63.md)
+    - Tax underlying dividend treated as underlying tax paid by dividend’s recipient
+      - [s. 64 Meaning of “dividend-paying chain” of companies](section/64.md)
+      - [s. 65 Relief for underlying tax paid by company lower in dividend-paying chain](section/65.md)
+      - [s. 66 Limitations on section 65(4)](section/66.md)
+    - Tax underlying dividends: restriction of relief, and particular cases
+      - [s. 67 Restriction of relief if underlying tax at rate higher than rate of corporation tax](section/67.md)
+      - [s. 68 Meaning of “avoidance scheme” in section 67](section/68.md)
+      - [s. 69 Dividends paid out of transferred profits](section/69.md)
+      - [s. 70 Underlying tax reflecting interest on loans](section/70.md)
+      - [s. 71 Foreign taxation of group as single entity](section/71.md)
+    - Adjustment of foreign tax on profits of overseas permanent establishment
+      - [s. 71A Circumstances in which section 71B applies](section/71A.md)
+      - [s. 71B Reduction of foreign tax paid on profits of overseas PE](section/71B.md)
+    - Unrelieved foreign tax on profits of overseas permanent establishment
+      - [s. 72 Application of section 73(1)](section/72.md)
+      - [s. 73 Carry-forward and carry-back of unrelieved foreign tax](section/73.md)
+      - [s. 74 Rules for carrying back unrelieved foreign tax](section/74.md)
+      - [s. 75 Two or more establishments treated as a single establishment](section/75.md)
+      - [s. 76 Former and subsequent establishments regarded as distinct establishments](section/76.md)
+      - [s. 77 Claims for relief under section 73(1)](section/77.md)
+      - [s. 78 Meaning of “overseas permanent establishment”](section/78.md)
+    - Action after adjustment of amount payable by way of UK or foreign tax
+      - [s. 79 Time limits for action if tax adjustment makes credit excessive or insufficient](section/79.md)
+      - [s. 80 Duty to give notice that adjustment has rendered credit excessive](section/80.md)
+    - Schemes and arrangements designed to increase relief: anti-avoidance
+      - [s. 81 Countering effect of avoidance arrangements](section/81.md)
+      - [s. 82 Conditions for the purposes of section 81(1)](section/82.md)
+      - [s. 83 Schemes and arrangements referred to in section 82(4)](section/83.md)
+      - [s. 84 Section 83(2) and (4): schemes enabling attribution of foreign tax](section/84.md)
+      - [s. 85 Section 83(2) and (4): schemes about effect of paying foreign tax](section/85.md)
+      - [s. 85A Section 83(2) and (4): schemes involving deemed foreign tax](section/85A.md)
+      - [s. 86 Section 83(2) and (4): schemes about claims or elections etc](section/86.md)
+      - [s. 87 Section 83(2) and (4): schemes that would reduce a person’s tax liability](section/87.md)
+      - [s. 88 Section 83(2) and (4): schemes involving tax-deductible payments](section/88.md)
+      - [s. 89 Contents of counteraction notice](section/89.md)
+      - [s. 90 Consequences of counteraction notices](section/90.md)
+      - [s. 91 Counteraction notices given before tax return made](section/91.md)
+      - [s. 92 Counteraction notices given after tax return made](section/92.md)
+      - [s. 93 Amendment, closure notices and discovery assessments in section 92 cases](section/93.md)
+      - [s. 94 Information made available for the purposes of section 92(4)](section/94.md)
+      - [s. 95 Interpretation of sections 89 to 94](section/95.md)
+    - Insurance companies
+      - [s. 96 Companies with overseas branches: restriction of credit](section/96.md)
+      - [s. 97 Companies with more than one category of business: restriction of credit](section/97.md)
+      - [s. 97A Commercial allocation of relevant income to different categories of long-term business](section/97A.md)
+      - [s. 98 Attribution for section 97 purposes if category is gross roll-up business](section/98.md)
+      - [s. 99 Allocation of expenses etc in calculations under section 35 of CTA 2009](section/99.md)
+      - [s. 100 First limitation for purposes of section 99(2)](section/100.md)
+      - [s. 101 Second limitation for purposes of section 99(2)](section/101.md)
+      - [s. 102 Interpreting sections 99 to 101 for life assurance or gross roll-up business](section/102.md)
+      - [s. 103 Interpreting sections 99 to 101 ...](section/103.md)
+      - [s. 104 Interpreting sections 100 and 101: amounts referable to category of business](section/104.md)
+  - CHAPTER 3 Miscellaneous provisions
+    - Application of Part for capital gains tax purposes
+      - [s. 105 Meaning of “chargeable gain”](section/105.md)
+      - [s. 106 Chapters 1 and 2 apply to capital gains tax separately from other taxes](section/106.md)
+    - When foreign tax disregarded in applying Part for corporation tax purposes
+      - [s. 107 Disregard of foreign tax referable to derivative contract](section/107.md)
+      - [s. 108 Disregard of foreign tax attributable to interest under a loan relationship](section/108.md)
+      - [s. 109 Repo cases in which no disregard under section 108](section/109.md)
+      - [s. 110 Stock-lending cases in which no disregard under section 108](section/110.md)
+    - Special rules for discretionary trusts
+      - [s. 111 When payment to beneficiary treated as arising from foreign source](section/111.md)
+    - Deduction for foreign tax where no credit allowed
+      - [s. 112 Deduction from income for foreign tax (instead of credit against UK tax)](section/112.md)
+      - [s. 113 Deduction from capital gain for foreign tax (instead of credit against UK tax)](section/113.md)
+      - [s. 114 Time limits for action if tax adjustment makes reduction too large or too small](section/114.md)
+      - [s. 115 Duty to give notice that adjustment has rendered reduction too large](section/115.md)
+    - European cross-border transfers of business
+      - [s. 116 Introduction to section 117](section/116.md)
+      - [s. 117 Tax treated as chargeable in respect of transfer of loan relationship, derivative contract or intangible fixed assets](section/117.md)
+    - European cross-border mergers
+      - [s. 118 Introduction to section 119](section/118.md)
+      - [s. 119 Tax treated as chargeable in respect of transfer of loan relationship, derivative contract or intangible fixed assets](section/119.md)
+    - Transparent entities involved in cross-border transfers and mergers
+      - [s. 120 Introduction to section 121](section/120.md)
+      - [s. 121 Tax treated as chargeable in respect of relevant transactions](section/121.md)
+    - Cross-border transfers and mergers: chargeable gains
+      - [s. 122 Tax treated as chargeable in respect of gains on transfer of non-UK business](section/122.md)
+    - Interpretation of sections related to the Mergers Directive
+      - [s. 123 Interpretation of sections 116 to 122](section/123.md)
+    - Cases about being taxed otherwise than in accordance with double taxation arrangements
+      - [s. 124 Giving effect to solutions to cases and mutual agreements resolving cases](section/124.md)
+      - [s. 125 Effect of, and deadline for, presenting a case](section/125.md)
+    - The Arbitration Convention
+      - [s. 126 Meaning of “the Arbitration Convention”](section/126.md)
+      - [s. 127 Giving effect to agreements, decisions and opinions under the Convention](section/127.md)
+      - [s. 128 Disclosure under the Convention](section/128.md)
+    - International dispute-resolution instruments and agreements
+      - [s. 128A Power by regulations to give effect to international obligations etc](section/128A.md)
+      - [s. 128B Giving effect to requirements under section 128A regulations](section/128B.md)
+      - [s. 128C Disclosure under international obligations etc](section/128C.md)
+    - Disclosure of information
+      - [s. 129 Disclosure where relief given overseas for tax paid in the United Kingdom](section/129.md)
+    - Interpretation of double taxation arrangements
+      - [s. 130 Interpreting provision about UK taxation of profits of foreign enterprises](section/130.md)
+      - [s. 130A Interpreting provision about UK taxation of pensions etc](section/130A.md)
+      - [s. 131 Interpreting provision about interest influenced by special relationship](section/131.md)
+      - [s. 132 Interpreting provision about royalties influenced by special relationship](section/132.md)
+      - [s. 133 Special relationship rule for royalties: matters to be shown by taxpayer](section/133.md)
+    - Assessments
+      - [s. 134 Correcting assessments where relief is available](section/134.md)
+- Part 3 Double taxation relief for special withholding tax
+  - Introductory
+    - [s. 135 Relief under this Part: introductory](section/135.md)
+    - [s. 136 Interpretation of Part](section/136.md)
+  - Credit etc for special withholding tax
+    - [s. 137 Income tax credit etc for special withholding tax](section/137.md)
+    - [s. 138 Amount and application of the deemed tax under section 137](section/138.md)
+    - [s. 139 Capital gains tax credit etc for special withholding tax](section/139.md)
+    - [s. 140 Provisions about the deemed tax under section 139](section/140.md)
+    - [s. 141 Credit under Chapter 2 of Part 2 to be allowed first](section/141.md)
+  - Calculation of income or gain on remittance basis where special withholding tax levied
+    - [s. 142 Conditions for purposes of section 143](section/142.md)
+    - [s. 143 Taking account of special withholding tax in calculating income or gains](section/143.md)
+  - Certificates to avoid levy of special withholding tax
+    - [s. 144 Issue of certificate](section/144.md)
+    - [s. 145 Refusal to issue certificate and appeal against refusal](section/145.md)
+- Part 4 Transfer pricing
+  - CHAPTER 1 Basic transfer-pricing rule
+    - [s. 146 Application of this Part](section/146.md)
+    - [s. 147 Tax calculations to be based on arm’s length, not actual, provision](section/147.md)
+    - [s. 148 The “participation condition”](section/148.md)
+    - [s. 148A Participation condition treated as met: transfer pricing notice](section/148A.md)
+  - CHAPTER 2 Key interpretative provisions
+    - Meaning of certain expressions that first appear in section 147
+      - [s. 149 “Actual provision” and “affected persons”](section/149.md)
+      - [s. 150 “Transaction” and “series of transactions”](section/150.md)
+      - [s. 151 “Arm’s length provision”](section/151.md)
+      - [s. 152 Arm’s length provision where actual provision relates to securities](section/152.md)
+      - [s. 153 Arm’s length provision where security issued and guarantee given](section/153.md)
+      - [s. 153A Certain guarantees not capable of being arm’s length](section/153A.md)
+      - [s. 153B Election for deemed guarantee](section/153B.md)
+      - [s. 154 Interpretation of sections 153A and 153B](section/154.md)
+      - [s. 155 “Potential advantage” in relation to United Kingdom taxation](section/155.md)
+      - [s. 156 “Losses” and “profits”](section/156.md)
+    - “Direct participation” in management, control or capital of a person
+      - [s. 157 Direct participation](section/157.md)
+    - “Indirect participation” in management, control or capital of a person
+      - [s. 158 Indirect participation: defined by sections 159 to 161](section/158.md)
+      - [s. 159 Indirect participation: potential direct participant](section/159.md)
+      - [s. 160 Indirect participation: one of several major participants](section/160.md)
+      - [s. 161 Indirect participation: involvement in financing arrangements](section/161.md)
+      - [s. 162 Indirect participation: sections 148, 175 and 219(2): further financing cases](section/162.md)
+      - [s. 162A Agreements for common management](section/162A.md)
+      - [s. 162B Arrangements to avoid participation condition](section/162B.md)
+      - [s. 163 Meaning of “connected” in sections 159 and 161](section/163.md)
+    - Application of OECD principles
+      - [s. 164 Part to be interpreted in accordance with OECD principles](section/164.md)
+  - CHAPTER 3 Exemptions from basic rule
+    - [s. 164A UK to UK Exemption](section/164A.md)
+    - [s. 165 Exemption for dormant companies](section/165.md)
+    - [s. 166 Exemption for small and medium-sized enterprises](section/166.md)
+    - [s. 167 Small and medium-sized enterprises: exceptions from exemption](section/167.md)
+    - [s. 167A Small enterprises: exception from exemption: transfer pricing notice](section/167A.md)
+    - [s. 168 Medium-sized enterprises: exception from exemption: transfer pricing notice](section/168.md)
+    - [s. 169 Giving of transfer pricing notices](section/169.md)
+    - [s. 170 Appeals against transfer pricing notices](section/170.md)
+    - [s. 171 Tax returns where transfer pricing notice given](section/171.md)
+    - [s. 172 Meaning of “small enterprise” and “medium-sized enterprise”](section/172.md)
+    - [s. 173 Meaning of “qualifying territory” and “non-qualifying territory”](section/173.md)
+    - [s. 173A Exchange gains and losses arising as a result of qualifying loan relationships and derivative contracts](section/173A.md)
+  - CHAPTER 4 Position, if only one affected person potentially advantaged, of other affected person
+    - Claim by affected person who is not advantaged
+      - [s. 174 Claim by the affected person who is not potentially advantaged etc](section/174.md)
+      - [s. 174A Claims under section 174 where disadvantaged person within charge to income tax](section/174A.md)
+      - [s. 175 Application of section 174 where guarantee disallowed](section/175.md)
+      - [s. 176 Claims under section 174: advantaged person must have made return](section/176.md)
+      - [s. 177 Time for making, or amending, claim under section 174](section/177.md)
+      - [s. 178 Meaning of “return” in sections 176 and 177](section/178.md)
+    - Claims: special cases
+      - [s. 179 Compensating payment if advantaged person is controlled foreign company](section/179.md)
+      - [s. 180 Application of section 174(2)(a) in relation to transfers of trading stock etc](section/180.md)
+    - Alternative way of claiming if borrowing is involved
+      - [s. 181 Section 182 applies to claims where actual provision relates to borrowing](section/181.md)
+      - [s. 182 Making of section 182 claims](section/182.md)
+      - [s. 183 Giving effect to section 182 claims](section/183.md)
+      - [s. 184 Amending a section 182 claim if it is followed by relevant notice](section/184.md)
+    - Notification to persons who may be disadvantaged
+      - [s. 185 Notice to potential claimants](section/185.md)
+      - [s. 186 Extending claim period if notice under section 185 not given or given late](section/186.md)
+    - Treatment of interest where claim made
+      - [s. 187 Tax treatment if actual interest exceeds arm’s length interest](section/187.md)
+    - Treatment of interest where claim prevented by section 174A
+      - [s. 187A Excess interest treated as a ... distribution](section/187A.md)
+    - Adjustment of double taxation relief where claim made
+      - [s. 188 Double taxation relief by way of credit for foreign tax](section/188.md)
+      - [s. 189 Double taxation relief by way of deduction for foreign tax](section/189.md)
+    - Interpretation of Chapter
+      - [s. 190 Meaning of “relevant notice”](section/190.md)
+  - CHAPTER 5 Position of guarantor of affected person’s borrowing liabilities
+    - [s. 191 When sections 192 to 194 apply](section/191.md)
+    - [s. 192 Attribution to guarantor company of things done by borrower](section/192.md)
+    - [s. 192A Provision for cases within Part 6A](section/192A.md)
+    - [s. 193 Interaction between claims under sections 174 and 192(1)](section/193.md)
+    - [s. 194 Claims under section 192(1): general provisions](section/194.md)
+  - CHAPTER 6 Balancing payments
+    - [s. 195 Qualifying conditions for purposes of section 196](section/195.md)
+    - [s. 196 Balancing payments between affected persons: no charge to, or relief from, tax](section/196.md)
+    - [s. 197 Qualifying conditions for purposes of section 198](section/197.md)
+    - [s. 198 Balancing payments by guarantor to borrower: no charge to, or relief from, tax](section/198.md)
+    - [s. 199 Pre-conditions for making election under section 200](section/199.md)
+    - [s. 200 Election to pay tax rather than make balancing payments](section/200.md)
+    - [s. 201 Pre-conditions for making election under section 202](section/201.md)
+    - [s. 202 Election, in guarantee case, to pay tax rather than make balancing payments](section/202.md)
+    - [s. 203 Elections under section 200 or 202](section/203.md)
+    - [s. 204 Meaning of “capital market condition” in sections 199 and 201](section/204.md)
+  - CHAPTER 7 Oil-related ring-fence trades
+    - [s. 205 Provision made or imposed between ring-fence trade and other activities](section/205.md)
+    - [s. 206 Meaning of “oil-related ring-fence trade” in sections 205 and 218](section/206.md)
+    - [s. 206A Modification of basic rule where allowances restricted for certain expenditure](section/206A.md)
+  - CHAPTER 8 Supplementary provisions and interpretation of Part
+    - Unit trusts
+      - [s. 207 Application of Part to unit trusts](section/207.md)
+    - ...
+      - [s. 208 The determinations which require the Commissioners’ sanction](section/208.md)
+      - [s. 209 Determinations exempt from requirement for Commissioners’ sanction](section/209.md)
+      - [s. 210 The requirement for the Commissioners’ sanction](section/210.md)
+      - [s. 211 Restriction of right to appeal against Commissioners’ approval](section/211.md)
+    - Appeals
+      - [s. 212 Appeals](section/212.md)
+    - Effect of Part on capital allowances and chargeable gains
+      - [s. 213 Capital allowances](section/213.md)
+      - [s. 214 Chargeable gains](section/214.md)
+    - Adjustments
+      - [s. 215 Manner of making adjustments to give effect to Part](section/215.md)
+    - Definitions
+      - [s. 216 Meaning of “the relevant activities”](section/216.md)
+      - [s. 217 Meaning of “control” and “firm”](section/217.md)
+- Part 4A Assessment of unassessed transfer pricing profits
+  - Chapter 1 Unassessed transfer pricing profits
+    - [s. 217A Introduction](section/217A.md)
+    - [s. 217B Unassessed transfer pricing profits](section/217B.md)
+  - Chapter 2 Conditions for being assessed
+    - [s. 217C Conditions for being assessed under this Part at the UTPP rate](section/217C.md)
+    - [s. 217D Effective tax mismatch outcome](section/217D.md)
+    - [s. 217E Tax design condition](section/217E.md)
+  - Chapter 3 Assessment
+    - [s. 217F Preliminary notices](section/217F.md)
+    - [s. 217G Representations by the company](section/217G.md)
+    - [s. 217H Assessment](section/217H.md)
+    - [s. 217I Amendment of company tax return by company](section/217I.md)
+    - [s. 217J Amendment of assessment by HMRC](section/217J.md)
+    - [s. 217K No postponement except before assessment is finalised for tax on same profits](section/217K.md)
+    - [s. 217L Closure notices: rules relating to period for amendments](section/217L.md)
+    - [s. 217M Appeal against assessment](section/217M.md)
+    - [s. 217N Review of assessment](section/217N.md)
+    - [s. 217P Settling of appeal by agreement](section/217P.md)
+    - [s. 217Q No repayment](section/217Q.md)
+    - [s. 217R Exclusion of reliefs, deductions and set-offs](section/217R.md)
+    - [s. 217S Assessment otherwise than at UTPP rate: no deduction for excess losses](section/217S.md)
+  - Chapter 4 Interpretation
+    - Interpretation
+      - [s. 217T Interpretation](section/217T.md)
+- Part 5 Advance pricing agreements
+  - [s. 218 Meaning of “advance pricing agreement”](section/218.md)
+  - [s. 219 Meaning of “associate” in section 218(2)(e)](section/219.md)
+  - [s. 220 Effect of agreement on party to it](section/220.md)
+  - [s. 221 Effect of revocation of agreement or breach of its conditions](section/221.md)
+  - [s. 222 Effect of agreement on non-parties](section/222.md)
+  - [s. 223 Application for agreement](section/223.md)
+  - [s. 224 Provision in agreement about years ended or begun before agreement made](section/224.md)
+  - [s. 225 Modification and revocation of agreement](section/225.md)
+  - [s. 226 Annulment of agreement for misrepresentation](section/226.md)
+  - [s. 227 Penalty for misrepresentation in connection with agreement](section/227.md)
+  - [s. 228 Party to agreement: duty to provide information](section/228.md)
+  - [s. 229 Modifications of agreement for double taxation purposes](section/229.md)
+  - [s. 230 Interpretation of Part: meaning of “Commissioners” and “officer”](section/230.md)
+- Part 6 Tax arbitrage
+  - Introduction
+    - [s. 231 Overview](section/231.md)
+  - Deduction notices
+    - [s. 232 Deduction notices](section/232.md)
+    - [s. 233 The deduction scheme conditions](section/233.md)
+    - [s. 234 Schemes achieving UK tax advantage for a company](section/234.md)
+    - [s. 235 Further provisions about deduction notices](section/235.md)
+  - Deduction schemes
+    - [s. 236 Schemes involving hybrid entities](section/236.md)
+    - [s. 237 Instruments of alterable character](section/237.md)
+    - [s. 238 Shares subject to conversion](section/238.md)
+    - [s. 239 Securities subject to conversion](section/239.md)
+    - [s. 240 Debt instruments treated as equity](section/240.md)
+    - [s. 241 Scheme including issue of shares not conferring qualifying beneficial entitlement](section/241.md)
+    - [s. 242 Scheme including transfer of rights under a security](section/242.md)
+  - Consequences of deduction notices
+    - [s. 243 Consequences of deduction notices](section/243.md)
+    - [s. 244 The rule against double deduction](section/244.md)
+    - [s. 245 Application of the rule against deduction for untaxable payments](section/245.md)
+    - [s. 246 Cases where payee’s non-liability treated as not a result of scheme](section/246.md)
+    - [s. 247 Cases where payee treated as having reduced liability as a result of scheme](section/247.md)
+    - [s. 248 The rule against deduction for untaxable payments](section/248.md)
+  - Receipt notices
+    - [s. 249 Receipt notices](section/249.md)
+    - [s. 250 The receipt scheme conditions](section/250.md)
+    - [s. 251 Amounts within corporation tax](section/251.md)
+    - [s. 252 Further provisions about receipt notices](section/252.md)
+    - [s. 253 Exception for dealers](section/253.md)
+    - [s. 254 Rule for calculation or recalculation of income etc following receipt notice](section/254.md)
+  - General provisions about deduction notices and receipt notices
+    - [s. 255 Notices given before tax return made](section/255.md)
+    - [s. 256 Notices given after tax return made](section/256.md)
+    - [s. 257 Amendments, closure notices and discovery assessments where section 256 applies](section/257.md)
+  - Interpretation
+    - [s. 258 Schemes and series of transactions](section/258.md)
+    - [s. 259 Minor definitions](section/259.md)
+- PART 6A Hybrid and other mismatches
+  - CHAPTER 1 Introduction
+    - [s. 259A Overview of Part](section/259A.md)
+  - CHAPTER 2 Key definitions
+    - Meaning of “tax”
+      - [s. 259B “Tax” means certain taxes on income and includes foreign tax etc](section/259B.md)
+    - Equivalent provision to this Part under foreign law
+      - [s. 259BA References to equivalent provision to this Part under the law of a territory outside the United Kingdom](section/259BA.md)
+    - Payments and quasi-payments etc
+      - [s. 259BB Meaning of “payment”, “quasi-payment”, “payer”, “payee” etc](section/259BB.md)
+    - Ordinary income
+      - [s. 259BC The basic rules](section/259BC.md)
+      - [s. 259BD Chargeable companies in respect of CFCs and foreign CFCs](section/259BD.md)
+    - Hybrid entity etc
+      - [s. 259BE Meaning of “hybrid entity”, “investor” and “investor jurisdiction”](section/259BE.md)
+    - Permanent establishments
+      - [s. 259BF Meaning of “permanent establishment”](section/259BF.md)
+  - CHAPTER 3 Hybrid and other mismatches from financial instruments
+    - Introduction
+      - [s. 259C Overview of Chapter](section/259C.md)
+    - Application of Chapter
+      - [s. 259CA Circumstances in which the Chapter applies](section/259CA.md)
+      - [s. 259CB Hybrid or otherwise impermissible deduction/non-inclusion mismatches and their extent](section/259CB.md)
+      - [s. 259CC Interpretation of section 259CB](section/259CC.md)
+    - Counteraction
+      - [s. 259CD Counteraction where the payer is within the charge to corporation tax for the payment period](section/259CD.md)
+      - [s. 259CE Counteraction where a payee is within the charge to corporation tax](section/259CE.md)
+  - CHAPTER 4 Hybrid transfer deduction/non-inclusion mismatches
+    - Introduction
+      - [s. 259D Overview of Chapter](section/259D.md)
+    - Application of Chapter
+      - [s. 259DA Circumstances in which the Chapter applies](section/259DA.md)
+      - [s. 259DB Meaning of “hybrid transfer arrangement”, “underlying instrument” etc](section/259DB.md)
+      - [s. 259DC Hybrid transfer deduction/non-inclusion mismatches and their extent](section/259DC.md)
+      - [s. 259DD Interpretation of section 259DC](section/259DD.md)
+      - [s. 259DE The financial trader exclusion](section/259DE.md)
+    - Counteraction
+      - [s. 259DF Counteraction where the payer is within the charge to corporation tax for the payment period](section/259DF.md)
+      - [s. 259DG Counteraction where a payee is within the charge to corporation tax](section/259DG.md)
+  - CHAPTER 5 Hybrid payer deduction/non-inclusion mismatches
+    - Introduction
+      - [s. 259E Overview of Chapter](section/259E.md)
+    - Application of Chapter
+      - [s. 259EA Circumstances in which the Chapter applies](section/259EA.md)
+      - [s. 259EB Hybrid payer deduction/non-inclusion mismatches and their extent](section/259EB.md)
+    - Counteraction
+      - [s. 259EC Counteraction where the hybrid payer is within the charge to corporation tax for the payment period](section/259EC.md)
+      - [s. 259ED Counteraction where a payee is within the charge to corporation tax](section/259ED.md)
+  - CHAPTER 6 Deduction/non-inclusion mismatches relating to transfers by permanent establishments
+    - Introduction
+      - [s. 259F Overview of Chapter](section/259F.md)
+    - Application of Chapter
+      - [s. 259FA Circumstances in which the Chapter applies](section/259FA.md)
+    - Counteraction
+      - [s. 259FB Counteraction of the excessive PE deduction](section/259FB.md)
+      - [s. 259FC Meaning of excessive PE inclusion income](section/259FC.md)
+  - CHAPTER 7 Hybrid payee deduction/non-inclusion mismatches
+    - Introduction
+      - [s. 259G Overview of Chapter](section/259G.md)
+    - Application of Chapter
+      - [s. 259GA Circumstances in which the Chapter applies](section/259GA.md)
+      - [s. 259GB Hybrid payee deduction/non-inclusion mismatches and their extent](section/259GB.md)
+    - Counteraction
+      - [s. 259GC Counteraction where the payer is within the charge to corporation tax for the payment period](section/259GC.md)
+      - [s. 259GD Counteraction where the investor is within the charge to corporation tax](section/259GD.md)
+      - [s. 259GE Counteraction where a hybrid payee is an LLP](section/259GE.md)
+  - CHAPTER 8 Multinational payee deduction/non-inclusion mismatches
+    - Introduction
+      - [s. 259H Overview of Chapter](section/259H.md)
+    - Application of Chapter
+      - [s. 259HA Circumstances in which the Chapter applies](section/259HA.md)
+      - [s. 259HB Multinational payee deduction/non-inclusion mismatches and their extent](section/259HB.md)
+    - Counteraction
+      - [s. 259HC Counteraction of the multinational payee deduction/non-inclusion mismatch](section/259HC.md)
+  - CHAPTER 9 Hybrid entity double deduction mismatches
+    - Introduction
+      - [s. 259I Overview of Chapter](section/259I.md)
+    - Application of Chapter
+      - [s. 259IA Circumstances in which the Chapter applies](section/259IA.md)
+    - Counteraction
+      - [s. 259IB Counteraction where the investor is within the charge to corporation tax](section/259IB.md)
+      - [s. 259IC Counteraction where the hybrid entity is within the charge to corporation tax](section/259IC.md)
+      - [s. 259ICA Deemed dual inclusion income for the purposes of section 259IC](section/259ICA.md)
+      - [s. 259ID Section 259ID income for the purposes of section 259IC](section/259ID.md)
+  - CHAPTER 10 Dual territory double deduction cases
+    - Introduction
+      - [s. 259J Overview of Chapter](section/259J.md)
+    - Application of Chapter
+      - [s. 259JA Circumstances in which the Chapter applies](section/259JA.md)
+    - Counteraction
+      - [s. 259JB Counteraction where mismatch arises because of a dual resident company](section/259JB.md)
+      - [s. 259JC Counteraction where mismatch arises because of a relevant multinational and the UK is the parent jurisdiction](section/259JC.md)
+      - [s. 259JD Counteraction where mismatch arises because of a relevant multinational and is not counteracted in the parent jurisdiction](section/259JD.md)
+      - [s. 259JE Meaning of excessive PE inclusion income](section/259JE.md)
+  - CHAPTER 11 Imported mismatches
+    - Introduction
+      - [s. 259K Overview of Chapter](section/259K.md)
+    - Application of Chapter
+      - [s. 259KA Circumstances in which the Chapter applies](section/259KA.md)
+      - [s. 259KB Meaning of “dual territory double deduction”, “excessive PE deduction” and “PE jurisdiction”](section/259KB.md)
+    - Counteraction
+      - [s. 259KC Denial of the relevant deduction in relation to the imported mismatch payment](section/259KC.md)
+      - [s. 259KD Deductions from dual inclusion income](section/259KD.md)
+      - [s. 259KE Limit on reduction under section 259KC](section/259KE.md)
+      - [s. 259KF Provision for cases within Part 4](section/259KF.md)
+  - CHAPTER 12 Adjustments in light of subsequent events etc
+    - [s. 259L Adjustments where suppositions cease to be reasonable](section/259L.md)
+    - [s. 259LA Deduction from taxable total profits where an amount of ordinary income arises late](section/259LA.md)
+    - [s. 259LB Adjustments in light of later treatment for accounting purposes](section/259LB.md)
+  - CHAPTER 12A Allocation of dual inclusion income within group
+    - Introduction
+      - [s. 259ZM Overview of Chapter](section/259ZM.md)
+    - Application of Chapter
+      - [s. 259ZMA Circumstances in which Chapter applies](section/259ZMA.md)
+    - Allocation of DII surplus
+      - [s. 259ZMB Claims for allocation of DII surplus](section/259ZMB.md)
+      - [s. 259ZMC The unused part of the DII surplus](section/259ZMC.md)
+      - [s. 259ZMD The unused part of the DII shortfall](section/259ZMD.md)
+    - Groups
+      - [s. 259ZME Groups of companies](section/259ZME.md)
+    - “Dual inclusion income” and “counteraction amount”
+      - [s. 259ZMF Meaning of “dual inclusion income” and “counteraction amount”](section/259ZMF.md)
+  - CHAPTER 13 Anti-avoidance
+    - [s. 259M Countering the effect of avoidance arrangements](section/259M.md)
+  - CHAPTER 13A Special provision concerning transparent funds
+    - [s. 259MA Meaning of “transparent fund”](section/259MA.md)
+    - [s. 259MB Application of Chapters 3, 4, 5 and 7](section/259MB.md)
+    - [s. 259MC Application of Chapter 9](section/259MC.md)
+    - [s. 259MD Application of Chapter 11](section/259MD.md)
+  - CHAPTER 14 Interpretation
+    - Financial instruments
+      - [s. 259N Meaning of “financial instrument”](section/259N.md)
+    - Relevant investment funds
+      - [s. 259NA Meaning of “relevant investment fund”](section/259NA.md)
+    - Control groups and related persons
+      - [s. 259NB Control groups](section/259NB.md)
+      - [s. 259NC Related persons](section/259NC.md)
+      - [s. 259ND Meaning of “50% investment” and “25% investment”](section/259ND.md)
+    - Qualifying institutional investors etc
+      - [s. 259NDA Meaning of “qualifying institutional investor” etc](section/259NDA.md)
+    - Partnerships
+      - [s. 259NE Treatment of a person who is a member of a partnership](section/259NE.md)
+    - Securitisation companies
+      - [s. 259NEZA Securitisation companies](section/259NEZA.md)
+    - Priority
+      - [s. 259NEA Priority](section/259NEA.md)
+    - Relevant debt relief circumstances
+      - [s. 259NEB Relevant debt relief circumstances: introductory](section/259NEB.md)
+      - [s. 259NEC Release of debts](section/259NEC.md)
+      - [s. 259NED Release of connected companies debts](section/259NED.md)
+      - [s. 259NEE Release of connected companies debts during creditor’s insolvency](section/259NEE.md)
+      - [s. 259NEF Corporate rescue: debt released shortly after connection arises](section/259NEF.md)
+    - Definitions
+      - [s. 259NF Definitions](section/259NF.md)
+- Part 7 Tax treatment of financing costs and income
+  - CHAPTER 1 Introduction
+    - [s. 260 Introduction](section/260.md)
+  - CHAPTER 2 Application of Part
+    - [s. 261 Application of Part](section/261.md)
+    - [s. 262 UK net debt of worldwide group for period of account of worldwide group](section/262.md)
+    - [s. 263 Net debt of a company](section/263.md)
+    - [s. 264 Worldwide gross debt of worldwide group for period of account of the group](section/264.md)
+    - [s. 265 References to amounts disclosed in balance sheet of a company](section/265.md)
+    - [s. 265A Different accounting treatment used at company and group levels](section/265A.md)
+    - [s. 266 Qualifying financial services groups](section/266.md)
+    - [s. 267 Qualifying activities](section/267.md)
+    - [s. 268 Lending activities and activities ancillary to lending activities](section/268.md)
+    - [s. 269 Insurance activities and insurance-related activities](section/269.md)
+    - [s. 270 Relevant dealing in financial instruments](section/270.md)
+    - [s. 271 UK trading income of the worldwide group](section/271.md)
+    - [s. 272 Worldwide trading income of the worldwide group](section/272.md)
+    - [s. 273 Foreign currency accounting](section/273.md)
+    - [s. 273A Meaning of “group securitisation company”](section/273A.md)
+  - CHAPTER 3 Disallowance of deductions
+    - [s. 274 Application of Chapter and meaning of “total disallowed amount”](section/274.md)
+    - [s. 275 Meaning of “company to which this Chapter applies”](section/275.md)
+    - [s. 275A Meaning of “dual resident investing company”](section/275A.md)
+    - [s. 276 Appointment of authorised company for relevant period of account](section/276.md)
+    - [s. 277 Meaning of “the reporting body”](section/277.md)
+    - [s. 278 Statement of allocated disallowances: submission](section/278.md)
+    - [s. 279 Statement of allocated disallowances: submission of revised statement](section/279.md)
+    - [s. 280 Statement of allocated disallowances: requirements](section/280.md)
+    - [s. 280A Statement of allocated disallowances: dual resident investing companies](section/280A.md)
+    - [s. 281 Statement of allocated disallowances: effect](section/281.md)
+    - [s. 282 Company tax returns](section/282.md)
+    - [s. 283 Power to make regulations about statement of allocated disallowances](section/283.md)
+    - [s. 284 Failure of reporting body to submit statement of allocated disallowances](section/284.md)
+    - [s. 284A Section 284: supplementary](section/284A.md)
+    - [s. 285 Powers to make regulations in relation to reductions under section 284](section/285.md)
+  - CHAPTER 4 Exemption of financing income
+    - [s. 286 Application of Chapter and meaning of “total disallowed amount”](section/286.md)
+    - [s. 287 Meaning of “company to which this Chapter applies”](section/287.md)
+    - [s. 288 Appointment of authorised company for relevant period of account](section/288.md)
+    - [s. 289 Meaning of “the reporting body”](section/289.md)
+    - [s. 290 Statement of allocated exemptions: submission](section/290.md)
+    - [s. 291 Statement of allocated exemptions: submission of revised statement](section/291.md)
+    - [s. 292 Statement of allocated exemptions: requirements](section/292.md)
+    - [s. 293 Statement of allocated exemptions: effect](section/293.md)
+    - [s. 294 Company tax returns](section/294.md)
+    - [s. 295 Power to make regulations about statement of allocated exemptions](section/295.md)
+    - [s. 296 Failure of reporting body to submit statement of allocated exemptions](section/296.md)
+    - [s. 297 Power to make regulations in relation to reductions under section 296](section/297.md)
+    - [s. 298 Balancing payments between group companies: no tax charge or relief](section/298.md)
+    - [s. 298A Application of Chapter to financing income amounts determined under section 314A](section/298A.md)
+  - CHAPTER 5 Intra-group financing income where payer denied deduction
+    - [s. 299 Tax exemption for certain financing income received from EEA companies](section/299.md)
+    - [s. 300 Meaning of “relevant associate”](section/300.md)
+    - [s. 301 Meaning of “tax-resident” and “EEA territory”](section/301.md)
+    - [s. 302 Qualifying EEA tax relief for payment in current or previous period](section/302.md)
+    - [s. 303 Qualifying EEA tax relief for payment in future period](section/303.md)
+    - [s. 304 References to tax of a territory](section/304.md)
+    - [s. 305 Financing income amounts of a company](section/305.md)
+  - CHAPTER 6 Tax avoidance
+    - [s. 305A Schemes preventing this Part applying to a large group](section/305A.md)
+    - [s. 306 Schemes involving manipulation of rules in Chapter 2](section/306.md)
+    - [s. 307 Schemes involving manipulation of rules in Chapters 3 and 4](section/307.md)
+    - [s. 308 Meaning of “relevant net deduction”](section/308.md)
+    - [s. 309 Calculation of amounts](section/309.md)
+    - [s. 310 Meaning of “carried-back amount” and “carried-forward amount”](section/310.md)
+    - [s. 311 Schemes involving manipulation of rules in Chapter 5](section/311.md)
+    - [s. 312 Meaning of “scheme” and “excluded scheme”](section/312.md)
+  - CHAPTER 7 “Financing expense amount” and “financing income amount”
+    - [s. 313 The financing expense amounts of a company](section/313.md)
+    - [s. 314 The financing income amounts of a company](section/314.md)
+    - [s. 314A The financing income amounts of a chargeable company under Part 9A](section/314A.md)
+    - [s. 315 Interpretation of sections 313 and 314](section/315.md)
+    - [s. 316 Group treasury companies](section/316.md)
+    - [s. 317 Real estate investment trusts](section/317.md)
+    - [s. 317A Companies with permanent establishments profits election](section/317A.md)
+    - [s. 318 Companies engaged in oil extraction activities](section/318.md)
+    - [s. 318A Industrial and provident societies](section/318A.md)
+    - [s. 319 Intra-group short-term finance: financing expense](section/319.md)
+    - [s. 320 Intra-group short-term finance: financing income](section/320.md)
+    - [s. 321 Short-term loan relationships](section/321.md)
+    - [s. 322 Stranded deficits in non-trading loan relationships: financing expense](section/322.md)
+    - [s. 323 Stranded deficits in non-trading loan relationships: financing income](section/323.md)
+    - [s. 324 Stranded management expenses in non-trading loan relationships: financing expense](section/324.md)
+    - [s. 325 Stranded management expenses in non-trading loan relationships: financing income](section/325.md)
+    - [s. 326 Charities](section/326.md)
+    - [s. 327 Educational and public bodies](section/327.md)
+    - [s. 328 Interpretation of sections 316 to 327](section/328.md)
+  - CHAPTER 8 “Tested expense amount” and “tested income amount”
+    - [s. 329 The tested expense amount](section/329.md)
+    - [s. 330 The tested income amount](section/330.md)
+    - [s. 331 Companies with net financing deduction or net financing income that is small](section/331.md)
+    - [s. 331ZA Elections disapplying sections 329(5) and 330(5)](section/331ZA.md)
+    - [s. 331A Mismatches between tax treatment and accounting treatment](section/331A.md)
+  - CHAPTER 9 “Available amount”
+    - [s. 332 The available amount](section/332.md)
+    - [s. 332A Groups containing securitisation companies](section/332A.md)
+    - [s. 332AA Change of accounting standards: investment entities](section/332AA.md)
+    - [s. 332B Partnerships: expenses of borrowing](section/332B.md)
+    - [s. 332C Partnerships: other expenses](section/332C.md)
+    - [s. 333 Group members with income from oil extraction subject to particular tax treatment in UK](section/333.md)
+    - [s. 334 Group members with income from shipping subject to particular tax treatment in UK](section/334.md)
+    - [s. 335 Group members with income from property rental subject to particular tax treatment in UK](section/335.md)
+    - [s. 336 Meaning of accounting expressions used in this Chapter](section/336.md)
+    - [s. 336A Mismatches between tax treatment and accounting treatment](section/336A.md)
+  - CHAPTER 10 Other interpretative and supplementary provisions
+    - [s. 337 The worldwide group](section/337.md)
+    - [s. 338 Meaning of “group”](section/338.md)
+    - [s. 339 Meaning of “ultimate parent”](section/339.md)
+    - [s. 340 Meaning of “corporate entity”](section/340.md)
+    - [s. 341 Meaning of “relevant non-corporate entity”](section/341.md)
+    - [s. 342 Treatment of entities stapled to corporate, or relevant non-corporate, entities](section/342.md)
+    - [s. 343 Treatment of business combinations](section/343.md)
+    - [s. 344 Meaning of “large” in relation to a group](section/344.md)
+    - [s. 345 Meaning of “UK group company” and “relevant group company”](section/345.md)
+    - [s. 346 Financial statements of the worldwide group](section/346.md)
+    - [s. 347 Non-compliant financial statements of the worldwide group](section/347.md)
+    - [s. 348 Non-existent financial statements of the worldwide group](section/348.md)
+    - [s. 348A Financial statements: business combinations to which the worldwide group is a party](section/348A.md)
+    - [s. 349 References to amounts disclosed in financial statements](section/349.md)
+    - [s. 350 Translation of amounts disclosed in financial statements](section/350.md)
+    - [s. 351 Expressions taking their meaning from international accounting standards](section/351.md)
+    - [s. 352 Meaning of “relevant accounting period”](section/352.md)
+    - [s. 353 Other expressions](section/353.md)
+    - [s. 353A Effect of Part on parties to capital market arrangements](section/353A.md)
+    - [s. 353AA Power to make regulations where accounting standards change](section/353AA.md)
+    - [s. 353B Regulations and orders](section/353B.md)
+- Part 8 Offshore funds ETC
+  - Tax treatment of participants in offshore funds
+    - [s. 354 Power to make regulations about tax treatment of participants](section/354.md)
+    - [s. 355 Meaning of “offshore fund”](section/355.md)
+    - [s. 356 Meaning of “mutual fund”](section/356.md)
+    - [s. 357 Exceptions to definition of “mutual fund”](section/357.md)
+    - [s. 358 Meaning of “relevant income-producing asset”](section/358.md)
+    - [s. 359 Power to make regulations about exceptions to definition of “mutual fund”](section/359.md)
+  - Supplementary
+    - [s. 360 Treatment of umbrella arrangements](section/360.md)
+    - [s. 361 Treatment of arrangements comprising more than one class of interest](section/361.md)
+    - [s. 362 Meaning of “participant” and “participation”](section/362.md)
+    - [s. 363 Meaning of “umbrella arrangements” and “part of umbrella arrangements”](section/363.md)
+    - [s. 363A Residence of undertakings for collective investment in transferable securities and alternative investment funds](section/363A.md)
+- Part 9 Amendments to relocate provisions of tax legislation
+  - [s. 364 Oil activities](section/364.md)
+  - [s. 365 Alternative finance arrangements](section/365.md)
+  - [s. 366 Power to amend the alternative finance provisions](section/366.md)
+  - [s. 367 Leasing arrangements: finance leases and loans](section/367.md)
+  - [s. 368 Sale and lease-back etc](section/368.md)
+  - [s. 369 Factoring of income etc](section/369.md)
+  - [s. 370 UK representatives of non-UK residents](section/370.md)
+  - [s. 371 Miscellaneous relocations](section/371.md)
+- PART 9A Controlled foreign companies
+  - Chapter 1 Overview
+    - [s. 371AA Overview of Part](section/371AA.md)
+  - Chapter 2 The CFC charge
+    - [s. 371BA Introduction to the CFC charge](section/371BA.md)
+    - [s. 371BB The CFC charge gateway](section/371BB.md)
+    - [s. 371BC Charging the CFC charge](section/371BC.md)
+    - [s. 371BD Chargeable companies](section/371BD.md)
+    - [s. 371BE Companies which are managers of offshore funds etc](section/371BE.md)
+    - [s. 371BF Companies which are participants in offshore funds](section/371BF.md)
+    - [s. 371BG Companies holding shares as trading assets etc](section/371BG.md)
+    - [s. 371BH Companies carrying on BLAGAB](section/371BH.md)
+    - [s. 371BI Banking companies](section/371BI.md)
+  - Chapter 3 The CFC charge gateway: determining which (if any) of Chapters 4 to 8 applies
+    - [s. 371CA Does Chapter 4 apply?](section/371CA.md)
+    - [s. 371CB Does Chapter 5 apply?](section/371CB.md)
+    - [s. 371CC Incidental non-trading finance profits: the 5% rule](section/371CC.md)
+    - [s. 371CD Incidental non-trading finance profits: the further 5% rule](section/371CD.md)
+    - [s. 371CE Does Chapter 6 apply?](section/371CE.md)
+    - [s. 371CEA Section 371CE: meaning of “group treasury company”](section/371CEA.md)
+    - [s. 371CF Does Chapter 7 apply?](section/371CF.md)
+    - [s. 371CG Does Chapter 8 apply?](section/371CG.md)
+  - Chapter 4 The CFC charge gateway: profits attributable to UK activities
+    - [s. 371DA Introduction to Chapter](section/371DA.md)
+    - [s. 371DB The steps](section/371DB.md)
+    - [s. 371DC Exclusion: UK activities a minority of total activities](section/371DC.md)
+    - [s. 371DD Exclusion: economic value](section/371DD.md)
+    - [s. 371DE Exclusion: independent companies’ arrangements](section/371DE.md)
+    - [s. 371DF Exclusion: trading profits (the basic rule)](section/371DF.md)
+    - [s. 371DG Exclusion: trading profits (business premises condition)](section/371DG.md)
+    - [s. 371DH Exclusion: trading profits (income condition)](section/371DH.md)
+    - [s. 371DI Exclusion: trading profits (management expenditure condition)](section/371DI.md)
+    - [s. 371DJ Exclusion: trading profits (IP condition)](section/371DJ.md)
+    - [s. 371DK Exclusion: trading profits (export of goods condition)](section/371DK.md)
+    - [s. 371DL Exclusion: trading profits (anti-avoidance)](section/371DL.md)
+  - Chapter 5 The CFC charge gateway: non-trading finance profits
+    - [s. 371EA The basic rule](section/371EA.md)
+    - [s. 371EB UK activities](section/371EB.md)
+    - [s. 371EC Capital investment from the UK](section/371EC.md)
+    - [s. 371ED Arrangements in lieu of dividends etc to UK resident companies etc](section/371ED.md)
+    - [s. 371EE Leases to UK resident companies etc](section/371EE.md)
+  - Chapter 6 The CFC charge gateway: trading finance profits
+    - [s. 371FA The basic rule](section/371FA.md)
+    - [s. 371FB Qualifying loan relationships](section/371FB.md)
+    - [s. 371FC Loans from foreign permanent establishments of UK resident companies](section/371FC.md)
+    - [s. 371FD Exclusion: banking business](section/371FD.md)
+    - [s. 371FE Exclusion: insurance business](section/371FE.md)
+  - Chapter 7 The CFC charge gateway: captive insurance business
+    - [s. 371GA The basic rule](section/371GA.md)
+  - Chapter 8 The CFC charge gateway: solo consolidation
+    - [s. 371HA The basic rule](section/371HA.md)
+  - Chapter 9 Exemptions for profits from qualifying loan relationships
+    - [s. 371IA The basic rule](section/371IA.md)
+    - [s. 371IB Loans funded out of qualifying resources](section/371IB.md)
+    - [s. 371IC What is the “qualifying value” of “relevant pre-acquisition funds or other assets”?](section/371IC.md)
+    - [s. 371ID The 75% exemption](section/371ID.md)
+    - [s. 371IE The “matched interest profits” exemption](section/371IE.md)
+    - [s. 371IF Determining the profits of a qualifying loan relationship](section/371IF.md)
+    - [s. 371IG What is a “qualifying loan relationship”?](section/371IG.md)
+    - [s. 371IH Exclusions from definition of “qualifying loan relationship”](section/371IH.md)
+    - [s. 371II Power to amend definitions](section/371II.md)
+    - [s. 371IJ Claims](section/371IJ.md)
+  - Chapter 10 The exempt period exemption
+    - [s. 371JA Introduction to Chapter](section/371JA.md)
+    - [s. 371JB The basic rule](section/371JB.md)
+    - [s. 371JC When does an exempt period begin?](section/371JC.md)
+    - [s. 371JD How long is an exempt period?](section/371JD.md)
+    - [s. 371JE Adjustment of profits passing through the CFC charge gateway](section/371JE.md)
+    - [s. 371JF Anti-avoidance](section/371JF.md)
+    - [s. 371JG Amendment of company tax returns](section/371JG.md)
+  - Chapter 11 The excluded territories exemption
+    - [s. 371KA Introduction to Chapter](section/371KA.md)
+    - [s. 371KB The basic rule](section/371KB.md)
+    - [s. 371KC How to determine the territory in which a CFC is resident](section/371KC.md)
+    - [s. 371KD What is “the threshold amount”?](section/371KD.md)
+    - [s. 371KE Category A income: the basic rule](section/371KE.md)
+    - [s. 371KF Category A income: permanent establishments in excluded territories](section/371KF.md)
+    - [s. 371KG Category B income](section/371KG.md)
+    - [s. 371KH Category C income](section/371KH.md)
+    - [s. 371KI Category D income](section/371KI.md)
+    - [s. 371KJ The IP condition](section/371KJ.md)
+  - Chapter 12 The low profits exemption
+    - [s. 371LA Introduction to Chapter](section/371LA.md)
+    - [s. 371LB The basic rule](section/371LB.md)
+    - [s. 371LC Anti-avoidance](section/371LC.md)
+  - Chapter 13 The low profit margin exemption
+    - [s. 371MA Introduction to Chapter](section/371MA.md)
+    - [s. 371MB The basic rule](section/371MB.md)
+    - [s. 371MC Anti-avoidance](section/371MC.md)
+  - Chapter 14 The tax exemption
+    - [s. 371NA Introduction to Chapter](section/371NA.md)
+    - [s. 371NB The basic rule](section/371NB.md)
+    - [s. 371NC Reductions to “the local tax amount”](section/371NC.md)
+    - [s. 371ND What are “designer rate tax provisions”?](section/371ND.md)
+    - [s. 371NE How to determine “the corresponding UK tax”](section/371NE.md)
+  - Chapter 15 Relevant interests in a CFC
+    - Introduction
+      - [s. 371OA Application of Chapter](section/371OA.md)
+      - [s. 371OB Provision about interpretation](section/371OB.md)
+    - What is a “relevant interest” in a CFC?
+      - [s. 371OC “Relevant interests” of UK resident companies](section/371OC.md)
+      - [s. 371OD “Relevant interests” of persons related to UK resident companies](section/371OD.md)
+      - [s. 371OE Other “relevant interests”](section/371OE.md)
+  - Chapter 16 Creditable tax of a CFC
+    - [s. 371PA What is “creditable tax”?](section/371PA.md)
+  - Chapter 17 Apportionment of a CFC’s chargeable profits and creditable tax
+    - Introduction
+      - [s. 371QA Application of Chapter](section/371QA.md)
+      - [s. 371QB Provision about interpretation](section/371QB.md)
+    - How are the apportionments to be made?
+      - [s. 371QC The basic rules](section/371QC.md)
+      - [s. 371QD Apportionments to be made in proportion to shareholding](section/371QD.md)
+      - [s. 371QE Indirect shareholdings](section/371QE.md)
+      - [s. 371QF Variable shareholdings](section/371QF.md)
+      - [s. 371QG Anti-avoidance](section/371QG.md)
+  - Chapter 18 Control etc
+    - [s. 371RA Overview of Chapter](section/371RA.md)
+    - [s. 371RB Legal and economic control](section/371RB.md)
+    - [s. 371RC Legal and economic control: the 40% rule](section/371RC.md)
+    - [s. 371RD Legal and economic control: supplementary provision](section/371RD.md)
+    - [s. 371RE Control determined by reference to accounting standards](section/371RE.md)
+    - [s. 371RF Power to amend section 371RE etc](section/371RF.md)
+    - [s. 371RG Companies in which a UK resident company has more than a 50% investment](section/371RG.md)
+  - Chapter 19 Assumed taxable total profits, assumed total profits and the corporation tax assumptions
+    - Overview
+      - [s. 371SA Overview of Chapter](section/371SA.md)
+    - “Assumed taxable total profits” and “assumed total profits”
+      - [s. 371SB What are “assumed taxable total profits” and “assumed total profits”?](section/371SB.md)
+    - “The corporation tax assumptions”
+      - [s. 371SC What are “the corporation tax assumptions”?](section/371SC.md)
+      - [s. 371SD UK residence etc](section/371SD.md)
+      - [s. 371SE Close company](section/371SE.md)
+      - [s. 371SF Claims and elections](section/371SF.md)
+      - [s. 371SG Disapplication of assumption in section 371SF(1)](section/371SG.md)
+      - [s. 371SH Elections under section 9A of CTA 2010](section/371SH.md)
+      - [s. 371SI Modification of sections 6 and 7 of CTA 2010](section/371SI.md)
+      - [s. 371SJ Elections for leases to be treated as long funding leases](section/371SJ.md)
+      - [s. 371SK Intangible fixed assets](section/371SK.md)
+      - [s. 371SKA Restrictions on certain deductions: deductions allowances](section/371SKA.md)
+      - [s. 371SL Group relief etc](section/371SL.md)
+      - [s. 371SLA Corporate interest restriction](section/371SLA.md)
+      - [s. 371SM Capital allowances](section/371SM.md)
+      - [s. 371SN Unremittable overseas income](section/371SN.md)
+      - [s. 371SO Tax advantages](section/371SO.md)
+      - [s. 371SP Disguised interest: application of Chapter 2A of Part 6 of CTA 2009](section/371SP.md)
+      - [s. 371SQ Shares accounted for as liabilities: application of section 521C of CTA 2009](section/371SQ.md)
+      - [s. 371SR Double taxation relief: countering effect of avoidance arrangements](section/371SR.md)
+  - Chapter 20 Residence of CFCs
+    - [s. 371TA The basic rule](section/371TA.md)
+    - [s. 371TB How to determine the territory in which the CFC is resident](section/371TB.md)
+    - [s. 371TC Elections and designations about residence](section/371TC.md)
+  - Chapter 21 Management
+    - [s. 371UA Introduction to Chapter](section/371UA.md)
+    - [s. 371UB Application of the Taxes Acts to the CFC charge](section/371UB.md)
+    - [s. 371UBA Payments in respect of a charge on a banking company: information to be provided](section/371UBA.md)
+    - [s. 371UC Just and reasonable apportionments](section/371UC.md)
+    - [s. 371UD Relief against sum charged](section/371UD.md)
+    - [s. 371UE Appeals affecting more than one person](section/371UE.md)
+    - [s. 371UF Recovery of sum charged from other UK resident companies](section/371UF.md)
+  - Chapter 22 Supplementary provision
+    - [s. 371VA Definitions](section/371VA.md)
+    - [s. 371VB Accounting periods](section/371VB.md)
+    - [s. 371VC Accounting profits](section/371VC.md)
+    - [s. 371VD Adjustments to accounting profits](section/371VD.md)
+    - [s. 371VE Cell companies etc](section/371VE.md)
+    - [s. 371VF Connected persons etc](section/371VF.md)
+    - [s. 371VG Finance profits](section/371VG.md)
+    - [s. 371VH Interests in companies](section/371VH.md)
+    - [s. 371VI Property business profits](section/371VI.md)
+    - [s. 371VIA Relevant finance leases](section/371VIA.md)
+    - [s. 371VJ Regulations](section/371VJ.md)
+- Part 10 Corporate interest restriction
+  - CHAPTER 1 Introduction
+    - [s. 372 Overview](section/372.md)
+    - [s. 373 Meaning of “subject to interest restrictions”, “the total disallowed amount” etc](section/373.md)
+    - [s. 374 Interest restriction returns](section/374.md)
+  - CHAPTER 2 Disallowance and reactivation of tax-interest expense amounts
+    - [s. 375 Disallowance of deductions: full interest restriction return submitted](section/375.md)
+    - [s. 376 Disallowance of deductions: no return, or non-compliant return, submitted](section/376.md)
+    - [s. 377 Disallowance of deductions: identification of the tax-interest amounts to be left out of account](section/377.md)
+    - [s. 378 Disallowed tax-interest expense amounts carried forward](section/378.md)
+    - [s. 379 Reactivation of interest](section/379.md)
+    - [s. 380 Reactivation of deductions: identification of the tax-interest amounts to be brought into account](section/380.md)
+    - [s. 381 Set-off of disallowances and reactivations in the same accounting period](section/381.md)
+  - CHAPTER 3 Tax-interest amounts
+    - Tax-interest expense and income amounts: basic rules
+      - [s. 382 The tax-interest expense amounts of a company](section/382.md)
+      - [s. 383 Relevant loan relationship debits](section/383.md)
+      - [s. 384 Relevant derivative contract debits](section/384.md)
+      - [s. 385 The tax-interest income amounts of a company](section/385.md)
+      - [s. 386 Relevant loan relationship credits](section/386.md)
+      - [s. 387 Relevant derivative contract credits](section/387.md)
+    - Double taxation relief
+      - [s. 388 Double taxation relief](section/388.md)
+    - Net tax-interest expense
+      - [s. 389 The “net tax-interest expense” or “net tax-interest income” of a company](section/389.md)
+      - [s. 390 The worldwide group’s aggregate net tax-interest expense and income](section/390.md)
+    - Interpretation
+      - [s. 391 Meaning of “impairment loss”](section/391.md)
+      - [s. 391A Amounts capitalised in carrying value of intangible fixed assets](section/391A.md)
+  - CHAPTER 4 Interest capacity
+    - [s. 392 The interest capacity of a worldwide group for a period of account](section/392.md)
+    - [s. 393 Amount of interest allowance for a period that is “available” in a later period](section/393.md)
+    - [s. 394 When interest allowance is “used”](section/394.md)
+    - [s. 395 Amount of interest allowance for a period of account that is “unexpired” in later period](section/395.md)
+    - [s. 395A Carry forward of interest allowance: new holding company](section/395A.md)
+  - CHAPTER 5 Interest allowance
+    - Interest allowance
+      - [s. 396 The interest allowance of a worldwide group for a period of account](section/396.md)
+      - [s. 397 Basic interest allowance calculated using fixed ratio method](section/397.md)
+      - [s. 398 Basic interest allowance calculated using group ratio method](section/398.md)
+      - [s. 399 The group ratio percentage](section/399.md)
+      - [s. 400 The debt cap](section/400.md)
+      - [s. 400A Carry forward of excess debt cap: new holding company](section/400A.md)
+    - Effect of group ratio (blended) election
+      - [s. 401 Effect of group ratio (blended) election on group ratio percentage](section/401.md)
+      - [s. 402 Effect of group ratio (blended) election on group ratio debt cap](section/402.md)
+      - [s. 403 Calculations under sections 401 and 402: investor worldwide groups](section/403.md)
+      - [s. 404 Meaning of “investor”, “related party investor” and investor’s “share”](section/404.md)
+  - CHAPTER 6 Tax-EBITDA
+    - [s. 405 The aggregate tax-EBITDA of a worldwide group](section/405.md)
+    - [s. 406 The tax-EBITDA of a company](section/406.md)
+    - [s. 407 Amounts not brought into account in determining a company’s tax-EBITDA](section/407.md)
+    - [s. 408 Excluded relevant intangibles debits and excluded relevant intangibles credits](section/408.md)
+    - [s. 409 Double taxation relief](section/409.md)
+  - CHAPTER 7 Group-interest and group-EBITDA
+    - Group-interest
+      - [s. 410 Net group-interest expense](section/410.md)
+      - [s. 411 “Relevant expense amount” and “relevant income amount”](section/411.md)
+      - [s. 412 Section 411: interpretation](section/412.md)
+      - [s. 413 Adjusted net group-interest expense](section/413.md)
+      - [s. 414 Qualifying net group-interest expense](section/414.md)
+      - [s. 415 Section 414: interpretation](section/415.md)
+    - Group-EBITDA
+      - [s. 416 Group-EBITDA](section/416.md)
+      - [s. 417 The capital (expenditure) adjustment](section/417.md)
+      - [s. 418 The capital (fair value movement) adjustment](section/418.md)
+      - [s. 419 The capital (disposals) adjustment](section/419.md)
+    - Treatment of derivative contracts in financial statements of worldwide group
+      - [s. 420 Derivative contracts subject to fair value accounting](section/420.md)
+      - [s. 421 Derivative contracts subject to fair value accounting: interpretation](section/421.md)
+    - Effect of group-EBITDA (chargeable gains) election
+      - [s. 422 Group-EBITDA (chargeable gains) election](section/422.md)
+    - Effect of interest allowance (alternative calculation) election
+      - [s. 423 Capitalised interest brought into account for tax purposes in accordance with GAAP](section/423.md)
+      - [s. 424 Employers’ pension contributions](section/424.md)
+      - [s. 424A Unpaid employees’ remuneration](section/424A.md)
+      - [s. 425 Employee share acquisitions](section/425.md)
+      - [s. 426 Changes in accounting policy](section/426.md)
+    - Effect of interest allowance (non-consolidated investment) election
+      - [s. 427 Group interest and group-EBITDA](section/427.md)
+      - [s. 428 Section 427: associated worldwide groups](section/428.md)
+      - [s. 429 Meaning of “non-consolidated associate”](section/429.md)
+    - Effect of interest allowance (consolidated partnerships) election
+      - [s. 430 Interest allowance (consolidated partnerships) election](section/430.md)
+    - Interpretation
+      - [s. 431 Interpretation of Chapter](section/431.md)
+  - CHAPTER 8 Public infrastructure
+    - Overview
+      - [s. 432 Overview of Chapter](section/432.md)
+    - Key concepts
+      - [s. 433 Meaning of “qualifying infrastructure company”](section/433.md)
+      - [s. 434 Elections under section 433](section/434.md)
+      - [s. 435 Group elections modifying the operation of sections 433 and 434](section/435.md)
+      - [s. 436 Meaning of “qualifying infrastructure activity”](section/436.md)
+      - [s. 437 Section 436: supplementary](section/437.md)
+    - Exemption and related provision
+      - [s. 438 Exemption for interest payable to third parties etc](section/438.md)
+      - [s. 438A Application of section 438: certain creditors treated as qualifying infrastructure companies](section/438A.md)
+      - [s. 439 Exemption in respect of certain pre-13 May 2016 loan relationships](section/439.md)
+      - [s. 440 Loans etc made by qualifying infrastructure companies to be ignored](section/440.md)
+      - [s. 441 Tax-EBITDA of qualifying infrastructure company to be nil](section/441.md)
+      - [s. 442 Amounts of qualifying infrastructure company left out of account for other purposes](section/442.md)
+      - [s. 443 Interest capacity for group with qualifying infrastructure company etc](section/443.md)
+    - Supplementary
+      - [s. 444 Joint venture companies](section/444.md)
+      - [s. 445 Joint venture groups](section/445.md)
+      - [s. 446 Joint ventures: supplementary](section/446.md)
+      - [s. 447 Partnerships and other transparent entities](section/447.md)
+      - [s. 448 Decommissioning](section/448.md)
+      - [s. 449 Minor definitions for purposes of this Chapter](section/449.md)
+  - CHAPTER 9 Cases involving particular types of company or business
+    - Banking companies
+      - [s. 450 Banking companies](section/450.md)
+    - Oil and gas
+      - [s. 451 Oil and gas](section/451.md)
+    - REITs
+      - [s. 452 Real Estate Investment Trusts](section/452.md)
+    - Insurance companies etc
+      - [s. 453 Insurance entities](section/453.md)
+      - [s. 454 Members of Lloyd’s](section/454.md)
+    - Investment managers
+      - [s. 454A Investments held by investment managers](section/454A.md)
+    - Shipping companies
+      - [s. 455 Shipping companies subject to tonnage tax](section/455.md)
+    - Fair value accounting
+      - [s. 456 Creditor relationships of companies determined on basis of fair value accounting](section/456.md)
+      - [s. 457 Elections under section 456: deemed debits and credits](section/457.md)
+    - Exemption for tax-interest expense or income amounts
+      - [s. 458 Co-operative and community benefit societies etc](section/458.md)
+      - [s. 459 Charities](section/459.md)
+    - Leases
+      - [s. 460 Long funding operating leases and finance leases](section/460.md)
+  - CHAPTER 10 Anti-avoidance
+    - [s. 461 Counteracting effect of avoidance arrangements](section/461.md)
+  - CHAPTER 11 Interpretation etc
+    - Related parties
+      - [s. 462 Expressions relating to “related parties”: introduction](section/462.md)
+      - [s. 463 Whether a person is generally a “related party” of another](section/463.md)
+      - [s. 464 Meaning of “25% investment”](section/464.md)
+      - [s. 465 Attribution of rights and interests](section/465.md)
+      - [s. 466 Certain loan relationships etc to be treated as made between related parties](section/466.md)
+      - [s. 467 Holdings of debt and equity in same proportions](section/467.md)
+      - [s. 468 Debts with same rights where unrelated parties hold more than 50%](section/468.md)
+      - [s. 469 Debt restructuring](section/469.md)
+      - [s. 470 Ordinary independent financing arrangements by banks and others](section/470.md)
+      - [s. 471 Loans made by relevant public bodies](section/471.md)
+      - [s. 472 Finance leases granted before 20 March 2017](section/472.md)
+    - Determining the worldwide group
+      - [s. 473 Meaning of “a worldwide group”, “ultimate parent” etc](section/473.md)
+      - [s. 474 Interpretation of section 473: “relevant entity”](section/474.md)
+      - [s. 475 Meaning of “non-consolidated subsidiary” and “consolidated subsidiary”](section/475.md)
+      - [s. 476 Continuity of identity of a worldwide group through time](section/476.md)
+      - [s. 477 Treatment of stapled entities](section/477.md)
+      - [s. 478 Treatment of business combinations](section/478.md)
+    - Financial statements and periods of account
+      - [s. 479 “Financial statements” of a worldwide group](section/479.md)
+      - [s. 480 “Period of account” of worldwide group](section/480.md)
+      - [s. 481 Actual financial statements not drawn up on acceptable principles](section/481.md)
+      - [s. 482 Actual financial statements drawn up on acceptable principles but consolidating wrong subsidiaries](section/482.md)
+      - [s. 483 Actual financial statements covering more than one worldwide group](section/483.md)
+      - [s. 484 No actual financial statements: ultimate parent draws up financial statements](section/484.md)
+      - [s. 485 No actual financial statements: other cases](section/485.md)
+      - [s. 486 Election altering period of account deemed under section 485](section/486.md)
+      - [s. 487 Actual financial statements ignored if for too long a period or too late](section/487.md)
+      - [s. 488 Meaning of “IAS financial statements”](section/488.md)
+      - [s. 489 References to amounts recognised in financial statements](section/489.md)
+    - Other definitions
+      - [s. 490 Meaning of “relevant accounting period”](section/490.md)
+      - [s. 491 Meaning of “relevant public body”](section/491.md)
+      - [s. 492 Meaning of “UK group company”](section/492.md)
+      - [s. 493 Embedded derivatives](section/493.md)
+      - [s. 494 Other interpretation](section/494.md)
+    - Regulations
+      - [s. 495 Financial statements: different treatment by group or members](section/495.md)
+      - [s. 496 Parties to capital market arrangements](section/496.md)
+      - [s. 497 Change in accounting standards](section/497.md)
+      - [s. 498 Regulations](section/498.md)
+- Part 11 General provisions
+  - Subordinate legislation
+    - [s. 499 Orders and regulations](section/499.md)
+  - Interpretation
+    - [s. 500 Abbreviated references to Acts](section/500.md)
+  - Final provisions
+    - [s. 501 Minor and consequential amendments](section/501.md)
+    - [s. 502 Transitional provisions and savings](section/502.md)
+    - [s. 503 Repeals and revocations](section/503.md)
+    - [s. 504 Index of defined expressions](section/504.md)
+    - [s. 505 Extent](section/505.md)
+    - [s. 506 Commencement](section/506.md)
+    - [s. 507 Short title](section/507.md)
+- Schedule A1 Assessment of unassessed transfer pricing profits: partnerships and Lloyd’s syndicates
+  - Part 1 Corporate partner’s unassessed transfer pricing profits
+    - [Sch. A1 para. 1 Unassessed transfer pricing profits: corporate partners](schedule/A1/paragraph/1.md)
+  - Part 2 Conditions for being assessed
+    - [Sch. A1 para. 2 Conditions for being assessed](schedule/A1/paragraph/2.md)
+  - Part 3 Assessment
+    - [Sch. A1 para. 3 Preliminary notices](schedule/A1/paragraph/3.md)
+    - [Sch. A1 para. 4 Representations by the partnership](schedule/A1/paragraph/4.md)
+    - [Sch. A1 para. 5 Assessment](schedule/A1/paragraph/5.md)
+    - [Sch. A1 para. 6 Amendment of partnership return by partnership](schedule/A1/paragraph/6.md)
+    - [Sch. A1 para. 7 Amendment of assessment by HMRC](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8 No postponement except before assessment is finalised for tax on same profits](schedule/A1/paragraph/8.md)
+    - [Sch. A1 para. 9 Closure notices: rules relating to period for amendments](schedule/A1/paragraph/9.md)
+    - [Sch. A1 para. 10 Appeal against assessment](schedule/A1/paragraph/10.md)
+    - [Sch. A1 para. 11 Review of assessment](schedule/A1/paragraph/11.md)
+    - [Sch. A1 para. 12 Settling of appeal by agreement](schedule/A1/paragraph/12.md)
+  - Part 4 Application to Lloyd’s syndicates
+    - [Sch. A1 para. 13 Introduction](schedule/A1/paragraph/13.md)
+    - [Sch. A1 para. 14 Modifications to Parts 1 to 3 of this Schedule](schedule/A1/paragraph/14.md)
+- SCHEDULE 1 Oil activities: new Chapter 16A of Part 2 of ITTOIA 2005
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Alternative finance arrangements
+  - Part 1 New Part 10A of ITA 2007
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Part 2 New Chapter 4 of Part 4 of TCGA 1992
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+  - Part 3 Other amendments
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+- SCHEDULE 3 Leasing arrangements: finance leases and loans
+  - Part 1 New Part 11A of ITA 2007
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Part 2 New section 37A of TCGA 1992
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Sale and lease-back etc: new Part 12A of ITA 2007
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Factoring of income etc: new Chapters 5B and 5C of Part 13 of ITA 2007
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 UK Representatives of non-UK residents
+  - Part 1 New Chapters 2B and 2C of Part 14 of ITA 2007
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Part 2 New Part 7A of TCGA 1992
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+- SCHEDULE 7 Miscellaneous relocations
+  - Part 1 Relocation of section 38 of, and Schedule 15 to, FA 1973
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Finance Act 1973 (c. 51)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Oil Taxation Act 1975 (c. 22)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Part 2 Relocation of section 24 of FA 1974
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Finance Act 1974 (c. 30)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Part 3 Relocation of section 42 of ICTA
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Part 4 Relocation of section 84A of ICTA
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+  - Part 5 Relocation of section 152 of ICTA
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+      - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+  - Part 6 Relocation of section 337A(2) of ICTA
+    - Income and Corporation Taxes Act 1988
+      - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+      - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+      - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+      - [Sch. 7 para. 39](schedule/7/paragraph/39.md)
+  - Part 7 Relocation of section 475 of ICTA
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 7 para. 40](schedule/7/paragraph/40.md)
+      - [Sch. 7 para. 41](schedule/7/paragraph/41.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 42](schedule/7/paragraph/42.md)
+      - [Sch. 7 para. 43](schedule/7/paragraph/43.md)
+  - Part 8 Relocation of section 700 of ICTA
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 7 para. 44](schedule/7/paragraph/44.md)
+      - [Sch. 7 para. 45](schedule/7/paragraph/45.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 46](schedule/7/paragraph/46.md)
+      - [Sch. 7 para. 47](schedule/7/paragraph/47.md)
+  - Part 9 Relocation of section 787 of ICTA
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 7 para. 48](schedule/7/paragraph/48.md)
+      - [Sch. 7 para. 49](schedule/7/paragraph/49.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 7 para. 50](schedule/7/paragraph/50.md)
+      - [Sch. 7 para. 51](schedule/7/paragraph/51.md)
+      - [Sch. 7 para. 52](schedule/7/paragraph/52.md)
+  - Part 10 Relocation of sections 130 to 132 of FA 1988
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 53](schedule/7/paragraph/53.md)
+      - [Sch. 7 para. 54](schedule/7/paragraph/54.md)
+    - Finance Act 1988 (c. 39)
+      - [Sch. 7 para. 55](schedule/7/paragraph/55.md)
+      - [Sch. 7 para. 56](schedule/7/paragraph/56.md)
+  - Part 11 Relocation of section 151 of FA 1989
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 57](schedule/7/paragraph/57.md)
+      - [Sch. 7 para. 58](schedule/7/paragraph/58.md)
+    - Finance Act 1989 (c. 26)
+      - [Sch. 7 para. 59](schedule/7/paragraph/59.md)
+      - [Sch. 7 para. 60](schedule/7/paragraph/60.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 61](schedule/7/paragraph/61.md)
+      - [Sch. 7 para. 62](schedule/7/paragraph/62.md)
+  - Part 12 Relocation of Schedule 12 to F(No.2)A 1992 so far as applying for income tax purposes
+    - Finance (No.2) Act 1992 (c. 48)
+      - [Sch. 7 para. 63](schedule/7/paragraph/63.md)
+      - [Sch. 7 para. 64](schedule/7/paragraph/64.md)
+      - [Sch. 7 para. 65](schedule/7/paragraph/65.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 66](schedule/7/paragraph/66.md)
+      - [Sch. 7 para. 67](schedule/7/paragraph/67.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 7 para. 68](schedule/7/paragraph/68.md)
+      - [Sch. 7 para. 69](schedule/7/paragraph/69.md)
+      - [Sch. 7 para. 70](schedule/7/paragraph/70.md)
+      - [Sch. 7 para. 71](schedule/7/paragraph/71.md)
+      - [Sch. 7 para. 72](schedule/7/paragraph/72.md)
+  - Part 13 Relocation of section 200 of FA 1996 so far as applying for income tax purposes
+    - Finance Act 1996 (c. 8)
+      - [Sch. 7 para. 73](schedule/7/paragraph/73.md)
+      - [Sch. 7 para. 74](schedule/7/paragraph/74.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 7 para. 75](schedule/7/paragraph/75.md)
+      - [Sch. 7 para. 76](schedule/7/paragraph/76.md)
+      - [Sch. 7 para. 77](schedule/7/paragraph/77.md)
+  - Part 14 Relocation of section 36 of FA 1998 and section 111 of FA 2009
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 78](schedule/7/paragraph/78.md)
+      - [Sch. 7 para. 79](schedule/7/paragraph/79.md)
+      - [Sch. 7 para. 80](schedule/7/paragraph/80.md)
+    - Finance Act 1998 (c. 36)
+      - [Sch. 7 para. 81](schedule/7/paragraph/81.md)
+      - [Sch. 7 para. 82](schedule/7/paragraph/82.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 7 para. 83](schedule/7/paragraph/83.md)
+      - [Sch. 7 para. 84](schedule/7/paragraph/84.md)
+  - Part 15 Relocation of section 118 of FA 1998
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 85](schedule/7/paragraph/85.md)
+      - [Sch. 7 para. 86](schedule/7/paragraph/86.md)
+    - Finance Act 1998 (c. 36)
+      - [Sch. 7 para. 87](schedule/7/paragraph/87.md)
+      - [Sch. 7 para. 88](schedule/7/paragraph/88.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 7 para. 89](schedule/7/paragraph/89.md)
+      - [Sch. 7 para. 90](schedule/7/paragraph/90.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 7 para. 91](schedule/7/paragraph/91.md)
+      - [Sch. 7 para. 92](schedule/7/paragraph/92.md)
+      - [Sch. 7 para. 93](schedule/7/paragraph/93.md)
+  - Part 16 Relocation of section 144 of FA 2000
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 94](schedule/7/paragraph/94.md)
+      - [Sch. 7 para. 95](schedule/7/paragraph/95.md)
+    - Finance Act 2000 (c. 17)
+      - [Sch. 7 para. 96](schedule/7/paragraph/96.md)
+      - [Sch. 7 para. 97](schedule/7/paragraph/97.md)
+    - Serious Organised Crime and Police Act 2005 (c. 15)
+      - [Sch. 7 para. 98](schedule/7/paragraph/98.md)
+      - [Sch. 7 para. 99](schedule/7/paragraph/99.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 7 para. 100](schedule/7/paragraph/100.md)
+      - [Sch. 7 para. 101](schedule/7/paragraph/101.md)
+  - Part 17 Relocation of section 199 of FA 2003
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 7 para. 102](schedule/7/paragraph/102.md)
+      - [Sch. 7 para. 103](schedule/7/paragraph/103.md)
+      - [Sch. 7 para. 104](schedule/7/paragraph/104.md)
+    - Finance Act 2003 (c. 14)
+      - [Sch. 7 para. 105](schedule/7/paragraph/105.md)
+      - [Sch. 7 para. 106](schedule/7/paragraph/106.md)
+  - Part 18 Relocation of section 61 of F(No.2)A 2005
+    - Finance Act 1998 (c. 36)
+      - [Sch. 7 para. 107](schedule/7/paragraph/107.md)
+      - [Sch. 7 para. 108](schedule/7/paragraph/108.md)
+    - Finance (No. 2) Act 2005 (c. 22)
+      - [Sch. 7 para. 109](schedule/7/paragraph/109.md)
+      - [Sch. 7 para. 110](schedule/7/paragraph/110.md)
+  - Part 19 Relocation of paragraph 13 of Schedule 13 to FA 2007
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 7 para. 111](schedule/7/paragraph/111.md)
+      - [Sch. 7 para. 112](schedule/7/paragraph/112.md)
+      - [Sch. 7 para. 113](schedule/7/paragraph/113.md)
+    - Finance Act 2007 (c. 11)
+      - [Sch. 7 para. 114](schedule/7/paragraph/114.md)
+      - [Sch. 7 para. 115](schedule/7/paragraph/115.md)
+- SCHEDULE 7A Interest restriction returns
+  - PART 1 The reporting company
+    - Appointment by a worldwide group of a reporting company
+      - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+    - Appointment of company where purported return submitted
+      - [Sch. 7A para. 1A](schedule/7A/paragraph/1A.md)
+    - Revocation by worldwide group of appointment under paragraph 1
+      - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+    - Regulations supplementing paragraphs 1 and 2
+      - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+    - Appointment of reporting company by Revenue and Customs
+      - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+    - Appointment by officer of Revenue and Customs of replacement reporting company
+      - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+    - Obligation of reporting company to notify group members of its status
+      - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+    - Submission of interest restriction returns by reporting companies
+      - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+      - [Sch. 7A para. 7A](schedule/7A/paragraph/7A.md)
+    - Revised interest restriction return
+      - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+    - Extended period for submission of full return for period where no restriction
+      - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+    - Meaning of “consenting company” and “non-consenting company”
+      - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+    - ...
+      - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+    - Penalty for submission of return where no reporting company appointed
+      - [Sch. 7A para. 11A](schedule/7A/paragraph/11A.md)
+      - [Sch. 7A para. 11B](schedule/7A/paragraph/11B.md)
+  - PART 2 Contents of interest restriction return
+    - Elections
+      - [Sch. 7A para. 12](schedule/7A/paragraph/12.md)
+    - Group ratio election
+      - [Sch. 7A para. 13](schedule/7A/paragraph/13.md)
+    - Group ratio (blended) election
+      - [Sch. 7A para. 14](schedule/7A/paragraph/14.md)
+    - Group-EBITDA (chargeable gains) election
+      - [Sch. 7A para. 15](schedule/7A/paragraph/15.md)
+    - Interest allowance (alternative calculation) election
+      - [Sch. 7A para. 16](schedule/7A/paragraph/16.md)
+    - Interest allowance (non-consolidated investment) election
+      - [Sch. 7A para. 17](schedule/7A/paragraph/17.md)
+    - Interest allowance (consolidated partnerships) election
+      - [Sch. 7A para. 18](schedule/7A/paragraph/18.md)
+    - Abbreviated return election
+      - [Sch. 7A para. 19](schedule/7A/paragraph/19.md)
+    - Required contents of interest restriction return: full returns and abbreviated returns
+      - [Sch. 7A para. 20](schedule/7A/paragraph/20.md)
+    - Statement of calculations
+      - [Sch. 7A para. 21](schedule/7A/paragraph/21.md)
+    - Statement of allocated interest restrictions
+      - [Sch. 7A para. 22](schedule/7A/paragraph/22.md)
+    - A company’s pro-rata share of the total disallowed amount
+      - [Sch. 7A para. 23](schedule/7A/paragraph/23.md)
+    - Accounting period’s pro-rata share of the total disallowed amount
+      - [Sch. 7A para. 24](schedule/7A/paragraph/24.md)
+    - Statement of allocated interest reactivations
+      - [Sch. 7A para. 25](schedule/7A/paragraph/25.md)
+    - “Amount available for reactivation” of company in period of account of group
+      - [Sch. 7A para. 26](schedule/7A/paragraph/26.md)
+    - Estimated information in statements
+      - [Sch. 7A para. 27](schedule/7A/paragraph/27.md)
+    - Correction of return by officer of Revenue and Customs
+      - [Sch. 7A para. 28](schedule/7A/paragraph/28.md)
+    - Penalty for failure to deliver return
+      - [Sch. 7A para. 29](schedule/7A/paragraph/29.md)
+      - [Sch. 7A para. 29A](schedule/7A/paragraph/29A.md)
+    - Penalty for incorrect or uncorrected return
+      - [Sch. 7A para. 30](schedule/7A/paragraph/30.md)
+    - Meaning of “deliberate inaccuracy that is concealed” and discovering inaccuracy after return submitted
+      - [Sch. 7A para. 31](schedule/7A/paragraph/31.md)
+    - Inaccuracy in return attributable to another company
+      - [Sch. 7A para. 32](schedule/7A/paragraph/32.md)
+    - Reductions in amount of penalty for disclosure or special circumstances
+      - [Sch. 7A para. 33](schedule/7A/paragraph/33.md)
+    - Assessment, payment and enforcement of penalty
+      - [Sch. 7A para. 34](schedule/7A/paragraph/34.md)
+    - Right to appeal against penalty or its amount
+      - [Sch. 7A para. 35](schedule/7A/paragraph/35.md)
+    - Procedure on appeal
+      - [Sch. 7A para. 36](schedule/7A/paragraph/36.md)
+    - Payments between companies in respect of penalties
+      - [Sch. 7A para. 37](schedule/7A/paragraph/37.md)
+  - PART 3 Duty to keep and preserve records
+    - Duty to keep and preserve records
+      - [Sch. 7A para. 38](schedule/7A/paragraph/38.md)
+    - Penalty for failure to keep and preserve records
+      - [Sch. 7A para. 39](schedule/7A/paragraph/39.md)
+  - PART 4 Enquiry into interest restriction return
+    - Notice of enquiry
+      - [Sch. 7A para. 40](schedule/7A/paragraph/40.md)
+    - Normal time limits for opening enquiry
+      - [Sch. 7A para. 41](schedule/7A/paragraph/41.md)
+    - Extended time limits for opening enquiries: discovery of errors
+      - [Sch. 7A para. 42](schedule/7A/paragraph/42.md)
+    - Scope of enquiry
+      - [Sch. 7A para. 43](schedule/7A/paragraph/43.md)
+    - Enquiry into return for wrong period or wrong group
+      - [Sch. 7A para. 44](schedule/7A/paragraph/44.md)
+    - Amendment of self-assessment during enquiry to prevent loss of tax
+      - [Sch. 7A para. 45](schedule/7A/paragraph/45.md)
+    - Revision of interest restriction return during enquiry
+      - [Sch. 7A para. 46](schedule/7A/paragraph/46.md)
+    - Completion of enquiry
+      - [Sch. 7A para. 47](schedule/7A/paragraph/47.md)
+    - Direction to complete enquiry
+      - [Sch. 7A para. 48](schedule/7A/paragraph/48.md)
+    - Conclusions of enquiry
+      - [Sch. 7A para. 49](schedule/7A/paragraph/49.md)
+    - Interest restriction returns to be submitted to an officer of Revenue and Customs
+      - [Sch. 7A para. 50](schedule/7A/paragraph/50.md)
+    - Return in relation to a worldwide group: other entities part of another group
+      - [Sch. 7A para. 51](schedule/7A/paragraph/51.md)
+    - Appeal against closure notice or notice under paragraph 51
+      - [Sch. 7A para. 52](schedule/7A/paragraph/52.md)
+    - New groups without existing reporting company
+      - [Sch. 7A para. 53](schedule/7A/paragraph/53.md)
+    - Matters required to be done on a “just and reasonable” basis
+      - [Sch. 7A para. 54](schedule/7A/paragraph/54.md)
+    - References to a reporting company where replaced
+      - [Sch. 7A para. 55](schedule/7A/paragraph/55.md)
+  - PART 5 Determinations by officers of Revenue and Customs
+    - Power of Revenue and Customs to make determinations where no return filed etc
+      - [Sch. 7A para. 56](schedule/7A/paragraph/56.md)
+    - Time limit: interest restriction return following determination under paragraph 56
+      - [Sch. 7A para. 57](schedule/7A/paragraph/57.md)
+    - Power of Revenue and Customs to make determinations following enquiry
+      - [Sch. 7A para. 58](schedule/7A/paragraph/58.md)
+    - Appeal against determination under paragraph 58
+      - [Sch. 7A para. 59](schedule/7A/paragraph/59.md)
+  - PART 6 Information powers exercisable by members of group
+    - Provision of information to and by the reporting company
+      - [Sch. 7A para. 60](schedule/7A/paragraph/60.md)
+    - Provision of information between members of group where no reporting company appointed
+      - [Sch. 7A para. 61](schedule/7A/paragraph/61.md)
+  - PART 7 Information powers exercisable by officers of Revenue and Customs
+    - Power to obtain information and documents from members of worldwide group
+      - [Sch. 7A para. 62](schedule/7A/paragraph/62.md)
+    - Power to obtain information and documents from third parties
+      - [Sch. 7A para. 63](schedule/7A/paragraph/63.md)
+    - Notices following submitted interest restriction returns
+      - [Sch. 7A para. 64](schedule/7A/paragraph/64.md)
+    - Appeals
+      - [Sch. 7A para. 65](schedule/7A/paragraph/65.md)
+    - Application of provisions of Schedule 36 to FA 2008
+      - [Sch. 7A para. 66](schedule/7A/paragraph/66.md)
+    - References to checking an interest restriction return etc
+      - [Sch. 7A para. 67](schedule/7A/paragraph/67.md)
+  - PART 8 Company tax returns
+    - Elections under section 375, 377 or 380
+      - [Sch. 7A para. 68](schedule/7A/paragraph/68.md)
+    - Amendments to take account of operation of this Part of this Act (including elections)
+      - [Sch. 7A para. 69](schedule/7A/paragraph/69.md)
+    - Other cases where company must amend its return etc
+      - [Sch. 7A para. 70](schedule/7A/paragraph/70.md)
+    - Failure to comply with a requirement to amend company tax return
+      - [Sch. 7A para. 70A](schedule/7A/paragraph/70A.md)
+    - Regulations for purposes of paragraph 70(2) etc
+      - [Sch. 7A para. 71](schedule/7A/paragraph/71.md)
+    - Consequential claims to company tax returns
+      - [Sch. 7A para. 72](schedule/7A/paragraph/72.md)
+    - Meaning of “company tax return”
+      - [Sch. 7A para. 73](schedule/7A/paragraph/73.md)
+  - PART 9 Supplementary
+    - Double jeopardy
+      - [Sch. 7A para. 74](schedule/7A/paragraph/74.md)
+    - Notice of appeal
+      - [Sch. 7A para. 75](schedule/7A/paragraph/75.md)
+    - Conclusiveness of amounts stated in interest restriction return
+      - [Sch. 7A para. 76](schedule/7A/paragraph/76.md)
+- SCHEDULE 8 Minor and consequential amendments
+  - Part 1 Double taxation relief
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - Finance Act 1989 (c. 26)
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - Finance Act 1993 (c. 34)
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - Finance (No. 2) Act 1997 (c. 58)
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+    - Finance Act 1998 (c. 36)
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+    - Finance Act 2000 (c. 17)
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - Capital Allowances Act 2001 (c. 2)
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - Finance Act 2004 (c. 12)
+      - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+      - [Sch. 8 para. 62](schedule/8/paragraph/62.md)
+      - [Sch. 8 para. 63](schedule/8/paragraph/63.md)
+      - [Sch. 8 para. 64](schedule/8/paragraph/64.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 65](schedule/8/paragraph/65.md)
+      - [Sch. 8 para. 66](schedule/8/paragraph/66.md)
+      - [Sch. 8 para. 67](schedule/8/paragraph/67.md)
+      - [Sch. 8 para. 68](schedule/8/paragraph/68.md)
+      - [Sch. 8 para. 69](schedule/8/paragraph/69.md)
+      - [Sch. 8 para. 70](schedule/8/paragraph/70.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 71](schedule/8/paragraph/71.md)
+      - [Sch. 8 para. 72](schedule/8/paragraph/72.md)
+      - [Sch. 8 para. 73](schedule/8/paragraph/73.md)
+      - [Sch. 8 para. 74](schedule/8/paragraph/74.md)
+      - [Sch. 8 para. 75](schedule/8/paragraph/75.md)
+      - [Sch. 8 para. 76](schedule/8/paragraph/76.md)
+      - [Sch. 8 para. 77](schedule/8/paragraph/77.md)
+      - [Sch. 8 para. 78](schedule/8/paragraph/78.md)
+      - [Sch. 8 para. 79](schedule/8/paragraph/79.md)
+      - [Sch. 8 para. 80](schedule/8/paragraph/80.md)
+      - [Sch. 8 para. 81](schedule/8/paragraph/81.md)
+      - [Sch. 8 para. 82](schedule/8/paragraph/82.md)
+      - [Sch. 8 para. 83](schedule/8/paragraph/83.md)
+      - [Sch. 8 para. 84](schedule/8/paragraph/84.md)
+      - [Sch. 8 para. 85](schedule/8/paragraph/85.md)
+      - [Sch. 8 para. 86](schedule/8/paragraph/86.md)
+    - Finance Act 2008 (c. 9)
+      - [Sch. 8 para. 87](schedule/8/paragraph/87.md)
+      - [Sch. 8 para. 88](schedule/8/paragraph/88.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 89](schedule/8/paragraph/89.md)
+      - [Sch. 8 para. 90](schedule/8/paragraph/90.md)
+      - [Sch. 8 para. 91](schedule/8/paragraph/91.md)
+      - [Sch. 8 para. 92](schedule/8/paragraph/92.md)
+      - [Sch. 8 para. 93](schedule/8/paragraph/93.md)
+      - [Sch. 8 para. 94](schedule/8/paragraph/94.md)
+      - [Sch. 8 para. 95](schedule/8/paragraph/95.md)
+      - [Sch. 8 para. 96](schedule/8/paragraph/96.md)
+      - [Sch. 8 para. 97](schedule/8/paragraph/97.md)
+      - [Sch. 8 para. 98](schedule/8/paragraph/98.md)
+      - [Sch. 8 para. 99](schedule/8/paragraph/99.md)
+      - [Sch. 8 para. 100](schedule/8/paragraph/100.md)
+      - [Sch. 8 para. 101](schedule/8/paragraph/101.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 8 para. 102](schedule/8/paragraph/102.md)
+      - [Sch. 8 para. 103](schedule/8/paragraph/103.md)
+      - [Sch. 8 para. 104](schedule/8/paragraph/104.md)
+      - [Sch. 8 para. 105](schedule/8/paragraph/105.md)
+  - Part 2 Transfer pricing and advance pricing agreements
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 8 para. 106](schedule/8/paragraph/106.md)
+      - [Sch. 8 para. 107](schedule/8/paragraph/107.md)
+      - [Sch. 8 para. 108](schedule/8/paragraph/108.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 109](schedule/8/paragraph/109.md)
+      - [Sch. 8 para. 110](schedule/8/paragraph/110.md)
+      - [Sch. 8 para. 111](schedule/8/paragraph/111.md)
+    - Finance Act 1998 (c. 36)
+      - [Sch. 8 para. 112](schedule/8/paragraph/112.md)
+      - [Sch. 8 para. 113](schedule/8/paragraph/113.md)
+      - [Sch. 8 para. 114](schedule/8/paragraph/114.md)
+    - Finance Act 1999 (c. 16)
+      - [Sch. 8 para. 115](schedule/8/paragraph/115.md)
+      - [Sch. 8 para. 116](schedule/8/paragraph/116.md)
+      - [Sch. 8 para. 117](schedule/8/paragraph/117.md)
+      - [Sch. 8 para. 118](schedule/8/paragraph/118.md)
+    - Finance Act 2000 (c. 17)
+      - [Sch. 8 para. 119](schedule/8/paragraph/119.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 120](schedule/8/paragraph/120.md)
+      - [Sch. 8 para. 121](schedule/8/paragraph/121.md)
+      - [Sch. 8 para. 122](schedule/8/paragraph/122.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 123](schedule/8/paragraph/123.md)
+      - [Sch. 8 para. 124](schedule/8/paragraph/124.md)
+      - [Sch. 8 para. 125](schedule/8/paragraph/125.md)
+      - [Sch. 8 para. 126](schedule/8/paragraph/126.md)
+      - [Sch. 8 para. 127](schedule/8/paragraph/127.md)
+      - [Sch. 8 para. 128](schedule/8/paragraph/128.md)
+      - [Sch. 8 para. 129](schedule/8/paragraph/129.md)
+      - [Sch. 8 para. 130](schedule/8/paragraph/130.md)
+      - [Sch. 8 para. 131](schedule/8/paragraph/131.md)
+      - [Sch. 8 para. 132](schedule/8/paragraph/132.md)
+      - [Sch. 8 para. 133](schedule/8/paragraph/133.md)
+      - [Sch. 8 para. 134](schedule/8/paragraph/134.md)
+      - [Sch. 8 para. 135](schedule/8/paragraph/135.md)
+      - [Sch. 8 para. 136](schedule/8/paragraph/136.md)
+      - [Sch. 8 para. 137](schedule/8/paragraph/137.md)
+      - [Sch. 8 para. 138](schedule/8/paragraph/138.md)
+      - [Sch. 8 para. 139](schedule/8/paragraph/139.md)
+      - [Sch. 8 para. 140](schedule/8/paragraph/140.md)
+      - [Sch. 8 para. 141](schedule/8/paragraph/141.md)
+      - [Sch. 8 para. 142](schedule/8/paragraph/142.md)
+      - [Sch. 8 para. 143](schedule/8/paragraph/143.md)
+      - [Sch. 8 para. 144](schedule/8/paragraph/144.md)
+      - [Sch. 8 para. 145](schedule/8/paragraph/145.md)
+      - [Sch. 8 para. 146](schedule/8/paragraph/146.md)
+      - [Sch. 8 para. 147](schedule/8/paragraph/147.md)
+      - [Sch. 8 para. 148](schedule/8/paragraph/148.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 8 para. 149](schedule/8/paragraph/149.md)
+      - [Sch. 8 para. 150](schedule/8/paragraph/150.md)
+  - Part 3 Tax arbitrage
+    - Finance (No. 2) Act 2005 (c. 22)
+      - [Sch. 8 para. 151](schedule/8/paragraph/151.md)
+      - [Sch. 8 para. 152](schedule/8/paragraph/152.md)
+      - [Sch. 8 para. 153](schedule/8/paragraph/153.md)
+      - [Sch. 8 para. 154](schedule/8/paragraph/154.md)
+      - [Sch. 8 para. 155](schedule/8/paragraph/155.md)
+  - Part 4 Tax treatment of financing costs and income
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 8 para. 156](schedule/8/paragraph/156.md)
+      - [Sch. 8 para. 157](schedule/8/paragraph/157.md)
+    - Finance Act 2009
+      - [Sch. 8 para. 158](schedule/8/paragraph/158.md)
+      - [Sch. 8 para. 159](schedule/8/paragraph/159.md)
+      - [Sch. 8 para. 160](schedule/8/paragraph/160.md)
+  - Part 5 Offshore funds
+    - Inheritance Tax Act 1984 (c. 51)
+      - [Sch. 8 para. 161](schedule/8/paragraph/161.md)
+      - [Sch. 8 para. 162](schedule/8/paragraph/162.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 163](schedule/8/paragraph/163.md)
+      - [Sch. 8 para. 164](schedule/8/paragraph/164.md)
+      - [Sch. 8 para. 165](schedule/8/paragraph/165.md)
+      - [Sch. 8 para. 166](schedule/8/paragraph/166.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 167](schedule/8/paragraph/167.md)
+      - [Sch. 8 para. 168](schedule/8/paragraph/168.md)
+    - Finance Act 2008 (c. 9)
+      - [Sch. 8 para. 169](schedule/8/paragraph/169.md)
+      - [Sch. 8 para. 170](schedule/8/paragraph/170.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 171](schedule/8/paragraph/171.md)
+      - [Sch. 8 para. 172](schedule/8/paragraph/172.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 8 para. 173](schedule/8/paragraph/173.md)
+      - [Sch. 8 para. 174](schedule/8/paragraph/174.md)
+  - Part 6 Oil activities
+    - Finance Act 1980 (c. 48)
+      - [Sch. 8 para. 175](schedule/8/paragraph/175.md)
+      - [Sch. 8 para. 176](schedule/8/paragraph/176.md)
+    - Finance Act 1982 (c. 39)
+      - [Sch. 8 para. 177](schedule/8/paragraph/177.md)
+      - [Sch. 8 para. 178](schedule/8/paragraph/178.md)
+      - [Sch. 8 para. 179](schedule/8/paragraph/179.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 180](schedule/8/paragraph/180.md)
+      - [Sch. 8 para. 181](schedule/8/paragraph/181.md)
+      - [Sch. 8 para. 182](schedule/8/paragraph/182.md)
+      - [Sch. 8 para. 183](schedule/8/paragraph/183.md)
+      - [Sch. 8 para. 184](schedule/8/paragraph/184.md)
+    - Finance Act 1991 (c. 31)
+      - [Sch. 8 para. 185](schedule/8/paragraph/185.md)
+      - [Sch. 8 para. 186](schedule/8/paragraph/186.md)
+    - Finance Act 1999 (c. 16)
+      - [Sch. 8 para. 187](schedule/8/paragraph/187.md)
+      - [Sch. 8 para. 188](schedule/8/paragraph/188.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 189](schedule/8/paragraph/189.md)
+      - [Sch. 8 para. 190](schedule/8/paragraph/190.md)
+      - [Sch. 8 para. 191](schedule/8/paragraph/191.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 192](schedule/8/paragraph/192.md)
+      - [Sch. 8 para. 193](schedule/8/paragraph/193.md)
+  - Part 7 Alternative finance arrangements
+    - Finance Act 1986 (c. 41)
+      - [Sch. 8 para. 194](schedule/8/paragraph/194.md)
+      - [Sch. 8 para. 195](schedule/8/paragraph/195.md)
+      - [Sch. 8 para. 196](schedule/8/paragraph/196.md)
+      - [Sch. 8 para. 197](schedule/8/paragraph/197.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 198](schedule/8/paragraph/198.md)
+      - [Sch. 8 para. 199](schedule/8/paragraph/199.md)
+      - [Sch. 8 para. 200](schedule/8/paragraph/200.md)
+      - [Sch. 8 para. 201](schedule/8/paragraph/201.md)
+      - [Sch. 8 para. 202](schedule/8/paragraph/202.md)
+    - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+      - [Sch. 8 para. 203](schedule/8/paragraph/203.md)
+      - [Sch. 8 para. 204](schedule/8/paragraph/204.md)
+    - Finance Act 2003 (c. 14)
+      - [Sch. 8 para. 205](schedule/8/paragraph/205.md)
+      - [Sch. 8 para. 206](schedule/8/paragraph/206.md)
+      - [Sch. 8 para. 207](schedule/8/paragraph/207.md)
+      - [Sch. 8 para. 208](schedule/8/paragraph/208.md)
+      - [Sch. 8 para. 209](schedule/8/paragraph/209.md)
+      - [Sch. 8 para. 210](schedule/8/paragraph/210.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 211](schedule/8/paragraph/211.md)
+      - [Sch. 8 para. 212](schedule/8/paragraph/212.md)
+    - Finance Act 2005 (c. 7)
+      - [Sch. 8 para. 213](schedule/8/paragraph/213.md)
+      - [Sch. 8 para. 214](schedule/8/paragraph/214.md)
+      - [Sch. 8 para. 215](schedule/8/paragraph/215.md)
+    - Finance Act 2006 (c. 25)
+      - [Sch. 8 para. 216](schedule/8/paragraph/216.md)
+      - [Sch. 8 para. 217](schedule/8/paragraph/217.md)
+      - [Sch. 8 para. 218](schedule/8/paragraph/218.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 219](schedule/8/paragraph/219.md)
+      - [Sch. 8 para. 220](schedule/8/paragraph/220.md)
+      - [Sch. 8 para. 221](schedule/8/paragraph/221.md)
+      - [Sch. 8 para. 222](schedule/8/paragraph/222.md)
+      - [Sch. 8 para. 223](schedule/8/paragraph/223.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 224](schedule/8/paragraph/224.md)
+      - [Sch. 8 para. 225](schedule/8/paragraph/225.md)
+      - [Sch. 8 para. 226](schedule/8/paragraph/226.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 8 para. 227](schedule/8/paragraph/227.md)
+      - [Sch. 8 para. 228](schedule/8/paragraph/228.md)
+      - [Sch. 8 para. 229](schedule/8/paragraph/229.md)
+  - Part 8 Leasing arrangements: finance leases and loans
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 230](schedule/8/paragraph/230.md)
+      - [Sch. 8 para. 231](schedule/8/paragraph/231.md)
+    - Finance Act 1997 (c. 16)
+      - [Sch. 8 para. 232](schedule/8/paragraph/232.md)
+    - Capital Allowances Act 2001 (c. 2)
+      - [Sch. 8 para. 233](schedule/8/paragraph/233.md)
+      - [Sch. 8 para. 234](schedule/8/paragraph/234.md)
+      - [Sch. 8 para. 235](schedule/8/paragraph/235.md)
+      - [Sch. 8 para. 236](schedule/8/paragraph/236.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 237](schedule/8/paragraph/237.md)
+      - [Sch. 8 para. 238](schedule/8/paragraph/238.md)
+      - [Sch. 8 para. 239](schedule/8/paragraph/239.md)
+  - Part 9 Sale and lease-back etc
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 240](schedule/8/paragraph/240.md)
+      - [Sch. 8 para. 241](schedule/8/paragraph/241.md)
+      - [Sch. 8 para. 242](schedule/8/paragraph/242.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 243](schedule/8/paragraph/243.md)
+      - [Sch. 8 para. 244](schedule/8/paragraph/244.md)
+    - Broadcasting Act 1996 (c. 55)
+      - [Sch. 8 para. 245](schedule/8/paragraph/245.md)
+      - [Sch. 8 para. 246](schedule/8/paragraph/246.md)
+    - Finance Act 1999 (c. 16)
+      - [Sch. 8 para. 247](schedule/8/paragraph/247.md)
+      - [Sch. 8 para. 248](schedule/8/paragraph/248.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 8 para. 249](schedule/8/paragraph/249.md)
+      - [Sch. 8 para. 250](schedule/8/paragraph/250.md)
+    - Transport Act 2000 (c. 38)
+      - [Sch. 8 para. 251](schedule/8/paragraph/251.md)
+      - [Sch. 8 para. 252](schedule/8/paragraph/252.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 253](schedule/8/paragraph/253.md)
+      - [Sch. 8 para. 254](schedule/8/paragraph/254.md)
+      - [Sch. 8 para. 255](schedule/8/paragraph/255.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 256](schedule/8/paragraph/256.md)
+      - [Sch. 8 para. 257](schedule/8/paragraph/257.md)
+      - [Sch. 8 para. 258](schedule/8/paragraph/258.md)
+      - [Sch. 8 para. 259](schedule/8/paragraph/259.md)
+      - [Sch. 8 para. 260](schedule/8/paragraph/260.md)
+      - [Sch. 8 para. 261](schedule/8/paragraph/261.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 262](schedule/8/paragraph/262.md)
+      - [Sch. 8 para. 263](schedule/8/paragraph/263.md)
+  - Part 10 Factoring of income etc
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 264](schedule/8/paragraph/264.md)
+      - [Sch. 8 para. 265](schedule/8/paragraph/265.md)
+      - [Sch. 8 para. 266](schedule/8/paragraph/266.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 267](schedule/8/paragraph/267.md)
+      - [Sch. 8 para. 268](schedule/8/paragraph/268.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 269](schedule/8/paragraph/269.md)
+      - [Sch. 8 para. 270](schedule/8/paragraph/270.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 271](schedule/8/paragraph/271.md)
+      - [Sch. 8 para. 272](schedule/8/paragraph/272.md)
+      - [Sch. 8 para. 273](schedule/8/paragraph/273.md)
+      - [Sch. 8 para. 274](schedule/8/paragraph/274.md)
+      - [Sch. 8 para. 275](schedule/8/paragraph/275.md)
+  - Part 11 UK representatives of non-UK residents
+    - Finance Act 1995 (c. 4)
+      - [Sch. 8 para. 276](schedule/8/paragraph/276.md)
+      - [Sch. 8 para. 277](schedule/8/paragraph/277.md)
+      - [Sch. 8 para. 278](schedule/8/paragraph/278.md)
+      - [Sch. 8 para. 279](schedule/8/paragraph/279.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 280](schedule/8/paragraph/280.md)
+      - [Sch. 8 para. 281](schedule/8/paragraph/281.md)
+      - [Sch. 8 para. 282](schedule/8/paragraph/282.md)
+      - [Sch. 8 para. 283](schedule/8/paragraph/283.md)
+      - [Sch. 8 para. 284](schedule/8/paragraph/284.md)
+      - [Sch. 8 para. 285](schedule/8/paragraph/285.md)
+      - [Sch. 8 para. 286](schedule/8/paragraph/286.md)
+  - Part 12 Amendments for purposes connected with other tax law rewrite Acts
+    - Solicitors (Northern Ireland) Order 1976 (S.I. 1976/582 (N.I. 12))
+      - [Sch. 8 para. 287](schedule/8/paragraph/287.md)
+      - [Sch. 8 para. 288](schedule/8/paragraph/288.md)
+    - Administration of Justice Act 1985 (c. 61)
+      - [Sch. 8 para. 289](schedule/8/paragraph/289.md)
+      - [Sch. 8 para. 290](schedule/8/paragraph/290.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 291](schedule/8/paragraph/291.md)
+      - [Sch. 8 para. 292](schedule/8/paragraph/292.md)
+    - Broadcasting Act 1996 (c. 55)
+      - [Sch. 8 para. 293](schedule/8/paragraph/293.md)
+      - [Sch. 8 para. 294](schedule/8/paragraph/294.md)
+    - Greater London Authority Act 1999 (c. 29)
+      - [Sch. 8 para. 295](schedule/8/paragraph/295.md)
+      - [Sch. 8 para. 296](schedule/8/paragraph/296.md)
+    - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+      - [Sch. 8 para. 297](schedule/8/paragraph/297.md)
+      - [Sch. 8 para. 298](schedule/8/paragraph/298.md)
+      - [Sch. 8 para. 299](schedule/8/paragraph/299.md)
+      - [Sch. 8 para. 300](schedule/8/paragraph/300.md)
+    - Finance Act 2004 (c. 12)
+      - [Sch. 8 para. 301](schedule/8/paragraph/301.md)
+      - [Sch. 8 para. 302](schedule/8/paragraph/302.md)
+    - Finance Act 2005 (c. 7)
+      - [Sch. 8 para. 303](schedule/8/paragraph/303.md)
+      - [Sch. 8 para. 304](schedule/8/paragraph/304.md)
+      - [Sch. 8 para. 305](schedule/8/paragraph/305.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 306](schedule/8/paragraph/306.md)
+      - [Sch. 8 para. 307](schedule/8/paragraph/307.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 308](schedule/8/paragraph/308.md)
+      - [Sch. 8 para. 309](schedule/8/paragraph/309.md)
+      - [Sch. 8 para. 310](schedule/8/paragraph/310.md)
+      - [Sch. 8 para. 311](schedule/8/paragraph/311.md)
+      - [Sch. 8 para. 312](schedule/8/paragraph/312.md)
+  - Part 13 General
+    - Taxes Management Act 1970 (c. 9)
+      - [Sch. 8 para. 313](schedule/8/paragraph/313.md)
+      - [Sch. 8 para. 314](schedule/8/paragraph/314.md)
+    - Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 8 para. 315](schedule/8/paragraph/315.md)
+      - [Sch. 8 para. 316](schedule/8/paragraph/316.md)
+    - Taxation of Chargeable Gains Act 1992 (c. 12)
+      - [Sch. 8 para. 317](schedule/8/paragraph/317.md)
+      - [Sch. 8 para. 318](schedule/8/paragraph/318.md)
+      - [Sch. 8 para. 319](schedule/8/paragraph/319.md)
+    - Finance Act 1998 (c. 36)
+      - [Sch. 8 para. 320](schedule/8/paragraph/320.md)
+      - [Sch. 8 para. 321](schedule/8/paragraph/321.md)
+    - Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+      - [Sch. 8 para. 322](schedule/8/paragraph/322.md)
+      - [Sch. 8 para. 323](schedule/8/paragraph/323.md)
+    - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+      - [Sch. 8 para. 324](schedule/8/paragraph/324.md)
+      - [Sch. 8 para. 325](schedule/8/paragraph/325.md)
+    - Income Tax Act 2007 (c. 3)
+      - [Sch. 8 para. 326](schedule/8/paragraph/326.md)
+      - [Sch. 8 para. 327](schedule/8/paragraph/327.md)
+      - [Sch. 8 para. 328](schedule/8/paragraph/328.md)
+    - Corporation Tax Act 2009 (c. 4)
+      - [Sch. 8 para. 329](schedule/8/paragraph/329.md)
+      - [Sch. 8 para. 330](schedule/8/paragraph/330.md)
+    - Finance Act 2009 (c. 10)
+      - [Sch. 8 para. 331](schedule/8/paragraph/331.md)
+      - [Sch. 8 para. 332](schedule/8/paragraph/332.md)
+- SCHEDULE 9 Transitionals and savings etc
+  - Part 1 General provisions
+    - Continuity of the law: general
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - General saving for old transitional provisions and savings
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Interpretation
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Part 2 Changes in the law
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Part 3 Double taxation relief
+    - Conversion of references to the profits tax in old arrangements
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - Effect in relation to capital gains tax of arrangements given effect before introduction of that tax
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - Double taxation arrangements to which section 11(3) applies
+      - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - Unilateral relief for underlying tax on dividends
+      - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - Time limits for claims for relief
+      - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - Taking account of underlying tax
+      - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - Reduction in credit: payment by reference to foreign tax
+      - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - Credit against corporation tax on trade income: anti-avoidance
+      - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - Credit against corporation tax on trade income: banks
+      - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+    - Meaning of “relevant profits” in section 58
+      - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+    - Conditions for relief for underlying tax paid by company lower in dividend-paying chain
+      - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+    - Application of sections 109 and 110 in relation to pre-1 October 2007 cases
+      - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - Income increased by amounts paid by reference to foreign tax for which deduction allowed
+      - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+    - Offshore fund treated after 1 December 2009 as distributing fund under repealed Chapter 5 of Part 17 of ICTA
+      - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+    - Limited effect of amendments of sections 806A to 806J of ICTA
+      - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+    - Interpretative rules saved for the purposes of applying sections 806A to 806K of ICTA to distributions paid before 1 July 2009
+      - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+    - Repealed references to Part 18 of ICTA saved for purposes of sections 806A to 806K of ICTA
+      - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - Part 4 Transfer pricing
+    - Transfer pricing: meaning of potential advantage
+      - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - Part 5 Advance pricing agreements
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - Part 6 Tax avoidance (arbitrage)
+    - Arbitrage: contributions to capital of UK resident companies before 16 March 2005
+      - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - Part 7 Tax treatment of financing costs and income
+    - Periods of account in relation to which Part 7 does not have effect
+      - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+    - Exclusion of certain debits and credits
+      - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+  - Part 8 Offshore funds
+    - Restriction on regulation-making power under section 354
+      - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+      - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - Part 9 Oil activities
+    - Regional development grants
+      - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+    - Reimbursement by defaulter in respect of certain abandonment expenditure
+      - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - Part 10 Alternative finance arrangements
+    - Alternative finance arrangements entered into before certain dates etc
+      - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+    - Alternative finance arrangements not offshore funds
+      - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+    - Alternative finance arrangements entered into before 15 October 2009
+      - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+      - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+  - Part 11 Sale and lease-back etc
+    - New lease of land after assignment or surrender: right to new lease existed pre-22 June 1971
+      - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+  - Part 12 Factoring of income etc
+    - Application of Chapter 5B of Part 13 of ITA 2007 (finance arrangements) to pre-6 June 2006 arrangements
+      - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+    - Application of section 809BZN of ITA 2007 (finance arrangements: exceptions)
+      - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+    - Application of section 809CZC of ITA 2007 (income-transfer under loan or credit transaction)
+      - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+  - Part 13 Miscellaneous relocations
+    - Application of sections 925A to 925F of ITA 2007 (repos)
+      - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+- SCHEDULE 10 Repeals and revocations
+  - Part 1 Double taxation relief
+  - Part 2 Transfer pricing and advance pricing agreements
+  - Part 3 Tax arbitrage
+  - Part 4 Tax treatment of financing costs and income
+  - Part 5 Offshore funds
+  - Part 6 Oil activities
+  - Part 7 Alternative finance arrangements
+  - Part 8 Leasing arrangements: finance leases and loans
+  - Part 9 Sale and lease-back etc
+  - Part 10 Factoring of income etc
+  - Part 11 UK representatives of non-UK residents
+  - Part 12 Miscellaneous relocations
+  - Part 13 Repeals for purposes connected with other tax law rewrite Acts
+- SCHEDULE 11 Index of defined expressions used in Parts 2 to 8
+  - Part 1 Double taxation relief: index of defined expressions used in Parts 2 and 3
+  - Part 2 Transfer pricing: index of defined expressions used in Part 4
+  - Part 2A Unassessed transfer pricing profits: index of defined expressions used in Part 4A
+  - Part 3 Advance pricing agreements: index of defined expressions used in Part 5
+  - Part 4 Tax arbitrage: index of defined expressions used in Part 6
+  - PART 4A Hybrid and other mismatches: index of defined expressions used in Part 6A
+  - Part 5 Tax treatment of financing costs and income: index of defined expressions used in Part 7
+  - Part 6 Offshore funds: index of defined expressions used in Part 8
+  - PART 7 Corporate interest restriction: index of defined expressions used in Part 10
