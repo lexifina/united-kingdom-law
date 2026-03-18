@@ -2,9 +2,9 @@
 
 2024 c. 3. Enacted 2024-02-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-03-20, one file per provision. Earlier versions, from 2024-02-22, are in the history before it: `git log -- ukpga/2024/3` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2024-02-22, are in the history before it: `git log -- ukpga/2024/3` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2024/3/2025-03-20
+Source: https://www.legislation.gov.uk/ukpga/2024/3/2026-03-18
 
 ## Contents
 
@@ -125,6 +125,7 @@ Source: https://www.legislation.gov.uk/ukpga/2024/3/2025-03-20
     - [Sch. 2 para. 22 Continuity between regimes: British certification](schedule/2/paragraph/22.md)
     - [Sch. 2 para. 23 Continuity between regimes: UK expenditure (films and television programmes)](schedule/2/paragraph/23.md)
     - [Sch. 2 para. 24 Transition of video games from European expenditure condition to UK expenditure condition](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 24A Calculation of expenditure credit where company previously benefiting from video games tax relief](schedule/2/paragraph/24A.md)
     - [Sch. 2 para. 25 Transfer of terminal losses between productions in existing and new regimes](schedule/2/paragraph/25.md)
 - Schedule 3 Theatrical productions
   - Part 1 Amendments of Part 15C of CTA 2009
