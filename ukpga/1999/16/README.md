@@ -1,0 +1,607 @@
+# Finance Act 1999
+
+1999 c. 16. Enacted 1999-07-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 17 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/16
+
+Source: https://www.legislation.gov.uk/ukpga/1999/16/2026-03-18
+
+## Contents
+
+- Part I Excise duties
+  - Alcoholic liquor duties
+    - [s. 1 Rate of duty on sparkling cider.](section/1.md)
+  - Hydrocarbon oil duties
+    - [s. 2 Rates of duty and rebate on hydrocarbon oil.](section/2.md)
+    - [s. 3 Increased rebate on higher octane unleaded petrol.](section/3.md)
+    - [s. 4 Drawback of duty on exportation.](section/4.md)
+  - Tobacco products duty
+    - [s. 5 Rates of tobacco products duty.](section/5.md)
+  - Betting and gaming duties
+    - [s. 6 Rate of pool betting duty.](section/6.md)
+    - [s. 7 Rates of gaming duty.](section/7.md)
+  - Vehicle excise duty
+    - [s. 8 The general rate of vehicle excise duty.](section/8.md)
+    - [s. 9 Rates of duty for goods vehicles.](section/9.md)
+  - Goods shipped etc. as stores
+    - [s. 10 Goods for sale on board ships or aircraft.](section/10.md)
+    - [s. 11 Drawback of duty on shipment.](section/11.md)
+- Part II Value added tax
+  - [s. 12 Works of art, antiques, etc.](section/12.md)
+  - [s. 13 Gold.](section/13.md)
+  - [s. 14 Preparations etc. of meat, yeast or egg.](section/14.md)
+  - [s. 15 Assignment of debts.](section/15.md)
+  - [s. 16 Groups of companies.](section/16.md)
+  - [s. 17 Penalties for incorrect certificates.](section/17.md)
+  - [s. 18 EC sales statements: time limits for assessments to penalties.](section/18.md)
+  - [s. 19 Period before repayment supplement payable.](section/19.md)
+  - [s. 20 Meaning of “business”.](section/20.md)
+  - [s. 21 ................................](section/21.md)
+- Part III Income Tax, Corporation Tax and Capital Gains Tax
+  - Income tax rates and charge etc.
+    - [s. 22 Starting rate.](section/22.md)
+    - [s. 23 Charge and rates for 1999-00.](section/23.md)
+    - [s. 24 Personal allowances for 1999-00 for those aged 65 or more.](section/24.md)
+    - [s. 25 Operative date of indexation for PAYE.](section/25.md)
+  - Rates of capital gains tax
+    - [s. 26 Rates of capital gains tax.](section/26.md)
+  - Corporation tax charge and rates
+    - [s. 27 Charge and main rate for financial year 2000.](section/27.md)
+    - [s. 28 Corporation tax starting rate.](section/28.md)
+    - [s. 29 Rate and fraction for corporation tax starting rate.](section/29.md)
+  - Income tax reductions
+    - [s. 30 Children’s tax credit.](section/30.md)
+    - [s. 31 Restriction of MCA to those reaching 65 before 2000-01.](section/31.md)
+    - [s. 32 Further provision about married couple’s allowance.](section/32.md)
+    - [s. 33 Abolition of existing relief in respect of children.](section/33.md)
+    - [s. 34 Abolition of widow’s bereavement allowance.](section/34.md)
+    - [s. 35 Order of income tax reductions etc.](section/35.md)
+    - [s. 36 Maintenance payments.](section/36.md)
+  - Relief for interest payments
+    - [s. 37 Limit on relief for interest.](section/37.md)
+    - [s. 38 Withdrawal of relief for interest on loans to buy land etc.](section/38.md)
+    - [s. 39 Withdrawal of relief for interest on new annuity loans.](section/39.md)
+    - [s. 40 Annuity loans: residence requirements and re-mortgages.](section/40.md)
+    - [s. 41 Repayments attracting repayment supplement.](section/41.md)
+  - Employee benefits etc.
+    - [s. 42 Conditional acquisition of shares.](section/42.md)
+    - [s. 43 Meaning of conditional interests in shares.](section/43.md)
+    - [s. 44 Exemption for mobile telephones.](section/44.md)
+    - [s. 45 Limited exemption for computer equipment.](section/45.md)
+    - [s. 46 PRP and agricultural pay.](section/46.md)
+    - [s. 47 Cars available for private use.](section/47.md)
+    - [s. 48 Provision and support of bus services.](section/48.md)
+    - [s. 49 Provision of motor cycle or cycle parking facilities.](section/49.md)
+    - [s. 50 Cycles and cyclist’s safety equipment.](section/50.md)
+  - Members of parliaments and assemblies
+    - [s. 51 EU travel expenses.](section/51.md)
+    - [s. 52 Scottish Parliament and devolved assemblies.](section/52.md)
+  - Sub-contractors in the construction industry
+    - [s. 53 Exemption certificates.](section/53.md)
+  - Reverse premiums
+    - [s. 54 Tax treatment of reverse premiums.](section/54.md)
+  - Charities
+    - [s. 55 Gifts in kind to charities etc.](section/55.md)
+    - [s. 56 Gifts of money to relieve refugee poverty.](section/56.md)
+    - [s. 57 Aggregation of money gifts for relief in poor countries.](section/57.md)
+  - Education and training
+    - [s. 58 Employees seconded to educational establishments.](section/58.md)
+    - [s. 59 Phasing out of vocational training relief.](section/59.md)
+    - [s. 60 Student loans: certain interest to be disregarded.](section/60.md)
+  - Various other reliefs etc.
+    - [s. 61 Class 1B National Insurance contributions.](section/61.md)
+    - [s. 62 Expenditure on film production and acquisition.](section/62.md)
+    - [s. 63 Treatment of transfer fees under existing contracts.](section/63.md)
+  - Settlements
+    - [s. 64 Income of unmarried child of settlor.](section/64.md)
+  - Securities and investments
+    - [s. 65 Relevant discounted securities.](section/65.md)
+    - [s. 66 Qualifying corporate bonds: provision consequential on s. 65.](section/66.md)
+    - [s. 67 Deep discount and deep gain securities.](section/67.md)
+    - [s. 68 Court common investment funds.](section/68.md)
+  - Venture capital trusts
+    - [s. 69 Company restructuring and convertible securities.](section/69.md)
+    - [s. 70 Relief on distributions.](section/70.md)
+  - Enterprise investment scheme
+    - [s. 71 Eligibility for EIS relief.](section/71.md)
+    - [s. 72 Deferred gains: application of taper relief.](section/72.md)
+    - [s. 73 Deferred gains: gain accruing on part disposal, etc.](section/73.md)
+  - Chargeable gains
+    - [s. 74 Value shifting: tax-free benefits.](section/74.md)
+    - [s. 75 Allowable losses where beneficiary absolutely entitled.](section/75.md)
+    - [s. 76 Concessions that defer a capital gains charge.](section/76.md)
+  - Capital allowances
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 ................................](section/78.md)
+  - Pensions and insurance, etc.
+    - [s. 79 Sharing of pensions on divorce, etc.](section/79.md)
+    - [s. 80 Purchased life annuities.](section/80.md)
+    - [s. 81 Acquisitions disregarded under insurance companies concession.](section/81.md)
+    - [s. 82 Lloyd’s: members’ agent pooling arrangements.](section/82.md)
+    - [s. 83 Provisions supplementary to s. 82.](section/83.md)
+    - [s. 84 Lloyd’s: roll-over relief.](section/84.md)
+  - Advance pricing agreements and CFCs
+    - [s. 85 Advance pricing agreements etc.](section/85.md)
+    - [s. 86 Provisions supplementary to s. 85.](section/86.md)
+    - [s. 87 Effect of section 85 agreements on non-parties.](section/87.md)
+    - [s. 88 Controlled foreign companies.](section/88.md)
+  - Management and enforcement
+    - [s. 89 Corporation tax: due and payable date.](section/89.md)
+    - [s. 90 Release or writing off of debt: interest on tax overpaid.](section/90.md)
+    - [s. 91 Advance corporation tax: consequences of abolition.](section/91.md)
+    - [s. 92 Group relief: consequences of reduction in surrenderable amount.](section/92.md)
+    - [s. 93 Company tax returns, etc.](section/93.md)
+- Part IV Oil Taxation
+  - [s. 94 Excluded oil.](section/94.md)
+  - [s. 95 Sale and lease-back.](section/95.md)
+  - [s. 96 Transfer of field interest.](section/96.md)
+  - [s. 97 Provisions supplementary to ss. 95 and 96.](section/97.md)
+  - [s. 98 Qualifying assets.](section/98.md)
+  - [s. 99 PRT instalments.](section/99.md)
+  - [s. 100 Sale and lease-back: ring fence profits.](section/100.md)
+  - [s. 101 Pipe-line elections.](section/101.md)
+  - [s. 102 PRT returns.](section/102.md)
+  - [s. 103 Business assets: roll-over relief.](section/103.md)
+- Part V Inheritance tax
+  - [s. 104 Gifts.](section/104.md)
+  - [s. 105 Delivery of accounts.](section/105.md)
+  - [s. 106 Power to call for documents etc.](section/106.md)
+  - [s. 107 Inland revenue charge.](section/107.md)
+  - [s. 108 Penalties.](section/108.md)
+- Part VI Stamp duty and stamp duty reserve tax
+  - Stamp duty
+    - [s. 109 Interest and penalties on late stamping.](section/109.md)
+    - [s. 110 Interest on repayment of duty overpaid etc.](section/110.md)
+    - [s. 111 Stamp duty on conveyance or transfer on sale.](section/111.md)
+    - [s. 112 General amendment of charging provisions.](section/112.md)
+    - [s. 113 Bearer instruments.](section/113.md)
+    - [s. 114 Penalties other than on late stamping.](section/114.md)
+    - [s. 115 Minor amendments and repeal of obsolete provisions.](section/115.md)
+  - Stamp duty reserve tax
+    - [s. 116 Non-sterling bearer instruments issued in connection with merger or takeover.](section/116.md)
+    - [s. 117 Scope of exceptions for certain bearer instruments.](section/117.md)
+    - [s. 118 Relief in case of certain replacement securities.](section/118.md)
+    - [s. 119 Power to exempt UK depositary interests in foreign securities.](section/119.md)
+    - [s. 120 Minor amendments of exceptions to general charge.](section/120.md)
+    - [s. 121 Power to make regulations with respect to administration, etc.](section/121.md)
+  - Units in unit trusts
+    - [s. 122 Stamp duty and stamp duty reserve tax: unit trusts.](section/122.md)
+  - Supplementary provisions
+    - [s. 123 Construction of this Part and other supplementary provisions.](section/123.md)
+- Part VII Other taxes
+  - Landfill tax
+    - [s. 124 Rate of landfill tax.](section/124.md)
+  - Insurance premium tax
+    - [s. 125 Rate of insurance premium tax.](section/125.md)
+  - Customs duties
+    - [s. 126 Interest on unpaid customs debts.](section/126.md)
+    - [s. 127 Interest on repayments.](section/127.md)
+    - [s. 128 Periods to be disregarded in determining interest under s. 127.](section/128.md)
+    - [s. 129 Repayment of overpaid interest etc.](section/129.md)
+    - [s. 130 Consequential amendments relating to interest.](section/130.md)
+- Part VIII Miscellaneous and Supplemental
+  - General administration of tax
+    - [s. 131 Economic and monetary union: taxes and duties.](section/131.md)
+    - [s. 132 Power to provide for use of electronic communications.](section/132.md)
+    - [s. 133 Use of electronic communications under other provisions.](section/133.md)
+  - Government borrowing etc.
+    - [s. 134 The Debt Management Account.](section/134.md)
+    - [s. 135 Lending by Revenue Accounts to National Loans Fund.](section/135.md)
+    - [s. 136 Definition of Government Stock.](section/136.md)
+    - [s. 137 National Savings Bank: disclosure of information.](section/137.md)
+  - Supplemental
+    - [s. 138 Interpretation.](section/138.md)
+    - [s. 139 Repeals.](section/139.md)
+    - [s. 140 Short title.](section/140.md)
+- SCHEDULE 1 Rates of vehicle excise duty for goods vehicles etc
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 VAT: groups of companies
+  - Amendment of Value Added Tax Act 1994
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Transitional provisions
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 New Schedule 13B to the Taxes Act 1988
+- SCHEDULE 4 Withdrawal of relief for interest on loans to buy land etc.
+  - Amendments of Part IX of the Taxes Act 1988
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+  - Other amendments
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - Commencement
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 Scottish Parliament and devolved assemblies: exemptions and reliefs
+  - Payments on dissolution, etc., or loss of office
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Payments in respect of overnight expenses or EU travel
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Office-holders’ transport and subsistence
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Trustees’ income from parliamentary pension funds
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Relevant statutory schemes
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Pensions of members of the Scottish Executive
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 Tax treatment of receipts by way of reverse premium
+  - Application of this Schedule
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Tax treatment of receipts by way of reverse premium
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Arrangements not at arm’s length
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Special rules for insurance companies carrying on life assurance business
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Exclusion of receipts taken into account for capital allowances
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - ...
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Exclusion of consideration under sale and lease-back arrangement
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Connected persons and relevant arrangements
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Application of taper relief to EIS deferred gains
+- SCHEDULE 8
+  - EIS deferred gains: gains accruing on part disposal
+    - Introductory
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Paragraph 4
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Paragraph 19
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Consequential amendments
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Chargeable gains: value shifting and tax-free benefits
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Sharing of pensions etc. on divorce or annulment
+  - Definition of “pension business”
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Approval of retirement benefit schemes
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Discretionary approval of retirement benefit schemes
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Non-approved retirement benefit schemes
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Charge on pensions commuted in special circumstances
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Charge on unauthorised payments
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Definition of “retirement benefits scheme”
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Interpretation of Chapter I
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Overseas pensions
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Rules prohibiting surrender or assignment of annuities etc.
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Annuity payable on the death of a member
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Rule in section 636A prohibiting assignment or surrender
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - Meaning of “relevant earnings”
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Purchased life annuities
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Interpretation of Part XIV
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Commencement etc.
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+- SCHEDULE 11 Company tax returns, etc: minor and consequential amendments
+  - Income and Corporation Taxes Act 1988 (c. 1)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Finance Act 1989 (c. 26)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Capital Allowances Act 1990 (c. 1)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Finance Act 1994 (c. 9)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Finance Act 1998 (c. 36)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+- SCHEDULE 12 Stamp duty: interest and penalties on late stamping
+  - Stamp Act 1891 (c.39)
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Finance Act 1994 (c.9)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+- SCHEDULE 13 Stamp duty: instruments chargeable and rates of duty
+  - Part I Conveyance or transfer on sale
+    - Charge
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Rates of duty
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Meaning of instrument being certified at an amount
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Contracts or agreements chargeable as conveyances on sale
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Part II Lease
+    - Charge
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Rates of duty
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - Agreement for a lease charged as a lease
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - Lease for fixed term and then until determined
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Part III Other instruments
+    - ...
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - ...
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - Dispositions in Scotland
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - Duplicate or counterpart
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - Instrument increasing rent
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - Partition or division
+      - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - ...
+      - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - ...
+      - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+  - Part IV General exemptions
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - [Sch. 13 para. 25A](schedule/13/paragraph/25A.md)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+- SCHEDULE 14 Stamp duty: amendments consequential on section 112
+  - General amendments
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Finance Act 1930 (c.28)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Finance Act (Northern Ireland) 1954 (c.23 (N.I.))
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Finance Act 1970 (c.24)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Finance Act 1980 (c.48)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Finance Act 1982 (c.39)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Finance Act 1985 (c.54)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Finance Act 1986 (c.41)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+  - Finance Act 1987 (c.16)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+  - Finance Act 1989 (c.26)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+  - National Health Service and Community Care Act 1990 (c.19)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+  - Finance Act 1991 (c.31)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+  - Finance Act 1993 (c.34)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+  - Finance Act 1994 (c.9)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+  - Finance Act 1995 (c.4)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+- SCHEDULE 15 Stamp duty: bearer instruments
+  - Part I Charging provisions
+    - ...
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Charge on transfer of stock by means of instrument
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Meaning of “bearer instrument”
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Rates of duty
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Ascertainment of market value
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Meaning of “deposit certificate”
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - Bearer instruments by usage
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - Meaning of “company”, “UK company” and “non-UK company”
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - Meaning of “stock” and “transfer”
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Part II Exemptions
+    - Substitute instruments
+      - [Sch. 15 para. 12A](schedule/15/paragraph/12A.md)
+    - Foreign loan securities
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - Stock exempt from duty on transfer
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - Instruments in respect of which duty previously abolished
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - Renounceable letters of allotment
+      - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Instruments relating to non-sterling stock
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - Variation of original terms or conditions
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+  - Part III Supplementary provisions
+    - ...
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - Duty chargeable on transfer of stock by means of instrument
+      - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - Supplementary provisions as to interest
+      - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+    - Penalty for false statement
+      - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+      - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+- SCHEDULE 16 Stamp duty: amendments consequential on section 113
+  - General amendment
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Finance Act 1963 (c.25)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Finance Act 1976 (c.40)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Finance Act 1984 (c.43)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Finance Act 1986 (c.41)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - Finance Act 1987 (c.16)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+  - Finance Act 1988 (c.39)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+  - Finance Act 1990 (c.29)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+- SCHEDULE 17 Stamp duty: penalties other than on late stamping
+  - Part I Amendments of penalties
+    - Introduction
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Stamp Duties Management Act 1891 (c.38)
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Stamp Act 1891 (c.39)
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Finance Act 1946 (c.64)
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Finance (No. 2) Act (Northern Ireland) 1946 (c.17 (N.I.))
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Finance Act 1963 (c.25)
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Finance Act (Northern Ireland) 1963 (c.22 (N.I.))
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Finance Act 1986 (c.41)
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - Part II Determination of penalty, reviews and appeals
+    - Introduction
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Determination of penalty by officer of Commissioners
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+      - [Sch. 17 para. 11A](schedule/17/paragraph/11A.md)
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Penalty proceedings before the court
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Supplementary provisions
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - Part III Power to apply provisions as to collection and recovery etc
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+- SCHEDULE 18 Stamp duty: minor amendments and repeal of obsolete provisions
+  - Part I Minor amendments
+    - Introduction
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - Payment by cheque
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - Admissibility of evidence not affected by offer of settlement, etc.
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - References to duration of lease
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Part II Obsolete provisions
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+- SCHEDULE 19 Stamp duty and stamp duty reserve tax: unit trusts
+  - Part I Abolition of stamp duty on transfers etc. of units in unit trusts
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Part II Stamp duty reserve tax on dealings with units in unit trusts
+    - Charge to tax
+      - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - Rate of tax
+      - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - Proportionate reduction of tax by reference to units issued
+      - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - Proportionate reduction of tax by reference to assets held
+      - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - Exclusion of charge in certain cases of change of ownership
+      - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+      - [Sch. 19 para. 6A Exclusion of charge in case of individual pension accounts](schedule/19/paragraph/6A.md)
+    - Exclusion of charge in case of in specie redemption
+      - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - Interpretation
+      - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - Transitional provision
+      - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - Part III Minor and consequential amendments
+    - Finance Act 1986 (c.41)
+      - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+      - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+      - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - Finance Act 1995 (c.4)
+      - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - Part IV General definitions
+    - Meaning of “unit trust scheme” and related expressions
+      - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - Schemes not treated as unit trust schemes
+      - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+      - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - Treatment of umbrella schemes
+      - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - References to stock in stamp duty enactments include units under unit trust scheme
+      - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+- SCHEDULE 20 Repeals
+  - Part I Excise duties
+  - Part II Value added tax
+  - Part III Income tax, corporation tax and capital gains tax
+  - Part IV Oil taxation
+  - Part V Stamp duty and stamp duty reserve tax
+  - Part VI Interest on customs duty etc
+  - Part VII Electronic communications
