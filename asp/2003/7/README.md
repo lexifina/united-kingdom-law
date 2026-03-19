@@ -1,0 +1,166 @@
+# Criminal Justice (Scotland) Act 2003
+
+asp/2003/7. Enacted 2003-03-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-19, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 177 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/7
+
+Source: https://www.legislation.gov.uk/asp/2003/7/2026-03-19
+
+## Contents
+
+- Part 1 Protection of the public at large
+  - Risk assessment and order for lifelong restriction
+    - [s. 1 Risk assessment and order for lifelong restriction](section/1.md)
+  - Disposal in case of insanity
+    - [s. 2 Disposal of case where accused found to be insane](section/2.md)
+  - The Risk Management Authority
+    - [s. 3 The Risk Management Authority](section/3.md)
+    - [s. 4 Policy and research](section/4.md)
+    - [s. 5 Guidelines and standards](section/5.md)
+    - [s. 6 Risk management plans](section/6.md)
+    - [s. 7 Preparation of risk management plans](section/7.md)
+    - [s. 8 Preparation of risk management plans: further provision](section/8.md)
+    - [s. 9 Implementation and review of risk management plans](section/9.md)
+    - [s. 10 Grants to local authorities in connection with risk management plans](section/10.md)
+    - [s. 11 Accreditation, education and training](section/11.md)
+    - [s. 12 Functions: supplementary](section/12.md)
+    - [s. 13 Accounts and annual reports](section/13.md)
+- Part 2 Victims’ rights
+  - [s. 14 Victim statements](section/14.md)
+  - [s. 15 Prohibition of personal conduct of defence in proofs ordered in relation to victim statements in cases of certain sexual offences](section/15.md)
+  - [s. 15A Application of sections 271 to 271M of the 1995 Act in proofs ordered in relation to victim statements](section/15A.md)
+  - [s. 16 Victim’s right to receive information concerning release etc. of offender](section/16.md)
+  - [s. 16ZA Provision of information to person supporting victim](section/16ZA.md)
+  - [s. 16A Victim’s right to receive information concerning offender subject to compulsion order](section/16A.md)
+  - [s. 16B Person entitled to ask to be given information under section 16A](section/16B.md)
+  - [s. 16C Information to be given under section 16A](section/16C.md)
+  - [s. 16D Provision of information concerning offender subject to compulsion order to person supporting victim](section/16D.md)
+  - [s. 17 Release on licence: right of victim to receive information and make representations](section/17.md)
+  - [s. 17ZA Release on licence: provision of information to person supporting victim](section/17ZA.md)
+  - [s. 17A Temporary release: victim’s right to make representations about conditions](section/17A.md)
+  - [s. 17B Mentally-disordered offender: victim’s right to make representations](section/17B.md)
+  - [s. 17C Making representations under section 17B](section/17C.md)
+  - [s. 17D Right to information after section 17B decision](section/17D.md)
+  - [s. 17DA Section 17B decision: provision of information to person supporting victim](section/17DA.md)
+  - [s. 17E Information sharing in respect of mentally-disordered offenders](section/17E.md)
+  - [s. 18 Disclosure of certain information relating to victims of crime](section/18.md)
+  - [s. 18A Interpretation of Part](section/18A.md)
+  - [s. 18B Power to modify Part](section/18B.md)
+- Part 3 Sexual offences etc.
+  - [s. 19 Amendments in relation to certain serious and sexual offences](section/19.md)
+  - [s. 20 Extended sentences](section/20.md)
+  - [s. 21 Sexual and certain other offences: reports](section/21.md)
+  - [s. 22 Traffic in prostitution etc.](section/22.md)
+- Part 4 Prisoners etc.
+  - Custody and temporary detention
+    - [s. 23 Remand and committal of children and young persons](section/23.md)
+    - [s. 24 Legal custody](section/24.md)
+    - [s. 25 Temporary detention of person being returned to prison in England and Wales etc.](section/25.md)
+  - Consecutive sentences
+    - [s. 26 Consecutive sentences: life prisoners etc.](section/26.md)
+  - Release of prisoners
+    - [s. 27 Release on licence etc. under 1989 Act](section/27.md)
+    - [s. 28 Release on licence etc. under 1993 Act](section/28.md)
+    - [s. 29 Release on licence: life prisoners](section/29.md)
+    - [s. 30 Release on licence: certain consecutive sentences](section/30.md)
+    - [s. 31 Release: prisoners serving extended sentences](section/31.md)
+    - [s. 32 Release etc. under 1993 Act of prisoner serving consecutive or concurrent offence and non-offence terms](section/32.md)
+    - [s. 33 Prisoners repatriated to Scotland](section/33.md)
+    - [s. 34 Suspension of conditions and revocation of licences under 1989 Act](section/34.md)
+    - [s. 35 Suspension of licence conditions under 1993 Act](section/35.md)
+    - [s. 36 Revocation of licences under 1993 Act](section/36.md)
+    - [s. 37 Extended sentences: recall to prison and revocation of licences](section/37.md)
+    - [s. 38 Special provision in relation to children](section/38.md)
+  - Special provision as regards certain life prisoners
+    - [s. 39 Convention rights of certain life prisoners](section/39.md)
+  - Monitoring on release
+    - [s. 40 Remote monitoring of released prisoners](section/40.md)
+  - Parole Board to have regard to risk management plans
+    - [s. 41 Parole Board to have regard to risk management plans](section/41.md)
+- Part 5 Drugs courts
+  - [s. 42 Drugs courts](section/42.md)
+- Part 6 Non-custodial punishments
+  - [s. 43 Restriction of liberty orders](section/43.md)
+  - [s. 44 ................................](section/44.md)
+  - [s. 45 ................................](section/45.md)
+  - [s. 46 Requirement for remote monitoring in probation order](section/46.md)
+  - [s. 47 Requirement for remote monitoring in drug treatment and testing order](section/47.md)
+  - [s. 48 Breach of certain orders: adjourning hearing and remanding in custody etc.](section/48.md)
+  - [s. 49 Power of arrest where breach of non-harassment order](section/49.md)
+  - [s. 50 Amendments in relation to certain non-custodial sentences](section/50.md)
+- Part 7 Children
+  - [s. 51 Physical punishment of children](section/51.md)
+  - [s. 52 Prohibition of publication of proceedings at children’s hearing etc.](section/52.md)
+  - [s. 53 Provision by Principal Reporter of information to victims](section/53.md)
+- Part 8 Evidential, jurisdictional and procedural matters
+  - Evidential matters
+    - [s. 54 Certificates relating to physical data: sufficiency of evidence](section/54.md)
+    - [s. 55 Taking samples by swabbing](section/55.md)
+    - [s. 56 Retaining sample or relevant physical data where given voluntarily](section/56.md)
+    - [s. 57 Convictions in other member States of the European Union](section/57.md)
+  - Jurisdictional matters
+    - [s. 58 Transfer of sheriff court proceedings](section/58.md)
+    - [s. 59 Competence of justice’s actings outwith jurisdiction](section/59.md)
+  - Procedural matters
+    - [s. 60 Unified citation provisions](section/60.md)
+    - [s. 61 Citation other than by service of indictment or complaint](section/61.md)
+    - [s. 62 Leave to appeal: extension of time limit for application under section 107(4) of 1995 Act](section/62.md)
+    - [s. 63 Adjournment at first diet in summary proceedings](section/63.md)
+    - [s. 64 Review hearing of drug treatment and testing order](section/64.md)
+    - [s. 65 Transcript of record](section/65.md)
+    - [s. 66 Bail and related matters](section/66.md)
+    - [s. 67 Adjournment of case before sentence](section/67.md)
+- Part 9 Bribery and corruption
+  - [s. 68 Bribery and corruption: foreign officers etc.](section/68.md)
+  - [s. 69 Bribery and corruption committed outwith UK](section/69.md)
+- Part 10 Criminal records
+  - [s. 70 Registration for criminal records purposes](section/70.md)
+- Part 11 Local authority functions
+  - [s. 71 Advice, guidance and assistance to persons arrested or on whom sentence deferred](section/71.md)
+  - [s. 72 Grants to local authorities discharging certain functions jointly](section/72.md)
+- Part 12 Miscellaneous and general
+  - Miscellaneous
+    - [s. 73 Public defence](section/73.md)
+    - [s. 74 Offences aggravated by religious prejudice](section/74.md)
+    - [s. 75 Reintroduction of ranks of deputy chief constable and chief superintendent](section/75.md)
+    - [s. 76 Police custody and security officers](section/76.md)
+    - [s. 77 Wildlife offences](section/77.md)
+    - [s. 78 Disqualification from jury service](section/78.md)
+    - [s. 79 Separation of jury after retiral](section/79.md)
+    - [s. 80 Television link from court to prison or other place of detention](section/80.md)
+    - [s. 81 Warrants issued in Northern Ireland for search of premises in Scotland](section/81.md)
+    - [s. 82 Use of electronic communications or electronic storage in connection with warrants to search](section/82.md)
+    - [s. 83 ................................](section/83.md)
+  - General
+    - [s. 84 Transitional provisions etc.](section/84.md)
+    - [s. 85 Minor and consequential amendments](section/85.md)
+    - [s. 86 Repeals](section/86.md)
+    - [s. 87 Interpretation](section/87.md)
+    - [s. 88 Orders](section/88.md)
+    - [s. 89 Short title and commencement](section/89.md)
+- SCHEDULE 1 Order for lifelong restriction: modification of enactments
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Constitution etc. of the Risk Management Authority
+  - [Sch. 2 para. 1 Status](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Wildlife offences
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Repeals
