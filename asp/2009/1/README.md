@@ -1,0 +1,322 @@
+# Scottish Parliamentary Pensions Act 2009
+
+asp/2009/1. Enacted 2009-02-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2009/1/2026-03-20
+
+## Contents
+
+- [s. 1 Scottish Parliamentary Pension Scheme](section/1.md)
+- [s. 2 Grants payable on leaving office](section/2.md)
+- [s. 3 Modification of pension schemes etc.](section/3.md)
+- [s. 4 Interpretation](section/4.md)
+- [s. 5 Commencement](section/5.md)
+- [s. 6 Short title](section/6.md)
+- SCHEDULE 1 Scottish Parliamentary Pension Scheme
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Part A The Pension Fund
+    - The Pension Fund
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Payments to and from Fund
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Part B Fund trustees
+    - Fund trustees
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Functions
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Number of trustees
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Eligibility
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Appointment of Fund trustees
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Remuneration, allowances and expenses
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Resignation
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Removal
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Change of status
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Member-nominated trustees
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Procedure
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Quorum
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Staff and advisers
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Fund management
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Indemnity insurance
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Delegation
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Validity of acts
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Part C Participating members
+    - MSP members
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Office-holder members
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - MSP opt-out
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Office-holder opt-out
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - MSP opt-in
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - Office-holder opt-in
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+  - Part D Contributions
+    - Scheme member contributions
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Amount of scheme member contribution
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Procedure for changing scheme member contribution rate
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Relief from liability to make scheme member contributions
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Contributions when salary not drawn
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Contributions from SPCB
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+  - Part E Reckonable service
+    - Reckonable service as an MSP
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Reckonable service as an office-holder
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Total reckonable service
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Measuring reckonable service
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - Part F Pensions
+    - Scheme pension
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - Amount of MSP pension
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - Amount of office-holder pension
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Duration of scheme pension
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - Suspension of scheme pension
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - Part G Retirement lump sums
+    - Right to commute pension into a lump sum
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - Payment of retirement lump sum and corresponding reduction in pension
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Special rule for commutation by individual approaching the age of 75
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - Commuting trivial amounts
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+  - Part H Early retirement
+    - Early retirement
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+  - Part I Ill-health
+    - Serious ill-health pension
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - Ordinary ill-health pension
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - Deferred pensioner’s ill-health pension
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - Amount of serious ill-health pension
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+    - Amount of ordinary ill-health pension
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - Amount of deferred pensioner’s ill-health pension
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+    - Review of ill-health pension entitlements
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+    - Medical examinations
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+    - Ill-health lump sums: life expectancy of less than one year
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+  - Part J Surviving partners and children
+    - Chapter 1 Scheme pension entitlement
+      - Meaning of “scheme pension entitlement”
+        - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+    - Chapter 2 Partner’s pension etc.
+      - Partner
+        - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - Partner’s pension
+        - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - Enhancement of initial partner’s pension
+        - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - Duration of partner’s pension
+        - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+      - Partner’s trivial lump sum
+        - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+    - Chapter 3 Children’s pensions
+      - Children’s pensions
+        - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - Eligible children
+        - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+      - Payment of children’s pension
+        - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+  - Part K Lump sum death benefits
+    - Death in service lump sum
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+    - Nominations for death in service lump sum
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+    - Deferred pensioner lump sum
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+  - Part L 5 year guarantee
+    - Initial pension period
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - Guaranteed pension for surviving partner
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+    - Guaranteed lump sum where scheme pensioner dies aged under 75 with no surviving partner
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+    - Guaranteed pension where scheme pensioner dies aged 75 or over with no surviving partner
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+  - Part M Short service refunds
+    - Payment of short service refunds
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+    - Extinction of scheme benefits
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+  - Part N Transfers
+    - Chapter 1 Transfers out
+      - Statement of entitlement
+        - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+      - Transfers to other pension schemes
+        - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+      - Enhancement of transferable sum
+        - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - Reduction of transferable sum
+        - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - Transfer payment
+        - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - Time limits
+        - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+      - Extinction of scheme benefits
+        - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - Chapter 2 Transfers in
+      - Transfer in
+        - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+      - Effect of transfer in
+        - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+      - Limitation on transfers in
+        - [Sch. 1 para. 83](schedule/1/paragraph/83.md)
+  - Part O Added years
+    - Added years
+      - [Sch. 1 para. 84](schedule/1/paragraph/84.md)
+    - Buying added years by instalments
+      - [Sch. 1 para. 85](schedule/1/paragraph/85.md)
+    - Revocation of accepted application
+      - [Sch. 1 para. 85A](schedule/1/paragraph/85A.md)
+    - Interruption of service
+      - [Sch. 1 para. 86](schedule/1/paragraph/86.md)
+    - Resumption of service as MSP member
+      - [Sch. 1 para. 87](schedule/1/paragraph/87.md)
+    - Buying added years by lump sum
+      - [Sch. 1 para. 88](schedule/1/paragraph/88.md)
+    - Limitations on buying added years
+      - [Sch. 1 para. 89](schedule/1/paragraph/89.md)
+    - Multiple applications
+      - [Sch. 1 para. 90](schedule/1/paragraph/90.md)
+  - Part P Pension sharing
+    - Pension credit members
+      - [Sch. 1 para. 91](schedule/1/paragraph/91.md)
+    - Pension debit members
+      - [Sch. 1 para. 92](schedule/1/paragraph/92.md)
+    - Death of ex-partner before discharge of pension credit liability
+      - [Sch. 1 para. 93](schedule/1/paragraph/93.md)
+  - Part Q Dual mandate MSPs
+    - Dual mandate MSPs
+      - [Sch. 1 para. 94](schedule/1/paragraph/94.md)
+    - Pension reduction for dual mandate MSPs
+      - [Sch. 1 para. 95](schedule/1/paragraph/95.md)
+  - Part R Taxes
+    - 2004 Act terms
+      - [Sch. 1 para. 96](schedule/1/paragraph/96.md)
+    - Payment of lifetime allowance charge by scheme administrator
+      - [Sch. 1 para. 97](schedule/1/paragraph/97.md)
+    - Payment of lifetime allowance charge from Pension Fund
+      - [Sch. 1 para. 98](schedule/1/paragraph/98.md)
+    - Deductions for tax arising on lump sum payments
+      - [Sch. 1 para. 99](schedule/1/paragraph/99.md)
+    - Reduction of benefits which would otherwise attract unauthorised charge
+      - [Sch. 1 para. 100](schedule/1/paragraph/100.md)
+    - Prohibition on payments which would give rise to liability for certain taxes
+      - [Sch. 1 para. 101](schedule/1/paragraph/101.md)
+  - Part S Accounts, audit and actuarial reports
+    - Accounts and audit
+      - [Sch. 1 para. 102](schedule/1/paragraph/102.md)
+    - Actuarial reports
+      - [Sch. 1 para. 103](schedule/1/paragraph/103.md)
+  - Part T Miscellaneous
+    - Dispute resolution procedure
+      - [Sch. 1 para. 104](schedule/1/paragraph/104.md)
+    - Guaranteed minimum pension
+      - [Sch. 1 para. 105](schedule/1/paragraph/105.md)
+    - Restriction on assignability etc.
+      - [Sch. 1 para. 106](schedule/1/paragraph/106.md)
+    - Payments due in respect of deceased individuals
+      - [Sch. 1 para. 107](schedule/1/paragraph/107.md)
+    - Formal communications
+      - [Sch. 1 para. 108](schedule/1/paragraph/108.md)
+  - Part U Key terms
+    - Interpretation
+      - [Sch. 1 para. 109](schedule/1/paragraph/109.md)
+    - Index
+      - [Sch. 1 para. 110](schedule/1/paragraph/110.md)
+- SCHEDULE 2 Grants payable on leaving office
+  - MSP resettlement grant
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - MSP ill-health retirement grant
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Amount of MSP grants
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Office-holder resettlement grant
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Key terms
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Transitional provisions and savings
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Continuation of scheme and transfer of Pension Fund
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Scheme participation
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Scheme member contributions
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Contributions from SPCB
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Reckonable service as an MSP
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Reckonable service as an office-holder
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Total reckonable service
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Special provision for participants reaching age of 75 before the new rules day
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Payment of pensions due on new rules day etc.
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Entitlement of partners and children after new rules day
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Early retirement
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Partner’s and children’s pensions
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - 5 year guarantee
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Deferred pensioner lump sums
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Short service refunds
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Transfers
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Added years
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - AVC Scheme
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Guaranteed minimum pension
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - Presiding Officer and First Minister pension scheme
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - General saving
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Disapplication of scheme modifications
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
