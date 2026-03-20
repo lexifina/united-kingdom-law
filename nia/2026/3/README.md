@@ -1,0 +1,253 @@
+# Budget Act (Northern Ireland) 2026
+
+nia/2026/3. Enacted 2026-03-20.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/nia/2026/3/2026-03-20
+
+## Contents
+
+- Authorisation for the year ending 31 March 2026
+  - [s. 1 Use of resources](section/1.md)
+  - [s. 2 Limits on use of resources](section/2.md)
+  - [s. 3 Issue of sum out of the Consolidated Fund](section/3.md)
+  - [s. 4 Use of sum issued out of the Consolidated Fund](section/4.md)
+  - [s. 5 Power to borrow](section/5.md)
+  - [s. 6 Use of income](section/6.md)
+- Authorisation for the year ending 31 March 2027
+  - [s. 7 Use of resources](section/7.md)
+  - [s. 8 Limits on use of resources](section/8.md)
+  - [s. 9 Issue of sum out of the Consolidated Fund](section/9.md)
+  - [s. 10 Use of sum issued out of the Consolidated Fund](section/10.md)
+  - [s. 11 Power to borrow](section/11.md)
+- Supplementary
+  - [s. 12 Interpretation](section/12.md)
+  - [s. 13 Short title](section/13.md)
+- Schedule 1 Estimates for the year ending 31 March 2026
+  - Department of Agriculture, Environment and Rural Affairs estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Department for Communities estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department for the Economy estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+  - Department of Education estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department of Education - Teacher’s superannuation estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Annually managed expenditure
+    - Part 3 Income
+      - Annually managed expenditure
+      - Non-budget income
+  - Department of Finance estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Department of Finance - superannuation and other allowances estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department of Health estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Department of Health - Health and Social Care Pension Scheme estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Annually managed expenditure
+    - Part 3 Income
+      - Annually managed expenditure
+  - Department for Infrastructure estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+      - Non-budget income
+  - Department of Justice estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - The Executive Office estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Food Standards Agency estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Northern Ireland Assembly Commission estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Northern Ireland Audit Office estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+    - Part 3 Income
+      - Departmental expenditure limit
+  - The Northern Ireland Authority for Utility Regulation estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Northern Ireland Public Services Ombudsman estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+  - Public Prosecution Service for Northern Ireland estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+    - Part 3 Income
+      - Departmental expenditure limit
+- Schedule 2 Estimates for the year ending 31 March 2027
+  - Department of Agriculture, Environment and Rural Affairs estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department for Communities estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+  - Department for the Economy estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+  - Department of Education estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department of Education - Teachers’ superannuation estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Annually managed expenditure
+  - Department of Finance estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department of Finance - Superannuation and other allowances estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department of Health estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Department of Health - Health and Social Care Pension Scheme estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Annually managed expenditure
+  - Department for Infrastructure estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+  - Department of Justice estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - The Executive Office estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Food Standards Agency estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Northern Ireland Assembly Commission estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Northern Ireland Audit Office estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+  - The Northern Ireland Authority for Utility Regulation estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+      - Non-budget expenditure
+  - Northern Ireland Public Services Ombudsman estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
+  - Public Prosecution Service for Northern Ireland estimate
+    - Part 1 Authorised amounts
+    - Part 2 Expenditure
+      - Departmental expenditure limit
+      - Annually managed expenditure
