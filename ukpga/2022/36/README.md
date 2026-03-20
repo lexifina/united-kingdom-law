@@ -1,0 +1,205 @@
+# Nationality and Borders Act 2022
+
+2022 c. 36. Enacted 2022-04-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-20, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 21 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2022/36
+
+Source: https://www.legislation.gov.uk/ukpga/2022/36/2026-03-20
+
+## Contents
+
+- PART 1 Nationality
+  - British overseas territories citizenship
+    - [s. 1 Historical inability of mothers to transmit citizenship](section/1.md)
+    - [s. 2 Historical inability of unmarried fathers to transmit citizenship](section/2.md)
+    - [s. 3 Provision for Chagos Islanders to acquire British Nationality](section/3.md)
+    - [s. 4 Sections 1 to 3: related British citizenship](section/4.md)
+    - [s. 5 Period for registration of person born outside the British overseas territories](section/5.md)
+  - British citizenship
+    - [s. 6 Disapplication of historical registration requirements](section/6.md)
+    - [s. 7 Citizenship where mother married to someone other than natural father](section/7.md)
+  - Powers of the Secretary of State relating to citizenship etc
+    - [s. 8 Citizenship: registration in special cases](section/8.md)
+    - [s. 9 Requirements for naturalisation etc](section/9.md)
+    - [s. 10 Notice of decision to deprive a person of citizenship](section/10.md)
+  - Registration of stateless minors
+    - [s. 11 Citizenship: stateless minors](section/11.md)
+- PART 2 Asylum
+  - Treatment of refugees; support for asylum-seekers
+    - [s. 12 Differential treatment of refugees](section/12.md)
+    - [s. 13 Accommodation for asylum-seekers etc](section/13.md)
+  - Place of claim
+    - [s. 14 Requirement to make asylum claim at “designated place”](section/14.md)
+  - Inadmissibility
+    - [s. 15 Asylum claims by EU nationals: inadmissibility](section/15.md)
+    - [s. 16 Asylum claims by persons with connection to safe third State: inadmissibility](section/16.md)
+    - [s. 17 Clarification of basis for support where asylum claim inadmissible](section/17.md)
+  - Supporting evidence
+    - [s. 18 Provision of evidence in support of protection or human rights claim](section/18.md)
+    - [s. 19 Asylum or human rights claim: damage to claimant’s credibility](section/19.md)
+  - Priority removal notices
+    - [s. 20 Priority removal notices](section/20.md)
+    - [s. 21 Priority removal notices: supplementary](section/21.md)
+    - [s. 22 Late compliance with priority removal notice: damage to credibility](section/22.md)
+    - [s. 23 Priority removal notices: expedited appeals](section/23.md)
+    - [s. 24 Expedited appeals: joining of related appeals](section/24.md)
+    - [s. 25 Civil legal services for recipients of priority removal notices](section/25.md)
+  - Late evidence
+    - [s. 26 Late provision of evidence in asylum or human rights claim: weight](section/26.md)
+  - Appeals
+    - [s. 27 Accelerated detained appeals](section/27.md)
+    - [s. 28 Claims certified as clearly unfounded: removal of right of appeal](section/28.md)
+  - Removal to safe third country
+    - [s. 29 Removal of asylum seeker to safe country](section/29.md)
+  - Interpretation of Refugee Convention
+    - [s. 30 Refugee Convention: general](section/30.md)
+    - [s. 31 Article 1(A)(2): persecution](section/31.md)
+    - [s. 32 Article 1(A)(2): well-founded fear](section/32.md)
+    - [s. 33 Article 1(A)(2): reasons for persecution](section/33.md)
+    - [s. 34 Article 1(A)(2): protection from persecution](section/34.md)
+    - [s. 35 Article 1(A)(2): internal relocation](section/35.md)
+    - [s. 36 Article 1(F): disapplication of Convention in case of serious crime etc](section/36.md)
+    - [s. 37 Article 31(1): immunity from penalties](section/37.md)
+    - [s. 38 Article 33(2): particularly serious crime](section/38.md)
+  - Interpretation
+    - [s. 39 Interpretation of Part 2](section/39.md)
+- PART 3 Immigration Control
+  - Immigration offences and penalties
+    - [s. 40 Illegal entry and similar offences](section/40.md)
+    - [s. 41 Assisting unlawful immigration or asylum seeker](section/41.md)
+    - [s. 42 Penalty for failure to secure goods vehicle](section/42.md)
+  - Working in United Kingdom waters: arrival and entry
+    - [s. 43 Working in United Kingdom waters: arrival and entry](section/43.md)
+  - Enforcement
+    - [s. 44 Power to search container unloaded from ship or aircraft](section/44.md)
+    - [s. 45 Maritime enforcement](section/45.md)
+  - Removals
+    - [s. 46 Removals: notice requirements](section/46.md)
+    - [s. 47 Prisoners liable to removal from the United Kingdom](section/47.md)
+  - Immigration bail
+    - [s. 48 Matters relevant to decisions relating to immigration bail](section/48.md)
+- PART 4 Age Assessments
+  - [s. 49 Interpretation of Part etc](section/49.md)
+  - [s. 50 Persons subject to immigration control: referral or assessment by local authority etc](section/50.md)
+  - [s. 51 Persons subject to immigration control: assessment for immigration purposes](section/51.md)
+  - [s. 52 Use of scientific methods in age assessments](section/52.md)
+  - [s. 53 Regulations about age assessments](section/53.md)
+  - [s. 54 Appeals relating to age assessments](section/54.md)
+  - [s. 55 Appeals relating to age assessments: supplementary](section/55.md)
+  - [s. 56 New information following age assessment or appeal](section/56.md)
+  - [s. 57 Civil legal services relating to age assessments](section/57.md)
+- PART 5 Modern Slavery
+  - [s. 58 Provision of information relating to being a victim of slavery or human trafficking](section/58.md)
+  - [s. 59 Late compliance with slavery or trafficking information notice: damage to credibility](section/59.md)
+  - [s. 60 Identification of potential victims of slavery or human trafficking](section/60.md)
+  - [s. 61 Identified potential victims of slavery or human trafficking: recovery period](section/61.md)
+  - [s. 62 No entitlement to additional recovery period etc](section/62.md)
+  - [s. 63 Identified potential victims etc: disqualification from protection](section/63.md)
+  - [s. 64 Identified potential victims etc in England and Wales: assistance and support](section/64.md)
+  - [s. 65 Leave to remain for victims of slavery or human trafficking](section/65.md)
+  - [s. 66 Civil legal services under section 9 of LASPO: add-on services in relation to the national referral mechanism](section/66.md)
+  - [s. 67 Civil legal services under section 10 of LASPO: add-on services in relation to national referral mechanism](section/67.md)
+  - [s. 68 Disapplication of retained EU law deriving from Trafficking Directive](section/68.md)
+  - [s. 69 Part 5: interpretation](section/69.md)
+- PART 6 Miscellaneous
+  - [s. 70 Visa penalty provision: general](section/70.md)
+  - [s. 71 Visa penalties for countries posing risk to international peace and security etc](section/71.md)
+  - [s. 72 Removals from the UK: visa penalties for uncooperative countries](section/72.md)
+  - [s. 73 Visa penalties under section 71: review and revocation](section/73.md)
+  - [s. 74 Visa penalties under section 72: review and revocation](section/74.md)
+  - [s. 75 Electronic travel authorisations](section/75.md)
+  - [s. 76 Liability of carriers](section/76.md)
+  - [s. 77 Special Immigration Appeals Commission](section/77.md)
+  - [s. 78 Counter-terrorism questioning of detained entrants away from place of arrival](section/78.md)
+  - [s. 79 References to justices of the peace in relation to Northern Ireland](section/79.md)
+  - [s. 80 Tribunal charging power in respect of wasted resources](section/80.md)
+  - [s. 81 Tribunal Procedure Rules to be made in respect of costs orders etc](section/81.md)
+  - [s. 82 Pre-consolidation amendments of immigration legislation](section/82.md)
+- PART 7 General
+  - [s. 83 Financial provision](section/83.md)
+  - [s. 84 Transitional and consequential provision](section/84.md)
+  - [s. 85 Regulations](section/85.md)
+  - [s. 86 Extent](section/86.md)
+  - [s. 87 Commencement](section/87.md)
+  - [s. 88 Short title](section/88.md)
+- SCHEDULE 1 Waiver of requirement of presence in UK etc
+  - [Sch. 1 para. 1 Amendments to the British Nationality Act 1981](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Amendments to the British Nationality Act 1981](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Amendments to the British Nationality Act 1981](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Consequential amendment](schedule/1/paragraph/4.md)
+- SCHEDULE 2 Deprivation of Citizenship without notice: judicial oversight
+- SCHEDULE 3 Expedited appeals where priority removal notice served: consequential amendments
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Removal of asylum seeker to safe country
+  - [Sch. 4 para. 1 Amendments to section 77 of the Nationality, Immigration and Asylum Act 2002](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Amendments to section 77 of the Nationality, Immigration and Asylum Act 2002](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Amendments to Schedule 3 to the Asylum and Immigration (Treatment of Claimants, etc) Act 2004: introductory](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4 Amendments consequential on amendments to section 77 of the 2002 Act](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5 Rebuttable presumption of safety of specified countries in relation to Convention rights](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6 Rebuttable presumption of safety of specified countries in relation to Convention rights](schedule/4/paragraph/6.md)
+  - [Sch. 4 para. 7 Safe countries](schedule/4/paragraph/7.md)
+  - [Sch. 4 para. 8 Safe countries](schedule/4/paragraph/8.md)
+  - [Sch. 4 para. 9 Safe countries](schedule/4/paragraph/9.md)
+  - [Sch. 4 para. 10 Safe countries](schedule/4/paragraph/10.md)
+  - [Sch. 4 para. 11 Appeal rights](schedule/4/paragraph/11.md)
+  - [Sch. 4 para. 12 Appeal rights](schedule/4/paragraph/12.md)
+  - [Sch. 4 para. 13 Appeal rights](schedule/4/paragraph/13.md)
+  - [Sch. 4 para. 14 Appeal rights](schedule/4/paragraph/14.md)
+  - [Sch. 4 para. 15 Appeal rights](schedule/4/paragraph/15.md)
+  - [Sch. 4 para. 16 Appeal rights](schedule/4/paragraph/16.md)
+  - [Sch. 4 para. 17 Appeal rights](schedule/4/paragraph/17.md)
+  - [Sch. 4 para. 18 Consequential amendments](schedule/4/paragraph/18.md)
+  - [Sch. 4 para. 19 Transitional provision](schedule/4/paragraph/19.md)
+- SCHEDULE 5 Penalty for failure to secure goods vehicle etc
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Working in United Kingdom waters: consequential and related amendments
+  - [Sch. 6 para. 1 Immigration Act 1971 (c. 77)](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Immigration Act 1971 (c. 77)](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Immigration Act 1971 (c. 77)](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Immigration Act 1971 (c. 77)](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5 Immigration Act 1971 (c. 77)](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6 Immigration Act 1971 (c. 77)](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7 Immigration Act 1971 (c. 77)](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8 Immigration Act 1971 (c. 77)](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9 Immigration Act 1971 (c. 77)](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10 Immigration Act 1971 (c. 77)](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11 Immigration, Asylum and Nationality Act 2006 (c. 13)](schedule/6/paragraph/11.md)
+- SCHEDULE 7 Maritime enforcement
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+- SCHEDULE 8 Prisoners returning to the UK: Modifications of Criminal Justice Act 2003
