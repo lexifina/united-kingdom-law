@@ -1,0 +1,877 @@
+# Coroners and Justice Act 2009
+
+2009 c. 25. Enacted 2009-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
+
+Source: https://www.legislation.gov.uk/ukpga/2009/25/2026-03-22
+
+## Contents
+
+- Part 1 Coroners etc
+  - Chapter 1 Investigations into deaths
+    - Duty to investigate
+      - [s. 1 Duty to investigate certain deaths](section/1.md)
+    - Investigation by other coroner
+      - [s. 2 Request for other coroner to conduct investigation](section/2.md)
+      - [s. 3 Direction for other coroner to conduct investigation](section/3.md)
+    - Discontinuance of investigation
+      - [s. 4 Discontinuance where cause of death becomes clear before inquest](section/4.md)
+    - Purpose of investigation
+      - [s. 5 Matters to be ascertained](section/5.md)
+    - Inquests
+      - [s. 6 Duty to hold inquest](section/6.md)
+      - [s. 7 Whether jury required](section/7.md)
+      - [s. 8 Assembling a jury](section/8.md)
+      - [s. 9 Determinations and findings by jury](section/9.md)
+      - [s. 9A Surrender of electronic communications devices by jurors](section/9A.md)
+      - [s. 9B Surrender of electronic communications devices: powers of search etc](section/9B.md)
+      - [s. 9C Inquests without jury to be conducted at hearing or in writing](section/9C.md)
+    - Outcome of investigation
+      - [s. 10 Determinations and findings to be made](section/10.md)
+    - Suspension
+      - [s. 11 Duty or power to suspend or resume investigations](section/11.md)
+    - Deaths related to the Northern Ireland Troubles
+      - [s. 11A Investigations and inquests into Troubles-related deaths](section/11A.md)
+    - Death of service personnel abroad
+      - [s. 12 Investigation in Scotland](section/12.md)
+      - [s. 13 Investigation in England and Wales despite body being brought to Scotland](section/13.md)
+    - Ancillary powers of coroners in relation to deaths
+      - [s. 14 Post-mortem examinations](section/14.md)
+      - [s. 15 Power to remove body](section/15.md)
+    - Miscellaneous
+      - [s. 16 Investigations lasting more than a year](section/16.md)
+      - [s. 17 Monitoring of and training for investigations into deaths of service personnel](section/17.md)
+  - Chapter 2 Notification, certification and registration of deaths
+    - [s. 18 Notification by medical practitioner to senior coroner](section/18.md)
+    - [s. 18A Medical examiners: England](section/18A.md)
+    - [s. 18B Medical examiners: Wales](section/18B.md)
+    - [s. 19 Medical examiners: supplementary](section/19.md)
+    - [s. 20 Medical certificate of cause of death](section/20.md)
+    - [s. 21 National Medical Examiner](section/21.md)
+  - Chapter 3 Coroner areas, appointments etc
+    - [s. 22 Coroner areas](section/22.md)
+    - [s. 23 Appointment etc of senior coroners, area coroners and assistant coroners](section/23.md)
+    - [s. 24 Provision of staff and accommodation](section/24.md)
+  - Chapter 4 Investigations concerning treasure
+    - [s. 25 Coroner for Treasure and Assistant Coroners for Treasure](section/25.md)
+    - [s. 26 Investigations concerning treasure](section/26.md)
+    - [s. 27 Inquests concerning treasure](section/27.md)
+    - [s. 28 Outcome of investigations concerning treasure](section/28.md)
+    - [s. 29 Exception to duty to investigate](section/29.md)
+    - [s. 30 Duty to notify Coroner for Treasure etc of acquisition of certain objects](section/30.md)
+    - [s. 31 Code of practice under the Treasure Act 1996](section/31.md)
+  - Chapter 5 Further provision to do with investigations and deaths
+    - [s. 32 Powers of coroners](section/32.md)
+    - [s. 33 Offences](section/33.md)
+    - [s. 34 Allowances, fees and expenses](section/34.md)
+  - Chapter 6 Governance etc
+    - [s. 35 Chief Coroner and Deputy Chief Coroners](section/35.md)
+    - [s. 36 Reports and advice to the Lord Chancellor from the Chief Coroner](section/36.md)
+    - [s. 37 Regulations about training](section/37.md)
+    - [s. 38 Medical Adviser and Deputy Medical Advisers to the Chief Coroner](section/38.md)
+    - [s. 39 Inspection of coroner system](section/39.md)
+    - [s. 40 Appeals to the Chief Coroner](section/40.md)
+    - [s. 41 Investigation by Chief Coroner or Coroner for Treasure or by judge, former judge or former coroner](section/41.md)
+    - [s. 42 Guidance by the Lord Chancellor](section/42.md)
+  - Chapter 7 Supplementary
+    - Regulations and rules
+      - [s. 43 Coroners regulations](section/43.md)
+      - [s. 44 Treasure regulations](section/44.md)
+      - [s. 45 Coroners rules](section/45.md)
+    - Coroner of the Queen’s household
+      - [s. 46 Abolition of the office of coroner of the Queen’s household](section/46.md)
+    - Interpretation
+      - [s. 47 “Interested person”](section/47.md)
+      - [s. 48 Interpretation: general](section/48.md)
+    - Northern Ireland and Scotland amendments
+      - [s. 49 Amendments to the Coroners Act (Northern Ireland) 1959](section/49.md)
+      - [s. 50 Amendments to the Fatal Accidents and Sudden Deaths Inquiry (Scotland) Act 1976](section/50.md)
+    - Amendments of Access to Justice Act 1999
+      - [s. 51 Public funding for advocacy at certain inquests](section/51.md)
+- Part 2 Criminal offences
+  - Chapter 1 Murder, infanticide and suicide
+    - Partial defence to murder: diminished responsibility
+      - [s. 52 Persons suffering from diminished responsibility (England and Wales)](section/52.md)
+      - [s. 53 Persons suffering from diminished responsibility (Northern Ireland)](section/53.md)
+    - Partial defence to murder: loss of control
+      - [s. 54 Partial defence to murder: loss of control](section/54.md)
+      - [s. 55 Meaning of “qualifying trigger”](section/55.md)
+      - [s. 56 Abolition of common law defence of provocation](section/56.md)
+    - Infanticide
+      - [s. 57 Infanticide (England and Wales)](section/57.md)
+      - [s. 58 Infanticide (Northern Ireland)](section/58.md)
+    - Suicide
+      - [s. 59 Encouraging or assisting suicide (England and Wales)](section/59.md)
+      - [s. 60 Encouraging or assisting suicide (Northern Ireland)](section/60.md)
+      - [s. 61 Encouraging or assisting suicide: information society services](section/61.md)
+  - Chapter 2 Images of children
+    - Prohibited images
+      - [s. 62 Possession of prohibited images of children](section/62.md)
+      - [s. 63 Exclusion of classified film etc](section/63.md)
+      - [s. 64 Defences](section/64.md)
+      - [s. 65 Meaning of “image” and “child”](section/65.md)
+      - [s. 66 Penalties](section/66.md)
+      - [s. 67 Entry, search, seizure and forfeiture](section/67.md)
+      - [s. 68 Special rules relating to providers of information society services](section/68.md)
+    - Indecent pseudo-photographs of children
+      - [s. 69 Indecent pseudo-photographs of children: marriage etc](section/69.md)
+  - Chapter 3 Other offences
+    - [s. 70 Genocide, crimes against humanity and war crimes](section/70.md)
+    - [s. 71 Slavery, servitude and forced or compulsory labour](section/71.md)
+    - [s. 72 Conspiracy](section/72.md)
+    - [s. 73 Abolition of common law libel offences etc](section/73.md)
+- Part 3 Criminal evidence, investigations and procedure
+  - Chapter 1 Anonymity in investigations
+    - [s. 74 Qualifying offences](section/74.md)
+    - [s. 75 Qualifying criminal investigations](section/75.md)
+    - [s. 76 Investigation anonymity orders](section/76.md)
+    - [s. 77 Applications](section/77.md)
+    - [s. 78 Conditions for making order](section/78.md)
+    - [s. 79 Appeal against refusal of order](section/79.md)
+    - [s. 80 Discharge of order](section/80.md)
+    - [s. 81 Delegation of functions](section/81.md)
+    - [s. 82 Public interest immunity](section/82.md)
+    - [s. 83 Review](section/83.md)
+    - [s. 84 Application to armed forces](section/84.md)
+    - [s. 85 Interpretation of this Chapter](section/85.md)
+  - Chapter 2 Anonymity of witnesses
+    - Witness anonymity orders
+      - [s. 86 Witness anonymity orders](section/86.md)
+      - [s. 87 Applications](section/87.md)
+      - [s. 88 Conditions for making order](section/88.md)
+      - [s. 89 Relevant considerations](section/89.md)
+      - [s. 90 Warning to jury](section/90.md)
+    - Discharge and variation
+      - [s. 91 Discharge or variation of order](section/91.md)
+      - [s. 92 Discharge or variation after proceedings](section/92.md)
+      - [s. 93 Discharge or variation by appeal court](section/93.md)
+    - Service courts
+      - [s. 94 Special provisions for service courts](section/94.md)
+    - Public interest immunity
+      - [s. 95 Public interest immunity](section/95.md)
+    - The Criminal Evidence (Witness Anonymity) Act 2008
+      - [s. 96 Power to make orders under the 2008 Act](section/96.md)
+    - Interpretation
+      - [s. 97 Interpretation of this Chapter](section/97.md)
+  - Chapter 3 Vulnerable and intimidated witnesses
+    - Special measures for vulnerable and intimidated witnesses
+      - [s. 98 Eligibility for special measures: age of child witnesses](section/98.md)
+      - [s. 99 Eligibility for special measures: offences involving weapons](section/99.md)
+      - [s. 100 Special measures directions for child witnesses](section/100.md)
+      - [s. 101 Special provisions relating to sexual offences](section/101.md)
+      - [s. 102 Evidence by live link: presence of supporter](section/102.md)
+      - [s. 103 Video recorded evidence in chief: supplementary testimony](section/103.md)
+    - Evidence of certain accused persons
+      - [s. 104 Examination of accused through intermediary](section/104.md)
+    - Witnesses protected from cross-examination by accused in person
+      - [s. 105 Age of child complainant](section/105.md)
+  - Chapter 4 Live links
+    - [s. 106 Directions to attend through live link](section/106.md)
+    - [s. 107 Answering to live link bail](section/107.md)
+    - [s. 108 Searches of persons answering to live link bail](section/108.md)
+    - [s. 109 Use of live link in certain enforcement hearings](section/109.md)
+    - [s. 110 Direction of registrar for appeal hearing by live link](section/110.md)
+  - Chapter 5 Miscellaneous
+    - Evidence by video recording
+      - [s. 111 Effect of admission of video recording](section/111.md)
+    - Evidence of previous complaints
+      - [s. 112 Admissibility of evidence of previous complaints](section/112.md)
+    - Immunity etc
+      - [s. 113 Powers in respect of offenders who assist investigations and prosecutions](section/113.md)
+    - Bail
+      - [s. 114 Bail: risk of committing an offence causing injury](section/114.md)
+      - [s. 115 Bail decisions in murder cases to be made by Crown Court judge](section/115.md)
+    - Unsigned indictments
+      - [s. 116 Indictment of offenders](section/116.md)
+    - Detention of terrorist suspects
+      - [s. 117 Detention of persons under section 41 of the Terrorism Act 2000](section/117.md)
+- Part 4 Sentencing
+  - Chapter 1 Sentencing Council for England and Wales
+    - Sentencing Council for England and Wales
+      - [s. 118 Sentencing Council for England and Wales](section/118.md)
+      - [s. 118A Business plan](section/118A.md)
+      - [s. 119 Annual report](section/119.md)
+    - Guidelines
+      - [s. 120 Sentencing guidelines](section/120.md)
+      - [s. 121 Sentencing ranges](section/121.md)
+      - [s. 122 Allocation guidelines](section/122.md)
+      - [s. 123 Preparation or revision of guidelines in urgent cases](section/123.md)
+      - [s. 124 Proposals by Lord Chancellor or Court of Appeal](section/124.md)
+    - Duties of the court
+      - [s. 125 Sentencing guidelines: duty of court](section/125.md)
+      - [s. 126 Determination of tariffs etc](section/126.md)
+    - Other functions of the Council
+      - [s. 127 Resource implications of guidelines](section/127.md)
+      - [s. 128 Monitoring](section/128.md)
+      - [s. 129 Promoting awareness](section/129.md)
+      - [s. 130 Resources: effect of sentencing practice](section/130.md)
+      - [s. 131 Resources: effect of factors not related to sentencing](section/131.md)
+      - [s. 132 Duty to assess impact of policy and legislative proposals](section/132.md)
+    - Lord Chancellor’s functions
+      - [s. 133 Assistance by the Lord Chancellor](section/133.md)
+      - [s. 134 Entrenchment of Lord Chancellor’s functions](section/134.md)
+    - Miscellaneous and general
+      - [s. 135 Abolition of existing sentencing bodies](section/135.md)
+      - [s. 136 Interpretation of this Chapter](section/136.md)
+  - Chapter 2 Other provisions relating to sentencing
+    - Driving disqualification
+      - [s. 137 Extension of driving disqualification](section/137.md)
+    - Dangerous offenders
+      - [s. 138 Dangerous offenders: terrorism offences (England and Wales)](section/138.md)
+      - [s. 139 Dangerous offenders: terrorism offences (Northern Ireland)](section/139.md)
+    - Confiscation orders
+      - [s. 140 Appeals against certain confiscation orders (England and Wales)](section/140.md)
+      - [s. 141 Appeals against certain confiscation orders (Northern Ireland)](section/141.md)
+- Part 5 Miscellaneous criminal justice provisions
+  - [s. 142 Commissioner for Victims and Witnesses](section/142.md)
+  - [s. 143 Implementation of E-Commerce and Services directives: penalties](section/143.md)
+  - [s. 144 Treatment of convictions in other member States etc](section/144.md)
+  - [s. 145 Transfer to Parole Board of functions under the Criminal Justice Act 1991](section/145.md)
+  - [s. 146 Retention of knives surrendered or seized (England and Wales)](section/146.md)
+  - [s. 147 Retention of knives surrendered or seized (Northern Ireland)](section/147.md)
+  - [s. 148 Security in tribunal buildings](section/148.md)
+- Part 6 Legal aid and other payments for legal services
+  - Community Legal Service
+    - [s. 149 Community Legal Service: pilot schemes](section/149.md)
+    - [s. 150 Excluded services: help in connection with business matters](section/150.md)
+  - Criminal Defence Service
+    - [s. 151 Criminal Defence Service: information requests](section/151.md)
+    - [s. 152 Criminal Defence Service: enforcement of order to pay cost of representation](section/152.md)
+  - General
+    - [s. 153 Statutory instruments relating to the Legal Services Commission](section/153.md)
+  - Regulation of certain agreements
+    - [s. 154 Damages-based agreements relating to employment matters](section/154.md)
+- Part 7 Criminal memoirs etc
+  - Exploitation proceeds orders
+    - [s. 155 Exploitation proceeds orders](section/155.md)
+    - [s. 156 Qualifying offenders](section/156.md)
+    - [s. 157 Qualifying offenders: service offences](section/157.md)
+    - [s. 158 Qualifying offenders: supplementary](section/158.md)
+    - [s. 159 Relevant offences](section/159.md)
+    - [s. 160 Deriving a benefit](section/160.md)
+    - [s. 161 Applications](section/161.md)
+  - Exercise of power to make orders
+    - [s. 162 Determination of applications](section/162.md)
+    - [s. 163 Limits on recoverable amount](section/163.md)
+    - [s. 164 The available amount](section/164.md)
+    - [s. 165 Property](section/165.md)
+  - Additional powers
+    - [s. 166 Effect of conviction being quashed etc](section/166.md)
+    - [s. 167 Powers of court on repeat applications](section/167.md)
+    - [s. 168 Additional proceeds reporting orders](section/168.md)
+  - Investigations
+    - [s. 169 Exploitation proceeds investigations](section/169.md)
+    - [s. 170 Functions of Serious Organised Crime Agency](section/170.md)
+  - Limitation
+    - [s. 171 Limitation](section/171.md)
+  - Interpretation
+    - [s. 172 Interpretation of this Part](section/172.md)
+- Part 8 Data Protection Act 1998
+  - [s. 173 Assessment notices](section/173.md)
+  - [s. 174 Data-sharing code of practice](section/174.md)
+  - [s. 175 Further amendments of the Data Protection Act 1998 (c. 29)](section/175.md)
+- Part 9 General
+  - [s. 176 Orders, regulations and rules](section/176.md)
+  - [s. 177 Consequential etc amendments and transitional and saving provisions](section/177.md)
+  - [s. 178 Repeals](section/178.md)
+  - [s. 179 Financial provision](section/179.md)
+  - [s. 180 Effect of amendments to provisions applied for purposes of service law](section/180.md)
+  - [s. 181 Extent](section/181.md)
+  - [s. 182 Commencement](section/182.md)
+  - [s. 183 Short title](section/183.md)
+- Schedule 1 Duty or power to suspend or resume investigations
+  - Part 1 Suspension of investigations
+    - Suspension where certain criminal charges may be brought
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Suspension where certain criminal proceedings are brought
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Suspension pending inquiry under Inquiries Act 2005
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - General power to suspend
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Effect of suspension
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part 2 Resumption of investigations
+    - Resumption of investigation suspended under paragraph 1
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Resumption of investigation suspended under paragraph 2
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Resumption of investigation suspended under paragraph 3
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Resumption of investigation suspended under paragraph 5
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Supplemental
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 1A Investigations and inquests into Troubles-related deaths
+  - [Sch. 1A para. 1 Obligatory discontinuance of existing investigations and inquests](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 New investigations and inquests](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Interpretation](schedule/1A/paragraph/3.md)
+- Schedule 2 Coroner areas
+  - Coroner areas
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Alteration of coroner areas
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Relevant authorities
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Effect of body being outside coroner area etc
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- Schedule 3 Appointment etc of senior coroners, area coroners and assistant coroners
+  - Part 1 Appointment of senior, area and assistant coroners
+    - Appointment of senior coroners
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Appointment of area and assistant coroners
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Part 2 Qualifications of senior, area and assistant coroners
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Part 3 Vacancies; functions of area and assistant coroners
+    - Filling of vacancies
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Person to act as senior coroner in case of vacancy
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Functions of area and assistant coroners
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Part 4 Terms of office of senior, area and assistant coroners
+    - Status of office
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Vacation or termination of office
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Discipline
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Salary of senior and area coroners
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Fees payable to assistants
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Pensions for senior and area coroners
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Prohibition on receipt of fees etc
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Other terms of office
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+- Schedule 4 Coroner for Treasure and Assistant Coroners for Treasure
+  - Part 1 Appointment, qualifications and terms of office of Coroner for Treasure
+    - Appointment
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Qualifications
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Vacation or termination of office
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Remuneration, allowances and expenses
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Part 2 Designation and remuneration of Assistant Coroners for Treasure
+    - Designation
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Remuneration, allowances and expenses
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Part 3 Miscellaneous
+    - Functions of Assistant Coroners for Treasure
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Staff
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- Schedule 5 Powers of coroners
+  - Power to require evidence to be given or produced
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Power of entry, search and seizure
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Exhumation of body for examination
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Action to prevent other deaths
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- Schedule 6 Offences
+  - Part 1 Offences relating to jurors
+    - Serving while disqualified, failure to attend etc
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Research by jurors
+      - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+    - Sharing research with other jurors
+      - [Sch. 6 para. 5B](schedule/6/paragraph/5B.md)
+    - Jurors engaging in other prohibited conduct
+      - [Sch. 6 para. 5C](schedule/6/paragraph/5C.md)
+  - Part 1A Offence relating to jury’s deliberations
+    - [Sch. 6 para. 5D Offence](schedule/6/paragraph/5D.md)
+    - [Sch. 6 para. 5E Initial exceptions](schedule/6/paragraph/5E.md)
+    - [Sch. 6 para. 5F Further exceptions](schedule/6/paragraph/5F.md)
+    - [Sch. 6 para. 5G Exceptions for soliciting disclosures or obtaining information](schedule/6/paragraph/5G.md)
+  - Part 2 Offences relating to witnesses and evidence
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Part 3 Miscellaneous
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- Schedule 7 Allowances, fees and expenses
+  - Part 1 Allowances payable to jurors
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Part 2 Allowances payable to witnesses
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Part 3 Miscellaneous fees, allowances and expenses
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Part 4 Meeting or reimbursing expenses
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part 5 Supplemental
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+- Schedule 8 Chief Coroner and Deputy Chief Coroners
+  - Appointment of Chief Coroner
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Appointment of Deputy Chief Coroners
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Resignation or removal
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Remuneration, allowances and expenses
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Exercise of Chief Coroner’s functions by Deputy Chief coroner
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Staff
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+- Schedule 9 Medical adviser and Deputy medical advisers to the Chief Coroner
+  - Appointment and functions of Medical Adviser to the Chief Coroner
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Appointment and functions of Deputy Medical Advisers to the Chief Coroner
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Qualification for appointment
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Consultation before making appointment
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Terms and conditions of appointment
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Remuneration, allowances and expenses
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- Schedule 10 Investigation by Chief Coroner or Coroner for Treasure or by judge, former judge or former coroner
+  - Investigation by Chief Coroner
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Investigation by Coroner for Treasure
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Investigation by judge, former judge or former coroner
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Appeals
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Investigations already begun
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- Schedule 11 Amendments to the Coroners Act (Northern Ireland) 1959
+  - Witnesses and evidence
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+- Schedule 12 Encouraging or assisting suicide: providers of information society services
+  - Domestic service providers: extension of liability
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Exceptions for mere conduits
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Exception for caching
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Exception for hosting
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Interpretation
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+- Schedule 13 Prohibited images: providers of information society services
+  - Domestic service providers: extension of liability
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Non-UK service providers: restriction on institution of proceedings
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Exceptions for mere conduits
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Exception for caching
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Exception for hosting
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - Interpretation
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+- Schedule 14 Schedule 1A to the Youth Justice and Criminal Evidence Act 1999
+- Schedule 15 The Sentencing Council for England and Wales
+  - Constitution of the Council
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Appointment of a person to chair the Council etc
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Appointment of judicial members
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Appointment of non-judicial members
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - President of the Council
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Lord Chancellor’s representative
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Terms of appointment
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Vacancies etc
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Remuneration etc
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Interpretation
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+- Schedule 16 Extension of disqualification for driving
+  - Criminal Justice (Northern Ireland) Order 1980 (S.I. 1980/704 (N.I. 6))
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Road Traffic Offenders Act 1988 (c. 53)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I. 10))
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+- Schedule 17 Treatment of convictions in other member States etc
+  - Evidence of bad character
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Bail
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Decision as to allocation
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Seriousness
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - Availability of community orders
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - Required custodial sentences for certain offences
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - Restriction on imposing custodial sentence or service detention
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+  - Young offenders: referral conditions
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - Proving of foreign convictions before courts in England and Wales
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - Proving of foreign convictions before courts in Northern Ireland
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+- Schedule 18 Motor vehicle orders
+- Schedule 19 Exploitation proceeds investigations
+  - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+  - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+  - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+  - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+  - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+  - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+  - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+  - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+  - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+- Schedule 20 Amendments of the Data Protection Act 1998 (c. 29)
+  - Part 1 Data controllers’ registration
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Part 2 Assessment notices
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Part 3 Powers to require information
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+  - Part 4 Restriction on use of information
+    - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+  - Part 5 Monetary penalties: restriction on matters to be taken into account
+    - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+  - Part 6 Warrant for entry and inspection
+    - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+- Schedule 21 Minor and consequential amendments
+  - Part 1 Coroners etc
+    - Cremation Act 1902 (c. 8)
+      - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+    - Births and Deaths Registration Act 1926 (c. 48)
+      - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+      - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+      - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - Visiting Forces Act 1952 (c. 67)
+      - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - Births and Deaths Registration Act 1953 (c. 20)
+      - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+      - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+      - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+      - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+      - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+      - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+      - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+      - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+      - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+      - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+      - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+      - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+      - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+      - [Sch. 21 para. 19](schedule/21/paragraph/19.md)
+      - [Sch. 21 para. 20](schedule/21/paragraph/20.md)
+      - [Sch. 21 para. 21](schedule/21/paragraph/21.md)
+    - Courts Act 1971 (c. 23)
+      - [Sch. 21 para. 22](schedule/21/paragraph/22.md)
+    - Pensions (Increase) Act 1971 (c. 56)
+      - [Sch. 21 para. 23](schedule/21/paragraph/23.md)
+    - Juries Act 1974 (c. 23)
+      - [Sch. 21 para. 24](schedule/21/paragraph/24.md)
+    - Health and Safety at Work etc. Act 1974 (c. 37)
+      - [Sch. 21 para. 25](schedule/21/paragraph/25.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 21 para. 26](schedule/21/paragraph/26.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 21 para. 27](schedule/21/paragraph/27.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 21 para. 28](schedule/21/paragraph/28.md)
+    - Access to Health Records Act 1990 (c. 23)
+      - [Sch. 21 para. 29](schedule/21/paragraph/29.md)
+    - Courts and Legal Services Act 1990 (c. 41)
+      - [Sch. 21 para. 30](schedule/21/paragraph/30.md)
+    - Judicial Pensions and Retirement Act 1993 (c. 8)
+      - [Sch. 21 para. 31](schedule/21/paragraph/31.md)
+    - Merchant Shipping Act 1995 (c. 21)
+      - [Sch. 21 para. 32](schedule/21/paragraph/32.md)
+      - [Sch. 21 para. 33](schedule/21/paragraph/33.md)
+      - [Sch. 21 para. 34](schedule/21/paragraph/34.md)
+      - [Sch. 21 para. 35](schedule/21/paragraph/35.md)
+    - Employment Rights Act 1996 (c. 18)
+      - [Sch. 21 para. 36](schedule/21/paragraph/36.md)
+    - Treasure Act 1996 (c. 24)
+      - [Sch. 21 para. 37](schedule/21/paragraph/37.md)
+      - [Sch. 21 para. 38](schedule/21/paragraph/38.md)
+      - [Sch. 21 para. 39](schedule/21/paragraph/39.md)
+      - [Sch. 21 para. 40](schedule/21/paragraph/40.md)
+      - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
+      - [Sch. 21 para. 42](schedule/21/paragraph/42.md)
+    - Northern Ireland (Location of Victims’ Remains) Act 1999 (c. 7)
+      - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 21 para. 44](schedule/21/paragraph/44.md)
+    - International Criminal Court Act 2001 (c. 17)
+      - [Sch. 21 para. 45](schedule/21/paragraph/45.md)
+    - Courts Act 2003 (c. 39)
+      - [Sch. 21 para. 46](schedule/21/paragraph/46.md)
+    - Human Tissue Act 2004 (c. 30)
+      - [Sch. 21 para. 47](schedule/21/paragraph/47.md)
+      - [Sch. 21 para. 48](schedule/21/paragraph/48.md)
+      - [Sch. 21 para. 49](schedule/21/paragraph/49.md)
+      - [Sch. 21 para. 50](schedule/21/paragraph/50.md)
+    - Constitutional Reform Act 2005 (c. 4)
+      - [Sch. 21 para. 51](schedule/21/paragraph/51.md)
+  - Part 2 Murder and suicide
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 21 para. 52](schedule/21/paragraph/52.md)
+    - Children and Young Persons Act 1933 (c. 12)
+      - [Sch. 21 para. 53](schedule/21/paragraph/53.md)
+    - Visiting Forces Act 1952 (c. 67)
+      - [Sch. 21 para. 54](schedule/21/paragraph/54.md)
+    - Suicide Act 1961 (c. 60)
+      - [Sch. 21 para. 55](schedule/21/paragraph/55.md)
+    - Criminal Justice Act (Northern Ireland) 1966 (c. 20)
+      - [Sch. 21 para. 56](schedule/21/paragraph/56.md)
+    - Children and Young Persons Act (Northern Ireland) 1968 (c. 34)
+      - [Sch. 21 para. 57](schedule/21/paragraph/57.md)
+    - Criminal Attempts Act 1981 (c. 47)
+      - [Sch. 21 para. 58](schedule/21/paragraph/58.md)
+    - Criminal Attempts and Conspiracy (Northern Ireland) Order 1983 (S.I. 1983/1120 (N.I. 13))
+      - [Sch. 21 para. 59](schedule/21/paragraph/59.md)
+    - Law Reform (Year and a Day Rule) Act 1996 (c. 19)
+      - [Sch. 21 para. 60](schedule/21/paragraph/60.md)
+    - Serious Crime Act 2007 (c. 27)
+      - [Sch. 21 para. 61](schedule/21/paragraph/61.md)
+  - Part 3 Prohibited images of children
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 21 para. 62](schedule/21/paragraph/62.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 21 para. 63](schedule/21/paragraph/63.md)
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 21 para. 64](schedule/21/paragraph/64.md)
+  - Part 4 Abolition of common law libel offences etc
+    - Criminal Libel Act 1819 (60 Geo. 3 & 1 Geo. 4 c. 8)
+      - [Sch. 21 para. 65](schedule/21/paragraph/65.md)
+    - Libel Act 1843 (c. 96)
+      - [Sch. 21 para. 66](schedule/21/paragraph/66.md)
+    - Newspaper Libel and Registration Act 1881 (c. 60)
+      - [Sch. 21 para. 67](schedule/21/paragraph/67.md)
+    - Law of Libel Amendment Act 1888 (c. 64)
+      - [Sch. 21 para. 68](schedule/21/paragraph/68.md)
+  - Part 5 Witness anonymity orders
+    - Criminal Appeal Act 1968 (c. 19)
+      - [Sch. 21 para. 69](schedule/21/paragraph/69.md)
+    - Court Martial Appeals Act 1968 (c. 20)
+      - [Sch. 21 para. 70](schedule/21/paragraph/70.md)
+    - Criminal Appeal (Northern Ireland) Act 1980 (c. 47)
+      - [Sch. 21 para. 71](schedule/21/paragraph/71.md)
+  - Part 6 Vulnerable and intimidated witnesses
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 21 para. 72](schedule/21/paragraph/72.md)
+    - Youth Justice and Criminal Evidence Act 1999 (c. 23)
+      - [Sch. 21 para. 73](schedule/21/paragraph/73.md)
+  - Part 7 Bail
+    - Bail Act 1976 (c. 63)
+      - [Sch. 21 para. 74](schedule/21/paragraph/74.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 21 para. 75](schedule/21/paragraph/75.md)
+    - Supreme Court Act 1981 (c. 54)
+      - [Sch. 21 para. 76](schedule/21/paragraph/76.md)
+    - Police and Criminal Evidence Act 1984 (c. 60)
+      - [Sch. 21 para. 77](schedule/21/paragraph/77.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 21 para. 78](schedule/21/paragraph/78.md)
+  - Part 8 Sentencing Council for England and Wales
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 21 para. 79](schedule/21/paragraph/79.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 21 para. 80](schedule/21/paragraph/80.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 21 para. 81](schedule/21/paragraph/81.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 21 para. 82](schedule/21/paragraph/82.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 21 para. 83](schedule/21/paragraph/83.md)
+      - [Sch. 21 para. 84](schedule/21/paragraph/84.md)
+      - [Sch. 21 para. 85](schedule/21/paragraph/85.md)
+      - [Sch. 21 para. 86](schedule/21/paragraph/86.md)
+      - [Sch. 21 para. 87](schedule/21/paragraph/87.md)
+      - [Sch. 21 para. 88](schedule/21/paragraph/88.md)
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 21 para. 89](schedule/21/paragraph/89.md)
+  - Part 9 Disqualification for driving
+    - Road Traffic Offenders Act 1988 (c. 53)
+      - [Sch. 21 para. 90](schedule/21/paragraph/90.md)
+    - Criminal Procedure (Scotland) Act 1995 (c. 46)
+      - [Sch. 21 para. 91](schedule/21/paragraph/91.md)
+    - Road Traffic Offenders (Northern Ireland) Order 1996 (S.I. 1996/1320 (N.I. 10))
+      - [Sch. 21 para. 92](schedule/21/paragraph/92.md)
+    - Crime (International Co-operation) Act 2003 (c. 32)
+      - [Sch. 21 para. 93](schedule/21/paragraph/93.md)
+  - Part 10 Miscellaneous
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 21 para. 94](schedule/21/paragraph/94.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 21 para. 95](schedule/21/paragraph/95.md)
+    - Animal Welfare Act 2006 (c. 45)
+      - [Sch. 21 para. 96](schedule/21/paragraph/96.md)
+    - Legal Services Act 2007 (c. 29)
+      - [Sch. 21 para. 97](schedule/21/paragraph/97.md)
+    - Criminal Justice and Immigration Act 2008 (c. 4)
+      - [Sch. 21 para. 98](schedule/21/paragraph/98.md)
+- Schedule 22 Transitional, transitory and saving provisions
+  - Part 1 Coroners etc
+    - Coroner areas
+      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+      - [Sch. 22 para. 1A](schedule/22/paragraph/1A.md)
+    - Relevant authorities
+      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - Senior and assistant coroners
+      - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - Coroner for Treasure
+      - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+    - Investigation by former coroner
+      - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - Interpretation
+      - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+  - Part 2 Criminal offences
+    - Commencement of Chapter 1 of Part 2
+      - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+    - Suicide
+      - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+      - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+      - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+      - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - Prohibited images of children
+      - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+    - Slavery, servitude and forced or compulsory labour
+      - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+  - Part 3 Criminal evidence, investigations and procedure
+    - Anonymity in investigations
+      - [Sch. 22 para. 14](schedule/22/paragraph/14.md)
+      - [Sch. 22 para. 15](schedule/22/paragraph/15.md)
+    - Anonymity of witnesses
+      - [Sch. 22 para. 16](schedule/22/paragraph/16.md)
+      - [Sch. 22 para. 17](schedule/22/paragraph/17.md)
+      - [Sch. 22 para. 18](schedule/22/paragraph/18.md)
+      - [Sch. 22 para. 19](schedule/22/paragraph/19.md)
+      - [Sch. 22 para. 20](schedule/22/paragraph/20.md)
+      - [Sch. 22 para. 21](schedule/22/paragraph/21.md)
+      - [Sch. 22 para. 22](schedule/22/paragraph/22.md)
+    - Vulnerable and intimidated witnesses
+      - [Sch. 22 para. 23](schedule/22/paragraph/23.md)
+      - [Sch. 22 para. 24](schedule/22/paragraph/24.md)
+    - Evidence of previous complaint
+      - [Sch. 22 para. 25](schedule/22/paragraph/25.md)
+    - Indictment of offenders
+      - [Sch. 22 para. 26](schedule/22/paragraph/26.md)
+  - Part 4 Sentencing
+    - Sentencing Council for England and Wales
+      - [Sch. 22 para. 27](schedule/22/paragraph/27.md)
+      - [Sch. 22 para. 28](schedule/22/paragraph/28.md)
+    - Driving disqualification
+      - [Sch. 22 para. 29](schedule/22/paragraph/29.md)
+      - [Sch. 22 para. 30](schedule/22/paragraph/30.md)
+      - [Sch. 22 para. 31](schedule/22/paragraph/31.md)
+      - [Sch. 22 para. 32](schedule/22/paragraph/32.md)
+      - [Sch. 22 para. 33](schedule/22/paragraph/33.md)
+      - [Sch. 22 para. 34](schedule/22/paragraph/34.md)
+      - [Sch. 22 para. 35](schedule/22/paragraph/35.md)
+      - [Sch. 22 para. 36](schedule/22/paragraph/36.md)
+    - Dangerous offenders
+      - [Sch. 22 para. 37](schedule/22/paragraph/37.md)
+      - [Sch. 22 para. 38](schedule/22/paragraph/38.md)
+    - Confiscation orders
+      - [Sch. 22 para. 39](schedule/22/paragraph/39.md)
+  - Part 5 Miscellaneous
+    - Treatment of convictions in other member States etc
+      - [Sch. 22 para. 40](schedule/22/paragraph/40.md)
+      - [Sch. 22 para. 41](schedule/22/paragraph/41.md)
+      - [Sch. 22 para. 42](schedule/22/paragraph/42.md)
+    - Transfer of functions to Parole Board
+      - [Sch. 22 para. 43](schedule/22/paragraph/43.md)
+    - Knives in court buildings etc
+      - [Sch. 22 para. 44](schedule/22/paragraph/44.md)
+    - Criminal memoirs etc
+      - [Sch. 22 para. 45](schedule/22/paragraph/45.md)
+    - Assessment notices
+      - [Sch. 22 para. 46](schedule/22/paragraph/46.md)
+    - Assessment of dangerousness and service offences
+      - [Sch. 22 para. 47](schedule/22/paragraph/47.md)
+- Schedule 23 Repeals
+  - Part 1 Coroners etc
+  - Part 2 Criminal offences
+  - Part 3 Criminal evidence and procedure
+  - Part 4 Sentencing
+  - Part 5 Miscellaneous criminal justice provisions
+  - Part 6 Legal aid
+  - Part 7 Criminal memoirs etc
+  - Part 8 Data Protection Act 1998
+  - Part 9 Miscellaneous
