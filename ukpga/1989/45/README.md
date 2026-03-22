@@ -1,0 +1,132 @@
+# Prisons (Scotland) Act 1989
+
+1989 c. 45. Enacted 1989-11-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-22, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/45
+
+Source: https://www.legislation.gov.uk/ukpga/1989/45/2026-03-22
+
+## Contents
+
+- Central administration
+  - [s. 1 General control over prisons in Scotland.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 General superintendence of prisons.](section/3.md)
+  - [s. 3A Medical officers for prisons](section/3A.md)
+  - [s. 4 General duties in relation to prisons.](section/4.md)
+  - [s. 5 Report to Parliament.](section/5.md)
+  - [s. 6 Annual return of punishments.](section/6.md)
+  - [s. 6A Purpose of inspection and monitoring of prisons](section/6A.md)
+  - [s. 7 Appointment and functions of Her Majesty’s Chief Inspector of Prisons for Scotland.](section/7.md)
+  - [s. 7A Appointment of prison monitoring co-ordinators](section/7A.md)
+  - [s. 7B The functions of prison monitoring co-ordinators](section/7B.md)
+  - [s. 7C Appointment of independent prison monitors](section/7C.md)
+  - [s. 7D The functions of independent prison monitors](section/7D.md)
+  - [s. 7E Duty of the governor to assist with inspection and monitoring](section/7E.md)
+  - [s. 7F Prison monitoring advisory group](section/7F.md)
+  - [s. 7G SPT visits](section/7G.md)
+  - [s. 8 Visiting committees.](section/8.md)
+  - [s. 9 Appointment of prison ministers.](section/9.md)
+- Confinement and treatment of prisoners
+  - [s. 10 Place of confinement of prisoners.](section/10.md)
+  - [s. 11 Removal of prisoners for judicial and other purposes.](section/11.md)
+  - [s. 12 Photographing and measuring of prisoners.](section/12.md)
+  - [s. 13 Legal custody of prisoner.](section/13.md)
+  - [s. 14 Legalised police cells.](section/14.md)
+  - [s. 15 Right of sheriff or justice to visit prison.](section/15.md)
+- Discharge of prisoners
+  - [s. 16 Discharge of prisoners.](section/16.md)
+  - [s. 17 Allowances to prisoner on discharge.](section/17.md)
+  - [s. 18 ................................](section/18.md)
+- Detention and transfer of young offenders
+  - [s. 19 Young offenders institutions.](section/19.md)
+  - [s. 20 Temporary detention of persons liable to detention in young offenders institution ....](section/20.md)
+  - [s. 20A Transfer of young offenders to prison ....](section/20A.md)
+  - [s. 21 Transfer to prison of persons over 21, and maximum age for detention in young offenders institution.](section/21.md)
+- Release on licence, etc.
+  - [s. 22 ................................](section/22.md)
+  - [s. 22A Suspension of licence conditions](section/22A.md)
+  - [s. 23 ................................](section/23.md)
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 ................................](section/25.md)
+  - [s. 26 ................................](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+- Supervision after release
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 ................................](section/31.md)
+  - [s. 32 ................................](section/32.md)
+- Remaining unlawfully at large
+  - [s. 32A Offence where unlawfully at large](section/32A.md)
+  - [s. 32B Certification of being unlawfully at large](section/32B.md)
+  - [s. 32C Meaning of remaining unlawfully at large](section/32C.md)
+  - [s. 32D Definition of associated expressions](section/32D.md)
+- Miscellaneous
+  - [s. 33 ................................](section/33.md)
+  - [s. 33A Power of governor to delegate functions.](section/33A.md)
+  - [s. 34 Notification of and inquiry into death of prisoner.](section/34.md)
+  - [s. 35 Return of warrants for or sentences of imprisonment.](section/35.md)
+  - [s. 36 Legal estate in prison.](section/36.md)
+  - [s. 37 Discontinuance of prison.](section/37.md)
+  - [s. 38 Acquisition of land for prisons.](section/38.md)
+  - [s. 39 Rules for the management of prisons and other institutions.](section/39.md)
+  - [s. 40 Arrest of and rules for absent prisoners](section/40.md)
+  - [s. 40A Warrants for arrest of escaped prisoners.](section/40A.md)
+  - [s. 40B Temporary detention of person being returned to prison in England and Wales etc.](section/40B.md)
+  - [s. 41 Unlawful introduction of tobacco, etc., into prison.](section/41.md)
+  - [s. 41A Powers of search by authorised employees.](section/41A.md)
+  - [s. 41B Testing prisoners for drugs.](section/41B.md)
+  - [s. 41C Testing of prisoners for alcohol.](section/41C.md)
+  - [s. 41D Unlawful disclosure of information by medical officer.](section/41D.md)
+  - [s. 41ZA Further provision for communication devices](section/41ZA.md)
+  - [s. 41ZB Exceptions as to communication devices](section/41ZB.md)
+  - [s. 42 Exercise of power to make rules, etc.](section/42.md)
+  - [s. 43 Interpretation.](section/43.md)
+  - [s. 44 Expenses.](section/44.md)
+  - [s. 45 Amendments and repeals.](section/45.md)
+  - [s. 46 Short title, commencement and extent.](section/46.md)
+- SCHEDULE 1
+  - The Parole Board
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Local review committees
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Amendment of enactments
+  - Children and Young Persons (Scotland) Act 1937
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Army Act 1955
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Air Force Act 1955
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Naval Discipline Act 1957
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Criminal Justice Act 1961
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Criminal Justice (Scotland) Act 1963
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Criminal Justice Act 1967
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Courts-Martial (Appeals) Act 1968
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Criminal Procedure (Scotland) Act 1975
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Law Reform (Miscellaneous Provisions) (Scotland) Act 1980
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Contempt of Court Act 1981
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Mental Health (Scotland) Act 1984
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+- SCHEDULE 3 Repeals
