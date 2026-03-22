@@ -2,9 +2,9 @@
 
 2026 c. 1. Enacted 2026-01-22.
 
-The files here are the Act as enacted, one file per provision. This is the oldest version in this history; later versions follow it.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-22, one file per provision. Earlier versions, from 2026-01-22, are in the history before it: `git log -- ukpga/2026/1` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2026/1/enacted
+Source: https://www.legislation.gov.uk/ukpga/2026/1/2026-03-22
 
 ## Contents
 
