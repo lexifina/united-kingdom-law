@@ -2,9 +2,9 @@
 
 2020 c. 17. Enacted 2020-10-22.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-02-06, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-22, one file per provision. Earlier versions, from 2020-10-22, are in the history before it: `git log -- ukpga/2020/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
+Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-03-22
 
 ## Contents
 
@@ -32,7 +32,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
         - [s. 15 Committal for sentence of dangerous adult offenders](section/15.md)
       - Committal following summary trial: persons under 18
         - [s. 16 Committal for sentence of young offenders on summary trial of certain serious offences](section/16.md)
-        - [s. 16A Committal for sentence of young offenders on summary trial of certain terrorist offences](section/16A.md)
+        - [s. 16A Committal for sentence of young offenders on summary trial of certain ... offences](section/16A.md)
         - [s. 17 Committal for sentence of dangerous young offenders](section/17.md)
       - Committal for sentence following indication of guilty plea
         - [s. 18 Committal for sentence on indication of guilty plea to offence triable either way: adult offenders](section/18.md)
@@ -372,8 +372,8 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
         - [s. 250 Sentence of detention: offender convicted of certain serious offences](section/250.md)
         - [s. 251 Exercise of power to impose sentence of detention under section 250](section/251.md)
         - [s. 252 Maximum sentence](section/252.md)
-      - Special custodial sentence for terrorist offenders
-        - [s. 252A Required special sentence of detention for terrorist offenders of particular concern](section/252A.md)
+      - Special custodial sentence for certain offenders
+        - [s. 252A Required special sentence of detention for certain offenders of particular concern](section/252A.md)
       - Sentences of detention passed during detention and training order
         - [s. 253 Sentence of detention passed on offender subject to detention and training order](section/253.md)
       - Extended sentences
@@ -394,6 +394,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
         - [s. 263 Term of detention in a young offender institution](section/263.md)
       - Suspended sentence of detention in a young offender institution
         - [s. 264 Suspended sentence order for offender under 21: availability](section/264.md)
+        - [s. 264A Presumption of suspended sentence order: offender under 21](section/264A.md)
       - Special custodial sentence for certain offenders of particular concern
         - [s. 265 Required special sentence for certain offenders of particular concern](section/265.md)
       - Extended sentence of detention in a young offender institution
@@ -419,6 +420,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
     - CHAPTER 4 Adults aged 21 and over
       - Suspended sentence of imprisonment
         - [s. 277 Suspended sentence order for person aged 21 or over: availability](section/277.md)
+        - [s. 277A Presumption of suspended sentence order: person aged 21 or over](section/277A.md)
       - Special custodial sentence for certain offenders of particular concern
         - [s. 278 Required special custodial sentence for certain offenders of particular concern](section/278.md)
       - Extended sentences
@@ -1219,6 +1221,13 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
       - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
     - Abolished offences
       - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Part 3 Offences involving or connected with a threat to national security
+    - [Sch. 13 para. 13 Official Secrets Act 1911](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14 Official Secrets Act 1920](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15 National Security Act 2023](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16 Certain electoral offences where foreign power condition met](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17 Inchoate offences](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18 Certain other offences where foreign power condition met](schedule/13/paragraph/18.md)
 - SCHEDULE 14 Extended sentences: the earlier offence condition: offences
   - PART 1 Offences under the law of England and Wales
     - Manslaughter
@@ -1741,6 +1750,7 @@ Source: https://www.legislation.gov.uk/ukpga/2020/17/2026-02-06
       - [Sch. 22 para. 52](schedule/22/paragraph/52.md)
       - [Sch. 22 para. 53](schedule/22/paragraph/53.md)
       - [Sch. 22 para. 54](schedule/22/paragraph/54.md)
+      - [Sch. 22 para. 54A](schedule/22/paragraph/54A.md)
       - [Sch. 22 para. 55](schedule/22/paragraph/55.md)
       - [Sch. 22 para. 56](schedule/22/paragraph/56.md)
       - [Sch. 22 para. 57](schedule/22/paragraph/57.md)
