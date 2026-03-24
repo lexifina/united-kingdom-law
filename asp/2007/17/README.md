@@ -1,0 +1,184 @@
+# Custodial Sentences and Weapons (Scotland) Act 2007
+
+asp/2007/17. Enacted 2007-04-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-24, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 74 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/17
+
+Source: https://www.legislation.gov.uk/asp/2007/17/2026-03-24
+
+## Contents
+
+- Part 1 The Parole Board for Scotland
+  - [s. 1 The Parole Board for Scotland](section/1.md)
+  - [s. 2 Parole Board rules](section/2.md)
+- Part 2 Confinement and release of prisoners
+  - Chapter 1 Introductory
+    - [s. 3 Application of Part 2](section/3.md)
+    - [s. 4 Basic definitions](section/4.md)
+  - Chapter 2 Confinement, review and release of prisoners
+    - Custody-only prisoners
+      - [s. 5 Release on completion of sentence](section/5.md)
+    - Custody and community prisoners
+      - [s. 6 Setting of custody part](section/6.md)
+      - [s. 7 Power to amend section 6(4)](section/7.md)
+      - [s. 8 Provision of information by court](section/8.md)
+      - [s. 9 Joint arrangements between Scottish Ministers and local authorities](section/9.md)
+      - [s. 10 Review by Scottish Ministers](section/10.md)
+      - [s. 11 Consequences of review](section/11.md)
+      - [s. 12 Review by Parole Board](section/12.md)
+      - [s. 13 Release on community licence following review by Parole Board](section/13.md)
+      - [s. 14 Determination that section 10(2) applicable: consequences](section/14.md)
+      - [s. 15 Prisoner’s right to request early reconsideration by Parole Board](section/15.md)
+      - [s. 16 Referral to Parole Board for the purposes of specifying conditions](section/16.md)
+      - [s. 17 Further referral to Parole Board](section/17.md)
+      - [s. 18 Cases where custody part specified as three-quarters of prisoner’s sentence](section/18.md)
+      - [s. 19 Release after three-quarters of sentence served](section/19.md)
+    - Life prisoners
+      - [s. 20 Setting of punishment part](section/20.md)
+      - [s. 20A Assessment under section 20(5)(a) and (b)](section/20A.md)
+      - [s. 21 Referral to Parole Board](section/21.md)
+      - [s. 22 Review by Parole Board](section/22.md)
+      - [s. 23 Release on life licence following review by Parole Board](section/23.md)
+      - [s. 24 Determination that section 22(3) applicable: consequences](section/24.md)
+      - [s. 25 Further referral to Parole Board](section/25.md)
+    - Referral to Parole Board: postponement
+      - [s. 26 Referral to Parole Board: postponement](section/26.md)
+    - Compassionate release on licence
+      - [s. 27 Compassionate release on licence](section/27.md)
+  - Chapter 3 Community and life licences
+    - The standard conditions
+      - [s. 28 Release on licence: the standard conditions](section/28.md)
+    - The supervision conditions
+      - [s. 29 Release on licence of certain prisoners: the supervision conditions](section/29.md)
+    - Community licences
+      - [s. 30 Release on community licence on Parole Board’s direction](section/30.md)
+      - [s. 31 Community licences in which Scottish Ministers may specify conditions](section/31.md)
+    - Life licences
+      - [s. 32 Release on life licence: conditions](section/32.md)
+      - [s. 33 Compassionate release on life licence: conditions](section/33.md)
+    - Duration of licence
+      - [s. 34 Period during which licence in force](section/34.md)
+    - Prisoner to comply with licence conditions
+      - [s. 35 Prisoner to comply with licence conditions](section/35.md)
+    - Suspension
+      - [s. 36 Suspension of licence conditions while detained](section/36.md)
+    - Revocation
+      - [s. 37 Revocation of licence](section/37.md)
+      - [s. 38 Compassionate release: additional ground for revocation of licence](section/38.md)
+      - [s. 39 Prisoners unlawfully at large](section/39.md)
+      - [s. 40 Compassionate release: effect of revocation in certain circumstances](section/40.md)
+      - [s. 41 Referral to Parole Board following revocation of licence](section/41.md)
+      - [s. 42 Consideration by Parole Board](section/42.md)
+      - [s. 43 Determination that section 42(3) applicable: consequences for custody and community prisoners](section/43.md)
+      - [s. 44 Determination that section 42(3) applicable: consequences for life prisoners](section/44.md)
+      - [s. 45 Prisoner’s right to request early reconsideration by Parole Board](section/45.md)
+    - Single licence
+      - [s. 46 Multiple licences to be replaced by single licence](section/46.md)
+  - Chapter 4 Curfew licences
+    - [s. 47 Curfew licences](section/47.md)
+    - [s. 48 Curfew conditions](section/48.md)
+    - [s. 49 Monitoring of curfew conditions](section/49.md)
+  - Chapter 5 No release on weekends or public holidays
+    - [s. 50 No release on weekends or public holidays](section/50.md)
+  - Chapter 6 Extended and multiple sentences
+    - [s. 51 Prisoners serving extended sentences: application of Part 2](section/51.md)
+    - [s. 52 Prisoners serving more than one sentence: application of Part 2](section/52.md)
+    - [s. 53 Sentences framed to run consecutively](section/53.md)
+  - Chapter 7 Application of Part 2 to certain persons
+    - [s. 54 Persons detained under mental health provisions](section/54.md)
+    - [s. 55 Application to young offenders and children](section/55.md)
+    - [s. 56 Fine defaulters and persons in contempt of court](section/56.md)
+  - Chapter 8 Cross-border transfer of prisoners
+    - [s. 57 Cross-border transfer of prisoners](section/57.md)
+- Part 3 Weapons
+  - Licensing of knives, swords etc.
+    - [s. 58 Licensing of knife dealers](section/58.md)
+    - [s. 59 Knife dealers’ licences: further provision](section/59.md)
+  - Sale etc. of weapons
+    - [s. 60 Sale etc. of weapons](section/60.md)
+  - Swords
+    - [s. 61 Sale etc. of swords](section/61.md)
+  - Crossbows
+    - [s. 62 Sale etc. of crossbows](section/62.md)
+  - Possession of weapons in prisons etc.
+    - [s. 63 Possession of weapons in prisons etc.](section/63.md)
+- Part 4 General
+  - [s. 64 Ancillary provision](section/64.md)
+  - [s. 65 Rules, regulations and orders](section/65.md)
+  - [s. 66 Minor and consequential amendments and repeals](section/66.md)
+  - [s. 67 Short title and commencement](section/67.md)
+- SCHEDULE 1 The Parole Board for Scotland
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Tenure of appointments
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Carrying out of functions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Removal of members
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Remuneration, allowances and other expenses
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Reporting and planning
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+- SCHEDULE 2 Prisoners serving more than one sentence: application of Part 2
+  - Multiple custody-only sentences
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Multiple custody and community sentences
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Combinations of custody-only and custody and community sentences
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Multiple life sentences
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Combinations of life sentences and other sentences
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Single licence for released prisoner serving multiple sentences
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Special case: extended sentences
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Sentences framed to run consecutively
+  - Power to impose sentence to take effect on expiry of other sentence
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Postponement of sentencing where previous punishment part or custody part not specified
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Effect of sentences framed to take effect consecutively
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Effect of sentences framed to take effect consecutively on extension periods
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Application of schedule where previous sentence imposed by court outwith Scotland
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Criminal Justice (Scotland) Act 2003 (asp 7)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Repeals
+- SCHEDULE 6 TRANSITORY AMENDMENTS
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
