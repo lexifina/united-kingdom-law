@@ -1,0 +1,192 @@
+# Commons Act 2006
+
+2006 c. 26. Enacted 2006-07-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/26
+
+Source: https://www.legislation.gov.uk/ukpga/2006/26/2026-03-25
+
+## Contents
+
+- Part 1 Registration
+  - Introductory
+    - [s. 1 Registers of common land and greens](section/1.md)
+    - [s. 2 Purpose of registers](section/2.md)
+    - [s. 3 Content of registers](section/3.md)
+    - [s. 4 Commons registration authorities](section/4.md)
+    - [s. 5 Land to which Part 1 applies](section/5.md)
+  - Registration of rights of common
+    - [s. 6 Creation](section/6.md)
+    - [s. 7 Variation](section/7.md)
+    - [s. 8 Apportionment](section/8.md)
+    - [s. 9 Severance](section/9.md)
+    - [s. 10 Attachment](section/10.md)
+    - [s. 11 Re-allocation of attached rights](section/11.md)
+    - [s. 12 Transfer of rights in gross](section/12.md)
+    - [s. 13 Surrender and extinguishment](section/13.md)
+  - Registration, deregistration and exchange of land
+    - [s. 14 Statutory dispositions](section/14.md)
+    - [s. 15 Registration of greens](section/15.md)
+    - [s. 15A Registration of greens: statement by owner](section/15A.md)
+    - [s. 15B Register of section 15A statements](section/15B.md)
+    - [s. 15C Registration of greens: exclusions](section/15C.md)
+    - [s. 16 Deregistration and exchange: applications](section/16.md)
+    - [s. 17 Deregistration and exchange: orders](section/17.md)
+  - Conclusiveness and correction of the registers
+    - [s. 18 Conclusiveness](section/18.md)
+    - [s. 19 Correction](section/19.md)
+  - Information etc
+    - [s. 20 Inspection](section/20.md)
+    - [s. 21 Official copies](section/21.md)
+  - Transitory and transitional provision
+    - [s. 22 Non-registration or mistaken registration under the 1965 Act](section/22.md)
+    - [s. 23 Transitional](section/23.md)
+  - Supplementary
+    - [s. 24 Applications etc](section/24.md)
+    - [s. 25 Electronic registers](section/25.md)
+- Part 2 Management
+  - Commons councils
+    - [s. 26 Establishment](section/26.md)
+    - [s. 27 Procedure for establishment](section/27.md)
+  - Status and constitution of commons councils
+    - [s. 28 Status](section/28.md)
+    - [s. 29 Constitution](section/29.md)
+    - [s. 30 Constitution: supplementary](section/30.md)
+  - Functions of commons councils
+    - [s. 31 Functions](section/31.md)
+    - [s. 32 Ancillary powers](section/32.md)
+    - [s. 33 Consent](section/33.md)
+    - [s. 34 Enforcement of rules](section/34.md)
+    - [s. 35 Rules: supplementary](section/35.md)
+  - Commons councils: supplementary
+    - [s. 36 Consequential provision](section/36.md)
+    - [s. 37 Variation and revocation of establishment orders](section/37.md)
+- Part 3 Works
+  - [s. 38 Prohibition on works without consent](section/38.md)
+  - [s. 39 Consent: general](section/39.md)
+  - [s. 40 Consent: procedure](section/40.md)
+  - [s. 41 Enforcement](section/41.md)
+  - [s. 42 Schemes](section/42.md)
+  - [s. 43 Power to exempt](section/43.md)
+  - [s. 44 Supplementary](section/44.md)
+- Part 4 Miscellaneous
+  - Intervention powers
+    - [s. 45 Powers of local authorities over unclaimed land](section/45.md)
+    - [s. 46 Powers relating to unauthorised agricultural activities](section/46.md)
+  - Abolition of powers of approvement and inclosure etc
+    - [s. 47 Approvement](section/47.md)
+    - [s. 48 Inclosure](section/48.md)
+    - [s. 49 Notice of inclosure](section/49.md)
+  - Commons Act 1899
+    - [s. 50 Schemes under the Commons Act 1899](section/50.md)
+  - Vehicular access
+    - [s. 51 Vehicular access](section/51.md)
+- Part 5 Supplementary and general
+  - Amendments and repeals
+    - [s. 52 Minor and consequential amendments](section/52.md)
+    - [s. 53 Repeals](section/53.md)
+    - [s. 54 Power to amend enactments relating to common land or greens](section/54.md)
+    - [s. 55 Power to amend enactments conferring functions on national authorities](section/55.md)
+  - Commencement and transitional provision
+    - [s. 56 Commencement](section/56.md)
+    - [s. 57 Severance: transitional](section/57.md)
+    - [s. 58 Natural England](section/58.md)
+  - General
+    - [s. 59 Orders and regulations](section/59.md)
+    - [s. 60 Crown application](section/60.md)
+    - [s. 61 Interpretation](section/61.md)
+    - [s. 62 Short title](section/62.md)
+    - [s. 63 Extent](section/63.md)
+- SCHEDULE 1 Authorised severance
+  - Severance by transfer to public bodies
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Temporary severance by letting or leasing
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Severance authorised by order
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 1A Exclusion of right under section 15: England
+  - Interpretation
+  - Notes
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+- SCHEDULE 1B Exclusion of right under section 15: Wales
+  - Interpretation
+    - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+    - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+- SCHEDULE 2 Non-registration or mistaken registration under the 1965 Act
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Non-registration of common land
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Non-registration of town or village green
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Waste land of a manor not registered as common land
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Town or village green wrongly registered as common land
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Buildings registered as common land
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Other land wrongly registered as common land
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Buildings registered as town or village green
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Other land wrongly registered as town or village green
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Costs
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+- SCHEDULE 3 Registration: transitional provision
+  - Interpretation
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Transitional period for updating registers
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Effect of repeals
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Ownership of common land or town or village green
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Vesting of unclaimed land
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Works: supplementary
+  - Metropolitan commons
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - National Trust property
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - ................................
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Transitional provision
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - Countryside Act 1968 (c. 41)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Animals Act 1971 (c. 22)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Norfolk and Suffolk Broads Act 1988 (c. 4)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Countryside and Rights of Way Act 2000 (c. 37)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Land Registration Act 2002 (c. 9)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Repeals
+  - Part 1 Repeals relating to registration
+  - Part 2 Repeals relating to works
+  - Part 3 Repeals relating to approvement and inclosure
+  - Part 4 Repeal relating to schemes under the Commons Act 1899
+  - Part 5 Repeal relating to vehicular access
