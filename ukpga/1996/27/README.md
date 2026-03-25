@@ -1,0 +1,381 @@
+# Family Law Act 1996
+
+1996 c. 27. Enacted 1996-07-04.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-25, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1996/27
+
+Source: https://www.legislation.gov.uk/ukpga/1996/27/2026-03-25
+
+## Contents
+
+- Part I Principles of Parts II and III
+  - [s. 1 The general principles underlying section 22.](section/1.md)
+- Part II Divorce and Separation
+  - Court orders
+    - [s. 2 Divorce and separation.](section/2.md)
+    - [s. 3 Circumstances in which orders are made.](section/3.md)
+    - [s. 4 Conversion of separation order into divorce order.](section/4.md)
+  - Marital breakdown
+    - [s. 5 Marital breakdown.](section/5.md)
+    - [s. 6 Statement of marital breakdown.](section/6.md)
+  - Reflection and consideration
+    - [s. 7 Period for reflection and consideration.](section/7.md)
+    - [s. 8 Attendance at information meetings.](section/8.md)
+    - [s. 9 Arrangements for the future.](section/9.md)
+  - Orders preventing divorce
+    - [s. 10 Hardship: orders preventing divorce.](section/10.md)
+  - Welfare of children
+    - [s. 11 Welfare of children.](section/11.md)
+  - Supplementary
+    - [s. 12 Rules about procedure](section/12.md)
+  - Resolution of disputes
+    - [s. 13 Directions with respect to mediation.](section/13.md)
+    - [s. 14 Adjournments.](section/14.md)
+  - Financial provision
+    - [s. 15 Financial arrangements.](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 Grounds for financial provision orders in magistrates’ courts.](section/18.md)
+  - Jurisdiction and commencement of proceedings
+    - [s. 19 Jurisdiction in relation to divorce and separation.](section/19.md)
+    - [s. 20 Time when proceedings for divorce or separation begin.](section/20.md)
+  - Intestacy
+    - [s. 21 Intestacy: effect of separation.](section/21.md)
+  - Marriage support services
+    - [s. 22 Funding for marriage support services.](section/22.md)
+    - [s. 23 Provision of marriage counselling.](section/23.md)
+  - Interpretation
+    - [s. 24 Interpretation of Part II etc.](section/24.md)
+    - [s. 25 Connected proceedings.](section/25.md)
+- Part III Legal Aid for Mediation in Family Matters
+  - [s. 26 Legal aid for mediation in family matters.](section/26.md)
+  - [s. 27 Provision and availability of mediation.](section/27.md)
+  - [s. 28 Payment for mediation.](section/28.md)
+  - [s. 29 Mediation and civil legal aid.](section/29.md)
+- Part IV Family Homes and Domestic Violence
+  - Rights to occupy matrimonial or civil partnership home
+    - [s. 30 Rights concerning home where one spouse or civil partner has no estate, etc.](section/30.md)
+    - [s. 31 Effect of home rights as charge on dwelling-house.](section/31.md)
+    - [s. 32 Further provisions relating to home rights.](section/32.md)
+  - Occupation orders
+    - [s. 33 Occupation orders where applicant has estate or interest etc. or has home rights.](section/33.md)
+    - [s. 34 Effect of order under s. 33 where rights are charge on dwelling-house.](section/34.md)
+    - [s. 35 One former spouse or former civil partner with no existing right to occupy.](section/35.md)
+    - [s. 36 One cohabitant or former cohabitant with no existing right to occupy.](section/36.md)
+    - [s. 37 Neither spouse or civil partner entitled to occupy.](section/37.md)
+    - [s. 38 Neither cohabitant or former cohabitant entitled to occupy.](section/38.md)
+    - [s. 39 Supplementary provisions.](section/39.md)
+    - [s. 40 Additional provisions that may be included in certain occupation orders.](section/40.md)
+    - [s. 41 Additional considerations if parties are cohabitants or former cohabitants.](section/41.md)
+  - Non-molestation orders
+    - [s. 42 Non-molestation orders.](section/42.md)
+    - [s. 42A Offence of breaching non-molestation order](section/42A.md)
+  - Further provisions relating to occupation and non-molestation orders
+    - [s. 43 Leave of court required for applications by children under sixteen.](section/43.md)
+    - [s. 44 Evidence of agreement to marry or form a civil partnership.](section/44.md)
+    - [s. 45 Ex parte orders.](section/45.md)
+    - [s. 46 Undertakings.](section/46.md)
+    - [s. 47 Arrest for breach of order.](section/47.md)
+    - [s. 48 Remand for medical examination and report.](section/48.md)
+    - [s. 49 Variation and discharge of orders.](section/49.md)
+  - Enforcement powers of magistrates’ courts
+    - [s. 50 Power of magistrates’ court to suspend execution of committal order.](section/50.md)
+    - [s. 51 Power of magistrates’ court to order hospital admission or guardianship.](section/51.md)
+  - Interim care orders and emergency protection orders
+    - [s. 52 Amendments of Children Act 1989.](section/52.md)
+  - Transfer of tenancies
+    - [s. 53 Transfer of certain tenancies.](section/53.md)
+  - Dwelling-house subject to mortgage
+    - [s. 54 Dwelling-house subject to mortgage.](section/54.md)
+    - [s. 55 Actions by mortgagees: joining connected persons as parties.](section/55.md)
+    - [s. 56 Actions by mortgagees: service of notice on certain persons.](section/56.md)
+  - Jurisdiction and procedure etc.
+    - [s. 57 Jurisdiction of courts.](section/57.md)
+    - [s. 58 Contempt proceedings.](section/58.md)
+    - [s. 59 Magistrates’ courts.](section/59.md)
+    - [s. 60 Provision for third parties to act on behalf of victims of domestic violence.](section/60.md)
+    - [s. 61 Appeals.](section/61.md)
+  - General
+    - [s. 62 Meaning of “cohabitants”, “relevant child” and “associated persons”.](section/62.md)
+    - [s. 63 Interpretation of Part IV.](section/63.md)
+- Part 4A Forced marriage
+  - Forced marriage protection orders
+    - [s. 63A Forced marriage protection orders](section/63A.md)
+    - [s. 63B Contents of orders](section/63B.md)
+    - [s. 63C Applications and other occasions for making orders](section/63C.md)
+    - [s. 63CA Offence of breaching order](section/63CA.md)
+  - Further provision about orders
+    - [s. 63D Ex parte orders: Part 4A](section/63D.md)
+    - [s. 63E Undertakings instead of orders](section/63E.md)
+    - [s. 63F Duration of orders](section/63F.md)
+    - [s. 63G Variation of orders and their discharge](section/63G.md)
+  - Arrest for breach of orders
+    - [s. 63H Attachment of powers of arrest to orders](section/63H.md)
+    - [s. 63I Arrest under attached powers](section/63I.md)
+    - [s. 63J Arrest under warrant](section/63J.md)
+    - [s. 63K Remand: general](section/63K.md)
+    - [s. 63L Remand: medical examination and report](section/63L.md)
+  - Jurisdiction and procedure
+    - [s. 63M Jurisdiction of courts: Part 4A](section/63M.md)
+    - [s. 63N Power to extend jurisdiction to magistrates’ courts](section/63N.md)
+    - [s. 63O Contempt proceedings: Part 4A](section/63O.md)
+    - [s. 63P Appeals: Part 4A](section/63P.md)
+  - Supplementary
+    - [s. 63Q Guidance](section/63Q.md)
+    - [s. 63R Other protection or assistance against forced marriage](section/63R.md)
+    - [s. 63S Interpretation of Part 4A](section/63S.md)
+- Part V Supplemental
+  - [s. 64 Provision for separate representation for children.](section/64.md)
+  - [s. 65 Rules, regulations and orders.](section/65.md)
+  - [s. 66 Consequential amendments, transitional provisions and repeals.](section/66.md)
+  - [s. 67 Short title, commencement and extent.](section/67.md)
+- SCHEDULE 1 Arrangements for the future
+  - The first exemption
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - The second exemption
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The third exemption
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - The fourth exemption
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Court orders and agreements
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Financial arrangements
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Negotiated agreements
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Declarations
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Interpretation
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 Financial provision
+  - Introductory
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The orders
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Financial provision: divorce and separation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Financial provision: nullity of marriage
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Property adjustment orders: divorce and separation
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Property adjustment orders: nullity
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Pension sharing orders: divorce and nullity
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+  - Period of secured and unsecured payments orders
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Variations et ceteralaetc. following reconciliations
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Stay of proceedings
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Interpretation
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Duty to furnish particulars of concurrent proceedings
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Obligatory stays in divorce cases
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Discretionary stays
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Discharge of orders
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Ancillary matters
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Provisions supplementary to sections 30 and 31
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Restriction on registration where spouse entitled to more than one charge
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Contract for sale of house affected by registered charge to include term requiring cancellation of registration before completion
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Cancellation of registration after termination of marriage or civil partnership, etc.
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Release of home rights
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Postponement of priority of charge
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Powers of High Court and county court to remand
+  - Interpretation
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Remand in custody or on bail
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Further remand
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Postponement of taking of recognizance
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+- SCHEDULE 6 Amendments of Children Act 1989
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Transfer of certain tenancies on divorce etc. or on separation of cohabitants
+  - Part I General
+    - Interpretation
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Cases in which the court may make an order
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Matters to which the court must have regard
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Part II Orders that may be made
+    - References to entitlement to occupy
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Protected, secure or assured tenancy or assured agricultural occupancy
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Statutory tenancy within the meaning of the Rent Act 1977
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Statutory tenancy within the meaning of the Rent (Agriculture) Act 1976
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part III Supplementary provisions
+    - Compensation
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Liabilities and obligations in respect of the dwelling-house
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Date when order made between spouses or civil partners takes effect
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Effect of remarriage or subsequent civil partnership
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Inclusion of references to decrees in references to orders
+      - [Sch. 7 para. 13A](schedule/7/paragraph/13A.md)
+    - Rules of court
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - Saving for other provisions of Act
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+- SCHEDULE 8 Minor and consequential amendments
+  - Part I Amendments connected with Part II
+    - The Wills Act 1837 (c. 26)
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - The Judicial Proceedings (Regulation of Reports) Act 1926 (c. 61)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - The Maintenance Orders Act 1950 (c. 37)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - The Matrimonial Causes Act 1973 (c. 18)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+      - [Sch. 8 para. 11A](schedule/8/paragraph/11A.md)
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+      - [Sch. 8 para. 16A](schedule/8/paragraph/16A.md)
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+      - [Sch. 8 para. 25A](schedule/8/paragraph/25A.md)
+    - The Domicile and Matrimonial Proceedings Act 1973 (c. 45)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - The Inheritance (Provision for Family and Dependants) Act 1975 (c. 63)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - The Domestic Proceedings and Magistrates’ Courts Act 1978 (c. 22)
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - The Housing Act 1980 (c. 51)
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - Senior Courts Act 1981(c. 54)
+      - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - The Civil Jurisdiction and Judgments Act 1982 (c. 27)
+      - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - The Matrimonial and Family Proceedings Act 1984 (c. 42)
+      - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+    - The Finance Act 1985 (c. 54)
+      - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - The Housing Act 1985 (c. 68)
+      - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - The Housing Associations Act 1985 (c. 69)
+      - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - The Agricultural Holdings Act 1986 (c. 5)
+      - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+    - The Family Law Act 1986 (c. 55)
+      - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - The Landlord and Tenant Act 1987 (c. 31)
+      - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - The Legal Aid Act 1988 (c. 34)
+      - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - The Housing Act 1988 (c. 50)
+      - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - The Children Act 1989 (c. 41)
+      - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - The Local Government and Housing Act 1989 (c. 42)
+      - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - Pensions Act 1995 (c. 26)
+      - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - The Welfare Reform and Pensions Act 1999
+      - [Sch. 8 para. 43A](schedule/8/paragraph/43A.md)
+  - Part II Amendments connected with Part III
+    - The Legal Aid Act 1988 (c. 34)
+      - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+  - Part III Amendments connected with Part IV
+    - The Land Registration Act 1925 (c. 21)
+      - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - The Land Charges Act 1972 (c. 61)
+      - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+      - [Sch. 8 para. 47](schedule/8/paragraph/47.md)
+    - The Land Compensation Act 1973 (c. 26)
+      - [Sch. 8 para. 48](schedule/8/paragraph/48.md)
+    - The Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 8 para. 49](schedule/8/paragraph/49.md)
+    - The Contempt of Court Act 1981 (c. 49)
+      - [Sch. 8 para. 50](schedule/8/paragraph/50.md)
+    - Senior Courts Act 1981(c. 54)
+      - [Sch. 8 para. 51](schedule/8/paragraph/51.md)
+    - The Matrimonial and Family Proceedings Act 1984 (c. 42)
+      - [Sch. 8 para. 52](schedule/8/paragraph/52.md)
+    - The Housing Act 1985 (c. 68)
+      - [Sch. 8 para. 53](schedule/8/paragraph/53.md)
+      - [Sch. 8 para. 54](schedule/8/paragraph/54.md)
+      - [Sch. 8 para. 55](schedule/8/paragraph/55.md)
+      - [Sch. 8 para. 56](schedule/8/paragraph/56.md)
+    - The Insolvency Act 1986 (c. 45)
+      - [Sch. 8 para. 57](schedule/8/paragraph/57.md)
+      - [Sch. 8 para. 58](schedule/8/paragraph/58.md)
+    - The Housing Act 1988 (c. 50)
+      - [Sch. 8 para. 59](schedule/8/paragraph/59.md)
+    - The Children Act 1989 (c. 41)
+      - [Sch. 8 para. 60](schedule/8/paragraph/60.md)
+    - The Courts and Legal Services Act 1990 (c. 41)
+      - [Sch. 8 para. 61](schedule/8/paragraph/61.md)
+- SCHEDULE 9 Modifications, saving and transitional
+  - Transitional arrangements for those who have been living apart
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Modifications of enactments etc.
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Expressions used in paragraphs 2 and 3
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Proceedings under way
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Interpretation
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Pending applications for orders relating to occupation and molestation
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Pending applications under Schedule 1 to the Matrimonial Homes Act 1983
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Existing orders relating to occupation and molestation
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Matrimonial home rights
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+- SCHEDULE 10 Repeals
