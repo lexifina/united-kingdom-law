@@ -1,0 +1,269 @@
+# Antisocial Behaviour etc. (Scotland) Act 2004
+
+asp/2004/8. Enacted 2004-07-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2004/8
+
+Source: https://www.legislation.gov.uk/asp/2004/8/2026-03-26
+
+## Contents
+
+- Part 1 Antisocial behaviour strategies
+  - [s. 1 Antisocial behaviour strategies](section/1.md)
+  - [s. 2 Reports and information](section/2.md)
+  - [s. 3 Scottish Ministers’ power to apply sections 1 and 2 to registered social landlords](section/3.md)
+- Part 2 Antisocial behaviour orders
+  - Antisocial behaviour orders
+    - [s. 4 Antisocial behaviour orders](section/4.md)
+    - [s. 5 Antisocial behaviour orders: variation and revocation](section/5.md)
+    - [s. 6 Appeals: effect on competence of application under section 5](section/6.md)
+  - Interim antisocial behaviour orders
+    - [s. 7 Interim antisocial behaviour orders](section/7.md)
+  - Notification of orders
+    - [s. 8 Notification of making etc. of orders and interim orders](section/8.md)
+  - Breach of orders
+    - [s. 9 Breach of orders](section/9.md)
+    - [s. 10 Breach of orders: prohibition on detention of children](section/10.md)
+    - [s. 11 Breach of orders: arrest without warrant](section/11.md)
+  - Orders in respect of children
+    - [s. 12 Sheriff’s power to refer case to children’s hearing](section/12.md)
+    - [s. 13 Sheriff’s power to make parenting order](section/13.md)
+  - Provision of information and records
+    - [s. 14 Provision of information to local authorities](section/14.md)
+    - [s. 15 Records of orders](section/15.md)
+  - Guidance and research
+    - [s. 16 Guidance in relation to antisocial behaviour orders](section/16.md)
+    - [s. 17 Arrangement of study into operation of Part](section/17.md)
+  - Interpretation
+    - [s. 18 Interpretation of Part 2](section/18.md)
+- Part 3 Dispersal of groups
+  - Authorisations and powers
+    - [s. 19 Authorisations](section/19.md)
+    - [s. 20 Authorisations: supplementary](section/20.md)
+    - [s. 21 Powers exercisable in pursuance of authorisations](section/21.md)
+    - [s. 22 Powers under section 21: supplementary](section/22.md)
+  - Guidance and research
+    - [s. 23 Guidance in relation to dispersal of groups](section/23.md)
+    - [s. 24 Operation of Part: arrangement of study](section/24.md)
+  - Interpretation
+    - [s. 25 Interpretation of Part 3](section/25.md)
+- Part 4 Closure of premises
+  - Closure notices
+    - [s. 26 Authorisation of closure notice](section/26.md)
+    - [s. 27 Service etc.](section/27.md)
+  - Closure orders
+    - [s. 28 Application to sheriff](section/28.md)
+    - [s. 29 Closure orders](section/29.md)
+    - [s. 30 Application: determination](section/30.md)
+    - [s. 31 Enforcement](section/31.md)
+    - [s. 32 Extension](section/32.md)
+    - [s. 33 Revocation](section/33.md)
+    - [s. 34 Access to other premises](section/34.md)
+    - [s. 35 Reimbursement of expenditure](section/35.md)
+    - [s. 36 Appeals](section/36.md)
+  - General
+    - [s. 37 Offences](section/37.md)
+    - [s. 38 Offences under section 37: arrest without warrant](section/38.md)
+    - [s. 39 Guidance in relation to closure of premises](section/39.md)
+  - Interpretation
+    - [s. 40 Interpretation of Part 4](section/40.md)
+    - [s. 40A Exploitation offences](section/40A.md)
+- Part 5 Noise nuisance
+  - Summary procedure for dealing with noise from certain places
+    - [s. 41 Application of noise control provisions to local authority areas](section/41.md)
+    - [s. 42 Revocation or variation of resolution under section 41](section/42.md)
+  - Noise control provisions
+    - [s. 43 Investigation of excessive noise from certain places](section/43.md)
+    - [s. 44 Warning notices](section/44.md)
+    - [s. 45 Offence where noise exceeds permitted level after service of notice](section/45.md)
+    - [s. 46 Fixed penalty notices](section/46.md)
+    - [s. 47 Powers of entry and seizure of equipment used to make noise unlawfully](section/47.md)
+  - The permitted level
+    - [s. 48 Permitted level of noise](section/48.md)
+  - Miscellaneous
+    - [s. 49 Approval of measuring devices](section/49.md)
+    - [s. 50 Power to provide funds to local authorities](section/50.md)
+    - [s. 51 Fixed penalty notices: supplementary](section/51.md)
+    - [s. 52 Guidance in relation to this Part](section/52.md)
+  - Interpretation
+    - [s. 53 Meaning of “relevant place” and “relevant property”](section/53.md)
+    - [s. 54 Interpretation of Part 5](section/54.md)
+- Part 6 The environment
+  - Controlled waste and litter
+    - [s. 55 Contraventions of section 33(1)(a) and (c) of 1990 Act: fixed penalty notices](section/55.md)
+    - [s. 56 Litter: power of constables to issue fixed penalty notices](section/56.md)
+    - [s. 57 Directions in respect of duty under section 89 of 1990 Act](section/57.md)
+  - Graffiti
+    - [s. 58 Power of local authority to serve notice about graffiti](section/58.md)
+    - [s. 59 Power to modify meaning of “relevant surface”](section/59.md)
+    - [s. 60 Graffiti removal notice: content and service](section/60.md)
+    - [s. 61 Non-compliance with graffiti removal notice](section/61.md)
+    - [s. 62 Guidance to local authorities about graffiti removal functions](section/62.md)
+    - [s. 63 Appeal against graffiti removal notice](section/63.md)
+    - [s. 64 Appeal against notice under section 61(4)](section/64.md)
+    - [s. 65 Graffiti removal notice: exemptions from liability](section/65.md)
+  - Penalties for environmental offences
+    - [s. 66 Increase in penalties for certain environmental offences](section/66.md)
+  - Interpretation
+    - [s. 67 Interpretation of Part 6](section/67.md)
+- Part 7 Housing: antisocial behaviour notices
+  - Antisocial behaviour notices
+    - [s. 68 Antisocial behaviour notices](section/68.md)
+    - [s. 69 Review of antisocial behaviour notices](section/69.md)
+    - [s. 70 Internal procedure on review](section/70.md)
+  - Failure to comply with notice: sanctions
+    - [s. 71 Failure to comply with notice: order as to rental income](section/71.md)
+    - [s. 72 Appeals against orders under section 71](section/72.md)
+    - [s. 73 Orders under section 71: revocation and suspension](section/73.md)
+    - [s. 74 Failure to comply with notice: management control order](section/74.md)
+    - [s. 75 Management control order: notification](section/75.md)
+    - [s. 76 Management control order: revocation](section/76.md)
+    - [s. 77 Management control order: notification of revocation](section/77.md)
+    - [s. 78 Failure to comply with notice: action by authority at landlord’s expense](section/78.md)
+    - [s. 79 Failure to comply with notice: offence](section/79.md)
+  - Regulations
+    - [s. 80 Regulations about advice and assistance: Part 7](section/80.md)
+  - Interpretation
+    - [s. 81 Interpretation of Part 7](section/81.md)
+- Part 8 Housing: registration of certain landlords
+  - Registration
+    - [s. 82 Registers](section/82.md)
+    - [s. 83 Application for registration](section/83.md)
+    - [s. 84 Registration](section/84.md)
+    - [s. 85 Section 84: considerations](section/85.md)
+    - [s. 85A Fit and proper person: Level 2 disclosure](section/85A.md)
+    - [s. 86 Notification of registration or refusal to register](section/86.md)
+    - [s. 87 Duty of registered person to provide information to local authority](section/87.md)
+    - [s. 87A Duty of local authority to note decisions of the First-tier Tribunal for Scotland Housing and Property Chamber](section/87A.md)
+    - [s. 88 Registered person: appointment of agent](section/88.md)
+    - [s. 88A Access to register](section/88A.md)
+    - [s. 89 Removal from register](section/89.md)
+    - [s. 90 Notification of removal from register: registered person](section/90.md)
+    - [s. 91 Notification of removal from register: other persons](section/91.md)
+    - [s. 92 Appeal against refusal to register or removal from register](section/92.md)
+    - [s. 92ZA Duty to note refusals and removals](section/92ZA.md)
+    - [s. 92A The Letting Code](section/92A.md)
+    - [s. 92B Duty of certain persons to include landlord registration number in advertisements](section/92B.md)
+  - Enforcement
+    - [s. 93 Offences](section/93.md)
+    - [s. 93A Disqualification orders etc.](section/93A.md)
+    - [s. 94 Circumstances in which no rent to be payable](section/94.md)
+    - [s. 95 Notices under section 94: revocation](section/95.md)
+    - [s. 96 Notification of revocation of notice](section/96.md)
+    - [s. 97 Appeals](section/97.md)
+  - Information
+    - [s. 97A Power to obtain information](section/97A.md)
+    - [s. 97B Power to obtain information: service of requirement](section/97B.md)
+  - Grants
+    - [s. 98 Grants to local authorities](section/98.md)
+  - Regulations
+    - [s. 99 Regulations about advice and assistance: Part 8](section/99.md)
+  - Guidance
+    - [s. 99A Guidance](section/99A.md)
+  - Amendment of Housing (Scotland) Act 1988
+    - [s. 100 Amendment of Housing (Scotland) Act 1988](section/100.md)
+  - Interpretation
+    - [s. 101 Interpretation of Part 8](section/101.md)
+- Part 9 Parenting orders
+  - Applications
+    - [s. 102 Applications](section/102.md)
+  - Parenting orders
+    - [s. 103 Parenting orders](section/103.md)
+  - Matters following making of order
+    - [s. 104 Notification of making of order](section/104.md)
+    - [s. 105 Review of order](section/105.md)
+    - [s. 106 Appeals](section/106.md)
+    - [s. 107 Failure to comply with order](section/107.md)
+  - General requirements
+    - [s. 108 Procedural requirements](section/108.md)
+    - [s. 109 General considerations relating to making, varying and revoking order](section/109.md)
+    - [s. 110 Account to be taken of religion, work and education](section/110.md)
+  - Miscellaneous
+    - [s. 111 Restriction on reporting proceedings relating to parenting orders](section/111.md)
+    - [s. 112 Conduct of proceedings by reporters](section/112.md)
+    - [s. 113 Initial investigations by Principal Reporter](section/113.md)
+    - [s. 114 Power of court to direct Principal Reporter to consider application for parenting order](section/114.md)
+    - [s. 115 Guidance about parenting orders](section/115.md)
+    - [s. 116 Power of hearing to direct Principal Reporter to consider application for parenting order](section/116.md)
+  - Interpretation
+    - [s. 117 Interpretation of Part 9](section/117.md)
+- Part 10 Further criminal measures
+  - Antisocial behaviour orders
+    - [s. 118 Antisocial behaviour orders](section/118.md)
+    - [s. 119 Records of antisocial behaviour orders made in criminal courts](section/119.md)
+  - Community reparation orders
+    - [s. 120 Community reparation orders](section/120.md)
+  - Restriction of liberty orders
+    - [s. 121 Restriction of liberty orders](section/121.md)
+  - Sale of spray paint to children
+    - [s. 122 Offence of selling spray paint to child](section/122.md)
+    - [s. 123 Requirement to display warning statement](section/123.md)
+    - [s. 124 Offences under sections 122 and 123: enforcement](section/124.md)
+    - [s. 125 Offences under sections 122 and 123: powers of entry, inspection and seizure](section/125.md)
+  - Seizure of vehicles
+    - [s. 126 Vehicles used in manner causing alarm, distress or annoyance](section/126.md)
+    - [s. 127 Retention etc. of vehicles seized under section 126](section/127.md)
+- Part 11 Fixed penalties
+  - Offences to which this Part applies
+    - [s. 128 Fixed penalty offences](section/128.md)
+  - Fixed penalty notices and penalties
+    - [s. 129 Fixed penalty notices](section/129.md)
+    - [s. 130 Amount of fixed penalty and form of fixed penalty notice](section/130.md)
+    - [s. 131 Effect of fixed penalty notice](section/131.md)
+    - [s. 132 Payment of fixed penalty](section/132.md)
+  - Revocation of fixed penalty notices
+    - [s. 133 Revocation of fixed penalty notices](section/133.md)
+  - Interpretation
+    - [s. 134 Interpretation of Part 11](section/134.md)
+- Part 12 Children’s hearings
+  - Supervision requirements
+    - [s. 135 Supervision requirements: conditions restricting movement](section/135.md)
+    - [s. 136 Supervision requirements: duties of local authorities](section/136.md)
+  - Failure to provide education for excluded pupils
+    - [s. 137 Failure to provide education for excluded pupils: reference](section/137.md)
+- Part 13 Miscellaneous and general
+  - Miscellaneous
+    - [s. 138 Privacy of certain proceedings](section/138.md)
+    - [s. 139 Disclosure and sharing of information](section/139.md)
+    - [s. 140 Equal opportunities](section/140.md)
+  - General
+    - [s. 141 Orders and regulations](section/141.md)
+    - [s. 142 Directions](section/142.md)
+    - [s. 143 Interpretation: “antisocial behaviour” and other expressions](section/143.md)
+    - [s. 144 Minor and consequential amendments and repeals](section/144.md)
+    - [s. 145 Short title and commencement](section/145.md)
+- SCHEDULE 1 Powers in relation to equipment seized under section 47
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Return etc. of seized equipment](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Penalties for certain environmental offences
+  - Part 1 Acts
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part 2 Subordinate legislation
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Management control orders
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Minor and consequential amendments
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Repeals
