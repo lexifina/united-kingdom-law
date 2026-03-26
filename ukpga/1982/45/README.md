@@ -1,0 +1,358 @@
+# Civic Government (Scotland) Act 1982
+
+1982 c. 45. Enacted 1982-10-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
+
+Source: https://www.legislation.gov.uk/ukpga/1982/45/2026-03-26
+
+## Contents
+
+- Part I Licensing—General Provisions
+  - [s. 1 Application of Parts I and II of this Act.](section/1.md)
+  - [s. 2 Licensing authorities.](section/2.md)
+  - [s. 3 Discharge of functions of licensing authorities.](section/3.md)
+  - [s. 3A Mandatory licence conditions](section/3A.md)
+  - [s. 3B Standard licence conditions](section/3B.md)
+  - [s. 4 Further provisions as to licensing.](section/4.md)
+  - [s. 5 Rights of entry and inspection.](section/5.md)
+  - [s. 6 Powers of entry to and search of unlicensed premises.](section/6.md)
+  - [s. 7 Offences, etc.](section/7.md)
+  - [s. 8 Interpretation of Parts I and II.](section/8.md)
+- Part II Licensing and Regulation—Particular Activities
+  - [s. 9 Application of sections 10 to 27 and 38 to 44.](section/9.md)
+  - Licensing and regulation of taxis and private hire cars
+    - [s. 10 Taxi and private hire car licences.](section/10.md)
+    - [s. 11 Inspection and testing of vehicles.](section/11.md)
+    - [s. 12 Fees for taxi and private hire car licences.](section/12.md)
+    - [s. 13 Taxi and private hire car driving licences.](section/13.md)
+    - [s. 13A Persons disqualified by reason of immigration status](section/13A.md)
+    - [s. 14 Signs on vehicles other than taxis.](section/14.md)
+    - [s. 15 Operation of taxis outside licensing areas.](section/15.md)
+    - [s. 16 Journeys in England and Wales by vehicles and drivers licensed under this Act.](section/16.md)
+    - [s. 17 Taxi fares.](section/17.md)
+    - [s. 18 Appeals in respect of taxi fares.](section/18.md)
+    - [s. 18A Publication and coming into effect of taxi fares](section/18A.md)
+    - [s. 19 Taxi stances.](section/19.md)
+    - [s. 20 Regulations relating to taxis and private hire cars and their drivers.](section/20.md)
+    - [s. 21 Offences.](section/21.md)
+    - [s. 22 Exemptions](section/22.md)
+    - [s. 23 Interpretation of sections 10 to 22.](section/23.md)
+  - Licensing and regulation of second-hand dealers
+    - [s. 24 Second-hand dealers’ licences.](section/24.md)
+    - [s. 25 Disposal of stock-in-trade.](section/25.md)
+    - [s. 26 Sellers of second-hand goods: offences etc.](section/26.md)
+    - [s. 27 Functions of the court in relation to second-hand dealers convicted of offences.](section/27.md)
+  - Licensing and regulation of knife dealers
+    - [s. 27A Knife dealers’ licences](section/27A.md)
+    - [s. 27B Applications for knife dealers’ licences: notice](section/27B.md)
+    - [s. 27C Knife dealers’ licences: conditions](section/27C.md)
+    - [s. 27D Provision of information to holder of knife dealer’s licence](section/27D.md)
+    - [s. 27E Knife dealers’ licences: warrants to enter, search and seize articles](section/27E.md)
+    - [s. 27F Powers of constables and authorised officers](section/27F.md)
+    - [s. 27G Power to inspect documents](section/27G.md)
+    - [s. 27H Sections 27E to 27G: interpretation](section/27H.md)
+    - [s. 27J Forfeiture orders](section/27J.md)
+    - [s. 27K Effect of forfeiture order](section/27K.md)
+    - [s. 27L Offences by partnerships](section/27L.md)
+    - [s. 27M Appropriate licence required](section/27M.md)
+    - [s. 27N Remote sales of knives etc.](section/27N.md)
+    - [s. 27P Sales and dispatches in different local authority areas](section/27P.md)
+    - [s. 27Q Duty to avoid conflict between conditions of licences](section/27Q.md)
+    - [s. 27R Offences in relation to knife dealers’ licences: exceptions](section/27R.md)
+    - [s. 27S Orders under sections 27A to 27R](section/27S.md)
+  - Licensing and regulation of metal dealers
+    - [s. 28 Metal dealers: licensing and regulation.](section/28.md)
+    - [s. 29 Metal dealers’ exemption warrants.](section/29.md)
+    - [s. 30 Keeping of records.](section/30.md)
+    - [s. 31 Retention of metal.](section/31.md)
+    - [s. 32 Itinerant metal dealers.](section/32.md)
+    - [s. 33 Receipts and invoices: itinerant metal dealers.](section/33.md)
+    - [s. 33A Acceptable forms of payment for metal](section/33A.md)
+    - [s. 33B Acceptable forms of payment: meaning of “bank or building society account”](section/33B.md)
+    - [s. 33C Requirement to keep records](section/33C.md)
+    - [s. 33D Form of records](section/33D.md)
+    - [s. 33E Metal dealer to keep records for each place of business](section/33E.md)
+    - [s. 34 Offences relating to metal dealing.](section/34.md)
+    - [s. 35 Functions of the court in relation to metal dealers convicted of offences.](section/35.md)
+    - [s. 35A Register of metal dealers and itinerant metal dealers](section/35A.md)
+    - [s. 36 Appropriate licence required.](section/36.md)
+    - [s. 37 Interpretation of sections 28 to 36.](section/37.md)
+    - [s. 37A Exemptions](section/37A.md)
+  - Miscellaneous licences
+    - [s. 38 Boat hire licences.](section/38.md)
+    - [s. 39 Street traders’ licences.](section/39.md)
+    - [s. 40 Market operators’ licences.](section/40.md)
+    - [s. 41 Public entertainment licences.](section/41.md)
+    - [s. 41A Indoor sports entertainment licences.](section/41A.md)
+    - [s. 42 Late hours catering licences.](section/42.md)
+    - [s. 43 Window cleaners’ licences.](section/43.md)
+    - [s. 44 Additional activities.](section/44.md)
+- Part III Control of sex shops and sexual entertainment venues
+  - [s. 45 Control of sex shops.](section/45.md)
+  - [s. 45A Licensing of sexual entertainment venues: interpretation](section/45A.md)
+  - [s. 45B Licensing of sexual entertainment venues](section/45B.md)
+  - [s. 45C Statements of policy in relation to sexual entertainment venues](section/45C.md)
+  - [s. 45D Deemed grant of applications](section/45D.md)
+  - Conditions of licences granted under this Part
+    - [s. 45E Mandatory licence conditions](section/45E.md)
+    - [s. 45F Standard licence conditions](section/45F.md)
+- PART 3A CIVIC LICENSING STANDARDS OFFICERS
+  - [s. 45G Civic licensing standards officers](section/45G.md)
+  - [s. 45H General functions of a civic licensing standards officer](section/45H.md)
+- Part IV Offences, Powers of Constables, etc.
+  - Offences of annoying, offensive, obstructive or dangerous behaviour
+    - [s. 46 Soliciting and importuning by prostitutes.](section/46.md)
+    - [s. 47 Urinating etc.](section/47.md)
+    - [s. 48 Dogs: fouling of pavements.](section/48.md)
+    - [s. 49 Dangerous and annoying creatures.](section/49.md)
+    - [s. 50 Drunkenness.](section/50.md)
+    - [s. 51 Obscene material.](section/51.md)
+    - [s. 51A Extreme pornography](section/51A.md)
+    - [s. 51B Extreme pornography: excluded images](section/51B.md)
+    - [s. 51C Extreme pornography: defences](section/51C.md)
+    - [s. 52 Indecent photographs etc. of children.](section/52.md)
+    - [s. 52A Possession of indecent photographs of children.](section/52A.md)
+    - [s. 52B Sections 52 and 52A: exceptions for photographs of 16 and 17 year olds](section/52B.md)
+    - [s. 52C Section 52B: proof of exceptions](section/52C.md)
+    - [s. 53 Obstruction by pedestrians.](section/53.md)
+    - [s. 54 Playing instruments, singing, playing radios, etc.](section/54.md)
+    - [s. 55 Touting.](section/55.md)
+    - [s. 56 Fires.](section/56.md)
+  - Preventive offences
+    - [s. 57 Being in or on building etc. with intent to commit theft.](section/57.md)
+    - [s. 58 Convicted thief in possession.](section/58.md)
+  - Powers of constables etc.
+    - [s. 59 Powers of arrest and apprehension.](section/59.md)
+    - [s. 60 Powers of search and seizure.](section/60.md)
+    - [s. 61 Protection of insecure premises.](section/61.md)
+- Part V Public Processions
+  - [s. 62 Notification of processions.](section/62.md)
+  - [s. 63 Functions of regional and islands councils in relation to processions.](section/63.md)
+  - [s. 64 Appeals against orders under section 63.](section/64.md)
+  - [s. 65 Offences and enforcement.](section/65.md)
+  - [s. 65A Guidance to local authorities](section/65A.md)
+  - [s. 66 Relationship of sections 62 to 65 with Public Order Act 1986.](section/66.md)
+- Part VI Lost and Abandoned Property
+  - [s. 67 Duty of finder.](section/67.md)
+  - [s. 68 Functions of chief constable.](section/68.md)
+  - [s. 69 Claims by owner etc. prior to disposal.](section/69.md)
+  - [s. 70 Powers of chief constable regarding rewards.](section/70.md)
+  - [s. 71 Right arising on disposal of property.](section/71.md)
+  - [s. 72 Rights to compensation.](section/72.md)
+  - [s. 73 No right of ownership conferred by finding.](section/73.md)
+  - [s. 74 Living creatures.](section/74.md)
+  - [s. 75 Stray dogs.](section/75.md)
+  - [s. 76 Appeal to sheriff.](section/76.md)
+  - [s. 77 Financial provisions.](section/77.md)
+  - [s. 78 Crown application of Part VI.](section/78.md)
+  - [s. 79 Interpretation of Part VI.](section/79.md)
+- Part VII Property in Possession of Persons Taken into Police Custody
+  - [s. 80 Application of Part VII to property.](section/80.md)
+  - [s. 81 Chief constable to take charge of property.](section/81.md)
+  - [s. 82 Provision as to property where the person in custody is the owner etc.](section/82.md)
+  - [s. 83 Provision as to property where the person in custody is not the owner etc.](section/83.md)
+  - [s. 84 Appeal to sheriff.](section/84.md)
+  - [s. 85 Financial provisions: property of persons in custody.](section/85.md)
+  - [s. 86 Interpretation and Crown application of this Part.](section/86.md)
+- Part VIIA Property In Unlawful Possession of Persons Taken Into Police Custody and Certain Other Property to which Part VII does not apply
+  - [s. 86A Application of Part VIIA to property.](section/86A.md)
+  - [s. 86B Certification by prosecutor.](section/86B.md)
+  - [s. 86C Claims by owner etc. prior to disposal.](section/86C.md)
+  - [s. 86D Duty of care etc.](section/86D.md)
+  - [s. 86E Disposal of relevant property.](section/86E.md)
+  - [s. 86F Retention of relevant property by Scottish Police Authority](section/86F.md)
+  - [s. 86G Appeals.](section/86G.md)
+  - [s. 86H Crown application of Part VIIA.](section/86H.md)
+  - [s. 86I Further financial provision.](section/86I.md)
+  - [s. 86J References in this Part to “chief constable”.](section/86J.md)
+- Part VIII Buildings, etc.
+  - [s. 87 Local authorities’ powers in relation to buildings in need of repair.](section/87.md)
+  - [s. 88 Installation of pipes through neighbouring property.](section/88.md)
+  - [s. 89 Safety of platforms etc.](section/89.md)
+  - [s. 90 Lighting of common stairs etc.](section/90.md)
+  - [s. 91 Installation of lights in private property.](section/91.md)
+  - [s. 92 Cleaning and painting of common stairs, etc.](section/92.md)
+  - [s. 93 Fire precautions in common stairs etc.](section/93.md)
+  - [s. 94 Disused petrol containers.](section/94.md)
+  - [s. 95 Private open spaces.](section/95.md)
+  - [s. 96 Statues and monuments.](section/96.md)
+  - [s. 97 Street names and house numbers.](section/97.md)
+  - [s. 98 Luminous tube signs.](section/98.md)
+  - Powers of entry, execution of works, etc.
+    - [s. 99 Power to enter, execute works and recover expense.](section/99.md)
+    - [s. 100 Interest on expenses.](section/100.md)
+    - [s. 101 Offences relating to powers of entry and carrying out of works.](section/101.md)
+    - [s. 102 Entry warrants.](section/102.md)
+    - [s. 103 Execution of owner’s works by occupier.](section/103.md)
+    - [s. 104 Powers of entry: occupier and owner.](section/104.md)
+    - [s. 105 Contents of notices.](section/105.md)
+    - [s. 106 Appeals.](section/106.md)
+    - [s. 107 Time for enforcing certain notices.](section/107.md)
+    - [s. 108 Recovery of expenses incurred under section 87 by charging order.](section/108.md)
+    - [s. 109 Replacement of provisions of this Part by Health and Safety Regulations.](section/109.md)
+- Part IX Miscellaneous and General
+  - Byelaws
+    - [s. 110](section/110.md)
+    - [s. 111 Cessation of certain byelaws and saving for certain byelaws.](section/111.md)
+  - Management rules
+    - [s. 112 Making of management rules.](section/112.md)
+    - [s. 113 Evidence of management rules.](section/113.md)
+    - [s. 114 Publication of management rules.](section/114.md)
+    - [s. 115 Inspection and copies of management rules.](section/115.md)
+    - [s. 116 Expulsion or exclusion for breach of management rules.](section/116.md)
+    - [s. 117 Exclusion orders.](section/117.md)
+    - [s. 118 Offences.](section/118.md)
+  - Regulation of charitable collections
+    - [s. 119 Regulation of charitable collections.](section/119.md)
+  - The seashore etc.
+    - [s. 120 Savings for Crown and other rights.](section/120.md)
+    - [s. 121 Control of the seashore, adjacent waters and inland waters.](section/121.md)
+    - [s. 122 Power to execute works on seashore.](section/122.md)
+    - [s. 123 Interpretation of sections 120 to 122.](section/123.md)
+  - Refuse collection and disposal
+    - [s. 124 ................................](section/124.md)
+    - [s. 125 ................................](section/125.md)
+    - [s. 126 Repeal of sections 124 and 125, savings and transitional provisions.](section/126.md)
+  - Miscellaneous
+    - [s. 127 Advertising on local authority lands, vehicles etc.](section/127.md)
+    - [s. 128 Control of stray dogs.](section/128.md)
+    - [s. 129 Killing of or injury to dogs worrying livestock.](section/129.md)
+  - General
+    - [s. 130 Offences by bodies corporate.](section/130.md)
+    - [s. 131 Application to Crown.](section/131.md)
+    - [s. 132 Expenses.](section/132.md)
+    - [s. 133 Interpretation.](section/133.md)
+    - [s. 134 Postponement of repeal of Burgh Police (Scotland) Acts and local statutory provisions.](section/134.md)
+    - [s. 135 ................................](section/135.md)
+    - [s. 136 Consequential, transitional and supplementary provisions.](section/136.md)
+    - [s. 137 Citation, commencement, repeals and extent.](section/137.md)
+- SCHEDULE 1 Licensing—Further Provisions as to the General System
+  - Applications for the grant and renewal of licences
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Objections and representations
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Disposal of applications for the grant and renewal of licences
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Restriction on successive applications
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Temporary licences
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Duration of licences
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Taxi etc driving licences for persons subject to immigration control
+    - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+  - Notification of changes and alterations
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Variation, suspension and revocation of licences
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Supplementary
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Fees
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Sending of notice by post
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Electronic communications
+    - [Sch. 1 para. 16A](schedule/1/paragraph/16A.md)
+  - Notification of the decisions and giving of reasons
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Appeals
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Power to make provision about hearings
+    - [Sch. 1 para. 18A](schedule/1/paragraph/18A.md)
+  - How hearings may be held
+    - [Sch. 1 para. 18B](schedule/1/paragraph/18B.md)
+  - Interpretation
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+- SCHEDULE 2 Control of Sex Shops
+  - Saving for existing law
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Meaning of “sex shop” and “sex article”
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Miscellaneous definitions
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Requirement for licences for sex shops
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Waivers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Applications for the grant and renewal of licences
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Notification of applications
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Objections and representations
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Disposal of applications for licences
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Notification of decisions and reasons
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Display of licences in sex shops
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Duration of licences
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Revocation of licences
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Notification of changes of circumstances
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Variation of licences
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Surrender of licence
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Register of Applications
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Fees
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Enforcement
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Rights of entry and inspection
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Powers of entry and search
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Sending of notice by post
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Electronic communications
+    - [Sch. 2 para. 22A](schedule/2/paragraph/22A.md)
+  - Notification of decisions and giving of reasons
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Appeals
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Power to make provision about hearings
+    - [Sch. 2 para. 24A](schedule/2/paragraph/24A.md)
+  - How hearings may be held
+    - [Sch. 2 para. 24B](schedule/2/paragraph/24B.md)
+  - Provisions relating to existing premises
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+- Schedule 2A Retention and disposal of property seized under section 54(2A) of this Act
+  - Application
+    - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - Retention
+    - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+  - Arrangements for custody of property
+    - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - Disposal
+    - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+    - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+  - Appeals
+    - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - The Roads and Bridges (Scotland) Act 1878 (c. 51)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Firearms Act 1968 (c. 27)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - The Breeding of Dogs Act 1973 (c. 60)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The Public Passenger Vehicles Act 1981 (c. 14)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- Schedule 4 Repeals
