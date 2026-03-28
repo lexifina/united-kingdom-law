@@ -1,0 +1,622 @@
+# National Health Service (Wales) Act 2006
+
+2006 c. 42. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 27 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/42
+
+Source: https://www.legislation.gov.uk/ukpga/2006/42/2026-03-28
+
+## Contents
+
+- Part 1 Promotion and provision of the health service in Wales
+  - The Welsh Ministers and the health service in Wales
+    - [s. 1 Welsh Ministers’ duty to promote health service](section/1.md)
+    - [s. 1A Welsh Ministers’ duty to secure quality in health services](section/1A.md)
+  - General power to provide services
+    - [s. 2 Welsh Ministers’ general power](section/2.md)
+  - Provision of particular services
+    - [s. 3 Welsh Ministers’ duty as to provision of certain services](section/3.md)
+    - [s. 4 High security psychiatric services](section/4.md)
+    - [s. 5 Other services](section/5.md)
+  - Provision of services otherwise than in Wales
+    - [s. 6 Performance of functions outside Wales](section/6.md)
+    - [s. 6A Reimbursement of cost of services provided in another EEA state](section/6A.md)
+    - [s. 6B Prior authorisation for the purposes of section 6A](section/6B.md)
+    - [s. 6BA Reimbursement of cost of services provided in another EEA state where expenditure incurred on or after 25 October 2013](section/6BA.md)
+    - [s. 6BB Prior authorisation for the purposes of section 6BA](section/6BB.md)
+  - NHS contracts
+    - [s. 7 NHS contracts](section/7.md)
+    - [s. 8 Provision for bodies in Northern Ireland](section/8.md)
+    - [s. 8A Provision for bodies in Scotland](section/8A.md)
+    - [s. 9 Arrangements to be treated as NHS contracts](section/9.md)
+  - Provision of services otherwise than by the Welsh Ministers
+    - [s. 10 Welsh Ministers’ arrangements with other bodies](section/10.md)
+  - Procurement
+    - [s. 10A Procurement of services etc. as part of the NHS in Wales](section/10A.md)
+  - Direct payments for health care
+    - [s. 10B Direct payments for health care](section/10B.md)
+    - [s. 10C Regulations about direct payments](section/10C.md)
+    - [s. 10D Arrangements with other bodies relating to direct payments](section/10D.md)
+- Part 2 Health service bodies
+  - Chapter 1 Local Health Boards
+    - [s. 11 Local Health Boards](section/11.md)
+    - [s. 12 Functions of Local Health Boards](section/12.md)
+    - [s. 12A Local Health Boards’ duty to secure quality in health services](section/12A.md)
+    - [s. 13 Exercise of Local Health Board functions](section/13.md)
+    - [s. 14 Section 50 arrangements and section 64 arrangements](section/14.md)
+    - [s. 15 Administration and management of services](section/15.md)
+    - [s. 16 Advice for Local Health Boards](section/16.md)
+    - [s. 17 Plans for improving health etc](section/17.md)
+  - Chapter 2 NHS trusts
+    - [s. 18 NHS trusts](section/18.md)
+    - [s. 19 Welsh Ministers’ directions to NHS trusts](section/19.md)
+    - [s. 20 General duty of NHS trusts](section/20.md)
+    - [s. 20A Duty of NHS trusts to secure quality in health services](section/20A.md)
+    - [s. 21 Financial provisions relating to NHS trusts](section/21.md)
+  - Chapter 3 Special Health Authorities
+    - [s. 22 Special Health Authorities](section/22.md)
+    - [s. 23 Welsh Ministers’ directions to Special Health Authorities](section/23.md)
+    - [s. 24 Exercise of health service functions by Special Health Authorities](section/24.md)
+    - [s. 24A Duty of Special Health Authorities to secure quality in health services](section/24A.md)
+    - [s. 25 Exercise of Special Health Authority functions](section/25.md)
+  - Chapter 4 Miscellaneous
+    - Nursing services
+      - [s. 25A Duty to have regard to providing sufficient nurses](section/25A.md)
+    - Nurse staffing levels
+      - [s. 25B Duty to calculate and take steps to maintain nurse staffing levels](section/25B.md)
+      - [s. 25C Nurse staffing levels: method of calculation](section/25C.md)
+      - [s. 25D Nurse staffing levels: guidance](section/25D.md)
+      - [s. 25E Nurse staffing levels: reports](section/25E.md)
+    - Intervention orders and default powers
+      - [s. 26 Intervention orders](section/26.md)
+      - [s. 27 Effect of intervention orders](section/27.md)
+      - [s. 28 Default powers](section/28.md)
+    - Transfer of residual liabilities
+      - [s. 29 Transfer of residual liabilities](section/29.md)
+    - Losses and liabilities of certain health service bodies
+      - [s. 30 Schemes for meeting losses and liabilities etc of certain health service bodies](section/30.md)
+    - Directions and regulations under this Part
+      - [s. 31 Directions and regulations under this Part](section/31.md)
+- Part 3 Local authorities and the NHS
+  - [s. 32 Supply of goods and services by local authorities](section/32.md)
+  - [s. 33 Arrangements between NHS bodies and local authorities](section/33.md)
+  - [s. 34 Power of local authorities to make payments](section/34.md)
+  - [s. 35 Care Trusts](section/35.md)
+  - [s. 36 Directed partnership arrangements](section/36.md)
+  - [s. 37 Further provisions about directions and directed partnership arrangements](section/37.md)
+  - [s. 38 Supply of goods and services by the Welsh Ministers](section/38.md)
+  - [s. 39 Conditions of supply under section 38](section/39.md)
+  - [s. 40 Health and well-being strategies in Wales](section/40.md)
+- Part 4 Medical services
+  - Duty of Local Health Boards in relation to primary medical services
+    - [s. 41 Primary medical services](section/41.md)
+  - General medical services contracts
+    - [s. 42 General medical services contracts: introductory](section/42.md)
+    - [s. 43 Requirement to provide certain primary medical services](section/43.md)
+    - [s. 44 Persons eligible to enter into GMS contracts](section/44.md)
+    - [s. 45 GMS contracts: payments](section/45.md)
+    - [s. 46 GMS contracts: prescription of drugs, etc](section/46.md)
+    - [s. 47 GMS contracts: other required terms](section/47.md)
+    - [s. 48 GMS contracts: disputes and enforcement](section/48.md)
+  - Performance of primary medical services
+    - [s. 49 Persons performing primary medical services](section/49.md)
+  - Other arrangements for the provision of primary medical services
+    - [s. 50 Arrangements by Local Health Boards for the provision of primary medical services](section/50.md)
+    - [s. 51 Persons with whom agreements may be made under section 50](section/51.md)
+    - [s. 52 Regulations about section 50 arrangements](section/52.md)
+  - Assistance and support
+    - [s. 53 Assistance and support: primary medical services](section/53.md)
+  - Local Medical Committees
+    - [s. 54 Local Medical Committees](section/54.md)
+  - Provision of accommodation by the Welsh Ministers
+    - [s. 55 Use of accommodation: provision of primary medical services](section/55.md)
+- Part 5 Dental services
+  - Duty of Local Health Boards in relation to primary dental services
+    - [s. 56 Primary dental services](section/56.md)
+  - General dental services contracts
+    - [s. 57 General dental services contracts: introductory](section/57.md)
+    - [s. 58 Requirement to provide certain primary dental services](section/58.md)
+    - [s. 59 Persons eligible to enter into GDS contracts](section/59.md)
+    - [s. 60 GDS contracts: payments](section/60.md)
+    - [s. 61 GDS contracts: other required terms](section/61.md)
+    - [s. 62 GDS contracts: disputes and enforcement](section/62.md)
+  - Performance of primary dental services
+    - [s. 63 Persons performing primary dental services](section/63.md)
+  - Other arrangements for the provision of primary dental services
+    - [s. 64 Arrangements by Local Health Boards for the provision of primary dental services](section/64.md)
+    - [s. 65 Persons with whom agreements may be made under section 64](section/65.md)
+    - [s. 66 Regulations about section 64 arrangements](section/66.md)
+  - Dental public health
+    - [s. 67 Dental public health](section/67.md)
+  - Assistance and support
+    - [s. 68 Assistance and support: primary dental services](section/68.md)
+  - Local Dental Committees
+    - [s. 69 Local Dental Committees](section/69.md)
+  - Provision of accommodation by the Welsh Ministers
+    - [s. 70 Use of accommodation: provision of primary dental services](section/70.md)
+- Part 6 Ophthalmic services
+  - General ophthalmic services
+    - [s. 71 Arrangements for general ophthalmic services](section/71.md)
+    - [s. 72 Regulations as to general ophthalmic services](section/72.md)
+    - [s. 73 Medical practitioners with qualifications prescribed under section 71](section/73.md)
+    - [s. 74 Exercise of choice of practitioner](section/74.md)
+    - [s. 75 Inadequate provision of ophthalmic services](section/75.md)
+  - Remuneration
+    - [s. 76 Remuneration for persons providing general ophthalmic services](section/76.md)
+    - [s. 77 Section 76: supplementary](section/77.md)
+  - Local Optical Committees
+    - [s. 78 Local Optical Committees](section/78.md)
+  - Provision of accommodation by the Welsh Ministers
+    - [s. 79 Use of accommodation: provision of general ophthalmic services](section/79.md)
+- Part 7 Pharmaceutical services and local pharmaceutical services
+  - Chapter 1 Pharmaceutical services
+    - Provision of pharmaceutical services
+      - [s. 80 Arrangements for pharmaceutical services](section/80.md)
+      - [s. 81 Arrangements for additional pharmaceutical services](section/81.md)
+      - [s. 82 Terms and conditions, etc](section/82.md)
+      - [s. 82A Pharmaceutical needs assessments](section/82A.md)
+      - [s. 83 Regulations as to pharmaceutical services](section/83.md)
+      - [s. 84 Regulations under section 83: appeals, etc](section/84.md)
+      - [s. 85 Power to charge](section/85.md)
+      - [s. 86 Persons authorised to provide pharmaceutical services](section/86.md)
+      - [s. 87 Inadequate provision of pharmaceutical services](section/87.md)
+    - Remuneration
+      - [s. 88 Remuneration for persons providing pharmaceutical services](section/88.md)
+      - [s. 89 Section 88: supplementary](section/89.md)
+    - Local Pharmaceutical Committees
+      - [s. 90 Local Pharmaceutical Committees](section/90.md)
+    - Provision of accommodation by the Welsh Ministers
+      - [s. 91 Use of accommodation: provision of pharmaceutical services](section/91.md)
+  - Chapter 2 Local pharmaceutical services: pilot schemes
+    - [s. 92 Pilot schemes](section/92.md)
+    - [s. 93 Making pilot schemes](section/93.md)
+    - [s. 94 Designation of priority neighbourhoods or premises](section/94.md)
+    - [s. 95 Reviews of pilot schemes](section/95.md)
+    - [s. 96 Variation and termination of pilot schemes](section/96.md)
+    - [s. 97 NHS contracts and the provision of piloted services](section/97.md)
+    - [s. 98 Funding of preparatory work](section/98.md)
+    - [s. 99 Application of this Act](section/99.md)
+    - [s. 100 Premises from which piloted services may be provided](section/100.md)
+    - [s. 101 Control of entry regulations](section/101.md)
+  - Chapter 3 Local pharmaceutical services: LPS schemes
+    - [s. 102 Local pharmaceutical services schemes](section/102.md)
+  - Chapter 4 Local pharmaceutical services: application of enactments
+    - [s. 103 Application of enactments](section/103.md)
+- Part 8 Qualifications to practice
+  - Chapter 1 Conditional inclusion and supplementary lists
+    - [s. 104 Conditional inclusion in ophthalmic and pharmaceutical lists](section/104.md)
+    - [s. 105 Supplementary lists](section/105.md)
+    - [s. 106 Further provision about regulations under section 105](section/106.md)
+  - Chapter 1A Notices and penalties
+    - [s. 106A Notices and penalties](section/106A.md)
+  - Chapter 2 Disqualification
+    - [s. 107 Disqualification of practitioners](section/107.md)
+    - [s. 108 Contingent removal](section/108.md)
+    - [s. 109 Fraud and unsuitability cases: supplementary](section/109.md)
+    - [s. 110 Suspension](section/110.md)
+    - [s. 111 Suspension pending appeal](section/111.md)
+    - [s. 112 Effect of suspension](section/112.md)
+    - [s. 113 Review of decisions](section/113.md)
+    - [s. 114 Appeals](section/114.md)
+    - [s. 115 National disqualification](section/115.md)
+    - [s. 116 Notification of decisions](section/116.md)
+    - [s. 117 Withdrawal from lists](section/117.md)
+    - [s. 118 Regulations about decisions under this Chapter](section/118.md)
+    - [s. 119 Corresponding provisions in Scotland and Northern Ireland](section/119.md)
+  - Chapter 3 Indemnity Cover
+    - [s. 120 Indemnity cover](section/120.md)
+- Part 9 Charging
+  - Power to charge generally
+    - [s. 121 Charges for drugs, medicines or appliances, or pharmaceutical services](section/121.md)
+    - [s. 122 Exemptions from general charging](section/122.md)
+    - [s. 123 Pre-payment certificates](section/123.md)
+    - [s. 124 Charges in respect of non-residents](section/124.md)
+  - Charging for dental services
+    - [s. 125 Dental charging](section/125.md)
+    - [s. 126 Exemptions from dental charging](section/126.md)
+  - Charging for local pharmaceutical services
+    - [s. 127 Charges, recovery of payments and penalties](section/127.md)
+  - Charging for optical appliances
+    - [s. 128 Charges for optical appliances](section/128.md)
+    - [s. 129 Payments in respect of optical appliances](section/129.md)
+  - Exemptions, etc
+    - [s. 130 Remission and repayment of charges](section/130.md)
+    - [s. 131 Payment of travelling expenses](section/131.md)
+    - [s. 132 Sections 130 and 131: supplementary](section/132.md)
+  - Other provisions relating to charging
+    - [s. 133 Charges for more expensive supplies](section/133.md)
+    - [s. 134 Charges for repairs and replacements in certain cases](section/134.md)
+    - [s. 135 Charges for designated services or facilities](section/135.md)
+    - [s. 136 Sums otherwise payable to those providing services](section/136.md)
+    - [s. 137 Hospital accommodation on part payment](section/137.md)
+    - [s. 138 Expenses payable by employed patients](section/138.md)
+  - Recovery, etc
+    - [s. 139 Recovery of charges](section/139.md)
+    - [s. 140 Recovery of charges and payments in relation to goods and services](section/140.md)
+    - [s. 141 Penalties relating to charges](section/141.md)
+    - [s. 142 Offences relating to charges](section/142.md)
+- Part 10 Protection of NHS from fraud and other unlawful activities
+  - Preliminary
+    - [s. 143 Compulsory disclosure of documents](section/143.md)
+    - [s. 144 Persons and bodies about which provision is made by this Part](section/144.md)
+  - Disclosure notices
+    - [s. 145 Notice requiring production of documents](section/145.md)
+    - [s. 146 Production of documents](section/146.md)
+    - [s. 147 Delegation of functions](section/147.md)
+    - [s. 148 Code of practice relating to delegated functions](section/148.md)
+    - [s. 149 Disclosure of information](section/149.md)
+    - [s. 150 Protection of personal information disclosed for purposes of proceedings](section/150.md)
+    - [s. 151 Manner in which disclosure notice may be served](section/151.md)
+  - Offences under this Part
+    - [s. 152 Offences in connection with production of documents](section/152.md)
+    - [s. 153 Offences relating to disclosure or use of information](section/153.md)
+    - [s. 154 Offences by bodies corporate etc](section/154.md)
+    - [s. 155 Offences committed by partnerships and other unincorporated associations](section/155.md)
+    - [s. 156 Penalties for offences under this Part: transitional modification](section/156.md)
+  - Supplementary
+    - [s. 157 Orders and regulations under this Part](section/157.md)
+    - [s. 158 Interpretation of this Part](section/158.md)
+- Part 11 Property and finance
+  - Chapter 1 Land and other Property
+    - [s. 159 Acquisition, use and maintenance of property](section/159.md)
+  - Chapter 2 Trusts
+    - [s. 160 Special trustees for a university or teaching hospital](section/160.md)
+    - [s. 161 Transfers of trust property](section/161.md)
+    - [s. 162 Transfer of functions and property to or from special trustees](section/162.md)
+    - [s. 163 Trustees and property under section 169](section/163.md)
+    - [s. 164 Application of trust property: further provisions](section/164.md)
+    - [s. 165 Trusts: supplementary provisions](section/165.md)
+  - Chapter 3 Property transferred under the National Health Service Act 1946
+    - [s. 166 Transferred property free of trusts](section/166.md)
+    - [s. 167 Trust property previously held for general hospital purposes](section/167.md)
+    - [s. 168 Voluntary hospitals](section/168.md)
+  - Chapter 4 Raising money
+    - [s. 169 Power to raise money](section/169.md)
+  - Chapter 5 Formation of companies
+    - [s. 170 Public-private partnerships](section/170.md)
+  - Chapter 6 Finance
+    - Special Health Authorities
+      - [s. 171 Means of meeting expenditure of Special Health Authorities out of public funds](section/171.md)
+      - [s. 172 Financial duties of Special Health Authorities](section/172.md)
+      - [s. 173 Resource limits for Special Health Authorities](section/173.md)
+    - Local Health Boards
+      - [s. 174 Public funding of Local Health Boards](section/174.md)
+      - [s. 175 Financial duties of Local Health Boards](section/175.md)
+      - [s. 176 Resource limits for Local Health Boards](section/176.md)
+      - [s. 177 Further provision about the expenditure of Local Health Boards](section/177.md)
+    - Accounts and audit
+      - [s. 178 Accounts and audit](section/178.md)
+    - Allowances and remuneration
+      - [s. 179 Allowances for members of certain bodies](section/179.md)
+      - [s. 180 Special arrangement as to payment of remuneration](section/180.md)
+      - [s. 181 Payments for certain medical examinations](section/181.md)
+- Part 12 Public involvement and scrutiny
+  - Chapter 1 Community Health Councils
+    - [s. 182 Community Health Councils](section/182.md)
+  - Chapter 2 Public involvement and consultation
+    - [s. 183 Public involvement and consultation](section/183.md)
+  - Chapter 3 Overview and scrutiny committees
+    - [s. 184 Functions of overview and scrutiny committees](section/184.md)
+    - [s. 185 Joint overview and scrutiny committees etc](section/185.md)
+    - [s. 186 Overview and scrutiny committees: exempt information](section/186.md)
+- Part 13 Miscellaneous
+  - Independent advocacy services
+    - [s. 187 Independent advocacy services](section/187.md)
+  - Joint working with the prison service
+    - [s. 188 Joint working with the prison service](section/188.md)
+  - Advisory committees
+    - [s. 189 Welsh Ministers’ standing advisory committees](section/189.md)
+    - [s. 190 Advisory committees for Wales](section/190.md)
+  - Emergency powers
+    - [s. 191 Emergency powers](section/191.md)
+  - Local social services authorities
+    - [s. 192 Local social service authorities](section/192.md)
+  - Supplies by the Welsh Ministers
+    - [s. 193 Supplies not readily obtainable](section/193.md)
+  - Community services
+    - [s. 194 Power of Local Health Boards to make payments towards expenditure on community services](section/194.md)
+    - [s. 195 Payments in respect of voluntary organisations under section 194](section/195.md)
+    - [s. 196 Power of Welsh Ministers to make payments towards expenditure on community services in Wales](section/196.md)
+  - Universities
+    - [s. 197 University clinical teaching and research](section/197.md)
+  - Use of facilities in private practice
+    - [s. 198 Permission for use of facilities in private practice](section/198.md)
+  - Health service development
+    - [s. 199 Persons displaced by health service development](section/199.md)
+  - Registration of information, etc
+    - [s. 200 Special notices of births and deaths](section/200.md)
+    - [s. 201 Provision of information by Registrar General](section/201.md)
+- Part 14 Supplementary
+  - [s. 202 Territorial limit of exercise of functions](section/202.md)
+  - [s. 203 Orders, regulations and directions](section/203.md)
+  - [s. 204 Further provision about orders and directions under this Act](section/204.md)
+  - [s. 205 Supplementary regulatory powers](section/205.md)
+  - [s. 206 Interpretation](section/206.md)
+  - [s. 207 Index of defined expressions](section/207.md)
+  - [s. 208 Commencement](section/208.md)
+  - [s. 209 Short title, extent and application](section/209.md)
+- SCHEDULE 1 Further provision about the Welsh Ministers and services under this Act
+  - Medical inspection of pupils
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Weighing and measuring of children
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+    - [Sch. 1 para. 7B](schedule/1/paragraph/7B.md)
+  - Contraceptive services
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Provision of vehicles for disabled persons
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Provision of a microbiological service by the Welsh Ministers
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Powers of the Welsh Ministers in relation to research
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Local Health Boards
+  - Part 1 Constitution and membership
+    - Status
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Membership
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Staff
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Remuneration, pensions etc of members
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Part 2 LHB orders
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Part 3 Other Matters
+    - General power
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Rights and liabilities
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Making accommodation or services available
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Powers of Local Health Boards to enter into externally financed development agreements
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Research
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Training
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Regulations about duties
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Compulsory acquisition
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Dissolution
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Transfer of property
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Transfer of staff
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Interpretation
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+- SCHEDULE 3 NHS trusts established under section 18
+  - Part 1 Constitution, establishment, etc
+    - Status
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Board of directors
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Regulations
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Provision to be made by first NHS trust order
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Temporary availability of staff etc.
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Establishment of NHS trust prior to operational date
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Transfer of staff to NHS trusts
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Transfer of property and liabilities to NHS trusts
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Trust funds and trustees
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Pay and allowances
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Reports and other information
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Part 2 Powers and duties
+    - General
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - NHS contracts
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Research
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Training
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Joint exercise of functions
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Payment for accommodation or services
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Additional income
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Provision of accommodation and services outside England and Wales
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Conferral of further powers by order
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Powers of NHS trusts to enter into externally financed development agreements
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Agreements under section 50 or 64
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Staff
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+    - Pensions, etc.
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+    - Compulsory acquisition
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+  - Part 3 Dissolution
+    - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+    - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+    - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+  - Part 4 Miscellaneous
+    - Use and development of consecrated land and burial grounds
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+    - Instruments etc.
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+    - Interpretation
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+- SCHEDULE 4 Financial provision about NHS trusts established under section 18
+  - Originating capital of NHS trusts
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Financial obligations of NHS trusts
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Borrowing
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Guarantees of borrowing
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Limits on indebtedness
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Additional public dividend capital
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Supplementary payments
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Surplus funds
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Investment
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Special Health Authorities established under section 22
+  - Corporate status
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Pay and allowances
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Staff
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Miscellaneous
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+- SCHEDULE 6 Pilot schemes
+  - How pilot schemes may be initiated
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Preliminary steps to be taken
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Approval
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Preliminary approval
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Effect of proposals on existing services
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Guidance
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Making a scheme
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+- SCHEDULE 7 LPS schemes
+  - Provision of local pharmaceutical services
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Designation of priority neighbourhoods or premises
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Regulations
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+- SCHEDULE 8 Further provision about the expenditure of Local Health Boards
+  - General ophthalmic... services expenditure
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Main expenditure
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 3A](schedule/8/paragraph/3A.md)
+  - Interpretation
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Accounts and audit
+  - NHS bodies
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Accounts to be kept by NHS bodies
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Preparation of annual accounts
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Transmission of annual accounts
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Summarised accounts of NHS bodies
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Exceptions for accounts of charitable trusts
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Exceptions for accounts of non-charitable trusts
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+- SCHEDULE 10 Further provision about Community Health Councils
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+- SCHEDULE 11 Exempt information relating to health services
+  - Part 1 Descriptions of exempt information
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+  - Part 2 Qualifications
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+  - Part 3 Interpretation
+    - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+- SCHEDULE 12 Section 33 arrangements: transfer of staff
+  - Application of Schedule
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Orders transferring staff
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Effect of order on contracts of employment
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Effect of order on pension rights
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Divided employments
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Further provision about standing advisory committees
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 5A](schedule/13/paragraph/5A.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+- SCHEDULE 14 Further provision about advisory committees for Wales
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+- SCHEDULE 15 Further provision about local social services authorities
+  - Care of mothers and young children
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Prevention, care and after-care
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 2A](schedule/15/paragraph/2A.md)
+  - Research
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
