@@ -1,0 +1,447 @@
+# Children's Hearings (Scotland) Act 2011
+
+asp/2011/1. Enacted 2011-01-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 266 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2011/1
+
+Source: https://www.legislation.gov.uk/asp/2011/1/2026-03-30
+
+## Contents
+
+- Part 1 The National Convener and Children’s Hearings Scotland
+  - The National Convener and CHS
+    - [s. 1 The National Convener](section/1.md)
+    - [s. 2 Children’s Hearings Scotland](section/2.md)
+    - [s. 3 Further provision about National Convener and CHS](section/3.md)
+  - The Children’s Panel
+    - [s. 4 The Children’s Panel](section/4.md)
+  - Children’s hearings
+    - [s. 5 Children’s hearing](section/5.md)
+    - [s. 6 Selection of members of children’s hearing](section/6.md)
+    - [s. 7 Holding of children’s hearing](section/7.md)
+    - [s. 8 Provision of advice to children’s hearing](section/8.md)
+    - [s. 9 Independence of children’s hearings](section/9.md)
+  - Power to change National Convener’s functions
+    - [s. 10 Power to change National Convener’s functions](section/10.md)
+  - Functions of CHS
+    - [s. 11 Provision of assistance to National Convener](section/11.md)
+    - [s. 12 Independence of National Convener](section/12.md)
+    - [s. 13 Directions](section/13.md)
+- Part 2 The Principal Reporter and the Scottish Children’s Reporter Administration
+  - The Principal Reporter and SCRA
+    - [s. 14 The Principal Reporter](section/14.md)
+    - [s. 15 The Scottish Children’s Reporter Administration](section/15.md)
+    - [s. 16 Further provision about Principal Reporter and SCRA](section/16.md)
+  - The Principal Reporter
+    - [s. 17 Duty as respects location of children’s hearing](section/17.md)
+    - [s. 18 Power to change Principal Reporter’s functions](section/18.md)
+    - [s. 19 Rights of audience](section/19.md)
+  - Functions of SCRA
+    - [s. 20 Assisting Principal Reporter](section/20.md)
+    - [s. 21 Provision of accommodation for children’s hearings](section/21.md)
+    - [s. 22 Independence of Principal Reporter](section/22.md)
+    - [s. 23 Directions](section/23.md)
+  - Transfer of staff, property etc.
+    - [s. 24 Transfer of staff, property etc.](section/24.md)
+- Part 3 General considerations
+  - [s. 25 Welfare of the child](section/25.md)
+  - [s. 26 Decisions inconsistent with section 25](section/26.md)
+  - [s. 27 Views of the child](section/27.md)
+  - [s. 28 Children’s hearing: pre-condition for making certain orders and warrants](section/28.md)
+  - [s. 29 Sheriff: pre-condition for making certain orders and warrants](section/29.md)
+  - [s. 29A Duty to consider including contact direction](section/29A.md)
+  - [s. 30 Children’s hearing: duty to consider appointing safeguarder](section/30.md)
+  - [s. 31 Sheriff: duty to consider appointing safeguarder](section/31.md)
+- Part 4 Safeguarders
+  - [s. 32 The Safeguarders Panel](section/32.md)
+  - [s. 33 Functions of safeguarder](section/33.md)
+  - [s. 34 Safeguarders: regulations](section/34.md)
+- Part 5 Child assessment and child protection orders
+  - Child assessment orders
+    - [s. 35 Child assessment orders](section/35.md)
+    - [s. 36 Consideration by sheriff](section/36.md)
+  - Child protection orders
+    - [s. 37 Child protection orders](section/37.md)
+  - Consideration of application by sheriff
+    - [s. 38 Consideration by sheriff: application by local authority only](section/38.md)
+    - [s. 39 Consideration by sheriff: application by local authority or other person](section/39.md)
+  - Ancillary measures
+    - [s. 40 Information non-disclosure directions](section/40.md)
+    - [s. 41 Contact directions](section/41.md)
+    - [s. 42 Parental responsibilities and rights directions](section/42.md)
+  - Notice of order
+    - [s. 43 Notice of child protection order](section/43.md)
+  - Obligations of local authority
+    - [s. 44 Obligations of local authority](section/44.md)
+  - Review by children’s hearing of certain orders
+    - [s. 45 Review by children’s hearing where child in place of safety](section/45.md)
+    - [s. 46 Review by children’s hearing where order prevents removal of child](section/46.md)
+  - Decision of children’s hearing
+    - [s. 47 Decision of children’s hearing](section/47.md)
+  - Variation or termination of order by sheriff
+    - [s. 48 Application for variation or termination](section/48.md)
+    - [s. 49 Notice of application for variation or termination](section/49.md)
+    - [s. 50 Children’s hearing to provide advice to sheriff in relation to application](section/50.md)
+    - [s. 51 Determination by sheriff](section/51.md)
+  - Termination of order
+    - [s. 52 Automatic termination of order](section/52.md)
+    - [s. 53 Power of Principal Reporter to terminate order](section/53.md)
+    - [s. 54 Termination of order after maximum of 8 working days](section/54.md)
+  - Other emergency measures
+    - [s. 55 Application to justice of the peace](section/55.md)
+    - [s. 56 Constable’s power to remove child to place of safety](section/56.md)
+    - [s. 57 Sections 55 and 56: regulations](section/57.md)
+  - Implementation of orders: welfare of child
+    - [s. 58 Implementation of orders: welfare of child](section/58.md)
+  - Offences
+    - [s. 59 Offences](section/59.md)
+- Part 6 Investigation and referral to children’s hearing
+  - Provision of information to Principal Reporter
+    - [s. 60 Local authority’s duty to provide information to Principal Reporter](section/60.md)
+    - [s. 61 Constable’s duty to provide information to Principal Reporter](section/61.md)
+    - [s. 62 Provision of information by court](section/62.md)
+    - [s. 63 Provision of evidence from certain criminal cases](section/63.md)
+    - [s. 64 Provision of information by other persons](section/64.md)
+    - [s. 65 Provision of information by constable: child in place of safety](section/65.md)
+  - Investigation and determination by Principal Reporter
+    - [s. 66 Investigation and determination by Principal Reporter](section/66.md)
+    - [s. 67 Meaning of “section 67 ground”](section/67.md)
+    - [s. 68 Determination under section 66: no referral to children’s hearing](section/68.md)
+    - [s. 69 Determination under section 66: referral to children’s hearing](section/69.md)
+    - [s. 70 Requirement under Antisocial Behaviour etc. (Scotland) Act 2004](section/70.md)
+    - [s. 71 Case remitted under section 49 of Criminal Procedure (Scotland) Act 1995](section/71.md)
+    - [s. 72 Child in place of safety: Principal Reporter’s powers](section/72.md)
+- Part 7 Attendance at children’s hearing
+  - [s. 73 Child’s duty to attend children’s hearing](section/73.md)
+  - [s. 74 Relevant person’s duty to attend children’s hearing](section/74.md)
+  - [s. 75 Power to proceed in absence of relevant person](section/75.md)
+  - [s. 76 Power to exclude relevant person from children’s hearing](section/76.md)
+  - [s. 77 Power to exclude relevant person’s representative from children’s hearing](section/77.md)
+  - [s. 78 Rights of certain persons to attend children’s hearing](section/78.md)
+- Part 8 Pre-hearing panel
+  - [s. 79 Referral of certain matters for pre-hearing determination](section/79.md)
+  - [s. 80 Determination of matter referred under section 79](section/80.md)
+  - [s. 81 Determination of claim that person be deemed a relevant person](section/81.md)
+  - [s. 81A Determination that deeming of person as relevant person to end](section/81A.md)
+  - [s. 81B Determination of claim that opportunity to participate not afforded](section/81B.md)
+  - [s. 82 Appointment of safeguarder](section/82.md)
+- Part 9 Children’s hearing
+  - Key definitions
+    - [s. 83 Meaning of “compulsory supervision order”](section/83.md)
+    - [s. 84 Meaning of “movement restriction condition”](section/84.md)
+    - [s. 85 Meaning of “secure accommodation authorisation”](section/85.md)
+    - [s. 86 Meaning of “interim compulsory supervision order”](section/86.md)
+    - [s. 87 Meaning of “medical examination order”](section/87.md)
+    - [s. 88 Meaning of “warrant to secure attendance”](section/88.md)
+  - Statement of grounds
+    - [s. 89 Principal Reporter’s duty to prepare statement of grounds](section/89.md)
+  - Grounds hearing
+    - [s. 90 Grounds to be put to child and relevant person](section/90.md)
+    - [s. 91 Grounds accepted: powers of grounds hearing](section/91.md)
+    - [s. 92 Powers of grounds hearing on deferral](section/92.md)
+    - [s. 93 Grounds not accepted: application to sheriff or discharge](section/93.md)
+    - [s. 94 Child or relevant person unable to understand grounds](section/94.md)
+    - [s. 95 Child fails to attend grounds hearing](section/95.md)
+  - Children’s hearing to consider need for further interim order
+    - [s. 96 Children’s hearing to consider need for further interim compulsory supervision order](section/96.md)
+  - Application of Part where compulsory supervision order in force
+    - [s. 97 Application of Part where compulsory supervision order in force](section/97.md)
+- Part 10 Proceedings before sheriff
+  - Application for extension or variation of interim compulsory supervision order
+    - [s. 98 Application for extension or variation of interim compulsory supervision order](section/98.md)
+    - [s. 99 Further extension or variation of interim compulsory supervision order](section/99.md)
+  - Power to make interim compulsory supervision order
+    - [s. 100 Sheriff’s power to make interim compulsory supervision order](section/100.md)
+  - Application to establish grounds
+    - [s. 101 Hearing of application](section/101.md)
+    - [s. 102 Jurisdiction and standard of proof: offence ground](section/102.md)
+    - [s. 103 Child’s duty to attend hearing unless excused](section/103.md)
+    - [s. 104 Child and relevant person: representation at hearing](section/104.md)
+  - Ground accepted before application determined
+    - [s. 105 Application by virtue of section 93: ground accepted before determination](section/105.md)
+    - [s. 106 Application by virtue of section 94: ground accepted by relevant person before determination](section/106.md)
+  - Withdrawal of application: termination of orders etc.
+    - [s. 107 Withdrawal of application: termination of orders etc. by Principal Reporter](section/107.md)
+  - Determination of application
+    - [s. 108 Determination: ground established](section/108.md)
+    - [s. 109 Determination: power to make interim compulsory supervision order etc.](section/109.md)
+  - Review of sheriff’s determination
+    - [s. 110 Application for review of grounds determination](section/110.md)
+    - [s. 111 Sheriff: review or dismissal of application](section/111.md)
+    - [s. 112 Child’s duty to attend review hearing unless excused](section/112.md)
+    - [s. 113 Child and relevant person: representation at review hearing](section/113.md)
+    - [s. 114 Sheriff’s powers on review of grounds determination](section/114.md)
+    - [s. 115 Recall: power to refer other grounds](section/115.md)
+    - [s. 116 Recall: powers where no grounds accepted or established](section/116.md)
+    - [s. 117 New section 67 ground established: sheriff to refer to children’s hearing](section/117.md)
+  - Application of Part where compulsory supervision order in force
+    - [s. 118 Application of Part where compulsory supervision order in force](section/118.md)
+- Part 11 Subsequent children’s hearings
+  - [s. 119 Children’s hearing following deferral or proceedings under Part 10](section/119.md)
+  - [s. 120 Powers of children’s hearing on deferral under section 119](section/120.md)
+- Part 12 Children’s hearings: general
+  - Views of child
+    - [s. 121 Confirmation that child given opportunity to express views before hearing](section/121.md)
+  - Children’s advocacy services
+    - [s. 122 Children’s advocacy services](section/122.md)
+  - Warrants to secure attendance
+    - [s. 123 General power to grant warrant to secure attendance](section/123.md)
+  - Child’s age
+    - [s. 124 Requirement to establish child’s age](section/124.md)
+  - Compulsory supervision orders: review
+    - [s. 125 Compulsory supervision order: requirement to review](section/125.md)
+  - Contact orders and permanence orders
+    - [s. 126 Review of contact direction](section/126.md)
+  - Referral where failure to provide education for excluded pupil
+    - [s. 127 Referral where failure to provide education for excluded pupil](section/127.md)
+  - Parenting order
+    - [s. 128 Duty to consider applying for parenting order](section/128.md)
+- Part 13 Review of compulsory supervision order
+  - Requirement for review
+    - [s. 129 Requirement under Antisocial Behaviour etc. (Scotland) Act 2004](section/129.md)
+    - [s. 130 Case remitted under section 49 of Criminal Procedure (Scotland) Act 1995](section/130.md)
+    - [s. 131 Duty of implementation authority to require review](section/131.md)
+    - [s. 132 Right to require review: child, relevant person and person afforded opportunity to participate](section/132.md)
+    - [s. 132A Right of person not afforded opportunity to participate to require review](section/132A.md)
+    - [s. 133 Principal Reporter’s duty to initiate review](section/133.md)
+    - [s. 134 Duty to initiate review if child to be taken out of Scotland](section/134.md)
+    - [s. 135 Duty to initiate review: secure accommodation authorisation](section/135.md)
+    - [s. 136 Duty to initiate review where child transferred](section/136.md)
+  - Functions of Principal Reporter and children’s hearing
+    - [s. 137 Duty to arrange children’s hearing](section/137.md)
+    - [s. 138 Powers of children’s hearing on review](section/138.md)
+    - [s. 139 Powers of children’s hearing on deferral under section 138](section/139.md)
+    - [s. 140 Interim variation of compulsory supervision order](section/140.md)
+    - [s. 141 Preparation of report in circumstances relating to permanence order or adoption](section/141.md)
+  - Review of relevant person determination
+    - [s. 142 Review of determination that person be deemed a relevant person](section/142.md)
+- Part 14 Implementation of orders
+  - Power to transfer child in cases of urgent necessity
+    - [s. 143 Transfers in cases of urgent necessity](section/143.md)
+  - Implementation of compulsory supervision order
+    - [s. 144 Implementation of compulsory supervision order: general duties of implementation authority](section/144.md)
+    - [s. 145 Duty where order requires child to reside in certain place](section/145.md)
+    - [s. 146 Breach of duties imposed by sections 144 and 145](section/146.md)
+    - [s. 147 Application for order](section/147.md)
+    - [s. 148 Order for enforcement](section/148.md)
+  - Compulsory supervision orders etc.: further provision
+    - [s. 149 Compulsory supervision orders etc.: further provision](section/149.md)
+  - Movement restriction conditions: regulations etc.
+    - [s. 150 Movement restriction conditions: regulations etc.](section/150.md)
+  - Secure accommodation
+    - [s. 151 Implementation of secure accommodation authorisation](section/151.md)
+    - [s. 152 Secure accommodation: placement in other circumstances](section/152.md)
+    - [s. 153 Secure accommodation: regulations](section/153.md)
+- Part 15 Appeals
+  - Appeal against decision of children’s hearing
+    - [s. 154 Appeal to sheriff against decision of children’s hearing](section/154.md)
+    - [s. 155 Procedure](section/155.md)
+    - [s. 156 Determination of appeal](section/156.md)
+    - [s. 157 Time limit for disposal of appeal against certain decisions](section/157.md)
+  - Compulsory supervision order: suspension pending appeal
+    - [s. 158 Compulsory supervision order: suspension pending appeal](section/158.md)
+  - Frivolous and vexatious appeals
+    - [s. 159 Frivolous and vexatious appeals](section/159.md)
+  - Other appeals
+    - [s. 160 Appeal to sheriff against relevant person determination](section/160.md)
+    - [s. 161 Appeal to sheriff against decision affecting contact or permanence order](section/161.md)
+    - [s. 162 Appeal to sheriff against decision to implement secure accommodation authorisation](section/162.md)
+  - Appeals to sheriff principal and Court of Session
+    - [s. 163 Appeals to sheriff principal and Court of Session: children’s hearings etc.](section/163.md)
+    - [s. 164 Appeals to sheriff principal and Court of Session: relevant persons](section/164.md)
+    - [s. 165 Appeals to sheriff principal and Court of Session: contact and permanence orders](section/165.md)
+  - Requirement imposed on local authority: review and appeal
+    - [s. 166 Review of requirement imposed on local authority](section/166.md)
+    - [s. 167 Appeals to sheriff principal: section 166](section/167.md)
+- Part 16 Enforcement of orders
+  - [s. 168 Enforcement of orders](section/168.md)
+  - [s. 169 Child absconding from place](section/169.md)
+  - [s. 170 Child absconding from person](section/170.md)
+  - [s. 171 Offences related to absconding](section/171.md)
+- Part 17 Proceedings under Part 10: evidence
+  - [s. 172 Use of evidence obtained from prosecutor](section/172.md)
+  - [s. 173 Cases involving sexual behaviour: evidence](section/173.md)
+  - [s. 174 Cases involving sexual behaviour: taking of evidence by commissioner](section/174.md)
+  - [s. 175 Sections 173 and 174: application to sheriff for order as to evidence](section/175.md)
+  - [s. 176 Amendment of Vulnerable Witnesses (Scotland) Act 2004](section/176.md)
+- Part 18 Miscellaneous
+  - Children’s hearings: procedural rules
+    - [s. 177 Children’s hearings: procedural rules](section/177.md)
+  - Disclosure of information
+    - [s. 178 Children’s hearing: disclosure of information](section/178.md)
+    - [s. 179 Sharing of information: prosecution](section/179.md)
+    - [s. 179A Request for information by person affected by child’s offence or behaviour](section/179A.md)
+    - [s. 179B Information to which section 179A applies](section/179B.md)
+    - [s. 179C Decision by Principal Reporter following request under section 179A](section/179C.md)
+    - [s. 179D Support for persons affected by child’s offence or behaviour](section/179D.md)
+    - [s. 180 Sharing of information: panel members](section/180.md)
+  - Implementation of compulsory supervision orders: annual report
+    - [s. 181 Implementation of compulsory supervision orders: annual report](section/181.md)
+  - Publishing restrictions
+    - [s. 182 Publishing restrictions](section/182.md)
+  - Mutual assistance
+    - [s. 183 Mutual assistance](section/183.md)
+    - [s. 184 Enforcement of obligations on health board under section 183](section/184.md)
+  - Proceedings before sheriff under Act
+    - [s. 185 Amendment of section 32 of Sheriff Courts (Scotland) Act 1971](section/185.md)
+  - Consent of child to medical examination or treatment
+    - [s. 186 Consent of child to medical examination or treatment](section/186.md)
+  - Rehabilitation of offenders
+    - [s. 187 Rehabilitation of Offenders Act 1974: treatment of certain disposals by children’s hearings](section/187.md)
+  - Criminal record certificates
+    - [s. 188 Criminal record certificates](section/188.md)
+  - Places of safety
+    - [s. 189 Places of safety: restrictions on use of police stations](section/189.md)
+  - Orders made outwith Scotland
+    - [s. 190 Effect of orders made outwith Scotland](section/190.md)
+- Part 19 Legal aid and advice
+  - [s. 191 Legal aid and advice](section/191.md)
+  - [s. 192 Power to make regulations about contracts for provision of children’s legal aid](section/192.md)
+- Part 20 General
+  - Formal communications
+    - [s. 193 Formal communications](section/193.md)
+  - Forms
+    - [s. 194 Forms](section/194.md)
+  - Subordinate legislation
+    - [s. 195 Subordinate legislation](section/195.md)
+    - [s. 196 Negative procedure](section/196.md)
+    - [s. 197 Affirmative procedure](section/197.md)
+    - [s. 198 Super-affirmative procedure](section/198.md)
+  - Interpretation
+    - [s. 199 Meaning of “child”](section/199.md)
+    - [s. 200 Meaning of “relevant person”](section/200.md)
+    - [s. 201 Meaning of “relevant local authority”](section/201.md)
+    - [s. 202 Interpretation](section/202.md)
+  - General
+    - [s. 203 Consequential amendments and repeals](section/203.md)
+    - [s. 204 Ancillary provision](section/204.md)
+    - [s. 205 Transitional provision etc.](section/205.md)
+    - [s. 206 Short title and commencement](section/206.md)
+- SCHEDULE 1 Children’s Hearings Scotland
+  - Status
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Membership
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Persons disqualified from membership
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Resignation of members
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Removal of members
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Remuneration, allowances etc.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Chairing meetings
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The National Convener
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Supplementary powers of National Convener
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Delegation of National Convener’s functions
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Area support teams: establishment and membership
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Transfer of members from CPACs
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Area support teams: functions
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Committees
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - CHS’s supplementary powers
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Procedure
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Delegation of CHS’s functions
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Financial interests
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Grants
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Accounts
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - Provision of accounts and other information to Scottish Ministers
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - CHS’s annual report
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - National Convener’s annual report
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Validity of proceedings and actions
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+- SCHEDULE 2 The Children’s Panel
+  - Recruitment and tenure of panel members
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - List of panel members
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Training
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Allowances
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 The Scottish Children’s Reporter Administration
+  - Status
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Membership
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Persons disqualified from membership
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Resignation of members
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Removal of members
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Remuneration, allowances etc.
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Chairing meetings
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - The Principal Reporter
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Supplementary powers of Principal Reporter
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Delegation of Principal Reporter’s functions
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Staff
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Appeals against dismissal
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Committees
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - SCRA’s supplementary powers
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Procedure
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Delegation of SCRA’s functions
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Financial interests
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+  - Grants
+    - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+  - Accounts
+    - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+  - Provision of accounts and other information to Scottish Ministers
+    - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+  - SCRA’s annual report
+    - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+  - Principal Reporter’s annual report
+    - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+  - Validity of proceedings and actions
+    - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+- SCHEDULE 4 Transfer of staff and property to CHS
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Staff transfer orders
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Schemes for transfer of staff: consultation
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Effect on existing contracts of employment
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Transfer of property etc. to CHS
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+- SCHEDULE 5 Minor and consequential amendments
+  - Legal Aid (Scotland) Act 1986 (c.47)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Children (Scotland) Act 1995 (c.36)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Repeals
