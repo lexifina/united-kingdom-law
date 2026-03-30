@@ -1,0 +1,253 @@
+# Criminal Justice (Scotland) Act 2016
+
+asp/2016/1. Enacted 2016-01-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2016/1
+
+Source: https://www.legislation.gov.uk/asp/2016/1/2026-03-30
+
+## Contents
+
+- PART 1 ARREST AND CUSTODY
+  - CHAPTER 1 ARREST BY POLICE
+    - Arrest without warrant
+      - [s. 1 Power of a constable](section/1.md)
+      - [s. 2 Exercise of the power](section/2.md)
+    - Procedure following arrest
+      - [s. 3 Information to be given on arrest](section/3.md)
+      - [s. 4 Arrested person to be taken to police station](section/4.md)
+      - [s. 5 Information to be given at police station](section/5.md)
+      - [s. 6 Information to be recorded by police](section/6.md)
+  - CHAPTER 2 CUSTODY: PERSON NOT OFFICIALLY ACCUSED
+    - Keeping person in custody
+      - [s. 7 Authorisation for keeping in custody](section/7.md)
+      - [s. 8 Information to be given on authorisation](section/8.md)
+      - [s. 9 12 hour limit: general rule](section/9.md)
+      - [s. 10 12 hour limit: previous period](section/10.md)
+      - [s. 11 Authorisation for keeping in custody beyond 12 hour limit](section/11.md)
+      - [s. 12 Information to be given on authorisation under section 11](section/12.md)
+      - [s. 13 Custody review](section/13.md)
+      - [s. 14 Test for sections 7, 11 and 13](section/14.md)
+      - [s. 15 Medical treatment](section/15.md)
+    - Investigative liberation
+      - [s. 16 Release on conditions](section/16.md)
+      - [s. 17 Conditions ceasing to apply](section/17.md)
+      - [s. 18 Modification or removal of conditions](section/18.md)
+      - [s. 19 Review of conditions](section/19.md)
+  - CHAPTER 3 CUSTODY: PERSON OFFICIALLY ACCUSED
+    - Person to be brought before court
+      - [s. 20 Information to be given in particular cases](section/20.md)
+      - [s. 21 Person to be brought before court](section/21.md)
+      - [s. 22 Under 18s to be kept in place of safety prior to court](section/22.md)
+      - [s. 23 Notice to parent that under 18 to be brought before court](section/23.md)
+      - [s. 24 Notice to local authority that under 18 to be brought before court](section/24.md)
+    - Police liberation
+      - [s. 25 Liberation by police](section/25.md)
+      - [s. 26 Release on undertaking](section/26.md)
+      - [s. 27 Modification of undertaking](section/27.md)
+      - [s. 28 Rescission of undertaking](section/28.md)
+      - [s. 29 Expiry of undertaking](section/29.md)
+      - [s. 29A Expiry of undertaking: coronavirus-related reason for non-appearance](section/29A.md)
+      - [s. 30 Review of undertaking](section/30.md)
+  - CHAPTER 4 POLICE INTERVIEW
+    - Rights of suspects
+      - [s. 31 Information to be given before interview](section/31.md)
+      - [s. 32 Right to have solicitor present](section/32.md)
+      - [s. 33 Consent to interview without solicitor](section/33.md)
+    - Person not officially accused
+      - [s. 34 Questioning following arrest](section/34.md)
+    - Person officially accused
+      - [s. 35 Authorisation for questioning](section/35.md)
+      - [s. 36 Authorisation: further provision](section/36.md)
+      - [s. 37 Arrest to facilitate questioning](section/37.md)
+  - CHAPTER 5 RIGHTS OF SUSPECTS IN POLICE CUSTODY
+    - Intimation and access to another person
+      - [s. 38 Right to have intimation sent to other person](section/38.md)
+      - [s. 39 Right to have intimation sent: under 18s](section/39.md)
+      - [s. 40 Right of under 18s to have access to other person](section/40.md)
+      - [s. 41 Social work involvement in relation to under 18s](section/41.md)
+    - Vulnerable persons
+      - [s. 42 Support for vulnerable persons](section/42.md)
+    - Intimation and access to a solicitor
+      - [s. 43 Right to have intimation sent to solicitor](section/43.md)
+      - [s. 44 Right to consultation with solicitor](section/44.md)
+  - CHAPTER 6 POLICE POWERS AND DUTIES
+    - Powers of police
+      - [s. 45 Use of reasonable force](section/45.md)
+      - [s. 46 Common law power of entry](section/46.md)
+      - [s. 47 Common law power of search etc.](section/47.md)
+      - [s. 48 Power of search etc. on arrest](section/48.md)
+      - [s. 49 Taking drunk persons to designated place](section/49.md)
+    - Duties of police
+      - [s. 50 Duty not to detain unnecessarily](section/50.md)
+      - [s. 51 Duty to consider child’s wellbeing](section/51.md)
+      - [s. 52 Duties in relation to children in custody](section/52.md)
+      - [s. 53 Duty to inform Principal Reporter if child not being prosecuted](section/53.md)
+  - CHAPTER 7 GENERAL
+    - Common law and enactments
+      - [s. 54 Abolition of pre-enactment powers of arrest](section/54.md)
+      - [s. 55 Abolition of requirement for constable to charge](section/55.md)
+      - [s. 56 Consequential modification](section/56.md)
+    - Code of practice about investigative functions
+      - [s. 57 Code of practice about investigative functions](section/57.md)
+    - Modifications to Part as it applies in certain cases
+      - [s. 57A Arrest without warrant otherwise than in respect of an offence](section/57A.md)
+      - [s. 57B Arrest under warrant other than an initiating warrant](section/57B.md)
+      - [s. 57C Modifications applying by virtue of sections 57A and 57B](section/57C.md)
+      - [s. 57D Arrest under an extradition arrest power](section/57D.md)
+    - Disapplication of Part
+      - [s. 58 Disapplication in relation to service offences](section/58.md)
+      - [s. 59 Disapplication in relation to cases involving terrorism](section/59.md)
+    - Powers to modify Part
+      - [s. 60 Further provision about application of Part](section/60.md)
+      - [s. 61 Further provision about vulnerable persons](section/61.md)
+    - Interpretation of Part
+      - [s. 62 Meaning of constable](section/62.md)
+      - [s. 63 Meaning of officially accused](section/63.md)
+      - [s. 64 Meaning of police custody](section/64.md)
+- PART 2 SEARCH BY POLICE
+  - CHAPTER 1 SEARCH OF PERSON NOT IN POLICE CUSTODY
+    - Lawfulness of search by constable
+      - [s. 65 Limitation on what enables search](section/65.md)
+      - [s. 66 Cases involving removal of person](section/66.md)
+      - [s. 67 Public safety at premises or events](section/67.md)
+      - [s. 68 Duty to consider child’s wellbeing](section/68.md)
+    - Miscellaneous and definitions
+      - [s. 69 Publication of information by police](section/69.md)
+      - [s. 70 Provisions about possession of alcohol](section/70.md)
+      - [s. 71 Matters as to effect of sections 65, 66 and 70](section/71.md)
+      - [s. 72 Meaning of constable etc.](section/72.md)
+  - CHAPTER 2 CODE OF PRACTICE
+    - Making and status of code
+      - [s. 73 Contents of code of practice](section/73.md)
+      - [s. 74 Review of code of practice](section/74.md)
+      - [s. 75 Legal status of code of practice](section/75.md)
+    - Procedure applying to code
+      - [s. 76 Consultation on code of practice](section/76.md)
+      - [s. 77 Bringing code of practice into effect](section/77.md)
+- PART 3 SOLEMN PROCEDURE
+  - [s. 78 Proceedings on petition](section/78.md)
+  - [s. 79 Pre-trial time limits](section/79.md)
+  - [s. 80 Duty of parties to communicate](section/80.md)
+  - [s. 81 First diets](section/81.md)
+  - [s. 82 Preliminary hearings](section/82.md)
+  - [s. 83 Plea of guilty](section/83.md)
+- PART 4 SENTENCING
+  - Maximum term for weapons offences
+    - [s. 84 Maximum term for weapons offences](section/84.md)
+  - Prisoners on early release
+    - [s. 85 Sentencing under the 1995 Act](section/85.md)
+    - [s. 86 Sentencing under the 1993 Act](section/86.md)
+- PART 5 APPEALS AND SCCRC
+  - Appeals
+    - [s. 87 Preliminary pleas in summary cases](section/87.md)
+    - [s. 88 Preliminary diets in solemn cases](section/88.md)
+    - [s. 89 Extending certain time limits: summary](section/89.md)
+    - [s. 90 Extending certain time limits: solemn](section/90.md)
+    - [s. 91 Certain lateness not excusable](section/91.md)
+    - [s. 92 Advocation in solemn proceedings](section/92.md)
+    - [s. 93 Advocation in summary proceedings](section/93.md)
+    - [s. 94 Finality of appeal proceedings](section/94.md)
+    - [s. 95 Courts reform: spent provisions](section/95.md)
+  - SCCRC
+    - [s. 96 References by SCCRC](section/96.md)
+- PART 6 MISCELLANEOUS
+  - CHAPTER 1 PUBLICATION OF PROSECUTORIAL TEST
+    - [s. 97 Publication of prosecutorial test](section/97.md)
+  - CHAPTER 2 SUPPORT FOR VULNERABLE PERSONS
+    - [s. 98 Meaning of appropriate adult support](section/98.md)
+    - [s. 99 Responsibility for ensuring availability of appropriate adults](section/99.md)
+    - [s. 100 Assessment of quality of appropriate adult support](section/100.md)
+    - [s. 101 Training for appropriate adults](section/101.md)
+    - [s. 102 Recommendations from quality assessor and training provider](section/102.md)
+    - [s. 103 Duty to ensure quality assessment takes place](section/103.md)
+    - [s. 104 Elaboration of regulation-making powers under this Chapter](section/104.md)
+    - [s. 105 Procedure for making regulations under this Chapter](section/105.md)
+    - [s. 106 Other powers of Ministers unaffected](section/106.md)
+  - CHAPTER 3 NOTIFICATION IF PARENT OF UNDER 18 IMPRISONED
+    - [s. 107 Child’s named person to be notified](section/107.md)
+    - [s. 108 Definition of certain expressions](section/108.md)
+  - CHAPTER 4 STATEMENTS AND PROCEDURE
+    - Statements by accused
+      - [s. 109 Statements by accused](section/109.md)
+    - Use of technology
+      - [s. 110 Live television links](section/110.md)
+      - [s. 111 Electronic proceedings](section/111.md)
+  - CHAPTER 5 AUTHORISATION UNDER PART III OF THE POLICE ACT 1997
+    - [s. 112 Authorisation of persons other than constables](section/112.md)
+  - CHAPTER 6 POLICE NEGOTIATING BOARD FOR SCOTLAND
+    - [s. 113 Establishment and functions](section/113.md)
+    - [s. 114 Consequential and transitional](section/114.md)
+- PART 7 FINAL PROVISIONS
+  - Ancillary and definition
+    - [s. 115 Ancillary regulations](section/115.md)
+    - [s. 116 Meaning of “the 1995 Act”](section/116.md)
+  - Commencement and short title
+    - [s. 117 Commencement](section/117.md)
+    - [s. 118 Short title](section/118.md)
+- SCHEDULE 1 BREACH OF LIBERATION CONDITION
+  - Offence of breaching condition
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Sentencing for the offence
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Breach by committing offence
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Matters for paragraph 3(2)(b)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Matters for paragraph 3(2)(c)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Evidential presumptions
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Interpretation
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 MODIFICATIONS IN CONNECTION WITH PART 1
+  - PART 1 PROVISIONS AS TO ARREST
+    - Criminal Procedure (Scotland) Act 1995
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Miscellaneous enactments
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - PART 2 FURTHER MODIFICATIONS
+    - The 1995 Act
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Other enactments
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+- SCHEDULE 3 POLICE NEGOTIATING BOARD FOR SCOTLAND
