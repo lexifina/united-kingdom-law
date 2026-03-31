@@ -2,9 +2,9 @@
 
 2018 c. 12. Enacted 2018-05-23.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-10, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-31, one file per provision. Earlier versions, from 2018-05-23, are in the history before it: `git log -- ukpga/2018/12` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-03-10
+Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-03-31
 
 ## Contents
 
@@ -31,6 +31,7 @@ Source: https://www.legislation.gov.uk/ukpga/2018/12/2026-03-10
     - Rights of the data subject
       - [s. 12 Limits on fees that may be charged by controllers](section/12.md)
       - [s. 13 Obligations of credit reference agencies](section/13.md)
+      - [s. 13A Meaning of “relevant offence” for purpose of right to erasure](section/13A.md)
       - [s. 14 Automated decision-making authorised by law: safeguards](section/14.md)
     - Exemptions etc
       - [s. 15 Exemptions etc](section/15.md)
