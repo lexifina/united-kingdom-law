@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-30, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-31, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-03-30
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-03-31
 
 ## Contents
 
@@ -353,8 +353,8 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-03-30
 - SCHEDULE 9 Treaty state suppliers (specified international agreements)
   - [Sch. 9 para. A1 ...](schedule/9/paragraph/A1.md)
   - [Sch. 9 para. B1 ...](schedule/9/paragraph/B1.md)
-  - [Sch. 9 para. C1 Interpretation](schedule/9/paragraph/C1.md)
-  - [Sch. 9 para. 1 ... The Agreements](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. C1 ...](schedule/9/paragraph/C1.md)
+  - [Sch. 9 para. 1 ... ...](schedule/9/paragraph/1.md)
   - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
   - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
   - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
