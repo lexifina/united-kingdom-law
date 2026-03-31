@@ -1,0 +1,287 @@
+# Counter-Terrorism and Sentencing Act 2021
+
+2021 c. 11. Enacted 2021-04-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-03-31, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2021/11/2026-03-31
+
+## Contents
+
+- PART 1 Sentencing of terrorist and certain other offenders
+  - Offences to be sentenced as terrorist offences
+    - [s. 1 Offences aggravated by terrorist connection](section/1.md)
+    - [s. 2 Meaning of “serious terrorism offence”: England and Wales](section/2.md)
+    - [s. 3 Offences relevant for provisions of this Act relating to Northern Ireland](section/3.md)
+  - Serious terrorism sentences
+    - [s. 4 Serious terrorism sentence for adults aged under 21: England and Wales](section/4.md)
+    - [s. 5 Serious terrorism sentence for adults aged 21 or over: England and Wales](section/5.md)
+    - [s. 6 Serious terrorism sentence: Scotland](section/6.md)
+    - [s. 7 Serious terrorism sentence: Northern Ireland](section/7.md)
+  - Serious terrorism sentences: supplementary provision
+    - [s. 8 Reduction in appropriate custodial term for guilty pleas: England and Wales](section/8.md)
+    - [s. 9 Reduction in appropriate custodial term for guilty pleas: Scotland](section/9.md)
+    - [s. 10 Reduction in appropriate custodial term for assistance to prosecution: England and Wales](section/10.md)
+  - Life or indeterminate sentences for serious terrorism offences
+    - [s. 11 Minimum term order for serious terrorism offenders: England and Wales](section/11.md)
+    - [s. 12 Minimum punishment part for serious terrorism offenders: Scotland](section/12.md)
+    - [s. 13 Minimum tariff for serious terrorism offenders given life sentences: Northern Ireland](section/13.md)
+    - [s. 14 Minimum custodial period for serious terrorism offenders given indeterminate custodial sentences: Northern Ireland](section/14.md)
+  - Extended sentences
+    - [s. 15 Additional offences attracting extended sentence: England and Wales](section/15.md)
+    - [s. 16 Increase in extension period for serious terrorism offenders aged under 18: England and Wales](section/16.md)
+    - [s. 17 Increase in extension period for adult serious terrorism offenders aged under 21: England and Wales](section/17.md)
+    - [s. 18 Increase in extension period for serious terrorism offenders aged 21 or over: England and Wales](section/18.md)
+    - [s. 19 Additional terrorism offences attracting extended sentence: Scotland](section/19.md)
+    - [s. 20 Extended custodial sentences for serious terrorism offenders: Northern Ireland](section/20.md)
+  - Other custodial sentences for terrorist offenders
+    - [s. 21 Offences attracting special custodial sentence for offenders of particular concern: England and Wales](section/21.md)
+    - [s. 22 Special custodial sentence for certain terrorist offenders aged under 18 at time of offence: England and Wales](section/22.md)
+    - [s. 23 Terrorism sentence with fixed licence period: Scotland](section/23.md)
+    - [s. 24 Terrorism sentence with fixed licence period: Northern Ireland](section/24.md)
+  - Sentencing for service offences
+    - [s. 25 Corresponding provision under service law](section/25.md)
+  - Maximum sentences
+    - [s. 26 Increase in maximum sentences for certain terrorist offences](section/26.md)
+- PART 2 Release of terrorist offenders
+  - Removal or restriction of early release for terrorist prisoners
+    - [s. 27 Removal of early release for dangerous terrorist prisoners: England and Wales](section/27.md)
+    - [s. 28 Removal of early release for dangerous terrorist prisoners: Scotland](section/28.md)
+    - [s. 29 Further provision about release of terrorist prisoners: Scotland](section/29.md)
+    - [s. 30 Restricted eligibility for early release of terrorist prisoners: Northern Ireland](section/30.md)
+    - [s. 31 Removal of early release for dangerous terrorist prisoners: Northern Ireland](section/31.md)
+  - Polygraph conditions in licences for release
+    - [s. 32 Polygraph licence conditions for terrorist offenders: England and Wales](section/32.md)
+  - Repatriated terrorist prisoners
+    - [s. 33 Release on licence of terrorist prisoners repatriated to the United Kingdom](section/33.md)
+- PART 3 Prevention and investigation of terrorism
+  - Terrorism prevention and investigation measures
+    - [s. 34 TPIMs: condition as to involvement in terrorism-related activity](section/34.md)
+    - [s. 35 TPIMs: extension of time limit](section/35.md)
+    - [s. 36 TPIMs: variation of measures](section/36.md)
+    - [s. 37 TPIMs: extension of residence measure](section/37.md)
+    - [s. 38 TPIMs: polygraph measure](section/38.md)
+    - [s. 39 TPIMs: drug testing measure](section/39.md)
+    - [s. 40 TPIMs: provision of information](section/40.md)
+    - [s. 41 TPIMs: annual review](section/41.md)
+  - Notification requirements under Part 4 of the Counter-Terrorism Act 2008
+    - [s. 42 Additional offences attracting notification requirements](section/42.md)
+  - Serious crime prevention orders
+    - [s. 43 Police powers to apply for serious crime prevention orders in terrorism cases](section/43.md)
+    - [s. 44 Serious crime prevention orders: review of operation of police powers](section/44.md)
+  - “Prevent” strategy
+    - [s. 45 Persons vulnerable to being drawn into terrorism: timing of independent review](section/45.md)
+- PART 4 General
+  - [s. 46 Consequential and related amendments](section/46.md)
+  - [s. 47 Power to state effect in Sentencing Act 2020 of commencement of amendments made by this Act](section/47.md)
+  - [s. 48 Power to make further consequential provision](section/48.md)
+  - [s. 49 Extent](section/49.md)
+  - [s. 50 Commencement](section/50.md)
+  - [s. 51 Short title](section/51.md)
+- SCHEDULE 1 Offences where terrorist connection not required to be considered
+  - PART 1 England and Wales; service offences
+  - PART 2 Scotland and Northern Ireland
+- SCHEDULE 2 Serious terrorism offences: England and Wales
+- SCHEDULE 3 Offences for the purposes of this Act: Northern Ireland
+- SCHEDULE 4 Serious terrorism offences: Scotland
+- SCHEDULE 5 Terrorism offences attracting extended sentence: Scotland
+- SCHEDULE 6 Offences attracting special custodial sentence for offenders of particular concern: England and Wales
+- SCHEDULE 7 Offences attracting terrorism sentence with fixed licence period: Scotland
+- SCHEDULE 8 Corresponding provision about sentencing under service law
+  - PART 1 Serious terrorism sentences etc
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Serious terrorism sentence for services offences
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Reduction in appropriate custodial term for guilty plea
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Minimum term orders for serious terrorism offenders in cases of service offences
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Reduction in appropriate custodial term for assistance to prosecution
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - PART 2 Offences attracting special custodial sentence
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - PART 3 Special custodial sentence for terrorist offenders of particular concern aged under 18 at time of offence
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+- SCHEDULE 9 Offences carrying restricted eligibility of terrorist prisoners for release on licence: England and Wales
+- SCHEDULE 10 Offences carrying restricted eligibility of terrorist prisoners for release on licence: Scotland
+- SCHEDULE 11 Release on licence of repatriated terrorist prisoners
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+- SCHEDULE 12 Serious crime prevention orders: power for police to apply in terrorism-related cases
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+  - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+- SCHEDULE 13 Consequential and related amendments
+  - PART 1 Offences aggravated by terrorist connection
+    - Terrorism Act 2000 (c. 11)
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Counter-Terrorism and Security Act 2015 (c. 6)
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Space Industry Act 2018 (c. 5)
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Counter-Terrorism and Border Security Act 2019 (c. 3)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Sentencing Act 2020 (c. 17)
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - PART 2 Serious terrorism sentence: England and Wales
+    - Criminal Justice Act 1982 (c. 48)
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Mental Health Act 1983 (c. 20)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - Offender Management Act 2007 (c. 21)
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Sentencing Act 2020 (c. 17)
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - PART 3 Offences attracting special custodial sentence: England and Wales
+    - Sentencing Act 2020 (c. 17)
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - PART 4 Sentence for offenders of particular concern aged under 18 at time of offence: England and Wales
+    - Rehabilitation of Offenders Act 1974 (c. 53)
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - Magistrates’ Courts Act 1980 (c. 43)
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - Mental Health Act 1983 (c. 20)
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - Criminal Justice and Public Order Act 1994 (c. 33)
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - Criminal Justice and Court Services Act 2000 (c. 43)
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - Domestic Violence, Crime and Victims Act 2004 (c. 28)
+      - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - Offender Management Act 2007 (c. 21)
+      - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - Sentencing Act 2020 (c. 17)
+      - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - Children (Secure Accommodation) Regulations 1991 (S.I. 1991/1505)
+      - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - Youth Justice Board for England and Wales Order 2000 (S.I. 2000/1160)
+      - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - Child Benefit (General) Regulations 2006 (S.I. 2006/223)
+      - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+    - Employment and Support Allowance Regulations 2008 (S.I. 2008/794)
+      - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - Employment and Support Allowance Regulations 2013 (S.I. 2013/379)
+      - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+    - Children (Secure Accommodation) (Wales) Regulations 2015 (S.I. 2015/1988 (W. 298))
+      - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+  - PART 5 Amendments in relation to sentencing under service law
+    - Rehabilitation of Offenders Act 1974 (c. 53)
+      - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+      - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+    - Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+      - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - Criminal Justice Act 1982 (c. 48)
+      - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - Crime and Disorder Act 1998 (c. 37)
+      - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - Criminal Justice and Court Services Act 2000 (c. 43)
+      - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - Armed Forces Act 2006 (c. 52)
+      - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - Sentencing Act 2020 (c. 17)
+      - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+  - PART 6 Amendments in relation to release: England and Wales
+    - Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
+      - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+    - Criminal Justice Act 2003 (c. 44)
+      - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+      - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+  - PART 7 Consequential and related amendments: Scotland
+    - Social Work (Scotland) Act 1968 (c. 49)
+      - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+    - Rehabilitation of Offenders Act 1974 (c. 53)
+      - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+      - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+    - Repatriation of Prisoners Act 1984 (c. 47)
+      - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+    - Prisons (Scotland) Act 1989 (c. 45)
+      - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+    - Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)
+      - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+    - Criminal Procedure (Scotland Act) 1995 (c. 46)
+      - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - Crime (Sentences) Act 1997 (c. 43)
+      - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+    - International Criminal Court (Scotland) Act 2001 (asp 13)
+      - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+    - Extradition Act 2003 (c. 41)
+      - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+    - Custodial Sentences and Weapons (Scotland) Act 2007 (asp 17)
+      - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+    - Terrorist Offenders (Restriction of Early Release) Act 2020 (c. 3)
+      - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+  - PART 8 Serious terrorism sentence and extended custodial sentence: Northern Ireland
+    - Treatment of Offenders Act (Northern Ireland) 1968 (c. 29 (N.I.))
+      - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+    - Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+      - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+    - Mental Health (Northern Ireland) Order 1986 (S.I. 1985/595 (N.I. 4))
+      - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+    - Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24))
+      - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+    - Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+      - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+  - PART 9 Terrorism sentence with fixed licence period: Northern Ireland
+    - Treatment of Offenders Act (Northern Ireland) 1968 (c. 29 (N.I.))
+      - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+    - Rehabilitation of Offenders (Northern Ireland) Order 1978 (S.I. 1978/1908 (N.I. 27))
+      - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+    - Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24))
+      - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+    - Sexual Offences Act 2003 (c. 42)
+      - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+    - Counter-Terrorism Act 2008 (c. 28)
+      - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+    - Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+      - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+  - PART 10 Release on licence: Northern Ireland
+    - Extradition Act 2003 (c. 41)
+      - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+    - Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))
+      - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+    - Justice Act (Northern Ireland) 2016 (c. 21 (N.I.))
+      - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+    - Parole Commissioners’ Rules (Northern Ireland) 2009 (S.R. (N.I.) 2009 No. 82)
+      - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
