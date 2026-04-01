@@ -2,9 +2,9 @@
 
 2012 c. 14. Enacted 2012-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2011-12-06, are in the history before it: `git log -- ukpga/2012/14` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-03-18
+Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-04-01
 
 ## Contents
 
@@ -338,7 +338,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-03-18
   - Incapacitated persons and minors
     - [s. 222 Removal of special provision for incapacitated persons and minors](section/222.md)
   - Administration
-    - [s. 223 Tax agents: dishonest conduct](section/223.md)
+    - [s. 223 Tax advisers: sanctionable conduct](section/223.md)
     - [s. 224 Information powers](section/224.md)
     - [s. 225 PAYE regulations: information](section/225.md)
   - High value residential property or dwellings
@@ -1778,13 +1778,13 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-03-18
     - [Sch. 37 para. 4](schedule/37/paragraph/4.md)
   - ITA 2007
     - [Sch. 37 para. 5](schedule/37/paragraph/5.md)
-- SCHEDULE 38 Tax agents: dishonest conduct
+- SCHEDULE 38 Tax advisers: sanctionable conduct
   - PART 1 Introduction
     - Overview
       - [Sch. 38 para. 1](schedule/38/paragraph/1.md)
-    - Tax agent
+    - Tax adviser
       - [Sch. 38 para. 2](schedule/38/paragraph/2.md)
-    - Dishonest conduct
+    - Sanctionable conduct
       - [Sch. 38 para. 3](schedule/38/paragraph/3.md)
   - PART 2 Establishing dishonest conduct
     - Conduct notice
@@ -1793,7 +1793,7 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-03-18
       - [Sch. 38 para. 5](schedule/38/paragraph/5.md)
     - Offence of concealment etc in connection with conduct notice
       - [Sch. 38 para. 6](schedule/38/paragraph/6.md)
-  - PART 3 Power to obtain tax agent’s files etc
+  - PART 3 Power to obtain tax adviser’s files etc
     - Circumstances in which power is exercisable
       - [Sch. 38 para. 7](schedule/38/paragraph/7.md)
     - File access notice
@@ -1827,13 +1827,28 @@ Source: https://www.legislation.gov.uk/ukpga/2012/14/2026-03-18
       - [Sch. 38 para. 22](schedule/38/paragraph/22.md)
     - Daily penalty for failure to comply
       - [Sch. 38 para. 23](schedule/38/paragraph/23.md)
+    - Increased daily default penalty
+      - [Sch. 38 para. 23A](schedule/38/paragraph/23A.md)
     - Failure to comply with time limit
       - [Sch. 38 para. 24](schedule/38/paragraph/24.md)
     - Reasonable excuse
       - [Sch. 38 para. 25](schedule/38/paragraph/25.md)
-  - PART 4 Sanctions for dishonest conduct
-    - Penalty for dishonest conduct
+    - Penalties for inaccurate documents
+      - [Sch. 38 para. 25A](schedule/38/paragraph/25A.md)
+  - Part 3A Conduct notices
+    - Giving of conduct notice
+      - [Sch. 38 para. 25B](schedule/38/paragraph/25B.md)
+    - Withdrawal of conduct notice
+      - [Sch. 38 para. 25C](schedule/38/paragraph/25C.md)
+  - PART 4 Sanctions for sanctionable conduct
+    - Penalty for sanctionable conduct
       - [Sch. 38 para. 26](schedule/38/paragraph/26.md)
+    - Disclosure of conduct
+      - [Sch. 38 para. 26A](schedule/38/paragraph/26A.md)
+    - Increased penalties
+      - [Sch. 38 para. 26B](schedule/38/paragraph/26B.md)
+    - Potential lost revenue
+      - [Sch. 38 para. 26C](schedule/38/paragraph/26C.md)
     - Special reduction
       - [Sch. 38 para. 27](schedule/38/paragraph/27.md)
     - Power to publish details
