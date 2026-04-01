@@ -1,0 +1,901 @@
+# Housing (Scotland) Act 1987
+
+1987 c. 26. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 164 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1987/26
+
+Source: https://www.legislation.gov.uk/ukpga/1987/26/2026-04-01
+
+## Contents
+
+- PART I PROVISION OF HOUSING
+  - Duties and powers of local authorities
+    - [s. 1 Duty of local authority to consider needs of their area for further housing accommodation.](section/1.md)
+    - [s. 2 Powers of local authority to provide housing accommodation.](section/2.md)
+    - [s. 3 Power of local authority to provide shops, etc., in connection with housing accommodation.](section/3.md)
+    - [s. 4 Power of local authority to provide furniture, etc.](section/4.md)
+    - [s. 5 Power of local authority to provide board and laundry facilities.](section/5.md)
+    - [s. 5A Power of local authority to provide welfare services.](section/5A.md)
+    - [s. 5B Power to repeal provisions relating to welfare services.](section/5B.md)
+    - [s. 6 Duty of local authority to have regard to amenities of locality, etc.](section/6.md)
+    - [s. 7 Execution of works by local authority in connection with housing operations outside their area.](section/7.md)
+    - [s. 8 Adjustment of differences between local authorities as to carrying out of proposals for provision of housing accommodation.](section/8.md)
+  - Acquisition and disposal of land
+    - [s. 9 Power of local authority to acquire land for, or in connection with, provision of housing accommodation.](section/9.md)
+    - [s. 10 Procedure for acquiring land.](section/10.md)
+    - [s. 11 Local authority may take possession of land to be acquired by agreement or appropriated for purposes of this Part.](section/11.md)
+    - [s. 12 Powers of dealing with land acquired or appropriated for purposes of this Part.](section/12.md)
+    - [s. 12A ................................](section/12A.md)
+    - [s. 13 Power of Secretary of State in certain cases to impose conditions on sale of local authority’s houses, etc.](section/13.md)
+    - [s. 14 Powers of local authorities to sell certain houses without consent of Secretary of State.](section/14.md)
+    - [s. 15 Power of local authority to enforce obligations against owner for time being of land.](section/15.md)
+    - [s. 16 Disposal of land for erection of churches, etc.](section/16.md)
+  - Management and allocation of local authority’s houses
+    - [s. 17 General management and inspection of local authority’s houses.](section/17.md)
+  - Standards and performance in housing management
+    - [s. 17A Publication of information.](section/17A.md)
+    - [s. 17B Power of Secretary of State to direct local authority.](section/17B.md)
+    - [s. 17C Management plan.](section/17C.md)
+    - [s. 18 Byelaws for regulation of local authority’s houses.](section/18.md)
+    - [s. 19 Admission to housing list](section/19.md)
+    - [s. 20 Persons to have priority on housing list and allocation of housing.](section/20.md)
+    - [s. 20A Rules on priority of allocation of housing: consultation](section/20A.md)
+    - [s. 20B Determination of minimum period for application to remain in force](section/20B.md)
+    - [s. 21 Rules relating to the housing list and to transfer of tenants](section/21.md)
+  - Housing co-operatives
+    - [s. 22 ................................](section/22.md)
+    - [s. 22A ................................](section/22A.md)
+  - Powers of Scottish Special Housing Association
+    - [s. 23 Improvement of amenities of residential area by development corporations.](section/23.md)
+- PART II HOMELESS PERSONS
+  - Main definitions
+    - [s. 24 Homeless persons and persons threatened with homelessness.](section/24.md)
+    - [s. 25 Priority need for accommodation.](section/25.md)
+    - [s. 26 Becoming homeless intentionally.](section/26.md)
+    - [s. 27 Meaning of “local connection”.](section/27.md)
+  - Duties of local authorities with respect to homelessness and threatened homelessness
+    - [s. 28 Inquiry into cases of possible homelessness or threatened homelessness.](section/28.md)
+    - [s. 29 Interim duty to accommodate ....](section/29.md)
+    - [s. 30 Notification of decision and reasons.](section/30.md)
+    - [s. 31 Duties to persons found to be homeless.](section/31.md)
+    - [s. 32 Duties to persons found to be threatened with homelessness.](section/32.md)
+    - [s. 32A Power of the Scottish Ministers to modify application of sections 31 and 32](section/32A.md)
+    - [s. 32B Housing support: persons found to be homeless or threatened with homelessness](section/32B.md)
+    - [s. 33 Referral of application to another local authority.](section/33.md)
+    - [s. 33A Power to modify section 33](section/33A.md)
+    - [s. 33B Statement on exercise of power to modify section 33](section/33B.md)
+    - [s. 34 Duties to persons whose applications are referred.](section/34.md)
+    - [s. 35 Supplementary provisions.](section/35.md)
+    - [s. 35A Right to request review of decision](section/35A.md)
+    - [s. 35B Procedure on review](section/35B.md)
+    - [s. 36 Protection of property of homeless persons and persons threatened with homelessness.](section/36.md)
+  - Duties of relevant bodies in relation to homelessness
+    - [s. 36A Duty to ask if a person is homeless or threatened with homelessness](section/36A.md)
+    - [s. 36B Duty to act if a person may be homeless](section/36B.md)
+    - [s. 36C Duty to act if a person may be threatened with homelessness](section/36C.md)
+    - [s. 36D Power of relevant bodies to share information](section/36D.md)
+    - [s. 36E Duty to have regard to matters relating to homelessness](section/36E.md)
+  - Administrative provisions
+    - [s. 37 Guidance to authorities by the Secretary of State.](section/37.md)
+    - [s. 38 Co-operation between authorities.](section/38.md)
+  - Assistance for voluntary organisations
+    - [s. 39 Financial and other assistance for voluntary organisations concerned with homelessness.](section/39.md)
+  - Supplementary provisions
+    - [s. 40 False statements, withholding information and failure to disclose change of circumstances.](section/40.md)
+    - [s. 40A Meaning of homelessness and threatened with homelessness](section/40A.md)
+    - [s. 40B Power to modify provision about a person becoming homeless intentionally](section/40B.md)
+    - [s. 41 Meaning of accommodation available for occupation.](section/41.md)
+    - [s. 42 Application of this Part to cases arising in England or Wales.](section/42.md)
+    - [s. 43 Minor definitions.](section/43.md)
+    - [s. 43A Power to modify the meaning of “relevant body”](section/43A.md)
+- PART III RIGHTS OF PUBLIC SECTOR TENANTS
+  - Security of tenure
+    - [s. 44 ................................](section/44.md)
+    - [s. 45 ................................](section/45.md)
+    - [s. 46 ................................](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 ................................](section/48.md)
+    - [s. 49 ................................](section/49.md)
+    - [s. 50 ................................](section/50.md)
+    - [s. 51 ................................](section/51.md)
+  - Succession
+    - [s. 52 ................................](section/52.md)
+  - Leases
+    - [s. 53 ................................](section/53.md)
+    - [s. 54 ................................](section/54.md)
+  - Subletting
+    - [s. 55 ................................](section/55.md)
+    - [s. 56 ................................](section/56.md)
+  - Repairs and improvements
+    - [s. 57 ................................](section/57.md)
+    - [s. 58 ................................](section/58.md)
+    - [s. 58A ................................](section/58A.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Right to buy
+    - [s. 61 Secure tenant’s right to purchase](section/61.md)
+    - [s. 61ZA Limitation on right to purchase: new tenants](section/61ZA.md)
+    - [s. 61A Limitation on right to purchase from registered social landlords](section/61A.md)
+    - [s. 61B Limitation on right to purchase: pressured areas](section/61B.md)
+    - [s. 61C Pressured area proposals: procedure](section/61C.md)
+    - [s. 61D Limitation on right to purchase: arrears of rent, council tax etc.](section/61D.md)
+    - [s. 61E Limitation on right to purchase: conduct](section/61E.md)
+    - [s. 61F Limitation on right to purchase: new supply social housing](section/61F.md)
+    - [s. 62 The price.](section/62.md)
+    - [s. 62A ................................](section/62A.md)
+  - Procedure
+    - [s. 63 Application to purchase and offer to sell.](section/63.md)
+    - [s. 63A Information to be prescribed](section/63A.md)
+    - [s. 64](section/64.md)
+    - [s. 65 Variation of conditions.](section/65.md)
+    - [s. 66 Notice of acceptance.](section/66.md)
+    - [s. 66A Abatement of purchase price on landlord’s failure before contract of sale.](section/66A.md)
+    - [s. 66B Abatement of purchase price on landlord’s failure after contract of sale.](section/66B.md)
+    - [s. 66C Provisions relating to sections 66A and 66B.](section/66C.md)
+    - [s. 67 ................................](section/67.md)
+    - [s. 68 Refusal of applications.](section/68.md)
+  - Houses provided for special purposes
+    - [s. 69 Secretary of State’s power to authorise refusal to sell certain houses provided for persons of pensionable age.](section/69.md)
+    - [s. 69A Power to refuse to sell houses required for police purposes](section/69A.md)
+    - [s. 70 Power to refuse to sell certain houses required for educational purposes.](section/70.md)
+  - Houses liable to demolition
+    - [s. 70A Authorisation of refusal to sell houses liable to demolition](section/70A.md)
+  - Lands Tribunal
+    - [s. 71 Reference to Lands Tribunal.](section/71.md)
+  - Recoverability of discount
+    - [s. 72 Recovery of discount on early re-sale.](section/72.md)
+    - [s. 73 Cases where discount etc. is not recoverable.](section/73.md)
+  - Rent to loan scheme
+    - [s. 73A ................................](section/73A.md)
+    - [s. 73B ................................](section/73B.md)
+    - [s. 73C ................................](section/73C.md)
+    - [s. 73D ................................](section/73D.md)
+    - [s. 74 Duties of landlords.](section/74.md)
+    - [s. 75 Agreements affecting right to purchase.](section/75.md)
+    - [s. 75A ................................](section/75A.md)
+    - [s. 76 ................................](section/76.md)
+  - Powers of Secretary of State
+    - [s. 77 Secretary of State may make provision for vesting in landlord to bring into being tenant’s right to purchase house.](section/77.md)
+    - [s. 78 Secretary of State may give directions to modify conditions of sale.](section/78.md)
+    - [s. 79 Secretary of State may give financial and other assistance for tenants involved in proceedings.](section/79.md)
+    - [s. 80 Secretary of State may make contributions towards the cost of transfers and exchanges.](section/80.md)
+    - [s. 81 Information from landlords in relation to Secretary of State’s powers.](section/81.md)
+  - Preservation of right to buy on disposal to private sector landlord
+    - [s. 81A ................................](section/81A.md)
+  - Consultation before disposal to private sector landlord
+    - [s. 81B ................................](section/81B.md)
+  - General
+    - [s. 82 Interpretation of sections 14, 19 and 20](section/82.md)
+    - [s. 83 Members of a person’s family.](section/83.md)
+    - [s. 84 Service of notices.](section/84.md)
+    - [s. 84A Application of right to buy to cases where landlord is lessee.](section/84A.md)
+- PART IV SUB-STANDARD HOUSES
+  - The tolerable standard
+    - [s. 85 General duty of local authority in respect of houses not meeting tolerable standard.](section/85.md)
+    - [s. 86 Definition of house meeting tolerable standard.](section/86.md)
+    - [s. 87 Official representation that house does not meet tolerable standard.](section/87.md)
+  - Improvement order
+    - [s. 88 Improvement of houses below tolerable standard outside housing action areas.](section/88.md)
+  - Housing action areas
+    - [s. 89 Declaration of housing action areas for demolition.](section/89.md)
+    - [s. 90 Declaration of housing action areas for improvement.](section/90.md)
+    - [s. 91 Declaration of housing action areas for demolition and improvement.](section/91.md)
+    - [s. 92 Provisions supplementary to sections 89 to 91.](section/92.md)
+    - [s. 93 Consent to demolition of listed buildings, rehabilitation orders and compensation.](section/93.md)
+  - Powers of Secretary of State
+    - [s. 94 Functions of Secretary of State, and duty of local authority to publish information.](section/94.md)
+  - Powers of local authority
+    - [s. 95 Further procedure, powers of local authority on acquisition of land, compensation and agricultural holdings.](section/95.md)
+    - [s. 96 Power of local authority to retain houses subject to demolition for temporary occupation.](section/96.md)
+    - [s. 97 Local authority may control occupation of houses in housing action area.](section/97.md)
+    - [s. 98 Obligation of local authorities in relation to rehousing in housing action areas.](section/98.md)
+  - Landlords and tenants in housing action areas
+    - [s. 99 Application to sheriff for possession where house is identified in accordance with paragraph 1(1) of Schedule 8 as read with section 92(4)(a).](section/99.md)
+    - [s. 100 Application to sheriff for possession where house is identified in accordance with paragraph 1(1) of Schedule 8 as read with section 92(4)(c).](section/100.md)
+    - [s. 101 Application to sheriff for possession where house is identified in accordance with paragraph 1 of Schedule 8 as read with section 92(4)(b).](section/101.md)
+    - [s. 102 Procedure; and application of s.103(1) of Rent (Scotland) Act 1984.](section/102.md)
+    - [s. 103 Certain provisions of Rent (Scotland) Act 1984 not to apply.](section/103.md)
+    - [s. 104 Effect of refusal to make order on validity of resolution.](section/104.md)
+  - Miscellaneous
+    - [s. 105 Exclusion of houses controlled by Crown.](section/105.md)
+    - [s. 106 Power of local authority to arrange for the execution of works of improvement by agreement with the owner.](section/106.md)
+    - [s. 107 Conditions may be attached to sale of below-standard local authority houses.](section/107.md)
+- PART V REPAIR OF HOUSES
+  - Repair notices
+    - [s. 108 Power of local authority to secure repair of house in state of serious disrepair.](section/108.md)
+    - [s. 109 Recovery by local authority of expenses under s.108.](section/109.md)
+    - [s. 110 Recovery by lessee of proportion of expenses incurred in repairing house.](section/110.md)
+  - Appeals etc.
+    - [s. 111 Appeals under Part V.](section/111.md)
+    - [s. 112 Date of operation of notices, demands and orders subject to appeal.](section/112.md)
+  - Landlord and tenant
+    - [s. 113 Obligations to repair.](section/113.md)
+- PART VI CLOSING AND DEMOLITION ORDERS
+  - Powers of local authority
+    - [s. 114 Closing order.](section/114.md)
+    - [s. 115 Demolition order.](section/115.md)
+    - [s. 116 Revocation of closing and demolition order.](section/116.md)
+    - [s. 117 Undertakings to bring up to tolerable standard and suspension order.](section/117.md)
+    - [s. 118 Service.](section/118.md)
+    - [s. 119 Listed buildings and houses subject to building preservation orders.](section/119.md)
+    - [s. 120 Powers of local authority in relation to building consisting wholly of closed houses.](section/120.md)
+    - [s. 121 Local authority may acquire and repair house or building liable to closing or demolition order.](section/121.md)
+  - Offences
+    - [s. 122 Penalty for use of premises in contravention of closing order or of undertaking.](section/122.md)
+  - Powers of local authority following demolition order
+    - [s. 123 Procedure where demolition order made.](section/123.md)
+    - [s. 124 Power of local authority to purchase site of demolished building where expenses of demolition cannot be recovered.](section/124.md)
+  - Demolition of obstructive buildings
+    - [s. 125 Local authority may by resolution require demolition of obstructive building.](section/125.md)
+    - [s. 126 Effect of resolution for demolition of obstructive building.](section/126.md)
+  - Possession
+    - [s. 127 Recovery of possession of building or house subject to closing order, etc.](section/127.md)
+    - [s. 128 Recovery of possession of house subject to statutorily regulated tenancy](section/128.md)
+  - Appeals and date of operation of certain notices, etc.
+    - [s. 129 Appeals.](section/129.md)
+    - [s. 130 Date of operation of notices, orders or resolutions subject to appeal.](section/130.md)
+  - Charging orders
+    - [s. 131 Power of local authority to make charging order in favour of themselves.](section/131.md)
+  - Supplementary
+    - [s. 132 Protection of superiors and owners.](section/132.md)
+    - [s. 133 Interpretation.](section/133.md)
+  - Saving
+    - [s. 134 Saving for telecommunication and gas apparatus.](section/134.md)
+- PART VII OVERCROWDING
+  - Definition of overcrowding
+    - [s. 135 Definition of overcrowding.](section/135.md)
+    - [s. 136 The room standard.](section/136.md)
+    - [s. 137 The space standard.](section/137.md)
+  - Powers of Secretary of State
+    - [s. 138 Secretary of State may increase permitted number of persons temporarily.](section/138.md)
+  - Responsibility of occupier
+    - [s. 139 Penalty for occupier causing or permitting overcrowding.](section/139.md)
+    - [s. 140 Exception: children attaining age of 1 or 10.](section/140.md)
+    - [s. 141 Exception: temporary visitor.](section/141.md)
+    - [s. 142 Licence of local authority.](section/142.md)
+    - [s. 143 Exception: holiday visitors.](section/143.md)
+  - Powers and duties of landlord
+    - [s. 144 Offence by landlord not to inform prospective tenant of permitted number of occupants.](section/144.md)
+    - [s. 145 Recovery of possession of overcrowded house that is let.](section/145.md)
+  - Powers and duties of local authority
+    - [s. 146 Duty of local authority to inspect district and to make reports and proposals as to overcrowding.](section/146.md)
+    - [s. 147 Power to require information about persons sleeping in house.](section/147.md)
+    - [s. 148 Duty to give information to landlords and occupiers.](section/148.md)
+    - [s. 149 Power to publish information.](section/149.md)
+    - [s. 150 Duty to enforce this Part.](section/150.md)
+    - [s. 151 Interpretation and application.](section/151.md)
+- PART VIII HOUSES IN MULTIPLE OCCUPATION
+  - Registration schemes
+    - [s. 152 Registration schemes.](section/152.md)
+    - [s. 153 Steps to inform the public about scheme.](section/153.md)
+    - [s. 154 Proof of scheme and contents of register.](section/154.md)
+    - [s. 155 Power to require information for purposes of scheme.](section/155.md)
+  - Management code
+    - [s. 156 Power of Secretary of State to make management code.](section/156.md)
+    - [s. 157 Power of local authority to apply management code to particular house.](section/157.md)
+    - [s. 158 Appeal against making of, or failure to revoke, order under s.157.](section/158.md)
+    - [s. 159 Registration of order and of revocation.](section/159.md)
+  - Powers of local authority to require works to be done
+    - [s. 160 Notice requiring compliance with management code.](section/160.md)
+    - [s. 161 Notice requiring compliance with standards.](section/161.md)
+    - [s. 162 Notice requiring provision of means of escape from fire.](section/162.md)
+    - [s. 163 Appeal against notice requiring execution of works.](section/163.md)
+    - [s. 164 Carrying out of works by local authority.](section/164.md)
+    - [s. 165 Penalty for failure to execute works.](section/165.md)
+  - Overcrowding
+    - [s. 166 Local authority may give directions to prevent or reduce overcrowding in house in multiple occupation.](section/166.md)
+    - [s. 167 Notice of direction.](section/167.md)
+    - [s. 168 Power to require information where notice is in force.](section/168.md)
+    - [s. 169 Revocation and variation.](section/169.md)
+    - [s. 170 Appeal against refusal.](section/170.md)
+  - Supplementary
+    - [s. 171 Application of sections 156 to 161 to certain buildings comprising separate dwellings.](section/171.md)
+    - [s. 172 Management code to be available for dwellings in certain tenements.](section/172.md)
+    - [s. 173 Warrant to authorise entry.](section/173.md)
+    - [s. 174 Application to sheriff where consent unreasonably withheld.](section/174.md)
+    - [s. 175 Protection of superiors and owners.](section/175.md)
+    - [s. 176 Identity and notice under Part VIII.](section/176.md)
+    - [s. 177 Statutory tenant to be regarded as lessee, etc.](section/177.md)
+  - Control orders
+    - [s. 178 Making of control order.](section/178.md)
+    - [s. 179 General effect of control order.](section/179.md)
+    - [s. 180 Effect of control order on persons occupying house.](section/180.md)
+    - [s. 181 Effect of control order in relation to furniture in furnished lettings.](section/181.md)
+    - [s. 182 General duties of local authority when control order in force.](section/182.md)
+    - [s. 183 Compensation payable to dispossessed proprietor.](section/183.md)
+    - [s. 184 Duty to prepare management scheme.](section/184.md)
+    - [s. 185 Power of sheriff to modify or determine lease.](section/185.md)
+  - Appeals
+    - [s. 186 Appeal against control order.](section/186.md)
+    - [s. 187 Control order revoked on appeal.](section/187.md)
+  - Expiration and revocation of control order, Et ceteralaetc
+    - [s. 188 Expiration of control order, and earlier revocation by local authority or sheriff.](section/188.md)
+    - [s. 189 Effect of cessation of control order.](section/189.md)
+    - [s. 190 Interpretation of Part VIII.](section/190.md)
+- PART IX GOVERNMENT GRANTS AND SUBSIDIES
+  - Housing support grants to local authorities
+    - [s. 191 Housing support grants: fixing of aggregate amount.](section/191.md)
+    - [s. 192 Apportionment of housing support grants.](section/192.md)
+    - [s. 193 Variation of orders.](section/193.md)
+  - Grants to the Scottish Special Housing Association and other bodies
+    - [s. 194 Grants payable to the Scottish Special Housing Association and development corporations.](section/194.md)
+    - [s. 195 Grants for affording tax relief to Scottish Special Housing Association.](section/195.md)
+    - [s. 196 ................................](section/196.md)
+    - [s. 197 Financial assistance to voluntary organisations concerned with housing.](section/197.md)
+  - Payment of grants
+    - [s. 198 Payment of grants and accounting provisions.](section/198.md)
+    - [s. 199 Termination of certain exchequer payments to housing authorities.](section/199.md)
+    - [s. 200 ................................](section/200.md)
+  - Payment of subsidies
+    - [s. 201 Payment of subsidies and accounting provisions.](section/201.md)
+  - Secretary of State’s power to vary Exchequer contributions
+    - [s. 202 Power of Secretary of State to reduce, suspend, discontinue or transfer particular Exchequer contributions.](section/202.md)
+- PART X HOUSING ACCOUNTS OF LOCAL AUTHORITIES
+  - [s. 203 The housing revenue account.](section/203.md)
+  - [s. 204 Power of Secretary of State to limit estimated rate fund contributions to housing revenue account.](section/204.md)
+  - [s. 205 The rent rebate account.](section/205.md)
+  - [s. 206 The rent allowance account.](section/206.md)
+  - [s. 207 The slum clearance revenue account.](section/207.md)
+  - [s. 208 Application of receipts from disposal of certain land.](section/208.md)
+  - [s. 209 Adjustment of accounts on appropriation of land.](section/209.md)
+- PART XI RENTS AND SERVICE CHARGES
+  - [s. 210 Rents for public sector housing.](section/210.md)
+  - [s. 211 Service charges.](section/211.md)
+  - [s. 212 Rent increase notice.](section/212.md)
+  - [s. 213 Removal notice.](section/213.md)
+- PART XII HOUSE LOANS AND OTHER FINANCIAL ASSISTANCE
+  - House loans: general
+    - [s. 214 Power of local authority to make advances for the purpose of increasing housing accommodation.](section/214.md)
+    - [s. 215 Requirements as to meeting tolerable standard.](section/215.md)
+  - House loans: special cases
+    - [s. 216 ................................](section/216.md)
+    - [s. 217 Duty of local authorities to offer loans to meet expenses of improvement of houses in housing action areas.](section/217.md)
+    - [s. 218 Duty of local authority to offer loans to meet expenses of repairs.](section/218.md)
+  - Rates of interest on home loans
+    - [s. 219 Local authority home loan interest rates.](section/219.md)
+    - [s. 220 Variation of rate by local authority.](section/220.md)
+    - [s. 221 Variation of rate by Secretary of State.](section/221.md)
+  - Assistance for first-time buyers
+    - [s. 222 Advances to recognised lending institutions to assist first-time buyers.](section/222.md)
+    - [s. 223 Forms of assistance and qualifying conditions.](section/223.md)
+    - [s. 224 Recognised lending institutions.](section/224.md)
+    - [s. 225 Recognised savings institutions.](section/225.md)
+    - [s. 226 Terms of advances and administration.](section/226.md)
+    - [s. 227 Modifications of building society law and disapplication of provisions of the Restrictive Trade Practices Act 1976 in relation to assistance for first-time buyers.](section/227.md)
+    - [s. 228 ................................](section/228.md)
+  - Other assistance
+    - [s. 229 Local authority indemnities for building societies, etc.](section/229.md)
+    - [s. 230 Assistance by local authority for acquiring houses in need of repair and improvement.](section/230.md)
+    - [s. 231 Local loans made by the Treasury for provision or improvement of housing accommodation.](section/231.md)
+    - [s. 233 Power of local authority to assist in provision of separate service water pipes for houses.](section/233.md)
+    - [s. 234 Financial assistance towards tenants’ removal expenses.](section/234.md)
+  - Contributions to assistance for elderly, etc.
+    - [s. 235 ................................](section/235.md)
+- PART XIII LOCAL AUTHORITY GRANTS FOR IMPROVEMENT, REPAIR AND CONVERSION
+  - Improvement grants
+    - [s. 236 Power of local authorities to make improvement grants.](section/236.md)
+    - [s. 236A Power to make improvement grants: further provision](section/236A.md)
+    - [s. 237 Form of application.](section/237.md)
+    - [s. 237A Offences in relation to applications for improvement grant](section/237A.md)
+    - [s. 238 Powers of local authority.](section/238.md)
+    - [s. 239 Consent of Secretary of State.](section/239.md)
+    - [s. 239A Power of Secretary of State to give directions to prevent duplications of grant.](section/239A.md)
+    - [s. 240 Conditions for approval of applications for improvement grant other than applications relating exclusively to the provision of standard amenities.](section/240.md)
+    - [s. 240A Assessment of applicant’s contribution](section/240A.md)
+    - [s. 240B Applicant’s contribution: review](section/240B.md)
+    - [s. 241 Approval of application for improvement grant.](section/241.md)
+    - [s. 242 Amount of improvement grant.](section/242.md)
+    - [s. 243 Payment of improvement grant.](section/243.md)
+    - [s. 244 Duty of local authorities to make improvement grants where an application relates exclusively to the provision of standard amenities or to disabled occupant; and amount thereof.](section/244.md)
+    - [s. 245 Grants restricted to applicant and his personal representatives.](section/245.md)
+    - [s. 246 Conditions to be observed with respect to houses in respect of which an improvement grant has been made, and registration thereof.](section/246.md)
+    - [s. 247 Voluntary repayment of improvement grants.](section/247.md)
+  - Repairs grants.
+    - [s. 248 Repairs grants.](section/248.md)
+  - Grants for fire escapes
+    - [s. 249 Grants for fire escapes for houses in multiple occupation.](section/249.md)
+  - Grants for houses in housing action areas
+    - [s. 250 Application of this Part to houses situated in a housing action area and power of local authority to give repairs grants in such areas and amount thereof.](section/250.md)
+  - Improvement of energy efficiency and safety
+    - [s. 250A Encouragement of works to improve energy efficiency and safety](section/250A.md)
+  - Improvement of amenity grants
+    - [s. 251 Powers of local authority for improvement of amenities.](section/251.md)
+  - Grants for thermal insulation
+    - [s. 252 ................................](section/252.md)
+    - [s. 253 ................................](section/253.md)
+    - [s. 254 ................................](section/254.md)
+  - Agricultural tenants, etc.
+    - [s. 256 Application of this Part to agricultural tenants, etc.](section/256.md)
+    - [s. 256A Application of this Part to the Scottish Ministers](section/256A.md)
+- PART XIV ASSISTANCE FOR OWNERS OF DEFECTIVE HOUSING
+  - Eligibility for assistance
+    - [s. 257 Designation of defective dwellings by Secretary of State.](section/257.md)
+    - [s. 258 Variation or revocation of designation.](section/258.md)
+    - [s. 259 Conditions of eligibility.](section/259.md)
+    - [s. 260 Exceptions to eligibility.](section/260.md)
+    - [s. 261 Construction of references to disposal, etc.](section/261.md)
+  - Determination of entitlement
+    - [s. 262 Application for assistance.](section/262.md)
+    - [s. 263 Application not to be entertained where grant application pending or approved.](section/263.md)
+    - [s. 264 Determination of eligibility.](section/264.md)
+    - [s. 265 Determination of form of assistance to which applicant is entitled.](section/265.md)
+    - [s. 266 Conditions for assistance by way of reinstatement grant.](section/266.md)
+    - [s. 267 Meaning of “work required for reinstatement” and “associated arrangement”.](section/267.md)
+    - [s. 268 Notice of determination.](section/268.md)
+  - Assistance by way of reinstatement grant
+    - [s. 269 Reinstatement grant.](section/269.md)
+    - [s. 270 Conditions of payment of reinstatement grant.](section/270.md)
+    - [s. 271 Amount of reinstatement grant.](section/271.md)
+    - [s. 272 Changes in work or expenditure.](section/272.md)
+    - [s. 273 Payment of reinstatement grant.](section/273.md)
+    - [s. 274 Repayment of grant for breach of condition.](section/274.md)
+  - Assistance by way of repurchase
+    - [s. 275 Repurchase.](section/275.md)
+    - [s. 276 Repurchase by authority other than local authority.](section/276.md)
+    - [s. 277 Interest subject to right of pre-emption, etc.](section/277.md)
+    - [s. 278 Compulsory purchase compensation to be made up to 95 per cent. of defect-free value.](section/278.md)
+    - [s. 279 Supplementary provisions as to payments under s.277 or 278.](section/279.md)
+    - [s. 280 Reimbursement of expenses incidental to repurchase.](section/280.md)
+  - Effect of repurchase on occupier
+    - [s. 281 Effect of repurchase on certain existing tenancies.](section/281.md)
+    - [s. 282 Grant of tenancy to former owner-occupier.](section/282.md)
+    - [s. 283 Grant of tenancy to former statutory tenant.](section/283.md)
+    - [s. 284 Alternative accommodation under s.282 or 283.](section/284.md)
+    - [s. 285 Request for tenancy under s.282 or 283.](section/285.md)
+    - [s. 286 Interpretation of ss.281 to 285.](section/286.md)
+  - Local schemes
+    - [s. 287 Designation of defective dwellings under local schemes.](section/287.md)
+    - [s. 288 Variation or revocation of designation under local schemes.](section/288.md)
+    - [s. 289 Secretary of State’s control over designation, variation or revocation.](section/289.md)
+  - Miscellaneous
+    - [s. 290 Duty of local housing authority to publicise availability of assistance.](section/290.md)
+    - [s. 291 Duties of public sector authority disposing of defective dwelling.](section/291.md)
+    - [s. 292 Reinstatement of defective dwelling by local authority.](section/292.md)
+    - [s. 293 Death of person eligible for assistance, etc.](section/293.md)
+    - [s. 294 Dwellings included in more than one designation.](section/294.md)
+    - [s. 295 Application of Act in relation to lenders on security of defective dwelling.](section/295.md)
+    - [s. 296 ................................](section/296.md)
+  - Supplementary provisions
+    - [s. 298 Service of notices.](section/298.md)
+    - [s. 299 Jurisdiction of sheriff in Scotland.](section/299.md)
+    - [s. 300 Meaning of “public sector authority”.](section/300.md)
+    - [s. 301 Disposal of certain Crown interests in land treated as disposal by public sector authority.](section/301.md)
+    - [s. 302 Meaning of “dwelling” and “house”.](section/302.md)
+    - [s. 303 Interpretation.](section/303.md)
+- PART XV COMPENSATION PAYMENTS
+  - Payments for well-maintained houses.
+    - [s. 304 Payments in respect of well-maintained houses subject to closing orders etc.](section/304.md)
+    - [s. 305 Payments in respect of well-maintained houses subject to compulsory purchase as not meeting the tolerable standard.](section/305.md)
+    - [s. 306 Calculation of amount payable for well- maintained houses.](section/306.md)
+  - Repayment of certain payments
+    - [s. 307 Repayment of payments made in connection with closing or demolition order when revoked.](section/307.md)
+  - Payments for houses not meeting tolerable standard
+    - [s. 308 Right to and amount of payments for house not meeting tolerable standard.](section/308.md)
+    - [s. 309 Right of parties to certain agreements secured on, or related to, houses not meeting the tolerable standard to apply to sheriff for adjustment of the agreements.](section/309.md)
+    - [s. 310 Provisions as to house subject to heritable security or purchased by instalments.](section/310.md)
+    - [s. 311 Interpretation of sections 308 to 310.](section/311.md)
+  - Payments to other local authorities
+    - [s. 312 Payment of purchase money or compensation by one local authority to another.](section/312.md)
+- PART XVI GENERAL AND MISCELLANEOUS
+  - Byelaws
+    - [s. 313 Byelaws with respect to houses in multiple occupation.](section/313.md)
+    - [s. 314 Byelaws with respect to accommodation for agricultural workers.](section/314.md)
+    - [s. 315 Byelaws with respect to accommodation for seasonal workers.](section/315.md)
+    - [s. 316 Confirmation of byelaws.](section/316.md)
+  - Entry
+    - [s. 317 Power of entry for survey, etc.](section/317.md)
+  - Offences
+    - [s. 318 Penalty for obstructing execution of Act.](section/318.md)
+    - [s. 319 Penalty for preventing execution of works, etc.](section/319.md)
+    - [s. 320 Penalty for damage to houses, etc.](section/320.md)
+    - [s. 321 Liability of directors, etc. in case of offence by body corporate.](section/321.md)
+  - Powers of sheriff for housing purposes
+    - [s. 322 Sheriff may determine lease in certain cases.](section/322.md)
+    - [s. 323 Sheriff may authorise superior to execute works, etc.](section/323.md)
+    - [s. 324 Procedure on applications and appeals to sheriff.](section/324.md)
+  - Service
+    - [s. 325 Occupier or tenant may be required to state interest.](section/325.md)
+    - [s. 326 Service by description on certain persons whose identity is unknown and on a number of persons of one description.](section/326.md)
+  - Landlord’s identity
+    - [s. 327 Disclosure of landlord’s identity.](section/327.md)
+    - [s. 328 Duty to inform tenant of assignation of landlord’s interest.](section/328.md)
+  - Powers of Secretary of State
+    - [s. 329 Power of Secretary of State in event of failure of local authority to exercise powers.](section/329.md)
+    - [s. 330 Power of Secretary of State to prescribe forms, etc.](section/330.md)
+    - [s. 331 Regulations: procedure.](section/331.md)
+    - [s. 332 Secretary of State’s power to dispense with advertisements and notices.](section/332.md)
+    - [s. 333 Local inquiries.](section/333.md)
+  - Miscellaneous
+    - [s. 334 Power of heir of entail to sell land for housing purposes.](section/334.md)
+    - [s. 335 Crown rights.](section/335.md)
+    - [s. 336 Limitation on liability of trustee etc. for expenses incurred by local authority.](section/336.md)
+    - [s. 337 ................................](section/337.md)
+    - [s. 338 Interpretation.](section/338.md)
+    - [s. 339 Minor and consequential amendments, transitional provisions and repeals.](section/339.md)
+    - [s. 340 Citation, commencement and extent.](section/340.md)
+- SCHEDULE 1 RULES AS TO ASSESSMENT OF COMPENSATION WHERE LAND PURCHASED COMPULSORILY IN CERTAIN CIRCUMSTANCES
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 TENANCIES WHICH ARE NOT SECURE TENANCIES
+  - Premises occupied under contract of employment
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Temporary letting to person seeking accommodation
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Temporary letting pending development
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Temporary accommodation during works
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Accommodation for homeless persons
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Accommodation for asylum-seekers
+    - [Sch. 2 para. 5A](schedule/2/paragraph/5A.md)
+  - Agricultural and business premises
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Police and fire authorities
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Houses part of, or within curtilage of, certain other buildings
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 GROUNDS FOR RECOVERY OF POSSESSION OF HOUSES LET UNDER SECURE TENANCIES
+  - PART I GROUNDS ON WHICH COURT MAY ORDER RECOVERY OF POSSESSION
+    - [Sch. 3 Pt. I para. 1](schedule/3/part/I/paragraph/1.md)
+    - [Sch. 3 Pt. I para. 2](schedule/3/part/I/paragraph/2.md)
+    - [Sch. 3 Pt. I para. 3](schedule/3/part/I/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - PART II SUITABILITY OF ACCOMMODATION
+    - [Sch. 3 Pt. II para. 1](schedule/3/part/II/paragraph/1.md)
+    - [Sch. 3 Pt. II para. 2](schedule/3/part/II/paragraph/2.md)
+    - [Sch. 3 Pt. II para. 3](schedule/3/part/II/paragraph/3.md)
+- SCHEDULE 4 TERMS OF SECURE TENANCY RELATING TO SUBLETTING, ETC.
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 TERMS OF SECURE TENANCY RELATING TO ALTERATIONS, ETC TO HOUSE
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 VESTING ORDER UNDER SECTION 77: MODIFICATION OF ENACTMENTS
+  - The Town and Country Planning (Scotland) Act 1997 (c. 8)
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - The Land Compensation (Scotland) Act 1963 (c.51)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 6A
+  - Disposals to which this Schedule applies
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Application for Secretary of State’s consent
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+  - Requirements as to consultation
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+  - Power to require further consultation
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+  - Consent to be withheld if majority of tenants are opposed
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+  - Protection of purchasers
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+- SCHEDULE 7
+  - PART I CONSENT TO DEMOLITION OF LISTED BUILDINGS IN HOUSING ACTION AREAS, ETC.
+    - Buildings subject to compulsory purchase orders for demolition subsequently listed
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Buildings acquired by agreement for demolition subsequently listed
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - PART II REHABILITATION ORDERS
+    - Application and effect of rehabilitation orders
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Miscellaneous provisions relative to rehabilitation orders
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Procedure for making and confirming rehabilitation orders
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Interpretation of this Part of this Schedule
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - PART III APPLICATION OF ENACTMENTS RELATING TO COMPENSATION ON COMPULSORY PURCHASE, ETC., TO CASES UNDER PART I OR PART II OF THIS SCHEDULE
+    - Compensation
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+    - Extension of time limits for exercising powers under certain compulsory purchase orders
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+- SCHEDULE 8
+  - PART I HOUSING ACTION AREAS
+    - Procedure after publication of draft resolution
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - PART II POWERS OF LOCAL AUTHORITY IN RELATION TO ACQUISITION OF LAND FOR HOUSING ACTION AREAS
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Land adjoining housing action area
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Further provisions relating to acquisition of land
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Land belonging to local authority
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Local authority may take possession of land
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Local authority may sell or lease land
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Extinction of rights of way servitudes, et ceteralaetc.
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Provisions as to apparatus of public undertakers
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Saving for telecommunication apparatus, et ceteralaetc.
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - PART III COMPENSATION IN RESPECT OF LAND ACQUIRED COMPULSORILY
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - PART IV ADJUSTMENT OF RELATIONS BETWEEN LESSORS AND LESSEES OF AGRICULTURAL HOLDINGS, ETC.
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+- SCHEDULE 9 RECOVERY OF EXPENSES BY CHARGING ORDER
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 2A](schedule/9/paragraph/2A.md)
+  - [Sch. 9 para. 2B](schedule/9/paragraph/2B.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 3A](schedule/9/paragraph/3A.md)
+  - [Sch. 9 para. 3B](schedule/9/paragraph/3B.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 5A](schedule/9/paragraph/5A.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+- SCHEDULE 10 LANDLORD’S REPAIRING OBLIGATIONS
+  - Obligations to repair
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Application of paragraph 1 to houses occupied by agricultural workers otherwise than as tenants
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Repairing obligations in short leases of houses
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Application of paragraph 3
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Restriction on contracting out
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+- SCHEDULE 11 HOUSES IN MULTIPLE OCCUPATION: CONTROL ORDERS
+  - PART I MANAGEMENT SCHEMES
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Recovery by local authority of capital expenditure
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - PART II APPEAL AND REVIEW
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Powers of court to restrict recovery of possession
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - PART III CONSEQUENCES OF CESSATION OF CONTROL ORDER
+    - Transfer of landlord’s interest in tenancies and agreements
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Cases where leases have been modified while control order was in force
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Interpretation
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - PART IV RECOVERY OF EXPENSES BY LOCAL AUTHORITY EXECUTING WORKS UNDER SECTION 164
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 12 TERMINATION OF EXCHEQUER PAYMENTS TO LOCAL AUTHORITIES AND CERTAIN PERIODICAL PAYMENTS TO OTHER PERSONS
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Part I Payments to local authorities
+  - Part II Payments to the Scottish Special Housing Association and development corporations
+  - Part III ...
+- SCHEDULE 13 ENACTMENTS SPECIFYING EXCHEQUER CONTRIBUTIONS
+- SCHEDULE 14 ENACTMENTS SPECIFYING EXCHEQUER CONTRIBUTIONS THAT MAY BE REDUCED, SUSPENDED OR DISCONTINUED
+- SCHEDULE 15 THE HOUSING REVENUE ACCOUNT
+  - PART I APPLICATION OF ACCOUNT
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - PART II OPERATION OF ACCOUNT
+    - Credits
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Debits
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Provision of welfare services
+      - [Sch. 15 para. 4A](schedule/15/paragraph/4A.md)
+    - Supplemental
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+- SCHEDULE 16 THE SLUM CLEARANCE REVENUE ACCOUNT
+  - Credits
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Debits
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Supplemental
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+- SCHEDULE 17 CONDITIONS RELATING TO HOUSE LOANS
+  - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+- SCHEDULE 18 STANDARD AMENITIES
+  - PART I LIST OF AMENITIES AND MAXIMUM ELIGIBLE AMOUNTS
+  - PART II LIMIT ON AMOUNT OF APPROVED EXPENSES FOR STANDARD AMENITIES
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+- SCHEDULE 19 CONSEQUENCES OF BREACH OF CONDITIONS OF IMPROVEMENT GRANT
+  - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+  - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+  - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+  - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+- SCHEDULE 20 ASSISTANCE BY WAY OF REPURCHASE
+  - PART I THE AGREEMENT TO REPURCHASE
+    - The interest to be acquired
+      - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - Request for notice of proposed terms of acquisition
+      - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - Authority’s notice of proposed terms
+      - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+    - Unreasonable terms
+      - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+    - Appeal
+      - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - Notice of acceptance
+      - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - Extensions
+      - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+    - Interest acquired to be treated as if acquired under Part I
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+  - PART II PRICE PAYABLE AND VALUATION
+    - The price
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - The value
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - Determination of value
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - Certain grant conditions cease to have effect
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+- SCHEDULE 21 DWELLINGS INCLUDED IN MORE THAN ONE DESIGNATION
+  - Introductory
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Cases in which later designation to be disregarded
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - In other cases any applicable designation may be relied on
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Procedure to be followed where later designation comes into operation
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+- SCHEDULE 22 TRANSITIONAL PROVISIONS AND SAVINGS
+  - PART I TRANSITIONAL PROVISIONS
+    - General
+      - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+      - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+      - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+      - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+      - [Sch. 22 para. 5](schedule/22/paragraph/5.md)
+    - Persons holding office
+      - [Sch. 22 para. 6](schedule/22/paragraph/6.md)
+    - Security of tenure of tenants of regional councils, etc.
+      - [Sch. 22 para. 7](schedule/22/paragraph/7.md)
+  - PART II SAVINGS
+    - General saving for old transitional provisions
+      - [Sch. 22 para. 8](schedule/22/paragraph/8.md)
+    - General saving for old savings
+      - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - Transfers under section 14 of the Housing (Homeless Persons) Act 1977
+      - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+    - Use of existing forms, etc.
+      - [Sch. 22 para. 11](schedule/22/paragraph/11.md)
+    - Secure tenant: reimbursement of cost of work done before 3rd October 1980
+      - [Sch. 22 para. 12](schedule/22/paragraph/12.md)
+    - Contributions under sections 106 and 121 of the Housing (Scotland) Act 1950 (c.34) and section 14 of the Housing (Scotland) Act 1962 (c.28)
+      - [Sch. 22 para. 13](schedule/22/paragraph/13.md)
+- SCHEDULE 23 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - General
+    - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - The Crofters Holdings (Scotland) Act 1886 (c. 29)
+    - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - The Sheriff Courts (Scotland) Act 1907 (c. 51)
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - The Crofters (Scotland) Act 1955 (c. 21)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - The Clean Air Act 1956 (c. 52)
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - The Coal Mining (Subsidence) Act 1957 (c. 59)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - The Building (Scotland) Act 1959 (c. 24)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - The Pipe-lines Act 1962 (c. 58)
+    - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+  - The Land Compensation (Scotland) Act 1963 (c. 51)
+    - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+  - The Local Government (Scotland) Act 1966 (c.51)
+    - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+  - The National Loans Act 1968 (c.13)
+    - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+  - The New Towns (Scotland) Act 1968 (c.16)
+    - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
+  - The Clean Air Act 1968 (c.62)
+    - [Sch. 23 para. 14](schedule/23/paragraph/14.md)
+  - The Post Office Act 1969 (c.48)
+    - [Sch. 23 para. 15](schedule/23/paragraph/15.md)
+  - The Local Authority Social Services Act 1970 (c.42)
+    - [Sch. 23 para. 16](schedule/23/paragraph/16.md)
+  - The Chronically Sick and Disabled Persons Act 1970 (c.44)
+    - [Sch. 23 para. 17](schedule/23/paragraph/17.md)
+  - The Town and Country Planning (Scotland) Act 1972 (c.52)
+    - [Sch. 23 para. 18](schedule/23/paragraph/18.md)
+  - The Land Compensation (Scotland) Act 1973 (c.56)
+    - [Sch. 23 para. 19](schedule/23/paragraph/19.md)
+  - The Local Government (Scotland) Act 1973 (c.65)
+    - [Sch. 23 para. 20](schedule/23/paragraph/20.md)
+  - Consumer Credit Act 1974 (c.37)
+    - [Sch. 23 para. 21](schedule/23/paragraph/21.md)
+  - Land Tenure Reform (Scotland) Act 1974 (c.38)
+    - [Sch. 23 para. 22](schedule/23/paragraph/22.md)
+  - Local Government (Scotland) Act 1975 (c.30)
+    - [Sch. 23 para. 23](schedule/23/paragraph/23.md)
+  - The National Health Service (Scotland) Act 1978 (c.29)
+    - [Sch. 23 para. 24](schedule/23/paragraph/24.md)
+  - The Local Government, Planning and Land Act 1980 (c.65)
+    - [Sch. 23 para. 25](schedule/23/paragraph/25.md)
+  - The Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)
+    - [Sch. 23 para. 26](schedule/23/paragraph/26.md)
+  - The Local Government and Planning (Scotland) Act 1982 (c.43)
+    - [Sch. 23 para. 27](schedule/23/paragraph/27.md)
+  - The Civic Government (Scotland) Act 1982 (c.45)
+    - [Sch. 23 para. 28](schedule/23/paragraph/28.md)
+  - The Rent (Scotland) Act 1984 (c.58)
+    - [Sch. 23 para. 29](schedule/23/paragraph/29.md)
+  - The Housing Act 1985 (c.68)
+    - [Sch. 23 para. 30](schedule/23/paragraph/30.md)
+  - The Housing Associations Act 1985 (c.69)
+    - [Sch. 23 para. 31](schedule/23/paragraph/31.md)
+  - Airports Act 1986 (c.31)
+    - [Sch. 23 para. 32](schedule/23/paragraph/32.md)
+- SCHEDULE 24 REPEALS
+  - [Sch. 24 para. 1](schedule/24/paragraph/1.md)
+  - [Sch. 24 para. 2](schedule/24/paragraph/2.md)
+  - [Sch. 24 para. 3](schedule/24/paragraph/3.md)
+  - [Sch. 24 para. 4](schedule/24/paragraph/4.md)
