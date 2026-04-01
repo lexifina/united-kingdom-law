@@ -1,0 +1,429 @@
+# Regulation and Inspection of Social Care (Wales) Act 2016
+
+anaw/2016/2. Enacted 2016-01-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 60 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2016/2
+
+Source: https://www.legislation.gov.uk/anaw/2016/2/2026-04-01
+
+## Contents
+
+- PART 1 REGULATION OF SOCIAL CARE SERVICES
+  - CHAPTER 1 INTRODUCTION
+    - [s. 1 Overview of Part 1](section/1.md)
+    - [s. 2 Meaning of “regulated service”](section/2.md)
+    - [s. 2A Meaning of “restricted children’s service”](section/2A.md)
+    - [s. 3 Other key terms](section/3.md)
+    - [s. 4 General objectives](section/4.md)
+  - CHAPTER 2 REGISTRATION ETC. OF SERVICE PROVIDERS
+    - Requirement to register
+      - [s. 5 Requirement to register](section/5.md)
+    - Application for, variation of and cancellation of registration
+      - [s. 6 Application for registration as a service provider](section/6.md)
+      - [s. 6A Registration in respect of a restricted children’s service](section/6A.md)
+      - [s. 6B Registration in respect of a restricted children’s service: definitions](section/6B.md)
+      - [s. 6C Registration in respect of a restricted children’s service: transitional arrangements](section/6C.md)
+      - [s. 7 Grant or refusal of registration as a service provider](section/7.md)
+      - [s. 8 Duration of domiciliary support visits](section/8.md)
+      - [s. 9 Fit and proper person: relevant considerations](section/9.md)
+      - [s. 9A Fit and proper person test: financial arrangements relating to restricted children’s services](section/9A.md)
+      - [s. 9B Financial arrangements relating to restricted children’s services: supplementary provision](section/9B.md)
+      - [s. 10 Annual return](section/10.md)
+      - [s. 11 Application for variation of registration as a service provider](section/11.md)
+      - [s. 12 Grant or refusal of application for variation](section/12.md)
+      - [s. 13 Variation without application](section/13.md)
+      - [s. 14 Application for cancellation of registration as a service provider](section/14.md)
+      - [s. 15 Cancellation without application](section/15.md)
+    - Notice requirements
+      - [s. 16 Improvement notices](section/16.md)
+      - [s. 17 Notice of decision following improvement notice](section/17.md)
+      - [s. 18 Notice of proposal](section/18.md)
+      - [s. 19 Notice of decision following notice of proposal](section/19.md)
+      - [s. 20 Notice of decision without notice of proposal](section/20.md)
+    - Responsible individuals
+      - [s. 21 Responsible individuals](section/21.md)
+      - [s. 22 Cancellation of designation of a responsible individual](section/22.md)
+    - Urgent action
+      - [s. 23 Urgent cancellation or variation of services or places](section/23.md)
+      - [s. 24 Urgent cancellation or variation: notification and appeals](section/24.md)
+      - [s. 25 Urgent variation of registration: other conditions](section/25.md)
+    - Appeals
+      - [s. 26 Appeals](section/26.md)
+    - Regulations and guidance
+      - [s. 27 Regulations about regulated services](section/27.md)
+      - [s. 28 Regulations about responsible individuals](section/28.md)
+      - [s. 29 Guidance about regulations under sections 27 and 28](section/29.md)
+      - [s. 30 Regulations about service providers who are liquidated etc.](section/30.md)
+      - [s. 31 Regulations about service providers who have died](section/31.md)
+  - CHAPTER 3 INFORMATION, INSPECTIONS AND INVESTIGATIONS
+    - [s. 32 Power to require information](section/32.md)
+    - [s. 33 Inspections, investigations and inspectors](section/33.md)
+    - [s. 34 Powers of inspector to enter ... premises](section/34.md)
+    - [s. 35 Powers of inspector to interview and examine persons](section/35.md)
+    - [s. 36 Inspection reports](section/36.md)
+    - [s. 37 Inspection ratings](section/37.md)
+  - CHAPTER 4 GENERAL FUNCTIONS
+    - [s. 38 Register of service providers](section/38.md)
+    - [s. 39 Notifying local authorities of certain action taken under this Part](section/39.md)
+    - [s. 40 Charging fees](section/40.md)
+    - [s. 41 Engagement with the public](section/41.md)
+    - [s. 42 Annual report on regulatory functions](section/42.md)
+  - CHAPTER 5 OFFENCES AND PENALTIES
+    - [s. 43 Failure to comply with a condition](section/43.md)
+    - [s. 44 False descriptions](section/44.md)
+    - [s. 45 Failure by service provider to comply with requirements in regulations](section/45.md)
+    - [s. 46 Failure by responsible individual to comply with requirements in regulations](section/46.md)
+    - [s. 47 False statements](section/47.md)
+    - [s. 48 Failure to submit or publish annual return](section/48.md)
+    - [s. 49 Failure to provide information](section/49.md)
+    - [s. 50 Offences related to inspections and investigations](section/50.md)
+    - [s. 51 Penalties upon conviction](section/51.md)
+    - [s. 52 Penalty notices](section/52.md)
+    - [s. 53 Offences by bodies corporate](section/53.md)
+    - [s. 54 Offences by unincorporated bodies](section/54.md)
+    - [s. 55 Proceedings for offences](section/55.md)
+  - CHAPTER 6 LOCAL AUTHORITY SOCIAL SERVICES
+    - [s. 56 Reports by local authorities and general duty of the Welsh Ministers](section/56.md)
+    - [s. 57 Reviews, investigations and inspections](section/57.md)
+    - [s. 58 Regulation of local authority functions relating to looked after and accommodated children](section/58.md)
+  - CHAPTER 7 MARKET OVERSIGHT
+    - [s. 59 Specifying criteria for application of market oversight regime](section/59.md)
+    - [s. 60 Determining whether criteria apply to service provider](section/60.md)
+    - [s. 61 Assessment of financial sustainability of service provider](section/61.md)
+    - [s. 62 Informing local authorities where failure of service provider likely](section/62.md)
+    - [s. 63 National market stability report](section/63.md)
+  - CHAPTER 8 INTERPRETATION
+    - [s. 64 Interpretation of this Part](section/64.md)
+- PART 2 OVERVIEW AND INTERPRETATION OF PARTS 3 TO 8
+  - [s. 65 Overview of Parts 3 to 8](section/65.md)
+  - [s. 66 Interpretation of Parts 3 to 8](section/66.md)
+- PART 3 SOCIAL CARE WALES
+  - Continuation of the Care Council for Wales and its renaming
+    - [s. 67 Social Care Wales](section/67.md)
+  - SCW’s objectives
+    - [s. 68 SCW’s objectives](section/68.md)
+  - Advice and assistance
+    - [s. 69 Advice and assistance in relation to care and support services](section/69.md)
+    - [s. 70 Studies as to economy, efficiency etc.](section/70.md)
+  - Engagement with the public etc.
+    - [s. 71 Engagement with the public and social care workers](section/71.md)
+    - [s. 71A Provision of information – specified state professionals](section/71A.md)
+  - Policy with respect to bringing criminal proceedings
+    - [s. 72 Statement of policy with respect to bringing criminal proceedings](section/72.md)
+  - Rules made by SCW under this Act
+    - [s. 73 Rules: general](section/73.md)
+    - [s. 74 Rules: fees](section/74.md)
+  - Consultation before making rules etc.
+    - [s. 75 Consultation before making rules etc.](section/75.md)
+  - Guidance and directions
+    - [s. 76 Guidance](section/76.md)
+    - [s. 77 Directions](section/77.md)
+  - Default powers of the Welsh Ministers
+    - [s. 78 Default powers of the Welsh Ministers](section/78.md)
+- PART 4 SOCIAL CARE WORKERS
+  - Meaning of “social care worker” etc.
+    - [s. 79 Meaning of “social care worker” etc.](section/79.md)
+  - The register
+    - [s. 80 The register](section/80.md)
+    - [s. 81 Duty to appoint a registrar](section/81.md)
+  - Registration in the social worker part or an added part of the register
+    - [s. 82 Application for registration](section/82.md)
+    - [s. 83 Registration](section/83.md)
+    - [s. 83A Temporary registration in emergencies involving loss of human life or human illness etc](section/83A.md)
+  - “Appropriately qualified”
+    - [s. 84 “Appropriately qualified”](section/84.md)
+    - [s. 85 Qualifications gained outside Wales – social workers](section/85.md)
+    - [s. 85A Qualifications gained outside Wales – social care managers](section/85A.md)
+    - [s. 85B Professional qualifications – specified state applicants](section/85B.md)
+    - [s. 85C Specified state applicants: refusal to recognise professional qualifications](section/85C.md)
+    - [s. 85D Specified state applicants: aptitude tests and adaptation periods](section/85D.md)
+  - Renewal of registration in the social worker part or an added part of the register
+    - [s. 86 Renewal of registration](section/86.md)
+    - [s. 87 Lapse of registration](section/87.md)
+  - Dealing with applications for registration or renewal
+    - [s. 88 Rules about applications for registration or renewal](section/88.md)
+    - [s. 88A Applications for registration: specified state applicants – supplementary provisions](section/88A.md)
+    - [s. 89 Notice of decisions in respect of registration or renewal](section/89.md)
+  - Visiting social workers
+    - [s. 90 Visiting social workers from relevant European States](section/90.md)
+    - [s. 90A Visiting social care managers from relevant European States](section/90A.md)
+  - Information to be contained on the register
+    - [s. 91 Content of the register](section/91.md)
+  - Removal of entries from the register
+    - [s. 92 Removal by agreement](section/92.md)
+    - [s. 93 Death of a registered person](section/93.md)
+    - [s. 94 Entries based on false or misleading information](section/94.md)
+  - Restoring an entry to the register
+    - [s. 95 Duty to restore a register entry](section/95.md)
+    - [s. 96 Power to restore a register entry](section/96.md)
+    - [s. 97 Restoration following fitness to practise proceedings](section/97.md)
+    - [s. 98 Restoration proceedings](section/98.md)
+    - [s. 99 Review of suspension of right to apply for restoration](section/99.md)
+    - [s. 100 Rules about applications under section 96 and 97](section/100.md)
+  - Appeals to a registration appeals panel
+    - [s. 101 Appeals against decisions of the registrar](section/101.md)
+    - [s. 102 Appeals to the registration appeals panel: procedure](section/102.md)
+    - [s. 103 Decisions on appeal to the registration appeals panel](section/103.md)
+  - Appeals to the tribunal
+    - [s. 104 Appeals against decisions of a registration appeals panel](section/104.md)
+    - [s. 105 Other appeals: decisions made under the General Systems Regulations](section/105.md)
+  - Notifying the registrar of changes to information etc.
+    - [s. 106 Duty to notify the registrar of changes to registration information](section/106.md)
+    - [s. 107 Requests for information relating to fitness to practise](section/107.md)
+  - Duty to publish the register etc.
+    - [s. 108 Publication etc. of the register](section/108.md)
+    - [s. 109 Publication of certain registration appeal panel decisions](section/109.md)
+    - [s. 110 List of persons removed from the register](section/110.md)
+  - Protection of title “social worker” etc.
+    - [s. 111 Use of title “social worker” etc.](section/111.md)
+- PART 5 SOCIAL CARE WORKERS: STANDARDS OF CONDUCT, EDUCATION ETC.
+  - [s. 112 Codes of practice](section/112.md)
+  - [s. 113 Continuing professional development](section/113.md)
+  - [s. 114 Approval of courses etc.](section/114.md)
+  - [s. 115 Inspections in connection with certain courses](section/115.md)
+  - [s. 116 Other functions of SCW in respect of education and training](section/116.md)
+- PART 6 SOCIAL CARE WORKERS: FITNESS TO PRACTISE
+  - CHAPTER 1 GROUNDS OF IMPAIRMENT
+    - [s. 117 Fitness to practise](section/117.md)
+  - CHAPTER 2 PRELIMINARY PROCEDURES
+    - Preliminary consideration of allegations etc.
+      - [s. 118 Referral of allegations etc. of impaired fitness to practise](section/118.md)
+      - [s. 119 Preliminary consideration](section/119.md)
+      - [s. 120 Eligibility for onward referral](section/120.md)
+      - [s. 121 Direct referral to a fitness to practise panel](section/121.md)
+      - [s. 122 Notice: ineligibility for onward referral](section/122.md)
+      - [s. 123 Notice: onward referral](section/123.md)
+      - [s. 124 Notice: referral to an interim orders panel](section/124.md)
+    - Investigation
+      - [s. 125 Duty to investigate](section/125.md)
+      - [s. 126 Powers following an investigation](section/126.md)
+      - [s. 127 Notice: referral or disposal](section/127.md)
+      - [s. 128 Warnings](section/128.md)
+      - [s. 129 Undertakings](section/129.md)
+      - [s. 130 Mediation](section/130.md)
+    - Review
+      - [s. 131 Review of decisions by SCW](section/131.md)
+      - [s. 132 Cancellation of referral to fitness to practise panel](section/132.md)
+      - [s. 133 Referral by SCW for review proceedings](section/133.md)
+  - CHAPTER 3 DISPOSAL OF FITNESS TO PRACTISE CASES
+    - [s. 134 Scope and interpretation of Chapter 3](section/134.md)
+    - [s. 135 Removal from register on consensual basis](section/135.md)
+    - [s. 136 Other consensual disposal by fitness to practise panel: undertakings](section/136.md)
+    - [s. 137 Disposals by fitness to practise panel: finding of no impairment](section/137.md)
+    - [s. 138 Disposals by fitness to practise panel: finding of impairment](section/138.md)
+    - [s. 139 Disposals: further provision about conditional registration and suspension orders](section/139.md)
+    - [s. 140 Immediate orders for conditional registration or suspension](section/140.md)
+    - [s. 141 Fitness to practise decisions: notification and taking effect](section/141.md)
+    - [s. 142 Regulations about disposals by fitness to practise panels](section/142.md)
+  - CHAPTER 4 INTERIM ORDERS AND REVIEW OF INTERIM ORDERS
+    - [s. 143 Scope and interpretation of Chapter 4](section/143.md)
+    - [s. 144 Interim orders](section/144.md)
+    - [s. 145 Appeals against interim orders](section/145.md)
+    - [s. 146 Reviews of interim orders: timing](section/146.md)
+    - [s. 147 Reviews of interim order: possible decisions](section/147.md)
+    - [s. 148 Extension of interim order by the tribunal](section/148.md)
+    - [s. 149 Revocation of interim orders](section/149.md)
+  - CHAPTER 5 REVIEW PROCEEDINGS
+    - [s. 150 Review proceedings: interpretation and general](section/150.md)
+    - [s. 151 Review proceedings](section/151.md)
+    - [s. 152 Review of undertakings: disposals by fitness to practise panel](section/152.md)
+    - [s. 153 Review of conditional registration orders: disposals by fitness to practise panel](section/153.md)
+    - [s. 154 Review of suspension orders: disposals by fitness to practise panel](section/154.md)
+    - [s. 155 Review of indefinite suspension orders](section/155.md)
+    - [s. 156 Reviews: further provision about conditional registration and suspension orders](section/156.md)
+    - [s. 157 Decisions in review cases: notification and taking effect](section/157.md)
+  - CHAPTER 6 APPEALS AND REFERRALS TO THE TRIBUNAL
+    - [s. 158 Appeals against decisions of a fitness to practise panel](section/158.md)
+  - CHAPTER 7 GENERAL AND SUPPLEMENTARY
+    - [s. 159 Disclosure of information about fitness to practise](section/159.md)
+    - [s. 160 Power to require information](section/160.md)
+    - [s. 161 Publication of fitness to practise decisions](section/161.md)
+    - [s. 162 Guidance about fitness to practise](section/162.md)
+    - [s. 163 Suspension: supplementary](section/163.md)
+    - [s. 164 Meaning of “registered person” in Part 6](section/164.md)
+- PART 7 ORDERS PROHIBITING WORK IN SOCIAL CARE: UNREGISTERED PERSONS
+  - [s. 165 Designation of regulated activity](section/165.md)
+  - [s. 166 Conditions for making a prohibition order](section/166.md)
+  - [s. 167 Interim prohibition orders](section/167.md)
+  - [s. 168 Prohibition orders: supplementary provision](section/168.md)
+  - [s. 169 Interim prohibition orders: review](section/169.md)
+  - [s. 170 Appeals](section/170.md)
+  - [s. 171 Offences](section/171.md)
+  - Supplementary provision
+    - [s. 172 List of prohibited persons](section/172.md)
+    - [s. 173 Standards of conduct](section/173.md)
+- PART 8 SOCIAL CARE WALES: DUTY TO ESTABLISH PANELS ETC.
+  - [s. 174 Duty to establish panels etc.](section/174.md)
+  - [s. 175 Proceedings before panels](section/175.md)
+- PART 9 CO-OPERATION AND JOINT WORKING BY THE REGULATORY BODIES ETC.
+  - [s. 176 The regulatory bodies](section/176.md)
+  - [s. 177 Relevant authorities](section/177.md)
+  - [s. 178 Co-operation in the exercise of functions](section/178.md)
+  - [s. 179 Joint exercise of functions](section/179.md)
+  - [s. 180 Delegating functions to another regulatory body](section/180.md)
+  - [s. 181 Sharing information](section/181.md)
+  - [s. 182 Sharing information to protect well-being](section/182.md)
+- PART 10 MISCELLANEOUS AND GENERAL
+  - [s. 183 Inquiries](section/183.md)
+  - [s. 184 Service of documents etc.](section/184.md)
+- PART 11 FINAL PROVISIONS
+  - [s. 185 Minor and consequential amendments](section/185.md)
+  - [s. 186 Power to make consequential etc. provision](section/186.md)
+  - [s. 187 Regulations under this Act](section/187.md)
+  - [s. 188 Coming into force](section/188.md)
+  - [s. 189 General interpretation](section/189.md)
+  - [s. 190 Short title](section/190.md)
+- SCHEDULE 1 REGULATED SERVICES: DEFINITIONS
+  - Care home services
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Secure accommodation services
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Residential family centre services
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Adoption services
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Fostering services
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Adult placement services
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Advocacy services
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Domiciliary support services
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Interpretation
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 1A RESTRICTED CHILDREN’S SERVICES: TRANSITIONAL REGISTRATION ARRANGEMENTS FOR EXISTING SERVICE PROVIDERS
+  - [Sch. 1A para. 1 Transitional period in respect of restricted children’s services](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2 Existing service providers: exemption from section 6A(1)](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3 Regulations about provision of restricted children’s services by existing service providers](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4 Existing service providers: application for variation of registration](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5 Interpretation](schedule/1A/paragraph/5.md)
+- SCHEDULE 2 SOCIAL CARE WALES
+  - PART 1 STATUS
+    - Status
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - PART 2 MEMBERSHIP
+    - Members
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Remuneration etc. of members
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Term of office
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Resignation
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Dismissal
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - PART 3 GENERAL POWERS
+    - Committees
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Delegation
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Supplementary powers
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - PART 4 PROCEEDINGS ETC.
+    - Procedure
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Application of seal
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Evidence
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - PART 5 CHIEF EXECUTIVE AND OTHER STAFF
+    - Chief executive and other staff
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - PART 6 FINANCIAL MATTERS AND ANNUAL REPORTS ETC.
+    - Payments by the Welsh Ministers
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Accounting officer
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Accounts and audit
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Annual reports etc.
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 REGULATION OF SERVICES
+    - Care Standards Act 2000
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Health and Social Care (Community Health and Standards) Act 2003
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Public Audit (Wales) Act 2004
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Children Act 2004
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+    - Public Services Ombudsman (Wales) Act 2005
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+    - Safeguarding Vulnerable Groups Act 2006
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+    - Social Services and Well-being (Wales) Act 2014
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
+  - PART 2 SOCIAL CARE WALES
+    - Mental Health Act 1983
+      - [Sch. 3 para. 37](schedule/3/paragraph/37.md)
+      - [Sch. 3 para. 38](schedule/3/paragraph/38.md)
+      - [Sch. 3 para. 39](schedule/3/paragraph/39.md)
+    - Care Standards Act 2000
+      - [Sch. 3 para. 40](schedule/3/paragraph/40.md)
+      - [Sch. 3 para. 41](schedule/3/paragraph/41.md)
+      - [Sch. 3 para. 42](schedule/3/paragraph/42.md)
+      - [Sch. 3 para. 43](schedule/3/paragraph/43.md)
+      - [Sch. 3 para. 44](schedule/3/paragraph/44.md)
+    - Adoption and Children Act 2002
+      - [Sch. 3 para. 45](schedule/3/paragraph/45.md)
+      - [Sch. 3 para. 46](schedule/3/paragraph/46.md)
+    - Public Audit (Wales) Act 2004
+      - [Sch. 3 para. 47](schedule/3/paragraph/47.md)
+      - [Sch. 3 para. 48](schedule/3/paragraph/48.md)
+    - Public Services Ombudsman (Wales) Act 2005
+      - [Sch. 3 para. 49](schedule/3/paragraph/49.md)
+      - [Sch. 3 para. 50](schedule/3/paragraph/50.md)
+    - Commissioner for Older People (Wales) Act 2006
+      - [Sch. 3 para. 51](schedule/3/paragraph/51.md)
+      - [Sch. 3 para. 52](schedule/3/paragraph/52.md)
+    - Safeguarding Vulnerable Groups Act 2006
+      - [Sch. 3 para. 53](schedule/3/paragraph/53.md)
+      - [Sch. 3 para. 54](schedule/3/paragraph/54.md)
+      - [Sch. 3 para. 55](schedule/3/paragraph/55.md)
+      - [Sch. 3 para. 56](schedule/3/paragraph/56.md)
+    - Health and Social Care Act 2008
+      - [Sch. 3 para. 57](schedule/3/paragraph/57.md)
+      - [Sch. 3 para. 58](schedule/3/paragraph/58.md)
+  - PART 3 MISCELLANEOUS
+    - Public Services Ombudsman (Wales) Act 2005
+      - [Sch. 3 para. 59](schedule/3/paragraph/59.md)
+    - Social Services and Well-being (Wales) Act 2014
+      - [Sch. 3 para. 60](schedule/3/paragraph/60.md)
+      - [Sch. 3 para. 61](schedule/3/paragraph/61.md)
+      - [Sch. 3 para. 62](schedule/3/paragraph/62.md)
+      - [Sch. 3 para. 63](schedule/3/paragraph/63.md)
+      - [Sch. 3 para. 64](schedule/3/paragraph/64.md)
+      - [Sch. 3 para. 65](schedule/3/paragraph/65.md)
