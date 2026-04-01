@@ -1,0 +1,343 @@
+# Education (Scotland) Act 1980
+
+1980 c. 44. Enacted 1980-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 31 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1980/44
+
+Source: https://www.legislation.gov.uk/ukpga/1980/44/2026-04-01
+
+## Contents
+
+- Part I Provision of Education by Education Authorities
+  - School education and further education
+    - [s. 1 Duty of education authorities to secure provision of education.](section/1.md)
+    - [s. 2 Secretary of State may prescribe standards, etc., for education authorities.](section/2.md)
+    - [s. 2ZA Learning hours](section/2ZA.md)
+    - [s. 2A Assessment of secondary school pupils.](section/2A.md)
+    - [s. 3 Fees not to be charged in public schools, etc: exceptions.](section/3.md)
+    - [s. 4 Duty of education authorities to provide child guidance service.](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 Social activities, physical education, etc.](section/6.md)
+    - [s. 7 Provision of educational facilities to be in accordance with schemes.](section/7.md)
+    - [s. 8 Religious instruction.](section/8.md)
+    - [s. 9 Conscience clause.](section/9.md)
+    - [s. 10 Safeguards for religious beliefs.](section/10.md)
+    - [s. 11 Provision of books, materials and special clothing free of charge.](section/11.md)
+    - [s. 12 Library service.](section/12.md)
+    - [s. 13 Provision of hotels.](section/13.md)
+    - [s. 14 Education for children unable to attend school etc.](section/14.md)
+    - [s. 14ZA Meaning of pupil in sections 12 to 14.](section/14ZA.md)
+    - [s. 14A Education in social work establishments.](section/14A.md)
+  - Transference of schools to education authorities
+    - [s. 15 Transference of endowed schools to education authorities.](section/15.md)
+    - [s. 16 Transference of denominational schools to education authorities.](section/16.md)
+  - Provision, maintenance and equipment of schools and other buildings
+    - [s. 17 Provision, maintenance and equipment of schools and other buildings.](section/17.md)
+    - [s. 18 Improvements as to premises of educational establishments for the safety of pupils.](section/18.md)
+    - [s. 19 Power of Secretary of State to prescribe standards for premises, etc., of educational establishments.](section/19.md)
+    - [s. 19A Secretary of State’s power to control use of dangerous materials or apparatus in educational establishments.](section/19A.md)
+    - [s. 20 Acquisition of land and execution of works.](section/20.md)
+  - Management of denominational schools
+    - [s. 21 Management of denominational schools.](section/21.md)
+  - Discontinuance and moves of educationalestablishments
+    - [s. 22 Discontinuance and moves of educational establishments.](section/22.md)
+  - Consultation on, and consent for, changes in certain educational matters
+    - [s. 22A Consultation on certain changes in educational matters.](section/22A.md)
+    - [s. 22B Consent for certain changes in educational matters.](section/22B.md)
+    - [s. 22C Consent for certain changes affecting denominational schools.](section/22C.md)
+    - [s. 22D Further provisions relating to denominational schools.](section/22D.md)
+  - Co-operation between education authorities and others
+    - [s. 23 Provision by education authority for education of pupils belonging to areas of other authorities.](section/23.md)
+    - [s. 24 Power of education authorities to make payments to persons providing education, etc.](section/24.md)
+  - Promotion of educational developments
+    - [s. 25 Educational research.](section/25.md)
+    - [s. 26 Educational conferences.](section/26.md)
+    - [s. 27 Provision of museums by education authorities.](section/27.md)
+- Part II Rights and duties of Parents and functions of Education Authorities in relation to Individual Pupils
+  - General principle
+    - [s. 28 Pupils to be educated in accordance with the wishes of their parents.](section/28.md)
+    - [s. 28A Duty to comply with parents’ requests as to schools.](section/28A.md)
+    - [s. 28B Information as to placing in schools and other matters.](section/28B.md)
+    - [s. 28C Reference to appeal committee of refusal of placing request.](section/28C.md)
+    - [s. 28D Appeal committees.](section/28D.md)
+    - [s. 28E Appeal committees: supplementary provisions.](section/28E.md)
+    - [s. 28F Appeal to sheriff from appeal committee.](section/28F.md)
+    - [s. 28G Application of sections 28A to 28F and Schedule A1 to young persons.](section/28G.md)
+    - [s. 28H Reference to appeal committee, and appeal therefrom of decision to exclude pupil.](section/28H.md)
+  - Information as to schools and pupils
+    - [s. 28I Information as to schools.](section/28I.md)
+    - [s. 28J Requirement to provide information as to school education.](section/28J.md)
+    - [s. 28K Information as to pupils.](section/28K.md)
+    - [s. 28L Use of electronic communications](section/28L.md)
+    - [s. 29 ................................](section/29.md)
+  - Duty of parents to provide education for their children
+    - [s. 30 Duty of parents to provide education for their children.](section/30.md)
+    - [s. 31 School age.](section/31.md)
+    - [s. 32 Dates for commencement of school attendance.](section/32.md)
+    - [s. 33 School leaving dates.](section/33.md)
+    - [s. 34 Exemption from school attendance.](section/34.md)
+  - Failure of parents to provide education for their children
+    - [s. 35 Failure by parent to secure regular attendance by his child at a public school.](section/35.md)
+    - [s. 36 Power of education authority in relation to irregular attendance of child at a public school.](section/36.md)
+    - [s. 37 Power of education authority where not satisfied that parent is providing efficient education for his child.](section/37.md)
+  - Attendance orders
+    - [s. 38 Making of attendance orders.](section/38.md)
+    - [s. 39 Amendment and revocation of attendance orders.](section/39.md)
+    - [s. 40 Period of operation of attendance orders.](section/40.md)
+    - [s. 41 Failure to comply with attendance order.](section/41.md)
+  - Reasonable Excuses
+    - [s. 42 Reasonable excuses.](section/42.md)
+  - Prosecutions
+    - [s. 43 Prosecutions and penalties.](section/43.md)
+    - [s. 44 Powers of Courts in relation to child.](section/44.md)
+    - [s. 45 ................................](section/45.md)
+  - Corporal Punishment
+    - [s. 48A ................................](section/48A.md)
+  - Provision to assist pupils to take advantage of educational facilities
+    - [s. 49 Power of education authorities to assist persons to take advantage of educational facilities.](section/49.md)
+    - [s. 50 Education of pupils in exceptional circumstances.](section/50.md)
+    - [s. 50A Sections 49 and 50: matter to which education authority must have regard](section/50A.md)
+    - [s. 51 Provision of transport and other facilities.](section/51.md)
+    - [s. 52 Recovery of cost of board and lodging.](section/52.md)
+  - Provision of food and clothing
+    - [s. 53 Provision of school meals](section/53.md)
+    - [s. 53A Promotion of school lunches](section/53A.md)
+    - [s. 53B Protection of identity of pupils receiving free school lunches](section/53B.md)
+    - [s. 54 Provision of clothing for pupils at public schools.](section/54.md)
+    - [s. 55 Provision of food and clothing for pupils at schools other than public schools.](section/55.md)
+    - [s. 56 Condition of provision of clothing by education authorities.](section/56.md)
+  - Food and drink: nutritional requirements
+    - [s. 56A Food and drink: nutritional requirements](section/56A.md)
+    - [s. 56B Regulations under section 56A: further provision](section/56B.md)
+    - [s. 56C Guidance](section/56C.md)
+    - [s. 56D Application of sections 56A to 56C to grant-aided schools](section/56D.md)
+  - Food and drink: guidance about sustainable development
+    - [s. 56E Food and drink: guidance about sustainable development](section/56E.md)
+  - Health and cleanliness of pupils
+    - [s. 57 Medical and dental examination and inspection.](section/57.md)
+    - [s. 58 Power to ensure cleanliness.](section/58.md)
+  - Children requiring special education
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 Functions of education authority in relation to children and young persons with certain special educational needs.](section/60.md)
+    - [s. 61 Examination and assessment of children and young persons.](section/61.md)
+    - [s. 62 Recording of children and young persons.](section/62.md)
+    - [s. 63 Appeals against decisions about recorded children or young persons.](section/63.md)
+    - [s. 64 Provisions supplementary to section 63.](section/64.md)
+    - [s. 65 Appeal to sheriff on the placing in a school of a recorded child or young person.](section/65.md)
+    - [s. 65A Review by education authority of decision to record and information in Record.](section/65A.md)
+    - [s. 65B Future provision for recorded children.](section/65B.md)
+    - [s. 65C Continuance of Record of young persons.](section/65C.md)
+    - [s. 65D Regulations regarding Records.](section/65D.md)
+    - [s. 65E Application of certain provisions of this Act to recorded children and young persons.](section/65E.md)
+    - [s. 65F Secretary of State may prescribe standards etc. for special schools.](section/65F.md)
+    - [s. 65G Attendance of certain children and young persons with special educational needs at establishments outwith United Kingdom.](section/65G.md)
+- Part III Administration and Finance
+  - Central administration
+    - [s. 66 Inspection of educational establishments.](section/66.md)
+    - [s. 66A Code of practice as regards inspections under section 66](section/66A.md)
+    - [s. 66B Duty of Her Majesty’s Inspectors to make reference to Scottish Ministers](section/66B.md)
+    - [s. 66C Preliminary notice](section/66C.md)
+    - [s. 66D Enforcement direction](section/66D.md)
+    - [s. 67 Local inquiries.](section/67.md)
+    - [s. 68 Power to require submission to medical examination.](section/68.md)
+    - [s. 69 Approval and carrying out of schemes.](section/69.md)
+    - [s. 70 Powers to enforce duty of education authorities and other persons.](section/70.md)
+  - Advisory councils
+    - [s. 71 Advisory councils.](section/71.md)
+  - Finance
+    - [s. 72 Expenses of Secretary of State.](section/72.md)
+    - [s. 73 Power of Secretary of State to make grants to education authorities and others.](section/73.md)
+    - [s. 73ZA Administration of certain sums](section/73ZA.md)
+    - [s. 73A Transfer or delegation of functions relating to student support.](section/73A.md)
+    - [s. 73B Regulations relating to student loans.](section/73B.md)
+    - [s. 73C Transitional provisions and savings on repeal of Education (Student Loans) Act 1990.](section/73C.md)
+    - [s. 73D Provision as to maximum amounts of certain allowances.](section/73D.md)
+    - [s. 73E Supply of information in connection with student loans.](section/73E.md)
+    - [s. 74 Payment of grants to be subject to conditions.](section/74.md)
+    - [s. 75 Examination of accounts.](section/75.md)
+    - [s. 75A Assisted places at grant-aided and independent schools.](section/75A.md)
+    - [s. 75B Incidental expenses of and provision for pupils holding assisted places.](section/75B.md)
+    - [s. 76 Industrial scholarships.](section/76.md)
+  - Grant-aided colleges
+    - [s. 77 ................................](section/77.md)
+  - Appointment of director of education
+    - [s. 78 Appointment of director of education.](section/78.md)
+  - Local administration
+    - [s. 79 Education authorities may receive and administer bequests.](section/79.md)
+    - [s. 80 Funds for behalf of public schools etc., to be transferred to education authorities.](section/80.md)
+    - [s. 81 Trust funds to be kept separate.](section/81.md)
+    - [s. 82 Reports by education authorities.](section/82.md)
+    - [s. 83 Returns by registrars of births, deaths, and marriages to education authorities.](section/83.md)
+    - [s. 84 Certificates of birth.](section/84.md)
+    - [s. 85 Presumption of age.](section/85.md)
+    - [s. 86 Admissibility of documents.](section/86.md)
+- Part IV Teachers
+  - Appointment, dismissal, retirement and employment of teachers
+    - [s. 87 Appointment of teachers.](section/87.md)
+    - [s. 87A Appointment of principal teachers.](section/87A.md)
+    - [s. 87B Selection of teachers.](section/87B.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 Age of retirement of teachers.](section/89.md)
+    - [s. 90 Employment of teachers.](section/90.md)
+    - [s. 90A Head teachers: education and training standards](section/90A.md)
+  - Pay and conditions of teaching staff employed in providing school education
+    - [s. 91 ................................](section/91.md)
+    - [s. 92 ................................](section/92.md)
+    - [s. 93 ................................](section/93.md)
+    - [s. 94 ................................](section/94.md)
+  - Provisions common to the two committees
+    - [s. 97 ................................](section/97.md)
+    - [s. 97A ................................](section/97A.md)
+    - [s. 97B ................................](section/97B.md)
+    - [s. 97C ................................](section/97C.md)
+    - [s. 97D ................................](section/97D.md)
+- Part V Independent Schools
+  - [s. 98 Registration of independent schools.](section/98.md)
+  - [s. 98A Application for registration of independent school](section/98A.md)
+  - [s. 98B Refusal of application for registration: disqualifications](section/98B.md)
+  - [s. 98C Registration: notification and appeals](section/98C.md)
+  - [s. 98D Removal from register where school no longer being carried on](section/98D.md)
+  - [s. 98E Imposition, variation and revocation of conditions](section/98E.md)
+  - [s. 99 Complaints.](section/99.md)
+  - [s. 100 Determination of complaints.](section/100.md)
+  - [s. 101 Enforcement of orders.](section/101.md)
+  - [s. 102 Removal of disqualifications.](section/102.md)
+  - [s. 103 Appeals under this Part](section/103.md)
+  - [s. 103A Proprietor which is body corporate etc.](section/103A.md)
+  - [s. 103B Date of registration or removal from register](section/103B.md)
+- Part VI Reorganisation of Endowments
+  - [s. 104 Register of educational endowments.](section/104.md)
+  - [s. 105 Schemes for reorganisation of educational endowments.](section/105.md)
+  - [s. 106 Sale of land belonging to educational endowments.](section/106.md)
+  - [s. 107 Educational endowments applicable in part to non-educational purposes.](section/107.md)
+  - [s. 108 Non-educational endowments.](section/108.md)
+  - [s. 108A Courts’ power to give effect to reorganisation scheme on petition of Lord Advocate.](section/108A.md)
+  - [s. 109 Provisions regarding interests of individuals.](section/109.md)
+  - [s. 110 Provisions as to beneficiaries and teachers.](section/110.md)
+  - [s. 111 Accounts and audit of educational endowments.](section/111.md)
+  - [s. 112 Procedure in preparation of reorganisation schemes.](section/112.md)
+  - [s. 113 ................................](section/113.md)
+  - [s. 114 Effect of schemes.](section/114.md)
+  - [s. 115 ................................](section/115.md)
+  - [s. 117 Cost of publishing scheme, etc.](section/117.md)
+  - [s. 118 Information by governing bodies.](section/118.md)
+  - [s. 118A Income plans under schemes.](section/118A.md)
+  - [s. 119 Quorum of governing body.](section/119.md)
+  - [s. 120 Provision for default of governing body.](section/120.md)
+  - [s. 121 Judgment of Court of Session final.](section/121.md)
+  - [s. 122 Interpretation of Part VI.](section/122.md)
+- Part VII Miscellaneous Provisions
+  - Employment
+    - [s. 123 Work experience in last year of compulsory schooling.](section/123.md)
+    - [s. 124 ................................](section/124.md)
+    - [s. 125 Adaptation of enactments relating to employment of children and young persons.](section/125.md)
+  - Children and young persons in accommodation
+    - [s. 125A Welfare of children and young persons in accommodation provided for purposes of school attendance.](section/125A.md)
+  - Careers services of education authorities
+    - [s. 126 ................................](section/126.md)
+    - [s. 127 ................................](section/127.md)
+    - [s. 128 Control of education authorities by Secretary of State.](section/128.md)
+  - Examinations Board
+    - [s. 129 ................................](section/129.md)
+  - Savings and exceptions
+    - [s. 130 Saving as to persons in the service of the Crown.](section/130.md)
+    - [s. 131 Saving as to persons suffering from mental disorder and persons detained by order.](section/131.md)
+    - [s. 131A Consent of child to medical procedures](section/131A.md)
+  - General
+    - [s. 132 Amendment of enactments.](section/132.md)
+    - [s. 133 Regulations, etc.](section/133.md)
+    - [s. 134 Notices.](section/134.md)
+    - [s. 135 Interpretation.](section/135.md)
+    - [s. 136 Transitional and savings provisions, amendments and repeals.](section/136.md)
+    - [s. 137 Short title, commencement and extent.](section/137.md)
+- SCHEDULE A1 Appeal Committees
+  - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+  - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+- SCHEDULE A2 Application of Certain Provisions of this Act to Recorded Children and Young Persons
+  - [Sch. A2 para. 1](schedule/A2/paragraph/1.md)
+  - [Sch. A2 para. 2](schedule/A2/paragraph/2.md)
+  - [Sch. A2 para. 3](schedule/A2/paragraph/3.md)
+  - [Sch. A2 para. 4](schedule/A2/paragraph/4.md)
+  - [Sch. A2 para. 5](schedule/A2/paragraph/5.md)
+  - [Sch. A2 para. 6](schedule/A2/paragraph/6.md)
+- SCHEDULE 1 Local Inquiries
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 1A ...
+  - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+- SCHEDULE 1B
+  - Procedure
+    - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+    - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - General powers
+    - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+    - [Sch. 1B para. 4](schedule/1B/paragraph/4.md)
+  - Recovery of expenditure
+    - [Sch. 1B para. 5](schedule/1B/paragraph/5.md)
+    - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+- SCHEDULE 2 Constitution of Independent Schools Tribunals
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Transitional and Savings Provisions
+  - General
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Children Requiring Special Education
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Savings
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+- SCHEDULE 4 Amendment of Enactments
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - The Factories Act 1961 (c. 34)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Public Expenditure and Receipts Act 1968 (c. 14)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Social Work (Scotland) Act 1968 (c. 49)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - The Sex Discrimination Act 1975 (c. 65)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - The Race Relations Act 1976 (c. 74)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - The National Health Service (Scotland) Act 1978 (c. 29)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+- Schedule 5 Enactments Repealed
+- SCHEDULE 6 Postponement of The Commencement of Certain Provisions
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
