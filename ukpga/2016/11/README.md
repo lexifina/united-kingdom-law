@@ -1,0 +1,166 @@
+# Scotland Act 2016
+
+2016 c. 11. Enacted 2016-03-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2016/11
+
+Source: https://www.legislation.gov.uk/ukpga/2016/11/2026-04-01
+
+## Contents
+
+- PART 1 Constitutional arrangements
+  - The Scottish Parliament and the Scottish Government
+    - [s. 1 Permanence of the Scottish Parliament and Scottish Government](section/1.md)
+  - The Sewel convention
+    - [s. 2 The Sewel convention](section/2.md)
+  - Elections etc
+    - [s. 3 Elections](section/3.md)
+    - [s. 4 Power to make provision about elections](section/4.md)
+    - [s. 5 Timing of elections](section/5.md)
+    - [s. 6 Electoral registration: the digital service](section/6.md)
+    - [s. 7 Expenditure in connection with elections](section/7.md)
+    - [s. 8 Review of electoral boundaries by the Local Government Boundary Commission for Scotland](section/8.md)
+    - [s. 9 Functions exercisable within devolved competence: elections](section/9.md)
+    - [s. 10 Minor and consequential amendments: elections etc](section/10.md)
+  - Legislation by the Parliament
+    - [s. 11 Super-majority requirement for certain legislation](section/11.md)
+    - [s. 12 Scope to modify the Scotland Act 1998](section/12.md)
+- PART 2 Tax, borrowing and financial information
+  - Income tax
+    - [s. 13 Power of Scottish Parliament to set rates of income tax](section/13.md)
+    - [s. 14 Amendments of Income Tax Act 2007](section/14.md)
+    - [s. 15 Consequential amendments: income tax](section/15.md)
+  - Value added tax
+    - [s. 16 Assignment of VAT](section/16.md)
+  - Devolved taxes
+    - [s. 17 Tax on carriage of passengers by air](section/17.md)
+    - [s. 18 Tax on commercial exploitation of aggregate](section/18.md)
+    - [s. 19 Devolved taxes: further provision](section/19.md)
+  - Borrowing
+    - [s. 20 Borrowing](section/20.md)
+  - Information
+    - [s. 21 Provision of information to the Office for Budget Responsibility](section/21.md)
+- PART 3 Welfare benefits and employment support
+  - Welfare benefits
+    - [s. 22 Disability, industrial injuries and carer’s benefits](section/22.md)
+    - [s. 23 Benefits for maternity, funeral and heating expenses](section/23.md)
+    - [s. 24 Discretionary payments: top-up of reserved benefits](section/24.md)
+    - [s. 25 Discretionary housing payments](section/25.md)
+    - [s. 26 Discretionary payments and assistance](section/26.md)
+    - [s. 27 Welfare foods](section/27.md)
+    - [s. 28 Power to create other new benefits](section/28.md)
+    - [s. 29 Universal credit: costs of claimants who rent accommodation](section/29.md)
+    - [s. 30 Universal credit: persons to whom, and time when, paid](section/30.md)
+  - Employment support
+    - [s. 31 Employment support](section/31.md)
+  - General
+    - [s. 32 Functions exercisable within devolved competence](section/32.md)
+    - [s. 33 Social Security Advisory Committee and Industrial Injuries Advisory Council](section/33.md)
+    - [s. 34 Information-sharing](section/34.md)
+    - [s. 35 Extension of unauthorised disclosure offence](section/35.md)
+- PART 4 Other legislative competence
+  - [s. 36 Crown Estate](section/36.md)
+  - [s. 37 Equal opportunities](section/37.md)
+  - [s. 38 Public sector duty regarding socio-economic inequalities](section/38.md)
+  - [s. 39 Tribunals](section/39.md)
+  - [s. 40 Roads](section/40.md)
+  - [s. 41 Roads: traffic signs etc](section/41.md)
+  - [s. 42 Roads: speed limits](section/42.md)
+  - [s. 43 Roads: parking](section/43.md)
+  - [s. 44 Roads: consequential provision etc](section/44.md)
+  - [s. 45 Policing of railways and railway property](section/45.md)
+  - [s. 46 British Transport Police: cross-border public authorities](section/46.md)
+  - [s. 47 Onshore petroleum](section/47.md)
+  - [s. 48 Onshore petroleum: consequential amendments](section/48.md)
+  - [s. 49 Onshore petroleum: existing licences](section/49.md)
+  - [s. 50 Consumer advocacy and advice](section/50.md)
+  - [s. 51 Functions exercisable within devolved competence: consumer advocacy and advice](section/51.md)
+  - [s. 52 Gaming machines on licensed betting premises](section/52.md)
+  - [s. 53 Abortion](section/53.md)
+- PART 5 Other executive competence
+  - [s. 54 Gaelic Media Service](section/54.md)
+  - [s. 55 Commissioners of Northern Lighthouses](section/55.md)
+  - [s. 56 Maritime and Coastguard Agency](section/56.md)
+  - [s. 57 Rail: franchising of passenger services](section/57.md)
+  - [s. 58 Fuel poverty: support schemes](section/58.md)
+  - [s. 59 Energy company obligations](section/59.md)
+  - [s. 60 Apportionment of targets](section/60.md)
+  - [s. 61 Renewable electricity incentive schemes: consultation](section/61.md)
+  - [s. 62 Offshore renewable energy installations](section/62.md)
+  - [s. 63 References to Competition and Markets Authority](section/63.md)
+- PART 6 Miscellaneous
+  - [s. 64 Gas and Electricity Markets Authority](section/64.md)
+  - [s. 65 Office of Communications](section/65.md)
+  - [s. 66 Bodies that may be required to attend before the Parliament](section/66.md)
+  - [s. 67 Destination of fines, forfeitures and fixed penalties](section/67.md)
+- PART 7 General
+  - [s. 68 Subordinate legislation under functions exercisable within devolved competence](section/68.md)
+  - [s. 69 Transfers of property etc to the Scottish Ministers](section/69.md)
+  - [s. 70 Transitional provision](section/70.md)
+  - [s. 71 Power to make consequential, transitional and saving provision](section/71.md)
+  - [s. 72 Commencement](section/72.md)
+  - [s. 73 Short title](section/73.md)
+- SCHEDULE 1 DISAPPLICATION OF UK AGGREGATES LEVY: FURTHER AMENDMENTS
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 ROADS: CONSEQUENTIAL AND RELATED PROVISION
+  - PART 1 Amendments
+    - Road Traffic Regulation Act 1984 (c. 52)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Road Traffic Act 1988 (c. 52)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Road Traffic (Temporary Restrictions) Procedure Regulations 1992 (S.I. 1992/1215)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Zebra, Pelican and Puffin Pedestrian Crossings Regulations and General Directions 1997 (S.I. 1997/2400)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 1999 (S.I. 1999/1750)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Traffic Signs Regulations and General Directions 2002 (S.I. 2002/3113)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc) Order 2005 (S.I. 2005/849)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+  - PART 2 Exercise of powers by agreement
+    - Traffic Sign Powers
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Powers to exempt from speed limits
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
