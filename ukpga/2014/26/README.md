@@ -2,9 +2,9 @@
 
 2014 c. 26. Enacted 2014-07-17.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2014-04-01, are in the history before it: `git log -- ukpga/2014/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-03-18
+Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-04-01
 
 ## Contents
 
@@ -167,7 +167,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-03-18
     - [s. 120 Bank levy: miscellaneous changes](section/120.md)
   - Gaming duty
     - [s. 121 Rates of gaming duty](section/121.md)
-  - Bingo duty
+  - ...
     - [s. 122 Rate of bingo duty](section/122.md)
     - [s. 123 Exemption from bingo duty: small-scale amusements provided commercially](section/123.md)
   - Machine games duty
@@ -1397,7 +1397,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/26/2026-03-18
       - [Sch. 34 para. 2](schedule/34/paragraph/2.md)
     - Breach of the Banking Code of Practice
       - [Sch. 34 para. 3](schedule/34/paragraph/3.md)
-    - Dishonest tax agents
+    - Tax advisers
       - [Sch. 34 para. 4](schedule/34/paragraph/4.md)
     - Non-compliance with avoidance disclosure requirements
       - [Sch. 34 para. 5](schedule/34/paragraph/5.md)
