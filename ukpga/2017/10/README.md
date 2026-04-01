@@ -1,0 +1,392 @@
+# Finance Act 2017
+
+2017 c. 10. Enacted 2017-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2017/10/2026-04-01
+
+## Contents
+
+- Part 1 Direct and indirect taxes
+  - Income tax charge and rates
+    - [s. 1 Income tax charge for tax year 2017-18](section/1.md)
+    - [s. 2 Main rates of income tax for tax year 2017-18](section/2.md)
+    - [s. 3 Default and savings rates of income tax for tax year 2017-18](section/3.md)
+    - [s. 4 Starting rate limit for savings for tax year 2017-18](section/4.md)
+  - Corporation tax charge
+    - [s. 5 Corporation tax charge for financial year 2018](section/5.md)
+  - Income tax: general
+    - [s. 6 Workers’ services provided to public sector through intermediaries](section/6.md)
+    - [s. 7 Optional remuneration arrangements](section/7.md)
+    - [s. 8 Taxable benefits: asset made available without transfer](section/8.md)
+    - [s. 9 Overseas pensions](section/9.md)
+    - [s. 10 Pensions: offshore transfers](section/10.md)
+    - [s. 11 Deduction of income tax at source](section/11.md)
+  - Employee shareholder shares
+    - [s. 12 Employee shareholder shares: amount treated as earnings](section/12.md)
+    - [s. 13 Employee shareholder shares: abolition of CGT exemption](section/13.md)
+    - [s. 14 Employee shareholder shares: purchase by company](section/14.md)
+  - Disguised remuneration
+    - [s. 15 Employment income provided through third parties](section/15.md)
+  - Indirect taxes
+    - [s. 16 VAT: zero-rating of adapted motor vehicles etc](section/16.md)
+    - [s. 17 Insurance premium tax: standard rate](section/17.md)
+    - [s. 18 Insurance premium tax: anti-forestalling provision](section/18.md)
+    - [s. 19 Air passenger duty: rates from 1 April 2017](section/19.md)
+    - [s. 20 Vehicle excise duty: rates](section/20.md)
+    - [s. 21 Alcoholic liquor duties: rates](section/21.md)
+    - [s. 22 Tobacco products duty: rates](section/22.md)
+    - [s. 23 Tobacco products duty: minimum excise duty](section/23.md)
+  - Avoidance
+    - [s. 24 Promoters of tax avoidance schemes: threshold conditions etc](section/24.md)
+- Part 2 Soft drinks industry levy
+  - Introductory
+    - [s. 25 Soft drinks industry levy](section/25.md)
+    - [s. 26 “Soft drink” and “package”](section/26.md)
+    - [s. 27 Meaning of “prepared drink”](section/27.md)
+  - Chargeable soft drinks
+    - [s. 28 Meaning of “chargeable soft drink”](section/28.md)
+    - [s. 29 Sugar content condition](section/29.md)
+    - [s. 30 Exempt soft drinks](section/30.md)
+  - Charging of the soft drinks industry levy
+    - [s. 31 Charge to soft drinks industry levy](section/31.md)
+    - [s. 32 Chargeable events: soft drinks packaged in the UK](section/32.md)
+    - [s. 33 Chargeable events: soft drinks imported into the UK](section/33.md)
+    - [s. 34 Secondary warehousing regulations](section/34.md)
+    - [s. 35 Liability to pay the levy](section/35.md)
+    - [s. 36 Levy rates](section/36.md)
+    - [s. 36A Determining levy rate for flavour concentrates](section/36A.md)
+  - Exemption etc
+    - [s. 37 Small producer exemption](section/37.md)
+    - [s. 38 Meaning of “small producer”](section/38.md)
+    - [s. 39 Tax credits](section/39.md)
+  - Registration
+    - [s. 40 The register](section/40.md)
+    - [s. 41 Liability to register: packagers](section/41.md)
+    - [s. 42 Liability to register: producers](section/42.md)
+    - [s. 43 Liability to register: imported chargeable soft drinks](section/43.md)
+    - [s. 44 Notification of liability and registration](section/44.md)
+    - [s. 45 Voluntary registration: small producers](section/45.md)
+    - [s. 46 Cancellation of registration under section 41, 42 or 43](section/46.md)
+    - [s. 47 Cancellation of voluntary registration](section/47.md)
+    - [s. 48 Correction of the register](section/48.md)
+    - [s. 49 Applications, notifications etc](section/49.md)
+  - Offences
+    - [s. 50 Fraudulent evasion](section/50.md)
+    - [s. 51 Failure to notify registration liability](section/51.md)
+  - Administration and enforcement
+    - [s. 52 Payment, collection and recovery](section/52.md)
+    - [s. 53 Records](section/53.md)
+    - [s. 54 Power to make further provision about enforcement](section/54.md)
+    - [s. 55 Appeals etc](section/55.md)
+    - [s. 56 Supplementary amendments](section/56.md)
+  - Miscellaneous
+    - [s. 57 Regulations: death, incapacity or insolvency of person carrying on a business](section/57.md)
+    - [s. 58 Provisional collection of soft drinks industry levy](section/58.md)
+    - [s. 58A Isle of Man: import and export of chargeable soft drinks](section/58A.md)
+  - General
+    - [s. 59 Interpretation of Part 2](section/59.md)
+    - [s. 60 Regulations](section/60.md)
+    - [s. 61 Commencement](section/61.md)
+- Part 3 Final
+  - [s. 62 Interpretation](section/62.md)
+  - [s. 63 Short title](section/63.md)
+- SCHEDULE 1 Workers’ services provided to public sector through intermediaries
+  - Part 1 Preliminary amendments
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Part 2 New Chapter 10 of Part 2 of ITEPA 2003
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Part 3 Consequential amendments
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part 4 Commencement
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+- SCHEDULE 2 Optional remuneration arrangements
+  - Optional remuneration arrangements
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Benefits in kind: amount treated as earnings
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+    - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+    - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+  - Exemptions
+    - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+  - Other amendments
+    - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+    - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+    - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+    - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+    - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+    - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+    - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+    - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+    - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+    - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+  - Commencement and transitional provision
+    - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+- SCHEDULE 3 Overseas pensions
+  - Part 1 Registered pension schemes established outside the UK
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Part 2 Income tax on pension income
+    - UK residents to be taxed on 100%, not 90%, of foreign pension income
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Superannuation funds to which section 615(3) of ICTA applies
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part 3 Lump sums for UK residents from foreign pension schemes
+    - Introductory
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Employer-financed retirement benefit schemes: ending of foreign-service relief
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Lump sums under other foreign schemes
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Relief from tax under Part 9 of ITEPA 2003 not to give rise to tax under other provisions
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+- SCHEDULE 4 Pensions: offshore transfers
+  - Part 1 Charges where payments made in respect of overseas pensions
+    - Amendments of Schedule 34 to FA 2004
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Consequential amendments in ITEPA 2003
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Part 2 Income tax on pension transfers: overseas transfer charge
+    - Tax charge on transfers to qualifying recognised overseas pension schemes
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Further amendments in Part 4 of FA 2004.
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Other amendments
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Commencement and transitional provision
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+- SCHEDULE 5 Deduction of income tax at source
+  - Part 1 Interest distributions of investment trust or authorised investment fund
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Part 2 Interest on peer-to-peer lending
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Part 3 Further amendment and commencement
+    - Further amendment
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Commencement
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Employment income provided through third parties
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Meaning of “relevant step”
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Loans: transferring, releasing or writing off
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Exclusions: relevant repayments
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Exclusions: payments in respect of a tax liability
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Double taxation
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Amendments to Schedule 2 to FA 2011
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Commencement
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 VAT: zero-rating of adapted motor vehicles etc
+  - Adaptation of a qualifying motor vehicle
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Three year rule, reporting and certification
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Penalty
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Minor amendments
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Commencement
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Soft drinks industry levy: recovery and overpayments
+  - Part 1 Recovery
+    - Recovery as debt due
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Assessments
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Supplementary assessments
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - Further provision about assessments under paragraphs 2, 4 and 5
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - Time limits for assessments
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Part 2 Overpayments
+    - Repayments of overpaid levy
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Supplementary provisions about repayment etc.
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Reimbursement arrangements
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Assessment for excessive repayment
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Supplementary assessments
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Further provision about assessments under paragraphs 12 and 13
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Time limits for assessments
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Part 3 Further provision about notices etc.
+    - Notifications to a person’s representative
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Service of notices
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+- SCHEDULE 9 Soft drinks industry levy: requirements to keep records etc: penalties
+  - Part 1 Penalties
+    - Sections 48(2) and 53(1): requirements imposed by regulations
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Section 53(2): requirements imposed by directions
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - Power to alter amounts specified in paragraphs 1 and 2
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - Reasonable excuse
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Part 2 Assessments
+    - Power to make assessments
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Supplementary assessments
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - Further provision about assessments under this Schedule
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+    - Time limits for assessments
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Further provision about notices
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Soft drinks industry levy: appeals and reviews
+  - Part 1 Appealable decisions
+    - Appealable decisions
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Part 2 Reviews
+    - Offer of review
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Right to require review
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Review by HMRC
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Extensions of time
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Review out of time
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Nature of review etc.
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Service of notices
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Part 3 Appeals
+    - “Appeal tribunal”
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Bringing of appeals
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Appeals: further provision
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Determinations on appeal
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+- SCHEDULE 11 Soft drinks industry levy: supplementary amendments
+  - HMRC powers to obtain information etc.
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Penalties: failure to notify etc.
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Penalties: failure to comply with requirements relating to returns
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Interest
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
