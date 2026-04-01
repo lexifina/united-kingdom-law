@@ -1,0 +1,121 @@
+# Finance Act 1983
+
+1983 c. 28. Enacted 1983-05-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1983/28/2026-04-01
+
+## Contents
+
+- PART I Customs and Excise
+  - [s. 1 Duties on spirits, beer, wine, madewine and cider.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Hydrocarbon oil.](section/3.md)
+  - [s. 4 Vehicles excise duty.](section/4.md)
+  - [s. 5 Bingo duty and gaming machine licence duty.](section/5.md)
+  - [s. 6 Deferred payment of excise duty on goods.](section/6.md)
+  - [s. 7 Imports to and exports from Northern Ireland.](section/7.md)
+  - [s. 8 Export from Northern Ireland of goods chargeable with agricultural levies.](section/8.md)
+  - [s. 9 Miscellaneous customs and excise repeals.](section/9.md)
+- PART II Income Tax, Corporation Tax and Capital Gains Tax
+  - Chapter I
+    - [s. 10 ................................](section/10.md)
+    - [s. 29 ................................](section/29.md)
+  - Chapter II
+    - [s. 30 ................................](section/30.md)
+  - Chapter III Capital Gains
+    - [s. 34 ................................](section/34.md)
+- PART III Oil Taxation
+  - [s. 35 Phasing out of APRT.](section/35.md)
+  - [s. 36 Increased oil allowance for certain new fields.](section/36.md)
+  - [s. 37 Reliefs for exploration and appraisal expenditure etc.](section/37.md)
+  - [s. 38 Terms of payment to be implied in determining market value.](section/38.md)
+  - [s. 39 Exclusion of oil appropriated for production purposes in other fields.](section/39.md)
+  - [s. 40 Variation of decisions on claims for allowable expenditure.](section/40.md)
+  - [s. 41 Transfers of interests in oil fields.](section/41.md)
+- PART IV Miscellaneous and Supplementary
+  - [s. 42 ................................](section/42.md)
+  - Miscellaneous
+    - [s. 43 National savings: supplements.](section/43.md)
+    - [s. 44 Rates of interest for government lending.](section/44.md)
+    - [s. 45 Suspension of certain payments into National Loans Fund in respect of new towns.](section/45.md)
+    - [s. 46 Historic Buildings and Monuments Commission for England.](section/46.md)
+    - [s. 47 ................................](section/47.md)
+    - [s. 48 Short title, interpretation, construction and repeals.](section/48.md)
+- SCHEDULE 1
+  - Wine: Rates of Duty
+- SCHEDULE 2................................
+- SCHEDULE 3 Vehicles Excise Duty
+  - Part I Provisions Substituted in Part II of Schedules 1 to 5 to the Vehicles (Excise)Act 1971 and the Vehicles (Excise) Act (Northern Ireland) 1972
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Amendment of Part I of Schedule 4 to The Vehicles (Excise) Act 1971 and The Vehicles (Excise) Act (Northern Ireland) 1972
+    - Amendments made in both Acts
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - Amendments made only in the Act of 1971
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Amendments made only in the Act of 1972
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+- SCHEDULES 4, 5................................
+- SCHEDULE 6
+  - Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Election for pooling
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Effect of election
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - The 1982 identification rules
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The indexation allowance
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Transfers on a no gain / no loss basis
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Consideration for options
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Supplementary
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+- SCHEDULE 7 APRT: Modifications of Finance Act, 1982, Schedule 19
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 Reliefs for Exploration and Appraisal Expenditure etc
+  - Part I Section to be Inserted after Section 5 of the Principal Act
+  - Part II Amendments Relating to the New Allowance
+    - The principal Act
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - The Petroleum Revenue Tax Act 1980
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - The Finance Act 1980
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Part III Receipts to be Set Against Allowable Expenditure
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Repeals
+  - Part I Miscellaneous Customs and Excise
+  - Part II Income Tax, Corporation Tax and Capital Gains Tax
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Part III Oil Taxation
