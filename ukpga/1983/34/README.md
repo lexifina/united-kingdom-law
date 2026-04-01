@@ -1,0 +1,142 @@
+# Mobile Homes Act 1983
+
+1983 c. 34. Enacted 1983-05-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 27 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1983/34
+
+Source: https://www.legislation.gov.uk/ukpga/1983/34/2026-04-01
+
+## Contents
+
+- [s. 1 Particulars of agreements](section/1.md)
+- [s. 2 Terms of agreements.](section/2.md)
+- [s. 2A Power to amend implied terms](section/2A.md)
+- [s. 2B Power to amend implied terms: Scotland](section/2B.md)
+- [s. 2C Site rules](section/2C.md)
+- [s. 2D Section 2C: supplementary provision](section/2D.md)
+- [s. 3 Successors in title](section/3.md)
+- [s. 4 Jurisdiction of a tribunal or the court ...](section/4.md)
+- [s. 5 Interpretation.](section/5.md)
+- [s. 6 Short title, repeals, commencement and extent.](section/6.md)
+- SCHEDULE 1 Agreements Under Act
+  - Part I Terms Implied by Act
+    - CHAPTER 1 Application and interpretation
+      - [Sch. 1 para. 1n1](schedule/1/paragraph/1n1.md)
+    - CHAPTER 2 Agreements relating to pitches ... except pitches ... on local authority gypsy and traveller sites and county council gypsy and traveller sites
+      - Duration of agreement
+        - [Sch. 1 Pt. I heading duration-of-agreement para. 1](schedule/1/part/I/crossheading/duration-of-agreement/paragraph/1.md)
+        - [Sch. 1 para. 1A](schedule/1/paragraph/1A.md)
+        - [Sch. 1 Pt. I heading duration-of-agreement para. 2](schedule/1/part/I/crossheading/duration-of-agreement/paragraph/2.md)
+      - Termination by occupier
+        - [Sch. 1 Pt. I heading termination-by-occupier para. 3](schedule/1/part/I/crossheading/termination-by-occupier/paragraph/3.md)
+      - Termination by owner
+        - [Sch. 1 Pt. I heading termination-by-owner para. 4](schedule/1/part/I/crossheading/termination-by-owner/paragraph/4.md)
+        - [Sch. 1 Pt. I heading termination-by-owner para. 5](schedule/1/part/I/crossheading/termination-by-owner/paragraph/5.md)
+        - [Sch. 1 para. 5A](schedule/1/paragraph/5A.md)
+        - [Sch. 1 Pt. I heading termination-by-owner para. 6](schedule/1/part/I/crossheading/termination-by-owner/paragraph/6.md)
+      - Repayment of sums paid by occupier on termination of agreement
+        - [Sch. 1 Pt. I heading recovery-of-overpayments-by-occupier para. 7](schedule/1/part/I/crossheading/recovery-of-overpayments-by-occupier/paragraph/7.md)
+      - Sale of mobile home
+        - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+        - [Sch. 1 para. 7B](schedule/1/paragraph/7B.md)
+        - [Sch. 1 para. 7C](schedule/1/paragraph/7C.md)
+        - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - Gift of mobile home
+        - [Sch. 1 para. 8A](schedule/1/paragraph/8A.md)
+        - [Sch. 1 para. 8B](schedule/1/paragraph/8B.md)
+        - [Sch. 1 para. 8C](schedule/1/paragraph/8C.md)
+        - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - Re-siting of mobile home
+        - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - Quiet enjoyment of the mobile home Undisturbed possession of the mobile home
+        - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - Owner’s right of entry to the pitch
+        - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+        - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+        - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+        - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - The pitch fee
+        - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+        - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+        - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+        - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+        - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - Occupier’s obligations
+        - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - Owner’s obligations
+        - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+        - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+        - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+        - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+        - [Sch. 1 para. 25A](schedule/1/paragraph/25A.md)
+      - Owner’s name and address
+        - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+        - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - Qualifying residents’ association
+        - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - Interpretation Owner’s name and address
+        - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+        - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - Qualifying residents’ association
+        - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - Interpretation
+        - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - CHAPTER 3 Agreements relating to transit pitches ... on a local authority gypsy and traveller site or a county council gypsy and traveller site
+      - [Sch. 1 para. 1n1n1 Duration of agreement](schedule/1/paragraph/1n1n1.md)
+      - [Sch. 1 para. 2n1 Duration of agreement](schedule/1/paragraph/2n1.md)
+      - [Sch. 1 para. 3 Early termination by occupier](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4 Early termination by owner](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5 Recovery of overpayments by occupier](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6 Quiet enjoyment of the mobile home](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7 Owner’s right of entry to the pitch](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8n1 Owner’s right of entry to the pitch](schedule/1/paragraph/8n1.md)
+      - [Sch. 1 para. 9n1 Owner’s right of entry to the pitch](schedule/1/paragraph/9n1.md)
+      - [Sch. 1 para. 10n1 Owner’s right of entry to the pitch](schedule/1/paragraph/10n1.md)
+      - [Sch. 1 para. 11n1 Owner’s name and address](schedule/1/paragraph/11n1.md)
+      - [Sch. 1 para. 12n1 Owner’s name and address](schedule/1/paragraph/12n1.md)
+      - [Sch. 1 para. 13n1 Interpretation](schedule/1/paragraph/13n1.md)
+    - CHAPTER 4 Agreements relating to permanent pitches ... on a local authority gypsy and traveller site or a county council gypsy and traveller site
+      - [Sch. 1 para. 1n1n2 Duration of agreement](schedule/1/paragraph/1n1n2.md)
+      - [Sch. 1 para. 2n1n1 Duration of agreement](schedule/1/paragraph/2n1n1.md)
+      - [Sch. 1 para. 3n1 Termination by occupier](schedule/1/paragraph/3n1.md)
+      - [Sch. 1 para. 4n1 Termination by owner](schedule/1/paragraph/4n1.md)
+      - [Sch. 1 para. 5n1 Termination by owner](schedule/1/paragraph/5n1.md)
+      - [Sch. 1 para. 6n1 Termination by owner](schedule/1/paragraph/6n1.md)
+      - [Sch. 1 para. 6A Assignment of agreement in Wales](schedule/1/paragraph/6A.md)
+      - [Sch. 1 para. 6B Application in relation to assignment in Wales](schedule/1/paragraph/6B.md)
+      - [Sch. 1 para. 7n1 Recovery of overpayments by occupier](schedule/1/paragraph/7n1.md)
+      - [Sch. 1 para. 8n1n1 Re-siting of mobile home](schedule/1/paragraph/8n1n1.md)
+      - [Sch. 1 para. 9n1n1 Quiet enjoyment of the mobile home](schedule/1/paragraph/9n1n1.md)
+      - [Sch. 1 para. 10n1n1 Owner’s right of entry to the pitch](schedule/1/paragraph/10n1n1.md)
+      - [Sch. 1 para. 11n1n1 Owner’s right of entry to the pitch](schedule/1/paragraph/11n1n1.md)
+      - [Sch. 1 para. 12n1n1 Owner’s right of entry to the pitch](schedule/1/paragraph/12n1n1.md)
+      - [Sch. 1 para. 13n1n1 Owner’s right of entry to the pitch](schedule/1/paragraph/13n1n1.md)
+      - [Sch. 1 para. 14n1 The pitch fee](schedule/1/paragraph/14n1.md)
+      - [Sch. 1 para. 15n1 The pitch fee](schedule/1/paragraph/15n1.md)
+      - [Sch. 1 para. 16n1 The pitch fee](schedule/1/paragraph/16n1.md)
+      - [Sch. 1 para. 17n1 The pitch fee](schedule/1/paragraph/17n1.md)
+      - [Sch. 1 para. 18n1 The pitch fee](schedule/1/paragraph/18n1.md)
+      - [Sch. 1 para. 19n1 Occupier’s obligations](schedule/1/paragraph/19n1.md)
+      - [Sch. 1 para. 20n1 Owner’s obligations](schedule/1/paragraph/20n1.md)
+      - [Sch. 1 para. 21n1 Owner’s obligations](schedule/1/paragraph/21n1.md)
+      - [Sch. 1 para. 22n1 Owner’s obligations](schedule/1/paragraph/22n1.md)
+      - [Sch. 1 para. 23n1 Owner’s obligations](schedule/1/paragraph/23n1.md)
+      - [Sch. 1 para. 24n1 Owner’s name and address](schedule/1/paragraph/24n1.md)
+      - [Sch. 1 para. 25n1 Owner’s name and address](schedule/1/paragraph/25n1.md)
+      - [Sch. 1 para. 26n1 Qualifying residents’ association](schedule/1/paragraph/26n1.md)
+      - [Sch. 1 para. 27n1 Interpretation](schedule/1/paragraph/27n1.md)
+  - Part II Matters Concerning Which Terms May be Implied by Appropriate Judicial Body
+    - [Sch. 1 Pt. II para. 1](schedule/1/part/II/paragraph/1.md)
+    - [Sch. 1 Pt. II para. 2](schedule/1/part/II/paragraph/2.md)
+    - [Sch. 1 Pt. II para. 3](schedule/1/part/II/paragraph/3.md)
+    - [Sch. 1 Pt. II para. 4](schedule/1/part/II/paragraph/4.md)
+    - [Sch. 1 Pt. II para. 5](schedule/1/part/II/paragraph/5.md)
+    - [Sch. 1 Pt. II para. 6](schedule/1/part/II/paragraph/6.md)
+    - [Sch. 1 Pt. II para. 7](schedule/1/part/II/paragraph/7.md)
+    - [Sch. 1 para. A1](schedule/1/paragraph/A1.md)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2
+  - Repeals
