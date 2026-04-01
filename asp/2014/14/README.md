@@ -1,0 +1,258 @@
+# Housing (Scotland) Act 2014
+
+asp/2014/14. Enacted 2014-08-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2014/14
+
+Source: https://www.legislation.gov.uk/asp/2014/14/2026-04-01
+
+## Contents
+
+- PART 1 Right to buy
+  - [s. 1 Abolition of the right to buy](section/1.md)
+  - [s. 2 Amendment of right to buy provisions](section/2.md)
+- PART 2 Social housing
+  - Allocation of social housing
+    - [s. 3 Reasonable preference in allocation of social housing](section/3.md)
+    - [s. 4 Rules on priority of allocation of housing: consultation](section/4.md)
+    - [s. 5 Factors which may be considered in allocation: ownership of property](section/5.md)
+    - [s. 6 Determination of minimum period for application to remain in force](section/6.md)
+  - Short Scottish secure tenancy
+    - [s. 7 Creation of short Scottish secure tenancy: antisocial behaviour](section/7.md)
+    - [s. 8 Grant of short Scottish secure tenancy: homeowners](section/8.md)
+    - [s. 9 Short Scottish secure tenancy: term](section/9.md)
+    - [s. 10 Short Scottish secure tenancy: extension of term](section/10.md)
+    - [s. 11 Short Scottish secure tenancy: recovery of possession](section/11.md)
+  - Scottish secure tenancy
+    - [s. 12 Assignation, sublet and joint tenancy of Scottish secure tenancy](section/12.md)
+    - [s. 13 Succession to Scottish secure tenancy](section/13.md)
+    - [s. 14 Grounds for eviction: antisocial behaviour](section/14.md)
+    - [s. 15 Recovery of possession of properties designed for special needs](section/15.md)
+- PART 3 Private rented housing
+  - Transfer of sheriff’s jurisdiction to First-tier Tribunal
+    - [s. 16 Regulated and assured tenancies etc.](section/16.md)
+    - [s. 17 Repairing standard](section/17.md)
+    - [s. 18 Right to adapt rented houses](section/18.md)
+    - [s. 19 Landlord registration](section/19.md)
+    - [s. 20 Houses in multiple occupation](section/20.md)
+  - Landlord registration: time limit for determining application
+    - [s. 21 Landlord registration: time limit for determining application](section/21.md)
+  - Repairing standard
+    - [s. 22 Carbon monoxide alarms](section/22.md)
+    - [s. 23 Electrical safety inspections](section/23.md)
+    - [s. 24 Power to modify repairing standard etc.](section/24.md)
+  - Enforcement of repairing standard
+    - [s. 25 Third party application in respect of the repairing standard](section/25.md)
+    - [s. 26 Procedure for third party applications](section/26.md)
+    - [s. 27 Appeals in relation to third party applications](section/27.md)
+  - Private rented housing: Enhanced Enforcement Areas
+    - [s. 28 Private rented housing: Enhanced Enforcement Areas](section/28.md)
+- PART 4 Letting agents
+  - Inclusion in the register
+    - [s. 29 Register of letting agents](section/29.md)
+    - [s. 30 Application for registration](section/30.md)
+    - [s. 31 Offence of providing false information in an application](section/31.md)
+    - [s. 32 Decision on application](section/32.md)
+    - [s. 33 Time limit for determining application](section/33.md)
+    - [s. 34 Fit and proper person considerations](section/34.md)
+    - [s. 35 Fit and proper person: criminal record information](section/35.md)
+  - Duties of registered letting agents
+    - [s. 36 Letting agent registration number](section/36.md)
+    - [s. 37 Duty to inform: change of circumstances](section/37.md)
+  - Removal from the register
+    - [s. 38 Duration of registration](section/38.md)
+    - [s. 39 Revocation of registration](section/39.md)
+    - [s. 40 Removal from register on application](section/40.md)
+  - Appeals
+    - [s. 41 Appeals](section/41.md)
+  - Consequences of refusal or removal
+    - [s. 42 Note on register where refusal or removal](section/42.md)
+    - [s. 43 No payment for letting agency work where refusal or removal](section/43.md)
+  - Offences where no registration
+    - [s. 44 Offence of operating as a letting agent without registration](section/44.md)
+    - [s. 45 Offence of using a registration number where no registration](section/45.md)
+  - Code of practice
+    - [s. 46 Letting Agent Code of Practice](section/46.md)
+    - [s. 47 Prohibition on contracting out](section/47.md)
+  - Letting agent enforcement orders
+    - [s. 48 Applications to First-tier Tribunal to enforce code of practice](section/48.md)
+    - [s. 49 Variation and revocation of enforcement orders](section/49.md)
+    - [s. 50 Failure to comply with enforcement order](section/50.md)
+    - [s. 51 Enforcement orders: offence](section/51.md)
+  - Monitoring of compliance
+    - [s. 52 Power to obtain information](section/52.md)
+    - [s. 53 Power to carry out inspections](section/53.md)
+    - [s. 54 Warrants for entry](section/54.md)
+    - [s. 55 Inspections: supplemental](section/55.md)
+    - [s. 56 Information and inspection: offence](section/56.md)
+  - General
+    - [s. 57 Transfer of jurisdiction of actions involving letting agents](section/57.md)
+    - [s. 58 Offences by bodies corporate etc.](section/58.md)
+    - [s. 59 Delegation of functions relating to the register](section/59.md)
+    - [s. 60 Landlord registration where agent is a registered letting agent](section/60.md)
+    - [s. 61 Meaning of letting agency work](section/61.md)
+    - [s. 62 Interpretation of Part 4](section/62.md)
+- PART 5 Mobile home sites with permanent residents
+  - General application
+    - [s. 63 Licensing of sites for permanent residents](section/63.md)
+  - Part 1A site licence
+    - [s. 64 Relevant permanent site application](section/64.md)
+    - [s. 65 Issue, renewal, transfer and transmission of a Part 1A site licence](section/65.md)
+    - [s. 66 Duration of a Part 1A site licence](section/66.md)
+    - [s. 67 Duty to inform local authority where change](section/67.md)
+    - [s. 68 Revocation of a Part 1A site licence: fit and proper person](section/68.md)
+    - [s. 69 Appeals relating to a Part 1A site licence](section/69.md)
+    - [s. 70 Power to make provision in relation to procedure and appeals](section/70.md)
+  - Fit and proper persons
+    - [s. 71 Fit and proper person considerations](section/71.md)
+    - [s. 72 Fit and proper person: criminal conviction certificate](section/72.md)
+    - [s. 73 Fit and proper person: information sharing](section/73.md)
+  - Offences relating to relevant permanent sites
+    - [s. 74 Offences relating to relevant permanent sites](section/74.md)
+  - Local authority enforcement at relevant permanent sites
+    - [s. 75 Improvement notices](section/75.md)
+    - [s. 76 Penalty notices](section/76.md)
+    - [s. 77 Appointment of interim manager](section/77.md)
+    - [s. 78 Emergency action](section/78.md)
+    - [s. 79 Powers of entry](section/79.md)
+    - [s. 80 Recovery of inspection and enforcement expenses](section/80.md)
+  - Miscellaneous
+    - [s. 81 Offences by bodies corporate etc. under Part 1A of the 1960 Act](section/81.md)
+    - [s. 82 Part 1A of the 1960 Act: miscellaneous provision](section/82.md)
+    - [s. 83 Transitional provision for existing site licences](section/83.md)
+    - [s. 84 Agreements to which the Mobile Homes Act 1983 applies](section/84.md)
+- PART 6 Private housing conditions
+  - [s. 85 Tenement management scheme](section/85.md)
+  - [s. 86 Notice of potential liability for costs: notice of discharge](section/86.md)
+  - [s. 87 Work notices](section/87.md)
+  - [s. 88 Maintenance orders](section/88.md)
+  - [s. 89 Maintenance plans](section/89.md)
+  - [s. 90 Non-residential premises: repayment charges](section/90.md)
+  - [s. 91 Repayment charges: recovery of repayable amount](section/91.md)
+  - [s. 92 Charging orders](section/92.md)
+- PART 7 Miscellaneous
+  - [s. 93 Right to redeem heritable security after 20 years: power to exempt](section/93.md)
+  - [s. 94 First-tier Tribunal: disqualification of members from exercise of certain functions](section/94.md)
+  - [s. 95 Private rented housing panel: disqualification from membership](section/95.md)
+  - [s. 96 Delegation of certain functions](section/96.md)
+  - [s. 97 Scottish Housing Regulator: transfer of assets following inquiries](section/97.md)
+  - [s. 98 Registered social landlord becoming a subsidiary of another body](section/98.md)
+  - [s. 99 Repeal of defective designation provisions](section/99.md)
+- PART 8 General
+  - [s. 100 Interpretation](section/100.md)
+  - [s. 101 Subordinate legislation](section/101.md)
+  - [s. 102 Ancillary provision](section/102.md)
+  - [s. 103 Minor and consequential amendments](section/103.md)
+  - [s. 104 Commencement](section/104.md)
+  - [s. 105 Short title](section/105.md)
+- SCHEDULE 1 Transfer of jurisdiction to First-tier Tribunal
+  - PART 1 Regulated tenancies, Part VII contracts and assured tenancies
+    - Rent (Scotland) Act 1984 (c.58)
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Housing (Scotland) Act 1988 (c.43)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+  - PART 2 Repairing standard
+    - Housing (Scotland) Act 2006 (asp 1)
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+  - PART 3 Right to adapt rented houses
+    - Housing (Scotland) Act 2006 (asp 1)
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+  - PART 4 Landlord registration
+    - Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+- SCHEDULE 2 Minor and consequential amendments
+  - Local Government, Planning and Land Act 1980 (c.65)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Matrimonial Homes (Family Protection) (Scotland) Act 1981 (c.59)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Rent (Scotland) Act 1984 (c.58)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Housing (Scotland) Act 1987 (c.26)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Housing (Scotland) Act 1988 (c.43)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Local Government and Housing Act 1989 (c.42)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c.28)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Local Government etc. (Scotland) Act 1994 (c.39)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Housing (Scotland) Act 2001 (asp 10)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Water Industry (Scotland) Act 2002 (asp 3)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Land Reform (Scotland) Act 2003 (asp 2)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Agricultural Holdings (Scotland) Act 2003 (asp 11)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Fire (Scotland) Act 2005 (asp 5)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Housing (Scotland) Act 2006 (asp 1)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Housing (Scotland) Act 2010 (asp 17)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Police and Fire Reform (Scotland) Act 2012 (asp 8)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
