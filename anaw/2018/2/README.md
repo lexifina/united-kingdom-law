@@ -1,0 +1,197 @@
+# Additional Learning Needs and Education Tribunal (Wales) Act 2018
+
+anaw/2018/2. Enacted 2018-01-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2018/2
+
+Source: https://www.legislation.gov.uk/anaw/2018/2/2026-04-01
+
+## Contents
+
+- PART 1 OVERVIEW
+  - [s. 1 Overview of this Act](section/1.md)
+- PART 2 ADDITIONAL LEARNING NEEDS
+  - CHAPTER 1 KEY TERMS, CODE AND PARTICIPATION
+    - Key terms
+      - [s. 2 Additional learning needs](section/2.md)
+      - [s. 3 Additional learning provision](section/3.md)
+    - Code of practice
+      - [s. 4 Additional learning needs code](section/4.md)
+      - [s. 5 Procedure for making the code](section/5.md)
+    - Participation, United Nations conventions and access to information
+      - [s. 6 Duty to involve and support children, their parents and young people](section/6.md)
+      - [s. 7 Duty to have regard to the United Nations Convention on the Rights of the Child](section/7.md)
+      - [s. 8 Duty to have regard to the United Nations Convention on the Rights of Persons with Disabilities](section/8.md)
+      - [s. 9 Advice and information](section/9.md)
+  - CHAPTER 2 INDIVIDUAL DEVELOPMENT PLANS
+    - Preparing and maintaining individual development plans
+      - [s. 10 Individual development plans](section/10.md)
+      - [s. 11 Duty to decide: maintained schools and further education institutions](section/11.md)
+      - [s. 12 Duties to prepare and maintain plans: maintained schools and further education institutions](section/12.md)
+      - [s. 13 Duty to decide: local authorities](section/13.md)
+      - [s. 14 Duties to prepare and maintain plans: local authorities](section/14.md)
+    - Additional learning provision for looked after children
+      - [s. 15 Key terms](section/15.md)
+      - [s. 16 Amendments to the Social Services and Well-being (Wales) Act 2014](section/16.md)
+      - [s. 17 Duty to refer a matter to a local authority that looks after a child](section/17.md)
+      - [s. 18 Duty to decide whether a looked after child has additional learning needs](section/18.md)
+      - [s. 19 Duties to prepare and maintain plans for looked after children](section/19.md)
+    - Additional learning provision and NHS bodies
+      - [s. 20 Additional learning provision: Local Health Boards and NHS trusts](section/20.md)
+      - [s. 21 Individual development plans: Local Health Boards and NHS trusts](section/21.md)
+    - Information about plans
+      - [s. 22 Provision of information about individual development plans](section/22.md)
+    - Review of plans
+      - [s. 23 Review and revision of individual development plans](section/23.md)
+      - [s. 24 Review and revision of individual development plans for looked after children](section/24.md)
+      - [s. 25 Relationship of individual development plans to other similar documents](section/25.md)
+    - Local authority reconsideration of governing body decisions and plans
+      - [s. 26 Reconsideration by local authorities of decisions under section 11(1)](section/26.md)
+      - [s. 27 Reconsideration by local authorities of plans maintained under section 12](section/27.md)
+      - [s. 28 Local authority duty to decide whether to take over governing body plans](section/28.md)
+      - [s. 29 Circumstances in which the duties in sections 26(2), 27(2) and 28(3) do not apply](section/29.md)
+      - [s. 30 Registration or enrolment at more than one institution](section/30.md)
+    - Ceasing to maintain plans
+      - [s. 31 Ceasing to maintain individual development plans](section/31.md)
+      - [s. 32 Reconsideration by local authorities of decisions of governing bodies under section 31](section/32.md)
+      - [s. 33 Limitation on ceasing to maintain plans to allow reconsideration or appeal](section/33.md)
+      - [s. 34 Individual development plan after a young person’s 25th birthday](section/34.md)
+    - Transfer of plans
+      - [s. 35 Transfer of duties to maintain plans](section/35.md)
+      - [s. 36 Request to transfer plan to governing body of further education institution](section/36.md)
+      - [s. 37 Regulations about transfer of individual development plans](section/37.md)
+    - Powers to direct governing bodies of maintained schools
+      - [s. 38 Local authority power to direct governing bodies of maintained schools](section/38.md)
+    - Additional learning provision for detained persons
+      - [s. 39 Meaning of “detained person” and other key terms](section/39.md)
+      - [s. 40 Duty to prepare individual development plans for detained persons](section/40.md)
+      - [s. 41 Circumstances in which the duty in section 40(2) does not apply](section/41.md)
+      - [s. 42 Duty to keep individual development plans for detained persons](section/42.md)
+      - [s. 43 Release of a detained person](section/43.md)
+      - [s. 44 Certain provisions of Part 2 not to apply to children and young persons in detention](section/44.md)
+      - [s. 45 Detention under Part 3 of the Mental Health Act 1983](section/45.md)
+    - Necessity of plans
+      - [s. 46 Regulations about deciding whether an individual development plan is necessary](section/46.md)
+  - CHAPTER 3 SUPPLEMENTARY FUNCTIONS
+    - Functions relating to securing additional learning provision
+      - [s. 47 Duty to take all reasonable steps to secure additional learning provision](section/47.md)
+      - [s. 48 Duty to admit children to named maintained schools](section/48.md)
+      - [s. 49 No power to charge for provision secured under this Part](section/49.md)
+      - [s. 50 Welsh Ministers’ duties to secure post-16 education and training](section/50.md)
+    - Additional learning provision in particular kinds of school or other institution
+      - [s. 51 Duty to favour education for children at mainstream maintained schools](section/51.md)
+      - [s. 52 Children with additional learning needs in mainstream maintained schools](section/52.md)
+      - [s. 53 Additional learning provision otherwise than in schools](section/53.md)
+      - [s. 54 Amendments to registration requirements for independent schools in Wales](section/54.md)
+      - [s. 55 Conditions applicable to securing additional learning provision at independent schools](section/55.md)
+      - [s. 56 List of independent special post-16 institutions](section/56.md)
+      - [s. 57 Abolition of approval of non-maintained special schools in Wales](section/57.md)
+      - [s. 58 Abolition of approval of independent schools in Wales](section/58.md)
+      - [s. 59 Additional learning provision outside England and Wales](section/59.md)
+    - Additional learning needs co-ordinating officers
+      - [s. 60 Additional learning needs co-ordinator](section/60.md)
+      - [s. 61 Designated education clinical lead officer](section/61.md)
+      - [s. 62 Early years additional learning needs lead officer](section/62.md)
+    - Miscellaneous functions
+      - [s. 63 Duty to keep additional learning provision under review](section/63.md)
+      - [s. 64 Duty of health bodies to notify parents etc.](section/64.md)
+      - [s. 65 Duties to provide information and other help](section/65.md)
+      - [s. 66 Right of local authority to access premises of schools and other institutions](section/66.md)
+      - [s. 67 Provision of goods or services in relation to additional learning provision](section/67.md)
+  - CHAPTER 4 AVOIDING AND RESOLVING DISAGREEMENTS
+    - Local authority arrangements
+      - [s. 68 Arrangements for the avoidance and resolution of disagreements](section/68.md)
+      - [s. 69 Independent advocacy services](section/69.md)
+    - Appeals and applications to the Tribunal
+      - [s. 70 Appeal and application rights](section/70.md)
+      - [s. 71 Decisions on appeals and applications under section 70](section/71.md)
+      - [s. 72 Appeal rights: detained persons](section/72.md)
+      - [s. 73 Decisions on appeals under section 72](section/73.md)
+      - [s. 74 Regulations about appeals and applications](section/74.md)
+      - [s. 75 Regulations about procedure](section/75.md)
+      - [s. 76 NHS Bodies: evidence and Tribunal recommendations](section/76.md)
+      - [s. 77 Compliance with orders](section/77.md)
+      - [s. 78 Power to share documents and other information with the Welsh Ministers](section/78.md)
+      - [s. 79 Offence](section/79.md)
+      - [s. 80 Allowances for attendance at the Education Tribunal for Wales](section/80.md)
+      - [s. 81 Appeals from the Education Tribunal for Wales to the Upper Tribunal](section/81.md)
+  - CHAPTER 5 GENERAL
+    - Information
+      - [s. 82 Regulations about disclosure and use of information](section/82.md)
+    - Capacity
+      - [s. 83 Parents and young people lacking capacity](section/83.md)
+      - [s. 84 Capacity of children](section/84.md)
+      - [s. 85 Case friends for children who lack capacity](section/85.md)
+    - Higher education courses provided by further education institutions
+      - [s. 86 Students at further education institutions undertaking higher education courses](section/86.md)
+    - Pupils and students at Welsh institutions who are resident in England
+      - [s. 87 Application of reconsideration provisions to pupils and students resident in England](section/87.md)
+    - Giving notice etc.
+      - [s. 88 Giving notice etc. under this Part](section/88.md)
+    - Review of additional learning provision in Welsh
+      - [s. 89 Review of additional learning provision in Welsh](section/89.md)
+      - [s. 90 Power to amend duties to secure additional learning provision in Welsh](section/90.md)
+- PART 3 EDUCATION TRIBUNAL FOR WALES
+  - [s. 91 Constitution of the Education Tribunal for Wales](section/91.md)
+  - [s. 92 The President and members of the panels](section/92.md)
+  - [s. 93 Deputy President of the Tribunal](section/93.md)
+  - [s. 94 Remuneration and expenses](section/94.md)
+- PART 4 MISCELLANEOUS AND GENERAL
+  - Miscellaneous
+    - [s. 95 Meaning of “in the area” of a local authority](section/95.md)
+  - General
+    - [s. 96 Minor and consequential amendments and repeals](section/96.md)
+    - [s. 97 Power to make consequential and transitional provision etc.](section/97.md)
+    - [s. 98 Regulations](section/98.md)
+    - [s. 99 General interpretation](section/99.md)
+    - [s. 100 Coming into force](section/100.md)
+    - [s. 101 Short title and inclusion as one of the Education Acts](section/101.md)
+- SCHEDULE 1 MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - Local Authority Social Services Act 1970 (c. 42)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Children Act 1989 (c. 41)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Education Act 1996 (c. 56)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - School Standards and Framework Act 1998 (c. 31)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Learning and Skills Act 2000 (c. 21)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Education Act 2002 (c. 32)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Constitutional Reform Act 2005 (c. 4)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - National Health Service Act 2006 (c. 41)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - National Health Service (Wales) Act 2006 (c. 42)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Tribunals, Courts and Enforcement Act 2007 (c. 15)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Learner Travel (Wales) Measure 2008 (nawm 2)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Education and Skills Act 2008 (c.25)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Learning and Skills (Wales) Measure 2009 (nawm 2)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+  - Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Education (Wales) Measure 2009 (nawm 7)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Equality Act 2010 (c. 15)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Welsh Language (Wales) Measure 2011 (nawm 1)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+  - Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+  - School Standards and Organisation (Wales) Act 2013 (anaw 1)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Children and Families Act 2014 (c. 6)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Social Services and Well-being (Wales) Act 2014 (anaw 4)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
