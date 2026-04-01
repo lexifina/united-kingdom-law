@@ -1,0 +1,273 @@
+# Housing (Scotland) Act 2010
+
+asp/2010/17. Enacted 2010-12-09.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 7 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/17
+
+Source: https://www.legislation.gov.uk/asp/2010/17/2026-04-01
+
+## Contents
+
+- Part 1 The Scottish Housing Regulator
+  - The Regulator
+    - [s. 1 The Scottish Housing Regulator](section/1.md)
+    - [s. 2 The Regulator’s objective](section/2.md)
+    - [s. 3 The Regulator’s functions](section/3.md)
+    - [s. 4 Statement on performance of functions](section/4.md)
+    - [s. 5 Involvement of representative bodies](section/5.md)
+    - [s. 6 Involvement of the Accounts Commission](section/6.md)
+    - [s. 7 Independence from Ministers](section/7.md)
+  - Membership
+    - [s. 8 The Regulator’s membership](section/8.md)
+    - [s. 9 Disqualification and removal from office](section/9.md)
+    - [s. 10 Members’ expenses](section/10.md)
+  - Chairing and proceedings
+    - [s. 11 Chairing](section/11.md)
+    - [s. 12 The Regulator’s proceedings](section/12.md)
+  - Staff and property
+    - [s. 13 The Regulator’s chief executive](section/13.md)
+    - [s. 14 The Regulator’s other staff and property](section/14.md)
+  - Powers
+    - [s. 15 The Regulator’s general powers](section/15.md)
+    - [s. 16 Delegation of powers](section/16.md)
+  - Studies, co-operation and annual reports
+    - [s. 17 Studies](section/17.md)
+    - [s. 18 Co-operation with other regulators](section/18.md)
+    - [s. 19 Annual reports](section/19.md)
+- Part 2 Registered social landlords
+  - The register
+    - [s. 20 Registered social landlords](section/20.md)
+    - [s. 21 Population of the register](section/21.md)
+    - [s. 22 Application](section/22.md)
+    - [s. 23 Entry in the register](section/23.md)
+  - Registration criteria
+    - [s. 24 Legislative registration criteria](section/24.md)
+    - [s. 25 Regulatory registration criteria](section/25.md)
+    - [s. 26 Guidance on registration criteria](section/26.md)
+  - Removal from register
+    - [s. 27 Compulsory de-registration](section/27.md)
+    - [s. 28 Voluntary de-registration](section/28.md)
+  - Appeals
+    - [s. 29 Appeal against decision on registration or removal](section/29.md)
+  - Communication with other regulators
+    - [s. 30 Communication with other regulators](section/30.md)
+- Part 3 Performance of social landlords
+  - Scottish Social Housing Charter
+    - [s. 31 Scottish Social Housing Charter](section/31.md)
+    - [s. 32 Standards and outcomes](section/32.md)
+    - [s. 33 Scottish Social Housing Charter: supplemental](section/33.md)
+  - Targets, guidance, code of conduct and equal opportunities
+    - [s. 34 Performance improvement targets](section/34.md)
+    - [s. 35 Guidance: housing activities](section/35.md)
+    - [s. 36 Code of conduct: governance and financial accountability](section/36.md)
+    - [s. 37 Financial management or governance targets for registered social landlords](section/37.md)
+    - [s. 38 Guidance: financial management or governance targets](section/38.md)
+    - [s. 39 Encouragement of equal opportunities](section/39.md)
+  - Assessing and reporting
+    - [s. 40 Assessment of social landlords](section/40.md)
+    - [s. 41 Performance reports](section/41.md)
+- Part 4 Inquiries and information
+  - Inquiries
+    - [s. 42 Inquiries about social landlords](section/42.md)
+    - [s. 43 Inquiries: general powers](section/43.md)
+    - [s. 44 Inquiries: survey powers](section/44.md)
+    - [s. 45 Exceptional audit](section/45.md)
+    - [s. 46 Reports on inquiries](section/46.md)
+  - Information
+    - [s. 47 Information from tenants on significant performance failures](section/47.md)
+    - [s. 48 Power to obtain information](section/48.md)
+    - [s. 49 Failure to provide information etc.](section/49.md)
+    - [s. 50 Social landlords’ involvement of tenants etc. when providing information](section/50.md)
+  - Code of practice
+    - [s. 51 Code of practice: inquiries](section/51.md)
+- Part 5 Regulatory intervention
+  - Introductory
+    - [s. 52 Regulatory intervention](section/52.md)
+    - [s. 53 Exercise of regulatory intervention powers](section/53.md)
+    - [s. 54 Code of practice: regulatory intervention](section/54.md)
+  - Remedial action
+    - [s. 55 Performance improvement plans](section/55.md)
+    - [s. 56 Enforcement notices](section/56.md)
+  - Managerial appointment
+    - [s. 57 Appointment of manager for housing activities](section/57.md)
+    - [s. 58 Appointment of manager for financial or other affairs](section/58.md)
+    - [s. 59 Appointment of manager: supplementary](section/59.md)
+  - Registered social landlords: removal, suspension and appointment of officers etc.
+    - [s. 60 General power to remove officers](section/60.md)
+    - [s. 61 Suspension of officers etc. during or following inquiries](section/61.md)
+    - [s. 62 Removal of officers etc. following inquiries](section/62.md)
+    - [s. 63 Responsible individuals](section/63.md)
+    - [s. 64 Appeals against suspension or removal](section/64.md)
+    - [s. 65 Appointment of new officers](section/65.md)
+  - Registered social landlords: asset protection
+    - [s. 66 Restrictions on dealings during or following inquiries](section/66.md)
+    - [s. 67 Transfer of assets following inquiries](section/67.md)
+- Part 6 Registered social landlords: accounts and audit
+  - [s. 68 Determination of accounting requirements](section/68.md)
+  - [s. 69 Compliance with accounting requirements](section/69.md)
+  - [s. 70 Delivery of accounts and audit](section/70.md)
+  - [s. 71 Failure to deliver compliant accounts](section/71.md)
+  - [s. 72 Disclosure of information](section/72.md)
+- Part 7 Registered social landlords: insolvency etc.
+  - Moratorium
+    - [s. 73 Notification of step towards insolvency etc.](section/73.md)
+    - [s. 74 Effect of failure to notify](section/74.md)
+    - [s. 75 Moratorium](section/75.md)
+    - [s. 76 Period of moratorium](section/76.md)
+    - [s. 77 Further moratorium](section/77.md)
+    - [s. 78 Effect of moratorium](section/78.md)
+    - [s. 79 Interim manager](section/79.md)
+  - Making proposals
+    - [s. 80 Proposals: formulation](section/80.md)
+    - [s. 81 Proposals: submission](section/81.md)
+    - [s. 82 Proposals: agreement](section/82.md)
+    - [s. 83 Modifying proposals](section/83.md)
+  - Implementing proposals
+    - [s. 84 Implementation of agreed proposals](section/84.md)
+    - [s. 85 Appointment of manager to implement proposals](section/85.md)
+    - [s. 86 Manager: powers](section/86.md)
+    - [s. 87 Manager of registered society: extra powers](section/87.md)
+    - [s. 88 Regulator assistance](section/88.md)
+    - [s. 89 Failure by manager to implement agreed proposals](section/89.md)
+    - [s. 90 Other failure to implement agreed proposals](section/90.md)
+    - [s. 91 Meaning of “land”](section/91.md)
+- Part 8 Registered social landlords: organisational change etc.
+  - Change of name, office or constitution
+    - [s. 92 Change of name, office or constitution](section/92.md)
+    - [s. 93 Change of constitution](section/93.md)
+    - [s. 94 Registered society’s rules: supplementary](section/94.md)
+    - [s. 95 Change of registered company’s articles: supplementary](section/95.md)
+  - Registered societies: restructuring, winding up and dissolution
+    - [s. 96 Restructuring, winding up and dissolution of registered societies](section/96.md)
+    - [s. 96A Proposed restructuring of society](section/96A.md)
+    - [s. 97 Restructuring of society](section/97.md)
+    - [s. 98 Voluntary winding up of society](section/98.md)
+    - [s. 99 Dissolution of society](section/99.md)
+  - Companies: restructuring and winding up
+    - [s. 100 Restructuring and winding up of companies](section/100.md)
+    - [s. 100A Restructuring by company: proposed restructuring](section/100A.md)
+    - [s. 101 Restructuring of company](section/101.md)
+    - [s. 102 Conversion of company into a registered society](section/102.md)
+    - [s. 103 Company voluntary arrangement](section/103.md)
+    - [s. 104 Voluntary winding up of company](section/104.md)
+  - Registered social landlord becoming a subsidiary of another body
+    - [s. 104A Registered social landlord becoming a subsidiary of another body](section/104A.md)
+  - Winding up petition
+    - [s. 105 Regulator’s power to petition for winding up](section/105.md)
+  - Asset transfer on dissolution or winding up
+    - [s. 106 Asset transfer on dissolution or winding up](section/106.md)
+- Part 9 Disposal of land or assets by registered social landlords
+  - [s. 107 Restrictions on power to dispose of land](section/107.md)
+  - [s. 108 Disposals not subject to section 107](section/108.md)
+  - [s. 109 Notification of disposals](section/109.md)
+  - [s. 110 Tenant consultation where no change of landlord](section/110.md)
+  - [s. 111 Effect of disposals in breach of section 107](section/111.md)
+  - [s. 112 De-registered bodies](section/112.md)
+- Part 10 Special procedure for disposals and restructuring resulting in change of landlord
+  - Chapter 1 Disposals by a registered social landlord
+    - [s. 113 Disposals resulting in change of landlord](section/113.md)
+    - [s. 114 Regulator’s initial decision](section/114.md)
+    - [s. 115 Consultation with tenants](section/115.md)
+    - [s. 115A Tenant approval](section/115A.md)
+    - [s. 115B Guidance](section/115B.md)
+    - [s. 116 Regulator’s consent](section/116.md)
+    - [s. 117 Further information](section/117.md)
+    - [s. 118 Ballot](section/118.md)
+    - [s. 119 Written agreements](section/119.md)
+    - [s. 120 Unaffected tenants](section/120.md)
+    - [s. 121 Regulator’s approval](section/121.md)
+    - [s. 122 Purchaser protection](section/122.md)
+  - Chapter 2 Restructuring of a registered social landlord
+    - [s. 123 Restructuring resulting in change of landlord](section/123.md)
+    - [s. 124 Purchaser protection](section/124.md)
+  - CHAPTER 3 REGISTERED SOCIAL LANDLORD BECOMING A SUBSIDIARY OF ANOTHER BODY
+    - [s. 124A Regulator’s consent](section/124A.md)
+    - [s. 124B Purchaser protection](section/124B.md)
+- Part 11 Change of landlord: secure tenants
+  - [s. 125 Right to acquire certain houses from local authority landlords](section/125.md)
+  - [s. 126 Approved persons](section/126.md)
+  - [s. 127 Eligible houses](section/127.md)
+  - [s. 128 Application to acquire eligible house](section/128.md)
+  - [s. 129 Offer to sell](section/129.md)
+  - [s. 130 Market value of eligible house](section/130.md)
+  - [s. 131 Sale conditions](section/131.md)
+  - [s. 132 Acceptance of an offer to sell](section/132.md)
+  - [s. 133 Refusal of application](section/133.md)
+  - [s. 134 Reference to Lands Tribunal](section/134.md)
+  - [s. 135 Consent for subsequent disposals](section/135.md)
+  - [s. 136 Extension of time periods](section/136.md)
+- Part 12 Charitable registered social landlords
+  - [s. 137 Charitable registered social landlords](section/137.md)
+- Part 13 Social landlords and rural housing bodies: long leases and heritable securities
+  - [s. 138 Residential restriction on a long lease](section/138.md)
+  - [s. 139 Heritable security redemption right](section/139.md)
+- Part 14 Right to buy: reforms
+  - [s. 140 Re-accommodated persons: protection of right to buy](section/140.md)
+  - [s. 141 Limitation on right to buy: new tenants](section/141.md)
+  - [s. 142 Pressured areas: amendments](section/142.md)
+  - [s. 143 Limitation on right to buy: new supply social housing](section/143.md)
+  - [s. 144 Limitation on right to buy: police housing](section/144.md)
+  - [s. 145 Duty to collect and publish information: local authority housing stock](section/145.md)
+  - [s. 146 Duty to collect and publish information: tenants eligible for right to buy](section/146.md)
+  - [s. 147 Duty to collect and publish information: sale of houses by registered social landlords](section/147.md)
+- Part 15 Amendment of Housing (Scotland) Act 2006
+  - [s. 148 Introductory](section/148.md)
+  - [s. 149 HRA designation orders: removal of Ministerial involvement](section/149.md)
+  - [s. 150 Recovery of expenses](section/150.md)
+  - [s. 151 Scheme of assistance: demolition works](section/151.md)
+- Part 16 Miscellaneous
+  - [s. 152 Tenant protection: orders for possession against landlord](section/152.md)
+  - [s. 153 Tenant protection: repossession orders](section/153.md)
+  - [s. 154 Police accommodation not to be Scottish secure tenancy](section/154.md)
+  - [s. 155 Scottish secure tenancy: rent arrears pre-action requirements](section/155.md)
+  - [s. 156 Local authority duties on homelessness: armed forces](section/156.md)
+  - [s. 157 Vacant dwellings: use of information obtained for council tax purposes](section/157.md)
+  - [s. 158 Housing support: persons found to be homeless or threatened with homelessness](section/158.md)
+- Part 17 Supplementary and final provisions
+  - [s. 159 Offences by bodies corporate etc.](section/159.md)
+  - [s. 160 Formal communications](section/160.md)
+  - [s. 161 Orders](section/161.md)
+  - [s. 162 Minor and consequential amendments and repeals](section/162.md)
+  - [s. 163 Ancillary provision](section/163.md)
+  - [s. 164 Connected bodies](section/164.md)
+  - [s. 165 Interpretation](section/165.md)
+  - [s. 166 Commencement](section/166.md)
+  - [s. 167 Short title](section/167.md)
+- SCHEDULE 1 Transitional provisions
+  - Transfer of staff
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Transfer of assets and liabilities
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Modifications of enactments
+  - Co-operative and Community Benefit Societies and Credit Unions Act 1968 (c.55)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Land Tenure Reform (Scotland) Act 1974 (c.38)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Housing (Scotland) Act 1987 (c.26)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Housing (Scotland) Act 1988 (c.43)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Housing Act 1988 (c.50)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Housing (Scotland) Act 2001 (asp 10)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Scottish Public Services Ombudsman Act 2002 (asp 11)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Freedom of Information (Scotland) Act 2002 (asp 13)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Public Appointments and Public Bodies etc.(Scotland) Act 2003 (asp 4)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Further and Higher Education (Scotland) Act 2005 (asp 6)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Charities and Trustee Investment (Scotland) Act 2005 (asp 10)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Housing (Scotland) Act 2006 (asp 1)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Public Services Reform (Scotland) Act 2010 (asp 8)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
