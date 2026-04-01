@@ -1,0 +1,370 @@
+# Social Services and Well-being (Wales) Act 2014
+
+anaw/2014/4. Enacted 2014-05-01.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 61 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/anaw/2014/4
+
+Source: https://www.legislation.gov.uk/anaw/2014/4/2026-04-01
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - Overview
+    - [s. 1 Overview of this Act](section/1.md)
+  - Key terms
+    - [s. 2 Meaning of “well-being”](section/2.md)
+    - [s. 3 Meaning of “adult”, “child”, “carer”and “disabled”](section/3.md)
+    - [s. 4 Meaning of “care and support”](section/4.md)
+- PART 2 GENERAL FUNCTIONS
+  - Overarching duties
+    - [s. 5 Well-being duty](section/5.md)
+    - [s. 6 Other overarching duties: general](section/6.md)
+    - [s. 7 Other overarching duties: UN Principles and Convention](section/7.md)
+  - Well-being outcomes
+    - [s. 8 Duty to issue a statement of the outcomes to be achieved](section/8.md)
+    - [s. 9 Power to issue a code to help achieve the outcomes](section/9.md)
+    - [s. 10 Local authorities and the code](section/10.md)
+    - [s. 11 Issue, approval and revocation of the code](section/11.md)
+    - [s. 12 Power to help local authorities to comply with the code’s requirements](section/12.md)
+    - [s. 13 Publication of information and reports](section/13.md)
+  - Local arrangements
+    - [s. 14 Assessment of needs for care and support, support for carers and preventative services](section/14.md)
+    - [s. 14A Plans following assessments of needs under section 14](section/14A.md)
+    - [s. 15 Preventative services](section/15.md)
+    - [s. 16 Promoting social enterprises, co-operatives, user led services and the third sector](section/16.md)
+    - [s. 17 Provision of information, advice and assistance](section/17.md)
+    - [s. 18 Registers of sight-impaired, hearing-impaired and other disabled people](section/18.md)
+- PART 3 ASSESSING THE NEEDS OF INDIVIDUALS
+  - Assessing adults
+    - [s. 19 Duty to assess the needs of an adult for care and support](section/19.md)
+    - [s. 20 Refusal of a needs assessment for an adult](section/20.md)
+  - Assessing children
+    - [s. 21 Duty to assess the needs of a child for care and support](section/21.md)
+    - [s. 22 Refusal of a needs assessment for a child aged 16 or 17](section/22.md)
+    - [s. 23 Refusal of a needs assessment for a child aged under 16](section/23.md)
+  - Assessing carers
+    - [s. 24 Duty to assess the needs of a carer for support](section/24.md)
+    - [s. 25 Refusal of a needs assessment for an adult carer](section/25.md)
+    - [s. 26 Refusal of a needs assessment for a carer aged 16 or 17](section/26.md)
+    - [s. 27 Refusal of a needs assessment for a carer aged under 16](section/27.md)
+  - Supplementary
+    - [s. 28 Combining needs assessments for a carer and a cared for person](section/28.md)
+    - [s. 29 Combining needs assessments and other assessments](section/29.md)
+    - [s. 30 Regulations about assessment](section/30.md)
+    - [s. 31 Part 3: interpretation](section/31.md)
+- PART 4 MEETING NEEDS
+  - Deciding what to do following needs assessment
+    - [s. 32 Determination of eligibility and consideration of what to do to meet needs](section/32.md)
+    - [s. 33 Procedure for regulations under section 32](section/33.md)
+    - [s. 34 How to meet needs](section/34.md)
+  - Meeting care and support needs of adults
+    - [s. 35 Duty to meet care and support needs of an adult](section/35.md)
+    - [s. 36 Power to meet care and support needs of adult](section/36.md)
+  - Meeting care and support needs of children
+    - [s. 37 Duty to meet care and support needs of a child](section/37.md)
+    - [s. 38 Power to meet care and support needs of a child](section/38.md)
+    - [s. 39 Duty to maintain family contact](section/39.md)
+  - Meeting support needs of a carer
+    - [s. 40 Duty to meet support needs of an adult carer](section/40.md)
+    - [s. 41 Duty to meet support needs of an adult carer: supplementary](section/41.md)
+    - [s. 42 Duty to meet support needs of a child carer](section/42.md)
+    - [s. 43 Duty to meet support needs of a child carer: supplementary](section/43.md)
+    - [s. 44 Supplementary provision about the duties to meet carer’s needs](section/44.md)
+    - [s. 45 Power to meet support needs of a carer](section/45.md)
+  - Meeting needs: exceptions and restrictions
+    - [s. 46 Exception for persons subject to immigration control](section/46.md)
+    - [s. 47 Exception for provision of health services](section/47.md)
+    - [s. 48 Exception for provision of housing etc](section/48.md)
+    - [s. 49 Restrictions on provision of payments](section/49.md)
+  - Direct payments
+    - [s. 49A Direct payments](section/49A.md)
+    - [s. 50 Direct payments: conditions for payment to meet an adult’s needs](section/50.md)
+    - [s. 51 Direct payments: conditions for payment to meet a child’s needs](section/51.md)
+    - [s. 52 Direct payments: conditions for payment to meet a carer’s needs](section/52.md)
+    - [s. 53 Direct payments: further provision](section/53.md)
+    - [s. 53A Direct payments: after-care under the Mental Health Act 1983](section/53A.md)
+  - Plans
+    - [s. 54 Care and support plans and support plans](section/54.md)
+    - [s. 55 Regulations about care and support plans and support plans](section/55.md)
+  - Supplementary
+    - [s. 56 Portability of care and support](section/56.md)
+    - [s. 57 Cases where a person expresses preference for particular accommodation](section/57.md)
+    - [s. 58 Protecting property of persons being cared for away from home](section/58.md)
+- PART 5 CHARGING AND FINANCIAL ASSESSMENT
+  - Charging for meeting needs
+    - [s. 59 Power to impose charges](section/59.md)
+    - [s. 60 Persons upon whom charges may be imposed](section/60.md)
+    - [s. 61 Regulations about the exercise of a power to impose a charge](section/61.md)
+    - [s. 62 Regulations disapplying a power to impose a charge](section/62.md)
+    - [s. 63 Duty to carry out a financial assessment](section/63.md)
+    - [s. 64 Regulations about financial assessments](section/64.md)
+    - [s. 65 Regulations disapplying the duty to carry out a financial assessment](section/65.md)
+    - [s. 66 Determination as to a person’s ability to pay a charge](section/66.md)
+    - [s. 67 Duty to give effect of determination as to ability to pay a charge](section/67.md)
+    - [s. 68 Deferred payment agreements](section/68.md)
+  - Charging for preventative services and assistance
+    - [s. 69 Charging for preventative services and assistance](section/69.md)
+  - Enforcement of debts
+    - [s. 70 Recovery of charges, interest etc](section/70.md)
+    - [s. 71 Creation of a charge over an interest in land](section/71.md)
+    - [s. 72 Transfer of assets to avoid charges](section/72.md)
+  - Reviews
+    - [s. 73 Reviews relating to charging](section/73.md)
+- PART 6 LOOKED AFTER AND ACCOMMODATED CHILDREN
+  - Interpretation
+    - [s. 74 Child or young person looked after by a local authority](section/74.md)
+  - Accommodation duties
+    - [s. 75 General duty of local authority to secure sufficient accommodation for looked after children](section/75.md)
+    - [s. 75A Duty to secure accommodation: preparation and publication of annual sufficiency plan](section/75A.md)
+    - [s. 75B Duty to secure accommodation: procedure for approval of sufficiency plan](section/75B.md)
+    - [s. 75C Duty to secure accommodation: procedure if draft plan not approved by Welsh Ministers](section/75C.md)
+    - [s. 75D Duty to secure accommodation: reporting](section/75D.md)
+    - [s. 76 Accommodation for children without parents or who are lost or abandoned etc](section/76.md)
+    - [s. 77 Accommodation for children in police protection or detention or on remand etc](section/77.md)
+  - Duties of local authorities in relation to looked after children
+    - [s. 78 Principal duty of a local authority in relation to looked after children](section/78.md)
+    - [s. 79 Provision of accommodation for children in care](section/79.md)
+    - [s. 80 Maintenance of looked after children](section/80.md)
+    - [s. 81 Ways in which looked after children are to be accommodated and maintained](section/81.md)
+    - [s. 82 Review of child’s case before making alternative arrangements for accommodation](section/82.md)
+    - [s. 83 Care and support plans](section/83.md)
+    - [s. 84 Regulations about care and support plans](section/84.md)
+    - [s. 85 Contributions towards maintenance of looked after children](section/85.md)
+    - [s. 86 ... Homes provided, equipped and maintained by Welsh Ministers or Secretary of State](section/86.md)
+  - Regulations about looked after children
+    - [s. 87 Regulations about looked after children](section/87.md)
+    - [s. 88 Regulations about conditions under which a child in care is allowed to live with a parent etc](section/88.md)
+    - [s. 89 Regulations about placements of a kind mentioned in section 81(6)(d)](section/89.md)
+    - [s. 90 Regulations about placements out of area](section/90.md)
+    - [s. 91 Regulations about the avoidance of disruption in education](section/91.md)
+    - [s. 92 Regulations about the placing of children with local authority foster parents and prospective adopters](section/92.md)
+    - [s. 93 Regulations providing for approval of local authority foster parents](section/93.md)
+    - [s. 94 Regulations about agency arrangements](section/94.md)
+  - Regulation of local authority functions relating to looked after and accommodated children
+    - [s. 94A Regulation of the exercise of local authority functions relating to looked after and accommodated children](section/94A.md)
+    - [s. 94B Offence of contravening regulations under section 94A](section/94B.md)
+  - Contact and visits
+    - [s. 95 Promotion and maintenance of contact between child and family](section/95.md)
+    - [s. 96 Family visits to or by children: expenses](section/96.md)
+    - [s. 97 Duty of local authority to ensure visits to, and contact with, looked after children and other children](section/97.md)
+    - [s. 98 Independent visitors for looked after children](section/98.md)
+  - Review of cases
+    - [s. 99 Appointment of independent reviewing officer](section/99.md)
+    - [s. 100 Functions of the independent reviewing officer](section/100.md)
+    - [s. 101 Referred cases](section/101.md)
+    - [s. 102 Review of cases and inquiries into representations](section/102.md)
+  - Leaving care, accommodation and fostering
+    - [s. 103 Befriending, advising and assisting looked after children](section/103.md)
+    - [s. 104 Young people entitled to support under sections 105 to 115](section/104.md)
+    - [s. 105 Keeping in touch](section/105.md)
+    - [s. 106 Personal advisers](section/106.md)
+    - [s. 107 Pathway assessments and plans: general](section/107.md)
+    - [s. 108 Pathway assessments and plans: post-18 living arrangements](section/108.md)
+    - [s. 109 Support for category 2 young people](section/109.md)
+    - [s. 110 Support for category 3 young people](section/110.md)
+    - [s. 111 Cessation of duties in relation to category 3 young people](section/111.md)
+    - [s. 112 Support for category 4 young people](section/112.md)
+    - [s. 113 Cessation of duties in relation to category 4 young people](section/113.md)
+    - [s. 114 Support for category 5 young people and former category 5 young people](section/114.md)
+    - [s. 115 Support for category 6 young people and former category 6 young people](section/115.md)
+    - [s. 116 Supplementary provision about support for young persons in further or higher education](section/116.md)
+    - [s. 117 Charging for provision under sections 109 to 115](section/117.md)
+    - [s. 118 Information](section/118.md)
+  - Secure accommodation
+    - [s. 119 Use of accommodation for restricting liberty](section/119.md)
+  - Children accommodated in certain establishments
+    - [s. 120 Assessment of children accommodated by health authorities and education authorities](section/120.md)
+    - [s. 121 Assessment of children accommodated in care homes or independent hospitals](section/121.md)
+    - [s. 122 Visitors for children notified to a local authority ...](section/122.md)
+    - [s. 123 Services for children notified to a local authority ...](section/123.md)
+  - Moving looked after children to live outside the jurisdiction
+    - [s. 124 Arrangements to assist children to live outside England and Wales](section/124.md)
+  - Death of a looked after child
+    - [s. 125 Death of children being looked after by local authorities](section/125.md)
+  - Jurisdiction and procedure
+    - [s. 125A Jurisdiction of courts](section/125A.md)
+    - [s. 125B Rules of court](section/125B.md)
+    - [s. 125C Privacy for children involved in proceedings under this Part](section/125C.md)
+    - [s. 125D](section/125D.md)
+- PART 7 SAFEGUARDING
+  - Adults at risk
+    - [s. 126 Adults at risk](section/126.md)
+    - [s. 127 Adult protection and support orders](section/127.md)
+    - [s. 128 Duty to report adults at risk](section/128.md)
+    - [s. 129 Abolition of local authority’s power to remove persons in need of care and attention](section/129.md)
+  - Children at risk
+    - [s. 130 Duty to report children at risk](section/130.md)
+  - Guidance
+    - [s. 131 Guidance about adults at risk and children at risk](section/131.md)
+  - National Independent Safeguarding Board
+    - [s. 132 The National Independent Safeguarding Board](section/132.md)
+    - [s. 133 Regulations about the National Board](section/133.md)
+  - Safeguarding Children Boards and Safeguarding Adults Boards
+    - [s. 134 Safeguarding Children Boards and Safeguarding Adults Boards](section/134.md)
+    - [s. 135 Functions and procedures of Safeguarding Boards](section/135.md)
+    - [s. 136 Safeguarding Boards: annual plans and reports](section/136.md)
+    - [s. 137 Supply of information requested by Safeguarding Boards](section/137.md)
+    - [s. 138 Funding of Safeguarding Boards](section/138.md)
+    - [s. 139 Safeguarding Boards: supplementary](section/139.md)
+    - [s. 140 Combined Safeguarding Boards](section/140.md)
+    - [s. 141 Procedure for orders under section 140](section/141.md)
+    - [s. 142 Interpretation of Part 7](section/142.md)
+- PART 8 SOCIAL SERVICES FUNCTIONS
+  - Local authorities
+    - [s. 143 Social services functions of local authorities](section/143.md)
+    - [s. 144 Directors of social services](section/144.md)
+    - [s. 144A Annual reports](section/144A.md)
+    - [s. 144B Local market stability reports](section/144B.md)
+  - General duty of the Welsh Ministers
+    - [s. 144C General duty of the Welsh Ministers](section/144C.md)
+  - Codes
+    - [s. 145 Power to issue codes](section/145.md)
+    - [s. 146 Issue, approval and revocation of codes](section/146.md)
+    - [s. 147 Departure from requirements in codes](section/147.md)
+    - [s. 148 Policy statements: requirements and ancillary powers](section/148.md)
+    - [s. 149 Directions to require compliance with codes of practice](section/149.md)
+  - Reviews
+    - [s. 149A Reviews of studies and research](section/149A.md)
+    - [s. 149B Reviews of local authority social services functions](section/149B.md)
+    - [s. 149C Fees](section/149C.md)
+    - [s. 149D General considerations](section/149D.md)
+  - Intervention by central government
+    - [s. 150 Grounds for intervention](section/150.md)
+    - [s. 151 Warning notice](section/151.md)
+    - [s. 152 Power of Welsh Ministers to intervene](section/152.md)
+    - [s. 153 Power to require local authority to obtain advisory services](section/153.md)
+    - [s. 154 Power to require performance of functions by other persons on behalf of authority](section/154.md)
+    - [s. 155 Power to require performance of functions by Welsh Ministers or nominee](section/155.md)
+    - [s. 156 Power to direct exercise of other social services functions](section/156.md)
+    - [s. 157 General power to give directions and take steps](section/157.md)
+    - [s. 158 Intervention: duty to report](section/158.md)
+    - [s. 159 Directions](section/159.md)
+    - [s. 160 Duty to co-operate](section/160.md)
+  - Enforcement
+    - [s. 161 Powers of entry and inspection](section/161.md)
+    - [s. 161A Code of practice about inspections](section/161A.md)
+    - [s. 161B Power to require information](section/161B.md)
+    - [s. 161C Offences](section/161C.md)
+- PART 9 CO-OPERATION AND PARTNERSHIP
+  - Co-operation
+    - [s. 162 Arrangements to promote co-operation: adults with needs for care and support and carers](section/162.md)
+    - [s. 163 Arrangements to promote co-operation: children](section/163.md)
+    - [s. 164 Duty to co-operate and provide information in the exercise of social services functions](section/164.md)
+    - [s. 164A Duty of other persons to co-operate and provide information](section/164A.md)
+    - [s. 165 Promoting integration of care and support with health services etc](section/165.md)
+  - Partnership arrangements
+    - [s. 166 Partnership arrangements](section/166.md)
+    - [s. 167 Resources for partnership arrangements](section/167.md)
+    - [s. 168 Partnership boards](section/168.md)
+    - [s. 169 Guidance about partnership arrangements](section/169.md)
+  - Adoption
+    - [s. 170 Adoption service: joint arrangements](section/170.md)
+- PART 10 COMPLAINTS, REPRESENTATIONS AND ADVOCACY SERVICES
+  - CHAPTER 1 COMPLAINTS AND REPRESENTATIONS ABOUT SOCIAL SERVICES
+    - [s. 171 Complaints about social services](section/171.md)
+    - [s. 172 Complaints about social services: supplementary](section/172.md)
+    - [s. 173 Assistance for complainants](section/173.md)
+    - [s. 174 Representations relating to certain children etc](section/174.md)
+    - [s. 175 Representations relating to certain children etc: further provision](section/175.md)
+    - [s. 176 Representations relating to former looked after children etc](section/176.md)
+    - [s. 177 Further consideration of representations](section/177.md)
+    - [s. 178 Assistance for persons making representations](section/178.md)
+  - CHAPTER 2 COMPLAINTS ABOUT PRIVATE SOCIAL CARE AND PALLIATIVE CARE
+    - [s. 179 Investigation of complaints about privately arranged or funded social care and palliative care](section/179.md)
+    - [s. 180 Independent advocacy services for complaints about privately arranged or funded palliative care](section/180.md)
+  - CHAPTER 3 ADVOCACY SERVICES
+    - [s. 181 Provision of advocacy services](section/181.md)
+    - [s. 182 Provision of advocacy services: restrictions](section/182.md)
+    - [s. 183 Publicising advocacy services in care homes](section/183.md)
+- PART 11 MISCELLANEOUS AND GENERAL
+  - Miscellaneous
+    - [s. 184 Research and provision of information](section/184.md)
+    - [s. 185 Adults in prison, youth detention accommodation or bail accommodation etc](section/185.md)
+    - [s. 186 Children in youth detention accommodation, prison or bail accommodation etc](section/186.md)
+    - [s. 187 Persons in prison, youth detention accommodation or bail accommodation etc](section/187.md)
+    - [s. 188 Interpretation of sections 185 to 187](section/188.md)
+    - [s. 189 Provider failure: temporary duty on local authority](section/189.md)
+    - [s. 190 Provider failure: exception to temporary duty](section/190.md)
+    - [s. 191 Provider failure: supplementary](section/191.md)
+    - [s. 192 Amendment of the National Assistance Act 1948](section/192.md)
+  - Supplementary
+    - [s. 193 Recovery of costs between local authorities](section/193.md)
+    - [s. 194 Ordinary residence](section/194.md)
+    - [s. 195 Disputes about ordinary residence and portability of care and support](section/195.md)
+    - [s. 195A Offences committed by bodies or partnerships](section/195A.md)
+  - General
+    - [s. 196 Orders and regulations](section/196.md)
+    - [s. 197 General interpretation and index of defined expressions](section/197.md)
+    - [s. 198 Power to make consequential and transitional provision etc](section/198.md)
+    - [s. 199 Commencement](section/199.md)
+    - [s. 200 Short title](section/200.md)
+- SCHEDULE A1 DIRECT PAYMENTS: AFTER-CARE UNDER THE MENTAL HEALTH ACT 1983
+  - [Sch. A1 para. 1 General](schedule/A1/paragraph/1.md)
+  - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - [Sch. A1 para. 4 Direct payments: after-care services for an adult](schedule/A1/paragraph/4.md)
+  - [Sch. A1 para. 5 Direct payments: after-care services for a child](schedule/A1/paragraph/5.md)
+  - [Sch. A1 para. 6 Further provision for direct payments: after-care](schedule/A1/paragraph/6.md)
+  - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+- SCHEDULE 1 CONTRIBUTIONS TOWARDS MAINTENANCE OF LOOKED AFTER CHILDREN
+  - Liability to contribute
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Agreed contributions
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Contribution orders
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Enforcement of contribution orders etc
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Regulations
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Service of contribution notice
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 SOCIAL SERVICES FUNCTIONS
+- SCHEDULE 3 INVESTIGATION OF COMPLAINTS ABOUT PRIVATELY ARRANGED OR FUNDED SOCIAL CARE AND PALLIATIVE CARE
+  - PART 1 NEW PARTS 2A AND 2B FOR THE PUBLIC SERVICES OMBUDSMAN (WALES) ACT 2005
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - PART 2 MINOR AND CONSEQUENTIAL AMENDMENTS RELATING TO THE OMBUDSMAN
+    - Local Government Act 1974
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Local Government Act 2000
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Public Services Ombudsman (Wales) Act 2005
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+      - [Sch. 3 para. 27](schedule/3/paragraph/27.md)
+      - [Sch. 3 para. 28](schedule/3/paragraph/28.md)
+      - [Sch. 3 para. 29](schedule/3/paragraph/29.md)
+      - [Sch. 3 para. 30](schedule/3/paragraph/30.md)
+      - [Sch. 3 para. 31](schedule/3/paragraph/31.md)
+    - Commissioner for Older People (Wales) Act 2006
+      - [Sch. 3 para. 32](schedule/3/paragraph/32.md)
+      - [Sch. 3 para. 33](schedule/3/paragraph/33.md)
+      - [Sch. 3 para. 34](schedule/3/paragraph/34.md)
+    - Government of Wales Act 2006
+      - [Sch. 3 para. 35](schedule/3/paragraph/35.md)
+    - Welsh Language (Wales) Measure 2011
+      - [Sch. 3 para. 36](schedule/3/paragraph/36.md)
