@@ -1,0 +1,326 @@
+# Finance (No. 3) Act 2010
+
+2010 c. 33. Enacted 2010-12-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2010/33/2026-04-01
+
+## Contents
+
+- Part 1 Income tax, corporation tax and capital gains tax
+  - Income tax and corporation tax
+    - [s. 1 Shared lives care](section/1.md)
+    - [s. 2 Payments to special guardians and those in receipt of residence orders](section/2.md)
+    - [s. 3 Qualifying care relief: capital allowances](section/3.md)
+    - [s. 4 Seafarers’ earnings](section/4.md)
+    - [s. 5 Venture capital schemes](section/5.md)
+    - [s. 6 Enterprise management incentives](section/6.md)
+    - [s. 7 Settlor to return excess repayment to trustees etc](section/7.md)
+    - [s. 8 Collection of income tax where sum deducted by payer](section/8.md)
+    - [s. 9 Company distributions](section/9.md)
+    - [s. 10 REITs: stock dividends](section/10.md)
+    - [s. 11 Financing costs and income of group companies](section/11.md)
+    - [s. 12 Consortium claims for group relief](section/12.md)
+    - [s. 13 R&D relief for SMEs: removal of intellectual property condition](section/13.md)
+    - [s. 14 Film tax credit: unused losses](section/14.md)
+    - [s. 15 Insurance business transfer schemes: non-profit fund transferred assets](section/15.md)
+  - Chargeable gains
+    - [s. 16 Capital gains tax private residence relief: adult placement carers](section/16.md)
+    - [s. 17 Reinvestment of ring fence assets: acquisition by member of group](section/17.md)
+  - Capital allowances
+    - [s. 18 First-year allowances on zero-emission goods vehicles](section/18.md)
+- Part 2 Other taxes and duties
+  - Value added tax
+    - [s. 19 Non-business use of business assets etc](section/19.md)
+    - [s. 20 Supplies of gas, heat or cooling](section/20.md)
+    - [s. 21 Supplies of aircraft etc](section/21.md)
+    - [s. 22 Postal services etc](section/22.md)
+  - Tobacco products duty
+    - [s. 23 Long cigarettes](section/23.md)
+  - Landfill tax
+    - [s. 24 Landfill tax: criteria for determining material to be subject to lower rate](section/24.md)
+- Part 3 Administration
+  - [s. 25 Interest: corporation tax and petroleum revenue tax](section/25.md)
+  - [s. 26 Penalties for failure to make returns etc](section/26.md)
+  - [s. 27 Penalties for failure to pay tax](section/27.md)
+  - [s. 28 Recovery of overpaid stamp duty land tax and petroleum revenue tax etc](section/28.md)
+  - [s. 29 Excise duties: compliance checks](section/29.md)
+- Part 4 Miscellaneous provisions
+  - [s. 30 Pension scheme under section 67 of Pensions Act 2008](section/30.md)
+  - [s. 31 Asbestos compensation settlements](section/31.md)
+- Part 5 Final provisions
+  - [s. 32 Interpretation](section/32.md)
+  - [s. 33 Short title](section/33.md)
+- SCHEDULE 1 Shared lives care
+  - Extension of foster-care relief
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+  - Consequential amendments
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+  - Commencement
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+  - Transitional provision
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+- SCHEDULE 2 Venture capital schemes
+  - Enterprise investment scheme
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Venture capital trusts
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Interpretation
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Consequential repeal
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Commencement of amendments relating to 70% eligible shares condition
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Commencement of other provisions of this Schedule
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Meaning of “the commencement day”
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Company distributions
+  - Meaning of “distribution” in the Corporation Tax Acts
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Meaning of “distribution” in Income Tax Acts
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Distributions subject to the charge to corporation tax on income
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Distributions giving rise to deemed disposals
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Commencement
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Treatment of distributions of UK resident companies made before 1 July 2009
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Election to opt out of effect of Schedule in relation to a distribution made before 22 June 2010
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 REITs: stock dividends
+  - Amendment of TCGA 1992
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Amendment of ITA 2007
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Amendment of CTA 2010
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Commencement
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Financing costs and income of group companies
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Amendment of Chapter 1 (introduction)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Amendments of Chapter 2 (application of Part)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Amendments of Chapter 3 (disallowance of deductions)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+  - Amendment of Chapter 4 (exemption of financing income)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+  - Amendments of Chapter 5 (intra-group financing income where payer denied deduction)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+  - Amendments of Chapter 7 (“financing expense amount” and “financing income amount”)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+  - Amendment of Chapter 8 (the “tested expense amount” and “tested income amount”)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+  - Amendments of Chapter 9 (the “available amount”)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+  - Amendments of Chapter 10 (other interpretative provisions)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+  - Amendment of transitional provision
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+  - Amendments of index of defined expressions
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+  - Commencement
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+  - Election to defer the application of some of the amendments made by this Schedule
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+- SCHEDULE 6 Consortium claims for group relief
+  - Introductory
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Ability to claim group relief where link company established in the EEA
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Limitations on group relief based on proportion of voting power held by company
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Limitations on group relief where arrangements preventing control are in place
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Commencement
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+- SCHEDULE 7 First-year allowances for zero-emission goods vehicles
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+- SCHEDULE 8 Value added tax: non-business use of business assets etc
+  - Input tax
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Non-business use of certain assets not to be treated as supply of services
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Output tax charge where credit attributable to purported paragraph 5(4) supply
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 Interest
+  - Part 1 Corporation tax
+    - Amendments of sections 101 to 104
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - Amendments of Schedule 53
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Amendments of Schedule 54
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+    - New Schedule
+      - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Part 2 Petroleum revenue tax
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+- SCHEDULE 10 Penalty for failure to make returns etc
+  - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 Penalty for failure to make payments on time
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+- SCHEDULE 12 Recovery of overpaid tax etc
+  - Part 1 Stamp duty land tax
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - New provisions relating to overpaid tax
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - Consequential amendments
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Part 2 Petroleum revenue tax
+    - Claims for recovery of overpaid tax etc
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - Consequential amendments
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+- SCHEDULE 13 Excise duties: compliance checks
+  - Part 1 Record-keeping
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Part 2 Time limits
+    - Assessments
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Claims
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Part 3 Information and inspection powers
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+- SCHEDULE 14 Asbestos compensation settlements
+  - Inheritance tax
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Capital gains tax
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Income tax
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
