@@ -1,0 +1,587 @@
+# Revenue Scotland and Tax Powers Act 2014
+
+asp/2014/16. Enacted 2014-09-24.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 74 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2014/16
+
+Source: https://www.legislation.gov.uk/asp/2014/16/2026-04-01
+
+## Contents
+
+- PART 1 Overview of Act
+  - [s. 1 Overview of Act](section/1.md)
+- PART 2 Revenue Scotland
+  - Establishment of Revenue Scotland
+    - [s. 2 Revenue Scotland](section/2.md)
+  - Functions of Revenue Scotland
+    - [s. 3 Functions of Revenue Scotland](section/3.md)
+  - Delegation of Revenue Scotland functions
+    - [s. 4 Delegation of functions by Revenue Scotland](section/4.md)
+  - Money
+    - [s. 5 Payments into the Scottish Consolidated Fund](section/5.md)
+    - [s. 6 Rewards](section/6.md)
+  - Independence of Revenue Scotland
+    - [s. 7 Independence of Revenue Scotland](section/7.md)
+  - Ministerial guidance
+    - [s. 8 Ministerial guidance](section/8.md)
+  - Provision of information, advice or assistance to Ministers
+    - [s. 9 Provision of information, advice or assistance to the Scottish Ministers](section/9.md)
+  - Charter of standards and values
+    - [s. 10 Charter of standards and values](section/10.md)
+  - Corporate plan
+    - [s. 11 Corporate plan](section/11.md)
+  - Annual report
+    - [s. 12 Annual report](section/12.md)
+- PART 3 Information
+  - Use of information by Revenue Scotland etc.
+    - [s. 13 Use of information by Revenue Scotland and other persons](section/13.md)
+  - Protected taxpayer information
+    - [s. 14 Protected taxpayer information](section/14.md)
+    - [s. 15 Confidentiality of protected taxpayer information](section/15.md)
+    - [s. 16 Protected taxpayer information: declaration of confidentiality](section/16.md)
+  - Other limits on use and disclosure of information
+    - [s. 17 Disclosure of information prohibited or restricted by statute or agreement](section/17.md)
+    - [s. 18 Protected taxpayer information: use by the Keeper](section/18.md)
+  - Offence of wrongful disclosure
+    - [s. 19 Wrongful disclosure of protected taxpayer information](section/19.md)
+- PART 4 The Scottish Tax Tribunals
+  - CHAPTER 1 Introductory
+    - [s. 20 Overview](section/20.md)
+  - CHAPTER 2 Establishment and leadership
+    - Establishment
+      - [s. 21 The First-tier Tax Tribunal for Scotland and the Upper Tax Tribunal for Scotland](section/21.md)
+    - Leadership
+      - [s. 22 President of the Tax Tribunals](section/22.md)
+      - [s. 23 Functions of the President of the Tax Tribunals](section/23.md)
+      - [s. 24 Business arrangements](section/24.md)
+      - [s. 25 Temporary President](section/25.md)
+  - CHAPTER 3 Membership
+    - Membership of Tax Tribunals
+      - [s. 26 Members](section/26.md)
+    - Judicial members
+      - [s. 27 Judicial members](section/27.md)
+    - Status and capacity
+      - [s. 28 Status and capacity of members](section/28.md)
+  - CHAPTER 4 Decision-making and composition
+    - Decision-making and composition: general
+      - [s. 29 Decisions in the First-tier Tribunal](section/29.md)
+      - [s. 30 Decisions in the Upper Tribunal](section/30.md)
+      - [s. 31 Composition of the Tribunals](section/31.md)
+    - Decisions by two or more members
+      - [s. 32 Voting for decisions](section/32.md)
+      - [s. 33 Chairing members](section/33.md)
+  - CHAPTER 5 Appeal of decisions
+    - Appeal from First-tier Tribunal
+      - [s. 34 Appeal from the First-tier Tribunal](section/34.md)
+      - [s. 35 Disposal of an appeal under section 34](section/35.md)
+    - Appeal from Upper Tribunal
+      - [s. 36 Appeal from the Upper Tribunal](section/36.md)
+      - [s. 37 Disposal of an appeal under section 36](section/37.md)
+      - [s. 38 Procedure on second appeal](section/38.md)
+    - Further provision on permission to appeal
+      - [s. 39 Process for permission](section/39.md)
+  - CHAPTER 6 Special jurisdiction
+    - [s. 40 Judicial review cases](section/40.md)
+    - [s. 41 Procedural steps where petition remitted](section/41.md)
+    - [s. 42 Decision on remittal](section/42.md)
+    - [s. 43 Additional matters](section/43.md)
+    - [s. 44 Meaning of judicial review](section/44.md)
+  - CHAPTER 7 Powers and enforcement
+    - [s. 45 Venue for hearings](section/45.md)
+    - [s. 46 Conduct of cases](section/46.md)
+    - [s. 47 Enforcement of decisions](section/47.md)
+    - [s. 48 Award of expenses](section/48.md)
+    - [s. 49 Additional powers](section/49.md)
+    - [s. 50 Offences in relation to proceedings](section/50.md)
+  - CHAPTER 8 Practice and procedure
+    - Tribunal rules: general
+      - [s. 51 Tribunal rules](section/51.md)
+      - [s. 52 Exercise of functions](section/52.md)
+      - [s. 53 Extent of rule-making](section/53.md)
+    - Particular matters
+      - [s. 54 Proceedings and steps](section/54.md)
+      - [s. 55 Hearings in cases](section/55.md)
+      - [s. 56 Evidence and decisions](section/56.md)
+    - Issuing directions
+      - [s. 57 Practice directions](section/57.md)
+  - CHAPTER 9 Administration
+    - [s. 58 Administrative support](section/58.md)
+    - [s. 59 Guidance](section/59.md)
+    - [s. 60 Annual reporting](section/60.md)
+  - CHAPTER 10 Interpretation
+    - [s. 61 Interpretation](section/61.md)
+- PART 5 The general anti-avoidance rule
+  - Introductory
+    - [s. 62 The general anti-avoidance rule: introductory](section/62.md)
+  - Artificial tax avoidance arrangements
+    - [s. 63 Tax avoidance arrangements](section/63.md)
+    - [s. 64 Meaning of “artificial”](section/64.md)
+    - [s. 65 Meaning of “tax advantage”](section/65.md)
+  - Counteracting tax advantages
+    - [s. 66 Counteracting tax advantages](section/66.md)
+    - [s. 67 Proceedings in connection with the general anti-avoidance rule](section/67.md)
+    - [s. 68 Notice to taxpayer of proposed counteraction of tax advantage](section/68.md)
+    - [s. 69 Final notice to taxpayer of counteraction of tax advantage](section/69.md)
+    - [s. 70 Counteraction of tax advantages: payment of tax charged etc.](section/70.md)
+    - [s. 71 Assumption of tax advantage](section/71.md)
+  - General anti-avoidance rule: commencement and transitional provision
+    - [s. 72 General anti-avoidance rule: commencement and transitional provision](section/72.md)
+- PART 6 Tax returns, enquiries and assessments
+  - CHAPTER 1 Overview
+    - [s. 73 Overview](section/73.md)
+  - CHAPTER 2 Taxpayer duties to keep and preserve records
+    - Duties to keep records
+      - [s. 74 Duty to keep and preserve records](section/74.md)
+      - [s. 75 Preservation of information etc.](section/75.md)
+    - Penalties for failing to keep and preserve records
+      - [s. 76 Penalty for failure to keep and preserve records](section/76.md)
+      - [s. 77 Reasonable excuse for failure to keep and preserve records](section/77.md)
+      - [s. 78 Assessment of penalties under section 76](section/78.md)
+      - [s. 79 Enforcement of penalties under section 76](section/79.md)
+      - [s. 80 Power to change penalty provisions in sections 76 to 79](section/80.md)
+    - Duty to keep and preserve records: further provision
+      - [s. 81 Further provision: land and buildings transaction tax](section/81.md)
+  - CHAPTER 3 Tax returns
+    - Filing dates
+      - [s. 82 Meaning of “filing date”](section/82.md)
+    - Amendment and correction of returns
+      - [s. 83 Amendment of return by taxpayer](section/83.md)
+      - [s. 84 Correction of return by Revenue Scotland](section/84.md)
+  - CHAPTER 4 Revenue Scotland enquiries
+    - Notice and scope of enquiry
+      - [s. 85 Notice of enquiry](section/85.md)
+      - [s. 86 Scope of enquiry](section/86.md)
+    - Amendment of return during enquiry
+      - [s. 87 Amendment of self-assessment during enquiry to prevent loss of tax](section/87.md)
+    - Referral during enquiry
+      - [s. 88 Referral of questions to appropriate tribunal during enquiry](section/88.md)
+      - [s. 89 Withdrawal of notice of referral](section/89.md)
+      - [s. 90 Effect of referral on enquiry](section/90.md)
+      - [s. 91 Effect of determination](section/91.md)
+      - [s. 92 “Appropriate tribunal”](section/92.md)
+    - Completion of enquiry
+      - [s. 93 Completion of enquiry](section/93.md)
+      - [s. 94 Direction to complete enquiry](section/94.md)
+  - CHAPTER 5 Revenue Scotland determinations
+    - [s. 95 Determination of tax chargeable if no return made](section/95.md)
+    - [s. 96 Determination to have effect as a self-assessment](section/96.md)
+    - [s. 97 Determination superseded by actual self-assessment](section/97.md)
+  - CHAPTER 6 Revenue Scotland assessments
+    - Assessment of loss of tax or of excessive repayment
+      - [s. 98 Assessment where loss of tax](section/98.md)
+      - [s. 99 Assessment to recover excessive repayment of tax](section/99.md)
+      - [s. 100 References to “Revenue Scotland assessment”](section/100.md)
+      - [s. 101 References to the “taxpayer”](section/101.md)
+    - Conditions for making Revenue Scotland assessments
+      - [s. 102 Conditions for making Revenue Scotland assessments](section/102.md)
+      - [s. 103 Time limits for Revenue Scotland assessments](section/103.md)
+      - [s. 104 Losses brought about carelessly or deliberately](section/104.md)
+    - Notice of assessment and other procedure
+      - [s. 105 Assessment procedure](section/105.md)
+  - CHAPTER 7 Relief in case of excessive assessment or overpaid tax
+    - Double assessment
+      - [s. 106 Relief in case of double assessment](section/106.md)
+    - Overpaid tax etc.
+      - [s. 107 Claim for relief for overpaid tax etc.](section/107.md)
+    - Order changing tax basis not approved
+      - [s. 108 Claim for repayment if instrument changing tax basis not approved](section/108.md)
+    - Defence of unjustified enrichment
+      - [s. 109 Defence to certain claims for relief under section 107 or 108](section/109.md)
+      - [s. 110 Unjustified enrichment: further provision](section/110.md)
+      - [s. 111 Unjustified enrichment: reimbursement arrangements](section/111.md)
+      - [s. 112 Reimbursement arrangements: penalties](section/112.md)
+    - Other defences to claims
+      - [s. 113 Cases in which Revenue Scotland need not give effect to a claim](section/113.md)
+    - Procedure for making claims
+      - [s. 114 Procedure for making claims etc.](section/114.md)
+      - [s. 115 Time-limit for making claims](section/115.md)
+      - [s. 116 The claimant: partnerships](section/116.md)
+      - [s. 117 Assessment of claimant in connection with claim](section/117.md)
+    - Contract settlements
+      - [s. 118 Contract settlements](section/118.md)
+- PART 7 Investigatory powers of Revenue Scotland
+  - CHAPTER 1 Investigatory powers: introductory
+    - Overview
+      - [s. 119 Investigatory powers of Revenue Scotland: overview](section/119.md)
+    - Interpretation
+      - [s. 120 Meaning of “tax position”](section/120.md)
+      - [s. 121 Meaning of “carrying on a business”](section/121.md)
+      - [s. 122 Meaning of “statutory records”](section/122.md)
+  - CHAPTER 2 Investigatory powers: information and documents
+    - [s. 123 Power to obtain information and documents from taxpayer](section/123.md)
+    - [s. 124 Power to obtain information and documents from third party](section/124.md)
+    - [s. 125 Approval of taxpayer notices and third party notices](section/125.md)
+    - [s. 126 Copying third party notice to taxpayer](section/126.md)
+    - [s. 127 Power to obtain information and documents about persons whose identity is not known](section/127.md)
+    - [s. 128 Third party notices and notices under section 127: groups of undertakings](section/128.md)
+    - [s. 129 Third party notices and notices under section 127: partnerships](section/129.md)
+    - [s. 130 Power to obtain information about persons whose identity can be ascertained](section/130.md)
+    - [s. 131 Notices](section/131.md)
+    - [s. 132 Complying with information notices](section/132.md)
+    - [s. 133 Producing copies of documents](section/133.md)
+    - [s. 134 Further provision about powers relating to information notices](section/134.md)
+  - CHAPTER 3 Restrictions on powers in Chapter 2
+    - [s. 135 Information notices: general restrictions](section/135.md)
+    - [s. 136 Types of information](section/136.md)
+    - [s. 137 Taxpayer notices following a tax return](section/137.md)
+    - [s. 138 Protection for privileged communications between legal advisers and clients](section/138.md)
+    - [s. 139 Protection for auditors](section/139.md)
+    - [s. 140 Auditors: supplementary](section/140.md)
+  - CHAPTER 4 Investigatory powers: premises and other property
+    - Inspection of business premises
+      - [s. 141 Power to inspect business premises](section/141.md)
+      - [s. 142 Power to inspect business premises of involved third parties](section/142.md)
+      - [s. 143 Carrying out inspections under section 141 or 142](section/143.md)
+      - [s. 144 Carrying out inspections under section 141 or 142: further provision](section/144.md)
+    - Inspection for valuation etc.
+      - [s. 145 Power to inspect property for valuation etc.](section/145.md)
+      - [s. 146 Carrying out inspections under section 145](section/146.md)
+    - Approval of tribunal for premises inspections
+      - [s. 147 Approval of tribunal for premises inspections](section/147.md)
+    - Other powers in relation to premises
+      - [s. 148 Power to mark assets and to record information](section/148.md)
+    - Restriction on inspection of documents
+      - [s. 149 Restriction on inspection of documents](section/149.md)
+  - CHAPTER 5 Further investigatory powers
+    - [s. 150 Power to copy and remove documents](section/150.md)
+    - [s. 151 Computer records](section/151.md)
+  - CHAPTER 6 Reviews and appeals against information notices
+    - [s. 152 Review or appeal against information notices](section/152.md)
+    - [s. 153 Power to modify section 152](section/153.md)
+    - [s. 154 Disposal of reviews and appeals in relation to information notices](section/154.md)
+  - CHAPTER 7 Offences relating to information notices
+    - [s. 155 Offence of concealing etc. documents following information notice](section/155.md)
+    - [s. 156 Offence of concealing etc. documents following information notification](section/156.md)
+- PART 8 Penalties
+  - CHAPTER 1 Penalties: introductory
+    - Overview
+      - [s. 157 Penalties: overview](section/157.md)
+    - Double jeopardy
+      - [s. 158 Double jeopardy](section/158.md)
+  - CHAPTER 2 Penalties for failure to make returns or pay tax
+    - Penalties for failure to make returns
+      - [s. 159 Penalty for failure to make returns](section/159.md)
+    - Amounts of penalties for failure to make returns: LBTT
+      - [s. 160 Land and buildings transaction tax: first penalty for failure to make return](section/160.md)
+      - [s. 161 Land and buildings transaction tax: 3 month penalty for failure to make return](section/161.md)
+      - [s. 162 Land and buildings transaction tax: 6 month penalty for failure to make return](section/162.md)
+      - [s. 163 Land and buildings transaction tax: 12 month penalty for failure to make return](section/163.md)
+    - Amounts of penalties for failure to make returns: Scottish landfill tax and Scottish aggregates tax
+      - [s. 164 Scottish landfill tax and Scottish aggregates tax: first penalty for failure to make return](section/164.md)
+      - [s. 165 Scottish landfill tax and Scottish aggregates tax: multiple failures to make return](section/165.md)
+      - [s. 166 Scottish landfill tax and Scottish aggregates tax: 6 month penalty for failure to make return](section/166.md)
+      - [s. 167 Scottish landfill tax and Scottish aggregates tax: 12 month penalty for failure to make return](section/167.md)
+    - Penalties for failure to pay tax
+      - [s. 168 Penalty for failure to pay tax](section/168.md)
+    - Amounts of penalties for failure to pay tax: LBTT
+      - [s. 169 Land and buildings transaction tax: amounts of penalties for failure to pay tax](section/169.md)
+    - Amounts of penalties for failure to pay tax: Scottish landfill tax and Scottish aggregates tax
+      - [s. 170 Scottish landfill tax and Scottish aggregates tax: first penalty for failure to pay tax](section/170.md)
+      - [s. 171 Scottish landfill tax and Scottish aggregates tax: penalties for multiple failures to pay tax](section/171.md)
+      - [s. 172 Scottish landfill tax and Scottish aggregates tax: 6 month penalty for failure to pay tax](section/172.md)
+      - [s. 173 Scottish landfill tax and Scottish aggregates tax: 12 month penalty for failure to pay tax](section/173.md)
+    - Penalties under Chapter 2: general
+      - [s. 174 Interaction of penalties under Chapter 2 with other penalties](section/174.md)
+      - [s. 175 Reduction in penalty under sections 159 to 167 for disclosure](section/175.md)
+      - [s. 176 Suspension of penalty under sections 168 to 173 during currency of agreement for deferred payment](section/176.md)
+      - [s. 177 Special reduction in penalty under Chapter 2](section/177.md)
+      - [s. 178 Reasonable excuse for failure to make return or pay tax](section/178.md)
+      - [s. 179 Assessment of penalties under Chapter 2](section/179.md)
+      - [s. 180 Time limit for assessment of penalties under Chapter 2](section/180.md)
+      - [s. 181 Power to change penalty provisions in Chapter 2](section/181.md)
+  - CHAPTER 3 Penalties relating to inaccuracies
+    - Penalties for inaccuracies in taxpayer documents
+      - [s. 182 Penalty for inaccuracy in taxpayer document](section/182.md)
+      - [s. 183 Amount of penalty for inaccuracy in taxpayer document](section/183.md)
+      - [s. 184 Suspension of penalty for careless inaccuracy under section 182](section/184.md)
+    - Penalty for inaccuracy attributable to another person
+      - [s. 185 Penalty for inaccuracy in taxpayer document attributable to another person](section/185.md)
+    - Penalty for failure to notify under-assessment
+      - [s. 186 Penalty for failure to notify under-assessment](section/186.md)
+    - Penalties under Chapter 3: general
+      - [s. 187 Potential lost revenue: normal rule](section/187.md)
+      - [s. 188 Potential lost revenue: multiple errors](section/188.md)
+      - [s. 189 Potential lost revenue: losses](section/189.md)
+      - [s. 190 Potential lost revenue: delayed tax](section/190.md)
+      - [s. 191 Special reduction in penalty under this Chapter](section/191.md)
+      - [s. 192 Reduction in penalty under this Chapter for disclosure](section/192.md)
+      - [s. 193 Assessment of penalties under this Chapter](section/193.md)
+      - [s. 194 Power to change penalty provisions in Chapter 3](section/194.md)
+  - CHAPTER 4 Penalties relating to investigations
+    - Penalties for failure to comply or obstruction
+      - [s. 195 Penalties for failure to comply or obstruction](section/195.md)
+      - [s. 196 Daily default penalties for failure to comply or obstruction](section/196.md)
+    - Penalties for inaccurate information or documents
+      - [s. 197 Penalties for inaccurate information or documents](section/197.md)
+    - Penalties for concealing, destroying etc. documents
+      - [s. 198 Concealing, destroying etc. documents following information notice](section/198.md)
+      - [s. 199 Concealing, destroying etc. documents following information notification](section/199.md)
+    - Penalties: failure to comply with time limit
+      - [s. 200 Failure to comply with time limit](section/200.md)
+    - Penalties under Chapter 4: general
+      - [s. 201 Reasonable excuse for failure to comply or obstruction](section/201.md)
+      - [s. 202 Assessment of penalties under sections 195, 196 and 197](section/202.md)
+      - [s. 203 Enforcement of penalties under sections 195, 196 and 197](section/203.md)
+      - [s. 204 Increased daily default penalty](section/204.md)
+      - [s. 205 Enforcement of increased daily default penalty](section/205.md)
+      - [s. 206 Tax-related penalty](section/206.md)
+      - [s. 207 Enforcement of tax-related penalty](section/207.md)
+      - [s. 208 Power to change penalty provisions in Chapter 4](section/208.md)
+  - CHAPTER 5 Other administrative penalties
+    - Penalties for failure to register for tax etc.
+      - [s. 209 Penalty for failure to register for tax etc.](section/209.md)
+      - [s. 210 Amount of penalty for failure to register for tax etc.](section/210.md)
+    - Penalties under Chapter 5: general
+      - [s. 211 Interaction of penalties under section 209 with other penalties](section/211.md)
+      - [s. 212 Reduction in penalty under section 209 for disclosure](section/212.md)
+      - [s. 213 Special reduction in penalty under section 209](section/213.md)
+      - [s. 214 Reasonable excuse for failure to register for tax etc.](section/214.md)
+      - [s. 215 Assessment of penalties under section 209](section/215.md)
+      - [s. 216 Power to change penalty provisions in Chapter 5](section/216.md)
+  - Chapter 5A Penalties relating solely to Scottish aggregates tax
+    - [s. 216A Penalty for failure to notify Revenue Scotland of production of exempt aggregate: Scottish aggregates tax](section/216A.md)
+    - [s. 216B Failure to keep records of production of exempt aggregate: Scottish aggregates tax](section/216B.md)
+    - [s. 216C Failure to request approval of tax representative appointment: Scottish aggregates tax](section/216C.md)
+    - [s. 216D Failure to notify cessation of eligibility for group treatment or of having place of business in UK: Scottish aggregates tax](section/216D.md)
+    - [s. 216E Failure to notify change to group treatment application or notification: Scottish aggregates tax](section/216E.md)
+    - [s. 216F Penalty for failure to provide security: Scottish aggregates tax](section/216F.md)
+    - [s. 216G Reasonable excuse for failures under Chapter 5A](section/216G.md)
+    - [s. 216H Assessment of penalties under Chapter 5A](section/216H.md)
+    - [s. 216I Power to change penalty provisions in Chapter 5A](section/216I.md)
+- PART 9 Interest on payments due to or by Revenue Scotland
+  - [s. 217 Interest on unpaid tax](section/217.md)
+  - [s. 218 Interest on penalties](section/218.md)
+  - [s. 219 Interest on repayment of tax overpaid etc.](section/219.md)
+  - [s. 220 Rates of interest](section/220.md)
+- PART 10 Enforcement of payment of tax
+  - CHAPTER 1 Enforcement: general
+    - Issue of tax demands and receipts
+      - [s. 221 Issue of tax demands and receipts](section/221.md)
+    - Fees for payment
+      - [s. 222 Fees for payment](section/222.md)
+    - Certification of matters by Revenue Scotland
+      - [s. 223 Certification of matters by Revenue Scotland](section/223.md)
+    - Court proceedings
+      - [s. 224 Court proceedings](section/224.md)
+    - Summary warrant
+      - [s. 225 Summary warrant](section/225.md)
+    - Recovery of penalties and interest
+      - [s. 226 Recovery of penalties and interest](section/226.md)
+  - CHAPTER 2 Enforcement: powers to obtain contact details for debtors
+    - [s. 227 Requirement for contact details for debtor](section/227.md)
+    - [s. 228 Power to obtain details](section/228.md)
+    - [s. 229 Reviews and appeals against notices or requirements](section/229.md)
+    - [s. 230 Power to modify section 229](section/230.md)
+    - [s. 231 Penalty](section/231.md)
+- PART 11 Reviews and appeals
+  - CHAPTER 1 Introductory
+    - Overview
+      - [s. 232 Overview](section/232.md)
+    - Appealable decisions
+      - [s. 233 Appealable decisions](section/233.md)
+  - CHAPTER 2 Reviews
+    - Review of appealable decisions
+      - [s. 234 Right to request review](section/234.md)
+      - [s. 235 Notice of review](section/235.md)
+      - [s. 236 Late notice of review](section/236.md)
+      - [s. 237 Duty of Revenue Scotland to carry out review](section/237.md)
+      - [s. 238 Nature of review etc.](section/238.md)
+      - [s. 239 Notification of conclusions of review](section/239.md)
+      - [s. 240 Effect of conclusions of review](section/240.md)
+  - CHAPTER 3 Appeals
+    - [s. 241 Right of appeal](section/241.md)
+    - [s. 242 Notice of appeal](section/242.md)
+    - [s. 243 Late notice of appeal](section/243.md)
+    - [s. 244 Disposal of appeal](section/244.md)
+  - CHAPTER 4 Supplementary
+    - [s. 245 Reviews and appeals not to postpone recovery of tax](section/245.md)
+    - [s. 246 Settling matters in question by agreement](section/246.md)
+    - [s. 247 Application of this Part to joint buyers](section/247.md)
+    - [s. 248 Application of this Part to trustees](section/248.md)
+    - [s. 249 References to the “tribunal”](section/249.md)
+    - [s. 250 Interpretation](section/250.md)
+- PART 12 Final provisions
+  - Communications from taxpayers to Revenue Scotland
+    - [s. 251 Communications from taxpayers to Revenue Scotland](section/251.md)
+  - Communications from Revenue Scotland to taxpayers
+    - [s. 251A Communications from Revenue Scotland to taxpayers](section/251A.md)
+  - Use of automation by Revenue Scotland
+    - [s. 251B Use of automation by Revenue Scotland](section/251B.md)
+  - Set-off by Revenue Scotland
+    - [s. 251C Set-off by Revenue Scotland](section/251C.md)
+    - [s. 251D No set-off where insolvency procedure has been applied](section/251D.md)
+  - Continuity of designated officers’ acts
+    - [s. 251E Continuity of designated officers’ acts](section/251E.md)
+  - Interpretation
+    - [s. 252 General interpretation](section/252.md)
+    - [s. 253 Index of defined expressions](section/253.md)
+  - Subordinate legislation
+    - [s. 254 Subordinate legislation](section/254.md)
+  - Ancillary provision
+    - [s. 255 Ancillary provision](section/255.md)
+  - Modification of enactments
+    - [s. 256 Minor and consequential modifications of enactments](section/256.md)
+  - Crown application
+    - [s. 257 Crown application: criminal offences](section/257.md)
+    - [s. 258 Crown application: powers of entry](section/258.md)
+    - [s. 259 Crown application: Her Majesty](section/259.md)
+  - Commencement and short title
+    - [s. 260 Commencement](section/260.md)
+    - [s. 261 Short title](section/261.md)
+- SCHEDULE 1 Revenue Scotland
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Disqualification
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Removal of members
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Remuneration and expenses
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Committees
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Procedure
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Internal delegation by Revenue Scotland
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Chief executive and other staff
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Powers
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+- SCHEDULE 2 The Scottish Tax Tribunals
+  - PART 1 Appointment of members
+    - President of the Tax Tribunals: eligibility for appointment
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - First-tier Tribunal: ordinary members
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - First-tier Tribunal: legal members
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Upper Tribunal: legal members
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Disqualification from office
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Eligibility under regulations
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - PART 2 Conditions of membership etc.
+    - Application of this Part
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Initial period of office
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Reappointment
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Appointment to position of President
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Termination of appointment
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Pensions etc.
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Oaths
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Other conditions
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - PART 3 Conduct and discipline
+    - Application of this Part
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Conduct Rules
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Reprimand etc.
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Suspension of membership
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Judicial Complaints Reviewer
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+  - PART 4 Fitness and removal
+    - Application of this Part
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Constitution and procedure
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Composition and remuneration
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Proceedings before fitness assessment tribunal
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Suspension during investigation
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - Report and removal
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+    - Application of this Part to the President of the Tax Tribunals
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - Interpretation
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+- SCHEDULE 3 Claims for relief from double assessment and for repayment
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Making of claims
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Duty to keep and preserve records
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Preservation of information etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Penalty for failure to keep and preserve records
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Reasonable excuse for failure to keep and preserve records
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Assessment of penalties under paragraph 5
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Enforcement of penalties under paragraph 5
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Power to change penalty provisions in paragraphs 5 to 8
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Amendment of claim by claimant
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Correction of claim by Revenue Scotland
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Giving effect to claims and amendments
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Notice of enquiry
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Completion of enquiry
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+  - Direction to complete enquiry
+    - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - Giving effect to amendments under paragraph 14
+    - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+  - Appeals against amendments under paragraph 14
+    - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 Minor and consequential modifications
+  - Debtors (Scotland) Act 1987
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Environment Act 1995
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Public Finance and Accountability (Scotland) Act 2000
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Ethical Standards in Public Life etc. (Scotland) Act 2000
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Freedom of Information (Scotland) Act 2002
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Public Appointments and Public Bodies etc. (Scotland) Act 2003
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Public Services Reform (Scotland) Act 2010
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Public Records (Scotland) Act 2011
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Land and Buildings Transaction Tax (Scotland) Act 2013
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Landfill Tax (Scotland) Act 2014
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Tribunals (Scotland) Act 2014
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Procurement Reform (Scotland) Act 2014
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+- SCHEDULE 5 Index of defined expressions
