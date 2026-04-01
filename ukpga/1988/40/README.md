@@ -1,0 +1,730 @@
+# Education Reform Act 1988
+
+1988 c. 40. Enacted 1988-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 15 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
+
+Source: https://www.legislation.gov.uk/ukpga/1988/40/2026-04-01
+
+## Contents
+
+- Part I
+  - Chapter I The Curriculum
+    - Preliminary
+      - [s. 1 Duties with respect to the curriculum.](section/1.md)
+    - Principal provisions
+      - [s. 2 The National Curriculum.](section/2.md)
+      - [s. 3 Foundation subjects and key stages.](section/3.md)
+      - [s. 4 Duty to establish the National Curriculum by order.](section/4.md)
+      - [s. 5 Courses leading to external qualifications.](section/5.md)
+    - Religious education
+      - [s. 6 Collective worship.](section/6.md)
+      - [s. 7 Special provisions as to collective worship in county schools.](section/7.md)
+      - [s. 8 Religious education required in the basic curriculum: further provisions.](section/8.md)
+      - [s. 9 Exceptions, special arrangements and supplementary and consequential provisions.](section/9.md)
+    - Duties with respect to certain requirements
+      - [s. 10 Duties with respect to certain requirements.](section/10.md)
+    - Standing advisory councils on religious education
+      - [s. 11 Standing advisory councils on religious education.](section/11.md)
+      - [s. 12 Determination by advisory councils of the cases in which the requirement for Christian collective worship is not to apply.](section/12.md)
+      - [s. 12A Power of Secretary of State to direct advisory council to revoke determination or discharge duty.](section/12A.md)
+      - [s. 13 Advisory councils: supplementary provisions.](section/13.md)
+    - Curriculum and Assessment Councils
+      - [s. 14 Establishment of Councils.](section/14.md)
+      - [s. 15 Transfers of property and staff to Councils.](section/15.md)
+    - Special cases
+      - [s. 16 Development work and experiments.](section/16.md)
+      - [s. 17 Exceptions by regulations.](section/17.md)
+      - [s. 17A Exemption from sex education.](section/17A.md)
+      - [s. 18 Pupils with statements of special educational needs.](section/18.md)
+      - [s. 19 Temporary exceptions for individual pupils.](section/19.md)
+    - Supplementary
+      - [s. 20 Procedure for making certain orders: England.](section/20.md)
+      - [s. 21 Procedure for making certain orders: Wales.](section/21.md)
+      - [s. 22 Provision of information.](section/22.md)
+      - [s. 23 Complaints and enforcement.](section/23.md)
+      - [s. 24 Extension of certain provisions.](section/24.md)
+      - [s. 25 Interpretation of Chapter I.](section/25.md)
+  - Chapter II Admission of Pupils to County and Voluntary Schools
+    - [s. 26 Admissions to county and voluntary schools.](section/26.md)
+    - [s. 27 Standard numbers for admissions.](section/27.md)
+    - [s. 28 Procedure for reduction of standard number.](section/28.md)
+    - [s. 29 Special provisions in relation to admissions to primary schools.](section/29.md)
+    - [s. 30 Special arrangements in respect of admissions to aided or special agreement schools.](section/30.md)
+    - [s. 31 Consequential provisions.](section/31.md)
+    - [s. 32 Interpretation of Chapter II.](section/32.md)
+  - Chapter III Finance and Staff
+    - Financing of schools maintained by local education authorities
+      - [s. 33 Schemes for financing county and voluntary schools.](section/33.md)
+      - [s. 34 Preparation and imposition of schemes.](section/34.md)
+      - [s. 35 Revision of schemes.](section/35.md)
+      - [s. 36 Delegation to governing body of management of school’s budget share.](section/36.md)
+      - [s. 37 Withdrawal of delegation.](section/37.md)
+      - [s. 38 Schemes: determination of budget shares.](section/38.md)
+      - [s. 39 Schemes: provision for financial delegation.](section/39.md)
+      - [s. 40 Initial implementation of delegation requirements under schemes.](section/40.md)
+      - [s. 41 Extension of delegation requirement under schemes in the case of primary schools.](section/41.md)
+      - [s. 42 Publication of schemes and financial statements, etc.](section/42.md)
+      - [s. 42A Certification of statements by Audit Commission.](section/42A.md)
+      - [s. 43 Application of schemes to special schools.](section/43.md)
+    - Financial delegation: appointment and dismissal of staff
+      - [s. 44 Staff employed by the local education authority.](section/44.md)
+      - [s. 45 Staff at aided schools.](section/45.md)
+      - [s. 46 Staff: further provisions.](section/46.md)
+      - [s. 47 Community Schools.](section/47.md)
+    - Miscellaneous and supplementary
+      - [s. 48 New schools.](section/48.md)
+      - [s. 49 Required financial delegation apart from schemes.](section/49.md)
+      - [s. 50 Financial statements in respect of schools not covered by statements under section 42.](section/50.md)
+      - [s. 51 Interpretation of Chapter III and supplementary and consequential provisions.](section/51.md)
+  - Chapter IV Grant-Maintained Schools
+    - Duty of Secretary of State to maintain certain schools
+      - [s. 52 ................................](section/52.md)
+    - Government, powers and conduct
+      - [s. 53 ................................](section/53.md)
+      - [s. 54 ................................](section/54.md)
+      - [s. 55 ................................](section/55.md)
+      - [s. 56 ................................](section/56.md)
+      - [s. 57 ................................](section/57.md)
+      - [s. 58 ................................](section/58.md)
+      - [s. 59 ................................](section/59.md)
+    - Procedure for acquisition of grant-maintained status
+      - [s. 60 ................................](section/60.md)
+      - [s. 61 ................................](section/61.md)
+      - [s. 62 ................................](section/62.md)
+      - [s. 63 ................................](section/63.md)
+      - [s. 64 ................................](section/64.md)
+      - [s. 65 ................................](section/65.md)
+      - [s. 66 ................................](section/66.md)
+      - [s. 67 ................................](section/67.md)
+      - [s. 68 ................................](section/68.md)
+      - [s. 69 ................................](section/69.md)
+      - [s. 70 ................................](section/70.md)
+      - [s. 71 ................................](section/71.md)
+      - [s. 72 ................................](section/72.md)
+    - Proposals under section 12 or 13 of the 1980 Act in respect of schools eligible for grant-maintained status
+      - [s. 73 ................................](section/73.md)
+    - Transfer of property and staff, etc.
+      - [s. 74 ................................](section/74.md)
+      - [s. 75 ................................](section/75.md)
+      - [s. 76 ................................](section/76.md)
+      - [s. 77 ................................](section/77.md)
+      - [s. 78 ................................](section/78.md)
+    - Finance
+      - [s. 79 ................................](section/79.md)
+      - [s. 80 ................................](section/80.md)
+      - [s. 81 ................................](section/81.md)
+      - [s. 82 ................................](section/82.md)
+    - Admissions
+      - [s. 83 ................................](section/83.md)
+    - Religious education
+      - [s. 84 ................................](section/84.md)
+      - [s. 85 ................................](section/85.md)
+      - [s. 86 ................................](section/86.md)
+      - [s. 87 ................................](section/87.md)
+      - [s. 88 ................................](section/88.md)
+    - Control over alteration and change of site
+      - [s. 89 ................................](section/89.md)
+      - [s. 90 ................................](section/90.md)
+      - [s. 91 ................................](section/91.md)
+    - Discontinuance of grant-maintained schools
+      - [s. 92 ................................](section/92.md)
+      - [s. 93 ................................](section/93.md)
+    - Winding up and disposal of property
+      - [s. 94 ................................](section/94.md)
+      - [s. 95 ................................](section/95.md)
+      - [s. 96 ................................](section/96.md)
+      - [s. 97 ................................](section/97.md)
+      - [s. 98 ................................](section/98.md)
+      - [s. 99 ................................](section/99.md)
+    - Miscellaneous and supplementary
+      - [s. 100 ................................](section/100.md)
+      - [s. 101 ................................](section/101.md)
+      - [s. 102 ................................](section/102.md)
+      - [s. 103 ................................](section/103.md)
+      - [s. 104 ................................](section/104.md)
+  - Chapter V Miscellaneous
+    - City colleges
+      - [s. 105 Agreements for establishment, etc., of city technology colleges and city colleges for the technology of the arts.](section/105.md)
+    - Charges in maintained schools
+      - [s. 106 Prohibition of charges, etc., in maintained schools.](section/106.md)
+      - [s. 107 Provision for cases where education is provided partly during and partly outside school hours.](section/107.md)
+      - [s. 108 Recovery of wasted examination fees.](section/108.md)
+      - [s. 109 Permitted charges.](section/109.md)
+      - [s. 110 Charges and remissions policies.](section/110.md)
+      - [s. 111 Charges for board and lodging at boarding schools.](section/111.md)
+    - Miscellaneous
+      - [s. 112 Extension of powers as to trusts for religious education.](section/112.md)
+      - [s. 113 Schemes under the Endowed Schools Acts.](section/113.md)
+      - [s. 114 Extension of power to require local education authority to defray expenses of establishing controlled school.](section/114.md)
+      - [s. 115 Power to determine times of school sessions, etc.](section/115.md)
+      - [s. 116 Provision for delegation of functions by governing bodies of county, voluntary and maintained special schools.](section/116.md)
+    - Chapter V: general and supplementary provisions
+      - [s. 117 Obligation to enter pupils for prescribed public examinations.](section/117.md)
+      - [s. 118 General and supplementary provisions relating to charges.](section/118.md)
+    - Interpretation of Part I
+      - [s. 119 Interpretation of Part I.](section/119.md)
+- Part II Higher and Further Education
+  - Chapter I local authority Functions with respect to Higher and Further Education
+    - [s. 120](section/120.md)
+  - Chapter II Reorganisation of Provision and Funding of Higher Education
+    - The higher education corporations
+      - [s. 121 Initial incorporation of higher education institutions maintained by local authorities.](section/121.md)
+      - [s. 122 Orders incorporating higher education institutions maintained by local authorities in Wales.](section/122.md)
+      - [s. 122ZA Orders for further education corporations in England to become higher education corporations](section/122ZA.md)
+      - [s. 122A Orders transferring further education corporations in Wales to higher education sector.](section/122A.md)
+      - [s. 123 Provisions supplementary to sections 121 to 122A.](section/123.md)
+      - [s. 123A Principal powers of a higher education corporation in England](section/123A.md)
+      - [s. 123B Supplementary powers of a higher education corporation in England](section/123B.md)
+      - [s. 124 Powers of a higher education corporation in Wales.](section/124.md)
+      - [s. 124ZA Instrument of government of higher education corporations in England](section/124ZA.md)
+      - [s. 124ZB Proceedings etc. of higher education corporations in England](section/124ZB.md)
+      - [s. 124A Constitution and conduct of higher education corporations in Wales.](section/124A.md)
+      - [s. 124B Accounts.](section/124B.md)
+      - [s. 124C Initial and transitional arrangements: Wales.](section/124C.md)
+      - [s. 124D Exercise of Powers by Privy Council.](section/124D.md)
+      - [s. 124E Articles of government: higher education corporations in England](section/124E.md)
+      - [s. 125 Articles of government: higher education corporations in Wales.](section/125.md)
+      - [s. 125A Charitable status of a higher education corporation.](section/125A.md)
+      - [s. 126 Transfer of property, etc., to higher education corporations.](section/126.md)
+      - [s. 127 Transfer of staff to higher education corporations.](section/127.md)
+      - [s. 128 Dissolution of higher education corporations in Wales.](section/128.md)
+      - [s. 127A Dissolution of higher education corporations in England](section/127A.md)
+    - Designation of certain institutions for funding by the Polytechnics and Colleges Funding Council, etc.
+      - [s. 129 Designation of institutions.](section/129.md)
+      - [s. 129A Government and conduct of designated institutions.](section/129A.md)
+      - [s. 129B Designated institutions conducted by companies.](section/129B.md)
+      - [s. 130 Transfer of property, etc., to certain designated institutions.](section/130.md)
+    - New arrangements for funding higher education
+      - [s. 131 ................................](section/131.md)
+      - [s. 132 ................................](section/132.md)
+      - [s. 133 Payments ...in respect of persons employed in the provision of higher or further education.](section/133.md)
+      - [s. 134 ................................](section/134.md)
+    - Supplementary
+      - [s. 135 Inspection of accounts.](section/135.md)
+      - [s. 136 Transfer to Polytechnics and Colleges Funding Council of property and staff of NAB.](section/136.md)
+      - [s. 137 Control of disposals of land.](section/137.md)
+      - [s. 138 Construction of references to land held for the purposes of an institution.](section/138.md)
+  - Chapter III
+    - Further and higher education funding schemes
+      - [s. 139 ................................](section/139.md)
+      - [s. 140 ................................](section/140.md)
+      - [s. 141 ................................](section/141.md)
+      - [s. 142 ................................](section/142.md)
+      - [s. 143 ................................](section/143.md)
+      - [s. 144 ................................](section/144.md)
+      - [s. 145 ................................](section/145.md)
+      - [s. 146 ................................](section/146.md)
+      - [s. 147 ................................](section/147.md)
+    - Appointment and dismissal of staff during financial delegation
+      - [s. 148 ................................](section/148.md)
+      - [s. 149 ................................](section/149.md)
+    - Withdrawal of delegated powers
+      - [s. 150 ................................](section/150.md)
+    - Government and conduct of maintained further and higher education institutions
+      - [s. 151 ................................](section/151.md)
+      - [s. 152 ................................](section/152.md)
+    - Government of designated assisted institutions
+      - [s. 153 ................................](section/153.md)
+    - Miscellaneous and supplementary
+      - [s. 154 ................................](section/154.md)
+      - [s. 155 ................................](section/155.md)
+  - Chapter IV Miscellaneous and Supplementary
+    - [s. 156 Government and conduct of certain further and higher education institutions.](section/156.md)
+    - [s. 157 Variation of trust deeds, etc.](section/157.md)
+    - [s. 158 Reports and returns to Secretary of State.](section/158.md)
+    - [s. 159 Information with respect to educational provision in institutions providing further or higher education.](section/159.md)
+    - [s. 160 Adjustments of block grant in respect of expenditure on advanced further education.](section/160.md)
+    - [s. 161 Interpretation of Part II.](section/161.md)
+- Part III Education in Inner London
+  - Reorganisation of provision of education in inner London
+    - [s. 162 Abolition of ILEA.](section/162.md)
+    - [s. 163 New local education authorities for areas in inner London.](section/163.md)
+    - [s. 164 Extension of functions of London Residuary Body.](section/164.md)
+  - Disposal of functions and property of ILEA
+    - [s. 165 Development plans for education.](section/165.md)
+    - [s. 166 ................................](section/166.md)
+    - [s. 167 ................................](section/167.md)
+    - [s. 168 Transfers of property, rights and liabilities.](section/168.md)
+    - [s. 169 Approval of management structure and senior appointments in initial period.](section/169.md)
+  - Staff
+    - [s. 170 Establishment and functions of staff commission.](section/170.md)
+    - [s. 171 Remuneration of employees.](section/171.md)
+    - [s. 172 Power to transfer staff.](section/172.md)
+    - [s. 173 Compensation for loss of employment or loss or diminution of emoluments.](section/173.md)
+    - [s. 174 Continuity of employment in certain cases of voluntary transfer.](section/174.md)
+    - [s. 175 Offers of employment by inner London councils.](section/175.md)
+  - Functions of London Residuary Body
+    - [s. 176 Provision of services and facilities by London Residuary Body.](section/176.md)
+    - [s. 177 Repayment by London Residuary Body of loans to ILEA.](section/177.md)
+    - [s. 178 Liability of London Residuary Body for redundancy and compensation payments.](section/178.md)
+    - [s. 179 Payment of pensions and pensions increase by London Residuary Body.](section/179.md)
+    - [s. 180 Custody of residuary property, etc.](section/180.md)
+    - [s. 181 Power of London Residuary Body to pay compensation.](section/181.md)
+    - [s. 182 Preparation of ILEA’s final accounts.](section/182.md)
+    - [s. 183 Directions of Secretary of State.](section/183.md)
+  - Financial provisions and winding up of London Residuary Body
+    - [s. 184 Preparatory expenditure of inner London councils.](section/184.md)
+    - [s. 185 London Residuary Body: financial provisions.](section/185.md)
+    - [s. 186 Transitional functions of London Residuary Body in respect of block grant.](section/186.md)
+    - [s. 187 Winding-up of London Residuary Body.](section/187.md)
+  - Control of ILEA’s contracts and disposals
+    - [s. 188 Control of contracts.](section/188.md)
+    - [s. 189 Control of disposals.](section/189.md)
+    - [s. 190 Wrongful contracts or disposals.](section/190.md)
+    - [s. 191 Penalties for contravention of section 188 or 189.](section/191.md)
+  - Miscellaneous and supplementary
+    - [s. 192 Charities.](section/192.md)
+    - [s. 193 Information and access to documents.](section/193.md)
+    - [s. 194 Concurrent employment.](section/194.md)
+    - [s. 195 Continuity of exercise of functions.](section/195.md)
+    - [s. 196 Interpretation of Part III.](section/196.md)
+- Part IV Miscellaneous and General
+  - Establishment and functions of Education Assets Board
+    - [s. 197 Education Assets Board.](section/197.md)
+    - [s. 198 Transfers under Parts I and II.](section/198.md)
+    - [s. 199 Loan liabilities excepted from transfer under Part II.](section/199.md)
+    - [s. 200 Grant-maintained schools: school property.](section/200.md)
+    - [s. 201 Wrongful disposals.](section/201.md)
+  - Academic tenure
+    - [s. 202 The University Commissioners.](section/202.md)
+    - [s. 203 Duty of Commissioners.](section/203.md)
+    - [s. 204 Powers of Commissioners.](section/204.md)
+    - [s. 205 Procedure for exercise of Commissioners’ powers.](section/205.md)
+    - [s. 206 Exclusion of visitor’s jurisdiction.](section/206.md)
+    - [s. 207 Power to make incidental, etc., provisions by Order in Council.](section/207.md)
+    - [s. 208 Corresponding provision for Northern Ireland.](section/208.md)
+  - Grants
+    - [s. 209 ................................](section/209.md)
+    - [s. 210 Grants for the education of travellers and displaced persons.](section/210.md)
+    - [s. 211 Grants in respect of special provision for immigrants](section/211.md)
+    - [s. 212 ................................](section/212.md)
+    - [s. 213 ................................](section/213.md)
+  - Unrecognised degrees
+    - [s. 214 Unrecognised degrees.](section/214.md)
+    - [s. 215 Unrecognised degrees: enforcement.](section/215.md)
+    - [s. 216 Identification of bodies granting or providing courses for recognised awards etc.](section/216.md)
+    - [s. 217 Unrecognised degrees: Northern Ireland and Channel Islands.](section/217.md)
+  - Miscellaneous provisions
+    - [s. 218 School and further and higher education regulations.](section/218.md)
+    - [s. 218A Regulations under section 218(6): further provision.](section/218A.md)
+    - [s. 219 Powers of the Secretary of State in relation to certain educational institutions.](section/219.md)
+    - [s. 220 Extension of functions of Audit Commission.](section/220.md)
+    - [s. 221 Avoidance of certain contractual terms.](section/221.md)
+    - [s. 222 ................................](section/222.md)
+    - [s. 223 ................................](section/223.md)
+    - [s. 224 Superannuation for staff of Further Education Unit.](section/224.md)
+    - [s. 225 ................................](section/225.md)
+    - [s. 226 Services for schools in other member States providing education for British children.](section/226.md)
+  - Wales
+    - [s. 227 ................................](section/227.md)
+    - [s. 228 Transfer of property to grant-aided institutions in Wales.](section/228.md)
+    - [s. 229 Power to make different provision for Wales in regulations under the 1944 and 1967 Acts.](section/229.md)
+  - Supplementary
+    - [s. 230 Stamp duty.](section/230.md)
+    - [s. 231 Power to make incidental, consequential, transitional and supplementary provisions.](section/231.md)
+    - [s. 232 Orders and regulations.](section/232.md)
+    - [s. 233 Expenses.](section/233.md)
+    - [s. 234 ................................](section/234.md)
+    - [s. 235 General interpretation.](section/235.md)
+    - [s. 236 Commencement.](section/236.md)
+    - [s. 237 Amendments and repeals.](section/237.md)
+    - [s. 238 Citation, extent etc.](section/238.md)
+- SCHEDULE 1
+  - The Education Act 1944 (c. 31)
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - The Child Care Act 1980 (c. 5)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - The Education Act 1981 (c. 60)
+    - [Sch. 1 para. 9 ................................](schedule/1/paragraph/9.md)
+- SCHEDULE 2
+  - Preliminary
+    - [Sch. 2 para. 1 ................................](schedule/2/paragraph/1.md)
+  - Status
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Powers
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Chief officer
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Qualifications of members and tenure of office
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Salaries, allowances and pensions for members
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - House of Commons disqualification
+    - [Sch. 2 para. 9 ................................](schedule/2/paragraph/9.md)
+  - Staff
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Finance
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Committees
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Delegation of functions
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
+  - Proceedings
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Application of seal and proof of instruments
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Accounts
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+- SCHEDULE 3
+  - Appointment of head teacher and deputy head teacher
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appointment of other teachers
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appointments: advice of chief education officer and head teacher
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Appointment of non-teaching staff
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - The clerk to the governing body
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Discipline
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Suspension
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Dismissal, etc.
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - School meal staff
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Interpretation
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4
+  - New county and voluntary schools: general
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Application of schemes in relation to new schools
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - New special schools
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Staff
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Financial delegation and statements apart from schemes
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Supplementary
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+- SCHEDULE 5 Transition to Grant-Maintained Status
+  - Transition to grant-maintained status
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Transition from initial governing body to regulation by instrument of government
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Proceedings and tenure of office
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Courses of Higher Education
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+- SCHEDULE 7 Higher education corporations in Wales established before the appointed day
+  - Preliminary
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Initial constitution
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Initial appointments
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Determination of membership numbers
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Subsequent appointments
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - General provisions with respect to qualifications of members and tenure of office
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Allowances to members
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Election of chairman
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Committees
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Proceedings
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Application of seal and proof of instruments
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+  - Accounts
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Efficiency studies
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+- SCHEDULE 7A Higher education corporations in Wales established on or after the appointed day: instruments of government made by Privy Council
+  - Name of corporation
+    - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+  - Membership
+    - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+    - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+  - Numbers
+    - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+  - Appointments
+    - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+  - Tenure of office etc.
+    - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+  - Officers
+    - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+  - Committees
+    - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+  - Allowances
+    - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+  - Seal of corporation
+    - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+  - Interpretation
+    - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+- SCHEDULE 8 The Funding Councils and the Assets Board
+  - Preliminary
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Supplementary powers
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Chief officer
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Qualifications of members and tenure of office
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Salaries, allowances and pensions for members
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - House of Commons disqualification
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Staff
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Committees
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Scottish and Welsh Committees of Universities Funding Council
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Delegation of Functions
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Proceedings
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Application of seal and proof of instruments
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Accounts
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+- SCHEDULE 9 Determination of Full-time Equivalent Enrolment Numbers
+  - Full-time equivalent enrolment numbers
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Table for determining full-time equivalents for sandwich courses and part-time study
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Interpretation of paragraphs 1 and 2
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Amendment of paragraphs 1 to 3
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Exclusion of non-EEC students
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+- SCHEDULE 10 Supplementary Provisions with respect to Transfers
+  - Division and apportionment of property etc.
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Identification of property, rights and liabilities
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Resolution of disputes
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Right to production of documents of title
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Proof of title by certificate
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Construction of agreements
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Third parties affected by vesting provisions
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Delivery of documents to transferee
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+- SCHEDULE 11 The University Commissioners
+  - Appointment
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Tenure of office
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Duration
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Powers
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Remuneration
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Staff
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Expenses
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Proceedings
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+- SCHEDULE 12 Minor and Consequential Amendments
+  - Part I Amendments Relating to Grant-maintained Schools
+    - The Education Act 1944 (c. 31)
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - The Education (Miscellaneous Provisions) Act 1953 (c. 33)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - The Charities Act 1960 (c. 58)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - The Local Authorities (Goods and Services) Act 1970 (c. 39)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - The Tribunals and Inquiries Act 1971 (c. 62)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - The Local Government Act 1972 (c. 70)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - The Education (Work Experience) Act 1973 (c. 23)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+    - The Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - The Race Relations Act 1976 (c. 74)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - The National Health Service Act 1977 (c. 49)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - The Employment Protection (Consolidation) Act 1978 (c. 44)
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - The Education Act 1980 (c. 20)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - The Education Act 1981 (c. 60)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+    - The Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+    - The Representation of the People Act 1983 (c. 2)
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+    - The Building Act 1984 (c. 55)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - The Education (No. 2) Act 1986 (c. 61)
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+      - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+      - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - The Teachers’ Pay and Conditions Act 1987 (c. 1)
+      - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+      - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+  - Part II Amendments Consequential on Abolition of ILEA
+    - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - The Local Government Act 1972 (c. 70)
+      - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+      - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+      - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+      - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+      - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+      - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+      - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+      - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+    - The Representation of the People Act 1983 (c. 2)
+      - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+      - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+    - The Health Service Joint Consultative Committees (Access to Information) Act 1986 (c. 24)
+      - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+    - The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+      - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+  - Part III Other Amendments
+    - The Education Act 1944 (c. 31)
+      - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+      - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+      - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+      - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+      - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+      - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+    - The Education Act 1946 (c. 50)
+      - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+    - The Education (Miscellaneous Provisions) Act 1948 (c. 40)
+      - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+      - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+    - The Charities Act 1960 (c. 58)
+      - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+      - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+    - The Factories Act 1961 (c. 34)
+      - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+    - The Veterinary Surgeons Act 1966 (c. 36)
+      - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+    - The Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+    - The Local Authorities (Goods and Services) Act 1970 (c. 39)
+      - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+    - The Chronically Sick and Disabled Persons Act 1970 (c. 44)
+      - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+      - [Sch. 12 para. 70](schedule/12/paragraph/70.md)
+    - The Local Government Act 1974 (c. 7)
+      - [Sch. 12 para. 71](schedule/12/paragraph/71.md)
+    - The Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 12 para. 72](schedule/12/paragraph/72.md)
+      - [Sch. 12 para. 73](schedule/12/paragraph/73.md)
+      - [Sch. 12 para. 74](schedule/12/paragraph/74.md)
+      - [Sch. 12 para. 75](schedule/12/paragraph/75.md)
+      - [Sch. 12 para. 76](schedule/12/paragraph/76.md)
+      - [Sch. 12 para. 77](schedule/12/paragraph/77.md)
+    - The Race Relations Act 1976 (c. 74)
+      - [Sch. 12 para. 78](schedule/12/paragraph/78.md)
+      - [Sch. 12 para. 79](schedule/12/paragraph/79.md)
+    - The Employment Protection (Consolidation) Act 1978 (c. 44)
+      - [Sch. 12 para. 80](schedule/12/paragraph/80.md)
+    - The Education Act 1980 (c. 20)
+      - [Sch. 12 para. 81](schedule/12/paragraph/81.md)
+      - [Sch. 12 para. 82](schedule/12/paragraph/82.md)
+    - The Education Act 1981 (c. 60)
+      - [Sch. 12 para. 83](schedule/12/paragraph/83.md)
+      - [Sch. 12 para. 84](schedule/12/paragraph/84.md)
+      - [Sch. 12 para. 85](schedule/12/paragraph/85.md)
+    - The Agricultural Training Board Act 1982 (c. 9)
+      - [Sch. 12 para. 86](schedule/12/paragraph/86.md)
+    - The Industrial Training Act 1982 (c. 10)
+      - [Sch. 12 para. 87](schedule/12/paragraph/87.md)
+      - [Sch. 12 para. 88](schedule/12/paragraph/88.md)
+      - [Sch. 12 para. 89](schedule/12/paragraph/89.md)
+    - The Local Government (Miscellaneous Provisions) Act 1982 (c. 30)
+      - [Sch. 12 para. 90](schedule/12/paragraph/90.md)
+    - The Education (Fees and Awards) Act 1983 (c. 40)
+      - [Sch. 12 para. 91](schedule/12/paragraph/91.md)
+    - The Further Education Act 1985 (c. 47)
+      - [Sch. 12 para. 92](schedule/12/paragraph/92.md)
+      - [Sch. 12 para. 93](schedule/12/paragraph/93.md)
+      - [Sch. 12 para. 94](schedule/12/paragraph/94.md)
+    - The Housing Act 1985 (c. 68)
+      - [Sch. 12 para. 95](schedule/12/paragraph/95.md)
+    - The Agricultural Holdings Act 1986 (c. 5)
+      - [Sch. 12 para. 96](schedule/12/paragraph/96.md)
+    - The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)
+      - [Sch. 12 para. 97](schedule/12/paragraph/97.md)
+      - [Sch. 12 para. 98](schedule/12/paragraph/98.md)
+    - The Education (No. 2) Act 1986 (c. 61)
+      - [Sch. 12 para. 99](schedule/12/paragraph/99.md)
+      - [Sch. 12 para. 100](schedule/12/paragraph/100.md)
+      - [Sch. 12 para. 101](schedule/12/paragraph/101.md)
+      - [Sch. 12 para. 102](schedule/12/paragraph/102.md)
+      - [Sch. 12 para. 103](schedule/12/paragraph/103.md)
+      - [Sch. 12 para. 104](schedule/12/paragraph/104.md)
+      - [Sch. 12 para. 105](schedule/12/paragraph/105.md)
+      - [Sch. 12 para. 106](schedule/12/paragraph/106.md)
+    - The Local Government Act 1988 (c. 9)
+      - [Sch. 12 para. 107](schedule/12/paragraph/107.md)
+- SCHEDULE 13 Repeals
+  - Part I Repeals coming into force on abolition of ILEA
+  - Part II Other Repeals
