@@ -1,0 +1,158 @@
+# Scottish Elections (Representation and Reform) Act 2025
+
+asp/2025/4. Enacted 2025-01-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2025/4
+
+Source: https://www.legislation.gov.uk/asp/2025/4/2026-04-01
+
+## Contents
+
+- Part 1 Candidacy rights etc. of foreign nationals
+  - [s. 1 Scottish Parliament elections](section/1.md)
+  - [s. 2 Local government elections](section/2.md)
+- Part 2 Disqualification
+  - Disqualifications: MPs, members of the House of Lords and councillors
+    - [s. 3 Scottish Parliament: disqualification of MPs](section/3.md)
+    - [s. 4 Scottish Parliament: disqualification of members of the House of Lords](section/4.md)
+    - [s. 5 Scottish Parliament: disqualification of councillors](section/5.md)
+  - Disqualifications relating to sexual offences and notification requirements
+    - [s. 6 Scottish Parliament: disqualification relating to sexual offences etc.](section/6.md)
+    - [s. 7 Local authorities: disqualifications relating to sexual offences etc.](section/7.md)
+  - Scottish disqualification orders
+    - [s. 8 Scottish disqualification orders](section/8.md)
+    - [s. 9 Returning officers](section/9.md)
+    - [s. 10 Registration officers](section/10.md)
+    - [s. 11 Counting officers](section/11.md)
+    - [s. 12 Effect of order: Scottish Parliament](section/12.md)
+    - [s. 13 Effect of order: local government](section/13.md)
+    - [s. 14 Power to amend the schedule](section/14.md)
+  - Disqualification orders under Elections Act 2022
+    - [s. 15 Scottish Parliament: disqualification from membership](section/15.md)
+    - [s. 16 Local authorities: disqualifications for nomination, election and holding office](section/16.md)
+    - [s. 17 Disqualification orders: aggravation](section/17.md)
+  - Temporary relief from disqualification
+    - [s. 18 Persons holding office: temporary relief from effect of disqualification](section/18.md)
+    - [s. 19 Transitional provision: disqualifications relating to sexual offences etc.](section/19.md)
+  - Section 15 of the Scotland Act 1998
+    - [s. 20 Ending ambulatory effect of section 15 of the Scotland Act 1998](section/20.md)
+- Part 3 Campaign finance
+  - Expenditure in respect of Scottish Parliament elections
+    - [s. 21 Notional and third party expenditure: Scottish Parliament elections](section/21.md)
+    - [s. 22 Third parties capable of giving notification](section/22.md)
+    - [s. 23 Restriction on which third parties may incur controlled expenditure](section/23.md)
+    - [s. 24 Transitional provision: offences relating to third party expenditure](section/24.md)
+    - [s. 25 Code of practice on controls relating to third parties](section/25.md)
+  - Expenditure in respect of local government elections
+    - [s. 26 Notional expenditure: local government elections](section/26.md)
+- Part 4 Rescheduling of elections etc.
+  - Scottish Parliament elections
+    - [s. 27 Power of Presiding Officer to postpone ordinary election](section/27.md)
+    - [s. 28 Power of Presiding Officer to schedule extraordinary general elections](section/28.md)
+    - [s. 29 Election of new Presiding Officer: extension of period](section/29.md)
+    - [s. 30 Choice of new First Minister after changed election date](section/30.md)
+    - [s. 31 Rescheduling of by-elections](section/31.md)
+  - Local government elections
+    - [s. 32 Power of convener of Electoral Management Board to postpone ordinary local election](section/32.md)
+    - [s. 33 Power of returning officers to postpone election for their area](section/33.md)
+    - [s. 34 Power of returning officer to postpone or cancel by-election](section/34.md)
+- Part 5 Form of ballot papers
+  - [s. 35 Review of order of candidates on ballot papers used at elections](section/35.md)
+- Part 6 Home addresses of candidates and agents
+  - [s. 36 Nomination of candidate in local government elections: home address form](section/36.md)
+  - [s. 37 Election agent and sub-agent in Scottish Parliament elections: public notice of home address](section/37.md)
+  - [s. 38 Election agent and sub-agent in local government elections: public notice of home address](section/38.md)
+- Part 7 Election pilots and democratic engagement
+  - Pilots under Scottish Local Government (Elections) Act 2002
+    - [s. 39 Pilot schemes under the Scottish Local Government (Elections) Act 2002](section/39.md)
+  - Pilot for registration of electors
+    - [s. 40 Registration of electors pilot provision: power to make temporary provision](section/40.md)
+    - [s. 41 Proposals for registration of electors pilot provision](section/41.md)
+    - [s. 42 Evaluation of registration of electors pilot provision by Electoral Commission](section/42.md)
+    - [s. 43 Power to permanently modify provision about registration of electors](section/43.md)
+  - Funding and Accessibility
+    - [s. 44 Funding to increase democratic engagement](section/44.md)
+    - [s. 45 Scottish Ministers’ power to make provision about elections under the Local Governance (Scotland) Act 2004](section/45.md)
+    - [s. 46 Access to Elected Office Fund](section/46.md)
+- Part 8 Information to be included with certain electronic material at Scottish elections
+  - Introduction
+    - [s. 47 Application of this Part](section/47.md)
+  - Interpretation
+    - [s. 48 Key definitions](section/48.md)
+    - [s. 49 Further definitions relating to candidates, parties and elections](section/49.md)
+  - Electronic material to which the requirements apply
+    - [s. 50 Electronic material: conditions for application of section 52](section/50.md)
+    - [s. 51 Purpose of the electronic material](section/51.md)
+  - Requirements when publishing electronic material
+    - [s. 52 Requirement to include information](section/52.md)
+    - [s. 53 Exceptions to requirement in section 52](section/53.md)
+  - Offences
+    - [s. 54 Offence of breaching section 52](section/54.md)
+    - [s. 55 Individual culpability where organisation commits an offence](section/55.md)
+  - Enforcement and investigation
+    - [s. 56 Enforcement by the Electoral Commission](section/56.md)
+    - [s. 57 Supply of information](section/57.md)
+  - Guidance and Electoral Commission Report
+    - [s. 58 Guidance](section/58.md)
+    - [s. 59 Electoral Commission’s annual report](section/59.md)
+  - Final provisions
+    - [s. 60 Scottish Ministers regulation making powers](section/60.md)
+    - [s. 61 Consequential revocations](section/61.md)
+- Part 9 Boundaries
+  - [s. 62 Boundaries Scotland: changing date of next review of local government wards and number of councillors](section/62.md)
+  - [s. 63 Boundaries Scotland: reports on Parliament boundaries before a general election](section/63.md)
+- Part 10 Electoral commission
+  - [s. 64 Education about electoral and democratic systems](section/64.md)
+  - [s. 65 Electoral Commission’s annual report: spoilt ballot papers](section/65.md)
+  - [s. 66 Five-year plan: devolved Scottish elections and referendums](section/66.md)
+  - [s. 67 Reports on promotion of public awareness about elections](section/67.md)
+  - [s. 68 Electoral Commission strategy: spoilt ballot papers](section/68.md)
+- Part 11 Electoral management board for Scotland
+  - [s. 69 Constitution of the Electoral Management Board for Scotland](section/69.md)
+  - [s. 70 Application of public bodies legislation to the Electoral Management Board for Scotland](section/70.md)
+  - [s. 71 Transitional provision: membership of the Electoral Management Board for Scotland](section/71.md)
+- Part 12 General provision
+  - [s. 72 Ancillary provision](section/72.md)
+  - [s. 73 Commencement](section/73.md)
+  - [s. 74 Short title](section/74.md)
+- Schedule Offences for the purposes of Part 2
+  - Part 1 Solemn procedure
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - Part 2 Summary procedure
+    - Chapter 1 Common law offences
+      - [Sch. paragraph 2](schedule/paragraph/2.md)
+      - [Sch. paragraph 3](schedule/paragraph/3.md)
+      - [Sch. paragraph 4](schedule/paragraph/4.md)
+      - [Sch. paragraph 5](schedule/paragraph/5.md)
+      - [Sch. paragraph 6](schedule/paragraph/6.md)
+      - [Sch. paragraph 7](schedule/paragraph/7.md)
+      - [Sch. paragraph 8](schedule/paragraph/8.md)
+      - [Sch. paragraph 9](schedule/paragraph/9.md)
+      - [Sch. paragraph 10](schedule/paragraph/10.md)
+      - [Sch. paragraph 11](schedule/paragraph/11.md)
+      - [Sch. paragraph 12](schedule/paragraph/12.md)
+      - [Sch. paragraph 13](schedule/paragraph/13.md)
+      - [Sch. paragraph 14](schedule/paragraph/14.md)
+      - [Sch. paragraph 15](schedule/paragraph/15.md)
+      - [Sch. paragraph 16](schedule/paragraph/16.md)
+      - [Sch. paragraph 17](schedule/paragraph/17.md)
+      - [Sch. paragraph 18](schedule/paragraph/18.md)
+    - Chapter 2 Statutory offences
+      - [Sch. paragraph 19 Explosive Substances Act 1883](schedule/paragraph/19.md)
+      - [Sch. paragraph 20 Criminal Law Act 1977](schedule/paragraph/20.md)
+      - [Sch. paragraph 21 Taking of Hostages Act 1982](schedule/paragraph/21.md)
+      - [Sch. paragraph 22 Rent (Scotland) Act 1984](schedule/paragraph/22.md)
+      - [Sch. paragraph 23 Public Order Act 1986](schedule/paragraph/23.md)
+      - [Sch. paragraph 24 Criminal Justice Act 1988](schedule/paragraph/24.md)
+      - [Sch. paragraph 25 Trade Union and Labour Relations (Consolidation) Act 1992](schedule/paragraph/25.md)
+      - [Sch. paragraph 26 Criminal Law (Consolidation) (Scotland) Act 1995](schedule/paragraph/26.md)
+      - [Sch. paragraph 27 Communications Act 2003](schedule/paragraph/27.md)
+      - [Sch. paragraph 28 Sexual Offences (Scotland) Act 2009](schedule/paragraph/28.md)
+      - [Sch. paragraph 29 Criminal Justice and Licensing (Scotland) Act 2010](schedule/paragraph/29.md)
+      - [Sch. paragraph 30 Hate Crime and Public Order (Scotland) Act 2021](schedule/paragraph/30.md)
+  - Part 3 Other
+    - [Sch. paragraph 31 Inchoate offences](schedule/paragraph/31.md)
+    - [Sch. paragraph 32 Inchoate offences](schedule/paragraph/32.md)
+    - [Sch. paragraph 33 Superseded offences](schedule/paragraph/33.md)
