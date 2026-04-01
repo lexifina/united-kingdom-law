@@ -1,0 +1,263 @@
+# Finance Act 1982
+
+1982 c. 39. Enacted (date not given).
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1982/39/2026-04-01
+
+## Contents
+
+- Part I Customs and Excise
+  - [s. 1 Duties on spirits, beer, wine, made-wine and cider.](section/1.md)
+  - [s. 2 ................................](section/2.md)
+  - [s. 3 Hydrocarbon oil, etc.](section/3.md)
+  - [s. 4 Aviation gasoline.](section/4.md)
+  - [s. 5 Vehicles excise duty: Great Britain.](section/5.md)
+  - [s. 6 ................................](section/6.md)
+  - [s. 7](section/7.md)
+  - [s. 8 Betting and gaming duties.](section/8.md)
+  - [s. 9 Immature spirits for home use and loss allowance for imported beer.](section/9.md)
+  - [s. 10 Regulator powers.](section/10.md)
+  - [s. 11 Power of Commissioners with respect to agricultural levies etc.](section/11.md)
+  - [s. 12 Delegation of Commissioners’ functions.](section/12.md)
+- Part II
+  - [s. 13 ................................](section/13.md)
+  - [s. 18 ................................](section/18.md)
+- Part III Income Tax, Corporation Tax and Capital Gains Tax
+  - Chapter I General
+    - [s. 20 ................................](section/20.md)
+    - [s. 27 Termination of the option mortgage schemes.](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 68 Postponement of recovery of tax.](section/68.md)
+    - [s. 69](section/69.md)
+  - Chapter II
+    - [s. 70 ................................](section/70.md)
+  - Chapter III Capital Gains
+    - [s. 80 ................................](section/80.md)
+    - [s. 81 Increase of chattel exemption.](section/81.md)
+    - [s. 82 Extension of general relief for gifts.](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 ................................](section/84.md)
+    - [s. 85 ................................](section/85.md)
+    - [s. 86 ................................](section/86.md)
+    - [s. 87 ................................](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89](section/89.md)
+- Part IV
+  - [s. 90 ................................](section/90.md)
+- Part V Stamp Duty
+  - [s. 128 Reduction of duty on conveyances and leases.](section/128.md)
+  - [s. 129 Exemption from duty on grants, transfers to charities, etc.](section/129.md)
+  - [s. 130 ................................](section/130.md)
+  - [s. 131 ................................](section/131.md)
+- Part VI Oil Taxation
+  - Chapter I General
+    - [s. 132 Increase of petroleum revenue tax and ending of supplementary petroleum duty.](section/132.md)
+    - [s. 133 Export sales of gas.](section/133.md)
+    - [s. 134 Alternative valuation of ethane used for petrochemical purposes.](section/134.md)
+    - [s. 135 Determination of oil fields.](section/135.md)
+    - [s. 136 ................................](section/136.md)
+    - [s. 137 Expenditure met by regional development grants to be disregarded for certain purposes.](section/137.md)
+    - [s. 138 ................................](section/138.md)
+  - Chapter II Advance Petroleum Revenue Tax
+    - [s. 139 Liability for APRT and credit against liability for petroleum revenue tax.](section/139.md)
+    - [s. 140 Increase of gross profit by reference to royalties in kind.](section/140.md)
+    - [s. 141 Reduction of gross profit by reference to exempt allowance.](section/141.md)
+    - [s. 142 Consequences of crediting APRT against liability for petroleum revenue tax.](section/142.md)
+- Part VII Miscellaneous and Supplementary
+  - [s. 143 ................................](section/143.md)
+  - [s. 144](section/144.md)
+  - [s. 145 Certificates of tax deposit: extension of interest period.](section/145.md)
+  - [s. 146 ................................](section/146.md)
+  - [s. 147 ................................](section/147.md)
+  - [s. 148 ................................](section/148.md)
+  - [s. 149 Recovery of overpayment of tax, etc.](section/149.md)
+  - [s. 150 Investment in gilt-edged unit trusts.](section/150.md)
+  - [s. 151 National savings accounts.](section/151.md)
+  - [s. 152 Additional power of Treasury to borrow.](section/152.md)
+  - [s. 153 Variable rates of interest for government lending.](section/153.md)
+  - [s. 154 ................................](section/154.md)
+  - [s. 155 ................................](section/155.md)
+  - [s. 156 Dissolution of Board of Referees.](section/156.md)
+  - [s. 157 Short title, interpretation, construction and repeals.](section/157.md)
+- SCHEDULE 1 Wine: Rates of Duty
+- SCHEDULE 2................................
+- SCHEDULE 3
+  - I Provisions Substituted for Part II of Schedule 1
+  - II Provisions Substituted for Part II of Schedule 2
+  - III Provisions Substituted for Part II of Schedule 3
+  - IV Provisions Substituted for Part II of Schedule 4Tables Showing Annual Rates of Duty on Goods Vehicles
+    - Table A General Rates of Duty
+    - Table B Rates of Duty on Goods Vehicles Used for Drawing Trailers
+  - V Provisions Substituted for Part II of Schedule 5
+- Schedule 4 (repealed 1.10.1991)...
+  - I ...
+  - II ...
+  - III ...
+  - IV ...
+    - Table A ...
+  - V ...
+- Schedule 5 Annual Rates of Duty on Goods Vehicles
+  - Part A
+  - Part I General Provisions
+    - Vehicles chargeable at the basic rate of duty
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Vehicles exceeding 7.5 but not exceeding 12 tonnes plated weight
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Rigid goods vehicles exceeding 12 tonnes plated gross weight
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Tractor units exceeding 12 tonnes plated train weight
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Special types of vehicles
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Farmer’s goods vehicles and showmen’s goods vehicles
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Smaller goods vehicles
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Vehicles treated as having reduced plated weights
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Plated and unladen weights
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Goods vehicles used partly for private purposes
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Exempted vehicles
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Tractor units used with semi-trailers having only one axle when duty paid by reference to use with semi-trailers having more than one axle
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Interpretation
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - Part B ...
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+- Schedule 6 Betting and Gaming Duties
+  - Part I General
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Part II
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Part III Gaming Licence Duty
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Part IV Bingo Duty
+  - Part V Gaming Machine Licence Duty
+    - Great Britain
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+- Schedules 7—10................................
+- Schedules 11, 12................................
+- Schedule 13
+  - Part I
+    - Part disposals
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Disposals on a no-gain/no-loss basis
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Subsequent disposals following no-gain/no-loss disposals
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Receipts etc. which are not treated as disposals but affect relevant allowable expenditure
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Reorganisations, reconstructions etc.
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Calls on shares etc.
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Options
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Part II
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+- Schedules 14—17................................
+- SCHEDULE 18 Alternative Valuation of Ethane Used for Petrochemical Purposes
+  - The election
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Conditions for acceptance of an election
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Notice of acceptance or rejection
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Market value ceasing to be readily ascertainable
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Price formula ceasing to give realistic market values
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Acceptance or rejection of new price formula
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Returns
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Penalties for incorrect information etc.
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - Interpretation
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+- Schedule 19 Supplementary Provisions Relating to APRT
+  - Part I Collection of Tax
+    - Payment of tax
+      - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+      - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+      - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+      - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - Assessments and appeals
+      - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+      - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+      - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+      - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - Overpayment of tax
+      - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - Interest
+      - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - Transitional provisions
+      - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+      - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+      - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+  - Part II Miscellaneous
+    - Repayment of APRT
+      - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - Transfer of interest in fields
+      - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - Net profit periods
+      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+    - Abandoned fields
+      - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+  - Part III Amendments
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+    - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+    - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+- Schedule 20 National Savings Accounts
+  - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+  - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+- SCHEDULE 21................................
+- SCHEDULE 22 Repeals
+  - Part I Miscellaneous Customs and Excise and Value Added Tax
+  - Part II Vehicles Excise Duty
+  - Part III Gaming Machine Licence Duty
+  - Part IV Income and Corporation Tax: General
+    - [Sch. 22 Pt. IV para. 1](schedule/22/part/IV/paragraph/1.md)
+    - [Sch. 22 Pt. IV para. 2](schedule/22/part/IV/paragraph/2.md)
+  - Part V Option Mortgage Schemes
+  - Part VI Capital Gains
+  - Part VII Capital Transfer Tax
+    - [Sch. 22 Pt. VII para. 1](schedule/22/part/VII/paragraph/1.md)
+    - [Sch. 22 Pt. VII para. 2](schedule/22/part/VII/paragraph/2.md)
+    - [Sch. 22 Pt. VII para. 3](schedule/22/part/VII/paragraph/3.md)
+  - Part VIII Stamp Duty
+  - Part IX Oil Taxation
+    - [Sch. 22 Pt. IX para. 1](schedule/22/part/IX/paragraph/1.md)
+    - [Sch. 22 Pt. IX para. 2](schedule/22/part/IX/paragraph/2.md)
+    - [Sch. 22 Pt. IX para. 3](schedule/22/part/IX/paragraph/3.md)
+  - Part X Board of Referees
+  - Part XI Spent Enactments
