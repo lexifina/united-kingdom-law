@@ -1,0 +1,121 @@
+# Employment Act 1988
+
+1988 c. 19. Enacted 1988-05-26.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/1988/19/2026-04-01
+
+## Contents
+
+- Part I Trade Unions
+  - Rights of trade union members
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+  - Use of trade union funds
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+  - The closed shop etc.
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+  - Provisions as to ballots and elections
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+  - The Commissioner for the Rights of Trade Union Members
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+  - Procedure before the Certification Officer
+    - [s. 22 ................................](section/22.md)
+  - Interlocutory and interim orders
+    - [s. 23 ................................](section/23.md)
+- Part II Employment and Training
+  - [s. 24 ................................](section/24.md)
+  - [s. 25 Functions of the Secretary of State and of the Commission.](section/25.md)
+  - [s. 26 Status of trainees etc.](section/26.md)
+  - [s. 27 ................................](section/27.md)
+  - [s. 28 Amendment of section 4 of the 1973 Act.](section/28.md)
+  - [s. 29 Membership of training boards.](section/29.md)
+- Part III Miscellaneous and Supplemental
+  - Miscellaneous
+    - [s. 30 ................................](section/30.md)
+  - Supplemental
+    - [s. 31 Financial provisions.](section/31.md)
+    - [s. 32 Interpretation.](section/32.md)
+    - [s. 33 Minor and consequential amendments and repeals.](section/33.md)
+    - [s. 34 Short title, commencement and extent.](section/34.md)
+- SCHEDULE 1
+  - Terms of appointment
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Remuneration, pensions etc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Staff
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Payment of travelling expenses etc. to applicants
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Financial provisions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Annual report
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Miscellaneous
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Interpretation
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Provisions Supplemental to Section 25
+  - Further amendments of the 1973 Act
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Incidental and transitional provisions
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Interpretation
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+- SCHEDULE 3 Minor and Consequential Amendments
+  - Part I Trade Unions
+    - The Trade Union Act 1913 (c. 30)
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - The Employment Protection (Consolidation) Act 1978 (c. 44)
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - The Employment Act 1980 (c. 42)
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - The Employment Act 1982 (c. 46)
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - The Trade Union Act 1984 (c. 49)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - The Wages Act 1986 (c. 48)
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Part II Employment and Training
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - The Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - The Race Relations Act 1976 (c. 74)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - The Agricultural Training Board Act 1982 (c. 9)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - The Industrial Training Act 1982 (c. 10)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - The Income and Corporation Taxes Act 1988 (c. 1)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+- SCHEDULE 4 Repeals
