@@ -1,0 +1,133 @@
+# Welfare Reform Act (Northern Ireland) 2010
+
+nia/2010/13. Enacted 2010-08-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 26 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2010/13
+
+Source: https://www.legislation.gov.uk/nia/2010/13/2026-04-01
+
+## Contents
+
+- PART 1 SOCIAL SECURITY
+  - “Work for your benefit” schemes etc.
+    - [s. 1 Schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.](section/1.md)
+  - Revised system of working-age benefits
+    - [s. 2 Work-related activity: income support claimants and partners of claimants](section/2.md)
+    - [s. 3 Lone parents](section/3.md)
+    - [s. 4 Entitlement to jobseeker’s allowance without seeking employment etc.](section/4.md)
+    - [s. 5 Couples where at least one member capable of work](section/5.md)
+    - [s. 6 Statutory sick pay and employment and support allowance](section/6.md)
+    - [s. 7 Transitional provision relating to sections 4 to 6](section/7.md)
+    - [s. 8 Assembly procedure: regulations imposing work-related activity requirements on lone parents of children under 5](section/8.md)
+  - Abolition of income support
+    - [s. 9 Abolition of income support](section/9.md)
+  - Work-related activity for claimants of employment and support allowance
+    - [s. 10 Power to direct claimant to undertake specific work-related activity](section/10.md)
+  - Contributory jobseeker’s allowance and employment and support allowance
+    - [s. 11 Conditions for contributory jobseeker’s allowance](section/11.md)
+    - [s. 12 Conditions for contributory employment and support allowance](section/12.md)
+  - Disability living allowance
+    - [s. 13 Mobility component](section/13.md)
+  - Abolition of adult dependency increases
+    - [s. 14 Maternity allowance and carer’s allowance](section/14.md)
+  - Community care grants
+    - [s. 15 Community care grants relating to specified goods or services](section/15.md)
+    - [s. 16 Community care grants: reviews and information](section/16.md)
+    - [s. 17 Regulations relating to information: Assembly control](section/17.md)
+  - Payments on account
+    - [s. 18 Payments on account](section/18.md)
+  - Benefit sanctions for offenders
+    - [s. 19 Loss of benefit provisions](section/19.md)
+    - [s. 20 Jobseeker’s allowance: sanctions for violent conduct etc. in connection with claim](section/20.md)
+    - [s. 21 Repeal of sections 53 to 57 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000](section/21.md)
+  - Pilot scheme
+    - [s. 22 Period for which pilot schemes have effect etc.](section/22.md)
+  - Miscellaneous
+    - [s. 23 Exemption from jobseeking conditions for victims of domestic violence](section/23.md)
+    - [s. 24 Good cause for failure to comply with regulations etc.](section/24.md)
+    - [s. 25 Jobseekers’ agreements and action plans: well-being of children](section/25.md)
+    - [s. 26 Contracting out functions under Jobseekers (Northern Ireland) Order 1995](section/26.md)
+    - [s. 27 Attendance in connection with jobseeker’s allowance: sanctions](section/27.md)
+    - [s. 28 Social security information and employment or training information](section/28.md)
+    - [s. 29 Persons under pensionable age to take part in work-focused interviews etc.](section/29.md)
+    - [s. 30 Minor amendments](section/30.md)
+- PART 2 CHILD MAINTENANCE
+  - [s. 31 Payments of child support maintenance](section/31.md)
+  - [s. 32 Child support maintenance: offences relating to information](section/32.md)
+- PART 3 MISCELLANEOUS AND SUPPLEMENTARY
+  - [s. 33 Consequential amendments of orders and regulations](section/33.md)
+  - [s. 34 Repeals](section/34.md)
+  - [s. 35 Interpretation](section/35.md)
+  - [s. 36 Commencement](section/36.md)
+  - [s. 37 Short title](section/37.md)
+- SCHEDULE 1 AMENDMENTS CONNECTED TO SECTION 4
+  - PART 1 AMENDMENTS OF JOBSEEKERS (NORTHERN IRELAND) ORDER 1995
+    - Introduction
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Work-focused interviews etc.
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Directions given by officers of Departments etc.
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Other amendments
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - PART 2 AMENDMENTS OF OTHER STATUTORY PROVISIONS
+    - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - The Social Security (Northern Ireland) Order 1998 (NI 10)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - The Welfare Reform Act (Northern Ireland) 2007 (c. 2)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+- SCHEDULE 2 ABOLITION OF INCOME SUPPORT: CONSEQUENTIAL AMENDMENTS
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - The Jobseekers (Northern Ireland) Order 1995 (NI 15)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - The Social Security Fraud Act (Northern Ireland) 2001 (c. 17)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - The Age-Related Payments (Northern Ireland) Order 2004 (NI 11)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 LOSS OF BENEFIT PROVISIONS: FURTHER AMENDMENTS
+  - PART 1 FURTHER AMENDMENTS OF SOCIAL SECURITY FRAUD ACT (NORTHERN IRELAND) 2001
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - PART 2 RELATED AMENDMENTS OF OTHER STATUTORY PROVISIONS
+    - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - The Social Security (Northern Ireland) Order 1998 (NI 10)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 REPEALS
+  - PART 1 ABOLITION OF INCOME SUPPORT
+  - PART 2 ABOLITION OF ADULT DEPENDENCY INCREASES
+  - PART 3 SOCIAL SECURITY: OTHER REPEALS
+  - PART 4 CHILD MAINTENANCE
