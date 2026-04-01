@@ -1,0 +1,487 @@
+# Finance Act 2010
+
+2010 c. 13. Enacted 2010-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2010/13/2026-04-01
+
+## Contents
+
+- Part 1 Charges, rates etc
+  - Income tax
+    - [s. 1 Charge, main rates, thresholds and allowances etc for 2010-11](section/1.md)
+  - Corporation tax
+    - [s. 2 Charge and main rate for financial year 2011](section/2.md)
+    - [s. 3 Small profits rates and fractions for financial year 2010](section/3.md)
+  - Capital gains tax
+    - [s. 4 Increase in entrepreneurs’ relief](section/4.md)
+  - Capital allowances
+    - [s. 5 Annual investment allowance](section/5.md)
+  - Stamp duty land tax
+    - [s. 6 Relief for first-time buyers](section/6.md)
+    - [s. 7 Rate in respect of residential property where consideration over £1m](section/7.md)
+  - Inheritance tax
+    - [s. 8 Rate bands](section/8.md)
+  - Alcohol and tobacco
+    - [s. 9 Rates of alcoholic liquor duties](section/9.md)
+    - [s. 10 Rates of tobacco products duty](section/10.md)
+  - Vehicle excise duty
+    - [s. 11 Rates for motorcycles](section/11.md)
+  - Fuel duties
+    - [s. 12 Fuel duties: rates and rebates from April 2010](section/12.md)
+    - [s. 13 Fuel duties: further changes in rates and rebates](section/13.md)
+  - Other environmental taxes
+    - [s. 14 Rates of air passenger duty](section/14.md)
+    - [s. 15 Standard rate of landfill tax](section/15.md)
+    - [s. 16 Rate of aggregates levy](section/16.md)
+    - [s. 17 Rates of climate change levy](section/17.md)
+    - [s. 18 Climate change levy: reduced-rate supplies](section/18.md)
+  - Gambling
+    - [s. 19 Rate of bingo duty](section/19.md)
+    - [s. 20 Rates of gaming duty](section/20.md)
+    - [s. 21 Amusement machine licence duty](section/21.md)
+  - New taxes
+    - [s. 22 Bank payroll tax](section/22.md)
+    - [s. 23 Pensions: high income excess relief charge](section/23.md)
+- Part 2 Anti-avoidance and revenue protection
+  - Losses, capital allowances etc
+    - [s. 24 Sideways relief etc](section/24.md)
+    - [s. 25 Property loss relief](section/25.md)
+    - [s. 26 Capital allowance buying](section/26.md)
+    - [s. 27 Leased assets](section/27.md)
+    - [s. 28 Cushion gas](section/28.md)
+    - [s. 29 Sale of lessors: consortium relationships](section/29.md)
+  - Charities etc
+    - [s. 30 Charities and community amateur sports clubs: definitions](section/30.md)
+    - [s. 31 Gifts of shares etc to charities](section/31.md)
+    - [s. 32 Miscellaneous amendments](section/32.md)
+  - Remittance basis
+    - [s. 33 “Relevant person”](section/33.md)
+    - [s. 34 Foreign currency bank accounts](section/34.md)
+  - Other international matters
+    - [s. 35 Penalties: offshore income etc](section/35.md)
+    - [s. 36 Reliefs and reductions for foreign tax](section/36.md)
+    - [s. 37 Asset transfer to non-resident company: recovery of postponed charge](section/37.md)
+  - Securities etc
+    - [s. 38 Transactions in securities](section/38.md)
+    - [s. 39 Approved CSOP schemes: eligible shares](section/39.md)
+    - [s. 40 Unauthorised unit trusts](section/40.md)
+    - [s. 41 Index-linked gilt-edged securities](section/41.md)
+    - [s. 42 Approved share incentive plans](section/42.md)
+  - Loan relationships and derivative contracts
+    - [s. 43 Close companies: release of loans to participators etc](section/43.md)
+    - [s. 44 Connected companies: releases of debts](section/44.md)
+    - [s. 45 Relationships treated as loan relationships etc: repos](section/45.md)
+    - [s. 46 Risk transfer schemes](section/46.md)
+  - Insurance companies
+    - [s. 47 Apportionment of asset value increases](section/47.md)
+  - Pensions
+    - [s. 48 Extension of special annual allowance charge](section/48.md)
+    - [s. 49 Information](section/49.md)
+  - Value added tax and insurance premium tax
+    - [s. 50 Extension of reverse charge provisions to supplies of services](section/50.md)
+    - [s. 51 Insurance premium tax: separate contracts](section/51.md)
+  - Inheritance tax
+    - [s. 52 Reversionary interests of purchaser or settlor etc in relevant property](section/52.md)
+    - [s. 53 Interests in possession](section/53.md)
+  - Stamp taxes
+    - [s. 54 SDRT: depositary receipt systems and clearance services systems](section/54.md)
+    - [s. 55 SDLT: partnerships](section/55.md)
+  - Administration
+    - [s. 56 Disclosure of tax avoidance schemes](section/56.md)
+    - [s. 57 Opening of postal packets](section/57.md)
+- Part 3 Other provisions
+  - Income tax: benefits in kind
+    - [s. 58 Zero and low emission vehicles](section/58.md)
+    - [s. 59 Cars with CO2 emissions figure](section/59.md)
+    - [s. 60 Subsidised meals for employees: salary sacrifice etc](section/60.md)
+  - Corporation tax
+    - [s. 61 Sale of lessors: election out of charge](section/61.md)
+    - [s. 62 Accounting standards: loan relationships and derivative contracts](section/62.md)
+  - Miscellaneous
+    - [s. 63 Champions League final](section/63.md)
+    - [s. 64 FSCS intervention in relation to insurance contracts](section/64.md)
+    - [s. 65 Stamp duty and SDRT: clearing houses](section/65.md)
+    - [s. 66 Alcoholic liquor duties: power to amend definition of “cider”](section/66.md)
+    - [s. 67 Climate change levy: compatible state aid](section/67.md)
+    - [s. 68 Pensions: minor corrections](section/68.md)
+  - Final provisions
+    - [s. 69 Interpretation](section/69.md)
+    - [s. 70 Short title](section/70.md)
+- SCHEDULE 1 Bank payroll tax
+  - Part 1 The tax
+    - The tax
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Rate
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - “Taxable company”
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - “Relevant remuneration”
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - “Excluded remuneration”
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - “Awarded”
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - “Amount” of remuneration
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - “The chargeable period”
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - “Relevant banking employee”
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Multiple employments
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Payments etc to intermediaries
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Arrangements for future payments etc
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Loans
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Anti-avoidance
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - No deduction in computing profits
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Part 2 Collection and management of tax
+    - Responsibility for collection and management
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Due date for payment
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Obligation to deliver return
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Content etc of return
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Failure to include self-assessment
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Amendment of return by company
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Correction of return by HMRC
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Enquiry into return
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+    - Determination by HMRC
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Discovery assessment by HMRC
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - Collection and recovery
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Interest on late payments and repayments
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - Overpaid tax etc
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Appeals and other proceedings
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Obligation to preserve records
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - Information powers
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Penalties
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+    - Miscellaneous
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - Part 3 Definitions
+    - “UK resident bank” and “relevant foreign bank”
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - “Relevant regulated activity”, “capital resources condition”, “excluded company”, “asset management activities”, “linked entity” etc
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+    - “Member of a banking group”
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+    - “The trading income of the group” for the relevant period
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+    - “Investment company” etc
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - “Financial trading company” etc
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - Other interpretative provisions
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+- SCHEDULE 2
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+- SCHEDULE 3 Sideways relief etc
+  - Amendments of Chapter 2 of Part 4 of ITA 2007
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Other amendments
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Commencement
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 4 Capital allowance buying
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Leased assets
+  - Restriction of qualifying expenditure
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Restriction of deduction for rental rebate
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Arrangements reducing disposal value of asset
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Charities and community amateur sports clubs: definitions
+  - Part 1 Definition of “charity”, “charitable company” and “charitable trust”
+    - Definition of “charity” etc
+      - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - Jurisdiction condition
+      - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - Registration condition
+      - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - Management condition
+      - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - Periods over which management condition treated as met
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Publication of names and addresses of bodies or trusts regarded by HMRC as charities
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - Enactments to which this Part applies
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Part 2 Repeals of superseded definitions and other consequential amendments
+    - FA 1982
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - FA 1983
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - IHTA 1984
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - FA 1986
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - FA 1989
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - TCGA 1992
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - F(No.2)A 1997
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - FA 1999
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - CAA 2001
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - ITEPA 2003
+      - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - FA 2003
+      - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+      - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - ITTOIA 2005
+      - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - F(No.2)A 2005
+      - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - ITA 2007
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - FA 2008
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - CTA 2009
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - FA 2009
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - CTA 2010
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - TIOPA 2010
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Power to make further consequential provision
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+  - Part 3 Meaning of “community amateur sports club”
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+  - Part 4 Commencement
+    - Commencement of Part 1
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - Commencement of Part 2
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - Commencement of Part 3
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+- SCHEDULE 7 Gifts of shares etc to charities
+  - Gifts by individuals
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Gifts by companies
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Commencement and corresponding ICTA amendments
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+- SCHEDULE 8 Charities: miscellaneous amendments
+  - Payroll giving
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Payments to bodies outside the UK: non-charitable expenditure
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Gift aid: disqualified overseas gifts
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Gift aid administration: charitable trusts
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Gift aid administration: charitable companies
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Commencement
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+- SCHEDULE 9 Foreign currency bank accounts
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+- SCHEDULE 10 Penalties: offshore income etc
+  - Schedule 24 to FA 2007
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Schedule 41 to FA 2008
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Schedule 55 to FA 2009
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+- SCHEDULE 11 Reliefs and reductions for foreign tax
+  - Effect of foreign tax becoming payable
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Schemes about deemed foreign tax
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Foreign tax payable by other participants
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Claims etc made before scheme or arrangement made
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Limit on reduction for foreign tax
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+- SCHEDULE 12 Transactions in securities
+  - Income tax
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Corporation tax
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+  - Consequential amendments
+    - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+    - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+  - Commencement
+    - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+- SCHEDULE 13 Unauthorised unit trusts
+  - Amendments of Chapter 13 of Part 15 of ITA 2007
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Consequential amendments
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Commencement
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Transitional provision: opening value of trustees’ double tax relief pool
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+- SCHEDULE 14 Index-linked gilt-edged securities
+  - Amendments of Chapter 12 of Part 5 of CTA 2009
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Consequential amendment
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Commencement
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Transitional provision
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+- SCHEDULE 15 Connected companies: releases of debts
+  - Amendments of section 322 of CTA 2009
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Amendments of Chapter 6 of Part 5 of CTA 2009
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Commencement
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Transitional provision
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+- SCHEDULE 16 Risk transfer schemes
+  - Amendments
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - Commencement and transitional provision
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+- SCHEDULE 17 Disclosure of tax avoidance schemes
+  - Introduction
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Initial marketing
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Promoters to provide client lists
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - Information provided to introducers
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+  - Penalties
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - Commencement
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+- SCHEDULE 18 Sale of lessors: election out of charge
+  - Main changes
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Interpretation
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Commencement etc
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+- SCHEDULE 19 Accounting standards: loan relationships and derivative contracts
+  - Loan relationships
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+  - Derivative contracts
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - Affirmative resolution procedure
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+- SCHEDULE 20 Champions League final
+  - Exemption from income tax
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+  - Exclusion of certain income
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+  - Tax avoidance
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Disapplication of section 966 of ITA 2007
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Interpretation
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
