@@ -1,0 +1,478 @@
+# Disclosure (Scotland) Act 2020
+
+asp/2020/13. Enacted 2020-07-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2020/13
+
+Source: https://www.legislation.gov.uk/asp/2020/13/2026-04-01
+
+## Contents
+
+- PART 1 Disclosure of criminal history and other information
+  - Level 1 disclosures
+    - [s. 1 Level 1 disclosure](section/1.md)
+    - [s. 2 Provision of Level 1 disclosures](section/2.md)
+    - [s. 3 Applications by accredited bodies on behalf of individuals](section/3.md)
+    - [s. 4 Provision of Level 1 disclosure to third parties](section/4.md)
+  - Level 1 disclosures: review applications
+    - [s. 5 Level 1 disclosure: application for review](section/5.md)
+    - [s. 6 Review of accuracy of information by the Scottish Ministers](section/6.md)
+    - [s. 7 Provision of new Level 1 disclosure on conclusion of review proceedings](section/7.md)
+  - Level 2 disclosures
+    - [s. 8 Level 2 disclosure](section/8.md)
+    - [s. 9 Non-disclosable convictions](section/9.md)
+    - [s. 10 Non-disclosable children’s hearing outcomes](section/10.md)
+    - [s. 11 Provision of Level 2 disclosures](section/11.md)
+    - [s. 12 Level 2 disclosure applications: countersigning and purposes](section/12.md)
+    - [s. 13 Childhood information](section/13.md)
+    - [s. 14 Provision of relevant Scottish police information](section/14.md)
+    - [s. 14A Provision of relevant UK police etc. information](section/14A.md)
+    - [s. 15 Provision of relevant overseas police information](section/15.md)
+    - [s. 16 Further information for certain purposes: non-PVG scheme members](section/16.md)
+    - [s. 17 Further information for certain purposes: PVG scheme members](section/17.md)
+    - [s. 18 Provision of Level 2 disclosure to accredited bodies](section/18.md)
+    - [s. 19 Crown employment](section/19.md)
+  - Level 2 disclosures: review applications
+    - [s. 20 Level 2 disclosure: application for review](section/20.md)
+    - [s. 21 Review of accuracy of information by the Scottish Ministers](section/21.md)
+    - [s. 22 Review of childhood information by the independent reviewer](section/22.md)
+    - [s. 23 Review of relevant police etc. information by the provider](section/23.md)
+    - [s. 24 Review of relevant police etc. information by the independent reviewer](section/24.md)
+    - [s. 25 Review of inclusion of removable convictions by the Scottish Ministers](section/25.md)
+    - [s. 26 Review of inclusion of removable convictions by the independent reviewer](section/26.md)
+    - [s. 27 Combination of reviews by the independent reviewer](section/27.md)
+    - [s. 28 Independent reviewer: information and representations](section/28.md)
+    - [s. 29 Notification of independent reviewer’s decision](section/29.md)
+    - [s. 30 Appeal against independent reviewer’s decision](section/30.md)
+    - [s. 31 Provision of new Level 2 disclosure on conclusion of review proceedings](section/31.md)
+    - [s. 32 Disapplication of provisions of section 4 of the Rehabilitation of Offenders Act 1974](section/32.md)
+  - Level 2 disclosures: considering relevance and whether to include information
+    - [s. 33 Level 2 disclosure: considering relevance and whether to include certain information](section/33.md)
+  - Common provisions relating to Level 1 and Level 2 disclosures
+    - [s. 34 Form and manner of provision of disclosures](section/34.md)
+    - [s. 35 Reclassification of applications](section/35.md)
+    - [s. 36 Regulations about procedure for disclosure requests](section/36.md)
+    - [s. 37 Regulations about review procedure](section/37.md)
+    - [s. 38 Power to modify definitions of Level 1 disclosure and Level 2 disclosure](section/38.md)
+    - [s. 39 Childhood information: power to modify other enactments](section/39.md)
+    - [s. 40 Presumption as to age in relation to convictions](section/40.md)
+  - Offences relating to Level 1 and Level 2 disclosures
+    - [s. 41 Falsification of a Level 1 or Level 2 disclosure](section/41.md)
+    - [s. 42 Unlawful disclosure of a Level 2 disclosure](section/42.md)
+    - [s. 43 Lawful disclosures of Level 2 disclosures](section/43.md)
+    - [s. 44 Unlawful request for and use of a Level 2 disclosure](section/44.md)
+    - [s. 45 Offences under sections 42 and 44: supplementary provision](section/45.md)
+  - Accredited bodies
+    - [s. 46 Register of accredited bodies](section/46.md)
+    - [s. 47 Registration in the register of accredited bodies](section/47.md)
+    - [s. 48 Protection of information: removal of registration](section/48.md)
+    - [s. 49 Suitable persons to have access to disclosure information](section/49.md)
+    - [s. 50 Removal of registration on other grounds](section/50.md)
+    - [s. 51 Lead signatories and countersignatories](section/51.md)
+    - [s. 52 Lead signatories and countersignatories: acceptance or refusal of nomination and removal from the register](section/52.md)
+    - [s. 53 Notification and review of decisions: removal from register or refusal of registration or nomination](section/53.md)
+    - [s. 54 Regulations about registration](section/54.md)
+    - [s. 55 Code of practice](section/55.md)
+    - [s. 56 Sharing of Level 2 disclosure information by accredited bodies](section/56.md)
+  - Evidence of identity
+    - [s. 57 Evidence of identity](section/57.md)
+    - [s. 58 Power to use personal data to check identity](section/58.md)
+    - [s. 59 Power to use fingerprints to check identity](section/59.md)
+  - General
+    - [s. 60 Form and manner of applications and notices](section/60.md)
+    - [s. 61 Fees](section/61.md)
+    - [s. 62 Fees for provision of information by the chief constable](section/62.md)
+    - [s. 63 Guidance for chief constable](section/63.md)
+    - [s. 64 Sharing of information with the chief constable](section/64.md)
+    - [s. 65 Sources of information](section/65.md)
+    - [s. 66 Delegation of functions of Scottish Ministers](section/66.md)
+    - [s. 67 Saving: disclosure of information and records](section/67.md)
+    - [s. 68 Definition of consideration of suitability](section/68.md)
+    - [s. 69 Interpretation of Part 1](section/69.md)
+- PART 2 Protection of vulnerable groups
+  - Scheme membership
+    - [s. 70 Participation in Scheme](section/70.md)
+    - [s. 71 Duration of Scheme membership](section/71.md)
+    - [s. 72 Failure to apply for renewal of Scheme membership](section/72.md)
+    - [s. 73 Compulsory Scheme membership](section/73.md)
+  - Regulated roles
+    - [s. 74 Regulated roles](section/74.md)
+    - [s. 75 Meaning of “protected adult”](section/75.md)
+  - Scheme members under consideration for listing
+    - [s. 76 Conditions imposed on scheme members under consideration for listing](section/76.md)
+    - [s. 77 Notice of consideration for listing](section/77.md)
+    - [s. 78 Withdrawal from Scheme when under consideration for listing](section/78.md)
+  - Notice of barred status
+    - [s. 79 Notice of barred status](section/79.md)
+  - Listing
+    - [s. 80 Reference by chief constable](section/80.md)
+    - [s. 81 Removal of references by court](section/81.md)
+    - [s. 82 Reference by councils or integration joint boards](section/82.md)
+    - [s. 83 Application for removal from list](section/83.md)
+    - [s. 84 Ministers’ powers to remove from list](section/84.md)
+    - [s. 85 Appeals and removals: information power](section/85.md)
+  - Confirmation of PVG Scheme membership
+    - [s. 86 Confirmation of scheme membership under the PVG Act](section/86.md)
+  - Miscellaneous
+    - [s. 87 Retention of scheme records after removal](section/87.md)
+    - [s. 88 Offences outside Scotland](section/88.md)
+    - [s. 89 Guidance for chief constable](section/89.md)
+    - [s. 90 Meaning of “conviction”](section/90.md)
+- PART 3 General
+  - [s. 91 Regulations](section/91.md)
+  - [s. 92 Ancillary provision](section/92.md)
+  - [s. 93 Consequential and minor modifications](section/93.md)
+  - [s. 94 Individual culpability where organisation commits offence](section/94.md)
+  - [s. 95 Meaning of “the PVG Act”](section/95.md)
+  - [s. 96 Crown application](section/96.md)
+  - [s. 97 Commencement](section/97.md)
+  - [s. 98 Short title](section/98.md)
+- SCHEDULE 1 List A offences
+  - PART 1 Common law offences
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 14A](schedule/1/paragraph/14A.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 17A](schedule/1/paragraph/17A.md)
+    - [Sch. 1 para. 17B](schedule/1/paragraph/17B.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - PART 2 Statutory offences
+    - Armed forces
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - Bribery
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - Children
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Computer misuse
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - Domestic abuse
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 25A](schedule/1/paragraph/25A.md)
+    - Explosives
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - False statements and declarations
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+    - Firearms and other weapons
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - Forced marriage
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Fraud and forgery
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - Harassment
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+      - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - Health
+      - [Sch. 1 para. 36A](schedule/1/paragraph/36A.md)
+    - Human trafficking and exploitation
+      - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+      - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+      - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+      - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+      - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+      - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+    - Insolvency
+      - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+    - Medical professions etc.
+      - [Sch. 1 para. 44](schedule/1/paragraph/44.md)
+      - [Sch. 1 para. 45](schedule/1/paragraph/45.md)
+      - [Sch. 1 para. 45A](schedule/1/paragraph/45A.md)
+      - [Sch. 1 para. 45B](schedule/1/paragraph/45B.md)
+      - [Sch. 1 para. 45C](schedule/1/paragraph/45C.md)
+      - [Sch. 1 para. 45D](schedule/1/paragraph/45D.md)
+      - [Sch. 1 para. 45E](schedule/1/paragraph/45E.md)
+      - [Sch. 1 para. 45F](schedule/1/paragraph/45F.md)
+      - [Sch. 1 para. 46](schedule/1/paragraph/46.md)
+      - [Sch. 1 para. 46A](schedule/1/paragraph/46A.md)
+    - Medicines
+      - [Sch. 1 para. 47](schedule/1/paragraph/47.md)
+    - National Security and Official Secrets Acts
+      - [Sch. 1 para. 47A](schedule/1/paragraph/47A.md)
+      - [Sch. 1 para. 47B](schedule/1/paragraph/47B.md)
+      - [Sch. 1 para. 47C](schedule/1/paragraph/47C.md)
+      - [Sch. 1 para. 47D](schedule/1/paragraph/47D.md)
+    - Proceeds of crime and money laundering
+      - [Sch. 1 para. 48](schedule/1/paragraph/48.md)
+    - Prostitution
+      - [Sch. 1 para. 49](schedule/1/paragraph/49.md)
+    - Road traffic
+      - [Sch. 1 para. 50](schedule/1/paragraph/50.md)
+      - [Sch. 1 para. 50A](schedule/1/paragraph/50A.md)
+    - Serious organised crime
+      - [Sch. 1 para. 51](schedule/1/paragraph/51.md)
+    - Sexual offences
+      - [Sch. 1 para. 52](schedule/1/paragraph/52.md)
+      - [Sch. 1 para. 53](schedule/1/paragraph/53.md)
+      - [Sch. 1 para. 54](schedule/1/paragraph/54.md)
+      - [Sch. 1 para. 55](schedule/1/paragraph/55.md)
+      - [Sch. 1 para. 56](schedule/1/paragraph/56.md)
+      - [Sch. 1 para. 57](schedule/1/paragraph/57.md)
+      - [Sch. 1 para. 58](schedule/1/paragraph/58.md)
+      - [Sch. 1 para. 59](schedule/1/paragraph/59.md)
+    - Solicitors
+      - [Sch. 1 para. 60](schedule/1/paragraph/60.md)
+    - Stalking and harassment
+      - [Sch. 1 para. 61](schedule/1/paragraph/61.md)
+      - [Sch. 1 para. 62](schedule/1/paragraph/62.md)
+      - [Sch. 1 para. 62A](schedule/1/paragraph/62A.md)
+    - Taxation
+      - [Sch. 1 para. 63](schedule/1/paragraph/63.md)
+    - Terrorism
+      - [Sch. 1 para. 64](schedule/1/paragraph/64.md)
+      - [Sch. 1 para. 65](schedule/1/paragraph/65.md)
+      - [Sch. 1 para. 66](schedule/1/paragraph/66.md)
+      - [Sch. 1 para. 67](schedule/1/paragraph/67.md)
+    - Violent offender orders
+      - [Sch. 1 para. 68](schedule/1/paragraph/68.md)
+    - Vulnerable persons
+      - [Sch. 1 para. 69](schedule/1/paragraph/69.md)
+      - [Sch. 1 para. 70](schedule/1/paragraph/70.md)
+      - [Sch. 1 para. 71](schedule/1/paragraph/71.md)
+      - [Sch. 1 para. 72](schedule/1/paragraph/72.md)
+      - [Sch. 1 para. 73](schedule/1/paragraph/73.md)
+    - Witness protection
+      - [Sch. 1 para. 74](schedule/1/paragraph/74.md)
+    - Miscellaneous statutory offences
+      - [Sch. 1 para. 74A](schedule/1/paragraph/74A.md)
+    - Statutory aggravations
+      - [Sch. 1 para. 75](schedule/1/paragraph/75.md)
+  - PART 3 Other
+    - Common law aggravations
+      - [Sch. 1 para. 76](schedule/1/paragraph/76.md)
+      - [Sch. 1 para. 77](schedule/1/paragraph/77.md)
+      - [Sch. 1 para. 77A](schedule/1/paragraph/77A.md)
+    - Inchoate offences
+      - [Sch. 1 para. 78](schedule/1/paragraph/78.md)
+      - [Sch. 1 para. 79](schedule/1/paragraph/79.md)
+    - Superseded offences
+      - [Sch. 1 para. 80](schedule/1/paragraph/80.md)
+    - Combined offences
+      - [Sch. 1 para. 81](schedule/1/paragraph/81.md)
+    - Corresponding offences elsewhere in the UK or abroad
+      - [Sch. 1 para. 82](schedule/1/paragraph/82.md)
+- SCHEDULE 2 List B offences
+  - PART 1 Common law offences
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 4A](schedule/2/paragraph/4A.md)
+    - [Sch. 2 para. 4B](schedule/2/paragraph/4B.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 9A](schedule/2/paragraph/9A.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - PART 2 Statutory offences
+    - Adult support and protection
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Armed forces
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Assaulting or hindering public officials
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Aviation, maritime and spaceflight
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Care services
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Charities
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - Child Support
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Children
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+    - Computer misuse
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Crossbows
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+    - Drugs
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+    - Escape from custody etc.
+      - [Sch. 2 para. 44](schedule/2/paragraph/44.md)
+      - [Sch. 2 para. 45](schedule/2/paragraph/45.md)
+    - Financial services
+      - [Sch. 2 para. 46](schedule/2/paragraph/46.md)
+      - [Sch. 2 para. 47](schedule/2/paragraph/47.md)
+    - Fire safety
+      - [Sch. 2 para. 48](schedule/2/paragraph/48.md)
+    - Firearms
+      - [Sch. 2 para. 49](schedule/2/paragraph/49.md)
+      - [Sch. 2 para. 50](schedule/2/paragraph/50.md)
+      - [Sch. 2 para. 51](schedule/2/paragraph/51.md)
+      - [Sch. 2 para. 52](schedule/2/paragraph/52.md)
+      - [Sch. 2 para. 53](schedule/2/paragraph/53.md)
+    - Food safety and standards
+      - [Sch. 2 para. 54](schedule/2/paragraph/54.md)
+      - [Sch. 2 para. 55](schedule/2/paragraph/55.md)
+    - Fraud and forgery
+      - [Sch. 2 para. 56](schedule/2/paragraph/56.md)
+      - [Sch. 2 para. 57](schedule/2/paragraph/57.md)
+      - [Sch. 2 para. 58](schedule/2/paragraph/58.md)
+      - [Sch. 2 para. 59](schedule/2/paragraph/59.md)
+      - [Sch. 2 para. 60](schedule/2/paragraph/60.md)
+      - [Sch. 2 para. 61](schedule/2/paragraph/61.md)
+    - Immigration etc.
+      - [Sch. 2 para. 62](schedule/2/paragraph/62.md)
+      - [Sch. 2 para. 63](schedule/2/paragraph/63.md)
+      - [Sch. 2 para. 64](schedule/2/paragraph/64.md)
+    - Insolvency
+      - [Sch. 2 para. 65](schedule/2/paragraph/65.md)
+    - Landmines
+      - [Sch. 2 para. 66](schedule/2/paragraph/66.md)
+    - Lasers
+      - [Sch. 2 para. 67](schedule/2/paragraph/67.md)
+    - Medicines
+      - [Sch. 2 para. 68](schedule/2/paragraph/68.md)
+      - [Sch. 2 para. 69](schedule/2/paragraph/69.md)
+    - Mental health
+      - [Sch. 2 para. 70](schedule/2/paragraph/70.md)
+    - ...
+      - [Sch. 2 para. 70A](schedule/2/paragraph/70A.md)
+    - Neglect of duty
+      - [Sch. 2 para. 71](schedule/2/paragraph/71.md)
+      - [Sch. 2 para. 72](schedule/2/paragraph/72.md)
+    - Obscene material etc.
+      - [Sch. 2 para. 73](schedule/2/paragraph/73.md)
+      - [Sch. 2 para. 74](schedule/2/paragraph/74.md)
+      - [Sch. 2 para. 75](schedule/2/paragraph/75.md)
+      - [Sch. 2 para. 76](schedule/2/paragraph/76.md)
+    - Offences in relation to children
+      - [Sch. 2 para. 77](schedule/2/paragraph/77.md)
+      - [Sch. 2 para. 78](schedule/2/paragraph/78.md)
+      - [Sch. 2 para. 79](schedule/2/paragraph/79.md)
+      - [Sch. 2 para. 80](schedule/2/paragraph/80.md)
+      - [Sch. 2 para. 81](schedule/2/paragraph/81.md)
+      - [Sch. 2 para. 81A](schedule/2/paragraph/81A.md)
+    - Offensive weapons
+      - [Sch. 2 para. 82](schedule/2/paragraph/82.md)
+      - [Sch. 2 para. 83](schedule/2/paragraph/83.md)
+      - [Sch. 2 para. 84](schedule/2/paragraph/84.md)
+      - [Sch. 2 para. 85](schedule/2/paragraph/85.md)
+      - [Sch. 2 para. 86](schedule/2/paragraph/86.md)
+      - [Sch. 2 para. 86A](schedule/2/paragraph/86A.md)
+    - ...
+      - [Sch. 2 para. 87](schedule/2/paragraph/87.md)
+      - [Sch. 2 para. 88](schedule/2/paragraph/88.md)
+      - [Sch. 2 para. 89](schedule/2/paragraph/89.md)
+    - Proceeds of crime and money laundering
+      - [Sch. 2 para. 90](schedule/2/paragraph/90.md)
+      - [Sch. 2 para. 91](schedule/2/paragraph/91.md)
+      - [Sch. 2 para. 92](schedule/2/paragraph/92.md)
+    - Prostitution
+      - [Sch. 2 para. 93](schedule/2/paragraph/93.md)
+    - Public order
+      - [Sch. 2 para. 94](schedule/2/paragraph/94.md)
+      - [Sch. 2 para. 95](schedule/2/paragraph/95.md)
+      - [Sch. 2 para. 95A](schedule/2/paragraph/95A.md)
+    - Road traffic
+      - [Sch. 2 para. 96](schedule/2/paragraph/96.md)
+    - Sexual offences
+      - [Sch. 2 para. 97](schedule/2/paragraph/97.md)
+    - Terrorism
+      - [Sch. 2 para. 98](schedule/2/paragraph/98.md)
+    - Threatening or abusive behaviour
+      - [Sch. 2 para. 99](schedule/2/paragraph/99.md)
+    - Treason
+      - [Sch. 2 para. 99A](schedule/2/paragraph/99A.md)
+      - [Sch. 2 para. 99B](schedule/2/paragraph/99B.md)
+      - [Sch. 2 para. 99C](schedule/2/paragraph/99C.md)
+    - Miscellaneous statutory offences
+      - [Sch. 2 para. 100](schedule/2/paragraph/100.md)
+      - [Sch. 2 para. 101](schedule/2/paragraph/101.md)
+      - [Sch. 2 para. 101A](schedule/2/paragraph/101A.md)
+      - [Sch. 2 para. 102](schedule/2/paragraph/102.md)
+      - [Sch. 2 para. 103](schedule/2/paragraph/103.md)
+      - [Sch. 2 para. 103A](schedule/2/paragraph/103A.md)
+    - Statutory aggravations
+      - [Sch. 2 para. 104](schedule/2/paragraph/104.md)
+      - [Sch. 2 para. 105](schedule/2/paragraph/105.md)
+  - PART 3 Other
+    - Common law aggravations
+      - [Sch. 2 para. 106](schedule/2/paragraph/106.md)
+      - [Sch. 2 para. 107](schedule/2/paragraph/107.md)
+      - [Sch. 2 para. 107A](schedule/2/paragraph/107A.md)
+    - Inchoate offences
+      - [Sch. 2 para. 108](schedule/2/paragraph/108.md)
+      - [Sch. 2 para. 109](schedule/2/paragraph/109.md)
+    - Superseded offences
+      - [Sch. 2 para. 110](schedule/2/paragraph/110.md)
+    - Combined offences
+      - [Sch. 2 para. 111](schedule/2/paragraph/111.md)
+    - Corresponding offences elsewhere in the UK or abroad
+      - [Sch. 2 para. 112](schedule/2/paragraph/112.md)
+- SCHEDULE 3 Schedule to be substituted for Schedule 2 of the PVG Act
+- SCHEDULE 4 Schedule to be substituted for Schedule 3 of the PVG Act
+- SCHEDULE 5 Consequential and minor modifications
+  - PART 1 Modifications of enactments in consequence of Part 1
+    - Caravan Sites and Control of Development Act 1960
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - Rehabilitation of Offenders Act 1974
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Police Act 1997
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Antisocial Behaviour etc. (Scotland) Act 2004
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Protection of Vulnerable Groups (Scotland) Act 2007
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Housing (Scotland) Act 2014
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Age of Criminal Responsibility (Scotland) Act 2019
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - PART 2 Modifications of enactments in consequence of Part 2
+    - Education (Scotland) Act 1980
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Foster Children (Scotland) Act 1984
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Protection of Vulnerable Groups (Scotland) Act 2007
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Age of Criminal Responsibility (Scotland) Act 2019
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - PART 3 Other consequential and minor modifications
+    - Protection of Vulnerable Groups (Scotland) Act 2007
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Children’s Hearings (Scotland) Act 2011
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
