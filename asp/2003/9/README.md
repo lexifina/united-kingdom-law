@@ -1,0 +1,250 @@
+# Title Conditions (Scotland) Act 2003
+
+asp/2003/9. Enacted 2003-04-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2003/9
+
+Source: https://www.legislation.gov.uk/asp/2003/9/2026-04-01
+
+## Contents
+
+- Part 1 Real burdens: general
+  - Meaning and creation
+    - [s. 1 The expression “real burden”](section/1.md)
+    - [s. 2 Affirmative, negative and ancillary burdens](section/2.md)
+    - [s. 3 Other characteristics](section/3.md)
+    - [s. 4 Creation](section/4.md)
+    - [s. 5 Further provision as respects constitutive deed](section/5.md)
+    - [s. 6 Further provision as respects creation](section/6.md)
+  - Duration, enforceability and liability
+    - [s. 7 Duration](section/7.md)
+    - [s. 8 Right to enforce](section/8.md)
+    - [s. 9 Persons against whom burdens are enforceable](section/9.md)
+    - [s. 10 Affirmative burdens: continuing liability of former owner](section/10.md)
+    - [s. 10A Notice of potential liability for costs: further provision](section/10A.md)
+    - [s. 11 Affirmative burdens: shared liability](section/11.md)
+  - Division of benefited or burdened property
+    - [s. 12 Division of a benefited property](section/12.md)
+    - [s. 13 Division of a burdened property](section/13.md)
+  - Construction
+    - [s. 14 Construction](section/14.md)
+  - Extinction
+    - [s. 15 Discharge](section/15.md)
+    - [s. 16 Acquiescence](section/16.md)
+    - [s. 17 Further provision as regards extinction where no interest to enforce](section/17.md)
+    - [s. 18 Negative prescription](section/18.md)
+    - [s. 19 Confusio not to extinguish real burden](section/19.md)
+  - Termination
+    - [s. 20 Notice of termination](section/20.md)
+    - [s. 21 Intimation](section/21.md)
+    - [s. 22 Oath or affirmation before notary public](section/22.md)
+    - [s. 23 Prerequisite certificate for registration of notice of termination](section/23.md)
+    - [s. 24 Effect of registration of notice of termination](section/24.md)
+- Part 2 Community burdens
+  - Meaning, creation etc.
+    - [s. 25 The expression “community burdens”](section/25.md)
+    - [s. 26 Creation of community burdens: supplementary provision](section/26.md)
+    - [s. 27 Effect on units of statement that burdens are community burdens](section/27.md)
+  - Management of community
+    - [s. 28 Power of majority to appoint manager etc.](section/28.md)
+    - [s. 29 Power of majority to instruct common maintenance](section/29.md)
+    - [s. 30 Owners’ decision binding](section/30.md)
+    - [s. 31 Remuneration of manager](section/31.md)
+    - [s. 31A Disapplication of provisions of sections 28, 29 and 31 in certain cases](section/31A.md)
+  - Variation, discharge etc.
+    - [s. 32 The expressions “affected unit” and “adjacent unit”](section/32.md)
+    - [s. 33 Majority etc. variation and discharge of community burdens](section/33.md)
+    - [s. 34 Variation or discharge under section 33: intimation](section/34.md)
+    - [s. 35 Variation and discharge of community burdens by owners of adjacent units](section/35.md)
+    - [s. 36 Variation and discharge under section 35: intimation](section/36.md)
+    - [s. 37 Preservation of community burden in respect of which deed of variation or discharge has been granted as mentioned in section 35(1)](section/37.md)
+- Part 3 Conservation and other personal real burdens
+  - Conservation burdens
+    - [s. 38 Conservation burdens](section/38.md)
+    - [s. 39 Assignation](section/39.md)
+    - [s. 40 Enforcement where no completed title](section/40.md)
+    - [s. 41 Completion of title](section/41.md)
+    - [s. 42 Extinction of burden on body ceasing to be conservation body](section/42.md)
+  - Rural housing burdens
+    - [s. 43 Rural housing burdens](section/43.md)
+  - Maritime burdens
+    - [s. 44 Maritime burdens](section/44.md)
+  - Economic development burdens
+    - [s. 45 Economic development burdens](section/45.md)
+  - Health care burdens
+    - [s. 46 Health care burdens](section/46.md)
+  - Climate change burdens
+    - [s. 46A Climate change burdens](section/46A.md)
+  - General
+    - [s. 47 Interest to enforce](section/47.md)
+    - [s. 48 Discharge](section/48.md)
+- Part 4 Transitional: implied rights of enforcement
+  - Extinction of implied rights of enforcement
+    - [s. 49 Extinction](section/49.md)
+    - [s. 50 Preservation](section/50.md)
+    - [s. 51 Duties of Keeper: amendments relating to unenforceable real burdens](section/51.md)
+  - New implied rights of enforcement
+    - [s. 52 Common schemes: general](section/52.md)
+    - [s. 53 Common schemes: related properties](section/53.md)
+    - [s. 54 Sheltered housing](section/54.md)
+    - [s. 55 Grant of deed of variation or discharge of community burdens relating to sheltered or retirement housing: community consultation notice](section/55.md)
+    - [s. 56 Facility burdens and service burdens](section/56.md)
+    - [s. 57 Further provisions as respects rights of enforcement](section/57.md)
+    - [s. 58 Duty of Keeper to enter on title sheet statement concerning enforcement rights](section/58.md)
+- Part 5 Real burdens: miscellaneous
+  - [s. 59 Effect of extinction etc. on court proceedings](section/59.md)
+  - [s. 60 Grant of deed where title not completed: requirements](section/60.md)
+  - [s. 61 Contractual liability incidental to creation of real burden](section/61.md)
+  - [s. 62 Real burdens of combined type](section/62.md)
+  - [s. 63 Manager burdens](section/63.md)
+  - [s. 64 Overriding power to dismiss and appoint manager](section/64.md)
+  - [s. 65 Manager: transitory provisions](section/65.md)
+  - [s. 66 The expression “related properties”](section/66.md)
+  - [s. 67 Discharge of rights of irritancy](section/67.md)
+  - [s. 68 Requirement for repetition etc. of terms of real burden in future deed](section/68.md)
+  - [s. 69 Further provision as respects deeds of variation and of discharge](section/69.md)
+  - [s. 70 Duty to disclose identity of owner](section/70.md)
+- Part 6 Development management scheme
+  - [s. 71 Development management scheme](section/71.md)
+  - [s. 72 Application of other provisions of this Act to rules of scheme](section/72.md)
+  - [s. 73 Disapplication](section/73.md)
+  - [s. 74 Intimation of proposal to register deed of disapplication](section/74.md)
+- Part 7 Servitudes
+  - Positive servitudes
+    - [s. 75 Creation of positive servitude by writing: deed to be registered](section/75.md)
+    - [s. 76 Disapplication of requirement that positive servitude created in writing be of a known type](section/76.md)
+    - [s. 77 Positive servitude of leading pipes etc. over or under land](section/77.md)
+    - [s. 78 Discharge of positive servitude](section/78.md)
+  - Negative servitudes
+    - [s. 79 Prohibition on creation of negative servitude](section/79.md)
+  - Transitional
+    - [s. 80 Negative servitudes to become real burdens](section/80.md)
+    - [s. 81 Certain real burdens to become positive servitudes](section/81.md)
+- Part 8 Pre-emption and reversion
+  - Pre-emption
+    - [s. 82 Application and interpretation of sections 83 and 84](section/82.md)
+    - [s. 83 Extinction following pre-sale undertaking](section/83.md)
+    - [s. 84 Extinction following offer to sell](section/84.md)
+    - [s. 85 Ending of council’s right of pre-emption as respects certain churches](section/85.md)
+  - Reversion
+    - [s. 86 Reversions under School Sites Act 1841](section/86.md)
+    - [s. 87 Right to petition under section 7 of Entail Sites Act 1840](section/87.md)
+    - [s. 88 Prescriptive period for obligations arising by virtue of 1841 Act or 1840 Act](section/88.md)
+    - [s. 89 Repeal of Reversion Act 1469](section/89.md)
+- Part 9 Title conditions: powers of Lands Tribunal
+  - [s. 90 Powers of Lands Tribunal as respects title conditions](section/90.md)
+  - [s. 91 Special provision as to variation or discharge of community burdens](section/91.md)
+  - [s. 92 Early application for discharge: restrictive provisions](section/92.md)
+  - [s. 93 Notification of application](section/93.md)
+  - [s. 94 Content of notice](section/94.md)
+  - [s. 95 Persons entitled to make representations](section/95.md)
+  - [s. 96 Representations](section/96.md)
+  - [s. 97 Granting unopposed application for discharge or renewal of real burden](section/97.md)
+  - [s. 98 Granting other applications for variation, discharge, renewal or preservation of title condition](section/98.md)
+  - [s. 99 Granting applications as respects development management schemes](section/99.md)
+  - [s. 100 Factors to which the Lands Tribunal are to have regard in determining applications etc.](section/100.md)
+  - [s. 101 Regulation of applications to Lands Tribunal](section/101.md)
+  - [s. 102 Referral to Lands Tribunal of notice dispute](section/102.md)
+  - [s. 103 Expenses](section/103.md)
+  - [s. 104 Taking effect of orders of Lands Tribunal etc.](section/104.md)
+- Part 10 Miscellaneous
+  - Consequential alterations to Land Register
+    - [s. 105 Alterations to Land Register consequential upon registering certain deeds](section/105.md)
+  - Compulsory acquisition of land
+    - [s. 106 Extinction of real burdens and servitudes etc. on compulsory acquisition of land](section/106.md)
+    - [s. 107 Extinction of real burdens and servitudes etc. where land acquired by agreement](section/107.md)
+  - Amendments
+    - [s. 108 Amendment of Church of Scotland (Property and Endowments) (Amendment) Act 1933](section/108.md)
+    - [s. 109 Amendment of Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947](section/109.md)
+    - [s. 110 Amendment of Forestry Act 1967](section/110.md)
+    - [s. 111 Amendment of Conveyancing and Feudal Reform (Scotland) Act 1970](section/111.md)
+    - [s. 112 Amendment of Land Registration (Scotland) Act 1979](section/112.md)
+    - [s. 113 Amendment of Enterprise and New Towns (Scotland) Act 1990](section/113.md)
+    - [s. 114 Amendment of Abolition of Feudal Tenure etc. (Scotland) Act 2000](section/114.md)
+  - Miscellaneous
+    - [s. 115 Further provision as respects notices of preservation or of converted servitude](section/115.md)
+    - [s. 116 Benefited property outwith Scotland](section/116.md)
+    - [s. 117 Pecuniary real burdens](section/117.md)
+    - [s. 118 Common interest](section/118.md)
+- Part 11 Savings, transitional and general
+  - Savings and transitional provisions etc.
+    - [s. 119 Savings and transitional provisions etc.](section/119.md)
+  - General
+    - [s. 120 Requirement for dual registration](section/120.md)
+    - [s. 121 Crown application](section/121.md)
+    - [s. 122 Interpretation](section/122.md)
+    - [s. 123 The expression “owner”](section/123.md)
+    - [s. 124 Sending](section/124.md)
+    - [s. 125 References to distance](section/125.md)
+    - [s. 126 Fees chargeable by Lands Tribunal in relation to functions under this Act](section/126.md)
+    - [s. 127 Orders, regulations and rules](section/127.md)
+    - [s. 128 Minor and consequential amendments, repeals and power to amend forms](section/128.md)
+    - [s. 129 Short title and commencement](section/129.md)
+- SCHEDULE 1 Form importing terms of title conditions
+- SCHEDULE 1A Form of notice of potential liability for costs
+  - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+- SCHEDULE 2 Form of notice of termination
+  - [Sch. 2 para.](schedule/2/paragraph.md)
+- SCHEDULE 3 Form of affixed notice relating to termination
+  - [Sch. 3 para.](schedule/3/paragraph.md)
+- SCHEDULE 4 Form of notice of proposal to register deed of variation or discharge
+  - [Sch. 4 para.](schedule/4/paragraph.md)
+- SCHEDULE 5 Further form of notice of proposal to register deed of variation or discharge of community burden: sent version
+  - [Sch. 5 para.](schedule/5/paragraph.md)
+- SCHEDULE 6 Further form of notice of proposal to register deed of variation or discharge of community burden: affixed version
+  - [Sch. 6 para.](schedule/6/paragraph.md)
+- SCHEDULE 7 Form of notice of preservation
+  - [Sch. 7 para.](schedule/7/paragraph.md)
+- SCHEDULE 8 Community consultation notice
+  - [Sch. 8 para.](schedule/8/paragraph.md)
+- SCHEDULE 9 Form of notice of converted servitude
+  - [Sch. 9 para.](schedule/9/paragraph.md)
+- SCHEDULE 10 Form of undertaking
+  - [Sch. 10 para.](schedule/10/paragraph.md)
+- SCHEDULE 11 Title conditions not subject to discharge by Lands Tribunal
+  - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+- SCHEDULE 12 Form of application for relevant certificate
+  - [Sch. 12 para.](schedule/12/paragraph.md)
+- SCHEDULE 13 Amendment of Abolition of Feudal Tenure etc. (Scotland) Act 2000
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+  - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+  - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+  - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+- SCHEDULE 14 Minor and consequential amendments
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+  - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+- SCHEDULE 15 Repeals
