@@ -1,0 +1,318 @@
+# Protection of Vulnerable Groups (Scotland) Act 2007
+
+asp/2007/14. Enacted 2007-04-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2007/14
+
+Source: https://www.legislation.gov.uk/asp/2007/14/2026-04-01
+
+## Contents
+
+- Part 1 The lists
+  - Duty to keep lists
+    - [s. 1 Duty of Scottish Ministers to keep lists](section/1.md)
+  - Referrals
+    - [s. 2 Referral ground](section/2.md)
+    - [s. 3 Reference following disciplinary action etc.](section/3.md)
+    - [s. 4 Reference by employment agency](section/4.md)
+    - [s. 5 Reference by employment business](section/5.md)
+    - [s. 6 Reference relating to matters occurring before provisions come into force](section/6.md)
+    - [s. 6A Reference by chief constable](section/6A.md)
+    - [s. 7 Reference by court](section/7.md)
+    - [s. 8 Reference by certain other persons](section/8.md)
+    - [s. 9 Failure to refer: offence](section/9.md)
+  - Consideration whether to list
+    - [s. 10 Consideration whether to list: organisational referrals etc.](section/10.md)
+    - [s. 11 Consideration whether to list: court referrals](section/11.md)
+    - [s. 12 Consideration whether to list: vetting information etc.](section/12.md)
+    - [s. 13 Consideration whether to list: inquiries](section/13.md)
+  - Inclusion in list
+    - [s. 14 Automatic listing](section/14.md)
+    - [s. 15 Inclusion in children’s list after consideration](section/15.md)
+    - [s. 16 Inclusion in adults’ list after consideration](section/16.md)
+  - Information relevant to listing decisions
+    - [s. 17 Information relevant to listing decisions](section/17.md)
+    - [s. 18 Police information etc.](section/18.md)
+    - [s. 19 Information held by public bodies etc.](section/19.md)
+    - [s. 20 Information held by providers of regulated roles](section/20.md)
+  - Appeals against listing
+    - [s. 21 Appeals against inclusion in children’s list](section/21.md)
+    - [s. 22 Appeals against inclusion in adults’ list](section/22.md)
+    - [s. 23 Further appeals in relation to inclusion in either list](section/23.md)
+    - [s. 24 Appeals in relation to listing: supplementary](section/24.md)
+  - Removal from list
+    - [s. 25 Application for removal from list](section/25.md)
+    - [s. 26 Determination of application for removal from list](section/26.md)
+    - [s. 27 Appeals against refusal to remove individual from list](section/27.md)
+    - [s. 28 Late representations](section/28.md)
+    - [s. 29 Removal from list](section/29.md)
+  - Appeals and removals: information powers
+    - [s. 29A Appeals and removals: application of sections 18 to 20](section/29A.md)
+  - Listing: supplementary
+    - [s. 30 Notice of listing etc.](section/30.md)
+    - [s. 30A Notification of health regulatory bodies etc.](section/30A.md)
+    - [s. 31 Relevant inquiries](section/31.md)
+    - [s. 32 Individual not criminally responsible or unfit for trial: order treated as conviction](section/32.md)
+    - [s. 33 Duty to notify certain changes](section/33.md)
+  - Offences relating to regulated roles
+    - [s. 34 Barred individuals not to carry out regulated roles](section/34.md)
+    - [s. 35 Organisations not to use barred individuals for regulated roles](section/35.md)
+    - [s. 36 Personnel suppliers not to supply barred individuals for regulated roles](section/36.md)
+    - [s. 37 Penalties for offences relating to regulated roles](section/37.md)
+    - [s. 37A Offences outside Scotland](section/37A.md)
+  - General and supplementary
+    - [s. 38 Police access to lists](section/38.md)
+    - [s. 39 Restrictions on listing in children’s list](section/39.md)
+    - [s. 40 Restrictions on listing in adults’ list](section/40.md)
+    - [s. 41 Protection from actions for damages](section/41.md)
+    - [s. 42 Power to regulate procedure etc.](section/42.md)
+    - [s. 43 Transfer from 2003 Act list](section/43.md)
+- Part 2 Vetting and disclosure
+  - The Scheme
+    - [s. 44 The Scheme](section/44.md)
+    - [s. 45 Participation in Scheme](section/45.md)
+    - [s. 45A Duration of Scheme membership](section/45A.md)
+    - [s. 45B Failure to apply for renewal of Scheme membership](section/45B.md)
+    - [s. 45C Individuals must be scheme members to carry out regulated roles](section/45C.md)
+    - [s. 45D Organisations not to use individuals for regulated roles without confirming scheme membership](section/45D.md)
+    - [s. 45E Power to require organisations to stop using individuals for regulated roles without scheme membership](section/45E.md)
+    - [s. 45F Personnel suppliers not to supply individuals for regulated roles without confirming scheme membership](section/45F.md)
+    - [s. 45G Penalties for offences relating to regulated roles by individuals not in Scheme](section/45G.md)
+    - [s. 47H Offences outside Scotland](section/47H.md)
+    - [s. 46 Confirmation of scheme membership](section/46.md)
+    - [s. 46A Notice of barred status](section/46A.md)
+  - Vetting information
+    - [s. 47 Enquiries about scheme members](section/47.md)
+    - [s. 48 Scheme record](section/48.md)
+    - [s. 49 Vetting information](section/49.md)
+    - [s. 50 Duty to notify certain changes](section/50.md)
+    - [s. 51 Correction of inaccurate scheme record](section/51.md)
+    - [s. 52ZA Procedure following correction of inaccurate scheme record](section/52ZA.md)
+  - Disclosure
+    - [s. 52 Disclosure of scheme records](section/52.md)
+    - [s. 52A Review of vetting information in scheme record](section/52A.md)
+    - [s. 53 Disclosure of short scheme records](section/53.md)
+    - [s. 54 Provision of confirmation of scheme membership to third parties](section/54.md)
+    - [s. 55 Disclosure conditions](section/55.md)
+    - [s. 56 Crown work](section/56.md)
+    - [s. 57 Disclosure restrictions](section/57.md)
+    - [s. 57A Meaning of “conviction” and “protected conviction”](section/57A.md)
+  - Removal from scheme
+    - [s. 58 Removal from scheme](section/58.md)
+    - [s. 59 Withdrawal from scheme](section/59.md)
+    - [s. 59A Withdrawal from Scheme when under consideration for listing](section/59A.md)
+    - [s. 60 Notice of removal](section/60.md)
+    - [s. 61 Retention of scheme records after removal](section/61.md)
+  - Evidence of identity
+    - [s. 62 Evidence of identity](section/62.md)
+    - [s. 63 Power to use fingerprints to check applicant’s identity](section/63.md)
+    - [s. 64 Power to use personal data to check applicant’s identity](section/64.md)
+  - Offences relating to confirmation of scheme membership
+    - [s. 65 Falsification of confirmation of scheme membership](section/65.md)
+    - [s. 66 Unlawful disclosure of confirmation of scheme membership](section/66.md)
+    - [s. 67 Unlawful requests for and use of confirmation of scheme membership](section/67.md)
+    - [s. 68 Unlawful disclosure etc.: supplementary](section/68.md)
+    - [s. 69 Penalties for offences relating to confirmation of scheme membership](section/69.md)
+  - Fees, forms and other procedures
+    - [s. 70 Fees](section/70.md)
+    - [s. 71 Forms](section/71.md)
+    - [s. 72 Procedure](section/72.md)
+  - Supplementary
+    - [s. 73 Consideration of suitability](section/73.md)
+    - [s. 74 Delegation of vetting and disclosure functions](section/74.md)
+    - [s. 75 Sources of information](section/75.md)
+    - [s. 76 Police access to scheme information](section/76.md)
+    - [s. 77 Disclosure of whether an individual is under consideration for listing](section/77.md)
+- Part 3 Amendment of Part 5 of the Police Act 1997
+  - [s. 78 Information in criminal conviction and record certificates](section/78.md)
+  - [s. 79 Form of Part 5 applications](section/79.md)
+  - [s. 80 Payment of fee for information from certain police forces](section/80.md)
+  - [s. 81 Regulations about registration](section/81.md)
+- Part 4 School care accommodation services
+  - [s. 82 Meaning of “school care accommodation service”](section/82.md)
+  - [s. 83 Application of fire safety rules to school care accommodation service](section/83.md)
+- Part 5 Supplementary and general
+  - [s. 84 Guidance](section/84.md)
+  - [s. 84A Guidance for chief constable](section/84A.md)
+  - [s. 85 Annual report](section/85.md)
+  - [s. 86 Transfer of Disclosure Scotland staff etc.](section/86.md)
+  - [s. 87 Power to give effect to corresponding legislation in England, Wales and Northern Ireland](section/87.md)
+  - [s. 88 Modification of enactments](section/88.md)
+  - [s. 89 Offences by bodies corporate etc.](section/89.md)
+  - [s. 90 Crown application](section/90.md)
+- Part 6 Interpretation
+  - [s. 91 Regulated roles](section/91.md)
+  - [s. 92 Individuals barred from regulated roles](section/92.md)
+  - [s. 93 Meaning of “harm”](section/93.md)
+  - [s. 94 Meaning of “protected adult”](section/94.md)
+  - [s. 95 Meaning of “work”](section/95.md)
+  - [s. 96 Fostering](section/96.md)
+  - [s. 97 General interpretation](section/97.md)
+- Part 7 Final provisions
+  - [s. 98 Ancillary provision](section/98.md)
+  - [s. 99 Saving: disclosure of information](section/99.md)
+  - [s. 100 Orders and regulations](section/100.md)
+  - [s. 101 Commencement](section/101.md)
+  - [s. 102 Short title](section/102.md)
+- SCHEDULE 1 Relevant offences
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+- SCHEDULE 2 Regulated roles with children
+  - PART 1 Preliminary
+    - Regulated roles with children
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Exceptions to regulated roles with children
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Definitions in relation to contact with children
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 2 Activities
+    - Child protection
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Education and training
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Childcare
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Care, health and accommodation services
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+      - [Sch. 2 para. 13A](schedule/2/paragraph/13A.md)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+      - [Sch. 2 para. 14A](schedule/2/paragraph/14A.md)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Leisure activities
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Sports activities
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Religious activities
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Miscellaneous
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Interpretation
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+  - PART 3 General
+    - Power to amend schedule
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+- SCHEDULE 3 Regulated roles with adults
+  - PART 1 Preliminary
+    - Regulated roles with adults
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Exceptions to regulated roles with adults
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Definition of contact with protected adults
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - PART 2 Activities
+    - Education, training and guidance
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Care, health and accommodation services
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+      - [Sch. 3 para. 6A](schedule/3/paragraph/6A.md)
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+      - [Sch. 3 para. 7A](schedule/3/paragraph/7A.md)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 13A](schedule/3/paragraph/13A.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 14A](schedule/3/paragraph/14A.md)
+      - [Sch. 3 para. 14B](schedule/3/paragraph/14B.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Leisure activities
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Sports activities
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Religious activities
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Miscellaneous
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+    - Interpretation
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+  - PART 3 General
+    - Power to amend schedule
+      - [Sch. 3 para. 25](schedule/3/paragraph/25.md)
+      - [Sch. 3 para. 26](schedule/3/paragraph/26.md)
+- SCHEDULE 4 Minor and consequential amendments and repeals
+  - Teaching Council (Scotland) Act 1965 (c. 19)
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Foster Children (Scotland) Act 1984 (c. 56)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - Protection of Children (Scotland) Act 2003 (asp 5)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+  - Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+  - Charities and Trustee Investment (Scotland) Act 2005 (asp 10)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+  - Inquiries Act 2005 (c. 12)
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+  - Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+- SCHEDULE 5 Index
