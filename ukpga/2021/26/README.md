@@ -2,9 +2,11 @@
 
 2021 c. 26. Enacted 2021-06-10.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-31, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2021-03-09, are in the history before it: `git log -- ukpga/2021/26` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-03-31
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2021/26
+
+Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-04-01
 
 ## Contents
 
@@ -739,6 +741,8 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-03-31
       - [Sch. 24 para. 5](schedule/24/paragraph/5.md)
     - Award of penalty points
       - [Sch. 24 para. 6](schedule/24/paragraph/6.md)
+    - Cancellation of individual penalty points
+      - [Sch. 24 para. 6A](schedule/24/paragraph/6A.md)
     - Expiry of individual penalty points
       - [Sch. 24 para. 7](schedule/24/paragraph/7.md)
     - Expiry of all penalty points for a group of returns
@@ -755,6 +759,8 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-03-31
       - [Sch. 24 para. 15](schedule/24/paragraph/15.md)
     - Assessments
       - [Sch. 24 para. 16](schedule/24/paragraph/16.md)
+    - Withdrawal of assessments
+      - [Sch. 24 para. 16A](schedule/24/paragraph/16A.md)
     - Time limit for assessments
       - [Sch. 24 para. 17](schedule/24/paragraph/17.md)
     - Power to amend figures by regulations
@@ -853,6 +859,7 @@ Source: https://www.legislation.gov.uk/ukpga/2021/26/2026-03-31
     - Assessments
       - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
       - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+      - [Sch. 26 para. 17A](schedule/26/paragraph/17A.md)
     - Time limit for assessments
       - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
     - Appeals
