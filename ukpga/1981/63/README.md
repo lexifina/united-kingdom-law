@@ -1,0 +1,290 @@
+# Betting and Gaming Duties Act 1981
+
+1981 c. 63. Enacted 1981-10-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 5 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1981/63
+
+Source: https://www.legislation.gov.uk/ukpga/1981/63/2026-04-01
+
+## Contents
+
+- Part I Betting Duties
+  - General betting duty
+    - [s. 1 The duty](section/1.md)
+    - [s. 2 Bookmakers: general bets](section/2.md)
+    - [s. 3 Bookmakers: spread bets](section/3.md)
+    - [s. 4 Pool betting on horse and dog races](section/4.md)
+    - [s. 5 Net stake receipts](section/5.md)
+    - [s. 5AA Relief for losses](section/5AA.md)
+    - [s. 5AB Betting exchanges](section/5AB.md)
+    - [s. 5A ................................](section/5A.md)
+    - [s. 5B Liability to pay](section/5B.md)
+    - [s. 5C Bet-brokers](section/5C.md)
+    - [s. 5D Accounting period](section/5D.md)
+    - [s. 5E Double taxation relief](section/5E.md)
+  - Pool betting duty
+    - [s. 6 The duty](section/6.md)
+    - [s. 7 Duty charged on net pool betting receipts](section/7.md)
+    - [s. 7ZA Relief for losses](section/7ZA.md)
+    - [s. 7A Calculating net pool betting receipts](section/7A.md)
+    - [s. 7B Net pool betting receipts: meaning of “dutiable pool bet”](section/7B.md)
+    - [s. 7C Net pool betting receipts: calculating stake money](section/7C.md)
+    - [s. 7D Net pool betting receipts: when stakes etc fall due](section/7D.md)
+    - [s. 7E Net pool betting receipts: expenses and profits](section/7E.md)
+    - [s. 7F Net pool betting receipts: calculating winnings](section/7F.md)
+    - [s. 8 Payment and recovery](section/8.md)
+    - [s. 8ZA Double taxation relief](section/8ZA.md)
+    - [s. 8A Meaning of “bet made for community benefit" in sections 6 to 8](section/8A.md)
+    - [s. 8B Meaning of “accounting period" in sections 6 to 8](section/8B.md)
+    - [s. 8C Meaning of “bet" in sections 6 to 8A](section/8C.md)
+  - General
+    - [s. 9 Prohibitions for protection of revenue.](section/9.md)
+    - [s. 9A Further prohibitions for protection of revenue: overseas bet-brokers](section/9A.md)
+    - [s. 9B Offences under sections 9 and 9A: penalties](section/9B.md)
+    - [s. 10 Definition of pool betting.](section/10.md)
+    - [s. 10A Definition of qualifying foreign tax](section/10A.md)
+    - [s. 11 Definition of coupon betting.](section/11.md)
+    - [s. 12 Supplementary provisions.](section/12.md)
+- Part II Gaming Duties
+  - Gaming licence duty
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+  - ...
+    - [s. 17 Bingo duty](section/17.md)
+    - [s. 18 Accounting period](section/18.md)
+    - [s. 19 Bingo receipts](section/19.md)
+    - [s. 20 Expenditure on bingo winnings](section/20.md)
+    - [s. 20A Combined bingo](section/20A.md)
+    - [s. 20B Carrying losses forward](section/20B.md)
+    - [s. 20C Supplementary](section/20C.md)
+  - Gaming machine licence duty
+    - [s. 21 Gaming machine licence duty.](section/21.md)
+    - [s. 21A ................................](section/21A.md)
+    - [s. 22 Gaming machine licence duty.](section/22.md)
+    - [s. 23 Amount of duty.](section/23.md)
+    - [s. 24 Restrictions on provision of gaming machines.](section/24.md)
+    - [s. 24A Unlicensed machines: duty chargeable.](section/24A.md)
+    - [s. 25 Meaning of “gaming machine”.](section/25.md)
+    - [s. 25A Power to modify definition of “amusement machine”.](section/25A.md)
+    - [s. 26 Supplementary provisions as to gaming machine licence duty.](section/26.md)
+  - Remote gaming duty
+    - [s. 26A Interpretation](section/26A.md)
+    - [s. 26B The duty](section/26B.md)
+    - [s. 26C The rate](section/26C.md)
+    - [s. 26D Accounting periods](section/26D.md)
+    - [s. 26E Remote gaming receipts](section/26E.md)
+    - [s. 26F Remote gaming winnings](section/26F.md)
+    - [s. 26G Losses](section/26G.md)
+    - [s. 26H Exemptions](section/26H.md)
+    - [s. 26I Liability to pay](section/26I.md)
+    - [s. 26IA Double taxation relief](section/26IA.md)
+    - [s. 26IB Definition of qualifying foreign tax](section/26IB.md)
+    - [s. 26IC Regulations about claims for double taxation relief](section/26IC.md)
+    - [s. 26J Registration](section/26J.md)
+    - [s. 26K Returns](section/26K.md)
+    - [s. 26L Enforcement](section/26L.md)
+    - [s. 26M Review and appeal](section/26M.md)
+  - General
+    - [s. 26N Amounts in currencies other than sterling](section/26N.md)
+- Part III General
+  - [s. 27 Offences by bodies corporate.](section/27.md)
+  - [s. 28 ................................](section/28.md)
+  - [s. 29 ................................](section/29.md)
+  - [s. 29A Evidence by certificate, etc.](section/29A.md)
+  - [s. 30 ................................](section/30.md)
+  - [s. 31 Protection of officers.](section/31.md)
+  - [s. 32 Orders and regulations.](section/32.md)
+  - [s. 32A Application to limited liability partnerships](section/32A.md)
+  - [s. 33 Interpretation.](section/33.md)
+  - [s. 34 Consequential and transitional provisions and repeals.](section/34.md)
+  - [s. 35 Short title, construction, commencement and extent.](section/35.md)
+- SCHEDULE A1 Betting duties: double taxation relief
+  - Introduction
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Definitions
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Credit allowed
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Notional UK liability
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Notional foreign liability
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Clawback
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - Breach of return obligations
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - Reduction etc in foreign tax paid
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+- SCHEDULE 1 Betting duties
+  - Definitions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - General administration
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Notification to Commissioners as to carrying on of betting business
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Requirement of permit for carrying on pool betting business
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Books, records, accounts, et ceteralaetc.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Powers to enter premises and obtain information
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Power of Commissioners to estimate general betting duty payable
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Disputes as to computation of pool betting duty
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Enforcement
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+- SCHEDULE 2 Gaming Licence Duty
+  - Application for and duration of licence
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Charge of duty in respect of short licence periods
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Regulations
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Inspection of premises
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Power to estimate duty
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Persons from whom duty recoverable
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Enforcement
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Co-operation with Gaming Board
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Modification of agreements
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Bingo Duty
+  - Part I Exemption from Duty
+    - Domestic bingo
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Small-scale bingo
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+      - [Sch. 3 para. 2A](schedule/3/paragraph/2A.md)
+    - Non-profit making bingo
+      - [Sch. 3 para. 2B](schedule/3/paragraph/2B.md)
+    - Small-scale amusements provided commercially
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Machine bingo
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Power to increase limits of exemptions
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Supplementary Provisions
+    - Definitions
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - General administration
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Notification to Commissioners by, and registration of, bingo-promoters
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Announcement of prizes
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Books, records, accounts, etc.
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Powers to enter premises and obtain information
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Power to estimate duty
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Disputes as to computation of duty
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+    - Enforcement
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+- SCHEDULE 4 Amusement Machine Licence duty
+  - Part I Exemptions from requirement of Excise Licence
+    - Charitable entertainments, et ceteralaetc.
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Pleasure fairs
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Seasonal licences
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Part II Supplementary provisions
+    - General administration
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Applications for and duration of licence
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Payment of duty by instalments
+      - [Sch. 4 para. 7A](schedule/4/paragraph/7A.md)
+    - Transfer of licence
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Amendment of licence
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Surrender of licence
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Reduction of duty in certain cases
+      - [Sch. 4 para. 11A](schedule/4/paragraph/11A.md)
+    - Requirements to be observed by licence-holder
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Power to enter premises and obtain information
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Registers of permits, et ceteralaetc.
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Enforcement
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- Schedule 4A Unlicensed amusement machines
+  - Application
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Default notice requesting production of licence
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Failure to produce a licence: grant of default licence
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Assessment of amount equivalent to duty
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - Liability to pay
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Reviews and time limits on recovery
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - General interpretation
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - Saving for liability
+    - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+- SCHEDULE 4B Remote gaming duty: double taxation relief
+  - Introduction
+    - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+  - Reconciliation periods
+    - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+  - Credit allowed
+    - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+  - Notional UK liability
+    - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+  - Notional foreign liability
+    - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+  - Clawback
+    - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+  - Breach of return obligations
+    - [Sch. 4B para. 7](schedule/4B/paragraph/7.md)
+  - Reduction etc in foreign tax paid
+    - [Sch. 4B para. 8](schedule/4B/paragraph/8.md)
+- SCHEDULE 5 Consequential Amendments
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Transitional Provisions and Savings
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+- SCHEDULE 7 Repeals
