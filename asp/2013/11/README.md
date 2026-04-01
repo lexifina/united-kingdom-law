@@ -1,0 +1,1009 @@
+# Land and Buildings Transaction Tax (Scotland) Act 2013
+
+asp/2013/11. Enacted 2013-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2013/11/2026-04-01
+
+## Contents
+
+- PART 1 Land and buildings transaction tax
+  - [s. 1 The tax](section/1.md)
+  - [s. 2 Overview](section/2.md)
+- PART 2 Key concepts
+  - CHAPTER 1 Land transactions and chargeable interests
+    - Land transaction
+      - [s. 3 Land transaction](section/3.md)
+    - Chargeable interest
+      - [s. 4 Chargeable interest](section/4.md)
+      - [s. 5 Exempt interest](section/5.md)
+    - Acquisition and disposal of chargeable interest
+      - [s. 6 Acquisition and disposal of chargeable interest](section/6.md)
+      - [s. 7 Buyer and seller](section/7.md)
+  - CHAPTER 2 Provision about particular transactions
+    - General rules for contracts requiring conveyance
+      - [s. 8 Contract and conveyance](section/8.md)
+      - [s. 9 Completion without substantial performance](section/9.md)
+      - [s. 10 Substantial performance without completion](section/10.md)
+    - Contract providing for conveyance to third party
+      - [s. 11 Contract providing for conveyance to third party](section/11.md)
+    - Options etc.
+      - [s. 12 Options and rights of pre-emption](section/12.md)
+    - Exchanges
+      - [s. 13 Exchanges](section/13.md)
+    - Interpretation
+      - [s. 14 Meaning of “substantial performance”](section/14.md)
+  - CHAPTER 3 Chargeable transactions and chargeable consideration
+    - Chargeable transaction
+      - [s. 15 Chargeable transaction](section/15.md)
+      - [s. 16 Exempt transaction](section/16.md)
+    - Chargeable consideration
+      - [s. 17 Chargeable consideration](section/17.md)
+    - Contingent, uncertain or unascertained consideration
+      - [s. 18 Contingent consideration](section/18.md)
+      - [s. 19 Uncertain or unascertained consideration](section/19.md)
+      - [s. 20 Contingent, uncertain or unascertained consideration: further provision](section/20.md)
+    - Annuities etc.
+      - [s. 21 Annuities etc.: chargeable consideration limited to 12 years’ payments](section/21.md)
+    - Deemed market value
+      - [s. 22 Deemed market value where transaction involves connected company](section/22.md)
+      - [s. 23 Exceptions from deemed market value](section/23.md)
+- PART 3 Calculation of tax and reliefs
+  - Amount of tax chargeable
+    - [s. 24 Tax rates and tax bands](section/24.md)
+    - [s. 25 Amount of tax chargeable](section/25.md)
+    - [s. 26 Amount of tax chargeable: linked transactions](section/26.md)
+    - [s. 26A Additional amount: transactions relating to second homes etc.](section/26A.md)
+  - Reliefs
+    - [s. 27 Reliefs](section/27.md)
+  - Liability for tax
+    - [s. 28 Liability for tax](section/28.md)
+- PART 4 Returns and payment
+  - CHAPTER 1 Returns
+    - Duty to make return
+      - [s. 29 Duty to make return](section/29.md)
+    - Notifiable transactions
+      - [s. 30 Notifiable transactions](section/30.md)
+    - Adjustments and further returns
+      - [s. 31 Return where contingency ceases or consideration ascertained](section/31.md)
+      - [s. 32 Contingency ceases or consideration ascertained: less tax payable](section/32.md)
+      - [s. 33 Further return where relief withdrawn](section/33.md)
+      - [s. 34 Return or further return in consequence of later linked transaction](section/34.md)
+    - Returns: form and content etc.
+      - [s. 35 Form and content](section/35.md)
+      - [s. 36 Declaration](section/36.md)
+      - [s. 37 Amendment](section/37.md)
+      - [s. 37A Communications from taxpayers to the Tax Authority](section/37A.md)
+    - Miscellaneous
+      - [s. 38 Interpretation](section/38.md)
+      - [s. 39 Power to amend period in which returns must be made](section/39.md)
+  - CHAPTER 2 Payment of tax
+    - [s. 40 Payment of tax](section/40.md)
+    - [s. 41 Application to defer payment in case of contingent or uncertain consideration](section/41.md)
+    - [s. 42 Regulations about applications under section 41](section/42.md)
+  - CHAPTER 3 Registration of land transactions etc.
+    - [s. 43 Return to be made and tax paid before application for registration](section/43.md)
+- PART 5 Application of act to certain persons and bodies
+  - [s. 44 Companies and other organisations](section/44.md)
+  - [s. 45 Unit trust schemes](section/45.md)
+  - [s. 46 Open-ended investment companies](section/46.md)
+  - [s. 47 Residential property holding companies](section/47.md)
+  - [s. 48 Joint buyers](section/48.md)
+  - [s. 49 Partnerships](section/49.md)
+  - [s. 50 Trusts](section/50.md)
+  - [s. 51 Persons acting in a representative capacity etc.](section/51.md)
+- PART 6 Application of Act to leases and licences
+  - Leases
+    - [s. 52 Application of this Act to leases](section/52.md)
+  - Licences
+    - [s. 53 Application of this Act to licences](section/53.md)
+- PART 7 General and interpretation
+  - The Tax Authority
+    - [s. 54 The Tax Authority](section/54.md)
+    - [s. 55 Delegation of functions to Keeper](section/55.md)
+    - [s. 56 Review and appeal](section/56.md)
+  - Linked transactions
+    - [s. 57 Linked transactions](section/57.md)
+  - Connected persons
+    - [s. 58 Connected persons](section/58.md)
+  - Interpretation
+    - [s. 59 Meaning of “residential property”](section/59.md)
+    - [s. 60 Meaning of “major interest” in land](section/60.md)
+    - [s. 61 Meaning of “subject-matter” and “main subject-matter”](section/61.md)
+    - [s. 62 Meaning of “market value”](section/62.md)
+    - [s. 63 Meaning of “effective date” of a transaction](section/63.md)
+    - [s. 64 Meaning of “completion”](section/64.md)
+    - [s. 65 General interpretation](section/65.md)
+    - [s. 66 Index of defined expressions](section/66.md)
+- PART 8 Final provisions
+  - Ancillary provision
+    - [s. 67 Ancillary provision](section/67.md)
+  - Subordinate legislation
+    - [s. 68 Subordinate legislation](section/68.md)
+  - Crown application
+    - [s. 69 Crown application](section/69.md)
+  - Commencement and short title
+    - [s. 70 Commencement](section/70.md)
+    - [s. 71 Short title](section/71.md)
+- SCHEDULE 1 Exempt transactions
+  - No chargeable consideration
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Acquisitions by the Crown
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Residential leases and licences
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Transactions in connection with divorce etc.
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Transactions in connection with dissolution of civil partnership etc.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Assents and appropriations by personal representatives
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Variation of testamentary dispositions etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 7A](schedule/1/paragraph/7A.md)
+  - Power to add, vary or remove exemptions
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Chargeable consideration
+  - Money or money’s worth
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Value added tax
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Postponed consideration
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Just and reasonable apportionment
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Exchanges
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Partition etc.: disregard of existing interest
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Valuation of non-monetary consideration
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Debt as consideration
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Cases where conditions for exemption not fully met
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Conversion of amounts in foreign currency
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Carrying out of works
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Provision of services
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Land transaction entered into by reason of employment
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Indemnity given by buyer
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Buyer bearing inheritance tax liability
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Buyer bearing capital gains tax liability
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Arrangements involving public or educational bodies
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 2A ADDITIONAL AMOUNT: TRANSACTIONS RELATING TO SECOND HOMES ETC.
+  - PART 1 OVERVIEW
+    - Overview
+      - [Sch. 2A para. 1](schedule/2A/paragraph/1.md)
+  - PART 2 TRANSACTIONS TO WHICH THIS SCHEDULE APPLIES
+    - Transactions relating to second homes etc.
+      - [Sch. 2A para. 2](schedule/2A/paragraph/2.md)
+    - Transactions where buyer is a non-individual etc.
+      - [Sch. 2A para. 3](schedule/2A/paragraph/3.md)
+  - PART 3 THE ADDITIONAL AMOUNT
+    - Additional amount
+      - [Sch. 2A para. 4](schedule/2A/paragraph/4.md)
+  - PART 4 CERTAIN TYPES OF BUYER
+    - Joint buyers
+      - [Sch. 2A para. 5](schedule/2A/paragraph/5.md)
+    - Spouses, civil partners, cohabitants and children
+      - [Sch. 2A para. 6](schedule/2A/paragraph/6.md)
+    - Trustees in certain trusts
+      - [Sch. 2A para. 7](schedule/2A/paragraph/7.md)
+  - PART 5 REPAYMENT OF AND RELIEF FROM THE ADDITIONAL AMOUNT
+    - Repayment of additional amount in certain cases
+      - [Sch. 2A para. 8](schedule/2A/paragraph/8.md)
+    - Repayment of additional amount: spouses, civil partners and cohabitants replacing main residence
+      - [Sch. 2A para. 8A](schedule/2A/paragraph/8A.md)
+    - Repayment of additional amount: period for disposing of ownership of dwelling
+      - [Sch. 2A para. 8B](schedule/2A/paragraph/8B.md)
+    - Relief for purchases of 6 or more dwellings
+      - [Sch. 2A para. 9](schedule/2A/paragraph/9.md)
+    - Relief for spouses, civil partners and cohabitants replacing main residence
+      - [Sch. 2A para. 9A](schedule/2A/paragraph/9A.md)
+    - Relief for beneficiaries
+      - [Sch. 2A para. 9B](schedule/2A/paragraph/9B.md)
+    - Relief for separated spouses and civil partners retaining interest in former main residence
+      - [Sch. 2A para. 9C](schedule/2A/paragraph/9C.md)
+    - Relief: supplemental
+      - [Sch. 2A para. 10](schedule/2A/paragraph/10.md)
+  - PART 6 OWNERSHIP OF DWELLINGS
+    - What counts as a dwelling owned by a person?
+      - [Sch. 2A para. 11](schedule/2A/paragraph/11.md)
+    - Deemed ownership: cases where title is not yet registered etc.
+      - [Sch. 2A para. 12](schedule/2A/paragraph/12.md)
+    - Deemed ownership: beneficiaries under certain trusts
+      - [Sch. 2A para. 13](schedule/2A/paragraph/13.md)
+    - Dwellings owned by trustees or personal representatives
+      - [Sch. 2A para. 14](schedule/2A/paragraph/14.md)
+    - Deemed ownership: long leases
+      - [Sch. 2A para. 15](schedule/2A/paragraph/15.md)
+    - Deemed ownership: proper liferents
+      - [Sch. 2A para. 16](schedule/2A/paragraph/16.md)
+    - Deemed ownership: joint owners and owners of shares
+      - [Sch. 2A para. 17](schedule/2A/paragraph/17.md)
+    - Dwellings outside Scotland: what counts as “ownership”
+      - [Sch. 2A para. 18](schedule/2A/paragraph/18.md)
+  - PART 7 GENERAL PROVISION
+    - Power of Scottish Ministers to modify schedule
+      - [Sch. 2A para. 19](schedule/2A/paragraph/19.md)
+    - Interpretation
+      - [Sch. 2A para. 20](schedule/2A/paragraph/20.md)
+- SCHEDULE 3 Sale and leaseback relief
+  - The relief
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Sale and leaseback arrangements
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Qualifying conditions
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Interpretation
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Relief for certain acquisitions of residential property
+  - PART 1 Introductory
+    - Overview of reliefs
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - PART 2 Acquisition by house-building company from individual acquiring new dwelling
+    - Full relief
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Partial relief
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Qualifying conditions
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - PART 3 Acquisition by property trader from individual acquiring new dwelling
+    - Full relief
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Partial relief
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Qualifying conditions
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 4 Acquisition by property trader from individual where chain of transactions breaks down
+    - Full relief
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Partial relief
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Qualifying conditions
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - PART 5 Withdrawal of relief
+    - Introductory
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Relief under Part 3
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Relief under Part 4
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - PART 6 Interpretation
+    - Meaning of “dwelling” and “new dwelling”
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Meaning of “permitted area”
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Meaning of “acquisition” and “market value” in relation to dwelling and permitted area
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Meaning of “house-building company”
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Meaning of “property trader” and “principal”
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Additional amount: transactions relating to second homes etc.
+      - [Sch. 4 para. 26A](schedule/4/paragraph/26A.md)
+    - Meaning of “refurbishment” and “the permitted amount”
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+- SCHEDULE 4A First-time buyer relief
+  - [Sch. 4A para. 1 Eligibility for relief](schedule/4A/paragraph/1.md)
+  - [Sch. 4A para. 2 Meaning of first-time buyer](schedule/4A/paragraph/2.md)
+  - [Sch. 4A para. 3 Relief from the tax](schedule/4A/paragraph/3.md)
+  - [Sch. 4A para. 4 Eligibility for relief: alternative finance arrangements](schedule/4A/paragraph/4.md)
+  - [Sch. 4A para. 5 Deemed ownership: beneficiaries under certain trusts](schedule/4A/paragraph/5.md)
+  - [Sch. 4A para. 6 Dwellings owned by trustees or personal representatives](schedule/4A/paragraph/6.md)
+  - [Sch. 4A para. 7 Interpretation](schedule/4A/paragraph/7.md)
+- SCHEDULE 5 Multiple dwellings relief
+  - PART 1 Introductory
+    - Overview of relief
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - PART 2 Transactions to which this schedule applies
+    - The rule
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Single transaction relating to multiple dwellings
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Linked transactions relating to multiple dwellings
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Excluded transactions
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - PART 3 Key terms
+    - Consideration attributable to dwellings and remaining property
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Dwellings
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Interest in a dwelling
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - PART 4 The relief
+    - Calculation of relief
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+      - [Sch. 5 para. 10A](schedule/5/paragraph/10A.md)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Tax due in relation to a dwelling
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Tax due in relation to remaining property
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - General
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+  - PART 5 Withdrawal of relief
+    - Full withdrawal of relief
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Partial withdrawal of relief
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Relevant period
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Interpretation
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+  - PART 6 What counts as a dwelling
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+- SCHEDULE 6 Relief for certain acquisitions by registered social landlords
+  - The relief
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - The qualifying conditions
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Landlord controlled by tenants
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE6A RELIEF FOR CERTAIN ACQUISITIONS BY LOCAL AUTHORITIES
+  - The relief
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - The qualifying conditions
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+- SCHEDULE 7 Alternative property finance relief
+  - PART 1 Introductory
+    - Overview
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - PART 2 Alternative property finance: arrangements relieved
+    - Land sold to financial institution and leased to person
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Land sold to financial institution and person in common
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Land sold to financial institution and re-sold to person
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - PART 3 Alternative property finance: arrangements not relieved
+    - No relief where first transaction already relieved
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - No relief where arrangements to transfer control of financial institution
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - PART 4 Exempt interest
+    - Interest held by financial institution an exempt interest
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+      - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - PART 5 Interpretation
+    - Interpretation
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+- SCHEDULE 8 Relief for alternative finance investment bonds
+  - PART 1 Overview and interpretation
+    - Overview of relief
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Meaning of “alternative finance investment bond”
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - Interpretation
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - PART 2 Issue, transfer and redemption of rights under bond not to be treated as chargeable transaction
+    - The relief
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Relief not available where bond-holder acquires control of underlying asset
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - PART 3 General conditions for operation of reliefs etc.
+    - Introduction
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Condition A
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Condition B
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Condition C
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Condition D
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Condition E
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Condition F
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - Condition G
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - PART 4 Relief for certain transactions
+    - The relief: first transaction
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Withdrawal of relief
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Amount of tax chargeable where relief withdrawn
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Relief from land and buildings transaction tax: second transaction
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Discharge of security when conditions for relief met
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - PART 5 Supplementary
+    - Substitution of asset
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Tax Authority to register discharge of security
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Relief not available where bond-holder acquires control of underlying asset
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - Relief not available if purpose of arrangements is improper
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+- SCHEDULE 9 Crofting community right to buy relief
+  - The relief
+    - [Sch. 9 para. 1 The relief](schedule/9/paragraph/1.md)
+  - Interpretation
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+- SCHEDULE 10 Group relief
+  - PART 1 Introductory
+    - Overview
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - PART 2 The relief
+    - The relief
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Restrictions on availability of relief
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Arrangements that do not restrict availability of relief
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 10A](schedule/10/paragraph/10A.md)
+    - Interpretation
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - PART 3 Withdrawal of relief
+    - Overview
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Withdrawal of relief
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 15A](schedule/10/paragraph/15A.md)
+    - Amount of tax chargeable where relief withdrawn
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+    - Amount of tax chargeable where relief partially withdrawn
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+      - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+    - Case where relief not withdrawn: winding up
+      - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+    - Cases where relief not withdrawn: stamp duty reliefs
+      - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+      - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+      - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+      - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+      - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+    - Case where relief not withdrawn: seller leaves group
+      - [Sch. 10 para. 26](schedule/10/paragraph/26.md)
+      - [Sch. 10 para. 27](schedule/10/paragraph/27.md)
+      - [Sch. 10 para. 28](schedule/10/paragraph/28.md)
+      - [Sch. 10 para. 29](schedule/10/paragraph/29.md)
+      - [Sch. 10 para. 30](schedule/10/paragraph/30.md)
+      - [Sch. 10 para. 31](schedule/10/paragraph/31.md)
+    - Withdrawal of relief in certain cases involving successive transactions
+      - [Sch. 10 para. 32](schedule/10/paragraph/32.md)
+      - [Sch. 10 para. 33](schedule/10/paragraph/33.md)
+      - [Sch. 10 para. 34](schedule/10/paragraph/34.md)
+      - [Sch. 10 para. 35](schedule/10/paragraph/35.md)
+      - [Sch. 10 para. 36](schedule/10/paragraph/36.md)
+      - [Sch. 10 para. 37](schedule/10/paragraph/37.md)
+      - [Sch. 10 para. 38](schedule/10/paragraph/38.md)
+      - [Sch. 10 para. 39](schedule/10/paragraph/39.md)
+      - [Sch. 10 para. 40](schedule/10/paragraph/40.md)
+    - Interpretation
+      - [Sch. 10 para. 41](schedule/10/paragraph/41.md)
+      - [Sch. 10 para. 42](schedule/10/paragraph/42.md)
+  - PART 3A Recovery of relief
+    - [Sch. 10 para. 42A Recovery of relief](schedule/10/paragraph/42A.md)
+    - [Sch. 10 para. 42B](schedule/10/paragraph/42B.md)
+    - [Sch. 10 para. 42C](schedule/10/paragraph/42C.md)
+    - [Sch. 10 para. 42D](schedule/10/paragraph/42D.md)
+    - [Sch. 10 para. 42E Recovery of relief: supplementary](schedule/10/paragraph/42E.md)
+    - [Sch. 10 para. 42F](schedule/10/paragraph/42F.md)
+    - [Sch. 10 para. 42G](schedule/10/paragraph/42G.md)
+    - [Sch. 10 para. 42H](schedule/10/paragraph/42H.md)
+    - [Sch. 10 para. 42I](schedule/10/paragraph/42I.md)
+    - [Sch. 10 para. 42J](schedule/10/paragraph/42J.md)
+    - [Sch. 10 para. 42K](schedule/10/paragraph/42K.md)
+  - PART 4 Interpretation
+    - When are companies members of the same group?
+      - [Sch. 10 para. 43](schedule/10/paragraph/43.md)
+    - When is a company a subsidiary of another company?
+      - [Sch. 10 para. 44](schedule/10/paragraph/44.md)
+      - [Sch. 10 para. 45](schedule/10/paragraph/45.md)
+      - [Sch. 10 para. 46](schedule/10/paragraph/46.md)
+      - [Sch. 10 para. 47](schedule/10/paragraph/47.md)
+      - [Sch. 10 para. 48](schedule/10/paragraph/48.md)
+    - Other definitions
+      - [Sch. 10 para. 49](schedule/10/paragraph/49.md)
+- SCHEDULE 10A Sub-sale development relief
+  - PART 1 Introductory
+    - Overview of relief
+      - [Sch. 10A para. 1](schedule/10A/paragraph/1.md)
+  - PART 2 The relief
+    - General
+      - [Sch. 10A para. 2](schedule/10A/paragraph/2.md)
+    - Qualifying sub-sale
+      - [Sch. 10A para. 3](schedule/10A/paragraph/3.md)
+    - Qualifying conditions
+      - [Sch. 10A para. 4](schedule/10A/paragraph/4.md)
+    - Subject-matter
+      - [Sch. 10A para. 5](schedule/10A/paragraph/5.md)
+      - [Sch. 10A para. 6](schedule/10A/paragraph/6.md)
+    - Significant development
+      - [Sch. 10A para. 7](schedule/10A/paragraph/7.md)
+      - [Sch. 10A para. 8](schedule/10A/paragraph/8.md)
+    - Full relief
+      - [Sch. 10A para. 9](schedule/10A/paragraph/9.md)
+    - Partial relief
+      - [Sch. 10A para. 10](schedule/10A/paragraph/10.md)
+    - Claiming the relief
+      - [Sch. 10A para. 11](schedule/10A/paragraph/11.md)
+      - [Sch. 10A para. 12](schedule/10A/paragraph/12.md)
+  - PART 3 Withdrawal of relief
+    - Full withdrawal of relief
+      - [Sch. 10A para. 13](schedule/10A/paragraph/13.md)
+      - [Sch. 10A para. 14](schedule/10A/paragraph/14.md)
+    - Partial withdrawal of relief
+      - [Sch. 10A para. 15](schedule/10A/paragraph/15.md)
+  - PART 4 Supplementary
+    - Disapplication of section 14
+      - [Sch. 10A para. 16](schedule/10A/paragraph/16.md)
+    - Qualifying sub-sale: consideration
+      - [Sch. 10A para. 17](schedule/10A/paragraph/17.md)
+- SCHEDULE 11 Reconstruction relief and acquisition relief
+  - PART 1 Introductory
+    - Overview
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - PART 2 Reconstruction relief
+    - The relief
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Qualifying conditions
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - PART 3 Acquisition relief
+    - The relief
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Qualifying conditions
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Interpretation
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - PART 4 Withdrawal of relief
+    - Overview
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Withdrawal of relief
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Case where relief not withdrawn: change of control of acquiring company as result of transaction connected to divorce etc.
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Case where relief not withdrawn: exempt intra-group transfer
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Case where relief not withdrawn: share acquisition relief
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - Case where relief not withdrawn: controlling loan creditor
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - Withdrawal of relief on subsequent non-exempt transfer
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - Withdrawal of relief where share acquisition relief applied but control of company subsequently changes
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+      - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+      - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+      - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - Amount of tax chargeable where relief withdrawn
+      - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+      - [Sch. 11 para. 30](schedule/11/paragraph/30.md)
+    - Amount of tax chargeable where relief partially withdrawn
+      - [Sch. 11 para. 31](schedule/11/paragraph/31.md)
+      - [Sch. 11 para. 32](schedule/11/paragraph/32.md)
+    - Interpretation
+      - [Sch. 11 para. 33](schedule/11/paragraph/33.md)
+      - [Sch. 11 para. 34](schedule/11/paragraph/34.md)
+      - [Sch. 11 para. 35](schedule/11/paragraph/35.md)
+  - PART 4A Recovery of relief
+    - [Sch. 11 para. 35A Recovery of relief](schedule/11/paragraph/35A.md)
+    - [Sch. 11 para. 35B](schedule/11/paragraph/35B.md)
+    - [Sch. 11 para. 35C](schedule/11/paragraph/35C.md)
+    - [Sch. 11 para. 35D](schedule/11/paragraph/35D.md)
+    - [Sch. 11 para. 35E Recovery of relief: supplementary](schedule/11/paragraph/35E.md)
+    - [Sch. 11 para. 35F](schedule/11/paragraph/35F.md)
+    - [Sch. 11 para. 35G](schedule/11/paragraph/35G.md)
+    - [Sch. 11 para. 35H](schedule/11/paragraph/35H.md)
+    - [Sch. 11 para. 35I](schedule/11/paragraph/35I.md)
+    - [Sch. 11 para. 35J](schedule/11/paragraph/35J.md)
+    - [Sch. 11 para. 35K](schedule/11/paragraph/35K.md)
+  - PART 5 Interpretation
+    - When are companies members of the same group?
+      - [Sch. 11 para. 36](schedule/11/paragraph/36.md)
+    - When is a company a subsidiary of another company?
+      - [Sch. 11 para. 37](schedule/11/paragraph/37.md)
+      - [Sch. 11 para. 38](schedule/11/paragraph/38.md)
+      - [Sch. 11 para. 39](schedule/11/paragraph/39.md)
+      - [Sch. 11 para. 40](schedule/11/paragraph/40.md)
+      - [Sch. 11 para. 41](schedule/11/paragraph/41.md)
+    - Other definitions
+      - [Sch. 11 para. 42](schedule/11/paragraph/42.md)
+- SCHEDULE 12 Relief for incorporation of limited liability partnership
+  - The relief
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - The qualifying conditions
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Interpretation
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+- SCHEDULE 13 Charities relief
+  - The relief
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Qualifying conditions
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Qualifying charitable purposes
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - Withdrawal of relief
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Charitable trusts
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+  - Interpretation
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+- SCHEDULE 13A ( introduced by section 27)
+  - FRIENDLY SOCIETIES RELIEF
+    - [Sch. 13A para. 1 The relief](schedule/13A/paragraph/1.md)
+    - [Sch. 13A para. 2 Interpretation](schedule/13A/paragraph/2.md)
+- SCHEDULE 13B (introduced by section 27)
+  - BUILDING SOCIETIES RELIEF
+    - [Sch. 13B para. 1 The relief](schedule/13B/paragraph/1.md)
+    - [Sch. 13B para. 2 Interpretation](schedule/13B/paragraph/2.md)
+- SCHEDULE 14 Relief for certain compulsory purchases
+  - The relief
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Qualifying condition
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Interpretation
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+- SCHEDULE 15 Relief for compliance with planning obligations
+  - The relief
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - The qualifying conditions
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - “Planning obligation” and “modification”
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Public authorities
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+- SCHEDULE 16 Public bodies relief
+  - The relief
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Meaning of “reorganisation”
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Public bodies
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+- SCHEDULE 16A VISITING FORCES AND INTERNATIONAL MILITARY HEADQUARTERS RELIEFS
+  - The relief
+    - [Sch. 16A para. 1](schedule/16A/paragraph/1.md)
+    - [Sch. 16A para. 2](schedule/16A/paragraph/2.md)
+    - [Sch. 16A para. 3](schedule/16A/paragraph/3.md)
+- SCHEDULE 16B RELIEF FOR PROPERTY ACCEPTED IN SATISFACTION OF TAX
+  - The relief
+    - [Sch. 16B para. 1](schedule/16B/paragraph/1.md)
+- SCHEDULE 16C LIGHTHOUSES RELIEF
+  - The relief
+    - [Sch. 16C para. 1](schedule/16C/paragraph/1.md)
+    - [Sch. 16C para. 2](schedule/16C/paragraph/2.md)
+- Schedule 16D (introduced by section 27) Green Freeports Relief
+  - PART 1 Introductory
+    - [Sch. n1 para. 1 Overview](schedule/n1/paragraph/1.md)
+  - PART 2 The relief
+    - [Sch. n1 para. 2 Full relief](schedule/n1/paragraph/2.md)
+    - [Sch. n1 para. 3 Partial relief](schedule/n1/paragraph/3.md)
+    - [Sch. n1 para. 4 Attributing chargeable consideration to land](schedule/n1/paragraph/4.md)
+  - PART 3 Key terms
+    - [Sch. n1 para. 5 Transaction land](schedule/n1/paragraph/5.md)
+    - [Sch. n1 para. 6 Qualifying green freeport land](schedule/n1/paragraph/6.md)
+    - [Sch. n1 para. 7 Use of land in a qualifying manner](schedule/n1/paragraph/7.md)
+  - PART 4 Withdrawal of relief
+    - [Sch. n1 para. 8 Withdrawal of relief](schedule/n1/paragraph/8.md)
+    - [Sch. n1 para. 9 The control period](schedule/n1/paragraph/9.md)
+    - [Sch. n1 para. 10 Disposal of interest in part of qualifying green freeport land during control period](schedule/n1/paragraph/10.md)
+  - PART 5 Alternative finance arrangements
+    - [Sch. n1 para. 11 Cases involving alternative finance arrangements](schedule/n1/paragraph/11.md)
+- Schedule 16E Investment Zones Relief
+  - Part 1 Introductory
+    - [Sch. 16E para. 1 Overview](schedule/16E/paragraph/1.md)
+  - Part 2 The relief
+    - [Sch. 16E para. 2 Full relief](schedule/16E/paragraph/2.md)
+    - [Sch. 16E para. 3 Partial relief](schedule/16E/paragraph/3.md)
+    - [Sch. 16E para. 4 Attributing chargeable consideration to land](schedule/16E/paragraph/4.md)
+  - Part 3 Key terms
+    - [Sch. 16E para. 5 Transaction land](schedule/16E/paragraph/5.md)
+    - [Sch. 16E para. 6 Qualifying investment zone land](schedule/16E/paragraph/6.md)
+    - [Sch. 16E para. 7 Use of land in a qualifying manner](schedule/16E/paragraph/7.md)
+  - Part 4 Withdrawal of relief
+    - [Sch. 16E para. 8 Withdrawal of relief](schedule/16E/paragraph/8.md)
+    - [Sch. 16E para. 9 The control period](schedule/16E/paragraph/9.md)
+    - [Sch. 16E para. 10 Disposal of interest in part of qualifying investment zone land during control period](schedule/16E/paragraph/10.md)
+  - Part 5 Alternative finance arrangements
+    - [Sch. 16E para. 11 Cases involving alternative finance arrangements](schedule/16E/paragraph/11.md)
+- SCHEDULE 17 Partnerships
+  - PART 1 Overview
+    - Overview
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - PART 2 General provisions
+    - Meaning of “partnership”
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Chargeable interests treated as being held by partners etc.
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Acquisition of interest in partnership not chargeable except as specially provided
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Continuity of partnership
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Partnership not to be regarded as unit trust scheme etc.
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - PART 3 Ordinary partnership transactions
+    - Introduction
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Responsibility of partners
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Representative partners
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Joint and several liability of responsible partners
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+  - PART 4 Transactions involving transfer to a partnership
+    - Overview of Part
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Circumstances in which this Part applies
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - Calculation of chargeable consideration etc.
+      - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - Sum of the lower proportions
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Relevant owner
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - Corresponding partner
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Transfer of partnership interest pursuant to earlier arrangements
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - Withdrawal of money etc. from partnership after transfer of chargeable interest
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+  - PART 5 Transactions involving transfer from a partnership
+    - Overview of Part
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+    - Circumstances in which Part applies
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+    - Calculation of chargeable consideration
+      - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+    - Sum of the lower proportions
+      - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+    - Relevant owner
+      - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+    - Corresponding partner
+      - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+    - Partnership share attributable to partner
+      - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+      - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+    - Transfer of chargeable interest from a partnership to a partnership
+      - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+    - Transfer of chargeable interest from a partnership consisting wholly of bodies corporate
+      - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+  - PART 6 Application of Parts 3 to 5 to leases
+    - Application of Parts 3 to 5 to leases
+      - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+  - PART 7 Property investment partnerships
+    - Overview of Part
+      - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+    - Meaning of “property investment partnership”
+      - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+    - Transfer of interest in partnership treated as land transaction
+      - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+    - Exclusion of market rent leases
+      - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+    - Partnership interests: application of provisions about exchanges etc.
+      - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+    - Election by property-investment partnership to disapply Part 4
+      - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+  - PART 8 Application of provisions on exemptions, reliefs and notification
+    - Overview of Part
+      - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+    - Application of exemptions and reliefs: general
+      - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+    - Application of group relief
+      - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+      - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+    - Application of charities relief
+      - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
+    - Notification of transfers of partnership interests
+      - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
+  - PART 9 Interpretation
+    - Introduction
+      - [Sch. 17 para. 42](schedule/17/paragraph/42.md)
+    - Partnership property
+      - [Sch. 17 para. 43](schedule/17/paragraph/43.md)
+    - Partnership share
+      - [Sch. 17 para. 44](schedule/17/paragraph/44.md)
+    - Transfer of chargeable interest
+      - [Sch. 17 para. 45](schedule/17/paragraph/45.md)
+    - Transfer of chargeable interest to a partnership
+      - [Sch. 17 para. 46](schedule/17/paragraph/46.md)
+    - Transfer of chargeable interest from a partnership
+      - [Sch. 17 para. 47](schedule/17/paragraph/47.md)
+    - Transfer of interest in a partnership
+      - [Sch. 17 para. 48](schedule/17/paragraph/48.md)
+    - Connected persons
+      - [Sch. 17 para. 49](schedule/17/paragraph/49.md)
+    - Arrangements
+      - [Sch. 17 para. 50](schedule/17/paragraph/50.md)
+- SCHEDULE 18 Trusts
+  - PART 1 Overview
+    - Overview
+      - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - PART 2 Treatment of trusts and beneficiaries generally
+    - Interests of beneficiaries under certain trusts
+      - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+      - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+      - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - PART 3 Transactions involving bare trusts
+    - Acquisition of chargeable interest by bare trustee
+      - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+      - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+      - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - Grant of lease to bare trustee
+      - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - Grant of lease by bare trustee
+      - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - PART 4 Transactions involving settlements
+    - Acquisition by trustees of settlements
+      - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - Consideration for exercise of power of appointment or discretion
+      - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+      - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+    - Reallocation of trust property as between beneficiaries
+      - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+      - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - PART 5 Settlements: payment of tax and returns
+    - Liability to pay the tax
+      - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - Liability to make returns
+      - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - Duty to make declaration
+      - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+    - Responsible trustees
+      - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - PART 6 Interpretation
+    - Meaning of “bare trust”
+      - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+    - Meaning of “absolutely entitled”
+      - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+    - Meaning of “settlement”
+      - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+- SCHEDULE 19 Leases
+  - PART 1 Introductory
+    - Overview
+      - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - Calculation of tax chargeable where chargeable consideration includes rent
+      - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+  - PART 2 Amount of tax chargeable: rent
+    - Tax rates and tax bands
+      - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - Amount of tax chargeable in respect of rent
+      - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - Amount of tax chargeable in respect of rent: linked transactions
+      - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - Net present value
+      - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - Temporal discount rate
+      - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+  - PART 3 Amount of tax chargeable: consideration other than rent
+    - Amount of tax chargeable in respect of consideration other than rent: general
+      - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - Amount of tax chargeable in respect of consideration other than rent: nil rate tax band
+      - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+  - PART 4 Review of tax chargeable
+    - Regular review of tax chargeable
+      - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - Review of tax chargeable on certain events
+      - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+  - PART 5 Chargeable consideration: rent and consideration other than rent
+    - Rent
+      - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - Variable or uncertain rent
+      - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+    - Reverse premium
+      - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - Tenant’s obligations etc. that do not count as chargeable consideration
+      - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - Assignation of lease: assumption of obligations by assignee
+      - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+    - Loan or deposit in connection with grant or assignation of lease
+      - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - Renunciation of existing lease in return for new lease
+      - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+  - PART 6 Other provision about leases
+    - Meaning of lease for a fixed term
+      - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+    - Leases that continue after a fixed term
+      - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+    - Leases that continue after a fixed term: grant of new lease
+      - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+    - Treatment of leases for indefinite term
+      - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
+    - Treatment of successive linked leases
+      - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+    - Rent for overlap period in case of grant of further lease
+      - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
+    - Agreement for lease substantially performed etc.
+      - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
+    - Missives of let followed by execution of formal lease
+      - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
+    - Cases where assignation of lease treated as grant of lease
+      - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+    - Assignation of lease: responsibility of assignee for returns etc.
+      - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
+    - Reduction of rent or term or other variation of lease
+      - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
+    - Increase of rent or term: notification
+      - [Sch. 19 para. 30](schedule/19/paragraph/30.md)
+- SCHEDULE 20 Index of defined expressions
