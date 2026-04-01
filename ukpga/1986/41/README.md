@@ -1,0 +1,366 @@
+# Finance Act 1986
+
+1986 c. 41. Enacted 1986-07-25.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/41
+
+Source: https://www.legislation.gov.uk/ukpga/1986/41/2026-04-01
+
+## Contents
+
+- PART I Customs and Excise and Value Added Tax
+  - Chapter I Customs and Excise
+    - The rates of duty
+      - [s. 1 Tobacco products.](section/1.md)
+      - [s. 2 Hydrocarbon oil.](section/2.md)
+      - [s. 3 Vehicles excise duty.](section/3.md)
+    - Other provisions
+      - [s. 4 Beer duty: minor amendments.](section/4.md)
+      - [s. 5 Warehousing regulations.](section/5.md)
+      - [s. 6 Betting duties and bingo duty in Northern Ireland.](section/6.md)
+      - [s. 7 Betting and gaming duties: evidence by certificate, etc.](section/7.md)
+      - [s. 8 Licences under the customs and excise Acts.](section/8.md)
+  - Chapter II Value Added Tax
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 ................................](section/11.md)
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+- Part II Income Tax, Corporation Tax and Capital Gains Tax
+  - Chapter I General
+    - Tax rates and main reliefs
+      - [s. 16 ................................](section/16.md)
+      - [s. 23 Employee share schemes: general amendments.](section/23.md)
+      - [s. 24 Approved profit sharing schemes: workers’ co-operatives.](section/24.md)
+      - [s. 25 ................................](section/25.md)
+      - [s. 33 ................................](section/33.md)
+    - Foreign element: expenses
+      - [s. 34 ................................](section/34.md)
+  - Chapter II Capital Allowances
+    - [s. 55 ................................](section/55.md)
+  - Chapter III CAPITAL GAINS
+    - [s. 58 ................................](section/58.md)
+    - [s. 59 ................................](section/59.md)
+    - [s. 60 ................................](section/60.md)
+  - Chapter IV Securities
+    - [s. 61 ................................](section/61.md)
+- PART III STAMP DUTY
+  - Securities
+    - [s. 64 ................................](section/64.md)
+    - [s. 65 ................................](section/65.md)
+    - [s. 66 Company’s purchase of own shares](section/66.md)
+  - Depositary receipts
+    - [s. 67 Depositary receipts 1.5% charge](section/67.md)
+    - [s. 68 Depositary receipts: notification](section/68.md)
+    - [s. 69 Depositary receipts: supplementary](section/69.md)
+  - Clearance services
+    - [s. 70 Clearance services 1.5% charge](section/70.md)
+    - [s. 71 Clearance services: notification](section/71.md)
+    - [s. 72 Clearance services: supplementary](section/72.md)
+  - Meaning of “exempt capital-raising instrument” and “exempt listing instrument”
+    - [s. 72ZA Meaning of “exempt capital-raising instrument”](section/72ZA.md)
+    - [s. 72ZB Meaning of “exempt listing instrument”](section/72ZB.md)
+  - Transfers between depositary receipt system and clearance system
+    - [s. 72A Transfers between depositary receipt system and clearance system.](section/72A.md)
+  - Reconstructions and acquistions
+    - [s. 73 ................................](section/73.md)
+    - [s. 74 Reconstructions etc: repeals.](section/74.md)
+    - [s. 75 Acquisitions: reliefs.](section/75.md)
+    - [s. 76 Acquisitions: further provisions about reliefs.](section/76.md)
+    - [s. 77 Acquisition of target company’s share capital](section/77.md)
+    - [s. 77A Disqualifying arrangements](section/77A.md)
+  - Loan capital, letters of allotment etc.
+    - [s. 78 Loan capital.](section/78.md)
+    - [s. 79 Loan capital: new provisions.](section/79.md)
+    - [s. 80 ................................](section/80.md)
+    - [s. 80A Sales to intermediaries.](section/80A.md)
+    - [s. 80B Intermediaries: supplementary.](section/80B.md)
+    - [s. 80C Repurchases and stock lending.](section/80C.md)
+    - [s. 80D Repurchases and stock lending: replacement stock on insolvency](section/80D.md)
+    - [s. 81 ................................](section/81.md)
+    - [s. 82 ................................](section/82.md)
+    - [s. 83 ................................](section/83.md)
+    - [s. 84 Miscellaneous exemptions](section/84.md)
+    - [s. 85 Supplementary](section/85.md)
+  - Resolution of financial institutions
+    - [s. 85A Resolution of financial institutions](section/85A.md)
+- Part IV Stamp Duty Reserve Tax
+  - Introduction
+    - [s. 86 The tax: introduction](section/86.md)
+  - The principal charge
+    - [s. 87 The principal charge](section/87.md)
+    - [s. 88 Special cases.](section/88.md)
+    - [s. 88A Section 87: exceptions for intermediaries.](section/88A.md)
+    - [s. 88B Intermediaries: supplementary.](section/88B.md)
+    - [s. 89 Section 87: exceptions for market makers etc.](section/89.md)
+    - [s. 89A Section 87: exceptions for public issues.](section/89A.md)
+    - [s. 89AA Section 87: exception for repurchases and stock lending.](section/89AA.md)
+    - [s. 89AB Section 87: exception for repurchases and stock lending in case of insolvency](section/89AB.md)
+    - [s. 89B Section 87: exceptions for stock lending and collateral security arrangements.](section/89B.md)
+    - [s. 89C Section 87: UK listing relief](section/89C.md)
+    - [s. 90 Section 87: other exceptions](section/90.md)
+    - [s. 91 Liability to tax](section/91.md)
+    - [s. 92 Repayment or cancellation of tax](section/92.md)
+  - Other charges: depositary receipts
+    - [s. 93 Depositary receipts: 1.5% charge](section/93.md)
+    - [s. 94 Depositary receipts: supplementary](section/94.md)
+    - [s. 95 Depositary receipts: exceptions](section/95.md)
+    - [s. 95A Depositary receipts: exception for replacement securities.](section/95A.md)
+  - Other charges: clearance services
+    - [s. 96 Clearance services: 1.5% charge](section/96.md)
+    - [s. 97 Clearance services: exceptions](section/97.md)
+    - [s. 97AA Clearance services: exception for replacement securities.](section/97AA.md)
+    - [s. 97A Clearance services: election for alternative system of charge.](section/97A.md)
+    - Depositary receipts and clearance services: further exceptions
+      - [s. 97AB Exempt capital-raising transfers](section/97AB.md)
+      - [s. 97AC Exempt listing transfers](section/97AC.md)
+      - [s. 97AD Exception for transfers of shares held by issuing company](section/97AD.md)
+      - [s. 97B Transfer between depositary receipt system and clearance system.](section/97B.md)
+      - [s. 97C Transfers to non-EU depositary receipt and clearance services systems](section/97C.md)
+  - General
+    - [s. 98 Administration etc.](section/98.md)
+    - [s. 99 Interpretation](section/99.md)
+    - [s. 99A Section 99(4B): “listed” and “recognised growth market”](section/99A.md)
+- PART V INHERITANCE TAX
+  - [s. 100 Capital transfer tax to be known as inheritance tax.](section/100.md)
+  - [s. 101 Lifetime transfers potentially exempt etc.](section/101.md)
+  - [s. 102 Gifts with reservation.](section/102.md)
+  - [s. 102ZA Gifts with reservation: termination of interests in possession](section/102ZA.md)
+  - [s. 102A Gifts with reservation: interest in land.](section/102A.md)
+  - [s. 102B Gifts with reservation: share of interest in land.](section/102B.md)
+  - [s. 102C Sections 102A and 102B: supplemental.](section/102C.md)
+  - [s. 103 Treatment of certain debts and incumbrances.](section/103.md)
+  - [s. 104 Regulations for avoiding double charges etc.](section/104.md)
+  - [s. 105 Application of business and agricultural relief where transfer partly exempt.](section/105.md)
+  - [s. 106 Changes in financial institutions business property.](section/106.md)
+  - [s. 107 Changes in financial institutions: interest.](section/107.md)
+- PART VI OIL TAXATION
+  - [s. 108 The on-shore/off-shore boundary.](section/108.md)
+  - [s. 109 Alternative valuation of light gases.](section/109.md)
+  - [s. 110 Attribution of certain receipts and expenditure between oil fields.](section/110.md)
+- Part VII Miscellaneous and Supplementary
+  - [s. 111 Broadcasting: additional payments by programme contractors.](section/111.md)
+  - [s. 112 Limit for local loans.](section/112.md)
+  - [s. 113 “Securities” for purposes of Exchange Equalisation Account Act 1979.](section/113.md)
+  - [s. 114 Short title, interpretation, construction and repeals.](section/114.md)
+- SCHEDULE 1
+  - Part I Provision Substituted for Part II of Schedule 2 to the Acts of 1971 and 1972
+  - Part II Tables Substituted in Part II of Schedule 4 to the Acts of 1971 and 1972
+    - Table A(1) Rates of Duty on Rigid Goods Vehicles Exceeding 12 Tonnes Plated Gross Weight
+    - Table C(1) Rates of duty on Tractor Units Exceeding 12 Tonnes Plated Train Weight and Having Only 2 Axles
+    - Table D(1) Rates of duty on Tractor Units Exceeding 12 Tonnes Plated Train Weight and Having Three or More Axles
+- SCHEDULE 2 Vehicles Excise Duty: Miscellaneous Amendments
+  - Part I
+    - Additional days to be included in duration of certain licences
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Tower wagons used by street lighting authorities etc.
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Visiting forces
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Trade licences
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Surrender of licences
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Removal of fee for duplicate registration document
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Part II
+    - Additional days to be included in duration of certain licences
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Tower wagons used by street lighting authorities etc.
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Trade licences
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Surrender of licences
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Removal of fee for duplicate registration document
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+- SCHEDULE 3 Warehousing Regulations
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Extension to Northern Ireland of Provisions of Betting and Gaming Duties Act 1981
+  - Part I Amendments of the Betting and Gaming Duties Act 1981
+    - General betting duty and pool betting duty
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Bingo duty
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - General
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Administration of betting duties
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Exemptions from, and administration of, bingo duty
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Part II Consequential Amendments of Northern Ireland Legislation
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - Part III Subordinate Legislation
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+- SCHEDULE 5 Licences Under the Customs and Excise Acts
+  - General provisions as to payment of duty on excise licences
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Licences to manufacture spirits
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Licences relating to hydrocarbon oil etc.
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Licences to manufacture mechanical lighters
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 ................................](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULES 7, 8................................
+- SCHEDULE 9 Business Expansion Scheme
+  - Part I
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Part II Consequential Amendments
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+- SCHEDULES 10–12................................
+- SCHEDULES 13–:16................................
+- SCHEDULE 17................................
+- SCHEDULE 18 Securities: Other Provisions
+  - Sale and re-purchase of securities
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Information
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Miscellaneous
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - General
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+- SCHEDULE 19 INHERITANCE TAX
+  - PART I AMENDMENTS OF 1984 ACT
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16](schedule/19/paragraph/16.md)
+    - [Sch. 19 para. 17](schedule/19/paragraph/17.md)
+    - [Sch. 19 para. 18](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19](schedule/19/paragraph/19.md)
+    - [Sch. 19 para. 20](schedule/19/paragraph/20.md)
+    - [Sch. 19 para. 21](schedule/19/paragraph/21.md)
+    - [Sch. 19 para. 22](schedule/19/paragraph/22.md)
+    - [Sch. 19 para. 23](schedule/19/paragraph/23.md)
+    - [Sch. 19 para. 24](schedule/19/paragraph/24.md)
+    - [Sch. 19 para. 25](schedule/19/paragraph/25.md)
+    - [Sch. 19 para. 26](schedule/19/paragraph/26.md)
+    - [Sch. 19 para. 27](schedule/19/paragraph/27.md)
+    - [Sch. 19 para. 28](schedule/19/paragraph/28.md)
+    - [Sch. 19 para. 29](schedule/19/paragraph/29.md)
+    - [Sch. 19 para. 30](schedule/19/paragraph/30.md)
+    - [Sch. 19 para. 31](schedule/19/paragraph/31.md)
+    - [Sch. 19 para. 32](schedule/19/paragraph/32.md)
+    - [Sch. 19 para. 33](schedule/19/paragraph/33.md)
+    - [Sch. 19 para. 34](schedule/19/paragraph/34.md)
+    - [Sch. 19 para. 35](schedule/19/paragraph/35.md)
+    - [Sch. 19 para. 36](schedule/19/paragraph/36.md)
+    - [Sch. 19 para. 37](schedule/19/paragraph/37.md)
+    - [Sch. 19 para. 38](schedule/19/paragraph/38.md)
+    - [Sch. 19 para. 39](schedule/19/paragraph/39.md)
+  - PART II TRANSITIONAL PROVISIONS
+    - [Sch. 19 para. 40](schedule/19/paragraph/40.md)
+    - [Sch. 19 para. 41](schedule/19/paragraph/41.md)
+    - [Sch. 19 para. 42](schedule/19/paragraph/42.md)
+    - [Sch. 19 para. 43](schedule/19/paragraph/43.md)
+    - [Sch. 19 para. 44](schedule/19/paragraph/44.md)
+    - [Sch. 19 para. 45](schedule/19/paragraph/45.md)
+    - [Sch. 19 para. 46](schedule/19/paragraph/46.md)
+- SCHEDULE 20 GIFTS WITH RESERVATION
+  - Interpretation and application
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 para. 2](schedule/20/paragraph/2.md)
+    - [Sch. 20 para. 3](schedule/20/paragraph/3.md)
+  - Donee predeceasing the material date
+    - [Sch. 20 para. 4](schedule/20/paragraph/4.md)
+  - Termination of interests in possession
+    - [Sch. 20 para. 4A](schedule/20/paragraph/4A.md)
+  - Settled gifts
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+  - Exclusion of benefit
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - Agricultural property and business property
+    - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+- SCHEDULE 21 Modifications of Finance Act 1982, Schedule 18 in Relation to Elections Under Section 109 of this Act
+  - General modifications
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Specific modifications
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+- SCHEDULE 22 Broadcasting: Additional Payments by Programme Contractors
+  - Part I Amendment of Broadcasting Act 1981
+    - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+    - [Sch. 22 para. 2](schedule/22/paragraph/2.md)
+    - [Sch. 22 para. 3](schedule/22/paragraph/3.md)
+    - [Sch. 22 para. 4](schedule/22/paragraph/4.md)
+  - PART II Transitional Provisions
+    - [Sch. 22 para. 9](schedule/22/paragraph/9.md)
+    - [Sch. 22 para. 10](schedule/22/paragraph/10.md)
+- SCHEDULE 23 Repeals
+  - Part I Customs and Excise: Miscellaneous
+  - Part II Vehicles Excise Duty
+  - Part III Betting and Gaming Duties
+  - Part IV Licences Under the Customs and Excise Acts
+  - Part V Income Tax and Corporation Tax: General
+    - [Sch. 23 Pt. V para. 1](schedule/23/part/V/paragraph/1.md)
+    - [Sch. 23 Pt. V para. 2](schedule/23/part/V/paragraph/2.md)
+    - [Sch. 23 Pt. V para. 3](schedule/23/part/V/paragraph/3.md)
+    - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+    - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+  - Part VI Income Tax and Corporation Tax: Capital Allowances
+    - [Sch. 23 Pt. VI para. 1](schedule/23/part/VI/paragraph/1.md)
+    - [Sch. 23 Pt. VI para. 2](schedule/23/part/VI/paragraph/2.md)
+  - Part VII Capital Gains
+  - Part VIII Securities
+  - Part IX Stamp Duty
+    - [Sch. 23 Pt. IX para. 1](schedule/23/part/IX/paragraph/1.md)
+    - [Sch. 23 Pt. IX para. 2](schedule/23/part/IX/paragraph/2.md)
+    - [Sch. 23 Pt. IX para. 3](schedule/23/part/IX/paragraph/3.md)
+  - Part X Inheritance Tax
+    - [Sch. 23 Pt. X para. 1](schedule/23/part/X/paragraph/1.md)
+    - [Sch. 23 Pt. X para. 2](schedule/23/part/X/paragraph/2.md)
+  - Part XI Broadcasting: Additional Payments by Programme Contractors
