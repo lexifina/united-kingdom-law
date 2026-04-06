@@ -1,0 +1,423 @@
+# Civil Aviation Act 2012
+
+2012 c. 19. Enacted 2012-12-19.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2012/19/2026-04-06
+
+## Contents
+
+- PART 1 Airports
+  - CHAPTER 1 Regulation of operators of dominant airports
+    - General duties
+      - [s. 1 CAA’s general duty](section/1.md)
+      - [s. 2 Secretary of State’s general duty](section/2.md)
+    - Prohibition
+      - [s. 3 Prohibition](section/3.md)
+      - [s. 4 Prohibition: exemption](section/4.md)
+    - Dominant airports
+      - [s. 5 Dominant areas and dominant airports](section/5.md)
+      - [s. 6 Market power test](section/6.md)
+      - [s. 7 Market power determinations](section/7.md)
+      - [s. 8 Publication of market power determinations](section/8.md)
+      - [s. 9 Operators of areas](section/9.md)
+      - [s. 10 Operator determinations](section/10.md)
+      - [s. 11 Publication of operator determinations](section/11.md)
+      - [s. 12 Advance determinations](section/12.md)
+      - [s. 13 Appeals against determinations](section/13.md)
+    - Licences
+      - [s. 14 Application for licence](section/14.md)
+      - [s. 15 Granting licence](section/15.md)
+      - [s. 16 Refusing to grant licence](section/16.md)
+      - [s. 17 Content and effect of licence](section/17.md)
+    - Licence conditions
+      - [s. 18 Licence conditions](section/18.md)
+      - [s. 19 Price control conditions](section/19.md)
+      - [s. 20 Conditions relating to CAA charges](section/20.md)
+      - [s. 21 Content and effect of licence conditions](section/21.md)
+    - Modifying licences
+      - [s. 22 Modifying licence conditions and licence area](section/22.md)
+      - [s. 23 Restriction on power to modify](section/23.md)
+    - Appeals against licence conditions etc
+      - [s. 24 Appeal to Competition and Markets Authority: conditions of new licences](section/24.md)
+      - [s. 25 Appeal to Competition and Markets Authority: modification of licence conditions](section/25.md)
+      - [s. 26 When appeals may be allowed](section/26.md)
+      - [s. 27 Determination of appeal](section/27.md)
+      - [s. 28 Determination of appeal: time limits](section/28.md)
+      - [s. 29 Determination of appeal: publication etc](section/29.md)
+      - [s. 30 Procedure on appeals](section/30.md)
+    - Enforcement of licence conditions
+      - [s. 31 Contravention notice](section/31.md)
+      - [s. 32 Restrictions on giving contravention notices](section/32.md)
+      - [s. 33 Enforcement order](section/33.md)
+      - [s. 34 Enforcement order: modification and revocation](section/34.md)
+      - [s. 35 Urgent enforcement order](section/35.md)
+      - [s. 36 Urgent enforcement order: confirmation](section/36.md)
+      - [s. 37 Urgent enforcement order: modification and revocation](section/37.md)
+      - [s. 38 Civil proceedings](section/38.md)
+      - [s. 39 Penalty for contravention of licence condition](section/39.md)
+      - [s. 40 Penalty for contravention of order](section/40.md)
+      - [s. 41 Procedure before imposing penalty](section/41.md)
+      - [s. 42 Procedure after imposing penalty](section/42.md)
+      - [s. 43 Amount of penalty](section/43.md)
+      - [s. 44 Amount of penalty: fixed amount](section/44.md)
+      - [s. 45 Amount of penalty: daily amounts](section/45.md)
+      - [s. 46 Use of powers under Competition Act 1998](section/46.md)
+      - [s. 47 Appeals against orders and penalties](section/47.md)
+    - Revocation of licence
+      - [s. 48 Revocation of licence](section/48.md)
+      - [s. 49 Appeals against revocation of licence](section/49.md)
+    - Obtaining information
+      - [s. 50 Power to obtain information](section/50.md)
+      - [s. 51 Enforcement of information notice](section/51.md)
+      - [s. 52 Penalty for providing false information, destroying documents etc](section/52.md)
+      - [s. 53 Procedure before imposing penalty](section/53.md)
+      - [s. 54 Procedure after imposing penalty](section/54.md)
+      - [s. 55 Appeals against penalties](section/55.md)
+    - Penalties
+      - [s. 56 Imposing penalties](section/56.md)
+      - [s. 57 Recovering penalties](section/57.md)
+      - [s. 58 Statement of policy on penalties](section/58.md)
+    - Disclosing information
+      - [s. 59 Disclosing information](section/59.md)
+  - CHAPTER 2 Competition
+    - [s. 60 Functions under Part 4 of Enterprise Act 2002](section/60.md)
+    - [s. 61 Enterprise Act 2002: supplementary](section/61.md)
+    - [s. 62 Functions under Competition Act 1998](section/62.md)
+    - [s. 63 Competition Act 1998: supplementary](section/63.md)
+    - [s. 64 Review etc of airport operation services](section/64.md)
+    - [s. 65 Power to modify CAA’s competition powers](section/65.md)
+  - CHAPTER 3 General provision
+    - Interpretation
+      - [s. 66 Airports](section/66.md)
+      - [s. 67 Airports: supplementary](section/67.md)
+      - [s. 68 Airport operation services](section/68.md)
+      - [s. 69 Air transport services](section/69.md)
+      - [s. 70 Joint operators of areas](section/70.md)
+      - [s. 71 Connected persons](section/71.md)
+      - [s. 72 Minor definitions and index](section/72.md)
+    - Other general provision
+      - [s. 73 Regulations](section/73.md)
+      - [s. 74 Publication and production of documents](section/74.md)
+      - [s. 75 Sending documents](section/75.md)
+      - [s. 76 Minor, consequential and transitional provision](section/76.md)
+      - [s. 77 Crown application](section/77.md)
+- PART 2 Other aviation matters
+  - Aviation security
+    - [s. 78 Aviation security directions etc](section/78.md)
+    - [s. 79 Approved providers of aviation security services](section/79.md)
+    - [s. 80 Advice and assistance in connection with aviation security](section/80.md)
+    - [s. 81 Power to modify functions of CAA etc relating to aviation security](section/81.md)
+    - [s. 82 Transfer schemes](section/82.md)
+  - Provision of information about aviation
+    - [s. 83 Information for benefit of users of air transport services](section/83.md)
+    - [s. 84 Environmental information](section/84.md)
+    - [s. 85 Power to obtain information](section/85.md)
+    - [s. 86 Enforcement of information notice](section/86.md)
+    - [s. 87 Penalty for providing false information, destroying documents etc](section/87.md)
+    - [s. 88 Procedure before imposing penalty](section/88.md)
+    - [s. 89 Procedure after imposing penalty](section/89.md)
+    - [s. 90 Appeals](section/90.md)
+    - [s. 91 Recovering penalties](section/91.md)
+    - [s. 92 Statement of policy](section/92.md)
+    - [s. 93 Minor definitions](section/93.md)
+  - Regulation of provision of flight accommodation
+    - [s. 94 Regulation of provision of flight accommodation](section/94.md)
+  - CAA membership
+    - [s. 95 CAA membership](section/95.md)
+    - [s. 96 Non-executive members of CAA](section/96.md)
+    - [s. 97 Executive members of CAA](section/97.md)
+    - [s. 98 CAA’s air navigation functions](section/98.md)
+    - [s. 99 Transitional and saving provision](section/99.md)
+  - Further provision about CAA
+    - [s. 100 CAA charges](section/100.md)
+    - [s. 101 Criminal proceedings](section/101.md)
+    - [s. 102 CAA efficiency](section/102.md)
+    - [s. 103 Civil sanctions](section/103.md)
+    - [s. 104 Regulatory burdens](section/104.md)
+    - [s. 105 Disclosure of medical information](section/105.md)
+  - Miscellaneous
+    - [s. 106 Dangerous flying](section/106.md)
+    - [s. 107 Offences under Civil Aviation Act 1982](section/107.md)
+- PART 3 Final provisions
+  - [s. 108 Power to make consequential and transitional provision](section/108.md)
+  - [s. 109 Financial provision](section/109.md)
+  - [s. 110 Commencement](section/110.md)
+  - [s. 111 Extent](section/111.md)
+  - [s. 112 Channel Islands, Isle of Man and British overseas territories](section/112.md)
+  - [s. 113 Short title](section/113.md)
+- SCHEDULE 1 Appeals against determinations
+  - Appeals against determinations
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Notice of appeal
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Decisions on appeal
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Effect of suspending or setting aside market power determination
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Appeals to Competition Appeal Tribunal: supplementary
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Further appeals
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 Appeals under sections 24 and 25
+  - PART 1 Permission to appeal
+    - Application for permission to appeal
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Determination of application for permission to appeal
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Time limit for CAA to make representations
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - PART 2 Intervention in appeal
+    - Application for permission to intervene in appeal
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Determination of application for permission to intervene
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - PART 3 Automatic suspension of condition of new licence or modification
+    - Automatic suspension of condition of new licence including exception for certain financial arrangements
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Automatic suspension of modification of existing licence involving exception for certain financial arrangements
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - PART 4 Application for suspension of condition of new licence or modification
+    - Application for direction suspending condition of new licence
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Effect of early application for direction under paragraph 9
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Direction following application under paragraph 9
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Application for direction suspending licence modification
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Effect of early application for direction under paragraph 12
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Direction following application under paragraph 12
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Publication of decisions about directions
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Time limit for CAA to make representations
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - PART 5 Appeals
+    - Determination of appeal by group
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Replacing members of group
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Representations made by the CAA
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Matters that may be disregarded
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Remitting decision to CAA
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Substituting CAA’s decision
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - PART 6 General
+    - Consideration of new matters
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Production of documents
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - Oral hearings
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Written evidence
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Expert advice
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Enforcement of requirements in relation to evidence etc
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Destruction of documents
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Withdrawal of applications and appeals
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Appeal rules
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Costs
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+    - Secretary of State’s power to modify time limits
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - Publication etc
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Interpretation
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+- SCHEDULE 3 Appeals against orders and penalties
+  - Appeals against enforcement orders and urgent enforcement orders
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Appeals against modification and revocation of orders
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Appeals against penalties
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Decisions on appeal
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Further appeals
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+- SCHEDULE 4 Appeals against revocation of licence
+  - Appeals against revocation of licence
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Notice of appeal
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Decisions on appeal
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Further appeals
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+- SCHEDULE 5 Appeals against penalties: information
+  - Appeals against penalties
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Decisions on appeal
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Further appeals
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+- SCHEDULE 6 Restrictions on disclosing information
+  - Prohibition on disclosure
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Disclosure with consent
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Disclosure of information already available to public
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Other permitted disclosures
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Offence
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Criminal liability of officers of bodies corporate etc
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 7 Index of defined expressions
+- SCHEDULE 8 Status of airport operators as statutory undertakers etc
+  - PART 1 Great Britain
+    - Airports Act 1986 (c. 31)
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Consequential repeal
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - Power to make provision in relation to operators of airport areas
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - PART 2 Northern Ireland
+    - Airports (Northern Ireland) Order 1994 (S.I. 1994/426 (N.I. 1))
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Power to make provision in relation to operators of airport areas
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+- SCHEDULE 9 Regulation of operators of dominant airports: consequential provision
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Airports Act 1986 (c. 31)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Water Act 1989 (c. 15)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Water Industry Act 1991 (c. 56)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - Water Resources Act 1991 (c. 57)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Railways Act 1993 (c. 43)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - Competition Act 1998 (c. 41)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Greater London Authority Act 1999 (c. 29)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - Utilities Act 2000 (c. 27)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - Civil Contingencies Act 2004 (c. 36)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - Further repeals and revocations
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+- SCHEDULE 10 Regulation of operators of dominant airports: transitional provision
+  - PART 1 Regulation
+    - Definitions
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Market power determinations: designated airports
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Exemption from prohibition for designated airports during interim period
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Designation and de-designation before commencement day
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Designation and de-designation during interim period
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Modification of preceding paragraphs
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - Power to amend this Schedule
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - PART 2 Status of airport operators as statutory undertakers etc
+    - Great Britain
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+    - Northern Ireland
+      - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+      - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+      - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+      - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+      - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+- SCHEDULE 11 Aviation security directions etc: minor and consequential amendments
+  - Civil Aviation Act 1982 (c. 16)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Aviation Security Act 1982 (c. 36)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+  - Application of Part 3 of Regulatory Enforcement and Sanctions Act 2008 (“the RESA 2008”)
+    - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+- SCHEDULE 12 Aviation security: further provision about transfer schemes
+  - Transfer
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Employment
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Civil servants treated as employed under a contract of employment etc
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Certificate
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Validity
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Continuity
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+- SCHEDULE 13 Appeals against penalties
+  - Appeals against penalties
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Decisions on appeal
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Further appeals
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+- SCHEDULE 14 CAA membership: transitional and saving provision
+  - Commencement day
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - Executive members of CAA
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - Chief executive of CAA
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - Non-executive members of CAA
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Chair of CAA
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Pensions
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+  - Nominee under section 66 of Transport Act 2000
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Nominee under section 67 of Transport Act 2000
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
