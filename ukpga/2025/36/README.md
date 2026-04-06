@@ -2,9 +2,9 @@
 
 2025 c. 36. Enacted 2025-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/36` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/36` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-06
 
 ## Contents
 
@@ -306,6 +306,7 @@ Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-01
   - Part 2 Recognition
     - [Sch. 6 para. 3 Meaning of “the application day”](schedule/6/paragraph/3.md)
     - [Sch. 6 para. 4 Acceptance of applications](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
     - [Sch. 6 para. 6 Withdrawal of application](schedule/6/paragraph/6.md)
     - [Sch. 6 para. 7 Notice to cease consideration of application](schedule/6/paragraph/7.md)
     - [Sch. 6 para. 8 Communication with workers through independent person after application](schedule/6/paragraph/8.md)
@@ -315,30 +316,38 @@ Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-01
     - [Sch. 6 para. 12 Powers of CAC on proceeding with application](schedule/6/paragraph/12.md)
     - [Sch. 6 para. 13 Ballots](schedule/6/paragraph/13.md)
     - [Sch. 6 para. 14 Ballots](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
     - [Sch. 6 para. 20 General provisions about admissibility of applications](schedule/6/paragraph/20.md)
-    - [Sch. 6 para. 21 General provisions about admissibility of applications](schedule/6/paragraph/21.md)
-    - [Sch. 6 para. 22 General provisions about admissibility of applications](schedule/6/paragraph/22.md)
-    - [Sch. 6 para. 23 General provisions about admissibility of applications](schedule/6/paragraph/23.md)
-    - [Sch. 6 para. 24 General provisions about admissibility of applications](schedule/6/paragraph/24.md)
-    - [Sch. 6 para. 25 General provisions about admissibility of applications](schedule/6/paragraph/25.md)
-    - [Sch. 6 para. 26 General provisions about admissibility of applications](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
     - [Sch. 6 para. 27 General provisions about validity of applications](schedule/6/paragraph/27.md)
-    - [Sch. 6 para. 28 General provisions about validity of applications](schedule/6/paragraph/28.md)
-    - [Sch. 6 para. 29 General provisions about validity of applications](schedule/6/paragraph/29.md)
-    - [Sch. 6 para. 30 General provisions about validity of applications](schedule/6/paragraph/30.md)
-    - [Sch. 6 para. 31 General provisions about validity of applications](schedule/6/paragraph/31.md)
-    - [Sch. 6 para. 32 General provisions about validity of applications](schedule/6/paragraph/32.md)
-    - [Sch. 6 para. 33 General provisions about validity of applications](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
     - [Sch. 6 para. 34 Competing applications](schedule/6/paragraph/34.md)
     - [Sch. 6 para. 35 Voluntary recognition](schedule/6/paragraph/35.md)
   - Part 3 Changes affecting bargaining unit after recognition
     - [Sch. 6 para. 36 Changes relevant to appropriateness of bargaining unit](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
     - [Sch. 6 para. 40 Access agreements](schedule/6/paragraph/40.md)
     - [Sch. 6 para. 41 Unfair practices](schedule/6/paragraph/41.md)
     - [Sch. 6 para. 42 Powers of CAC where CAC decides new unit appropriate](schedule/6/paragraph/42.md)
-    - [Sch. 6 para. 43 Powers of CAC where CAC decides new unit appropriate](schedule/6/paragraph/43.md)
-    - [Sch. 6 para. 44 Powers of CAC where CAC decides new unit appropriate](schedule/6/paragraph/44.md)
-    - [Sch. 6 para. 45 Powers of CAC where CAC decides new unit appropriate](schedule/6/paragraph/45.md)
+    - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
     - [Sch. 6 para. 46 Withdrawal of application](schedule/6/paragraph/46.md)
   - Part 4 Derecognition
     - [Sch. 6 para. 47 Access agreements](schedule/6/paragraph/47.md)
