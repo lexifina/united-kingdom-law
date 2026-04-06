@@ -1,0 +1,619 @@
+# Pensions Act (Northern Ireland) 2015
+
+nia/2015/5. Enacted 2015-06-23.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2015/5
+
+Source: https://www.legislation.gov.uk/nia/2015/5/2026-04-06
+
+## Contents
+
+- PART 1 STATE PENSION
+  - Introduction
+    - [s. 1 State pension](section/1.md)
+  - State pension at the full or reduced rate
+    - [s. 2 Entitlement to state pension at full or reduced rate](section/2.md)
+    - [s. 3 Full and reduced rates of state pension](section/3.md)
+  - State pension at the transitional rate
+    - [s. 4 Entitlement to state pension at transitional rate](section/4.md)
+    - [s. 5 Transitional rate of state pension](section/5.md)
+    - [s. 6 Recalculation and backdating of transitional rate in special cases](section/6.md)
+  - Transitional entitlement based on contributions of others
+    - [s. 7 Survivor’s pension based on inheritance of additional old state pension](section/7.md)
+    - [s. 8 Choice of lump sum or survivor’s pension under section 9 in certain cases](section/8.md)
+    - [s. 9 Survivor’s pension based on inheritance of deferred old state pension](section/9.md)
+    - [s. 10 Inheritance of graduated retirement benefit](section/10.md)
+  - Transition: women who have had a reduced rate election
+    - [s. 11 Reduced rate elections: effect on section 4 pensions](section/11.md)
+    - [s. 12 Reduced rate elections: pension for women with no section 4 pension](section/12.md)
+  - Transition: pension sharing on divorce etc.
+    - [s. 13 Shared state pension on divorce etc.](section/13.md)
+    - [s. 14 Pension sharing: reduction in the sharer’s section 4 pension](section/14.md)
+    - [s. 15 Pension sharing: amendments](section/15.md)
+  - Postponing or suspending state pension
+    - [s. 16 Pensioner’s option to suspend state pension](section/16.md)
+    - [s. 17 Effect of pensioner postponing or suspending state pension](section/17.md)
+    - [s. 18 Section 17 supplementary: calculating weeks, overseas residents, etc.](section/18.md)
+  - Prisoners and overseas residents
+    - [s. 19 Prisoners](section/19.md)
+    - [s. 20 Overseas residents](section/20.md)
+  - Definitions
+    - [s. 21 “Old state pension”](section/21.md)
+    - [s. 22 General definitions etc.](section/22.md)
+  - Consequential and other amendments
+    - [s. 23 Amendments](section/23.md)
+    - [s. 24 Abolition of contracting-out for salary related schemes etc.](section/24.md)
+- PART 2 OPTION TO BOOST OLD RETIREMENT PENSIONS
+  - [s. 25 Option to boost old retirement pensions](section/25.md)
+- PART 3 PENSIONABLE AGE
+  - [s. 26 Increase in pensionable age to 67](section/26.md)
+- PART 4 STATE PENSION CREDIT
+  - [s. 27 State pension credit: phasing out assessed income periods](section/27.md)
+  - [s. 28 Preserving indefinite status of certain existing assessed income periods](section/28.md)
+- PART 5 BEREAVEMENT SUPPORT PAYMENT
+  - [s. 29 Bereavement support payment](section/29.md)
+  - [s. 30 Bereavement support payment: contribution condition and amendments](section/30.md)
+  - [s. 31 Bereavement support payment: prisoners](section/31.md)
+- PART 6 PRIVATE PENSIONS
+  - Transfer of pension benefits
+    - [s. 32 Automatic transfer of pension benefits etc.](section/32.md)
+    - [s. 33 Power to prohibit offer of incentives to transfer pension rights](section/33.md)
+    - [s. 34 Expiry of power in section 33](section/34.md)
+    - [s. 35 Short service benefit for scheme member with money purchase benefits](section/35.md)
+  - Automatic enrolment
+    - [s. 36 Automatic re-enrolment: exceptions where automatic enrolment deferred](section/36.md)
+    - [s. 37 Automatic enrolment: powers to create general exceptions](section/37.md)
+    - [s. 38 Alternative quality requirements for UK defined benefits scheme](section/38.md)
+    - [s. 39 Automatic enrolment: transitional period for hybrid schemes](section/39.md)
+    - [s. 40 Penalty notices under sections 40 and 41 of the Pensions (No. 2) Act etc.](section/40.md)
+    - [s. 41 Unpaid scheme contributions](section/41.md)
+  - Other
+    - [s. 42 Power to restrict charges or impose requirements in relation to schemes](section/42.md)
+    - [s. 43 Disclosure of information about transaction costs to members etc.](section/43.md)
+    - [s. 44 Power to require pension levies to be paid in respect of past periods](section/44.md)
+    - [s. 45 Prohibition and suspension orders: directors of corporate trustees](section/45.md)
+    - [s. 46 Pensions Regulator’s objectives](section/46.md)
+    - [s. 47 Maximum period between scheme returns to be 5 years for micro schemes](section/47.md)
+    - [s. 48 Pension Protection Fund: increased compensation cap for long service](section/48.md)
+    - [s. 49 Pension Protection Fund: compensation cap to apply separately to certain benefits](section/49.md)
+- PART 7 FINAL PROVISIONS
+  - [s. 50 Power to make consequential amendments etc.](section/50.md)
+  - [s. 51 Regulations and orders](section/51.md)
+  - [s. 52 Interpretation](section/52.md)
+  - [s. 53 Commencement](section/53.md)
+  - [s. 54 Short title](section/54.md)
+- SCHEDULE 1 TRANSISTIONAL RATE OF STATE PENSION: CALCULATING THE AMOUNT
+  - PART 1 INTRODUCTION
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - PART 2 AMOUNT FOR PRE-COMMENCEMENT QUALIFYING YEARS
+    - How to calculate the amount for pre-commencement qualifying years
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Step 1: calculation of the person’s pension under the old system
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Step 2: calculation of a pension based on the new system
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Step 4: revaluation
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - PART 3 AMOUNT FOR POST-COMMENCEMENT QUALIFYING YEARS
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 TRANSISTIONAL RATE OF STATE PENSION: UP-RATING
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 SURVIVOR’S PENSION UNDER SECTION 7: INHERITED AMOUNT
+  - Introduction
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Dead spouse or civil partner in old state pension system etc.
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Dead spouse or civil partner in new state pension system
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Supplementary
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 SURVIVOR’S PENSION UNDER SECTION 7: UP-RATING
+  - Introduction
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Rate of section 7 pension, when added to any priority pension, is less than the full rate
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Rate of section 7 pension, when added to any priority pension, straddles the full rate
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Priority pension alone is equal to or higher than the full rate
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 SURVIVOR’S PENSION UNDER SECTION 9: INHERITED DEFERRAL AMOUNT
+  - Introduction
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Dead spouse or civil partner entitled to old state pension with deferral increase
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Dead spouse’s or civil partner’s entitlement to old state pension deferred at time of death
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - “The relevant provisions” of the Contributions and Benefits Act
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Supplementary
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 REDUCED RATE ELECTIONS: EFFECT ON RATE OF SECTION 4 PENSION
+  - Introduction
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Increased transitional rate for woman married to person over pensionable age etc.
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Increased transitional rate for widows or divorcees etc.
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Recalculation of transitional rate where circumstances change
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 REDUCED RATE ELECTIONS: BASIC AMOUNT OF STATE PENSION UNDER SECTION 12
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+- SCHEDULE 8 PENSION SHARING: APPROPRIATE WEEKLY RATE UNDER SECTION 13
+  - Introduction
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Appropriate weekly rate for pensioner with old state scheme pension credit
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Appropriate weekly rate for pensioner with new state scheme pension credit
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Supplementary
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 9 PENSION SHARING: UP-RATING STATE PENSION UNDER SECTION 13
+  - Introduction
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Rate of section 13 pension, when added to any priority pension, is less than the full rate
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Rate of section 13 pension, when added to any priority pension, straddles the full rate
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Priority pension alone is equal to or higher than the full rate
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 PENSION SHARING: APPROPRIATE WEEKLY REDUCTION UNDER SECTION 14
+  - Introduction
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Appropriate weekly reduction for person subject to old state scheme pension debit
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Appropriate weekly reduction for person subject to new state scheme pension debit
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Supplementary
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+- SCHEDULE 11 PENSION SHARING: AMENDMENTS
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - The State Pension Credit Act (Northern Ireland) 2002 (c.14)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+- SCHEDULE 12 STATE PENSION: AMENDMENTS
+  - PART 1 AMENDMENTS TO DO WITH NEW STATE PENSION SYSTEM
+    - The Forfeiture (Northern Ireland) Order 1982 (NI 14)
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+    - The Social Security (Northern Ireland) Order 1993 (NI 2)
+      - [Sch. 12 para. 25](schedule/12/paragraph/25.md)
+    - The Pensions (Northern Ireland) Order 1995 (NI 22)
+      - [Sch. 12 para. 26](schedule/12/paragraph/26.md)
+    - The Social Security (Northern Ireland) Order 1998 (NI 10)
+      - [Sch. 12 para. 27](schedule/12/paragraph/27.md)
+      - [Sch. 12 para. 28](schedule/12/paragraph/28.md)
+      - [Sch. 12 para. 29](schedule/12/paragraph/29.md)
+      - [Sch. 12 para. 30](schedule/12/paragraph/30.md)
+      - [Sch. 12 para. 31](schedule/12/paragraph/31.md)
+      - [Sch. 12 para. 32](schedule/12/paragraph/32.md)
+      - [Sch. 12 para. 33](schedule/12/paragraph/33.md)
+    - The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)
+      - [Sch. 12 para. 34](schedule/12/paragraph/34.md)
+    - The Social Security Fraud Act (Northern Ireland) 2001 (c. 17)
+      - [Sch. 12 para. 35](schedule/12/paragraph/35.md)
+      - [Sch. 12 para. 36](schedule/12/paragraph/36.md)
+      - [Sch. 12 para. 37](schedule/12/paragraph/37.md)
+    - The State Pension Credit Act (Northern Ireland) 2002 (c. 14)
+      - [Sch. 12 para. 38](schedule/12/paragraph/38.md)
+      - [Sch. 12 para. 39](schedule/12/paragraph/39.md)
+      - [Sch. 12 para. 40](schedule/12/paragraph/40.md)
+    - The Gender Recognition Act 2004 (c. 7)
+      - [Sch. 12 para. 41](schedule/12/paragraph/41.md)
+      - [Sch. 12 para. 42](schedule/12/paragraph/42.md)
+      - [Sch. 12 para. 43](schedule/12/paragraph/43.md)
+    - The Welfare Reform Act (Northern Ireland) 2015
+      - [Sch. 12 para. 44](schedule/12/paragraph/44.md)
+  - PART 2 AMENDMENTS TO DO WITH OLD STATE PENSION SYSTEM
+    - Graduated retirement benefit
+      - [Sch. 12 para. 45](schedule/12/paragraph/45.md)
+    - Category A retirement pensions
+      - [Sch. 12 para. 46](schedule/12/paragraph/46.md)
+      - [Sch. 12 para. 47](schedule/12/paragraph/47.md)
+      - [Sch. 12 para. 48](schedule/12/paragraph/48.md)
+    - Category B retirement pensions
+      - [Sch. 12 para. 49](schedule/12/paragraph/49.md)
+      - [Sch. 12 para. 50](schedule/12/paragraph/50.md)
+      - [Sch. 12 para. 51](schedule/12/paragraph/51.md)
+      - [Sch. 12 para. 52](schedule/12/paragraph/52.md)
+      - [Sch. 12 para. 53](schedule/12/paragraph/53.md)
+      - [Sch. 12 para. 54](schedule/12/paragraph/54.md)
+      - [Sch. 12 para. 55](schedule/12/paragraph/55.md)
+      - [Sch. 12 para. 56](schedule/12/paragraph/56.md)
+      - [Sch. 12 para. 57](schedule/12/paragraph/57.md)
+      - [Sch. 12 para. 58](schedule/12/paragraph/58.md)
+      - [Sch. 12 para. 59](schedule/12/paragraph/59.md)
+      - [Sch. 12 para. 60](schedule/12/paragraph/60.md)
+      - [Sch. 12 para. 61](schedule/12/paragraph/61.md)
+      - [Sch. 12 para. 62](schedule/12/paragraph/62.md)
+      - [Sch. 12 para. 63](schedule/12/paragraph/63.md)
+      - [Sch. 12 para. 64](schedule/12/paragraph/64.md)
+    - Category C retirement pensions: repeal of spent provisions
+      - [Sch. 12 para. 65](schedule/12/paragraph/65.md)
+      - [Sch. 12 para. 66](schedule/12/paragraph/66.md)
+      - [Sch. 12 para. 67](schedule/12/paragraph/67.md)
+      - [Sch. 12 para. 68](schedule/12/paragraph/68.md)
+    - Category D retirement pensions
+      - [Sch. 12 para. 69](schedule/12/paragraph/69.md)
+    - Age addition
+      - [Sch. 12 para. 70](schedule/12/paragraph/70.md)
+    - Christmas bonus
+      - [Sch. 12 para. 71](schedule/12/paragraph/71.md)
+  - PART 3 AMENDMENTS TO DO WITH STATE PENSION CREDIT
+    - [Sch. 12 para. 72](schedule/12/paragraph/72.md)
+    - [Sch. 12 para. 73](schedule/12/paragraph/73.md)
+    - [Sch. 12 para. 74](schedule/12/paragraph/74.md)
+    - [Sch. 12 para. 75](schedule/12/paragraph/75.md)
+  - PART 4 OTHER AMENDMENTS TO DO WITH PART 1
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 12 para. 76](schedule/12/paragraph/76.md)
+      - [Sch. 12 para. 77](schedule/12/paragraph/77.md)
+      - [Sch. 12 para. 78](schedule/12/paragraph/78.md)
+    - The Pension Schemes (Northern Ireland) Act 1993 (c. 49)
+      - [Sch. 12 para. 79](schedule/12/paragraph/79.md)
+    - The Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11)
+      - [Sch. 12 para. 80](schedule/12/paragraph/80.md)
+    - The Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
+      - [Sch. 12 para. 81](schedule/12/paragraph/81.md)
+    - The Pensions Act (Northern Ireland) 2012 (c. 3)
+      - [Sch. 12 para. 82](schedule/12/paragraph/82.md)
+- SCHEDULE 13 ABOLOTION OF CONTRACTING-OUT FOR SALARY RELATED SCHEMES
+  - PART 1 PENSION SCHEMES (NORTHERN IRELAND) ACT 1993: AMENDMENTS
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+  - PART 2 OTHER STATUTORY PROVISIONS: AMENDMENTS
+    - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+      - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+      - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+      - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+      - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+      - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+      - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+      - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+      - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+      - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+      - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+    - The Pensions (Northern Ireland) Order 1995 (NI 22)
+      - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+      - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+      - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+      - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+      - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+      - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+      - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+      - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+    - The Employment Rights (Northern Ireland) Order 1996 (NI 16)
+      - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+      - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+      - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+    - The Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)
+      - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+      - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+      - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+    - The Pensions (Northern Ireland) Order 2005 (NI 1)
+      - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+    - The Companies Act 2006 (c. 46)
+      - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+      - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+      - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+    - The Pensions Act (Northern Ireland) 2008 (c. 1)
+      - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+      - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
+      - [Sch. 13 para. 77](schedule/13/paragraph/77.md)
+      - [Sch. 13 para. 78](schedule/13/paragraph/78.md)
+    - The Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)
+      - [Sch. 13 para. 79](schedule/13/paragraph/79.md)
+      - [Sch. 13 para. 80](schedule/13/paragraph/80.md)
+      - [Sch. 13 para. 81](schedule/13/paragraph/81.md)
+- SCHEDULE 14 POWER TO AMEND SCHEMES TO REFLECT ABOLITION OF CONTRACTING-OUT
+  - Introduction
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - What can the power be used to do?
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - Creation of exceptions
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+  - Requirement for actuary’s certificates
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - When can the power be used?
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+  - Can the power be used more than once?
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+  - Modifications for multi-employer or sectionalised schemes
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - The power overrides other legislation
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+  - Procedural requirements and supplementary matters
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+  - Information
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Definitions
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+- SCHEDULE 15 OPTION TO BOOST OLD RETIREMENT PENSIONS
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 4)
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - The Welfare Reform and Pensions (Northern Ireland) Order 1999 (NI 11)
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+- SCHEDULE 16 BEREAVEMENT SUPPORT PAYMENT: AMENDMENTS
+  - The Forfeiture (Northern Ireland) Order 1982 (NI 14)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c. 7)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+  - The Social Security Administration (Northern Ireland) Act 1992 (c. 8)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+    - [Sch. 16 para. 27](schedule/16/paragraph/27.md)
+    - [Sch. 16 para. 28](schedule/16/paragraph/28.md)
+    - [Sch. 16 para. 29](schedule/16/paragraph/29.md)
+    - [Sch. 16 para. 30](schedule/16/paragraph/30.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+  - The Social Security (Northern Ireland) Order 1993 (NI 2)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+  - The Social Security (Northern Ireland) Order 1998 (NI 10)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+    - [Sch. 16 para. 36](schedule/16/paragraph/36.md)
+    - [Sch. 16 para. 37](schedule/16/paragraph/37.md)
+    - [Sch. 16 para. 38](schedule/16/paragraph/38.md)
+    - [Sch. 16 para. 39](schedule/16/paragraph/39.md)
+    - [Sch. 16 para. 40](schedule/16/paragraph/40.md)
+  - The Social Security Fraud Act (Northern Ireland) 2001 (c. 17)
+    - [Sch. 16 para. 41](schedule/16/paragraph/41.md)
+    - [Sch. 16 para. 42](schedule/16/paragraph/42.md)
+    - [Sch. 16 para. 43](schedule/16/paragraph/43.md)
+    - [Sch. 16 para. 44](schedule/16/paragraph/44.md)
+  - The Income Tax (Earnings and Pensions) Act 2003 (c. 1)
+    - [Sch. 16 para. 45](schedule/16/paragraph/45.md)
+    - [Sch. 16 para. 46](schedule/16/paragraph/46.md)
+    - [Sch. 16 para. 47](schedule/16/paragraph/47.md)
+- SCHEDULE 17 AUTOMATIC TRANSFER OF PENSION BENEFITS ETC.
+  - PART 1 AUTOMATIC TRANSFER OF PENSION BENEFITS
+    - Regulations providing for transfer of cash equivalent of transferable benefits
+      - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+    - Automatic transfer scheme to find out whether members have transferable benefits
+      - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+    - Automatic transfer scheme to request transfer of cash equivalent
+      - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - Right to opt out of automatic transfer
+      - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - Information to be given to qualifying members of automatic transfer schemes
+      - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - Transferable benefits scheme to comply with request
+      - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - Automatic transfer scheme to use cash equivalent to provide rights under the scheme
+      - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - Cash equivalents: calculation and verification
+      - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - Disclosure of information and establishment of database
+      - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - Compliance
+      - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - Record keeping
+      - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - Further provision about the regulations
+      - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - PART 2 MERGER OF PENSION ACCOUNTS
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - PART 3 INTERPRETATION ETC.
+    - Interpretation etc.
+      - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - Crown application
+      - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - Overriding provision
+      - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - Other provision relating to regulations under this Schedule
+      - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+      - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+    - Amendments
+      - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+      - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+- SCHEDULE 18 POWER TO RESTRICT CHARGES OR IMPOSE REQUIREMENTS IN RELATION TO SCHEMES
+  - Power to restrict charges
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Power to impose requirements relating to administration or governance
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Compliance
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Interpretation
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - Crown application
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Overriding provision
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Other provision relating to regulations under this Schedule
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Amendments
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+- SCHEDULE 19 PROHIBITION ORDERS: CONSEQUENTIAL AMENDMENTS
+  - The Pensions (Northern Ireland) Order 1995 (NI 22)
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+  - The Pensions (Northern Ireland) Order 2005 (NI 1)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10](schedule/19/paragraph/10.md)
+- SCHEDULE 20 PENSION PROTECTION FUND: INCREASED COMPENSATION CAP FOR LONG SERVICE
+  - PART 1 THE NEW COMPENSATION CAP
+    - [Sch. 20 para. 1](schedule/20/paragraph/1.md)
+    - [Sch. 20 Pt. 1 para. 2](schedule/20/part/1/paragraph/2.md)
+    - [Sch. 20 Pt. 1 para. 3](schedule/20/part/1/paragraph/3.md)
+    - [Sch. 20 Pt. 1 para. 4](schedule/20/part/1/paragraph/4.md)
+    - [Sch. 20 para. 5](schedule/20/paragraph/5.md)
+    - [Sch. 20 para. 6](schedule/20/paragraph/6.md)
+    - [Sch. 20 para. 7](schedule/20/paragraph/7.md)
+  - PART 2 EFFECT OF CHANGE IN TRANSISTIONAL CASES
+    - Recalculation of periodic compensation going forwards
+      - [Sch. 20 para. 8](schedule/20/paragraph/8.md)
+    - New cap does not generally affect old payments
+      - [Sch. 20 para. 9](schedule/20/paragraph/9.md)
+    - Survivors’ compensation
+      - [Sch. 20 para. 10](schedule/20/paragraph/10.md)
+    - Cases involving early payment or postponement of compensation
+      - [Sch. 20 para. 11](schedule/20/paragraph/11.md)
+    - Recalculation of terminal illness lump sums given in the past year
+      - [Sch. 20 para. 12](schedule/20/paragraph/12.md)
+    - Meaning of “the pension compensation provisions” in Part 3 of the 2005 Order
+      - [Sch. 20 para. 13](schedule/20/paragraph/13.md)
+  - PART 3 SCHEMES UNDERGOING ASSESSMENT OR WINDING UP ON THE COMMENCEMENT DATE
+    - Schemes undergoing assessment on the commencement date
+      - [Sch. 20 para. 14](schedule/20/paragraph/14.md)
+    - ...
+    - ...
+    - Schemes that begin winding up before the commencement date
+      - [Sch. 20 para. 15](schedule/20/paragraph/15.md)
+    - ...
+    - ...
+    - Meaning of “undergoing assessment”
+      - [Sch. 20 para. 16](schedule/20/paragraph/16.md)
+    - Meaning of “eligible scheme”
+      - [Sch. 20 para. 17](schedule/20/paragraph/17.md)
+  - PART 4 INTERPRETATION AND POWER TO MAKE FURTHER TRANSISTIONAL PROVISION
+    - Interpretation
+      - [Sch. 20 para. 18](schedule/20/paragraph/18.md)
+      - [Sch. 20 para. 19](schedule/20/paragraph/19.md)
+    - Further transitional provision
+      - [Sch. 20 para. 20](schedule/20/paragraph/20.md)
+      - [Sch. 20 para. 21](schedule/20/paragraph/21.md)
+      - [Sch. 20 para. 22](schedule/20/paragraph/22.md)
