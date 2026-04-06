@@ -1,0 +1,344 @@
+# Utilities Act 2000
+
+2000 c. 27. Enacted 2000-07-28.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 4 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
+
+Source: https://www.legislation.gov.uk/ukpga/2000/27/2026-04-06
+
+## Contents
+
+- Part I New regulatory arrangements
+  - [s. 1 Gas and Electricity Markets Authority.](section/1.md)
+  - [s. 2 Gas and Electricity Consumer Council.](section/2.md)
+  - [s. 3 Transfer to Authority ... of functions, property etc.](section/3.md)
+  - [s. 3A Exercise of designated regulatory functions etc](section/3A.md)
+  - [s. 4 Forward work programmes.](section/4.md)
+  - [s. 4A Information in relation to strategy and policy statement](section/4A.md)
+  - [s. 5 Annual and other reports of Authority.](section/5.md)
+  - [s. 5XA Laying of accounts before Scottish Parliament, Senedd Cymru or the Northern Ireland Assembly](section/5XA.md)
+  - [s. 5ZA Report on activities as designated regulatory authority](section/5ZA.md)
+  - [s. 5A Duty of Authority to carry out impact assessment](section/5A.md)
+  - [s. 6 Publication of advice and information about consumer matters.](section/6.md)
+  - [s. 7 Co-operation between Authority and Council.](section/7.md)
+  - [s. 8 Payments by licence holders relating to new arrangements.](section/8.md)
+- Part II Objectives of regulation of gas and electricity
+  - Gas
+    - [s. 9 Objectives and duties under 1986 Act.](section/9.md)
+    - [s. 10 Guidance on social and environmental matters in relation to gas.](section/10.md)
+    - [s. 11 Health and safety in relation to gas.](section/11.md)
+    - [s. 12 Exceptions from the general duties under 1986 Act.](section/12.md)
+  - Electricity
+    - [s. 13 Objectives and duties under 1989 Act.](section/13.md)
+    - [s. 14 Guidance on social and environmental matters in relation to electricity.](section/14.md)
+    - [s. 15 Health and safety in relation to electricity.](section/15.md)
+    - [s. 16 Exceptions from the general duties under 1989 Act.](section/16.md)
+- Part III Functions of the Council
+  - [s. 17 Preliminary.](section/17.md)
+  - [s. 18 Acquisition and review of information.](section/18.md)
+  - [s. 19 Provision of advice and information to public authorities and other persons.](section/19.md)
+  - [s. 20 Provision of information to consumers.](section/20.md)
+  - [s. 21 Power to publish advice and information about consumer matters.](section/21.md)
+  - [s. 22 Complaints.](section/22.md)
+  - [s. 23 Investigations.](section/23.md)
+  - [s. 24 Provision of information to Council.](section/24.md)
+  - [s. 25 Publication of notice of reasons.](section/25.md)
+  - [s. 26 Provision of information by Council to Authority.](section/26.md)
+  - [s. 27 Sections 24 to 26: supplementary.](section/27.md)
+- Part IV Amendment of the Electricity Act 1989
+  - Electricity licensing
+    - [s. 28 Prohibition on unlicensed distribution of electricity.](section/28.md)
+    - [s. 29 Exemptions from electricity licensing.](section/29.md)
+    - [s. 30 Licences authorising supply etc. of electricity.](section/30.md)
+    - [s. 31 Enactments referring to public electricity suppliers.](section/31.md)
+    - [s. 32 Electricity licence conditions.](section/32.md)
+    - [s. 33 Standard conditions of electricity licences.](section/33.md)
+    - [s. 34 Modification of conditions of particular licence.](section/34.md)
+    - [s. 35 Modification of standard conditions of licences.](section/35.md)
+    - [s. 36 Electricity licence modification references.](section/36.md)
+    - [s. 37 Reports on modification references.](section/37.md)
+    - [s. 38 Modification following report.](section/38.md)
+    - [s. 39 Competition Commission’s power to veto modifications.](section/39.md)
+    - [s. 40 Modification by order under other enactments.](section/40.md)
+    - [s. 41 Transfer of electricity licences.](section/41.md)
+    - [s. 42 Reasons for decisions under 1989 Act.](section/42.md)
+    - [s. 43 Altering activities requiring electricity licence.](section/43.md)
+  - Duties of electricity distributors
+    - [s. 44 Duty to connect on request.](section/44.md)
+    - [s. 45 Abolition of tariffs.](section/45.md)
+    - [s. 46 Power to recover expenditure.](section/46.md)
+    - [s. 47 Power to require security.](section/47.md)
+    - [s. 48 Additional terms of connection.](section/48.md)
+    - [s. 49 Special agreements with respect to connection.](section/49.md)
+    - [s. 50 General duties of electricity distributors.](section/50.md)
+  - Electricity code and metering
+    - [s. 51 The electricity code.](section/51.md)
+    - [s. 52 Amendment of Schedule 7 to 1989 Act.](section/52.md)
+  - Powers of electricity licence holders
+    - [s. 53 Powers of electricity licence holders.](section/53.md)
+  - Electricity performance standards
+    - [s. 54 Standards of performance in individual cases.](section/54.md)
+    - [s. 55 Overall standards of performance.](section/55.md)
+    - [s. 56 Standards of performance: procedures.](section/56.md)
+    - [s. 57 Information with respect to levels of performance.](section/57.md)
+    - [s. 58 Information to be given to customers.](section/58.md)
+  - Enforcement of obligations
+    - [s. 59 Financial penalties.](section/59.md)
+    - [s. 60 Licence enforcement.](section/60.md)
+  - Remuneration and service standards
+    - [s. 61 Links between directors’ remuneration and electricity service standards.](section/61.md)
+  - Electricity from renewable sources
+    - [s. 62 Obligation in connection with electricity from renewable sources.](section/62.md)
+    - [s. 63 Orders under section 32: supplementary.](section/63.md)
+    - [s. 64 Green certificates.](section/64.md)
+    - [s. 65 Alternative way of discharging renewables obligation: payments.](section/65.md)
+    - [s. 66 Abolition of fossil fuel levy.](section/66.md)
+    - [s. 67 Supplementary.](section/67.md)
+  - Miscellaneous
+    - [s. 68 Modification of licences: electricity trading arrangements.](section/68.md)
+    - [s. 69 Help for disadvantaged groups of electricity customers.](section/69.md)
+    - [s. 70 Energy efficiency requirements for electricity distributors and suppliers.](section/70.md)
+    - [s. 71 General duties of transmission licence holders in Scotland.](section/71.md)
+    - [s. 72 Uniform prices etc. in certain areas of Scotland.](section/72.md)
+    - [s. 73 Maximum prices for reselling electricity.](section/73.md)
+- Part V Amendment of the Gas Act 1986
+  - Gas licensing
+    - [s. 74 Gas licence conditions.](section/74.md)
+    - [s. 75 Exceptions from section 5 of 1986 Act.](section/75.md)
+    - [s. 76 Gas transporters.](section/76.md)
+    - [s. 77 Restriction on use of certain pipe-lines for providing a supply of gas.](section/77.md)
+    - [s. 78 Construction of pipe-lines by gas transporters.](section/78.md)
+    - [s. 79 Duty to facilitate competition.](section/79.md)
+    - [s. 80 Gas transporters’ duty to make a connection.](section/80.md)
+    - [s. 81 Standard conditions of gas licences.](section/81.md)
+    - [s. 82 Modification of standard conditions of gas licences.](section/82.md)
+    - [s. 83 Modification following Competition Commission report.](section/83.md)
+    - [s. 84 The gas code.](section/84.md)
+    - [s. 85 Transfer of gas licences.](section/85.md)
+    - [s. 86 Exemptions from gas licensing.](section/86.md)
+    - [s. 87 Reasons for decisions under 1986 Act.](section/87.md)
+    - [s. 88 Altering activities requiring gas licence.](section/88.md)
+  - Gas performance standards
+    - [s. 89 Repeal of section 10(2) to (5) of Gas Act 1995.](section/89.md)
+    - [s. 90 Standards of performance in individual cases.](section/90.md)
+    - [s. 91 Overall standards of performance.](section/91.md)
+    - [s. 92 Standards of performance: procedures.](section/92.md)
+    - [s. 93 Information with respect to levels of performance.](section/93.md)
+    - [s. 94 Information to be given to customers.](section/94.md)
+  - Enforcement of obligations
+    - [s. 95 Financial penalties.](section/95.md)
+    - [s. 96 Licence enforcement.](section/96.md)
+  - Remuneration and service standards
+    - [s. 97 Links between directors’ remuneration and gas service standards.](section/97.md)
+  - Miscellaneous
+    - [s. 98 Help for disadvantaged groups of gas customers.](section/98.md)
+    - [s. 99 Energy efficiency requirements for gas transporters and suppliers.](section/99.md)
+    - [s. 100 Exercise of powers to make regulations.](section/100.md)
+    - [s. 101 Standards of gas quality.](section/101.md)
+    - [s. 102 Maximum prices for reselling gas.](section/102.md)
+- Part VI Miscellaneous and Supplementary
+  - Miscellaneous
+    - [s. 103 Overall carbon emissions reduction targets.](section/103.md)
+    - [s. 103A Overall home-heating cost reduction targets](section/103A.md)
+    - [s. 103B Power of Secretary of State and the Scottish Ministers to require information: carbon emissions reduction targets and home-heating cost reduction targets](section/103B.md)
+    - [s. 104 Specialist members of the Competition Commission.](section/104.md)
+    - [s. 105 General restrictions on disclosure of information.](section/105.md)
+    - [s. 105A Restrictions on disclosure in respect of cross-border exchanges of information](section/105A.md)
+  - Supplementary
+    - [s. 106 Interpretation.](section/106.md)
+    - [s. 107 Financial provisions.](section/107.md)
+    - [s. 108 Amendments, transitional provisions and repeals.](section/108.md)
+    - [s. 109 Power to make transitional provision etc.](section/109.md)
+    - [s. 110 Short title, commencement and extent.](section/110.md)
+- SCHEDULE 1 The Gas and Electricity Markets Authority
+  - Membership
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Terms of appointment, remuneration, pensions etc.
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Staff
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Committees
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Proceedings etc.
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Performance of functions
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Supplementary powers
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 The Gas and Electricity Consumer Council
+  - Membership of Council
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Terms of appointment, remuneration, pensions et ceteralaetc.
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Staff
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Annual reports
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Financial provisions and accounts
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Regional and other committees and sub-committees
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Performance of functions of the Council
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Supplementary powers
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+- SCHEDULE 3 Further provision about transfers of functions, property etc.
+  - Preliminary
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Contents of transfer schemes
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Modification of transfer scheme after appointed day
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Effect of transfers
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Continuity of employment, etc. of transferred employees
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Schedule to be substituted for Schedule 6 to the 1989 Act
+- SCHEDULE 5 Electricity metering
+  - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Minor and consequential amendments
+  - Part I Gas Act 1986
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+    - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+    - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+    - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+    - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+    - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+  - Part II Electricity Act 1989
+    - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+    - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+    - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+    - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+    - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+  - Part III Other Acts
+    - Rights of Entry (Gas and Electricity Boards) Act 1954 (c. 21)
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - Public Records Act 1958 (c. 51)
+      - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - Bankruptcy (Scotland) Act 1985 (c. 66)
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - Insolvency Act 1986 (c. 45)
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+- SCHEDULE 7 Transitional provisions and savings
+  - Part I Separation of electricity supply and distribution
+    - Application and purpose of Part I
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Nominations and transfer schemes
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Secretary of State’s powers in relation to transfer schemes
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Effect of transfer scheme
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Supplementary provisions as to transfers
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Shares issued in pursuance of a transfer scheme
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Statutory accounts
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - Consequential modifications of rating provisions
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Interpretation
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Part II Secretary of State’s licensing schemes
+    - Existing electricity supply licences
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+      - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+      - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - Existing generation and transmission licences
+      - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - Existing gas licences
+      - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - Effect of licensing schemes
+      - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+    - Provision of information by licence holders
+      - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - Consultation by Secretary of State
+      - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+  - Part III Former tariff customers
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+  - Part IV Other transitional provisions and savings
+    - Compensation for members of abolished consumer bodies
+      - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - Consultation by Council before establishing regional committees
+      - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - First financial years of Authority and Council
+      - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - First forward work programmes of Authority and Council
+      - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+      - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - Last annual reports of the Directors
+      - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - Last annual report of the Gas Consumers’ Council
+      - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - Investigations being carried out under the 1986 Act
+      - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - Investigations being carried out under the 1989 Act
+      - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+- SCHEDULE 8 Repeals
