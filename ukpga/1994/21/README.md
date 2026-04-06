@@ -1,0 +1,541 @@
+# Coal Industry Act 1994
+
+1994 c. 21. Enacted 1994-07-05.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 19 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1994/21
+
+Source: https://www.legislation.gov.uk/ukpga/1994/21/2026-04-06
+
+## Contents
+
+- Part I Re-organisation of Coal Industry
+  - The Coal Authority
+    - [s. 1 Establishment of the Coal Authority.](section/1.md)
+    - [s. 2 Duties of the Authority with respect to licensing.](section/2.md)
+    - [s. 3 Duties of the Authority with respect to property.](section/3.md)
+    - [s. 4 Duty of the Authority with respect to safety.](section/4.md)
+    - [s. 4A Power of the Authority with respect to coal mine water discharge](section/4A.md)
+    - [s. 4B Coal mine water discharge: powers of entry](section/4B.md)
+    - [s. 4C Coal mine water discharge: compulsory purchase of land](section/4C.md)
+    - [s. 4CA Further powers relating to subsidence and water discharge](section/4CA.md)
+    - [s. 4D Power of the Authority with respect to coal mine water discharge: Scotland](section/4D.md)
+    - [s. 4E](section/4E.md)
+    - [s. 4F Coal mine discharge: compulsory acquisition of land in Scotland](section/4F.md)
+    - [s. 4G Further powers relating to subsidence and water discharge: Scotland](section/4G.md)
+    - [s. 5 General powers of the Authority.](section/5.md)
+    - [s. 6 Directions to the Authority by the Secretary of State.](section/6.md)
+  - The Corporation’s exploitation rights
+    - [s. 7 Exploitation rights: general.](section/7.md)
+    - [s. 8 Exploitation rights: territorial waters and continental shelf.](section/8.md)
+    - [s. 9 Exploitation rights: oil and gas.](section/9.md)
+    - [s. 10 Protection for certain interests in coal and coal mines.](section/10.md)
+  - Restructuring of the Corporation’s undertaking
+    - [s. 11 Restructuring of the Corporation’s functions.](section/11.md)
+    - [s. 12 Restructuring schemes in relation to property etc.](section/12.md)
+    - [s. 13 Agreements with respect to restructuring schemes.](section/13.md)
+    - [s. 14 Duty to assist in preparation of restructuring schemes.](section/14.md)
+  - The Corporation’s successors
+    - [s. 15 Financial structure of successor companies.](section/15.md)
+    - [s. 16 Target investment limit for Government holding in successor companies.](section/16.md)
+  - Financial arrangements in connection with restructuring
+    - [s. 17 Grant-making powers.](section/17.md)
+    - [s. 18 Residual payments grant.](section/18.md)
+    - [s. 19 Concessionary coal.](section/19.md)
+    - [s. 20 Extinguishment of loans to the Corporation.](section/20.md)
+    - [s. 21 Taxation effects of restructuring.](section/21.md)
+    - [s. 22 Pensions and miners’ welfare organisations.](section/22.md)
+  - Reduction in membership and dissolution of the Corporation
+    - [s. 23 Reduction in membership and dissolution of the Corporation.](section/23.md)
+  - Abolition of the Domestic Coal Consumers’ Council
+    - [s. 24 Abolition of the Domestic Coal Consumers’ Council.](section/24.md)
+- Part II Licensing of Coal-mining Operations
+  - Coal-mining operations to be licensed
+    - [s. 25 Coal-mining operations to be licensed.](section/25.md)
+  - Licences under Part II
+    - [s. 26 Grant of licences.](section/26.md)
+    - [s. 26A Licences for coal-mining operations in Wales: approval by Welsh Ministers](section/26A.md)
+    - [s. 27 Authorisation contained in licence.](section/27.md)
+    - [s. 28 Conditions of licence: general.](section/28.md)
+    - [s. 29 Conditions for the provision of security.](section/29.md)
+    - [s. 30 Publication of licensing arrangements.](section/30.md)
+  - Enforcement
+    - [s. 31 Enforcement orders.](section/31.md)
+    - [s. 32 Procedural requirements for enforcement orders.](section/32.md)
+    - [s. 33 Validity and effect of enforcement orders.](section/33.md)
+    - [s. 34 Power to require information for the purposes of enforcement.](section/34.md)
+  - Supplemental
+    - [s. 35 Register of licences and orders.](section/35.md)
+    - [s. 36 Insolvency of licensed operators etc.](section/36.md)
+- Part III Rights and Obligations in connection with Coal Mining
+  - Areas of responsibility
+    - [s. 37 Areas of responsibility.](section/37.md)
+  - Withdrawal of support from land
+    - [s. 38 Rights to withdraw support.](section/38.md)
+    - [s. 39 Notices under section 38.](section/39.md)
+    - [s. 40 Savings for special cases.](section/40.md)
+    - [s. 41 Revocation of right to withdraw support.](section/41.md)
+  - Subsidence
+    - [s. 42 Subsidence damage to which 1991 Act applies.](section/42.md)
+    - [s. 43 Persons responsible for subsidence.](section/43.md)
+    - [s. 44 Cases where there is more than one responsible person.](section/44.md)
+    - [s. 45 Information to be provided by responsible persons.](section/45.md)
+    - [s. 46 The subsidence adviser.](section/46.md)
+    - [s. 47 Disputes etc. as to subsidence matters.](section/47.md)
+    - [s. 48 Offences with respect to subsidence information.](section/48.md)
+  - Rights in relation to former copyhold land
+    - [s. 49 Rights to work coal in former copyhold land.](section/49.md)
+    - [s. 50 Notices under section 49.](section/50.md)
+  - Additional rights in relation to underground land
+    - [s. 51 Additional rights in relation to underground land.](section/51.md)
+  - Opencast operations
+    - [s. 52 Opencast operations.](section/52.md)
+  - Protection of the environment
+    - [s. 53 Environmental duties in connection with planning.](section/53.md)
+    - [s. 54 Obligations to restore land affected by coal-mining operations.](section/54.md)
+  - Health and safety regulations as to rescue service
+    - [s. 55 Health and safety regulations as to rescue service.](section/55.md)
+  - Registration of rights
+    - [s. 56 Registration of rights.](section/56.md)
+- Part IV General and Supplemental
+  - Information provisions
+    - [s. 57 Public access to information held by the Authority.](section/57.md)
+    - [s. 58 Liability for inaccurate information furnished to the Authority.](section/58.md)
+    - [s. 59 Information to be kept confidential by the Authority.](section/59.md)
+    - [s. 60 Annual report of the Authority.](section/60.md)
+    - [s. 61 Report on financial assistance for coal-mining museums.](section/61.md)
+  - Supplemental
+    - [s. 62 Financial provisions.](section/62.md)
+    - [s. 63 Provisions relating to the service of documents.](section/63.md)
+    - [s. 64 Offences by bodies corporate etc.](section/64.md)
+    - [s. 65 Interpretation.](section/65.md)
+    - [s. 65A Shadow directors](section/65A.md)
+    - [s. 66 Crown application.](section/66.md)
+    - [s. 67 Amendments, transitional provisions, savings and repeals.](section/67.md)
+    - [s. 68 Short title, commencement and extent.](section/68.md)
+- SCHEDULE 1 The Coal Authority
+  - Part I Organisation and Proceedings
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Remuneration, pensions etc.
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Staff
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Proceedings of Authority
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Delegation of powers
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Interests of members
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - Vacancies and defective appointments
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Minutes
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Application of seal and proof of instruments
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - The Parliamentary Commissioner
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Parliamentary disqualification etc.
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Interpretation
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Part II Financial Provisions
+    - Financial duties
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Finances of the Authority
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Accounts
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 1A Supplemental provisions with respect to powers of entry
+  - Interpretation
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - Issue of warrants
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - Manner of exercise of powers
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - Duty to secure premises
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - Compensation
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+- SCHEDULE 1B Modification of compensation provisions etc in relation to the creation of new rights
+  - Compensation enactments
+    - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+  - Adaptation of the Compulsory Purchase Act 1965
+    - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - Section 7 of the 1965 Act
+    - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+  - Section 8 of the 1965 Act
+    - [Sch. 1B para. 4](schedule/1B/paragraph/4.md)
+  - Effect of deed poll
+    - [Sch. 1B para. 5](schedule/1B/paragraph/5.md)
+  - Section 11 of the 1965 Act
+    - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+  - Section 20 of the 1965 Act
+    - [Sch. 1B para. 7](schedule/1B/paragraph/7.md)
+  - Section 22 of the 1965 Act
+    - [Sch. 1B para. 8](schedule/1B/paragraph/8.md)
+- SCHEDULE 1C Supplemental provisions with respect to powers of entry: Scotland
+  - Exercise of powers of entry etc.
+    - [Sch. 1C para. 1](schedule/1C/paragraph/1.md)
+  - Warrants
+    - [Sch. 1C para. 2](schedule/1C/paragraph/2.md)
+- SCHEDULE 2 Restructuring schemes
+  - Contents and effect of scheme
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Division of property by scheme
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Property to which a scheme may relate
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Supplemental provisions of schemes
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Duties in relation to foreign property etc.
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Modification of effect of scheme by agreement
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - The Transfer of Undertakings (Protection of Employment) Regulations 1981
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Compensation
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Notice to persons affected by scheme
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+- SCHEDULE 3 Financial structure of successor companies
+  - Meaning of “relevant successor company”
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Initial Government holding in companies
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Government investment in companies
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Exercise of functions through nominees
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Payment of dividends etc. into Consolidated Fund
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Distributable reserves of companies
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Temporary restrictions on borrowing of companies
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Government lending to the companies
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Treasury guarantees for loans made to companies
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Limit on Government financial assistance for companies
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+- SCHEDULE 4 Taxation Provisions
+  - Part I Corporation Tax
+    - Interpretation of Part I
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Chargeable gains: general
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Chargeable gains: compensation and insurance money
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Chargeable gains: section 30 of the 1992 Act
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Chargeable gains: section 41 of the 1992 Act
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Chargeable gains: options
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Chargeable gains: roll-over relief
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Chargeable gains: group transactions
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Chargeable gains: disposal of debts
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Chargeable gains: assets held before 6th April 1965
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Transfers of trading stock
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Transfer of rights to receipts
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Transfer of liabilities
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - Losses to be retained by the predecessor
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - Section 35 of the 1988 Act
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Group relief
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Special provision for successor companies
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Leased assets
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - Continuity in relation to capital allowances etc. where trade transferred
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Capital allowances in cases where paragraph 19 does not apply
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - Capital allowances in cases where interests created by restructuring scheme
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Capital allowances for machinery and plant: connected persons
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Exchange gains and losses
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Transfers of property in coal and lease back etc.
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - Modifications of restructuring scheme
+      - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - Part II Stamp Duty and Stamp Duty Reserve Tax
+    - Transactions attracting exemptions
+      - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - Stamp duty
+      - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - Stamp duty reserve tax
+      - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+- SCHEDULE 5 Pensions Provision in connection with Restructuring
+  - Interpretation of Schedule
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Modification of existing schemes
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Replacement schemes for employees transferred to the private sector etc.
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Protection for rights under private sector schemes
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - General provisions
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+- SCHEDULE 6 Further modifications of the 1991 Act
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+- SCHEDULE 7 Retained Interests in Copyhold Land
+  - Part I Claims in respect of Retained Interests
+    - Application of Part I
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Form of claim
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Acceptance or rejection of claim
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Payment of costs of establishing claim
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Challenge of rejection notice
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - Compensation
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Persons entitled to compensation
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Agreements with respect to compensation
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Notice of compensation
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part II Other Provisions
+    - Saving for rights to dispose of retained interests
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Pre-1975 Act orders under the Mines (Working Facilities and Support) Act 1966
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Transitional provisions
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+- SCHEDULE 8 Amendments of the Opencast Coal Act 1958
+  - Introduction
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Power to make compulsory rights orders
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Effect of orders
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Limitations on effect of orders
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Limited compulsory rights orders
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Provisions as to other minerals, timber, crops, etc.
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Registration of orders in Scotland
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Removal of chattels from land
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Apparatus of statutory undertakers
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Agricultural tenancies in England and Wales
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Agricultural tenancies in Scotland
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Suspension of rights of way
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Supplementary provisions about suspension of rights of way
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Orders conferring rights for drainage or water supply purposes
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Annual compensation
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Calculation of compensation
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+  - Terminal compensation
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Compensation in respect of agricultural land
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - Compensation for short term improvements etc.
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Compensation in respect of forced sales
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Compensation: definition of holding
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Compensation in respect of easements and other rights
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - Compensation in respect of disposable minerals
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - Compensation for depreciation of land in same ownership
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Time when compensation accrues
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Records of condition of land
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+  - Protection of land from compulsory purchase
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+  - Entry on land
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+  - Claims for compensation
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+  - Compensation in respect of property held for religious purposes
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+  - Provision in respect of mortgaged land
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - Crown land
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+  - Telecommunication apparatus
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+  - Provisions as to regulations, orders etc.
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+  - Interpretation
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - Application to Scotland
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+  - Procedure for compulsory rights orders in Scotland
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+  - Other provisions with respect to the procedure for compulsory rights orders
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+  - Compensation by way of payment for costs of works
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+  - Compensation in respect of minerals
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+  - Application of Schedule 6 to Scotland
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+  - Tenancies of allotment gardens and other allotments
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+- SCHEDULE 9 Minor and Consequential Amendments
+  - The Land Registration Act 1925 (c. 21)
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - The Requisitioned Land and War Works Act 1945 (c. 43)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - The Statistics of Trade Act 1947 (c. 39)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - The Acquisition of Land (Authorisation Procedure) (Scotland)Act 1947 (c. 42)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - The Landlord and Tenant Act 1954 (c. 56)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - The Public Records Act 1958 (c. 51)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - The Public Health Act 1961 (c. 64)
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - The Licensing Act 1964 (c. 26)
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - The Gas Act 1965 (c. 36)
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - The Mines (Working Facilities and Support) Act 1966 (c. 4)
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - The Land Commission Act 1967 (c. 1)
+    - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - The Gaming Act 1968 (c. 65)
+    - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - The Town and Country Planning (Scotland) Act 1972 (c. 52)
+    - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - The Fair Trading Act 1973 (c. 41)
+    - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - The Consumer Credit Act 1974 (c. 39)
+    - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+  - The Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 9 para. 16](schedule/9/paragraph/16.md)
+  - The Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 9 para. 17](schedule/9/paragraph/17.md)
+  - The Local Government (Miscellaneous Provisions) Act 1976 (c.57)
+    - [Sch. 9 para. 18](schedule/9/paragraph/18.md)
+  - The Development of Rural Wales Act 1976 (c. 75)
+    - [Sch. 9 para. 19](schedule/9/paragraph/19.md)
+  - The Land Registration (Scotland) Act 1979 (c. 33)
+    - [Sch. 9 para. 20](schedule/9/paragraph/20.md)
+  - The Estate Agents Act 1979 (c. 38)
+    - [Sch. 9 para. 21](schedule/9/paragraph/21.md)
+  - The Ancient Monuments and Archaeological Areas Act 1979 (c.46)
+    - [Sch. 9 para. 22](schedule/9/paragraph/22.md)
+  - The Competition Act 1980 (c. 21)
+    - [Sch. 9 para. 23](schedule/9/paragraph/23.md)
+  - The Overseas Development and Co-operation Act 1980 (c. 63)
+    - [Sch. 9 para. 24](schedule/9/paragraph/24.md)
+  - The Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 9 para. 25](schedule/9/paragraph/25.md)
+  - The Highways Act 1980 (c. 66)
+    - [Sch. 9 para. 26](schedule/9/paragraph/26.md)
+  - The Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 9 para. 27](schedule/9/paragraph/27.md)
+  - The Civic Government (Scotland) Act 1982 (c. 45)
+    - [Sch. 9 para. 28](schedule/9/paragraph/28.md)
+  - The National Audit Act 1983 (c. 44)
+    - [Sch. 9 para. 29](schedule/9/paragraph/29.md)
+  - The Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 9 para. 30](schedule/9/paragraph/30.md)
+  - The Roads (Scotland) Act 1984 (c. 54)
+    - [Sch. 9 para. 31](schedule/9/paragraph/31.md)
+  - The Companies Act 1985 (c. 6)
+    - [Sch. 9 para. 32](schedule/9/paragraph/32.md)
+  - The Housing Act 1985 (c. 68)
+    - [Sch. 9 para. 33](schedule/9/paragraph/33.md)
+  - The Weights and Measures Act 1985 (c. 72)
+    - [Sch. 9 para. 34](schedule/9/paragraph/34.md)
+  - The Agricultural Holdings Act 1986 (c. 5)
+    - [Sch. 9 para. 35](schedule/9/paragraph/35.md)
+  - The Coal Industry Act 1987 (c. 3)
+    - [Sch. 9 para. 36](schedule/9/paragraph/36.md)
+  - The Housing Act 1988 (c. 50)
+    - [Sch. 9 para. 37](schedule/9/paragraph/37.md)
+  - The Electricity Act 1989 (c. 29)
+    - [Sch. 9 para. 38](schedule/9/paragraph/38.md)
+  - The Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 9 para. 39](schedule/9/paragraph/39.md)
+  - The Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 9 para. 40](schedule/9/paragraph/40.md)
+  - The Coal Mining Subsidence Act 1991 (c. 45)
+    - [Sch. 9 para. 41](schedule/9/paragraph/41.md)
+  - The Water Industry Act 1991 (c. 56)
+    - [Sch. 9 para. 42](schedule/9/paragraph/42.md)
+  - The Water Resources Act 1991 (c. 57)
+    - [Sch. 9 para. 43](schedule/9/paragraph/43.md)
+  - The Land Drainage Act 1991 (c. 59)
+    - [Sch. 9 para. 44](schedule/9/paragraph/44.md)
+  - The Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 9 para. 45](schedule/9/paragraph/45.md)
+- SCHEDULE 10 Transitional Provisions and Savings
+  - General saving for repeal of the Coal Act 1938
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Deemed acknowledgments under section 14(3) of the Coal Act 1938
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Restrictions under section 33 of the Coal Act 1938
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Rights saved by section 34 of the Coal Act 1938
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Saving for rights under section 43(6) of the Coal Act 1938
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Licences under section 36 of the 1946 Act
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Repeal of section 41 of the 1946 Act
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Repeal of the Miners’ Welfare Act 1952
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Opencast coal
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Offshore coal adjacent to the Isle of Man
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Coal industry trusts and other social welfare bodies
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Interests affected by planning proposals: blight
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Subsidence
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+- SCHEDULE 11 Repeals
+  - Part I Repeals coming into force on the passing of this Act
+  - Part II Repeals coming into force on the restructuring date
+  - Part III Repeals coming into force on an appointed day
+  - Part IV Repeals coming into force on the dissolution date
