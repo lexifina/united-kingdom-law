@@ -1,0 +1,152 @@
+# Mental Health Act 2025
+
+2025 c. 33. Enacted 2025-12-18.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2025/33/2026-04-06
+
+## Contents
+
+- Code of practice
+  - [s. 1 Principles to inform decisions](section/1.md)
+  - [s. 2 Application of principles to Wales](section/2.md)
+- Autism and learning disability
+  - [s. 3 Application of the Mental Health Act 1983: autism and learning disability](section/3.md)
+  - [s. 4 People with autism or learning disability](section/4.md)
+- Grounds for detention and community treatment orders
+  - [s. 5 Grounds for detention](section/5.md)
+  - [s. 6 Grounds for community treatment orders](section/6.md)
+  - [s. 7 Grounds for discharge by tribunal](section/7.md)
+- Appropriate medical treatment
+  - [s. 8 Appropriate medical treatment: therapeutic benefit](section/8.md)
+  - [s. 9 Remission or release of prisoners etc from hospital: treatment condition](section/9.md)
+- The responsible clinician
+  - [s. 10 Nomination of the responsible clinician](section/10.md)
+- Treatment
+  - [s. 11 Making treatment decisions](section/11.md)
+  - [s. 12 Appointment of doctors to provide second opinions](section/12.md)
+  - [s. 13 Medicine etc: treatment conflicting with a decision by or on behalf of a patient](section/13.md)
+  - [s. 14 Medicine etc: treatment in other circumstances](section/14.md)
+  - [s. 15 Electro-convulsive therapy etc](section/15.md)
+  - [s. 16 Review of treatment](section/16.md)
+  - [s. 17 Urgent treatment to alleviate serious suffering](section/17.md)
+  - [s. 18 Urgent electro-convulsive therapy etc](section/18.md)
+  - [s. 19 Remote assessment for treatment](section/19.md)
+  - [s. 20 Capacity to consent to treatment](section/20.md)
+  - [s. 21 Care and treatment plans](section/21.md)
+- Community treatment orders
+  - [s. 22 Consultation of the community clinician](section/22.md)
+  - [s. 23 Conditions of community treatment orders](section/23.md)
+- Nominated persons
+  - [s. 24 Nominated person](section/24.md)
+  - [s. 25 Applications for admission or guardianship: role of nominated person](section/25.md)
+  - [s. 26 Discharge of patients: role of nominated person](section/26.md)
+  - [s. 27 Community treatment orders: role of nominated person](section/27.md)
+  - [s. 28 Transfer of patients: role of nominated person](section/28.md)
+- Detention periods
+  - [s. 29 Detention periods](section/29.md)
+- Periods for applications and references to tribunal
+  - [s. 30 Periods for tribunal applications](section/30.md)
+  - [s. 31 References to tribunal](section/31.md)
+  - [s. 32 References: restricted patients subject to deprivation of liberty conditions](section/32.md)
+  - [s. 33 References: restricted patients not subject to deprivation of liberty conditions](section/33.md)
+- Discharge: process
+  - [s. 34 Discharge: process](section/34.md)
+- Patients concerned in criminal proceedings or under sentence
+  - [s. 35 Conditional discharge subject to deprivation of liberty conditions](section/35.md)
+  - [s. 36 Transfers of prisoners and others to hospital: conditions](section/36.md)
+  - [s. 37 Transfers of prisoners and others to hospital: time limits](section/37.md)
+  - [s. 38 Transfer directions for persons detained in youth detention accommodation](section/38.md)
+  - [s. 39 Minor amendment](section/39.md)
+- Help and information for patients
+  - [s. 40 Independent mental health advocates](section/40.md)
+  - [s. 41 Information about complaints for detained patients](section/41.md)
+  - [s. 42 Information about complaints for community patients](section/42.md)
+  - [s. 43 Information for conditionally discharged patients](section/43.md)
+  - [s. 44 Advance choice documents](section/44.md)
+- After-care
+  - [s. 45 Tribunal power to recommend after-care](section/45.md)
+  - [s. 46 After-care services](section/46.md)
+- Miscellaneous
+  - [s. 47 Tribunal powers in guardianship cases: burden of proof](section/47.md)
+  - [s. 48 Removal of police stations and prisons as places of safety](section/48.md)
+  - [s. 49 Remand for a person’s own protection etc](section/49.md)
+  - [s. 50 Removal of interim remand patients to and from Channel Islands or Isle of Man](section/50.md)
+  - [s. 51 Human Rights Act 1998: extension to certain private care providers](section/51.md)
+  - [s. 52 Review of duty to notify incidents](section/52.md)
+- General
+  - [s. 53 Power of Secretary of State to make consequential provision](section/53.md)
+  - [s. 54 Power of Welsh Ministers to make consequential provision](section/54.md)
+  - [s. 55 Extent](section/55.md)
+  - [s. 56 Commencement](section/56.md)
+  - [s. 57 Short title](section/57.md)
+- Schedule 1 Application of the 1983 Act to autism and learning disability: amendments and transitory provision
+  - [Sch. 1 para. 1 Amendments of Part 2 of the Mental Health Act 1983](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Amendments of Part 2 of the Mental Health Act 1983](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Amendments of Part 2 of the Mental Health Act 1983](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Amendments of Part 2 of the Mental Health Act 1983](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Amendments of Part 2 of the Mental Health Act 1983](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Amendments of Part 2 of the Mental Health Act 1983](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Amendments of Part 3 of the Mental Health Act 1983](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8 Amendments of Part 3 of the Mental Health Act 1983](schedule/1/paragraph/8.md)
+  - [Sch. 1 para. 9 Amendments of Part 3 of the Mental Health Act 1983](schedule/1/paragraph/9.md)
+  - [Sch. 1 para. 10 Amendments of Part 3 of the Mental Health Act 1983](schedule/1/paragraph/10.md)
+  - [Sch. 1 para. 11 Amendments of Part 3 of the Mental Health Act 1983](schedule/1/paragraph/11.md)
+  - [Sch. 1 para. 12 Amendments of Part 4 of the Mental Health Act 1983](schedule/1/paragraph/12.md)
+  - [Sch. 1 para. 13 Amendments of Part 4 of the Mental Health Act 1983](schedule/1/paragraph/13.md)
+  - [Sch. 1 para. 14 Amendments of Part 4 of the Mental Health Act 1983](schedule/1/paragraph/14.md)
+  - [Sch. 1 para. 15 Amendments of Part 4A of the Mental Health Act 1983](schedule/1/paragraph/15.md)
+  - [Sch. 1 para. 16 Amendments of Part 5 of the Mental Health Act 1983](schedule/1/paragraph/16.md)
+  - [Sch. 1 para. 17 Amendments of Part 5 of the Mental Health Act 1983](schedule/1/paragraph/17.md)
+  - [Sch. 1 para. 18 Amendments of Part 5 of the Mental Health Act 1983](schedule/1/paragraph/18.md)
+  - [Sch. 1 para. 19 Amendments of Part 5 of the Mental Health Act 1983](schedule/1/paragraph/19.md)
+  - [Sch. 1 para. 20 Transitory modifications of the Mental Health Act 1983](schedule/1/paragraph/20.md)
+  - [Sch. 1 para. 21 Transitory modifications of the Mental Health Act 1983](schedule/1/paragraph/21.md)
+  - [Sch. 1 para. 22 Transitory modifications of the Mental Health Act 1983](schedule/1/paragraph/22.md)
+  - [Sch. 1 para. 23 Transitory modifications of the Mental Health Act 1983](schedule/1/paragraph/23.md)
+  - [Sch. 1 para. 24 Transitory modifications of the Mental Health Act 1983](schedule/1/paragraph/24.md)
+  - [Sch. 1 para. 25 Transitory modifications of the Mental Health Act 1983](schedule/1/paragraph/25.md)
+- Schedule 2 Nominated persons
+  - Part 1 Appointment etc
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Part 2 Functions of nominated person
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Part 3 Patients concerned in criminal proceedings etc: functions of nominated person
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+- Schedule 3 Independent mental health advocates
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
