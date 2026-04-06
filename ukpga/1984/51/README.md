@@ -1,0 +1,676 @@
+# Inheritance Tax Act 1984
+
+1984 c. 51. Enacted 1984-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/51
+
+Source: https://www.legislation.gov.uk/ukpga/1984/51/2026-04-06
+
+## Contents
+
+- PART I GENERAL
+  - Main charges and definitions
+    - [s. 1 Charge on transfers.](section/1.md)
+    - [s. 2 Chargeable transfers and exempt transfers.](section/2.md)
+    - [s. 3 Transfers of value.](section/3.md)
+    - [s. 3A Potentially exempt transfers.](section/3A.md)
+    - [s. 4 Transfers on death.](section/4.md)
+    - [s. 5 Meaning of estate.](section/5.md)
+    - [s. 6 Excluded property.](section/6.md)
+    - [s. 6A “Long-term UK resident”: individuals](section/6A.md)
+    - [s. 6B “Long-term UK resident”: young persons](section/6B.md)
+    - [s. 6C “Long-term UK resident”: bodies corporate](section/6C.md)
+  - Rates
+    - [s. 7 Rates.](section/7.md)
+    - [s. 8 Indexation of rate bands.](section/8.md)
+    - [s. 8A Transfer of unused nil-rate band between spouses and civil partners](section/8A.md)
+    - [s. 8B Claims under section 8A](section/8B.md)
+    - [s. 8C Section 8A and subsequent charges](section/8C.md)
+    - [s. 8D Extra nil-rate band on death if interest in home goes to descendants etc](section/8D.md)
+    - [s. 8E Residence nil-rate amount: interest in home goes to descendants etc](section/8E.md)
+    - [s. 8F Residence nil-rate amount: no interest in home goes to descendants etc](section/8F.md)
+    - [s. 8FA Downsizing addition: entitlement: low-value death interest in home](section/8FA.md)
+    - [s. 8FB Downsizing addition: entitlement: no residential interest at death](section/8FB.md)
+    - [s. 8FC Downsizing addition: effect: section 8E case](section/8FC.md)
+    - [s. 8FD Downsizing addition: effect: section 8F case](section/8FD.md)
+    - [s. 8FE Calculation of lost relievable amount](section/8FE.md)
+    - [s. 8G Meaning of “brought-forward allowance”](section/8G.md)
+    - [s. 8H Meaning of “qualifying residential interest”, “qualifying former residential interest” and “residential property interest”](section/8H.md)
+    - [s. 8HA Qualifying former residential interest”: interests in possession](section/8HA.md)
+    - [s. 8J Meaning of “inherited”](section/8J.md)
+    - [s. 8K Meaning of “closely inherited”](section/8K.md)
+    - [s. 8L Claims for brought-forward allowance and downsizing addition](section/8L.md)
+    - [s. 8M Residence nil-rate amount: cases involving conditional exemption](section/8M.md)
+    - [s. 9 Transitional provisions on reduction of tax.](section/9.md)
+  - Dispositions that are not transfers of value (and omissions that do not give rise to deemed dispositions)
+    - [s. 10 Dispositions not intended to confer gratuitous benefit.](section/10.md)
+    - [s. 11 Dispositions for maintenance of family.](section/11.md)
+    - [s. 12 Dispositions allowable for income tax or conferring benefits under pension scheme.](section/12.md)
+    - [s. 12A Pension drawdown fund not used up: no deemed disposition](section/12A.md)
+    - [s. 13 Dispositions by close companies for benefit of employees.](section/13.md)
+    - [s. 13A Dispositions by close companies to employee-ownership trusts](section/13A.md)
+    - [s. 14 Waiver of remuneration.](section/14.md)
+    - [s. 15 Waiver of dividends.](section/15.md)
+    - [s. 16 Grant of tenancies of agricultural property.](section/16.md)
+    - [s. 17 Changes in distribution of deceased’s estate, etc.](section/17.md)
+- PART II EXEMPT TRANSFERS
+  - CHAPTER I GENERAL
+    - [s. 18 Transfers between spouses or civil partners.](section/18.md)
+    - [s. 19 Annual exemption.](section/19.md)
+    - [s. 20 Small gifts.](section/20.md)
+    - [s. 21 Normal expenditure out of income.](section/21.md)
+    - [s. 22 Gifts in consideration of marriage or civil partnership.](section/22.md)
+    - [s. 23 Gifts to charities or registered clubs.](section/23.md)
+    - [s. 24 Gifts to political parties.](section/24.md)
+    - [s. 24A Gifts to housing associations.](section/24A.md)
+    - [s. 25 Gifts for national purposes, etc.](section/25.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 26A Potentially exempt transfer of property subsequently held for national purposes etc.](section/26A.md)
+    - [s. 27 Maintenance funds for historic buildings, etc.](section/27.md)
+    - [s. 28 Employee trusts.](section/28.md)
+    - [s. 28A Employee-ownership trusts](section/28A.md)
+    - [s. 29 Loans—modifications of exemptions.](section/29.md)
+    - [s. 29A Abatement of exemption where claim settled out of beneficiary’s own resources.](section/29A.md)
+  - CHAPTER II CONDITIONAL EXEMPTION
+    - [s. 30 Conditionally exempt transfers.](section/30.md)
+    - [s. 31 Designation and undertakings.](section/31.md)
+    - [s. 32 Chargeable events.](section/32.md)
+    - [s. 32A Associated properties.](section/32A.md)
+    - [s. 33 Amount of charge under section 32.](section/33.md)
+    - [s. 34 Reinstatement of transferor’s cumulative total.](section/34.md)
+    - [s. 35 Conditional exemption on death before 7th April 1976.](section/35.md)
+    - [s. 35A Variation of undertakings.](section/35A.md)
+  - CHAPTER III ALLOCATION OF EXEMPTIONS
+    - [s. 36 Preliminary.](section/36.md)
+    - [s. 37 Abatement of gifts.](section/37.md)
+    - [s. 38 Attribution of value to specific gifts.](section/38.md)
+    - [s. 39 Attribution of value to residuary gifts.](section/39.md)
+    - [s. 39A Operation of sections 38 and 39 in cases of business or agricultural relief.](section/39A.md)
+    - [s. 40 Gifts made separately out of different funds.](section/40.md)
+    - [s. 41 Burden of tax.](section/41.md)
+    - [s. 42 Supplementary.](section/42.md)
+- PART III SETTLED PROPERTY
+  - CHAPTER I PRELIMINARY
+    - [s. 43 Settlement and related expressions.](section/43.md)
+    - [s. 44 Settlor.](section/44.md)
+    - [s. 45 Trustee.](section/45.md)
+    - [s. 46 Interest in possession: Scotland.](section/46.md)
+    - [s. 46A Contract of life insurance entered into before 22nd March 2006 which on that day is settled property in which interest in possession subsists](section/46A.md)
+    - [s. 46B Contract of life insurance entered into before 22nd March 2006 which immediately before that day is property to which section 71 applies](section/46B.md)
+    - [s. 47 Reversionary interest.](section/47.md)
+    - [s. 47A Settlement power](section/47A.md)
+    - [s. 48 Excluded property: reversionary interests and Treasury securities.](section/48.md)
+    - [s. 48ZA Excluded property: property situated outside the UK etc](section/48ZA.md)
+    - [s. 48A Commencement of settlement](section/48A.md)
+  - CHAPTER II INTERESTS IN POSSESSION, REVERSIONARY INTERESTS AND SETTLEMENT POWERS
+    - [s. 49 Treatment of interests in possession.](section/49.md)
+    - [s. 49A Immediate post-death interest](section/49A.md)
+    - [s. 49B Transitional serial interests](section/49B.md)
+    - [s. 49C Transitional serial interest: interest to which person becomes entitled during period 22nd March 2006 to 5th October 2008](section/49C.md)
+    - [s. 49D Transitional serial interest: interest to which person becomes entitled on death of spouse or civil partner on or after 6th October 2008](section/49D.md)
+    - [s. 49E Transitional serial interest: contracts of life insurance](section/49E.md)
+    - [s. 50 Interests in part, etc.](section/50.md)
+    - [s. 51 Disposal of interest in possession.](section/51.md)
+    - [s. 52 Charge on termination of interest in possession.](section/52.md)
+    - [s. 53 Exceptions from charge under section 52.](section/53.md)
+    - [s. 54 Exceptions from charge on death](section/54.md)
+    - [s. 54A Special rate of charge where settled property affected by potentially exempt transfer.](section/54A.md)
+    - [s. 54B Provisions supplementary to section 54A.](section/54B.md)
+    - [s. 55A Purchased settlement powers](section/55A.md)
+    - [s. 55 Reversionary interest acquired by beneficiary.](section/55.md)
+    - [s. 56 Exclusion of certain exemptions.](section/56.md)
+    - [s. 57 Application of certain exemptions.](section/57.md)
+    - [s. 57A Relief where property enters maintenance fund.](section/57A.md)
+  - CHAPTER III SETTLEMENTS WITHOUT INTERESTS IN POSSESSION, AND CERTAIN SETTLEMENTS IN WHICH INTERESTS IN POSSESSION SUBSIST
+    - Interpretation
+      - [s. 58 Relevant property.](section/58.md)
+      - [s. 59 Qualifying interest in possession.](section/59.md)
+      - [s. 60 Commencement of settlement.](section/60.md)
+      - [s. 61 Ten-year anniversary.](section/61.md)
+      - [s. 62 Related settlements.](section/62.md)
+      - [s. 62A Same-day additions](section/62A.md)
+      - [s. 62B Same day additions: exceptions](section/62B.md)
+      - [s. 62C Protected settlements](section/62C.md)
+      - [s. 63 Minor interpretative provisions.](section/63.md)
+    - Principal charge to tax
+      - [s. 64 Charge at ten-year anniversary.](section/64.md)
+      - [s. 65 Charge at other times.](section/65.md)
+    - Rates of principal charge
+      - [s. 66 Rate of ten-yearly charge.](section/66.md)
+      - [s. 67 Added property, etc.](section/67.md)
+      - [s. 68 Rate before first ten-year anniversary.](section/68.md)
+      - [s. 69 Rate between ten-year anniversaries.](section/69.md)
+    - Special cases—charges to tax
+      - [s. 70 Property leaving temporary charitable trusts.](section/70.md)
+      - [s. 71 Accumulation and maintenance trusts.](section/71.md)
+      - [s. 71A Trusts for bereaved minors](section/71A.md)
+      - [s. 71B Charge to tax on property to which section 71A applies](section/71B.md)
+      - [s. 71C Sections 71A and 71B: meaning of “bereaved minor”](section/71C.md)
+      - [s. 71D Age 18-to-25 trusts](section/71D.md)
+      - [s. 71E Charge to tax on property to which section 71D applies](section/71E.md)
+      - [s. 71F Calculation of tax charged under section 71E in certain cases](section/71F.md)
+      - [s. 71G Calculation of tax charged under section 71E in all other cases](section/71G.md)
+      - [s. 71H Sections 71A to 71G: meaning of “parent”](section/71H.md)
+      - [s. 72 Property leaving employee trusts and newspaper trusts.](section/72.md)
+      - [s. 73 Pre-1978 protective trusts.](section/73.md)
+      - [s. 74 Pre-1981 trusts for disabled persons.](section/74.md)
+      - [s. 74A Arrangements involving acquisition of interest in settled property etc](section/74A.md)
+      - [s. 74B Section 74A: supplementary provision](section/74B.md)
+      - [s. 74C Interpretation of sections 74A and 74B](section/74C.md)
+    - Special cases—reliefs
+      - [s. 75 Property becoming subject to employee trusts.](section/75.md)
+      - [s. 75A Property becoming subject to employee-ownership trust](section/75A.md)
+      - [s. 75B Cap on charges for pre-30 October 2024 excluded property](section/75B.md)
+      - [s. 76 Property becoming held for charitable purposes, etc.](section/76.md)
+    - Works of art, historic buildings, etc.
+      - [s. 77 Maintenance funds for historic buildings, etc.](section/77.md)
+      - [s. 78 Conditionally exempt occasions.](section/78.md)
+      - [s. 79 Exemption from ten-yearly charge.](section/79.md)
+      - [s. 79A Variation of undertakings.](section/79A.md)
+    - Miscellaneous
+      - [s. 80 Initial interest of settlor or spouse or civil partner.](section/80.md)
+      - [s. 81 Property moving between settlements.](section/81.md)
+      - [s. 81A Reversionary interests in relevant property](section/81A.md)
+      - [s. 81B Excluded property: property to which section 80 applies](section/81B.md)
+      - [s. 82 Excluded property: property to which section 81 applies (old cases)](section/82.md)
+      - [s. 82A Excluded property: property to which section 81 applies (new cases)](section/82A.md)
+      - [s. 83 Property becoming settled on a death.](section/83.md)
+      - [s. 84 Income applied for charitable purposes.](section/84.md)
+      - [s. 85 Credit for annual charges under Finance Act 1975.](section/85.md)
+  - CHAPTER IV MISCELLANEOUS
+    - [s. 86 Trusts for benefit of employees.](section/86.md)
+    - [s. 87 Newspaper trusts.](section/87.md)
+    - [s. 88 Protective trusts.](section/88.md)
+    - [s. 89 Trusts for disabled persons.](section/89.md)
+    - [s. 89A Self-settlement by person expected to fall within the definition of “disabled person”](section/89A.md)
+    - [s. 89B Meaning of “disabled person’s interest”](section/89B.md)
+    - [s. 89C Disabled person’s interest: powers of advancement etc](section/89C.md)
+    - [s. 90 Trustees’ annuities, etc.](section/90.md)
+    - [s. 91 Administration period.](section/91.md)
+    - [s. 92 Survivorship clauses.](section/92.md)
+    - [s. 93 Disclaimers.](section/93.md)
+- PART IV CLOSE COMPANIES
+  - Transfers by close companies
+    - [s. 94 Charge on participators.](section/94.md)
+    - [s. 95 Participator in two companies.](section/95.md)
+    - [s. 96 Preference shares disregarded.](section/96.md)
+    - [s. 97 Transfers within group, etc.](section/97.md)
+  - Alterations of capital, etc.
+    - [s. 98 Effect of alterations of capital, etc](section/98.md)
+  - Settled property
+    - [s. 99 Transfers where participators are trustees.](section/99.md)
+    - [s. 100 Alterations of capital, etc. where participators are trustees.](section/100.md)
+    - [s. 101 Companies interests in settled property.](section/101.md)
+  - General
+    - [s. 102 Interpretation.](section/102.md)
+- PART V MISCELLANEOUS RELIEFS
+  - CHAPTER I BUSINESS PROPERTY
+    - [s. 103](section/103.md)
+    - [s. 104 The relief.](section/104.md)
+    - [s. 105 Relevant business property.](section/105.md)
+    - [s. 106 Minimum period of ownership.](section/106.md)
+    - [s. 107 Replacements.](section/107.md)
+    - [s. 108 Successions.](section/108.md)
+    - [s. 109 Successive transfers.](section/109.md)
+    - [s. 109A ................................](section/109A.md)
+    - [s. 110 Value of business.](section/110.md)
+    - [s. 111 Value of certain shares and securities.](section/111.md)
+    - [s. 112 Exclusion of value of excepted assets.](section/112.md)
+    - [s. 113 Contracts for sale.](section/113.md)
+    - [s. 113A Transfers within seven years before death of transferor.](section/113A.md)
+    - [s. 113B Application of section 113A to replacement property.](section/113B.md)
+    - [s. 114 Avoidance of double relief.](section/114.md)
+  - CHAPTER II AGRICULTURAL PROPERTY
+    - [s. 115 Preliminary.](section/115.md)
+    - [s. 116 The relief.](section/116.md)
+    - [s. 117 Minimum period of occupation or ownership.](section/117.md)
+    - [s. 118 Replacements.](section/118.md)
+    - [s. 119 Occupation by company or partnership.](section/119.md)
+    - [s. 120 Successions.](section/120.md)
+    - [s. 121 Successive transfers.](section/121.md)
+    - [s. 122 Agricultural property of companies.](section/122.md)
+    - [s. 123 Provisions supplementary to section 122.](section/123.md)
+    - [s. 124 Contracts for sale.](section/124.md)
+    - [s. 124A Transfers within seven years before death of transferor.](section/124A.md)
+    - [s. 124B Application of section 124A to replacement property.](section/124B.md)
+    - [s. 124C Environmental management agreements](section/124C.md)
+  - Chapter 2A 100% Relief allowance and 100% trust relief allowance
+    - [s. 124D 100% relief allowance](section/124D.md)
+    - [s. 124E Transfer of unused 100% relief allowance](section/124E.md)
+    - [s. 124F Claims under section 124E](section/124F.md)
+    - [s. 124G 100% trust relief allowance (relevant property)](section/124G.md)
+    - [s. 124H Trust maximum allowance](section/124H.md)
+    - [s. 124I Trust maximum allowance (qualifying pre-commencement settlements)](section/124I.md)
+    - [s. 124J 100% trust relief allowance (special trusts)](section/124J.md)
+    - [s. 124K 100% trust relief allowance (age 18-to-25 trusts)](section/124K.md)
+  - CHAPTER III WOODLANDS
+    - [s. 125 The relief.](section/125.md)
+    - [s. 126 Charge to tax on disposal of trees or underwood.](section/126.md)
+    - [s. 127 Amount subject to charge.](section/127.md)
+    - [s. 128 Rate of charge.](section/128.md)
+    - [s. 129 Credit for tax charged.](section/129.md)
+    - [s. 130 Interpretation.](section/130.md)
+  - CHAPTER IV TRANSFERS WITHIN THREE YEARS BEFORE DEATH
+    - [s. 131 The relief.](section/131.md)
+    - [s. 132 Wasting assets.](section/132.md)
+    - [s. 133 Shares—capital receipts.](section/133.md)
+    - [s. 134 Payments of calls.](section/134.md)
+    - [s. 135 Reorganisation of share capital, etc.](section/135.md)
+    - [s. 136 Transactions of close companies.](section/136.md)
+    - [s. 137 Interests in land.](section/137.md)
+    - [s. 138 Leases.](section/138.md)
+    - [s. 139 Other property.](section/139.md)
+    - [s. 140 Interpretation.](section/140.md)
+  - CHAPTER V MISCELLANEOUS
+    - Successive charges
+      - [s. 141 Two or more transfers within five years.](section/141.md)
+      - [s. 141A Apportionment of relief under section 141](section/141A.md)
+    - Changes in distribution of deceased’s estate, etc.
+      - [s. 142 Alteration of dispositions taking effect on death.](section/142.md)
+      - [s. 143 Compliance with testator’s request.](section/143.md)
+      - [s. 144 Distribution etc. from property settled by will.](section/144.md)
+      - [s. 145 Redemption of surviving spouse’s or civil partner’s life interest.](section/145.md)
+      - [s. 146 Inheritance (Provision for Family and Dependants) Act 1975.](section/146.md)
+      - [s. 147 Scotland; legitim. etc.](section/147.md)
+    - Mutual and voidable transfers
+      - [s. 148 ................................](section/148.md)
+      - [s. 150 Voidable transfers.](section/150.md)
+    - Pension schemes, etc
+      - [s. 150A Certain pension interests treated as part of estate](section/150A.md)
+      - [s. 151 Treatment of pension rights, etc. Other provision about pension interests](section/151.md)
+      - [s. 151A Person dying with alternatively secured pension fund](section/151A.md)
+      - [s. 151B Relevant dependant with pension fund inherited from member over 75](section/151B.md)
+      - [s. 151BA Rate or rates of charge under section 151B](section/151BA.md)
+      - [s. 151C Dependant dying with other pension fund](section/151C.md)
+      - [s. 151D Unauthorised payment where person dies over 75 with pension or annuity](section/151D.md)
+      - [s. 151E Rate or rates of charge under section 151D](section/151E.md)
+      - [s. 152 Cash options.](section/152.md)
+      - [s. 153 Overseas pensions.](section/153.md)
+    - Payments to victims of persecution during Second World War era
+      - [s. 153ZA Qualifying payments](section/153ZA.md)
+    - Emergency services
+      - [s. 153A Death of emergency service personnel etc](section/153A.md)
+    - Armed forces
+      - [s. 154 Death on active service, etc.](section/154.md)
+      - [s. 155 Visiting forces, etc.](section/155.md)
+    - Foreign diplomats etc
+      - [s. 155ZA Foreign diplomats etc](section/155ZA.md)
+    - Constables and service personnel
+      - [s. 155A Death of constables and service personnel targeted because of their status](section/155A.md)
+    - Apsley House and Chevening Estate
+      - [s. 156 Apsley House and Chevening Estate.](section/156.md)
+    - Non-residents’ bank accounts
+      - [s. 157 Non-residents’ bank accounts.](section/157.md)
+    - Double taxation relief
+      - [s. 158 Double taxation conventions.](section/158.md)
+      - [s. 159 Unilateral relief.](section/159.md)
+    - Dormant assets
+      - [s. 159A Treatment of dormant assets](section/159A.md)
+- PART VI VALUATION
+  - CHAPTER I GENERAL
+    - [s. 160 Market value.](section/160.md)
+    - [s. 161 Related property.](section/161.md)
+    - [s. 162 Liabilities.](section/162.md)
+    - [s. 162A Liabilities attributable to financing excluded property](section/162A.md)
+    - [s. 162AA Liabilities attributable to financing non-residents’ foreign currency accounts](section/162AA.md)
+    - [s. 162B Liabilities attributable to financing certain relievable property](section/162B.md)
+    - [s. 162C Sections 162A, 162AA and 162B: supplementary provision](section/162C.md)
+    - [s. 163 Restriction on freedom to dispose.](section/163.md)
+    - [s. 164 Transferor’s expenses.](section/164.md)
+    - [s. 165 Tax on capital gains.](section/165.md)
+    - [s. 166 Creditors’ rights.](section/166.md)
+    - [s. 167 Life policies, etc.](section/167.md)
+    - [s. 168 Unquoted shares and securities.](section/168.md)
+    - [s. 169 Farm cottages.](section/169.md)
+    - [s. 170 Leases for life, etc.](section/170.md)
+  - CHAPTER II ESTATE ON DEATH
+    - [s. 171 Changes occurring on death.](section/171.md)
+    - [s. 172 Funeral expenses.](section/172.md)
+    - [s. 173 Expenses incurred abroad.](section/173.md)
+    - [s. 174 Income tax and unpaid inheritance tax.](section/174.md)
+    - [s. 175 Liability to make future payments, etc.](section/175.md)
+    - [s. 175A Discharge of liabilities after death](section/175A.md)
+    - [s. 176 Related property etc.—sales.](section/176.md)
+    - [s. 177 Scottish agricultural leases.](section/177.md)
+  - CHAPTER III SALE OF SHARES ETC. FROM DECEASED’S ESTATE
+    - [s. 178 Preliminary.](section/178.md)
+    - [s. 179 The relief.](section/179.md)
+    - [s. 180 Effect of purchases.](section/180.md)
+    - [s. 181 Capital receipts.](section/181.md)
+    - [s. 182 Payment of calls.](section/182.md)
+    - [s. 183 Changes in holdings.](section/183.md)
+    - [s. 184 Exchanges.](section/184.md)
+    - [s. 185 Acquisition of like investments.](section/185.md)
+    - [s. 186 Value of part of a fund.](section/186.md)
+    - [s. 186A Cancelled investments.](section/186A.md)
+    - [s. 186B Suspended investments.](section/186B.md)
+    - [s. 187 Attribution of values to specific investments.](section/187.md)
+    - [s. 188 Limitation of loss on sale.](section/188.md)
+    - [s. 189 Date of sale or purchase.](section/189.md)
+  - CHAPTER IV SALE OF LAND FROM DECEASED’S ESTATE
+    - [s. 190 Preliminary.](section/190.md)
+    - [s. 191 The relief.](section/191.md)
+    - [s. 192 Effect of purchases.](section/192.md)
+    - [s. 193 Changes between death and sale.](section/193.md)
+    - [s. 194 Leases.](section/194.md)
+    - [s. 195 Valuation by reference to other interests.](section/195.md)
+    - [s. 196 Sales to beneficiaries etc. and exchanges.](section/196.md)
+    - [s. 197 Compulsory acquisition more than three years after death.](section/197.md)
+    - [s. 197A Sales in fourth year after death.](section/197A.md)
+    - [s. 198 Date of sale or purchase.](section/198.md)
+- PART VII LIABILITY
+  - General rules
+    - [s. 199 Dispositions by transferor.](section/199.md)
+    - [s. 200 Transfer on death.](section/200.md)
+    - [s. 201 Settled property.](section/201.md)
+    - [s. 202 Close companies.](section/202.md)
+    - [s. 203 Liability of spouse or civil partner.](section/203.md)
+    - [s. 204 Limitation of liability.](section/204.md)
+    - [s. 205 More than one person liable.](section/205.md)
+  - Special cases
+    - [s. 206 ................................](section/206.md)
+    - [s. 207 Conditional exemption, etc.](section/207.md)
+    - [s. 208 Woodlands.](section/208.md)
+    - [s. 209 Succession in Scotland.](section/209.md)
+    - [s. 210 Pension rights](section/210.md)
+  - Burden of tax, etc.
+    - [s. 211 Burden of tax on death.](section/211.md)
+    - [s. 212 Powers to raise tax.](section/212.md)
+    - [s. 213 Refund by instalments.](section/213.md)
+    - [s. 214 Certificates of tax paid.](section/214.md)
+- PART VIII ADMINISTRATION AND COLLECTION
+  - Management
+    - [s. 215 General.](section/215.md)
+  - Accounts and information
+    - [s. 216 Delivery of accounts.](section/216.md)
+    - [s. 217 Defective accounts.](section/217.md)
+    - [s. 218 Non-resident trustees.](section/218.md)
+    - [s. 218A Instruments varying dispositions taking effect on death](section/218A.md)
+    - [s. 218B Pensions: information powers](section/218B.md)
+    - [s. 219 Power to require information.](section/219.md)
+    - [s. 219A Power to call for documents etc.](section/219A.md)
+    - [s. 219B Appeal against requirement to produce documents etc.](section/219B.md)
+    - [s. 220 Inspection of property.](section/220.md)
+    - [s. 220A Exchange of information with other countries.](section/220A.md)
+  - Determinations, reviews and appeals
+    - [s. 221 Notices of determination.](section/221.md)
+    - [s. 222 Appeals against determinations.](section/222.md)
+    - [s. 223 Late notice of appeal.](section/223.md)
+    - [s. 223A Appeal: HMRC review or determination by tribunal](section/223A.md)
+    - [s. 223B Appellant requires review by HMRC](section/223B.md)
+    - [s. 223C HMRC offer review](section/223C.md)
+    - [s. 223D Notifying appeal to the tribunal](section/223D.md)
+    - [s. 223E Nature of review etc](section/223E.md)
+    - [s. 223F Effect of conclusions of review](section/223F.md)
+    - [s. 223G Notifying appeal to tribunal after review concluded](section/223G.md)
+    - [s. 223H Notifying appeal to tribunal after review offered but not accepted](section/223H.md)
+    - [s. 223I Interpretation of sections 223A to 223I](section/223I.md)
+    - [s. 224 Determination of appeal by tribunal.](section/224.md)
+    - [s. 225 Appeals from Special Commissioners.](section/225.md)
+    - [s. 225A Extension of regulation-making powers.](section/225A.md)
+  - Payment
+    - [s. 226 Payment: general rules.](section/226.md)
+    - [s. 226A Tax on notional pension property: withholding of benefits](section/226A.md)
+    - [s. 226B Tax on notional pension property: direct payment by scheme administrator](section/226B.md)
+    - [s. 227 Payment by instalments—land, shares and businesses.](section/227.md)
+    - [s. 228 Shares, etc. within section 227.](section/228.md)
+    - [s. 229 Payment by instalments—woodlands.](section/229.md)
+    - [s. 230 Acceptance of property in satisfaction of tax.](section/230.md)
+    - [s. 231 Powers to transfer property in satisfaction of tax.](section/231.md)
+    - [s. 232 Administration actions.](section/232.md)
+  - Interest
+    - [s. 233 Interest on unpaid tax.](section/233.md)
+    - [s. 234 Interest on instalments.](section/234.md)
+    - [s. 235 Interest on overpaid tax.](section/235.md)
+    - [s. 236 Special cases.](section/236.md)
+  - Inland Revenue charge for unpaid tax
+    - [s. 237 Imposition of charge.](section/237.md)
+    - [s. 238 Effect of purchases.](section/238.md)
+  - Certificates of discharge
+    - [s. 239 Certificates of discharge.](section/239.md)
+  - Adjustments
+    - [s. 240 Underpayments.](section/240.md)
+    - [s. 240A Underpayments: supplementary](section/240A.md)
+    - [s. 240B Underpayments involving offshore matters etc](section/240B.md)
+    - [s. 241 Overpayments.](section/241.md)
+  - Recovery of tax
+    - [s. 242 Recovery of tax.](section/242.md)
+    - [s. 243 Scotland: recovery of tax in sheriff court.](section/243.md)
+    - [s. 244 Rights to address court.](section/244.md)
+  - Penalties
+    - [s. 245 Failure to deliver accounts.](section/245.md)
+    - [s. 245A Failure to provide information etc.](section/245A.md)
+    - [s. 246 ................................](section/246.md)
+    - [s. 247 Provision of incorrect information.](section/247.md)
+    - [s. 248 Failure to remedy errors.](section/248.md)
+    - [s. 249 Recovery of penalties.](section/249.md)
+    - [s. 250 Time limit for recovery.](section/250.md)
+    - [s. 251 Appeals against summary determination of penalties.](section/251.md)
+    - [s. 252 Effect of award by the tribunal.](section/252.md)
+    - [s. 253 Mitigation of penalties.](section/253.md)
+  - Miscellaneous
+    - [s. 254 Evidence.](section/254.md)
+    - [s. 255 Determination of questions on previous view of law.](section/255.md)
+    - [s. 256 Regulations about accounts, etc.](section/256.md)
+    - [s. 257 Form etc. of accounts.](section/257.md)
+    - [s. 258 Service of documents.](section/258.md)
+    - [s. 259 Inspection of records.](section/259.md)
+    - [s. 260 Inland Revenue Regulation Act 1890.](section/260.md)
+    - [s. 261 Scotland inventories.](section/261.md)
+- PART IX MISCELLANEOUS AND SUPPLEMENTARY
+  - Miscellaneous
+    - [s. 262 Tax chargeable in certain cases of future payments, etc.](section/262.md)
+    - [s. 263 Annuity purchased in conjunction with life policy.](section/263.md)
+    - [s. 264 Transfers reported late.](section/264.md)
+    - [s. 265 Chargeable transfers affecting more than one property.](section/265.md)
+    - [s. 266 More than one chargeable transfer on one day.](section/266.md)
+    - [s. 267 Persons treated as domiciled in United Kingdom.](section/267.md)
+    - [s. 267ZA Election to be treated as domiciled in United Kingdom](section/267ZA.md)
+    - [s. 267ZB Section 267ZA: further provision about election](section/267ZB.md)
+    - [s. 267ZC Election to be treated as a long-term UK resident](section/267ZC.md)
+    - [s. 267ZD Further provision about elections under section 267ZC](section/267ZD.md)
+    - [s. 267ZE Subject of domicile election treated as a long-term UK resident](section/267ZE.md)
+    - [s. 267ZF Double taxation conventions operating by reference to deemed domicile](section/267ZF.md)
+    - [s. 267A Limited liability partnerships.](section/267A.md)
+  - Interpretation
+    - [s. 268 Associated operations.](section/268.md)
+    - [s. 269 Control of company.](section/269.md)
+    - [s. 270 Connected persons.](section/270.md)
+    - [s. 271 Property of corporations sole.](section/271.md)
+    - [s. 271A Qualifying non-UK pension scheme](section/271A.md)
+    - [s. 272 General interpretation.](section/272.md)
+  - Supplementary
+    - [s. 273 Transition from estate duty.](section/273.md)
+    - [s. 274 Commencement.](section/274.md)
+    - [s. 275 Continuity, and construction of references to old and new law.](section/275.md)
+    - [s. 276 Consequential amendments.](section/276.md)
+    - [s. 277 Repeals.](section/277.md)
+    - [s. 278 Short title.](section/278.md)
+- SCHEDULE A1 Non-excluded overseas property
+  - PART 1 Overseas property with value attributable to UK residential property or UK agricultural property
+    - Introductory
+      - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - Close company and partnership interests
+      - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - Loans
+      - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+      - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - PART 2 Supplementary
+    - Disposals and repayments
+      - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - Tax avoidance arrangements
+      - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - Double taxation relief arrangements
+      - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - PART 3 Interpretation
+    - Relevant UK property
+      - [Sch. A1 para. 7A](schedule/A1/paragraph/7A.md)
+    - UK agricultural property
+      - [Sch. A1 para. 7B](schedule/A1/paragraph/7B.md)
+    - UK residential property interest
+      - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+    - Close companies
+      - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - Partnerships
+      - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+- SCHEDULE 1
+- SCHEDULE 1A Gifts to charities etc: tax charged at lower rate
+  - Application of this Schedule
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+  - The relief
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - The components of the estate
+    - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+  - The donated amount
+    - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+  - The baseline amount
+    - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+  - Rules for determining whether charitable giving condition is met
+    - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+  - Election to merge parts of the estate
+    - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - Opting out
+    - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+  - Elections: procedure
+    - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+  - General interpretation
+    - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+- SCHEDULE 2 PROVISIONS APPLYING ON REDUCTION OF TAX
+  - Interpretation
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Death within seven years of potentially exempt transfer
+    - [Sch. 2 para. 1A](schedule/2/paragraph/1A.md)
+  - Death within seven years of chargeable transfer
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Settlement without interest in possession
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Disposal of trees etc. following exemption on death
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Conditionally exempt transfers
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Maintenance funds for historic buildings
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Relevant dependant with pension fund inherited from member over 75
+    - [Sch. 2 para. 6A](schedule/2/paragraph/6A.md)
+- SCHEDULE 3 GIFTS FOR NATIONAL PURPOSES, ETC.
+- SCHEDULE 4 MAINTENANCE FUNDS FOR HISTORIC BUILDINGS, ETC.
+  - PART I TREASURY DIRECTIONS
+    - Giving of directions
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Conditions
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Withdrawal
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Information
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Enforcement of trusts
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - PART II PROPERTY LEAVING MAINTENANCE FUNDS
+    - Charge to tax
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Exceptions from charge
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - Rates of charge
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Maintenance fund following interest in possession
+      - [Sch. 4 para. 15A](schedule/4/paragraph/15A.md)
+  - PART III PROPERTY BECOMING COMPRISED IN MAINTENANCE FUNDS
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+- SCHEDULE 5 CONDITIONAL EXEMPTION: DEATHS BEFORE 7TH APRIL 1976
+  - Charge on failure of condition of exemption—objects
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Charge on failure of condition of exemption—buildings etc.
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Further undertaking on disposal
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Requirements of sale
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 5A Qualifying payments: victims of persecution during Second World War era
+  - PART 1 Compensation payments
+    - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+    - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+    - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+    - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+    - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+    - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+    - [Sch. 5A para. 7](schedule/5A/paragraph/7.md)
+    - [Sch. 5A para. 8](schedule/5A/paragraph/8.md)
+    - [Sch. 5A para. 9](schedule/5A/paragraph/9.md)
+    - [Sch. 5A para. 10](schedule/5A/paragraph/10.md)
+  - PART 2 Ex-gratia payments
+- SCHEDULE 6 TRANSITION FROM ESTATE DUTY
+  - General
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Surviving spouse or former spouse
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Sales and mortgages of reversionary interests
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Objects of national etc. interest left out of account on death
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+- SCHEDULE 7 COMMENCEMENT: SUPPLEMENTARY RULES
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+- SCHEDULE 8 CONSEQUENTIAL AMENDMENTS
+  - The Land Registration Act 1925
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Crown Proceedings Act 1947
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Land Charges Act 1972
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - The Finance Act 1975
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - The Finance Act 1977
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - The Capital Gains Tax Act 1979
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - The National Heritage Act 1980
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - The Finance Act 1980
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+  - The Supreme Court Act 1981
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - The Finance Act 1982
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - The Finance (No. 2) Act 1983
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+  - The Value Added Tax Act 1983
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - The Land Registration Act (Northern Ireland) 1970
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+- SCHEDULE 9 REPEALS
