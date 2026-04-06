@@ -1,0 +1,441 @@
+# Wireless Telegraphy Act 2006
+
+2006 c. 36. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2006/36
+
+Source: https://www.legislation.gov.uk/ukpga/2006/36/2026-04-06
+
+## Contents
+
+- Part 1 General provision about radio spectrum
+  - Radio spectrum functions of OFCOM
+    - [s. 1 General functions](section/1.md)
+    - [s. 2 United Kingdom Plan for Frequency Authorisation](section/2.md)
+    - [s. 3 Duties of OFCOM when carrying out functions](section/3.md)
+    - [s. 4 Advisory service in relation to interference](section/4.md)
+    - [s. 5 Directions of Secretary of State](section/5.md)
+    - [s. 6 Procedure for directions](section/6.md)
+  - Reservation of spectrum for multiplex use
+    - [s. 7 Special duty in relation to television multiplexes](section/7.md)
+- Part 2 Regulation of radio spectrum
+  - Chapter 1 Wireless telegraphy licences
+    - Licensing of wireless telegraphy
+      - [s. 8 Licences and exemptions](section/8.md)
+      - [s. 8A Review of long licences](section/8A.md)
+      - [s. 8B Restriction on grant of exclusive licence](section/8B.md)
+      - [s. 8C Consultation before grant of exclusive licence](section/8C.md)
+      - [s. 9 Terms, provisions and limitations](section/9.md)
+      - [s. 9ZA Restrictions on imposition of limitations etc under section 9](section/9ZA.md)
+      - [s. 9ZB Review of pre-26 May 2011 limitations etc.](section/9ZB.md)
+      - [s. 9A Notice to satellite uplinkers](section/9A.md)
+      - [s. 10 Procedure](section/10.md)
+      - [s. 11 Surrender of licence](section/11.md)
+    - Charges etc
+      - [s. 12 Charges for grant of licence](section/12.md)
+      - [s. 13 Matters taken into account](section/13.md)
+      - [s. 14 Bidding for licences](section/14.md)
+      - [s. 15 Recovery](section/15.md)
+      - [s. 16 Regulations](section/16.md)
+      - [s. 17 Sections 12 to 16: interpretation](section/17.md)
+  - Chapter 2 Grants of recognised spectrum access
+    - Making of grants
+      - [s. 18 Grant of recognised spectrum access](section/18.md)
+      - [s. 19 Procedure](section/19.md)
+      - [s. 20 Effect of grant of recognised spectrum access](section/20.md)
+    - Charges etc
+      - [s. 21 Charges for grant of recognised spectrum access](section/21.md)
+      - [s. 22 Matters taken into account](section/22.md)
+      - [s. 23 Bidding for grants](section/23.md)
+      - [s. 24 Recovery](section/24.md)
+      - [s. 25 Regulations](section/25.md)
+      - [s. 26 Sections 21 to 25: interpretation](section/26.md)
+  - Chapter 3 Management of radio spectrum
+    - General
+      - [s. 27 Conversion into and from wireless telegraphy licences](section/27.md)
+      - [s. 28 Payments by the Crown](section/28.md)
+      - [s. 29 Limitations on authorised spectrum use](section/29.md)
+      - [s. 30 Spectrum trading](section/30.md)
+      - [s. 30A General duty of OFCOM to allow leasing or transfer](section/30A.md)
+    - Wireless telegraphy register
+      - [s. 31 Wireless telegraphy register](section/31.md)
+    - Statistical information
+      - [s. 32 Statistical information](section/32.md)
+      - [s. 32A Information required for purposes of radio spectrum functions](section/32A.md)
+      - [s. 32B Restrictions on imposing information requirements](section/32B.md)
+      - [s. 32C Notification of contravention of information requirements](section/32C.md)
+      - [s. 32D Penalties for contravention of information requirements](section/32D.md)
+      - [s. 32E Enforcement of notification under section 32C](section/32E.md)
+      - [s. 33 Failure to provide information etc](section/33.md)
+      - [s. 34 Statement of policy](section/34.md)
+  - Chapter 4 Enforcement
+    - Unauthorised use etc
+      - [s. 35 Unauthorised use etc of wireless telegraphy station or apparatus](section/35.md)
+      - [s. 36 Keeping available for unauthorised use](section/36.md)
+      - [s. 37 Allowing premises to be used for unlawful broadcasting](section/37.md)
+      - [s. 38 Facilitating unauthorised broadcasting](section/38.md)
+    - Procedures for contraventions
+      - [s. 39 Contravention of terms, etc](section/39.md)
+      - [s. 40 Repeated contravention](section/40.md)
+      - [s. 41 Procedure for prosecutions](section/41.md)
+      - [s. 42 Special procedure for contraventions by holders of wireless telegraphy licences](section/42.md)
+      - [s. 43 Amount of penalty under section 42](section/43.md)
+      - [s. 43A Special procedure for contraventions of certain provisions](section/43A.md)
+      - [s. 44 Relevant amount of gross revenue](section/44.md)
+  - Chapter 5 Miscellaneous
+    - Regulations about wireless telegraphy
+      - [s. 45 Regulations](section/45.md)
+      - [s. 46 Offences](section/46.md)
+    - Misuse of wireless telegraphy
+      - [s. 47 Misleading messages](section/47.md)
+      - [s. 48 Interception and disclosure of messages](section/48.md)
+      - [s. 49 Interception authorities](section/49.md)
+    - Miscellaneous
+      - [s. 50 Apparatus on foreign-registered ships etc](section/50.md)
+      - [s. 51 Apparatus in vehicles](section/51.md)
+      - [s. 52 Wireless personnel](section/52.md)
+      - [s. 53 Surrender of authority](section/53.md)
+- PART 2A Regulation of dynamic spectrum access services
+  - Registration
+    - [s. 53A Registration of providers of dynamic spectrum access services](section/53A.md)
+    - [s. 53B Revocation and variation of registration](section/53B.md)
+    - [s. 53C Register of providers of dynamic spectrum access services](section/53C.md)
+  - Fees
+    - [s. 53D Fees for registration etc](section/53D.md)
+  - Enforcement
+    - [s. 53E Notification of contravention of registration restrictions or conditions](section/53E.md)
+    - [s. 53F Penalties under section 53E](section/53F.md)
+    - [s. 53G Enforcement of notification under section 53E](section/53G.md)
+    - [s. 53H Meaning of “relevant amount of gross revenue”](section/53H.md)
+    - [s. 53I Requirement to provide information about gross revenue](section/53I.md)
+  - Information
+    - [s. 53J Provision of information to persons registered under section 53A](section/53J.md)
+    - [s. 53K Notification of contravention of information requirements](section/53K.md)
+    - [s. 53L Penalties under section 53K](section/53L.md)
+    - [s. 53M Enforcement of notification under section 53K](section/53M.md)
+- Part 3 Regulation of apparatus
+  - Undue interference
+    - [s. 54 Regulations about use and sale etc of apparatus](section/54.md)
+    - [s. 55 Enforcement: use of apparatus](section/55.md)
+    - [s. 56 Enforcement: sale etc of apparatus](section/56.md)
+    - [s. 57 Appeal against notice under section 55 or 56 etc](section/57.md)
+    - [s. 58 Contravening notice under section 55 or 56](section/58.md)
+    - [s. 59 Entry and search of premises etc](section/59.md)
+    - [s. 60 Obstruction and failure to assist](section/60.md)
+    - [s. 61 Sections 54 to 60: interpretation](section/61.md)
+  - Restriction orders
+    - [s. 62 Restriction orders](section/62.md)
+    - [s. 63 Authorities](section/63.md)
+    - [s. 64 Compatibility with international obligations](section/64.md)
+    - [s. 65 Powers of Commissioners for Her Majesty’s Revenue and Customs](section/65.md)
+    - [s. 66 Offences](section/66.md)
+    - [s. 67 Restriction orders: interpretation](section/67.md)
+  - Deliberate interference
+    - [s. 68 Deliberate interference](section/68.md)
+- Part 4 Approval of apparatus etc
+  - Approval of apparatus
+    - [s. 69 Approval of apparatus](section/69.md)
+    - [s. 70 Approvals: supplementary](section/70.md)
+    - [s. 71 The relevant authority](section/71.md)
+  - Marking etc of apparatus
+    - [s. 72 Information etc on or with apparatus](section/72.md)
+    - [s. 73 Information etc in advertisements](section/73.md)
+    - [s. 74 Offences](section/74.md)
+    - [s. 75 Default of third person](section/75.md)
+  - Interpretation
+    - [s. 76 Part 4: interpretation](section/76.md)
+- Part 5 Prohibition of broadcasting from sea or air
+  - Prohibitions
+    - [s. 77 Broadcasting from ships and aircraft](section/77.md)
+    - [s. 78 Broadcasting from marine structures etc](section/78.md)
+    - [s. 79 Broadcasting from prescribed areas of high seas](section/79.md)
+    - [s. 80 Acts connected with broadcasting](section/80.md)
+    - [s. 81 Management of station](section/81.md)
+    - [s. 82 Facilitating broadcasting from ships or aircraft](section/82.md)
+    - [s. 83 Facilitating broadcasting from structures etc](section/83.md)
+    - [s. 84 Maintaining or repairing apparatus](section/84.md)
+    - [s. 85 Acts relating to broadcast material](section/85.md)
+    - [s. 86 Facilitation offences: territorial scope](section/86.md)
+    - [s. 87 Procuring person to commit offence abroad](section/87.md)
+  - Enforcement
+    - [s. 88 Enforcement officers](section/88.md)
+    - [s. 89 Enforcement powers](section/89.md)
+    - [s. 90 Enforcement powers: facilitation offences](section/90.md)
+    - [s. 91 Exercise of powers](section/91.md)
+    - [s. 92 Further provisions](section/92.md)
+  - Penalties and proceedings
+    - [s. 93 Penalties and proceedings](section/93.md)
+  - Saving
+    - [s. 94 Saving for certain broadcasts](section/94.md)
+  - Interpretation
+    - [s. 95 Part 5: interpretation](section/95.md)
+- Part 6 General
+  - Fixed penalties
+    - [s. 96 Fixed penalties for summary offences](section/96.md)
+  - Entry, search and seizure
+    - [s. 97 Powers of entry and search](section/97.md)
+    - [s. 98 Obstruction and failure to assist](section/98.md)
+    - [s. 99 Powers of seizure](section/99.md)
+    - [s. 100 Obstruction](section/100.md)
+  - Disposal and forfeiture
+    - [s. 101 Detention and disposal of property](section/101.md)
+    - [s. 102 Section 101: conclusion of proceedings](section/102.md)
+    - [s. 103 Forfeiture on conviction](section/103.md)
+    - [s. 104 Forfeiture etc of restricted apparatus](section/104.md)
+  - Enforcement, proceedings etc
+    - [s. 105 Offences relating to ships or aircraft](section/105.md)
+    - [s. 106 Continuing offences](section/106.md)
+    - [s. 107 Proceedings and enforcement](section/107.md)
+    - [s. 108 Civil proceedings](section/108.md)
+    - [s. 109 Fines in Scotland](section/109.md)
+    - [s. 110 Criminal liability of company directors etc](section/110.md)
+  - Disclosure of information
+    - [s. 111 General restrictions](section/111.md)
+  - Notifications etc and electronic working
+    - [s. 112 Service of documents](section/112.md)
+    - [s. 113 Documents in electronic form](section/113.md)
+    - [s. 114 Timing and location of things done electronically](section/114.md)
+  - Interpretation
+    - [s. 115 General interpretation](section/115.md)
+    - [s. 116 “Wireless telegraphy”](section/116.md)
+    - [s. 117 “Wireless telegraphy apparatus” and “wireless telegraphy station”](section/117.md)
+  - Extent and application
+    - [s. 118 Extent](section/118.md)
+    - [s. 119 Territorial application](section/119.md)
+    - [s. 120 Territorial sea and other waters](section/120.md)
+  - Supplemental
+    - [s. 121 Orders and regulations made by Secretary of State](section/121.md)
+    - [s. 122 Orders and regulations made by OFCOM](section/122.md)
+    - [s. 123 Consequential amendments](section/123.md)
+    - [s. 124 Transitional provisions, savings and transitory modifications](section/124.md)
+    - [s. 125 Repeals and revocations](section/125.md)
+    - [s. 126 Short title and commencement](section/126.md)
+- SCHEDULE 1 Procedure for wireless telegraphy licences
+  - General procedure for applications
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Time limits
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Information to be provided in connection with applications
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Proposed refusal
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Duration
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Revocation or variation
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 6A](schedule/1/paragraph/6A.md)
+  - Notification of proposed revocation or variation
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Restriction on powers of revocation and variation
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 Procedure for grants of recognised spectrum access
+  - General procedure for applications
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Information to be provided in connection with applications
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Notice of proposed refusal of application
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Duration of grant
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Revocation or modification
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Notice of proposed revocation or modification
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Restriction on powers of revocation and modification
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Suspension and revocation of authorities issued to wireless personnel
+  - Notice of suspension
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Reference to advisory committee
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Decision by Secretary of State
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Payment of expenses
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+- SCHEDULE 4 Fixed penalties
+  - Offences to which this Schedule applies
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Fixed penalties and fixed penalty notices
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Issuing of fixed penalty notice
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Content of fixed penalty notice
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Withdrawal of fixed penalty notice
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Notification to person to whom payment is to be made
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Effect of fixed penalty notice
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Payment of fixed penalty
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Effect of payment
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Service of statement and proof of service
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Certificate about payment
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - Regulations
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+  - Interpretation
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+- SCHEDULE 5 Forfeiture on conviction
+  - Power to order forfeiture
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Forfeiture in relation to restricted apparatus
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Property of third parties
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Disposal of apparatus
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Delivery to OFCOM
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Provisions as to disposal of property disapplied
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Provisions as to deprivation of property disapplied
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+- SCHEDULE 6 Seizure and forfeiture of restricted apparatus
+  - Application of Schedule
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Notice of seizure
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Notice of claim
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Condemnation
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Proceedings for condemnation by court
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Disposal of unclaimed property
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - Provisions as to proof
+    - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+  - Special provisions as to certain claimants
+    - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+  - Saving for owner’s rights
+    - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+- SCHEDULE 7 Consequential amendments
+  - Defamation Act (Northern Ireland) 1955 (c. 11 (N.I.))
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Wireless Telegraphy Act 1967 (c. 72)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Theatres Act 1968 (c. 54)
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Port of London Act 1968 (c. xxxii)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Thames Barrier and Flood Prevention Act 1972 (c. xlv)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Road Traffic (Driver Licensing and Information Systems) Act 1989 (c. 22)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Broadcasting Act 1990 (c. 42)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Intelligence Services Act 1994 (c. 13)
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Merchant Shipping Act 1995 (c. 21)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Criminal Procedure (Scotland) Act 1995 (c. 46)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Broadcasting Act 1996 (c. 55)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+  - Police Act 1997 (c. 50)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+  - Terrorism Act 2000 (c. 11)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
+  - Regulation of Investigatory Powers Act 2000 (c. 23)
+    - [Sch. 7 para. 21](schedule/7/paragraph/21.md)
+    - [Sch. 7 para. 22](schedule/7/paragraph/22.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+  - Communications Act 2003 (c. 21)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 27](schedule/7/paragraph/27.md)
+    - [Sch. 7 para. 28](schedule/7/paragraph/28.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 31](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
+    - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
+    - [Sch. 7 para. 36](schedule/7/paragraph/36.md)
+  - Income Tax (Trading and Other Income) Act 2005 (c. 5)
+    - [Sch. 7 para. 37](schedule/7/paragraph/37.md)
+  - Commissioners for Revenue and Customs Act 2005 (c. 11)
+    - [Sch. 7 para. 38](schedule/7/paragraph/38.md)
+- SCHEDULE 8 Transitional provisions, savings and transitory modifications
+  - Part 1 Transitional provisions and savings
+    - General provisions
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+      - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+      - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - General rule for old savings
+      - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - Use of existing forms etc
+      - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - Regulatory Reform Act 2001 (c. 6)
+      - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - Contracted-out functions under section 1 of the Wireless Telegraphy Act 1949
+      - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - Wireless telegraphy licences granted before 18th June 1998
+      - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - Procedures treated as prescribed by regulations made by OFCOM
+      - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - Tribunal established under section 9 of the Wireless Telegraphy Act 1949
+      - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - References to Postmaster General etc
+      - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - Procedure for prosecutions
+      - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - Penalties for certain offences triable either way
+      - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - Penalties for offences: unauthorised use of wireless telegraphy station etc
+      - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+      - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - Penalties for offences: contravening notice under section 55 or 56
+      - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - Fixed penalties for wireless telegraphy offences
+      - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - Powers of seizure
+      - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - Forfeiture etc of restricted apparatus
+      - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - Appeals of wireless telegraphy decisions
+      - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - Orders in Council: section 118
+      - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - Orders in Council: continental shelf
+      - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Part 2 Transitory modifications
+    - Justice (Northern Ireland) Act 2002 (c. 26)
+      - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+    - Communications Act 2003 (c. 21)
+      - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - Power to make transitional provision
+      - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - Saving for old transitional provisions
+      - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+- SCHEDULE 9 Repeals and revocations
+  - Part 1 Repeals
+  - Part 2 Revocations
