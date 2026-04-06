@@ -1,0 +1,2269 @@
+# Taxation of Chargeable Gains Act 1992
+
+1992 c. 12. Enacted 1992-03-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 71 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1992/12
+
+Source: https://www.legislation.gov.uk/ukpga/1992/12/2026-04-06
+
+## Contents
+
+- Part 1 Capital gains tax and corporation tax on chargeable gains
+  - Chapter 1 Capital gains tax
+    - Charge to capital gains tax
+      - [s. 1 Capital gains tax](section/1.md)
+    - Territorial scope of charge
+      - [s. 1A Territorial scope](section/1A.md)
+      - [s. 1B Non-UK residents: UK branch or agency](section/1B.md)
+      - [s. 1C Non-UK residents: disposing of an “interest in UK land”](section/1C.md)
+      - [s. 1D Non-UK residents: assets deriving 75% of value from UK land etc](section/1D.md)
+    - Deduction of allowable losses
+      - [s. 1E Losses deductible only when within scope of tax etc](section/1E.md)
+      - [s. 1F Allowable losses to be used in most beneficial way etc](section/1F.md)
+    - UK resident individuals with split tax years
+      - [s. 1G Gains accruing to UK resident individuals in split years](section/1G.md)
+    - Rates of CGT
+      - [s. 1H The main rates of CGT](section/1H.md)
+      - [s. 1I Income taxed at higher rates or gains exceeding unused basic rate band](section/1I.md)
+      - [s. 1J Section 1I: definitions and other supplementary provision](section/1J.md)
+    - Annual exempt amount
+      - [s. 1K Annual exempt amount](section/1K.md)
+      - [s. 1L Increasing annual exempt amount to reflect increases in CPI](section/1L.md)
+    - Temporary periods of non-residence
+      - [s. 1M Temporary non-residents](section/1M.md)
+      - [s. 1N Section 1M(1): assets acquired in temporary period of non-residence](section/1N.md)
+    - Interpretation
+      - [s. 1O Definitions used in Chapter](section/1O.md)
+  - Chapter 2 Corporation tax on chargeable gains
+    - Corporation tax on chargeable gains: the general scheme
+      - [s. 2 Corporation tax on chargeable gains](section/2.md)
+      - [s. 2A Company’s total profits to include chargeable gains](section/2A.md)
+    - Territorial scope
+      - [s. 2B Territorial scope of charge to corporation tax on chargeable gains](section/2B.md)
+      - [s. 2C Non-UK resident company with UK permanent establishment](section/2C.md)
+    - Application of CGT principles etc
+      - [s. 2D Application of CGT principles in calculating gains and losses](section/2D.md)
+      - [s. 2E References to income tax or Income Tax Acts in case of companies](section/2E.md)
+      - [s. 2F Interaction of capital gains tax and corporation tax](section/2F.md)
+    - Supplementary
+      - [s. 2G Assets of a company vested in a liquidator](section/2G.md)
+  - Chapter 3 Attribution of gains of non-UK resident close companies
+    - Gains of non-UK resident companies not otherwise chargeable
+      - [s. 3 Gains attributed to UK resident individuals etc](section/3.md)
+      - [s. 3A Gains connected to avoidance or foreign activities etc](section/3A.md)
+      - [s. 3B Participators and their interests](section/3B.md)
+    - Prevention of multiple charges
+      - [s. 3C Prevention of double UK taxation](section/3C.md)
+    - Individuals who were non-UK domiciled and temporary non-residents
+      - [s. 3D Individuals who were non-UK domiciled](section/3D.md)
+      - [s. 3E Temporary non-residents](section/3E.md)
+    - Application to groups
+      - [s. 3F Non-resident groups of companies](section/3F.md)
+    - Supplementary
+      - [s. 3G Supplementary provisions](section/3G.md)
+  - Capital gains tax
+    - [s. 4 Rates of capital gains tax](section/4.md)
+    - [s. 4A Section 4: special cases](section/4A.md)
+    - [s. 4B Deduction of losses etc in most beneficial way](section/4B.md)
+    - [s. 4BA Rates, and use of unused basic rate band, in certain cases](section/4BA.md)
+    - [s. 4BB Residential property gain or loss](section/4BB.md)
+    - [s. 5 Accumulation and discretionary settlements.](section/5.md)
+    - [s. 6 Other special cases.](section/6.md)
+    - [s. 7 Time for payment of tax.](section/7.md)
+  - Corporation tax
+    - [s. 8 Company’s total profits to include chargeable gains.](section/8.md)
+  - Residence etc.
+    - [s. 9 Residence, including temporary residence.](section/9.md)
+    - [s. 10 Non-resident with United Kingdom branch or agency.](section/10.md)
+    - [s. 10A Temporary non-residents.](section/10A.md)
+    - [s. 10AA Section 10A: supplementary](section/10AA.md)
+    - [s. 10B Non-resident company with United Kingdom permanent establishment](section/10B.md)
+    - [s. 11 Visiting forces and official agents](section/11.md)
+    - [s. 12 Non-UK domiciled individuals to whom remittance basis applies](section/12.md)
+    - [s. 13 Attribution of gains to members of non-resident companies.](section/13.md)
+    - [s. 13A Section 13(5): interpretation](section/13A.md)
+    - [s. 14 Non-resident groups of companies.](section/14.md)
+    - [s. 14A Section 13: non-UK domiciled individuals](section/14A.md)
+  - CommentaryRef Ref="key-8f1b51e533ff9b07068f2c9150edcf5f"/>UK residential property: non-resident CGT
+    - [s. 14B Meaning of “non-resident CGT disposal”](section/14B.md)
+    - [s. 14C Meaning of “disposal of a UK residential property interest”](section/14C.md)
+    - [s. 14D Persons chargeable to capital gains tax on NRCGT gains](section/14D.md)
+    - [s. 14E Further provision about use of NRCGT losses](section/14E.md)
+    - [s. 14F Persons not chargeable under section 14D if a claim is made](section/14F.md)
+    - [s. 14G Section 14F: divided companies](section/14G.md)
+    - [s. 14H Section 14F: arrangements for avoiding tax](section/14H.md)
+- Part II General Provisions relating to computation of gains and acquisitions and disposals of assets
+  - Chapter I Introductory
+    - [s. 15 Computation of gains.](section/15.md)
+    - [s. 16 Computation of losses.](section/16.md)
+    - [s. 16ZA Losses: non-UK domiciled individuals](section/16ZA.md)
+    - [s. 16ZB Individual who has made election under section 16ZA: foreign chargeable gains remitted in tax year after tax year in which accrue](section/16ZB.md)
+    - [s. 16ZC Individual who has made election under section 16ZA and to whom remittance basis applies](section/16ZC.md)
+    - [s. 16ZD Section 16ZC: supplementary](section/16ZD.md)
+    - [s. 16A Restrictions on allowable losses](section/16A.md)
+    - [s. 17 Disposals and acquisitions treated as made at market value.](section/17.md)
+    - [s. 18 Transactions between connected persons.](section/18.md)
+    - [s. 19 Deemed consideration in certain cases where assets disposed of in a series of transactions.](section/19.md)
+    - [s. 20 Original market value and aggregate market value for purposes of section 19.](section/20.md)
+  - Chapter II Assets and disposals of assets
+    - General provisions
+      - [s. 21 Assets and disposals.](section/21.md)
+      - [s. 22 Disposal where capital sums derived from assets.](section/22.md)
+      - [s. 23 Receipt of compensation and insurance money not treated as a disposal.](section/23.md)
+      - [s. 24 Disposals where assets lost or destroyed, or become of negligible value.](section/24.md)
+      - [s. 24A Structures and buildings contributions allowances: destruction of asset](section/24A.md)
+      - [s. 25 Non-residents: deemed disposals.](section/25.md)
+      - [s. 25ZA Postponing gain or loss under section 25(3): interests in UK land](section/25ZA.md)
+      - [s. 25A Long funding leases of plant or machinery: deemed disposals](section/25A.md)
+      - [s. 26 Mortgages and charges not to be treated as disposals.](section/26.md)
+      - [s. 26A Transfers in respect of dormant assets](section/26A.md)
+      - [s. 27 Disposals in cases of hire-purchase and similar transactions.](section/27.md)
+      - [s. 28 Time of disposal and acquisition where asset disposed of under contract.](section/28.md)
+      - [s. 28A Contracts completed after ordinary notification period](section/28A.md)
+    - Value shifting
+      - [s. 29 General provisions.](section/29.md)
+      - [s. 30 Tax-free benefits.](section/30.md)
+      - [s. 31 Disposal of shares or securities by a company](section/31.md)
+      - [s. 31A Asset-holding company leaving the group.](section/31A.md)
+      - [s. 32 Disposals within a group followed by a disposal of shares.](section/32.md)
+      - [s. 33 Provisions supplementary to sections 30 to 32.](section/33.md)
+      - [s. 33A Modification of sections 30 to 33 in relation to chargeable intangible asset](section/33A.md)
+      - [s. 34 Transactions treated as a reorganisation of share capital.](section/34.md)
+  - Chapter III Computation of gains: General provisions
+    - Re-basing to 1982, and assets held on 6th April 1965
+      - [s. 35 Assets held on 31st March 1982 (including assets held on 6th April 1965).](section/35.md)
+      - [s. 35A Disposal of asset acquired on no gain/no loss disposal](section/35A.md)
+      - [s. 36 Deferred charges on gains before 31st March 1982.](section/36.md)
+    - Re-basing for non-residents for UK land etc held on 5 April 2019
+      - [s. 36A Re-basing in relation to direct or indirect disposals of UK land](section/36A.md)
+    - Allowable deductions
+      - [s. 37 Consideration chargeable to tax on income.](section/37.md)
+      - [s. 37A Consideration on disposal of certain leases](section/37A.md)
+      - [s. 37B Consideration on certain disposals: structures and buildings allowances](section/37B.md)
+      - [s. 38 Acquisition and disposal costs etc.](section/38.md)
+      - [s. 39 Exclusion of expenditure by reference to tax on income.](section/39.md)
+      - [s. 39A Exclusion of certain expenditure: structures and buildings allowances](section/39A.md)
+      - [s. 40 Interest charged to capital.](section/40.md)
+      - [s. 41 Restriction of losses by reference to capital allowances and renewals allowances.](section/41.md)
+      - [s. 41A Restriction of losses: long funding leases of plant or machinery](section/41A.md)
+      - [s. 42 Part disposals.](section/42.md)
+      - [s. 43 Assets derived from other assets.](section/43.md)
+    - Wasting assets
+      - [s. 44 Meaning of “wasting asset".](section/44.md)
+      - [s. 45 Exemption for certain wasting assets.](section/45.md)
+      - [s. 46 Straightline restriction of allowable expenditure.](section/46.md)
+      - [s. 47 Wasting assets qualifying for capital allowances.](section/47.md)
+    - Cash basis accounting
+      - [s. 47A Exemption for certain disposals under, or after leaving, cash basis](section/47A.md)
+      - [s. 47B Disposals made by persons after leaving cash basis](section/47B.md)
+    - Miscellaneous provisions
+      - [s. 48 Consideration due after time of disposal.](section/48.md)
+      - [s. 48A Unascertainable consideration](section/48A.md)
+      - [s. 49 Contingent liabilities.](section/49.md)
+      - [s. 50 Expenditure reimbursed out of public money.](section/50.md)
+      - [s. 51 Exemption for winnings and damages etc.](section/51.md)
+      - [s. 52 Supplemental.](section/52.md)
+  - Chapter IV Computation of gains: the indexation allowance
+    - General
+      - [s. 52A Chapter to apply only for corporation tax purposes](section/52A.md)
+      - [s. 53 The indexation allowance and interpretative provisions.](section/53.md)
+      - [s. 54 Calculation of indexation allowance.](section/54.md)
+      - [s. 55 Assets owned on 31st March 1982 or acquired on a no gain/no loss disposal.](section/55.md)
+      - [s. 56 Part disposals and disposals on a no-gain/no-loss basis.](section/56.md)
+      - [s. 57 Receipts etc. which are not treated as disposals but affect relevant allowable expenditure.](section/57.md)
+  - Chapter 5 Computation of gains and losses: relevant high value disposals
+    - [s. 57A Gains and losses on relevant high value disposals](section/57A.md)
+  - Chapter 6 Computation of gains and losses: non-resident CGT disposals
+    - [s. 57B Gains and losses on non-resident CGT disposals](section/57B.md)
+  - Chapter 7 Computation of gains and losses: disposals of residential property interests
+    - [s. 57C Gains and losses on disposals of residential property interests](section/57C.md)
+- Part III Individuals, partnerships, trusts and collective investment schemes etc
+  - Chapter I Miscellaneous provisions
+    - [s. 58 Spouses and civil partners.](section/58.md)
+    - [s. 59 Partnerships.](section/59.md)
+    - [s. 59A Limited liability partnerships.](section/59A.md)
+    - [s. 59AA Limited liability partnerships: deemed disposal](section/59AA.md)
+    - [s. 59B Alternative investment fund managers (1)](section/59B.md)
+    - [s. 59C Alternative investment managers (2)](section/59C.md)
+    - [s. 60 Nominees and bare trustees.](section/60.md)
+    - [s. 61 Funds in court.](section/61.md)
+    - [s. 62 Death: general provisions.](section/62.md)
+    - [s. 63 Death: application of law in Scotland.](section/63.md)
+    - [s. 63A Death: application of law in Northern Ireland](section/63A.md)
+    - [s. 64 Expenses in administration of estates and trusts.](section/64.md)
+    - [s. 65 Liability for tax of trustees or personal representatives.](section/65.md)
+    - [s. 66 Insolvents’ assets.](section/66.md)
+    - [s. 67 Provisions applicable where section 79 of the Finance Act 1980 has applied.](section/67.md)
+  - Chapter II Settlements
+    - General provisions
+      - [s. 68 Meaning of “settled property".](section/68.md)
+      - [s. 68A Meaning of “settlor”](section/68A.md)
+      - [s. 68B Transfer between settlements: identification of settlor](section/68B.md)
+      - [s. 68C Variation of will or intestacy, etc: identification of settlor](section/68C.md)
+      - [s. 69 Trustees of settlements.](section/69.md)
+      - [s. 69A Sub-fund settlements](section/69A.md)
+      - [s. 70 Transfers into settlement.](section/70.md)
+      - [s. 71 Person becoming absolutely entitled to settled property.](section/71.md)
+      - [s. 72 Termination of life interest on death of person entitled.](section/72.md)
+      - [s. 73 Death of life tenant: exclusion of chargeable gain.](section/73.md)
+      - [s. 74 Effect on sections 72 and 73 of relief under section 165 or 260.](section/74.md)
+      - [s. 75 Death of annuitant.](section/75.md)
+      - [s. 76 Disposal of interests in settled property.](section/76.md)
+      - [s. 76A Disposal of interest in settled property: deemed disposal of underlying assets.](section/76A.md)
+      - [s. 76B Transfers of value by trustees linked with trustee borrowing.](section/76B.md)
+      - [s. 77 Charge on settlor with interest in settlement.](section/77.md)
+      - [s. 78 Right of recovery.](section/78.md)
+      - [s. 79 Provisions supplemental to sections 77 and 78.](section/79.md)
+      - [s. 79A Restriction on set-off of trust losses.](section/79A.md)
+      - [s. 79B Attribution to trustees of gains of non-resident companies.](section/79B.md)
+    - Migration of settlements, non-resident settlements and dual resident settlements
+      - [s. 80 Trustees ceasing to be resident in U.K.](section/80.md)
+      - [s. 80A Postponing gain or loss under section 80(2): interests in UK land](section/80A.md)
+      - [s. 81 Death of trustee: special rules.](section/81.md)
+      - [s. 82 Past trustees: liability for tax.](section/82.md)
+      - [s. 83 Trustees ceasing to be liable to U.K. tax.](section/83.md)
+      - [s. 83A Trustees both resident and non-resident in a year of assessment](section/83A.md)
+      - [s. 84 Acquisition by dual resident trustees.](section/84.md)
+      - [s. 85 Disposal of interests in non-resident settlements.](section/85.md)
+      - [s. 85A Transfers of value: attribution of gains to beneficiaries and treatment of losses](section/85A.md)
+      - [s. 86 Attribution of gains to settlors with interest in non-resident or dual resident settlements.](section/86.md)
+      - [s. 86A Attribution of gains to settlor where temporarily non-resident](section/86A.md)
+      - [s. 87 Non-UK resident settlements: attribution of gains to beneficiaries](section/87.md)
+      - [s. 87A Section 87: matching](section/87A.md)
+      - [s. 87B Section 87: remittance basis](section/87B.md)
+      - [s. 87BA Sections 87 and 87A: disregard of capital payments made from carried interest gains](section/87BA.md)
+      - [s. 87C Sections 87 and 87A: disregard of certain capital payments](section/87C.md)
+      - [s. 87D Sections 87 and 87A: disregard of capital payments to non-residents](section/87D.md)
+      - [s. 87E Sections 87 and 87A: disregarded payments to temporary non-resident](section/87E.md)
+      - [s. 87F Sections 87 and 87A: disregarded payments in year settlement ends](section/87F.md)
+      - [s. 87G Settlor liable if capital payment received by close family member](section/87G.md)
+      - [s. 87H Meaning of “close member of the settlor’s family”](section/87H.md)
+      - [s. 87HA Onward gifts from non-residents or qualifying new residents](section/87HA.md)
+      - [s. 87I Non-UK resident settlements: recipients of onward gifts](section/87I.md)
+      - [s. 87J Relevant parts of payment from which onward gift derived](section/87J.md)
+      - [s. 87K Attribution of gains or payments to recipient of onward gift](section/87K.md)
+      - [s. 87L Cases where settlor liable following onward gift](section/87L.md)
+      - [s. 87M Cases where recipient of onward gift is user of remittance basis](section/87M.md)
+      - [s. 87N Sections 87 and 87A: disregard of payments to migrating beneficiary](section/87N.md)
+      - [s. 87P Sections 87 and 87A: temporary migration after payment disregarded](section/87P.md)
+      - [s. 88 Gains of dual resident settlements.](section/88.md)
+      - [s. 89 Migrant settlements etc.](section/89.md)
+      - [s. 90 Sections 87 and 89(2): transfers between settlements](section/90.md)
+      - [s. 90A Section 90: transfers made for consideration in money or money’s worth](section/90A.md)
+      - [s. 91 Increase in tax payable under section 87 or 89(2).](section/91.md)
+      - [s. 92 Qualifying amounts and matching.](section/92.md)
+      - [s. 93 Matching: special cases.](section/93.md)
+      - [s. 94 Transfers of settled property where qualifying amounts not wholly matched.](section/94.md)
+      - [s. 95 Matching after transfer.](section/95.md)
+      - [s. 96 Payments by and to companies.](section/96.md)
+      - [s. 97 Supplementary provisions.](section/97.md)
+      - [s. 97A Value of benefit conferred by capital payment made by way of loan](section/97A.md)
+      - [s. 97B Value of benefit conferred by capital payment made by way of making movable property available](section/97B.md)
+      - [s. 97C Value of benefit conferred by capital payment made by way of making land available](section/97C.md)
+      - [s. 98 Power to obtain information for purposes of sections 87 to 90.](section/98.md)
+      - [s. 98A Settlements with foreign element: information.](section/98A.md)
+  - Chapter III Collective investment schemes and investment trusts etc
+    - [s. 99 Application of Act to unit trust schemes.](section/99.md)
+    - [s. 99A Treatment of umbrella schemes](section/99A.md)
+    - [s. 99B Calculation of the disposal cost of accumulation units](section/99B.md)
+    - [s. 100 Exemption for authorised unit trusts etc.](section/100.md)
+    - [s. 100A Exemption for certain EEA UCITS](section/100A.md)
+    - [s. 101 Transfer of company’s assets to investment trust.](section/101.md)
+    - [s. 101A Transfer within group to investment trust.](section/101A.md)
+    - [s. 101B Transfer of company’s assets to venture capital trust.](section/101B.md)
+    - [s. 101C Transfer within group to venture capital trust.](section/101C.md)
+    - [s. 102 Collective investment schemes with property divided into separate parts.](section/102.md)
+    - [s. 103 Restriction on availability of indexation allowance.](section/103.md)
+    - [s. 103A Application of Act to certain offshore funds](section/103A.md)
+    - [s. 103B Application of section 99B to transparent funds](section/103B.md)
+    - [s. 103C Power to make regulations about collective investment schemes](section/103C.md)
+    - [s. 103D Application of Act to tax transparent funds](section/103D.md)
+    - [s. 103DA Tax transparent funds: share pooling etc](section/103DA.md)
+    - [s. 103DB UK property rich collective investment vehicles etc](section/103DB.md)
+    - [s. 103DC Co-ownership schemes which are to be treated as partnerships](section/103DC.md)
+  - Chapter 4 Collective investment schemes: exchanges, mergers and schemes of reconstruction
+    - [s. 103E Application of Chapter](section/103E.md)
+    - [s. 103F Exchanges of units for units in the same scheme](section/103F.md)
+    - [s. 103G Exchange of units for those in another collective investment scheme](section/103G.md)
+    - [s. 103H Scheme of reconstruction involving issue of units](section/103H.md)
+    - [s. 103I Scheme of reconstruction involving conversion scheme](section/103I.md)
+    - [s. 103J Supplementary provisions](section/103J.md)
+    - [s. 103K Restriction on application of sections 103G, 103H and 103I: anti-avoidance](section/103K.md)
+  - Chapter 5 Carried interest
+    - [s. 103KA Carried interest](section/103KA.md)
+    - [s. 103KB Carried interest: consideration on disposal etc of right](section/103KB.md)
+    - [s. 103KC Carried interest: foreign chargeable gains](section/103KC.md)
+    - [s. 103KD Carried interest: anti-avoidance](section/103KD.md)
+    - [s. 103KE Carried interest: avoidance of double taxation](section/103KE.md)
+    - [s. 103KF Relief for external investors on disposal of partnership asset](section/103KF.md)
+    - [s. 103KFA Election for carried interest gains to be chargeable as scheme profits arise](section/103KFA.md)
+    - [s. 103KFB Election in relation to scheme to apply to associated schemes](section/103KFB.md)
+    - [s. 103KFC Interaction with other charges](section/103KFC.md)
+    - [s. 103KFD Deemed accrual of loss where carried interest never arises](section/103KFD.md)
+    - [s. 103KFE Anti-avoidance](section/103KFE.md)
+    - [s. 103KG Meaning of “arise” in Chapter 5](section/103KG.md)
+    - [s. 103KH Interpretation of Chapter 5](section/103KH.md)
+- Part IV Shares, securities, options etc.
+  - Chapter I General
+    - Share pooling, identification of securities, and indexation
+      - [s. 104 Share pooling: general interpretative provisions.](section/104.md)
+      - [s. 105 Disposal on or before day of acquisition of shares and other unidentified assets.](section/105.md)
+      - [s. 105A Shares acquired on same day: election for alternative treatment](section/105A.md)
+      - [s. 105B Provision supplementary to section 105A](section/105B.md)
+      - [s. 106 Disposal of shares and securities by company within prescribed period of acquisition.](section/106.md)
+      - [s. 106A Identification of securities: ... capital gains tax.](section/106A.md)
+      - [s. 107 Identification of securities etc: general rules for corporation tax.](section/107.md)
+      - [s. 108 Identification of relevant securities for corporation tax.](section/108.md)
+      - [s. 109 Corporation tax: pre-April 1982 share pools.](section/109.md)
+      - [s. 110 Indexation for section 104 holdings for corporation tax.](section/110.md)
+      - [s. 110A Indexation for section 104 holdings: capital gains tax.](section/110A.md)
+      - [s. 111 Indexation: building society etc. shares.](section/111.md)
+      - [s. 112 Parallel pooling regulations: corporation tax.](section/112.md)
+      - [s. 113 Calls on shares: corporation tax.](section/113.md)
+      - [s. 114 Consideration for options: corporation tax.](section/114.md)
+    - Gilt-edged securities and qualifying corporate bonds
+      - [s. 115 Exemptions for gilt-edged securities and qualifying corporate bonds etc.](section/115.md)
+      - [s. 116 Reorganisations, conversions and reconstructions.](section/116.md)
+      - [s. 116A Holding beginning or ceasing to fall within section 490 of CTA 2009](section/116A.md)
+      - [s. 116B Shares beginning or ceasing to be shares to which section 521B of CTA 2009 applies](section/116B.md)
+      - [s. 117 Meaning of “qualifying corporate bond".](section/117.md)
+      - [s. 117A Assets that are not qualifying corporate bonds for corporation tax purposes.](section/117A.md)
+      - [s. 117B Holdings in unit trusts and offshore funds excluded from treatment as qualifying corporate bonds.](section/117B.md)
+    - Deep discount securities, the accrued income scheme etc.
+      - [s. 118 Amount to be treated as consideration on disposal of deep discount securities etc.](section/118.md)
+      - [s. 119 Transfers of securities subject to the accrued income scheme.](section/119.md)
+      - [s. 119A Increase in expenditure by reference to tax charged in relation to employment-related securities](section/119A.md)
+      - [s. 119B Section 119A: unchargeable, and unremitted chargeable, foreign securities income](section/119B.md)
+      - [s. 119C Section 119A: unremitted Part 7A income](section/119C.md)
+      - [s. 120 Increase in expenditure by reference to tax charged in relation to shares etc.](section/120.md)
+    - Savings certificates etc.
+      - [s. 121 Exemption for government non-marketable securities.](section/121.md)
+    - Capital distribution in respect of shares etc.
+      - [s. 122 Distribution which is not a new holding within Chapter II.](section/122.md)
+      - [s. 123 Disposal of right to acquire shares or debentures.](section/123.md)
+    - Close companies
+      - [s. 124 Disposal of shares: relief in respect of income tax consequent on shortfall in distributions.](section/124.md)
+      - [s. 125 Shares in close company transferring assets at an undervalue.](section/125.md)
+    - Share loss relief
+      - [s. 125A Effect of share loss relief](section/125A.md)
+  - Chapter II Reorganisation of share capital, conversion of securities etc.
+    - Reorganisation or reduction of share capital
+      - [s. 126 Application of sections 127 to 131.](section/126.md)
+      - [s. 127 Equation of original shares and new holding.](section/127.md)
+      - [s. 128 Consideration given or received by holder.](section/128.md)
+      - [s. 129 Part disposal of new holding.](section/129.md)
+      - [s. 130 Composite new holdings.](section/130.md)
+      - [s. 131 Indexation allowance.](section/131.md)
+    - Conversion of securities
+      - [s. 132 Equation of converted securities and new holding.](section/132.md)
+      - [s. 133 Premiums on conversion of securities.](section/133.md)
+      - [s. 134 Compensation stock.](section/134.md)
+    - Company reconstructions ...
+      - [s. 135 Exchange of securities for those in another company](section/135.md)
+      - [s. 136 Scheme of reconstruction involving issue of securities](section/136.md)
+      - [s. 137 Restriction on application of sections 135 and 136: anti-avoidance.](section/137.md)
+      - [s. 138 Procedure for clearance in advance.](section/138.md)
+      - [s. 138ZA Share exchanges involving non-UK incorporated close companies](section/138ZA.md)
+      - [s. 138ZB Treatment of securities connected with such exchanges](section/138ZB.md)
+      - [s. 138ZC Election to disapply section 135 or 136](section/138ZC.md)
+      - [s. 138A Use of earn-out rights for exchange of securities.](section/138A.md)
+      - [s. 139 Reconstruction ... involving transfer of business.](section/139.md)
+      - [s. 140 Postponement of charge on transfer of assets to non-resident company.](section/140.md)
+    - Transfers concerning companies of different member States
+      - [s. 140A Transfer or division of UK business](section/140A.md)
+      - [s. 140B Section 140A: anti-avoidance.](section/140B.md)
+      - [s. 140C Transfer or division of non-UK business](section/140C.md)
+      - [s. 140D Section 140C: anti-avoidance.](section/140D.md)
+      - [s. 140DA Securities issued on division of business](section/140DA.md)
+    - Mergers within European Community
+      - [s. 140E Merger leaving assets within UK tax charge](section/140E.md)
+      - [s. 140F Merger: assets outside UK tax charge](section/140F.md)
+      - [s. 140G Treatment of securities issued on merger](section/140G.md)
+      - [s. 140GA Disapplication of sections 24 and 122 where subsidiary merges with its parent](section/140GA.md)
+    - Transparent entities: disapplication of reliefs related to Mergers Directive
+      - [s. 140H Share exchanges](section/140H.md)
+      - [s. 140I Division of business or transfer of assets](section/140I.md)
+      - [s. 140J Mergers](section/140J.md)
+      - [s. 140K Transparent entities: taxation after merger, &c](section/140K.md)
+      - [s. 140L Interpretation](section/140L.md)
+  - Chapter III Miscellaneous provisions relating to commodities, futures, options and other securities
+    - [s. 142 Capital gains on stock dividends.](section/142.md)
+    - [s. 142A REITs: chargeable gains on stock dividends](section/142A.md)
+    - [s. 143 Commodity and financial futures and qualifying options.](section/143.md)
+    - [s. 144 Options and forfeited deposits.](section/144.md)
+    - [s. 144ZA Application of market value rule in case of exercise of option](section/144ZA.md)
+    - [s. 144ZB Exception to rule in section 144ZA](section/144ZB.md)
+    - [s. 144ZC Section 144ZB: non-commercial exercise of option](section/144ZC.md)
+    - [s. 144ZD Section 144ZB: alteration of value to obtain tax advantage](section/144ZD.md)
+    - [s. 144A Cash-settled options.](section/144A.md)
+    - [s. 145 Call options: indexation allowance.](section/145.md)
+    - [s. 146 Options: application of rules as to wasting assets.](section/146.md)
+    - [s. 147 Quoted options treated as part of new holdings.](section/147.md)
+    - [s. 148 Traded options: closing purchases.](section/148.md)
+    - [s. 148A Futures and options involving guaranteed returns](section/148A.md)
+    - [s. 148B Deemed disposals at a gain under section 564(4) of ITTOIA 2005](section/148B.md)
+    - [s. 148C Deemed disposals at a loss under section 564(4) of ITTOIA 2005](section/148C.md)
+    - [s. 149 Rights to acquire qualifying shares.](section/149.md)
+    - [s. 149A Employment-related securities options](section/149A.md)
+    - [s. 149AA Restricted and convertible employment-related securities and employee shareholder shares](section/149AA.md)
+    - [s. 149AB Shares in research institution spin-out companies](section/149AB.md)
+    - [s. 149B Employee incentive schemes: conditional interests in shares.](section/149B.md)
+    - [s. 149C Priority share allocations](section/149C.md)
+    - [s. 150 Business expansion schemes.](section/150.md)
+    - [s. 150A Enterprise investment scheme.](section/150A.md)
+    - [s. 150B Enterprise investment scheme: reduction of EIS relief.](section/150B.md)
+    - [s. 150C Enterprise investment scheme: re-investment.](section/150C.md)
+    - [s. 150D Enterprise investment scheme: application of taper relief](section/150D.md)
+    - [s. 150E Seed enterprise investment scheme](section/150E.md)
+    - [s. 150F Seed enterprise investment scheme: reduction of relief](section/150F.md)
+    - [s. 150G Seed enterprise investment scheme: re-investment](section/150G.md)
+    - [s. 151 Personal equity plans.](section/151.md)
+    - [s. 151A Venture capital trusts: reliefs.](section/151A.md)
+    - [s. 151B Venture capital trusts: supplementary.](section/151B.md)
+    - [s. 151BA CITR: identification of securities or shares on a disposal](section/151BA.md)
+    - [s. 151BB CITR: rights issues etc](section/151BB.md)
+    - [s. 151BC CITR: company reconstructions etc](section/151BC.md)
+    - [s. 151C Strips: manipulation of price: associated payment giving rise to loss](section/151C.md)
+    - [s. 151D Corporate strips: manipulation of price: associated payment giving rise to loss](section/151D.md)
+    - [s. 151E Exchange gains and losses from loan relationships: regulations](section/151E.md)
+    - [s. 151F Treatment of alternative finance arrangements](section/151F.md)
+    - [s. 151G Regulations where non-qualifying shares conditions altered](section/151G.md)
+  - Chapter 4 Alternative finance arrangements
+    - Introduction
+      - [s. 151H Introduction](section/151H.md)
+      - [s. 151I Meaning of “financial institution”](section/151I.md)
+    - Arrangements that are alternative finance arrangements
+      - [s. 151J Purchase and resale arrangements](section/151J.md)
+      - [s. 151K Diminishing shared ownership arrangements: initial acquisition](section/151K.md)
+      - [s. 151KA Diminishing shared ownership arrangements: refinancing](section/151KA.md)
+      - [s. 151L Deposit arrangements](section/151L.md)
+      - [s. 151M Profit share agency arrangements](section/151M.md)
+      - [s. 151N Investment bond arrangements](section/151N.md)
+      - [s. 151O Provision not at arm’s length: exclusion of arrangements from sections 151J to 151N](section/151O.md)
+    - Meaning of “alternative finance return”
+      - [s. 151P Purchase and resale arrangements](section/151P.md)
+      - [s. 151Q Purchase and resale arrangements where return in foreign currency](section/151Q.md)
+      - [s. 151R Diminishing shared ownership arrangements](section/151R.md)
+      - [s. 151S Other arrangements](section/151S.md)
+    - Special rules for investment bond arrangements
+      - [s. 151T Investment bond arrangements are qualifying corporate bonds](section/151T.md)
+      - [s. 151U Treatment of bond-holder and bond-issuer](section/151U.md)
+      - [s. 151V Treatment as securities](section/151V.md)
+      - [s. 151W Investment bond arrangements not unit trust scheme or offshore fund](section/151W.md)
+    - Other rules
+      - [s. 151X Exclusion of some alternative finance return from sale consideration](section/151X.md)
+      - [s. 151Y Diminishing shared ownership arrangements: further provision](section/151Y.md)
+      - [s. 151Z Diminishing shared ownership arrangements: further provision in respect of refinancing](section/151Z.md)
+- Part V Transfer of business assets, business asset disposal relief and investors’ relief
+  - Chapter I Transfer of business assets: General provisions
+    - Replacement of business assets
+      - [s. 152 Roll-over relief.](section/152.md)
+      - [s. 153 Assets only partly replaced.](section/153.md)
+      - [s. 153A Provisional application of sections 152 and 153.](section/153A.md)
+      - [s. 154 New assets which are depreciating assets.](section/154.md)
+      - [s. 155 Relevant classes of assets.](section/155.md)
+      - [s. 156 Assets of Class 1.](section/156.md)
+      - [s. 156ZA Intangible fixed assets: roll-over relief](section/156ZA.md)
+      - [s. 156ZB Intangible fixed assets: interaction with relief under Chapter 7 of Part 8 of CTA 2009](section/156ZB.md)
+      - [s. 156A Cessation of trade by limited liability partnership.](section/156A.md)
+      - [s. 157 Trade carried on by family company: business assets dealt with by individual.](section/157.md)
+      - [s. 158 Activities other than trades, and interpretation.](section/158.md)
+      - [s. 159 Non-residents: roll-over relief.](section/159.md)
+      - [s. 159A Disposals of interests in UK land by non-residents: roll-over relief](section/159A.md)
+      - [s. 160 Dual resident companies: roll-over relief.](section/160.md)
+    - Stock in trade
+      - [s. 161 Appropriations to and from stock.](section/161.md)
+    - Transfer of business to a company
+      - [s. 162 Roll-over relief on transfer of business.](section/162.md)
+      - [s. 162A Election for section 162 not to apply](section/162A.md)
+    - Transfer of business from company to shareholders
+      - [s. 162B Disincorporation relief: assets (including pre-FA 2002 goodwill)](section/162B.md)
+      - [s. 162C Disincorporation relief: post-FA 2002 goodwill](section/162C.md)
+    - Retirement relief
+      - [s. 163 Relief for disposals by individuals on retirement from family business.](section/163.md)
+      - [s. 164 Other retirement relief.](section/164.md)
+  - Chapter IA Roll-over relief on re-investment
+    - [s. 164A Relief on re-investment for individuals.](section/164A.md)
+    - [s. 164B Roll-over relief on re-investment by trustees.](section/164B.md)
+    - [s. 164BA Interaction with retirement relief](section/164BA.md)
+    - [s. 164C Restriction applying to retirement relief and roll-over relief on re-investment.](section/164C.md)
+    - [s. 164D Relief carried forward into replacement shares.](section/164D.md)
+    - [s. 164E Application of Chapter in cases of an exchange of shares.](section/164E.md)
+    - [s. 164F Failure of conditions of relief.](section/164F.md)
+    - [s. 164FA Loss of relief in cases where shares acquired on being issued.](section/164FA.md)
+    - [s. 164FF Qualifying investment acquired from husband or wife.](section/164FF.md)
+    - [s. 164FG Multiple claims.](section/164FG.md)
+    - [s. 164G Meaning of “qualifying company".](section/164G.md)
+    - [s. 164H Property companies etc. not to be qualifying companies.](section/164H.md)
+    - [s. 164I Qualifying trades.](section/164I.md)
+    - [s. 164J Provisions supplementary to section 164I.](section/164J.md)
+    - [s. 164K Foreign residents.](section/164K.md)
+    - [s. 164L Anti-avoidance provisions.](section/164L.md)
+    - [s. 164M Exclusion of double relief.](section/164M.md)
+    - [s. 164MA Exclusion of double relief](section/164MA.md)
+    - [s. 164N Interpretation of Chapter IA.](section/164N.md)
+  - Chapter II Gifts of business assets
+    - [s. 165 Relief for gifts of business assets.](section/165.md)
+    - [s. 165A Meaning of “holding company”, “trading company” and “trading group”](section/165A.md)
+    - [s. 166 Gifts to non-residents.](section/166.md)
+    - [s. 167 Gifts to foreign-controlled companies.](section/167.md)
+    - [s. 167A Gifts of direct or indirect interests in UK land to non-residents](section/167A.md)
+    - [s. 168 Emigration of donee.](section/168.md)
+    - [s. 168A Postponing held-over gain: interests in UK land](section/168A.md)
+    - [s. 169 Gifts into dual resident trusts.](section/169.md)
+    - [s. 169A Cessation of trade by limited liability partnership](section/169A.md)
+    - [s. 169B Gifts to settlor-interested settlements etc](section/169B.md)
+    - [s. 169C Clawback of relief if settlement becomes settlor-interested etc](section/169C.md)
+    - [s. 169D Exceptions to sections 169B and 169C](section/169D.md)
+    - [s. 169E Meaning of “settlor” in sections 169B to 169D and 169G](section/169E.md)
+    - [s. 169F Meaning of “interest in a settlement” in sections 169B to 169D](section/169F.md)
+    - [s. 169G Meaning of “arrangement” in sections 169B to 169E and information power](section/169G.md)
+  - Chapter 3 business asset disposal relief
+    - [s. 169H Introduction](section/169H.md)
+    - [s. 169I Material disposal of business assets](section/169I.md)
+    - [s. 169J Disposal of trust business assets](section/169J.md)
+    - [s. 169K Disposal associated with relevant material disposal](section/169K.md)
+    - [s. 169L Relevant business assets](section/169L.md)
+    - [s. 169LA Relevant business assets: goodwill transferred to a close company](section/169LA.md)
+    - [s. 169M Relief to be claimed](section/169M.md)
+    - [s. 169N Amount of relief: general](section/169N.md)
+    - [s. 169O Amount of relief: special provisions for certain trust disposals](section/169O.md)
+    - [s. 169P Amount of relief: special provision for certain associated disposals](section/169P.md)
+    - [s. 169Q Reorganisations: disapplication of section 127](section/169Q.md)
+    - [s. 169R Reorganisations involving acquisition of qualifying corporate bonds](section/169R.md)
+    - [s. 169S Interpretation of Chapter](section/169S.md)
+    - [s. 169SA Meaning of “trading company” and “trading group”](section/169SA.md)
+  - Chapter 3A business asset disposal relief where company ceases to be individual’s personal company
+    - [s. 169SB Overview of Chapter](section/169SB.md)
+    - [s. 169SC Election by individual where company ceases to be personal company](section/169SC.md)
+    - [s. 169SD Supplementary election to defer gains until subsequent disposal](section/169SD.md)
+    - [s. 169SE Application of section 169SD where section 116 applies](section/169SE.md)
+    - [s. 169SF Application of section 169SD where sections 127 to 130 apply](section/169SF.md)
+    - [s. 169SG Elections under sections 169SC and 169SD](section/169SG.md)
+    - [s. 169SH Claims for relief in respect of subsequent disposals](section/169SH.md)
+  - Chapter 4 business asset disposal relief where held-over gains become chargeable
+    - [s. 169T Overview of Chapter](section/169T.md)
+    - [s. 169U Eligibility conditions for deferred business asset disposal relief](section/169U.md)
+    - [s. 169V Operation of deferred business asset disposal relief](section/169V.md)
+  - Chapter 5 Investors’ relief
+    - Overview
+      - [s. 169VA Overview of Chapter](section/169VA.md)
+    - Qualifying shares
+      - [s. 169VB Qualifying shares, potentially qualifying shares and excluded shares](section/169VB.md)
+    - The relief
+      - [s. 169VC Investors’ relief](section/169VC.md)
+      - [s. 169VD Disposal where holding consists partly of qualifying shares](section/169VD.md)
+      - [s. 169VE Which shares are in holding immediately before disposal](section/169VE.md)
+      - [s. 169VF Shares treated as disposed of in previous disposal where claim made](section/169VF.md)
+      - [s. 169VG Shares treated as disposed of in previous disposal: no claim made](section/169VG.md)
+    - Trustees of a settlement: special provision
+      - [s. 169VH Disposals by trustees: further conditions for relief](section/169VH.md)
+      - [s. 169VI Disposals by trustees: relief reduced in certain cases](section/169VI.md)
+    - Disposals of interests in shares
+      - [s. 169VJ Disposals of interests in shares: joint holdings etc](section/169VJ.md)
+    - Cap on relief
+      - [s. 169VK Cap on relief for disposal by an individual](section/169VK.md)
+      - [s. 169VL Cap on relief for disposal by trustees of a settlement](section/169VL.md)
+    - Claims for relief
+      - [s. 169VM Claims for relief](section/169VM.md)
+    - Reorganisations
+      - [s. 169VN Reorganisations where no consideration given](section/169VN.md)
+      - [s. 169VO The appropriate number](section/169VO.md)
+      - [s. 169VP Reorganisations where consideration given](section/169VP.md)
+      - [s. 169VQ Exchange of shares for those in another company](section/169VQ.md)
+      - [s. 169VR New shares issued on scheme of reconstruction](section/169VR.md)
+      - [s. 169VS Modification of conditions for being a qualifying share](section/169VS.md)
+      - [s. 169VT Election to disapply section 127](section/169VT.md)
+    - Supplemental
+      - [s. 169VU “Subscribe” etc](section/169VU.md)
+      - [s. 169VV “Trading company” etc](section/169VV.md)
+      - [s. 169VW “Relevant employee”](section/169VW.md)
+      - [s. 169VX “Unremunerated director”](section/169VX.md)
+      - [s. 169VY General definitions](section/169VY.md)
+- Part VI Companies, oil, insurance etc.
+  - Chapter I Companies
+    - Groups of companies
+      - [s. 170 Interpretation of sections 171 to 181.](section/170.md)
+    - Transactions within groups
+      - [s. 171 Transfers within a group: general provisions.](section/171.md)
+      - [s. 171A Election to reallocate gain or loss to another member of the group](section/171A.md)
+      - [s. 171B Election under section 171A: effect](section/171B.md)
+      - [s. 171C Elections under section 171A: insurance companies](section/171C.md)
+      - [s. 172 Transfer of United Kingdom branch or agency.](section/172.md)
+      - [s. 173 Transfers within a group: trading stock.](section/173.md)
+      - [s. 174 Disposal or acquisition outside a group.](section/174.md)
+      - [s. 175 Replacement of business assets by members of a group.](section/175.md)
+    - Losses attributable to depreciatory transactions
+      - [s. 176 Depreciatory transactions within a group.](section/176.md)
+      - [s. 177 Dividend stripping.](section/177.md)
+      - [s. 177A Restriction on set-off of pre-entry losses.](section/177A.md)
+    - Pre-entry gains
+      - [s. 177B Restrictions on setting losses against pre-entry gains.](section/177B.md)
+    - Companies leaving groups
+      - [s. 178 Company ceasing to be member of group: pre-appointed day cases.](section/178.md)
+      - [s. 179 Company ceasing to be member of group: post-appointed day cases.](section/179.md)
+      - [s. 179ZA Claim for adjustment of calculations under section 179](section/179ZA.md)
+      - [s. 179A Reallocation within group of gain or loss accruing under section 179](section/179A.md)
+      - [s. 179B Roll-over of degrouping charge on business assets](section/179B.md)
+      - [s. 180 Transitional provisions.](section/180.md)
+      - [s. 181 Exemption from charge under 178 or 179 in the case of certain mergers.](section/181.md)
+    - Restriction on indexation allowance for groups and associated companies
+      - [s. 182 Disposals of debts.](section/182.md)
+      - [s. 183 Disposals of shares.](section/183.md)
+      - [s. 184 Definitions and other provisions supplemental to sections 182 and 183.](section/184.md)
+    - Restrictions on buying losses or gains etc
+      - [s. 184A Restrictions on buying losses: tax avoidance schemes](section/184A.md)
+      - [s. 184B Restrictions on buying gains: tax avoidance schemes](section/184B.md)
+      - [s. 184C Sections 184A and 184B: meaning of “qualifying change of ownership”](section/184C.md)
+      - [s. 184D Sections 184A and 184B: meaning of “tax advantage”](section/184D.md)
+      - [s. 184E Sections 184A and 184B: “pre-change assets”: basic rules](section/184E.md)
+      - [s. 184F Sections 184A and 184B: “pre-change assets”: pooling rules](section/184F.md)
+      - [s. 184G Avoidance involving losses: schemes converting income to capital](section/184G.md)
+      - [s. 184H Avoidance involving losses: schemes securing deductions](section/184H.md)
+      - [s. 184I Notices under sections 184G and 184H](section/184I.md)
+    - Assets subject to EU exit charges
+      - [s. 184J Asset subject to EU exit charge on becoming chargeable asset](section/184J.md)
+    - Non-resident and dual resident companies
+      - [s. 185 Deemed disposal of assets on company ceasing to be resident in U.K.](section/185.md)
+      - [s. 186 Deemed disposal of assets on company ceasing to be liable to U.K. taxation.](section/186.md)
+      - [s. 187 Postponement of charge on deemed disposal under section 185 or 186.](section/187.md)
+      - [s. 187A Deemed disposal under section 185: ATED-related gains and losses](section/187A.md)
+      - [s. 187B Postponing gain or loss under section 185(2): interests in UK land](section/187B.md)
+      - [s. 188 Dual resident companies: deemed disposal of certain assets.](section/188.md)
+    - ................................
+      - [s. 188A Election for pooling](section/188A.md)
+      - [s. 188B Meaning of “NRCGT group”](section/188B.md)
+      - [s. 188C Transfers within an NRCGT group](section/188C.md)
+      - [s. 188D Person chargeable to capital gains tax on NRCGT gains accruing to members of an NRCGT group](section/188D.md)
+      - [s. 188E Further provision about group losses](section/188E.md)
+      - [s. 188F Companies becoming eligible to join an NRCGT group](section/188F.md)
+      - [s. 188G Company ceasing to be a member of an NRCGT group](section/188G.md)
+      - [s. 188H The responsible members of an NRCGT group](section/188H.md)
+      - [s. 188I Joint and several liability of responsible members](section/188I.md)
+      - [s. 188J The representative company of an NRCGT group](section/188J.md)
+      - [s. 188K Interpretation of sections 188A to 188J](section/188K.md)
+    - Recovery of tax otherwise than from tax-payer company
+      - [s. 189 Capital distribution of chargeable gains: recovery of tax from shareholder.](section/189.md)
+      - [s. 190 Tax recoverable from another group company or controlling director.](section/190.md)
+    - Demergers
+      - [s. 192 Tax exempt distributions.](section/192.md)
+    - Disposals by companies with substantial shareholding
+      - [s. 192A Exemptions for gains or losses on disposal of shares etc](section/192A.md)
+  - Chapter II Oil and mining industries
+    - Oil exploration and exploitation
+      - [s. 193 Roll-over relief not available for gains on oil licences.](section/193.md)
+      - [s. 194 Disposals of oil licences relating to undeveloped areas.](section/194.md)
+      - [s. 195 Allowance of certain drilling expenditure etc.](section/195.md)
+      - [s. 195A Oil licence swaps](section/195A.md)
+      - [s. 195B Licence-consideration swap](section/195B.md)
+      - [s. 195C Company that receives mixed consideration: N exceeds C](section/195C.md)
+      - [s. 195D Company that receives mixed consideration: N does not exceed C](section/195D.md)
+      - [s. 195E Company that gives mixed consideration](section/195E.md)
+      - [s. 195F Reimbursed expenditure](section/195F.md)
+      - [s. 196 Interpretation of sections 194 to 195F.](section/196.md)
+      - [s. 197 Disposals of interests in oil fields etc: ring fence provisions.](section/197.md)
+      - [s. 198 Replacement of business assets used in connection with oil fields.](section/198.md)
+      - [s. 198A Ring fence reinvestment: whole consideration reinvested](section/198A.md)
+      - [s. 198B Ring fence reinvestment: part of consideration reinvested](section/198B.md)
+      - [s. 198C Provisional application of sections 198A and 198B](section/198C.md)
+      - [s. 198D No double claims](section/198D.md)
+      - [s. 198E Ring fence reinvestments and disposal consideration](section/198E.md)
+      - [s. 198F Qualification for roll-over relief](section/198F.md)
+      - [s. 198G Qualification for section 153 relief](section/198G.md)
+      - [s. 198H Acquisition by member of same group](section/198H.md)
+      - [s. 198I Exploration, appraisal and development expenditure](section/198I.md)
+      - [s. 198J Oil and gas: reinvestment after pre-trading disposal](section/198J.md)
+      - [s. 198K Provisional application of section 198J](section/198K.md)
+      - [s. 198L Expenditure by member of same group](section/198L.md)
+      - [s. 199 Exploration or exploitation assets: deemed disposals](section/199.md)
+      - [s. 200 Limitation of losses on disposal of oil industry assets held on 31st March 1982.](section/200.md)
+    - Mineral leases
+      - [s. 201 Royalties.](section/201.md)
+      - [s. 202 Capital losses.](section/202.md)
+      - [s. 203 Provisions supplementary to section 202.](section/203.md)
+  - Chapter III Insurance
+    - [s. 204 Policies of insurance and non-deferred annuities](section/204.md)
+    - [s. 205 Disallowance of insurance premiums as expenses.](section/205.md)
+    - [s. 206 ................................](section/206.md)
+    - [s. 207 ................................](section/207.md)
+    - [s. 208 ................................](section/208.md)
+    - [s. 209 ................................](section/209.md)
+    - [s. 210 Life assurance and deferred annuities.](section/210.md)
+    - [s. 210A Ring-fencing of losses](section/210A.md)
+    - [s. 210B Disposal and acquisition of section 119 or 120 securities](section/210B.md)
+    - [s. 210C Losses on disposal of authorised investment fund assets to connected manager](section/210C.md)
+    - [s. 211 Transfers of business.](section/211.md)
+    - [s. 211ZA Transfers of business: transfer of unused losses](section/211ZA.md)
+    - [s. 211A Gains of insurance company from venture capital investment partnership](section/211A.md)
+    - [s. 211B Transfers of assets to certain collective investment schemes](section/211B.md)
+    - [s. 212 Annual deemed disposal of holdings of unit trusts etc.](section/212.md)
+    - [s. 213 Spreading of gains and losses under section 212.](section/213.md)
+    - [s. 213A Power to modify ss. 212 and 213 etc in case of CFCs that are offshore funds](section/213A.md)
+    - [s. 214 Transitional provisions.](section/214.md)
+    - [s. 214A Further transitional provisions.](section/214A.md)
+    - [s. 214B Modification of Act in relation to overseas life insurance companies.](section/214B.md)
+    - [s. 214BA Interpretation](section/214BA.md)
+  - Chapter IV Miscellaneous cases
+    - Re-organisations of mutual businesses
+      - [s. 214C Gains not eligible for taper relief.](section/214C.md)
+    - Building societies etc.
+      - [s. 215 Disposal of assets on amalgamation of building societies etc.](section/215.md)
+      - [s. 216 Assets transferred from society to company.](section/216.md)
+      - [s. 217 Shares, and rights to shares, in successor company.](section/217.md)
+    - Friendly societies
+      - [s. 217A Transfer of assets on incorporation of registered friendly society.](section/217A.md)
+      - [s. 217B Rights of members in registered society equated with rights in incorporated society.](section/217B.md)
+      - [s. 217C Subsequent disposal of assets by incorporated society etc.](section/217C.md)
+    - Registered societies and co-operatives
+      - [s. 217D Disposal of assets on union, amalgamation or transfer of engagements](section/217D.md)
+    - The Regulator of Social Housing, the Secretary of State and housing associations
+      - [s. 218 Disposals of land between the Regulator of Social Housing, the Secretary of State or Scottish Homes and housing associations.](section/218.md)
+      - [s. 219 Disposals by housing related bodies.](section/219.md)
+      - [s. 220 Disposals by Northern Ireland housing associations.](section/220.md)
+    - Other bodies
+      - [s. 221 Harbour authorities.](section/221.md)
+- Part VII Other property, businesses, investments etc.
+  - Private residences
+    - [s. 222 Relief on disposal of private residence.](section/222.md)
+    - [s. 222A Determination of main residence: non-resident CGT disposals](section/222A.md)
+    - [s. 222B Non-qualifying tax years](section/222B.md)
+    - [s. 222C Day count test](section/222C.md)
+    - [s. 223 Amount of relief.](section/223.md)
+    - [s. 223ZA Amount of relief: individual’s residency delayed by certain events](section/223ZA.md)
+    - [s. 223A Amount of relief: non-resident CGT disposals](section/223A.md)
+    - [s. 223B Additional relief: part of private residence let out](section/223B.md)
+    - [s. 224 Relief under sections 223 and 223B: further provisions.](section/224.md)
+    - [s. 225 Private residence occupied under terms of settlement.](section/225.md)
+    - [s. 225A Private residence held by personal representatives](section/225A.md)
+    - [s. 225B Disposals in connection with divorce, etc](section/225B.md)
+    - [s. 225BA Deferred payments on disposals in connection with divorce etc](section/225BA.md)
+    - [s. 225C Sale of private residence under certain agreements with employer, etc](section/225C.md)
+    - [s. 225D Private residence of adult placement carer](section/225D.md)
+    - [s. 225E Disposals by disabled persons or persons in care homes etc](section/225E.md)
+    - [s. 226 Private residence occupied by dependent relative before 6th April 1988.](section/226.md)
+    - [s. 226A Private residence relief: cases where relief obtained under section 260](section/226A.md)
+    - [s. 226B Exception to section 226A](section/226B.md)
+  - Employee share ownership trusts
+    - [s. 227 Conditions for roll-over relief.](section/227.md)
+    - [s. 228 Conditions for relief: supplementary.](section/228.md)
+    - [s. 229 The relief.](section/229.md)
+    - [s. 230 Dwelling-houses: special provision.](section/230.md)
+    - [s. 231 Shares: special provision.](section/231.md)
+    - [s. 232 Chargeable event when replacement assets owned.](section/232.md)
+    - [s. 233 Chargeable event when replacement property owned.](section/233.md)
+    - [s. 234 Chargeable events when bonds owned.](section/234.md)
+    - [s. 235 Information.](section/235.md)
+    - [s. 236 Prevention of double charge.](section/236.md)
+  - Share incentive plans
+    - [s. 236A Relief for transfers to share incentive plans](section/236A.md)
+  - Employee shareholders
+    - [s. 236B Exemption for employee shareholder shares](section/236B.md)
+    - [s. 236C Only first £50,000 of shares under associated agreements to be exempt](section/236C.md)
+    - [s. 236D Shares not exempt if shareholder or connected person has material interest in company](section/236D.md)
+    - [s. 236E Identification of exempt employee shareholder shares](section/236E.md)
+    - [s. 236F Reorganisation of share capital involving employee shareholder shares](section/236F.md)
+    - [s. 236G Relinquishment of employment rights is not disposal of an asset](section/236G.md)
+  - Employee-ownership trusts
+    - [s. 236H Disposals to employee-ownership trusts](section/236H.md)
+    - [s. 236I Trading requirement](section/236I.md)
+    - [s. 236J All-employee benefit requirement](section/236J.md)
+    - [s. 236K Further provision about the equality requirement](section/236K.md)
+    - [s. 236L Cases in which all-employee benefit requirement treated as met](section/236L.md)
+    - [s. 236LA Trustee independence requirement](section/236LA.md)
+    - [s. 236M Controlling interest requirement](section/236M.md)
+    - [s. 236N Limited participation requirement](section/236N.md)
+    - [s. 236O No section 236H relief if disqualifying event in next four tax years](section/236O.md)
+    - [s. 236P Events which trigger deemed disposal and reacquisition by trustees](section/236P.md)
+    - [s. 236Q Relief for deemed disposals under section 71](section/236Q.md)
+    - [s. 236R No section 236Q relief if disqualifying event in next four tax years](section/236R.md)
+    - [s. 236S Identification of shares where section 236H or 236Q applies](section/236S.md)
+    - [s. 236T Further provision about significant and controlling interests](section/236T.md)
+    - [s. 236U Interpretation of sections 236H to 236U](section/236U.md)
+  - Superannuation funds, profit sharing schemes, employee trusts etc.
+    - [s. 237 Superannuation funds, annuities and annual payments.](section/237.md)
+    - [s. 237A Share option schemes: release and replacement of options.](section/237A.md)
+    - [s. 238 Approved profit sharing and share option schemes.](section/238.md)
+    - [s. 238A ... Share schemes and share incentives](section/238A.md)
+    - [s. 239 Disposals to trustees of employee trusts](section/239.md)
+    - [s. 239ZA Relief for disposals by trustees of employee trusts](section/239ZA.md)
+  - Registered pension schemes
+    - [s. 239A De-registration of registered pension schemes](section/239A.md)
+  - Leases
+    - [s. 240 Leases of land and other assets.](section/240.md)
+    - [s. 241 UK furnished holiday lettings.](section/241.md)
+    - [s. 241A EEA furnished holiday lettings](section/241A.md)
+  - Part disposals
+    - [s. 242 Small part disposals.](section/242.md)
+    - [s. 243 Part disposal to authority with compulsory powers.](section/243.md)
+    - [s. 244 Part disposal: consideration exceeding allowable expenditure.](section/244.md)
+  - Compulsory acquisition
+    - [s. 245 Compensation paid on compulsory acquisition.](section/245.md)
+    - [s. 246 Time of disposal and acquisition.](section/246.md)
+    - [s. 247 Roll-over relief on compulsory acquisition.](section/247.md)
+    - [s. 247A Provisional application of section 247.](section/247A.md)
+    - [s. 248 Provisions supplementary to section 247.](section/248.md)
+  - Joint interests in land
+    - [s. 248A Roll-over relief on disposal of joint interests in land: conditions](section/248A.md)
+    - [s. 248B Calculation of relief](section/248B.md)
+    - [s. 248C Excluded land](section/248C.md)
+    - [s. 248D Milk quotas](section/248D.md)
+    - [s. 248E Relief on disposal of joint interests in private residence](section/248E.md)
+  - Woodlands
+    - [s. 249 Grants for giving up agricultural land.](section/249.md)
+    - [s. 250 Woodlands.](section/250.md)
+  - Debts
+    - [s. 251 General provisions.](section/251.md)
+    - [s. 252 Foreign currency bank accounts.](section/252.md)
+    - [s. 252A Foreign currency bank accounts and the remittance basis](section/252A.md)
+    - [s. 253 Relief for loans to traders.](section/253.md)
+    - [s. 254 Relief for debts on qualifying corporate bonds.](section/254.md)
+    - [s. 255 Provisions supplementary to section 254.](section/255.md)
+  - Investments in social enterprises
+    - [s. 255A Hold-over relief for gains re-invested in social enterprises](section/255A.md)
+    - [s. 255B Gains and losses on investments in social enterprises](section/255B.md)
+    - [s. 255C Application of section 255B(2) where maximum SI relief not obtained](section/255C.md)
+    - [s. 255D Application of section 255B(2) where SI relief has been reduced](section/255D.md)
+    - [s. 255E Reorganisations involving shares to which SI relief is attributable](section/255E.md)
+  - Charities and gifts of non-business assets etc.
+    - [s. 256 Charities.](section/256.md)
+    - [s. 256A Attributing gains to the non-exempt amount: charitable trusts](section/256A.md)
+    - [s. 256B How gains are attributed to the non-exempt amount: charitable trusts](section/256B.md)
+    - [s. 256C Attributing gains to the non-exempt amount: charitable companies](section/256C.md)
+    - [s. 256D How gains are attributed to the non-exempt amount: charitable companies](section/256D.md)
+    - [s. 257 Gifts to charities etc.](section/257.md)
+    - [s. 257A Tainted charity donations](section/257A.md)
+    - [s. 257B Associated donations in relation to tainted charity donations](section/257B.md)
+    - [s. 258 Works of art etc.](section/258.md)
+    - [s. 259 Gifts to housing associations.](section/259.md)
+    - [s. 260 Gifts on which inheritance tax is chargeable etc.](section/260.md)
+    - [s. 261 Section 260 relief: gifts to non-residents.](section/261.md)
+    - [s. 261ZA Gifts of direct or indirect interests in UK land to non-residents](section/261ZA.md)
+  - Know-how
+    - [s. 261A Disposal of know-how as part of disposal of all or part of a trade](section/261A.md)
+  - Deduction of trading losses or post-cessation expenditure etc
+    - [s. 261B Treating trade loss etc as CGT loss](section/261B.md)
+    - [s. 261C Meaning of “the maximum amount” for purposes of section 261B](section/261C.md)
+    - [s. 261D Treating excess post-cessation trade or property relief as CGT loss](section/261D.md)
+    - [s. 261E Meaning of “the maximum amount” for purposes of section 261D](section/261E.md)
+  - Repurchase price under repos
+    - [s. 261F Deemed manufactured payments: effect on repurchase price](section/261F.md)
+    - [s. 261G Price differences under repos: effect on repurchase price](section/261G.md)
+    - [s. 261H Power to modify section 261G in non-arm’s length case](section/261H.md)
+  - Miscellaneous reliefs and exemptions
+    - [s. 262 Chattel exemption.](section/262.md)
+    - [s. 263 Passenger vehicles.](section/263.md)
+    - [s. 263AZA Renewables obligation certificates for domestic microgeneration](section/263AZA.md)
+    - [s. 263ZA Former employees: employment-related liabilities](section/263ZA.md)
+    - [s. 263A Agreements for sale and repurchase of securities: capital gains tax](section/263A.md)
+    - [s. 263AA Section 263A: interpretation](section/263AA.md)
+    - [s. 263B Stock lending arrangements.](section/263B.md)
+    - [s. 263C Stock lending involving redemption.](section/263C.md)
+    - [s. 263CA Stock lending: insolvency etc of borrower](section/263CA.md)
+    - [s. 263D Gains accruing to persons paying manufactured dividends](section/263D.md)
+    - [s. 263E Structured finance arrangements](section/263E.md)
+    - [s. 263F Power to modify repo provisions: non-standard repo cases](section/263F.md)
+    - [s. 263G Power to modify repo provisions: redemption arrangements](section/263G.md)
+    - [s. 263H Sections 263F and 263G: supplementary provisions](section/263H.md)
+    - [s. 263I Powers about manufactured overseas dividends](section/263I.md)
+    - [s. 264 Relief for local constituency associations of political parties on reorganisation of constituencies.](section/264.md)
+    - [s. 265 Designated international organisations.](section/265.md)
+    - [s. 266 Inter-American Development Bank.](section/266.md)
+    - [s. 267 Sharing of transmission facilities.](section/267.md)
+    - [s. 268 Decorations for valour or gallant conduct.](section/268.md)
+    - [s. 268A Victims of National-Socialist persecution](section/268A.md)
+    - [s. 268B Compensation for deprivation of foreign assets](section/268B.md)
+    - [s. 269 Foreign currency for personal expenditure.](section/269.md)
+    - [s. 270 Chevening Estate.](section/270.md)
+    - [s. 271 Other miscellaneous exemptions.](section/271.md)
+  - Visiting forces and official agents etc
+    - [s. 271ZA Visiting forces and staff of designated allied headquarters](section/271ZA.md)
+    - [s. 271ZB Official agents of Commonwealth countries or Republic of Ireland etc](section/271ZB.md)
+- Part 7A UK representatives of non-UK residents
+  - Chapter 1 Treatment of branch or agency as UK representative of non-UK resident
+    - Introduction
+      - [s. 271A Overview of Chapter](section/271A.md)
+    - Branches and agencies
+      - [s. 271B Branch or agency treated as UK representative](section/271B.md)
+      - [s. 271C Trade or profession carried on in partnership](section/271C.md)
+      - [s. 271D Interpretation of Chapter](section/271D.md)
+  - Chapter 2 Capital gains tax obligations and liabilities imposed on UK representatives
+    - [s. 271E Introduction to Chapter](section/271E.md)
+    - [s. 271F Obligations and liabilities of UK representative](section/271F.md)
+    - [s. 271G Exceptions: notices and information](section/271G.md)
+    - [s. 271H Exceptions: criminal offences and penalties etc](section/271H.md)
+    - [s. 271I Indemnities](section/271I.md)
+    - [s. 271J Meaning of “non-UK resident” and “independent agent”](section/271J.md)
+- Part VIII Supplemental
+  - [s. 272 Valuation: general.](section/272.md)
+  - [s. 273 Unquoted shares and securities.](section/273.md)
+  - [s. 274 Value determined for inheritance tax.](section/274.md)
+  - [s. 275 Location of assets.](section/275.md)
+  - [s. 275A Location of certain intangible assets](section/275A.md)
+  - [s. 275B Section 275A: supplementary provisions](section/275B.md)
+  - [s. 275C Location of assets: interests of co-owners](section/275C.md)
+  - [s. 276 The territorial sea and the continental shelf.](section/276.md)
+  - [s. 276A No gain/no loss: foreign permanent establishment exemption](section/276A.md)
+  - [s. 277 Double taxation relief.](section/277.md)
+  - [s. 278 Allowance for foreign tax.](section/278.md)
+  - [s. 279 Foreign assets: delayed remittances.](section/279.md)
+  - [s. 279A Deferred unascertainable consideration: election for treatment of loss](section/279A.md)
+  - [s. 279B Provisions supplementary to section 279A](section/279B.md)
+  - [s. 279C Effect of election under section 279A](section/279C.md)
+  - [s. 279D Elections under section 279A](section/279D.md)
+  - [s. 280 Consideration payable by instalments.](section/280.md)
+  - [s. 281 Payment by instalments of tax on gifts.](section/281.md)
+  - [s. 282 Recovery of tax from donee.](section/282.md)
+  - [s. 283 Repayment supplements.](section/283.md)
+  - [s. 284 Income tax decisions.](section/284.md)
+  - [s. 284A Concessions that defer a charge.](section/284A.md)
+  - [s. 284B Provisions supplementary to section 284A.](section/284B.md)
+  - [s. 285 Recognised investment exchanges.](section/285.md)
+  - [s. 285A UK Economic Interest Groupings European Economic Interest Groupings](section/285A.md)
+  - [s. 286 Connected persons: interpretation.](section/286.md)
+  - [s. 286A Residence of companies](section/286A.md)
+  - [s. 287 Orders and regulations made by the Treasury or the Board.](section/287.md)
+  - [s. 288 Interpretation.](section/288.md)
+  - [s. 289 Commencement.](section/289.md)
+  - [s. 290 Savings, transitionals, consequential amendments and repeals.](section/290.md)
+  - [s. 291 Short title.](section/291.md)
+- SCHEDULE A1 Application of taper relief
+  - Introductory
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+  - Period for which an asset is held and relevant period of ownership
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+  - Rules for determining whether a gain is a gain on the disposal of a business asset or non-business asset
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+  - Conditions for shares to qualify as business assets
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+  - Conditions for other assets to qualify as business assets
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+  - Companies which are qualifying companies
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+  - Meaning of “material interest”
+    - [Sch. A1 para. 6A](schedule/A1/paragraph/6A.md)
+  - Persons who are eligible beneficiaries
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+  - Cases where there are non-qualifying beneficiaries
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+  - Cases where an asset is used at the same time for different purposes
+    - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+  - Periods of limited exposure to fluctuations in value not to count
+    - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+  - Periods of share ownership not to count where there is a change of activity by the company
+    - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+  - Periods of share ownership not to count if company is not active
+    - [Sch. A1 para. 11A](schedule/A1/paragraph/11A.md)
+  - Periods of share ownership not to count in a case of value shifting
+    - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+  - Rules for options
+    - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+  - Further rules for assets derived from other assets
+    - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+  - Special rules for assets transferred between spouses or civil partners
+    - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+  - Special rules for postponed gains
+    - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+  - Special rule for property settled by a company
+    - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+  - Special rules for assets acquired in the reconstruction of mutual businesses et ceteralaetc.
+    - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+  - Special rule for ancillary trust funds
+    - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+  - General rules for settlements
+    - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+  - General rule for apportionments under this Schedule
+    - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+  - Interpretation of Schedule
+    - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+  - Meaning of “trading company”
+    - [Sch. A1 para. 22A](schedule/A1/paragraph/22A.md)
+  - Meaning of “trading group”
+    - [Sch. A1 para. 22B](schedule/A1/paragraph/22B.md)
+  - Qualifying shareholdings in joint venture companies
+    - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+  - Joint enterprise companies: relevant connection
+    - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+- SCHEDULE B1 Disposals of UK residential property interests
+  - Meaning of “disposal of a UK residential property interest”
+    - [Sch. B1 para. 1](schedule/B1/paragraph/1.md)
+  - “Interest in UK land”
+    - [Sch. B1 para. 2](schedule/B1/paragraph/2.md)
+  - Grants of options
+    - [Sch. B1 para. 3](schedule/B1/paragraph/3.md)
+  - Meaning of “dwelling”
+    - [Sch. B1 para. 4](schedule/B1/paragraph/4.md)
+  - Power to modify meaning of “use as a dwelling”
+    - [Sch. B1 para. 5](schedule/B1/paragraph/5.md)
+  - Damage to a dwelling
+    - [Sch. B1 para. 6](schedule/B1/paragraph/6.md)
+  - Demolition of a building
+    - [Sch. B1 para. 7](schedule/B1/paragraph/7.md)
+  - Disposal of a building that has undergone works
+    - [Sch. B1 para. 8](schedule/B1/paragraph/8.md)
+  - Retrospective planning permission or development consent
+    - [Sch. B1 para. 9](schedule/B1/paragraph/9.md)
+  - Interpretation
+    - [Sch. B1 para. 10](schedule/B1/paragraph/10.md)
+- SCHEDULE BA1 Disposals of non-UK residential property interests
+  - Meaning of “disposal of a non-UK residential property interest”
+    - [Sch. BA1 para. 1](schedule/BA1/paragraph/1.md)
+  - “Interest in non-UK land”
+    - [Sch. BA1 para. 2](schedule/BA1/paragraph/2.md)
+  - Grants of options
+    - [Sch. BA1 para. 3](schedule/BA1/paragraph/3.md)
+  - Meaning of “dwelling”
+    - [Sch. BA1 para. 4](schedule/BA1/paragraph/4.md)
+  - Interpretation
+    - [Sch. BA1 para. 5](schedule/BA1/paragraph/5.md)
+- SCHEDULE C1 Section 14F: meaning of “closely-held company” and “widely-marketed scheme”
+  - PART 1 Meaning of “closely-held company”
+    - Introduction
+      - [Sch. C1 para. 1](schedule/C1/paragraph/1.md)
+    - Main definition
+      - [Sch. C1 para. 2](schedule/C1/paragraph/2.md)
+      - [Sch. C1 para. 3](schedule/C1/paragraph/3.md)
+      - [Sch. C1 para. 4](schedule/C1/paragraph/4.md)
+      - [Sch. C1 para. 5](schedule/C1/paragraph/5.md)
+      - [Sch. C1 para. 6](schedule/C1/paragraph/6.md)
+    - Meaning of “control”
+      - [Sch. C1 para. 7](schedule/C1/paragraph/7.md)
+      - [Sch. C1 para. 8](schedule/C1/paragraph/8.md)
+    - Interpretation
+      - [Sch. C1 para. 9](schedule/C1/paragraph/9.md)
+  - PART 2 Unit trust schemes and OEICs: widely-marketed schemes
+    - Introduction
+      - [Sch. C1 para. 10](schedule/C1/paragraph/10.md)
+    - Widely-marketed schemes
+      - [Sch. C1 para. 11](schedule/C1/paragraph/11.md)
+    - Interpretation
+      - [Sch. C1 para. 12](schedule/C1/paragraph/12.md)
+- Schedule D1 Relief for new residents on foreign gains
+  - [Sch. D1 para. 1 Claim for relief for qualifying new residents](schedule/D1/paragraph/1.md)
+  - [Sch. D1 para. 2 Relief for qualifying foreign gains](schedule/D1/paragraph/2.md)
+  - [Sch. D1 para. 3 Relief in respect of deemed gains under section 86](schedule/D1/paragraph/3.md)
+  - [Sch. D1 para. 4 Relief in respect of deemed gains under sections 87 and 89(2) and Schedule 4C](schedule/D1/paragraph/4.md)
+  - [Sch. D1 para. 5 Other effects of claim](schedule/D1/paragraph/5.md)
+  - [Sch. D1 para. 6 Interpretation of Schedule](schedule/D1/paragraph/6.md)
+- SCHEDULE 1 UK resident individuals to whom the remittance basis applied
+  - Foreign gains treated as accruing when remitted to UK
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Use of allowable losses against foreign gains remitted in later year
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Matching rules for relieving allowable losses
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Rules for matching losses to chargeable gains
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Definitions
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 1A Assets deriving 75% of value from UK land etc
+  - PART 1 Introduction
+    - [Sch. 1A para. 1](schedule/1A/paragraph/1.md)
+    - [Sch. 1A para. 2](schedule/1A/paragraph/2.md)
+  - PART 2 Whether asset derives at least 75% of its value from UK land
+    - The basic rule
+      - [Sch. 1A para. 3](schedule/1A/paragraph/3.md)
+    - Meaning of “qualifying assets”
+      - [Sch. 1A para. 4](schedule/1A/paragraph/4.md)
+    - Exception in relation to interests in UK land used for trading purposes
+      - [Sch. 1A para. 5](schedule/1A/paragraph/5.md)
+    - Exception for certain disposals of rights or interests under same arrangements etc
+      - [Sch. 1A para. 6](schedule/1A/paragraph/6.md)
+    - Meaning of “interest in UK land”
+      - [Sch. 1A para. 7](schedule/1A/paragraph/7.md)
+  - PART 3 Whether person has substantial indirect interest in UK land
+    - Basic rule
+      - [Sch. 1A para. 8](schedule/1A/paragraph/8.md)
+    - Meaning of “25% investment”
+      - [Sch. 1A para. 9](schedule/1A/paragraph/9.md)
+    - Attribution of rights and interests
+      - [Sch. 1A para. 10](schedule/1A/paragraph/10.md)
+  - PART 4 Cell companies and anti-avoidance
+    - Cell companies
+      - [Sch. 1A para. 10A](schedule/1A/paragraph/10A.md)
+    - Anti-avoidance
+      - [Sch. 1A para. 11](schedule/1A/paragraph/11.md)
+- SCHEDULE 1B Residential property gains
+  - Meaning of “residential property gain”
+    - [Sch. 1B para. 1](schedule/1B/paragraph/1.md)
+  - Attribution of gain to residential property
+    - [Sch. 1B para. 2](schedule/1B/paragraph/2.md)
+  - Disposing of residential property
+    - [Sch. 1B para. 3](schedule/1B/paragraph/3.md)
+  - Interest in land
+    - [Sch. 1B para. 4](schedule/1B/paragraph/4.md)
+  - Dwelling: basic meaning
+    - [Sch. 1B para. 5](schedule/1B/paragraph/5.md)
+  - Building temporarily unsuitable for use as a dwelling
+    - [Sch. 1B para. 6](schedule/1B/paragraph/6.md)
+  - Disposal of a building that has undergone works
+    - [Sch. 1B para. 7](schedule/1B/paragraph/7.md)
+  - Other definitions
+    - [Sch. 1B para. 8](schedule/1B/paragraph/8.md)
+  - Power to modify meaning of “use as a dwelling”
+    - [Sch. 1B para. 9](schedule/1B/paragraph/9.md)
+  - Regulations
+    - [Sch. 1B para. 10](schedule/1B/paragraph/10.md)
+- SCHEDULE 1C Annual exempt amount in cases involving settled property
+  - Introductory
+    - [Sch. 1C para. 1](schedule/1C/paragraph/1.md)
+  - Settlements for the benefit of disabled persons
+    - [Sch. 1C para. 2](schedule/1C/paragraph/2.md)
+    - [Sch. 1C para. 3](schedule/1C/paragraph/3.md)
+    - [Sch. 1C para. 4](schedule/1C/paragraph/4.md)
+  - Other settlements
+    - [Sch. 1C para. 5](schedule/1C/paragraph/5.md)
+  - Special rules for qualifying UK settlements comprised in groups
+    - [Sch. 1C para. 6](schedule/1C/paragraph/6.md)
+    - [Sch. 1C para. 7](schedule/1C/paragraph/7.md)
+  - Special rules for principal settlements and sub-funds
+    - [Sch. 1C para. 8](schedule/1C/paragraph/8.md)
+- SCHEDULE 2 Assets held on 6th April 1965
+  - Part I Quoted securities
+    - Deemed acquisition at 6th April 1965 value
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Restriction of gain or loss by reference to actual cost
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Election for pooling
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Election by principal company of group
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Pooling at value on 6th April 1965: exchange of securities etc.
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Underwriters
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Interpretation of paragraphs 3 to 7
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Part II Land reflecting development value
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Part III Other assets
+    - Apportionment by reference to straightline growth of gain or loss over period of ownership
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Election for valuation at 6th April 1965
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Unquoted shares, commodities etc.
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+    - Reorganisation of share capital, conversion of securities etc.
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Part IV Miscellaneous
+    - Capital allowances
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Assets transferred to close companies
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Spouses and civil partners
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+    - Compensation and insurance money
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+- SCHEDULE 3 Assets held on 31st March 1982
+  - Previous no gain/no loss disposals
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 1A](schedule/3/paragraph/1A.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Capital allowances
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Part disposals etc.
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Assets derived from other assets
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Apportionment of pre-1965 gains and losses
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Elections under section section 35(5): excluded disposals
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Elections under section 35(5): groups of companies
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+- SCHEDULE 4 Deferred charges on gains before 31st March 1982
+  - Application of Schedule
+    - [Sch. 4 para. A1](schedule/4/paragraph/A1.md)
+  - Reduction of deduction or gain
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Charges rolled-over or held-over
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Postponed charges
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Previous no gain/no loss disposals
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Assets derived from other assets
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Claims
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 4ZZA Relevant high value disposals: gains and losses
+  - Introductory
+    - [Sch. 4ZZA para. 1](schedule/4ZZA/paragraph/1.md)
+  - Assets held on 5 April 2013, 5 April 2015 or 5 April 2016: no paragraph 5 election
+    - [Sch. 4ZZA para. 2](schedule/4ZZA/paragraph/2.md)
+    - [Sch. 4ZZA para. 3](schedule/4ZZA/paragraph/3.md)
+    - [Sch. 4ZZA para. 4](schedule/4ZZA/paragraph/4.md)
+  - Election for paragraph 2 to 4 not to apply to a chargeable interest
+    - [Sch. 4ZZA para. 5](schedule/4ZZA/paragraph/5.md)
+  - Cases where election made or or none of Cases 1 to 3 apply
+    - [Sch. 4ZZA para. 6](schedule/4ZZA/paragraph/6.md)
+  - Special rule for certain disposals to which both this Schedule and Schedule 4ZZB relate
+    - [Sch. 4zza para. 6A](schedule/4zza/paragraph/6A.md)
+  - Adjustments of ATED chargeable days
+    - [Sch. 4ZZA para. 7](schedule/4ZZA/paragraph/7.md)
+  - Wasting assets
+    - [Sch. 4zza para. 8](schedule/4zza/paragraph/8.md)
+  - Capital allowances
+    - [Sch. 4zza para. 9](schedule/4zza/paragraph/9.md)
+- SCHEDULE 4ZZB Non-resident CGT disposals: gains and losses
+  - PART 1 Introduction
+    - [Sch. 4ZZB para. 1](schedule/4ZZB/paragraph/1.md)
+  - PART 2 Elections for alternative methods of computation
+    - [Sch. 4ZZB para. 2](schedule/4ZZB/paragraph/2.md)
+    - [Sch. 4ZZB para. 3](schedule/4ZZB/paragraph/3.md)
+  - PART 3 Main computation rules
+    - Disposals to which this Part applies
+      - [Sch. 4ZZB para. 4](schedule/4ZZB/paragraph/4.md)
+    - Introduction to paragraphs 6 to 8
+      - [Sch. 4ZZB para. 5](schedule/4ZZB/paragraph/5.md)
+    - Assets held at 5 April 2015: default method
+      - [Sch. 4ZZB para. 6](schedule/4ZZB/paragraph/6.md)
+      - [Sch. 4ZZB para. 7](schedule/4ZZB/paragraph/7.md)
+    - Modified application of paragraphs 5 to 7 where election made for straight-line time apportionment
+      - [Sch. 4ZZB para. 8](schedule/4ZZB/paragraph/8.md)
+    - Cases where asset acquired after 5 April 2015 or election made under paragraph 2(1)(b)
+      - [Sch. 4ZZB para. 9](schedule/4ZZB/paragraph/9.md)
+    - Interest subsisting under contract for off-plan purchase
+      - [Sch. 4ZZB para. 10](schedule/4ZZB/paragraph/10.md)
+  - PART 4 Cases involving relevant high value disposals
+    - Overview
+      - [Sch. 4ZZB para. 11](schedule/4ZZB/paragraph/11.md)
+    - Disposal involving one or more relevant high value disposals
+      - [Sch. 4ZZB para. 12](schedule/4ZZB/paragraph/12.md)
+    - Assets held at 5 April 2015 (where no election made and no rebasing in 2016 required)
+      - [Sch. 4ZZB para. 13](schedule/4ZZB/paragraph/13.md)
+    - Asset acquired after 5 April 2015 or election made under paragraph 2(1)(b) (but no rebasing in 2016 required)
+      - [Sch. 4ZZB para. 14](schedule/4ZZB/paragraph/14.md)
+    - Certain disposals after 5 April 2016 (computation involving additional rebasing in 2016)
+      - [Sch. 4ZZB para. 15](schedule/4ZZB/paragraph/15.md)
+    - Amount of gain or loss that is neither ATED-related nor an NRCGT gain or loss
+      - [Sch. 4ZZB para. 16](schedule/4ZZB/paragraph/16.md)
+      - [Sch. 4ZZB para. 17](schedule/4ZZB/paragraph/17.md)
+      - [Sch. 4ZZB para. 18](schedule/4ZZB/paragraph/18.md)
+      - [Sch. 4ZZB para. 19](schedule/4ZZB/paragraph/19.md)
+    - Where relevant high value disposal and “other” disposal are comprised in the disposal of land
+      - [Sch. 4ZZB para. 20](schedule/4ZZB/paragraph/20.md)
+    - Interest subsisting under contract for off-plan purchase
+      - [Sch. 4ZZB para. 21](schedule/4ZZB/paragraph/21.md)
+  - PART 5 Special rules for companies
+    - [Sch. 4ZZB para. 22](schedule/4ZZB/paragraph/22.md)
+    - Indexation
+      - [Sch. 4ZZB para. 23](schedule/4ZZB/paragraph/23.md)
+  - PART 6 Miscellaneous provisions
+    - Wasting assets
+      - [Sch. 4ZZB para. 24](schedule/4ZZB/paragraph/24.md)
+    - Capital allowances
+      - [Sch. 4ZZB para. 25](schedule/4ZZB/paragraph/25.md)
+  - PART 7 Interpretation
+    - [Sch. 4ZZB para. 26](schedule/4ZZB/paragraph/26.md)
+- SCHEDULE 4ZZC Disposals of residential property interests: gains and losses
+  - PART 1 Introduction and interpretation
+    - Introduction
+      - [Sch. 4ZZC para. 1](schedule/4ZZC/paragraph/1.md)
+    - Interpretation
+      - [Sch. 4ZZC para. 2](schedule/4ZZC/paragraph/2.md)
+  - PART 2 RPI disposals not involving relevant high value disposals
+    - Application of Part
+      - [Sch. 4ZZC para. 3](schedule/4ZZC/paragraph/3.md)
+    - Computation of residential property gains and losses
+      - [Sch. 4ZZC para. 4](schedule/4ZZC/paragraph/4.md)
+    - Computation of balancing gains and loses
+      - [Sch. 4ZZC para. 5](schedule/4ZZC/paragraph/5.md)
+    - Interest subsisting under contract for off-plan purchase
+      - [Sch. 4ZZC para. 6](schedule/4ZZC/paragraph/6.md)
+  - PART 3 RPI disposals involving relevant high value disposals
+    - Application of Part
+      - [Sch. 4ZZC para. 7](schedule/4ZZC/paragraph/7.md)
+    - Interpretation of Part
+      - [Sch. 4ZZC para. 8](schedule/4ZZC/paragraph/8.md)
+    - Computation of residential property gains or losses on the RPI disposal
+      - [Sch. 4ZZC para. 9](schedule/4ZZC/paragraph/9.md)
+    - Computation of residential property gains or losses on relevant high value disposal not within Case 1, 2 or 3 (or where an election is made)
+      - [Sch. 4ZZC para. 10](schedule/4ZZC/paragraph/10.md)
+    - Computation of residential property gains and losses on relevant high value disposal within Case 1, 2 or 3 (and no election made)
+      - [Sch. 4ZZC para. 11](schedule/4ZZC/paragraph/11.md)
+      - [Sch. 4ZZC para. 12](schedule/4ZZC/paragraph/12.md)
+      - [Sch. 4ZZC para. 13](schedule/4ZZC/paragraph/13.md)
+      - [Sch. 4ZZC para. 14](schedule/4ZZC/paragraph/14.md)
+      - [Sch. 4ZZC para. 15](schedule/4ZZC/paragraph/15.md)
+    - Computation of balancing gains or losses on the RPI disposal
+      - [Sch. 4ZZC para. 16](schedule/4ZZC/paragraph/16.md)
+    - Computation of balancing gains or losses on relevant high value disposal not within Case 1, 2 or 3 (or where an election is made)
+      - [Sch. 4ZZC para. 17](schedule/4ZZC/paragraph/17.md)
+    - Computation of balancing gains or losses on relevant high value disposal within Case 1, 2 or 3 (and no election made)
+      - [Sch. 4ZZC para. 18](schedule/4ZZC/paragraph/18.md)
+    - Relevant high value disposal and “other” disposal are comprised in the disposal of land
+      - [Sch. 4ZZC para. 19](schedule/4ZZC/paragraph/19.md)
+    - Interest subsisting under contract for off-plan purchase
+      - [Sch. 4ZZC para. 20](schedule/4ZZC/paragraph/20.md)
+- SCHEDULE 4ZA Sub-fund settlements
+  - Making a sub-fund election
+    - [Sch. 4ZA para. 1](schedule/4ZA/paragraph/1.md)
+    - [Sch. 4ZA para. 2](schedule/4ZA/paragraph/2.md)
+    - [Sch. 4ZA para. 3](schedule/4ZA/paragraph/3.md)
+    - [Sch. 4ZA para. 4](schedule/4ZA/paragraph/4.md)
+    - [Sch. 4ZA para. 5](schedule/4ZA/paragraph/5.md)
+    - [Sch. 4ZA para. 6](schedule/4ZA/paragraph/6.md)
+    - [Sch. 4ZA para. 7](schedule/4ZA/paragraph/7.md)
+    - [Sch. 4ZA para. 8](schedule/4ZA/paragraph/8.md)
+    - [Sch. 4ZA para. 9](schedule/4ZA/paragraph/9.md)
+  - Sub-fund elections: procedure
+    - [Sch. 4ZA para. 10](schedule/4ZA/paragraph/10.md)
+    - [Sch. 4ZA para. 11](schedule/4ZA/paragraph/11.md)
+    - [Sch. 4ZA para. 12](schedule/4ZA/paragraph/12.md)
+    - [Sch. 4ZA para. 13](schedule/4ZA/paragraph/13.md)
+  - Power to make enquiries
+    - [Sch. 4ZA para. 14](schedule/4ZA/paragraph/14.md)
+    - [Sch. 4ZA para. 15](schedule/4ZA/paragraph/15.md)
+    - [Sch. 4ZA para. 16](schedule/4ZA/paragraph/16.md)
+  - Consequences of a sub-fund election
+    - [Sch. 4ZA para. 17](schedule/4ZA/paragraph/17.md)
+    - [Sch. 4ZA para. 18](schedule/4ZA/paragraph/18.md)
+    - [Sch. 4ZA para. 19](schedule/4ZA/paragraph/19.md)
+    - [Sch. 4ZA para. 20](schedule/4ZA/paragraph/20.md)
+    - [Sch. 4ZA para. 21](schedule/4ZA/paragraph/21.md)
+    - [Sch. 4ZA para. 22](schedule/4ZA/paragraph/22.md)
+- SCHEDULE 4A Disposal of interest in settled property: deemed disposal of underlying assets
+  - Circumstances in which this Schedule applies
+    - [Sch. 4A para. 1](schedule/4A/paragraph/1.md)
+  - Meaning of “interest in settled property”
+    - [Sch. 4A para. 2](schedule/4A/paragraph/2.md)
+  - Meaning of “for consideration”
+    - [Sch. 4A para. 3](schedule/4A/paragraph/3.md)
+  - Deemed disposal of underlying assets
+    - [Sch. 4A para. 4](schedule/4A/paragraph/4.md)
+  - Condition as to UK residence of trustees
+    - [Sch. 4A para. 5](schedule/4A/paragraph/5.md)
+  - Condition as to UK residence of settlor
+    - [Sch. 4A para. 6](schedule/4A/paragraph/6.md)
+  - Condition as to settlor interest in the settlement
+    - [Sch. 4A para. 7](schedule/4A/paragraph/7.md)
+  - The relevant underlying assets
+    - [Sch. 4A para. 8](schedule/4A/paragraph/8.md)
+  - Character of deemed disposal
+    - [Sch. 4A para. 9](schedule/4A/paragraph/9.md)
+  - Avoidance of double-counting
+    - [Sch. 4A para. 10](schedule/4A/paragraph/10.md)
+  - Recovery of tax from person disposing of interest
+    - [Sch. 4A para. 11](schedule/4A/paragraph/11.md)
+  - Meaning of “settlor”
+    - [Sch. 4A para. 12](schedule/4A/paragraph/12.md)
+  - Cases where there is a period between the beginning of the disposal and its effective completion
+    - [Sch. 4A para. 13](schedule/4A/paragraph/13.md)
+  - Exception: maintenance funds for historic buildings
+    - [Sch. 4A para. 14](schedule/4A/paragraph/14.md)
+- SCHEDULE 4AA Re-basing for non-residents in respect of UK land etc held on 5 April 2019
+  - PART 1 Introduction
+    - [Sch. 4AA para. 1](schedule/4AA/paragraph/1.md)
+  - PART 2 Indirect disposals and direct disposals not chargeable before 6 April 2019
+    - Introduction
+      - [Sch. 4AA para. 2](schedule/4AA/paragraph/2.md)
+    - Re-basing to 5 April 2019
+      - [Sch. 4AA para. 3](schedule/4AA/paragraph/3.md)
+    - Election for retrospective basis of calculation
+      - [Sch. 4AA para. 4](schedule/4AA/paragraph/4.md)
+    - Calculation of residential property gain if election made under paragraph 4
+      - [Sch. 4AA para. 5](schedule/4AA/paragraph/5.md)
+  - PART 3 Direct disposals of Pre-April 2015 assets fully chargeable before 6 April 2019
+    - Introduction
+      - [Sch. 4AA para. 6](schedule/4AA/paragraph/6.md)
+    - Re-basing to 5 April 2015
+      - [Sch. 4AA para. 7](schedule/4AA/paragraph/7.md)
+    - Election for retrospective basis of calculation
+      - [Sch. 4AA para. 8](schedule/4AA/paragraph/8.md)
+    - Election for straight-line time apportionment
+      - [Sch. 4AA para. 9](schedule/4AA/paragraph/9.md)
+    - Calculation of residential property gain if election made under paragraph 8 or 9
+      - [Sch. 4AA para. 10](schedule/4AA/paragraph/10.md)
+      - [Sch. 4AA para. 11](schedule/4AA/paragraph/11.md)
+  - PART 4 Direct disposals of assets partly chargeable before 6 April 2019
+    - Introduction
+      - [Sch. 4AA para. 12](schedule/4AA/paragraph/12.md)
+    - Re-basing to 5 April 2015 and 5 April 2019
+      - [Sch. 4AA para. 13](schedule/4AA/paragraph/13.md)
+    - Election for retrospective basis of calculation
+      - [Sch. 4AA para. 14](schedule/4AA/paragraph/14.md)
+    - Calculation of residential property gain if election made under paragraph 14
+      - [Sch. 4AA para. 15](schedule/4AA/paragraph/15.md)
+  - PART 5 Miscellaneous
+    - Companies with UK land becoming UK resident after 5 April 2019
+      - [Sch. 4AA para. 16](schedule/4AA/paragraph/16.md)
+    - Persons with UK land ceasing to be UK resident after 5 April 2019
+      - [Sch. 4AA para. 17](schedule/4AA/paragraph/17.md)
+      - [Sch. 4AA para. 18](schedule/4AA/paragraph/18.md)
+    - Wasting assets
+      - [Sch. 4AA para. 19](schedule/4AA/paragraph/19.md)
+    - Capital allowances
+      - [Sch. 4AA para. 20](schedule/4AA/paragraph/20.md)
+    - Making of elections
+      - [Sch. 4AA para. 21](schedule/4AA/paragraph/21.md)
+    - Interpretation
+      - [Sch. 4AA para. 22](schedule/4AA/paragraph/22.md)
+- SCHEDULE 4B Transfers of value by trustees linked with trustee borrowing
+  - General scheme of this Schedule
+    - [Sch. 4B para. 1](schedule/4B/paragraph/1.md)
+  - Transfers of value
+    - [Sch. 4B para. 2](schedule/4B/paragraph/2.md)
+  - Settlements within section ... 86 or 87
+    - [Sch. 4B para. 3](schedule/4B/paragraph/3.md)
+  - Trustee borrowing
+    - [Sch. 4B para. 4](schedule/4B/paragraph/4.md)
+  - Transfer of value linked with trustee borrowing
+    - [Sch. 4B para. 5](schedule/4B/paragraph/5.md)
+  - Application of proceeds of borrowing for normal trust purposes
+    - [Sch. 4B para. 6](schedule/4B/paragraph/6.md)
+  - Ordinary trust assets
+    - [Sch. 4B para. 7](schedule/4B/paragraph/7.md)
+  - The alternative condition for assets no longer part of the settled property
+    - [Sch. 4B para. 8](schedule/4B/paragraph/8.md)
+  - Normal trust purposes: power to make provision by regulations
+    - [Sch. 4B para. 9](schedule/4B/paragraph/9.md)
+  - Deemed disposal of remaining chargeable assets
+    - [Sch. 4B para. 10](schedule/4B/paragraph/10.md)
+  - Whether deemed disposal is of whole or a proportion of the assets
+    - [Sch. 4B para. 11](schedule/4B/paragraph/11.md)
+  - Value attributable to trustee borrowing
+    - [Sch. 4B para. 12](schedule/4B/paragraph/12.md)
+  - Assets and transfers
+    - [Sch. 4B para. 13](schedule/4B/paragraph/13.md)
+- SCHEDULE 4C Transfers of value: attribution of gains to beneficiaries
+  - Introduction
+    - [Sch. 4C para. 1](schedule/4C/paragraph/1.md)
+  - Outstanding section 1(3) amounts
+    - [Sch. 4C para. 1A](schedule/4C/paragraph/1A.md)
+  - Computation of Schedule 4B trust gains
+    - [Sch. 4C para. 3](schedule/4C/paragraph/3.md)
+  - Chargeable amount: non-resident settlement
+    - [Sch. 4C para. 4](schedule/4C/paragraph/4.md)
+  - Chargeable amount: dual resident settlement
+    - [Sch. 4C para. 5](schedule/4C/paragraph/5.md)
+  - Gains attributed to settlor
+    - [Sch. 4C para. 6](schedule/4C/paragraph/6.md)
+  - Reduction for allowable losses
+    - [Sch. 4C para. 7](schedule/4C/paragraph/7.md)
+  - ................................
+    - [Sch. 4C para. 7A](schedule/4C/paragraph/7A.md)
+  - Gains to be brought into pool on subsequent transfer of value
+    - [Sch. 4C para. 7B](schedule/4C/paragraph/7B.md)
+  - Attribution of Schedule 4C gains to beneficiaries
+    - [Sch. 4C para. 8](schedule/4C/paragraph/8.md)
+  - Relevant settlements
+    - [Sch. 4C para. 8A](schedule/4C/paragraph/8A.md)
+  - Attribution of gains: remittance basis
+    - [Sch. 4C para. 8AA](schedule/4C/paragraph/8AA.md)
+  - ................................
+    - [Sch. 4C para. 8B](schedule/4C/paragraph/8B.md)
+  - Attribution of gains: Schedule 4C pool gains and other gains
+    - [Sch. 4C para. 8C](schedule/4C/paragraph/8C.md)
+  - Attribution of gains: disregard of certain capital payments
+    - [Sch. 4C para. 9](schedule/4C/paragraph/9.md)
+  - Residence of trustees from whom capital payment received
+    - [Sch. 4C para. 10](schedule/4C/paragraph/10.md)
+  - Taper relief
+    - [Sch. 4C para. 11](schedule/4C/paragraph/11.md)
+  - Attribution of gains to settlor in section 1M cases
+    - [Sch. 4C para. 12](schedule/4C/paragraph/12.md)
+  - Attribution of gains to beneficiaries in section 1M cases
+    - [Sch. 4C para. 12A](schedule/4C/paragraph/12A.md)
+  - Increase in tax payable under this Schedule
+    - [Sch. 4C para. 13](schedule/4C/paragraph/13.md)
+  - Effect of settlement ceasing to exist after transfer of value
+    - [Sch. 4C para. 13A](schedule/4C/paragraph/13A.md)
+  - Interpretation
+    - [Sch. 4C para. 14](schedule/4C/paragraph/14.md)
+- SCHEDULE 5 Attribution of gains to settlors with interest in non-resident or dual resident settlement
+  - Construction of section 86(1)(e)
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Test whether settlor has interest
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Settlements created before 17th March 1998
+    - [Sch. 5 para. 2A](schedule/5/paragraph/2A.md)
+  - Exceptions from section 86
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 5A](schedule/5/paragraph/5A.md)
+    - [Sch. 5 para. 5B](schedule/5/paragraph/5B.md)
+  - Old section 87 rebasing elections to apply in relation to section 86
+    - [Sch. 5 para. 5C](schedule/5/paragraph/5C.md)
+  - Right of recovery
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Meaning of “settlor"
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Meaning of “originating"
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Qualifying settlements, and commencement
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Information
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 5A Settlements with foreign element: information
+  - [Sch. 5A para. 1](schedule/5A/paragraph/1.md)
+  - [Sch. 5A para. 2](schedule/5A/paragraph/2.md)
+  - [Sch. 5A para. 3](schedule/5A/paragraph/3.md)
+  - [Sch. 5A para. 4](schedule/5A/paragraph/4.md)
+  - [Sch. 5A para. 5](schedule/5A/paragraph/5.md)
+  - [Sch. 5A para. 6](schedule/5A/paragraph/6.md)
+- SCHEDULE 5AZA Meaning of “scheme of reconstruction”
+  - Introductory
+    - [Sch. 5AZA para. 1](schedule/5AZA/paragraph/1.md)
+  - Form of scheme
+    - [Sch. 5AZA para. 2](schedule/5AZA/paragraph/2.md)
+  - First condition: issue of units
+    - [Sch. 5AZA para. 3](schedule/5AZA/paragraph/3.md)
+  - Second condition: equal entitlement to new units
+    - [Sch. 5AZA para. 4](schedule/5AZA/paragraph/4.md)
+  - Preliminary reorganisation of units to be disregarded
+    - [Sch. 5AZA para. 5](schedule/5AZA/paragraph/5.md)
+  - Subsequent issue of units to be disregarded
+    - [Sch. 5AZA para. 6](schedule/5AZA/paragraph/6.md)
+- SCHEDULE 5AA Meaning of “scheme of reconstruction”
+  - Introductory
+    - [Sch. 5AA para. 1](schedule/5AA/paragraph/1.md)
+  - First condition: issue of ordinary share capital
+    - [Sch. 5AA para. 2](schedule/5AA/paragraph/2.md)
+  - Second condition: equal entitlement to new shares
+    - [Sch. 5AA para. 3](schedule/5AA/paragraph/3.md)
+  - Third condition: continuity of business
+    - [Sch. 5AA para. 4](schedule/5AA/paragraph/4.md)
+  - Fourth condition: compromise or arrangement with members
+    - [Sch. 5AA para. 5](schedule/5AA/paragraph/5.md)
+  - Preliminary reorganisation of share capital to be disregarded
+    - [Sch. 5AA para. 6](schedule/5AA/paragraph/6.md)
+  - Subsequent issue of shares or debentures to be disregarded
+    - [Sch. 5AA para. 7](schedule/5AA/paragraph/7.md)
+  - Interpretation
+    - [Sch. 5AA para. 8](schedule/5AA/paragraph/8.md)
+- SCHEDULE 5AAA UK property rich collective investment vehicles etc
+  - PART 1 Introduction: key expressions
+    - Meaning of “collective investment vehicle”, “participant” and “unit”
+      - [Sch. 5AAA para. 1](schedule/5AAA/paragraph/1.md)
+    - Meaning of “offshore collective investment vehicle”
+      - [Sch. 5AAA para. 2](schedule/5AAA/paragraph/2.md)
+    - Meaning of a collective investment vehicle being “UK property rich” etc
+      - [Sch. 5AAA para. 3](schedule/5AAA/paragraph/3.md)
+  - PART 2 Basic rules
+    - Application of Act to offshore CIV
+      - [Sch. 5AAA para. 4](schedule/5AAA/paragraph/4.md)
+    - Units in certain co-ownership schemes treated as shares in a company
+      - [Sch. 5AAA para. 5](schedule/5AAA/paragraph/5.md)
+    - Disposals by non-UK residents
+      - [Sch. 5AAA para. 6](schedule/5AAA/paragraph/6.md)
+      - [Sch. 5AAA para. 7](schedule/5AAA/paragraph/7.md)
+      - [Sch. 5AAA para. 7A Overseas life insurance companies](schedule/5AAA/paragraph/7A.md)
+      - [Sch. 5AAA para. 7B Offshore collective investment vehicles (other than UK feeder vehicles) that meet the conditions in paragraph 7(2)(a) and (b)](schedule/5AAA/paragraph/7B.md)
+  - PART 3 Election for transparency
+    - Election for collective investment vehicle to be treated as partnership
+      - [Sch. 5AAA para. 8](schedule/5AAA/paragraph/8.md)
+    - Further provision about election
+      - [Sch. 5AAA para. 9](schedule/5AAA/paragraph/9.md)
+    - Units in CIVs held by life insurance companies
+      - [Sch. 5AAA para. 10](schedule/5AAA/paragraph/10.md)
+    - Relationship to re-basing rules under Schedule 4AA for non-UK residents
+      - [Sch. 5AAA para. 11](schedule/5AAA/paragraph/11.md)
+  - PART 4 Exemption
+    - Exemption for qualifying offshore CIV that is UK property rich etc
+      - [Sch. 5AAA para. 12](schedule/5AAA/paragraph/12.md)
+    - Qualifying conditions and information provided to HMRC
+      - [Sch. 5AAA para. 13](schedule/5AAA/paragraph/13.md)
+      - [Sch. 5AAA para. 14](schedule/5AAA/paragraph/14.md)
+      - [Sch. 5AAA para. 15](schedule/5AAA/paragraph/15.md)
+    - Exemption for direct or indirect disposals of UK land by persons in which fund invests
+      - [Sch. 5AAA para. 16](schedule/5AAA/paragraph/16.md)
+    - Making of election and period for which it has effect
+      - [Sch. 5AAA para. 17](schedule/5AAA/paragraph/17.md)
+    - Revocation of election
+      - [Sch. 5AAA para. 18](schedule/5AAA/paragraph/18.md)
+      - [Sch. 5AAA para. 19](schedule/5AAA/paragraph/19.md)
+    - Qualifying fund or company ceasing to meet applicable exemption conditions
+      - [Sch. 5AAA para. 20](schedule/5AAA/paragraph/20.md)
+    - Deemed disposal: payments not otherwise taxable where value derived from direct or indirect disposals of UK land
+      - [Sch. 5AAA para. 21](schedule/5AAA/paragraph/21.md)
+    - Deemed disposal if election ceases to have effect
+      - [Sch. 5AAA para. 22](schedule/5AAA/paragraph/22.md)
+    - Gains accruing on disposals under paragraph 21 or 22
+      - [Sch. 5AAA para. 23](schedule/5AAA/paragraph/23.md)
+    - Relief for expenses in the case of deemed disposals under paragraph 21 or 22
+      - [Sch. 5AAA para. 24](schedule/5AAA/paragraph/24.md)
+    - Notification to participants in relation to deemed disposals under paragraph 21 or 22
+      - [Sch. 5AAA para. 25](schedule/5AAA/paragraph/25.md)
+      - [Sch. 5AAA para. 26](schedule/5AAA/paragraph/26.md)
+    - Temporary period during which applicable exemption conditions not met
+      - [Sch. 5AAA para. 27](schedule/5AAA/paragraph/27.md)
+      - [Sch. 5AAA para. 28](schedule/5AAA/paragraph/28.md)
+      - [Sch. 5AAA para. 29](schedule/5AAA/paragraph/29.md)
+    - Steps taken by relevant fund manager to wind up relevant fund
+      - [Sch. 5AAA para. 30](schedule/5AAA/paragraph/30.md)
+    - Deemed disposals of UK land by companies previously owned by fund
+      - [Sch. 5AAA para. 31](schedule/5AAA/paragraph/31.md)
+    - Deemed disposals of UK land by company or fund ceasing to be qualifying etc
+      - [Sch. 5AAA para. 32](schedule/5AAA/paragraph/32.md)
+    - Exemption for disposals by companies wholly owned by certain investors
+      - [Sch. 5AAA para. 33](schedule/5AAA/paragraph/33.md)
+    - Disapplication of paragraphs 5 and 6 of Schedule 1A
+      - [Sch. 5AAA para. 33A](schedule/5AAA/paragraph/33A.md)
+    - Disapplication of paragraph 3A of Schedule 7AC: qualifying institutional investors
+      - [Sch. 5AAA para. 34](schedule/5AAA/paragraph/34.md)
+    - Relationship between rules in this Part and REIT rules in Part 12 of CTA 2010
+      - [Sch. 5AAA para. 35](schedule/5AAA/paragraph/35.md)
+      - [Sch. 5AAA para. 36](schedule/5AAA/paragraph/36.md)
+    - Separate application of exemptions under this Schedule and elsewhere
+      - [Sch. 5AAA para. 37](schedule/5AAA/paragraph/37.md)
+    - Meaning of meeting “the applicable exemption conditions”
+      - [Sch. 5AAA para. 38](schedule/5AAA/paragraph/38.md)
+    - Meaning of “the relevant fund” and “the relevant fund manager”
+      - [Sch. 5AAA para. 39](schedule/5AAA/paragraph/39.md)
+    - Meaning of “wholly owned” or “wholly (or almost wholly) owned”
+      - [Sch. 5AAA para. 40](schedule/5AAA/paragraph/40.md)
+      - [Sch. 5AAA para. 41](schedule/5AAA/paragraph/41.md)
+    - Meaning of “designated HMRC officer”
+      - [Sch. 5AAA para. 42](schedule/5AAA/paragraph/42.md)
+  - PART 5 Reporting and payment
+    - Reporting by collective investment vehicles
+      - [Sch. 5AAA para. 43](schedule/5AAA/paragraph/43.md)
+    - Withholding of amounts on account of capital gains tax
+      - [Sch. 5AAA para. 44](schedule/5AAA/paragraph/44.md)
+    - General
+      - [Sch. 5AAA para. 45](schedule/5AAA/paragraph/45.md)
+  - PART 6 General
+    - Meaning of “close company”, “qualifying investor” and “direct or indirect participator”
+      - [Sch. 5AAA para. 46](schedule/5AAA/paragraph/46.md)
+    - References to regulation 75(3) of the Offshore Funds (Tax) Regulations 2009
+      - [Sch. 5AAA para. 46A](schedule/5AAA/paragraph/46A.md)
+    - Other definitions
+      - [Sch. 5AAA para. 47](schedule/5AAA/paragraph/47.md)
+    - Power to make provision in relation to UK property rich collective investment vehicles etc
+      - [Sch. 5AAA para. 48](schedule/5AAA/paragraph/48.md)
+  - PART 7 Transitional provision
+    - Elections for transparency under paragraph 8
+      - [Sch. 5AAA para. 49](schedule/5AAA/paragraph/49.md)
+      - [Sch. 5AAA para. 49A](schedule/5AAA/paragraph/49A.md)
+    - Elections under paragraph 12 and information about disposals by participants
+      - [Sch. 5AAA para. 50](schedule/5AAA/paragraph/50.md)
+    - Genuine diversity of ownership condition in case of existing funds
+      - [Sch. 5AAA para. 51](schedule/5AAA/paragraph/51.md)
+- SCHEDULE 5B Enterprise investment scheme: re-investment
+  - Application of Schedule
+    - [Sch. 5B para. 1](schedule/5B/paragraph/1.md)
+  - Failure of conditions of application
+    - [Sch. 5B para. 1A](schedule/5B/paragraph/1A.md)
+  - Postponement of original gain
+    - [Sch. 5B para. 2](schedule/5B/paragraph/2.md)
+  - Chargeable events
+    - [Sch. 5B para. 3](schedule/5B/paragraph/3.md)
+  - Gain accruing on chargeable event
+    - [Sch. 5B para. 4](schedule/5B/paragraph/4.md)
+  - Person to whom gain accrues
+    - [Sch. 5B para. 5](schedule/5B/paragraph/5.md)
+  - Claims
+    - [Sch. 5B para. 6](schedule/5B/paragraph/6.md)
+  - Reorganisations
+    - [Sch. 5B para. 7](schedule/5B/paragraph/7.md)
+  - Acquisition of share capital by new company
+    - [Sch. 5B para. 8](schedule/5B/paragraph/8.md)
+  - Other reconstructions and amalgamations
+    - [Sch. 5B para. 9](schedule/5B/paragraph/9.md)
+  - Re-investment in same company etc.
+    - [Sch. 5B para. 10](schedule/5B/paragraph/10.md)
+  - Pre-arranged exits
+    - [Sch. 5B para. 11](schedule/5B/paragraph/11.md)
+  - Disqualifying arrangements
+    - [Sch. 5b para. 11A](schedule/5b/paragraph/11A.md)
+  - Put options and call options
+    - [Sch. 5B para. 12](schedule/5B/paragraph/12.md)
+  - Value received by investor
+    - [Sch. 5B para. 13](schedule/5B/paragraph/13.md)
+  - Provision supplemental to paragraph 13
+    - [Sch. 5B para. 13A](schedule/5B/paragraph/13A.md)
+  - Receipt of replacement value
+    - [Sch. 5B para. 13B](schedule/5B/paragraph/13B.md)
+  - Provision supplemental to paragraph 13B
+    - [Sch. 5B para. 13C](schedule/5B/paragraph/13C.md)
+  - Value received by other persons
+    - [Sch. 5B para. 14](schedule/5B/paragraph/14.md)
+  - Insignificant repayments disregarded for purposes of paragraph 14
+    - [Sch. 5B para. 14AA](schedule/5B/paragraph/14AA.md)
+  - Certain receipts to be disregarded for purposes of paragraph 14
+    - [Sch. 5B para. 14A](schedule/5B/paragraph/14A.md)
+  - Investment-linked loans
+    - [Sch. 5B para. 15](schedule/5B/paragraph/15.md)
+  - Information
+    - [Sch. 5B para. 16](schedule/5B/paragraph/16.md)
+  - Trustees: general
+    - [Sch. 5B para. 17](schedule/5B/paragraph/17.md)
+  - Trustees: anti-avoidance
+    - [Sch. 5B para. 18](schedule/5B/paragraph/18.md)
+  - Interpretation
+    - [Sch. 5B para. 19](schedule/5B/paragraph/19.md)
+- SCHEDULE 5BA Enterprise investment scheme: application of taper relief
+  - Application of Schedule
+    - [Sch. 5BA para. 1](schedule/5BA/paragraph/1.md)
+  - Taper relief on revived gains
+    - [Sch. 5BA para. 2](schedule/5BA/paragraph/2.md)
+  - Qualifying holding period
+    - [Sch. 5BA para. 3](schedule/5BA/paragraph/3.md)
+  - Periods that do not count
+    - [Sch. 5BA para. 4](schedule/5BA/paragraph/4.md)
+  - Gains on disposal of business or non-business assets
+    - [Sch. 5BA para. 5](schedule/5BA/paragraph/5.md)
+  - Savings
+    - [Sch. 5BA para. 6](schedule/5BA/paragraph/6.md)
+  - Relevant re-investment shares
+    - [Sch. 5BA para. 7](schedule/5BA/paragraph/7.md)
+  - Derivation of gains
+    - [Sch. 5BA para. 8](schedule/5BA/paragraph/8.md)
+  - Interpretation
+    - [Sch. 5BA para. 9](schedule/5BA/paragraph/9.md)
+- SCHEDULE 5BB Seed enterprise investment scheme: re-investment
+  - SEIS re-investment relief
+    - [Sch. 5BB para. 1](schedule/5BB/paragraph/1.md)
+  - Restrictions on relief under paragraph 1
+    - [Sch. 5BB para. 2](schedule/5BB/paragraph/2.md)
+  - Claims
+    - [Sch. 5BB para. 3](schedule/5BB/paragraph/3.md)
+  - Attribution of SEIS re-investment relief to relevant SEIS shares
+    - [Sch. 5BB para. 4](schedule/5BB/paragraph/4.md)
+  - Removal or reduction of the relief
+    - [Sch. 5BB para. 5](schedule/5BB/paragraph/5.md)
+  - Transfers of shares to spouses and civil partners
+    - [Sch. 5BB para. 6](schedule/5BB/paragraph/6.md)
+  - Adjustment of capital gains tax liability
+    - [Sch. 5BB para. 7](schedule/5BB/paragraph/7.md)
+  - Interpretation etc
+    - [Sch. 5BB para. 8](schedule/5BB/paragraph/8.md)
+- SCHEDULE 5C Venture capital trusts: deferred charge on re-investment
+  - Application of Schedule
+    - [Sch. 5Cn para. 1](schedule/5Cn/paragraph/1.md)
+  - The postponement of the original gain
+    - [Sch. 5Cn para. 2](schedule/5Cn/paragraph/2.md)
+  - Chargeable events
+    - [Sch. 5Cn para. 3](schedule/5Cn/paragraph/3.md)
+  - Gain accruing on chargeable event
+    - [Sch. 5Cn para. 4](schedule/5Cn/paragraph/4.md)
+  - Persons to whom gain accrues
+    - [Sch. 5Cn para. 5](schedule/5Cn/paragraph/5.md)
+  - Interpretation
+    - [Sch. 5Cn para. 6](schedule/5Cn/paragraph/6.md)
+- SCHEDULE 6 Retirement relief etc.
+  - Part I Interpretation
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Part II The operation of the relief
+    - Disposals on which relief may be given
+      - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+    - Gains qualifying for relief
+      - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+      - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+    - The amount available for relief: the basic rule
+      - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+    - Aggregation of earlier business periods
+      - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+    - Relief given on earlier disposal
+      - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Aggregation of spouse’s interest in the business
+      - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+- SCHEDULE 7 Relief for gifts of business assets
+  - Part I Agricultural property and settled property
+    - Agricultural property
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Settled property
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Part II Reductions in held-over gain
+    - Application and interpretation
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Reductions peculiar to disposals of assets
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Reduction peculiar to disposal of shares
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Reduction where gain partly relieved by retirement relief
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+- SCHEDULE 7ZA Business asset disposal relief: “trading company” and “trading group”
+  - PART 1 Meaning of “trading company” and “trading group”
+    - [Sch. 7ZA para. 1](schedule/7ZA/paragraph/1.md)
+    - [Sch. 7ZA para. 2](schedule/7ZA/paragraph/2.md)
+  - PART 2 Joint venture companies
+    - Attribution of activities of a joint venture company
+      - [Sch. 7ZA para. 3](schedule/7ZA/paragraph/3.md)
+    - Meaning of “investing company”
+      - [Sch. 7ZA para. 4](schedule/7ZA/paragraph/4.md)
+    - Shareholding test
+      - [Sch. 7ZA para. 5](schedule/7ZA/paragraph/5.md)
+      - [Sch. 7ZA para. 6](schedule/7ZA/paragraph/6.md)
+      - [Sch. 7ZA para. 7](schedule/7ZA/paragraph/7.md)
+      - [Sch. 7ZA para. 8](schedule/7ZA/paragraph/8.md)
+    - Voting rights test
+      - [Sch. 7ZA para. 9](schedule/7ZA/paragraph/9.md)
+      - [Sch. 7ZA para. 10](schedule/7ZA/paragraph/10.md)
+      - [Sch. 7ZA para. 11](schedule/7ZA/paragraph/11.md)
+      - [Sch. 7ZA para. 12](schedule/7ZA/paragraph/12.md)
+  - PART 3 Partnerships
+    - Activities of a company as a member of a partnership
+      - [Sch. 7ZA para. 13](schedule/7ZA/paragraph/13.md)
+    - Meaning of “direct interest company” and “relevant corporate partner”
+      - [Sch. 7ZA para. 14](schedule/7ZA/paragraph/14.md)
+    - Profits and assets test
+      - [Sch. 7ZA para. 15](schedule/7ZA/paragraph/15.md)
+      - [Sch. 7ZA para. 16](schedule/7ZA/paragraph/16.md)
+      - [Sch. 7ZA para. 17](schedule/7ZA/paragraph/17.md)
+      - [Sch. 7ZA para. 18](schedule/7ZA/paragraph/18.md)
+      - [Sch. 7ZA para. 19](schedule/7ZA/paragraph/19.md)
+      - [Sch. 7ZA para. 20](schedule/7ZA/paragraph/20.md)
+    - Voting rights test
+      - [Sch. 7ZA para. 21](schedule/7ZA/paragraph/21.md)
+      - [Sch. 7ZA para. 22](schedule/7ZA/paragraph/22.md)
+      - [Sch. 7ZA para. 23](schedule/7ZA/paragraph/23.md)
+  - PART 4 Interpretation of this schedule
+    - Meaning of “P”
+      - [Sch. 7ZA para. 24](schedule/7ZA/paragraph/24.md)
+    - Meaning of “relevant period”
+      - [Sch. 7ZA para. 25](schedule/7ZA/paragraph/25.md)
+    - Other interpretation provisions
+      - [Sch. 7ZA para. 26](schedule/7ZA/paragraph/26.md)
+- SCHEDULE 7ZB Investors’ relief: disqualification of shares
+  - Disqualification of shares where value received in period of restriction
+    - [Sch. 7ZB para. 1](schedule/7ZB/paragraph/1.md)
+  - “Receives value”
+    - [Sch. 7ZB para. 2](schedule/7ZB/paragraph/2.md)
+  - Amount of value
+    - [Sch. 7ZB para. 3](schedule/7ZB/paragraph/3.md)
+  - Receipt of replacement value
+    - [Sch. 7ZB para. 4](schedule/7ZB/paragraph/4.md)
+    - [Sch. 7ZB para. 5](schedule/7ZB/paragraph/5.md)
+  - Interpretation
+    - [Sch. 7ZB para. 6](schedule/7ZB/paragraph/6.md)
+- SCHEDULE 7A Restriction on set-off of pre-entry losses
+  - Application and construction of Schedule
+    - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+  - Pre-entry proportion of losses on pre-entry assets
+    - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+  - Disposals of pooled assets
+    - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+  - Rule to prevent pre-entry losses on pooled assets being treated as post-entry losses
+    - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+  - Alternative calculation by reference to market value
+    - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+  - Restrictions on the deduction of pre-entry losses
+    - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+  - Gains from which pre-entry losses are to be deductible
+    - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+  - Change of a company’s nature
+    - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+  - Identification of “the relevant group" and application of Schedule to every connected group
+    - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+  - Appropriations to stock in trade
+    - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+    - [Sch. 7a para. 10A](schedule/7a/paragraph/10A.md)
+  - Continuity provisions
+    - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+  - Companies changing groups on certain transfers of shares etc.
+    - [Sch. 7A para. 12](schedule/7A/paragraph/12.md)
+- SCHEDULE 7AA Restrictions on setting losses against pre-entry gains
+  - Introductory
+    - [Sch. 7AA para. 1](schedule/7AA/paragraph/1.md)
+  - Restriction on setting off losses
+    - [Sch. 7AA para. 2](schedule/7AA/paragraph/2.md)
+  - Adjustment of pre-entry gains
+    - [Sch. 7AA para. 3](schedule/7AA/paragraph/3.md)
+  - Meaning of “qualifying losses"
+    - [Sch. 7AA para. 4](schedule/7AA/paragraph/4.md)
+  - Special rule for disposal of pooled assets
+    - [Sch. 7AA para. 5](schedule/7AA/paragraph/5.md)
+  - Special rule for losses on disposal of certain assets acquired at different times
+    - [Sch. 7AA para. 6](schedule/7AA/paragraph/6.md)
+  - Special rule for gains and losses on deemed annual disposal
+    - [Sch. 7AA para. 7](schedule/7AA/paragraph/7.md)
+- SCHEDULE 7AB Roll-over of degrouping charge: modification of enactments
+  - Introductory
+    - [Sch. 7AB para. 1](schedule/7AB/paragraph/1.md)
+  - Section 152
+    - [Sch. 7AB para. 2](schedule/7AB/paragraph/2.md)
+  - Section 153
+    - [Sch. 7AB para. 3](schedule/7AB/paragraph/3.md)
+  - Section 153A
+    - [Sch. 7AB para. 4](schedule/7AB/paragraph/4.md)
+  - Section 155
+    - [Sch. 7AB para. 5](schedule/7AB/paragraph/5.md)
+  - Section 159
+    - [Sch. 7AB para. 6](schedule/7AB/paragraph/6.md)
+  - Section 175
+    - [Sch. 7AB para. 7](schedule/7AB/paragraph/7.md)
+  - Section 185
+    - [Sch. 7AB para. 8](schedule/7AB/paragraph/8.md)
+  - Section 198
+    - [Sch. 7AB para. 9](schedule/7AB/paragraph/9.md)
+  - Schedule 22 to the Finance Act 2000
+    - [Sch. 7AB para. 10](schedule/7AB/paragraph/10.md)
+- SCHEDULE 7AC Exemptions for disposals by companies with substantial shareholding
+  - Part 1 The exemptions
+    - The main exemption
+      - [Sch. 7AC para. 1](schedule/7AC/paragraph/1.md)
+    - Subsidiary exemption: disposal of asset related to shares where main exemption conditions met
+      - [Sch. 7AC para. 2](schedule/7AC/paragraph/2.md)
+    - Subsidiary exemption: disposal of shares or related asset where main exemption conditions previously met
+      - [Sch. 7AC para. 3](schedule/7AC/paragraph/3.md)
+    - Subsidiary exemption: qualifying institutional investors
+      - [Sch. 7ac para. 3A](schedule/7ac/paragraph/3A.md)
+      - [Sch. 7ac para. 3B](schedule/7ac/paragraph/3B.md)
+    - Application of exemptions in priority to provisions deeming there to be no disposal etc
+      - [Sch. 7AC para. 4](schedule/7AC/paragraph/4.md)
+    - Circumstances in which exemptions do not apply
+      - [Sch. 7AC para. 5](schedule/7AC/paragraph/5.md)
+    - Other cases excluded from exemptions
+      - [Sch. 7AC para. 6](schedule/7AC/paragraph/6.md)
+  - Part 2 The substantial shareholding requirement
+    - The requirement
+      - [Sch. 7AC para. 7](schedule/7AC/paragraph/7.md)
+    - Meaning of “substantial shareholding"
+      - [Sch. 7AC para. 8](schedule/7AC/paragraph/8.md)
+      - [Sch. 7ac para. 8A](schedule/7ac/paragraph/8A.md)
+    - Aggregation of holdings of group companies
+      - [Sch. 7AC para. 9](schedule/7AC/paragraph/9.md)
+    - Effect of earlier no-gain/no-loss transfer
+      - [Sch. 7AC para. 10](schedule/7AC/paragraph/10.md)
+    - Effect of deemed disposal and reacquisition
+      - [Sch. 7AC para. 11](schedule/7AC/paragraph/11.md)
+    - Effect of repurchase agreement
+      - [Sch. 7AC para. 12](schedule/7AC/paragraph/12.md)
+    - Effect of stock lending arrangements
+      - [Sch. 7AC para. 13](schedule/7AC/paragraph/13.md)
+    - Effect in relation to company invested in of earlier company reconstruction etc
+      - [Sch. 7AC para. 14](schedule/7AC/paragraph/14.md)
+    - Effect in relation to company invested in of earlier demerger
+      - [Sch. 7AC para. 15](schedule/7AC/paragraph/15.md)
+    - Effect of transfer of trading assets within a group
+      - [Sch. 7AC para. 15A](schedule/7AC/paragraph/15A.md)
+    - Effect of investing company’s liquidation
+      - [Sch. 7AC para. 16](schedule/7AC/paragraph/16.md)
+    - Special rules for assets of insurance company held for the purposes of its long-term business
+      - [Sch. 7AC para. 17](schedule/7AC/paragraph/17.md)
+  - Part 3 Requirements to be met in relation to ... company invested in
+    - ................................
+      - [Sch. 7AC para. 18](schedule/7AC/paragraph/18.md)
+    - Requirements relating to the company invested in
+      - [Sch. 7AC para. 19](schedule/7AC/paragraph/19.md)
+    - Meaning of “trading company"
+      - [Sch. 7AC para. 20](schedule/7AC/paragraph/20.md)
+    - Meaning of “trading group"
+      - [Sch. 7AC para. 21](schedule/7AC/paragraph/21.md)
+    - Meaning of “trading subgroup"
+      - [Sch. 7AC para. 22](schedule/7AC/paragraph/22.md)
+    - Treatment of holdings in joint venture companies
+      - [Sch. 7AC para. 23](schedule/7AC/paragraph/23.md)
+    - Meaning of “joint venture company" and “qualifying shareholding"
+      - [Sch. 7AC para. 24](schedule/7AC/paragraph/24.md)
+    - Effect in relation to company invested in of earlier company reconstruction, demerger etc
+      - [Sch. 7AC para. 25](schedule/7AC/paragraph/25.md)
+  - Part 4 Interpretation
+    - Meaning of “company", “group" and related expressions
+      - [Sch. 7AC para. 26](schedule/7AC/paragraph/26.md)
+    - Meaning of “trade"
+      - [Sch. 7AC para. 27](schedule/7AC/paragraph/27.md)
+    - Meaning of “twelve-month period"
+      - [Sch. 7AC para. 28](schedule/7AC/paragraph/28.md)
+    - Meaning of “interest in shares"
+      - [Sch. 7AC para. 29](schedule/7AC/paragraph/29.md)
+    - Meaning of “asset related to shares"
+      - [Sch. 7AC para. 30](schedule/7AC/paragraph/30.md)
+    - Meaning of “qualifying institutional investor”
+      - [Sch. 7ac para. 30A](schedule/7ac/paragraph/30A.md)
+    - Index of defined expressions
+      - [Sch. 7AC para. 31](schedule/7AC/paragraph/31.md)
+  - Part 5 Consequential provisions
+    - Meaning of “chargeable shares" or “chargeable asset"
+      - [Sch. 7AC para. 32](schedule/7AC/paragraph/32.md)
+    - Negligible value claims
+      - [Sch. 7AC para. 33](schedule/7AC/paragraph/33.md)
+    - Reorganisations etc: deemed accrual of chargeable gain or allowable loss held over on earlier transaction
+      - [Sch. 7AC para. 34](schedule/7AC/paragraph/34.md)
+    - Recovery of charge postponed on transfer of assets to non-resident company
+      - [Sch. 7AC para. 35](schedule/7AC/paragraph/35.md)
+    - Appropriation of asset to trading stock
+      - [Sch. 7AC para. 36](schedule/7AC/paragraph/36.md)
+    - Recovery of held-over gain on claim for gifts relief
+      - [Sch. 7AC para. 37](schedule/7AC/paragraph/37.md)
+    - Degrouping: time when deemed sale and reacquisition treated as taking place
+      - [Sch. 7AC para. 38](schedule/7AC/paragraph/38.md)
+    - Effect of FOREX matching regulations
+      - [Sch. 7AC para. 39](schedule/7AC/paragraph/39.md)
+- SCHEDULE 7AD Gains of insurance company from venture capital investment partnership
+  - Introduction
+    - [Sch. 7AD para. 1](schedule/7AD/paragraph/1.md)
+  - Meaning of “venture capital investment partnership”
+    - [Sch. 7AD para. 2](schedule/7AD/paragraph/2.md)
+  - Interest in relevant assets of partnership treated as single asset
+    - [Sch. 7AD para. 3](schedule/7AD/paragraph/3.md)
+  - The cost of the single asset
+    - [Sch. 7AD para. 4](schedule/7AD/paragraph/4.md)
+  - Deemed disposal of single asset in case of distribution
+    - [Sch. 7AD para. 5](schedule/7AD/paragraph/5.md)
+  - Apportionment in case of part disposal
+    - [Sch. 7AD para. 6](schedule/7AD/paragraph/6.md)
+  - Disposal of partnership asset giving rise to offshore income gain
+    - [Sch. 7AD para. 7](schedule/7AD/paragraph/7.md)
+  - Exclusion of negligible value claim
+    - [Sch. 7AD para. 8](schedule/7AD/paragraph/8.md)
+  - Investment in other venture capital investment partnerships
+    - [Sch. 7AD para. 9](schedule/7AD/paragraph/9.md)
+  - Interpretation
+    - [Sch. 7AD para. 10](schedule/7AD/paragraph/10.md)
+  - General commencement and transitional provisions
+    - [Sch. 7AD para. 11](schedule/7AD/paragraph/11.md)
+  - Election to remain outside Schedule
+    - [Sch. 7AD para. 12](schedule/7AD/paragraph/12.md)
+  - How and when election to be made
+    - [Sch. 7AD para. 13](schedule/7AD/paragraph/13.md)
+- SCHEDULE 7B Modification of Act in relation to overseas life insurance companies
+  - [Sch. 7B para. 1](schedule/7B/paragraph/1.md)
+  - [Sch. 7B para. 2](schedule/7B/paragraph/2.md)
+  - [Sch. 7B para. 3](schedule/7B/paragraph/3.md)
+  - [Sch. 7B para. 4](schedule/7B/paragraph/4.md)
+  - [Sch. 7B para. 5](schedule/7B/paragraph/5.md)
+  - [Sch. 7B para. 6](schedule/7B/paragraph/6.md)
+  - [Sch. 7B para. 6A](schedule/7B/paragraph/6A.md)
+  - [Sch. 7B para. 6B](schedule/7B/paragraph/6B.md)
+  - [Sch. 7B para. 7](schedule/7B/paragraph/7.md)
+  - [Sch. 7B para. 7A](schedule/7B/paragraph/7A.md)
+  - [Sch. 7B para. 8](schedule/7B/paragraph/8.md)
+  - [Sch. 7B para. 9](schedule/7B/paragraph/9.md)
+  - [Sch. 7B para. 9A](schedule/7B/paragraph/9A.md)
+  - [Sch. 7B para. 10](schedule/7B/paragraph/10.md)
+  - [Sch. 7B para. 11](schedule/7B/paragraph/11.md)
+  - [Sch. 7B para. 12](schedule/7B/paragraph/12.md)
+  - [Sch. 7B para. 13](schedule/7B/paragraph/13.md)
+  - [Sch. 7B para. 14](schedule/7B/paragraph/14.md)
+  - [Sch. 7B para. 15](schedule/7B/paragraph/15.md)
+  - [Sch. 7B para. 16](schedule/7B/paragraph/16.md)
+- SCHEDULE 7C Relief for transfers to Schedule 2 share plans
+  - Introductory
+    - [Sch. 7C para. 1](schedule/7C/paragraph/1.md)
+  - Conditions relating to the disposal
+    - [Sch. 7C para. 2](schedule/7C/paragraph/2.md)
+  - Reinvestment of disposal proceeds
+    - [Sch. 7C para. 3](schedule/7C/paragraph/3.md)
+  - Provision supplementary to paragraphs 2 and 3
+    - [Sch. 7C para. 4](schedule/7C/paragraph/4.md)
+  - The relief
+    - [Sch. 7C para. 5](schedule/7C/paragraph/5.md)
+  - Dwelling-houses: special provision
+    - [Sch. 7C para. 6](schedule/7C/paragraph/6.md)
+  - Shares: special provision
+    - [Sch. 7C para. 7](schedule/7C/paragraph/7.md)
+  - Meaning of “chargeable asset”
+    - [Sch. 7C para. 8](schedule/7C/paragraph/8.md)
+- SCHEDULE 7D ... Share schemes and share incentives
+  - Part 1 Schedule 2 share incentive plans
+    - Introductory
+      - [Sch. 7D para. 1](schedule/7D/paragraph/1.md)
+    - Gains accruing to trustees
+      - [Sch. 7D para. 2](schedule/7D/paragraph/2.md)
+    - Participant absolutely entitled as against trustees
+      - [Sch. 7D para. 3](schedule/7D/paragraph/3.md)
+    - Different classes of shares
+      - [Sch. 7D para. 4](schedule/7D/paragraph/4.md)
+    - No chargeable gain on shares ceasing to be subject to the plan
+      - [Sch. 7D para. 5](schedule/7D/paragraph/5.md)
+    - Deemed disposal by trustees on disposal of beneficial interest
+      - [Sch. 7D para. 6](schedule/7D/paragraph/6.md)
+    - Treatment of forfeited shares
+      - [Sch. 7D para. 7](schedule/7D/paragraph/7.md)
+    - Disposal of rights under rights issue
+      - [Sch. 7D para. 8](schedule/7D/paragraph/8.md)
+  - Part 2 Schedule 3 SAYE option schemes
+    - Introductory
+      - [Sch. 7D para. 9](schedule/7D/paragraph/9.md)
+    - Market value rule not to apply
+      - [Sch. 7D para. 10](schedule/7D/paragraph/10.md)
+  - Part 3 Schedule 4 CSOP schemes
+    - Introductory
+      - [Sch. 7D para. 11](schedule/7D/paragraph/11.md)
+    - Relief where income tax charged in respect of grant of option
+      - [Sch. 7D para. 12](schedule/7D/paragraph/12.md)
+    - Market value rule not to apply
+      - [Sch. 7D para. 13](schedule/7D/paragraph/13.md)
+  - Part 4 Enterprise management incentives
+    - ................................
+      - [Sch. 7D para.](schedule/7D/paragraph.md)
+- SCHEDULE 8 Leases
+  - Leases of land as wasting assets: curved line restriction of allowable expenditure
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Premiums for leases
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Subleases out of short leases
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Exclusion of premiums taxed as receipts of a property business etc.
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 7A](schedule/8/paragraph/7A.md)
+  - Duration of leases
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Leases of property other than land
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Interpretation
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+- SCHEDULE 8A
+  - ................................
+    - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+  - ................................
+    - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+  - ................................
+    - [Sch. 8A para. 3](schedule/8A/paragraph/3.md)
+  - ................................
+    - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+- SCHEDULE 8B Hold-over relief for gains re-invested in social enterprises
+  - When does the Schedule apply?
+    - [Sch. 8B para. 1](schedule/8B/paragraph/1.md)
+    - [Sch. 8B para. 2](schedule/8B/paragraph/2.md)
+  - Interpretation of Schedule
+    - [Sch. 8B para. 3](schedule/8B/paragraph/3.md)
+  - Claim to hold gain over while invested in a social enterprise
+    - [Sch. 8B para. 4](schedule/8B/paragraph/4.md)
+  - Held-over gain treated as accruing on disposal etc of the qualifying investment
+    - [Sch. 8B para. 5](schedule/8B/paragraph/5.md)
+  - Chargeable events
+    - [Sch. 8B para. 6](schedule/8B/paragraph/6.md)
+  - Person to whom held-over gain is treated as accruing
+    - [Sch. 8B para. 7](schedule/8B/paragraph/7.md)
+  - Claims: procedure
+    - [Sch. 8B para. 8](schedule/8B/paragraph/8.md)
+- SCHEDULE 9 Gilt-edged securities
+  - Part I General
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 1A](schedule/9/paragraph/1A.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Part II Existing gilt-edged securities
+- SCHEDULE 10 Consequential amendments
+  - Post Office Act 1969 c. 48
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Taxes Management Act 1970 c. 9
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Finance Act 1973 c. 51
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - British Aerospace Act 1980 c. 26
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - British Telecommunications Act 1981 c. 38
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Value Added Tax Act 1983 c. 55
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Telecommunications Act 1984 c. 12
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Inheritance Tax Act 1984 c. 51
+    - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+  - Finance Act 1985 c. 54
+    - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+  - Trustee Savings Bank Act 1985 c. 58
+    - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+  - Transport Act 1985 c. 67
+    - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+  - Airports Act 1986 c. 31
+    - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+  - Gas Act 1986 c. 44
+    - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Income and Corporation Taxes Act 1988 c. 1
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+  - British Steel Act 1988 c. 35
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+  - Finance Act 1988 c. 39
+    - [Sch. 10 para. 16](schedule/10/paragraph/16.md)
+  - Health and Medicines Act 1988 c. 49
+    - [Sch. 10 para. 17](schedule/10/paragraph/17.md)
+  - Water Act 1989 c. 15
+    - [Sch. 10 para. 18](schedule/10/paragraph/18.md)
+  - Finance Act 1989 c. 26
+    - [Sch. 10 para. 19](schedule/10/paragraph/19.md)
+  - Electricity Act 1989 c. 29
+    - [Sch. 10 para. 20](schedule/10/paragraph/20.md)
+  - Capital Allowances Act 1990 c. 1
+    - [Sch. 10 para. 21](schedule/10/paragraph/21.md)
+  - Finance Act 1990 c. 29
+    - [Sch. 10 para. 22](schedule/10/paragraph/22.md)
+  - Finance Act 1991 c. 31.
+    - [Sch. 10 para. 23](schedule/10/paragraph/23.md)
+  - Ports Act 1991 c. 52
+    - [Sch. 10 para. 24](schedule/10/paragraph/24.md)
+  - British Technology Group Act 1991 c. 66
+    - [Sch. 10 para. 25](schedule/10/paragraph/25.md)
+- SCHEDULE 11 Transitional provisions and savings
+  - Part I Valuation
+    - Preliminary
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Gifts and transactions between connected persons before 20th March 1985
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Valuation of assets before 6th July 1973
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - Valuation of assets on 6th April 1965
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - References to the London Stock Exchange before 25th March 1973and Exchange Control restrictions before 13th December 1979
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Depreciated valuations referable to deaths before 31st March 1973
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - Estate duty
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Part II Other transitory provisions
+    - Value-shifting
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Assets acquired on disposal chargeable under Case VII of Schedule D
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+    - Unrelieved Case VII losses
+      - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+    - Devaluation of sterling: securities acquired with borrowed foreign currency
+      - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - Devaluation of sterling: foreign insurance funds
+      - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+    - Gilt-edged securities past redemption date
+      - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+    - Qualifying corporate bonds, company reorganisations, share conversions etc.
+      - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - Land: allowance for betterment levy
+      - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
+    - Non-resident trusts
+      - [Sch. 11 para. 18](schedule/11/paragraph/18.md)
+    - Private residences
+      - [Sch. 11 para. 19](schedule/11/paragraph/19.md)
+    - Works of art etc.
+      - [Sch. 11 para. 20](schedule/11/paragraph/20.md)
+    - Disposal before acquisition
+      - [Sch. 11 para. 21](schedule/11/paragraph/21.md)
+    - Estate duty
+      - [Sch. 11 para. 22](schedule/11/paragraph/22.md)
+    - Validity of subordinate legislation
+      - [Sch. 11 para. 23](schedule/11/paragraph/23.md)
+    - Amendments in other Acts
+      - [Sch. 11 para. 24](schedule/11/paragraph/24.md)
+    - Saving for Part III of this Schedule
+      - [Sch. 11 para. 25](schedule/11/paragraph/25.md)
+  - Part III Assets acquired before commencement
+    - [Sch. 11 para. 26](schedule/11/paragraph/26.md)
+    - [Sch. 11 para. 27](schedule/11/paragraph/27.md)
+  - Part IV Other general savings
+    - [Sch. 11 para. 28](schedule/11/paragraph/28.md)
+    - [Sch. 11 para. 29](schedule/11/paragraph/29.md)
+- SCHEDULE 12 Repeals
