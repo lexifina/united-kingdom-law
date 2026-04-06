@@ -1,0 +1,183 @@
+# Animal Welfare Act 2006
+
+2006 c. 45. Enacted 2006-11-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2006/45/2026-04-06
+
+## Contents
+
+- Introductory
+  - [s. 1 Animals to which the Act applies](section/1.md)
+  - [s. 2 “Protected animal”](section/2.md)
+  - [s. 3 Responsibility for animals](section/3.md)
+- Prevention of harm
+  - [s. 4 Unnecessary suffering](section/4.md)
+  - [s. 5 Mutilation](section/5.md)
+  - [s. 6 Docking of dogs’ tails](section/6.md)
+  - [s. 7 Administration of poisons etc.](section/7.md)
+  - [s. 8 Fighting etc.](section/8.md)
+- Promotion of welfare
+  - [s. 9 Duty of person responsible for animal to ensure welfare](section/9.md)
+  - [s. 10 Improvement notices](section/10.md)
+  - [s. 11 Transfer of animals by way of sale or prize to persons under 16](section/11.md)
+  - [s. 12 Regulations to promote welfare](section/12.md)
+- Licensing and registration
+  - [s. 13 Licensing or registration of activities involving animals](section/13.md)
+- Codes of practice
+  - [s. 14 Codes of practice](section/14.md)
+  - [s. 15 Making and approval of codes of practice: England](section/15.md)
+  - [s. 16 Making of codes of practice: Wales](section/16.md)
+  - [s. 17 Revocation of codes of practice](section/17.md)
+- Animals in distress
+  - [s. 18 Powers in relation to animals in distress](section/18.md)
+  - [s. 19 Power of entry for section 18 purposes](section/19.md)
+  - [s. 20 Orders in relation to animals taken under section 18(5)](section/20.md)
+  - [s. 21 Orders under section 20: appeals](section/21.md)
+- Enforcement powers
+  - [s. 22 Seizure of animals involved in fighting offences](section/22.md)
+  - [s. 23 Entry and search under warrant in connection with offences](section/23.md)
+  - [s. 24 Entry for purposes of arrest](section/24.md)
+  - [s. 25 Inspection of records required to be kept by holder of licence](section/25.md)
+  - [s. 26 Inspection in connection with licences](section/26.md)
+  - [s. 27 Inspection in connection with registration](section/27.md)
+  - [s. 28 Inspection of farm premises](section/28.md)
+  - [s. 29 Inspection relating to assimilated law](section/29.md)
+- Prosecutions
+  - [s. 30 Power of local authority to prosecute offences](section/30.md)
+  - [s. 31 Time limits for prosecutions](section/31.md)
+- Post-conviction powers
+  - [s. 32 Imprisonment or fine](section/32.md)
+  - [s. 33 Deprivation](section/33.md)
+  - [s. 34 Disqualification](section/34.md)
+  - [s. 35 Seizure of animals in connection with disqualification](section/35.md)
+  - [s. 36 Section 35: supplementary](section/36.md)
+  - [s. 37 Destruction in the interests of the animal](section/37.md)
+  - [s. 38 Destruction of animals involved in fighting offences](section/38.md)
+  - [s. 39 Reimbursement of expenses relating to animals involved in fighting offences](section/39.md)
+  - [s. 40 Forfeiture of equipment used in offences](section/40.md)
+  - [s. 41 Orders under section 33, 35, 37, 38 or 40: pending appeals](section/41.md)
+  - [s. 42 Orders with respect to licences](section/42.md)
+  - [s. 43 Termination of disqualification under section 34 or 42](section/43.md)
+  - [s. 44 Orders made on conviction for reimbursement of expenses](section/44.md)
+  - [s. 45 Orders for reimbursement of expenses: right of appeal for non-offenders](section/45.md)
+- Scotland
+  - [s. 46 Effect in Scotland of disqualification under section 34](section/46.md)
+  - [s. 47 Deprivation orders in connection with offence under section 46(2)](section/47.md)
+  - [s. 48 Seizure orders where disqualification breached: Scotland](section/48.md)
+  - [s. 49 Appeals against deprivation orders and seizure orders](section/49.md)
+  - [s. 50 Deprivation orders, seizure orders and interim orders: offences](section/50.md)
+- General
+  - [s. 51 Inspectors](section/51.md)
+  - [s. 52 Conditions for grant of warrant](section/52.md)
+  - [s. 53 Powers of entry, inspection and search: supplementary](section/53.md)
+  - [s. 54 Power to stop and detain vehicles](section/54.md)
+  - [s. 55 Power to detain vessels, aircraft and hovercraft](section/55.md)
+  - [s. 56 Obtaining of documents in connection with carrying out orders etc.](section/56.md)
+  - [s. 57 Offences by bodies corporate](section/57.md)
+  - [s. 58 Scientific research](section/58.md)
+  - [s. 59 Fishing](section/59.md)
+  - [s. 60 Crown application](section/60.md)
+  - [s. 61 Orders and regulations](section/61.md)
+  - [s. 62 General interpretation](section/62.md)
+  - [s. 63 Financial provisions](section/63.md)
+  - [s. 64 Minor and consequential amendments](section/64.md)
+  - [s. 65 Repeals](section/65.md)
+  - [s. 66 Transition](section/66.md)
+  - [s. 67 Extent](section/67.md)
+  - [s. 68 Commencement](section/68.md)
+  - [s. 69 Short title](section/69.md)
+- SCHEDULE 1 Regulations under section 13
+  - Part 1 Licences for the purposes of the section
+    - Introductory
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Licensing authority
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Period of licence
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Exercise of licensing functions
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Grant of licence subject to conditions
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Breach of licence condition
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Appeals
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Fees
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Part 2 Registration for the purposes of the section
+    - Introductory
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Registering authority
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Exercise of registration functions
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Appeals
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Fees
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Part 3 Supplementary
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Powers of entry, inspection and search: supplementary
+  - Safeguards etc. in connection with powers of entry conferred by warrant
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Duty to produce evidence of identity
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Power to take persons onto premises
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Duty to exercise power of entry at reasonable time
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Power to require assistance
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Power to take equipment onto premises
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Duty to leave premises secured
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Functions in connection with inspection and search
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Functions in connection with entry under section 19
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Offences
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+- SCHEDULE 3 Minor and consequential amendments
+  - Performing Animals (Regulation) Act 1925 (c. 38)
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Cinematograph Films (Animals) Act 1937 (c. 59)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Pet Animals Act 1951 (c. 35)
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Protection of Animals (Amendment) Act 1954 (c. 40)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Animal Boarding Establishments Act 1963 (c. 43)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Riding Establishments Act 1964 (c. 70)
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Breeding of Dogs Act 1973 (c. 60)
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Guard Dogs Act 1975 (c. 50)
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Dangerous Wild Animals Act 1976 (c. 38)
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Magistrates’ Courts Act 1980 (c. 43)
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Zoo Licensing Act 1981 (c. 37)
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+  - Animals (Scientific Procedures) Act 1986 (c. 14)
+    - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+  - Wild Mammals (Protection) Act 1996 (c. 3)
+    - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+  - Criminal Justice and Police Act 2001 (c. 16)
+    - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+- SCHEDULE 4 Repeals
