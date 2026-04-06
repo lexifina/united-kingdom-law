@@ -1,0 +1,218 @@
+# Airports Act 1986
+
+1986 c. 31. Enacted 1986-07-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 51 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1986/31
+
+Source: https://www.legislation.gov.uk/ukpga/1986/31/2026-04-06
+
+## Contents
+
+- Part I Transfer of Undertaking of British Airports Authority
+  - Preliminary
+    - [s. 1 Power to direct reorganisation of BAA’s undertaking prior to appointed day.](section/1.md)
+  - Dissolution of BAA and vesting of its property etc. in a successor company
+    - [s. 2 Dissolution of BAA and vesting of its property etc. in a successor company.](section/2.md)
+    - [s. 3 Cancellation of liabilities of BAA to the Secretary of State.](section/3.md)
+    - [s. 4 Initial Government holding in the successor company.](section/4.md)
+    - [s. 5 Government investment in securities of the successor company.](section/5.md)
+    - [s. 6 Exercise or functions through nominees.](section/6.md)
+    - [s. 7 Target investment limit for Government shareholding.](section/7.md)
+    - [s. 8 Financial structure of the successor company.](section/8.md)
+    - [s. 9 Temporary restrictions on successor company’s borrowings etc.](section/9.md)
+  - Supplementary
+    - [s. 10 ................................](section/10.md)
+    - [s. 11 Application of Trustee Investments Act 1961 in relation to investment in the successor company.](section/11.md)
+- Part II Transfer of Airport Undertakings of Local Authorities
+  - Preliminary
+    - [s. 12 Interpretation of Part II.](section/12.md)
+  - Transfer of airport undertakings of local authorities
+    - [s. 13 Transfer of airport undertakings of local authorities to companies owned by such authorities.](section/13.md)
+    - [s. 14 Airports to which s. 13 applies.](section/14.md)
+    - [s. 15 Transfer schemes.](section/15.md)
+  - Public airport companies
+    - [s. 16 Public airport companies and their controlling authorities.](section/16.md)
+    - [s. 17 Control over constitution and activities of public airport companies.](section/17.md)
+    - [s. 17A Additional activities of public airport companies](section/17A.md)
+    - [s. 18 Disabilities of directors of public airport companies.](section/18.md)
+    - [s. 19 Prohibition on employment by public airport company of officers etc. of controlling authority.](section/19.md)
+    - [s. 20 Powers of investment and disposal in relation to public airport companies.](section/20.md)
+    - [s. 21 Capital controls relating to investment in public airport companies by local authorities in England and Wales.](section/21.md)
+    - [s. 22 Other local authority capital controls in England and Wales.](section/22.md)
+    - [s. 23 Local authority capital controls in Scotland.](section/23.md)
+    - [s. 24 Provision of services for public airport companies.](section/24.md)
+    - [s. 25 Financial backing for establishment and operations of public airport companies.](section/25.md)
+  - Supplementary
+    - [s. 26 Avoidance of restrictions on transfer of securities of public airport companies.](section/26.md)
+    - [s. 27 Consents under s. 30 of the 1982 Act.](section/27.md)
+    - [s. 28 Compensation for loss of diminution of pension rights.](section/28.md)
+- Part III Regulation of Use of Airports, etc.
+  - [s. 29 Interpretation of Part III, etc.](section/29.md)
+  - [s. 30 Directions to airport operators in the interests of national security etc.](section/30.md)
+  - [s. 31 Traffic distribution rules.](section/31.md)
+  - [s. 32 Power to limit aircraft movements at certain airports.](section/32.md)
+  - [s. 33 Schemes for allocating capacity at airports.](section/33.md)
+  - [s. 34 Matters to be taken into account by CAA.](section/34.md)
+  - [s. 35 Regulation of availability of airports by reference to airport licences.](section/35.md)
+- Part IV Economic Regulation of Airports
+  - Preliminary
+    - [s. 36 Interpretation of Part IV, etc.](section/36.md)
+  - Permissions
+    - [s. 37 Airports subject to economic regulation; requirement for permission to levy airport charges.](section/37.md)
+    - [s. 38 Grant or refusal of permissions.](section/38.md)
+  - Conditions
+    - [s. 39 Imposition of conditions by CAA.](section/39.md)
+    - [s. 40 Mandatory conditions in case of designated airports.](section/40.md)
+    - [s. 40A Designation of certain regulated airports](section/40A.md)
+    - [s. 40B Market power examinations](section/40B.md)
+    - [s. 41 Discretionary conditions.](section/41.md)
+    - [s. 42 Discretionary conditions: supplementary provisions.](section/42.md)
+  - References to Commission
+    - [s. 43 References to Commission in relation to imposition or modification of conditions.](section/43.md)
+    - [s. 44 Supplementary provisions relating to references.](section/44.md)
+    - [s. 44A References under section 43: time limits](section/44A.md)
+    - [s. 44B References under section 43: powers of investigation](section/44B.md)
+    - [s. 45 Reports on references.](section/45.md)
+    - [s. 46 Imposition or modification of conditions following Commission’s report.](section/46.md)
+    - [s. 47 Charges to be paid by airport operators in respect of Commission’s expenses.](section/47.md)
+  - Enforcement of conditions
+    - [s. 48 Breach of conditions other than accounts conditions: complaints and compliance orders.](section/48.md)
+    - [s. 49 Validity and effect of compliance orders.](section/49.md)
+    - [s. 50 Breach of accounts conditions: criminal penalties etc.](section/50.md)
+  - Supplementary
+    - [s. 51 Supplementary provisions relating to conditions.](section/51.md)
+    - [s. 52 Special provisions relating to groups of airports.](section/52.md)
+    - [s. 53 Functions in relation to permissions and conditions initially exercisable by Secretary of State.](section/53.md)
+    - [s. 54 Orders under the 1973 Act or 1980 Act modifying or revoking conditions.](section/54.md)
+    - [s. 55 Application of Part IV to associated companies of airport operators.](section/55.md)
+    - [s. 56 Co-ordination of exercise of functions by CAA and Director General of Fair Trading.](section/56.md)
+- Part V Status of Certain Airport Operators as Statutory Undertakers, etc.
+  - [s. 57 Scope of Part 5](section/57.md)
+  - [s. 57A Scope of Part 5](section/57A.md)
+  - [s. 58 Application of enactments relating to statutory undertakings.](section/58.md)
+  - [s. 59 Acquisition of land and rights over land.](section/59.md)
+  - [s. 60 Disposal of compulsorily acquired land.](section/60.md)
+  - [s. 61 Compensation in respect of planning decisions relating to safety of airports etc.](section/61.md)
+  - [s. 62 Provisions as to electronic communications apparatus.](section/62.md)
+- Part VI Miscellaneous and Supplementary
+  - Byelaws
+    - [s. 63 Airport byelaws.](section/63.md)
+    - [s. 64 Byelaws: penalties and power to revoke in certain cases.](section/64.md)
+  - Other provisions relating to airports
+    - [s. 65 Control of road traffic at designated airports.](section/65.md)
+    - [s. 66 Functions of operators of designated airports as respects abandoned vehicles etc..](section/66.md)
+    - [s. 67 Provision of special accommodation at airports.](section/67.md)
+    - [s. 68 Monitoring of aircraft movements.](section/68.md)
+    - [s. 69 Duty of CAA with respect to implementation of recommendations concerning airport capacity.](section/69.md)
+    - [s. 70 Extension of Shops (Airports) Act 1962.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+  - Constitution of CAA
+    - [s. 72 Increase in maximum number of members of CAA.](section/72.md)
+  - Supplementary
+    - [s. 73 Furnishing of information etc. to CAA.](section/73.md)
+    - [s. 74 Restriction on disclosure of information.](section/74.md)
+    - [s. 75 Supplementary provisions relating to transfer schemes.](section/75.md)
+    - [s. 76 Stamp duty.](section/76.md)
+    - [s. 76A Stamp duty land tax](section/76A.md)
+    - [s. 77 Corporation Tax.](section/77.md)
+    - [s. 78 Offences by bodies corporate.](section/78.md)
+    - [s. 79 Orders and regulations.](section/79.md)
+    - [s. 80 Directions etc.](section/80.md)
+    - [s. 81 Financial provisions.](section/81.md)
+    - [s. 82 General interpretation.](section/82.md)
+    - [s. 83 Amendments, transitional provisions and repeals.](section/83.md)
+    - [s. 84 Application of provisions of Act to certain overseas territories.](section/84.md)
+    - [s. 85 Short title, commencement and extent.](section/85.md)
+- SCHEDULE 1 Application of part iv to Associated Companies of Airport Operators
+  - Preliminary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Section 39
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Section 42
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Section 43
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Section 44
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Section 45
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Section 48
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Section 49
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Section 50
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Section 51
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Section 54
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+- SCHEDULE 2 Application of Enactments Relating to Statutory Undertakers etc.
+  - General application of enactments
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Application of particular enactments
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Airport Byelaws made by Persons other than the Secretary of State
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+- SCHEDULE 4 Consequential Amendments
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Town and Country Planning (Scotland) Act 1972 (c. 52)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Fair Trading Act 1973 (c. 41)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Consumer Credit Act 1974 (c. 39)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Competition Act 1980 (c. 21)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Civil Aviation Act 1982 (c. 16)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Aviation Security Act 1982 (c. 36)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - Local Government Act 1985 (c. 51)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+- SCHEDULE 5 Transitional Provisions
+  - Supplementary provisions as to vesting of property etc. of BAA
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Financial provisions
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Final statements of accounts etc.
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+  - Compulsory purchase orders
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+  - Byelaws and regulations relating to airports
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+  - Control of road traffic
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+  - Abandoned vehicles
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+  - Cargo areas
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+  - Extension of Shops (Airports) Act 1962
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+- SCHEDULE 6 Repeals
+  - Part I Repeals Coming into Force on the Appointed Day
+  - Part II Repeals Coming into Force on a Date Appointed Under Section 85(5)
