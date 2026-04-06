@@ -1,0 +1,2428 @@
+# Communications Act 2003
+
+2003 c. 21. Enacted 2003-07-17.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 105 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2003/21
+
+Source: https://www.legislation.gov.uk/ukpga/2003/21/2026-04-06
+
+## Contents
+
+- Part 1 Functions of OFCOM
+  - Transferred and assigned functions
+    - [s. 1 Functions and general powers of OFCOM](section/1.md)
+    - [s. 2 Transfer of functions of pre-commencement regulators](section/2.md)
+  - Strategic priorities
+    - [s. 2A Statement of strategic priorities](section/2A.md)
+    - [s. 2B Duties of OFCOM in relation to strategic priorities](section/2B.md)
+    - [s. 2C Consultation and parliamentary procedure](section/2C.md)
+  - General duties in carrying out functions
+    - [s. 3 General duties of OFCOM](section/3.md)
+    - [s. 4 Duties in relation to certain regulatory functions](section/4.md)
+    - [s. 4A ... European Commission recommendations for harmonisation](section/4A.md)
+    - [s. 5 Directions in respect of networks and spectrum functions](section/5.md)
+    - [s. 6 Duties to review regulatory burdens](section/6.md)
+    - [s. 7 Duty to carry out impact assessments](section/7.md)
+    - [s. 8 Duty to publish and meet promptness standards](section/8.md)
+    - [s. 9 Secretary of State’s powers in relation to promptness standards](section/9.md)
+  - Accessible domestic communications apparatus
+    - [s. 10 Duty to encourage availability of easily usable apparatus](section/10.md)
+  - Media literacy
+    - [s. 11 Duties to promote media literacy](section/11.md)
+    - [s. 11A Regulated services: media literacy strategy and media literacy statement](section/11A.md)
+  - OFCOM’s Content Board
+    - [s. 12 Duty to establish and maintain Content Board](section/12.md)
+    - [s. 13 Functions of the Content Board](section/13.md)
+  - Functions for the protection of consumers
+    - [s. 14 Consumer research](section/14.md)
+    - [s. 15 Duty to publish and take account of research](section/15.md)
+    - [s. 16 Consumer consultation](section/16.md)
+    - [s. 17 Membership etc. of the Consumer Panel](section/17.md)
+    - [s. 18 Committees and other procedure of the Consumer Panel](section/18.md)
+    - [s. 19 Power to amend remit of Consumer Panel](section/19.md)
+  - Advisory committees
+    - [s. 20 Advisory committees for different parts of the United Kingdom](section/20.md)
+    - [s. 21 Advisory committee on elderly and disabled persons](section/21.md)
+  - International matters
+    - [s. 22 Representation on international and other bodies](section/22.md)
+    - [s. 23 Directions for international purposes in respect of broadcasting functions](section/23.md)
+  - General information functions
+    - [s. 24 Provision of information to the Secretary of State](section/24.md)
+    - [s. 24A Provision of information before publication](section/24A.md)
+    - [s. 24B Provision of information to assist in formulation of policy](section/24B.md)
+    - [s. 25 Information requested by EU bodies](section/25.md)
+    - [s. 26 Publication of information and advice for consumers etc.](section/26.md)
+  - Employment in broadcasting
+    - [s. 27 Training and equality of opportunity](section/27.md)
+  - Charging
+    - [s. 28 General power to charge for services](section/28.md)
+    - [s. 28A International recognition of satellite frequency assignments: power to charge fees](section/28A.md)
+  - Guarantees
+    - [s. 29 Secretary of State guarantees for OFCOM borrowing](section/29.md)
+  - Provisions supplemental to transfer of functions
+    - [s. 30 Transfers of property etc. from pre-commencement regulators](section/30.md)
+    - [s. 31 Transitional functions and abolition of pre-commencement regulators](section/31.md)
+- Part 2 Networks, services and the radio spectrum
+  - Chapter 1 Electronic communications networks and services
+    - Preliminary
+      - [s. 32 Meaning of electronic communications networks and services](section/32.md)
+      - [s. 32A Meaning of number-based interpersonal communications service](section/32A.md)
+    - Notification by providers
+      - [s. 33 Advance notification to OFCOM](section/33.md)
+      - [s. 34 Designations and requirements for the purposes of s. 33](section/34.md)
+      - [s. 35 Notification of contraventions of s. 33](section/35.md)
+      - [s. 35A Penalties for contravention of section 33](section/35A.md)
+      - [s. 36 Confirmation decision for contravention of s. 33](section/36.md)
+      - [s. 37 Penalties for contravention of s. 33](section/37.md)
+    - Administrative charges imposed on providers
+      - [s. 38 Fixing of charges](section/38.md)
+      - [s. 39 Supplemental provision about fixing charges](section/39.md)
+      - [s. 40 Notification of non-payment of charges](section/40.md)
+      - [s. 41 Penalties for non-payment of charges](section/41.md)
+      - [s. 42 Suspending service provision for non-payment](section/42.md)
+      - [s. 43 Enforcement of directions under s. 42](section/43.md)
+    - Register of providers required to notify or to pay charges
+      - [s. 44 Duty of OFCOM to keep publicly accessible register](section/44.md)
+    - Conditions of entitlement to provide network or service etc.
+      - [s. 45 Power of OFCOM to set conditions](section/45.md)
+      - [s. 46 Persons to whom conditions may apply](section/46.md)
+      - [s. 47 Test for setting or modifying conditions](section/47.md)
+      - [s. 48 Procedure for setting, modifying and revoking conditions](section/48.md)
+      - [s. 48A Consultation for section 45 conditions](section/48A.md)
+      - [s. 48B EU consultation for section 45 conditions](section/48B.md)
+      - [s. 48C Delivery of copies of notifications etc. in respect of section 45 conditions](section/48C.md)
+      - [s. 49 Directions and approvals for the purposes of a s. 45 condition](section/49.md)
+      - [s. 49A Consultation for directions, approvals and consents](section/49A.md)
+      - [s. 49B EU consultation for directions, approvals and consents](section/49B.md)
+      - [s. 49C Delivery of copies of notifications etc. in respect of directions, approvals and consents](section/49C.md)
+      - [s. 50 Delivery of copies of notifications etc.](section/50.md)
+    - General conditions: subject-matter
+      - [s. 51 Matters to which general conditions may relate](section/51.md)
+    - General conditions: customer interests
+      - [s. 52 Conditions relating to customer interests](section/52.md)
+      - [s. 53 Approval of codes of practice for the purposes of s. 52](section/53.md)
+      - [s. 54 Approval of dispute procedures for the purposes of s. 52](section/54.md)
+      - [s. 55 Orders by OFCOM in the absence of conditions under s. 52](section/55.md)
+    - General conditions: telephone numbers
+      - [s. 56 The National Telephone Numbering Plan](section/56.md)
+      - [s. 56A Conditions for limitations on allocation of telephone numbers](section/56A.md)
+      - [s. 57 Conditions to secure access to telephone numbers](section/57.md)
+      - [s. 58 Conditions about allocation and adoption of numbers](section/58.md)
+      - [s. 59 Telephone numbering conditions binding non-providers](section/59.md)
+      - [s. 60 Modification of documents referred to in numbering conditions](section/60.md)
+      - [s. 61 Withdrawal of telephone number allocations](section/61.md)
+      - [s. 62 Numbering reorganisations](section/62.md)
+      - [s. 63 General duty as to telephone numbering functions](section/63.md)
+    - General conditions: must-carry obligations
+      - [s. 64 Must-carry obligations](section/64.md)
+    - Universal service conditions
+      - [s. 65 Obligations to be secured by universal service conditions](section/65.md)
+      - [s. 66 Designation of universal service providers](section/66.md)
+      - [s. 67 Subject-matter of universal service conditions](section/67.md)
+      - [s. 68 Tariffs etc. for universal services](section/68.md)
+      - [s. 69 Directories and directory enquiry facilities](section/69.md)
+      - [s. 70 Review of compliance costs: universal service conditions](section/70.md)
+      - [s. 71 Sharing of burden of universal service obligations](section/71.md)
+      - [s. 72 Report on sharing mechanism: universal service obligations](section/72.md)
+      - [s. 72A Review of universal service order](section/72A.md)
+      - [s. 72B Broadband download speeds: duty to give direction under section 72A](section/72B.md)
+    - Further duty to review tariffs
+      - [s. 72C Duty to review certain tariffs that are not universal service tariffs](section/72C.md)
+    - Social tariff conditions
+      - [s. 72D Social tariff conditions: procedure](section/72D.md)
+      - [s. 72E Consultation by OFCOM on proposed recommendation](section/72E.md)
+      - [s. 72F Social tariff conditions: general](section/72F.md)
+      - [s. 72G Review of compliance costs: social tariff conditions](section/72G.md)
+      - [s. 72H Sharing of burden of social tariff obligations](section/72H.md)
+      - [s. 72I Report on sharing mechanism: social tariff obligations](section/72I.md)
+    - Access-related conditions
+      - [s. 73 Permitted subject-matter of access-related conditions](section/73.md)
+      - [s. 74 Specific types of access-related conditions](section/74.md)
+      - [s. 74A Access-related conditions in certain cases involving use of radio spectrum](section/74A.md)
+      - [s. 74B Review of access-related conditions](section/74B.md)
+      - [s. 75 Conditional access systems and access to digital services](section/75.md)
+      - [s. 76 Modification and revocation of conditions imposed under s. 75](section/76.md)
+      - [s. 76A Information about electronic communications apparatus available for shared use](section/76A.md)
+    - Privileged supplier conditions
+      - [s. 77 Imposition of privileged supplier conditions](section/77.md)
+    - SMP conditions: procedure
+      - [s. 78 Circumstances required for the setting of SMP conditions](section/78.md)
+      - [s. 79 Market power determinations](section/79.md)
+      - [s. 80 Proposals for identifying markets and for market power determinations](section/80.md)
+      - [s. 80A Consultation for market identifications and market power determinations](section/80A.md)
+      - [s. 80B EU consultation for market identifications and market power determinations](section/80B.md)
+      - [s. 81 Delivery of copies of notifications under sections 79 and 80A](section/81.md)
+      - [s. 82 European Commission’s powers in respect of proposals](section/82.md)
+      - [s. 83 Special rules for transnational markets](section/83.md)
+      - [s. 84 Review of services market identifications and determinations](section/84.md)
+      - [s. 84A Timing of services market identifications and determinations](section/84A.md)
+      - [s. 85 Review of apparatus market identifications and determinations](section/85.md)
+      - [s. 86 Cases where review required](section/86.md)
+    - SMP services conditions: subject-matter
+      - [s. 87 Conditions about network access etc.](section/87.md)
+      - [s. 88 Conditions about network access pricing etc.](section/88.md)
+      - [s. 89 Conditions about network access in exceptional cases](section/89.md)
+      - [s. 89A Functional separation](section/89A.md)
+      - [s. 89B Functional separation conditions: matters to be considered by OFCOM](section/89B.md)
+      - [s. 89C Obligation to notify OFCOM of voluntary separation](section/89C.md)
+      - [s. 90 Conditions about carrier selection and pre-selection](section/90.md)
+      - [s. 91 Conditions about regulation of services etc. for end-users](section/91.md)
+    - SMP services conditions: wholesale-only undertakings
+      - [s. 91A SMP services conditions: wholesale-only undertakings](section/91A.md)
+      - [s. 92 Conditions about leased lines](section/92.md)
+    - SMP apparatus conditions: subject-matter
+      - [s. 93 Conditions about apparatus supply](section/93.md)
+    - Commitments by network provider
+      - [s. 93A Notification to OFCOM of proposed commitments](section/93A.md)
+      - [s. 93B Notification of proposed commitments relating to very high capacity network](section/93B.md)
+      - [s. 93C Giving effect to commitments decision](section/93C.md)
+      - [s. 93D Modification of commitments](section/93D.md)
+    - Enforcement of conditions
+      - [s. 94 Notification of contravention of SMP apparatus conditions](section/94.md)
+      - [s. 95 Enforcement notification for contravention of conditions](section/95.md)
+      - [s. 96 Penalties for contravention of conditions](section/96.md)
+      - [s. 96A Notification of contravention of condition other than SMP apparatus condition](section/96A.md)
+      - [s. 96B Penalties for contravention of conditions](section/96B.md)
+      - [s. 96C Enforcement of notification under section 96A](section/96C.md)
+      - [s. 97 Amount of penalty under s. 96 or 96A](section/97.md)
+      - [s. 98 Power to deal with urgent cases](section/98.md)
+      - [s. 99 Confirmation of directions under s. 98](section/99.md)
+      - [s. 100 Suspending service provision for contraventions of conditions](section/100.md)
+      - [s. 100A Suspending service provision for breach of SMP services condition](section/100A.md)
+      - [s. 101 Suspending apparatus supply for contraventions of conditions](section/101.md)
+      - [s. 102 Procedure for directions under ss. 100 and 101](section/102.md)
+      - [s. 103 Enforcement of directions under ss. 98, 100, 100A and 101](section/103.md)
+      - [s. 104 Civil liability for breach of conditions or confirmation decision](section/104.md)
+    - OFCOM’s duty to intervene on network access issues
+      - [s. 105 Consideration and determination of network access questions](section/105.md)
+    - Security of public electronic communications networks and services
+      - [s. 105A Duty to take security measures](section/105A.md)
+      - [s. 105B Duty to take specified security measures](section/105B.md)
+      - [s. 105C Duty to take measures in response to security compromises](section/105C.md)
+      - [s. 105D Duty to take specified measures in response to security compromise](section/105D.md)
+      - [s. 105E Codes of practice about security measures etc](section/105E.md)
+      - [s. 105F Issuing codes of practice about security measures](section/105F.md)
+      - [s. 105G Withdrawing codes of practice about security measures](section/105G.md)
+      - [s. 105H Effects of codes of practice about security measures](section/105H.md)
+      - [s. 105I Duty to explain failure to act in accordance with code of practice](section/105I.md)
+      - [s. 105J Duty to inform users of risk of security compromise](section/105J.md)
+      - [s. 105K Duty to inform OFCOM of security compromise](section/105K.md)
+      - [s. 105L Powers of OFCOM to inform others of security compromise](section/105L.md)
+      - [s. 105M General duty of OFCOM to ensure compliance with security duties](section/105M.md)
+      - [s. 105N Power of OFCOM to assess compliance with security duties](section/105N.md)
+      - [s. 105O Power of OFCOM to give assessment notices](section/105O.md)
+      - [s. 105P Assessment notices: urgency statements](section/105P.md)
+      - [s. 105Q Assessment notices: applications in respect of urgency statements](section/105Q.md)
+      - [s. 105R Assessment notices: information about entering premises](section/105R.md)
+      - [s. 105S Enforcement of security duties](section/105S.md)
+      - [s. 105T Enforcement of security duties: amount of penalties](section/105T.md)
+      - [s. 105U Enforcement of security duties: proposal for interim steps](section/105U.md)
+      - [s. 105V Enforcement of security duties: direction to take interim steps](section/105V.md)
+      - [s. 105W Civil liability for breach of security duties](section/105W.md)
+      - [s. 105X Relationship between security duties and certain other duties etc](section/105X.md)
+      - [s. 105Y Statement of policy on ensuring compliance with security duties](section/105Y.md)
+      - [s. 105Z OFCOM reports on security](section/105Z.md)
+    - Security of public electronic communications networks and services: designated vendor directions
+      - [s. 105Z1 Designated vendor directions](section/105Z1.md)
+      - [s. 105Z2 Further provision about requirements](section/105Z2.md)
+      - [s. 105Z3 Consultation about designated vendor directions](section/105Z3.md)
+      - [s. 105Z4 Notice of designated vendor directions](section/105Z4.md)
+      - [s. 105Z5 Variation and revocation of designated vendor directions](section/105Z5.md)
+      - [s. 105Z6 Notice of variation and revocation of designated vendor directions](section/105Z6.md)
+      - [s. 105Z7 Designated vendor directions: plans for compliance](section/105Z7.md)
+      - [s. 105Z8 Designation notices](section/105Z8.md)
+      - [s. 105Z9 Further provision about designation notices](section/105Z9.md)
+      - [s. 105Z10 Variation and revocation of designation notices](section/105Z10.md)
+      - [s. 105Z11 Laying before Parliament](section/105Z11.md)
+      - [s. 105Z12 Monitoring of designated vendor directions](section/105Z12.md)
+      - [s. 105Z13 Reports made under monitoring directions](section/105Z13.md)
+      - [s. 105Z14 Power of OFCOM to give inspection notices](section/105Z14.md)
+      - [s. 105Z15 Inspection notices: further provision](section/105Z15.md)
+      - [s. 105Z16 Inspection notices: information about entering premises](section/105Z16.md)
+      - [s. 105Z17 Inspection notices: enforcement of compliance](section/105Z17.md)
+      - [s. 105Z18 Notification of contravention](section/105Z18.md)
+      - [s. 105Z19 Amount of penalty](section/105Z19.md)
+      - [s. 105Z20 Enforcement of notification](section/105Z20.md)
+      - [s. 105Z21 Enforcement of penalty](section/105Z21.md)
+      - [s. 105Z22 Urgent enforcement direction](section/105Z22.md)
+      - [s. 105Z23 Urgent enforcement direction: confirmation](section/105Z23.md)
+      - [s. 105Z24 Urgent enforcement direction: enforcement](section/105Z24.md)
+      - [s. 105Z25 Requirement not to disclose](section/105Z25.md)
+      - [s. 105Z26 Enforcement of requirement not to disclose](section/105Z26.md)
+      - [s. 105Z27 Power of Secretary of State to require information etc](section/105Z27.md)
+      - [s. 105Z28 Restrictions on imposing information requirements](section/105Z28.md)
+      - [s. 105Z29 Enforcement of information requirements etc](section/105Z29.md)
+    - Electronic communications code
+      - [s. 106 Application of the electronic communications code](section/106.md)
+      - [s. 107 Procedure for directions applying code](section/107.md)
+      - [s. 108 Register of persons in whose case code applies](section/108.md)
+      - [s. 109 Restrictions and conditions subject to which code applies](section/109.md)
+      - [s. 110 Enforcement of restrictions and conditions](section/110.md)
+      - [s. 110A Penalties for contravention of code restrictions](section/110A.md)
+      - [s. 111 Confirmation decision for contravention of code restrictions](section/111.md)
+      - [s. 111A Power to deal with urgent cases](section/111A.md)
+      - [s. 111B Confirmation of direction under section 111A](section/111B.md)
+      - [s. 112 Penalties for contravention of code restrictions](section/112.md)
+      - [s. 113 Suspension of application of code](section/113.md)
+      - [s. 114 Procedure for directions under s. 113](section/114.md)
+      - [s. 115 Modification and revocation of application of code](section/115.md)
+      - [s. 116 Notification of cessation by person to whom code applies](section/116.md)
+      - [s. 117 Transitional schemes on cessation of application of code](section/117.md)
+      - [s. 118 Compulsory acquisition of land etc.](section/118.md)
+      - [s. 119 Power to give assistance in relation to certain proceedings](section/119.md)
+    - Regulation of premium rate services
+      - [s. 120 Conditions regulating premium rate services](section/120.md)
+      - [s. 120A Procedure for setting, modifying and revoking premium rate services conditions](section/120A.md)
+      - [s. 121 Approval of code for premium rate services](section/121.md)
+      - [s. 122 Orders by OFCOM in the absence of a code under s. 121](section/122.md)
+      - [s. 123 Enforcement of s. 120 conditions](section/123.md)
+      - [s. 124 Suspending service provision for contraventions of s. 120 conditions](section/124.md)
+    - Online infringement of copyright: obligations of internet service providers
+      - [s. 124A Obligation to notify subscribers of copyright infringement reports](section/124A.md)
+      - [s. 124B Obligation to provide copyright infringement lists to copyright owners](section/124B.md)
+      - [s. 124C Approval of code about the initial obligations](section/124C.md)
+      - [s. 124D Initial obligations code by OFCOM in the absence of an approved code](section/124D.md)
+      - [s. 124E Contents of initial obligations code](section/124E.md)
+      - [s. 124F Progress reports](section/124F.md)
+      - [s. 124G Obligations to limit internet access: assessment and preparation](section/124G.md)
+      - [s. 124H Obligations to limit internet access](section/124H.md)
+      - [s. 124I Code by OFCOM about obligations to limit internet access](section/124I.md)
+      - [s. 124J Contents of code about obligations to limit internet access](section/124J.md)
+      - [s. 124K Subscriber appeals](section/124K.md)
+      - [s. 124L Enforcement of obligations](section/124L.md)
+      - [s. 124M Sharing of costs](section/124M.md)
+      - [s. 124N Interpretation](section/124N.md)
+    - Powers in relation to internet domain registries
+      - [s. 124O Notification of failure in relation to internet domain registry](section/124O.md)
+      - [s. 124P Appointment of manager of internet domain registry](section/124P.md)
+      - [s. 124Q Functions of manager etc](section/124Q.md)
+      - [s. 124R Application to court to alter constitution of internet domain registry](section/124R.md)
+    - Billing limits for mobile phones
+      - [s. 124S Mobile phone providers’ duty to enable billing limits to be applied](section/124S.md)
+      - [s. 124T Enforcement of duty to enable billing limits to be applied](section/124T.md)
+    - Rights of end-users in relation to contract termination
+      - [s. 124U Rights of end-users in relation to contract termination](section/124U.md)
+      - [s. 124V Further rights relating to bundled contracts](section/124V.md)
+      - [s. 124W Enforcement of obligations of providers under sections 124U and 124V](section/124W.md)
+    - Offences relating to networks and services
+      - [s. 125 Dishonestly obtaining electronic communications services](section/125.md)
+      - [s. 126 Possession or supply of apparatus etc. for contravening s. 125](section/126.md)
+      - [s. 127 Improper use of public electronic communications network](section/127.md)
+    - Persistent misuse of network or service
+      - [s. 128 Notification of misuse of networks and services](section/128.md)
+      - [s. 129 Enforcement notifications for stopping persistent misuse](section/129.md)
+      - [s. 130 Penalties for persistent misuse](section/130.md)
+      - [s. 131 Statement of policy on persistent misuse](section/131.md)
+    - Powers to deal with emergencies
+      - [s. 132 Powers to require suspension or restriction of a provider’s entitlement](section/132.md)
+      - [s. 133 Enforcement of directions under s. 132](section/133.md)
+    - Restrictions in leases and licences
+      - [s. 134 Restrictions in leases and licences](section/134.md)
+    - Reports on infrastructure etc
+      - [s. 134A OFCOM reports on infrastructure etc](section/134A.md)
+      - [s. 134AA Additional OFCOM reports on infrastructure etc](section/134AA.md)
+      - [s. 134AB Publication of information required for purpose of preparing reports](section/134AB.md)
+      - [s. 134AC Use of reports](section/134AC.md)
+      - [s. 134B Networks and services matters](section/134B.md)
+    - Reports on internet domain names
+      - [s. 134C OFCOM reports on internet domain names](section/134C.md)
+    - Comparative overviews
+      - [s. 134D Comparative overviews of quality and prices](section/134D.md)
+    - Information provisions
+      - [s. 135 Information required for purposes of certain OFCOM functions](section/135.md)
+      - [s. 136 Information required for related purposes](section/136.md)
+      - [s. 137 Restrictions on imposing information requirements](section/137.md)
+      - [s. 137A Information required from communications providers](section/137A.md)
+      - [s. 137B Section 137A: confidential matters](section/137B.md)
+      - [s. 138 Notification of contravention of information requirements](section/138.md)
+      - [s. 139 Penalties for contravention of information requirements](section/139.md)
+      - [s. 139ZA Higher penalties for certain contraventions](section/139ZA.md)
+      - [s. 139A Enforcement of notification under section 138](section/139A.md)
+      - [s. 139B Power to deal with urgent cases](section/139B.md)
+      - [s. 139C Confirmation of direction under section 139B](section/139C.md)
+      - [s. 140 Suspending service provision for information contraventions](section/140.md)
+      - [s. 141 Suspending apparatus supply for information contraventions](section/141.md)
+      - [s. 142 Procedure for directions under ss. 140 and 141](section/142.md)
+      - [s. 143 Enforcement of directions under ss. 140 and 141](section/143.md)
+      - [s. 144 Offences in connection with information requirements](section/144.md)
+      - [s. 145 Statement of policy on information gathering](section/145.md)
+      - [s. 146 Provision of information by OFCOM](section/146.md)
+      - [s. 146A Rights of third parties to use information without charge](section/146A.md)
+    - Abolition of telecommunications licensing etc.
+      - [s. 147 Repeal of provisions of Telecommunications Act 1984](section/147.md)
+    - Local authority powers in relation to networks and services
+      - [s. 148 Powers of local authorities in connection with networks](section/148.md)
+    - Grants for networks and services in Northern Ireland
+      - [s. 149 Grants by Department of Enterprise, Trade and Investment](section/149.md)
+      - [s. 150 Grants by district councils](section/150.md)
+    - Interpretation of Chapter 1
+      - [s. 150A Proposals of EU significance](section/150A.md)
+      - [s. 151 Interpretation of Chapter 1](section/151.md)
+  - Chapter 2 Spectrum use
+    - General functions relating to spectrum use
+      - [s. 152 General functions of OFCOM in relation to radio spectrum](section/152.md)
+      - [s. 153 United Kingdom Plan for Frequency Authorisation](section/153.md)
+      - [s. 154 Duties of OFCOM when carrying out spectrum functions](section/154.md)
+      - [s. 155 Advisory service in relation to interference](section/155.md)
+      - [s. 156 Directions with respect to the radio spectrum](section/156.md)
+      - [s. 157 Procedure for directions under s. 156](section/157.md)
+    - Reservation of spectrum for multiplex use
+      - [s. 158 Special duty in relation to television multiplexes](section/158.md)
+    - Recognised spectrum access
+      - [s. 159 Grant of recognised spectrum access](section/159.md)
+      - [s. 160 Effect of grant of recognised spectrum access](section/160.md)
+      - [s. 161 Charges in respect of grants of recognised spectrum access](section/161.md)
+      - [s. 162 Conversion into and from wireless telegraphy licences](section/162.md)
+    - Crown use of the radio spectrum
+      - [s. 163 Payments for use of radio spectrum by the Crown](section/163.md)
+    - Limitations and exemptions applied to spectrum use
+      - [s. 164 Limitations on authorised spectrum use](section/164.md)
+      - [s. 165 Terms etc. of wireless telegraphy licences](section/165.md)
+      - [s. 166 Exemption from need for wireless telegraphy licence](section/166.md)
+    - Award and transfer of licences
+      - [s. 167 Bidding for wireless telegraphy licences](section/167.md)
+      - [s. 168 Spectrum trading](section/168.md)
+    - Variation and revocation of licences
+      - [s. 169 Variation and revocation of wireless telegraphy licences](section/169.md)
+    - Wireless telegraphy register
+      - [s. 170 Wireless telegraphy register](section/170.md)
+    - Information requirements
+      - [s. 171 Information requirements in relation to wireless telegraphy licences](section/171.md)
+    - Criminal proceedings etc.
+      - [s. 172 Contraventions of conditions for use of wireless telegraphy](section/172.md)
+      - [s. 173 Meaning of “repeated contravention” in s. 172](section/173.md)
+      - [s. 174 Procedure for prosecutions of wireless telegraphy offences](section/174.md)
+      - [s. 175 Special procedure for contraventions by multiplex licence holders](section/175.md)
+      - [s. 176 Amount of penalty under s. 175](section/176.md)
+      - [s. 177 “Relevant amount of gross revenue” for the purposes of s. 176](section/177.md)
+      - [s. 178 Proceedings for an offence relating to apparatus use](section/178.md)
+      - [s. 179 Modification of penalties for certain wireless telegraphy offences](section/179.md)
+      - [s. 180 Fixed penalties for certain wireless telegraphy offences](section/180.md)
+      - [s. 181 Power of arrest](section/181.md)
+      - [s. 182 Forfeiture etc. of restricted apparatus](section/182.md)
+    - Construction of 1949 Act
+      - [s. 183 Modification of definition of “undue interference”](section/183.md)
+      - [s. 184 Modification of definition of “wireless telegraphy”](section/184.md)
+  - Chapter 3 Disputes and appeals
+    - Disputes
+      - [s. 185 Reference of disputes to OFCOM](section/185.md)
+      - [s. 185A Power of OFCOM to invite parties to refer dispute](section/185A.md)
+      - [s. 186 Action by OFCOM on dispute reference](section/186.md)
+      - [s. 187 Legal proceedings about referred disputes](section/187.md)
+      - [s. 188 Procedure for resolving disputes](section/188.md)
+      - [s. 189 Disputes involving other member States](section/189.md)
+      - [s. 190 Resolution of referred disputes](section/190.md)
+      - [s. 191 OFCOM’s power to require information in connection with dispute](section/191.md)
+    - Appeals
+      - [s. 192 Appeals against decisions by OFCOM, the Secretary of State etc.](section/192.md)
+      - [s. 193 Reference of price control matters to the CMA](section/193.md)
+      - [s. 193A Recovery of CMA’s costs in respect of price control references](section/193A.md)
+      - [s. 194 Composition of Competition Commission for price control references](section/194.md)
+      - [s. 194A Disposal of appeals under section 192 (other than against certain decisions of Secretary of State)](section/194A.md)
+      - [s. 195 Disposal of appeals under section 192 against certain decisions of Secretary of State](section/195.md)
+      - [s. 196 Appeals from the Tribunal](section/196.md)
+    - Interpretation of Chapter 3
+      - [s. 197 Interpretation of Chapter 3](section/197.md)
+- Part 3 Television and Radio Services ETC
+  - Chapter 1 The BBC, C4C, S4C and the Gaelic media service
+    - The BBC
+      - [s. 198 Functions of OFCOM in relation to the BBC](section/198.md)
+      - [s. 198ZA Penalties for failure to provide information](section/198ZA.md)
+    - C4C
+      - [s. 198A C4C’s functions in relation to media content](section/198A.md)
+      - [s. 198AA C4C’s duties in relation to commissioning programmes](section/198AA.md)
+      - [s. 198B Statements of media content policy and commissioning policy](section/198B.md)
+      - [s. 198C OFCOM reports on C4C’s media content duties and commissioning duties](section/198C.md)
+      - [s. 198D Directions in relation to C4C’s media content duties and commissioning duties](section/198D.md)
+      - [s. 199 Other Functions of C4C](section/199.md)
+      - [s. 200 Removal of members of C4C](section/200.md)
+      - [s. 201 Deficits and surpluses of C4C](section/201.md)
+      - [s. 202 Borrowing limit for C4C](section/202.md)
+    - S4C (Sianel Pedwar Cymru)
+      - [s. 203 Function of OFCOM in relation to S4C](section/203.md)
+      - [s. 204 Welsh Authority’s function of providing S4C and S4C Digital](section/204.md)
+      - [s. 204A S4C’s principal powers and public service remit](section/204A.md)
+      - [s. 204B Restrictions on S4C’s powers](section/204B.md)
+      - [s. 204C Publication of approvals under section 204B](section/204C.md)
+      - [s. 205 Powers to provide other services](section/205.md)
+      - [s. 206 Other activities of Welsh Authority](section/206.md)
+      - [s. 207 S4C finances](section/207.md)
+    - The Gaelic Media Service
+      - [s. 208 The Gaelic Media Service](section/208.md)
+      - [s. 209 Membership of the Service](section/209.md)
+      - [s. 210 Supplementary provisions about the Service](section/210.md)
+  - Chapter 2 Regulatory Structure for Independent Television Services
+    - Preliminary
+      - [s. 211 Regulation of independent television services](section/211.md)
+      - [s. 211A Regulated electronic programme guides](section/211A.md)
+      - [s. 211B Exempt foreign services](section/211B.md)
+      - [s. 212 Abolition of function of assigning television frequencies](section/212.md)
+      - [s. 213 Abolition of licensing for local cable systems](section/213.md)
+    - Channels 3 and 5
+      - [s. 214 Digital Channel 3 and Channel 5 licences](section/214.md)
+      - [s. 215 Replacement of existing Channel 3 and Channel 5 licences](section/215.md)
+      - [s. 216 Renewal of Channel 3 and 5 licences](section/216.md)
+      - [s. 216A Renewal of Channel 3 licences: determination of licence areas](section/216A.md)
+      - [s. 217 Financial terms of licence renewed under s. 216](section/217.md)
+    - ...
+      - [s. 218 Duty to secure the provision of a public teletext service](section/218.md)
+      - [s. 218A Duty to report on public teletext service](section/218A.md)
+      - [s. 219 Licensing of the public teletext service](section/219.md)
+      - [s. 220 Delegation of provision of public teletext service](section/220.md)
+      - [s. 221 Replacement of existing public teletext provider’s licence](section/221.md)
+      - [s. 222 Renewal of public teletext licence](section/222.md)
+      - [s. 223 Financial terms of licence renewed under s. 222](section/223.md)
+    - Meaning of initial expiry date
+      - [s. 224 Meaning of “initial expiry date”](section/224.md)
+    - Reviews relating to licensing of Channels 3 & 5 ...
+      - [s. 225 Application for review of financial terms of replacement licences](section/225.md)
+      - [s. 226 Application for review of financial terms in consequence of new obligations](section/226.md)
+      - [s. 227 Reviews under ss. 225 and 226](section/227.md)
+      - [s. 228 Giving effect to reviews under ss. 225 and 226](section/228.md)
+      - [s. 229 Report in anticipation of new licensing round](section/229.md)
+      - [s. 230 Orders suspending rights of renewal](section/230.md)
+    - Replacement of Channel 4 licence
+      - [s. 231 Replacement of Channel 4 licence](section/231.md)
+    - Television licensable content services
+      - [s. 232 Meaning of “television licensable content service”](section/232.md)
+      - [s. 233 Services that are not television licensable content services](section/233.md)
+      - [s. 234 Modification of ss. 232 and 233](section/234.md)
+      - [s. 235 Licensing of television licensable content services](section/235.md)
+      - [s. 236 Direction to licensee to take remedial action](section/236.md)
+      - [s. 237 Penalties for contravention of licence condition or direction](section/237.md)
+      - [s. 238 Revocation of television licensable content service licence](section/238.md)
+      - [s. 239 Action against licence holders who incite crime or disorder](section/239.md)
+      - [s. 240 Abolition of separate licences for certain television services](section/240.md)
+    - Television multiplex services
+      - [s. 241 Television multiplex services](section/241.md)
+      - [s. 242 Composition of services in television multiplexes](section/242.md)
+      - [s. 243 Powers where frequencies reserved for qualifying services](section/243.md)
+    - Local digital television services
+      - [s. 244 Local digital television services](section/244.md)
+  - Chapter 3 Regulatory Structure for Independent Radio Services
+    - Preliminary
+      - [s. 245 Regulation of independent radio services](section/245.md)
+      - [s. 246 Abolition of function of assigning radio frequencies](section/246.md)
+    - Radio licensable content services
+      - [s. 247 Meaning of “radio licensable content services”](section/247.md)
+      - [s. 248 Services that are not radio licensable content services](section/248.md)
+      - [s. 249 Modification of ss. 247 and 248](section/249.md)
+      - [s. 250 Licensing of radio licensable content services](section/250.md)
+      - [s. 251 Abolition of separate licences for certain sound services](section/251.md)
+    - Licence periods etc.
+      - [s. 252 Extension of licence periods](section/252.md)
+      - [s. 253 Extension and modification of existing licences](section/253.md)
+      - [s. 254 Renewal of local licences](section/254.md)
+      - [s. 255 Extension of special application procedure for local licences](section/255.md)
+    - Provision of simulcast radio services
+      - [s. 256 Definition of simulcast radio services](section/256.md)
+      - [s. 257 Promotion of simulcast radio services](section/257.md)
+    - Multiplexes broadcasting sound programmes
+      - [s. 258 Radio multiplex services](section/258.md)
+      - [s. 258A Small-scale radio multiplex services](section/258A.md)
+      - [s. 259 Composition of services in radio multiplexes](section/259.md)
+      - [s. 260 Digital sound services for inclusion in non-radio multiplexes](section/260.md)
+      - [s. 261 Renewal of radio multiplex licences](section/261.md)
+    - Community radio
+      - [s. 262 Community radio](section/262.md)
+  - Chapter 4 Regulatory provisions
+    - Application of regulatory regimes
+      - [s. 263 Application of regulatory regimes](section/263.md)
+    - The public service remit for television
+      - [s. 264 OFCOM reports on the fulfilment of the public service remit](section/264.md)
+      - [s. 264A OFCOM reports: wider review and reporting obligations](section/264A.md)
+      - [s. 265 Public service remits of licensed providers](section/265.md)
+      - [s. 266 Statements of programme policy](section/266.md)
+      - [s. 267 Changes of programme policy](section/267.md)
+      - [s. 268 Statements of service policy by the public teletext provider](section/268.md)
+      - [s. 269 Changes of service policy](section/269.md)
+      - [s. 270 Enforcement of public service remits](section/270.md)
+      - [s. 271 Power to amend public service remits](section/271.md)
+      - [s. 271A Remedying failure by C4C to perform media content duties](section/271A.md)
+    - Must-offer obligations etc. affecting public service television
+      - [s. 272 Must-offer obligations in relation to networks](section/272.md)
+      - [s. 273 Must-offer obligations in relation to satellite services](section/273.md)
+      - [s. 274 Securing reception of must-provide services in certain areas](section/274.md)
+      - [s. 275 Must-provide services for the purposes of s. 274](section/275.md)
+      - [s. 276 Co-operation with the public teletext provider](section/276.md)
+    - Programming quotas for public service television
+      - [s. 277 Programming quotas for independent productions](section/277.md)
+      - [s. 278 Programming quotas for original productions](section/278.md)
+      - [s. 278A Additional quotas for qualifying audiovisual content](section/278A.md)
+      - [s. 278B Quotas: meaning of “qualifying audiovisual content” etc](section/278B.md)
+      - [s. 278C Quotas: further provision about their fulfilment](section/278C.md)
+    - News provision etc. on public service television
+      - [s. 279 News and current affairs programmes](section/279.md)
+      - [s. 280 Appointed news providers for Channel 3](section/280.md)
+      - [s. 281 Disqualification from appointment as news provider](section/281.md)
+      - [s. 282 Power to repeal or modify Channel 3 news provider provisions](section/282.md)
+      - [s. 283 News providers for Channel 5](section/283.md)
+      - [s. 284 News provision on the public teletext service](section/284.md)
+    - Independent and regional productions and programmes for public service television
+      - [s. 285 Code relating to programme commissioning](section/285.md)
+      - [s. 286 Regional programme-making for Channels 3 and 5](section/286.md)
+      - [s. 287 Regional programmes on Channel 3](section/287.md)
+      - [s. 288 Regional programme-making for Channel 4](section/288.md)
+      - [s. 289 Regional matters in the public teletext service](section/289.md)
+    - Provision of children’s programmes
+      - [s. 289A Provision of children’s programmes](section/289A.md)
+    - Networking arrangements for Channel 3
+      - [s. 290 Proposals for arrangements](section/290.md)
+      - [s. 291 Obligation as to making and continuance of approved arrangements](section/291.md)
+      - [s. 292 OFCOM’s power to impose arrangements](section/292.md)
+      - [s. 293 Review of approved networking arrangements etc.](section/293.md)
+      - [s. 294 Supplemental provision about networking arrangements](section/294.md)
+    - Special obligations for Channel 4
+      - [s. 295 Involvement of C4 Corporation in programme-making](section/295.md)
+      - [s. 296 Schools programmes on Channel 4](section/296.md)
+      - [s. 297 Channel 4 contribution towards national television archive](section/297.md)
+    - ...
+      - [s. 298 Conditions prohibiting interference with other services](section/298.md)
+    - Sporting and other events of national interest
+      - [s. 299 Categorisation of listed events](section/299.md)
+      - [s. 300 Effects of categorisation of listed events](section/300.md)
+      - [s. 301 Code relating to listed events](section/301.md)
+      - [s. 302 Regulations about coverage of listed events](section/302.md)
+    - Television services for people with disabilities
+      - [s. 303 Code relating to provision for people with disabilities](section/303.md)
+      - [s. 304 Procedure for issuing and revising code under s. 303](section/304.md)
+      - [s. 305 Meaning of “relevant date” in s. 303](section/305.md)
+      - [s. 306 Power to modify targets in s. 303](section/306.md)
+      - [s. 307 Observance of code under s. 303](section/307.md)
+      - [s. 307A Disabled people: point of contact](section/307A.md)
+      - [s. 308 Assistance for the visually impaired with the public teletext service](section/308.md)
+    - Programming quotas for digital television programme services
+      - [s. 309 Quotas for independent programmes](section/309.md)
+    - Regulation of electronic programme guides
+      - [s. 310 Code of practice for electronic programme guides](section/310.md)
+      - [s. 311 Conditions to comply with code under s. 310](section/311.md)
+      - [s. 311A Report on electronic programme guides and public service channels](section/311A.md)
+    - Character and coverage of radio services
+      - [s. 312 Character and coverage of sound broadcasting services](section/312.md)
+      - [s. 313 Consultation about change of character of local services](section/313.md)
+      - [s. 314 Local news and information in local sound broadcasting services](section/314.md)
+      - [s. 315 Variations of radio multiplex licences affecting service characteristics](section/315.md)
+      - [s. 315A Local news and information in local digital radio services](section/315A.md)
+    - Competition between licensed providers etc.
+      - [s. 316 Conditions relating to competition matters](section/316.md)
+      - [s. 317 Exercise of Broadcasting Act powers for a competition purpose](section/317.md)
+      - [s. 318 Review of powers exercised for competition purposes](section/318.md)
+    - Programme and fairness standards for television and radio
+      - [s. 319 OFCOM’s standards code](section/319.md)
+      - [s. 320 Special impartiality requirements](section/320.md)
+      - [s. 321 Objectives for advertisements, sponsorship and product placement](section/321.md)
+      - [s. 321A Objectives for advertisements: less healthy food and drink](section/321A.md)
+      - [s. 322 Supplementary powers relating to advertising](section/322.md)
+      - [s. 323 Modification of matters to be taken into account under s. 319](section/323.md)
+      - [s. 324 Setting and publication of standards](section/324.md)
+      - [s. 325 Observance of standards code](section/325.md)
+      - [s. 326 Duty to observe fairness code](section/326.md)
+      - [s. 327 Standards with respect to fairness](section/327.md)
+      - [s. 328 Duty to publicise OFCOM’s functions in relation to complaints](section/328.md)
+    - Power to proscribe unacceptable foreign television and radio services
+      - [s. 329 Proscription orders](section/329.md)
+      - [s. 330 Effect of proscription order](section/330.md)
+      - [s. 331 Notification for enforcing proscription](section/331.md)
+      - [s. 332 Penalties for contravention of notification under s. 331](section/332.md)
+    - Party political broadcasts on television and radio
+      - [s. 333 Party political broadcasts](section/333.md)
+    - Monitoring of programmes
+      - [s. 334 Retention and production of recordings](section/334.md)
+    - International obligations
+      - [s. 335 Conditions securing compliance with international obligations](section/335.md)
+    - Co-operation with other Member States and the European Commission
+      - [s. 335A Co-operation with other parties to European Convention on Transfrontier Television](section/335A.md)
+      - [s. 335B Maintenance of list of providers](section/335B.md)
+    - Government requirements for licensed services
+      - [s. 336 Government requirements for licensed services](section/336.md)
+    - Equal opportunities and training
+      - [s. 337 Promotion of equal opportunities and training](section/337.md)
+    - Corresponding rules for the BBC and S4C
+      - [s. 338 Corresponding rules for the BBC and S4C](section/338.md)
+    - Information relating to certain OFCOM functions
+      - [s. 338A Power to require information](section/338A.md)
+      - [s. 338B Penalties for failure to provide information](section/338B.md)
+    - Enforcement against S4C
+      - [s. 339 Review of fulfilment by S4C of public service remit](section/339.md)
+      - [s. 340 Directions to S4C to take remedial action](section/340.md)
+      - [s. 341 Imposition of penalties on S4C](section/341.md)
+      - [s. 342 Contraventions recorded in Welsh Authority’s annual report](section/342.md)
+      - [s. 343 Provision of information by S4C](section/343.md)
+    - Enforcement of licence conditions
+      - [s. 344 Transmission of statement of findings](section/344.md)
+      - [s. 345 Financial penalties imposable on licence holders](section/345.md)
+      - [s. 346 Recovery of fees and penalties](section/346.md)
+    - Broadcasting Act licence fees
+      - [s. 347 Statement of charging principles](section/347.md)
+  - Chapter 5 Media ownership and control
+    - Restrictions on licence holders
+      - [s. 348 Modification of disqualification provisions](section/348.md)
+      - [s. 349 Licence holding by local authorities](section/349.md)
+      - [s. 350 Relaxation of licence-holding restrictions](section/350.md)
+    - Changes of control
+      - [s. 351 Changes of control of Channel 3 services](section/351.md)
+      - [s. 352 Action following review under s. 351](section/352.md)
+      - [s. 353 Changes of control of Channel 5](section/353.md)
+      - [s. 354 Action following review under s. 353](section/354.md)
+      - [s. 355 Variation of local licence following change of control](section/355.md)
+      - [s. 356 Action following review under s. 355](section/356.md)
+    - Meaning of control
+      - [s. 357 Meaning of “control”](section/357.md)
+  - Chapter 6 Other provisions about television and radio services
+    - Annual report on television and radio
+      - [s. 358 Annual factual and statistical report](section/358.md)
+    - Community radio and local digital television
+      - [s. 359 Grants to providers](section/359.md)
+    - Financial assistance for radio
+      - [s. 359A Power of the Secretary of State to give financial assistance for radio](section/359A.md)
+    - Supplemental provisions of Part 3
+      - [s. 360 Amendments of the 1990 and 1996 Acts](section/360.md)
+      - [s. 361 Meaning of “available for reception by members of the public”](section/361.md)
+      - [s. 362 Interpretation of Part 3](section/362.md)
+- Part 3A Prominence on television selection services
+  - Designated internet programme services
+    - [s. 362AA Designation of internet programme services](section/362AA.md)
+    - [s. 362AB Revocation of designation](section/362AB.md)
+    - [s. 362AC Statement relating to designation functions](section/362AC.md)
+    - [s. 362AD Notifications in relation to designated internet programme services](section/362AD.md)
+  - Regulated television selection services
+    - [s. 362AE Meaning of “television selection service”](section/362AE.md)
+    - [s. 362AF Meaning of “regulated television selection service”](section/362AF.md)
+    - [s. 362AG Advice from OFCOM](section/362AG.md)
+  - Notification by providers of television selection services
+    - [s. 362AH Notification by providers of television selection services](section/362AH.md)
+  - Lists of services
+    - [s. 362AI Lists of services](section/362AI.md)
+  - Must-offer and must-carry obligations
+    - [s. 362AJ Must-offer obligations in the case of designated internet programme services](section/362AJ.md)
+    - [s. 362AK Must-carry obligations](section/362AK.md)
+    - [s. 362AL Guidance as regards agreement objectives](section/362AL.md)
+    - [s. 362AM Meaning of “the agreement objectives”](section/362AM.md)
+  - Duties relating to a designated internet programme service
+    - [s. 362AN Duties relating to a designated internet programme service](section/362AN.md)
+  - Duties relating to a regulated television selection service
+    - [s. 362AO Duties relating to a regulated television selection service](section/362AO.md)
+    - [s. 362AP Code of practice](section/362AP.md)
+    - [s. 362AQ Effects of the code of practice](section/362AQ.md)
+    - [s. 362AR Issuing a code of practice](section/362AR.md)
+  - Power to require information
+    - [s. 362AS Power to require information](section/362AS.md)
+  - References of disputes to OFCOM
+    - [s. 362AT References of disputes to OFCOM](section/362AT.md)
+    - [s. 362AU Action by OFCOM on reference of dispute](section/362AU.md)
+    - [s. 362AV Interim measures](section/362AV.md)
+    - [s. 362AW Procedure for resolving disputes](section/362AW.md)
+    - [s. 362AX Resolution of referred disputes](section/362AX.md)
+    - [s. 362AY Effect of referrals on legal proceedings](section/362AY.md)
+  - Enforcement
+    - [s. 362AZ Provisional notices of contravention](section/362AZ.md)
+    - [s. 362AZ1 Confirmation decisions: general](section/362AZ1.md)
+    - [s. 362AZ2 Confirmation decisions: steps](section/362AZ2.md)
+    - [s. 362AZ3 Confirmation decisions: penalties](section/362AZ3.md)
+    - [s. 362AZ4 Penalty for failure to comply with confirmation decisions](section/362AZ4.md)
+    - [s. 362AZ5 Enforcement: guidance](section/362AZ5.md)
+  - Supplemental provisions of Part 3A
+    - [s. 362AZ6 Fees](section/362AZ6.md)
+    - [s. 362AZ7 Non-payment of fee](section/362AZ7.md)
+    - [s. 362AZ8 Information to be included in a notice under section 362AZ7](section/362AZ8.md)
+    - [s. 362AZ9 Monitoring role for OFCOM](section/362AZ9.md)
+    - [s. 362AZ10 Notices](section/362AZ10.md)
+    - [s. 362AZ11 Application of Part 3A](section/362AZ11.md)
+    - [s. 362AZ12 Interpretation of Part 3A](section/362AZ12.md)
+- Part 3B Regulation of radio selection services
+  - Designated radio selection services
+    - [s. 362BA Meaning of “radio selection service”](section/362BA.md)
+    - [s. 362BB Meaning of “designated radio selection service”](section/362BB.md)
+    - [s. 362BC Advice from OFCOM](section/362BC.md)
+    - [s. 362BD Revocation of designation of radio selection service](section/362BD.md)
+    - [s. 362BE List of designated radio selection services etc](section/362BE.md)
+  - Relevant internet radio services
+    - [s. 362BF Meaning of “internet radio service”](section/362BF.md)
+    - [s. 362BG Meaning of “relevant internet radio service”](section/362BG.md)
+    - [s. 362BH Sections 362BF and 362BG: power to amend](section/362BH.md)
+  - Regulation of radio selection services
+    - [s. 362BI Access to relevant internet radio services](section/362BI.md)
+    - [s. 362BJ Further provision about access to relevant internet radio services](section/362BJ.md)
+    - [s. 362BK Code of practice](section/362BK.md)
+    - [s. 362BL Effects of the code of practice](section/362BL.md)
+    - [s. 362BM Issuing a code of practice](section/362BM.md)
+    - [s. 362BN Complaints procedures](section/362BN.md)
+  - Modification of regulation of radio selection services
+    - [s. 362BO Power to modify regulation](section/362BO.md)
+    - [s. 362BP Review by OFCOM](section/362BP.md)
+  - Power to require information
+    - [s. 362BQ Power to require information](section/362BQ.md)
+  - Enforcement
+    - [s. 362BR Provisional notices of contravention](section/362BR.md)
+    - [s. 362BS Confirmation decisions: general](section/362BS.md)
+    - [s. 362BT Confirmation decisions: steps](section/362BT.md)
+    - [s. 362BU Confirmation decisions: penalties](section/362BU.md)
+    - [s. 362BV Penalty for failure to comply with confirmation decision](section/362BV.md)
+    - [s. 362BW Enforcement: guidance](section/362BW.md)
+  - Supplemental provisions of Part 3B
+    - [s. 362BX Fees](section/362BX.md)
+    - [s. 362BY Non-payment of fee](section/362BY.md)
+    - [s. 362BZ Information to be included in a notice under section 362BY](section/362BZ.md)
+    - [s. 362BZ1 Monitoring role for OFCOM](section/362BZ1.md)
+    - [s. 362BZ2 Notices](section/362BZ2.md)
+    - [s. 362BZ3 Application of Part 3B](section/362BZ3.md)
+    - [s. 362BZ4 Interpretation of Part 3B](section/362BZ4.md)
+- Part 4 Licensing of TV reception
+  - [s. 363 Licence required for use of TV receiver](section/363.md)
+  - [s. 364 TV licences](section/364.md)
+  - [s. 365 TV licence fees](section/365.md)
+  - [s. 365A TV licence fee concessions by reference to age](section/365A.md)
+  - [s. 366 Powers to enforce TV licensing](section/366.md)
+  - [s. 367 Interpretation of provisions about dealer notification](section/367.md)
+  - [s. 368 Meanings of “television receiver” and “use”](section/368.md)
+- PART 4A ON-DEMAND PROGRAMME SERVICES
+  - Chapter 1 Introductory Provisions
+    - Preliminary
+      - [s. 368ZA Audiovisual programmes](section/368ZA.md)
+      - [s. 368A Meaning of “on-demand programme service”](section/368A.md)
+      - [s. 368AA Meaning of non-UK on-demand programme service](section/368AA.md)
+      - [s. 368AB Overview of Part 4A](section/368AB.md)
+      - [s. 368B The appropriate regulatory authority](section/368B.md)
+  - Chapter 2 Regulation of on-demand programme services
+    - List of providers
+      - [s. 368BZA Maintenance of list of providers](section/368BZA.md)
+    - Notification by providers
+      - [s. 368BA Advance notification to appropriate regulatory authority](section/368BA.md)
+      - [s. 368BB Enforcement of section 368BA](section/368BB.md)
+    - ...
+      - [s. 368BC Accessibility for people with disabilities](section/368BC.md)
+      - [s. 368BD Enforcement of regulations under section 368BC](section/368BD.md)
+    - Duties of the appropriate regulatory authority
+      - [s. 368C Duties of the appropriate regulatory authority](section/368C.md)
+      - [s. 368CA Code on accessibility for people with disabilities](section/368CA.md)
+    - Duties of service providers
+      - [s. 368CB Quota for European works](section/368CB.md)
+      - [s. 368D Duties of service providers](section/368D.md)
+      - [s. 368E Harmful material](section/368E.md)
+      - [s. 368F Advertising](section/368F.md)
+      - [s. 368FA Advertising: less healthy food and drink](section/368FA.md)
+      - [s. 368G Sponsorship](section/368G.md)
+      - [s. 368H Prohibition of product placement and exceptions](section/368H.md)
+  - Chapter 3 Regulation of Tier 1 services
+    - Meaning of Tier 1 service
+      - [s. 368HA Meaning of Tier 1 service](section/368HA.md)
+      - [s. 368HB Power to specify Tier 1 services etc](section/368HB.md)
+    - Duties relating to notification etc
+      - [s. 368HC Notification to OFCOM](section/368HC.md)
+      - [s. 368HD Lists of Tier 1 providers](section/368HD.md)
+    - Application etc of Chapter 2 to certain Tier 1 services
+      - [s. 368HE Application etc of Chapter 2 to certain Tier 1 services](section/368HE.md)
+    - Standards code for Tier 1 services
+      - [s. 368HF Standards code for Tier 1 services](section/368HF.md)
+      - [s. 368HG Tier 1 standards code: special impartiality requirements](section/368HG.md)
+      - [s. 368HH Tier 1 standards code: matters to be taken into account](section/368HH.md)
+      - [s. 368HI Tier 1 standards code: procedural requirements](section/368HI.md)
+    - Duties of Tier 1 providers as regards Tier 1 standards code
+      - [s. 368HJ Duties of Tier 1 providers to comply with Tier 1 standards code](section/368HJ.md)
+    - Complaints relating to Tier 1 standards code
+      - [s. 368HK Complaints relating to Tier 1 standards code](section/368HK.md)
+    - Accessibility code for Tier 1 services
+      - [s. 368HL Accessibility code for Tier 1 services](section/368HL.md)
+      - [s. 368HM Meaning of “relevant date”](section/368HM.md)
+      - [s. 368HN Power to modify requirements in section 368HL](section/368HN.md)
+      - [s. 368HO Tier 1 accessibility code: procedural requirements](section/368HO.md)
+      - [s. 368HP Duty to comply with Tier 1 accessibility code](section/368HP.md)
+    - Reports to Secretary of State
+      - [s. 368HQ Reports to Secretary of State](section/368HQ.md)
+    - Application of Chapter 3
+      - [s. 368HR Application of Chapter 3](section/368HR.md)
+  - Chapter 4 Enforcement: general
+    - [s. 368I Enforcement of service providers’ principal duties](section/368I.md)
+    - [s. 368IA Enforcement of section 368E(4)](section/368IA.md)
+  - Financial penalties
+    - [s. 368J Financial penalties](section/368J.md)
+  - Suspension or restriction of service
+    - [s. 368K Suspension or restriction of service for contraventions or failures](section/368K.md)
+    - [s. 368L Suspension or restriction of service for inciting crime or disorder](section/368L.md)
+    - [s. 368M Supplementary provision about directions](section/368M.md)
+    - [s. 368N Enforcement of directions under section 368K or 368L](section/368N.md)
+  - Chapter 5 Supplementary
+  - Fees
+    - [s. 368NA Fees](section/368NA.md)
+  - Information
+    - [s. 368O Power to require information](section/368O.md)
+    - [s. 368OZA Information powers: supplementary](section/368OZA.md)
+    - [s. 368OA Co-operation with EEA States](section/368OA.md)
+  - Audience protection reviews etc
+    - [s. 368OB Audience protection reviews etc](section/368OB.md)
+  - Application and interpretation of Part 4A
+    - [s. 368P Application of Part 4A in relation to the BBC](section/368P.md)
+    - [s. 368Q Application of Part 4A in relation to the Welsh Authority](section/368Q.md)
+    - [s. 368QA Service of notices by OFCOM](section/368QA.md)
+    - [s. 368R Interpretation of Part 4A](section/368R.md)
+- PART 4B VIDEO-SHARING PLATFORM SERVICES
+  - Preliminary
+    - [s. 368S Meaning of “video-sharing platform service”](section/368S.md)
+    - [s. 368T The appropriate regulatory authority](section/368T.md)
+  - List of providers
+    - [s. 368U Maintenance of list of providers](section/368U.md)
+  - Notification by providers
+    - [s. 368V Advance notification to appropriate regulatory authority](section/368V.md)
+    - [s. 368W Enforcement of section 368V](section/368W.md)
+  - Duties of the appropriate regulatory authority
+    - [s. 368X Duties of the appropriate regulatory authority](section/368X.md)
+  - Duties of service providers
+    - [s. 368Y Duties of service providers](section/368Y.md)
+    - [s. 368Z Advertising etc controlled by service providers](section/368Z.md)
+    - [s. 368Z1 Duty to take appropriate measures](section/368Z1.md)
+  - Enforcement
+    - [s. 368Z2 Enforcement of sections 368Y and 368Z1(6) and (7)](section/368Z2.md)
+    - [s. 368Z3 Enforcement of section 368Z1(1) and (2)](section/368Z3.md)
+    - [s. 368Z4 Financial penalties](section/368Z4.md)
+  - Suspension or restriction of service
+    - [s. 368Z5 Suspension or restriction of service for contraventions or failures](section/368Z5.md)
+    - [s. 368Z6 Suspension or restriction of service for inciting crime or disorder](section/368Z6.md)
+    - [s. 368Z7 Supplementary provision about directions](section/368Z7.md)
+    - [s. 368Z8 Enforcement of directions under section 368Z5 or 368Z6](section/368Z8.md)
+  - Fees
+    - [s. 368Z9 Fees](section/368Z9.md)
+  - Information and reports
+    - [s. 368Z10 Power to demand information](section/368Z10.md)
+    - [s. 368Z11 Reports by OFCOM](section/368Z11.md)
+    - [s. 368Z12 Co-operation with EEA States](section/368Z12.md)
+  - Interpretation of Part 4B
+    - [s. 368Z13 Interpretation of Part 4B](section/368Z13.md)
+- PART 4C Online advertising of less healthy food and drink
+  - Advertising of less healthy food and drink
+    - [s. 368Z14 Prohibition of paid-for advertising of less healthy food and drink](section/368Z14.md)
+    - [s. 368Z15 Enforcement](section/368Z15.md)
+    - [s. 368Z16 Financial penalties](section/368Z16.md)
+    - [s. 368Z17 Power to demand information](section/368Z17.md)
+    - [s. 368Z18 Guidance](section/368Z18.md)
+    - [s. 368Z19 The appropriate regulatory authority](section/368Z19.md)
+    - [s. 368Z20 Power to amend this Part to extend prohibition](section/368Z20.md)
+    - [s. 368Z21 Interpretation](section/368Z21.md)
+- Part 5 Competition in communications markets
+  - Chapter 1 Functions of OFCOM under competition legislation
+    - [s. 369 Matters in relation to which OFCOM have competition functions](section/369.md)
+    - [s. 370 OFCOM’s functions under Part 4 of the Enterprise Act 2002](section/370.md)
+    - [s. 371 OFCOM’s functions under the Competition Act 1998](section/371.md)
+    - [s. 372 Application of the Competition Act 1998 to news provision](section/372.md)
+  - Chapter 2 Media mergers
+    - Introductory
+      - [s. 373 Repeal of existing newspaper merger regime](section/373.md)
+      - [s. 374 Repeal of exclusion for newspaper mergers from general merger controls](section/374.md)
+    - Adaptation for media mergers of main merger regime
+      - [s. 375 Media public interest considerations](section/375.md)
+      - [s. 376 Adaptation of role of OFT in initial investigations and reports](section/376.md)
+      - [s. 377 Additional investigation and report by OFCOM](section/377.md)
+    - Extension of special public interest regime
+      - [s. 378 Extension of special public interest regime for certain media mergers](section/378.md)
+      - [s. 379 Adaptation of role of OFT in special public interest regime](section/379.md)
+      - [s. 380 Additional investigation and report by OFCOM: special public interest cases](section/380.md)
+    - New general functions in relation to media mergers
+      - [s. 381 Public consultation in relation to media mergers](section/381.md)
+      - [s. 382 General information duties in relation to media mergers](section/382.md)
+      - [s. 383 Advice and information in relation to media mergers](section/383.md)
+      - [s. 384 General advisory functions of OFCOM in relation to media mergers](section/384.md)
+      - [s. 385 Other general functions of OFCOM in relation to media mergers](section/385.md)
+      - [s. 386 Monitoring role for OFT in relation to media mergers](section/386.md)
+    - Supplemental provisions of Chapter 2
+      - [s. 387 Enforcement powers in relation to newspaper and other media mergers](section/387.md)
+      - [s. 388 Alterations concerning newspaper panel of Competition Commission](section/388.md)
+      - [s. 389 Further provision in connection with media mergers](section/389.md)
+- Part 6 Miscellaneous and Supplemental
+  - Annual report
+    - [s. 390 Annual report on the Secretary of State’s functions](section/390.md)
+  - Review of media ownership
+    - [s. 391 Review of media ownership](section/391.md)
+  - Guidelines as to penalties
+    - [s. 392 Penalties imposed by OFCOM](section/392.md)
+  - Penalties under Parts 3A and 3B etc
+    - [s. 392A Amount of penalties etc](section/392A.md)
+    - [s. 392B Liability of parent entities etc](section/392B.md)
+  - Disclosure of information
+    - [s. 393 General restrictions on disclosure of information](section/393.md)
+  - Notifications etc. and electronic working
+    - [s. 394 Service of notifications and other documents](section/394.md)
+    - [s. 395 Notifications and documents in electronic form](section/395.md)
+    - [s. 396 Timing and location of things done electronically](section/396.md)
+  - Other miscellaneous provisions
+    - [s. 397 Purchase of Duchy of Lancaster land](section/397.md)
+    - [s. 398 Repeal of certain provisions of the Telecommunications Act 1984](section/398.md)
+  - Supplemental
+    - [s. 399 Expenses](section/399.md)
+    - [s. 400 Destination of ... fees and penalties](section/400.md)
+    - [s. 401 Retention by OFCOM of amounts paid under Wireless Telegraphy Act 2006](section/401.md)
+    - [s. 402 Power of Secretary of State to make orders and regulations](section/402.md)
+    - [s. 403 Regulations and orders made by OFCOM](section/403.md)
+    - [s. 404 Criminal liability of company directors etc.](section/404.md)
+    - [s. 405 General interpretation](section/405.md)
+    - [s. 406 Minor and consequential amendments, transitionals and repeals](section/406.md)
+    - [s. 407 Pre-consolidation amendments](section/407.md)
+    - [s. 408 Transitional provision for anticipatory carrying out of functions](section/408.md)
+    - [s. 409 Modifications consequential on regulations implementing Directives](section/409.md)
+    - [s. 410 Application of enactments to territorial sea and other waters](section/410.md)
+    - [s. 411 Short title, commencement and extent](section/411.md)
+- SCHEDULE 1 Functions transferred to OFCOM
+  - Wireless telegraphy functions
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Functions in relation to the licensing etc. of television services
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Functions in relation to C4C
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Functions in relation to the licensing of radio services
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Functions in relation to the proscription of foreign satellite services
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Functions in relation to Gaelic broadcasting
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Functions in relation to the national television archive
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Warrants to enter and search premises to enforce broadcasting licences provisions
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Variation of existing Channel 3 and Channel 5 licences
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Reports for the purposes of the review of digital broadcasting
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Functions in relation to reservation of digital capacity to the BBC
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Functions in relation to listed events
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Functions relating to fairness and privacy in broadcasting
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+- SCHEDULE 2 Transfer schemes
+  - Contents of transfer scheme
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Effect of transfer scheme
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Retrospective modification of a transfer scheme
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Compensation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Stamp duty
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - [Sch. 2 para. 5A Stamp duty land tax](schedule/2/paragraph/5A.md)
+  - Interpretation of Schedule
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+- SCHEDULE 3 Amendments of Schedule 2 to the Telecommunications Act 1984
+  - Introductory
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Meaning of conduit system and electronic communications apparatus, network or service
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Meaning of operator and operator’s system
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Provision of a conduit system
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - General amendments
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Power to fly lines
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Power to require alteration of apparatus
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Undertaker’s works
+    - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - Notices under the code
+    - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+  - Application of code to the Crown
+    - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+  - Effect of agreements concerning sharing of apparatus
+    - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+- SCHEDULE 3A The electronic communications code
+  - PART 1 Key concepts
+    - Introductory
+      - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+    - The operator
+      - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+    - The code rights
+      - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+    - The statutory purposes
+      - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - Electronic communications apparatus, lines and structures
+      - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+    - The operator’s network
+      - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+    - Infrastructure system
+      - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+  - PART 2 Conferral of code rights and their exercise
+    - Introductory
+      - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+    - Who may confer code rights?
+      - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+    - Who else is bound by code rights?
+      - [Sch. 3A para. 10](schedule/3A/paragraph/10.md)
+    - Requirements for agreements
+      - [Sch. 3A para. 11](schedule/3A/paragraph/11.md)
+    - Exercise of code rights
+      - [Sch. 3A para. 12](schedule/3A/paragraph/12.md)
+    - Access to land
+      - [Sch. 3A para. 13](schedule/3A/paragraph/13.md)
+    - Code rights and land registration
+      - [Sch. 3A para. 14](schedule/3A/paragraph/14.md)
+  - PART 3 Assignment of code rights, and upgrading and sharing of apparatus
+    - Introductory
+      - [Sch. 3A para. 15](schedule/3A/paragraph/15.md)
+    - Assignment of code rights
+      - [Sch. 3A para. 16](schedule/3A/paragraph/16.md)
+    - Power for operator to upgrade or share apparatus
+      - [Sch. 3A para. 17](schedule/3A/paragraph/17.md)
+      - [Sch. 3A para. 17A](schedule/3A/paragraph/17A.md)
+    - Effect of agreements enabling sharing between operators and others
+      - [Sch. 3A para. 18](schedule/3A/paragraph/18.md)
+  - PART 4 Power of court to impose agreement
+    - Introductory
+      - [Sch. 3A para. 19](schedule/3A/paragraph/19.md)
+    - When can the court impose an agreement?
+      - [Sch. 3A para. 20](schedule/3A/paragraph/20.md)
+    - What is the test to be applied by the court?
+      - [Sch. 3A para. 21](schedule/3A/paragraph/21.md)
+    - What is the effect of an agreement imposed under paragraph 20?
+      - [Sch. 3A para. 22](schedule/3A/paragraph/22.md)
+    - What are the terms of an agreement imposed under paragraph 20?
+      - [Sch. 3A para. 23](schedule/3A/paragraph/23.md)
+    - How is consideration to be determined under paragraph 23?
+      - [Sch. 3A para. 24](schedule/3A/paragraph/24.md)
+    - What rights to the payment of compensation are there?
+      - [Sch. 3A para. 25](schedule/3A/paragraph/25.md)
+    - Interim code rights
+      - [Sch. 3A para. 26](schedule/3A/paragraph/26.md)
+    - Temporary code rights
+      - [Sch. 3A para. 27](schedule/3A/paragraph/27.md)
+    - Refusal of application on grounds of national security etc
+      - [Sch. 3A para. 27ZA](schedule/3A/paragraph/27ZA.md)
+  - PART 4A Code rights in respect of land connected to leased premises: unresponsive occupiers
+    - [Sch. 3A para. 27A Introductory](schedule/3A/paragraph/27A.md)
+    - [Sch. 3A para. 27B Circumstances in which an application for an order under this Part can be made](schedule/3A/paragraph/27B.md)
+    - [Sch. 3A para. 27C Requirements to be met before applying for an order under this Part](schedule/3A/paragraph/27C.md)
+    - [Sch. 3A para. 27D Requirements to be met before applying for an order under this Part](schedule/3A/paragraph/27D.md)
+    - [Sch. 3A para. 27E When a Part 4A order can be made and its effect](schedule/3A/paragraph/27E.md)
+    - [Sch. 3A para. 27F Exercise of Part 4A code rights](schedule/3A/paragraph/27F.md)
+    - [Sch. 3A para. 27G Expiry of Part 4A code rights](schedule/3A/paragraph/27G.md)
+    - [Sch. 3A para. 27H Compensation](schedule/3A/paragraph/27H.md)
+    - [Sch. 3A para. 27I Interpretation of this Part](schedule/3A/paragraph/27I.md)
+  - PART 5 Termination and modification of agreements
+    - Introductory
+      - [Sch. 3A para. 28](schedule/3A/paragraph/28.md)
+    - Application of this Part
+      - [Sch. 3A para. 29](schedule/3A/paragraph/29.md)
+    - Continuation of code rights
+      - [Sch. 3A para. 30](schedule/3A/paragraph/30.md)
+    - How may a person bring a code agreement to an end?
+      - [Sch. 3A para. 31](schedule/3A/paragraph/31.md)
+    - What is the effect of a notice under paragraph 31?
+      - [Sch. 3A para. 32](schedule/3A/paragraph/32.md)
+    - How may a party to a code agreement require a change to the terms of an agreement which has expired?
+      - [Sch. 3A para. 33](schedule/3A/paragraph/33.md)
+    - What orders may a court make on an application under paragraph 32 or 33?
+      - [Sch. 3A para. 34](schedule/3A/paragraph/34.md)
+    - What arrangements ... can be made pending determination of the application?
+      - [Sch. 3A para. 35](schedule/3A/paragraph/35.md)
+  - PART 6 Rights to require removal of electronic communications apparatus
+    - Introductory
+      - [Sch. 3A para. 36](schedule/3A/paragraph/36.md)
+    - When does a landowner have the right to require removal of electronic communications apparatus?
+      - [Sch. 3A para. 37](schedule/3A/paragraph/37.md)
+    - When does a landowner or occupier of neighbouring land have the right to require removal of electronic communications apparatus?
+      - [Sch. 3A para. 38](schedule/3A/paragraph/38.md)
+    - How does a landowner or occupier find out whether apparatus is on land pursuant to a code right?
+      - [Sch. 3A para. 39](schedule/3A/paragraph/39.md)
+    - How does a landowner or occupier enforce removal of apparatus?
+      - [Sch. 3A para. 40](schedule/3A/paragraph/40.md)
+    - How are other rights to require removal of apparatus enforced?
+      - [Sch. 3A para. 41](schedule/3A/paragraph/41.md)
+    - How does paragraph 40 apply if a person is entitled to require apparatus to be altered in consequence of street works?
+      - [Sch. 3A para. 42](schedule/3A/paragraph/42.md)
+    - When can a separate application for restoration of land be made?
+      - [Sch. 3A para. 43](schedule/3A/paragraph/43.md)
+    - What orders may the court make on an application under paragraphs 40 to 43?
+      - [Sch. 3A para. 44](schedule/3A/paragraph/44.md)
+  - PART 7 Conferral of transport land rights and their exercise
+    - Introductory
+      - [Sch. 3A para. 45](schedule/3A/paragraph/45.md)
+    - Transport land and transport undertakers
+      - [Sch. 3A para. 46](schedule/3A/paragraph/46.md)
+    - Conferral of transport land rights
+      - [Sch. 3A para. 47](schedule/3A/paragraph/47.md)
+    - The transport land rights
+      - [Sch. 3A para. 48](schedule/3A/paragraph/48.md)
+    - Non-emergency works: when can an operator exercise the transport land rights?
+      - [Sch. 3A para. 49](schedule/3A/paragraph/49.md)
+    - What is the effect of the transport undertaker giving notice of objection to the operator?
+      - [Sch. 3A para. 50](schedule/3A/paragraph/50.md)
+    - Emergency works: when can an operator exercise the transport land rights?
+      - [Sch. 3A para. 51](schedule/3A/paragraph/51.md)
+    - What happens if a dispute about the transport land rights is referred to arbitration?
+      - [Sch. 3A para. 52](schedule/3A/paragraph/52.md)
+    - When can a transport undertaker require an operator to alter communications apparatus?
+      - [Sch. 3A para. 53](schedule/3A/paragraph/53.md)
+    - What happens to the transport land rights if land ceases to be transport land?
+      - [Sch. 3A para. 54](schedule/3A/paragraph/54.md)
+    - Offence: operators who do not comply with this Part of this code
+      - [Sch. 3A para. 55](schedule/3A/paragraph/55.md)
+  - PART 8 Conferral of street work rights and their exercise
+    - Introductory
+      - [Sch. 3A para. 56](schedule/3A/paragraph/56.md)
+    - Streets and roads
+      - [Sch. 3A para. 57](schedule/3A/paragraph/57.md)
+    - Conferral of street work rights
+      - [Sch. 3A para. 58](schedule/3A/paragraph/58.md)
+    - The street work rights
+      - [Sch. 3A para. 59](schedule/3A/paragraph/59.md)
+  - PART 9 Conferral of tidal water rights and their exercise
+    - Introductory
+      - [Sch. 3A para. 60](schedule/3A/paragraph/60.md)
+    - Tidal water or lands
+      - [Sch. 3A para. 61](schedule/3A/paragraph/61.md)
+    - Conferral of tidal water rights
+      - [Sch. 3A para. 62](schedule/3A/paragraph/62.md)
+    - The tidal water rights
+      - [Sch. 3A para. 63](schedule/3A/paragraph/63.md)
+    - Exercise of tidal water right: Crown land
+      - [Sch. 3A para. 64](schedule/3A/paragraph/64.md)
+  - PART 10 Undertaker’s works affecting electronic communications apparatus
+    - Introductory
+      - [Sch. 3A para. 65](schedule/3A/paragraph/65.md)
+    - Key definitions
+      - [Sch. 3A para. 66](schedule/3A/paragraph/66.md)
+    - When can an undertaker carry out non-emergency undertaker’s works?
+      - [Sch. 3A para. 67](schedule/3A/paragraph/67.md)
+    - What is the effect of the operator giving counter-notice to the undertaker?
+      - [Sch. 3A para. 68](schedule/3A/paragraph/68.md)
+    - What expenses must the undertaker pay?
+      - [Sch. 3A para. 69](schedule/3A/paragraph/69.md)
+    - When can the operator alter apparatus in connection with non-emergency undertaker’s works?
+      - [Sch. 3A para. 70](schedule/3A/paragraph/70.md)
+    - When can an undertaker carry out emergency undertaker’s works?
+      - [Sch. 3A para. 71](schedule/3A/paragraph/71.md)
+    - Offence: undertakers who do not comply with this Part of this code
+      - [Sch. 3A para. 72](schedule/3A/paragraph/72.md)
+  - PART 11 Overhead apparatus
+    - Introductory
+      - [Sch. 3A para. 73](schedule/3A/paragraph/73.md)
+    - Power to fly lines
+      - [Sch. 3A para. 74](schedule/3A/paragraph/74.md)
+    - Duty to attach notices to overhead apparatus
+      - [Sch. 3A para. 75](schedule/3A/paragraph/75.md)
+  - PART 12 Rights to object to certain apparatus
+    - Introductory
+      - [Sch. 3A para. 76](schedule/3A/paragraph/76.md)
+    - When and by whom can a right to object be exercised?
+      - [Sch. 3A para. 77](schedule/3A/paragraph/77.md)
+    - How may a right to object be exercised?
+      - [Sch. 3A para. 78](schedule/3A/paragraph/78.md)
+    - What is the procedure if the objection is made within 12 months of installation?
+      - [Sch. 3A para. 79](schedule/3A/paragraph/79.md)
+    - What is the procedure if the objection is made later than 12 months after installation?
+      - [Sch. 3A para. 80](schedule/3A/paragraph/80.md)
+    - What limitations are there on the court’s powers under paragraph 79 or 80?
+      - [Sch. 3A para. 81](schedule/3A/paragraph/81.md)
+  - PART 13 Rights to lop trees
+    - Rights to lop trees
+      - [Sch. 3A para. 82](schedule/3A/paragraph/82.md)
+  - PART 14 Compensation under the code
+    - Introductory
+      - [Sch. 3A para. 83](schedule/3A/paragraph/83.md)
+    - Compensation where agreement imposed or apparatus removed
+      - [Sch. 3A para. 84](schedule/3A/paragraph/84.md)
+    - Compensation for injurious affection to neighbouring land etc
+      - [Sch. 3A para. 85](schedule/3A/paragraph/85.md)
+    - No other compensation available
+      - [Sch. 3A para. 86](schedule/3A/paragraph/86.md)
+  - PART 15 Notices under the code
+    - Introductory
+      - [Sch. 3A para. 87](schedule/3A/paragraph/87.md)
+    - Notices given by operators
+      - [Sch. 3A para. 88](schedule/3A/paragraph/88.md)
+    - Notices given by others
+      - [Sch. 3A para. 89](schedule/3A/paragraph/89.md)
+    - Prescription of notices by OFCOM
+      - [Sch. 3A para. 90](schedule/3A/paragraph/90.md)
+    - Procedures for giving notice
+      - [Sch. 3A para. 91](schedule/3A/paragraph/91.md)
+  - PART 16 Enforcement and dispute resolution
+    - Introductory
+      - [Sch. 3A para. 92](schedule/3A/paragraph/92.md)
+    - Enforcement of agreements and rights
+      - [Sch. 3A para. 93](schedule/3A/paragraph/93.md)
+    - Meaning of “the court”
+      - [Sch. 3A para. 94](schedule/3A/paragraph/94.md)
+    - Power to confer jurisdiction on other tribunals
+      - [Sch. 3A para. 95](schedule/3A/paragraph/95.md)
+    - Award of costs by tribunal
+      - [Sch. 3A para. 96](schedule/3A/paragraph/96.md)
+    - Applications to the court
+      - [Sch. 3A para. 97](schedule/3A/paragraph/97.md)
+    - Appeals in Northern Ireland
+      - [Sch. 3A para. 98](schedule/3A/paragraph/98.md)
+  - PART 17 Supplementary provisions
+    - Relationship between this code and existing law
+      - [Sch. 3A para. 99](schedule/3A/paragraph/99.md)
+    - Relationship between this code and agreements with operators
+      - [Sch. 3A para. 100](schedule/3A/paragraph/100.md)
+    - Ownership of property
+      - [Sch. 3A para. 101](schedule/3A/paragraph/101.md)
+    - Conduits
+      - [Sch. 3A para. 102](schedule/3A/paragraph/102.md)
+    - Duties for OFCOM to prepare codes of practice
+      - [Sch. 3A para. 103](schedule/3A/paragraph/103.md)
+    - Application of this code to the Crown
+      - [Sch. 3A para. 104](schedule/3A/paragraph/104.md)
+    - Meaning of “occupier”
+      - [Sch. 3A para. 105](schedule/3A/paragraph/105.md)
+    - Lands Tribunal for Scotland procedure rules
+      - [Sch. 3A para. 106](schedule/3A/paragraph/106.md)
+    - Arbitrations in Scotland
+      - [Sch. 3A para. 107](schedule/3A/paragraph/107.md)
+    - General interpretation
+      - [Sch. 3A para. 108](schedule/3A/paragraph/108.md)
+- SCHEDULE 4 Compulsory purchase and entry for exploratory purposes
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - General duties with respect to powers under Schedule
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Compulsory purchase of land: England and Wales
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - Compulsory purchase of land: Scotland
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - Compulsory purchase of land: Northern Ireland
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+  - Entry on land for exploratory purposes: England and Wales
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - Entry on land for exploratory purposes: Scotland
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Entry on land for exploratory purposes: Northern Ireland
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - Acquisition of land by agreement
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+- SCHEDULE 5 Procedure for grants of recognised spectrum access
+  - General procedure for applications
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Information to be provided in connection with applications
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Notice of proposed refusal of application
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Duration of grant
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Revocation or modification
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Notice of proposed revocation or modification
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Restriction on powers of revocation and modification
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Interpretation
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+- SCHEDULE 6 Fixed penalties for wireless telegraphy offences
+  - Offences to which this Schedule applies
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Fixed penalties and fixed penalty notices
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Issuing of fixed penalty notice
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Content of fixed penalty notice
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Withdrawal of fixed penalty notice
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Notification to person to whom payment is to be made
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Effect of fixed penalty notice
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Payment of fixed penalty
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - Effect of payment
+    - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - Service of statement and proof of service
+    - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - Certificate about payment
+    - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - Regulations
+    - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - Interpretation
+    - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+- SCHEDULE 7 Seizure and forfeiture of apparatus
+  - Application of Schedule
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - Notice of seizure
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Notice of claim
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Condemnation
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Proceedings for condemnation by court
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Disposal of unclaimed property
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Provisions as to proof
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+  - Special provisions as to certain claimants
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Saving for owner’s rights
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+- SCHEDULE 8 Decisions not subject to appeal
+  - Prosecutions and civil proceedings
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - This Act
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+    - [Sch. 8 para. 7A](schedule/8/paragraph/7A.md)
+    - [Sch. 8 para. 7B](schedule/8/paragraph/7B.md)
+    - [Sch. 8 para. 7C](schedule/8/paragraph/7C.md)
+    - [Sch. 8 para. 7D](schedule/8/paragraph/7D.md)
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+    - [Sch. 8 para. 9A](schedule/8/paragraph/9A.md)
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+    - [Sch. 8 para. 11A](schedule/8/paragraph/11A.md)
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Wireless Telegraphy Act 1949
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+    - [Sch. 8 para. 28](schedule/8/paragraph/28.md)
+    - [Sch. 8 para. 29](schedule/8/paragraph/29.md)
+    - [Sch. 8 para. 30](schedule/8/paragraph/30.md)
+    - [Sch. 8 para. 31](schedule/8/paragraph/31.md)
+    - [Sch. 8 para. 32](schedule/8/paragraph/32.md)
+  - Wireless Telegraphy Act 1998
+    - [Sch. 8 para. 33](schedule/8/paragraph/33.md)
+    - [Sch. 8 para. 34](schedule/8/paragraph/34.md)
+    - [Sch. 8 para. 35](schedule/8/paragraph/35.md)
+    - [Sch. 8 para. 36](schedule/8/paragraph/36.md)
+  - Wireless Telegraphy Act 2006
+    - [Sch. 8 para. 37](schedule/8/paragraph/37.md)
+    - [Sch. 8 para. 38](schedule/8/paragraph/38.md)
+    - [Sch. 8 para. 39](schedule/8/paragraph/39.md)
+    - [Sch. 8 para. 40](schedule/8/paragraph/40.md)
+    - [Sch. 8 para. 41](schedule/8/paragraph/41.md)
+    - [Sch. 8 para. 42](schedule/8/paragraph/42.md)
+    - [Sch. 8 para. 43](schedule/8/paragraph/43.md)
+    - [Sch. 8 para. 44](schedule/8/paragraph/44.md)
+    - [Sch. 8 para. 45](schedule/8/paragraph/45.md)
+    - [Sch. 8 para. 46](schedule/8/paragraph/46.md)
+- SCHEDULE 9 Arrangements about carrying on of C4C’s activities
+  - Notification of requirement to submit proposals
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - Submission of proposed arrangements
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Consideration and approval of proposals
+    - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - Duration of approval and modification of arrangements
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - Publication of approved arrangements
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - Duty of C4C to act in accordance with the approved arrangements
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - nforcement of duties
+    - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Penalty for contravention of the arrangements
+    - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - OFCOM’s duty to take account of need to support C4C’s primary functions
+    - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - Interpretation of Schedule
+    - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+- SCHEDULE 10 Licensing the public teletext service
+  - Part 1 Applications for and award of licence
+    - Notice of proposal to grant licence
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Guidance as to applications
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Applications for the licence
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - Notice inviting public representations
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - Determination of applications
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - Revocation of award
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Part 2 Conditions and enforcement of licence
+    - Payments to be made in respect of the public teletext service
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+    - Corrections and statements of findings by the public teletext provider
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Enforcement of the licence for the public teletext service
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Power to shorten licence period
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Revocation for contravention of condition or direction
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+    - Penalty on revocation
+      - [Sch. 10 para. 12](schedule/10/paragraph/12.md)
+    - Power to modify penalties in paragraph 12
+      - [Sch. 10 para. 13](schedule/10/paragraph/13.md)
+  - Part 3 Interpretation of Schedule
+    - [Sch. 10 para. 14](schedule/10/paragraph/14.md)
+    - [Sch. 10 para. 15](schedule/10/paragraph/15.md)
+- SCHEDULE 11 Approval, imposition and modification of networking arrangements
+  - Application of Schedule
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Approval required for modifications
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Procedure for giving approval
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Decision of OFCOM whether or not to approve arrangements or modifications
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Notification of decisions on imposition of arrangements
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Competition tests applying to OFCOM’s decisions
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Competition tests applying to OFCOM’s decisions: EU principles etc
+    - [Sch. 11 para. 6A](schedule/11/paragraph/6A.md)
+  - Other matters to be taken into account
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Duty to refuse approval in certain cases
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Appeals against decisions relating to competition test
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+  - Decisions on an appeal
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+  - Appeals against decisions of the Tribunal
+    - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+  - Information for OFCOM
+    - [Sch. 11 para. 12](schedule/11/paragraph/12.md)
+  - Enforcement of information provisions
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+  - Confidentiality and defamation
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
+  - Interpretation of Schedule
+    - [Sch. 11 para. 15](schedule/11/paragraph/15.md)
+- SCHEDULE 11A Restrictions on product placement
+  - Introductory
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+    - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+  - Prohibitions of product placement
+    - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+    - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+    - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+    - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+  - Conditions applying to product placement
+    - [Sch. 11A para. 7](schedule/11A/paragraph/7.md)
+    - [Sch. 11A para. 8](schedule/11A/paragraph/8.md)
+  - Minor definitions
+    - [Sch. 11A para. 9](schedule/11A/paragraph/9.md)
+- SCHEDULE 12 Corresponding obligations of the BBC and S4C
+  - Part 1 The BBC
+    - Quotas for independent productions
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Duty to publicise complaints procedures etc.
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Part 2 S4C
+    - Modification of S4C’s public service remit
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+    - Statements of programme policy
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Must-offer obligations in relation to networks and satellite services
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+    - Supply of services by satellite in certain areas
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Programming quotas for independent productions
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - Programme quotas for original productions
+      - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+    - News and current affairs programmes
+      - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+    - Code relating to programme commissioning
+      - [Sch. 12 para. 10](schedule/12/paragraph/10.md)
+    - ...
+      - [Sch. 12 para. 11](schedule/12/paragraph/11.md)
+    - Programme standards
+      - [Sch. 12 para. 12](schedule/12/paragraph/12.md)
+      - [Sch. 12 para. 13](schedule/12/paragraph/13.md)
+      - [Sch. 12 para. 14](schedule/12/paragraph/14.md)
+      - [Sch. 12 para. 15](schedule/12/paragraph/15.md)
+    - Directions with respect to advertising
+      - [Sch. 12 para. 16](schedule/12/paragraph/16.md)
+    - Fairness standards
+      - [Sch. 12 para. 17](schedule/12/paragraph/17.md)
+    - Party political broadcasts
+      - [Sch. 12 para. 18](schedule/12/paragraph/18.md)
+    - Duty to publicise complaints procedures etc.
+      - [Sch. 12 para. 19](schedule/12/paragraph/19.md)
+    - Monitoring of programmes
+      - [Sch. 12 para. 20](schedule/12/paragraph/20.md)
+    - Compliance with international obligations
+      - [Sch. 12 para. 21](schedule/12/paragraph/21.md)
+    - Services for people with disabilities
+      - [Sch. 12 para. 22](schedule/12/paragraph/22.md)
+    - Equality of opportunity
+      - [Sch. 12 para. 23](schedule/12/paragraph/23.md)
+    - On-demand programme services
+      - [Sch. 12 para. 23A](schedule/12/paragraph/23A.md)
+    - Meaning of S4C’s public services
+      - [Sch. 12 para. 24](schedule/12/paragraph/24.md)
+- SCHEDULE 13 Financial penalties under the Broadcasting Acts
+  - Part 1 Broadcasting Act 1990
+    - Preliminary
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Revocation of television services licence
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - Licences for Channel 3 services and for Channels 4 and 5
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Restricted services licences
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - Additional television services licences
+      - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - Revocation of national sound broadcasting licence
+      - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - Licences for analogue sound services
+      - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+    - Additional radio services licences
+      - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+    - Power to amend penalties under the 1990 Act
+      - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Part 2 Broadcasting Act 1996
+    - Preliminary
+      - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - Revocation of television multiplex licences
+      - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+    - Attribution of television multiplex revenue
+      - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - Multiplex licences
+      - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - Digital television programme licences
+      - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - Digital additional television services licences
+      - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - Power to amend digital television penalties
+      - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - Revocation of radio multiplex licences
+      - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - Attribution of radio multiplex revenue
+      - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - Contraventions of conditions of radio multiplex licences
+      - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - Digital sound programme licences
+      - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - Licences for digital additional sound services
+      - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - Power to amend digital television penalties
+      - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+- SCHEDULE 14 Media ownership rules
+  - Part 1 Channel 3 services
+    - Ban on newspaper proprietors holding Channel 3 licences
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Restrictions on participation
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - National and local newspapers and their respective national and local market shares
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Construction of references to running a newspaper
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - Coverage area for a Channel 3 service
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - Power to amend Part 1 of Schedule
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+  - Part 2 ...
+    - ...
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - ...
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - ...
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - ...
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+  - Part 3 Local sound programme services
+    - Restriction on holding of local sound broadcasting licences
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - Restriction applying to local digital sound programme services
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - Powers supplemental to powers under paragraphs 11 and 12
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - Transitional provision for orders under paragraphs 11 and 12
+      - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+  - Part 4 Religious bodies etc.
+    - Approval required for religious bodies etc. to hold licences
+      - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - Power to amend Part 4 of Schedule
+      - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+  - Part 5 Supplemental provisions of Schedule
+    - Procedure for orders
+      - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - Interpretation of Schedule
+      - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+- SCHEDULE 15 Amendments of Broadcasting Acts
+  - Part 1 Amendments of the 1990 Act
+    - Licences under Part 1
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - General licence conditions
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Restrictions on licence holding
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Repeal of previous regulatory regime
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Prohibition on providing television services without a licence
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - Television broadcasting on Channel 3
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Applications for Channel 3 licences
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Procedure on consideration of applications for Channel 3 licences
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+    - Television broadcasting on Channel 3
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - Financial conditions of licence and failures to begin a service
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - Changes of control in period after award of licence
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - Temporary provision of Channel 3 service for an additional area
+      - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+    - Appointment of members of C4 Corporation
+      - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+    - Channel 4 licence
+      - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+    - Channel 5
+      - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+    - Application to Channel 5 of Channel 3 provisions
+      - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+    - Announcement of programme Schedules
+      - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+    - Enforcement of conditions of Channel 3, Channel 4 and Channel 5 licences
+      - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+    - Restricted services
+      - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+    - Additional television services
+      - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+    - Licensing of additional television services
+      - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+    - Applications for additional services licences
+      - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+    - Procedure on application etc. for additional television services licences
+      - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+    - Additional payments in respect of additional television services licences
+      - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+    - Duration of additional television services licences
+      - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+    - Additional television services not to interfere with other transmissions
+      - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+    - Enforcement of additional television services licences
+      - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+    - The Welsh Authority
+      - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+    - Distribution of licensed public service channels
+      - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+    - Enforcement of licences held by BBC companies
+      - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+    - Interpretation of Part 1
+      - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+    - Licensing functions of OFCOM
+      - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+    - Licences under Part 3 of the 1990 Act
+      - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+    - General licence conditions
+      - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+    - Restrictions on holding licences
+      - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+    - Disqualification of persons convicted of transmission offences
+      - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+    - Offence of providing regulated radio services
+      - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+    - Applications for national licences
+      - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+    - Consideration of applications for a national licence
+      - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+    - Award of national licences
+      - [Sch. 15 para. 40](schedule/15/paragraph/40.md)
+    - Failure to begin providing licensed service
+      - [Sch. 15 para. 41](schedule/15/paragraph/41.md)
+    - Additional payments in respect of national licences
+      - [Sch. 15 para. 42](schedule/15/paragraph/42.md)
+    - Restrictions affecting change in control of holder of national licence
+      - [Sch. 15 para. 43](schedule/15/paragraph/43.md)
+    - Renewal of national licences
+      - [Sch. 15 para. 44](schedule/15/paragraph/44.md)
+    - Applications for local licences
+      - [Sch. 15 para. 45](schedule/15/paragraph/45.md)
+    - Renewal of local licences
+      - [Sch. 15 para. 46](schedule/15/paragraph/46.md)
+    - Special procedure for applications for local licences
+      - [Sch. 15 para. 47](schedule/15/paragraph/47.md)
+    - Special requirements relating to grant of local licences
+      - [Sch. 15 para. 48](schedule/15/paragraph/48.md)
+    - Requirements as to character and coverage of services
+      - [Sch. 15 para. 49](schedule/15/paragraph/49.md)
+    - Enforcement of licences
+      - [Sch. 15 para. 50](schedule/15/paragraph/50.md)
+    - Power to suspend licences to provide radio licensable content services from a satellite
+      - [Sch. 15 para. 51](schedule/15/paragraph/51.md)
+    - Additional radio services
+      - [Sch. 15 para. 52](schedule/15/paragraph/52.md)
+    - Licensing of additional radio services
+      - [Sch. 15 para. 53](schedule/15/paragraph/53.md)
+    - Applications for additional radio services licences
+      - [Sch. 15 para. 54](schedule/15/paragraph/54.md)
+    - Procedure for awarding additional radio services licences
+      - [Sch. 15 para. 55](schedule/15/paragraph/55.md)
+    - Additional payments in respect of additional radio services licences
+      - [Sch. 15 para. 56](schedule/15/paragraph/56.md)
+    - Additional radio services not to interfere with other transmissions
+      - [Sch. 15 para. 57](schedule/15/paragraph/57.md)
+    - Enforcement of additional radio services licences
+      - [Sch. 15 para. 58](schedule/15/paragraph/58.md)
+    - Interpretation
+      - [Sch. 15 para. 59](schedule/15/paragraph/59.md)
+    - Duty to provide advance information about programmes
+      - [Sch. 15 para. 60](schedule/15/paragraph/60.md)
+    - Proscription of foreign satellite services
+      - [Sch. 15 para. 61](schedule/15/paragraph/61.md)
+    - Financing of Gaelic Broadcasting
+      - [Sch. 15 para. 62](schedule/15/paragraph/62.md)
+    - Gaelic Broadcasting in Scotland
+      - [Sch. 15 para. 63](schedule/15/paragraph/63.md)
+    - Maintenance of the national television archive
+      - [Sch. 15 para. 64](schedule/15/paragraph/64.md)
+    - Modification of networking arrangements
+      - [Sch. 15 para. 65](schedule/15/paragraph/65.md)
+    - Search warrants
+      - [Sch. 15 para. 66](schedule/15/paragraph/66.md)
+    - Notices
+      - [Sch. 15 para. 67](schedule/15/paragraph/67.md)
+    - Interpretation
+      - [Sch. 15 para. 68](schedule/15/paragraph/68.md)
+    - Disqualified persons
+      - [Sch. 15 para. 69](schedule/15/paragraph/69.md)
+    - C4C
+      - [Sch. 15 para. 70](schedule/15/paragraph/70.md)
+    - The Welsh Authority
+      - [Sch. 15 para. 71](schedule/15/paragraph/71.md)
+    - Computation of qualifying revenue
+      - [Sch. 15 para. 72](schedule/15/paragraph/72.md)
+    - The Gaelic Television Committee
+      - [Sch. 15 para. 73](schedule/15/paragraph/73.md)
+  - Part 2 Amendments of the 1996 Act
+    - Multiplex services and digital programme services
+      - [Sch. 15 para. 74](schedule/15/paragraph/74.md)
+    - Meaning of qualifying service
+      - [Sch. 15 para. 75](schedule/15/paragraph/75.md)
+    - Licences under Part 1
+      - [Sch. 15 para. 76](schedule/15/paragraph/76.md)
+    - Licence conditions
+      - [Sch. 15 para. 77](schedule/15/paragraph/77.md)
+    - Restrictions on digital licence holding
+      - [Sch. 15 para. 78](schedule/15/paragraph/78.md)
+    - Multiplex licences
+      - [Sch. 15 para. 79](schedule/15/paragraph/79.md)
+    - Award of multiplex licences
+      - [Sch. 15 para. 80](schedule/15/paragraph/80.md)
+    - Power to require two or more multiplex licences to be granted to one person
+      - [Sch. 15 para. 81](schedule/15/paragraph/81.md)
+    - Award of multiplex licences subject to conditions
+      - [Sch. 15 para. 82](schedule/15/paragraph/82.md)
+    - Failure to provide licensed service and revocation
+      - [Sch. 15 para. 83](schedule/15/paragraph/83.md)
+    - Conditions attached to multiplex licences
+      - [Sch. 15 para. 84](schedule/15/paragraph/84.md)
+    - Additional payments in respect of multiplex licences
+      - [Sch. 15 para. 85](schedule/15/paragraph/85.md)
+    - Multiplex revenue
+      - [Sch. 15 para. 86](schedule/15/paragraph/86.md)
+    - Attribution of multiplex revenue to multiplex providers
+      - [Sch. 15 para. 87](schedule/15/paragraph/87.md)
+    - Duration of multiplex licences
+      - [Sch. 15 para. 88](schedule/15/paragraph/88.md)
+    - Enforcement of multiplex licences
+      - [Sch. 15 para. 89](schedule/15/paragraph/89.md)
+    - Licensing of digital programme services
+      - [Sch. 15 para. 90](schedule/15/paragraph/90.md)
+    - Conditions of licences for digital programme services
+      - [Sch. 15 para. 91](schedule/15/paragraph/91.md)
+    - Duration and enforcement of multiplex licenses
+      - [Sch. 15 para. 92](schedule/15/paragraph/92.md)
+    - Digital additional services
+      - [Sch. 15 para. 93](schedule/15/paragraph/93.md)
+    - Licensing of digital additional services
+      - [Sch. 15 para. 94](schedule/15/paragraph/94.md)
+    - Conditions of digital additional services licence
+      - [Sch. 15 para. 95](schedule/15/paragraph/95.md)
+    - Enforcement of digital additional television services licences
+      - [Sch. 15 para. 96](schedule/15/paragraph/96.md)
+    - Digital broadcasting of Gaelic programmes
+      - [Sch. 15 para. 97](schedule/15/paragraph/97.md)
+    - Review of digital television broadcasting
+      - [Sch. 15 para. 98](schedule/15/paragraph/98.md)
+    - Enforcement of licences held by BBC companies
+      - [Sch. 15 para. 99](schedule/15/paragraph/99.md)
+    - Interpretation of Part 1
+      - [Sch. 15 para. 100](schedule/15/paragraph/100.md)
+    - Radio multiplex services
+      - [Sch. 15 para. 101](schedule/15/paragraph/101.md)
+    - Licences under Part 2 of the 1996 Act
+      - [Sch. 15 para. 102](schedule/15/paragraph/102.md)
+    - General licence conditions
+      - [Sch. 15 para. 103](schedule/15/paragraph/103.md)
+    - Restrictions on holding licences
+      - [Sch. 15 para. 104](schedule/15/paragraph/104.md)
+    - National radio multiplex licences
+      - [Sch. 15 para. 105](schedule/15/paragraph/105.md)
+    - Award of national radio multiplex licences
+      - [Sch. 15 para. 106](schedule/15/paragraph/106.md)
+    - Reservation of capacity for independent national broadcasters
+      - [Sch. 15 para. 107](schedule/15/paragraph/107.md)
+    - Reservation of digital capacity for BBC
+      - [Sch. 15 para. 108](schedule/15/paragraph/108.md)
+    - Local radio multiplex licences
+      - [Sch. 15 para. 109](schedule/15/paragraph/109.md)
+    - Award of local multiplex licences
+      - [Sch. 15 para. 110](schedule/15/paragraph/110.md)
+    - Power to require two or more local radio multiplex licences to be granted to one person
+      - [Sch. 15 para. 111](schedule/15/paragraph/111.md)
+    - Failure to begin to provide licensed service
+      - [Sch. 15 para. 112](schedule/15/paragraph/112.md)
+    - Conditions which may be attached to radio multiplex licences
+      - [Sch. 15 para. 113](schedule/15/paragraph/113.md)
+    - Additional payments to be made in respect of national radio multiplex licences
+      - [Sch. 15 para. 114](schedule/15/paragraph/114.md)
+    - Multiplex revenue
+      - [Sch. 15 para. 115](schedule/15/paragraph/115.md)
+    - Attribution of radio multiplex revenue
+      - [Sch. 15 para. 116](schedule/15/paragraph/116.md)
+    - Duration and renewal of radio multiplex licences
+      - [Sch. 15 para. 117](schedule/15/paragraph/117.md)
+    - Enforcement of radio multiplex licences
+      - [Sch. 15 para. 118](schedule/15/paragraph/118.md)
+    - Digital sound programme licensing
+      - [Sch. 15 para. 119](schedule/15/paragraph/119.md)
+    - Conditions of digital sound programme licences
+      - [Sch. 15 para. 120](schedule/15/paragraph/120.md)
+    - Enforcement of digital sound programme licences
+      - [Sch. 15 para. 121](schedule/15/paragraph/121.md)
+    - Digital additional sound services
+      - [Sch. 15 para. 122](schedule/15/paragraph/122.md)
+    - Conditions of digital additional sound service
+      - [Sch. 15 para. 123](schedule/15/paragraph/123.md)
+    - Enforcement of digital additional sound services licences
+      - [Sch. 15 para. 124](schedule/15/paragraph/124.md)
+    - Review of digital radio broadcasting
+      - [Sch. 15 para. 125](schedule/15/paragraph/125.md)
+    - Interpretation
+      - [Sch. 15 para. 126](schedule/15/paragraph/126.md)
+    - Listed events
+      - [Sch. 15 para. 127](schedule/15/paragraph/127.md)
+      - [Sch. 15 para. 128](schedule/15/paragraph/128.md)
+      - [Sch. 15 para. 129](schedule/15/paragraph/129.md)
+      - [Sch. 15 para. 130](schedule/15/paragraph/130.md)
+      - [Sch. 15 para. 131](schedule/15/paragraph/131.md)
+    - Broadcasting standards
+      - [Sch. 15 para. 132](schedule/15/paragraph/132.md)
+      - [Sch. 15 para. 133](schedule/15/paragraph/133.md)
+      - [Sch. 15 para. 134](schedule/15/paragraph/134.md)
+      - [Sch. 15 para. 135](schedule/15/paragraph/135.md)
+      - [Sch. 15 para. 136](schedule/15/paragraph/136.md)
+      - [Sch. 15 para. 137](schedule/15/paragraph/137.md)
+    - Disqualification on grounds related to political objects
+      - [Sch. 15 para. 138](schedule/15/paragraph/138.md)
+    - Offence of providing false information
+      - [Sch. 15 para. 139](schedule/15/paragraph/139.md)
+    - Disqualification for supplying false information
+      - [Sch. 15 para. 140](schedule/15/paragraph/140.md)
+    - Interpretation
+      - [Sch. 15 para. 141](schedule/15/paragraph/141.md)
+    - Computation of qualifying revenue
+      - [Sch. 15 para. 142](schedule/15/paragraph/142.md)
+- SCHEDULE15A Video-sharing platform services: appropriate measures for the purposes of section 368Z1(1)
+  - Appropriate measures
+    - [Sch. 15A para. 1](schedule/15A/paragraph/1.md)
+    - [Sch. 15A para. 2](schedule/15A/paragraph/2.md)
+    - [Sch. 15A para. 3](schedule/15A/paragraph/3.md)
+    - [Sch. 15A para. 4](schedule/15A/paragraph/4.md)
+    - [Sch. 15A para. 5](schedule/15A/paragraph/5.md)
+    - [Sch. 15A para. 6](schedule/15A/paragraph/6.md)
+    - [Sch. 15A para. 7](schedule/15A/paragraph/7.md)
+    - [Sch. 15A para. 8](schedule/15A/paragraph/8.md)
+    - [Sch. 15A para. 9](schedule/15A/paragraph/9.md)
+  - Interpretation
+    - [Sch. 15A para. 10](schedule/15A/paragraph/10.md)
+- SCHEDULE 16 Further amendments in connection with media mergers
+  - Competition Act 1980 (c. 21)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - Gas Act 1986 (c. 44)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+  - Electricity Act 1989 (c. 29)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+  - Railways Act 1993 (c. 43)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+  - ...
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+  - Postal Services Act 2000 (c. 26)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+  - Transport Act 2000 (c. 38)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+  - Enterprise Act 2002 (c. 40)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - [Sch. 16 para. 12](schedule/16/paragraph/12.md)
+    - [Sch. 16 para. 13](schedule/16/paragraph/13.md)
+    - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+    - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - [Sch. 16 para. 17](schedule/16/paragraph/17.md)
+    - [Sch. 16 para. 18](schedule/16/paragraph/18.md)
+    - [Sch. 16 para. 19](schedule/16/paragraph/19.md)
+    - [Sch. 16 para. 20](schedule/16/paragraph/20.md)
+    - [Sch. 16 para. 21](schedule/16/paragraph/21.md)
+    - [Sch. 16 para. 22](schedule/16/paragraph/22.md)
+    - [Sch. 16 para. 23](schedule/16/paragraph/23.md)
+    - [Sch. 16 para. 24](schedule/16/paragraph/24.md)
+    - [Sch. 16 para. 25](schedule/16/paragraph/25.md)
+    - [Sch. 16 para. 26](schedule/16/paragraph/26.md)
+- Schedule 16A Penalties imposed by OFCOM under Parts 3A and 3B
+  - [Sch. 16A para. 1 Interpretation](schedule/16A/paragraph/1.md)
+  - [Sch. 16A para. 2 Amount of penalties: principles](schedule/16A/paragraph/2.md)
+  - [Sch. 16A para. 3 Maximum amount of penalties](schedule/16A/paragraph/3.md)
+  - [Sch. 16A para. 4 Maximum amount of penalties: group of entities](schedule/16A/paragraph/4.md)
+  - [Sch. 16A para. 5 Power to amend paragraphs 3 and 4](schedule/16A/paragraph/5.md)
+  - [Sch. 16A para. 6 Recovery of penalties](schedule/16A/paragraph/6.md)
+  - [Sch. 16A para. 7 Qualifying worldwide revenue](schedule/16A/paragraph/7.md)
+  - [Sch. 16A para. 8 Interpretation](schedule/16A/paragraph/8.md)
+- Schedule 16B Parts 3A and 3B: liability of parent entities etc
+  - [Sch. 16B para. 1 Interpretation](schedule/16B/paragraph/1.md)
+  - [Sch. 16B para. 2 Joint provisional notices of contravention](schedule/16B/paragraph/2.md)
+  - [Sch. 16B para. 3 Liability of parent entities for failures by subsidiary entities](schedule/16B/paragraph/3.md)
+  - [Sch. 16B para. 4 Liability of subsidiary entities for failures by parent entities](schedule/16B/paragraph/4.md)
+  - [Sch. 16B para. 5 Liability of fellow subsidiary entities for failures by subsidiary entities](schedule/16B/paragraph/5.md)
+  - [Sch. 16B para. 6 Liability of controlling individuals for failures by entities](schedule/16B/paragraph/6.md)
+  - [Sch. 16B para. 7 General](schedule/16B/paragraph/7.md)
+  - [Sch. 16B para. 8 General](schedule/16B/paragraph/8.md)
+- SCHEDULE 17 Minor and Consequential Amendments
+  - Interpretation
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - ...
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Law of Property Act 1925
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - Public Health Act 1925
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - London Overground Wires, etc Act 1933
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - Wireless Telegraphy Act 1949
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+  - Coast Protection Act 1949
+    - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+  - National Parks and Access to the Countryside Act 1949
+    - [Sch. 17 para. 20](schedule/17/paragraph/20.md)
+  - London County Council (General Powers) Act 1949
+    - [Sch. 17 para. 21](schedule/17/paragraph/21.md)
+  - Local Government (Miscellaneous Provisions) Act 1953
+    - [Sch. 17 para. 22](schedule/17/paragraph/22.md)
+  - Army Act 1955
+    - [Sch. 17 para. 23](schedule/17/paragraph/23.md)
+  - Air Force Act 1955
+    - [Sch. 17 para. 24](schedule/17/paragraph/24.md)
+  - Lough Neagh and Lower Bann Drainage and Navigation Act (Northern Ireland) 1955
+    - [Sch. 17 para. 25](schedule/17/paragraph/25.md)
+  - Naval Discipline Act 1957
+    - [Sch. 17 para. 26](schedule/17/paragraph/26.md)
+  - Opencast Coal Act 1958
+    - [Sch. 17 para. 27](schedule/17/paragraph/27.md)
+  - Pipe-lines Act 1962
+    - [Sch. 17 para. 28](schedule/17/paragraph/28.md)
+  - London County Council (General Powers) Act 1963
+    - [Sch. 17 para. 29](schedule/17/paragraph/29.md)
+  - Harbours Act 1964
+    - [Sch. 17 para. 30](schedule/17/paragraph/30.md)
+  - New Towns Act (Northern Ireland) 1965
+    - [Sch. 17 para. 31](schedule/17/paragraph/31.md)
+  - Marine, &c., Broadcasting (Offences) Act 1967
+    - [Sch. 17 para. 32](schedule/17/paragraph/32.md)
+    - [Sch. 17 para. 33](schedule/17/paragraph/33.md)
+    - [Sch. 17 para. 34](schedule/17/paragraph/34.md)
+    - [Sch. 17 para. 35](schedule/17/paragraph/35.md)
+    - [Sch. 17 para. 36](schedule/17/paragraph/36.md)
+  - Wireless Telegraphy Act 1967
+    - [Sch. 17 para. 37](schedule/17/paragraph/37.md)
+    - [Sch. 17 para. 38](schedule/17/paragraph/38.md)
+    - [Sch. 17 para. 39](schedule/17/paragraph/39.md)
+  - Countryside Act 1968
+    - [Sch. 17 para. 40](schedule/17/paragraph/40.md)
+  - Greater London Council (General Powers) Act 1969
+    - [Sch. 17 para. 41](schedule/17/paragraph/41.md)
+  - Harbours Act (Northern Ireland) 1970
+    - [Sch. 17 para. 42](schedule/17/paragraph/42.md)
+  - Thames Barrier and Flood Prevention Act 1972
+    - [Sch. 17 para. 43](schedule/17/paragraph/43.md)
+  - Fair Trading Act 1973
+    - [Sch. 17 para. 44](schedule/17/paragraph/44.md)
+  - Drainage (Northern Ireland) Order 1973
+    - [Sch. 17 para. 45](schedule/17/paragraph/45.md)
+  - Water and Sewerage Services (Northern Ireland) Order 1973
+    - [Sch. 17 para. 46](schedule/17/paragraph/46.md)
+  - Consumer Credit Act 1974
+    - [Sch. 17 para. 47](schedule/17/paragraph/47.md)
+  - House of Commons Disqualification Act 1975
+    - [Sch. 17 para. 48](schedule/17/paragraph/48.md)
+  - Northern Ireland Assembly Disqualification Act 1975
+    - [Sch. 17 para. 49](schedule/17/paragraph/49.md)
+  - Welsh Development Agency Act 1975
+    - [Sch. 17 para. 50](schedule/17/paragraph/50.md)
+  - Building Regulations (Northern Ireland) Order 1979
+    - [Sch. 17 para. 51](schedule/17/paragraph/51.md)
+  - Local Government, Planning and Land Act 1980
+    - [Sch. 17 para. 52](schedule/17/paragraph/52.md)
+  - Highways Act 1980
+    - [Sch. 17 para. 53](schedule/17/paragraph/53.md)
+    - [Sch. 17 para. 54](schedule/17/paragraph/54.md)
+    - [Sch. 17 para. 55](schedule/17/paragraph/55.md)
+    - [Sch. 17 para. 56](schedule/17/paragraph/56.md)
+  - New Towns Act 1981
+    - [Sch. 17 para. 57](schedule/17/paragraph/57.md)
+  - Acquisition of Land Act 1981
+    - [Sch. 17 para. 58](schedule/17/paragraph/58.md)
+  - Housing (Northern Ireland) Order 1981
+    - [Sch. 17 para. 59](schedule/17/paragraph/59.md)
+  - Civil Aviation Act 1982
+    - [Sch. 17 para. 60](schedule/17/paragraph/60.md)
+  - Representation of the People Act 1983
+    - [Sch. 17 para. 61](schedule/17/paragraph/61.md)
+    - [Sch. 17 para. 62](schedule/17/paragraph/62.md)
+  - Telecommunications Act 1984
+    - [Sch. 17 para. 63](schedule/17/paragraph/63.md)
+    - [Sch. 17 para. 64](schedule/17/paragraph/64.md)
+    - [Sch. 17 para. 65](schedule/17/paragraph/65.md)
+    - [Sch. 17 para. 66](schedule/17/paragraph/66.md)
+    - [Sch. 17 para. 67](schedule/17/paragraph/67.md)
+    - [Sch. 17 para. 68](schedule/17/paragraph/68.md)
+    - [Sch. 17 para. 69](schedule/17/paragraph/69.md)
+    - [Sch. 17 para. 70](schedule/17/paragraph/70.md)
+    - [Sch. 17 para. 71](schedule/17/paragraph/71.md)
+    - [Sch. 17 para. 72](schedule/17/paragraph/72.md)
+    - [Sch. 17 para. 73](schedule/17/paragraph/73.md)
+    - [Sch. 17 para. 74](schedule/17/paragraph/74.md)
+    - [Sch. 17 para. 75](schedule/17/paragraph/75.md)
+  - Cinemas Act 1985
+    - [Sch. 17 para. 76](schedule/17/paragraph/76.md)
+  - Surrogacy Arrangements Act 1985
+    - [Sch. 17 para. 77](schedule/17/paragraph/77.md)
+  - Bankruptcy (Scotland) Act 1985
+    - [Sch. 17 para. 78](schedule/17/paragraph/78.md)
+  - Housing Act 1985
+    - [Sch. 17 para. 79](schedule/17/paragraph/79.md)
+  - Airports Act 1986
+    - [Sch. 17 para. 80](schedule/17/paragraph/80.md)
+  - Gas Act 1986
+    - [Sch. 17 para. 81](schedule/17/paragraph/81.md)
+  - Insolvency Act 1986
+    - [Sch. 17 para. 82](schedule/17/paragraph/82.md)
+  - Company Directors Disqualification Act 1986
+    - [Sch. 17 para. 83](schedule/17/paragraph/83.md)
+  - Channel Tunnel Act 1987
+    - [Sch. 17 para. 84](schedule/17/paragraph/84.md)
+    - [Sch. 17 para. 85](schedule/17/paragraph/85.md)
+    - [Sch. 17 para. 86](schedule/17/paragraph/86.md)
+  - Consumer Protection (Northern Ireland) Order 1987
+    - [Sch. 17 para. 87](schedule/17/paragraph/87.md)
+  - Income and Corporation Taxes Act 1988
+    - [Sch. 17 para. 88](schedule/17/paragraph/88.md)
+  - Norfolk and Suffolk Broads Act 1988
+    - [Sch. 17 para. 89](schedule/17/paragraph/89.md)
+  - Malicious Communications Act 1988
+    - [Sch. 17 para. 90](schedule/17/paragraph/90.md)
+  - Copyright, Designs and Patents Act 1988
+    - [Sch. 17 para. 91](schedule/17/paragraph/91.md)
+    - [Sch. 17 para. 92](schedule/17/paragraph/92.md)
+    - [Sch. 17 para. 93](schedule/17/paragraph/93.md)
+  - Housing Act 1988
+    - [Sch. 17 para. 94](schedule/17/paragraph/94.md)
+  - Road Traffic Act 1988
+    - [Sch. 17 para. 95](schedule/17/paragraph/95.md)
+  - Water Act 1989
+    - [Sch. 17 para. 96](schedule/17/paragraph/96.md)
+  - Road Traffic (Driver Licensing and Information Systems) Act 1989
+    - [Sch. 17 para. 97](schedule/17/paragraph/97.md)
+  - Electricity Act 1989
+    - [Sch. 17 para. 98](schedule/17/paragraph/98.md)
+    - [Sch. 17 para. 99](schedule/17/paragraph/99.md)
+  - Local Government and Housing Act 1989
+    - [Sch. 17 para. 100](schedule/17/paragraph/100.md)
+  - Insolvency (Northern Ireland) Order 1989
+    - [Sch. 17 para. 101](schedule/17/paragraph/101.md)
+  - Town and Country Planning Act 1990
+    - [Sch. 17 para. 102](schedule/17/paragraph/102.md)
+    - [Sch. 17 para. 103](schedule/17/paragraph/103.md)
+    - [Sch. 17 para. 104](schedule/17/paragraph/104.md)
+    - [Sch. 17 para. 105](schedule/17/paragraph/105.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990
+    - [Sch. 17 para. 106](schedule/17/paragraph/106.md)
+  - London Local Authorities (No. 2) Act 1990
+    - [Sch. 17 para. 107](schedule/17/paragraph/107.md)
+  - New Roads and Street Works Act 1991
+    - [Sch. 17 para. 108](schedule/17/paragraph/108.md)
+  - Coal Mining Subsidence Act 1991
+    - [Sch. 17 para. 109](schedule/17/paragraph/109.md)
+  - Water Industry Act 1991
+    - [Sch. 17 para. 110](schedule/17/paragraph/110.md)
+    - [Sch. 17 para. 111](schedule/17/paragraph/111.md)
+    - [Sch. 17 para. 112](schedule/17/paragraph/112.md)
+  - Water Resources Act 1991
+    - [Sch. 17 para. 113](schedule/17/paragraph/113.md)
+    - [Sch. 17 para. 114](schedule/17/paragraph/114.md)
+    - [Sch. 17 para. 115](schedule/17/paragraph/115.md)
+  - Land Drainage Act 1991
+    - [Sch. 17 para. 116](schedule/17/paragraph/116.md)
+  - Planning (Northern Ireland) Order 1991
+    - [Sch. 17 para. 117](schedule/17/paragraph/117.md)
+  - Charities Act 1992
+    - [Sch. 17 para. 118](schedule/17/paragraph/118.md)
+  - Carriage of Goods by Sea Act 1992
+    - [Sch. 17 para. 119](schedule/17/paragraph/119.md)
+  - Electricity (Northern Ireland) Order 1992
+    - [Sch. 17 para. 120](schedule/17/paragraph/120.md)
+    - [Sch. 17 para. 121](schedule/17/paragraph/121.md)
+    - [Sch. 17 para. 122](schedule/17/paragraph/122.md)
+  - ...
+    - [Sch. 17 para. 123](schedule/17/paragraph/123.md)
+  - Cardiff Bay Barrage Act 1993
+    - [Sch. 17 para. 124](schedule/17/paragraph/124.md)
+    - [Sch. 17 para. 125](schedule/17/paragraph/125.md)
+    - [Sch. 17 para. 126](schedule/17/paragraph/126.md)
+  - Railways Act 1993
+    - [Sch. 17 para. 127](schedule/17/paragraph/127.md)
+  - Roads (Northern Ireland) Order 1993
+    - [Sch. 17 para. 128](schedule/17/paragraph/128.md)
+  - Value Added Tax Act 1994
+    - [Sch. 17 para. 129](schedule/17/paragraph/129.md)
+  - Criminal Justice and Public Order Act 1994
+    - [Sch. 17 para. 130](schedule/17/paragraph/130.md)
+  - Airports (Northern Ireland) Order 1994
+    - [Sch. 17 para. 131](schedule/17/paragraph/131.md)
+  - Merchant Shipping Act 1995
+    - [Sch. 17 para. 132](schedule/17/paragraph/132.md)
+  - Criminal Procedure (Scotland) Act 1995
+    - [Sch. 17 para. 133](schedule/17/paragraph/133.md)
+  - British Waterways Act 1995
+    - [Sch. 17 para. 134](schedule/17/paragraph/134.md)
+  - Street Works (Northern Ireland) Order 1995
+    - [Sch. 17 para. 135](schedule/17/paragraph/135.md)
+  - Housing Act 1996
+    - [Sch. 17 para. 136](schedule/17/paragraph/136.md)
+  - Housing Grants, Construction and Regeneration Act 1996
+    - [Sch. 17 para. 137](schedule/17/paragraph/137.md)
+  - Channel Tunnel Rail Link Act 1996
+    - [Sch. 17 para. 138](schedule/17/paragraph/138.md)
+    - [Sch. 17 para. 139](schedule/17/paragraph/139.md)
+  - Gas (Northern Ireland) Order 1996
+    - [Sch. 17 para. 140](schedule/17/paragraph/140.md)
+    - [Sch. 17 para. 141](schedule/17/paragraph/141.md)
+    - [Sch. 17 para. 142](schedule/17/paragraph/142.md)
+  - Construction Contracts (Northern Ireland) Order 1997
+    - [Sch. 17 para. 143](schedule/17/paragraph/143.md)
+  - Waste and Contaminated Land (Northern Ireland) Order 1997
+    - [Sch. 17 para. 144](schedule/17/paragraph/144.md)
+  - Wireless Telegraphy Act 1998
+    - [Sch. 17 para. 145](schedule/17/paragraph/145.md)
+    - [Sch. 17 para. 146](schedule/17/paragraph/146.md)
+    - [Sch. 17 para. 147](schedule/17/paragraph/147.md)
+    - [Sch. 17 para. 148](schedule/17/paragraph/148.md)
+    - [Sch. 17 para. 149](schedule/17/paragraph/149.md)
+    - [Sch. 17 para. 150](schedule/17/paragraph/150.md)
+    - [Sch. 17 para. 151](schedule/17/paragraph/151.md)
+  - Finance Act 1998
+    - [Sch. 17 para. 152](schedule/17/paragraph/152.md)
+  - Competition Act 1998
+    - [Sch. 17 para. 153](schedule/17/paragraph/153.md)
+    - [Sch. 17 para. 154](schedule/17/paragraph/154.md)
+  - Regional Development Agencies Act 1998
+    - [Sch. 17 para. 155](schedule/17/paragraph/155.md)
+  - Finance Act 1999
+    - [Sch. 17 para. 156](schedule/17/paragraph/156.md)
+  - Greater London Authority Act 1999
+    - [Sch. 17 para. 157](schedule/17/paragraph/157.md)
+  - Electronic Communications Act 2000
+    - [Sch. 17 para. 158](schedule/17/paragraph/158.md)
+  - Television Licences (Disclosure of Information) Act 2000
+    - [Sch. 17 para. 159](schedule/17/paragraph/159.md)
+  - Finance Act 2000M
+    - [Sch. 17 para. 160](schedule/17/paragraph/160.md)
+  - Regulation of Investigatory Powers Act 2000
+    - [Sch. 17 para. 161](schedule/17/paragraph/161.md)
+  - Postal Services Act 2000
+    - [Sch. 17 para. 162](schedule/17/paragraph/162.md)
+  - Utilities Act 2000
+    - [Sch. 17 para. 163](schedule/17/paragraph/163.md)
+  - Freedom of Information Act 2000
+    - [Sch. 17 para. 164](schedule/17/paragraph/164.md)
+  - Countryside and Rights of Way Act 2000
+    - [Sch. 17 para. 165](schedule/17/paragraph/165.md)
+  - Transport Act 2000
+    - [Sch. 17 para. 166](schedule/17/paragraph/166.md)
+  - Political Parties, Elections and Referendums Act 2000
+    - [Sch. 17 para. 167](schedule/17/paragraph/167.md)
+  - Vehicles (Crime) Act 2001
+    - [Sch. 17 para. 168](schedule/17/paragraph/168.md)
+  - Criminal Justice and Police Act 2001
+    - [Sch. 17 para. 169](schedule/17/paragraph/169.md)
+  - Electronic Communications Act (Northern Ireland) 2001
+    - [Sch. 17 para. 170](schedule/17/paragraph/170.md)
+  - Office of Communications Act 2002
+    - [Sch. 17 para. 171](schedule/17/paragraph/171.md)
+    - [Sch. 17 para. 172](schedule/17/paragraph/172.md)
+  - Tobacco Advertising and Promotion Act 2002
+    - [Sch. 17 para. 173](schedule/17/paragraph/173.md)
+  - Enterprise Act 2002
+    - [Sch. 17 para. 174](schedule/17/paragraph/174.md)
+  - Income Tax (Earnings and Pensions) Act 2003
+    - [Sch. 17 para. 175](schedule/17/paragraph/175.md)
+- SCHEDULE 18 Transitional Provisions
+  - General
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Steps taken in anticipation of passing or coming into force of Act
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Savings for agreements referring to the termination of a 1984 Act licence
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+  - Saving for agreements with special provision for 1984 Act licence holders
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+  - General saving for agreements conditional on certain Broadcasting Act licences
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+  - Orders under Part 2 of the Deregulation and Contracting Out Act 1994
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Pre-commencement proposals relating to universal service matters
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+  - Local loop notifications
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+  - Conditions relating to premium rate services and conditions corresponding to SMP or access-related conditions
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+  - Pre-commencement proposals relating to market power determinations
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+  - Savings for licence conditions relating to accounting
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+  - Charges under Telecommunications Act licences
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - Enforcement of breaches of licence conditions
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+  - Saving for agreements having effect by reference to licensing regime
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - Fees for approvals for the purposes of licence conditions
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+  - Allocated telephone numbers
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+  - Electronic communications code
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+  - Saving for guarantees of liabilities of telecommunications code operators
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - Compulsory purchase
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+  - Notices under section 1D of the Wireless Telegraphy Act 1949
+    - [Sch. 18 para. 20](schedule/18/paragraph/20.md)
+  - Notices under regulations under section 3 of the Wireless Telegraphy Act 1998
+    - [Sch. 18 para. 21](schedule/18/paragraph/21.md)
+  - Disputes about interconnection
+    - [Sch. 18 para. 22](schedule/18/paragraph/22.md)
+  - Appeals against wireless telegraphy and telecommunications decisions
+    - [Sch. 18 para. 23](schedule/18/paragraph/23.md)
+  - Section 94 of the Telecommunications Act 1984
+    - [Sch. 18 para. 24](schedule/18/paragraph/24.md)
+  - Competition Commission: specialist panel members
+    - [Sch. 18 para. 25](schedule/18/paragraph/25.md)
+  - Transitory amendments to telecommunications terms in Broadcasting Act 1990
+    - [Sch. 18 para. 26](schedule/18/paragraph/26.md)
+  - Activities of the Welsh Authority
+    - [Sch. 18 para. 27](schedule/18/paragraph/27.md)
+  - Gaelic Broadcasting
+    - [Sch. 18 para. 28](schedule/18/paragraph/28.md)
+    - [Sch. 18 para. 29](schedule/18/paragraph/29.md)
+  - Pre-transfer Broadcasting Act licences
+    - [Sch. 18 para. 30](schedule/18/paragraph/30.md)
+  - Channels 3 and 5
+    - [Sch. 18 para. 31](schedule/18/paragraph/31.md)
+  - Saving pending replacement of licences for Channels 3 and 5 and the public teletext service
+    - [Sch. 18 para. 32](schedule/18/paragraph/32.md)
+  - Digital additional licences
+    - [Sch. 18 para. 33](schedule/18/paragraph/33.md)
+  - Programme quotas
+    - [Sch. 18 para. 34](schedule/18/paragraph/34.md)
+  - Continuity in relation to appointed news provider
+    - [Sch. 18 para. 35](schedule/18/paragraph/35.md)
+  - Networking arrangements
+    - [Sch. 18 para. 36](schedule/18/paragraph/36.md)
+  - Determination of qualifying revenue
+    - [Sch. 18 para. 37](schedule/18/paragraph/37.md)
+  - Rules for political broadcasts
+    - [Sch. 18 para. 38](schedule/18/paragraph/38.md)
+  - Functions under section 88 of the 1990 Act
+    - [Sch. 18 para. 39](schedule/18/paragraph/39.md)
+  - Notices under section 94 of the 1990 Act
+    - [Sch. 18 para. 40](schedule/18/paragraph/40.md)
+  - Programme standards: television
+    - [Sch. 18 para. 41](schedule/18/paragraph/41.md)
+  - Programme standards: radio
+    - [Sch. 18 para. 42](schedule/18/paragraph/42.md)
+  - Standards code
+    - [Sch. 18 para. 43](schedule/18/paragraph/43.md)
+  - Local and national radio licences
+    - [Sch. 18 para. 44](schedule/18/paragraph/44.md)
+  - Section 111B of the 1990 Act
+    - [Sch. 18 para. 45](schedule/18/paragraph/45.md)
+  - Section 185 of the 1990 Act
+    - [Sch. 18 para. 46](schedule/18/paragraph/46.md)
+  - Section 28 of the 1996 Act
+    - [Sch. 18 para. 47](schedule/18/paragraph/47.md)
+  - Section 48 of the 1996 Act
+    - [Sch. 18 para. 48](schedule/18/paragraph/48.md)
+  - Applications for extension of pre-transfer licences
+    - [Sch. 18 para. 49](schedule/18/paragraph/49.md)
+  - Applications for renewal of licences under 1990 Act and 1996 Act
+    - [Sch. 18 para. 50](schedule/18/paragraph/50.md)
+  - Listed events rules
+    - [Sch. 18 para. 51](schedule/18/paragraph/51.md)
+  - Complaints to the Broadcasting Standards Commission
+    - [Sch. 18 para. 52](schedule/18/paragraph/52.md)
+  - Codes of practice drawn up by the Broadcasting Standards Commission
+    - [Sch. 18 para. 53](schedule/18/paragraph/53.md)
+  - Media ownership provisions
+    - [Sch. 18 para. 54](schedule/18/paragraph/54.md)
+  - TV licences
+    - [Sch. 18 para. 55](schedule/18/paragraph/55.md)
+  - Functions under the Enterprise Act 2002
+    - [Sch. 18 para. 56](schedule/18/paragraph/56.md)
+  - Functions under the Competition Act 1998
+    - [Sch. 18 para. 57](schedule/18/paragraph/57.md)
+    - [Sch. 18 para. 58](schedule/18/paragraph/58.md)
+  - Newspaper mergers
+    - [Sch. 18 para. 59](schedule/18/paragraph/59.md)
+    - [Sch. 18 para. 60](schedule/18/paragraph/60.md)
+    - [Sch. 18 para. 61](schedule/18/paragraph/61.md)
+    - [Sch. 18 para. 62](schedule/18/paragraph/62.md)
+  - Orders in Council under section 6 of the Continental Shelf Act 1964
+    - [Sch. 18 para. 63](schedule/18/paragraph/63.md)
+  - Interpretation of Schedule
+    - [Sch. 18 para. 64](schedule/18/paragraph/64.md)
+- SCHEDULE 19 Repeals
+  - Note
+    - [Sch. 19 para. 1](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6](schedule/19/paragraph/6.md)
