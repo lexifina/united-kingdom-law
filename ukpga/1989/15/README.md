@@ -1,0 +1,530 @@
+# Water Act 1989
+
+1989 c. 15. Enacted 1989-07-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 6 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1989/15
+
+Source: https://www.legislation.gov.uk/ukpga/1989/15/2026-04-06
+
+## Contents
+
+- Part I Preliminary
+  - The National Rivers Authority and the advisory committees
+    - [s. 1 The National Rivers Authority.](section/1.md)
+    - [s. 2 ................................](section/2.md)
+  - The transfer of the water authorities’ functions etc.
+    - [s. 4 Transfer of the water authorities’ functions etc.](section/4.md)
+  - The Director General of Water Services and the customer service committees
+    - [s. 5 The Director General of Water Services.](section/5.md)
+    - [s. 6 Customer service committees.](section/6.md)
+    - [s. 7 ................................](section/7.md)
+- Part II Water Supply and Sewerage Services
+  - Chapter I Appointment and Regulation of Water and Sewerage Undertakers
+    - Making and conditions of appointments
+      - [s. 11 Appointment of undertakers.](section/11.md)
+      - [s. 12 ................................](section/12.md)
+      - [s. 13 Procedure for replacement appointments.](section/13.md)
+      - [s. 14 ................................](section/14.md)
+    - Special administration orders
+      - [s. 23 Special administration orders in relation to water or sewerage undertakers.](section/23.md)
+      - [s. 24 ................................](section/24.md)
+      - [s. 29 ................................](section/29.md)
+      - [s. 31 ................................](section/31.md)
+  - Chapter II
+    - [s. 37 ................................](section/37.md)
+  - Chapter III Provision of Sewerage Services
+    - [s. 67 ................................](section/67.md)
+    - [s. 69 Transfer of principal sewerage functions.](section/69.md)
+    - [s. 70 Allocation of cross boundary sewers.](section/70.md)
+    - [s. 71 ................................](section/71.md)
+    - [s. 72 ................................](section/72.md)
+    - [s. 73 ................................](section/73.md)
+  - Chapter IV
+    - [s. 75 ................................](section/75.md)
+  - Chapter V Ownership and Finances of Successor Companies etc.
+    - [s. 83 Initial Government holdings.](section/83.md)
+    - [s. 84 Government financial assistance for companies wholly owned by the Crown.](section/84.md)
+    - [s. 85 Transfer of successor company liabilities to holding companies.](section/85.md)
+    - [s. 86 Conversion of certain loans.](section/86.md)
+    - [s. 87 Government investment in securities of the nominated holding companies.](section/87.md)
+    - [s. 88 Exercise of functions through nominees.](section/88.md)
+    - [s. 89 Target investment limit for Government shareholding.](section/89.md)
+    - [s. 90 Responsibility for listing particulars of nominated holding companies.](section/90.md)
+    - [s. 91 Statutory accounts of the group.](section/91.md)
+    - [s. 92 Temporary restrictions on borrowings etc. by the group.](section/92.md)
+    - [s. 93 Reserves of the successor companies.](section/93.md)
+    - [s. 94 Application of Trustee Investments Act 1961 in relation to investment in the nominated holding companies.](section/94.md)
+    - [s. 95 Tax provisions.](section/95.md)
+    - [s. 96 Interpretation of Chapter V.](section/96.md)
+  - Chapter VI Statutory Water Companies
+    - [s. 97 ................................](section/97.md)
+- Part III The Protection and Management of Rivers and other Waters
+  - Chapter I Control of Pollution
+    - General provisions
+      - [s. 103 ................................](section/103.md)
+  - Chapter II
+    - [s. 125 ................................](section/125.md)
+  - Chapter III Flood Defence
+    - [s. 136 Flood defence functions of the Authority.](section/136.md)
+    - [s. 137 Establishment of regional flood defence committees.](section/137.md)
+    - [s. 138 ................................](section/138.md)
+    - [s. 139 Local flood defence schemes and local flood defence committees.](section/139.md)
+    - [s. 140 ................................](section/140.md)
+  - Chapter IV Salmon and Freshwater Fisheries
+    - [s. 141 Functions of the Authority in relation to fisheries.](section/141.md)
+  - Chapter V Navigation, Conservancy and Harbour Authority Functions
+    - [s. 142 Navigation, conservancy and harbour authority functions.](section/142.md)
+  - Chapter VI
+    - [s. 143 ................................](section/143.md)
+- Part IV Powers in Relation to Land and Works Powers etc.
+  - [s. 151 ................................](section/151.md)
+- Part V Provisions relating to Scotland
+  - [s. 168 Water quality in Scotland.](section/168.md)
+  - [s. 169 Control of water pollution in Scotland.](section/169.md)
+- Part VI Misc1ellaneous and Supplemental
+  - [s. 170 ................................](section/170.md)
+  - Indemnities in respect of fluoridation
+    - [s. 172 Indemnities in respect of fluoridation.](section/172.md)
+  - Payments to existing pension fund
+    - [s. 173 Payments to existing pension fund.](section/173.md)
+  - Information etc.
+    - [s. 174 General restrictions on disclosure of information.](section/174.md)
+    - [s. 175 Making of false statements etc.](section/175.md)
+    - [s. 176 ................................](section/176.md)
+  - Offences
+    - [s. 177 Offences by bodies corporate.](section/177.md)
+    - [s. 178 ................................](section/178.md)
+  - Financial provisions
+    - [s. 183 General financial provisions.](section/183.md)
+    - [s. 184 Government guarantees.](section/184.md)
+  - Subordinate legislation
+    - [s. 185 Powers to make regulations.](section/185.md)
+    - [s. 186 ................................](section/186.md)
+  - Interpretation provisions
+    - [s. 187 Interpretation of references to the service of documents.](section/187.md)
+    - [s. 188 ................................](section/188.md)
+    - [s. 189 General interpretation.](section/189.md)
+  - Other supplemental provisions
+    - [s. 190 Amendments, transitional provisions, savings and repeals.](section/190.md)
+    - [s. 191 Local statutory provisions: consequential amendments etc.](section/191.md)
+    - [s. 192 Application to Crown land etc.](section/192.md)
+    - [s. 193 Application to Isles of Scilly.](section/193.md)
+    - [s. 194 Short title, commencement and extent.](section/194.md)
+- SCHEDULE 1 The National Rivers Authority
+  - Part I Organisation and Proceedings etc. of Authority
+    - Membership
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - The Parliamentary Commissioner
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - The Local Commissioners
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Parliamentary disqualification etc.
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Interpretation
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+  - Part II
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+- SCHEDULE 2 Schemes providing for the Initial Transfers
+  - Making and modification of schemes
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Transfers by scheme
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Supplemental provisions of schemes
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Duties of water authorities after the scheme comes into force
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 The Director General of Water Services
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - The Parliamentary Commissioner
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Parliamentary disqualification etc.
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Customer Service Committees
+  - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - Parliamentary disqualification etc.
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+- SCHEDULE 5 Transitional Provision on Termination of Appointments
+  - Cases where Schedule applies
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Making and modification of transfer schemes
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Transfers by scheme
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Supplemental provisions of schemes
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Duties of existing appointee after the scheme comes into force
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Further transitional provision and local statutory provisions
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+- SCHEDULE 6 ................................
+- SCHEDULE 7 ................................
+- SCHEDULE 8 Sewerage Functions
+  - General
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - The Public Health Act 1936 (c. 49)
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - The Public Health (Drainage of Trade Premises) Act 1937 (c. 40)
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - The Building Act 1984 (c. 55)
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+- SCHEDULES 9—14 ................................
+- SCHEDULE 15 Amendments of the Land Drainage Act 1976
+  - General
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Section 4 of the 1976 Act
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Section 5 of the 1976 Act
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - Section 9 of the 1976 Act
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Section 17 of the 1976 Act
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Section 21 of the 1976 Act
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Section 22 of the 1976 Act
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Section 23 of the 1976 Act
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Section 24 of the 1976 Act
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Section 26 of the 1976 Act
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Section 27 of the 1976 Act
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - Section 28 of the 1976 Act
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Section 29 of the 1976 Act
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - Section 32 of the 1976 Act
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - Section 34 of the 1976 Act
+    - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+  - Section 36 of the 1976 Act
+    - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - Section 37 of the 1976 Act
+    - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - Section 45 of the 1976 Act
+    - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - Section 46 of the 1976 Act
+    - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - Section 48 of the 1976 Act
+    - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+  - Section 49 of the 1976 Act
+    - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+  - Section 50 of the 1976 Act
+    - [Sch. 15 para. 22](schedule/15/paragraph/22.md)
+  - Section 51 of the 1976 Act
+    - [Sch. 15 para. 23](schedule/15/paragraph/23.md)
+  - Section 54 of the 1976 Act
+    - [Sch. 15 para. 24](schedule/15/paragraph/24.md)
+  - Section 59 of the 1976 Act
+    - [Sch. 15 para. 25](schedule/15/paragraph/25.md)
+  - Section 62 of the 1976 Act
+    - [Sch. 15 para. 26](schedule/15/paragraph/26.md)
+  - Section 64 of the 1976 Act
+    - [Sch. 15 para. 27](schedule/15/paragraph/27.md)
+  - Section 68 of the 1976 Act
+    - [Sch. 15 para. 28](schedule/15/paragraph/28.md)
+  - Section 88 of the 1976 Act
+    - [Sch. 15 para. 29](schedule/15/paragraph/29.md)
+  - Section 89 of the 1976 Act
+    - [Sch. 15 para. 30](schedule/15/paragraph/30.md)
+  - Section 90 of the 1976 Act
+    - [Sch. 15 para. 31](schedule/15/paragraph/31.md)
+  - Section 93 of the 1976 Act
+    - [Sch. 15 para. 32](schedule/15/paragraph/32.md)
+  - Section 94 of the 1976 Act
+    - [Sch. 15 para. 33](schedule/15/paragraph/33.md)
+  - Section 100 of the 1976 Act
+    - [Sch. 15 para. 34](schedule/15/paragraph/34.md)
+  - Section 109 of the 1976 Act
+    - [Sch. 15 para. 35](schedule/15/paragraph/35.md)
+  - Section 110 of the 1976 Act
+    - [Sch. 15 para. 36](schedule/15/paragraph/36.md)
+  - Section 112 of the 1976 Act
+    - [Sch. 15 para. 37](schedule/15/paragraph/37.md)
+  - Section 116 of the 1976 Act
+    - [Sch. 15 para. 38](schedule/15/paragraph/38.md)
+  - Schedule 1 to the 1976 Act
+    - [Sch. 15 para. 39](schedule/15/paragraph/39.md)
+  - Schedule 2 to the 1976 Act
+    - [Sch. 15 para. 40](schedule/15/paragraph/40.md)
+  - Schedule 4 to the 1976 Act
+    - [Sch. 15 para. 41](schedule/15/paragraph/41.md)
+- SCHEDULE 16 ................................
+- SCHEDULE 17 Transfer of Fisheries Functions to the Authority
+  - General modifications of references to water authorities
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Power to amend subordinate legislation etc
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - The Diseases of Fish Act 1937 (c. 33)
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - The Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (c. 26)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - The Sea Fisheries Regulation Act 1966 (c. 38)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - The Sea Fish (Conservation) Act 1967 (c. 84)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - The Salmon and Freshwater Fisheries Act 1975 (c. 51)
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - The Diseases of Fish Act 1983 (c. 30)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+  - The Salmon Act 1986 (c. 62)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+- SCHEDULES 18—21 ................................
+- SCHEDULE 22 Water Quality in Scotland
+  - [Sch. 22 para. 1](schedule/22/paragraph/1.md)
+- SCHEDULE 23 Control of Water Pollution in Scotland
+  - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+  - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+  - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+  - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+  - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+  - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+  - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+- SCHEDULE 24 ................................
+- SCHEDULE 25 Minor and Consequential Amendments
+  - Adaptation of enactments relating to statutory undertakers etc.
+    - [Sch. 25 para. 1](schedule/25/paragraph/1.md)
+  - Adaptation of enactments referring to the Drought Act 1976
+    - [Sch. 25 para. 2](schedule/25/paragraph/2.md)
+  - The Public Health Act 1875 (Support of Sewers) Amendment Act 1883 (c. 37)
+    - [Sch. 25 para. 3](schedule/25/paragraph/3.md)
+  - The Public Health (Scotland) Act 1897 (c. 38)
+    - [Sch. 25 para. 4](schedule/25/paragraph/4.md)
+  - The Public Health Act 1936 (c. 49)
+    - [Sch. 25 para. 5](schedule/25/paragraph/5.md)
+  - The Requisitioned Land and War Works Act 1948 (c. 17)
+    - [Sch. 25 para. 6](schedule/25/paragraph/6.md)
+  - The Requisitioned Land and War Works Act 1945 (c. 43)
+    - [Sch. 25 para. 8](schedule/25/paragraph/8.md)
+  - The Fire Services Act 1947 (c. 41)
+    - [Sch. 25 para. 9](schedule/25/paragraph/9.md)
+    - [Sch. 25 para. 10](schedule/25/paragraph/10.md)
+  - The Coast Protection Act 1949 (c. 74)
+    - [Sch. 25 para. 11](schedule/25/paragraph/11.md)
+  - The Agricultural Holdings (Scotland) Act 1949 (c. 75)
+    - [Sch. 25 para. 12](schedule/25/paragraph/12.md)
+  - The National Parks and Access to the Countryside Act 1949 (c. 97)
+    - [Sch. 25 para. 13](schedule/25/paragraph/13.md)
+    - [Sch. 25 para. 14](schedule/25/paragraph/14.md)
+  - The Border Rivers (Prevention of Pollution) Act 1951 (c. 7)
+    - [Sch. 25 para. 15](schedule/25/paragraph/15.md)
+  - The Reserve and Auxiliary Forces (Protection of Civil Interests)Act 1951 (c. 65)
+    - [Sch. 25 para. 16](schedule/25/paragraph/16.md)
+  - The Rivers (Prevention of Pollution) (Scotland) Act 1951 (c. 66)
+    - [Sch. 25 para. 17](schedule/25/paragraph/17.md)
+  - The Finance Act 1952 (c. 33)
+    - [Sch. 25 para. 18](schedule/25/paragraph/18.md)
+  - The Town Development Act 1952 (c. 54)
+    - [Sch. 25 para. 19](schedule/25/paragraph/19.md)
+  - The Local Government (Miscellaneous Provisions) Act 1953 (c. 26)
+    - [Sch. 25 para. 20](schedule/25/paragraph/20.md)
+  - The Rural Water Supplies and Sewerage Act 1955 (c. 13)
+    - [Sch. 25 para. 21](schedule/25/paragraph/21.md)
+  - The Valuation and Rating (Scotland) Act 1956 (c. 60)
+    - [Sch. 25 para. 22](schedule/25/paragraph/22.md)
+  - The Coal-Mining (Subsidence) Act 1957 (c. 59)
+    - [Sch. 25 para. 23](schedule/25/paragraph/23.md)
+  - The Manoeuvres Act 1958 (c. 7)
+    - [Sch. 25 para. 24](schedule/25/paragraph/24.md)
+  - The Finance Act 1958 (c. 56)
+    - [Sch. 25 para. 25](schedule/25/paragraph/25.md)
+  - The Opencast Coal Act 1958 (c. 69)
+    - [Sch. 25 para. 26](schedule/25/paragraph/26.md)
+  - The Radioactive Substances Act 1960 (c. 34)
+    - [Sch. 25 para. 27](schedule/25/paragraph/27.md)
+  - The Public Bodies (Admission to Meetings) Act 1960 (c. 67)
+    - [Sch. 25 para. 28](schedule/25/paragraph/28.md)
+  - The Trustee Investments Act 1961 (c. 62)
+    - [Sch. 25 para. 29](schedule/25/paragraph/29.md)
+  - The Pipe-lines Act 1962 (c. 58)
+    - [Sch. 25 para. 30](schedule/25/paragraph/30.md)
+  - The Harbours Act 1964 (c. 40)
+    - [Sch. 25 para. 31](schedule/25/paragraph/31.md)
+  - The Gas Act 1965 (c. 36)
+    - [Sch. 25 para. 32](schedule/25/paragraph/32.md)
+  - The Nuclear Installations Act 1965 (c. 57)
+    - [Sch. 25 para. 33](schedule/25/paragraph/33.md)
+  - The Agriculture Act 1967 (c. 22)
+    - [Sch. 25 para. 34](schedule/25/paragraph/34.md)
+  - The Leasehold Reform Act 1967 (c. 88)
+    - [Sch. 25 para. 35](schedule/25/paragraph/35.md)
+  - The Capital Allowances Act 1968 (c. 3)
+    - [Sch. 25 para. 36](schedule/25/paragraph/36.md)
+  - The Countryside Act 1968 (c. 41)
+    - [Sch. 25 para. 37](schedule/25/paragraph/37.md)
+  - The Transport Act 1968 (c. 73)
+    - [Sch. 25 para. 38](schedule/25/paragraph/38.md)
+  - The Post Office Act 1969 (c. 48)
+    - [Sch. 25 para. 39](schedule/25/paragraph/39.md)
+  - The Local Authorities (Goods and Services) Act 1970 (c. 39)
+    - [Sch. 25 para. 40](schedule/25/paragraph/40.md)
+  - The Agriculture Act 1970 (c. 40)
+    - [Sch. 25 para. 41](schedule/25/paragraph/41.md)
+  - The Town and Country Planning Act 1971 (c. 78)
+    - [Sch. 25 para. 42](schedule/25/paragraph/42.md)
+  - The Local Government Act 1972 (c. 70)
+    - [Sch. 25 para. 43](schedule/25/paragraph/43.md)
+  - The Land Compensation Act 1973 (c. 26)
+    - [Sch. 25 para. 44](schedule/25/paragraph/44.md)
+  - The Fair Trading Act 1973 (c. 41)
+    - [Sch. 25 para. 45](schedule/25/paragraph/45.md)
+  - The Health and Safety at Work etc. Act 1974 (c. 37)
+    - [Sch. 25 para. 46](schedule/25/paragraph/46.md)
+  - The Consumer Credit Act 1974 (c. 39)
+    - [Sch. 25 para. 47](schedule/25/paragraph/47.md)
+  - The Control of Pollution Act 1974 (c. 40)
+    - [Sch. 25 para. 48](schedule/25/paragraph/48.md)
+  - The Reservoirs Act 1975 (c. 23)
+    - [Sch. 25 para. 49](schedule/25/paragraph/49.md)
+  - The Coal Industry Act 1975 (c. 56)
+    - [Sch. 25 para. 50](schedule/25/paragraph/50.md)
+  - The Welsh Development Agency Act 1975 (c. 70)
+    - [Sch. 25 para. 51](schedule/25/paragraph/51.md)
+  - The Local Land Charges Act 1975 (c. 76)
+    - [Sch. 25 para. 52](schedule/25/paragraph/52.md)
+  - The Restrictive Trade Practices Act 1976 (c. 34)
+    - [Sch. 25 para. 53](schedule/25/paragraph/53.md)
+  - The Development of Rural Wales Act 1976 (c. 75)
+    - [Sch. 25 para. 54](schedule/25/paragraph/54.md)
+  - The Interpretation Act 1978 (c. 30)
+    - [Sch. 25 para. 55](schedule/25/paragraph/55.md)
+  - The Employment Protection (Consolidation) Act 1978 (c. 44)
+    - [Sch. 25 para. 56](schedule/25/paragraph/56.md)
+  - The Estate Agents Act 1979 (c. 38)
+    - [Sch. 25 para. 57](schedule/25/paragraph/57.md)
+  - The Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+    - [Sch. 25 para. 58](schedule/25/paragraph/58.md)
+  - The Competition Act 1980 (c. 21)
+    - [Sch. 25 para. 59](schedule/25/paragraph/59.md)
+  - The Water (Scotland) Act 1980 (c. 45)
+    - [Sch. 25 para. 60](schedule/25/paragraph/60.md)
+  - The Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 25 para. 61](schedule/25/paragraph/61.md)
+  - The Highways Act 1980 (c. 66)
+    - [Sch. 25 para. 62](schedule/25/paragraph/62.md)
+  - The Water Act 1981 (c. 12)
+    - [Sch. 25 para. 63](schedule/25/paragraph/63.md)
+  - The New Towns Act 1981 (c. 64)
+    - [Sch. 25 para. 64](schedule/25/paragraph/64.md)
+  - The Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 25 para. 65](schedule/25/paragraph/65.md)
+  - The Wildlife and Countryside Act 1981 (c. 69)
+    - [Sch. 25 para. 66](schedule/25/paragraph/66.md)
+  - The Civil Aviation Act 1982 (c. 16)
+    - [Sch. 25 para. 67](schedule/25/paragraph/67.md)
+  - The Telecommunications Act 1984 (c. 12)
+    - [Sch. 25 para. 68](schedule/25/paragraph/68.md)
+  - The Road Traffic Regulation Act 1984 (c. 27)
+    - [Sch. 25 para. 69](schedule/25/paragraph/69.md)
+  - The Building Act 1984 (c. 55)
+    - [Sch. 25 para. 70](schedule/25/paragraph/70.md)
+  - The Companies Act 1985 (c. 6)
+    - [Sch. 25 para. 71](schedule/25/paragraph/71.md)
+  - The Business Names Act 1985 (c. 7)
+    - [Sch. 25 para. 72](schedule/25/paragraph/72.md)
+  - The Water (Fluoridation) Act 1985 (c. 63)
+    - [Sch. 25 para. 73](schedule/25/paragraph/73.md)
+  - The Housing Act 1985 (c. 68)
+    - [Sch. 25 para. 74](schedule/25/paragraph/74.md)
+  - The Agricultural Holdings Act 1986 (c. 5)
+    - [Sch. 25 para. 75](schedule/25/paragraph/75.md)
+  - The Airports Act 1986 (c. 31)
+    - [Sch. 25 para. 76](schedule/25/paragraph/76.md)
+  - The Gas Act 1986 (c. 44)
+    - [Sch. 25 para. 77](schedule/25/paragraph/77.md)
+  - The Insolvency Act 1986 (c. 45)
+    - [Sch. 25 para. 78](schedule/25/paragraph/78.md)
+  - The Local Government Act 1988 (c. 9)
+    - [Sch. 25 para. 79](schedule/25/paragraph/79.md)
+  - The Local Government Finance Act 1988 (c. 41)
+    - [Sch. 25 para. 80](schedule/25/paragraph/80.md)
+- SCHEDULE 26 Transitional Provisions and Savings
+  - Part I Water Authorities
+    - Water authority members
+      - [Sch. 26 para. 1](schedule/26/paragraph/1.md)
+    - Pensions etc.
+      - [Sch. 26 para. 2](schedule/26/paragraph/2.md)
+    - The Local Government Act 1974 (c. 7)
+      - [Sch. 26 para. 3](schedule/26/paragraph/3.md)
+  - Part II Water and Sewerage Services
+    - Arrangements with statutory water companies
+      - [Sch. 26 para. 4](schedule/26/paragraph/4.md)
+    - Agreements for water supply in bulk
+      - [Sch. 26 para. 5](schedule/26/paragraph/5.md)
+    - Water main requisitions
+      - [Sch. 26 para. 6](schedule/26/paragraph/6.md)
+    - Domestic connections
+      - [Sch. 26 para. 7](schedule/26/paragraph/7.md)
+    - Non-domestic supplies
+      - [Sch. 26 para. 8](schedule/26/paragraph/8.md)
+      - [Sch. 26 para. 9](schedule/26/paragraph/9.md)
+    - Sewerage functions under the Public Health Acts
+      - [Sch. 26 para. 13](schedule/26/paragraph/13.md)
+    - Sewer requisitions
+      - [Sch. 26 para. 14](schedule/26/paragraph/14.md)
+    - Arrangements for carrying out sewerage functions
+      - [Sch. 26 para. 15](schedule/26/paragraph/15.md)
+    - Water charges etc.
+      - [Sch. 26 para. 16](schedule/26/paragraph/16.md)
+    - Joint water boards and joint water committees
+      - [Sch. 26 para. 17](schedule/26/paragraph/17.md)
+      - [Sch. 26 para. 18](schedule/26/paragraph/18.md)
+    - The Building Act 1984 (c. 55)
+      - [Sch. 26 para. 20](schedule/26/paragraph/20.md)
+  - Part III Control of Pollution
+    - [Sch. 26 para. 21](schedule/26/paragraph/21.md)
+    - Byelaws
+      - [Sch. 26 para. 26](schedule/26/paragraph/26.md)
+      - [Sch. 26 para. 27](schedule/26/paragraph/27.md)
+  - Part IV Water Resources
+    - General transitional provision
+      - [Sch. 26 para. 29](schedule/26/paragraph/29.md)
+      - [Sch. 26 para. 30](schedule/26/paragraph/30.md)
+      - [Sch. 26 para. 32](schedule/26/paragraph/32.md)
+  - Part V Flood Defence
+    - General
+      - [Sch. 26 para. 36](schedule/26/paragraph/36.md)
+  - Part VI Fisheries
+    - [Sch. 26 para. 40](schedule/26/paragraph/40.md)
+  - Part VII Compulsory Purchase and Works Powers
+    - Compulsory purchase orders and works orders
+      - [Sch. 26 para. 41](schedule/26/paragraph/41.md)
+      - [Sch. 26 para. 42](schedule/26/paragraph/42.md)
+    - The Public Health Act 1875 (Support of Sewers) Amendment Act 1883 (c. 37)
+      - [Sch. 26 para. 46](schedule/26/paragraph/46.md)
+    - Maps of sewers etc.
+      - [Sch. 26 para. 47](schedule/26/paragraph/47.md)
+  - Part VIII Miscellaneous and General
+    - Notifications by Nature Conservancy Council etc.
+      - [Sch. 26 para. 48](schedule/26/paragraph/48.md)
+    - Recreational activities
+      - [Sch. 26 para. 49](schedule/26/paragraph/49.md)
+    - Overseas activities
+      - [Sch. 26 para. 50](schedule/26/paragraph/50.md)
+    - Arrangements with local authorities
+      - [Sch. 26 para. 51](schedule/26/paragraph/51.md)
+    - Treasury guarantees
+      - [Sch. 26 para. 52](schedule/26/paragraph/52.md)
+    - Enactments applying particular provisions of Schedule 3 to the 1945 Act
+      - [Sch. 26 para. 53](schedule/26/paragraph/53.md)
+    - Local statutory provisions
+      - [Sch. 26 para. 54](schedule/26/paragraph/54.md)
+    - The Town and Country Planning Act 1959 (c. 53)
+      - [Sch. 26 para. 55](schedule/26/paragraph/55.md)
+    - Transitory provision relating to rating
+      - [Sch. 26 para. 56](schedule/26/paragraph/56.md)
+    - Byelaws
+      - [Sch. 26 para. 57](schedule/26/paragraph/57.md)
+    - Saving for criminal liability of water authorities
+      - [Sch. 26 para. 58](schedule/26/paragraph/58.md)
+    - Periods of time
+      - [Sch. 26 para. 59](schedule/26/paragraph/59.md)
+- SCHEDULE 27 Repeals
+  - Part I Repeals Coming into Force on the Transfer Date
+  - Part II Other Repeals
