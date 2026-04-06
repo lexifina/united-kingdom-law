@@ -1,0 +1,479 @@
+# Telecommunications Act 1984
+
+1984 c. 12. Enacted 1984-04-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 3 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1984/12
+
+Source: https://www.legislation.gov.uk/ukpga/1984/12/2026-04-06
+
+## Contents
+
+- Part I Introductory
+  - [s. 1 The Director General of Telecommunications.](section/1.md)
+  - [s. 2 Abolition of British Telecommunications’ exclusive privilege.](section/2.md)
+  - [s. 3 General duties of Secretary of State and Director.](section/3.md)
+  - [s. 4 Meaning of “telecommunication system” and related expressions.](section/4.md)
+- Part II Provision of Telecommunication Services
+  - Licensing etc. of telecommunication systems
+    - [s. 5 Prohibition on running unlicensed systems.](section/5.md)
+    - [s. 6 Exceptions to section 5.](section/6.md)
+    - [s. 7 Power to license systems.](section/7.md)
+    - [s. 7A Licensing procedures](section/7A.md)
+    - [s. 8 Special provisions applicable to certain licences.](section/8.md)
+    - [s. 9 Public telecommunication systems.](section/9.md)
+    - [s. 10 The telecommunications code.](section/10.md)
+    - [s. 11 Provisions supplementary to section 10.](section/11.md)
+  - Modification of licences
+    - [s. 12 Modification of licence conditions by agreement.](section/12.md)
+    - [s. 12A Agreement required for the purposes of section 12.](section/12A.md)
+    - [s. 13 Licence modification references to Commission.](section/13.md)
+    - [s. 13A References under section 13: time limits](section/13A.md)
+    - [s. 13B References under section 13: powers of investigation](section/13B.md)
+    - [s. 14 Reports on licence modification references.](section/14.md)
+    - [s. 15 Modification of licence conditions following report.](section/15.md)
+  - Enforcement of licences
+    - [s. 16 Securing compliance with licence conditions.](section/16.md)
+    - [s. 17 Procedural requirements.](section/17.md)
+    - [s. 18 Validity and effect of orders.](section/18.md)
+    - [s. 19 Register of licences and orders.](section/19.md)
+  - Approvals etc. for the purposes of licences
+    - [s. 20 Approval of contractors.](section/20.md)
+    - [s. 21 Register of approved contractors.](section/21.md)
+    - [s. 22 Approval etc. of apparatus.](section/22.md)
+    - [s. 23 Register of approved apparatus etc.](section/23.md)
+    - [s. 24 Approval etc. of meters.](section/24.md)
+    - [s. 25 Delegation of functions under sections 22 and 24.](section/25.md)
+    - [s. 26 Grants and loans to persons exercising certain functions.](section/26.md)
+    - [s. 27 Recognition of bodies representing consumers etc.](section/27.md)
+  - Standards of performance
+    - [s. 27A Standards of performance in individual cases.](section/27A.md)
+    - [s. 27B Overall standards of performance.](section/27B.md)
+    - [s. 27C Information with respect to levels of performance.](section/27C.md)
+    - [s. 27D Information to be given to customers about overall performance.](section/27D.md)
+    - [s. 27E Procedures for dealing with complaints.](section/27E.md)
+    - [s. 27F Disputes about discrimination etc. in fixing charges.](section/27F.md)
+    - [s. 27G Billing disputes.](section/27G.md)
+    - [s. 27H Deposits.](section/27H.md)
+    - [s. 27I Complaints about deposits.](section/27I.md)
+    - [s. 27J Disconnections.](section/27J.md)
+    - [s. 27K Enforcement of standards of performance, etc.](section/27K.md)
+    - [s. 27L Definitions for sections 27A to 27K.](section/27L.md)
+  - Marking etc. of telecommunication apparatus
+    - [s. 28 Information etc. to be marked on or to accompany telecommunication apparatus.](section/28.md)
+    - [s. 29 Information etc. to be given in advertisements.](section/29.md)
+    - [s. 30 Enforcement provisions.](section/30.md)
+  - Rating of telecommunications operators
+    - [s. 31 Rating in England and Wales.](section/31.md)
+    - [s. 32 Rating in Scotland.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+  - Acquisition etc. of land by public telecommunications operators
+    - [s. 34 Compulsory purchase of land in England and Wales.](section/34.md)
+    - [s. 35 Compulsory purchase of land in Scotland.](section/35.md)
+    - [s. 36 Compulsory purchase of land in Northern Ireland.](section/36.md)
+    - [s. 37 Entry, for exploratory purposes, on land in England and Wales.](section/37.md)
+    - [s. 38 Entry, for exploratory purposes, on land in Scotland.](section/38.md)
+    - [s. 39 Entry, for exploratory purposes, on land in Northern Ireland.](section/39.md)
+    - [s. 40 Acquisition of land by agreement.](section/40.md)
+    - [s. 41 Purchase of Duchy of Lancaster land.](section/41.md)
+  - Offences
+    - [s. 42 Fraudulent use of telecommunication system.](section/42.md)
+    - [s. 42A Possession or supply of anything for fraudulent purpose in connection with use of telecommunication system.](section/42A.md)
+    - [s. 43 Improper use of public telecommunication system.](section/43.md)
+    - [s. 44 Modification etc. of messages.](section/44.md)
+    - [s. 45 Disclosure of messages etc.](section/45.md)
+    - [s. 46 Assaults etc. on persons engaged in the business of public telecommunications operator.](section/46.md)
+  - Regulations
+    - [s. 46A Powers to make regulations.](section/46A.md)
+  - Appeals
+    - [s. 46B Appeals](section/46B.md)
+- Part III Other Functions of Director
+  - [s. 47 General functions.](section/47.md)
+  - [s. 48 Publication of information and advice.](section/48.md)
+  - [s. 49 Investigation of complaints.](section/49.md)
+  - [s. 50 Functions under 1973 and 1980 Acts.](section/50.md)
+  - [s. 51 Co-ordination of functions under Part II and wireless telegraphy functions.](section/51.md)
+  - [s. 52 Power to give assistance in relation to certain proceedings.](section/52.md)
+  - [s. 53 Power to require information etc.](section/53.md)
+  - [s. 54 Power to establish advisory bodies.](section/54.md)
+  - [s. 55 Annual and other reports.](section/55.md)
+- Part IV ................................
+  - [s. 56 ................................](section/56.md)
+- Part V Transfer of Undertaking of British Telecommunications
+  - Vesting of property etc. of British Telecommunications in a company nominated by the Secretary of State
+    - [s. 60 Vesting of property etc. of British Telecommunications in a company nominated by the Secretary of State.](section/60.md)
+    - [s. 61 Initial Government holding in the successor company.](section/61.md)
+    - [s. 62 Conversion of certain loans transferred to the successor company.](section/62.md)
+    - [s. 63 Government investment in securities of the successor company.](section/63.md)
+    - [s. 64 Exercise of Secretary of State’s functions through nominees.](section/64.md)
+    - [s. 65 Target investment limit for Government shareholding.](section/65.md)
+    - [s. 66 Financial structure of the successor company.](section/66.md)
+    - [s. 67 Temporary restrictions on successor company’s borrowings etc.](section/67.md)
+    - [s. 68 Liability of Secretary of State in respect of liabilities vesting in successor company.](section/68.md)
+    - [s. 69 Dissolution of British Telecommunications.](section/69.md)
+  - Miscellaneous and supplemental
+    - [s. 70 Application of law in relation to offer of shares or debentures of the successor company.](section/70.md)
+    - [s. 71 Application of Trustee Investments Act 1961 in relation to investment in the successor company.](section/71.md)
+    - [s. 72 Tax provisions.](section/72.md)
+    - [s. 73 Interpretation of Part V.](section/73.md)
+- Part VI
+  - Amendment and enforcement of Wireless Telegraphy Acts
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 Alteration of penalties and mode of trial for certain offences under the 1949 Act.](section/75.md)
+    - [s. 76 Arrest without warrant for certain offences under the 1949 Act.](section/76.md)
+    - [s. 77 Substitution of new section for section 7 of the 1967 Act.](section/77.md)
+    - [s. 78 ................................](section/78.md)
+    - [s. 79 Seizure of apparatus and other property used in committing certain offences under the 1949 Act.](section/79.md)
+    - [s. 80 Proceedings in England and Wales or Northern Ireland for forfeiture of restricted apparatus.](section/80.md)
+    - [s. 81 Proceedings in Scotland for forfeiture of restricted apparatus.](section/81.md)
+    - [s. 82 Amendments with respect to forfeiture on conviction.](section/82.md)
+    - [s. 83 Disposal of apparatus and other property seized by virtue of section 79.](section/83.md)
+  - Approvals
+    - [s. 84 Approval of wireless telegraphy apparatus etc.](section/84.md)
+  - Marking etc. of apparatus
+    - [s. 85 Information etc. to be marked on or to accompany apparatus.](section/85.md)
+    - [s. 86 Information etc. to be given in advertisements.](section/86.md)
+    - [s. 87 Offences under section 85 or 86 due to default of third person.](section/87.md)
+  - Miscellaneous and supplemental
+    - [s. 88 Wireless telegraphy functions of Director.](section/88.md)
+    - [s. 89 Abolition of advisory committee.](section/89.md)
+    - [s. 90 Radio interference service.](section/90.md)
+    - [s. 91 Construction of references to conclusion of proceedings.](section/91.md)
+    - [s. 92 Interpretation of Part VI and minor amendments.](section/92.md)
+- Part VII Miscellaneous and Supplemental
+  - Miscellaneous
+    - [s. 93 Grants to promote interests of disabled persons.](section/93.md)
+    - [s. 94 Directions in the interests of national security etc.](section/94.md)
+    - [s. 95 Orders under the 1973 and 1980 Acts.](section/95.md)
+    - [s. 96 Prohibitions and restrictions applying to lessees with respect to telecommunications.](section/96.md)
+    - [s. 97 Contributions by local authorities towards provision of facilities.](section/97.md)
+    - [s. 98 Use of certain conduits for telecommunication purposes.](section/98.md)
+    - [s. 99](section/99.md)
+    - [s. 100 ................................](section/100.md)
+  - Supplemental
+    - [s. 101 General restrictions on disclosure of information.](section/101.md)
+    - [s. 102 Offences by bodies corporate.](section/102.md)
+    - [s. 103 Summary proceedings.](section/103.md)
+    - [s. 104 Orders and schemes.](section/104.md)
+    - [s. 105 Financial provisions.](section/105.md)
+    - [s. 106 General interpretation.](section/106.md)
+    - [s. 107 Application to territorial waters and the continental shelf etc.](section/107.md)
+    - [s. 108 Extension to the Isle of Man and the Channel Islands.](section/108.md)
+    - [s. 109 Amendments, transitional provisions and repeals.](section/109.md)
+    - [s. 110 Short title, commencement and extent.](section/110.md)
+- SCHEDULE 1 Director General of Telecommunications
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+- SCHEDULE 2 The Telecommunications Code
+  - Arrangement of paragraphs
+  - Interpretation of code
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Agreement required to confer right to execute works et ceteralaetc.
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Agreement required for obstructing access et ceteralaetc.
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Effect of rights and compensation
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Power to dispense with the need for required agreement
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Acquisition of rights in respect of apparatus already installed
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Court to fix financial terms where agreement dispensed with
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+  - Notices and applications by potential subscribers
+    - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+  - Street works
+    - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+  - Power to fly lines
+    - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+  - Tidal waters et ceteralaetc.
+    - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+  - Linear obstacles
+    - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+  - Arbitration in relation to linear obstacles
+    - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+  - Alteration of apparatus crossing a linear obstacle
+    - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+  - Use of certain conduits
+    - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+  - Compensation for injurious affection to neighbouring land et ceteralaetc.
+    - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+  - Objections to overhead apparatus
+    - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+  - Obligation to affix notices to overhead apparatus
+    - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Tree lopping
+    - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+  - Power to require alteration of apparatus
+    - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+  - Restriction on right to require the removal of apparatus
+    - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+  - Abandonment of apparatus
+    - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+  - Undertaker’s works
+    - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+  - Notices under code
+    - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Electronic communications networks: determination of applications to install facilities
+    - [Sch. 2 para. 24A](schedule/2/paragraph/24A.md)
+  - Appeals in Northern Ireland
+    - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+  - Application to the Crown
+    - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+  - Savings for and exclusion of certain remedies et ceteralaetc.
+    - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+  - Application of code to existing systems
+    - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+  - Effect of agreements concerning sharing of apparatus
+    - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+- SCHEDULE 3 Penalties and Mode of Trial under the Wireless Telegraphy Act 1949
+  - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+- SCHEDULE 4 Minor and Consequential Amendments
+  - Interpretation
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+  - General
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+  - Enactments relating to statutory undertakers, etc.
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+  - The Telegraph Acts 1863 and 1868
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+  - The Foreign Enlistment Act 1870
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+  - The Military Tramways Act 1887
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+  - The Telegraph Act 1899
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+  - The Official Secrets Act 1911
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - The Official Secrets Act 1920
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+  - The Law of Property Act 1925
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+  - The Roads Improvement Act 1925
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+  - The Public Health Act 1925
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+  - The Bridges Act 1929
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - The Civil Defence Act (Northern Ireland) 1939
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+  - The Water Act 1945
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+  - The Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+  - The Roads Act (Northern Ireland) 1948
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+  - The Special Roads Act 1949
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+  - The Coast Protection Act 1949
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+  - The National Parks and Access to the Countryside Act 1949
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+  - The Public Utilities Street Works Act 1950
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+  - The Local Government (Miscellaneous Provisions) Act 1953
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+  - The Lough Neagh and Lower Bann Drainage and Navigation Act (Northern Ireland) 1955
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+  - The Housing Act 1957
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+  - The Land Drainage (Scotland) Act 1958
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+  - The Local Government (Omnibus Shelters and Queue Barriers) (Scotland) Act 1958
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+  - The Opencast Coal Act 1958
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+  - The Flood Prevention (Scotland) Act 1961
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+  - The Public Health Act 1961
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+  - The Pipe-lines Act 1962
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+  - The Water Resources Act 1963
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+  - The Harbours Act 1964
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+  - The New Towns Act (Northern Ireland) 1965
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+  - The Housing (Scotland) Act 1966
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+  - The Countryside (Scotland) Act 1967
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+  - The New Towns (Scotland) Act 1968
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+  - The Countryside Act 1968
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+  - The Sewerage (Scotland) Act 1968
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+  - The Post Office Act 1969
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+  - The Roads (Scotland) Act 1970
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+  - The Harbours Act (Northern Ireland) 1970
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+  - The Town and Country Planning (Scotland) Act 1972
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+  - The Electricity Supply (Northern Ireland) Order 1972
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+  - The Planning (Northern Ireland) Order 1972
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+  - The Fair Trading Act 1973
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+  - The Drainage (Northern Ireland) Order 1973
+    - [Sch. 4 para. 58](schedule/4/paragraph/58.md)
+  - The Water and Sewerage Services (Northern Ireland) Order 1973
+    - [Sch. 4 para. 59](schedule/4/paragraph/59.md)
+  - The Consumer Credit Act 1974
+    - [Sch. 4 para. 60](schedule/4/paragraph/60.md)
+  - The Housing (Scotland) Act 1974
+    - [Sch. 4 para. 61](schedule/4/paragraph/61.md)
+    - [Sch. 4 para. 62](schedule/4/paragraph/62.md)
+  - The Scottish Development Agency Act 1975
+    - [Sch. 4 para. 63](schedule/4/paragraph/63.md)
+    - [Sch. 4 para. 64](schedule/4/paragraph/64.md)
+  - The Restrictive Trade Practices Act 1976
+    - [Sch. 4 para. 65](schedule/4/paragraph/65.md)
+  - The Land Drainage Act 1976
+    - [Sch. 4 para. 66](schedule/4/paragraph/66.md)
+  - The Development of Rural Wales Act 1976
+    - [Sch. 4 para. 67](schedule/4/paragraph/67.md)
+  - The Gas (Northern Ireland) Order 1977
+    - [Sch. 4 para. 68](schedule/4/paragraph/68.md)
+  - The Rates (Northern Ireland) Order 1977
+    - [Sch. 4 para. 69](schedule/4/paragraph/69.md)
+    - [Sch. 4 para. 70](schedule/4/paragraph/70.md)
+  - The Land Registration (Scotland) Act 1979
+    - [Sch. 4 para. 71](schedule/4/paragraph/71.md)
+  - The Estate Agents Act 1979
+    - [Sch. 4 para. 72](schedule/4/paragraph/72.md)
+  - The Competition Act 1980
+    - [Sch. 4 para. 73](schedule/4/paragraph/73.md)
+  - The Water (Scotland) Act 1980
+    - [Sch. 4 para. 74](schedule/4/paragraph/74.md)
+  - The Local Government, Planning and Land Act 1980
+    - [Sch. 4 para. 75](schedule/4/paragraph/75.md)
+  - The Highways Act 1980
+    - [Sch. 4 para. 76](schedule/4/paragraph/76.md)
+  - The Roads (Northern Ireland) Order 1980
+    - [Sch. 4 para. 77](schedule/4/paragraph/77.md)
+  - The British Telecommunications Act 1981
+    - [Sch. 4 para. 78](schedule/4/paragraph/78.md)
+  - The New Towns Act 1981
+    - [Sch. 4 para. 79](schedule/4/paragraph/79.md)
+  - The Acquisition of Land Act 1981
+    - [Sch. 4 para. 80](schedule/4/paragraph/80.md)
+  - The Broadcasting Act 1981
+    - [Sch. 4 para. 81](schedule/4/paragraph/81.md)
+  - The Housing (Northern Ireland) Order 1981
+    - [Sch. 4 para. 82](schedule/4/paragraph/82.md)
+  - The Planning Blight (Compensation) (Northern Ireland) Order 1981
+    - [Sch. 4 para. 83](schedule/4/paragraph/83.md)
+  - The Civil Aviation Act 1982
+    - [Sch. 4 para. 84](schedule/4/paragraph/84.md)
+  - The Cinematograph (Amendment) Act 1982
+    - [Sch. 4 para. 85](schedule/4/paragraph/85.md)
+  - Enactments relating to London
+    - [Sch. 4 para. 86](schedule/4/paragraph/86.md)
+  - Enactments relating to call boxes
+    - [Sch. 4 para. 87](schedule/4/paragraph/87.md)
+  - The London Building Acts and enactments relating to highways, etc.
+    - [Sch. 4 para. 88](schedule/4/paragraph/88.md)
+  - General adaptations of local enactments
+    - [Sch. 4 para. 89](schedule/4/paragraph/89.md)
+  - Saving in respect of offences under section 5
+    - [Sch. 4 para. 90](schedule/4/paragraph/90.md)
+- SCHEDULE 5 General Transitional Provisions and Savings
+  - Part I Provisions and Savings coming into force on Appointed Day
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+  - Part II Provisions and Savings Coming into Force on Transfer Date
+    - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+    - [Sch. 5 para. 26](schedule/5/paragraph/26.md)
+    - [Sch. 5 para. 27](schedule/5/paragraph/27.md)
+    - [Sch. 5 para. 28](schedule/5/paragraph/28.md)
+    - [Sch. 5 para. 29](schedule/5/paragraph/29.md)
+    - [Sch. 5 para. 30](schedule/5/paragraph/30.md)
+    - [Sch. 5 para. 31](schedule/5/paragraph/31.md)
+    - [Sch. 5 para. 32](schedule/5/paragraph/32.md)
+    - [Sch. 5 para. 33](schedule/5/paragraph/33.md)
+    - [Sch. 5 para. 34](schedule/5/paragraph/34.md)
+    - [Sch. 5 para. 35](schedule/5/paragraph/35.md)
+    - [Sch. 5 para. 36](schedule/5/paragraph/36.md)
+    - [Sch. 5 para. 37](schedule/5/paragraph/37.md)
+    - [Sch. 5 para. 38](schedule/5/paragraph/38.md)
+    - [Sch. 5 para. 39](schedule/5/paragraph/39.md)
+    - [Sch. 5 para. 40](schedule/5/paragraph/40.md)
+    - [Sch. 5 para. 41](schedule/5/paragraph/41.md)
+    - [Sch. 5 para. 42](schedule/5/paragraph/42.md)
+    - [Sch. 5 para. 43](schedule/5/paragraph/43.md)
+    - [Sch. 5 para. 44](schedule/5/paragraph/44.md)
+    - [Sch. 5 para. 45](schedule/5/paragraph/45.md)
+    - [Sch. 5 para. 46](schedule/5/paragraph/46.md)
+    - [Sch. 5 para. 47](schedule/5/paragraph/47.md)
+    - [Sch. 5 para. 48](schedule/5/paragraph/48.md)
+    - [Sch. 5 para. 49](schedule/5/paragraph/49.md)
+    - [Sch. 5 para. 50](schedule/5/paragraph/50.md)
+    - [Sch. 5 para. 51](schedule/5/paragraph/51.md)
+- SCHEDULE 6
+  - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+  - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+  - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+  - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+  - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+  - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+  - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+- SCHEDULE 7 Repeals
+  - Part I Repeals Coming into Force on Appointed Day
+  - Part II Repeals coming into Force on Transfer Date
+  - Part III Repeals Coming into Force on Dissolution of British Telecommunications
+  - Part IV Wireless Telegraphy Repeals
