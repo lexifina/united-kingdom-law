@@ -1,0 +1,1052 @@
+# Political Parties, Elections and Referendums Act 2000
+
+2000 c. 41. Enacted 2000-11-30.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 133 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2000/41
+
+Source: https://www.legislation.gov.uk/ukpga/2000/41/2026-04-06
+
+## Contents
+
+- Part I The Electoral Commission
+  - Establishment of Electoral Commission and bodies with related functions
+    - [s. 1 Establishment of the Electoral Commission.](section/1.md)
+    - [s. 2 Speaker’s Committee.](section/2.md)
+    - [s. 3 Appointment of Electoral Commissioners and Commission chairman.](section/3.md)
+    - [s. 3A Four Electoral Commissioners to be persons put forward by parties](section/3A.md)
+    - [s. 4 Parliamentary Parties Panel.](section/4.md)
+  - Strategy and policy statement
+    - [s. 4A Strategy and policy statement](section/4A.md)
+    - [s. 4B Duties in relation to statement](section/4B.md)
+    - [s. 4C Consultation and procedural requirements](section/4C.md)
+    - [s. 4D 5-yearly review and designation of statement](section/4D.md)
+    - [s. 4E Power to revise statement](section/4E.md)
+  - Commission’s general functions
+    - [s. 5 Reports on elections, referendums etc.](section/5.md)
+    - [s. 5A Further provision about reports on Welsh elections](section/5A.md)
+    - [s. 6 Reviews of electoral and political matters.](section/6.md)
+    - [s. 6ZA Reviews of electoral and political matters: devolved Scottish elections](section/6ZA.md)
+    - [s. 6ZAn1 Reviews of devolved electoral matters in Wales](section/6ZAn1.md)
+    - [s. 6A Attendance of representatives of Commission at elections etc.](section/6A.md)
+    - [s. 6B Observation of working practices by representatives of Commission](section/6B.md)
+    - [s. 6C Accredited observers: individuals](section/6C.md)
+    - [s. 6D Accredited observers: organisations](section/6D.md)
+    - [s. 6E Attendance and conduct of observers](section/6E.md)
+    - [s. 6F Code of practice on attendance of observers at elections etc.](section/6F.md)
+    - [s. 6G Code of practice on attendance of observers at Scottish Parliamentary elections and local government elections in Scotland](section/6G.md)
+    - [s. 6Gn1 Code of practice on attendance of observers at devolved elections in Wales](section/6Gn1.md)
+    - [s. 6H Code of practice on expenditure of candidates at Scottish parliamentary elections](section/6H.md)
+    - [s. 7 Commission to be consulted on changes to electoral law.](section/7.md)
+    - [s. 8 Powers with respect to elections exercisable only on Commission recommendation.](section/8.md)
+    - [s. 9 Involvement of Commission in changes in electoral procedures.](section/9.md)
+    - [s. 9A Setting of performance standards](section/9A.md)
+    - [s. 9AA Performance standards for devolved elections and referendums in Wales](section/9AA.md)
+    - [s. 9AAn1 Setting performance standards: devolved Scottish elections](section/9AAn1.md)
+    - [s. 9B Returns and reports on performance standards](section/9B.md)
+    - [s. 9C Provision of information about expenditure on elections etc.](section/9C.md)
+    - [s. 10 Giving of advice and assistance.](section/10.md)
+    - [s. 11 Broadcasters to have regard to Commission’s views on party political broadcasts.](section/11.md)
+    - [s. 12 Policy development grants.](section/12.md)
+    - [s. 13 Education about electoral and democratic systems.](section/13.md)
+    - [s. 13A Reimbursement of costs by Scottish Ministers etc.](section/13A.md)
+  - Examination of Commission’s duty to have regard to strategy and policy statement
+    - [s. 13ZA Examination of duty to have regard to strategy and policy statement](section/13ZA.md)
+  - Commission’s electoral boundary functions
+    - [s. 14 Boundary committees.](section/14.md)
+    - [s. 15 Deputy Electoral Commissioners.](section/15.md)
+    - [s. 16 Transfer of functions of Boundary Commissions.](section/16.md)
+    - [s. 17 Transfer of property etc. of the Boundary Commissions.](section/17.md)
+    - [s. 18 Transfer of functions of Local Government Commission for England.](section/18.md)
+    - [s. 19 Transfer of functions of Local Government Boundary Commission for Scotland.](section/19.md)
+    - [s. 20 Transfer of functions of Local Government Boundary Commission for Wales.](section/20.md)
+  - Commission’s functions relating to CORE
+    - [s. 20A Commission as CORE keeper](section/20A.md)
+  - Supplementary
+    - [s. 21 Interpretation of Part I.](section/21.md)
+- Part II Registration of political parties
+  - Requirement for registration
+    - [s. 22 Parties to be registered in order to field candidates at elections.](section/22.md)
+  - The registers of political parties
+    - [s. 23 The new registers.](section/23.md)
+  - Preliminary requirements
+    - [s. 24 Office-holders to be registered.](section/24.md)
+    - [s. 25 Parties with campaigns officers.](section/25.md)
+    - [s. 26 Financial structure of registered party: adoption of scheme.](section/26.md)
+    - [s. 27 Financial structure of registered party: accounting units.](section/27.md)
+  - Registration
+    - [s. 28 Registration of parties.](section/28.md)
+    - [s. 28A Descriptions](section/28A.md)
+    - [s. 28B Joint descriptions](section/28B.md)
+    - [s. 29 Emblems.](section/29.md)
+    - [s. 30 Changes to the register.](section/30.md)
+    - [s. 31 Notification of changes in party’s officers etc.](section/31.md)
+    - [s. 32 Confirmation of registered particulars etc.](section/32.md)
+    - [s. 33 Party ceasing to be registered.](section/33.md)
+    - [s. 34 Registration of minor parties.](section/34.md)
+    - [s. 35 Request by Secretary of State.](section/35.md)
+    - [s. 36 Assistance by Commission for existing registered parties.](section/36.md)
+  - Supplemental
+    - [s. 37 Party political broadcasts.](section/37.md)
+    - [s. 38 Amendment of parliamentary elections rules.](section/38.md)
+    - [s. 39 False statements: offence.](section/39.md)
+    - [s. 40 Interpretation of Part II.](section/40.md)
+- Part III Accounting requirements for registered parties
+  - Accounting records
+    - [s. 41 Duty to keep accounting records.](section/41.md)
+  - Statements of accounts
+    - [s. 42 Annual statements of accounts.](section/42.md)
+    - [s. 43 Annual audits.](section/43.md)
+    - [s. 44 Supplementary provisions about auditors.](section/44.md)
+    - [s. 45 Delivery of statements of accounts etc. to Commission.](section/45.md)
+    - [s. 46 Public inspection of parties’ statements of accounts.](section/46.md)
+    - [s. 47 Criminal penalty for failure to submit proper statement of accounts.](section/47.md)
+  - Revision of statements of accounts
+    - [s. 48 Revision of defective statements of accounts.](section/48.md)
+  - Parties with accounting units
+    - [s. 49 Division of responsibilities in case of party with accounting units.](section/49.md)
+- Part IV Control of donations to registered parties and their members etc.
+  - Chapter I Donations to registered parties
+    - [s. 50 Donations for purposes of Part IV.](section/50.md)
+    - [s. 51 Sponsorship.](section/51.md)
+    - [s. 52 Payments, services etc. not to be regarded as donations.](section/52.md)
+    - [s. 53 Value of donations.](section/53.md)
+  - Chapter II Restrictions on donations to registered parties
+    - Permissible donations
+      - [s. 54 Permissible donors.](section/54.md)
+      - [s. 54A Declaration as to source of donation](section/54A.md)
+      - [s. 54B Declaration as to whether residence etc condition satisfied](section/54B.md)
+      - [s. 55 Payments etc. which are (or are not) to be treated as donations by permissible donors.](section/55.md)
+      - [s. 56 Acceptance or return of donations: general.](section/56.md)
+      - [s. 57 Return of donations where donor unidentifiable.](section/57.md)
+      - [s. 57A Additional limit on Gibraltar donations to UK parties](section/57A.md)
+    - Forfeiture of certain donations
+      - [s. 58 Forfeiture of donations made by impermissible or unidentifiable donors.](section/58.md)
+      - [s. 59 Appeal against order under section 58.](section/59.md)
+      - [s. 60 Supplementary provisions about orders under section 58.](section/60.md)
+    - Evasion of restrictions on donations
+      - [s. 61 Offences concerned with evasion of restrictions on donations.](section/61.md)
+  - Chapter III Reporting of donations to registered parties
+    - Reports to be made by registered parties
+      - [s. 62 Quarterly donation reports.](section/62.md)
+      - [s. 62A Exemption from requirement to prepare quarterly reports](section/62A.md)
+      - [s. 63 Weekly donation reports during general election periods.](section/63.md)
+      - [s. 64 Exemptions from section 63.](section/64.md)
+      - [s. 65 Submission of donation reports to Commission.](section/65.md)
+      - [s. 66 Declaration by treasurer in donation report.](section/66.md)
+    - Extension of reporting requirements
+      - [s. 67 Weekly donation reports in connection with elections other than general elections.](section/67.md)
+    - Reports to be made by donors
+      - [s. 68 Reporting of multiple small donations.](section/68.md)
+    - Register of donations
+      - [s. 69 Register of recordable donations.](section/69.md)
+  - Chapter IV Power to make special provision
+    - [s. 70 Special provision for Northern Ireland parties.](section/70.md)
+  - Chapter V Control of donations to individuals and members associations
+    - [s. 71 Control of donations to individuals and members associations.](section/71.md)
+  - Chapter 6 Special Provision in connection with Northern Ireland
+    - [s. 71A Introduction](section/71A.md)
+    - [s. 71B Extension of categories of permissible donors in relation to Northern Ireland recipients](section/71B.md)
+    - [s. 71C Northern Ireland recipients not permissible donors in relation to Great Britain](section/71C.md)
+    - [s. 71D Duty to verify donation reports](section/71D.md)
+    - [s. 71E Duty not to disclose contents of donation reports](section/71E.md)
+- Part 4A Regulation of loans and related transactions
+  - CHAPTER 1
+    - [s. 71F Regulated transactions](section/71F.md)
+    - [s. 71G Valuation of regulated transaction](section/71G.md)
+    - [s. 71GA Prohibition on increase in value of Gibraltar regulated transaction following European parliamentary election](section/71GA.md)
+    - [s. 71H Authorised participants](section/71H.md)
+    - [s. 71HZA Declaration that residence etc condition is satisfied](section/71HZA.md)
+    - [s. 71HA Financial limit on Gibraltar donations and Gibraltar regulated transactions](section/71HA.md)
+    - [s. 71I Regulated transaction involving unauthorised participant](section/71I.md)
+    - [s. 71J Guarantees and securities: unauthorised participants](section/71J.md)
+    - [s. 71K Transfer to unauthorised participant invalid](section/71K.md)
+    - [s. 71L Offences relating to regulated transactions](section/71L.md)
+    - [s. 71M Quarterly reports of regulated transactions](section/71M.md)
+    - [s. 71N Changes to be recorded in quarterly reports](section/71N.md)
+    - [s. 71O Existing transactions](section/71O.md)
+    - [s. 71P Exemption from requirement to prepare quarterly reports](section/71P.md)
+    - [s. 71Q Weekly transaction reports during general election periods](section/71Q.md)
+    - [s. 71R Exemptions from section 71Q](section/71R.md)
+    - [s. 71S Submission of transaction reports to Commission](section/71S.md)
+    - [s. 71T Declaration by treasurer in transaction report](section/71T.md)
+    - [s. 71U Weekly donation reports in connection with elections other than general elections](section/71U.md)
+    - [s. 71V Register of recordable transactions](section/71V.md)
+    - [s. 71W Proceedings under sections 71I and 71S](section/71W.md)
+    - [s. 71X Construction of Part 4A](section/71X.md)
+    - [s. 71Y Control of loans etc: individuals and members associations](section/71Y.md)
+  - CHAPTER 2 SPECIAL PROVISION IN CONNECTION WITH NORTHERN IRELAND
+    - [s. 71Z Introduction](section/71Z.md)
+    - [s. 71Z1 Extension of categories of authorised participants in relation to Northern Ireland participants](section/71Z1.md)
+    - [s. 71Z2 Northern Ireland participants are not authorised participants in relation to Great Britain](section/71Z2.md)
+    - [s. 71Z3 Duty to verify transaction reports](section/71Z3.md)
+    - [s. 71Z4 Duty not to disclose contents of transaction reports](section/71Z4.md)
+- Part V Control of campaign expenditure
+  - Preliminary
+    - [s. 72 Campaign expenditure.](section/72.md)
+    - [s. 72A Campaign expenditure: power of Scottish Ministers](section/72A.md)
+    - [s. 73 Notional campaign expenditure.](section/73.md)
+    - [s. 74 Officers of registered party with responsibility for campaign expenditure.](section/74.md)
+  - General restrictions relating to campaign expenditure
+    - [s. 75 Restriction on incurring campaign expenditure.](section/75.md)
+    - [s. 76 Restriction on payments in respect of campaign expenditure.](section/76.md)
+    - [s. 77 Restriction on making claims in respect of campaign expenditure.](section/77.md)
+    - [s. 78 Disputed claims.](section/78.md)
+  - Financial limits
+    - [s. 79 Limits on campaign expenditure.](section/79.md)
+  - Returns
+    - [s. 80 Returns as to campaign expenditure.](section/80.md)
+    - [s. 81 Auditor’s report on return.](section/81.md)
+    - [s. 82 Delivery of returns to the Commission.](section/82.md)
+    - [s. 83 Declaration by treasurer as to return under section 80.](section/83.md)
+    - [s. 84 Public inspection of returns under section 80.](section/84.md)
+- Part VI Controls relating to third party national election campaigns
+  - Chapter I Preliminary
+    - Controlled expenditure by third parties
+      - [s. 85 Controlled expenditure by third parties.](section/85.md)
+      - [s. 85A Controlled expenditure of third parties: power of Scottish Ministers](section/85A.md)
+      - [s. 86 Notional controlled expenditure.](section/86.md)
+      - [s. 87 Expenditure by third parties which is not controlled expenditure.](section/87.md)
+    - Recognised third parties
+      - [s. 88 Third parties recognised for the purposes of this Part.](section/88.md)
+      - [s. 89 Register of notifications for purposes of section 88.](section/89.md)
+  - Chapter II Financial controls
+    - Which third parties may incur expenditure
+      - [s. 89A Restriction on which third parties may incur controlled expenditure](section/89A.md)
+      - [s. 89B Restriction on which third parties may incur controlled expenditure: Senedd Cymru elections](section/89B.md)
+    - General restrictions relating to controlled expenditure by recognised third parties
+      - [s. 90 Restriction on incurring controlled expenditure.](section/90.md)
+      - [s. 91 Restriction on payments in respect of controlled expenditure.](section/91.md)
+      - [s. 92 Restriction on making claims in respect of controlled expenditure.](section/92.md)
+      - [s. 93 Disputed claims.](section/93.md)
+    - Financial limits on controlled expenditure
+      - [s. 94 Limits on controlled expenditure by third parties.](section/94.md)
+      - [s. 94A Arrangements between third parties notified to the Commission](section/94A.md)
+      - [s. 94B Effect where arrangements are notified under section 94A](section/94B.md)
+    - Financial limits on targeted controlled expenditure
+      - [s. 94C Overview of sections 94D to 94H](section/94C.md)
+      - [s. 94D Meaning of “targeted”, “targeted expenditure limit” etc](section/94D.md)
+      - [s. 94E Unauthorised expenditure in excess of targeted expenditure limit](section/94E.md)
+      - [s. 94F Authorised expenditure in excess of targeted expenditure limit](section/94F.md)
+      - [s. 94G Authorisation](section/94G.md)
+      - [s. 94H Expenditure that “exceeds” a targeted expenditure limit or cap](section/94H.md)
+    - Donations to recognised third parties
+      - [s. 95 Control of donations to recognised third parties.](section/95.md)
+      - [s. 95ZA Control of donation to recognised third parties: power of Scottish Ministers](section/95ZA.md)
+    - Quarterly and weekly reports of donations to recognised third parties
+      - [s. 95A Quarterly donation reports](section/95A.md)
+      - [s. 95B Weekly donation reports during general election periods](section/95B.md)
+      - [s. 95C Related offences](section/95C.md)
+      - [s. 95D Forfeiture](section/95D.md)
+      - [s. 95E Sections 95A to 95D: supplementary](section/95E.md)
+      - [s. 95F Public inspection of reports](section/95F.md)
+    - Returns
+      - [s. 96 Returns as to controlled expenditure.](section/96.md)
+      - [s. 96A Statement of accounts](section/96A.md)
+      - [s. 97 Auditor’s report on return or statement of accounts.](section/97.md)
+      - [s. 98 Delivery of returns to the Commission.](section/98.md)
+      - [s. 99 Declaration by responsible person as to return under section 96.](section/99.md)
+      - [s. 99A Declaration by responsible person as to statement of accounts under section 96A](section/99A.md)
+      - [s. 100 Public inspection of returns under section 96.](section/100.md)
+    - Code of practice relating to controlled expenditure
+      - [s. 100A Code of practice on controlled expenditure](section/100A.md)
+      - [s. 100AA Code of practice on controlled expenditure: Scottish Parliament elections](section/100AA.md)
+      - [s. 100B Code of practice: consultation and procedural requirements](section/100B.md)
+      - [s. 100BA Code of Practice on controlled expenditure for Scottish Parliament elections: consultation and procedural requirements](section/100BA.md)
+      - [s. 100C Code of Practice: consultation and procedural requirements on controlled expenditure in Senedd Cymru elections](section/100C.md)
+- Part VII Referendums
+  - Chapter I Preliminary
+    - Referendums to which this Part applies
+      - [s. 101 Referendums to which this Part applies.](section/101.md)
+      - [s. 102 Referendum period.](section/102.md)
+      - [s. 103 Date of poll.](section/103.md)
+      - [s. 104 Referendum questions.](section/104.md)
+    - Permitted participants
+      - [s. 105 Permitted participants.](section/105.md)
+      - [s. 106 Declarations and notifications for purposes of section 105.](section/106.md)
+      - [s. 107 Register of declarations and notifications for purposes of section 105.](section/107.md)
+    - Assistance for designated organisations
+      - [s. 108 Designation of organisations to whom assistance is available.](section/108.md)
+      - [s. 109 Applications for designation under section 108.](section/109.md)
+      - [s. 110 Assistance available to designated organisations.](section/110.md)
+  - Chapter II Financial controls
+    - Referendum expenses
+      - [s. 111 Referendum expenses.](section/111.md)
+      - [s. 112 Notional referendum expenses.](section/112.md)
+    - General restrictions relating to referendum expenses incurred by permitted participants
+      - [s. 113 Restriction on incurring referendum expenses.](section/113.md)
+      - [s. 114 Restriction on payments in respect of referendum expenses.](section/114.md)
+      - [s. 115 Restriction on making claims in respect of referendum expenses.](section/115.md)
+      - [s. 116 Disputed claims.](section/116.md)
+    - Financial limits
+      - [s. 117 General restriction on referendum expenses.](section/117.md)
+      - [s. 118 Special restrictions on referendum expenses by permitted participants.](section/118.md)
+    - Donations to permitted participants
+      - [s. 119 Control of donations to permitted participants.](section/119.md)
+    - Returns
+      - [s. 120 Returns as to referendum expenses.](section/120.md)
+      - [s. 121 Auditor’s report on return.](section/121.md)
+      - [s. 122 Delivery of returns to Commission.](section/122.md)
+      - [s. 123 Declaration of responsible person as to return under section 120.](section/123.md)
+      - [s. 124 Public inspection of returns under section 120.](section/124.md)
+  - Chapter III Controls on Publications
+    - [s. 125 Restriction on publication etc. of promotional material by central and local government etc.](section/125.md)
+    - [s. 126 Details to appear on referendum material.](section/126.md)
+    - [s. 127 Referendum campaign broadcasts.](section/127.md)
+  - Chapter IV Conduct of referendums
+    - [s. 128 Chief Counting Officers, and counting officers, for referendums.](section/128.md)
+    - [s. 129 Orders regulating conduct of referendums.](section/129.md)
+- Part VIII Election campaigns and proceedings
+  - Control of donations to candidates
+    - [s. 130 Control of donations to candidates.](section/130.md)
+  - Control of election expenses
+    - [s. 131 Election expenses incurred otherwise than by candidate.](section/131.md)
+    - [s. 132 Financial limits applying to candidates’ election expenses.](section/132.md)
+    - [s. 133 Power to vary provisions about election expenses.](section/133.md)
+    - [s. 134 Meaning of “election expenses”.](section/134.md)
+    - [s. 135 Meaning of “candidate”.](section/135.md)
+  - Corrupt and illegal practices
+    - [s. 136 Corrupt and illegal practices: consequences for persons convicted of such practices.](section/136.md)
+    - [s. 137 Corrupt and illegal practices: election petitions etc.](section/137.md)
+  - Miscellaneous amendments
+    - [s. 138 Election campaigns and proceedings: miscellaneous amendments.](section/138.md)
+- Part IX Political donations and expenditure by companies
+  - Control of political donations
+    - [s. 139 Control of political donations by companies.](section/139.md)
+  - Disclosure of political donations and expenditure
+    - [s. 140 Disclosure of political donations and expenditure in directors’ report.](section/140.md)
+  - Reports to Commission by unincorporated associations making political contributions
+    - [s. 140A Reports of gifts received by unincorporated associations](section/140A.md)
+- Part X Miscellaneous and general
+  - Overseas electors
+    - [s. 141 Reduction of qualifying period for overseas electors.](section/141.md)
+  - Pre-consolidation amendments
+    - [s. 142 ................................](section/142.md)
+  - Election material
+    - [s. 143 Details to appear on election material.](section/143.md)
+    - [s. 143A Meaning of “election material”](section/143A.md)
+  - Broadcasting during election period
+    - [s. 144 Broadcasting of local items during election period.](section/144.md)
+  - Enforcement of Act
+    - [s. 145 Duties of Commission with respect to ... compliance with controls imposed by the Act etc.](section/145.md)
+    - [s. 146 Investigatory powers of Commission](section/146.md)
+    - [s. 147 Civil sanctions](section/147.md)
+    - [s. 148 General offences.](section/148.md)
+  - Inspection of registers etc.
+    - [s. 149 Inspection of Commission’s registers etc.](section/149.md)
+    - [s. 149A Inspection of Commission’s registers etc.: Northern Ireland](section/149A.md)
+  - Provisions relating to offences
+    - [s. 150 Punishment of offences.](section/150.md)
+    - [s. 151 Summary proceedings.](section/151.md)
+    - [s. 152 Offences committed by bodies corporate.](section/152.md)
+    - [s. 153 Offences committed by unincorporated associations.](section/153.md)
+    - [s. 154 Duty of court to report convictions to Commission.](section/154.md)
+  - Variation of specified sums
+    - [s. 155 Power to vary specified sums or percentages.](section/155.md)
+  - Supplementary
+    - [s. 156 Orders and regulations.](section/156.md)
+    - [s. 157 Documents for purposes of the Act.](section/157.md)
+    - [s. 158 Minor and consequential amendments and repeals.](section/158.md)
+    - [s. 159 Financial provisions.](section/159.md)
+    - [s. 159A Functions of the Minister for the Cabinet Office](section/159A.md)
+    - [s. 160 General interpretation.](section/160.md)
+    - [s. 161 Interpretation: donations.](section/161.md)
+    - [s. 162 Interpretation: exempt trust donations.](section/162.md)
+    - [s. 163 Short title, commencement, transitional provisions and extent.](section/163.md)
+- SCHEDULE 1 The Electoral Commission
+  - Status of Commission and their property
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Powers
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Term of office etc. of Electoral Commissioners
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Term of office etc. of Commission chairman
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Electoral Commissioners: salary etc.
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Deputy Electoral Commissioners: term of office etc.
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Assistant Electoral Commissioners
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Committees
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Delegation to committees
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - Procedure and proceedings
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+  - Staff
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+  - Political restrictions on staff
+    - [Sch. 1 para. 11A](schedule/1/paragraph/11A.md)
+    - [Sch. 1 para. 11B](schedule/1/paragraph/11B.md)
+  - Delegation to staff
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+  - Delegation and contracting-out of superannuation functions
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Financing of Commission
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 14A Financing of Commission: devolved Scottish elections](schedule/1/paragraph/14A.md)
+  - Five-year plan
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+  - Five-year plan: devolved Scottish elections and referendums
+    - [Sch. 1 para. 15A](schedule/1/paragraph/15A.md)
+  - Examination of Commission by Comptroller and Auditor General
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 16A Financing of Commission: devolved Welsh elections and referendums](schedule/1/paragraph/16A.md)
+    - [Sch. 1 para. 16B Five-year plan: devolved Welsh elections and referendums](schedule/1/paragraph/16B.md)
+    - [Sch. 1 para. 16C Examination of Commission: devolved Welsh elections and referendums](schedule/1/paragraph/16C.md)
+  - Accounts
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+  - Audit
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+  - Accounting officer
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+  - Reports
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 20A](schedule/1/paragraph/20A.md)
+    - [Sch. 1 para. 20An1 Reports by Commission: devolved Welsh elections and referendums](schedule/1/paragraph/20An1.md)
+    - [Sch. 1 para. 20B Reports by the Llywydd’s Committee](schedule/1/paragraph/20B.md)
+  - Notification of Commission regulations
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 21A](schedule/1/paragraph/21A.md)
+  - Regulation-making instruments
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+  - Verification of regulations
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Documentary evidence
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+  - Interpretation
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+- SCHEDULE 2 The Speaker’s Committee
+  - Reports
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Term of office of Committee members
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Committee proceedings
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Protection for witnesses etc
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 Transfer of functions of Boundary Commissions
+  - Part I Amendments of Parliamentary Constituencies Act 1986
+    - Preliminary
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Duty to keep under review, and report on, parliamentary representation
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Functions of Boundary Committees
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Implementation of Commission’s reports
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Notices relating to proposed reports or recommendations
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Local inquiries
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Rules for redistribution of seats
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+  - Part II Amendments of other Acts
+    - Government of Wales Act 1998 (c. 38)
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Scotland Act 1998 (c. 46)
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+      - [Sch. 3 para. 24](schedule/3/paragraph/24.md)
+- SCHEDULE 4 Applications under Part II
+  - Part I Application for registration
+    - Introductory
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Names
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Headquarters
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - Registered officers
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Party organisation
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Additional information
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Signature
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+  - Part II Application for alteration of entry
+    - Introductory
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Signature
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Details of campaigns officer
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+  - Part III Application for registration of replacement officer
+    - Introductory
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - Details of replacement etc. officers
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - Signature
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+  - Part IV Application for removal of entry
+    - Signature
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+- SCHEDULE 5 Accounting units: application of accounting requirements
+  - Introductory
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+  - Accounting records
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+  - Annual statements of accounts
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+  - Annual audits
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Supplementary provisions about auditors
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+  - Submission of statements of accounts etc. to Commission
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+  - Public inspection of parties’ statements of accounts
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Criminal penalty for failure to submit proper statement of accounts etc.
+    - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+  - Revision of statement of accounts
+    - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+- SCHEDULE 6 Details to be given in donation reports
+  - Preliminary
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Declarations as to source of donation or as to whether residence etc condition satisfied
+    - [Sch. 6 para. 1A](schedule/6/paragraph/1A.md)
+  - Identity of donors: quarterly reports
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+    - [Sch. 6 para. 2A](schedule/6/paragraph/2A.md)
+  - Identity of donors: weekly reports
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Value of donation
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Circumstances in which donation made
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Application of reporting requirement
+    - [Sch. 6 para. 5A](schedule/6/paragraph/5A.md)
+  - Donations from impermissible donors
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+  - Donations from unidentifiable donors
+    - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+  - Other details
+    - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+- SCHEDULE 6A Details to be given in transaction reports
+  - Preliminary
+    - [Sch. 6A para. 1](schedule/6A/paragraph/1.md)
+  - Declaration as to whether residence etc condition satisfied
+    - [Sch. 6A para. 1A](schedule/6A/paragraph/1A.md)
+  - Identity of authorised participants: quarterly reports
+    - [Sch. 6A para. 2](schedule/6A/paragraph/2.md)
+    - [Sch. 6A para. 2A](schedule/6A/paragraph/2A.md)
+  - Identity of authorised participants: weekly reports
+    - [Sch. 6A para. 3](schedule/6A/paragraph/3.md)
+  - Identity of unauthorised participants
+    - [Sch. 6A para. 4](schedule/6A/paragraph/4.md)
+  - Details of transaction
+    - [Sch. 6A para. 5](schedule/6A/paragraph/5.md)
+    - [Sch. 6A para. 6](schedule/6A/paragraph/6.md)
+    - [Sch. 6A para. 7](schedule/6A/paragraph/7.md)
+    - [Sch. 6A para. 8](schedule/6A/paragraph/8.md)
+    - [Sch. 6A para. 8A](schedule/6A/paragraph/8A.md)
+  - Other details
+    - [Sch. 6A para. 9](schedule/6A/paragraph/9.md)
+- SCHEDULE 7 Control of donations to individuals and members associations
+  - Part I Introductory
+    - Operation and interpretation of Schedule
+      - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+    - Appointment of responsible person by members association with no treasurer
+      - [Sch. 7 para. 1A](schedule/7/paragraph/1A.md)
+    - Offence of failing to comply with paragraph 1A
+      - [Sch. 7 para. 1B](schedule/7/paragraph/1B.md)
+    - Donations: general rules
+      - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+    - Sponsorship
+      - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+    - Payments etc. not to be regarded as donations
+      - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+    - Value of donations
+      - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - Part II Controls on donations
+    - Prohibition on accepting donations from impermissible donors
+      - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+    - Declaration as to source of donation
+      - [Sch. 7 para. 6A](schedule/7/paragraph/6A.md)
+    - Declaration as to whether residence etc condition satisfied
+      - [Sch. 7 para. 6B](schedule/7/paragraph/6B.md)
+    - Payments etc. which are (or are not) to be treated as donations by permissible donors
+      - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+    - Acceptance or return of donations
+      - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+    - Evasion of restrictions on donations
+      - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Part III Reporting of donations by regulated donees
+    - Donation reports: donations from permissible donors
+      - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+    - Donation reports: donations from impermissible or unidentifiable donors
+      - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+    - Offence of failing to deliver donation report
+      - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+    - Declaration in donation report
+      - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+  - Part IV Reporting of donations by donors
+    - [Sch. 7 para. 14](schedule/7/paragraph/14.md)
+  - Part V Register of donations
+    - Register of recordable donations
+      - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - Donations to holders of certain elective offices
+      - [Sch. 7 para. 15A](schedule/7/paragraph/15A.md)
+  - Part VI Power to make special provision
+    - Exemption from disclosure
+      - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+  - Part 7 Compliance officers
+    - [Sch. 7 para. 17 Functions and liabilities of compliance officers](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18 Notices of appointment, renewal, alteration and termination](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19 Register of compliance officers](schedule/7/paragraph/19.md)
+- SCHEDULE 7A Control of loans etc to individuals and members associations
+  - Operation and construction of Schedule
+    - [Sch. 7A para. 1](schedule/7A/paragraph/1.md)
+  - Controlled transaction
+    - [Sch. 7A para. 2](schedule/7A/paragraph/2.md)
+  - Valuation of controlled transactions
+    - [Sch. 7A para. 3](schedule/7A/paragraph/3.md)
+  - Authorised participants
+    - [Sch. 7A para. 4](schedule/7A/paragraph/4.md)
+  - Declaration that residence etc condition satisfied
+    - [Sch. 7A para. 4A](schedule/7A/paragraph/4A.md)
+  - Controlled transaction involving unauthorised participant
+    - [Sch. 7A para. 5](schedule/7A/paragraph/5.md)
+  - Guarantees and securities: unauthorised participants
+    - [Sch. 7A para. 6](schedule/7A/paragraph/6.md)
+  - Transfer to unauthorised participant invalid
+    - [Sch. 7A para. 7](schedule/7A/paragraph/7.md)
+  - Offences
+    - [Sch. 7A para. 8](schedule/7A/paragraph/8.md)
+  - Transaction reports: transactions with authorised participants
+    - [Sch. 7A para. 9](schedule/7A/paragraph/9.md)
+  - Transaction reports: transactions with unauthorised participants
+    - [Sch. 7A para. 10](schedule/7A/paragraph/10.md)
+  - Transaction reports: changes to recorded transactions
+    - [Sch. 7A para. 11](schedule/7A/paragraph/11.md)
+  - Offence of failing to deliver transaction report
+    - [Sch. 7A para. 12](schedule/7A/paragraph/12.md)
+  - Declaration in transaction report
+    - [Sch. 7A para. 13](schedule/7A/paragraph/13.md)
+  - Existing transactions
+    - [Sch. 7A para. 14](schedule/7A/paragraph/14.md)
+  - Register of recordable transactions
+    - [Sch. 7A para. 15](schedule/7A/paragraph/15.md)
+  - Proceedings under paragraphs 5 and 12
+    - [Sch. 7A para. 17](schedule/7A/paragraph/17.md)
+  - Compliance officers
+    - [Sch. 7A para. 18](schedule/7A/paragraph/18.md)
+- SCHEDULE 8 Campaign expenditure: qualifying expenses
+  - Part I Qualifying expenses
+    - Expenses qualifying where incurred for election purposes
+      - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+    - Exclusions
+      - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Part II Supplemental
+    - Guidance by Commission
+      - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+    - Power to amend Part I
+      - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+- SCHEDULE 8A Controlled expenditure: qualifying expenses
+  - Part 1 Qualifying expenses
+    - [Sch. 8A para. 1](schedule/8A/paragraph/1.md)
+    - [Sch. 8A para. 2](schedule/8A/paragraph/2.md)
+  - Part 2 Supplemental
+    - Guidance by the Commission
+      - [Sch. 8A para. 3](schedule/8A/paragraph/3.md)
+    - Power to amend Part 1
+      - [Sch. 8A para. 4](schedule/8A/paragraph/4.md)
+- SCHEDULE 9 Limits on campaign expenditure
+  - Part I Introductory
+    - Interpretation
+      - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - Attribution of expenditure to different parts of the United Kingdom
+      - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - Part II General limits
+    - Parliamentary general elections
+      - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+    - ...
+      - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - General elections to Scottish Parliament
+      - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - General elections to Senedd Cymru
+      - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+    - General elections to Northern Ireland Assembly
+      - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - Part III Limits applying in special circumstances
+    - ...
+      - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+    - Combined limits where parliamentary election pending
+      - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+    - Combination of limit under paragraph 9 and other limit
+      - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+    - Combination of parliamentary general election and other election, or elections, falling within paragraphs 5 to 7
+      - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+- SCHEDULE 10 Limits on controlled expenditure
+  - Part I Introductory
+    - Interpretation
+      - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - Attribution of expenditure to different parts of the United Kingdom
+      - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - Attribution of expenditure to different parliamentary constituencies
+      - [Sch. 10 para. 2n1](schedule/10/paragraph/2n1.md)
+  - Part II General limits
+    - Parliamentary general elections
+      - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+    - ...
+      - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - General elections to Scottish Parliament
+      - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - General elections to Senedd Cymru
+      - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+    - General elections to Northern Ireland Assembly
+      - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+  - Part III Limits applying in special circumstances
+    - ...
+      - [Sch. 10 para. 8](schedule/10/paragraph/8.md)
+    - Combined limits where parliamentary election pending
+      - [Sch. 10 para. 9](schedule/10/paragraph/9.md)
+    - Combination of limit under paragraph 9 and other limit
+      - [Sch. 10 para. 10](schedule/10/paragraph/10.md)
+    - Combination of parliamentary general election and other election, or elections, falling within paragraphs 5 to 7
+      - [Sch. 10 para. 11](schedule/10/paragraph/11.md)
+- SCHEDULE 11 Control of donations to recognised third parties
+  - Part I Introductory
+    - Operation and interpretation of Schedule
+      - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+    - Donations: general rules
+      - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+    - Sponsorship
+      - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - Payments etc not to be regarded as donations
+      - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - Value of donations
+      - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Part II Controls on donations
+    - Prohibition on accepting donations from impermissible donors
+      - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+    - Declaration as to source of donation
+      - [Sch. 11 para. 6A](schedule/11/paragraph/6A.md)
+    - Declaration as to whether residence etc condition satisfied
+      - [Sch. 11 para. 6B](schedule/11/paragraph/6B.md)
+    - Acceptance or return of donations
+      - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+    - Evasion of restrictions on donations
+      - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+  - Part III Reporting of donations in section 96 return
+    - Statement of relevant donations
+      - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+    - Declarations under paragraph 6A or 6B
+      - [Sch. 11 para. 9A](schedule/11/paragraph/9A.md)
+    - Donations from permissible donors
+      - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
+    - Donations from impermissible donors
+      - [Sch. 11 para. 11](schedule/11/paragraph/11.md)
+- SCHEDULE 11A Requirements of quarterly and weekly donation reports
+  - Part 1 Preliminary
+    - [Sch. 11A para. 1](schedule/11A/paragraph/1.md)
+  - Part 2 Quarterly reports
+    - Requirements of quarterly reports
+      - [Sch. 11A para. 2](schedule/11A/paragraph/2.md)
+    - Statement relating to reportable donations accepted during reporting period
+      - [Sch. 11A para. 3](schedule/11A/paragraph/3.md)
+      - [Sch. 11A para. 4](schedule/11A/paragraph/4.md)
+    - Statement of reportable donations dealt with during reporting period
+      - [Sch. 11A para. 5](schedule/11A/paragraph/5.md)
+    - Supplementary
+      - [Sch. 11A para. 6](schedule/11A/paragraph/6.md)
+  - Part 3 Weekly Reports
+    - [Sch. 11A para. 7](schedule/11A/paragraph/7.md)
+- SCHEDULE 12 Assistance available to designated organisations
+  - Right to send referendum address post free
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Right to use rooms for holding public meetings
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Supplementary provisions about use of rooms for public meetings
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Referendum campaign broadcasts
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+- SCHEDULE 13 Referendum expenses: qualifying expenses
+  - Part I Qualifying expenses
+    - Expenses qualifying where incurred for referendum purposes
+      - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+    - Exclusions
+      - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Part II Supplemental
+    - Guidance by Commission
+      - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - Power to amend Part I
+      - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+- SCHEDULE 14
+  - Limits on referendum expenses by permitted participants
+    - Limits in relation to referendums held throughout United Kingdom
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Limits in relation to referendums held in particular parts of United Kingdom
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+- SCHEDULE 15 Control of donations to permitted participants
+  - Part I Introductory
+    - Operation and interpretation of Schedule
+      - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+    - Donations: general rules
+      - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - Sponsorship
+      - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - Payments etc. not to be regarded as donations
+      - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - Value of donations
+      - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Part II Controls on donations
+    - Prohibition on accepting donations from impermissible donors
+      - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+    - Declaration as to source of donation
+      - [Sch. 15 para. 6A](schedule/15/paragraph/6A.md)
+    - Declaration as to whether residence etc condition satisfied
+      - [Sch. 15 para. 6B](schedule/15/paragraph/6B.md)
+    - Acceptance or return of donations
+      - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+    - Evasion of restrictions on donations
+      - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Part III Reporting of donations
+    - Statement of relevant donations
+      - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+    - Declarations under paragraph 6A or 6B
+      - [Sch. 15 para. 9A](schedule/15/paragraph/9A.md)
+    - Donations from permissible donors
+      - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+    - Donations from impermissible or unidentifiable donors
+      - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+- SCHEDULE 16 Control of donations to candidates: New Schedule 2A to the Representation of the People Act 1983
+- SCHEDULE 17 Amendments relating to election petitions
+  - Preliminary
+    - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - Local election petitions
+    - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - Procedure on all election petitions
+    - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - Consequences of finding by election court of corrupt or illegal practice
+    - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+    - [Sch. 17 para. 8](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10](schedule/17/paragraph/10.md)
+- SCHEDULE 18 Election campaigns and proceedings: miscellaneous amendments
+  - Preliminary
+    - [Sch. 18 para. 1](schedule/18/paragraph/1.md)
+  - Contracts about election expenses
+    - [Sch. 18 para. 2](schedule/18/paragraph/2.md)
+  - Payment of election expenses
+    - [Sch. 18 para. 3](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6](schedule/18/paragraph/6.md)
+  - Returns of election expenses
+    - [Sch. 18 para. 7](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11](schedule/18/paragraph/11.md)
+  - Conveyance of voters to and from the poll
+    - [Sch. 18 para. 12](schedule/18/paragraph/12.md)
+  - Illegal practices, payments, employments and hirings
+    - [Sch. 18 para. 13](schedule/18/paragraph/13.md)
+    - [Sch. 18 para. 14](schedule/18/paragraph/14.md)
+  - Election expenses
+    - [Sch. 18 para. 15](schedule/18/paragraph/15.md)
+    - [Sch. 18 para. 16](schedule/18/paragraph/16.md)
+    - [Sch. 18 para. 17](schedule/18/paragraph/17.md)
+  - Jurisdiction and procedure
+    - [Sch. 18 para. 18](schedule/18/paragraph/18.md)
+  - References to documents used in legal proceedings
+    - [Sch. 18 para. 19](schedule/18/paragraph/19.md)
+- SCHEDULE 19
+- SCHEDULE 19A Reports of gifts received by unincorporated associations making political contributions
+  - Requirement to notify Commission of political contributions over £37,270
+    - [Sch. 19A para. 1](schedule/19A/paragraph/1.md)
+  - Requirement to report gifts received to Commission
+    - [Sch. 19A para. 2](schedule/19A/paragraph/2.md)
+  - Information to be included in reports under paragraph 2
+    - [Sch. 19A para. 3](schedule/19A/paragraph/3.md)
+  - Declaration by authorised individual
+    - [Sch. 19A para. 4](schedule/19A/paragraph/4.md)
+  - Additional matters to be included in notifications and reports
+    - [Sch. 19A para. 5](schedule/19A/paragraph/5.md)
+  - Offences
+    - [Sch. 19A para. 6](schedule/19A/paragraph/6.md)
+  - Register of recordable gifts to unincorporated associations
+    - [Sch. 19A para. 7](schedule/19A/paragraph/7.md)
+    - [Sch. 19A para. 8](schedule/19A/paragraph/8.md)
+  - Meaning of “gift”, etc
+    - [Sch. 19A para. 9](schedule/19A/paragraph/9.md)
+- SCHEDULE 19B Investigatory powers of Commission
+  - Power to require disclosure
+    - [Sch. 19B para. 1](schedule/19B/paragraph/1.md)
+  - Inspection warrants
+    - [Sch. 19B para. 2](schedule/19B/paragraph/2.md)
+  - Powers in relation to suspected offences or contraventions
+    - [Sch. 19B para. 3](schedule/19B/paragraph/3.md)
+  - Court order for delivery of documents or provision of information etc
+    - [Sch. 19B para. 4](schedule/19B/paragraph/4.md)
+    - [Sch. 19B para. 5](schedule/19B/paragraph/5.md)
+  - Retention of documents delivered under paragraph 4
+    - [Sch. 19B para. 6](schedule/19B/paragraph/6.md)
+  - Power to make copies and records
+    - [Sch. 19B para. 7](schedule/19B/paragraph/7.md)
+  - Authorisation to be in writing
+    - [Sch. 19B para. 8](schedule/19B/paragraph/8.md)
+  - Meaning of “documents”
+    - [Sch. 19B para. 9](schedule/19B/paragraph/9.md)
+  - Documents in electronic form
+    - [Sch. 19B para. 10](schedule/19B/paragraph/10.md)
+  - Legal professional privilege
+    - [Sch. 19B para. 11](schedule/19B/paragraph/11.md)
+  - Admissibility of statements
+    - [Sch. 19B para. 12](schedule/19B/paragraph/12.md)
+  - Offences
+    - [Sch. 19B para. 13](schedule/19B/paragraph/13.md)
+  - Guidance by Commission
+    - [Sch. 19B para. 14](schedule/19B/paragraph/14.md)
+  - Information about use of investigatory powers in Commission’s annual report
+    - [Sch. 19B para. 15](schedule/19B/paragraph/15.md)
+- SCHEDULE 19C Civil sanctions
+  - Part 1 Fixed monetary penalties
+    - Imposition of fixed monetary penalties
+      - [Sch. 19C para. 1](schedule/19C/paragraph/1.md)
+    - Representations and appeals etc
+      - [Sch. 19C para. 2](schedule/19C/paragraph/2.md)
+    - Information to be included in notices under paragraph 2
+      - [Sch. 19C para. 3](schedule/19C/paragraph/3.md)
+    - Fixed monetary penalties: criminal proceedings and conviction
+      - [Sch. 19C para. 4](schedule/19C/paragraph/4.md)
+  - Part 2 Discretionary requirements
+    - Imposition of discretionary requirements
+      - [Sch. 19C para. 5](schedule/19C/paragraph/5.md)
+    - Representations and appeals etc
+      - [Sch. 19C para. 6](schedule/19C/paragraph/6.md)
+    - Information to be included in notices under paragraph 6
+      - [Sch. 19C para. 7](schedule/19C/paragraph/7.md)
+    - Discretionary requirements: criminal conviction
+      - [Sch. 19C para. 8](schedule/19C/paragraph/8.md)
+    - Failure to comply with discretionary requirements
+      - [Sch. 19C para. 9](schedule/19C/paragraph/9.md)
+  - Part 3 Stop notices
+    - Imposition of stop notices
+      - [Sch. 19C para. 10](schedule/19C/paragraph/10.md)
+    - Information to be included in stop notices
+      - [Sch. 19C para. 11](schedule/19C/paragraph/11.md)
+    - Completion certificates
+      - [Sch. 19C para. 12](schedule/19C/paragraph/12.md)
+    - Appeals etc
+      - [Sch. 19C para. 13](schedule/19C/paragraph/13.md)
+    - Failure to comply with stop notice
+      - [Sch. 19C para. 14](schedule/19C/paragraph/14.md)
+  - Part 4 Enforcement undertakings
+    - [Sch. 19C para. 15](schedule/19C/paragraph/15.md)
+  - Part 5 Power to make supplementary provision etc by order
+    - Supplementary orders: general
+      - [Sch. 19C para. 16](schedule/19C/paragraph/16.md)
+    - Consultation
+      - [Sch. 19C para. 17](schedule/19C/paragraph/17.md)
+    - Monetary penalties
+      - [Sch. 19C para. 18](schedule/19C/paragraph/18.md)
+    - Enforcement undertakings
+      - [Sch. 19C para. 19](schedule/19C/paragraph/19.md)
+    - Extension of time for taking criminal proceedings
+      - [Sch. 19C para. 20](schedule/19C/paragraph/20.md)
+    - Appeals
+      - [Sch. 19C para. 21](schedule/19C/paragraph/21.md)
+  - Part 6 General and supplemental
+    - Combination of sanctions
+      - [Sch. 19C para. 22](schedule/19C/paragraph/22.md)
+    - Use of statements made compulsorily
+      - [Sch. 19C para. 23](schedule/19C/paragraph/23.md)
+    - Unincorporated associations
+      - [Sch. 19C para. 24](schedule/19C/paragraph/24.md)
+    - Guidance as to enforcement
+      - [Sch. 19C para. 25](schedule/19C/paragraph/25.md)
+    - Payment of penalties etc into Consolidated Fund
+      - [Sch. 19C para. 26](schedule/19C/paragraph/26.md)
+    - Reports on use of civil sanctions
+      - [Sch. 19C para. 27](schedule/19C/paragraph/27.md)
+    - Disclosure of information
+      - [Sch. 19C para. 28](schedule/19C/paragraph/28.md)
+  - Part 7 Interpretation
+    - Interpretation of Schedule
+      - [Sch. 19C para. 29](schedule/19C/paragraph/29.md)
+- SCHEDULE 20 Penalties
+- SCHEDULE 21 Minor and consequential amendments
+  - Public Records Act 1958 (c.51)
+    - [Sch. 21 para. 1](schedule/21/paragraph/1.md)
+  - Parliamentary Commissioner Act 1967 (c.13)
+    - [Sch. 21 para. 2](schedule/21/paragraph/2.md)
+  - House of Commons Disqualification Act 1975 (c.24)
+    - [Sch. 21 para. 3](schedule/21/paragraph/3.md)
+  - Northern Ireland Assembly Disqualification Act 1975 (c.25)
+    - [Sch. 21 para. 4](schedule/21/paragraph/4.md)
+  - European Parliamentary Elections Act 1978 (c.10)
+    - [Sch. 21 para. 5](schedule/21/paragraph/5.md)
+  - Representation of the People Act 1983 (c.2)
+    - [Sch. 21 para. 6](schedule/21/paragraph/6.md)
+  - Representation of the People Regulations 1986 (S.I. 1986/1081) and Representation of the People (Scotland) Regulations 1986 (S.I. 1986/1111)
+    - [Sch. 21 para. 7](schedule/21/paragraph/7.md)
+  - Broadcasting Act 1990 (c.42)
+    - [Sch. 21 para. 8](schedule/21/paragraph/8.md)
+  - Local Government Act 1992 (c.19)
+    - [Sch. 21 para. 9](schedule/21/paragraph/9.md)
+    - [Sch. 21 para. 10](schedule/21/paragraph/10.md)
+  - Criminal Justice and Public Order Act 1994 (c.33)
+    - [Sch. 21 para. 11](schedule/21/paragraph/11.md)
+  - Government of Wales Act 1998 (c.38)
+    - [Sch. 21 para. 12](schedule/21/paragraph/12.md)
+  - Scotland Act 1998 (c.46)
+    - [Sch. 21 para. 13](schedule/21/paragraph/13.md)
+  - Northern Ireland Act 1998 (c.47)
+    - [Sch. 21 para. 14](schedule/21/paragraph/14.md)
+  - Greater London Authority Act 1999 (c.29)
+    - [Sch. 21 para. 15](schedule/21/paragraph/15.md)
+  - Representation of the People Act 2000 (c.2)
+    - [Sch. 21 para. 16](schedule/21/paragraph/16.md)
+    - [Sch. 21 para. 17](schedule/21/paragraph/17.md)
+  - Local Government Act 2000 (c.22)
+    - [Sch. 21 para. 18](schedule/21/paragraph/18.md)
+- SCHEDULE 22 Repeals
+- SCHEDULE 23 Transitional provisions
+  - Part I Transfer of registration of existing registered parties
+    - Interpretation of Part I
+      - [Sch. 23 para. 1](schedule/23/paragraph/1.md)
+    - Declaration for purposes of section 28
+      - [Sch. 23 para. 2](schedule/23/paragraph/2.md)
+    - Draft scheme for purposes of section 26
+      - [Sch. 23 para. 3](schedule/23/paragraph/3.md)
+    - Registration under Part II of this Act as from appointed day
+      - [Sch. 23 para. 4](schedule/23/paragraph/4.md)
+    - Failure to comply with paragraph 2 or 3
+      - [Sch. 23 para. 5](schedule/23/paragraph/5.md)
+    - Exercise of functions by person appointed as Commission’s chief executive
+      - [Sch. 23 para. 6](schedule/23/paragraph/6.md)
+    - Termination of registration functions of registrar of companies
+      - [Sch. 23 para. 7](schedule/23/paragraph/7.md)
+  - Part II Other transitional provisions
+    - Appointment of Electoral Commissioners
+      - [Sch. 23 para. 8](schedule/23/paragraph/8.md)
+    - Orders specifying organisations which are not to count as accounting units
+      - [Sch. 23 para. 9](schedule/23/paragraph/9.md)
+    - Orders prohibiting use of certain words in parties’ registered names
+      - [Sch. 23 para. 10](schedule/23/paragraph/10.md)
+    - Confirmation of registered particulars
+      - [Sch. 23 para. 11](schedule/23/paragraph/11.md)
+    - Control of political donations by companies
+      - [Sch. 23 para. 12](schedule/23/paragraph/12.md)
+    - Disclosure of political donations and expenditure in directors’ report
+      - [Sch. 23 para. 13](schedule/23/paragraph/13.md)
