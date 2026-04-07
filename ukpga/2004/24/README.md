@@ -1,0 +1,134 @@
+# Employment Relations Act 2004
+
+2004 c. 24. Enacted 2004-09-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 14 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
+
+Source: https://www.legislation.gov.uk/ukpga/2004/24/2026-04-07
+
+## Contents
+
+- Part 1 Union recognition
+  - [s. 1 Application for decision on whether proposed bargaining unit is appropriate](section/1.md)
+  - [s. 2 Power of the CAC to end period for agreement on bargaining unit](section/2.md)
+  - [s. 3 Duty of employer to supply information to union](section/3.md)
+  - [s. 4 Determination of appropriate bargaining unit](section/4.md)
+  - [s. 5 Union communications with workers after acceptance of application](section/5.md)
+  - [s. 6 Circumstances in which the CAC must arrange a ballot](section/6.md)
+  - [s. 7 Power of the CAC to extend notification period](section/7.md)
+  - [s. 8 Postal votes for workers absent from ballot at workplace](section/8.md)
+  - [s. 9 Additional duties on employers informed of ballots](section/9.md)
+  - [s. 10 Unfair practices in relation to recognition ballots](section/10.md)
+  - [s. 11 Application where agreement does not cover pay, hours and holidays](section/11.md)
+  - [s. 12 Employer’s notice to end bargaining arrangements](section/12.md)
+  - [s. 13 Unfair practices in relation to derecognition ballots](section/13.md)
+  - [s. 14 Appeals against demands for costs](section/14.md)
+  - [s. 15 Power to amend Schedule A1 to the 1992 Act](section/15.md)
+  - [s. 16 Means of communicating with workers](section/16.md)
+  - [s. 17 Unfair practices: power to make provision about periods before notice of ballot](section/17.md)
+  - [s. 18 Power to make provision about effect of amalgamations etc.](section/18.md)
+  - [s. 19 Information about union membership and employment in bargaining unit](section/19.md)
+  - [s. 20 “Pay” and other matters subject to collective bargaining](section/20.md)
+  - [s. 21 Information required by ACAS for ballots and ascertaining union membership](section/21.md)
+- Part 2 Law relating to industrial action
+  - [s. 22 Information about employees to be balloted on industrial action](section/22.md)
+  - [s. 23 Entitlement to vote in ballot on industrial action](section/23.md)
+  - [s. 24 Inducement of members not accorded entitlement to vote](section/24.md)
+  - [s. 25 Information about employees to be contained in notice of industrial action](section/25.md)
+  - [s. 26 Dismissal where employees taking protected industrial action locked out](section/26.md)
+  - [s. 27 Date of dismissal](section/27.md)
+  - [s. 28 Dismissal after end of protected period](section/28.md)
+- Part 3 Rights of trade union members, workers and employees
+  - Inducements and detriments in respect of membership etc. of independent trade union
+    - [s. 29 Inducements relating to union membership or activities](section/29.md)
+    - [s. 30 Extension of protection against detriment for union membership etc.](section/30.md)
+    - [s. 31 Detriment for use of union services or refusal of inducement](section/31.md)
+    - [s. 32 Dismissal for use of union services or refusal of inducement](section/32.md)
+  - Exclusion and expulsion from trade unions
+    - [s. 33 Exclusion or expulsion from trade union attributable to conduct](section/33.md)
+    - [s. 34 Applications no longer to be made to Employment Appeal Tribunal](section/34.md)
+  - Other rights of workers and employees
+    - [s. 35 Disapplication of qualifying period and upper age limit for unfair dismissal](section/35.md)
+    - [s. 36 National security: powers of employment tribunals](section/36.md)
+    - [s. 37 Role of companion at disciplinary or grievance hearing](section/37.md)
+    - [s. 38 Extension of jurisdiction of Employment Appeal Tribunal](section/38.md)
+    - [s. 39 Ways in which provision conferring rights on individuals may be made](section/39.md)
+    - [s. 40 Protection of employees in respect of jury service](section/40.md)
+    - [s. 41 Flexible working](section/41.md)
+    - [s. 42 Information and consultation: Great Britain](section/42.md)
+    - [s. 43 Information and consultation: Northern Ireland](section/43.md)
+- Part 4 Enforcement of minimum wage legislation
+  - [s. 44 Information supplied by worker and employer](section/44.md)
+  - [s. 45 Enforcement notices](section/45.md)
+  - [s. 46 Withdrawal and replacement of, and appeals against, notices](section/46.md)
+  - [s. 47 Enforcement officers for agricultural wages legislation](section/47.md)
+- Part 5 The Certification Officer
+  - [s. 48 Striking out by Certification Officer of applications or complaints](section/48.md)
+  - [s. 49 Restriction of proceedings orders: proceedings before Certification Officer](section/49.md)
+  - [s. 50 Amalgamations: approval, listing and certification](section/50.md)
+  - [s. 51 Restriction of grounds of appeal from Certification Officer](section/51.md)
+- Part 6 Miscellaneous
+  - [s. 52 Additional case in which election for president of union not required](section/52.md)
+  - [s. 53 Removal of rule preventing appointment of body corporate as auditor](section/53.md)
+  - [s. 54 Means of voting in ballots and elections](section/54.md)
+  - [s. 55 Provision of money for trade union modernisation](section/55.md)
+- Part 7 Supplementary provisions
+  - [s. 56 Meaning of “the 1992 Act”](section/56.md)
+  - [s. 57 Minor and consequential amendments and repeals](section/57.md)
+  - [s. 58 Corresponding provision for Northern Ireland](section/58.md)
+  - [s. 59 Citation, commencement and extent](section/59.md)
+- SCHEDULE 1 Minor and consequential amendments
+  - Agricultural Wages Act 1948
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Agricultural Wages (Regulation) (Northern Ireland) Order 1977
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - The 1992 Act
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+    - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+    - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+    - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+  - Employment Tribunals Act 1996
+    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+    - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+    - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Employment Rights Act 1996
+    - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+    - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+    - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+    - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+    - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+    - [Sch. 1 para. 36](schedule/1/paragraph/36.md)
+    - [Sch. 1 para. 37](schedule/1/paragraph/37.md)
+    - [Sch. 1 para. 38](schedule/1/paragraph/38.md)
+    - [Sch. 1 para. 39](schedule/1/paragraph/39.md)
+  - National Minimum Wage Act 1998
+    - [Sch. 1 para. 40](schedule/1/paragraph/40.md)
+    - [Sch. 1 para. 41](schedule/1/paragraph/41.md)
+  - Employment Relations Act 1999
+    - [Sch. 1 para. 42](schedule/1/paragraph/42.md)
+  - Employment Act 2002
+    - [Sch. 1 para. 43](schedule/1/paragraph/43.md)
+- SCHEDULE 2 Repeals
