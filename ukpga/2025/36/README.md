@@ -2,9 +2,9 @@
 
 2025 c. 36. Enacted 2025-12-18.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-06, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/36` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. Earlier versions, from 2025-12-18, are in the history before it: `git log -- ukpga/2025/36` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-06
+Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-07
 
 ## Contents
 
@@ -375,7 +375,7 @@ Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-06
 - Schedule 7 Legislation subject to enforcement under Part 5
   - Part 1 Relevant labour market legislation
     - [Sch. 7 para. 1 Employment Agencies Act 1973](schedule/7/paragraph/1.md)
-    - [Sch. 7 para. 2 Employment Agencies Act 1973](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
     - [Sch. 7 para. 3 Social Security Contributions and Benefits Act 1992](schedule/7/paragraph/3.md)
     - [Sch. 7 para. 4 Social Security Contributions and Benefits Act 1992](schedule/7/paragraph/4.md)
     - [Sch. 7 para. 5 Social Security Administration Act 1992](schedule/7/paragraph/5.md)
@@ -388,23 +388,26 @@ Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-06
     - [Sch. 7 para. 12 Social Security Administration (Northern Ireland) Act 1992](schedule/7/paragraph/12.md)
     - [Sch. 7 para. 13 Employment Tribunals Act 1996](schedule/7/paragraph/13.md)
     - [Sch. 7 para. 14 National Minimum Wage Act 1998](schedule/7/paragraph/14.md)
-    - [Sch. 7 para. 15 National Minimum Wage Act 1998](schedule/7/paragraph/15.md)
-    - [Sch. 7 para. 16 National Minimum Wage Act 1998](schedule/7/paragraph/16.md)
-    - [Sch. 7 para. 17 National Minimum Wage Act 1998](schedule/7/paragraph/17.md)
-    - [Sch. 7 para. 18 National Minimum Wage Act 1998](schedule/7/paragraph/18.md)
-    - [Sch. 7 para. 19 National Minimum Wage Act 1998](schedule/7/paragraph/19.md)
-    - [Sch. 7 para. 20 National Minimum Wage Act 1998](schedule/7/paragraph/20.md)
+    - [Sch. 7 para. 15](schedule/7/paragraph/15.md)
+    - [Sch. 7 para. 16](schedule/7/paragraph/16.md)
+    - [Sch. 7 para. 17](schedule/7/paragraph/17.md)
+    - [Sch. 7 para. 18](schedule/7/paragraph/18.md)
+    - [Sch. 7 para. 19](schedule/7/paragraph/19.md)
+    - [Sch. 7 para. 20](schedule/7/paragraph/20.md)
     - [Sch. 7 para. 21 Working Time Regulations 1998](schedule/7/paragraph/21.md)
     - [Sch. 7 para. 22 Gangmasters (Licensing) Act 2004](schedule/7/paragraph/22.md)
-    - [Sch. 7 para. 23 Gangmasters (Licensing) Act 2004](schedule/7/paragraph/23.md)
-    - [Sch. 7 para. 24 Gangmasters (Licensing) Act 2004](schedule/7/paragraph/24.md)
-    - [Sch. 7 para. 25 Gangmasters (Licensing) Act 2004](schedule/7/paragraph/25.md)
-    - [Sch. 7 para. 26 Gangmasters (Licensing) Act 2004](schedule/7/paragraph/26.md)
+    - [Sch. 7 para. 23](schedule/7/paragraph/23.md)
+    - [Sch. 7 para. 24](schedule/7/paragraph/24.md)
+    - [Sch. 7 para. 25](schedule/7/paragraph/25.md)
+    - [Sch. 7 para. 26](schedule/7/paragraph/26.md)
     - [Sch. 7 para. 27 Fraud Act 2006](schedule/7/paragraph/27.md)
     - [Sch. 7 para. 28 Modern Slavery Act 2015](schedule/7/paragraph/28.md)
-    - [Sch. 7 para. 29 Modern Slavery Act 2015](schedule/7/paragraph/29.md)
-    - [Sch. 7 para. 30 Modern Slavery Act 2015](schedule/7/paragraph/30.md)
+    - [Sch. 7 para. 29](schedule/7/paragraph/29.md)
+    - [Sch. 7 para. 30](schedule/7/paragraph/30.md)
     - [Sch. 7 para. 31 Employment Rights Act 2025](schedule/7/paragraph/31.md)
+    - [Sch. 7 para. 32](schedule/7/paragraph/32.md)
+    - [Sch. 7 para. 33](schedule/7/paragraph/33.md)
+    - [Sch. 7 para. 34](schedule/7/paragraph/34.md)
   - Part 2 Power to amend Part 1
     - [Sch. 7 para. 35](schedule/7/paragraph/35.md)
 - Schedule 8 Warrants under Part 5: further provision
@@ -413,8 +416,8 @@ Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-06
   - Part 2 Warrants: applications and safeguards
     - [Sch. 8 para. 2 Applications for warrants](schedule/8/paragraph/2.md)
     - [Sch. 8 para. 3 Safeguards in connection with power of entry conferred by warrant](schedule/8/paragraph/3.md)
-    - [Sch. 8 para. 4 Safeguards in connection with power of entry conferred by warrant](schedule/8/paragraph/4.md)
-    - [Sch. 8 para. 5 Safeguards in connection with power of entry conferred by warrant](schedule/8/paragraph/5.md)
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
   - Part 3 Execution of warrants
     - [Sch. 8 para. 6 Warrant to be executed within three months](schedule/8/paragraph/6.md)
     - [Sch. 8 para. 7 Time of entry](schedule/8/paragraph/7.md)
@@ -530,14 +533,14 @@ Source: https://www.legislation.gov.uk/ukpga/2025/36/2026-04-06
     - [Sch. 11 para. 7 Powers to obtain documents etc](schedule/11/paragraph/7.md)
     - [Sch. 11 para. 8 Labour abuse prevention officers](schedule/11/paragraph/8.md)
     - [Sch. 11 para. 9 Warrants](schedule/11/paragraph/9.md)
-    - [Sch. 11 para. 10 Warrants](schedule/11/paragraph/10.md)
+    - [Sch. 11 para. 10](schedule/11/paragraph/10.md)
     - [Sch. 11 para. 11 LME undertakings and orders](schedule/11/paragraph/11.md)
     - [Sch. 11 para. 12 Information](schedule/11/paragraph/12.md)
-    - [Sch. 11 para. 13 Information](schedule/11/paragraph/13.md)
-    - [Sch. 11 para. 14 Information](schedule/11/paragraph/14.md)
+    - [Sch. 11 para. 13](schedule/11/paragraph/13.md)
+    - [Sch. 11 para. 14](schedule/11/paragraph/14.md)
     - [Sch. 11 para. 15 Orders under Modern Slavery Act 2015](schedule/11/paragraph/15.md)
-    - [Sch. 11 para. 16 Orders under Modern Slavery Act 2015](schedule/11/paragraph/16.md)
-    - [Sch. 11 para. 17 Orders under Modern Slavery Act 2015](schedule/11/paragraph/17.md)
+    - [Sch. 11 para. 16](schedule/11/paragraph/16.md)
+    - [Sch. 11 para. 17](schedule/11/paragraph/17.md)
     - [Sch. 11 para. 18 Notices of underpayment under the National Minimum Wage Act 1998](schedule/11/paragraph/18.md)
     - [Sch. 11 para. 19 Enforcement of agricultural wages legislation](schedule/11/paragraph/19.md)
     - [Sch. 11 para. 20 Appeals under the Gangmasters (Licensing) Act 2004: Northern Ireland licences](schedule/11/paragraph/20.md)
