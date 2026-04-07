@@ -1,0 +1,271 @@
+# Employment Protection Act 1975
+
+1975 c. 71. Enacted 1975-11-12.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 2 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1975/71
+
+Source: https://www.legislation.gov.uk/ukpga/1975/71/2026-04-07
+
+## Contents
+
+- Part I Machinery for Promoting the Improvement of Industrial Relations
+  - Advisory, Conciliation and Arbitration Service, etc.
+    - [s. 1 ................................](section/1.md)
+    - [s. 2 ................................](section/2.md)
+    - [s. 3 ................................](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 5 ................................](section/5.md)
+    - [s. 6 ................................](section/6.md)
+    - [s. 7 ................................](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 ................................](section/9.md)
+    - [s. 10 ................................](section/10.md)
+    - [s. 1116. ................................](section/1116.md)
+  - Disclosure of information
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+- Part II
+  - [s. 2239. ................................](section/2239.md)
+  - [s. 40](section/40.md)
+  - [s. 4188 ................................](section/4188.md)
+- Part III
+  - [s. 8996. ................................](section/8996.md)
+  - Powers of Agricultural Wages Boards
+    - [s. 97 Amendments of Agricultural Wages Acts.](section/97.md)
+    - [s. 98 ................................](section/98.md)
+- Part IV Procedure for Handling Redundancies
+  - [s. 99 ................................](section/99.md)
+  - [s. 100 ................................](section/100.md)
+  - [s. 101 ................................](section/101.md)
+  - [s. 102 ................................](section/102.md)
+  - [s. 103 ................................](section/103.md)
+  - [s. 104 ................................](section/104.md)
+  - [s. 105 ................................](section/105.md)
+  - [s. 106 ................................](section/106.md)
+  - [s. 107 ................................](section/107.md)
+- Part V Miscellaneous and Supplementary Provisions
+  - [s. 108 ................................](section/108.md)
+  - [s. 109 ................................](section/109.md)
+  - [s. 110 ................................](section/110.md)
+  - [s. 111 Disentitlement to unemployment benefit and supplementary benefit during trade dispute.](section/111.md)
+  - [s. 112 ................................](section/112.md)
+  - [s. 113 ................................](section/113.md)
+  - [s. 114 Amendments of the Employment Agencies Act 1973.](section/114.md)
+  - [s. 115 Amendments of the Employment and Training Act 1973.](section/115.md)
+  - [s. 116 Amendments of the Health and Safety at work etc. Act 1974.](section/116.md)
+  - [s. 117 ................................](section/117.md)
+  - [s. 118 ................................](section/118.md)
+  - [s. 119 ................................](section/119.md)
+  - [s. 120 ................................](section/120.md)
+  - [s. 121 ................................](section/121.md)
+  - [s. 122 ................................](section/122.md)
+  - [s. 123 ................................](section/123.md)
+  - [s. 124 Financial provisions.](section/124.md)
+  - [s. 125 Minor and consequential amendments, transitional provisions and repeals.](section/125.md)
+  - [s. 126 ................................](section/126.md)
+  - [s. 126A ................................](section/126A.md)
+  - [s. 127 ................................](section/127.md)
+  - [s. 128 ................................](section/128.md)
+  - [s. 129 Short title, commencement and extent.](section/129.md)
+- SCHEDULE 1
+  - Part I Constitution Etc. of Advisory, Conciliation and Arbitration Service and its Council
+    - The Council
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Staff
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Supplemental
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+  - Part II Central Arbitration Committee
+    - Constitution
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Proceedings
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+      - [Sch. 1 para. 20](schedule/1/paragraph/20.md)
+      - [Sch. 1 para. 21](schedule/1/paragraph/21.md)
+    - Awards
+      - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
+      - [Sch. 1 para. 23](schedule/1/paragraph/23.md)
+      - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - Supplemental
+      - [Sch. 1 para. 25](schedule/1/paragraph/25.md)
+      - [Sch. 1 para. 26](schedule/1/paragraph/26.md)
+      - [Sch. 1 para. 27](schedule/1/paragraph/27.md)
+  - Part III Supplementary Provisions
+    - Remuneration and allowances
+      - [Sch. 1 para. 28](schedule/1/paragraph/28.md)
+      - [Sch. 1 para. 29](schedule/1/paragraph/29.md)
+    - Sums payable on retirement
+      - [Sch. 1 para. 30](schedule/1/paragraph/30.md)
+      - [Sch. 1 para. 31](schedule/1/paragraph/31.md)
+      - [Sch. 1 para. 32](schedule/1/paragraph/32.md)
+    - Expenses of hearings before the Certification Officer
+      - [Sch. 1 para. 32A](schedule/1/paragraph/32A.md)
+    - Expenses
+      - [Sch. 1 para. 33](schedule/1/paragraph/33.md)
+    - Accounts
+      - [Sch. 1 para. 34](schedule/1/paragraph/34.md)
+      - [Sch. 1 para. 35](schedule/1/paragraph/35.md)
+- SCHEDULES 2—6
+- SCHEDULES 7—8
+- SCHEDULE 9 Amendments of Agricultural Wages Act 1948
+  - Part I Section 3, AS SUBSTITUTED
+    - [Sch. 9 Pt. I para. 3 Power of Agricultural Wages Board to fix wages, holidays and other terms and conditions.](schedule/9/part/I/paragraph/3.md)
+  - Part II Minor and Consequential Amendments
+    - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+    - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+    - [Sch. 9 Pt. II para. 3](schedule/9/part/II/paragraph/3.md)
+    - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+    - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+    - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+- SCHEDULE 10 Amendments of Agricultural Wages (Scotland) Act 1949
+  - Part 1 Section 3, As Substituted
+    - [Sch. 10 Pt. 1 para. 3 Power of Scottish Agricultural Wages Board to fix rates of wages and holidays.](schedule/10/part/1/paragraph/3.md)
+  - Part II Minor and Consequential Amendments
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+    - [Sch. 10 Pt. II para. 3](schedule/10/part/II/paragraph/3.md)
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+- SCHEDULE 11
+- SCHEDULE 12
+  - Part I General
+    - Introductory
+      - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+    - Institution or continuance of tribunal proceedings
+      - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+      - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+      - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+    - Rights and liabilities accruing after death
+      - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+      - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+    - Death during protected period
+      - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+  - Part II
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+- SCHEDULE 13 Amendments of the Employment Agencies Act 1973
+  - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+- Schedule 14 Amendments of the Employment and Training Act 1973
+  - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+  - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+  - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+- Schedule 15 Amendments of the Health and Safety at Work Etc. Act 1974
+  - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+  - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+  - [Sch. 15 para. 15](schedule/15/paragraph/15.md)
+  - [Sch. 15 para. 16](schedule/15/paragraph/16.md)
+  - [Sch. 15 para. 17](schedule/15/paragraph/17.md)
+  - [Sch. 15 para. 18](schedule/15/paragraph/18.md)
+  - [Sch. 15 para. 19](schedule/15/paragraph/19.md)
+  - [Sch. 15 para. 20](schedule/15/paragraph/20.md)
+  - [Sch. 15 para. 21](schedule/15/paragraph/21.md)
+- SCHEDULE 16 Minor and Consequential Amendments
+  - Parts I, II................................
+  - Part III
+    - [Sch. 16 Pt. III para. 1](schedule/16/part/III/paragraph/1.md)
+    - [Sch. 16 Pt. III para. 2](schedule/16/part/III/paragraph/2.md)
+    - [Sch. 16 Pt. III para. 3](schedule/16/part/III/paragraph/3.md)
+    - [Sch. 16 Pt. III para. 4](schedule/16/part/III/paragraph/4.md)
+    - [Sch. 16 Pt. III para. 5](schedule/16/part/III/paragraph/5.md)
+    - [Sch. 16 Pt. III para. 6](schedule/16/part/III/paragraph/6.md)
+    - [Sch. 16 Pt. III para. 7](schedule/16/part/III/paragraph/7.md)
+    - [Sch. 16 Pt. III para. 8](schedule/16/part/III/paragraph/8.md)
+    - [Sch. 16 Pt. III para. 9](schedule/16/part/III/paragraph/9.md)
+    - [Sch. 16 Pt. III para. 10](schedule/16/part/III/paragraph/10.md)
+    - [Sch. 16 Pt. III para. 12](schedule/16/part/III/paragraph/12.md)
+    - [Sch. 16 Pt. III para. 13](schedule/16/part/III/paragraph/13.md)
+    - [Sch. 16 Pt. III para. 17](schedule/16/part/III/paragraph/17.md)
+    - [Sch. 16 Pt. III para. 18](schedule/16/part/III/paragraph/18.md)
+    - [Sch. 16 para. 31](schedule/16/paragraph/31.md)
+    - [Sch. 16 para. 32](schedule/16/paragraph/32.md)
+    - [Sch. 16 para. 33](schedule/16/paragraph/33.md)
+    - [Sch. 16 para. 34](schedule/16/paragraph/34.md)
+    - [Sch. 16 para. 35](schedule/16/paragraph/35.md)
+  - Part IV Miscellaneous Amendments
+    - [Sch. 16 Pt. IV para. 1](schedule/16/part/IV/paragraph/1.md)
+    - Trade Union Act 1913 (2 & 3 Geo. 5 c. 30)
+      - [Sch. 16 Pt. IV para. 2](schedule/16/part/IV/paragraph/2.md)
+    - Industrial Courts Act 1919 (c. 69)
+      - [Sch. 16 Pt. IV para. 3](schedule/16/part/IV/paragraph/3.md)
+    - Road Haulage Wages Act 1938 (c. 44)
+      - [Sch. 16 Pt. IV para. 4](schedule/16/part/IV/paragraph/4.md)
+      - [Sch. 16 Pt. IV para. 5](schedule/16/part/IV/paragraph/5.md)
+    - Public Records Act 1958(c.51)
+      - [Sch. 16 Pt. IV para. 6](schedule/16/part/IV/paragraph/6.md)
+    - Road Traffic Act 1960 (c. 16)
+      - [Sch. 16 Pt. IV para. 7](schedule/16/part/IV/paragraph/7.md)
+      - [Sch. 16 Pt. IV para. 8](schedule/16/part/IV/paragraph/8.md)
+    - Education (Scotland) Act 1962 (c. 47)
+      - [Sch. 16 Pt. IV para. 9](schedule/16/part/IV/paragraph/9.md)
+    - Trade Union (Amalgamations, etc.) Act 1964 (c. 24)
+      - [Sch. 16 Pt. IV para. 10](schedule/16/part/IV/paragraph/10.md)
+    - Remuneration of Teachers Act 1965 (c. 3)
+      - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+    - Remuneration of Teachers (Scotland) Act 1967 (c. 36)
+      - [Sch. 16 Pt. IV para. 12](schedule/16/part/IV/paragraph/12.md)
+    - Equal Pay Act 1970 (c. 41)
+      - [Sch. 16 Pt. IV para. 13](schedule/16/part/IV/paragraph/13.md)
+      - [Sch. 16 para. 14](schedule/16/paragraph/14.md)
+      - [Sch. 16 para. 15](schedule/16/paragraph/15.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 16 para. 16](schedule/16/paragraph/16.md)
+    - Social Security Pensions Act 1975 (c. 60)
+      - [Sch. 16 Pt. IV para. 17](schedule/16/part/IV/paragraph/17.md)
+    - Sex Discrimination Act 1975 (c. 65)
+      - [Sch. 16 Pt. IV para. 18](schedule/16/part/IV/paragraph/18.md)
+- SCHEDULE 17 Transitional Provisions
+  - [Sch. 17 para. 1](schedule/17/paragraph/1.md)
+  - [Sch. 17 para. 2](schedule/17/paragraph/2.md)
+  - [Sch. 17 para. 3](schedule/17/paragraph/3.md)
+  - [Sch. 17 para. 4](schedule/17/paragraph/4.md)
+  - [Sch. 17 para. 5](schedule/17/paragraph/5.md)
+  - [Sch. 17 para. 6](schedule/17/paragraph/6.md)
+  - [Sch. 17 para. 7](schedule/17/paragraph/7.md)
+  - [Sch. 17 para. 11](schedule/17/paragraph/11.md)
+  - [Sch. 17 para. 12](schedule/17/paragraph/12.md)
+  - [Sch. 17 para. 13](schedule/17/paragraph/13.md)
+  - [Sch. 17 para. 14](schedule/17/paragraph/14.md)
+  - [Sch. 17 para. 15](schedule/17/paragraph/15.md)
+  - [Sch. 17 para. 16](schedule/17/paragraph/16.md)
+  - [Sch. 17 para. 18](schedule/17/paragraph/18.md)
+  - [Sch. 17 para. 19](schedule/17/paragraph/19.md)
+- SCHEDULE 18 Enactments Repealed
