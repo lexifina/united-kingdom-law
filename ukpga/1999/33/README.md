@@ -1,0 +1,818 @@
+# Immigration and Asylum Act 1999
+
+1999 c. 33. Enacted 1999-11-11.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 194 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1999/33
+
+Source: https://www.legislation.gov.uk/ukpga/1999/33/2026-04-07
+
+## Contents
+
+- Part I Immigration: General
+  - Leave to enter, or remain in, the United Kingdom
+    - [s. 1 Leave to enter.](section/1.md)
+    - [s. 2 Leave to remain.](section/2.md)
+    - [s. 3 Continuation of leave pending decision.](section/3.md)
+    - [s. 4 Accommodation](section/4.md)
+    - [s. 5 Charges.](section/5.md)
+  - Exemption from immigration control
+    - [s. 6 Members of missions other than diplomatic agents.](section/6.md)
+    - [s. 7 Persons ceasing to be exempt.](section/7.md)
+    - [s. 8 Persons excluded from the United Kingdom under international obligations.](section/8.md)
+  - Removal from the United Kingdom
+    - [s. 9 Treatment of certain overstayers.](section/9.md)
+    - [s. 10 Removal of persons unlawfully in the United Kingdom](section/10.md)
+    - [s. 10A Removal: general notice requirements](section/10A.md)
+    - [s. 10B Failed removals](section/10B.md)
+    - [s. 10C Removal: notice requirements in port cases](section/10C.md)
+    - [s. 10D Removal: PRN recipients](section/10D.md)
+    - [s. 10E Removal: judicial review](section/10E.md)
+    - [s. 11 Removal of asylum claimant under standing arrangement with member States](section/11.md)
+    - [s. 12 Removal of asylum claimants in other circumstances.](section/12.md)
+    - [s. 13 Proof of identity of persons to be removed or deported.](section/13.md)
+    - [s. 14 Escorts for persons removed from the United Kingdom under directions.](section/14.md)
+    - [s. 15 Protection of claimants from removal or deportation.](section/15.md)
+  - Provision of financial security
+    - [s. 16 Security on grant of entry clearance.](section/16.md)
+    - [s. 17 Provision of further security on extension of leave.](section/17.md)
+  - Information
+    - [s. 18 Passenger information.](section/18.md)
+    - [s. 19 Notification of non-EEA arrivals.](section/19.md)
+    - [s. 20 Power to supply information etc to Secretary of State](section/20.md)
+    - [s. 20A Duty to supply nationality documents to Secretary of State](section/20A.md)
+    - [s. 21 Supply of information by Secretary of State.](section/21.md)
+  - Employment: code of practice
+    - [s. 22 Restrictions on employment: code of practice.](section/22.md)
+  - Monitoring entry clearance
+    - [s. 23 Monitoring refusals of entry clearance.](section/23.md)
+  - Reporting suspicious marriages
+    - [s. 24 Duty to report suspicious marriages.](section/24.md)
+    - [s. 24A Duty to report suspicious civil partnerships](section/24A.md)
+  - Immigration control: facilities and charges
+    - [s. 25 Provision of facilities for immigration control at ports.](section/25.md)
+    - [s. 26 Charges: immigration control.](section/26.md)
+  - Charges: travel documents
+    - [s. 27 Charges: travel documents.](section/27.md)
+  - Offences
+    - [s. 28 Deception.](section/28.md)
+    - [s. 29 Facilitation of entry.](section/29.md)
+    - [s. 30 False statements etc.](section/30.md)
+    - [s. 31 Defences based on Article 31(1) of the Refugee Convention.](section/31.md)
+- Part II Carriers’ Liability
+  - Penalties for failure to secure goods vehicle and for carrying clandestine entrants
+    - [s. 31A Penalty for failure to secure goods vehicle etc](section/31A.md)
+    - [s. 32 Penalty for carrying clandestine entrants.](section/32.md)
+    - [s. 32A Level of penalty: code of practice](section/32A.md)
+    - [s. 33 Prevention of clandestine entrants: code of practice](section/33.md)
+    - [s. 34 Defences to claim that penalty is due under section 32.](section/34.md)
+    - [s. 35 Procedure.](section/35.md)
+    - [s. 35A Appeal](section/35A.md)
+    - [s. 36 Power to detain vehicles etc. in connection with penalties under section 31A or 32.](section/36.md)
+    - [s. 36A Detention in default of payment](section/36A.md)
+    - [s. 37 Effect of detention.](section/37.md)
+    - [s. 38 Assisting illegal entry and harbouring.](section/38.md)
+    - [s. 39 Rail freight.](section/39.md)
+  - Individuals without proper documents or authorisation
+    - [s. 40 Charge in respect of individual without proper documents or authorisation](section/40.md)
+    - [s. 40A Notification and objection](section/40A.md)
+    - [s. 40B Appeal](section/40B.md)
+    - [s. 41 Visas for transit passengers.](section/41.md)
+    - [s. 42 Power to detain vehicles etc. in connection with charges under section 40.](section/42.md)
+  - Interpretation
+    - [s. 43 Interpretation of Part II.](section/43.md)
+- Part III Bail
+  - Routine bail hearings
+    - [s. 44 Bail hearings for detained persons.](section/44.md)
+    - [s. 45 Location of bail hearings.](section/45.md)
+    - [s. 46 General right to be released on bail.](section/46.md)
+    - [s. 47 Powers exercisable on granting bail.](section/47.md)
+    - [s. 48 Forfeiture.](section/48.md)
+    - [s. 49 Forfeiture of securities.](section/49.md)
+    - [s. 50 Power of arrest.](section/50.md)
+  - Procedure
+    - [s. 51 Procedure.](section/51.md)
+    - [s. 52 Use of live television links at bail hearings.](section/52.md)
+  - Bail hearings under other enactments
+    - [s. 53 Applications for bail in immigration cases.](section/53.md)
+    - [s. 54 Extension of right to apply for bail in deportation cases.](section/54.md)
+  - Grants
+    - [s. 55 Grants to voluntary organisations.](section/55.md)
+- Part IV Appeals
+  - The appellate authorities
+    - [s. 56 The Immigration Appeal Tribunal.](section/56.md)
+    - [s. 57 Adjudicators.](section/57.md)
+  - Appeals
+    - [s. 58 General.](section/58.md)
+  - Leave to enter
+    - [s. 59 Leave to enter the United Kingdom.](section/59.md)
+    - [s. 60 Limitations on rights of appeal under section 59.](section/60.md)
+  - Variation of limited leave to enter or remain
+    - [s. 61 Variation of limited leave to enter or remain.](section/61.md)
+    - [s. 62 Limitations on rights of appeal under section 61.](section/62.md)
+  - Deportation
+    - [s. 63 Deportation orders.](section/63.md)
+    - [s. 64 Limitations on rights of appeal under section 63.](section/64.md)
+  - Human rights
+    - [s. 65 Racial discrimination and breach of human rights.](section/65.md)
+  - Directions for removal
+    - [s. 66 Validity of directions for removal.](section/66.md)
+  - Objection to destination
+    - [s. 67 Removal on objection to destination.](section/67.md)
+    - [s. 68 Limitations on rights of appeal under section 67.](section/68.md)
+  - Asylum
+    - [s. 69 Claims for asylum.](section/69.md)
+    - [s. 70 Limitations on rights of appeal under section 69.](section/70.md)
+  - Removal to safe countries
+    - [s. 71 Removal of asylum claimants to safe third countries.](section/71.md)
+  - Miscellaneous
+    - [s. 72 Miscellaneous limitations on rights of appeal.](section/72.md)
+    - [s. 73 Limitation on further appeals.](section/73.md)
+  - “One-stop procedure”
+    - [s. 74 Duty to disclose grounds for appeal etc.](section/74.md)
+    - [s. 75 Duty to disclose grounds for entering etc. the United Kingdom.](section/75.md)
+    - [s. 76 Result of failure to comply with section 74.](section/76.md)
+    - [s. 77 “One-stop” appeals.](section/77.md)
+    - [s. 78 Transfer of appellate proceedings.](section/78.md)
+  - Appeals without merit
+    - [s. 79 Penalty on continuing an appeal without merit.](section/79.md)
+  - European Economic AreaEEA nationals
+    - [s. 80 EEA nationals.](section/80.md)
+  - Grants
+    - [s. 81 Grants to voluntary organisations.](section/81.md)
+- Part V Immigration Advisers and Immigration Service Providers
+  - Interpretation
+    - [s. 82 Interpretation of Part V.](section/82.md)
+  - The Immigration Services Commissioner
+    - [s. 83 The Commissioner.](section/83.md)
+  - The general prohibition
+    - [s. 84 Provision of immigration services.](section/84.md)
+    - [s. 84A Limitations on acting under supervision: sanctions under this Part](section/84A.md)
+    - [s. 84B Limitations on acting under supervision: other sanctions](section/84B.md)
+    - [s. 85 Registration and exemption by the Commissioner.](section/85.md)
+    - [s. 86 Designated professional bodies.](section/86.md)
+    - [s. 86A Designated qualifying regulators](section/86A.md)
+  - Appeals to the First-tier Tribunal
+    - [s. 87 Appeals to the First-tier Tribunal.](section/87.md)
+    - [s. 88 Appeal upheld by the First-tier Tribunal.](section/88.md)
+    - [s. 89 Disciplinary charge upheld by the First-tier Tribunal.](section/89.md)
+    - [s. 90 Orders by disciplinary bodies.](section/90.md)
+  - Enforcement
+    - [s. 91 Offences.](section/91.md)
+    - [s. 92 Enforcement.](section/92.md)
+    - [s. 92A Investigation of offence: power of entry](section/92A.md)
+    - [s. 92B Advertising](section/92B.md)
+    - [s. 92C Power to impose monetary penalties](section/92C.md)
+    - [s. 92D Procedure for imposing penalties](section/92D.md)
+    - [s. 92E Appeals against penalties](section/92E.md)
+    - [s. 92F Enforcement of penalty notices](section/92F.md)
+    - [s. 92G Guidance about penalties](section/92G.md)
+    - [s. 92H Penalties imposed in relation to commission of offence: convictions](section/92H.md)
+  - Miscellaneous
+    - [s. 93 Information.](section/93.md)
+    - [s. 93A Fees](section/93A.md)
+- Part VI Support for Asylum-Seekers
+  - Interpretation
+    - [s. 94 Interpretation of Part VI.](section/94.md)
+  - Provision of support
+    - [s. 95 Persons for whom support may be provided.](section/95.md)
+    - [s. 96 Ways in which support may be provided.](section/96.md)
+    - [s. 97 Supplemental.](section/97.md)
+    - [s. 98 Temporary support.](section/98.md)
+  - Support and assistance by local authorities etc.
+    - [s. 99 Provision of support by local authorities.](section/99.md)
+    - [s. 100 Local authority and other assistance for Secretary of State.](section/100.md)
+    - [s. 101 Reception zones.](section/101.md)
+  - Appeals
+    - [s. 102 Asylum Support Adjudicators.](section/102.md)
+    - [s. 103 Appeals.](section/103.md)
+    - [s. 104 Lord Chancellor’s rules.](section/104.md)
+  - Offences
+    - [s. 105 False representations.](section/105.md)
+    - [s. 106 Dishonest representations.](section/106.md)
+    - [s. 107 Delay or obstruction.](section/107.md)
+    - [s. 108 Failure of sponsor to maintain.](section/108.md)
+    - [s. 109 Supplemental.](section/109.md)
+    - [s. 109A Arrest](section/109A.md)
+    - [s. 109B >Entry, search and seizure](section/109B.md)
+  - Expenditure
+    - [s. 110 Payments to local authorities.](section/110.md)
+    - [s. 111 Grants to voluntary organisations.](section/111.md)
+    - [s. 112 Recovery of expenditure on support: misrepresentation etc.](section/112.md)
+    - [s. 113 Recovery of expenditure on support from sponsor.](section/113.md)
+    - [s. 114 Overpayments.](section/114.md)
+  - Exclusions
+    - [s. 115 Exclusion from benefits.](section/115.md)
+    - [s. 116 Amendment of section 21 of the National Assistance Act 1948.](section/116.md)
+    - [s. 117 Other restrictions on assistance: England and Wales.](section/117.md)
+    - [s. 118 Housing authority accommodation.](section/118.md)
+    - [s. 119 Homelessness: Scotland and Northern Ireland.](section/119.md)
+    - [s. 120 Other restrictions on assistance: Scotland.](section/120.md)
+    - [s. 121 Other restrictions on assistance: Northern Ireland.](section/121.md)
+    - [s. 122 Support for children.](section/122.md)
+    - [s. 123 Back-dating of benefits where person recorded as refugee.](section/123.md)
+  - Miscellaneous
+    - [s. 124 Secretary of State to be corporation sole for purposes of Part VI.](section/124.md)
+    - [s. 125 Entry of premises.](section/125.md)
+    - [s. 126 Information from property owners.](section/126.md)
+    - [s. 127 Requirement to supply information about redirection of post.](section/127.md)
+- Part VII Power To Arrest, Search and Fingerprint
+  - Power to arrest
+    - [s. 128 Arrest without warrant.](section/128.md)
+  - Power to search and arrest
+    - [s. 129 Search and arrest by warrant.](section/129.md)
+    - [s. 130 Search and arrest without warrant.](section/130.md)
+  - Power to enter and search premises
+    - [s. 131 Entry and search of premises.](section/131.md)
+    - [s. 132 Entry and search of premises following arrest.](section/132.md)
+    - [s. 133 Entry and search of premises following arrest under section 25(1) of the 1971 Act.](section/133.md)
+  - Power to search persons
+    - [s. 134 Searching arrested persons.](section/134.md)
+    - [s. 135 Searching persons in police custody.](section/135.md)
+  - Seized material: access and copying
+    - [s. 136 Access and copying.](section/136.md)
+  - Search warrants
+    - [s. 137 Search warrants: safeguards.](section/137.md)
+    - [s. 138 Execution of warrants.](section/138.md)
+    - [s. 139 Interpretation.](section/139.md)
+  - Detention
+    - [s. 140 Detention of persons liable to examination or removal.](section/140.md)
+  - Fingerprinting
+    - [s. 141 Fingerprinting.](section/141.md)
+    - [s. 142 Attendance for fingerprinting.](section/142.md)
+    - [s. 143 Destruction of fingerprints.](section/143.md)
+    - [s. 144 Other methods of collecting data about physical characteristics.](section/144.md)
+    - [s. 144A Use and retention of fingerprints etc.](section/144A.md)
+  - Codes of practice
+    - [s. 145 Codes of practice.](section/145.md)
+  - Use of force
+    - [s. 146 Use of force.](section/146.md)
+- Part VIII Detention Centres and Detained Persons
+  - Interpretation
+    - [s. 147 Interpretation of Part VIII.](section/147.md)
+  - Detention centres
+    - [s. 148 Management of removal centres.](section/148.md)
+    - [s. 149 Contracting out of certain removal centres.](section/149.md)
+    - [s. 150 Contracted out functions at directly managed removal centres.](section/150.md)
+    - [s. 151 Intervention by Secretary of State.](section/151.md)
+    - [s. 152 Visiting Committees and inspections.](section/152.md)
+    - [s. 153 Removal centre rules.](section/153.md)
+    - [s. 153A Detained persons: national minimum wage](section/153A.md)
+  - Custody and movement of detained persons
+    - [s. 154 Detainee custody officers.](section/154.md)
+    - [s. 155 Custodial functions and discipline etc. at removal centres.](section/155.md)
+    - [s. 156 Arrangements for the provision of escorts and custody.](section/156.md)
+    - [s. 157 Short-term holding facilities.](section/157.md)
+    - [s. 157A Pre-departure accommodation](section/157A.md)
+  - Miscellaneous
+    - [s. 158 Wrongful disclosure of information.](section/158.md)
+    - [s. 159 Power of constable to act outside his jurisdiction.](section/159.md)
+- Part IX Registrar’s Certificates: Procedure
+  - [s. 160 Abolition of certificate by licence.](section/160.md)
+  - [s. 161 Notice of marriage.](section/161.md)
+  - [s. 162 Power to require evidence.](section/162.md)
+  - [s. 163 Refusal to issue certificate.](section/163.md)
+- Part X Miscellaneous and Supplemental
+  - [s. 164 Institution of proceedings.](section/164.md)
+  - [s. 165 Procedural requirements as to applications.](section/165.md)
+  - [s. 166 Regulations and orders.](section/166.md)
+  - [s. 167 Interpretation.](section/167.md)
+  - [s. 168 Expenditure and receipts.](section/168.md)
+  - [s. 169 Minor and consequential amendments, transitional provisions and repeals.](section/169.md)
+  - [s. 170 Short title, commencement and extent.](section/170.md)
+- SCHEDULE A1 Persons to whom section 20A applies
+  - Law enforcement
+    - [Sch. A1 para. 1](schedule/A1/paragraph/1.md)
+    - [Sch. A1 para. 2](schedule/A1/paragraph/2.md)
+    - [Sch. A1 para. 3](schedule/A1/paragraph/3.md)
+    - [Sch. A1 para. 4](schedule/A1/paragraph/4.md)
+    - [Sch. A1 para. 5](schedule/A1/paragraph/5.md)
+    - [Sch. A1 para. 6](schedule/A1/paragraph/6.md)
+    - [Sch. A1 para. 7](schedule/A1/paragraph/7.md)
+    - [Sch. A1 para. 8](schedule/A1/paragraph/8.md)
+  - Local government
+    - [Sch. A1 para. 9](schedule/A1/paragraph/9.md)
+    - [Sch. A1 para. 10](schedule/A1/paragraph/10.md)
+    - [Sch. A1 para. 11](schedule/A1/paragraph/11.md)
+    - [Sch. A1 para. 12](schedule/A1/paragraph/12.md)
+    - [Sch. A1 para. 13](schedule/A1/paragraph/13.md)
+    - [Sch. A1 para. 14](schedule/A1/paragraph/14.md)
+    - [Sch. A1 para. 15](schedule/A1/paragraph/15.md)
+    - [Sch. A1 para. 16](schedule/A1/paragraph/16.md)
+  - Regulatory bodies
+    - [Sch. A1 para. 17](schedule/A1/paragraph/17.md)
+    - [Sch. A1 para. 18](schedule/A1/paragraph/18.md)
+  - Health bodies
+    - [Sch. A1 para. 19](schedule/A1/paragraph/19.md)
+    - [Sch. A1 para. 20](schedule/A1/paragraph/20.md)
+    - [Sch. A1 para. 21](schedule/A1/paragraph/21.md)
+    - [Sch. A1 para. 22](schedule/A1/paragraph/22.md)
+    - [Sch. A1 para. 23](schedule/A1/paragraph/23.md)
+  - Education bodies
+    - [Sch. A1 para. 24](schedule/A1/paragraph/24.md)
+    - [Sch. A1 para. 25](schedule/A1/paragraph/25.md)
+    - [Sch. A1 para. 26](schedule/A1/paragraph/26.md)
+    - [Sch. A1 para. 27](schedule/A1/paragraph/27.md)
+    - [Sch. A1 para. 28](schedule/A1/paragraph/28.md)
+    - [Sch. A1 para. 29](schedule/A1/paragraph/29.md)
+    - [Sch. A1 para. 30](schedule/A1/paragraph/30.md)
+    - [Sch. A1 para. 31](schedule/A1/paragraph/31.md)
+  - Registration officials
+    - [Sch. A1 para. 32](schedule/A1/paragraph/32.md)
+    - [Sch. A1 para. 33](schedule/A1/paragraph/33.md)
+    - [Sch. A1 para. 34](schedule/A1/paragraph/34.md)
+    - [Sch. A1 para. 35](schedule/A1/paragraph/35.md)
+    - [Sch. A1 para. 36](schedule/A1/paragraph/36.md)
+    - [Sch. A1 para. 37](schedule/A1/paragraph/37.md)
+    - [Sch. A1 para. 38](schedule/A1/paragraph/38.md)
+    - [Sch. A1 para. 39](schedule/A1/paragraph/39.md)
+    - [Sch. A1 para. 40](schedule/A1/paragraph/40.md)
+    - [Sch. A1 para. 41](schedule/A1/paragraph/41.md)
+    - [Sch. A1 para. 42](schedule/A1/paragraph/42.md)
+  - Other bodies: Northern Ireland
+    - [Sch. A1 para. 43](schedule/A1/paragraph/43.md)
+- SCHEDULE 1 Sale of Transporters
+  - Leave of court required
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Notice of proposed sale
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - [Sch. 1 para. 2A](schedule/1/paragraph/2A.md)
+  - Duty to obtain best price
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Effect of failure to comply with paragraph 2 or 3
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Application of proceeds of sale
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+- SCHEDULE 2 The Immigration Appeal Tribunal
+  - Members
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - President and Deputy President
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Term of office
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+  - Remuneration
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+  - Compensation
+    - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Proceedings
+    - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+  - Staff
+    - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+- SCHEDULE 3 Adjudicators
+  - Deputy Chief Adjudicator and Regional Adjudicators
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+  - Qualification for appointment
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Term of office
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+  - Remuneration
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+  - Compensation
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Proceedings
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Staff
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Appeals
+  - Part I Procedure
+    - Notice of appealable matters
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - Service of notices
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - Lord Chancellor’s rules of procedure
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - Practice directions
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - Hearings in private
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - Leave to appeal
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - Offences
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - Convention cases
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - Racial discrimination
+      - [Sch. 4 para. 9A](schedule/4/paragraph/9A.md)
+  - Part II Effect of Appeals
+    - Stay on directions for removal
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - Suspension of variation of limited leave
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - Continuation of leave
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - Deportation orders
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - Appeals under section 65
+      - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+  - Part III Determination of Appeals
+    - Determination of appeals
+      - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - Appeals to Immigration Appeal Tribunal
+      - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - Appeals from Immigration Appeal Tribunal
+      - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - Appeals which must be dismissed
+      - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+- SCHEDULE 5 The Immigration Services Commissioner
+  - Part I Regulatory Functions
+    - The Commissioner’s rules
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - Code of Standards
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - Extension of scope of the Code
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - Inspections
+      - [Sch. 5 para. 4A](schedule/5/paragraph/4A.md)
+    - Investigation of complaints
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - ...
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Determination of complaints
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Complaints referred to designated professional bodies
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Power of entry and inspection
+      - [Sch. 5 para. 10A](schedule/5/paragraph/10A.md)
+  - Part II Commissioner’s Status, Remuneration and Staff etc
+    - Status
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Period of office
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Terms and conditions of appointment
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Remuneration, expenses and pensions
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+    - Compensation
+      - [Sch. 5 para. 15](schedule/5/paragraph/15.md)
+    - Deputy Commissioner
+      - [Sch. 5 para. 16](schedule/5/paragraph/16.md)
+    - Staff
+      - [Sch. 5 para. 17](schedule/5/paragraph/17.md)
+    - Acting as Commissioner in event of vacancy etc
+      - [Sch. 5 para. 17A](schedule/5/paragraph/17A.md)
+    - Expenditure
+      - [Sch. 5 para. 18](schedule/5/paragraph/18.md)
+    - Receipts
+      - [Sch. 5 para. 19](schedule/5/paragraph/19.md)
+    - Accounts and records
+      - [Sch. 5 para. 20](schedule/5/paragraph/20.md)
+    - Annual report
+      - [Sch. 5 para. 21](schedule/5/paragraph/21.md)
+    - Proof of instruments
+      - [Sch. 5 para. 22](schedule/5/paragraph/22.md)
+    - Disqualification for House of Commons
+      - [Sch. 5 para. 23](schedule/5/paragraph/23.md)
+    - Disqualification for Northern Ireland Assembly
+      - [Sch. 5 para. 24](schedule/5/paragraph/24.md)
+    - The Parliamentary Commissioner Act 1967 (c.13)
+      - [Sch. 5 para. 25](schedule/5/paragraph/25.md)
+- SCHEDULE 6 Registration
+  - Applications for registration
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - Registration
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - Review of qualifications
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - Variation of registration
+    - [Sch. 6 para. 3A](schedule/6/paragraph/3A.md)
+  - Disqualification of certain persons
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - Further provision for the cancellation of registration
+    - [Sch. 6 para. 4A](schedule/6/paragraph/4A.md)
+  - Suspension of registration
+    - [Sch. 6 para. 4B](schedule/6/paragraph/4B.md)
+  - Fees
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+  - Open registers
+    - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+- SCHEDULE 7 The Immigration Services Tribunal
+  - Members
+    - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - The President
+    - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - Terms and conditions of appointment
+    - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - Remuneration and expenses
+    - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - Proceedings
+    - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+    - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - Rules of procedure
+    - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - Suspending the effect of a relevant decision
+    - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - Staff
+    - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+  - Expenditure
+    - [Sch. 7 para. 10](schedule/7/paragraph/10.md)
+  - Meaning of “legally qualified”
+    - [Sch. 7 para. 11](schedule/7/paragraph/11.md)
+  - Disqualification for House of Commons
+    - [Sch. 7 para. 12](schedule/7/paragraph/12.md)
+  - Disqualification for Northern Ireland Assembly
+    - [Sch. 7 para. 13](schedule/7/paragraph/13.md)
+- SCHEDULE 8 Provision of Support: Regulations
+  - General regulation-making power
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Determining whether a person is destitute
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Prescribed levels of support
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Provision of items and services
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Support and assets to be taken into account
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Valuation of assets
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Breach of conditions
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Suspension or discontinuation of support
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+  - Notice to quit
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Contributions to support
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Recovery of sums by Secretary of State
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Procedure
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+- SCHEDULE 9 Asylum Support: Interim Provisions
+  - [Sch. 9 para. 1](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 6A](schedule/9/paragraph/6A.md)
+  - [Sch. 9 para. 7](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10](schedule/9/paragraph/10.md)
+  - [Sch. 9 para. 11](schedule/9/paragraph/11.md)
+  - [Sch. 9 para. 12](schedule/9/paragraph/12.md)
+  - [Sch. 9 para. 13](schedule/9/paragraph/13.md)
+  - [Sch. 9 para. 14](schedule/9/paragraph/14.md)
+  - [Sch. 9 para. 15](schedule/9/paragraph/15.md)
+- SCHEDULE 10 Asylum Support Adjudicators
+  - Adjudicators
+    - [Sch. 10 para. 1](schedule/10/paragraph/1.md)
+  - Terms and conditions of appointment
+    - [Sch. 10 para. 2](schedule/10/paragraph/2.md)
+  - Remuneration, expenses and pensions
+    - [Sch. 10 para. 3](schedule/10/paragraph/3.md)
+  - Compensation
+    - [Sch. 10 para. 4](schedule/10/paragraph/4.md)
+  - Staff
+    - [Sch. 10 para. 5](schedule/10/paragraph/5.md)
+  - Expenditure
+    - [Sch. 10 para. 6](schedule/10/paragraph/6.md)
+  - Proceedings
+    - [Sch. 10 para. 7](schedule/10/paragraph/7.md)
+- SCHEDULE 11 Detainee Custody Officers
+  - Obtaining certificates of authorisation by false pretences
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Powers and duties of detainee custody officers
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Short-term holding facilities and pre-departure accommodation
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+  - Assaulting a detainee custody officer
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+  - Obstructing detainee custody officers
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+  - Uniforms and badges
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+  - Suspension and revocation of certificates of authorisation
+    - [Sch. 11 para. 7](schedule/11/paragraph/7.md)
+  - Prison officers and prisoner custody officers
+    - [Sch. 11 para. 8](schedule/11/paragraph/8.md)
+    - [Sch. 11 para. 9](schedule/11/paragraph/9.md)
+- SCHEDULE 12 Discipline etc at Removal Centres
+  - Measuring and photographing detained persons
+    - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - Testing for drugs or alcohol
+    - [Sch. 12 para. 2](schedule/12/paragraph/2.md)
+  - Medical examinations
+    - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - Assisting detained persons to escape
+    - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - Alcohol
+    - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+  - Introduction of other articles
+    - [Sch. 12 para. 6](schedule/12/paragraph/6.md)
+  - Notice of penalties
+    - [Sch. 12 para. 7](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8](schedule/12/paragraph/8.md)
+  - Prison officers and prisoner custody officers
+    - [Sch. 12 para. 9](schedule/12/paragraph/9.md)
+- SCHEDULE 13 Escort Arrangements
+  - Monitoring of escort arrangements
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Powers and duties of detainee custody officers
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Breaches of discipline
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+- SCHEDULE 14 Consequential Amendments
+  - The Marriages (Ireland) Act 1844 (c.81)
+    - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+  - The Marriage Law (Ireland) Amendment Act 1863 (c.27)
+    - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+  - The Marriage Act 1949 (c.76)
+    - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+    - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+    - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+    - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+    - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+    - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+    - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+    - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+    - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+    - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+    - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+    - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+  - The Prison Act 1952 (c.52)
+    - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+  - The Firearms Act 1968 (c. 27)
+    - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+  - The Family Law Reform Act 1969 (c.46)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+  - The Marriage (Registrar General’s Licence) Act 1970 (c.34)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+  - The Immigration Act 1971 (c.77)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+    - [Sch. 14 para. 61](schedule/14/paragraph/61.md)
+    - [Sch. 14 para. 62](schedule/14/paragraph/62.md)
+    - [Sch. 14 para. 63](schedule/14/paragraph/63.md)
+    - [Sch. 14 para. 64](schedule/14/paragraph/64.md)
+    - [Sch. 14 para. 65](schedule/14/paragraph/65.md)
+    - [Sch. 14 para. 66](schedule/14/paragraph/66.md)
+    - [Sch. 14 para. 67](schedule/14/paragraph/67.md)
+    - [Sch. 14 para. 68](schedule/14/paragraph/68.md)
+    - [Sch. 14 para. 69](schedule/14/paragraph/69.md)
+    - [Sch. 14 para. 70](schedule/14/paragraph/70.md)
+  - The House of Commons Disqualification Act 1975 (c. 24)
+    - [Sch. 14 para. 71](schedule/14/paragraph/71.md)
+  - The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+    - [Sch. 14 para. 72](schedule/14/paragraph/72.md)
+  - The Protection from Eviction Act 1977 (c.43)
+    - [Sch. 14 para. 73](schedule/14/paragraph/73.md)
+  - The Education (Scotland) Act 1980 (c. 44)
+    - [Sch. 14 para. 74](schedule/14/paragraph/74.md)
+  - The Firearms (Northern Ireland) Order 1981 (S.I. 1981/155 (N.I. 2))
+    - [Sch. 14 para. 75](schedule/14/paragraph/75.md)
+  - The Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26))
+    - [Sch. 14 para. 76](schedule/14/paragraph/76.md)
+  - The Marriage Act 1983 (c.32)
+    - [Sch. 14 para. 77](schedule/14/paragraph/77.md)
+  - The Housing (Northern Ireland) Order 1983 (S.I. 1983/1118 (N.I. 15))
+    - [Sch. 14 para. 78](schedule/14/paragraph/78.md)
+  - The Rent (Scotland) Act 1984 (c.58)
+    - [Sch. 14 para. 79](schedule/14/paragraph/79.md)
+  - The Police and Criminal Evidence Act 1984 (c.60)
+    - [Sch. 14 para. 80](schedule/14/paragraph/80.md)
+  - The Housing Act 1985 (c.68)
+    - [Sch. 14 para. 81](schedule/14/paragraph/81.md)
+  - The Housing (Scotland) Act 1987 (c.26)
+    - [Sch. 14 para. 82](schedule/14/paragraph/82.md)
+  - The Immigration Act 1988 (c.14)
+    - [Sch. 14 para. 83](schedule/14/paragraph/83.md)
+    - [Sch. 14 para. 84](schedule/14/paragraph/84.md)
+    - [Sch. 14 para. 85](schedule/14/paragraph/85.md)
+    - [Sch. 14 para. 86](schedule/14/paragraph/86.md)
+  - The Housing (Scotland) Act 1988 (c.43)
+    - [Sch. 14 para. 87](schedule/14/paragraph/87.md)
+  - The Housing Act 1988 (c.50)
+    - [Sch. 14 para. 88](schedule/14/paragraph/88.md)
+  - The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
+    - [Sch. 14 para. 89](schedule/14/paragraph/89.md)
+  - The Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12))
+    - [Sch. 14 para. 90](schedule/14/paragraph/90.md)
+  - The Courts and Legal Services Act 1990 (c.41)
+    - [Sch. 14 para. 91](schedule/14/paragraph/91.md)
+  - The Social Security Contributions and Benefits Act 1992 (c.4)
+    - [Sch. 14 para. 92](schedule/14/paragraph/92.md)
+  - The Social Security Contributions and Benefits (Northern Ireland) Act 1992 (c.7)
+    - [Sch. 14 para. 93](schedule/14/paragraph/93.md)
+  - The Tribunals and Inquiries Act 1992 (c.53)
+    - [Sch. 14 para. 94](schedule/14/paragraph/94.md)
+    - [Sch. 14 para. 95](schedule/14/paragraph/95.md)
+    - [Sch. 14 para. 96](schedule/14/paragraph/96.md)
+    - [Sch. 14 para. 97](schedule/14/paragraph/97.md)
+  - The Judicial Pensions and Retirement Act 1993 (c.8)
+    - [Sch. 14 para. 98](schedule/14/paragraph/98.md)
+  - The Asylum and Immigration Appeals Act 1993 (c.23)
+    - [Sch. 14 para. 99](schedule/14/paragraph/99.md)
+    - [Sch. 14 para. 100](schedule/14/paragraph/100.md)
+    - [Sch. 14 para. 101](schedule/14/paragraph/101.md)
+    - [Sch. 14 para. 102](schedule/14/paragraph/102.md)
+    - [Sch. 14 para. 103](schedule/14/paragraph/103.md)
+    - [Sch. 14 para. 104](schedule/14/paragraph/104.md)
+    - [Sch. 14 para. 105](schedule/14/paragraph/105.md)
+    - [Sch. 14 para. 106](schedule/14/paragraph/106.md)
+    - [Sch. 14 para. 107](schedule/14/paragraph/107.md)
+  - The Asylum and Immigration Act 1996 (c.49)
+    - [Sch. 14 para. 108](schedule/14/paragraph/108.md)
+    - [Sch. 14 para. 109](schedule/14/paragraph/109.md)
+    - [Sch. 14 para. 110](schedule/14/paragraph/110.md)
+    - [Sch. 14 para. 111](schedule/14/paragraph/111.md)
+    - [Sch. 14 para. 112](schedule/14/paragraph/112.md)
+    - [Sch. 14 para. 113](schedule/14/paragraph/113.md)
+    - [Sch. 14 para. 114](schedule/14/paragraph/114.md)
+    - [Sch. 14 para. 115](schedule/14/paragraph/115.md)
+  - The Housing Act 1996 (c.52)
+    - [Sch. 14 para. 116](schedule/14/paragraph/116.md)
+  - The Education Act 1996 (c. 56)
+    - [Sch. 14 para. 117](schedule/14/paragraph/117.md)
+  - The Special Immigration Appeals Commission Act 1997 (c.68)
+    - [Sch. 14 para. 118](schedule/14/paragraph/118.md)
+    - [Sch. 14 para. 119](schedule/14/paragraph/119.md)
+    - [Sch. 14 para. 120](schedule/14/paragraph/120.md)
+    - [Sch. 14 para. 121](schedule/14/paragraph/121.md)
+    - [Sch. 14 para. 122](schedule/14/paragraph/122.md)
+    - [Sch. 14 para. 123](schedule/14/paragraph/123.md)
+    - [Sch. 14 para. 124](schedule/14/paragraph/124.md)
+    - [Sch. 14 para. 125](schedule/14/paragraph/125.md)
+    - [Sch. 14 para. 126](schedule/14/paragraph/126.md)
+    - [Sch. 14 para. 127](schedule/14/paragraph/127.md)
+    - [Sch. 14 para. 128](schedule/14/paragraph/128.md)
+    - [Sch. 14 para. 129](schedule/14/paragraph/129.md)
+- SCHEDULE 15 Transitional Provisions and Savings
+  - Leave to enter or remain
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Section 2 of the Asylum and Immigration Act 1996
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+  - Adjudicators and the Tribunal
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+  - References to justices’ chief executive
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+  - Duties under National Assistance Act 1948
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+  - Duties under Health Services and Public Health Act 1968
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Duties under Social Work (Scotland) Act 1968
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+  - Duties under Health and Personal Social Services (Northern Ireland) Order 1972
+    - [Sch. 15 para. 8](schedule/15/paragraph/8.md)
+  - Duties under National Health Service Act 1977
+    - [Sch. 15 para. 9](schedule/15/paragraph/9.md)
+  - Duties under Mental Health (Scotland) Act 1984
+    - [Sch. 15 para. 10](schedule/15/paragraph/10.md)
+  - Appeals relating to deportation orders
+    - [Sch. 15 para. 11](schedule/15/paragraph/11.md)
+    - [Sch. 15 para. 12](schedule/15/paragraph/12.md)
+  - Assistance under Part VII of the Housing Act 1996
+    - [Sch. 15 para. 13](schedule/15/paragraph/13.md)
+  - Provision of support
+    - [Sch. 15 para. 14](schedule/15/paragraph/14.md)
+- SCHEDULE 16 Repeals
