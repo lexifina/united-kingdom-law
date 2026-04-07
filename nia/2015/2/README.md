@@ -1,0 +1,169 @@
+# Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015
+
+nia/2015/2. Enacted 2015-01-13.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/nia/2015/2
+
+Source: https://www.legislation.gov.uk/nia/2015/2/2026-04-07
+
+## Contents
+
+- PART 1 SLAVERY AND HUMAN TRAFFICKING OFFENCES
+  - The offences
+    - [s. 1 Slavery, servitude and forced or compulsory labour](section/1.md)
+    - [s. 2 Human trafficking](section/2.md)
+    - [s. 3 Meaning of exploitation for purposes of section 2](section/3.md)
+    - [s. 4 Committing offence with intent to commit offence under section 1 or 2](section/4.md)
+  - Sentencing for offences under section 1 or 2
+    - [s. 5 Offences to be serious offences for purposes of sentencing](section/5.md)
+    - [s. 6 Aggravating factors](section/6.md)
+    - [s. 7 Minimum sentence for offence under section 1 or 2](section/7.md)
+  - Orders that may be made on conviction of offence under section 1 or 2
+    - [s. 8 Confiscation of assets](section/8.md)
+    - [s. 9 Detention and forfeiture of certain vehicles, ships and aircraft](section/9.md)
+    - [s. 10 Slavery and trafficking reparation orders](section/10.md)
+  - Prevention, enforcement, etc.
+    - [s. 11 Slavery and trafficking prevention orders](section/11.md)
+    - [s. 12 Strategy on offences under sections 1 and 2](section/12.md)
+    - [s. 13 Duty to notify National Crime Agency about suspected victims of offences under section 1 or 2](section/13.md)
+    - [s. 14 Investigation and prosecution of offences under section 1 or 2](section/14.md)
+- PART 2 OTHER EXPLOITATION OFFENCES
+  - Paying for sexual services of a person
+    - [s. 15 Paying for sexual services of a person](section/15.md)
+  - Offence of forced marriage
+    - [s. 16 Offence of forced marriage](section/16.md)
+- PART 3 ASSISTANCE AND SUPPORT
+  - [s. 17 Interpretation of this Part](section/17.md)
+  - [s. 18 Assistance and support pending determination by competent authority](section/18.md)
+  - [s. 19 Assistance and support for exiting prostitution](section/19.md)
+  - [s. 20 Guidance as to compensation for victims](section/20.md)
+  - [s. 21 Independent guardian](section/21.md)
+- PART 4 PROTECTION OF SLAVERY AND TRAFFICKING VICTIMS IN CRIMINAL INVESTIGATIONS AND PROCEEDINGS
+  - [s. 22 Defence for slavery and trafficking victims in relation to certain offences](section/22.md)
+  - [s. 23 Protection of slavery and trafficking victims in criminal investigations](section/23.md)
+  - [s. 24 Special measures: amendments to the Criminal Evidence (Northern Ireland) Order 1999](section/24.md)
+- Part 4A Protection of victims of forced marriage
+  - [s. 24A Anonymity of victims of forced marriage](section/24A.md)
+- PART 5 SUPPLEMENTARY
+  - [s. 25 Interpretation of this Act](section/25.md)
+  - [s. 26 Amendments, repeals and consequential provision](section/26.md)
+  - [s. 27 Orders and regulations](section/27.md)
+  - [s. 28 Short title and commencement](section/28.md)
+- SCHEDULE 1 DETENTION AND FORFEITURE OF CERTAIN VEHICLES, SHIPS AND AIRCRAFT
+  - Forfeiture on conviction of offence under section 1 or 2
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Detention of certain vehicles, ships and aircraft
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Interpretation
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+- SCHEDULE 2 SLAVERY AND TRAFFICKING REPARATION ORDERS
+  - Power to make slavery and trafficking reparation order
+    - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Effect of slavery and trafficking reparation order
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Supplementary
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+- SCHEDULE 3 SLAVERY AND TRAFFICKING PREVENTION ORDERS
+  - PART 1 MAKING AND EFFECT OF SLAVERY AND TRAFFICKING PREVENTION ORDERS
+    - Slavery and trafficking prevention orders on dealing with defendant
+      - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - Slavery and trafficking prevention orders on application
+      - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+    - Meaning of “relevant offender”
+      - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - Effect of slavery and trafficking prevention orders
+      - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - Prohibitions on foreign travel
+      - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+    - Variation, renewal and discharge
+      - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+    - Interim slavery and trafficking prevention orders
+      - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+    - Appeals
+      - [Sch. 3 para. 8](schedule/3/paragraph/8.md)
+  - PART 2 NOTIFICATION REQUIREMENTS
+    - Offender subject to notification requirements
+      - [Sch. 3 para. 9](schedule/3/paragraph/9.md)
+    - Initial notification
+      - [Sch. 3 para. 10](schedule/3/paragraph/10.md)
+    - Notification of changes
+      - [Sch. 3 para. 11](schedule/3/paragraph/11.md)
+    - Periodic notification
+      - [Sch. 3 para. 12](schedule/3/paragraph/12.md)
+    - Absence from notified residence
+      - [Sch. 3 para. 13](schedule/3/paragraph/13.md)
+    - Travel outside the United Kingdom
+      - [Sch. 3 para. 14](schedule/3/paragraph/14.md)
+    - Method of notification and related matters
+      - [Sch. 3 para. 15](schedule/3/paragraph/15.md)
+  - PART 3 SUPPLEMENTARY
+    - Offences
+      - [Sch. 3 para. 16](schedule/3/paragraph/16.md)
+    - Cross-border enforcement within UK
+      - [Sch. 3 para. 17](schedule/3/paragraph/17.md)
+    - Supply of information to relevant Northern Ireland departments, Secretary of State, etc.
+      - [Sch. 3 para. 18](schedule/3/paragraph/18.md)
+    - Supply of information by relevant Northern Ireland departments, Secretary of State, etc.
+      - [Sch. 3 para. 19](schedule/3/paragraph/19.md)
+    - Information about release or transfer of offender
+      - [Sch. 3 para. 20](schedule/3/paragraph/20.md)
+    - Power of entry and search of offender’s home address
+      - [Sch. 3 para. 21](schedule/3/paragraph/21.md)
+    - Guidance
+      - [Sch. 3 para. 22](schedule/3/paragraph/22.md)
+    - Interpretation of this Schedule
+      - [Sch. 3 para. 23](schedule/3/paragraph/23.md)
+- Schedule 3A Anonymity of victims of forced marriage
+  - Prohibition on the identification of victims in publications
+    - [Sch. 3A para. 1](schedule/3A/paragraph/1.md)
+  - Penalty for breaching prohibition imposed by paragraph 1(2)
+    - [Sch. 3A para. 2](schedule/3A/paragraph/2.md)
+  - Offence under paragraph 2: defences
+    - [Sch. 3A para. 3](schedule/3A/paragraph/3.md)
+  - Special rules for providers of information society services
+    - [Sch. 3A para. 4](schedule/3A/paragraph/4.md)
+    - [Sch. 3A para. 5](schedule/3A/paragraph/5.md)
+    - [Sch. 3A para. 6](schedule/3A/paragraph/6.md)
+    - [Sch. 3A para. 7](schedule/3A/paragraph/7.md)
+    - [Sch. 3A para. 8](schedule/3A/paragraph/8.md)
+  - Interpretation
+    - [Sch. 3A para. 9](schedule/3A/paragraph/9.md)
+- SCHEDULE 4 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - PART 1 AMENDMENTS RELATING TO OFFENCES UNDER SECTION 1 OR 2
+    - The Children and Young Persons Act (Northern Ireland) 1968 (c. 34)
+      - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - The Immigration Act 1971 (c. 77)
+      - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - The Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)
+      - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - The Sexual Offences (Amendment) Act 1992 (c. 3)
+      - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - The Sexual Offences Act 2003 (c. 42)
+      - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - The Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)
+      - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - The Serious Crime Act 2007 (c. 27)
+      - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - The Sexual Offences (Northern Ireland) Order 2008 (NI 2)
+      - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+  - PART 2 AMENDMENTS RELATING TO SLAVERY AND TRAFFICKING REPARATION ORDERS
+    - The Criminal Justice (Northern Ireland) Order 1994 (NI 15)
+      - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - The Social Security (Recovery of Benefits) (Northern Ireland) Order 1997 (NI 12)
+      - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - The Criminal Justice (Northern Ireland) Order 1996 (NI 24)
+      - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+      - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - The Proceeds of Crime Act 2002 (c. 29)
+      - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+      - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+      - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+      - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+      - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - The Recovery of Health Service Charges (Northern Ireland) Order 2006 (NI 13)
+      - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - The Justice (Northern Ireland) Act 2012 (c. 24)
+      - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+- SCHEDULE 5 REPEALS
