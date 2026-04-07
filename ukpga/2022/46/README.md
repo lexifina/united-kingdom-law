@@ -1,0 +1,127 @@
+# Product Security and Telecommunications Infrastructure Act 2022
+
+2022 c. 46. Enacted 2022-12-06.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2022/46/2026-04-07
+
+## Contents
+
+- PART 1 Product security
+  - CHAPTER 1 Security requirements
+    - Security requirements relating to products
+      - [s. 1 Power to specify security requirements](section/1.md)
+      - [s. 2 Further provision about regulations under section 1](section/2.md)
+      - [s. 3 Power to deem compliance with security requirements](section/3.md)
+    - Products to which security requirements may relate
+      - [s. 4 Relevant connectable products](section/4.md)
+      - [s. 5 Types of product that may be relevant connectable products](section/5.md)
+      - [s. 6 Excepted products](section/6.md)
+    - Persons to whom security requirements may apply
+      - [s. 7 Relevant persons](section/7.md)
+  - CHAPTER 2 Duties of relevant persons, etc
+    - Duties of manufacturers
+      - [s. 8 Duty to comply with security requirements](section/8.md)
+      - [s. 9 Statements of compliance](section/9.md)
+      - [s. 10 Duty to investigate potential compliance failures](section/10.md)
+      - [s. 11 Duties to take action in relation to compliance failure](section/11.md)
+      - [s. 12 Duty to maintain records](section/12.md)
+    - Duties of authorised representatives
+      - [s. 13 Duties to take action in relation to manufacturer’s compliance failure](section/13.md)
+    - Duties of importers
+      - [s. 14 Duty to comply with security requirements](section/14.md)
+      - [s. 15 Statements of compliance](section/15.md)
+      - [s. 16 Duty not to supply products where compliance failure by manufacturer](section/16.md)
+      - [s. 17 Duty to investigate potential compliance failures of importer or manufacturer](section/17.md)
+      - [s. 18 Duties to take action in relation to importer’s compliance failure](section/18.md)
+      - [s. 19 Duties to take action in relation to manufacturer’s compliance failure](section/19.md)
+      - [s. 20 Duty to maintain records of investigations](section/20.md)
+    - Duties of distributors
+      - [s. 21 Duty to comply with security requirements](section/21.md)
+      - [s. 22 Statements of compliance](section/22.md)
+      - [s. 23 Duty not to supply products where compliance failure by manufacturer](section/23.md)
+      - [s. 24 Duties to take action in relation to distributor’s compliance failures](section/24.md)
+      - [s. 25 Duties to take action in relation to manufacturer’s compliance failure](section/25.md)
+  - CHAPTER 3 Enforcement
+    - General
+      - [s. 26 Enforcement of Part 1](section/26.md)
+      - [s. 27 Delegation of enforcement functions](section/27.md)
+    - Enforcement notices
+      - [s. 28 Compliance notices](section/28.md)
+      - [s. 29 Stop notices](section/29.md)
+      - [s. 30 Recall notices](section/30.md)
+      - [s. 31 Power to vary or revoke enforcement notices](section/31.md)
+      - [s. 32 Failure to comply with enforcement notice](section/32.md)
+      - [s. 33 Appeals against enforcement notices](section/33.md)
+      - [s. 34 Compensation for notices wrongly given](section/34.md)
+      - [s. 35 Appeals against decisions under section 34](section/35.md)
+    - Monetary penalties
+      - [s. 36 Monetary penalties](section/36.md)
+      - [s. 37 Determining the amount of a penalty](section/37.md)
+      - [s. 38 The relevant maximum](section/38.md)
+      - [s. 39 Penalty notices: further provision](section/39.md)
+      - [s. 40 Enforcement of penalty notices](section/40.md)
+      - [s. 41 Appeals against penalty notices](section/41.md)
+    - Forfeiture
+      - [s. 42 Forfeiture](section/42.md)
+      - [s. 43 Further provision about forfeiture](section/43.md)
+      - [s. 44 Appeals against decisions under section 42](section/44.md)
+    - Other enforcement powers
+      - [s. 45 Power to inform public about compliance failures](section/45.md)
+      - [s. 46 Power to publish details of enforcement action taken against relevant persons](section/46.md)
+      - [s. 47 Power to recall products](section/47.md)
+    - Disclosure of information
+      - [s. 48 Disclosure of information](section/48.md)
+    - Miscellaneous and supplementary
+      - [s. 49 Offence of purporting to act as authorised to exercise enforcement function](section/49.md)
+      - [s. 50 Means of giving notices](section/50.md)
+      - [s. 51 Liability of authorised representatives](section/51.md)
+      - [s. 52 Offences by directors, partners etc](section/52.md)
+  - CHAPTER 4 Supplementary provision
+    - Guidance
+      - [s. 53 Guidance](section/53.md)
+    - Interpretation
+      - [s. 54 Meaning of “UK consumer connectable product”](section/54.md)
+      - [s. 55 Meaning of “supply”](section/55.md)
+      - [s. 56 Meaning of other expressions used in Part 1](section/56.md)
+- PART 2 Telecommunications infrastructure
+  - Rights to upgrade and share apparatus
+    - [s. 57 Rights under the electronic communications code to share apparatus](section/57.md)
+    - [s. 58 Upgrading and sharing of apparatus: subsisting agreements](section/58.md)
+    - [s. 59 Upgrading and sharing of apparatus installed before 29 December 2003](section/59.md)
+  - Power to fly lines
+    - [s. 60 Power to fly lines from apparatus kept by another operator](section/60.md)
+  - Renewal of business tenancies conferring code rights
+    - [s. 61 Rent under tenancies conferring code rights: England and Wales](section/61.md)
+    - [s. 62 Rent under tenancies conferring code rights: Northern Ireland](section/62.md)
+    - [s. 63 Compensation relating to code rights: England and Wales](section/63.md)
+    - [s. 64 Compensation relating to code rights: Northern Ireland](section/64.md)
+    - [s. 65 Jurisdiction of court in relation to tenancies in England and Wales](section/65.md)
+  - Refusal of code rights on grounds of national security etc
+    - [s. 66 Refusal of application for code rights on grounds of national security etc](section/66.md)
+  - Unresponsive occupiers
+    - [s. 67 Unresponsive occupiers](section/67.md)
+  - Interim arrangements
+    - [s. 68 Arrangements pending determination of certain applications under code](section/68.md)
+  - Disputes under the electronic communications code
+    - [s. 69 Use of alternative dispute resolution](section/69.md)
+    - [s. 70 Complaints relating to the conduct of operators](section/70.md)
+  - Proceedings relating to code disputes
+    - [s. 71 Jurisdiction of First-tier Tribunal in relation to code proceedings in Wales](section/71.md)
+    - [s. 72 Power to impose time limits on the determination of code proceedings](section/72.md)
+  - Rights of network providers in relation to infrastructure
+    - [s. 73 Rights of network providers in relation to infrastructure](section/73.md)
+  - Supplementary provision
+    - [s. 74 Power to make consequential amendments](section/74.md)
+    - [s. 75 Meaning of “the electronic communications code”](section/75.md)
+- PART 3 Final provisions
+  - [s. 76 Power to make transitional or saving provision](section/76.md)
+  - [s. 77 Regulations](section/77.md)
+  - [s. 78 Extent](section/78.md)
+  - [s. 79 Commencement](section/79.md)
+  - [s. 80 Short title](section/80.md)
+- SCHEDULE Unresponsive occupiers: consequential amendments
+  - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - [Sch. paragraph 2](schedule/paragraph/2.md)
+  - [Sch. paragraph 3](schedule/paragraph/3.md)
