@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-01, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-04-01
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-04-07
 
 ## Contents
 
@@ -298,7 +298,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-04-01
     - [Sch. 6 para. 23 Labour market, slavery and human trafficking offences](schedule/6/paragraph/23.md)
     - [Sch. 6 para. 24 Labour market, slavery and human trafficking offences](schedule/6/paragraph/24.md)
     - [Sch. 6 para. 25 Labour market, slavery and human trafficking offences](schedule/6/paragraph/25.md)
-    - [Sch. 6 para. 26 Labour market, slavery and human trafficking offences](schedule/6/paragraph/26.md)
+    - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
     - [Sch. 6 para. 27 Organised crime](schedule/6/paragraph/27.md)
     - [Sch. 6 para. 28 Organised crime](schedule/6/paragraph/28.md)
     - [Sch. 6 para. 29 Tax offences](schedule/6/paragraph/29.md)
