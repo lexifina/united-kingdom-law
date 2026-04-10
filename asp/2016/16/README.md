@@ -1,0 +1,118 @@
+# Lobbying (Scotland) Act 2016
+
+asp/2016/16. Enacted 2016-04-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-10, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asp/2016/16/2026-04-10
+
+## Contents
+
+- PART 1 Core concepts
+  - [s. 1 Regulated lobbying](section/1.md)
+  - [s. 2 Government or parliamentary functions](section/2.md)
+- PART 2 The lobbying register
+  - The register
+    - [s. 3 Lobbying register](section/3.md)
+    - [s. 4 Content of register](section/4.md)
+    - [s. 5 Information about identity](section/5.md)
+    - [s. 6 Information about regulated lobbying activity](section/6.md)
+    - [s. 7 Additional information](section/7.md)
+  - Active registrants
+    - [s. 8 Duty to register](section/8.md)
+    - [s. 9 Application for registration](section/9.md)
+    - [s. 10 Entry in the register](section/10.md)
+    - [s. 11 Information returns](section/11.md)
+  - Inactive registrants
+    - [s. 12 Reclassification as an inactive registrant on application](section/12.md)
+    - [s. 13 Reclassification as an inactive registrant without application](section/13.md)
+  - Voluntary registrants
+    - [s. 14 Voluntary registration](section/14.md)
+  - Further provision
+    - [s. 15 Power to specify requirements about the register](section/15.md)
+- PART 3 Oversight and enforcement
+  - Duty to monitor
+    - [s. 16 Clerk’s duty to monitor compliance](section/16.md)
+  - Information notices
+    - [s. 17 Clerk’s power to require information](section/17.md)
+    - [s. 18 Limitations on duty to supply information and use of information supplied](section/18.md)
+    - [s. 19 Appeal against information notice](section/19.md)
+    - [s. 20 Power to make further provision about information notices](section/20.md)
+    - [s. 21 Offences relating to information notices](section/21.md)
+  - Investigation of complaints
+    - [s. 22 Commissioner’s duty to investigate and report on complaint](section/22.md)
+    - [s. 23 Requirements for complaint to be admissible](section/23.md)
+    - [s. 24 Procedure for assessing admissibility of complaint](section/24.md)
+    - [s. 25 Investigation of complaint](section/25.md)
+    - [s. 26 Commissioner’s report on complaint](section/26.md)
+    - [s. 27 Parliament’s action on receipt of report](section/27.md)
+    - [s. 28 Withdrawal of complaint](section/28.md)
+    - [s. 29 Commissioner’s discretionary reports to Parliament](section/29.md)
+    - [s. 30 Restriction on Commissioner’s advice](section/30.md)
+    - [s. 31 Directions to the Commissioner](section/31.md)
+  - Investigations: witnesses and documents
+    - [s. 32 Power to call for witnesses and documents etc.](section/32.md)
+    - [s. 33 Notice](section/33.md)
+    - [s. 34 Exceptions to requirement to answer question or produce document](section/34.md)
+    - [s. 35 Evidence under oath](section/35.md)
+    - [s. 36 Offences relating to Commissioner’s investigation](section/36.md)
+    - [s. 37 Restriction on disclosure of information](section/37.md)
+  - Commissioner’s functions
+    - [s. 38 Commissioner’s functions etc.](section/38.md)
+    - [s. 39 Investigation of performance of Commissioner’s functions](section/39.md)
+  - Disposal of complaints
+    - [s. 40 Parliament’s power to censure](section/40.md)
+  - Further provision
+    - [s. 41 Power to make further provision about Parliament’s procedures etc.](section/41.md)
+  - Offences
+    - [s. 42 Offences relating to registration and information returns](section/42.md)
+- PART 4 Guidance, code of conduct and Public Awareness
+  - [s. 43 Parliamentary guidance](section/43.md)
+  - [s. 44 Code of conduct for persons lobbying MSPs](section/44.md)
+  - [s. 45 Public awareness and understanding of Act](section/45.md)
+- PART 5 Final provisions
+  - [s. 46 Offences by bodies corporate etc.](section/46.md)
+  - [s. 47 Interpretation](section/47.md)
+  - [s. 48 Parliamentary resolutions](section/48.md)
+  - [s. 49 Application of Act to trusts](section/49.md)
+  - [s. 50 Report on operation of Act](section/50.md)
+  - [s. 51 Ancillary provision](section/51.md)
+  - [s. 52 Commencement](section/52.md)
+  - [s. 53 Short title](section/53.md)
+- SCHEDULE COMMUNICATIONS WHICH ARE NOT LOBBYING
+  - Communications made on individual’s own behalf
+    - [Sch. paragraph 1](schedule/paragraph/1.md)
+  - Communications made to member for constituency or region
+    - [Sch. paragraph 2](schedule/paragraph/2.md)
+    - [Sch. paragraph 3](schedule/paragraph/3.md)
+    - [Sch. paragraph 4](schedule/paragraph/4.md)
+  - Communications not made in return for payment
+    - [Sch. paragraph 5](schedule/paragraph/5.md)
+    - [Sch. paragraph 6](schedule/paragraph/6.md)
+  - Communications by small organisations
+    - [Sch. paragraph 7](schedule/paragraph/7.md)
+    - [Sch. paragraph 8](schedule/paragraph/8.md)
+    - [Sch. paragraph 9](schedule/paragraph/9.md)
+    - [Sch. paragraph 10](schedule/paragraph/10.md)
+  - Communications in Parliament or required under statute.
+    - [Sch. paragraph 11](schedule/paragraph/11.md)
+  - Communications made on request
+    - [Sch. paragraph 12](schedule/paragraph/12.md)
+  - Cross-party groups
+    - [Sch. paragraph 13](schedule/paragraph/13.md)
+  - Journalism
+    - [Sch. paragraph 14](schedule/paragraph/14.md)
+  - Communications in relation to terms and conditions of employment
+    - [Sch. paragraph 15](schedule/paragraph/15.md)
+    - [Sch. paragraph 16](schedule/paragraph/16.md)
+    - [Sch. paragraph 17](schedule/paragraph/17.md)
+  - Communications by political parties
+    - [Sch. paragraph 18](schedule/paragraph/18.md)
+  - Communications by judiciary
+    - [Sch. paragraph 19](schedule/paragraph/19.md)
+    - [Sch. paragraph 20](schedule/paragraph/20.md)
+  - Communications by Her Majesty
+    - [Sch. paragraph 21](schedule/paragraph/21.md)
+  - Government and Parliament communications etc.
+    - [Sch. paragraph 22](schedule/paragraph/22.md)
+    - [Sch. paragraph 23](schedule/paragraph/23.md)
