@@ -2,9 +2,9 @@
 
 2022 c. 44. Enacted 2022-10-25.
 
-The files here are the text legislation.gov.uk publishes as in force from 2025-03-13, one file per provision. Earlier versions, from 2022-10-25, are in the history before it: `git log -- ukpga/2022/44` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-24, one file per provision. Earlier versions, from 2022-10-25, are in the history before it: `git log -- ukpga/2022/44` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2022/44/2025-03-13
+Source: https://www.legislation.gov.uk/ukpga/2022/44/2026-04-24
 
 ## Contents
 
