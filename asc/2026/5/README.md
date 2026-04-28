@@ -1,0 +1,265 @@
+# Building Safety (Wales) Act 2026
+
+asc/2026/5. Enacted 2026-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 157 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2026/5
+
+Source: https://www.legislation.gov.uk/asc/2026/5/2026-04-28
+
+## Contents
+
+- PART 1 SAFETY OF BUILDINGS CONTAINING TWO OR MORE RESIDENTIAL UNITS
+  - CHAPTER 1 OVERVIEW
+    - [s. 1 Overview of Part](section/1.md)
+  - CHAPTER 2 KEY TERMS
+    - Regulated buildings, residential units and categories of building
+      - [s. 2 Meaning of “regulated building”](section/2.md)
+      - [s. 3 Meaning of “building”](section/3.md)
+      - [s. 4 Meaning of “independent part”](section/4.md)
+      - [s. 5 Meaning of “residential unit”](section/5.md)
+      - [s. 6 Categories of regulated building](section/6.md)
+      - [s. 7 Inclusion of ancillary areas in references to regulated buildings](section/7.md)
+    - Accountable persons, principal accountable persons and common parts
+      - [s. 8 Meaning of “accountable person”](section/8.md)
+      - [s. 9 Meaning of “principal accountable person”](section/9.md)
+      - [s. 10 Principal accountable person: determination by building safety authority](section/10.md)
+      - [s. 11 Determinations by residential property tribunal](section/11.md)
+      - [s. 12 Application of sections 9 and 11 in cases of joint ownership etc.](section/12.md)
+      - [s. 13 Meaning of “common parts”](section/13.md)
+      - [s. 14 Other definitions](section/14.md)
+      - [s. 15 Power to make further provision for the purposes of sections 8 and ‍9](section/15.md)
+    - Responsibility of accountable persons for parts of regulated buildings
+      - [s. 16 Part of regulated building for which accountable person is responsible](section/16.md)
+    - General
+      - [s. 17 Powers to amend this Chapter](section/17.md)
+  - CHAPTER 3 REGISTRATION OF CATEGORY 1 BUILDINGS AND CATEGORY 2 BUILDINGS
+    - Registers
+      - [s. 18 Registers of category 1 buildings and category 2 buildings](section/18.md)
+    - Requirement to register and registration procedure
+      - [s. 19 Requirement to register category 1 buildings and category 2 buildings](section/19.md)
+      - [s. 20 Registration procedure](section/20.md)
+    - Notification of changes and revision of register
+      - [s. 21 Duty to notify changes](section/21.md)
+      - [s. 22 Revision of register following notification of change](section/22.md)
+      - [s. 23 Revision of register without notification](section/23.md)
+    - Declaration about accuracy of information and documents in register
+      - [s. 24 Duty to give declaration about accuracy of information and documents included in register](section/24.md)
+    - Removal of building from register
+      - [s. 25 Application to remove building from register](section/25.md)
+      - [s. 26 Removal of building from register by building safety authority](section/26.md)
+  - CHAPTER 4 ASSESSMENT AND MANAGEMENT OF BUILDING SAFETY RISKS
+    - Key terms
+      - [s. 27 Meaning of “fire safety risk” and “structural safety risk”](section/27.md)
+      - [s. 28 Meaning of “building safety risk”](section/28.md)
+    - Fire safety risks in regulated buildings
+      - [s. 29 Assessment of fire safety risks: duties of principal accountable person](section/29.md)
+      - [s. 30 Requirement for fire risk assessment to be made by competent person](section/30.md)
+      - [s. 31 Timing and review of fire risk assessments](section/31.md)
+      - [s. 32 Further provision about fire risk assessments](section/32.md)
+      - [s. 33 Management of fire safety risks by accountable persons](section/33.md)
+    - Structural safety risks in category 1 buildings and category 2 buildings
+      - [s. 34 Assessment of structural safety risks: duties of accountable persons](section/34.md)
+      - [s. 35 Management of structural safety risks by accountable persons](section/35.md)
+    - Management of building safety risks by other persons
+      - [s. 36 Management of building safety risks by persons other than accountable persons](section/36.md)
+  - CHAPTER 5 DUTIES APPLYING ONLY TO OCCUPIED CATEGORY 1 BUILDINGS
+    - Safety case reports
+      - [s. 37 Preparation and revision of safety case report by principal accountable person](section/37.md)
+    - Recording and reporting in relation to building safety risks
+      - [s. 38 Occurrence recording system: duty of principal accountable person](section/38.md)
+      - [s. 39 Reporting to authorities: duty of accountable person](section/39.md)
+    - Residents’ engagement strategies
+      - [s. 40 Preparation and review of residents’ engagement strategy by principal accountable person](section/40.md)
+      - [s. 41 Provision of copies of strategy by accountable persons](section/41.md)
+    - Building certificates
+      - [s. 42 Duty of principal accountable person to apply for building certificate](section/42.md)
+      - [s. 43 Applications for certificates: procedure](section/43.md)
+      - [s. 44 Determination of applications and issue of certificates](section/44.md)
+      - [s. 45 Duty of principal accountable person to display certificate and related information](section/45.md)
+  - CHAPTER 6 ENGAGEMENT WITH RESIDENTS OF OCCUPIED CATEGORY 2 BUILDINGS
+    - [s. 46 Category 2 buildings: residents’ engagement strategies](section/46.md)
+  - CHAPTER 7 INFORMATION AND COMPLAINTS
+    - Duties to keep and provide information and documents
+      - [s. 47 Duty to give information and documents to accountable persons](section/47.md)
+      - [s. 48 Duty of accountable person to keep information and documents](section/48.md)
+      - [s. 49 Duty of accountable person to give information and documents to other persons](section/49.md)
+      - [s. 50 Duty to give information and documents on change of accountable person](section/50.md)
+    - Complaints
+      - [s. 51 Category 1 buildings: duty of principal accountable person to operate complaints system](section/51.md)
+      - [s. 52 Category 2 and category 3 buildings: duty of accountable persons to arrange consideration of complaints](section/52.md)
+      - [s. 53 Complaints to building safety authorities](section/53.md)
+  - CHAPTER 8 DUTIES OF RESIDENTS AND OWNERS ETC. OF RESIDENTIAL UNITS
+    - [s. 54 Regulated buildings: fire safety duties of residents etc.](section/54.md)
+    - [s. 55 Category 1 and category 2 buildings: structural safety duties of residents etc.](section/55.md)
+    - [s. 56 Fire resistance of residential units: duty to repair](section/56.md)
+    - [s. 57 Entry to residential units for purpose of repairs](section/57.md)
+    - [s. 58 Entry to residential units etc. by accountable person](section/58.md)
+    - [s. 59 Power of accountable person to give warning notice: fire and structural safety duty of residents etc.](section/59.md)
+    - [s. 60 Power of accountable person to give warning notice: repair of fire resistance of residential units](section/60.md)
+    - [s. 61 Power of residential property tribunal to make contravention order](section/61.md)
+    - [s. 62 Regulations about warning notices](section/62.md)
+  - CHAPTER 9 REVIEWS AND APPEALS
+    - [s. 63 Review and appeal of certain decisions: key terms](section/63.md)
+    - [s. 64 Review of reviewable decision](section/64.md)
+    - [s. 65 Appeal to residential property tribunal](section/65.md)
+    - [s. 66 Effect of review and appeal](section/66.md)
+  - CHAPTER 10 SUPPLEMENTARY
+    - Entry to non-residential premises
+      - [s. 67 Entry to non-residential premises by accountable person](section/67.md)
+    - Co-operation and co-ordination
+      - [s. 68 Co-operation and co-ordination: duties of accountable persons](section/68.md)
+    - Recovery of relevant costs by principal accountable person
+      - [s. 69 Recovery of relevant costs by principal accountable person](section/69.md)
+    - Leases
+      - [s. 70 Leases: implied terms relating to compliance with building safety duties](section/70.md)
+      - [s. 71 Liability of tenants for costs relating to building safety](section/71.md)
+      - [s. 72 Further provision about implied terms and liability for costs](section/72.md)
+      - [s. 73 Costs relating to enforcement etc. excluded from variable service charge](section/73.md)
+      - [s. 74 Provision of building safety information to tenants](section/74.md)
+    - Occupation contracts
+      - [s. 75 Power to make provision relating to terms of occupation contracts](section/75.md)
+    - Commonholds
+      - [s. 76 Commonholds: provision for compliance with building safety duties](section/76.md)
+    - Regulations under sections 17, 28(2) and 75
+      - [s. 77 Regulations under sections 17, 28(2) and 75: initial procedure](section/77.md)
+- PART 2 FIRE SAFETY IN CERTAIN HOUSES IN MULTIPLE OCCUPATION
+  - Key terms
+    - [s. 78 Meaning of “relevant HMO”](section/78.md)
+    - [s. 79 Meaning of “landlord” and “duty holders” for relevant HMO](section/79.md)
+    - [s. 80 Meaning of “fire safety risk” in relation to relevant HMO](section/80.md)
+  - Assessment and management of fire safety risks in relevant HMOs
+    - [s. 81 Assessment of fire safety risks: duties of landlord](section/81.md)
+    - [s. 82 Requirement for HMO fire risk assessment to be made by competent person](section/82.md)
+    - [s. 83 Timing and review of HMO fire risk assessments](section/83.md)
+    - [s. 84 Further provision about HMO fire risk assessments](section/84.md)
+    - [s. 85 Management of fire safety risks by duty holders](section/85.md)
+  - Provision of information and documents relating to relevant HMOs
+    - [s. 86 Requirement to give information and documents to duty holder](section/86.md)
+    - [s. 87 Requirement for duty holder to give information and documents to other persons](section/87.md)
+  - Duties of occupiers of relevant HMOs
+    - [s. 88 Occupiers’ duties relating to fire safety risks and provision of information](section/88.md)
+    - [s. 89 Entry by duty holders for purposes of assessing and managing fire safety risks](section/89.md)
+  - Entry to non-residential premises
+    - [s. 90 Entry to non-residential premises by duty holder](section/90.md)
+  - General
+    - [s. 91 Co-operation and co-ordination by duty holders](section/91.md)
+    - [s. 92 Power to apply this Part to mobile homes](section/92.md)
+    - [s. 93 Interpretation](section/93.md)
+- PART 3 ENFORCEMENT AND INVESTIGATORY POWERS
+  - Enforcing authorities
+    - [s. 94 Enforcement functions of fire safety authorities and building safety authorities](section/94.md)
+  - Powers of enforcing authorities to give notices
+    - [s. 95 Power of enforcing authority to give information notice](section/95.md)
+    - [s. 96 Power of enforcing authority to give compliance notice](section/96.md)
+    - [s. 97 Appeal against compliance notice](section/97.md)
+    - [s. 98 Power of fire safety authority to give prohibition notice](section/98.md)
+    - [s. 99 Appeal against prohibition notice](section/99.md)
+    - [s. 100 Notices: supplementary](section/100.md)
+    - [s. 101 Notices: offences](section/101.md)
+  - Functions of authorised officers
+    - [s. 102 Authorised officers and meaning of “relevant purpose”](section/102.md)
+    - [s. 103 Power to enter premises not being used as a residential unit](section/103.md)
+    - [s. 104 Power to enter premises being used as a residential unit](section/104.md)
+    - [s. 105 Powers of entry: supplementary](section/105.md)
+    - [s. 106 Authorised officers: offences](section/106.md)
+  - Offences
+    - [s. 107 Contravention giving rise to risk of death or serious injury](section/107.md)
+    - [s. 108 False and misleading information](section/108.md)
+  - Special measures in relation to category 1 buildings
+    - [s. 109 Appointment of special measures manager for category 1 building](section/109.md)
+  - Power of building safety authority to give fixed penalty notices
+    - [s. 110 Power of building safety authority to give fixed penalty notices](section/110.md)
+  - Crown application
+    - [s. 111 Application of this Part to the Crown](section/111.md)
+- PART 4 REMEDIATION OF CERTAIN DEFECTS
+  - [s. 112 Meaning of “relevant building”](section/112.md)
+  - [s. 113 Meaning of “relevant defect”](section/113.md)
+  - [s. 114 Remediation orders](section/114.md)
+  - [s. 115 Remediation contribution orders](section/115.md)
+  - [s. 116 Remediation costs under qualifying leases etc.](section/116.md)
+  - [s. 117 Meaning of “qualifying lease”](section/117.md)
+  - [s. 118 Reports on progress under the Welsh building safety programme](section/118.md)
+- PART 5 SUPPLEMENTARY AND GENERAL
+  - Promotion of participation in relation to the exercise of Welsh Ministers’ functions etc.
+    - [s. 119 Welsh Ministers’ strategy for promoting participation in relation to the exercise of their functions etc.](section/119.md)
+  - Guidance and co-operation
+    - [s. 120 Issue or approval of guidance by the Welsh Ministers](section/120.md)
+    - [s. 121 Co-operation and information: duties of responsible persons under Fire Safety Order](section/121.md)
+  - Building safety authorities
+    - [s. 122 Building safety authorities](section/122.md)
+    - [s. 123 Delegation of functions where building safety authority is accountable person for category 1 building](section/123.md)
+    - [s. 124 Power to direct building safety authorities to arrange for delegation of functions](section/124.md)
+    - [s. 125 Fees for exercise of functions by building safety authorities](section/125.md)
+  - Fire safety authorities
+    - [s. 126 Fire safety authorities](section/126.md)
+  - Exercise of functions by building safety authorities and fire safety authorities
+    - [s. 127 Issue of guidance by the Welsh Ministers about the exercise of functions](section/127.md)
+    - [s. 128 Co-operation between building safety authorities and fire safety authorities](section/128.md)
+    - [s. 129 Sharing of information](section/129.md)
+  - Offences
+    - [s. 130 Criminal liability of senior officers of bodies](section/130.md)
+  - Giving notices and other documents
+    - [s. 131 Giving notices and other documents](section/131.md)
+    - [s. 132 Giving documents to a person whose name is unknown](section/132.md)
+  - General
+    - [s. 133 Pre-commencement consultation](section/133.md)
+    - [s. 134 Regulations requiring provision of information: confidentiality and data protection](section/134.md)
+    - [s. 135 Regulations under this Act: supplementary and procedural provisions](section/135.md)
+    - [s. 136 Interpretation](section/136.md)
+    - [s. 137 Consequential and transitional provision etc.](section/137.md)
+    - [s. 138 Coming into force](section/138.md)
+    - [s. 139 Progress reports on bringing this Act into force](section/139.md)
+    - [s. 140 Short title](section/140.md)
+- SCHEDULE 1 BUILDINGS THAT ARE EXCLUDED FROM BEING REGULATED BUILDINGS
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+- SCHEDULE 2 SPECIAL MEASURES ORDERS
+  - PART 1 PROCEDURE BEFORE APPLYING FOR SPECIAL MEASURES ORDER
+    - [Sch. 2 para. 1 Introductory](schedule/2/paragraph/1.md)
+    - [Sch. 2 para. 2 Notice that authority proposes to apply for special measures order](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 3 Notice of authority’s decision whether to apply for order](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4 Requirement to include financial management proposal with notice of proposal or decision](schedule/2/paragraph/4.md)
+    - [Sch. 2 para. 5 Further provision about giving notices under this Part](schedule/2/paragraph/5.md)
+  - PART 2 FURTHER PROVISION ABOUT EFFECT AND IMPLEMENTATION OF SPECIAL MEASURES ORDER
+    - [Sch. 2 para. 6 Functions to be carried out by special measures manager](schedule/2/paragraph/6.md)
+    - [Sch. 2 para. 7 Effect of special measures order on compliance notices](schedule/2/paragraph/7.md)
+    - [Sch. 2 para. 8 Effect of special measures order on relevant contracts](schedule/2/paragraph/8.md)
+    - [Sch. 2 para. 9 Effect of special measures order on legal proceedings](schedule/2/paragraph/9.md)
+    - [Sch. 2 para. 10 Reimbursement of damages paid by special measures manager](schedule/2/paragraph/10.md)
+    - [Sch. 2 para. 11 Payments received by special measures manager to be held on trust](schedule/2/paragraph/11.md)
+    - [Sch. 2 para. 12 Power of tribunal to give further directions](schedule/2/paragraph/12.md)
+    - [Sch. 2 para. 13 Change in accountable person](schedule/2/paragraph/13.md)
+  - PART 3 REVIEW, VARIATION AND REVOCATION OF SPECIAL MEASURES ORDER
+    - [Sch. 2 para. 14 Duration of special measures order](schedule/2/paragraph/14.md)
+    - [Sch. 2 para. 15 Authority to keep certain matters under review](schedule/2/paragraph/15.md)
+    - [Sch. 2 para. 16 Variation or revocation of special measures order](schedule/2/paragraph/16.md)
+    - [Sch. 2 para. 17 Procedure before authority applies to vary special measures order](schedule/2/paragraph/17.md)
+    - [Sch. 2 para. 18 Directions where special measures order is varied or revoked](schedule/2/paragraph/18.md)
+  - PART 4 SUPPLEMENTARY
+    - [Sch. 2 para. 19 Notifications relating to special measures order](schedule/2/paragraph/19.md)
+    - [Sch. 2 para. 20 Power of tribunal to amend order under section 24 of the Landlord and Tenant Act 1987](schedule/2/paragraph/20.md)
+    - [Sch. 2 para. 21 Meaning of “interested person”](schedule/2/paragraph/21.md)
+- SCHEDULE 3 MINOR AND CONSEQUENTIAL AMENDMENTS
+  - [Sch. 3 para. 1 Health and Safety at Work etc. Act 1974 (c. 37)](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Landlord and Tenant Act 1987 (c. 31)](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Landlord and Tenant Act 1987 (c. 31)](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Landlord and Tenant Act 1987 (c. 31)](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Fire and Rescue Services Act 2004 (c. 21)](schedule/3/paragraph/5.md)
+  - [Sch. 3 para. 6 Fire and Rescue Services Act 2004 (c. 21)](schedule/3/paragraph/6.md)
+  - [Sch. 3 para. 7 Fire and Rescue Services Act 2004 (c. 21)](schedule/3/paragraph/7.md)
+  - [Sch. 3 para. 8 Fire and Rescue Services Act 2004 (c. 21)](schedule/3/paragraph/8.md)
+  - [Sch. 3 para. 9 Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](schedule/3/paragraph/9.md)
+  - [Sch. 3 para. 10 Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](schedule/3/paragraph/10.md)
+  - [Sch. 3 para. 11 Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](schedule/3/paragraph/11.md)
+  - [Sch. 3 para. 12 Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541)](schedule/3/paragraph/12.md)
+  - [Sch. 3 para. 13 Building Safety Act 2022 (c. 30)](schedule/3/paragraph/13.md)
+- SCHEDULE 4 FIRE SAFETY ORDER: TRANSITIONAL AND SAVING PROVISIONS
+  - [Sch. 4 para. 1 Existing fire risk assessments for regulated buildings](schedule/4/paragraph/1.md)
+  - [Sch. 4 para. 2 Existing HMO fire risk assessments for relevant HMOs](schedule/4/paragraph/2.md)
+  - [Sch. 4 para. 3 Existing notices issued under the Fire Safety Order](schedule/4/paragraph/3.md)
