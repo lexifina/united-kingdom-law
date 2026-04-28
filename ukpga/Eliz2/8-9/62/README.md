@@ -1,0 +1,154 @@
+# Caravan Sites and Control of Development Act 1960
+
+1960 c. 62. Enacted 1960-07-29.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 8 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
+
+Source: https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/2026-04-28
+
+## Contents
+
+- Part I Caravan Sites
+  - Licensing of caravan sites
+    - [s. 1 Prohibition of use of land as caravan site without site licence.](section/1.md)
+    - [s. 2 Exemptions from licensing requirements.](section/2.md)
+    - [s. 3 Issue of site licences by local authorities.](section/3.md)
+    - [s. 4 Duration of site licences.](section/4.md)
+    - [s. 5 Power of local authority to attach conditions to site licences.](section/5.md)
+    - [s. 5A Relevant protected sites: annual fee](section/5A.md)
+    - [s. 6 Failure by local authority to issue site licence.](section/6.md)
+    - [s. 7 Appeal against conditions attached to site licence](section/7.md)
+    - [s. 8 Power of local authority to alter conditions attached to site licences.](section/8.md)
+    - [s. 9 Breach of condition: land other than relevant protected sites in England](section/9.md)
+    - [s. 9A Breach of condition: relevant protected sites in England](section/9A.md)
+    - [s. 9B Compliance notice under section 9A: offence and multiple convictions](section/9B.md)
+    - [s. 9C Compliance notice under section 9A: power to demand expenses](section/9C.md)
+    - [s. 9D Power to take action following conviction of occupier](section/9D.md)
+    - [s. 9E Power to take emergency action](section/9E.md)
+    - [s. 9F Action under section 9D or 9E: power to demand expenses](section/9F.md)
+    - [s. 9G Appeals under section 9A, 9E or 9F](section/9G.md)
+    - [s. 9H When compliance notice or expenses demand becomes operative](section/9H.md)
+    - [s. 9I Recovery of expenses demanded under section 9C or 9F](section/9I.md)
+    - [s. 10 Transfer of site licences, and transmission on death, etc.](section/10.md)
+    - [s. 10A Powers to charge fees: supplementary](section/10A.md)
+    - [s. 11 Duty of licence holder to surrender licence for alteration.](section/11.md)
+    - [s. 12 Responsibility of occupier of land subject to a licence or special tenancy.](section/12.md)
+  - Requirement for manager of site to be fit and proper person
+    - [s. 12A Requirement for fit and proper person](section/12A.md)
+    - [s. 12B Register of fit and proper persons](section/12B.md)
+    - [s. 12C Application for inclusion in register](section/12C.md)
+    - [s. 12D Removal from register, variation of conditions etc.](section/12D.md)
+    - [s. 12E Regulations under sections 12A to 12D: supplementary provision](section/12E.md)
+  - Special provisions as to existing sites
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+  - Caravans on commons
+    - [s. 23 Power of rural district councils to prohibit caravans on commons.](section/23.md)
+  - Provision of caravan sites by local authorities
+    - [s. 24 Power of local authorities to provide sites for caravans.](section/24.md)
+  - Miscellaneous and supplemental
+    - [s. 25 Registers of site licences.](section/25.md)
+    - [s. 26 Power of entry of officers of local authorities.](section/26.md)
+    - [s. 26A Liability of officers of bodies corporate](section/26A.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Crown land.](section/28.md)
+    - [s. 29 Interpretation of Part I.](section/29.md)
+    - [s. 30 Part repeal of s. 269, Public Health Act, 1936.](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 Application of Part I to Scotland.](section/32.md)
+- PART 1A Licensing of relevant permanent sites in Scotland
+  - General application
+    - [s. 32A Licences under Part 1A](section/32A.md)
+  - Part 1A site licence
+    - [s. 32B Relevant permanent site application](section/32B.md)
+    - [s. 32C Fee for relevant permanent site application](section/32C.md)
+    - [s. 32D Issue and renewal of a Part 1A site licence](section/32D.md)
+    - [s. 32E Application to transfer a Part 1 A site licence](section/32E.md)
+    - [s. 32F Time limit for determining application](section/32F.md)
+    - [s. 32G Local authority power to transfer licence where no application](section/32G.md)
+    - [s. 32H Transfer of Part 1A site licences on death: relevant permanent sites](section/32H.md)
+    - [s. 32I Notification of decision on Part 1A site licence](section/32I.md)
+    - [s. 32J Duration of a Part 1A site licence](section/32J.md)
+    - [s. 32K Duty to inform local authority where change](section/32K.md)
+    - [s. 32L Revocation of a Part 1A site licence: fit and proper person](section/32L.md)
+    - [s. 32M Appeals relating to a Part 1A site licence](section/32M.md)
+    - [s. 32N Power to make provision in relation to procedure and appeals](section/32N.md)
+  - Fit and proper persons
+    - [s. 32O Fit and proper person considerations](section/32O.md)
+    - [s. 32P Fit and proper person: Level 1 disclosure](section/32P.md)
+    - [s. 32Q Fit and proper person: information sharing](section/32Q.md)
+  - Offences relating to relevant permanent sites
+    - [s. 32R Offences in connection with information requirements](section/32R.md)
+    - [s. 32S Relevant permanent sites: use without a licence](section/32S.md)
+    - [s. 32T Relevant permanent sites: breach of licence conditions](section/32T.md)
+  - Local authority enforcement at relevant permanent sites
+    - [s. 32U Breach of licence condition: improvement notice](section/32U.md)
+    - [s. 32V Improvement notice: offence](section/32V.md)
+    - [s. 32W Local authority power to carry out steps in an improvement notice](section/32W.md)
+    - [s. 32X Penalty notice where no licence or breach of licence](section/32X.md)
+    - [s. 32Y Power to appoint interim manager](section/32Y.md)
+    - [s. 32Z Power to take emergency action](section/32Z.md)
+    - [s. 32Z1 Powers of entry in relation to relevant permanent site](section/32Z1.md)
+    - [s. 32Z2 Expenses of issuing notices](section/32Z2.md)
+    - [s. 32Z3 Expenses of taking action under improvement notice or emergency action notice](section/32Z3.md)
+    - [s. 32Z4 Expenses of local authority in relation to Part 1A licences](section/32Z4.md)
+  - Miscellaneous
+    - [s. 32Z5 Offences by bodies corporate etc.](section/32Z5.md)
+    - [s. 32Z6 Interpretation of Part 1A](section/32Z6.md)
+    - [s. 32Z7 Guidance](section/32Z7.md)
+- Part II
+  - [s. 33 ................................](section/33.md)
+- Part III General
+  - [s. 48 ................................](section/48.md)
+  - [s. 49 Financial provisions.](section/49.md)
+  - [s. 50 Short title, interpretation, extent and commencement.](section/50.md)
+- FIRST SCHEDULE Cases where a Caravan Site Licence is not required
+  - Use within curtilage of a dwellinghouse
+    - [Sch. FIRST para. 1](schedule/FIRST/paragraph/1.md)
+  - Use by a person travelling with a caravan for one or two nights
+    - [Sch. FIRST para. 2](schedule/FIRST/paragraph/2.md)
+  - Use of holdings of five acres or more in certain circumstances
+    - [Sch. FIRST para. 3](schedule/FIRST/paragraph/3.md)
+  - Sites occupied and supervised by exempted organisations
+    - [Sch. FIRST para. 4](schedule/FIRST/paragraph/4.md)
+  - Sites approved by exempted organisations
+    - [Sch. FIRST para. 5](schedule/FIRST/paragraph/5.md)
+  - Meetings organised by exempted organisations
+    - [Sch. FIRST para. 6](schedule/FIRST/paragraph/6.md)
+  - Agricultural and forestry workers
+    - [Sch. FIRST para. 7](schedule/FIRST/paragraph/7.md)
+    - [Sch. FIRST para. 8](schedule/FIRST/paragraph/8.md)
+  - Building and engineering sites
+    - [Sch. FIRST para. 9](schedule/FIRST/paragraph/9.md)
+  - Travelling showmen
+    - [Sch. FIRST para. 10](schedule/FIRST/paragraph/10.md)
+  - Sites occupied by licensing authority
+    - [Sch. FIRST para. 11](schedule/FIRST/paragraph/11.md)
+  - Gipsy sites occupied by county councils or regional councils
+    - [Sch. FIRST para. 11A](schedule/FIRST/paragraph/11A.md)
+  - Certification of exempted organisations
+    - [Sch. FIRST para. 12](schedule/FIRST/paragraph/12.md)
+  - Power to withdraw certain exemptions
+    - [Sch. FIRST para. 13](schedule/FIRST/paragraph/13.md)
+- SECOND SCHEDULE Further Provisions as to Orders Relating to Commons
+  - Duty to consult conservators
+    - [Sch. SECOND para. 1](schedule/SECOND/paragraph/1.md)
+  - Procedure for making orders imposing prohibitions
+    - [Sch. SECOND para. 2](schedule/SECOND/paragraph/2.md)
+    - [Sch. SECOND para. 3](schedule/SECOND/paragraph/3.md)
+    - [Sch. SECOND para. 4](schedule/SECOND/paragraph/4.md)
+  - Notice to lord of manor of other orders
+    - [Sch. SECOND para. 5](schedule/SECOND/paragraph/5.md)
+  - Crown land
+    - [Sch. SECOND para. 6](schedule/SECOND/paragraph/6.md)
+- THIRD SCHEDULE
+- FOURTH SCHEDULE
