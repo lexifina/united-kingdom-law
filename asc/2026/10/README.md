@@ -1,0 +1,125 @@
+# Development of Tourism and Regulation of Visitor Accommodation (Wales) Act 2026
+
+asc/2026/10. Enacted 2026-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/asc/2026/10/2026-04-28
+
+## Contents
+
+- PART 1 INTRODUCTION
+  - [s. 1 Overview](section/1.md)
+- PART 2 DEVELOPMENT OF TOURISM
+  - [s. 2 Tourism development functions of the Welsh Ministers](section/2.md)
+  - [s. 3 Code of practice on tourism](section/3.md)
+  - [s. 4 Amendments to enactments on tourism](section/4.md)
+- PART 3 REGULATION OF VISITOR ACCOMMODATION
+  - CHAPTER 1 KEY CONCEPTS
+    - Regulated visitor accommodation
+      - [s. 5 Meaning of regulated visitor accommodation](section/5.md)
+    - Fitness of visitor accommodation premises
+      - [s. 6 Meaning of fitness for visitor accommodation](section/6.md)
+      - [s. 7 Fitness for visitor accommodation: general standard](section/7.md)
+      - [s. 8 Fitness for visitor accommodation: specific standards](section/8.md)
+      - [s. 9 Fitness for visitor accommodation: fire safety](section/9.md)
+      - [s. 10 Fitness for visitor accommodation: electrical maintenance](section/10.md)
+      - [s. 11 Fitness for visitor accommodation: gas maintenance](section/11.md)
+      - [s. 12 Fitness for visitor accommodation: carbon monoxide risk](section/12.md)
+      - [s. 13 Fitness for visitor accommodation: insurance](section/13.md)
+  - CHAPTER 2 LICENSING
+    - Licences and licence conditions
+      - [s. 14 Visitor accommodation licences‍](section/14.md)
+      - [s. 15 Licence conditions: general](section/15.md)
+      - [s. 16 Licence conditions: visitor accommodation provider training‍](section/16.md)
+      - [s. 17 Licence conditions: further conditions](section/17.md)
+    - Licence applications: procedure
+      - [s. 18 Licence applications: general](section/18.md)
+      - [s. 19 Licence applications: approval requirements](section/19.md)
+      - [s. 20 Licence applications: determination](section/20.md)
+      - [s. 21 Licence applications: further assessment prior to determination](section/21.md)
+      - [s. 22 Visitor accommodation licence: issue of certificate and statement of information](section/22.md)
+    - Licences: breach, remedy and revocation
+      - [s. 23 Revocation](section/23.md)
+      - [s. 24 Breach of licence conditions: remedial notices‍](section/24.md)
+    - Licences: licence periods, renewal and amendment
+      - [s. 25 Licence periods and renewal of licence](section/25.md)
+      - [s. 26 Amendment of licence](section/26.md)
+    - Licences: provisional licences‍‍
+      - [s. 27 Provisional licences](section/27.md)
+      - [s. 28 Provisional licences: further provision](section/28.md)
+    - Appeals
+      - [s. 29 Licensing appeals](section/29.md)
+    - Enforcement‍
+      - [s. 30 Power of entry and inspection for enforcement purposes](section/30.md)
+      - [s. 31 Warrant to enter and inspect premises for enforcement purposes](section/31.md)
+    - Offences
+      - [s. 32 Regulated visitor accommodation at unlicensed premises: offence](section/32.md)
+      - [s. 33 Offence of wilful obstruction](section/33.md)
+    - Other functions of the Welsh Ministers
+      - [s. 34 Duty to maintain a register in relation to licensing](section/34.md)
+      - [s. 35 Fees in relation to visitor accommodation licences](section/35.md)
+      - [s. 36 Powers to share information](section/36.md)
+      - [s. 37 Specific provision applicable in respect of campsite and caravan site licences](section/37.md)
+  - CHAPTER 3 REGULATED VISITOR ACCOMMODATION: CONTRACT TERMS
+    - Contractual terms and fitness for visitor accommodation
+      - [s. 38 Visitor accommodation contracts](section/38.md)
+      - [s. 39 Contractual obligation to ensure premises fit for visitor accommodation](section/39.md)
+    - Limits on obligation to ensure premises fit for visitor accommodation
+      - [s. 40 Limits on fitness for visitor accommodation duty: visitor’s fault](section/40.md)
+      - [s. 41 Limits on fitness for visitor accommodation duty: knowledge of VAP](section/41.md)
+- PART 4 PROVISION OF INFORMATION TO THE PUBLIC ABOUT VISITOR ACCOMMODATION
+  - Directory of visitor accommodation premises
+    - [s. 42 Visitor accommodation directory](section/42.md)
+  - Advertising and marketing etc.
+    - [s. 43 Requirements relating to advertising and marketing etc.](section/43.md)
+    - [s. 44 Offences relating to advertising and marketing etc. of visitor accommodation](section/44.md)
+- PART 5 MISCELLANEOUS AND GENERAL
+  - CHAPTER 1 MISCELLANEOUS
+    - Application of Act to special cases
+      - [s. 45 Duties and liabilities of partnerships and unincorporated bodies](section/45.md)
+      - [s. 46 Power to make further provision about partnerships and unincorporated bodies](section/46.md)
+      - [s. 47 Offences committed by partnerships and unincorporated bodies](section/47.md)
+      - [s. 48 Criminal liability of senior officers etc.](section/48.md)
+      - [s. 49 Power to make provision about death, incapacity and insolvency](section/49.md)
+      - [s. 50 Power to make provision about transfers of businesses as going concerns etc.](section/50.md)
+      - [s. 51 Power to disapply certain provisions of Act](section/51.md)
+    - Power and offences relating to provision of information
+      - [s. 52 Power to require information](section/52.md)
+      - [s. 53 Offence of failing to comply with an information notice](section/53.md)
+      - [s. 54 Offence of providing false or misleading information](section/54.md)
+    - Offences: penalty notices
+      - [s. 55 Penalty notices](section/55.md)
+  - CHAPTER 2 GENERAL
+    - [s. 56 Guidance issued by the Welsh Ministers](section/56.md)
+    - [s. 57 Power to make consequential, transitional etc. provision](section/57.md)
+    - [s. 58 Review of operation and effect of Act](section/58.md)
+    - [s. 59 Regulations under this Act](section/59.md)
+    - [s. 60 Interpretation and index of defined terms](section/60.md)
+    - [s. 61 Coming into force](section/61.md)
+    - [s. 62 Short title](section/62.md)
+- SCHEDULE 1 AMENDMENTS TO THE DEVELOPMENT OF TOURISM ACT 1969
+  - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+- SCHEDULE 2 AMENDMENTS RELATING TO THE REGISTER OF VISITOR ACCOMMODATION PROVIDERS
+  - [Sch. 2 para. 1 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/6.md)
+  - [Sch. 2 para. 7 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/7.md)
+  - [Sch. 2 para. 8 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/8.md)
+  - [Sch. 2 para. 9 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/9.md)
+  - [Sch. 2 para. 10 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/10.md)
+  - [Sch. 2 para. 11 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/11.md)
+  - [Sch. 2 para. 12 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/12.md)
+  - [Sch. 2 para. 13 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/13.md)
+  - [Sch. 2 para. 14 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/14.md)
+  - [Sch. 2 para. 15 Amendments to the Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](schedule/2/paragraph/15.md)
+  - [Sch. 2 para. 16 Amendments to the Tax Collection and Management (Wales) Act 2016 (anaw 6)](schedule/2/paragraph/16.md)
