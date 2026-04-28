@@ -1,0 +1,861 @@
+# Planning (Wales) Act 2026
+
+asc/2026/6. Enacted 2026-04-27.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 103 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2026/6
+
+Source: https://www.legislation.gov.uk/asc/2026/6/2026-04-28
+
+## Contents
+
+- PART 1 INTRODUCTORY PROVISIONS
+  - CHAPTER 1 INTRODUCTION AND OVERVIEW
+    - [s. 1 Introduction to this Act](section/1.md)
+    - [s. 2 Overview of this Act](section/2.md)
+  - CHAPTER 2 “DEVELOPMENT” AND RELATED DEFINITIONS
+    - [s. 3 Meaning of “development”](section/3.md)
+    - [s. 4 Building, engineering and mining operations](section/4.md)
+    - [s. 5 Uses of land that involve a material change](section/5.md)
+    - [s. 6 Operations and changes in use that are not development](section/6.md)
+  - CHAPTER 3 PLANNING AUTHORITIES
+    - [s. 7 The planning authority for an area](section/7.md)
+    - [s. 8 Power to designate joint planning area and establish joint planning board](section/8.md)
+    - [s. 9 Joint planning areas and National Parks](section/9.md)
+- PART 2 THE DEVELOPMENT PLAN
+  - CHAPTER 1 INTRODUCTORY
+    - [s. 10 Meaning of “the development plan” for an area](section/10.md)
+    - [s. 11 Sustainable development](section/11.md)
+  - CHAPTER 2 NATIONAL DEVELOPMENT FRAMEWORK FOR WALES
+    - [s. 12 Duty to prepare and publish National Development Framework](section/12.md)
+    - [s. 13 Preparation of Framework: statement of public participation](section/13.md)
+    - [s. 14 Procedure for preparation and publication of Framework](section/14.md)
+    - [s. 15 Review and revision of Framework](section/15.md)
+  - CHAPTER 3 STRATEGIC AND LOCAL PLANNING: MAIN FUNCTIONS OF AUTHORITIES
+    - Strategic planning by corporate joint committees
+      - [s. 16 Survey of corporate joint committee’s area](section/16.md)
+      - [s. 17 Duty to prepare strategic development plan](section/17.md)
+    - Local planning by planning authorities
+      - [s. 18 Survey of planning authority’s area](section/18.md)
+      - [s. 19 Duty to prepare local development plan](section/19.md)
+  - CHAPTER 4 STRATEGIC AND LOCAL DEVELOPMENT PLANS: PROCEDURE
+    - Introduction
+      - [s. 20 Meaning of “plan” and “plan-making authority”](section/20.md)
+    - Preparation and adoption of plans
+      - [s. 21 Preparation of plan: procedure and delivery agreement](section/21.md)
+      - [s. 22 Sustainability appraisal](section/22.md)
+      - [s. 23 Independent examination](section/23.md)
+      - [s. 24 Adoption of plan](section/24.md)
+    - Intervention by the Welsh Ministers and withdrawal of plans before adoption
+      - [s. 25 Power to direct authority to modify plan](section/25.md)
+      - [s. 26 Power to direct authority to submit plan for approval](section/26.md)
+      - [s. 27 Power to direct authority to withdraw plan](section/27.md)
+      - [s. 28 Withdrawal of plan in absence of direction](section/28.md)
+      - [s. 29 Default powers of the Welsh Ministers](section/29.md)
+    - Representations about plans
+      - [s. 30 Exclusion of certain representations relating to highways and new towns](section/30.md)
+    - Review, revision, revocation and monitoring of plans after adoption or approval
+      - [s. 31 Duty to consider whether to review plan](section/31.md)
+      - [s. 32 Review of plan](section/32.md)
+      - [s. 33 Revision of plan](section/33.md)
+      - [s. 34 Revocation of plan](section/34.md)
+      - [s. 35 Annual monitoring report](section/35.md)
+    - Joint local development plans
+      - [s. 36 Joint exercise of functions by planning authorities](section/36.md)
+      - [s. 37 End of joint arrangements between planning authorities](section/37.md)
+    - Costs of independent examinations of plans
+      - [s. 38 Power to require plan-making authority to pay costs of independent examination](section/38.md)
+  - CHAPTER 5 GENERAL
+    - [s. 39 Urban development corporations](section/39.md)
+    - [s. 40 Guidance](section/40.md)
+    - [s. 41 Regulations about exercise of functions relating to plans](section/41.md)
+- PART 3 PLANNING PERMISSION
+  - CHAPTER 1 INTRODUCTORY
+    - Overview
+      - [s. 42 Overview of this Part](section/42.md)
+    - Requirement for planning permission
+      - [s. 43 Planning permission required for development](section/43.md)
+  - CHAPTER 2 PLANNING PERMISSION GRANTED BY ORDER
+    - [s. 44 Power of the Welsh Ministers to grant permission by development order](section/44.md)
+    - [s. 45 Power of planning authority to grant permission by local development order](section/45.md)
+    - [s. 46 Completion of development after withdrawal of permission granted by order](section/46.md)
+  - CHAPTER 3 PLANNING PERMISSION GRANTED ON APPLICATION: INTRODUCTORY
+    - [s. 47 Grant of planning permission on application](section/47.md)
+    - [s. 48 Outline planning permission](section/48.md)
+    - [s. 49 Planning permission for development already carried out](section/49.md)
+    - [s. 50 Planning permission for development without complying with previous conditions](section/50.md)
+    - [s. 51 Sustainable development duty](section/51.md)
+  - CHAPTER 4 PRE-APPLICATION PROCEDURE
+    - [s. 52 Requirement for applicant to carry out pre-application consultation and publicity](section/52.md)
+    - [s. 53 Pre-application services provided by planning authority or the Welsh Ministers](section/53.md)
+    - [s. 54 Pre-application services: records and statement of services](section/54.md)
+  - CHAPTER 5 APPLYING FOR PLANNING PERMISSION AND RELATED APPROVALS
+    - Requirements for applications to planning authorities
+      - [s. 55 Application for planning permission to be made to planning authority](section/55.md)
+      - [s. 56 Application for planning permission, approval of reserved matters etc.: general requirements](section/56.md)
+      - [s. 57 Application for planning permission: design and access statement and pre-application consultation report](section/57.md)
+      - [s. 58 Notice of application for planning permission or approval of reserved matters](section/58.md)
+    - Failure to comply with requirements for applications
+      - [s. 59 Planning authority not to consider invalid application](section/59.md)
+      - [s. 60 Planning authority to give notice that application is not valid](section/60.md)
+      - [s. 61 Right to appeal against notice of invalidity](section/61.md)
+      - [s. 62 Determination of appeal against notice](section/62.md)
+  - CHAPTER 6 DEALING WITH APPLICATIONS
+    - Procedure for dealing with applications
+      - [s. 63 Procedure for dealing with applications: general](section/63.md)
+      - [s. 64 Requirement to respond to consultation](section/64.md)
+      - [s. 65 Notifying community councils of applications](section/65.md)
+    - Determination of applications and conditions of planning permission
+      - [s. 66 General considerations relevant to determination of applications](section/66.md)
+      - [s. 67 Grant or refusal of planning permission and imposition of conditions](section/67.md)
+      - [s. 68 Determining applications to develop without compliance with previous conditions](section/68.md)
+      - [s. 69 Decision notices](section/69.md)
+    - Cases where planning authorities do not deal with applications made to them
+      - [s. 70 Power to refuse to consider similar applications](section/70.md)
+      - [s. 71 Power to refuse to consider application made after issue of enforcement notice](section/71.md)
+      - [s. 72 Reference of application to the Welsh Ministers](section/72.md)
+    - Appeals to the Welsh Ministers
+      - [s. 73 Right to appeal against planning authority decision or failure to make decision](section/73.md)
+      - [s. 74 Procedure for making appeal](section/74.md)
+      - [s. 75 Restriction on varying application after service of notice of appeal](section/75.md)
+      - [s. 76 Decision on application after service of notice of appeal](section/76.md)
+      - [s. 77 Determination of appeal](section/77.md)
+  - CHAPTER 7 APPLICATIONS FOR PLANNING PERMISSION AND RELATED APPROVALS: SPECIAL CASES
+    - Optional applications to the Welsh Ministers
+      - [s. 78 Option to make application to the Welsh Ministers](section/78.md)
+      - [s. 79 Designation of planning authority for the purposes of section 78](section/79.md)
+      - [s. 80 Option to make application to the Welsh Ministers: connected applications](section/80.md)
+      - [s. 81 Powers to impose requirements in relation to applications to the Welsh Ministers](section/81.md)
+      - [s. 82 Procedure for dealing with planning applications made to the Welsh Ministers](section/82.md)
+      - [s. 83 Pre-application services and determination of applications: functions of inspectors](section/83.md)
+    - The Crown
+      - [s. 84 Applications by the Crown](section/84.md)
+      - [s. 85 Applications relating to urgent Crown development](section/85.md)
+    - Combination of applications
+      - [s. 86 Combination of applications for planning permission with other applications](section/86.md)
+  - CHAPTER 8 PLANNING PERMISSION FOR DEVELOPMENT WITH GOVERNMENT AUTHORISATION
+    - [s. 87 Authorisation for development by local authorities and statutory undertakers](section/87.md)
+    - [s. 88 Consent for electricity generating stations and electric lines](section/88.md)
+    - [s. 89 Orders under the Transport and Works Act 1992](section/89.md)
+    - [s. 90 Application of this Act to planning permission granted under this Chapter](section/90.md)
+  - CHAPTER 9 EFFECT, DURATION AND IMPLEMENTATION OF PLANNING PERMISSION
+    - Effect of planning permission
+      - [s. 91 Benefit of planning permission](section/91.md)
+      - [s. 92 Permission to erect a building: purposes for which building may be used](section/92.md)
+    - Duration of planning permission
+      - [s. 93 Condition about period within which development must start](section/93.md)
+      - [s. 94 Conditions of outline planning permission](section/94.md)
+      - [s. 95 Breach of condition about period within which development must start etc.](section/95.md)
+      - [s. 96 Duration of minerals permission](section/96.md)
+    - Implementation of planning permission
+      - [s. 97 Notice of starting and carrying out development](section/97.md)
+    - Termination of planning permission where development has not been completed
+      - [s. 98 Power to make termination order](section/98.md)
+    - Interpretation
+      - [s. 99 Time when development starts](section/99.md)
+  - CHAPTER 10 CHANGES TO PLANNING PERMISSION
+    - Non-material changes to planning permission
+      - [s. 100 Power of planning authority to make non-material change to planning permission](section/100.md)
+      - [s. 101 Further provision about applications for non-material changes](section/101.md)
+    - Modification and revocation of planning permission
+      - [s. 102 Power to make order modifying or revoking planning permission](section/102.md)
+    - Reviews of planning permission for minerals development
+      - [s. 103 Giving effect to minerals permissions relating to dormant sites](section/103.md)
+      - [s. 104 Periodic review of minerals permissions](section/104.md)
+  - CHAPTER 11 COMPENSATION AND PURCHASE OF INTERESTS IN LAND
+    - Compensation for changes to planning permission
+      - [s. 105 Compensation for refusal or conditional grant of planning permission previously granted by order](section/105.md)
+      - [s. 106 Compensation where planning permission is modified or revoked](section/106.md)
+      - [s. 107 Compensation for changes to planning permission: supplementary provision](section/107.md)
+      - [s. 108 Apportionment and recovery of compensation for depreciation](section/108.md)
+      - [s. 109 Compensation for changes to planning permission for minerals development](section/109.md)
+    - Right to require purchase of interest in land
+      - [s. 110 Service of purchase notice where planning permission is refused, revoked or made conditional](section/110.md)
+  - CHAPTER 12 REGISTER
+    - [s. 111 Register of local development orders, planning applications etc.](section/111.md)
+- PART 4 ENFORCEMENT
+  - Introductory
+    - [s. 112 Expressions used in connection with enforcement](section/112.md)
+    - [s. 113 Time limits for taking enforcement action](section/113.md)
+  - Investigatory powers
+    - [s. 114 Power of planning authority to serve enforcement investigation notice](section/114.md)
+    - [s. 115 Offence of failing to comply with enforcement investigation notice](section/115.md)
+    - [s. 116 Powers to enter land for enforcement purposes](section/116.md)
+    - [s. 117 Warrant to enter land](section/117.md)
+    - [s. 118 Supplementary provision about powers of entry](section/118.md)
+  - Enforcement warning notices
+    - [s. 119 Power of planning authority to issue enforcement warning notice](section/119.md)
+  - Temporary stop notices
+    - [s. 120 Power of planning authority to issue temporary stop notice](section/120.md)
+    - [s. 121 Restrictions on power to issue temporary stop notice](section/121.md)
+    - [s. 122 Duration etc. of temporary stop notice](section/122.md)
+    - [s. 123 Offence of breaching temporary stop notice](section/123.md)
+    - [s. 124 Compensation for loss or damage caused by temporary stop notice](section/124.md)
+  - Breach of condition notices
+    - [s. 125 Power of planning authority to serve breach of condition notice](section/125.md)
+    - [s. 126 Offence of failing to comply with breach of condition notice](section/126.md)
+    - [s. 127 Effect of grant of planning permission or removal of condition on breach of condition notice](section/127.md)
+  - Enforcement notices
+    - [s. 128 Power of planning authority to issue enforcement notice](section/128.md)
+    - [s. 129 Service, taking effect etc. of enforcement notice](section/129.md)
+    - [s. 130 Variation and withdrawal of enforcement notice](section/130.md)
+  - Appeals against enforcement notices
+    - [s. 131 Right to appeal against enforcement notice](section/131.md)
+    - [s. 132 Determination of appeal: general](section/132.md)
+    - [s. 133 Grant of planning permission etc. on determination of appeal](section/133.md)
+    - [s. 134 Issue of certificate of lawfulness on determination of appeal](section/134.md)
+  - Compliance with enforcement notices
+    - [s. 135 Order to permit steps required by enforcement notice](section/135.md)
+    - [s. 136 Power to enter land and take steps required by enforcement notice](section/136.md)
+    - [s. 137 Recovery of costs of compliance with enforcement notice](section/137.md)
+    - [s. 138 Offences of failing to comply with enforcement notice](section/138.md)
+    - [s. 139 Assurance that person is not at risk of prosecution for offence under section 138](section/139.md)
+  - Further provisions about effect of enforcement notices
+    - [s. 140 Grounds for appeal not to be raised in other proceedings](section/140.md)
+    - [s. 141 Effect of grant of planning permission on enforcement notice](section/141.md)
+    - [s. 142 Deemed planning permission where enforcement notice is complied with](section/142.md)
+    - [s. 143 Continuing effect of enforcement notice in relation to later development](section/143.md)
+  - Enforcement by the Welsh Ministers
+    - [s. 144 Power of the Welsh Ministers to issue enforcement notice](section/144.md)
+  - Stop notices
+    - [s. 145 Power of planning authority to issue stop notice](section/145.md)
+    - [s. 146 Restrictions on power to issue stop notice](section/146.md)
+    - [s. 147 Service and display of stop notice](section/147.md)
+    - [s. 148 Withdrawal of stop notice](section/148.md)
+    - [s. 149 Duration and effect of stop notice](section/149.md)
+    - [s. 150 Power of the Welsh Ministers to issue stop notice](section/150.md)
+    - [s. 151 Offence of breaching stop notice](section/151.md)
+    - [s. 152 Compensation for loss or damage caused by stop notice](section/152.md)
+  - Injunctions
+    - [s. 153 Injunctions restraining breaches of planning control](section/153.md)
+  - Register
+    - [s. 154 Register of enforcement notices, other enforcement action and stop notices](section/154.md)
+- PART 5 CERTIFICATES OF LAWFULNESS
+  - [s. 155 Expressions relating to lawfulness](section/155.md)
+  - [s. 156 Certificate of lawfulness of existing use or development](section/156.md)
+  - [s. 157 Certificate of lawfulness of proposed use or development](section/157.md)
+  - [s. 158 Further provision about applications for certificates of lawfulness](section/158.md)
+  - [s. 159 Further provision about certificates of lawfulness](section/159.md)
+  - [s. 160 Right to appeal against refusal of application or failure to make decision](section/160.md)
+  - [s. 161 Restriction on varying application after service of notice of appeal](section/161.md)
+  - [s. 162 Determination of appeal](section/162.md)
+  - [s. 163 Revocation of certificate of lawfulness](section/163.md)
+  - [s. 164 Offence of making false statement etc. to influence outcome of application or appeal](section/164.md)
+- PART 6 OBLIGATIONS RELATING TO DEVELOPMENT AND USE OF LAND
+  - CHAPTER 1 PLANNING OBLIGATIONS
+    - [s. 165 Planning obligations](section/165.md)
+    - [s. 166 Enforcement of planning obligations](section/166.md)
+    - [s. 167 Modification and discharge of planning obligations](section/167.md)
+    - [s. 168 Appeals relating to applications to modify or discharge planning obligations](section/168.md)
+    - [s. 169 Legal challenges relating to applications made to the Welsh Ministers or Secretary of State](section/169.md)
+    - [s. 170 Interpretation of this Chapter](section/170.md)
+  - CHAPTER 2 COMMUNITY INFRASTRUCTURE LEVY
+    - The levy
+      - [s. 171 CIL regulations](section/171.md)
+      - [s. 172 Charging for development](section/172.md)
+      - [s. 173 Use of CIL: funding infrastructure](section/173.md)
+    - Liability for CIL
+      - [s. 174 Terms relating to liability](section/174.md)
+      - [s. 175 Assuming liability](section/175.md)
+      - [s. 176 Default liability for CIL](section/176.md)
+      - [s. 177 Time when liability arises](section/177.md)
+      - [s. 178 Liability in other cases](section/178.md)
+      - [s. 179 Further provision about liability for CIL](section/179.md)
+    - Exemptions and reductions
+      - [s. 180 Exemptions and reductions: general](section/180.md)
+      - [s. 181 Charities: exemption from liability](section/181.md)
+      - [s. 182 Exemptions and reductions: procedure](section/182.md)
+    - Amount of CIL
+      - [s. 183 Charging schedule](section/183.md)
+      - [s. 184 Estimate of amount](section/184.md)
+      - [s. 185 Appeals relating to calculation of CIL](section/185.md)
+    - Collection of CIL
+      - [s. 186 Collection and payment of CIL](section/186.md)
+    - Enforcement of CIL
+      - [s. 187 Enforcement: general](section/187.md)
+      - [s. 188 Consequences of failure to comply](section/188.md)
+      - [s. 189 Interest and penalties](section/189.md)
+      - [s. 190 Power to stop development](section/190.md)
+      - [s. 191 Powers of entry](section/191.md)
+      - [s. 192 Offences](section/192.md)
+      - [s. 193 Registration or notification of liability](section/193.md)
+    - Compensation
+      - [s. 194 Compensation: loss or damage as a result of enforcement action](section/194.md)
+    - Use of CIL payments
+      - [s. 195 Funding by CIL](section/195.md)
+      - [s. 196 CIL funding: lists](section/196.md)
+      - [s. 197 Duty to pass CIL to other persons](section/197.md)
+      - [s. 198 Duty to pass on CIL: further provision](section/198.md)
+      - [s. 199 Use of CIL in area to which duty to pass on CIL does not apply](section/199.md)
+    - Reviews and appeals
+      - [s. 200 Reviews and appeals](section/200.md)
+    - Procedure
+      - [s. 201 Power to make further provision about procedures](section/201.md)
+    - Guidance
+      - [s. 202 Guidance](section/202.md)
+    - Relationship with other powers
+      - [s. 203 Relationship with other powers](section/203.md)
+    - General
+      - [s. 204 CIL regulations: general](section/204.md)
+      - [s. 205 Interpretation of this Chapter](section/205.md)
+- PART 7 OTHER POWERS RELATING TO USE OR CONDITION OF LAND
+  - CHAPTER 1 POWERS TO REQUIRE DISCONTINUANCE OF USE OF LAND ETC.
+    - Discontinuance orders
+      - [s. 206 Power to make discontinuance order](section/206.md)
+      - [s. 207 Planning permission granted by discontinuance order](section/207.md)
+    - Prohibition orders and protection orders
+      - [s. 208 Power to make prohibition order or protection order](section/208.md)
+    - Enforcement of orders
+      - [s. 209 Powers to enter land, take steps required by order and recover costs](section/209.md)
+      - [s. 210 Offence of failing to comply with order](section/210.md)
+    - Compensation and purchase of interests in land
+      - [s. 211 Compensation for damage caused by discontinuance order](section/211.md)
+      - [s. 212 Compensation for effects of orders relating to minerals](section/212.md)
+      - [s. 213 Service of purchase notice following making of discontinuance order](section/213.md)
+  - CHAPTER 2 LAND ADVERSELY AFFECTING AMENITY OF NEIGHBOURHOOD
+    - Maintenance of land notices
+      - [s. 214 Power of planning authority to issue maintenance of land notice](section/214.md)
+    - Appeals against maintenance of land notices
+      - [s. 215 Right to appeal against maintenance of land notice](section/215.md)
+      - [s. 216 Determination of appeal](section/216.md)
+      - [s. 217 Grounds for appeal not to be raised in other proceedings](section/217.md)
+    - Enforcement of maintenance of land notices
+      - [s. 218 Order to permit steps required by maintenance of land notice](section/218.md)
+      - [s. 219 Powers to enter land, take steps required by maintenance of land notice and recover costs](section/219.md)
+      - [s. 220 Offence of failing to comply with maintenance of land notice](section/220.md)
+- PART 8 CONTROL OF ADVERTISEMENTS
+  - Control of advertisements regulations
+    - [s. 221 Control of advertisements regulations](section/221.md)
+    - [s. 222 Consent for the display of advertisements](section/222.md)
+    - [s. 223 Restricting the display of advertisements where express consent is not ordinarily required](section/223.md)
+    - [s. 224 Appeals](section/224.md)
+    - [s. 225 Changing or revoking consent](section/225.md)
+    - [s. 226 Compensation](section/226.md)
+    - [s. 227 Control of advertisements regulations: supplementary](section/227.md)
+    - [s. 228 Power to make different provision for different areas, including areas of special control](section/228.md)
+  - Deemed planning permission for display of advertisements
+    - [s. 229 Deemed planning permission for advertisements displayed in accordance with regulations](section/229.md)
+  - Enforcement of regulations
+    - [s. 230 Offence of displaying advertisement in breach of regulations](section/230.md)
+    - [s. 231 Power to remove or obliterate placard and poster](section/231.md)
+    - [s. 232 Compensation for damage caused in removing or obliterating placard or poster](section/232.md)
+- PART 9 PRESERVATION OF TREES AND WOODLANDS
+  - CHAPTER 1 TREE PRESERVATION ORDERS AND WOODLAND PRESERVATION ORDERS ETC.
+    - General duty of planning authorities
+      - [s. 233 Planning permission to include provision for preservation and planting of trees](section/233.md)
+    - Tree preservation orders and woodland preservation orders
+      - [s. 234 Power of planning authority to make tree preservation order](section/234.md)
+      - [s. 235 Power of planning authority to make woodland preservation order](section/235.md)
+      - [s. 236 Power of the Welsh Ministers to make tree preservation orders and woodland preservation orders](section/236.md)
+    - Tree preservation regulations
+      - [s. 237 Tree preservation regulations: general](section/237.md)
+      - [s. 238 Interests of amenity: factors to be taken into account](section/238.md)
+      - [s. 239 Making, varying or revoking tree preservation orders and woodland preservation orders](section/239.md)
+      - [s. 240 Activities that may be prohibited](section/240.md)
+      - [s. 241 Consent for prohibited activities and appeals](section/241.md)
+      - [s. 242 Compensation](section/242.md)
+      - [s. 243 Registers of information relating to tree preservation orders and woodland preservation orders](section/243.md)
+      - [s. 244 Tree preservation regulations: restriction relating to felling licences under the Forestry Act 1967](section/244.md)
+    - Replacement of trees
+      - [s. 245 Replacement of trees: tree preservation orders](section/245.md)
+      - [s. 246 Replacement of trees: woodland preservation orders](section/246.md)
+  - CHAPTER 2 TREES IN CONSERVATION AREAS
+    - [s. 247 Preservation of trees in conservation areas](section/247.md)
+    - [s. 248 Replacement of trees in conservation areas](section/248.md)
+    - [s. 249 Register of notices of intention to carry out works](section/249.md)
+  - CHAPTER 3 ENFORCEMENT
+    - Enforcement of prohibition on works
+      - [s. 250 Offences of breaching tree preservation provisions](section/250.md)
+      - [s. 251 Injunction restraining breach of tree preservation provisions](section/251.md)
+    - Enforcement of requirement to replace trees
+      - [s. 252 Power of planning authority to issue tree replacement notice](section/252.md)
+      - [s. 253 Variation of tree replacement notice](section/253.md)
+      - [s. 254 Right to appeal against tree replacement notice](section/254.md)
+      - [s. 255 Determination of appeal](section/255.md)
+      - [s. 256 Order to permit trees to be planted](section/256.md)
+      - [s. 257 Power to enter land and plant trees](section/257.md)
+      - [s. 258 Recovery of costs of planting trees](section/258.md)
+    - Powers of entry
+      - [s. 259 Powers to enter land without warrant](section/259.md)
+      - [s. 260 Warrant to enter land](section/260.md)
+      - [s. 261 Supplementary provisions about powers of entry](section/261.md)
+- PART 10 ACQUISITION AND APPROPRIATION OF LAND FOR PLANNING PURPOSES ETC.
+  - Powers of relevant local authority to acquire land for planning purposes
+    - [s. 262 Acquisition of land by agreement for planning purposes](section/262.md)
+    - [s. 263 Compulsory acquisition of land for planning purposes](section/263.md)
+  - Power of local authority to appropriate land forming part of common or allotment
+    - [s. 264 Appropriation of land forming part of common or allotment for another purpose](section/264.md)
+  - Appropriation, disposal and development of land held by local authority for planning purposes
+    - [s. 265 Land to which sections 266 to 268 apply](section/265.md)
+    - [s. 266 Appropriation of land held for planning purposes](section/266.md)
+    - [s. 267 Disposal of land held for planning purposes](section/267.md)
+    - [s. 268 Development and use of land held for planning purposes](section/268.md)
+  - Removal of restrictions on obtaining possession of dwellings
+    - [s. 269 Power of local authority to obtain possession of dwellings let under certain tenancies](section/269.md)
+  - Joint body to hold land acquired by local authority for planning purposes
+    - [s. 270 Power of the Welsh Ministers to establish joint body to hold land acquired for planning purposes](section/270.md)
+  - Acquisition and disposal of land by the Welsh Ministers
+    - [s. 271 Compulsory acquisition of land by the Welsh Ministers](section/271.md)
+    - [s. 272 Disposal of land acquired under section 271](section/272.md)
+  - Ending of certain rights on compulsory acquisition of land
+    - [s. 273 Ending of rights relating to land acquired compulsorily under this Part](section/273.md)
+  - Removal of restrictions on use of open spaces, burial grounds etc.
+    - [s. 274 Meaning of “relevant acquisition” and “relevant appropriation”](section/274.md)
+    - [s. 275 Development and use of commons, open spaces and allotments](section/275.md)
+    - [s. 276 Development and use of burial grounds](section/276.md)
+    - [s. 277 Development and use of land connected to religious worship other than burial grounds](section/277.md)
+    - [s. 278 Further provision about regulations under sections 276 and 277](section/278.md)
+  - General
+    - [s. 279 Interpretation of this Part](section/279.md)
+- PART 11 HIGHWAYS
+  - CHAPTER 1 HIGHWAYS AFFECTED BY DEVELOPMENT
+    - Stopping up and diversion of highways: powers of the Welsh Ministers
+      - [s. 280 Stopping up or diversion of highway to enable development](section/280.md)
+      - [s. 281 Stopping up or diversion of highway crossing or entering route of new highway](section/281.md)
+      - [s. 282 Procedure before grant of planning permission](section/282.md)
+      - [s. 283 Further provision about orders under sections 280 and 281](section/283.md)
+      - [s. 284 Orders under section 281: stopping up of private means of access](section/284.md)
+      - [s. 285 Compensation where private means of access is stopped up](section/285.md)
+    - Pedestrianisation of highways: powers of the Welsh Ministers
+      - [s. 286 Pedestrianisation of highway to improve amenity](section/286.md)
+      - [s. 287 Revocation of order for pedestrianisation of highway](section/287.md)
+      - [s. 288 Further provision about orders under sections 286 and 287](section/288.md)
+      - [s. 289 Compensation where highway is pedestrianised](section/289.md)
+    - Further powers where orders are made by the Welsh Ministers
+      - [s. 290 Compulsory acquisition of land in connection with order](section/290.md)
+      - [s. 291 Ending of rights of statutory undertakers and network operators](section/291.md)
+      - [s. 292 Electronic communications apparatus affected by order](section/292.md)
+    - Stopping up or diversion of public paths: powers of planning authorities
+      - [s. 293 Stopping up or diversion of public path to enable development](section/293.md)
+      - [s. 294 Confirmation of order made by planning authority](section/294.md)
+      - [s. 295 Electronic communications apparatus affected by order](section/295.md)
+    - Mineral working: temporary orders
+      - [s. 296 Temporary stopping up or diversion for surface working of minerals](section/296.md)
+  - CHAPTER 2 ENDING RIGHTS OF WAY OVER LAND HELD FOR PLANNING PURPOSES
+    - Powers of the Welsh Ministers
+      - [s. 297 Power of the Welsh Ministers to end right of way over land held for planning purposes](section/297.md)
+      - [s. 298 Compulsory acquisition of land to provide alternative right of way](section/298.md)
+      - [s. 299 Concurrent proceedings relating to orders and acquisitions](section/299.md)
+    - Powers of local authorities
+      - [s. 300 Power of local authority to end right of way over public path on land held for planning purposes](section/300.md)
+    - Electronic communications apparatus
+      - [s. 301 Electronic communications apparatus affected by order](section/301.md)
+  - CHAPTER 3 GENERAL
+    - [s. 302 Interpretation of this Part](section/302.md)
+- PART 12 STATUTORY UNDERTAKERS ETC.
+  - Interpretation of terms relating to statutory undertakers
+    - [s. 303 Meaning of “statutory undertaker” and “statutory undertaking”](section/303.md)
+    - [s. 304 Meaning of “operational land”: statutory undertakers generally](section/304.md)
+    - [s. 305 Meaning of “operational land”: Civil Aviation Authority and air traffic licensees](section/305.md)
+    - [s. 306 Meaning of “operational land”: universal postal service providers](section/306.md)
+    - [s. 307 Meaning of “operational land”: supplementary provision](section/307.md)
+    - [s. 308 Meaning of “the appropriate Minister” etc.](section/308.md)
+  - Development and use of land of statutory undertakers
+    - [s. 309 Applications for planning permission by statutory undertakers](section/309.md)
+    - [s. 310 Conditional grant of planning permission](section/310.md)
+    - [s. 311 Modification or revocation of planning permission](section/311.md)
+    - [s. 312 Discontinuance orders, prohibition orders and protection orders](section/312.md)
+    - [s. 313 Display of advertisements on operational land](section/313.md)
+  - Statutory undertakers and network operators: ending of rights and removal of apparatus
+    - [s. 314 Removal notices: ending rights over land etc. of statutory undertakers and network operators](section/314.md)
+    - [s. 315 Removal notices: withdrawal or taking effect](section/315.md)
+    - [s. 316 Powers of statutory undertakers or network operators to enter land to remove or re-site apparatus](section/316.md)
+  - Extending or modifying statutory undertakers’ functions
+    - [s. 317 Orders to extend or modify statutory undertakers’ functions](section/317.md)
+  - Relieving statutory undertakers of impracticable obligations
+    - [s. 318 Orders to relieve statutory undertakers of impracticable obligations](section/318.md)
+  - Compensation
+    - [s. 319 Right to compensation for effects of certain planning decisions and orders](section/319.md)
+    - [s. 320 Rights to compensation for ending rights over land etc.](section/320.md)
+    - [s. 321 Assessing compensation](section/321.md)
+    - [s. 322 Statutory undertakers’ power to exclude section 321](section/322.md)
+- PART 13 BLIGHTED LAND
+  - Key terms
+    - [s. 323 Key terms](section/323.md)
+  - Blight notices
+    - [s. 324 Notice requiring purchase of blighted land](section/324.md)
+  - Counter-notices
+    - [s. 325 Counter-notice objecting to blight notice](section/325.md)
+    - [s. 326 Grounds of objection to a blight notice](section/326.md)
+    - [s. 327 Grounds of objection: further provision](section/327.md)
+    - [s. 328 Further counter-notice where certain proposals come into force](section/328.md)
+    - [s. 329 Reference of objection to Upper Tribunal: general](section/329.md)
+    - [s. 330 Effect of objection where no reference is made to Upper Tribunal](section/330.md)
+  - Blight notices where no objection or where upheld by the Upper Tribunal
+    - [s. 331 Effect of blight notice](section/331.md)
+    - [s. 332 Blight notice in respect of part of hereditament or unit](section/332.md)
+  - Effect of Grounds 2, 3 and 4 on compulsory acquisition powers
+    - [s. 333 Effect on powers of compulsory acquisition where no intention to acquire](section/333.md)
+    - [s. 334 Effect on powers of compulsory acquisition where intention to acquire part](section/334.md)
+  - Blight notice requiring purchase of unaffected area of agricultural unit
+    - [s. 335 Requirement to purchase parts of agricultural units unaffected by blight](section/335.md)
+    - [s. 336 Additional ground of objection to blight notice including requirement to purchase unaffected area](section/336.md)
+    - [s. 337 Upper Tribunal: objection to blight notice including requirement to purchase unaffected area](section/337.md)
+    - [s. 338 Effect of blight notice including requirement to purchase unaffected area](section/338.md)
+    - [s. 339 Effect of blight notice where claim in respect of unaffected area withdrawn or rejected](section/339.md)
+    - [s. 340 Effect of blight notice where claim in respect of unaffected area and part of affected area withdrawn or rejected](section/340.md)
+  - Withdrawal of blight notice
+    - [s. 341 Withdrawal of blight notice](section/341.md)
+  - Compensation: special cases
+    - [s. 342 Compensation: cases where prospect of planning permission to be ignored](section/342.md)
+    - [s. 343 Compensation: listed buildings in need of repair](section/343.md)
+    - [s. 344 Compensation: blight notice including claim in respect of unaffected area](section/344.md)
+  - Personal representatives
+    - [s. 345 Powers of personal representatives in respect of blight notice served before death](section/345.md)
+    - [s. 346 Power of personal representative to serve blight notice](section/346.md)
+    - [s. 347 Grounds of objection to blight notice served by personal representative](section/347.md)
+  - Mortgagees
+    - [s. 348 Power of mortgagee to serve blight notice](section/348.md)
+    - [s. 349 Grounds of objection to blight notice served by mortgagee](section/349.md)
+  - Prohibition on simultaneous blight notices
+    - [s. 350 Prohibition on service of simultaneous notices under sections 324, 346 and 348](section/350.md)
+  - Partnerships
+    - [s. 351 Partnerships: special provision](section/351.md)
+  - Powers to acquire land where blight notice served
+    - [s. 352 Power of the Welsh Ministers to acquire land identified by National Development Framework for Wales](section/352.md)
+    - [s. 353 Power of the Welsh Ministers to acquire land affected by order relating to new town](section/353.md)
+    - [s. 354 Power of the Welsh Ministers to acquire land affected by order relating to urban development area](section/354.md)
+    - [s. 355 Power of the Welsh Ministers to acquire land identified in infrastructure policy statement](section/355.md)
+    - [s. 356 Power of the Secretary of State to acquire land identified in national policy statement](section/356.md)
+  - Miscellaneous and supplementary provisions
+    - [s. 357 No withdrawal of notice to treat deemed to have been served under this Part](section/357.md)
+    - [s. 358 Assistance to acquire property where objection on Ground 4](section/358.md)
+  - Interpretation
+    - [s. 359 Interpretation of this Part](section/359.md)
+- PART 14 ADMINISTRATION AND VALIDITY
+  - CHAPTER 1 EXERCISE OF FUNCTIONS OF PLANNING AUTHORITIES
+    - Fees and charges
+      - [s. 360 Fees and charges for exercise of functions by planning authorities](section/360.md)
+    - Arrangements for exercise of functions relating to applications
+      - [s. 361 Power to require functions to be exercised by committees, sub-committees or officers](section/361.md)
+      - [s. 362 Size and composition of committees to exercise functions](section/362.md)
+      - [s. 363 Arrangements for exercise of functions: supplementary](section/363.md)
+  - CHAPTER 2 PROCEEDINGS BEFORE THE WELSH MINISTERS
+    - Fees and charges
+      - [s. 364 Fees and charges for applications and appeals to the Welsh Ministers](section/364.md)
+    - Procedural provisions applying to proceedings before the Welsh Ministers
+      - [s. 365 Determination of appeal by inspector](section/365.md)
+      - [s. 366 Choice of inquiry, hearing or written procedure for appeals and applications](section/366.md)
+      - [s. 367 Procedural requirements for appeals, applications and other proceedings](section/367.md)
+    - Local inquiries
+      - [s. 368 Power of the Welsh Ministers to hold local inquiry](section/368.md)
+      - [s. 369 Power of person holding inquiry to require evidence](section/369.md)
+      - [s. 370 Access to evidence at inquiry](section/370.md)
+      - [s. 371 Payment of appointed representative where access to evidence restricted](section/371.md)
+    - Costs of proceedings before the Welsh Ministers
+      - [s. 372 Payment of costs of the Welsh Ministers](section/372.md)
+      - [s. 373 Orders relating to costs of parties](section/373.md)
+  - CHAPTER 3 VALIDITY OF PLANS, DECISIONS AND ORDERS
+    - Review by High Court of plans, decisions and orders
+      - [s. 374 Statutory review of development plans](section/374.md)
+      - [s. 375 Validity of certain decisions and orders](section/375.md)
+      - [s. 376 Application for statutory review of decision or order](section/376.md)
+      - [s. 377 Statutory review of orders relating to highways and statutory undertakers](section/377.md)
+    - Appeals to High Court against decisions relating to certain notices
+      - [s. 378 Appeal against decision relating to enforcement notice](section/378.md)
+      - [s. 379 Appeal against decision relating to maintenance of land notice or tree replacement notice](section/379.md)
+  - CHAPTER 4 CORRECTION OF DECISIONS OF THE WELSH MINISTERS
+    - [s. 380 Meaning of “decision document” and “correctable error”](section/380.md)
+    - [s. 381 Power to correct correctable errors in decision documents](section/381.md)
+    - [s. 382 Effect and validity of correction notice](section/382.md)
+- PART 15 GENERAL
+  - Powers to require information about interests in land
+    - [s. 383 Power to serve information notice](section/383.md)
+    - [s. 384 Offences of failing to comply with information notice](section/384.md)
+    - [s. 385 Information about interests in Crown land](section/385.md)
+  - Powers of entry
+    - [s. 386 Powers to enter land](section/386.md)
+    - [s. 387 Powers of entry: scope and restrictions](section/387.md)
+    - [s. 388 Powers of entry: offences and compensation](section/388.md)
+    - [s. 389 Powers to enter Crown land](section/389.md)
+  - Offences
+    - [s. 390 Offences by bodies corporate](section/390.md)
+  - Compensation
+    - [s. 391 Making claims for compensation](section/391.md)
+    - [s. 392 Determination of compensation claims by Upper Tribunal](section/392.md)
+    - [s. 393 Compensation for depreciation of value of land](section/393.md)
+    - [s. 394 Power to modify compensation provisions in relation to minerals](section/394.md)
+  - Financial contributions
+    - [s. 395 Contributions towards costs incurred by authorities](section/395.md)
+  - Forms
+    - [s. 396 Form of local authority documents](section/396.md)
+    - [s. 397 Powers to make provision about forms for applications and appeals](section/397.md)
+  - Service of documents
+    - [s. 398 Service of notices and other documents: general](section/398.md)
+    - [s. 399 Service of documents on persons having an interest in land or occupying land](section/399.md)
+    - [s. 400 Service of documents on the Crown](section/400.md)
+  - The Crown
+    - [s. 401 Definitions relating to the Crown](section/401.md)
+    - [s. 402 Representation of Crown and Duchy interests in land](section/402.md)
+    - [s. 403 Enforcement steps in relation to Crown land](section/403.md)
+  - Other special cases
+    - [s. 404 Listed buildings and features of special architectural or historical interest](section/404.md)
+    - [s. 405 Development by, and land of, planning authorities and the Welsh Ministers](section/405.md)
+    - [s. 406 Church of England land](section/406.md)
+  - General
+    - [s. 407 Regulations](section/407.md)
+    - [s. 408 Interpretation](section/408.md)
+    - [s. 409 Coming into force](section/409.md)
+    - [s. 410 Short title](section/410.md)
+- SCHEDULE 1 LOCAL DEVELOPMENT ORDERS
+  - [Sch. 1 para. 1 Preparation of order](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Power of the Welsh Ministers to direct authority to modify order before adoption](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Power to direct authority to submit order for approval](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Revision of order after adoption](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Revocation of order](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Annual monitoring report](schedule/1/paragraph/6.md)
+  - [Sch. 1 para. 7 Regulations](schedule/1/paragraph/7.md)
+- SCHEDULE 2 APPEALS UNDER SECTION 61: DETERMINATION BY INSPECTORS
+  - [Sch. 2 para. 1 Powers and duties of inspector](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Replacement of inspector](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Direction that appeal is to be determined by the Welsh Ministers](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Revocation of direction](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Supplementary](schedule/2/paragraph/5.md)
+- SCHEDULE 3 CONDITIONS RELATING TO MINING OPERATIONS AND DEPOSITING OF WASTE
+  - [Sch. 3 para. 1 Power to grant permission subject to aftercare conditions](schedule/3/paragraph/1.md)
+  - [Sch. 3 para. 2 Meaning of “required standard” for use specified in aftercare condition](schedule/3/paragraph/2.md)
+  - [Sch. 3 para. 3 Consultation on aftercare condition that specifies use for agriculture or for growing timber](schedule/3/paragraph/3.md)
+  - [Sch. 3 para. 4 Certificate of compliance with aftercare condition](schedule/3/paragraph/4.md)
+  - [Sch. 3 para. 5 Recovery of costs of compliance](schedule/3/paragraph/5.md)
+- SCHEDULE 4 APPLICATIONS TO THE WELSH MINISTERS: EXERCISE OF FUNCTIONS BY INSPECTORS
+  - PART 1 PROVISION OF PRE-APPLICATION SERVICES BY INSPECTOR
+    - [Sch. 4 para. 1 Replacement of inspector](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Service of direction that functions are to be exercised by the Welsh Ministers](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3 Revocation of direction](schedule/4/paragraph/3.md)
+  - PART 2 DETERMINATION OF APPLICATION BY INSPECTOR
+    - [Sch. 4 para. 4 Powers and duties of inspector](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5 Local inquiry, hearing or written representations](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6 Replacement of inspector](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7 Direction that application is to be determined by the Welsh Ministers](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8 Revocation of direction](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9 Supplementary](schedule/4/paragraph/9.md)
+- SCHEDULE 5 CONDITION LIMITING DURATION OF MINERALS PERMISSION
+  - [Sch. 5 para. 1 Permission granted on or after 22 February 1982](schedule/5/paragraph/1.md)
+  - [Sch. 5 para. 2 Permission granted before 22 February 1982](schedule/5/paragraph/2.md)
+  - [Sch. 5 para. 3 General](schedule/5/paragraph/3.md)
+- SCHEDULE 6 TERMINATION ORDERS
+  - PART 1 PROCEDURE FOR ORDERS MADE BY PLANNING AUTHORITIES
+    - [Sch. 6 para. 1 Requirement for confirmation by the Welsh Ministers](schedule/6/paragraph/1.md)
+  - PART 2 PROCEDURE FOR ORDERS MADE BY THE WELSH MINISTERS
+    - [Sch. 6 para. 2 Consultation and notification before making order](schedule/6/paragraph/2.md)
+- SCHEDULE 7 ORDERS MODIFYING OR REVOKING PLANNING PERMISSION
+  - PART 1 PROCEDURES FOR ORDERS MADE BY PLANNING AUTHORITIES
+    - [Sch. 7 para. 1 Circumstances in which order takes effect](schedule/7/paragraph/1.md)
+    - [Sch. 7 para. 2 Procedure for confirmation of order by the Welsh Ministers](schedule/7/paragraph/2.md)
+    - [Sch. 7 para. 3 Procedure for order to take effect without confirmation](schedule/7/paragraph/3.md)
+  - PART 2 PROCEDURE FOR ORDERS MADE BY THE WELSH MINISTERS
+    - [Sch. 7 para. 4 Consultation and notification before making order](schedule/7/paragraph/4.md)
+  - PART 3 MODIFICATION OR REVOCATION OF PLANNING PERMISSION FOR MINING OPERATIONS OR DEPOSITING OF WASTE
+    - [Sch. 7 para. 5 Power to impose aftercare condition on modification or revocation of permission](schedule/7/paragraph/5.md)
+- SCHEDULE 8 MINERALS PERMISSIONS RELATING TO DORMANT SITES
+  - [Sch. 8 para. 1 Application to determine conditions of minerals permissions relating to dormant sites](schedule/8/paragraph/1.md)
+  - [Sch. 8 para. 2 Dealing with an application](schedule/8/paragraph/2.md)
+  - [Sch. 8 para. 3 Reference of applications to the Welsh Ministers](schedule/8/paragraph/3.md)
+  - [Sch. 8 para. 4 Right to appeal against determination of application](schedule/8/paragraph/4.md)
+  - [Sch. 8 para. 5 Time when conditions of permission take effect](schedule/8/paragraph/5.md)
+  - [Sch. 8 para. 6 Applications made electronically](schedule/8/paragraph/6.md)
+  - [Sch. 8 para. 7 Two or more applications](schedule/8/paragraph/7.md)
+- SCHEDULE 9 PERIODIC REVIEW OF MINERALS PERMISSIONS
+  - [Sch. 9 para. 1 Duty to carry out periodic reviews of minerals permissions](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 First review date](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Later review dates](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Application of provisions of this Schedule](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5 Notice of periodic review](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 Application to postpone review date](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7 Application to determine conditions of minerals permission](schedule/9/paragraph/7.md)
+  - [Sch. 9 para. 8 Termination of permission if no application is made](schedule/9/paragraph/8.md)
+  - [Sch. 9 para. 9 Dealing with an application](schedule/9/paragraph/9.md)
+  - [Sch. 9 para. 10 Reference of applications to the Welsh Ministers](schedule/9/paragraph/10.md)
+  - [Sch. 9 para. 11 Right to appeal against determination of application](schedule/9/paragraph/11.md)
+  - [Sch. 9 para. 12 Time when conditions of permission take effect](schedule/9/paragraph/12.md)
+  - [Sch. 9 para. 13 Applications made electronically](schedule/9/paragraph/13.md)
+  - [Sch. 9 para. 14 Two or more applications](schedule/9/paragraph/14.md)
+  - [Sch. 9 para. 15 Interpretation](schedule/9/paragraph/15.md)
+- SCHEDULE 10 APPORTIONMENT AND RECOVERY OF COMPENSATION FOR DEPRECIATION
+  - [Sch. 10 para. 1 Introduction and key terms](schedule/10/paragraph/1.md)
+  - [Sch. 10 para. 2 Apportionment of compensation and determination of disputes](schedule/10/paragraph/2.md)
+  - [Sch. 10 para. 3 Notice of compensation](schedule/10/paragraph/3.md)
+  - [Sch. 10 para. 4 Development not to be carried out until compensation paid or secured](schedule/10/paragraph/4.md)
+  - [Sch. 10 para. 5 Amount recoverable by the Welsh Ministers in respect of compensation](schedule/10/paragraph/5.md)
+  - [Sch. 10 para. 6 Payment etc. of amount recoverable](schedule/10/paragraph/6.md)
+  - [Sch. 10 para. 7 Recovery of compensation from acquiring authority on compulsory acquisition or sale](schedule/10/paragraph/7.md)
+  - [Sch. 10 para. 8 Reimbursement of amount recovered to planning authority](schedule/10/paragraph/8.md)
+- SCHEDULE 11 COMPENSATION FOR CHANGES TO PLANNING PERMISSION FOR MINERALS DEVELOPMENT
+  - PART 1 COMPENSATION WHERE PLANNING PERMISSION IS WITHDRAWN, MODIFIED OR REVOKED
+    - [Sch. 11 para. 1 Compensation in respect of buildings, plant or machinery](schedule/11/paragraph/1.md)
+    - [Sch. 11 para. 2 Compensation where minerals permission is modified by order](schedule/11/paragraph/2.md)
+  - PART 2 COMPENSATION FOLLOWING PERIODIC REVIEW OF MINERALS PERMISSIONS
+    - [Sch. 11 para. 3 Compensation where working rights are restricted by new conditions of minerals permissions](schedule/11/paragraph/3.md)
+  - PART 3 INTERPRETATION
+    - [Sch. 11 para. 4 Meaning of references to restrictions on working rights](schedule/11/paragraph/4.md)
+- SCHEDULE 12 PURCHASE NOTICES
+  - PART 1 INTRODUCTORY
+    - [Sch. 12 para. 1 Circumstances in which land is usable or unusable](schedule/12/paragraph/1.md)
+    - [Sch. 12 para. 2 Interpretation](schedule/12/paragraph/2.md)
+  - PART 2 SERVICE OF PURCHASE NOTICE
+    - [Sch. 12 para. 3 Service of purchase notice in respect of Crown land](schedule/12/paragraph/3.md)
+    - [Sch. 12 para. 4 Further provision about service of purchase notice](schedule/12/paragraph/4.md)
+  - PART 3 ACTION FOLLOWING SERVICE OF PURCHASE NOTICE AND EFFECT OF NOTICE
+    - [Sch. 12 para. 5 Response to purchase notice by planning authority](schedule/12/paragraph/5.md)
+    - [Sch. 12 para. 6 Action to be taken by the Welsh Ministers on rejection of purchase notice by planning authority](schedule/12/paragraph/6.md)
+    - [Sch. 12 para. 7 No duty to confirm purchase notice relating to planning decision if land has restricted use](schedule/12/paragraph/7.md)
+    - [Sch. 12 para. 8 Procedure before the Welsh Ministers take action in relation to purchase notice](schedule/12/paragraph/8.md)
+    - [Sch. 12 para. 9 Effect of confirmation of purchase notice or failure to take action](schedule/12/paragraph/9.md)
+    - [Sch. 12 para. 10 Legal challenge to action taken by the Welsh Ministers in relation to purchase notice](schedule/12/paragraph/10.md)
+    - [Sch. 12 para. 11 No withdrawal of notice to treat deemed to have been served under this Part](schedule/12/paragraph/11.md)
+    - [Sch. 12 para. 12 Deduction of compensation for changes to planning permission](schedule/12/paragraph/12.md)
+  - PART 4 SEVERANCE OF AGRICULTURAL LAND: RIGHT TO REQUIRE PURCHASE OF REMAINDER
+    - [Sch. 12 para. 13 Service of counter-notice requiring purchase of remainder of agricultural unit](schedule/12/paragraph/13.md)
+    - [Sch. 12 para. 14 Effect of counter-notice](schedule/12/paragraph/14.md)
+    - [Sch. 12 para. 15 Acquisition and surrender of tenant’s interest under lease](schedule/12/paragraph/15.md)
+- SCHEDULE 13 COMMUNITY INFRASTRUCTURE LEVY: CHARGING SCHEDULES
+  - [Sch. 13 para. 1 Preparation of charging schedule: setting rates or other criteria](schedule/13/paragraph/1.md)
+  - [Sch. 13 para. 2 Preparation of charging schedule: methods of calculation](schedule/13/paragraph/2.md)
+  - [Sch. 13 para. 3 Preparation of charging schedule: when it applies](schedule/13/paragraph/3.md)
+  - [Sch. 13 para. 4 Preparation of charging schedule: consultation etc.](schedule/13/paragraph/4.md)
+  - [Sch. 13 para. 5 Preparation of charging schedule: evidence](schedule/13/paragraph/5.md)
+  - [Sch. 13 para. 6 Preparation of draft and appointment of examiner](schedule/13/paragraph/6.md)
+  - [Sch. 13 para. 7 Examination of charging schedule](schedule/13/paragraph/7.md)
+  - [Sch. 13 para. 8 Examiner’s recommendations](schedule/13/paragraph/8.md)
+  - [Sch. 13 para. 9 Approval of charging schedule](schedule/13/paragraph/9.md)
+  - [Sch. 13 para. 10 Publication and taking effect of charging schedule](schedule/13/paragraph/10.md)
+  - [Sch. 13 para. 11 Revising a charging schedule](schedule/13/paragraph/11.md)
+  - [Sch. 13 para. 12 Charging schedule ceasing to have effect](schedule/13/paragraph/12.md)
+- SCHEDULE 14 DISCONTINUANCE ORDERS
+  - PART 1 PROCEDURE FOR DISCONTINUANCE ORDERS MADE BY PLANNING AUTHORITIES
+    - [Sch. 14 para. 1 Requirement for confirmation by the Welsh Ministers](schedule/14/paragraph/1.md)
+  - PART 2 PROCEDURE FOR DISCONTINUANCE ORDERS MADE BY THE WELSH MINISTERS
+    - [Sch. 14 para. 2 Consultation and notification in connection with making order](schedule/14/paragraph/2.md)
+  - PART 3 DISCONTINUANCE ORDERS RELATING TO MINING OPERATIONS AND DEPOSITING OF WASTE
+    - [Sch. 14 para. 3 Power to include restoration condition and aftercare condition in discontinuance order](schedule/14/paragraph/3.md)
+- SCHEDULE 15 PROHIBITION ORDERS AND PROTECTION ORDERS
+  - PART 1 PROHIBITION ORDERS
+    - [Sch. 15 para. 1 Power to make prohibition order](schedule/15/paragraph/1.md)
+    - [Sch. 15 para. 2 Prohibition order made by planning authority: requirement for confirmation by the Welsh Ministers](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3 Prohibition order made by the Welsh Ministers: consultation and notification in connection with making order](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4 Effect of prohibition order on planning permission](schedule/15/paragraph/4.md)
+  - PART 2 PROTECTION ORDERS
+    - [Sch. 15 para. 5 Power to make protection order](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6 Protection order made by planning authority: requirement for confirmation by the Welsh Ministers](schedule/15/paragraph/6.md)
+    - [Sch. 15 para. 7 Protection order made by the Welsh Ministers: consultation and notification in connection with making order](schedule/15/paragraph/7.md)
+    - [Sch. 15 para. 8 Registration of protection order as local land charge](schedule/15/paragraph/8.md)
+    - [Sch. 15 para. 9 Review of protection order](schedule/15/paragraph/9.md)
+    - [Sch. 15 para. 10 Resumption of operations or depositing after protection order takes effect](schedule/15/paragraph/10.md)
+- SCHEDULE 16 COMPENSATION FOR EFFECTS OF ORDERS RELATING TO MINERALS
+  - PART 1 COMPENSATION FOLLOWING MAKING OF DISCONTINUANCE ORDER
+    - [Sch. 16 para. 1 Compensation where discontinuance order relates to minerals](schedule/16/paragraph/1.md)
+  - PART 2 COMPENSATION FOLLOWING MAKING OF PROHIBITION ORDER OR PROTECTION ORDER
+    - [Sch. 16 para. 2 Compensation under section 211 following making of prohibition order](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3 Compensation in other cases](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4 Deduction from compensation under paragraph 3](schedule/16/paragraph/4.md)
+- SCHEDULE 17 ORDERS RELATING TO HIGHWAYS
+  - PART 1 PROCEDURE FOR ORDERS MADE BY THE WELSH MINISTERS
+    - [Sch. 17 para. 1 Application of this Part](schedule/17/paragraph/1.md)
+    - [Sch. 17 para. 2 Publication of notice of proposed order](schedule/17/paragraph/2.md)
+    - [Sch. 17 para. 3 Service and display of notice of proposed order](schedule/17/paragraph/3.md)
+    - [Sch. 17 para. 4 Consideration of objections and making of order](schedule/17/paragraph/4.md)
+    - [Sch. 17 para. 5 Certain orders to be subject to special Senedd procedure](schedule/17/paragraph/5.md)
+    - [Sch. 17 para. 6 Notice of making of order](schedule/17/paragraph/6.md)
+    - [Sch. 17 para. 7 Interpretation](schedule/17/paragraph/7.md)
+  - PART 2 PROCEDURE FOR ORDERS MADE BY PLANNING AUTHORITIES AND OTHER LOCAL AUTHORITIES
+    - [Sch. 17 para. 8 Application of this Part](schedule/17/paragraph/8.md)
+    - [Sch. 17 para. 9 Duties of planning authority or local authority](schedule/17/paragraph/9.md)
+    - [Sch. 17 para. 10 Publication of notice of order](schedule/17/paragraph/10.md)
+    - [Sch. 17 para. 11 Service and display of notice of order](schedule/17/paragraph/11.md)
+    - [Sch. 17 para. 12 Confirmation of order as unopposed order](schedule/17/paragraph/12.md)
+    - [Sch. 17 para. 13 Consideration of objections](schedule/17/paragraph/13.md)
+    - [Sch. 17 para. 14 Decisions to be made by inspectors](schedule/17/paragraph/14.md)
+    - [Sch. 17 para. 15 Special provision about orders under section 293 affecting statutory undertakers](schedule/17/paragraph/15.md)
+    - [Sch. 17 para. 16 Notice of confirmation of order](schedule/17/paragraph/16.md)
+    - [Sch. 17 para. 17 Notice of decision not to confirm order](schedule/17/paragraph/17.md)
+    - [Sch. 17 para. 18 Notice that order has come into force](schedule/17/paragraph/18.md)
+    - [Sch. 17 para. 19 Power to make further provision about procedure](schedule/17/paragraph/19.md)
+    - [Sch. 17 para. 20 Interpretation](schedule/17/paragraph/20.md)
+- SCHEDULE 18 ORDERS RELATING TO STATUTORY UNDERTAKERS AND NETWORK OPERATORS
+  - PART 1 SUPPLEMENTARY PROVISION ABOUT ORDERS TO END RIGHTS OVER LAND ETC. OF STATUTORY UNDERTAKERS AND NETWORK OPERATORS
+    - [Sch. 18 para. 1 Supplementary provision about orders under section 315(3)](schedule/18/paragraph/1.md)
+    - [Sch. 18 para. 2 Supplementary provision about orders under section 315(4)](schedule/18/paragraph/2.md)
+  - PART 2 PROCEDURE FOR MAKING ORDERS TO EXTEND OR MODIFY STATUTORY UNDERTAKERS’ FUNCTIONS
+    - [Sch. 18 para. 3 Requirement to publicise a representation made under section 317(1)](schedule/18/paragraph/3.md)
+    - [Sch. 18 para. 4 Requirements for objection to making of order](schedule/18/paragraph/4.md)
+    - [Sch. 18 para. 5 Effect of objection being made to making of order](schedule/18/paragraph/5.md)
+    - [Sch. 18 para. 6 Procedure for approving order](schedule/18/paragraph/6.md)
+  - PART 3 PROCEDURE FOR MAKING ORDERS TO RELIEVE STATUTORY UNDERTAKERS OF IMPRACTICABLE OBLIGATIONS
+    - [Sch. 18 para. 7 Requirement to publicise a representation made under section 318(1)](schedule/18/paragraph/7.md)
+    - [Sch. 18 para. 8 Requirements for objection to making of order](schedule/18/paragraph/8.md)
+    - [Sch. 18 para. 9 Effect of objection being made to making of order](schedule/18/paragraph/9.md)
+    - [Sch. 18 para. 10 Procedure in Senedd Cymru or UK Parliament where objection is made](schedule/18/paragraph/10.md)
+    - [Sch. 18 para. 11 Publicising order once made](schedule/18/paragraph/11.md)
+    - [Sch. 18 para. 12 Date order takes effect](schedule/18/paragraph/12.md)
+- SCHEDULE 19 BLIGHTED LAND
+  - PART 1 CATEGORIES OF BLIGHTED LAND
+    - [Sch. 19 para. 1 Land allocated for public functions in plans etc.](schedule/19/paragraph/1.md)
+    - [Sch. 19 para. 2 Land allocated for public functions in plans etc.](schedule/19/paragraph/2.md)
+    - [Sch. 19 para. 3 Land allocated for public functions in plans etc.](schedule/19/paragraph/3.md)
+    - [Sch. 19 para. 4 Land allocated for public functions in plans etc.](schedule/19/paragraph/4.md)
+    - [Sch. 19 para. 5 New towns](schedule/19/paragraph/5.md)
+    - [Sch. 19 para. 6 New towns](schedule/19/paragraph/6.md)
+    - [Sch. 19 para. 7 Urban development areas](schedule/19/paragraph/7.md)
+    - [Sch. 19 para. 8 Clearance and renewal areas](schedule/19/paragraph/8.md)
+    - [Sch. 19 para. 9 Clearance and renewal areas](schedule/19/paragraph/9.md)
+    - [Sch. 19 para. 10 Clearance and renewal areas](schedule/19/paragraph/10.md)
+    - [Sch. 19 para. 11 General improvement areas](schedule/19/paragraph/11.md)
+    - [Sch. 19 para. 12 Highways](schedule/19/paragraph/12.md)
+    - [Sch. 19 para. 13 Highways](schedule/19/paragraph/13.md)
+    - [Sch. 19 para. 14 Highways](schedule/19/paragraph/14.md)
+    - [Sch. 19 para. 15 Highways](schedule/19/paragraph/15.md)
+    - [Sch. 19 para. 16 Highways](schedule/19/paragraph/16.md)
+    - [Sch. 19 para. 17 Highways](schedule/19/paragraph/17.md)
+    - [Sch. 19 para. 18 Compulsory purchase etc.](schedule/19/paragraph/18.md)
+    - [Sch. 19 para. 19 Compulsory purchase etc.](schedule/19/paragraph/19.md)
+    - [Sch. 19 para. 20 Compulsory purchase etc.](schedule/19/paragraph/20.md)
+    - [Sch. 19 para. 21 Compulsory purchase etc.](schedule/19/paragraph/21.md)
+    - [Sch. 19 para. 22 Compulsory purchase etc.](schedule/19/paragraph/22.md)
+    - [Sch. 19 para. 23 Compulsory purchase etc.](schedule/19/paragraph/23.md)
+    - [Sch. 19 para. 24 Compulsory purchase etc.](schedule/19/paragraph/24.md)
+    - [Sch. 19 para. 25 Compulsory purchase etc.](schedule/19/paragraph/25.md)
+    - [Sch. 19 para. 26 Compulsory purchase etc.](schedule/19/paragraph/26.md)
+    - [Sch. 19 para. 27 Compulsory purchase etc.](schedule/19/paragraph/27.md)
+    - [Sch. 19 para. 28 Land identified in infrastructure policy statement](schedule/19/paragraph/28.md)
+    - [Sch. 19 para. 29 Land identified in national policy statement](schedule/19/paragraph/29.md)
+  - PART 2 MEANING OF “OWNER-OCCUPIER”, “RESIDENT OWNER-OCCUPIER” AND “ANNUAL VALUE”
+    - [Sch. 19 para. 30 Introduction](schedule/19/paragraph/30.md)
+    - [Sch. 19 para. 31 Owner-occupier of a hereditament](schedule/19/paragraph/31.md)
+    - [Sch. 19 para. 32 Resident owner-occupier of a hereditament](schedule/19/paragraph/32.md)
+    - [Sch. 19 para. 33 Owner-occupier of an agricultural unit](schedule/19/paragraph/33.md)
+    - [Sch. 19 para. 34 Interpretation of paragraphs 31 to 33](schedule/19/paragraph/34.md)
+    - [Sch. 19 para. 35 Annual value](schedule/19/paragraph/35.md)
+  - PART 3 MEANING OF “THE APPROPRIATE AUTHORITY”
+    - [Sch. 19 para. 36 Introduction](schedule/19/paragraph/36.md)
+    - [Sch. 19 para. 37 Appropriate authority: general](schedule/19/paragraph/37.md)
+    - [Sch. 19 para. 38 Appropriate authority: new towns](schedule/19/paragraph/38.md)
+    - [Sch. 19 para. 39 Appropriate authority: urban development areas](schedule/19/paragraph/39.md)
+    - [Sch. 19 para. 40 Appropriate authority: land identified in infrastructure policy statements](schedule/19/paragraph/40.md)
+    - [Sch. 19 para. 41 Appropriate authority: land identified in national policy statements](schedule/19/paragraph/41.md)
+    - [Sch. 19 para. 42 Appropriate authority: blight notice including claim in respect of unaffected area](schedule/19/paragraph/42.md)
+    - [Sch. 19 para. 43 Questions about appropriate authority](schedule/19/paragraph/43.md)
+  - PART 4 MEANING OF “THE APPROPRIATE ENACTMENT”
+    - [Sch. 19 para. 44 Introduction](schedule/19/paragraph/44.md)
+    - [Sch. 19 para. 45 Appropriate enactment: general](schedule/19/paragraph/45.md)
+    - [Sch. 19 para. 46 Appropriate enactment: development plans etc.](schedule/19/paragraph/46.md)
+    - [Sch. 19 para. 47 Appropriate enactment: new towns](schedule/19/paragraph/47.md)
+    - [Sch. 19 para. 48 Appropriate enactment: urban development areas](schedule/19/paragraph/48.md)
+    - [Sch. 19 para. 49 Appropriate enactment: clearance areas](schedule/19/paragraph/49.md)
+    - [Sch. 19 para. 50 Appropriate enactment: compulsory purchase etc.](schedule/19/paragraph/50.md)
+    - [Sch. 19 para. 51 Appropriate enactment: compulsory purchase etc.](schedule/19/paragraph/51.md)
+    - [Sch. 19 para. 52 Appropriate enactment: compulsory purchase etc.](schedule/19/paragraph/52.md)
+    - [Sch. 19 para. 53 Appropriate enactment: compulsory purchase etc.](schedule/19/paragraph/53.md)
+    - [Sch. 19 para. 54 Appropriate enactment: land identified in infrastructure policy statements](schedule/19/paragraph/54.md)
+    - [Sch. 19 para. 55 Appropriate enactment: land identified in national policy statements](schedule/19/paragraph/55.md)
+    - [Sch. 19 para. 56 Appropriate enactment: highway purposes](schedule/19/paragraph/56.md)
+    - [Sch. 19 para. 57 Appropriate enactment: blight notice including claim in respect of unaffected area](schedule/19/paragraph/57.md)
+    - [Sch. 19 para. 58 Appropriate enactment: two or more enactments](schedule/19/paragraph/58.md)
+    - [Sch. 19 para. 59 Questions about appropriate enactment](schedule/19/paragraph/59.md)
+- SCHEDULE 20 DETERMINATION OF APPEALS BY INSPECTORS OR THE WELSH MINISTERS
+  - [Sch. 20 para. 1 Powers and duties of inspector](schedule/20/paragraph/1.md)
+  - [Sch. 20 para. 2 Local inquiry, hearing or written representations](schedule/20/paragraph/2.md)
+  - [Sch. 20 para. 3 Replacement of inspector](schedule/20/paragraph/3.md)
+  - [Sch. 20 para. 4 Direction that appeal is to be determined by the Welsh Ministers](schedule/20/paragraph/4.md)
+  - [Sch. 20 para. 5 Revocation of direction](schedule/20/paragraph/5.md)
+  - [Sch. 20 para. 6 Supplementary](schedule/20/paragraph/6.md)
