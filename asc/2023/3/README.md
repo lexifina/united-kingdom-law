@@ -1,0 +1,681 @@
+# Historic Environment (Wales) Act 2023
+
+asc/2023/3. Enacted 2023-06-14.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 37 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asc/2023/3
+
+Source: https://www.legislation.gov.uk/asc/2023/3/2026-04-28
+
+## Contents
+
+- PART 1 OVERVIEW
+  - [s. 1 Overview](section/1.md)
+- PART 2 MONUMENTS OF SPECIAL HISTORIC INTEREST
+  - CHAPTER 1 KEY TERMS
+    - [s. 2 Meaning of “monument” and “site of monument”](section/2.md)
+  - CHAPTER 2 SCHEDULE OF MONUMENTS OF NATIONAL IMPORTANCE
+    - Schedule of monuments
+      - [s. 3 Duty to maintain and publish schedule of monuments](section/3.md)
+      - [s. 4 Notification of owner etc. where the schedule is amended](section/4.md)
+    - Proposals to add or remove monument to or from the schedule: consultation and interim protection
+      - [s. 5 Consultation before adding or removing monument to or from the schedule](section/5.md)
+      - [s. 6 Interim protection pending decision on certain amendments relating to the schedule](section/6.md)
+      - [s. 7 When interim protection ends](section/7.md)
+      - [s. 8 Compensation for loss or damage caused by interim protection](section/8.md)
+    - Review of decisions to amend schedule to add monuments etc.
+      - [s. 9 Review of decision to add monument to the schedule etc.](section/9.md)
+      - [s. 10 Supplementary provision about reviews](section/10.md)
+  - CHAPTER 3 CONTROL OF WORKS AFFECTING SCHEDULED MONUMENTS
+    - Authorisation of works
+      - [s. 11 Requirement for works to be authorised](section/11.md)
+      - [s. 12 Authorisation of classes of works](section/12.md)
+      - [s. 13 Authorisation of works by scheduled monument consent](section/13.md)
+    - Applications for scheduled monument consent
+      - [s. 14 Applying for scheduled monument consent](section/14.md)
+      - [s. 15 Declarations of ownership in respect of monument](section/15.md)
+      - [s. 16 Power to refuse to consider similar applications](section/16.md)
+    - Determining applications for scheduled monument consent
+      - [s. 17 Procedure for determining applications and effect of grant of consent](section/17.md)
+    - Grant of scheduled monument consent subject to conditions
+      - [s. 18 Power to grant consent subject to conditions](section/18.md)
+      - [s. 19 Condition about period within which works must start](section/19.md)
+    - Modification and revocation of scheduled monument consent
+      - [s. 20 Modification and revocation of consent](section/20.md)
+    - Compensation
+      - [s. 21 Compensation for refusal of scheduled monument consent or grant of consent subject to conditions](section/21.md)
+      - [s. 22 Recovery of compensation paid under section 21 on subsequent grant of consent](section/22.md)
+      - [s. 23 Determination of amount recoverable under section 22](section/23.md)
+      - [s. 24 Compensation where works affecting a scheduled monument cease to be authorised](section/24.md)
+  - CHAPTER 4 SCHEDULED MONUMENT PARTNERSHIP AGREEMENTS
+    - [s. 25 Scheduled monument partnership agreements](section/25.md)
+    - [s. 26 Further provision about scheduled monument partnership agreements](section/26.md)
+    - [s. 27 Termination of agreement or provision of agreement](section/27.md)
+    - [s. 28 Compensation in relation to termination](section/28.md)
+    - [s. 29 Interpretation](section/29.md)
+  - CHAPTER 5 ENFORCEMENT OF CONTROLS RELATING TO SCHEDULED MONUMENTS
+    - Offences relating to unauthorised works
+      - [s. 30 Offence of carrying out unauthorised works or breaching condition of consent](section/30.md)
+    - Temporary stop notices
+      - [s. 31 Power of Welsh Ministers to issue temporary stop notice](section/31.md)
+      - [s. 32 Duration etc. of temporary stop notice](section/32.md)
+      - [s. 33 Offence of breaching temporary stop notice](section/33.md)
+      - [s. 34 Compensation for loss or damage caused by temporary stop notice](section/34.md)
+    - Enforcement notices
+      - [s. 35 Power of Welsh Ministers to issue enforcement notice](section/35.md)
+      - [s. 36 Service and taking effect of enforcement notice](section/36.md)
+      - [s. 37 Variation and withdrawal of enforcement notice](section/37.md)
+      - [s. 38 Effect of granting scheduled monument consent on enforcement notice](section/38.md)
+      - [s. 39 Appeal against enforcement notice](section/39.md)
+      - [s. 40 Powers to enter land and take steps required by enforcement notice](section/40.md)
+      - [s. 41 Offence of failing to comply with enforcement notice](section/41.md)
+    - Injunctions
+      - [s. 42 Injunction to restrain unauthorised works or failure to comply with condition of consent](section/42.md)
+  - CHAPTER 6 ACQUISITION, GUARDIANSHIP AND PUBLIC ACCESS
+    - Acquisition of monuments of special historic interest
+      - [s. 43 Compulsory acquisition of monuments of special historic interest](section/43.md)
+      - [s. 44 Acquisition by agreement or gift of monuments of special historic interest](section/44.md)
+    - Guardianship of monuments of special historic interest
+      - [s. 45 Power to place monument of special historic interest under guardianship](section/45.md)
+      - [s. 46 Supplementary provision about guardianship deeds](section/46.md)
+      - [s. 47 General functions of guardians](section/47.md)
+      - [s. 48 Termination of guardianship](section/48.md)
+    - Acquisition and guardianship of land in the vicinity of a monument of special historic interest etc.
+      - [s. 49 Acquisition and guardianship of land in the vicinity of a monument](section/49.md)
+      - [s. 50 Acquisition of easements and other similar rights over land in the vicinity of a monument](section/50.md)
+    - Agreements with occupiers of monuments or adjoining etc. land
+      - [s. 51 Agreements concerning management of monuments of special historic interest and land in their vicinity](section/51.md)
+    - Powers of limited owners
+      - [s. 52 Powers of limited owners for purposes of sections 45, 50 and 51](section/52.md)
+    - Transfer of ownership or guardianship and disposal of land
+      - [s. 53 Transfer of monuments of special historic interest between local authorities and the Welsh Ministers](section/53.md)
+      - [s. 54 Disposal of land acquired under this Chapter](section/54.md)
+    - Public access to monuments under public control
+      - [s. 55 Public access to monuments under public control](section/55.md)
+      - [s. 56 Power to make regulations and byelaws in connection with public access to monuments under public control](section/56.md)
+      - [s. 57 Provision of facilities for the public in connection with monuments of special historic interest](section/57.md)
+  - CHAPTER 7 GENERAL
+    - Damage to monuments
+      - [s. 58 Offence of damaging certain monuments of special historic interest](section/58.md)
+      - [s. 59 Compensation orders for damage to monuments under guardianship](section/59.md)
+      - [s. 60 Restrictions on use of metal detectors](section/60.md)
+    - Urgent works for preservation of scheduled monument
+      - [s. 61 Works for preservation of scheduled monument in cases of urgency](section/61.md)
+    - Expenditure and advice in relation to monuments
+      - [s. 62 Expenditure on acquisition and preservation of monuments of special historic interest etc.](section/62.md)
+      - [s. 63 Advice and supervision of work by Welsh Ministers](section/63.md)
+      - [s. 64 Expenditure by local authorities on archaeological investigation](section/64.md)
+    - Powers of entry
+      - [s. 65 Powers of entry for inspection of scheduled monuments etc.](section/65.md)
+      - [s. 66 Powers of entry relating to enforcement of controls on works](section/66.md)
+      - [s. 67 Power of entry on land believed to contain monument of special historic interest](section/67.md)
+      - [s. 68 Power of entry for survey and valuation in connection with claim for compensation](section/68.md)
+      - [s. 69 Supplementary provision about powers of entry under this Part](section/69.md)
+      - [s. 70 Compensation for damage caused by exercise of certain powers under this Part](section/70.md)
+      - [s. 71 Treatment and preservation of finds](section/71.md)
+    - Supplementary
+      - [s. 72 Validity of certain decisions and orders under this Part](section/72.md)
+      - [s. 73 Application to High Court for statutory review of decision or order](section/73.md)
+      - [s. 74 Crown land](section/74.md)
+      - [s. 75 Interpretation of this Part](section/75.md)
+- PART 3 BUILDINGS OF SPECIAL ARCHITECTURAL OR HISTORIC INTEREST
+  - CHAPTER 1 LISTING BUILDINGS OF SPECIAL INTEREST
+    - List of buildings
+      - [s. 76 Duty to maintain and publish list of buildings](section/76.md)
+      - [s. 77 Notification of listing or de-listing of building](section/77.md)
+    - Proposals to list and de-list buildings: consultation and interim protection
+      - [s. 78 Consultation before listing or de-listing building](section/78.md)
+      - [s. 79 Interim protection pending decision whether to list building](section/79.md)
+      - [s. 80 Compensation for loss or damage caused by interim protection](section/80.md)
+    - Review of listing decisions
+      - [s. 81 Review of decision to list building](section/81.md)
+      - [s. 82 Supplementary provision about reviews](section/82.md)
+    - Temporary listing
+      - [s. 83 Service of temporary listing notice](section/83.md)
+      - [s. 84 Temporary listing in urgent cases](section/84.md)
+      - [s. 85 End of temporary listing](section/85.md)
+      - [s. 86 Compensation for loss or damage caused by temporary listing](section/86.md)
+    - Buildings not intended to be listed
+      - [s. 87 Certificate that Welsh Ministers do not intend to list building](section/87.md)
+  - CHAPTER 2 CONTROL OF WORKS AFFECTING LISTED BUILDINGS
+    - Authorisation of works
+      - [s. 88 Requirement for works to be authorised](section/88.md)
+      - [s. 89 Authorisation of works by listed building consent](section/89.md)
+    - Applications for listed building consent
+      - [s. 90 Applying for listed building consent](section/90.md)
+      - [s. 91 Notice of application to owners of building](section/91.md)
+    - Dealing with applications for consent
+      - [s. 92 Procedure for dealing with application](section/92.md)
+      - [s. 93 Power to refuse to consider similar applications](section/93.md)
+      - [s. 94 Reference of application to Welsh Ministers](section/94.md)
+      - [s. 95 Notification to Welsh Ministers before granting consent](section/95.md)
+      - [s. 96 Grant or refusal of consent](section/96.md)
+    - Grant of listed building consent subject to conditions
+      - [s. 97 Power to grant consent subject to conditions](section/97.md)
+      - [s. 98 Condition about period within which works must start](section/98.md)
+      - [s. 99 Application for variation or removal of conditions](section/99.md)
+    - Appeals to the Welsh Ministers
+      - [s. 100 Right to appeal against planning authority decision or failure to make decision](section/100.md)
+      - [s. 101 Procedure for making appeal](section/101.md)
+      - [s. 102 Restriction on varying application after service of notice of appeal](section/102.md)
+      - [s. 103 Decision on application after service of notice of appeal](section/103.md)
+      - [s. 104 Determination of appeal](section/104.md)
+    - Special cases
+      - [s. 105 Applications by planning authorities and the Crown](section/105.md)
+      - [s. 106 Applications relating to urgent works on Crown land](section/106.md)
+    - Modification and revocation of listed building consent
+      - [s. 107 Modification and revocation of consent](section/107.md)
+      - [s. 108 Compensation where consent is modified or revoked](section/108.md)
+    - Right of owner of listed building to require purchase of interest
+      - [s. 109 Purchase notice where consent is refused, granted subject to conditions, modified or revoked](section/109.md)
+      - [s. 110 Purchase notice in respect of Crown land](section/110.md)
+      - [s. 111 Further provision about service of purchase notice](section/111.md)
+      - [s. 112 Action following service of purchase notice](section/112.md)
+  - CHAPTER 3 LISTED BUILDING PARTNERSHIP AGREEMENTS
+    - [s. 113 Listed building partnership agreements](section/113.md)
+    - [s. 114 Further provision about listed building partnership agreements](section/114.md)
+    - [s. 115 Termination of agreement or provision of agreement](section/115.md)
+    - [s. 116 Compensation where agreement or provision is terminated](section/116.md)
+  - CHAPTER 4 ENFORCEMENT OF CONTROLS RELATING TO LISTED BUILDINGS
+    - Unauthorised works and intentional damage: offences
+      - [s. 117 Offence of carrying out unauthorised works or breaching condition of consent](section/117.md)
+      - [s. 118 Offence of intentionally damaging listed building](section/118.md)
+    - Temporary stop notices
+      - [s. 119 Power of planning authority to issue temporary stop notice](section/119.md)
+      - [s. 120 Duration etc. of temporary stop notice](section/120.md)
+      - [s. 121 Offence of breaching temporary stop notice](section/121.md)
+      - [s. 122 Compensation for loss or damage caused by temporary stop notice](section/122.md)
+    - Enforcement notices issued by planning authorities
+      - [s. 123 Power of planning authority to issue enforcement notice](section/123.md)
+      - [s. 124 Service and taking effect of enforcement notice](section/124.md)
+      - [s. 125 Variation and withdrawal of enforcement notice](section/125.md)
+      - [s. 126 Effect of granting listed building consent on enforcement notice](section/126.md)
+    - Appeals and other proceedings relating to enforcement notices
+      - [s. 127 Right to appeal against enforcement notice](section/127.md)
+      - [s. 128 Determination of appeal](section/128.md)
+      - [s. 129 Grounds for appeal not to be raised in other proceedings](section/129.md)
+    - Compliance with enforcement notices
+      - [s. 130 Order to permit steps required by enforcement notice](section/130.md)
+      - [s. 131 Power to enter land and take steps required by enforcement notice](section/131.md)
+      - [s. 132 Recovery of costs of compliance with enforcement notice](section/132.md)
+      - [s. 133 Offence of failing to comply with enforcement notice](section/133.md)
+    - Enforcement notices issued by Welsh Ministers
+      - [s. 134 Power of Welsh Ministers to issue enforcement notice](section/134.md)
+    - Injunctions
+      - [s. 135 Injunction to restrain unauthorised works or failure to comply with condition of consent](section/135.md)
+  - CHAPTER 5 ACQUISITION AND PRESERVATION OF BUILDINGS OF SPECIAL INTEREST
+    - Acquisition by agreement of buildings of special interest
+      - [s. 136 Power of planning authority to acquire building by agreement](section/136.md)
+    - Compulsory acquisition of listed buildings in need of repair
+      - [s. 137 Powers to acquire listed building compulsorily for purpose of preservation](section/137.md)
+      - [s. 138 Requirement to serve repairs notice before starting compulsory acquisition](section/138.md)
+      - [s. 139 Application to stop compulsory acquisition](section/139.md)
+      - [s. 140 Direction for minimum compensation where building deliberately allowed to fall into disrepair](section/140.md)
+      - [s. 141 Application for removal of direction for minimum compensation](section/141.md)
+      - [s. 142 Ending of rights over land acquired compulsorily](section/142.md)
+    - Management, use and disposal of buildings
+      - [s. 143 Management, use and disposal of building acquired under this Chapter](section/143.md)
+    - Urgent preservation of listed buildings
+      - [s. 144 Urgent works to preserve listed building](section/144.md)
+      - [s. 145 Power to require owner to meet costs of preservation works](section/145.md)
+      - [s. 146 Further provision about recovery of costs of preservation works](section/146.md)
+    - Further provision about preservation of listed buildings
+      - [s. 147 Steps for preservation of listed buildings in disrepair](section/147.md)
+    - Finance for repair and maintenance of buildings of special interest etc.
+      - [s. 148 Grant or loan by local authority for repair or maintenance of building](section/148.md)
+      - [s. 149 Recovery of grant made by local authority](section/149.md)
+      - [s. 150 Grant by Welsh Ministers for repair or maintenance of building, garden etc.](section/150.md)
+      - [s. 151 Acceptance by Welsh Ministers of endowment for upkeep of building](section/151.md)
+  - CHAPTER 6 GENERAL
+    - Powers of entry
+      - [s. 152 Powers to enter land](section/152.md)
+      - [s. 153 Exercise of power to enter land without warrant](section/153.md)
+      - [s. 154 Warrant to enter land](section/154.md)
+      - [s. 155 Supplementary provision about powers of entry](section/155.md)
+    - Supplementary
+      - [s. 156 Exempt religious buildings](section/156.md)
+      - [s. 157 Interpretation of this Part](section/157.md)
+- PART 4 CONSERVATION AREAS
+  - Designation of conservation areas
+    - [s. 158 Designating areas of special architectural or historic interest as conservation areas](section/158.md)
+  - Duties relating to conservation areas
+    - [s. 159 Duty to formulate and publish proposals for preservation and enhancement of conservation areas](section/159.md)
+    - [s. 160 Exercise of planning functions: general duty relating to conservation areas](section/160.md)
+  - Control of demolition in conservation areas
+    - [s. 161 Requirement for demolition to be authorised](section/161.md)
+    - [s. 162 Authorisation of demolition by conservation area consent](section/162.md)
+    - [s. 163 Application of Part 3 to conservation areas](section/163.md)
+  - Urgent preservation of buildings in conservation areas
+    - [s. 164 Urgent works to preserve buildings in conservation areas](section/164.md)
+  - Grants and conservation area agreements
+    - [s. 165 Grant by Welsh Ministers for preservation or enhancement of conservation areas](section/165.md)
+    - [s. 166 Conservation area agreements](section/166.md)
+- PART 5 SUPPLEMENTARY PROVISION ABOUT BUILDINGS OF SPECIAL INTEREST AND CONSERVATION AREAS
+  - CHAPTER 1 EXERCISE OF FUNCTIONS BY PLANNING AUTHORITIES AND OTHER LOCAL AUTHORITIES
+    - [s. 167 Fees and charges for exercising functions](section/167.md)
+    - [s. 168 Arrangements for exercising functions in relation to applications](section/168.md)
+    - [s. 169 Arrangements for obtaining specialist advice](section/169.md)
+    - [s. 170 Form of documents](section/170.md)
+    - [s. 171 Contributions towards expenditure by local authorities](section/171.md)
+  - CHAPTER 2 PROCEEDINGS BEFORE THE WELSH MINISTERS
+    - Procedural provisions applying to appeals to Welsh Ministers
+      - [s. 172 Fees for appeals](section/172.md)
+      - [s. 173 Determination of appeal by appointed person](section/173.md)
+    - Procedural provisions applying to appeals and other proceedings before Welsh Ministers
+      - [s. 174 Choice of inquiry, hearing or written procedure](section/174.md)
+      - [s. 175 Procedural requirements](section/175.md)
+    - Local inquiries
+      - [s. 176 Power of Welsh Ministers to hold local inquiry](section/176.md)
+      - [s. 177 Power of person holding inquiry to require evidence](section/177.md)
+      - [s. 178 Access to evidence at inquiry](section/178.md)
+      - [s. 179 Payment of appointed representative where access to evidence restricted](section/179.md)
+    - Costs of proceedings before Welsh Ministers
+      - [s. 180 Payment of costs of Welsh Ministers](section/180.md)
+      - [s. 181 Orders relating to costs of parties](section/181.md)
+  - CHAPTER 3 VALIDITY AND CORRECTION OF DECISIONS
+    - Validity of decisions and orders
+      - [s. 182 Validity of certain decisions and orders relating to buildings](section/182.md)
+      - [s. 183 Application to High Court for statutory review of decision or order](section/183.md)
+      - [s. 184 Appeal to High Court against decision relating to enforcement notice](section/184.md)
+    - Correction of decisions of Welsh Ministers
+      - [s. 185 Meaning of “decision document” and “correctable error”](section/185.md)
+      - [s. 186 Power to correct correctable errors in decision documents](section/186.md)
+      - [s. 187 Effect and validity of correction notice](section/187.md)
+  - CHAPTER 4 GENERAL
+    - The Crown
+      - [s. 188 Representation of Crown and Duchy interests in land](section/188.md)
+      - [s. 189 Service of documents on the Crown](section/189.md)
+      - [s. 190 Enforcement steps in relation to Crown land](section/190.md)
+    - Interpretation
+      - [s. 191 Meaning of “local authority” in this Part](section/191.md)
+- PART 6 OTHER HERITAGE ASSETS AND RECORDS
+  - Historic parks and gardens
+    - [s. 192 Duty to maintain and publish register of historic parks and gardens](section/192.md)
+  - Historic place names
+    - [s. 193 Duty to maintain and publish list of historic place names](section/193.md)
+  - Historic environment records
+    - [s. 194 Duty to maintain historic environment records](section/194.md)
+    - [s. 195 Access to historic environment records](section/195.md)
+    - [s. 196 Guidance to certain public bodies about historic environment records](section/196.md)
+- PART 7 GENERAL
+  - Powers to require information about interests in land
+    - [s. 197 Power to require information by notice](section/197.md)
+    - [s. 198 Offences in connection with section 197](section/198.md)
+    - [s. 199 Information about interests in Crown land](section/199.md)
+  - Offences
+    - [s. 200 Offences by bodies corporate](section/200.md)
+    - [s. 201 Civil sanctions](section/201.md)
+  - Compensation
+    - [s. 202 Making claims for compensation](section/202.md)
+    - [s. 203 Determination of compensation claims by Upper Tribunal](section/203.md)
+    - [s. 204 Compensation for depreciation of value of land](section/204.md)
+  - Service of documents
+    - [s. 205 Service of notices and other documents: general](section/205.md)
+    - [s. 206 Additional provision about service on persons interested in or occupying land](section/206.md)
+  - Special cases
+    - [s. 207 Definitions relating to the Crown](section/207.md)
+    - [s. 208 Church of England land](section/208.md)
+  - General
+    - [s. 209 Regulations under this Act](section/209.md)
+    - [s. 210 Interpretation](section/210.md)
+    - [s. 211 Consequential and transitional provision etc.](section/211.md)
+    - [s. 212 Coming into force](section/212.md)
+    - [s. 213 Short title](section/213.md)
+- SCHEDULE 1 END OF INTERIM PROTECTION FOR MONUMENTS
+  - [Sch. 1 para. 1 Application of this Schedule](schedule/1/paragraph/1.md)
+  - [Sch. 1 para. 2 Criminal liability](schedule/1/paragraph/2.md)
+  - [Sch. 1 para. 3 Scheduled monument consent](schedule/1/paragraph/3.md)
+  - [Sch. 1 para. 4 Temporary stop notices](schedule/1/paragraph/4.md)
+  - [Sch. 1 para. 5 Enforcement notices](schedule/1/paragraph/5.md)
+  - [Sch. 1 para. 6 Injunctions](schedule/1/paragraph/6.md)
+- SCHEDULE 2 DECISION ON REVIEW BY PERSON APPOINTED BY THE WELSH MINISTERS
+  - [Sch. 2 para. 1 Application of this Schedule and meaning of “appointed person”](schedule/2/paragraph/1.md)
+  - [Sch. 2 para. 2 Appointment of another person to make a decision on a review](schedule/2/paragraph/2.md)
+  - [Sch. 2 para. 3 Appointment of assessor to assist appointed person](schedule/2/paragraph/3.md)
+  - [Sch. 2 para. 4 Directions](schedule/2/paragraph/4.md)
+  - [Sch. 2 para. 5 Delegation](schedule/2/paragraph/5.md)
+  - [Sch. 2 para. 6 Public Services Ombudsman (Wales) Act 2019 (anaw 3)](schedule/2/paragraph/6.md)
+- SCHEDULE 3 AUTHORISATION FOR CLASSES OF WORKS
+  - [Sch. 3 para. 1 Power to amend Schedule](schedule/3/paragraph/1.md)
+- SCHEDULE 4 PROCEDURE FOR ORDERS MODIFYING OR REVOKING SCHEDULED MONUMENT CONSENT
+  - PART 1 NOTICE OF PROPOSED MODIFICATION OR REVOCATION
+    - [Sch. 4 para. 1 Requirement to serve a notice of proposed modification or revocation](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2 Effect of notice under paragraph 1 on authorisation to carry out works](schedule/4/paragraph/2.md)
+  - PART 2 PROCEEDING TO MAKE AN ORDER AFTER SERVICE OF NOTICE
+    - [Sch. 4 para. 3 Making an order under section 20](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4 Notification once order made](schedule/4/paragraph/4.md)
+  - PART 3 SUPPLEMENTARY
+    - [Sch. 4 para. 5 Procedure after hearing or inquiry](schedule/4/paragraph/5.md)
+- SCHEDULE 5 TERMINATION BY ORDER OF SCHEDULED MONUMENT PARTNERSHIP AGREEMENT
+  - PART 1 NOTICE OF PROPOSED TERMINATION
+    - [Sch. 5 para. 1 Requirement to serve notice of proposed termination](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2 Effect on authorised works of service of notice of proposed termination](schedule/5/paragraph/2.md)
+  - PART 2 PROCEEDING TO MAKE AN ORDER AFTER SERVICE OF NOTICE
+    - [Sch. 5 para. 3 Making an order under section 27](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4 Notification once order made](schedule/5/paragraph/4.md)
+  - PART 3 SUPPLEMENTARY
+    - [Sch. 5 para. 5 Procedure after hearing or inquiry](schedule/5/paragraph/5.md)
+- SCHEDULE 6 PROCEEDINGS UNDER PART 2
+  - [Sch. 6 para. 1 Evidence at local inquiries](schedule/6/paragraph/1.md)
+  - [Sch. 6 para. 2 Offence relating to failure to comply with summons under paragraph 1](schedule/6/paragraph/2.md)
+  - [Sch. 6 para. 3 Costs of certain proceedings under this Part](schedule/6/paragraph/3.md)
+  - [Sch. 6 para. 4 Costs of reviews held under section 9 by appointed person](schedule/6/paragraph/4.md)
+- SCHEDULE 7 END OF INTERIM PROTECTION OR TEMPORARY LISTING FOR BUILDINGS
+  - [Sch. 7 para. 1 Introduction](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2 Criminal liability](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3 Listed building consent](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4 Temporary stop notices](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5 Enforcement notices](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6 Injunctions](schedule/7/paragraph/6.md)
+- SCHEDULE 8 PROCEDURE FOR ORDERS MODIFYING OR REVOKING LISTED BUILDING CONSENT
+  - PART 1 ORDERS MADE BY PLANNING AUTHORITIES
+    - [Sch. 8 para. 1 Circumstances in which orders take effect](schedule/8/paragraph/1.md)
+    - [Sch. 8 para. 2 Procedure for confirmation of orders by Welsh Ministers](schedule/8/paragraph/2.md)
+    - [Sch. 8 para. 3 Procedure for orders to take effect without confirmation](schedule/8/paragraph/3.md)
+  - PART 2 ORDERS MADE BY THE WELSH MINISTERS
+    - [Sch. 8 para. 4 Procedure to be followed before making order](schedule/8/paragraph/4.md)
+- SCHEDULE 9 ACTION FOLLOWING SERVICE OF PURCHASE NOTICE
+  - [Sch. 9 para. 1 Response to purchase notice by planning authority](schedule/9/paragraph/1.md)
+  - [Sch. 9 para. 2 Action to be taken by Welsh Ministers on rejection of purchase notice by planning authority](schedule/9/paragraph/2.md)
+  - [Sch. 9 para. 3 Procedure before Welsh Ministers take action in relation to purchase notice](schedule/9/paragraph/3.md)
+  - [Sch. 9 para. 4 Effect of Welsh Ministers’ action in relation to purchase notice](schedule/9/paragraph/4.md)
+  - [Sch. 9 para. 5 Legal challenge to Welsh Ministers’ action in relation to purchase notice](schedule/9/paragraph/5.md)
+  - [Sch. 9 para. 6 Deduction of compensation payable under section 108 on acquisition](schedule/9/paragraph/6.md)
+  - [Sch. 9 para. 7 Interpretation of Schedule](schedule/9/paragraph/7.md)
+- SCHEDULE 10 PROCEDURE FOR ORDERS TERMINATING LISTED BUILDING PARTNERSHIP AGREEMENTS
+  - PART 1 ORDERS MADE BY PLANNING AUTHORITIES
+    - [Sch. 10 para. 1 Requirement for confirmation by Welsh Ministers](schedule/10/paragraph/1.md)
+  - PART 2 ORDERS MADE BY THE WELSH MINISTERS
+    - [Sch. 10 para. 2 Procedure to be followed before making order](schedule/10/paragraph/2.md)
+- SCHEDULE 11 EFFECT OF SECTION 161 CEASING TO APPLY TO BUILDING
+  - [Sch. 11 para. 1 Introduction](schedule/11/paragraph/1.md)
+  - [Sch. 11 para. 2 Criminal liability](schedule/11/paragraph/2.md)
+  - [Sch. 11 para. 3 Conservation area consent](schedule/11/paragraph/3.md)
+  - [Sch. 11 para. 4 Temporary stop notices](schedule/11/paragraph/4.md)
+  - [Sch. 11 para. 5 Enforcement notices](schedule/11/paragraph/5.md)
+  - [Sch. 11 para. 6 Injunctions](schedule/11/paragraph/6.md)
+- SCHEDULE 12 DETERMINATION OF APPEAL BY APPOINTED PERSON OR THE WELSH MINISTERS
+  - [Sch. 12 para. 1 Introduction](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 2 Powers and duties of appointed person](schedule/12/paragraph/2.md)
+  - [Sch. 12 para. 3 Local inquiry, hearing or written representations](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4 Replacement of appointed person](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5 Direction under section 173(3)(b) that appeal is to be determined by Welsh Ministers](schedule/12/paragraph/5.md)
+  - [Sch. 12 para. 6 Revocation of direction under section 173(3)(b)](schedule/12/paragraph/6.md)
+  - [Sch. 12 para. 7 Supplementary provisions](schedule/12/paragraph/7.md)
+- SCHEDULE 13 MINOR AND CONSEQUENTIAL AMENDMENTS AND REPEALS
+  - Settled Land Act 1925 (c. 18)
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Historic Buildings and Ancient Monuments Act 1953 (c. 49)
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Land Powers (Defence) Act 1958 (c. 30)
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Public Health Act 1961 (c. 64)
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - The Harbours Act 1964 (c. 40)
+    - [Sch. 13 para. 9A](schedule/13/paragraph/9A.md)
+  - Compulsory Purchase Act 1965 (c. 56)
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+  - Mines (Working Facilities and Support) Act 1966 (c. 4)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Civic Amenities Act 1967 (c. 69)
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+  - Redundant Churches and other Religious Buildings Act 1969 (c. 22)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+  - Local Government Act 1972 (c. 70)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+  - Land Compensation Act 1973 (c. 26)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+  - Estate Agents Act 1979 (c. 38)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+  - Ancient Monuments and Archaeological Areas Act 1979 (c. 46)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+    - [Sch. 13 para. 27](schedule/13/paragraph/27.md)
+    - [Sch. 13 para. 28](schedule/13/paragraph/28.md)
+    - [Sch. 13 para. 29](schedule/13/paragraph/29.md)
+    - [Sch. 13 para. 30](schedule/13/paragraph/30.md)
+    - [Sch. 13 para. 31](schedule/13/paragraph/31.md)
+    - [Sch. 13 para. 32](schedule/13/paragraph/32.md)
+    - [Sch. 13 para. 33](schedule/13/paragraph/33.md)
+    - [Sch. 13 para. 34](schedule/13/paragraph/34.md)
+    - [Sch. 13 para. 35](schedule/13/paragraph/35.md)
+    - [Sch. 13 para. 36](schedule/13/paragraph/36.md)
+    - [Sch. 13 para. 37](schedule/13/paragraph/37.md)
+    - [Sch. 13 para. 38](schedule/13/paragraph/38.md)
+    - [Sch. 13 para. 39](schedule/13/paragraph/39.md)
+    - [Sch. 13 para. 40](schedule/13/paragraph/40.md)
+    - [Sch. 13 para. 41](schedule/13/paragraph/41.md)
+    - [Sch. 13 para. 42](schedule/13/paragraph/42.md)
+    - [Sch. 13 para. 43](schedule/13/paragraph/43.md)
+    - [Sch. 13 para. 44](schedule/13/paragraph/44.md)
+    - [Sch. 13 para. 45](schedule/13/paragraph/45.md)
+    - [Sch. 13 para. 46](schedule/13/paragraph/46.md)
+    - [Sch. 13 para. 47](schedule/13/paragraph/47.md)
+    - [Sch. 13 para. 48](schedule/13/paragraph/48.md)
+    - [Sch. 13 para. 49](schedule/13/paragraph/49.md)
+    - [Sch. 13 para. 50](schedule/13/paragraph/50.md)
+    - [Sch. 13 para. 51](schedule/13/paragraph/51.md)
+  - Local Government, Planning and Land Act 1980 (c. 65)
+    - [Sch. 13 para. 52](schedule/13/paragraph/52.md)
+  - Highways Act 1980 (c. 66)
+    - [Sch. 13 para. 53](schedule/13/paragraph/53.md)
+    - [Sch. 13 para. 54](schedule/13/paragraph/54.md)
+    - [Sch. 13 para. 55](schedule/13/paragraph/55.md)
+  - New Towns Act 1981 (c. 64)
+    - [Sch. 13 para. 56](schedule/13/paragraph/56.md)
+  - Acquisition of Land Act 1981 (c. 67)
+    - [Sch. 13 para. 57](schedule/13/paragraph/57.md)
+  - National Heritage Act 1983 (c. 47)
+    - [Sch. 13 para. 58](schedule/13/paragraph/58.md)
+  - Inheritance Tax Act 1984 (c. 51)
+    - [Sch. 13 para. 59](schedule/13/paragraph/59.md)
+  - Building Act 1984 (c. 55)
+    - [Sch. 13 para. 60](schedule/13/paragraph/60.md)
+    - [Sch. 13 para. 61](schedule/13/paragraph/61.md)
+    - [Sch. 13 para. 62](schedule/13/paragraph/62.md)
+    - [Sch. 13 para. 63](schedule/13/paragraph/63.md)
+    - [Sch. 13 para. 64](schedule/13/paragraph/64.md)
+    - [Sch. 13 para. 65](schedule/13/paragraph/65.md)
+  - Housing Act 1985 (c. 68)
+    - [Sch. 13 para. 66](schedule/13/paragraph/66.md)
+    - [Sch. 13 para. 67](schedule/13/paragraph/67.md)
+    - [Sch. 13 para. 68](schedule/13/paragraph/68.md)
+    - [Sch. 13 para. 69](schedule/13/paragraph/69.md)
+  - Protection of Military Remains Act 1986 (c. 35)
+    - [Sch. 13 para. 70](schedule/13/paragraph/70.md)
+  - Town and Country Planning Act 1990 (c. 8)
+    - [Sch. 13 para. 71](schedule/13/paragraph/71.md)
+    - [Sch. 13 para. 72](schedule/13/paragraph/72.md)
+    - [Sch. 13 para. 73](schedule/13/paragraph/73.md)
+    - [Sch. 13 para. 74](schedule/13/paragraph/74.md)
+    - [Sch. 13 para. 75](schedule/13/paragraph/75.md)
+    - [Sch. 13 para. 76](schedule/13/paragraph/76.md)
+    - [Sch. 13 para. 77](schedule/13/paragraph/77.md)
+    - [Sch. 13 para. 78](schedule/13/paragraph/78.md)
+    - [Sch. 13 para. 79](schedule/13/paragraph/79.md)
+    - [Sch. 13 para. 80](schedule/13/paragraph/80.md)
+    - [Sch. 13 para. 81](schedule/13/paragraph/81.md)
+    - [Sch. 13 para. 82](schedule/13/paragraph/82.md)
+    - [Sch. 13 para. 83](schedule/13/paragraph/83.md)
+    - [Sch. 13 para. 84](schedule/13/paragraph/84.md)
+    - [Sch. 13 para. 85](schedule/13/paragraph/85.md)
+    - [Sch. 13 para. 86](schedule/13/paragraph/86.md)
+    - [Sch. 13 para. 87](schedule/13/paragraph/87.md)
+    - [Sch. 13 para. 88](schedule/13/paragraph/88.md)
+    - [Sch. 13 para. 89](schedule/13/paragraph/89.md)
+    - [Sch. 13 para. 90](schedule/13/paragraph/90.md)
+    - [Sch. 13 para. 91](schedule/13/paragraph/91.md)
+    - [Sch. 13 para. 92](schedule/13/paragraph/92.md)
+  - Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
+    - [Sch. 13 para. 93](schedule/13/paragraph/93.md)
+    - [Sch. 13 para. 94](schedule/13/paragraph/94.md)
+    - [Sch. 13 para. 95](schedule/13/paragraph/95.md)
+    - [Sch. 13 para. 96](schedule/13/paragraph/96.md)
+    - [Sch. 13 para. 97](schedule/13/paragraph/97.md)
+    - [Sch. 13 para. 98](schedule/13/paragraph/98.md)
+    - [Sch. 13 para. 99](schedule/13/paragraph/99.md)
+    - [Sch. 13 para. 100](schedule/13/paragraph/100.md)
+    - [Sch. 13 para. 101](schedule/13/paragraph/101.md)
+    - [Sch. 13 para. 102](schedule/13/paragraph/102.md)
+    - [Sch. 13 para. 103](schedule/13/paragraph/103.md)
+    - [Sch. 13 para. 104](schedule/13/paragraph/104.md)
+    - [Sch. 13 para. 105](schedule/13/paragraph/105.md)
+    - [Sch. 13 para. 106](schedule/13/paragraph/106.md)
+    - [Sch. 13 para. 106A](schedule/13/paragraph/106A.md)
+    - [Sch. 13 para. 107](schedule/13/paragraph/107.md)
+    - [Sch. 13 para. 108](schedule/13/paragraph/108.md)
+    - [Sch. 13 para. 109](schedule/13/paragraph/109.md)
+    - [Sch. 13 para. 110](schedule/13/paragraph/110.md)
+    - [Sch. 13 para. 111](schedule/13/paragraph/111.md)
+    - [Sch. 13 para. 112](schedule/13/paragraph/112.md)
+    - [Sch. 13 para. 113](schedule/13/paragraph/113.md)
+    - [Sch. 13 para. 114](schedule/13/paragraph/114.md)
+    - [Sch. 13 para. 115](schedule/13/paragraph/115.md)
+    - [Sch. 13 para. 116](schedule/13/paragraph/116.md)
+    - [Sch. 13 para. 116A](schedule/13/paragraph/116A.md)
+    - [Sch. 13 para. 117](schedule/13/paragraph/117.md)
+    - [Sch. 13 para. 118](schedule/13/paragraph/118.md)
+    - [Sch. 13 para. 119](schedule/13/paragraph/119.md)
+    - [Sch. 13 para. 120](schedule/13/paragraph/120.md)
+    - [Sch. 13 para. 121](schedule/13/paragraph/121.md)
+    - [Sch. 13 para. 122](schedule/13/paragraph/122.md)
+    - [Sch. 13 para. 122A](schedule/13/paragraph/122A.md)
+    - [Sch. 13 para. 122B](schedule/13/paragraph/122B.md)
+    - [Sch. 13 para. 122C](schedule/13/paragraph/122C.md)
+    - [Sch. 13 para. 123](schedule/13/paragraph/123.md)
+    - [Sch. 13 para. 124](schedule/13/paragraph/124.md)
+    - [Sch. 13 para. 125](schedule/13/paragraph/125.md)
+    - [Sch. 13 para. 126](schedule/13/paragraph/126.md)
+    - [Sch. 13 para. 127](schedule/13/paragraph/127.md)
+    - [Sch. 13 para. 128](schedule/13/paragraph/128.md)
+    - [Sch. 13 para. 129](schedule/13/paragraph/129.md)
+    - [Sch. 13 para. 130](schedule/13/paragraph/130.md)
+    - [Sch. 13 para. 131](schedule/13/paragraph/131.md)
+    - [Sch. 13 para. 132](schedule/13/paragraph/132.md)
+    - [Sch. 13 para. 133](schedule/13/paragraph/133.md)
+    - [Sch. 13 para. 134](schedule/13/paragraph/134.md)
+    - [Sch. 13 para. 135](schedule/13/paragraph/135.md)
+    - [Sch. 13 para. 136](schedule/13/paragraph/136.md)
+    - [Sch. 13 para. 137](schedule/13/paragraph/137.md)
+    - [Sch. 13 para. 138](schedule/13/paragraph/138.md)
+    - [Sch. 13 para. 139](schedule/13/paragraph/139.md)
+    - [Sch. 13 para. 140](schedule/13/paragraph/140.md)
+    - [Sch. 13 para. 141](schedule/13/paragraph/141.md)
+    - [Sch. 13 para. 142](schedule/13/paragraph/142.md)
+    - [Sch. 13 para. 143](schedule/13/paragraph/143.md)
+    - [Sch. 13 para. 144](schedule/13/paragraph/144.md)
+    - [Sch. 13 para. 145](schedule/13/paragraph/145.md)
+    - [Sch. 13 para. 146](schedule/13/paragraph/146.md)
+    - [Sch. 13 para. 147](schedule/13/paragraph/147.md)
+    - [Sch. 13 para. 147A](schedule/13/paragraph/147A.md)
+    - [Sch. 13 para. 148](schedule/13/paragraph/148.md)
+    - [Sch. 13 para. 149](schedule/13/paragraph/149.md)
+    - [Sch. 13 para. 150](schedule/13/paragraph/150.md)
+    - [Sch. 13 para. 151](schedule/13/paragraph/151.md)
+    - [Sch. 13 para. 152](schedule/13/paragraph/152.md)
+    - [Sch. 13 para. 153](schedule/13/paragraph/153.md)
+    - [Sch. 13 para. 154](schedule/13/paragraph/154.md)
+    - [Sch. 13 para. 154A](schedule/13/paragraph/154A.md)
+    - [Sch. 13 para. 155](schedule/13/paragraph/155.md)
+    - [Sch. 13 para. 156](schedule/13/paragraph/156.md)
+    - [Sch. 13 para. 157](schedule/13/paragraph/157.md)
+    - [Sch. 13 para. 158](schedule/13/paragraph/158.md)
+    - [Sch. 13 para. 159](schedule/13/paragraph/159.md)
+    - [Sch. 13 para. 160](schedule/13/paragraph/160.md)
+  - Planning and Compensation Act 1991 (c. 34)
+    - [Sch. 13 para. 161](schedule/13/paragraph/161.md)
+    - [Sch. 13 para. 161A](schedule/13/paragraph/161A.md)
+    - [Sch. 13 para. 161B](schedule/13/paragraph/161B.md)
+  - Coal Mining Subsidence Act 1991 (c. 45)
+    - [Sch. 13 para. 162](schedule/13/paragraph/162.md)
+  - Land Drainage Act 1991 (c. 59)
+    - [Sch. 13 para. 163](schedule/13/paragraph/163.md)
+  - Protection of Badgers Act 1992 (c. 51)
+    - [Sch. 13 para. 164](schedule/13/paragraph/164.md)
+  - Tribunals and Inquiries Act 1992 (c. 53)
+    - [Sch. 13 para. 165](schedule/13/paragraph/165.md)
+  - Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)
+    - [Sch. 13 para. 166](schedule/13/paragraph/166.md)
+  - Local Government (Wales) Act 1994 (c. 19)
+    - [Sch. 13 para. 167](schedule/13/paragraph/167.md)
+    - [Sch. 13 para. 168](schedule/13/paragraph/168.md)
+    - [Sch. 13 para. 169](schedule/13/paragraph/169.md)
+  - Value Added Tax Act 1994 (c. 23)
+    - [Sch. 13 para. 170](schedule/13/paragraph/170.md)
+  - Criminal Justice and Public Order Act 1994 (c. 33)
+    - [Sch. 13 para. 171](schedule/13/paragraph/171.md)
+    - [Sch. 13 para. 172](schedule/13/paragraph/172.md)
+    - [Sch. 13 para. 173](schedule/13/paragraph/173.md)
+    - [Sch. 13 para. 174](schedule/13/paragraph/174.md)
+  - Environment Act 1995 (c. 25)
+    - [Sch. 13 para. 175](schedule/13/paragraph/175.md)
+  - Planning (Consequential Provisions) (Scotland) Act 1997 (c. 11)
+    - [Sch. 13 para. 176](schedule/13/paragraph/176.md)
+  - National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)
+    - [Sch. 13 para. 177](schedule/13/paragraph/177.md)
+  - Countryside and Rights of Way Act 2000 (c. 37)
+    - [Sch. 13 para. 178](schedule/13/paragraph/178.md)
+    - [Sch. 13 para. 179](schedule/13/paragraph/179.md)
+    - [Sch. 13 para. 180](schedule/13/paragraph/180.md)
+  - Planning and Compulsory Purchase Act 2004 (c. 5)
+    - [Sch. 13 para. 181](schedule/13/paragraph/181.md)
+  - Government of Wales Act 2006 (c. 32)
+    - [Sch. 13 para. 182](schedule/13/paragraph/182.md)
+    - [Sch. 13 para. 183](schedule/13/paragraph/183.md)
+    - [Sch. 13 para. 184](schedule/13/paragraph/184.md)
+  - National Assembly for Wales Commission (Crown Status) (No. 2) Order 2007 (S.I. 2007/1353)
+    - [Sch. 13 para. 185](schedule/13/paragraph/185.md)
+  - Regulatory Enforcement and Sanctions Act 2008 (c. 13)
+    - [Sch. 13 para. 186](schedule/13/paragraph/186.md)
+  - Planning Act 2008 (c. 29)
+    - [Sch. 13 para. 187](schedule/13/paragraph/187.md)
+  - Enterprise and Regulatory Reform Act 2013 (c. 24)
+    - [Sch. 13 para. 188](schedule/13/paragraph/188.md)
+  - Planning (Wales) Act 2015 (anaw 4)
+    - [Sch. 13 para. 189](schedule/13/paragraph/189.md)
+    - [Sch. 13 para. 190](schedule/13/paragraph/190.md)
+    - [Sch. 13 para. 191](schedule/13/paragraph/191.md)
+    - [Sch. 13 para. 192](schedule/13/paragraph/192.md)
+  - Historic Environment (Wales) Act 2016 (anaw 4)
+    - [Sch. 13 para. 193](schedule/13/paragraph/193.md)
+  - Housing and Planning Act 2016 (c. 22)
+    - [Sch. 13 para. 194](schedule/13/paragraph/194.md)
+  - Public Services Ombudsman (Wales) Act 2019 (anaw 3)
+    - [Sch. 13 para. 195](schedule/13/paragraph/195.md)
+  - Sentencing Act 2020 (c. 17)
+    - [Sch. 13 para. 196](schedule/13/paragraph/196.md)
+  - The Levelling-Up and Regeneration Act 2023 (c. 55)
+    - [Sch. 13 para. 197](schedule/13/paragraph/197.md)
+    - [Sch. 13 para. 198](schedule/13/paragraph/198.md)
+    - [Sch. 13 para. 199](schedule/13/paragraph/199.md)
+    - [Sch. 13 para. 200](schedule/13/paragraph/200.md)
+- SCHEDULE 14 TRANSITIONAL AND SAVING PROVISIONS
+  - PART 1 GENERAL PROVISIONS
+    - [Sch. 14 para. 1 Statutory and other references to this Act](schedule/14/paragraph/1.md)
+    - [Sch. 14 para. 2 Documents referring to repealed enactments](schedule/14/paragraph/2.md)
+    - [Sch. 14 para. 3 Relationship with Legislation (Wales) Act 2019](schedule/14/paragraph/3.md)
+    - [Sch. 14 para. 4 Interpretation](schedule/14/paragraph/4.md)
+  - PART 2 GUARDIANSHIP OF MONUMENTS
+    - [Sch. 14 para. 5 Guardianship orders made under 1953 Act](schedule/14/paragraph/5.md)
+    - [Sch. 14 para. 6 Control and management of monument where guardianship pre-dates 1979 Act](schedule/14/paragraph/6.md)
+    - [Sch. 14 para. 7 Public access to monument where guardianship pre-dates 1913 Act](schedule/14/paragraph/7.md)
+    - [Sch. 14 para. 8 Interpretation](schedule/14/paragraph/8.md)
+  - PART 3 MISCELLANEOUS
+    - [Sch. 14 para. 9 Offence of breaching temporary stop notice in relation to scheduled monument](schedule/14/paragraph/9.md)
+    - [Sch. 14 para. 10 Service and taking effect of enforcement notice in relation to scheduled monument](schedule/14/paragraph/10.md)
+    - [Sch. 14 para. 11 Purchase notice served on council in relation to building in National Park](schedule/14/paragraph/11.md)
+    - [Sch. 14 para. 12 Building preservation notices in England: compensation](schedule/14/paragraph/12.md)
