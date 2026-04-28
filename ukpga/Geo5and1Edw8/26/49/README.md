@@ -1,0 +1,270 @@
+# Public Health Act 1936
+
+1936 c. 49. Enacted 1936-07-31.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-28, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 1 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
+
+Source: https://www.legislation.gov.uk/ukpga/Geo5and1Edw8/26/49/2026-04-28
+
+## Contents
+
+- Part I Local Administration
+  - Local authorities and their districts
+    - [s. 1 Local authorities for purposes of Act.](section/1.md)
+  - Port health authorities and joint boards
+    - [s. 25. ................................](section/25.md)
+    - [s. 6 Union of districts, or parts of districts, for certain purposes under joint board.](section/6.md)
+    - [s. 7 Restriction on discharge of functions by local authorities within united district.](section/7.md)
+    - [s. 8 ................................](section/8.md)
+    - [s. 9 General provisions as to orders constituting port health districts, united districts and joint boards.](section/9.md)
+    - [s. 10 Borrowing powers of port health authorities and joint boards.](section/10.md)
+    - [s. 1113. ................................](section/1113.md)
+- Part II Sanitation and Buildings
+  - Sewerage and sewage disposal
+    - [s. 14 ................................](section/14.md)
+    - [s. 15 ................................](section/15.md)
+    - [s. 16 ................................](section/16.md)
+    - [s. 17 ................................](section/17.md)
+    - [s. 18 ................................](section/18.md)
+    - [s. 19 ................................](section/19.md)
+    - [s. 20 ................................](section/20.md)
+    - [s. 21 ................................](section/21.md)
+    - [s. 22 ................................](section/22.md)
+    - [s. 2324. ................................](section/2324.md)
+    - [s. 25-19 ................................](section/25-19.md)
+    - [s. 26 ................................](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 ................................](section/28.md)
+    - [s. 29 ................................](section/29.md)
+    - [s. 30 ................................](section/30.md)
+    - [s. 31 ................................](section/31.md)
+    - [s. 32 ................................](section/32.md)
+    - [s. 33 Application of 27 & 28 Vict. c. 114 to works for supply of sewage.](section/33.md)
+  - Private sewers and drains and cesspools
+    - [s. 34 ................................](section/34.md)
+    - [s. 35 ................................](section/35.md)
+    - [s. 36 ................................](section/36.md)
+    - [s. 3741. ................................](section/3741.md)
+    - [s. 42 ................................](section/42.md)
+  - Sanitary conveniences for buildings
+    - [s. 4344. ................................](section/4344.md)
+    - [s. 45 Buildings having defective closets capable of repair.](section/45.md)
+    - [s. 4647. ................................](section/4647.md)
+  - Supplemental provisions as to drains, sanitary conveniences, cesspools, &c.
+    - [s. 48 Power of local authority to examine and test drains, &c., believed to be defective.](section/48.md)
+    - [s. 49 Rooms over closets of certain types, or over ashpits, &c., not to be used as living, sleeping or workrooms.](section/49.md)
+    - [s. 50 Overflowing and leaking cesspools.](section/50.md)
+    - [s. 51 Care of closets.](section/51.md)
+    - [s. 52 Care of sanitary conveniences used in common.](section/52.md)
+    - [s. 5362. ................................](section/5362.md)
+    - [s. 63 ................................](section/63.md)
+    - [s. 64 ................................](section/64.md)
+    - [s. 6567. ................................](section/6567.md)
+    - [s. 6869. ................................](section/6869.md)
+    - [s. 7071. ................................](section/7071.md)
+  - Removal of refuse, scavenging, keeping of animals, &c.
+    - [s. 7276. ................................](section/7276.md)
+    - [s. 77 ................................](section/77.md)
+    - [s. 78 Scavenging of common courts and passages.](section/78.md)
+    - [s. 79 [Power to require removal of noxious matter by occupier of premises in urban district.](section/79.md)
+    - [s. 80 [Power to require periodical removal of manure, &c. from stables, &c. in urban district.](section/80.md)
+    - [s. 81 Byelaws for the prevention of certain nuisances.](section/81.md)
+    - [s. 82 Byelaws as to removal through streets of offensive matter or liquid.](section/82.md)
+  - Filthy or verminous premises or articles, and verminous persons.
+    - [s. 83 Cleansing of filthy or verminous premises.](section/83.md)
+    - [s. 84 Cleansing or destruction of filthy or verminous articles.](section/84.md)
+    - [s. 85 Cleansing of verminous persons and their clothing.](section/85.md)
+    - [s. 86 Provision of cleansing stations.](section/86.md)
+  - Public sanitary conveniences
+    - [s. 87 Provision of public conveniences in England.](section/87.md)
+    - [s. 88 ................................](section/88.md)
+    - [s. 89 ................................](section/89.md)
+  - General
+    - [s. 90 Interpretation of Part II.](section/90.md)
+- Part III Nuisances and Offensive Trades
+  - [s. 91100. ................................](section/91100.md)
+  - [s. 101106. ................................](section/101106.md)
+  - [s. 107110. ................................](section/107110.md)
+- Part IV
+  - [s. 111122. ................................](section/111122.md)
+  - [s. 123 ................................](section/123.md)
+  - Public wells, pumps, &c.
+    - [s. 124 Certain public pumps, wells, cisterns, &c. vested in local authority.](section/124.md)
+    - [s. 125 Power of parish council to utilise wells, springs or streams for obtaining water.](section/125.md)
+    - [s. 126136. ................................](section/126136.md)
+    - [s. 137138. ................................](section/137138.md)
+    - [s. 139 ................................](section/139.md)
+  - Provisions for the protection of public from polluted water
+    - [s. 140 Power to close, or restrict use of water from, polluted source of supply.](section/140.md)
+    - [s. 141 Power to deal with insanitary cisterns, &c.](section/141.md)
+    - [s. 142 ................................](section/142.md)
+- Part V Prevention, Notification and Treatment of Disease
+  - Regulations for the prevention and treatment of infectious disease, &c.
+    - [s. 143 Power of Minister to make regulations with a view to the treatment of certain diseases, and for preventing the spread of such diseases.](section/143.md)
+    - [s. 144146. ................................](section/144146.md)
+    - [s. 147170. ................................](section/147170.md)
+    - [s. 171 ................................](section/171.md)
+    - [s. 172 ................................](section/172.md)
+    - [s. 173178. ................................](section/173178.md)
+    - [s. 179 ................................](section/179.md)
+    - [s. 180 ................................](section/180.md)
+- Part VI Hospitals, Nursing Homes, &c.
+  - [s. 181186. ................................](section/181186.md)
+  - [s. 187188. ................................](section/187188.md)
+  - [s. 189191. ................................](section/189191.md)
+  - [s. 192 ................................](section/192.md)
+  - [s. 193 ................................](section/193.md)
+  - [s. 194195. ................................](section/194195.md)
+  - Laboratories, ambulances, mortuaries, &c.
+    - [s. 196 ................................](section/196.md)
+    - [s. 197 ................................](section/197.md)
+    - [s. 198 Provision of mortuaries and post-mortem rooms.](section/198.md)
+    - [s. 199 ................................](section/199.md)
+- Part VII Notification of Births; Maternity and Child Welfare, and Child Life Protection
+  - [s. 200202. ................................](section/200202.md)
+  - [s. 203 ................................](section/203.md)
+  - Maternity and child welfare
+    - [s. 204 ................................](section/204.md)
+    - [s. 205 Women not to be employed in factories... within four weeks after birth of a child.](section/205.md)
+    - [s. 206220. ................................](section/206220.md)
+- Part VIII Baths, Washhouses, Bathing Places, &c.
+  - Provision of baths, &c.
+    - [s. 221 Power of local authority to provide baths, bathing places and washhouses.](section/221.md)
+    - [s. 222 Charges for use of baths, &c.](section/222.md)
+    - [s. 223 Byelaws for regulation of baths, &c.](section/223.md)
+    - [s. 224 Baths, &c., to be public places for certain purposes.](section/224.md)
+    - [s. 225 Use of baths and bathing places for swimming contests, &c., or by schools or clubs.](section/225.md)
+    - [s. 226 Closing of baths and bathing places during winter months, and use for other purposes.](section/226.md)
+    - [s. 227 Power of local authority to lay pipes for purposes connected with baths, &c.](section/227.md)
+    - [s. 228 Power of trustees to sell existing baths, &c., to local authority.](section/228.md)
+    - [s. 229 Power of statutory undertakers to supply water, gas or electricity to baths, &c., on favourable terms.](section/229.md)
+    - [s. 230](section/230.md)
+  - Public bathing
+    - [s. 231 Byelaws with respect to public bathing.](section/231.md)
+    - [s. 232 Provision of bathing huts, &c.](section/232.md)
+    - [s. 233 Byelaws with respect to swimming baths and bathing pools not under the management of a local authority.](section/233.md)
+  - Life-saving appliances
+    - [s. 234 Provision of life-saving appliances.](section/234.md)
+- Part IX
+  - [s. 235248. ................................](section/235248.md)
+- Part X
+  - [s. 249](section/249.md)
+  - [s. 250 ................................](section/250.md)
+  - [s. 251 ................................](section/251.md)
+  - [s. 252 ................................](section/252.md)
+  - [s. 253256. ................................](section/253256.md)
+  - [s. 257 ................................](section/257.md)
+  - [s. 258 ................................](section/258.md)
+- Part XI Miscellaneous
+  - Watercourses, ditches, ponds, &c.
+    - [s. 259 Nuisances in connection with water-courses, ditches, ponds, &c.](section/259.md)
+    - [s. 260 Power of parish council, or local authority, to deal with ponds, ditches, &c.](section/260.md)
+    - [s. 261 Provision for obtaining order for cleansing offensive ditches lying near to, or forming, boundary of district.](section/261.md)
+    - [s. 262 Power of local authority to require culverting of watercourses and ditches where building operations in prospect.](section/262.md)
+    - [s. 263 Watercourses in urban district not to be culverted except in accordance with approved plans.](section/263.md)
+    - [s. 264 Urban authority may require repair and cleansing of culverts.](section/264.md)
+    - [s. 265 Power of local authority to defray cost of, or execute, works relating to watercourses.](section/265.md)
+    - [s. 266 †Saving for land drainage authorities, the London County Council, railway companies and dock undertakers.](section/266.md)
+  - Ships and boats
+    - [s. 267 Application to ships and boats of certain provisions of Act.](section/267.md)
+  - Tents, vans, sheds, &c.
+    - [s. 268 Nuisances arising from, and byelaws and other matters relating to, tents, vans, &c.](section/268.md)
+    - [s. 269 Power of local authority to control use of moveable dwellings.](section/269.md)
+  - Hop-pickers, &c.
+    - [s. 270 Byelaws as to hop-pickers and persons engaged in similar work.](section/270.md)
+- Part XII General
+  - Supplemental as to powers of councils
+    - [s. 271 ................................](section/271.md)
+    - [s. 272273. ................................](section/272273.md)
+    - [s. 274 ................................](section/274.md)
+    - [s. 275 Power of local authority to execute certain work on behalf of owners or occupiers.](section/275.md)
+    - [s. 276 Power of local authority to sell certain materials.](section/276.md)
+    - [s. 277 ................................](section/277.md)
+    - [s. 278 Compensation to individuals for damage resulting from exercise of powers under Act.](section/278.md)
+  - Breaking open of streets
+    - [s. 279 ................................](section/279.md)
+    - [s. 280281. ................................](section/280281.md)
+    - [s. 282 Application of 38 & 39 Vict. c. 55 s. 153.](section/282.md)
+  - Notices, &c.
+    - [s. 283 Notices to be in writing; forms of notices, &c.](section/283.md)
+    - [s. 284 Authentication of documents.](section/284.md)
+    - [s. 285 Service of notices, &c.](section/285.md)
+    - [s. 286 ................................](section/286.md)
+  - Entry and obstruction
+    - [s. 287 Power to enter premises.](section/287.md)
+    - [s. 288 Penalty for obstructing execution of Act.](section/288.md)
+    - [s. 289 Power to require occupier to permit works to be executed by owner.](section/289.md)
+  - Notices requiring the execution of works
+    - [s. 290 Provisions as to appeals against, and the enforcement of, notices requiring execution of works.](section/290.md)
+  - Provisions as to recovery of expenses, &c.
+    - [s. 291 Certain expenses recoverable from owners to be a charge on the premises: power to order payment by instalments.](section/291.md)
+    - [s. 292 ................................](section/292.md)
+    - [s. 293 Recovery of expenses, &c.](section/293.md)
+    - [s. 294 Limitation of liability of certain owners.](section/294.md)
+    - [s. 295 ................................](section/295.md)
+  - Prosecution of offences, &c.
+    - [s. 296 Summary proceedings for offences.](section/296.md)
+    - [s. 297 Continuing offences and penalties.](section/297.md)
+    - [s. 298 Restriction on right to prosecute.](section/298.md)
+    - [s. 299 ................................](section/299.md)
+  - Appeals and other applications to courts of summary jurisdiction, and appeals to quarter sessions
+    - [s. 300 Appeals and applications to courts of summary jurisdiction.](section/300.md)
+    - [s. 301 Appeals to quarter sessions against decisions of justices.](section/301.md)
+    - [s. 302 Effect of decision of court upon an appeal.](section/302.md)
+  - Arbitrations
+    - [s. 303 Mode of reference to arbitration.](section/303.md)
+  - Judges and justices
+    - [s. 304 Judges and justices not to be disqualified by liability to rates.](section/304.md)
+  - Protection of members and officers
+    - [s. 305 Protection of members and officers of certain local authorities from personal liability](section/305.md)
+    - [s. 306 ................................](section/306.md)
+  - Expenses and borrowing
+    - [s. 307 ................................](section/307.md)
+    - [s. 308 ................................](section/308.md)
+    - [s. 309 Expenses of joint boards.](section/309.md)
+    - [s. 310 ................................](section/310.md)
+    - [s. 311 ................................](section/311.md)
+  - Powers of the Minister
+    - [s. 312 ................................](section/312.md)
+    - [s. 313314. ................................](section/313314.md)
+    - [s. 315 ................................](section/315.md)
+    - [s. 316 Adaptation, where necessary, of provisional order procedure.](section/316.md)
+    - [s. 317 Amendment of 38 & 39 Vict. c. 55. s. 303.](section/317.md)
+    - [s. 318 Local inquiries.](section/318.md)
+  - Regulations
+    - [s. 319 ................................](section/319.md)
+  - Relinquishment and transfer of powers and duties
+    - [s. 320321. ................................](section/320321.md)
+    - [s. 322 Power of Minister to enforce exercise of powers by local authorities, &c., in default.](section/322.md)
+    - [s. 323 ................................](section/323.md)
+    - [s. 324 Provisions as to exercise by Minister of functions of body in default.](section/324.md)
+    - [s. 325 Power to vary and revoke orders relating to defaults.](section/325.md)
+  - General provisions as to transfer, compensation and superannuation rights of officers
+    - [s. 326 Provisions as to the transfer and compensation of officers and superannuation rights of transferred officers.](section/326.md)
+    - [s. 327 Provisions for compensation in certain cases to officers of trustees, &c. executing local Acts.](section/327.md)
+  - Savings
+    - [s. 328 Powers of Act to be cumulative.](section/328.md)
+    - [s. 329 †Saving for certain provisions of the Land Charges Act, 1925.](section/329.md)
+    - [s. 330 Power of railway companies, dock undertakers and land drainage authorities to alter sewers, &c. vested in a local authority.](section/330.md)
+    - [s. 331 Works affecting water rights.](section/331.md)
+    - [s. 332 Arbitration as to alteration of sewers, &c., or injurious affection of water rights.](section/332.md)
+    - [s. 333 Protection for works of dock undertakers and for railways.](section/333.md)
+    - [s. 334 Protection for works of land drainage authorities, &c.](section/334.md)
+    - [s. 335336. ................................](section/335336.md)
+    - [s. 337 ................................](section/337.md)
+    - [s. 338 Sewers or drains of collegiate and other corporate bodies and Government departments.](section/338.md)
+    - [s. 339 Saving for existing rights of drainage.](section/339.md)
+    - [s. 340 Works below high-water mark.](section/340.md)
+    - [s. 341 Power to apply provisions of Act to Crown property.](section/341.md)
+  - Interpretation, transitory provisions, repeals, &c.
+    - [s. 342 ................................](section/342.md)
+    - [s. 343 Interpretation.](section/343.md)
+    - [s. 344 ................................](section/344.md)
+    - [s. 345 ................................](section/345.md)
+    - [s. 346 Repeals.](section/346.md)
+    - [s. 347 †Short title, date of commencement and extent.](section/347.md)
+- FIRST SCHEDULE
+- SECOND SCHEDULE
+- THIRD SCHEDULE
