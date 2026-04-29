@@ -2,9 +2,9 @@
 
 2017 c. 17. Enacted 2017-04-27.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-18, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/17` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2017-04-27, are in the history before it: `git log -- ukpga/2017/17` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2017/17/2026-03-18
+Source: https://www.legislation.gov.uk/ukpga/2017/17/2026-04-29
 
 ## Contents
 
@@ -24,6 +24,8 @@ Source: https://www.legislation.gov.uk/ukpga/2017/17/2026-03-18
     - [s. 10 Scheme funder requirements](section/10.md)
     - [s. 11 Systems and processes requirements](section/11.md)
     - [s. 12 Continuity strategy requirement](section/12.md)
+    - [s. 12A Investment capability](section/12A.md)
+    - [s. 12B Scale requirement](section/12B.md)
   - Ongoing supervision of Master Trust schemes
     - [s. 13 List of authorised schemes](section/13.md)
     - [s. 14 Requirement to submit annual accounts](section/14.md)
