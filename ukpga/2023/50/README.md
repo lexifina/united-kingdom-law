@@ -2,9 +2,9 @@
 
 2023 c. 50. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/50` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-07
+Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-29
 
 ## Contents
 
@@ -301,9 +301,13 @@ Source: https://www.legislation.gov.uk/ukpga/2023/50/2026-04-07
     - [s. 212 Repeals: Digital Economy Act 2017](section/212.md)
     - [s. 213 Offence under the Obscene Publications Act 1959: OFCOM defence](section/213.md)
     - [s. 214 Offences regarding indecent photographs of children: OFCOM defence](section/214.md)
+  - Power to require providers of internet services to prevent or restrict access by children to internet services
+    - [s. 214A Power to require providers of internet services to prevent or restrict access by children to internet services](section/214A.md)
   - Power to amend Act to regulate app stores
     - [s. 215 Power to regulate app stores](section/215.md)
     - [s. 216 Power to regulate app stores: supplementary](section/216.md)
+  - Power to amend Act: illegal AI-generated content etc
+    - [s. 216A Power to amend Act in relation to illegal AI-generated content etc](section/216A.md)
   - Power to amend Act: alternative dispute resolution
     - [s. 217 Power to impose duty about alternative dispute resolution procedure](section/217.md)
   - Other powers to amend Act
