@@ -2,9 +2,9 @@
 
 2014 c. 2. Enacted 2014-01-30.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-03-26, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2014-01-30, are in the history before it: `git log -- ukpga/2014/2` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-03-26
+Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-04-29
 
 ## Contents
 
@@ -16,6 +16,13 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-03-26
   - [s. 4 General requirements for audit](section/4.md)
   - [s. 5 Modification of Act in relation to smaller authorities](section/5.md)
   - [s. 6 Meaning of “smaller authority”](section/6.md)
+- Part 2A Providers of audit services
+  - [s. 6A Local audit register](section/6A.md)
+  - [s. 6B External registration bodies](section/6B.md)
+  - [s. 6C Eligibility and regulation of registered providers](section/6C.md)
+  - [s. 6D Professional qualifications](section/6D.md)
+  - [s. 6E Powers of Local Audit Office to facilitate provision by firms](section/6E.md)
+  - [s. 6F Scrutiny of Local Audit Office as audit provider](section/6F.md)
 - Part 3 Appointment etc of local auditors
   - [s. 7 Appointment of local auditor](section/7.md)
   - [s. 8 Procedure for appointment](section/8.md)
@@ -51,10 +58,26 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-03-26
     - [s. 31 Power of auditor to apply for judicial review](section/31.md)
   - Accounts and audit regulations
     - [s. 32 Accounts and audit regulations](section/32.md)
+- Part 5A Local audit: further provision
+  - Independence of auditors
+    - [s. 32B Independence requirement](section/32B.md)
+    - [s. 32C Lack of independence arising after appointment](section/32C.md)
+  - Second audits
+    - [s. 32D Second audits where first auditor ineligible](section/32D.md)
+  - Partnerships
+    - [s. 32E Effect of appointing a partnership](section/32E.md)
+  - Miscellaneous powers and duties
+    - [s. 32F Power of Local Audit Office to obtain information from relevant authorities](section/32F.md)
+    - [s. 32G Inspection of accounts by persons exercising regulatory functions](section/32G.md)
+    - [s. 32H Duty of Local Audit Office to publish summaries of inspections](section/32H.md)
+  - Offences of deception etc
+    - [s. 32I False or misleading information](section/32I.md)
+    - [s. 32J Wrongful holding out](section/32J.md)
 - Part 6 Data matching
   - [s. 33 Data matching](section/33.md)
 - Part 7 Miscellaneous and supplementary
   - Miscellaneous
+    - [s. 33A Audit committees](section/33A.md)
     - [s. 34 Best value inspections](section/34.md)
     - [s. 35 Examinations by the Comptroller and Auditor General](section/35.md)
     - [s. 36 Disclosure of information](section/36.md)
@@ -66,6 +89,7 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-03-26
     - [s. 42 Parish meetings: parish polls](section/42.md)
   - Supplementary
     - [s. 43 Orders and regulations](section/43.md)
+    - [s. 43A Connected entities](section/43A.md)
     - [s. 44 Interpretation of Act](section/44.md)
     - [s. 45 Related amendments](section/45.md)
     - [s. 46 Power to make consequential provision](section/46.md)
@@ -88,6 +112,39 @@ Source: https://www.legislation.gov.uk/ukpga/2014/2/2026-03-26
     - Meaning of “the abolition date”
       - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
   - Part 2 Repeal of Audit Commission Act 1998: consequential repeals and revocations
+- Schedule 1B External registration bodies
+  - [Sch. 1B para. 1 Provision of information to the Local Audit Office](schedule/1B/paragraph/1.md)
+  - [Sch. 1B para. 2 Directions to secure compliance](schedule/1B/paragraph/2.md)
+  - [Sch. 1B para. 3 Financial penalties](schedule/1B/paragraph/3.md)
+  - [Sch. 1B para. 4 Directions and penalties: procedure etc](schedule/1B/paragraph/4.md)
+  - [Sch. 1B para. 5 Directions and penalties: appeals](schedule/1B/paragraph/5.md)
+  - [Sch. 1B para. 6 Compliance orders by the court](schedule/1B/paragraph/6.md)
+  - [Sch. 1B para. 7 Directions with respect to international obligations](schedule/1B/paragraph/7.md)
+  - [Sch. 1B para. 8 Exemption from liability in damages](schedule/1B/paragraph/8.md)
+- Schedule 1C Eligibility and regulation of registered providers
+  - [Sch. 1C para. 1 Introduction](schedule/1C/paragraph/1.md)
+  - [Sch. 1C para. 2 Eligibility criteria and procedures](schedule/1C/paragraph/2.md)
+  - [Sch. 1C para. 3 Registration rules](schedule/1C/paragraph/3.md)
+  - [Sch. 1C para. 4 Professional qualifications](schedule/1C/paragraph/4.md)
+  - [Sch. 1C para. 5 Professional integrity and independence](schedule/1C/paragraph/5.md)
+  - [Sch. 1C para. 6 Lead partners](schedule/1C/paragraph/6.md)
+  - [Sch. 1C para. 7 Complaints procedures](schedule/1C/paragraph/7.md)
+  - [Sch. 1C para. 8 Meeting of claims](schedule/1C/paragraph/8.md)
+  - [Sch. 1C para. 9 Monitoring and inspections](schedule/1C/paragraph/9.md)
+  - [Sch. 1C para. 10 Enforcement](schedule/1C/paragraph/10.md)
+  - [Sch. 1C para. 11 Provision and publication of information](schedule/1C/paragraph/11.md)
+- Schedule 1D Professional qualifications
+  - Part 1 Requirements for registered providers
+    - [Sch. 1D para. 1 Qualification requirement for individuals](schedule/1D/paragraph/1.md)
+    - [Sch. 1D para. 2 Qualified control requirement for firms](schedule/1D/paragraph/2.md)
+    - [Sch. 1D para. 3 “Appropriate qualification”](schedule/1D/paragraph/3.md)
+    - [Sch. 1D para. 4 Cases in which an individual need not hold appropriate qualification: domestic cases](schedule/1D/paragraph/4.md)
+    - [Sch. 1D para. 5 Cases in which an individual need not hold appropriate qualification: overseas cases](schedule/1D/paragraph/5.md)
+  - Part 2 Recognised qualifying bodies
+    - [Sch. 1D para. 6 “Recognised qualifying body”](schedule/1D/paragraph/6.md)
+    - [Sch. 1D para. 7 Fees](schedule/1D/paragraph/7.md)
+    - [Sch. 1D para. 8 Directions to secure compliance with international obligations](schedule/1D/paragraph/8.md)
+    - [Sch. 1D para. 9 Delegation of functions](schedule/1D/paragraph/9.md)
 - SCHEDULE 2 Relevant authorities
   - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
   - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
