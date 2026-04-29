@@ -2,11 +2,9 @@
 
 2026 c. 20. Enacted 2026-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-10-26, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-legislation.gov.uk lists 39 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
-
-Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-10-26
+Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-04-29
 
 ## Contents
 
@@ -373,7 +371,7 @@ Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-10-26
     - [Sch. 1 para. 22](schedule/1/paragraph/22.md)
   - Part 2 Consequential amendments of other Acts
     - [Sch. 1 para. 23 Housing Act 1985 (c. 68)](schedule/1/paragraph/23.md)
-    - [Sch. 1 para. 24](schedule/1/paragraph/24.md)
+    - [Sch. 1 para. 24 Housing Act 1985 (c. 68)](schedule/1/paragraph/24.md)
     - [Sch. 1 para. 25 Housing Act 1988 (c. 50)](schedule/1/paragraph/25.md)
     - [Sch. 1 para. 26 Police Reform Act 2002 (c. 30)](schedule/1/paragraph/26.md)
     - [Sch. 1 para. 27 Localism Act 2011 (c. 20)](schedule/1/paragraph/27.md)
@@ -768,23 +766,23 @@ Source: https://www.legislation.gov.uk/ukpga/2026/20/2026-10-26
     - [Sch. 21 para. 35 Prevention of Social Housing Fraud Act 2013 (c. 3)](schedule/21/paragraph/35.md)
     - [Sch. 21 para. 36 Crime and Courts Act 2013 (c. 22)](schedule/21/paragraph/36.md)
     - [Sch. 21 para. 37 Serious Crime Act 2015 (c. 9)](schedule/21/paragraph/37.md)
-    - [Sch. 21 para. 38](schedule/21/paragraph/38.md)
-    - [Sch. 21 para. 39](schedule/21/paragraph/39.md)
-    - [Sch. 21 para. 40](schedule/21/paragraph/40.md)
-    - [Sch. 21 para. 41](schedule/21/paragraph/41.md)
+    - [Sch. 21 para. 38 Serious Crime Act 2015 (c. 9)](schedule/21/paragraph/38.md)
+    - [Sch. 21 para. 39 Serious Crime Act 2015 (c. 9)](schedule/21/paragraph/39.md)
+    - [Sch. 21 para. 40 Serious Crime Act 2015 (c. 9)](schedule/21/paragraph/40.md)
+    - [Sch. 21 para. 41 Serious Crime Act 2015 (c. 9)](schedule/21/paragraph/41.md)
     - [Sch. 21 para. 42 Modern Slavery Act 2015 (c. 30)](schedule/21/paragraph/42.md)
-    - [Sch. 21 para. 43](schedule/21/paragraph/43.md)
-    - [Sch. 21 para. 44](schedule/21/paragraph/44.md)
+    - [Sch. 21 para. 43 Modern Slavery Act 2015 (c. 30)](schedule/21/paragraph/43.md)
+    - [Sch. 21 para. 44 Modern Slavery Act 2015 (c. 30)](schedule/21/paragraph/44.md)
     - [Sch. 21 para. 45 Criminal Finances Act 2017 (c. 22)](schedule/21/paragraph/45.md)
     - [Sch. 21 para. 46 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/46.md)
-    - [Sch. 21 para. 47](schedule/21/paragraph/47.md)
-    - [Sch. 21 para. 48](schedule/21/paragraph/48.md)
-    - [Sch. 21 para. 49](schedule/21/paragraph/49.md)
-    - [Sch. 21 para. 50](schedule/21/paragraph/50.md)
-    - [Sch. 21 para. 51](schedule/21/paragraph/51.md)
-    - [Sch. 21 para. 52](schedule/21/paragraph/52.md)
-    - [Sch. 21 para. 53](schedule/21/paragraph/53.md)
-    - [Sch. 21 para. 54](schedule/21/paragraph/54.md)
+    - [Sch. 21 para. 47 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/47.md)
+    - [Sch. 21 para. 48 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/48.md)
+    - [Sch. 21 para. 49 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/49.md)
+    - [Sch. 21 para. 50 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/50.md)
+    - [Sch. 21 para. 51 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/51.md)
+    - [Sch. 21 para. 52 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/52.md)
+    - [Sch. 21 para. 53 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/53.md)
+    - [Sch. 21 para. 54 Sentencing Act 2020 (c. 17)](schedule/21/paragraph/54.md)
   - Part 13 Confiscation orders made under saved legislation: provisional discharge
     - [Sch. 21 para. 55 Provisional discharge of confiscation orders made under saved legislation](schedule/21/paragraph/55.md)
     - [Sch. 21 para. 56 Effect of provisional discharge under paragraph 55 and revocation of discharge](schedule/21/paragraph/56.md)
