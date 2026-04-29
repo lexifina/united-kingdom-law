@@ -2,9 +2,9 @@
 
 2023 c. 54. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-07, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/54` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-04-07
+Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-04-29
 
 ## Contents
 
@@ -187,6 +187,7 @@ Source: https://www.legislation.gov.uk/ukpga/2023/54/2026-04-07
   - PART 1 Counterparty exempted contracts
     - [Sch. 2 para. 1 General](schedule/2/paragraph/1.md)
     - [Sch. 2 para. 2 Vertical arrangements](schedule/2/paragraph/2.md)
+    - [Sch. 2 para. 2A](schedule/2/paragraph/2A.md)
     - [Sch. 2 para. 3 Horizontal arrangements](schedule/2/paragraph/3.md)
     - [Sch. 2 para. 4 Defence and security contracts](schedule/2/paragraph/4.md)
     - [Sch. 2 para. 5 Utilities contracts](schedule/2/paragraph/5.md)
