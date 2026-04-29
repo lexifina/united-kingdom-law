@@ -1,0 +1,123 @@
+# Tobacco and Primary Medical Services (Scotland) Act 2010
+
+asp/2010/3. Enacted 2010-03-03.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 180 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/asp/2010/3
+
+Source: https://www.legislation.gov.uk/asp/2010/3/2026-04-29
+
+## Contents
+
+- Part 1 Tobacco and nicotine vapour products etc.
+  - Chapter 1 Display, sale and purchase
+    - Display of tobacco products etc.
+      - [s. 1 Prohibition of tobacco displays etc.](section/1.md)
+      - [s. 2 Displays which are also advertisements](section/2.md)
+      - [s. 3 Regulation of display of prices](section/3.md)
+      - [s. 3A Display of products or prices](section/3A.md)
+    - Sale and purchase of tobacco and nicotine vapour products
+      - [s. 4 Sale of tobacco products to persons under 18](section/4.md)
+      - [s. 4A Sale of nicotine vapour products to persons under 18](section/4A.md)
+      - [s. 4B Age verification policy](section/4B.md)
+      - [s. 4C Sale of tobacco or nicotine vapour products by persons under 18](section/4C.md)
+      - [s. 4D Defence of due diligence for certain offences](section/4D.md)
+      - [s. 5 Purchase of tobacco products by persons under 18](section/5.md)
+      - [s. 6 Purchase of tobacco products on behalf of persons under 18](section/6.md)
+      - [s. 6A Purchase of nicotine vapour products on behalf of persons under 18](section/6A.md)
+    - Miscellaneous
+      - [s. 7 Confiscation of tobacco products from persons under 18](section/7.md)
+      - [s. 8 Display of warning statements](section/8.md)
+    - Free distribution etc
+      - [s. 8A Free distribution and discount of products](section/8A.md)
+      - [s. 8B Free distribution of products: defences](section/8B.md)
+      - [s. 9 Prohibition of vending machines for the sale of tobacco products](section/9.md)
+  - Chapter 2 Register of tobacco and nicotine vapour product retailers
+    - Establishment
+      - [s. 10 Register of tobacco and nicotine vapour product retailers](section/10.md)
+    - Registration
+      - [s. 11 Application for registration and addition of premises etc.](section/11.md)
+      - [s. 12 Certificates of registration](section/12.md)
+    - Changes to register
+      - [s. 13 Duty to notify certain changes](section/13.md)
+      - [s. 14 Changes to and removal from Register](section/14.md)
+    - Tobacco and nicotine vapour product banning orders
+      - [s. 15 Tobacco and nicotine vapour product banning orders](section/15.md)
+      - [s. 16 Tobacco and nicotine vapour product banning orders: ancillary orders](section/16.md)
+      - [s. 17 Tobacco and nicotine vapour product banning orders etc.: appeals](section/17.md)
+      - [s. 18 Tobacco and nicotine vapour product banning orders etc.: notification to Scottish Ministers](section/18.md)
+      - [s. 19 Tobacco and nicotine vapour product banning orders: display of notices](section/19.md)
+    - Offences
+      - [s. 20 Offences relating to the Register](section/20.md)
+    - Register of tobacco and nicotine vapour product retailers: miscellaneous and supplementary
+      - [s. 21 Public inspection of Register](section/21.md)
+      - [s. 22 Council access to Register](section/22.md)
+      - [s. 23 Delegation of functions relating to Register](section/23.md)
+      - [s. 24 Vehicles, vessels and moveable structures](section/24.md)
+  - Chapter 3 Enforcement and fixed penalties
+    - Enforcement
+      - [s. 25 Enforcement](section/25.md)
+      - [s. 26 Programmes of enforcement](section/26.md)
+    - Fixed penalties
+      - [s. 27 Fixed penalties](section/27.md)
+    - Powers of entry etc.
+      - [s. 28 Powers of entry etc.](section/28.md)
+      - [s. 29 Warrants for entry](section/29.md)
+      - [s. 30 Powers of entry and warrants for entry: supplementary](section/30.md)
+      - [s. 31 Obstruction, etc. of council officers](section/31.md)
+      - [s. 32 Powers of entry: constables](section/32.md)
+  - Chapter 4 Miscellaneous and supplementary
+    - [s. 33 Presumption as to contents of container](section/33.md)
+    - [s. 34 Offences by bodies corporate etc.](section/34.md)
+    - [s. 34A Power to extend this Part to other products](section/34A.md)
+    - [s. 35 Interpretation of Part 1](section/35.md)
+    - [s. 35A Meaning of “nicotine vapour product”](section/35A.md)
+    - [s. 36 Crown application](section/36.md)
+- Part 2 Primary medical services
+  - [s. 37 Contractual arrangements for the provision of primary medical services](section/37.md)
+  - [s. 38 Section 17C arrangements: persons with whom agreements can be made](section/38.md)
+  - [s. 39 Eligibility to be contractor under general medical services contract](section/39.md)
+- Part 3 General provision
+  - [s. 40 Orders and regulations](section/40.md)
+  - [s. 41 Minor and consequential modifications](section/41.md)
+  - [s. 42 Ancillary provision](section/42.md)
+  - [s. 43 Short title and commencement](section/43.md)
+- SCHEDULE 1 Fixed penalties
+  - Preliminary
+    - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+  - Content of fixed penalty notice
+    - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+  - Period in which notice can be given
+    - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+  - Amount of penalty
+    - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+  - Deadlines for payment
+    - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+  - Method of payment
+    - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Restriction on proceedings and effect of payment
+    - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+  - Withdrawal of fixed penalty notice
+    - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+  - Effect of prosecution on fixed penalty notice
+    - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+  - General and supplemental
+    - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+- SCHEDULE 2 Minor and consequential modifications
+  - Part 1 Tobacco products etc.
+    - Children and Young Persons (Scotland) Act 1937 (c.37)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Children and Young Persons (Protection from Tobacco) Act 1991 (c.23)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - Tobacco Advertising and Promotion Act 2002 (c.36)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+  - Part 2 Primary medical services
+    - National Health Service (Scotland) Act 1978 (c.29)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+    - Primary Medical Services (Scotland) Act 2004 (asp 1)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
