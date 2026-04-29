@@ -1,0 +1,497 @@
+# Local Government Act 1985
+
+1985 c. 51. Enacted 1985-07-16.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+legislation.gov.uk lists 12 changes to this Act that it had not yet applied to the text: https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
+
+Source: https://www.legislation.gov.uk/ukpga/1985/51/2026-04-29
+
+## Contents
+
+- Part I Abolition of Greater London Council and Metropolitan County Councils
+  - [s. 1 Abolition of GLC and metropolitan county councils.](section/1.md)
+- Part II Transfer of Functions to London Borough Councils, Metropolitan District Councils and Other Existing Authorities
+  - Preliminary
+    - [s. 2 Commencement of Part II.](section/2.md)
+  - Town and country planning etc.
+    - [s. 3 Local planning authorities.](section/3.md)
+    - [s. 4 ................................](section/4.md)
+    - [s. 6 Listed buildings, conservation areas and ancient monuments.](section/6.md)
+    - [s. 7 National Parks and countryside functions.](section/7.md)
+  - Highways and road traffic
+    - [s. 8 Highways and road traffic functions.](section/8.md)
+  - Waste regulation and disposal
+    - [s. 9 Waste regulation and disposal functions.](section/9.md)
+    - [s. 10 Joint arrangements for waste disposal functions.](section/10.md)
+  - Land drainage and flood prevention
+    - [s. 11 Land drainage and flood prevention functions.](section/11.md)
+  - Administration of justice
+    - [s. 12 ................................](section/12.md)
+    - [s. 13 ................................](section/13.md)
+    - [s. 14 Local valuation panels.](section/14.md)
+    - [s. 15 ................................](section/15.md)
+  - Miscellaneous
+    - [s. 16 Miscellaneous functions.](section/16.md)
+    - [s. 17 Functions under local statutory provisions.](section/17.md)
+- Part III
+  - [s. 18 ................................](section/18.md)
+- Part IV Police, Fire Services, Civil Defence and Transport
+  - Establishment of joint authorities
+    - [s. 23 Preliminary.](section/23.md)
+    - [s. 24 ................................](section/24.md)
+    - [s. 25 ................................](section/25.md)
+    - [s. 26 Metropolitan county fire and civil defence authorities.](section/26.md)
+    - [s. 27 ................................](section/27.md)
+    - [s. 28 Integrated Transport Authorities](section/28.md)
+  - Members of joint authorities
+    - [s. 29 Number of members.](section/29.md)
+    - [s. 30 First appointments.](section/30.md)
+    - [s. 31 Replacement of members.](section/31.md)
+    - [s. 32 Filling of vacancies.](section/32.md)
+    - [s. 33 ................................](section/33.md)
+    - [s. 34 Chairman, vice-chairman, and clerk.](section/34.md)
+    - [s. 35 Disqualification.](section/35.md)
+    - [s. 36 Notices.](section/36.md)
+  - Functions
+    - [s. 37 Police and fire services.](section/37.md)
+    - [s. 38 Civil defence.](section/38.md)
+    - [s. 39 Passenger transport.](section/39.md)
+    - [s. 40 Airports.](section/40.md)
+    - [s. 41 Questions on discharge of functions.](section/41.md)
+    - [s. 42 Reorganisation of functions.](section/42.md)
+- Part V The Arts, Recreation and Voluntary Organisations
+  - [s. 43 Museum of London.](section/43.md)
+  - [s. 44 Historic House Museums.](section/44.md)
+  - [s. 45 Horniman and Geffrye museums.](section/45.md)
+  - [s. 46 Metropolitan county museums.](section/46.md)
+  - [s. 47 The South Bank](section/47.md)
+  - [s. 48 Grants to voluntary organisations.](section/48.md)
+  - [s. 49 Grants by residuary bodies.](section/49.md)
+- Part VI Staff
+  - [s. 50 Functions of staff commission.](section/50.md)
+  - [s. 51 Remuneration of employees.](section/51.md)
+  - [s. 52 Power to transfer staff.](section/52.md)
+  - [s. 53 Compensation for loss of office or diminution of emoluments.](section/53.md)
+  - [s. 54 Continuity of employment in certain cases of voluntary transfer.](section/54.md)
+  - [s. 55 Offers of employment by successor authorities.](section/55.md)
+  - [s. 56 Information as to local government manpower.](section/56.md)
+- Part VII Residuary Bodies
+  - [s. 57 Establishment of residuary bodies.](section/57.md)
+  - [s. 58 Repayment of loans.](section/58.md)
+  - [s. 59 Redundancy and compensation payments.](section/59.md)
+  - [s. 60 Payment of pensions.](section/60.md)
+  - [s. 61 Payment of pensions increases.](section/61.md)
+  - [s. 62 Custody of residuary property etc.](section/62.md)
+  - [s. 63 Preparation of final accounts.](section/63.md)
+  - [s. 64 Commutation of smallholdings and housing payments.](section/64.md)
+  - [s. 65 Directions.](section/65.md)
+  - [s. 66 Discharge of certain residuary functions by designated councils.](section/66.md)
+  - [s. 67 Winding up of residuary bodies.](section/67.md)
+- Part VIII Financial Provisions
+  - New authorities
+    - [s. 68 ................................](section/68.md)
+    - [s. 69 Block grant.](section/69.md)
+    - [s. 70 ................................](section/70.md)
+    - [s. 72 Accounts and audit.](section/72.md)
+    - [s. 73 Financial administration.](section/73.md)
+  - Residuary bodies
+    - [s. 74 ................................](section/74.md)
+    - [s. 75 ................................](section/75.md)
+    - [s. 76 ................................](section/76.md)
+    - [s. 77 Treatment and distribution of capital and other money.](section/77.md)
+    - [s. 78 Accounts.](section/78.md)
+    - [s. 79 Audit.](section/79.md)
+  - Transitional provisions
+    - [s. 80 Transitional provisions relating to block grant and expenditure levels.](section/80.md)
+    - [s. 81 Transitional functions of residuary bodies in respect of block grant.](section/81.md)
+    - [s. 82 Transitional provisions for interim authorities.](section/82.md)
+  - London rate equalisation
+    - [s. 83 London rate equalisation schemes.](section/83.md)
+- Part IX Miscellaneous and Supplementary
+  - [s. 84 Application of local authority provisions to new authorities.](section/84.md)
+  - [s. 85 Exercise of functions by new authorities in initial period.](section/85.md)
+  - [s. 86 First meetings of new authorities.](section/86.md)
+  - [s. 87 Local and personal Bills.](section/87.md)
+  - [s. 88 Research and collection of information.](section/88.md)
+  - [s. 89 GLC housing transfer orders and nomination rights.](section/89.md)
+  - [s. 90 Charities.](section/90.md)
+  - [s. 91 Control of financial and other assistance to local authorities by GLC and metropolitan county councils.](section/91.md)
+  - [s. 92 Control of liabilities affecting successor authorities.](section/92.md)
+  - [s. 93 Control of disposals and contracts.](section/93.md)
+  - [s. 94 The Temples.](section/94.md)
+  - [s. 95 Co-ordinating committees of successor councils.](section/95.md)
+  - [s. 96 Information for implementation of Act.](section/96.md)
+  - [s. 97 Other provisions for implementation of Act.](section/97.md)
+  - [s. 98 Continuity of exercise of functions.](section/98.md)
+  - [s. 99 Disqualification of justices.](section/99.md)
+  - [s. 100 Transfer of property, rights and liabilities.](section/100.md)
+  - [s. 101 Power to make incidental, consequential, and transitional provisions.](section/101.md)
+  - [s. 102 Consequential amendments and repeals.](section/102.md)
+  - [s. 103 Orders etc.](section/103.md)
+  - [s. 104 Expenses.](section/104.md)
+  - [s. 105 Interpretation.](section/105.md)
+  - [s. 106 Short title and extent.](section/106.md)
+- SCHEDULE 1
+- SCHEDULE 2 Listed Buildings, Conservation Areas and Ancient Monuments
+  - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+  - Ancient monuments
+    - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+  - Other functions
+    - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+- SCHEDULE 3 National Parks and Countryside Functions
+  - Byelaws for country parks etc.
+    - [Sch. 3 para. 1](schedule/3/paragraph/1.md)
+    - [Sch. 3 para. 2](schedule/3/paragraph/2.md)
+  - Functions of local planning authorities in National Parks
+    - [Sch. 3 para. 3](schedule/3/paragraph/3.md)
+    - [Sch. 3 para. 4](schedule/3/paragraph/4.md)
+    - [Sch. 3 para. 5](schedule/3/paragraph/5.md)
+  - Grants for expenditure on National Parks
+    - [Sch. 3 para. 6](schedule/3/paragraph/6.md)
+  - Other powers relating to nature conservation, the countryside and the National Parks
+    - [Sch. 3 para. 7](schedule/3/paragraph/7.md)
+- SCHEDULE 4 Highways
+  - Part I Amendments of the Highways Act 1980
+    - [Sch. 4 para. 1](schedule/4/paragraph/1.md)
+    - [Sch. 4 para. 2](schedule/4/paragraph/2.md)
+    - [Sch. 4 para. 3](schedule/4/paragraph/3.md)
+    - [Sch. 4 para. 4](schedule/4/paragraph/4.md)
+    - [Sch. 4 para. 5](schedule/4/paragraph/5.md)
+    - [Sch. 4 para. 6](schedule/4/paragraph/6.md)
+    - [Sch. 4 para. 7](schedule/4/paragraph/7.md)
+    - [Sch. 4 para. 8](schedule/4/paragraph/8.md)
+    - [Sch. 4 para. 9](schedule/4/paragraph/9.md)
+    - [Sch. 4 para. 10](schedule/4/paragraph/10.md)
+    - [Sch. 4 para. 11](schedule/4/paragraph/11.md)
+    - [Sch. 4 para. 12](schedule/4/paragraph/12.md)
+    - [Sch. 4 para. 13](schedule/4/paragraph/13.md)
+    - [Sch. 4 para. 14](schedule/4/paragraph/14.md)
+    - [Sch. 4 para. 15](schedule/4/paragraph/15.md)
+    - [Sch. 4 para. 16](schedule/4/paragraph/16.md)
+    - [Sch. 4 para. 17](schedule/4/paragraph/17.md)
+    - [Sch. 4 para. 18](schedule/4/paragraph/18.md)
+    - [Sch. 4 para. 19](schedule/4/paragraph/19.md)
+    - [Sch. 4 para. 20](schedule/4/paragraph/20.md)
+    - [Sch. 4 para. 21](schedule/4/paragraph/21.md)
+    - [Sch. 4 para. 22](schedule/4/paragraph/22.md)
+    - [Sch. 4 para. 23](schedule/4/paragraph/23.md)
+    - [Sch. 4 para. 24](schedule/4/paragraph/24.md)
+    - [Sch. 4 para. 25](schedule/4/paragraph/25.md)
+    - [Sch. 4 para. 26](schedule/4/paragraph/26.md)
+    - [Sch. 4 para. 27](schedule/4/paragraph/27.md)
+    - [Sch. 4 para. 28](schedule/4/paragraph/28.md)
+    - [Sch. 4 para. 29](schedule/4/paragraph/29.md)
+    - [Sch. 4 para. 30](schedule/4/paragraph/30.md)
+    - [Sch. 4 para. 31](schedule/4/paragraph/31.md)
+    - [Sch. 4 para. 32](schedule/4/paragraph/32.md)
+    - [Sch. 4 para. 33](schedule/4/paragraph/33.md)
+    - [Sch. 4 para. 34](schedule/4/paragraph/34.md)
+    - [Sch. 4 para. 35](schedule/4/paragraph/35.md)
+    - [Sch. 4 para. 36](schedule/4/paragraph/36.md)
+    - [Sch. 4 para. 37](schedule/4/paragraph/37.md)
+    - [Sch. 4 para. 38](schedule/4/paragraph/38.md)
+    - [Sch. 4 para. 39](schedule/4/paragraph/39.md)
+    - [Sch. 4 para. 40](schedule/4/paragraph/40.md)
+    - [Sch. 4 para. 41](schedule/4/paragraph/41.md)
+    - [Sch. 4 para. 42](schedule/4/paragraph/42.md)
+    - [Sch. 4 para. 43](schedule/4/paragraph/43.md)
+    - [Sch. 4 para. 44](schedule/4/paragraph/44.md)
+  - Part II Amendments of Other Enactments
+    - [Sch. 4 para. 45](schedule/4/paragraph/45.md)
+    - [Sch. 4 para. 46](schedule/4/paragraph/46.md)
+    - [Sch. 4 para. 47](schedule/4/paragraph/47.md)
+    - [Sch. 4 para. 48](schedule/4/paragraph/48.md)
+    - [Sch. 4 para. 49](schedule/4/paragraph/49.md)
+    - [Sch. 4 para. 50](schedule/4/paragraph/50.md)
+    - [Sch. 4 para. 51](schedule/4/paragraph/51.md)
+  - Part III Supplementary Provisions
+    - [Sch. 4 para. 52](schedule/4/paragraph/52.md)
+    - [Sch. 4 para. 53](schedule/4/paragraph/53.md)
+    - [Sch. 4 para. 54](schedule/4/paragraph/54.md)
+    - [Sch. 4 para. 55](schedule/4/paragraph/55.md)
+    - [Sch. 4 para. 56](schedule/4/paragraph/56.md)
+    - [Sch. 4 para. 57](schedule/4/paragraph/57.md)
+- SCHEDULE 5 Road Traffic
+  - Part I Amendments of Enactments
+    - The Chronically Sick and Disabled Persons Act 1970
+      - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+      - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - The Public Passenger Vehicles Act 1981
+      - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - The Road Traffic Regulation Act 1984
+      - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+  - Part II Supplementary Provisions Relating To Road Traffic
+    - Designation of roads in Greater London
+      - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - Guidance as to exercise of traffic powers in Greater London and metropolitan counties
+      - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - Procedures and objections
+      - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+    - Application of Part VI of Schedule 9 to the 1984 Act
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Supplementary
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Reserve powers of the Secretary of State as to traffic control systems in Greater London and metropolitan counties
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Information
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Transitional provisions concerning certain orders under the 1984 Act
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+    - Interpretation
+      - [Sch. 5 para. 13](schedule/5/paragraph/13.md)
+    - Commencement
+      - [Sch. 5 para. 14](schedule/5/paragraph/14.md)
+- SCHEDULE 6 Waste Regulation and Disposal
+  - The London Government Act 1963
+    - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+  - The Local Government Act 1972
+    - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+  - The Control of Pollution Act 1974
+    - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+  - The Refuse Disposal (Amenity) Act 1978
+    - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+  - The Litter Act 1983
+    - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+- SCHEDULE 7 Land Drainage
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
+  - [Sch. 7 para. 7](schedule/7/paragraph/7.md)
+  - [Sch. 7 para. 8](schedule/7/paragraph/8.md)
+  - [Sch. 7 para. 9](schedule/7/paragraph/9.md)
+- SCHEDULE 8 Miscellaneous Functions
+  - Public entertainments
+    - [Sch. 8 para. 1](schedule/8/paragraph/1.md)
+  - Private places of entertainment
+    - [Sch. 8 para. 2](schedule/8/paragraph/2.md)
+  - Theatres
+    - [Sch. 8 para. 3](schedule/8/paragraph/3.md)
+  - Cinemas
+    - [Sch. 8 para. 4](schedule/8/paragraph/4.md)
+  - Children’s entertainments
+    - [Sch. 8 para. 5](schedule/8/paragraph/5.md)
+  - Tracks for betting
+    - [Sch. 8 para. 6](schedule/8/paragraph/6.md)
+  - Sports grounds
+    - [Sch. 8 para. 7](schedule/8/paragraph/7.md)
+  - Town development and new towns
+    - [Sch. 8 para. 8](schedule/8/paragraph/8.md)
+    - [Sch. 8 para. 9](schedule/8/paragraph/9.md)
+  - Commons
+    - [Sch. 8 para. 10](schedule/8/paragraph/10.md)
+  - Gipsy encampments
+    - [Sch. 8 para. 11](schedule/8/paragraph/11.md)
+  - Housing
+    - [Sch. 8 para. 12](schedule/8/paragraph/12.md)
+  - Rent officers
+    - [Sch. 8 para. 13](schedule/8/paragraph/13.md)
+  - Building control
+    - [Sch. 8 para. 14](schedule/8/paragraph/14.md)
+  - Trading standards and related functions
+    - [Sch. 8 para. 15](schedule/8/paragraph/15.md)
+  - Poisons
+    - [Sch. 8 para. 16](schedule/8/paragraph/16.md)
+  - Animals
+    - [Sch. 8 para. 17](schedule/8/paragraph/17.md)
+    - [Sch. 8 para. 18](schedule/8/paragraph/18.md)
+  - Fisheries
+    - [Sch. 8 para. 19](schedule/8/paragraph/19.md)
+    - [Sch. 8 para. 20](schedule/8/paragraph/20.md)
+  - Weeds
+    - [Sch. 8 para. 21](schedule/8/paragraph/21.md)
+  - Archives and records
+    - [Sch. 8 para. 22](schedule/8/paragraph/22.md)
+  - Expenses of Commission for Local Administration in England
+    - [Sch. 8 para. 23](schedule/8/paragraph/23.md)
+    - [Sch. 8 para. 24](schedule/8/paragraph/24.md)
+  - Administrative functions transferred by Courts Act 1971
+    - [Sch. 8 para. 25](schedule/8/paragraph/25.md)
+  - Loan societies
+    - [Sch. 8 para. 26](schedule/8/paragraph/26.md)
+  - Mines and quarries
+    - [Sch. 8 para. 27](schedule/8/paragraph/27.md)
+- SCHEDULE 9 ...
+- SCHEDULE 10 NUMBER OF MEMBERS OF JOINT AUTHORITIES
+  - Part I
+  - Part II Greater Manchester
+  - Part III Merseyside
+  - Part IV South Yorkshire
+  - Part V Tyne and Wear and Northumberland
+  - Part VI West Midlands
+  - Part III West Yorkshire
+- SCHEDULE 11 Police and Fire Services
+  - Police
+    - [Sch. 11 para. 1](schedule/11/paragraph/1.md)
+  - Fire services
+    - [Sch. 11 para. 2](schedule/11/paragraph/2.md)
+  - Explosives, petroleum etc.
+    - [Sch. 11 para. 3](schedule/11/paragraph/3.md)
+    - [Sch. 11 para. 4](schedule/11/paragraph/4.md)
+    - [Sch. 11 para. 5](schedule/11/paragraph/5.md)
+    - [Sch. 11 para. 6](schedule/11/paragraph/6.md)
+- SCHEDULE 12 Passenger Transport
+  - [Sch. 12 para. 1](schedule/12/paragraph/1.md)
+  - [Sch. 12 para. 3](schedule/12/paragraph/3.md)
+  - [Sch. 12 para. 4](schedule/12/paragraph/4.md)
+  - [Sch. 12 para. 5](schedule/12/paragraph/5.md)
+- SCHEDULE 13 Residuary Bodies
+  - Status
+    - [Sch. 13 para. 1](schedule/13/paragraph/1.md)
+  - Tenure of office of members
+    - [Sch. 13 para. 2](schedule/13/paragraph/2.md)
+  - Remuneration etc. of members
+    - [Sch. 13 para. 3](schedule/13/paragraph/3.md)
+  - House of Commons disqualification
+    - [Sch. 13 para. 4](schedule/13/paragraph/4.md)
+  - Proceedings
+    - [Sch. 13 para. 5](schedule/13/paragraph/5.md)
+    - [Sch. 13 para. 6](schedule/13/paragraph/6.md)
+  - Acquisition and disposal of land
+    - [Sch. 13 para. 7](schedule/13/paragraph/7.md)
+  - Provision of services
+    - [Sch. 13 para. 8](schedule/13/paragraph/8.md)
+  - Access to documents of councils
+    - [Sch. 13 para. 9](schedule/13/paragraph/9.md)
+  - Reports and information
+    - [Sch. 13 para. 10](schedule/13/paragraph/10.md)
+    - [Sch. 13 para. 11](schedule/13/paragraph/11.md)
+  - Application of local government provisions
+    - [Sch. 13 para. 12](schedule/13/paragraph/12.md)
+    - [Sch. 13 para. 13](schedule/13/paragraph/13.md)
+    - [Sch. 13 para. 14](schedule/13/paragraph/14.md)
+    - [Sch. 13 para. 15](schedule/13/paragraph/15.md)
+    - [Sch. 13 para. 16](schedule/13/paragraph/16.md)
+    - [Sch. 13 para. 17](schedule/13/paragraph/17.md)
+    - [Sch. 13 para. 18](schedule/13/paragraph/18.md)
+    - [Sch. 13 para. 19](schedule/13/paragraph/19.md)
+    - [Sch. 13 para. 20](schedule/13/paragraph/20.md)
+    - [Sch. 13 para. 21](schedule/13/paragraph/21.md)
+    - [Sch. 13 para. 22](schedule/13/paragraph/22.md)
+    - [Sch. 13 para. 23](schedule/13/paragraph/23.md)
+    - [Sch. 13 para. 24](schedule/13/paragraph/24.md)
+    - [Sch. 13 para. 25](schedule/13/paragraph/25.md)
+    - [Sch. 13 para. 26](schedule/13/paragraph/26.md)
+- SCHEDULE 14 New Authorities: Application of Local Authority Provisions
+  - Part I Amendments of Local Government Act 1972
+    - Restrictions on promotion of Bills for changing local government areas etc.
+      - [Sch. 14 para. 1](schedule/14/paragraph/1.md)
+    - Qualifications for election and holding office
+      - [Sch. 14 para. 2](schedule/14/paragraph/2.md)
+    - Disqualifications for election and holding office
+      - [Sch. 14 para. 3](schedule/14/paragraph/3.md)
+    - Validity of acts done by unqualified persons
+      - [Sch. 14 para. 4](schedule/14/paragraph/4.md)
+    - Declaration of acceptance of office
+      - [Sch. 14 para. 5](schedule/14/paragraph/5.md)
+    - Resignation
+      - [Sch. 14 para. 6](schedule/14/paragraph/6.md)
+    - Failure to attend meetings
+      - [Sch. 14 para. 7](schedule/14/paragraph/7.md)
+    - Declaration of vacancy
+      - [Sch. 14 para. 8](schedule/14/paragraph/8.md)
+    - Date of casual vacancies
+      - [Sch. 14 para. 9](schedule/14/paragraph/9.md)
+    - Filling of casual vacancies
+      - [Sch. 14 para. 10](schedule/14/paragraph/10.md)
+    - Term of office of person filling casual vacancy
+      - [Sch. 14 para. 11](schedule/14/paragraph/11.md)
+    - Proceedings for disqualification
+      - [Sch. 14 para. 12](schedule/14/paragraph/12.md)
+    - Pecuniary interests
+      - [Sch. 14 para. 13](schedule/14/paragraph/13.md)
+    - Meetings and proceedings
+      - [Sch. 14 para. 14](schedule/14/paragraph/14.md)
+    - Discharge of functions
+      - [Sch. 14 para. 15](schedule/14/paragraph/15.md)
+    - Miscellaneous powers of local authorities
+      - [Sch. 14 para. 16](schedule/14/paragraph/16.md)
+      - [Sch. 14 para. 17](schedule/14/paragraph/17.md)
+    - Allowances to members
+      - [Sch. 14 para. 18](schedule/14/paragraph/18.md)
+      - [Sch. 14 para. 19](schedule/14/paragraph/19.md)
+      - [Sch. 14 para. 20](schedule/14/paragraph/20.md)
+    - Legal proceedings
+      - [Sch. 14 para. 21](schedule/14/paragraph/21.md)
+    - Documents and notices
+      - [Sch. 14 para. 22](schedule/14/paragraph/22.md)
+      - [Sch. 14 para. 23](schedule/14/paragraph/23.md)
+      - [Sch. 14 para. 24](schedule/14/paragraph/24.md)
+      - [Sch. 14 para. 25](schedule/14/paragraph/25.md)
+      - [Sch. 14 para. 26](schedule/14/paragraph/26.md)
+      - [Sch. 14 para. 27](schedule/14/paragraph/27.md)
+      - [Sch. 14 para. 28](schedule/14/paragraph/28.md)
+      - [Sch. 14 para. 29](schedule/14/paragraph/29.md)
+      - [Sch. 14 para. 30](schedule/14/paragraph/30.md)
+    - Byelaws
+      - [Sch. 14 para. 31](schedule/14/paragraph/31.md)
+    - Promoting and opposing local and personal Bills
+      - [Sch. 14 para. 32](schedule/14/paragraph/32.md)
+    - Computation of time
+      - [Sch. 14 para. 33](schedule/14/paragraph/33.md)
+    - Interpretation
+      - [Sch. 14 para. 34](schedule/14/paragraph/34.md)
+    - Meetings and proceedings
+      - [Sch. 14 para. 35](schedule/14/paragraph/35.md)
+  - Part II Amendments of Other Enactments
+    - [Sch. 14 para. 36](schedule/14/paragraph/36.md)
+    - [Sch. 14 para. 37](schedule/14/paragraph/37.md)
+    - [Sch. 14 para. 38](schedule/14/paragraph/38.md)
+    - [Sch. 14 para. 39](schedule/14/paragraph/39.md)
+    - [Sch. 14 para. 40](schedule/14/paragraph/40.md)
+    - [Sch. 14 para. 41](schedule/14/paragraph/41.md)
+    - [Sch. 14 para. 42](schedule/14/paragraph/42.md)
+    - [Sch. 14 para. 43](schedule/14/paragraph/43.md)
+    - [Sch. 14 para. 44](schedule/14/paragraph/44.md)
+    - [Sch. 14 para. 45 ................................](schedule/14/paragraph/45.md)
+    - [Sch. 14 para. 46](schedule/14/paragraph/46.md)
+    - [Sch. 14 para. 47](schedule/14/paragraph/47.md)
+    - [Sch. 14 para. 48](schedule/14/paragraph/48.md)
+    - [Sch. 14 para. 49](schedule/14/paragraph/49.md)
+    - [Sch. 14 para. 50](schedule/14/paragraph/50.md)
+    - [Sch. 14 para. 51](schedule/14/paragraph/51.md)
+    - [Sch. 14 para. 52](schedule/14/paragraph/52.md)
+    - [Sch. 14 para. 53](schedule/14/paragraph/53.md)
+    - [Sch. 14 para. 54](schedule/14/paragraph/54.md)
+    - [Sch. 14 para. 55](schedule/14/paragraph/55.md)
+    - [Sch. 14 para. 56](schedule/14/paragraph/56.md)
+    - [Sch. 14 para. 57](schedule/14/paragraph/57.md)
+    - [Sch. 14 para. 58](schedule/14/paragraph/58.md)
+    - [Sch. 14 para. 59](schedule/14/paragraph/59.md)
+    - [Sch. 14 para. 60](schedule/14/paragraph/60.md)
+    - [Sch. 14 para. 61](schedule/14/paragraph/61.md)
+    - [Sch. 14 para. 62](schedule/14/paragraph/62.md)
+    - [Sch. 14 para. 63](schedule/14/paragraph/63.md)
+    - [Sch. 14 para. 64](schedule/14/paragraph/64.md)
+- SCHEDULE 15 Section 91: Supplementary Provisions
+  - Part I Relevant Assistance
+    - [Sch. 15 para. 1](schedule/15/paragraph/1.md)
+  - Part II Consequences of Contravention
+    - [Sch. 15 para. 2](schedule/15/paragraph/2.md)
+    - [Sch. 15 para. 3](schedule/15/paragraph/3.md)
+    - [Sch. 15 para. 4](schedule/15/paragraph/4.md)
+    - [Sch. 15 para. 5](schedule/15/paragraph/5.md)
+    - [Sch. 15 para. 6](schedule/15/paragraph/6.md)
+  - Part III Failure to Furnish Information
+    - [Sch. 15 para. 7](schedule/15/paragraph/7.md)
+- SCHEDULE 16 Consequential Amendments
+  - The London Government Act 1963 (c.33)
+    - [Sch. 16 para. 1](schedule/16/paragraph/1.md)
+  - The Local Government Act 1972 (c.70)
+    - [Sch. 16 para. 2](schedule/16/paragraph/2.md)
+    - [Sch. 16 para. 3](schedule/16/paragraph/3.md)
+    - [Sch. 16 para. 4](schedule/16/paragraph/4.md)
+    - [Sch. 16 para. 5](schedule/16/paragraph/5.md)
+    - [Sch. 16 para. 6](schedule/16/paragraph/6.md)
+    - [Sch. 16 para. 7](schedule/16/paragraph/7.md)
+    - [Sch. 16 para. 8](schedule/16/paragraph/8.md)
+  - The Local Government, Planning and Land Act 1980 (c.65)
+    - [Sch. 16 para. 9](schedule/16/paragraph/9.md)
+  - The Representation of the People Act 1983 (c.2)
+    - [Sch. 16 para. 10](schedule/16/paragraph/10.md)
+    - [Sch. 16 para. 11](schedule/16/paragraph/11.md)
+- SCHEDULE 17 Repeals
