@@ -1,0 +1,340 @@
+# Constitutional Reform and Governance Act 2010
+
+2010 c. 25. Enacted 2010-04-08.
+
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+
+Source: https://www.legislation.gov.uk/ukpga/2010/25/2026-04-29
+
+## Contents
+
+- Part 1 The civil service
+  - CHAPTER 1 Statutory basis for management of the civil service
+    - Application
+      - [s. 1 Application of Chapter](section/1.md)
+    - Civil Service Commission
+      - [s. 2 Establishment of the Civil Service Commission](section/2.md)
+    - Power to manage the civil service
+      - [s. 3 Management of the civil service](section/3.md)
+      - [s. 4 Other statutory management powers](section/4.md)
+    - Codes of conduct
+      - [s. 5 Civil service code](section/5.md)
+      - [s. 6 Diplomatic service code](section/6.md)
+      - [s. 7 Minimum requirements for civil service and diplomatic service codes](section/7.md)
+      - [s. 8 Special advisers code](section/8.md)
+      - [s. 9 Conduct that conflicts with a code of conduct: complaints by civil servants](section/9.md)
+    - Appointment
+      - [s. 10 Selections for appointments to the civil service](section/10.md)
+      - [s. 11 Recruitment principles](section/11.md)
+      - [s. 12 Approvals for selections and exceptions](section/12.md)
+      - [s. 13 Complaints about competitions](section/13.md)
+      - [s. 14 Monitoring by the Commission](section/14.md)
+    - Special advisers
+      - [s. 15 Definition of “special adviser”](section/15.md)
+      - [s. 16 Annual reports about special advisers](section/16.md)
+    - Additional functions of the Commission
+      - [s. 17 Agreements for the Commission to carry out additional functions](section/17.md)
+    - Final provisions
+      - [s. 18 Definitions etc](section/18.md)
+  - CHAPTER 2 Consequential and transitional provision
+    - [s. 19 Consequential amendments and transitional provision](section/19.md)
+- Part 2 Ratification of treaties
+  - [s. 20 Treaties to be laid before Parliament before ratification](section/20.md)
+  - [s. 21 Extension of 21 sitting day period](section/21.md)
+  - [s. 22 Section 20 not to apply in exceptional cases](section/22.md)
+  - [s. 23 Section 20 not to apply to certain descriptions of treaties](section/23.md)
+  - [s. 24 Explanatory memoranda](section/24.md)
+  - [s. 25 Meaning of “treaty” and “ratification”](section/25.md)
+- Part 3 Parliamentary standards etc
+  - Amendments of the Parliamentary Standards Act 2009
+    - [s. 26 Compliance Officer](section/26.md)
+    - [s. 27 Membership of Speaker’s Committee](section/27.md)
+    - [s. 28 Transparency etc](section/28.md)
+    - [s. 29 MPs’ salaries](section/29.md)
+    - [s. 30 MPs’ allowances scheme](section/30.md)
+    - [s. 31 Allowances claims](section/31.md)
+    - [s. 32 MPs’ code of conduct relating to financial interests](section/32.md)
+    - [s. 33 Investigations](section/33.md)
+    - [s. 34 Enforcement](section/34.md)
+    - [s. 35 Relationships with other bodies etc](section/35.md)
+    - [s. 36 Further functions of the IPSA and Commissioner](section/36.md)
+    - [s. 37 Expiry of provisions of the Parliamentary Standards Act 2009](section/37.md)
+    - [s. 38 Consequential amendments](section/38.md)
+  - Other provision
+    - [s. 39 Resettlement grants for MEPs](section/39.md)
+    - [s. 40 Parliamentary and other pensions](section/40.md)
+- Part 4 Tax status of MPs and members of the House of Lords
+  - [s. 41 Tax status of MPs and members of the House of Lords](section/41.md)
+  - [s. 42 Tax status of members of the House of Lords: transitional provision](section/42.md)
+- Part 5 Transparency of government financial reporting to Parliament
+  - [s. 43 Inclusion in departmental estimates of resources used by designated bodies](section/43.md)
+  - [s. 44 Corresponding provision in relation to Wales](section/44.md)
+- Part 6 Public records and freedom of information
+  - [s. 45 Transfer of records to Public Record Office](section/45.md)
+  - [s. 46 Freedom of information](section/46.md)
+- Part 7 Miscellaneous and final provisions
+  - [s. 47 Section 3 of the Act of Settlement](section/47.md)
+  - [s. 48 Parliamentary elections: counting of votes](section/48.md)
+  - [s. 49 Meaning of “Minister of the Crown”](section/49.md)
+  - [s. 50 Financial provision](section/50.md)
+  - [s. 51 Power to make consequential provision](section/51.md)
+  - [s. 52 Extent, commencement, transitional provision and short title](section/52.md)
+- SCHEDULE 1 The Civil Service Commission
+  - Part 1 The Commissioners
+    - Membership of the Commission
+      - [Sch. 1 para. 1](schedule/1/paragraph/1.md)
+    - Appointment of First Civil Service Commissioner
+      - [Sch. 1 para. 2](schedule/1/paragraph/2.md)
+    - Appointment of Civil Service Commissioners
+      - [Sch. 1 para. 3](schedule/1/paragraph/3.md)
+    - Payment of remuneration and allowances etc
+      - [Sch. 1 para. 4](schedule/1/paragraph/4.md)
+    - Resignation or removal from office
+      - [Sch. 1 para. 5](schedule/1/paragraph/5.md)
+    - Compensation for loss of office of First Commissioner or Commissioner
+      - [Sch. 1 para. 6](schedule/1/paragraph/6.md)
+  - Part 2 The Commission
+    - Status of the Commission and its property
+      - [Sch. 1 para. 7](schedule/1/paragraph/7.md)
+    - Powers
+      - [Sch. 1 para. 8](schedule/1/paragraph/8.md)
+    - Committees
+      - [Sch. 1 para. 9](schedule/1/paragraph/9.md)
+    - Procedure and proceedings
+      - [Sch. 1 para. 10](schedule/1/paragraph/10.md)
+    - Staff
+      - [Sch. 1 para. 11](schedule/1/paragraph/11.md)
+    - Pensions
+      - [Sch. 1 para. 12](schedule/1/paragraph/12.md)
+    - Arrangements for assistance
+      - [Sch. 1 para. 13](schedule/1/paragraph/13.md)
+    - Delegation
+      - [Sch. 1 para. 14](schedule/1/paragraph/14.md)
+    - Financial provisions
+      - [Sch. 1 para. 15](schedule/1/paragraph/15.md)
+    - Accounts
+      - [Sch. 1 para. 16](schedule/1/paragraph/16.md)
+    - Reports
+      - [Sch. 1 para. 17](schedule/1/paragraph/17.md)
+    - Meaning of “financial year”
+      - [Sch. 1 para. 18](schedule/1/paragraph/18.md)
+    - Documentary evidence
+      - [Sch. 1 para. 19](schedule/1/paragraph/19.md)
+- SCHEDULE 2 Consequential amendments and transitional provision relating to Part 1
+  - Part 1 Consequential amendments to Acts of Parliament
+    - Parliamentary Commissioner Act 1967 (c. 13)
+      - [Sch. 2 para. 1](schedule/2/paragraph/1.md)
+    - Superannuation Act 1972 (c. 11)
+      - [Sch. 2 para. 2](schedule/2/paragraph/2.md)
+    - House of Commons Disqualification Act 1975 (c. 24)
+      - [Sch. 2 para. 3](schedule/2/paragraph/3.md)
+    - Northern Ireland Assembly Disqualification Act 1975 (c. 25)
+      - [Sch. 2 para. 4](schedule/2/paragraph/4.md)
+    - House of Commons (Administration) Act 1978 (c. 36)
+      - [Sch. 2 para. 5](schedule/2/paragraph/5.md)
+    - Civil Service (Management Functions) Act 1992 (c. 61)
+      - [Sch. 2 para. 6](schedule/2/paragraph/6.md)
+      - [Sch. 2 para. 7](schedule/2/paragraph/7.md)
+    - Government of Wales Act 1998 (c. 38)
+      - [Sch. 2 para. 8](schedule/2/paragraph/8.md)
+    - Scotland Act 1998 (c. 46)
+      - [Sch. 2 para. 9](schedule/2/paragraph/9.md)
+    - Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)
+      - [Sch. 2 para. 10](schedule/2/paragraph/10.md)
+    - Regulation of Investigatory Powers Act 2000 (c. 23)
+      - [Sch. 2 para. 11](schedule/2/paragraph/11.md)
+    - Freedom of Information Act 2000 (c. 36)
+      - [Sch. 2 para. 12](schedule/2/paragraph/12.md)
+    - Tax Credits Act 2002 (c. 21)
+      - [Sch. 2 para. 13](schedule/2/paragraph/13.md)
+    - Extradition Act 2003 (c. 41)
+      - [Sch. 2 para. 14](schedule/2/paragraph/14.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 2 para. 15](schedule/2/paragraph/15.md)
+    - Police and Justice Act 2006 (c. 48)
+      - [Sch. 2 para. 16](schedule/2/paragraph/16.md)
+    - Parliament (Joint Departments) Act 2007 (c. 16)
+      - [Sch. 2 para. 17](schedule/2/paragraph/17.md)
+    - Crossrail Act 2008 (c. 18)
+      - [Sch. 2 para. 18](schedule/2/paragraph/18.md)
+  - Part 2 Consequential amendments to other legislation
+    - Civil Service Orders in Council
+      - [Sch. 2 para. 19](schedule/2/paragraph/19.md)
+    - Diplomatic Service Orders in Council
+      - [Sch. 2 para. 20](schedule/2/paragraph/20.md)
+    - Servants of the Crown (Parliamentary, European Assembly and Northern Ireland Assembly Candidature) Order 1987
+      - [Sch. 2 para. 21](schedule/2/paragraph/21.md)
+    - Revenue and Customs (Complaints and Misconduct) Regulations 2005 (S.I. 2005/3311)
+      - [Sch. 2 para. 22](schedule/2/paragraph/22.md)
+      - [Sch. 2 para. 23](schedule/2/paragraph/23.md)
+    - Charities and Trustee Investment (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2006 (S.I. 2006/242)
+      - [Sch. 2 para. 24](schedule/2/paragraph/24.md)
+  - Part 3 Transitional provision relating to the Civil Service Commission
+    - Definitions
+      - [Sch. 2 para. 25](schedule/2/paragraph/25.md)
+    - Head of the old commission to become First Commissioner
+      - [Sch. 2 para. 26](schedule/2/paragraph/26.md)
+    - Restriction on period of office if First Commissioner is former head of the old commission
+      - [Sch. 2 para. 27](schedule/2/paragraph/27.md)
+    - Members of the old commission to become Commissioners
+      - [Sch. 2 para. 28](schedule/2/paragraph/28.md)
+    - Restriction on period of office for former member of old commission
+      - [Sch. 2 para. 29](schedule/2/paragraph/29.md)
+    - Audits of recruitment policies and practices
+      - [Sch. 2 para. 30](schedule/2/paragraph/30.md)
+    - Requirements to publish recruitment information
+      - [Sch. 2 para. 31](schedule/2/paragraph/31.md)
+    - Appeals by civil servants
+      - [Sch. 2 para. 32](schedule/2/paragraph/32.md)
+      - [Sch. 2 para. 33](schedule/2/paragraph/33.md)
+    - First annual report
+      - [Sch. 2 para. 34](schedule/2/paragraph/34.md)
+    - Transfer of property, rights and liabilities
+      - [Sch. 2 para. 35](schedule/2/paragraph/35.md)
+    - Information previously held by old commission
+      - [Sch. 2 para. 36](schedule/2/paragraph/36.md)
+    - Preparatory work
+      - [Sch. 2 para. 37](schedule/2/paragraph/37.md)
+  - Part 4 Other transitional provision
+    - Application of section 16(1) of the Interpretation Act 1978
+      - [Sch. 2 para. 38](schedule/2/paragraph/38.md)
+    - Power to manage the civil service
+      - [Sch. 2 para. 39](schedule/2/paragraph/39.md)
+      - [Sch. 2 para. 40](schedule/2/paragraph/40.md)
+    - Selection on merit etc
+      - [Sch. 2 para. 41](schedule/2/paragraph/41.md)
+      - [Sch. 2 para. 42](schedule/2/paragraph/42.md)
+    - Special advisers
+      - [Sch. 2 para. 43](schedule/2/paragraph/43.md)
+- SCHEDULE 3 Parliamentary Standards Act 2009: substituted Schedule 2
+- SCHEDULE 4 Parliamentary Standards Act 2009: new Schedule 4
+- SCHEDULE 5 Parliamentary standards: consequential amendments
+  - Part 1 Amendments of the Parliamentary Standards Act 2009
+    - [Sch. 5 para. 1](schedule/5/paragraph/1.md)
+    - [Sch. 5 para. 2](schedule/5/paragraph/2.md)
+    - [Sch. 5 para. 3](schedule/5/paragraph/3.md)
+    - [Sch. 5 para. 4](schedule/5/paragraph/4.md)
+    - [Sch. 5 para. 5](schedule/5/paragraph/5.md)
+    - [Sch. 5 para. 6](schedule/5/paragraph/6.md)
+    - [Sch. 5 para. 7](schedule/5/paragraph/7.md)
+  - Part 2 Amendments of other Acts
+    - European Parliament (Pay and Pensions) Act 1979 (c. 50)
+      - [Sch. 5 para. 8](schedule/5/paragraph/8.md)
+    - Parliamentary and other Pensions Act 1987 (c. 45)
+      - [Sch. 5 para. 9](schedule/5/paragraph/9.md)
+    - Ministerial and other Pensions and Salaries Act 1991 (c. 5)
+      - [Sch. 5 para. 10](schedule/5/paragraph/10.md)
+    - Scotland Act 1998 (c. 46)
+      - [Sch. 5 para. 11](schedule/5/paragraph/11.md)
+    - Government of Wales Act 2006 (c. 32)
+      - [Sch. 5 para. 12](schedule/5/paragraph/12.md)
+- SCHEDULE 6 Parliamentary and other pensions
+  - Part 1 Parliamentary and other pensions
+    - The Parliamentary Contributory Pension Fund etc
+      - Continuance of Fund
+        - [Sch. 6 para. 1](schedule/6/paragraph/1.md)
+      - Number and composition of trustees
+        - [Sch. 6 para. 2](schedule/6/paragraph/2.md)
+      - Member-nominated trustees
+        - [Sch. 6 para. 3](schedule/6/paragraph/3.md)
+      - Remuneration
+        - [Sch. 6 para. 4](schedule/6/paragraph/4.md)
+      - Resignation and removal of trustees
+        - [Sch. 6 para. 5](schedule/6/paragraph/5.md)
+      - Proceedings
+        - [Sch. 6 para. 6](schedule/6/paragraph/6.md)
+      - Powers of trustees
+        - [Sch. 6 para. 7](schedule/6/paragraph/7.md)
+      - Administration scheme
+        - [Sch. 6 para. 8](schedule/6/paragraph/8.md)
+      - Procedure for administration scheme
+        - [Sch. 6 para. 9](schedule/6/paragraph/9.md)
+      - Exchequer contribution to Fund
+        - [Sch. 6 para. 10](schedule/6/paragraph/10.md)
+      - Power to determine Exchequer contribution
+        - [Sch. 6 para. 11](schedule/6/paragraph/11.md)
+    - MPs’ pension scheme
+      - MPs’ pension scheme
+        - [Sch. 6 para. 12](schedule/6/paragraph/12.md)
+      - Meaning of “service as a member of the House of Commons”
+        - [Sch. 6 para. 13](schedule/6/paragraph/13.md)
+      - MPs’ pension scheme: further provision
+        - [Sch. 6 para. 14](schedule/6/paragraph/14.md)
+      - Procedure for MPs’ pension scheme
+        - [Sch. 6 para. 15](schedule/6/paragraph/15.md)
+    - Ministers’ etc pension scheme
+      - Ministers’ etc pension scheme
+        - [Sch. 6 para. 16](schedule/6/paragraph/16.md)
+      - Ministers’ etc pension scheme: further provision
+        - [Sch. 6 para. 17](schedule/6/paragraph/17.md)
+      - Procedure for Ministers’ etc pension scheme
+        - [Sch. 6 para. 18](schedule/6/paragraph/18.md)
+    - Supplementary provision
+      - Protection of accrued rights
+        - [Sch. 6 para. 19](schedule/6/paragraph/19.md)
+      - Meaning of “accrued right”
+        - [Sch. 6 para. 20](schedule/6/paragraph/20.md)
+      - Power to make consequential amendments
+        - [Sch. 6 para. 21](schedule/6/paragraph/21.md)
+      - Interpretation etc
+        - [Sch. 6 para. 22](schedule/6/paragraph/22.md)
+  - Part 2 Provision which may be included in schemes
+    - Introductory
+      - [Sch. 6 para. 23](schedule/6/paragraph/23.md)
+    - Contributions
+      - [Sch. 6 para. 24](schedule/6/paragraph/24.md)
+    - Conditions etc
+      - [Sch. 6 para. 25](schedule/6/paragraph/25.md)
+    - Pensions not paid out of Fund
+      - [Sch. 6 para. 26](schedule/6/paragraph/26.md)
+    - Transfer values
+      - [Sch. 6 para. 27](schedule/6/paragraph/27.md)
+    - Service
+      - [Sch. 6 para. 28](schedule/6/paragraph/28.md)
+    - Repayments
+      - [Sch. 6 para. 29](schedule/6/paragraph/29.md)
+    - Pension age
+      - [Sch. 6 para. 29A](schedule/6/paragraph/29A.md)
+    - Assignment etc
+      - [Sch. 6 para. 30](schedule/6/paragraph/30.md)
+    - Functions
+      - [Sch. 6 para. 31](schedule/6/paragraph/31.md)
+    - Approvals
+      - [Sch. 6 para. 32](schedule/6/paragraph/32.md)
+    - Payments without probate
+      - [Sch. 6 para. 33](schedule/6/paragraph/33.md)
+    - Application of other provisions
+      - [Sch. 6 para. 34](schedule/6/paragraph/34.md)
+  - Part 3 Amendments, transitional provision etc
+    - Pensions (Increase) Act 1971 (c. 56)
+      - [Sch. 6 para. 35](schedule/6/paragraph/35.md)
+    - Parliamentary and other Pensions Act 1972 (c. 48)
+      - [Sch. 6 para. 36](schedule/6/paragraph/36.md)
+      - [Sch. 6 para. 37](schedule/6/paragraph/37.md)
+    - European Parliament (Pay and Pensions) Act 1979 (c. 50)
+      - [Sch. 6 para. 38](schedule/6/paragraph/38.md)
+      - [Sch. 6 para. 39](schedule/6/paragraph/39.md)
+      - [Sch. 6 para. 40](schedule/6/paragraph/40.md)
+      - [Sch. 6 para. 41](schedule/6/paragraph/41.md)
+    - House of Commons Members’ Fund and Parliamentary Pensions Act 1981 (c. 7)
+      - [Sch. 6 para. 42](schedule/6/paragraph/42.md)
+    - Parliamentary and other Pensions Act 1987 (c. 45)
+      - [Sch. 6 para. 43](schedule/6/paragraph/43.md)
+      - [Sch. 6 para. 44](schedule/6/paragraph/44.md)
+    - Ministerial and other Pensions and Salaries Act 1991 (c. 5)
+      - [Sch. 6 para. 45](schedule/6/paragraph/45.md)
+    - Pensions Act 2004 (c. 35)
+      - [Sch. 6 para. 46](schedule/6/paragraph/46.md)
+    - Parliamentary Standards Act 2009 (c. 13)
+      - [Sch. 6 para. 47](schedule/6/paragraph/47.md)
+      - [Sch. 6 para. 48](schedule/6/paragraph/48.md)
+    - Trustees of the Fund
+      - [Sch. 6 para. 49](schedule/6/paragraph/49.md)
+      - [Sch. 6 para. 50](schedule/6/paragraph/50.md)
+- SCHEDULE 7 Amendments of Freedom of Information Act 2000
+  - [Sch. 7 para. 1](schedule/7/paragraph/1.md)
+  - [Sch. 7 para. 2](schedule/7/paragraph/2.md)
+  - [Sch. 7 para. 3](schedule/7/paragraph/3.md)
+  - [Sch. 7 para. 4](schedule/7/paragraph/4.md)
+  - [Sch. 7 para. 5](schedule/7/paragraph/5.md)
+  - [Sch. 7 para. 6](schedule/7/paragraph/6.md)
