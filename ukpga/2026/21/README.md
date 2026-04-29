@@ -2,9 +2,9 @@
 
 2026 c. 21. Enacted 2026-04-29.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-09-30, one file per provision. This is the oldest version in this history; earlier versions are not here yet.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. This is the oldest version in this history; later versions follow it.
 
-Source: https://www.legislation.gov.uk/ukpga/2026/21/2026-09-30
+Source: https://www.legislation.gov.uk/ukpga/2026/21/2026-04-29
 
 ## Contents
 
