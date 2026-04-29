@@ -2,9 +2,9 @@
 
 2023 c. 55. Enacted 2023-10-26.
 
-The files here are the text legislation.gov.uk publishes as in force from 2026-04-14, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
+The files here are the text legislation.gov.uk publishes as in force from 2026-04-29, one file per provision. Earlier versions, from 2023-10-26, are in the history before it: `git log -- ukpga/2023/55` lists them.
 
-Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-14
+Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-29
 
 ## Contents
 
@@ -32,28 +32,45 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-14
       - [s. 11 Non-constituent members of a CCA](section/11.md)
       - [s. 12 Associate members of a CCA](section/12.md)
       - [s. 13 Regulations about members](section/13.md)
+      - [s. 13A Decision-making](section/13A.md)
+      - [s. 13B Validity of proceedings](section/13B.md)
       - [s. 14 Review of CCA’s constitutional arrangements](section/14.md)
       - [s. 15 Overview and scrutiny committees](section/15.md)
       - [s. 16 Funding](section/16.md)
       - [s. 17 Change of name](section/17.md)
+      - [s. 17A The functions of CCAs](section/17A.md)
+    - Collaboration
+      - [s. 17B Mayoral power to convene meetings with local partners](section/17B.md)
     - Functions of CCAs
       - [s. 18 Local authority functions](section/18.md)
       - [s. 19 Other public authority functions](section/19.md)
       - [s. 20 Section 19 regulations: procedure](section/20.md)
       - [s. 21 Integrated Transport Authority and Passenger Transport Executive](section/21.md)
-      - [s. 22 Directions relating to highways and traffic functions](section/22.md)
+      - [s. 22 Highways and traffic functions: regulations conferring power to give directions](section/22.md)
       - [s. 23 Contravention of regulations under section 22](section/23.md)
+      - [s. 23A Highways and traffic functions: directions by mayors](section/23A.md)
+      - [s. 23B Contraventions of section 23A](section/23B.md)
       - [s. 24 Designation of key route network roads](section/24.md)
+      - [s. 24A Health improvement and health inequalities duty](section/24A.md)
+      - [s. 24C Powers not limited by other provision or powers](section/24C.md)
+      - [s. 24D Non-mayoral CCA: consent to budget](section/24D.md)
+      - [s. 24E Non-mayoral CCA: functions imposing financial liability](section/24E.md)
     - Changes to CCAs
       - [s. 25 Changes to boundaries of a CCA’s area](section/25.md)
+      - [s. 25A Designation as an established mayoral strategic authority](section/25A.md)
       - [s. 26 Dissolution of a CCA’s area](section/26.md)
     - Mayors for CCA areas
       - [s. 27 Power to provide for election of mayor](section/27.md)
       - [s. 28 Requirements in connection with regulations under section 27](section/28.md)
       - [s. 29 Deputy mayors etc](section/29.md)
+      - [s. 29A Appointment of commissioners by the mayor](section/29A.md)
       - [s. 30 Functions of mayors: general](section/30.md)
       - [s. 31 Procedure for direct conferral of general functions on mayor](section/31.md)
       - [s. 32 Joint exercise of general functions](section/32.md)
+    - Mayoral CCAs: local growth plans
+      - [s. 32A Local growth plans](section/32A.md)
+      - [s. 32B Secretary of State guidance on local growth plans](section/32B.md)
+      - [s. 32C Public authorities: duty to have regard to shared local growth priorities](section/32C.md)
     - Police and crime and fire and rescue functions
       - [s. 33 Functions of mayors: policing](section/33.md)
       - [s. 34 Exercise of fire and rescue functions](section/34.md)
@@ -70,15 +87,19 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-14
       - [s. 43 Alternative mayoral titles: further changes](section/43.md)
       - [s. 44 Power to amend list of alternative titles](section/44.md)
     - Requirements in connection with regulations about CCAs
-      - [s. 45 Proposal for new CCA](section/45.md)
+      - [s. 45 Proposal for new CCA (locally led)](section/45.md)
       - [s. 46 Requirements in connection with establishment of CCA](section/46.md)
-      - [s. 47 Proposal for changes to existing arrangements relating to CCA](section/47.md)
+      - [s. 47 Proposal for changes to existing arrangements relating to CCA (locally led)](section/47.md)
       - [s. 48 Requirements for changes to existing arrangements relating to CCA](section/48.md)
+      - [s. 48A Requirements in connection with boundary changes or dissolution of CCA](section/48A.md)
+      - [s. 48B Relevant consenting authorities in relation to regulations under section 25](section/48B.md)
+      - [s. 48C Relevant consenting authorities in relation to regulations under section 26](section/48C.md)
     - General powers of CCAs
       - [s. 49 General power of CCA](section/49.md)
       - [s. 50 Boundaries of power under section 49](section/50.md)
       - [s. 51 Power to make provision supplemental to section 49](section/51.md)
-      - [s. 52 General power of competence](section/52.md)
+      - [s. 52](section/52.md)
+      - [s. 52A Allowances for members with special responsibilities](section/52A.md)
     - Supplementary
       - [s. 53 Incidental etc provision](section/53.md)
       - [s. 54 Transfer of property, rights and liabilities](section/54.md)
@@ -357,6 +378,18 @@ Source: https://www.legislation.gov.uk/ukpga/2023/55/2026-04-14
   - [Sch. 2 para. 10 Qualification and disqualification](schedule/2/paragraph/10.md)
   - [Sch. 2 para. 11 Qualification and disqualification](schedule/2/paragraph/11.md)
   - [Sch. 2 para. 12 Power to make further provision](schedule/2/paragraph/12.md)
+- Schedule 2A Commissioners
+  - [Sch. 2A para. 1 Application of Schedule](schedule/2A/paragraph/1.md)
+  - [Sch. 2A para. 2 Persons ineligible for appointment](schedule/2A/paragraph/2.md)
+  - [Sch. 2A para. 3 Terms and conditions of appointment](schedule/2A/paragraph/3.md)
+  - [Sch. 2A para. 4 Commissioner to work in only one area of competence](schedule/2A/paragraph/4.md)
+  - [Sch. 2A para. 5 Duration of appointment](schedule/2A/paragraph/5.md)
+  - [Sch. 2A para. 6 Limitation on delegation of functions](schedule/2A/paragraph/6.md)
+  - [Sch. 2A para. 7 Allowances](schedule/2A/paragraph/7.md)
+  - [Sch. 2A para. 8 Ending of appointment](schedule/2A/paragraph/8.md)
+  - [Sch. 2A para. 9 Role of overview and scrutiny committees](schedule/2A/paragraph/9.md)
+  - [Sch. 2A para. 10 Powers of appointment and termination exercisable on behalf of the CCA](schedule/2A/paragraph/10.md)
+  - [Sch. 2A para. 11 Guidance](schedule/2A/paragraph/11.md)
 - Schedule 3 Mayors for combined county authority Areas: PCC functions
   - [Sch. 3 para. 1 Introductory](schedule/3/paragraph/1.md)
   - [Sch. 3 para. 2 PCC functions exercisable by the mayor](schedule/3/paragraph/2.md)
